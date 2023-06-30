@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688102283377,
+  "endTime": 1688103275735,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2027560,
+      "num": 2027560,
+      "word": "奔跑吧今天播不播",
+      "onboard_time": 1688100275,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1985909,
       "num": 1160980,
       "word": "LPL大瓜",
       "onboard_time": 1688053602,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1923003,
-      "num": 1923003,
-      "word": "奔跑吧今天播不播",
-      "onboard_time": 1688100275,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1918679,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1131931,
+      "num": 1131931,
+      "word": "秋瓷炫淘汰全场大哭",
+      "onboard_time": 1688102254,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1113749,
       "num": 1113749,
       "word": "四胞胎高考出分父亲给警察打电话报喜",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 996237,
-      "num": 395999,
+      "num": 400320,
       "word": "指甲上很多洞洞是什么病啊",
       "onboard_time": 1688098475,
       "rank": 21,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 669624,
-      "num": 601921,
+      "num": 665431,
       "word": "杨雪杨颖暮色心约演母女",
       "onboard_time": 1688098535,
       "rank": 30,
@@ -459,20 +467,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531616,
+      "num": 458383,
+      "word": "柳智敏最新ins",
+      "onboard_time": 1688098359,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530503,
       "num": 510906,
       "word": "夫家虚构700万债务逼女子净身出户",
       "onboard_time": 1688088693,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528396,
-      "num": 438955,
-      "word": "柳智敏最新ins",
-      "onboard_time": 1688098359,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 524020,
@@ -611,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412522,
+      "num": 383919,
+      "word": "如何评价肖战的演唱水准",
+      "onboard_time": 1688101237,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409582,
       "num": 409582,
       "word": "学霸情侣本科毕业齐直博被校长写进致辞",
@@ -627,8 +643,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404123,
-      "num": 404123,
+      "raw_hot": 408915,
+      "num": 408915,
       "word": "公路上和大熊猫偶遇还对视谁懂啊",
       "onboard_time": 1688093373,
       "rank": 35,
@@ -659,19 +675,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379211,
+      "num": 379211,
+      "word": "中南大学一宿舍边上百台自行车被丢弃",
+      "onboard_time": 1688099377,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 374074,
       "num": 374074,
       "word": "陈松伶汪小敏合唱笑看风云",
       "onboard_time": 1688055096,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 369632,
-      "num": 369632,
-      "word": "如何评价肖战的演唱水准",
-      "onboard_time": 1688101237,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -681,14 +697,6 @@
       "onboard_time": 1688027077,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367705,
-      "num": 367705,
-      "word": "中南大学一宿舍边上百台自行车被丢弃",
-      "onboard_time": 1688099377,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 360668,
@@ -723,8 +731,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346706,
-      "num": 229980,
+      "raw_hot": 347348,
+      "num": 347348,
       "word": "赵今麦波点纱裙",
       "onboard_time": 1688100036,
       "rank": 35,
@@ -851,6 +859,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280792,
+      "num": 280792,
+      "word": "vampire",
+      "onboard_time": 1688101654,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 272285,
+      "num": 272285,
+      "word": "Ella说芝芙中文超过蔡少芬了",
+      "onboard_time": 1688102134,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263372,
       "num": 263372,
       "word": "爸妈 该处还得处",
@@ -891,12 +915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245664,
+      "num": 316076,
+      "word": "MLB美职棒大联盟",
+      "onboard_time": 1688102254,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244602,
       "num": 590227,
       "word": "背帆布包上班被同事阴阳了",
       "onboard_time": 1688037573,
       "rank": 24,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 243424,
+      "num": 206958,
+      "word": "Ella终于第一了",
+      "onboard_time": 1688102974,
+      "rank": 41,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 238750,
@@ -931,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224011,
-      "num": 206841,
-      "word": "Ella说芝芙中文超过蔡少芬了",
-      "onboard_time": 1688102134,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219295,
       "num": 633785,
       "word": "为什么火锅价格越来越贵了",
@@ -953,14 +985,6 @@
       "onboard_time": 1688086115,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 213350,
-      "num": 204243,
-      "word": "秋瓷炫淘汰全场大哭",
-      "onboard_time": 1688102254,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 209256,
@@ -985,14 +1009,6 @@
       "onboard_time": 1688086594,
       "rank": 35,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 196707,
-      "num": 196707,
-      "word": "vampire",
-      "onboard_time": 1688101654,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 196231,
@@ -1089,14 +1105,6 @@
       "onboard_time": 1688096616,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175691,
-      "num": 175691,
-      "word": "MLB美职棒大联盟",
-      "onboard_time": 1688102254,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 169668,
@@ -1227,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123215,
+      "num": 486523,
+      "word": "澳大利亚顶流原来是它",
+      "onboard_time": 1688094037,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122089,
       "num": 345481,
       "word": "一根辣条毁了我的事业",
@@ -1235,12 +1251,28 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 115635,
+      "num": 206836,
+      "word": "审美是最诚实的",
+      "onboard_time": 1688103212,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 109377,
       "num": 112426,
       "word": "82版西游记主创想为群众演员补全署名",
       "onboard_time": 1688065515,
       "rank": 9,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 109094,
+      "num": 1241030,
+      "word": "这批新规7月开始施行",
+      "onboard_time": 1688101117,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105425,
@@ -1299,28 +1331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83494,
-      "num": 1241030,
-      "word": "这批新规7月开始施行",
-      "onboard_time": 1688101117,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82239,
       "num": 50626,
       "word": "田柾国将solo出道",
       "onboard_time": 1688065274,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 75242,
-      "num": 445061,
-      "word": "澳大利亚顶流原来是它",
-      "onboard_time": 1688094037,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44209,
@@ -1370,6 +1386,9 @@
     },
     {
       "word": "#习近平将出席上海合作组织成员国元首理事会第二十三次会议#"
+    },
+    {
+      "word": "#庆祝建党102周年#"
     }
   ]
 }

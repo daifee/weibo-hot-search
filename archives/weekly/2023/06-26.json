@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688102283377,
+  "endTime": 1688103275735,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2027560,
+      "num": 2027560,
+      "word": "奔跑吧今天播不播",
+      "onboard_time": 1688100275,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2026421,
       "num": 945169,
       "word": "蓝正龙周幼婷被曝离婚",
@@ -745,14 +753,6 @@
       "onboard_time": 1687870123,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1923003,
-      "num": 1923003,
-      "word": "奔跑吧今天播不播",
-      "onboard_time": 1688100275,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1918679,
@@ -1587,6 +1587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1131931,
+      "num": 1131931,
+      "word": "秋瓷炫淘汰全场大哭",
+      "onboard_time": 1688102254,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1131365,
       "num": 797464,
       "word": "二十三岁的恋爱",
@@ -1892,7 +1900,7 @@
     },
     {
       "raw_hot": 996237,
-      "num": 395999,
+      "num": 400320,
       "word": "指甲上很多洞洞是什么病啊",
       "onboard_time": 1688098475,
       "rank": 21,
@@ -3036,7 +3044,7 @@
     },
     {
       "raw_hot": 669624,
-      "num": 601921,
+      "num": 665431,
       "word": "杨雪杨颖暮色心约演母女",
       "onboard_time": 1688098535,
       "rank": 30,
@@ -3955,20 +3963,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531616,
+      "num": 458383,
+      "word": "柳智敏最新ins",
+      "onboard_time": 1688098359,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530503,
       "num": 510906,
       "word": "夫家虚构700万债务逼女子净身出户",
       "onboard_time": 1688088693,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528396,
-      "num": 438955,
-      "word": "柳智敏最新ins",
-      "onboard_time": 1688098359,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 527553,
@@ -4979,6 +4987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 412522,
+      "num": 383919,
+      "word": "如何评价肖战的演唱水准",
+      "onboard_time": 1688101237,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412441,
       "num": 310932,
       "word": "看完消失的她 女孩一定要牢记",
@@ -5043,6 +5059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408915,
+      "num": 408915,
+      "word": "公路上和大熊猫偶遇还对视谁懂啊",
+      "onboard_time": 1688093373,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408896,
       "num": 408896,
       "word": "偷偷藏不住",
@@ -5073,14 +5097,6 @@
       "onboard_time": 1687857582,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 404123,
-      "num": 404123,
-      "word": "公路上和大熊猫偶遇还对视谁懂啊",
-      "onboard_time": 1688093373,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404002,
@@ -5403,6 +5419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 379211,
+      "num": 379211,
+      "word": "中南大学一宿舍边上百台自行车被丢弃",
+      "onboard_time": 1688099377,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 378939,
       "num": 378939,
       "word": "一让在让",
@@ -5545,22 +5569,6 @@
       "onboard_time": 1687759799,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 369632,
-      "num": 369632,
-      "word": "如何评价肖战的演唱水准",
-      "onboard_time": 1688101237,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 367705,
-      "num": 367705,
-      "word": "中南大学一宿舍边上百台自行车被丢弃",
-      "onboard_time": 1688099377,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 367325,
@@ -5739,20 +5747,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347348,
+      "num": 347348,
+      "word": "赵今麦波点纱裙",
+      "onboard_time": 1688100036,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 347086,
       "num": 347086,
       "word": "孩子生病爸爸打110报警请求超速",
       "onboard_time": 1688003374,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346706,
-      "num": 229980,
-      "word": "赵今麦波点纱裙",
-      "onboard_time": 1688100036,
-      "rank": 35,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 346633,
@@ -7075,6 +7083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280792,
+      "num": 280792,
+      "word": "vampire",
+      "onboard_time": 1688101654,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279569,
       "num": 299959,
       "word": "旅游再也不想给家人买东西了",
@@ -7201,6 +7217,14 @@
       "onboard_time": 1688029418,
       "rank": 40,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 272285,
+      "num": 272285,
+      "word": "Ella说芝芙中文超过蔡少芬了",
+      "onboard_time": 1688102134,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 272045,
@@ -7827,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245664,
+      "num": 316076,
+      "word": "MLB美职棒大联盟",
+      "onboard_time": 1688102254,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245391,
       "num": 245391,
       "word": "父母职业会影响你的高考志愿吗",
@@ -7889,6 +7921,14 @@
       "onboard_time": 1688006610,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243424,
+      "num": 206958,
+      "word": "Ella终于第一了",
+      "onboard_time": 1688102974,
+      "rank": 41,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 243210,
@@ -8363,14 +8403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224011,
-      "num": 206841,
-      "word": "Ella说芝芙中文超过蔡少芬了",
-      "onboard_time": 1688102134,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223437,
       "num": 223437,
       "word": "新玩具成功引起了丫丫的注意",
@@ -8681,14 +8713,6 @@
       "onboard_time": 1687957117,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 213350,
-      "num": 204243,
-      "word": "秋瓷炫淘汰全场大哭",
-      "onboard_time": 1688102254,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 213198,
@@ -9185,14 +9209,6 @@
       "onboard_time": 1687740393,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196707,
-      "num": 196707,
-      "word": "vampire",
-      "onboard_time": 1688101654,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 196549,
@@ -9928,14 +9944,6 @@
       "word": "中国女篮",
       "onboard_time": 1687756511,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 175691,
-      "num": 175691,
-      "word": "MLB美职棒大联盟",
-      "onboard_time": 1688102254,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -10819,6 +10827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123215,
+      "num": 486523,
+      "word": "澳大利亚顶流原来是它",
+      "onboard_time": 1688094037,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120932,
       "num": 120932,
       "word": "全网寻找鲁HES73挂大货车司机",
@@ -10897,6 +10913,14 @@
       "onboard_time": 1687775985,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115635,
+      "num": 206836,
+      "word": "审美是最诚实的",
+      "onboard_time": 1688103212,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 115254,
@@ -10985,6 +11009,14 @@
       "onboard_time": 1688065515,
       "rank": 9,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 109094,
+      "num": 1241030,
+      "word": "这批新规7月开始施行",
+      "onboard_time": 1688101117,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108957,
@@ -11211,14 +11243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83494,
-      "num": 1241030,
-      "word": "这批新规7月开始施行",
-      "onboard_time": 1688101117,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83210,
       "num": 84936,
       "word": "杭州比格犬耳朵卡入碎纸机被救出",
@@ -11249,14 +11273,6 @@
       "onboard_time": 1687693894,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75242,
-      "num": 445061,
-      "word": "澳大利亚顶流原来是它",
-      "onboard_time": 1688094037,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74757,
@@ -11681,6 +11697,9 @@
     },
     {
       "word": "#习近平将出席上海合作组织成员国元首理事会第二十三次会议#"
+    },
+    {
+      "word": "#庆祝建党102周年#"
     }
   ]
 }
