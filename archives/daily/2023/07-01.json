@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688142249351,
+  "endTime": 1688143217178,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -27,8 +27,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1253024,
-      "num": 1253024,
+      "raw_hot": 1299221,
+      "num": 1299221,
       "word": "越南一位老人50年没睡觉",
       "onboard_time": 1688139821,
       "rank": 4,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1066043,
-      "num": 655267,
+      "num": 832063,
       "word": "白敬亭是有牵手肌肉记忆吗",
       "onboard_time": 1688133156,
       "rank": 6,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1002633,
-      "num": 378626,
+      "num": 392413,
       "word": "裸体男子在女浴室待8分钟称误入",
       "onboard_time": 1688139218,
       "rank": 20,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 970243,
-      "num": 507010,
+      "num": 632536,
       "word": "这和官宣有什么差别",
       "onboard_time": 1688136704,
       "rank": 9,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 916281,
-      "num": 502825,
+      "num": 604266,
       "word": "第一次嗑内娱cp",
       "onboard_time": 1688121397,
       "rank": 12,
@@ -68,15 +68,23 @@
     },
     {
       "raw_hot": 883481,
-      "num": 504857,
+      "num": 766612,
       "word": "奔跑吧延期播出",
       "onboard_time": 1688121335,
       "rank": 10,
       "category": "综艺"
     },
     {
+      "raw_hot": 850343,
+      "num": 850343,
+      "word": "山东大学拟聘用2名硕士为公寓管理员",
+      "onboard_time": 1688139105,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823565,
-      "num": 504602,
+      "num": 632331,
       "word": "李现周杰伦花海大合唱",
       "onboard_time": 1688137303,
       "rank": 11,
@@ -91,11 +99,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 649420,
-      "num": 649420,
-      "word": "山东大学拟聘用2名硕士为公寓管理员",
-      "onboard_time": 1688139105,
-      "rank": 7,
+      "raw_hot": 632695,
+      "num": 632695,
+      "word": "男子颈部插着切割机警车狂飙10分钟",
+      "onboard_time": 1688132679,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -107,12 +115,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 627572,
+      "num": 627572,
+      "word": "seventeen官宣TMEA",
+      "onboard_time": 1688141616,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 574856,
       "num": 497879,
       "word": "曝汪姓男艺人性侵19岁女子",
       "onboard_time": 1688105910,
       "rank": 15,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 568219,
+      "num": 568219,
+      "word": "其实世界上有很多情侣根本不熟",
+      "onboard_time": 1688138863,
+      "rank": 14,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 563241,
@@ -124,19 +148,11 @@
     },
     {
       "raw_hot": 536401,
-      "num": 371034,
+      "num": 386930,
       "word": "赵丽颖回复谢娜",
       "onboard_time": 1688132379,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 535330,
-      "num": 499130,
-      "word": "其实世界上有很多情侣根本不熟",
-      "onboard_time": 1688138863,
-      "rank": 14,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 507882,
@@ -145,14 +161,6 @@
       "onboard_time": 1688137060,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 495390,
-      "num": 495390,
-      "word": "男子颈部插着切割机警车狂飙10分钟",
-      "onboard_time": 1688132679,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 448877,
@@ -177,14 +185,6 @@
       "onboard_time": 1688131777,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375405,
-      "num": 276882,
-      "word": "seventeen官宣TMEA",
-      "onboard_time": 1688141616,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 375336,
@@ -251,6 +251,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 279162,
+      "num": 252386,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1688141375,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271105,
       "num": 225736,
       "word": "李现把周杰伦to签穿身上",
@@ -259,8 +267,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 257173,
-      "num": 232303,
+      "raw_hot": 266463,
+      "num": 266463,
       "word": "什么病人明明是我本人",
       "onboard_time": 1688139760,
       "rank": 33,
@@ -331,12 +339,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200317,
+      "num": 200317,
+      "word": "五险一金为什么重要",
+      "onboard_time": 1688128298,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194588,
       "num": 194588,
       "word": "一梦江湖",
       "onboard_time": 1688136760,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190221,
+      "num": 190221,
+      "word": "开业14年的顶流私房菜",
+      "onboard_time": 1688141375,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 187154,
@@ -355,28 +379,20 @@
       "category": "科技,幽默"
     },
     {
-      "raw_hot": 180777,
-      "num": 180777,
-      "word": "五险一金为什么重要",
-      "onboard_time": 1688128298,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 178896,
-      "num": 178896,
+      "raw_hot": 181481,
+      "num": 236600,
       "word": "18岁大学生为克服口吃在公交车上演讲",
       "onboard_time": 1688136221,
       "rank": 46,
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 176634,
-      "num": 176634,
-      "word": "开业14年的顶流私房菜",
-      "onboard_time": 1688141375,
-      "rank": 47,
-      "category": "美食"
+      "raw_hot": 172388,
+      "num": 172388,
+      "word": "小S风波后录制节目",
+      "onboard_time": 1688127336,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 147179,
@@ -395,7 +411,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63037,
+      "raw_hot": 105642,
+      "num": 130801,
+      "word": "首饰掉便池男子心急去捞又卡手",
+      "onboard_time": 1688142270,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98378,
       "num": 1420705,
       "word": "中国制造在土耳其火了",
       "onboard_time": 1688129254,
