@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688109423057,
+  "endTime": 1688110437898,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7225276,
+      "num": 7225276,
+      "word": "曝汪姓男艺人性侵19岁女子",
+      "onboard_time": 1688105910,
+      "rank": 30,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 6319424,
       "num": 1792166,
       "word": "陈建州 你范范姐就很不爱这种事啊",
@@ -73,14 +81,6 @@
       "onboard_time": 1688024857,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 4605028,
-      "num": 4605028,
-      "word": "曝汪姓男艺人性侵19岁女子",
-      "onboard_time": 1688105910,
-      "rank": 30,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 4485968,
@@ -1219,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1389343,
+      "num": 1389343,
+      "word": "文咏珊笑的好像妍珍找厕所",
+      "onboard_time": 1688108675,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1381360,
       "num": 1027402,
       "word": "孟美岐说要放下以前的包袱",
@@ -2153,14 +2161,6 @@
       "onboard_time": 1687995449,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 927044,
-      "num": 927044,
-      "word": "文咏珊笑的好像妍珍找厕所",
-      "onboard_time": 1688108675,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 924923,
@@ -4179,6 +4179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 510893,
+      "num": 510893,
+      "word": "胖东来",
+      "onboard_time": 1688109633,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510774,
       "num": 877212,
       "word": "如果不工作5万可以用多久",
@@ -4457,6 +4465,14 @@
       "onboard_time": 1687964742,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 475505,
+      "num": 268940,
+      "word": "教授称中国并不存在房贷压力大的问题",
+      "onboard_time": 1688110054,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473691,
@@ -5571,6 +5587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375940,
+      "num": 375940,
+      "word": "肖战上班vs下班",
+      "onboard_time": 1688109455,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374684,
       "num": 374684,
       "word": "萧敬腾伴郎团会有谁",
@@ -5883,6 +5907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344891,
+      "num": 268302,
+      "word": "汪建民",
+      "onboard_time": 1688110054,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344063,
       "num": 390833,
       "word": "张雪峰专业推荐 实用主义取向",
@@ -6081,6 +6113,14 @@
       "onboard_time": 1687769205,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 333521,
+      "num": 267753,
+      "word": "大小S姑姑力挺陈建州范玮琪",
+      "onboard_time": 1688110175,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 333008,
@@ -6289,6 +6329,14 @@
       "onboard_time": 1687839046,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 324121,
+      "num": 267425,
+      "word": "偷偷藏不住连休3天",
+      "onboard_time": 1688108553,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 323783,
@@ -7523,6 +7571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266526,
+      "num": 266526,
+      "word": "怀孕后子宫体积能增大多少",
+      "onboard_time": 1688109757,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 266386,
       "num": 237488,
       "word": "歌手演出时发病粉丝帮忙大合唱",
@@ -8459,14 +8515,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 226188,
-      "num": 226188,
-      "word": "偷偷藏不住连休3天",
-      "onboard_time": 1688108553,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226023,
       "num": 226023,
       "word": "妈妈总是在向我的童年道歉",
@@ -8721,6 +8769,14 @@
       "onboard_time": 1687779039,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217642,
+      "num": 217642,
+      "word": "朱一龙倪妮VOGUEfilm短片",
+      "onboard_time": 1688107954,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 217452,
@@ -9171,6 +9227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202056,
+      "num": 180443,
+      "word": "汪建民友人发声",
+      "onboard_time": 1688110116,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201912,
       "num": 201912,
       "word": "石头赶路",
@@ -9281,6 +9345,14 @@
       "onboard_time": 1687833338,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198490,
+      "num": 176891,
+      "word": "红楼梦",
+      "onboard_time": 1688110054,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 198384,
@@ -9553,14 +9625,6 @@
       "onboard_time": 1687757829,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 191226,
-      "num": 177283,
-      "word": "朱一龙倪妮VOGUEfilm短片",
-      "onboard_time": 1688107954,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191139,
@@ -9905,6 +9969,14 @@
       "onboard_time": 1688041657,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182916,
+      "num": 182916,
+      "word": "高铁回应网传旅客用热水泼小孩",
+      "onboard_time": 1688109156,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182236,
@@ -10329,6 +10401,14 @@
       "onboard_time": 1687861238,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 162335,
+      "num": 162335,
+      "word": "Angelababy谈自己的初恋",
+      "onboard_time": 1688110416,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 162259,
@@ -11131,14 +11211,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 114455,
-      "num": 130920,
-      "word": "高铁回应网传旅客用热水泼小孩",
-      "onboard_time": 1688109156,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114418,
       "num": 139744,
       "word": "这蛋包饭炒得也太秀了",
@@ -11795,6 +11867,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 27528,
+      "num": 407832,
+      "word": "三轮侧翻公交司乘集体抬车救人",
+      "onboard_time": 1688109393,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27472,
       "num": 27472,
       "word": "朱一龙演何非用笔练面部抽搐",
@@ -11840,14 +11920,6 @@
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5014,
-      "num": 399676,
-      "word": "三轮侧翻公交司乘集体抬车救人",
-      "onboard_time": 1688109393,
-      "rank": 14,
       "category": "社会新闻"
     }
   ],

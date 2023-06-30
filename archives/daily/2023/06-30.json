@@ -1,7 +1,15 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688109423057,
+  "endTime": 1688110437898,
   "band_list": [
+    {
+      "raw_hot": 7225276,
+      "num": 7225276,
+      "word": "曝汪姓男艺人性侵19岁女子",
+      "onboard_time": 1688105910,
+      "rank": 30,
+      "category": "艺人,社会新闻"
+    },
     {
       "raw_hot": 6656344,
       "num": 6656344,
@@ -9,14 +17,6 @@
       "onboard_time": 1688051809,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 4605028,
-      "num": 4605028,
-      "word": "曝汪姓男艺人性侵19岁女子",
-      "onboard_time": 1688105910,
-      "rank": 30,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2768908,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1389343,
+      "num": 1389343,
+      "word": "文咏珊笑的好像妍珍找厕所",
+      "onboard_time": 1688108675,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1381360,
       "num": 1027402,
       "word": "孟美岐说要放下以前的包袱",
@@ -264,14 +272,6 @@
       "word": "关晓彤这腿",
       "onboard_time": 1688047425,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 927044,
-      "num": 927044,
-      "word": "文咏珊笑的好像妍珍找厕所",
-      "onboard_time": 1688108675,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -595,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 510893,
+      "num": 510893,
+      "word": "胖东来",
+      "onboard_time": 1688109633,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509477,
       "num": 403524,
       "word": "曾黎声援辛芷蕾",
@@ -625,6 +633,14 @@
       "onboard_time": 1688055274,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 475505,
+      "num": 268940,
+      "word": "教授称中国并不存在房贷压力大的问题",
+      "onboard_time": 1688110054,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468714,
@@ -755,6 +771,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 375940,
+      "num": 375940,
+      "word": "肖战上班vs下班",
+      "onboard_time": 1688109455,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374074,
       "num": 374074,
       "word": "陈松伶汪小敏合唱笑看风云",
@@ -819,6 +843,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 344891,
+      "num": 268302,
+      "word": "汪建民",
+      "onboard_time": 1688110054,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342231,
       "num": 342231,
       "word": "舞台2023",
@@ -841,6 +873,14 @@
       "onboard_time": 1688106812,
       "rank": 34,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 333521,
+      "num": 267753,
+      "word": "大小S姑姑力挺陈建州范玮琪",
+      "onboard_time": 1688110175,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 331542,
@@ -873,6 +913,14 @@
       "onboard_time": 1688092772,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 324121,
+      "num": 267425,
+      "word": "偷偷藏不住连休3天",
+      "onboard_time": 1688108553,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 322890,
@@ -1011,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266526,
+      "num": 266526,
+      "word": "怀孕后子宫体积能增大多少",
+      "onboard_time": 1688109757,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 263372,
       "num": 263372,
       "word": "爸妈 该处还得处",
@@ -1075,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226188,
-      "num": 226188,
-      "word": "偷偷藏不住连休3天",
-      "onboard_time": 1688108553,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226023,
       "num": 226023,
       "word": "妈妈总是在向我的童年道歉",
@@ -1107,6 +1155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 217642,
+      "num": 217642,
+      "word": "朱一龙倪妮VOGUEfilm短片",
+      "onboard_time": 1688107954,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 214790,
       "num": 214790,
       "word": "做一个心里富裕的小孩",
@@ -1129,6 +1185,22 @@
       "onboard_time": 1688054437,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202056,
+      "num": 180443,
+      "word": "汪建民友人发声",
+      "onboard_time": 1688110116,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198490,
+      "num": 176891,
+      "word": "红楼梦",
+      "onboard_time": 1688110054,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 197155,
@@ -1187,14 +1259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191226,
-      "num": 177283,
-      "word": "朱一龙倪妮VOGUEfilm短片",
-      "onboard_time": 1688107954,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 189082,
       "num": 189082,
       "word": "微博手机影像年",
@@ -1251,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182916,
+      "num": 182916,
+      "word": "高铁回应网传旅客用热水泼小孩",
+      "onboard_time": 1688109156,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169668,
       "num": 206685,
       "word": "大主宰年番开播",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1688083713,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162335,
+      "num": 162335,
+      "word": "Angelababy谈自己的初恋",
+      "onboard_time": 1688110416,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 160463,
@@ -1443,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114455,
-      "num": 130920,
-      "word": "高铁回应网传旅客用热水泼小孩",
-      "onboard_time": 1688109156,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109377,
       "num": 112426,
       "word": "82版西游记主创想为群众演员补全署名",
@@ -1563,19 +1635,19 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 27528,
+      "num": 407832,
+      "word": "三轮侧翻公交司乘集体抬车救人",
+      "onboard_time": 1688109393,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7152,
       "num": 1627510,
       "word": "2023年中国网络文明大会新闻发布会",
       "onboard_time": 1688020476,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5014,
-      "num": 399676,
-      "word": "三轮侧翻公交司乘集体抬车救人",
-      "onboard_time": 1688109393,
-      "rank": 14,
       "category": "社会新闻"
     }
   ],
