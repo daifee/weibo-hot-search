@@ -1,0 +1,410 @@
+{
+  "runTime": 1688121427529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3895129,
+        "num": 3895129,
+        "word": "胖东来",
+        "onboard_time": 1688109633,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044547,
+        "num": 2219964,
+        "word": "爸爸用15元买了孩子一下午的快乐",
+        "onboard_time": 1688111197,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 49352,
+        "num": 1972145,
+        "word": "上半年最后一天",
+        "onboard_time": 1688082329,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1950180,
+        "num": 1950180,
+        "word": "白敬亭宋轶同框",
+        "onboard_time": 1688113056,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499792,
+        "num": 1875301,
+        "word": "孕妻身体不适丈夫产房外哭泣守护",
+        "onboard_time": 1688111797,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1873471,
+        "num": 1873471,
+        "word": "奔跑吧今天播不播",
+        "onboard_time": 1688100275,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465709,
+        "num": 1555641,
+        "word": "堂哥失联7年堂弟报警后奇迹发生",
+        "onboard_time": 1688119954,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1339375,
+        "num": 1339375,
+        "word": "浙江卫视节目单奔跑吧泰国篇",
+        "onboard_time": 1688119895,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1249674,
+        "num": 1249674,
+        "word": "胖东来创始人称赚的钱基本给员工分完了",
+        "onboard_time": 1688118275,
+        "rank": 8,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 913517,
+        "num": 913517,
+        "word": "为白敬亭的回答发疯",
+        "onboard_time": 1688117733,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2081400,
+        "num": 880946,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 724038,
+        "num": 724038,
+        "word": "苏州一男子高楼徘徊数小时后跳楼身亡",
+        "onboard_time": 1688117555,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720535,
+        "num": 720535,
+        "word": "卸妆油在云南高反了",
+        "onboard_time": 1688118335,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 926784,
+        "num": 714744,
+        "word": "汪建民 我愿跟女方对质",
+        "onboard_time": 1688113297,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707994,
+        "num": 707994,
+        "word": "消失的她票根隐藏款是陈思诚",
+        "onboard_time": 1688118335,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649377,
+        "num": 649377,
+        "word": "杨颖欧阳娜娜都穿不上的裤子",
+        "onboard_time": 1688118215,
+        "rank": 15,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 561624,
+        "num": 561624,
+        "word": "赵露思私信优酷催更",
+        "onboard_time": 1688115034,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546616,
+        "num": 546616,
+        "word": "怀孕后子宫体积能增大多少",
+        "onboard_time": 1688109757,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 505158,
+        "num": 505158,
+        "word": "赵露思宋轶全都白干",
+        "onboard_time": 1688120912,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354874,
+        "num": 480367,
+        "word": "巴厘岛警方回应中国情侣命案调查结果",
+        "onboard_time": 1688114255,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 460204,
+        "num": 460204,
+        "word": "奔跑吧",
+        "onboard_time": 1688091813,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384182,
+        "num": 384182,
+        "word": "尘缘",
+        "onboard_time": 1688120735,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383197,
+        "num": 383197,
+        "word": "因为报销太难离职了",
+        "onboard_time": 1688119353,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348691,
+        "num": 348691,
+        "word": "山姆泡面桶炒至500元仍遭疯抢",
+        "onboard_time": 1688103931,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312935,
+        "num": 346654,
+        "word": "家里太乱被婆婆发朋友圈阴阳了",
+        "onboard_time": 1688120856,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364974,
+        "num": 346440,
+        "word": "Lisa来了都得迷惑",
+        "onboard_time": 1688117733,
+        "rank": 25,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 345490,
+        "num": 345490,
+        "word": "大小S姑姑力挺陈建州范玮琪",
+        "onboard_time": 1688110175,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327584,
+        "num": 327584,
+        "word": "白轶补贴穿搭",
+        "onboard_time": 1688120674,
+        "rank": 27,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 322694,
+        "num": 322694,
+        "word": "探访萧敬腾的8层别墅",
+        "onboard_time": 1688114255,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315995,
+        "num": 315995,
+        "word": "桑稚一句话让桑延回不了家",
+        "onboard_time": 1688119055,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1540266,
+        "num": 313651,
+        "word": "奔跑吧延期播出",
+        "onboard_time": 1688121335,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303241,
+        "num": 303241,
+        "word": "人民币汇率跌破7.25",
+        "onboard_time": 1688110897,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279459,
+        "num": 279459,
+        "word": "我妈问我对面是不是上海",
+        "onboard_time": 1688114795,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222332,
+        "num": 222332,
+        "word": "哪些行为明明是虐待却一直意识不到",
+        "onboard_time": 1688117972,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218316,
+        "num": 218316,
+        "word": "女高材生制售救猫药案一审宣判",
+        "onboard_time": 1688114617,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281119,
+        "num": 215204,
+        "word": "EXO先行曲HearMeOut",
+        "onboard_time": 1688116114,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270627,
+        "num": 214869,
+        "word": "沈月秒猜陈哲远第一部戏女主角",
+        "onboard_time": 1688115935,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269758,
+        "num": 213820,
+        "word": "范玮琪维护陈建州言论翻车",
+        "onboard_time": 1688103513,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210437,
+        "num": 210437,
+        "word": "林高远王艺迪",
+        "onboard_time": 1688115935,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24782,
+        "num": 210070,
+        "word": "黄健翔说99年女足是女神",
+        "onboard_time": 1688119233,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257401,
+        "num": 208467,
+        "word": "周翊然回应粉丝我不苦",
+        "onboard_time": 1688119954,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241916,
+        "num": 206733,
+        "word": "鹿晗重庆站加场",
+        "onboard_time": 1688118934,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241263,
+        "num": 205374,
+        "word": "敬鸿轶瞥",
+        "onboard_time": 1688115636,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204324,
+        "num": 204324,
+        "word": "肖战上班vs下班",
+        "onboard_time": 1688109455,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204602,
+        "num": 203542,
+        "word": "第一次嗑内娱cp",
+        "onboard_time": 1688121397,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171554,
+        "num": 171554,
+        "word": "大棕熊着急下班咣咣砸门",
+        "onboard_time": 1688117195,
+        "rank": 45,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 160658,
+        "num": 160658,
+        "word": "温州美食真的很难不馋",
+        "onboard_time": 1688118395,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159447,
+        "num": 159447,
+        "word": "指甲上很多洞洞是什么病啊",
+        "onboard_time": 1688098475,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158192,
+        "num": 158192,
+        "word": "比盐粒还小的手提包卖出46.2万",
+        "onboard_time": 1688115993,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 135377,
+        "num": 157945,
+        "word": "胖东来调查报告 危机公关说明书",
+        "onboard_time": 1688119174,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党基层组织506.5万个#"
+    }
+  }
+}

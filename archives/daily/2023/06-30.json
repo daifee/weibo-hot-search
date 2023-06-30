@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688120385341,
+  "endTime": 1688121427529,
   "band_list": [
     {
       "raw_hot": 7225276,
@@ -19,8 +19,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3550038,
-      "num": 3550038,
+      "raw_hot": 3895129,
+      "num": 3895129,
       "word": "胖东来",
       "onboard_time": 1688109633,
       "rank": 9,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2293792,
-      "num": 698543,
+      "num": 714744,
       "word": "汪建民 我愿跟女方对质",
       "onboard_time": 1688113297,
       "rank": 31,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1540266,
+      "num": 313651,
+      "word": "奔跑吧延期播出",
+      "onboard_time": 1688121335,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1389343,
       "num": 1389343,
       "word": "文咏珊笑的好像妍珍找厕所",
@@ -185,6 +193,14 @@
       "onboard_time": 1688097094,
       "rank": 6,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 1339375,
+      "num": 1339375,
+      "word": "浙江卫视节目单奔跑吧泰国篇",
+      "onboard_time": 1688119895,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1333654,
@@ -225,6 +241,14 @@
       "onboard_time": 1688110054,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1249674,
+      "num": 1249674,
+      "word": "胖东来创始人称赚的钱基本给员工分完了",
+      "onboard_time": 1688118275,
+      "rank": 7,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 1248237,
@@ -355,20 +379,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 913517,
+      "num": 913517,
+      "word": "为白敬亭的回答发疯",
+      "onboard_time": 1688117733,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 909343,
       "num": 909343,
       "word": "官方回应上海外滩夜景灯光被吐槽",
       "onboard_time": 1688071512,
       "rank": 9,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 900918,
-      "num": 900918,
-      "word": "胖东来创始人称赚的钱基本给员工分完了",
-      "onboard_time": 1688118275,
-      "rank": 7,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 895387,
@@ -523,28 +547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 707994,
+      "num": 707994,
+      "word": "消失的她票根隐藏款是陈思诚",
+      "onboard_time": 1688118335,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 698281,
       "num": 587894,
       "word": "周杰伦演唱会",
       "onboard_time": 1688054976,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 698259,
-      "num": 698259,
-      "word": "为白敬亭的回答发疯",
-      "onboard_time": 1688117733,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 694248,
-      "num": 694248,
-      "word": "消失的她票根隐藏款是陈思诚",
-      "onboard_time": 1688118335,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 691195,
@@ -585,6 +601,14 @@
       "onboard_time": 1688098535,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 649377,
+      "num": 649377,
+      "word": "杨颖欧阳娜娜都穿不上的裤子",
+      "onboard_time": 1688118215,
+      "rank": 16,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 647462,
@@ -657,14 +681,6 @@
       "onboard_time": 1688093733,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 581128,
-      "num": 581128,
-      "word": "杨颖欧阳娜娜都穿不上的裤子",
-      "onboard_time": 1688118215,
-      "rank": 16,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 571567,
@@ -811,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505158,
+      "num": 505158,
+      "word": "赵露思宋轶全都白干",
+      "onboard_time": 1688120912,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 504650,
       "num": 504650,
       "word": "林保怡 陈慧珊",
@@ -827,8 +851,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 489525,
-      "num": 1209635,
+      "raw_hot": 499792,
+      "num": 1875301,
       "word": "孕妻身体不适丈夫产房外哭泣守护",
       "onboard_time": 1688111797,
       "rank": 13,
@@ -849,6 +873,22 @@
       "onboard_time": 1688083531,
       "rank": 8,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 465709,
+      "num": 1555641,
+      "word": "堂哥失联7年堂弟报警后奇迹发生",
+      "onboard_time": 1688119954,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460204,
+      "num": 460204,
+      "word": "奔跑吧",
+      "onboard_time": 1688091813,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 454408,
@@ -889,14 +929,6 @@
       "onboard_time": 1688098956,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422064,
-      "num": 422064,
-      "word": "奔跑吧",
-      "onboard_time": 1688091813,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 417909,
@@ -995,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387700,
-      "num": 375903,
-      "word": "浙江卫视节目单奔跑吧泰国篇",
-      "onboard_time": 1688119895,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387387,
       "num": 387387,
       "word": "任达华实力可以",
@@ -1017,6 +1041,22 @@
       "onboard_time": 1688115336,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 384182,
+      "num": 384182,
+      "word": "尘缘",
+      "onboard_time": 1688120735,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383197,
+      "num": 383197,
+      "word": "因为报销太难离职了",
+      "onboard_time": 1688119353,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 379211,
@@ -1057,14 +1097,6 @@
       "onboard_time": 1688115935,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 362013,
-      "num": 362013,
-      "word": "因为报销太难离职了",
-      "onboard_time": 1688119353,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 360668,
@@ -1171,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327584,
+      "num": 327584,
+      "word": "白轶补贴穿搭",
+      "onboard_time": 1688120674,
+      "rank": 27,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 325931,
       "num": 325931,
       "word": "热烈里除了有黄渤王一博还有假玲",
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 320169,
-      "num": 255395,
+      "num": 315995,
       "word": "桑稚一句话让桑延回不了家",
       "onboard_time": 1688119055,
       "rank": 30,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1688052771,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312935,
+      "num": 346654,
+      "word": "家里太乱被婆婆发朋友圈阴阳了",
+      "onboard_time": 1688120856,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 310672,
@@ -1419,20 +1467,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257401,
+      "num": 213091,
+      "word": "周翊然回应粉丝我不苦",
+      "onboard_time": 1688119954,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256467,
       "num": 636455,
       "word": "官方回应山西代县瞒报17名矿工死亡",
       "onboard_time": 1688050545,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253971,
-      "num": 213091,
-      "word": "周翊然回应粉丝我不苦",
-      "onboard_time": 1688119954,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 248472,
@@ -1507,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222332,
+      "num": 222332,
+      "word": "哪些行为明明是虐待却一直意识不到",
+      "onboard_time": 1688117972,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219468,
       "num": 308689,
       "word": "工厂老板允许带孩子上班",
@@ -1531,28 +1587,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 215109,
-      "num": 215109,
-      "word": "哪些行为明明是虐待却一直意识不到",
-      "onboard_time": 1688117972,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214790,
       "num": 214790,
       "word": "做一个心里富裕的小孩",
       "onboard_time": 1688086115,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 210506,
-      "num": 210506,
-      "word": "堂哥失联7年堂弟报警后奇迹发生",
-      "onboard_time": 1688119954,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209256,
@@ -1569,6 +1609,14 @@
       "onboard_time": 1688054437,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204602,
+      "num": 203542,
+      "word": "第一次嗑内娱cp",
+      "onboard_time": 1688121397,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 199416,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1688112633,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160658,
+      "num": 160658,
+      "word": "温州美食真的很难不馋",
+      "onboard_time": 1688118395,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 160463,
