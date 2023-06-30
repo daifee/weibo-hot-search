@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688145416868,
+  "endTime": 1688146428491,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -444,11 +444,19 @@
     },
     {
       "raw_hot": 77495,
-      "num": 86298,
+      "num": 95295,
       "word": "我们从未忘记为什么出发",
       "onboard_time": 1688144845,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42777,
+      "num": 93840,
+      "word": "重庆的挑挑美食到底有多好吃",
+      "onboard_time": 1688143647,
+      "rank": 49,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
