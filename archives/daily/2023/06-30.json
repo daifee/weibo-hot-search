@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688106264407,
+  "endTime": 1688107105583,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -9,6 +9,14 @@
       "onboard_time": 1688051809,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3749074,
+      "num": 456707,
+      "word": "曝汪姓男艺人性侵19岁女子",
+      "onboard_time": 1688105910,
+      "rank": 30,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2768908,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2073646,
-      "num": 412083,
+      "num": 444119,
       "word": "范玮琪维护陈建州言论翻车",
       "onboard_time": 1688103513,
       "rank": 10,
@@ -81,6 +89,14 @@
       "onboard_time": 1688102254,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1816600,
+      "num": 1816600,
+      "word": "王宝强 谢谢我奶茶姐姐",
+      "onboard_time": 1688103873,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1790762,
@@ -137,14 +153,6 @@
       "onboard_time": 1688097094,
       "rank": 6,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 1369072,
-      "num": 1369072,
-      "word": "王宝强 谢谢我奶茶姐姐",
-      "onboard_time": 1688103873,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1308192,
@@ -267,28 +275,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 858442,
-      "num": 505165,
-      "word": "殷世航当花童",
-      "onboard_time": 1688055993,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 824123,
-      "num": 298143,
+      "raw_hot": 866886,
+      "num": 326005,
       "word": "山姆泡面桶炒至500元仍遭疯抢",
       "onboard_time": 1688103931,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 812312,
-      "num": 209863,
-      "word": "曝汪姓男艺人性侵19岁女子",
-      "onboard_time": 1688105910,
-      "rank": 30,
-      "category": "艺人,社会新闻"
+      "raw_hot": 858442,
+      "num": 505165,
+      "word": "殷世航当花童",
+      "onboard_time": 1688055993,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 792089,
@@ -579,8 +579,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 499031,
-      "num": 343681,
+      "raw_hot": 501268,
+      "num": 347010,
       "word": "Ella终于第一了",
       "onboard_time": 1688102974,
       "rank": 41,
@@ -747,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360394,
+      "num": 360394,
+      "word": "几天没出门杭州地铁变这样了",
+      "onboard_time": 1688103753,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360192,
       "num": 360192,
       "word": "辛芷蕾自曝小时候遭遇猥亵",
@@ -769,6 +777,14 @@
       "onboard_time": 1688051207,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348004,
+      "num": 348004,
+      "word": "警方回应男子跳楼遭围观者起哄",
+      "onboard_time": 1688105373,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347348,
@@ -875,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293971,
+      "num": 361084,
+      "word": "安慕希",
+      "onboard_time": 1688100519,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 291873,
       "num": 634777,
       "word": "微信支付的手续费是否过高了",
@@ -923,12 +947,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271027,
+      "num": 284031,
+      "word": "丫丫回京满月记",
+      "onboard_time": 1688105672,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263372,
       "num": 263372,
       "word": "爸妈 该处还得处",
       "onboard_time": 1688083531,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 260379,
+      "num": 260379,
+      "word": "向佐回应穿搭像卖鱼的",
+      "onboard_time": 1688106934,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 259941,
@@ -947,14 +987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259260,
-      "num": 361084,
-      "word": "安慕希",
-      "onboard_time": 1688100519,
-      "rank": 29,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 256467,
       "num": 636455,
       "word": "官方回应山西代县瞒报17名矿工死亡",
@@ -963,12 +995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249084,
-      "num": 284031,
-      "word": "丫丫回京满月记",
-      "onboard_time": 1688105672,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 248120,
+      "num": 231901,
+      "word": "妇救会回应陈建州范玮琪捐赔偿金",
+      "onboard_time": 1688106514,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 245664,
@@ -993,14 +1025,6 @@
       "onboard_time": 1688058325,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234653,
-      "num": 234653,
-      "word": "几天没出门杭州地铁变这样了",
-      "onboard_time": 1688103753,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234463,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1688101473,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207006,
+      "num": 207006,
+      "word": "Angelababy把试衣间走成了T台",
+      "onboard_time": 1688106812,
+      "rank": 34,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 204824,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1688095714,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190964,
-      "num": 205971,
-      "word": "警方回应男子跳楼遭围观者起哄",
-      "onboard_time": 1688105373,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189082,
@@ -1235,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147478,
+      "num": 199326,
+      "word": "胖东来8页报告调查顾客与员工争执",
+      "onboard_time": 1688107052,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147113,
       "num": 186722,
       "word": "1个学生都不能掉队",
@@ -1267,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143806,
+      "num": 174107,
+      "word": "恶意起哄轻生者该如何担责",
+      "onboard_time": 1688106514,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136401,
       "num": 136401,
       "word": "永远会被6岁孩子的纯真打动",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1688075594,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132393,
+      "num": 173730,
+      "word": "DRG对战WE",
+      "onboard_time": 1688106992,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 131005,

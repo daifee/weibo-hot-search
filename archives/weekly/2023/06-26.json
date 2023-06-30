@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688106264407,
+  "endTime": 1688107105583,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -129,6 +129,14 @@
       "onboard_time": 1688015558,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 3749074,
+      "num": 456707,
+      "word": "曝汪姓男艺人性侵19岁女子",
+      "onboard_time": 1688105910,
+      "rank": 30,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 3743928,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 2073646,
-      "num": 412083,
+      "num": 444119,
       "word": "范玮琪维护陈建州言论翻车",
       "onboard_time": 1688103513,
       "rank": 10,
@@ -857,6 +865,14 @@
       "onboard_time": 1687749452,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1816600,
+      "num": 1816600,
+      "word": "王宝强 谢谢我奶茶姐姐",
+      "onboard_time": 1688103873,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1810302,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1688021916,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1369072,
-      "num": 1369072,
-      "word": "王宝强 谢谢我奶茶姐姐",
-      "onboard_time": 1688103873,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1358002,
@@ -2323,6 +2331,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 866886,
+      "num": 326005,
+      "word": "山姆泡面桶炒至500元仍遭疯抢",
+      "onboard_time": 1688103931,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865626,
       "num": 655617,
       "word": "makiyo回应爆料陈建州很爱乱亲",
@@ -2435,14 +2451,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 824123,
-      "num": 298143,
-      "word": "山姆泡面桶炒至500元仍遭疯抢",
-      "onboard_time": 1688103931,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 817328,
       "num": 552045,
       "word": "肖战王一博会同台吗",
@@ -2457,14 +2465,6 @@
       "onboard_time": 1687939057,
       "rank": 21,
       "category": "其它"
-    },
-    {
-      "raw_hot": 812312,
-      "num": 209863,
-      "word": "曝汪姓男艺人性侵19岁女子",
-      "onboard_time": 1688105910,
-      "rank": 30,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 811138,
@@ -4227,6 +4227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501268,
+      "num": 347010,
+      "word": "Ella终于第一了",
+      "onboard_time": 1688102974,
+      "rank": 41,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 500636,
       "num": 387581,
       "word": "免单",
@@ -4249,14 +4257,6 @@
       "onboard_time": 1687949494,
       "rank": 4,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 499031,
-      "num": 343681,
-      "word": "Ella终于第一了",
-      "onboard_time": 1688102974,
-      "rank": 41,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 498313,
@@ -5667,6 +5667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360394,
+      "num": 360394,
+      "word": "几天没出门杭州地铁变这样了",
+      "onboard_time": 1688103753,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359308,
       "num": 359308,
       "word": "EDG对战UP",
@@ -5785,6 +5793,14 @@
       "onboard_time": 1688004692,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 348004,
+      "num": 348004,
+      "word": "警方回应男子跳楼遭围观者起哄",
+      "onboard_time": 1688105373,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347348,
@@ -6867,6 +6883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293971,
+      "num": 361084,
+      "word": "安慕希",
+      "onboard_time": 1688100519,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 293874,
       "num": 293874,
       "word": "封神妲己曾出演周杰伦MV女主",
@@ -7347,6 +7371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271027,
+      "num": 284031,
+      "word": "丫丫回京满月记",
+      "onboard_time": 1688105672,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270765,
       "num": 270765,
       "word": "被不被爱太明显了",
@@ -7595,6 +7627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 260379,
+      "num": 260379,
+      "word": "向佐回应穿搭像卖鱼的",
+      "onboard_time": 1688106934,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259908,
       "num": 259908,
       "word": "皇马官宣续约莫德里奇",
@@ -7609,14 +7649,6 @@
       "onboard_time": 1688047603,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259260,
-      "num": 361084,
-      "word": "安慕希",
-      "onboard_time": 1688100519,
-      "rank": 29,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 259002,
@@ -7835,14 +7867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 249084,
-      "num": 284031,
-      "word": "丫丫回京满月记",
-      "onboard_time": 1688105672,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248957,
       "num": 248957,
       "word": "中国婚礼",
@@ -7881,6 +7905,14 @@
       "onboard_time": 1687965877,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248120,
+      "num": 231901,
+      "word": "妇救会回应陈建州范玮琪捐赔偿金",
+      "onboard_time": 1688106514,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 247157,
@@ -8193,14 +8225,6 @@
       "onboard_time": 1687998092,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234653,
-      "num": 234653,
-      "word": "几天没出门杭州地铁变这样了",
-      "onboard_time": 1688103753,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234463,
@@ -8979,6 +9003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207006,
+      "num": 207006,
+      "word": "Angelababy把试衣间走成了T台",
+      "onboard_time": 1688106812,
+      "rank": 34,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "扬州警方通报",
@@ -9488,14 +9520,6 @@
       "word": "山东人种菜已经进化到这种程度了吗",
       "onboard_time": 1687989795,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190964,
-      "num": 205971,
-      "word": "警方回应男子跳楼遭围观者起哄",
-      "onboard_time": 1688105373,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -10499,6 +10523,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 147478,
+      "num": 199326,
+      "word": "胖东来8页报告调查顾客与员工争执",
+      "onboard_time": 1688107052,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147113,
       "num": 186722,
       "word": "1个学生都不能掉队",
@@ -10576,6 +10608,14 @@
       "word": "毕业典礼能多有仪式感",
       "onboard_time": 1687751934,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143806,
+      "num": 174107,
+      "word": "恶意起哄轻生者该如何担责",
+      "onboard_time": 1688106514,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -10753,6 +10793,14 @@
       "onboard_time": 1687834835,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132393,
+      "num": 173730,
+      "word": "DRG对战WE",
+      "onboard_time": 1688106992,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 131345,
