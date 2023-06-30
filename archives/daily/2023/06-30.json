@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688095426539,
+  "endTime": 1688096186093,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -155,8 +155,8 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 954764,
-      "num": 954764,
+      "raw_hot": 985088,
+      "num": 985088,
       "word": "肖战下个镜头切了李沁",
       "onboard_time": 1688092833,
       "rank": 9,
@@ -259,12 +259,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 696250,
+      "num": 696250,
+      "word": "毛不易靠香蜜打开be市场",
+      "onboard_time": 1688094274,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 690674,
       "num": 625541,
       "word": "香港艺人vs内地艺人",
       "onboard_time": 1688087912,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 685862,
+      "num": 685862,
+      "word": "宁静吐槽节目组还真是缺心眼",
+      "onboard_time": 1688091331,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 685501,
@@ -307,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 623009,
-      "num": 623009,
-      "word": "宁静吐槽节目组还真是缺心眼",
-      "onboard_time": 1688091331,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 600363,
       "num": 600363,
       "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
@@ -337,6 +345,14 @@
       "onboard_time": 1688086533,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562347,
+      "num": 562347,
+      "word": "选专业 更适合中国宝宝体质的先婚后爱",
+      "onboard_time": 1688092893,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 554667,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 512161,
-      "num": 255312,
+      "num": 327051,
       "word": "五月天沈阳 抢票",
       "onboard_time": 1688095410,
       "rank": 30,
@@ -419,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 504884,
-      "num": 504884,
-      "word": "选专业 更适合中国宝宝体质的先婚后爱",
-      "onboard_time": 1688092893,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 504650,
       "num": 504650,
       "word": "林保怡 陈慧珊",
@@ -441,14 +449,6 @@
       "onboard_time": 1688055274,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 478873,
-      "num": 478873,
-      "word": "毛不易靠香蜜打开be市场",
-      "onboard_time": 1688094274,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 468714,
@@ -475,6 +475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 422064,
+      "num": 422064,
+      "word": "奔跑吧",
+      "onboard_time": 1688091813,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413028,
       "num": 413028,
       "word": "肖战成龙拥抱",
@@ -499,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400494,
-      "num": 400494,
-      "word": "奔跑吧",
-      "onboard_time": 1688091813,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 399643,
       "num": 399643,
       "word": "徐小凤 今晚最佳",
@@ -515,12 +515,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396133,
+      "num": 396133,
+      "word": "透明马桶",
+      "onboard_time": 1688094753,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391873,
       "num": 391873,
       "word": "肖战湾区升明月内场饭拍",
       "onboard_time": 1688073253,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 388143,
+      "num": 388143,
+      "word": "男子辞30万年薪照顾瘫痪父亲3年",
+      "onboard_time": 1688093733,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387387,
@@ -563,14 +579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345251,
-      "num": 345251,
-      "word": "男子辞30万年薪照顾瘫痪父亲3年",
-      "onboard_time": 1688093733,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342231,
       "num": 342231,
       "word": "舞台2023",
@@ -609,6 +617,14 @@
       "onboard_time": 1688028460,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315521,
+      "num": 315521,
+      "word": "蔡依林深圳演唱会开票",
+      "onboard_time": 1688095592,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 315340,
@@ -651,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 294389,
+      "num": 294389,
+      "word": "行人刺激跳楼者不跳不是人",
+      "onboard_time": 1688095475,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291873,
       "num": 634777,
       "word": "微信支付的手续费是否过高了",
@@ -664,6 +688,14 @@
       "word": "桑延你好小气",
       "onboard_time": 1688093793,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281497,
+      "num": 281497,
+      "word": "热烈里除了有黄渤王一博还有假玲",
+      "onboard_time": 1688095353,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -699,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248034,
-      "num": 248034,
-      "word": "热烈里除了有黄渤王一博还有假玲",
-      "onboard_time": 1688095353,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244602,
       "num": 590227,
       "word": "背帆布包上班被同事阴阳了",
@@ -723,11 +747,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231474,
-      "num": 231474,
-      "word": "透明马桶",
-      "onboard_time": 1688094753,
-      "rank": 34,
+      "raw_hot": 232065,
+      "num": 232065,
+      "word": "第一次见狗遛鱼",
+      "onboard_time": 1688094873,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -763,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203911,
+      "num": 203911,
+      "word": "中国共产党党员总数为9804.1万名",
+      "onboard_time": 1688095475,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197155,
       "num": 197155,
       "word": "不是所有视频都是视频 也可能是定格动画",
@@ -777,14 +809,6 @@
       "onboard_time": 1688047724,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195717,
-      "num": 195717,
-      "word": "第一次见狗遛鱼",
-      "onboard_time": 1688094873,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 195322,
@@ -811,6 +835,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 191849,
+      "num": 191849,
+      "word": "心中有阳光处处是晴天",
+      "onboard_time": 1688095714,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189082,
       "num": 189082,
       "word": "微博手机影像年",
@@ -833,6 +865,14 @@
       "onboard_time": 1688077637,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187413,
+      "num": 187413,
+      "word": "台州柴火豆腐要求还怪高的嘞",
+      "onboard_time": 1688095773,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 185054,
@@ -873,6 +913,22 @@
       "onboard_time": 1688041956,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 148529,
+      "num": 186999,
+      "word": "黑猩猩重获自由后仰望天空表情惊讶",
+      "onboard_time": 1688095653,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147113,
+      "num": 186722,
+      "word": "1个学生都不能掉队",
+      "onboard_time": 1688096133,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144694,
@@ -984,6 +1040,14 @@
       "word": "阿斯巴甜",
       "onboard_time": 1688051084,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99163,
+      "num": 197236,
+      "word": "自带胶片感的香港街头",
+      "onboard_time": 1688095592,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
