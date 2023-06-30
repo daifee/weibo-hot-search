@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1688123737089,
+  "endTime": 1688124822867,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -227,20 +227,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 8270859,
+      "num": 8270859,
+      "word": "奔跑吧延期播出",
+      "onboard_time": 1688121335,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8168360,
       "num": 8168360,
       "word": "数学到底难不难",
       "onboard_time": 1686129107,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 7929532,
-      "num": 7929532,
-      "word": "奔跑吧延期播出",
-      "onboard_time": 1688121335,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 7630424,
@@ -3075,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2025445,
+      "num": 2025445,
+      "word": "赵露思宋轶全都白干",
+      "onboard_time": 1688120912,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2020629,
       "num": 2020629,
       "word": "男生高考查分601激动满屋蹦跳",
@@ -3361,14 +3369,6 @@
       "onboard_time": 1685855309,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1950487,
-      "num": 1950487,
-      "word": "赵露思宋轶全都白干",
-      "onboard_time": 1688120912,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 1948501,
@@ -6644,7 +6644,7 @@
     },
     {
       "raw_hot": 1333654,
-      "num": 3916401,
+      "num": 3975470,
       "word": "爸爸用15元买了孩子一下午的快乐",
       "onboard_time": 1688111197,
       "rank": 6,
@@ -12155,6 +12155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 860168,
+      "num": 832344,
+      "word": "第一次嗑内娱cp",
+      "onboard_time": 1688121397,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 858483,
       "num": 858483,
       "word": "辽宁高考分数线砍一刀",
@@ -13201,14 +13209,6 @@
       "onboard_time": 1686129407,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 799229,
-      "num": 799229,
-      "word": "第一次嗑内娱cp",
-      "onboard_time": 1688121397,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 798663,
@@ -19435,6 +19435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 527074,
+      "num": 527074,
+      "word": "爱奇艺直播",
+      "onboard_time": 1688121873,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526418,
       "num": 526418,
       "word": "倪妮被文咏珊撩到脸红",
@@ -21363,6 +21371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473930,
+      "num": 1694769,
+      "word": "堂哥失联7年堂弟报警后奇迹发生",
+      "onboard_time": 1688119954,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473786,
       "num": 261977,
       "word": "原来A4纸是这么得来的",
@@ -21721,14 +21737,6 @@
       "onboard_time": 1686612864,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 465709,
-      "num": 1694769,
-      "word": "堂哥失联7年堂弟报警后奇迹发生",
-      "onboard_time": 1688119954,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465295,
@@ -23081,6 +23089,14 @@
       "onboard_time": 1687820361,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 431550,
+      "num": 227868,
+      "word": "范玮琪演唱会遭网友抵制",
+      "onboard_time": 1688124217,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 431439,
@@ -27419,6 +27435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356056,
+      "num": 323230,
+      "word": "医生说我天生很难长蛀牙",
+      "onboard_time": 1688122779,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355892,
       "num": 355892,
       "word": "像极了节后上班的你",
@@ -30113,14 +30137,6 @@
       "onboard_time": 1686798506,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323230,
-      "num": 323230,
-      "word": "医生说我天生很难长蛀牙",
-      "onboard_time": 1688122779,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 323062,
@@ -37227,6 +37243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262623,
+      "num": 262623,
+      "word": "莫德里奇或因作伪证入狱",
+      "onboard_time": 1688122959,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262613,
       "num": 248291,
       "word": "金晨无眼妆封面",
@@ -39657,6 +39681,14 @@
       "onboard_time": 1687495352,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247428,
+      "num": 247428,
+      "word": "萌二坐冰块给屁股降温结果冻住了",
+      "onboard_time": 1688124217,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247395,
@@ -42849,6 +42881,14 @@
       "onboard_time": 1687779877,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228735,
+      "num": 228735,
+      "word": "杨洋你尽管秀",
+      "onboard_time": 1688124217,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228734,
@@ -49243,14 +49283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198187,
-      "num": 198187,
-      "word": "莫德里奇或因作伪证入狱",
-      "onboard_time": 1688122959,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198174,
       "num": 156521,
       "word": "李马克剪头发了",
@@ -51601,6 +51633,14 @@
       "onboard_time": 1686625888,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 189577,
+      "num": 189577,
+      "word": "杨幂紫衣古装梦回扶摇",
+      "onboard_time": 1688123676,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 189544,
@@ -55113,6 +55153,14 @@
       "onboard_time": 1686534626,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173577,
+      "num": 173577,
+      "word": "期末评语写错了怎么补救",
+      "onboard_time": 1688124575,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 173576,
@@ -60785,14 +60833,6 @@
       "onboard_time": 1685955268,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144524,
-      "num": 144524,
-      "word": "杨幂紫衣古装梦回扶摇",
-      "onboard_time": 1688123676,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 144486,

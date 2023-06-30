@@ -1,10 +1,10 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688123737089,
+  "endTime": 1688124822867,
   "band_list": [
     {
-      "raw_hot": 7929532,
-      "num": 7929532,
+      "raw_hot": 8270859,
+      "num": 8270859,
       "word": "奔跑吧延期播出",
       "onboard_time": 1688121335,
       "rank": 30,
@@ -99,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2025445,
+      "num": 2025445,
+      "word": "赵露思宋轶全都白干",
+      "onboard_time": 1688120912,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1985909,
       "num": 1160980,
       "word": "LPL大瓜",
       "onboard_time": 1688053602,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1950487,
-      "num": 1950487,
-      "word": "赵露思宋轶全都白干",
-      "onboard_time": 1688120912,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 1918679,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1333654,
-      "num": 3916401,
+      "num": 3975470,
       "word": "爸爸用15元买了孩子一下午的快乐",
       "onboard_time": 1688111197,
       "rank": 6,
@@ -427,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860168,
+      "num": 832344,
+      "word": "第一次嗑内娱cp",
+      "onboard_time": 1688121397,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 858442,
       "num": 505165,
       "word": "殷世航当花童",
       "onboard_time": 1688055993,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 799229,
-      "num": 799229,
-      "word": "第一次嗑内娱cp",
-      "onboard_time": 1688121397,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 792089,
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527074,
+      "num": 527074,
+      "word": "爱奇艺直播",
+      "onboard_time": 1688121873,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 524020,
       "num": 524020,
       "word": "唐朝早就有多巴胺穿搭了",
@@ -883,20 +891,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473930,
+      "num": 1694769,
+      "word": "堂哥失联7年堂弟报警后奇迹发生",
+      "onboard_time": 1688119954,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468714,
       "num": 468714,
       "word": "人性最大的恶",
       "onboard_time": 1688083531,
       "rank": 8,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 465709,
-      "num": 1694769,
-      "word": "堂哥失联7年堂弟报警后奇迹发生",
-      "onboard_time": 1688119954,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460204,
@@ -944,6 +952,14 @@
       "word": "齐藤壮马宣布结婚",
       "onboard_time": 1688098956,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431550,
+      "num": 227868,
+      "word": "范玮琪演唱会遭网友抵制",
+      "onboard_time": 1688124217,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1155,6 +1171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 356056,
+      "num": 323230,
+      "word": "医生说我天生很难长蛀牙",
+      "onboard_time": 1688122779,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 348230,
       "num": 348230,
       "word": "温兆伦刘惜君合唱一生何求",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1688108553,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323230,
-      "num": 323230,
-      "word": "医生说我天生很难长蛀牙",
-      "onboard_time": 1688122779,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 322890,
@@ -1483,6 +1499,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 262623,
+      "num": 262623,
+      "word": "莫德里奇或因作伪证入狱",
+      "onboard_time": 1688122959,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259941,
       "num": 640059,
       "word": "LV帆布袋已被炒至700元",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1688116775,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247428,
+      "num": 247428,
+      "word": "萌二坐冰块给屁股降温结果冻住了",
+      "onboard_time": 1688124217,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245664,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1688097995,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228735,
+      "num": 228735,
+      "word": "杨洋你尽管秀",
+      "onboard_time": 1688124217,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226023,
@@ -1635,6 +1675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206601,
+      "num": 206601,
+      "word": "中国女排",
+      "onboard_time": 1688123676,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204824,
       "num": 507605,
       "word": "樊振东3比0安宰贤",
@@ -1649,14 +1697,6 @@
       "onboard_time": 1688109156,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198187,
-      "num": 198187,
-      "word": "莫德里奇或因作伪证入狱",
-      "onboard_time": 1688122959,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 197155,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1688117375,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189577,
+      "num": 189577,
+      "word": "杨幂紫衣古装梦回扶摇",
+      "onboard_time": 1688123676,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 189082,
@@ -1835,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173577,
+      "num": 173577,
+      "word": "期末评语写错了怎么补救",
+      "onboard_time": 1688124575,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 172964,
       "num": 173227,
       "word": "父母反对我和男友毕业旅行",
@@ -1865,14 +1921,6 @@
       "onboard_time": 1688120253,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167520,
-      "num": 196255,
-      "word": "中国女排",
-      "onboard_time": 1688123676,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 166947,
@@ -1985,14 +2033,6 @@
       "onboard_time": 1688092235,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144524,
-      "num": 144524,
-      "word": "杨幂紫衣古装梦回扶摇",
-      "onboard_time": 1688123676,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 144421,
