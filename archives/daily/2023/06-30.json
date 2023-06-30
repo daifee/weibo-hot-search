@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688090854235,
+  "endTime": 1688093615901,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2768908,
-      "num": 514008,
+      "num": 574356,
       "word": "孙怡工作室回应恋情",
       "onboard_time": 1688080404,
       "rank": 11,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2626385,
-      "num": 903979,
+      "num": 1480139,
       "word": "卖菜大爷挣21元被罚款11万元",
       "onboard_time": 1688086413,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2457698,
+      "num": 2457698,
+      "word": "Angelababy重现甩头发名场面",
+      "onboard_time": 1688089834,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1985909,
@@ -51,6 +59,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1625643,
+      "num": 1625643,
+      "word": "怎么没人写硕博士的偶像剧",
+      "onboard_time": 1688088753,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1577275,
+      "num": 1377285,
+      "word": "LWX",
+      "onboard_time": 1688089654,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1560330,
       "num": 1560330,
       "word": "仁济医院医生嫖娼为实习生造谣",
@@ -59,11 +83,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1370909,
-      "num": 1370909,
-      "word": "Angelababy重现甩头发名场面",
-      "onboard_time": 1688089834,
-      "rank": 1,
+      "raw_hot": 1420222,
+      "num": 1420222,
+      "word": "萧敬腾求婚成功全国都在随礼",
+      "onboard_time": 1688091750,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -131,14 +155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 910830,
-      "num": 769474,
-      "word": "LWX",
-      "onboard_time": 1688089654,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 909343,
       "num": 909343,
       "word": "官方回应上海外滩夜景灯光被吐槽",
@@ -195,20 +211,20 @@
       "category": "财经,幽默"
     },
     {
-      "raw_hot": 765179,
-      "num": 765179,
-      "word": "怎么没人写硕博士的偶像剧",
-      "onboard_time": 1688088753,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 741115,
       "num": 637706,
       "word": "许嵩挽回了面子",
       "onboard_time": 1688047425,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 730754,
+      "num": 730754,
+      "word": "宋妍霏左眼流泪右眼笑",
+      "onboard_time": 1688090553,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 698281,
@@ -219,12 +235,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 690674,
+      "num": 573786,
+      "word": "香港艺人vs内地艺人",
+      "onboard_time": 1688087912,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 685501,
       "num": 685501,
       "word": "杰森斯坦森回应爱称郭达",
       "onboard_time": 1688084552,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 648856,
+      "num": 648856,
+      "word": "低成本恋爱",
+      "onboard_time": 1688090370,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 647462,
@@ -273,6 +305,14 @@
       "onboard_time": 1688030738,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582225,
+      "num": 582225,
+      "word": "肖战下个镜头切了李沁",
+      "onboard_time": 1688092833,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 570967,
@@ -363,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 496900,
+      "num": 496900,
+      "word": "宁静吐槽节目组还真是缺心眼",
+      "onboard_time": 1688091331,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479731,
       "num": 479731,
       "word": "郁可唯大湾区再唱水中花",
@@ -379,20 +427,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 460102,
-      "num": 342927,
-      "word": "香港艺人vs内地艺人",
-      "onboard_time": 1688087912,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 453495,
       "num": 590263,
       "word": "蜱虫在老人脖子上吸完血大如黄豆",
       "onboard_time": 1688050969,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453416,
+      "num": 453416,
+      "word": "wps",
+      "onboard_time": 1688091035,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 413028,
@@ -467,20 +515,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350966,
-      "num": 350966,
-      "word": "宋妍霏左眼流泪右眼笑",
-      "onboard_time": 1688090553,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 348230,
       "num": 348230,
       "word": "温兆伦刘惜君合唱一生何求",
       "onboard_time": 1688051207,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342231,
+      "num": 342231,
+      "word": "舞台2023",
+      "onboard_time": 1688092113,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 335634,
+      "num": 335634,
+      "word": "奔跑吧",
+      "onboard_time": 1688091813,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 331542,
@@ -507,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310984,
+      "num": 310984,
+      "word": "女子野生菌中毒病床上隔空捋线",
+      "onboard_time": 1688091092,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305510,
       "num": 524114,
       "word": "大熊猫雅一把秋千坐断了",
@@ -529,6 +593,14 @@
       "onboard_time": 1688032059,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 274168,
+      "num": 274168,
+      "word": "女生以高压线为弦在列车上弹吉他",
+      "onboard_time": 1688092712,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263372,
@@ -571,14 +643,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 241948,
-      "num": 241948,
-      "word": "低成本恋爱",
-      "onboard_time": 1688090370,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 238750,
       "num": 238750,
       "word": "鉴证实录",
@@ -609,6 +673,30 @@
       "onboard_time": 1688086115,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 214239,
+      "num": 214239,
+      "word": "4GB未拆封初代iPhone拍卖",
+      "onboard_time": 1688092772,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 211030,
+      "num": 211030,
+      "word": "选专业 更适合中国宝宝体质的先婚后爱",
+      "onboard_time": 1688092893,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 206522,
+      "num": 206522,
+      "word": "公路上和大熊猫偶遇还对视谁懂啊",
+      "onboard_time": 1688093373,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204824,
@@ -659,6 +747,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 189082,
+      "num": 189082,
+      "word": "微博手机影像年",
+      "onboard_time": 1688092592,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188653,
       "num": 188653,
       "word": "十个勤天",
@@ -681,6 +777,14 @@
       "onboard_time": 1688082929,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177379,
+      "num": 177379,
+      "word": "携程宣布全员每孩补贴5万元",
+      "onboard_time": 1688093253,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 168873,
@@ -721,6 +825,14 @@
       "onboard_time": 1688090671,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 143352,
+      "num": 143352,
+      "word": "SNH48吕一 千秋乐",
+      "onboard_time": 1688092235,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 136401,
@@ -852,7 +964,7 @@
     },
     {
       "raw_hot": 7152,
-      "num": 1401722,
+      "num": 1495518,
       "word": "2023年中国网络文明大会新闻发布会",
       "onboard_time": 1688020476,
       "rank": 2,

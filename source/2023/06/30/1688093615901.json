@@ -1,0 +1,410 @@
+{
+  "runTime": 1688093615901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2457698,
+        "num": 2457698,
+        "word": "Angelababy重现甩头发名场面",
+        "onboard_time": 1688089834,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1625643,
+        "num": 1625643,
+        "word": "怎么没人写硕博士的偶像剧",
+        "onboard_time": 1688088753,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 5158,
+        "num": 1495518,
+        "word": "2023年中国网络文明大会新闻发布会",
+        "onboard_time": 1688020476,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1741733,
+        "num": 1480139,
+        "word": "卖菜大爷挣21元被罚款11万元",
+        "onboard_time": 1688086413,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420222,
+        "num": 1420222,
+        "word": "萧敬腾求婚成功全国都在随礼",
+        "onboard_time": 1688091750,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1577275,
+        "num": 1377285,
+        "word": "LWX",
+        "onboard_time": 1688089654,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 890900,
+        "num": 890900,
+        "word": "仁济医院医生嫖娼为实习生造谣",
+        "onboard_time": 1688085875,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730754,
+        "num": 730754,
+        "word": "宋妍霏左眼流泪右眼笑",
+        "onboard_time": 1688090553,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648856,
+        "num": 648856,
+        "word": "低成本恋爱",
+        "onboard_time": 1688090370,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 582225,
+        "num": 582225,
+        "word": "肖战下个镜头切了李沁",
+        "onboard_time": 1688092833,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1657732,
+        "num": 574356,
+        "word": "孙怡工作室回应恋情",
+        "onboard_time": 1688080404,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690674,
+        "num": 573786,
+        "word": "香港艺人vs内地艺人",
+        "onboard_time": 1688087912,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563067,
+        "num": 563067,
+        "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
+        "onboard_time": 1688089293,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501525,
+        "num": 501525,
+        "word": "夫家虚构700万债务逼女子净身出户",
+        "onboard_time": 1688088693,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496900,
+        "num": 496900,
+        "word": "宁静吐槽节目组还真是缺心眼",
+        "onboard_time": 1688091331,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453416,
+        "num": 453416,
+        "word": "wps",
+        "onboard_time": 1688091035,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 445946,
+        "num": 445946,
+        "word": "你贫血的原因可能和咖啡有关",
+        "onboard_time": 1688084552,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 443736,
+        "num": 443736,
+        "word": "她背包里掏出大西瓜消防员也没想到",
+        "onboard_time": 1688082087,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342231,
+        "num": 342231,
+        "word": "舞台2023",
+        "onboard_time": 1688092113,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336084,
+        "num": 336084,
+        "word": "殷世航当花童",
+        "onboard_time": 1688055993,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 584142,
+        "num": 335873,
+        "word": "蓝盈莹腰线",
+        "onboard_time": 1688088036,
+        "rank": 20,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 386884,
+        "num": 335767,
+        "word": "月薪5000真的有点低",
+        "onboard_time": 1688050368,
+        "rank": 21,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 335634,
+        "num": 335634,
+        "word": "奔跑吧",
+        "onboard_time": 1688091813,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322572,
+        "num": 322572,
+        "word": "前经纪人发文力挺陈建州",
+        "onboard_time": 1688082451,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310984,
+        "num": 310984,
+        "word": "女子野生菌中毒病床上隔空捋线",
+        "onboard_time": 1688091092,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296132,
+        "num": 296132,
+        "word": "四胞胎高考出分父亲给警察打电话报喜",
+        "onboard_time": 1688079804,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 274168,
+        "num": 274168,
+        "word": "女生以高压线为弦在列车上弹吉他",
+        "onboard_time": 1688092712,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262351,
+        "num": 262351,
+        "word": "小伙在没信号的原始森林隐居4年",
+        "onboard_time": 1688086533,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225944,
+        "num": 225944,
+        "word": "LPL大瓜",
+        "onboard_time": 1688053602,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224714,
+        "num": 224714,
+        "word": "刘浩存好漂亮",
+        "onboard_time": 1688049826,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220574,
+        "num": 220574,
+        "word": "杰森斯坦森回应爱称郭达",
+        "onboard_time": 1688084552,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219320,
+        "num": 219320,
+        "word": "唐朝早就有多巴胺穿搭了",
+        "onboard_time": 1688079863,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 216789,
+        "num": 216789,
+        "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+        "onboard_time": 1688030738,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214239,
+        "num": 214239,
+        "word": "4GB未拆封初代iPhone拍卖",
+        "onboard_time": 1688092772,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211030,
+        "num": 211030,
+        "word": "选专业 更适合中国宝宝体质的先婚后爱",
+        "onboard_time": 1688092893,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 206522,
+        "num": 206522,
+        "word": "公路上和大熊猫偶遇还对视谁懂啊",
+        "onboard_time": 1688093373,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203349,
+        "num": 203349,
+        "word": "肖战真唱",
+        "onboard_time": 1688051809,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189082,
+        "num": 189082,
+        "word": "微博手机影像年",
+        "onboard_time": 1688092592,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188107,
+        "num": 188107,
+        "word": "关晓彤这腿",
+        "onboard_time": 1688047425,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187537,
+        "num": 187537,
+        "word": "曾黎声援辛芷蕾",
+        "onboard_time": 1688082269,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184145,
+        "num": 184145,
+        "word": "港星赢得很彻底",
+        "onboard_time": 1688046642,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182689,
+        "num": 182689,
+        "word": "范玮琪 我丈夫是个正直的人",
+        "onboard_time": 1688026115,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177379,
+        "num": 177379,
+        "word": "携程宣布全员每孩补贴5万元",
+        "onboard_time": 1688093253,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 159168,
+        "num": 159168,
+        "word": "韩国网友对长月烬明的评价",
+        "onboard_time": 1688060540,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151932,
+        "num": 151932,
+        "word": "他甚至模仿了穿模",
+        "onboard_time": 1688087255,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150895,
+        "num": 150895,
+        "word": "76人将交易哈登",
+        "onboard_time": 1688082631,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148785,
+        "num": 148785,
+        "word": "人性最大的恶",
+        "onboard_time": 1688083531,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 145364,
+        "num": 145364,
+        "word": "爸妈 该处还得处",
+        "onboard_time": 1688083531,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 143352,
+        "num": 143352,
+        "word": "SNH48吕一 千秋乐",
+        "onboard_time": 1688092235,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136974,
+        "num": 142382,
+        "word": "这一看就是亲生的猫咪",
+        "onboard_time": 1688086774,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国天眼新突破#"
+    }
+  }
+}

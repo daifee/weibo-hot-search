@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1688090854235,
+  "endTime": 1688093615901,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1268,7 +1268,7 @@
     },
     {
       "raw_hot": 2768908,
-      "num": 514008,
+      "num": 574356,
       "word": "孙怡工作室回应恋情",
       "onboard_time": 1688080404,
       "rank": 11,
@@ -1508,7 +1508,7 @@
     },
     {
       "raw_hot": 2626385,
-      "num": 903979,
+      "num": 1480139,
       "word": "卖菜大爷挣21元被罚款11万元",
       "onboard_time": 1688086413,
       "rank": 3,
@@ -1849,6 +1849,14 @@
       "onboard_time": 1686219097,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2457698,
+      "num": 2457698,
+      "word": "Angelababy重现甩头发名场面",
+      "onboard_time": 1688089834,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2455386,
@@ -4667,6 +4675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1625643,
+      "num": 1625643,
+      "word": "怎么没人写硕博士的偶像剧",
+      "onboard_time": 1688088753,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1624748,
       "num": 1624748,
       "word": "卢靖姗顺产用了三十六个小时",
@@ -4945,6 +4961,14 @@
       "onboard_time": 1686733708,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1577275,
+      "num": 1377285,
+      "word": "LWX",
+      "onboard_time": 1688089654,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1572951,
@@ -5867,6 +5891,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1420222,
+      "num": 1420222,
+      "word": "萧敬腾求婚成功全国都在随礼",
+      "onboard_time": 1688091750,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1418908,
       "num": 1418908,
       "word": "白鹿的体态",
@@ -6233,14 +6265,6 @@
       "onboard_time": 1688021916,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1370909,
-      "num": 1370909,
-      "word": "Angelababy重现甩头发名场面",
-      "onboard_time": 1688089834,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1369364,
@@ -11163,14 +11187,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 910830,
-      "num": 769474,
-      "word": "LWX",
-      "onboard_time": 1688089654,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 910495,
       "num": 510581,
       "word": "为什么伴娘一定要未婚才行",
@@ -13539,14 +13555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 765179,
-      "num": 765179,
-      "word": "怎么没人写硕博士的偶像剧",
-      "onboard_time": 1688088753,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 764023,
       "num": 764023,
       "word": "柯以敏 我比那英唱得更好",
@@ -14129,6 +14137,14 @@
       "onboard_time": 1687504651,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 730754,
+      "num": 730754,
+      "word": "宋妍霏左眼流泪右眼笑",
+      "onboard_time": 1688090553,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 730595,
@@ -14955,6 +14971,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 690674,
+      "num": 573786,
+      "word": "香港艺人vs内地艺人",
+      "onboard_time": 1688087912,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 690571,
       "num": 690571,
       "word": "清洁工嫌吵关电源致25年成果被毁",
@@ -15729,6 +15753,14 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 648856,
+      "num": 648856,
+      "word": "低成本恋爱",
+      "onboard_time": 1688090370,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 648717,
@@ -17321,6 +17353,14 @@
       "onboard_time": 1686875007,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 582225,
+      "num": 582225,
+      "word": "肖战下个镜头切了李沁",
+      "onboard_time": 1688092833,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 582079,
@@ -19979,6 +20019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 496900,
+      "num": 496900,
+      "word": "宁静吐槽节目组还真是缺心眼",
+      "onboard_time": 1688091331,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496286,
       "num": 496286,
       "word": "五月天嘉宾 王源",
@@ -21363,14 +21411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460102,
-      "num": 342927,
-      "word": "香港艺人vs内地艺人",
-      "onboard_time": 1688087912,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 459784,
       "num": 459784,
       "word": "粽子",
@@ -21673,6 +21713,14 @@
       "onboard_time": 1686911187,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453416,
+      "num": 453416,
+      "word": "wps",
+      "onboard_time": 1688091035,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 453090,
@@ -27059,14 +27107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350966,
-      "num": 350966,
-      "word": "宋妍霏左眼流泪右眼笑",
-      "onboard_time": 1688090553,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350944,
       "num": 350944,
       "word": "姚译添你就宠他吧",
@@ -27795,6 +27835,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 342231,
+      "num": 342231,
+      "word": "舞台2023",
+      "onboard_time": 1688092113,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342226,
       "num": 342226,
       "word": "文咏珊机场素颜",
@@ -28313,6 +28361,14 @@
       "onboard_time": 1686716616,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335634,
+      "num": 335634,
+      "word": "奔跑吧",
+      "onboard_time": 1685676746,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 335611,
@@ -30459,6 +30515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310984,
+      "num": 310984,
+      "word": "女子野生菌中毒病床上隔空捋线",
+      "onboard_time": 1688091092,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310890,
       "num": 310890,
       "word": "孙亦航拿抑郁症玩梗",
@@ -31153,14 +31217,6 @@
       "onboard_time": 1685699188,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304047,
-      "num": 251000,
-      "word": "奔跑吧",
-      "onboard_time": 1685676746,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 304025,
@@ -34577,6 +34633,14 @@
       "onboard_time": 1687155822,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274168,
+      "num": 274168,
+      "word": "女生以高压线为弦在列车上弹吉他",
+      "onboard_time": 1688092712,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274158,
@@ -39651,14 +39715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241948,
-      "num": 241948,
-      "word": "低成本恋爱",
-      "onboard_time": 1688090370,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 241824,
       "num": 241824,
       "word": "肖春生退伍",
@@ -44723,6 +44779,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 214239,
+      "num": 214239,
+      "word": "4GB未拆封初代iPhone拍卖",
+      "onboard_time": 1688092772,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 214199,
       "num": 490380,
       "word": "聋哑父母就医6岁女儿成翻译",
@@ -45465,6 +45529,14 @@
       "onboard_time": 1686200497,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211030,
+      "num": 211030,
+      "word": "选专业 更适合中国宝宝体质的先婚后爱",
+      "onboard_time": 1688092893,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 210909,
@@ -46329,6 +46401,14 @@
       "onboard_time": 1687688133,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206522,
+      "num": 206522,
+      "word": "公路上和大熊猫偶遇还对视谁懂啊",
+      "onboard_time": 1688093373,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206467,
@@ -50707,6 +50787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189082,
+      "num": 189082,
+      "word": "微博手机影像年",
+      "onboard_time": 1688092592,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189025,
       "num": 189025,
       "word": "吴京接谢楠下班回家",
@@ -53321,6 +53409,14 @@
       "onboard_time": 1687053805,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177379,
+      "num": 177379,
+      "word": "携程宣布全员每孩补贴5万元",
+      "onboard_time": 1688093253,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 177347,
@@ -59793,6 +59889,14 @@
       "onboard_time": 1686737490,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143352,
+      "num": 143352,
+      "word": "SNH48吕一 千秋乐",
+      "onboard_time": 1688092235,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 143338,
