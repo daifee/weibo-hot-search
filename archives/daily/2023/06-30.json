@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688089595158,
+  "endTime": 1688090854235,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -12,14 +12,14 @@
     },
     {
       "raw_hot": 2768908,
-      "num": 425604,
+      "num": 514008,
       "word": "孙怡工作室回应恋情",
       "onboard_time": 1688080404,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 2590053,
+      "raw_hot": 2626385,
       "num": 903979,
       "word": "卖菜大爷挣21元被罚款11万元",
       "onboard_time": 1688086413,
@@ -51,12 +51,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1511687,
-      "num": 1511687,
+      "raw_hot": 1560330,
+      "num": 1560330,
       "word": "仁济医院医生嫖娼为实习生造谣",
       "onboard_time": 1688085875,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1370909,
+      "num": 1370909,
+      "word": "Angelababy重现甩头发名场面",
+      "onboard_time": 1688089834,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1308192,
@@ -107,8 +115,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 984570,
-      "num": 322647,
+      "raw_hot": 993813,
+      "num": 346130,
       "word": "蓝盈莹腰线",
       "onboard_time": 1688088036,
       "rank": 20,
@@ -121,6 +129,14 @@
       "onboard_time": 1688047425,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 910830,
+      "num": 769474,
+      "word": "LWX",
+      "onboard_time": 1688089654,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 909343,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 858442,
-      "num": 492954,
+      "num": 505165,
       "word": "殷世航当花童",
       "onboard_time": 1688055993,
       "rank": 21,
@@ -177,6 +193,14 @@
       "onboard_time": 1688050368,
       "rank": 20,
       "category": "财经,幽默"
+    },
+    {
+      "raw_hot": 765179,
+      "num": 765179,
+      "word": "怎么没人写硕博士的偶像剧",
+      "onboard_time": 1688088753,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 741115,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 629219,
-      "num": 406910,
+      "num": 502580,
       "word": "前经纪人发文力挺陈建州",
       "onboard_time": 1688082451,
       "rank": 12,
@@ -233,6 +257,14 @@
       "onboard_time": 1688051566,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 600363,
+      "num": 600363,
+      "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
+      "onboard_time": 1688089293,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590193,
@@ -265,6 +297,14 @@
       "onboard_time": 1688042859,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 530503,
+      "num": 510906,
+      "word": "夫家虚构700万债务逼女子净身出户",
+      "onboard_time": 1688088693,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524020,
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 509477,
-      "num": 371239,
+      "num": 403524,
       "word": "曾黎声援辛芷蕾",
       "onboard_time": 1688082269,
       "rank": 15,
@@ -339,20 +379,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 460102,
+      "num": 342927,
+      "word": "香港艺人vs内地艺人",
+      "onboard_time": 1688087912,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 453495,
       "num": 590263,
       "word": "蜱虫在老人脖子上吸完血大如黄豆",
       "onboard_time": 1688050969,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433692,
-      "num": 312194,
-      "word": "怎么没人写硕博士的偶像剧",
-      "onboard_time": 1688088753,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 413028,
@@ -376,14 +416,6 @@
       "word": "韩国网友对长月烬明的评价",
       "onboard_time": 1688060540,
       "rank": 0,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 405638,
-      "num": 310525,
-      "word": "香港艺人vs内地艺人",
-      "onboard_time": 1688087912,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350966,
+      "num": 350966,
+      "word": "宋妍霏左眼流泪右眼笑",
+      "onboard_time": 1688090553,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348230,
       "num": 348230,
       "word": "温兆伦刘惜君合唱一生何求",
@@ -448,14 +488,6 @@
       "word": "重庆客车被落石砸中致6死9伤",
       "onboard_time": 1688047365,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323501,
-      "num": 323501,
-      "word": "夫家虚构700万债务逼女子净身出户",
-      "onboard_time": 1688088693,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 302426,
-      "num": 229579,
+      "num": 250104,
       "word": "他甚至模仿了穿模",
       "onboard_time": 1688087255,
       "rank": 30,
@@ -539,20 +571,20 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 241948,
+      "num": 241948,
+      "word": "低成本恋爱",
+      "onboard_time": 1688090370,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 238750,
       "num": 238750,
       "word": "鉴证实录",
       "onboard_time": 1688058325,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231606,
-      "num": 231606,
-      "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
-      "onboard_time": 1688089293,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224020,
@@ -681,6 +713,22 @@
       "onboard_time": 1688041956,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 144421,
+      "num": 144421,
+      "word": "我脑补不同状态下的自己",
+      "onboard_time": 1688090671,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 136401,
+      "num": 136401,
+      "word": "永远会被6岁孩子的纯真打动",
+      "onboard_time": 1688090671,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 133548,
