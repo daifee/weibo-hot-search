@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688099825462,
+  "endTime": 1688102283377,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -49,6 +49,14 @@
       "onboard_time": 1688053602,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1923003,
+      "num": 1923003,
+      "word": "奔跑吧今天播不播",
+      "onboard_time": 1688100275,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1918679,
@@ -107,7 +115,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1349767,
+      "raw_hot": 1381360,
       "num": 1027402,
       "word": "孟美岐说要放下以前的包袱",
       "onboard_time": 1688097094,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 996237,
-      "num": 395623,
+      "num": 395999,
       "word": "指甲上很多洞洞是什么病啊",
       "onboard_time": 1688098475,
       "rank": 21,
@@ -257,6 +265,14 @@
       "onboard_time": 1688097695,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 781331,
+      "num": 781331,
+      "word": "倪妮和朱一龙对戏指尖都在用力",
+      "onboard_time": 1688098417,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 777387,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 669624,
+      "num": 601921,
+      "word": "杨雪杨颖暮色心约演母女",
+      "onboard_time": 1688098535,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 647462,
       "num": 647462,
       "word": "去故宫的时候一定要抬头",
@@ -360,14 +384,6 @@
       "word": "肖战潇洒走一回",
       "onboard_time": 1688052527,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 629670,
-      "num": 629670,
-      "word": "倪妮和朱一龙对戏指尖都在用力",
-      "onboard_time": 1688098417,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528396,
+      "num": 438955,
+      "word": "柳智敏最新ins",
+      "onboard_time": 1688098359,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524020,
       "num": 524020,
       "word": "唐朝早就有多巴胺穿搭了",
@@ -515,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 500828,
-      "num": 330238,
-      "word": "杨雪杨颖暮色心约演母女",
-      "onboard_time": 1688098535,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 479731,
       "num": 479731,
       "word": "郁可唯大湾区再唱水中花",
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 454408,
-      "num": 324213,
+      "num": 363306,
       "word": "Angelababy正装照",
       "onboard_time": 1688098716,
       "rank": 35,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 432902,
-      "num": 322432,
+      "num": 352694,
       "word": "齐藤壮马宣布结婚",
       "onboard_time": 1688098956,
       "rank": 25,
@@ -611,20 +627,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404123,
+      "num": 404123,
+      "word": "公路上和大熊猫偶遇还对视谁懂啊",
+      "onboard_time": 1688093373,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399643,
       "num": 399643,
       "word": "徐小凤 今晚最佳",
       "onboard_time": 1688045982,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 399318,
-      "num": 321198,
-      "word": "柳智敏最新ins",
-      "onboard_time": 1688098359,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 391873,
@@ -651,12 +667,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369632,
+      "num": 369632,
+      "word": "如何评价肖战的演唱水准",
+      "onboard_time": 1688101237,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368804,
       "num": 368804,
       "word": "Ella自曝出道后被性骚扰",
       "onboard_time": 1688027077,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367705,
+      "num": 367705,
+      "word": "中南大学一宿舍边上百台自行车被丢弃",
+      "onboard_time": 1688099377,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 360668,
+      "num": 360668,
+      "word": "乘风2023四公",
+      "onboard_time": 1688100217,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 360192,
@@ -667,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359102,
+      "num": 359102,
+      "word": "芭莎拍的谢娜",
+      "onboard_time": 1688099674,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 348230,
       "num": 348230,
       "word": "温兆伦刘惜君合唱一生何求",
       "onboard_time": 1688051207,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346706,
+      "num": 229980,
+      "word": "赵今麦波点纱裙",
+      "onboard_time": 1688100036,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 342231,
@@ -729,14 +785,6 @@
       "onboard_time": 1688028460,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320345,
-      "num": 320345,
-      "word": "公路上和大熊猫偶遇还对视谁懂啊",
-      "onboard_time": 1688093373,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315521,
@@ -827,6 +875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259260,
+      "num": 361084,
+      "word": "安慕希",
+      "onboard_time": 1688100519,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 256467,
       "num": 636455,
       "word": "官方回应山西代县瞒报17名矿工死亡",
@@ -859,12 +915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229243,
-      "num": 229243,
-      "word": "中南大学一宿舍边上百台自行车被丢弃",
-      "onboard_time": 1688099377,
-      "rank": 42,
-      "category": "社会新闻,教育"
+      "raw_hot": 226023,
+      "num": 226023,
+      "word": "妈妈总是在向我的童年道歉",
+      "onboard_time": 1688100275,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 224020,
@@ -873,6 +929,14 @@
       "onboard_time": 1688089052,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224011,
+      "num": 206841,
+      "word": "Ella说芝芙中文超过蔡少芬了",
+      "onboard_time": 1688102134,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 219295,
@@ -891,6 +955,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 213350,
+      "num": 204243,
+      "word": "秋瓷炫淘汰全场大哭",
+      "onboard_time": 1688102254,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209256,
+      "num": 209256,
+      "word": "决战平安京",
+      "onboard_time": 1688101473,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204824,
       "num": 507605,
       "word": "樊振东3比0安宰贤",
@@ -905,6 +985,14 @@
       "onboard_time": 1688086594,
       "rank": 35,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 196707,
+      "num": 196707,
+      "word": "vampire",
+      "onboard_time": 1688101654,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 196231,
@@ -1003,12 +1091,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177835,
-      "num": 207632,
-      "word": "芭莎拍的谢娜",
-      "onboard_time": 1688099674,
-      "rank": 47,
-      "category": "作品衍生,时尚"
+      "raw_hot": 175691,
+      "num": 175691,
+      "word": "MLB美职棒大联盟",
+      "onboard_time": 1688102254,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 169668,
@@ -1211,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83494,
+      "num": 1241030,
+      "word": "这批新规7月开始施行",
+      "onboard_time": 1688101117,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82239,
       "num": 50626,
       "word": "田柾国将solo出道",
@@ -1219,8 +1315,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 63762,
-      "num": 144454,
+      "raw_hot": 75242,
+      "num": 445061,
       "word": "澳大利亚顶流原来是它",
       "onboard_time": 1688094037,
       "rank": 49,
@@ -1271,6 +1367,9 @@
     },
     {
       "word": "#中国共产党基层组织506.5万个#"
+    },
+    {
+      "word": "#习近平将出席上海合作组织成员国元首理事会第二十三次会议#"
     }
   ]
 }
