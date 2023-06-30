@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688124822867,
+  "endTime": 1688128646965,
   "band_list": [
     {
       "raw_hot": 8270859,
@@ -115,6 +115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1969885,
+      "num": 735349,
+      "word": "搂着扫楼",
+      "onboard_time": 1688127094,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1918679,
       "num": 409534,
       "word": "张雪峰 降低了信息不对称",
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1597661,
+      "num": 832344,
+      "word": "第一次嗑内娱cp",
+      "onboard_time": 1688121397,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1577275,
       "num": 1535277,
       "word": "LWX",
@@ -185,6 +201,14 @@
       "onboard_time": 1688085875,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1557230,
+      "num": 417230,
+      "word": "台媒曝陈建州曾偷拍大牙照片",
+      "onboard_time": 1688125054,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1389343,
@@ -273,6 +297,14 @@
       "onboard_time": 1688093253,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1217383,
+      "num": 353499,
+      "word": "范玮琪演唱会遭网友抵制",
+      "onboard_time": 1688124217,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1210229,
@@ -419,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 869704,
+      "num": 324999,
+      "word": "优酷回复赵露思",
+      "onboard_time": 1688127274,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 866886,
       "num": 410568,
       "word": "山姆泡面桶炒至500元仍遭疯抢",
@@ -427,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 860168,
-      "num": 832344,
-      "word": "第一次嗑内娱cp",
-      "onboard_time": 1688121397,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 858442,
       "num": 505165,
       "word": "殷世航当花童",
       "onboard_time": 1688055993,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 821230,
+      "num": 376200,
+      "word": "泰坦号失事前水下短信通信记录",
+      "onboard_time": 1688126914,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 792089,
@@ -515,6 +555,14 @@
       "category": "财经,幽默"
     },
     {
+      "raw_hot": 764706,
+      "num": 315843,
+      "word": "徐穗珍开通ins",
+      "onboard_time": 1688125416,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 761495,
       "num": 761495,
       "word": "莎头",
@@ -545,6 +593,14 @@
       "onboard_time": 1688090553,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 721976,
+      "num": 721976,
+      "word": "日食记 被低估的贵州美食",
+      "onboard_time": 1688124936,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 709144,
@@ -771,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534155,
+      "num": 239582,
+      "word": "张雪峰老师推荐的十大高薪专业",
+      "onboard_time": 1688127996,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531616,
       "num": 458383,
       "word": "柳智敏最新ins",
@@ -955,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 431550,
-      "num": 227868,
-      "word": "范玮琪演唱会遭网友抵制",
-      "onboard_time": 1688124217,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 421085,
+      "num": 421085,
+      "word": "中国女排",
+      "onboard_time": 1688123676,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 417909,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1688093373,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401158,
+      "num": 244008,
+      "word": "小S风波后录制节目",
+      "onboard_time": 1688127336,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 399643,
@@ -1339,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315016,
+      "num": 243279,
+      "word": "白鹿发了新鲜照片",
+      "onboard_time": 1688126794,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310672,
       "num": 254077,
       "word": "红楼梦",
@@ -1387,12 +1467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295700,
+      "num": 242015,
+      "word": "杨幂紫衣古装梦回扶摇",
+      "onboard_time": 1688123676,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293971,
       "num": 361084,
       "word": "安慕希",
       "onboard_time": 1688100519,
       "rank": 29,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 293422,
+      "num": 241066,
+      "word": "杨洋你尽管秀",
+      "onboard_time": 1688124217,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291873,
@@ -1491,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266200,
+      "num": 266200,
+      "word": "萌二坐冰块给屁股降温结果冻住了",
+      "onboard_time": 1688124217,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263372,
       "num": 263372,
       "word": "爸妈 该处还得处",
@@ -1547,14 +1651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247428,
-      "num": 247428,
-      "word": "萌二坐冰块给屁股降温结果冻住了",
-      "onboard_time": 1688124217,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245664,
       "num": 316076,
       "word": "MLB美职棒大联盟",
@@ -1603,12 +1699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228735,
-      "num": 228735,
-      "word": "杨洋你尽管秀",
-      "onboard_time": 1688124217,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 234193,
+      "num": 213748,
+      "word": "iG对战TES",
+      "onboard_time": 1688128353,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 226023,
@@ -1667,20 +1763,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 214336,
+      "num": 214336,
+      "word": "奥比岛",
+      "onboard_time": 1688127156,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209256,
       "num": 209256,
       "word": "决战平安京",
       "onboard_time": 1688101473,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206601,
-      "num": 206601,
-      "word": "中国女排",
-      "onboard_time": 1688123676,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 204824,
@@ -1769,14 +1865,6 @@
       "onboard_time": 1688117375,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189577,
-      "num": 189577,
-      "word": "杨幂紫衣古装梦回扶摇",
-      "onboard_time": 1688123676,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 189082,
@@ -1923,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168184,
+      "num": 168184,
+      "word": "偷偷藏不住",
+      "onboard_time": 1688125895,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166947,
       "num": 166947,
       "word": "外国人在中国的文化冲击",
@@ -1945,6 +2041,14 @@
       "onboard_time": 1688110718,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162062,
+      "num": 162062,
+      "word": "五险一金为什么重要",
+      "onboard_time": 1688128298,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 161212,
@@ -2195,6 +2299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100332,
+      "num": 349038,
+      "word": "女子救助3岁走失娃家长下跪感谢",
+      "onboard_time": 1688126434,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99647,
       "num": 278710,
       "word": "阿斯巴甜",
@@ -2243,11 +2355,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81822,
+      "num": 184298,
+      "word": "情侣约会吃饭应该AA吗",
+      "onboard_time": 1688126434,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81330,
+      "num": 1353960,
+      "word": "大熊猫圆梦即将回国",
+      "onboard_time": 1688112096,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78628,
       "num": 2451073,
       "word": "上半年最后一天",
       "onboard_time": 1688082329,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72664,
+      "num": 239663,
+      "word": "两头亚洲象泥坑里嬉戏打闹",
+      "onboard_time": 1688125895,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
