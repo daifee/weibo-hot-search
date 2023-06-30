@@ -1,0 +1,410 @@
+{
+  "runTime": 1688120385341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3550038,
+        "num": 3550038,
+        "word": "胖东来",
+        "onboard_time": 1688109633,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914446,
+        "num": 2844698,
+        "word": "爸爸用15元买了孩子一下午的快乐",
+        "onboard_time": 1688111197,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 53994,
+        "num": 2400293,
+        "word": "上半年最后一天",
+        "onboard_time": 1688082329,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2204970,
+        "num": 2204970,
+        "word": "白敬亭宋轶同框",
+        "onboard_time": 1688113056,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412423,
+        "num": 1209635,
+        "word": "孕妻身体不适丈夫产房外哭泣守护",
+        "onboard_time": 1688111797,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181054,
+        "num": 1181054,
+        "word": "奔跑吧今天播不播",
+        "onboard_time": 1688100275,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229124,
+        "num": 968302,
+        "word": "大棕熊着急下班咣咣砸门",
+        "onboard_time": 1688117195,
+        "rank": 6,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 900918,
+        "num": 900918,
+        "word": "胖东来创始人称赚的钱基本给员工分完了",
+        "onboard_time": 1688118275,
+        "rank": 7,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 780301,
+        "num": 780301,
+        "word": "卸妆油在云南高反了",
+        "onboard_time": 1688118335,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 768713,
+        "num": 768713,
+        "word": "苏州一男子高楼徘徊数小时后跳楼身亡",
+        "onboard_time": 1688117555,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2203962,
+        "num": 763379,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 741339,
+        "num": 741339,
+        "word": "赵露思私信优酷催更",
+        "onboard_time": 1688115034,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 698259,
+        "num": 698259,
+        "word": "为白敬亭的回答发疯",
+        "onboard_time": 1688117733,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1230468,
+        "num": 697988,
+        "word": "汪建民 我愿跟女方对质",
+        "onboard_time": 1688113297,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694248,
+        "num": 694248,
+        "word": "消失的她票根隐藏款是陈思诚",
+        "onboard_time": 1688118335,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 612598,
+        "num": 612598,
+        "word": "怀孕后子宫体积能增大多少",
+        "onboard_time": 1688109757,
+        "rank": 15,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 581128,
+        "num": 581128,
+        "word": "杨颖欧阳娜娜都穿不上的裤子",
+        "onboard_time": 1688118215,
+        "rank": 16,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 508540,
+        "num": 508540,
+        "word": "巴厘岛警方回应中国情侣命案调查结果",
+        "onboard_time": 1688114255,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 447598,
+        "num": 447598,
+        "word": "探访萧敬腾的8层别墅",
+        "onboard_time": 1688114255,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418413,
+        "num": 418413,
+        "word": "我妈问我对面是不是上海",
+        "onboard_time": 1688114795,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 416263,
+        "num": 416263,
+        "word": "Lisa来了都得迷惑",
+        "onboard_time": 1688117733,
+        "rank": 20,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 410568,
+        "num": 410568,
+        "word": "山姆泡面桶炒至500元仍遭疯抢",
+        "onboard_time": 1688103931,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393441,
+        "num": 393441,
+        "word": "大小S姑姑力挺陈建州范玮琪",
+        "onboard_time": 1688110175,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392240,
+        "num": 392240,
+        "word": "奔跑吧",
+        "onboard_time": 1688091813,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384692,
+        "num": 384692,
+        "word": "人民币汇率跌破7.25",
+        "onboard_time": 1688110897,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 387700,
+        "num": 375903,
+        "word": "浙江卫视节目单奔跑吧泰国篇",
+        "onboard_time": 1688119895,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362013,
+        "num": 362013,
+        "word": "因为报销太难离职了",
+        "onboard_time": 1688119353,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350410,
+        "num": 350410,
+        "word": "EXO先行曲HearMeOut",
+        "onboard_time": 1688116114,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322871,
+        "num": 322871,
+        "word": "沈月秒猜陈哲远第一部戏女主角",
+        "onboard_time": 1688115935,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263382,
+        "num": 263382,
+        "word": "林高远王艺迪",
+        "onboard_time": 1688115935,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320169,
+        "num": 255395,
+        "word": "桑稚一句话让桑延回不了家",
+        "onboard_time": 1688119055,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291520,
+        "num": 254513,
+        "word": "范玮琪维护陈建州言论翻车",
+        "onboard_time": 1688103513,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291412,
+        "num": 251530,
+        "word": "敬鸿轶瞥",
+        "onboard_time": 1688115636,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234012,
+        "num": 234012,
+        "word": "女高材生制售救猫药案一审宣判",
+        "onboard_time": 1688114617,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215109,
+        "num": 215109,
+        "word": "哪些行为明明是虐待却一直意识不到",
+        "onboard_time": 1688117972,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276247,
+        "num": 214503,
+        "word": "鹿晗重庆站加场",
+        "onboard_time": 1688118934,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253971,
+        "num": 213091,
+        "word": "周翊然回应粉丝我不苦",
+        "onboard_time": 1688119954,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231360,
+        "num": 212405,
+        "word": "肖战上班vs下班",
+        "onboard_time": 1688109455,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210506,
+        "num": 210506,
+        "word": "堂哥失联7年堂弟报警后奇迹发生",
+        "onboard_time": 1688119954,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25097,
+        "num": 210389,
+        "word": "黄健翔说99年女足是女神",
+        "onboard_time": 1688119233,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224059,
+        "num": 210371,
+        "word": "桑稚段嘉许忘记桑延的存在",
+        "onboard_time": 1688112816,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210338,
+        "num": 210338,
+        "word": "金靖说Angelababy照片还用P",
+        "onboard_time": 1688114738,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200365,
+        "num": 200365,
+        "word": "比盐粒还小的手提包卖出46.2万",
+        "onboard_time": 1688115993,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 194959,
+        "num": 194959,
+        "word": "胖东来调查报告 危机公关说明书",
+        "onboard_time": 1688119174,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 191303,
+        "num": 191303,
+        "word": "文咏珊笑的好像妍珍找厕所",
+        "onboard_time": 1688108675,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190480,
+        "num": 190480,
+        "word": "狗尴尬的时候会假装很忙",
+        "onboard_time": 1688117375,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184732,
+        "num": 184732,
+        "word": "所以螃蟹是有智商的吧",
+        "onboard_time": 1688116775,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182148,
+        "num": 182148,
+        "word": "赵今麦左脸vs右脸",
+        "onboard_time": 1688117496,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172964,
+        "num": 172964,
+        "word": "父母反对我和男友毕业旅行",
+        "onboard_time": 1688117555,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168322,
+        "num": 168322,
+        "word": "邻座女子靠老公肩膀睡着老婆装没事",
+        "onboard_time": 1688120253,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党党员总数9804.1万名#"
+    }
+  }
+}
