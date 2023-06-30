@@ -1,0 +1,410 @@
+{
+  "runTime": 1688089595158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1511687,
+        "num": 1511687,
+        "word": "仁济医院医生嫖娼为实习生造谣",
+        "onboard_time": 1688085875,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210229,
+        "num": 1210229,
+        "word": "她背包里掏出大西瓜消防员也没想到",
+        "onboard_time": 1688082087,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6467,
+        "num": 905540,
+        "word": "2023年中国网络文明大会新闻发布会",
+        "onboard_time": 1688020476,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2590053,
+        "num": 903979,
+        "word": "卖菜大爷挣21元被罚款11万元",
+        "onboard_time": 1688086413,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895387,
+        "num": 895387,
+        "word": "你贫血的原因可能和咖啡有关",
+        "onboard_time": 1688084552,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 685501,
+        "num": 685501,
+        "word": "杰森斯坦森回应爱称郭达",
+        "onboard_time": 1688084552,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570967,
+        "num": 570967,
+        "word": "小伙在没信号的原始森林隐居4年",
+        "onboard_time": 1688086533,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524020,
+        "num": 524020,
+        "word": "唐朝早就有多巴胺穿搭了",
+        "onboard_time": 1688079863,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 468714,
+        "num": 468714,
+        "word": "人性最大的恶",
+        "onboard_time": 1688083531,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 428049,
+        "num": 428049,
+        "word": "四胞胎高考出分父亲给警察打电话报喜",
+        "onboard_time": 1688079804,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2221584,
+        "num": 425604,
+        "word": "孙怡工作室回应恋情",
+        "onboard_time": 1688080404,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1918679,
+        "num": 409534,
+        "word": "张雪峰 降低了信息不对称",
+        "onboard_time": 1688082871,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629219,
+        "num": 406910,
+        "word": "前经纪人发文力挺陈建州",
+        "onboard_time": 1688082451,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581065,
+        "num": 397521,
+        "word": "殷世航当花童",
+        "onboard_time": 1688055993,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 567570,
+        "num": 381762,
+        "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+        "onboard_time": 1688030738,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509477,
+        "num": 371239,
+        "word": "曾黎声援辛芷蕾",
+        "onboard_time": 1688082269,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371167,
+        "num": 371167,
+        "word": "肖战真唱",
+        "onboard_time": 1688051809,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325766,
+        "num": 325766,
+        "word": "港星赢得很彻底",
+        "onboard_time": 1688046642,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323501,
+        "num": 323501,
+        "word": "夫家虚构700万债务逼女子净身出户",
+        "onboard_time": 1688088693,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503430,
+        "num": 322859,
+        "word": "LPL大瓜",
+        "onboard_time": 1688053602,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 984570,
+        "num": 322647,
+        "word": "蓝盈莹腰线",
+        "onboard_time": 1688088036,
+        "rank": 20,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 322042,
+        "num": 322042,
+        "word": "关晓彤帽子P掉了鹿晗品牌",
+        "onboard_time": 1688028460,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604837,
+        "num": 320485,
+        "word": "月薪5000真的有点低",
+        "onboard_time": 1688050368,
+        "rank": 22,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 433692,
+        "num": 312194,
+        "word": "怎么没人写硕博士的偶像剧",
+        "onboard_time": 1688088753,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405638,
+        "num": 310525,
+        "word": "香港艺人vs内地艺人",
+        "onboard_time": 1688087912,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300644,
+        "num": 300644,
+        "word": "关晓彤这腿",
+        "onboard_time": 1688047425,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298096,
+        "num": 298096,
+        "word": "刘浩存好漂亮",
+        "onboard_time": 1688049826,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263372,
+        "num": 263372,
+        "word": "爸妈 该处还得处",
+        "onboard_time": 1688083531,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 261115,
+        "num": 261115,
+        "word": "韩国网友对长月烬明的评价",
+        "onboard_time": 1688060540,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231606,
+        "num": 231606,
+        "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
+        "onboard_time": 1688089293,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302426,
+        "num": 229579,
+        "word": "他甚至模仿了穿模",
+        "onboard_time": 1688087255,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224020,
+        "num": 224020,
+        "word": "当我飞奔向你吻戏花絮",
+        "onboard_time": 1688089052,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215718,
+        "num": 215718,
+        "word": "范玮琪 我丈夫是个正直的人",
+        "onboard_time": 1688026115,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214790,
+        "num": 214790,
+        "word": "做一个心里富裕的小孩",
+        "onboard_time": 1688086115,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 199277,
+        "num": 199277,
+        "word": "任嘉伦Angelababy对手戏",
+        "onboard_time": 1688076136,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197155,
+        "num": 197155,
+        "word": "不是所有视频都是视频 也可能是定格动画",
+        "onboard_time": 1688086594,
+        "rank": 35,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 196231,
+        "num": 196231,
+        "word": "温碧霞娜然两代妲己同框",
+        "onboard_time": 1688047724,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194407,
+        "num": 194407,
+        "word": "吴京把苏有朋唱卡壳了",
+        "onboard_time": 1688053248,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192960,
+        "num": 192960,
+        "word": "76人将交易哈登",
+        "onboard_time": 1688082631,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188535,
+        "num": 188535,
+        "word": "去故宫的时候一定要抬头",
+        "onboard_time": 1688041832,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 185054,
+        "num": 185054,
+        "word": "同事不让开空调还把空调封了",
+        "onboard_time": 1688082929,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180326,
+        "num": 180326,
+        "word": "大熊猫雅一把秋千坐断了",
+        "onboard_time": 1688050907,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179625,
+        "num": 179625,
+        "word": "戴这俩冰袖是为了啥",
+        "onboard_time": 1688047603,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168873,
+        "num": 168873,
+        "word": "钟楚曦在线追星",
+        "onboard_time": 1688083713,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168364,
+        "num": 168364,
+        "word": "蜱虫在老人脖子上吸完血大如黄豆",
+        "onboard_time": 1688050969,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163531,
+        "num": 163531,
+        "word": "许嵩挽回了面子",
+        "onboard_time": 1688047425,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156463,
+        "num": 156463,
+        "word": "这一看就是亲生的猫咪",
+        "onboard_time": 1688086774,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155428,
+        "num": 155428,
+        "word": "崔叡娜新歌下架",
+        "onboard_time": 1688053602,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151680,
+        "num": 151680,
+        "word": "辛芷蕾自曝小时候遭遇猥亵",
+        "onboard_time": 1688036434,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149733,
+        "num": 149733,
+        "word": "官方回应上海外滩夜景灯光被吐槽",
+        "onboard_time": 1688071512,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对党的建设和组织工作作出重要指示#"
+    }
+  }
+}

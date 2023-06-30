@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688081671636,
+  "endTime": 1688089595158,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 2768908,
-      "num": 374058,
+      "num": 425604,
       "word": "孙怡工作室回应恋情",
       "onboard_time": 1688080404,
       "rank": 11,
@@ -361,6 +361,14 @@
       "onboard_time": 1688047425,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2590053,
+      "num": 903979,
+      "word": "卖菜大爷挣21元被罚款11万元",
+      "onboard_time": 1688086413,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2582857,
@@ -723,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1918679,
+      "num": 409534,
+      "word": "张雪峰 降低了信息不对称",
+      "onboard_time": 1688082871,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1893322,
       "num": 1893322,
       "word": "爷爷临终前开了个玩笑",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1687828959,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1511687,
+      "num": 1511687,
+      "word": "仁济医院医生嫖娼为实习生造谣",
+      "onboard_time": 1688085875,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1498422,
@@ -1377,6 +1401,14 @@
       "onboard_time": 1687871261,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1210229,
+      "num": 1210229,
+      "word": "她背包里掏出大西瓜消防员也没想到",
+      "onboard_time": 1688082087,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1202003,
@@ -1819,6 +1851,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 984570,
+      "num": 322647,
+      "word": "蓝盈莹腰线",
+      "onboard_time": 1688088036,
+      "rank": 20,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 972553,
       "num": 972553,
       "word": "张睿谈被披哥节目组连拒四次",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1687871860,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 895387,
+      "num": 895387,
+      "word": "你贫血的原因可能和咖啡有关",
+      "onboard_time": 1688084552,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 890345,
@@ -2739,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 685501,
+      "num": 685501,
+      "word": "杰森斯坦森回应爱称郭达",
+      "onboard_time": 1688084552,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 684876,
       "num": 684876,
       "word": "鹿晗张艺兴黄子韬白背心",
@@ -3017,6 +3073,14 @@
       "onboard_time": 1688044239,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 629219,
+      "num": 406910,
+      "word": "前经纪人发文力挺陈建州",
+      "onboard_time": 1688082451,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 627866,
@@ -3337,6 +3401,14 @@
       "onboard_time": 1688052279,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 570967,
+      "num": 570967,
+      "word": "小伙在没信号的原始森林隐居4年",
+      "onboard_time": 1688086533,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570745,
@@ -3715,6 +3787,14 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 524020,
+      "num": 524020,
+      "word": "唐朝早就有多巴胺穿搭了",
+      "onboard_time": 1688079863,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 521244,
       "num": 299854,
       "word": "GQ红毯谁赢了",
@@ -3825,6 +3905,14 @@
       "onboard_time": 1687756811,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 509477,
+      "num": 371239,
+      "word": "曾黎声援辛芷蕾",
+      "onboard_time": 1688082269,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 508526,
@@ -4099,14 +4187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471415,
-      "num": 471415,
-      "word": "唐朝早就有多巴胺穿搭了",
-      "onboard_time": 1688079863,
-      "rank": 47,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 471012,
       "num": 2254683,
       "word": "农村三胞胎姐妹均高分超一本线",
@@ -4137,6 +4217,14 @@
       "onboard_time": 1687758603,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 468714,
+      "num": 468714,
+      "word": "人性最大的恶",
+      "onboard_time": 1688083531,
+      "rank": 8,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 467834,
@@ -4409,6 +4497,14 @@
       "onboard_time": 1688014780,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433692,
+      "num": 312194,
+      "word": "怎么没人写硕博士的偶像剧",
+      "onboard_time": 1688088753,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 433664,
@@ -4721,6 +4817,14 @@
       "onboard_time": 1688035778,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 405638,
+      "num": 310525,
+      "word": "香港艺人vs内地艺人",
+      "onboard_time": 1688087912,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 405016,
@@ -5779,6 +5883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323501,
+      "num": 323501,
+      "word": "夫家虚构700万债务逼女子净身出户",
+      "onboard_time": 1688088693,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322962,
       "num": 322962,
       "word": "狮子表演时突然失控伸出头",
@@ -6200,6 +6312,14 @@
       "word": "当寺院师傅说我旺夫",
       "onboard_time": 1687954893,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 302426,
+      "num": 229579,
+      "word": "他甚至模仿了穿模",
+      "onboard_time": 1688087255,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -6947,6 +7067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263372,
+      "num": 263372,
+      "word": "爸妈 该处还得处",
+      "onboard_time": 1688083531,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 262731,
       "num": 262731,
       "word": "赵露思桑稚头像",
@@ -7683,6 +7811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231606,
+      "num": 231606,
+      "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
+      "onboard_time": 1688089293,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231145,
       "num": 231145,
       "word": "女子2年被老公家暴16次需终身挂粪袋",
@@ -7849,6 +7985,14 @@
       "onboard_time": 1688044602,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 224020,
+      "num": 224020,
+      "word": "当我飞奔向你吻戏花絮",
+      "onboard_time": 1688089052,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 223437,
@@ -8113,6 +8257,14 @@
       "onboard_time": 1687923034,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214790,
+      "num": 214790,
+      "word": "做一个心里富裕的小孩",
+      "onboard_time": 1688086115,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 214400,
@@ -8603,6 +8755,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 197155,
+      "num": 197155,
+      "word": "不是所有视频都是视频 也可能是定格动画",
+      "onboard_time": 1688086594,
+      "rank": 35,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 197038,
       "num": 197038,
       "word": "单眼皮化妆的痛",
@@ -8753,6 +8913,14 @@
       "onboard_time": 1688017416,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192960,
+      "num": 192960,
+      "word": "76人将交易哈登",
+      "onboard_time": 1688082631,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 192898,
@@ -9065,6 +9233,14 @@
       "onboard_time": 1687831957,
       "rank": 42,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 185054,
+      "num": 185054,
+      "word": "同事不让开空调还把空调封了",
+      "onboard_time": 1688082929,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 184180,
@@ -9459,6 +9635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168873,
+      "num": 168873,
+      "word": "钟楚曦在线追星",
+      "onboard_time": 1688083713,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168835,
       "num": 490052,
       "word": "女子吃席第一道菜是冰淇淋",
@@ -9633,6 +9817,14 @@
       "onboard_time": 1687832074,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156463,
+      "num": 156463,
+      "word": "这一看就是亲生的猫咪",
+      "onboard_time": 1688086774,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 155647,

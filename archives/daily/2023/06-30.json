@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688081671636,
+  "endTime": 1688089595158,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2768908,
-      "num": 374058,
+      "num": 425604,
       "word": "孙怡工作室回应恋情",
       "onboard_time": 1688080404,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2590053,
+      "num": 903979,
+      "word": "卖菜大爷挣21元被罚款11万元",
+      "onboard_time": 1688086413,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1985909,
@@ -27,12 +35,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1918679,
+      "num": 409534,
+      "word": "张雪峰 降低了信息不对称",
+      "onboard_time": 1688082871,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1790762,
       "num": 1790762,
       "word": "港星赢得很彻底",
       "onboard_time": 1688046642,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1511687,
+      "num": 1511687,
+      "word": "仁济医院医生嫖娼为实习生造谣",
+      "onboard_time": 1688085875,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1308192,
@@ -49,6 +73,14 @@
       "onboard_time": 1688053306,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1210229,
+      "num": 1210229,
+      "word": "她背包里掏出大西瓜消防员也没想到",
+      "onboard_time": 1688082087,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1158793,
@@ -75,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 984570,
+      "num": 322647,
+      "word": "蓝盈莹腰线",
+      "onboard_time": 1688088036,
+      "rank": 20,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 929972,
       "num": 643783,
       "word": "关晓彤这腿",
@@ -89,6 +129,14 @@
       "onboard_time": 1688071512,
       "rank": 9,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 895387,
+      "num": 895387,
+      "word": "你贫血的原因可能和咖啡有关",
+      "onboard_time": 1688084552,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 874113,
@@ -147,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 685501,
+      "num": 685501,
+      "word": "杰森斯坦森回应爱称郭达",
+      "onboard_time": 1688084552,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 647462,
       "num": 647462,
       "word": "去故宫的时候一定要抬头",
@@ -161,6 +217,14 @@
       "onboard_time": 1688052527,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 629219,
+      "num": 406910,
+      "word": "前经纪人发文力挺陈建州",
+      "onboard_time": 1688082451,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 627789,
@@ -179,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570967,
+      "num": 570967,
+      "word": "小伙在没信号的原始森林隐居4年",
+      "onboard_time": 1688086533,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554667,
       "num": 554667,
       "word": "任嘉伦Angelababy对手戏",
@@ -193,6 +265,14 @@
       "onboard_time": 1688042859,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 524020,
+      "num": 524020,
+      "word": "唐朝早就有多巴胺穿搭了",
+      "onboard_time": 1688079863,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 523492,
@@ -227,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 509477,
+      "num": 371239,
+      "word": "曾黎声援辛芷蕾",
+      "onboard_time": 1688082269,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504650,
       "num": 504650,
       "word": "林保怡 陈慧珊",
@@ -243,12 +331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471415,
-      "num": 471415,
-      "word": "唐朝早就有多巴胺穿搭了",
-      "onboard_time": 1688079863,
-      "rank": 47,
-      "category": "时尚"
+      "raw_hot": 468714,
+      "num": 468714,
+      "word": "人性最大的恶",
+      "onboard_time": 1688083531,
+      "rank": 8,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 453495,
@@ -257,6 +345,14 @@
       "onboard_time": 1688050969,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433692,
+      "num": 312194,
+      "word": "怎么没人写硕博士的偶像剧",
+      "onboard_time": 1688088753,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 413028,
@@ -280,6 +376,14 @@
       "word": "韩国网友对长月烬明的评价",
       "onboard_time": 1688060540,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 405638,
+      "num": 310525,
+      "word": "香港艺人vs内地艺人",
+      "onboard_time": 1688087912,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -347,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323501,
+      "num": 323501,
+      "word": "夫家虚构700万债务逼女子净身出户",
+      "onboard_time": 1688088693,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322042,
+      "num": 322042,
+      "word": "关晓彤帽子P掉了鹿晗品牌",
+      "onboard_time": 1688028460,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315153,
       "num": 645878,
       "word": "wtt",
@@ -363,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302426,
+      "num": 229579,
+      "word": "他甚至模仿了穿模",
+      "onboard_time": 1688087255,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291873,
       "num": 634777,
       "word": "微信支付的手续费是否过高了",
@@ -371,12 +499,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 266408,
-      "num": 266408,
-      "word": "关晓彤帽子P掉了鹿晗品牌",
-      "onboard_time": 1688028460,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 263372,
+      "num": 263372,
+      "word": "爸妈 该处还得处",
+      "onboard_time": 1688083531,
+      "rank": 27,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 259941,
@@ -419,12 +547,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231606,
+      "num": 231606,
+      "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
+      "onboard_time": 1688089293,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224020,
+      "num": 224020,
+      "word": "当我飞奔向你吻戏花絮",
+      "onboard_time": 1688089052,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219295,
       "num": 633785,
       "word": "为什么火锅价格越来越贵了",
       "onboard_time": 1688042499,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214790,
+      "num": 214790,
+      "word": "做一个心里富裕的小孩",
+      "onboard_time": 1688086115,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 204824,
@@ -435,12 +587,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197155,
+      "num": 197155,
+      "word": "不是所有视频都是视频 也可能是定格动画",
+      "onboard_time": 1688086594,
+      "rank": 35,
+      "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 196231,
+      "num": 196231,
+      "word": "温碧霞娜然两代妲己同框",
+      "onboard_time": 1688047724,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195322,
       "num": 525043,
       "word": "如果不工作5万可以用多久",
       "onboard_time": 1688042559,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192960,
+      "num": 192960,
+      "word": "76人将交易哈登",
+      "onboard_time": 1688082631,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 192303,
@@ -465,6 +641,30 @@
       "onboard_time": 1688077637,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185054,
+      "num": 185054,
+      "word": "同事不让开空调还把空调封了",
+      "onboard_time": 1688082929,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 168873,
+      "num": 168873,
+      "word": "钟楚曦在线追星",
+      "onboard_time": 1688083713,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156463,
+      "num": 156463,
+      "word": "这一看就是亲生的猫咪",
+      "onboard_time": 1688086774,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 154790,
@@ -529,14 +729,6 @@
       "onboard_time": 1688026837,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 102370,
-      "num": 112239,
-      "word": "温碧霞娜然两代妲己同框",
-      "onboard_time": 1688047724,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 102189,
