@@ -1,0 +1,410 @@
+{
+  "runTime": 1688134619455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2600762,
+        "num": 2600762,
+        "word": "第一次嗑内娱cp",
+        "onboard_time": 1688121397,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1838812,
+        "num": 1838812,
+        "word": "1700元的周杰伦演唱会门票直接烧了",
+        "onboard_time": 1688128775,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137407,
+        "num": 1752195,
+        "word": "7月一批新规实施",
+        "onboard_time": 1688129498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2508189,
+        "num": 1554629,
+        "word": "搂着扫楼",
+        "onboard_time": 1688127094,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1971832,
+        "num": 1220756,
+        "word": "奔跑吧延期播出",
+        "onboard_time": 1688121335,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2021636,
+        "num": 1089001,
+        "word": "白敬亭是有牵手肌肉记忆吗",
+        "onboard_time": 1688133156,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 844755,
+        "num": 844755,
+        "word": "胖东来",
+        "onboard_time": 1688109633,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750603,
+        "num": 750603,
+        "word": "男子颈部插着切割机警车狂飙10分钟",
+        "onboard_time": 1688132679,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746212,
+        "num": 746212,
+        "word": "男子高铁站持刀刺2人致1死",
+        "onboard_time": 1688131777,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634140,
+        "num": 634140,
+        "word": "原来猫咪允许你摸它的鼻子是这个意思",
+        "onboard_time": 1688129672,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1565902,
+        "num": 627183,
+        "word": "赵露思宋轶全都白干",
+        "onboard_time": 1688120912,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1092780,
+        "num": 599422,
+        "word": "赵丽颖回复谢娜",
+        "onboard_time": 1688132379,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685869,
+        "num": 596675,
+        "word": "女子称怀孕6周被男友偷下打胎药",
+        "onboard_time": 1688132979,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025396,
+        "num": 577003,
+        "word": "女明星和她的保镖男友",
+        "onboard_time": 1688132140,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561149,
+        "num": 561149,
+        "word": "泰坦号失事前水下短信通信记录",
+        "onboard_time": 1688126914,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007260,
+        "num": 558388,
+        "word": "范玮琪演唱会遭网友抵制",
+        "onboard_time": 1688124217,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 540762,
+        "num": 540762,
+        "word": "歼20",
+        "onboard_time": 1688132318,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 435066,
+        "num": 435066,
+        "word": "Kindle真的要拿来盖泡面了",
+        "onboard_time": 1688130336,
+        "rank": 17,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 841720,
+        "num": 430386,
+        "word": "台媒曝陈建州曾偷拍大牙照片",
+        "onboard_time": 1688125054,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419513,
+        "num": 419513,
+        "word": "爸爸用15元买了孩子一下午的快乐",
+        "onboard_time": 1688111197,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 792269,
+        "num": 400746,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 20,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 773236,
+        "num": 399541,
+        "word": "白敬亭宋轶同框",
+        "onboard_time": 1688113056,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367743,
+        "num": 367743,
+        "word": "怀孕后子宫体积能增大多少",
+        "onboard_time": 1688109757,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 329032,
+        "num": 329032,
+        "word": "五险一金为什么重要",
+        "onboard_time": 1688128298,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291980,
+        "num": 291980,
+        "word": "日食记 被低估的贵州美食",
+        "onboard_time": 1688124936,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 639194,
+        "num": 288079,
+        "word": "消失的她",
+        "onboard_time": 1688132439,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521481,
+        "num": 280748,
+        "word": "孟佳Min合体梦回missA",
+        "onboard_time": 1688129734,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 493455,
+        "num": 270371,
+        "word": "优酷回复赵露思",
+        "onboard_time": 1688127274,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411631,
+        "num": 255370,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1688133100,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254241,
+        "num": 254241,
+        "word": "同事离职后的电脑屏保",
+        "onboard_time": 1688130997,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 962201,
+        "num": 254190,
+        "word": "跳楼遭围观起哄男子已身亡",
+        "onboard_time": 1688131236,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357384,
+        "num": 253250,
+        "word": "徐穗珍开通ins",
+        "onboard_time": 1688125416,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352636,
+        "num": 253195,
+        "word": "谢娜让赵丽颖给自己的花千骨打个分",
+        "onboard_time": 1688129796,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251848,
+        "num": 251848,
+        "word": "六月最后一天",
+        "onboard_time": 1688134060,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249442,
+        "num": 249442,
+        "word": "家里太乱被婆婆发朋友圈阴阳了",
+        "onboard_time": 1688120856,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318412,
+        "num": 219426,
+        "word": "浙江卫视节目单奔跑吧泰国篇",
+        "onboard_time": 1688119895,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315861,
+        "num": 216176,
+        "word": "我只喜欢你的人设",
+        "onboard_time": 1688131297,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188713,
+        "num": 188713,
+        "word": "不跳不是人如此起哄根本不是人话",
+        "onboard_time": 1688131659,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188669,
+        "num": 188669,
+        "word": "2023年4000元手机哪家强",
+        "onboard_time": 1688133579,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 184345,
+        "num": 184345,
+        "word": "表面舔毛实际喝奶然后被揍",
+        "onboard_time": 1688130577,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303889,
+        "num": 183718,
+        "word": "我的人间烟火",
+        "onboard_time": 1688132439,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301452,
+        "num": 180449,
+        "word": "文咏珊怎么不是我老婆",
+        "onboard_time": 1688134478,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258229,
+        "num": 177805,
+        "word": "小S风波后录制节目",
+        "onboard_time": 1688127336,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187065,
+        "num": 174222,
+        "word": "杨颖欧阳娜娜都穿不上的裤子",
+        "onboard_time": 1688118215,
+        "rank": 43,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 173499,
+        "num": 173499,
+        "word": "谢娜综艺女王的厉害",
+        "onboard_time": 1688131476,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171370,
+        "num": 171370,
+        "word": "卸妆油在云南高反了",
+        "onboard_time": 1688118335,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164380,
+        "num": 164380,
+        "word": "伯恩山犬的世界应该没有工作日吧",
+        "onboard_time": 1688134120,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 725846,
+        "num": 163698,
+        "word": "张雪峰老师推荐的十大高薪专业",
+        "onboard_time": 1688127996,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159838,
+        "num": 159838,
+        "word": "DYG对战MTG",
+        "onboard_time": 1688129796,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156224,
+        "num": 156224,
+        "word": "这娃娃机有猫腻",
+        "onboard_time": 1688134598,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#征程#"
+    }
+  }
+}
