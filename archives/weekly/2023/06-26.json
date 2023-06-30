@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688159765823,
+  "endTime": 1688160841959,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -12851,6 +12851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83371,
+      "num": 83371,
+      "word": "易烊千玺发了新鲜照片",
+      "onboard_time": 1688155814,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83210,
       "num": 84936,
       "word": "杭州比格犬耳朵卡入碎纸机被救出",
@@ -12945,14 +12953,6 @@
       "onboard_time": 1687885286,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71707,
-      "num": 67480,
-      "word": "易烊千玺发了新鲜照片",
-      "onboard_time": 1688155814,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 67723,

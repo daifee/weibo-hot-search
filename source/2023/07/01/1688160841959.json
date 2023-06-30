@@ -1,0 +1,410 @@
+{
+  "runTime": 1688160841959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 307325,
+        "num": 307325,
+        "word": "白敬亭宋轶是不是忘记官宣了",
+        "onboard_time": 1688138323,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221574,
+        "num": 221574,
+        "word": "章泽天回应拒绝张艺谋演戏",
+        "onboard_time": 1688136760,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 20812,
+        "num": 216025,
+        "word": "中国制造在土耳其火了",
+        "onboard_time": 1688129254,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214863,
+        "num": 214863,
+        "word": "越南一位老人50年没睡觉",
+        "onboard_time": 1688139821,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169448,
+        "num": 169448,
+        "word": "爱奇艺工作人员 白敬亭好好对宋轶",
+        "onboard_time": 1688137964,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91201,
+        "num": 91201,
+        "word": "其实世界上有很多情侣根本不熟",
+        "onboard_time": 1688138863,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 83371,
+        "num": 83371,
+        "word": "易烊千玺发了新鲜照片",
+        "onboard_time": 1688155814,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97335,
+        "num": 82979,
+        "word": "白敬亭是有牵手肌肉记忆吗",
+        "onboard_time": 1688133156,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77260,
+        "num": 77260,
+        "word": "泰坦号失事前水下短信通信记录",
+        "onboard_time": 1688126914,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77198,
+        "num": 77198,
+        "word": "男子颈部插着切割机警车狂飙10分钟",
+        "onboard_time": 1688132679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83059,
+        "num": 76678,
+        "word": "这和官宣有什么差别",
+        "onboard_time": 1688136704,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81764,
+        "num": 76336,
+        "word": "台媒曝陈建州曾偷拍大牙照片",
+        "onboard_time": 1688125054,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75438,
+        "num": 75438,
+        "word": "奔跑吧延期播出",
+        "onboard_time": 1688121335,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64193,
+        "num": 64193,
+        "word": "我是党员",
+        "onboard_time": 1688147539,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 72227,
+        "num": 63849,
+        "word": "范玮琪演唱会遭网友抵制",
+        "onboard_time": 1688124217,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70484,
+        "num": 62877,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 61254,
+        "num": 61254,
+        "word": "1700元的周杰伦演唱会门票直接烧了",
+        "onboard_time": 1688128775,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50233,
+        "num": 50233,
+        "word": "男子高铁站持刀刺2人致1死",
+        "onboard_time": 1688131777,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49934,
+        "num": 49934,
+        "word": "山东大学拟聘用2名硕士为公寓管理员",
+        "onboard_time": 1688139105,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46814,
+        "num": 46814,
+        "word": "原来猫咪允许你摸它的鼻子是这个意思",
+        "onboard_time": 1688129672,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131666,
+        "num": 45967,
+        "word": "裸体男子在女浴室待8分钟称误入",
+        "onboard_time": 1688139218,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55048,
+        "num": 45820,
+        "word": "李现周杰伦花海大合唱",
+        "onboard_time": 1688137303,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44652,
+        "num": 44652,
+        "word": "老板冷笑说你把简历投到了我另一家公司",
+        "onboard_time": 1688134419,
+        "rank": 22,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 42158,
+        "num": 42158,
+        "word": "家里太乱被婆婆发朋友圈阴阳了",
+        "onboard_time": 1688120856,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39448,
+        "num": 39448,
+        "word": "小S风波后录制节目",
+        "onboard_time": 1688127336,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38681,
+        "num": 38681,
+        "word": "18岁大学生为克服口吃在公交车上演讲",
+        "onboard_time": 1688136221,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 38660,
+        "num": 38660,
+        "word": "赵丽颖回复谢娜",
+        "onboard_time": 1688132379,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38022,
+        "num": 38022,
+        "word": "seventeen官宣TMEA",
+        "onboard_time": 1688141616,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35910,
+        "num": 35910,
+        "word": "歼20",
+        "onboard_time": 1688132318,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 35470,
+        "num": 35470,
+        "word": "爸爸用15元买了孩子一下午的快乐",
+        "onboard_time": 1688111197,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 34947,
+        "num": 34947,
+        "word": "李现把周杰伦to签穿身上",
+        "onboard_time": 1688135978,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30809,
+        "num": 30809,
+        "word": "艾伦阿金去世",
+        "onboard_time": 1688137782,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30053,
+        "num": 30053,
+        "word": "朱一龙路演哭了",
+        "onboard_time": 1688136343,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29526,
+        "num": 29526,
+        "word": "韩剧恶鬼",
+        "onboard_time": 1688141375,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28041,
+        "num": 28041,
+        "word": "王楚钦孙颖莎3比0迈斯纳万远",
+        "onboard_time": 1688150595,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28053,
+        "num": 27830,
+        "word": "浙江卫视节目单奔跑吧泰国篇",
+        "onboard_time": 1688119895,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26889,
+        "num": 26889,
+        "word": "孟佳Min合体梦回missA",
+        "onboard_time": 1688129734,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26320,
+        "num": 26320,
+        "word": "迪丽热巴公诉豆瓣开分6.6",
+        "onboard_time": 1688134783,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25976,
+        "num": 25976,
+        "word": "五险一金为什么重要",
+        "onboard_time": 1688128298,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25665,
+        "num": 25665,
+        "word": "Kindle真的要拿来盖泡面了",
+        "onboard_time": 1688130336,
+        "rank": 39,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 25913,
+        "num": 25606,
+        "word": "优酷回复赵露思",
+        "onboard_time": 1688127274,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25261,
+        "num": 25261,
+        "word": "消失的她",
+        "onboard_time": 1688132439,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25104,
+        "num": 25104,
+        "word": "什么病人明明是我本人",
+        "onboard_time": 1688139760,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24641,
+        "num": 25103,
+        "word": "第一次嗑内娱cp",
+        "onboard_time": 1688121397,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22634,
+        "num": 25075,
+        "word": "胖东来",
+        "onboard_time": 1688109633,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21494,
+        "num": 25052,
+        "word": "开业14年的顶流私房菜",
+        "onboard_time": 1688141375,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 21488,
+        "num": 25023,
+        "word": "文咏珊怎么不是我老婆",
+        "onboard_time": 1688134478,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20717,
+        "num": 25005,
+        "word": "新时代赶考路",
+        "onboard_time": 1688147058,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20676,
+        "num": 24984,
+        "word": "一梦江湖",
+        "onboard_time": 1688136760,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17373,
+        "num": 24969,
+        "word": "未定事件簿 茶百道",
+        "onboard_time": 1688137060,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝建党102周年#"
+    }
+  }
+}
