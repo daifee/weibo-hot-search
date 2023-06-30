@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688149392665,
+  "endTime": 1688150225162,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401053,
+      "num": 176064,
+      "word": "我是党员",
+      "onboard_time": 1688147539,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 375336,
       "num": 272777,
       "word": "易烊千玺网站更新",
       "onboard_time": 1688136103,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341151,
-      "num": 176064,
-      "word": "我是党员",
-      "onboard_time": 1688147539,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 333659,

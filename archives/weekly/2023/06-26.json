@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688149392665,
+  "endTime": 1688150225162,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -5851,6 +5851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401053,
+      "num": 176064,
+      "word": "我是党员",
+      "onboard_time": 1688147539,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 400562,
       "num": 400562,
       "word": "玉骨遥",
@@ -6705,14 +6713,6 @@
       "onboard_time": 1687760936,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 341151,
-      "num": 176064,
-      "word": "我是党员",
-      "onboard_time": 1688147539,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 340621,
