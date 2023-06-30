@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688129697273,
+  "endTime": 1688131478196,
   "band_list": [
     {
       "raw_hot": 8270859,
@@ -67,20 +67,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2427777,
+      "num": 1057787,
+      "word": "搂着扫楼",
+      "onboard_time": 1688127094,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2293792,
       "num": 714744,
       "word": "汪建民 我愿跟女方对质",
       "onboard_time": 1688113297,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2134748,
-      "num": 735349,
-      "word": "搂着扫楼",
-      "onboard_time": 1688127094,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 2073646,
@@ -121,6 +121,14 @@
       "onboard_time": 1688053602,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1979531,
+      "num": 1979531,
+      "word": "1700元的周杰伦演唱会门票直接烧了",
+      "onboard_time": 1688128775,
+      "rank": 21,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1918679,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1557230,
-      "num": 417230,
+      "num": 422179,
       "word": "台媒曝陈建州曾偷拍大牙照片",
       "onboard_time": 1688125054,
       "rank": 10,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 1217383,
-      "num": 353499,
+      "num": 430931,
       "word": "范玮琪演唱会遭网友抵制",
       "onboard_time": 1688124217,
       "rank": 30,
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1059518,
+      "num": 338008,
+      "word": "张雪峰老师推荐的十大高薪专业",
+      "onboard_time": 1688127996,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1039337,
       "num": 1039337,
       "word": "大小S姑姑力挺陈建州范玮琪",
@@ -361,14 +377,6 @@
       "onboard_time": 1688110897,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1023120,
-      "num": 268393,
-      "word": "张雪峰老师推荐的十大高薪专业",
-      "onboard_time": 1688127996,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 996237,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 946845,
+      "num": 426259,
+      "word": "泰坦号失事前水下短信通信记录",
+      "onboard_time": 1688126914,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929972,
       "num": 643783,
       "word": "关晓彤这腿",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 926224,
-      "num": 324999,
+      "num": 411536,
       "word": "优酷回复赵露思",
       "onboard_time": 1688127274,
       "rank": 15,
@@ -481,14 +497,6 @@
       "onboard_time": 1688055993,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 821230,
-      "num": 376200,
-      "word": "泰坦号失事前水下短信通信记录",
-      "onboard_time": 1688126914,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 792089,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 764706,
-      "num": 315843,
+      "num": 343122,
       "word": "徐穗珍开通ins",
       "onboard_time": 1688125416,
       "rank": 16,
@@ -585,6 +593,14 @@
       "onboard_time": 1688097394,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 759586,
+      "num": 406680,
+      "word": "谢娜让赵丽颖给自己的花千骨打个分",
+      "onboard_time": 1688129796,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 741115,
@@ -739,12 +755,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 625278,
-      "num": 267008,
-      "word": "1700元的周杰伦演唱会门票直接烧了",
-      "onboard_time": 1688128775,
-      "rank": 21,
-      "category": "社会新闻,音乐"
+      "raw_hot": 624834,
+      "num": 398194,
+      "word": "孟佳Min合体梦回missA",
+      "onboard_time": 1688129734,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 609687,
@@ -1100,11 +1116,19 @@
     },
     {
       "raw_hot": 401158,
-      "num": 264859,
+      "num": 337256,
       "word": "小S风波后录制节目",
       "onboard_time": 1688127336,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401005,
+      "num": 338628,
+      "word": "原来猫咪允许你摸它的鼻子是这个意思",
+      "onboard_time": 1688129672,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 399643,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1688045982,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 395902,
+      "num": 395902,
+      "word": "五险一金为什么重要",
+      "onboard_time": 1688128298,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 395303,
@@ -1252,11 +1284,19 @@
     },
     {
       "raw_hot": 356056,
-      "num": 323230,
+      "num": 340604,
       "word": "医生说我天生很难长蛀牙",
       "onboard_time": 1688122779,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 353324,
+      "num": 340790,
+      "word": "披荆斩棘",
+      "onboard_time": 1688129073,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 348230,
@@ -1555,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279407,
-      "num": 261809,
-      "word": "披荆斩棘",
-      "onboard_time": 1688129073,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279329,
       "num": 279329,
       "word": "以闪亮之名",
@@ -1635,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261194,
-      "num": 261194,
-      "word": "五险一金为什么重要",
-      "onboard_time": 1688128298,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 259941,
       "num": 640059,
       "word": "LV帆布袋已被炒至700元",
@@ -1688,6 +1712,14 @@
       "word": "所以螃蟹是有智商的吧",
       "onboard_time": 1688116775,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 246307,
+      "num": 246307,
+      "word": "表面舔毛实际喝奶然后被揍",
+      "onboard_time": 1688130577,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -1755,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224936,
+      "num": 224936,
+      "word": "同事离职后的电脑屏保",
+      "onboard_time": 1688130997,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 224020,
       "num": 224020,
       "word": "当我飞奔向你吻戏花絮",
@@ -1811,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212028,
+      "num": 343910,
+      "word": "Kindle真的要拿来盖泡面了",
+      "onboard_time": 1688130336,
+      "rank": 24,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 210292,
       "num": 210292,
       "word": "猎头为保住我的工作帮我打工",
@@ -1825,6 +1873,14 @@
       "onboard_time": 1688101473,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208475,
+      "num": 208475,
+      "word": "乖乖自己洗澡的熊猫",
+      "onboard_time": 1688129616,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 204824,
@@ -1979,28 +2035,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183202,
-      "num": 183202,
-      "word": "乖乖自己洗澡的熊猫",
-      "onboard_time": 1688129616,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 182148,
       "num": 182148,
       "word": "赵今麦左脸vs右脸",
       "onboard_time": 1688117496,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 181245,
-      "num": 181245,
-      "word": "原来猫咪允许你摸它的鼻子是这个意思",
-      "onboard_time": 1688129672,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 180335,
@@ -2049,6 +2089,14 @@
       "onboard_time": 1688117555,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171668,
+      "num": 171668,
+      "word": "我只喜欢你的人设",
+      "onboard_time": 1688131297,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 169668,
@@ -2107,6 +2155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163671,
+      "num": 163671,
+      "word": "你的鲜奶喝对了吗",
+      "onboard_time": 1688130097,
+      "rank": 43,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 161263,
+      "num": 339501,
+      "word": "跳楼遭围观起哄男子已身亡",
+      "onboard_time": 1688131236,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161212,
       "num": 161212,
       "word": "NIP对战WBG",
@@ -2128,6 +2192,14 @@
       "word": "律师谈男子跳楼遭围观者刺激",
       "onboard_time": 1688108014,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156853,
+      "num": 269468,
+      "word": "海参养殖户举报间谍行为获奖2万元",
+      "onboard_time": 1688129254,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2163,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150510,
+      "num": 150510,
+      "word": "拉伸完整个人都舒服了",
+      "onboard_time": 1688130577,
+      "rank": 48,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 150342,
       "num": 206135,
       "word": "西安交大整活视频有效招生",
@@ -2177,6 +2257,22 @@
       "onboard_time": 1688095653,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148064,
+      "num": 1208058,
+      "word": "7月一批新规实施",
+      "onboard_time": 1688129498,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147464,
+      "num": 147464,
+      "word": "2023年大学生就业现状",
+      "onboard_time": 1688131418,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 147113,
@@ -2371,14 +2467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101124,
-      "num": 269468,
-      "word": "海参养殖户举报间谍行为获奖2万元",
-      "onboard_time": 1688129254,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99647,
       "num": 278710,
       "word": "阿斯巴甜",
@@ -2459,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65073,
+      "num": 416983,
+      "word": "病人求救后失联120打110急寻人",
+      "onboard_time": 1688130035,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47944,
       "num": 211446,
       "word": "利路修直播演我上班",
@@ -2512,14 +2608,6 @@
       "word": "黄健翔说99年女足是女神",
       "onboard_time": 1688119233,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23026,
-      "num": 1141124,
-      "word": "7月一批新规实施",
-      "onboard_time": 1688129498,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
