@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688214895381,
+  "endTime": 1688215938513,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 805772,
-      "num": 505342,
+      "num": 796984,
       "word": "广西一教师在医院楼顶水箱溺亡",
       "onboard_time": 1688211691,
       "rank": 10,
@@ -409,6 +409,14 @@
       "onboard_time": 1688184573,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 778482,
+      "num": 778482,
+      "word": "法国骚乱已蔓延到邻国比利时",
+      "onboard_time": 1688211212,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 775932,
@@ -465,14 +473,6 @@
       "onboard_time": 1688172990,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 674537,
-      "num": 674537,
-      "word": "法国骚乱已蔓延到邻国比利时",
-      "onboard_time": 1688211212,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 674195,
@@ -545,6 +545,14 @@
       "onboard_time": 1688203174,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 633888,
+      "num": 516156,
+      "word": "高校男生被女生喷不明液体双方已和解",
+      "onboard_time": 1688215231,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632695,
@@ -747,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518602,
+      "num": 518602,
+      "word": "丁太昇点评湾区升明月真假唱",
+      "onboard_time": 1688212410,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 518056,
       "num": 587566,
       "word": "晋江",
@@ -777,6 +793,14 @@
       "onboard_time": 1688178090,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 511085,
+      "num": 511085,
+      "word": "胡夏理想型拼出来是刘亦菲",
+      "onboard_time": 1688213252,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 507882,
@@ -851,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 454290,
+      "num": 454290,
+      "word": "慷慨病",
+      "onboard_time": 1688214270,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453844,
       "num": 453844,
       "word": "刘畊宏晒与郭艾伦李现林书豪合照",
@@ -915,14 +947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 420677,
-      "num": 420677,
-      "word": "胡夏理想型拼出来是刘亦菲",
-      "onboard_time": 1688213252,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 416510,
       "num": 339144,
       "word": "生死簿上的名字一闪一闪的",
@@ -945,14 +969,6 @@
       "onboard_time": 1688131777,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406298,
-      "num": 406298,
-      "word": "丁太昇点评湾区升明月真假唱",
-      "onboard_time": 1688212410,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 404777,
@@ -987,6 +1003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 400074,
+      "num": 400074,
+      "word": "陈绮贞好美",
+      "onboard_time": 1688210792,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 391222,
       "num": 391222,
       "word": "7岁女孩有弟弟后眼睛突然看不清",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1688178451,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 381904,
+      "num": 364123,
+      "word": "张佳宁屈楚萧现身厦门",
+      "onboard_time": 1688213011,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 378352,
@@ -1049,22 +1081,6 @@
       "onboard_time": 1688198972,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 365374,
-      "num": 365374,
-      "word": "陈绮贞好美",
-      "onboard_time": 1688210792,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 364123,
-      "num": 364123,
-      "word": "张佳宁屈楚萧现身厦门",
-      "onboard_time": 1688213011,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 363639,
@@ -1155,6 +1171,14 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 330279,
+      "num": 264004,
+      "word": "徐佳莹女儿好可爱",
+      "onboard_time": 1688215050,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 329932,
       "num": 415270,
       "word": "中国女排vs韩国女排",
@@ -1243,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307325,
+      "num": 365779,
+      "word": "小义S属性大爆发",
+      "onboard_time": 1688214331,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305503,
       "num": 305503,
       "word": "HR让我面试帮忙带杯冰美式",
@@ -1323,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295133,
-      "num": 365779,
-      "word": "小义S属性大爆发",
-      "onboard_time": 1688214331,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 286377,
       "num": 317233,
       "word": "离职后别用企业微信发文件",
@@ -1403,20 +1427,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271912,
-      "num": 271912,
-      "word": "慷慨病",
-      "onboard_time": 1688214270,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 271750,
       "num": 271750,
       "word": "奔跑吧",
       "onboard_time": 1688175268,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271300,
+      "num": 255324,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1688214754,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 271230,
@@ -1433,6 +1457,14 @@
       "onboard_time": 1688135978,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 268601,
+      "num": 268601,
+      "word": "62岁儿子患癌88岁父亲每天看望",
+      "onboard_time": 1688213430,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266463,
@@ -1523,7 +1555,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253435,
+      "raw_hot": 254527,
+      "num": 253045,
+      "word": "林俊杰金曲奖致敬林秋离",
+      "onboard_time": 1688215892,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 254383,
       "num": 343205,
       "word": "西湖出现鱼鱼鱼跃龙门",
       "onboard_time": 1688212355,
@@ -1835,14 +1875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215991,
-      "num": 240944,
-      "word": "62岁儿子患癌88岁父亲每天看望",
-      "onboard_time": 1688213430,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215727,
       "num": 218794,
       "word": "家里太乱被婆婆发朋友圈阴阳了",
@@ -1915,6 +1947,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205218,
+      "num": 205218,
+      "word": "AG对战LGD",
+      "onboard_time": 1688215589,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 204001,
+      "num": 184881,
+      "word": "于文文去看了薛之谦演唱会",
+      "onboard_time": 1688215589,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203856,
       "num": 203856,
       "word": "沈月陈小希造型",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1688128298,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195171,
+      "num": 184128,
+      "word": "我爱你",
+      "onboard_time": 1688207672,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 194588,
@@ -2043,12 +2099,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185970,
+      "num": 185970,
+      "word": "没想到高考只考了520分",
+      "onboard_time": 1688215712,
+      "rank": 39,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 185814,
       "num": 253038,
       "word": "Kindle真的要拿来盖泡面了",
       "onboard_time": 1688130336,
       "rank": 29,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 182690,
+      "num": 182690,
+      "word": "顾九思怒怼梁王",
+      "onboard_time": 1688214211,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 181871,
@@ -2131,14 +2203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171524,
-      "num": 171524,
-      "word": "顾九思怒怼梁王",
-      "onboard_time": 1688214211,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170497,
       "num": 194394,
       "word": "绍兴小小男足队踢出最暖乌龙球",
@@ -2153,6 +2217,14 @@
       "onboard_time": 1688166500,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166995,
+      "num": 266985,
+      "word": "国科大校长说着说着就哭了",
+      "onboard_time": 1688215472,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 161087,
@@ -2185,14 +2257,6 @@
       "onboard_time": 1688212355,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154269,
-      "num": 154269,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1688214754,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 150527,
@@ -2259,14 +2323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136453,
-      "num": 136453,
-      "word": "我爱你",
-      "onboard_time": 1688207672,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135456,
       "num": 173378,
       "word": "总有小猫高估自己的实力",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1688143230,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129190,
+      "num": 149392,
+      "word": "说错话后每句话都温柔且真诚",
+      "onboard_time": 1688215170,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 125833,
@@ -2403,7 +2467,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12921,
+      "raw_hot": 28829,
       "num": 1530553,
       "word": "102年中的变与不变",
       "onboard_time": 1688200416,

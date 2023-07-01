@@ -1,0 +1,410 @@
+{
+  "runTime": 1688215938513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1974941,
+        "num": 1974941,
+        "word": "刘美含 北大",
+        "onboard_time": 1688201312,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1575242,
+        "num": 1575242,
+        "word": "鸟胃型猪瘾",
+        "onboard_time": 1688210192,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28829,
+        "num": 1484270,
+        "word": "102年中的变与不变",
+        "onboard_time": 1688200416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1426525,
+        "num": 1426525,
+        "word": "胖东来老板劝网友卖房",
+        "onboard_time": 1688210792,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1214780,
+        "num": 1214780,
+        "word": "消失的她票根还有隐藏刀",
+        "onboard_time": 1688203111,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 796984,
+        "num": 796984,
+        "word": "广西一教师在医院楼顶水箱溺亡",
+        "onboard_time": 1688211691,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 778482,
+        "num": 778482,
+        "word": "法国骚乱已蔓延到邻国比利时",
+        "onboard_time": 1688211212,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 688900,
+        "num": 688900,
+        "word": "金曲奖",
+        "onboard_time": 1688208391,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 609362,
+        "num": 609362,
+        "word": "鹿晗演唱会给粉丝送Gucci",
+        "onboard_time": 1688207553,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 518602,
+        "num": 518602,
+        "word": "丁太昇点评湾区升明月真假唱",
+        "onboard_time": 1688212410,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633888,
+        "num": 516156,
+        "word": "高校男生被女生喷不明液体双方已和解",
+        "onboard_time": 1688215231,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568813,
+        "num": 514925,
+        "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
+        "onboard_time": 1688194771,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511085,
+        "num": 511085,
+        "word": "胡夏理想型拼出来是刘亦菲",
+        "onboard_time": 1688213252,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487732,
+        "num": 487732,
+        "word": "娄艺潇自曝体重快120斤",
+        "onboard_time": 1688197651,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480264,
+        "num": 480264,
+        "word": "EDG对战WE",
+        "onboard_time": 1688213789,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 454290,
+        "num": 454290,
+        "word": "慷慨病",
+        "onboard_time": 1688214270,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403559,
+        "num": 403559,
+        "word": "宋轶骂得我心都化了",
+        "onboard_time": 1688196453,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400074,
+        "num": 400074,
+        "word": "陈绮贞好美",
+        "onboard_time": 1688210792,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 360819,
+        "num": 360819,
+        "word": "Amber郑秀妍抢镜头",
+        "onboard_time": 1688211631,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358537,
+        "num": 358537,
+        "word": "韩剧里财阀的脱鞋方式",
+        "onboard_time": 1688204011,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 705377,
+        "num": 358279,
+        "word": "原来用臀部发力走路腿会变直",
+        "onboard_time": 1688205575,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490247,
+        "num": 358110,
+        "word": "沈月的字",
+        "onboard_time": 1688212471,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381904,
+        "num": 358095,
+        "word": "张佳宁屈楚萧现身厦门",
+        "onboard_time": 1688213011,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357922,
+        "num": 357922,
+        "word": "陈哲远王玉雯 白色橄榄树",
+        "onboard_time": 1688206229,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307325,
+        "num": 307325,
+        "word": "小义S属性大爆发",
+        "onboard_time": 1688214331,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 354942,
+        "num": 295995,
+        "word": "杨颖工作室改名刘瑕心理工作室",
+        "onboard_time": 1688198013,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337871,
+        "num": 293777,
+        "word": "陈哲远会当真的",
+        "onboard_time": 1688213194,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284548,
+        "num": 284548,
+        "word": "中国女篮晋级亚洲杯决赛",
+        "onboard_time": 1688211152,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268601,
+        "num": 268601,
+        "word": "62岁儿子患癌88岁父亲每天看望",
+        "onboard_time": 1688213430,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166995,
+        "num": 266985,
+        "word": "国科大校长说着说着就哭了",
+        "onboard_time": 1688215472,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 330279,
+        "num": 264004,
+        "word": "徐佳莹女儿好可爱",
+        "onboard_time": 1688215050,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293703,
+        "num": 262505,
+        "word": "newjeans见面会",
+        "onboard_time": 1688211872,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288198,
+        "num": 259051,
+        "word": "金曲奖红毯",
+        "onboard_time": 1688207253,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271300,
+        "num": 255324,
+        "word": "我的麦子熟了 我也该醒了",
+        "onboard_time": 1688214754,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254383,
+        "num": 254383,
+        "word": "西湖出现鱼鱼鱼跃龙门",
+        "onboard_time": 1688212355,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 254527,
+        "num": 253045,
+        "word": "林俊杰金曲奖致敬林秋离",
+        "onboard_time": 1688215892,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235947,
+        "num": 235947,
+        "word": "周翊然成难哄桑延热门人选",
+        "onboard_time": 1688199873,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205218,
+        "num": 205218,
+        "word": "AG对战LGD",
+        "onboard_time": 1688215589,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189413,
+        "num": 189413,
+        "word": "李梦真的牛",
+        "onboard_time": 1688208155,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185970,
+        "num": 185970,
+        "word": "没想到高考只考了520分",
+        "onboard_time": 1688215712,
+        "rank": 39,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 210857,
+        "num": 185481,
+        "word": "徐佳莹金曲奖最佳作曲人",
+        "onboard_time": 1688211930,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204001,
+        "num": 184881,
+        "word": "于文文去看了薛之谦演唱会",
+        "onboard_time": 1688215589,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195171,
+        "num": 184128,
+        "word": "我爱你",
+        "onboard_time": 1688207672,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189724,
+        "num": 182770,
+        "word": "张杰演唱会",
+        "onboard_time": 1688209651,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182690,
+        "num": 182690,
+        "word": "顾九思怒怼梁王",
+        "onboard_time": 1688214211,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170673,
+        "num": 170673,
+        "word": "曝范玮琪声明是陈建州发的",
+        "onboard_time": 1688184151,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167161,
+        "num": 167161,
+        "word": "允许带孩子上班的单位太幸福了",
+        "onboard_time": 1688194290,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149735,
+        "num": 149735,
+        "word": "只有福宝自己不知道明年要去哪",
+        "onboard_time": 1688205931,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132981,
+        "num": 149658,
+        "word": "MTG",
+        "onboard_time": 1688212954,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129190,
+        "num": 149392,
+        "word": "说错话后每句话都温柔且真诚",
+        "onboard_time": 1688215170,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党成立102周年#"
+    }
+  }
+}

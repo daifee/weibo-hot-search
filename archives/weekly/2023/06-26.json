@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688214895381,
+  "endTime": 1688215938513,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -3124,7 +3124,7 @@
     },
     {
       "raw_hot": 805772,
-      "num": 505342,
+      "num": 796984,
       "word": "广西一教师在医院楼顶水箱溺亡",
       "onboard_time": 1688211691,
       "rank": 10,
@@ -3217,6 +3217,14 @@
       "onboard_time": 1687871499,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778482,
+      "num": 778482,
+      "word": "法国骚乱已蔓延到邻国比利时",
+      "onboard_time": 1688211212,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 777665,
@@ -3851,14 +3859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 674537,
-      "num": 674537,
-      "word": "法国骚乱已蔓延到邻国比利时",
-      "onboard_time": 1688211212,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 674195,
       "num": 674195,
       "word": "张雪峰称老师家长告诉你的全是真的",
@@ -4169,6 +4169,14 @@
       "onboard_time": 1688006132,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 633888,
+      "num": 516156,
+      "word": "高校男生被女生喷不明液体双方已和解",
+      "onboard_time": 1688215231,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632250,
@@ -5243,6 +5251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518602,
+      "num": 518602,
+      "word": "丁太昇点评湾区升明月真假唱",
+      "onboard_time": 1688212410,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 518056,
       "num": 587566,
       "word": "晋江",
@@ -5321,6 +5337,14 @@
       "onboard_time": 1687861898,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 511085,
+      "num": 511085,
+      "word": "胡夏理想型拼出来是刘亦菲",
+      "onboard_time": 1688213252,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 511080,
@@ -5947,6 +5971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454290,
+      "num": 454290,
+      "word": "慷慨病",
+      "onboard_time": 1688214270,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 454122,
       "num": 408883,
       "word": "男子举报妻子出轨南京一高校领导",
@@ -6339,14 +6371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 420677,
-      "num": 420677,
-      "word": "胡夏理想型拼出来是刘亦菲",
-      "onboard_time": 1688213252,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 420581,
       "num": 420581,
       "word": "金智秀和姐姐的公式照",
@@ -6563,14 +6587,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 406298,
-      "num": 406298,
-      "word": "丁太昇点评湾区升明月真假唱",
-      "onboard_time": 1688212410,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 405016,
       "num": 383929,
       "word": "黄子韬孙千徐志胜合照",
@@ -6657,6 +6673,14 @@
       "onboard_time": 1687845096,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 400074,
+      "num": 400074,
+      "word": "陈绮贞好美",
+      "onboard_time": 1688210792,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 399102,
@@ -6971,6 +6995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381904,
+      "num": 364123,
+      "word": "张佳宁屈楚萧现身厦门",
+      "onboard_time": 1688213011,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381595,
       "num": 381595,
       "word": "EDG",
@@ -7235,27 +7267,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365374,
-      "num": 365374,
-      "word": "陈绮贞好美",
-      "onboard_time": 1688210792,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 364455,
       "num": 364455,
       "word": "郑乃馨宋继扬新剧公费恋爱",
       "onboard_time": 1688037635,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 364123,
-      "num": 364123,
-      "word": "张佳宁屈楚萧现身厦门",
-      "onboard_time": 1688213011,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -7857,6 +7873,14 @@
       "onboard_time": 1687707155,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 330279,
+      "num": 264004,
+      "word": "徐佳莹女儿好可爱",
+      "onboard_time": 1688215050,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 330097,
@@ -8483,6 +8507,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 307325,
+      "num": 365779,
+      "word": "小义S属性大爆发",
+      "onboard_time": 1688214331,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307177,
       "num": 307177,
       "word": "假如用一万块跟你换高铁座位",
@@ -8825,14 +8857,6 @@
       "onboard_time": 1687753026,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 295133,
-      "num": 365779,
-      "word": "小义S属性大爆发",
-      "onboard_time": 1688214331,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 295097,
@@ -9419,14 +9443,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 271912,
-      "num": 271912,
-      "word": "慷慨病",
-      "onboard_time": 1688214270,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 271774,
       "num": 271774,
       "word": "蔡徐坤听完金靖唱歌被吓跑",
@@ -9465,6 +9481,14 @@
       "onboard_time": 1687705056,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 271300,
+      "num": 255324,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1688214754,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 271239,
@@ -9560,6 +9584,14 @@
       "word": "小伙辞职宅在家两年囤1.5万条毛巾",
       "onboard_time": 1687878467,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268601,
+      "num": 268601,
+      "word": "62岁儿子患癌88岁父亲每天看望",
+      "onboard_time": 1688213430,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -9971,12 +10003,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254527,
+      "num": 253045,
+      "word": "林俊杰金曲奖致敬林秋离",
+      "onboard_time": 1688215892,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254522,
       "num": 199368,
       "word": "杨天真评大学生毕业做主播",
       "onboard_time": 1687795655,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254383,
+      "num": 343205,
+      "word": "西湖出现鱼鱼鱼跃龙门",
+      "onboard_time": 1688212355,
+      "rank": 28,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 254174,
@@ -10001,14 +10049,6 @@
       "onboard_time": 1687739430,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253435,
-      "num": 343205,
-      "word": "西湖出现鱼鱼鱼跃龙门",
-      "onboard_time": 1688212355,
-      "rank": 28,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 253247,
@@ -11259,14 +11299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215991,
-      "num": 240944,
-      "word": "62岁儿子患癌88岁父亲每天看望",
-      "onboard_time": 1688213430,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215940,
       "num": 215940,
       "word": "主要起一个造型上的作用",
@@ -11675,6 +11707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205218,
+      "num": 205218,
+      "word": "AG对战LGD",
+      "onboard_time": 1688215589,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205122,
       "num": 205122,
       "word": "周杰伦落地海口路透",
@@ -11713,6 +11753,14 @@
       "onboard_time": 1687753447,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204001,
+      "num": 184881,
+      "word": "于文文去看了薛之谦演唱会",
+      "onboard_time": 1688215589,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 203933,
@@ -12531,6 +12579,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 185970,
+      "num": 185970,
+      "word": "没想到高考只考了520分",
+      "onboard_time": 1688215712,
+      "rank": 39,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 185446,
       "num": 185446,
       "word": "迷路男童背出父母手机号却无人接听",
@@ -12657,6 +12713,14 @@
       "onboard_time": 1688135382,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182690,
+      "num": 182690,
+      "word": "顾九思怒怼梁王",
+      "onboard_time": 1688214211,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 182236,
@@ -13059,14 +13123,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 171524,
-      "num": 171524,
-      "word": "顾九思怒怼梁王",
-      "onboard_time": 1688214211,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171437,
       "num": 171437,
       "word": "被爱真是一件值得炫耀的事",
@@ -13169,6 +13225,14 @@
       "onboard_time": 1688120253,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166995,
+      "num": 266985,
+      "word": "国科大校长说着说着就哭了",
+      "onboard_time": 1688215472,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 166947,
@@ -13505,14 +13569,6 @@
       "onboard_time": 1687686632,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154269,
-      "num": 154269,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1688214754,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 154012,
@@ -14081,6 +14137,14 @@
       "onboard_time": 1687863580,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129190,
+      "num": 149392,
+      "word": "说错话后每句话都温柔且真诚",
+      "onboard_time": 1688215170,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 128458,
@@ -15131,6 +15195,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 28829,
+      "num": 1530553,
+      "word": "102年中的变与不变",
+      "onboard_time": 1688200416,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28065,
       "num": 80846,
       "word": "iQOO11S",
@@ -15209,14 +15281,6 @@
       "onboard_time": 1687717994,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 12921,
-      "num": 1530553,
-      "word": "102年中的变与不变",
-      "onboard_time": 1688200416,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12826,
