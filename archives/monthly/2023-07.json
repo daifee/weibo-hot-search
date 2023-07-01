@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688185344385,
+  "endTime": 1688186217606,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2992464,
-      "num": 615597,
+      "num": 705293,
       "word": "张大大说白敬亭宋轶是真的就祝福",
       "onboard_time": 1688177252,
       "rank": 11,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2310590,
+      "num": 846821,
+      "word": "曝范玮琪声明是陈建州发的",
+      "onboard_time": 1688184151,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2221394,
       "num": 1354821,
       "word": "爱奇艺工作人员 白敬亭好好对宋轶",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 2002962,
-      "num": 621140,
+      "num": 650080,
       "word": "内娱纯元",
       "onboard_time": 1688173530,
       "rank": 10,
@@ -67,16 +75,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1718061,
-      "num": 754654,
-      "word": "曝范玮琪声明是陈建州发的",
-      "onboard_time": 1688184151,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1630521,
-      "num": 609013,
+      "num": 627674,
       "word": "沈涛官宣得子",
       "onboard_time": 1688177311,
       "rank": 12,
@@ -155,20 +155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 941670,
+      "num": 687094,
+      "word": "三胞胎妈妈的孕肚",
+      "onboard_time": 1688182594,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 916281,
       "num": 604266,
       "word": "第一次嗑内娱cp",
       "onboard_time": 1688121397,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 884512,
-      "num": 353284,
-      "word": "三胞胎妈妈的孕肚",
-      "onboard_time": 1688182594,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 883481,
@@ -180,11 +180,19 @@
     },
     {
       "raw_hot": 877522,
-      "num": 555878,
+      "num": 641684,
       "word": "易烊千玺粉色手链是自己串的",
       "onboard_time": 1688180909,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 850714,
+      "num": 342851,
+      "word": "牙医建议刷牙后不要立刻漱口",
+      "onboard_time": 1688183792,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 850343,
@@ -209,6 +217,30 @@
       "onboard_time": 1688174491,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792675,
+      "num": 792675,
+      "word": "三十岁女生给二十岁女生的建议",
+      "onboard_time": 1688166077,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 786808,
+      "num": 786808,
+      "word": "素颜的杨幂",
+      "onboard_time": 1688185112,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 783282,
+      "num": 783282,
+      "word": "陈思诚 橙色风暴",
+      "onboard_time": 1688184573,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 755649,
@@ -243,20 +275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 672388,
-      "num": 672388,
-      "word": "三十岁女生给二十岁女生的建议",
-      "onboard_time": 1688166077,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 666082,
       "num": 666082,
       "word": "王宝强把张颜齐认成了周杰伦",
       "onboard_time": 1688180973,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 662031,
+      "num": 342993,
+      "word": "终于知道肚子痛是哪里痛了",
+      "onboard_time": 1688182411,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 660994,
@@ -299,6 +331,22 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 584203,
+      "num": 584203,
+      "word": "刘耀文 张艺谋电影",
+      "onboard_time": 1688184872,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 577848,
+      "num": 577848,
+      "word": "夏目友人帐",
+      "onboard_time": 1688184692,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 576248,
       "num": 343024,
       "word": "保洁阿姨离职前转给我600块",
@@ -313,14 +361,6 @@
       "onboard_time": 1688105910,
       "rank": 15,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 569318,
-      "num": 342993,
-      "word": "终于知道肚子痛是哪里痛了",
-      "onboard_time": 1688182411,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 568219,
@@ -371,20 +411,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 535059,
-      "num": 342851,
-      "word": "牙医建议刷牙后不要立刻漱口",
-      "onboard_time": 1688183792,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 518056,
       "num": 587566,
       "word": "晋江",
       "onboard_time": 1688177370,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 514690,
+      "num": 342341,
+      "word": "顾客吃肯德基发现鸡腿冒血水",
+      "onboard_time": 1688184151,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513974,
@@ -475,14 +515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 420014,
-      "num": 342488,
-      "word": "陈思诚 橙色风暴",
-      "onboard_time": 1688184573,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 411492,
       "num": 411492,
       "word": "男子高铁站持刀刺2人致1死",
@@ -555,22 +587,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 343473,
-      "num": 343473,
-      "word": "夏目友人帐",
-      "onboard_time": 1688184692,
-      "rank": 15,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 342341,
-      "num": 342341,
-      "word": "顾客吃肯德基发现鸡腿冒血水",
-      "onboard_time": 1688184151,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339963,
       "num": 323599,
       "word": "李现追星赢麻了",
@@ -612,19 +628,11 @@
     },
     {
       "raw_hot": 326393,
-      "num": 342749,
+      "num": 725311,
       "word": "寄存物品6年未取的毕业生找到了",
       "onboard_time": 1688182289,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 322771,
-      "num": 322771,
-      "word": "刘耀文 张艺谋电影",
-      "onboard_time": 1688184872,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 321479,
@@ -649,14 +657,6 @@
       "onboard_time": 1688183373,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318893,
-      "num": 318893,
-      "word": "素颜的杨幂",
-      "onboard_time": 1688185112,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 310960,
@@ -697,6 +697,14 @@
       "onboard_time": 1688171427,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290625,
+      "num": 256020,
+      "word": "八角笼中",
+      "onboard_time": 1688185713,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 284382,
@@ -955,6 +963,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 219503,
+      "num": 203326,
+      "word": "贾静雯无袖旗袍",
+      "onboard_time": 1688186075,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 218710,
       "num": 218710,
       "word": "徐穗珍开通ins",
@@ -1139,6 +1155,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171872,
+      "num": 171872,
+      "word": "射了20多年熟练度高到可以实现盲狙",
+      "onboard_time": 1688185653,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 171495,
+      "num": 171495,
+      "word": "中方对美国重返教科文组织投反对票",
+      "onboard_time": 1688185956,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 169456,
       "num": 169456,
       "word": "大热天21人挤同一电梯被困",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1688167040,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 75783,
+      "num": 851154,
+      "word": "香港回归这一刻再看依然心潮澎湃",
+      "onboard_time": 1688185354,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42777,
