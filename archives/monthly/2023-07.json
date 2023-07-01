@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688207771566,
+  "endTime": 1688210086666,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -9,6 +9,14 @@
       "onboard_time": 1688188412,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4869849,
+      "num": 4869849,
+      "word": "蔡徐坤豆瓣主页作品被清空",
+      "onboard_time": 1688208272,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3952331,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986669,
+      "num": 986669,
+      "word": "金曲奖",
+      "onboard_time": 1688208391,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 970243,
       "num": 632536,
       "word": "这和官宣有什么差别",
@@ -273,6 +289,14 @@
       "onboard_time": 1688182594,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 941290,
+      "num": 339384,
+      "word": "原来用臀部发力走路腿会变直",
+      "onboard_time": 1688205575,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 916281,
@@ -329,14 +353,6 @@
       "onboard_time": 1688137303,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 816519,
-      "num": 339384,
-      "word": "原来用臀部发力走路腿会变直",
-      "onboard_time": 1688205575,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 812245,
@@ -419,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 682617,
+      "num": 542473,
+      "word": "鹿晗演唱会给粉丝送Gucci",
+      "onboard_time": 1688207553,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 674195,
       "num": 674195,
       "word": "张雪峰称老师家长告诉你的全是真的",
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 669719,
-      "num": 1923734,
+      "num": 3174485,
       "word": "允许带孩子上班的单位太幸福了",
       "onboard_time": 1688194290,
       "rank": 9,
@@ -512,6 +536,14 @@
       "word": "周翊然成难哄桑延热门人选",
       "onboard_time": 1688199873,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 627845,
+      "num": 529478,
+      "word": "陈哲远王玉雯 白色橄榄树",
+      "onboard_time": 1688206229,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -651,20 +683,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 518097,
-      "num": 325087,
-      "word": "陈哲远王玉雯 白色橄榄树",
-      "onboard_time": 1688206229,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 518056,
       "num": 587566,
       "word": "晋江",
       "onboard_time": 1688177370,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 514286,
+      "num": 514286,
+      "word": "李梦真的牛",
+      "onboard_time": 1688208155,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 513974,
@@ -811,6 +843,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 421696,
+      "num": 421696,
+      "word": "金曲奖红毯",
+      "onboard_time": 1688207253,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 416510,
       "num": 339144,
       "word": "生死簿上的名字一闪一闪的",
@@ -937,6 +977,14 @@
       "onboard_time": 1688175570,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 347728,
+      "num": 297103,
+      "word": "张杰演唱会",
+      "onboard_time": 1688209651,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 347062,
@@ -1075,6 +1123,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 308925,
+      "num": 308925,
+      "word": "JDG晋级夏季季后赛",
+      "onboard_time": 1688208631,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305503,
       "num": 305503,
       "word": "HR让我面试帮忙带杯冰美式",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1688137782,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302867,
+      "num": 296977,
+      "word": "JDG战胜UP",
+      "onboard_time": 1688209829,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 302748,
@@ -1137,14 +1201,6 @@
       "onboard_time": 1688171427,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287761,
-      "num": 287761,
-      "word": "金曲奖红毯",
-      "onboard_time": 1688207253,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 286377,
@@ -1259,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265696,
+      "num": 265696,
+      "word": "只有福宝自己不知道明年要去哪",
+      "onboard_time": 1688205931,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265247,
       "num": 265247,
       "word": "谢娜乘风五公造型",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1688197412,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260951,
+      "num": 260951,
+      "word": "韩旭压哨三分",
+      "onboard_time": 1688208990,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 260515,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1688180973,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243228,
+      "num": 243228,
+      "word": "中国女篮vs澳大利亚女篮",
+      "onboard_time": 1688204970,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 241049,
@@ -1619,14 +1699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213024,
-      "num": 213024,
-      "word": "只有福宝自己不知道明年要去哪",
-      "onboard_time": 1688205931,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212213,
       "num": 212213,
       "word": "建党节",
@@ -1691,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198356,
+      "num": 198356,
+      "word": "沈月陈小希造型",
+      "onboard_time": 1688208571,
+      "rank": 36,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 194588,
       "num": 194588,
       "word": "一梦江湖",
@@ -1705,14 +1785,6 @@
       "onboard_time": 1688191113,
       "rank": 49,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 194147,
-      "num": 194147,
-      "word": "鹿晗演唱会给粉丝送Gucci",
-      "onboard_time": 1688207553,
-      "rank": 37,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 190221,
@@ -1745,14 +1817,6 @@
       "onboard_time": 1688200113,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189055,
-      "num": 189055,
-      "word": "中国女篮vs澳大利亚女篮",
-      "onboard_time": 1688204970,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 188718,
@@ -1827,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175761,
+      "num": 175761,
+      "word": "朱一龙自己给自己挖坑",
+      "onboard_time": 1688204852,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "如果让亲妈做你婆婆",
@@ -1891,12 +1963,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153012,
-      "num": 153012,
-      "word": "朱一龙自己给自己挖坑",
-      "onboard_time": 1688204852,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 150527,
+      "num": 150527,
+      "word": "这就是中国人才懂的审美吧",
+      "onboard_time": 1688208513,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 150365,
@@ -2076,7 +2148,7 @@
     },
     {
       "raw_hot": 66852,
-      "num": 1794059,
+      "num": 2737350,
       "word": "七一勋章获得者的事迹有多感人",
       "onboard_time": 1688200595,
       "rank": 2,
