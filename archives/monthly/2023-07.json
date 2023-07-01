@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688228589648,
+  "endTime": 1688229574998,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1165079,
+      "num": 1165079,
+      "word": "推特崩了",
+      "onboard_time": 1688226812,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1161869,
       "num": 1161869,
       "word": "澡堂子偶遇王嘉尔",
@@ -361,14 +369,6 @@
       "onboard_time": 1688168905,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 960297,
-      "num": 960297,
-      "word": "推特崩了",
-      "onboard_time": 1688226812,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 953028,
@@ -939,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527940,
+      "num": 460452,
+      "word": "让外国网友帮忙做英语作业",
+      "onboard_time": 1688226032,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 527473,
       "num": 383667,
       "word": "中国女篮晋级亚洲杯决赛",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1688217872,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 460452,
-      "num": 460452,
-      "word": "让外国网友帮忙做英语作业",
-      "onboard_time": 1688226032,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 453844,
@@ -1356,7 +1356,7 @@
     },
     {
       "raw_hot": 357567,
-      "num": 307257,
+      "num": 324061,
       "word": "周杰伦演唱会",
       "onboard_time": 1688225797,
       "rank": 23,
@@ -1499,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319204,
+      "num": 319204,
+      "word": "女子去世7只猫继承217万遗产",
+      "onboard_time": 1688224659,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319084,
       "num": 319084,
       "word": "我的麦子熟了 我也该醒了",
@@ -1619,6 +1627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298510,
+      "num": 267350,
+      "word": "汪东城音乐节",
+      "onboard_time": 1688228490,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298003,
       "num": 298003,
       "word": "黄朔 北京",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1688171427,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287095,
+      "num": 241680,
+      "word": "恐怖程度约等于零的恐怖片",
+      "onboard_time": 1688228730,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 286377,
@@ -1771,6 +1795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270590,
+      "num": 241497,
+      "word": "国家大剧院新时代经典作品音乐会",
+      "onboard_time": 1688228609,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266463,
       "num": 266463,
       "word": "什么病人明明是我本人",
@@ -1873,14 +1905,6 @@
       "onboard_time": 1688135142,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255894,
-      "num": 255894,
-      "word": "女子去世7只猫继承217万遗产",
-      "onboard_time": 1688224659,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254383,
@@ -2073,6 +2097,14 @@
       "onboard_time": 1688188593,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231652,
+      "num": 231652,
+      "word": "徐明浩领口很危险",
+      "onboard_time": 1688228072,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 231348,
@@ -2411,14 +2443,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 193462,
-      "num": 193462,
-      "word": "徐明浩领口很危险",
-      "onboard_time": 1688228072,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192875,
       "num": 192875,
       "word": "小义直播",
@@ -2641,14 +2665,6 @@
       "onboard_time": 1688166500,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164903,
-      "num": 164903,
-      "word": "汪东城音乐节",
-      "onboard_time": 1688228490,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 161087,
