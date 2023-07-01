@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688236538295,
+  "endTime": 1688238856746,
   "band_list": [
     {
       "raw_hot": 3526747,
@@ -489,6 +489,14 @@
       "onboard_time": 1688233999,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47186,
+      "num": 47186,
+      "word": "陈哲远手写信告别青环",
+      "onboard_time": 1688237358,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 9155,
