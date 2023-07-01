@@ -1,0 +1,410 @@
+{
+  "runTime": 1688196826563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2011486,
+        "num": 2011486,
+        "word": "江西一化工厂爆炸",
+        "onboard_time": 1688188412,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150434,
+        "num": 1150434,
+        "word": "刘宇宁王子文 蝉女",
+        "onboard_time": 1688192852,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92503,
+        "num": 1088279,
+        "word": "香港回归这一刻再看依然心潮澎湃",
+        "onboard_time": 1688185354,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1581640,
+        "num": 1087437,
+        "word": "李现 这次没有版权问题了",
+        "onboard_time": 1688193812,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027635,
+        "num": 1027635,
+        "word": "7月狗屎运最旺星座",
+        "onboard_time": 1688194053,
+        "rank": 4,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 915929,
+        "num": 915929,
+        "word": "夏目友人帐",
+        "onboard_time": 1688184692,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 739816,
+        "num": 739816,
+        "word": "何非的保证书是朱一龙写的",
+        "onboard_time": 1688194893,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 669719,
+        "num": 669719,
+        "word": "允许带孩子上班的单位太幸福了",
+        "onboard_time": 1688194290,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566754,
+        "num": 566754,
+        "word": "素颜的杨幂",
+        "onboard_time": 1688185112,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 556189,
+        "num": 556189,
+        "word": "Angelababy 这是我结婚的地方",
+        "onboard_time": 1688179952,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1683018,
+        "num": 544028,
+        "word": "江西杀害3名小孩嫌疑人被抓获",
+        "onboard_time": 1688192552,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1470283,
+        "num": 527736,
+        "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
+        "onboard_time": 1688194771,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134904,
+        "num": 519458,
+        "word": "曝范玮琪声明是陈建州发的",
+        "onboard_time": 1688184151,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510491,
+        "num": 510491,
+        "word": "沈月把何炅的饭当狗粮",
+        "onboard_time": 1688192073,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490618,
+        "num": 490618,
+        "word": "陈建州风波后首露面",
+        "onboard_time": 1688194172,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446407,
+        "num": 446407,
+        "word": "张大大说白敬亭宋轶是真的就祝福",
+        "onboard_time": 1688177252,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354967,
+        "num": 354967,
+        "word": "三胞胎妈妈的孕肚",
+        "onboard_time": 1688182594,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351990,
+        "num": 351990,
+        "word": "钱流向不缺钱的人苦留给能吃苦的人",
+        "onboard_time": 1688194712,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 347062,
+        "num": 347062,
+        "word": "看到妈妈放手那一刻真的泪目了",
+        "onboard_time": 1688195373,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346152,
+        "num": 346152,
+        "word": "高考657分想重新复读一年",
+        "onboard_time": 1688174852,
+        "rank": 19,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 631580,
+        "num": 340211,
+        "word": "牙医建议刷牙后不要立刻漱口",
+        "onboard_time": 1688183792,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374539,
+        "num": 337644,
+        "word": "赵露思选剧本的眼光",
+        "onboard_time": 1688195491,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326926,
+        "num": 326926,
+        "word": "易烊千玺粉色手链是自己串的",
+        "onboard_time": 1688180909,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290619,
+        "num": 290619,
+        "word": "终于知道肚子痛是哪里痛了",
+        "onboard_time": 1688182411,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246053,
+        "num": 246053,
+        "word": "茶百道 未定事件簿",
+        "onboard_time": 1688188534,
+        "rank": 24,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 244784,
+        "num": 244784,
+        "word": "邓佳鑫 北京",
+        "onboard_time": 1688188412,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244672,
+        "num": 244672,
+        "word": "谢锋大使向美国总统拜登递交国书",
+        "onboard_time": 1688190273,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 244074,
+        "num": 244074,
+        "word": "白敬亭宋轶是不是忘记官宣了",
+        "onboard_time": 1688138323,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227797,
+        "num": 227797,
+        "word": "Ella说被张嘉倪喜欢真的很好命",
+        "onboard_time": 1688188774,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229495,
+        "num": 227162,
+        "word": "宋轶骂得我心都化了",
+        "onboard_time": 1688196453,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416510,
+        "num": 226306,
+        "word": "生死簿上的名字一闪一闪的",
+        "onboard_time": 1688195130,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 310649,
+        "num": 223933,
+        "word": "杨幂自己改上衣",
+        "onboard_time": 1688196453,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242236,
+        "num": 222355,
+        "word": "奔跑吧是在吐槽吗",
+        "onboard_time": 1688172210,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221838,
+        "num": 221838,
+        "word": "种地吧",
+        "onboard_time": 1688195491,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219118,
+        "num": 219118,
+        "word": "中国女排vs韩国女排",
+        "onboard_time": 1688189432,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217277,
+        "num": 217277,
+        "word": "泡脚竟然还能变白",
+        "onboard_time": 1688196630,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212401,
+        "num": 212401,
+        "word": "天秤座总是间歇性悲观",
+        "onboard_time": 1688195552,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 208416,
+        "num": 208416,
+        "word": "夏目友人帐动画15周年",
+        "onboard_time": 1688196512,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 199738,
+        "num": 199738,
+        "word": "顾客吃肯德基发现鸡腿冒血水",
+        "onboard_time": 1688184151,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194155,
+        "num": 194155,
+        "word": "Angelababy蝴蝶头",
+        "onboard_time": 1688193092,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187070,
+        "num": 187070,
+        "word": "刘耀文 张艺谋电影",
+        "onboard_time": 1688184872,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180187,
+        "num": 180187,
+        "word": "保洁阿姨离职前转给我600块",
+        "onboard_time": 1688181993,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 178839,
+        "num": 178839,
+        "word": "八角笼中",
+        "onboard_time": 1688185713,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178620,
+        "num": 178620,
+        "word": "金智秀拖鞋被踩掉了",
+        "onboard_time": 1688191235,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174959,
+        "num": 174959,
+        "word": "男生记录女友每天出门的穿搭",
+        "onboard_time": 1688188955,
+        "rank": 44,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 162865,
+        "num": 162865,
+        "word": "谢依霖说带孩子很幸福但不快乐",
+        "onboard_time": 1688187092,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152816,
+        "num": 152816,
+        "word": "绝世网红",
+        "onboard_time": 1688172990,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151997,
+        "num": 151997,
+        "word": "英文里猫猫这个动作真的叫面包",
+        "onboard_time": 1688196453,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151332,
+        "num": 151332,
+        "word": "Angelababy王鹤棣传唱挖呀挖呀挖",
+        "onboard_time": 1688183373,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145768,
+        "num": 145768,
+        "word": "男子外出干活遇超大菌子",
+        "onboard_time": 1688192014,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党成立102周年#"
+    }
+  }
+}
