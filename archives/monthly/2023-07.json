@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688186217606,
+  "endTime": 1688188664940,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2992464,
-      "num": 705293,
+      "num": 755054,
       "word": "张大大说白敬亭宋轶是真的就祝福",
       "onboard_time": 1688177252,
       "rank": 11,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2310590,
-      "num": 846821,
+      "num": 1035916,
       "word": "曝范玮琪声明是陈建州发的",
       "onboard_time": 1688184151,
       "rank": 3,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1327785,
+      "num": 1036990,
+      "word": "素颜的杨幂",
+      "onboard_time": 1688185112,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1310274,
       "num": 1310274,
       "word": "消失的她票房超人生大事",
@@ -115,12 +123,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1023618,
-      "num": 1023618,
+      "raw_hot": 1041378,
+      "num": 1041378,
       "word": "高考657分想重新复读一年",
       "onboard_time": 1688174852,
       "rank": 23,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 1033913,
+      "num": 1033913,
+      "word": "江西一化工厂爆炸",
+      "onboard_time": 1688188412,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1002633,
@@ -137,6 +153,14 @@
       "onboard_time": 1688136704,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 965711,
+      "num": 350361,
+      "word": "牙医建议刷牙后不要立刻漱口",
+      "onboard_time": 1688183792,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 961564,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 941670,
-      "num": 687094,
+      "num": 736500,
       "word": "三胞胎妈妈的孕肚",
       "onboard_time": 1688182594,
       "rank": 32,
@@ -187,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 850714,
-      "num": 342851,
-      "word": "牙医建议刷牙后不要立刻漱口",
-      "onboard_time": 1688183792,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 875229,
+      "num": 875229,
+      "word": "沈月魏大勋是在饭局上认识的",
+      "onboard_time": 1688186734,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 850343,
@@ -227,20 +251,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 786808,
-      "num": 786808,
-      "word": "素颜的杨幂",
-      "onboard_time": 1688185112,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 783282,
-      "num": 783282,
+      "raw_hot": 789114,
+      "num": 789114,
       "word": "陈思诚 橙色风暴",
       "onboard_time": 1688184573,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 759600,
+      "num": 759600,
+      "word": "夏目友人帐",
+      "onboard_time": 1688184692,
+      "rank": 15,
+      "category": "动漫"
     },
     {
       "raw_hot": 755649,
@@ -307,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645052,
+      "num": 645052,
+      "word": "刘耀文 张艺谋电影",
+      "onboard_time": 1688184872,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632695,
       "num": 632695,
       "word": "男子颈部插着切割机警车狂飙10分钟",
@@ -323,28 +355,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 627013,
+      "num": 627013,
+      "word": "中方对美国重返教科文组织投反对票",
+      "onboard_time": 1688185956,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 599993,
+      "num": 342341,
+      "word": "顾客吃肯德基发现鸡腿冒血水",
+      "onboard_time": 1688184151,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591530,
       "num": 591530,
       "word": "空调这样调才是真省电",
       "onboard_time": 1688177971,
       "rank": 7,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 584203,
-      "num": 584203,
-      "word": "刘耀文 张艺谋电影",
-      "onboard_time": 1688184872,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 577848,
-      "num": 577848,
-      "word": "夏目友人帐",
-      "onboard_time": 1688184692,
-      "rank": 15,
-      "category": "动漫"
     },
     {
       "raw_hot": 576248,
@@ -419,20 +451,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 514690,
-      "num": 342341,
-      "word": "顾客吃肯德基发现鸡腿冒血水",
-      "onboard_time": 1688184151,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513974,
       "num": 427802,
       "word": "14岁女孩500元卖头发被商贩剪坏",
       "onboard_time": 1688173649,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513257,
+      "num": 513257,
+      "word": "谢依霖说带孩子很幸福但不快乐",
+      "onboard_time": 1688187092,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 512376,
@@ -513,6 +545,22 @@
       "onboard_time": 1688124217,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 439992,
+      "num": 302932,
+      "word": "八角笼中",
+      "onboard_time": 1688185713,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 415886,
+      "num": 592792,
+      "word": "西安交大校长毕业礼又双叒脱稿演讲",
+      "onboard_time": 1688183425,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 411492,
@@ -699,20 +747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290625,
-      "num": 256020,
-      "word": "八角笼中",
-      "onboard_time": 1688185713,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 284382,
       "num": 284382,
       "word": "歼20",
       "onboard_time": 1688132318,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 282098,
+      "num": 282098,
+      "word": "离职后别用企业微信发文件",
+      "onboard_time": 1688186316,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 279162,
@@ -761,6 +809,14 @@
       "onboard_time": 1688135978,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 266679,
+      "num": 266679,
+      "word": "你好星期六",
+      "onboard_time": 1688188412,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 266463,
@@ -835,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250144,
+      "num": 250144,
+      "word": "邓佳鑫 北京",
+      "onboard_time": 1688188412,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249626,
       "num": 249626,
       "word": "今天是香港回归祖国26周年",
@@ -843,20 +907,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 247810,
-      "num": 247810,
-      "word": "西安交大校长毕业礼又双叒脱稿演讲",
-      "onboard_time": 1688183425,
-      "rank": 39,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 246160,
       "num": 246160,
       "word": "野生大熊猫用屁股蹭了蹭红外相机",
       "onboard_time": 1688166139,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244788,
+      "num": 244788,
+      "word": "贾静雯无袖旗袍",
+      "onboard_time": 1688186075,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 243496,
@@ -915,6 +979,22 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 234481,
+      "num": 234481,
+      "word": "爸爸焦急盼到女儿通知书第一时间开箱",
+      "onboard_time": 1688187155,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233265,
+      "num": 233265,
+      "word": "贵溪",
+      "onboard_time": 1688188593,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231348,
       "num": 214825,
       "word": "金曲奖预测",
@@ -961,14 +1041,6 @@
       "onboard_time": 1688111197,
       "rank": 38,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 219503,
-      "num": 203326,
-      "word": "贾静雯无袖旗袍",
-      "onboard_time": 1688186075,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218710,
@@ -1163,12 +1235,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171495,
-      "num": 171495,
-      "word": "中方对美国重返教科文组织投反对票",
-      "onboard_time": 1688185956,
+      "raw_hot": 170497,
+      "num": 194394,
+      "word": "绍兴小小男足队踢出最暖乌龙球",
+      "onboard_time": 1688188055,
       "rank": 48,
-      "category": "国内要闻"
+      "category": "体育"
     },
     {
       "raw_hot": 169456,
@@ -1177,6 +1249,14 @@
       "onboard_time": 1688166500,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159590,
+      "num": 194234,
+      "word": "茶百道 未定事件簿",
+      "onboard_time": 1688188534,
+      "rank": 49,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 150365,
@@ -1209,6 +1289,14 @@
       "onboard_time": 1688143230,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127394,
+      "num": 1037532,
+      "word": "香港回归这一刻再看依然心潮澎湃",
+      "onboard_time": 1688185354,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125833,
@@ -1291,14 +1379,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 75783,
-      "num": 851154,
-      "word": "香港回归这一刻再看依然心潮澎湃",
-      "onboard_time": 1688185354,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42777,
       "num": 93840,
       "word": "重庆的挑挑美食到底有多好吃",
@@ -1332,6 +1412,9 @@
     },
     {
       "word": "#庆祝建党102周年#"
+    },
+    {
+      "word": "#中国共产党成立102周年#"
     }
   ]
 }
