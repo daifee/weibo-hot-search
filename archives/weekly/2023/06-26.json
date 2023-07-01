@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688181332640,
+  "endTime": 1688182972618,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -569,6 +569,14 @@
       "onboard_time": 1687932397,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2361513,
+      "num": 2361513,
+      "word": "Angelababy 这是我结婚的地方",
+      "onboard_time": 1688179952,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2347993,
@@ -1289,14 +1297,6 @@
       "onboard_time": 1687828959,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1504725,
-      "num": 1504725,
-      "word": "Angelababy 这是我结婚的地方",
-      "onboard_time": 1688179952,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1498422,
@@ -2867,6 +2867,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 818818,
+      "num": 555878,
+      "word": "易烊千玺粉色手链是自己串的",
+      "onboard_time": 1688180909,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 817328,
       "num": 552045,
       "word": "肖战王一博会同台吗",
@@ -3675,6 +3683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 666082,
+      "num": 666082,
+      "word": "王宝强把张颜齐认成了周杰伦",
+      "onboard_time": 1688180973,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664608,
       "num": 664608,
       "word": "回客厅IP就到四川了",
@@ -4323,6 +4339,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 565822,
+      "num": 565822,
+      "word": "我前面车快生了",
+      "onboard_time": 1688176770,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 565590,
       "num": 1313079,
       "word": "夫妻欠债百万玩失踪老父亲凑钱还款",
@@ -4803,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518056,
+      "num": 587566,
+      "word": "晋江",
+      "onboard_time": 1688177370,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 517837,
       "num": 490203,
       "word": "WE零封TES",
@@ -4817,14 +4849,6 @@
       "onboard_time": 1688017175,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 517198,
-      "num": 587566,
-      "word": "晋江",
-      "onboard_time": 1688177370,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 516933,
@@ -5595,14 +5619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 442775,
-      "num": 442775,
-      "word": "我前面车快生了",
-      "onboard_time": 1688176770,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 441102,
       "num": 441102,
       "word": "当事人回应酒店沐浴露疑被灌精液",
@@ -6217,6 +6233,14 @@
       "onboard_time": 1687841751,
       "rank": 32,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 393877,
+      "num": 317027,
+      "word": "中传教授评朱一龙何非",
+      "onboard_time": 1688181754,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 393537,
@@ -7043,14 +7067,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 335651,
-      "num": 305200,
-      "word": "易烊千玺粉色手链是自己串的",
-      "onboard_time": 1688180909,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335611,
       "num": 325956,
       "word": "王一博湾区升明月再唱无名",
@@ -7811,6 +7827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305917,
+      "num": 243650,
+      "word": "终于知道肚子痛是哪里痛了",
+      "onboard_time": 1688182411,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305737,
       "num": 305737,
       "word": "我的人间烟火",
@@ -7841,6 +7865,14 @@
       "onboard_time": 1687705234,
       "rank": 18,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 304397,
+      "num": 243587,
+      "word": "三胞胎妈妈的孕肚",
+      "onboard_time": 1688182594,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 304231,
@@ -8483,14 +8515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277428,
-      "num": 258521,
-      "word": "王宝强把张颜齐认成了周杰伦",
-      "onboard_time": 1688180973,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277353,
       "num": 277353,
       "word": "李克勤红日真的好听",
@@ -8867,12 +8891,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264087,
+      "num": 243428,
+      "word": "黄子韬当着马伯骞的面叫曾毅哥哥",
+      "onboard_time": 1688180492,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264086,
       "num": 264086,
       "word": "男子晒全家老少四口一人摆一个地摊",
       "onboard_time": 1688006312,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263955,
+      "num": 263955,
+      "word": "保洁阿姨离职前转给我600块",
+      "onboard_time": 1688181993,
+      "rank": 24,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 263876,
@@ -9459,6 +9499,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243752,
+      "num": 243752,
+      "word": "寄存物品6年未取的毕业生找到了",
+      "onboard_time": 1688182289,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 243234,
+      "num": 243234,
+      "word": "鼠鼠闯祸后将自己伪装成受害者",
+      "onboard_time": 1688180973,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243210,
       "num": 243210,
       "word": "美依礼芽浪姐狂徒",
@@ -9939,14 +9995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 225813,
-      "num": 210427,
-      "word": "黄子韬当着马伯骞的面叫曾毅哥哥",
-      "onboard_time": 1688180492,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225711,
       "num": 237487,
       "word": "老胡炒股的第二天",
@@ -10033,14 +10081,6 @@
       "onboard_time": 1687836697,
       "rank": 41,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 222923,
-      "num": 222923,
-      "word": "鼠鼠闯祸后将自己伪装成受害者",
-      "onboard_time": 1688180973,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 222865,
@@ -10251,6 +10291,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 216736,
+      "num": 216736,
+      "word": "男生旅行3年收集50余个城市水土",
+      "onboard_time": 1688182353,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "女排",
@@ -10345,6 +10393,14 @@
       "onboard_time": 1687882055,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213736,
+      "num": 213736,
+      "word": "朱珠再穿旗袍",
+      "onboard_time": 1688182888,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 213505,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688181332640,
+  "endTime": 1688182972618,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -23,6 +23,14 @@
       "num": 2402025,
       "word": "奔跑吧是在吐槽吗",
       "onboard_time": 1688172210,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2361513,
+      "num": 2361513,
+      "word": "Angelababy 这是我结婚的地方",
+      "onboard_time": 1688179952,
       "rank": 0,
       "category": "综艺"
     },
@@ -65,14 +73,6 @@
       "onboard_time": 1688177311,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1504725,
-      "num": 1504725,
-      "word": "Angelababy 这是我结婚的地方",
-      "onboard_time": 1688179952,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1310274,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 818818,
+      "num": 555878,
+      "word": "易烊千玺粉色手链是自己串的",
+      "onboard_time": 1688180909,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812245,
       "num": 812245,
       "word": "法国载40多名中国公民车辆被砸",
@@ -225,6 +233,14 @@
       "onboard_time": 1688166077,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 666082,
+      "num": 666082,
+      "word": "王宝强把张颜齐认成了周杰伦",
+      "onboard_time": 1688180973,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 660994,
@@ -283,6 +299,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 565822,
+      "num": 565822,
+      "word": "我前面车快生了",
+      "onboard_time": 1688176770,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 563241,
       "num": 495723,
       "word": "台媒曝陈建州曾偷拍大牙照片",
@@ -307,7 +331,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 517198,
+      "raw_hot": 518056,
       "num": 587566,
       "word": "晋江",
       "onboard_time": 1688177370,
@@ -395,14 +419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 442775,
-      "num": 442775,
-      "word": "我前面车快生了",
-      "onboard_time": 1688176770,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 411492,
       "num": 411492,
       "word": "男子高铁站持刀刺2人致1死",
@@ -425,6 +441,14 @@
       "onboard_time": 1688147539,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 393877,
+      "num": 317027,
+      "word": "中传教授评朱一龙何非",
+      "onboard_time": 1688181754,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 391222,
@@ -473,14 +497,6 @@
       "onboard_time": 1688180251,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 335651,
-      "num": 305200,
-      "word": "易烊千玺粉色手链是自己串的",
-      "onboard_time": 1688180909,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 333659,
@@ -539,6 +555,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 305917,
+      "num": 243650,
+      "word": "终于知道肚子痛是哪里痛了",
+      "onboard_time": 1688182411,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 304397,
+      "num": 243587,
+      "word": "三胞胎妈妈的孕肚",
+      "onboard_time": 1688182594,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303314,
       "num": 244528,
       "word": "艾伦阿金去世",
@@ -577,14 +609,6 @@
       "onboard_time": 1688141375,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277428,
-      "num": 258521,
-      "word": "王宝强把张颜齐认成了周杰伦",
-      "onboard_time": 1688180973,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 273531,
@@ -651,6 +675,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264087,
+      "num": 243428,
+      "word": "黄子韬当着马伯骞的面叫曾毅哥哥",
+      "onboard_time": 1688180492,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 263955,
+      "num": 263955,
+      "word": "保洁阿姨离职前转给我600块",
+      "onboard_time": 1688181993,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 259778,
       "num": 259778,
       "word": "唐朝小朋友穿的背带裤",
@@ -705,6 +745,22 @@
       "onboard_time": 1688166139,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243752,
+      "num": 243752,
+      "word": "寄存物品6年未取的毕业生找到了",
+      "onboard_time": 1688182289,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 243234,
+      "num": 243234,
+      "word": "鼠鼠闯祸后将自己伪装成受害者",
+      "onboard_time": 1688180973,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 241049,
@@ -771,28 +827,12 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 225813,
-      "num": 210427,
-      "word": "黄子韬当着马伯骞的面叫曾毅哥哥",
-      "onboard_time": 1688180492,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224941,
       "num": 220219,
       "word": "谢娜放狠话被打脸",
       "onboard_time": 1688177070,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222923,
-      "num": 222923,
-      "word": "鼠鼠闯祸后将自己伪装成受害者",
-      "onboard_time": 1688180973,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 220235,
@@ -819,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216736,
+      "num": 216736,
+      "word": "男生旅行3年收集50余个城市水土",
+      "onboard_time": 1688182353,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 215727,
       "num": 218794,
       "word": "家里太乱被婆婆发朋友圈阴阳了",
@@ -833,6 +881,14 @@
       "onboard_time": 1688166981,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213736,
+      "num": 213736,
+      "word": "朱珠再穿旗袍",
+      "onboard_time": 1688182888,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 212213,
