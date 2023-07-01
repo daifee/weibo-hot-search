@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688217692960,
+  "endTime": 1688218427191,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2028471,
+      "num": 2028471,
+      "word": "胖东来老板劝网友卖房",
+      "onboard_time": 1688210792,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2027560,
       "num": 2027560,
       "word": "奔跑吧今天播不播",
@@ -1099,14 +1107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1798936,
-      "num": 1798936,
-      "word": "胖东来老板劝网友卖房",
-      "onboard_time": 1688210792,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1795382,
       "num": 1795382,
       "word": "新京报评偷偷藏不住",
@@ -1275,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1652870,
+      "num": 619642,
+      "word": "高校男生被女生喷不明液体双方已和解",
+      "onboard_time": 1688215231,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1651199,
       "num": 1651199,
       "word": "微信否认文件传输助手是真人",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1687952981,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1608858,
-      "num": 619642,
-      "word": "高校男生被女生喷不明液体双方已和解",
-      "onboard_time": 1688215231,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1585317,
@@ -1891,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1190254,
+      "num": 1190254,
+      "word": "金曲奖",
+      "onboard_time": 1688208391,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1183076,
       "num": 594389,
       "word": "曾黎腰臀比",
@@ -2153,14 +2161,6 @@
       "onboard_time": 1687854518,
       "rank": 13,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1085592,
-      "num": 1085592,
-      "word": "金曲奖",
-      "onboard_time": 1688208391,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1085381,
@@ -3715,6 +3715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 702202,
+      "num": 702202,
+      "word": "慷慨病",
+      "onboard_time": 1688214270,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 698281,
       "num": 587894,
       "word": "周杰伦演唱会",
@@ -3793,14 +3801,6 @@
       "onboard_time": 1688008712,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 686320,
-      "num": 686320,
-      "word": "慷慨病",
-      "onboard_time": 1688214270,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 685862,
@@ -4443,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601509,
+      "num": 575511,
+      "word": "徐佳莹女儿好可爱",
+      "onboard_time": 1688215050,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 600363,
       "num": 600363,
       "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
@@ -4713,6 +4721,14 @@
       "onboard_time": 1688198132,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568717,
+      "num": 568717,
+      "word": "Uzi选出VN",
+      "onboard_time": 1688217453,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 568219,
@@ -5057,14 +5073,6 @@
       "onboard_time": 1688109455,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 541122,
-      "num": 541122,
-      "word": "徐佳莹女儿好可爱",
-      "onboard_time": 1688215050,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 540815,
@@ -5507,6 +5515,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 500427,
+      "num": 500427,
+      "word": "于文文去看了薛之谦演唱会",
+      "onboard_time": 1688215589,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 499792,
       "num": 1875301,
       "word": "孕妻身体不适丈夫产房外哭泣守护",
@@ -5793,6 +5809,14 @@
       "onboard_time": 1687928080,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472658,
+      "num": 370776,
+      "word": "张佳宁屈楚萧现身厦门",
+      "onboard_time": 1688213011,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 471474,
@@ -6123,14 +6147,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 444913,
-      "num": 444913,
-      "word": "于文文去看了薛之谦演唱会",
-      "onboard_time": 1688215589,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 444656,
       "num": 444656,
       "word": "赵传吊打",
@@ -6169,6 +6185,14 @@
       "onboard_time": 1688194712,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 437047,
+      "num": 369296,
+      "word": "没想到高考只考了520分",
+      "onboard_time": 1688215712,
+      "rank": 39,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 435960,
@@ -6505,14 +6529,6 @@
       "onboard_time": 1687696352,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 413473,
-      "num": 290980,
-      "word": "没想到高考只考了520分",
-      "onboard_time": 1688215712,
-      "rank": 39,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 413290,
@@ -6923,6 +6939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387512,
+      "num": 364790,
+      "word": "金地雄晕倒",
+      "onboard_time": 1688217573,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387387,
       "num": 387387,
       "word": "任达华实力可以",
@@ -7033,14 +7057,6 @@
       "onboard_time": 1687838020,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381904,
-      "num": 364123,
-      "word": "张佳宁屈楚萧现身厦门",
-      "onboard_time": 1688213011,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 381595,
@@ -8867,6 +8883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295744,
+      "num": 295744,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1688214754,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295700,
       "num": 242015,
       "word": "杨幂紫衣古装梦回扶摇",
@@ -9315,14 +9339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277516,
-      "num": 277516,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1688214754,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 277353,
       "num": 277353,
       "word": "李克勤红日真的好听",
@@ -9361,6 +9377,14 @@
       "onboard_time": 1688107116,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274895,
+      "num": 274895,
+      "word": "柳智敏直播状态",
+      "onboard_time": 1688217872,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 274535,
@@ -9651,6 +9675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266477,
+      "num": 266477,
+      "word": "网友感谢王一博赞助奖学金",
+      "onboard_time": 1688217993,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266463,
       "num": 266463,
       "word": "什么病人明明是我本人",
@@ -9729,6 +9761,14 @@
       "onboard_time": 1687688074,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264345,
+      "num": 288606,
+      "word": "国科大校长说着说着就哭了",
+      "onboard_time": 1688215472,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 264087,
@@ -10635,6 +10675,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 237528,
+      "num": 237528,
+      "word": "女生本科毕业就成功应聘高校教师",
+      "onboard_time": 1688218115,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 237316,
       "num": 237316,
       "word": "105秒回顾中国航天梦",
@@ -10843,14 +10891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229053,
-      "num": 275776,
-      "word": "国科大校长说着说着就哭了",
-      "onboard_time": 1688215472,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 229000,
       "num": 229000,
       "word": "老板不想上班带我们去海边",
@@ -10964,7 +11004,7 @@
     },
     {
       "raw_hot": 225599,
-      "num": 225599,
+      "num": 232742,
       "word": "第一次见这么优雅的猫",
       "onboard_time": 1688216134,
       "rank": 34,
@@ -10984,14 +11024,6 @@
       "word": "chunli 碰瓷果然不好哈",
       "onboard_time": 1687867777,
       "rank": 45,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 225065,
-      "num": 225065,
-      "word": "Uzi选出VN",
-      "onboard_time": 1688217453,
-      "rank": 37,
       "category": "游戏"
     },
     {
@@ -12593,14 +12625,6 @@
       "onboard_time": 1687864778,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186218,
-      "num": 186218,
-      "word": "金地雄晕倒",
-      "onboard_time": 1688217573,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 186162,
@@ -14436,7 +14460,7 @@
     },
     {
       "raw_hot": 115069,
-      "num": 165986,
+      "num": 166319,
       "word": "有些情感就是高中限定的",
       "onboard_time": 1688216675,
       "rank": 49,
@@ -14665,6 +14689,14 @@
       "onboard_time": 1688167943,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97857,
+      "num": 165909,
+      "word": "晨练大爷不顾膝盖磕伤勇救落水者",
+      "onboard_time": 1688218353,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96204,
