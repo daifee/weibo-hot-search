@@ -1,0 +1,410 @@
+{
+  "runTime": 1688206765168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3130236,
+        "num": 3130236,
+        "word": "刘美含 北大",
+        "onboard_time": 1688201312,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553146,
+        "num": 1923734,
+        "word": "允许带孩子上班的单位太幸福了",
+        "onboard_time": 1688194290,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45243,
+        "num": 1794059,
+        "word": "七一勋章获得者的事迹有多感人",
+        "onboard_time": 1688200595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1671235,
+        "num": 1671235,
+        "word": "消失的她票根还有隐藏刀",
+        "onboard_time": 1688203111,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332821,
+        "num": 1258446,
+        "word": "雷公与儿子见面时间确认",
+        "onboard_time": 1688205031,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133704,
+        "num": 1133704,
+        "word": "杨颖工作室改名刘瑕心理工作室",
+        "onboard_time": 1688198013,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256806,
+        "num": 991261,
+        "word": "女兵退伍当村支书集体收入3年翻3倍",
+        "onboard_time": 1688201613,
+        "rank": 6,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 924528,
+        "num": 924528,
+        "word": "娄艺潇自曝体重快120斤",
+        "onboard_time": 1688197651,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849531,
+        "num": 849531,
+        "word": "刘瑕被网暴",
+        "onboard_time": 1688205391,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 775932,
+        "num": 775932,
+        "word": "韩剧里财阀的脱鞋方式",
+        "onboard_time": 1688204011,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674195,
+        "num": 674195,
+        "word": "张雪峰称老师家长告诉你的全是真的",
+        "onboard_time": 1688202575,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 640580,
+        "num": 640580,
+        "word": "马伯骞每年在黄子韬家住两周",
+        "onboard_time": 1688203174,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625385,
+        "num": 625385,
+        "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
+        "onboard_time": 1688194771,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528061,
+        "num": 528061,
+        "word": "宋轶骂得我心都化了",
+        "onboard_time": 1688196453,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486413,
+        "num": 486413,
+        "word": "赵露思家人看到吻戏的反应",
+        "onboard_time": 1688201613,
+        "rank": 14,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 483378,
+        "num": 483378,
+        "word": "樊振东",
+        "onboard_time": 1688204254,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387749,
+        "num": 387749,
+        "word": "7月狗屎运最旺星座",
+        "onboard_time": 1688194053,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 381738,
+        "num": 381738,
+        "word": "法国马赛最大图书馆被烧毁",
+        "onboard_time": 1688198132,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344548,
+        "num": 344548,
+        "word": "杀害女子嫌犯靳创民被找到时已死亡",
+        "onboard_time": 1688205154,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339955,
+        "num": 339955,
+        "word": "曝范玮琪声明是陈建州发的",
+        "onboard_time": 1688184151,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647333,
+        "num": 339384,
+        "word": "原来用臀部发力走路腿会变直",
+        "onboard_time": 1688205575,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388380,
+        "num": 339208,
+        "word": "周翊然成难哄桑延热门人选",
+        "onboard_time": 1688199873,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338384,
+        "num": 338384,
+        "word": "白敬亭梁洁邢菲边天扬跳的Queencard",
+        "onboard_time": 1688199815,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306042,
+        "num": 306042,
+        "word": "肖战vlog画外音",
+        "onboard_time": 1688201372,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302074,
+        "num": 302074,
+        "word": "法国",
+        "onboard_time": 1688201071,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278345,
+        "num": 278345,
+        "word": "江西杀害3名小孩嫌疑人被抓获",
+        "onboard_time": 1688192552,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268642,
+        "num": 268642,
+        "word": "江西一化工厂爆炸",
+        "onboard_time": 1688188412,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266121,
+        "num": 266121,
+        "word": "学校把期末成绩发给家长了",
+        "onboard_time": 1688203052,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263149,
+        "num": 263149,
+        "word": "何非的保证书是朱一龙写的",
+        "onboard_time": 1688194893,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253499,
+        "num": 253499,
+        "word": "牙医建议刷牙后不要立刻漱口",
+        "onboard_time": 1688183792,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282554,
+        "num": 252817,
+        "word": "蔡国强在日本的白日烟火表演",
+        "onboard_time": 1688203832,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248373,
+        "num": 248373,
+        "word": "李现 这次没有版权问题了",
+        "onboard_time": 1688193812,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240756,
+        "num": 240756,
+        "word": "WTT常规挑战赛萨格勒布站2023",
+        "onboard_time": 1688205812,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230997,
+        "num": 230997,
+        "word": "朱一龙一番总票房破40亿",
+        "onboard_time": 1688202335,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221156,
+        "num": 221156,
+        "word": "陈哲远王玉雯 白色橄榄树",
+        "onboard_time": 1688206229,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220650,
+        "num": 220650,
+        "word": "陈都灵六年后再去蘑菇屋",
+        "onboard_time": 1688205333,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210584,
+        "num": 210584,
+        "word": "徐明浩模仿沈月哭掉假睫毛",
+        "onboard_time": 1688201071,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189055,
+        "num": 189055,
+        "word": "中国女篮vs澳大利亚女篮",
+        "onboard_time": 1688204970,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185685,
+        "num": 185685,
+        "word": "只有福宝自己不知道明年要去哪",
+        "onboard_time": 1688205931,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181440,
+        "num": 181440,
+        "word": "杨幂自己改上衣",
+        "onboard_time": 1688196453,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181140,
+        "num": 181140,
+        "word": "Angelababy 这是我结婚的地方",
+        "onboard_time": 1688179952,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157221,
+        "num": 157221,
+        "word": "HR让我面试帮忙带杯冰美式",
+        "onboard_time": 1688201493,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155103,
+        "num": 155103,
+        "word": "夏目友人帐",
+        "onboard_time": 1688184692,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153012,
+        "num": 153012,
+        "word": "朱一龙自己给自己挖坑",
+        "onboard_time": 1688204852,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149319,
+        "num": 149319,
+        "word": "生死簿上的名字一闪一闪的",
+        "onboard_time": 1688195130,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147917,
+        "num": 147917,
+        "word": "刘宇宁王子文 蝉女",
+        "onboard_time": 1688192852,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139112,
+        "num": 139112,
+        "word": "媒体称消失的她抓住了婚恋焦虑红利",
+        "onboard_time": 1688206172,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131814,
+        "num": 131814,
+        "word": "爸爸也在偷偷想念他的爸爸",
+        "onboard_time": 1688204195,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 124244,
+        "num": 124244,
+        "word": "警校毕业生教院长比心",
+        "onboard_time": 1688206652,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 117895,
+        "num": 117895,
+        "word": "Hero对战XYG",
+        "onboard_time": 1688204852,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#征程#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688204036301,
+  "endTime": 1688206765168,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -129,6 +129,14 @@
       "onboard_time": 1688136760,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1671235,
+      "num": 1671235,
+      "word": "消失的她票根还有隐藏刀",
+      "onboard_time": 1688203111,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1630521,
@@ -307,11 +315,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 827339,
-      "num": 523994,
-      "word": "消失的她票根还有隐藏刀",
-      "onboard_time": 1688203111,
-      "rank": 11,
+      "raw_hot": 849531,
+      "num": 849531,
+      "word": "刘瑕被网暴",
+      "onboard_time": 1688205391,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -355,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 775932,
+      "num": 775932,
+      "word": "韩剧里财阀的脱鞋方式",
+      "onboard_time": 1688204011,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 767122,
       "num": 767122,
       "word": "赵露思家人看到吻戏的反应",
@@ -395,8 +411,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 674195,
+      "num": 674195,
+      "word": "张雪峰称老师家长告诉你的全是真的",
+      "onboard_time": 1688202575,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 669719,
-      "num": 669719,
+      "num": 1923734,
       "word": "允许带孩子上班的单位太幸福了",
       "onboard_time": 1688194290,
       "rank": 9,
@@ -443,12 +467,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 647333,
+      "num": 339384,
+      "word": "原来用臀部发力走路腿会变直",
+      "onboard_time": 1688205575,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 645052,
       "num": 645052,
       "word": "刘耀文 张艺谋电影",
       "onboard_time": 1688184872,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 640580,
+      "num": 640580,
+      "word": "马伯骞每年在黄子韬家住两周",
+      "onboard_time": 1688203174,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 632695,
@@ -659,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 492168,
-      "num": 492168,
-      "word": "张雪峰称老师家长告诉你的全是真的",
-      "onboard_time": 1688202575,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 491782,
       "num": 426757,
       "word": "因为洗樱桃太慢被老板辞退了",
@@ -689,6 +721,14 @@
       "onboard_time": 1688194172,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483378,
+      "num": 483378,
+      "word": "樊振东",
+      "onboard_time": 1688204254,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 476288,
@@ -892,11 +932,19 @@
     },
     {
       "raw_hot": 345292,
-      "num": 345292,
+      "num": 991261,
       "word": "女兵退伍当村支书集体收入3年翻3倍",
       "onboard_time": 1688201613,
       "rank": 19,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 344548,
+      "num": 344548,
+      "word": "杀害女子嫌犯靳创民被找到时已死亡",
+      "onboard_time": 1688205154,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339963,
@@ -913,6 +961,14 @@
       "onboard_time": 1688134478,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332821,
+      "num": 1258446,
+      "word": "雷公与儿子见面时间确认",
+      "onboard_time": 1688205031,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331617,
@@ -1083,6 +1139,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 282554,
+      "num": 252817,
+      "word": "蔡国强在日本的白日烟火表演",
+      "onboard_time": 1688203832,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279162,
       "num": 252386,
       "word": "韩剧恶鬼",
@@ -1144,6 +1208,14 @@
       "word": "什么病人明明是我本人",
       "onboard_time": 1688139760,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 266121,
+      "num": 266121,
+      "word": "学校把期末成绩发给家长了",
+      "onboard_time": 1688203052,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -1299,20 +1371,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242905,
-      "num": 242905,
-      "word": "马伯骞每年在黄子韬家住两周",
-      "onboard_time": 1688203174,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241049,
       "num": 241049,
       "word": "班主任让高三教室一整年都开满鲜花",
       "onboard_time": 1688169326,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240756,
+      "num": 240756,
+      "word": "WTT常规挑战赛萨格勒布站2023",
+      "onboard_time": 1688205812,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 240539,
@@ -1443,6 +1515,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221156,
+      "num": 221156,
+      "word": "陈哲远王玉雯 白色橄榄树",
+      "onboard_time": 1688206229,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220650,
+      "num": 220650,
+      "word": "陈都灵六年后再去蘑菇屋",
+      "onboard_time": 1688205333,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220235,
       "num": 220235,
       "word": "爸爸用15元买了孩子一下午的快乐",
@@ -1521,14 +1609,6 @@
       "onboard_time": 1688168605,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 209871,
-      "num": 209871,
-      "word": "学校把期末成绩发给家长了",
-      "onboard_time": 1688203052,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 208488,
@@ -1635,6 +1715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189055,
+      "num": 189055,
+      "word": "中国女篮vs澳大利亚女篮",
+      "onboard_time": 1688204970,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188718,
       "num": 188718,
       "word": "警员拦下腹痛司机连说5遍去医院",
@@ -1665,6 +1753,14 @@
       "onboard_time": 1688130336,
       "rank": 29,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 185685,
+      "num": 185685,
+      "word": "只有福宝自己不知道明年要去哪",
+      "onboard_time": 1688205931,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181871,
@@ -1755,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153012,
+      "num": 153012,
+      "word": "朱一龙自己给自己挖坑",
+      "onboard_time": 1688204852,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150365,
       "num": 1512157,
       "word": "中国制造在土耳其火了",
@@ -1779,14 +1883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146299,
-      "num": 146299,
-      "word": "韩剧里财阀的脱鞋方式",
-      "onboard_time": 1688204011,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145137,
       "num": 145137,
       "word": "潘功胜任中国人民银行党委书记",
@@ -1803,11 +1899,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135523,
-      "num": 135523,
-      "word": "蔡国强在日本的白日烟火表演",
-      "onboard_time": 1688203832,
-      "rank": 47,
+      "raw_hot": 139112,
+      "num": 139112,
+      "word": "媒体称消失的她抓住了婚恋焦虑红利",
+      "onboard_time": 1688206172,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1827,12 +1923,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131814,
+      "num": 131814,
+      "word": "爸爸也在偷偷想念他的爸爸",
+      "onboard_time": 1688204195,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 125833,
       "num": 201416,
       "word": "才知道自己没吃过正宗双皮奶",
       "onboard_time": 1688174852,
       "rank": 49,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 124244,
+      "num": 124244,
+      "word": "警校毕业生教院长比心",
+      "onboard_time": 1688206652,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 117895,
+      "num": 117895,
+      "word": "Hero对战XYG",
+      "onboard_time": 1688204852,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 115967,
@@ -1908,7 +2028,7 @@
     },
     {
       "raw_hot": 66852,
-      "num": 1275935,
+      "num": 1794059,
       "word": "七一勋章获得者的事迹有多感人",
       "onboard_time": 1688200595,
       "rank": 2,
