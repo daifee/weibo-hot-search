@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688218427191,
+  "endTime": 1688220955498,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -155,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1673155,
+      "num": 1673155,
+      "word": "正式被确诊为浣碧",
+      "onboard_time": 1688219853,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1671235,
       "num": 1671235,
       "word": "消失的她票根还有隐藏刀",
@@ -163,8 +171,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1652870,
-      "num": 619642,
+      "raw_hot": 1668729,
+      "num": 935767,
       "word": "高校男生被女生喷不明液体双方已和解",
       "onboard_time": 1688215231,
       "rank": 10,
@@ -177,6 +185,14 @@
       "onboard_time": 1688177311,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1410354,
+      "num": 1410354,
+      "word": "金曲奖",
+      "onboard_time": 1688208391,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1327785,
@@ -211,12 +227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1190254,
-      "num": 1190254,
-      "word": "金曲奖",
-      "onboard_time": 1688208391,
-      "rank": 7,
-      "category": "音乐"
+      "raw_hot": 1161869,
+      "num": 1161869,
+      "word": "澡堂子偶遇王嘉尔",
+      "onboard_time": 1688218832,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1150434,
@@ -259,6 +275,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 1026500,
+      "num": 1026500,
+      "word": "Uzi选出VN",
+      "onboard_time": 1688217453,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1011525,
       "num": 1011525,
       "word": "宋轶骂得我心都化了",
@@ -273,6 +297,14 @@
       "onboard_time": 1688139218,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 979271,
+      "num": 979271,
+      "word": "白敬亭这真的是你吗",
+      "onboard_time": 1688219254,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 970243,
@@ -316,11 +348,19 @@
     },
     {
       "raw_hot": 941290,
-      "num": 381112,
+      "num": 439421,
       "word": "原来用臀部发力走路腿会变直",
       "onboard_time": 1688205575,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 926340,
+      "num": 926340,
+      "word": "网友感谢王一博赞助奖学金",
+      "onboard_time": 1688217993,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 916281,
@@ -379,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 817327,
+      "num": 817327,
+      "word": "杨紫你好星期六下周预告",
+      "onboard_time": 1688218474,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 812245,
       "num": 812245,
       "word": "法国载40多名中国公民车辆被砸",
@@ -428,7 +476,7 @@
     },
     {
       "raw_hot": 778482,
-      "num": 778482,
+      "num": 937240,
       "word": "法国骚乱已蔓延到邻国比利时",
       "onboard_time": 1688211212,
       "rank": 49,
@@ -465,6 +513,14 @@
       "onboard_time": 1688172990,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 734905,
+      "num": 734905,
+      "word": "EDG战胜WE",
+      "onboard_time": 1688219376,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 716944,
@@ -699,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568717,
-      "num": 568717,
-      "word": "Uzi选出VN",
-      "onboard_time": 1688217453,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 568219,
       "num": 568219,
       "word": "其实世界上有很多情侣根本不熟",
@@ -771,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542967,
+      "num": 542967,
+      "word": "沈月说到杨迪就哭了",
+      "onboard_time": 1688219315,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540815,
       "num": 343244,
       "word": "乘风五公",
@@ -793,6 +849,14 @@
       "onboard_time": 1688211152,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 525557,
+      "num": 437978,
+      "word": "女生本科毕业就成功应聘高校教师",
+      "onboard_time": 1688218115,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 523496,
@@ -931,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470434,
+      "num": 437334,
+      "word": "柳智敏直播状态",
+      "onboard_time": 1688217872,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453844,
       "num": 453844,
       "word": "刘畊宏晒与郭艾伦李现林书豪合照",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1688213430,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432548,
+      "num": 432548,
+      "word": "金地雄晕倒",
+      "onboard_time": 1688217573,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 422496,
@@ -1089,14 +1169,6 @@
       "onboard_time": 1688178451,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 387512,
-      "num": 364790,
-      "word": "金地雄晕倒",
-      "onboard_time": 1688217573,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 378352,
@@ -1379,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297652,
+      "num": 297652,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1688214754,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297571,
       "num": 297571,
       "word": "徐明浩模仿沈月哭掉假睫毛",
@@ -1393,14 +1473,6 @@
       "onboard_time": 1688196630,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295744,
-      "num": 295744,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1688214754,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 295577,
@@ -1441,14 +1513,6 @@
       "onboard_time": 1688141375,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274895,
-      "num": 274895,
-      "word": "柳智敏直播状态",
-      "onboard_time": 1688217872,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 273531,
@@ -1515,14 +1579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 266477,
-      "num": 266477,
-      "word": "网友感谢王一博赞助奖学金",
-      "onboard_time": 1688217993,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266463,
       "num": 266463,
       "word": "什么病人明明是我本人",
@@ -1556,7 +1612,7 @@
     },
     {
       "raw_hot": 264345,
-      "num": 288606,
+      "num": 375242,
       "word": "国科大校长说着说着就哭了",
       "onboard_time": 1688215472,
       "rank": 29,
@@ -1771,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237528,
-      "num": 237528,
-      "word": "女生本科毕业就成功应聘高校教师",
-      "onboard_time": 1688218115,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 237316,
       "num": 237316,
       "word": "105秒回顾中国航天梦",
@@ -1963,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214435,
+      "num": 214435,
+      "word": "女大学生向男生泼热水致二度烧伤",
+      "onboard_time": 1688218832,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212213,
       "num": 212213,
       "word": "建党节",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1688196512,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 206944,
+      "num": 206944,
+      "word": "郑宜农拿了两个奖",
+      "onboard_time": 1688220216,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 206723,
@@ -2075,6 +2139,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 193079,
+      "num": 193079,
+      "word": "Cat盾山才是真C",
+      "onboard_time": 1688220156,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192875,
       "num": 192875,
       "word": "小义直播",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1688141375,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 190011,
+      "num": 190011,
+      "word": "AG好起来了",
+      "onboard_time": 1688219796,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 189996,
@@ -2193,6 +2273,14 @@
       "onboard_time": 1688136221,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 180734,
+      "num": 180734,
+      "word": "毕业后被最喜欢的老师拉黑了",
+      "onboard_time": 1688220936,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 178464,
@@ -2578,6 +2666,9 @@
     },
     {
       "word": "#理想信念是共产党人的精神之钙#"
+    },
+    {
+      "word": "#他们的名字成为闪耀的路标#"
     }
   ]
 }
