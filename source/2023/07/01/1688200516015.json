@@ -1,0 +1,410 @@
+{
+  "runTime": 1688200516015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2660420,
+        "num": 2660420,
+        "word": "杨颖工作室改名刘瑕心理工作室",
+        "onboard_time": 1688198013,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1749565,
+        "num": 1749565,
+        "word": "娄艺潇自曝体重快120斤",
+        "onboard_time": 1688197651,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12921,
+        "num": 1035721,
+        "word": "102年中的变与不变",
+        "onboard_time": 1688200416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918412,
+        "num": 918412,
+        "word": "7月狗屎运最旺星座",
+        "onboard_time": 1688194053,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 903163,
+        "num": 903163,
+        "word": "李现 这次没有版权问题了",
+        "onboard_time": 1688193812,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805867,
+        "num": 805867,
+        "word": "江西一化工厂爆炸",
+        "onboard_time": 1688188412,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758224,
+        "num": 758224,
+        "word": "何非的保证书是朱一龙写的",
+        "onboard_time": 1688194893,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751133,
+        "num": 751133,
+        "word": "宋轶骂得我心都化了",
+        "onboard_time": 1688196453,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730944,
+        "num": 730944,
+        "word": "夏目友人帐",
+        "onboard_time": 1688184692,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 683280,
+        "num": 683280,
+        "word": "刘宇宁王子文 蝉女",
+        "onboard_time": 1688192852,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2087885,
+        "num": 683055,
+        "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
+        "onboard_time": 1688194771,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682809,
+        "num": 682809,
+        "word": "曝范玮琪声明是陈建州发的",
+        "onboard_time": 1688184151,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663493,
+        "num": 663493,
+        "word": "江西杀害3名小孩嫌疑人被抓获",
+        "onboard_time": 1688192552,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89321,
+        "num": 549377,
+        "word": "香港回归这一刻再看依然心潮澎湃",
+        "onboard_time": 1688185354,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64307,
+        "num": 514163,
+        "word": "去香港一定要看的出片攻略",
+        "onboard_time": 1688198430,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 488599,
+        "num": 488599,
+        "word": "允许带孩子上班的单位太幸福了",
+        "onboard_time": 1688194290,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421922,
+        "num": 421922,
+        "word": "钱流向不缺钱的人苦留给能吃苦的人",
+        "onboard_time": 1688194712,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 391539,
+        "num": 391539,
+        "word": "Angelababy 这是我结婚的地方",
+        "onboard_time": 1688179952,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360515,
+        "num": 360515,
+        "word": "赵露思选剧本的眼光",
+        "onboard_time": 1688195491,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315961,
+        "num": 358414,
+        "word": "白敬亭梁洁邢菲边天扬跳的Queencard",
+        "onboard_time": 1688199815,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437857,
+        "num": 357840,
+        "word": "牙医建议刷牙后不要立刻漱口",
+        "onboard_time": 1688183792,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381989,
+        "num": 357613,
+        "word": "杨幂自己改上衣",
+        "onboard_time": 1688196453,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356706,
+        "num": 356706,
+        "word": "周翊然成难哄桑延热门人选",
+        "onboard_time": 1688199873,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339144,
+        "num": 339144,
+        "word": "生死簿上的名字一闪一闪的",
+        "onboard_time": 1688195130,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 290542,
+        "num": 290542,
+        "word": "陈建州风波后首露面",
+        "onboard_time": 1688194172,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276812,
+        "num": 276812,
+        "word": "张大大说白敬亭宋轶是真的就祝福",
+        "onboard_time": 1688177252,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271230,
+        "num": 271230,
+        "word": "天秤座总是间歇性悲观",
+        "onboard_time": 1688195552,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 260289,
+        "num": 260289,
+        "word": "驾照到手就去应聘教练吧",
+        "onboard_time": 1688197412,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239301,
+        "num": 239301,
+        "word": "素颜的杨幂",
+        "onboard_time": 1688185112,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238303,
+        "num": 238303,
+        "word": "泡脚竟然还能变白",
+        "onboard_time": 1688196630,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366211,
+        "num": 238193,
+        "word": "预判了芒果的预判",
+        "onboard_time": 1688198972,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237720,
+        "num": 237720,
+        "word": "看到妈妈放手那一刻真的泪目了",
+        "onboard_time": 1688195373,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232782,
+        "num": 232782,
+        "word": "高考657分想重新复读一年",
+        "onboard_time": 1688174852,
+        "rank": 32,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 224290,
+        "num": 224290,
+        "word": "中国共产党是人民的党",
+        "onboard_time": 1688198852,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 215318,
+        "num": 215318,
+        "word": "三胞胎妈妈的孕肚",
+        "onboard_time": 1688182594,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198665,
+        "num": 198665,
+        "word": "法国马赛最大图书馆被烧毁",
+        "onboard_time": 1688198132,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192940,
+        "num": 192940,
+        "word": "白敬亭宋轶是不是忘记官宣了",
+        "onboard_time": 1688138323,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191983,
+        "num": 191983,
+        "word": "奔跑吧是在吐槽吗",
+        "onboard_time": 1688172210,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190657,
+        "num": 190657,
+        "word": "邓佳鑫 北京",
+        "onboard_time": 1688188412,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189260,
+        "num": 189260,
+        "word": "律师直播间 真人版剧本杀",
+        "onboard_time": 1688200113,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188824,
+        "num": 188824,
+        "word": "种地吧",
+        "onboard_time": 1688195491,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187114,
+        "num": 187114,
+        "word": "中国女排3比1战胜韩国队",
+        "onboard_time": 1688197296,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176787,
+        "num": 176787,
+        "word": "终于知道肚子痛是哪里痛了",
+        "onboard_time": 1688182411,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170814,
+        "num": 170814,
+        "word": "易烊千玺粉色手链是自己串的",
+        "onboard_time": 1688180909,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166685,
+        "num": 166685,
+        "word": "沈月把何炅的饭当狗粮",
+        "onboard_time": 1688192073,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152578,
+        "num": 152578,
+        "word": "八角笼中",
+        "onboard_time": 1688185713,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146691,
+        "num": 146691,
+        "word": "英文里猫猫这个动作真的叫面包",
+        "onboard_time": 1688196453,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143962,
+        "num": 143962,
+        "word": "沈涛官宣得子",
+        "onboard_time": 1688177311,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141073,
+        "num": 141073,
+        "word": "刘耀文 张艺谋电影",
+        "onboard_time": 1688184872,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140907,
+        "num": 140907,
+        "word": "沈月魏大勋是在饭局上认识的",
+        "onboard_time": 1688186734,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党成立102周年#"
+    }
+  }
+}

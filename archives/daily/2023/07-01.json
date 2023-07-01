@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688199714314,
+  "endTime": 1688200516015,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2439195,
-      "num": 2439195,
+      "raw_hot": 2660420,
+      "num": 2660420,
       "word": "杨颖工作室改名刘瑕心理工作室",
       "onboard_time": 1688198013,
       "rank": 0,
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 758224,
+      "num": 758224,
+      "word": "何非的保证书是朱一龙写的",
+      "onboard_time": 1688194893,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 755649,
       "num": 755649,
       "word": "法国",
@@ -345,14 +353,6 @@
       "onboard_time": 1688172990,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 739816,
-      "num": 739816,
-      "word": "何非的保证书是朱一龙写的",
-      "onboard_time": 1688194893,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 703406,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 473755,
-      "num": 285071,
+      "num": 357613,
       "word": "杨幂自己改上衣",
       "onboard_time": 1688196453,
       "rank": 31,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 416510,
-      "num": 277987,
+      "num": 339144,
       "word": "生死簿上的名字一闪一闪的",
       "onboard_time": 1688195130,
       "rank": 31,
@@ -793,6 +793,22 @@
       "onboard_time": 1688136103,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366211,
+      "num": 238193,
+      "word": "预判了芒果的预判",
+      "onboard_time": 1688198972,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 356706,
+      "num": 356706,
+      "word": "周翊然成难哄桑延热门人选",
+      "onboard_time": 1688199873,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 352163,
@@ -899,20 +915,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315961,
+      "num": 358414,
+      "word": "白敬亭梁洁邢菲边天扬跳的Queencard",
+      "onboard_time": 1688199815,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310960,
       "num": 239479,
       "word": "消失的她",
       "onboard_time": 1688132439,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 310852,
-      "num": 214255,
-      "word": "预判了芒果的预判",
-      "onboard_time": 1688198972,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 310778,
@@ -1027,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271230,
+      "num": 271230,
+      "word": "天秤座总是间歇性悲观",
+      "onboard_time": 1688195552,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 271105,
       "num": 225736,
       "word": "李现把周杰伦to签穿身上",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1688180492,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263265,
-      "num": 263265,
-      "word": "天秤座总是间歇性悲观",
-      "onboard_time": 1688195552,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 262400,
@@ -1307,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224290,
+      "num": 224290,
+      "word": "中国共产党是人民的党",
+      "onboard_time": 1688198852,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 224014,
       "num": 224014,
       "word": "江西三支一扶",
@@ -1451,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198665,
+      "num": 198665,
+      "word": "法国马赛最大图书馆被烧毁",
+      "onboard_time": 1688198132,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194588,
       "num": 194588,
       "word": "一梦江湖",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1688166860,
       "rank": 27,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 189260,
+      "num": 189260,
+      "word": "律师直播间 真人版剧本杀",
+      "onboard_time": 1688200113,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 188718,
@@ -1609,22 +1649,6 @@
       "onboard_time": 1688166500,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168096,
-      "num": 168096,
-      "word": "法国马赛最大图书馆被烧毁",
-      "onboard_time": 1688198132,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163962,
-      "num": 163962,
-      "word": "中国共产党是人民的党",
-      "onboard_time": 1688198852,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 150365,
@@ -1755,8 +1779,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 46021,
-      "num": 482702,
+      "raw_hot": 64307,
+      "num": 514163,
       "word": "去香港一定要看的出片攻略",
       "onboard_time": 1688198430,
       "rank": 14,
@@ -1776,6 +1800,14 @@
       "word": "新时代赶考路",
       "onboard_time": 1688147058,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12921,
+      "num": 1035721,
+      "word": "102年中的变与不变",
+      "onboard_time": 1688200416,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
