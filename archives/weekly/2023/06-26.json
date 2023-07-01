@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688210086666,
+  "endTime": 1688211225678,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5469546,
+      "num": 5469546,
+      "word": "蔡徐坤豆瓣主页作品被清空",
+      "onboard_time": 1688208272,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5207439,
       "num": 915907,
       "word": "微信官方致歉",
       "onboard_time": 1688024857,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 4869849,
-      "num": 4869849,
-      "word": "蔡徐坤豆瓣主页作品被清空",
-      "onboard_time": 1688208272,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 4690382,
@@ -2131,6 +2131,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1085592,
+      "num": 1085592,
+      "word": "金曲奖",
+      "onboard_time": 1688208391,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1085381,
       "num": 1085381,
       "word": "你的童年报复性补偿行为",
@@ -2425,14 +2433,6 @@
       "onboard_time": 1687850258,
       "rank": 44,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 986669,
-      "num": 986669,
-      "word": "金曲奖",
-      "onboard_time": 1688208391,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 985088,
@@ -2817,6 +2817,14 @@
       "onboard_time": 1688131777,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 890591,
+      "num": 890591,
+      "word": "鸟胃型猪瘾",
+      "onboard_time": 1688210192,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 890345,
@@ -3547,6 +3555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 716944,
+      "num": 716944,
+      "word": "鹿晗演唱会给粉丝送Gucci",
+      "onboard_time": 1688207553,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 715685,
       "num": 458816,
       "word": "领完结婚证岳父给我转了29.8万",
@@ -3787,14 +3803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 682617,
-      "num": 542473,
-      "word": "鹿晗演唱会给粉丝送Gucci",
-      "onboard_time": 1688207553,
-      "rank": 37,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 681056,
       "num": 1439039,
       "word": "跳桥小哥被邀请落户杭州",
@@ -3868,7 +3876,7 @@
     },
     {
       "raw_hot": 669719,
-      "num": 3174485,
+      "num": 3385006,
       "word": "允许带孩子上班的单位太幸福了",
       "onboard_time": 1688194290,
       "rank": 9,
@@ -4196,7 +4204,7 @@
     },
     {
       "raw_hot": 627845,
-      "num": 529478,
+      "num": 624269,
       "word": "陈哲远王玉雯 白色橄榄树",
       "onboard_time": 1688206229,
       "rank": 34,
@@ -4699,6 +4707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563166,
+      "num": 563166,
+      "word": "李梦真的牛",
+      "onboard_time": 1688208155,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562411,
       "num": 562411,
       "word": "专家不建议选专业首要考虑挣多少钱",
@@ -5107,6 +5123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 527473,
+      "num": 242884,
+      "word": "中国女篮晋级亚洲杯决赛",
+      "onboard_time": 1688211152,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 527074,
       "num": 527074,
       "word": "爱奇艺直播",
@@ -5209,14 +5233,6 @@
       "onboard_time": 1687965222,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 514286,
-      "num": 514286,
-      "word": "李梦真的牛",
-      "onboard_time": 1688208155,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 513974,
@@ -6235,20 +6251,20 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 422496,
+      "num": 422496,
+      "word": "金曲奖红毯",
+      "onboard_time": 1688207253,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 421725,
       "num": 237916,
       "word": "不跳不是人如此起哄根本不是人话",
       "onboard_time": 1688131659,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421696,
-      "num": 421696,
-      "word": "金曲奖红毯",
-      "onboard_time": 1688207253,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 421237,
@@ -7420,7 +7436,7 @@
     },
     {
       "raw_hot": 345292,
-      "num": 1294148,
+      "num": 1422788,
       "word": "女兵退伍当村支书集体收入3年翻3倍",
       "onboard_time": 1688201613,
       "rank": 19,
@@ -8523,6 +8539,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 301928,
+      "num": 301928,
+      "word": "中国女篮vs澳大利亚女篮",
+      "onboard_time": 1688204970,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301418,
       "num": 301418,
       "word": "上班的苦和上学的苦是不一样的",
@@ -8865,6 +8889,14 @@
       "onboard_time": 1687944754,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288180,
+      "num": 288180,
+      "word": "陈绮贞好美",
+      "onboard_time": 1688210792,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 287867,
@@ -9235,6 +9267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273368,
+      "num": 273368,
+      "word": "只有福宝自己不知道明年要去哪",
+      "onboard_time": 1688205931,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273156,
       "num": 273156,
       "word": "星卡里",
@@ -9497,14 +9537,6 @@
       "onboard_time": 1688188471,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 265696,
-      "num": 265696,
-      "word": "只有福宝自己不知道明年要去哪",
-      "onboard_time": 1688205931,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265652,
@@ -10209,14 +10241,6 @@
       "onboard_time": 1688180973,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243228,
-      "num": 243228,
-      "word": "中国女篮vs澳大利亚女篮",
-      "onboard_time": 1688204970,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 243210,
@@ -11099,6 +11123,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 216337,
+      "num": 216337,
+      "word": "Hero对战XYG",
+      "onboard_time": 1688204852,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "女排",
@@ -11323,6 +11355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211471,
+      "num": 211471,
+      "word": "胖东来老板劝网友卖房",
+      "onboard_time": 1688210792,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 211371,
       "num": 241031,
       "word": "一定要学露思的变美思路",
@@ -11475,6 +11515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206550,
+      "num": 206550,
+      "word": "王者荣耀亚运版本中国队首秀",
+      "onboard_time": 1688210554,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "扬州警方通报",
@@ -11553,6 +11601,14 @@
       "onboard_time": 1687916076,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203856,
+      "num": 203856,
+      "word": "沈月陈小希造型",
+      "onboard_time": 1688208571,
+      "rank": 36,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 203848,
@@ -11753,14 +11809,6 @@
       "onboard_time": 1687760995,
       "rank": 29,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 198356,
-      "num": 198356,
-      "word": "沈月陈小希造型",
-      "onboard_time": 1688208571,
-      "rank": 36,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 197907,
@@ -12225,6 +12273,14 @@
       "onboard_time": 1687933293,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 188106,
+      "num": 188106,
+      "word": "任天真段嘉许同台",
+      "onboard_time": 1688210311,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 187716,
@@ -13203,6 +13259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156720,
+      "num": 156720,
+      "word": "以为是米奇妙妙屋",
+      "onboard_time": 1688210431,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156601,
       "num": 156601,
       "word": "蔡徐坤泰国演唱会",
@@ -13483,6 +13547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146164,
+      "num": 146164,
+      "word": "法国骚乱已蔓延到邻国比利时",
+      "onboard_time": 1688211212,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 146003,
       "num": 146003,
       "word": "杭州地铁强冷弱冷车厢上线",
@@ -13569,14 +13641,6 @@
       "onboard_time": 1688106514,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143747,
-      "num": 143747,
-      "word": "Hero对战XYG",
-      "onboard_time": 1688204852,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 143451,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1688211225678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5469546,
+        "num": 5469546,
+        "word": "蔡徐坤豆瓣主页作品被清空",
+        "onboard_time": 1688208272,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489168,
+        "num": 3385006,
+        "word": "允许带孩子上班的单位太幸福了",
+        "onboard_time": 1688194290,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42512,
+        "num": 2500505,
+        "word": "七一勋章获得者的事迹有多感人",
+        "onboard_time": 1688200595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1986607,
+        "num": 1986607,
+        "word": "刘美含 北大",
+        "onboard_time": 1688201312,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259860,
+        "num": 1422788,
+        "word": "女兵退伍当村支书集体收入3年翻3倍",
+        "onboard_time": 1688201613,
+        "rank": 4,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 1085592,
+        "num": 1085592,
+        "word": "金曲奖",
+        "onboard_time": 1688208391,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234675,
+        "num": 1013220,
+        "word": "雷公与儿子见面时间确认",
+        "onboard_time": 1688205031,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976013,
+        "num": 976013,
+        "word": "消失的她票根还有隐藏刀",
+        "onboard_time": 1688203111,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 890591,
+        "num": 890591,
+        "word": "鸟胃型猪瘾",
+        "onboard_time": 1688210192,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 716944,
+        "num": 716944,
+        "word": "鹿晗演唱会给粉丝送Gucci",
+        "onboard_time": 1688207553,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 816507,
+        "num": 696195,
+        "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
+        "onboard_time": 1688194771,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672958,
+        "num": 672958,
+        "word": "杨颖工作室改名刘瑕心理工作室",
+        "onboard_time": 1688198013,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 624269,
+        "num": 624269,
+        "word": "陈哲远王玉雯 白色橄榄树",
+        "onboard_time": 1688206229,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563166,
+        "num": 563166,
+        "word": "李梦真的牛",
+        "onboard_time": 1688208155,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489533,
+        "num": 489533,
+        "word": "娄艺潇自曝体重快120斤",
+        "onboard_time": 1688197651,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422496,
+        "num": 422496,
+        "word": "金曲奖红毯",
+        "onboard_time": 1688207253,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 411540,
+        "num": 411540,
+        "word": "韩剧里财阀的脱鞋方式",
+        "onboard_time": 1688204011,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335125,
+        "num": 335125,
+        "word": "宋轶骂得我心都化了",
+        "onboard_time": 1688196453,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301928,
+        "num": 301928,
+        "word": "中国女篮vs澳大利亚女篮",
+        "onboard_time": 1688204970,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277308,
+        "num": 297607,
+        "word": "杀害女子嫌犯靳创民被找到时已死亡",
+        "onboard_time": 1688205154,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776375,
+        "num": 297567,
+        "word": "原来用臀部发力走路腿会变直",
+        "onboard_time": 1688205575,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329650,
+        "num": 297547,
+        "word": "张雪峰称老师家长告诉你的全是真的",
+        "onboard_time": 1688202575,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 297017,
+        "num": 297017,
+        "word": "张杰演唱会",
+        "onboard_time": 1688209651,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288180,
+        "num": 288180,
+        "word": "陈绮贞好美",
+        "onboard_time": 1688210792,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273368,
+        "num": 273368,
+        "word": "只有福宝自己不知道明年要去哪",
+        "onboard_time": 1688205931,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284770,
+        "num": 267573,
+        "word": "刘瑕被网暴",
+        "onboard_time": 1688205391,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278767,
+        "num": 265624,
+        "word": "周翊然成难哄桑延热门人选",
+        "onboard_time": 1688199873,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260026,
+        "num": 260026,
+        "word": "JDG晋级夏季季后赛",
+        "onboard_time": 1688208631,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248550,
+        "num": 248550,
+        "word": "曝范玮琪声明是陈建州发的",
+        "onboard_time": 1688184151,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198059,
+        "num": 242886,
+        "word": "江西一化工厂爆炸",
+        "onboard_time": 1688188412,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527473,
+        "num": 242884,
+        "word": "中国女篮晋级亚洲杯决赛",
+        "onboard_time": 1688211152,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242827,
+        "num": 242827,
+        "word": "7月狗屎运最旺星座",
+        "onboard_time": 1688194053,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 227508,
+        "num": 227508,
+        "word": "马伯骞每年在黄子韬家住两周",
+        "onboard_time": 1688203174,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216337,
+        "num": 216337,
+        "word": "Hero对战XYG",
+        "onboard_time": 1688204852,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211471,
+        "num": 211471,
+        "word": "胖东来老板劝网友卖房",
+        "onboard_time": 1688210792,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 206550,
+        "num": 206550,
+        "word": "王者荣耀亚运版本中国队首秀",
+        "onboard_time": 1688210554,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203856,
+        "num": 203856,
+        "word": "沈月陈小希造型",
+        "onboard_time": 1688208571,
+        "rank": 36,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 197965,
+        "num": 197965,
+        "word": "学校把期末成绩发给家长了",
+        "onboard_time": 1688203052,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193846,
+        "num": 193846,
+        "word": "牙医建议刷牙后不要立刻漱口",
+        "onboard_time": 1688183792,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188106,
+        "num": 188106,
+        "word": "任天真段嘉许同台",
+        "onboard_time": 1688210311,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183853,
+        "num": 183853,
+        "word": "樊振东",
+        "onboard_time": 1688204254,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185398,
+        "num": 178177,
+        "word": "赵露思家人看到吻戏的反应",
+        "onboard_time": 1688201613,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 168793,
+        "num": 168793,
+        "word": "肖战vlog画外音",
+        "onboard_time": 1688201372,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165103,
+        "num": 165103,
+        "word": "李现 这次没有版权问题了",
+        "onboard_time": 1688193812,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158747,
+        "num": 158747,
+        "word": "独家童话",
+        "onboard_time": 1688207312,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157358,
+        "num": 157358,
+        "word": "猫咪嚼的是他的面子",
+        "onboard_time": 1688207012,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156720,
+        "num": 156720,
+        "word": "以为是米奇妙妙屋",
+        "onboard_time": 1688210431,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151565,
+        "num": 151565,
+        "word": "陈都灵六年后再去蘑菇屋",
+        "onboard_time": 1688205333,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149835,
+        "num": 149835,
+        "word": "白敬亭梁洁邢菲边天扬跳的Queencard",
+        "onboard_time": 1688199815,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146164,
+        "num": 146164,
+        "word": "法国骚乱已蔓延到邻国比利时",
+        "onboard_time": 1688211212,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#征程#"
+    }
+  }
+}
