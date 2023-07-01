@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688211225678,
+  "endTime": 1688214895381,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -139,6 +139,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1733786,
+      "num": 1733786,
+      "word": "鸟胃型猪瘾",
+      "onboard_time": 1688210192,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1671235,
       "num": 1671235,
       "word": "消失的她票根还有隐藏刀",
@@ -153,6 +161,14 @@
       "onboard_time": 1688177311,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1506456,
+      "num": 1506456,
+      "word": "胖东来老板劝网友卖房",
+      "onboard_time": 1688210792,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1327785,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 941290,
-      "num": 339384,
+      "num": 381112,
       "word": "原来用臀部发力走路腿会变直",
       "onboard_time": 1688205575,
       "rank": 20,
@@ -313,14 +329,6 @@
       "onboard_time": 1688184692,
       "rank": 15,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 890591,
-      "num": 890591,
-      "word": "鸟胃型猪瘾",
-      "onboard_time": 1688210192,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 883481,
@@ -369,6 +377,14 @@
       "onboard_time": 1688174491,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805772,
+      "num": 505342,
+      "word": "广西一教师在医院楼顶水箱溺亡",
+      "onboard_time": 1688211691,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 804918,
@@ -449,6 +465,14 @@
       "onboard_time": 1688172990,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 674537,
+      "num": 674537,
+      "word": "法国骚乱已蔓延到邻国比利时",
+      "onboard_time": 1688211212,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 674195,
@@ -595,6 +619,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 587690,
+      "num": 379268,
+      "word": "沈月的字",
+      "onboard_time": 1688212471,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582127,
       "num": 582127,
       "word": "邓佳鑫 北京",
@@ -700,11 +732,19 @@
     },
     {
       "raw_hot": 527473,
-      "num": 242884,
+      "num": 383667,
       "word": "中国女篮晋级亚洲杯决赛",
       "onboard_time": 1688211152,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 523496,
+      "num": 468815,
+      "word": "Amber郑秀妍抢镜头",
+      "onboard_time": 1688211631,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 518056,
@@ -721,6 +761,14 @@
       "onboard_time": 1688173649,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513443,
+      "num": 513443,
+      "word": "EDG对战WE",
+      "onboard_time": 1688213789,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 512376,
@@ -867,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 420677,
+      "num": 420677,
+      "word": "胡夏理想型拼出来是刘亦菲",
+      "onboard_time": 1688213252,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416510,
       "num": 339144,
       "word": "生死簿上的名字一闪一闪的",
@@ -889,6 +945,14 @@
       "onboard_time": 1688131777,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406298,
+      "num": 406298,
+      "word": "丁太昇点评湾区升明月真假唱",
+      "onboard_time": 1688212410,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 404777,
@@ -971,12 +1035,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371941,
+      "num": 371941,
+      "word": "陈哲远会当真的",
+      "onboard_time": 1688213194,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366211,
       "num": 238193,
       "word": "预判了芒果的预判",
       "onboard_time": 1688198972,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365374,
+      "num": 365374,
+      "word": "陈绮贞好美",
+      "onboard_time": 1688210792,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 364123,
+      "num": 364123,
+      "word": "张佳宁屈楚萧现身厦门",
+      "onboard_time": 1688213011,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 363639,
+      "num": 363639,
+      "word": "newjeans见面会",
+      "onboard_time": 1688211872,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 360152,
@@ -1227,12 +1323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288180,
-      "num": 288180,
-      "word": "陈绮贞好美",
-      "onboard_time": 1688210792,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 295133,
+      "num": 365779,
+      "word": "小义S属性大爆发",
+      "onboard_time": 1688214331,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 286377,
@@ -1305,6 +1401,14 @@
       "onboard_time": 1688176532,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271912,
+      "num": 271912,
+      "word": "慷慨病",
+      "onboard_time": 1688214270,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 271750,
@@ -1419,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253435,
+      "num": 343205,
+      "word": "西湖出现鱼鱼鱼跃龙门",
+      "onboard_time": 1688212355,
+      "rank": 28,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 252070,
       "num": 252070,
       "word": "女子叫来特警弟弟合力救下坠河男孩",
@@ -1521,6 +1633,14 @@
       "onboard_time": 1688141375,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239609,
+      "num": 239609,
+      "word": "徐佳莹金曲奖最佳作曲人",
+      "onboard_time": 1688211930,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 238805,
@@ -1715,6 +1835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215991,
+      "num": 240944,
+      "word": "62岁儿子患癌88岁父亲每天看望",
+      "onboard_time": 1688213430,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215727,
       "num": 218794,
       "word": "家里太乱被婆婆发朋友圈阴阳了",
@@ -1737,14 +1865,6 @@
       "onboard_time": 1688168605,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 211471,
-      "num": 211471,
-      "word": "胖东来老板劝网友卖房",
-      "onboard_time": 1688210792,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 208488,
@@ -1835,12 +1955,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 192875,
+      "num": 192875,
+      "word": "小义直播",
+      "onboard_time": 1688212829,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190221,
       "num": 190221,
       "word": "开业14年的顶流私房菜",
       "onboard_time": 1688141375,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189996,
+      "num": 189996,
+      "word": "MTG",
+      "onboard_time": 1688212954,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 189449,
@@ -1995,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171524,
+      "num": 171524,
+      "word": "顾九思怒怼梁王",
+      "onboard_time": 1688214211,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170497,
       "num": 194394,
       "word": "绍兴小小男足队踢出最暖乌龙球",
@@ -2011,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161087,
+      "num": 161087,
+      "word": "53岁幼师8年自费种1000盆花",
+      "onboard_time": 1688213371,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 156720,
       "num": 156720,
       "word": "以为是米奇妙妙屋",
@@ -2025,6 +2177,22 @@
       "onboard_time": 1688206894,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154789,
+      "num": 154789,
+      "word": "中国女篮决赛对阵日本",
+      "onboard_time": 1688212355,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154269,
+      "num": 154269,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1688214754,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 150527,
@@ -2057,14 +2225,6 @@
       "onboard_time": 1688140658,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146164,
-      "num": 146164,
-      "word": "法国骚乱已蔓延到邻国比利时",
-      "onboard_time": 1688211212,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 145156,
@@ -2244,7 +2404,7 @@
     },
     {
       "raw_hot": 12921,
-      "num": 1035721,
+      "num": 1530553,
       "word": "102年中的变与不变",
       "onboard_time": 1688200416,
       "rank": 2,

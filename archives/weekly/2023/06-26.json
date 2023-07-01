@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688211225678,
+  "endTime": 1688214895381,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -1171,6 +1171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1733786,
+      "num": 1733786,
+      "word": "鸟胃型猪瘾",
+      "onboard_time": 1688210192,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1714209,
       "num": 1714209,
       "word": "怎么没人写硕博士的偶像剧",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1687828959,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1506456,
+      "num": 1506456,
+      "word": "胖东来老板劝网友卖房",
+      "onboard_time": 1688210792,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1498422,
@@ -2612,7 +2628,7 @@
     },
     {
       "raw_hot": 941290,
-      "num": 339384,
+      "num": 381112,
       "word": "原来用臀部发力走路腿会变直",
       "onboard_time": 1688205575,
       "rank": 20,
@@ -2817,14 +2833,6 @@
       "onboard_time": 1688131777,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 890591,
-      "num": 890591,
-      "word": "鸟胃型猪瘾",
-      "onboard_time": 1688210192,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 890345,
@@ -3113,6 +3121,14 @@
       "onboard_time": 1688009432,
       "rank": 33,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 805772,
+      "num": 505342,
+      "word": "广西一教师在医院楼顶水箱溺亡",
+      "onboard_time": 1688211691,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 805330,
@@ -3835,6 +3851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 674537,
+      "num": 674537,
+      "word": "法国骚乱已蔓延到邻国比利时",
+      "onboard_time": 1688211212,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 674195,
       "num": 674195,
       "word": "张雪峰称老师家长告诉你的全是真的",
@@ -4515,6 +4539,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 587690,
+      "num": 379268,
+      "word": "沈月的字",
+      "onboard_time": 1688212471,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586486,
       "num": 586486,
       "word": "冉雄飞 李铁被移送至看守所",
@@ -5124,7 +5156,7 @@
     },
     {
       "raw_hot": 527473,
-      "num": 242884,
+      "num": 383667,
       "word": "中国女篮晋级亚洲杯决赛",
       "onboard_time": 1688211152,
       "rank": 30,
@@ -5161,6 +5193,14 @@
       "onboard_time": 1688079863,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 523496,
+      "num": 468815,
+      "word": "Amber郑秀妍抢镜头",
+      "onboard_time": 1688211631,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 521244,
@@ -5249,6 +5289,14 @@
       "onboard_time": 1687858124,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 513443,
+      "num": 513443,
+      "word": "EDG对战WE",
+      "onboard_time": 1688213789,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 512376,
@@ -6291,6 +6339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420677,
+      "num": 420677,
+      "word": "胡夏理想型拼出来是刘亦菲",
+      "onboard_time": 1688213252,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420581,
       "num": 420581,
       "word": "金智秀和姐姐的公式照",
@@ -6505,6 +6561,14 @@
       "onboard_time": 1688035778,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 406298,
+      "num": 406298,
+      "word": "丁太昇点评湾区升明月真假唱",
+      "onboard_time": 1688212410,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 405016,
@@ -7107,6 +7171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371941,
+      "num": 371941,
+      "word": "陈哲远会当真的",
+      "onboard_time": 1688213194,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370598,
       "num": 370598,
       "word": "剥鸡蛋剥出了小狗的爪子",
@@ -7163,11 +7235,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365374,
+      "num": 365374,
+      "word": "陈绮贞好美",
+      "onboard_time": 1688210792,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 364455,
       "num": 364455,
       "word": "郑乃馨宋继扬新剧公费恋爱",
       "onboard_time": 1688037635,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 364123,
+      "num": 364123,
+      "word": "张佳宁屈楚萧现身厦门",
+      "onboard_time": 1688213011,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -7177,6 +7265,14 @@
       "onboard_time": 1688115935,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 363639,
+      "num": 363639,
+      "word": "newjeans见面会",
+      "onboard_time": 1688211872,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 362744,
@@ -8731,6 +8827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295133,
+      "num": 365779,
+      "word": "小义S属性大爆发",
+      "onboard_time": 1688214331,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295097,
       "num": 295097,
       "word": "偷偷藏不住哪里好",
@@ -8889,14 +8993,6 @@
       "onboard_time": 1687944754,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288180,
-      "num": 288180,
-      "word": "陈绮贞好美",
-      "onboard_time": 1688210792,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 287867,
@@ -9321,6 +9417,14 @@
       "onboard_time": 1687908444,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 271912,
+      "num": 271912,
+      "word": "慷慨病",
+      "onboard_time": 1688214270,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 271774,
@@ -9899,6 +10003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253435,
+      "num": 343205,
+      "word": "西湖出现鱼鱼鱼跃龙门",
+      "onboard_time": 1688212355,
+      "rank": 28,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 253247,
       "num": 253247,
       "word": "闺蜜把我美容卡里的钱用完了",
@@ -10361,6 +10473,14 @@
       "onboard_time": 1687914518,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 239609,
+      "num": 239609,
+      "word": "徐佳莹金曲奖最佳作曲人",
+      "onboard_time": 1688211930,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 239029,
@@ -11139,6 +11259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215991,
+      "num": 240944,
+      "word": "62岁儿子患癌88岁父亲每天看望",
+      "onboard_time": 1688213430,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215940,
       "num": 215940,
       "word": "主要起一个造型上的作用",
@@ -11353,14 +11481,6 @@
       "onboard_time": 1687856323,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211471,
-      "num": 211471,
-      "word": "胖东来老板劝网友卖房",
-      "onboard_time": 1688210792,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 211371,
@@ -12019,6 +12139,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 192875,
+      "num": 192875,
+      "word": "小义直播",
+      "onboard_time": 1688212829,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192732,
       "num": 192732,
       "word": "当我飞奔向你直播",
@@ -12129,6 +12257,14 @@
       "onboard_time": 1688141375,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189996,
+      "num": 189996,
+      "word": "MTG",
+      "onboard_time": 1688212954,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 189900,
@@ -12923,6 +13059,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 171524,
+      "num": 171524,
+      "word": "顾九思怒怼梁王",
+      "onboard_time": 1688214211,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171437,
       "num": 171437,
       "word": "被爱真是一件值得炫耀的事",
@@ -13179,6 +13323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161087,
+      "num": 161087,
+      "word": "53岁幼师8年自费种1000盆花",
+      "onboard_time": 1688213371,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 160658,
       "num": 160658,
       "word": "温州美食真的很难不馋",
@@ -13339,12 +13491,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 154789,
+      "num": 154789,
+      "word": "中国女篮决赛对阵日本",
+      "onboard_time": 1688212355,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154404,
       "num": 154404,
       "word": "陈哲远不谈恋爱的原因",
       "onboard_time": 1687686632,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154269,
+      "num": 154269,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1688214754,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 154012,
@@ -13545,14 +13713,6 @@
       "onboard_time": 1687867234,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146164,
-      "num": 146164,
-      "word": "法国骚乱已蔓延到邻国比利时",
-      "onboard_time": 1688211212,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 146003,
@@ -15052,7 +15212,7 @@
     },
     {
       "raw_hot": 12921,
-      "num": 1035721,
+      "num": 1530553,
       "word": "102年中的变与不变",
       "onboard_time": 1688200416,
       "rank": 2,
