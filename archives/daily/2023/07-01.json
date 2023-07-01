@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688193425639,
+  "endTime": 1688195801375,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -67,12 +67,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1861781,
+      "num": 935537,
+      "word": "江西杀害3名小孩嫌疑人被抓获",
+      "onboard_time": 1688192552,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1849866,
       "num": 1849866,
       "word": "法国骚乱",
       "onboard_time": 1688170767,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1845588,
+      "num": 962027,
+      "word": "李现 这次没有版权问题了",
+      "onboard_time": 1688193812,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1796740,
@@ -113,6 +129,14 @@
       "onboard_time": 1688139821,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144686,
+      "num": 1144686,
+      "word": "刘宇宁王子文 蝉女",
+      "onboard_time": 1688192852,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1118879,
@@ -171,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958570,
+      "num": 958570,
+      "word": "7月狗屎运最旺星座",
+      "onboard_time": 1688194053,
+      "rank": 4,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 953028,
       "num": 953028,
       "word": "刘令姿版小兰花有父母了",
@@ -227,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847368,
+      "num": 847368,
+      "word": "夏目友人帐",
+      "onboard_time": 1688184692,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 823565,
       "num": 632331,
       "word": "李现周杰伦花海大合唱",
@@ -243,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795156,
+      "num": 213722,
+      "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
+      "onboard_time": 1688194771,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792675,
       "num": 792675,
       "word": "三十岁女生给二十岁女生的建议",
       "onboard_time": 1688166077,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 790048,
-      "num": 790048,
-      "word": "夏目友人帐",
-      "onboard_time": 1688184692,
-      "rank": 15,
-      "category": "动漫"
     },
     {
       "raw_hot": 789114,
@@ -337,14 +377,6 @@
       "onboard_time": 1688188774,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 647877,
-      "num": 413291,
-      "word": "江西杀害3名小孩嫌疑人被抓获",
-      "onboard_time": 1688192552,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 645052,
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 566778,
-      "num": 244553,
+      "num": 471406,
       "word": "沈月把何炅的饭当狗粮",
       "onboard_time": 1688192073,
       "rank": 32,
@@ -563,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473258,
+      "num": 473258,
+      "word": "允许带孩子上班的单位太幸福了",
+      "onboard_time": 1688194290,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453844,
       "num": 453844,
       "word": "刘畊宏晒与郭艾伦李现林书豪合照",
@@ -603,12 +643,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 423323,
-      "num": 423323,
-      "word": "刘宇宁王子文 蝉女",
-      "onboard_time": 1688192852,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 422721,
+      "num": 422721,
+      "word": "陈建州风波后首露面",
+      "onboard_time": 1688194172,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 415886,
@@ -689,6 +729,14 @@
       "onboard_time": 1688136103,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367055,
+      "num": 367055,
+      "word": "何非的保证书是朱一龙写的",
+      "onboard_time": 1688194893,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 352163,
@@ -803,6 +851,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 309601,
+      "num": 309601,
+      "word": "谢锋大使向美国总统拜登递交国书",
+      "onboard_time": 1688190273,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 303314,
       "num": 244528,
       "word": "艾伦阿金去世",
@@ -817,14 +873,6 @@
       "onboard_time": 1688129734,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 298553,
-      "num": 269015,
-      "word": "谢锋大使向美国总统拜登递交国书",
-      "onboard_time": 1688190273,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 298003,
@@ -905,6 +953,14 @@
       "onboard_time": 1688135978,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267345,
+      "num": 213518,
+      "word": "生死簿上的名字一闪一闪的",
+      "onboard_time": 1688195130,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 266463,
@@ -1139,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231298,
+      "num": 231298,
+      "word": "看到妈妈放手那一刻真的泪目了",
+      "onboard_time": 1688195373,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230159,
       "num": 230159,
       "word": "白敬亭宋轶同框",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1688111197,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 219810,
+      "num": 219810,
+      "word": "钱流向不缺钱的人苦留给能吃苦的人",
+      "onboard_time": 1688194712,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 218710,
@@ -1283,6 +1355,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195863,
+      "num": 195863,
+      "word": "种地吧",
+      "onboard_time": 1688195491,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195603,
+      "num": 195603,
+      "word": "赵露思选剧本的眼光",
+      "onboard_time": 1688195491,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194588,
       "num": 194588,
       "word": "一梦江湖",
@@ -1297,6 +1385,14 @@
       "onboard_time": 1688191113,
       "rank": 49,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 192924,
+      "num": 192924,
+      "word": "天秤座总是间歇性悲观",
+      "onboard_time": 1688195552,
+      "rank": 38,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 190221,
