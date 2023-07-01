@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688200516015,
+  "endTime": 1688203053082,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -9,6 +9,14 @@
       "onboard_time": 1688188412,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3952331,
+      "num": 3952331,
+      "word": "刘美含 北大",
+      "onboard_time": 1688201312,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3552582,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804918,
+      "num": 804918,
+      "word": "何非的保证书是朱一龙写的",
+      "onboard_time": 1688194893,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 792675,
       "num": 792675,
       "word": "三十岁女生给二十岁女生的建议",
@@ -328,14 +344,6 @@
       "word": "陈思诚 橙色风暴",
       "onboard_time": 1688184573,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 758224,
-      "num": 758224,
-      "word": "何非的保证书是朱一龙写的",
-      "onboard_time": 1688194893,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -443,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 630328,
+      "num": 356706,
+      "word": "周翊然成难哄桑延热门人选",
+      "onboard_time": 1688199873,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 627013,
       "num": 627013,
       "word": "中方对美国重返教科文组织投反对票",
@@ -457,6 +473,14 @@
       "onboard_time": 1688188534,
       "rank": 49,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 621559,
+      "num": 621559,
+      "word": "白敬亭梁洁邢菲边天扬跳的Queencard",
+      "onboard_time": 1688199815,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 599993,
@@ -491,12 +515,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 575221,
+      "num": 554959,
+      "word": "赵露思家人看到吻戏的反应",
+      "onboard_time": 1688201613,
+      "rank": 12,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 574856,
       "num": 497879,
       "word": "曝汪姓男艺人性侵19岁女子",
       "onboard_time": 1688105910,
       "rank": 15,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 569896,
+      "num": 569896,
+      "word": "法国马赛最大图书馆被烧毁",
+      "onboard_time": 1688198132,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568219,
@@ -683,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 443264,
+      "num": 443264,
+      "word": "肖战vlog画外音",
+      "onboard_time": 1688201372,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439992,
       "num": 364847,
       "word": "八角笼中",
@@ -803,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 356706,
-      "num": 356706,
-      "word": "周翊然成难哄桑延热门人选",
-      "onboard_time": 1688199873,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352163,
       "num": 342328,
       "word": "祝福香港祝福祖国",
@@ -825,6 +865,22 @@
       "onboard_time": 1688195373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342175,
+      "num": 342175,
+      "word": "女兵退伍当村支书集体收入3年翻3倍",
+      "onboard_time": 1688201613,
+      "rank": 19,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 340558,
+      "num": 340558,
+      "word": "朱一龙一番总票房破40亿",
+      "onboard_time": 1688202335,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 339963,
@@ -915,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315961,
-      "num": 358414,
-      "word": "白敬亭梁洁邢菲边天扬跳的Queencard",
-      "onboard_time": 1688199815,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 310960,
       "num": 239479,
       "word": "消失的她",
@@ -947,6 +995,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 305503,
+      "num": 305503,
+      "word": "HR让我面试帮忙带杯冰美式",
+      "onboard_time": 1688201493,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303314,
       "num": 244528,
       "word": "艾伦阿金去世",
@@ -969,6 +1025,14 @@
       "onboard_time": 1688189313,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297571,
+      "num": 297571,
+      "word": "徐明浩模仿沈月哭掉假睫毛",
+      "onboard_time": 1688201071,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 295804,
@@ -1267,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237316,
+      "num": 237316,
+      "word": "105秒回顾中国航天梦",
+      "onboard_time": 1688202935,
+      "rank": 31,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 237282,
       "num": 237282,
       "word": "七月",
@@ -1443,6 +1515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 206723,
+      "num": 206723,
+      "word": "这段宝宝学走路视频爸爸拍了3年",
+      "onboard_time": 1688201793,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206484,
       "num": 206484,
       "word": "消失的她票房破15亿",
@@ -1475,14 +1555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198665,
-      "num": 198665,
-      "word": "法国马赛最大图书馆被烧毁",
-      "onboard_time": 1688198132,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194588,
       "num": 194588,
       "word": "一梦江湖",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1688141375,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189763,
+      "num": 189763,
+      "word": "张雪峰称老师家长告诉你的全是真的",
+      "onboard_time": 1688202575,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 189449,
@@ -1683,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143126,
+      "num": 143126,
+      "word": "潘功胜任中国人民银行党委书记",
+      "onboard_time": 1688202095,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 135456,
       "num": 173378,
       "word": "总有小猫高估自己的实力",
@@ -1777,6 +1865,14 @@
       "onboard_time": 1688167040,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 66852,
+      "num": 1275935,
+      "word": "七一勋章获得者的事迹有多感人",
+      "onboard_time": 1688200595,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64307,
