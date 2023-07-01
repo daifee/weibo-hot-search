@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688229574998,
+  "endTime": 1688231743931,
   "band_list": [
     {
       "raw_hot": 3526747,
@@ -33,6 +33,22 @@
       "onboard_time": 1688226812,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 778439,
+      "num": 778439,
+      "word": "女子去世7只猫继承217万遗产",
+      "onboard_time": 1688224659,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731027,
+      "num": 335877,
+      "word": "恐怖程度约等于零的恐怖片",
+      "onboard_time": 1688228730,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 698976,
@@ -139,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406367,
+      "num": 406367,
+      "word": "汪东城音乐节",
+      "onboard_time": 1688228490,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 398767,
       "num": 398767,
       "word": "赵露思新剧纯欲风",
@@ -195,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319204,
-      "num": 319204,
-      "word": "女子去世7只猫继承217万遗产",
-      "onboard_time": 1688224659,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308526,
       "num": 308526,
       "word": "6大人争接萌娃放学姥爷赢麻了",
@@ -217,22 +233,6 @@
       "onboard_time": 1688211691,
       "rank": 24,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 298510,
-      "num": 267350,
-      "word": "汪东城音乐节",
-      "onboard_time": 1688228490,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 287095,
-      "num": 241680,
-      "word": "恐怖程度约等于零的恐怖片",
-      "onboard_time": 1688228730,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 280217,
@@ -329,6 +329,14 @@
       "onboard_time": 1688228072,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217687,
+      "num": 166700,
+      "word": "被赞达亚的自信感染到了",
+      "onboard_time": 1688230463,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211511,
@@ -433,6 +441,22 @@
       "onboard_time": 1688215589,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 106034,
+      "num": 106034,
+      "word": "徐佳莹女儿好可爱",
+      "onboard_time": 1688215050,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 102127,
+      "num": 102127,
+      "word": "丁太昇点评湾区升明月真假唱",
+      "onboard_time": 1688212410,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 9155,
