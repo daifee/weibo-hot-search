@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688225644828,
+  "endTime": 1688228589648,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -209,6 +209,14 @@
       "onboard_time": 1687754416,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3526747,
+      "num": 3526747,
+      "word": "ALin 金曲歌后",
+      "onboard_time": 1688226334,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 3508986,
@@ -2585,6 +2593,14 @@
       "onboard_time": 1688168905,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960297,
+      "num": 960297,
+      "word": "推特崩了",
+      "onboard_time": 1688226812,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 960114,
@@ -4971,6 +4987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559401,
+      "num": 559401,
+      "word": "HUSH 金曲歌王",
+      "onboard_time": 1688226395,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 558333,
       "num": 558333,
       "word": "你上班第一个月工资有多少",
@@ -5971,6 +5995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471140,
+      "num": 308064,
+      "word": "以为是房子隔音好",
+      "onboard_time": 1688225498,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 471012,
       "num": 2254683,
       "word": "农村三胞胎姐妹均高分超一本线",
@@ -6097,6 +6129,14 @@
       "onboard_time": 1687907724,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460452,
+      "num": 460452,
+      "word": "让外国网友帮忙做英语作业",
+      "onboard_time": 1688226032,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 460204,
@@ -8707,6 +8747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308526,
+      "num": 308526,
+      "word": "6大人争接萌娃放学姥爷赢麻了",
+      "onboard_time": 1688227110,
+      "rank": 19,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 307984,
       "num": 307984,
       "word": "何非在海里杀李木子的原因",
@@ -9611,6 +9659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273585,
+      "num": 273585,
+      "word": "小朋友不能吃辣但能吃辣条",
+      "onboard_time": 1688226334,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273531,
       "num": 254699,
       "word": "美国队长4杀青",
@@ -9641,6 +9697,14 @@
       "onboard_time": 1688178332,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 273145,
+      "num": 273145,
+      "word": "告诉重庆人吃火锅不放香油",
+      "onboard_time": 1688224898,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 272897,
@@ -10667,14 +10731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242510,
-      "num": 242510,
-      "word": "以为是房子隔音好",
-      "onboard_time": 1688225498,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242478,
       "num": 242478,
       "word": "感动全网的环卫工儿子填志愿求助",
@@ -11595,14 +11651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216212,
-      "num": 216212,
-      "word": "告诉重庆人吃火锅不放香油",
-      "onboard_time": 1688224898,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 215940,
       "num": 215940,
       "word": "主要起一个造型上的作用",
@@ -11825,6 +11873,14 @@
       "onboard_time": 1687856323,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211511,
+      "num": 211511,
+      "word": "光是看心脏都受不了",
+      "onboard_time": 1688226453,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 211371,
@@ -12497,6 +12553,14 @@
       "onboard_time": 1687709670,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193462,
+      "num": 193462,
+      "word": "徐明浩领口很危险",
+      "onboard_time": 1688228072,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 193164,
@@ -13635,6 +13699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164903,
+      "num": 164903,
+      "word": "汪东城音乐节",
+      "onboard_time": 1688228490,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164380,
       "num": 164380,
       "word": "伯恩山犬的世界应该没有工作日吧",
@@ -13777,6 +13849,14 @@
       "onboard_time": 1688129796,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159547,
+      "num": 159547,
+      "word": "当告诉班长妈妈要把我卖掉",
+      "onboard_time": 1688227651,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 159442,

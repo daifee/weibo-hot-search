@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688225644828,
+  "endTime": 1688228589648,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -33,6 +33,14 @@
       "onboard_time": 1688138323,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3526747,
+      "num": 3526747,
+      "word": "ALin 金曲歌后",
+      "onboard_time": 1688226334,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 3436959,
@@ -353,6 +361,14 @@
       "onboard_time": 1688168905,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960297,
+      "num": 960297,
+      "word": "推特崩了",
+      "onboard_time": 1688226812,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 953028,
@@ -875,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559401,
+      "num": 559401,
+      "word": "HUSH 金曲歌王",
+      "onboard_time": 1688226395,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 550387,
       "num": 497159,
       "word": "赵露思新剧纯欲风",
@@ -1075,12 +1099,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471140,
+      "num": 308064,
+      "word": "以为是房子隔音好",
+      "onboard_time": 1688225498,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 470434,
       "num": 437334,
       "word": "柳智敏直播状态",
       "onboard_time": 1688217872,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460452,
+      "num": 460452,
+      "word": "让外国网友帮忙做英语作业",
+      "onboard_time": 1688226032,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 453844,
@@ -1315,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357567,
+      "num": 307257,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1688225797,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 352163,
       "num": 342328,
       "word": "祝福香港祝福祖国",
@@ -1491,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308526,
+      "num": 308526,
+      "word": "6大人争接萌娃放学姥爷赢麻了",
+      "onboard_time": 1688227110,
+      "rank": 19,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 307325,
       "num": 365779,
       "word": "小义S属性大爆发",
@@ -1627,6 +1683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273585,
+      "num": 273585,
+      "word": "小朋友不能吃辣但能吃辣条",
+      "onboard_time": 1688226334,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273531,
       "num": 254699,
       "word": "美国队长4杀青",
@@ -1649,6 +1713,14 @@
       "onboard_time": 1688178332,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 273145,
+      "num": 273145,
+      "word": "告诉重庆人吃火锅不放香油",
+      "onboard_time": 1688224898,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 272567,
@@ -1904,14 +1976,6 @@
       "word": "鼠鼠闯祸后将自己伪装成受害者",
       "onboard_time": 1688180973,
       "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 242510,
-      "num": 242510,
-      "word": "以为是房子隔音好",
-      "onboard_time": 1688225498,
-      "rank": 38,
       "category": "幽默"
     },
     {
@@ -2171,14 +2235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216212,
-      "num": 216212,
-      "word": "告诉重庆人吃火锅不放香油",
-      "onboard_time": 1688224898,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 215727,
       "num": 218794,
       "word": "家里太乱被婆婆发朋友圈阴阳了",
@@ -2209,6 +2265,14 @@
       "onboard_time": 1688168605,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 211511,
+      "num": 211511,
+      "word": "光是看心脏都受不了",
+      "onboard_time": 1688226453,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 209904,
@@ -2345,6 +2409,14 @@
       "onboard_time": 1688191113,
       "rank": 49,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 193462,
+      "num": 193462,
+      "word": "徐明浩领口很危险",
+      "onboard_time": 1688228072,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 192875,
@@ -2571,12 +2643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164903,
+      "num": 164903,
+      "word": "汪东城音乐节",
+      "onboard_time": 1688228490,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161087,
       "num": 161087,
       "word": "53岁幼师8年自费种1000盆花",
       "onboard_time": 1688213371,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 159547,
+      "num": 159547,
+      "word": "当告诉班长妈妈要把我卖掉",
+      "onboard_time": 1688227651,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 156720,
