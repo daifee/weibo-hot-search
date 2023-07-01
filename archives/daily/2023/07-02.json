@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688249817280,
+  "endTime": 1688250843774,
   "band_list": [
     {
       "raw_hot": 3526747,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311455,
+      "num": 121477,
+      "word": "韩安冉 不要因为受伤就怕输",
+      "onboard_time": 1688244793,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 308526,
       "num": 308526,
       "word": "6大人争接萌娃放学姥爷赢麻了",
@@ -313,14 +321,6 @@
       "onboard_time": 1688198013,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 241940,
-      "num": 108537,
-      "word": "韩安冉 不要因为受伤就怕输",
-      "onboard_time": 1688244793,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 236956,
@@ -507,12 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33978,
-      "num": 33978,
+      "raw_hot": 39153,
+      "num": 39153,
       "word": "大叔被列车上举手尝零食的学生逗笑",
       "onboard_time": 1688240294,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29562,
+      "num": 36081,
+      "word": "太爱又美又飒的事业批了",
+      "onboard_time": 1688245513,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 27214,
@@ -521,14 +529,6 @@
       "onboard_time": 1688239154,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25114,
-      "num": 28101,
-      "word": "太爱又美又飒的事业批了",
-      "onboard_time": 1688245513,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 19992,

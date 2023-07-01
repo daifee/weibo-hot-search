@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688249817280,
+  "endTime": 1688250843774,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -1539,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311455,
+      "num": 121477,
+      "word": "韩安冉 不要因为受伤就怕输",
+      "onboard_time": 1688244793,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 310778,
       "num": 310778,
       "word": "中国共产党成立102周年",
@@ -2009,14 +2017,6 @@
       "onboard_time": 1688180973,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241940,
-      "num": 108537,
-      "word": "韩安冉 不要因为受伤就怕输",
-      "onboard_time": 1688244793,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 241049,
@@ -3003,6 +3003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 39153,
+      "num": 39153,
+      "word": "大叔被列车上举手尝零食的学生逗笑",
+      "onboard_time": 1688240294,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38073,
       "num": 60784,
       "word": "新时代赶考路",
@@ -3011,12 +3019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33978,
-      "num": 33978,
-      "word": "大叔被列车上举手尝零食的学生逗笑",
-      "onboard_time": 1688240294,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 29562,
+      "num": 36081,
+      "word": "太爱又美又飒的事业批了",
+      "onboard_time": 1688245513,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 27214,
@@ -3025,14 +3033,6 @@
       "onboard_time": 1688239154,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25114,
-      "num": 28101,
-      "word": "太爱又美又飒的事业批了",
-      "onboard_time": 1688245513,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 19992,
