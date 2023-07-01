@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688220955498,
+  "endTime": 1688222021352,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -241,6 +241,14 @@
       "onboard_time": 1688113056,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3295954,
+      "num": 3295954,
+      "word": "正式被确诊为浣碧",
+      "onboard_time": 1688219853,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 3204851,
@@ -1243,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1673155,
-      "num": 1673155,
-      "word": "正式被确诊为浣碧",
-      "onboard_time": 1688219853,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1671235,
       "num": 1671235,
       "word": "消失的她票根还有隐藏刀",
@@ -1459,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1431282,
+      "num": 1431282,
+      "word": "金曲奖",
+      "onboard_time": 1688208391,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1420922,
       "num": 795515,
       "word": "一生所爱 最难听版本",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1687952554,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1410354,
-      "num": 1410354,
-      "word": "金曲奖",
-      "onboard_time": 1688208391,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1404625,
@@ -3899,6 +3899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 681135,
+      "num": 681135,
+      "word": "沈月说到杨迪就哭了",
+      "onboard_time": 1688219315,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681056,
       "num": 1439039,
       "word": "跳桥小哥被邀请落户杭州",
@@ -5091,14 +5099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 542967,
-      "num": 542967,
-      "word": "沈月说到杨迪就哭了",
-      "onboard_time": 1688219315,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 542190,
       "num": 542190,
       "word": "汪明荃",
@@ -5121,6 +5121,14 @@
       "onboard_time": 1687919135,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 541532,
+      "num": 437978,
+      "word": "女生本科毕业就成功应聘高校教师",
+      "onboard_time": 1688218115,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 541514,
@@ -5169,6 +5177,14 @@
       "onboard_time": 1688041956,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 539070,
+      "num": 425431,
+      "word": "人大 学生信息",
+      "onboard_time": 1688221059,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536426,
@@ -5281,14 +5297,6 @@
       "onboard_time": 1687770348,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 525557,
-      "num": 437978,
-      "word": "女生本科毕业就成功应聘高校教师",
-      "onboard_time": 1688218115,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 525418,
@@ -5625,6 +5633,14 @@
       "onboard_time": 1687785102,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 497364,
+      "num": 421738,
+      "word": "张杰带万人唱响新征程",
+      "onboard_time": 1688221117,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 497359,
@@ -6267,6 +6283,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 436110,
+      "num": 436110,
+      "word": "62岁儿子患癌88岁父亲每天看望",
+      "onboard_time": 1688213430,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435960,
       "num": 435960,
       "word": "肖战谈自己如何面对各种评论",
@@ -6313,14 +6337,6 @@
       "onboard_time": 1688098956,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 432740,
-      "num": 432740,
-      "word": "62岁儿子患癌88岁父亲每天看望",
-      "onboard_time": 1688213430,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432548,
@@ -7395,6 +7411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365855,
+      "num": 365855,
+      "word": "花花接住谭爷爷给的小苹果",
+      "onboard_time": 1688221059,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364455,
       "num": 364455,
       "word": "郑乃馨宋继扬新剧公费恋爱",
@@ -7649,6 +7673,14 @@
       "onboard_time": 1688010455,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346186,
+      "num": 346186,
+      "word": "安溥和吴青峰拥抱",
+      "onboard_time": 1688221474,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 346062,
@@ -8331,6 +8363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 319084,
+      "num": 319084,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1688214754,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 317810,
       "num": 317810,
       "word": "张雨绮贵姐vs柜姐",
@@ -8897,14 +8937,6 @@
       "onboard_time": 1688189313,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297652,
-      "num": 297652,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1688214754,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 297571,
@@ -9963,6 +9995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260566,
+      "num": 260566,
+      "word": "周杰伦海口演唱会偶遇王濛",
+      "onboard_time": 1688220759,
+      "rank": 38,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 260515,
       "num": 260515,
       "word": "男子外出干活遇超大菌子",
@@ -10145,6 +10185,14 @@
       "onboard_time": 1687946194,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253930,
+      "num": 253930,
+      "word": "AG战胜LGD",
+      "onboard_time": 1688221299,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 253922,
@@ -10931,6 +10979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230013,
+      "num": 230013,
+      "word": "安溥最好的时光年度歌曲奖",
+      "onboard_time": 1688221237,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230009,
       "num": 230009,
       "word": "单亲妈妈打工14年供出3名大学生",
@@ -11032,6 +11088,14 @@
       "word": "妈妈总是在向我的童年道歉",
       "onboard_time": 1688100275,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 225775,
+      "num": 225775,
+      "word": "毕业后被最喜欢的老师拉黑了",
+      "onboard_time": 1688220936,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -11169,6 +11233,14 @@
       "onboard_time": 1687758367,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221868,
+      "num": 221868,
+      "word": "白色的牦牛",
+      "onboard_time": 1688221716,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 221838,
@@ -11819,6 +11891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206510,
+      "num": 206510,
+      "word": "HR认可的离职原因",
+      "onboard_time": 1688220095,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206484,
       "num": 206484,
       "word": "消失的她票房破15亿",
@@ -12187,6 +12267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195820,
+      "num": 204290,
+      "word": "Cat盾山才是真C",
+      "onboard_time": 1688220156,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195455,
       "num": 195455,
       "word": "朱一龙暗中观察观众反应",
@@ -12297,14 +12385,6 @@
       "onboard_time": 1688017416,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193079,
-      "num": 193079,
-      "word": "Cat盾山才是真C",
-      "onboard_time": 1688220156,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 192960,
@@ -12945,14 +13025,6 @@
       "onboard_time": 1687789007,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180734,
-      "num": 180734,
-      "word": "毕业后被最喜欢的老师拉黑了",
-      "onboard_time": 1688220936,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 180335,

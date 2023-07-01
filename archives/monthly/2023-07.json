@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688220955498,
+  "endTime": 1688222021352,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -33,6 +33,14 @@
       "onboard_time": 1688138323,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3295954,
+      "num": 3295954,
+      "word": "正式被确诊为浣碧",
+      "onboard_time": 1688219853,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2992464,
@@ -155,14 +163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1673155,
-      "num": 1673155,
-      "word": "正式被确诊为浣碧",
-      "onboard_time": 1688219853,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1671235,
       "num": 1671235,
       "word": "消失的她票根还有隐藏刀",
@@ -187,8 +187,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1410354,
-      "num": 1410354,
+      "raw_hot": 1431282,
+      "num": 1431282,
       "word": "金曲奖",
       "onboard_time": 1688208391,
       "rank": 7,
@@ -555,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 681135,
+      "num": 681135,
+      "word": "沈月说到杨迪就哭了",
+      "onboard_time": 1688219315,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 674195,
       "num": 674195,
       "word": "张雪峰称老师家长告诉你的全是真的",
@@ -819,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 542967,
-      "num": 542967,
-      "word": "沈月说到杨迪就哭了",
-      "onboard_time": 1688219315,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 541532,
+      "num": 437978,
+      "word": "女生本科毕业就成功应聘高校教师",
+      "onboard_time": 1688218115,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 540815,
@@ -833,6 +841,14 @@
       "onboard_time": 1688184692,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539070,
+      "num": 425431,
+      "word": "人大 学生信息",
+      "onboard_time": 1688221059,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536401,
@@ -849,14 +865,6 @@
       "onboard_time": 1688211152,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 525557,
-      "num": 437978,
-      "word": "女生本科毕业就成功应聘高校教师",
-      "onboard_time": 1688218115,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 523496,
@@ -928,6 +936,14 @@
       "word": "于文文去看了薛之谦演唱会",
       "onboard_time": 1688215589,
       "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 497364,
+      "num": 421738,
+      "word": "张杰带万人唱响新征程",
+      "onboard_time": 1688221117,
+      "rank": 23,
       "category": "音乐"
     },
     {
@@ -1067,8 +1083,8 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 432740,
-      "num": 432740,
+      "raw_hot": 436110,
+      "num": 436110,
       "word": "62岁儿子患癌88岁父亲每天看望",
       "onboard_time": 1688213430,
       "rank": 34,
@@ -1219,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 365855,
+      "num": 365855,
+      "word": "花花接住谭爷爷给的小苹果",
+      "onboard_time": 1688221059,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363639,
       "num": 363639,
       "word": "newjeans见面会",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1688195373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346186,
+      "num": 346186,
+      "word": "安溥和吴青峰拥抱",
+      "onboard_time": 1688221474,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 345292,
@@ -1355,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319084,
+      "num": 319084,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1688214754,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 316578,
       "num": 316578,
       "word": "你好星期六",
@@ -1449,14 +1489,6 @@
       "onboard_time": 1688189313,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297652,
-      "num": 297652,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1688214754,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 297571,
@@ -1643,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260566,
+      "num": 260566,
+      "word": "周杰伦海口演唱会偶遇王濛",
+      "onboard_time": 1688220759,
+      "rank": 38,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 260515,
       "num": 260515,
       "word": "男子外出干活遇超大菌子",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1688212355,
       "rank": 28,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 253930,
+      "num": 253930,
+      "word": "AG战胜LGD",
+      "onboard_time": 1688221299,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 252070,
@@ -1875,12 +1923,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230013,
+      "num": 230013,
+      "word": "安溥最好的时光年度歌曲奖",
+      "onboard_time": 1688221237,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229450,
       "num": 229450,
       "word": "老板冷笑说你把简历投到了我另一家公司",
       "onboard_time": 1688134419,
       "rank": 34,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 225775,
+      "num": 225775,
+      "word": "毕业后被最喜欢的老师拉黑了",
+      "onboard_time": 1688220936,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 225599,
@@ -1913,6 +1977,14 @@
       "onboard_time": 1688183192,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 221868,
+      "num": 221868,
+      "word": "白色的牦牛",
+      "onboard_time": 1688221716,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 221838,
@@ -2067,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206510,
+      "num": 206510,
+      "word": "HR认可的离职原因",
+      "onboard_time": 1688220095,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206484,
       "num": 206484,
       "word": "消失的她票房破15亿",
@@ -2115,6 +2195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195820,
+      "num": 204290,
+      "word": "Cat盾山才是真C",
+      "onboard_time": 1688220156,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195171,
       "num": 184128,
       "word": "我爱你",
@@ -2137,14 +2225,6 @@
       "onboard_time": 1688191113,
       "rank": 49,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 193079,
-      "num": 193079,
-      "word": "Cat盾山才是真C",
-      "onboard_time": 1688220156,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 192875,
@@ -2273,14 +2353,6 @@
       "onboard_time": 1688136221,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 180734,
-      "num": 180734,
-      "word": "毕业后被最喜欢的老师拉黑了",
-      "onboard_time": 1688220936,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 178464,
