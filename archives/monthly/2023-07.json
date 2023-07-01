@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688250843774,
+  "endTime": 1688253478933,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -883,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 564831,
+      "num": 242513,
+      "word": "韩安冉 不要因为受伤就怕输",
+      "onboard_time": 1688244793,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 563241,
       "num": 495723,
       "word": "台媒曝陈建州曾偷拍大牙照片",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1688221117,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 496990,
+      "num": 496990,
+      "word": "6大人争接萌娃放学姥爷赢麻了",
+      "onboard_time": 1688227110,
+      "rank": 19,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 495277,
@@ -1539,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311455,
-      "num": 121477,
-      "word": "韩安冉 不要因为受伤就怕输",
-      "onboard_time": 1688244793,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 310778,
       "num": 310778,
       "word": "中国共产党成立102周年",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1688208631,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 308526,
-      "num": 308526,
-      "word": "6大人争接萌娃放学姥爷赢麻了",
-      "onboard_time": 1688227110,
-      "rank": 19,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 307325,
@@ -1995,12 +1995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245989,
+      "num": 245989,
+      "word": "周琦",
+      "onboard_time": 1688250917,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244788,
       "num": 244788,
       "word": "贾静雯无袖旗袍",
       "onboard_time": 1688186075,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244628,
+      "num": 244628,
+      "word": "TF家族合照",
+      "onboard_time": 1688253199,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 243496,
@@ -2587,6 +2603,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 185814,
+      "num": 185814,
+      "word": "纹去世朋友名字去看周杰伦演唱会",
+      "onboard_time": 1688252659,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182690,
       "num": 182690,
       "word": "顾九思怒怼梁王",
@@ -2731,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150846,
+      "num": 150846,
+      "word": "大学毕业生带小黄鸭坐火车被拒",
+      "onboard_time": 1688252477,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150527,
       "num": 150527,
       "word": "这就是中国人才懂的审美吧",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1688206172,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141077,
+      "num": 141077,
+      "word": "吴青峰金曲奖年度专辑",
+      "onboard_time": 1688252477,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 135456,
@@ -2931,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81043,
+      "num": 81043,
+      "word": "浙江这是下开水的节奏吗",
+      "onboard_time": 1688252477,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80371,
       "num": 80371,
       "word": "镜头里的欢乐瞬间",
@@ -2979,6 +3027,30 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 58647,
+      "num": 58647,
+      "word": "大叔被列车上举手尝零食的学生逗笑",
+      "onboard_time": 1688240294,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55728,
+      "num": 55728,
+      "word": "喜欢拍照记录真的是一个好习惯",
+      "onboard_time": 1688253140,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 54807,
+      "num": 54807,
+      "word": "倪妮出海墨镜自拍",
+      "onboard_time": 1688253018,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48190,
       "num": 1530553,
       "word": "102年中的变与不变",
@@ -3001,14 +3073,6 @@
       "onboard_time": 1688143647,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 39153,
-      "num": 39153,
-      "word": "大叔被列车上举手尝零食的学生逗笑",
-      "onboard_time": 1688240294,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38073,
