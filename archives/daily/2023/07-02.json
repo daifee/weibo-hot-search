@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688238856746,
+  "endTime": 1688240020028,
   "band_list": [
     {
       "raw_hot": 3526747,
@@ -497,6 +497,14 @@
       "onboard_time": 1688237358,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27214,
+      "num": 32478,
+      "word": "中国夫妇讲述在法遇袭经历",
+      "onboard_time": 1688239154,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9155,
