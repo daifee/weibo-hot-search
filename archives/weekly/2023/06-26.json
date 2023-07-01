@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688242723795,
+  "endTime": 1688243632119,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -15801,6 +15801,14 @@
       "onboard_time": 1687972699,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22328,
+      "num": 22328,
+      "word": "大叔被列车上举手尝零食的学生逗笑",
+      "onboard_time": 1688240294,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20294,

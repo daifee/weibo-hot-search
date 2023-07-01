@@ -1,0 +1,410 @@
+{
+  "runTime": 1688243632119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 312234,
+        "num": 312234,
+        "word": "推特崩了",
+        "onboard_time": 1688226812,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194952,
+        "num": 194952,
+        "word": "正式被确诊为浣碧",
+        "onboard_time": 1688219853,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1849,
+        "num": 141454,
+        "word": "七一勋章获得者的事迹有多感人",
+        "onboard_time": 1688200595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116455,
+        "num": 116455,
+        "word": "法国骚乱已蔓延到邻国比利时",
+        "onboard_time": 1688211212,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 104026,
+        "num": 104026,
+        "word": "恐怖程度约等于零的恐怖片",
+        "onboard_time": 1688228730,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96972,
+        "num": 96972,
+        "word": "刘美含 北大",
+        "onboard_time": 1688201312,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94457,
+        "num": 94457,
+        "word": "ALin 金曲歌后",
+        "onboard_time": 1688226334,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82544,
+        "num": 82544,
+        "word": "女子去世7只猫继承217万遗产",
+        "onboard_time": 1688224659,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70155,
+        "num": 70155,
+        "word": "胖东来老板劝网友卖房",
+        "onboard_time": 1688210792,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 53519,
+        "num": 53519,
+        "word": "让外国网友帮忙做英语作业",
+        "onboard_time": 1688226032,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63708,
+        "num": 53327,
+        "word": "高校男生被女生喷不明液体双方已和解",
+        "onboard_time": 1688215231,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60219,
+        "num": 53145,
+        "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
+        "onboard_time": 1688194771,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52750,
+        "num": 52750,
+        "word": "广西一教师在医院楼顶水箱溺亡",
+        "onboard_time": 1688211691,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 52591,
+        "num": 52591,
+        "word": "澡堂子偶遇王嘉尔",
+        "onboard_time": 1688218832,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48750,
+        "num": 52578,
+        "word": "白敬亭这真的是你吗",
+        "onboard_time": 1688219254,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52570,
+        "num": 52570,
+        "word": "被赞达亚的自信感染到了",
+        "onboard_time": 1688230463,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51604,
+        "num": 51604,
+        "word": "6大人争接萌娃放学姥爷赢麻了",
+        "onboard_time": 1688227110,
+        "rank": 16,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 49318,
+        "num": 49318,
+        "word": "汪东城音乐节",
+        "onboard_time": 1688228490,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47476,
+        "num": 47476,
+        "word": "娄艺潇自曝体重快120斤",
+        "onboard_time": 1688197651,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44696,
+        "num": 44696,
+        "word": "消失的她票根还有隐藏刀",
+        "onboard_time": 1688203111,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55060,
+        "num": 43183,
+        "word": "以为是房子隔音好",
+        "onboard_time": 1688225498,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38895,
+        "num": 38895,
+        "word": "义乌脸基尼卖爆了",
+        "onboard_time": 1688222197,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 37484,
+        "num": 37484,
+        "word": "女生本科毕业就成功应聘高校教师",
+        "onboard_time": 1688218115,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 35939,
+        "num": 35939,
+        "word": "花花接住谭爷爷给的小苹果",
+        "onboard_time": 1688221059,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34955,
+        "num": 34955,
+        "word": "张杰未live巡回演唱会",
+        "onboard_time": 1688234539,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34197,
+        "num": 34197,
+        "word": "原来用臀部发力走路腿会变直",
+        "onboard_time": 1688205575,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33216,
+        "num": 33216,
+        "word": "赵露思新剧纯欲风",
+        "onboard_time": 1688222676,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32603,
+        "num": 32603,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1688225797,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31779,
+        "num": 31779,
+        "word": "我的麦子熟了 我也该醒了",
+        "onboard_time": 1688214754,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31459,
+        "num": 31459,
+        "word": "Uzi选出VN",
+        "onboard_time": 1688217453,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30459,
+        "num": 30459,
+        "word": "HR认可的离职原因",
+        "onboard_time": 1688220095,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30265,
+        "num": 30265,
+        "word": "杨颖工作室改名刘瑕心理工作室",
+        "onboard_time": 1688198013,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30055,
+        "num": 30055,
+        "word": "古巨基和老婆求婚的原因",
+        "onboard_time": 1688222138,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29236,
+        "num": 29236,
+        "word": "丁太昇点评湾区升明月真假唱",
+        "onboard_time": 1688212410,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28496,
+        "num": 28496,
+        "word": "小朋友不能吃辣但能吃辣条",
+        "onboard_time": 1688226334,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28363,
+        "num": 28363,
+        "word": "沈月说到杨迪就哭了",
+        "onboard_time": 1688219315,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28135,
+        "num": 28135,
+        "word": "金曲奖",
+        "onboard_time": 1688208391,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25789,
+        "num": 25789,
+        "word": "韩剧 恶鬼",
+        "onboard_time": 1688222499,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24923,
+        "num": 24923,
+        "word": "告诉重庆人吃火锅不放香油",
+        "onboard_time": 1688224898,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24309,
+        "num": 24309,
+        "word": "消失的她",
+        "onboard_time": 1688216253,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23343,
+        "num": 23343,
+        "word": "柳智敏直播状态",
+        "onboard_time": 1688217872,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23296,
+        "num": 23296,
+        "word": "艾怡良颁奖乌龙",
+        "onboard_time": 1688223939,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22812,
+        "num": 22812,
+        "word": "网友感谢王一博赞助奖学金",
+        "onboard_time": 1688217993,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22654,
+        "num": 22654,
+        "word": "谷爱凌大一课程全A",
+        "onboard_time": 1688222377,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22479,
+        "num": 22479,
+        "word": "EDG战胜WE",
+        "onboard_time": 1688219376,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22328,
+        "num": 22328,
+        "word": "大叔被列车上举手尝零食的学生逗笑",
+        "onboard_time": 1688240294,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21843,
+        "num": 21843,
+        "word": "镜头里的欢乐瞬间",
+        "onboard_time": 1688232801,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21219,
+        "num": 21219,
+        "word": "鹿晗演唱会给粉丝送Gucci",
+        "onboard_time": 1688207553,
+        "rank": 47,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 21010,
+        "num": 21010,
+        "word": "HUSH 金曲歌王",
+        "onboard_time": 1688226395,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20215,
+        "num": 20215,
+        "word": "金曲奖红毯",
+        "onboard_time": 1688207253,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#他们的名字成为闪耀的路标#"
+    }
+  }
+}
