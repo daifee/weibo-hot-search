@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688182972618,
+  "endTime": 1688185344385,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -65,6 +65,14 @@
       "onboard_time": 1688136760,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1718061,
+      "num": 754654,
+      "word": "曝范玮琪声明是陈建州发的",
+      "onboard_time": 1688184151,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1630521,
@@ -155,12 +163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 884512,
+      "num": 353284,
+      "word": "三胞胎妈妈的孕肚",
+      "onboard_time": 1688182594,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 883481,
       "num": 766612,
       "word": "奔跑吧延期播出",
       "onboard_time": 1688121335,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 877522,
+      "num": 555878,
+      "word": "易烊千玺粉色手链是自己串的",
+      "onboard_time": 1688180909,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 850343,
@@ -177,14 +201,6 @@
       "onboard_time": 1688137303,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 818818,
-      "num": 555878,
-      "word": "易烊千玺粉色手链是自己串的",
-      "onboard_time": 1688180909,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 812245,
@@ -283,12 +299,28 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 576248,
+      "num": 343024,
+      "word": "保洁阿姨离职前转给我600块",
+      "onboard_time": 1688181993,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 574856,
       "num": 497879,
       "word": "曝汪姓男艺人性侵19岁女子",
       "onboard_time": 1688105910,
       "rank": 15,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 569318,
+      "num": 342993,
+      "word": "终于知道肚子痛是哪里痛了",
+      "onboard_time": 1688182411,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 568219,
@@ -323,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540815,
+      "num": 343244,
+      "word": "乘风五公",
+      "onboard_time": 1688184692,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536401,
       "num": 386930,
       "word": "赵丽颖回复谢娜",
       "onboard_time": 1688132379,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 535059,
+      "num": 342851,
+      "word": "牙医建议刷牙后不要立刻漱口",
+      "onboard_time": 1688183792,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518056,
@@ -361,6 +409,14 @@
       "onboard_time": 1688137060,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 507355,
+      "num": 342689,
+      "word": "中传教授评朱一龙何非",
+      "onboard_time": 1688181754,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 495277,
@@ -419,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 420014,
+      "num": 342488,
+      "word": "陈思诚 橙色风暴",
+      "onboard_time": 1688184573,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411492,
       "num": 411492,
       "word": "男子高铁站持刀刺2人致1死",
@@ -443,12 +507,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 393877,
-      "num": 317027,
-      "word": "中传教授评朱一龙何非",
-      "onboard_time": 1688181754,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 400543,
+      "num": 400543,
+      "word": "饿了么免单",
+      "onboard_time": 1688183310,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 391222,
@@ -491,6 +555,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 343473,
+      "num": 343473,
+      "word": "夏目友人帐",
+      "onboard_time": 1688184692,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 342341,
+      "num": 342341,
+      "word": "顾客吃肯德基发现鸡腿冒血水",
+      "onboard_time": 1688184151,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339963,
       "num": 323599,
       "word": "李现追星赢麻了",
@@ -531,12 +611,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326393,
+      "num": 342749,
+      "word": "寄存物品6年未取的毕业生找到了",
+      "onboard_time": 1688182289,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 322771,
+      "num": 322771,
+      "word": "刘耀文 张艺谋电影",
+      "onboard_time": 1688184872,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321479,
       "num": 321479,
       "word": "原来猫咪允许你摸它的鼻子是这个意思",
       "onboard_time": 1688129672,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320288,
+      "num": 320288,
+      "word": "朱珠再穿旗袍",
+      "onboard_time": 1688182888,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 319308,
+      "num": 319308,
+      "word": "Angelababy王鹤棣传唱挖呀挖呀挖",
+      "onboard_time": 1688183373,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318893,
+      "num": 318893,
+      "word": "素颜的杨幂",
+      "onboard_time": 1688185112,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 310960,
@@ -553,22 +673,6 @@
       "onboard_time": 1688171129,
       "rank": 32,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 305917,
-      "num": 243650,
-      "word": "终于知道肚子痛是哪里痛了",
-      "onboard_time": 1688182411,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 304397,
-      "num": 243587,
-      "word": "三胞胎妈妈的孕肚",
-      "onboard_time": 1688182594,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 303314,
@@ -683,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263955,
-      "num": 263955,
-      "word": "保洁阿姨离职前转给我600块",
-      "onboard_time": 1688181993,
-      "rank": 24,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 259778,
       "num": 259778,
       "word": "唐朝小朋友穿的背带裤",
@@ -739,6 +835,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 247810,
+      "num": 247810,
+      "word": "西安交大校长毕业礼又双叒脱稿演讲",
+      "onboard_time": 1688183425,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 246160,
       "num": 246160,
       "word": "野生大熊猫用屁股蹭了蹭红外相机",
@@ -747,12 +851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243752,
-      "num": 243752,
-      "word": "寄存物品6年未取的毕业生找到了",
-      "onboard_time": 1688182289,
+      "raw_hot": 243496,
+      "num": 338773,
+      "word": "五星酒店大厨夜市掌勺人均消费30元",
+      "onboard_time": 1688184030,
       "rank": 29,
-      "category": "社会新闻,教育"
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 243234,
@@ -835,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224014,
+      "num": 224014,
+      "word": "江西三支一扶",
+      "onboard_time": 1688183192,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 220235,
       "num": 220235,
       "word": "爸爸用15元买了孩子一下午的快乐",
@@ -849,6 +961,22 @@
       "onboard_time": 1688125416,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218539,
+      "num": 218539,
+      "word": "张艺兴的练习生不逃课",
+      "onboard_time": 1688183310,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217547,
+      "num": 219623,
+      "word": "夏目友人帐第7季制作决定",
+      "onboard_time": 1688183731,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 217108,
@@ -881,14 +1009,6 @@
       "onboard_time": 1688166981,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213736,
-      "num": 213736,
-      "word": "朱珠再穿旗袍",
-      "onboard_time": 1688182888,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 212213,
@@ -1152,6 +1272,14 @@
       "word": "新时代赶考路",
       "onboard_time": 1688147058,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11854,
+      "num": 343410,
+      "word": "复兴号正式在青藏铁路投入运行",
+      "onboard_time": 1688185173,
+      "rank": 16,
       "category": "社会新闻"
     }
   ],
