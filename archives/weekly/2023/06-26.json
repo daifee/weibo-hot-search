@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688188664940,
+  "endTime": 1688189652406,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -121,6 +121,14 @@
       "onboard_time": 1688023897,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4094429,
+      "num": 4688858,
+      "word": "江西一化工厂爆炸",
+      "onboard_time": 1688188412,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4075577,
@@ -2179,14 +2187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1033913,
-      "num": 1033913,
-      "word": "江西一化工厂爆炸",
-      "onboard_time": 1688188412,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1029344,
       "num": 1029344,
       "word": "花千骨2已备案",
@@ -2380,7 +2380,7 @@
     },
     {
       "raw_hot": 965711,
-      "num": 350361,
+      "num": 373052,
       "word": "牙医建议刷牙后不要立刻漱口",
       "onboard_time": 1688183792,
       "rank": 22,
@@ -3019,6 +3019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 790048,
+      "num": 790048,
+      "word": "夏目友人帐",
+      "onboard_time": 1688184692,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 789114,
       "num": 789114,
       "word": "陈思诚 橙色风暴",
@@ -3161,14 +3169,6 @@
       "onboard_time": 1688011598,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 759600,
-      "num": 759600,
-      "word": "夏目友人帐",
-      "onboard_time": 1688184692,
-      "rank": 15,
-      "category": "动漫"
     },
     {
       "raw_hot": 759586,
@@ -3772,7 +3772,7 @@
     },
     {
       "raw_hot": 662031,
-      "num": 342993,
+      "num": 368969,
       "word": "终于知道肚子痛是哪里痛了",
       "onboard_time": 1688182411,
       "rank": 31,
@@ -3857,6 +3857,14 @@
       "onboard_time": 1688118215,
       "rank": 16,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 648985,
+      "num": 400562,
+      "word": "玉骨遥",
+      "onboard_time": 1688007452,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 648433,
@@ -4427,6 +4435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 569391,
+      "num": 569391,
+      "word": "邓佳鑫 北京",
+      "onboard_time": 1688188412,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568219,
       "num": 568219,
       "word": "其实世界上有很多情侣根本不熟",
@@ -4513,6 +4529,14 @@
       "onboard_time": 1687831835,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 560608,
+      "num": 560608,
+      "word": "谢依霖说带孩子很幸福但不快乐",
+      "onboard_time": 1688187092,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 559488,
@@ -4985,14 +5009,6 @@
       "onboard_time": 1687858124,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 513257,
-      "num": 513257,
-      "word": "谢依霖说带孩子很幸福但不快乐",
-      "onboard_time": 1688187092,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 512376,
@@ -5756,7 +5772,7 @@
     },
     {
       "raw_hot": 439992,
-      "num": 302932,
+      "num": 364847,
       "word": "八角笼中",
       "onboard_time": 1688185713,
       "rank": 31,
@@ -6251,14 +6267,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 400562,
-      "num": 400562,
-      "word": "玉骨遥",
-      "onboard_time": 1688007452,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 400543,
       "num": 400543,
       "word": "饿了么免单",
@@ -6699,6 +6707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375995,
+      "num": 361633,
+      "word": "男生记录女友每天出门的穿搭",
+      "onboard_time": 1688188955,
+      "rank": 23,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 374701,
       "num": 374701,
       "word": "沈月秒猜陈哲远第一部戏女主角",
@@ -6873,6 +6889,14 @@
       "onboard_time": 1688103753,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359906,
+      "num": 359906,
+      "word": "茶百道 未定事件簿",
+      "onboard_time": 1688188534,
+      "rank": 49,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 359308,
@@ -7723,6 +7747,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 316578,
+      "num": 316578,
+      "word": "你好星期六",
+      "onboard_time": 1688188412,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316277,
       "num": 316277,
       "word": "别人挡酒王宝强直播挡奶",
@@ -8195,6 +8227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 298003,
+      "num": 298003,
+      "word": "黄朔 北京",
+      "onboard_time": 1688189313,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297201,
       "num": 297201,
       "word": "瓦格纳",
@@ -8451,6 +8491,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 286377,
+      "num": 317233,
+      "word": "离职后别用企业微信发文件",
+      "onboard_time": 1688186316,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285522,
       "num": 285522,
       "word": "不锈钢盲道",
@@ -8569,14 +8617,6 @@
       "onboard_time": 1688115875,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282098,
-      "num": 282098,
-      "word": "离职后别用企业微信发文件",
-      "onboard_time": 1688186316,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 281671,
@@ -8795,6 +8835,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 272765,
+      "num": 272765,
+      "word": "Ella说被张嘉倪喜欢真的很好命",
+      "onboard_time": 1688188774,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272285,
       "num": 272285,
       "word": "Ella说芝芙中文超过蔡少芬了",
@@ -8971,14 +9019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266679,
-      "num": 266679,
-      "word": "你好星期六",
-      "onboard_time": 1688188412,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266574,
       "num": 266574,
       "word": "发疯果然很有用",
@@ -9025,6 +9065,14 @@
       "onboard_time": 1688171728,
       "rank": 36,
       "category": "幽默,综艺"
+    },
+    {
+      "raw_hot": 265836,
+      "num": 265836,
+      "word": "大妈 你走夜路最好小心点",
+      "onboard_time": 1688188471,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 265652,
@@ -9419,6 +9467,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 252070,
+      "num": 252070,
+      "word": "女子叫来特警弟弟合力救下坠河男孩",
+      "onboard_time": 1688189492,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251848,
       "num": 351500,
       "word": "六月最后一天",
@@ -9457,14 +9513,6 @@
       "onboard_time": 1688179830,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250144,
-      "num": 250144,
-      "word": "邓佳鑫 北京",
-      "onboard_time": 1688188412,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 250124,
@@ -12371,6 +12419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162758,
+      "num": 199342,
+      "word": "中国女排vs韩国女排",
+      "onboard_time": 1688189432,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162734,
       "num": 455998,
       "word": "赫莲娜特斯拉官宣",
@@ -12465,14 +12521,6 @@
       "onboard_time": 1688129796,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159590,
-      "num": 194234,
-      "word": "茶百道 未定事件簿",
-      "onboard_time": 1688188534,
-      "rank": 49,
-      "category": "游戏,财经"
     },
     {
       "raw_hot": 159442,
@@ -12727,6 +12775,14 @@
       "num": 2014765,
       "word": "7月一批新规实施",
       "onboard_time": 1688129498,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148033,
+      "num": 1205913,
+      "word": "香港回归这一刻再看依然心潮澎湃",
+      "onboard_time": 1688185354,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -13145,14 +13201,6 @@
       "onboard_time": 1687993343,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127394,
-      "num": 1037532,
-      "word": "香港回归这一刻再看依然心潮澎湃",
-      "onboard_time": 1688185354,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127216,

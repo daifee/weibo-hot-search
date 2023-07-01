@@ -1,7 +1,15 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688188664940,
+  "endTime": 1688189652406,
   "band_list": [
+    {
+      "raw_hot": 4094429,
+      "num": 4688858,
+      "word": "江西一化工厂爆炸",
+      "onboard_time": 1688188412,
+      "rank": 5,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3552582,
       "num": 3552582,
@@ -131,14 +139,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 1033913,
-      "num": 1033913,
-      "word": "江西一化工厂爆炸",
-      "onboard_time": 1688188412,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1002633,
       "num": 392413,
       "word": "裸体男子在女浴室待8分钟称误入",
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 965711,
-      "num": 350361,
+      "num": 373052,
       "word": "牙医建议刷牙后不要立刻漱口",
       "onboard_time": 1688183792,
       "rank": 22,
@@ -251,20 +251,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 790048,
+      "num": 790048,
+      "word": "夏目友人帐",
+      "onboard_time": 1688184692,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 789114,
       "num": 789114,
       "word": "陈思诚 橙色风暴",
       "onboard_time": 1688184573,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 759600,
-      "num": 759600,
-      "word": "夏目友人帐",
-      "onboard_time": 1688184692,
-      "rank": 15,
-      "category": "动漫"
     },
     {
       "raw_hot": 755649,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 662031,
-      "num": 342993,
+      "num": 368969,
       "word": "终于知道肚子痛是哪里痛了",
       "onboard_time": 1688182411,
       "rank": 31,
@@ -329,6 +329,14 @@
       "onboard_time": 1688176050,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 648985,
+      "num": 317047,
+      "word": "玉骨遥",
+      "onboard_time": 1688188774,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 645052,
@@ -395,6 +403,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 569391,
+      "num": 569391,
+      "word": "邓佳鑫 北京",
+      "onboard_time": 1688188412,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568219,
       "num": 568219,
       "word": "其实世界上有很多情侣根本不熟",
@@ -417,6 +433,14 @@
       "onboard_time": 1688125054,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560608,
+      "num": 560608,
+      "word": "谢依霖说带孩子很幸福但不快乐",
+      "onboard_time": 1688187092,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 543033,
@@ -457,14 +481,6 @@
       "onboard_time": 1688173649,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 513257,
-      "num": 513257,
-      "word": "谢依霖说带孩子很幸福但不快乐",
-      "onboard_time": 1688187092,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 512376,
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 439992,
-      "num": 302932,
+      "num": 364847,
       "word": "八角笼中",
       "onboard_time": 1688185713,
       "rank": 31,
@@ -619,12 +635,28 @@
       "category": "美食,时尚"
     },
     {
+      "raw_hot": 375995,
+      "num": 361633,
+      "word": "男生记录女友每天出门的穿搭",
+      "onboard_time": 1688188955,
+      "rank": 23,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 375336,
       "num": 272777,
       "word": "易烊千玺网站更新",
       "onboard_time": 1688136103,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359906,
+      "num": 359906,
+      "word": "茶百道 未定事件簿",
+      "onboard_time": 1688188534,
+      "rank": 49,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 352163,
@@ -707,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316578,
+      "num": 316578,
+      "word": "你好星期六",
+      "onboard_time": 1688188412,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310960,
       "num": 239479,
       "word": "消失的她",
@@ -739,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298003,
+      "num": 298003,
+      "word": "黄朔 北京",
+      "onboard_time": 1688189313,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295577,
       "num": 295577,
       "word": "里面的狗都吃撑了外面的狗子还没转明白",
@@ -747,20 +795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286377,
+      "num": 317233,
+      "word": "离职后别用企业微信发文件",
+      "onboard_time": 1688186316,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284382,
       "num": 284382,
       "word": "歼20",
       "onboard_time": 1688132318,
       "rank": 24,
       "category": "军事"
-    },
-    {
-      "raw_hot": 282098,
-      "num": 282098,
-      "word": "离职后别用企业微信发文件",
-      "onboard_time": 1688186316,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 279162,
@@ -787,6 +835,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 272765,
+      "num": 272765,
+      "word": "Ella说被张嘉倪喜欢真的很好命",
+      "onboard_time": 1688188774,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272214,
       "num": 272214,
       "word": "偷偷藏不住泰国预告",
@@ -811,14 +867,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 266679,
-      "num": 266679,
-      "word": "你好星期六",
-      "onboard_time": 1688188412,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266463,
       "num": 266463,
       "word": "什么病人明明是我本人",
@@ -833,6 +881,14 @@
       "onboard_time": 1688171728,
       "rank": 36,
       "category": "幽默,综艺"
+    },
+    {
+      "raw_hot": 265836,
+      "num": 265836,
+      "word": "大妈 你走夜路最好小心点",
+      "onboard_time": 1688188471,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 265247,
@@ -875,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252070,
+      "num": 252070,
+      "word": "女子叫来特警弟弟合力救下坠河男孩",
+      "onboard_time": 1688189492,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251164,
       "num": 251164,
       "word": "间谍潜藏十七年终落网",
@@ -889,14 +953,6 @@
       "onboard_time": 1688179830,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250144,
-      "num": 250144,
-      "word": "邓佳鑫 北京",
-      "onboard_time": 1688188412,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 249626,
@@ -1251,18 +1307,26 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159590,
-      "num": 194234,
-      "word": "茶百道 未定事件簿",
-      "onboard_time": 1688188534,
+      "raw_hot": 162758,
+      "num": 199342,
+      "word": "中国女排vs韩国女排",
+      "onboard_time": 1688189432,
       "rank": 49,
-      "category": "游戏,财经"
+      "category": "体育"
     },
     {
       "raw_hot": 150365,
       "num": 1512157,
       "word": "中国制造在土耳其火了",
       "onboard_time": 1688129254,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148033,
+      "num": 1205913,
+      "word": "香港回归这一刻再看依然心潮澎湃",
+      "onboard_time": 1688185354,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1289,14 +1353,6 @@
       "onboard_time": 1688143230,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127394,
-      "num": 1037532,
-      "word": "香港回归这一刻再看依然心潮澎湃",
-      "onboard_time": 1688185354,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125833,
