@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688224692409,
+  "endTime": 1688225644828,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1840386,
+      "num": 832587,
+      "word": "人大 学生信息",
+      "onboard_time": 1688221059,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1796740,
       "num": 1796740,
       "word": "章泽天回应拒绝张艺谋演戏",
@@ -195,8 +203,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1371189,
-      "num": 1371189,
+      "raw_hot": 1371650,
+      "num": 1371650,
       "word": "艾怡良颁奖乌龙",
       "onboard_time": 1688223939,
       "rank": 3,
@@ -224,14 +232,6 @@
       "word": "越南一位老人50年没睡觉",
       "onboard_time": 1688139821,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1277100,
-      "num": 832587,
-      "word": "人大 学生信息",
-      "onboard_time": 1688221059,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632105,
+      "num": 686849,
+      "word": "谷爱凌大一课程全A",
+      "onboard_time": 1688222377,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 631563,
       "num": 501462,
       "word": "1700元的周杰伦演唱会门票直接烧了",
@@ -867,16 +875,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 551725,
-      "num": 551725,
-      "word": "谷爱凌大一课程全A",
-      "onboard_time": 1688222377,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 550387,
-      "num": 446135,
+      "num": 497159,
       "word": "赵露思新剧纯欲风",
       "onboard_time": 1688222676,
       "rank": 21,
@@ -937,6 +937,14 @@
       "onboard_time": 1688177370,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 514536,
+      "num": 422496,
+      "word": "金曲奖红毯",
+      "onboard_time": 1688207253,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 513974,
@@ -1161,14 +1169,6 @@
       "onboard_time": 1688222197,
       "rank": 23,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 422496,
-      "num": 422496,
-      "word": "金曲奖红毯",
-      "onboard_time": 1688207253,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 416510,
@@ -1411,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327133,
+      "num": 317507,
+      "word": "王安宇被王鹤棣泼懵了",
+      "onboard_time": 1688224416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326393,
       "num": 725311,
       "word": "寄存物品6年未取的毕业生找到了",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1688204970,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301649,
-      "num": 281652,
-      "word": "王安宇被王鹤棣泼懵了",
-      "onboard_time": 1688224416,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 301273,
@@ -1675,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271347,
+      "num": 254898,
+      "word": "宋轶的私服穿搭",
+      "onboard_time": 1688223579,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271230,
       "num": 271230,
       "word": "天秤座总是间歇性悲观",
@@ -1787,20 +1795,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258141,
-      "num": 244041,
-      "word": "宋轶的私服穿搭",
-      "onboard_time": 1688223579,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 256448,
       "num": 256448,
       "word": "朱婷",
       "onboard_time": 1688135142,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255894,
+      "num": 255894,
+      "word": "女子去世7只猫继承217万遗产",
+      "onboard_time": 1688224659,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254383,
@@ -1899,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242510,
+      "num": 242510,
+      "word": "以为是房子隔音好",
+      "onboard_time": 1688225498,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241049,
       "num": 241049,
       "word": "班主任让高三教室一整年都开满鲜花",
@@ -1992,14 +2008,6 @@
       "word": "贵溪",
       "onboard_time": 1688188593,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231612,
-      "num": 246120,
-      "word": "女子去世7只猫继承217万遗产",
-      "onboard_time": 1688224659,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2163,6 +2171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216212,
+      "num": 216212,
+      "word": "告诉重庆人吃火锅不放香油",
+      "onboard_time": 1688224898,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215727,
       "num": 218794,
       "word": "家里太乱被婆婆发朋友圈阴阳了",
@@ -2195,8 +2211,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 208708,
-      "num": 208708,
+      "raw_hot": 209904,
+      "num": 209904,
       "word": "导游因游客发视频表扬涨粉百万",
       "onboard_time": 1688223519,
       "rank": 46,
@@ -2369,6 +2385,14 @@
       "onboard_time": 1688212954,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189687,
+      "num": 204845,
+      "word": "征程",
+      "onboard_time": 1688224836,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189449,
