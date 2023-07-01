@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688253478933,
+  "endTime": 1688254464625,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 731027,
-      "num": 464008,
+      "num": 492897,
       "word": "恐怖程度约等于零的恐怖片",
       "onboard_time": 1688228730,
       "rank": 30,
@@ -625,6 +625,14 @@
       "onboard_time": 1688219315,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 678432,
+      "num": 293409,
+      "word": "韩安冉 不要因为受伤就怕输",
+      "onboard_time": 1688244793,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 674195,
@@ -881,14 +889,6 @@
       "onboard_time": 1688212410,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 564831,
-      "num": 242513,
-      "word": "韩安冉 不要因为受伤就怕输",
-      "onboard_time": 1688244793,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 563241,
@@ -1515,6 +1515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 322703,
+      "num": 322703,
+      "word": "周琦",
+      "onboard_time": 1688250917,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321479,
       "num": 321479,
       "word": "原来猫咪允许你摸它的鼻子是这个意思",
@@ -1691,12 +1699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295100,
+      "num": 295100,
+      "word": "TF家族合照",
+      "onboard_time": 1688253199,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286377,
       "num": 317233,
       "word": "离职后别用企业微信发文件",
       "onboard_time": 1688186316,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285207,
+      "num": 285207,
+      "word": "纹去世朋友名字去看周杰伦演唱会",
+      "onboard_time": 1688252659,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 284382,
@@ -1875,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261797,
+      "num": 261797,
+      "word": "大学毕业生带小黄鸭坐火车被拒",
+      "onboard_time": 1688252477,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260951,
       "num": 260951,
       "word": "韩旭压哨三分",
@@ -1995,28 +2027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245989,
-      "num": 245989,
-      "word": "周琦",
-      "onboard_time": 1688250917,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244788,
       "num": 244788,
       "word": "贾静雯无袖旗袍",
       "onboard_time": 1688186075,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 244628,
-      "num": 244628,
-      "word": "TF家族合照",
-      "onboard_time": 1688253199,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 243496,
@@ -2603,14 +2619,6 @@
       "category": "科技,幽默"
     },
     {
-      "raw_hot": 185814,
-      "num": 185814,
-      "word": "纹去世朋友名字去看周杰伦演唱会",
-      "onboard_time": 1688252659,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 182690,
       "num": 182690,
       "word": "顾九思怒怼梁王",
@@ -2675,6 +2683,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 172494,
+      "num": 172494,
+      "word": "吴青峰金曲奖年度专辑",
+      "onboard_time": 1688252477,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172468,
       "num": 172468,
       "word": "盘点满级猫咪的高能瞬间",
@@ -2712,6 +2728,14 @@
       "word": "大热天21人挤同一电梯被困",
       "onboard_time": 1688166500,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166065,
+      "num": 166065,
+      "word": "浙江这是下开水的节奏吗",
+      "onboard_time": 1688252477,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2753,14 +2777,6 @@
       "onboard_time": 1688212355,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150846,
-      "num": 150846,
-      "word": "大学毕业生带小黄鸭坐火车被拒",
-      "onboard_time": 1688252477,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150527,
@@ -2827,14 +2843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141077,
-      "num": 141077,
-      "word": "吴青峰金曲奖年度专辑",
-      "onboard_time": 1688252477,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 135456,
       "num": 173378,
       "word": "总有小猫高估自己的实力",
@@ -2883,6 +2891,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 122869,
+      "num": 122869,
+      "word": "金沙江落水女孩拜救人者为干爹",
+      "onboard_time": 1688253679,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115967,
       "num": 115967,
       "word": "浙江卫视节目单奔跑吧泰国篇",
@@ -2913,6 +2929,22 @@
       "onboard_time": 1688142270,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101794,
+      "num": 101794,
+      "word": "喜欢拍照记录真的是一个好习惯",
+      "onboard_time": 1688253140,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 98758,
+      "num": 98758,
+      "word": "王楚钦孙颖莎萨格勒布站夺冠",
+      "onboard_time": 1688253981,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 98133,
@@ -2947,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89174,
+      "num": 89174,
+      "word": "湖人续约拉塞尔",
+      "onboard_time": 1688254040,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88261,
       "num": 88261,
       "word": "豆瓣",
@@ -2971,12 +3011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81043,
-      "num": 81043,
-      "word": "浙江这是下开水的节奏吗",
-      "onboard_time": 1688252477,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 81552,
+      "num": 81552,
+      "word": "倪妮出海墨镜自拍",
+      "onboard_time": 1688253018,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 80371,
@@ -3035,20 +3075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55728,
-      "num": 55728,
-      "word": "喜欢拍照记录真的是一个好习惯",
-      "onboard_time": 1688253140,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 54807,
-      "num": 54807,
-      "word": "倪妮出海墨镜自拍",
-      "onboard_time": 1688253018,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 57733,
+      "num": 75111,
+      "word": "陈哲远手写信告别青环",
+      "onboard_time": 1688237358,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 48190,
@@ -3057,14 +3089,6 @@
       "onboard_time": 1688200416,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47186,
-      "num": 47186,
-      "word": "陈哲远手写信告别青环",
-      "onboard_time": 1688237358,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 42777,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688253478933,
+  "endTime": 1688254464625,
   "band_list": [
     {
       "raw_hot": 3526747,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 731027,
-      "num": 464008,
+      "num": 492897,
       "word": "恐怖程度约等于零的恐怖片",
       "onboard_time": 1688228730,
       "rank": 30,
@@ -57,6 +57,14 @@
       "onboard_time": 1688222138,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 678432,
+      "num": 293409,
+      "word": "韩安冉 不要因为受伤就怕输",
+      "onboard_time": 1688244793,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 626660,
@@ -89,14 +97,6 @@
       "onboard_time": 1688201312,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 564831,
-      "num": 242513,
-      "word": "韩安冉 不要因为受伤就怕输",
-      "onboard_time": 1688244793,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 559401,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322703,
+      "num": 322703,
+      "word": "周琦",
+      "onboard_time": 1688250917,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307077,
       "num": 307077,
       "word": "广西一教师在医院楼顶水箱溺亡",
@@ -249,6 +257,22 @@
       "onboard_time": 1688230463,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295100,
+      "num": 295100,
+      "word": "TF家族合照",
+      "onboard_time": 1688253199,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 285207,
+      "num": 285207,
+      "word": "纹去世朋友名字去看周杰伦演唱会",
+      "onboard_time": 1688252659,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 280217,
@@ -307,20 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245989,
-      "num": 245989,
-      "word": "周琦",
-      "onboard_time": 1688250917,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 244628,
-      "num": 244628,
-      "word": "TF家族合照",
-      "onboard_time": 1688253199,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 261797,
+      "num": 261797,
+      "word": "大学毕业生带小黄鸭坐火车被拒",
+      "onboard_time": 1688252477,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243890,
@@ -419,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185814,
-      "num": 185814,
-      "word": "纹去世朋友名字去看周杰伦演唱会",
-      "onboard_time": 1688252659,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 180025,
       "num": 180025,
       "word": "EDG战胜WE",
@@ -443,12 +451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172494,
+      "num": 172494,
+      "word": "吴青峰金曲奖年度专辑",
+      "onboard_time": 1688252477,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170571,
       "num": 170571,
       "word": "网友感谢王一博赞助奖学金",
       "onboard_time": 1688217993,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166065,
+      "num": 166065,
+      "word": "浙江这是下开水的节奏吗",
+      "onboard_time": 1688252477,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159547,
@@ -467,14 +491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 150846,
-      "num": 150846,
-      "word": "大学毕业生带小黄鸭坐火车被拒",
-      "onboard_time": 1688252477,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143779,
       "num": 143779,
       "word": "鹿晗演唱会给粉丝送Gucci",
@@ -483,20 +499,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 141077,
-      "num": 141077,
-      "word": "吴青峰金曲奖年度专辑",
-      "onboard_time": 1688252477,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 140158,
       "num": 140158,
       "word": "于文文去看了薛之谦演唱会",
       "onboard_time": 1688215589,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122869,
+      "num": 122869,
+      "word": "金沙江落水女孩拜救人者为干爹",
+      "onboard_time": 1688253679,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106034,
@@ -515,6 +531,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101794,
+      "num": 101794,
+      "word": "喜欢拍照记录真的是一个好习惯",
+      "onboard_time": 1688253140,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 98758,
+      "num": 98758,
+      "word": "王楚钦孙颖莎萨格勒布站夺冠",
+      "onboard_time": 1688253981,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89174,
+      "num": 89174,
+      "word": "湖人续约拉塞尔",
+      "onboard_time": 1688254040,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83004,
       "num": 83004,
       "word": "女孩晕倒司机背着她千米狂奔送医",
@@ -523,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81043,
-      "num": 81043,
-      "word": "浙江这是下开水的节奏吗",
-      "onboard_time": 1688252477,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 81552,
+      "num": 81552,
+      "word": "倪妮出海墨镜自拍",
+      "onboard_time": 1688253018,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 80371,
@@ -555,24 +595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55728,
-      "num": 55728,
-      "word": "喜欢拍照记录真的是一个好习惯",
-      "onboard_time": 1688253140,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 54807,
-      "num": 54807,
-      "word": "倪妮出海墨镜自拍",
-      "onboard_time": 1688253018,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 47186,
-      "num": 47186,
+      "raw_hot": 57733,
+      "num": 75111,
       "word": "陈哲远手写信告别青环",
       "onboard_time": 1688237358,
       "rank": 34,
