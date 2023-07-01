@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688222021352,
+  "endTime": 1688224692409,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3436959,
+      "num": 3436959,
+      "word": "正式被确诊为浣碧",
+      "onboard_time": 1688219853,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 3360258,
       "num": 3360258,
       "word": "新版妲己首度曝光",
@@ -241,14 +249,6 @@
       "onboard_time": 1688113056,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3295954,
-      "num": 3295954,
-      "word": "正式被确诊为浣碧",
-      "onboard_time": 1688219853,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 3204851,
@@ -1195,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1716141,
+      "num": 1716141,
+      "word": "金曲奖",
+      "onboard_time": 1688208391,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1714209,
       "num": 1714209,
       "word": "怎么没人写硕博士的偶像剧",
@@ -1459,14 +1467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1431282,
-      "num": 1431282,
-      "word": "金曲奖",
-      "onboard_time": 1688208391,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1420922,
       "num": 795515,
       "word": "一生所爱 最难听版本",
@@ -1521,6 +1521,14 @@
       "onboard_time": 1687934195,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1371189,
+      "num": 1371189,
+      "word": "艾怡良颁奖乌龙",
+      "onboard_time": 1688223939,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1371123,
@@ -1715,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1277100,
+      "num": 832587,
+      "word": "人大 学生信息",
+      "onboard_time": 1688221059,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1277048,
       "num": 1277048,
       "word": "胖东来8页报告调查顾客与员工争执",
@@ -1905,6 +1921,22 @@
       "onboard_time": 1688020476,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1196303,
+      "num": 1196303,
+      "word": "白敬亭这真的是你吗",
+      "onboard_time": 1688219254,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1187693,
+      "num": 1187693,
+      "word": "古巨基和老婆求婚的原因",
+      "onboard_time": 1688222138,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1183076,
@@ -2491,14 +2523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 979271,
-      "num": 979271,
-      "word": "白敬亭这真的是你吗",
-      "onboard_time": 1688219254,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 977215,
       "num": 977215,
       "word": "怀孕后子宫体积能增大多少",
@@ -2668,7 +2692,7 @@
     },
     {
       "raw_hot": 941290,
-      "num": 439421,
+      "num": 462334,
       "word": "原来用臀部发力走路腿会变直",
       "onboard_time": 1688205575,
       "rank": 20,
@@ -2880,6 +2904,14 @@
       "word": "男子高铁站持刀刺2人致1死",
       "onboard_time": 1688131777,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 892109,
+      "num": 892109,
+      "word": "花花接住谭爷爷给的小苹果",
+      "onboard_time": 1688221059,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4067,6 +4099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 658069,
+      "num": 658069,
+      "word": "韩剧 恶鬼",
+      "onboard_time": 1688222499,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 656829,
       "num": 656829,
       "word": "陈建州范玮琪2011年完婚",
@@ -4385,6 +4425,14 @@
       "onboard_time": 1688188534,
       "rank": 49,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 623937,
+      "num": 623937,
+      "word": "长相思",
+      "onboard_time": 1688222255,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 623638,
@@ -4995,6 +5043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 551725,
+      "num": 551725,
+      "word": "谷爱凌大一课程全A",
+      "onboard_time": 1688222377,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551384,
       "num": 542542,
       "word": "戴建勇",
@@ -5017,6 +5073,14 @@
       "onboard_time": 1687851760,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550387,
+      "num": 446135,
+      "word": "赵露思新剧纯欲风",
+      "onboard_time": 1688222676,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 548477,
@@ -5177,14 +5241,6 @@
       "onboard_time": 1688041956,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 539070,
-      "num": 425431,
-      "word": "人大 学生信息",
-      "onboard_time": 1688221059,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536426,
@@ -6443,6 +6499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424531,
+      "num": 424531,
+      "word": "义乌脸基尼卖爆了",
+      "onboard_time": 1688222197,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 424078,
       "num": 424078,
       "word": "黄新淳离鹿晗好近",
@@ -7409,14 +7473,6 @@
       "onboard_time": 1687751025,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 365855,
-      "num": 365855,
-      "word": "花花接住谭爷爷给的小苹果",
-      "onboard_time": 1688221059,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364455,
@@ -8683,6 +8739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306647,
+      "num": 281939,
+      "word": "武艺答一个错一个",
+      "onboard_time": 1688222676,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306465,
       "num": 306465,
       "word": "30岁前一定要旅行的地方",
@@ -8835,6 +8899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301649,
+      "num": 281652,
+      "word": "王安宇被王鹤棣泼懵了",
+      "onboard_time": 1688224416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301418,
       "num": 301418,
       "word": "上班的苦和上学的苦是不一样的",
@@ -8905,6 +8977,14 @@
       "onboard_time": 1687701879,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298630,
+      "num": 298630,
+      "word": "HR认可的离职原因",
+      "onboard_time": 1688220095,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 298308,
@@ -10099,6 +10179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258141,
+      "num": 244041,
+      "word": "宋轶的私服穿搭",
+      "onboard_time": 1688223579,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258056,
       "num": 258056,
       "word": "恐班症",
@@ -10937,6 +11025,14 @@
       "onboard_time": 1687998395,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231612,
+      "num": 246120,
+      "word": "女子去世7只猫继承217万遗产",
+      "onboard_time": 1688224659,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231348,
@@ -11811,6 +11907,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 208708,
+      "num": 208708,
+      "word": "导游因游客发视频表扬涨粉百万",
+      "onboard_time": 1688223519,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208488,
       "num": 236400,
       "word": "外国友人点赞万能的蓝朋友",
@@ -11889,14 +11993,6 @@
       "onboard_time": 1688002893,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206510,
-      "num": 206510,
-      "word": "HR认可的离职原因",
-      "onboard_time": 1688220095,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 206484,
@@ -12187,6 +12283,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 198014,
+      "num": 198014,
+      "word": "久哲直播",
+      "onboard_time": 1688223818,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197907,
       "num": 197907,
       "word": "猫咪闲了会找谁",
@@ -12449,6 +12553,14 @@
       "onboard_time": 1688055215,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 192263,
+      "num": 192263,
+      "word": "这条鱼还怪好的嘞",
+      "onboard_time": 1688224659,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 191849,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688222021352,
+  "endTime": 1688224692409,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -35,8 +35,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3295954,
-      "num": 3295954,
+      "raw_hot": 3436959,
+      "num": 3436959,
       "word": "正式被确诊为浣碧",
       "onboard_time": 1688219853,
       "rank": 1,
@@ -163,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1716141,
+      "num": 1716141,
+      "word": "金曲奖",
+      "onboard_time": 1688208391,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1671235,
       "num": 1671235,
       "word": "消失的她票根还有隐藏刀",
@@ -187,11 +195,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1431282,
-      "num": 1431282,
-      "word": "金曲奖",
-      "onboard_time": 1688208391,
-      "rank": 7,
+      "raw_hot": 1371189,
+      "num": 1371189,
+      "word": "艾怡良颁奖乌龙",
+      "onboard_time": 1688223939,
+      "rank": 3,
       "category": "音乐"
     },
     {
@@ -219,12 +227,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1277100,
+      "num": 832587,
+      "word": "人大 学生信息",
+      "onboard_time": 1688221059,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1226888,
       "num": 1226888,
       "word": "刘瑕被网暴",
       "onboard_time": 1688205391,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1196303,
+      "num": 1196303,
+      "word": "白敬亭这真的是你吗",
+      "onboard_time": 1688219254,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1187693,
+      "num": 1187693,
+      "word": "古巨基和老婆求婚的原因",
+      "onboard_time": 1688222138,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1161869,
@@ -299,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 979271,
-      "num": 979271,
-      "word": "白敬亭这真的是你吗",
-      "onboard_time": 1688219254,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 970243,
       "num": 632536,
       "word": "这和官宣有什么差别",
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 941290,
-      "num": 439421,
+      "num": 462334,
       "word": "原来用臀部发力走路腿会变直",
       "onboard_time": 1688205575,
       "rank": 20,
@@ -377,6 +401,14 @@
       "onboard_time": 1688184692,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 892109,
+      "num": 892109,
+      "word": "花花接住谭爷爷给的小苹果",
+      "onboard_time": 1688221059,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 883481,
@@ -611,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 658069,
+      "num": 658069,
+      "word": "韩剧 恶鬼",
+      "onboard_time": 1688222499,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 648985,
       "num": 317047,
       "word": "玉骨遥",
@@ -689,6 +729,14 @@
       "onboard_time": 1688188534,
       "rank": 49,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 623937,
+      "num": 623937,
+      "word": "长相思",
+      "onboard_time": 1688222255,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 621559,
@@ -819,6 +867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551725,
+      "num": 551725,
+      "word": "谷爱凌大一课程全A",
+      "onboard_time": 1688222377,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 550387,
+      "num": 446135,
+      "word": "赵露思新剧纯欲风",
+      "onboard_time": 1688222676,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543033,
       "num": 491365,
       "word": "肖战香港vlog",
@@ -841,14 +905,6 @@
       "onboard_time": 1688184692,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 539070,
-      "num": 425431,
-      "word": "人大 学生信息",
-      "onboard_time": 1688221059,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536401,
@@ -1099,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424531,
+      "num": 424531,
+      "word": "义乌脸基尼卖爆了",
+      "onboard_time": 1688222197,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 422496,
       "num": 422496,
       "word": "金曲奖红毯",
@@ -1233,14 +1297,6 @@
       "onboard_time": 1688198972,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 365855,
-      "num": 365855,
-      "word": "花花接住谭爷爷给的小苹果",
-      "onboard_time": 1688221059,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363639,
@@ -1435,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306647,
+      "num": 281939,
+      "word": "武艺答一个错一个",
+      "onboard_time": 1688222676,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305503,
       "num": 305503,
       "word": "HR让我面试帮忙带杯冰美式",
@@ -1475,12 +1539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301649,
+      "num": 281652,
+      "word": "王安宇被王鹤棣泼懵了",
+      "onboard_time": 1688224416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301273,
       "num": 233065,
       "word": "猫咪嚼的是他的面子",
       "onboard_time": 1688207012,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 298630,
+      "num": 298630,
+      "word": "HR认可的离职原因",
+      "onboard_time": 1688220095,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 298003,
@@ -1707,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258141,
+      "num": 244041,
+      "word": "宋轶的私服穿搭",
+      "onboard_time": 1688223579,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256448,
       "num": 256448,
       "word": "朱婷",
@@ -1907,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231612,
+      "num": 246120,
+      "word": "女子去世7只猫继承217万遗产",
+      "onboard_time": 1688224659,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231348,
       "num": 214825,
       "word": "金曲奖预测",
@@ -2099,6 +2195,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 208708,
+      "num": 208708,
+      "word": "导游因游客发视频表扬涨粉百万",
+      "onboard_time": 1688223519,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208488,
       "num": 236400,
       "word": "外国友人点赞万能的蓝朋友",
@@ -2137,14 +2241,6 @@
       "onboard_time": 1688210554,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206510,
-      "num": 206510,
-      "word": "HR认可的离职原因",
-      "onboard_time": 1688220095,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 206484,
@@ -2195,6 +2291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198014,
+      "num": 198014,
+      "word": "久哲直播",
+      "onboard_time": 1688223818,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195820,
       "num": 204290,
       "word": "Cat盾山才是真C",
@@ -2233,6 +2337,14 @@
       "onboard_time": 1688212829,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192263,
+      "num": 192263,
+      "word": "这条鱼还怪好的嘞",
+      "onboard_time": 1688224659,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 190221,
