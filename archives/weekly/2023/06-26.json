@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688231743931,
+  "endTime": 1688232828629,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -6795,6 +6795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411872,
+      "num": 411872,
+      "word": "汪东城音乐节",
+      "onboard_time": 1688228490,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411542,
       "num": 411542,
       "word": "FPX战胜WBG",
@@ -6857,14 +6865,6 @@
       "onboard_time": 1688035778,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 406367,
-      "num": 406367,
-      "word": "汪东城音乐节",
-      "onboard_time": 1688228490,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 405016,
@@ -8817,6 +8817,14 @@
       "onboard_time": 1688026783,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306695,
+      "num": 249902,
+      "word": "被赞达亚的自信感染到了",
+      "onboard_time": 1688230463,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306647,
@@ -11609,14 +11617,6 @@
       "onboard_time": 1687779039,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217687,
-      "num": 166700,
-      "word": "被赞达亚的自信感染到了",
-      "onboard_time": 1688230463,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 217642,
@@ -15267,6 +15267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83004,
+      "num": 83004,
+      "word": "女孩晕倒司机背着她千米狂奔送医",
+      "onboard_time": 1688232202,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82299,
       "num": 82299,
       "word": "这大概是深圳最火的摆摊了",
@@ -15297,6 +15305,14 @@
       "onboard_time": 1687693894,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80371,
+      "num": 80371,
+      "word": "镜头里的欢乐瞬间",
+      "onboard_time": 1688232801,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 78628,

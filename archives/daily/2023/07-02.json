@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688231743931,
+  "endTime": 1688232828629,
   "band_list": [
     {
       "raw_hot": 3526747,
@@ -155,8 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 406367,
-      "num": 406367,
+      "raw_hot": 411872,
+      "num": 411872,
       "word": "汪东城音乐节",
       "onboard_time": 1688228490,
       "rank": 47,
@@ -233,6 +233,14 @@
       "onboard_time": 1688211691,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 306695,
+      "num": 249902,
+      "word": "被赞达亚的自信感染到了",
+      "onboard_time": 1688230463,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280217,
@@ -329,14 +337,6 @@
       "onboard_time": 1688228072,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217687,
-      "num": 166700,
-      "word": "被赞达亚的自信感染到了",
-      "onboard_time": 1688230463,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211511,
@@ -457,6 +457,22 @@
       "onboard_time": 1688212410,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 83004,
+      "num": 83004,
+      "word": "女孩晕倒司机背着她千米狂奔送医",
+      "onboard_time": 1688232202,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80371,
+      "num": 80371,
+      "word": "镜头里的欢乐瞬间",
+      "onboard_time": 1688232801,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 9155,
