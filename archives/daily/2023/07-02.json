@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688246144181,
+  "endTime": 1688247234047,
   "band_list": [
     {
       "raw_hot": 3526747,
@@ -467,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85977,
+      "num": 30546,
+      "word": "韩安冉 不要因为受伤就怕输",
+      "onboard_time": 1688244793,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 83004,
       "num": 83004,
       "word": "女孩晕倒司机背着她千米狂奔送医",
@@ -489,14 +497,6 @@
       "onboard_time": 1688233999,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58336,
-      "num": 28284,
-      "word": "韩安冉 不要因为受伤就怕输",
-      "onboard_time": 1688244793,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 47186,
@@ -523,7 +523,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19885,
+      "raw_hot": 20434,
+      "num": 22023,
+      "word": "太爱又美又飒的事业批了",
+      "onboard_time": 1688245513,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 19992,
       "num": 22303,
       "word": "当事游客回应发视频表扬导游",
       "onboard_time": 1688245453,
