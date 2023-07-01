@@ -1,0 +1,410 @@
+{
+  "runTime": 1688181332640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1504725,
+        "num": 1504725,
+        "word": "Angelababy 这是我结婚的地方",
+        "onboard_time": 1688179952,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1082281,
+        "num": 1082281,
+        "word": "白敬亭宋轶是不是忘记官宣了",
+        "onboard_time": 1688138323,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72720,
+        "num": 1016637,
+        "word": "中国制造在土耳其火了",
+        "onboard_time": 1688129254,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977339,
+        "num": 977339,
+        "word": "高考657分想重新复读一年",
+        "onboard_time": 1688174852,
+        "rank": 3,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 711289,
+        "num": 711289,
+        "word": "消失的她票房超人生大事",
+        "onboard_time": 1688168303,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 638698,
+        "num": 638698,
+        "word": "助手给白百何吃烤焦的面包",
+        "onboard_time": 1688175451,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625121,
+        "num": 625121,
+        "word": "三十岁女生给二十岁女生的建议",
+        "onboard_time": 1688166077,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 585938,
+        "num": 585938,
+        "word": "空调这样调才是真省电",
+        "onboard_time": 1688177971,
+        "rank": 7,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 539941,
+        "num": 585776,
+        "word": "19970701零时零分零秒",
+        "onboard_time": 1688168905,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517198,
+        "num": 581971,
+        "word": "晋江",
+        "onboard_time": 1688177370,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2992464,
+        "num": 579592,
+        "word": "张大大说白敬亭宋轶是真的就祝福",
+        "onboard_time": 1688177252,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1562342,
+        "num": 576979,
+        "word": "沈涛官宣得子",
+        "onboard_time": 1688177311,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1300655,
+        "num": 574390,
+        "word": "内娱纯元",
+        "onboard_time": 1688173530,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 918932,
+        "num": 573119,
+        "word": "法国骚乱",
+        "onboard_time": 1688170767,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677931,
+        "num": 569672,
+        "word": "法国载40多名中国公民车辆被砸",
+        "onboard_time": 1688174491,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568193,
+        "num": 568193,
+        "word": "韩素希担任田柾国MV主演",
+        "onboard_time": 1688176050,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 495277,
+        "num": 495277,
+        "word": "宋雨琦演戏有一种熟人演戏的好笑",
+        "onboard_time": 1688177611,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442775,
+        "num": 442775,
+        "word": "我前面车快生了",
+        "onboard_time": 1688176770,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 437117,
+        "num": 437117,
+        "word": "刘令姿版小兰花有父母了",
+        "onboard_time": 1688175331,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382882,
+        "num": 382882,
+        "word": "大熊猫 我怎么下去是饲养员的事",
+        "onboard_time": 1688174429,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 512376,
+        "num": 380780,
+        "word": "不当老师教师资格证还能干嘛",
+        "onboard_time": 1688178090,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376350,
+        "num": 376350,
+        "word": "李现爱了周杰伦22年",
+        "onboard_time": 1688178451,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331283,
+        "num": 331283,
+        "word": "越南一位老人50年没睡觉",
+        "onboard_time": 1688139821,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339963,
+        "num": 323599,
+        "word": "李现追星赢麻了",
+        "onboard_time": 1688180251,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307126,
+        "num": 307126,
+        "word": "起哄怂恿轻生者跳楼男子被行拘",
+        "onboard_time": 1688168724,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335651,
+        "num": 305200,
+        "word": "易烊千玺粉色手链是自己串的",
+        "onboard_time": 1688180909,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318332,
+        "num": 304564,
+        "word": "奔跑吧延期播出",
+        "onboard_time": 1688121335,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309520,
+        "num": 302580,
+        "word": "爱奇艺工作人员 白敬亭好好对宋轶",
+        "onboard_time": 1688137964,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300064,
+        "num": 300064,
+        "word": "成年人改名原来这么简单",
+        "onboard_time": 1688172990,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265561,
+        "num": 265561,
+        "word": "章泽天回应拒绝张艺谋演戏",
+        "onboard_time": 1688136760,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1025714,
+        "num": 265560,
+        "word": "奔跑吧是在吐槽吗",
+        "onboard_time": 1688172210,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277428,
+        "num": 258521,
+        "word": "王宝强把张颜齐认成了周杰伦",
+        "onboard_time": 1688180973,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273531,
+        "num": 254699,
+        "word": "美国队长4杀青",
+        "onboard_time": 1688180611,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272972,
+        "num": 251624,
+        "word": "德塔文认证赵露思抗剧能力",
+        "onboard_time": 1688177431,
+        "rank": 33,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 250180,
+        "num": 250180,
+        "word": "知了肉初上市400元一斤",
+        "onboard_time": 1688179830,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261656,
+        "num": 248824,
+        "word": "谢娜乘风五公造型",
+        "onboard_time": 1688180310,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246925,
+        "num": 246925,
+        "word": "星卡里",
+        "onboard_time": 1688178332,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 238506,
+        "num": 238506,
+        "word": "我写的左括号vs右括号",
+        "onboard_time": 1688178211,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222923,
+        "num": 222923,
+        "word": "鼠鼠闯祸后将自己伪装成受害者",
+        "onboard_time": 1688180973,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217664,
+        "num": 217664,
+        "word": "文森特加盟湖人",
+        "onboard_time": 1688171066,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242665,
+        "num": 216725,
+        "word": "肖战香港vlog",
+        "onboard_time": 1688174791,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236697,
+        "num": 216029,
+        "word": "台媒曝陈建州曾偷拍大牙照片",
+        "onboard_time": 1688125054,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231348,
+        "num": 214825,
+        "word": "金曲奖预测",
+        "onboard_time": 1688180190,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229819,
+        "num": 213133,
+        "word": "绝世网红",
+        "onboard_time": 1688172990,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228618,
+        "num": 212021,
+        "word": "奔跑吧",
+        "onboard_time": 1688175268,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225813,
+        "num": 210427,
+        "word": "黄子韬当着马伯骞的面叫曾毅哥哥",
+        "onboard_time": 1688180492,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209870,
+        "num": 209870,
+        "word": "14岁女孩500元卖头发被商贩剪坏",
+        "onboard_time": 1688173649,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205960,
+        "num": 205960,
+        "word": "泸州地震",
+        "onboard_time": 1688175030,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171737,
+        "num": 171737,
+        "word": "建党节",
+        "onboard_time": 1688168605,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150848,
+        "num": 171318,
+        "word": "Burberry雪糕",
+        "onboard_time": 1688171908,
+        "rank": 49,
+        "category": "美食,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#征程#"
+    }
+  }
+}

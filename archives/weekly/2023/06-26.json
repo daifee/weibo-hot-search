@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688180980495,
+  "endTime": 1688181332640,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -291,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2992464,
+      "num": 615597,
+      "word": "张大大说白敬亭宋轶是真的就祝福",
+      "onboard_time": 1688177252,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2983302,
       "num": 2983302,
       "word": "那就清华呗",
@@ -305,14 +313,6 @@
       "onboard_time": 1688046279,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2903133,
-      "num": 615597,
-      "word": "张大大说白敬亭宋轶是真的就祝福",
-      "onboard_time": 1688177252,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 2889479,
@@ -1291,6 +1291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1504725,
+      "num": 1504725,
+      "word": "Angelababy 这是我结婚的地方",
+      "onboard_time": 1688179952,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1498422,
       "num": 1498422,
       "word": "文咏珊早几年都干嘛去了",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1687842046,
       "rank": 16,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1140578,
-      "num": 1140578,
-      "word": "Angelababy 这是我结婚的地方",
-      "onboard_time": 1688179952,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1136512,
@@ -4819,6 +4819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 517198,
+      "num": 587566,
+      "word": "晋江",
+      "onboard_time": 1688177370,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 516933,
       "num": 342859,
       "word": "瘦子正式起诉葛斯齐S小姐",
@@ -4841,6 +4849,14 @@
       "onboard_time": 1687858124,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 512376,
+      "num": 394735,
+      "word": "不当老师教师资格证还能干嘛",
+      "onboard_time": 1688178090,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 512161,
@@ -4897,14 +4913,6 @@
       "onboard_time": 1688082269,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 508859,
-      "num": 587566,
-      "word": "晋江",
-      "onboard_time": 1688177370,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 508526,
@@ -5019,14 +5027,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 498891,
-      "num": 394735,
-      "word": "不当老师教师资格证还能干嘛",
-      "onboard_time": 1688178090,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 498313,
       "num": 754827,
       "word": "蜱虫在老人脖子上吸完血大如黄豆",
@@ -5049,6 +5049,14 @@
       "onboard_time": 1687775025,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 495277,
+      "num": 495277,
+      "word": "宋雨琦演戏有一种熟人演戏的好笑",
+      "onboard_time": 1688177611,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 495214,
@@ -5097,14 +5105,6 @@
       "onboard_time": 1688168724,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490128,
-      "num": 490128,
-      "word": "宋雨琦演戏有一种熟人演戏的好笑",
-      "onboard_time": 1688177611,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 489786,
@@ -5593,6 +5593,14 @@
       "onboard_time": 1688048147,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442775,
+      "num": 442775,
+      "word": "我前面车快生了",
+      "onboard_time": 1688176770,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 441102,
@@ -6153,14 +6161,6 @@
       "onboard_time": 1688003490,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 396710,
-      "num": 396710,
-      "word": "我前面车快生了",
-      "onboard_time": 1688176770,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 396667,
@@ -6987,6 +6987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339963,
+      "num": 323599,
+      "word": "李现追星赢麻了",
+      "onboard_time": 1688180251,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 339675,
       "num": 339675,
       "word": "内推校友结果被她给开了",
@@ -7033,6 +7041,14 @@
       "onboard_time": 1687839954,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 335651,
+      "num": 305200,
+      "word": "易烊千玺粉色手链是自己串的",
+      "onboard_time": 1688180909,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 335611,
@@ -8179,14 +8195,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 290572,
-      "num": 290572,
-      "word": "李现追星赢麻了",
-      "onboard_time": 1688180251,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 290232,
       "num": 271787,
       "word": "黄轩红毯穿金戴银",
@@ -8475,6 +8483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277428,
+      "num": 258521,
+      "word": "王宝强把张颜齐认成了周杰伦",
+      "onboard_time": 1688180973,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277353,
       "num": 277353,
       "word": "李克勤红日真的好听",
@@ -8561,6 +8577,14 @@
       "onboard_time": 1687875769,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273531,
+      "num": 254699,
+      "word": "美国队长4杀青",
+      "onboard_time": 1688180611,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 273369,
@@ -9563,6 +9587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238506,
+      "num": 238506,
+      "word": "我写的左括号vs右括号",
+      "onboard_time": 1688178211,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238152,
       "num": 238152,
       "word": "人脸识别时一定要小心",
@@ -9763,12 +9795,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231434,
-      "num": 209523,
-      "word": "美国队长4杀青",
-      "onboard_time": 1688180611,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 231348,
+      "num": 214825,
+      "word": "金曲奖预测",
+      "onboard_time": 1688180190,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 231145,
@@ -9825,14 +9857,6 @@
       "onboard_time": 1687779877,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228484,
-      "num": 208884,
-      "word": "易烊千玺粉色手链是自己串的",
-      "onboard_time": 1688180909,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 227789,
@@ -9907,20 +9931,20 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 226043,
-      "num": 208759,
-      "word": "金曲奖预测",
-      "onboard_time": 1688180190,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 226023,
       "num": 226023,
       "word": "妈妈总是在向我的童年道歉",
       "onboard_time": 1688100275,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225813,
+      "num": 210427,
+      "word": "黄子韬当着马伯骞的面叫曾毅哥哥",
+      "onboard_time": 1688180492,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 225711,
@@ -10009,6 +10033,14 @@
       "onboard_time": 1687836697,
       "rank": 41,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 222923,
+      "num": 222923,
+      "word": "鼠鼠闯祸后将自己伪装成受害者",
+      "onboard_time": 1688180973,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 222865,
@@ -10563,14 +10595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208031,
-      "num": 208031,
-      "word": "我写的左括号vs右括号",
-      "onboard_time": 1688178211,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207962,
       "num": 207962,
       "word": "沈曼看李木子姬达狂响",
@@ -10761,14 +10785,6 @@
       "onboard_time": 1687741471,
       "rank": 42,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 200728,
-      "num": 200728,
-      "word": "王宝强把张颜齐认成了周杰伦",
-      "onboard_time": 1688180973,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 200591,
@@ -11481,14 +11497,6 @@
       "onboard_time": 1687863819,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183939,
-      "num": 183939,
-      "word": "鼠鼠闯祸后将自己伪装成受害者",
-      "onboard_time": 1688180973,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 183798,

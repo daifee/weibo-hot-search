@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688180980495,
+  "endTime": 1688181332640,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -11,7 +11,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2903133,
+      "raw_hot": 2992464,
       "num": 615597,
       "word": "张大大说白敬亭宋轶是真的就祝福",
       "onboard_time": 1688177252,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1504725,
+      "num": 1504725,
+      "word": "Angelababy 这是我结婚的地方",
+      "onboard_time": 1688179952,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1310274,
       "num": 1310274,
       "word": "消失的她票房超人生大事",
@@ -81,14 +89,6 @@
       "onboard_time": 1688139821,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1140578,
-      "num": 1140578,
-      "word": "Angelababy 这是我结婚的地方",
-      "onboard_time": 1688179952,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1118879,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517198,
+      "num": 587566,
+      "word": "晋江",
+      "onboard_time": 1688177370,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 513974,
       "num": 427802,
       "word": "14岁女孩500元卖头发被商贩剪坏",
@@ -315,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508859,
-      "num": 587566,
-      "word": "晋江",
-      "onboard_time": 1688177370,
-      "rank": 48,
-      "category": "科技"
+      "raw_hot": 512376,
+      "num": 394735,
+      "word": "不当老师教师资格证还能干嘛",
+      "onboard_time": 1688178090,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 507882,
@@ -331,12 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 498891,
-      "num": 394735,
-      "word": "不当老师教师资格证还能干嘛",
-      "onboard_time": 1688178090,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 495277,
+      "num": 495277,
+      "word": "宋雨琦演戏有一种熟人演戏的好笑",
+      "onboard_time": 1688177611,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 491782,
@@ -353,14 +361,6 @@
       "onboard_time": 1688168724,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490128,
-      "num": 490128,
-      "word": "宋雨琦演戏有一种熟人演戏的好笑",
-      "onboard_time": 1688177611,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 453844,
@@ -395,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 442775,
+      "num": 442775,
+      "word": "我前面车快生了",
+      "onboard_time": 1688176770,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 411492,
       "num": 411492,
       "word": "男子高铁站持刀刺2人致1死",
@@ -417,14 +425,6 @@
       "onboard_time": 1688147539,
       "rank": 10,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 396710,
-      "num": 396710,
-      "word": "我前面车快生了",
-      "onboard_time": 1688176770,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 391222,
@@ -465,6 +465,22 @@
       "onboard_time": 1688175570,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 339963,
+      "num": 323599,
+      "word": "李现追星赢麻了",
+      "onboard_time": 1688180251,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 335651,
+      "num": 305200,
+      "word": "易烊千玺粉色手链是自己串的",
+      "onboard_time": 1688180909,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 333659,
@@ -547,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290572,
-      "num": 290572,
-      "word": "李现追星赢麻了",
-      "onboard_time": 1688180251,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 284382,
       "num": 284382,
       "word": "歼20",
@@ -568,6 +576,22 @@
       "word": "韩剧恶鬼",
       "onboard_time": 1688141375,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277428,
+      "num": 258521,
+      "word": "王宝强把张颜齐认成了周杰伦",
+      "onboard_time": 1688180973,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 273531,
+      "num": 254699,
+      "word": "美国队长4杀青",
+      "onboard_time": 1688180611,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -707,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238506,
+      "num": 238506,
+      "word": "我写的左括号vs右括号",
+      "onboard_time": 1688178211,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237282,
       "num": 237282,
       "word": "七月",
@@ -715,12 +747,12 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 231434,
-      "num": 209523,
-      "word": "美国队长4杀青",
-      "onboard_time": 1688180611,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 231348,
+      "num": 214825,
+      "word": "金曲奖预测",
+      "onboard_time": 1688180190,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 230159,
@@ -739,20 +771,12 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 228484,
-      "num": 208884,
-      "word": "易烊千玺粉色手链是自己串的",
-      "onboard_time": 1688180909,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 226043,
-      "num": 208759,
-      "word": "金曲奖预测",
-      "onboard_time": 1688180190,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 225813,
+      "num": 210427,
+      "word": "黄子韬当着马伯骞的面叫曾毅哥哥",
+      "onboard_time": 1688180492,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 224941,
@@ -761,6 +785,14 @@
       "onboard_time": 1688177070,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222923,
+      "num": 222923,
+      "word": "鼠鼠闯祸后将自己伪装成受害者",
+      "onboard_time": 1688180973,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 220235,
@@ -811,28 +843,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 208031,
-      "num": 208031,
-      "word": "我写的左括号vs右括号",
-      "onboard_time": 1688178211,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 206484,
       "num": 206484,
       "word": "消失的她票房破15亿",
       "onboard_time": 1688167523,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200728,
-      "num": 200728,
-      "word": "王宝强把张颜齐认成了周杰伦",
-      "onboard_time": 1688180973,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 200317,
@@ -905,14 +921,6 @@
       "onboard_time": 1688130336,
       "rank": 29,
       "category": "科技,幽默"
-    },
-    {
-      "raw_hot": 183939,
-      "num": 183939,
-      "word": "鼠鼠闯祸后将自己伪装成受害者",
-      "onboard_time": 1688180973,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 181871,
