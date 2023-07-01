@@ -1,0 +1,410 @@
+{
+  "runTime": 1688193425639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6191416,
+        "num": 6565218,
+        "word": "江西一化工厂爆炸",
+        "onboard_time": 1688188412,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870615,
+        "num": 870615,
+        "word": "Angelababy 这是我结婚的地方",
+        "onboard_time": 1688179952,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137131,
+        "num": 731330,
+        "word": "香港回归这一刻再看依然心潮澎湃",
+        "onboard_time": 1688185354,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647443,
+        "num": 647443,
+        "word": "素颜的杨幂",
+        "onboard_time": 1688185112,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 624217,
+        "num": 624217,
+        "word": "茶百道 未定事件簿",
+        "onboard_time": 1688188534,
+        "rank": 4,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 604479,
+        "num": 604479,
+        "word": "夏目友人帐",
+        "onboard_time": 1688184692,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 582127,
+        "num": 582127,
+        "word": "邓佳鑫 北京",
+        "onboard_time": 1688188412,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458255,
+        "num": 458255,
+        "word": "Ella说被张嘉倪喜欢真的很好命",
+        "onboard_time": 1688188774,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423323,
+        "num": 423323,
+        "word": "刘宇宁王子文 蝉女",
+        "onboard_time": 1688192852,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329932,
+        "num": 415270,
+        "word": "中国女排vs韩国女排",
+        "onboard_time": 1688189432,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1467404,
+        "num": 413703,
+        "word": "曝范玮琪声明是陈建州发的",
+        "onboard_time": 1688184151,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647877,
+        "num": 413291,
+        "word": "江西杀害3名小孩嫌疑人被抓获",
+        "onboard_time": 1688192552,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411340,
+        "num": 411340,
+        "word": "高考657分想重新复读一年",
+        "onboard_time": 1688174852,
+        "rank": 12,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 570704,
+        "num": 409499,
+        "word": "三胞胎妈妈的孕肚",
+        "onboard_time": 1688182594,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 515962,
+        "num": 409375,
+        "word": "张大大说白敬亭宋轶是真的就祝福",
+        "onboard_time": 1688177252,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398240,
+        "num": 398240,
+        "word": "易烊千玺粉色手链是自己串的",
+        "onboard_time": 1688180909,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352244,
+        "num": 352244,
+        "word": "谢依霖说带孩子很幸福但不快乐",
+        "onboard_time": 1688187092,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321219,
+        "num": 321219,
+        "word": "白敬亭宋轶是不是忘记官宣了",
+        "onboard_time": 1688138323,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281143,
+        "num": 281143,
+        "word": "寄存物品6年未取的毕业生找到了",
+        "onboard_time": 1688182289,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 269015,
+        "num": 269015,
+        "word": "谢锋大使向美国总统拜登递交国书",
+        "onboard_time": 1688190273,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 668779,
+        "num": 268714,
+        "word": "牙医建议刷牙后不要立刻漱口",
+        "onboard_time": 1688183792,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433367,
+        "num": 267956,
+        "word": "终于知道肚子痛是哪里痛了",
+        "onboard_time": 1688182411,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315017,
+        "num": 267433,
+        "word": "沈月魏大勋是在饭局上认识的",
+        "onboard_time": 1688186734,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298896,
+        "num": 266532,
+        "word": "顾客吃肯德基发现鸡腿冒血水",
+        "onboard_time": 1688184151,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265878,
+        "num": 265878,
+        "word": "19970701零时零分零秒",
+        "onboard_time": 1688168905,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260515,
+        "num": 260515,
+        "word": "男子外出干活遇超大菌子",
+        "onboard_time": 1688192014,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 249543,
+        "num": 249543,
+        "word": "金智秀拖鞋被踩掉了",
+        "onboard_time": 1688191235,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242188,
+        "num": 242188,
+        "word": "中方对美国重返教科文组织投反对票",
+        "onboard_time": 1688185956,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 241617,
+        "num": 241617,
+        "word": "刘耀文 张艺谋电影",
+        "onboard_time": 1688184872,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238357,
+        "num": 238357,
+        "word": "Angelababy蝴蝶头",
+        "onboard_time": 1688193092,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 566778,
+        "num": 237328,
+        "word": "沈月把何炅的饭当狗粮",
+        "onboard_time": 1688192073,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482322,
+        "num": 237221,
+        "word": "玉骨遥",
+        "onboard_time": 1688188774,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350935,
+        "num": 236212,
+        "word": "奔跑吧是在吐槽吗",
+        "onboard_time": 1688172210,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234704,
+        "num": 234704,
+        "word": "法国骚乱",
+        "onboard_time": 1688170767,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232264,
+        "num": 232264,
+        "word": "突然误入了宫崎骏的天空",
+        "onboard_time": 1688189794,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229351,
+        "num": 229351,
+        "word": "陈思诚 橙色风暴",
+        "onboard_time": 1688184573,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225207,
+        "num": 225207,
+        "word": "男生记录女友每天出门的穿搭",
+        "onboard_time": 1688188955,
+        "rank": 36,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 216352,
+        "num": 216352,
+        "word": "八角笼中",
+        "onboard_time": 1688185713,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209797,
+        "num": 209797,
+        "word": "保洁阿姨离职前转给我600块",
+        "onboard_time": 1688181993,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 207194,
+        "num": 207194,
+        "word": "应急管理局回应江西一化工厂火灾",
+        "onboard_time": 1688190934,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206662,
+        "num": 206662,
+        "word": "大妈 你走夜路最好小心点",
+        "onboard_time": 1688188471,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206218,
+        "num": 206218,
+        "word": "你好星期六",
+        "onboard_time": 1688188412,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203031,
+        "num": 203031,
+        "word": "内娱纯元",
+        "onboard_time": 1688173530,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202532,
+        "num": 202532,
+        "word": "沈涛官宣得子",
+        "onboard_time": 1688177311,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194940,
+        "num": 194940,
+        "word": "离职后别用企业微信发文件",
+        "onboard_time": 1688186316,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193971,
+        "num": 193971,
+        "word": "江西化工厂爆炸暂无人员伤亡",
+        "onboard_time": 1688191176,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178303,
+        "num": 178303,
+        "word": "助手给白百何吃烤焦的面包",
+        "onboard_time": 1688175451,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177828,
+        "num": 177828,
+        "word": "黄朔 北京",
+        "onboard_time": 1688189313,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174308,
+        "num": 174308,
+        "word": "Angelababy王鹤棣传唱挖呀挖呀挖",
+        "onboard_time": 1688183373,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172468,
+        "num": 172468,
+        "word": "盘点满级猫咪的高能瞬间",
+        "onboard_time": 1688193334,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#征程#"
+    }
+  }
+}

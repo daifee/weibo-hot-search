@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688192602252,
+  "endTime": 1688193425639,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -3875,6 +3875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 647877,
+      "num": 413291,
+      "word": "江西杀害3名小孩嫌疑人被抓获",
+      "onboard_time": 1688192552,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647409,
       "num": 302784,
       "word": "王源的剧好多都改名了",
@@ -4073,6 +4081,14 @@
       "onboard_time": 1687862619,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 624217,
+      "num": 624217,
+      "word": "茶百道 未定事件簿",
+      "onboard_time": 1688188534,
+      "rank": 49,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 623638,
@@ -4339,12 +4355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 582329,
-      "num": 582329,
-      "word": "茶百道 未定事件簿",
-      "onboard_time": 1688188534,
-      "rank": 49,
-      "category": "游戏,财经"
+      "raw_hot": 582127,
+      "num": 582127,
+      "word": "邓佳鑫 北京",
+      "onboard_time": 1688188412,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 581067,
@@ -4411,14 +4427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 570993,
-      "num": 570993,
-      "word": "邓佳鑫 北京",
-      "onboard_time": 1688188412,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 570967,
       "num": 570967,
       "word": "小伙在没信号的原始森林隐居4年",
@@ -4465,6 +4473,14 @@
       "onboard_time": 1687881995,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 566778,
+      "num": 244553,
+      "word": "沈月把何炅的饭当狗粮",
+      "onboard_time": 1688192073,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 565822,
@@ -5971,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423323,
+      "num": 423323,
+      "word": "刘宇宁王子文 蝉女",
+      "onboard_time": 1688192852,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423192,
       "num": 414259,
       "word": "老板冷笑说你把简历投到了我另一家公司",
@@ -7419,6 +7443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329932,
+      "num": 415270,
+      "word": "中国女排vs韩国女排",
+      "onboard_time": 1688189432,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329836,
       "num": 329836,
       "word": "外卖骑手两项违法致人死亡",
@@ -7457,14 +7489,6 @@
       "onboard_time": 1688120674,
       "rank": 27,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 327554,
-      "num": 244553,
-      "word": "沈月把何炅的饭当狗粮",
-      "onboard_time": 1688192073,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 327487,
@@ -8220,7 +8244,7 @@
     },
     {
       "raw_hot": 298553,
-      "num": 242533,
+      "num": 269015,
       "word": "谢锋大使向美国总统拜登递交国书",
       "onboard_time": 1688190273,
       "rank": 33,
@@ -9115,14 +9139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265105,
-      "num": 239103,
-      "word": "江西杀害3名小孩嫌疑人被抓获",
-      "onboard_time": 1688192552,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264748,
       "num": 232760,
       "word": "早起有口臭是不是正常现象",
@@ -9249,6 +9265,14 @@
       "onboard_time": 1688037033,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260515,
+      "num": 260515,
+      "word": "男子外出干活遇超大菌子",
+      "onboard_time": 1688192014,
+      "rank": 41,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 260471,
@@ -9425,14 +9449,6 @@
       "onboard_time": 1688136760,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253794,
-      "num": 253794,
-      "word": "中国女排vs韩国女排",
-      "onboard_time": 1688189432,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 253632,
@@ -9921,6 +9937,14 @@
       "onboard_time": 1688178211,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238357,
+      "num": 238357,
+      "word": "Angelababy蝴蝶头",
+      "onboard_time": 1688193092,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 238296,
@@ -10481,14 +10505,6 @@
       "onboard_time": 1688112454,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219420,
-      "num": 219420,
-      "word": "男子外出干活遇超大菌子",
-      "onboard_time": 1688192014,
-      "rank": 41,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 219415,
@@ -12273,6 +12289,14 @@
       "onboard_time": 1688037995,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 172468,
+      "num": 172468,
+      "word": "盘点满级猫咪的高能瞬间",
+      "onboard_time": 1688193334,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 172411,
