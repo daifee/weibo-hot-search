@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688176645431,
+  "endTime": 1688177974111,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 2002962,
-      "num": 587705,
+      "num": 621140,
       "word": "内娱纯元",
       "onboard_time": 1688173530,
       "rank": 10,
@@ -953,6 +953,14 @@
       "onboard_time": 1688102254,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1849866,
+      "num": 1849866,
+      "word": "法国骚乱",
+      "onboard_time": 1688170767,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1845085,
@@ -1089,14 +1097,6 @@
       "onboard_time": 1688042859,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1700654,
-      "num": 1700654,
-      "word": "法国骚乱",
-      "onboard_time": 1688170767,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1698938,
@@ -1875,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1118879,
+      "num": 1118879,
+      "word": "助手给白百何吃烤焦的面包",
+      "onboard_time": 1688175451,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1113749,
       "num": 1113749,
       "word": "四胞胎高考出分父亲给警察打电话报喜",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1687751934,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1008833,
+      "num": 615597,
+      "word": "张大大说白敬亭宋轶是真的就祝福",
+      "onboard_time": 1688177252,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1006041,
@@ -2515,6 +2531,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 916396,
+      "num": 609013,
+      "word": "沈涛官宣得子",
+      "onboard_time": 1688177311,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 913517,
       "num": 913517,
       "word": "为白敬亭的回答发疯",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1687939057,
       "rank": 21,
       "category": "其它"
+    },
+    {
+      "raw_hot": 812245,
+      "num": 812245,
+      "word": "法国载40多名中国公民车辆被砸",
+      "onboard_time": 1688174491,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 811138,
@@ -3315,14 +3347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 713313,
-      "num": 579232,
-      "word": "法国载40多名中国公民车辆被砸",
-      "onboard_time": 1688174491,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 712939,
       "num": 712939,
       "word": "六公主拍的Angelababy",
@@ -3417,6 +3441,14 @@
       "onboard_time": 1688054976,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 697201,
+      "num": 697201,
+      "word": "高考657分想重新复读一年",
+      "onboard_time": 1688174852,
+      "rank": 23,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 695176,
@@ -3587,14 +3619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 673241,
-      "num": 544195,
-      "word": "助手给白百何吃烤焦的面包",
-      "onboard_time": 1688175451,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 672388,
       "num": 672388,
       "word": "三十岁女生给二十岁女生的建议",
@@ -3665,6 +3689,14 @@
       "onboard_time": 1687930656,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 660067,
+      "num": 481521,
+      "word": "韩素希担任田柾国MV主演",
+      "onboard_time": 1688176050,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 656829,
@@ -5763,14 +5795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 418104,
-      "num": 418104,
-      "word": "高考657分想重新复读一年",
-      "onboard_time": 1688174852,
-      "rank": 23,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 417909,
       "num": 371834,
       "word": "金靖说Angelababy照片还用P",
@@ -7051,6 +7075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332027,
+      "num": 410927,
+      "word": "大熊猫 我怎么下去是饲养员的事",
+      "onboard_time": 1688174429,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331617,
       "num": 331617,
       "word": "文森特加盟湖人",
@@ -7081,6 +7113,14 @@
       "onboard_time": 1687953812,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331168,
+      "num": 275541,
+      "word": "德塔文认证赵露思抗剧能力",
+      "onboard_time": 1688177431,
+      "rank": 31,
+      "category": "影视,影视"
     },
     {
       "raw_hot": 330494,
@@ -7731,14 +7771,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 304670,
-      "num": 304670,
-      "word": "大熊猫 我怎么下去是饲养员的事",
-      "onboard_time": 1688174429,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 304231,
       "num": 260491,
       "word": "周杰伦海口",
@@ -8315,14 +8347,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 279662,
-      "num": 279662,
-      "word": "韩素希担任田柾国MV主演",
-      "onboard_time": 1688176050,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 279569,
       "num": 299959,
       "word": "旅游再也不想给家人买东西了",
@@ -8499,6 +8523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272214,
+      "num": 272214,
+      "word": "偷偷藏不住泰国预告",
+      "onboard_time": 1688176532,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272045,
       "num": 272045,
       "word": "2024QS世界大学排名",
@@ -8513,6 +8545,14 @@
       "onboard_time": 1687744469,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271722,
+      "num": 271722,
+      "word": "宋雨琦演戏有一种熟人演戏的好笑",
+      "onboard_time": 1688177611,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 271646,
@@ -8867,6 +8907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259743,
+      "num": 259743,
+      "word": "泸州地震",
+      "onboard_time": 1688175030,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259733,
       "num": 613072,
       "word": "戴这俩冰袖是为了啥",
@@ -9017,14 +9065,6 @@
       "onboard_time": 1687739430,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253404,
-      "num": 253404,
-      "word": "泸州地震",
-      "onboard_time": 1688175030,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253247,
@@ -9217,6 +9257,14 @@
       "onboard_time": 1687995085,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247013,
+      "num": 247013,
+      "word": "我前面车快生了",
+      "onboard_time": 1688176770,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 246657,
@@ -9827,6 +9875,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 224941,
+      "num": 220219,
+      "word": "谢娜放狠话被打脸",
+      "onboard_time": 1688177070,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224020,
       "num": 224020,
       "word": "当我飞奔向你吻戏花絮",
@@ -9977,14 +10033,6 @@
       "onboard_time": 1688042499,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 219239,
-      "num": 219239,
-      "word": "偷偷藏不住泰国预告",
-      "onboard_time": 1688176532,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 218999,
@@ -11099,6 +11147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188625,
+      "num": 188625,
+      "word": "晋江",
+      "onboard_time": 1688177370,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 188617,
       "num": 188617,
       "word": "男生毕业回家带上了猫猫一家",
@@ -12211,6 +12267,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 150365,
+      "num": 1512157,
+      "word": "中国制造在土耳其火了",
+      "onboard_time": 1688129254,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150342,
       "num": 206135,
       "word": "西安交大整活视频有效招生",
@@ -12304,14 +12368,6 @@
       "word": "杭州地铁强冷弱冷车厢上线",
       "onboard_time": 1687951412,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145683,
-      "num": 1483132,
-      "word": "中国制造在土耳其火了",
-      "onboard_time": 1688129254,
-      "rank": 45,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688176645431,
+  "endTime": 1688177974111,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 2002962,
-      "num": 587705,
+      "num": 621140,
       "word": "内娱纯元",
       "onboard_time": 1688173530,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1849866,
+      "num": 1849866,
+      "word": "法国骚乱",
+      "onboard_time": 1688170767,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1796740,
@@ -41,14 +49,6 @@
       "onboard_time": 1688136760,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1700654,
-      "num": 1700654,
-      "word": "法国骚乱",
-      "onboard_time": 1688170767,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1310274,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1118879,
+      "num": 1118879,
+      "word": "助手给白百何吃烤焦的面包",
+      "onboard_time": 1688175451,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1066043,
       "num": 832063,
       "word": "白敬亭是有牵手肌肉记忆吗",
       "onboard_time": 1688133156,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1008833,
+      "num": 615597,
+      "word": "张大大说白敬亭宋轶是真的就祝福",
+      "onboard_time": 1688177252,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1002633,
@@ -107,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 916396,
+      "num": 609013,
+      "word": "沈涛官宣得子",
+      "onboard_time": 1688177311,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 916281,
       "num": 604266,
       "word": "第一次嗑内娱cp",
@@ -139,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 812245,
+      "num": 812245,
+      "word": "法国载40多名中国公民车辆被砸",
+      "onboard_time": 1688174491,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755649,
       "num": 755649,
       "word": "法国",
@@ -155,14 +187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 713313,
-      "num": 579232,
-      "word": "法国载40多名中国公民车辆被砸",
-      "onboard_time": 1688174491,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 703406,
       "num": 703406,
       "word": "seventeen官宣TMEA",
@@ -171,20 +195,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 697201,
+      "num": 697201,
+      "word": "高考657分想重新复读一年",
+      "onboard_time": 1688174852,
+      "rank": 23,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 695176,
       "num": 695176,
       "word": "绝世网红",
       "onboard_time": 1688172990,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 673241,
-      "num": 544195,
-      "word": "助手给白百何吃烤焦的面包",
-      "onboard_time": 1688175451,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 672388,
@@ -201,6 +225,14 @@
       "onboard_time": 1688109633,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660067,
+      "num": 481521,
+      "word": "韩素希担任田柾国MV主演",
+      "onboard_time": 1688176050,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 632695,
@@ -323,14 +355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 418104,
-      "num": 418104,
-      "word": "高考657分想重新复读一年",
-      "onboard_time": 1688174852,
-      "rank": 23,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 411492,
       "num": 411492,
       "word": "男子高铁站持刀刺2人致1死",
@@ -387,12 +411,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332027,
+      "num": 410927,
+      "word": "大熊猫 我怎么下去是饲养员的事",
+      "onboard_time": 1688174429,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331617,
       "num": 331617,
       "word": "文森特加盟湖人",
       "onboard_time": 1688171066,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331168,
+      "num": 275541,
+      "word": "德塔文认证赵露思抗剧能力",
+      "onboard_time": 1688177431,
+      "rank": 31,
+      "category": "影视,影视"
     },
     {
       "raw_hot": 329045,
@@ -427,14 +467,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 304670,
-      "num": 304670,
-      "word": "大熊猫 我怎么下去是饲养员的事",
-      "onboard_time": 1688174429,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 303314,
       "num": 244528,
       "word": "艾伦阿金去世",
@@ -467,19 +499,27 @@
       "category": "军事"
     },
     {
-      "raw_hot": 279662,
-      "num": 279662,
-      "word": "韩素希担任田柾国MV主演",
-      "onboard_time": 1688176050,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 279162,
       "num": 252386,
       "word": "韩剧恶鬼",
       "onboard_time": 1688141375,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272214,
+      "num": 272214,
+      "word": "偷偷藏不住泰国预告",
+      "onboard_time": 1688176532,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271722,
+      "num": 271722,
+      "word": "宋雨琦演戏有一种熟人演戏的好笑",
+      "onboard_time": 1688177611,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -515,20 +555,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259743,
+      "num": 259743,
+      "word": "泸州地震",
+      "onboard_time": 1688175030,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256448,
       "num": 256448,
       "word": "朱婷",
       "onboard_time": 1688135142,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253404,
-      "num": 253404,
-      "word": "泸州地震",
-      "onboard_time": 1688175030,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251164,
@@ -545,6 +585,14 @@
       "onboard_time": 1688175930,
       "rank": 40,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 247013,
+      "num": 247013,
+      "word": "我前面车快生了",
+      "onboard_time": 1688176770,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 246160,
@@ -611,20 +659,20 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 224941,
+      "num": 220219,
+      "word": "谢娜放狠话被打脸",
+      "onboard_time": 1688177070,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220235,
       "num": 220235,
       "word": "爸爸用15元买了孩子一下午的快乐",
       "onboard_time": 1688111197,
       "rank": 38,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 219239,
-      "num": 219239,
-      "word": "偷偷藏不住泰国预告",
-      "onboard_time": 1688176532,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 218710,
@@ -723,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188625,
+      "num": 188625,
+      "word": "晋江",
+      "onboard_time": 1688177370,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 187154,
       "num": 187154,
       "word": "披荆斩棘的哥哥",
@@ -787,20 +843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150365,
+      "num": 1512157,
+      "word": "中国制造在土耳其火了",
+      "onboard_time": 1688129254,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147179,
       "num": 174353,
       "word": "法斗的叫声能有多难听",
       "onboard_time": 1688140658,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145683,
-      "num": 1483132,
-      "word": "中国制造在土耳其火了",
-      "onboard_time": 1688129254,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135456,

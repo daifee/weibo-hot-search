@@ -1,0 +1,410 @@
+{
+  "runTime": 1688177974111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2333767,
+        "num": 2333767,
+        "word": "奔跑吧是在吐槽吗",
+        "onboard_time": 1688172210,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1849866,
+        "num": 1849866,
+        "word": "法国骚乱",
+        "onboard_time": 1688170767,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150365,
+        "num": 1512157,
+        "word": "中国制造在土耳其火了",
+        "onboard_time": 1688129254,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1269257,
+        "num": 1269257,
+        "word": "白敬亭宋轶是不是忘记官宣了",
+        "onboard_time": 1688138323,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1118879,
+        "num": 1118879,
+        "word": "助手给白百何吃烤焦的面包",
+        "onboard_time": 1688175451,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1067908,
+        "num": 1067908,
+        "word": "消失的她票房超人生大事",
+        "onboard_time": 1688168303,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821934,
+        "num": 821934,
+        "word": "刘令姿版小兰花有父母了",
+        "onboard_time": 1688175331,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812245,
+        "num": 812245,
+        "word": "法国载40多名中国公民车辆被砸",
+        "onboard_time": 1688174491,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697201,
+        "num": 697201,
+        "word": "高考657分想重新复读一年",
+        "onboard_time": 1688174852,
+        "rank": 8,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 626200,
+        "num": 626200,
+        "word": "越南一位老人50年没睡觉",
+        "onboard_time": 1688139821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1962441,
+        "num": 621140,
+        "word": "内娱纯元",
+        "onboard_time": 1688173530,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1008833,
+        "num": 615597,
+        "word": "张大大说白敬亭宋轶是真的就祝福",
+        "onboard_time": 1688177252,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 916396,
+        "num": 609013,
+        "word": "沈涛官宣得子",
+        "onboard_time": 1688177311,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593410,
+        "num": 593410,
+        "word": "三十岁女生给二十岁女生的建议",
+        "onboard_time": 1688166077,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 511725,
+        "num": 511725,
+        "word": "19970701零时零分零秒",
+        "onboard_time": 1688168905,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660067,
+        "num": 481521,
+        "word": "韩素希担任田柾国MV主演",
+        "onboard_time": 1688176050,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 570243,
+        "num": 471802,
+        "word": "绝世网红",
+        "onboard_time": 1688172990,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442658,
+        "num": 442658,
+        "word": "起哄怂恿轻生者跳楼男子被行拘",
+        "onboard_time": 1688168724,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419070,
+        "num": 419070,
+        "word": "章泽天回应拒绝张艺谋演戏",
+        "onboard_time": 1688136760,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 332027,
+        "num": 410927,
+        "word": "大熊猫 我怎么下去是饲养员的事",
+        "onboard_time": 1688174429,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 736315,
+        "num": 410774,
+        "word": "成年人改名原来这么简单",
+        "onboard_time": 1688172990,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 552757,
+        "num": 410447,
+        "word": "爱奇艺工作人员 白敬亭好好对宋轶",
+        "onboard_time": 1688137964,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409820,
+        "num": 409820,
+        "word": "肖战香港vlog",
+        "onboard_time": 1688174791,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389368,
+        "num": 389368,
+        "word": "14岁女孩500元卖头发被商贩剪坏",
+        "onboard_time": 1688173649,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345582,
+        "num": 380738,
+        "word": "因为洗樱桃太慢被老板辞退了",
+        "onboard_time": 1688172990,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392125,
+        "num": 379953,
+        "word": "奔跑吧延期播出",
+        "onboard_time": 1688121335,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377484,
+        "num": 377484,
+        "word": "刘畊宏晒与郭艾伦李现林书豪合照",
+        "onboard_time": 1688173649,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 357657,
+        "num": 357657,
+        "word": "台媒曝陈建州曾偷拍大牙照片",
+        "onboard_time": 1688125054,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316382,
+        "num": 316382,
+        "word": "Burberry雪糕",
+        "onboard_time": 1688171908,
+        "rank": 28,
+        "category": "美食,时尚"
+      },
+      {
+        "raw_hot": 277837,
+        "num": 277837,
+        "word": "7岁女孩有弟弟后眼睛突然看不清",
+        "onboard_time": 1688171728,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337882,
+        "num": 276348,
+        "word": "沈月问真的有必要生小孩吗",
+        "onboard_time": 1688170466,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331168,
+        "num": 275541,
+        "word": "德塔文认证赵露思抗剧能力",
+        "onboard_time": 1688177431,
+        "rank": 31,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 273717,
+        "num": 273717,
+        "word": "里面的狗都吃撑了外面的狗子还没转明白",
+        "onboard_time": 1688171427,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273440,
+        "num": 273440,
+        "word": "白敬亭是有牵手肌肉记忆吗",
+        "onboard_time": 1688133156,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272214,
+        "num": 272214,
+        "word": "偷偷藏不住泰国预告",
+        "onboard_time": 1688176532,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271722,
+        "num": 271722,
+        "word": "宋雨琦演戏有一种熟人演戏的好笑",
+        "onboard_time": 1688177611,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264579,
+        "num": 264579,
+        "word": "文森特加盟湖人",
+        "onboard_time": 1688171066,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259743,
+        "num": 259743,
+        "word": "泸州地震",
+        "onboard_time": 1688175030,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247013,
+        "num": 247013,
+        "word": "我前面车快生了",
+        "onboard_time": 1688176770,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224816,
+        "num": 224816,
+        "word": "冯巩牛群1997年的相声",
+        "onboard_time": 1688171728,
+        "rank": 39,
+        "category": "幽默,综艺"
+      },
+      {
+        "raw_hot": 258497,
+        "num": 220267,
+        "word": "李现周杰伦花海大合唱",
+        "onboard_time": 1688137303,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224941,
+        "num": 220219,
+        "word": "谢娜放狠话被打脸",
+        "onboard_time": 1688177070,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213193,
+        "num": 213193,
+        "word": "白敬亭宋轶同框",
+        "onboard_time": 1688113056,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207331,
+        "num": 207331,
+        "word": "间谍潜藏十七年终落网",
+        "onboard_time": 1688166077,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206784,
+        "num": 206784,
+        "word": "唐朝小朋友穿的背带裤",
+        "onboard_time": 1688172391,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205244,
+        "num": 205244,
+        "word": "奔跑吧",
+        "onboard_time": 1688175268,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204000,
+        "num": 204000,
+        "word": "建党节",
+        "onboard_time": 1688168605,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 193060,
+        "num": 193060,
+        "word": "班主任让高三教室一整年都开满鲜花",
+        "onboard_time": 1688169326,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188625,
+        "num": 188625,
+        "word": "晋江",
+        "onboard_time": 1688177370,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 184383,
+        "num": 184383,
+        "word": "中国共产党成立102周年",
+        "onboard_time": 1688171129,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝建党102周年#"
+    }
+  }
+}
