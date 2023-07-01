@@ -1,10 +1,10 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688189652406,
+  "endTime": 1688192602252,
   "band_list": [
     {
-      "raw_hot": 4094429,
-      "num": 4688858,
+      "raw_hot": 6846023,
+      "num": 7805091,
       "word": "江西一化工厂爆炸",
       "onboard_time": 1688188412,
       "rank": 5,
@@ -387,6 +387,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 582329,
+      "num": 582329,
+      "word": "茶百道 未定事件簿",
+      "onboard_time": 1688188534,
+      "rank": 49,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 576248,
       "num": 343024,
       "word": "保洁阿姨离职前转给我600块",
@@ -403,8 +411,8 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 569391,
-      "num": 569391,
+      "raw_hot": 570993,
+      "num": 570993,
       "word": "邓佳鑫 北京",
       "onboard_time": 1688188412,
       "rank": 33,
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476288,
+      "num": 476288,
+      "word": "Ella说被张嘉倪喜欢真的很好命",
+      "onboard_time": 1688188774,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453844,
       "num": 453844,
       "word": "刘畊宏晒与郭艾伦李现林书豪合照",
@@ -651,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359906,
-      "num": 359906,
-      "word": "茶百道 未定事件簿",
-      "onboard_time": 1688188534,
-      "rank": 49,
-      "category": "游戏,财经"
-    },
-    {
       "raw_hot": 352163,
       "num": 342328,
       "word": "祝福香港祝福祖国",
@@ -705,6 +713,14 @@
       "onboard_time": 1688136343,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327554,
+      "num": 244553,
+      "word": "沈月把何炅的饭当狗粮",
+      "onboard_time": 1688192073,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 326393,
@@ -779,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298553,
+      "num": 242533,
+      "word": "谢锋大使向美国总统拜登递交国书",
+      "onboard_time": 1688190273,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 298003,
       "num": 298003,
       "word": "黄朔 北京",
@@ -833,14 +857,6 @@
       "onboard_time": 1688178332,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 272765,
-      "num": 272765,
-      "word": "Ella说被张嘉倪喜欢真的很好命",
-      "onboard_time": 1688188774,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 272214,
@@ -899,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265105,
+      "num": 239103,
+      "word": "江西杀害3名小孩嫌疑人被抓获",
+      "onboard_time": 1688192552,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264087,
       "num": 243428,
       "word": "黄子韬当着马伯骞的面叫曾毅哥哥",
@@ -931,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253794,
+      "num": 253794,
+      "word": "中国女排vs韩国女排",
+      "onboard_time": 1688189432,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252070,
       "num": 252070,
       "word": "女子叫来特警弟弟合力救下坠河男孩",
@@ -955,12 +987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250152,
+      "num": 250152,
+      "word": "金智秀拖鞋被踩掉了",
+      "onboard_time": 1688191235,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249626,
       "num": 249626,
       "word": "今天是香港回归祖国26周年",
       "onboard_time": 1688175930,
       "rank": 40,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 249459,
+      "num": 249459,
+      "word": "突然误入了宫崎骏的天空",
+      "onboard_time": 1688189794,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 246160,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1688178211,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238296,
+      "num": 238296,
+      "word": "应急管理局回应江西一化工厂火灾",
+      "onboard_time": 1688190934,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237282,
@@ -1099,6 +1155,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 219420,
+      "num": 219420,
+      "word": "男子外出干活遇超大菌子",
+      "onboard_time": 1688192014,
+      "rank": 41,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 218710,
       "num": 218710,
       "word": "徐穗珍开通ins",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1688127274,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217027,
+      "num": 217027,
+      "word": "江西化工厂爆炸暂无人员伤亡",
+      "onboard_time": 1688191176,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216736,
@@ -1163,12 +1235,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 208488,
+      "num": 236400,
+      "word": "外国友人点赞万能的蓝朋友",
+      "onboard_time": 1688191773,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206484,
       "num": 206484,
       "word": "消失的她票房破15亿",
       "onboard_time": 1688167523,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201661,
+      "num": 201661,
+      "word": "男子为执勤民警送西瓜后转身跑开",
+      "onboard_time": 1688192492,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200317,
@@ -1185,6 +1273,14 @@
       "onboard_time": 1688136760,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194437,
+      "num": 194437,
+      "word": "韩素希的表情",
+      "onboard_time": 1688191113,
+      "rank": 49,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 190221,
@@ -1307,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162758,
-      "num": 199342,
-      "word": "中国女排vs韩国女排",
-      "onboard_time": 1688189432,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150365,
       "num": 1512157,
       "word": "中国制造在土耳其火了",
@@ -1323,7 +1411,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148033,
+      "raw_hot": 149845,
       "num": 1205913,
       "word": "香港回归这一刻再看依然心潮澎湃",
       "onboard_time": 1688185354,
