@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688286157974,
+  "endTime": 1688286938831,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -1291,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1719252,
+      "num": 1417665,
+      "word": "宋轶说喜欢胖的男生",
+      "onboard_time": 1688283033,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1716141,
       "num": 1716141,
       "word": "金曲奖",
@@ -1459,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1613814,
+      "num": 838498,
+      "word": "白敬亭小号改名白敬亭94玩儿",
+      "onboard_time": 1688284833,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1585317,
       "num": 1585317,
       "word": "私拆女儿档案的母亲道歉",
@@ -1507,8 +1523,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1525520,
-      "num": 1525520,
+      "raw_hot": 1553372,
+      "num": 1553372,
       "word": "杨舒予",
       "onboard_time": 1688282852,
       "rank": 18,
@@ -1563,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1485155,
+      "num": 514958,
+      "word": "张丹峰问为什么没早点遇见洪欣",
+      "onboard_time": 1688285254,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1478331,
       "num": 916390,
       "word": "张雪峰给普通女生的报考建议",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1687952554,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1417665,
-      "num": 1417665,
-      "word": "宋轶说喜欢胖的男生",
-      "onboard_time": 1688283033,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1404625,
@@ -1937,14 +1953,6 @@
       "onboard_time": 1687764528,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1254429,
-      "num": 488503,
-      "word": "白敬亭小号改名白敬亭94玩儿",
-      "onboard_time": 1688284833,
-      "rank": 10,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1253056,
@@ -2825,14 +2833,6 @@
       "onboard_time": 1687794457,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 954997,
-      "num": 483939,
-      "word": "张丹峰问为什么没早点遇见洪欣",
-      "onboard_time": 1688285254,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 953028,
@@ -5092,7 +5092,7 @@
     },
     {
       "raw_hot": 595287,
-      "num": 307564,
+      "num": 340497,
       "word": "张雪峰出院",
       "onboard_time": 1688284532,
       "rank": 24,
@@ -5105,6 +5105,14 @@
       "onboard_time": 1688016397,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593699,
+      "num": 593699,
+      "word": "星巴克与BLACKPINK联手推出周边",
+      "onboard_time": 1688284833,
+      "rank": 7,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 593679,
@@ -5329,14 +5337,6 @@
       "onboard_time": 1688198132,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 569111,
-      "num": 569111,
-      "word": "星巴克与BLACKPINK联手推出周边",
-      "onboard_time": 1688284833,
-      "rank": 7,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 568219,
@@ -6235,12 +6235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499250,
+      "num": 499250,
+      "word": "封神",
+      "onboard_time": 1688010455,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 499158,
       "num": 2000029,
       "word": "北大学生毕业论文致谢流浪猫",
       "onboard_time": 1687949494,
       "rank": 4,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 498752,
+      "num": 498752,
+      "word": "日本女篮",
+      "onboard_time": 1688285613,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 498313,
@@ -6681,6 +6697,14 @@
       "onboard_time": 1687759496,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 461731,
+      "num": 461731,
+      "word": "把歌分享到朋友圈的原因",
+      "onboard_time": 1688283994,
+      "rank": 16,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 461496,
@@ -7403,6 +7427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410426,
+      "num": 410426,
+      "word": "宋伊人有容貌焦虑",
+      "onboard_time": 1688284174,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410245,
       "num": 410245,
       "word": "连续出警8小时消防员归队带妆吃饭",
@@ -7627,14 +7659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396318,
-      "num": 302540,
-      "word": "日本女篮",
-      "onboard_time": 1688285613,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 395902,
       "num": 397319,
       "word": "五险一金为什么重要",
@@ -7697,14 +7721,6 @@
       "onboard_time": 1687860640,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392614,
-      "num": 392614,
-      "word": "宋伊人有容貌焦虑",
-      "onboard_time": 1688284174,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 392264,
@@ -7809,14 +7825,6 @@
       "onboard_time": 1688007333,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 385892,
-      "num": 385892,
-      "word": "把歌分享到朋友圈的原因",
-      "onboard_time": 1688283994,
-      "rank": 16,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 385510,
@@ -8057,14 +8065,6 @@
       "onboard_time": 1688188955,
       "rank": 23,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 374837,
-      "num": 374837,
-      "word": "封神",
-      "onboard_time": 1688010455,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 374701,
@@ -8433,6 +8433,14 @@
       "onboard_time": 1687792239,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349922,
+      "num": 349922,
+      "word": "填个志愿都快要把家填散了",
+      "onboard_time": 1688284594,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 349775,
@@ -9315,14 +9323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315901,
-      "num": 315901,
-      "word": "填个志愿都快要把家填散了",
-      "onboard_time": 1688284594,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 315861,
       "num": 309708,
       "word": "我只喜欢你的人设",
@@ -9819,6 +9819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300651,
+      "num": 300651,
+      "word": "熊孩子玩扎带勒脖被发现时已充血肿胀",
+      "onboard_time": 1688283214,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300553,
       "num": 300553,
       "word": "长风渡见面会",
@@ -9849,14 +9857,6 @@
       "onboard_time": 1687850139,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 299598,
-      "num": 299598,
-      "word": "熊孩子玩扎带勒脖被发现时已充血肿胀",
-      "onboard_time": 1688283214,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299504,
@@ -10907,6 +10907,14 @@
       "category": "幽默,综艺"
     },
     {
+      "raw_hot": 265853,
+      "num": 265853,
+      "word": "女子出游回家后洗面奶被灌尿液",
+      "onboard_time": 1688283513,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265836,
       "num": 265836,
       "word": "大妈 你走夜路最好小心点",
@@ -11105,6 +11113,14 @@
       "onboard_time": 1688220759,
       "rank": 38,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 260527,
+      "num": 260527,
+      "word": "嘴唇中间出现的白线是什么",
+      "onboard_time": 1688286872,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 260515,
@@ -11377,14 +11393,6 @@
       "onboard_time": 1687935396,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 252768,
-      "num": 252768,
-      "word": "女子出游回家后洗面奶被灌尿液",
-      "onboard_time": 1688283513,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252579,
@@ -11729,6 +11737,14 @@
       "onboard_time": 1688006610,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243581,
+      "num": 243581,
+      "word": "段嘉许桑稚处处吻",
+      "onboard_time": 1688286393,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 243496,
@@ -12331,6 +12347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225911,
+      "num": 225911,
+      "word": "更适合中国宝宝体质的蹦迪现场",
+      "onboard_time": 1688286872,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 225775,
       "num": 225775,
       "word": "毕业后被最喜欢的老师拉黑了",
@@ -12771,6 +12795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216081,
+      "num": 216081,
+      "word": "王鹤棣的神灯显灵了",
+      "onboard_time": 1688285792,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215940,
       "num": 215940,
       "word": "主要起一个造型上的作用",
@@ -12905,6 +12937,14 @@
       "onboard_time": 1688001214,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 213081,
+      "num": 213081,
+      "word": "老一辈穿上汉服能有多惊艳",
+      "onboard_time": 1688286274,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 212834,
@@ -13241,14 +13281,6 @@
       "onboard_time": 1688273852,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205799,
-      "num": 205799,
-      "word": "王鹤棣的神灯显灵了",
-      "onboard_time": 1688285792,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 205548,
@@ -16975,6 +17007,14 @@
       "num": 1223093,
       "word": "穿越中国新基建",
       "onboard_time": 1687922554,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39384,
+      "num": 860421,
+      "word": "中国动车组单列试验时速453公里",
+      "onboard_time": 1688267731,
       "rank": 2,
       "category": "社会新闻"
     },
