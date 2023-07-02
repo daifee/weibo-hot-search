@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688332550813,
+  "endTime": 1688333628055,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -5731,6 +5731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27219,
+      "num": 30674,
+      "word": "没有穿尿不湿的干不了的事",
+      "onboard_time": 1688327412,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27214,
       "num": 32478,
       "word": "中国夫妇讲述在法遇袭经历",
@@ -5747,12 +5755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26568,
-      "num": 30674,
-      "word": "没有穿尿不湿的干不了的事",
-      "onboard_time": 1688327412,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 21748,
+      "num": 23717,
+      "word": "Angelababy尘缘一滴泪镜头",
+      "onboard_time": 1688332452,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 19992,
