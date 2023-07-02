@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688296500209,
+  "endTime": 1688297630445,
   "band_list": [
     {
       "raw_hot": 7958830,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1555115,
+      "num": 1555115,
+      "word": "中国人民大学称已报警",
+      "onboard_time": 1688293536,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1553372,
       "num": 1553372,
       "word": "杨舒予",
@@ -403,14 +411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1341102,
-      "num": 1341102,
-      "word": "中国人民大学称已报警",
-      "onboard_time": 1688293536,
-      "rank": 12,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1327785,
       "num": 1036990,
       "word": "素颜的杨幂",
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1326918,
-      "num": 800986,
+      "num": 807699,
       "word": "人民大学通报学生信息泄露事件",
       "onboard_time": 1688294134,
       "rank": 10,
@@ -464,6 +464,14 @@
       "word": "刘瑕被网暴",
       "onboard_time": 1688205391,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1207862,
+      "num": 1207862,
+      "word": "玉骨遥任敏演技",
+      "onboard_time": 1688296175,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -553,6 +561,14 @@
       "onboard_time": 1688133156,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1055281,
+      "num": 1055281,
+      "word": "大老远来找男朋友发现他没关空调",
+      "onboard_time": 1688294072,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 1041378,
@@ -699,12 +715,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 912969,
-      "num": 912969,
-      "word": "大老远来找男朋友发现他没关空调",
-      "onboard_time": 1688294072,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 901008,
+      "num": 901008,
+      "word": "赵露思8集换29套衣服",
+      "onboard_time": 1688295933,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 892109,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 800638,
-      "num": 800638,
+      "num": 822335,
       "word": "中国女排3比2战胜美国",
       "onboard_time": 1688294734,
       "rank": 11,
@@ -913,6 +929,14 @@
       "onboard_time": 1688204011,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 767313,
+      "num": 767313,
+      "word": "腾讯会员",
+      "onboard_time": 1688296055,
+      "rank": 32,
+      "category": "影视,科技"
     },
     {
       "raw_hot": 767122,
@@ -1283,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 617491,
+      "num": 617491,
+      "word": "玉骨遥首播评价",
+      "onboard_time": 1688297434,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606794,
       "num": 606794,
       "word": "大学毕业生带小黄鸭坐火车被拒",
@@ -1571,22 +1603,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 518042,
-      "num": 518042,
-      "word": "赵露思8集换29套衣服",
-      "onboard_time": 1688295933,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 517444,
-      "num": 517444,
-      "word": "玉骨遥任敏演技",
-      "onboard_time": 1688296175,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 514536,
       "num": 422496,
       "word": "金曲奖红毯",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1688225498,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 470438,
+      "num": 406894,
+      "word": "爱看古偶的有福了",
+      "onboard_time": 1688295873,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 470434,
@@ -2039,14 +2063,6 @@
       "num": 316506,
       "word": "宣璐汪卓成二搭演情侣",
       "onboard_time": 1688263767,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 406894,
-      "num": 406894,
-      "word": "爱看古偶的有福了",
-      "onboard_time": 1688295873,
       "rank": 21,
       "category": "影视"
     },
@@ -2355,6 +2371,22 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 343581,
+      "num": 343581,
+      "word": "外卖已经发展成这样了吗",
+      "onboard_time": 1688295395,
+      "rank": 39,
+      "category": "科技,美食"
+    },
+    {
+      "raw_hot": 342218,
+      "num": 342218,
+      "word": "女排李盈莹",
+      "onboard_time": 1688295696,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341376,
       "num": 341376,
       "word": "山东71位书记七一当天齐聚沂蒙山",
@@ -2379,6 +2411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 338450,
+      "num": 338450,
+      "word": "跑男团全员为Angelababy新剧打call",
+      "onboard_time": 1688294911,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337910,
       "num": 337910,
       "word": "男子飞机上涉嫌摸乘务员大腿被警告",
@@ -2393,14 +2433,6 @@
       "onboard_time": 1688134478,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332978,
-      "num": 332978,
-      "word": "女排李盈莹",
-      "onboard_time": 1688295696,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 332821,
@@ -2825,14 +2857,6 @@
       "onboard_time": 1688203832,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281835,
-      "num": 281835,
-      "word": "腾讯会员",
-      "onboard_time": 1688296055,
-      "rank": 32,
-      "category": "影视,科技"
     },
     {
       "raw_hot": 279663,
@@ -3363,14 +3387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241977,
-      "num": 241977,
-      "word": "跑男团全员为Angelababy新剧打call",
-      "onboard_time": 1688294911,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241049,
       "num": 241049,
       "word": "班主任让高三教室一整年都开满鲜花",
@@ -3400,6 +3416,14 @@
       "word": "恶鬼",
       "onboard_time": 1688141375,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 240361,
+      "num": 240361,
+      "word": "秋水一肚子坏水",
+      "onboard_time": 1688297316,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -3569,14 +3593,6 @@
       "onboard_time": 1688234539,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 226890,
-      "num": 226890,
-      "word": "外卖已经发展成这样了吗",
-      "onboard_time": 1688295395,
-      "rank": 39,
-      "category": "科技,美食"
     },
     {
       "raw_hot": 225911,
@@ -3787,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214940,
+      "num": 214940,
+      "word": "周深连续5天微指数破亿",
+      "onboard_time": 1688296595,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214435,
       "num": 214435,
       "word": "女大学生向男生泼热水致二度烧伤",
@@ -3843,6 +3867,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 210608,
+      "num": 807985,
+      "word": "原来被大熊猫追的压迫感这么强",
+      "onboard_time": 1688297134,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209904,
       "num": 209904,
       "word": "导游因游客发视频表扬涨粉百万",
@@ -3857,6 +3889,14 @@
       "onboard_time": 1688268991,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 208570,
+      "num": 208570,
+      "word": "EXO正规七辑EXIST配置",
+      "onboard_time": 1688297194,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 208488,
@@ -4483,6 +4523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 160818,
+      "num": 1075428,
+      "word": "这只熊猫怎么长得又忧郁又开心的",
+      "onboard_time": 1688296774,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160159,
       "num": 160159,
       "word": "小女孩给狗狗示范上沙发",
@@ -4585,6 +4633,14 @@
       "onboard_time": 1688202095,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 144864,
+      "num": 144864,
+      "word": "在真正想要的事情上做一个固执的人",
+      "onboard_time": 1688295334,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 143252,

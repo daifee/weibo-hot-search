@@ -1,0 +1,410 @@
+{
+  "runTime": 1688297630445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6996038,
+        "num": 6996038,
+        "word": "玉骨遥今日开播",
+        "onboard_time": 1688293415,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403723,
+        "num": 2804048,
+        "word": "看大熊猫泡澡消暑效果100%",
+        "onboard_time": 1688294614,
+        "rank": 1,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 29798,
+        "num": 2083567,
+        "word": "中国动车组单列试验时速453公里",
+        "onboard_time": 1688267731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1818191,
+        "num": 1818191,
+        "word": "曾黎玉骨遥上线3集就下线",
+        "onboard_time": 1688295216,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1555115,
+        "num": 1555115,
+        "word": "中国人民大学称已报警",
+        "onboard_time": 1688293536,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1207862,
+        "num": 1207862,
+        "word": "玉骨遥任敏演技",
+        "onboard_time": 1688296175,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160818,
+        "num": 1075428,
+        "word": "这只熊猫怎么长得又忧郁又开心的",
+        "onboard_time": 1688296774,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1055281,
+        "num": 1055281,
+        "word": "大老远来找男朋友发现他没关空调",
+        "onboard_time": 1688294072,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 901008,
+        "num": 901008,
+        "word": "赵露思8集换29套衣服",
+        "onboard_time": 1688295933,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634093,
+        "num": 822335,
+        "word": "中国女排3比2战胜美国",
+        "onboard_time": 1688294734,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210608,
+        "num": 807985,
+        "word": "原来被大熊猫追的压迫感这么强",
+        "onboard_time": 1688297134,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920314,
+        "num": 807699,
+        "word": "人民大学通报学生信息泄露事件",
+        "onboard_time": 1688294134,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 797234,
+        "num": 797234,
+        "word": "正式被确诊为懒羊羊",
+        "onboard_time": 1688289814,
+        "rank": 12,
+        "category": "幽默,动漫"
+      },
+      {
+        "raw_hot": 767313,
+        "num": 767313,
+        "word": "腾讯会员",
+        "onboard_time": 1688296055,
+        "rank": 13,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 618914,
+        "num": 618914,
+        "word": "白敬亭小号改名白敬亭94玩儿",
+        "onboard_time": 1688284833,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 617491,
+        "num": 617491,
+        "word": "玉骨遥首播评价",
+        "onboard_time": 1688297434,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515676,
+        "num": 515676,
+        "word": "宋轶发了五条微博",
+        "onboard_time": 1688289934,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392848,
+        "num": 392848,
+        "word": "广东人别再乱开川菜馆了",
+        "onboard_time": 1688294674,
+        "rank": 17,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 387882,
+        "num": 387882,
+        "word": "迪丽热巴刘雨昕珠宝大片",
+        "onboard_time": 1688293054,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 344941,
+        "num": 382948,
+        "word": "外国男子在中国故意将包落下没人偷",
+        "onboard_time": 1688292514,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452359,
+        "num": 382639,
+        "word": "因女儿考705分打折庆祝的凉菜摊关门",
+        "onboard_time": 1688279430,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379643,
+        "num": 379643,
+        "word": "宋轶说喜欢胖的男生",
+        "onboard_time": 1688283033,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376916,
+        "num": 376916,
+        "word": "告诉婆婆我身体不能生孩子",
+        "onboard_time": 1688282433,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366811,
+        "num": 366811,
+        "word": "张丹峰问为什么没早点遇见洪欣",
+        "onboard_time": 1688285254,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343581,
+        "num": 343581,
+        "word": "外卖已经发展成这样了吗",
+        "onboard_time": 1688295395,
+        "rank": 24,
+        "category": "科技,美食"
+      },
+      {
+        "raw_hot": 342218,
+        "num": 342218,
+        "word": "女排李盈莹",
+        "onboard_time": 1688295696,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338450,
+        "num": 338450,
+        "word": "跑男团全员为Angelababy新剧打call",
+        "onboard_time": 1688294911,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470438,
+        "num": 315403,
+        "word": "爱看古偶的有福了",
+        "onboard_time": 1688295873,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278568,
+        "num": 278568,
+        "word": "没有小猫这个家真的得散",
+        "onboard_time": 1688294373,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 273894,
+        "num": 273894,
+        "word": "同事上班写小说领导以为在加班",
+        "onboard_time": 1688294434,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269361,
+        "num": 269361,
+        "word": "长风渡",
+        "onboard_time": 1688294976,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255389,
+        "num": 255389,
+        "word": "江西于都一男子杀害3儿童",
+        "onboard_time": 1688293292,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245310,
+        "num": 245310,
+        "word": "中国女篮亚洲杯夺冠",
+        "onboard_time": 1688280394,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240361,
+        "num": 240361,
+        "word": "秋水一肚子坏水",
+        "onboard_time": 1688297316,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237680,
+        "num": 237680,
+        "word": "沈梦辰戴脐钉",
+        "onboard_time": 1688291791,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235811,
+        "num": 235811,
+        "word": "法国",
+        "onboard_time": 1688296956,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 216870,
+        "num": 216870,
+        "word": "王鹤棣圈内最好的朋友是宋伊人",
+        "onboard_time": 1688276495,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215235,
+        "num": 215235,
+        "word": "Minnie普通话比叉烧芬标准",
+        "onboard_time": 1688291430,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214940,
+        "num": 214940,
+        "word": "周深连续5天微指数破亿",
+        "onboard_time": 1688296595,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212270,
+        "num": 212270,
+        "word": "杨舒予",
+        "onboard_time": 1688282852,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208570,
+        "num": 208570,
+        "word": "EXO正规七辑EXIST配置",
+        "onboard_time": 1688297194,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175478,
+        "num": 175478,
+        "word": "李昊给十个勤天的回复",
+        "onboard_time": 1688295575,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161016,
+        "num": 161016,
+        "word": "e人和i人周末的区别",
+        "onboard_time": 1688282133,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160104,
+        "num": 160104,
+        "word": "中国女排vs美国女排",
+        "onboard_time": 1688288733,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158878,
+        "num": 158878,
+        "word": "不联系就是不喜欢吗",
+        "onboard_time": 1688290830,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151875,
+        "num": 151875,
+        "word": "GQ给李现P图",
+        "onboard_time": 1688288673,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151271,
+        "num": 151271,
+        "word": "宋妍霏带200多套衣服拍戏",
+        "onboard_time": 1688273852,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425662,
+        "num": 150878,
+        "word": "玉骨遥",
+        "onboard_time": 1688293955,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149223,
+        "num": 149223,
+        "word": "天经棣义",
+        "onboard_time": 1688278952,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144864,
+        "num": 144864,
+        "word": "在真正想要的事情上做一个固执的人",
+        "onboard_time": 1688295334,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持中共中央政治局第六次集体学习#"
+    }
+  }
+}
