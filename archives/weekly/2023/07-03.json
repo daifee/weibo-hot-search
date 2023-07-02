@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688315959884,
+  "endTime": 1688318156335,
   "band_list": [
     {
       "raw_hot": 9610176,
@@ -41,6 +41,14 @@
       "onboard_time": 1688312436,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 787901,
+      "num": 340289,
+      "word": "白敬亭小号名字解读",
+      "onboard_time": 1688315070,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 765969,
@@ -147,19 +155,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 380215,
+      "num": 275517,
+      "word": "只能骗骗涉世未深的小狗",
+      "onboard_time": 1688312198,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345417,
       "num": 328505,
       "word": "伊能静一回台北就发胖",
       "onboard_time": 1688311836,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 340289,
-      "num": 340289,
-      "word": "白敬亭小号名字解读",
-      "onboard_time": 1688315070,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -203,14 +211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272976,
-      "num": 272976,
-      "word": "只能骗骗涉世未深的小狗",
-      "onboard_time": 1688312198,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 236725,
       "num": 236725,
       "word": "分手时送前任一束有眼无珠",
@@ -251,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225401,
+      "num": 167650,
+      "word": "没人点赞朋友圈是人缘不好吗",
+      "onboard_time": 1688309503,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222671,
       "num": 222671,
       "word": "长安三万里 将进酒",
@@ -289,6 +297,14 @@
       "onboard_time": 1688303801,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200704,
+      "num": 127602,
+      "word": "网友理解的李木子手势",
+      "onboard_time": 1688316926,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 198947,
@@ -411,20 +427,52 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135531,
-      "num": 135531,
-      "word": "没人点赞朋友圈是人缘不好吗",
-      "onboard_time": 1688309503,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135330,
       "num": 135330,
       "word": "沈梦辰戴脐钉",
       "onboard_time": 1688291791,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117301,
+      "num": 117301,
+      "word": "看得出来他真的不会说谎",
+      "onboard_time": 1688317283,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100528,
+      "num": 96024,
+      "word": "柳玉茹的情敌出现了",
+      "onboard_time": 1688301519,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 95355,
+      "num": 95355,
+      "word": "最近浙江人烧葫芦前最好先舔一舔",
+      "onboard_time": 1688317043,
+      "rank": 44,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 82724,
+      "num": 95353,
+      "word": "女子前轮被卡武警特警把车抬出",
+      "onboard_time": 1688316326,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76484,
+      "num": 95352,
+      "word": "鸟羽水族馆的小梅",
+      "onboard_time": 1688318122,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 11977,
