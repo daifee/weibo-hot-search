@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688302303928,
+  "endTime": 1688304101940,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -275,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1820889,
+      "num": 333675,
+      "word": "官方通报小男孩被逼吃粪便",
+      "onboard_time": 1688299475,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1814932,
       "num": 1222473,
       "word": "宋轶发了五条微博",
@@ -291,6 +299,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1748695,
+      "num": 1748695,
+      "word": "室友卖掉了我将近十年的青春",
+      "onboard_time": 1688298513,
+      "rank": 1,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 1737513,
       "num": 1737513,
       "word": "终于知道我头发油的原因了",
@@ -305,14 +321,6 @@
       "onboard_time": 1688210192,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1728013,
-      "num": 1728013,
-      "word": "室友卖掉了我将近十年的青春",
-      "onboard_time": 1688298513,
-      "rank": 1,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 1719252,
@@ -385,14 +393,6 @@
       "onboard_time": 1688282852,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1548313,
-      "num": 315377,
-      "word": "官方通报小男孩被逼吃粪便",
-      "onboard_time": 1688299475,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1497569,
@@ -539,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1146362,
+      "num": 1146362,
+      "word": "玉骨遥首播评价",
+      "onboard_time": 1688297434,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1143988,
       "num": 723036,
       "word": "白敬亭宋轶是穿了同一件衣服吗",
@@ -553,14 +561,6 @@
       "onboard_time": 1688273132,
       "rank": 20,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1121856,
-      "num": 1121856,
-      "word": "玉骨遥首播评价",
-      "onboard_time": 1688297434,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 1118879,
@@ -888,6 +888,14 @@
       "word": "何非的保证书是朱一龙写的",
       "onboard_time": 1688194893,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 804594,
+      "num": 804594,
+      "word": "玉骨遥取景地梦回陈情令",
+      "onboard_time": 1688303141,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -1363,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603999,
+      "num": 513658,
+      "word": "柳玉茹的情敌出现了",
+      "onboard_time": 1688301519,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 601571,
       "num": 601571,
       "word": "天经棣义",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1688281414,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571725,
+      "num": 478007,
+      "word": "玉骨遥排播方式",
+      "onboard_time": 1688302239,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 571231,
@@ -1603,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534243,
+      "num": 534243,
+      "word": "抑制食欲的办法 关空调",
+      "onboard_time": 1688302297,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 527940,
       "num": 460452,
       "word": "让外国网友帮忙做英语作业",
@@ -1636,7 +1668,7 @@
     },
     {
       "raw_hot": 521781,
-      "num": 312556,
+      "num": 327054,
       "word": "终于等到一见茹顾圆房了",
       "onboard_time": 1688298391,
       "rank": 21,
@@ -2227,6 +2259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 386909,
+      "num": 280351,
+      "word": "玉骨遥配音",
+      "onboard_time": 1688303380,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382973,
       "num": 382973,
       "word": "外国男子在中国故意将包落下没人偷",
@@ -2259,6 +2299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 378675,
+      "num": 378675,
+      "word": "螺狮粉雪糕",
+      "onboard_time": 1688301638,
+      "rank": 22,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 378352,
       "num": 378352,
       "word": "Burberry雪糕",
@@ -2273,6 +2321,14 @@
       "onboard_time": 1688195491,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 376775,
+      "num": 378687,
+      "word": "孙颖莎vs平野美宇",
+      "onboard_time": 1688303677,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 375995,
@@ -2571,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323147,
+      "num": 323147,
+      "word": "白敬亭真不瘦",
+      "onboard_time": 1688303201,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322703,
       "num": 322703,
       "word": "周琦",
@@ -2641,14 +2705,6 @@
       "onboard_time": 1688294373,
       "rank": 31,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 315335,
-      "num": 266332,
-      "word": "柳玉茹的情敌出现了",
-      "onboard_time": 1688301519,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 310778,
@@ -2851,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295058,
+      "num": 295058,
+      "word": "女生称求职因是上海人2天被拒3次",
+      "onboard_time": 1688303259,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292663,
       "num": 292663,
       "word": "大方承认我们都是普通人",
@@ -2883,11 +2947,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290167,
+      "num": 290167,
+      "word": "2米长蛇闯进公司大厅吓跑员工",
+      "onboard_time": 1688303497,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288127,
       "num": 288127,
       "word": "长风渡城楼吻海报",
       "onboard_time": 1688270431,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288067,
+      "num": 288067,
+      "word": "我的人间烟火",
+      "onboard_time": 1688302599,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -2921,6 +3001,14 @@
       "onboard_time": 1688132318,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 284267,
+      "num": 284267,
+      "word": "长安三万里",
+      "onboard_time": 1688267191,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 283911,
@@ -3009,14 +3097,6 @@
       "onboard_time": 1688205931,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273288,
-      "num": 273288,
-      "word": "长安三万里",
-      "onboard_time": 1688267191,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 273156,
@@ -3211,6 +3291,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 259949,
+      "num": 259949,
+      "word": "王传君片场对着张艺兴跳舞",
+      "onboard_time": 1688303618,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259778,
       "num": 259778,
       "word": "唐朝小朋友穿的背带裤",
@@ -3256,14 +3344,6 @@
       "word": "长风渡守望都名场面",
       "onboard_time": 1688265869,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 254418,
-      "num": 254418,
-      "word": "玉骨遥排播方式",
-      "onboard_time": 1688302239,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -3459,14 +3539,6 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 245505,
-      "num": 266916,
-      "word": "螺狮粉雪糕",
-      "onboard_time": 1688301638,
-      "rank": 22,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 244788,
       "num": 244788,
       "word": "贾静雯无袖旗袍",
@@ -3529,6 +3601,14 @@
       "onboard_time": 1688268991,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240982,
+      "num": 240982,
+      "word": "深圳10分钟内就能找到一家图书馆",
+      "onboard_time": 1688303801,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240756,
@@ -4123,6 +4203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203113,
+      "num": 203113,
+      "word": "恋与制作人西装杀手",
+      "onboard_time": 1688303981,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202302,
       "num": 202302,
       "word": "毛不易演唱会",
@@ -4379,6 +4467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186496,
+      "num": 186496,
+      "word": "女子4根手指撑起一个店养了一个家",
+      "onboard_time": 1688299833,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 186442,
       "num": 186442,
       "word": "独家童话",
@@ -4467,14 +4563,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 180898,
-      "num": 180898,
-      "word": "女子4根手指撑起一个店养了一个家",
-      "onboard_time": 1688299833,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 180028,
       "num": 180028,
       "word": "白敬亭宋轶细节糖好嗑",
@@ -4489,6 +4577,22 @@
       "onboard_time": 1688196453,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178151,
+      "num": 177582,
+      "word": "DRG对战狼队",
+      "onboard_time": 1688303259,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 178039,
+      "num": 178039,
+      "word": "LNG战胜OMG",
+      "onboard_time": 1688302541,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 178010,
@@ -4512,6 +4616,14 @@
       "word": "萌娃站门框姥爷开门技能瞬间失效",
       "onboard_time": 1688285194,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176969,
+      "num": 176969,
+      "word": "店老板硬气回应挣该挣的钱",
+      "onboard_time": 1688302541,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

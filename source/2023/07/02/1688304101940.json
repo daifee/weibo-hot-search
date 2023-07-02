@@ -1,0 +1,410 @@
+{
+  "runTime": 1688304101940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1748695,
+        "num": 1748695,
+        "word": "室友卖掉了我将近十年的青春",
+        "onboard_time": 1688298513,
+        "rank": 0,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 1590852,
+        "num": 1590852,
+        "word": "玉骨遥今日开播",
+        "onboard_time": 1688293415,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16095,
+        "num": 1365258,
+        "word": "中国动车组单列试验时速453公里",
+        "onboard_time": 1688267731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146362,
+        "num": 1146362,
+        "word": "玉骨遥首播评价",
+        "onboard_time": 1688297434,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 966336,
+        "num": 966336,
+        "word": "宁安如梦",
+        "onboard_time": 1688300920,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804594,
+        "num": 804594,
+        "word": "玉骨遥取景地梦回陈情令",
+        "onboard_time": 1688303141,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 761983,
+        "num": 761983,
+        "word": "中国人民大学称已报警",
+        "onboard_time": 1688293536,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 799435,
+        "num": 751901,
+        "word": "玉骨遥任敏演技",
+        "onboard_time": 1688296175,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 735567,
+        "num": 735567,
+        "word": "大老远来找男朋友发现他没关空调",
+        "onboard_time": 1688294072,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 534243,
+        "num": 534243,
+        "word": "抑制食欲的办法 关空调",
+        "onboard_time": 1688302297,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12132189,
+        "num": 523200,
+        "word": "央视频下架蔡徐坤所有视频",
+        "onboard_time": 1688299053,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603999,
+        "num": 513658,
+        "word": "柳玉茹的情敌出现了",
+        "onboard_time": 1688301519,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571725,
+        "num": 478007,
+        "word": "玉骨遥排播方式",
+        "onboard_time": 1688302239,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383297,
+        "num": 383297,
+        "word": "10岁男孩物业大厅捉迷藏触电身亡",
+        "onboard_time": 1688300195,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376775,
+        "num": 378687,
+        "word": "孙颖莎vs平野美宇",
+        "onboard_time": 1688303677,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548912,
+        "num": 378686,
+        "word": "赵露思8集换29套衣服",
+        "onboard_time": 1688295933,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378675,
+        "num": 378675,
+        "word": "螺狮粉雪糕",
+        "onboard_time": 1688301638,
+        "rank": 16,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 365450,
+        "num": 365450,
+        "word": "宋轶发了五条微博",
+        "onboard_time": 1688289934,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352999,
+        "num": 352999,
+        "word": "民警9次上门劝解保住老人卡内200多万元",
+        "onboard_time": 1688299896,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333731,
+        "num": 333731,
+        "word": "外卖已经发展成这样了吗",
+        "onboard_time": 1688295395,
+        "rank": 19,
+        "category": "科技,美食"
+      },
+      {
+        "raw_hot": 1820889,
+        "num": 333675,
+        "word": "官方通报小男孩被逼吃粪便",
+        "onboard_time": 1688299475,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327054,
+        "num": 327054,
+        "word": "终于等到一见茹顾圆房了",
+        "onboard_time": 1688298391,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323147,
+        "num": 323147,
+        "word": "白敬亭真不瘦",
+        "onboard_time": 1688303201,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312289,
+        "num": 312289,
+        "word": "正式被确诊为懒羊羊",
+        "onboard_time": 1688289814,
+        "rank": 23,
+        "category": "幽默,动漫"
+      },
+      {
+        "raw_hot": 301296,
+        "num": 301296,
+        "word": "因女儿考705分打折庆祝的凉菜摊关门",
+        "onboard_time": 1688279430,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295058,
+        "num": 295058,
+        "word": "女生称求职因是上海人2天被拒3次",
+        "onboard_time": 1688303259,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290167,
+        "num": 290167,
+        "word": "2米长蛇闯进公司大厅吓跑员工",
+        "onboard_time": 1688303497,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288067,
+        "num": 288067,
+        "word": "我的人间烟火",
+        "onboard_time": 1688302599,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284267,
+        "num": 284267,
+        "word": "长安三万里",
+        "onboard_time": 1688303618,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282111,
+        "num": 282111,
+        "word": "白敬亭小号改名白敬亭94玩儿",
+        "onboard_time": 1688284833,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 386909,
+        "num": 280351,
+        "word": "玉骨遥配音",
+        "onboard_time": 1688303380,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264087,
+        "num": 264087,
+        "word": "跑男团全员为Angelababy新剧打call",
+        "onboard_time": 1688294911,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259949,
+        "num": 259949,
+        "word": "王传君片场对着张艺兴跳舞",
+        "onboard_time": 1688303618,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257226,
+        "num": 257226,
+        "word": "告诉婆婆我身体不能生孩子",
+        "onboard_time": 1688282433,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240982,
+        "num": 240982,
+        "word": "深圳10分钟内就能找到一家图书馆",
+        "onboard_time": 1688303801,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249165,
+        "num": 238622,
+        "word": "宋轶说喜欢胖的男生",
+        "onboard_time": 1688283033,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243638,
+        "num": 228055,
+        "word": "张丹峰问为什么没早点遇见洪欣",
+        "onboard_time": 1688285254,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211048,
+        "num": 211048,
+        "word": "沈梦辰戴脐钉",
+        "onboard_time": 1688291791,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206608,
+        "num": 206608,
+        "word": "广东人别再乱开川菜馆了",
+        "onboard_time": 1688294674,
+        "rank": 38,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 203113,
+        "num": 203113,
+        "word": "恋与制作人西装杀手",
+        "onboard_time": 1688303981,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194114,
+        "num": 194114,
+        "word": "中国女排3比2战胜美国",
+        "onboard_time": 1688294734,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187344,
+        "num": 187344,
+        "word": "山航是有点叛逆在身上的",
+        "onboard_time": 1688301941,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186496,
+        "num": 186496,
+        "word": "女子4根手指撑起一个店养了一个家",
+        "onboard_time": 1688299833,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 184730,
+        "num": 184730,
+        "word": "星巴克与BLACKPINK联手推出周边",
+        "onboard_time": 1688284833,
+        "rank": 43,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 183435,
+        "num": 183435,
+        "word": "8旬外公拿17000元积蓄设家族奖学金",
+        "onboard_time": 1688298391,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 182440,
+        "num": 182440,
+        "word": "王鹤棣圈内最好的朋友是宋伊人",
+        "onboard_time": 1688276495,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178039,
+        "num": 178039,
+        "word": "LNG战胜OMG",
+        "onboard_time": 1688302541,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178151,
+        "num": 177582,
+        "word": "DRG对战狼队",
+        "onboard_time": 1688303259,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176969,
+        "num": 176969,
+        "word": "店老板硬气回应挣该挣的钱",
+        "onboard_time": 1688302541,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170404,
+        "num": 170404,
+        "word": "EXO正规七辑EXIST配置",
+        "onboard_time": 1688297194,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#征程#"
+    }
+  }
+}
