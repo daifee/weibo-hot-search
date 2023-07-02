@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688308425267,
+  "endTime": 1688311077131,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -153,6 +153,14 @@
       "onboard_time": 1688184151,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2253782,
+      "num": 2253782,
+      "word": "玉骨遥女主",
+      "onboard_time": 1688307039,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 2234171,
@@ -675,6 +683,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 983177,
+      "num": 812910,
+      "word": "薛之谦脱掉",
+      "onboard_time": 1688309143,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 970243,
       "num": 632536,
       "word": "这和官宣有什么差别",
@@ -689,6 +705,14 @@
       "onboard_time": 1688300920,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 968063,
+      "num": 947381,
+      "word": "杨和苏喊话张杰全国裸巡",
+      "onboard_time": 1688307277,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 965711,
@@ -713,14 +737,6 @@
       "onboard_time": 1688175331,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 947381,
-      "num": 947381,
-      "word": "杨和苏喊话张杰全国裸巡",
-      "onboard_time": 1688307277,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 942201,
@@ -880,14 +896,6 @@
       "word": "管文丁宁官宣恋情",
       "onboard_time": 1688259268,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 835483,
-      "num": 835483,
-      "word": "玉骨遥女主",
-      "onboard_time": 1688307039,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -2187,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425050,
+      "num": 326846,
+      "word": "为什么建议年轻时多谈恋爱",
+      "onboard_time": 1688306441,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 424531,
       "num": 424531,
       "word": "义乌脸基尼卖爆了",
@@ -2259,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410509,
+      "num": 291267,
+      "word": "朱一龙文咏珊好像两台扫描仪",
+      "onboard_time": 1688308963,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409522,
       "num": 316506,
       "word": "宣璐汪卓成二搭演情侣",
@@ -2281,14 +2305,6 @@
       "onboard_time": 1688282314,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402325,
-      "num": 326846,
-      "word": "为什么建议年轻时多谈恋爱",
-      "onboard_time": 1688306441,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 401403,
@@ -2377,6 +2393,14 @@
       "onboard_time": 1688303380,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384036,
+      "num": 384036,
+      "word": "林高远萨格勒布站夺冠",
+      "onboard_time": 1688310703,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 382973,
@@ -2627,6 +2651,22 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 344395,
+      "num": 344395,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1688309560,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 344333,
+      "num": 344333,
+      "word": "林高远4比3樊振东",
+      "onboard_time": 1688311001,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342218,
       "num": 342218,
       "word": "女排李盈莹",
@@ -2707,6 +2747,14 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 330278,
+      "num": 287959,
+      "word": "黄子韬孙千徐志胜对话信息量太大了",
+      "onboard_time": 1688310641,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329932,
       "num": 415270,
       "word": "中国女排vs韩国女排",
@@ -2769,6 +2817,14 @@
       "onboard_time": 1688250917,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322289,
+      "num": 284933,
+      "word": "顾九思柳玉茹诀别吻",
+      "onboard_time": 1688310580,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 321743,
@@ -3043,6 +3099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295588,
+      "num": 295588,
+      "word": "深圳10分钟内就能找到一家图书馆",
+      "onboard_time": 1688303801,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295577,
       "num": 295577,
       "word": "里面的狗都吃撑了外面的狗子还没转明白",
@@ -3201,14 +3265,6 @@
       "onboard_time": 1688294976,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 276588,
-      "num": 276588,
-      "word": "深圳10分钟内就能找到一家图书馆",
-      "onboard_time": 1688303801,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274284,
@@ -3459,6 +3515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259647,
+      "num": 259647,
+      "word": "女子4根手指撑起一个店养了一个家",
+      "onboard_time": 1688299833,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 258687,
       "num": 258687,
       "word": "偷偷藏不住现实衍生版",
@@ -3587,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249761,
+      "num": 249761,
+      "word": "熊猫解暑主要靠大冰坨子",
+      "onboard_time": 1688310520,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249626,
       "num": 249626,
       "word": "今天是香港回归祖国26周年",
@@ -3672,6 +3744,14 @@
       "word": "野生大熊猫用屁股蹭了蹭红外相机",
       "onboard_time": 1688166139,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246077,
+      "num": 246077,
+      "word": "亲朋抢光3岁娃生日蛋糕被网友吐槽",
+      "onboard_time": 1688309380,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -3897,14 +3977,6 @@
       "onboard_time": 1688180190,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230508,
-      "num": 230508,
-      "word": "女子4根手指撑起一个店养了一个家",
-      "onboard_time": 1688299833,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 230159,
@@ -4417,6 +4489,14 @@
       "onboard_time": 1688223818,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197460,
+      "num": 217077,
+      "word": "白岩松谈母亲误拆女儿档案袋",
+      "onboard_time": 1688310277,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195820,
