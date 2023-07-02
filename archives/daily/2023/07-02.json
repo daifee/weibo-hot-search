@@ -1,10 +1,10 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688304101940,
+  "endTime": 1688304818138,
   "band_list": [
     {
       "raw_hot": 12819508,
-      "num": 698540,
+      "num": 718794,
       "word": "央视频下架蔡徐坤所有视频",
       "onboard_time": 1688299053,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1688271629,
       "rank": 35,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2355033,
+      "num": 333675,
+      "word": "官方通报小男孩被逼吃粪便",
+      "onboard_time": 1688299475,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2234171,
@@ -129,14 +137,6 @@
       "onboard_time": 1688289814,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1820889,
-      "num": 333675,
-      "word": "官方通报小男孩被逼吃粪便",
-      "onboard_time": 1688299475,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1814932,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1192957,
+      "num": 1192957,
+      "word": "玉骨遥首播评价",
+      "onboard_time": 1688297434,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1187729,
       "num": 583913,
       "word": "高校男生被女生喷不明液体双方已和解",
@@ -283,14 +291,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1146362,
-      "num": 1146362,
-      "word": "玉骨遥首播评价",
-      "onboard_time": 1688297434,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1143988,
       "num": 723036,
       "word": "白敬亭宋轶是穿了同一件衣服吗",
@@ -305,6 +305,14 @@
       "onboard_time": 1688273132,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1079251,
+      "num": 859936,
+      "word": "玉骨遥取景地梦回陈情令",
+      "onboard_time": 1688303141,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1076917,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857338,
+      "num": 857338,
+      "word": "孙颖莎vs平野美宇",
+      "onboard_time": 1688303677,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 854142,
       "num": 854142,
       "word": "在飞机上偶遇三只狗狗",
@@ -424,14 +440,6 @@
       "word": "管文丁宁官宣恋情",
       "onboard_time": 1688259268,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 804594,
-      "num": 804594,
-      "word": "玉骨遥取景地梦回陈情令",
-      "onboard_time": 1688303141,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 694823,
+      "num": 694823,
+      "word": "抑制食欲的办法 关空调",
+      "onboard_time": 1688302297,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 684945,
       "num": 684945,
       "word": "封神",
@@ -577,6 +593,14 @@
       "onboard_time": 1688273911,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 670032,
+      "num": 670032,
+      "word": "柳玉茹的情敌出现了",
+      "onboard_time": 1688301519,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 665283,
@@ -683,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603999,
-      "num": 513658,
-      "word": "柳玉茹的情敌出现了",
-      "onboard_time": 1688301519,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 601571,
       "num": 601571,
       "word": "天经棣义",
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 571725,
-      "num": 478007,
+      "num": 503056,
       "word": "玉骨遥排播方式",
       "onboard_time": 1688302239,
       "rank": 28,
@@ -785,14 +801,6 @@
       "onboard_time": 1688283629,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 534243,
-      "num": 534243,
-      "word": "抑制食欲的办法 关空调",
-      "onboard_time": 1688302297,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 527940,
@@ -1003,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 440038,
+      "num": 440038,
+      "word": "10岁男孩物业大厅捉迷藏触电身亡",
+      "onboard_time": 1688300195,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439520,
       "num": 677823,
       "word": "外卖已经发展成这样了吗",
@@ -1032,14 +1048,6 @@
       "word": "民警9次上门劝解保住老人卡内200多万元",
       "onboard_time": 1688299896,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435371,
-      "num": 435371,
-      "word": "10岁男孩物业大厅捉迷藏触电身亡",
-      "onboard_time": 1688300195,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1097,6 +1105,14 @@
       "onboard_time": 1688282314,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 402010,
+      "num": 402010,
+      "word": "白敬亭真不瘦",
+      "onboard_time": 1688303201,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 398767,
@@ -1203,14 +1219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 376775,
-      "num": 378687,
-      "word": "孙颖莎vs平野美宇",
-      "onboard_time": 1688303677,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 374030,
       "num": 374030,
       "word": "浮世三千定档",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1688259568,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369638,
+      "num": 369638,
+      "word": "螺蛳粉雪糕",
+      "onboard_time": 1688304638,
+      "rank": 17,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 365499,
@@ -1297,6 +1313,14 @@
       "onboard_time": 1688279371,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351464,
+      "num": 298880,
+      "word": "女生称求职因是上海人2天被拒3次",
+      "onboard_time": 1688303259,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349759,
@@ -1363,14 +1387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 323147,
-      "num": 323147,
-      "word": "白敬亭真不瘦",
-      "onboard_time": 1688303201,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322703,
       "num": 322703,
       "word": "周琦",
@@ -1387,11 +1403,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 320149,
+      "num": 294794,
+      "word": "我的人间烟火",
+      "onboard_time": 1688302599,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319510,
       "num": 319510,
       "word": "王者荣耀",
       "onboard_time": 1688279192,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 317310,
+      "num": 293677,
+      "word": "恋与制作人西装杀手",
+      "onboard_time": 1688303981,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -1483,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295058,
-      "num": 295058,
-      "word": "女生称求职因是上海人2天被拒3次",
-      "onboard_time": 1688303259,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292663,
       "num": 292663,
       "word": "大方承认我们都是普通人",
@@ -1536,14 +1560,6 @@
       "word": "长风渡城楼吻海报",
       "onboard_time": 1688270431,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 288067,
-      "num": 288067,
-      "word": "我的人间烟火",
-      "onboard_time": 1688302599,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1593,6 +1609,14 @@
       "onboard_time": 1688221474,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280018,
+      "num": 280018,
+      "word": "王传君片场对着张艺兴跳舞",
+      "onboard_time": 1688303618,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 279663,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1688258368,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259949,
-      "num": 259949,
-      "word": "王传君片场对着张艺兴跳舞",
-      "onboard_time": 1688303618,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 258687,
@@ -1947,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237848,
+      "num": 197876,
+      "word": "赵露思盛开的黑色玫瑰",
+      "onboard_time": 1688304277,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236956,
       "num": 236956,
       "word": "金曲奖红毯",
@@ -2131,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210217,
+      "num": 197689,
+      "word": "李白 高适",
+      "onboard_time": 1688304638,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208574,
       "num": 208574,
       "word": "风灵玉秀2开播",
@@ -2171,14 +2203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203113,
-      "num": 203113,
-      "word": "恋与制作人西装杀手",
-      "onboard_time": 1688303981,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 202302,
       "num": 202302,
       "word": "毛不易演唱会",
@@ -2217,6 +2241,14 @@
       "onboard_time": 1688295575,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197077,
+      "num": 197077,
+      "word": "女子4根手指撑起一个店养了一个家",
+      "onboard_time": 1688299833,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 197016,
@@ -2321,14 +2353,6 @@
       "onboard_time": 1688264310,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186496,
-      "num": 186496,
-      "word": "女子4根手指撑起一个店养了一个家",
-      "onboard_time": 1688299833,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 186146,
@@ -2443,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176150,
+      "num": 176150,
+      "word": "宁静没病就逛40度的街",
+      "onboard_time": 1688304521,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176027,
       "num": 176027,
       "word": "酷暑下环卫大爷晕倒路人纷纷上前",
@@ -2537,6 +2569,14 @@
       "onboard_time": 1688264249,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160135,
+      "num": 160135,
+      "word": "章鱼哥都有周末双休",
+      "onboard_time": 1688304521,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 159547,
