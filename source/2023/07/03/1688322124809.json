@@ -1,0 +1,410 @@
+{
+  "runTime": 1688322124809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 287619,
+        "num": 287619,
+        "word": "玉骨遥女主",
+        "onboard_time": 1688307039,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248942,
+        "num": 248942,
+        "word": "室友卖掉了我将近十年的青春",
+        "onboard_time": 1688298513,
+        "rank": 1,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 4099,
+        "num": 218493,
+        "word": "中国动车组单列试验时速453公里",
+        "onboard_time": 1688267731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571256,
+        "num": 215167,
+        "word": "ITZY",
+        "onboard_time": 1688312436,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211043,
+        "num": 211043,
+        "word": "龚俊周杰伦合唱发如雪",
+        "onboard_time": 1688311118,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200400,
+        "num": 200400,
+        "word": "大老远来找男朋友发现他没关空调",
+        "onboard_time": 1688294072,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185223,
+        "num": 185223,
+        "word": "毒蘑菇导致幻觉动感图",
+        "onboard_time": 1688311540,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171462,
+        "num": 171462,
+        "word": "只能骗骗涉世未深的小狗",
+        "onboard_time": 1688312198,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170361,
+        "num": 170361,
+        "word": "白岩松谈母亲误拆女儿档案袋",
+        "onboard_time": 1688310277,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167429,
+        "num": 167429,
+        "word": "为什么建议年轻时多谈恋爱",
+        "onboard_time": 1688306441,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1904288,
+        "num": 163371,
+        "word": "央视频下架蔡徐坤所有视频",
+        "onboard_time": 1688299053,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1105889,
+        "num": 161174,
+        "word": "Prada",
+        "onboard_time": 1688313395,
+        "rank": 11,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 325527,
+        "num": 159672,
+        "word": "白敬亭小号名字解读",
+        "onboard_time": 1688315070,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157436,
+        "num": 157436,
+        "word": "玉骨遥今日开播",
+        "onboard_time": 1688293415,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147881,
+        "num": 147881,
+        "word": "男孩为保护孕妈电梯里劝止烟民",
+        "onboard_time": 1688313395,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146141,
+        "num": 146141,
+        "word": "网友理解的李木子手势",
+        "onboard_time": 1688316926,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128305,
+        "num": 128305,
+        "word": "杨和苏喊话张杰全国裸巡",
+        "onboard_time": 1688307277,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125009,
+        "num": 125009,
+        "word": "姐姐们怎么了",
+        "onboard_time": 1688319441,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109200,
+        "num": 109200,
+        "word": "白桃星座",
+        "onboard_time": 1688312255,
+        "rank": 18,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 105473,
+        "num": 105473,
+        "word": "Jennie音乐节彩排视频",
+        "onboard_time": 1688314055,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359920,
+        "num": 101436,
+        "word": "官方通报小男孩被逼吃粪便",
+        "onboard_time": 1688299475,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122646,
+        "num": 100916,
+        "word": "没人点赞朋友圈是人缘不好吗",
+        "onboard_time": 1688309503,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96891,
+        "num": 96891,
+        "word": "薛之谦脱掉",
+        "onboard_time": 1688309143,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91957,
+        "num": 91957,
+        "word": "中国人民大学称已报警",
+        "onboard_time": 1688293536,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 86105,
+        "num": 86105,
+        "word": "白敬亭直播",
+        "onboard_time": 1688319261,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77471,
+        "num": 77471,
+        "word": "因女儿考705分打折庆祝的凉菜摊关门",
+        "onboard_time": 1688279430,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73611,
+        "num": 73611,
+        "word": "深圳10分钟内就能找到一家图书馆",
+        "onboard_time": 1688303801,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72952,
+        "num": 72952,
+        "word": "王鹤棣宋伊人怎么认识的",
+        "onboard_time": 1688311236,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70702,
+        "num": 70702,
+        "word": "原来榴莲也有住单间的",
+        "onboard_time": 1688311236,
+        "rank": 28,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 69513,
+        "num": 69513,
+        "word": "玉骨遥",
+        "onboard_time": 1688293955,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69291,
+        "num": 69291,
+        "word": "北京南四环上空突现神秘飞行物",
+        "onboard_time": 1688320338,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68032,
+        "num": 68032,
+        "word": "看得出来他真的不会说谎",
+        "onboard_time": 1688317283,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67210,
+        "num": 67210,
+        "word": "白敬亭小号改名白敬亭94玩儿",
+        "onboard_time": 1688284833,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66570,
+        "num": 66570,
+        "word": "赵露思8集换29套衣服",
+        "onboard_time": 1688295933,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64028,
+        "num": 64028,
+        "word": "黄子韬孙千徐志胜对话信息量太大了",
+        "onboard_time": 1688310641,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63737,
+        "num": 63737,
+        "word": "玉骨遥预告",
+        "onboard_time": 1688320398,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61406,
+        "num": 61406,
+        "word": "火影忍者新作动画",
+        "onboard_time": 1688307161,
+        "rank": 36,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 59666,
+        "num": 59666,
+        "word": "女生称求职因是上海人2天被拒3次",
+        "onboard_time": 1688303259,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58840,
+        "num": 58840,
+        "word": "外卖已经发展成这样了吗",
+        "onboard_time": 1688295395,
+        "rank": 38,
+        "category": "科技,美食"
+      },
+      {
+        "raw_hot": 57976,
+        "num": 57976,
+        "word": "柳玉茹的情敌出现了",
+        "onboard_time": 1688301519,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57623,
+        "num": 57623,
+        "word": "荣宅",
+        "onboard_time": 1688312137,
+        "rank": 40,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 57124,
+        "num": 57124,
+        "word": "玉骨遥首播评价",
+        "onboard_time": 1688297434,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53241,
+        "num": 57116,
+        "word": "九尾狐设计",
+        "onboard_time": 1688305720,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49687,
+        "num": 57113,
+        "word": "王传君片场对着张艺兴跳舞",
+        "onboard_time": 1688303618,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48856,
+        "num": 57105,
+        "word": "宋轶发了五条微博",
+        "onboard_time": 1688289934,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46979,
+        "num": 57094,
+        "word": "最近浙江人烧葫芦前最好先舔一舔",
+        "onboard_time": 1688317043,
+        "rank": 45,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 45291,
+        "num": 57080,
+        "word": "分手时送前任一束有眼无珠",
+        "onboard_time": 1688307217,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43858,
+        "num": 57073,
+        "word": "跑男团全员为Angelababy新剧打call",
+        "onboard_time": 1688294911,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39303,
+        "num": 57065,
+        "word": "沈梦辰戴脐钉",
+        "onboard_time": 1688291791,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34603,
+        "num": 57053,
+        "word": "林高远4比3樊振东",
+        "onboard_time": 1688311001,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#征程#"
+    }
+  }
+}
