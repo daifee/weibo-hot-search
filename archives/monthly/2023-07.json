@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688333628055,
+  "endTime": 1688336222382,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -5475,20 +5475,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 111276,
+      "num": 111276,
+      "word": "哪部会成为暑期档爆剧",
+      "onboard_time": 1688323515,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 105642,
       "num": 130801,
       "word": "首饰掉便池男子心急去捞又卡手",
       "onboard_time": 1688142270,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102153,
-      "num": 102153,
-      "word": "哪部会成为暑期档爆剧",
-      "onboard_time": 1688323515,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 98758,
@@ -5723,20 +5723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33438,
+      "num": 47716,
+      "word": "没有穿尿不湿的干不了的事",
+      "onboard_time": 1688327412,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 31255,
+      "num": 47686,
+      "word": "Angelababy尘缘一滴泪镜头",
+      "onboard_time": 1688332452,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 29562,
       "num": 36081,
       "word": "太爱又美又飒的事业批了",
       "onboard_time": 1688245513,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27219,
-      "num": 30674,
-      "word": "没有穿尿不湿的干不了的事",
-      "onboard_time": 1688327412,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 27214,
@@ -5748,19 +5756,11 @@
     },
     {
       "raw_hot": 26764,
-      "num": 30623,
+      "num": 47622,
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21748,
-      "num": 23717,
-      "word": "Angelababy尘缘一滴泪镜头",
-      "onboard_time": 1688332452,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 19992,

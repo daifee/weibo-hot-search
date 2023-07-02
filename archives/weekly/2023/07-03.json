@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688333628055,
+  "endTime": 1688336222382,
   "band_list": [
     {
       "raw_hot": 9610176,
@@ -459,8 +459,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102153,
-      "num": 102153,
+      "raw_hot": 111276,
+      "num": 111276,
       "word": "哪部会成为暑期档爆剧",
       "onboard_time": 1688323515,
       "rank": 16,
@@ -523,28 +523,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27219,
-      "num": 30674,
+      "raw_hot": 33438,
+      "num": 47716,
       "word": "没有穿尿不湿的干不了的事",
       "onboard_time": 1688327412,
       "rank": 37,
       "category": "幽默"
     },
     {
-      "raw_hot": 26764,
-      "num": 30623,
-      "word": "你求职遇过哪些歧视",
-      "onboard_time": 1688324533,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21748,
-      "num": 23717,
+      "raw_hot": 31255,
+      "num": 47686,
       "word": "Angelababy尘缘一滴泪镜头",
       "onboard_time": 1688332452,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26764,
+      "num": 47622,
+      "word": "你求职遇过哪些歧视",
+      "onboard_time": 1688324533,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11977,
