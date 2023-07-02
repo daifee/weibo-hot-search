@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688267141534,
+  "endTime": 1688267472694,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 849580,
-      "num": 309139,
+      "num": 341258,
       "word": "管文丁宁官宣恋情",
       "onboard_time": 1688259268,
       "rank": 20,
@@ -657,6 +657,14 @@
       "onboard_time": 1688228730,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 728764,
+      "num": 570556,
+      "word": "大妈用高铁上的插座焖了一锅米饭",
+      "onboard_time": 1688266470,
+      "rank": 30,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 716944,
@@ -1043,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542904,
+      "num": 542904,
+      "word": "杨洋王楚然我的人间烟火新预告",
+      "onboard_time": 1688267371,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541532,
       "num": 437978,
       "word": "女生本科毕业就成功应聘高校教师",
@@ -1139,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 508128,
-      "num": 235123,
-      "word": "大妈用高铁上的插座焖了一锅米饭",
-      "onboard_time": 1688266470,
-      "rank": 30,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 507882,
       "num": 507882,
       "word": "未定事件簿 茶百道",
@@ -1195,20 +1203,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 493357,
+      "num": 342652,
+      "word": "倪妮二十亿票房女主",
+      "onboard_time": 1688265329,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491782,
       "num": 426757,
       "word": "因为洗樱桃太慢被老板辞退了",
       "onboard_time": 1688172990,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 491583,
-      "num": 308018,
-      "word": "倪妮二十亿票房女主",
-      "onboard_time": 1688265329,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 491533,
@@ -1363,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430808,
+      "num": 335395,
+      "word": "才知道周杰伦给Angelababy写过歌",
+      "onboard_time": 1688266531,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 424531,
       "num": 424531,
       "word": "义乌脸基尼卖爆了",
@@ -1404,7 +1420,7 @@
     },
     {
       "raw_hot": 409522,
-      "num": 308099,
+      "num": 316506,
       "word": "宣璐汪卓成二搭演情侣",
       "onboard_time": 1688263767,
       "rank": 21,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1688183310,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 400356,
+      "num": 269045,
+      "word": "吊带袜天使新作真的来了",
+      "onboard_time": 1688266413,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 400074,
@@ -1635,14 +1659,6 @@
       "category": "影视,影视"
     },
     {
-      "raw_hot": 330971,
-      "num": 297692,
-      "word": "才知道周杰伦给Angelababy写过歌",
-      "onboard_time": 1688266531,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 329932,
       "num": 415270,
       "word": "中国女排vs韩国女排",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1688250917,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321811,
-      "num": 231176,
-      "word": "吊带袜天使新作真的来了",
-      "onboard_time": 1688266413,
-      "rank": 31,
-      "category": "动漫"
     },
     {
       "raw_hot": 321479,
@@ -2163,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256183,
+      "num": 256183,
+      "word": "长风渡守望都名场面",
+      "onboard_time": 1688265869,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254383,
       "num": 343205,
       "word": "西湖出现鱼鱼鱼跃龙门",
@@ -2185,14 +2201,6 @@
       "onboard_time": 1688262509,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 252909,
-      "num": 252909,
-      "word": "长风渡守望都名场面",
-      "onboard_time": 1688265869,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 252070,
@@ -2395,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233069,
+      "num": 233069,
+      "word": "华晨宇大地",
+      "onboard_time": 1688266049,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231652,
       "num": 231652,
       "word": "徐明浩领口很危险",
@@ -2481,14 +2497,6 @@
       "onboard_time": 1688183192,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 222546,
-      "num": 222546,
-      "word": "华晨宇大地",
-      "onboard_time": 1688266049,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 221898,
@@ -2787,6 +2795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194636,
+      "num": 454319,
+      "word": "像她们一样",
+      "onboard_time": 1688265267,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194588,
       "num": 194588,
       "word": "一梦江湖",
@@ -2939,14 +2955,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 184629,
-      "num": 405714,
-      "word": "像她们一样",
-      "onboard_time": 1688265267,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182690,
       "num": 182690,
       "word": "顾九思怒怼梁王",
@@ -3051,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170100,
+      "num": 170100,
+      "word": "夏天晒后背真的去寒吗",
+      "onboard_time": 1688267130,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169456,
       "num": 169456,
       "word": "大热天21人挤同一电梯被困",
@@ -3073,6 +3089,14 @@
       "onboard_time": 1688252477,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161098,
+      "num": 161098,
+      "word": "长安三万里",
+      "onboard_time": 1688267191,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 161087,
@@ -3177,14 +3201,6 @@
       "onboard_time": 1688202095,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 143593,
-      "num": 143593,
-      "word": "夏天晒后背真的去寒吗",
-      "onboard_time": 1688267130,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 143252,
@@ -3475,19 +3491,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20241,
+      "num": 484837,
+      "word": "山东省委书记揭秘乡村振兴经验",
+      "onboard_time": 1688266832,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19992,
       "num": 22303,
       "word": "当事游客回应发视频表扬导游",
       "onboard_time": 1688245453,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12988,
-      "num": 406910,
-      "word": "山东省委书记揭秘乡村振兴经验",
-      "onboard_time": 1688266832,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

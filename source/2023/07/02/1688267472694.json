@@ -1,0 +1,410 @@
+{
+  "runTime": 1688267472694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5617241,
+        "num": 5617241,
+        "word": "蔡徐坤豆瓣主页正常了",
+        "onboard_time": 1688265329,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1298656,
+        "num": 1298656,
+        "word": "终于知道我头发油的原因了",
+        "onboard_time": 1688257046,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7419,
+        "num": 1073785,
+        "word": "七一勋章获得者的事迹有多感人",
+        "onboard_time": 1688200595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917378,
+        "num": 917378,
+        "word": "尘缘定档今晚",
+        "onboard_time": 1688263708,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 865604,
+        "num": 865604,
+        "word": "正式被确诊为浣碧",
+        "onboard_time": 1688219853,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 855698,
+        "num": 855698,
+        "word": "退休老人认18个爸妈为其养老送终",
+        "onboard_time": 1688260949,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759779,
+        "num": 759779,
+        "word": "朱一龙20亿票房男主",
+        "onboard_time": 1688255965,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 742494,
+        "num": 742494,
+        "word": "苏格兰呼吁女性生育时不用止痛药",
+        "onboard_time": 1688261669,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591109,
+        "num": 591109,
+        "word": "一个发型拯救一张脸",
+        "onboard_time": 1688262870,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 585571,
+        "num": 585571,
+        "word": "马克龙把骚乱归咎于社交媒体和电子游戏",
+        "onboard_time": 1688259386,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 728764,
+        "num": 570556,
+        "word": "大妈用高铁上的插座焖了一锅米饭",
+        "onboard_time": 1688266470,
+        "rank": 10,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 648476,
+        "num": 560301,
+        "word": "在飞机上偶遇三只狗狗",
+        "onboard_time": 1688264371,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 543523,
+        "num": 543523,
+        "word": "女儿每拿一张奖状爸爸就奖100元",
+        "onboard_time": 1688265630,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542904,
+        "num": 542904,
+        "word": "杨洋王楚然我的人间烟火新预告",
+        "onboard_time": 1688267371,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20241,
+        "num": 484837,
+        "word": "山东省委书记揭秘乡村振兴经验",
+        "onboard_time": 1688266832,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194636,
+        "num": 454319,
+        "word": "像她们一样",
+        "onboard_time": 1688265267,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433146,
+        "num": 433146,
+        "word": "法国",
+        "onboard_time": 1688261010,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 414710,
+        "num": 414710,
+        "word": "高校男生被女生喷不明液体双方已和解",
+        "onboard_time": 1688215231,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381564,
+        "num": 381564,
+        "word": "女子去世7只猫继承217万遗产",
+        "onboard_time": 1688224659,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352360,
+        "num": 352360,
+        "word": "韩安冉 不要因为受伤就怕输",
+        "onboard_time": 1688244793,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 493357,
+        "num": 342652,
+        "word": "倪妮二十亿票房女主",
+        "onboard_time": 1688265329,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442897,
+        "num": 341258,
+        "word": "管文丁宁官宣恋情",
+        "onboard_time": 1688259268,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430808,
+        "num": 335395,
+        "word": "才知道周杰伦给Angelababy写过歌",
+        "onboard_time": 1688266531,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 329275,
+        "num": 329275,
+        "word": "ALin 金曲歌后",
+        "onboard_time": 1688226334,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316506,
+        "num": 316506,
+        "word": "宣璐汪卓成二搭演情侣",
+        "onboard_time": 1688263767,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316150,
+        "num": 316150,
+        "word": "黄子韬说让马伯骞去干建筑师",
+        "onboard_time": 1688259868,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306677,
+        "num": 306677,
+        "word": "白敬亭这真的是你吗",
+        "onboard_time": 1688219254,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278201,
+        "num": 278201,
+        "word": "TF三代出道战终于要来了",
+        "onboard_time": 1688259568,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271159,
+        "num": 271159,
+        "word": "恐怖程度约等于零的恐怖片",
+        "onboard_time": 1688228730,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269876,
+        "num": 269876,
+        "word": "花花接住谭爷爷给的小苹果",
+        "onboard_time": 1688221059,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400356,
+        "num": 269045,
+        "word": "吊带袜天使新作真的来了",
+        "onboard_time": 1688266413,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 256183,
+        "num": 256183,
+        "word": "长风渡守望都名场面",
+        "onboard_time": 1688265869,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233069,
+        "num": 233069,
+        "word": "华晨宇大地",
+        "onboard_time": 1688266049,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224248,
+        "num": 224248,
+        "word": "大学毕业生带小黄鸭坐火车被拒",
+        "onboard_time": 1688252477,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213698,
+        "num": 213698,
+        "word": "韩剧 恶鬼",
+        "onboard_time": 1688222499,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213453,
+        "num": 213453,
+        "word": "韩安冉妈妈婚礼致辞",
+        "onboard_time": 1688262509,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 207040,
+        "num": 207040,
+        "word": "Alin获奖后与贾静雯刘雅瑟视频",
+        "onboard_time": 1688263889,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200204,
+        "num": 200204,
+        "word": "俩南方小伙山东旅游点6个菜吃不完",
+        "onboard_time": 1688257647,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199035,
+        "num": 199035,
+        "word": "原来用臀部发力走路腿会变直",
+        "onboard_time": 1688205575,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198399,
+        "num": 198399,
+        "word": "一个让周末变长的方法",
+        "onboard_time": 1688263289,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 194301,
+        "num": 194301,
+        "word": "偷偷藏不住现实衍生版",
+        "onboard_time": 1688260531,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193470,
+        "num": 193470,
+        "word": "85后清华博士王波升副厅",
+        "onboard_time": 1688260170,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192623,
+        "num": 192623,
+        "word": "艾怡良 救我",
+        "onboard_time": 1688256446,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189778,
+        "num": 189778,
+        "word": "乡村教师暑假前农用车上开家长会",
+        "onboard_time": 1688265389,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 182567,
+        "num": 182567,
+        "word": "纹去世朋友名字去看周杰伦演唱会",
+        "onboard_time": 1688252659,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177204,
+        "num": 177204,
+        "word": "推特崩了",
+        "onboard_time": 1688226812,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170100,
+        "num": 170100,
+        "word": "夏天晒后背真的去寒吗",
+        "onboard_time": 1688267130,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164104,
+        "num": 164104,
+        "word": "毛不易唱不染",
+        "onboard_time": 1688262751,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161098,
+        "num": 161098,
+        "word": "长安三万里",
+        "onboard_time": 1688267191,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160955,
+        "num": 160955,
+        "word": "刘美含 北大",
+        "onboard_time": 1688201312,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#理想信念是共产党人的精神之钙#"
+    }
+  }
+}
