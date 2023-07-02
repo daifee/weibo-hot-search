@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688283231264,
+  "endTime": 1688286157974,
   "band_list": [
     {
       "raw_hot": 7958830,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1525520,
+      "num": 1525520,
+      "word": "杨舒予",
+      "onboard_time": 1688282852,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1497569,
       "num": 749526,
       "word": "前交通局长孙女炫富事件调查近百日",
@@ -313,6 +321,14 @@
       "onboard_time": 1688276674,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1417665,
+      "num": 1417665,
+      "word": "宋轶说喜欢胖的男生",
+      "onboard_time": 1688283033,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1391221,
@@ -369,6 +385,14 @@
       "onboard_time": 1688268750,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1254429,
+      "num": 488503,
+      "word": "白敬亭小号改名白敬亭94玩儿",
+      "onboard_time": 1688284833,
+      "rank": 10,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1226888,
@@ -547,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 954997,
+      "num": 483939,
+      "word": "张丹峰问为什么没早点遇见洪欣",
+      "onboard_time": 1688285254,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 953028,
       "num": 953028,
       "word": "刘令姿版小兰花有父母了",
@@ -656,6 +688,14 @@
       "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
       "onboard_time": 1688268269,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 860317,
+      "num": 243822,
+      "word": "北极鲶鱼",
+      "onboard_time": 1688283573,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -915,6 +955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 677409,
+      "num": 677409,
+      "word": "e人和i人周末的区别",
+      "onboard_time": 1688282133,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 676755,
       "num": 676755,
       "word": "李耕耘 四姑娘山",
@@ -961,6 +1009,14 @@
       "onboard_time": 1688277393,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664402,
+      "num": 375335,
+      "word": "告诉婆婆我身体不能生孩子",
+      "onboard_time": 1688282433,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 662031,
@@ -1179,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595287,
+      "num": 307564,
+      "word": "张雪峰出院",
+      "onboard_time": 1688284532,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591530,
       "num": 591530,
       "word": "空调这样调才是真省电",
@@ -1243,20 +1307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569111,
+      "num": 569111,
+      "word": "星巴克与BLACKPINK联手推出周边",
+      "onboard_time": 1688284833,
+      "rank": 7,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 568219,
       "num": 568219,
       "word": "其实世界上有很多情侣根本不熟",
       "onboard_time": 1688138863,
       "rank": 14,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 567006,
-      "num": 375335,
-      "word": "告诉婆婆我身体不能生孩子",
-      "onboard_time": 1688282433,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 566778,
@@ -1360,6 +1424,14 @@
       "word": "乘风五公",
       "onboard_time": 1688184692,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 539638,
+      "num": 539638,
+      "word": "严浩翔手受伤",
+      "onboard_time": 1688283629,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -1827,12 +1899,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396318,
+      "num": 302540,
+      "word": "日本女篮",
+      "onboard_time": 1688285613,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394492,
       "num": 394492,
       "word": "韩旭我的神",
       "onboard_time": 1688277816,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 392614,
+      "num": 392614,
+      "word": "宋伊人有容貌焦虑",
+      "onboard_time": 1688284174,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 391222,
@@ -1851,12 +1939,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 387044,
-      "num": 387044,
-      "word": "杨舒予",
-      "onboard_time": 1688282852,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 385892,
+      "num": 385892,
+      "word": "把歌分享到朋友圈的原因",
+      "onboard_time": 1688283994,
+      "rank": 16,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 382533,
@@ -1913,6 +2001,14 @@
       "onboard_time": 1688136103,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374837,
+      "num": 374837,
+      "word": "封神",
+      "onboard_time": 1688284833,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 374030,
@@ -2211,20 +2307,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 316649,
-      "num": 316649,
-      "word": "宋轶说喜欢胖的男生",
-      "onboard_time": 1688283033,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316578,
       "num": 316578,
       "word": "你好星期六",
       "onboard_time": 1688188412,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315901,
+      "num": 315901,
+      "word": "填个志愿都快要把家填散了",
+      "onboard_time": 1688284594,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 310778,
@@ -2353,6 +2449,14 @@
       "onboard_time": 1688207012,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299598,
+      "num": 299598,
+      "word": "熊孩子玩扎带勒脖被发现时已充血肿胀",
+      "onboard_time": 1688283214,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298630,
@@ -2497,6 +2601,14 @@
       "onboard_time": 1688141375,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278442,
+      "num": 278442,
+      "word": "女子不满被服务员叫阿姨拒绝买单",
+      "onboard_time": 1688283931,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274214,
@@ -2667,14 +2779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263843,
-      "num": 263843,
-      "word": "e人和i人周末的区别",
-      "onboard_time": 1688282133,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 262400,
       "num": 262400,
       "word": "驾照到手就去应聘教练吧",
@@ -2777,6 +2881,14 @@
       "onboard_time": 1688262509,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 252768,
+      "num": 252768,
+      "word": "女子出游回家后洗面奶被灌尿液",
+      "onboard_time": 1688283513,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252070,
@@ -3283,14 +3395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213068,
-      "num": 213068,
-      "word": "熊孩子玩扎带勒脖被发现时已充血肿胀",
-      "onboard_time": 1688283214,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212213,
       "num": 212213,
       "word": "建党节",
@@ -3409,6 +3513,14 @@
       "onboard_time": 1688273852,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "王鹤棣的神灯显灵了",
+      "onboard_time": 1688285792,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 205520,
@@ -3752,6 +3864,14 @@
       "word": "在国外穿壮族服饰参观南宁舰",
       "onboard_time": 1688278653,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177149,
+      "num": 177149,
+      "word": "萌娃站门框姥爷开门技能瞬间失效",
+      "onboard_time": 1688285194,
+      "rank": 47,
       "category": "社会新闻"
     },
     {

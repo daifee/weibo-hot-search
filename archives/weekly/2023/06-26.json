@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688283231264,
+  "endTime": 1688286157974,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -1507,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1525520,
+      "num": 1525520,
+      "word": "杨舒予",
+      "onboard_time": 1688282852,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1524065,
       "num": 1524065,
       "word": "吴越 真的不是我",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1687952554,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1417665,
+      "num": 1417665,
+      "word": "宋轶说喜欢胖的男生",
+      "onboard_time": 1688283033,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1404625,
@@ -1921,6 +1937,14 @@
       "onboard_time": 1687764528,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1254429,
+      "num": 488503,
+      "word": "白敬亭小号改名白敬亭94玩儿",
+      "onboard_time": 1688284833,
+      "rank": 10,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1253056,
@@ -2803,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 954997,
+      "num": 483939,
+      "word": "张丹峰问为什么没早点遇见洪欣",
+      "onboard_time": 1688285254,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 953028,
       "num": 953028,
       "word": "刘令姿版小兰花有父母了",
@@ -3265,6 +3297,14 @@
       "onboard_time": 1687682614,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 860317,
+      "num": 243822,
+      "word": "北极鲶鱼",
+      "onboard_time": 1688283573,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 858442,
@@ -4283,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 677409,
+      "num": 677409,
+      "word": "e人和i人周末的区别",
+      "onboard_time": 1688282133,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 677155,
       "num": 677155,
       "word": "孕晚期12306的人性化服务",
@@ -4408,6 +4456,14 @@
       "word": "回客厅IP就到四川了",
       "onboard_time": 1688013703,
       "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 664402,
+      "num": 375335,
+      "word": "告诉婆婆我身体不能生孩子",
+      "onboard_time": 1688282433,
+      "rank": 21,
       "category": "幽默"
     },
     {
@@ -5035,6 +5091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595287,
+      "num": 307564,
+      "word": "张雪峰出院",
+      "onboard_time": 1688284532,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593970,
       "num": 593970,
       "word": "Sana疑似台上晕倒",
@@ -5267,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569111,
+      "num": 569111,
+      "word": "星巴克与BLACKPINK联手推出周边",
+      "onboard_time": 1688284833,
+      "rank": 7,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 568219,
       "num": 568219,
       "word": "其实世界上有很多情侣根本不熟",
@@ -5281,14 +5353,6 @@
       "onboard_time": 1687881995,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 567006,
-      "num": 375335,
-      "word": "告诉婆婆我身体不能生孩子",
-      "onboard_time": 1688282433,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 566778,
@@ -5681,6 +5745,14 @@
       "onboard_time": 1688047365,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539638,
+      "num": 539638,
+      "word": "严浩翔手受伤",
+      "onboard_time": 1688283629,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 539574,
@@ -7555,6 +7627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396318,
+      "num": 302540,
+      "word": "日本女篮",
+      "onboard_time": 1688285613,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395902,
       "num": 397319,
       "word": "五险一金为什么重要",
@@ -7617,6 +7697,14 @@
       "onboard_time": 1687860640,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392614,
+      "num": 392614,
+      "word": "宋伊人有容貌焦虑",
+      "onboard_time": 1688284174,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 392264,
@@ -7707,14 +7795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 387044,
-      "num": 387044,
-      "word": "杨舒予",
-      "onboard_time": 1688282852,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 386830,
       "num": 386830,
       "word": "古早淡妆",
@@ -7729,6 +7809,14 @@
       "onboard_time": 1688007333,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 385892,
+      "num": 385892,
+      "word": "把歌分享到朋友圈的原因",
+      "onboard_time": 1688283994,
+      "rank": 16,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 385510,
@@ -7969,6 +8057,14 @@
       "onboard_time": 1688188955,
       "rank": 23,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 374837,
+      "num": 374837,
+      "word": "封神",
+      "onboard_time": 1688010455,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 374701,
@@ -8417,14 +8513,6 @@
       "onboard_time": 1687864059,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346275,
-      "num": 346275,
-      "word": "封神",
-      "onboard_time": 1688010455,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 346186,
@@ -9203,14 +9291,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 316649,
-      "num": 316649,
-      "word": "宋轶说喜欢胖的男生",
-      "onboard_time": 1688283033,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316578,
       "num": 316578,
       "word": "你好星期六",
@@ -9233,6 +9313,14 @@
       "onboard_time": 1687874084,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315901,
+      "num": 315901,
+      "word": "填个志愿都快要把家填散了",
+      "onboard_time": 1688284594,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 315861,
@@ -9761,6 +9849,14 @@
       "onboard_time": 1687850139,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 299598,
+      "num": 299598,
+      "word": "熊孩子玩扎带勒脖被发现时已充血肿胀",
+      "onboard_time": 1688283214,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299504,
@@ -10379,6 +10475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278442,
+      "num": 278442,
+      "word": "女子不满被服务员叫阿姨拒绝买单",
+      "onboard_time": 1688283931,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277353,
       "num": 277353,
       "word": "李克勤红日真的好听",
@@ -10875,14 +10979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 263843,
-      "num": 263843,
-      "word": "e人和i人周末的区别",
-      "onboard_time": 1688282133,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 263372,
       "num": 263372,
       "word": "爸妈 该处还得处",
@@ -11281,6 +11377,14 @@
       "onboard_time": 1687935396,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252768,
+      "num": 252768,
+      "word": "女子出游回家后洗面奶被灌尿液",
+      "onboard_time": 1688283513,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252579,
@@ -12803,14 +12907,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 213068,
-      "num": 213068,
-      "word": "熊孩子玩扎带勒脖被发现时已充血肿胀",
-      "onboard_time": 1688283214,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212834,
       "num": 212834,
       "word": "女生毕业典礼被分到李兰娟院士拨穗",
@@ -13145,6 +13241,14 @@
       "onboard_time": 1688273852,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "王鹤棣的神灯显灵了",
+      "onboard_time": 1688285792,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 205548,
@@ -14513,6 +14617,14 @@
       "onboard_time": 1688034876,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177149,
+      "num": 177149,
+      "word": "萌娃站门框姥爷开门技能瞬间失效",
+      "onboard_time": 1688285194,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176799,
