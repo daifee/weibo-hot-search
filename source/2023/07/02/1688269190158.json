@@ -1,0 +1,410 @@
+{
+  "runTime": 1688269190158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2234171,
+        "num": 2234171,
+        "word": "大妈用高铁上的插座焖了一锅米饭",
+        "onboard_time": 1688266470,
+        "rank": 0,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1954068,
+        "num": 1954068,
+        "word": "杨洋王楚然我的人间烟火新预告",
+        "onboard_time": 1688267371,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58942,
+        "num": 1086694,
+        "word": "青藏铁路开启动车时代",
+        "onboard_time": 1688268633,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063751,
+        "num": 1063751,
+        "word": "终于知道我头发油的原因了",
+        "onboard_time": 1688257046,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 877519,
+        "num": 877519,
+        "word": "正式被确诊为浣碧",
+        "onboard_time": 1688219853,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 854142,
+        "num": 854142,
+        "word": "在飞机上偶遇三只狗狗",
+        "onboard_time": 1688264371,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 781474,
+        "num": 781474,
+        "word": "尘缘定档今晚",
+        "onboard_time": 1688263708,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 710730,
+        "num": 710730,
+        "word": "朱一龙20亿票房男主",
+        "onboard_time": 1688255965,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 647110,
+        "num": 647110,
+        "word": "退休老人认18个爸妈为其养老送终",
+        "onboard_time": 1688260949,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605479,
+        "num": 605479,
+        "word": "人大回应网传学生个人信息被泄露",
+        "onboard_time": 1688268269,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597106,
+        "num": 597106,
+        "word": "苏格兰呼吁女性生育时不用止痛药",
+        "onboard_time": 1688261669,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526641,
+        "num": 526641,
+        "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
+        "onboard_time": 1688268269,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512216,
+        "num": 512216,
+        "word": "吊带袜天使新作真的来了",
+        "onboard_time": 1688266413,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 476672,
+        "num": 476672,
+        "word": "一个发型拯救一张脸",
+        "onboard_time": 1688262870,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54812,
+        "num": 472423,
+        "word": "山东省委书记揭秘乡村振兴经验",
+        "onboard_time": 1688266832,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468358,
+        "num": 468358,
+        "word": "广东液体榴莲",
+        "onboard_time": 1688268750,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455410,
+        "num": 455410,
+        "word": "女儿每拿一张奖状爸爸就奖100元",
+        "onboard_time": 1688265630,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452337,
+        "num": 452337,
+        "word": "推特限制非会员浏览条数",
+        "onboard_time": 1688268151,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 426604,
+        "num": 426604,
+        "word": "马克龙把骚乱归咎于社交媒体和电子游戏",
+        "onboard_time": 1688259386,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 351632,
+        "num": 351632,
+        "word": "女子去世7只猫继承217万遗产",
+        "onboard_time": 1688224659,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523776,
+        "num": 351347,
+        "word": "才知道周杰伦给Angelababy写过歌",
+        "onboard_time": 1688266531,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 471341,
+        "num": 350690,
+        "word": "倪妮二十亿票房女主",
+        "onboard_time": 1688265329,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388805,
+        "num": 349884,
+        "word": "原来韩国偶像剧演的并不夸张",
+        "onboard_time": 1688268151,
+        "rank": 22,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 380306,
+        "num": 348827,
+        "word": "恋与制作人",
+        "onboard_time": 1688268571,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 348824,
+        "num": 348824,
+        "word": "高校男生被女生喷不明液体双方已和解",
+        "onboard_time": 1688215231,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337272,
+        "num": 337272,
+        "word": "白敬亭这真的是你吗",
+        "onboard_time": 1688219254,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323631,
+        "num": 323631,
+        "word": "管文丁宁官宣恋情",
+        "onboard_time": 1688259268,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295836,
+        "num": 295836,
+        "word": "ALin 金曲歌后",
+        "onboard_time": 1688226334,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280707,
+        "num": 280707,
+        "word": "韩安冉 不要因为受伤就怕输",
+        "onboard_time": 1688244793,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255907,
+        "num": 276990,
+        "word": "花花接住谭爷爷给的小苹果",
+        "onboard_time": 1688221059,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276620,
+        "num": 276620,
+        "word": "宣璐汪卓成二搭演情侣",
+        "onboard_time": 1688263767,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273288,
+        "num": 273288,
+        "word": "长安三万里",
+        "onboard_time": 1688267191,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251653,
+        "num": 251653,
+        "word": "毕业礼遇雨西交大书记为校长撑伞",
+        "onboard_time": 1688268930,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 250580,
+        "num": 250580,
+        "word": "女子种地5600亩国企老公辞职支持",
+        "onboard_time": 1688267910,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250354,
+        "num": 250354,
+        "word": "杨紫挑染双马尾",
+        "onboard_time": 1688268692,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248262,
+        "num": 248262,
+        "word": "华晨宇大地",
+        "onboard_time": 1688266049,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247939,
+        "num": 247939,
+        "word": "TF三代出道战终于要来了",
+        "onboard_time": 1688259568,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239575,
+        "num": 239575,
+        "word": "黄子韬说让马伯骞去干建筑师",
+        "onboard_time": 1688259868,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232746,
+        "num": 232746,
+        "word": "伯远笑吐了",
+        "onboard_time": 1688268450,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231305,
+        "num": 231305,
+        "word": "恐怖程度约等于零的恐怖片",
+        "onboard_time": 1688228730,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230224,
+        "num": 230224,
+        "word": "法国",
+        "onboard_time": 1688261010,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 225766,
+        "num": 225766,
+        "word": "古巨基和老婆求婚的原因",
+        "onboard_time": 1688222138,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208574,
+        "num": 208574,
+        "word": "风灵玉秀2开播",
+        "onboard_time": 1688268991,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 207687,
+        "num": 207687,
+        "word": "白敬亭顾九思战损海报",
+        "onboard_time": 1688268029,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204432,
+        "num": 204432,
+        "word": "韩剧 恶鬼",
+        "onboard_time": 1688222499,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201649,
+        "num": 201649,
+        "word": "长风渡守望都名场面",
+        "onboard_time": 1688265869,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189205,
+        "num": 189205,
+        "word": "夏天晒后背真的去寒吗",
+        "onboard_time": 1688267130,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186732,
+        "num": 186732,
+        "word": "俩南方小伙山东旅游点6个菜吃不完",
+        "onboard_time": 1688257647,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183101,
+        "num": 183101,
+        "word": "Alin获奖后与贾静雯刘雅瑟视频",
+        "onboard_time": 1688263889,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177789,
+        "num": 177789,
+        "word": "众星为杨颖尘缘打call",
+        "onboard_time": 1688268991,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持中共中央政治局第六次集体学习#"
+    }
+  }
+}

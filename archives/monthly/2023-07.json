@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688267472694,
+  "endTime": 1688269190158,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2234171,
+      "num": 2234171,
+      "word": "大妈用高铁上的插座焖了一锅米饭",
+      "onboard_time": 1688266470,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 2221394,
       "num": 1354821,
       "word": "爱奇艺工作人员 白敬亭好好对宋轶",
@@ -137,6 +145,14 @@
       "onboard_time": 1688173530,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1954068,
+      "num": 1954068,
+      "word": "杨洋王楚然我的人间烟火新预告",
+      "onboard_time": 1688267371,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1861781,
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 854142,
+      "num": 854142,
+      "word": "在飞机上偶遇三只狗狗",
+      "onboard_time": 1688264371,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 850343,
       "num": 850343,
       "word": "山东大学拟聘用2名硕士为公寓管理员",
@@ -659,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 728764,
-      "num": 570556,
-      "word": "大妈用高铁上的插座焖了一锅米饭",
-      "onboard_time": 1688266470,
-      "rank": 30,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 716944,
       "num": 716944,
       "word": "鹿晗演唱会给粉丝送Gucci",
@@ -737,14 +753,6 @@
       "onboard_time": 1688180973,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 663216,
-      "num": 607370,
-      "word": "在飞机上偶遇三只狗狗",
-      "onboard_time": 1688264371,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 662031,
@@ -896,6 +904,14 @@
       "word": "大学毕业生带小黄鸭坐火车被拒",
       "onboard_time": 1688252477,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605479,
+      "num": 605479,
+      "word": "人大回应网传学生个人信息被泄露",
+      "onboard_time": 1688268269,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1051,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 542904,
-      "num": 542904,
-      "word": "杨洋王楚然我的人间烟火新预告",
-      "onboard_time": 1688267371,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 541532,
       "num": 437978,
       "word": "女生本科毕业就成功应聘高校教师",
@@ -1097,6 +1105,22 @@
       "onboard_time": 1688211152,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 526641,
+      "num": 526641,
+      "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
+      "onboard_time": 1688268269,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523776,
+      "num": 351347,
+      "word": "才知道周杰伦给Angelababy写过歌",
+      "onboard_time": 1688266531,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 523496,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1688178090,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 512216,
+      "num": 512216,
+      "word": "吊带袜天使新作真的来了",
+      "onboard_time": 1688266413,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 511085,
@@ -1204,7 +1236,7 @@
     },
     {
       "raw_hot": 493357,
-      "num": 342652,
+      "num": 350690,
       "word": "倪妮二十亿票房女主",
       "onboard_time": 1688265329,
       "rank": 20,
@@ -1291,12 +1323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468358,
+      "num": 468358,
+      "word": "广东液体榴莲",
+      "onboard_time": 1688268750,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453844,
       "num": 453844,
       "word": "刘畊宏晒与郭艾伦李现林书豪合照",
       "onboard_time": 1688173649,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 452337,
+      "num": 452337,
+      "word": "推特限制非会员浏览条数",
+      "onboard_time": 1688268151,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 448877,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1688217573,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430808,
-      "num": 335395,
-      "word": "才知道周杰伦给Angelababy写过歌",
-      "onboard_time": 1688266531,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 424531,
@@ -1459,14 +1499,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 400356,
-      "num": 269045,
-      "word": "吊带袜天使新作真的来了",
-      "onboard_time": 1688266413,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 400074,
       "num": 400074,
       "word": "陈绮贞好美",
@@ -1491,12 +1523,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 388805,
+      "num": 349884,
+      "word": "原来韩国偶像剧演的并不夸张",
+      "onboard_time": 1688268151,
+      "rank": 22,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 382533,
       "num": 382533,
       "word": "今天是平分2023年的一天",
       "onboard_time": 1688256084,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380306,
+      "num": 348827,
+      "word": "恋与制作人",
+      "onboard_time": 1688268571,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 378352,
@@ -1971,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273288,
+      "num": 273288,
+      "word": "长安三万里",
+      "onboard_time": 1688267191,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273156,
       "num": 273156,
       "word": "星卡里",
@@ -2211,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251653,
+      "num": 251653,
+      "word": "毕业礼遇雨西交大书记为校长撑伞",
+      "onboard_time": 1688268930,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 251164,
       "num": 251164,
       "word": "间谍潜藏十七年终落网",
@@ -2233,6 +2297,22 @@
       "onboard_time": 1688179830,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250580,
+      "num": 250580,
+      "word": "女子种地5600亩国企老公辞职支持",
+      "onboard_time": 1688267910,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250354,
+      "num": 250354,
+      "word": "杨紫挑染双马尾",
+      "onboard_time": 1688268692,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 250152,
@@ -2265,6 +2345,14 @@
       "onboard_time": 1688261249,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248262,
+      "num": 248262,
+      "word": "华晨宇大地",
+      "onboard_time": 1688266049,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 246160,
@@ -2403,12 +2491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233069,
-      "num": 233069,
-      "word": "华晨宇大地",
-      "onboard_time": 1688266049,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 232746,
+      "num": 232746,
+      "word": "伯远笑吐了",
+      "onboard_time": 1688268450,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 231652,
@@ -2659,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208574,
+      "num": 208574,
+      "word": "风灵玉秀2开播",
+      "onboard_time": 1688268991,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 208488,
       "num": 236400,
       "word": "外国友人点赞万能的蓝朋友",
@@ -2673,6 +2769,14 @@
       "onboard_time": 1688196512,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 207687,
+      "num": 207687,
+      "word": "白敬亭顾九思战损海报",
+      "onboard_time": 1688268029,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 206944,
@@ -2891,6 +2995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189205,
+      "num": 189205,
+      "word": "夏天晒后背真的去寒吗",
+      "onboard_time": 1688267130,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188980,
       "num": 188980,
       "word": "高温天打火机放车内被晒爆",
@@ -2987,6 +3099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177789,
+      "num": 177789,
+      "word": "众星为杨颖尘缘打call",
+      "onboard_time": 1688268991,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176733,
       "num": 176733,
       "word": "NBA自由市场签约",
@@ -3059,14 +3179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170100,
-      "num": 170100,
-      "word": "夏天晒后背真的去寒吗",
-      "onboard_time": 1688267130,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 169456,
       "num": 169456,
       "word": "大热天21人挤同一电梯被困",
@@ -3089,14 +3201,6 @@
       "onboard_time": 1688252477,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161098,
-      "num": 161098,
-      "word": "长安三万里",
-      "onboard_time": 1688267191,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 161087,
@@ -3435,6 +3539,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 58942,
+      "num": 1086694,
+      "word": "青藏铁路开启动车时代",
+      "onboard_time": 1688268633,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58647,
       "num": 58647,
       "word": "大叔被列车上举手尝零食的学生逗笑",
@@ -3449,6 +3561,14 @@
       "onboard_time": 1688237358,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54812,
+      "num": 484837,
+      "word": "山东省委书记揭秘乡村振兴经验",
+      "onboard_time": 1688266832,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48190,
@@ -3491,14 +3611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20241,
-      "num": 484837,
-      "word": "山东省委书记揭秘乡村振兴经验",
-      "onboard_time": 1688266832,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19992,
       "num": 22303,
       "word": "当事游客回应发视频表扬导游",
@@ -3533,6 +3645,9 @@
     },
     {
       "word": "#他们的名字成为闪耀的路标#"
+    },
+    {
+      "word": "#习近平主持中共中央政治局第六次集体学习#"
     }
   ]
 }
