@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688318156335,
+  "endTime": 1688319218203,
   "band_list": [
     {
       "raw_hot": 9610176,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421470,
+      "num": 275517,
+      "word": "只能骗骗涉世未深的小狗",
+      "onboard_time": 1688312198,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 403052,
       "num": 403052,
       "word": "原来榴莲也有住单间的",
@@ -153,14 +161,6 @@
       "onboard_time": 1688314055,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 380215,
-      "num": 275517,
-      "word": "只能骗骗涉世未深的小狗",
-      "onboard_time": 1688312198,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 345417,
@@ -208,6 +208,14 @@
       "word": "玉骨遥美工好忙",
       "onboard_time": 1688305121,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 257529,
+      "num": 127602,
+      "word": "网友理解的李木子手势",
+      "onboard_time": 1688316926,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -297,14 +305,6 @@
       "onboard_time": 1688303801,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200704,
-      "num": 127602,
-      "word": "网友理解的李木子手势",
-      "onboard_time": 1688316926,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 198947,
