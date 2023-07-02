@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688337263928,
+  "endTime": 1688339902686,
   "band_list": [
     {
       "raw_hot": 9610176,
@@ -57,6 +57,14 @@
       "onboard_time": 1688311118,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 703875,
+      "num": 703875,
+      "word": "室友卖掉了我将近十年的青春",
+      "onboard_time": 1688298513,
+      "rank": 19,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 669227,
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453487,
+      "num": 453487,
+      "word": "网友理解的李木子手势",
+      "onboard_time": 1688316926,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421470,
       "num": 275517,
       "word": "只能骗骗涉世未深的小狗",
@@ -187,20 +203,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 329065,
-      "num": 329065,
-      "word": "室友卖掉了我将近十年的青春",
-      "onboard_time": 1688298513,
-      "rank": 19,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 307682,
       "num": 307682,
       "word": "中国人民大学称已报警",
       "onboard_time": 1688293536,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 296008,
+      "num": 296008,
+      "word": "男孩为保护孕妈电梯里劝止烟民",
+      "onboard_time": 1688313395,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285817,
+      "num": 285817,
+      "word": "哪部会成为暑期档爆剧",
+      "onboard_time": 1688323515,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 284123,
@@ -211,12 +235,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257529,
-      "num": 204758,
-      "word": "网友理解的李木子手势",
-      "onboard_time": 1688316926,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 273954,
+      "num": 135914,
+      "word": "巨型蟑螂吓到主人4只奶猫争相帮抓",
+      "onboard_time": 1688338940,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263934,
+      "num": 263934,
+      "word": "黄晓明闹太套脱敏成功",
+      "onboard_time": 1688323754,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241883,
+      "num": 249328,
+      "word": "女生称求职因是上海人2天被拒3次",
+      "onboard_time": 1688303259,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236725,
@@ -267,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223167,
+      "num": 223167,
+      "word": "玉骨遥首播评价",
+      "onboard_time": 1688297434,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222671,
       "num": 222671,
       "word": "长安三万里 将进酒",
@@ -275,20 +323,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 221976,
-      "num": 221976,
-      "word": "男孩为保护孕妈电梯里劝止烟民",
-      "onboard_time": 1688313395,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220088,
       "num": 220088,
       "word": "赵露思8集换29套衣服",
       "onboard_time": 1688295933,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217960,
+      "num": 217960,
+      "word": "相爱和分手的原因都是同一个",
+      "onboard_time": 1688338940,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 201016,
@@ -337,14 +385,6 @@
       "onboard_time": 1688284833,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177980,
-      "num": 154582,
-      "word": "玉骨遥首播评价",
-      "onboard_time": 1688297434,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 177374,
@@ -411,28 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152240,
-      "num": 152240,
-      "word": "哪部会成为暑期档爆剧",
-      "onboard_time": 1688323515,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 149125,
       "num": 149125,
       "word": "神十四乘组在太空种的菜被吃了",
       "onboard_time": 1688312074,
       "rank": 47,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 147880,
-      "num": 165134,
-      "word": "女生称求职因是上海人2天被拒3次",
-      "onboard_time": 1688303259,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147059,
@@ -443,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138387,
+      "num": 138387,
+      "word": "英雄联盟",
+      "onboard_time": 1688337679,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135330,
       "num": 135330,
       "word": "沈梦辰戴脐钉",
@@ -451,20 +483,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132074,
-      "num": 132074,
-      "word": "黄晓明闹太套脱敏成功",
-      "onboard_time": 1688323754,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117301,
       "num": 117301,
       "word": "看得出来他真的不会说谎",
       "onboard_time": 1688317283,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116733,
+      "num": 116733,
+      "word": "环卫工人儿子高考687分被多校电话争抢",
+      "onboard_time": 1688339604,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 108040,
+      "num": 108040,
+      "word": "北京南四环上空突现神秘飞行物",
+      "onboard_time": 1688320338,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100528,
@@ -483,6 +523,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 86967,
+      "num": 86967,
+      "word": "没有穿尿不湿的干不了的事",
+      "onboard_time": 1688327412,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86105,
       "num": 86105,
       "word": "白敬亭直播",
@@ -496,14 +544,6 @@
       "word": "女子前轮被卡武警特警把车抬出",
       "onboard_time": 1688316326,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76642,
-      "num": 76642,
-      "word": "北京南四环上空突现神秘飞行物",
-      "onboard_time": 1688320338,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -523,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 62171,
+      "num": 69053,
+      "word": "原来猫咪吵架也能按暂停",
+      "onboard_time": 1688339363,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39476,
       "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
@@ -531,19 +579,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 38163,
-      "num": 50984,
-      "word": "没有穿尿不湿的干不了的事",
-      "onboard_time": 1688327412,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 26764,
       "num": 50821,
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18733,
+      "num": 530570,
+      "word": "他们获颁光荣在党50年纪念章",
+      "onboard_time": 1688306982,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
