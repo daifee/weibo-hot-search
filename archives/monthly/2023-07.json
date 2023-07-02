@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688322926974,
+  "endTime": 1688325264230,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -5539,6 +5539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 86792,
+      "num": 86792,
+      "word": "黄晓明闹太套脱敏成功",
+      "onboard_time": 1688323754,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86105,
       "num": 86105,
       "word": "白敬亭直播",
@@ -5593,6 +5601,14 @@
       "onboard_time": 1688232801,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79023,
+      "num": 78087,
+      "word": "哪部会成为暑期档爆剧",
+      "onboard_time": 1688323515,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 77495,
