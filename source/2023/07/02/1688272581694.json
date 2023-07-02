@@ -1,0 +1,410 @@
+{
+  "runTime": 1688272581694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1522912,
+        "num": 1522912,
+        "word": "杨洋王楚然我的人间烟火新预告",
+        "onboard_time": 1688267371,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1303239,
+        "num": 1303239,
+        "word": "倪妮能够出演陈麦的原因",
+        "onboard_time": 1688269470,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126180,
+        "num": 1213839,
+        "word": "青藏铁路开启动车时代",
+        "onboard_time": 1688268633,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178702,
+        "num": 1178702,
+        "word": "终于知道我头发油的原因了",
+        "onboard_time": 1688257046,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1023207,
+        "num": 1023207,
+        "word": "广东液体榴莲",
+        "onboard_time": 1688268750,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866445,
+        "num": 866445,
+        "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
+        "onboard_time": 1688268269,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666563,
+        "num": 666563,
+        "word": "李耕耘 四姑娘山",
+        "onboard_time": 1688269410,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648996,
+        "num": 648996,
+        "word": "鹿晗演唱会 抢票",
+        "onboard_time": 1688271451,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 588872,
+        "num": 588872,
+        "word": "正式被确诊为浣碧",
+        "onboard_time": 1688219853,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 443520,
+        "num": 443520,
+        "word": "中国女篮vs日本女篮",
+        "onboard_time": 1688270731,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1270435,
+        "num": 443342,
+        "word": "歌手胡海泉名下私募被警示",
+        "onboard_time": 1688271629,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 780201,
+        "num": 440739,
+        "word": "100多岁鲸鱼的眼睛",
+        "onboard_time": 1688269590,
+        "rank": 11,
+        "category": "自然,幽默"
+      },
+      {
+        "raw_hot": 720026,
+        "num": 439608,
+        "word": "人大回应网传学生个人信息被泄露",
+        "onboard_time": 1688268269,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626930,
+        "num": 438875,
+        "word": "法国警察射杀17岁少年引起骚乱",
+        "onboard_time": 1688271150,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 623701,
+        "num": 436886,
+        "word": "小彩旗杨丽萍重聚",
+        "onboard_time": 1688271091,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436335,
+        "num": 436335,
+        "word": "朱一龙20亿票房男主",
+        "onboard_time": 1688255965,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393185,
+        "num": 393185,
+        "word": "戴佩妮 陪跑",
+        "onboard_time": 1688270012,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 374030,
+        "num": 374030,
+        "word": "浮世三千定档",
+        "onboard_time": 1688270012,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341736,
+        "num": 341736,
+        "word": "马克龙把骚乱归咎于社交媒体和电子游戏",
+        "onboard_time": 1688259386,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 336329,
+        "num": 336329,
+        "word": "凌肖 查无此人",
+        "onboard_time": 1688271870,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 616852,
+        "num": 336272,
+        "word": "原来韩国偶像剧演的并不夸张",
+        "onboard_time": 1688268151,
+        "rank": 20,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 350856,
+        "num": 335656,
+        "word": "孙女给不能自理的爷爷洗澡引争议",
+        "onboard_time": 1688271150,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339457,
+        "num": 335060,
+        "word": "杨紫挑染双马尾",
+        "onboard_time": 1688268692,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332109,
+        "num": 332109,
+        "word": "吊带袜天使新作真的来了",
+        "onboard_time": 1688266413,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 327591,
+        "num": 327591,
+        "word": "尘缘定档今晚",
+        "onboard_time": 1688263708,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303596,
+        "num": 303596,
+        "word": "苏格兰呼吁女性生育时不用止痛药",
+        "onboard_time": 1688261669,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299994,
+        "num": 299994,
+        "word": "毕业礼遇雨西交大书记为校长撑伞",
+        "onboard_time": 1688268930,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 288127,
+        "num": 288127,
+        "word": "长风渡城楼吻海报",
+        "onboard_time": 1688270431,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284905,
+        "num": 284905,
+        "word": "管文丁宁官宣恋情",
+        "onboard_time": 1688259268,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281942,
+        "num": 281942,
+        "word": "在飞机上偶遇三只狗狗",
+        "onboard_time": 1688264371,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 547823,
+        "num": 281792,
+        "word": "韩86岁演艺圈元老性侵女学生被捕",
+        "onboard_time": 1688271391,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 281436,
+        "num": 281436,
+        "word": "一个发型拯救一张脸",
+        "onboard_time": 1688262870,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272986,
+        "num": 272986,
+        "word": "才知道周杰伦给Angelababy写过歌",
+        "onboard_time": 1688266531,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250898,
+        "num": 250898,
+        "word": "推特限制非会员浏览条数",
+        "onboard_time": 1688268151,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 248963,
+        "num": 248963,
+        "word": "读老年大学的体验",
+        "onboard_time": 1688271811,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 245988,
+        "num": 245988,
+        "word": "ALin 金曲歌后",
+        "onboard_time": 1688226334,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240986,
+        "num": 240986,
+        "word": "众星为杨颖尘缘打call",
+        "onboard_time": 1688268991,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239651,
+        "num": 239651,
+        "word": "女儿每拿一张奖状爸爸就奖100元",
+        "onboard_time": 1688265630,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233543,
+        "num": 233543,
+        "word": "白敬亭这真的是你吗",
+        "onboard_time": 1688219254,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231898,
+        "num": 231898,
+        "word": "山东71位书记七一当天齐聚沂蒙山",
+        "onboard_time": 1688270012,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228733,
+        "num": 228733,
+        "word": "TF三代出道战终于要来了",
+        "onboard_time": 1688259568,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210300,
+        "num": 210300,
+        "word": "退休老人认18个爸妈为其养老送终",
+        "onboard_time": 1688260949,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199392,
+        "num": 199392,
+        "word": "恐怖程度约等于零的恐怖片",
+        "onboard_time": 1688228730,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196953,
+        "num": 196953,
+        "word": "就差演唱会门票了",
+        "onboard_time": 1688271931,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193572,
+        "num": 193572,
+        "word": "倪妮二十亿票房女主",
+        "onboard_time": 1688265329,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187208,
+        "num": 187208,
+        "word": "花花接住谭爷爷给的小苹果",
+        "onboard_time": 1688221059,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181878,
+        "num": 181878,
+        "word": "高校男生被女生喷不明液体双方已和解",
+        "onboard_time": 1688215231,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180390,
+        "num": 180390,
+        "word": "恋与制作人",
+        "onboard_time": 1688268571,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170310,
+        "num": 170310,
+        "word": "宣璐汪卓成二搭演情侣",
+        "onboard_time": 1688263767,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168403,
+        "num": 168403,
+        "word": "他到长沙第一件事是去缅怀袁老师",
+        "onboard_time": 1688272532,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#征程#"
+    }
+  }
+}

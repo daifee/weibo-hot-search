@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688271703161,
+  "endTime": 1688272581694,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1270435,
+      "num": 443342,
+      "word": "歌手胡海泉名下私募被警示",
+      "onboard_time": 1688271629,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1264487,
       "num": 1264487,
       "word": "广东液体榴莲",
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 866445,
+      "num": 866445,
+      "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
+      "onboard_time": 1688268269,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854142,
       "num": 854142,
       "word": "在飞机上偶遇三只狗狗",
@@ -561,14 +577,6 @@
       "onboard_time": 1688259268,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 843535,
-      "num": 843535,
-      "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
-      "onboard_time": 1688268269,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 823565,
@@ -641,6 +649,14 @@
       "onboard_time": 1688184573,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 780201,
+      "num": 543198,
+      "word": "100多岁鲸鱼的眼睛",
+      "onboard_time": 1688269590,
+      "rank": 10,
+      "category": "自然,幽默"
     },
     {
       "raw_hot": 778482,
@@ -827,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 648996,
+      "num": 648996,
+      "word": "鹿晗演唱会 抢票",
+      "onboard_time": 1688271451,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 648985,
       "num": 317047,
       "word": "玉骨遥",
@@ -883,14 +907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 630560,
-      "num": 543198,
-      "word": "100多岁鲸鱼的眼睛",
-      "onboard_time": 1688269590,
-      "rank": 10,
-      "category": "自然,幽默"
-    },
-    {
       "raw_hot": 630328,
       "num": 406128,
       "word": "周翊然成难哄桑延热门人选",
@@ -923,6 +939,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 626930,
+      "num": 438875,
+      "word": "法国警察射杀17岁少年引起骚乱",
+      "onboard_time": 1688271150,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 624217,
       "num": 624217,
       "word": "茶百道 未定事件簿",
@@ -939,12 +963,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 623701,
+      "num": 436886,
+      "word": "小彩旗杨丽萍重聚",
+      "onboard_time": 1688271091,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621559,
       "num": 621559,
       "word": "白敬亭梁洁邢菲边天扬跳的Queencard",
       "onboard_time": 1688199815,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 616852,
+      "num": 373522,
+      "word": "原来韩国偶像剧演的并不夸张",
+      "onboard_time": 1688268151,
+      "rank": 22,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 606794,
@@ -993,14 +1033,6 @@
       "onboard_time": 1688188412,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 578517,
-      "num": 373522,
-      "word": "原来韩国偶像剧演的并不夸张",
-      "onboard_time": 1688268151,
-      "rank": 22,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 576248,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1688222676,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 547823,
+      "num": 291036,
+      "word": "韩86岁演艺圈元老性侵女学生被捕",
+      "onboard_time": 1688271391,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 543033,
@@ -1411,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 443520,
+      "num": 443520,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1688270731,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443264,
       "num": 443264,
       "word": "肖战vlog画外音",
@@ -1547,14 +1595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 392883,
-      "num": 392883,
-      "word": "小彩旗杨丽萍重聚",
-      "onboard_time": 1688271091,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 391222,
       "num": 391222,
       "word": "7岁女孩有弟弟后眼睛突然看不清",
@@ -1619,20 +1659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373934,
-      "num": 373934,
+      "raw_hot": 374030,
+      "num": 374030,
       "word": "浮世三千定档",
       "onboard_time": 1688270012,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372631,
-      "num": 372631,
-      "word": "鹿晗演唱会 抢票",
-      "onboard_time": 1688271451,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 371941,
@@ -1667,14 +1699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360880,
-      "num": 360880,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1688270731,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 360152,
       "num": 360152,
       "word": "朱一龙一番总票房破40亿",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1688175570,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 350856,
+      "num": 335656,
+      "word": "孙女给不能自理的爷爷洗澡引争议",
+      "onboard_time": 1688271150,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349759,
@@ -1761,6 +1793,14 @@
       "onboard_time": 1688180251,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 336329,
+      "num": 336329,
+      "word": "凌肖 查无此人",
+      "onboard_time": 1688271870,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 333659,
@@ -1979,14 +2019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 299990,
-      "num": 299990,
-      "word": "孙女给不能自理的爷爷洗澡引争议",
-      "onboard_time": 1688271150,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298630,
       "num": 298630,
       "word": "HR认可的离职原因",
@@ -2035,12 +2067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291036,
-      "num": 291036,
-      "word": "韩86岁演艺圈元老性侵女学生被捕",
-      "onboard_time": 1688271391,
-      "rank": 32,
-      "category": "社会新闻,艺人"
+      "raw_hot": 288127,
+      "num": 288127,
+      "word": "长风渡城楼吻海报",
+      "onboard_time": 1688270431,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 286377,
@@ -2113,14 +2145,6 @@
       "onboard_time": 1688180611,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273531,
-      "num": 313813,
-      "word": "法国警察射杀17岁少年引起骚乱",
-      "onboard_time": 1688271150,
-      "rank": 29,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 273368,
@@ -2267,14 +2291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264008,
-      "num": 264008,
-      "word": "歌手胡海泉名下私募被警示",
-      "onboard_time": 1688271629,
-      "rank": 35,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 262400,
       "num": 262400,
       "word": "驾照到手就去应聘教练吧",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1688175030,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259221,
-      "num": 259221,
-      "word": "长风渡城楼吻海报",
-      "onboard_time": 1688270431,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 258687,
@@ -2451,6 +2459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248963,
+      "num": 248963,
+      "word": "读老年大学的体验",
+      "onboard_time": 1688271811,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 248610,
       "num": 248610,
       "word": "别人划水是偷懒熊猫划水是工作",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1688169326,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240986,
+      "num": 240986,
+      "word": "众星为杨颖尘缘打call",
+      "onboard_time": 1688268991,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 240756,
@@ -2601,14 +2625,6 @@
       "onboard_time": 1688188593,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232891,
-      "num": 232891,
-      "word": "众星为杨颖尘缘打call",
-      "onboard_time": 1688268991,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 232746,
@@ -3011,6 +3027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196953,
+      "num": 196953,
+      "word": "就差演唱会门票了",
+      "onboard_time": 1688271931,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195820,
       "num": 204290,
       "word": "Cat盾山才是真C",
@@ -3315,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168403,
+      "num": 168403,
+      "word": "他到长沙第一件事是去缅怀袁老师",
+      "onboard_time": 1688272532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166399,
       "num": 166399,
       "word": "喜欢拍照记录真的是一个好习惯",
@@ -3491,6 +3523,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 126180,
+      "num": 1351136,
+      "word": "青藏铁路开启动车时代",
+      "onboard_time": 1688268633,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125833,
       "num": 201416,
       "word": "才知道自己没吃过正宗双皮奶",
@@ -3505,14 +3545,6 @@
       "onboard_time": 1688206652,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 118638,
-      "num": 1351136,
-      "word": "青藏铁路开启动车时代",
-      "onboard_time": 1688268633,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115967,

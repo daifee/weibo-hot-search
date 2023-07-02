@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688271703161,
+  "endTime": 1688272581694,
   "band_list": [
     {
       "raw_hot": 5712927,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1270435,
+      "num": 443342,
+      "word": "歌手胡海泉名下私募被警示",
+      "onboard_time": 1688271629,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1264487,
       "num": 1264487,
       "word": "广东液体榴莲",
@@ -123,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 866445,
+      "num": 866445,
+      "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
+      "onboard_time": 1688268269,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854142,
       "num": 854142,
       "word": "在飞机上偶遇三只狗狗",
@@ -139,20 +155,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 843535,
-      "num": 843535,
-      "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
-      "onboard_time": 1688268269,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 789699,
       "num": 789699,
       "word": "苏格兰呼吁女性生育时不用止痛药",
       "onboard_time": 1688261669,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780201,
+      "num": 543198,
+      "word": "100多岁鲸鱼的眼睛",
+      "onboard_time": 1688269590,
+      "rank": 10,
+      "category": "自然,幽默"
     },
     {
       "raw_hot": 778439,
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 648996,
+      "num": 648996,
+      "word": "鹿晗演唱会 抢票",
+      "onboard_time": 1688271451,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 637336,
       "num": 637336,
       "word": "一个发型拯救一张脸",
@@ -219,12 +243,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 630560,
-      "num": 543198,
-      "word": "100多岁鲸鱼的眼睛",
-      "onboard_time": 1688269590,
-      "rank": 10,
-      "category": "自然,幽默"
+      "raw_hot": 626930,
+      "num": 438875,
+      "word": "法国警察射杀17岁少年引起骚乱",
+      "onboard_time": 1688271150,
+      "rank": 29,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 626660,
@@ -233,6 +257,22 @@
       "onboard_time": 1688208391,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 623701,
+      "num": 436886,
+      "word": "小彩旗杨丽萍重聚",
+      "onboard_time": 1688271091,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 616852,
+      "num": 373522,
+      "word": "原来韩国偶像剧演的并不夸张",
+      "onboard_time": 1688268151,
+      "rank": 22,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 616760,
@@ -267,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578517,
-      "num": 373522,
-      "word": "原来韩国偶像剧演的并不夸张",
-      "onboard_time": 1688268151,
-      "rank": 22,
-      "category": "幽默,影视"
-    },
-    {
       "raw_hot": 559401,
       "num": 559401,
       "word": "HUSH 金曲歌王",
@@ -289,6 +321,14 @@
       "onboard_time": 1688265630,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547823,
+      "num": 291036,
+      "word": "韩86岁演艺圈元老性侵女学生被捕",
+      "onboard_time": 1688271391,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 527940,
@@ -387,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443520,
+      "num": 443520,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1688270731,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438046,
       "num": 584558,
       "word": "法国骚乱已蔓延到邻国比利时",
@@ -425,14 +473,6 @@
       "onboard_time": 1688222676,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 392883,
-      "num": 392883,
-      "word": "小彩旗杨丽萍重聚",
-      "onboard_time": 1688271091,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 390197,
@@ -475,20 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 373934,
-      "num": 373934,
+      "raw_hot": 374030,
+      "num": 374030,
       "word": "浮世三千定档",
       "onboard_time": 1688270012,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372631,
-      "num": 372631,
-      "word": "鹿晗演唱会 抢票",
-      "onboard_time": 1688271451,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 370854,
@@ -497,14 +529,6 @@
       "onboard_time": 1688259568,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360880,
-      "num": 360880,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1688270731,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 357567,
@@ -521,6 +545,14 @@
       "onboard_time": 1688222255,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350856,
+      "num": 335656,
+      "word": "孙女给不能自理的爷爷洗澡引争议",
+      "onboard_time": 1688271150,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349759,
@@ -545,6 +577,14 @@
       "onboard_time": 1688268930,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 336329,
+      "num": 336329,
+      "word": "凌肖 查无此人",
+      "onboard_time": 1688271870,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 334051,
@@ -587,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299990,
-      "num": 299990,
-      "word": "孙女给不能自理的爷爷洗澡引争议",
-      "onboard_time": 1688271150,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295100,
       "num": 295100,
       "word": "TF家族合照",
@@ -603,12 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291036,
-      "num": 291036,
-      "word": "韩86岁演艺圈元老性侵女学生被捕",
-      "onboard_time": 1688271391,
-      "rank": 32,
-      "category": "社会新闻,艺人"
+      "raw_hot": 288127,
+      "num": 288127,
+      "word": "长风渡城楼吻海报",
+      "onboard_time": 1688270431,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 285207,
@@ -649,14 +681,6 @@
       "onboard_time": 1688226334,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 273531,
-      "num": 313813,
-      "word": "法国警察射杀17岁少年引起骚乱",
-      "onboard_time": 1688271150,
-      "rank": 29,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 273288,
@@ -715,27 +739,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 264008,
-      "num": 264008,
-      "word": "歌手胡海泉名下私募被警示",
-      "onboard_time": 1688271629,
-      "rank": 35,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 260792,
       "num": 260792,
       "word": "制片人说赵露思非常有天赋",
       "onboard_time": 1688258368,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 259221,
-      "num": 259221,
-      "word": "长风渡城楼吻海报",
-      "onboard_time": 1688270431,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248963,
+      "num": 248963,
+      "word": "读老年大学的体验",
+      "onboard_time": 1688271811,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 248610,
       "num": 248610,
       "word": "别人划水是偷懒熊猫划水是工作",
@@ -811,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240986,
+      "num": 240986,
+      "word": "众星为杨颖尘缘打call",
+      "onboard_time": 1688268991,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238359,
       "num": 238359,
       "word": "艾怡良 救我",
@@ -833,14 +857,6 @@
       "onboard_time": 1688218115,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 232891,
-      "num": 232891,
-      "word": "众星为杨颖尘缘打call",
-      "onboard_time": 1688268991,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 232746,
@@ -963,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196953,
+      "num": 196953,
+      "word": "就差演唱会门票了",
+      "onboard_time": 1688271931,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194636,
       "num": 454319,
       "word": "像她们一样",
@@ -1059,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168403,
+      "num": 168403,
+      "word": "他到长沙第一件事是去缅怀袁老师",
+      "onboard_time": 1688272532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166399,
       "num": 166399,
       "word": "喜欢拍照记录真的是一个好习惯",
@@ -1131,7 +1163,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118638,
+      "raw_hot": 126180,
       "num": 1351136,
       "word": "青藏铁路开启动车时代",
       "onboard_time": 1688268633,
