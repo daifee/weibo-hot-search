@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688336222382,
+  "endTime": 1688337263928,
   "band_list": [
     {
       "raw_hot": 9610176,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 257529,
-      "num": 146141,
+      "num": 204758,
       "word": "网友理解的李木子手势",
       "onboard_time": 1688316926,
       "rank": 30,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152240,
+      "num": 152240,
+      "word": "哪部会成为暑期档爆剧",
+      "onboard_time": 1688323515,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149125,
       "num": 149125,
       "word": "神十四乘组在太空种的菜被吃了",
@@ -443,8 +451,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117608,
-      "num": 117608,
+      "raw_hot": 132074,
+      "num": 132074,
       "word": "黄晓明闹太套脱敏成功",
       "onboard_time": 1688323754,
       "rank": 8,
@@ -457,14 +465,6 @@
       "onboard_time": 1688317283,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111276,
-      "num": 111276,
-      "word": "哪部会成为暑期档爆剧",
-      "onboard_time": 1688323515,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 100528,
@@ -523,24 +523,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33438,
-      "num": 47716,
-      "word": "没有穿尿不湿的干不了的事",
-      "onboard_time": 1688327412,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 31255,
-      "num": 47686,
+      "raw_hot": 39476,
+      "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
       "onboard_time": 1688332452,
       "rank": 42,
       "category": "影视"
     },
     {
+      "raw_hot": 38163,
+      "num": 50984,
+      "word": "没有穿尿不湿的干不了的事",
+      "onboard_time": 1688327412,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26764,
-      "num": 47622,
+      "num": 50821,
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
