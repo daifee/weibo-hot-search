@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688294128658,
+  "endTime": 1688296500209,
   "band_list": [
     {
       "raw_hot": 7958830,
@@ -9,6 +9,14 @@
       "onboard_time": 1688280394,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7578605,
+      "num": 7578605,
+      "word": "玉骨遥今日开播",
+      "onboard_time": 1688293415,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 6846023,
@@ -25,14 +33,6 @@
       "onboard_time": 1688265329,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5626542,
-      "num": 5626542,
-      "word": "玉骨遥今日开播",
-      "onboard_time": 1688293415,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 5469546,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1947077,
+      "num": 1947077,
+      "word": "曾黎玉骨遥上线3集就下线",
+      "onboard_time": 1688295216,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1861781,
       "num": 935537,
       "word": "江西杀害3名小孩嫌疑人被抓获",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 1660765,
-      "num": 395616,
+      "num": 641759,
       "word": "玉骨遥",
       "onboard_time": 1688188774,
       "rank": 30,
@@ -395,12 +403,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1341102,
+      "num": 1341102,
+      "word": "中国人民大学称已报警",
+      "onboard_time": 1688293536,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1327785,
       "num": 1036990,
       "word": "素颜的杨幂",
       "onboard_time": 1688185112,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1326918,
+      "num": 800986,
+      "word": "人民大学通报学生信息泄露事件",
+      "onboard_time": 1688294134,
+      "rank": 10,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1313529,
@@ -675,6 +699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 912969,
+      "num": 912969,
+      "word": "大老远来找男朋友发现他没关空调",
+      "onboard_time": 1688294072,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 892109,
       "num": 892109,
       "word": "花花接住谭爷爷给的小苹果",
@@ -801,6 +833,14 @@
       "onboard_time": 1688194893,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 800638,
+      "num": 800638,
+      "word": "中国女排3比2战胜美国",
+      "onboard_time": 1688294734,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 798902,
@@ -1483,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 537846,
-      "num": 537846,
-      "word": "中国人民大学称已报警",
-      "onboard_time": 1688293536,
-      "rank": 12,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 536401,
       "num": 386930,
       "word": "赵丽颖回复谢娜",
@@ -1537,6 +1569,22 @@
       "onboard_time": 1688177370,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 518042,
+      "num": 518042,
+      "word": "赵露思8集换29套衣服",
+      "onboard_time": 1688295933,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 517444,
+      "num": 517444,
+      "word": "玉骨遥任敏演技",
+      "onboard_time": 1688296175,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 514536,
@@ -1835,12 +1883,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446821,
+      "num": 446821,
+      "word": "迪丽热巴刘雨昕珠宝大片",
+      "onboard_time": 1688293054,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 445945,
       "num": 353906,
       "word": "范玮琪演唱会遭网友抵制",
       "onboard_time": 1688124217,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 444126,
+      "num": 3848129,
+      "word": "看大熊猫泡澡消暑效果100%",
+      "onboard_time": 1688294614,
+      "rank": 1,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 444020,
@@ -1857,14 +1921,6 @@
       "onboard_time": 1688201372,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 443211,
-      "num": 443211,
-      "word": "迪丽热巴刘雨昕珠宝大片",
-      "onboard_time": 1688293054,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 439992,
@@ -1939,6 +1995,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 416419,
+      "num": 416419,
+      "word": "广东人别再乱开川菜馆了",
+      "onboard_time": 1688294674,
+      "rank": 19,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 416048,
       "num": 416048,
       "word": "男子盗窃后发朋友圈不到24小时被抓",
@@ -1975,6 +2039,14 @@
       "num": 316506,
       "word": "宣璐汪卓成二搭演情侣",
       "onboard_time": 1688263767,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 406894,
+      "num": 406894,
+      "word": "爱看古偶的有福了",
+      "onboard_time": 1688295873,
       "rank": 21,
       "category": "影视"
     },
@@ -2059,6 +2131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 382973,
+      "num": 382973,
+      "word": "外国男子在中国故意将包落下没人偷",
+      "onboard_time": 1688292514,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382533,
       "num": 382533,
       "word": "今天是平分2023年的一天",
@@ -2120,6 +2200,14 @@
       "word": "浮世三千定档",
       "onboard_time": 1688270012,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373676,
+      "num": 287366,
+      "word": "时影来了",
+      "onboard_time": 1688294976,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -2267,14 +2355,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 342402,
-      "num": 342402,
-      "word": "外国男子在中国故意将包落下没人偷",
-      "onboard_time": 1688292514,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341376,
       "num": 341376,
       "word": "山东71位书记七一当天齐聚沂蒙山",
@@ -2313,6 +2393,14 @@
       "onboard_time": 1688134478,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332978,
+      "num": 332978,
+      "word": "女排李盈莹",
+      "onboard_time": 1688295696,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 332821,
@@ -2441,6 +2529,14 @@
       "onboard_time": 1688188412,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315416,
+      "num": 284782,
+      "word": "没有小猫这个家真的得散",
+      "onboard_time": 1688294373,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 310778,
@@ -2611,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296270,
+      "num": 296270,
+      "word": "同事上班写小说领导以为在加班",
+      "onboard_time": 1688294434,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295804,
       "num": 275643,
       "word": "泡脚竟然还能变白",
@@ -2723,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281835,
+      "num": 281835,
+      "word": "腾讯会员",
+      "onboard_time": 1688296055,
+      "rank": 32,
+      "category": "影视,科技"
+    },
+    {
       "raw_hot": 279663,
       "num": 279663,
       "word": "现在孩子水平都太高了",
@@ -2736,6 +2848,14 @@
       "word": "韩剧恶鬼",
       "onboard_time": 1688141375,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277962,
+      "num": 277962,
+      "word": "长风渡",
+      "onboard_time": 1688294976,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -2801,6 +2921,14 @@
       "onboard_time": 1688224898,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273057,
+      "num": 273057,
+      "word": "江西于都一男子杀害3儿童",
+      "onboard_time": 1688293292,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272567,
@@ -3235,6 +3363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241977,
+      "num": 241977,
+      "word": "跑男团全员为Angelababy新剧打call",
+      "onboard_time": 1688294911,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241049,
       "num": 241049,
       "word": "班主任让高三教室一整年都开满鲜花",
@@ -3435,6 +3571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226890,
+      "num": 226890,
+      "word": "外卖已经发展成这样了吗",
+      "onboard_time": 1688295395,
+      "rank": 39,
+      "category": "科技,美食"
+    },
+    {
       "raw_hot": 225911,
       "num": 225911,
       "word": "更适合中国宝宝体质的蹦迪现场",
@@ -3481,6 +3625,14 @@
       "onboard_time": 1688183192,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 223541,
+      "num": 223541,
+      "word": "eStar锁定第二轮S组",
+      "onboard_time": 1688295334,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 222953,
@@ -3569,14 +3721,6 @@
       "onboard_time": 1688183731,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 217359,
-      "num": 217359,
-      "word": "江西于都一男子杀害3儿童",
-      "onboard_time": 1688293292,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217108,
@@ -3731,14 +3875,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 208276,
-      "num": 208276,
-      "word": "大老远来找男朋友发现他没关空调",
-      "onboard_time": 1688294072,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207687,
       "num": 207687,
       "word": "白敬亭顾九思战损海报",
@@ -3865,6 +4001,14 @@
       "onboard_time": 1688265389,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 198526,
+      "num": 198526,
+      "word": "李昊给十个勤天的回复",
+      "onboard_time": 1688295575,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 198014,
@@ -4129,6 +4273,14 @@
       "onboard_time": 1688214211,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182673,
+      "num": 182673,
+      "word": "KPL",
+      "onboard_time": 1688295516,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 182211,
@@ -4612,7 +4764,7 @@
     },
     {
       "raw_hot": 83871,
-      "num": 1837696,
+      "num": 2708714,
       "word": "中国动车组单列试验时速453公里",
       "onboard_time": 1688267731,
       "rank": 2,
