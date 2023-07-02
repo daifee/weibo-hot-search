@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688282202357,
+  "endTime": 1688283231264,
   "band_list": [
     {
       "raw_hot": 7958830,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1956252,
+      "num": 1956252,
+      "word": "因女儿考705分打折庆祝的凉菜摊关门",
+      "onboard_time": 1688279430,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1954068,
       "num": 1954068,
       "word": "杨洋王楚然我的人间烟火新预告",
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1497569,
+      "num": 749526,
+      "word": "前交通局长孙女炫富事件调查近百日",
+      "onboard_time": 1688280816,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1497232,
       "num": 1497232,
       "word": "李梦状态",
@@ -369,14 +385,6 @@
       "onboard_time": 1688219254,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1194350,
-      "num": 749526,
-      "word": "前交通局长孙女炫富事件调查近百日",
-      "onboard_time": 1688280816,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1187693,
@@ -691,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 816528,
-      "num": 816528,
-      "word": "因女儿考705分打折庆祝的凉菜摊关门",
-      "onboard_time": 1688279430,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 812245,
       "num": 812245,
       "word": "法国载40多名中国公民车辆被砸",
@@ -995,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 655086,
+      "num": 655086,
+      "word": "李梦 勒布朗梦",
+      "onboard_time": 1688282375,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 648996,
       "num": 648996,
       "word": "鹿晗演唱会 抢票",
@@ -1211,6 +1219,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 573673,
+      "num": 377446,
+      "word": "孟子义说我是越特写越漂亮",
+      "onboard_time": 1688281414,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571231,
       "num": 357879,
       "word": "孙女给不能自理的爷爷洗澡引争议",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1688138863,
       "rank": 14,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 567006,
+      "num": 375335,
+      "word": "告诉婆婆我身体不能生孩子",
+      "onboard_time": 1688282433,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 566778,
@@ -1659,6 +1683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 439455,
+      "num": 439455,
+      "word": "王思雨关键时刻真顶",
+      "onboard_time": 1688282915,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438015,
       "num": 438015,
       "word": "钱流向不缺钱的人苦留给能吃苦的人",
@@ -1755,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403351,
+      "num": 403351,
+      "word": "韩旭双料MVP",
+      "onboard_time": 1688282314,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401403,
       "num": 410927,
       "word": "大熊猫 我怎么下去是饲养员的事",
@@ -1811,12 +1851,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 387044,
+      "num": 387044,
+      "word": "杨舒予",
+      "onboard_time": 1688282852,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382533,
       "num": 382533,
       "word": "今天是平分2023年的一天",
       "onboard_time": 1688256084,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380669,
+      "num": 380669,
+      "word": "斗破苍穹年番不断更",
+      "onboard_time": 1688282074,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 380306,
@@ -1891,12 +1947,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 365499,
+      "num": 365499,
+      "word": "李月汝",
+      "onboard_time": 1688281893,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363639,
       "num": 363639,
       "word": "newjeans见面会",
       "onboard_time": 1688211872,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361428,
+      "num": 361428,
+      "word": "电视剧里的穷人有多离谱",
+      "onboard_time": 1688277933,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 360152,
@@ -1929,6 +2001,14 @@
       "onboard_time": 1688225797,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356269,
+      "num": 356269,
+      "word": "ALin芝芙拒绝白幼瘦",
+      "onboard_time": 1688279371,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 352163,
@@ -1979,14 +2059,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 342570,
-      "num": 342570,
-      "word": "ALin芝芙拒绝白幼瘦",
-      "onboard_time": 1688279371,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341376,
       "num": 341376,
       "word": "山东71位书记七一当天齐聚沂蒙山",
@@ -2017,14 +2089,6 @@
       "onboard_time": 1688273070,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337054,
-      "num": 337054,
-      "word": "孟子义说我是越特写越漂亮",
-      "onboard_time": 1688281414,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 333659,
@@ -2123,14 +2187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319813,
-      "num": 319813,
-      "word": "电视剧里的穷人有多离谱",
-      "onboard_time": 1688277933,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 319510,
       "num": 319510,
       "word": "王者荣耀",
@@ -2153,6 +2209,14 @@
       "onboard_time": 1688214754,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316649,
+      "num": 316649,
+      "word": "宋轶说喜欢胖的男生",
+      "onboard_time": 1688283033,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 316578,
@@ -2435,6 +2499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274214,
+      "num": 274214,
+      "word": "男生看电影后替女主不值共情大哭",
+      "onboard_time": 1688279730,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273585,
       "num": 273585,
       "word": "小朋友不能吃辣但能吃辣条",
@@ -2593,6 +2665,14 @@
       "onboard_time": 1688180492,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263843,
+      "num": 263843,
+      "word": "e人和i人周末的区别",
+      "onboard_time": 1688282133,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 262400,
@@ -2809,14 +2889,6 @@
       "onboard_time": 1688166139,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246135,
-      "num": 246135,
-      "word": "李月汝",
-      "onboard_time": 1688281893,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 244788,
@@ -3075,14 +3147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222074,
-      "num": 222074,
-      "word": "斗破苍穹年番不断更",
-      "onboard_time": 1688282074,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 221898,
       "num": 221898,
       "word": "Alin获奖后与贾静雯刘雅瑟视频",
@@ -3195,14 +3259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216080,
-      "num": 216080,
-      "word": "男生看电影后替女主不值共情大哭",
-      "onboard_time": 1688279730,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215727,
       "num": 218794,
       "word": "家里太乱被婆婆发朋友圈阴阳了",
@@ -3224,6 +3280,14 @@
       "word": "女大学生向男生泼热水致二度烧伤",
       "onboard_time": 1688218832,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213068,
+      "num": 213068,
+      "word": "熊孩子玩扎带勒脖被发现时已充血肿胀",
+      "onboard_time": 1688283214,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3249,6 +3313,14 @@
       "onboard_time": 1688281052,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210799,
+      "num": 210799,
+      "word": "文韬为了省钱连车都想卖",
+      "onboard_time": 1688279553,
+      "rank": 48,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 209904,
@@ -3499,6 +3571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190733,
+      "num": 190733,
+      "word": "韩旭26分",
+      "onboard_time": 1688282615,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190221,
       "num": 190221,
       "word": "开业14年的顶流私房菜",
@@ -3521,14 +3601,6 @@
       "onboard_time": 1688212954,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189790,
-      "num": 189790,
-      "word": "文韬为了省钱连车都想卖",
-      "onboard_time": 1688279553,
-      "rank": 48,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 189687,
@@ -3964,7 +4036,7 @@
     },
     {
       "raw_hot": 126180,
-      "num": 1685303,
+      "num": 1785308,
       "word": "青藏铁路开启动车时代",
       "onboard_time": 1688268633,
       "rank": 2,
