@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688290451026,
+  "endTime": 1688293114896,
   "band_list": [
     {
       "raw_hot": 7958830,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1814932,
+      "num": 1222473,
+      "word": "宋轶发了五条微博",
+      "onboard_time": 1688289934,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1796740,
       "num": 1796740,
       "word": "章泽天回应拒绝张艺谋演戏",
@@ -401,6 +409,14 @@
       "onboard_time": 1688268750,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1263444,
+      "num": 1263444,
+      "word": "正式被确诊为懒羊羊",
+      "onboard_time": 1688289814,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 1226888,
@@ -1259,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594469,
-      "num": 470041,
-      "word": "宋轶发了五条微博",
-      "onboard_time": 1688289934,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 593699,
       "num": 593699,
       "word": "星巴克与BLACKPINK联手推出周边",
@@ -1587,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 503022,
+      "num": 503022,
+      "word": "沈梦辰戴脐钉",
+      "onboard_time": 1688291791,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502938,
       "num": 502938,
       "word": "宋伊人有容貌焦虑",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1688194172,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485963,
+      "num": 485963,
+      "word": "Minnie普通话比叉烧芬标准",
+      "onboard_time": 1688291430,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 483378,
@@ -1891,6 +1915,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 416048,
+      "num": 416048,
+      "word": "男子盗窃后发朋友圈不到24小时被抓",
+      "onboard_time": 1688289090,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415886,
       "num": 592792,
       "word": "西安交大校长毕业礼又双叒脱稿演讲",
@@ -1921,14 +1953,6 @@
       "onboard_time": 1688263767,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 406495,
-      "num": 406495,
-      "word": "男子盗窃后发朋友圈不到24小时被抓",
-      "onboard_time": 1688289090,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404777,
@@ -2587,14 +2611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291262,
-      "num": 291262,
-      "word": "正式被确诊为懒羊羊",
-      "onboard_time": 1688289814,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 291071,
       "num": 261521,
       "word": "试衣间死亡顶光",
@@ -2745,6 +2761,14 @@
       "onboard_time": 1688203052,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272286,
+      "num": 272286,
+      "word": "GQ给李现P图",
+      "onboard_time": 1688288673,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 272214,
@@ -2947,14 +2971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255231,
-      "num": 255231,
-      "word": "GQ给李现P图",
-      "onboard_time": 1688288673,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 254383,
       "num": 343205,
       "word": "西湖出现鱼鱼鱼跃龙门",
@@ -3067,6 +3083,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 248958,
+      "num": 248958,
+      "word": "王嘉尔直播",
+      "onboard_time": 1688291133,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248610,
       "num": 248610,
       "word": "别人划水是偷懒熊猫划水是工作",
@@ -3129,6 +3153,22 @@
       "onboard_time": 1688180973,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242627,
+      "num": 242627,
+      "word": "陈哲远试戏过相爱穿梭千年2",
+      "onboard_time": 1688289814,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241078,
+      "num": 241078,
+      "word": "不联系就是不喜欢吗",
+      "onboard_time": 1688290830,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 241049,
@@ -3240,6 +3280,14 @@
       "word": "爸爸焦急盼到女儿通知书第一时间开箱",
       "onboard_time": 1688187155,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233458,
+      "num": 233458,
+      "word": "外国男子在中国故意将包落下没人偷",
+      "onboard_time": 1688292514,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3507,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215909,
+      "num": 1261037,
+      "word": "2023年女兵下半年征集工作正式启动",
+      "onboard_time": 1688291430,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215727,
       "num": 218794,
       "word": "家里太乱被婆婆发朋友圈阴阳了",
@@ -3529,6 +3585,14 @@
       "onboard_time": 1688218832,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214108,
+      "num": 214108,
+      "word": "MTG对战eStar",
+      "onboard_time": 1688291254,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 213306,
@@ -3843,6 +3907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 190189,
+      "num": 190189,
+      "word": "当小狗鸡腿被偷能有多委屈",
+      "onboard_time": 1688290896,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 190011,
       "num": 190011,
       "word": "AG好起来了",
@@ -3915,14 +3987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188672,
-      "num": 188672,
-      "word": "陈哲远试戏过相爱穿梭千年2",
-      "onboard_time": 1688289814,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 188106,
       "num": 188106,
       "word": "任天真段嘉许同台",
@@ -3955,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186146,
+      "num": 1184222,
+      "word": "男子瘫倒路边过路交警紧急送医",
+      "onboard_time": 1688291670,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185814,
       "num": 253038,
       "word": "Kindle真的要拿来盖泡面了",
@@ -3963,12 +4035,28 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 185401,
+      "num": 185401,
+      "word": "迪丽热巴刘雨昕珠宝大片",
+      "onboard_time": 1688293054,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185013,
       "num": 185013,
       "word": "沈腾在云南吃齐齐哈尔烤串",
       "onboard_time": 1688256325,
       "rank": 39,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 182826,
+      "num": 182826,
+      "word": "GQ给明星P图",
+      "onboard_time": 1688292334,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182690,
@@ -4003,10 +4091,26 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 180028,
+      "num": 180028,
+      "word": "白敬亭宋轶细节糖好嗑",
+      "onboard_time": 1688291791,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178464,
       "num": 178464,
       "word": "英文里猫猫这个动作真的叫面包",
       "onboard_time": 1688196453,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 178010,
+      "num": 178010,
+      "word": "朋友要在海底捞给我做顿饭",
+      "onboard_time": 1688291254,
       "rank": 47,
       "category": "幽默"
     },
@@ -4049,6 +4153,14 @@
       "onboard_time": 1688204852,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175018,
+      "num": 175018,
+      "word": "张淼怡粉丝破百万",
+      "onboard_time": 1688290471,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174218,
@@ -4363,6 +4475,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 106836,
+      "num": 713371,
+      "word": "为保护被困司机他用身体挡飞溅玻璃",
+      "onboard_time": 1688290592,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105642,
       "num": 130801,
       "word": "首饰掉便池男子心急去捞又卡手",
@@ -4428,7 +4548,7 @@
     },
     {
       "raw_hot": 83871,
-      "num": 860421,
+      "num": 1223832,
       "word": "中国动车组单列试验时速453公里",
       "onboard_time": 1688267731,
       "rank": 2,
