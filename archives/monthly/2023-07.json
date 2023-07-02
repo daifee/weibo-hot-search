@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688278963452,
+  "endTime": 1688279784450,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -275,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1402644,
+      "num": 1402644,
+      "word": "王鹤棣圈内最好的朋友是宋伊人",
+      "onboard_time": 1688276495,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1391221,
       "num": 1391221,
       "word": "倪妮能够出演陈麦的原因",
       "onboard_time": 1688269470,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1382639,
-      "num": 1382639,
-      "word": "王鹤棣圈内最好的朋友是宋伊人",
-      "onboard_time": 1688276495,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1371650,
@@ -384,6 +384,14 @@
       "word": "刘宇宁王子文 蝉女",
       "onboard_time": 1688192852,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1143988,
+      "num": 687479,
+      "word": "白敬亭宋轶是穿了同一件衣服吗",
+      "onboard_time": 1688277573,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -537,14 +545,6 @@
       "onboard_time": 1688205575,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 932081,
-      "num": 661990,
-      "word": "白敬亭宋轶是穿了同一件衣服吗",
-      "onboard_time": 1688277573,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 926340,
@@ -723,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 781575,
+      "num": 781575,
+      "word": "中国的学生最缺少什么教育",
+      "onboard_time": 1688275413,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 780201,
       "num": 737861,
       "word": "100多岁鲸鱼的眼睛",
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733462,
+      "num": 733462,
+      "word": "王俊凯小时候给王源的信",
+      "onboard_time": 1688276972,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 731027,
       "num": 492897,
       "word": "恐怖程度约等于零的恐怖片",
@@ -817,6 +833,14 @@
       "onboard_time": 1688207553,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 704378,
+      "num": 704378,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1688270731,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 703406,
@@ -841,6 +865,14 @@
       "onboard_time": 1688172990,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 687558,
+      "num": 687558,
+      "word": "李梦状态",
+      "onboard_time": 1688276674,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 681135,
@@ -899,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 662281,
-      "num": 662281,
-      "word": "中国的学生最缺少什么教育",
-      "onboard_time": 1688275413,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 662031,
       "num": 368969,
       "word": "终于知道肚子痛是哪里痛了",
@@ -937,14 +961,6 @@
       "onboard_time": 1688222499,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 657345,
-      "num": 657345,
-      "word": "王俊凯小时候给王源的信",
-      "onboard_time": 1688276972,
-      "rank": 11,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 648996,
@@ -1115,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595958,
+      "num": 595958,
+      "word": "台媒曝解放军回呛台军",
+      "onboard_time": 1688277393,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591530,
       "num": 591530,
       "word": "空调这样调才是真省电",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1688138863,
       "rank": 14,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 567586,
-      "num": 567586,
-      "word": "李梦状态",
-      "onboard_time": 1688276674,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 566778,
@@ -1387,12 +1403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 510243,
-      "num": 510243,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1688270731,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 508481,
+      "num": 508481,
+      "word": "汪苏泷说Amber是宋茜队友",
+      "onboard_time": 1688278415,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 507882,
@@ -1425,14 +1441,6 @@
       "onboard_time": 1688221117,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 497002,
-      "num": 497002,
-      "word": "台媒曝解放军回呛台军",
-      "onboard_time": 1688277393,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496990,
@@ -1641,6 +1649,14 @@
       "onboard_time": 1688217573,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432088,
+      "num": 432088,
+      "word": "天经棣义",
+      "onboard_time": 1688278952,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 424531,
@@ -1931,14 +1947,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 340147,
-      "num": 340147,
-      "word": "汪苏泷说Amber是宋茜队友",
-      "onboard_time": 1688278415,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 339963,
       "num": 323599,
       "word": "李现追星赢麻了",
@@ -2099,6 +2107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307881,
+      "num": 307881,
+      "word": "福宝第一次近距离接触异性",
+      "onboard_time": 1688275291,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307325,
       "num": 365779,
       "word": "小义S属性大爆发",
@@ -2195,14 +2211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 298009,
-      "num": 298009,
-      "word": "福宝第一次近距离接触异性",
-      "onboard_time": 1688275291,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 298003,
       "num": 298003,
       "word": "黄朔 北京",
@@ -2297,6 +2305,22 @@
       "onboard_time": 1688263289,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 283823,
+      "num": 283823,
+      "word": "大方承认我们都是普通人",
+      "onboard_time": 1688275356,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 283384,
+      "num": 283384,
+      "word": "电视剧里的穷人有多离谱",
+      "onboard_time": 1688277933,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 282554,
@@ -2643,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249847,
+      "num": 249847,
+      "word": "偷偷藏不住",
+      "onboard_time": 1688279310,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249626,
       "num": 249626,
       "word": "今天是香港回归祖国26周年",
@@ -2721,6 +2753,14 @@
       "onboard_time": 1688180973,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242461,
+      "num": 242461,
+      "word": "TVB拍的打工人",
+      "onboard_time": 1688276315,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 241049,
@@ -2819,12 +2859,28 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 234794,
+      "num": 234794,
+      "word": "ALin芝芙拒绝白幼瘦",
+      "onboard_time": 1688279371,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234481,
       "num": 234481,
       "word": "爸爸焦急盼到女儿通知书第一时间开箱",
       "onboard_time": 1688187155,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233303,
+      "num": 233303,
+      "word": "倪妮9个采访表扬朱一龙9遍",
+      "onboard_time": 1688276430,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 233265,
@@ -2857,14 +2913,6 @@
       "onboard_time": 1688180190,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230440,
-      "num": 230440,
-      "word": "电视剧里的穷人有多离谱",
-      "onboard_time": 1688277933,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 230159,
@@ -2921,14 +2969,6 @@
       "onboard_time": 1688177070,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224680,
-      "num": 224680,
-      "word": "TVB拍的打工人",
-      "onboard_time": 1688276315,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 224290,
@@ -3091,12 +3131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213192,
-      "num": 213192,
-      "word": "大方承认我们都是普通人",
-      "onboard_time": 1688275356,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 213642,
+      "num": 213642,
+      "word": "王者荣耀",
+      "onboard_time": 1688279192,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 212213,
@@ -3265,14 +3305,6 @@
       "onboard_time": 1688128298,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199898,
-      "num": 199898,
-      "word": "倪妮9个采访表扬朱一龙9遍",
-      "onboard_time": 1688276430,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 199347,
@@ -3643,14 +3675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167665,
-      "num": 167665,
-      "word": "天经棣义",
-      "onboard_time": 1688278952,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166399,
       "num": 166399,
       "word": "喜欢拍照记录真的是一个好习惯",
@@ -3715,12 +3739,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156027,
+      "num": 156027,
+      "word": "男生看电影后替女主不值共情大哭",
+      "onboard_time": 1688279730,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154789,
       "num": 154789,
       "word": "中国女篮决赛对阵日本",
       "onboard_time": 1688212355,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152526,
+      "num": 152526,
+      "word": "文韬为了省钱连车都想卖",
+      "onboard_time": 1688279553,
+      "rank": 48,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 150527,
