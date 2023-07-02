@@ -1,0 +1,410 @@
+{
+  "runTime": 1688301309727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2876777,
+        "num": 2876777,
+        "word": "玉骨遥今日开播",
+        "onboard_time": 1688293415,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1549616,
+        "num": 1549616,
+        "word": "室友卖掉了我将近十年的青春",
+        "onboard_time": 1688298513,
+        "rank": 1,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 17226,
+        "num": 1297434,
+        "word": "中国动车组单列试验时速453公里",
+        "onboard_time": 1688267731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099601,
+        "num": 1099601,
+        "word": "玉骨遥首播评价",
+        "onboard_time": 1688297434,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 994626,
+        "num": 994626,
+        "word": "中国人民大学称已报警",
+        "onboard_time": 1688293536,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 836434,
+        "num": 836434,
+        "word": "大老远来找男朋友发现他没关空调",
+        "onboard_time": 1688294072,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 797719,
+        "num": 797719,
+        "word": "曾黎玉骨遥上线3集就下线",
+        "onboard_time": 1688295216,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751987,
+        "num": 751987,
+        "word": "赵露思8集换29套衣服",
+        "onboard_time": 1688295933,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 787479,
+        "num": 726098,
+        "word": "玉骨遥任敏演技",
+        "onboard_time": 1688296175,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439520,
+        "num": 677823,
+        "word": "外卖已经发展成这样了吗",
+        "onboard_time": 1688295395,
+        "rank": 9,
+        "category": "科技,美食"
+      },
+      {
+        "raw_hot": 12080651,
+        "num": 666211,
+        "word": "央视频下架蔡徐坤所有视频",
+        "onboard_time": 1688299053,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652485,
+        "num": 652485,
+        "word": "玉骨遥 3D打印",
+        "onboard_time": 1688298812,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517325,
+        "num": 517325,
+        "word": "宋轶发了五条微博",
+        "onboard_time": 1688289934,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437941,
+        "num": 437941,
+        "word": "民警9次上门劝解保住老人卡内200多万元",
+        "onboard_time": 1688299896,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421501,
+        "num": 421501,
+        "word": "正式被确诊为懒羊羊",
+        "onboard_time": 1688289814,
+        "rank": 14,
+        "category": "幽默,动漫"
+      },
+      {
+        "raw_hot": 442683,
+        "num": 410195,
+        "word": "宁安如梦",
+        "onboard_time": 1688300920,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390211,
+        "num": 390211,
+        "word": "白敬亭小号改名白敬亭94玩儿",
+        "onboard_time": 1688284833,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369311,
+        "num": 369311,
+        "word": "10岁男孩物业大厅捉迷藏触电身亡",
+        "onboard_time": 1688300195,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328069,
+        "num": 328069,
+        "word": "广东人别再乱开川菜馆了",
+        "onboard_time": 1688294674,
+        "rank": 18,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 321743,
+        "num": 321743,
+        "word": "8旬外公拿17000元积蓄设家族奖学金",
+        "onboard_time": 1688298391,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1415034,
+        "num": 315377,
+        "word": "官方通报小男孩被逼吃粪便",
+        "onboard_time": 1688299475,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521781,
+        "num": 312556,
+        "word": "终于等到一见茹顾圆房了",
+        "onboard_time": 1688298391,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389246,
+        "num": 307172,
+        "word": "跑男团全员为Angelababy新剧打call",
+        "onboard_time": 1688294911,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300746,
+        "num": 300746,
+        "word": "中国女排3比2战胜美国",
+        "onboard_time": 1688294734,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280407,
+        "num": 293634,
+        "word": "因女儿考705分打折庆祝的凉菜摊关门",
+        "onboard_time": 1688279430,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291291,
+        "num": 291291,
+        "word": "周深连续5天微指数破亿",
+        "onboard_time": 1688296595,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288646,
+        "num": 288646,
+        "word": "张丹峰问为什么没早点遇见洪欣",
+        "onboard_time": 1688285254,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281392,
+        "num": 281392,
+        "word": "宋轶说喜欢胖的男生",
+        "onboard_time": 1688283033,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271929,
+        "num": 271929,
+        "word": "看大熊猫泡澡消暑效果100%",
+        "onboard_time": 1688294614,
+        "rank": 28,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 265013,
+        "num": 265013,
+        "word": "外国男子在中国故意将包落下没人偷",
+        "onboard_time": 1688292514,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253160,
+        "num": 253160,
+        "word": "EXO正规七辑EXIST配置",
+        "onboard_time": 1688297194,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252137,
+        "num": 252137,
+        "word": "法国",
+        "onboard_time": 1688296956,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 238838,
+        "num": 238838,
+        "word": "中国女篮亚洲杯夺冠",
+        "onboard_time": 1688280394,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216914,
+        "num": 216914,
+        "word": "星巴克与BLACKPINK联手推出周边",
+        "onboard_time": 1688284833,
+        "rank": 33,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 212525,
+        "num": 212525,
+        "word": "长风渡",
+        "onboard_time": 1688294976,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209116,
+        "num": 209116,
+        "word": "告诉婆婆我身体不能生孩子",
+        "onboard_time": 1688282433,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205782,
+        "num": 205782,
+        "word": "同事上班写小说领导以为在加班",
+        "onboard_time": 1688294434,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196546,
+        "num": 196546,
+        "word": "王鹤棣圈内最好的朋友是宋伊人",
+        "onboard_time": 1688276495,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190131,
+        "num": 190131,
+        "word": "迪丽热巴刘雨昕珠宝大片",
+        "onboard_time": 1688293054,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170397,
+        "num": 170397,
+        "word": "满树荔枝诱人勤快的吃货们要小心了",
+        "onboard_time": 1688300378,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167864,
+        "num": 167864,
+        "word": "封神",
+        "onboard_time": 1688284833,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167752,
+        "num": 167752,
+        "word": "杭州小学毕业生收到爸妈六年前写的信",
+        "onboard_time": 1688301102,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165281,
+        "num": 165281,
+        "word": "李昊给十个勤天的回复",
+        "onboard_time": 1688295575,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159859,
+        "num": 159859,
+        "word": "女排李盈莹",
+        "onboard_time": 1688295696,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159650,
+        "num": 159650,
+        "word": "GQ给李现P图",
+        "onboard_time": 1688288673,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153736,
+        "num": 153736,
+        "word": "女子4根手指撑起一个店养了一个家",
+        "onboard_time": 1688299833,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 142844,
+        "num": 142844,
+        "word": "法国警察射杀17岁少年引起骚乱",
+        "onboard_time": 1688271150,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141597,
+        "num": 141597,
+        "word": "杨舒予",
+        "onboard_time": 1688282852,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141519,
+        "num": 141519,
+        "word": "这只熊猫怎么长得又忧郁又开心的",
+        "onboard_time": 1688296774,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140987,
+        "num": 140987,
+        "word": "一方水土养一方白雪公主",
+        "onboard_time": 1688298631,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#平均年龄89岁的老党员们谈初心#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688297630445,
+  "endTime": 1688301309727,
   "band_list": [
+    {
+      "raw_hot": 12080651,
+      "num": 666211,
+      "word": "央视频下架蔡徐坤所有视频",
+      "onboard_time": 1688299053,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 7958830,
       "num": 7958830,
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1549616,
+      "num": 1549616,
+      "word": "室友卖掉了我将近十年的青春",
+      "onboard_time": 1688298513,
+      "rank": 1,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 1497569,
       "num": 749526,
       "word": "前交通局长孙女炫富事件调查近百日",
@@ -201,6 +217,14 @@
       "onboard_time": 1688285254,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1415034,
+      "num": 315377,
+      "word": "官方通报小男孩被逼吃粪便",
+      "onboard_time": 1688299475,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1391221,
@@ -273,6 +297,14 @@
       "onboard_time": 1688273132,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1099601,
+      "num": 1099601,
+      "word": "玉骨遥首播评价",
+      "onboard_time": 1688297434,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 1076917,
@@ -555,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 652485,
+      "num": 652485,
+      "word": "玉骨遥 3D打印",
+      "onboard_time": 1688298812,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 648996,
       "num": 648996,
       "word": "鹿晗演唱会 抢票",
@@ -601,14 +641,6 @@
       "onboard_time": 1688271091,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 617491,
-      "num": 617491,
-      "word": "玉骨遥首播评价",
-      "onboard_time": 1688297434,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 616760,
@@ -737,6 +769,14 @@
       "onboard_time": 1688266531,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 521781,
+      "num": 312556,
+      "word": "终于等到一见茹顾圆房了",
+      "onboard_time": 1688298391,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 514853,
@@ -923,6 +963,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 442683,
+      "num": 410195,
+      "word": "宁安如梦",
+      "onboard_time": 1688300920,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 439520,
+      "num": 677823,
+      "word": "外卖已经发展成这样了吗",
+      "onboard_time": 1688295395,
+      "rank": 39,
+      "category": "科技,美食"
+    },
+    {
       "raw_hot": 439455,
       "num": 439455,
       "word": "王思雨关键时刻真顶",
@@ -937,6 +993,14 @@
       "onboard_time": 1688211212,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 437941,
+      "num": 437941,
+      "word": "民警9次上门劝解保住老人卡内200多万元",
+      "onboard_time": 1688299896,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418734,
@@ -1027,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389246,
+      "num": 338450,
+      "word": "跑男团全员为Angelababy新剧打call",
+      "onboard_time": 1688294911,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388658,
       "num": 388658,
       "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
@@ -1107,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369311,
+      "num": 369311,
+      "word": "10岁男孩物业大厅捉迷藏触电身亡",
+      "onboard_time": 1688300195,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365499,
       "num": 365499,
       "word": "李月汝",
@@ -1171,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343581,
-      "num": 343581,
-      "word": "外卖已经发展成这样了吗",
-      "onboard_time": 1688295395,
-      "rank": 39,
-      "category": "科技,美食"
-    },
-    {
       "raw_hot": 342218,
       "num": 342218,
       "word": "女排李盈莹",
@@ -1201,14 +1273,6 @@
       "onboard_time": 1688268930,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 338450,
-      "num": 338450,
-      "word": "跑男团全员为Angelababy新剧打call",
-      "onboard_time": 1688294911,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 337910,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1688250917,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321743,
+      "num": 321743,
+      "word": "8旬外公拿17000元积蓄设家族奖学金",
+      "onboard_time": 1688298391,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 319510,
@@ -1361,6 +1433,14 @@
       "onboard_time": 1688273852,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291291,
+      "num": 291291,
+      "word": "周深连续5天微指数破亿",
+      "onboard_time": 1688296595,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291071,
@@ -1585,6 +1665,14 @@
       "onboard_time": 1688290830,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253160,
+      "num": 253160,
+      "word": "EXO正规七辑EXIST配置",
+      "onboard_time": 1688297194,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 252035,
@@ -1867,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214940,
-      "num": 214940,
-      "word": "周深连续5天微指数破亿",
-      "onboard_time": 1688296595,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 213306,
       "num": 213306,
       "word": "景区回应壶口瀑布陕西侧围墙被拆",
@@ -1929,14 +2009,6 @@
       "onboard_time": 1688268991,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 208570,
-      "num": 208570,
-      "word": "EXO正规七辑EXIST配置",
-      "onboard_time": 1688297194,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 207687,
@@ -2251,6 +2323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170397,
+      "num": 170397,
+      "word": "满树荔枝诱人勤快的吃货们要小心了",
+      "onboard_time": 1688300378,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167752,
+      "num": 167752,
+      "word": "杭州小学毕业生收到爸妈六年前写的信",
+      "onboard_time": 1688301102,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 166399,
       "num": 166399,
       "word": "喜欢拍照记录真的是一个好习惯",
@@ -2307,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153736,
+      "num": 153736,
+      "word": "女子4根手指撑起一个店养了一个家",
+      "onboard_time": 1688299833,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 147775,
       "num": 147775,
       "word": "金沙江落水女孩拜救人者为干爹",
@@ -2329,6 +2425,14 @@
       "onboard_time": 1688207553,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 140987,
+      "num": 140987,
+      "word": "一方水土养一方白雪公主",
+      "onboard_time": 1688298631,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 140158,
