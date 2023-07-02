@@ -1,0 +1,410 @@
+{
+  "runTime": 1688275064199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2589039,
+        "num": 2589039,
+        "word": "歌手胡海泉名下私募被警示",
+        "onboard_time": 1688271629,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1176984,
+        "num": 1176984,
+        "word": "终于知道我头发油的原因了",
+        "onboard_time": 1688257046,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90342,
+        "num": 1087671,
+        "word": "青藏铁路开启动车时代",
+        "onboard_time": 1688268633,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1284128,
+        "num": 1087591,
+        "word": "法国警察射杀17岁少年引起骚乱",
+        "onboard_time": 1688271150,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1076917,
+        "num": 1076917,
+        "word": "凌肖 查无此人",
+        "onboard_time": 1688271870,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1045240,
+        "num": 1045240,
+        "word": "杨洋王楚然我的人间烟火新预告",
+        "onboard_time": 1688267371,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 984166,
+        "num": 984166,
+        "word": "倪妮能够出演陈麦的原因",
+        "onboard_time": 1688269470,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873448,
+        "num": 873448,
+        "word": "韩86岁演艺圈元老性侵女学生被捕",
+        "onboard_time": 1688271391,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 737861,
+        "num": 737861,
+        "word": "100多岁鲸鱼的眼睛",
+        "onboard_time": 1688269590,
+        "rank": 8,
+        "category": "自然,幽默"
+      },
+      {
+        "raw_hot": 629809,
+        "num": 629809,
+        "word": "原来韩国偶像剧演的并不夸张",
+        "onboard_time": 1688268151,
+        "rank": 9,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 926421,
+        "num": 629171,
+        "word": "大鹏全麻前最后一瞬遭遇暴击",
+        "onboard_time": 1688273972,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 614908,
+        "num": 614908,
+        "word": "广东液体榴莲",
+        "onboard_time": 1688268750,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533305,
+        "num": 533305,
+        "word": "鹿晗演唱会 抢票",
+        "onboard_time": 1688271451,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 465008,
+        "num": 465008,
+        "word": "中国女篮vs日本女篮",
+        "onboard_time": 1688270731,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440698,
+        "num": 440698,
+        "word": "宋妍霏带200多套衣服拍戏",
+        "onboard_time": 1688273852,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418734,
+        "num": 418734,
+        "word": "他到长沙第一件事是去缅怀袁老师",
+        "onboard_time": 1688272532,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407743,
+        "num": 407743,
+        "word": "李耕耘 四姑娘山",
+        "onboard_time": 1688269410,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388290,
+        "num": 388290,
+        "word": "正式被确诊为浣碧",
+        "onboard_time": 1688219853,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380614,
+        "num": 380614,
+        "word": "小彩旗杨丽萍重聚",
+        "onboard_time": 1688271091,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328152,
+        "num": 328152,
+        "word": "男子飞机上涉嫌摸乘务员大腿被警告",
+        "onboard_time": 1688273070,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132521,
+        "num": 323957,
+        "word": "指甲上突然长了一条黑线",
+        "onboard_time": 1688273132,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 571231,
+        "num": 316916,
+        "word": "孙女给不能自理的爷爷洗澡引争议",
+        "onboard_time": 1688271150,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308325,
+        "num": 308325,
+        "word": "人大回应网传学生个人信息被泄露",
+        "onboard_time": 1688268269,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287999,
+        "num": 287999,
+        "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
+        "onboard_time": 1688268269,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280603,
+        "num": 280603,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1688273852,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268233,
+        "num": 268233,
+        "word": "杨紫挑染双马尾",
+        "onboard_time": 1688268692,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265002,
+        "num": 265002,
+        "word": "才知道周杰伦给Angelababy写过歌",
+        "onboard_time": 1688266531,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261051,
+        "num": 261051,
+        "word": "管文丁宁官宣恋情",
+        "onboard_time": 1688259268,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250118,
+        "num": 250118,
+        "word": "长风渡城楼吻海报",
+        "onboard_time": 1688270431,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247436,
+        "num": 247436,
+        "word": "浮世三千定档",
+        "onboard_time": 1688270012,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394929,
+        "num": 246974,
+        "word": "女友妹妹炮轰内马尔孕期出轨",
+        "onboard_time": 1688273911,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366212,
+        "num": 246143,
+        "word": "全球首例猪心脏移植人类失败原因找到了",
+        "onboard_time": 1688274574,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302841,
+        "num": 245414,
+        "word": "世界上最黑的材料",
+        "onboard_time": 1688274213,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242390,
+        "num": 242390,
+        "word": "戴佩妮 陪跑",
+        "onboard_time": 1688270012,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229742,
+        "num": 229742,
+        "word": "虞书欣 Moschino",
+        "onboard_time": 1688275053,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228785,
+        "num": 228785,
+        "word": "一个发型拯救一张脸",
+        "onboard_time": 1688262870,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222148,
+        "num": 222148,
+        "word": "就差演唱会门票了",
+        "onboard_time": 1688271931,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221241,
+        "num": 221241,
+        "word": "TF三代出道战终于要来了",
+        "onboard_time": 1688259568,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217053,
+        "num": 217053,
+        "word": "苏格兰呼吁女性生育时不用止痛药",
+        "onboard_time": 1688261669,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212306,
+        "num": 212306,
+        "word": "警方通报江西3名小孩被杀害",
+        "onboard_time": 1688274813,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206184,
+        "num": 212268,
+        "word": "李泽言的电话",
+        "onboard_time": 1688273852,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212261,
+        "num": 212261,
+        "word": "吊带袜天使新作真的来了",
+        "onboard_time": 1688266413,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 207401,
+        "num": 207401,
+        "word": "爸爸把八岁儿子挣的钱偷走了",
+        "onboard_time": 1688274932,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207252,
+        "num": 207252,
+        "word": "试衣间死亡顶光",
+        "onboard_time": 1688274154,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206246,
+        "num": 206246,
+        "word": "宋轶学八哥说话真假难辨",
+        "onboard_time": 1688274813,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192206,
+        "num": 192206,
+        "word": "会说话的重要性",
+        "onboard_time": 1688274574,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188730,
+        "num": 188730,
+        "word": "众星为杨颖尘缘打call",
+        "onboard_time": 1688268991,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187465,
+        "num": 187465,
+        "word": "女儿每拿一张奖状爸爸就奖100元",
+        "onboard_time": 1688265630,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169436,
+        "num": 169436,
+        "word": "山东71位书记七一当天齐聚沂蒙山",
+        "onboard_time": 1688270012,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161241,
+        "num": 161241,
+        "word": "马克龙把骚乱归咎于社交媒体和电子游戏",
+        "onboard_time": 1688259386,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#登场了北京中轴线开播#"
+    }
+  }
+}

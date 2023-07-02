@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688272581694,
+  "endTime": 1688275064199,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -81,6 +81,14 @@
       "onboard_time": 1688198013,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2589039,
+      "num": 2589039,
+      "word": "歌手胡海泉名下私募被警示",
+      "onboard_time": 1688271629,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2402025,
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1270435,
-      "num": 443342,
-      "word": "歌手胡海泉名下私募被警示",
-      "onboard_time": 1688271629,
-      "rank": 35,
-      "category": "社会新闻,艺人"
+      "raw_hot": 1284128,
+      "num": 1087591,
+      "word": "法国警察射杀17岁少年引起骚乱",
+      "onboard_time": 1688271150,
+      "rank": 29,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1264487,
@@ -355,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1132521,
+      "num": 323957,
+      "word": "指甲上突然长了一条黑线",
+      "onboard_time": 1688273132,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1118879,
       "num": 1118879,
       "word": "助手给白百何吃烤焦的面包",
@@ -369,6 +385,14 @@
       "onboard_time": 1688194053,
       "rank": 4,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1076917,
+      "num": 1076917,
+      "word": "凌肖 查无此人",
+      "onboard_time": 1688271870,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 1066043,
@@ -491,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 926421,
+      "num": 629171,
+      "word": "大鹏全麻前最后一瞬遭遇暴击",
+      "onboard_time": 1688273972,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 926340,
       "num": 926340,
       "word": "网友感谢王一博赞助奖学金",
@@ -545,6 +577,14 @@
       "onboard_time": 1688186734,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 873448,
+      "num": 873448,
+      "word": "韩86岁演艺圈元老性侵女学生被捕",
+      "onboard_time": 1688271391,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 866445,
@@ -652,7 +692,7 @@
     },
     {
       "raw_hot": 780201,
-      "num": 543198,
+      "num": 737861,
       "word": "100多岁鲸鱼的眼睛",
       "onboard_time": 1688269590,
       "rank": 10,
@@ -915,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629809,
+      "num": 629809,
+      "word": "原来韩国偶像剧演的并不夸张",
+      "onboard_time": 1688268151,
+      "rank": 22,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 627845,
       "num": 624269,
       "word": "陈哲远王玉雯 白色橄榄树",
@@ -937,14 +985,6 @@
       "onboard_time": 1688185956,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 626930,
-      "num": 438875,
-      "word": "法国警察射杀17岁少年引起骚乱",
-      "onboard_time": 1688271150,
-      "rank": 29,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 624217,
@@ -977,14 +1017,6 @@
       "onboard_time": 1688199815,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 616852,
-      "num": 373522,
-      "word": "原来韩国偶像剧演的并不夸张",
-      "onboard_time": 1688268151,
-      "rank": 22,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 606794,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1688105910,
       "rank": 15,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 571231,
+      "num": 335656,
+      "word": "孙女给不能自理的爷爷洗澡引争议",
+      "onboard_time": 1688271150,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 569896,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1688222676,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 547823,
-      "num": 291036,
-      "word": "韩86岁演艺圈元老性侵女学生被捕",
-      "onboard_time": 1688271391,
-      "rank": 32,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 543033,
@@ -1403,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465008,
+      "num": 465008,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1688270731,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453880,
       "num": 453880,
       "word": "戴佩妮 陪跑",
@@ -1451,20 +1491,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 443520,
-      "num": 443520,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1688270731,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 443264,
       "num": 443264,
       "word": "肖战vlog画外音",
       "onboard_time": 1688201372,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440698,
+      "num": 440698,
+      "word": "宋妍霏带200多套衣服拍戏",
+      "onboard_time": 1688273852,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 439992,
@@ -1513,6 +1553,14 @@
       "onboard_time": 1688222197,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 418734,
+      "num": 418734,
+      "word": "他到长沙第一件事是去缅怀袁老师",
+      "onboard_time": 1688272532,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416510,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1688210792,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 394929,
+      "num": 246974,
+      "word": "女友妹妹炮轰内马尔孕期出轨",
+      "onboard_time": 1688273911,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 391222,
@@ -1683,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366212,
+      "num": 246143,
+      "word": "全球首例猪心脏移植人类失败原因找到了",
+      "onboard_time": 1688274574,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366211,
       "num": 238193,
       "word": "预判了芒果的预判",
@@ -1721,14 +1785,6 @@
       "onboard_time": 1688175570,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 350856,
-      "num": 335656,
-      "word": "孙女给不能自理的爷爷洗澡引争议",
-      "onboard_time": 1688271150,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349759,
@@ -1795,14 +1851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 336329,
-      "num": 336329,
-      "word": "凌肖 查无此人",
-      "onboard_time": 1688271870,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 333659,
       "num": 265598,
       "word": "文咏珊怎么不是我老婆",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1688136343,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328152,
+      "num": 328152,
+      "word": "男子飞机上涉嫌摸乘务员大腿被警告",
+      "onboard_time": 1688273070,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327133,
@@ -1995,6 +2051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302841,
+      "num": 245414,
+      "word": "世界上最黑的材料",
+      "onboard_time": 1688274213,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302748,
       "num": 226411,
       "word": "孟佳Min合体梦回missA",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1688203832,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280603,
+      "num": 280603,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1688273852,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 279663,
@@ -2667,6 +2739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229742,
+      "num": 229742,
+      "word": "虞书欣 Moschino",
+      "onboard_time": 1688275053,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229450,
       "num": 229450,
       "word": "老板冷笑说你把简历投到了我另一家公司",
@@ -2721,6 +2801,14 @@
       "onboard_time": 1688183192,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 222148,
+      "num": 222148,
+      "word": "就差演唱会门票了",
+      "onboard_time": 1688271931,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 221898,
@@ -2859,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212306,
+      "num": 212306,
+      "word": "警方通报江西3名小孩被杀害",
+      "onboard_time": 1688274813,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212213,
       "num": 212213,
       "word": "建党节",
@@ -2915,6 +3011,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207401,
+      "num": 207401,
+      "word": "爸爸把八岁儿子挣的钱偷走了",
+      "onboard_time": 1688274932,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 207252,
+      "num": 207252,
+      "word": "试衣间死亡顶光",
+      "onboard_time": 1688274154,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206944,
       "num": 206944,
       "word": "郑宜农拿了两个奖",
@@ -2945,6 +3057,22 @@
       "onboard_time": 1688167523,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206246,
+      "num": 206246,
+      "word": "宋轶学八哥说话真假难辨",
+      "onboard_time": 1688274813,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206184,
+      "num": 212268,
+      "word": "李泽言的电话",
+      "onboard_time": 1688273852,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 205520,
@@ -3027,14 +3155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196953,
-      "num": 196953,
-      "word": "就差演唱会门票了",
-      "onboard_time": 1688271931,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195820,
       "num": 204290,
       "word": "Cat盾山才是真C",
@@ -3089,6 +3209,14 @@
       "onboard_time": 1688224659,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192206,
+      "num": 192206,
+      "word": "会说话的重要性",
+      "onboard_time": 1688274574,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 190221,
@@ -3336,14 +3464,6 @@
       "word": "大热天21人挤同一电梯被困",
       "onboard_time": 1688166500,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168403,
-      "num": 168403,
-      "word": "他到长沙第一件事是去缅怀袁老师",
-      "onboard_time": 1688272532,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3808,6 +3928,9 @@
     },
     {
       "word": "#习近平主持中共中央政治局第六次集体学习#"
+    },
+    {
+      "word": "#登场了北京中轴线开播#"
     }
   ]
 }
