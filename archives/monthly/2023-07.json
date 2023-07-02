@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688311077131,
+  "endTime": 1688312029895,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -155,8 +155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2253782,
-      "num": 2253782,
+      "raw_hot": 2280970,
+      "num": 2280970,
       "word": "玉骨遥女主",
       "onboard_time": 1688307039,
       "rank": 25,
@@ -899,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 833089,
+      "num": 833089,
+      "word": "白岩松谈母亲误拆女儿档案袋",
+      "onboard_time": 1688310277,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823565,
       "num": 632331,
       "word": "李现周杰伦花海大合唱",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1688277393,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664825,
+      "num": 664825,
+      "word": "龚俊周杰伦合唱发如雪",
+      "onboard_time": 1688311118,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 664402,
@@ -1747,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 515000,
+      "num": 515000,
+      "word": "黄子韬孙千徐志胜对话信息量太大了",
+      "onboard_time": 1688310641,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 514536,
       "num": 422496,
       "word": "金曲奖红毯",
@@ -2115,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440545,
+      "num": 301208,
+      "word": "王鹤棣宋伊人怎么认识的",
+      "onboard_time": 1688311236,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440038,
       "num": 440038,
       "word": "10岁男孩物业大厅捉迷藏触电身亡",
@@ -2145,6 +2177,14 @@
       "onboard_time": 1688282915,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 438431,
+      "num": 297165,
+      "word": "顾九思柳玉茹诀别吻",
+      "onboard_time": 1688310580,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 438015,
@@ -2196,7 +2236,7 @@
     },
     {
       "raw_hot": 425050,
-      "num": 326846,
+      "num": 420931,
       "word": "为什么建议年轻时多谈恋爱",
       "onboard_time": 1688306441,
       "rank": 34,
@@ -2259,6 +2299,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 412257,
+      "num": 294692,
+      "word": "朱一龙文咏珊好像两台扫描仪",
+      "onboard_time": 1688308963,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411872,
       "num": 411872,
       "word": "汪东城音乐节",
@@ -2273,14 +2321,6 @@
       "onboard_time": 1688131777,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410509,
-      "num": 291267,
-      "word": "朱一龙文咏珊好像两台扫描仪",
-      "onboard_time": 1688308963,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 409522,
@@ -2747,14 +2787,6 @@
       "category": "影视,影视"
     },
     {
-      "raw_hot": 330278,
-      "num": 287959,
-      "word": "黄子韬孙千徐志胜对话信息量太大了",
-      "onboard_time": 1688310641,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329932,
       "num": 415270,
       "word": "中国女排vs韩国女排",
@@ -2769,6 +2801,14 @@
       "onboard_time": 1688136343,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328297,
+      "num": 328297,
+      "word": "原来榴莲也有住单间的",
+      "onboard_time": 1688311236,
+      "rank": 17,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 327133,
@@ -2817,14 +2857,6 @@
       "onboard_time": 1688250917,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322289,
-      "num": 284933,
-      "word": "顾九思柳玉茹诀别吻",
-      "onboard_time": 1688310580,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 321743,
@@ -3123,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294977,
+      "num": 294977,
+      "word": "狼队战胜DRG",
+      "onboard_time": 1688311657,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292663,
       "num": 292663,
       "word": "大方承认我们都是普通人",
@@ -3257,6 +3297,14 @@
       "onboard_time": 1688141375,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278778,
+      "num": 278778,
+      "word": "毒蘑菇导致幻觉动感图",
+      "onboard_time": 1688311540,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277962,
@@ -3464,6 +3512,22 @@
       "word": "驾照到手就去应聘教练吧",
       "onboard_time": 1688197412,
       "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 261974,
+      "num": 248981,
+      "word": "长安三万里 将进酒",
+      "onboard_time": 1688311776,
+      "rank": 35,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 261792,
+      "num": 261792,
+      "word": "没想到养狗还有这作用",
+      "onboard_time": 1688311959,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -3801,6 +3865,14 @@
       "onboard_time": 1688289814,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242107,
+      "num": 242107,
+      "word": "伊能静一回台北就发胖",
+      "onboard_time": 1688311836,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 241064,
@@ -4323,6 +4395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208703,
+      "num": 208703,
+      "word": "长风渡燃起来了",
+      "onboard_time": 1688308478,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208574,
       "num": 208574,
       "word": "风灵玉秀2开播",
@@ -4489,14 +4569,6 @@
       "onboard_time": 1688223818,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197460,
-      "num": 217077,
-      "word": "白岩松谈母亲误拆女儿档案袋",
-      "onboard_time": 1688310277,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195820,
