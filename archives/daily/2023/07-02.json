@@ -1,7 +1,15 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688279784450,
+  "endTime": 1688282202357,
   "band_list": [
+    {
+      "raw_hot": 7958830,
+      "num": 7958830,
+      "word": "中国女篮亚洲杯夺冠",
+      "onboard_time": 1688280394,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 5712927,
       "num": 5712927,
@@ -43,6 +51,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1999267,
+      "num": 1999267,
+      "word": "全球首例猪心脏移植人类失败原因找到了",
+      "onboard_time": 1688274574,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1954068,
       "num": 1954068,
       "word": "杨洋王楚然我的人间烟火新预告",
@@ -75,20 +91,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1445592,
-      "num": 1445592,
-      "word": "全球首例猪心脏移植人类失败原因找到了",
-      "onboard_time": 1688274574,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1402644,
-      "num": 1402644,
+      "raw_hot": 1621747,
+      "num": 1621747,
       "word": "王鹤棣圈内最好的朋友是宋伊人",
       "onboard_time": 1688276495,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1497232,
+      "num": 1497232,
+      "word": "李梦状态",
+      "onboard_time": 1688276674,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1391221,
@@ -115,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1194350,
+      "num": 749526,
+      "word": "前交通局长孙女炫富事件调查近百日",
+      "onboard_time": 1688280816,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1187729,
       "num": 583913,
       "word": "高校男生被女生喷不明液体双方已和解",
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 1143988,
-      "num": 687479,
+      "num": 723036,
       "word": "白敬亭宋轶是穿了同一件衣服吗",
       "onboard_time": 1688277573,
       "rank": 10,
@@ -227,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 816528,
+      "num": 816528,
+      "word": "因女儿考705分打折庆祝的凉菜摊关门",
+      "onboard_time": 1688279430,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789699,
       "num": 789699,
       "word": "苏格兰呼吁女性生育时不用止痛药",
@@ -259,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750582,
+      "num": 750582,
+      "word": "王俊凯小时候给王源的信",
+      "onboard_time": 1688276972,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 738000,
       "num": 738000,
       "word": "尹净汉ins",
       "onboard_time": 1688275113,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 737202,
+      "num": 737202,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1688270731,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 733925,
@@ -275,28 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 733462,
-      "num": 733462,
-      "word": "王俊凯小时候给王源的信",
-      "onboard_time": 1688276972,
-      "rank": 11,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 731027,
       "num": 492897,
       "word": "恐怖程度约等于零的恐怖片",
       "onboard_time": 1688228730,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 704378,
-      "num": 704378,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1688270731,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 700387,
@@ -313,14 +345,6 @@
       "onboard_time": 1688222138,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687558,
-      "num": 687558,
-      "word": "李梦状态",
-      "onboard_time": 1688276674,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 678432,
@@ -345,6 +369,14 @@
       "onboard_time": 1688273911,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 665283,
+      "num": 665283,
+      "word": "台媒曝解放军回呛台军",
+      "onboard_time": 1688277393,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 648996,
@@ -419,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595958,
-      "num": 595958,
-      "word": "台媒曝解放军回呛台军",
-      "onboard_time": 1688277393,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 601571,
+      "num": 601571,
+      "word": "天经棣义",
+      "onboard_time": 1688278952,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 583203,
@@ -547,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 469196,
+      "num": 469196,
+      "word": "恭喜中国女篮重返亚洲之巅",
+      "onboard_time": 1688280693,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453880,
       "num": 453880,
       "word": "戴佩妮 陪跑",
@@ -587,14 +627,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 432088,
-      "num": 432088,
-      "word": "天经棣义",
-      "onboard_time": 1688278952,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 418734,
       "num": 418734,
       "word": "他到长沙第一件事是去缅怀袁老师",
@@ -633,6 +665,14 @@
       "onboard_time": 1688222676,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394492,
+      "num": 394492,
+      "word": "韩旭我的神",
+      "onboard_time": 1688277816,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 390197,
@@ -691,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359862,
+      "num": 359862,
+      "word": "美国政党称月球上没有第二个国家的国旗",
+      "onboard_time": 1688279850,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 359531,
       "num": 359531,
       "word": "江疏影王传君认识19年了",
@@ -723,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342570,
+      "num": 342570,
+      "word": "ALin芝芙拒绝白幼瘦",
+      "onboard_time": 1688279371,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341376,
       "num": 341376,
       "word": "山东71位书记七一当天齐聚沂蒙山",
@@ -747,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337054,
+      "num": 337054,
+      "word": "孟子义说我是越特写越漂亮",
+      "onboard_time": 1688281414,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334051,
       "num": 298101,
       "word": "澡堂子偶遇王嘉尔",
@@ -755,12 +819,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332463,
+      "num": 332463,
+      "word": "杨力维缺席亚洲杯决赛",
+      "onboard_time": 1688280517,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322703,
       "num": 322703,
       "word": "周琦",
       "onboard_time": 1688250917,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319813,
+      "num": 319813,
+      "word": "电视剧里的穷人有多离谱",
+      "onboard_time": 1688277933,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 319510,
+      "num": 319510,
+      "word": "王者荣耀",
+      "onboard_time": 1688279192,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 309138,
@@ -819,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292663,
+      "num": 292663,
+      "word": "大方承认我们都是普通人",
+      "onboard_time": 1688275356,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292057,
       "num": 292057,
       "word": "五十公里桃花坞",
@@ -859,20 +955,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 283823,
-      "num": 283823,
-      "word": "大方承认我们都是普通人",
-      "onboard_time": 1688275356,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 283384,
-      "num": 283384,
-      "word": "电视剧里的穷人有多离谱",
-      "onboard_time": 1688277933,
+      "raw_hot": 283010,
+      "num": 283010,
+      "word": "偷偷藏不住",
+      "onboard_time": 1688279310,
       "rank": 31,
-      "category": "幽默"
+      "category": "影视"
     },
     {
       "raw_hot": 280217,
@@ -1011,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249847,
-      "num": 249847,
-      "word": "偷偷藏不住",
-      "onboard_time": 1688279310,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248963,
       "num": 248963,
       "word": "读老年大学的体验",
@@ -1043,11 +1123,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 247338,
-      "num": 247338,
-      "word": "韩旭我的神",
-      "onboard_time": 1688277816,
-      "rank": 30,
+      "raw_hot": 246727,
+      "num": 246727,
+      "word": "TVB拍的打工人",
+      "onboard_time": 1688276315,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246135,
+      "num": 246135,
+      "word": "李月汝",
+      "onboard_time": 1688281893,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1057,14 +1145,6 @@
       "onboard_time": 1688210792,
       "rank": 34,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 242461,
-      "num": 242461,
-      "word": "TVB拍的打工人",
-      "onboard_time": 1688276315,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 242155,
@@ -1107,14 +1187,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 234794,
-      "num": 234794,
-      "word": "ALin芝芙拒绝白幼瘦",
-      "onboard_time": 1688279371,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233303,
       "num": 233303,
       "word": "倪妮9个采访表扬朱一龙9遍",
@@ -1147,12 +1219,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222953,
+      "num": 222953,
+      "word": "远赴相思",
+      "onboard_time": 1688281355,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222148,
       "num": 222148,
       "word": "就差演唱会门票了",
       "onboard_time": 1688271931,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222074,
+      "num": 222074,
+      "word": "斗破苍穹年番不断更",
+      "onboard_time": 1688282074,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 221898,
@@ -1179,12 +1267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213642,
-      "num": 213642,
-      "word": "王者荣耀",
-      "onboard_time": 1688279192,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 216080,
+      "num": 216080,
+      "word": "男生看电影后替女主不值共情大哭",
+      "onboard_time": 1688279730,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 211511,
@@ -1193,6 +1281,14 @@
       "onboard_time": 1688226453,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 211438,
+      "num": 211438,
+      "word": "张茹篮板",
+      "onboard_time": 1688281052,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 208574,
@@ -1276,7 +1372,7 @@
     },
     {
       "raw_hot": 194636,
-      "num": 454319,
+      "num": 497305,
       "word": "像她们一样",
       "onboard_time": 1688265267,
       "rank": 15,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1688214754,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189790,
+      "num": 189790,
+      "word": "文韬为了省钱连车都想卖",
+      "onboard_time": 1688279553,
+      "rank": 48,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 189607,
@@ -1467,22 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156027,
-      "num": 156027,
-      "word": "男生看电影后替女主不值共情大哭",
-      "onboard_time": 1688279730,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 152526,
-      "num": 152526,
-      "word": "文韬为了省钱连车都想卖",
-      "onboard_time": 1688279553,
-      "rank": 48,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 147775,
       "num": 147775,
       "word": "金沙江落水女孩拜救人者为干爹",
@@ -1516,7 +1604,7 @@
     },
     {
       "raw_hot": 126180,
-      "num": 1548807,
+      "num": 1685303,
       "word": "青藏铁路开启动车时代",
       "onboard_time": 1688268633,
       "rank": 2,
