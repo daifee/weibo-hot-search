@@ -1,0 +1,410 @@
+{
+  "runTime": 1688294128658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5626542,
+        "num": 5626542,
+        "word": "玉骨遥今日开播",
+        "onboard_time": 1688293415,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228428,
+        "num": 1936547,
+        "word": "2023年女兵下半年征集工作正式启动",
+        "onboard_time": 1688291430,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46342,
+        "num": 1837696,
+        "word": "中国动车组单列试验时速453公里",
+        "onboard_time": 1688267731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1835218,
+        "num": 1835218,
+        "word": "正式被确诊为懒羊羊",
+        "onboard_time": 1688289814,
+        "rank": 3,
+        "category": "幽默,动漫"
+      },
+      {
+        "raw_hot": 175239,
+        "num": 1489579,
+        "word": "男子瘫倒路边过路交警紧急送医",
+        "onboard_time": 1688291670,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1365811,
+        "num": 1365811,
+        "word": "白敬亭小号改名白敬亭94玩儿",
+        "onboard_time": 1688284833,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119407,
+        "num": 1071521,
+        "word": "为保护被困司机他用身体挡飞溅玻璃",
+        "onboard_time": 1688290592,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801322,
+        "num": 801322,
+        "word": "杨舒予",
+        "onboard_time": 1688282852,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 796636,
+        "num": 796636,
+        "word": "宋轶发了五条微博",
+        "onboard_time": 1688289934,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 542563,
+        "num": 542563,
+        "word": "嘴唇中间出现的白线是什么",
+        "onboard_time": 1688286872,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 719735,
+        "num": 541452,
+        "word": "宋轶说喜欢胖的男生",
+        "onboard_time": 1688283033,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689356,
+        "num": 540291,
+        "word": "张丹峰问为什么没早点遇见洪欣",
+        "onboard_time": 1688285254,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537846,
+        "num": 537846,
+        "word": "中国人民大学称已报警",
+        "onboard_time": 1688293536,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 443211,
+        "num": 443211,
+        "word": "迪丽热巴刘雨昕珠宝大片",
+        "onboard_time": 1688293054,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 439669,
+        "num": 439669,
+        "word": "沈梦辰戴脐钉",
+        "onboard_time": 1688291791,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419461,
+        "num": 419461,
+        "word": "Minnie普通话比叉烧芬标准",
+        "onboard_time": 1688291430,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 412435,
+        "num": 412435,
+        "word": "中国女排vs美国女排",
+        "onboard_time": 1688288733,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401638,
+        "num": 401638,
+        "word": "王鹤棣圈内最好的朋友是宋伊人",
+        "onboard_time": 1688276495,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400301,
+        "num": 400301,
+        "word": "e人和i人周末的区别",
+        "onboard_time": 1688282133,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397296,
+        "num": 397296,
+        "word": "尘缘",
+        "onboard_time": 1688293655,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1660765,
+        "num": 395616,
+        "word": "玉骨遥",
+        "onboard_time": 1688293955,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1124887,
+        "num": 382647,
+        "word": "因女儿考705分打折庆祝的凉菜摊关门",
+        "onboard_time": 1688279430,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357618,
+        "num": 357618,
+        "word": "男子盗窃后发朋友圈不到24小时被抓",
+        "onboard_time": 1688289090,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343070,
+        "num": 343070,
+        "word": "全球首例猪心脏移植人类失败原因找到了",
+        "onboard_time": 1688274574,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342402,
+        "num": 342402,
+        "word": "外国男子在中国故意将包落下没人偷",
+        "onboard_time": 1688292514,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338130,
+        "num": 338130,
+        "word": "中国女篮亚洲杯夺冠",
+        "onboard_time": 1688280394,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325892,
+        "num": 325892,
+        "word": "告诉婆婆我身体不能生孩子",
+        "onboard_time": 1688282433,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319173,
+        "num": 319173,
+        "word": "封神",
+        "onboard_time": 1688284833,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274284,
+        "num": 274284,
+        "word": "MTG对战eStar",
+        "onboard_time": 1688291254,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258003,
+        "num": 258003,
+        "word": "星巴克与BLACKPINK联手推出周边",
+        "onboard_time": 1688284833,
+        "rank": 29,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 253380,
+        "num": 253380,
+        "word": "不联系就是不喜欢吗",
+        "onboard_time": 1688290830,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248848,
+        "num": 248848,
+        "word": "不能让老板发现我是谁",
+        "onboard_time": 1688293596,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247194,
+        "num": 247194,
+        "word": "王俊凯小时候给王源的信",
+        "onboard_time": 1688276972,
+        "rank": 32,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 246015,
+        "num": 246015,
+        "word": "稚段情长双人大片",
+        "onboard_time": 1688292813,
+        "rank": 33,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 244642,
+        "num": 244642,
+        "word": "GQ给李现P图",
+        "onboard_time": 1688288673,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227511,
+        "num": 227511,
+        "word": "生气不吃饭只对妈妈有效",
+        "onboard_time": 1688288614,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 217359,
+        "num": 217359,
+        "word": "江西于都一男子杀害3儿童",
+        "onboard_time": 1688293292,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214349,
+        "num": 214349,
+        "word": "白敬亭宋轶是穿了同一件衣服吗",
+        "onboard_time": 1688277573,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212544,
+        "num": 212544,
+        "word": "美国政党称月球上没有第二个国家的国旗",
+        "onboard_time": 1688279850,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 209146,
+        "num": 209146,
+        "word": "填个志愿都快要把家填散了",
+        "onboard_time": 1688284594,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208276,
+        "num": 208276,
+        "word": "大老远来找男朋友发现他没关空调",
+        "onboard_time": 1688294072,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206085,
+        "num": 206085,
+        "word": "王嘉尔直播",
+        "onboard_time": 1688291133,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193783,
+        "num": 193783,
+        "word": "宋伊人有容貌焦虑",
+        "onboard_time": 1688284174,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193164,
+        "num": 193164,
+        "word": "被西安交大校长的临场发挥震撼到",
+        "onboard_time": 1688293536,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193111,
+        "num": 193111,
+        "word": "法国警察射杀17岁少年引起骚乱",
+        "onboard_time": 1688271150,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 187040,
+        "num": 187040,
+        "word": "陈哲远试戏过相爱穿梭千年2",
+        "onboard_time": 1688289814,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185766,
+        "num": 185766,
+        "word": "大鹏全麻前最后一瞬遭遇暴击",
+        "onboard_time": 1688273972,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179246,
+        "num": 179246,
+        "word": "电影封神九尾狐海报",
+        "onboard_time": 1688287834,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175616,
+        "num": 175616,
+        "word": "长得好看的女生会有什么烦恼",
+        "onboard_time": 1688288914,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175068,
+        "num": 175068,
+        "word": "迪丽热巴工作室公布维权情况进展",
+        "onboard_time": 1688275830,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持中共中央政治局第六次集体学习#"
+    }
+  }
+}
