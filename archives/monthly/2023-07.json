@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688314977109,
+  "endTime": 1688315959884,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4385526,
+      "raw_hot": 4686894,
       "num": 492299,
       "word": "Prada",
       "onboard_time": 1688313395,
@@ -1547,6 +1547,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 583591,
+      "num": 583591,
+      "word": "毒蘑菇导致幻觉动感图",
+      "onboard_time": 1688311540,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 582127,
       "num": 582127,
       "word": "邓佳鑫 北京",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1688132379,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 533718,
-      "num": 533718,
-      "word": "毒蘑菇导致幻觉动感图",
-      "onboard_time": 1688311540,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530769,
@@ -2507,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381230,
+      "num": 381230,
+      "word": "Jennie音乐节彩排视频",
+      "onboard_time": 1688314055,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 380669,
       "num": 380669,
       "word": "斗破苍穹年番不断更",
@@ -2787,6 +2795,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 340289,
+      "num": 340289,
+      "word": "白敬亭小号名字解读",
+      "onboard_time": 1688315070,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339963,
       "num": 323599,
       "word": "李现追星赢麻了",
@@ -2857,14 +2873,6 @@
       "onboard_time": 1688136343,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327989,
-      "num": 327989,
-      "word": "Jennie音乐节彩排视频",
-      "onboard_time": 1688314055,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 327133,
@@ -3427,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272976,
+      "num": 272976,
+      "word": "只能骗骗涉世未深的小狗",
+      "onboard_time": 1688312198,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272567,
       "num": 272567,
       "word": "学校把期末成绩发给家长了",
@@ -3721,14 +3737,6 @@
       "onboard_time": 1688277031,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251189,
-      "num": 251189,
-      "word": "只能骗骗涉世未深的小狗",
-      "onboard_time": 1688312198,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 251164,
@@ -4225,6 +4233,14 @@
       "onboard_time": 1688271931,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221976,
+      "num": 221976,
+      "word": "男孩为保护孕妈电梯里劝止烟民",
+      "onboard_time": 1688313395,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221898,
@@ -5321,6 +5337,14 @@
       "onboard_time": 1688301878,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135531,
+      "num": 135531,
+      "word": "没人点赞朋友圈是人缘不好吗",
+      "onboard_time": 1688309503,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 135456,

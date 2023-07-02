@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688314977109,
+  "endTime": 1688315959884,
   "band_list": [
     {
       "raw_hot": 9610176,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4385526,
+      "raw_hot": 4686894,
       "num": 492299,
       "word": "Prada",
       "onboard_time": 1688313395,
@@ -67,20 +67,20 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 583591,
+      "num": 583591,
+      "word": "毒蘑菇导致幻觉动感图",
+      "onboard_time": 1688311540,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577822,
       "num": 577822,
       "word": "玉骨遥今日开播",
       "onboard_time": 1688293415,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 533718,
-      "num": 533718,
-      "word": "毒蘑菇导致幻觉动感图",
-      "onboard_time": 1688311540,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530769,
@@ -139,11 +139,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 381230,
+      "num": 381230,
+      "word": "Jennie音乐节彩排视频",
+      "onboard_time": 1688314055,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 345417,
       "num": 328505,
       "word": "伊能静一回台北就发胖",
       "onboard_time": 1688311836,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 340289,
+      "num": 340289,
+      "word": "白敬亭小号名字解读",
+      "onboard_time": 1688315070,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -171,14 +187,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 327989,
-      "num": 327989,
-      "word": "Jennie音乐节彩排视频",
-      "onboard_time": 1688314055,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 307682,
       "num": 307682,
       "word": "中国人民大学称已报警",
@@ -195,8 +203,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251189,
-      "num": 251189,
+      "raw_hot": 272976,
+      "num": 272976,
       "word": "只能骗骗涉世未深的小狗",
       "onboard_time": 1688312198,
       "rank": 24,
@@ -251,6 +259,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 221976,
+      "num": 221976,
+      "word": "男孩为保护孕妈电梯里劝止烟民",
+      "onboard_time": 1688313395,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220088,
       "num": 220088,
       "word": "赵露思8集换29套衣服",
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 185806,
-      "num": 171290,
+      "num": 178407,
       "word": "白敬亭小号改名白敬亭94玩儿",
       "onboard_time": 1688284833,
       "rank": 40,
@@ -379,6 +395,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 147880,
+      "num": 165134,
+      "word": "女生称求职因是上海人2天被拒3次",
+      "onboard_time": 1688303259,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147059,
       "num": 147059,
       "word": "张丹峰问为什么没早点遇见洪欣",
@@ -387,12 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145504,
-      "num": 145504,
-      "word": "女生称求职因是上海人2天被拒3次",
-      "onboard_time": 1688303259,
+      "raw_hot": 135531,
+      "num": 135531,
+      "word": "没人点赞朋友圈是人缘不好吗",
+      "onboard_time": 1688309503,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135330,
+      "num": 135330,
+      "word": "沈梦辰戴脐钉",
+      "onboard_time": 1688291791,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 11977,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#征程#"
+    },
+    {
+      "word": "#平均年龄89岁的老党员们谈初心#"
     }
   ]
 }
