@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688326434688,
+  "endTime": 1688329115827,
   "band_list": [
     {
       "raw_hot": 9610176,
@@ -523,12 +523,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 22579,
+      "raw_hot": 26764,
       "num": 29805,
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24136,
+      "num": 24136,
+      "word": "没有穿尿不湿的干不了的事",
+      "onboard_time": 1688327412,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 11977,
