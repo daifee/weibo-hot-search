@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688275064199,
+  "endTime": 1688276039852,
   "band_list": [
     {
       "raw_hot": 5712927,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1858705,
+      "num": 1858705,
+      "word": "大鹏全麻前最后一瞬遭遇暴击",
+      "onboard_time": 1688273972,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1737513,
       "num": 1737513,
       "word": "终于知道我头发油的原因了",
@@ -75,8 +83,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1284128,
-      "num": 1087591,
+      "raw_hot": 1313529,
+      "num": 1313529,
       "word": "法国警察射杀17岁少年引起骚乱",
       "onboard_time": 1688271150,
       "rank": 29,
@@ -107,8 +115,16 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1135104,
+      "num": 264638,
+      "word": "全球首例猪心脏移植人类失败原因找到了",
+      "onboard_time": 1688274574,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1132521,
-      "num": 323957,
+      "num": 376592,
       "word": "指甲上突然长了一条黑线",
       "onboard_time": 1688273132,
       "rank": 20,
@@ -155,14 +171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 926421,
-      "num": 629171,
-      "word": "大鹏全麻前最后一瞬遭遇暴击",
-      "onboard_time": 1688273972,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 873448,
       "num": 873448,
       "word": "韩86岁演艺圈元老性侵女学生被捕",
@@ -192,6 +200,14 @@
       "word": "管文丁宁官宣恋情",
       "onboard_time": 1688259268,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 847551,
+      "num": 847551,
+      "word": "宋妍霏带200多套衣服拍戏",
+      "onboard_time": 1688273852,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -275,6 +291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 637691,
+      "num": 637691,
+      "word": "尹净汉ins",
+      "onboard_time": 1688275113,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637336,
       "num": 637336,
       "word": "一个发型拯救一张脸",
@@ -315,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 615584,
+      "num": 615584,
+      "word": "女友妹妹炮轰内马尔孕期出轨",
+      "onboard_time": 1688273911,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 612317,
       "num": 612317,
       "word": "白敬亭这真的是你吗",
@@ -340,11 +372,19 @@
     },
     {
       "raw_hot": 571231,
-      "num": 335656,
+      "num": 357879,
       "word": "孙女给不能自理的爷爷洗澡引争议",
       "onboard_time": 1688271150,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565266,
+      "num": 565266,
+      "word": "虞书欣 Moschino",
+      "onboard_time": 1688275053,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 559401,
@@ -427,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484595,
+      "num": 484595,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1688270731,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 471140,
       "num": 308064,
       "word": "以为是房子隔音好",
       "onboard_time": 1688225498,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 465008,
-      "num": 465008,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1688270731,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 453880,
@@ -463,14 +503,6 @@
       "num": 447630,
       "word": "韩剧 恶鬼",
       "onboard_time": 1688222499,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 440698,
-      "num": 440698,
-      "word": "宋妍霏带200多套衣服拍戏",
-      "onboard_time": 1688273852,
       "rank": 14,
       "category": "影视"
     },
@@ -515,20 +547,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399571,
+      "num": 354599,
+      "word": "爸爸把八岁儿子挣的钱偷走了",
+      "onboard_time": 1688274932,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398767,
       "num": 398767,
       "word": "赵露思新剧纯欲风",
       "onboard_time": 1688222676,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394929,
-      "num": 246974,
-      "word": "女友妹妹炮轰内马尔孕期出轨",
-      "onboard_time": 1688273911,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 390197,
@@ -587,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366212,
-      "num": 246143,
-      "word": "全球首例猪心脏移植人类失败原因找到了",
-      "onboard_time": 1688274574,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357567,
       "num": 324061,
       "word": "周杰伦演唱会",
@@ -635,6 +659,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 337910,
+      "num": 337910,
+      "word": "男子飞机上涉嫌摸乘务员大腿被警告",
+      "onboard_time": 1688273070,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334051,
       "num": 298101,
       "word": "澡堂子偶遇王嘉尔",
@@ -643,20 +675,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328152,
-      "num": 328152,
-      "word": "男子飞机上涉嫌摸乘务员大腿被警告",
-      "onboard_time": 1688273070,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322703,
       "num": 322703,
       "word": "周琦",
       "onboard_time": 1688250917,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309138,
+      "num": 309138,
+      "word": "警方通报江西3名小孩被杀害",
+      "onboard_time": 1688274813,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307077,
@@ -684,7 +716,7 @@
     },
     {
       "raw_hot": 302841,
-      "num": 245414,
+      "num": 263178,
       "word": "世界上最黑的材料",
       "onboard_time": 1688274213,
       "rank": 32,
@@ -697,6 +729,22 @@
       "onboard_time": 1688253199,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292057,
+      "num": 292057,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1688273852,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 291071,
+      "num": 261521,
+      "word": "试衣间死亡顶光",
+      "onboard_time": 1688274154,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 288127,
@@ -723,14 +771,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 280603,
-      "num": 280603,
-      "word": "五十公里桃花坞",
-      "onboard_time": 1688273852,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280217,
       "num": 280217,
       "word": "安溥和吴青峰拥抱",
@@ -745,6 +785,14 @@
       "onboard_time": 1688259085,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 276240,
+      "num": 276240,
+      "word": "迪丽热巴工作室公布维权情况进展",
+      "onboard_time": 1688275830,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 273585,
@@ -939,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231686,
+      "num": 231686,
+      "word": "福宝第一次近距离接触异性",
+      "onboard_time": 1688275291,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231652,
       "num": 231652,
       "word": "徐明浩领口很危险",
@@ -947,20 +1003,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229742,
-      "num": 229742,
-      "word": "虞书欣 Moschino",
-      "onboard_time": 1688275053,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227472,
       "num": 227472,
       "word": "张杰未live巡回演唱会",
       "onboard_time": 1688234539,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227186,
+      "num": 227186,
+      "word": "中国的学生最缺少什么教育",
+      "onboard_time": 1688275413,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 222148,
@@ -995,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212306,
-      "num": 212306,
-      "word": "警方通报江西3名小孩被杀害",
-      "onboard_time": 1688274813,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211511,
       "num": 211511,
       "word": "光是看心脏都受不了",
@@ -1025,22 +1073,6 @@
       "onboard_time": 1688268029,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207401,
-      "num": 207401,
-      "word": "爸爸把八岁儿子挣的钱偷走了",
-      "onboard_time": 1688274932,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 207252,
-      "num": 207252,
-      "word": "试衣间死亡顶光",
-      "onboard_time": 1688274154,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 206246,
@@ -1171,6 +1203,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 182211,
+      "num": 182211,
+      "word": "寿光菜农外出教人种菜月入过万",
+      "onboard_time": 1688275893,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180025,
       "num": 180025,
       "word": "EDG战胜WE",
@@ -1284,7 +1324,7 @@
     },
     {
       "raw_hot": 126180,
-      "num": 1351136,
+      "num": 1548807,
       "word": "青藏铁路开启动车时代",
       "onboard_time": 1688268633,
       "rank": 2,
