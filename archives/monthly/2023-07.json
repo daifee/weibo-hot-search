@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688312029895,
+  "endTime": 1688314977109,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -49,6 +49,14 @@
       "onboard_time": 1688208272,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4385526,
+      "num": 492299,
+      "word": "Prada",
+      "onboard_time": 1688313395,
+      "rank": 11,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 3952331,
@@ -497,6 +505,14 @@
       "onboard_time": 1688305121,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1229167,
+      "num": 696171,
+      "word": "ITZY",
+      "onboard_time": 1688312436,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1226888,
@@ -1043,6 +1059,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 765969,
+      "num": 765969,
+      "word": "龚俊周杰伦合唱发如雪",
+      "onboard_time": 1688311118,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 758916,
       "num": 669888,
       "word": "白敬亭真不瘦",
@@ -1227,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667107,
+      "num": 491569,
+      "word": "荣宅",
+      "onboard_time": 1688312137,
+      "rank": 12,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 666082,
       "num": 666082,
       "word": "王宝强把张颜齐认成了周杰伦",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1688277393,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 664825,
-      "num": 664825,
-      "word": "龚俊周杰伦合唱发如雪",
-      "onboard_time": 1688311118,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 664402,
@@ -1707,6 +1731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533718,
+      "num": 533718,
+      "word": "毒蘑菇导致幻觉动感图",
+      "onboard_time": 1688311540,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530769,
+      "num": 530769,
+      "word": "白桃星座",
+      "onboard_time": 1688312255,
+      "rank": 7,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 527940,
       "num": 460452,
       "word": "让外国网友帮忙做英语作业",
@@ -2011,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470324,
+      "num": 470324,
+      "word": "王鹤棣宋伊人怎么认识的",
+      "onboard_time": 1688311236,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469196,
       "num": 469196,
       "word": "恭喜中国女篮重返亚洲之巅",
@@ -2139,14 +2187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440545,
-      "num": 301208,
-      "word": "王鹤棣宋伊人怎么认识的",
-      "onboard_time": 1688311236,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 440038,
       "num": 440038,
       "word": "10岁男孩物业大厅捉迷藏触电身亡",
@@ -2180,7 +2220,7 @@
     },
     {
       "raw_hot": 438431,
-      "num": 297165,
+      "num": 335652,
       "word": "顾九思柳玉茹诀别吻",
       "onboard_time": 1688310580,
       "rank": 28,
@@ -2345,6 +2385,14 @@
       "onboard_time": 1688282314,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403052,
+      "num": 403052,
+      "word": "原来榴莲也有住单间的",
+      "onboard_time": 1688311236,
+      "rank": 17,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 401403,
@@ -2683,6 +2731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345417,
+      "num": 328505,
+      "word": "伊能静一回台北就发胖",
+      "onboard_time": 1688311836,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345292,
       "num": 1422788,
       "word": "女兵退伍当村支书集体收入3年翻3倍",
@@ -2803,12 +2859,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328297,
-      "num": 328297,
-      "word": "原来榴莲也有住单间的",
-      "onboard_time": 1688311236,
-      "rank": 17,
-      "category": "幽默,美食"
+      "raw_hot": 327989,
+      "num": 327989,
+      "word": "Jennie音乐节彩排视频",
+      "onboard_time": 1688314055,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 327133,
@@ -3299,14 +3355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278778,
-      "num": 278778,
-      "word": "毒蘑菇导致幻觉动感图",
-      "onboard_time": 1688311540,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277962,
       "num": 277962,
       "word": "长风渡",
@@ -3675,6 +3723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251189,
+      "num": 251189,
+      "word": "只能骗骗涉世未深的小狗",
+      "onboard_time": 1688312198,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251164,
       "num": 251164,
       "word": "间谍潜藏十七年终落网",
@@ -3865,14 +3921,6 @@
       "onboard_time": 1688289814,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242107,
-      "num": 242107,
-      "word": "伊能静一回台北就发胖",
-      "onboard_time": 1688311836,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 241064,
@@ -4659,6 +4707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190766,
+      "num": 190766,
+      "word": "小伙头发还没冲干净跑步加入救人队伍",
+      "onboard_time": 1688313033,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 190733,
       "num": 190733,
       "word": "韩旭26分",
@@ -4913,6 +4969,14 @@
       "onboard_time": 1688278653,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177374,
+      "num": 177374,
+      "word": "当我试图用一个健康的姿势打游戏时",
+      "onboard_time": 1688313336,
+      "rank": 38,
+      "category": "幽默,游戏"
     },
     {
       "raw_hot": 177149,
@@ -5177,6 +5241,14 @@
       "onboard_time": 1688185354,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149125,
+      "num": 149125,
+      "word": "神十四乘组在太空种的菜被吃了",
+      "onboard_time": 1688312074,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 147775,
