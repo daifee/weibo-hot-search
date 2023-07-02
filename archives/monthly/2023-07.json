@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688254464625,
+  "endTime": 1688263075842,
   "band_list": [
     {
       "raw_hot": 6846023,
@@ -49,6 +49,14 @@
       "onboard_time": 1688219853,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 3073693,
+      "num": 387918,
+      "word": "人大 泄露信息",
+      "onboard_time": 1688258908,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2992464,
@@ -176,6 +184,14 @@
       "word": "鸟胃型猪瘾",
       "onboard_time": 1688210192,
       "rank": 8,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1721657,
+      "num": 1721657,
+      "word": "终于知道我头发油的原因了",
+      "onboard_time": 1688257046,
+      "rank": 0,
       "category": "幽默"
     },
     {
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 969308,
+      "num": 969308,
+      "word": "退休老人认18个爸妈为其养老送终",
+      "onboard_time": 1688260949,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965711,
       "num": 373052,
       "word": "牙医建议刷牙后不要立刻漱口",
@@ -419,6 +443,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 900622,
+      "num": 900622,
+      "word": "马克龙把骚乱归咎于社交媒体和电子游戏",
+      "onboard_time": 1688259386,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 892109,
       "num": 892109,
       "word": "花花接住谭爷爷给的小苹果",
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 875878,
+      "num": 875878,
+      "word": "朱一龙20亿票房男主",
+      "onboard_time": 1688255965,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 875229,
       "num": 875229,
       "word": "沈月魏大勋是在饭局上认识的",
@@ -457,6 +497,14 @@
       "onboard_time": 1688139105,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849580,
+      "num": 282951,
+      "word": "管文丁宁官宣恋情",
+      "onboard_time": 1688259268,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 823565,
@@ -628,7 +676,7 @@
     },
     {
       "raw_hot": 678432,
-      "num": 293409,
+      "num": 397323,
       "word": "韩安冉 不要因为受伤就怕输",
       "onboard_time": 1688244793,
       "rank": 30,
@@ -955,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539642,
+      "num": 539642,
+      "word": "大学毕业生带小黄鸭坐火车被拒",
+      "onboard_time": 1688252477,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536401,
       "num": 386930,
       "word": "赵丽颖回复谢娜",
@@ -1115,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 480167,
+      "num": 480167,
+      "word": "黄子韬说让马伯骞去干建筑师",
+      "onboard_time": 1688259868,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476288,
       "num": 476288,
       "word": "Ella说被张嘉倪喜欢真的很好命",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1688173649,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 448882,
+      "num": 282245,
+      "word": "苏格兰呼吁女性生育时不用止痛药",
+      "onboard_time": 1688261669,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448877,
@@ -1331,6 +1403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 382533,
+      "num": 382533,
+      "word": "今天是平分2023年的一天",
+      "onboard_time": 1688256084,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378352,
       "num": 378352,
       "word": "Burberry雪糕",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1688213194,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370854,
+      "num": 281183,
+      "word": "TF三代出道战终于要来了",
+      "onboard_time": 1688259568,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 366211,
@@ -1619,6 +1707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304639,
+      "num": 280034,
+      "word": "85后清华博士王波升副厅",
+      "onboard_time": 1688260170,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303314,
       "num": 244528,
       "word": "艾伦阿金去世",
@@ -1739,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279663,
+      "num": 279663,
+      "word": "现在孩子水平都太高了",
+      "onboard_time": 1688259085,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279162,
       "num": 252386,
       "word": "韩剧恶鬼",
@@ -1843,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270312,
+      "num": 270312,
+      "word": "毛不易唱不染",
+      "onboard_time": 1688262751,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266463,
       "num": 266463,
       "word": "什么病人明明是我本人",
@@ -1899,14 +2011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261797,
-      "num": 261797,
-      "word": "大学毕业生带小黄鸭坐火车被拒",
-      "onboard_time": 1688252477,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260951,
       "num": 260951,
       "word": "韩旭压哨三分",
@@ -1947,12 +2051,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258687,
+      "num": 258687,
+      "word": "偷偷藏不住现实衍生版",
+      "onboard_time": 1688260531,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256448,
       "num": 256448,
       "word": "朱婷",
       "onboard_time": 1688135142,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255674,
+      "num": 245713,
+      "word": "制片人说赵露思非常有天赋",
+      "onboard_time": 1688258368,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 254383,
@@ -2017,6 +2137,14 @@
       "onboard_time": 1688189794,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248610,
+      "num": 248610,
+      "word": "别人划水是偷懒熊猫划水是工作",
+      "onboard_time": 1688261249,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246160,
@@ -2097,6 +2225,14 @@
       "onboard_time": 1688178211,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238359,
+      "num": 238359,
+      "word": "艾怡良 救我",
+      "onboard_time": 1688256446,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 238357,
@@ -2267,6 +2403,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 218919,
+      "num": 218919,
+      "word": "云南九龙瀑布群被吐槽建围墙防看",
+      "onboard_time": 1688262210,
+      "rank": 31,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 218710,
       "num": 218710,
       "word": "徐穗珍开通ins",
@@ -2387,6 +2531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 207757,
+      "num": 207757,
+      "word": "俩南方小伙山东旅游点6个菜吃不完",
+      "onboard_time": 1688257647,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206944,
       "num": 206944,
       "word": "郑宜农拿了两个奖",
@@ -2419,6 +2571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206185,
+      "num": 206185,
+      "word": "韩安冉妈妈婚礼致辞",
+      "onboard_time": 1688262509,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 205520,
       "num": 205520,
       "word": "中国女排3比1战胜韩国队",
@@ -2441,6 +2601,22 @@
       "onboard_time": 1688208571,
       "rank": 36,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 203805,
+      "num": 203805,
+      "word": "白敬亭直播看长风渡",
+      "onboard_time": 1688260888,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203426,
+      "num": 203426,
+      "word": "差点以为世界颠倒了",
+      "onboard_time": 1688261369,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 201661,
@@ -2619,12 +2795,28 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 185013,
+      "num": 185013,
+      "word": "沈腾在云南吃齐齐哈尔烤串",
+      "onboard_time": 1688256325,
+      "rank": 39,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 182690,
       "num": 182690,
       "word": "顾九思怒怼梁王",
       "onboard_time": 1688214211,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182477,
+      "num": 182477,
+      "word": "一个发型拯救一张脸",
+      "onboard_time": 1688262870,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 181871,
@@ -2731,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166399,
+      "num": 166399,
+      "word": "喜欢拍照记录真的是一个好习惯",
+      "onboard_time": 1688253140,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166065,
       "num": 166065,
       "word": "浙江这是下开水的节奏吗",
@@ -2803,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147775,
+      "num": 147775,
+      "word": "金沙江落水女孩拜救人者为干爹",
+      "onboard_time": 1688253679,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147179,
       "num": 174353,
       "word": "法斗的叫声能有多难听",
@@ -2867,6 +3075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132008,
+      "num": 132008,
+      "word": "利拉德申请交易",
+      "onboard_time": 1688256745,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129190,
       "num": 149392,
       "word": "说错话后每句话都温柔且真诚",
@@ -2889,14 +3105,6 @@
       "onboard_time": 1688206652,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 122869,
-      "num": 122869,
-      "word": "金沙江落水女孩拜救人者为干爹",
-      "onboard_time": 1688253679,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115967,
@@ -2929,14 +3137,6 @@
       "onboard_time": 1688142270,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101794,
-      "num": 101794,
-      "word": "喜欢拍照记录真的是一个好习惯",
-      "onboard_time": 1688253140,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 98758,
