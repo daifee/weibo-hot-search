@@ -1,7 +1,15 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688264474210,
+  "endTime": 1688267141534,
   "band_list": [
+    {
+      "raw_hot": 5712927,
+      "num": 5712927,
+      "word": "蔡徐坤豆瓣主页正常了",
+      "onboard_time": 1688265329,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3526747,
       "num": 3526747,
@@ -51,6 +59,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1011726,
+      "num": 1011726,
+      "word": "尘缘定档今晚",
+      "onboard_time": 1688263708,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1010669,
       "num": 1010669,
       "word": "退休老人认18个爸妈为其养老送终",
@@ -83,12 +99,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 836567,
-      "num": 836567,
-      "word": "尘缘定档今晚",
-      "onboard_time": 1688263708,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 789699,
+      "num": 789699,
+      "word": "苏格兰呼吁女性生育时不用止痛药",
+      "onboard_time": 1688261669,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 778439,
@@ -129,6 +145,22 @@
       "onboard_time": 1688244793,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 663216,
+      "num": 607370,
+      "word": "在飞机上偶遇三只狗狗",
+      "onboard_time": 1688264371,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 637336,
+      "num": 637336,
+      "word": "一个发型拯救一张脸",
+      "onboard_time": 1688262870,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 626660,
@@ -179,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 550443,
+      "num": 550443,
+      "word": "女儿每拿一张奖状爸爸就奖100元",
+      "onboard_time": 1688265630,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527940,
       "num": 460452,
       "word": "让外国网友帮忙做英语作业",
@@ -195,12 +235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508128,
+      "num": 235123,
+      "word": "大妈用高铁上的插座焖了一锅米饭",
+      "onboard_time": 1688266470,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 496990,
       "num": 496990,
       "word": "6大人争接萌娃放学姥爷赢麻了",
       "onboard_time": 1688227110,
       "rank": 19,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 491583,
+      "num": 308018,
+      "word": "倪妮二十亿票房女主",
+      "onboard_time": 1688265329,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 491533,
@@ -227,14 +283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 459458,
-      "num": 459458,
-      "word": "苏格兰呼吁女性生育时不用止痛药",
-      "onboard_time": 1688261669,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447630,
       "num": 447630,
       "word": "韩剧 恶鬼",
@@ -249,14 +297,6 @@
       "onboard_time": 1688211212,
       "rank": 9,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 420959,
-      "num": 251876,
-      "word": "一个发型拯救一张脸",
-      "onboard_time": 1688262870,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 414596,
@@ -355,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330971,
+      "num": 297692,
+      "word": "才知道周杰伦给Angelababy写过歌",
+      "onboard_time": 1688266531,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 322703,
       "num": 322703,
       "word": "周琦",
       "onboard_time": 1688250917,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321811,
+      "num": 231176,
+      "word": "吊带袜天使新作真的来了",
+      "onboard_time": 1688266413,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 307077,
@@ -507,6 +563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 252909,
+      "num": 252909,
+      "word": "长风渡守望都名场面",
+      "onboard_time": 1688265869,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251140,
       "num": 251140,
       "word": "俩南方小伙山东旅游点6个菜吃不完",
@@ -579,6 +643,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222546,
+      "num": 222546,
+      "word": "华晨宇大地",
+      "onboard_time": 1688266049,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 221898,
+      "num": 221898,
+      "word": "Alin获奖后与贾静雯刘雅瑟视频",
+      "onboard_time": 1688263889,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218919,
       "num": 218919,
       "word": "云南九龙瀑布群被吐槽建围墙防看",
@@ -625,6 +705,14 @@
       "onboard_time": 1688220095,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199347,
+      "num": 199347,
+      "word": "乡村教师暑假前农用车上开家长会",
+      "onboard_time": 1688265389,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 197016,
@@ -675,20 +763,20 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 184629,
+      "num": 405714,
+      "word": "像她们一样",
+      "onboard_time": 1688265267,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180025,
       "num": 180025,
       "word": "EDG战胜WE",
       "onboard_time": 1688219376,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180013,
-      "num": 180013,
-      "word": "Alin获奖后与贾静雯刘雅瑟视频",
-      "onboard_time": 1688263889,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 179449,
@@ -755,14 +843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154237,
-      "num": 154237,
-      "word": "在飞机上偶遇三只狗狗",
-      "onboard_time": 1688264371,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 147775,
       "num": 147775,
       "word": "金沙江落水女孩拜救人者为干爹",
@@ -777,6 +857,14 @@
       "onboard_time": 1688207553,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 143593,
+      "num": 143593,
+      "word": "夏天晒后背真的去寒吗",
+      "onboard_time": 1688267130,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 140158,
@@ -896,6 +984,14 @@
       "word": "当事游客回应发视频表扬导游",
       "onboard_time": 1688245453,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12988,
+      "num": 406910,
+      "word": "山东省委书记揭秘乡村振兴经验",
+      "onboard_time": 1688266832,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
