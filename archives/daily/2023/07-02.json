@@ -1,6 +1,6 @@
 {
   "startTime": 1688228589648,
-  "endTime": 1688276039852,
+  "endTime": 1688278963452,
   "band_list": [
     {
       "raw_hot": 5712927,
@@ -75,12 +75,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1445592,
+      "num": 1445592,
+      "word": "全球首例猪心脏移植人类失败原因找到了",
+      "onboard_time": 1688274574,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1391221,
       "num": 1391221,
       "word": "倪妮能够出演陈麦的原因",
       "onboard_time": 1688269470,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1382639,
+      "num": 1382639,
+      "word": "王鹤棣圈内最好的朋友是宋伊人",
+      "onboard_time": 1688276495,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1313529,
@@ -115,16 +131,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1135104,
-      "num": 264638,
-      "word": "全球首例猪心脏移植人类失败原因找到了",
-      "onboard_time": 1688274574,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1132521,
-      "num": 376592,
+      "num": 469065,
       "word": "指甲上突然长了一条黑线",
       "onboard_time": 1688273132,
       "rank": 20,
@@ -171,12 +179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 932081,
+      "num": 661990,
+      "word": "白敬亭宋轶是穿了同一件衣服吗",
+      "onboard_time": 1688277573,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 873448,
       "num": 873448,
       "word": "韩86岁演艺圈元老性侵女学生被捕",
       "onboard_time": 1688271391,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 867196,
+      "num": 867196,
+      "word": "宋妍霏带200多套衣服拍戏",
+      "onboard_time": 1688273852,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 866445,
@@ -203,14 +227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 847551,
-      "num": 847551,
-      "word": "宋妍霏带200多套衣服拍戏",
-      "onboard_time": 1688273852,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 789699,
       "num": 789699,
       "word": "苏格兰呼吁女性生育时不用止痛药",
@@ -233,6 +249,14 @@
       "onboard_time": 1688224659,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738000,
+      "num": 738000,
+      "word": "尹净汉ins",
+      "onboard_time": 1688275113,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 733925,
@@ -283,6 +307,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670692,
+      "num": 670692,
+      "word": "女友妹妹炮轰内马尔孕期出轨",
+      "onboard_time": 1688273911,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 662281,
+      "num": 662281,
+      "word": "中国的学生最缺少什么教育",
+      "onboard_time": 1688275413,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 657345,
+      "num": 657345,
+      "word": "王俊凯小时候给王源的信",
+      "onboard_time": 1688276972,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 648996,
       "num": 648996,
       "word": "鹿晗演唱会 抢票",
@@ -291,20 +339,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 637691,
-      "num": 637691,
-      "word": "尹净汉ins",
-      "onboard_time": 1688275113,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 637336,
       "num": 637336,
       "word": "一个发型拯救一张脸",
       "onboard_time": 1688262870,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 635052,
+      "num": 635052,
+      "word": "迪丽热巴工作室公布维权情况进展",
+      "onboard_time": 1688275830,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 629809,
@@ -339,14 +387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 615584,
-      "num": 615584,
-      "word": "女友妹妹炮轰内马尔孕期出轨",
-      "onboard_time": 1688273911,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 612317,
       "num": 612317,
       "word": "白敬亭这真的是你吗",
@@ -377,6 +417,14 @@
       "onboard_time": 1688271150,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567586,
+      "num": 567586,
+      "word": "李梦状态",
+      "onboard_time": 1688276674,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 565266,
@@ -435,6 +483,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 510243,
+      "num": 510243,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1688270731,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 497002,
+      "num": 497002,
+      "word": "台媒曝解放军回呛台军",
+      "onboard_time": 1688277393,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496990,
       "num": 496990,
       "word": "6大人争接萌娃放学姥爷赢麻了",
@@ -467,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 484595,
-      "num": 484595,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1688270731,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 471140,
       "num": 308064,
       "word": "以为是房子隔音好",
@@ -505,6 +561,14 @@
       "onboard_time": 1688222499,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444020,
+      "num": 444020,
+      "word": "爸爸把八岁儿子挣的钱偷走了",
+      "onboard_time": 1688274932,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 438046,
@@ -545,14 +609,6 @@
       "onboard_time": 1688263767,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 399571,
-      "num": 354599,
-      "word": "爸爸把八岁儿子挣的钱偷走了",
-      "onboard_time": 1688274932,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 398767,
@@ -619,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359531,
+      "num": 359531,
+      "word": "江疏影王传君认识19年了",
+      "onboard_time": 1688277031,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357567,
       "num": 324061,
       "word": "周杰伦演唱会",
@@ -657,6 +721,14 @@
       "onboard_time": 1688268930,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 340147,
+      "num": 340147,
+      "word": "汪苏泷说Amber是宋茜队友",
+      "onboard_time": 1688278415,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 337910,
@@ -723,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 298009,
+      "num": 298009,
+      "word": "福宝第一次近距离接触异性",
+      "onboard_time": 1688275291,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295100,
       "num": 295100,
       "word": "TF家族合照",
@@ -785,14 +865,6 @@
       "onboard_time": 1688259085,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 276240,
-      "num": 276240,
-      "word": "迪丽热巴工作室公布维权情况进展",
-      "onboard_time": 1688275830,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 273585,
@@ -891,6 +963,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 252035,
+      "num": 252035,
+      "word": "战至巅峰",
+      "onboard_time": 1688277031,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251140,
       "num": 251140,
       "word": "俩南方小伙山东旅游点6个菜吃不完",
@@ -929,6 +1009,14 @@
       "onboard_time": 1688266049,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247338,
+      "num": 247338,
+      "word": "韩旭我的神",
+      "onboard_time": 1688277816,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 243890,
@@ -987,20 +1075,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231686,
-      "num": 231686,
-      "word": "福宝第一次近距离接触异性",
-      "onboard_time": 1688275291,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 231652,
       "num": 231652,
       "word": "徐明浩领口很危险",
       "onboard_time": 1688228072,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230440,
+      "num": 230440,
+      "word": "电视剧里的穷人有多离谱",
+      "onboard_time": 1688277933,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 227472,
@@ -1011,12 +1099,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 227186,
-      "num": 227186,
-      "word": "中国的学生最缺少什么教育",
-      "onboard_time": 1688275413,
-      "rank": 37,
-      "category": "教育,社会新闻"
+      "raw_hot": 224680,
+      "num": 224680,
+      "word": "TVB拍的打工人",
+      "onboard_time": 1688276315,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 222148,
@@ -1049,6 +1137,14 @@
       "onboard_time": 1688260888,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213192,
+      "num": 213192,
+      "word": "大方承认我们都是普通人",
+      "onboard_time": 1688275356,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 211511,
@@ -1123,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199898,
+      "num": 199898,
+      "word": "倪妮9个采访表扬朱一龙9遍",
+      "onboard_time": 1688276430,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199347,
       "num": 199347,
       "word": "乡村教师暑假前农用车上开家长会",
@@ -1153,6 +1257,22 @@
       "onboard_time": 1688274574,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192094,
+      "num": 192094,
+      "word": "谢娜蔡少芬小学生打架",
+      "onboard_time": 1688278471,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191087,
+      "num": 191087,
+      "word": "妈妈为女儿演示胯下扣篮动作",
+      "onboard_time": 1688276194,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190817,
@@ -1227,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177741,
+      "num": 177741,
+      "word": "在国外穿壮族服饰参观南宁舰",
+      "onboard_time": 1688278653,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176027,
       "num": 176027,
       "word": "酷暑下环卫大爷晕倒路人纷纷上前",
@@ -1243,12 +1371,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172419,
+      "num": 172419,
+      "word": "法国骚乱现状",
+      "onboard_time": 1688278713,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 170571,
       "num": 170571,
       "word": "网友感谢王一博赞助奖学金",
       "onboard_time": 1688217993,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167665,
+      "num": 167665,
+      "word": "天经棣义",
+      "onboard_time": 1688278952,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 166399,
@@ -1289,6 +1433,14 @@
       "onboard_time": 1688223579,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157194,
+      "num": 157194,
+      "word": "搬砖男孩清华毕业选择建设家乡",
+      "onboard_time": 1688278891,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147775,
