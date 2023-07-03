@@ -1,10 +1,10 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688350451011,
+  "endTime": 1688353189088,
   "band_list": [
     {
       "raw_hot": 9610176,
-      "num": 642849,
+      "num": 651837,
       "word": "央视频下架蔡徐坤所有视频",
       "onboard_time": 1688299053,
       "rank": 10,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1960692,
+      "num": 1960692,
+      "word": "迪丽热巴腿咚龚俊",
+      "onboard_time": 1688349331,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1733326,
       "num": 1733326,
       "word": "越南高考的中文题",
@@ -35,20 +43,20 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 1398815,
+      "num": 1398815,
+      "word": "隐形眼镜有根线先别急着扔",
+      "onboard_time": 1688347113,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1350127,
       "num": 328559,
       "word": "官方通报小男孩被逼吃粪便",
       "onboard_time": 1688299475,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1337157,
-      "num": 1337157,
-      "word": "迪丽热巴腿咚龚俊",
-      "onboard_time": 1688349331,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1263287,
@@ -75,12 +83,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1099677,
+      "num": 1099677,
+      "word": "肖战演王楚然表哥",
+      "onboard_time": 1688349450,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1088526,
       "num": 636138,
       "word": "东亚疯不动了",
       "onboard_time": 1688346153,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1021184,
+      "num": 1021184,
+      "word": "睡觉时身体为什么会抖一下",
+      "onboard_time": 1688343392,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1016417,
@@ -99,12 +123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 999115,
-      "num": 633881,
-      "word": "隐形眼镜有根线先别急着扔",
-      "onboard_time": 1688347113,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 917595,
+      "num": 651818,
+      "word": "韩媒曝李俊昊林允儿恋情",
+      "onboard_time": 1688352872,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 896685,
@@ -139,12 +163,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 707617,
-      "num": 707617,
-      "word": "睡觉时身体为什么会抖一下",
-      "onboard_time": 1688343392,
-      "rank": 20,
-      "category": "幽默,情感"
+      "raw_hot": 718941,
+      "num": 718941,
+      "word": "周冬雨刘昊然屈楚萧极限拉扯",
+      "onboard_time": 1688352090,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 700230,
@@ -153,6 +177,14 @@
       "onboard_time": 1688342672,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 695559,
+      "num": 695559,
+      "word": "武汉牛肉粉店一天卖光一头牛",
+      "onboard_time": 1688348429,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 678348,
@@ -179,6 +211,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 651682,
+      "num": 651682,
+      "word": "肖战赵露思V榜最快破9男女演员",
+      "onboard_time": 1688351791,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 650672,
       "num": 650672,
       "word": "玉骨遥弑神论",
@@ -187,12 +227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 628401,
-      "num": 628401,
-      "word": "肖战演王楚然表哥",
-      "onboard_time": 1688349450,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 609063,
+      "num": 340026,
+      "word": "缅甸逃回男子忆水牢满地是血",
+      "onboard_time": 1688351070,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607105,
@@ -201,6 +241,14 @@
       "onboard_time": 1688344172,
       "rank": 15,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 601089,
+      "num": 601089,
+      "word": "海口三子大闹周杰伦演唱会",
+      "onboard_time": 1688352332,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 583591,
@@ -227,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 553530,
+      "num": 553530,
+      "word": "萧亚轩直播",
+      "onboard_time": 1688351131,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547332,
       "num": 547332,
       "word": "网友理解的李木子手势",
@@ -248,6 +304,14 @@
       "word": "大老远来找男朋友发现他没关空调",
       "onboard_time": 1688294072,
       "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 526846,
+      "num": 324085,
+      "word": "在高铁上吃泡面被说没有素质",
+      "onboard_time": 1688350649,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -299,6 +363,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 401819,
+      "num": 286259,
+      "word": "Angelababy吻戏紧张到闭眼",
+      "onboard_time": 1688351671,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397241,
       "num": 397241,
       "word": "杨和苏喊话张杰全国裸巡",
@@ -323,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 370565,
+      "num": 235589,
+      "word": "范伟虞书欣加入非诚勿扰3",
+      "onboard_time": 1688352750,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360676,
       "num": 360676,
       "word": "赚钱多和有下一代你会如何选择",
@@ -337,6 +417,14 @@
       "onboard_time": 1688340867,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356389,
+      "num": 234332,
+      "word": "电影燃冬定档七夕",
+      "onboard_time": 1688351731,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 345417,
@@ -363,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337986,
-      "num": 337986,
-      "word": "武汉牛肉粉店一天卖光一头牛",
-      "onboard_time": 1688348429,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335652,
       "num": 335652,
       "word": "顾九思柳玉茹诀别吻",
@@ -385,6 +465,22 @@
       "onboard_time": 1688306441,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 325699,
+      "num": 258800,
+      "word": "王阳到底演过多少姐夫",
+      "onboard_time": 1688349930,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 325477,
+      "num": 217933,
+      "word": "刘芸看郑钧演唱会拍了10个G",
+      "onboard_time": 1688351370,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 320089,
@@ -475,12 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 258800,
-      "num": 258800,
-      "word": "王阳到底演过多少姐夫",
+      "raw_hot": 270588,
+      "num": 270588,
+      "word": "家长的控制欲和恐惧",
       "onboard_time": 1688349930,
-      "rank": 28,
-      "category": "影视"
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 258166,
@@ -579,6 +675,22 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 217921,
+      "num": 217921,
+      "word": "被一只小猫咪整哭了",
+      "onboard_time": 1688352451,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 212518,
+      "num": 212518,
+      "word": "老祖宗最知道怎么哄孩子",
+      "onboard_time": 1688352508,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207636,
       "num": 207636,
       "word": "英雄联盟",
@@ -659,6 +771,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 190400,
+      "num": 190400,
+      "word": "百岁奶奶穿婚纱跳舞庆祝孙女结婚",
+      "onboard_time": 1688351791,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187854,
+      "num": 187854,
+      "word": "花少北 一直逃避回应做视频的问题",
+      "onboard_time": 1688353050,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186203,
       "num": 186203,
       "word": "长风渡又断更了",
@@ -673,14 +801,6 @@
       "onboard_time": 1688284833,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180039,
-      "num": 180039,
-      "word": "家长的控制欲和恐惧",
-      "onboard_time": 1688349930,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 177374,
@@ -731,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165731,
+      "num": 165731,
+      "word": "拉丁美洲唯一的大熊猫33岁啦",
+      "onboard_time": 1688350708,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165451,
       "num": 165451,
       "word": "火影忍者新作动画",
@@ -745,6 +873,14 @@
       "onboard_time": 1688294911,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158326,
+      "num": 158326,
+      "word": "你相册中最惊艳的一张照片",
+      "onboard_time": 1688350592,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 156616,
@@ -777,6 +913,14 @@
       "onboard_time": 1688350413,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149148,
+      "num": 149148,
+      "word": "微博手机影像年",
+      "onboard_time": 1688352031,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 149125,
@@ -924,7 +1068,7 @@
     },
     {
       "raw_hot": 49615,
-      "num": 1060888,
+      "num": 1133253,
       "word": "他们获颁光荣在党50年纪念章",
       "onboard_time": 1688306982,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688350451011,
+  "endTime": 1688353189088,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -217,6 +217,14 @@
       "onboard_time": 1688274574,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1960692,
+      "num": 1960692,
+      "word": "迪丽热巴腿咚龚俊",
+      "onboard_time": 1688349331,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1956252,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1398815,
+      "num": 1398815,
+      "word": "隐形眼镜有根线先别急着扔",
+      "onboard_time": 1688347113,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1391221,
       "num": 1391221,
       "word": "倪妮能够出演陈麦的原因",
@@ -465,14 +481,6 @@
       "onboard_time": 1688223939,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1337157,
-      "num": 1337157,
-      "word": "迪丽热巴腿咚龚俊",
-      "onboard_time": 1688349331,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1327785,
@@ -635,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1099677,
+      "num": 1099677,
+      "word": "肖战演王楚然表哥",
+      "onboard_time": 1688349450,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1088526,
       "num": 636138,
       "word": "东亚疯不动了",
@@ -699,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1021184,
+      "num": 1021184,
+      "word": "睡觉时身体为什么会抖一下",
+      "onboard_time": 1688343392,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1016417,
       "num": 1016417,
       "word": "环卫工人儿子高考687分被多校电话争抢",
@@ -745,14 +769,6 @@
       "onboard_time": 1688139218,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 999115,
-      "num": 633881,
-      "word": "隐形眼镜有根线先别急着扔",
-      "onboard_time": 1688347113,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 991770,
@@ -856,6 +872,14 @@
       "word": "网友感谢王一博赞助奖学金",
       "onboard_time": 1688217993,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 917595,
+      "num": 651818,
+      "word": "韩媒曝李俊昊林允儿恋情",
+      "onboard_time": 1688352872,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1219,20 +1243,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 718941,
+      "num": 718941,
+      "word": "周冬雨刘昊然屈楚萧极限拉扯",
+      "onboard_time": 1688352090,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716944,
       "num": 716944,
       "word": "鹿晗演唱会给粉丝送Gucci",
       "onboard_time": 1688207553,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 707617,
-      "num": 707617,
-      "word": "睡觉时身体为什么会抖一下",
-      "onboard_time": 1688343392,
-      "rank": 20,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 703406,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1688342672,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 695559,
+      "num": 695559,
+      "word": "武汉牛肉粉店一天卖光一头牛",
+      "onboard_time": 1688348429,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695176,
@@ -1443,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 651682,
+      "num": 651682,
+      "word": "肖战赵露思V榜最快破9男女演员",
+      "onboard_time": 1688351791,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 650672,
       "num": 650672,
       "word": "玉骨遥弑神论",
@@ -1531,14 +1571,6 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 628401,
-      "num": 628401,
-      "word": "肖战演王楚然表哥",
-      "onboard_time": 1688349450,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 627845,
       "num": 624269,
       "word": "陈哲远王玉雯 白色橄榄树",
@@ -1595,6 +1627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 609063,
+      "num": 340026,
+      "word": "缅甸逃回男子忆水牢满地是血",
+      "onboard_time": 1688351070,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606794,
       "num": 606794,
       "word": "大学毕业生带小黄鸭坐火车被拒",
@@ -1616,6 +1656,14 @@
       "word": "徐佳莹女儿好可爱",
       "onboard_time": 1688215050,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 601089,
+      "num": 601089,
+      "word": "海口三子大闹周杰伦演唱会",
+      "onboard_time": 1688352332,
+      "rank": 15,
       "category": "音乐"
     },
     {
@@ -1811,6 +1859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 553530,
+      "num": 553530,
+      "word": "萧亚轩直播",
+      "onboard_time": 1688351131,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550443,
       "num": 550443,
       "word": "女儿每拿一张奖状爸爸就奖100元",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1688211152,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 526846,
+      "num": 324085,
+      "word": "在高铁上吃泡面被说没有素质",
+      "onboard_time": 1688350649,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 523776,
@@ -2547,6 +2611,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 401819,
+      "num": 286259,
+      "word": "Angelababy吻戏紧张到闭眼",
+      "onboard_time": 1688351671,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401403,
       "num": 410927,
       "word": "大熊猫 我怎么下去是饲养员的事",
@@ -2771,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370565,
+      "num": 235589,
+      "word": "范伟虞书欣加入非诚勿扰3",
+      "onboard_time": 1688352750,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369530,
       "num": 303218,
       "word": "刘聪演唱会",
@@ -2857,6 +2937,14 @@
       "onboard_time": 1688225797,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356389,
+      "num": 234332,
+      "word": "电影燃冬定档七夕",
+      "onboard_time": 1688351731,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 356269,
@@ -2995,14 +3083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 337986,
-      "num": 337986,
-      "word": "武汉牛肉粉店一天卖光一头牛",
-      "onboard_time": 1688348429,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337910,
       "num": 337910,
       "word": "男子飞机上涉嫌摸乘务员大腿被警告",
@@ -3089,6 +3169,22 @@
       "onboard_time": 1688182289,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 325699,
+      "num": 258800,
+      "word": "王阳到底演过多少姐夫",
+      "onboard_time": 1688349930,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 325477,
+      "num": 217933,
+      "word": "刘芸看郑钧演唱会拍了10个G",
+      "onboard_time": 1688351370,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 325027,
@@ -3755,6 +3851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270588,
+      "num": 270588,
+      "word": "家长的控制欲和恐惧",
+      "onboard_time": 1688349930,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270312,
       "num": 270312,
       "word": "毛不易唱不染",
@@ -3897,14 +4001,6 @@
       "onboard_time": 1688299833,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 258800,
-      "num": 258800,
-      "word": "王阳到底演过多少姐夫",
-      "onboard_time": 1688349930,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 258687,
@@ -4587,6 +4683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217921,
+      "num": 217921,
+      "word": "被一只小猫咪整哭了",
+      "onboard_time": 1688352451,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 217547,
       "num": 219623,
       "word": "夏目友人帐第7季制作决定",
@@ -4681,6 +4785,14 @@
       "onboard_time": 1688286274,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212518,
+      "num": 212518,
+      "word": "老祖宗最知道怎么哄孩子",
+      "onboard_time": 1688352508,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 212213,
@@ -5059,6 +5171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190400,
+      "num": 190400,
+      "word": "百岁奶奶穿婚纱跳舞庆祝孙女结婚",
+      "onboard_time": 1688351791,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190221,
       "num": 190221,
       "word": "开业14年的顶流私房菜",
@@ -5153,6 +5273,14 @@
       "onboard_time": 1688210311,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187854,
+      "num": 187854,
+      "word": "花少北 一直逃避回应做视频的问题",
+      "onboard_time": 1688353050,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 187154,
@@ -5265,14 +5393,6 @@
       "onboard_time": 1688136221,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 180039,
-      "num": 180039,
-      "word": "家长的控制欲和恐惧",
-      "onboard_time": 1688349930,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 180028,
@@ -5523,6 +5643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165731,
+      "num": 165731,
+      "word": "拉丁美洲唯一的大熊猫33岁啦",
+      "onboard_time": 1688350708,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161087,
       "num": 161087,
       "word": "53岁幼师8年自费种1000盆花",
@@ -5561,6 +5689,14 @@
       "onboard_time": 1688227651,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158326,
+      "num": 158326,
+      "word": "你相册中最惊艳的一张照片",
+      "onboard_time": 1688350592,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 157194,
@@ -5633,6 +5769,14 @@
       "onboard_time": 1688185354,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149148,
+      "num": 149148,
+      "word": "微博手机影像年",
+      "onboard_time": 1688352031,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 149125,
@@ -6092,7 +6236,7 @@
     },
     {
       "raw_hot": 49615,
-      "num": 1060888,
+      "num": 1133253,
       "word": "他们获颁光荣在党50年纪念章",
       "onboard_time": 1688306982,
       "rank": 41,
