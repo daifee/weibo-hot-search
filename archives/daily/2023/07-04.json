@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688423804030,
+  "endTime": 1688426413780,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964742,
+      "num": 559780,
+      "word": "超7成年轻人存款不足10万",
+      "onboard_time": 1688423780,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 927976,
       "num": 211753,
       "word": "蔡徐坤 照片不是我",
@@ -97,6 +105,14 @@
       "onboard_time": 1688396747,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 616750,
+      "num": 616750,
+      "word": "大熊猫萌兰",
+      "onboard_time": 1688414173,
+      "rank": 8,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 526062,
@@ -163,6 +179,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 386171,
+      "num": 386171,
+      "word": "如何评价蔡徐坤道歉",
+      "onboard_time": 1688413453,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 383616,
+      "num": 383616,
+      "word": "给校长撑伞挡雨的书记是山东人",
+      "onboard_time": 1688412075,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379314,
       "num": 286560,
       "word": "PP猪的臭宝贝已报警",
@@ -187,20 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325640,
+      "num": 285996,
+      "word": "看书与不看书的区别",
+      "onboard_time": 1688391636,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 318287,
+      "num": 318287,
+      "word": "父亲和丈夫的尊重要自己去赚",
+      "onboard_time": 1688405540,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 312695,
       "num": 267623,
       "word": "蔡徐坤否认女方未成年及强制堕胎",
       "onboard_time": 1688359492,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290602,
-      "num": 285996,
-      "word": "看书与不看书的区别",
-      "onboard_time": 1688391636,
-      "rank": 21,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 290589,
@@ -219,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281425,
-      "num": 281425,
-      "word": "大熊猫萌兰",
-      "onboard_time": 1688414173,
-      "rank": 8,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 278723,
       "num": 278723,
       "word": "中南大学一校友向母校捐赠6亿",
@@ -243,14 +275,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 264840,
-      "num": 264840,
-      "word": "如何评价蔡徐坤道歉",
-      "onboard_time": 1688413453,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262833,
       "num": 248371,
       "word": "八角笼中",
@@ -265,6 +289,14 @@
       "onboard_time": 1688401833,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253600,
+      "num": 253600,
+      "word": "微信支付每月免费提现额度",
+      "onboard_time": 1688376404,
+      "rank": 27,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 248515,
@@ -289,14 +321,6 @@
       "onboard_time": 1688389661,
       "rank": 29,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 241114,
-      "num": 241114,
-      "word": "微信支付每月免费提现额度",
-      "onboard_time": 1688376404,
-      "rank": 27,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 235551,
@@ -403,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160235,
+      "num": 160235,
+      "word": "韩安冉回应参加婚礼份子钱最低千元",
+      "onboard_time": 1688407577,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 159720,
       "num": 159720,
       "word": "李承铉参加张杰谢娜婚礼晕倒了",
@@ -419,28 +451,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158991,
+      "num": 158991,
+      "word": "偷偷藏不住今晚全糖轰炸",
+      "onboard_time": 1688409556,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158407,
       "num": 158407,
       "word": "女子外卖备注多放醋商家送1大袋",
       "onboard_time": 1688400755,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157634,
-      "num": 157634,
-      "word": "给校长撑伞挡雨的书记是山东人",
-      "onboard_time": 1688412075,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156152,
-      "num": 137760,
-      "word": "父亲和丈夫的尊重要自己去赚",
-      "onboard_time": 1688405540,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 154270,
@@ -483,12 +507,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 88127,
-      "num": 88127,
-      "word": "韩安冉回应参加婚礼份子钱最低千元",
-      "onboard_time": 1688407577,
-      "rank": 26,
-      "category": "网红"
+      "raw_hot": 100803,
+      "num": 100803,
+      "word": "男子激流中勇救落水女子",
+      "onboard_time": 1688425525,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82185,
+      "num": 82185,
+      "word": "一边健身一边抓到潜逃30年命案逃犯",
+      "onboard_time": 1688425766,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79975,
+      "num": 79975,
+      "word": "女明星live图是这样拍出来的",
+      "onboard_time": 1688425404,
+      "rank": 45,
+      "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 79928,
+      "num": 79928,
+      "word": "最爱九思和玉茹的两个人",
+      "onboard_time": 1688418432,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 76717,
@@ -504,22 +552,6 @@
       "word": "时影 i美强惨",
       "onboard_time": 1688404344,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 75950,
-      "num": 75950,
-      "word": "偷偷藏不住今晚全糖轰炸",
-      "onboard_time": 1688409556,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 55272,
-      "num": 61746,
-      "word": "最爱九思和玉茹的两个人",
-      "onboard_time": 1688418432,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -545,14 +577,6 @@
       "onboard_time": 1688411054,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 30094,
-      "num": 55852,
-      "word": "超7成年轻人存款不足10万",
-      "onboard_time": 1688423780,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 27046,
