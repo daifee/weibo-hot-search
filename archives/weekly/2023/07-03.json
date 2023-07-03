@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688372645490,
+  "endTime": 1688373450817,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -187,6 +187,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1425292,
+      "num": 1425292,
+      "word": "赵丽颖 CL",
+      "onboard_time": 1688370823,
+      "rank": 4,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1359044,
       "num": 399300,
       "word": "肖战是靠什么长红多年的",
@@ -219,12 +227,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1225795,
-      "num": 1225795,
-      "word": "赵丽颖 CL",
-      "onboard_time": 1688370823,
-      "rank": 4,
-      "category": "艺人,时尚"
+      "raw_hot": 1216616,
+      "num": 1216616,
+      "word": "日本东京市中心发生爆炸",
+      "onboard_time": 1688371483,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1159263,
@@ -267,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1065300,
+      "num": 1065300,
+      "word": "对方撤回了一个老太太",
+      "onboard_time": 1688366573,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1060747,
       "num": 1060747,
       "word": "睡觉时身体为什么会抖一下",
@@ -299,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 997614,
+      "num": 724204,
+      "word": "萧亚轩自曝恢复单身",
+      "onboard_time": 1688371427,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 991975,
       "num": 991975,
       "word": "时隔多年终于理解了宛瑜",
@@ -324,19 +348,11 @@
     },
     {
       "raw_hot": 929980,
-      "num": 690224,
+      "num": 702479,
       "word": "袁咏仪儿子张慕童近照",
       "onboard_time": 1688370464,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 922510,
-      "num": 922510,
-      "word": "日本东京市中心发生爆炸",
-      "onboard_time": 1688371483,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 916780,
@@ -353,14 +369,6 @@
       "onboard_time": 1688298513,
       "rank": 19,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 894401,
-      "num": 894401,
-      "word": "对方撤回了一个老太太",
-      "onboard_time": 1688366573,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 846441,
@@ -403,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 773061,
+      "num": 773061,
+      "word": "如何看待蔡徐坤回应",
+      "onboard_time": 1688372627,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 765969,
       "num": 765969,
       "word": "龚俊周杰伦合唱发如雪",
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714481,
+      "num": 503091,
+      "word": "白敬亭脱单手串有点东西",
+      "onboard_time": 1688371123,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700230,
       "num": 700230,
       "word": "时影一定要杀朱颜的原因",
@@ -449,14 +473,6 @@
       "onboard_time": 1688348429,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 692071,
-      "num": 692071,
-      "word": "如何看待蔡徐坤回应",
-      "onboard_time": 1688372627,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 682284,
@@ -491,14 +507,6 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 665715,
-      "num": 665715,
-      "word": "萧亚轩自曝恢复单身",
-      "onboard_time": 1688371427,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 665100,
       "num": 665100,
       "word": "饿了么免单",
@@ -521,14 +529,6 @@
       "onboard_time": 1688360039,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 627964,
-      "num": 439458,
-      "word": "白敬亭脱单手串有点东西",
-      "onboard_time": 1688371123,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 607105,
@@ -627,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 526918,
+      "num": 526918,
+      "word": "谢谢你 小孩侠",
+      "onboard_time": 1688369746,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 526846,
       "num": 435748,
       "word": "在高铁上吃泡面被说没有素质",
@@ -667,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 482022,
+      "num": 482022,
+      "word": "怀孕后公司不给批辞职报告",
+      "onboard_time": 1688372205,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 470324,
       "num": 470324,
       "word": "王鹤棣宋伊人怎么认识的",
@@ -705,14 +721,6 @@
       "onboard_time": 1688366512,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439428,
-      "num": 439428,
-      "word": "谢谢你 小孩侠",
-      "onboard_time": 1688369746,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 437179,
@@ -827,10 +835,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356437,
-      "num": 356437,
-      "word": "怀孕后公司不给批辞职报告",
-      "onboard_time": 1688372205,
+      "raw_hot": 357713,
+      "num": 357713,
+      "word": "原来得溃疡以毒攻毒是对的",
+      "onboard_time": 1688368907,
       "rank": 27,
       "category": "幽默"
     },
@@ -843,11 +851,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352109,
-      "num": 352109,
-      "word": "原来得溃疡以毒攻毒是对的",
-      "onboard_time": 1688368907,
-      "rank": 27,
+      "raw_hot": 356034,
+      "num": 356034,
+      "word": "领导过于关心我的私生活",
+      "onboard_time": 1688372926,
+      "rank": 26,
       "category": "幽默"
     },
     {
@@ -881,6 +889,14 @@
       "onboard_time": 1688344773,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 341956,
+      "num": 310698,
+      "word": "嬛球影城",
+      "onboard_time": 1688372085,
+      "rank": 30,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 341849,
@@ -987,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310830,
+      "num": 310830,
+      "word": "爸爸连买房都喜欢和朋友一起",
+      "onboard_time": 1688372326,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310455,
       "num": 310455,
       "word": "女生称求职因是上海人2天被拒3次",
@@ -1051,20 +1075,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295647,
-      "num": 295647,
-      "word": "嬛球影城",
-      "onboard_time": 1688372085,
-      "rank": 30,
-      "category": "旅游,幽默"
-    },
-    {
       "raw_hot": 295004,
       "num": 295004,
       "word": "HR让我把期望薪资调高",
       "onboard_time": 1688371843,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284566,
+      "num": 284566,
+      "word": "周杰伦上海",
+      "onboard_time": 1688373044,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 284123,
@@ -1195,6 +1219,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243189,
+      "num": 243189,
+      "word": "玉骨遥的降落伞是真伞",
+      "onboard_time": 1688373222,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241507,
+      "num": 241507,
+      "word": "上海百年老房里的馄饨火了近40年",
+      "onboard_time": 1688373283,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240917,
       "num": 240917,
       "word": "离职时这些文件不能签",
@@ -1291,14 +1331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225306,
-      "num": 225306,
-      "word": "爸爸连买房都喜欢和朋友一起",
-      "onboard_time": 1688372326,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 222671,
       "num": 222671,
       "word": "长安三万里 将进酒",
@@ -1371,6 +1403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201331,
+      "num": 201331,
+      "word": "燃冬预告 震撼",
+      "onboard_time": 1688373283,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201016,
       "num": 233603,
       "word": "因女儿考705分打折庆祝的凉菜摊关门",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1688295216,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192417,
+      "num": 192417,
+      "word": "陷入沉思的猫咪",
+      "onboard_time": 1688373345,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 192309,
@@ -1812,7 +1860,7 @@
     },
     {
       "raw_hot": 54375,
-      "num": 439469,
+      "num": 503686,
       "word": "赵长江称腾势N7领先两代",
       "onboard_time": 1688371483,
       "rank": 19,

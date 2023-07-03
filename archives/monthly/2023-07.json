@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688372645490,
+  "endTime": 1688373450817,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -603,6 +603,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1425292,
+      "num": 1425292,
+      "word": "赵丽颖 CL",
+      "onboard_time": 1688370823,
+      "rank": 4,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1391221,
       "num": 1391221,
       "word": "倪妮能够出演陈麦的原因",
@@ -699,12 +707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1225795,
-      "num": 1225795,
-      "word": "赵丽颖 CL",
-      "onboard_time": 1688370823,
-      "rank": 4,
-      "category": "艺人,时尚"
+      "raw_hot": 1216616,
+      "num": 1216616,
+      "word": "日本东京市中心发生爆炸",
+      "onboard_time": 1688371483,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1207862,
@@ -859,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1065300,
+      "num": 1065300,
+      "word": "对方撤回了一个老太太",
+      "onboard_time": 1688366573,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1060747,
       "num": 1060747,
       "word": "睡觉时身体为什么会抖一下",
@@ -945,6 +961,14 @@
       "onboard_time": 1688139218,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 997614,
+      "num": 724204,
+      "word": "萧亚轩自曝恢复单身",
+      "onboard_time": 1688371427,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 991975,
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 929980,
-      "num": 690224,
+      "num": 702479,
       "word": "袁咏仪儿子张慕童近照",
       "onboard_time": 1688370464,
       "rank": 15,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1688217993,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 922510,
-      "num": 922510,
-      "word": "日本东京市中心发生爆炸",
-      "onboard_time": 1688371483,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 916780,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1688295933,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 894401,
-      "num": 894401,
-      "word": "对方撤回了一个老太太",
-      "onboard_time": 1688366573,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 892109,
@@ -1395,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 773061,
+      "num": 773061,
+      "word": "如何看待蔡徐坤回应",
+      "onboard_time": 1688372627,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 767313,
       "num": 767313,
       "word": "腾讯会员",
@@ -1515,6 +1531,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 714481,
+      "num": 503091,
+      "word": "白敬亭脱单手串有点东西",
+      "onboard_time": 1688371123,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 703406,
       "num": 703406,
       "word": "seventeen官宣TMEA",
@@ -1569,14 +1593,6 @@
       "onboard_time": 1688302297,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 692071,
-      "num": 692071,
-      "word": "如何看待蔡徐坤回应",
-      "onboard_time": 1688372627,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 684945,
@@ -1681,14 +1697,6 @@
       "onboard_time": 1688180973,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 665715,
-      "num": 665715,
-      "word": "萧亚轩自曝恢复单身",
-      "onboard_time": 1688371427,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 665691,
@@ -1865,14 +1873,6 @@
       "onboard_time": 1688268151,
       "rank": 22,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 627964,
-      "num": 439458,
-      "word": "白敬亭脱单手串有点东西",
-      "onboard_time": 1688371123,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 627845,
@@ -2275,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526918,
+      "num": 526918,
+      "word": "谢谢你 小孩侠",
+      "onboard_time": 1688369746,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 526846,
       "num": 435748,
       "word": "在高铁上吃泡面被说没有素质",
@@ -2539,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482022,
+      "num": 482022,
+      "word": "怀孕后公司不给批辞职报告",
+      "onboard_time": 1688372205,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 476288,
       "num": 476288,
       "word": "Ella说被张嘉倪喜欢真的很好命",
@@ -2785,14 +2801,6 @@
       "onboard_time": 1688282915,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 439428,
-      "num": 439428,
-      "word": "谢谢你 小孩侠",
-      "onboard_time": 1688369746,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 438431,
@@ -3331,20 +3339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357713,
+      "num": 357713,
+      "word": "原来得溃疡以毒攻毒是对的",
+      "onboard_time": 1688368907,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 357567,
       "num": 324061,
       "word": "周杰伦演唱会",
       "onboard_time": 1688225797,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 356437,
-      "num": 356437,
-      "word": "怀孕后公司不给批辞职报告",
-      "onboard_time": 1688372205,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 356389,
@@ -3363,20 +3371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356034,
+      "num": 356034,
+      "word": "领导过于关心我的私生活",
+      "onboard_time": 1688372926,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 352163,
       "num": 342328,
       "word": "祝福香港祝福祖国",
       "onboard_time": 1688175570,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 352109,
-      "num": 352109,
-      "word": "原来得溃疡以毒攻毒是对的",
-      "onboard_time": 1688368907,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 351546,
@@ -3481,6 +3489,14 @@
       "onboard_time": 1688344773,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 341956,
+      "num": 310698,
+      "word": "嬛球影城",
+      "onboard_time": 1688372085,
+      "rank": 30,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 341849,
@@ -3787,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310830,
+      "num": 310830,
+      "word": "爸爸连买房都喜欢和朋友一起",
+      "onboard_time": 1688372326,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310778,
       "num": 310778,
       "word": "中国共产党成立102周年",
@@ -4027,14 +4051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 295647,
-      "num": 295647,
-      "word": "嬛球影城",
-      "onboard_time": 1688372085,
-      "rank": 30,
-      "category": "旅游,幽默"
-    },
-    {
       "raw_hot": 295588,
       "num": 295588,
       "word": "深圳10分钟内就能找到一家图书馆",
@@ -4144,6 +4160,14 @@
       "word": "纹去世朋友名字去看周杰伦演唱会",
       "onboard_time": 1688252659,
       "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 284566,
+      "num": 284566,
+      "word": "周杰伦上海",
+      "onboard_time": 1688373044,
+      "rank": 34,
       "category": "音乐"
     },
     {
@@ -4867,12 +4891,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243189,
+      "num": 243189,
+      "word": "玉骨遥的降落伞是真伞",
+      "onboard_time": 1688373222,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242627,
       "num": 242627,
       "word": "陈哲远试戏过相爱穿梭千年2",
       "onboard_time": 1688289814,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241507,
+      "num": 241507,
+      "word": "上海百年老房里的馄饨火了近40年",
+      "onboard_time": 1688373283,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241064,
@@ -5177,14 +5217,6 @@
       "onboard_time": 1688309503,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225306,
-      "num": 225306,
-      "word": "爸爸连买房都喜欢和朋友一起",
-      "onboard_time": 1688372326,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 224941,
@@ -5667,6 +5699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201331,
+      "num": 201331,
+      "word": "燃冬预告 震撼",
+      "onboard_time": 1688373283,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200317,
       "num": 200317,
       "word": "五险一金为什么重要",
@@ -5785,6 +5825,14 @@
       "onboard_time": 1688212829,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192417,
+      "num": 192417,
+      "word": "陷入沉思的猫咪",
+      "onboard_time": 1688373345,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 192309,
@@ -6972,7 +7020,7 @@
     },
     {
       "raw_hot": 54375,
-      "num": 439469,
+      "num": 503686,
       "word": "赵长江称腾势N7领先两代",
       "onboard_time": 1688371483,
       "rank": 19,
