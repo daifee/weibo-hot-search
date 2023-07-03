@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688388085968,
+  "endTime": 1688389203370,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -1059,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 976866,
+      "num": 586463,
+      "word": "蔡徐坤是否涉及法律问题",
+      "onboard_time": 1688387920,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 974507,
       "num": 974507,
       "word": "炎亚纶前往警局做笔录",
@@ -1707,11 +1715,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 694805,
+      "num": 694805,
+      "word": "广东能听见蟑螂的脚步声",
+      "onboard_time": 1688383778,
+      "rank": 46,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 684945,
       "num": 684945,
       "word": "封神",
       "onboard_time": 1688284833,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 683498,
+      "num": 683498,
+      "word": "张睿直播",
+      "onboard_time": 1688387141,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -2011,6 +2035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 627524,
+      "num": 627524,
+      "word": "北京动物园",
+      "onboard_time": 1688385161,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627029,
       "num": 627029,
       "word": "林俊杰金曲奖致敬林秋离",
@@ -2067,27 +2099,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 606845,
-      "num": 606845,
-      "word": "广东能听见蟑螂的脚步声",
-      "onboard_time": 1688383778,
-      "rank": 46,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 606794,
       "num": 606794,
       "word": "大学毕业生带小黄鸭坐火车被拒",
       "onboard_time": 1688252477,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605605,
-      "num": 605605,
-      "word": "北京动物园",
-      "onboard_time": 1688385161,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2331,14 +2347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 551282,
-      "num": 551282,
-      "word": "张睿直播",
-      "onboard_time": 1688387141,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 550443,
       "num": 550443,
       "word": "女儿每拿一张奖状爸爸就奖100元",
@@ -2547,6 +2555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 512382,
+      "num": 512382,
+      "word": "真情侣vs假情侣回应",
+      "onboard_time": 1688384916,
+      "rank": 13,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 512376,
       "num": 394735,
       "word": "不当老师教师资格证还能干嘛",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1688194172,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489597,
-      "num": 489597,
-      "word": "真情侣vs假情侣回应",
-      "onboard_time": 1688384916,
-      "rank": 13,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 488650,
@@ -3387,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382570,
+      "num": 382570,
+      "word": "宋轶困的原因找到了",
+      "onboard_time": 1688386960,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382533,
       "num": 382533,
       "word": "今天是平分2023年的一天",
@@ -3577,6 +3593,14 @@
       "onboard_time": 1688340867,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360351,
+      "num": 360351,
+      "word": "当你去女朋友家超过四次之后",
+      "onboard_time": 1688385637,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 360152,
@@ -3803,12 +3827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334622,
-      "num": 334622,
-      "word": "当你去女朋友家超过四次之后",
-      "onboard_time": 1688385637,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 334443,
+      "num": 296423,
+      "word": "林俊杰直播",
+      "onboard_time": 1688388277,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 333659,
@@ -4099,6 +4123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309898,
+      "num": 309898,
+      "word": "下次不许带情绪上班了",
+      "onboard_time": 1688384858,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 309601,
       "num": 309601,
       "word": "谢锋大使向美国总统拜登递交国书",
@@ -4145,14 +4177,6 @@
       "onboard_time": 1688214331,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 306947,
-      "num": 306947,
-      "word": "蔡徐坤是否涉及法律问题",
-      "onboard_time": 1688387920,
-      "rank": 22,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 306695,
@@ -4427,6 +4451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288243,
+      "num": 288243,
+      "word": "宋轶是不是男生都喜欢的类型",
+      "onboard_time": 1688389059,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288127,
       "num": 288127,
       "word": "长风渡城楼吻海报",
@@ -4547,12 +4579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277267,
-      "num": 277267,
-      "word": "宋轶困的原因找到了",
-      "onboard_time": 1688386960,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 277399,
+      "num": 300072,
+      "word": "快去看月亮",
+      "onboard_time": 1688388818,
+      "rank": 24,
+      "category": "自然"
     },
     {
       "raw_hot": 274447,
@@ -4769,6 +4801,14 @@
       "onboard_time": 1688188471,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265650,
+      "num": 265650,
+      "word": "中南大学一校友向母校捐赠6亿",
+      "onboard_time": 1688388940,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 265247,
@@ -5193,6 +5233,14 @@
       "onboard_time": 1688301821,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243861,
+      "num": 243861,
+      "word": "我是一只洗碗小海绵",
+      "onboard_time": 1688388277,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 243496,
@@ -5627,14 +5675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220518,
-      "num": 220518,
-      "word": "下次不许带情绪上班了",
-      "onboard_time": 1688384858,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 220235,
       "num": 220235,
       "word": "爸爸用15元买了孩子一下午的快乐",
@@ -5665,6 +5705,14 @@
       "onboard_time": 1688183310,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218421,
+      "num": 218421,
+      "word": "情侣被困洪水男生要求先救女友",
+      "onboard_time": 1688383839,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217547,
@@ -5747,14 +5795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215163,
-      "num": 215163,
-      "word": "情侣被困洪水男生要求先救女友",
-      "onboard_time": 1688383839,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214435,
       "num": 214435,
       "word": "女大学生向男生泼热水致二度烧伤",
@@ -5793,6 +5833,14 @@
       "onboard_time": 1688286274,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212552,
+      "num": 212552,
+      "word": "LGD对战WE",
+      "onboard_time": 1688386301,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 212213,
@@ -6025,6 +6073,14 @@
       "onboard_time": 1688371725,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202560,
+      "num": 202560,
+      "word": "为什么运钞车不直接运一张银行卡",
+      "onboard_time": 1688388579,
+      "rank": 41,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 202302,
@@ -6411,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186881,
+      "num": 186881,
+      "word": "腾势",
+      "onboard_time": 1688387503,
+      "rank": 41,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 186442,
       "num": 186442,
       "word": "独家童话",
@@ -6563,6 +6627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177384,
+      "num": 177384,
+      "word": "好奇熊猫宝宝啥都要尝尝",
+      "onboard_time": 1688388759,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177374,
       "num": 177374,
       "word": "当我试图用一个健康的姿势打游戏时",
@@ -6601,14 +6673,6 @@
       "onboard_time": 1688167162,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176582,
-      "num": 176582,
-      "word": "腾势",
-      "onboard_time": 1688387503,
-      "rank": 41,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 176027,
@@ -6681,6 +6745,14 @@
       "onboard_time": 1688287534,
       "rank": 49,
       "category": "教育,教育"
+    },
+    {
+      "raw_hot": 172810,
+      "num": 172810,
+      "word": "麻雀挠头",
+      "onboard_time": 1688388701,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 172494,

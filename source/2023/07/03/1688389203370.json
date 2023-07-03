@@ -1,0 +1,410 @@
+{
+  "runTime": 1688389203370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025408,
+        "num": 1816870,
+        "word": "孟子义把周也哄睡后去打牌",
+        "onboard_time": 1688382639,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 814603,
+        "num": 814603,
+        "word": "微信支付每月免费提现额度",
+        "onboard_time": 1688376404,
+        "rank": 1,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 85361,
+        "num": 809456,
+        "word": "太空种菜自给自足真的要实现啦",
+        "onboard_time": 1688384380,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 8964144,
+        "num": 809345,
+        "word": "蔡徐坤报案回执",
+        "onboard_time": 1688380665,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825462,
+        "num": 809325,
+        "word": "找对象要找帅的 只有帅才是真的",
+        "onboard_time": 1688381505,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 809210,
+        "num": 809210,
+        "word": "我的新娘被人说好像杨紫",
+        "onboard_time": 1688377781,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 694805,
+        "num": 694805,
+        "word": "广东能听见蟑螂的脚步声",
+        "onboard_time": 1688383778,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 683498,
+        "num": 683498,
+        "word": "张睿直播",
+        "onboard_time": 1688387141,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 627524,
+        "num": 627524,
+        "word": "北京动物园",
+        "onboard_time": 1688385161,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610570,
+        "num": 610570,
+        "word": "周翊然陈哲远Gucci大片",
+        "onboard_time": 1688382639,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 976866,
+        "num": 586463,
+        "word": "蔡徐坤是否涉及法律问题",
+        "onboard_time": 1688387920,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 755363,
+        "num": 553929,
+        "word": "秦牛正威订婚",
+        "onboard_time": 1688364119,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512382,
+        "num": 512382,
+        "word": "真情侣vs假情侣回应",
+        "onboard_time": 1688384916,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 492614,
+        "num": 492614,
+        "word": "非洲女孩远嫁中国农村当短视频博主",
+        "onboard_time": 1688377184,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420790,
+        "num": 420790,
+        "word": "肖战玉骨遥片头插画",
+        "onboard_time": 1688384620,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382570,
+        "num": 382570,
+        "word": "宋轶困的原因找到了",
+        "onboard_time": 1688386960,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380261,
+        "num": 380261,
+        "word": "李承铉参加张杰谢娜婚礼晕倒了",
+        "onboard_time": 1688371004,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373586,
+        "num": 373586,
+        "word": "空气炸锅里放烤纸的要小心了",
+        "onboard_time": 1688378679,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360351,
+        "num": 360351,
+        "word": "当你去女朋友家超过四次之后",
+        "onboard_time": 1688385637,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322979,
+        "num": 322979,
+        "word": "赵丽颖 CL",
+        "onboard_time": 1688370823,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 2388698,
+        "num": 322255,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321231,
+        "num": 321231,
+        "word": "应届生刚入职一周就想辞职",
+        "onboard_time": 1688376823,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309898,
+        "num": 309898,
+        "word": "下次不许带情绪上班了",
+        "onboard_time": 1688384858,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1188519,
+        "num": 307950,
+        "word": "蔡徐坤回应",
+        "onboard_time": 1688355463,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277399,
+        "num": 300072,
+        "word": "快去看月亮",
+        "onboard_time": 1688388818,
+        "rank": 24,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 334443,
+        "num": 296423,
+        "word": "林俊杰直播",
+        "onboard_time": 1688388277,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1053029,
+        "num": 288387,
+        "word": "PP猪的臭宝贝已报警",
+        "onboard_time": 1688379345,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288243,
+        "num": 288243,
+        "word": "宋轶是不是男生都喜欢的类型",
+        "onboard_time": 1688389059,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270239,
+        "num": 283508,
+        "word": "老板给发财树装了监控",
+        "onboard_time": 1688384259,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 947323,
+        "num": 283073,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282616,
+        "num": 282616,
+        "word": "北京一地接导游中暑死亡",
+        "onboard_time": 1688380546,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 282107,
+        "num": 282107,
+        "word": "内娱圆脸女明星",
+        "onboard_time": 1688381625,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 279449,
+        "num": 279449,
+        "word": "他是一颗星 但你是自己的太阳",
+        "onboard_time": 1688382821,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265650,
+        "num": 265650,
+        "word": "中南大学一校友向母校捐赠6亿",
+        "onboard_time": 1688388940,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 234900,
+        "num": 251634,
+        "word": "香港警方悬红100万港元通缉许智峰等8人",
+        "onboard_time": 1688375080,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243861,
+        "num": 243861,
+        "word": "我是一只洗碗小海绵",
+        "onboard_time": 1688388277,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238261,
+        "num": 238261,
+        "word": "汪峰发了个锤子",
+        "onboard_time": 1688358879,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218421,
+        "num": 218421,
+        "word": "情侣被困洪水男生要求先救女友",
+        "onboard_time": 1688383839,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212552,
+        "num": 212552,
+        "word": "LGD对战WE",
+        "onboard_time": 1688386301,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210161,
+        "num": 210161,
+        "word": "孕妇大出血遇早高峰交警咆哮开道",
+        "onboard_time": 1688380126,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209347,
+        "num": 209347,
+        "word": "日本东京市中心发生爆炸",
+        "onboard_time": 1688371483,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202560,
+        "num": 202560,
+        "word": "为什么运钞车不直接运一张银行卡",
+        "onboard_time": 1688388579,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 199546,
+        "num": 199546,
+        "word": "袁咏仪儿子张慕童近照",
+        "onboard_time": 1688370464,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199222,
+        "num": 199222,
+        "word": "对方撤回了一个老太太",
+        "onboard_time": 1688366573,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194363,
+        "num": 194363,
+        "word": "现在的人都看不出年龄了",
+        "onboard_time": 1688373463,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192850,
+        "num": 192850,
+        "word": "男子钓的58斤大花鲢坐上特等座",
+        "onboard_time": 1688383000,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186881,
+        "num": 186881,
+        "word": "腾势",
+        "onboard_time": 1688387503,
+        "rank": 46,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 177384,
+        "num": 177384,
+        "word": "好奇熊猫宝宝啥都要尝尝",
+        "onboard_time": 1688388759,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172810,
+        "num": 172810,
+        "word": "麻雀挠头",
+        "onboard_time": 1688388701,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164543,
+        "num": 164543,
+        "word": "渣渣辉一点也不渣",
+        "onboard_time": 1688382580,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#用忠诚守护祖国的平安#"
+    }
+  }
+}
