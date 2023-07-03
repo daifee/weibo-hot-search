@@ -1,0 +1,410 @@
+{
+  "runTime": 1688411751459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 739380,
+        "num": 739380,
+        "word": "369",
+        "onboard_time": 1688400456,
+        "rank": 0,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 436311,
+        "num": 436311,
+        "word": "JackeyLove退出亚运会名单",
+        "onboard_time": 1688401770,
+        "rank": 1,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 25951,
+        "num": 216291,
+        "word": "巨型海底盲盒开出超18万件文物",
+        "onboard_time": 1688393504,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108158,
+        "num": 108158,
+        "word": "工人高温修空调女子留吃饭多给200元",
+        "onboard_time": 1688401833,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101444,
+        "num": 101444,
+        "word": "爷爷得知孙子四千元买条狗直接上秤",
+        "onboard_time": 1688394523,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 92204,
+        "num": 92204,
+        "word": "沪上阿姨回应一杯开水卖10元",
+        "onboard_time": 1688391403,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88948,
+        "num": 88948,
+        "word": "为什么运钞车不直接运一张银行卡",
+        "onboard_time": 1688388579,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 85616,
+        "num": 85616,
+        "word": "女子外卖备注多放醋商家送1大袋",
+        "onboard_time": 1688400755,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79947,
+        "num": 79947,
+        "word": "找对象要找帅的 只有帅才是真的",
+        "onboard_time": 1688381505,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 79764,
+        "num": 79764,
+        "word": "广东地震",
+        "onboard_time": 1688389600,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226061,
+        "num": 79001,
+        "word": "浪胃仙瘦成纸片人",
+        "onboard_time": 1688391581,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115226,
+        "num": 77865,
+        "word": "秦牛正威官宣订婚后首现身",
+        "onboard_time": 1688396747,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73550,
+        "num": 73550,
+        "word": "非常理解李雪琴",
+        "onboard_time": 1688393803,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71846,
+        "num": 71846,
+        "word": "杨蓉的身材",
+        "onboard_time": 1688393441,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71531,
+        "num": 71531,
+        "word": "韩安冉回应参加婚礼份子钱最低千元",
+        "onboard_time": 1688407577,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64201,
+        "num": 64201,
+        "word": "TFBOYS不合体排练吗",
+        "onboard_time": 1688394947,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63736,
+        "num": 63736,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62538,
+        "num": 62538,
+        "word": "宋轶是不是男生都喜欢的类型",
+        "onboard_time": 1688389059,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57919,
+        "num": 57919,
+        "word": "微信支付每月免费提现额度",
+        "onboard_time": 1688376404,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 57448,
+        "num": 57448,
+        "word": "我的新娘被人说好像杨紫",
+        "onboard_time": 1688377781,
+        "rank": 19,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 62971,
+        "num": 56725,
+        "word": "看书与不看书的区别",
+        "onboard_time": 1688391636,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 55512,
+        "num": 55512,
+        "word": "PP猪的臭宝贝已报警",
+        "onboard_time": 1688379345,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51819,
+        "num": 51819,
+        "word": "偷偷藏不住今晚全糖轰炸",
+        "onboard_time": 1688409556,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50996,
+        "num": 50996,
+        "word": "孟子义把周也哄睡后去打牌",
+        "onboard_time": 1688382639,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44251,
+        "num": 44251,
+        "word": "369退出亚运会名单",
+        "onboard_time": 1688402013,
+        "rank": 24,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 44132,
+        "num": 44132,
+        "word": "上海网红瑞士卷店员磨洋工引争议",
+        "onboard_time": 1688396384,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42634,
+        "num": 42634,
+        "word": "非洲女孩远嫁中国农村当短视频博主",
+        "onboard_time": 1688377184,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41985,
+        "num": 41985,
+        "word": "中南大学一校友向母校捐赠6亿",
+        "onboard_time": 1688388940,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 40852,
+        "num": 40852,
+        "word": "周翊然陈哲远Gucci大片",
+        "onboard_time": 1688382639,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39814,
+        "num": 39814,
+        "word": "没房贷的下属",
+        "onboard_time": 1688395666,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 456927,
+        "num": 39702,
+        "word": "21岁姑娘新婚初夜出血1500ml",
+        "onboard_time": 1688400034,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310007,
+        "num": 39544,
+        "word": "蔡徐坤报案回执",
+        "onboard_time": 1688380665,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83818,
+        "num": 39420,
+        "word": "父亲和丈夫的尊重要自己去赚",
+        "onboard_time": 1688405540,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 39241,
+        "num": 39241,
+        "word": "真情侣vs假情侣回应",
+        "onboard_time": 1688384916,
+        "rank": 33,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 162948,
+        "num": 38953,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37604,
+        "num": 37604,
+        "word": "李承铉参加张杰谢娜婚礼晕倒了",
+        "onboard_time": 1688371004,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37515,
+        "num": 37515,
+        "word": "TFBOYS演唱会审批",
+        "onboard_time": 1688390921,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115602,
+        "num": 37430,
+        "word": "蔡徐坤委托律所将提起刑事自诉",
+        "onboard_time": 1688396922,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36848,
+        "num": 36848,
+        "word": "玉骨遥镜头vs陈情令镜头",
+        "onboard_time": 1688399796,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34580,
+        "num": 36831,
+        "word": "八角笼中",
+        "onboard_time": 1688390860,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33170,
+        "num": 36805,
+        "word": "当你去女朋友家超过四次之后",
+        "onboard_time": 1688385637,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33049,
+        "num": 36766,
+        "word": "男友留的瓜",
+        "onboard_time": 1688389661,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 31583,
+        "num": 36735,
+        "word": "韩素希将出演新剧鬼怪",
+        "onboard_time": 1688400213,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30646,
+        "num": 36700,
+        "word": "广东能听见蟑螂的脚步声",
+        "onboard_time": 1688383778,
+        "rank": 43,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 30632,
+        "num": 36672,
+        "word": "肖战玉骨遥里也有陈情令演员",
+        "onboard_time": 1688389543,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29880,
+        "num": 36637,
+        "word": "NMIXX新歌发布同时JINI开了ins直播",
+        "onboard_time": 1688407523,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29744,
+        "num": 36590,
+        "word": "方兰生是谁",
+        "onboard_time": 1688411054,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27211,
+        "num": 36559,
+        "word": "吴磊深V",
+        "onboard_time": 1688390142,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27073,
+        "num": 36509,
+        "word": "玉骨遥",
+        "onboard_time": 1688392962,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23653,
+        "num": 36506,
+        "word": "68岁老人下水连救3人体力不支溺亡",
+        "onboard_time": 1688393863,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#用忠诚守护祖国的平安#"
+    }
+  }
+}

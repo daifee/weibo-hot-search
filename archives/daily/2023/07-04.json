@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688409413997,
+  "endTime": 1688411751459,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 51819,
+      "num": 51819,
+      "word": "偷偷藏不住今晚全糖轰炸",
+      "onboard_time": 1688409556,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 47212,
       "num": 51347,
       "word": "NMIXX新歌发布同时JINI开了ins直播",
@@ -488,6 +496,14 @@
       "word": "玉骨遥",
       "onboard_time": 1688392962,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 29744,
+      "num": 36590,
+      "word": "方兰生是谁",
+      "onboard_time": 1688411054,
+      "rank": 46,
       "category": "影视"
     }
   ],
