@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688405648771,
+  "endTime": 1688408589121,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -2763,6 +2763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116262,
+      "num": 71333,
+      "word": "父亲和丈夫的尊重要自己去赚",
+      "onboard_time": 1688405540,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 105177,
       "num": 268171,
       "word": "熊掌拨清波有画面了",
@@ -2875,6 +2883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68510,
+      "num": 68510,
+      "word": "韩安冉回应参加婚礼份子钱最低千元",
+      "onboard_time": 1688407577,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 67396,
       "num": 163964,
       "word": "BLG零封FPX",
@@ -2889,14 +2905,6 @@
       "onboard_time": 1688320398,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 58859,
-      "num": 71333,
-      "word": "父亲和丈夫的尊重要自己去赚",
-      "onboard_time": 1688405540,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 54375,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1688368550,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47212,
+      "num": 51347,
+      "word": "NMIXX新歌发布同时JINI开了ins直播",
+      "onboard_time": 1688407523,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 39476,
