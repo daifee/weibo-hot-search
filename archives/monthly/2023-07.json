@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688373450817,
+  "endTime": 1688375965774,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -779,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1145957,
+      "num": 1145957,
+      "word": "对方撤回了一个老太太",
+      "onboard_time": 1688366573,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1143988,
       "num": 723036,
       "word": "白敬亭宋轶是穿了同一件衣服吗",
@@ -865,14 +873,6 @@
       "onboard_time": 1688133156,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1065300,
-      "num": 1065300,
-      "word": "对方撤回了一个老太太",
-      "onboard_time": 1688366573,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1060747,
@@ -1323,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 794711,
+      "num": 794711,
+      "word": "爸爸连买房都喜欢和朋友一起",
+      "onboard_time": 1688372326,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 792675,
       "num": 792675,
       "word": "三十岁女生给二十岁女生的建议",
@@ -1532,10 +1540,18 @@
     },
     {
       "raw_hot": 714481,
-      "num": 503091,
+      "num": 508196,
       "word": "白敬亭脱单手串有点东西",
       "onboard_time": 1688371123,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 709257,
+      "num": 543651,
+      "word": "玉骨遥的降落伞是真伞",
+      "onboard_time": 1688373222,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -2011,6 +2027,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 585130,
+      "num": 501426,
+      "word": "怀孕后公司不给批辞职报告",
+      "onboard_time": 1688372205,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 583591,
       "num": 583591,
       "word": "毒蘑菇导致幻觉动感图",
@@ -2049,6 +2073,14 @@
       "onboard_time": 1688281414,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 573241,
+      "num": 573241,
+      "word": "现在的人都看不出年龄了",
+      "onboard_time": 1688373463,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 571725,
@@ -2243,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533351,
+      "num": 533351,
+      "word": "西南大学回应网友老实芭蕉不当言论",
+      "onboard_time": 1688373946,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 530769,
       "num": 530769,
       "word": "白桃星座",
@@ -2289,6 +2329,14 @@
       "onboard_time": 1688350649,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 523857,
+      "num": 523857,
+      "word": "领导过于关心我的私生活",
+      "onboard_time": 1688372926,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 523776,
@@ -2459,6 +2507,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 495843,
+      "num": 495843,
+      "word": "嬛球影城",
+      "onboard_time": 1688372085,
+      "rank": 30,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 495277,
       "num": 495277,
       "word": "宋雨琦演戏有一种熟人演戏的好笑",
@@ -2547,12 +2603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 482022,
-      "num": 482022,
-      "word": "怀孕后公司不给批辞职报告",
-      "onboard_time": 1688372205,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 482017,
+      "num": 519161,
+      "word": "香港警方悬红100万港元通缉许智峰等8人",
+      "onboard_time": 1688375080,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476288,
@@ -3339,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358453,
+      "num": 358453,
+      "word": "周杰伦上海",
+      "onboard_time": 1688373044,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 357713,
       "num": 357713,
       "word": "原来得溃疡以毒攻毒是对的",
@@ -3369,14 +3433,6 @@
       "onboard_time": 1688279371,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 356034,
-      "num": 356034,
-      "word": "领导过于关心我的私生活",
-      "onboard_time": 1688372926,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 352163,
@@ -3489,14 +3545,6 @@
       "onboard_time": 1688344773,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 341956,
-      "num": 310698,
-      "word": "嬛球影城",
-      "onboard_time": 1688372085,
-      "rank": 30,
-      "category": "旅游,幽默"
     },
     {
       "raw_hot": 341849,
@@ -3659,6 +3707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324664,
+      "num": 297086,
+      "word": "三只狗狗相约一起看日出",
+      "onboard_time": 1688374423,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323207,
       "num": 323207,
       "word": "体验故宫下午茶",
@@ -3771,6 +3827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316307,
+      "num": 295259,
+      "word": "消失的她无剧透版剧透",
+      "onboard_time": 1688375802,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315416,
       "num": 284782,
       "word": "没有小猫这个家真的得散",
@@ -3801,14 +3865,6 @@
       "onboard_time": 1688323754,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310830,
-      "num": 310830,
-      "word": "爸爸连买房都喜欢和朋友一起",
-      "onboard_time": 1688372326,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 310778,
@@ -3904,6 +3960,14 @@
       "word": "85后清华博士王波升副厅",
       "onboard_time": 1688260170,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304477,
+      "num": 304477,
+      "word": "在高铁上吃泡面是没有素质吗",
+      "onboard_time": 1688368786,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4139,6 +4203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287053,
+      "num": 287053,
+      "word": "去韩国后睡不着觉了",
+      "onboard_time": 1688375745,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286651,
       "num": 286651,
       "word": "电影封神九尾狐海报",
@@ -4160,14 +4232,6 @@
       "word": "纹去世朋友名字去看周杰伦演唱会",
       "onboard_time": 1688252659,
       "rank": 15,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 284566,
-      "num": 284566,
-      "word": "周杰伦上海",
-      "onboard_time": 1688373044,
-      "rank": 34,
       "category": "音乐"
     },
     {
@@ -4217,6 +4281,14 @@
       "onboard_time": 1688203832,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281919,
+      "num": 281919,
+      "word": "期末考试限定皮肤",
+      "onboard_time": 1688373463,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 281861,
@@ -4369,6 +4441,14 @@
       "onboard_time": 1688176532,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272118,
+      "num": 272118,
+      "word": "他卖花的时候手始终背在后面",
+      "onboard_time": 1688374842,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 271750,
@@ -4675,6 +4755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 252878,
+      "num": 252878,
+      "word": "可爱小猫嘬手手",
+      "onboard_time": 1688374603,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252070,
       "num": 252070,
       "word": "女子叫来特警弟弟合力救下坠河男孩",
@@ -4819,14 +4907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247087,
-      "num": 247087,
-      "word": "在高铁上吃泡面是没有素质吗",
-      "onboard_time": 1688368786,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246727,
       "num": 246727,
       "word": "TVB拍的打工人",
@@ -4889,14 +4969,6 @@
       "onboard_time": 1688180973,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243189,
-      "num": 243189,
-      "word": "玉骨遥的降落伞是真伞",
-      "onboard_time": 1688373222,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 242627,
@@ -5699,6 +5771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201596,
+      "num": 201596,
+      "word": "明日方舟",
+      "onboard_time": 1688375080,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "燃冬预告 震撼",
@@ -5753,6 +5833,14 @@
       "onboard_time": 1688223818,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197594,
+      "num": 197594,
+      "word": "燃冬",
+      "onboard_time": 1688374063,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 197448,
