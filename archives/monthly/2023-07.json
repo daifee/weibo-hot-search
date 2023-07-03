@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688401461202,
+  "endTime": 1688402440515,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5619700,
+      "num": 5619700,
+      "word": "369",
+      "onboard_time": 1688400456,
+      "rank": 0,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 5487239,
       "num": 5487239,
       "word": "广东地震",
@@ -153,14 +161,6 @@
       "onboard_time": 1688201312,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3920674,
-      "num": 3920674,
-      "word": "369",
-      "onboard_time": 1688400456,
-      "rank": 0,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 3552582,
@@ -281,6 +281,14 @@
       "onboard_time": 1688179952,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2344347,
+      "num": 222526,
+      "word": "21岁姑娘新婚初夜出血1500ml",
+      "onboard_time": 1688400034,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2337027,
@@ -627,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1556593,
+      "num": 1556593,
+      "word": "JackeyLove退出亚运会名单",
+      "onboard_time": 1688401770,
+      "rank": 1,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 1555115,
       "num": 1555115,
       "word": "中国人民大学称已报警",
@@ -713,14 +729,6 @@
       "onboard_time": 1688396922,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1394220,
-      "num": 222526,
-      "word": "21岁姑娘新婚初夜出血1500ml",
-      "onboard_time": 1688400034,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1391221,
@@ -5267,6 +5275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254924,
+      "num": 254924,
+      "word": "工人高温修空调女子留吃饭多给200元",
+      "onboard_time": 1688401833,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254383,
       "num": 343205,
       "word": "西湖出现鱼鱼鱼跃龙门",
@@ -5899,6 +5915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225216,
+      "num": 225216,
+      "word": "韩素希将出演新剧鬼怪",
+      "onboard_time": 1688400213,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224941,
       "num": 220219,
       "word": "谢娜放狠话被打脸",
@@ -6115,14 +6139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215794,
-      "num": 215794,
-      "word": "韩素希将出演新剧鬼怪",
-      "onboard_time": 1688400213,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215727,
       "num": 218794,
       "word": "家里太乱被婆婆发朋友圈阴阳了",
@@ -6209,6 +6225,14 @@
       "onboard_time": 1688393142,
       "rank": 44,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 211642,
+      "num": 211642,
+      "word": "369退出亚运会名单",
+      "onboard_time": 1688402013,
+      "rank": 32,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 211511,
@@ -7569,6 +7593,14 @@
       "onboard_time": 1688143230,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133443,
+      "num": 133443,
+      "word": "女子外卖备注多放醋商家送1大袋",
+      "onboard_time": 1688400755,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132008,
