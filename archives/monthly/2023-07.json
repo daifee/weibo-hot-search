@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688391516628,
+  "endTime": 1688393863426,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2323024,
+      "num": 610754,
+      "word": "浪胃仙瘦成纸片人",
+      "onboard_time": 1688391581,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2310590,
       "num": 1035916,
       "word": "曝范玮琪声明是陈建州发的",
@@ -321,6 +329,14 @@
       "onboard_time": 1688376346,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2114189,
+      "num": 2114189,
+      "word": "TFBOYS演唱会审批",
+      "onboard_time": 1688390921,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 2028471,
@@ -577,6 +593,14 @@
       "onboard_time": 1688377781,
       "rank": 5,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1582311,
+      "num": 1582311,
+      "word": "沪上阿姨回应一杯开水卖10元",
+      "onboard_time": 1688391403,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1561314,
@@ -875,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1132879,
+      "num": 1132879,
+      "word": "宋轶是不是男生都喜欢的类型",
+      "onboard_time": 1688389059,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1132521,
       "num": 469065,
       "word": "指甲上突然长了一条黑线",
@@ -888,14 +920,6 @@
       "word": "新白娘子传奇施法手势是赵雅芝设计的",
       "onboard_time": 1688346629,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1119634,
-      "num": 1119634,
-      "word": "宋轶是不是男生都喜欢的类型",
-      "onboard_time": 1688389059,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1275,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 881698,
-      "num": 881698,
-      "word": "TFBOYS演唱会审批",
-      "onboard_time": 1688390921,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 877522,
       "num": 641684,
       "word": "易烊千玺粉色手链是自己串的",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1688268269,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 860419,
+      "num": 860419,
+      "word": "男友留的瓜",
+      "onboard_time": 1688389661,
+      "rank": 10,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 860317,
@@ -1393,6 +1417,22 @@
       "onboard_time": 1688363178,
       "rank": 20,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 829590,
+      "num": 829590,
+      "word": "八角笼中",
+      "onboard_time": 1688185713,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 827845,
+      "num": 402604,
+      "word": "看书与不看书的区别",
+      "onboard_time": 1688391636,
+      "rank": 21,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 823565,
@@ -1513,14 +1553,6 @@
       "onboard_time": 1688275413,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 781541,
-      "num": 781541,
-      "word": "男友留的瓜",
-      "onboard_time": 1688389661,
-      "rank": 10,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 780201,
@@ -2763,6 +2795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492389,
+      "num": 490745,
+      "word": "曾黎肖战原来认识",
+      "onboard_time": 1688392962,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491782,
       "num": 426757,
       "word": "因为洗樱桃太慢被老板辞退了",
@@ -2859,6 +2899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472635,
+      "num": 472635,
+      "word": "为什么运钞车不直接运一张银行卡",
+      "onboard_time": 1688388579,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 471140,
       "num": 308064,
       "word": "以为是房子隔音好",
@@ -2897,14 +2945,6 @@
       "onboard_time": 1688280693,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 468117,
-      "num": 468117,
-      "word": "八角笼中",
-      "onboard_time": 1688185713,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 467013,
@@ -3153,14 +3193,6 @@
       "onboard_time": 1688217573,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430009,
-      "num": 430009,
-      "word": "为什么运钞车不直接运一张银行卡",
-      "onboard_time": 1688388579,
-      "rank": 41,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 428691,
@@ -3923,6 +3955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 334181,
+      "num": 334181,
+      "word": "P人的一生",
+      "onboard_time": 1688390745,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333659,
       "num": 265598,
       "word": "文咏珊怎么不是我老婆",
@@ -4587,6 +4627,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 283048,
+      "num": 283048,
+      "word": "杨蓉的身材",
+      "onboard_time": 1688393441,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283010,
       "num": 283010,
       "word": "偷偷藏不住",
@@ -5155,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250720,
+      "num": 250720,
+      "word": "山东泰山",
+      "onboard_time": 1688393021,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250580,
       "num": 250580,
       "word": "女子种地5600亩国企老公辞职支持",
@@ -5635,6 +5691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225651,
+      "num": 225651,
+      "word": "成都蓉城",
+      "onboard_time": 1688392183,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225599,
       "num": 232742,
       "word": "第一次见这么优雅的猫",
@@ -5771,6 +5835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218687,
+      "num": 218687,
+      "word": "赵露思戴蛋糕帽子",
+      "onboard_time": 1688393686,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218539,
       "num": 218539,
       "word": "张艺兴的练习生不逃课",
@@ -5891,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213730,
+      "num": 213730,
+      "word": "杨洋纯正bg味",
+      "onboard_time": 1688393686,
+      "rank": 43,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 213306,
       "num": 213306,
       "word": "景区回应壶口瀑布陕西侧围墙被拆",
@@ -5929,6 +6009,14 @@
       "onboard_time": 1688168605,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 212168,
+      "num": 212168,
+      "word": "不同年龄段空调的温度",
+      "onboard_time": 1688393142,
+      "rank": 44,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 211511,
@@ -5992,6 +6080,14 @@
       "word": "导游因游客发视频表扬涨粉百万",
       "onboard_time": 1688223519,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209861,
+      "num": 209861,
+      "word": "原来这些名场面里都是萌兰",
+      "onboard_time": 1688392062,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -6131,12 +6227,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205165,
-      "num": 205165,
-      "word": "P人的一生",
-      "onboard_time": 1688390745,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 204771,
+      "num": 204771,
+      "word": "非常理解李雪琴",
+      "onboard_time": 1688393803,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 203856,
@@ -6169,6 +6265,14 @@
       "onboard_time": 1688270549,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202265,
+      "num": 202265,
+      "word": "成都蓉城0比1北京国安",
+      "onboard_time": 1688392904,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 201993,
@@ -6393,14 +6497,6 @@
       "onboard_time": 1688278471,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191616,
-      "num": 191616,
-      "word": "沪上阿姨回应一杯开水卖10元",
-      "onboard_time": 1688391403,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191325,
@@ -7627,6 +7723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64568,
+      "num": 1619068,
+      "word": "巨型海底盲盒开出超18万件文物",
+      "onboard_time": 1688393504,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64307,
       "num": 514163,
       "word": "去香港一定要看的出片攻略",
@@ -7804,6 +7908,9 @@
     },
     {
       "word": "#用忠诚守护祖国的平安#"
+    },
+    {
+      "word": "#即便风雨兼程也能一路生花#"
     }
   ]
 }
