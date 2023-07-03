@@ -1,0 +1,410 @@
+{
+  "runTime": 1688355022297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4013738,
+        "num": 4527477,
+        "word": "人大毕业生马某某被刑拘",
+        "onboard_time": 1688354013,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1615787,
+        "num": 1615787,
+        "word": "迪丽热巴腿咚龚俊",
+        "onboard_time": 1688349331,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35949,
+        "num": 1572649,
+        "word": "他们获颁光荣在党50年纪念章",
+        "onboard_time": 1688306982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1532161,
+        "num": 1532161,
+        "word": "海口三子大闹周杰伦演唱会",
+        "onboard_time": 1688352332,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1159263,
+        "num": 1159263,
+        "word": "周冬雨刘昊然屈楚萧极限拉扯",
+        "onboard_time": 1688352090,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1016659,
+        "num": 1016659,
+        "word": "隐形眼镜有根线先别急着扔",
+        "onboard_time": 1688347113,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 989745,
+        "num": 989745,
+        "word": "睡觉时身体为什么会抖一下",
+        "onboard_time": 1688343392,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 869573,
+        "num": 869573,
+        "word": "缅甸逃回男子忆水牢满地是血",
+        "onboard_time": 1688351070,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803002,
+        "num": 803002,
+        "word": "肖战演王楚然表哥",
+        "onboard_time": 1688349450,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 735915,
+        "num": 735915,
+        "word": "花少北 一直逃避回应做视频的问题",
+        "onboard_time": 1688353050,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 4160673,
+        "num": 711289,
+        "word": "韩媒曝李俊昊林允儿恋情",
+        "onboard_time": 1688352872,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3158608,
+        "num": 698484,
+        "word": "央视频下架蔡徐坤所有视频",
+        "onboard_time": 1688299053,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 876115,
+        "num": 662804,
+        "word": "李俊昊林允儿方回应恋情",
+        "onboard_time": 1688354493,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528992,
+        "num": 528992,
+        "word": "越南高考的中文题",
+        "onboard_time": 1688342309,
+        "rank": 13,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 431089,
+        "num": 431089,
+        "word": "武汉牛肉粉店一天卖光一头牛",
+        "onboard_time": 1688348429,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697545,
+        "num": 420506,
+        "word": "肖战赵露思V榜最快破9男女演员",
+        "onboard_time": 1688351791,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452675,
+        "num": 410427,
+        "word": "萧亚轩直播",
+        "onboard_time": 1688351131,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398962,
+        "num": 398962,
+        "word": "相爱和分手的原因都是同一个",
+        "onboard_time": 1688338940,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368949,
+        "num": 368949,
+        "word": "东亚疯不动了",
+        "onboard_time": 1688346153,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290005,
+        "num": 364541,
+        "word": "法国",
+        "onboard_time": 1688344172,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 846441,
+        "num": 344043,
+        "word": "范伟虞书欣加入非诚勿扰3",
+        "onboard_time": 1688352750,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445665,
+        "num": 330658,
+        "word": "在高铁上吃泡面被说没有素质",
+        "onboard_time": 1688350649,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442361,
+        "num": 306182,
+        "word": "安乐传",
+        "onboard_time": 1688344412,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299070,
+        "num": 299070,
+        "word": "复旦附中回应上海交大博士应聘保健员",
+        "onboard_time": 1688353593,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 291102,
+        "num": 291102,
+        "word": "被一只小猫咪整哭了",
+        "onboard_time": 1688352451,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 437179,
+        "num": 290161,
+        "word": "Angelababy吻戏紧张到闭眼",
+        "onboard_time": 1688351671,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329545,
+        "num": 290055,
+        "word": "刘芸看郑钧演唱会拍了10个G",
+        "onboard_time": 1688351370,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284684,
+        "num": 284684,
+        "word": "Jennie海德公园音乐节饭拍",
+        "onboard_time": 1688346093,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284428,
+        "num": 284428,
+        "word": "5岁女孩离世救了4个人",
+        "onboard_time": 1688354613,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258756,
+        "num": 265057,
+        "word": "熊猫泡澡全程陷入沉思",
+        "onboard_time": 1688349150,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1327165,
+        "num": 264993,
+        "word": "李一桐光脚放飞机座椅上",
+        "onboard_time": 1688341890,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264677,
+        "num": 264677,
+        "word": "还以为是汪东城跑调了",
+        "onboard_time": 1688347113,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 263991,
+        "num": 263991,
+        "word": "王阳到底演过多少姐夫",
+        "onboard_time": 1688349930,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253337,
+        "num": 253337,
+        "word": "电影燃冬定档七夕",
+        "onboard_time": 1688351731,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236576,
+        "num": 236576,
+        "word": "老祖宗最知道怎么哄孩子",
+        "onboard_time": 1688352508,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251315,
+        "num": 234708,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1688353774,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230860,
+        "num": 230860,
+        "word": "家长的控制欲和恐惧",
+        "onboard_time": 1688349930,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230526,
+        "num": 230526,
+        "word": "玉骨遥弑神论",
+        "onboard_time": 1688347713,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224196,
+        "num": 224196,
+        "word": "白岩松谈母亲误拆女儿档案袋",
+        "onboard_time": 1688310277,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210489,
+        "num": 210489,
+        "word": "环卫工人儿子高考687分被多校电话争抢",
+        "onboard_time": 1688339604,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 204470,
+        "num": 204470,
+        "word": "去找异地男友发现他没关空调",
+        "onboard_time": 1688354854,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204146,
+        "num": 204146,
+        "word": "偷偷藏不住厦门取景地客流翻倍",
+        "onboard_time": 1688354734,
+        "rank": 41,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 191798,
+        "num": 191798,
+        "word": "网友理解的李木子手势",
+        "onboard_time": 1688316926,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191518,
+        "num": 191518,
+        "word": "新白娘子传奇施法手势是赵雅芝设计的",
+        "onboard_time": 1688346629,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178289,
+        "num": 178289,
+        "word": "爷爷奶奶曾经的结婚证",
+        "onboard_time": 1688347113,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175882,
+        "num": 175882,
+        "word": "人生比想象的长得多",
+        "onboard_time": 1688354493,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 163659,
+        "num": 163659,
+        "word": "张杰回应巡演脱衣服",
+        "onboard_time": 1688344830,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160575,
+        "num": 160575,
+        "word": "玉骨遥今日开播",
+        "onboard_time": 1688293415,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97785,
+        "num": 160404,
+        "word": "英雄联盟",
+        "onboard_time": 1688337679,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77168,
+        "num": 160239,
+        "word": "戈登加盟太阳",
+        "onboard_time": 1688341048,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#平均年龄89岁的老党员们谈初心#"
+    }
+  }
+}

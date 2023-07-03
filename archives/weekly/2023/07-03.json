@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688353713976,
+  "endTime": 1688355022297,
   "band_list": [
     {
       "raw_hot": 9610176,
@@ -19,12 +19,20 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 3163318,
+      "raw_hot": 4160673,
       "num": 837926,
       "word": "韩媒曝李俊昊林允儿恋情",
       "onboard_time": 1688352872,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4013738,
+      "num": 4527477,
+      "word": "人大毕业生马某某被刑拘",
+      "onboard_time": 1688354013,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2279903,
@@ -59,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1532161,
+      "num": 1532161,
+      "word": "海口三子大闹周杰伦演唱会",
+      "onboard_time": 1688352332,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1350127,
       "num": 328559,
       "word": "官方通报小男孩被逼吃粪便",
@@ -83,19 +99,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1159263,
+      "num": 1159263,
+      "word": "周冬雨刘昊然屈楚萧极限拉扯",
+      "onboard_time": 1688352090,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1121392,
       "num": 1121392,
       "word": "新白娘子传奇施法手势是赵雅芝设计的",
       "onboard_time": 1688346629,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1119727,
-      "num": 1119727,
-      "word": "周冬雨刘昊然屈楚萧极限拉扯",
-      "onboard_time": 1688352090,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -123,14 +139,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1020308,
-      "num": 1020308,
-      "word": "海口三子大闹周杰伦演唱会",
-      "onboard_time": 1688352332,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1016417,
       "num": 1016417,
       "word": "环卫工人儿子高考687分被多校电话争抢",
@@ -153,6 +161,30 @@
       "onboard_time": 1688298513,
       "rank": 19,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 876115,
+      "num": 662804,
+      "word": "李俊昊林允儿方回应恋情",
+      "onboard_time": 1688354493,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 869573,
+      "num": 869573,
+      "word": "缅甸逃回男子忆水牢满地是血",
+      "onboard_time": 1688351070,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846441,
+      "num": 344043,
+      "word": "范伟虞书欣加入非诚勿扰3",
+      "onboard_time": 1688352750,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 787901,
@@ -179,11 +211,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 735915,
+      "num": 735915,
+      "word": "花少北 一直逃避回应做视频的问题",
+      "onboard_time": 1688353050,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 700230,
       "num": 700230,
       "word": "时影一定要杀朱颜的原因",
       "onboard_time": 1688342672,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 697545,
+      "num": 693755,
+      "word": "肖战赵露思V榜最快破9男女演员",
+      "onboard_time": 1688351791,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -195,28 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 693755,
-      "num": 693755,
-      "word": "肖战赵露思V榜最快破9男女演员",
-      "onboard_time": 1688351791,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 678348,
       "num": 632764,
       "word": "还以为是汪东城跑调了",
       "onboard_time": 1688347113,
       "rank": 13,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 671358,
-      "num": 340026,
-      "word": "缅甸逃回男子忆水牢满地是血",
-      "onboard_time": 1688351070,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 669227,
@@ -249,14 +281,6 @@
       "onboard_time": 1688344172,
       "rank": 15,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 599526,
-      "num": 299756,
-      "word": "范伟虞书欣加入非诚勿扰3",
-      "onboard_time": 1688352750,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 583591,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 526846,
-      "num": 324085,
+      "num": 330658,
       "word": "在高铁上吃泡面被说没有素质",
       "onboard_time": 1688350649,
       "rank": 21,
@@ -347,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437179,
+      "num": 290161,
+      "word": "Angelababy吻戏紧张到闭眼",
+      "onboard_time": 1688351671,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 436525,
       "num": 436525,
       "word": "BLACKPINK亮相海德公园音乐节",
@@ -361,14 +393,6 @@
       "onboard_time": 1688312198,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 405122,
-      "num": 286259,
-      "word": "Angelababy吻戏紧张到闭眼",
-      "onboard_time": 1688351671,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 403052,
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 356389,
-      "num": 234332,
+      "num": 253337,
       "word": "电影燃冬定档七夕",
       "onboard_time": 1688351731,
       "rank": 27,
@@ -433,14 +457,6 @@
       "onboard_time": 1688311836,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343978,
-      "num": 216233,
-      "word": "花少北 一直逃避回应做视频的问题",
-      "onboard_time": 1688353050,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 342215,
@@ -475,20 +491,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 325699,
-      "num": 258800,
-      "word": "王阳到底演过多少姐夫",
-      "onboard_time": 1688349930,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 325477,
-      "num": 252140,
+      "raw_hot": 329545,
+      "num": 290055,
       "word": "刘芸看郑钧演唱会拍了10个G",
       "onboard_time": 1688351370,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 325699,
+      "num": 263991,
+      "word": "王阳到底演过多少姐夫",
+      "onboard_time": 1688349930,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 320089,
@@ -531,6 +547,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 299070,
+      "num": 299070,
+      "word": "复旦附中回应上海交大博士应聘保健员",
+      "onboard_time": 1688353593,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 298838,
       "num": 298838,
       "word": "中学图书馆为保护古树在大厅开洞",
@@ -545,6 +569,22 @@
       "onboard_time": 1688344830,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 291102,
+      "num": 291102,
+      "word": "被一只小猫咪整哭了",
+      "onboard_time": 1688352451,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 284428,
+      "num": 284428,
+      "word": "5岁女孩离世救了4个人",
+      "onboard_time": 1688354613,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284123,
@@ -603,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251315,
+      "num": 234708,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1688353774,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244318,
       "num": 244318,
       "word": "玉骨遥首播评价",
@@ -619,19 +667,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236576,
+      "num": 236576,
+      "word": "老祖宗最知道怎么哄孩子",
+      "onboard_time": 1688352508,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236329,
       "num": 236329,
       "word": "坐飞机遇到了很哇塞的父母",
       "onboard_time": 1688343273,
       "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 235374,
-      "num": 217921,
-      "word": "被一只小猫咪整哭了",
-      "onboard_time": 1688352451,
-      "rank": 33,
       "category": "幽默,情感"
     },
     {
@@ -667,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232019,
-      "num": 232019,
-      "word": "老祖宗最知道怎么哄孩子",
-      "onboard_time": 1688352508,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 228409,
       "num": 228409,
       "word": "宋轶发了五条微博",
@@ -705,6 +745,22 @@
       "onboard_time": 1688337679,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204470,
+      "num": 204470,
+      "word": "去找异地男友发现他没关空调",
+      "onboard_time": 1688354854,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 204146,
+      "num": 204146,
+      "word": "偷偷藏不住厦门取景地客流翻倍",
+      "onboard_time": 1688354734,
+      "rank": 41,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 201016,
@@ -817,6 +873,14 @@
       "onboard_time": 1688345975,
       "rank": 41,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 175882,
+      "num": 175882,
+      "word": "人生比想象的长得多",
+      "onboard_time": 1688354493,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 174726,
@@ -939,14 +1003,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 148355,
-      "num": 148355,
-      "word": "复旦附中回应上海交大博士应聘保健员",
-      "onboard_time": 1688353593,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 147059,
       "num": 147059,
       "word": "张丹峰问为什么没早点遇见洪欣",
@@ -972,7 +1028,7 @@
     },
     {
       "raw_hot": 130901,
-      "num": 149369,
+      "num": 160239,
       "word": "戈登加盟太阳",
       "onboard_time": 1688341048,
       "rank": 46,
@@ -1084,7 +1140,7 @@
     },
     {
       "raw_hot": 49615,
-      "num": 1328144,
+      "num": 1572649,
       "word": "他们获颁光荣在党50年纪念章",
       "onboard_time": 1688306982,
       "rank": 2,
