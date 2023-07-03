@@ -1,0 +1,410 @@
+{
+  "runTime": 1688382942664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908396,
+        "num": 2393849,
+        "word": "微信支付每月免费提现额度",
+        "onboard_time": 1688376404,
+        "rank": 0,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 531691,
+        "num": 2117004,
+        "word": "孕妇大出血遇早高峰交警咆哮开道",
+        "onboard_time": 1688380126,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45916,
+        "num": 2053385,
+        "word": "毕业典礼催泪发言盘点",
+        "onboard_time": 1688368726,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13978570,
+        "num": 1681352,
+        "word": "蔡徐坤报案回执",
+        "onboard_time": 1688380665,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419761,
+        "num": 1187739,
+        "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
+        "onboard_time": 1688360039,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152083,
+        "num": 1152083,
+        "word": "我的新娘被人说好像杨紫",
+        "onboard_time": 1688377781,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 298579,
+        "num": 1043563,
+        "word": "7旬婆婆冒高温挑担给儿媳送菜",
+        "onboard_time": 1688379282,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987513,
+        "num": 987513,
+        "word": "汪峰发了个锤子",
+        "onboard_time": 1688358879,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 974000,
+        "num": 974000,
+        "word": "空气炸锅里放烤纸的要小心了",
+        "onboard_time": 1688378679,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 652237,
+        "num": 652237,
+        "word": "李承铉参加张杰谢娜婚礼晕倒了",
+        "onboard_time": 1688371004,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1036410,
+        "num": 643515,
+        "word": "秦牛正威订婚",
+        "onboard_time": 1688364119,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625332,
+        "num": 625332,
+        "word": "非洲女孩远嫁中国农村当短视频博主",
+        "onboard_time": 1688377184,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601546,
+        "num": 601546,
+        "word": "应届生刚入职一周就想辞职",
+        "onboard_time": 1688376823,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 599709,
+        "num": 599709,
+        "word": "找对象要找帅的 只有帅才是真的",
+        "onboard_time": 1688381505,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 509141,
+        "num": 509141,
+        "word": "日本东京市中心发生爆炸",
+        "onboard_time": 1688371483,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458164,
+        "num": 458164,
+        "word": "赵丽颖 CL",
+        "onboard_time": 1688370823,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 438537,
+        "num": 438537,
+        "word": "对方撤回了一个老太太",
+        "onboard_time": 1688366573,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 407919,
+        "num": 407919,
+        "word": "孟子义把周也哄睡后去打牌",
+        "onboard_time": 1688382639,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385208,
+        "num": 385208,
+        "word": "北京一地接导游中暑死亡",
+        "onboard_time": 1688380546,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 377358,
+        "num": 377358,
+        "word": "内娱圆脸女明星",
+        "onboard_time": 1688381625,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 3245108,
+        "num": 367219,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344112,
+        "num": 344112,
+        "word": "白敬亭脱单手串有点东西",
+        "onboard_time": 1688371123,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322077,
+        "num": 322077,
+        "word": "爸爸连买房都喜欢和朋友一起",
+        "onboard_time": 1688372326,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1820601,
+        "num": 311014,
+        "word": "蔡徐坤回应",
+        "onboard_time": 1688355463,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262321,
+        "num": 308406,
+        "word": "香港警方悬红100万港元通缉许智峰等8人",
+        "onboard_time": 1688375080,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340154,
+        "num": 293197,
+        "word": "袁咏仪儿子张慕童近照",
+        "onboard_time": 1688370464,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1566027,
+        "num": 273025,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269178,
+        "num": 269178,
+        "word": "偷偷藏不住",
+        "onboard_time": 1688381743,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263111,
+        "num": 263111,
+        "word": "萧亚轩自曝恢复单身",
+        "onboard_time": 1688371427,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49338,
+        "num": 252389,
+        "word": "三口之家大五座SUV怎么选",
+        "onboard_time": 1688382343,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1514093,
+        "num": 249287,
+        "word": "蔡徐坤工作室声明",
+        "onboard_time": 1688356997,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246156,
+        "num": 246156,
+        "word": "玉骨遥的降落伞是真伞",
+        "onboard_time": 1688373222,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245228,
+        "num": 245228,
+        "word": "金晨的多巴胺穿搭",
+        "onboard_time": 1688377781,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236768,
+        "num": 236768,
+        "word": "消失的她无剧透版剧透",
+        "onboard_time": 1688375802,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228663,
+        "num": 228663,
+        "word": "去韩国后睡不着觉了",
+        "onboard_time": 1688375745,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224587,
+        "num": 224587,
+        "word": "他是一颗星 但你是自己的太阳",
+        "onboard_time": 1688382821,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2225464,
+        "num": 224408,
+        "word": "警方确认炎亚纶涉嫌偷拍私密影片",
+        "onboard_time": 1688376224,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223969,
+        "num": 223969,
+        "word": "LESSERAFIM首尔演唱会价格",
+        "onboard_time": 1688380842,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207539,
+        "num": 207539,
+        "word": "怀孕后公司不给批辞职报告",
+        "onboard_time": 1688372205,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204670,
+        "num": 204670,
+        "word": "现在的人都看不出年龄了",
+        "onboard_time": 1688373463,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201039,
+        "num": 201039,
+        "word": "原神林尼",
+        "onboard_time": 1688382761,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200568,
+        "num": 200568,
+        "word": "TES官博辟谣",
+        "onboard_time": 1688369265,
+        "rank": 41,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 198902,
+        "num": 198902,
+        "word": "谢谢你 小孩侠",
+        "onboard_time": 1688369746,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196632,
+        "num": 196632,
+        "word": "周翊然陈哲远Gucci大片",
+        "onboard_time": 1688382639,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196050,
+        "num": 196050,
+        "word": "渣渣辉一点也不渣",
+        "onboard_time": 1688382580,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190397,
+        "num": 190397,
+        "word": "原来得溃疡以毒攻毒是对的",
+        "onboard_time": 1688368907,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190097,
+        "num": 190097,
+        "word": "原神菲米尼",
+        "onboard_time": 1688381324,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189745,
+        "num": 189745,
+        "word": "我上班be like",
+        "onboard_time": 1688382162,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189145,
+        "num": 189145,
+        "word": "下班回家后立刻洗漱",
+        "onboard_time": 1688376823,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172242,
+        "num": 172242,
+        "word": "这是我配看的古偶吻戏吗",
+        "onboard_time": 1688376880,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#把产业发展落到促进农民增收上来#"
+    }
+  }
+}

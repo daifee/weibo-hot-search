@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688380664882,
+  "endTime": 1688382942664,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -41,6 +41,14 @@
       "onboard_time": 1688358879,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13978570,
+      "num": 1681352,
+      "word": "蔡徐坤报案回执",
+      "onboard_time": 1688380665,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 12980468,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 1613803,
-      "num": 1103659,
+      "num": 1152083,
       "word": "我的新娘被人说好像杨紫",
       "onboard_time": 1688377781,
       "rank": 5,
@@ -916,7 +924,7 @@
     },
     {
       "raw_hot": 1063643,
-      "num": 1063643,
+      "num": 2393849,
       "word": "微信支付每月免费提现额度",
       "onboard_time": 1688376404,
       "rank": 34,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1688361937,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 974000,
+      "num": 974000,
+      "word": "空气炸锅里放烤纸的要小心了",
+      "onboard_time": 1688378679,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 970243,
@@ -1667,14 +1683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 690665,
-      "num": 690665,
-      "word": "空气炸锅里放烤纸的要小心了",
-      "onboard_time": 1688378679,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 684945,
       "num": 684945,
       "word": "封神",
@@ -2059,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599709,
+      "num": 599709,
+      "word": "找对象要找帅的 只有帅才是真的",
+      "onboard_time": 1688381505,
+      "rank": 13,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 595287,
       "num": 340497,
       "word": "张雪峰出院",
@@ -2353,6 +2369,14 @@
       "onboard_time": 1688373946,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 531691,
+      "num": 2117004,
+      "word": "孕妇大出血遇早高峰交警咆哮开道",
+      "onboard_time": 1688380126,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530769,
@@ -3107,6 +3131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407919,
+      "num": 407919,
+      "word": "孟子义把周也哄睡后去打牌",
+      "onboard_time": 1688382639,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404777,
       "num": 404777,
       "word": "杀害女子嫌犯靳创民被找到时已死亡",
@@ -3259,6 +3291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385208,
+      "num": 385208,
+      "word": "北京一地接导游中暑死亡",
+      "onboard_time": 1688380546,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 384036,
       "num": 384036,
       "word": "林高远萨格勒布站夺冠",
@@ -3345,6 +3385,14 @@
       "onboard_time": 1688195491,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377358,
+      "num": 377358,
+      "word": "内娱圆脸女明星",
+      "onboard_time": 1688381625,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 375995,
@@ -4153,6 +4201,14 @@
       "onboard_time": 1688220095,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298579,
+      "num": 1116987,
+      "word": "7旬婆婆冒高温挑担给儿媳送菜",
+      "onboard_time": 1688379282,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298170,
@@ -5147,14 +5203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 238477,
-      "num": 1116987,
-      "word": "7旬婆婆冒高温挑担给儿媳送菜",
-      "onboard_time": 1688379282,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238359,
       "num": 238359,
       "word": "艾怡良 救我",
@@ -5387,6 +5435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224587,
+      "num": 224587,
+      "word": "他是一颗星 但你是自己的太阳",
+      "onboard_time": 1688382821,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224290,
       "num": 224290,
       "word": "中国共产党是人民的党",
@@ -5401,6 +5457,14 @@
       "onboard_time": 1688183192,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 223969,
+      "num": 223969,
+      "word": "LESSERAFIM首尔演唱会价格",
+      "onboard_time": 1688380842,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 223541,
@@ -5625,14 +5689,6 @@
       "onboard_time": 1688168605,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 211740,
-      "num": 953307,
-      "word": "孕妇大出血遇早高峰交警咆哮开道",
-      "onboard_time": 1688380126,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211511,
@@ -5899,6 +5955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201039,
+      "num": 201039,
+      "word": "原神林尼",
+      "onboard_time": 1688382761,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200317,
       "num": 200317,
       "word": "五险一金为什么重要",
@@ -5969,6 +6033,22 @@
       "onboard_time": 1688369506,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196632,
+      "num": 196632,
+      "word": "周翊然陈哲远Gucci大片",
+      "onboard_time": 1688382639,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196050,
+      "num": 196050,
+      "word": "渣渣辉一点也不渣",
+      "onboard_time": 1688382580,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 195820,
@@ -6123,6 +6203,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 190097,
+      "num": 190097,
+      "word": "原神菲米尼",
+      "onboard_time": 1688381324,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190011,
       "num": 190011,
       "word": "AG好起来了",
@@ -6137,6 +6225,14 @@
       "onboard_time": 1688212954,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189745,
+      "num": 189745,
+      "word": "我上班be like",
+      "onboard_time": 1688382162,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 189687,
@@ -6731,14 +6827,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 148846,
-      "num": 148846,
-      "word": "北京一地接导游中暑死亡",
-      "onboard_time": 1688380546,
-      "rank": 48,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 147775,
       "num": 147775,
       "word": "金沙江落水女孩拜救人者为干爹",
@@ -7248,6 +7336,14 @@
       "word": "他们获颁光荣在党50年纪念章",
       "onboard_time": 1688306982,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49338,
+      "num": 252389,
+      "word": "三口之家大五座SUV怎么选",
+      "onboard_time": 1688382343,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
