@@ -1,18 +1,18 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688358158471,
+  "endTime": 1688359051829,
   "band_list": [
     {
-      "raw_hot": 30475206,
-      "num": 30475206,
+      "raw_hot": 30586094,
+      "num": 30586094,
       "word": "蔡徐坤回应",
       "onboard_time": 1688355463,
       "rank": 0,
       "category": "艺人"
     },
     {
-      "raw_hot": 21517115,
-      "num": 21517115,
+      "raw_hot": 28349211,
+      "num": 28349211,
       "word": "蔡徐坤工作室声明",
       "onboard_time": 1688356997,
       "rank": 3,
@@ -89,6 +89,14 @@
       "onboard_time": 1688352872,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4235510,
+      "num": 4235510,
+      "word": "汪峰发了个锤子",
+      "onboard_time": 1688358879,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 3952331,
@@ -291,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1914110,
+      "num": 1914110,
+      "word": "海口三子大闹周杰伦演唱会",
+      "onboard_time": 1688352332,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1861781,
       "num": 935537,
       "word": "江西杀害3名小孩嫌疑人被抓获",
@@ -416,14 +432,6 @@
       "word": "金曲奖",
       "onboard_time": 1688208391,
       "rank": 7,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 1700334,
-      "num": 1700334,
-      "word": "海口三子大闹周杰伦演唱会",
-      "onboard_time": 1688352332,
-      "rank": 15,
       "category": "音乐"
     },
     {
@@ -939,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 934357,
+      "num": 452464,
+      "word": "王鹤棣虞书欣今日开屏",
+      "onboard_time": 1688355463,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 926340,
       "num": 926340,
       "word": "网友感谢王一博赞助奖学金",
@@ -969,6 +985,14 @@
       "onboard_time": 1688184692,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 913971,
+      "num": 494333,
+      "word": "刘昊然胡子",
+      "onboard_time": 1688358081,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 901008,
@@ -1076,19 +1100,11 @@
     },
     {
       "raw_hot": 846441,
-      "num": 366713,
+      "num": 439340,
       "word": "范伟虞书欣加入非诚勿扰3",
       "onboard_time": 1688352750,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 841470,
-      "num": 366994,
-      "word": "王鹤棣虞书欣今日开屏",
-      "onboard_time": 1688355463,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 833089,
@@ -1507,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665100,
+      "num": 665100,
+      "word": "饿了么免单",
+      "onboard_time": 1688183310,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 664402,
       "num": 388143,
       "word": "告诉婆婆我身体不能生孩子",
@@ -1545,14 +1569,6 @@
       "onboard_time": 1688222499,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 656755,
-      "num": 656755,
-      "word": "饿了么免单",
-      "onboard_time": 1688183310,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 655086,
@@ -2020,7 +2036,7 @@
     },
     {
       "raw_hot": 528434,
-      "num": 366014,
+      "num": 441312,
       "word": "偷偷藏不住厦门取景地客流翻倍",
       "onboard_time": 1688354734,
       "rank": 41,
@@ -2044,7 +2060,7 @@
     },
     {
       "raw_hot": 526846,
-      "num": 364981,
+      "num": 435748,
       "word": "在高铁上吃泡面被说没有素质",
       "onboard_time": 1688350649,
       "rank": 21,
@@ -2283,6 +2299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484662,
+      "num": 362362,
+      "word": "Lisa新编舞好辣",
+      "onboard_time": 1688357057,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 483378,
       "num": 483378,
       "word": "樊振东",
@@ -2369,6 +2393,22 @@
       "onboard_time": 1688288013,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 455101,
+      "num": 437777,
+      "word": "原神",
+      "onboard_time": 1688358201,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 454535,
+      "num": 454535,
+      "word": "复旦附中回应上海交大博士应聘保健员",
+      "onboard_time": 1688353593,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 453880,
@@ -2593,6 +2633,14 @@
       "onboard_time": 1688222197,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 422391,
+      "num": 350708,
+      "word": "2PM 少女时代",
+      "onboard_time": 1688358625,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 421470,
@@ -2843,6 +2891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 378759,
+      "num": 378759,
+      "word": "5岁女儿每天为快递员父亲接1瓶水",
+      "onboard_time": 1688356341,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378675,
       "num": 378675,
       "word": "螺狮粉雪糕",
@@ -2931,14 +2987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 367697,
-      "num": 367697,
-      "word": "5岁女儿每天为快递员父亲接1瓶水",
-      "onboard_time": 1688356341,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366211,
       "num": 238193,
       "word": "预判了芒果的预判",
@@ -2953,14 +3001,6 @@
       "onboard_time": 1688281893,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 364777,
-      "num": 364777,
-      "word": "复旦附中回应上海交大博士应聘保健员",
-      "onboard_time": 1688353593,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 363639,
@@ -3051,6 +3091,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 351546,
+      "num": 338892,
+      "word": "张杰回应巡演脱衣服",
+      "onboard_time": 1688344830,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349898,
       "num": 300052,
       "word": "赵露思盛开的黑色玫瑰",
@@ -3073,6 +3121,14 @@
       "onboard_time": 1688209651,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 347624,
+      "num": 347624,
+      "word": "去找异地男友发现他没关空调",
+      "onboard_time": 1688354854,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 347062,
@@ -3163,28 +3219,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 340766,
-      "num": 340766,
-      "word": "Lisa新编舞好辣",
-      "onboard_time": 1688357057,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 339963,
       "num": 323599,
       "word": "李现追星赢麻了",
       "onboard_time": 1688180251,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 338417,
-      "num": 338417,
-      "word": "去找异地男友发现他没关空调",
-      "onboard_time": 1688354854,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 337910,
@@ -3259,6 +3299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328997,
+      "num": 328997,
+      "word": "被一只小猫咪整哭了",
+      "onboard_time": 1688352451,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 327133,
       "num": 317507,
       "word": "王安宇被王鹤棣泼懵了",
@@ -3284,7 +3332,7 @@
     },
     {
       "raw_hot": 325699,
-      "num": 263991,
+      "num": 295099,
       "word": "王阳到底演过多少姐夫",
       "onboard_time": 1688349930,
       "rank": 28,
@@ -3313,6 +3361,14 @@
       "onboard_time": 1688250917,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321749,
+      "num": 304172,
+      "word": "EXO预告",
+      "onboard_time": 1688343332,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 321743,
@@ -3377,6 +3433,14 @@
       "onboard_time": 1688214754,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318837,
+      "num": 318837,
+      "word": "老祖宗最知道怎么哄孩子",
+      "onboard_time": 1688352508,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 317310,
@@ -3467,6 +3531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307965,
+      "num": 307965,
+      "word": "河马炫西瓜么得技术全是感情",
+      "onboard_time": 1688357541,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307881,
       "num": 307881,
       "word": "福宝第一次近距离接触异性",
@@ -3513,14 +3585,6 @@
       "onboard_time": 1688260170,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304172,
-      "num": 304172,
-      "word": "EXO预告",
-      "onboard_time": 1688343332,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 303314,
@@ -3579,6 +3643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300521,
+      "num": 375638,
+      "word": "录取通知书里的中国式浪漫",
+      "onboard_time": 1688355896,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299927,
       "num": 299927,
       "word": "为什么镜子里的自己会更好看",
@@ -3603,6 +3675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298170,
+      "num": 298170,
+      "word": "两口子吵架冷战到了饭点各吃各的",
+      "onboard_time": 1688358684,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 298003,
       "num": 298003,
       "word": "黄朔 北京",
@@ -3617,14 +3697,6 @@
       "onboard_time": 1688201071,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296756,
-      "num": 296756,
-      "word": "张杰回应巡演脱衣服",
-      "onboard_time": 1688344830,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 296270,
@@ -3699,14 +3771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291252,
-      "num": 291252,
-      "word": "被一只小猫咪整哭了",
-      "onboard_time": 1688352451,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 291071,
       "num": 261521,
       "word": "试衣间死亡顶光",
@@ -3771,14 +3835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284081,
-      "num": 296738,
-      "word": "老祖宗最知道怎么哄孩子",
-      "onboard_time": 1688352508,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 283911,
       "num": 283911,
       "word": "一个让周末变长的方法",
@@ -3811,27 +3867,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 280641,
-      "num": 272688,
-      "word": "刘昊然胡子",
-      "onboard_time": 1688358081,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279663,
       "num": 279663,
       "word": "现在孩子水平都太高了",
       "onboard_time": 1688259085,
       "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 279414,
-      "num": 279414,
-      "word": "河马炫西瓜么得技术全是感情",
-      "onboard_time": 1688357541,
-      "rank": 37,
       "category": "幽默"
     },
     {
@@ -5115,14 +5155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202890,
-      "num": 319242,
-      "word": "录取通知书里的中国式浪漫",
-      "onboard_time": 1688355896,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202302,
       "num": 202302,
       "word": "毛不易演唱会",
@@ -5593,6 +5625,14 @@
       "onboard_time": 1688285194,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177063,
+      "num": 272388,
+      "word": "中国女游客在马来西亚机场遭索贿",
+      "onboard_time": 1688358378,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 176969,
@@ -6163,6 +6203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100503,
+      "num": 302680,
+      "word": "饿了么将与免单作弊行为干到底",
+      "onboard_time": 1688356817,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 98758,
       "num": 98758,
       "word": "王楚钦孙颖莎萨格勒布站夺冠",
@@ -6331,14 +6379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73301,
-      "num": 273099,
-      "word": "饿了么将与免单作弊行为干到底",
-      "onboard_time": 1688356817,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 69448,
       "num": 65243,
       "word": "想在布达佩斯偶遇许光汉",
@@ -6404,7 +6444,7 @@
     },
     {
       "raw_hot": 49615,
-      "num": 3052678,
+      "num": 4815269,
       "word": "他们获颁光荣在党50年纪念章",
       "onboard_time": 1688306982,
       "rank": 41,
