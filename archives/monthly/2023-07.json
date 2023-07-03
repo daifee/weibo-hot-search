@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688390915382,
+  "endTime": 1688391516628,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -467,6 +467,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1780644,
+      "num": 586463,
+      "word": "蔡徐坤是否涉及法律问题",
+      "onboard_time": 1688387920,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1766088,
       "num": 1766088,
       "word": "李承铉参加张杰谢娜婚礼晕倒了",
@@ -561,14 +569,6 @@
       "onboard_time": 1688276495,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1621589,
-      "num": 586463,
-      "word": "蔡徐坤是否涉及法律问题",
-      "onboard_time": 1688387920,
-      "rank": 22,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1613803,
@@ -763,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1225267,
+      "num": 1225267,
+      "word": "肖战玉骨遥里也有陈情令演员",
+      "onboard_time": 1688389543,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1216616,
       "num": 1216616,
       "word": "日本东京市中心发生爆炸",
@@ -883,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1119634,
+      "num": 1119634,
+      "word": "宋轶是不是男生都喜欢的类型",
+      "onboard_time": 1688389059,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1118879,
       "num": 1118879,
       "word": "助手给白百何吃烤焦的面包",
@@ -969,14 +985,6 @@
       "onboard_time": 1688294072,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1049628,
-      "num": 906745,
-      "word": "宋轶是不是男生都喜欢的类型",
-      "onboard_time": 1688389059,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 1041378,
@@ -1243,14 +1251,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 913410,
-      "num": 913410,
-      "word": "肖战玉骨遥里也有陈情令演员",
-      "onboard_time": 1688389543,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 901008,
       "num": 901008,
       "word": "赵露思8集换29套衣服",
@@ -1273,6 +1273,14 @@
       "onboard_time": 1688121335,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 881698,
+      "num": 881698,
+      "word": "TFBOYS演唱会审批",
+      "onboard_time": 1688390921,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 877522,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1688275413,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 781541,
+      "num": 781541,
+      "word": "男友留的瓜",
+      "onboard_time": 1688389661,
+      "rank": 10,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 780201,
@@ -1931,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 657965,
+      "num": 657965,
+      "word": "吴磊深V",
+      "onboard_time": 1688390142,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 655086,
       "num": 655086,
       "word": "李梦 勒布朗梦",
@@ -2129,14 +2153,6 @@
       "onboard_time": 1688252477,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605210,
-      "num": 549873,
-      "word": "男友留的瓜",
-      "onboard_time": 1688389661,
-      "rank": 10,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 601571,
@@ -2377,14 +2393,6 @@
       "onboard_time": 1688351131,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 551693,
-      "num": 551693,
-      "word": "吴磊深V",
-      "onboard_time": 1688390142,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 550443,
@@ -2891,12 +2899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468117,
+      "num": 468117,
+      "word": "八角笼中",
+      "onboard_time": 1688185713,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467013,
       "num": 620393,
       "word": "孙颖莎获萨格勒布站亚军",
       "onboard_time": 1688304940,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 459795,
+      "num": 459795,
+      "word": "萌兰花花和叶生日快乐",
+      "onboard_time": 1688389418,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456883,
@@ -3051,14 +3075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439992,
-      "num": 364847,
-      "word": "八角笼中",
-      "onboard_time": 1688185713,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 439520,
       "num": 677823,
       "word": "外卖已经发展成这样了吗",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1688217573,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430009,
+      "num": 430009,
+      "word": "为什么运钞车不直接运一张银行卡",
+      "onboard_time": 1688388579,
+      "rank": 41,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 428691,
@@ -3363,14 +3387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 394859,
-      "num": 394859,
-      "word": "为什么运钞车不直接运一张银行卡",
-      "onboard_time": 1688388579,
-      "rank": 41,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 394492,
       "num": 394492,
       "word": "韩旭我的神",
@@ -3443,14 +3459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 383786,
-      "num": 383786,
-      "word": "萌兰花花和叶生日快乐",
-      "onboard_time": 1688389418,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383235,
       "num": 651146,
       "word": "在高铁上吃泡面是没有素质吗",
@@ -3497,6 +3505,14 @@
       "onboard_time": 1688282074,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 380635,
+      "num": 380635,
+      "word": "当你去女朋友家超过四次之后",
+      "onboard_time": 1688385637,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 380306,
@@ -3665,14 +3681,6 @@
       "onboard_time": 1688340867,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 360351,
-      "num": 360351,
-      "word": "当你去女朋友家超过四次之后",
-      "onboard_time": 1688385637,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 360152,
@@ -4835,6 +4843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267770,
+      "num": 267770,
+      "word": "智博老王",
+      "onboard_time": 1688391222,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 266463,
       "num": 266463,
       "word": "什么病人明明是我本人",
@@ -5843,6 +5859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215451,
+      "num": 215451,
+      "word": "原来猫咪也有舍不得揍的人",
+      "onboard_time": 1688391100,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 215391,
       "num": 215391,
       "word": "七一",
@@ -6107,6 +6131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205165,
+      "num": 205165,
+      "word": "P人的一生",
+      "onboard_time": 1688390745,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203856,
       "num": 203856,
       "word": "沈月陈小希造型",
@@ -6361,6 +6393,14 @@
       "onboard_time": 1688278471,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191616,
+      "num": 191616,
+      "word": "沪上阿姨回应一杯开水卖10元",
+      "onboard_time": 1688391403,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191325,
@@ -6779,14 +6819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174859,
-      "num": 174859,
-      "word": "P人的一生",
-      "onboard_time": 1688390745,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174726,
       "num": 174726,
       "word": "当我跟别人说话有猫猫经过时",
@@ -6948,7 +6980,7 @@
     },
     {
       "raw_hot": 161373,
-      "num": 161373,
+      "num": 165885,
       "word": "温网",
       "onboard_time": 1688390860,
       "rank": 49,
@@ -7444,7 +7476,7 @@
     },
     {
       "raw_hot": 92117,
-      "num": 906984,
+      "num": 1132873,
       "word": "太空种菜自给自足真的要实现啦",
       "onboard_time": 1688384380,
       "rank": 2,
