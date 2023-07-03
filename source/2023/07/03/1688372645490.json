@@ -1,0 +1,410 @@
+{
+  "runTime": 1688372645490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12350217,
+        "num": 12350217,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1766088,
+        "num": 1766088,
+        "word": "李承铉参加张杰谢娜婚礼晕倒了",
+        "onboard_time": 1688371004,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122455,
+        "num": 1765150,
+        "word": "毕业典礼催泪发言盘点",
+        "onboard_time": 1688368726,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1765124,
+        "num": 1765124,
+        "word": "汪峰发了个锤子",
+        "onboard_time": 1688358879,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1225795,
+        "num": 1225795,
+        "word": "赵丽颖 CL",
+        "onboard_time": 1688370823,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 3755550,
+        "num": 1199755,
+        "word": "蔡徐坤回应",
+        "onboard_time": 1688355463,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1100354,
+        "num": 1100354,
+        "word": "TES官博辟谣",
+        "onboard_time": 1688369265,
+        "rank": 6,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 991975,
+        "num": 991975,
+        "word": "时隔多年终于理解了宛瑜",
+        "onboard_time": 1688366808,
+        "rank": 7,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 922510,
+        "num": 922510,
+        "word": "日本东京市中心发生爆炸",
+        "onboard_time": 1688371483,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590220,
+        "num": 918814,
+        "word": "妈妈发女儿视频网友提醒孩子有反颌",
+        "onboard_time": 1688361278,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3067355,
+        "num": 914734,
+        "word": "秦牛正威订婚",
+        "onboard_time": 1688364119,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2705948,
+        "num": 902420,
+        "word": "蔡徐坤工作室声明",
+        "onboard_time": 1688356997,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2644585,
+        "num": 897712,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894401,
+        "num": 894401,
+        "word": "对方撤回了一个老太太",
+        "onboard_time": 1688366573,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 692071,
+        "num": 692071,
+        "word": "如何看待蔡徐坤回应",
+        "onboard_time": 1688372627,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 929980,
+        "num": 690224,
+        "word": "袁咏仪儿子张慕童近照",
+        "onboard_time": 1688370464,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665715,
+        "num": 665715,
+        "word": "萧亚轩自曝恢复单身",
+        "onboard_time": 1688371427,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559045,
+        "num": 559045,
+        "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
+        "onboard_time": 1688360039,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442340,
+        "num": 442340,
+        "word": "女子刷单被骗22万仍不信民警",
+        "onboard_time": 1688366512,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54375,
+        "num": 439469,
+        "word": "赵长江称腾势N7领先两代",
+        "onboard_time": 1688371483,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 627964,
+        "num": 439458,
+        "word": "白敬亭脱单手串有点东西",
+        "onboard_time": 1688371123,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451142,
+        "num": 439452,
+        "word": "韩素希ins评论区",
+        "onboard_time": 1688369684,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439428,
+        "num": 439428,
+        "word": "谢谢你 小孩侠",
+        "onboard_time": 1688369746,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418126,
+        "num": 418126,
+        "word": "缅甸逃回男子忆水牢满地是血",
+        "onboard_time": 1688351070,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399703,
+        "num": 399703,
+        "word": "我就知道这个单位来对了",
+        "onboard_time": 1688362297,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399622,
+        "num": 399622,
+        "word": "偶遇野生大熊猫淡定对视20分钟",
+        "onboard_time": 1688365076,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377880,
+        "num": 377880,
+        "word": "杨紫官宣MLB棒球大使",
+        "onboard_time": 1688363178,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 356437,
+        "num": 356437,
+        "word": "怀孕后公司不给批辞职报告",
+        "onboard_time": 1688372205,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352571,
+        "num": 352571,
+        "word": "韩媒曝李俊昊林允儿恋情",
+        "onboard_time": 1688352872,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312168,
+        "num": 312168,
+        "word": "刘昊然胡子",
+        "onboard_time": 1688358081,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295647,
+        "num": 295647,
+        "word": "嬛球影城",
+        "onboard_time": 1688372085,
+        "rank": 30,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 295004,
+        "num": 295004,
+        "word": "HR让我把期望薪资调高",
+        "onboard_time": 1688371843,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291756,
+        "num": 291756,
+        "word": "原来得溃疡以毒攻毒是对的",
+        "onboard_time": 1688368907,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290605,
+        "num": 290605,
+        "word": "TES",
+        "onboard_time": 1688368550,
+        "rank": 33,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 276115,
+        "num": 276115,
+        "word": "今晚不用再吃偷偷藏不住断更的苦",
+        "onboard_time": 1688363763,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261649,
+        "num": 261649,
+        "word": "睡觉时身体为什么会抖一下",
+        "onboard_time": 1688343392,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 259103,
+        "num": 259103,
+        "word": "法国两名警察遭枪击",
+        "onboard_time": 1688372205,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258092,
+        "num": 258092,
+        "word": "夫胜宽暂停活动",
+        "onboard_time": 1688365851,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257928,
+        "num": 257928,
+        "word": "任敏有刘海vs没刘海",
+        "onboard_time": 1688355092,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255889,
+        "num": 255889,
+        "word": "赵露思回应被说圆脸",
+        "onboard_time": 1688368067,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244716,
+        "num": 244716,
+        "word": "在高铁上吃泡面是没有素质吗",
+        "onboard_time": 1688368786,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241801,
+        "num": 241801,
+        "word": "李俊昊林允儿方回应恋情",
+        "onboard_time": 1688354493,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238091,
+        "num": 238091,
+        "word": "海口三子大闹周杰伦演唱会",
+        "onboard_time": 1688352332,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3250106,
+        "num": 237178,
+        "word": "JackeyLove 赌博",
+        "onboard_time": 1688365790,
+        "rank": 43,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 236071,
+        "num": 236071,
+        "word": "情绪反扑",
+        "onboard_time": 1688371427,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225306,
+        "num": 225306,
+        "word": "爸爸连买房都喜欢和朋友一起",
+        "onboard_time": 1688372326,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217099,
+        "num": 217099,
+        "word": "当猫咪听到放粮的声音时",
+        "onboard_time": 1688371427,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 209688,
+        "num": 209688,
+        "word": "有眼力见的狗狗",
+        "onboard_time": 1688372146,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 206371,
+        "num": 206371,
+        "word": "周冬雨刘昊然屈楚萧极限拉扯",
+        "onboard_time": 1688352090,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203338,
+        "num": 203338,
+        "word": "用具体的行动来缓解焦虑",
+        "onboard_time": 1688371725,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#平均年龄89岁的老党员们谈初心#"
+    }
+  }
+}

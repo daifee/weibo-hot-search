@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688369657522,
+  "endTime": 1688372645490,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 3232637,
-      "num": 779844,
+      "num": 914734,
       "word": "秦牛正威订婚",
       "onboard_time": 1688364119,
       "rank": 12,
@@ -435,6 +435,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1766088,
+      "num": 1766088,
+      "word": "李承铉参加张杰谢娜婚礼晕倒了",
+      "onboard_time": 1688371004,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1748695,
       "num": 1748695,
       "word": "室友卖掉了我将近十年的青春",
@@ -691,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1225795,
+      "num": 1225795,
+      "word": "赵丽颖 CL",
+      "onboard_time": 1688370823,
+      "rank": 4,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1207862,
       "num": 1207862,
       "word": "玉骨遥任敏演技",
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 991975,
+      "num": 991975,
+      "word": "时隔多年终于理解了宛瑜",
+      "onboard_time": 1688366808,
+      "rank": 5,
+      "category": "情感,影视"
+    },
+    {
       "raw_hot": 991770,
       "num": 991770,
       "word": "马克龙把骚乱归咎于社交媒体和电子游戏",
@@ -1043,12 +1067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929980,
+      "num": 690224,
+      "word": "袁咏仪儿子张慕童近照",
+      "onboard_time": 1688370464,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 926340,
       "num": 926340,
       "word": "网友感谢王一博赞助奖学金",
       "onboard_time": 1688217993,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 922510,
+      "num": 922510,
+      "word": "日本东京市中心发生爆炸",
+      "onboard_time": 1688371483,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 916780,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1688295933,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 894401,
+      "num": 894401,
+      "word": "对方撤回了一个老太太",
+      "onboard_time": 1688366573,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 892109,
@@ -1185,14 +1233,6 @@
       "onboard_time": 1688352750,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 839085,
-      "num": 839085,
-      "word": "时隔多年终于理解了宛瑜",
-      "onboard_time": 1688366808,
-      "rank": 5,
-      "category": "情感,影视"
     },
     {
       "raw_hot": 833089,
@@ -1531,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 692071,
+      "num": 692071,
+      "word": "如何看待蔡徐坤回应",
+      "onboard_time": 1688372627,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 684945,
       "num": 684945,
       "word": "封神",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1688180973,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 665715,
+      "num": 665715,
+      "word": "萧亚轩自曝恢复单身",
+      "onboard_time": 1688371427,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 665691,
@@ -1811,6 +1867,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 627964,
+      "num": 439458,
+      "word": "白敬亭脱单手串有点东西",
+      "onboard_time": 1688371123,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 627845,
       "num": 624269,
       "word": "陈哲远王玉雯 白色橄榄树",
@@ -1921,6 +1985,14 @@
       "onboard_time": 1688177971,
       "rank": 7,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 590220,
+      "num": 918814,
+      "word": "妈妈发女儿视频网友提醒孩子有反颌",
+      "onboard_time": 1688361278,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587690,
@@ -2121,14 +2193,6 @@
       "onboard_time": 1688316926,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 544457,
-      "num": 544457,
-      "word": "妈妈发女儿视频网友提醒孩子有反颌",
-      "onboard_time": 1688361278,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543725,
@@ -2361,14 +2425,6 @@
       "onboard_time": 1688215589,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 499891,
-      "num": 499891,
-      "word": "对方撤回了一个老太太",
-      "onboard_time": 1688366573,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 498752,
@@ -2611,6 +2667,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 451142,
+      "num": 439452,
+      "word": "韩素希ins评论区",
+      "onboard_time": 1688369684,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450742,
       "num": 324533,
       "word": "宁静没病就逛40度的街",
@@ -2683,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442340,
+      "num": 442340,
+      "word": "女子刷单被骗22万仍不信民警",
+      "onboard_time": 1688366512,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440038,
       "num": 440038,
       "word": "10岁男孩物业大厅捉迷藏触电身亡",
@@ -2713,6 +2785,14 @@
       "onboard_time": 1688282915,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439428,
+      "num": 439428,
+      "word": "谢谢你 小孩侠",
+      "onboard_time": 1688369746,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 438431,
@@ -2945,6 +3025,14 @@
       "onboard_time": 1688210792,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 399622,
+      "num": 490855,
+      "word": "偶遇野生大熊猫淡定对视20分钟",
+      "onboard_time": 1688365076,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397296,
@@ -3251,6 +3339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 356437,
+      "num": 356437,
+      "word": "怀孕后公司不给批辞职报告",
+      "onboard_time": 1688372205,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 356389,
       "num": 253337,
       "word": "电影燃冬定档七夕",
@@ -3545,14 +3641,6 @@
       "onboard_time": 1688288914,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324753,
-      "num": 490855,
-      "word": "偶遇野生大熊猫淡定对视20分钟",
-      "onboard_time": 1688365076,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323207,
@@ -3931,20 +4019,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 296165,
-      "num": 398252,
-      "word": "女子刷单被骗22万仍不信民警",
-      "onboard_time": 1688366512,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295804,
       "num": 275643,
       "word": "泡脚竟然还能变白",
       "onboard_time": 1688196630,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295647,
+      "num": 295647,
+      "word": "嬛球影城",
+      "onboard_time": 1688372085,
+      "rank": 30,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 295588,
@@ -3969,6 +4057,14 @@
       "onboard_time": 1688253199,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295004,
+      "num": 295004,
+      "word": "HR让我把期望薪资调高",
+      "onboard_time": 1688371843,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 294977,
@@ -4443,6 +4539,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 259103,
+      "num": 259103,
+      "word": "法国两名警察遭枪击",
+      "onboard_time": 1688372205,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258687,
       "num": 258687,
       "word": "偷偷藏不住现实衍生版",
@@ -4907,6 +5011,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 236071,
+      "num": 236071,
+      "word": "情绪反扑",
+      "onboard_time": 1688371427,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234481,
       "num": 234481,
       "word": "爸爸焦急盼到女儿通知书第一时间开箱",
@@ -5067,6 +5179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225306,
+      "num": 225306,
+      "word": "爸爸连买房都喜欢和朋友一起",
+      "onboard_time": 1688372326,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224941,
       "num": 220219,
       "word": "谢娜放狠话被打脸",
@@ -5201,6 +5321,14 @@
       "onboard_time": 1688127274,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217099,
+      "num": 217099,
+      "word": "当猫咪听到放粮的声音时",
+      "onboard_time": 1688371427,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 217027,
@@ -5363,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209688,
+      "num": 209688,
+      "word": "有眼力见的狗狗",
+      "onboard_time": 1688372146,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 208703,
       "num": 208703,
       "word": "长风渡燃起来了",
@@ -5497,6 +5633,14 @@
       "onboard_time": 1688261369,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203338,
+      "num": 203338,
+      "word": "用具体的行动来缓解焦虑",
+      "onboard_time": 1688371725,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 202302,
@@ -6499,6 +6643,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 122455,
+      "num": 5362618,
+      "word": "毕业典礼催泪发言盘点",
+      "onboard_time": 1688368726,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119407,
       "num": 1071521,
       "word": "为保护被困司机他用身体挡飞溅玻璃",
@@ -6617,14 +6769,6 @@
       "onboard_time": 1688166077,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 95742,
-      "num": 5362618,
-      "word": "毕业典礼催泪发言盘点",
-      "onboard_time": 1688368726,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95355,
@@ -6825,6 +6969,14 @@
       "onboard_time": 1688266832,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54375,
+      "num": 439469,
+      "word": "赵长江称腾势N7领先两代",
+      "onboard_time": 1688371483,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 49615,

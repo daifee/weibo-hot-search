@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688369657522,
+  "endTime": 1688372645490,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3232637,
-      "num": 779844,
+      "num": 914734,
       "word": "秦牛正威订婚",
       "onboard_time": 1688364119,
       "rank": 12,
@@ -137,6 +137,14 @@
       "onboard_time": 1688352332,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1766088,
+      "num": 1766088,
+      "word": "李承铉参加张杰谢娜婚礼晕倒了",
+      "onboard_time": 1688371004,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1733326,
@@ -211,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1225795,
+      "num": 1225795,
+      "word": "赵丽颖 CL",
+      "onboard_time": 1688370823,
+      "rank": 4,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1159263,
       "num": 1159263,
       "word": "周冬雨刘昊然屈楚萧极限拉扯",
@@ -283,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 991975,
+      "num": 991975,
+      "word": "时隔多年终于理解了宛瑜",
+      "onboard_time": 1688366808,
+      "rank": 5,
+      "category": "情感,影视"
+    },
+    {
       "raw_hot": 974507,
       "num": 974507,
       "word": "炎亚纶前往警局做笔录",
@@ -297,6 +321,22 @@
       "onboard_time": 1688355463,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 929980,
+      "num": 690224,
+      "word": "袁咏仪儿子张慕童近照",
+      "onboard_time": 1688370464,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 922510,
+      "num": 922510,
+      "word": "日本东京市中心发生爆炸",
+      "onboard_time": 1688371483,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 916780,
@@ -315,20 +355,20 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 894401,
+      "num": 894401,
+      "word": "对方撤回了一个老太太",
+      "onboard_time": 1688366573,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 846441,
       "num": 439340,
       "word": "范伟虞书欣加入非诚勿扰3",
       "onboard_time": 1688352750,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 839085,
-      "num": 839085,
-      "word": "时隔多年终于理解了宛瑜",
-      "onboard_time": 1688366808,
-      "rank": 5,
-      "category": "情感,影视"
     },
     {
       "raw_hot": 830168,
@@ -411,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692071,
+      "num": 692071,
+      "word": "如何看待蔡徐坤回应",
+      "onboard_time": 1688372627,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 682284,
       "num": 490036,
       "word": "我就知道这个单位来对了",
@@ -443,6 +491,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 665715,
+      "num": 665715,
+      "word": "萧亚轩自曝恢复单身",
+      "onboard_time": 1688371427,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665100,
       "num": 665100,
       "word": "饿了么免单",
@@ -467,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627964,
+      "num": 439458,
+      "word": "白敬亭脱单手串有点东西",
+      "onboard_time": 1688371123,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607105,
       "num": 648897,
       "word": "法国",
       "onboard_time": 1688344172,
       "rank": 15,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 590220,
+      "num": 918814,
+      "word": "妈妈发女儿视频网友提醒孩子有反颌",
+      "onboard_time": 1688361278,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583591,
@@ -523,14 +595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 544457,
-      "num": 544457,
-      "word": "妈妈发女儿视频网友提醒孩子有反颌",
-      "onboard_time": 1688361278,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543725,
       "num": 543725,
       "word": "LPL",
@@ -577,14 +641,6 @@
       "onboard_time": 1688310641,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499891,
-      "num": 499891,
-      "word": "对方撤回了一个老太太",
-      "onboard_time": 1688366573,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 487112,
@@ -635,6 +691,30 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 451142,
+      "num": 439452,
+      "word": "韩素希ins评论区",
+      "onboard_time": 1688369684,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 442340,
+      "num": 442340,
+      "word": "女子刷单被骗22万仍不信民警",
+      "onboard_time": 1688366512,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439428,
+      "num": 439428,
+      "word": "谢谢你 小孩侠",
+      "onboard_time": 1688369746,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 437179,
       "num": 339177,
       "word": "Angelababy吻戏紧张到闭眼",
@@ -673,6 +753,14 @@
       "onboard_time": 1688363763,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399622,
+      "num": 490855,
+      "word": "偶遇野生大熊猫淡定对视20分钟",
+      "onboard_time": 1688365076,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397241,
@@ -737,6 +825,14 @@
       "onboard_time": 1688340867,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356437,
+      "num": 356437,
+      "word": "怀孕后公司不给批辞职报告",
+      "onboard_time": 1688372205,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 356389,
@@ -841,14 +937,6 @@
       "onboard_time": 1688349930,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 324753,
-      "num": 490855,
-      "word": "偶遇野生大熊猫淡定对视20分钟",
-      "onboard_time": 1688365076,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321749,
@@ -963,12 +1051,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 296165,
-      "num": 398252,
-      "word": "女子刷单被骗22万仍不信民警",
-      "onboard_time": 1688366512,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 295647,
+      "num": 295647,
+      "word": "嬛球影城",
+      "onboard_time": 1688372085,
+      "rank": 30,
+      "category": "旅游,幽默"
+    },
+    {
+      "raw_hot": 295004,
+      "num": 295004,
+      "word": "HR让我把期望薪资调高",
+      "onboard_time": 1688371843,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 284123,
@@ -1025,6 +1121,14 @@
       "onboard_time": 1688362592,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259103,
+      "num": 259103,
+      "word": "法国两名警察遭枪击",
+      "onboard_time": 1688372205,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258166,
@@ -1115,6 +1219,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 236071,
+      "num": 236071,
+      "word": "情绪反扑",
+      "onboard_time": 1688371427,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235166,
       "num": 235166,
       "word": "朱一龙文咏珊好像两台扫描仪",
@@ -1179,12 +1291,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225306,
+      "num": 225306,
+      "word": "爸爸连买房都喜欢和朋友一起",
+      "onboard_time": 1688372326,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222671,
       "num": 222671,
       "word": "长安三万里 将进酒",
       "onboard_time": 1688311776,
       "rank": 32,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 217099,
+      "num": 217099,
+      "word": "当猫咪听到放粮的声音时",
+      "onboard_time": 1688371427,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 214098,
@@ -1211,6 +1339,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 209688,
+      "num": 209688,
+      "word": "有眼力见的狗狗",
+      "onboard_time": 1688372146,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 207636,
       "num": 207636,
       "word": "英雄联盟",
@@ -1225,6 +1361,14 @@
       "onboard_time": 1688368372,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 203338,
+      "num": 203338,
+      "word": "用具体的行动来缓解焦虑",
+      "onboard_time": 1688371725,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 201016,
@@ -1531,6 +1675,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 122455,
+      "num": 5362618,
+      "word": "毕业典礼催泪发言盘点",
+      "onboard_time": 1688368726,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119828,
       "num": 119828,
       "word": "柳玉茹的情敌出现了",
@@ -1585,14 +1737,6 @@
       "onboard_time": 1688349269,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 95742,
-      "num": 5362618,
-      "word": "毕业典礼催泪发言盘点",
-      "onboard_time": 1688368726,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95355,
@@ -1665,6 +1809,14 @@
       "onboard_time": 1688320398,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 54375,
+      "num": 439469,
+      "word": "赵长江称腾势N7领先两代",
+      "onboard_time": 1688371483,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 49615,
