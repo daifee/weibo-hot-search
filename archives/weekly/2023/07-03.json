@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688419014756,
+  "endTime": 1688420044854,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -2739,6 +2739,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 129050,
+      "num": 129050,
+      "word": "大熊猫萌兰",
+      "onboard_time": 1688414173,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 122455,
       "num": 5362618,
       "word": "毕业典礼催泪发言盘点",
@@ -2776,14 +2784,6 @@
       "word": "父亲和丈夫的尊重要自己去赚",
       "onboard_time": 1688405540,
       "rank": 48,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 115939,
-      "num": 115939,
-      "word": "大熊猫萌兰",
-      "onboard_time": 1688414173,
-      "rank": 8,
       "category": "社会新闻,情感"
     },
     {
@@ -2971,6 +2971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 46341,
+      "num": 46341,
+      "word": "给校长撑伞挡雨的书记是山东人",
+      "onboard_time": 1688412075,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39476,
       "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
@@ -2985,14 +2993,6 @@
       "onboard_time": 1688411054,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 33228,
-      "num": 33228,
-      "word": "给校长撑伞挡雨的书记是山东人",
-      "onboard_time": 1688412075,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27046,
@@ -3011,8 +3011,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19647,
-      "num": 28218,
+      "raw_hot": 24890,
+      "num": 32714,
       "word": "最爱九思和玉茹的两个人",
       "onboard_time": 1688418432,
       "rank": 44,

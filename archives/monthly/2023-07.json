@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688419014756,
+  "endTime": 1688420044854,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -7651,6 +7651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 129050,
+      "num": 129050,
+      "word": "大熊猫萌兰",
+      "onboard_time": 1688414173,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 126180,
       "num": 1785308,
       "word": "青藏铁路开启动车时代",
@@ -7721,14 +7729,6 @@
       "onboard_time": 1688119895,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115939,
-      "num": 115939,
-      "word": "大熊猫萌兰",
-      "onboard_time": 1688414173,
-      "rank": 8,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 115543,
@@ -8107,6 +8107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 46341,
+      "num": 46341,
+      "word": "给校长撑伞挡雨的书记是山东人",
+      "onboard_time": 1688412075,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42777,
       "num": 93840,
       "word": "重庆的挑挑美食到底有多好吃",
@@ -8137,14 +8145,6 @@
       "onboard_time": 1688411054,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 33228,
-      "num": 33228,
-      "word": "给校长撑伞挡雨的书记是山东人",
-      "onboard_time": 1688412075,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29562,
@@ -8179,20 +8179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24890,
+      "num": 32714,
+      "word": "最爱九思和玉茹的两个人",
+      "onboard_time": 1688418432,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 19992,
       "num": 22303,
       "word": "当事游客回应发视频表扬导游",
       "onboard_time": 1688245453,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19647,
-      "num": 28218,
-      "word": "最爱九思和玉茹的两个人",
-      "onboard_time": 1688418432,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 11854,
