@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688359051829,
+  "endTime": 1688361539168,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -19,7 +19,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12819508,
+      "raw_hot": 24573633,
+      "num": 24573633,
+      "word": "蔡徐坤否认女方未成年及强制堕胎",
+      "onboard_time": 1688359492,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18570708,
+      "num": 18570708,
+      "word": "汪峰发了个锤子",
+      "onboard_time": 1688358879,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 12980468,
       "num": 801956,
       "word": "央视频下架蔡徐坤所有视频",
       "onboard_time": 1688299053,
@@ -33,6 +49,14 @@
       "onboard_time": 1688354013,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 8333952,
+      "num": 266411,
+      "word": "蔡徐坤 照片不是我",
+      "onboard_time": 1688361395,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 7958830,
@@ -89,14 +113,6 @@
       "onboard_time": 1688352872,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4235510,
-      "num": 4235510,
-      "word": "汪峰发了个锤子",
-      "onboard_time": 1688358879,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 3952331,
@@ -529,6 +545,14 @@
       "onboard_time": 1688285254,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1470492,
+      "num": 1470492,
+      "word": "刘昊然胡子",
+      "onboard_time": 1688358081,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1391221,
@@ -987,14 +1011,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 913971,
-      "num": 494333,
-      "word": "刘昊然胡子",
-      "onboard_time": 1688358081,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 901008,
       "num": 901008,
       "word": "赵露思8集换29套衣服",
@@ -1299,6 +1315,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 750385,
+      "num": 350708,
+      "word": "2PM 少女时代",
+      "onboard_time": 1688358625,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746142,
       "num": 434003,
       "word": "成年人改名原来这么简单",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1688302297,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 686573,
+      "num": 686573,
+      "word": "红黄蓝早教中心回应被指虐童",
+      "onboard_time": 1688359244,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684945,
@@ -2635,14 +2667,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 422391,
-      "num": 350708,
-      "word": "2PM 少女时代",
-      "onboard_time": 1688358625,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 421470,
       "num": 275517,
       "word": "只能骗骗涉世未深的小狗",
@@ -2955,6 +2979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373521,
+      "num": 373521,
+      "word": "警方前往炎亚纶家中搜查",
+      "onboard_time": 1688361516,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 371941,
       "num": 371941,
       "word": "陈哲远会当真的",
@@ -3227,6 +3259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339765,
+      "num": 263313,
+      "word": "心肺复苏急救一只迷你小青蛙",
+      "onboard_time": 1688358081,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 337910,
       "num": 337910,
       "word": "男子飞机上涉嫌摸乘务员大腿被警告",
@@ -3305,6 +3345,14 @@
       "onboard_time": 1688352451,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 328815,
+      "num": 262431,
+      "word": "陶喆新歌流沙",
+      "onboard_time": 1688360268,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 327133,
@@ -3851,6 +3899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282762,
+      "num": 282762,
+      "word": "和熊猫对上眼了是什么体验",
+      "onboard_time": 1688360683,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 282554,
       "num": 252817,
       "word": "蔡国强在日本的白日烟火表演",
@@ -4123,6 +4179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261978,
+      "num": 261978,
+      "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
+      "onboard_time": 1688360039,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261974,
       "num": 248981,
       "word": "长安三万里 将进酒",
@@ -4219,6 +4283,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 256649,
+      "num": 500156,
+      "word": "原神 枫丹预告片",
+      "onboard_time": 1688360446,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256448,
       "num": 256448,
       "word": "朱婷",
@@ -4257,6 +4329,14 @@
       "onboard_time": 1688262509,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 253612,
+      "num": 239094,
+      "word": "BLACKPINK音乐节好辣",
+      "onboard_time": 1688360914,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 253380,
@@ -4657,6 +4737,14 @@
       "onboard_time": 1688268450,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232249,
+      "num": 272388,
+      "word": "中国女游客在马来西亚机场遭索贿",
+      "onboard_time": 1688358378,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 231652,
@@ -5081,6 +5169,14 @@
       "onboard_time": 1688220216,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206885,
+      "num": 237990,
+      "word": "妈妈发女儿视频网友提醒孩子有反颌",
+      "onboard_time": 1688361278,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206723,
@@ -5625,14 +5721,6 @@
       "onboard_time": 1688285194,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177063,
-      "num": 272388,
-      "word": "中国女游客在马来西亚机场遭索贿",
-      "onboard_time": 1688358378,
-      "rank": 49,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 176969,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688359051829,
+  "endTime": 1688361539168,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -19,7 +19,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12122230,
+      "raw_hot": 24573633,
+      "num": 24573633,
+      "word": "蔡徐坤否认女方未成年及强制堕胎",
+      "onboard_time": 1688359492,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18570708,
+      "num": 18570708,
+      "word": "汪峰发了个锤子",
+      "onboard_time": 1688358879,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 12980468,
       "num": 801956,
       "word": "央视频下架蔡徐坤所有视频",
       "onboard_time": 1688299053,
@@ -33,6 +49,14 @@
       "onboard_time": 1688354013,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 8333952,
+      "num": 266411,
+      "word": "蔡徐坤 照片不是我",
+      "onboard_time": 1688361395,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 4686894,
@@ -49,14 +73,6 @@
       "onboard_time": 1688352872,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4235510,
-      "num": 4235510,
-      "word": "汪峰发了个锤子",
-      "onboard_time": 1688358879,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 2778111,
@@ -113,6 +129,14 @@
       "onboard_time": 1688351070,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1470492,
+      "num": 1470492,
+      "word": "刘昊然胡子",
+      "onboard_time": 1688358081,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1350127,
@@ -219,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 913971,
-      "num": 494333,
-      "word": "刘昊然胡子",
-      "onboard_time": 1688358081,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 896685,
       "num": 896685,
       "word": "室友卖掉了我将近十年的青春",
@@ -267,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 750385,
+      "num": 350708,
+      "word": "2PM 少女时代",
+      "onboard_time": 1688358625,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700230,
       "num": 700230,
       "word": "时影一定要杀朱颜的原因",
@@ -288,6 +312,14 @@
       "word": "武汉牛肉粉店一天卖光一头牛",
       "onboard_time": 1688348429,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686573,
+      "num": 686573,
+      "word": "红黄蓝早教中心回应被指虐童",
+      "onboard_time": 1688359244,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -483,14 +515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 422391,
-      "num": 350708,
-      "word": "2PM 少女时代",
-      "onboard_time": 1688358625,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 421470,
       "num": 275517,
       "word": "只能骗骗涉世未深的小狗",
@@ -537,6 +561,14 @@
       "onboard_time": 1688356341,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373521,
+      "num": 373521,
+      "word": "警方前往炎亚纶家中搜查",
+      "onboard_time": 1688361516,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 360676,
@@ -603,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339765,
+      "num": 263313,
+      "word": "心肺复苏急救一只迷你小青蛙",
+      "onboard_time": 1688358081,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 335652,
       "num": 335652,
       "word": "顾九思柳玉茹诀别吻",
@@ -633,6 +673,14 @@
       "onboard_time": 1688352451,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 328815,
+      "num": 262431,
+      "word": "陶喆新歌流沙",
+      "onboard_time": 1688360268,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 325699,
@@ -747,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282762,
+      "num": 282762,
+      "word": "和熊猫对上眼了是什么体验",
+      "onboard_time": 1688360683,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 274447,
       "num": 309791,
       "word": "熊猫泡澡全程陷入沉思",
@@ -779,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261978,
+      "num": 261978,
+      "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
+      "onboard_time": 1688360039,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258166,
       "num": 258166,
       "word": "张杰你敢不敢转过来",
@@ -787,12 +851,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256649,
+      "num": 500156,
+      "word": "原神 枫丹预告片",
+      "onboard_time": 1688360446,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253621,
       "num": 240010,
       "word": "赵露思8集换29套衣服",
       "onboard_time": 1688295933,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253612,
+      "num": 239094,
+      "word": "BLACKPINK音乐节好辣",
+      "onboard_time": 1688360914,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 244318,
@@ -851,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232249,
+      "num": 272388,
+      "word": "中国女游客在马来西亚机场遭索贿",
+      "onboard_time": 1688358378,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 228409,
       "num": 228409,
       "word": "宋轶发了五条微博",
@@ -881,6 +969,14 @@
       "onboard_time": 1688337679,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206885,
+      "num": 237990,
+      "word": "妈妈发女儿视频网友提醒孩子有反颌",
+      "onboard_time": 1688361278,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201016,
@@ -985,14 +1081,6 @@
       "onboard_time": 1688345975,
       "rank": 41,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 177063,
-      "num": 272388,
-      "word": "中国女游客在马来西亚机场遭索贿",
-      "onboard_time": 1688358378,
-      "rank": 49,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 175882,
