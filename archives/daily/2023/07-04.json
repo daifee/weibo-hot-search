@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688426413780,
+  "endTime": 1688427235950,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1448199,
+      "num": 640473,
+      "word": "超7成年轻人存款不足10万",
+      "onboard_time": 1688423780,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1132388,
       "num": 1023349,
       "word": "蔡徐坤委托律所将提起刑事自诉",
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 964742,
-      "num": 559780,
-      "word": "超7成年轻人存款不足10万",
-      "onboard_time": 1688423780,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 927976,
       "num": 211753,
       "word": "蔡徐坤 照片不是我",
@@ -99,6 +99,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 702967,
+      "num": 702967,
+      "word": "大熊猫萌兰",
+      "onboard_time": 1688414173,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 669796,
       "num": 446601,
       "word": "秦牛正威官宣订婚后首现身",
@@ -107,12 +115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 616750,
-      "num": 616750,
-      "word": "大熊猫萌兰",
-      "onboard_time": 1688414173,
-      "rank": 8,
-      "category": "社会新闻,情感"
+      "raw_hot": 565443,
+      "num": 565443,
+      "word": "如何评价蔡徐坤道歉",
+      "onboard_time": 1688413453,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 526062,
@@ -171,20 +179,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403050,
+      "num": 403050,
+      "word": "父亲和丈夫的尊重要自己去赚",
+      "onboard_time": 1688405540,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 393665,
       "num": 393665,
       "word": "杨蓉的身材",
       "onboard_time": 1688393441,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 386171,
-      "num": 386171,
-      "word": "如何评价蔡徐坤道歉",
-      "onboard_time": 1688413453,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 383616,
@@ -211,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 351027,
+      "num": 285996,
+      "word": "看书与不看书的区别",
+      "onboard_time": 1688391636,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 340725,
       "num": 340725,
       "word": "非常理解李雪琴",
@@ -219,20 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325640,
-      "num": 285996,
-      "word": "看书与不看书的区别",
-      "onboard_time": 1688391636,
-      "rank": 21,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 318287,
-      "num": 318287,
-      "word": "父亲和丈夫的尊重要自己去赚",
-      "onboard_time": 1688405540,
-      "rank": 48,
-      "category": "社会新闻,情感"
+      "raw_hot": 326165,
+      "num": 326165,
+      "word": "店长回应多个榴莲被偷吃损失近千元",
+      "onboard_time": 1688420413,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312695,
@@ -315,6 +323,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 245811,
+      "num": 245811,
+      "word": "亚运会名单",
+      "onboard_time": 1688426668,
+      "rank": 15,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 241888,
       "num": 241888,
       "word": "男友留的瓜",
@@ -329,14 +345,6 @@
       "onboard_time": 1688382639,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 231424,
-      "num": 231424,
-      "word": "店长回应多个榴莲被偷吃损失近千元",
-      "onboard_time": 1688420413,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225216,
@@ -361,6 +369,30 @@
       "onboard_time": 1688393863,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185823,
+      "num": 185823,
+      "word": "越南因南海九段线禁止芭比上映",
+      "onboard_time": 1688426546,
+      "rank": 19,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 185589,
+      "num": 185589,
+      "word": "偷偷藏不住今晚全糖轰炸",
+      "onboard_time": 1688409556,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183542,
+      "num": 183542,
+      "word": "当你去女朋友家超过四次之后",
+      "onboard_time": 1688385637,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 181861,
@@ -393,14 +425,6 @@
       "onboard_time": 1688389543,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174287,
-      "num": 174287,
-      "word": "当你去女朋友家超过四次之后",
-      "onboard_time": 1688385637,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 170936,
@@ -451,14 +475,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 158991,
-      "num": 158991,
-      "word": "偷偷藏不住今晚全糖轰炸",
-      "onboard_time": 1688409556,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158407,
       "num": 158407,
       "word": "女子外卖备注多放醋商家送1大袋",
@@ -467,12 +483,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156894,
+      "num": 156894,
+      "word": "周杰伦你真的不热吗",
+      "onboard_time": 1688426849,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154270,
       "num": 154270,
       "word": "山东泰山",
       "onboard_time": 1688393021,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150373,
+      "num": 1188022,
+      "word": "巨型海底盲盒开出超18万件文物",
+      "onboard_time": 1688393504,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149008,
+      "num": 149008,
+      "word": "女明星live图是这样拍出来的",
+      "onboard_time": 1688425404,
+      "rank": 45,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 146624,
@@ -491,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144435,
-      "num": 1188022,
-      "word": "巨型海底盲盒开出超18万件文物",
-      "onboard_time": 1688393504,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 143180,
+      "num": 143180,
+      "word": "BLG三人入选亚运会名单",
+      "onboard_time": 1688427148,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 141296,
@@ -507,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133793,
+      "num": 133793,
+      "word": "程潇销冠",
+      "onboard_time": 1688426849,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100803,
       "num": 100803,
       "word": "男子激流中勇救落水女子",
@@ -515,20 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82185,
-      "num": 82185,
+      "raw_hot": 98630,
+      "num": 98630,
       "word": "一边健身一边抓到潜逃30年命案逃犯",
       "onboard_time": 1688425766,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79975,
-      "num": 79975,
-      "word": "女明星live图是这样拍出来的",
-      "onboard_time": 1688425404,
-      "rank": 45,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 79928,

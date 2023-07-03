@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688426413780,
+  "endTime": 1688427235950,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1448199,
+      "num": 640473,
+      "word": "超7成年轻人存款不足10万",
+      "onboard_time": 1688423780,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1428840,
       "num": 1428840,
       "word": "TES官博辟谣",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1688183792,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 964742,
-      "num": 559780,
-      "word": "超7成年轻人存款不足10万",
-      "onboard_time": 1688423780,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 961564,
@@ -1819,6 +1819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 702967,
+      "num": 702967,
+      "word": "大熊猫萌兰",
+      "onboard_time": 1688414173,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 702202,
       "num": 702202,
       "word": "慷慨病",
@@ -2267,14 +2275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 616750,
-      "num": 616750,
-      "word": "大熊猫萌兰",
-      "onboard_time": 1688414173,
-      "rank": 8,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 606794,
       "num": 606794,
       "word": "大学毕业生带小黄鸭坐火车被拒",
@@ -2465,6 +2465,14 @@
       "onboard_time": 1688212410,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 565443,
+      "num": 565443,
+      "word": "如何评价蔡徐坤道歉",
+      "onboard_time": 1688413453,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 565266,
@@ -3459,6 +3467,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 403050,
+      "num": 403050,
+      "word": "父亲和丈夫的尊重要自己去赚",
+      "onboard_time": 1688405540,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 401701,
       "num": 401701,
       "word": "他是一颗星 但你是自己的太阳",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1688303380,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 386171,
-      "num": 386171,
-      "word": "如何评价蔡徐坤道歉",
-      "onboard_time": 1688413453,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 384036,
@@ -4235,6 +4243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 326165,
+      "num": 326165,
+      "word": "店长回应多个榴莲被偷吃损失近千元",
+      "onboard_time": 1688420413,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325699,
       "num": 295099,
       "word": "王阳到底演过多少姐夫",
@@ -4353,14 +4369,6 @@
       "onboard_time": 1688352508,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 318287,
-      "num": 318287,
-      "word": "父亲和丈夫的尊重要自己去赚",
-      "onboard_time": 1688405540,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 317310,
@@ -5595,6 +5603,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 245811,
+      "num": 245811,
+      "word": "亚运会名单",
+      "onboard_time": 1688426668,
+      "rank": 15,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 244788,
       "num": 244788,
       "word": "贾静雯无袖旗袍",
@@ -5857,14 +5873,6 @@
       "onboard_time": 1688228072,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231424,
-      "num": 231424,
-      "word": "店长回应多个榴莲被偷吃损失近千元",
-      "onboard_time": 1688420413,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231348,
@@ -6963,12 +6971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185823,
+      "num": 185823,
+      "word": "越南因南海九段线禁止芭比上映",
+      "onboard_time": 1688426546,
+      "rank": 19,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 185814,
       "num": 253038,
       "word": "Kindle真的要拿来盖泡面了",
       "onboard_time": 1688130336,
       "rank": 29,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 185589,
+      "num": 185589,
+      "word": "偷偷藏不住今晚全糖轰炸",
+      "onboard_time": 1688409556,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 185513,
@@ -7411,14 +7435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158991,
-      "num": 158991,
-      "word": "偷偷藏不住今晚全糖轰炸",
-      "onboard_time": 1688409556,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158407,
       "num": 158407,
       "word": "女子外卖备注多放醋商家送1大袋",
@@ -7449,6 +7465,14 @@
       "onboard_time": 1688278891,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156894,
+      "num": 156894,
+      "word": "周杰伦你真的不热吗",
+      "onboard_time": 1688426849,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 156720,
@@ -7555,6 +7579,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 149008,
+      "num": 149008,
+      "word": "女明星live图是这样拍出来的",
+      "onboard_time": 1688425404,
+      "rank": 45,
+      "category": "美妆,幽默"
+    },
+    {
       "raw_hot": 147775,
       "num": 147775,
       "word": "金沙江落水女孩拜救人者为干爹",
@@ -7611,6 +7643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143180,
+      "num": 143180,
+      "word": "BLG三人入选亚运会名单",
+      "onboard_time": 1688427148,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141549,
       "num": 141549,
       "word": "媒体称消失的她抓住了婚恋焦虑红利",
@@ -7665,6 +7705,14 @@
       "onboard_time": 1688143230,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133793,
+      "num": 133793,
+      "word": "程潇销冠",
+      "onboard_time": 1688426849,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 132008,
@@ -7835,6 +7883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98630,
+      "num": 98630,
+      "word": "一边健身一边抓到潜逃30年命案逃犯",
+      "onboard_time": 1688425766,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98133,
       "num": 98133,
       "word": "独行侠续约欧文",
@@ -7971,14 +8027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82185,
-      "num": 82185,
-      "word": "一边健身一边抓到潜逃30年命案逃犯",
-      "onboard_time": 1688425766,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81552,
       "num": 81552,
       "word": "倪妮出海墨镜自拍",
@@ -7993,14 +8041,6 @@
       "onboard_time": 1688232801,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79975,
-      "num": 79975,
-      "word": "女明星live图是这样拍出来的",
-      "onboard_time": 1688425404,
-      "rank": 45,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 79928,
