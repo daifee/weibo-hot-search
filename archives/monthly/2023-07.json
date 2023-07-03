@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688362509870,
+  "endTime": 1688365501685,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -145,6 +145,22 @@
       "onboard_time": 1688219853,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 3329910,
+      "num": 3329910,
+      "word": "郑爽及其工作室被限制高消费",
+      "onboard_time": 1688363408,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3201590,
+      "num": 625949,
+      "word": "秦牛正威订婚",
+      "onboard_time": 1688364119,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 3073693,
@@ -899,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 974507,
+      "num": 974507,
+      "word": "炎亚纶前往警局做笔录",
+      "onboard_time": 1688361937,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970243,
       "num": 632536,
       "word": "这和官宣有什么差别",
@@ -1307,12 +1331,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 759408,
-      "num": 435254,
-      "word": "炎亚纶前往警局做笔录",
-      "onboard_time": 1688361937,
+      "raw_hot": 760146,
+      "num": 387264,
+      "word": "杨紫官宣MLB棒球大使",
+      "onboard_time": 1688363178,
       "rank": 20,
-      "category": "艺人"
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 758916,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1688284833,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 682284,
+      "num": 432637,
+      "word": "我就知道这个单位来对了",
+      "onboard_time": 1688362297,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 681135,
@@ -2379,14 +2411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 477187,
-      "num": 432637,
-      "word": "我就知道这个单位来对了",
-      "onboard_time": 1688362297,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 476288,
       "num": 476288,
       "word": "Ella说被张嘉倪喜欢真的很好命",
@@ -2852,7 +2876,7 @@
     },
     {
       "raw_hot": 395220,
-      "num": 280218,
+      "num": 326601,
       "word": "陶喆新歌流沙",
       "onboard_time": 1688360268,
       "rank": 36,
@@ -2905,6 +2929,14 @@
       "onboard_time": 1688303618,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387715,
+      "num": 387715,
+      "word": "妈妈发女儿视频网友提醒孩子有反颌",
+      "onboard_time": 1688361278,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386909,
@@ -2977,6 +3009,14 @@
       "onboard_time": 1688301638,
       "rank": 22,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 378576,
+      "num": 378576,
+      "word": "今晚不用再吃偷偷藏不住断更的苦",
+      "onboard_time": 1688363763,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 378352,
@@ -3300,7 +3340,7 @@
     },
     {
       "raw_hot": 339765,
-      "num": 263313,
+      "num": 381317,
       "word": "心肺复苏急救一只迷你小青蛙",
       "onboard_time": 1688358081,
       "rank": 34,
@@ -3321,14 +3361,6 @@
       "onboard_time": 1688134478,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333125,
-      "num": 333125,
-      "word": "妈妈发女儿视频网友提醒孩子有反颌",
-      "onboard_time": 1688361278,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332821,
@@ -3940,7 +3972,7 @@
     },
     {
       "raw_hot": 282762,
-      "num": 282762,
+      "num": 326521,
       "word": "和熊猫对上眼了是什么体验",
       "onboard_time": 1688360683,
       "rank": 27,
@@ -4155,6 +4187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 267943,
+      "num": 326573,
+      "word": "快乐的大人",
+      "onboard_time": 1688362592,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266463,
       "num": 266463,
       "word": "什么病人明明是我本人",
@@ -4356,7 +4396,7 @@
     },
     {
       "raw_hot": 253612,
-      "num": 240952,
+      "num": 326564,
       "word": "BLACKPINK音乐节好辣",
       "onboard_time": 1688360914,
       "rank": 43,
@@ -4987,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218048,
+      "num": 385785,
+      "word": "网络空间是未成年人学习娱乐的重要空间",
+      "onboard_time": 1688362824,
+      "rank": 24,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 217547,
       "num": 219623,
       "word": "夏目友人帐第7季制作决定",
@@ -5064,6 +5112,14 @@
       "word": "女大学生向男生泼热水致二度烧伤",
       "onboard_time": 1688218832,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214098,
+      "num": 330494,
+      "word": "当事人回应跳下站台救孩子",
+      "onboard_time": 1688362709,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -5819,6 +5875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174251,
+      "num": 326902,
+      "word": "LPL",
+      "onboard_time": 1688365377,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "如果让亲妈做你婆婆",
@@ -5969,6 +6033,14 @@
       "onboard_time": 1688296774,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160570,
+      "num": 326589,
+      "word": "2023年暑期未成年人网络环境整治",
+      "onboard_time": 1688365251,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160159,
@@ -6211,6 +6283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130432,
+      "num": 326502,
+      "word": "MLB美职棒大联盟",
+      "onboard_time": 1688365317,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130206,
       "num": 130206,
       "word": "黄景瑜这一脚踹的好实在",
@@ -6225,6 +6305,14 @@
       "onboard_time": 1688215170,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 128325,
+      "num": 326513,
+      "word": "河南升级发布暴雨黄色预警",
+      "onboard_time": 1688364657,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126180,
@@ -6393,6 +6481,14 @@
       "onboard_time": 1688254040,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88435,
+      "num": 326538,
+      "word": "澳大利亚还有多少惊喜",
+      "onboard_time": 1688363117,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 88261,

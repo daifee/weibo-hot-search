@@ -1,0 +1,410 @@
+{
+  "runTime": 1688365501685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17760003,
+        "num": 17760003,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10087932,
+        "num": 10087932,
+        "word": "蔡徐坤回应",
+        "onboard_time": 1688355463,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16687,
+        "num": 3769893,
+        "word": "他们获颁光荣在党50年纪念章",
+        "onboard_time": 1688306982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8897978,
+        "num": 8897978,
+        "word": "汪峰发了个锤子",
+        "onboard_time": 1688358879,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3329910,
+        "num": 3329910,
+        "word": "郑爽及其工作室被限制高消费",
+        "onboard_time": 1688363408,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2179165,
+        "num": 2179165,
+        "word": "警方前往炎亚纶家中搜查",
+        "onboard_time": 1688361516,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 974507,
+        "num": 974507,
+        "word": "炎亚纶前往警局做笔录",
+        "onboard_time": 1688361937,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 962699,
+        "num": 962699,
+        "word": "刘昊然胡子",
+        "onboard_time": 1688358081,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 773167,
+        "num": 773167,
+        "word": "缅甸逃回男子忆水牢满地是血",
+        "onboard_time": 1688351070,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659885,
+        "num": 659885,
+        "word": "人大毕业生马某某被刑拘",
+        "onboard_time": 1688354013,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 5260239,
+        "num": 641468,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4847467,
+        "num": 626224,
+        "word": "蔡徐坤工作室声明",
+        "onboard_time": 1688356997,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3201590,
+        "num": 625949,
+        "word": "秦牛正威订婚",
+        "onboard_time": 1688364119,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610910,
+        "num": 610910,
+        "word": "睡觉时身体为什么会抖一下",
+        "onboard_time": 1688343392,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 501384,
+        "num": 501384,
+        "word": "红黄蓝早教中心回应被指虐童",
+        "onboard_time": 1688359244,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3153065,
+        "num": 498824,
+        "word": "央视频下架蔡徐坤所有视频",
+        "onboard_time": 1688299053,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1158683,
+        "num": 496276,
+        "word": "韩媒曝李俊昊林允儿恋情",
+        "onboard_time": 1688352872,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491873,
+        "num": 491873,
+        "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
+        "onboard_time": 1688360039,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387715,
+        "num": 387715,
+        "word": "妈妈发女儿视频网友提醒孩子有反颌",
+        "onboard_time": 1688361278,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368279,
+        "num": 387592,
+        "word": "相爱和分手的原因都是同一个",
+        "onboard_time": 1688338940,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 760146,
+        "num": 387264,
+        "word": "杨紫官宣MLB棒球大使",
+        "onboard_time": 1688363178,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 682284,
+        "num": 386963,
+        "word": "我就知道这个单位来对了",
+        "onboard_time": 1688362297,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 627891,
+        "num": 386460,
+        "word": "李俊昊林允儿方回应恋情",
+        "onboard_time": 1688354493,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294560,
+        "num": 386163,
+        "word": "越南高考的中文题",
+        "onboard_time": 1688342309,
+        "rank": 23,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 218048,
+        "num": 385785,
+        "word": "网络空间是未成年人学习娱乐的重要空间",
+        "onboard_time": 1688362824,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 468432,
+        "num": 385462,
+        "word": "海口三子大闹周杰伦演唱会",
+        "onboard_time": 1688352332,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 422377,
+        "num": 385360,
+        "word": "迪丽热巴腿咚龚俊",
+        "onboard_time": 1688349331,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416358,
+        "num": 384821,
+        "word": "任敏有刘海vs没刘海",
+        "onboard_time": 1688355092,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384810,
+        "num": 384810,
+        "word": "花少北 一直逃避回应做视频的问题",
+        "onboard_time": 1688353050,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206954,
+        "num": 381317,
+        "word": "心肺复苏急救一只迷你小青蛙",
+        "onboard_time": 1688358081,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464323,
+        "num": 380859,
+        "word": "李一桐光脚放飞机座椅上",
+        "onboard_time": 1688341890,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378576,
+        "num": 378576,
+        "word": "今晚不用再吃偷偷藏不住断更的苦",
+        "onboard_time": 1688363763,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214098,
+        "num": 330494,
+        "word": "当事人回应跳下站台救孩子",
+        "onboard_time": 1688362709,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180125,
+        "num": 328505,
+        "word": "在高铁上吃泡面被说没有素质",
+        "onboard_time": 1688350649,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174251,
+        "num": 326902,
+        "word": "LPL",
+        "onboard_time": 1688365377,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326608,
+        "num": 326608,
+        "word": "2PM 少女时代",
+        "onboard_time": 1688358625,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292932,
+        "num": 326601,
+        "word": "陶喆新歌流沙",
+        "onboard_time": 1688360268,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164234,
+        "num": 326593,
+        "word": "原神",
+        "onboard_time": 1688358201,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160570,
+        "num": 326589,
+        "word": "2023年暑期未成年人网络环境整治",
+        "onboard_time": 1688365251,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153960,
+        "num": 326584,
+        "word": "偷偷藏不住厦门取景地客流翻倍",
+        "onboard_time": 1688354734,
+        "rank": 39,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 267943,
+        "num": 326573,
+        "word": "快乐的大人",
+        "onboard_time": 1688362592,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249050,
+        "num": 326564,
+        "word": "BLACKPINK音乐节好辣",
+        "onboard_time": 1688360914,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248281,
+        "num": 326560,
+        "word": "周冬雨刘昊然屈楚萧极限拉扯",
+        "onboard_time": 1688352090,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241229,
+        "num": 326550,
+        "word": "肖战演王楚然表哥",
+        "onboard_time": 1688349450,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88435,
+        "num": 326538,
+        "word": "澳大利亚还有多少惊喜",
+        "onboard_time": 1688363117,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146429,
+        "num": 326534,
+        "word": "5岁女孩离世救了4个人",
+        "onboard_time": 1688354613,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229406,
+        "num": 326527,
+        "word": "范伟虞书欣加入非诚勿扰3",
+        "onboard_time": 1688352750,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151649,
+        "num": 326521,
+        "word": "和熊猫对上眼了是什么体验",
+        "onboard_time": 1688360683,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128325,
+        "num": 326513,
+        "word": "河南升级发布暴雨黄色预警",
+        "onboard_time": 1688364657,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130432,
+        "num": 326502,
+        "word": "MLB美职棒大联盟",
+        "onboard_time": 1688365317,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#平均年龄89岁的老党员们谈初心#"
+    }
+  }
+}
