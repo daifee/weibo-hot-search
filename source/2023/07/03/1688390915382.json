@@ -1,0 +1,410 @@
+{
+  "runTime": 1688390915382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5487239,
+        "num": 5487239,
+        "word": "广东地震",
+        "onboard_time": 1688389600,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913410,
+        "num": 913410,
+        "word": "肖战玉骨遥里也有陈情令演员",
+        "onboard_time": 1688389543,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79402,
+        "num": 906984,
+        "word": "太空种菜自给自足真的要实现啦",
+        "onboard_time": 1688384380,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 8546225,
+        "num": 906781,
+        "word": "蔡徐坤报案回执",
+        "onboard_time": 1688380665,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049628,
+        "num": 906745,
+        "word": "宋轶是不是男生都喜欢的类型",
+        "onboard_time": 1688389059,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 906380,
+        "num": 906380,
+        "word": "孟子义把周也哄睡后去打牌",
+        "onboard_time": 1688382639,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 733735,
+        "num": 733735,
+        "word": "我的新娘被人说好像杨紫",
+        "onboard_time": 1688377781,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 596743,
+        "num": 596743,
+        "word": "找对象要找帅的 只有帅才是真的",
+        "onboard_time": 1688381505,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 563618,
+        "num": 563618,
+        "word": "广东能听见蟑螂的脚步声",
+        "onboard_time": 1688383778,
+        "rank": 8,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 551693,
+        "num": 551693,
+        "word": "吴磊深V",
+        "onboard_time": 1688390142,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 605210,
+        "num": 549873,
+        "word": "男友留的瓜",
+        "onboard_time": 1688389661,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 595729,
+        "num": 548974,
+        "word": "秦牛正威订婚",
+        "onboard_time": 1688364119,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544456,
+        "num": 544456,
+        "word": "快去看月亮",
+        "onboard_time": 1688388818,
+        "rank": 12,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 543681,
+        "num": 543681,
+        "word": "中南大学一校友向母校捐赠6亿",
+        "onboard_time": 1688388940,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 525056,
+        "num": 525056,
+        "word": "张睿直播",
+        "onboard_time": 1688387141,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509608,
+        "num": 509608,
+        "word": "周翊然陈哲远Gucci大片",
+        "onboard_time": 1688382639,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 500230,
+        "num": 500230,
+        "word": "微信支付每月免费提现额度",
+        "onboard_time": 1688376404,
+        "rank": 16,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 480975,
+        "num": 480975,
+        "word": "北京动物园",
+        "onboard_time": 1688385161,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451058,
+        "num": 451058,
+        "word": "真情侣vs假情侣回应",
+        "onboard_time": 1688384916,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 394859,
+        "num": 394859,
+        "word": "为什么运钞车不直接运一张银行卡",
+        "onboard_time": 1688388579,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 2127771,
+        "num": 394072,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383786,
+        "num": 383786,
+        "word": "萌兰花花和叶生日快乐",
+        "onboard_time": 1688389418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382954,
+        "num": 382954,
+        "word": "非洲女孩远嫁中国农村当短视频博主",
+        "onboard_time": 1688377184,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1621589,
+        "num": 377528,
+        "word": "蔡徐坤是否涉及法律问题",
+        "onboard_time": 1688387920,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 370299,
+        "num": 370299,
+        "word": "空气炸锅里放烤纸的要小心了",
+        "onboard_time": 1688378679,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365129,
+        "num": 365129,
+        "word": "李承铉参加张杰谢娜婚礼晕倒了",
+        "onboard_time": 1688371004,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1057204,
+        "num": 362254,
+        "word": "蔡徐坤回应",
+        "onboard_time": 1688355463,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351756,
+        "num": 351756,
+        "word": "当你去女朋友家超过四次之后",
+        "onboard_time": 1688385637,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342128,
+        "num": 342128,
+        "word": "下次不许带情绪上班了",
+        "onboard_time": 1688384858,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 823052,
+        "num": 327181,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291699,
+        "num": 291699,
+        "word": "赵丽颖 CL",
+        "onboard_time": 1688370823,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 276811,
+        "num": 276811,
+        "word": "林俊杰直播",
+        "onboard_time": 1688388277,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275120,
+        "num": 275120,
+        "word": "北京一地接导游中暑死亡",
+        "onboard_time": 1688380546,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 274863,
+        "num": 274863,
+        "word": "雨衣可以先给我跳楼的事情再慢慢谈",
+        "onboard_time": 1688390322,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269337,
+        "num": 269337,
+        "word": "消失的她",
+        "onboard_time": 1688389600,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248518,
+        "num": 248518,
+        "word": "肖战玉骨遥片头插画",
+        "onboard_time": 1688384620,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235352,
+        "num": 235352,
+        "word": "内娱圆脸女明星",
+        "onboard_time": 1688381625,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224975,
+        "num": 224975,
+        "word": "老板给发财树装了监控",
+        "onboard_time": 1688384259,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221286,
+        "num": 221286,
+        "word": "对方撤回了一个老太太",
+        "onboard_time": 1688366573,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219087,
+        "num": 219087,
+        "word": "宋轶困的原因找到了",
+        "onboard_time": 1688386960,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209107,
+        "num": 209107,
+        "word": "应届生刚入职一周就想辞职",
+        "onboard_time": 1688376823,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200341,
+        "num": 200341,
+        "word": "汪峰发了个锤子",
+        "onboard_time": 1688358879,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199057,
+        "num": 199057,
+        "word": "纵观整个泼水节无人敢与之抗衡",
+        "onboard_time": 1688390623,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196113,
+        "num": 196113,
+        "word": "男子钓的58斤大花鲢坐上特等座",
+        "onboard_time": 1688383000,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182033,
+        "num": 182033,
+        "word": "八角笼中",
+        "onboard_time": 1688390860,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179262,
+        "num": 179262,
+        "word": "孕妇大出血遇早高峰交警咆哮开道",
+        "onboard_time": 1688380126,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177297,
+        "num": 177297,
+        "word": "没想到马也有这么矮的",
+        "onboard_time": 1688390745,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174859,
+        "num": 174859,
+        "word": "P人的一生",
+        "onboard_time": 1688390745,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174102,
+        "num": 174102,
+        "word": "这是我配看的古偶吻戏吗",
+        "onboard_time": 1688376880,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161373,
+        "num": 161373,
+        "word": "温网",
+        "onboard_time": 1688390860,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#用忠诚守护祖国的平安#"
+    }
+  }
+}

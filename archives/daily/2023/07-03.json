@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688389203370,
+  "endTime": 1688390915382,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -65,6 +65,14 @@
       "onboard_time": 1688354013,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 5487239,
+      "num": 5487239,
+      "word": "广东地震",
+      "onboard_time": 1688389600,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5268532,
@@ -177,6 +185,14 @@
       "onboard_time": 1688342309,
       "rank": 0,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 1621589,
+      "num": 586463,
+      "word": "蔡徐坤是否涉及法律问题",
+      "onboard_time": 1688387920,
+      "rank": 22,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1613803,
@@ -355,6 +371,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1049628,
+      "num": 906745,
+      "word": "宋轶是不是男生都喜欢的类型",
+      "onboard_time": 1688389059,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1016417,
       "num": 1016417,
       "word": "环卫工人儿子高考687分被多校电话争抢",
@@ -393,14 +417,6 @@
       "onboard_time": 1688366808,
       "rank": 5,
       "category": "情感,影视"
-    },
-    {
-      "raw_hot": 976866,
-      "num": 586463,
-      "word": "蔡徐坤是否涉及法律问题",
-      "onboard_time": 1688387920,
-      "rank": 22,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 974507,
@@ -456,6 +472,14 @@
       "word": "任敏有刘海vs没刘海",
       "onboard_time": 1688355092,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 913410,
+      "num": 913410,
+      "word": "肖战玉骨遥里也有陈情令演员",
+      "onboard_time": 1688389543,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -707,6 +731,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 605210,
+      "num": 549873,
+      "word": "男友留的瓜",
+      "onboard_time": 1688389661,
+      "rank": 10,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 590220,
       "num": 918814,
       "word": "妈妈发女儿视频网友提醒孩子有反颌",
@@ -763,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551693,
+      "num": 551693,
+      "word": "吴磊深V",
+      "onboard_time": 1688390142,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 547332,
       "num": 547332,
       "word": "网友理解的李木子手势",
@@ -771,12 +811,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 544456,
+      "num": 544456,
+      "word": "快去看月亮",
+      "onboard_time": 1688388818,
+      "rank": 24,
+      "category": "自然"
+    },
+    {
       "raw_hot": 543725,
       "num": 543725,
       "word": "LPL",
       "onboard_time": 1688365377,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 543681,
+      "num": 543681,
+      "word": "中南大学一校友向母校捐赠6亿",
+      "onboard_time": 1688388940,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 533351,
@@ -1035,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 394859,
+      "num": 394859,
+      "word": "为什么运钞车不直接运一张银行卡",
+      "onboard_time": 1688388579,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 394198,
       "num": 394198,
       "word": "香港市民为驻港部队官兵撑伞",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1688374842,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 383786,
+      "num": 383786,
+      "word": "萌兰花花和叶生日快乐",
+      "onboard_time": 1688389418,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383235,
@@ -1177,6 +1249,14 @@
       "onboard_time": 1688344773,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 342128,
+      "num": 342128,
+      "word": "下次不许带情绪上班了",
+      "onboard_time": 1688384858,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 341849,
@@ -1315,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309898,
-      "num": 309898,
-      "word": "下次不许带情绪上班了",
-      "onboard_time": 1688384858,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 307965,
       "num": 307965,
       "word": "河马炫西瓜么得技术全是感情",
@@ -1403,14 +1475,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 288243,
-      "num": 288243,
-      "word": "宋轶是不是男生都喜欢的类型",
-      "onboard_time": 1688389059,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 284123,
       "num": 249974,
       "word": "玉骨遥美工好忙",
@@ -1435,12 +1499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277399,
-      "num": 300072,
-      "word": "快去看月亮",
-      "onboard_time": 1688388818,
-      "rank": 24,
-      "category": "自然"
+      "raw_hot": 274863,
+      "num": 274863,
+      "word": "雨衣可以先给我跳楼的事情再慢慢谈",
+      "onboard_time": 1688390322,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 274447,
@@ -1483,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269337,
+      "num": 269337,
+      "word": "消失的她",
+      "onboard_time": 1688389600,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269178,
       "num": 269178,
       "word": "偷偷藏不住",
@@ -1497,14 +1569,6 @@
       "onboard_time": 1688362592,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265650,
-      "num": 265650,
-      "word": "中南大学一校友向母校捐赠6亿",
-      "onboard_time": 1688388940,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 259103,
@@ -1811,14 +1875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202560,
-      "num": 202560,
-      "word": "为什么运钞车不直接运一张银行卡",
-      "onboard_time": 1688388579,
-      "rank": 41,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 201799,
       "num": 201799,
       "word": "因为不想结婚然后被妈妈骂了",
@@ -1865,6 +1921,14 @@
       "onboard_time": 1688303801,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199057,
+      "num": 199057,
+      "word": "纵观整个泼水节无人敢与之抗衡",
+      "onboard_time": 1688390623,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 198991,
@@ -2003,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182033,
+      "num": 182033,
+      "word": "八角笼中",
+      "onboard_time": 1688390860,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177384,
       "num": 177384,
       "word": "好奇熊猫宝宝啥都要尝尝",
@@ -2019,6 +2091,14 @@
       "category": "幽默,游戏"
     },
     {
+      "raw_hot": 177297,
+      "num": 177297,
+      "word": "没想到马也有这么矮的",
+      "onboard_time": 1688390745,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177172,
       "num": 177172,
       "word": "周杰伦演唱会现场安保合唱你听得到视频",
@@ -2033,6 +2113,14 @@
       "onboard_time": 1688354493,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 174859,
+      "num": 174859,
+      "word": "P人的一生",
+      "onboard_time": 1688390745,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 174726,
@@ -2113,6 +2201,14 @@
       "onboard_time": 1688351188,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161373,
+      "num": 161373,
+      "word": "温网",
+      "onboard_time": 1688390860,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 158326,
@@ -2332,7 +2428,7 @@
     },
     {
       "raw_hot": 92117,
-      "num": 848203,
+      "num": 906984,
       "word": "太空种菜自给自足真的要实现啦",
       "onboard_time": 1688384380,
       "rank": 2,
