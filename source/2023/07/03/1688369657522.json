@@ -1,0 +1,410 @@
+{
+  "runTime": 1688369657522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13900489,
+        "num": 13900489,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8070107,
+        "num": 8070107,
+        "word": "蔡徐坤回应",
+        "onboard_time": 1688355463,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95742,
+        "num": 5362618,
+        "word": "毕业典礼催泪发言盘点",
+        "onboard_time": 1688368726,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3570793,
+        "num": 3570793,
+        "word": "汪峰发了个锤子",
+        "onboard_time": 1688358879,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 4664184,
+        "num": 3538676,
+        "word": "JackeyLove 赌博",
+        "onboard_time": 1688365790,
+        "rank": 4,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1428840,
+        "num": 1428840,
+        "word": "TES官博辟谣",
+        "onboard_time": 1688369265,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1010809,
+        "num": 1010809,
+        "word": "TES",
+        "onboard_time": 1688368550,
+        "rank": 6,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 839085,
+        "num": 839085,
+        "word": "时隔多年终于理解了宛瑜",
+        "onboard_time": 1688366808,
+        "rank": 7,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 635541,
+        "num": 819879,
+        "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
+        "onboard_time": 1688360039,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591492,
+        "num": 804585,
+        "word": "缅甸逃回男子忆水牢满地是血",
+        "onboard_time": 1688351070,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3055104,
+        "num": 779844,
+        "word": "秦牛正威订婚",
+        "onboard_time": 1688364119,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2639138,
+        "num": 761829,
+        "word": "蔡徐坤工作室声明",
+        "onboard_time": 1688356997,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2559366,
+        "num": 736112,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714941,
+        "num": 714941,
+        "word": "刘昊然胡子",
+        "onboard_time": 1688358081,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617695,
+        "num": 617695,
+        "word": "杨紫官宣MLB棒球大使",
+        "onboard_time": 1688363178,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 609020,
+        "num": 609020,
+        "word": "夫胜宽暂停活动",
+        "onboard_time": 1688365851,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547535,
+        "num": 547535,
+        "word": "央视频下架蔡徐坤所有视频",
+        "onboard_time": 1688299053,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537598,
+        "num": 537598,
+        "word": "妈妈发女儿视频网友提醒孩子有反颌",
+        "onboard_time": 1688361278,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499891,
+        "num": 499891,
+        "word": "对方撤回了一个老太太",
+        "onboard_time": 1688366573,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324753,
+        "num": 490855,
+        "word": "偶遇野生大熊猫淡定对视20分钟",
+        "onboard_time": 1688365076,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514415,
+        "num": 490036,
+        "word": "我就知道这个单位来对了",
+        "onboard_time": 1688362297,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 488548,
+        "num": 488548,
+        "word": "LPL",
+        "onboard_time": 1688365377,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 909418,
+        "num": 486201,
+        "word": "警方前往炎亚纶家中搜查",
+        "onboard_time": 1688361516,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 483849,
+        "num": 483849,
+        "word": "韩媒曝李俊昊林允儿恋情",
+        "onboard_time": 1688352872,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388416,
+        "num": 388416,
+        "word": "任敏有刘海vs没刘海",
+        "onboard_time": 1688355092,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368141,
+        "num": 368141,
+        "word": "睡觉时身体为什么会抖一下",
+        "onboard_time": 1688343392,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 362002,
+        "num": 362002,
+        "word": "赵露思回应被说圆脸",
+        "onboard_time": 1688368067,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352109,
+        "num": 352109,
+        "word": "原来得溃疡以毒攻毒是对的",
+        "onboard_time": 1688368907,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300684,
+        "num": 351045,
+        "word": "人大毕业生马某某被刑拘",
+        "onboard_time": 1688354013,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 294491,
+        "num": 350448,
+        "word": "女子刷单被骗22万仍不信民警",
+        "onboard_time": 1688366512,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369371,
+        "num": 350386,
+        "word": "李一桐光脚放飞机座椅上",
+        "onboard_time": 1688341890,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350057,
+        "num": 350057,
+        "word": "海口三子大闹周杰伦演唱会",
+        "onboard_time": 1688352332,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325079,
+        "num": 325079,
+        "word": "今晚不用再吃偷偷藏不住断更的苦",
+        "onboard_time": 1688363763,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319129,
+        "num": 319129,
+        "word": "李俊昊林允儿方回应恋情",
+        "onboard_time": 1688354493,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275095,
+        "num": 275095,
+        "word": "迪丽热巴腿咚龚俊",
+        "onboard_time": 1688349331,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295617,
+        "num": 274820,
+        "word": "炎亚纶前往警局做笔录",
+        "onboard_time": 1688361937,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271163,
+        "num": 271163,
+        "word": "花少北 一直逃避回应做视频的问题",
+        "onboard_time": 1688353050,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 264816,
+        "num": 264816,
+        "word": "亚运会",
+        "onboard_time": 1688367285,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260969,
+        "num": 260969,
+        "word": "周冬雨刘昊然屈楚萧极限拉扯",
+        "onboard_time": 1688352090,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258761,
+        "num": 258761,
+        "word": "红黄蓝早教中心回应被指虐童",
+        "onboard_time": 1688359244,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256610,
+        "num": 256610,
+        "word": "男子为献血保持身材20年不变",
+        "onboard_time": 1688369384,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253279,
+        "num": 253279,
+        "word": "网络空间是未成年人学习娱乐的重要空间",
+        "onboard_time": 1688362824,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 248584,
+        "num": 248584,
+        "word": "饿了么免单",
+        "onboard_time": 1688356997,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 247352,
+        "num": 247352,
+        "word": "钓鱼佬真的过年了",
+        "onboard_time": 1688369443,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247087,
+        "num": 247087,
+        "word": "在高铁上吃泡面是没有素质吗",
+        "onboard_time": 1688368786,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240917,
+        "num": 240917,
+        "word": "离职时这些文件不能签",
+        "onboard_time": 1688369265,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207500,
+        "num": 207500,
+        "word": "杨紫运动系女孩",
+        "onboard_time": 1688368372,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 207038,
+        "num": 207038,
+        "word": "5岁女孩离世救了4个人",
+        "onboard_time": 1688354613,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200854,
+        "num": 200854,
+        "word": "当事人回应跳下站台救孩子",
+        "onboard_time": 1688362709,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197266,
+        "num": 197266,
+        "word": "出卖军工涉密材料抓捕现场曝光",
+        "onboard_time": 1688369506,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把产业发展落到促进农民增收上来#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688368671900,
+  "endTime": 1688369657522,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 5268532,
-      "num": 1976062,
+      "num": 3538676,
       "word": "JackeyLove 赌博",
       "onboard_time": 1688365790,
       "rank": 5,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3232637,
-      "num": 625949,
+      "num": 779844,
       "word": "秦牛正威订婚",
       "onboard_time": 1688364119,
       "rank": 12,
@@ -169,6 +169,14 @@
       "onboard_time": 1688358081,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1428840,
+      "num": 1428840,
+      "word": "TES官博辟谣",
+      "onboard_time": 1688369265,
+      "rank": 5,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1359044,
@@ -259,6 +267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1010809,
+      "num": 1010809,
+      "word": "TES",
+      "onboard_time": 1688368550,
+      "rank": 38,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 1003452,
       "num": 1003452,
       "word": "安乐传",
@@ -307,8 +323,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 839085,
+      "num": 839085,
+      "word": "时隔多年终于理解了宛瑜",
+      "onboard_time": 1688366808,
+      "rank": 5,
+      "category": "情感,影视"
+    },
+    {
       "raw_hot": 830168,
-      "num": 414690,
+      "num": 617695,
       "word": "杨紫官宣MLB棒球大使",
       "onboard_time": 1688363178,
       "rank": 20,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 682284,
-      "num": 432637,
+      "num": 490036,
       "word": "我就知道这个单位来对了",
       "onboard_time": 1688362297,
       "rank": 22,
@@ -435,28 +459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 607105,
-      "num": 648897,
-      "word": "法国",
-      "onboard_time": 1688344172,
-      "rank": 15,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 598112,
-      "num": 598112,
+      "raw_hot": 635541,
+      "num": 819879,
       "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
       "onboard_time": 1688360039,
       "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584852,
-      "num": 584852,
-      "word": "时隔多年终于理解了宛瑜",
-      "onboard_time": 1688366808,
-      "rank": 5,
-      "category": "情感,影视"
+      "raw_hot": 607105,
+      "num": 648897,
+      "word": "法国",
+      "onboard_time": 1688344172,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 583591,
@@ -563,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499891,
+      "num": 499891,
+      "word": "对方撤回了一个老太太",
+      "onboard_time": 1688366573,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 487112,
       "num": 630683,
       "word": "原神 枫丹预告片",
@@ -625,14 +649,6 @@
       "onboard_time": 1688342611,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 426043,
-      "num": 354271,
-      "word": "对方撤回了一个老太太",
-      "onboard_time": 1688366573,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 421470,
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362002,
+      "num": 362002,
+      "word": "赵露思回应被说圆脸",
+      "onboard_time": 1688368067,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360676,
       "num": 360676,
       "word": "赚钱多和有下一代你会如何选择",
@@ -721,6 +745,14 @@
       "onboard_time": 1688351731,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352109,
+      "num": 352109,
+      "word": "原来得溃疡以毒攻毒是对的",
+      "onboard_time": 1688368907,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 351546,
@@ -809,6 +841,14 @@
       "onboard_time": 1688349930,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324753,
+      "num": 490855,
+      "word": "偶遇野生大熊猫淡定对视20分钟",
+      "onboard_time": 1688365076,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321749,
@@ -931,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295360,
-      "num": 295360,
-      "word": "赵露思回应被说圆脸",
-      "onboard_time": 1688368067,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 284123,
       "num": 249974,
       "word": "玉骨遥美工好忙",
@@ -1003,6 +1035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256610,
+      "num": 256610,
+      "word": "男子为献血保持身材20年不变",
+      "onboard_time": 1688369384,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253621,
       "num": 240010,
       "word": "赵露思8集换29套衣服",
@@ -1019,12 +1059,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 248173,
-      "num": 248173,
-      "word": "TES",
-      "onboard_time": 1688368550,
-      "rank": 38,
-      "category": "游戏,艺人"
+      "raw_hot": 253279,
+      "num": 385785,
+      "word": "网络空间是未成年人学习娱乐的重要空间",
+      "onboard_time": 1688362824,
+      "rank": 24,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 247352,
+      "num": 247352,
+      "word": "钓鱼佬真的过年了",
+      "onboard_time": 1688369443,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 247087,
+      "num": 247087,
+      "word": "在高铁上吃泡面是没有素质吗",
+      "onboard_time": 1688368786,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244318,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1688297434,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240917,
+      "num": 240917,
+      "word": "离职时这些文件不能签",
+      "onboard_time": 1688369265,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 236725,
@@ -1049,14 +1113,6 @@
       "onboard_time": 1688343273,
       "rank": 32,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 235322,
-      "num": 346171,
-      "word": "偶遇野生大熊猫淡定对视20分钟",
-      "onboard_time": 1688365076,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235166,
@@ -1097,14 +1153,6 @@
       "onboard_time": 1688358378,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 230987,
-      "num": 385785,
-      "word": "网络空间是未成年人学习娱乐的重要空间",
-      "onboard_time": 1688362824,
-      "rank": 24,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 229293,
@@ -1171,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207500,
+      "num": 207500,
+      "word": "杨紫运动系女孩",
+      "onboard_time": 1688368372,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 201016,
       "num": 233603,
       "word": "因女儿考705分打折庆祝的凉菜摊关门",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1688303801,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200262,
-      "num": 200262,
-      "word": "杨紫运动系女孩",
-      "onboard_time": 1688368372,
-      "rank": 42,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198991,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1688341409,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197266,
+      "num": 197266,
+      "word": "出卖军工涉密材料抓捕现场曝光",
+      "onboard_time": 1688369506,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194553,
@@ -1529,6 +1585,14 @@
       "onboard_time": 1688349269,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95742,
+      "num": 5362618,
+      "word": "毕业典礼催泪发言盘点",
+      "onboard_time": 1688368726,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95355,
