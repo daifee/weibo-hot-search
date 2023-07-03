@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688416435544,
+  "endTime": 1688419014756,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -2779,6 +2779,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 115939,
+      "num": 115939,
+      "word": "大熊猫萌兰",
+      "onboard_time": 1688414173,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 105177,
       "num": 268171,
       "word": "熊掌拨清波有画面了",
@@ -2873,14 +2881,6 @@
       "onboard_time": 1688316326,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77292,
-      "num": 77292,
-      "word": "大熊猫萌兰",
-      "onboard_time": 1688414173,
-      "rank": 8,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 76717,
@@ -2987,8 +2987,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27125,
-      "num": 27353,
+      "raw_hot": 33228,
+      "num": 33228,
       "word": "给校长撑伞挡雨的书记是山东人",
       "onboard_time": 1688412075,
       "rank": 36,
@@ -3009,6 +3009,14 @@
       "onboard_time": 1688324533,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19647,
+      "num": 28218,
+      "word": "最爱九思和玉茹的两个人",
+      "onboard_time": 1688418432,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 11977,
