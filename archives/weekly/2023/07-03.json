@@ -1,9 +1,25 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688355628826,
+  "endTime": 1688358158471,
   "band_list": [
     {
-      "raw_hot": 9610176,
+      "raw_hot": 30475206,
+      "num": 30475206,
+      "word": "蔡徐坤回应",
+      "onboard_time": 1688355463,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21517115,
+      "num": 21517115,
+      "word": "蔡徐坤工作室声明",
+      "onboard_time": 1688356997,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10636723,
       "num": 801956,
       "word": "央视频下架蔡徐坤所有视频",
       "onboard_time": 1688299053,
@@ -11,16 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7352532,
-      "num": 7352532,
-      "word": "蔡徐坤回应",
-      "onboard_time": 1688355463,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 6968240,
-      "num": 7193764,
+      "raw_hot": 8839416,
+      "num": 9309117,
       "word": "人大毕业生马某某被刑拘",
       "onboard_time": 1688354013,
       "rank": 0,
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2778111,
+      "num": 662804,
+      "word": "李俊昊林允儿方回应恋情",
+      "onboard_time": 1688354493,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2279903,
       "num": 641070,
       "word": "李一桐光脚放飞机座椅上",
@@ -59,14 +75,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1820417,
-      "num": 662804,
-      "word": "李俊昊林允儿方回应恋情",
-      "onboard_time": 1688354493,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1733326,
       "num": 1733326,
       "word": "越南高考的中文题",
@@ -75,8 +83,8 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 1653053,
-      "num": 1653053,
+      "raw_hot": 1700334,
+      "num": 1700334,
       "word": "海口三子大闹周杰伦演唱会",
       "onboard_time": 1688352332,
       "rank": 15,
@@ -89,6 +97,14 @@
       "onboard_time": 1688347113,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1523121,
+      "num": 1523121,
+      "word": "缅甸逃回男子忆水牢满地是血",
+      "onboard_time": 1688351070,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1350127,
@@ -131,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1104777,
+      "num": 1104777,
+      "word": "花少北 一直逃避回应做视频的问题",
+      "onboard_time": 1688353050,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1099677,
       "num": 1099677,
       "word": "肖战演王楚然表哥",
@@ -171,12 +195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 964012,
-      "num": 964012,
-      "word": "缅甸逃回男子忆水牢满地是血",
-      "onboard_time": 1688351070,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 916780,
+      "num": 533704,
+      "word": "任敏有刘海vs没刘海",
+      "onboard_time": 1688355092,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 896685,
@@ -193,6 +217,14 @@
       "onboard_time": 1688352750,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 841470,
+      "num": 366994,
+      "word": "王鹤棣虞书欣今日开屏",
+      "onboard_time": 1688355463,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 787901,
@@ -217,14 +249,6 @@
       "onboard_time": 1688311118,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 735915,
-      "num": 735915,
-      "word": "花少北 一直逃避回应做视频的问题",
-      "onboard_time": 1688353050,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 700230,
@@ -275,6 +299,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 656755,
+      "num": 656755,
+      "word": "饿了么免单",
+      "onboard_time": 1688356997,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 650672,
       "num": 650672,
       "word": "玉骨遥弑神论",
@@ -315,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 553849,
+      "num": 553849,
+      "word": "5岁女孩离世救了4个人",
+      "onboard_time": 1688354613,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553530,
       "num": 553530,
       "word": "萧亚轩直播",
@@ -339,6 +379,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 528434,
+      "num": 366014,
+      "word": "偷偷藏不住厦门取景地客流翻倍",
+      "onboard_time": 1688354734,
+      "rank": 41,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 527664,
       "num": 527664,
       "word": "大老远来找男朋友发现他没关空调",
@@ -348,7 +396,7 @@
     },
     {
       "raw_hot": 526846,
-      "num": 361350,
+      "num": 364981,
       "word": "在高铁上吃泡面被说没有素质",
       "onboard_time": 1688350649,
       "rank": 21,
@@ -427,28 +475,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 392892,
-      "num": 358577,
-      "word": "偷偷藏不住厦门取景地客流翻倍",
-      "onboard_time": 1688354734,
-      "rank": 41,
-      "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 383018,
-      "num": 383018,
-      "word": "5岁女孩离世救了4个人",
-      "onboard_time": 1688354613,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381230,
       "num": 381230,
       "word": "Jennie音乐节彩排视频",
       "onboard_time": 1688314055,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 367697,
+      "num": 367697,
+      "word": "5岁女儿每天为快递员父亲接1瓶水",
+      "onboard_time": 1688356341,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364777,
+      "num": 364777,
+      "word": "复旦附中回应上海交大博士应聘保健员",
+      "onboard_time": 1688353593,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 360676,
@@ -499,12 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339759,
-      "num": 339759,
-      "word": "复旦附中回应上海交大博士应聘保健员",
-      "onboard_time": 1688353593,
-      "rank": 46,
-      "category": "社会新闻,教育"
+      "raw_hot": 340766,
+      "num": 340766,
+      "word": "Lisa新编舞好辣",
+      "onboard_time": 1688357057,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 338417,
+      "num": 338417,
+      "word": "去找异地男友发现他没关空调",
+      "onboard_time": 1688354854,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 335652,
@@ -587,12 +643,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 304840,
-      "num": 304840,
-      "word": "去找异地男友发现他没关空调",
-      "onboard_time": 1688354854,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 304172,
+      "num": 304172,
+      "word": "EXO预告",
+      "onboard_time": 1688343332,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 298838,
@@ -627,6 +683,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284081,
+      "num": 296738,
+      "word": "老祖宗最知道怎么哄孩子",
+      "onboard_time": 1688352508,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 280641,
+      "num": 272688,
+      "word": "刘昊然胡子",
+      "onboard_time": 1688358081,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 279414,
+      "num": 279414,
+      "word": "河马炫西瓜么得技术全是感情",
+      "onboard_time": 1688357541,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274447,
       "num": 309791,
       "word": "熊猫泡澡全程陷入沉思",
@@ -659,36 +739,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267500,
-      "num": 267500,
-      "word": "老祖宗最知道怎么哄孩子",
-      "onboard_time": 1688352508,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 263257,
-      "num": 263257,
-      "word": "任敏有刘海vs没刘海",
-      "onboard_time": 1688355092,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 258166,
       "num": 258166,
       "word": "张杰你敢不敢转过来",
       "onboard_time": 1688341528,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 256160,
-      "num": 256160,
-      "word": "王鹤棣虞书欣今日开屏",
-      "onboard_time": 1688355463,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 253621,
@@ -787,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202890,
+      "num": 319242,
+      "word": "录取通知书里的中国式浪漫",
+      "onboard_time": 1688355896,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201016,
       "num": 233603,
       "word": "因女儿考705分打折庆祝的凉菜摊关门",
@@ -825,14 +889,6 @@
       "onboard_time": 1688341409,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196202,
-      "num": 196202,
-      "word": "EXO预告",
-      "onboard_time": 1688343332,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 194553,
@@ -1123,6 +1179,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 88198,
+      "num": 251146,
+      "word": "比亚迪6月销量破25万",
+      "onboard_time": 1688356400,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86967,
       "num": 86967,
       "word": "没有穿尿不湿的干不了的事",
@@ -1153,6 +1217,14 @@
       "onboard_time": 1688318122,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73301,
+      "num": 273099,
+      "word": "饿了么将与免单作弊行为干到底",
+      "onboard_time": 1688356817,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 67396,
