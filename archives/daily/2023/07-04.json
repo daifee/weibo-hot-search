@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688402440515,
+  "endTime": 1688404591231,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2146090,
+      "num": 2146090,
+      "word": "JackeyLove退出亚运会名单",
+      "onboard_time": 1688401770,
+      "rank": 1,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 2000714,
       "num": 451417,
       "word": "浪胃仙瘦成纸片人",
@@ -41,14 +49,6 @@
       "onboard_time": 1688395783,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1556593,
-      "num": 1556593,
-      "word": "JackeyLove退出亚运会名单",
-      "onboard_time": 1688401770,
-      "rank": 1,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1132388,
@@ -227,6 +227,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 265642,
+      "num": 265642,
+      "word": "369退出亚运会名单",
+      "onboard_time": 1688402013,
+      "rank": 32,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 262833,
       "num": 248371,
       "word": "八角笼中",
@@ -289,14 +297,6 @@
       "onboard_time": 1688400213,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211642,
-      "num": 211642,
-      "word": "369退出亚运会名单",
-      "onboard_time": 1688402013,
-      "rank": 32,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 203218,
@@ -395,6 +395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158407,
+      "num": 158407,
+      "word": "女子外卖备注多放醋商家送1大袋",
+      "onboard_time": 1688400755,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154270,
       "num": 154270,
       "word": "山东泰山",
@@ -435,12 +443,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 133443,
-      "num": 133443,
-      "word": "女子外卖备注多放醋商家送1大袋",
-      "onboard_time": 1688400755,
+      "raw_hot": 76717,
+      "num": 76717,
+      "word": "男孩中考获A等分单亲妈妈喜极而泣",
+      "onboard_time": 1688404580,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 76033,
+      "num": 76033,
+      "word": "时影 i美强惨",
+      "onboard_time": 1688404344,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
@@ -449,6 +465,9 @@
     },
     {
       "word": "#用忠诚守护祖国的平安#"
+    },
+    {
+      "word": "#即便风雨兼程也能一路生花#"
     }
   ]
 }

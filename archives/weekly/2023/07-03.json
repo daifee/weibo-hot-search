@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688402440515,
+  "endTime": 1688404591231,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2146090,
+      "num": 2146090,
+      "word": "JackeyLove退出亚运会名单",
+      "onboard_time": 1688401770,
+      "rank": 1,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 1960692,
       "num": 1960692,
       "word": "迪丽热巴腿咚龚俊",
@@ -257,14 +265,6 @@
       "onboard_time": 1688347113,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1556593,
-      "num": 1556593,
-      "word": "JackeyLove退出亚运会名单",
-      "onboard_time": 1688401770,
-      "rank": 1,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1523121,
@@ -1819,6 +1819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265642,
+      "num": 265642,
+      "word": "369退出亚运会名单",
+      "onboard_time": 1688402013,
+      "rank": 32,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 261473,
       "num": 254795,
       "word": "赵露思戴蛋糕帽子",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1688393142,
       "rank": 44,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 211642,
-      "num": 211642,
-      "word": "369退出亚运会名单",
-      "onboard_time": 1688402013,
-      "rank": 32,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 210728,
@@ -2579,6 +2579,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158407,
+      "num": 158407,
+      "word": "女子外卖备注多放醋商家送1大袋",
+      "onboard_time": 1688400755,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158326,
       "num": 158326,
       "word": "你相册中最惊艳的一张照片",
@@ -2697,14 +2705,6 @@
       "onboard_time": 1688291791,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133443,
-      "num": 133443,
-      "word": "女子外卖备注多放醋商家送1大袋",
-      "onboard_time": 1688400755,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130901,
@@ -2851,12 +2851,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76717,
+      "num": 76717,
+      "word": "男孩中考获A等分单亲妈妈喜极而泣",
+      "onboard_time": 1688404580,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 76484,
       "num": 95352,
       "word": "鸟羽水族馆的小梅",
       "onboard_time": 1688318122,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76033,
+      "num": 76033,
+      "word": "时影 i美强惨",
+      "onboard_time": 1688404344,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 67396,
