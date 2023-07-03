@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688366334904,
+  "endTime": 1688368671900,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -59,6 +59,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 5268532,
+      "num": 1976062,
+      "word": "JackeyLove 赌博",
+      "onboard_time": 1688365790,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 4686894,
       "num": 492299,
       "word": "Prada",
@@ -115,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1976062,
-      "num": 1976062,
-      "word": "JackeyLove 赌博",
-      "onboard_time": 1688365790,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1960692,
       "num": 1960692,
       "word": "迪丽热巴腿咚龚俊",
@@ -168,6 +168,14 @@
       "word": "刘昊然胡子",
       "onboard_time": 1688358081,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1359044,
+      "num": 399300,
+      "word": "肖战是靠什么长红多年的",
+      "onboard_time": 1688366330,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740399,
+      "num": 740399,
+      "word": "夫胜宽暂停活动",
+      "onboard_time": 1688365851,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700230,
       "num": 700230,
       "word": "时影一定要杀朱颜的原因",
@@ -419,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 629171,
-      "num": 410496,
-      "word": "夫胜宽暂停活动",
-      "onboard_time": 1688365851,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 607105,
       "num": 648897,
       "word": "法国",
@@ -441,6 +449,14 @@
       "onboard_time": 1688360039,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584852,
+      "num": 584852,
+      "word": "时隔多年终于理解了宛瑜",
+      "onboard_time": 1688366808,
+      "rank": 5,
+      "category": "情感,影视"
     },
     {
       "raw_hot": 583591,
@@ -489,6 +505,22 @@
       "onboard_time": 1688316926,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544457,
+      "num": 544457,
+      "word": "妈妈发女儿视频网友提醒孩子有反颌",
+      "onboard_time": 1688361278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543725,
+      "num": 543725,
+      "word": "LPL",
+      "onboard_time": 1688365377,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 530769,
@@ -595,12 +627,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 432969,
-      "num": 432969,
-      "word": "妈妈发女儿视频网友提醒孩子有反颌",
-      "onboard_time": 1688361278,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 426043,
+      "num": 354271,
+      "word": "对方撤回了一个老太太",
+      "onboard_time": 1688366573,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 421470,
@@ -665,14 +697,6 @@
       "onboard_time": 1688356341,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361745,
-      "num": 407998,
-      "word": "LPL",
-      "onboard_time": 1688365377,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 360676,
@@ -891,6 +915,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 296500,
+      "num": 400474,
+      "word": "亚运会",
+      "onboard_time": 1688367285,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 296165,
+      "num": 398252,
+      "word": "女子刷单被骗22万仍不信民警",
+      "onboard_time": 1688366512,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295360,
+      "num": 295360,
+      "word": "赵露思回应被说圆脸",
+      "onboard_time": 1688368067,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284123,
       "num": 249974,
       "word": "玉骨遥美工好忙",
@@ -971,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 248173,
+      "num": 248173,
+      "word": "TES",
+      "onboard_time": 1688368550,
+      "rank": 38,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 244318,
       "num": 244318,
       "word": "玉骨遥首播评价",
@@ -993,6 +1049,14 @@
       "onboard_time": 1688343273,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 235322,
+      "num": 346171,
+      "word": "偶遇野生大熊猫淡定对视20分钟",
+      "onboard_time": 1688365076,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235166,
@@ -1107,14 +1171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201267,
-      "num": 297776,
-      "word": "偶遇野生大熊猫淡定对视20分钟",
-      "onboard_time": 1688365076,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201016,
       "num": 233603,
       "word": "因女儿考705分打折庆祝的凉菜摊关门",
@@ -1129,6 +1185,14 @@
       "onboard_time": 1688303801,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200262,
+      "num": 200262,
+      "word": "杨紫运动系女孩",
+      "onboard_time": 1688368372,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198991,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1688311001,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167014,
+      "num": 167014,
+      "word": "见到哥哥回家妹妹笑着笑着就哭了",
+      "onboard_time": 1688368605,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166438,
@@ -1539,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48075,
+      "num": 334095,
+      "word": "国家安全机关形象宣传片分秒时年",
+      "onboard_time": 1688368550,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39476,
       "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
@@ -1572,6 +1652,9 @@
     },
     {
       "word": "#习近平主持中共中央政治局第六次集体学习#"
+    },
+    {
+      "word": "#把产业发展落到促进农民增收上来#"
     }
   ]
 }

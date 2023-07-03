@@ -1,0 +1,410 @@
+{
+  "runTime": 1688368671900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12654380,
+        "num": 12654380,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7288620,
+        "num": 7288620,
+        "word": "蔡徐坤回应",
+        "onboard_time": 1688355463,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5410487,
+        "num": 5410487,
+        "word": "汪峰发了个锤子",
+        "onboard_time": 1688358879,
+        "rank": 2,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 740399,
+        "num": 740399,
+        "word": "夫胜宽暂停活动",
+        "onboard_time": 1688365851,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 712218,
+        "num": 712218,
+        "word": "刘昊然胡子",
+        "onboard_time": 1688358081,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584852,
+        "num": 584852,
+        "word": "时隔多年终于理解了宛瑜",
+        "onboard_time": 1688366808,
+        "rank": 5,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 583802,
+        "num": 583802,
+        "word": "缅甸逃回男子忆水牢满地是血",
+        "onboard_time": 1688351070,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544457,
+        "num": 544457,
+        "word": "妈妈发女儿视频网友提醒孩子有反颌",
+        "onboard_time": 1688361278,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453591,
+        "num": 544414,
+        "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
+        "onboard_time": 1688360039,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446154,
+        "num": 544208,
+        "word": "人大毕业生马某某被刑拘",
+        "onboard_time": 1688354013,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2726465,
+        "num": 544078,
+        "word": "蔡徐坤工作室声明",
+        "onboard_time": 1688356997,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2655579,
+        "num": 544015,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2453580,
+        "num": 543760,
+        "word": "秦牛正威订婚",
+        "onboard_time": 1688364119,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543725,
+        "num": 543725,
+        "word": "LPL",
+        "onboard_time": 1688365377,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 402066,
+        "num": 402066,
+        "word": "睡觉时身体为什么会抖一下",
+        "onboard_time": 1688343392,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1058949,
+        "num": 401724,
+        "word": "央视频下架蔡徐坤所有视频",
+        "onboard_time": 1688299053,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626960,
+        "num": 401541,
+        "word": "杨紫官宣MLB棒球大使",
+        "onboard_time": 1688363178,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 340819,
+        "num": 400942,
+        "word": "红黄蓝早教中心回应被指虐童",
+        "onboard_time": 1688359244,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296500,
+        "num": 400474,
+        "word": "亚运会",
+        "onboard_time": 1688367285,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12699,
+        "num": 400081,
+        "word": "他们获颁光荣在党50年纪念章",
+        "onboard_time": 1688306982,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5268532,
+        "num": 399406,
+        "word": "JackeyLove 赌博",
+        "onboard_time": 1688365790,
+        "rank": 20,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1359044,
+        "num": 399300,
+        "word": "肖战是靠什么长红多年的",
+        "onboard_time": 1688366330,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1005309,
+        "num": 398875,
+        "word": "警方前往炎亚纶家中搜查",
+        "onboard_time": 1688361516,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 296165,
+        "num": 398252,
+        "word": "女子刷单被骗22万仍不信民警",
+        "onboard_time": 1688366512,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595967,
+        "num": 397982,
+        "word": "韩媒曝李俊昊林允儿恋情",
+        "onboard_time": 1688352872,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476361,
+        "num": 397349,
+        "word": "炎亚纶前往警局做笔录",
+        "onboard_time": 1688361937,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397146,
+        "num": 397146,
+        "word": "我就知道这个单位来对了",
+        "onboard_time": 1688362297,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380971,
+        "num": 380971,
+        "word": "今晚不用再吃偷偷藏不住断更的苦",
+        "onboard_time": 1688363763,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372762,
+        "num": 372762,
+        "word": "李俊昊林允儿方回应恋情",
+        "onboard_time": 1688354493,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251242,
+        "num": 358563,
+        "word": "饿了么免单",
+        "onboard_time": 1688356997,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 426043,
+        "num": 354271,
+        "word": "对方撤回了一个老太太",
+        "onboard_time": 1688366573,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348043,
+        "num": 348043,
+        "word": "花少北 一直逃避回应做视频的问题",
+        "onboard_time": 1688353050,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 235322,
+        "num": 346171,
+        "word": "偶遇野生大熊猫淡定对视20分钟",
+        "onboard_time": 1688365076,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346110,
+        "num": 346110,
+        "word": "李一桐光脚放飞机座椅上",
+        "onboard_time": 1688341890,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48075,
+        "num": 334095,
+        "word": "国家安全机关形象宣传片分秒时年",
+        "onboard_time": 1688368550,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330233,
+        "num": 330233,
+        "word": "任敏有刘海vs没刘海",
+        "onboard_time": 1688355092,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310874,
+        "num": 310874,
+        "word": "海口三子大闹周杰伦演唱会",
+        "onboard_time": 1688352332,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295360,
+        "num": 295360,
+        "word": "赵露思回应被说圆脸",
+        "onboard_time": 1688368067,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248173,
+        "num": 248173,
+        "word": "TES",
+        "onboard_time": 1688368550,
+        "rank": 38,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 244191,
+        "num": 244191,
+        "word": "相爱和分手的原因都是同一个",
+        "onboard_time": 1688338940,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270602,
+        "num": 240954,
+        "word": "迪丽热巴腿咚龚俊",
+        "onboard_time": 1688349331,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200298,
+        "num": 200298,
+        "word": "网络空间是未成年人学习娱乐的重要空间",
+        "onboard_time": 1688362824,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 200262,
+        "num": 200262,
+        "word": "杨紫运动系女孩",
+        "onboard_time": 1688368372,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 195093,
+        "num": 195093,
+        "word": "2PM 少女时代",
+        "onboard_time": 1688358625,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173589,
+        "num": 173589,
+        "word": "陶喆新歌流沙",
+        "onboard_time": 1688360268,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168850,
+        "num": 168850,
+        "word": "心肺复苏急救一只迷你小青蛙",
+        "onboard_time": 1688358081,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168176,
+        "num": 168176,
+        "word": "当事人回应跳下站台救孩子",
+        "onboard_time": 1688362709,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167110,
+        "num": 167110,
+        "word": "范伟虞书欣加入非诚勿扰3",
+        "onboard_time": 1688352750,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167014,
+        "num": 167014,
+        "word": "见到哥哥回家妹妹笑着笑着就哭了",
+        "onboard_time": 1688368605,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163249,
+        "num": 163249,
+        "word": "5岁女孩离世救了4个人",
+        "onboard_time": 1688354613,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把产业发展落到促进农民增收上来#"
+    }
+  }
+}
