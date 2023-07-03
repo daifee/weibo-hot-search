@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688361539168,
+  "endTime": 1688362509870,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -8,6 +8,14 @@
       "word": "蔡徐坤回应",
       "onboard_time": 1688355463,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29961598,
+      "num": 29961598,
+      "word": "蔡徐坤 照片不是我",
+      "onboard_time": 1688361395,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1688354013,
       "rank": 0,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 8333952,
-      "num": 266411,
-      "word": "蔡徐坤 照片不是我",
-      "onboard_time": 1688361395,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 7958830,
@@ -161,6 +161,14 @@
       "onboard_time": 1688177252,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2865150,
+      "num": 2865150,
+      "word": "警方前往炎亚纶家中搜查",
+      "onboard_time": 1688361516,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2778111,
@@ -1171,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 801318,
+      "num": 801318,
+      "word": "红黄蓝早教中心回应被指虐童",
+      "onboard_time": 1688359244,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800638,
       "num": 822335,
       "word": "中国女排3比2战胜美国",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1688311118,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 759408,
+      "num": 435254,
+      "word": "炎亚纶前往警局做笔录",
+      "onboard_time": 1688361937,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 758916,
@@ -1433,14 +1457,6 @@
       "onboard_time": 1688302297,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 686573,
-      "num": 686573,
-      "word": "红黄蓝早教中心回应被指虐童",
-      "onboard_time": 1688359244,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684945,
@@ -1792,6 +1808,14 @@
       "word": "顾客吃肯德基发现鸡腿冒血水",
       "onboard_time": 1688184151,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598112,
+      "num": 598112,
+      "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
+      "onboard_time": 1688360039,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2323,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487112,
+      "num": 630683,
+      "word": "原神 枫丹预告片",
+      "onboard_time": 1688360446,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 485963,
       "num": 485963,
       "word": "Minnie普通话比叉烧芬标准",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1688204254,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 477187,
+      "num": 432637,
+      "word": "我就知道这个单位来对了",
+      "onboard_time": 1688362297,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 476288,
@@ -2811,6 +2851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395220,
+      "num": 280218,
+      "word": "陶喆新歌流沙",
+      "onboard_time": 1688360268,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 394492,
       "num": 394492,
       "word": "韩旭我的神",
@@ -2977,14 +3025,6 @@
       "onboard_time": 1688294976,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 373521,
-      "num": 373521,
-      "word": "警方前往炎亚纶家中搜查",
-      "onboard_time": 1688361516,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 371941,
@@ -3283,6 +3323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333125,
+      "num": 333125,
+      "word": "妈妈发女儿视频网友提醒孩子有反颌",
+      "onboard_time": 1688361278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332821,
       "num": 1258446,
       "word": "雷公与儿子见面时间确认",
@@ -3345,14 +3393,6 @@
       "onboard_time": 1688352451,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 328815,
-      "num": 262431,
-      "word": "陶喆新歌流沙",
-      "onboard_time": 1688360268,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 327133,
@@ -4179,14 +4219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261978,
-      "num": 261978,
-      "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
-      "onboard_time": 1688360039,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261974,
       "num": 248981,
       "word": "长安三万里 将进酒",
@@ -4283,14 +4315,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 256649,
-      "num": 500156,
-      "word": "原神 枫丹预告片",
-      "onboard_time": 1688360446,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 256448,
       "num": 256448,
       "word": "朱婷",
@@ -4332,7 +4356,7 @@
     },
     {
       "raw_hot": 253612,
-      "num": 239094,
+      "num": 240952,
       "word": "BLACKPINK音乐节好辣",
       "onboard_time": 1688360914,
       "rank": 43,
@@ -5051,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213221,
+      "num": 238709,
+      "word": "未来中国科普宣传员",
+      "onboard_time": 1688362121,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213081,
       "num": 213081,
       "word": "老一辈穿上汉服能有多惊艳",
@@ -5105,6 +5137,14 @@
       "onboard_time": 1688297134,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210062,
+      "num": 300148,
+      "word": "大熊猫能有什么烦恼呢",
+      "onboard_time": 1688361152,
+      "rank": 29,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 209904,
@@ -5169,14 +5209,6 @@
       "onboard_time": 1688220216,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206885,
-      "num": 237990,
-      "word": "妈妈发女儿视频网友提醒孩子有反颌",
-      "onboard_time": 1688361278,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206723,
