@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688365501685,
+  "endTime": 1688366334904,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -147,15 +147,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 3329910,
-      "num": 3329910,
+      "raw_hot": 3417727,
+      "num": 3417727,
       "word": "郑爽及其工作室被限制高消费",
       "onboard_time": 1688363408,
       "rank": 4,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 3201590,
+      "raw_hot": 3232637,
       "num": 625949,
       "word": "秦牛正威订婚",
       "onboard_time": 1688364119,
@@ -305,6 +305,14 @@
       "onboard_time": 1688274574,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1976062,
+      "num": 1976062,
+      "word": "JackeyLove 赌博",
+      "onboard_time": 1688365790,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1960692,
@@ -1163,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 830168,
+      "num": 414690,
+      "word": "杨紫官宣MLB棒球大使",
+      "onboard_time": 1688363178,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 823565,
       "num": 632331,
       "word": "李现周杰伦花海大合唱",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1688311118,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 760146,
-      "num": 387264,
-      "word": "杨紫官宣MLB棒球大使",
-      "onboard_time": 1688363178,
-      "rank": 20,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 758916,
@@ -1753,6 +1761,14 @@
       "onboard_time": 1688268151,
       "rank": 22,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 629171,
+      "num": 410496,
+      "word": "夫胜宽暂停活动",
+      "onboard_time": 1688365851,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 627845,
@@ -2699,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432969,
+      "num": 432969,
+      "word": "妈妈发女儿视频网友提醒孩子有反颌",
+      "onboard_time": 1688361278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432548,
       "num": 432548,
       "word": "金地雄晕倒",
@@ -2851,6 +2875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 401307,
+      "num": 401307,
+      "word": "今晚不用再吃偷偷藏不住断更的苦",
+      "onboard_time": 1688363763,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401053,
       "num": 330294,
       "word": "我是党员",
@@ -2931,14 +2963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387715,
-      "num": 387715,
-      "word": "妈妈发女儿视频网友提醒孩子有反颌",
-      "onboard_time": 1688361278,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386909,
       "num": 280351,
       "word": "玉骨遥配音",
@@ -3009,14 +3033,6 @@
       "onboard_time": 1688301638,
       "rank": 22,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 378576,
-      "num": 378576,
-      "word": "今晚不用再吃偷偷藏不住断更的苦",
-      "onboard_time": 1688363763,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 378352,
@@ -3121,6 +3137,14 @@
       "onboard_time": 1688211872,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361745,
+      "num": 407998,
+      "word": "LPL",
+      "onboard_time": 1688365377,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 361428,
@@ -3817,6 +3841,14 @@
       "onboard_time": 1688201071,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297182,
+      "num": 297182,
+      "word": "林宥嘉武汉",
+      "onboard_time": 1688365851,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 296270,
@@ -4827,6 +4859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230987,
+      "num": 385785,
+      "word": "网络空间是未成年人学习娱乐的重要空间",
+      "onboard_time": 1688362824,
+      "rank": 24,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 230159,
       "num": 230159,
       "word": "白敬亭宋轶同框",
@@ -4849,6 +4889,14 @@
       "onboard_time": 1688134419,
       "rank": 34,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 229293,
+      "num": 326589,
+      "word": "2023年暑期未成年人网络环境整治",
+      "onboard_time": 1688365251,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228930,
@@ -5025,14 +5073,6 @@
       "onboard_time": 1688183310,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218048,
-      "num": 385785,
-      "word": "网络空间是未成年人学习娱乐的重要空间",
-      "onboard_time": 1688362824,
-      "rank": 24,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 217547,
@@ -5363,6 +5403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201267,
+      "num": 297776,
+      "word": "偶遇野生大熊猫淡定对视20分钟",
+      "onboard_time": 1688365076,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200317,
       "num": 200317,
       "word": "五险一金为什么重要",
@@ -5385,6 +5433,14 @@
       "onboard_time": 1688348131,
       "rank": 36,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 198585,
+      "num": 326513,
+      "word": "河南升级发布暴雨黄色预警",
+      "onboard_time": 1688364657,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198526,
@@ -5875,14 +5931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174251,
-      "num": 326902,
-      "word": "LPL",
-      "onboard_time": 1688365377,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "如果让亲妈做你婆婆",
@@ -6033,14 +6081,6 @@
       "onboard_time": 1688296774,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160570,
-      "num": 326589,
-      "word": "2023年暑期未成年人网络环境整治",
-      "onboard_time": 1688365251,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160159,
@@ -6305,14 +6345,6 @@
       "onboard_time": 1688215170,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 128325,
-      "num": 326513,
-      "word": "河南升级发布暴雨黄色预警",
-      "onboard_time": 1688364657,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126180,

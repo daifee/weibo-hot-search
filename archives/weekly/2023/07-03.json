@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688365501685,
+  "endTime": 1688366334904,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -75,15 +75,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3329910,
-      "num": 3329910,
+      "raw_hot": 3417727,
+      "num": 3417727,
       "word": "郑爽及其工作室被限制高消费",
       "onboard_time": 1688363408,
       "rank": 4,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 3201590,
+      "raw_hot": 3232637,
       "num": 625949,
       "word": "秦牛正威订婚",
       "onboard_time": 1688364119,
@@ -113,6 +113,14 @@
       "onboard_time": 1688341890,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1976062,
+      "num": 1976062,
+      "word": "JackeyLove 赌博",
+      "onboard_time": 1688365790,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1960692,
@@ -291,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 830168,
+      "num": 414690,
+      "word": "杨紫官宣MLB棒球大使",
+      "onboard_time": 1688363178,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 801318,
       "num": 801318,
       "word": "红黄蓝早教中心回应被指虐童",
@@ -321,14 +337,6 @@
       "onboard_time": 1688311118,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 760146,
-      "num": 387264,
-      "word": "杨紫官宣MLB棒球大使",
-      "onboard_time": 1688363178,
-      "rank": 20,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 750385,
@@ -409,6 +417,14 @@
       "onboard_time": 1688347713,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 629171,
+      "num": 410496,
+      "word": "夫胜宽暂停活动",
+      "onboard_time": 1688365851,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 607105,
@@ -579,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 432969,
+      "num": 432969,
+      "word": "妈妈发女儿视频网友提醒孩子有反颌",
+      "onboard_time": 1688361278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421470,
       "num": 275517,
       "word": "只能骗骗涉世未深的小狗",
@@ -593,6 +617,14 @@
       "onboard_time": 1688311236,
       "rank": 15,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 401307,
+      "num": 401307,
+      "word": "今晚不用再吃偷偷藏不住断更的苦",
+      "onboard_time": 1688363763,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 397241,
@@ -619,14 +651,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 387715,
-      "num": 387715,
-      "word": "妈妈发女儿视频网友提醒孩子有反颌",
-      "onboard_time": 1688361278,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381230,
       "num": 381230,
       "word": "Jennie音乐节彩排视频",
@@ -643,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378576,
-      "num": 378576,
-      "word": "今晚不用再吃偷偷藏不住断更的苦",
-      "onboard_time": 1688363763,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 361745,
+      "num": 407998,
+      "word": "LPL",
+      "onboard_time": 1688365377,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 360676,
@@ -859,6 +883,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 297182,
+      "num": 297182,
+      "word": "林宥嘉武汉",
+      "onboard_time": 1688365851,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284123,
       "num": 249974,
       "word": "玉骨遥美工好忙",
@@ -1003,6 +1035,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 230987,
+      "num": 385785,
+      "word": "网络空间是未成年人学习娱乐的重要空间",
+      "onboard_time": 1688362824,
+      "rank": 24,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 229293,
+      "num": 326589,
+      "word": "2023年暑期未成年人网络环境整治",
+      "onboard_time": 1688365251,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228409,
       "num": 228409,
       "word": "宋轶发了五条微博",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1688311776,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 218048,
-      "num": 385785,
-      "word": "网络空间是未成年人学习娱乐的重要空间",
-      "onboard_time": 1688362824,
-      "rank": 24,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 214098,
@@ -1067,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201267,
+      "num": 297776,
+      "word": "偶遇野生大熊猫淡定对视20分钟",
+      "onboard_time": 1688365076,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201016,
       "num": 233603,
       "word": "因女儿考705分打折庆祝的凉菜摊关门",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1688295395,
       "rank": 35,
       "category": "科技,美食"
+    },
+    {
+      "raw_hot": 198585,
+      "num": 326513,
+      "word": "河南升级发布暴雨黄色预警",
+      "onboard_time": 1688364657,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197448,
@@ -1187,14 +1243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174251,
-      "num": 326902,
-      "word": "LPL",
-      "onboard_time": 1688365377,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174072,
       "num": 174072,
       "word": "林高远4比3樊振东",
@@ -1248,14 +1296,6 @@
       "word": "白色吉祥鸟与白蝴蝶相遇有多惊艳",
       "onboard_time": 1688351188,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160570,
-      "num": 326589,
-      "word": "2023年暑期未成年人网络环境整治",
-      "onboard_time": 1688365251,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1361,14 +1401,6 @@
       "onboard_time": 1688340386,
       "rank": 38,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 128325,
-      "num": 326513,
-      "word": "河南升级发布暴雨黄色预警",
-      "onboard_time": 1688364657,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119828,
