@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688349093870,
+  "endTime": 1688350451011,
   "band_list": [
     {
       "raw_hot": 12819508,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 2279903,
-      "num": 500865,
+      "num": 641070,
       "word": "李一桐光脚放飞机座椅上",
       "onboard_time": 1688341890,
       "rank": 11,
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1337157,
+      "num": 1337157,
+      "word": "迪丽热巴腿咚龚俊",
+      "onboard_time": 1688349331,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1327785,
       "num": 1036990,
       "word": "素颜的杨幂",
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1088526,
+      "num": 636138,
+      "word": "东亚疯不动了",
+      "onboard_time": 1688346153,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1079283,
       "num": 1079283,
       "word": "7月狗屎运最旺星座",
@@ -715,12 +731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1003452,
+      "num": 1003452,
+      "word": "安乐传",
+      "onboard_time": 1688344412,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1002633,
       "num": 392413,
       "word": "裸体男子在女浴室待8分钟称误入",
       "onboard_time": 1688139218,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 999115,
+      "num": 633881,
+      "word": "隐形眼镜有根线先别急着扔",
+      "onboard_time": 1688347113,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 991770,
@@ -841,22 +873,6 @@
       "onboard_time": 1688184692,
       "rank": 15,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 913965,
-      "num": 495434,
-      "word": "东亚疯不动了",
-      "onboard_time": 1688346153,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 912196,
-      "num": 912196,
-      "word": "安乐传",
-      "onboard_time": 1688344412,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 901008,
@@ -1211,8 +1227,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 704033,
-      "num": 369446,
+      "raw_hot": 707617,
+      "num": 707617,
       "word": "睡觉时身体为什么会抖一下",
       "onboard_time": 1688343392,
       "rank": 20,
@@ -1284,7 +1300,7 @@
     },
     {
       "raw_hot": 678348,
-      "num": 493248,
+      "num": 632764,
       "word": "还以为是汪东城跑调了",
       "onboard_time": 1688347113,
       "rank": 13,
@@ -1427,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 650672,
+      "num": 650672,
+      "word": "玉骨遥弑神论",
+      "onboard_time": 1688347713,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 648996,
       "num": 648996,
       "word": "鹿晗演唱会 抢票",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1688268151,
       "rank": 22,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 628401,
+      "num": 628401,
+      "word": "肖战演王楚然表哥",
+      "onboard_time": 1688349450,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 627845,
@@ -1771,6 +1803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 555923,
+      "num": 555923,
+      "word": "Jennie海德公园音乐节饭拍",
+      "onboard_time": 1688346093,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 550443,
       "num": 550443,
       "word": "女儿每拿一张奖状爸爸就奖100元",
@@ -1809,14 +1849,6 @@
       "onboard_time": 1688218115,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 541249,
-      "num": 491837,
-      "word": "隐形眼镜有根线先别急着扔",
-      "onboard_time": 1688347113,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 540815,
@@ -1987,14 +2019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 507028,
-      "num": 507028,
-      "word": "玉骨遥弑神论",
-      "onboard_time": 1688347713,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 503022,
       "num": 503022,
       "word": "沈梦辰戴脐钉",
@@ -2113,14 +2137,6 @@
       "onboard_time": 1688204254,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 479375,
-      "num": 479375,
-      "word": "Jennie海德公园音乐节饭拍",
-      "onboard_time": 1688346093,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 476288,
@@ -2803,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360354,
+      "num": 360354,
+      "word": "黄磊何炅重回第一季蘑菇屋",
+      "onboard_time": 1688340867,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360152,
       "num": 360152,
       "word": "朱一龙一番总票房破40亿",
@@ -2864,14 +2888,6 @@
       "word": "杨紫挑染双马尾",
       "onboard_time": 1688268692,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 347965,
-      "num": 347965,
-      "word": "黄磊何炅重回第一季蘑菇屋",
-      "onboard_time": 1688340867,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -2977,6 +2993,14 @@
       "onboard_time": 1688180251,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 337986,
+      "num": 337986,
+      "word": "武汉牛肉粉店一天卖光一头牛",
+      "onboard_time": 1688348429,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337910,
@@ -3176,6 +3200,14 @@
       "word": "没有小猫这个家真的得散",
       "onboard_time": 1688294373,
       "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 313920,
+      "num": 240253,
+      "word": "日本女高真是独特的关系",
+      "onboard_time": 1688348671,
+      "rank": 42,
       "category": "幽默,情感"
     },
     {
@@ -3475,14 +3507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287311,
-      "num": 287311,
-      "word": "武汉牛肉粉店一天卖光一头牛",
-      "onboard_time": 1688348429,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286651,
       "num": 286651,
       "word": "电影封神九尾狐海报",
@@ -3577,6 +3601,14 @@
       "onboard_time": 1688294976,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274447,
+      "num": 274447,
+      "word": "熊猫泡澡全程陷入沉思",
+      "onboard_time": 1688349150,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274284,
@@ -3865,6 +3897,14 @@
       "onboard_time": 1688299833,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 258800,
+      "num": 258800,
+      "word": "王阳到底演过多少姐夫",
+      "onboard_time": 1688349930,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 258687,
@@ -5227,6 +5267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 180039,
+      "num": 180039,
+      "word": "家长的控制欲和恐惧",
+      "onboard_time": 1688349930,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180028,
       "num": 180028,
       "word": "白敬亭宋轶细节糖好嗑",
@@ -5347,6 +5395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174726,
+      "num": 174726,
+      "word": "当我跟别人说话有猫猫经过时",
+      "onboard_time": 1688350228,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "如果让亲妈做你婆婆",
@@ -5409,14 +5465,6 @@
       "onboard_time": 1688185653,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171096,
-      "num": 171096,
-      "word": "日本女高真是独特的关系",
-      "onboard_time": 1688348671,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 170497,
@@ -5545,6 +5593,14 @@
       "onboard_time": 1688320338,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155212,
+      "num": 155212,
+      "word": "马嘉祺北京胡同vlog",
+      "onboard_time": 1688350413,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 154789,
@@ -5700,7 +5756,7 @@
     },
     {
       "raw_hot": 130901,
-      "num": 130901,
+      "num": 149369,
       "word": "戈登加盟太阳",
       "onboard_time": 1688341048,
       "rank": 46,
@@ -5841,6 +5897,14 @@
       "onboard_time": 1688218353,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97408,
+      "num": 147820,
+      "word": "豪华碎肉汉堡",
+      "onboard_time": 1688349269,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 96204,
@@ -6028,7 +6092,7 @@
     },
     {
       "raw_hot": 49615,
-      "num": 944426,
+      "num": 1060888,
       "word": "他们获颁光荣在党50年纪念章",
       "onboard_time": 1688306982,
       "rank": 41,
