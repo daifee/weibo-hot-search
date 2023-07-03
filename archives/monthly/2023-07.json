@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688404591231,
+  "endTime": 1688405648771,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -7993,6 +7993,14 @@
       "onboard_time": 1688320398,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 58859,
+      "num": 71333,
+      "word": "父亲和丈夫的尊重要自己去赚",
+      "onboard_time": 1688405540,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 58647,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/04 01:16:31
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/04 01:34:08
 </p>
 </blockquote>
 <p>
@@ -6009,8 +6009,8 @@ BLG零封FPX（热度：67396）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E8%A2%AB%E5%88%97%E8%BD%A6%E4%B8%8A%E4%B8%BE%E6%89%8B%E5%B0%9D%E9%9B%B6%E9%A3%9F%E7%9A%84%E5%AD%A6%E7%94%9F%E9%80%97%E7%AC%91%23" target="weibo">
-大叔被列车上举手尝零食的学生逗笑（热度：58647）
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%92%8C%E4%B8%88%E5%A4%AB%E7%9A%84%E5%B0%8A%E9%87%8D%E8%A6%81%E8%87%AA%E5%B7%B1%E5%8E%BB%E8%B5%9A%23" target="weibo">
+父亲和丈夫的尊重要自己去赚（热度：58859）
 </a>
 </li>
 
