@@ -1,10 +1,10 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688353189088,
+  "endTime": 1688353713976,
   "band_list": [
     {
       "raw_hot": 9610176,
-      "num": 651837,
+      "num": 801956,
       "word": "央视频下架蔡徐坤所有视频",
       "onboard_time": 1688299053,
       "rank": 10,
@@ -17,6 +17,14 @@
       "onboard_time": 1688313395,
       "rank": 11,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 3163318,
+      "num": 837926,
+      "word": "韩媒曝李俊昊林允儿恋情",
+      "onboard_time": 1688352872,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2279903,
@@ -43,8 +51,8 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 1398815,
-      "num": 1398815,
+      "raw_hot": 1561314,
+      "num": 1561314,
       "word": "隐形眼镜有根线先别急着扔",
       "onboard_time": 1688347113,
       "rank": 14,
@@ -83,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1119727,
+      "num": 1119727,
+      "word": "周冬雨刘昊然屈楚萧极限拉扯",
+      "onboard_time": 1688352090,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1099677,
       "num": 1099677,
       "word": "肖战演王楚然表哥",
@@ -99,12 +115,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1021184,
-      "num": 1021184,
+      "raw_hot": 1060747,
+      "num": 1060747,
       "word": "睡觉时身体为什么会抖一下",
       "onboard_time": 1688343392,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1020308,
+      "num": 1020308,
+      "word": "海口三子大闹周杰伦演唱会",
+      "onboard_time": 1688352332,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 1016417,
@@ -121,14 +145,6 @@
       "onboard_time": 1688344412,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 917595,
-      "num": 651818,
-      "word": "韩媒曝李俊昊林允儿恋情",
-      "onboard_time": 1688352872,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 896685,
@@ -163,14 +179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 718941,
-      "num": 718941,
-      "word": "周冬雨刘昊然屈楚萧极限拉扯",
-      "onboard_time": 1688352090,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 700230,
       "num": 700230,
       "word": "时影一定要杀朱颜的原因",
@@ -180,11 +188,19 @@
     },
     {
       "raw_hot": 695559,
-      "num": 695559,
+      "num": 962774,
       "word": "武汉牛肉粉店一天卖光一头牛",
       "onboard_time": 1688348429,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693755,
+      "num": 693755,
+      "word": "肖战赵露思V榜最快破9男女演员",
+      "onboard_time": 1688351791,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 678348,
@@ -195,8 +211,16 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 671358,
+      "num": 340026,
+      "word": "缅甸逃回男子忆水牢满地是血",
+      "onboard_time": 1688351070,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669227,
-      "num": 669227,
+      "num": 891731,
       "word": "白岩松谈母亲误拆女儿档案袋",
       "onboard_time": 1688310277,
       "rank": 4,
@@ -211,28 +235,12 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 651682,
-      "num": 651682,
-      "word": "肖战赵露思V榜最快破9男女演员",
-      "onboard_time": 1688351791,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 650672,
       "num": 650672,
       "word": "玉骨遥弑神论",
       "onboard_time": 1688347713,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 609063,
-      "num": 340026,
-      "word": "缅甸逃回男子忆水牢满地是血",
-      "onboard_time": 1688351070,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 607105,
@@ -243,12 +251,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 601089,
-      "num": 601089,
-      "word": "海口三子大闹周杰伦演唱会",
-      "onboard_time": 1688352332,
-      "rank": 15,
-      "category": "音乐"
+      "raw_hot": 599526,
+      "num": 299756,
+      "word": "范伟虞书欣加入非诚勿扰3",
+      "onboard_time": 1688352750,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 583591,
@@ -355,20 +363,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 405122,
+      "num": 286259,
+      "word": "Angelababy吻戏紧张到闭眼",
+      "onboard_time": 1688351671,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403052,
       "num": 403052,
       "word": "原来榴莲也有住单间的",
       "onboard_time": 1688311236,
       "rank": 15,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 401819,
-      "num": 286259,
-      "word": "Angelababy吻戏紧张到闭眼",
-      "onboard_time": 1688351671,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 397241,
@@ -393,14 +401,6 @@
       "onboard_time": 1688314055,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 370565,
-      "num": 235589,
-      "word": "范伟虞书欣加入非诚勿扰3",
-      "onboard_time": 1688352750,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 360676,
@@ -433,6 +433,14 @@
       "onboard_time": 1688311836,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343978,
+      "num": 216233,
+      "word": "花少北 一直逃避回应做视频的问题",
+      "onboard_time": 1688353050,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 342215,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 325477,
-      "num": 217933,
+      "num": 252140,
       "word": "刘芸看郑钧演唱会拍了10个G",
       "onboard_time": 1688351370,
       "rank": 32,
@@ -571,8 +579,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270588,
-      "num": 270588,
+      "raw_hot": 273301,
+      "num": 273301,
       "word": "家长的控制欲和恐惧",
       "onboard_time": 1688349930,
       "rank": 41,
@@ -619,6 +627,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 235374,
+      "num": 217921,
+      "word": "被一只小猫咪整哭了",
+      "onboard_time": 1688352451,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 235166,
       "num": 235166,
       "word": "朱一龙文咏珊好像两台扫描仪",
@@ -651,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232019,
+      "num": 232019,
+      "word": "老祖宗最知道怎么哄孩子",
+      "onboard_time": 1688352508,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228409,
       "num": 228409,
       "word": "宋轶发了五条微博",
@@ -673,22 +697,6 @@
       "onboard_time": 1688311776,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 217921,
-      "num": 217921,
-      "word": "被一只小猫咪整哭了",
-      "onboard_time": 1688352451,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 212518,
-      "num": 212518,
-      "word": "老祖宗最知道怎么哄孩子",
-      "onboard_time": 1688352508,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 207636,
@@ -779,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187854,
-      "num": 187854,
-      "word": "花少北 一直逃避回应做视频的问题",
-      "onboard_time": 1688353050,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 186203,
       "num": 186203,
       "word": "长风渡又断更了",
@@ -875,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163055,
+      "num": 163055,
+      "word": "白色吉祥鸟与白蝴蝶相遇有多惊艳",
+      "onboard_time": 1688351188,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158326,
       "num": 158326,
       "word": "你相册中最惊艳的一张照片",
@@ -929,6 +937,14 @@
       "onboard_time": 1688312074,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 148355,
+      "num": 148355,
+      "word": "复旦附中回应上海交大博士应聘保健员",
+      "onboard_time": 1688353593,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 147059,
@@ -1068,7 +1084,7 @@
     },
     {
       "raw_hot": 49615,
-      "num": 1133253,
+      "num": 1328144,
       "word": "他们获颁光荣在党50年纪念章",
       "onboard_time": 1688306982,
       "rank": 2,
