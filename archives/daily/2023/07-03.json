@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688394926026,
+  "endTime": 1688397573504,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -115,20 +115,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 3384689,
+      "num": 679247,
+      "word": "浪胃仙瘦成纸片人",
+      "onboard_time": 1688391581,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3232637,
       "num": 914734,
       "word": "秦牛正威订婚",
       "onboard_time": 1688364119,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3115582,
-      "num": 651395,
-      "word": "浪胃仙瘦成纸片人",
-      "onboard_time": 1688391581,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 2865150,
@@ -163,11 +163,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2217825,
+      "num": 2217825,
+      "word": "沪上阿姨回应一杯开水卖10元",
+      "onboard_time": 1688391403,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2167496,
       "num": 528255,
       "word": "台媒曝吴青峰刘家凯为炎亚纶闹翻",
       "onboard_time": 1688376346,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2147992,
+      "num": 638279,
+      "word": "曝炎亚纶涉儿少性剥削",
+      "onboard_time": 1688395783,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -201,14 +217,6 @@
       "onboard_time": 1688371004,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1740187,
-      "num": 1740187,
-      "word": "沪上阿姨回应一杯开水卖10元",
-      "onboard_time": 1688391403,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1733326,
@@ -273,6 +281,14 @@
       "onboard_time": 1688370823,
       "rank": 4,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1403869,
+      "num": 336553,
+      "word": "蔡徐坤委托律所将提起刑事自诉",
+      "onboard_time": 1688396922,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1359044,
@@ -411,6 +427,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1053031,
+      "num": 1053031,
+      "word": "爷爷得知孙子四千元买条狗直接上秤",
+      "onboard_time": 1688394523,
+      "rank": 37,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1016417,
       "num": 1016417,
       "word": "环卫工人儿子高考687分被多校电话争抢",
@@ -425,6 +449,14 @@
       "onboard_time": 1688368550,
       "rank": 38,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 1006440,
+      "num": 1006440,
+      "word": "TFBOYS不合体排练吗",
+      "onboard_time": 1688394947,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1003452,
@@ -899,6 +931,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 536429,
+      "num": 536429,
+      "word": "非常理解李雪琴",
+      "onboard_time": 1688393803,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533351,
       "num": 533351,
       "word": "西南大学回应网友老实芭蕉不当言论",
@@ -971,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 497994,
+      "num": 298199,
+      "word": "秦牛正威官宣订婚后首现身",
+      "onboard_time": 1688396747,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
@@ -1032,14 +1080,6 @@
       "word": "王鹤棣宋伊人怎么认识的",
       "onboard_time": 1688311236,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 468903,
-      "num": 366793,
-      "word": "非常理解李雪琴",
-      "onboard_time": 1688393803,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1363,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339982,
+      "num": 267670,
+      "word": "这是桑延离真相最近的一次",
+      "onboard_time": 1688395483,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339765,
       "num": 381317,
       "word": "心肺复苏急救一只迷你小青蛙",
@@ -1481,6 +1529,22 @@
       "onboard_time": 1688348671,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 313400,
+      "num": 313400,
+      "word": "没房贷的下属",
+      "onboard_time": 1688395666,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 312418,
+      "num": 312418,
+      "word": "山东泰山",
+      "onboard_time": 1688393021,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 312181,
@@ -1611,6 +1675,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280520,
+      "num": 1771208,
+      "word": "巨型海底盲盒开出超18万件文物",
+      "onboard_time": 1688393504,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279333,
+      "num": 279333,
+      "word": "适合中国胃的快乐掉秤",
+      "onboard_time": 1688395242,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277119,
       "num": 277119,
       "word": "结巴的是段嘉许还是陈哲远",
@@ -1619,12 +1699,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276491,
+      "num": 276491,
+      "word": "上海网红瑞士卷店员磨洋工引争议",
+      "onboard_time": 1688396384,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274863,
       "num": 274863,
       "word": "雨衣可以先给我跳楼的事情再慢慢谈",
       "onboard_time": 1688390322,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 274730,
+      "num": 274730,
+      "word": "日本开售方形西瓜",
+      "onboard_time": 1688396864,
+      "rank": 39,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 274447,
@@ -1641,14 +1737,6 @@
       "onboard_time": 1688384259,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274308,
-      "num": 1771208,
-      "word": "巨型海底盲盒开出超18万件文物",
-      "onboard_time": 1688393504,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273954,
@@ -1673,14 +1761,6 @@
       "onboard_time": 1688349930,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 272710,
-      "num": 272710,
-      "word": "爷爷得知孙子四千元买条狗直接上秤",
-      "onboard_time": 1688394523,
-      "rank": 37,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 269178,
@@ -1723,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258222,
+      "num": 258222,
+      "word": "5个动作帮你练腹",
+      "onboard_time": 1688397042,
+      "rank": 43,
+      "category": "体育,美妆"
+    },
+    {
       "raw_hot": 258166,
       "num": 258166,
       "word": "张杰你敢不敢转过来",
@@ -1737,14 +1825,6 @@
       "onboard_time": 1688369384,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255016,
-      "num": 255016,
-      "word": "山东泰山",
-      "onboard_time": 1688393021,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 253621,
@@ -1784,6 +1864,14 @@
       "word": "可爱小猫嘬手手",
       "onboard_time": 1688374603,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 251698,
+      "num": 251698,
+      "word": "鼻孔巨震",
+      "onboard_time": 1688396081,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1921,6 +2009,14 @@
       "onboard_time": 1688380842,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222726,
+      "num": 222726,
+      "word": "当爸爸听说筷子拿得远以后嫁的远",
+      "onboard_time": 1688397280,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 222671,
@@ -2161,6 +2257,14 @@
       "onboard_time": 1688369506,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196991,
+      "num": 221105,
+      "word": "海军和平方舟号医院船起航",
+      "onboard_time": 1688397522,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 194553,
