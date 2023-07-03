@@ -1,0 +1,410 @@
+{
+  "runTime": 1688379642663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1451655,
+        "num": 1451655,
+        "word": "非洲女孩远嫁中国农村当短视频博主",
+        "onboard_time": 1688377184,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210812,
+        "num": 1210812,
+        "word": "汪峰发了个锤子",
+        "onboard_time": 1688358879,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 67047,
+        "num": 1206105,
+        "word": "毕业典礼催泪发言盘点",
+        "onboard_time": 1688368726,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6334723,
+        "num": 1167248,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189009,
+        "num": 1127854,
+        "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
+        "onboard_time": 1688360039,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1613803,
+        "num": 1103659,
+        "word": "我的新娘被人说好像杨紫",
+        "onboard_time": 1688377781,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 170196,
+        "num": 1088862,
+        "word": "7旬婆婆冒高温挑担给儿媳送菜",
+        "onboard_time": 1688379282,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063643,
+        "num": 1063643,
+        "word": "微信支付每月免费提现额度",
+        "onboard_time": 1688376404,
+        "rank": 7,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 938504,
+        "num": 938504,
+        "word": "李承铉参加张杰谢娜婚礼晕倒了",
+        "onboard_time": 1688371004,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 884159,
+        "num": 884159,
+        "word": "对方撤回了一个老太太",
+        "onboard_time": 1688366573,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1456230,
+        "num": 875529,
+        "word": "秦牛正威订婚",
+        "onboard_time": 1688364119,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793292,
+        "num": 793292,
+        "word": "赵丽颖 CL",
+        "onboard_time": 1688370823,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 4287483,
+        "num": 781843,
+        "word": "警方确认炎亚纶涉嫌偷拍私密影片",
+        "onboard_time": 1688376224,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763935,
+        "num": 763935,
+        "word": "应届生刚入职一周就想辞职",
+        "onboard_time": 1688376823,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 528208,
+        "num": 528208,
+        "word": "玉骨遥的降落伞是真伞",
+        "onboard_time": 1688373222,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446506,
+        "num": 446506,
+        "word": "香港警方悬红100万港元通缉许智峰等8人",
+        "onboard_time": 1688375080,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432586,
+        "num": 432586,
+        "word": "爸爸连买房都喜欢和朋友一起",
+        "onboard_time": 1688372326,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427502,
+        "num": 427502,
+        "word": "白敬亭脱单手串有点东西",
+        "onboard_time": 1688371123,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423847,
+        "num": 423847,
+        "word": "日本东京市中心发生爆炸",
+        "onboard_time": 1688371483,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399509,
+        "num": 399509,
+        "word": "去韩国后睡不着觉了",
+        "onboard_time": 1688375745,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2373995,
+        "num": 398071,
+        "word": "蔡徐坤回应",
+        "onboard_time": 1688355463,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388023,
+        "num": 388023,
+        "word": "袁咏仪儿子张慕童近照",
+        "onboard_time": 1688370464,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375294,
+        "num": 375294,
+        "word": "现在的人都看不出年龄了",
+        "onboard_time": 1688373463,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1969727,
+        "num": 362920,
+        "word": "蔡徐坤工作室声明",
+        "onboard_time": 1688356997,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331746,
+        "num": 331746,
+        "word": "LPL官方回应推迟开票",
+        "onboard_time": 1688376043,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341007,
+        "num": 331675,
+        "word": "萧亚轩自曝恢复单身",
+        "onboard_time": 1688371427,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1959165,
+        "num": 331217,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330458,
+        "num": 330458,
+        "word": "消失的她无剧透版剧透",
+        "onboard_time": 1688375802,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321350,
+        "num": 321350,
+        "word": "TES官博辟谣",
+        "onboard_time": 1688369265,
+        "rank": 28,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 246323,
+        "num": 310799,
+        "word": "女子刷单被骗22万仍不信民警",
+        "onboard_time": 1688366512,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1198090,
+        "num": 310299,
+        "word": "PP猪的臭宝贝已报警",
+        "onboard_time": 1688379345,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309287,
+        "num": 309287,
+        "word": "空气炸锅里放烤纸的要小心了",
+        "onboard_time": 1688378679,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305082,
+        "num": 305082,
+        "word": "金晨的多巴胺穿搭",
+        "onboard_time": 1688377781,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289104,
+        "num": 289104,
+        "word": "嬛球影城",
+        "onboard_time": 1688372085,
+        "rank": 33,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 261937,
+        "num": 261937,
+        "word": "怀孕后公司不给批辞职报告",
+        "onboard_time": 1688372205,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245311,
+        "num": 245311,
+        "word": "他卖花的时候手始终背在后面",
+        "onboard_time": 1688374842,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242625,
+        "num": 242625,
+        "word": "西南大学回应网友老实芭蕉不当言论",
+        "onboard_time": 1688373946,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 239011,
+        "num": 239011,
+        "word": "时隔多年终于理解了宛瑜",
+        "onboard_time": 1688366808,
+        "rank": 37,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 233154,
+        "num": 233154,
+        "word": "原来得溃疡以毒攻毒是对的",
+        "onboard_time": 1688368907,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229174,
+        "num": 229174,
+        "word": "在高铁上吃泡面是没有素质吗",
+        "onboard_time": 1688368786,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207890,
+        "num": 207890,
+        "word": "这是我配看的古偶吻戏吗",
+        "onboard_time": 1688376880,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207684,
+        "num": 207684,
+        "word": "周杰伦上海",
+        "onboard_time": 1688373044,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2167496,
+        "num": 206064,
+        "word": "台媒曝吴青峰刘家凯为炎亚纶闹翻",
+        "onboard_time": 1688376346,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201799,
+        "num": 201799,
+        "word": "因为不想结婚然后被妈妈骂了",
+        "onboard_time": 1688376880,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193513,
+        "num": 193513,
+        "word": "夫胜宽暂停活动",
+        "onboard_time": 1688365851,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192468,
+        "num": 192468,
+        "word": "谢谢你 小孩侠",
+        "onboard_time": 1688369746,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188078,
+        "num": 188078,
+        "word": "领导过于关心我的私生活",
+        "onboard_time": 1688372926,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179783,
+        "num": 179783,
+        "word": "三只狗狗相约一起看日出",
+        "onboard_time": 1688374423,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174622,
+        "num": 174622,
+        "word": "下班回家后立刻洗漱",
+        "onboard_time": 1688376823,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171866,
+        "num": 171866,
+        "word": "韩素希ins评论区",
+        "onboard_time": 1688369684,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把产业发展落到促进农民增收上来#"
+    }
+  }
+}

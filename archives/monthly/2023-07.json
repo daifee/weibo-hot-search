@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688376844550,
+  "endTime": 1688379642663,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -120,6 +120,14 @@
       "word": "韩媒曝李俊昊林允儿恋情",
       "onboard_time": 1688352872,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4287483,
+      "num": 781843,
+      "word": "警方确认炎亚纶涉嫌偷拍私密影片",
+      "onboard_time": 1688376224,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -289,6 +297,14 @@
       "onboard_time": 1688137964,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2167496,
+      "num": 528255,
+      "word": "台媒曝吴青峰刘家凯为炎亚纶闹翻",
+      "onboard_time": 1688376346,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 2028471,
@@ -515,14 +531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1635417,
-      "num": 574853,
-      "word": "警方确认炎亚纶涉嫌偷拍私密影片",
-      "onboard_time": 1688376224,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1630521,
       "num": 627674,
       "word": "沈涛官宣得子",
@@ -537,6 +545,14 @@
       "onboard_time": 1688276495,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1613803,
+      "num": 1103659,
+      "word": "我的新娘被人说好像杨紫",
+      "onboard_time": 1688377781,
+      "rank": 5,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1561314,
@@ -601,6 +617,14 @@
       "onboard_time": 1688358081,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1451655,
+      "num": 1451655,
+      "word": "非洲女孩远嫁中国农村当短视频博主",
+      "onboard_time": 1688377184,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1428840,
@@ -729,6 +753,14 @@
       "onboard_time": 1688296175,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1198090,
+      "num": 310299,
+      "word": "PP猪的臭宝贝已报警",
+      "onboard_time": 1688379345,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1196303,
@@ -881,6 +913,14 @@
       "onboard_time": 1688133156,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1063643,
+      "num": 1063643,
+      "word": "微信支付每月免费提现额度",
+      "onboard_time": 1688376404,
+      "rank": 34,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 1060747,
@@ -1451,6 +1491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 763935,
+      "num": 763935,
+      "word": "应届生刚入职一周就想辞职",
+      "onboard_time": 1688376823,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 758916,
       "num": 669888,
       "word": "白敬亭真不瘦",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1688373222,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 706240,
-      "num": 528255,
-      "word": "台媒曝吴青峰刘家凯为炎亚纶闹翻",
-      "onboard_time": 1688376346,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 703406,
@@ -1860,7 +1900,7 @@
     },
     {
       "raw_hot": 635541,
-      "num": 819879,
+      "num": 1127854,
       "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
       "onboard_time": 1688360039,
       "rank": 37,
@@ -3123,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399509,
+      "num": 399509,
+      "word": "去韩国后睡不着觉了",
+      "onboard_time": 1688375745,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 397296,
       "num": 397296,
       "word": "尘缘",
@@ -3329,14 +3377,6 @@
       "onboard_time": 1688294976,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372664,
-      "num": 372664,
-      "word": "去韩国后睡不着觉了",
-      "onboard_time": 1688375745,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 371941,
@@ -3939,6 +3979,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 309287,
+      "num": 309287,
+      "word": "空气炸锅里放烤纸的要小心了",
+      "onboard_time": 1688378679,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309138,
       "num": 309138,
       "word": "警方通报江西3名小孩被杀害",
@@ -4001,6 +4049,14 @@
       "onboard_time": 1688201493,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305082,
+      "num": 305082,
+      "word": "金晨的多巴胺穿搭",
+      "onboard_time": 1688377781,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304639,
@@ -4329,14 +4385,6 @@
       "onboard_time": 1688307161,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 281171,
-      "num": 318945,
-      "word": "微信支付每月免费提现额度",
-      "onboard_time": 1688376404,
-      "rank": 34,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 279663,
@@ -5283,14 +5331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228254,
-      "num": 228254,
-      "word": "应届生刚入职一周就想辞职",
-      "onboard_time": 1688376823,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227472,
       "num": 227472,
       "word": "张杰未live巡回演唱会",
@@ -5675,6 +5715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 207890,
+      "num": 207890,
+      "word": "这是我配看的古偶吻戏吗",
+      "onboard_time": 1688376880,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207687,
       "num": 207687,
       "word": "白敬亭顾九思战损海报",
@@ -5801,6 +5849,14 @@
       "onboard_time": 1688263708,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201799,
+      "num": 201799,
+      "word": "因为不想结婚然后被妈妈骂了",
+      "onboard_time": 1688376880,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 201661,
@@ -6456,6 +6512,14 @@
       "word": "满树荔枝诱人勤快的吃货们要小心了",
       "onboard_time": 1688300378,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170196,
+      "num": 1088862,
+      "word": "7旬婆婆冒高温挑担给儿媳送菜",
+      "onboard_time": 1688379282,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
