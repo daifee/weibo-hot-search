@@ -1,10 +1,10 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688340860058,
+  "endTime": 1688349093870,
   "band_list": [
     {
       "raw_hot": 9610176,
-      "num": 499509,
+      "num": 501867,
       "word": "央视频下架蔡徐坤所有视频",
       "onboard_time": 1688299053,
       "rank": 10,
@@ -17,6 +17,22 @@
       "onboard_time": 1688313395,
       "rank": 11,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 2279903,
+      "num": 500865,
+      "word": "李一桐光脚放飞机座椅上",
+      "onboard_time": 1688341890,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1733326,
+      "num": 1733326,
+      "word": "越南高考的中文题",
+      "onboard_time": 1688342309,
+      "rank": 0,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 1350127,
@@ -43,12 +59,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1121392,
+      "num": 1121392,
+      "word": "新白娘子传奇施法手势是赵雅芝设计的",
+      "onboard_time": 1688346629,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1016417,
       "num": 1016417,
       "word": "环卫工人儿子高考687分被多校电话争抢",
       "onboard_time": 1688339604,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 913965,
+      "num": 495434,
+      "word": "东亚疯不动了",
+      "onboard_time": 1688346153,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 912196,
+      "num": 912196,
+      "word": "安乐传",
+      "onboard_time": 1688344412,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 896685,
@@ -67,12 +107,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 786869,
+      "num": 786869,
+      "word": "相爱和分手的原因都是同一个",
+      "onboard_time": 1688338940,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 765969,
       "num": 765969,
       "word": "龚俊周杰伦合唱发如雪",
       "onboard_time": 1688311118,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 704033,
+      "num": 369446,
+      "word": "睡觉时身体为什么会抖一下",
+      "onboard_time": 1688343392,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 700230,
+      "num": 700230,
+      "word": "时影一定要杀朱颜的原因",
+      "onboard_time": 1688342672,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 678348,
+      "num": 493248,
+      "word": "还以为是汪东城跑调了",
+      "onboard_time": 1688347113,
+      "rank": 13,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 669227,
@@ -89,14 +161,6 @@
       "onboard_time": 1688312137,
       "rank": 12,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 609805,
-      "num": 316289,
-      "word": "相爱和分手的原因都是同一个",
-      "onboard_time": 1688338940,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 583591,
@@ -123,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541249,
+      "num": 491837,
+      "word": "隐形眼镜有根线先别急着扔",
+      "onboard_time": 1688347113,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 530769,
       "num": 530769,
       "word": "白桃星座",
@@ -139,12 +211,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 507028,
+      "num": 507028,
+      "word": "玉骨遥弑神论",
+      "onboard_time": 1688347713,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 505607,
       "num": 505607,
       "word": "黄子韬孙千徐志胜对话信息量太大了",
       "onboard_time": 1688310641,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 489002,
+      "num": 489002,
+      "word": "法国",
+      "onboard_time": 1688344172,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 484981,
@@ -155,12 +243,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 479375,
+      "num": 479375,
+      "word": "Jennie海德公园音乐节饭拍",
+      "onboard_time": 1688346093,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 470324,
       "num": 470324,
       "word": "王鹤棣宋伊人怎么认识的",
       "onboard_time": 1688311236,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436525,
+      "num": 436525,
+      "word": "BLACKPINK亮相海德公园音乐节",
+      "onboard_time": 1688342611,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 421470,
@@ -187,6 +291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 394198,
+      "num": 394198,
+      "word": "香港市民为驻港部队官兵撑伞",
+      "onboard_time": 1688343212,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 381230,
       "num": 381230,
       "word": "Jennie音乐节彩排视频",
@@ -195,12 +307,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 360676,
+      "num": 360676,
+      "word": "赚钱多和有下一代你会如何选择",
+      "onboard_time": 1688341648,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347965,
+      "num": 347965,
+      "word": "黄磊何炅重回第一季蘑菇屋",
+      "onboard_time": 1688340867,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345417,
       "num": 328505,
       "word": "伊能静一回台北就发胖",
       "onboard_time": 1688311836,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342215,
+      "num": 342215,
+      "word": "北电脸上戏脸中戏脸",
+      "onboard_time": 1688344773,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 341849,
@@ -259,6 +395,30 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 298838,
+      "num": 298838,
+      "word": "中学图书馆为保护古树在大厅开洞",
+      "onboard_time": 1688347831,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296756,
+      "num": 296756,
+      "word": "张杰回应巡演脱衣服",
+      "onboard_time": 1688344830,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 287311,
+      "num": 287311,
+      "word": "武汉牛肉粉店一天卖光一头牛",
+      "onboard_time": 1688348429,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284123,
       "num": 249974,
       "word": "玉骨遥美工好忙",
@@ -273,6 +433,22 @@
       "onboard_time": 1688338940,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273626,
+      "num": 273626,
+      "word": "爷爷奶奶曾经的结婚证",
+      "onboard_time": 1688347113,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 258166,
+      "num": 258166,
+      "word": "张杰你敢不敢转过来",
+      "onboard_time": 1688341528,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 244318,
@@ -291,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236329,
+      "num": 236329,
+      "word": "坐飞机遇到了很哇塞的父母",
+      "onboard_time": 1688343273,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 235166,
       "num": 235166,
       "word": "朱一龙文咏珊好像两台扫描仪",
@@ -305,6 +489,14 @@
       "onboard_time": 1688293955,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233966,
+      "num": 233966,
+      "word": "父母做过什么让你忽然寒心",
+      "onboard_time": 1688347474,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 233538,
@@ -371,12 +563,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198991,
+      "num": 198991,
+      "word": "美财政部部长将访华",
+      "onboard_time": 1688348131,
+      "rank": 36,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 198947,
       "num": 198947,
       "word": "外卖已经发展成这样了吗",
       "onboard_time": 1688295395,
       "rank": 35,
       "category": "科技,美食"
+    },
+    {
+      "raw_hot": 197448,
+      "num": 197448,
+      "word": "同时入职的同事涨薪了",
+      "onboard_time": 1688341409,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 196202,
+      "num": 196202,
+      "word": "EXO预告",
+      "onboard_time": 1688343332,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 194553,
@@ -387,12 +603,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192309,
+      "num": 192309,
+      "word": "赵露思桑稚走出漫画",
+      "onboard_time": 1688343273,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190766,
       "num": 190766,
       "word": "小伙头发还没冲干净跑步加入救人队伍",
       "onboard_time": 1688313033,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 186203,
+      "num": 186203,
+      "word": "长风渡又断更了",
+      "onboard_time": 1688344593,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 185806,
@@ -411,12 +643,28 @@
       "category": "幽默,游戏"
     },
     {
+      "raw_hot": 177172,
+      "num": 177172,
+      "word": "周杰伦演唱会现场安保合唱你听得到视频",
+      "onboard_time": 1688345975,
+      "rank": 41,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 174072,
       "num": 174072,
       "word": "林高远4比3樊振东",
       "onboard_time": 1688311001,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171096,
+      "num": 171096,
+      "word": "日本女高真是独特的关系",
+      "onboard_time": 1688348671,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 166438,
@@ -491,12 +739,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136043,
+      "num": 136043,
+      "word": "桑稚桑延猫捉老鼠版",
+      "onboard_time": 1688348969,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135330,
       "num": 135330,
       "word": "沈梦辰戴脐钉",
       "onboard_time": 1688291791,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130901,
+      "num": 130901,
+      "word": "戈登加盟太阳",
+      "onboard_time": 1688341048,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130206,
+      "num": 130206,
+      "word": "黄景瑜这一脚踹的好实在",
+      "onboard_time": 1688340386,
+      "rank": 38,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 119828,
@@ -523,12 +795,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113371,
-      "num": 113371,
-      "word": "黄景瑜这一脚踹的好实在",
-      "onboard_time": 1688340386,
-      "rank": 38,
-      "category": "综艺,幽默"
+      "raw_hot": 105177,
+      "num": 268171,
+      "word": "熊掌拨清波有画面了",
+      "onboard_time": 1688340808,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104782,
+      "num": 125236,
+      "word": "枇杷膏火锅",
+      "onboard_time": 1688342972,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 95355,
@@ -537,14 +817,6 @@
       "onboard_time": 1688317043,
       "rank": 44,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 89007,
-      "num": 89007,
-      "word": "熊掌拨清波有画面了",
-      "onboard_time": 1688340808,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86967,
@@ -587,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 49615,
+      "num": 944426,
+      "word": "他们获颁光荣在党50年纪念章",
+      "onboard_time": 1688306982,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39476,
       "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
@@ -600,14 +880,6 @@
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26620,
-      "num": 643717,
-      "word": "他们获颁光荣在党50年纪念章",
-      "onboard_time": 1688306982,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
