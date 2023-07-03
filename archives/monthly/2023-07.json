@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688420044854,
+  "endTime": 1688422730614,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -6483,6 +6483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202219,
+      "num": 202219,
+      "word": "大熊猫萌兰",
+      "onboard_time": 1688414173,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 201993,
       "num": 201993,
       "word": "长沙雷公一家人终于要吃团圆饭了",
@@ -7579,6 +7587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136223,
+      "num": 122844,
+      "word": "父亲和丈夫的尊重要自己去赚",
+      "onboard_time": 1688405540,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 136043,
       "num": 136043,
       "word": "桑稚桑延猫捉老鼠版",
@@ -7651,14 +7667,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 129050,
-      "num": 129050,
-      "word": "大熊猫萌兰",
-      "onboard_time": 1688414173,
-      "rank": 8,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 126180,
       "num": 1785308,
       "word": "青藏铁路开启动车时代",
@@ -7673,6 +7681,22 @@
       "onboard_time": 1688174852,
       "rank": 49,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 125197,
+      "num": 125197,
+      "word": "店长回应多个榴莲被偷吃损失近千元",
+      "onboard_time": 1688420413,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124755,
+      "num": 124755,
+      "word": "给校长撑伞挡雨的书记是山东人",
+      "onboard_time": 1688412075,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124244,
@@ -7713,14 +7737,6 @@
       "onboard_time": 1688317283,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116262,
-      "num": 71333,
-      "word": "父亲和丈夫的尊重要自己去赚",
-      "onboard_time": 1688405540,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 115967,
@@ -8051,20 +8067,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54562,
+      "num": 54562,
+      "word": "偷偷藏不住今晚全糖轰炸",
+      "onboard_time": 1688409556,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54375,
       "num": 503686,
       "word": "赵长江称腾势N7领先两代",
       "onboard_time": 1688371483,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 51819,
-      "num": 51819,
-      "word": "偷偷藏不住今晚全糖轰炸",
-      "onboard_time": 1688409556,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 49615,
@@ -8107,20 +8123,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 46341,
-      "num": 46341,
-      "word": "给校长撑伞挡雨的书记是山东人",
-      "onboard_time": 1688412075,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42777,
       "num": 93840,
       "word": "重庆的挑挑美食到底有多好吃",
       "onboard_time": 1688143647,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 41702,
+      "num": 48335,
+      "word": "最爱九思和玉茹的两个人",
+      "onboard_time": 1688418432,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 39476,
@@ -8177,14 +8193,6 @@
       "onboard_time": 1688324533,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24890,
-      "num": 32714,
-      "word": "最爱九思和玉茹的两个人",
-      "onboard_time": 1688418432,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 19992,

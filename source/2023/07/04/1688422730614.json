@@ -1,0 +1,410 @@
+{
+  "runTime": 1688422730614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1077710,
+        "num": 1077710,
+        "word": "369",
+        "onboard_time": 1688400456,
+        "rank": 0,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 410965,
+        "num": 410965,
+        "word": "JackeyLove退出亚运会名单",
+        "onboard_time": 1688401770,
+        "rank": 1,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 41545,
+        "num": 249891,
+        "word": "巨型海底盲盒开出超18万件文物",
+        "onboard_time": 1688393504,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202219,
+        "num": 202219,
+        "word": "大熊猫萌兰",
+        "onboard_time": 1688414173,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 179825,
+        "num": 179825,
+        "word": "爷爷得知孙子四千元买条狗直接上秤",
+        "onboard_time": 1688394523,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 166076,
+        "num": 166076,
+        "word": "如何评价蔡徐坤道歉",
+        "onboard_time": 1688413453,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130068,
+        "num": 130068,
+        "word": "沪上阿姨回应一杯开水卖10元",
+        "onboard_time": 1688391403,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125197,
+        "num": 125197,
+        "word": "店长回应多个榴莲被偷吃损失近千元",
+        "onboard_time": 1688420413,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124755,
+        "num": 124755,
+        "word": "给校长撑伞挡雨的书记是山东人",
+        "onboard_time": 1688412075,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124238,
+        "num": 124238,
+        "word": "工人高温修空调女子留吃饭多给200元",
+        "onboard_time": 1688401833,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269641,
+        "num": 122957,
+        "word": "浪胃仙瘦成纸片人",
+        "onboard_time": 1688391581,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136223,
+        "num": 122844,
+        "word": "父亲和丈夫的尊重要自己去赚",
+        "onboard_time": 1688405540,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 120036,
+        "num": 120036,
+        "word": "秦牛正威官宣订婚后首现身",
+        "onboard_time": 1688396747,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113217,
+        "num": 113217,
+        "word": "女子外卖备注多放醋商家送1大袋",
+        "onboard_time": 1688400755,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110969,
+        "num": 110969,
+        "word": "微信支付每月免费提现额度",
+        "onboard_time": 1688376404,
+        "rank": 14,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 105160,
+        "num": 105160,
+        "word": "上海网红瑞士卷店员磨洋工引争议",
+        "onboard_time": 1688396384,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87902,
+        "num": 87902,
+        "word": "非常理解李雪琴",
+        "onboard_time": 1688393803,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84016,
+        "num": 84016,
+        "word": "非洲女孩远嫁中国农村当短视频博主",
+        "onboard_time": 1688377184,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77284,
+        "num": 77284,
+        "word": "为什么运钞车不直接运一张银行卡",
+        "onboard_time": 1688388579,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 70512,
+        "num": 70512,
+        "word": "我的新娘被人说好像杨紫",
+        "onboard_time": 1688377781,
+        "rank": 19,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 104811,
+        "num": 69259,
+        "word": "看书与不看书的区别",
+        "onboard_time": 1688391636,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 65302,
+        "num": 65302,
+        "word": "韩安冉回应参加婚礼份子钱最低千元",
+        "onboard_time": 1688407577,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63937,
+        "num": 63937,
+        "word": "369退出亚运会名单",
+        "onboard_time": 1688402013,
+        "rank": 22,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 63684,
+        "num": 63684,
+        "word": "肖战玉骨遥里也有陈情令演员",
+        "onboard_time": 1688389543,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62788,
+        "num": 62788,
+        "word": "当你去女朋友家超过四次之后",
+        "onboard_time": 1688385637,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60195,
+        "num": 60195,
+        "word": "玉骨遥镜头vs陈情令镜头",
+        "onboard_time": 1688399796,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56796,
+        "num": 56796,
+        "word": "没房贷的下属",
+        "onboard_time": 1688395666,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56668,
+        "num": 56668,
+        "word": "杨蓉的身材",
+        "onboard_time": 1688393441,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54562,
+        "num": 54562,
+        "word": "偷偷藏不住今晚全糖轰炸",
+        "onboard_time": 1688409556,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54504,
+        "num": 54504,
+        "word": "TFBOYS不合体排练吗",
+        "onboard_time": 1688394947,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 680917,
+        "num": 54066,
+        "word": "21岁姑娘新婚初夜出血1500ml",
+        "onboard_time": 1688400034,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119720,
+        "num": 53513,
+        "word": "蔡徐坤委托律所将提起刑事自诉",
+        "onboard_time": 1688396922,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52623,
+        "num": 52623,
+        "word": "宋轶是不是男生都喜欢的类型",
+        "onboard_time": 1688389059,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48352,
+        "num": 48352,
+        "word": "孟子义把周也哄睡后去打牌",
+        "onboard_time": 1688382639,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46165,
+        "num": 48350,
+        "word": "中南大学一校友向母校捐赠6亿",
+        "onboard_time": 1688388940,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 44643,
+        "num": 48344,
+        "word": "李承铉参加张杰谢娜婚礼晕倒了",
+        "onboard_time": 1688371004,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41865,
+        "num": 48337,
+        "word": "广东地震",
+        "onboard_time": 1688389600,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41702,
+        "num": 48335,
+        "word": "最爱九思和玉茹的两个人",
+        "onboard_time": 1688418432,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40035,
+        "num": 48331,
+        "word": "八角笼中",
+        "onboard_time": 1688390860,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39932,
+        "num": 48320,
+        "word": "找对象要找帅的 只有帅才是真的",
+        "onboard_time": 1688381505,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 169851,
+        "num": 48317,
+        "word": "蔡徐坤报案回执",
+        "onboard_time": 1688380665,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105133,
+        "num": 48314,
+        "word": "蔡徐坤 照片不是我",
+        "onboard_time": 1688361395,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37970,
+        "num": 48304,
+        "word": "袁咏仪儿子张慕童近照",
+        "onboard_time": 1688370464,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37064,
+        "num": 48299,
+        "word": "TFBOYS演唱会审批",
+        "onboard_time": 1688390921,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38545,
+        "num": 48295,
+        "word": "蔡徐坤否认女方未成年及强制堕胎",
+        "onboard_time": 1688359492,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32942,
+        "num": 48293,
+        "word": "这是桑延离真相最近的一次",
+        "onboard_time": 1688395483,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31921,
+        "num": 48288,
+        "word": "真情侣vs假情侣回应",
+        "onboard_time": 1688384916,
+        "rank": 46,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 31592,
+        "num": 48278,
+        "word": "吴磊深V",
+        "onboard_time": 1688390142,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29941,
+        "num": 48275,
+        "word": "玉骨遥",
+        "onboard_time": 1688392962,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29103,
+        "num": 48268,
+        "word": "韩素希将出演新剧鬼怪",
+        "onboard_time": 1688400213,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#即便风雨兼程也能一路生花#"
+    }
+  }
+}
