@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688415652255,
+  "endTime": 1688416435544,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -2499,20 +2499,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168815,
+      "num": 168815,
+      "word": "如何评价蔡徐坤道歉",
+      "onboard_time": 1688413453,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167014,
       "num": 167014,
       "word": "见到哥哥回家妹妹笑着笑着就哭了",
       "onboard_time": 1688368605,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166501,
-      "num": 166501,
-      "word": "如何评价蔡徐坤道歉",
-      "onboard_time": 1688413453,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 166438,
@@ -2875,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77292,
+      "num": 77292,
+      "word": "大熊猫萌兰",
+      "onboard_time": 1688414173,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 76717,
       "num": 76717,
       "word": "男孩中考获A等分单亲妈妈喜极而泣",
@@ -2913,14 +2921,6 @@
       "onboard_time": 1688320398,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 57102,
-      "num": 57102,
-      "word": "大熊猫萌兰",
-      "onboard_time": 1688414173,
-      "rank": 8,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 54375,
@@ -2987,6 +2987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27125,
+      "num": 27353,
+      "word": "给校长撑伞挡雨的书记是山东人",
+      "onboard_time": 1688412075,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27046,
       "num": 33217,
       "word": "温网2023",
@@ -3000,14 +3008,6 @@
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25824,
-      "num": 27353,
-      "word": "给校长撑伞挡雨的书记是山东人",
-      "onboard_time": 1688412075,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
