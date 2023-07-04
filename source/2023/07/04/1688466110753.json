@@ -1,0 +1,410 @@
+{
+  "runTime": 1688466110753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6948197,
+        "num": 6948197,
+        "word": "痞幼",
+        "onboard_time": 1688462855,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 444090,
+        "num": 2959463,
+        "word": "孙女帮八旬爷爷实现零食自由",
+        "onboard_time": 1688463457,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49379,
+        "num": 2379218,
+        "word": "西汉青铜灯人性化设计太妙了",
+        "onboard_time": 1688441375,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1894532,
+        "num": 1894532,
+        "word": "男生被要28万8彩礼写信给县长求整治",
+        "onboard_time": 1688457874,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273408,
+        "num": 1274327,
+        "word": "同济520宿舍四位女生全员上岸名校",
+        "onboard_time": 1688464238,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1104331,
+        "num": 1104331,
+        "word": "秦牛正威改名秦语鹿",
+        "onboard_time": 1688452893,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 996002,
+        "num": 996002,
+        "word": "广东人正式被确诊为依萍",
+        "onboard_time": 1688455654,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918325,
+        "num": 918325,
+        "word": "假装发错消息给喜欢的人",
+        "onboard_time": 1688462737,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 731701,
+        "num": 731701,
+        "word": "健身网红拉丝哥离世",
+        "onboard_time": 1688456675,
+        "rank": 8,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 669723,
+        "num": 669723,
+        "word": "WBG打野",
+        "onboard_time": 1688464536,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 774175,
+        "num": 667058,
+        "word": "牵手门涉事男领导仍担任企业高管",
+        "onboard_time": 1688460754,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656189,
+        "num": 656189,
+        "word": "台湾网友跟着解放军用别瞎吵吵造句",
+        "onboard_time": 1688463577,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558992,
+        "num": 558992,
+        "word": "杨洋王楚然荧幕初吻都给了马思纯",
+        "onboard_time": 1688461597,
+        "rank": 12,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 544746,
+        "num": 544746,
+        "word": "TFBOYS为王源课桌背后打call",
+        "onboard_time": 1688462497,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532475,
+        "num": 532475,
+        "word": "肖战片场公主抱任敏",
+        "onboard_time": 1688461535,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508024,
+        "num": 508024,
+        "word": "宁艺卓被Ella三连问",
+        "onboard_time": 1688465676,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483357,
+        "num": 483357,
+        "word": "头发染得再黄鼻子修得再尖也变不了欧美人",
+        "onboard_time": 1688454273,
+        "rank": 16,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 159261,
+        "num": 444170,
+        "word": "熊猫演绎啥叫又菜又爱玩",
+        "onboard_time": 1688464837,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 439483,
+        "num": 439483,
+        "word": "金星吐槽女明星走红毯捂胸口",
+        "onboard_time": 1688439275,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421342,
+        "num": 421342,
+        "word": "中方回应越南因南海九段线禁映芭比",
+        "onboard_time": 1688462319,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 735346,
+        "num": 416793,
+        "word": "迪丽热巴的蓝色挑染",
+        "onboard_time": 1688460577,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 610922,
+        "num": 411771,
+        "word": "考研上岸了妈妈却叫我不要读",
+        "onboard_time": 1688461416,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 541419,
+        "num": 408393,
+        "word": "离职最后一天让公司损失几十万",
+        "onboard_time": 1688464603,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 527506,
+        "num": 404638,
+        "word": "生理期不能吃的水果",
+        "onboard_time": 1688455536,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 422451,
+        "num": 398685,
+        "word": "金星 不需要靠夸张服饰来赚取眼球",
+        "onboard_time": 1688449600,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167902,
+        "num": 393918,
+        "word": "民警接过一支烟救下一条命",
+        "onboard_time": 1688457696,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392131,
+        "num": 392131,
+        "word": "Jennie戳爷lily合照",
+        "onboard_time": 1688456315,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 360491,
+        "num": 360491,
+        "word": "三亚被偷住别墅喝光茅台房主是痞幼",
+        "onboard_time": 1688465560,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354522,
+        "num": 354522,
+        "word": "幼儿在公共场合哭闹 泰森原则",
+        "onboard_time": 1688455296,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349401,
+        "num": 349401,
+        "word": "入职一年送走了41位同事",
+        "onboard_time": 1688457756,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334977,
+        "num": 334977,
+        "word": "杨紫背好薄",
+        "onboard_time": 1688454877,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 330163,
+        "num": 330163,
+        "word": "田曦薇被帅哭了",
+        "onboard_time": 1688464417,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322299,
+        "num": 322299,
+        "word": "短发女警刘欣走了",
+        "onboard_time": 1688457156,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308023,
+        "num": 308023,
+        "word": "婚检后才知道自己有蚕豆病",
+        "onboard_time": 1688443121,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306296,
+        "num": 306296,
+        "word": "把苹果咬成我买不起的样子",
+        "onboard_time": 1688465378,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302150,
+        "num": 302150,
+        "word": "比失业还可怕的是什么",
+        "onboard_time": 1688461956,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295400,
+        "num": 295400,
+        "word": "芭比",
+        "onboard_time": 1688465738,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294741,
+        "num": 294741,
+        "word": "YGSMTOWNHYBE进行现场调查",
+        "onboard_time": 1688460577,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294478,
+        "num": 294478,
+        "word": "王嘉尔官宣加盟舞台2023",
+        "onboard_time": 1688461358,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283004,
+        "num": 283004,
+        "word": "燕京啤酒回应蔡徐坤事件",
+        "onboard_time": 1688428114,
+        "rank": 39,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 265748,
+        "num": 265748,
+        "word": "任敏认领猪猪敏",
+        "onboard_time": 1688452655,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260410,
+        "num": 260410,
+        "word": "赵露思穿JK跳gee",
+        "onboard_time": 1688458235,
+        "rank": 41,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 260391,
+        "num": 260391,
+        "word": "去看痛经医生叫我生孩子",
+        "onboard_time": 1688442579,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233989,
+        "num": 233989,
+        "word": "长风渡返乡名单里有宋亚轩",
+        "onboard_time": 1688465920,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233417,
+        "num": 233417,
+        "word": "王一博新电影叫小沈阳谢哥",
+        "onboard_time": 1688460155,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219548,
+        "num": 219548,
+        "word": "NIP让一追二RNG",
+        "onboard_time": 1688463758,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219101,
+        "num": 219101,
+        "word": "白敬亭说没人比我更合适顾九思",
+        "onboard_time": 1688453798,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212118,
+        "num": 212118,
+        "word": "男子吃菌后看到冰块飘空中果断报警",
+        "onboard_time": 1688452598,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 211808,
+        "num": 211808,
+        "word": "王楚然一天有三部剧要宣传",
+        "onboard_time": 1688463154,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211772,
+        "num": 211772,
+        "word": "金钟云直播",
+        "onboard_time": 1688462737,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#即便风雨兼程也能一路生花#"
+    }
+  }
+}
