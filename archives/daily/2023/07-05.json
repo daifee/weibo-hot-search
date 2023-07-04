@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688491059562,
+  "endTime": 1688492167435,
   "band_list": [
     {
       "raw_hot": 1480616,
@@ -211,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228123,
+      "num": 228123,
+      "word": "时影刚满18就要开始带娃了",
+      "onboard_time": 1688491519,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215459,
       "num": 215459,
       "word": "公积金年度结息到账",
       "onboard_time": 1688470414,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 211701,
+      "num": 211701,
+      "word": "朱某龙骑车去痞幼家偷茅台",
+      "onboard_time": 1688470116,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 209500,
@@ -241,14 +257,6 @@
       "onboard_time": 1688475513,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190336,
-      "num": 190336,
-      "word": "朱某龙骑车去痞幼家偷茅台",
-      "onboard_time": 1688470116,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 178657,
@@ -427,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17587,
+      "raw_hot": 19059,
       "num": 439973,
       "word": "这段交通安全宣传片看得有点上头",
       "onboard_time": 1688470055,

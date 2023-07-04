@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688491059562,
+  "endTime": 1688492167435,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -3921,6 +3921,14 @@
       "onboard_time": 1688289934,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228123,
+      "num": 228123,
+      "word": "时影刚满18就要开始带娃了",
+      "onboard_time": 1688491519,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 225651,
