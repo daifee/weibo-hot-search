@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688499241576,
+  "endTime": 1688502057285,
   "band_list": [
     {
       "raw_hot": 1480616,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34942,
+      "num": 43543,
+      "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
+      "onboard_time": 1688500513,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 31945,
       "num": 50811,
       "word": "雨天积水伴郎团蹚水抬新娘进门",
@@ -481,6 +489,14 @@
       "onboard_time": 1688470055,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17338,
+      "num": 43226,
+      "word": "刘耀文的领口很危险",
+      "onboard_time": 1688500931,
+      "rank": 47,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
