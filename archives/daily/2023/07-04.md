@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/04 00:24:21 ~ 2023/07/04 14:26:16
+本榜单时间：2023/07/04 00:24:21 ~ 2023/07/04 14:40:28
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB3%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E9%80%BC%E5%90%83%E7%B2%AA%E4%BE%BF%E7%94%B7%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+被3名未成年逼吃粪便男童父亲发声（热度：3118420）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%89%A7%E4%BA%8B%23" target="weibo">
 黑执事（热度：3049665）
 </a>
@@ -63,8 +69,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB3%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E9%80%BC%E5%90%83%E7%B2%AA%E4%BE%BF%E7%94%B7%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-被3名未成年逼吃粪便男童父亲发声（热度：2649105）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%20%E4%B8%8D%E9%9C%80%E8%A6%81%E9%9D%A0%E5%A4%B8%E5%BC%A0%E6%9C%8D%E9%A5%B0%E6%9D%A5%E8%B5%9A%E5%8F%96%E7%9C%BC%E7%90%83%23" target="weibo">
+金星 不需要靠夸张服饰来赚取眼球（热度：2384141）
 </a>
 </li>
 
@@ -77,12 +83,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%8A%A5%E6%A1%88%E5%9B%9E%E6%89%A7%23" target="weibo">
 蔡徐坤报案回执（热度：2237999）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%20%E4%B8%8D%E9%9C%80%E8%A6%81%E9%9D%A0%E5%A4%B8%E5%BC%A0%E6%9C%8D%E9%A5%B0%E6%9D%A5%E8%B5%9A%E5%8F%96%E7%9C%BC%E7%90%83%23" target="weibo">
-金星 不需要靠夸张服饰来赚取眼球（热度：2202802）
 </a>
 </li>
 
@@ -106,7 +106,7 @@ JackeyLove退出亚运会名单（热度：2146090）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23" target="weibo">
-沈阳发现一例猴痘病例（热度：1706012）
+沈阳发现一例猴痘病例（热度：1840884）
 </a>
 </li>
 
@@ -131,6 +131,12 @@ iPhone15及Plus新增青绿色（热度：1462994）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E6%AC%BE%E4%B8%8D%E8%B6%B310%E4%B8%87%23" target="weibo">
 超7成年轻人存款不足10万（热度：1448199）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%23" target="weibo">
+猴痘（热度：1412725）
 </a>
 </li>
 
@@ -161,12 +167,6 @@ iPhone15及Plus新增青绿色（热度：1462994）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%AF%B4%E7%AC%91%E6%AD%BB%E7%9A%84%E4%BA%BA%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BD%A0%E7%9A%84%E5%BF%83%E8%84%8F%E4%BA%86%23" target="weibo">
 爱说笑死的人要注意你的心脏了（热度：1166889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%23" target="weibo">
-猴痘（热度：1156033）
 </a>
 </li>
 
@@ -202,7 +202,13 @@ iPhone15及Plus新增青绿色（热度：1462994）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A1%97%E8%BE%B9%E5%8D%96%E5%8D%AB%E7%94%9F%E5%B7%BE%E9%81%AD%E6%8E%80%E6%91%8A%E9%AA%82%E6%99%A6%E6%B0%94%23" target="weibo">
-男生街边卖卫生巾遭掀摊骂晦气（热度：1015299）
+男生街边卖卫生巾遭掀摊骂晦气（热度：1077170）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%98%AF%E7%94%A8%E9%92%A2%E5%81%9A%E7%9A%84%23" target="weibo">
+北科大录取通知书是用钢做的（热度：1040332）
 </a>
 </li>
 
@@ -327,6 +333,12 @@ TFBOYS不合体排练吗（热度：841410）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88KTV%E9%87%8C%E9%9D%A2%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%AF%9D%E7%AD%92%23" target="weibo">
+为什么KTV里面只有两个话筒（热度：687943）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E8%8D%AF%E6%B0%B4%E4%B8%8D%E8%83%BD%E6%BB%B4%E5%9C%A8%E7%9C%BC%E7%9D%9B%E4%B8%8A%23" target="weibo">
 眼药水不能滴在眼睛上（热度：686525）
 </a>
@@ -351,6 +363,12 @@ treasure（热度：668903）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%8A%82%E7%9B%AE%E9%95%9C%E5%A4%B4%E9%81%AD%E5%88%A0%E5%87%8F%23" target="weibo">
+炎亚纶节目镜头遭删减（热度：623986）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%96%AF%E5%88%B0%E6%88%91%E4%BB%AC%E4%BA%86%23" target="weibo">
 文俊辉你真的疯到我们了（热度：610571）
 </a>
@@ -359,12 +377,6 @@ treasure（热度：668903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BB%91%E8%A1%A3%E6%92%91%E4%BC%9E%E8%BD%AC%E5%9C%88%23" target="weibo">
 肖战黑衣撑伞转圈（热度：596209）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%98%AF%E7%94%A8%E9%92%A2%E5%81%9A%E7%9A%84%23" target="weibo">
-北科大录取通知书是用钢做的（热度：576105）
 </a>
 </li>
 
@@ -387,14 +399,14 @@ treasure（热度：668903）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88KTV%E9%87%8C%E9%9D%A2%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%AF%9D%E7%AD%92%23" target="weibo">
-为什么KTV里面只有两个话筒（热度：540909）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E7%94%B7%E7%94%9F%E9%83%BD%E5%96%9C%E6%AC%A2%E7%9A%84%E7%B1%BB%E5%9E%8B%23" target="weibo">
+宋轶是不是男生都喜欢的类型（热度：526062）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%98%AF%E4%B8%8D%E6%98%AF%E7%94%B7%E7%94%9F%E9%83%BD%E5%96%9C%E6%AC%A2%E7%9A%84%E7%B1%BB%E5%9E%8B%23" target="weibo">
-宋轶是不是男生都喜欢的类型（热度：526062）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%B6%85400%E4%B8%87%E4%BA%BA%E4%BA%BA%E5%9D%87%E5%88%B0%E8%B4%A6494%E5%85%83%23" target="weibo">
+杭州超400万人人均到账494元（热度：491302）
 </a>
 </li>
 
@@ -479,12 +491,6 @@ treasure（热度：668903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%92%8C%E4%B8%88%E5%A4%AB%E7%9A%84%E5%B0%8A%E9%87%8D%E8%A6%81%E8%87%AA%E5%B7%B1%E5%8E%BB%E8%B5%9A%23" target="weibo">
 父亲和丈夫的尊重要自己去赚（热度：414940）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%B6%85400%E4%B8%87%E4%BA%BA%E4%BA%BA%E5%9D%87%E5%88%B0%E8%B4%A6494%E5%85%83%23" target="weibo">
-杭州超400万人人均到账494元（热度：402928）
 </a>
 </li>
 
@@ -669,6 +675,12 @@ TFBOYS演唱会审批（热度：355755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E6%8A%A2%E6%96%B9%E4%BE%BF%E9%9D%A2%E6%B1%A4%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%23" target="weibo">
+因为抢方便面汤被通报批评（热度：267428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23369%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23" target="weibo">
 369退出亚运会名单（热度：265642）
 </a>
@@ -789,6 +801,12 @@ TFBOYS演唱会审批（热度：355755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AE%B5%E5%98%89%E8%AE%B8%E4%B9%9F%E8%A2%AB%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E9%AA%97%E4%BA%86%23" target="weibo">
+段嘉许也被行车记录仪骗了（热度：225875）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E5%B0%86%E5%87%BA%E6%BC%94%E6%96%B0%E5%89%A7%E9%AC%BC%E6%80%AA%23" target="weibo">
 韩素希将出演新剧鬼怪（热度：225216）
 </a>
@@ -803,6 +821,18 @@ TFBOYS演唱会审批（热度：355755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%96%B9%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 韩素希方否认恋情（热度：224640）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%AF%B9%E6%81%B6%E6%84%8F%E4%B8%8D%E8%A6%81%E5%8E%BB%E5%BD%93%E9%82%A3%E5%8F%AA%E7%8B%97%23" target="weibo">
+面对恶意不要去当那只狗（热度：224176）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E8%8F%8C%E5%90%8E%E7%9C%8B%E5%88%B0%E5%86%B0%E5%9D%97%E9%A3%98%E7%A9%BA%E4%B8%AD%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23" target="weibo">
+男子吃菌后看到冰块飘空中果断报警（热度：223713）
 </a>
 </li>
 
@@ -827,6 +857,12 @@ TFBOYS演唱会审批（热度：355755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B7%8D%E5%8C%97%E4%BA%AC%23" target="weibo">
 许巍北京（热度：219046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%AA%81%E7%84%B6%E8%B7%9F%E6%88%91%E8%AF%B4%E8%BF%99%E4%BA%9B%23" target="weibo">
+男朋友突然跟我说这些（热度：216995）
 </a>
 </li>
 
@@ -875,6 +911,12 @@ TFBOYS演唱会审批（热度：355755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%B0%9B%E5%9B%B4%E5%A5%BD%E8%87%AA%E5%B7%B1%E4%BC%9A%E8%87%AA%E5%8D%91%23" target="weibo">
 别人的家庭氛围好自己会自卑（热度：195141）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E8%AE%A4%E9%A2%86%E7%8C%AA%E7%8C%AA%E6%95%8F%23" target="weibo">
+任敏认领猪猪敏（热度：194676）
 </a>
 </li>
 
@@ -935,18 +977,6 @@ TFBOYS演唱会审批（热度：355755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%89%E9%AA%A8%E9%81%A5%E9%87%8C%E4%B9%9F%E6%9C%89%E9%99%88%E6%83%85%E4%BB%A4%E6%BC%94%E5%91%98%23" target="weibo">
 肖战玉骨遥里也有陈情令演员（热度：178547）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%8A%82%E7%9B%AE%E9%95%9C%E5%A4%B4%E9%81%AD%E5%88%A0%E5%87%8F%23" target="weibo">
-炎亚纶节目镜头遭删减（热度：178324）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%AA%81%E7%84%B6%E8%B7%9F%E6%88%91%E8%AF%B4%E8%BF%99%E4%BA%9B%23" target="weibo">
-男朋友突然跟我说这些（热度：176663）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688451976261,
+  "endTime": 1688452828013,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3118420,
+      "num": 768871,
+      "word": "被3名未成年逼吃粪便男童父亲发声",
+      "onboard_time": 1688447621,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3049665,
       "num": 3049665,
       "word": "黑执事",
@@ -67,12 +75,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2649105,
-      "num": 768871,
-      "word": "被3名未成年逼吃粪便男童父亲发声",
-      "onboard_time": 1688447621,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 2384141,
+      "num": 1214736,
+      "word": "金星 不需要靠夸张服饰来赚取眼球",
+      "onboard_time": 1688449600,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2344347,
@@ -88,14 +96,6 @@
       "word": "蔡徐坤报案回执",
       "onboard_time": 1688380665,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2202802,
-      "num": 1131021,
-      "word": "金星 不需要靠夸张服饰来赚取眼球",
-      "onboard_time": 1688449600,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -123,8 +123,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1706012,
-      "num": 1706012,
+      "raw_hot": 1840884,
+      "num": 1840884,
       "word": "沈阳发现一例猴痘病例",
       "onboard_time": 1688448277,
       "rank": 22,
@@ -161,6 +161,14 @@
       "onboard_time": 1688423780,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1412725,
+      "num": 1412725,
+      "word": "猴痘",
+      "onboard_time": 1688449059,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1336526,
@@ -203,14 +211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1156033,
-      "num": 1156033,
-      "word": "猴痘",
-      "onboard_time": 1688449059,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1151790,
       "num": 538495,
       "word": "去看痛经医生叫我生孩子",
@@ -251,12 +251,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1015299,
+      "raw_hot": 1077170,
       "num": 722880,
       "word": "男生街边卖卫生巾遭掀摊骂晦气",
       "onboard_time": 1688446964,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1040332,
+      "num": 1040332,
+      "word": "北科大录取通知书是用钢做的",
+      "onboard_time": 1688447143,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 996652,
@@ -419,6 +427,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 687943,
+      "num": 399636,
+      "word": "为什么KTV里面只有两个话筒",
+      "onboard_time": 1688450496,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 686525,
       "num": 686525,
       "word": "眼药水不能滴在眼睛上",
@@ -451,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 623986,
+      "num": 623986,
+      "word": "炎亚纶节目镜头遭删减",
+      "onboard_time": 1688451873,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610571,
       "num": 610571,
       "word": "文俊辉你真的疯到我们了",
@@ -465,14 +489,6 @@
       "onboard_time": 1688445825,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 576105,
-      "num": 576105,
-      "word": "北科大录取通知书是用钢做的",
-      "onboard_time": 1688447143,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 569918,
@@ -499,20 +515,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 540909,
-      "num": 399636,
-      "word": "为什么KTV里面只有两个话筒",
-      "onboard_time": 1688450496,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 526062,
       "num": 526062,
       "word": "宋轶是不是男生都喜欢的类型",
       "onboard_time": 1688389059,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 491302,
+      "num": 491302,
+      "word": "杭州超400万人人均到账494元",
+      "onboard_time": 1688447080,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 488759,
@@ -625,14 +641,6 @@
       "onboard_time": 1688405540,
       "rank": 48,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 402928,
-      "num": 402928,
-      "word": "杭州超400万人人均到账494元",
-      "onboard_time": 1688447080,
-      "rank": 26,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 395414,
@@ -875,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267428,
+      "num": 256200,
+      "word": "因为抢方便面汤被通报批评",
+      "onboard_time": 1688451996,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265642,
       "num": 265642,
       "word": "369退出亚运会名单",
@@ -1035,6 +1051,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 225875,
+      "num": 225875,
+      "word": "段嘉许也被行车记录仪骗了",
+      "onboard_time": 1688452175,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225216,
       "num": 225216,
       "word": "韩素希将出演新剧鬼怪",
@@ -1057,6 +1081,22 @@
       "onboard_time": 1688433934,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224176,
+      "num": 224176,
+      "word": "面对恶意不要去当那只狗",
+      "onboard_time": 1688452474,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 223713,
+      "num": 223713,
+      "word": "男子吃菌后看到冰块飘空中果断报警",
+      "onboard_time": 1688452598,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 223673,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1688451336,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216995,
+      "num": 216995,
+      "word": "男朋友突然跟我说这些",
+      "onboard_time": 1688451218,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 216499,
@@ -1153,6 +1201,14 @@
       "onboard_time": 1688438675,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194676,
+      "num": 194676,
+      "word": "任敏认领猪猪敏",
+      "onboard_time": 1688452655,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 191577,
@@ -1233,22 +1289,6 @@
       "onboard_time": 1688389543,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178324,
-      "num": 178324,
-      "word": "炎亚纶节目镜头遭删减",
-      "onboard_time": 1688451873,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 176663,
-      "num": 176663,
-      "word": "男朋友突然跟我说这些",
-      "onboard_time": 1688451218,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 176334,
