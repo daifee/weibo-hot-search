@@ -1,0 +1,410 @@
+{
+  "runTime": 1688498162129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 214494,
+        "num": 214494,
+        "word": "白敬亭说网络消息大家想一下再信",
+        "onboard_time": 1688478275,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203048,
+        "num": 203048,
+        "word": "北大女生穿马面裙参加毕业典礼",
+        "onboard_time": 1688487449,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 10049,
+        "num": 148519,
+        "word": "这段交通安全宣传片看得有点上头",
+        "onboard_time": 1688470055,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102071,
+        "num": 102071,
+        "word": "朱某龙骑车去痞幼家偷茅台",
+        "onboard_time": 1688470116,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100873,
+        "num": 100873,
+        "word": "EDG 啃老",
+        "onboard_time": 1688473532,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96993,
+        "num": 96993,
+        "word": "日本札幌一酒店惊现无头男尸",
+        "onboard_time": 1688477975,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92868,
+        "num": 92868,
+        "word": "秦牛正威回应为了男友改名",
+        "onboard_time": 1688468973,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73934,
+        "num": 73934,
+        "word": "时影刚满18就要开始带娃了",
+        "onboard_time": 1688491519,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67686,
+        "num": 67686,
+        "word": "老人高铁霸座掏出一把药丸",
+        "onboard_time": 1688485897,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63545,
+        "num": 63545,
+        "word": "褪黑素",
+        "onboard_time": 1688482542,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98706,
+        "num": 63389,
+        "word": "何炅王嘉尔曾预言白敬亭宋轶",
+        "onboard_time": 1688478097,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63108,
+        "num": 63108,
+        "word": "freenbecky",
+        "onboard_time": 1688492656,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62325,
+        "num": 62325,
+        "word": "周也 孟子义",
+        "onboard_time": 1688477615,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62267,
+        "num": 62267,
+        "word": "小姨为了抱认生的孩子用奇招",
+        "onboard_time": 1688483921,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 59046,
+        "num": 59046,
+        "word": "不容易近视的人 睫状肌",
+        "onboard_time": 1688476295,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58775,
+        "num": 58775,
+        "word": "EDG 亚运野辅",
+        "onboard_time": 1688480321,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56702,
+        "num": 56702,
+        "word": "一见茹顾三次圆房",
+        "onboard_time": 1688481461,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56174,
+        "num": 56174,
+        "word": "肖战洗澡vs杨洋王子奇洗澡",
+        "onboard_time": 1688477257,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53187,
+        "num": 53187,
+        "word": "女子称入职时被要求上交毕业证原件",
+        "onboard_time": 1688483199,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51057,
+        "num": 51057,
+        "word": "巴西男子街头绑走女童带回家性侵",
+        "onboard_time": 1688483978,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77989,
+        "num": 51049,
+        "word": "男子两任妻子都查出宫颈癌",
+        "onboard_time": 1688476114,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46510,
+        "num": 51041,
+        "word": "陈伟霆胸肌快把衬衫扣子崩开了",
+        "onboard_time": 1688484633,
+        "rank": 21,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 42698,
+        "num": 51033,
+        "word": "胡继勇被免去多项职务",
+        "onboard_time": 1688478937,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40019,
+        "num": 51023,
+        "word": "TT战胜EDG",
+        "onboard_time": 1688479421,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39879,
+        "num": 51016,
+        "word": "公司解散领到26万补偿款",
+        "onboard_time": 1688481341,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39307,
+        "num": 50998,
+        "word": "痞幼",
+        "onboard_time": 1688462855,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37517,
+        "num": 50986,
+        "word": "美依礼芽被蜗牛吓到尖叫",
+        "onboard_time": 1688478456,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35246,
+        "num": 50976,
+        "word": "泽连斯基喊话拜登",
+        "onboard_time": 1688498114,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 34310,
+        "num": 50971,
+        "word": "苏州大学录取通知书太用心了",
+        "onboard_time": 1688475632,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31248,
+        "num": 50962,
+        "word": "离职最后一天让公司损失几十万",
+        "onboard_time": 1688464603,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78020,
+        "num": 50949,
+        "word": "女子看消失的她遇情侣争执立刻报警",
+        "onboard_time": 1688495475,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56984,
+        "num": 50940,
+        "word": "欧洲代表指责中国遭津巴布韦大使馆参赞质问",
+        "onboard_time": 1688496493,
+        "rank": 31,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 30180,
+        "num": 50935,
+        "word": "东京一店长闻到煤气味后点了根烟",
+        "onboard_time": 1688475513,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29560,
+        "num": 50924,
+        "word": "王楚然王子奇新剧对手戏",
+        "onboard_time": 1688476597,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29067,
+        "num": 50910,
+        "word": "生理期不能吃的水果",
+        "onboard_time": 1688455536,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28058,
+        "num": 50901,
+        "word": "薛之谦腿怎么了",
+        "onboard_time": 1688481341,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27521,
+        "num": 50894,
+        "word": "宁艺卓被Ella三连问",
+        "onboard_time": 1688465676,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27110,
+        "num": 50883,
+        "word": "广东人正式被确诊为依萍",
+        "onboard_time": 1688455654,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26608,
+        "num": 50874,
+        "word": "熊猫胖大海 从社恐变成社牛",
+        "onboard_time": 1688485115,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24372,
+        "num": 50858,
+        "word": "安徽淮南地震",
+        "onboard_time": 1688481461,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24309,
+        "num": 50844,
+        "word": "砸锅卖铁去上学 影视化",
+        "onboard_time": 1688476893,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24225,
+        "num": 50839,
+        "word": "玉骨遥值得追吗",
+        "onboard_time": 1688480441,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23340,
+        "num": 50825,
+        "word": "古天乐眉毛",
+        "onboard_time": 1688472270,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22380,
+        "num": 50823,
+        "word": "莲花楼排播",
+        "onboard_time": 1688486012,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22329,
+        "num": 50811,
+        "word": "雨天积水伴郎团蹚水抬新娘进门",
+        "onboard_time": 1688495835,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21649,
+        "num": 50794,
+        "word": "王一博核心力量",
+        "onboard_time": 1688475272,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21095,
+        "num": 50792,
+        "word": "要有足够的悲伤才能忍住不哭",
+        "onboard_time": 1688490560,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 20838,
+        "num": 50783,
+        "word": "你说话好伤人",
+        "onboard_time": 1688484398,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 20303,
+        "num": 50764,
+        "word": "公积金年度结息到账",
+        "onboard_time": 1688470414,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 18176,
+        "num": 50753,
+        "word": "猪猪侠大战愤怒的小鸟",
+        "onboard_time": 1688483858,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把互利合作蛋糕做大#"
+    }
+  }
+}
