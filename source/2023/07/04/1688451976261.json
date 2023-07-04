@@ -1,0 +1,410 @@
+{
+  "runTime": 1688451976261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1706012,
+        "num": 1706012,
+        "word": "沈阳发现一例猴痘病例",
+        "onboard_time": 1688448277,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156033,
+        "num": 1156033,
+        "word": "猴痘",
+        "onboard_time": 1688449059,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112003,
+        "num": 1144529,
+        "word": "2023下半年大事日历",
+        "onboard_time": 1688441495,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2202802,
+        "num": 1131021,
+        "word": "金星 不需要靠夸张服饰来赚取眼球",
+        "onboard_time": 1688449600,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1909470,
+        "num": 1100422,
+        "word": "婚检后才知道自己有蚕豆病",
+        "onboard_time": 1688443121,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1970860,
+        "num": 1073887,
+        "word": "金星吐槽女明星走红毯捂胸口",
+        "onboard_time": 1688439275,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1072039,
+        "num": 1072039,
+        "word": "大麦被罚",
+        "onboard_time": 1688442518,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027625,
+        "num": 1027625,
+        "word": "杭州女子买彩票误打误撞中了一千万",
+        "onboard_time": 1688444505,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860102,
+        "num": 860102,
+        "word": "观众缘好的明星",
+        "onboard_time": 1688446307,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737162,
+        "num": 737162,
+        "word": "六公主评长风渡",
+        "onboard_time": 1688448277,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2649105,
+        "num": 661026,
+        "word": "被3名未成年逼吃粪便男童父亲发声",
+        "onboard_time": 1688447621,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015299,
+        "num": 626621,
+        "word": "男生街边卖卫生巾遭掀摊骂晦气",
+        "onboard_time": 1688446964,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757655,
+        "num": 611271,
+        "word": "燕京啤酒回应蔡徐坤事件",
+        "onboard_time": 1688428114,
+        "rank": 12,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 576105,
+        "num": 576105,
+        "word": "北科大录取通知书是用钢做的",
+        "onboard_time": 1688447143,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 517069,
+        "num": 517069,
+        "word": "减肥人的黄金40天",
+        "onboard_time": 1688443298,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479533,
+        "num": 479533,
+        "word": "妻子回应男子起哄怂恿轻生者跳楼",
+        "onboard_time": 1688444623,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415639,
+        "num": 415639,
+        "word": "花花和叶3岁生日合照",
+        "onboard_time": 1688441676,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409246,
+        "num": 409246,
+        "word": "黄渤被防暴力划伤膜背刺",
+        "onboard_time": 1688444804,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403385,
+        "num": 403385,
+        "word": "宋雨琦人在曹营心在汉",
+        "onboard_time": 1688447322,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402928,
+        "num": 402928,
+        "word": "杭州超400万人人均到账494元",
+        "onboard_time": 1688447080,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 640103,
+        "num": 401116,
+        "word": "去看痛经医生叫我生孩子",
+        "onboard_time": 1688442579,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 540909,
+        "num": 399636,
+        "word": "为什么KTV里面只有两个话筒",
+        "onboard_time": 1688450496,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 397483,
+        "num": 397483,
+        "word": "才知道一杯奶茶是家里一顿饭钱",
+        "onboard_time": 1688444505,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376088,
+        "num": 376088,
+        "word": "男子故意1次取1元逼哭柜员",
+        "onboard_time": 1688434475,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368173,
+        "num": 368173,
+        "word": "文咏珊还原李木子妆容",
+        "onboard_time": 1688444079,
+        "rank": 24,
+        "category": "影视,美妆"
+      },
+      {
+        "raw_hot": 357831,
+        "num": 357831,
+        "word": "实习第五天因为摸鱼被辞退了",
+        "onboard_time": 1688446605,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352543,
+        "num": 352543,
+        "word": "iPhone15及Plus新增青绿色",
+        "onboard_time": 1688433576,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 327543,
+        "num": 327543,
+        "word": "萌兰为啥是西直门三太子",
+        "onboard_time": 1688449958,
+        "rank": 27,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 314942,
+        "num": 314942,
+        "word": "肖战黑衣撑伞转圈",
+        "onboard_time": 1688445825,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304730,
+        "num": 304730,
+        "word": "偷偷藏不住网飞登顶",
+        "onboard_time": 1688449836,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489975,
+        "num": 303446,
+        "word": "21岁姑娘新婚初夜出血1500ml",
+        "onboard_time": 1688400034,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298190,
+        "num": 298190,
+        "word": "黑执事",
+        "onboard_time": 1688432438,
+        "rank": 31,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 265505,
+        "num": 265505,
+        "word": "5旬女子被00后喊阿姨后索赔2000",
+        "onboard_time": 1688446005,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254365,
+        "num": 254365,
+        "word": "被子的颜色会影响睡眠",
+        "onboard_time": 1688443903,
+        "rank": 33,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 254311,
+        "num": 254311,
+        "word": "孙艺珍产后首个公开行程",
+        "onboard_time": 1688435495,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249318,
+        "num": 249318,
+        "word": "乾隆是多巴胺审美鼻祖吧",
+        "onboard_time": 1688445947,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247450,
+        "num": 247450,
+        "word": "西安忍不住根本忍不住",
+        "onboard_time": 1688431121,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247031,
+        "num": 247031,
+        "word": "00后王楚钦孙颖莎顶峰相见",
+        "onboard_time": 1688449176,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230893,
+        "num": 230893,
+        "word": "试用期薪资可以不打八折",
+        "onboard_time": 1688446544,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225989,
+        "num": 225989,
+        "word": "商户将一元矿泉水分装卖十元一杯",
+        "onboard_time": 1688447739,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 221794,
+        "num": 221794,
+        "word": "苹果公众号文章被批毁三观",
+        "onboard_time": 1688444385,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219046,
+        "num": 219046,
+        "word": "许巍北京",
+        "onboard_time": 1688451336,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210751,
+        "num": 210751,
+        "word": "杨紫嘉人NOW夏季刊封面",
+        "onboard_time": 1688448098,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185246,
+        "num": 185246,
+        "word": "王鹤棣回应海洋之猴",
+        "onboard_time": 1688447621,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182938,
+        "num": 182938,
+        "word": "倪妮哭戏撞到摄像机",
+        "onboard_time": 1688434895,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178324,
+        "num": 178324,
+        "word": "炎亚纶节目镜头遭删减",
+        "onboard_time": 1688451873,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176663,
+        "num": 176663,
+        "word": "男朋友突然跟我说这些",
+        "onboard_time": 1688451218,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 176334,
+        "num": 176334,
+        "word": "文俊辉新歌PSYCHO",
+        "onboard_time": 1688449477,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175996,
+        "num": 175996,
+        "word": "周杰伦瘦的原因",
+        "onboard_time": 1688443962,
+        "rank": 48,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 154119,
+        "num": 154119,
+        "word": "蚕豆病患者不能吃什么食物",
+        "onboard_time": 1688450377,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#在实干中把烦恼指数变成幸福指数#"
+    }
+  }
+}

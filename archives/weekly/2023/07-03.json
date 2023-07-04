@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688448993544,
+  "endTime": 1688451976261,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -211,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2649105,
+      "num": 768871,
+      "word": "被3名未成年逼吃粪便男童父亲发声",
+      "onboard_time": 1688447621,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2344347,
       "num": 357906,
       "word": "21岁姑娘新婚初夜出血1500ml",
@@ -248,6 +256,14 @@
       "word": "曝炎亚纶涉儿少性剥削",
       "onboard_time": 1688395783,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2202802,
+      "num": 1131021,
+      "word": "金星 不需要靠夸张服饰来赚取眼球",
+      "onboard_time": 1688449600,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -313,6 +329,14 @@
       "onboard_time": 1688342309,
       "rank": 0,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 1706012,
+      "num": 1706012,
+      "word": "沈阳发现一例猴痘病例",
+      "onboard_time": 1688448277,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1693557,
@@ -483,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1211580,
-      "num": 768871,
-      "word": "被3名未成年逼吃粪便男童父亲发声",
-      "onboard_time": 1688447621,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1200811,
       "num": 1200811,
       "word": "TFBOYS不合体排练吗",
@@ -537,6 +553,14 @@
       "onboard_time": 1688366573,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1156033,
+      "num": 1156033,
+      "word": "猴痘",
+      "onboard_time": 1688449059,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1151790,
@@ -633,6 +657,14 @@
       "onboard_time": 1688339604,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1015299,
+      "num": 722880,
+      "word": "男生街边卖卫生巾遭掀摊骂晦气",
+      "onboard_time": 1688446964,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1010809,
@@ -979,12 +1011,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 722880,
-      "num": 722880,
-      "word": "男生街边卖卫生巾遭掀摊骂晦气",
-      "onboard_time": 1688446964,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 737162,
+      "num": 737162,
+      "word": "六公主评长风渡",
+      "onboard_time": 1688448277,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 714481,
@@ -1243,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 576105,
+      "num": 576105,
+      "word": "北科大录取通知书是用钢做的",
+      "onboard_time": 1688447143,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 569918,
       "num": 569918,
       "word": "中暑导游去世前坚持将学生们送上车",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1688388940,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 540909,
+      "num": 399636,
+      "word": "为什么KTV里面只有两个话筒",
+      "onboard_time": 1688450496,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 536429,
@@ -1403,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 498257,
-      "num": 498257,
-      "word": "北科大录取通知书是用钢做的",
-      "onboard_time": 1688447143,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1688375802,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 492956,
-      "num": 492956,
-      "word": "沈阳发现一例猴痘病例",
-      "onboard_time": 1688448277,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492881,
@@ -1643,6 +1675,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 402928,
+      "num": 402928,
+      "word": "杭州超400万人人均到账494元",
+      "onboard_time": 1688447080,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 401701,
       "num": 401701,
       "word": "他是一颗星 但你是自己的太阳",
@@ -1737,14 +1777,6 @@
       "onboard_time": 1688374842,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 387415,
-      "num": 387415,
-      "word": "杭州超400万人人均到账494元",
-      "onboard_time": 1688447080,
-      "rank": 26,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 383616,
@@ -1883,14 +1915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354999,
-      "num": 354999,
-      "word": "六公主评长风渡",
-      "onboard_time": 1688448277,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 353902,
       "num": 353902,
       "word": "TFBOYS十周年可能有直播",
@@ -2017,6 +2041,14 @@
       "onboard_time": 1688352451,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 327543,
+      "num": 327543,
+      "word": "萌兰为啥是西直门三太子",
+      "onboard_time": 1688449958,
+      "rank": 27,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 326165,
@@ -2153,6 +2185,14 @@
       "onboard_time": 1688377781,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304730,
+      "num": 304730,
+      "word": "偷偷藏不住网飞登顶",
+      "onboard_time": 1688449836,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 300521,
@@ -2579,6 +2619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247031,
+      "num": 247031,
+      "word": "00后王楚钦孙颖莎顶峰相见",
+      "onboard_time": 1688449176,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245811,
       "num": 245811,
       "word": "亚运会名单",
@@ -2817,6 +2865,14 @@
       "onboard_time": 1688445465,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219046,
+      "num": 219046,
+      "word": "许巍北京",
+      "onboard_time": 1688451336,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 218421,
@@ -3243,6 +3299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178324,
+      "num": 178324,
+      "word": "炎亚纶节目镜头遭删减",
+      "onboard_time": 1688451873,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177384,
       "num": 177384,
       "word": "好奇熊猫宝宝啥都要尝尝",
@@ -3275,12 +3339,28 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 176663,
+      "num": 176663,
+      "word": "男朋友突然跟我说这些",
+      "onboard_time": 1688451218,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 176642,
       "num": 178640,
       "word": "杭州姑娘熬夜两天后眼睛睁不开",
       "onboard_time": 1688394766,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176334,
+      "num": 176334,
+      "word": "文俊辉新歌PSYCHO",
+      "onboard_time": 1688449477,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 175882,
@@ -3529,6 +3609,14 @@
       "onboard_time": 1688350413,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154119,
+      "num": 154119,
+      "word": "蚕豆病患者不能吃什么食物",
+      "onboard_time": 1688450377,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 153433,
@@ -3957,6 +4045,9 @@
     },
     {
       "word": "#即便风雨兼程也能一路生花#"
+    },
+    {
+      "word": "#在实干中把烦恼指数变成幸福指数#"
     }
   ]
 }
