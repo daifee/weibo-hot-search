@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688498162129,
+  "endTime": 1688499241576,
   "band_list": [
     {
       "raw_hot": 1480616,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92473,
+      "num": 50949,
+      "word": "女子看消失的她遇情侣争执立刻报警",
+      "onboard_time": 1688495475,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85252,
       "num": 85252,
       "word": "freenbecky",
@@ -419,12 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78020,
-      "num": 50949,
-      "word": "女子看消失的她遇情侣争执立刻报警",
-      "onboard_time": 1688495475,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 78456,
+      "num": 50940,
+      "word": "欧洲代表指责中国遭津巴布韦大使馆参赞质问",
+      "onboard_time": 1688496493,
+      "rank": 31,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 72851,
@@ -449,14 +457,6 @@
       "onboard_time": 1688488224,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56984,
-      "num": 50940,
-      "word": "欧洲代表指责中国遭津巴布韦大使馆参赞质问",
-      "onboard_time": 1688496493,
-      "rank": 31,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 50984,
