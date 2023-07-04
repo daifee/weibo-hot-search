@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688509130293,
+  "endTime": 1688510206322,
   "band_list": [
     {
       "raw_hot": 1480616,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383822,
+      "num": 138860,
+      "word": "欧洲代表指责中国遭津巴布韦大使馆参赞质问",
+      "onboard_time": 1688496493,
+      "rank": 31,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 373054,
       "num": 373054,
       "word": "肖战洗澡vs杨洋王子奇洗澡",
@@ -195,20 +203,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 281883,
-      "num": 104292,
-      "word": "欧洲代表指责中国遭津巴布韦大使馆参赞质问",
-      "onboard_time": 1688496493,
-      "rank": 31,
-      "category": "社会新闻,社会新闻"
-    },
-    {
       "raw_hot": 272676,
       "num": 272676,
       "word": "EDG 亚运野辅",
       "onboard_time": 1688480321,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251318,
+      "num": 251318,
+      "word": "朱某龙骑车去痞幼家偷茅台",
+      "onboard_time": 1688470116,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 238930,
@@ -233,14 +241,6 @@
       "onboard_time": 1688470414,
       "rank": 26,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 211701,
-      "num": 211701,
-      "word": "朱某龙骑车去痞幼家偷茅台",
-      "onboard_time": 1688470116,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 209500,
@@ -312,6 +312,14 @@
       "word": "玉骨遥值得追吗",
       "onboard_time": 1688480441,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 153196,
+      "num": 153196,
+      "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
+      "onboard_time": 1688500513,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -411,16 +419,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110271,
-      "num": 110271,
-      "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
-      "onboard_time": 1688500513,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 101529,
-      "num": 101529,
+      "raw_hot": 104821,
+      "num": 104821,
       "word": "女子看消失的她遇情侣争执立刻报警",
       "onboard_time": 1688495475,
       "rank": 47,
@@ -451,8 +451,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 59257,
-      "num": 59257,
+      "raw_hot": 59359,
+      "num": 59359,
       "word": "一见茹顾三次圆房",
       "onboard_time": 1688481461,
       "rank": 45,
@@ -475,15 +475,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31945,
-      "num": 50811,
+      "raw_hot": 36661,
+      "num": 53111,
       "word": "雨天积水伴郎团蹚水抬新娘进门",
       "onboard_time": 1688495835,
       "rank": 41,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20271,
+      "raw_hot": 34847,
+      "num": 53101,
+      "word": "感觉不像向云端像把云端了",
+      "onboard_time": 1688509576,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 28184,
       "num": 439973,
       "word": "这段交通安全宣传片看得有点上头",
       "onboard_time": 1688470055,
