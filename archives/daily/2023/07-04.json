@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688444626857,
+  "endTime": 1688445516569,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4611431,
-      "num": 1677935,
+      "num": 2345246,
       "word": "金星吐槽女明星走红毯捂胸口",
       "onboard_time": 1688439275,
       "rank": 12,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 3693389,
-      "num": 713921,
+      "num": 771477,
       "word": "燕京啤酒回应蔡徐坤事件",
       "onboard_time": 1688428114,
       "rank": 10,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 3686708,
+      "num": 3873416,
+      "word": "大麦被罚",
+      "onboard_time": 1688442518,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3365108,
@@ -51,20 +59,20 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 3023466,
-      "num": 3023466,
-      "word": "大麦被罚",
-      "onboard_time": 1688442518,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2344347,
-      "num": 279069,
+      "num": 357906,
       "word": "21岁姑娘新婚初夜出血1500ml",
       "onboard_time": 1688400034,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2265430,
+      "num": 2265430,
+      "word": "婚检后才知道自己有蚕豆病",
+      "onboard_time": 1688443121,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 2237999,
@@ -123,14 +131,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1439311,
-      "num": 714092,
-      "word": "婚检后才知道自己有蚕豆病",
-      "onboard_time": 1688443121,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1336526,
       "num": 1336526,
       "word": "王楚钦世界排名第一",
@@ -139,8 +139,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1283560,
-      "num": 1283560,
+      "raw_hot": 1284246,
+      "num": 1284246,
       "word": "花花和叶3岁生日合照",
       "onboard_time": 1688441676,
       "rank": 19,
@@ -171,20 +171,20 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1108167,
+      "num": 538495,
+      "word": "去看痛经医生叫我生孩子",
+      "onboard_time": 1688442579,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1095454,
       "num": 1095454,
       "word": "扬言弄死市民的辅警已调岗",
       "onboard_time": 1688439817,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1040389,
-      "num": 422815,
-      "word": "去看痛经医生叫我生孩子",
-      "onboard_time": 1688442579,
-      "rank": 20,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 996652,
@@ -267,8 +267,24 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 788152,
+      "num": 788152,
+      "word": "杭州女子买彩票误打误撞中了一千万",
+      "onboard_time": 1688444505,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772930,
+      "num": 772930,
+      "word": "减肥人的黄金40天",
+      "onboard_time": 1688443298,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 770837,
-      "num": 420977,
+      "num": 538347,
       "word": "弟弟考上高中我却不能上学了",
       "onboard_time": 1688439696,
       "rank": 28,
@@ -331,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 633523,
+      "num": 633523,
+      "word": "文咏珊还原李木子妆容",
+      "onboard_time": 1688444079,
+      "rank": 29,
+      "category": "影视,美妆"
+    },
+    {
       "raw_hot": 610571,
       "num": 610571,
       "word": "文俊辉你真的疯到我们了",
@@ -363,11 +387,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 534659,
+      "num": 534659,
+      "word": "被子的颜色会影响睡眠",
+      "onboard_time": 1688443903,
+      "rank": 32,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 526062,
       "num": 526062,
       "word": "宋轶是不是男生都喜欢的类型",
       "onboard_time": 1688389059,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 492272,
+      "num": 492272,
+      "word": "黄渤被防暴力划伤膜背刺",
+      "onboard_time": 1688444804,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -377,6 +417,14 @@
       "onboard_time": 1688389600,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481281,
+      "num": 481281,
+      "word": "才知道一杯奶茶是家里一顿饭钱",
+      "onboard_time": 1688444505,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 476971,
@@ -403,20 +451,28 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 471090,
-      "num": 471090,
-      "word": "减肥人的黄金40天",
-      "onboard_time": 1688443298,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 469137,
       "num": 469137,
       "word": "05后学生给95后老师批作业",
       "onboard_time": 1688430820,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 459966,
+      "num": 459966,
+      "word": "周杰伦瘦的原因",
+      "onboard_time": 1688443962,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 442411,
+      "num": 442411,
+      "word": "倪妮文咏珊黄子琪看朱一龙比耶",
+      "onboard_time": 1688441918,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 422381,
@@ -433,14 +489,6 @@
       "onboard_time": 1688377781,
       "rank": 13,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 419669,
-      "num": 419669,
-      "word": "倪妮文咏珊黄子琪看朱一龙比耶",
-      "onboard_time": 1688441918,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 417194,
@@ -507,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 358209,
+      "num": 358209,
+      "word": "苹果公众号文章被批毁三观",
+      "onboard_time": 1688444385,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 355755,
       "num": 355755,
       "word": "TFBOYS演唱会审批",
@@ -531,19 +587,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337319,
-      "num": 337319,
-      "word": "周杰伦瘦的原因",
-      "onboard_time": 1688443962,
-      "rank": 26,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 326165,
       "num": 326165,
       "word": "店长回应多个榴莲被偷吃损失近千元",
       "onboard_time": 1688420413,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325739,
+      "num": 325739,
+      "word": "一直娱",
+      "onboard_time": 1688444683,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322846,
+      "num": 322846,
+      "word": "妻子回应男子起哄怂恿轻生者跳楼",
+      "onboard_time": 1688444623,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -563,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310366,
-      "num": 273316,
-      "word": "被子的颜色会影响睡眠",
-      "onboard_time": 1688443903,
-      "rank": 32,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 308773,
       "num": 308773,
       "word": "段嘉许桑延新情头",
@@ -585,6 +641,14 @@
       "onboard_time": 1688438135,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299321,
+      "num": 299321,
+      "word": "因家人被迫分手相亲对象立马下聘",
+      "onboard_time": 1688445283,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298435,
@@ -625,14 +689,6 @@
       "onboard_time": 1688382639,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284392,
-      "num": 284392,
-      "word": "文咏珊还原李木子妆容",
-      "onboard_time": 1688444079,
-      "rank": 29,
-      "category": "影视,美妆"
     },
     {
       "raw_hot": 278723,
@@ -691,14 +747,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 253512,
-      "num": 253512,
-      "word": "杭州女子买彩票误打误撞中了一千万",
-      "onboard_time": 1688444505,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251661,
       "num": 251661,
       "word": "杨洋王楚然新剧吻戏",
@@ -731,6 +779,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 244331,
+      "num": 2351151,
+      "word": "2023下半年大事日历",
+      "onboard_time": 1688441495,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242523,
       "num": 242523,
       "word": "孙女用奶奶当年的设计草图制作成衣",
@@ -755,14 +811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239351,
-      "num": 1727070,
-      "word": "2023下半年大事日历",
-      "onboard_time": 1688441495,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236111,
       "num": 236111,
       "word": "张真源音乐剧",
@@ -779,12 +827,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 231342,
-      "num": 231342,
-      "word": "苹果公众号文章被批毁三观",
-      "onboard_time": 1688444385,
-      "rank": 35,
-      "category": "科技"
+      "raw_hot": 232274,
+      "num": 232274,
+      "word": "时影你是油盐不进啊",
+      "onboard_time": 1688442037,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 229418,
@@ -793,14 +841,6 @@
       "onboard_time": 1688430337,
       "rank": 35,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 226027,
-      "num": 226027,
-      "word": "才知道一杯奶茶是家里一顿饭钱",
-      "onboard_time": 1688444505,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 225216,
@@ -819,20 +859,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224777,
-      "num": 224777,
-      "word": "时影你是油盐不进啊",
-      "onboard_time": 1688442037,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224640,
       "num": 224640,
       "word": "韩素希方否认恋情",
       "onboard_time": 1688433934,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223673,
+      "num": 223673,
+      "word": "以为是艳遇结果竟然是",
+      "onboard_time": 1688445165,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 221667,
@@ -921,6 +961,14 @@
       "onboard_time": 1688430519,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187394,
+      "num": 187394,
+      "word": "女子推理社",
+      "onboard_time": 1688445465,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 185589,
@@ -1195,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88836,
+      "num": 267493,
+      "word": "饿了么免单公布答错最多的题",
+      "onboard_time": 1688443239,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 79928,
       "num": 79928,
       "word": "最爱九思和玉茹的两个人",
@@ -1217,14 +1273,6 @@
       "onboard_time": 1688404344,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 52002,
-      "num": 225227,
-      "word": "饿了么免单公布答错最多的题",
-      "onboard_time": 1688443239,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 47212,
