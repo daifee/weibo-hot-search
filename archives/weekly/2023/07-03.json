@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688502057285,
+  "endTime": 1688502844497,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -5459,6 +5459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41763,
+      "num": 47945,
+      "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
+      "onboard_time": 1688500513,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 39476,
       "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
@@ -5473,14 +5481,6 @@
       "onboard_time": 1688476052,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34942,
-      "num": 43543,
-      "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
-      "onboard_time": 1688500513,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 34696,
@@ -5523,8 +5523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17338,
-      "num": 43226,
+      "raw_hot": 17448,
+      "num": 47736,
       "word": "刘耀文的领口很危险",
       "onboard_time": 1688500931,
       "rank": 47,
