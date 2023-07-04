@@ -1,10 +1,10 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688466110753,
+  "endTime": 1688467182301,
   "band_list": [
     {
-      "raw_hot": 6948197,
-      "num": 6948197,
+      "raw_hot": 7213197,
+      "num": 7213197,
       "word": "痞幼",
       "onboard_time": 1688462855,
       "rank": 10,
@@ -347,6 +347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1034954,
+      "num": 1034954,
+      "word": "假装发错消息给喜欢的人",
+      "onboard_time": 1688462737,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 996652,
       "num": 996652,
       "word": "沪上阿姨回应一杯开水卖10元",
@@ -403,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 918325,
-      "num": 918325,
-      "word": "假装发错消息给喜欢的人",
-      "onboard_time": 1688462737,
-      "rank": 40,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 915791,
       "num": 459662,
       "word": "生理期不能吃的水果",
@@ -425,6 +425,14 @@
       "onboard_time": 1688433633,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 905365,
+      "num": 905365,
+      "word": "宁艺卓被Ella三连问",
+      "onboard_time": 1688465676,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 892743,
@@ -651,6 +659,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 630730,
+      "num": 408393,
+      "word": "离职最后一天让公司损失几十万",
+      "onboard_time": 1688464603,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 613488,
       "num": 411771,
       "word": "考研上岸了妈妈却叫我不要读",
@@ -723,14 +739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 541419,
-      "num": 408393,
-      "word": "离职最后一天让公司损失几十万",
-      "onboard_time": 1688464603,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 527993,
       "num": 527993,
       "word": "YGSMTOWNHYBE进行现场调查",
@@ -755,12 +763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 508024,
-      "num": 508024,
-      "word": "宁艺卓被Ella三连问",
-      "onboard_time": 1688465676,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 514689,
+      "num": 514689,
+      "word": "三亚被偷住别墅喝光茅台房主是痞幼",
+      "onboard_time": 1688465560,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491302,
@@ -891,12 +899,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435881,
+      "num": 435881,
+      "word": "中方回应越南因南海九段线禁映芭比",
+      "onboard_time": 1688462319,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 433005,
       "num": 272862,
       "word": "对带孩子出行家庭的宽容度",
       "onboard_time": 1688454516,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422717,
+      "num": 422717,
+      "word": "五月天深圳 开船",
+      "onboard_time": 1688466338,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 422381,
@@ -913,14 +937,6 @@
       "onboard_time": 1688377781,
       "rank": 13,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 421342,
-      "num": 421342,
-      "word": "中方回应越南因南海九段线禁映芭比",
-      "onboard_time": 1688462319,
-      "rank": 46,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 421121,
@@ -945,6 +961,14 @@
       "onboard_time": 1688405540,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 411113,
+      "num": 411113,
+      "word": "芭比",
+      "onboard_time": 1688465738,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 398269,
@@ -1011,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372704,
+      "num": 1274327,
+      "word": "同济520宿舍四位女生全员上岸名校",
+      "onboard_time": 1688464238,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 369066,
       "num": 301917,
       "word": "古代人游园会的快乐我体会到了",
@@ -1019,12 +1051,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 360491,
-      "num": 360491,
-      "word": "三亚被偷住别墅喝光茅台房主是痞幼",
-      "onboard_time": 1688465560,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 362042,
+      "num": 321412,
+      "word": "把苹果咬成我买不起的样子",
+      "onboard_time": 1688465378,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 360189,
@@ -1107,6 +1139,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 322186,
+      "num": 322186,
+      "word": "时影 空桑一哥",
+      "onboard_time": 1688466519,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315900,
+      "num": 315900,
+      "word": "高铁上差点被前桌喂饱了",
+      "onboard_time": 1688466457,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314327,
       "num": 276379,
       "word": "请记住这15个电话",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1688434714,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 306296,
-      "num": 306296,
-      "word": "把苹果咬成我买不起的样子",
-      "onboard_time": 1688465378,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 305850,
@@ -1179,14 +1219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295400,
-      "num": 295400,
-      "word": "芭比",
-      "onboard_time": 1688465738,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 295363,
       "num": 295363,
       "word": "乾隆是多巴胺审美鼻祖吧",
@@ -1196,7 +1228,7 @@
     },
     {
       "raw_hot": 294632,
-      "num": 393918,
+      "num": 1064533,
       "word": "民警接过一支烟救下一条命",
       "onboard_time": 1688457696,
       "rank": 32,
@@ -1267,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286854,
+      "num": 286854,
+      "word": "长风渡返乡名单里有宋亚轩",
+      "onboard_time": 1688465920,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283957,
       "num": 283957,
       "word": "如何看待明星私生活翻车现象",
@@ -1299,12 +1339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273408,
-      "num": 1274327,
-      "word": "同济520宿舍四位女生全员上岸名校",
-      "onboard_time": 1688464238,
-      "rank": 4,
-      "category": "教育,社会新闻"
+      "raw_hot": 270952,
+      "num": 270952,
+      "word": "女子地铁上控诉男孩摸她屁股遭家人反呛",
+      "onboard_time": 1688466338,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269552,
@@ -1313,6 +1353,14 @@
       "onboard_time": 1688457399,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 269008,
+      "num": 269008,
+      "word": "刘诗诗巴黎时装周生图",
+      "onboard_time": 1688467058,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265642,
@@ -1435,6 +1483,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 245793,
+      "num": 245793,
+      "word": "红烧香蕉",
+      "onboard_time": 1688466158,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 245421,
       "num": 245421,
       "word": "什么东西十年没有涨过价",
@@ -1507,14 +1563,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 233989,
-      "num": 233989,
-      "word": "长风渡返乡名单里有宋亚轩",
-      "onboard_time": 1688465920,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232274,
       "num": 232274,
       "word": "时影你是油盐不进啊",
@@ -1561,6 +1609,14 @@
       "onboard_time": 1688433934,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224269,
+      "num": 224269,
+      "word": "古偶妆造天花板",
+      "onboard_time": 1688467058,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 224176,
@@ -2097,6 +2153,14 @@
       "onboard_time": 1688425766,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97660,
+      "num": 247919,
+      "word": "iQOO11S成亚运电竞官方用机",
+      "onboard_time": 1688466756,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 88836,
