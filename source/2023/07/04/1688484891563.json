@@ -1,0 +1,410 @@
+{
+  "runTime": 1688484891563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2426805,
+        "num": 2426805,
+        "word": "白敬亭说网络消息大家想一下再信",
+        "onboard_time": 1688478275,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1282825,
+        "num": 1282825,
+        "word": "胡继勇被免去多项职务",
+        "onboard_time": 1688478937,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70825,
+        "num": 1063943,
+        "word": "闪闪发光的中国00后",
+        "onboard_time": 1688475692,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060325,
+        "num": 1060325,
+        "word": "褪黑素",
+        "onboard_time": 1688482542,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 961060,
+        "num": 961060,
+        "word": "日本札幌一酒店惊现无头男尸",
+        "onboard_time": 1688477975,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926123,
+        "num": 926123,
+        "word": "秦牛正威回应为了男友改名",
+        "onboard_time": 1688468973,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 802037,
+        "num": 802037,
+        "word": "马龙",
+        "onboard_time": 1688482420,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 708661,
+        "num": 708661,
+        "word": "EDG 啃老",
+        "onboard_time": 1688473532,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 660312,
+        "num": 660312,
+        "word": "周也 孟子义",
+        "onboard_time": 1688477615,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588376,
+        "num": 588376,
+        "word": "薛之谦腿怎么了",
+        "onboard_time": 1688481341,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681625,
+        "num": 585721,
+        "word": "何炅王嘉尔曾预言白敬亭宋轶",
+        "onboard_time": 1688478097,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 658835,
+        "num": 585248,
+        "word": "女子称入职时被要求上交毕业证原件",
+        "onboard_time": 1688483199,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637222,
+        "num": 581686,
+        "word": "肖战洗澡vs杨洋王子奇洗澡",
+        "onboard_time": 1688477257,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576330,
+        "num": 576330,
+        "word": "不容易近视的人 睫状肌",
+        "onboard_time": 1688476295,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564676,
+        "num": 564676,
+        "word": "痞幼",
+        "onboard_time": 1688462855,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 483443,
+        "num": 483443,
+        "word": "东京一店长闻到煤气味后点了根烟",
+        "onboard_time": 1688475513,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482096,
+        "num": 482096,
+        "word": "EDG 亚运野辅",
+        "onboard_time": 1688480321,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 473438,
+        "num": 473438,
+        "word": "美依礼芽被蜗牛吓到尖叫",
+        "onboard_time": 1688478456,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390369,
+        "num": 390369,
+        "word": "公积金年度结息到账",
+        "onboard_time": 1688470414,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 360103,
+        "num": 360103,
+        "word": "猪猪侠大战愤怒的小鸟",
+        "onboard_time": 1688483858,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 872469,
+        "num": 358904,
+        "word": "男子两任妻子都查出宫颈癌",
+        "onboard_time": 1688476114,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483957,
+        "num": 351157,
+        "word": "公司解散领到26万补偿款",
+        "onboard_time": 1688481341,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428870,
+        "num": 346182,
+        "word": "生理期不能吃的水果",
+        "onboard_time": 1688455536,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 361532,
+        "num": 343373,
+        "word": "一见茹顾三次圆房",
+        "onboard_time": 1688481461,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340777,
+        "num": 340777,
+        "word": "王楚然王子奇新剧对手戏",
+        "onboard_time": 1688476597,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292084,
+        "num": 292084,
+        "word": "朱某龙骑车去痞幼家偷茅台",
+        "onboard_time": 1688470116,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284726,
+        "num": 284726,
+        "word": "玉骨遥值得追吗",
+        "onboard_time": 1688480441,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279364,
+        "num": 279364,
+        "word": "苏州大学录取通知书太用心了",
+        "onboard_time": 1688475632,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277557,
+        "num": 277557,
+        "word": "中国好声音",
+        "onboard_time": 1688480200,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270231,
+        "num": 270231,
+        "word": "偷偷藏不住秀恩爱藏不住了",
+        "onboard_time": 1688481520,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295557,
+        "num": 269878,
+        "word": "巴西男子街头绑走女童带回家性侵",
+        "onboard_time": 1688483978,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270718,
+        "num": 269466,
+        "word": "小姨为了抱认生的孩子用奇招",
+        "onboard_time": 1688483921,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 268140,
+        "num": 268140,
+        "word": "泽连斯基喊话拜登",
+        "onboard_time": 1688484874,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 258933,
+        "num": 258933,
+        "word": "TT战胜EDG",
+        "onboard_time": 1688479421,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253908,
+        "num": 253908,
+        "word": "安徽淮南地震",
+        "onboard_time": 1688481461,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245963,
+        "num": 245963,
+        "word": "广东人正式被确诊为依萍",
+        "onboard_time": 1688455654,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237506,
+        "num": 237506,
+        "word": "你说话好伤人",
+        "onboard_time": 1688484398,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 237229,
+        "num": 237229,
+        "word": "陈伟霆胸肌快把衬衫扣子崩开了",
+        "onboard_time": 1688484633,
+        "rank": 37,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 213744,
+        "num": 213744,
+        "word": "莲花楼",
+        "onboard_time": 1688475816,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209130,
+        "num": 209130,
+        "word": "砸锅卖铁去上学 影视化",
+        "onboard_time": 1688476893,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206368,
+        "num": 206368,
+        "word": "熊猫宝宝四条腿各跑各的",
+        "onboard_time": 1688484338,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203493,
+        "num": 203493,
+        "word": "为你撑伞因为你值得",
+        "onboard_time": 1688484756,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197014,
+        "num": 197014,
+        "word": "meiko状态",
+        "onboard_time": 1688479782,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253581,
+        "num": 196234,
+        "word": "男生被要28万8彩礼写信给县长求整治",
+        "onboard_time": 1688457874,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195427,
+        "num": 195427,
+        "word": "王一博核心力量",
+        "onboard_time": 1688475272,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187299,
+        "num": 187299,
+        "word": "古天乐眉毛",
+        "onboard_time": 1688472270,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185525,
+        "num": 185525,
+        "word": "迪丽热巴的蓝色挑染",
+        "onboard_time": 1688460577,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 180061,
+        "num": 180061,
+        "word": "高铁上差点被前桌喂饱了",
+        "onboard_time": 1688466457,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173736,
+        "num": 173736,
+        "word": "相册总为夏日晚霞留个位置",
+        "onboard_time": 1688484219,
+        "rank": 48,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 172197,
+        "num": 172197,
+        "word": "发现自己误成间谍帮手后主动投案",
+        "onboard_time": 1688468737,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席上海合作组织成员国元首理事会第二十三次会议#"
+    }
+  }
+}

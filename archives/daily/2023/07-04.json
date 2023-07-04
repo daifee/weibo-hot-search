@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688484012044,
+  "endTime": 1688484891563,
   "band_list": [
     {
       "raw_hot": 7213197,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1060325,
+      "num": 1060325,
+      "word": "褪黑素",
+      "onboard_time": 1688482542,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1051918,
       "num": 645239,
       "word": "短发女警刘欣走了",
@@ -659,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 802037,
+      "num": 802037,
+      "word": "马龙",
+      "onboard_time": 1688482420,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 795189,
       "num": 795189,
       "word": "东京一店长闻到煤气味后点了根烟",
@@ -697,14 +713,6 @@
       "onboard_time": 1688434895,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 740535,
-      "num": 740535,
-      "word": "褪黑素",
-      "onboard_time": 1688482542,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 739702,
@@ -827,20 +835,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658835,
+      "num": 585248,
+      "word": "女子称入职时被要求上交毕业证原件",
+      "onboard_time": 1688483199,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656189,
       "num": 656189,
       "word": "台湾网友跟着解放军用别瞎吵吵造句",
       "onboard_time": 1688463577,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653924,
-      "num": 653924,
-      "word": "马龙",
-      "onboard_time": 1688482420,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 649899,
@@ -1052,7 +1060,7 @@
     },
     {
       "raw_hot": 512676,
-      "num": 315666,
+      "num": 351157,
       "word": "公司解散领到26万补偿款",
       "onboard_time": 1688481341,
       "rank": 33,
@@ -1403,11 +1411,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 361532,
+      "num": 343373,
+      "word": "一见茹顾三次圆房",
+      "onboard_time": 1688481461,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360189,
       "num": 360189,
       "word": "王一博新电影叫小沈阳谢哥",
       "onboard_time": 1688460155,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 360103,
+      "num": 360103,
+      "word": "猪猪侠大战愤怒的小鸟",
+      "onboard_time": 1688483858,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -1675,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295557,
+      "num": 269878,
+      "word": "巴西男子街头绑走女童带回家性侵",
+      "onboard_time": 1688483978,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295363,
       "num": 295363,
       "word": "乾隆是多巴胺审美鼻祖吧",
@@ -1737,14 +1769,6 @@
       "onboard_time": 1688382639,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290226,
-      "num": 290226,
-      "word": "一见茹顾三次圆房",
-      "onboard_time": 1688481461,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 288560,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1688466338,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270718,
+      "num": 269466,
+      "word": "小姨为了抱认生的孩子用奇招",
+      "onboard_time": 1688483921,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 269914,
@@ -2049,6 +2081,22 @@
       "onboard_time": 1688437833,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237506,
+      "num": 237506,
+      "word": "你说话好伤人",
+      "onboard_time": 1688484398,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 237229,
+      "num": 237229,
+      "word": "陈伟霆胸肌快把衬衫扣子崩开了",
+      "onboard_time": 1688484633,
+      "rank": 37,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 237055,
@@ -2283,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206368,
+      "num": 206368,
+      "word": "熊猫宝宝四条腿各跑各的",
+      "onboard_time": 1688484338,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205267,
       "num": 205267,
       "word": "来大连必吃的苍蝇馆子",
@@ -2299,6 +2355,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 203493,
+      "num": 203493,
+      "word": "为你撑伞因为你值得",
+      "onboard_time": 1688484756,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203218,
       "num": 203218,
       "word": "曾黎肖战原来认识",
@@ -2313,14 +2377,6 @@
       "onboard_time": 1688461716,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 200686,
-      "num": 200686,
-      "word": "女子称入职时被要求上交毕业证原件",
-      "onboard_time": 1688483199,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200448,
@@ -2499,14 +2555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177649,
-      "num": 177649,
-      "word": "猪猪侠大战愤怒的小鸟",
-      "onboard_time": 1688483858,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 177507,
       "num": 177507,
       "word": "还得是同龄人了解同龄人",
@@ -2523,14 +2571,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 176351,
-      "num": 176351,
-      "word": "小姨为了抱认生的孩子用奇招",
-      "onboard_time": 1688483921,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 176334,
       "num": 176334,
       "word": "文俊辉新歌PSYCHO",
@@ -2545,6 +2585,14 @@
       "onboard_time": 1688407577,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 173736,
+      "num": 173736,
+      "word": "相册总为夏日晚霞留个位置",
+      "onboard_time": 1688484219,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 173598,
@@ -2641,14 +2689,6 @@
       "onboard_time": 1688399496,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 159303,
-      "num": 159303,
-      "word": "巴西男子街头绑走女童带回家性侵",
-      "onboard_time": 1688483978,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159261,
