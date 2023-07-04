@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688455109702,
+  "endTime": 1688456044736,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 3252676,
-      "num": 946561,
+      "num": 1023674,
       "word": "秦牛正威改名秦语鹿",
       "onboard_time": 1688452893,
       "rank": 3,
@@ -1267,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1042081,
+      "num": 1042081,
+      "word": "任敏认领猪猪敏",
+      "onboard_time": 1688452655,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1041378,
       "num": 1041378,
       "word": "高考657分想重新复读一年",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1688259386,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 987433,
+      "num": 987433,
+      "word": "男子吃菌后看到冰块飘空中果断报警",
+      "onboard_time": 1688452598,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 983177,
@@ -1547,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922816,
+      "num": 617419,
+      "word": "头发染得再黄鼻子修得再尖也变不了欧美人",
+      "onboard_time": 1688454273,
+      "rank": 32,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 921246,
       "num": 921246,
       "word": "花花生日",
@@ -1585,14 +1609,6 @@
       "onboard_time": 1688433633,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 907885,
-      "num": 907885,
-      "word": "任敏认领猪猪敏",
-      "onboard_time": 1688452655,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 901008,
@@ -1729,14 +1745,6 @@
       "onboard_time": 1688264371,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 850485,
-      "num": 533527,
-      "word": "男子吃菌后看到冰块飘空中果断报警",
-      "onboard_time": 1688452598,
-      "rank": 37,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 850343,
@@ -1913,6 +1921,14 @@
       "onboard_time": 1688315070,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 787706,
+      "num": 456663,
+      "word": "杨紫背好薄",
+      "onboard_time": 1688454877,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 786869,
@@ -2228,7 +2244,7 @@
     },
     {
       "raw_hot": 687943,
-      "num": 399636,
+      "num": 456431,
       "word": "为什么KTV里面只有两个话筒",
       "onboard_time": 1688450496,
       "rank": 21,
@@ -2385,6 +2401,14 @@
       "onboard_time": 1688307217,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 665549,
+      "num": 665549,
+      "word": "苏醒 尊重各自工作和身份",
+      "onboard_time": 1688454698,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 665283,
@@ -2705,6 +2729,14 @@
       "onboard_time": 1688184151,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597841,
+      "num": 597841,
+      "word": "因为抢方便面汤被通报批评",
+      "onboard_time": 1688451996,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 596209,
@@ -3147,6 +3179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 517860,
+      "num": 517860,
+      "word": "肖战任敏双人概念片",
+      "onboard_time": 1688453674,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 515427,
       "num": 515427,
       "word": "九尾狐设计",
@@ -3185,14 +3225,6 @@
       "onboard_time": 1688213789,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 513242,
-      "num": 513242,
-      "word": "因为抢方便面汤被通报批评",
-      "onboard_time": 1688451996,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 512382,
@@ -3531,6 +3563,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 468716,
+      "num": 468716,
+      "word": "白敬亭说没人比我更合适顾九思",
+      "onboard_time": 1688453798,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467013,
       "num": 620393,
       "word": "孙颖莎获萨格勒布站亚军",
@@ -3563,6 +3603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458226,
+      "num": 458226,
+      "word": "TFBOYS十周年能不能考虑下巡回",
+      "onboard_time": 1688454814,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456883,
       "num": 456883,
       "word": "日语N1",
@@ -3585,6 +3633,14 @@
       "onboard_time": 1688353593,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 453932,
+      "num": 453932,
+      "word": "杨超越出演杨洋王楚然新剧",
+      "onboard_time": 1688454877,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 453880,
@@ -3811,14 +3867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432100,
-      "num": 432100,
-      "word": "肖战任敏双人概念片",
-      "onboard_time": 1688453674,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 428691,
       "num": 677329,
       "word": "女生称求职因是上海人2天被拒3次",
@@ -3971,6 +4019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403163,
+      "num": 403163,
+      "word": "生理期不能吃的水果",
+      "onboard_time": 1688455536,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 403052,
       "num": 403052,
       "word": "原来榴莲也有住单间的",
@@ -4043,14 +4099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 398880,
-      "num": 398880,
-      "word": "白敬亭说没人比我更合适顾九思",
-      "onboard_time": 1688453798,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 397296,
       "num": 397296,
       "word": "尘缘",
@@ -4115,14 +4163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390218,
-      "num": 269234,
-      "word": "头发染得再黄鼻子修得再尖也变不了欧美人",
-      "onboard_time": 1688454273,
-      "rank": 32,
-      "category": "幽默,时尚"
-    },
-    {
       "raw_hot": 389246,
       "num": 338450,
       "word": "跑男团全员为Angelababy新剧打call",
@@ -4185,6 +4225,14 @@
       "onboard_time": 1688368786,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383038,
+      "num": 383038,
+      "word": "大姨出500元让我把电脑给表妹",
+      "onboard_time": 1688455232,
+      "rank": 26,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 382973,
@@ -4395,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363263,
+      "num": 363263,
+      "word": "李一桐体重不到90斤",
+      "onboard_time": 1688454516,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362002,
       "num": 362002,
       "word": "赵露思回应被说圆脸",
@@ -4497,6 +4553,14 @@
       "onboard_time": 1688394165,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 352388,
+      "num": 327009,
+      "word": "如何快速冰镇饮料",
+      "onboard_time": 1688454698,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 352163,
@@ -4681,14 +4745,6 @@
       "onboard_time": 1688273070,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336226,
-      "num": 336226,
-      "word": "杨紫背好薄",
-      "onboard_time": 1688454877,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 334443,
@@ -4921,14 +4977,6 @@
       "onboard_time": 1688323515,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319702,
-      "num": 319702,
-      "word": "苏醒 尊重各自工作和身份",
-      "onboard_time": 1688454698,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 319510,
@@ -5475,14 +5523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 284513,
-      "num": 284513,
-      "word": "TFBOYS十周年能不能考虑下巡回",
-      "onboard_time": 1688454814,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 284382,
       "num": 284382,
       "word": "歼20",
@@ -5867,6 +5907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264592,
+      "num": 264592,
+      "word": "段嘉许这都不亲",
+      "onboard_time": 1688454997,
+      "rank": 46,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 264345,
       "num": 375242,
       "word": "国科大校长说着说着就哭了",
@@ -5945,14 +5993,6 @@
       "onboard_time": 1688192014,
       "rank": 41,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 260102,
-      "num": 260102,
-      "word": "如何快速冰镇饮料",
-      "onboard_time": 1688454698,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 259778,
@@ -6283,14 +6323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248605,
-      "num": 248605,
-      "word": "李一桐体重不到90斤",
-      "onboard_time": 1688454516,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248400,
       "num": 248400,
       "word": "段嘉许桑稚处处吻",
@@ -6515,6 +6547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240295,
+      "num": 240295,
+      "word": "幼儿在公共场合哭闹 泰森原则",
+      "onboard_time": 1688455296,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239609,
       "num": 239609,
       "word": "徐佳莹金曲奖最佳作曲人",
@@ -6689,6 +6729,14 @@
       "onboard_time": 1688180190,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230792,
+      "num": 230792,
+      "word": "广东人正式被确诊为依萍",
+      "onboard_time": 1688455654,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230159,
@@ -6913,6 +6961,14 @@
       "onboard_time": 1688305781,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 222311,
+      "num": 222311,
+      "word": "管啸天",
+      "onboard_time": 1688455654,
+      "rank": 42,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 222148,
@@ -7187,14 +7243,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 211528,
-      "num": 229202,
-      "word": "杨超越出演杨洋王楚然新剧",
-      "onboard_time": 1688454877,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211511,
       "num": 211511,
       "word": "光是看心脏都受不了",
@@ -7427,14 +7475,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 204520,
-      "num": 204520,
-      "word": "段嘉许这都不亲",
-      "onboard_time": 1688454997,
-      "rank": 46,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 203856,
       "num": 203856,
       "word": "沈月陈小希造型",
@@ -7529,6 +7569,14 @@
       "onboard_time": 1688128298,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199394,
+      "num": 199394,
+      "word": "控制不了的情绪别怪在我身上",
+      "onboard_time": 1688455893,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 199347,
@@ -9352,6 +9400,14 @@
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26351,
+      "num": 1030435,
+      "word": "西汉青铜灯人性化设计太妙了",
+      "onboard_time": 1688441375,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
