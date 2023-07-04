@@ -1,0 +1,410 @@
+{
+  "runTime": 1688480288380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2171123,
+        "num": 2171123,
+        "word": "EDG 啃老",
+        "onboard_time": 1688473532,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1714755,
+        "num": 1714755,
+        "word": "白敬亭说网络消息大家想一下再信",
+        "onboard_time": 1688478275,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92261,
+        "num": 1626187,
+        "word": "闪闪发光的中国00后",
+        "onboard_time": 1688475692,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1620379,
+        "num": 1620379,
+        "word": "秦牛正威回应为了男友改名",
+        "onboard_time": 1688468973,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1323237,
+        "num": 1323237,
+        "word": "TT战胜EDG",
+        "onboard_time": 1688479421,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1223514,
+        "num": 1223514,
+        "word": "周也 孟子义",
+        "onboard_time": 1688477615,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1123489,
+        "num": 1123489,
+        "word": "痞幼",
+        "onboard_time": 1688462855,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 819344,
+        "num": 819344,
+        "word": "苏州大学录取通知书太用心了",
+        "onboard_time": 1688475632,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 795189,
+        "num": 795189,
+        "word": "东京一店长闻到煤气味后点了根烟",
+        "onboard_time": 1688475513,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675216,
+        "num": 675216,
+        "word": "莲花楼",
+        "onboard_time": 1688475816,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1165796,
+        "num": 674775,
+        "word": "肖战洗澡vs杨洋王子奇洗澡",
+        "onboard_time": 1688477257,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 961216,
+        "num": 670173,
+        "word": "何炅王嘉尔曾预言白敬亭宋轶",
+        "onboard_time": 1688478097,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815272,
+        "num": 667757,
+        "word": "日本札幌一酒店惊现无头男尸",
+        "onboard_time": 1688477975,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659939,
+        "num": 659939,
+        "word": "不容易近视的人 睫状肌",
+        "onboard_time": 1688476295,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607720,
+        "num": 607720,
+        "word": "王楚然王子奇新剧对手戏",
+        "onboard_time": 1688476597,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601297,
+        "num": 601297,
+        "word": "公积金年度结息到账",
+        "onboard_time": 1688470414,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 591656,
+        "num": 591656,
+        "word": "胡继勇被免去多项职务",
+        "onboard_time": 1688478937,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571983,
+        "num": 571983,
+        "word": "EDG对战TT",
+        "onboard_time": 1688472873,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 527242,
+        "num": 527242,
+        "word": "朱某龙骑车去痞幼家偷茅台",
+        "onboard_time": 1688470116,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504576,
+        "num": 504576,
+        "word": "砸锅卖铁去上学 影视化",
+        "onboard_time": 1688476893,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1140871,
+        "num": 504506,
+        "word": "男子两任妻子都查出宫颈癌",
+        "onboard_time": 1688476114,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663702,
+        "num": 504233,
+        "word": "生理期不能吃的水果",
+        "onboard_time": 1688455536,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 502629,
+        "num": 502629,
+        "word": "美依礼芽被蜗牛吓到尖叫",
+        "onboard_time": 1688478456,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406478,
+        "num": 406478,
+        "word": "男生被要28万8彩礼写信给县长求整治",
+        "onboard_time": 1688457874,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348597,
+        "num": 348597,
+        "word": "看不懂EDG的BP",
+        "onboard_time": 1688476174,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313659,
+        "num": 313659,
+        "word": "王一博核心力量",
+        "onboard_time": 1688475272,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293262,
+        "num": 293262,
+        "word": "meiko状态",
+        "onboard_time": 1688479782,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282667,
+        "num": 282667,
+        "word": "发现自己误成间谍帮手后主动投案",
+        "onboard_time": 1688468737,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280697,
+        "num": 280697,
+        "word": "欧豪有12部待播剧",
+        "onboard_time": 1688468135,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279299,
+        "num": 279299,
+        "word": "否定型人格",
+        "onboard_time": 1688473053,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 278792,
+        "num": 278792,
+        "word": "泽连斯基喊话拜登",
+        "onboard_time": 1688480260,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 278723,
+        "num": 278723,
+        "word": "古天乐眉毛",
+        "onboard_time": 1688472270,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277594,
+        "num": 277594,
+        "word": "我的人间烟火官宣定档",
+        "onboard_time": 1688469813,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254578,
+        "num": 254578,
+        "word": "肖战片场公主抱任敏",
+        "onboard_time": 1688461535,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251243,
+        "num": 251243,
+        "word": "迪丽热巴的蓝色挑染",
+        "onboard_time": 1688460577,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 241042,
+        "num": 241042,
+        "word": "杨紫回应之前杂志少",
+        "onboard_time": 1688471793,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238181,
+        "num": 238181,
+        "word": "今晚的月亮格外大",
+        "onboard_time": 1688476656,
+        "rank": 36,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 230383,
+        "num": 230383,
+        "word": "把苹果咬成我买不起的样子",
+        "onboard_time": 1688465378,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223807,
+        "num": 223807,
+        "word": "沙漏",
+        "onboard_time": 1688477136,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213566,
+        "num": 213566,
+        "word": "中国男排不敌日本男排",
+        "onboard_time": 1688476956,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213286,
+        "num": 213286,
+        "word": "jiejie打野",
+        "onboard_time": 1688479963,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212224,
+        "num": 212224,
+        "word": "广东人正式被确诊为依萍",
+        "onboard_time": 1688455654,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211455,
+        "num": 211455,
+        "word": "Ucal在打什么",
+        "onboard_time": 1688480022,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211145,
+        "num": 211145,
+        "word": "离职最后一天让公司损失几十万",
+        "onboard_time": 1688464603,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203967,
+        "num": 203967,
+        "word": "中国好声音",
+        "onboard_time": 1688480200,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200448,
+        "num": 200448,
+        "word": "外国网友帮忙做英语作业",
+        "onboard_time": 1688480080,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195780,
+        "num": 195780,
+        "word": "黑执事 画风变丑",
+        "onboard_time": 1688468796,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192147,
+        "num": 192147,
+        "word": "李佳琦侧脸vs正脸",
+        "onboard_time": 1688476474,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191168,
+        "num": 191168,
+        "word": "高铁上差点被前桌喂饱了",
+        "onboard_time": 1688466457,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189380,
+        "num": 189380,
+        "word": "宁艺卓被Ella三连问",
+        "onboard_time": 1688465676,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把互利合作蛋糕做大#"
+    }
+  }
+}

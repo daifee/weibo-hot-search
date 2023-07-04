@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688477956809,
+  "endTime": 1688480288380,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2171123,
+      "num": 2171123,
+      "word": "EDG 啃老",
+      "onboard_time": 1688473532,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2167496,
       "num": 528255,
       "word": "台媒曝吴青峰刘家凯为炎亚纶闹翻",
@@ -731,6 +739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1714755,
+      "num": 1714755,
+      "word": "白敬亭说网络消息大家想一下再信",
+      "onboard_time": 1688478275,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1693557,
       "num": 1693557,
       "word": "杭州女子买彩票误打误撞中了一千万",
@@ -761,14 +777,6 @@
       "onboard_time": 1688188774,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1634883,
-      "num": 1634883,
-      "word": "EDG 啃老",
-      "onboard_time": 1688473532,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 1630521,
@@ -987,6 +995,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1323237,
+      "num": 1323237,
+      "word": "TT战胜EDG",
+      "onboard_time": 1688479421,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1313529,
       "num": 1313529,
       "word": "法国警察射杀17岁少年引起骚乱",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1688389543,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1223514,
+      "num": 1223514,
+      "word": "周也 孟子义",
+      "onboard_time": 1688477615,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1216616,
@@ -1163,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1165796,
+      "num": 711110,
+      "word": "肖战洗澡vs杨洋王子奇洗澡",
+      "onboard_time": 1688477257,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1165079,
       "num": 1165079,
       "word": "推特崩了",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1688277573,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1140871,
+      "num": 504506,
+      "word": "男子两任妻子都查出宫颈癌",
+      "onboard_time": 1688476114,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135433,
@@ -1571,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 961216,
+      "num": 670173,
+      "word": "何炅王嘉尔曾预言白敬亭宋轶",
+      "onboard_time": 1688478097,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 953927,
       "num": 953927,
       "word": "孙艺珍产后首个公开行程",
@@ -1675,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 924170,
-      "num": 353191,
-      "word": "男子两任妻子都查出宫颈癌",
-      "onboard_time": 1688476114,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 921246,
       "num": 921246,
       "word": "花花生日",
@@ -1716,7 +1756,7 @@
     },
     {
       "raw_hot": 915791,
-      "num": 459662,
+      "num": 504233,
       "word": "生理期不能吃的水果",
       "onboard_time": 1688455536,
       "rank": 25,
@@ -1833,14 +1873,6 @@
       "onboard_time": 1688455296,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867225,
-      "num": 711110,
-      "word": "肖战洗澡vs杨洋王子奇洗澡",
-      "onboard_time": 1688477257,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 867196,
@@ -1995,6 +2027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 819344,
+      "num": 819344,
+      "word": "苏州大学录取通知书太用心了",
+      "onboard_time": 1688475632,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 819066,
       "num": 819066,
       "word": "我的人间烟火官宣定档",
@@ -2019,6 +2059,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 815272,
+      "num": 667757,
+      "word": "日本札幌一酒店惊现无头男尸",
+      "onboard_time": 1688477975,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812245,
       "num": 812245,
       "word": "法国载40多名中国公民车辆被砸",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1688211691,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 805652,
-      "num": 805652,
-      "word": "苏州大学录取通知书太用心了",
-      "onboard_time": 1688475632,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 804918,
@@ -2073,6 +2113,14 @@
       "onboard_time": 1688132439,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 795189,
+      "num": 795189,
+      "word": "东京一店长闻到煤气味后点了根烟",
+      "onboard_time": 1688475513,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 794711,
@@ -2320,14 +2368,6 @@
       "word": "人大回应网传学生个人信息被泄露",
       "onboard_time": 1688268269,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 733923,
-      "num": 733923,
-      "word": "东京一店长闻到煤气味后点了根烟",
-      "onboard_time": 1688475513,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2699,6 +2739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 659939,
+      "num": 659939,
+      "word": "不容易近视的人 睫状肌",
+      "onboard_time": 1688476295,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 658229,
       "num": 2117004,
       "word": "孕妇大出血遇早高峰交警咆哮开道",
@@ -2987,6 +3035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 607720,
+      "num": 607720,
+      "word": "王楚然王子奇新剧对手戏",
+      "onboard_time": 1688476597,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606794,
       "num": 606794,
       "word": "大学毕业生带小黄鸭坐火车被拒",
@@ -3067,6 +3123,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 591656,
+      "num": 591656,
+      "word": "胡继勇被免去多项职务",
+      "onboard_time": 1688478937,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591530,
       "num": 591530,
       "word": "空调这样调才是真省电",
@@ -3145,6 +3209,14 @@
       "onboard_time": 1688281414,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571983,
+      "num": 571983,
+      "word": "EDG对战TT",
+      "onboard_time": 1688472873,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 571725,
@@ -3635,6 +3707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 504576,
+      "num": 504576,
+      "word": "砸锅卖铁去上学 影视化",
+      "onboard_time": 1688476893,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 503022,
       "num": 503022,
       "word": "沈梦辰戴脐钉",
@@ -3649,6 +3729,14 @@
       "onboard_time": 1688284174,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502629,
+      "num": 502629,
+      "word": "美依礼芽被蜗牛吓到尖叫",
+      "onboard_time": 1688478456,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 500427,
@@ -3817,14 +3905,6 @@
       "onboard_time": 1688357057,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 484335,
-      "num": 333309,
-      "word": "不容易近视的人 睫状肌",
-      "onboard_time": 1688476295,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 483378,
@@ -4265,14 +4345,6 @@
       "onboard_time": 1688217573,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428821,
-      "num": 428821,
-      "word": "砸锅卖铁去上学 影视化",
-      "onboard_time": 1688476893,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 428691,
@@ -4915,14 +4987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362839,
-      "num": 329413,
-      "word": "王楚然王子奇新剧对手戏",
-      "onboard_time": 1688476597,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 362002,
       "num": 362002,
       "word": "赵露思回应被说圆脸",
@@ -5073,6 +5137,14 @@
       "onboard_time": 1688268692,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348597,
+      "num": 348597,
+      "word": "看不懂EDG的BP",
+      "onboard_time": 1688476174,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 348164,
@@ -5499,14 +5571,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 321702,
-      "num": 321702,
-      "word": "周也 孟子义",
-      "onboard_time": 1688477615,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321479,
       "num": 321479,
       "word": "原来猫咪允许你摸它的鼻子是这个意思",
@@ -5641,14 +5705,6 @@
       "onboard_time": 1688323754,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 311053,
-      "num": 311053,
-      "word": "EDG对战TT",
-      "onboard_time": 1688472873,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 310778,
@@ -6043,6 +6099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 293262,
+      "num": 293262,
+      "word": "meiko状态",
+      "onboard_time": 1688479782,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292780,
       "num": 292780,
       "word": "5旬女子被00后喊阿姨后索赔2000",
@@ -6257,6 +6321,14 @@
       "onboard_time": 1688141375,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278792,
+      "num": 278792,
+      "word": "泽连斯基喊话拜登",
+      "onboard_time": 1688480260,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 278305,
@@ -7947,6 +8019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213286,
+      "num": 213286,
+      "word": "jiejie打野",
+      "onboard_time": 1688479963,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213221,
       "num": 238709,
       "word": "未来中国科普宣传员",
@@ -8001,6 +8081,14 @@
       "onboard_time": 1688226453,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 211455,
+      "num": 211455,
+      "word": "Ucal在打什么",
+      "onboard_time": 1688480022,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 211438,
@@ -8243,6 +8331,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 203967,
+      "num": 203967,
+      "word": "中国好声音",
+      "onboard_time": 1688480200,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203856,
       "num": 203856,
       "word": "沈月陈小希造型",
@@ -8337,6 +8433,14 @@
       "onboard_time": 1688382761,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200448,
+      "num": 200448,
+      "word": "外国网友帮忙做英语作业",
+      "onboard_time": 1688480080,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 200317,
@@ -8449,14 +8553,6 @@
       "onboard_time": 1688397522,
       "rank": 49,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 195961,
-      "num": 195961,
-      "word": "看不懂EDG的BP",
-      "onboard_time": 1688476174,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 195820,
@@ -9836,7 +9932,7 @@
     },
     {
       "raw_hot": 106315,
-      "num": 1134837,
+      "num": 1626187,
       "word": "闪闪发光的中国00后",
       "onboard_time": 1688475692,
       "rank": 2,

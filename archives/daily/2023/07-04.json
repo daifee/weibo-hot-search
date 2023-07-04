@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688477956809,
+  "endTime": 1688480288380,
   "band_list": [
     {
       "raw_hot": 7213197,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2171123,
+      "num": 2171123,
+      "word": "EDG 啃老",
+      "onboard_time": 1688473532,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2157608,
       "num": 2034157,
       "word": "秦牛正威回应为了男友改名",
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1714755,
+      "num": 1714755,
+      "word": "白敬亭说网络消息大家想一下再信",
+      "onboard_time": 1688478275,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1693557,
       "num": 1693557,
       "word": "杭州女子买彩票误打误撞中了一千万",
       "onboard_time": 1688444505,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1634883,
-      "num": 1634883,
-      "word": "EDG 啃老",
-      "onboard_time": 1688473532,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 1617142,
@@ -267,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1323237,
+      "num": 1323237,
+      "word": "TT战胜EDG",
+      "onboard_time": 1688479421,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1292654,
       "num": 1292654,
       "word": "黄渤被防暴力划伤膜背刺",
@@ -288,6 +304,14 @@
       "word": "观众缘好的明星",
       "onboard_time": 1688446307,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1223514,
+      "num": 1223514,
+      "word": "周也 孟子义",
+      "onboard_time": 1688477615,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -315,12 +339,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1165796,
+      "num": 711110,
+      "word": "肖战洗澡vs杨洋王子奇洗澡",
+      "onboard_time": 1688477257,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1151790,
       "num": 538495,
       "word": "去看痛经医生叫我生孩子",
       "onboard_time": 1688442579,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1140871,
+      "num": 504506,
+      "word": "男子两任妻子都查出宫颈癌",
+      "onboard_time": 1688476114,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1132388,
@@ -419,6 +459,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 961216,
+      "num": 670173,
+      "word": "何炅王嘉尔曾预言白敬亭宋轶",
+      "onboard_time": 1688478097,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 953927,
       "num": 953927,
       "word": "孙艺珍产后首个公开行程",
@@ -443,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 924170,
-      "num": 353191,
-      "word": "男子两任妻子都查出宫颈癌",
-      "onboard_time": 1688476114,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 921246,
       "num": 921246,
       "word": "花花生日",
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 915791,
-      "num": 459662,
+      "num": 504233,
       "word": "生理期不能吃的水果",
       "onboard_time": 1688455536,
       "rank": 25,
@@ -523,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 867225,
-      "num": 711110,
-      "word": "肖战洗澡vs杨洋王子奇洗澡",
-      "onboard_time": 1688477257,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 849127,
       "num": 494887,
       "word": "才知道一杯奶茶是家里一顿饭钱",
@@ -571,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 819344,
+      "num": 819344,
+      "word": "苏州大学录取通知书太用心了",
+      "onboard_time": 1688475632,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 819066,
       "num": 819066,
       "word": "我的人间烟火官宣定档",
@@ -587,12 +627,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 805652,
-      "num": 805652,
-      "word": "苏州大学录取通知书太用心了",
-      "onboard_time": 1688475632,
-      "rank": 17,
-      "category": "教育"
+      "raw_hot": 815272,
+      "num": 667757,
+      "word": "日本札幌一酒店惊现无头男尸",
+      "onboard_time": 1688477975,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795189,
+      "num": 795189,
+      "word": "东京一店长闻到煤气味后点了根烟",
+      "onboard_time": 1688475513,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 778714,
@@ -641,14 +689,6 @@
       "onboard_time": 1688448277,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 733923,
-      "num": 733923,
-      "word": "东京一店长闻到煤气味后点了根烟",
-      "onboard_time": 1688475513,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 730451,
@@ -755,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659939,
+      "num": 659939,
+      "word": "不容易近视的人 睫状肌",
+      "onboard_time": 1688476295,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 656189,
       "num": 656189,
       "word": "台湾网友跟着解放军用别瞎吵吵造句",
@@ -827,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 607720,
+      "num": 607720,
+      "word": "王楚然王子奇新剧对手戏",
+      "onboard_time": 1688476597,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 598168,
       "num": 598168,
       "word": "把苹果咬成我买不起的样子",
@@ -849,6 +905,22 @@
       "onboard_time": 1688445825,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 591656,
+      "num": 591656,
+      "word": "胡继勇被免去多项职务",
+      "onboard_time": 1688478937,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571983,
+      "num": 571983,
+      "word": "EDG对战TT",
+      "onboard_time": 1688472873,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 569918,
@@ -939,6 +1011,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504576,
+      "num": 504576,
+      "word": "砸锅卖铁去上学 影视化",
+      "onboard_time": 1688476893,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 502629,
+      "num": 502629,
+      "word": "美依礼芽被蜗牛吓到尖叫",
+      "onboard_time": 1688478456,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491302,
       "num": 491302,
       "word": "杭州超400万人人均到账494元",
@@ -977,14 +1065,6 @@
       "onboard_time": 1688446605,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 484335,
-      "num": 333309,
-      "word": "不容易近视的人 睫状肌",
-      "onboard_time": 1688476295,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 479082,
@@ -1105,14 +1185,6 @@
       "onboard_time": 1688454516,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428821,
-      "num": 428821,
-      "word": "砸锅卖铁去上学 影视化",
-      "onboard_time": 1688476893,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 422381,
@@ -1283,14 +1355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 362839,
-      "num": 329413,
-      "word": "王楚然王子奇新剧对手戏",
-      "onboard_time": 1688476597,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 360189,
       "num": 360189,
       "word": "王一博新电影叫小沈阳谢哥",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1688391636,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 348597,
+      "num": 348597,
+      "word": "看不懂EDG的BP",
+      "onboard_time": 1688476174,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 348164,
@@ -1435,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 321702,
-      "num": 321702,
-      "word": "周也 孟子义",
-      "onboard_time": 1688477615,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319745,
       "num": 319745,
       "word": "高铁上差点被前桌喂饱了",
@@ -1465,14 +1529,6 @@
       "onboard_time": 1688359492,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311053,
-      "num": 311053,
-      "word": "EDG对战TT",
-      "onboard_time": 1688472873,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 308773,
@@ -1579,6 +1635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 293262,
+      "num": 293262,
+      "word": "meiko状态",
+      "onboard_time": 1688479782,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292780,
       "num": 292780,
       "word": "5旬女子被00后喊阿姨后索赔2000",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1688457336,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 278792,
+      "num": 278792,
+      "word": "泽连斯基喊话拜登",
+      "onboard_time": 1688480260,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 278723,
@@ -2083,12 +2155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213286,
+      "num": 213286,
+      "word": "jiejie打野",
+      "onboard_time": 1688479963,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211808,
       "num": 211808,
       "word": "王楚然一天有三部剧要宣传",
       "onboard_time": 1688463154,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211455,
+      "num": 211455,
+      "word": "Ucal在打什么",
+      "onboard_time": 1688480022,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 208939,
@@ -2131,6 +2219,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 203967,
+      "num": 203967,
+      "word": "中国好声音",
+      "onboard_time": 1688480200,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203218,
       "num": 203218,
       "word": "曾黎肖战原来认识",
@@ -2145,6 +2241,14 @@
       "onboard_time": 1688461716,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 200448,
+      "num": 200448,
+      "word": "外国网友帮忙做英语作业",
+      "onboard_time": 1688480080,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 199394,
@@ -2169,14 +2273,6 @@
       "onboard_time": 1688439634,
       "rank": 45,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 195961,
-      "num": 195961,
-      "word": "看不懂EDG的BP",
-      "onboard_time": 1688476174,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 195594,
@@ -2588,7 +2684,7 @@
     },
     {
       "raw_hot": 106315,
-      "num": 1134837,
+      "num": 1626187,
       "word": "闪闪发光的中国00后",
       "onboard_time": 1688475692,
       "rank": 2,
