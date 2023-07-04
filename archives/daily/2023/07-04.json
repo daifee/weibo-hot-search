@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688436884212,
+  "endTime": 1688439716903,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -19,8 +19,16 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 3197007,
-      "num": 3197007,
+      "raw_hot": 3365108,
+      "num": 597470,
+      "word": "律师称蔡徐坤可能被列为劣迹艺人",
+      "onboard_time": 1688436815,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3359952,
+      "num": 3359952,
       "word": "男子故意1次取1元逼哭柜员",
       "onboard_time": 1688434475,
       "rank": 11,
@@ -139,6 +147,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 953927,
+      "num": 953927,
+      "word": "孙艺珍产后首个公开行程",
+      "onboard_time": 1688435495,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927976,
       "num": 211753,
       "word": "蔡徐坤 照片不是我",
@@ -163,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 879934,
+      "num": 879934,
+      "word": "黄子韬和马伯骞情人节被困高速",
+      "onboard_time": 1688436097,
+      "rank": 20,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 841410,
       "num": 841410,
       "word": "TFBOYS不合体排练吗",
@@ -171,16 +195,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 750719,
-      "num": 700068,
-      "word": "孙艺珍产后首个公开行程",
-      "onboard_time": 1688435495,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 730448,
-      "num": 730448,
+      "raw_hot": 755062,
+      "num": 755062,
       "word": "倪妮哭戏撞到摄像机",
       "onboard_time": 1688434895,
       "rank": 21,
@@ -201,6 +217,14 @@
       "onboard_time": 1688396747,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 651289,
+      "num": 651289,
+      "word": "眼药水不能滴在眼睛上",
+      "onboard_time": 1688433576,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649899,
@@ -283,12 +307,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 450733,
-      "num": 450733,
-      "word": "眼药水不能滴在眼睛上",
-      "onboard_time": 1688433576,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 469019,
+      "num": 469019,
+      "word": "金星吐槽女明星走红毯捂胸口",
+      "onboard_time": 1688439275,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 422381,
@@ -323,14 +347,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 409131,
-      "num": 409131,
-      "word": "黄子韬和马伯骞情人节被困高速",
-      "onboard_time": 1688436097,
-      "rank": 20,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 395414,
       "num": 395414,
       "word": "美依礼芽回中国了",
@@ -355,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381891,
+      "num": 320720,
+      "word": "长大后最恐怖的事情之一",
+      "onboard_time": 1688437535,
+      "rank": 21,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 379314,
       "num": 286560,
       "word": "PP猪的臭宝贝已报警",
       "onboard_time": 1688379345,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372255,
+      "num": 320387,
+      "word": "萌兰庆生现场画面来啦",
+      "onboard_time": 1688438795,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355755,
@@ -409,6 +441,14 @@
       "onboard_time": 1688434714,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300120,
+      "num": 300120,
+      "word": "樊振东第二",
+      "onboard_time": 1688438135,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 298435,
@@ -515,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248687,
+      "num": 248687,
+      "word": "弟弟考上高中我却不能上学了",
+      "onboard_time": 1688439696,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 248212,
       "num": 248212,
       "word": "真情侣vs假情侣回应",
@@ -545,6 +593,30 @@
       "onboard_time": 1688389661,
       "rank": 29,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 241880,
+      "num": 241880,
+      "word": "张柏芝吴磊同框好养眼",
+      "onboard_time": 1688437833,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237554,
+      "num": 237554,
+      "word": "王者荣耀",
+      "onboard_time": 1688438557,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 237032,
+      "num": 237032,
+      "word": "古代人游园会的快乐我体会到了",
+      "onboard_time": 1688438795,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 235551,
@@ -595,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220835,
+      "num": 220835,
+      "word": "把狮子和西瓜放一块洗是认真的吗",
+      "onboard_time": 1688439634,
+      "rank": 34,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 203218,
       "num": 203218,
       "word": "曾黎肖战原来认识",
@@ -611,12 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197236,
-      "num": 197236,
-      "word": "律师称蔡徐坤可能被列为劣迹艺人",
-      "onboard_time": 1688436815,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 193447,
+      "num": 193447,
+      "word": "别人的家庭氛围好自己会自卑",
+      "onboard_time": 1688438675,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 189998,
@@ -625,6 +705,14 @@
       "onboard_time": 1688393863,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188579,
+      "num": 188579,
+      "word": "农民大叔造出了我的梦中情院",
+      "onboard_time": 1688439454,
+      "rank": 40,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 188325,
@@ -691,11 +779,35 @@
       "category": "网红"
     },
     {
+      "raw_hot": 173244,
+      "num": 173244,
+      "word": "范世錡好像带孩子出来玩儿",
+      "onboard_time": 1688438737,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171681,
+      "num": 171681,
+      "word": "骑手你人还怪实在嘞",
+      "onboard_time": 1688438496,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170936,
       "num": 170936,
       "word": "当爸爸听说筷子拿得远以后嫁的远",
       "onboard_time": 1688397280,
       "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 170126,
+      "num": 170126,
+      "word": "恋爱脑犯了的时候就看看",
+      "onboard_time": 1688437833,
+      "rank": 44,
       "category": "幽默,情感"
     },
     {
@@ -763,12 +875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158233,
+      "num": 158233,
+      "word": "赵露思偷偷藏不住名场面",
+      "onboard_time": 1688439634,
+      "rank": 45,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 157992,
       "num": 157992,
       "word": "谁说站在光里的才算英雄",
       "onboard_time": 1688436693,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157596,
+      "num": 157596,
+      "word": "2023KPL夏季赛第二轮赛程",
+      "onboard_time": 1688438795,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 154270,
@@ -793,6 +921,14 @@
       "onboard_time": 1688393504,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150183,
+      "num": 150183,
+      "word": "这个家没有小动物得散",
+      "onboard_time": 1688438074,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 149008,
