@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688456044736,
+  "endTime": 1688459106416,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 3252676,
-      "num": 1023674,
+      "num": 1356455,
       "word": "秦牛正威改名秦语鹿",
       "onboard_time": 1688452893,
       "rank": 3,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1861641,
+      "num": 1861641,
+      "word": "头发染得再黄鼻子修得再尖也变不了欧美人",
+      "onboard_time": 1688454273,
+      "rank": 32,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 1858705,
       "num": 1858705,
       "word": "大鹏全麻前最后一瞬遭遇暴击",
@@ -681,6 +689,14 @@
       "onboard_time": 1688208391,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1706636,
+      "num": 1706636,
+      "word": "广东人正式被确诊为依萍",
+      "onboard_time": 1688455654,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1693557,
@@ -947,12 +963,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1267491,
+      "num": 1267491,
+      "word": "男生被要28万8彩礼写信给县长求整治",
+      "onboard_time": 1688457874,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1264487,
       "num": 1264487,
       "word": "广东液体榴莲",
       "onboard_time": 1688268750,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1251536,
+      "num": 576633,
+      "word": "健身网红拉丝哥离世",
+      "onboard_time": 1688456675,
+      "rank": 11,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1246021,
@@ -1563,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 922816,
-      "num": 617419,
-      "word": "头发染得再黄鼻子修得再尖也变不了欧美人",
-      "onboard_time": 1688454273,
-      "rank": 32,
-      "category": "幽默,时尚"
-    },
-    {
       "raw_hot": 921246,
       "num": 921246,
       "word": "花花生日",
@@ -1779,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 840328,
+      "num": 840328,
+      "word": "幼儿在公共场合哭闹 泰森原则",
+      "onboard_time": 1688455296,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834991,
       "num": 834991,
       "word": "文咏珊还原李木子妆容",
@@ -1835,12 +1867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 816261,
+      "num": 460445,
+      "word": "杨紫背好薄",
+      "onboard_time": 1688454877,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 812245,
       "num": 812245,
       "word": "法国载40多名中国公民车辆被砸",
       "onboard_time": 1688174491,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810978,
+      "num": 459662,
+      "word": "生理期不能吃的水果",
+      "onboard_time": 1688455536,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 805772,
@@ -1921,14 +1969,6 @@
       "onboard_time": 1688315070,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 787706,
-      "num": 456663,
-      "word": "杨紫背好薄",
-      "onboard_time": 1688454877,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 786869,
@@ -2537,6 +2577,14 @@
       "onboard_time": 1688375080,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643666,
+      "num": 643666,
+      "word": "Jennie戳爷lily合照",
+      "onboard_time": 1688456315,
+      "rank": 9,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 640580,
@@ -3403,12 +3451,36 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 491239,
+      "num": 325944,
+      "word": "短发女警刘欣走了",
+      "onboard_time": 1688457156,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490618,
       "num": 490618,
       "word": "陈建州风波后首露面",
       "onboard_time": 1688194172,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490351,
+      "num": 490351,
+      "word": "TFBOYS十周年能不能考虑下巡回",
+      "onboard_time": 1688454814,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 489336,
+      "num": 489336,
+      "word": "杨超越出演杨洋王楚然新剧",
+      "onboard_time": 1688454877,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 488650,
@@ -3457,6 +3529,14 @@
       "onboard_time": 1688204254,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479082,
+      "num": 459369,
+      "word": "大姨出500元让我把电脑给表妹",
+      "onboard_time": 1688455232,
+      "rank": 26,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 476971,
@@ -3603,12 +3683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458226,
-      "num": 458226,
-      "word": "TFBOYS十周年能不能考虑下巡回",
-      "onboard_time": 1688454814,
-      "rank": 29,
-      "category": "音乐"
+      "raw_hot": 458400,
+      "num": 458400,
+      "word": "入职一年送走了41位同事",
+      "onboard_time": 1688457756,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 457469,
+      "num": 457469,
+      "word": "赵露思穿JK跳gee",
+      "onboard_time": 1688458235,
+      "rank": 24,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 456883,
@@ -3633,14 +3721,6 @@
       "onboard_time": 1688353593,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 453932,
-      "num": 453932,
-      "word": "杨超越出演杨洋王楚然新剧",
-      "onboard_time": 1688454877,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 453880,
@@ -3899,6 +3979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 421121,
+      "num": 421121,
+      "word": "李一桐体重不到90斤",
+      "onboard_time": 1688454516,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418734,
       "num": 418734,
       "word": "他到长沙第一件事是去缅怀袁老师",
@@ -4017,14 +4105,6 @@
       "onboard_time": 1688282314,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 403163,
-      "num": 403163,
-      "word": "生理期不能吃的水果",
-      "onboard_time": 1688455536,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 403052,
@@ -4195,6 +4275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388246,
+      "num": 388246,
+      "word": "对方撤回了一个冰淇淋",
+      "onboard_time": 1688458358,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 386909,
       "num": 280351,
       "word": "玉骨遥配音",
@@ -4225,14 +4313,6 @@
       "onboard_time": 1688368786,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383038,
-      "num": 383038,
-      "word": "大姨出500元让我把电脑给表妹",
-      "onboard_time": 1688455232,
-      "rank": 26,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 382973,
@@ -4441,14 +4521,6 @@
       "onboard_time": 1688211872,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363263,
-      "num": 363263,
-      "word": "李一桐体重不到90斤",
-      "onboard_time": 1688454516,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 362002,
@@ -5411,6 +5483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294632,
+      "num": 294632,
+      "word": "民警接过一支烟救下一条命",
+      "onboard_time": 1688457696,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294548,
       "num": 294548,
       "word": "试用期薪资可以不打八折",
@@ -5593,6 +5673,14 @@
       "onboard_time": 1688307161,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 281494,
+      "num": 281494,
+      "word": "一束给妈妈 一束给妹妹",
+      "onboard_time": 1688457336,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 280520,
@@ -5841,6 +5929,14 @@
       "onboard_time": 1688262751,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269552,
+      "num": 269552,
+      "word": "透明的山竹能吃吗",
+      "onboard_time": 1688457399,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 267943,
@@ -6259,6 +6355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249967,
+      "num": 249967,
+      "word": "杨紫说长相思有节点意义",
+      "onboard_time": 1688458835,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249761,
       "num": 249761,
       "word": "熊猫解暑主要靠大冰坨子",
@@ -6360,6 +6464,14 @@
       "word": "TVB拍的打工人",
       "onboard_time": 1688276315,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246511,
+      "num": 246511,
+      "word": "饶雪漫电影沙漏开机",
+      "onboard_time": 1688456372,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -6547,14 +6659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240295,
-      "num": 240295,
-      "word": "幼儿在公共场合哭闹 泰森原则",
-      "onboard_time": 1688455296,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239609,
       "num": 239609,
       "word": "徐佳莹金曲奖最佳作曲人",
@@ -6625,6 +6729,14 @@
       "onboard_time": 1688174852,
       "rank": 42,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 237055,
+      "num": 237055,
+      "word": "有被卖瓜老板的反应笑到",
+      "onboard_time": 1688458778,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 236329,
@@ -6729,14 +6841,6 @@
       "onboard_time": 1688180190,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230792,
-      "num": 230792,
-      "word": "广东人正式被确诊为依萍",
-      "onboard_time": 1688455654,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230159,
@@ -7105,6 +7209,14 @@
       "onboard_time": 1688191176,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216937,
+      "num": 216937,
+      "word": "海猫",
+      "onboard_time": 1688456197,
+      "rank": 40,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 216736,
@@ -8139,6 +8251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177507,
+      "num": 177507,
+      "word": "还得是同龄人了解同龄人",
+      "onboard_time": 1688459077,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 177384,
       "num": 177384,
       "word": "好奇熊猫宝宝啥都要尝尝",
@@ -9131,6 +9251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85729,
+      "num": 1361313,
+      "word": "西汉青铜灯人性化设计太妙了",
+      "onboard_time": 1688441375,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83871,
       "num": 2708714,
       "word": "中国动车组单列试验时速453公里",
@@ -9400,14 +9528,6 @@
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26351,
-      "num": 1030435,
-      "word": "西汉青铜灯人性化设计太妙了",
-      "onboard_time": 1688441375,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
