@@ -1,0 +1,410 @@
+{
+  "runTime": 1688447951430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3210222,
+        "num": 3210222,
+        "word": "大麦被罚",
+        "onboard_time": 1688442518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1693557,
+        "num": 1693557,
+        "word": "杭州女子买彩票误打误撞中了一千万",
+        "onboard_time": 1688444505,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171613,
+        "num": 1511725,
+        "word": "2023下半年大事日历",
+        "onboard_time": 1688441495,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3610997,
+        "num": 1495809,
+        "word": "金星吐槽女明星走红毯捂胸口",
+        "onboard_time": 1688439275,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2675496,
+        "num": 1481280,
+        "word": "婚检后才知道自己有蚕豆病",
+        "onboard_time": 1688443121,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1447074,
+        "num": 1447074,
+        "word": "黑执事",
+        "onboard_time": 1688432438,
+        "rank": 5,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1292654,
+        "num": 1292654,
+        "word": "黄渤被防暴力划伤膜背刺",
+        "onboard_time": 1688444804,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1092532,
+        "num": 1092532,
+        "word": "减肥人的黄金40天",
+        "onboard_time": 1688443298,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 932856,
+        "num": 932856,
+        "word": "花花和叶3岁生日合照",
+        "onboard_time": 1688441676,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923879,
+        "num": 923879,
+        "word": "妻子回应男子起哄怂恿轻生者跳楼",
+        "onboard_time": 1688444623,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324045,
+        "num": 885083,
+        "word": "燕京啤酒回应蔡徐坤事件",
+        "onboard_time": 1688428114,
+        "rank": 10,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 834991,
+        "num": 834991,
+        "word": "文咏珊还原李木子妆容",
+        "onboard_time": 1688444079,
+        "rank": 11,
+        "category": "影视,美妆"
+      },
+      {
+        "raw_hot": 818782,
+        "num": 818782,
+        "word": "男子故意1次取1元逼哭柜员",
+        "onboard_time": 1688434475,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739702,
+        "num": 739702,
+        "word": "被子的颜色会影响睡眠",
+        "onboard_time": 1688443903,
+        "rank": 13,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 713995,
+        "num": 713995,
+        "word": "观众缘好的明星",
+        "onboard_time": 1688446307,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596209,
+        "num": 596209,
+        "word": "肖战黑衣撑伞转圈",
+        "onboard_time": 1688445825,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585898,
+        "num": 585898,
+        "word": "iPhone15及Plus新增青绿色",
+        "onboard_time": 1688433576,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 540643,
+        "num": 540643,
+        "word": "爱说笑死的人要注意你的心脏了",
+        "onboard_time": 1688440718,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469240,
+        "num": 469240,
+        "word": "苹果公众号文章被批毁三观",
+        "onboard_time": 1688444385,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 436138,
+        "num": 436138,
+        "word": "男生街边卖卫生巾遭掀摊骂晦气",
+        "onboard_time": 1688446964,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151790,
+        "num": 435206,
+        "word": "去看痛经医生叫我生孩子",
+        "onboard_time": 1688442579,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 849127,
+        "num": 435150,
+        "word": "才知道一杯奶茶是家里一顿饭钱",
+        "onboard_time": 1688444505,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 486907,
+        "num": 434913,
+        "word": "实习第五天因为摸鱼被辞退了",
+        "onboard_time": 1688446605,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 433575,
+        "num": 433575,
+        "word": "孙艺珍产后首个公开行程",
+        "onboard_time": 1688435495,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413672,
+        "num": 413672,
+        "word": "西安忍不住根本忍不住",
+        "onboard_time": 1688431121,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 412324,
+        "num": 412324,
+        "word": "周杰伦瘦的原因",
+        "onboard_time": 1688443962,
+        "rank": 25,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 387415,
+        "num": 387415,
+        "word": "杭州超400万人人均到账494元",
+        "onboard_time": 1688447080,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 374249,
+        "num": 374249,
+        "word": "一直娱",
+        "onboard_time": 1688444683,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372758,
+        "num": 372758,
+        "word": "扬言弄死市民的辅警已调岗",
+        "onboard_time": 1688439817,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360365,
+        "num": 360365,
+        "word": "倪妮哭戏撞到摄像机",
+        "onboard_time": 1688434895,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531684,
+        "num": 353613,
+        "word": "21岁姑娘新婚初夜出血1500ml",
+        "onboard_time": 1688400034,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343737,
+        "num": 343737,
+        "word": "宋雨琦人在曹营心在汉",
+        "onboard_time": 1688447322,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329998,
+        "num": 329998,
+        "word": "被3名未成年逼吃粪便男童父亲发声",
+        "onboard_time": 1688447621,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305017,
+        "num": 305017,
+        "word": "北科大录取通知书是用钢做的",
+        "onboard_time": 1688447143,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 301769,
+        "num": 301769,
+        "word": "萌兰庆生现场画面来啦",
+        "onboard_time": 1688438795,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294615,
+        "num": 294615,
+        "word": "倪妮文咏珊黄子琪看朱一龙比耶",
+        "onboard_time": 1688441918,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294548,
+        "num": 294548,
+        "word": "试用期薪资可以不打八折",
+        "onboard_time": 1688446544,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283957,
+        "num": 283957,
+        "word": "如何看待明星私生活翻车现象",
+        "onboard_time": 1688446425,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 283331,
+        "num": 283331,
+        "word": "文俊辉你真的疯到我们了",
+        "onboard_time": 1688442276,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279876,
+        "num": 279876,
+        "word": "商户将一元矿泉水分装卖十元一杯",
+        "onboard_time": 1688447739,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 278870,
+        "num": 278870,
+        "word": "把狮子和西瓜放一块洗是认真的吗",
+        "onboard_time": 1688439634,
+        "rank": 40,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 266064,
+        "num": 266064,
+        "word": "乾隆是多巴胺审美鼻祖吧",
+        "onboard_time": 1688445947,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265449,
+        "num": 265449,
+        "word": "5旬女子被00后喊阿姨后索赔2000",
+        "onboard_time": 1688446005,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257345,
+        "num": 257345,
+        "word": "treasure",
+        "onboard_time": 1688440477,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255429,
+        "num": 255429,
+        "word": "怂恿跳楼者家属称全家抬不起头",
+        "onboard_time": 1688447679,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249993,
+        "num": 249993,
+        "word": "王鹤棣回应海洋之猴",
+        "onboard_time": 1688447621,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240366,
+        "num": 240366,
+        "word": "弟弟考上高中我却不能上学了",
+        "onboard_time": 1688439696,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 209067,
+        "num": 209067,
+        "word": "JackeyLove退出亚运会名单",
+        "onboard_time": 1688401770,
+        "rank": 47,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 206731,
+        "num": 206731,
+        "word": "369",
+        "onboard_time": 1688400456,
+        "rank": 48,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 204966,
+        "num": 204966,
+        "word": "王楚钦世界排名第一",
+        "onboard_time": 1688434776,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#用忠诚守护祖国的平安#"
+    }
+  }
+}
