@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688477328054,
+  "endTime": 1688477956809,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -467,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2157608,
+      "num": 2034157,
+      "word": "秦牛正威回应为了男友改名",
+      "onboard_time": 1688468973,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2146090,
       "num": 2146090,
       "word": "JackeyLove退出亚运会名单",
       "onboard_time": 1688401770,
       "rank": 1,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 2131162,
-      "num": 2034157,
-      "word": "秦牛正威回应为了男友改名",
-      "onboard_time": 1688468973,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 2028471,
@@ -1675,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 924170,
+      "num": 353191,
+      "word": "男子两任妻子都查出宫颈癌",
+      "onboard_time": 1688476114,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921246,
       "num": 921246,
       "word": "花花生日",
@@ -1827,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867225,
+      "num": 711110,
+      "word": "肖战洗澡vs杨洋王子奇洗澡",
+      "onboard_time": 1688477257,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 867196,
       "num": 867196,
       "word": "宋妍霏带200多套衣服拍戏",
@@ -1912,6 +1928,14 @@
       "word": "范伟虞书欣加入非诚勿扰3",
       "onboard_time": 1688352750,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 840045,
+      "num": 840045,
+      "word": "莲花楼",
+      "onboard_time": 1688475816,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -2011,20 +2035,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 805652,
+      "num": 805652,
+      "word": "苏州大学录取通知书太用心了",
+      "onboard_time": 1688475632,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 804918,
       "num": 804918,
       "word": "何非的保证书是朱一龙写的",
       "onboard_time": 1688194893,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 801980,
-      "num": 353191,
-      "word": "男子两任妻子都查出宫颈癌",
-      "onboard_time": 1688476114,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 801318,
@@ -2299,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733923,
+      "num": 733923,
+      "word": "东京一店长闻到煤气味后点了根烟",
+      "onboard_time": 1688475513,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731027,
       "num": 492897,
       "word": "恐怖程度约等于零的恐怖片",
@@ -2320,14 +2352,6 @@
       "word": "朱一龙 散播清澈的好笑",
       "onboard_time": 1688468674,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 727758,
-      "num": 727758,
-      "word": "莲花楼",
-      "onboard_time": 1688475816,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -3099,14 +3123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 577612,
-      "num": 577612,
-      "word": "东京一店长闻到煤气味后点了根烟",
-      "onboard_time": 1688475513,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 576248,
       "num": 343024,
       "word": "保洁阿姨离职前转给我600块",
@@ -3803,6 +3819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484335,
+      "num": 333309,
+      "word": "不容易近视的人 睫状肌",
+      "onboard_time": 1688476295,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 483378,
       "num": 483378,
       "word": "樊振东",
@@ -3937,14 +3961,6 @@
       "onboard_time": 1688304940,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 466259,
-      "num": 262844,
-      "word": "不容易近视的人 睫状肌",
-      "onboard_time": 1688476295,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 465743,
@@ -4249,6 +4265,14 @@
       "onboard_time": 1688217573,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428821,
+      "num": 428821,
+      "word": "砸锅卖铁去上学 影视化",
+      "onboard_time": 1688476893,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 428691,
@@ -4571,14 +4595,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 393697,
-      "num": 393697,
-      "word": "苏州大学录取通知书太用心了",
-      "onboard_time": 1688475632,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 391364,
       "num": 391364,
       "word": "山东泰山",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1688211872,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362839,
+      "num": 329413,
+      "word": "王楚然王子奇新剧对手戏",
+      "onboard_time": 1688476597,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 362002,
@@ -5299,6 +5323,14 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 330354,
+      "num": 330354,
+      "word": "中国男排不敌日本男排",
+      "onboard_time": 1688476956,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330163,
       "num": 330163,
       "word": "田曦薇被帅哭了",
@@ -5345,14 +5377,6 @@
       "onboard_time": 1688352451,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 328269,
-      "num": 328269,
-      "word": "王楚然王子奇新剧对手戏",
-      "onboard_time": 1688476597,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 327543,
@@ -5475,6 +5499,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 321702,
+      "num": 321702,
+      "word": "周也 孟子义",
+      "onboard_time": 1688477615,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321479,
       "num": 321479,
       "word": "原来猫咪允许你摸它的鼻子是这个意思",
@@ -5585,22 +5617,6 @@
       "onboard_time": 1688353774,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 314630,
-      "num": 314630,
-      "word": "中国男排不敌日本男排",
-      "onboard_time": 1688476956,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 314554,
-      "num": 314554,
-      "word": "砸锅卖铁去上学 影视化",
-      "onboard_time": 1688476893,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 314327,
@@ -6691,12 +6707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258760,
+      "num": 258760,
+      "word": "沙漏",
+      "onboard_time": 1688477136,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258687,
       "num": 258687,
       "word": "偷偷藏不住现实衍生版",
       "onboard_time": 1688260531,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258478,
+      "num": 258478,
+      "word": "李佳琦侧脸vs正脸",
+      "onboard_time": 1688476474,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 258222,
@@ -6995,14 +7027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248316,
-      "num": 248316,
-      "word": "沙漏",
-      "onboard_time": 1688477136,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "华晨宇大地",
@@ -7163,28 +7187,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241644,
-      "num": 241644,
-      "word": "李佳琦侧脸vs正脸",
-      "onboard_time": 1688476474,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 241507,
       "num": 241507,
       "word": "上海百年老房里的馄饨火了近40年",
       "onboard_time": 1688373283,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241345,
-      "num": 241345,
-      "word": "肖战洗澡vs杨洋王子奇洗澡",
-      "onboard_time": 1688477257,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 241064,
@@ -8787,6 +8795,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 186481,
+      "num": 186481,
+      "word": "高远泡面好吃王源不一定",
+      "onboard_time": 1688477433,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186442,
       "num": 186442,
       "word": "独家童话",
@@ -9819,6 +9835,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 106315,
+      "num": 1134837,
+      "word": "闪闪发光的中国00后",
+      "onboard_time": 1688475692,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105642,
       "num": 130801,
       "word": "首饰掉便池男子心急去捞又卡手",
@@ -9936,14 +9960,6 @@
       "word": "陕西居民驾车途中偶遇淡定大熊猫",
       "onboard_time": 1688167643,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92197,
-      "num": 1134837,
-      "word": "闪闪发光的中国00后",
-      "onboard_time": 1688475692,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -10376,6 +10392,9 @@
     },
     {
       "word": "#努力把互利合作蛋糕做大#"
+    },
+    {
+      "word": "#加强交流互鉴促进民心相通#"
     }
   ]
 }
