@@ -1,0 +1,410 @@
+{
+  "runTime": 1688513658612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820625,
+        "num": 1820625,
+        "word": "你家会整夜开空调吗",
+        "onboard_time": 1688511740,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161057,
+        "num": 1161057,
+        "word": "北大女生穿马面裙参加毕业典礼",
+        "onboard_time": 1688487449,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 61153,
+        "num": 993965,
+        "word": "这段交通安全宣传片看得有点上头",
+        "onboard_time": 1688470055,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872892,
+        "num": 872892,
+        "word": "欧洲代表指责中国遭津巴布韦大使馆参赞质问",
+        "onboard_time": 1688496493,
+        "rank": 3,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 623675,
+        "num": 623675,
+        "word": "朱某龙骑车去痞幼家偷茅台",
+        "onboard_time": 1688470116,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508542,
+        "num": 508542,
+        "word": "小姨为了抱认生的孩子用奇招",
+        "onboard_time": 1688483921,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 469086,
+        "num": 469086,
+        "word": "白敬亭说网络消息大家想一下再信",
+        "onboard_time": 1688478275,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409897,
+        "num": 409897,
+        "word": "老人高铁霸座掏出一把药丸",
+        "onboard_time": 1688485897,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377905,
+        "num": 377905,
+        "word": "女子称入职时被要求上交毕业证原件",
+        "onboard_time": 1688483199,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350709,
+        "num": 350709,
+        "word": "日本札幌一酒店惊现无头男尸",
+        "onboard_time": 1688477975,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533790,
+        "num": 349100,
+        "word": "女子半夜拍蚊子走出158步吓坏老母亲",
+        "onboard_time": 1688511800,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343606,
+        "num": 343606,
+        "word": "赵丽颖粉丝在张睿直播间宣传与凤行",
+        "onboard_time": 1688512523,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320490,
+        "num": 320490,
+        "word": "何炅王嘉尔曾预言白敬亭宋轶",
+        "onboard_time": 1688478097,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279267,
+        "num": 279267,
+        "word": "时影刚满18就要开始带娃了",
+        "onboard_time": 1688491519,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259547,
+        "num": 259547,
+        "word": "秦牛正威回应为了男友改名",
+        "onboard_time": 1688468973,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242285,
+        "num": 242285,
+        "word": "女子看消失的她遇情侣争执立刻报警",
+        "onboard_time": 1688495475,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233114,
+        "num": 233114,
+        "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
+        "onboard_time": 1688500513,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223534,
+        "num": 223534,
+        "word": "胡继勇被免去多项职务",
+        "onboard_time": 1688478937,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223445,
+        "num": 223445,
+        "word": "单亲妈妈回应捐女儿遗体器官救4人",
+        "onboard_time": 1688511800,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221811,
+        "num": 221811,
+        "word": "陈伟霆胸肌快把衬衫扣子崩开了",
+        "onboard_time": 1688484633,
+        "rank": 19,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 470835,
+        "num": 221087,
+        "word": "男子两任妻子都查出宫颈癌",
+        "onboard_time": 1688476114,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466240,
+        "num": 220509,
+        "word": "考研和考编同时上岸怎么选",
+        "onboard_time": 1688511982,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 219926,
+        "num": 219926,
+        "word": "肖战洗澡vs杨洋王子奇洗澡",
+        "onboard_time": 1688477257,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219792,
+        "num": 219792,
+        "word": "不要太快开始一段恋爱",
+        "onboard_time": 1688511800,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 192226,
+        "num": 192226,
+        "word": "原来干一行恨一行是真的",
+        "onboard_time": 1688511740,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190412,
+        "num": 190412,
+        "word": "巴西男子街头绑走女童带回家性侵",
+        "onboard_time": 1688483978,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180395,
+        "num": 180395,
+        "word": "公司解散领到26万补偿款",
+        "onboard_time": 1688481341,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171303,
+        "num": 171303,
+        "word": "周也 孟子义",
+        "onboard_time": 1688477615,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164079,
+        "num": 164079,
+        "word": "泽连斯基喊话拜登",
+        "onboard_time": 1688513607,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 163608,
+        "num": 163608,
+        "word": "李雪琴闻宋茜身上的味道",
+        "onboard_time": 1688513425,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208707,
+        "num": 163570,
+        "word": "宋亚轩提醒杨迪猎人来了",
+        "onboard_time": 1688512584,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158707,
+        "num": 158707,
+        "word": "EDG 啃老",
+        "onboard_time": 1688473532,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158269,
+        "num": 158269,
+        "word": "王一博看热烈看开心了",
+        "onboard_time": 1688513486,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151561,
+        "num": 151561,
+        "word": "单亲妈妈晕倒3岁女儿暖心照顾",
+        "onboard_time": 1688513245,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 151469,
+        "num": 151469,
+        "word": "EDG",
+        "onboard_time": 1688512703,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148443,
+        "num": 148443,
+        "word": "东京一店长闻到煤气味后点了根烟",
+        "onboard_time": 1688475513,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139538,
+        "num": 139538,
+        "word": "不容易近视的人 睫状肌",
+        "onboard_time": 1688476295,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136755,
+        "num": 136755,
+        "word": "我的人间烟火",
+        "onboard_time": 1688513006,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124853,
+        "num": 124853,
+        "word": "一见茹顾三次圆房",
+        "onboard_time": 1688481461,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119508,
+        "num": 119508,
+        "word": "公积金年度结息到账",
+        "onboard_time": 1688470414,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 118841,
+        "num": 118841,
+        "word": "养父母寻亲15年找到养子生父",
+        "onboard_time": 1688511800,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118768,
+        "num": 118768,
+        "word": "EDG 亚运野辅",
+        "onboard_time": 1688480321,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117598,
+        "num": 117598,
+        "word": "92岁奶奶被人碰倒直言咱不赖人",
+        "onboard_time": 1688512162,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107162,
+        "num": 107162,
+        "word": "白鹿一字肩",
+        "onboard_time": 1688512884,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 105778,
+        "num": 105778,
+        "word": "美依礼芽被蜗牛吓到尖叫",
+        "onboard_time": 1688478456,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104442,
+        "num": 104442,
+        "word": "熊猫胖大海 从社恐变成社牛",
+        "onboard_time": 1688485115,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95691,
+        "num": 95691,
+        "word": "王楚然王子奇新剧对手戏",
+        "onboard_time": 1688476597,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93187,
+        "num": 93187,
+        "word": "莲花楼排播",
+        "onboard_time": 1688486012,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90127,
+        "num": 90127,
+        "word": "痞幼",
+        "onboard_time": 1688462855,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85991,
+        "num": 85991,
+        "word": "生理期不能吃的水果",
+        "onboard_time": 1688455536,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强交流互鉴促进民心相通#"
+    }
+  }
+}
