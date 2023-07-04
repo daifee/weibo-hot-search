@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688452828013,
+  "endTime": 1688455109702,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -241,6 +241,14 @@
       "onboard_time": 1688434475,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3252676,
+      "num": 946561,
+      "word": "秦牛正威改名秦语鹿",
+      "onboard_time": 1688452893,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 3232637,
@@ -1579,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 907885,
+      "num": 907885,
+      "word": "任敏认领猪猪敏",
+      "onboard_time": 1688452655,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 901008,
       "num": 901008,
       "word": "赵露思8集换29套衣服",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1688264371,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 850485,
+      "num": 533527,
+      "word": "男子吃菌后看到冰块飘空中果断报警",
+      "onboard_time": 1688452598,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 850343,
@@ -2235,6 +2259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 684338,
+      "num": 684338,
+      "word": "炎亚纶节目镜头遭删减",
+      "onboard_time": 1688451873,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683498,
       "num": 683498,
       "word": "张睿直播",
@@ -2593,14 +2625,6 @@
       "onboard_time": 1688188534,
       "rank": 49,
       "category": "游戏,财经"
-    },
-    {
-      "raw_hot": 623986,
-      "num": 623986,
-      "word": "炎亚纶节目镜头遭删减",
-      "onboard_time": 1688451873,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 623937,
@@ -3161,6 +3185,14 @@
       "onboard_time": 1688213789,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 513242,
+      "num": 513242,
+      "word": "因为抢方便面汤被通报批评",
+      "onboard_time": 1688451996,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 512382,
@@ -3763,12 +3795,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433005,
+      "num": 272862,
+      "word": "对带孩子出行家庭的宽容度",
+      "onboard_time": 1688454516,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432548,
       "num": 432548,
       "word": "金地雄晕倒",
       "onboard_time": 1688217573,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432100,
+      "num": 432100,
+      "word": "肖战任敏双人概念片",
+      "onboard_time": 1688453674,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 428691,
@@ -3995,6 +4043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398880,
+      "num": 398880,
+      "word": "白敬亭说没人比我更合适顾九思",
+      "onboard_time": 1688453798,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397296,
       "num": 397296,
       "word": "尘缘",
@@ -4057,6 +4113,14 @@
       "onboard_time": 1688171728,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390218,
+      "num": 269234,
+      "word": "头发染得再黄鼻子修得再尖也变不了欧美人",
+      "onboard_time": 1688454273,
+      "rank": 32,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 389246,
@@ -4619,10 +4683,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336226,
+      "num": 336226,
+      "word": "杨紫背好薄",
+      "onboard_time": 1688454877,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 334443,
       "num": 296423,
       "word": "林俊杰直播",
       "onboard_time": 1688388277,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 333727,
+      "num": 333727,
+      "word": "网易云十年听歌报告",
+      "onboard_time": 1688453015,
       "rank": 25,
       "category": "音乐"
     },
@@ -4841,6 +4921,14 @@
       "onboard_time": 1688323515,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319702,
+      "num": 319702,
+      "word": "苏醒 尊重各自工作和身份",
+      "onboard_time": 1688454698,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 319510,
@@ -5387,6 +5475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 284513,
+      "num": 284513,
+      "word": "TFBOYS十周年能不能考虑下巡回",
+      "onboard_time": 1688454814,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284382,
       "num": 284382,
       "word": "歼20",
@@ -5723,14 +5819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 267428,
-      "num": 256200,
-      "word": "因为抢方便面汤被通报批评",
-      "onboard_time": 1688451996,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 266463,
       "num": 266463,
       "word": "什么病人明明是我本人",
@@ -5857,6 +5945,14 @@
       "onboard_time": 1688192014,
       "rank": 41,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 260102,
+      "num": 260102,
+      "word": "如何快速冰镇饮料",
+      "onboard_time": 1688454698,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 259778,
@@ -6187,6 +6283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248605,
+      "num": 248605,
+      "word": "李一桐体重不到90斤",
+      "onboard_time": 1688454516,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248400,
       "num": 248400,
       "word": "段嘉许桑稚处处吻",
@@ -6257,6 +6361,22 @@
       "onboard_time": 1688426668,
       "rank": 15,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 245421,
+      "num": 245421,
+      "word": "什么东西十年没有涨过价",
+      "onboard_time": 1688453375,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 244841,
+      "num": 244841,
+      "word": "段嘉许也被行车记录仪骗了",
+      "onboard_time": 1688452175,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 244788,
@@ -6611,6 +6731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228943,
+      "num": 228943,
+      "word": "男朋友突然跟我说这些",
+      "onboard_time": 1688451218,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 228930,
       "num": 228930,
       "word": "不同时期的杨紫",
@@ -6641,14 +6769,6 @@
       "onboard_time": 1688286872,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 225875,
-      "num": 225875,
-      "word": "段嘉许也被行车记录仪骗了",
-      "onboard_time": 1688452175,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 225775,
@@ -6755,14 +6875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 223713,
-      "num": 223713,
-      "word": "男子吃菌后看到冰块飘空中果断报警",
-      "onboard_time": 1688452598,
-      "rank": 37,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 223673,
       "num": 223673,
       "word": "以为是艳遇结果竟然是",
@@ -6777,6 +6889,14 @@
       "onboard_time": 1688295334,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223436,
+      "num": 235082,
+      "word": "天津大学通知书内有帮扶县的当归",
+      "onboard_time": 1688453255,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 222953,
@@ -6931,14 +7051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216995,
-      "num": 216995,
-      "word": "男朋友突然跟我说这些",
-      "onboard_time": 1688451218,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 216736,
       "num": 216736,
       "word": "男生旅行3年收集50余个城市水土",
@@ -7073,6 +7185,14 @@
       "onboard_time": 1688393142,
       "rank": 44,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 211528,
+      "num": 229202,
+      "word": "杨超越出演杨洋王楚然新剧",
+      "onboard_time": 1688454877,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 211511,
@@ -7235,6 +7355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206817,
+      "num": 206817,
+      "word": "万州大暴雨各方力量帮助居民连夜转移",
+      "onboard_time": 1688454576,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206723,
       "num": 206723,
       "word": "这段宝宝学走路视频爸爸拍了3年",
@@ -7297,6 +7425,14 @@
       "onboard_time": 1688439454,
       "rank": 40,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 204520,
+      "num": 204520,
+      "word": "段嘉许这都不亲",
+      "onboard_time": 1688454997,
+      "rank": 46,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 203856,
@@ -7513,14 +7649,6 @@
       "onboard_time": 1688438675,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194676,
-      "num": 194676,
-      "word": "任敏认领猪猪敏",
-      "onboard_time": 1688452655,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 194636,
@@ -7761,6 +7889,14 @@
       "onboard_time": 1688166380,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188368,
+      "num": 188368,
+      "word": "郑州的天空颜值爆表",
+      "onboard_time": 1688453496,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 188325,
