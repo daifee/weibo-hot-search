@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688495114921,
+  "endTime": 1688495943687,
   "band_list": [
     {
       "raw_hot": 1480616,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85252,
+      "num": 85252,
+      "word": "freenbecky",
+      "onboard_time": 1688492656,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 84806,
       "num": 98963,
       "word": "肖战片场公主抱任敏",
@@ -411,20 +419,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 81546,
-      "num": 81546,
-      "word": "freenbecky",
-      "onboard_time": 1688492656,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 72851,
       "num": 72851,
       "word": "要有足够的悲伤才能忍住不哭",
       "onboard_time": 1688490560,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 59257,
+      "num": 59257,
+      "word": "一见茹顾三次圆房",
+      "onboard_time": 1688481461,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 57326,
@@ -443,12 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33541,
-      "num": 52756,
-      "word": "一见茹顾三次圆房",
-      "onboard_time": 1688481461,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 31945,
+      "num": 48525,
+      "word": "雨天积水伴郎团蹚水抬新娘进门",
+      "onboard_time": 1688495835,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28478,
+      "num": 48493,
+      "word": "女子看消失的她遇情侣争执立刻报警",
+      "onboard_time": 1688495475,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19059,

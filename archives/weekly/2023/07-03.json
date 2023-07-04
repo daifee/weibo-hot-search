@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688495114921,
+  "endTime": 1688495943687,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -5315,20 +5315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85252,
+      "num": 85252,
+      "word": "freenbecky",
+      "onboard_time": 1688492656,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82724,
       "num": 95353,
       "word": "女子前轮被卡武警特警把车抬出",
       "onboard_time": 1688316326,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81546,
-      "num": 81546,
-      "word": "freenbecky",
-      "onboard_time": 1688492656,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 79928,
@@ -5465,6 +5465,22 @@
       "onboard_time": 1688411054,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31945,
+      "num": 48525,
+      "word": "雨天积水伴郎团蹚水抬新娘进门",
+      "onboard_time": 1688495835,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28478,
+      "num": 48493,
+      "word": "女子看消失的她遇情侣争执立刻报警",
+      "onboard_time": 1688495475,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27046,
