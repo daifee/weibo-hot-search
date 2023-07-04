@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688459106416,
+  "endTime": 1688459948955,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 3252676,
-      "num": 1356455,
+      "num": 1622600,
       "word": "秦牛正威改名秦语鹿",
       "onboard_time": 1688452893,
       "rank": 3,
@@ -376,6 +376,14 @@
       "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
       "onboard_time": 1688194771,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2334327,
+      "num": 2334327,
+      "word": "男生被要28万8彩礼写信给县长求整治",
+      "onboard_time": 1688457874,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -651,6 +659,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 1742717,
+      "num": 1742717,
+      "word": "广东人正式被确诊为依萍",
+      "onboard_time": 1688455654,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1737513,
       "num": 1737513,
       "word": "终于知道我头发油的原因了",
@@ -689,14 +705,6 @@
       "onboard_time": 1688208391,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1706636,
-      "num": 1706636,
-      "word": "广东人正式被确诊为依萍",
-      "onboard_time": 1688455654,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1693557,
@@ -851,6 +859,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1425572,
+      "num": 1425572,
+      "word": "健身网红拉丝哥离世",
+      "onboard_time": 1688456675,
+      "rank": 11,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1425292,
       "num": 1425292,
       "word": "赵丽颖 CL",
@@ -963,28 +979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1267491,
-      "num": 1267491,
-      "word": "男生被要28万8彩礼写信给县长求整治",
-      "onboard_time": 1688457874,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1264487,
       "num": 1264487,
       "word": "广东液体榴莲",
       "onboard_time": 1688268750,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1251536,
-      "num": 576633,
-      "word": "健身网红拉丝哥离世",
-      "onboard_time": 1688456675,
-      "rank": 11,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1246021,
@@ -1627,6 +1627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 915791,
+      "num": 459662,
+      "word": "生理期不能吃的水果",
+      "onboard_time": 1688455536,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 915158,
       "num": 915158,
       "word": "消失的她塑料情头",
@@ -1713,6 +1721,14 @@
       "onboard_time": 1688271391,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 868210,
+      "num": 868210,
+      "word": "幼儿在公共场合哭闹 泰森原则",
+      "onboard_time": 1688455296,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 867196,
@@ -1803,14 +1819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 840328,
-      "num": 840328,
-      "word": "幼儿在公共场合哭闹 泰森原则",
-      "onboard_time": 1688455296,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 834991,
       "num": 834991,
       "word": "文咏珊还原李木子妆容",
@@ -1881,14 +1889,6 @@
       "onboard_time": 1688174491,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 810978,
-      "num": 459662,
-      "word": "生理期不能吃的水果",
-      "onboard_time": 1688455536,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 805772,
@@ -2931,6 +2931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 567295,
+      "num": 457469,
+      "word": "赵露思穿JK跳gee",
+      "onboard_time": 1688458235,
+      "rank": 24,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 566778,
       "num": 510491,
       "word": "沈月把何炅的饭当狗粮",
@@ -3081,6 +3089,14 @@
       "onboard_time": 1688388940,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 543124,
+      "num": 543124,
+      "word": "短发女警刘欣走了",
+      "onboard_time": 1688457156,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543033,
@@ -3275,6 +3291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 513041,
+      "num": 458400,
+      "word": "入职一年送走了41位同事",
+      "onboard_time": 1688457756,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 512382,
       "num": 512382,
       "word": "真情侣vs假情侣回应",
@@ -3449,14 +3473,6 @@
       "onboard_time": 1688447080,
       "rank": 26,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 491239,
-      "num": 325944,
-      "word": "短发女警刘欣走了",
-      "onboard_time": 1688457156,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 490618,
@@ -3681,22 +3697,6 @@
       "onboard_time": 1688389418,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458400,
-      "num": 458400,
-      "word": "入职一年送走了41位同事",
-      "onboard_time": 1688457756,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 457469,
-      "num": 457469,
-      "word": "赵露思穿JK跳gee",
-      "onboard_time": 1688458235,
-      "rank": 24,
-      "category": "影视,时尚"
     },
     {
       "raw_hot": 456883,
@@ -5995,6 +5995,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 265405,
+      "num": 265405,
+      "word": "杨紫说长相思有节点意义",
+      "onboard_time": 1688458835,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265247,
       "num": 265247,
       "word": "谢娜乘风五公造型",
@@ -6195,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254470,
+      "num": 254470,
+      "word": "饶雪漫电影沙漏开机",
+      "onboard_time": 1688456372,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254383,
       "num": 343205,
       "word": "西湖出现鱼鱼鱼跃龙门",
@@ -6355,14 +6371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249967,
-      "num": 249967,
-      "word": "杨紫说长相思有节点意义",
-      "onboard_time": 1688458835,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249761,
       "num": 249761,
       "word": "熊猫解暑主要靠大冰坨子",
@@ -6464,14 +6472,6 @@
       "word": "TVB拍的打工人",
       "onboard_time": 1688276315,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246511,
-      "num": 246511,
-      "word": "饶雪漫电影沙漏开机",
-      "onboard_time": 1688456372,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -7115,6 +7115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220534,
+      "num": 220534,
+      "word": "海猫",
+      "onboard_time": 1688456197,
+      "rank": 40,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 220235,
       "num": 220235,
       "word": "爸爸用15元买了孩子一下午的快乐",
@@ -7209,14 +7217,6 @@
       "onboard_time": 1688191176,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216937,
-      "num": 216937,
-      "word": "海猫",
-      "onboard_time": 1688456197,
-      "rank": 40,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 216736,
@@ -7795,6 +7795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195594,
+      "num": 195594,
+      "word": "阴阳师",
+      "onboard_time": 1688459858,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195171,
       "num": 184128,
       "word": "我爱你",
@@ -8003,6 +8011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189673,
+      "num": 189673,
+      "word": "老板是懂如何安装监控的",
+      "onboard_time": 1688459559,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189449,
       "num": 189449,
       "word": "普林斯加盟湖人",
@@ -8073,6 +8089,14 @@
       "onboard_time": 1688210311,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187534,
+      "num": 187534,
+      "word": "来大连必吃的苍蝇馆子",
+      "onboard_time": 1688459674,
+      "rank": 47,
+      "category": "美食,旅游"
     },
     {
       "raw_hot": 187154,
@@ -9252,7 +9276,7 @@
     },
     {
       "raw_hot": 85729,
-      "num": 1361313,
+      "num": 1623002,
       "word": "西汉青铜灯人性化设计太妙了",
       "onboard_time": 1688441375,
       "rank": 2,
@@ -9393,6 +9417,14 @@
       "onboard_time": 1688320398,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 62770,
+      "num": 354004,
+      "word": "街头偶遇邓亚萍打王者",
+      "onboard_time": 1688459136,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 58647,

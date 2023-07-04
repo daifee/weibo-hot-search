@@ -1,0 +1,410 @@
+{
+  "runTime": 1688459948955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2334327,
+        "num": 2334327,
+        "word": "男生被要28万8彩礼写信给县长求整治",
+        "onboard_time": 1688457874,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1742717,
+        "num": 1742717,
+        "word": "广东人正式被确诊为依萍",
+        "onboard_time": 1688455654,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80053,
+        "num": 1623002,
+        "word": "西汉青铜灯人性化设计太妙了",
+        "onboard_time": 1688441375,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2036490,
+        "num": 1622600,
+        "word": "秦牛正威改名秦语鹿",
+        "onboard_time": 1688452893,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1622062,
+        "num": 1622062,
+        "word": "头发染得再黄鼻子修得再尖也变不了欧美人",
+        "onboard_time": 1688454273,
+        "rank": 4,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 1425572,
+        "num": 1425572,
+        "word": "健身网红拉丝哥离世",
+        "onboard_time": 1688456675,
+        "rank": 5,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 868210,
+        "num": 868210,
+        "word": "幼儿在公共场合哭闹 泰森原则",
+        "onboard_time": 1688455296,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736225,
+        "num": 736225,
+        "word": "男子吃菌后看到冰块飘空中果断报警",
+        "onboard_time": 1688452598,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 691920,
+        "num": 691920,
+        "word": "金星吐槽女明星走红毯捂胸口",
+        "onboard_time": 1688439275,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672407,
+        "num": 672407,
+        "word": "任敏认领猪猪敏",
+        "onboard_time": 1688452655,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1236475,
+        "num": 662773,
+        "word": "被3名未成年逼吃粪便男童父亲发声",
+        "onboard_time": 1688447621,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628391,
+        "num": 628391,
+        "word": "金星 不需要靠夸张服饰来赚取眼球",
+        "onboard_time": 1688449600,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618432,
+        "num": 618432,
+        "word": "Jennie戳爷lily合照",
+        "onboard_time": 1688456315,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 543124,
+        "num": 543124,
+        "word": "短发女警刘欣走了",
+        "onboard_time": 1688457156,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491852,
+        "num": 491852,
+        "word": "婚检后才知道自己有蚕豆病",
+        "onboard_time": 1688443121,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 478532,
+        "num": 478532,
+        "word": "燕京啤酒回应蔡徐坤事件",
+        "onboard_time": 1688428114,
+        "rank": 15,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 443095,
+        "num": 443095,
+        "word": "TFBOYS十周年能不能考虑下巡回",
+        "onboard_time": 1688454814,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 436487,
+        "num": 436487,
+        "word": "杨超越出演杨洋王楚然新剧",
+        "onboard_time": 1688454877,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429917,
+        "num": 429917,
+        "word": "苏醒 尊重各自工作和身份",
+        "onboard_time": 1688454698,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403771,
+        "num": 403771,
+        "word": "沈阳发现一例猴痘病例",
+        "onboard_time": 1688448277,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915791,
+        "num": 400447,
+        "word": "生理期不能吃的水果",
+        "onboard_time": 1688455536,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 724264,
+        "num": 398069,
+        "word": "杨紫背好薄",
+        "onboard_time": 1688454877,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 567295,
+        "num": 395302,
+        "word": "赵露思穿JK跳gee",
+        "onboard_time": 1688458235,
+        "rank": 22,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 513041,
+        "num": 389558,
+        "word": "入职一年送走了41位同事",
+        "onboard_time": 1688457756,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387207,
+        "num": 387207,
+        "word": "大姨出500元让我把电脑给表妹",
+        "onboard_time": 1688455232,
+        "rank": 24,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 375418,
+        "num": 375418,
+        "word": "白敬亭说没人比我更合适顾九思",
+        "onboard_time": 1688453798,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357081,
+        "num": 357081,
+        "word": "李一桐体重不到90斤",
+        "onboard_time": 1688454516,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356659,
+        "num": 356659,
+        "word": "男生街边卖卫生巾遭掀摊骂晦气",
+        "onboard_time": 1688446964,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62770,
+        "num": 354004,
+        "word": "街头偶遇邓亚萍打王者",
+        "onboard_time": 1688459136,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351895,
+        "num": 351895,
+        "word": "对方撤回了一个冰淇淋",
+        "onboard_time": 1688458358,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342757,
+        "num": 342757,
+        "word": "去看痛经医生叫我生孩子",
+        "onboard_time": 1688442579,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 322200,
+        "num": 322200,
+        "word": "北科大录取通知书是用钢做的",
+        "onboard_time": 1688447143,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 293687,
+        "num": 293687,
+        "word": "杭州超400万人人均到账494元",
+        "onboard_time": 1688447080,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 273660,
+        "num": 273660,
+        "word": "民警接过一支烟救下一条命",
+        "onboard_time": 1688457696,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272089,
+        "num": 272089,
+        "word": "肖战任敏双人概念片",
+        "onboard_time": 1688453674,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265405,
+        "num": 265405,
+        "word": "杨紫说长相思有节点意义",
+        "onboard_time": 1688458835,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257949,
+        "num": 257949,
+        "word": "21岁姑娘新婚初夜出血1500ml",
+        "onboard_time": 1688400034,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254470,
+        "num": 254470,
+        "word": "饶雪漫电影沙漏开机",
+        "onboard_time": 1688456372,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250615,
+        "num": 250615,
+        "word": "段嘉许这都不亲",
+        "onboard_time": 1688454997,
+        "rank": 38,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 238748,
+        "num": 238748,
+        "word": "iPhone15及Plus新增青绿色",
+        "onboard_time": 1688433576,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 220534,
+        "num": 220534,
+        "word": "海猫",
+        "onboard_time": 1688456197,
+        "rank": 40,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 219352,
+        "num": 219352,
+        "word": "透明的山竹能吃吗",
+        "onboard_time": 1688457399,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217832,
+        "num": 217832,
+        "word": "一束给妈妈 一束给妹妹",
+        "onboard_time": 1688457336,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 217311,
+        "num": 217311,
+        "word": "杭州女子买彩票误打误撞中了一千万",
+        "onboard_time": 1688444505,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196408,
+        "num": 196408,
+        "word": "减肥人的黄金40天",
+        "onboard_time": 1688443298,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195594,
+        "num": 195594,
+        "word": "阴阳师",
+        "onboard_time": 1688459858,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189673,
+        "num": 189673,
+        "word": "老板是懂如何安装监控的",
+        "onboard_time": 1688459559,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187534,
+        "num": 187534,
+        "word": "来大连必吃的苍蝇馆子",
+        "onboard_time": 1688459674,
+        "rank": 47,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 186997,
+        "num": 186997,
+        "word": "为什么KTV里面只有两个话筒",
+        "onboard_time": 1688450496,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181404,
+        "num": 181404,
+        "word": "有被卖瓜老板的反应笑到",
+        "onboard_time": 1688458778,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#在实干中把烦恼指数变成幸福指数#"
+    }
+  }
+}
