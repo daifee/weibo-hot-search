@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688469392200,
+  "endTime": 1688470456550,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -473,6 +473,14 @@
       "onboard_time": 1688401770,
       "rank": 1,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 2034157,
+      "num": 2034157,
+      "word": "秦牛正威回应为了男友改名",
+      "onboard_time": 1688468973,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2028471,
@@ -1883,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831235,
+      "num": 831235,
+      "word": "欧豪有12部待播剧",
+      "onboard_time": 1688468135,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 831111,
       "num": 831111,
       "word": "周翊然陈哲远Gucci大片",
@@ -1913,14 +1929,6 @@
       "onboard_time": 1688137303,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 818821,
-      "num": 337616,
-      "word": "秦牛正威回应为了男友改名",
-      "onboard_time": 1688468973,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 817327,
@@ -2347,6 +2355,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 688085,
+      "num": 661891,
+      "word": "古偶妆造天花板",
+      "onboard_time": 1688467058,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 687943,
       "num": 456431,
       "word": "为什么KTV里面只有两个话筒",
@@ -2488,6 +2504,14 @@
       "word": "允许带孩子上班的单位太幸福了",
       "onboard_time": 1688194290,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669391,
+      "num": 2562943,
+      "word": "发现自己误成间谍帮手后主动投案",
+      "onboard_time": 1688468737,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2659,14 +2683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 648045,
-      "num": 648045,
-      "word": "古偶妆造天花板",
-      "onboard_time": 1688467058,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 645052,
       "num": 645052,
       "word": "刘耀文 张艺谋电影",
@@ -2748,7 +2764,7 @@
     },
     {
       "raw_hot": 630730,
-      "num": 408393,
+      "num": 427178,
       "word": "离职最后一天让公司损失几十万",
       "onboard_time": 1688464603,
       "rank": 22,
@@ -2827,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623380,
+      "num": 623380,
+      "word": "朱一龙 散播清澈的好笑",
+      "onboard_time": 1688468674,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 621559,
       "num": 621559,
       "word": "白敬亭梁洁邢菲边天扬跳的Queencard",
@@ -2841,14 +2865,6 @@
       "onboard_time": 1688373463,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 618100,
-      "num": 618100,
-      "word": "欧豪有12部待播剧",
-      "onboard_time": 1688468135,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 613488,
@@ -2913,6 +2929,14 @@
       "onboard_time": 1688184151,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598168,
+      "num": 598168,
+      "word": "把苹果咬成我买不起的样子",
+      "onboard_time": 1688465378,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 597841,
@@ -3193,14 +3217,6 @@
       "onboard_time": 1688222676,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 549648,
-      "num": 549648,
-      "word": "把苹果咬成我买不起的样子",
-      "onboard_time": 1688465378,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 547332,
@@ -3627,14 +3643,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 490666,
-      "num": 490666,
-      "word": "朱一龙 散播清澈的好笑",
-      "onboard_time": 1688468674,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 490618,
       "num": 490618,
       "word": "陈建州风波后首露面",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1688455232,
       "rank": 26,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 477513,
+      "num": 477513,
+      "word": "朱某龙骑车去痞幼家偷茅台",
+      "onboard_time": 1688470116,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 476971,
@@ -3931,6 +3947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 451802,
+      "num": 451802,
+      "word": "红烧香蕉",
+      "onboard_time": 1688466158,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 451142,
       "num": 439452,
       "word": "韩素希ins评论区",
@@ -3985,14 +4009,6 @@
       "onboard_time": 1688124217,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 445865,
-      "num": 445865,
-      "word": "红烧香蕉",
-      "onboard_time": 1688466158,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 444126,
@@ -4187,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417252,
+      "num": 417252,
+      "word": "被逼吃屎是怎么和解的",
+      "onboard_time": 1688467715,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417194,
       "num": 417194,
       "word": "玉骨遥镜头vs陈情令镜头",
@@ -4225,6 +4249,14 @@
       "onboard_time": 1688183425,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 415343,
+      "num": 415343,
+      "word": "伊朗正式加入上合组织",
+      "onboard_time": 1688468198,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 414940,
@@ -4313,6 +4345,14 @@
       "onboard_time": 1688311236,
       "rank": 17,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 402315,
+      "num": 402315,
+      "word": "云之羽过审",
+      "onboard_time": 1688468556,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 401701,
@@ -4427,6 +4467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394353,
+      "num": 378428,
+      "word": "我的人间烟火官宣定档",
+      "onboard_time": 1688469813,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394198,
       "num": 394198,
       "word": "香港市民为驻港部队官兵撑伞",
@@ -4483,14 +4531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388263,
-      "num": 388263,
-      "word": "伊朗正式加入上合组织",
-      "onboard_time": 1688468198,
-      "rank": 19,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 388246,
       "num": 388246,
       "word": "对方撤回了一个冰淇淋",
@@ -4505,14 +4545,6 @@
       "onboard_time": 1688303380,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 386498,
-      "num": 386498,
-      "word": "被逼吃屎是怎么和解的",
-      "onboard_time": 1688467715,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384036,
@@ -4859,14 +4891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354136,
-      "num": 354136,
-      "word": "云之羽过审",
-      "onboard_time": 1688468556,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 353902,
       "num": 353902,
       "word": "TFBOYS十周年可能有直播",
@@ -4915,6 +4939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348164,
+      "num": 344970,
+      "word": "公司回应牵手门男子仍担任高管",
+      "onboard_time": 1688469934,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347728,
       "num": 297103,
       "word": "张杰演唱会",
@@ -4945,6 +4977,14 @@
       "onboard_time": 1688221474,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 346055,
+      "num": 346055,
+      "word": "禾野 我画林克是画自己喜欢的",
+      "onboard_time": 1688467418,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 345417,
@@ -5017,14 +5057,6 @@
       "onboard_time": 1688270012,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341245,
-      "num": 337445,
-      "word": "禾野 我画林克是画自己喜欢的",
-      "onboard_time": 1688467418,
-      "rank": 31,
-      "category": "动漫"
     },
     {
       "raw_hot": 340796,
@@ -5211,6 +5243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326674,
+      "num": 326674,
+      "word": "刘德华王宝强合唱八角笼中推广曲",
+      "onboard_time": 1688468494,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326673,
       "num": 301284,
       "word": "郑钧演唱会",
@@ -5369,6 +5409,14 @@
       "onboard_time": 1688214754,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318919,
+      "num": 318919,
+      "word": "黑执事 画风变丑",
+      "onboard_time": 1688468796,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 318837,
@@ -6259,14 +6307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 269640,
-      "num": 269640,
-      "word": "黑执事 画风变丑",
-      "onboard_time": 1688468796,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 269552,
       "num": 269552,
       "word": "透明的山竹能吃吗",
@@ -6369,14 +6409,6 @@
       "onboard_time": 1688180492,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263705,
-      "num": 469799,
-      "word": "发现自己误成间谍帮手后主动投案",
-      "onboard_time": 1688468737,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262400,
@@ -7131,6 +7163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233667,
+      "num": 233667,
+      "word": "打死西湖松鼠男子已离开杭州",
+      "onboard_time": 1688469454,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233303,
       "num": 233303,
       "word": "倪妮9个采访表扬朱一龙9遍",
@@ -7211,6 +7251,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 229420,
+      "num": 314138,
+      "word": "女孩6岁起照顾瘫痪父亲高考574分",
+      "onboard_time": 1688469514,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 229418,
       "num": 229418,
       "word": "刘畊宏连当四场周杰伦演唱会特别嘉宾",
@@ -7257,6 +7305,14 @@
       "onboard_time": 1688234539,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226060,
+      "num": 226060,
+      "word": "公积金年度结息到账",
+      "onboard_time": 1688470414,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 225911,
@@ -7457,14 +7513,6 @@
       "onboard_time": 1688195491,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220949,
-      "num": 220949,
-      "word": "刘德华王宝强合唱八角笼中推广曲",
-      "onboard_time": 1688468494,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 220650,
@@ -9315,6 +9363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140181,
+      "num": 388083,
+      "word": "iQOO11S发布会",
+      "onboard_time": 1688467236,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 139856,
       "num": 160186,
       "word": "希望18岁的我能理解",
@@ -9465,14 +9521,6 @@
       "onboard_time": 1688339363,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118136,
-      "num": 388083,
-      "word": "iQOO11S发布会",
-      "onboard_time": 1688467236,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 117301,
@@ -9947,6 +9995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27876,
+      "num": 2071614,
+      "word": "这段交通安全宣传片看得有点上头",
+      "onboard_time": 1688470055,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27214,
       "num": 32478,
       "word": "中国夫妇讲述在法遇袭经历",
@@ -9968,6 +10024,14 @@
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21699,
+      "num": 224472,
+      "word": "航拍新疆独库公路画风魔幻",
+      "onboard_time": 1688446840,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -10026,6 +10090,9 @@
     },
     {
       "word": "#在实干中把烦恼指数变成幸福指数#"
+    },
+    {
+      "word": "#习近平出席上海合作组织成员国元首理事会第二十三次会议#"
     }
   ]
 }

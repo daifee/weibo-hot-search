@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688469392200,
+  "endTime": 1688470456550,
   "band_list": [
     {
       "raw_hot": 7213197,
@@ -129,6 +129,14 @@
       "onboard_time": 1688401770,
       "rank": 1,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 2034157,
+      "num": 2034157,
+      "word": "秦牛正威回应为了男友改名",
+      "onboard_time": 1688468973,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2000714,
@@ -491,12 +499,12 @@
       "category": "影视,美妆"
     },
     {
-      "raw_hot": 818821,
-      "num": 337616,
-      "word": "秦牛正威回应为了男友改名",
-      "onboard_time": 1688468973,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 831235,
+      "num": 831235,
+      "word": "欧豪有12部待播剧",
+      "onboard_time": 1688468135,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 816261,
@@ -571,6 +579,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 688085,
+      "num": 661891,
+      "word": "古偶妆造天花板",
+      "onboard_time": 1688467058,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 687943,
       "num": 456431,
       "word": "为什么KTV里面只有两个话筒",
@@ -619,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 669391,
+      "num": 2562943,
+      "word": "发现自己误成间谍帮手后主动投案",
+      "onboard_time": 1688468737,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668903,
       "num": 668903,
       "word": "treasure",
@@ -659,14 +683,6 @@
       "category": "影视,影视"
     },
     {
-      "raw_hot": 648045,
-      "num": 648045,
-      "word": "古偶妆造天花板",
-      "onboard_time": 1688467058,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 643666,
       "num": 643666,
       "word": "Jennie戳爷lily合照",
@@ -676,18 +692,18 @@
     },
     {
       "raw_hot": 630730,
-      "num": 408393,
+      "num": 427178,
       "word": "离职最后一天让公司损失几十万",
       "onboard_time": 1688464603,
       "rank": 22,
       "category": "幽默"
     },
     {
-      "raw_hot": 618100,
-      "num": 618100,
-      "word": "欧豪有12部待播剧",
-      "onboard_time": 1688468135,
-      "rank": 9,
+      "raw_hot": 623380,
+      "num": 623380,
+      "word": "朱一龙 散播清澈的好笑",
+      "onboard_time": 1688468674,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -713,6 +729,14 @@
       "onboard_time": 1688467058,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 598168,
+      "num": 598168,
+      "word": "把苹果咬成我买不起的样子",
+      "onboard_time": 1688465378,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 597841,
@@ -763,14 +787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 549648,
-      "num": 549648,
-      "word": "把苹果咬成我买不起的样子",
-      "onboard_time": 1688465378,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 544746,
       "num": 544746,
       "word": "TFBOYS为王源课桌背后打call",
@@ -819,14 +835,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 490666,
-      "num": 490666,
-      "word": "朱一龙 散播清澈的好笑",
-      "onboard_time": 1688468674,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 490351,
       "num": 490351,
       "word": "TFBOYS十周年能不能考虑下巡回",
@@ -865,6 +873,14 @@
       "onboard_time": 1688455232,
       "rank": 26,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 477513,
+      "num": 477513,
+      "word": "朱某龙骑车去痞幼家偷茅台",
+      "onboard_time": 1688470116,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 476971,
@@ -947,8 +963,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445865,
-      "num": 445865,
+      "raw_hot": 451802,
+      "num": 451802,
       "word": "红烧香蕉",
       "onboard_time": 1688466158,
       "rank": 42,
@@ -1003,12 +1019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417252,
+      "num": 417252,
+      "word": "被逼吃屎是怎么和解的",
+      "onboard_time": 1688467715,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417194,
       "num": 417194,
       "word": "玉骨遥镜头vs陈情令镜头",
       "onboard_time": 1688399796,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415343,
+      "num": 415343,
+      "word": "伊朗正式加入上合组织",
+      "onboard_time": 1688468198,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 414940,
@@ -1024,6 +1056,14 @@
       "word": "芭比",
       "onboard_time": 1688465738,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 402315,
+      "num": 402315,
+      "word": "云之羽过审",
+      "onboard_time": 1688468556,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -1043,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394353,
+      "num": 378428,
+      "word": "我的人间烟火官宣定档",
+      "onboard_time": 1688469813,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393665,
       "num": 393665,
       "word": "杨蓉的身材",
@@ -1051,28 +1099,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 388263,
-      "num": 388263,
-      "word": "伊朗正式加入上合组织",
-      "onboard_time": 1688468198,
-      "rank": 19,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 388246,
       "num": 388246,
       "word": "对方撤回了一个冰淇淋",
       "onboard_time": 1688458358,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 386498,
-      "num": 386498,
-      "word": "被逼吃屎是怎么和解的",
-      "onboard_time": 1688467715,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383616,
@@ -1139,14 +1171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 354136,
-      "num": 354136,
-      "word": "云之羽过审",
-      "onboard_time": 1688468556,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352388,
       "num": 327009,
       "word": "如何快速冰镇饮料",
@@ -1163,8 +1187,16 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 341245,
-      "num": 337445,
+      "raw_hot": 348164,
+      "num": 344970,
+      "word": "公司回应牵手门男子仍担任高管",
+      "onboard_time": 1688469934,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346055,
+      "num": 346055,
       "word": "禾野 我画林克是画自己喜欢的",
       "onboard_time": 1688467418,
       "rank": 31,
@@ -1219,6 +1251,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 326674,
+      "num": 326674,
+      "word": "刘德华王宝强合唱八角笼中推广曲",
+      "onboard_time": 1688468494,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326165,
       "num": 326165,
       "word": "店长回应多个榴莲被偷吃损失近千元",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1688466457,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 318919,
+      "num": 318919,
+      "word": "黑执事 画风变丑",
+      "onboard_time": 1688468796,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 314327,
@@ -1427,20 +1475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273812,
+      "num": 273812,
+      "word": "长风渡",
+      "onboard_time": 1688469573,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272591,
       "num": 272591,
       "word": "女子地铁上控诉男孩摸她屁股遭家人反呛",
       "onboard_time": 1688466338,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269640,
-      "num": 269640,
-      "word": "黑执事 画风变丑",
-      "onboard_time": 1688468796,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 269552,
@@ -1473,14 +1521,6 @@
       "onboard_time": 1688454997,
       "rank": 46,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 263705,
-      "num": 469799,
-      "word": "发现自己误成间谍帮手后主动投案",
-      "onboard_time": 1688468737,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262833,
@@ -1651,12 +1691,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 233667,
+      "num": 233667,
+      "word": "打死西湖松鼠男子已离开杭州",
+      "onboard_time": 1688469454,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232274,
       "num": 232274,
       "word": "时影你是油盐不进啊",
       "onboard_time": 1688442037,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229420,
+      "num": 314138,
+      "word": "女孩6岁起照顾瘫痪父亲高考574分",
+      "onboard_time": 1688469514,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 229418,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1688451218,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 226060,
+      "num": 226060,
+      "word": "公积金年度结息到账",
+      "onboard_time": 1688470414,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 225216,
@@ -1745,14 +1809,6 @@
       "onboard_time": 1688389418,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220949,
-      "num": 220949,
-      "word": "刘德华王宝强合唱八角笼中推广曲",
-      "onboard_time": 1688468494,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 220534,
@@ -2211,6 +2267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140181,
+      "num": 388083,
+      "word": "iQOO11S发布会",
+      "onboard_time": 1688467236,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 139856,
       "num": 160186,
       "word": "希望18岁的我能理解",
@@ -2233,14 +2297,6 @@
       "onboard_time": 1688393262,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118136,
-      "num": 388083,
-      "word": "iQOO11S发布会",
-      "onboard_time": 1688467236,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 100803,
@@ -2339,12 +2395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27876,
+      "num": 2071614,
+      "word": "这段交通安全宣传片看得有点上头",
+      "onboard_time": 1688470055,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27046,
       "num": 33217,
       "word": "温网2023",
       "onboard_time": 1688412494,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21699,
+      "num": 224472,
+      "word": "航拍新疆独库公路画风魔幻",
+      "onboard_time": 1688446840,
+      "rank": 46,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2359,6 +2431,9 @@
     },
     {
       "word": "#在实干中把烦恼指数变成幸福指数#"
+    },
+    {
+      "word": "#习近平出席上海合作组织成员国元首理事会第二十三次会议#"
     }
   ]
 }

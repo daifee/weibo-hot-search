@@ -1,0 +1,410 @@
+{
+  "runTime": 1688470456550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3935745,
+        "num": 3935745,
+        "word": "痞幼",
+        "onboard_time": 1688462855,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 669391,
+        "num": 2562943,
+        "word": "发现自己误成间谍帮手后主动投案",
+        "onboard_time": 1688468737,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27876,
+        "num": 2071614,
+        "word": "这段交通安全宣传片看得有点上头",
+        "onboard_time": 1688470055,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2034157,
+        "num": 2034157,
+        "word": "秦牛正威回应为了男友改名",
+        "onboard_time": 1688468973,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387012,
+        "num": 1437886,
+        "word": "孙女帮八旬爷爷实现零食自由",
+        "onboard_time": 1688463457,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962439,
+        "num": 962439,
+        "word": "男生被要28万8彩礼写信给县长求整治",
+        "onboard_time": 1688457874,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831235,
+        "num": 831235,
+        "word": "欧豪有12部待播剧",
+        "onboard_time": 1688468135,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 808221,
+        "num": 808221,
+        "word": "宁艺卓被Ella三连问",
+        "onboard_time": 1688465676,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 756986,
+        "num": 756986,
+        "word": "秦牛正威改名秦语鹿",
+        "onboard_time": 1688452893,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687985,
+        "num": 687985,
+        "word": "假装发错消息给喜欢的人",
+        "onboard_time": 1688462737,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 688085,
+        "num": 661891,
+        "word": "古偶妆造天花板",
+        "onboard_time": 1688467058,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 623380,
+        "num": 623380,
+        "word": "朱一龙 散播清澈的好笑",
+        "onboard_time": 1688468674,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 598168,
+        "num": 598168,
+        "word": "把苹果咬成我买不起的样子",
+        "onboard_time": 1688465378,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 570616,
+        "num": 570616,
+        "word": "广东人正式被确诊为依萍",
+        "onboard_time": 1688455654,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264830,
+        "num": 544912,
+        "word": "民警接过一支烟救下一条命",
+        "onboard_time": 1688457696,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534423,
+        "num": 534423,
+        "word": "刘诗诗巴黎时装周生图",
+        "onboard_time": 1688467058,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500732,
+        "num": 500732,
+        "word": "WBG打野",
+        "onboard_time": 1688464536,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 477513,
+        "num": 477513,
+        "word": "朱某龙骑车去痞幼家偷茅台",
+        "onboard_time": 1688470116,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451802,
+        "num": 451802,
+        "word": "红烧香蕉",
+        "onboard_time": 1688466158,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 436864,
+        "num": 436864,
+        "word": "台湾网友跟着解放军用别瞎吵吵造句",
+        "onboard_time": 1688463577,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590700,
+        "num": 427178,
+        "word": "离职最后一天让公司损失几十万",
+        "onboard_time": 1688464603,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417252,
+        "num": 417252,
+        "word": "被逼吃屎是怎么和解的",
+        "onboard_time": 1688467715,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415343,
+        "num": 415343,
+        "word": "伊朗正式加入上合组织",
+        "onboard_time": 1688468198,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 408820,
+        "num": 408820,
+        "word": "五月天深圳 开船",
+        "onboard_time": 1688466338,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402315,
+        "num": 402315,
+        "word": "云之羽过审",
+        "onboard_time": 1688468556,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402176,
+        "num": 402176,
+        "word": "杨洋王楚然荧幕初吻都给了马思纯",
+        "onboard_time": 1688461597,
+        "rank": 25,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 381407,
+        "num": 381407,
+        "word": "生理期不能吃的水果",
+        "onboard_time": 1688455536,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 394353,
+        "num": 378428,
+        "word": "我的人间烟火官宣定档",
+        "onboard_time": 1688469813,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369342,
+        "num": 369342,
+        "word": "迪丽热巴的蓝色挑染",
+        "onboard_time": 1688460577,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 346055,
+        "num": 346055,
+        "word": "禾野 我画林克是画自己喜欢的",
+        "onboard_time": 1688467418,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 348164,
+        "num": 344970,
+        "word": "公司回应牵手门男子仍担任高管",
+        "onboard_time": 1688469934,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326674,
+        "num": 326674,
+        "word": "刘德华王宝强合唱八角笼中推广曲",
+        "onboard_time": 1688468494,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326520,
+        "num": 326520,
+        "word": "健身网红拉丝哥离世",
+        "onboard_time": 1688456675,
+        "rank": 32,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 318919,
+        "num": 318919,
+        "word": "黑执事 画风变丑",
+        "onboard_time": 1688468796,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 229420,
+        "num": 314138,
+        "word": "女孩6岁起照顾瘫痪父亲高考574分",
+        "onboard_time": 1688469514,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 312868,
+        "num": 312868,
+        "word": "高远二姨怎么了",
+        "onboard_time": 1688468494,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311753,
+        "num": 311753,
+        "word": "肖战片场公主抱任敏",
+        "onboard_time": 1688461535,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303021,
+        "num": 303021,
+        "word": "三亚被偷住别墅喝光茅台房主是痞幼",
+        "onboard_time": 1688465560,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282681,
+        "num": 282681,
+        "word": "高铁上差点被前桌喂饱了",
+        "onboard_time": 1688466457,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273812,
+        "num": 273812,
+        "word": "长风渡",
+        "onboard_time": 1688469573,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265800,
+        "num": 265800,
+        "word": "牵手门涉事男领导仍担任企业高管",
+        "onboard_time": 1688460754,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254870,
+        "num": 254870,
+        "word": "Jennie戳爷lily合照",
+        "onboard_time": 1688456315,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 244265,
+        "num": 244265,
+        "word": "时影 空桑一哥",
+        "onboard_time": 1688466519,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233667,
+        "num": 233667,
+        "word": "打死西湖松鼠男子已离开杭州",
+        "onboard_time": 1688469454,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228905,
+        "num": 228905,
+        "word": "TFBOYS为王源课桌背后打call",
+        "onboard_time": 1688462497,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226060,
+        "num": 226060,
+        "word": "公积金年度结息到账",
+        "onboard_time": 1688470414,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 21699,
+        "num": 224472,
+        "word": "航拍新疆独库公路画风魔幻",
+        "onboard_time": 1688446840,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224107,
+        "num": 224107,
+        "word": "金星 不需要靠夸张服饰来赚取眼球",
+        "onboard_time": 1688449600,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221915,
+        "num": 221915,
+        "word": "长风渡返乡名单里有宋亚轩",
+        "onboard_time": 1688465920,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140181,
+        "num": 220031,
+        "word": "iQOO11S发布会",
+        "onboard_time": 1688467236,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席上海合作组织成员国元首理事会第二十三次会议#"
+    }
+  }
+}
