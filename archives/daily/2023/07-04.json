@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688427235950,
+  "endTime": 1688435548674,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -11,12 +11,28 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 3693389,
+      "num": 646606,
+      "word": "燕京啤酒回应蔡徐坤事件",
+      "onboard_time": 1688428114,
+      "rank": 10,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 2344347,
-      "num": 222526,
+      "num": 261801,
       "word": "21岁姑娘新婚初夜出血1500ml",
       "onboard_time": 1688400034,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2335435,
+      "num": 2335435,
+      "word": "黑执事",
+      "onboard_time": 1688432438,
+      "rank": 0,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 2237999,
@@ -36,11 +52,19 @@
     },
     {
       "raw_hot": 2000714,
-      "num": 451417,
+      "num": 596292,
       "word": "浪胃仙瘦成纸片人",
       "onboard_time": 1688391581,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1897135,
+      "num": 1897135,
+      "word": "西安忍不住根本忍不住",
+      "onboard_time": 1688431121,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1617142,
@@ -51,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1462994,
+      "num": 1462994,
+      "word": "iPhone15及Plus新增青绿色",
+      "onboard_time": 1688433576,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1448199,
       "num": 640473,
       "word": "超7成年轻人存款不足10万",
       "onboard_time": 1688423780,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1270768,
+      "num": 641494,
+      "word": "男子故意1次取1元逼哭柜员",
+      "onboard_time": 1688434475,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1132388,
@@ -83,12 +123,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 996078,
+      "num": 996078,
+      "word": "十多年前买的绿萝爬满了办公室",
+      "onboard_time": 1688430098,
+      "rank": 5,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 927976,
       "num": 211753,
       "word": "蔡徐坤 照片不是我",
       "onboard_time": 1688361395,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 921246,
+      "num": 921246,
+      "word": "花花生日",
+      "onboard_time": 1688432674,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 871443,
+      "num": 871443,
+      "word": "消失的她塑料情头",
+      "onboard_time": 1688433633,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 841410,
@@ -115,12 +179,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 649899,
+      "num": 649899,
+      "word": "周杰伦你真的不热吗",
+      "onboard_time": 1688426849,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 569918,
+      "num": 569918,
+      "word": "中暑导游去世前坚持将学生们送上车",
+      "onboard_time": 1688430820,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565443,
       "num": 565443,
       "word": "如何评价蔡徐坤道歉",
       "onboard_time": 1688413453,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551508,
+      "num": 551508,
+      "word": "任敏哭戏",
+      "onboard_time": 1688430760,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 526062,
@@ -139,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475204,
+      "num": 475204,
+      "word": "王楚钦世界排名第一",
+      "onboard_time": 1688434776,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474009,
       "num": 474009,
       "word": "上海网红瑞士卷店员磨洋工引争议",
@@ -153,6 +249,22 @@
       "onboard_time": 1688388579,
       "rank": 9,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 469137,
+      "num": 469137,
+      "word": "05后学生给95后老师批作业",
+      "onboard_time": 1688430820,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 452505,
+      "num": 452505,
+      "word": "是不是鹿晗派你来问的",
+      "onboard_time": 1688432859,
+      "rank": 17,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 422381,
@@ -179,8 +291,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 403050,
-      "num": 403050,
+      "raw_hot": 414940,
+      "num": 414940,
       "word": "父亲和丈夫的尊重要自己去赚",
       "onboard_time": 1688405540,
       "rank": 48,
@@ -193,6 +305,14 @@
       "onboard_time": 1688393441,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386883,
+      "num": 386883,
+      "word": "倪妮哭戏撞到摄像机",
+      "onboard_time": 1688434895,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 383616,
@@ -217,6 +337,14 @@
       "onboard_time": 1688390921,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 351759,
+      "num": 351759,
+      "word": "眼药水不能滴在眼睛上",
+      "onboard_time": 1688433576,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351027,
@@ -251,6 +379,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298435,
+      "num": 298435,
+      "word": "沈腾演反派主打一个真诚",
+      "onboard_time": 1688433096,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 294408,
+      "num": 294408,
+      "word": "工人高温修空调女子留吃饭多给200元",
+      "onboard_time": 1688401833,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294096,
+      "num": 294096,
+      "word": "张柏芝身材曲线",
+      "onboard_time": 1688432797,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 290589,
       "num": 290589,
       "word": "非洲女孩远嫁中国农村当短视频博主",
@@ -265,6 +417,14 @@
       "onboard_time": 1688382639,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278838,
+      "num": 278838,
+      "word": "段嘉许桑延新情头",
+      "onboard_time": 1688434714,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 278723,
@@ -291,12 +451,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254924,
-      "num": 254924,
-      "word": "工人高温修空调女子留吃饭多给200元",
-      "onboard_time": 1688401833,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 262230,
+      "num": 262230,
+      "word": "美依礼芽回中国了",
+      "onboard_time": 1688435073,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259557,
+      "num": 259557,
+      "word": "越南因南海九段线禁止芭比上映",
+      "onboard_time": 1688426546,
+      "rank": 19,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 255775,
+      "num": 255775,
+      "word": "没房贷的下属",
+      "onboard_time": 1688395666,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 253600,
@@ -307,12 +483,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 248515,
-      "num": 248515,
-      "word": "没房贷的下属",
-      "onboard_time": 1688395666,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 251661,
+      "num": 251661,
+      "word": "杨洋王楚然新剧吻戏",
+      "onboard_time": 1688428593,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 248212,
@@ -331,6 +507,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 242523,
+      "num": 242523,
+      "word": "孙女用奶奶当年的设计草图制作成衣",
+      "onboard_time": 1688430579,
+      "rank": 34,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 241888,
       "num": 241888,
       "word": "男友留的瓜",
@@ -347,12 +531,44 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 229418,
+      "num": 229418,
+      "word": "刘畊宏连当四场周杰伦演唱会特别嘉宾",
+      "onboard_time": 1688430337,
+      "rank": 35,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 225216,
       "num": 225216,
       "word": "韩素希将出演新剧鬼怪",
       "onboard_time": 1688400213,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225115,
+      "num": 225115,
+      "word": "十个勤天",
+      "onboard_time": 1688428414,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224640,
+      "num": 224640,
+      "word": "韩素希方否认恋情",
+      "onboard_time": 1688433934,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221667,
+      "num": 221667,
+      "word": "萌兰花花和叶生日快乐",
+      "onboard_time": 1688389418,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203218,
@@ -363,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198124,
+      "num": 198124,
+      "word": "萌兰生日",
+      "onboard_time": 1688429676,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189998,
       "num": 189998,
       "word": "68岁老人下水连救3人体力不支溺亡",
@@ -371,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185823,
-      "num": 185823,
-      "word": "越南因南海九段线禁止芭比上映",
-      "onboard_time": 1688426546,
-      "rank": 19,
-      "category": "社会新闻,影视"
+      "raw_hot": 188325,
+      "num": 188325,
+      "word": "凤凰传奇什么时候开巡演",
+      "onboard_time": 1688430519,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 185589,
@@ -427,12 +651,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175616,
+      "num": 175616,
+      "word": "韩安冉回应参加婚礼份子钱最低千元",
+      "onboard_time": 1688407577,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 170936,
       "num": 170936,
       "word": "当爸爸听说筷子拿得远以后嫁的远",
       "onboard_time": 1688397280,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 170119,
+      "num": 170119,
+      "word": "警花追着还钱像极了过年的我",
+      "onboard_time": 1688433695,
+      "rank": 44,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 169784,
+      "num": 169784,
+      "word": "人生中的两种贵人",
+      "onboard_time": 1688430998,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 166280,
@@ -443,20 +691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165457,
+      "num": 165457,
+      "word": "BLG三人入选亚运会名单",
+      "onboard_time": 1688427148,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162928,
       "num": 162928,
       "word": "吴磊深V",
       "onboard_time": 1688390142,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160235,
-      "num": 160235,
-      "word": "韩安冉回应参加婚礼份子钱最低千元",
-      "onboard_time": 1688407577,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 159720,
@@ -483,12 +731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156894,
-      "num": 156894,
-      "word": "周杰伦你真的不热吗",
-      "onboard_time": 1688426849,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 157474,
+      "num": 157474,
+      "word": "孙艺珍产后首个公开行程",
+      "onboard_time": 1688435495,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 154270,
@@ -497,6 +745,22 @@
       "onboard_time": 1688393021,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153823,
+      "num": 153823,
+      "word": "你有每月存钱的习惯吗",
+      "onboard_time": 1688433818,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151094,
+      "num": 151094,
+      "word": "沈月是快乐的大人片头动作指导",
+      "onboard_time": 1688434596,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 150373,
@@ -531,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143180,
-      "num": 143180,
-      "word": "BLG三人入选亚运会名单",
-      "onboard_time": 1688427148,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141296,
       "num": 141296,
       "word": "TFBOYS十周年可能有直播",
@@ -553,6 +809,14 @@
       "onboard_time": 1688426849,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122296,
+      "num": 1621207,
+      "word": "中国人首次荣获护理界国际成就奖",
+      "onboard_time": 1688393262,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100803,
