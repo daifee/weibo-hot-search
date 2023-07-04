@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688435548674,
+  "endTime": 1688436884212,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 3693389,
-      "num": 646606,
+      "num": 713921,
       "word": "燕京啤酒回应蔡徐坤事件",
       "onboard_time": 1688428114,
       "rank": 10,
@@ -217,6 +217,14 @@
       "onboard_time": 1688364119,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3197007,
+      "num": 3197007,
+      "word": "男子故意1次取1元逼哭柜员",
+      "onboard_time": 1688434475,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3073693,
@@ -795,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1336526,
+      "num": 1336526,
+      "word": "王楚钦世界排名第一",
+      "onboard_time": 1688434776,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1327785,
       "num": 1036990,
       "word": "素颜的杨幂",
@@ -832,14 +848,6 @@
       "word": "越南一位老人50年没睡觉",
       "onboard_time": 1688139821,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1270768,
-      "num": 641494,
-      "word": "男子故意1次取1元逼哭柜员",
-      "onboard_time": 1688434475,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1403,6 +1411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 915158,
+      "num": 915158,
+      "word": "消失的她塑料情头",
+      "onboard_time": 1688433633,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 901008,
       "num": 901008,
       "word": "赵露思8集换29套衣服",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1688271391,
       "rank": 32,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 871443,
-      "num": 871443,
-      "word": "消失的她塑料情头",
-      "onboard_time": 1688433633,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 867196,
@@ -1779,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750719,
+      "num": 700068,
+      "word": "孙艺珍产后首个公开行程",
+      "onboard_time": 1688435495,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 750582,
       "num": 750582,
       "word": "王俊凯小时候给王源的信",
@@ -1848,6 +1864,14 @@
       "word": "恐怖程度约等于零的恐怖片",
       "onboard_time": 1688228730,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 730448,
+      "num": 730448,
+      "word": "倪妮哭戏撞到摄像机",
+      "onboard_time": 1688434895,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -3075,20 +3099,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476971,
+      "num": 476971,
+      "word": "是不是鹿晗派你来问的",
+      "onboard_time": 1688432859,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 476288,
       "num": 476288,
       "word": "Ella说被张嘉倪喜欢真的很好命",
       "onboard_time": 1688188774,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 475204,
-      "num": 475204,
-      "word": "王楚钦世界排名第一",
-      "onboard_time": 1688434776,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 474009,
@@ -3235,14 +3259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 452505,
-      "num": 452505,
-      "word": "是不是鹿晗派你来问的",
-      "onboard_time": 1688432859,
-      "rank": 17,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 452337,
       "num": 452337,
       "word": "推特限制非会员浏览条数",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1688304521,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450733,
+      "num": 450733,
+      "word": "眼药水不能滴在眼睛上",
+      "onboard_time": 1688433576,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449261,
@@ -3555,6 +3579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409131,
+      "num": 409131,
+      "word": "黄子韬和马伯骞情人节被困高速",
+      "onboard_time": 1688436097,
+      "rank": 20,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 404777,
       "num": 404777,
       "word": "杀害女子嫌犯靳创民被找到时已死亡",
@@ -3667,6 +3699,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 395414,
+      "num": 395414,
+      "word": "美依礼芽回中国了",
+      "onboard_time": 1688435073,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395220,
       "num": 326601,
       "word": "陶喆新歌流沙",
@@ -3744,14 +3784,6 @@
       "word": "玉骨遥配音",
       "onboard_time": 1688303380,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 386883,
-      "num": 386883,
-      "word": "倪妮哭戏撞到摄像机",
-      "onboard_time": 1688434895,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -4073,14 +4105,6 @@
       "onboard_time": 1688175570,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 351759,
-      "num": 351759,
-      "word": "眼药水不能滴在眼睛上",
-      "onboard_time": 1688433576,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351546,
@@ -4595,6 +4619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308773,
+      "num": 308773,
+      "word": "段嘉许桑延新情头",
+      "onboard_time": 1688434714,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307965,
       "num": 307965,
       "word": "河马炫西瓜么得技术全是感情",
@@ -5043,14 +5075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278838,
-      "num": 278838,
-      "word": "段嘉许桑延新情头",
-      "onboard_time": 1688434714,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 277962,
       "num": 277962,
       "word": "长风渡",
@@ -5065,6 +5089,14 @@
       "onboard_time": 1688394042,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275888,
+      "num": 275888,
+      "word": "你有每月存钱的习惯吗",
+      "onboard_time": 1688433818,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274863,
@@ -5345,14 +5377,6 @@
       "onboard_time": 1688197412,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 262230,
-      "num": 262230,
-      "word": "美依礼芽回中国了",
-      "onboard_time": 1688435073,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 261974,
@@ -6883,6 +6907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197236,
+      "num": 197236,
+      "word": "律师称蔡徐坤可能被列为劣迹艺人",
+      "onboard_time": 1688436815,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196991,
       "num": 221105,
       "word": "海军和平方舟号医院船起航",
@@ -7691,20 +7723,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157992,
+      "num": 157992,
+      "word": "谁说站在光里的才算英雄",
+      "onboard_time": 1688436693,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157515,
       "num": 157515,
       "word": "7旬房东每年给租客送自种黄皮",
       "onboard_time": 1688383839,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157474,
-      "num": 157474,
-      "word": "孙艺珍产后首个公开行程",
-      "onboard_time": 1688435495,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 157194,
@@ -7761,14 +7793,6 @@
       "onboard_time": 1688212355,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153823,
-      "num": 153823,
-      "word": "你有每月存钱的习惯吗",
-      "onboard_time": 1688433818,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153433,
@@ -8003,6 +8027,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 127060,
+      "num": 1621207,
+      "word": "中国人首次荣获护理界国际成就奖",
+      "onboard_time": 1688393262,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126180,
       "num": 1785308,
       "word": "青藏铁路开启动车时代",
@@ -8031,14 +8063,6 @@
       "num": 5362618,
       "word": "毕业典礼催泪发言盘点",
       "onboard_time": 1688368726,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122296,
-      "num": 1621207,
-      "word": "中国人首次荣获护理界国际成就奖",
-      "onboard_time": 1688393262,
       "rank": 2,
       "category": "社会新闻"
     },

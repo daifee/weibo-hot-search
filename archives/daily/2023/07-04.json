@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688435548674,
+  "endTime": 1688436884212,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 3693389,
-      "num": 646606,
+      "num": 713921,
       "word": "燕京啤酒回应蔡徐坤事件",
       "onboard_time": 1688428114,
       "rank": 10,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 3197007,
+      "num": 3197007,
+      "word": "男子故意1次取1元逼哭柜员",
+      "onboard_time": 1688434475,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2344347,
@@ -91,12 +99,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1270768,
-      "num": 641494,
-      "word": "男子故意1次取1元逼哭柜员",
-      "onboard_time": 1688434475,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1336526,
+      "num": 1336526,
+      "word": "王楚钦世界排名第一",
+      "onboard_time": 1688434776,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1132388,
@@ -147,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 871443,
-      "num": 871443,
+      "raw_hot": 915158,
+      "num": 915158,
       "word": "消失的她塑料情头",
       "onboard_time": 1688433633,
       "rank": 7,
@@ -161,6 +169,22 @@
       "onboard_time": 1688394947,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 750719,
+      "num": 700068,
+      "word": "孙艺珍产后首个公开行程",
+      "onboard_time": 1688435495,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 730448,
+      "num": 730448,
+      "word": "倪妮哭戏撞到摄像机",
+      "onboard_time": 1688434895,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 702967,
@@ -227,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475204,
-      "num": 475204,
-      "word": "王楚钦世界排名第一",
-      "onboard_time": 1688434776,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 476971,
+      "num": 476971,
+      "word": "是不是鹿晗派你来问的",
+      "onboard_time": 1688432859,
+      "rank": 17,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 474009,
@@ -259,12 +283,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 452505,
-      "num": 452505,
-      "word": "是不是鹿晗派你来问的",
-      "onboard_time": 1688432859,
-      "rank": 17,
-      "category": "幽默,艺人"
+      "raw_hot": 450733,
+      "num": 450733,
+      "word": "眼药水不能滴在眼睛上",
+      "onboard_time": 1688433576,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422381,
@@ -299,20 +323,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 409131,
+      "num": 409131,
+      "word": "黄子韬和马伯骞情人节被困高速",
+      "onboard_time": 1688436097,
+      "rank": 20,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 395414,
+      "num": 395414,
+      "word": "美依礼芽回中国了",
+      "onboard_time": 1688435073,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393665,
       "num": 393665,
       "word": "杨蓉的身材",
       "onboard_time": 1688393441,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 386883,
-      "num": 386883,
-      "word": "倪妮哭戏撞到摄像机",
-      "onboard_time": 1688434895,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 383616,
@@ -337,14 +369,6 @@
       "onboard_time": 1688390921,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 351759,
-      "num": 351759,
-      "word": "眼药水不能滴在眼睛上",
-      "onboard_time": 1688433576,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351027,
@@ -377,6 +401,14 @@
       "onboard_time": 1688359492,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308773,
+      "num": 308773,
+      "word": "段嘉许桑延新情头",
+      "onboard_time": 1688434714,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 298435,
@@ -419,20 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278838,
-      "num": 278838,
-      "word": "段嘉许桑延新情头",
-      "onboard_time": 1688434714,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278723,
       "num": 278723,
       "word": "中南大学一校友向母校捐赠6亿",
       "onboard_time": 1688388940,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 275888,
+      "num": 275888,
+      "word": "你有每月存钱的习惯吗",
+      "onboard_time": 1688433818,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265642,
@@ -449,14 +481,6 @@
       "onboard_time": 1688390860,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 262230,
-      "num": 262230,
-      "word": "美依礼芽回中国了",
-      "onboard_time": 1688435073,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 259557,
@@ -585,6 +609,14 @@
       "onboard_time": 1688429676,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197236,
+      "num": 197236,
+      "word": "律师称蔡徐坤可能被列为劣迹艺人",
+      "onboard_time": 1688436815,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 189998,
@@ -731,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157474,
-      "num": 157474,
-      "word": "孙艺珍产后首个公开行程",
-      "onboard_time": 1688435495,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 157992,
+      "num": 157992,
+      "word": "谁说站在光里的才算英雄",
+      "onboard_time": 1688436693,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 154270,
@@ -745,14 +777,6 @@
       "onboard_time": 1688393021,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153823,
-      "num": 153823,
-      "word": "你有每月存钱的习惯吗",
-      "onboard_time": 1688433818,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151094,
@@ -811,7 +835,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122296,
+      "raw_hot": 127060,
       "num": 1621207,
       "word": "中国人首次荣获护理界国际成就奖",
       "onboard_time": 1688393262,
