@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688475495203,
+  "endTime": 1688477328054,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -475,7 +475,7 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 2099959,
+      "raw_hot": 2131162,
       "num": 2034157,
       "word": "秦牛正威回应为了男友改名",
       "onboard_time": 1688468973,
@@ -763,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1634883,
+      "num": 1634883,
+      "word": "EDG 啃老",
+      "onboard_time": 1688473532,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1630521,
       "num": 627674,
       "word": "沈涛官宣得子",
@@ -809,14 +817,6 @@
       "onboard_time": 1688282852,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1550609,
-      "num": 1550609,
-      "word": "EDG 啃老",
-      "onboard_time": 1688473532,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 1523121,
@@ -2019,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 801980,
+      "num": 353191,
+      "word": "男子两任妻子都查出宫颈癌",
+      "onboard_time": 1688476114,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801318,
       "num": 801318,
       "word": "红黄蓝早教中心回应被指虐童",
@@ -2312,6 +2320,14 @@
       "word": "朱一龙 散播清澈的好笑",
       "onboard_time": 1688468674,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 727758,
+      "num": 727758,
+      "word": "莲花楼",
+      "onboard_time": 1688475816,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -2915,6 +2931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 615255,
+      "num": 615255,
+      "word": "否定型人格",
+      "onboard_time": 1688473053,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 613488,
       "num": 411771,
       "word": "考研上岸了妈妈却叫我不要读",
@@ -3073,6 +3097,14 @@
       "onboard_time": 1688188412,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577612,
+      "num": 577612,
+      "word": "东京一店长闻到煤气味后点了根烟",
+      "onboard_time": 1688475513,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576248,
@@ -3377,6 +3409,14 @@
       "onboard_time": 1688312255,
       "rank": 7,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 529001,
+      "num": 529001,
+      "word": "今晚的月亮格外大",
+      "onboard_time": 1688476656,
+      "rank": 12,
+      "category": "自然"
     },
     {
       "raw_hot": 528434,
@@ -3899,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466259,
+      "num": 262844,
+      "word": "不容易近视的人 睫状肌",
+      "onboard_time": 1688476295,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 465743,
       "num": 465743,
       "word": "宋雨琦人在曹营心在汉",
@@ -4355,14 +4403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 407863,
-      "num": 407863,
-      "word": "否定型人格",
-      "onboard_time": 1688473053,
-      "rank": 28,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 404777,
       "num": 404777,
       "word": "杀害女子嫌犯靳创民被找到时已死亡",
@@ -4531,6 +4571,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 393697,
+      "num": 393697,
+      "word": "苏州大学录取通知书太用心了",
+      "onboard_time": 1688475632,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 391364,
       "num": 391364,
       "word": "山东泰山",
@@ -4633,6 +4681,14 @@
       "onboard_time": 1688292514,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382746,
+      "num": 343092,
+      "word": "王一博核心力量",
+      "onboard_time": 1688475272,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 382570,
@@ -4825,14 +4881,6 @@
       "onboard_time": 1688198972,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 365739,
-      "num": 326107,
-      "word": "王一博核心力量",
-      "onboard_time": 1688475272,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 365499,
@@ -5299,6 +5347,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 328269,
+      "num": 328269,
+      "word": "王楚然王子奇新剧对手戏",
+      "onboard_time": 1688476597,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327543,
       "num": 327543,
       "word": "萌兰为啥是西直门三太子",
@@ -5529,6 +5585,22 @@
       "onboard_time": 1688353774,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 314630,
+      "num": 314630,
+      "word": "中国男排不敌日本男排",
+      "onboard_time": 1688476956,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314554,
+      "num": 314554,
+      "word": "砸锅卖铁去上学 影视化",
+      "onboard_time": 1688476893,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314327,
@@ -6171,6 +6243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278305,
+      "num": 278305,
+      "word": "中国男排vs日本男排",
+      "onboard_time": 1688470831,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277962,
       "num": 277962,
       "word": "长风渡",
@@ -6795,14 +6875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251321,
-      "num": 251321,
-      "word": "中国男排vs日本男排",
-      "onboard_time": 1688470831,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251164,
       "num": 251164,
       "word": "间谍潜藏十七年终落网",
@@ -6920,6 +6992,14 @@
       "word": "段嘉许桑稚处处吻",
       "onboard_time": 1688286393,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248316,
+      "num": 248316,
+      "word": "沙漏",
+      "onboard_time": 1688477136,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -7083,12 +7163,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241644,
+      "num": 241644,
+      "word": "李佳琦侧脸vs正脸",
+      "onboard_time": 1688476474,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 241507,
       "num": 241507,
       "word": "上海百年老房里的馄饨火了近40年",
       "onboard_time": 1688373283,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241345,
+      "num": 241345,
+      "word": "肖战洗澡vs杨洋王子奇洗澡",
+      "onboard_time": 1688477257,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 241064,
@@ -8347,6 +8443,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 195961,
+      "num": 195961,
+      "word": "看不懂EDG的BP",
+      "onboard_time": 1688476174,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195820,
       "num": 204290,
       "word": "Cat盾山才是真C",
@@ -8785,6 +8889,14 @@
       "onboard_time": 1688180073,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 181676,
+      "num": 181676,
+      "word": "脆桃和软桃你更爱哪个",
+      "onboard_time": 1688477315,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 181481,
@@ -9827,6 +9939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92197,
+      "num": 1134837,
+      "word": "闪闪发光的中国00后",
+      "onboard_time": 1688475692,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92117,
       "num": 1132873,
       "word": "太空种菜自给自足真的要实现啦",
@@ -10131,6 +10251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39356,
+      "num": 493396,
+      "word": "吴易昺VS蒂亚福",
+      "onboard_time": 1688476052,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38073,
       "num": 60784,
       "word": "新时代赶考路",
@@ -10245,6 +10373,9 @@
     },
     {
       "word": "#习近平出席上海合作组织成员国元首理事会第二十三次会议#"
+    },
+    {
+      "word": "#努力把互利合作蛋糕做大#"
     }
   ]
 }

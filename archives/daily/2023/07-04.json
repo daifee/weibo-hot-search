@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688475495203,
+  "endTime": 1688477328054,
   "band_list": [
     {
       "raw_hot": 7213197,
@@ -131,7 +131,7 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 2099959,
+      "raw_hot": 2131162,
       "num": 2034157,
       "word": "秦牛正威回应为了男友改名",
       "onboard_time": 1688468973,
@@ -195,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1634883,
+      "num": 1634883,
+      "word": "EDG 啃老",
+      "onboard_time": 1688473532,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1617142,
       "num": 162106,
       "word": "曝炎亚纶涉儿少性剥削",
       "onboard_time": 1688395783,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1550609,
-      "num": 1550609,
-      "word": "EDG 啃老",
-      "onboard_time": 1688473532,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 1462994,
@@ -563,6 +563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 801980,
+      "num": 353191,
+      "word": "男子两任妻子都查出宫颈癌",
+      "onboard_time": 1688476114,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 778714,
       "num": 778714,
       "word": "杨紫嘉人NOW夏季刊封面",
@@ -624,6 +632,14 @@
       "word": "朱一龙 散播清澈的好笑",
       "onboard_time": 1688468674,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 727758,
+      "num": 727758,
+      "word": "莲花楼",
+      "onboard_time": 1688475816,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -755,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 615255,
+      "num": 615255,
+      "word": "否定型人格",
+      "onboard_time": 1688473053,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 613488,
       "num": 411771,
       "word": "考研上岸了妈妈却叫我不要读",
@@ -803,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577612,
+      "num": 577612,
+      "word": "东京一店长闻到煤气味后点了根烟",
+      "onboard_time": 1688475513,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569918,
       "num": 569918,
       "word": "中暑导游去世前坚持将学生们送上车",
@@ -849,6 +881,14 @@
       "onboard_time": 1688471793,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 529001,
+      "num": 529001,
+      "word": "今晚的月亮格外大",
+      "onboard_time": 1688476656,
+      "rank": 12,
+      "category": "自然"
     },
     {
       "raw_hot": 527993,
@@ -979,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466259,
+      "num": 262844,
+      "word": "不容易近视的人 睫状肌",
+      "onboard_time": 1688476295,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 465743,
       "num": 465743,
       "word": "宋雨琦人在曹营心在汉",
@@ -1099,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 407863,
-      "num": 407863,
-      "word": "否定型人格",
-      "onboard_time": 1688473053,
-      "rank": 28,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 402315,
       "num": 402315,
       "word": "云之羽过审",
@@ -1139,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393697,
+      "num": 393697,
+      "word": "苏州大学录取通知书太用心了",
+      "onboard_time": 1688475632,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 393665,
       "num": 393665,
       "word": "杨蓉的身材",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1688412075,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382746,
+      "num": 343092,
+      "word": "王一博核心力量",
+      "onboard_time": 1688475272,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 381891,
@@ -1209,14 +1265,6 @@
       "onboard_time": 1688438795,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 365739,
-      "num": 326107,
-      "word": "王一博核心力量",
-      "onboard_time": 1688475272,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 360189,
@@ -1315,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328269,
+      "num": 328269,
+      "word": "王楚然王子奇新剧对手戏",
+      "onboard_time": 1688476597,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327543,
       "num": 327543,
       "word": "萌兰为啥是西直门三太子",
@@ -1361,6 +1417,22 @@
       "onboard_time": 1688466457,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 314630,
+      "num": 314630,
+      "word": "中国男排不敌日本男排",
+      "onboard_time": 1688476956,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314554,
+      "num": 314554,
+      "word": "砸锅卖铁去上学 影视化",
+      "onboard_time": 1688476893,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314327,
@@ -1555,6 +1627,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 278305,
+      "num": 278305,
+      "word": "中国男排vs日本男排",
+      "onboard_time": 1688470831,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275888,
       "num": 275888,
       "word": "你有每月存钱的习惯吗",
@@ -1683,14 +1763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251321,
-      "num": 251321,
-      "word": "中国男排vs日本男排",
-      "onboard_time": 1688470831,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250505,
       "num": 250505,
       "word": "王者荣耀",
@@ -1705,6 +1777,14 @@
       "onboard_time": 1688447621,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248316,
+      "num": 248316,
+      "word": "沙漏",
+      "onboard_time": 1688477136,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 248212,
@@ -1785,6 +1865,22 @@
       "onboard_time": 1688437833,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241644,
+      "num": 241644,
+      "word": "李佳琦侧脸vs正脸",
+      "onboard_time": 1688476474,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 241345,
+      "num": 241345,
+      "word": "肖战洗澡vs杨洋王子奇洗澡",
+      "onboard_time": 1688477257,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 237055,
@@ -2067,6 +2163,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 195961,
+      "num": 195961,
+      "word": "看不懂EDG的BP",
+      "onboard_time": 1688476174,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195594,
       "num": 195594,
       "word": "阴阳师",
@@ -2169,6 +2273,14 @@
       "onboard_time": 1688383778,
       "rank": 36,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 181676,
+      "num": 181676,
+      "word": "脆桃和软桃你更爱哪个",
+      "onboard_time": 1688477315,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 180704,
@@ -2491,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92197,
+      "num": 1134837,
+      "word": "闪闪发光的中国00后",
+      "onboard_time": 1688475692,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88836,
       "num": 267493,
       "word": "饿了么免单公布答错最多的题",
@@ -2555,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39356,
+      "num": 493396,
+      "word": "吴易昺VS蒂亚福",
+      "onboard_time": 1688476052,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34696,
       "num": 36590,
       "word": "方兰生是谁",
@@ -2594,6 +2722,9 @@
     },
     {
       "word": "#习近平出席上海合作组织成员国元首理事会第二十三次会议#"
+    },
+    {
+      "word": "#努力把互利合作蛋糕做大#"
     }
   ]
 }
