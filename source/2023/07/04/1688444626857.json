@@ -1,0 +1,410 @@
+{
+  "runTime": 1688444626857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3023466,
+        "num": 3023466,
+        "word": "大麦被罚",
+        "onboard_time": 1688442518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2819576,
+        "num": 2819576,
+        "word": "黑执事",
+        "onboard_time": 1688432438,
+        "rank": 1,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 239351,
+        "num": 1727070,
+        "word": "2023下半年大事日历",
+        "onboard_time": 1688441495,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4611431,
+        "num": 1677935,
+        "word": "金星吐槽女明星走红毯捂胸口",
+        "onboard_time": 1688439275,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1283560,
+        "num": 1283560,
+        "word": "花花和叶3岁生日合照",
+        "onboard_time": 1688441676,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254066,
+        "num": 1254066,
+        "word": "男子故意1次取1元逼哭柜员",
+        "onboard_time": 1688434475,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166889,
+        "num": 1166889,
+        "word": "爱说笑死的人要注意你的心脏了",
+        "onboard_time": 1688440718,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 757000,
+        "num": 757000,
+        "word": "iPhone15及Plus新增青绿色",
+        "onboard_time": 1688433576,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 756805,
+        "num": 756805,
+        "word": "萌兰庆生现场画面来啦",
+        "onboard_time": 1688438795,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732573,
+        "num": 732573,
+        "word": "扬言弄死市民的辅警已调岗",
+        "onboard_time": 1688439817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1439311,
+        "num": 714092,
+        "word": "婚检后才知道自己有蚕豆病",
+        "onboard_time": 1688443121,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 668903,
+        "num": 668903,
+        "word": "treasure",
+        "onboard_time": 1688440477,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610571,
+        "num": 610571,
+        "word": "文俊辉你真的疯到我们了",
+        "onboard_time": 1688442276,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 595943,
+        "num": 595943,
+        "word": "把狮子和西瓜放一块洗是认真的吗",
+        "onboard_time": 1688439634,
+        "rank": 13,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 550644,
+        "num": 550644,
+        "word": "西安忍不住根本忍不住",
+        "onboard_time": 1688431121,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 547606,
+        "num": 547606,
+        "word": "孙艺珍产后首个公开行程",
+        "onboard_time": 1688435495,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491580,
+        "num": 491580,
+        "word": "倪妮哭戏撞到摄像机",
+        "onboard_time": 1688434895,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471090,
+        "num": 471090,
+        "word": "减肥人的黄金40天",
+        "onboard_time": 1688443298,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424431,
+        "num": 424431,
+        "word": "王楚钦世界排名第一",
+        "onboard_time": 1688434776,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2794523,
+        "num": 424002,
+        "word": "律师称蔡徐坤可能被列为劣迹艺人",
+        "onboard_time": 1688436815,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1040389,
+        "num": 422815,
+        "word": "去看痛经医生叫我生孩子",
+        "onboard_time": 1688442579,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 643144,
+        "num": 420977,
+        "word": "弟弟考上高中我却不能上学了",
+        "onboard_time": 1688439696,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1574918,
+        "num": 420815,
+        "word": "燕京啤酒回应蔡徐坤事件",
+        "onboard_time": 1688428114,
+        "rank": 22,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 419669,
+        "num": 419669,
+        "word": "倪妮文咏珊黄子琪看朱一龙比耶",
+        "onboard_time": 1688441918,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379240,
+        "num": 379240,
+        "word": "JackeyLove退出亚运会名单",
+        "onboard_time": 1688401770,
+        "rank": 24,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 344766,
+        "num": 344766,
+        "word": "浪胃仙瘦成纸片人",
+        "onboard_time": 1688391581,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337319,
+        "num": 337319,
+        "word": "周杰伦瘦的原因",
+        "onboard_time": 1688443962,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 319497,
+        "num": 319497,
+        "word": "消失的她塑料情头",
+        "onboard_time": 1688433633,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296549,
+        "num": 296549,
+        "word": "369",
+        "onboard_time": 1688400456,
+        "rank": 28,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 284392,
+        "num": 284392,
+        "word": "文咏珊还原李木子妆容",
+        "onboard_time": 1688444079,
+        "rank": 29,
+        "category": "影视,美妆"
+      },
+      {
+        "raw_hot": 815434,
+        "num": 279069,
+        "word": "21岁姑娘新婚初夜出血1500ml",
+        "onboard_time": 1688400034,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314327,
+        "num": 276379,
+        "word": "请记住这15个电话",
+        "onboard_time": 1688442637,
+        "rank": 31,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 310366,
+        "num": 273316,
+        "word": "被子的颜色会影响睡眠",
+        "onboard_time": 1688443903,
+        "rank": 32,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 266158,
+        "num": 266158,
+        "word": "长大后最恐怖的事情之一",
+        "onboard_time": 1688437535,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 253512,
+        "num": 253512,
+        "word": "杭州女子买彩票误打误撞中了一千万",
+        "onboard_time": 1688444505,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231342,
+        "num": 231342,
+        "word": "苹果公众号文章被批毁三观",
+        "onboard_time": 1688444385,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 228675,
+        "num": 228675,
+        "word": "十多年前买的绿萝爬满了办公室",
+        "onboard_time": 1688430098,
+        "rank": 36,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 227439,
+        "num": 227439,
+        "word": "爷爷得知孙子四千元买条狗直接上秤",
+        "onboard_time": 1688394523,
+        "rank": 37,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 226027,
+        "num": 226027,
+        "word": "才知道一杯奶茶是家里一顿饭钱",
+        "onboard_time": 1688444505,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52002,
+        "num": 225227,
+        "word": "饿了么免单公布答错最多的题",
+        "onboard_time": 1688443239,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 224777,
+        "num": 224777,
+        "word": "时影你是油盐不进啊",
+        "onboard_time": 1688442037,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204407,
+        "num": 204407,
+        "word": "眼药水不能滴在眼睛上",
+        "onboard_time": 1688433576,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200523,
+        "num": 200523,
+        "word": "花花生日",
+        "onboard_time": 1688432674,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196374,
+        "num": 196374,
+        "word": "农民大叔造出了我的梦中情院",
+        "onboard_time": 1688439454,
+        "rank": 43,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 193538,
+        "num": 193538,
+        "word": "赵露思偷偷藏不住名场面",
+        "onboard_time": 1688439634,
+        "rank": 44,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 189708,
+        "num": 189708,
+        "word": "任敏哭戏",
+        "onboard_time": 1688430760,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187259,
+        "num": 187259,
+        "word": "张真源音乐剧",
+        "onboard_time": 1688441495,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172607,
+        "num": 172607,
+        "word": "最普通又最难的正常人的人生",
+        "onboard_time": 1688443181,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 167578,
+        "num": 167578,
+        "word": "妈妈30年前成长日记每句都在说爱你",
+        "onboard_time": 1688443781,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 167427,
+        "num": 167427,
+        "word": "美依礼芽回中国了",
+        "onboard_time": 1688435073,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#即便风雨兼程也能一路生花#"
+    }
+  }
+}
