@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688470456550,
+  "endTime": 1688474421605,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -475,7 +475,7 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 2034157,
+      "raw_hot": 2099959,
       "num": 2034157,
       "word": "秦牛正威回应为了男友改名",
       "onboard_time": 1688468973,
@@ -657,6 +657,14 @@
       "onboard_time": 1688387920,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1767645,
+      "num": 721601,
+      "word": "被逼吃屎是怎么和解的",
+      "onboard_time": 1688467715,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1766088,
@@ -1075,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1202190,
+      "num": 934439,
+      "word": "朱某龙骑车去痞幼家偷茅台",
+      "onboard_time": 1688470116,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1200811,
       "num": 1200811,
       "word": "TFBOYS不合体排练吗",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1688192852,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1149831,
+      "num": 1149831,
+      "word": "公积金年度结息到账",
+      "onboard_time": 1688470414,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1143988,
@@ -1715,6 +1739,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 892390,
+      "num": 892390,
+      "word": "EDG 啃老",
+      "onboard_time": 1688473532,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 892109,
       "num": 892109,
       "word": "花花接住谭爷爷给的小苹果",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1688436097,
       "rank": 20,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 878947,
+      "num": 878947,
+      "word": "古天乐眉毛",
+      "onboard_time": 1688472270,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 877522,
@@ -2251,6 +2291,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 730451,
+      "num": 2562943,
+      "word": "发现自己误成间谍帮手后主动投案",
+      "onboard_time": 1688468737,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728180,
+      "num": 728180,
+      "word": "朱一龙 散播清澈的好笑",
+      "onboard_time": 1688468674,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716944,
       "num": 716944,
       "word": "鹿晗演唱会给粉丝送Gucci",
@@ -2264,6 +2320,14 @@
       "word": "白敬亭脱单手串有点东西",
       "onboard_time": 1688371123,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 710213,
+      "num": 710213,
+      "word": "我的人间烟火官宣定档",
+      "onboard_time": 1688469813,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -2504,14 +2568,6 @@
       "word": "允许带孩子上班的单位太幸福了",
       "onboard_time": 1688194290,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 669391,
-      "num": 2562943,
-      "word": "发现自己误成间谍帮手后主动投案",
-      "onboard_time": 1688468737,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2841,14 +2897,6 @@
       "onboard_time": 1688271091,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 623380,
-      "num": 623380,
-      "word": "朱一龙 散播清澈的好笑",
-      "onboard_time": 1688468674,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 621559,
@@ -3723,14 +3771,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 477513,
-      "num": 477513,
-      "word": "朱某龙骑车去痞幼家偷茅台",
-      "onboard_time": 1688470116,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 476971,
       "num": 476971,
       "word": "是不是鹿晗派你来问的",
@@ -3857,6 +3897,14 @@
       "onboard_time": 1688447322,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 461885,
+      "num": 461885,
+      "word": "杨紫回应之前杂志少",
+      "onboard_time": 1688471793,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 459966,
@@ -4203,14 +4251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417252,
-      "num": 417252,
-      "word": "被逼吃屎是怎么和解的",
-      "onboard_time": 1688467715,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417194,
       "num": 417194,
       "word": "玉骨遥镜头vs陈情令镜头",
@@ -4395,6 +4435,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 401003,
+      "num": 401003,
+      "word": "WE 劫富济贫",
+      "onboard_time": 1688471252,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 400074,
       "num": 400074,
       "word": "陈绮贞好美",
@@ -4467,14 +4515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 394353,
-      "num": 378428,
-      "word": "我的人间烟火官宣定档",
-      "onboard_time": 1688469813,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 394198,
       "num": 394198,
       "word": "香港市民为驻港部队官兵撑伞",
@@ -4545,6 +4585,14 @@
       "onboard_time": 1688303380,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385994,
+      "num": 385994,
+      "word": "黑执事 画风变丑",
+      "onboard_time": 1688468796,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 384036,
@@ -5115,6 +5163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334852,
+      "num": 334852,
+      "word": "打死西湖松鼠男子已离开杭州",
+      "onboard_time": 1688469454,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334443,
       "num": 296423,
       "word": "林俊杰直播",
@@ -5411,14 +5467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 318919,
-      "num": 318919,
-      "word": "黑执事 画风变丑",
-      "onboard_time": 1688468796,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 318837,
       "num": 318837,
       "word": "老祖宗最知道怎么哄孩子",
@@ -5489,6 +5537,14 @@
       "onboard_time": 1688323754,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311053,
+      "num": 311053,
+      "word": "EDG对战TT",
+      "onboard_time": 1688472873,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 310778,
@@ -5577,6 +5633,14 @@
       "onboard_time": 1688222676,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306260,
+      "num": 306260,
+      "word": "把骂人的消息发到了工作群",
+      "onboard_time": 1688471612,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 305850,
@@ -5691,6 +5755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299942,
+      "num": 299942,
+      "word": "黄朔 空降",
+      "onboard_time": 1688473053,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299927,
       "num": 299927,
       "word": "为什么镜子里的自己会更好看",
@@ -5713,6 +5785,14 @@
       "onboard_time": 1688347831,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298824,
+      "num": 298824,
+      "word": "否定型人格",
+      "onboard_time": 1688473053,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 298630,
@@ -6931,6 +7011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243545,
+      "num": 227452,
+      "word": "男子发现煮熟鸡蛋里有好几条虫子",
+      "onboard_time": 1688473412,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243496,
       "num": 338773,
       "word": "五星酒店大厨夜市掌勺人均消费30元",
@@ -7163,14 +7251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233667,
-      "num": 233667,
-      "word": "打死西湖松鼠男子已离开杭州",
-      "onboard_time": 1688469454,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233303,
       "num": 233303,
       "word": "倪妮9个采访表扬朱一龙9遍",
@@ -7225,6 +7305,14 @@
       "onboard_time": 1688180190,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230188,
+      "num": 230188,
+      "word": "中国男排vs日本男排",
+      "onboard_time": 1688470831,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 230159,
@@ -7305,14 +7393,6 @@
       "onboard_time": 1688234539,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 226060,
-      "num": 226060,
-      "word": "公积金年度结息到账",
-      "onboard_time": 1688470414,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 225911,
@@ -8171,6 +8251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198308,
+      "num": 198308,
+      "word": "合肥晚霞",
+      "onboard_time": 1688471910,
+      "rank": 44,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 198124,
       "num": 198124,
       "word": "萌兰生日",
@@ -8296,6 +8384,14 @@
       "word": "小义直播",
       "onboard_time": 1688212829,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 192505,
+      "num": 192505,
+      "word": "WE战胜WBG",
+      "onboard_time": 1688471011,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -8521,6 +8617,14 @@
       "onboard_time": 1688430519,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188178,
+      "num": 188178,
+      "word": "对付单位里坏人的办法",
+      "onboard_time": 1688474193,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 188106,
@@ -9299,6 +9403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147760,
+      "num": 516239,
+      "word": "iQOO11S发布会",
+      "onboard_time": 1688467236,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 147179,
       "num": 174353,
       "word": "法斗的叫声能有多难听",
@@ -9361,14 +9473,6 @@
       "onboard_time": 1688298631,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140181,
-      "num": 388083,
-      "word": "iQOO11S发布会",
-      "onboard_time": 1688467236,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 139856,
@@ -9675,6 +9779,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 89857,
+      "num": 241742,
+      "word": "高性能手机用起来有多爽",
+      "onboard_time": 1688473470,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 89174,
       "num": 89174,
       "word": "湖人续约拉塞尔",
@@ -9713,6 +9825,14 @@
       "onboard_time": 1688356400,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87854,
+      "num": 2071614,
+      "word": "这段交通安全宣传片看得有点上头",
+      "onboard_time": 1688470055,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86967,
@@ -9993,14 +10113,6 @@
       "onboard_time": 1688245513,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27876,
-      "num": 2071614,
-      "word": "这段交通安全宣传片看得有点上头",
-      "onboard_time": 1688470055,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27214,

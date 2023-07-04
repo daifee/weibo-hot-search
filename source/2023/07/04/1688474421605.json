@@ -1,0 +1,410 @@
+{
+  "runTime": 1688474421605,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1714712,
+        "num": 1714712,
+        "word": "痞幼",
+        "onboard_time": 1688462855,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1149831,
+        "num": 1149831,
+        "word": "公积金年度结息到账",
+        "onboard_time": 1688470414,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 87854,
+        "num": 1001644,
+        "word": "这段交通安全宣传片看得有点上头",
+        "onboard_time": 1688470055,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2099959,
+        "num": 966497,
+        "word": "秦牛正威回应为了男友改名",
+        "onboard_time": 1688468973,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1202190,
+        "num": 934439,
+        "word": "朱某龙骑车去痞幼家偷茅台",
+        "onboard_time": 1688470116,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902208,
+        "num": 902208,
+        "word": "男生被要28万8彩礼写信给县长求整治",
+        "onboard_time": 1688457874,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892390,
+        "num": 892390,
+        "word": "EDG 啃老",
+        "onboard_time": 1688473532,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 878947,
+        "num": 878947,
+        "word": "古天乐眉毛",
+        "onboard_time": 1688472270,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730451,
+        "num": 730451,
+        "word": "发现自己误成间谍帮手后主动投案",
+        "onboard_time": 1688468737,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728180,
+        "num": 728180,
+        "word": "朱一龙 散播清澈的好笑",
+        "onboard_time": 1688468674,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1767645,
+        "num": 721601,
+        "word": "被逼吃屎是怎么和解的",
+        "onboard_time": 1688467715,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710213,
+        "num": 710213,
+        "word": "我的人间烟火官宣定档",
+        "onboard_time": 1688469813,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 648889,
+        "num": 648889,
+        "word": "古偶妆造天花板",
+        "onboard_time": 1688467058,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 596461,
+        "num": 596461,
+        "word": "欧豪有12部待播剧",
+        "onboard_time": 1688468135,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147760,
+        "num": 516239,
+        "word": "iQOO11S发布会",
+        "onboard_time": 1688467236,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 489112,
+        "num": 489112,
+        "word": "把苹果咬成我买不起的样子",
+        "onboard_time": 1688465378,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461885,
+        "num": 461885,
+        "word": "杨紫回应之前杂志少",
+        "onboard_time": 1688471793,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 401003,
+        "num": 401003,
+        "word": "WE 劫富济贫",
+        "onboard_time": 1688471252,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385994,
+        "num": 385994,
+        "word": "黑执事 画风变丑",
+        "onboard_time": 1688468796,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 375710,
+        "num": 375710,
+        "word": "宁艺卓被Ella三连问",
+        "onboard_time": 1688465676,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689645,
+        "num": 362946,
+        "word": "生理期不能吃的水果",
+        "onboard_time": 1688455536,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 343126,
+        "num": 343126,
+        "word": "刘诗诗巴黎时装周生图",
+        "onboard_time": 1688467058,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334852,
+        "num": 334852,
+        "word": "打死西湖松鼠男子已离开杭州",
+        "onboard_time": 1688469454,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318311,
+        "num": 318311,
+        "word": "迪丽热巴的蓝色挑染",
+        "onboard_time": 1688460577,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 311053,
+        "num": 311053,
+        "word": "EDG对战TT",
+        "onboard_time": 1688472873,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313451,
+        "num": 310635,
+        "word": "肖战片场公主抱任敏",
+        "onboard_time": 1688461535,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306260,
+        "num": 306260,
+        "word": "把骂人的消息发到了工作群",
+        "onboard_time": 1688471612,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299942,
+        "num": 299942,
+        "word": "黄朔 空降",
+        "onboard_time": 1688473053,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298824,
+        "num": 298824,
+        "word": "否定型人格",
+        "onboard_time": 1688473053,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 282831,
+        "num": 282831,
+        "word": "公司回应牵手门男子仍担任高管",
+        "onboard_time": 1688469934,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269914,
+        "num": 269914,
+        "word": "张睿直播",
+        "onboard_time": 1688471131,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245000,
+        "num": 245000,
+        "word": "台湾网友跟着解放军用别瞎吵吵造句",
+        "onboard_time": 1688463577,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89857,
+        "num": 241742,
+        "word": "高性能手机用起来有多爽",
+        "onboard_time": 1688473470,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 241350,
+        "num": 241350,
+        "word": "刘德华王宝强合唱八角笼中推广曲",
+        "onboard_time": 1688468494,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238911,
+        "num": 238911,
+        "word": "WBG打野",
+        "onboard_time": 1688464536,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230188,
+        "num": 230188,
+        "word": "中国男排vs日本男排",
+        "onboard_time": 1688470831,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228819,
+        "num": 228819,
+        "word": "广东人正式被确诊为依萍",
+        "onboard_time": 1688455654,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243545,
+        "num": 227452,
+        "word": "男子发现煮熟鸡蛋里有好几条虫子",
+        "onboard_time": 1688473412,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225793,
+        "num": 225793,
+        "word": "Jennie戳爷lily合照",
+        "onboard_time": 1688456315,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 223639,
+        "num": 223639,
+        "word": "五月天深圳 开船",
+        "onboard_time": 1688466338,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221812,
+        "num": 221812,
+        "word": "高铁上差点被前桌喂饱了",
+        "onboard_time": 1688466457,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219502,
+        "num": 219502,
+        "word": "长风渡",
+        "onboard_time": 1688469573,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205912,
+        "num": 205912,
+        "word": "伊朗正式加入上合组织",
+        "onboard_time": 1688468198,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 203038,
+        "num": 203038,
+        "word": "离职最后一天让公司损失几十万",
+        "onboard_time": 1688464603,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198308,
+        "num": 198308,
+        "word": "合肥晚霞",
+        "onboard_time": 1688471910,
+        "rank": 44,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 196121,
+        "num": 196121,
+        "word": "假装发错消息给喜欢的人",
+        "onboard_time": 1688462737,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 192505,
+        "num": 192505,
+        "word": "WE战胜WBG",
+        "onboard_time": 1688471011,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188178,
+        "num": 188178,
+        "word": "对付单位里坏人的办法",
+        "onboard_time": 1688474193,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 185284,
+        "num": 185284,
+        "word": "禾野 我画林克是画自己喜欢的",
+        "onboard_time": 1688467418,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175427,
+        "num": 175427,
+        "word": "TFBOYS为王源课桌背后打call",
+        "onboard_time": 1688462497,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席上海合作组织成员国元首理事会第二十三次会议#"
+    }
+  }
+}
