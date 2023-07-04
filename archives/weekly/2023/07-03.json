@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688489013673,
+  "endTime": 1688491059562,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1688363178,
       "rank": 20,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 829733,
+      "num": 829733,
+      "word": "北大女生穿马面裙参加毕业典礼",
+      "onboard_time": 1688487449,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 827845,
@@ -3209,14 +3217,6 @@
       "onboard_time": 1688367285,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296363,
-      "num": 296363,
-      "word": "北大女生穿马面裙参加毕业典礼",
-      "onboard_time": 1688487449,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 295363,
@@ -5347,6 +5347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72851,
+      "num": 72851,
+      "word": "要有足够的悲伤才能忍住不哭",
+      "onboard_time": 1688490560,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 67396,
       "num": 163964,
       "word": "BLG零封FPX",
@@ -5369,6 +5377,14 @@
       "onboard_time": 1688459136,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57326,
+      "num": 63063,
+      "word": "七旬老人摔伤救援时孙子心疼掉眼泪",
+      "onboard_time": 1688488224,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54375,
