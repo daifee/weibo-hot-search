@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688474421605,
+  "endTime": 1688475495203,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1999057,
+      "num": 721601,
+      "word": "被逼吃屎是怎么和解的",
+      "onboard_time": 1688467715,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1960692,
       "num": 1960692,
       "word": "迪丽热巴腿咚龚俊",
@@ -659,14 +667,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1767645,
-      "num": 721601,
-      "word": "被逼吃屎是怎么和解的",
-      "onboard_time": 1688467715,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1766088,
       "num": 1766088,
       "word": "李承铉参加张杰谢娜婚礼晕倒了",
@@ -809,6 +809,14 @@
       "onboard_time": 1688282852,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1550609,
+      "num": 1550609,
+      "word": "EDG 啃老",
+      "onboard_time": 1688473532,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 1523121,
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 1202190,
-      "num": 934439,
+      "num": 1161968,
       "word": "朱某龙骑车去痞幼家偷茅台",
       "onboard_time": 1688470116,
       "rank": 17,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1688382639,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1170002,
+      "num": 1170002,
+      "word": "公积金年度结息到账",
+      "onboard_time": 1688470414,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1166889,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1688192852,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1149831,
-      "num": 1149831,
-      "word": "公积金年度结息到账",
-      "onboard_time": 1688470414,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1143988,
@@ -1739,14 +1747,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 892390,
-      "num": 892390,
-      "word": "EDG 啃老",
-      "onboard_time": 1688473532,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 892109,
       "num": 892109,
       "word": "花花接住谭爷爷给的小苹果",
@@ -1969,6 +1969,14 @@
       "onboard_time": 1688137303,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 819066,
+      "num": 819066,
+      "word": "我的人间烟火官宣定档",
+      "onboard_time": 1688469813,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 817327,
@@ -2320,14 +2328,6 @@
       "word": "白敬亭脱单手串有点东西",
       "onboard_time": 1688371123,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 710213,
-      "num": 710213,
-      "word": "我的人间烟火官宣定档",
-      "onboard_time": 1688469813,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -3315,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541673,
+      "num": 541673,
+      "word": "杨紫回应之前杂志少",
+      "onboard_time": 1688471793,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 541532,
       "num": 437978,
       "word": "女生本科毕业就成功应聘高校教师",
@@ -3899,14 +3907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 461885,
-      "num": 461885,
-      "word": "杨紫回应之前杂志少",
-      "onboard_time": 1688471793,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 459966,
       "num": 459966,
       "word": "周杰伦瘦的原因",
@@ -4353,6 +4353,14 @@
       "onboard_time": 1688263767,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407863,
+      "num": 407863,
+      "word": "否定型人格",
+      "onboard_time": 1688473053,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 404777,
@@ -4817,6 +4825,14 @@
       "onboard_time": 1688198972,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365739,
+      "num": 326107,
+      "word": "王一博核心力量",
+      "onboard_time": 1688475272,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 365499,
@@ -5787,14 +5803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298824,
-      "num": 298824,
-      "word": "否定型人格",
-      "onboard_time": 1688473053,
-      "rank": 28,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 298630,
       "num": 298630,
       "word": "HR认可的离职原因",
@@ -6281,6 +6289,14 @@
       "onboard_time": 1688349930,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273289,
+      "num": 273289,
+      "word": "宋雨琦夸张淼怡好可爱",
+      "onboard_time": 1688474490,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 273156,
@@ -6777,6 +6793,14 @@
       "onboard_time": 1688428593,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251321,
+      "num": 251321,
+      "word": "中国男排vs日本男排",
+      "onboard_time": 1688470831,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 251164,
@@ -7307,14 +7331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230188,
-      "num": 230188,
-      "word": "中国男排vs日本男排",
-      "onboard_time": 1688470831,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230159,
       "num": 230159,
       "word": "白敬亭宋轶同框",
@@ -7539,6 +7555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223203,
+      "num": 223203,
+      "word": "被香港的辣度细分惊了",
+      "onboard_time": 1688474916,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222953,
       "num": 222953,
       "word": "远赴相思",
@@ -7593,6 +7617,14 @@
       "onboard_time": 1688195491,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220658,
+      "num": 220658,
+      "word": "对付单位里坏人的办法",
+      "onboard_time": 1688474193,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 220650,
@@ -8019,6 +8051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206894,
+      "num": 206894,
+      "word": "合肥晚霞",
+      "onboard_time": 1688471910,
+      "rank": 44,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 206817,
       "num": 206817,
       "word": "万州大暴雨各方力量帮助居民连夜转移",
@@ -8251,14 +8291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198308,
-      "num": 198308,
-      "word": "合肥晚霞",
-      "onboard_time": 1688471910,
-      "rank": 44,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 198124,
       "num": 198124,
       "word": "萌兰生日",
@@ -8345,6 +8377,14 @@
       "onboard_time": 1688438675,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194672,
+      "num": 194672,
+      "word": "迪奥二零二三秋冬高订秀",
+      "onboard_time": 1688474916,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 194636,
@@ -8619,14 +8659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188178,
-      "num": 188178,
-      "word": "对付单位里坏人的办法",
-      "onboard_time": 1688474193,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 188106,
       "num": 188106,
       "word": "任天真段嘉许同台",
@@ -8867,6 +8899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176825,
+      "num": 516239,
+      "word": "iQOO11S发布会",
+      "onboard_time": 1688467236,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 176733,
       "num": 176733,
       "word": "NBA自由市场签约",
@@ -9089,6 +9129,14 @@
       "onboard_time": 1688443781,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 167330,
+      "num": 167330,
+      "word": "养猫猫狗狗的深深懂了",
+      "onboard_time": 1688474970,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 167014,
@@ -9403,14 +9451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147760,
-      "num": 516239,
-      "word": "iQOO11S发布会",
-      "onboard_time": 1688467236,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
       "raw_hot": 147179,
       "num": 174353,
       "word": "法斗的叫声能有多难听",
@@ -9659,6 +9699,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 109373,
+      "num": 361553,
+      "word": "高性能手机用起来有多爽",
+      "onboard_time": 1688473470,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 105642,
       "num": 130801,
       "word": "首饰掉便池男子心急去捞又卡手",
@@ -9763,6 +9811,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 94768,
+      "num": 2071614,
+      "word": "这段交通安全宣传片看得有点上头",
+      "onboard_time": 1688470055,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94192,
       "num": 94192,
       "word": "陕西居民驾车途中偶遇淡定大熊猫",
@@ -9776,14 +9832,6 @@
       "word": "太空种菜自给自足真的要实现啦",
       "onboard_time": 1688384380,
       "rank": 2,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 89857,
-      "num": 241742,
-      "word": "高性能手机用起来有多爽",
-      "onboard_time": 1688473470,
-      "rank": 32,
       "category": "科技"
     },
     {
@@ -9825,14 +9873,6 @@
       "onboard_time": 1688356400,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 87854,
-      "num": 2071614,
-      "word": "这段交通安全宣传片看得有点上头",
-      "onboard_time": 1688470055,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86967,
