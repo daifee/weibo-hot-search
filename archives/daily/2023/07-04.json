@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688439716903,
+  "endTime": 1688440265019,
   "band_list": [
     {
       "raw_hot": 5619700,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3365108,
-      "num": 597470,
+      "num": 684764,
       "word": "律师称蔡徐坤可能被列为劣迹艺人",
       "onboard_time": 1688436815,
       "rank": 33,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2344347,
-      "num": 261801,
-      "word": "21岁姑娘新婚初夜出血1500ml",
-      "onboard_time": 1688400034,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2335435,
-      "num": 2335435,
+      "raw_hot": 2785444,
+      "num": 2785444,
       "word": "黑执事",
       "onboard_time": 1688432438,
       "rank": 0,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 2344347,
+      "num": 268200,
+      "word": "21岁姑娘新婚初夜出血1500ml",
+      "onboard_time": 1688400034,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2237999,
@@ -105,6 +105,14 @@
       "onboard_time": 1688423780,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1432791,
+      "num": 1432791,
+      "word": "金星吐槽女明星走红毯捂胸口",
+      "onboard_time": 1688439275,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1336526,
@@ -211,20 +219,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 686525,
+      "num": 686525,
+      "word": "眼药水不能滴在眼睛上",
+      "onboard_time": 1688433576,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669796,
       "num": 446601,
       "word": "秦牛正威官宣订婚后首现身",
       "onboard_time": 1688396747,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 651289,
-      "num": 651289,
-      "word": "眼药水不能滴在眼睛上",
-      "onboard_time": 1688433576,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649899,
@@ -307,12 +315,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 469019,
-      "num": 469019,
-      "word": "金星吐槽女明星走红毯捂胸口",
-      "onboard_time": 1688439275,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 425624,
+      "num": 304220,
+      "word": "弟弟考上高中我却不能上学了",
+      "onboard_time": 1688439696,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 422381,
@@ -345,6 +353,14 @@
       "onboard_time": 1688405540,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 407051,
+      "num": 407051,
+      "word": "把狮子和西瓜放一块洗是认真的吗",
+      "onboard_time": 1688439634,
+      "rank": 34,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 395414,
@@ -393,6 +409,14 @@
       "onboard_time": 1688438795,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369066,
+      "num": 301917,
+      "word": "古代人游园会的快乐我体会到了",
+      "onboard_time": 1688438795,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 355755,
@@ -499,6 +523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 276777,
+      "num": 276777,
+      "word": "扬言弄死市民的辅警已调岗",
+      "onboard_time": 1688439817,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275888,
       "num": 275888,
       "word": "你有每月存钱的习惯吗",
@@ -555,12 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248687,
-      "num": 248687,
-      "word": "弟弟考上高中我却不能上学了",
-      "onboard_time": 1688439696,
-      "rank": 28,
-      "category": "情感,幽默"
+      "raw_hot": 250505,
+      "num": 250505,
+      "word": "王者荣耀",
+      "onboard_time": 1688438557,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 248212,
@@ -601,22 +633,6 @@
       "onboard_time": 1688437833,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 237554,
-      "num": 237554,
-      "word": "王者荣耀",
-      "onboard_time": 1688438557,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 237032,
-      "num": 237032,
-      "word": "古代人游园会的快乐我体会到了",
-      "onboard_time": 1688438795,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 235551,
@@ -667,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220835,
-      "num": 220835,
-      "word": "把狮子和西瓜放一块洗是认真的吗",
-      "onboard_time": 1688439634,
-      "rank": 34,
-      "category": "幽默,社会新闻"
+      "raw_hot": 215660,
+      "num": 215660,
+      "word": "范世錡好像带孩子出来玩儿",
+      "onboard_time": 1688438737,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 203218,
@@ -691,12 +707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193447,
-      "num": 193447,
+      "raw_hot": 195141,
+      "num": 195141,
       "word": "别人的家庭氛围好自己会自卑",
       "onboard_time": 1688438675,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191577,
+      "num": 191577,
+      "word": "恋爱脑犯了的时候就看看",
+      "onboard_time": 1688437833,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 189998,
@@ -704,6 +728,14 @@
       "word": "68岁老人下水连救3人体力不支溺亡",
       "onboard_time": 1688393863,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189795,
+      "num": 189795,
+      "word": "挖机师傅帮老人清理杂草被留吃饭",
+      "onboard_time": 1688439934,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -779,16 +811,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 173244,
-      "num": 173244,
-      "word": "范世錡好像带孩子出来玩儿",
-      "onboard_time": 1688438737,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171681,
-      "num": 171681,
+      "raw_hot": 173598,
+      "num": 173598,
       "word": "骑手你人还怪实在嘞",
       "onboard_time": 1688438496,
       "rank": 43,
@@ -803,12 +827,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 170126,
-      "num": 170126,
-      "word": "恋爱脑犯了的时候就看看",
-      "onboard_time": 1688437833,
-      "rank": 44,
-      "category": "幽默,情感"
+      "raw_hot": 170474,
+      "num": 170474,
+      "word": "赵露思偷偷藏不住名场面",
+      "onboard_time": 1688439634,
+      "rank": 45,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 170119,
@@ -873,14 +897,6 @@
       "onboard_time": 1688400755,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158233,
-      "num": 158233,
-      "word": "赵露思偷偷藏不住名场面",
-      "onboard_time": 1688439634,
-      "rank": 45,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 157992,
@@ -972,7 +988,7 @@
     },
     {
       "raw_hot": 127060,
-      "num": 1621207,
+      "num": 1731559,
       "word": "中国人首次荣获护理界国际成就奖",
       "onboard_time": 1688393262,
       "rank": 2,
