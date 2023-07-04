@@ -1,0 +1,410 @@
+{
+  "runTime": 1688442168874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3049665,
+        "num": 3049665,
+        "word": "黑执事",
+        "onboard_time": 1688432438,
+        "rank": 0,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1731007,
+        "num": 1731007,
+        "word": "男子故意1次取1元逼哭柜员",
+        "onboard_time": 1688434475,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103186,
+        "num": 1265232,
+        "word": "2023下半年大事日历",
+        "onboard_time": 1688441495,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3827329,
+        "num": 1247749,
+        "word": "金星吐槽女明星走红毯捂胸口",
+        "onboard_time": 1688439275,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1095454,
+        "num": 1095454,
+        "word": "扬言弄死市民的辅警已调岗",
+        "onboard_time": 1688439817,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892743,
+        "num": 892743,
+        "word": "把狮子和西瓜放一块洗是认真的吗",
+        "onboard_time": 1688439634,
+        "rank": 5,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 782852,
+        "num": 782852,
+        "word": "iPhone15及Plus新增青绿色",
+        "onboard_time": 1688433576,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 742745,
+        "num": 742745,
+        "word": "爱说笑死的人要注意你的心脏了",
+        "onboard_time": 1688440718,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 651333,
+        "num": 651333,
+        "word": "孙艺珍产后首个公开行程",
+        "onboard_time": 1688435495,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613024,
+        "num": 613024,
+        "word": "西安忍不住根本忍不住",
+        "onboard_time": 1688431121,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3151744,
+        "num": 593397,
+        "word": "律师称蔡徐坤可能被列为劣迹艺人",
+        "onboard_time": 1688436815,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561303,
+        "num": 561303,
+        "word": "倪妮哭戏撞到摄像机",
+        "onboard_time": 1688434895,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501578,
+        "num": 501578,
+        "word": "treasure",
+        "onboard_time": 1688440477,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478285,
+        "num": 478285,
+        "word": "王楚钦世界排名第一",
+        "onboard_time": 1688434776,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428683,
+        "num": 428683,
+        "word": "消失的她塑料情头",
+        "onboard_time": 1688433633,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422494,
+        "num": 422494,
+        "word": "黄子韬和马伯骞情人节被困高速",
+        "onboard_time": 1688436097,
+        "rank": 15,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 380113,
+        "num": 380113,
+        "word": "眼药水不能滴在眼睛上",
+        "onboard_time": 1688433576,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371071,
+        "num": 371071,
+        "word": "JackeyLove退出亚运会名单",
+        "onboard_time": 1688401770,
+        "rank": 17,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 363905,
+        "num": 363905,
+        "word": "浪胃仙瘦成纸片人",
+        "onboard_time": 1688391581,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 358320,
+        "num": 358320,
+        "word": "花花和叶3岁生日合照",
+        "onboard_time": 1688441676,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1546879,
+        "num": 358184,
+        "word": "燕京啤酒回应蔡徐坤事件",
+        "onboard_time": 1688428114,
+        "rank": 20,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 770837,
+        "num": 357956,
+        "word": "弟弟考上高中我却不能上学了",
+        "onboard_time": 1688439696,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 356381,
+        "num": 356381,
+        "word": "花花生日",
+        "onboard_time": 1688432674,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888031,
+        "num": 352976,
+        "word": "跑男有望顺利播出",
+        "onboard_time": 1688441375,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326019,
+        "num": 326019,
+        "word": "十多年前买的绿萝爬满了办公室",
+        "onboard_time": 1688430098,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 316218,
+        "num": 316218,
+        "word": "爷爷得知孙子四千元买条狗直接上秤",
+        "onboard_time": 1688394523,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 314549,
+        "num": 314549,
+        "word": "长大后最恐怖的事情之一",
+        "onboard_time": 1688437535,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 284345,
+        "num": 284345,
+        "word": "369",
+        "onboard_time": 1688400456,
+        "rank": 27,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 248139,
+        "num": 248139,
+        "word": "美依礼芽回中国了",
+        "onboard_time": 1688435073,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243754,
+        "num": 243754,
+        "word": "萌兰庆生现场画面来啦",
+        "onboard_time": 1688438795,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900532,
+        "num": 242407,
+        "word": "21岁姑娘新婚初夜出血1500ml",
+        "onboard_time": 1688400034,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236111,
+        "num": 236111,
+        "word": "张真源音乐剧",
+        "onboard_time": 1688441495,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229737,
+        "num": 229737,
+        "word": "樊振东第二",
+        "onboard_time": 1688438135,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219552,
+        "num": 219552,
+        "word": "王者荣耀",
+        "onboard_time": 1688438557,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204949,
+        "num": 204949,
+        "word": "农民大叔造出了我的梦中情院",
+        "onboard_time": 1688439454,
+        "rank": 34,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 201737,
+        "num": 201737,
+        "word": "任敏哭戏",
+        "onboard_time": 1688430760,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197795,
+        "num": 197795,
+        "word": "赵露思偷偷藏不住名场面",
+        "onboard_time": 1688439634,
+        "rank": 36,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 196212,
+        "num": 196212,
+        "word": "范世錡好像带孩子出来玩儿",
+        "onboard_time": 1688438737,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193329,
+        "num": 193329,
+        "word": "是不是鹿晗派你来问的",
+        "onboard_time": 1688432859,
+        "rank": 38,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 192287,
+        "num": 192287,
+        "word": "秦牛正威官宣订婚后首现身",
+        "onboard_time": 1688396747,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185383,
+        "num": 185383,
+        "word": "张柏芝吴磊同框好养眼",
+        "onboard_time": 1688437833,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184460,
+        "num": 184460,
+        "word": "恋爱脑犯了的时候就看看",
+        "onboard_time": 1688437833,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 176108,
+        "num": 176108,
+        "word": "05后学生给95后老师批作业",
+        "onboard_time": 1688430820,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 173671,
+        "num": 173671,
+        "word": "倪妮文咏珊黄子琪看朱一龙比耶",
+        "onboard_time": 1688441918,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172546,
+        "num": 172546,
+        "word": "段嘉许桑延新情头",
+        "onboard_time": 1688434714,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165681,
+        "num": 165681,
+        "word": "时影你是油盐不进啊",
+        "onboard_time": 1688442037,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165043,
+        "num": 165043,
+        "word": "周杰伦你真的不热吗",
+        "onboard_time": 1688426849,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160198,
+        "num": 160198,
+        "word": "骑手你人还怪实在嘞",
+        "onboard_time": 1688438496,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146088,
+        "num": 160190,
+        "word": "萌兰生日",
+        "onboard_time": 1688429676,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139856,
+        "num": 160186,
+        "word": "希望18岁的我能理解",
+        "onboard_time": 1688441316,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#用忠诚守护祖国的平安#"
+    }
+  }
+}
