@@ -1,0 +1,410 @@
+{
+  "runTime": 1688463242258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3668235,
+        "num": 3668235,
+        "word": "男生被要28万8彩礼写信给县长求整治",
+        "onboard_time": 1688457874,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1593649,
+        "num": 1593649,
+        "word": "广东人正式被确诊为依萍",
+        "onboard_time": 1688455654,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52356,
+        "num": 1509320,
+        "word": "西汉青铜灯人性化设计太妙了",
+        "onboard_time": 1688441375,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1507186,
+        "num": 1507186,
+        "word": "秦牛正威改名秦语鹿",
+        "onboard_time": 1688452893,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1386066,
+        "num": 1386066,
+        "word": "牵手门涉事男领导仍担任企业高管",
+        "onboard_time": 1688460754,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111328,
+        "num": 1111328,
+        "word": "健身网红拉丝哥离世",
+        "onboard_time": 1688456675,
+        "rank": 5,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 874750,
+        "num": 874750,
+        "word": "头发染得再黄鼻子修得再尖也变不了欧美人",
+        "onboard_time": 1688454273,
+        "rank": 6,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 704361,
+        "num": 704361,
+        "word": "肖战片场公主抱任敏",
+        "onboard_time": 1688461535,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649139,
+        "num": 649139,
+        "word": "杨洋王楚然荧幕初吻都给了马思纯",
+        "onboard_time": 1688461597,
+        "rank": 8,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 646624,
+        "num": 646624,
+        "word": "金星吐槽女明星走红毯捂胸口",
+        "onboard_time": 1688439275,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1146924,
+        "num": 645684,
+        "word": "痞幼",
+        "onboard_time": 1688462855,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1051918,
+        "num": 645239,
+        "word": "短发女警刘欣走了",
+        "onboard_time": 1688457156,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644387,
+        "num": 644387,
+        "word": "幼儿在公共场合哭闹 泰森原则",
+        "onboard_time": 1688455296,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562774,
+        "num": 562774,
+        "word": "金星 不需要靠夸张服饰来赚取眼球",
+        "onboard_time": 1688449600,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465736,
+        "num": 465736,
+        "word": "TFBOYS为王源课桌背后打call",
+        "onboard_time": 1688462497,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441758,
+        "num": 441758,
+        "word": "Jennie戳爷lily合照",
+        "onboard_time": 1688456315,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 439277,
+        "num": 439277,
+        "word": "任敏认领猪猪敏",
+        "onboard_time": 1688452655,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435868,
+        "num": 435868,
+        "word": "YGSMTOWNHYBE进行现场调查",
+        "onboard_time": 1688460577,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380028,
+        "num": 380028,
+        "word": "男子吃菌后看到冰块飘空中果断报警",
+        "onboard_time": 1688452598,
+        "rank": 18,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 313186,
+        "num": 378358,
+        "word": "婚检后才知道自己有蚕豆病",
+        "onboard_time": 1688443121,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1109795,
+        "num": 375299,
+        "word": "迪丽热巴的蓝色挑染",
+        "onboard_time": 1688460577,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 613488,
+        "num": 373751,
+        "word": "考研上岸了妈妈却叫我不要读",
+        "onboard_time": 1688461416,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 597396,
+        "num": 369204,
+        "word": "入职一年送走了41位同事",
+        "onboard_time": 1688457756,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 538990,
+        "num": 365053,
+        "word": "生理期不能吃的水果",
+        "onboard_time": 1688455536,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 364869,
+        "num": 364869,
+        "word": "燕京啤酒回应蔡徐坤事件",
+        "onboard_time": 1688428114,
+        "rank": 24,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 415009,
+        "num": 362112,
+        "word": "赵露思穿JK跳gee",
+        "onboard_time": 1688458235,
+        "rank": 25,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 398269,
+        "num": 361264,
+        "word": "比失业还可怕的是什么",
+        "onboard_time": 1688461956,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391094,
+        "num": 359923,
+        "word": "杨紫背好薄",
+        "onboard_time": 1688454877,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 355867,
+        "num": 355867,
+        "word": "王一博新电影叫小沈阳谢哥",
+        "onboard_time": 1688460155,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310256,
+        "num": 310256,
+        "word": "男生街边卖卫生巾遭掀摊骂晦气",
+        "onboard_time": 1688446964,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305850,
+        "num": 305850,
+        "word": "桑稚实习被欺负",
+        "onboard_time": 1688460216,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293224,
+        "num": 293224,
+        "word": "白敬亭说没人比我更合适顾九思",
+        "onboard_time": 1688453798,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643074,
+        "num": 292582,
+        "word": "被3名未成年逼吃粪便男童父亲发声",
+        "onboard_time": 1688447621,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291748,
+        "num": 291748,
+        "word": "中方回应越南因南海九段线禁映芭比",
+        "onboard_time": 1688462319,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 288560,
+        "num": 288560,
+        "word": "金钟云直播",
+        "onboard_time": 1688462737,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286306,
+        "num": 286306,
+        "word": "王嘉尔官宣加盟舞台2023",
+        "onboard_time": 1688461358,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276077,
+        "num": 276077,
+        "word": "TFBOYS十周年能不能考虑下巡回",
+        "onboard_time": 1688454814,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272260,
+        "num": 272260,
+        "word": "对方撤回了一个冰淇淋",
+        "onboard_time": 1688458358,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266690,
+        "num": 266690,
+        "word": "苏醒 尊重各自工作和身份",
+        "onboard_time": 1688454698,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262945,
+        "num": 262945,
+        "word": "去看痛经医生叫我生孩子",
+        "onboard_time": 1688442579,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 238912,
+        "num": 238912,
+        "word": "假装发错消息给喜欢的人",
+        "onboard_time": 1688462737,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 229672,
+        "num": 229672,
+        "word": "杨紫说长相思有节点意义",
+        "onboard_time": 1688458835,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224645,
+        "num": 224645,
+        "word": "沈阳发现一例猴痘病例",
+        "onboard_time": 1688448277,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207546,
+        "num": 207546,
+        "word": "大姨出500元让我把电脑给表妹",
+        "onboard_time": 1688455232,
+        "rank": 43,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 203707,
+        "num": 203707,
+        "word": "来大连必吃的苍蝇馆子",
+        "onboard_time": 1688459674,
+        "rank": 44,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 189951,
+        "num": 189951,
+        "word": "透明的山竹能吃吗",
+        "onboard_time": 1688457399,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187832,
+        "num": 187832,
+        "word": "酒桌上的人情世故能有多卷",
+        "onboard_time": 1688461716,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 187347,
+        "num": 187347,
+        "word": "杨超越出演杨洋王楚然新剧",
+        "onboard_time": 1688454877,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179972,
+        "num": 184645,
+        "word": "李一桐体重不到90斤",
+        "onboard_time": 1688454516,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184507,
+        "num": 184507,
+        "word": "王楚然一天有三部剧要宣传",
+        "onboard_time": 1688463154,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#用忠诚守护祖国的平安#"
+    }
+  }
+}
