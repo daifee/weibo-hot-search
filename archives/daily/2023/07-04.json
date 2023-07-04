@@ -1,6 +1,6 @@
 {
   "startTime": 1688401461202,
-  "endTime": 1688480288380,
+  "endTime": 1688481397404,
   "band_list": [
     {
       "raw_hot": 7213197,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2343779,
+      "num": 2343779,
+      "word": "白敬亭说网络消息大家想一下再信",
+      "onboard_time": 1688478275,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2237999,
       "num": 223751,
       "word": "蔡徐坤报案回执",
@@ -193,14 +201,6 @@
       "onboard_time": 1688455654,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1714755,
-      "num": 1714755,
-      "word": "白敬亭说网络消息大家想一下再信",
-      "onboard_time": 1688478275,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1693557,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251948,
+      "num": 527070,
+      "word": "男子两任妻子都查出宫颈癌",
+      "onboard_time": 1688476114,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1225925,
       "num": 1225925,
       "word": "观众缘好的明星",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 1165796,
-      "num": 711110,
+      "num": 924892,
       "word": "肖战洗澡vs杨洋王子奇洗澡",
       "onboard_time": 1688477257,
       "rank": 35,
@@ -353,14 +361,6 @@
       "onboard_time": 1688442579,
       "rank": 20,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1140871,
-      "num": 504506,
-      "word": "男子两任妻子都查出宫颈癌",
-      "onboard_time": 1688476114,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1132388,
@@ -451,6 +451,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 991041,
+      "num": 921472,
+      "word": "何炅王嘉尔曾预言白敬亭宋轶",
+      "onboard_time": 1688478097,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 987433,
       "num": 987433,
       "word": "男子吃菌后看到冰块飘空中果断报警",
@@ -459,12 +467,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 961216,
-      "num": 670173,
-      "word": "何炅王嘉尔曾预言白敬亭宋轶",
-      "onboard_time": 1688478097,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 986713,
+      "num": 986713,
+      "word": "日本札幌一酒店惊现无头男尸",
+      "onboard_time": 1688477975,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 953927,
@@ -475,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 948992,
+      "num": 948992,
+      "word": "胡继勇被免去多项职务",
+      "onboard_time": 1688478937,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940079,
       "num": 940079,
       "word": "妻子回应男子起哄怂恿轻生者跳楼",
       "onboard_time": 1688444623,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 935194,
+      "num": 935194,
+      "word": "EDG 亚运野辅",
+      "onboard_time": 1688480321,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 927976,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 915791,
-      "num": 504233,
+      "num": 514040,
       "word": "生理期不能吃的水果",
       "onboard_time": 1688455536,
       "rank": 25,
@@ -571,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 848763,
+      "num": 848763,
+      "word": "不容易近视的人 睫状肌",
+      "onboard_time": 1688476295,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 841410,
       "num": 841410,
       "word": "TFBOYS不合体排练吗",
@@ -625,14 +657,6 @@
       "onboard_time": 1688454877,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 815272,
-      "num": 667757,
-      "word": "日本札幌一酒店惊现无头男尸",
-      "onboard_time": 1688477975,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 795189,
@@ -795,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 659939,
-      "num": 659939,
-      "word": "不容易近视的人 睫状肌",
-      "onboard_time": 1688476295,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 656189,
       "num": 656189,
       "word": "台湾网友跟着解放军用别瞎吵吵造句",
@@ -907,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 591656,
-      "num": 591656,
-      "word": "胡继勇被免去多项职务",
-      "onboard_time": 1688478937,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 571983,
       "num": 571983,
       "word": "EDG对战TT",
@@ -971,6 +979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 532595,
+      "num": 532595,
+      "word": "美依礼芽被蜗牛吓到尖叫",
+      "onboard_time": 1688478456,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 529001,
       "num": 529001,
       "word": "今晚的月亮格外大",
@@ -1016,14 +1032,6 @@
       "word": "砸锅卖铁去上学 影视化",
       "onboard_time": 1688476893,
       "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 502629,
-      "num": 502629,
-      "word": "美依礼芽被蜗牛吓到尖叫",
-      "onboard_time": 1688478456,
-      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -1323,6 +1331,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 380753,
+      "num": 380753,
+      "word": "meiko状态",
+      "onboard_time": 1688479782,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 379314,
       "num": 286560,
       "word": "PP猪的臭宝贝已报警",
@@ -1467,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328412,
+      "num": 328412,
+      "word": "中国好声音",
+      "onboard_time": 1688480200,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327543,
       "num": 327543,
       "word": "萌兰为啥是西直门三太子",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1688359492,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309488,
+      "num": 309488,
+      "word": "泽连斯基喊话拜登",
+      "onboard_time": 1688480260,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 308773,
@@ -1635,14 +1667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 293262,
-      "num": 293262,
-      "word": "meiko状态",
-      "onboard_time": 1688479782,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 292780,
       "num": 292780,
       "word": "5旬女子被00后喊阿姨后索赔2000",
@@ -1697,14 +1721,6 @@
       "onboard_time": 1688457336,
       "rank": 33,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 278792,
-      "num": 278792,
-      "word": "泽连斯基喊话拜登",
-      "onboard_time": 1688480260,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 278723,
@@ -1835,6 +1851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255556,
+      "num": 255556,
+      "word": "jiejie打野",
+      "onboard_time": 1688479963,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 255429,
       "num": 255429,
       "word": "怂恿跳楼者家属称全家抬不起头",
@@ -1865,6 +1889,14 @@
       "onboard_time": 1688428593,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251468,
+      "num": 251468,
+      "word": "公司解散领到26万补偿款",
+      "onboard_time": 1688481341,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 250505,
@@ -2155,14 +2187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213286,
-      "num": 213286,
-      "word": "jiejie打野",
-      "onboard_time": 1688479963,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 211808,
       "num": 211808,
       "word": "王楚然一天有三部剧要宣传",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1688480022,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211063,
+      "num": 211063,
+      "word": "玉骨遥值得追吗",
+      "onboard_time": 1688480441,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 208939,
@@ -2219,14 +2251,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 203967,
-      "num": 203967,
-      "word": "中国好声音",
-      "onboard_time": 1688480200,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203218,
       "num": 203218,
       "word": "曾黎肖战原来认识",
@@ -2257,6 +2281,14 @@
       "onboard_time": 1688455893,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 198818,
+      "num": 198818,
+      "word": "薛之谦腿怎么了",
+      "onboard_time": 1688481341,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 198124,
