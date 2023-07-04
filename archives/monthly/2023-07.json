@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688467182301,
+  "endTime": 1688469392200,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -1683,8 +1683,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 905365,
-      "num": 905365,
+      "raw_hot": 908302,
+      "num": 908302,
       "word": "宁艺卓被Ella三连问",
       "onboard_time": 1688465676,
       "rank": 15,
@@ -1913,6 +1913,14 @@
       "onboard_time": 1688137303,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 818821,
+      "num": 337616,
+      "word": "秦牛正威回应为了男友改名",
+      "onboard_time": 1688468973,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 817327,
@@ -2651,6 +2659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 648045,
+      "num": 648045,
+      "word": "古偶妆造天花板",
+      "onboard_time": 1688467058,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 645052,
       "num": 645052,
       "word": "刘耀文 张艺谋电影",
@@ -2827,6 +2843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 618100,
+      "num": 618100,
+      "word": "欧豪有12部待播剧",
+      "onboard_time": 1688468135,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 613488,
       "num": 411771,
       "word": "考研上岸了妈妈却叫我不要读",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1688442276,
       "rank": 12,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 608475,
+      "num": 608475,
+      "word": "刘诗诗巴黎时装周生图",
+      "onboard_time": 1688467058,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 606794,
@@ -3161,6 +3193,14 @@
       "onboard_time": 1688222676,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 549648,
+      "num": 549648,
+      "word": "把苹果咬成我买不起的样子",
+      "onboard_time": 1688465378,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 547332,
@@ -3587,6 +3627,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 490666,
+      "num": 490666,
+      "word": "朱一龙 散播清澈的好笑",
+      "onboard_time": 1688468674,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 490618,
       "num": 490618,
       "word": "陈建州风波后首露面",
@@ -3811,6 +3859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457620,
+      "num": 457620,
+      "word": "五月天深圳 开船",
+      "onboard_time": 1688466338,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456883,
       "num": 456883,
       "word": "日语N1",
@@ -3849,6 +3905,14 @@
       "onboard_time": 1688173649,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 453310,
+      "num": 2959463,
+      "word": "孙女帮八旬爷爷实现零食自由",
+      "onboard_time": 1688463457,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452714,
@@ -3923,20 +3987,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 445865,
+      "num": 445865,
+      "word": "红烧香蕉",
+      "onboard_time": 1688466158,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 444126,
       "num": 3848129,
       "word": "看大熊猫泡澡消暑效果100%",
       "onboard_time": 1688294614,
       "rank": 1,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 444090,
-      "num": 2959463,
-      "word": "孙女帮八旬爷爷实现零食自由",
-      "onboard_time": 1688463457,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444020,
@@ -4097,14 +4161,6 @@
       "onboard_time": 1688222197,
       "rank": 23,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 422717,
-      "num": 422717,
-      "word": "五月天深圳 开船",
-      "onboard_time": 1688466338,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 421470,
@@ -4427,6 +4483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388263,
+      "num": 388263,
+      "word": "伊朗正式加入上合组织",
+      "onboard_time": 1688468198,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 388246,
       "num": 388246,
       "word": "对方撤回了一个冰淇淋",
@@ -4441,6 +4505,14 @@
       "onboard_time": 1688303380,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386498,
+      "num": 386498,
+      "word": "被逼吃屎是怎么和解的",
+      "onboard_time": 1688467715,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384036,
@@ -4683,14 +4755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362042,
-      "num": 321412,
-      "word": "把苹果咬成我买不起的样子",
-      "onboard_time": 1688465378,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 362002,
       "num": 362002,
       "word": "赵露思回应被说圆脸",
@@ -4793,6 +4857,14 @@
       "onboard_time": 1688279371,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354136,
+      "num": 354136,
+      "word": "云之羽过审",
+      "onboard_time": 1688468556,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 353902,
@@ -4947,6 +5019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341245,
+      "num": 337445,
+      "word": "禾野 我画林克是画自己喜欢的",
+      "onboard_time": 1688467418,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 340796,
       "num": 340796,
       "word": "毕业礼遇雨西交大书记为校长撑伞",
@@ -4995,12 +5075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337006,
+      "num": 337006,
+      "word": "高远二姨怎么了",
+      "onboard_time": 1688468494,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334443,
       "num": 296423,
       "word": "林俊杰直播",
       "onboard_time": 1688388277,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 333796,
+      "num": 1064533,
+      "word": "民警接过一支烟救下一条命",
+      "onboard_time": 1688457696,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333727,
@@ -5243,6 +5339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319745,
+      "num": 319745,
+      "word": "高铁上差点被前桌喂饱了",
+      "onboard_time": 1688466457,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 319510,
       "num": 319510,
       "word": "王者荣耀",
@@ -5296,14 +5400,6 @@
       "word": "没房贷的下属",
       "onboard_time": 1688395666,
       "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 315900,
-      "num": 315900,
-      "word": "高铁上差点被前桌喂饱了",
-      "onboard_time": 1688466457,
-      "rank": 32,
       "category": "幽默"
     },
     {
@@ -5689,14 +5785,6 @@
       "onboard_time": 1688311657,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294632,
-      "num": 1064533,
-      "word": "民警接过一支烟救下一条命",
-      "onboard_time": 1688457696,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294548,
@@ -6091,6 +6179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272591,
+      "num": 272591,
+      "word": "女子地铁上控诉男孩摸她屁股遭家人反呛",
+      "onboard_time": 1688466338,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272567,
       "num": 272567,
       "word": "学校把期末成绩发给家长了",
@@ -6147,14 +6243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270952,
-      "num": 270952,
-      "word": "女子地铁上控诉男孩摸她屁股遭家人反呛",
-      "onboard_time": 1688466338,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270590,
       "num": 241497,
       "word": "国家大剧院新时代经典作品音乐会",
@@ -6171,20 +6259,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269640,
+      "num": 269640,
+      "word": "黑执事 画风变丑",
+      "onboard_time": 1688468796,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 269552,
       "num": 269552,
       "word": "透明的山竹能吃吗",
       "onboard_time": 1688457399,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 269008,
-      "num": 269008,
-      "word": "刘诗诗巴黎时装周生图",
-      "onboard_time": 1688467058,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 267943,
@@ -6281,6 +6369,14 @@
       "onboard_time": 1688180492,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263705,
+      "num": 469799,
+      "word": "发现自己误成间谍帮手后主动投案",
+      "onboard_time": 1688468737,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262400,
@@ -6753,14 +6849,6 @@
       "onboard_time": 1688426668,
       "rank": 15,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 245793,
-      "num": 245793,
-      "word": "红烧香蕉",
-      "onboard_time": 1688466158,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 245421,
@@ -7259,14 +7347,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 224269,
-      "num": 224269,
-      "word": "古偶妆造天花板",
-      "onboard_time": 1688467058,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 224176,
       "num": 224176,
       "word": "面对恶意不要去当那只狗",
@@ -7313,6 +7393,14 @@
       "onboard_time": 1688453255,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 223223,
+      "num": 223223,
+      "word": "Hero限定雀斑证件照",
+      "onboard_time": 1688467715,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 222953,
@@ -7369,6 +7457,14 @@
       "onboard_time": 1688195491,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220949,
+      "num": 220949,
+      "word": "刘德华王宝强合唱八角笼中推广曲",
+      "onboard_time": 1688468494,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 220650,
@@ -9371,6 +9467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118136,
+      "num": 388083,
+      "word": "iQOO11S发布会",
+      "onboard_time": 1688467236,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 117301,
       "num": 117301,
       "word": "看得出来他真的不会说谎",
@@ -9476,7 +9580,7 @@
     },
     {
       "raw_hot": 97660,
-      "num": 247919,
+      "num": 354412,
       "word": "iQOO11S成亚运电竞官方用机",
       "onboard_time": 1688466756,
       "rank": 41,

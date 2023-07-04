@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688467182301,
+  "endTime": 1688469392200,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -915,8 +915,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 905365,
-      "num": 905365,
+      "raw_hot": 908302,
+      "num": 908302,
       "word": "宁艺卓被Ella三连问",
       "onboard_time": 1688465676,
       "rank": 15,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1688391636,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 818821,
+      "num": 337616,
+      "word": "秦牛正威回应为了男友改名",
+      "onboard_time": 1688468973,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 816261,
@@ -1379,6 +1387,14 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 648045,
+      "num": 648045,
+      "word": "古偶妆造天花板",
+      "onboard_time": 1688467058,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 645052,
       "num": 645052,
       "word": "香港警方悬红100万港元通缉许智峰等8人",
@@ -1427,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 618100,
+      "num": 618100,
+      "word": "欧豪有12部待播剧",
+      "onboard_time": 1688468135,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 613488,
       "num": 411771,
       "word": "考研上岸了妈妈却叫我不要读",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1688442276,
       "rank": 12,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 608475,
+      "num": 608475,
+      "word": "刘诗诗巴黎时装周生图",
+      "onboard_time": 1688467058,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 607105,
@@ -1561,6 +1593,14 @@
       "onboard_time": 1688430760,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 549648,
+      "num": 549648,
+      "word": "把苹果咬成我买不起的样子",
+      "onboard_time": 1688465378,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 547332,
@@ -1739,6 +1779,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 490666,
+      "num": 490666,
+      "word": "朱一龙 散播清澈的好笑",
+      "onboard_time": 1688468674,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 490351,
       "num": 490351,
       "word": "TFBOYS十周年能不能考虑下巡回",
@@ -1875,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457620,
+      "num": 457620,
+      "word": "五月天深圳 开船",
+      "onboard_time": 1688466338,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 455101,
       "num": 437777,
       "word": "原神",
@@ -1891,6 +1947,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 453310,
+      "num": 2959463,
+      "word": "孙女帮八旬爷爷实现零食自由",
+      "onboard_time": 1688463457,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451142,
       "num": 439452,
       "word": "韩素希ins评论区",
@@ -1899,12 +1963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 444090,
-      "num": 2959463,
-      "word": "孙女帮八旬爷爷实现零食自由",
-      "onboard_time": 1688463457,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 445865,
+      "num": 445865,
+      "word": "红烧香蕉",
+      "onboard_time": 1688466158,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 442411,
@@ -1953,14 +2017,6 @@
       "onboard_time": 1688454516,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422717,
-      "num": 422717,
-      "word": "五月天深圳 开船",
-      "onboard_time": 1688466338,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 421470,
@@ -2123,12 +2179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388263,
+      "num": 388263,
+      "word": "伊朗正式加入上合组织",
+      "onboard_time": 1688468198,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 388246,
       "num": 388246,
       "word": "对方撤回了一个冰淇淋",
       "onboard_time": 1688458358,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386498,
+      "num": 386498,
+      "word": "被逼吃屎是怎么和解的",
+      "onboard_time": 1688467715,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383616,
@@ -2227,14 +2299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362042,
-      "num": 321412,
-      "word": "把苹果咬成我买不起的样子",
-      "onboard_time": 1688465378,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 362002,
       "num": 362002,
       "word": "赵露思回应被说圆脸",
@@ -2288,6 +2352,14 @@
       "word": "电影燃冬定档七夕",
       "onboard_time": 1688351731,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 354136,
+      "num": 354136,
+      "word": "云之羽过审",
+      "onboard_time": 1688468556,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -2355,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341245,
+      "num": 337445,
+      "word": "禾野 我画林克是画自己喜欢的",
+      "onboard_time": 1688467418,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 339982,
       "num": 267670,
       "word": "这是桑延离真相最近的一次",
@@ -2379,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 337006,
+      "num": 337006,
+      "word": "高远二姨怎么了",
+      "onboard_time": 1688468494,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335652,
       "num": 335652,
       "word": "顾九思柳玉茹诀别吻",
@@ -2393,6 +2481,14 @@
       "onboard_time": 1688388277,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 333796,
+      "num": 1064533,
+      "word": "民警接过一支烟救下一条命",
+      "onboard_time": 1688457696,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333727,
@@ -2507,6 +2603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319745,
+      "num": 319745,
+      "word": "高铁上差点被前桌喂饱了",
+      "onboard_time": 1688466457,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318837,
       "num": 318837,
       "word": "老祖宗最知道怎么哄孩子",
@@ -2520,14 +2624,6 @@
       "word": "没房贷的下属",
       "onboard_time": 1688395666,
       "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 315900,
-      "num": 315900,
-      "word": "高铁上差点被前桌喂饱了",
-      "onboard_time": 1688466457,
-      "rank": 32,
       "category": "幽默"
     },
     {
@@ -2705,14 +2801,6 @@
       "onboard_time": 1688371843,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 294632,
-      "num": 1064533,
-      "word": "民警接过一支烟救下一条命",
-      "onboard_time": 1688457696,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294548,
@@ -2907,12 +2995,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270952,
-      "num": 270952,
+      "raw_hot": 272591,
+      "num": 272591,
       "word": "女子地铁上控诉男孩摸她屁股遭家人反呛",
       "onboard_time": 1688466338,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269640,
+      "num": 269640,
+      "word": "黑执事 画风变丑",
+      "onboard_time": 1688468796,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 269552,
@@ -2929,14 +3025,6 @@
       "onboard_time": 1688381743,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269008,
-      "num": 269008,
-      "word": "刘诗诗巴黎时装周生图",
-      "onboard_time": 1688467058,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 267943,
@@ -2977,6 +3065,14 @@
       "onboard_time": 1688454997,
       "rank": 46,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 263705,
+      "num": 469799,
+      "word": "发现自己误成间谍帮手后主动投案",
+      "onboard_time": 1688468737,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261473,
@@ -3145,14 +3241,6 @@
       "onboard_time": 1688426668,
       "rank": 15,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 245793,
-      "num": 245793,
-      "word": "红烧香蕉",
-      "onboard_time": 1688466158,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 245421,
@@ -3387,14 +3475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224269,
-      "num": 224269,
-      "word": "古偶妆造天花板",
-      "onboard_time": 1688467058,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 224176,
       "num": 224176,
       "word": "面对恶意不要去当那只狗",
@@ -3427,6 +3507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 223223,
+      "num": 223223,
+      "word": "Hero限定雀斑证件照",
+      "onboard_time": 1688467715,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222671,
       "num": 222671,
       "word": "长安三万里 将进酒",
@@ -3441,6 +3529,14 @@
       "onboard_time": 1688455654,
       "rank": 42,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 220949,
+      "num": 220949,
+      "word": "刘德华王宝强合唱八角笼中推广曲",
+      "onboard_time": 1688468494,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 220534,
@@ -4443,6 +4539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118136,
+      "num": 388083,
+      "word": "iQOO11S发布会",
+      "onboard_time": 1688467236,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 117301,
       "num": 117301,
       "word": "看得出来他真的不会说谎",
@@ -4492,7 +4596,7 @@
     },
     {
       "raw_hot": 97660,
-      "num": 247919,
+      "num": 354412,
       "word": "iQOO11S成亚运电竞官方用机",
       "onboard_time": 1688466756,
       "rank": 41,
