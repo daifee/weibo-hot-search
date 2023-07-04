@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688492167435,
+  "endTime": 1688495114921,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -5321,6 +5321,14 @@
       "onboard_time": 1688316326,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81546,
+      "num": 81546,
+      "word": "freenbecky",
+      "onboard_time": 1688492656,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 79928,

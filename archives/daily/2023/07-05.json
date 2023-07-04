@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688492167435,
+  "endTime": 1688495114921,
   "band_list": [
     {
       "raw_hot": 1480616,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 81546,
+      "num": 81546,
+      "word": "freenbecky",
+      "onboard_time": 1688492656,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 72851,
       "num": 72851,
       "word": "要有足够的悲伤才能忍住不哭",
@@ -433,6 +441,14 @@
       "onboard_time": 1688475692,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33541,
+      "num": 52756,
+      "word": "一见茹顾三次圆房",
+      "onboard_time": 1688481461,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 19059,
