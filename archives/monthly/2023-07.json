@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688459948955,
+  "endTime": 1688462395644,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -169,6 +169,14 @@
       "onboard_time": 1688201312,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3793938,
+      "num": 3793938,
+      "word": "男生被要28万8彩礼写信给县长求整治",
+      "onboard_time": 1688457874,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3693389,
@@ -376,14 +384,6 @@
       "word": "女游客左腿被绞入自动步道传送带现场截肢保命",
       "onboard_time": 1688194771,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2334327,
-      "num": 2334327,
-      "word": "男生被要28万8彩礼写信给县长求整治",
-      "onboard_time": 1688457874,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -915,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1340834,
+      "num": 395405,
+      "word": "迪丽热巴的蓝色挑染",
+      "onboard_time": 1688460577,
+      "rank": 20,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1336526,
       "num": 1336526,
       "word": "王楚钦世界排名第一",
@@ -976,6 +984,14 @@
       "word": "花花和叶3岁生日合照",
       "onboard_time": 1688441676,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1274613,
+      "num": 1274613,
+      "word": "牵手门涉事男领导仍担任企业高管",
+      "onboard_time": 1688460754,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1401,6 +1417,14 @@
       "onboard_time": 1688430098,
       "rank": 5,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 994071,
+      "num": 567449,
+      "word": "短发女警刘欣走了",
+      "onboard_time": 1688457156,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 991975,
@@ -2395,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 670078,
+      "num": 458400,
+      "word": "入职一年送走了41位同事",
+      "onboard_time": 1688457756,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 670032,
       "num": 670032,
       "word": "柳玉茹的情敌出现了",
@@ -3091,14 +3123,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 543124,
-      "num": 543124,
-      "word": "短发女警刘欣走了",
-      "onboard_time": 1688457156,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543033,
       "num": 491365,
       "word": "肖战香港vlog",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1688354734,
       "rank": 41,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 527993,
+      "num": 527993,
+      "word": "YGSMTOWNHYBE进行现场调查",
+      "onboard_time": 1688460577,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 527940,
@@ -3251,6 +3283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 516002,
+      "num": 368104,
+      "word": "考研上岸了妈妈却叫我不要读",
+      "onboard_time": 1688461416,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 515427,
       "num": 515427,
       "word": "九尾狐设计",
@@ -3289,14 +3329,6 @@
       "onboard_time": 1688213789,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 513041,
-      "num": 458400,
-      "word": "入职一年送走了41位同事",
-      "onboard_time": 1688457756,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 512382,
@@ -3931,6 +3963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434430,
+      "num": 434430,
+      "word": "肖战片场公主抱任敏",
+      "onboard_time": 1688461535,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433005,
       "num": 272862,
       "word": "对带孩子出行家庭的宽容度",
@@ -4185,6 +4225,14 @@
       "onboard_time": 1688293655,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396903,
+      "num": 396903,
+      "word": "杨洋王楚然荧幕初吻都给了马思纯",
+      "onboard_time": 1688461597,
+      "rank": 19,
+      "category": "影视,影视"
     },
     {
       "raw_hot": 396586,
@@ -4553,6 +4601,14 @@
       "onboard_time": 1688340867,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360189,
+      "num": 360189,
+      "word": "王一博新电影叫小沈阳谢哥",
+      "onboard_time": 1688460155,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 360152,
@@ -5235,6 +5291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305987,
+      "num": 305987,
+      "word": "比失业还可怕的是什么",
+      "onboard_time": 1688461956,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305503,
       "num": 305503,
       "word": "HR让我面试帮忙带杯冰美式",
@@ -5427,6 +5491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295986,
+      "num": 295986,
+      "word": "桑稚实习被欺负",
+      "onboard_time": 1688460216,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295804,
       "num": 275643,
       "word": "泡脚竟然还能变白",
@@ -5569,6 +5641,14 @@
       "onboard_time": 1688303497,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289084,
+      "num": 289084,
+      "word": "王嘉尔官宣加盟舞台2023",
+      "onboard_time": 1688461358,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 288127,
@@ -5995,8 +6075,8 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 265405,
-      "num": 265405,
+      "raw_hot": 265476,
+      "num": 265476,
       "word": "杨紫说长相思有节点意义",
       "onboard_time": 1688458835,
       "rank": 36,
@@ -7571,6 +7651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205267,
+      "num": 205267,
+      "word": "来大连必吃的苍蝇馆子",
+      "onboard_time": 1688459674,
+      "rank": 47,
+      "category": "美食,旅游"
+    },
+    {
       "raw_hot": 205218,
       "num": 205218,
       "word": "AG对战LGD",
@@ -7649,6 +7737,14 @@
       "onboard_time": 1688192492,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201645,
+      "num": 201645,
+      "word": "酒桌上的人情世故能有多卷",
+      "onboard_time": 1688461716,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 201596,
@@ -7923,6 +8019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191000,
+      "num": 191000,
+      "word": "中方回应越南因南海九段线禁映芭比",
+      "onboard_time": 1688462319,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 190766,
       "num": 190766,
       "word": "小伙头发还没冲干净跑步加入救人队伍",
@@ -8089,14 +8193,6 @@
       "onboard_time": 1688210311,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187534,
-      "num": 187534,
-      "word": "来大连必吃的苍蝇馆子",
-      "onboard_time": 1688459674,
-      "rank": 47,
-      "category": "美食,旅游"
     },
     {
       "raw_hot": 187154,
