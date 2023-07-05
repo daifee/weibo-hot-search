@@ -1,0 +1,410 @@
+{
+  "runTime": 1688567877695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 26546079,
+        "num": 26546079,
+        "word": "李玟去世",
+        "onboard_time": 1688563418,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20564090,
+        "num": 20564090,
+        "word": "快告诉我是假的",
+        "onboard_time": 1688564730,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463902,
+        "num": 5137376,
+        "word": "驰援重庆暴雨的武警官兵辛苦了",
+        "onboard_time": 1688557774,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15214061,
+        "num": 15214061,
+        "word": "李玟抑郁症",
+        "onboard_time": 1688563909,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8872941,
+        "num": 3034785,
+        "word": "李玟老公",
+        "onboard_time": 1688565287,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7706331,
+        "num": 2135101,
+        "word": "韩红首次公开回应被举报",
+        "onboard_time": 1688561790,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1219038,
+        "num": 1219038,
+        "word": "圆肩驼背探颈是种病",
+        "onboard_time": 1688558316,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065947,
+        "num": 1065947,
+        "word": "2年被家暴16次女子希望判丈夫死刑",
+        "onboard_time": 1688564861,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771891,
+        "num": 771891,
+        "word": "中国的年轻人没有客厅",
+        "onboard_time": 1688554772,
+        "rank": 8,
+        "category": "情感,游戏"
+      },
+      {
+        "raw_hot": 762315,
+        "num": 762315,
+        "word": "断崖式分手",
+        "onboard_time": 1688547271,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 6184832,
+        "num": 751814,
+        "word": "你留下的爱",
+        "onboard_time": 1688564730,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 4296379,
+        "num": 726334,
+        "word": "邓紫棋 我会一直想念你",
+        "onboard_time": 1688566287,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3389479,
+        "num": 719627,
+        "word": "李玟最近还给粉丝录了语音",
+        "onboard_time": 1688565770,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1425898,
+        "num": 704959,
+        "word": "印尼57岁男子性侵女儿9年产7子",
+        "onboard_time": 1688546674,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686355,
+        "num": 686355,
+        "word": "女子不穿内裤试衣隔天要求退换遭拒",
+        "onboard_time": 1688538095,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3016754,
+        "num": 676876,
+        "word": "我心中的刀马旦",
+        "onboard_time": 1688565039,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2235828,
+        "num": 671563,
+        "word": "姐姐走好",
+        "onboard_time": 1688564978,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639970,
+        "num": 639970,
+        "word": "坐高铁最好不要趴小桌板上",
+        "onboard_time": 1688554295,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 588761,
+        "num": 588761,
+        "word": "淄博烧烤怎么样了",
+        "onboard_time": 1688544453,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 505770,
+        "num": 505770,
+        "word": "硕士毕业10年被查出论文剽窃",
+        "onboard_time": 1688550812,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1943801,
+        "num": 499620,
+        "word": "永远的滴答滴",
+        "onboard_time": 1688565665,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1764177,
+        "num": 489429,
+        "word": "天后殒落 世上再无月光爱人",
+        "onboard_time": 1688567008,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969329,
+        "num": 479961,
+        "word": "乐观的悲观主义者",
+        "onboard_time": 1688566616,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 697455,
+        "num": 465919,
+        "word": "17岁女孩看不孕门诊",
+        "onboard_time": 1688559271,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465352,
+        "num": 465352,
+        "word": "姑娘每天放屁数十次确诊肠癌晚期",
+        "onboard_time": 1688557352,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126475,
+        "num": 461283,
+        "word": "TFBOYS再不官宣就不礼貌了",
+        "onboard_time": 1688556332,
+        "rank": 25,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 1116817,
+        "num": 455970,
+        "word": "李玟手术",
+        "onboard_time": 1688567567,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1071657,
+        "num": 449225,
+        "word": "光渊下架",
+        "onboard_time": 1688552013,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1035831,
+        "num": 439263,
+        "word": "刘雯穿几十斤重锁链裙走秀",
+        "onboard_time": 1688561012,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 437050,
+        "num": 437050,
+        "word": "座头鲸妈妈把乳汁喷射到宝宝口中",
+        "onboard_time": 1688563565,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920452,
+        "num": 415995,
+        "word": "清华硫酸泼熊学生成中科院副研究员",
+        "onboard_time": 1688547093,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877038,
+        "num": 401119,
+        "word": "感觉才看了李玟刘聪的舞台",
+        "onboard_time": 1688567304,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639283,
+        "num": 392249,
+        "word": "谁给杨幂做的发型",
+        "onboard_time": 1688556273,
+        "rank": 32,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 354660,
+        "num": 354660,
+        "word": "扫码点餐 泄露电话号",
+        "onboard_time": 1688563632,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354370,
+        "num": 354370,
+        "word": "中考满分760我考了753",
+        "onboard_time": 1688541274,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 552530,
+        "num": 350112,
+        "word": "王栎鑫前妻否认拿7位数抚养费",
+        "onboard_time": 1688543194,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497002,
+        "num": 349809,
+        "word": "刘昊然露额头好帅",
+        "onboard_time": 1688557410,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332060,
+        "num": 332060,
+        "word": "周润发确诊新冠",
+        "onboard_time": 1688541935,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 288129,
+        "num": 331431,
+        "word": "上万只燕子在宁波小渔村电线上过夜",
+        "onboard_time": 1688567401,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255764,
+        "num": 329580,
+        "word": "唱倒带为什么不会跑调",
+        "onboard_time": 1688561252,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420329,
+        "num": 326938,
+        "word": "肖战最有cp感的女主",
+        "onboard_time": 1688555554,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416569,
+        "num": 324683,
+        "word": "凌不疑接嫋嫋vs段嘉许接桑稚",
+        "onboard_time": 1688558489,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354884,
+        "num": 322325,
+        "word": "玉骨遥",
+        "onboard_time": 1688566966,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368923,
+        "num": 320746,
+        "word": "赵露思陈哲远沙发40秒拥吻",
+        "onboard_time": 1688554772,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319357,
+        "num": 319357,
+        "word": "肖战任敏水下吻",
+        "onboard_time": 1688546674,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317875,
+        "num": 317875,
+        "word": "papi酱 如果看剧也是一门课",
+        "onboard_time": 1688558193,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249396,
+        "num": 316621,
+        "word": "没有一只鸡会被热死在天津高速上",
+        "onboard_time": 1688565770,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 184824,
+        "num": 314160,
+        "word": "新疆导游小祁的团期排到了10月份",
+        "onboard_time": 1688565713,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 100893,
+        "num": 313057,
+        "word": "BLG对战TES",
+        "onboard_time": 1688558792,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93855,
+        "num": 309977,
+        "word": "全麦蓝莓小餐包",
+        "onboard_time": 1688567451,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织如何回应国际社会期待#"
+    }
+  }
+}
