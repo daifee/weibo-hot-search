@@ -1,0 +1,410 @@
+{
+  "runTime": 1688528593088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5269570,
+        "num": 5269570,
+        "word": "阿雅工作室发检测报告",
+        "onboard_time": 1688527316,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1973298,
+        "num": 1973298,
+        "word": "原副市长妻子打人耳光成习惯",
+        "onboard_time": 1688522669,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23485,
+        "num": 1581616,
+        "word": "这段交通安全宣传片看得有点上头",
+        "onboard_time": 1688470055,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286939,
+        "num": 1286939,
+        "word": "现在该大小S有压力了",
+        "onboard_time": 1688527658,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1151122,
+        "num": 1151122,
+        "word": "倪妮在干什么",
+        "onboard_time": 1688524716,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 935815,
+        "num": 935815,
+        "word": "肖战迪丽热巴合作一部古偶吧",
+        "onboard_time": 1688527476,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 671525,
+        "num": 671525,
+        "word": "舞台2023歌手阵容官宣",
+        "onboard_time": 1688525434,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590333,
+        "num": 590333,
+        "word": "学生恶意篡改同学高考志愿被行拘",
+        "onboard_time": 1688521830,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 572315,
+        "num": 572315,
+        "word": "世界气象组织确认厄尔尼诺出现",
+        "onboard_time": 1688525374,
+        "rank": 8,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 456413,
+        "num": 456413,
+        "word": "iPhone15系列电池容量曝光",
+        "onboard_time": 1688520870,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1165349,
+        "num": 454867,
+        "word": "法院判定王力宏李靓蕾离婚获准",
+        "onboard_time": 1688519615,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799856,
+        "num": 450004,
+        "word": "当老公知道前男友随礼5000",
+        "onboard_time": 1688516914,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 657151,
+        "num": 447120,
+        "word": "赵丽颖张睿演过新还珠格格",
+        "onboard_time": 1688525616,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 653827,
+        "num": 442785,
+        "word": "工作八年的工资被父母拿走",
+        "onboard_time": 1688516914,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 633908,
+        "num": 440970,
+        "word": "官方回应山东一辅警接连杀害两名女性",
+        "onboard_time": 1688526580,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548132,
+        "num": 436944,
+        "word": "当我飞奔向你",
+        "onboard_time": 1688526519,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487636,
+        "num": 431325,
+        "word": "起猛了看见韩栋抱肖战",
+        "onboard_time": 1688522133,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431027,
+        "num": 431027,
+        "word": "原来银行并不是五点下班",
+        "onboard_time": 1688516255,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1110208,
+        "num": 429182,
+        "word": "马保国",
+        "onboard_time": 1688525313,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 403370,
+        "num": 403370,
+        "word": "青岛巧克力大爷救人嘎嘎猛",
+        "onboard_time": 1688523814,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2002749,
+        "num": 397910,
+        "word": "北京政法职业学院",
+        "onboard_time": 1688524232,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740886,
+        "num": 392727,
+        "word": "18万钻戒和18万黄金选哪个",
+        "onboard_time": 1688527476,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 570584,
+        "num": 380491,
+        "word": "美国女网红直播睡觉月入1447万",
+        "onboard_time": 1688522133,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 529963,
+        "num": 375941,
+        "word": "不要给孩子吃太多水果了",
+        "onboard_time": 1688524657,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 372062,
+        "num": 372062,
+        "word": "为何放弃入学的研究生越来越多",
+        "onboard_time": 1688522732,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 350168,
+        "num": 350168,
+        "word": "杨颖王楚然任敏连播两部剧",
+        "onboard_time": 1688524896,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349678,
+        "num": 349678,
+        "word": "姚译添对郑恺的嘱咐",
+        "onboard_time": 1688521112,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1654272,
+        "num": 349025,
+        "word": "李敬言 退学",
+        "onboard_time": 1688519853,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347097,
+        "num": 347097,
+        "word": "虞书欣我是esther",
+        "onboard_time": 1688524354,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339502,
+        "num": 339502,
+        "word": "邓紫棋官宣加盟中国说唱巅峰对决",
+        "onboard_time": 1688527718,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326689,
+        "num": 326689,
+        "word": "嘴角很明显的一块凸起是什么",
+        "onboard_time": 1688517815,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305018,
+        "num": 305018,
+        "word": "有个会流白色眼泪的女友有多酷",
+        "onboard_time": 1688523453,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 279150,
+        "num": 279150,
+        "word": "安崎新综艺宣发",
+        "onboard_time": 1688528017,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265156,
+        "num": 265156,
+        "word": "Angelababy新剧眼中含泪",
+        "onboard_time": 1688522611,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259548,
+        "num": 259548,
+        "word": "拆个家把自己拆瘸的小猫",
+        "onboard_time": 1688526399,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248131,
+        "num": 248131,
+        "word": "太原万象城",
+        "onboard_time": 1688521712,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246582,
+        "num": 246582,
+        "word": "终于等到桑延暴扣段嘉许了",
+        "onboard_time": 1688524594,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245467,
+        "num": 245467,
+        "word": "白敬亭回应为什么最近回复的少",
+        "onboard_time": 1688528074,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241566,
+        "num": 241566,
+        "word": "在欧洲企业加班之后被经理暗示了",
+        "onboard_time": 1688526519,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235803,
+        "num": 235803,
+        "word": "考研和考编同时上岸怎么选",
+        "onboard_time": 1688511982,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 224234,
+        "num": 224234,
+        "word": "白敬亭今年没有问答案之书桃花了",
+        "onboard_time": 1688520094,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215382,
+        "num": 215382,
+        "word": "两年不上班的感受",
+        "onboard_time": 1688517631,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214383,
+        "num": 214383,
+        "word": "战至巅峰",
+        "onboard_time": 1688527774,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212886,
+        "num": 212886,
+        "word": "高考后向喜欢十年的男生坦白了",
+        "onboard_time": 1688526159,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212700,
+        "num": 212700,
+        "word": "杨紫杂志销量统计",
+        "onboard_time": 1688523935,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204960,
+        "num": 204960,
+        "word": "现在的动画画风",
+        "onboard_time": 1688525857,
+        "rank": 45,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 203287,
+        "num": 203287,
+        "word": "被亲戚要求给他的孩子补课",
+        "onboard_time": 1688522011,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193950,
+        "num": 193950,
+        "word": "郑秀晶姚晨同框",
+        "onboard_time": 1688522912,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189988,
+        "num": 189988,
+        "word": "你家会整夜开空调吗",
+        "onboard_time": 1688511740,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165423,
+        "num": 189954,
+        "word": "原神3.8",
+        "onboard_time": 1688527060,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席上海合作组织成员国元首理事会第二十三次会议#"
+    }
+  }
+}
