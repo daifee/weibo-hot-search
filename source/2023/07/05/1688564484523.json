@@ -1,0 +1,410 @@
+{
+  "runTime": 1688564484523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 50503069,
+        "num": 50503069,
+        "word": "李玟去世",
+        "onboard_time": 1688563418,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5921230,
+        "num": 5921230,
+        "word": "韩红首次公开回应被举报",
+        "onboard_time": 1688561790,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245120,
+        "num": 4019995,
+        "word": "驰援重庆暴雨的武警官兵辛苦了",
+        "onboard_time": 1688557774,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35101533,
+        "num": 3529302,
+        "word": "李玟抑郁症",
+        "onboard_time": 1688563909,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2358511,
+        "num": 2358511,
+        "word": "TFBOYS再不官宣就不礼貌了",
+        "onboard_time": 1688556332,
+        "rank": 4,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 2013096,
+        "num": 2013096,
+        "word": "刘雯穿几十斤重锁链裙走秀",
+        "onboard_time": 1688561012,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1372611,
+        "num": 1372611,
+        "word": "圆肩驼背探颈是种病",
+        "onboard_time": 1688558316,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044324,
+        "num": 1044324,
+        "word": "硕士毕业10年被查出论文剽窃",
+        "onboard_time": 1688550812,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 856468,
+        "num": 856468,
+        "word": "坐高铁最好不要趴小桌板上",
+        "onboard_time": 1688554295,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 685485,
+        "num": 685485,
+        "word": "断崖式分手",
+        "onboard_time": 1688547271,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1491911,
+        "num": 682367,
+        "word": "光渊下架",
+        "onboard_time": 1688552013,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1347111,
+        "num": 637980,
+        "word": "印尼57岁男子性侵女儿9年产7子",
+        "onboard_time": 1688546674,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076557,
+        "num": 629066,
+        "word": "女子不穿内裤试衣隔天要求退换遭拒",
+        "onboard_time": 1688538095,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021257,
+        "num": 602552,
+        "word": "谁给杨幂做的发型",
+        "onboard_time": 1688556273,
+        "rank": 13,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 902146,
+        "num": 584209,
+        "word": "papi酱 如果看剧也是一门课",
+        "onboard_time": 1688558193,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 779841,
+        "num": 551309,
+        "word": "凌不疑接嫋嫋vs段嘉许接桑稚",
+        "onboard_time": 1688558489,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 743839,
+        "num": 531959,
+        "word": "刘昊然露额头好帅",
+        "onboard_time": 1688557410,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 511357,
+        "num": 511357,
+        "word": "中国的年轻人没有客厅",
+        "onboard_time": 1688554772,
+        "rank": 17,
+        "category": "情感,游戏"
+      },
+      {
+        "raw_hot": 454121,
+        "num": 454121,
+        "word": "淄博烧烤怎么样了",
+        "onboard_time": 1688544453,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 381550,
+        "num": 381550,
+        "word": "兼职生好像不知道我是老板",
+        "onboard_time": 1688558853,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1522645,
+        "num": 364415,
+        "word": "姑娘每天放屁数十次确诊肠癌晚期",
+        "onboard_time": 1688557352,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700651,
+        "num": 359155,
+        "word": "肖战最有cp感的女主",
+        "onboard_time": 1688555554,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489736,
+        "num": 354626,
+        "word": "王栎鑫前妻否认拿7位数抚养费",
+        "onboard_time": 1688543194,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341395,
+        "num": 341395,
+        "word": "我的神仙同事离职了",
+        "onboard_time": 1688542233,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340372,
+        "num": 340372,
+        "word": "17岁女孩看不孕门诊",
+        "onboard_time": 1688559271,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452359,
+        "num": 339249,
+        "word": "这就是热恋期的小情侣吗",
+        "onboard_time": 1688558131,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370551,
+        "num": 337657,
+        "word": "TFBOYS团粉可以站起来了",
+        "onboard_time": 1688562092,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444498,
+        "num": 337097,
+        "word": "赵露思陈哲远沙发40秒拥吻",
+        "onboard_time": 1688554772,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334936,
+        "num": 334936,
+        "word": "唱倒带为什么不会跑调",
+        "onboard_time": 1688561252,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326029,
+        "num": 326029,
+        "word": "扫码点餐 泄露电话号",
+        "onboard_time": 1688563632,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476701,
+        "num": 321516,
+        "word": "清华硫酸泼熊学生成中科院副研究员",
+        "onboard_time": 1688547093,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349161,
+        "num": 319500,
+        "word": "那皓衣行左肩有你烽火流金怎么办",
+        "onboard_time": 1688557952,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337970,
+        "num": 317630,
+        "word": "我的人间烟火",
+        "onboard_time": 1688559575,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312993,
+        "num": 312993,
+        "word": "SMTOWN回应金泰妍粉丝",
+        "onboard_time": 1688559753,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277767,
+        "num": 277767,
+        "word": "中考满分760我考了753",
+        "onboard_time": 1688541274,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 276976,
+        "num": 276976,
+        "word": "座头鲸妈妈把乳汁喷射到宝宝口中",
+        "onboard_time": 1688563565,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267001,
+        "num": 267001,
+        "word": "玉骨遥直接跳到第8集",
+        "onboard_time": 1688551774,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266642,
+        "num": 266642,
+        "word": "消失的她实时票房破26亿",
+        "onboard_time": 1688557652,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245559,
+        "num": 245559,
+        "word": "妈妈用自己的头发给女儿做了假发",
+        "onboard_time": 1688561613,
+        "rank": 38,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 208153,
+        "num": 208153,
+        "word": "BLG对战TES",
+        "onboard_time": 1688558792,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 936248,
+        "num": 207995,
+        "word": "狗头萝莉 美丽并不可耻",
+        "onboard_time": 1688554713,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260404,
+        "num": 206356,
+        "word": "桑延好直给的爱",
+        "onboard_time": 1688563295,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214616,
+        "num": 205368,
+        "word": "刘宇宁直播",
+        "onboard_time": 1688564438,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203675,
+        "num": 203675,
+        "word": "台媒评肖战时影哭戏",
+        "onboard_time": 1688549917,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194837,
+        "num": 194837,
+        "word": "追光的日子",
+        "onboard_time": 1688564324,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192469,
+        "num": 192469,
+        "word": "张耀谈与杨紫合作",
+        "onboard_time": 1688560590,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179831,
+        "num": 179831,
+        "word": "近距离观察日本对虾产卵",
+        "onboard_time": 1688564261,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157535,
+        "num": 175461,
+        "word": "吸盘碗的质检工作",
+        "onboard_time": 1688563773,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155420,
+        "num": 174366,
+        "word": "Faker因伤暂离赛场",
+        "onboard_time": 1688549135,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145063,
+        "num": 173664,
+        "word": "BLG零封TES",
+        "onboard_time": 1688562931,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}

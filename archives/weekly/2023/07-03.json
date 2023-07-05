@@ -1,13 +1,21 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688563876501,
+  "endTime": 1688564484523,
   "band_list": [
     {
-      "raw_hot": 36451616,
-      "num": 36451616,
+      "raw_hot": 50503069,
+      "num": 50503069,
       "word": "李玟去世",
       "onboard_time": 1688563418,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35101533,
+      "num": 3529302,
+      "word": "李玟抑郁症",
+      "onboard_time": 1688563909,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -99,6 +107,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 5921230,
+      "num": 5921230,
+      "word": "韩红首次公开回应被举报",
+      "onboard_time": 1688561790,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5619700,
       "num": 5619700,
       "word": "369",
@@ -152,14 +168,6 @@
       "word": "韩媒曝李俊昊林允儿恋情",
       "onboard_time": 1688352872,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4306038,
-      "num": 4306038,
-      "word": "韩红首次公开回应被举报",
-      "onboard_time": 1688561790,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2358511,
+      "num": 2358511,
+      "word": "TFBOYS再不官宣就不礼貌了",
+      "onboard_time": 1688556332,
+      "rank": 19,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 2344347,
       "num": 357906,
       "word": "21岁姑娘新婚初夜出血1500ml",
@@ -401,14 +417,6 @@
       "onboard_time": 1688391403,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2216097,
-      "num": 2216097,
-      "word": "TFBOYS再不官宣就不礼貌了",
-      "onboard_time": 1688556332,
-      "rank": 19,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 2213867,
@@ -481,6 +489,14 @@
       "onboard_time": 1688519615,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2013096,
+      "num": 2013096,
+      "word": "刘雯穿几十斤重锁链裙走秀",
+      "onboard_time": 1688561012,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1999057,
@@ -619,14 +635,6 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 1721898,
-      "num": 1721898,
-      "word": "刘雯穿几十斤重锁链裙走秀",
-      "onboard_time": 1688561012,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1701475,
       "num": 1701475,
       "word": "中考满分760我考了753",
@@ -688,6 +696,14 @@
       "word": "缅甸逃回男子忆水牢满地是血",
       "onboard_time": 1688351070,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1522645,
+      "num": 471163,
+      "word": "姑娘每天放屁数十次确诊肠癌晚期",
+      "onboard_time": 1688557352,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1372611,
+      "num": 1372611,
+      "word": "圆肩驼背探颈是种病",
+      "onboard_time": 1688558316,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1359044,
       "num": 399300,
       "word": "肖战是靠什么长红多年的",
@@ -808,6 +832,14 @@
       "word": "官方通报小男孩被逼吃粪便",
       "onboard_time": 1688299475,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1347111,
+      "num": 827631,
+      "word": "印尼57岁男子性侵女儿9年产7子",
+      "onboard_time": 1688546674,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -848,14 +880,6 @@
       "word": "花花和叶3岁生日合照",
       "onboard_time": 1688441676,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1263367,
-      "num": 827631,
-      "word": "印尼57岁男子性侵女儿9年产7子",
-      "onboard_time": 1688546674,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1203,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1045330,
-      "num": 471163,
-      "word": "姑娘每天放屁数十次确诊肠癌晚期",
-      "onboard_time": 1688557352,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1043895,
       "num": 1043895,
       "word": "原来银行并不是五点下班",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1688447143,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1036989,
-      "num": 1036989,
-      "word": "圆肩驼背探颈是种病",
-      "onboard_time": 1688558316,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1034954,
@@ -1803,6 +1811,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 779841,
+      "num": 737650,
+      "word": "凌不疑接嫋嫋vs段嘉许接桑稚",
+      "onboard_time": 1688558489,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 778894,
       "num": 778894,
       "word": "为什么有钱人更容易保持身材",
@@ -1824,14 +1840,6 @@
       "word": "肖战最有cp感的女主",
       "onboard_time": 1688555554,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 775352,
-      "num": 737650,
-      "word": "凌不疑接嫋嫋vs段嘉许接桑稚",
-      "onboard_time": 1688558489,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -3627,6 +3635,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 381550,
+      "num": 381550,
+      "word": "兼职生好像不知道我是老板",
+      "onboard_time": 1688558853,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 381230,
       "num": 381230,
       "word": "Jennie音乐节彩排视频",
@@ -3705,6 +3721,14 @@
       "onboard_time": 1688529158,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 370551,
+      "num": 337657,
+      "word": "TFBOYS团粉可以站起来了",
+      "onboard_time": 1688562092,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 369671,
@@ -3987,14 +4011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343718,
-      "num": 277662,
-      "word": "兼职生好像不知道我是老板",
-      "onboard_time": 1688558853,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 342215,
       "num": 342215,
       "word": "北电脸上戏脸中戏脸",
@@ -4059,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337970,
+      "num": 317630,
+      "word": "我的人间烟火",
+      "onboard_time": 1688513006,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337006,
       "num": 337006,
       "word": "高远二姨怎么了",
@@ -4089,6 +4113,14 @@
       "onboard_time": 1688310580,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334936,
+      "num": 334936,
+      "word": "唱倒带为什么不会跑调",
+      "onboard_time": 1688561252,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 334852,
@@ -4227,6 +4259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326029,
+      "num": 326029,
+      "word": "扫码点餐 泄露电话号",
+      "onboard_time": 1688563632,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325699,
       "num": 295099,
       "word": "王阳到底演过多少姐夫",
@@ -4355,6 +4395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 312993,
+      "num": 312993,
+      "word": "SMTOWN回应金泰妍粉丝",
+      "onboard_time": 1688559753,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312181,
       "num": 312181,
       "word": "黄晓明闹太套脱敏成功",
@@ -4369,14 +4417,6 @@
       "onboard_time": 1688303259,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310053,
-      "num": 310053,
-      "word": "我的人间烟火",
-      "onboard_time": 1688513006,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 309923,
@@ -4481,14 +4521,6 @@
       "onboard_time": 1688537192,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300966,
-      "num": 221687,
-      "word": "TFBOYS团粉可以站起来了",
-      "onboard_time": 1688562092,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 300521,
@@ -4715,14 +4747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287666,
-      "num": 244876,
-      "word": "SMTOWN回应金泰妍粉丝",
-      "onboard_time": 1688559753,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286854,
       "num": 286854,
       "word": "长风渡返乡名单里有宋亚轩",
@@ -4865,6 +4889,14 @@
       "onboard_time": 1688394042,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276976,
+      "num": 276976,
+      "word": "座头鲸妈妈把乳汁喷射到宝宝口中",
+      "onboard_time": 1688563565,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275888,
@@ -5059,12 +5091,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 260131,
-      "num": 260131,
-      "word": "唱倒带为什么不会跑调",
-      "onboard_time": 1688561252,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 260404,
+      "num": 206356,
+      "word": "桑延好直给的爱",
+      "onboard_time": 1688563295,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 260022,
@@ -5331,12 +5363,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 245559,
+      "num": 245559,
+      "word": "妈妈用自己的头发给女儿做了假发",
+      "onboard_time": 1688561613,
+      "rank": 38,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 245421,
       "num": 245421,
       "word": "什么东西十年没有涨过价",
       "onboard_time": 1688453375,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245120,
+      "num": 4019995,
+      "word": "驰援重庆暴雨的武警官兵辛苦了",
+      "onboard_time": 1688557774,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245118,
@@ -5851,14 +5899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217949,
-      "num": 193831,
-      "word": "桑延好直给的爱",
-      "onboard_time": 1688563295,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 217099,
       "num": 217099,
       "word": "当猫咪听到放粮的声音时",
@@ -5897,6 +5937,14 @@
       "onboard_time": 1688556452,
       "rank": 41,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 214616,
+      "num": 205368,
+      "word": "刘宇宁直播",
+      "onboard_time": 1688564438,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 214098,
@@ -6104,14 +6152,6 @@
       "word": "农民大叔造出了我的梦中情院",
       "onboard_time": 1688439454,
       "rank": 40,
-      "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 204627,
-      "num": 204627,
-      "word": "妈妈用自己的头发给女儿做了假发",
-      "onboard_time": 1688561613,
-      "rank": 38,
       "category": "社会新闻,幽默"
     },
     {
@@ -6371,6 +6411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194837,
+      "num": 194837,
+      "word": "追光的日子",
+      "onboard_time": 1688564324,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194672,
       "num": 194672,
       "word": "迪奥二零二三秋冬高订秀",
@@ -6393,14 +6441,6 @@
       "onboard_time": 1688513848,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194142,
-      "num": 194142,
-      "word": "座头鲸妈妈把乳汁喷射到宝宝口中",
-      "onboard_time": 1688563565,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192505,
@@ -6472,14 +6512,6 @@
       "word": "百岁奶奶穿婚纱跳舞庆祝孙女结婚",
       "onboard_time": 1688351791,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190374,
-      "num": 190374,
-      "word": "扫码点餐 泄露电话号",
-      "onboard_time": 1688563632,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6603,6 +6635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 179831,
+      "num": 179831,
+      "word": "近距离观察日本对虾产卵",
+      "onboard_time": 1688564261,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178528,
       "num": 178528,
       "word": "黑执事还我384眼睛",
@@ -6649,14 +6689,6 @@
       "onboard_time": 1688390745,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177256,
-      "num": 3166003,
-      "word": "驰援重庆暴雨的武警官兵辛苦了",
-      "onboard_time": 1688557774,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177172,
@@ -6876,7 +6908,7 @@
     },
     {
       "raw_hot": 166141,
-      "num": 166141,
+      "num": 173664,
       "word": "BLG零封TES",
       "onboard_time": 1688562931,
       "rank": 45,
@@ -6972,7 +7004,7 @@
     },
     {
       "raw_hot": 160554,
-      "num": 160554,
+      "num": 175461,
       "word": "吸盘碗的质检工作",
       "onboard_time": 1688563773,
       "rank": 46,
