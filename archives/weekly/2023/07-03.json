@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688531980184,
+  "endTime": 1688534396170,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 2696359,
-      "num": 644107,
+      "num": 646538,
       "word": "李靓蕾律师陈建州回应",
       "onboard_time": 1688529760,
       "rank": 10,
@@ -451,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1885702,
+      "num": 1885702,
+      "word": "张睿早几年都干嘛去了",
+      "onboard_time": 1688531079,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1861641,
       "num": 1861641,
       "word": "头发染得再黄鼻子修得再尖也变不了欧美人",
@@ -473,6 +481,14 @@
       "onboard_time": 1688511740,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1791324,
+      "num": 1038830,
+      "word": "北京政法职业学院回应男生被退学",
+      "onboard_time": 1688531679,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1780644,
@@ -512,6 +528,14 @@
       "word": "杭州女子买彩票误打误撞中了一千万",
       "onboard_time": 1688444505,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1641701,
+      "num": 642179,
+      "word": "女子浴室被已婚男邻居安摄像头",
+      "onboard_time": 1688531503,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -860,7 +884,7 @@
     },
     {
       "raw_hot": 1138125,
-      "num": 477098,
+      "num": 479413,
       "word": "为什么痛经蹲厕所就会好很多",
       "onboard_time": 1688529760,
       "rank": 21,
@@ -1483,6 +1507,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 778894,
+      "num": 778894,
+      "word": "为什么有钱人更容易保持身材",
+      "onboard_time": 1688529999,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 778714,
       "num": 778714,
       "word": "杨紫嘉人NOW夏季刊封面",
@@ -1827,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655126,
+      "num": 655126,
+      "word": "鹿晗广州站官宣嘉宾",
+      "onboard_time": 1688532101,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 653957,
       "num": 653957,
       "word": "青岛巧克力大爷救人嘎嘎猛",
@@ -1849,14 +1889,6 @@
       "onboard_time": 1688347713,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 650288,
-      "num": 650288,
-      "word": "为什么有钱人更容易保持身材",
-      "onboard_time": 1688529999,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 649899,
@@ -1929,6 +1961,14 @@
       "onboard_time": 1688464603,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 629292,
+      "num": 629292,
+      "word": "赵露思镜头下的曾黎",
+      "onboard_time": 1688532042,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 627524,
@@ -2123,14 +2163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 560823,
-      "num": 441344,
-      "word": "张睿早几年都干嘛去了",
-      "onboard_time": 1688531079,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 555923,
       "num": 555923,
       "word": "Jennie海德公园音乐节饭拍",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1688373946,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 532031,
+      "num": 532031,
+      "word": "八角笼中后期 陈思诚出钱",
+      "onboard_time": 1688533779,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 530769,
@@ -2523,12 +2563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 467851,
-      "num": 467851,
-      "word": "北京政法职业学院回应男生被退学",
-      "onboard_time": 1688531679,
-      "rank": 19,
-      "category": "教育,社会新闻"
+      "raw_hot": 467115,
+      "num": 467115,
+      "word": "消失的她里的声音密码",
+      "onboard_time": 1688533299,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 465743,
@@ -2675,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431619,
+      "num": 431619,
+      "word": "领导不让我回复好滴",
+      "onboard_time": 1688532220,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 430395,
       "num": 409897,
       "word": "老人高铁霸座掏出一把药丸",
@@ -2689,6 +2737,22 @@
       "onboard_time": 1688520094,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 426427,
+      "num": 426427,
+      "word": "何赛飞当众发飙后戏曲演员张军波现状",
+      "onboard_time": 1688533478,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421616,
+      "num": 421616,
+      "word": "jiejie",
+      "onboard_time": 1688533538,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 421470,
@@ -2755,14 +2819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411009,
-      "num": 369006,
-      "word": "女子浴室被已婚男邻居安摄像头",
-      "onboard_time": 1688531503,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403666,
       "num": 403666,
       "word": "内娱圆脸女明星",
@@ -2785,6 +2841,14 @@
       "onboard_time": 1688522732,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 402486,
+      "num": 402486,
+      "word": "8岁女孩为救同学不幸溺亡",
+      "onboard_time": 1688530360,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402315,
@@ -2995,14 +3059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 380770,
-      "num": 380770,
-      "word": "8岁女孩为救同学不幸溺亡",
-      "onboard_time": 1688530360,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380753,
       "num": 380753,
       "word": "meiko状态",
@@ -3193,6 +3249,14 @@
       "onboard_time": 1688454698,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 351999,
+      "num": 351999,
+      "word": "法老仿妆",
+      "onboard_time": 1688533836,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 351546,
@@ -3539,6 +3603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317787,
+      "num": 317787,
+      "word": "孟美岐舞台2023官宣",
+      "onboard_time": 1688530665,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316207,
       "num": 316207,
       "word": "没房贷的下属",
@@ -3843,6 +3915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 289550,
+      "num": 289550,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1688530782,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 288741,
       "num": 288741,
       "word": "原神3.8",
@@ -3857,14 +3937,6 @@
       "onboard_time": 1688462737,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287066,
-      "num": 287066,
-      "word": "孟美岐舞台2023官宣",
-      "onboard_time": 1688530665,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 286854,
@@ -3889,6 +3961,14 @@
       "onboard_time": 1688446425,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 283609,
+      "num": 283609,
+      "word": "玉骨遥特效",
+      "onboard_time": 1688531922,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 282762,
@@ -4113,14 +4193,6 @@
       "onboard_time": 1688402013,
       "rank": 32,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 265526,
-      "num": 265526,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1688530782,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 265476,
@@ -4563,14 +4635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232888,
-      "num": 232888,
-      "word": "玉骨遥特效",
-      "onboard_time": 1688531922,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232274,
       "num": 232274,
       "word": "时影你是油盐不进啊",
@@ -4697,6 +4761,14 @@
       "onboard_time": 1688433934,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224510,
+      "num": 224510,
+      "word": "驻乌使馆要求在乌中国公民立即完成备案登记",
+      "onboard_time": 1688532940,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224176,
@@ -6471,6 +6543,14 @@
       "num": 703528,
       "word": "中国动车组单列试验时速453公里",
       "onboard_time": 1688267731,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7808,
+      "num": 1094213,
+      "word": "上合组织顺应当今时代潮流契合人类进步方向",
+      "onboard_time": 1688534377,
       "rank": 2,
       "category": "社会新闻"
     }
