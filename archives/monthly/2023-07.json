@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688589308019,
+  "endTime": 1688591875346,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -13369,6 +13369,14 @@
       "onboard_time": 1688245513,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28800,
+      "num": 28800,
+      "word": "警方回应男生大腿被同学用圆规扎出血",
+      "onboard_time": 1688589073,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27214,
