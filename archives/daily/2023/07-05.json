@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688567877695,
+  "endTime": 1688570479700,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -27,8 +27,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8872941,
-      "num": 3034785,
+      "raw_hot": 10085912,
+      "num": 10085912,
+      "word": "众星悼念李玟",
+      "onboard_time": 1688568357,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9044864,
+      "num": 9044864,
       "word": "李玟老公",
       "onboard_time": 1688565287,
       "rank": 10,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3544738,
+      "num": 678861,
+      "word": "李玟80岁母亲首先发现女儿在寓所轻生",
+      "onboard_time": 1688569866,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3440455,
       "num": 3440455,
       "word": "断崖式分手",
@@ -152,6 +168,14 @@
       "word": "李靓蕾律师陈建州回应",
       "onboard_time": 1688529760,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2669749,
+      "num": 647126,
+      "word": "天后殒落 世上再无月光爱人",
+      "onboard_time": 1688567008,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1918395,
+      "num": 563107,
+      "word": "李玟手术",
+      "onboard_time": 1688567567,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1907332,
       "num": 255451,
       "word": "女生遭8名未成年男女殴打脱衣",
@@ -283,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1842287,
+      "num": 406092,
+      "word": "张艺兴悼念李玟",
+      "onboard_time": 1688568702,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1820625,
       "num": 1820625,
       "word": "你家会整夜开空调吗",
@@ -297,14 +337,6 @@
       "onboard_time": 1688531679,
       "rank": 19,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1764177,
-      "num": 489429,
-      "word": "天后殒落 世上再无月光爱人",
-      "onboard_time": 1688567008,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1701475,
@@ -371,12 +403,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1473602,
+      "num": 479961,
+      "word": "乐观的悲观主义者",
+      "onboard_time": 1688566616,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1377542,
       "num": 1377542,
       "word": "被花非花雾非雾震撼了",
       "onboard_time": 1688540076,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1309457,
+      "num": 1309457,
+      "word": "2年被家暴16次女子希望判丈夫死刑",
+      "onboard_time": 1688564861,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1262823,
@@ -395,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1231758,
+      "num": 367195,
+      "word": "阳光型抑郁症",
+      "onboard_time": 1688569682,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1197107,
       "num": 1197107,
       "word": "硕士毕业10年被查出论文剽窃",
       "onboard_time": 1688550812,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1191132,
+      "num": 347112,
+      "word": "孙红雷 李玟走好",
+      "onboard_time": 1688569104,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1190453,
@@ -435,28 +499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1116817,
-      "num": 455970,
-      "word": "李玟手术",
-      "onboard_time": 1688567567,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1108393,
       "num": 705563,
       "word": "肖战的伞7.5公斤",
       "onboard_time": 1688529878,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1108195,
-      "num": 1108195,
-      "word": "2年被家暴16次女子希望判丈夫死刑",
-      "onboard_time": 1688564861,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1087691,
@@ -529,14 +577,6 @@
       "onboard_time": 1688537314,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 969329,
-      "num": 479961,
-      "word": "乐观的悲观主义者",
-      "onboard_time": 1688566616,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 953802,
@@ -851,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 647777,
+      "num": 293006,
+      "word": "想你的365天",
+      "onboard_time": 1688566833,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 647657,
       "num": 647657,
       "word": "当我飞奔向你",
@@ -1083,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 500128,
+      "num": 291995,
+      "word": "光渊剧组工作人员发长文",
+      "onboard_time": 1688569919,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494338,
       "num": 494338,
       "word": "王楚然战损妆",
@@ -1132,7 +1188,7 @@
     },
     {
       "raw_hot": 463902,
-      "num": 5137376,
+      "num": 5802666,
       "word": "驰援重庆暴雨的武警官兵辛苦了",
       "onboard_time": 1688557774,
       "rank": 2,
@@ -1691,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307427,
+      "num": 307427,
+      "word": "00后男生地铁中勇敢阻拦男子持刀行凶",
+      "onboard_time": 1688567353,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303448,
       "num": 297838,
       "word": "伪中文emoji",
@@ -2091,6 +2155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231829,
+      "num": 293886,
+      "word": "温网",
+      "onboard_time": 1688568759,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229442,
       "num": 229442,
       "word": "高考后向喜欢十年的男生坦白了",
@@ -2393,6 +2465,14 @@
       "onboard_time": 1688552134,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 184091,
+      "num": 290261,
+      "word": "你心情很不好但是却不难受",
+      "onboard_time": 1688567087,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 179831,
@@ -2761,6 +2841,14 @@
       "onboard_time": 1688511800,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118519,
+      "num": 289505,
+      "word": "好像看到了梦里的泳池",
+      "onboard_time": 1688570275,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 117598,
