@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688526062951,
+  "endTime": 1688526634817,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -67,20 +67,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 7702414,
+      "num": 7702414,
+      "word": "阿雅毛发及尿液检测报告",
+      "onboard_time": 1688523872,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7213197,
       "num": 7213197,
       "word": "痞幼",
       "onboard_time": 1688462855,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 6205580,
-      "num": 6205580,
-      "word": "阿雅毛发及尿液检测报告",
-      "onboard_time": 1688523872,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5619700,
@@ -419,6 +419,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 1850141,
+      "num": 1850141,
+      "word": "原副市长妻子打人耳光成习惯",
+      "onboard_time": 1688522669,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1840884,
       "num": 1840884,
       "word": "沈阳发现一例猴痘病例",
@@ -489,14 +497,6 @@
       "onboard_time": 1688347113,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1549866,
-      "num": 1549866,
-      "word": "原副市长妻子打人耳光成习惯",
-      "onboard_time": 1688522669,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1523121,
@@ -665,6 +665,14 @@
       "onboard_time": 1688516914,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1257780,
+      "num": 1257780,
+      "word": "倪妮在干什么",
+      "onboard_time": 1688524716,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1251948,
@@ -945,14 +953,6 @@
       "onboard_time": 1688447143,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1036678,
-      "num": 1036678,
-      "word": "倪妮在干什么",
-      "onboard_time": 1688524716,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1034954,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1688351791,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 697258,
+      "num": 487769,
+      "word": "马保国",
+      "onboard_time": 1688525313,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 695559,
@@ -2459,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449612,
+      "num": 364048,
+      "word": "不要给孩子吃太多水果了",
+      "onboard_time": 1688524657,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 442803,
       "num": 442803,
       "word": "猪猪侠大战愤怒的小鸟",
@@ -2515,14 +2531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432592,
-      "num": 432592,
-      "word": "马保国",
-      "onboard_time": 1688525313,
-      "rank": 15,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 430395,
       "num": 409897,
       "word": "老人高铁霸座掏出一把药丸",
@@ -2563,6 +2571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415864,
+      "num": 415864,
+      "word": "舞台2023歌手阵容官宣",
+      "onboard_time": 1688525434,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415343,
       "num": 415343,
       "word": "伊朗正式加入上合组织",
@@ -2577,6 +2593,14 @@
       "onboard_time": 1688405540,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 414727,
+      "num": 414727,
+      "word": "赵丽颖张睿演过新还珠格格",
+      "onboard_time": 1688525616,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 411113,
@@ -2715,16 +2739,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 391662,
-      "num": 364048,
-      "word": "不要给孩子吃太多水果了",
-      "onboard_time": 1688524657,
-      "rank": 21,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 391594,
-      "num": 280408,
+      "num": 287761,
       "word": "有个会流白色眼泪的女友有多酷",
       "onboard_time": 1688523453,
       "rank": 30,
@@ -2737,14 +2753,6 @@
       "onboard_time": 1688393021,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 389098,
-      "num": 389098,
-      "word": "舞台2023歌手阵容官宣",
-      "onboard_time": 1688525434,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 388286,
@@ -3051,6 +3059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 342431,
+      "num": 342431,
+      "word": "杨颖王楚然任敏连播两部剧",
+      "onboard_time": 1688524896,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342215,
       "num": 342215,
       "word": "北电脸上戏脸中戏脸",
@@ -3129,6 +3145,14 @@
       "onboard_time": 1688480441,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336116,
+      "num": 336116,
+      "word": "世界气象组织确认厄尔尼诺出现",
+      "onboard_time": 1688525374,
+      "rank": 29,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 335652,
@@ -3451,6 +3475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303391,
+      "num": 303391,
+      "word": "为何放弃入学的研究生越来越多",
+      "onboard_time": 1688522732,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 300521,
       "num": 375638,
       "word": "录取通知书里的中国式浪漫",
@@ -3488,14 +3520,6 @@
       "word": "偷偷藏不住秀恩爱藏不住了",
       "onboard_time": 1688481520,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 298985,
-      "num": 298985,
-      "word": "杨颖王楚然任敏连播两部剧",
-      "onboard_time": 1688524896,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -3545,14 +3569,6 @@
       "onboard_time": 1688517875,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 295873,
-      "num": 295873,
-      "word": "为何放弃入学的研究生越来越多",
-      "onboard_time": 1688522732,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 295363,
@@ -3683,6 +3699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281826,
+      "num": 281826,
+      "word": "终于等到桑延暴扣段嘉许了",
+      "onboard_time": 1688524594,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281494,
       "num": 281494,
       "word": "一束给妈妈 一束给妹妹",
@@ -3736,14 +3760,6 @@
       "word": "结巴的是段嘉许还是陈哲远",
       "onboard_time": 1688394042,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 276385,
-      "num": 276385,
-      "word": "赵丽颖张睿演过新还珠格格",
-      "onboard_time": 1688525616,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -3856,14 +3872,6 @@
       "word": "偷偷藏不住",
       "onboard_time": 1688381743,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 268365,
-      "num": 268365,
-      "word": "终于等到桑延暴扣段嘉许了",
-      "onboard_time": 1688524594,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -4139,6 +4147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245118,
+      "num": 245118,
+      "word": "郑秀晶姚晨同框",
+      "onboard_time": 1688522912,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244841,
       "num": 244841,
       "word": "段嘉许也被行车记录仪骗了",
@@ -4219,12 +4235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237310,
-      "num": 237310,
-      "word": "郑秀晶姚晨同框",
-      "onboard_time": 1688522912,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 237503,
+      "num": 237503,
+      "word": "被亲戚要求给他的孩子补课",
+      "onboard_time": 1688522011,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 237055,
@@ -4425,14 +4441,6 @@
       "onboard_time": 1688380842,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223835,
-      "num": 223835,
-      "word": "被亲戚要求给他的孩子补课",
-      "onboard_time": 1688522011,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 223673,
@@ -4707,12 +4715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208166,
-      "num": 282103,
-      "word": "世界气象组织确认厄尔尼诺出现",
-      "onboard_time": 1688525374,
-      "rank": 29,
-      "category": "自然,社会新闻"
+      "raw_hot": 207817,
+      "num": 207817,
+      "word": "高考后向喜欢十年的男生坦白了",
+      "onboard_time": 1688526159,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 207636,
@@ -4779,6 +4787,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 204500,
+      "num": 204500,
+      "word": "官方回应山东一辅警接连杀害两名女性",
+      "onboard_time": 1688526580,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203493,
       "num": 203493,
       "word": "为你撑伞因为你值得",
@@ -4801,6 +4817,14 @@
       "onboard_time": 1688392904,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202193,
+      "num": 202193,
+      "word": "大哥多看一眼抢救回热射病老人",
+      "onboard_time": 1688524833,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201799,
@@ -5011,12 +5035,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192957,
-      "num": 192957,
-      "word": "大哥多看一眼抢救回热射病老人",
-      "onboard_time": 1688524833,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 192799,
+      "num": 192799,
+      "word": "拆个家把自己拆瘸的小猫",
+      "onboard_time": 1688526399,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 192505,
@@ -5331,6 +5355,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 170494,
+      "num": 170494,
+      "word": "果然前任都逃不过被阴阳怪气",
+      "onboard_time": 1688526100,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 170119,
       "num": 170119,
       "word": "警花追着还钱像极了过年的我",
@@ -5345,6 +5377,14 @@
       "onboard_time": 1688430998,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 167736,
+      "num": 167736,
+      "word": "当我飞奔向你",
+      "onboard_time": 1688526519,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 167578,
@@ -5433,6 +5473,14 @@
       "onboard_time": 1688486910,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163753,
+      "num": 163753,
+      "word": "现在的动画画风",
+      "onboard_time": 1688525857,
+      "rank": 46,
+      "category": "动漫,幽默"
     },
     {
       "raw_hot": 163055,
@@ -5577,14 +5625,6 @@
       "onboard_time": 1688450377,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153680,
-      "num": 153680,
-      "word": "现在的动画画风",
-      "onboard_time": 1688525857,
-      "rank": 46,
-      "category": "动漫,幽默"
     },
     {
       "raw_hot": 153433,

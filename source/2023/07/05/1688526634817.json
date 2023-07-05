@@ -1,0 +1,410 @@
+{
+  "runTime": 1688526634817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7702414,
+        "num": 7702414,
+        "word": "阿雅毛发及尿液检测报告",
+        "onboard_time": 1688523872,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1850141,
+        "num": 1850141,
+        "word": "原副市长妻子打人耳光成习惯",
+        "onboard_time": 1688522669,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41019,
+        "num": 1282652,
+        "word": "这段交通安全宣传片看得有点上头",
+        "onboard_time": 1688470055,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257780,
+        "num": 1257780,
+        "word": "倪妮在干什么",
+        "onboard_time": 1688524716,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1070821,
+        "num": 1070821,
+        "word": "当老公知道前男友随礼5000",
+        "onboard_time": 1688516914,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 676072,
+        "num": 676072,
+        "word": "学生恶意篡改同学高考志愿被行拘",
+        "onboard_time": 1688521830,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 655053,
+        "num": 655053,
+        "word": "工作八年的工资被父母拿走",
+        "onboard_time": 1688516914,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 638566,
+        "num": 638566,
+        "word": "iPhone15系列电池容量曝光",
+        "onboard_time": 1688520870,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 621417,
+        "num": 621417,
+        "word": "起猛了看见韩栋抱肖战",
+        "onboard_time": 1688522133,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515308,
+        "num": 515308,
+        "word": "原来银行并不是五点下班",
+        "onboard_time": 1688516255,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2062557,
+        "num": 497762,
+        "word": "北京政法职业学院",
+        "onboard_time": 1688524232,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349162,
+        "num": 497534,
+        "word": "法院判定王力宏李靓蕾离婚获准",
+        "onboard_time": 1688519615,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697258,
+        "num": 487769,
+        "word": "马保国",
+        "onboard_time": 1688525313,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 456287,
+        "num": 456287,
+        "word": "嘴角很明显的一块凸起是什么",
+        "onboard_time": 1688517815,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 444442,
+        "num": 444442,
+        "word": "姚译添对郑恺的嘱咐",
+        "onboard_time": 1688521112,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415864,
+        "num": 415864,
+        "word": "舞台2023歌手阵容官宣",
+        "onboard_time": 1688525434,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2345176,
+        "num": 415656,
+        "word": "李敬言 退学",
+        "onboard_time": 1688519853,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414727,
+        "num": 414727,
+        "word": "赵丽颖张睿演过新还珠格格",
+        "onboard_time": 1688525616,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380994,
+        "num": 380994,
+        "word": "青岛巧克力大爷救人嘎嘎猛",
+        "onboard_time": 1688523814,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358108,
+        "num": 358108,
+        "word": "Angelababy新剧眼中含泪",
+        "onboard_time": 1688522611,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873194,
+        "num": 356854,
+        "word": "美国女网红直播睡觉月入1447万",
+        "onboard_time": 1688522133,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 449612,
+        "num": 353425,
+        "word": "不要给孩子吃太多水果了",
+        "onboard_time": 1688524657,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 349068,
+        "num": 349068,
+        "word": "虞书欣我是esther",
+        "onboard_time": 1688524354,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347753,
+        "num": 347753,
+        "word": "考研和考编同时上岸怎么选",
+        "onboard_time": 1688511982,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 342431,
+        "num": 342431,
+        "word": "杨颖王楚然任敏连播两部剧",
+        "onboard_time": 1688524896,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336116,
+        "num": 336116,
+        "word": "世界气象组织确认厄尔尼诺出现",
+        "onboard_time": 1688525374,
+        "rank": 25,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 328375,
+        "num": 328375,
+        "word": "太原万象城",
+        "onboard_time": 1688521712,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313292,
+        "num": 313292,
+        "word": "白敬亭今年没有问答案之书桃花了",
+        "onboard_time": 1688520094,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303391,
+        "num": 303391,
+        "word": "为何放弃入学的研究生越来越多",
+        "onboard_time": 1688522732,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 292463,
+        "num": 292463,
+        "word": "你家会整夜开空调吗",
+        "onboard_time": 1688511740,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349130,
+        "num": 287761,
+        "word": "有个会流白色眼泪的女友有多酷",
+        "onboard_time": 1688523453,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 281826,
+        "num": 281826,
+        "word": "终于等到桑延暴扣段嘉许了",
+        "onboard_time": 1688524594,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275749,
+        "num": 275749,
+        "word": "两年不上班的感受",
+        "onboard_time": 1688517631,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249614,
+        "num": 249614,
+        "word": "杨紫杂志销量统计",
+        "onboard_time": 1688523935,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245118,
+        "num": 245118,
+        "word": "郑秀晶姚晨同框",
+        "onboard_time": 1688522912,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238746,
+        "num": 238746,
+        "word": "王楚然战损妆",
+        "onboard_time": 1688515529,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237503,
+        "num": 237503,
+        "word": "被亲戚要求给他的孩子补课",
+        "onboard_time": 1688522011,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212389,
+        "num": 212389,
+        "word": "弟弟考上大专却想辍学当兵",
+        "onboard_time": 1688518655,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207817,
+        "num": 207817,
+        "word": "高考后向喜欢十年的男生坦白了",
+        "onboard_time": 1688526159,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204500,
+        "num": 204500,
+        "word": "官方回应山东一辅警接连杀害两名女性",
+        "onboard_time": 1688526580,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202193,
+        "num": 202193,
+        "word": "大哥多看一眼抢救回热射病老人",
+        "onboard_time": 1688524833,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200842,
+        "num": 200842,
+        "word": "发现了一个吵架屡战屡胜的方法",
+        "onboard_time": 1688517515,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192799,
+        "num": 192799,
+        "word": "拆个家把自己拆瘸的小猫",
+        "onboard_time": 1688526399,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179036,
+        "num": 179036,
+        "word": "宋亚轩公开鼠标两周年",
+        "onboard_time": 1688518412,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173486,
+        "num": 173486,
+        "word": "EDG",
+        "onboard_time": 1688512703,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170494,
+        "num": 170494,
+        "word": "果然前任都逃不过被阴阳怪气",
+        "onboard_time": 1688526100,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 167736,
+        "num": 167736,
+        "word": "当我飞奔向你",
+        "onboard_time": 1688526519,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166042,
+        "num": 166042,
+        "word": "没有一个中国人会这么写字",
+        "onboard_time": 1688514992,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163753,
+        "num": 163753,
+        "word": "现在的动画画风",
+        "onboard_time": 1688525857,
+        "rank": 48,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 161138,
+        "num": 161138,
+        "word": "31省最低工资标准公布",
+        "onboard_time": 1688521053,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把互利合作蛋糕做大#"
+    }
+  }
+}
