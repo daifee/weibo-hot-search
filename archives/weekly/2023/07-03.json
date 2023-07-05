@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688523189870,
+  "endTime": 1688526062951,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -73,6 +73,14 @@
       "onboard_time": 1688462855,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 6205580,
+      "num": 6205580,
+      "word": "阿雅毛发及尿液检测报告",
+      "onboard_time": 1688523872,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 5619700,
@@ -347,8 +355,16 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 2128980,
+      "num": 551589,
+      "word": "北京政法职业学院",
+      "onboard_time": 1688524232,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2076475,
-      "num": 518658,
+      "num": 538380,
       "word": "法院判定王力宏李靓蕾离婚获准",
       "onboard_time": 1688519615,
       "rank": 11,
@@ -473,6 +489,14 @@
       "onboard_time": 1688347113,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1549866,
+      "num": 1549866,
+      "word": "原副市长妻子打人耳光成习惯",
+      "onboard_time": 1688522669,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1523121,
@@ -859,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1075075,
+      "num": 500587,
+      "word": "美国女网红直播睡觉月入1447万",
+      "onboard_time": 1688522133,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1063643,
       "num": 2393849,
       "word": "微信支付每月免费提现额度",
@@ -913,6 +945,14 @@
       "onboard_time": 1688447143,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1036678,
+      "num": 1036678,
+      "word": "倪妮在干什么",
+      "onboard_time": 1688524716,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1034954,
@@ -1145,14 +1185,6 @@
       "onboard_time": 1688439634,
       "rank": 34,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 888501,
-      "num": 500587,
-      "word": "美国女网红直播睡觉月入1447万",
-      "onboard_time": 1688522133,
-      "rank": 12,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 888031,
@@ -1456,6 +1488,14 @@
       "word": "六公主评长风渡",
       "onboard_time": 1688448277,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 731442,
+      "num": 731442,
+      "word": "起猛了看见韩栋抱肖战",
+      "onboard_time": 1688522133,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -2356,7 +2396,7 @@
     },
     {
       "raw_hot": 459096,
-      "num": 337718,
+      "num": 355093,
       "word": "太原万象城",
       "onboard_time": 1688521712,
       "rank": 48,
@@ -2385,6 +2425,14 @@
       "onboard_time": 1688353593,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 454268,
+      "num": 454268,
+      "word": "姚译添对郑恺的嘱咐",
+      "onboard_time": 1688521112,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 453310,
@@ -2451,14 +2499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 436232,
-      "num": 436232,
-      "word": "姚译添对郑恺的嘱咐",
-      "onboard_time": 1688521112,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 435881,
       "num": 435881,
       "word": "中方回应越南因南海九段线禁映芭比",
@@ -2473,6 +2513,14 @@
       "onboard_time": 1688454516,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432592,
+      "num": 432592,
+      "word": "马保国",
+      "onboard_time": 1688525313,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 430395,
@@ -2512,14 +2560,6 @@
       "word": "玉骨遥镜头vs陈情令镜头",
       "onboard_time": 1688399796,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 415797,
-      "num": 415797,
-      "word": "起猛了看见韩栋抱肖战",
-      "onboard_time": 1688522133,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -2675,12 +2715,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 391662,
+      "num": 364048,
+      "word": "不要给孩子吃太多水果了",
+      "onboard_time": 1688524657,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 391594,
+      "num": 280408,
+      "word": "有个会流白色眼泪的女友有多酷",
+      "onboard_time": 1688523453,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 391364,
       "num": 391364,
       "word": "山东泰山",
       "onboard_time": 1688393021,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389098,
+      "num": 389098,
+      "word": "舞台2023歌手阵容官宣",
+      "onboard_time": 1688525434,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 388286,
@@ -2712,6 +2776,14 @@
       "word": "给校长撑伞挡雨的书记是山东人",
       "onboard_time": 1688412075,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383361,
+      "num": 383361,
+      "word": "青岛巧克力大爷救人嘎嘎猛",
+      "onboard_time": 1688523814,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2819,6 +2891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 366950,
+      "num": 366950,
+      "word": "Angelababy新剧眼中含泪",
+      "onboard_time": 1688522611,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362665,
       "num": 362665,
       "word": "玉骨遥",
@@ -2873,6 +2953,14 @@
       "onboard_time": 1688373044,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 358396,
+      "num": 358396,
+      "word": "虞书欣我是esther",
+      "onboard_time": 1688524354,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 357713,
@@ -2984,14 +3072,6 @@
       "word": "男孩为保护孕妈电梯里劝止烟民",
       "onboard_time": 1688313395,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340328,
-      "num": 222799,
-      "word": "原副市长妻子打人耳光成习惯",
-      "onboard_time": 1688522669,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3411,6 +3491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298985,
+      "num": 298985,
+      "word": "杨颖王楚然任敏连播两部剧",
+      "onboard_time": 1688524896,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298838,
       "num": 298838,
       "word": "中学图书馆为保护古树在大厅开洞",
@@ -3457,6 +3545,14 @@
       "onboard_time": 1688517875,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295873,
+      "num": 295873,
+      "word": "为何放弃入学的研究生越来越多",
+      "onboard_time": 1688522732,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 295363,
@@ -3643,6 +3739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276385,
+      "num": 276385,
+      "word": "赵丽颖张睿演过新还珠格格",
+      "onboard_time": 1688525616,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275888,
       "num": 275888,
       "word": "你有每月存钱的习惯吗",
@@ -3755,6 +3859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268365,
+      "num": 268365,
+      "word": "终于等到桑延暴扣段嘉许了",
+      "onboard_time": 1688524594,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267943,
       "num": 326573,
       "word": "快乐的大人",
@@ -3785,6 +3897,14 @@
       "onboard_time": 1688458835,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264718,
+      "num": 264718,
+      "word": "杨紫杂志销量统计",
+      "onboard_time": 1688523935,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264592,
@@ -4099,12 +4219,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237275,
-      "num": 237275,
-      "word": "Angelababy新剧眼中含泪",
-      "onboard_time": 1688522611,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 237310,
+      "num": 237310,
+      "word": "郑秀晶姚晨同框",
+      "onboard_time": 1688522912,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237055,
@@ -4305,6 +4425,14 @@
       "onboard_time": 1688380842,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223835,
+      "num": 223835,
+      "word": "被亲戚要求给他的孩子补课",
+      "onboard_time": 1688522011,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 223673,
@@ -4523,14 +4651,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 211209,
-      "num": 211209,
-      "word": "为何放弃入学的研究生越来越多",
-      "onboard_time": 1688522732,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 210728,
       "num": 210728,
       "word": "这是我配看的古偶吻戏吗",
@@ -4587,12 +4707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208102,
-      "num": 208102,
-      "word": "被亲戚要求给他的孩子补课",
-      "onboard_time": 1688522011,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 208166,
+      "num": 282103,
+      "word": "世界气象组织确认厄尔尼诺出现",
+      "onboard_time": 1688525374,
+      "rank": 29,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 207636,
@@ -4835,6 +4955,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 196005,
+      "num": 196005,
+      "word": "EDG",
+      "onboard_time": 1688512703,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195594,
       "num": 195594,
       "word": "阴阳师",
@@ -4849,14 +4977,6 @@
       "onboard_time": 1688518055,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195193,
-      "num": 195193,
-      "word": "EDG",
-      "onboard_time": 1688512703,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 195141,
@@ -4889,6 +5009,14 @@
       "onboard_time": 1688513848,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192957,
+      "num": 192957,
+      "word": "大哥多看一眼抢救回热射病老人",
+      "onboard_time": 1688524833,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192505,
@@ -5041,14 +5169,6 @@
       "onboard_time": 1688409556,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184694,
-      "num": 184694,
-      "word": "郑秀晶姚晨同框",
-      "onboard_time": 1688522912,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 184441,
@@ -5459,6 +5579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153680,
+      "num": 153680,
+      "word": "现在的动画画风",
+      "onboard_time": 1688525857,
+      "rank": 46,
+      "category": "动漫,幽默"
+    },
+    {
       "raw_hot": 153433,
       "num": 153433,
       "word": "薛之谦合肥",
@@ -5521,6 +5649,22 @@
       "onboard_time": 1688285254,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146861,
+      "num": 146861,
+      "word": "原来你是这样的大神官",
+      "onboard_time": 1688525916,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146734,
+      "num": 146734,
+      "word": "用心墙打开玉骨遥",
+      "onboard_time": 1688524534,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 145613,
