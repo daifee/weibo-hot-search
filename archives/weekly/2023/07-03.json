@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688521802234,
+  "endTime": 1688523189870,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -219,6 +219,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 2932107,
+      "num": 524536,
+      "word": "李敬言 退学",
+      "onboard_time": 1688519853,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2865150,
       "num": 2865150,
       "word": "警方前往炎亚纶家中搜查",
@@ -257,14 +265,6 @@
       "onboard_time": 1688516914,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2407561,
-      "num": 471678,
-      "word": "李敬言 退学",
-      "onboard_time": 1688519853,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2384141,
@@ -347,6 +347,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 2076475,
+      "num": 518658,
+      "word": "法院判定王力宏李靓蕾离婚获准",
+      "onboard_time": 1688519615,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1999057,
       "num": 721601,
       "word": "被逼吃屎是怎么和解的",
@@ -401,14 +409,6 @@
       "onboard_time": 1688448277,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1835084,
-      "num": 463268,
-      "word": "法院判定王力宏李靓蕾离婚获准",
-      "onboard_time": 1688519615,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1820625,
@@ -1147,6 +1147,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 888501,
+      "num": 500587,
+      "word": "美国女网红直播睡觉月入1447万",
+      "onboard_time": 1688522133,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 888031,
       "num": 352976,
       "word": "跑男有望顺利播出",
@@ -1299,6 +1307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 815914,
+      "num": 815914,
+      "word": "学生恶意篡改同学高考志愿被行拘",
+      "onboard_time": 1688521830,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 802037,
       "num": 802037,
       "word": "马龙",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1688372627,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 771457,
+      "num": 771457,
+      "word": "iPhone15系列电池容量曝光",
+      "onboard_time": 1688520870,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 770837,
@@ -1747,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 618313,
+      "num": 618313,
+      "word": "嘴角很明显的一块凸起是什么",
+      "onboard_time": 1688517815,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 615255,
       "num": 615255,
       "word": "否定型人格",
@@ -1993,14 +2025,6 @@
       "onboard_time": 1688471793,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 539156,
-      "num": 539156,
-      "word": "嘴角很明显的一块凸起是什么",
-      "onboard_time": 1688517815,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 536429,
@@ -2331,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459096,
+      "num": 337718,
+      "word": "太原万象城",
+      "onboard_time": 1688521712,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457620,
       "num": 457620,
       "word": "五月天深圳 开船",
@@ -2419,6 +2451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 436232,
+      "num": 436232,
+      "word": "姚译添对郑恺的嘱咐",
+      "onboard_time": 1688521112,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435881,
       "num": 435881,
       "word": "中方回应越南因南海九段线禁映芭比",
@@ -2435,20 +2475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431271,
-      "num": 431271,
-      "word": "iPhone15系列电池容量曝光",
-      "onboard_time": 1688520870,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 430395,
       "num": 409897,
       "word": "老人高铁霸座掏出一把药丸",
       "onboard_time": 1688485897,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430171,
+      "num": 430171,
+      "word": "白敬亭今年没有问答案之书桃花了",
+      "onboard_time": 1688520094,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 421470,
@@ -2475,6 +2515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415797,
+      "num": 415797,
+      "word": "起猛了看见韩栋抱肖战",
+      "onboard_time": 1688522133,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415343,
       "num": 415343,
       "word": "伊朗正式加入上合组织",
@@ -2497,14 +2545,6 @@
       "onboard_time": 1688465738,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 410481,
-      "num": 410481,
-      "word": "白敬亭今年没有问答案之书桃花了",
-      "onboard_time": 1688520094,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 403666,
@@ -2915,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345343,
+      "num": 345343,
+      "word": "发现了一个吵架屡战屡胜的方法",
+      "onboard_time": 1688517515,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 342215,
       "num": 342215,
       "word": "北电脸上戏脸中戏脸",
@@ -2936,6 +2984,14 @@
       "word": "男孩为保护孕妈电梯里劝止烟民",
       "onboard_time": 1688313395,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340328,
+      "num": 222799,
+      "word": "原副市长妻子打人耳光成习惯",
+      "onboard_time": 1688522669,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3499,14 +3555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284373,
-      "num": 284373,
-      "word": "发现了一个吵架屡战屡胜的方法",
-      "onboard_time": 1688517515,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 284123,
       "num": 249974,
       "word": "玉骨遥美工好忙",
@@ -3955,14 +4003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245978,
-      "num": 218389,
-      "word": "姚译添对郑恺的嘱咐",
-      "onboard_time": 1688521112,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245811,
       "num": 245811,
       "word": "亚运会名单",
@@ -4057,6 +4097,14 @@
       "onboard_time": 1688369265,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237275,
+      "num": 237275,
+      "word": "Angelababy新剧眼中含泪",
+      "onboard_time": 1688522611,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 237055,
@@ -4169,6 +4217,14 @@
       "onboard_time": 1688451218,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 228856,
+      "num": 228856,
+      "word": "唐玄奘究竟姓什么",
+      "onboard_time": 1688521471,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 228409,
@@ -4459,6 +4515,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211430,
+      "num": 211430,
+      "word": "31省最低工资标准公布",
+      "onboard_time": 1688521053,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 211209,
+      "num": 211209,
+      "word": "为何放弃入学的研究生越来越多",
+      "onboard_time": 1688522732,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 210728,
       "num": 210728,
       "word": "这是我配看的古偶吻戏吗",
@@ -4513,6 +4585,14 @@
       "onboard_time": 1688517934,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208102,
+      "num": 208102,
+      "word": "被亲戚要求给他的孩子补课",
+      "onboard_time": 1688522011,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 207636,
@@ -4705,14 +4785,6 @@
       "onboard_time": 1688364657,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198547,
-      "num": 198547,
-      "word": "31省最低工资标准公布",
-      "onboard_time": 1688521053,
-      "rank": 35,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 198124,
@@ -4971,6 +5043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184694,
+      "num": 184694,
+      "word": "郑秀晶姚晨同框",
+      "onboard_time": 1688522912,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184441,
       "num": 184441,
       "word": "张踩铃 看似多元的新标准是最损的",
@@ -4985,14 +5065,6 @@
       "onboard_time": 1688477315,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 178100,
-      "num": 178100,
-      "word": "唐玄奘究竟姓什么",
-      "onboard_time": 1688521471,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 177507,
@@ -5451,14 +5523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145782,
-      "num": 145782,
-      "word": "太原万象城",
-      "onboard_time": 1688521712,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145613,
       "num": 145613,
       "word": "孤独症男孩迷路从东莞走到深圳",
@@ -5473,6 +5537,14 @@
       "onboard_time": 1688519431,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140110,
+      "num": 140110,
+      "word": "这才是一个剧应传达的正确价值观",
+      "onboard_time": 1688523031,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 139856,
