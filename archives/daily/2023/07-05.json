@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688528593088,
+  "endTime": 1688531098284,
   "band_list": [
     {
       "raw_hot": 7702414,
@@ -16,6 +16,14 @@
       "word": "阿雅工作室发检测报告",
       "onboard_time": 1688527316,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3111210,
+      "num": 1298216,
+      "word": "现在该大小S有压力了",
+      "onboard_time": 1688527658,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -44,11 +52,27 @@
     },
     {
       "raw_hot": 2076475,
-      "num": 538380,
+      "num": 643405,
       "word": "法院判定王力宏李靓蕾离婚获准",
       "onboard_time": 1688519615,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1986485,
+      "num": 644107,
+      "word": "李靓蕾律师陈建州回应",
+      "onboard_time": 1688529760,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1976013,
+      "num": 1976013,
+      "word": "肖战迪丽热巴合作一部古偶吧",
+      "onboard_time": 1688527476,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1973298,
@@ -83,14 +107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1286939,
-      "num": 1286939,
-      "word": "现在该大小S有压力了",
-      "onboard_time": 1688527658,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1262823,
       "num": 1262823,
       "word": "工作八年的工资被父母拿走",
@@ -107,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1190453,
+      "num": 505269,
+      "word": "马保国",
+      "onboard_time": 1688525313,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1161057,
       "num": 1161057,
       "word": "北大女生穿马面裙参加毕业典礼",
@@ -115,12 +139,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1117835,
-      "num": 505269,
-      "word": "马保国",
-      "onboard_time": 1688525313,
-      "rank": 15,
-      "category": "社会新闻,艺人"
+      "raw_hot": 1081925,
+      "num": 1081925,
+      "word": "官方回应山东一辅警接连杀害两名女性",
+      "onboard_time": 1688526580,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1075075,
@@ -139,12 +163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 935815,
-      "num": 935815,
-      "word": "肖战迪丽热巴合作一部古偶吧",
+      "raw_hot": 953802,
+      "num": 485159,
+      "word": "18万钻戒和18万黄金选哪个",
       "onboard_time": 1688527476,
-      "rank": 14,
-      "category": "影视"
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 909165,
@@ -169,6 +193,22 @@
       "onboard_time": 1688483199,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833139,
+      "num": 833139,
+      "word": "婚礼结束看清很多人",
+      "onboard_time": 1688529036,
+      "rank": 6,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 831150,
+      "num": 477098,
+      "word": "为什么痛经蹲厕所就会好很多",
+      "onboard_time": 1688529760,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 815914,
@@ -203,19 +243,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 740886,
-      "num": 409778,
-      "word": "18万钻戒和18万黄金选哪个",
-      "onboard_time": 1688527476,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 731442,
       "num": 731442,
       "word": "起猛了看见韩栋抱肖战",
       "onboard_time": 1688522133,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 705563,
+      "num": 705563,
+      "word": "肖战的伞7.5公斤",
+      "onboard_time": 1688529878,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -259,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653957,
+      "num": 653957,
+      "word": "青岛巧克力大爷救人嘎嘎猛",
+      "onboard_time": 1688523814,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652493,
       "num": 652493,
       "word": "弟弟考上大专却想辍学当兵",
@@ -267,12 +315,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 633908,
-      "num": 440970,
-      "word": "官方回应山东一辅警接连杀害两名女性",
-      "onboard_time": 1688526580,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 647657,
+      "num": 647657,
+      "word": "当我飞奔向你",
+      "onboard_time": 1688526519,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 639693,
+      "num": 639693,
+      "word": "世界气象组织确认厄尔尼诺出现",
+      "onboard_time": 1688525374,
+      "rank": 29,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 623675,
@@ -323,20 +379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 572315,
-      "num": 572315,
-      "word": "世界气象组织确认厄尔尼诺出现",
-      "onboard_time": 1688525374,
-      "rank": 29,
-      "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 548132,
-      "num": 436944,
-      "word": "当我飞奔向你",
-      "onboard_time": 1688526519,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 566566,
+      "num": 566566,
+      "word": "河北工大芬兰校区",
+      "onboard_time": 1688528799,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 533790,
@@ -411,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440291,
+      "num": 440291,
+      "word": "为什么有钱人更容易保持身材",
+      "onboard_time": 1688529999,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 433500,
       "num": 433500,
       "word": "EDG 啃老",
@@ -435,12 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 421165,
-      "num": 421165,
-      "word": "青岛巧克力大爷救人嘎嘎猛",
-      "onboard_time": 1688523814,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 417467,
+      "num": 417467,
+      "word": "鹿晗广州站场馆",
+      "onboard_time": 1688530060,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 412472,
+      "num": 412472,
+      "word": "美依礼芽凤凰传奇终于同框了",
+      "onboard_time": 1688529275,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 402772,
@@ -515,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351623,
+      "num": 351623,
+      "word": "终于等到桑延暴扣段嘉许了",
+      "onboard_time": 1688524594,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350168,
       "num": 350168,
       "word": "杨颖王楚然任敏连播两部剧",
@@ -553,6 +625,22 @@
       "onboard_time": 1688476295,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330936,
+      "num": 330936,
+      "word": "战至巅峰",
+      "onboard_time": 1688527774,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 326947,
+      "num": 326947,
+      "word": "杨丞琳素颜照",
+      "onboard_time": 1688529158,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 325007,
@@ -595,6 +683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 301146,
+      "num": 301146,
+      "word": "8岁女孩为救同学不幸溺亡",
+      "onboard_time": 1688530360,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296202,
       "num": 296202,
       "word": "好朋友通知我她要结婚了",
@@ -627,12 +723,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 281826,
-      "num": 281826,
-      "word": "终于等到桑延暴扣段嘉许了",
-      "onboard_time": 1688524594,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 284302,
+      "num": 284302,
+      "word": "在欧洲企业加班之后被经理暗示了",
+      "onboard_time": 1688526519,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 279150,
@@ -665,6 +761,14 @@
       "onboard_time": 1688480321,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 264982,
+      "num": 264982,
+      "word": "白敬亭回应为什么最近回复的少",
+      "onboard_time": 1688528074,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 264718,
@@ -707,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245467,
-      "num": 245467,
-      "word": "白敬亭回应为什么最近回复的少",
-      "onboard_time": 1688528074,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245118,
       "num": 245118,
       "word": "郑秀晶姚晨同框",
@@ -731,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241939,
-      "num": 241939,
-      "word": "在欧洲企业加班之后被经理暗示了",
-      "onboard_time": 1688526519,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 238930,
       "num": 238930,
       "word": "薛之谦腿怎么了",
@@ -752,6 +840,22 @@
       "word": "被亲戚要求给他的孩子补课",
       "onboard_time": 1688522011,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 232190,
+      "num": 232190,
+      "word": "孟美岐舞台2023官宣",
+      "onboard_time": 1688530665,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229442,
+      "num": 229442,
+      "word": "高考后向喜欢十年的男生坦白了",
+      "onboard_time": 1688526159,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -771,12 +875,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227154,
-      "num": 227154,
-      "word": "高考后向喜欢十年的男生坦白了",
-      "onboard_time": 1688526159,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 227130,
+      "num": 227130,
+      "word": "范丞丞虞书欣说最喜欢对方的剧",
+      "onboard_time": 1688528619,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 226507,
+      "num": 226507,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1688530782,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 226116,
+      "num": 226116,
+      "word": "张睿早几年都干嘛去了",
+      "onboard_time": 1688531079,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 223445,
@@ -809,14 +929,6 @@
       "onboard_time": 1688470414,
       "rank": 26,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 214383,
-      "num": 214383,
-      "word": "战至巅峰",
-      "onboard_time": 1688527774,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 211430,
@@ -913,6 +1025,14 @@
       "onboard_time": 1688511740,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189038,
+      "num": 225811,
+      "word": "UCAL 我爱uzi大哥",
+      "onboard_time": 1688531021,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 184441,
@@ -1217,6 +1337,14 @@
       "onboard_time": 1688512764,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75934,
+      "num": 575951,
+      "word": "原神3.8版本更新 可莉",
+      "onboard_time": 1688529637,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 72851,
