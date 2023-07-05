@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688545556943,
+  "endTime": 1688546437731,
   "band_list": [
     {
       "raw_hot": 7702414,
@@ -147,8 +147,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1651808,
-      "num": 1651808,
+      "raw_hot": 1701475,
+      "num": 1701475,
       "word": "中考满分760我考了753",
       "onboard_time": 1688541274,
       "rank": 40,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 929910,
+      "num": 539067,
+      "word": "淄博烧烤怎么样了",
+      "onboard_time": 1688544453,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 909165,
       "num": 909165,
       "word": "欧洲代表指责中国遭津巴布韦大使馆参赞质问",
@@ -403,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 731831,
+      "num": 396218,
+      "word": "体检后成了全公司笑话",
+      "onboard_time": 1688542895,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 731442,
       "num": 731442,
       "word": "起猛了看见韩栋抱肖战",
@@ -457,14 +473,6 @@
       "onboard_time": 1688477975,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 673903,
-      "num": 381795,
-      "word": "体检后成了全公司笑话",
-      "onboard_time": 1688542895,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 658515,
@@ -731,20 +739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 449788,
-      "num": 298540,
-      "word": "淄博烧烤怎么样了",
-      "onboard_time": 1688544453,
-      "rank": 30,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 442803,
       "num": 442803,
       "word": "猪猪侠大战愤怒的小鸟",
       "onboard_time": 1688483858,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439012,
+      "num": 439012,
+      "word": "美总统参选人称中国周边有313美军基地",
+      "onboard_time": 1688543496,
+      "rank": 19,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 433500,
@@ -811,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409605,
+      "num": 409605,
+      "word": "仙侠剧女主颜值TOP",
+      "onboard_time": 1688544935,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 402772,
       "num": 402772,
       "word": "为何放弃入学的研究生越来越多",
@@ -859,20 +875,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 388046,
-      "num": 388046,
-      "word": "美总统参选人称中国周边有313美军基地",
-      "onboard_time": 1688543496,
-      "rank": 19,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 373054,
       "num": 373054,
       "word": "肖战洗澡vs杨洋王子奇洗澡",
       "onboard_time": 1688477257,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371723,
+      "num": 371723,
+      "word": "荷花火锅",
+      "onboard_time": 1688541815,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 371707,
@@ -937,14 +953,6 @@
       "onboard_time": 1688522611,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366756,
-      "num": 366756,
-      "word": "荷花火锅",
-      "onboard_time": 1688541815,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 364014,
@@ -1043,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332595,
+      "num": 332595,
+      "word": "消失的她小头像",
+      "onboard_time": 1688544995,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330936,
       "num": 330936,
       "word": "战至巅峰",
@@ -1139,20 +1155,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293542,
-      "num": 293542,
-      "word": "仙侠剧女主颜值TOP",
-      "onboard_time": 1688544935,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 289550,
       "num": 289550,
       "word": "林俊杰演唱会",
       "onboard_time": 1688530782,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289524,
+      "num": 289524,
+      "word": "肖奈KO七年后再合体",
+      "onboard_time": 1688544756,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 288741,
@@ -1171,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284632,
+      "num": 284632,
+      "word": "被裁员领到26万赔偿款",
+      "onboard_time": 1688542298,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283609,
       "num": 283609,
       "word": "玉骨遥特效",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1688538333,
       "rank": 47,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 281044,
-      "num": 281044,
-      "word": "被裁员领到26万赔偿款",
-      "onboard_time": 1688542298,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 280203,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1688514992,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274356,
-      "num": 274356,
-      "word": "肖奈KO七年后再合体",
-      "onboard_time": 1688544756,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 272817,
@@ -1296,14 +1304,6 @@
       "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
       "onboard_time": 1688500513,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 249247,
-      "num": 249247,
-      "word": "消失的她小头像",
-      "onboard_time": 1688544995,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -1467,6 +1467,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 212204,
+      "num": 212204,
+      "word": "胡锡进",
+      "onboard_time": 1688545832,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 211430,
       "num": 211430,
       "word": "31省最低工资标准公布",
@@ -1619,6 +1627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 177002,
+      "num": 177002,
+      "word": "任敏樱桃碎花裙",
+      "onboard_time": 1688546253,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176852,
       "num": 176852,
       "word": "时影 凡人弑神",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1688513245,
       "rank": 33,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 174946,
+      "num": 174946,
+      "word": "痛经和生孩子没啥大关系",
+      "onboard_time": 1688544633,
+      "rank": 45,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 173219,

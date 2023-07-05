@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688545556943,
+  "endTime": 1688546437731,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -891,6 +891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1701475,
+      "num": 1701475,
+      "word": "中考满分760我考了753",
+      "onboard_time": 1688541274,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1693557,
       "num": 1693557,
       "word": "杭州女子买彩票误打误撞中了一千万",
@@ -921,14 +929,6 @@
       "onboard_time": 1688188774,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1651808,
-      "num": 1651808,
-      "word": "中考满分760我考了753",
-      "onboard_time": 1688541274,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 1630521,
@@ -2035,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929910,
+      "num": 539067,
+      "word": "淄博烧烤怎么样了",
+      "onboard_time": 1688544453,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 926340,
       "num": 926340,
       "word": "网友感谢王一博赞助奖学金",
@@ -2803,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731831,
+      "num": 396218,
+      "word": "体检后成了全公司笑话",
+      "onboard_time": 1688542895,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 731442,
       "num": 731442,
       "word": "起猛了看见韩栋抱肖战",
@@ -3065,14 +3081,6 @@
       "onboard_time": 1688202575,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 673903,
-      "num": 381795,
-      "word": "体检后成了全公司笑话",
-      "onboard_time": 1688542895,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 670692,
@@ -4859,14 +4867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449788,
-      "num": 298540,
-      "word": "淄博烧烤怎么样了",
-      "onboard_time": 1688544453,
-      "rank": 30,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 449261,
       "num": 449261,
       "word": "填个志愿都快要把家填散了",
@@ -4977,6 +4977,14 @@
       "onboard_time": 1688282915,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439012,
+      "num": 439012,
+      "word": "美总统参选人称中国周边有313美军基地",
+      "onboard_time": 1688543496,
+      "rank": 19,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 438431,
@@ -5259,6 +5267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409605,
+      "num": 409605,
+      "word": "仙侠剧女主颜值TOP",
+      "onboard_time": 1688544935,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409522,
       "num": 316506,
       "word": "宣璐汪卓成二搭演情侣",
@@ -5539,14 +5555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 388046,
-      "num": 388046,
-      "word": "美总统参选人称中国周边有313美军基地",
-      "onboard_time": 1688543496,
-      "rank": 19,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 386909,
       "num": 280351,
       "word": "玉骨遥配音",
@@ -5763,6 +5771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371723,
+      "num": 371723,
+      "word": "荷花火锅",
+      "onboard_time": 1688541815,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 371718,
       "num": 280260,
       "word": "打车时忘记现金叫什么了",
@@ -5849,14 +5865,6 @@
       "onboard_time": 1688522611,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366756,
-      "num": 366756,
-      "word": "荷花火锅",
-      "onboard_time": 1688541815,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 366211,
@@ -6369,6 +6377,14 @@
       "onboard_time": 1688205031,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332595,
+      "num": 332595,
+      "word": "消失的她小头像",
+      "onboard_time": 1688544995,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 332463,
@@ -7203,14 +7219,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 293542,
-      "num": 293542,
-      "word": "仙侠剧女主颜值TOP",
-      "onboard_time": 1688544935,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 292780,
       "num": 292780,
       "word": "5旬女子被00后喊阿姨后索赔2000",
@@ -7275,6 +7283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 289524,
+      "num": 289524,
+      "word": "肖奈KO七年后再合体",
+      "onboard_time": 1688544756,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288741,
       "num": 288741,
       "word": "原神3.8",
@@ -7329,6 +7345,14 @@
       "onboard_time": 1688252659,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 284632,
+      "num": 284632,
+      "word": "被裁员领到26万赔偿款",
+      "onboard_time": 1688542298,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 284382,
@@ -7425,14 +7449,6 @@
       "onboard_time": 1688457336,
       "rank": 33,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 281044,
-      "num": 281044,
-      "word": "被裁员领到26万赔偿款",
-      "onboard_time": 1688542298,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 280520,
@@ -7553,14 +7569,6 @@
       "onboard_time": 1688349150,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274356,
-      "num": 274356,
-      "word": "肖奈KO七年后再合体",
-      "onboard_time": 1688544756,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 274331,
@@ -8296,14 +8304,6 @@
       "word": "任嘉伦直播",
       "onboard_time": 1688288673,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 249247,
-      "num": 249247,
-      "word": "消失的她小头像",
-      "onboard_time": 1688544995,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -9433,6 +9433,14 @@
       "onboard_time": 1688168605,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 212204,
+      "num": 212204,
+      "word": "胡锡进",
+      "onboard_time": 1688545832,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 212168,
@@ -10619,6 +10627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177002,
+      "num": 177002,
+      "word": "任敏樱桃碎花裙",
+      "onboard_time": 1688546253,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176969,
       "num": 176969,
       "word": "店老板硬气回应挣该挣的钱",
@@ -10721,6 +10737,14 @@
       "onboard_time": 1688290471,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174946,
+      "num": 174946,
+      "word": "痛经和生孩子没啥大关系",
+      "onboard_time": 1688544633,
+      "rank": 45,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 174726,
