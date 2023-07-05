@@ -1,0 +1,410 @@
+{
+  "runTime": 1688552521039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3440455,
+        "num": 3440455,
+        "word": "断崖式分手",
+        "onboard_time": 1688547271,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 549241,
+        "num": 2855437,
+        "word": "成都一公园开出红黄对称双色睡莲",
+        "onboard_time": 1688550633,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42768,
+        "num": 2317575,
+        "word": "中国航天版向云端",
+        "onboard_time": 1688534497,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2285274,
+        "num": 2285274,
+        "word": "清华硫酸泼熊学生成中科院副研究员",
+        "onboard_time": 1688547093,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163232,
+        "num": 1435126,
+        "word": "贵州村超出圈蜀黍喊话球迷",
+        "onboard_time": 1688549973,
+        "rank": 4,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 1239893,
+        "num": 1239893,
+        "word": "蔡徐坤暂缓现场出席TMEA盛典",
+        "onboard_time": 1688535816,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128295,
+        "num": 1166591,
+        "word": "广西现鸳鸯江奇景",
+        "onboard_time": 1688550633,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1164734,
+        "num": 1164734,
+        "word": "淄博烧烤怎么样了",
+        "onboard_time": 1688544453,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 983821,
+        "num": 983821,
+        "word": "肖战任敏水下吻",
+        "onboard_time": 1688546674,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 672972,
+        "num": 672972,
+        "word": "TFBOYS十年专辑曲目",
+        "onboard_time": 1688548113,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1718275,
+        "num": 670745,
+        "word": "女子不穿内裤试衣隔天要求退换遭拒",
+        "onboard_time": 1688538095,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134747,
+        "num": 670294,
+        "word": "印尼57岁男子性侵女儿9年产7子",
+        "onboard_time": 1688546674,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903784,
+        "num": 665595,
+        "word": "王栎鑫前妻否认拿7位数抚养费",
+        "onboard_time": 1688543194,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677528,
+        "num": 663261,
+        "word": "21块钱补办的六级证书",
+        "onboard_time": 1688548957,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 662489,
+        "num": 662489,
+        "word": "男子钓鱼在一帐篷内发现男尸",
+        "onboard_time": 1688550271,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651333,
+        "num": 651333,
+        "word": "消失的她在八角笼中",
+        "onboard_time": 1688547813,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642162,
+        "num": 642162,
+        "word": "戚薇 女生本就是世界上最美好的存在",
+        "onboard_time": 1688547334,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543694,
+        "num": 543694,
+        "word": "硕士毕业10年被查出论文剽窃",
+        "onboard_time": 1688550812,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 533872,
+        "num": 533872,
+        "word": "光渊下架",
+        "onboard_time": 1688552013,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504526,
+        "num": 504526,
+        "word": "被花非花雾非雾震撼了",
+        "onboard_time": 1688540076,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508765,
+        "num": 498499,
+        "word": "马天宇纪若尘结婚剧照",
+        "onboard_time": 1688549555,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478696,
+        "num": 478696,
+        "word": "Faker因伤暂离赛场",
+        "onboard_time": 1688549135,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 462076,
+        "num": 462076,
+        "word": "张睿早几年都干嘛去了",
+        "onboard_time": 1688531079,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459995,
+        "num": 459995,
+        "word": "孙千拍风吹半夏导演不让做头发",
+        "onboard_time": 1688550271,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444802,
+        "num": 444802,
+        "word": "中考满分760我考了753",
+        "onboard_time": 1688541274,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 381381,
+        "num": 381381,
+        "word": "北京人正式被确诊为哪吒",
+        "onboard_time": 1688551893,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 354751,
+        "num": 354751,
+        "word": "周润发确诊新冠",
+        "onboard_time": 1688541935,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 351957,
+        "num": 351957,
+        "word": "台媒评肖战时影哭戏",
+        "onboard_time": 1688549917,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336739,
+        "num": 336739,
+        "word": "原来医院地砖的布局是有说法的",
+        "onboard_time": 1688552494,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321879,
+        "num": 321879,
+        "word": "王力宏律师回应",
+        "onboard_time": 1688550454,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373215,
+        "num": 321608,
+        "word": "哥哥面试妹妹",
+        "onboard_time": 1688549555,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 321089,
+        "num": 321089,
+        "word": "现在该大小S有压力了",
+        "onboard_time": 1688527658,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302196,
+        "num": 302196,
+        "word": "玉骨遥直接跳到第8集",
+        "onboard_time": 1688551774,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293887,
+        "num": 293887,
+        "word": "仙侠剧女主颜值TOP",
+        "onboard_time": 1688544935,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287117,
+        "num": 287117,
+        "word": "王楚然怎么没来扫楼",
+        "onboard_time": 1688547271,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277393,
+        "num": 277393,
+        "word": "我的神仙同事离职了",
+        "onboard_time": 1688542233,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253442,
+        "num": 253442,
+        "word": "原来睡觉也能变好看",
+        "onboard_time": 1688550454,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253142,
+        "num": 253142,
+        "word": "乌卫生部发布核事故应对指南",
+        "onboard_time": 1688548894,
+        "rank": 37,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 249346,
+        "num": 249346,
+        "word": "碳循环减肥法",
+        "onboard_time": 1688549316,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233838,
+        "num": 233838,
+        "word": "体检后成了全公司笑话",
+        "onboard_time": 1688542895,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223713,
+        "num": 223713,
+        "word": "曼联官宣芒特加盟",
+        "onboard_time": 1688552494,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222074,
+        "num": 222074,
+        "word": "大妈300万买基金一年赚不到两万",
+        "onboard_time": 1688540375,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 211589,
+        "num": 211589,
+        "word": "阿本曾因为炎亚纶退出演艺圈",
+        "onboard_time": 1688549614,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207041,
+        "num": 207041,
+        "word": "主人带狗新疆玩1个月连人带狗晒黑",
+        "onboard_time": 1688547871,
+        "rank": 43,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 196915,
+        "num": 196915,
+        "word": "痛经和生孩子没啥大关系",
+        "onboard_time": 1688544633,
+        "rank": 44,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 191983,
+        "num": 191983,
+        "word": "当穷鬼养了条馋狗",
+        "onboard_time": 1688552432,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184921,
+        "num": 184921,
+        "word": "jiejie",
+        "onboard_time": 1688533538,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117488,
+        "num": 184847,
+        "word": "胡锡进",
+        "onboard_time": 1688545832,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184844,
+        "num": 184844,
+        "word": "周翊然张淼怡三年前试戏镜头",
+        "onboard_time": 1688538995,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184250,
+        "num": 184250,
+        "word": "90后的潮流应该没有轮回吧",
+        "onboard_time": 1688552134,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把互利合作蛋糕做大#"
+    }
+  }
+}

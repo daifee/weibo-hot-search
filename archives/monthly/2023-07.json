@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688549699988,
+  "endTime": 1688552521039,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -251,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3440455,
+      "num": 3440455,
+      "word": "断崖式分手",
+      "onboard_time": 1688547271,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 3436959,
       "num": 3436959,
       "word": "正式被确诊为浣碧",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 2464994,
-      "num": 642675,
+      "num": 670745,
       "word": "女子不穿内裤试衣隔天要求退换遭拒",
       "onboard_time": 1688538095,
       "rank": 30,
@@ -481,6 +489,14 @@
       "onboard_time": 1688184151,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2285274,
+      "num": 2285274,
+      "word": "清华硫酸泼熊学生成中科院副研究员",
+      "onboard_time": 1688547093,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2280970,
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 1600913,
-      "num": 631811,
+      "num": 665595,
       "word": "王栎鑫前妻否认拿7位数抚养费",
       "onboard_time": 1688543194,
       "rank": 11,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1688369265,
       "rank": 5,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 1428226,
-      "num": 1428226,
-      "word": "清华硫酸泼熊学生成中科院副研究员",
-      "onboard_time": 1688547093,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1425572,
@@ -1219,14 +1227,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1313286,
-      "num": 1313286,
-      "word": "断崖式分手",
-      "onboard_time": 1688547271,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1310274,
       "num": 1310274,
       "word": "消失的她票房超人生大事",
@@ -1268,7 +1268,7 @@
     },
     {
       "raw_hot": 1263367,
-      "num": 620568,
+      "num": 670294,
       "word": "印尼57岁男子性侵女儿9年产7子",
       "onboard_time": 1688546674,
       "rank": 12,
@@ -3107,6 +3107,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 677528,
+      "num": 663261,
+      "word": "21块钱补办的六级证书",
+      "onboard_time": 1688548957,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 677409,
       "num": 677409,
       "word": "e人和i人周末的区别",
@@ -3235,6 +3243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 662489,
+      "num": 662489,
+      "word": "男子钓鱼在一帐篷内发现男尸",
+      "onboard_time": 1688550271,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662031,
       "num": 368969,
       "word": "终于知道肚子痛是哪里痛了",
@@ -3336,6 +3352,14 @@
       "word": "玉骨遥 3D打印",
       "onboard_time": 1688298812,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 651333,
+      "num": 651333,
+      "word": "消失的她在八角笼中",
+      "onboard_time": 1688547813,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -4043,6 +4067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549241,
+      "num": 2855437,
+      "word": "成都一公园开出红黄对称双色睡莲",
+      "onboard_time": 1688550633,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547332,
       "num": 547332,
       "word": "网友理解的李木子手势",
@@ -4073,6 +4105,14 @@
       "onboard_time": 1688365377,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 543694,
+      "num": 543694,
+      "word": "硕士毕业10年被查出论文剽窃",
+      "onboard_time": 1688550812,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 543681,
@@ -4137,6 +4177,14 @@
       "onboard_time": 1688132379,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533872,
+      "num": 533872,
+      "word": "光渊下架",
+      "onboard_time": 1688552013,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 533790,
@@ -4401,6 +4449,14 @@
       "onboard_time": 1688537074,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508765,
+      "num": 498499,
+      "word": "马天宇纪若尘结婚剧照",
+      "onboard_time": 1688549555,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 508481,
@@ -4675,6 +4731,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 478696,
+      "num": 478696,
+      "word": "Faker因伤暂离赛场",
+      "onboard_time": 1688549135,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 476971,
       "num": 476971,
       "word": "是不是鹿晗派你来问的",
@@ -4801,6 +4865,14 @@
       "onboard_time": 1688447322,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459995,
+      "num": 459995,
+      "word": "孙千拍风吹半夏导演不让做头发",
+      "onboard_time": 1688550271,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 459966,
@@ -4993,14 +5065,6 @@
       "onboard_time": 1688274932,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 443399,
-      "num": 443399,
-      "word": "消失的她在八角笼中",
-      "onboard_time": 1688547813,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 443264,
@@ -5699,6 +5763,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 381381,
+      "num": 381381,
+      "word": "北京人正式被确诊为哪吒",
+      "onboard_time": 1688551893,
+      "rank": 25,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 381230,
       "num": 381230,
       "word": "Jennie音乐节彩排视频",
@@ -5817,6 +5889,14 @@
       "onboard_time": 1688294976,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373215,
+      "num": 321608,
+      "word": "哥哥面试妹妹",
+      "onboard_time": 1688549555,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 372704,
@@ -6131,6 +6211,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 351957,
+      "num": 351957,
+      "word": "台媒评肖战时影哭戏",
+      "onboard_time": 1688549917,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351546,
       "num": 338892,
       "word": "张杰回应巡演脱衣服",
@@ -6385,6 +6473,14 @@
       "onboard_time": 1688468494,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336739,
+      "num": 336739,
+      "word": "原来医院地砖的布局是有说法的",
+      "onboard_time": 1688552494,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 336160,
@@ -6683,6 +6779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321879,
+      "num": 321879,
+      "word": "王力宏律师回应",
+      "onboard_time": 1688550454,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321749,
       "num": 304172,
       "word": "EXO预告",
@@ -6817,14 +6921,6 @@
       "onboard_time": 1688442637,
       "rank": 31,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 314178,
-      "num": 268097,
-      "word": "21块钱补办的六级证书",
-      "onboard_time": 1688548957,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 313920,
@@ -7043,6 +7139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302196,
+      "num": 302196,
+      "word": "玉骨遥直接跳到第8集",
+      "onboard_time": 1688551774,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301973,
       "num": 301973,
       "word": "恶鬼第四集含鬼量",
@@ -7057,14 +7161,6 @@
       "onboard_time": 1688204970,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301385,
-      "num": 301385,
-      "word": "Faker因伤暂离赛场",
-      "onboard_time": 1688549135,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 301273,
@@ -8259,6 +8355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253442,
+      "num": 253442,
+      "word": "原来睡觉也能变好看",
+      "onboard_time": 1688550454,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253380,
       "num": 253380,
       "word": "不联系就是不喜欢吗",
@@ -8289,6 +8393,14 @@
       "onboard_time": 1688297194,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253142,
+      "num": 253142,
+      "word": "乌卫生部发布核事故应对指南",
+      "onboard_time": 1688548771,
+      "rank": 42,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 252926,
@@ -8417,6 +8529,14 @@
       "onboard_time": 1688288673,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249346,
+      "num": 249346,
+      "word": "碳循环减肥法",
+      "onboard_time": 1688549316,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 248963,
@@ -9171,6 +9291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223713,
+      "num": 223713,
+      "word": "曼联官宣芒特加盟",
+      "onboard_time": 1688552494,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223673,
       "num": 223673,
       "word": "以为是艳遇结果竟然是",
@@ -9563,6 +9691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211589,
+      "num": 211589,
+      "word": "阿本曾因为炎亚纶退出演艺圈",
+      "onboard_time": 1688549614,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211511,
       "num": 211511,
       "word": "光是看心脏都受不了",
@@ -9593,14 +9729,6 @@
       "onboard_time": 1688521053,
       "rank": 35,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 211287,
-      "num": 211287,
-      "word": "乌卫生部发布核事故应对指南",
-      "onboard_time": 1688548771,
-      "rank": 42,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 211194,
@@ -9881,14 +10009,6 @@
       "onboard_time": 1688208571,
       "rank": 36,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 203563,
-      "num": 203563,
-      "word": "哥哥面试妹妹",
-      "onboard_time": 1688549555,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 203493,
@@ -10187,14 +10307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194755,
-      "num": 194755,
-      "word": "碳循环减肥法",
-      "onboard_time": 1688549316,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194672,
       "num": 194672,
       "word": "迪奥二零二三秋冬高订秀",
@@ -10305,6 +10417,14 @@
       "onboard_time": 1688278471,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191983,
+      "num": 191983,
+      "word": "当穷鬼养了条馋狗",
+      "onboard_time": 1688552432,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 191577,
@@ -10603,12 +10723,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182875,
-      "num": 182875,
-      "word": "马天宇纪若尘结婚剧照",
-      "onboard_time": 1688549555,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 184250,
+      "num": 184250,
+      "word": "90后的潮流应该没有轮回吧",
+      "onboard_time": 1688552134,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 182826,
@@ -11115,20 +11235,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163232,
+      "num": 1435126,
+      "word": "贵州村超出圈蜀黍喊话球迷",
+      "onboard_time": 1688549973,
+      "rank": 4,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 163055,
       "num": 163055,
       "word": "白色吉祥鸟与白蝴蝶相遇有多惊艳",
       "onboard_time": 1688351188,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162277,
-      "num": 162277,
-      "word": "阿本曾因为炎亚纶退出演艺圈",
-      "onboard_time": 1688549614,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 161373,
@@ -11603,6 +11723,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 128295,
+      "num": 1166591,
+      "word": "广西现鸳鸯江奇景",
+      "onboard_time": 1688550633,
+      "rank": 6,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 127060,
       "num": 1731559,
       "word": "中国人首次荣获护理界国际成就奖",
@@ -11764,7 +11892,7 @@
     },
     {
       "raw_hot": 101689,
-      "num": 1437553,
+      "num": 2317575,
       "word": "中国航天版向云端",
       "onboard_time": 1688534497,
       "rank": 2,
