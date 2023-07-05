@@ -1,12 +1,20 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688526634817,
+  "endTime": 1688528038309,
   "band_list": [
     {
       "raw_hot": 7702414,
       "num": 7702414,
       "word": "阿雅毛发及尿液检测报告",
       "onboard_time": 1688523872,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7564434,
+      "num": 7564434,
+      "word": "阿雅工作室发检测报告",
+      "onboard_time": 1688527316,
       "rank": 0,
       "category": "艺人"
     },
@@ -99,6 +107,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1117835,
+      "num": 505269,
+      "word": "马保国",
+      "onboard_time": 1688525313,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1075075,
       "num": 500587,
       "word": "美国女网红直播睡觉月入1447万",
@@ -163,6 +179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 746391,
+      "num": 746391,
+      "word": "赵丽颖张睿演过新还珠格格",
+      "onboard_time": 1688525616,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 731442,
       "num": 731442,
       "word": "起猛了看见韩栋抱肖战",
@@ -171,12 +195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 697258,
-      "num": 487769,
-      "word": "马保国",
-      "onboard_time": 1688525313,
-      "rank": 15,
-      "category": "社会新闻,艺人"
+      "raw_hot": 696939,
+      "num": 696939,
+      "word": "舞台2023歌手阵容官宣",
+      "onboard_time": 1688525434,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 694686,
@@ -275,6 +299,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531972,
+      "num": 409778,
+      "word": "18万钻戒和18万黄金选哪个",
+      "onboard_time": 1688527476,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 509215,
+      "num": 404102,
+      "word": "不要给孩子吃太多水果了",
+      "onboard_time": 1688524657,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 502443,
+      "num": 298792,
+      "word": "官方回应山东一辅警接连杀害两名女性",
+      "onboard_time": 1688526580,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495283,
+      "num": 495283,
+      "word": "肖战迪丽热巴合作一部古偶吧",
+      "onboard_time": 1688527476,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494338,
       "num": 494338,
       "word": "王楚然战损妆",
@@ -289,6 +345,14 @@
       "onboard_time": 1688484633,
       "rank": 7,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 490759,
+      "num": 490759,
+      "word": "世界气象组织确认厄尔尼诺出现",
+      "onboard_time": 1688525374,
+      "rank": 29,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 486443,
@@ -307,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485211,
+      "num": 485211,
+      "word": "现在该大小S有压力了",
+      "onboard_time": 1688527658,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459096,
       "num": 355093,
       "word": "太原万象城",
@@ -321,14 +393,6 @@
       "onboard_time": 1688521112,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 449612,
-      "num": 364048,
-      "word": "不要给孩子吃太多水果了",
-      "onboard_time": 1688524657,
-      "rank": 21,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 442803,
@@ -363,20 +427,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 415864,
-      "num": 415864,
-      "word": "舞台2023歌手阵容官宣",
-      "onboard_time": 1688525434,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 421165,
+      "num": 421165,
+      "word": "青岛巧克力大爷救人嘎嘎猛",
+      "onboard_time": 1688523814,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 414727,
-      "num": 414727,
-      "word": "赵丽颖张睿演过新还珠格格",
-      "onboard_time": 1688525616,
-      "rank": 31,
+      "raw_hot": 420549,
+      "num": 420549,
+      "word": "当我飞奔向你",
+      "onboard_time": 1688526519,
+      "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402772,
+      "num": 402772,
+      "word": "为何放弃入学的研究生越来越多",
+      "onboard_time": 1688522732,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 400637,
+      "num": 400637,
+      "word": "虞书欣我是esther",
+      "onboard_time": 1688524354,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 394886,
@@ -388,19 +468,11 @@
     },
     {
       "raw_hot": 391594,
-      "num": 287761,
+      "num": 288966,
       "word": "有个会流白色眼泪的女友有多酷",
       "onboard_time": 1688523453,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 383361,
-      "num": 383361,
-      "word": "青岛巧克力大爷救人嘎嘎猛",
-      "onboard_time": 1688523814,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373054,
@@ -435,12 +507,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358396,
-      "num": 358396,
-      "word": "虞书欣我是esther",
-      "onboard_time": 1688524354,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 360302,
+      "num": 360302,
+      "word": "邓紫棋官宣加盟中国说唱巅峰对决",
+      "onboard_time": 1688527718,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349072,
+      "num": 349072,
+      "word": "杨颖王楚然任敏连播两部剧",
+      "onboard_time": 1688524896,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 345343,
@@ -449,14 +529,6 @@
       "onboard_time": 1688517515,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 342431,
-      "num": 342431,
-      "word": "杨颖王楚然任敏连播两部剧",
-      "onboard_time": 1688524896,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 340187,
@@ -473,14 +545,6 @@
       "onboard_time": 1688518832,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 336116,
-      "num": 336116,
-      "word": "世界气象组织确认厄尔尼诺出现",
-      "onboard_time": 1688525374,
-      "rank": 29,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 334667,
@@ -523,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303391,
-      "num": 303391,
-      "word": "为何放弃入学的研究生越来越多",
-      "onboard_time": 1688522732,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 302872,
       "num": 320808,
       "word": "痞幼",
@@ -553,6 +609,14 @@
       "onboard_time": 1688491519,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288741,
+      "num": 288741,
+      "word": "原神3.8",
+      "onboard_time": 1688527060,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 284689,
@@ -603,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 261249,
+      "num": 261249,
+      "word": "拆个家把自己拆瘸的小猫",
+      "onboard_time": 1688526399,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260022,
       "num": 260022,
       "word": "梦海开分意难平吗",
@@ -643,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241939,
+      "num": 241939,
+      "word": "在欧洲企业加班之后被经理暗示了",
+      "onboard_time": 1688526519,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238930,
       "num": 238930,
       "word": "薛之谦腿怎么了",
@@ -673,6 +753,14 @@
       "onboard_time": 1688514992,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227154,
+      "num": 227154,
+      "word": "高考后向喜欢十年的男生坦白了",
+      "onboard_time": 1688526159,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 223445,
@@ -747,22 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207817,
-      "num": 207817,
-      "word": "高考后向喜欢十年的男生坦白了",
-      "onboard_time": 1688526159,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 204500,
-      "num": 204500,
-      "word": "官方回应山东一辅警接连杀害两名女性",
-      "onboard_time": 1688526580,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202193,
       "num": 202193,
       "word": "大哥多看一眼抢救回热射病老人",
@@ -777,6 +849,14 @@
       "onboard_time": 1688475513,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199874,
+      "num": 199874,
+      "word": "战至巅峰",
+      "onboard_time": 1688527774,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 196005,
@@ -795,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194989,
+      "num": 194989,
+      "word": "现在的动画画风",
+      "onboard_time": 1688525857,
+      "rank": 46,
+      "category": "动漫,幽默"
+    },
+    {
       "raw_hot": 194205,
       "num": 194205,
       "word": "杨洋张彬彬二搭人间烟火",
@@ -803,20 +891,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192799,
-      "num": 192799,
-      "word": "拆个家把自己拆瘸的小猫",
-      "onboard_time": 1688526399,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192226,
       "num": 192226,
       "word": "原来干一行恨一行是真的",
       "onboard_time": 1688511740,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190588,
+      "num": 190588,
+      "word": "安崎新综艺宣发",
+      "onboard_time": 1688528017,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 184441,
@@ -867,28 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167736,
-      "num": 167736,
-      "word": "当我飞奔向你",
-      "onboard_time": 1688526519,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165287,
       "num": 165287,
       "word": "长风渡央八收视破1",
       "onboard_time": 1688486910,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163753,
-      "num": 163753,
-      "word": "现在的动画画风",
-      "onboard_time": 1688525857,
-      "rank": 46,
-      "category": "动漫,幽默"
     },
     {
       "raw_hot": 158269,

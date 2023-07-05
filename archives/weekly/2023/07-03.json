@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688526634817,
+  "endTime": 1688528038309,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -71,6 +71,14 @@
       "num": 7702414,
       "word": "阿雅毛发及尿液检测报告",
       "onboard_time": 1688523872,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7564434,
+      "num": 7564434,
+      "word": "阿雅工作室发检测报告",
+      "onboard_time": 1688527316,
       "rank": 0,
       "category": "艺人"
     },
@@ -835,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1117835,
+      "num": 505269,
+      "word": "马保国",
+      "onboard_time": 1688525313,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1115700,
       "num": 1115700,
       "word": "日本札幌一酒店惊现无头男尸",
@@ -1467,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 746391,
+      "num": 746391,
+      "word": "赵丽颖张睿演过新还珠格格",
+      "onboard_time": 1688525616,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 740399,
       "num": 740399,
       "word": "夫胜宽暂停活动",
@@ -1563,12 +1587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 697258,
-      "num": 487769,
-      "word": "马保国",
-      "onboard_time": 1688525313,
-      "rank": 15,
-      "category": "社会新闻,艺人"
+      "raw_hot": 696939,
+      "num": 696939,
+      "word": "舞台2023歌手阵容官宣",
+      "onboard_time": 1688525434,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 695559,
@@ -2099,6 +2123,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 531972,
+      "num": 409778,
+      "word": "18万钻戒和18万黄金选哪个",
+      "onboard_time": 1688527476,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 530769,
       "num": 530769,
       "word": "白桃星座",
@@ -2195,6 +2227,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 509215,
+      "num": 404102,
+      "word": "不要给孩子吃太多水果了",
+      "onboard_time": 1688524657,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 505607,
       "num": 505607,
       "word": "黄子韬孙千徐志胜对话信息量太大了",
@@ -2211,12 +2251,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 502443,
+      "num": 298792,
+      "word": "官方回应山东一辅警接连杀害两名女性",
+      "onboard_time": 1688526580,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
       "onboard_time": 1688372085,
       "rank": 30,
       "category": "旅游,幽默"
+    },
+    {
+      "raw_hot": 495283,
+      "num": 495283,
+      "word": "肖战迪丽热巴合作一部古偶吧",
+      "onboard_time": 1688527476,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 494338,
@@ -2259,6 +2315,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 490759,
+      "num": 490759,
+      "word": "世界气象组织确认厄尔尼诺出现",
+      "onboard_time": 1688525374,
+      "rank": 29,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 490351,
       "num": 490351,
       "word": "TFBOYS十周年能不能考虑下巡回",
@@ -2297,6 +2361,14 @@
       "onboard_time": 1688483978,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485211,
+      "num": 485211,
+      "word": "现在该大小S有压力了",
+      "onboard_time": 1688527658,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 484981,
@@ -2467,14 +2539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449612,
-      "num": 364048,
-      "word": "不要给孩子吃太多水果了",
-      "onboard_time": 1688524657,
-      "rank": 21,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 442803,
       "num": 442803,
       "word": "猪猪侠大战愤怒的小鸟",
@@ -2555,6 +2619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 421165,
+      "num": 421165,
+      "word": "青岛巧克力大爷救人嘎嘎猛",
+      "onboard_time": 1688523814,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421121,
       "num": 421121,
       "word": "李一桐体重不到90斤",
@@ -2563,20 +2635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420549,
+      "num": 420549,
+      "word": "当我飞奔向你",
+      "onboard_time": 1688526519,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417194,
       "num": 417194,
       "word": "玉骨遥镜头vs陈情令镜头",
       "onboard_time": 1688399796,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 415864,
-      "num": 415864,
-      "word": "舞台2023歌手阵容官宣",
-      "onboard_time": 1688525434,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 415343,
@@ -2593,14 +2665,6 @@
       "onboard_time": 1688405540,
       "rank": 48,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 414727,
-      "num": 414727,
-      "word": "赵丽颖张睿演过新还珠格格",
-      "onboard_time": 1688525616,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 411113,
@@ -2625,6 +2689,14 @@
       "onboard_time": 1688311236,
       "rank": 15,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 402772,
+      "num": 402772,
+      "word": "为何放弃入学的研究生越来越多",
+      "onboard_time": 1688522732,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 402315,
@@ -2665,6 +2737,14 @@
       "onboard_time": 1688471252,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 400637,
+      "num": 400637,
+      "word": "虞书欣我是esther",
+      "onboard_time": 1688524354,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 399622,
@@ -2740,7 +2820,7 @@
     },
     {
       "raw_hot": 391594,
-      "num": 287761,
+      "num": 288966,
       "word": "有个会流白色眼泪的女友有多酷",
       "onboard_time": 1688523453,
       "rank": 30,
@@ -2784,14 +2864,6 @@
       "word": "给校长撑伞挡雨的书记是山东人",
       "onboard_time": 1688412075,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383361,
-      "num": 383361,
-      "word": "青岛巧克力大爷救人嘎嘎猛",
-      "onboard_time": 1688523814,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2947,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360302,
+      "num": 360302,
+      "word": "邓紫棋官宣加盟中国说唱巅峰对决",
+      "onboard_time": 1688527718,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360189,
       "num": 360189,
       "word": "王一博新电影叫小沈阳谢哥",
@@ -2961,14 +3041,6 @@
       "onboard_time": 1688373044,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 358396,
-      "num": 358396,
-      "word": "虞书欣我是esther",
-      "onboard_time": 1688524354,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 357713,
@@ -3009,6 +3081,14 @@
       "onboard_time": 1688344830,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 349072,
+      "num": 349072,
+      "word": "杨颖王楚然任敏连播两部剧",
+      "onboard_time": 1688524896,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 348597,
@@ -3057,14 +3137,6 @@
       "onboard_time": 1688517515,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 342431,
-      "num": 342431,
-      "word": "杨颖王楚然任敏连播两部剧",
-      "onboard_time": 1688524896,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 342215,
@@ -3145,14 +3217,6 @@
       "onboard_time": 1688480441,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 336116,
-      "num": 336116,
-      "word": "世界气象组织确认厄尔尼诺出现",
-      "onboard_time": 1688525374,
-      "rank": 29,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 335652,
@@ -3475,14 +3539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303391,
-      "num": 303391,
-      "word": "为何放弃入学的研究生越来越多",
-      "onboard_time": 1688522732,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 300521,
       "num": 375638,
       "word": "录取通知书里的中国式浪漫",
@@ -3649,6 +3705,14 @@
       "onboard_time": 1688383542,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 288741,
+      "num": 288741,
+      "word": "原神3.8",
+      "onboard_time": 1688527060,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 288560,
@@ -3931,6 +3995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261249,
+      "num": 261249,
+      "word": "拆个家把自己拆瘸的小猫",
+      "onboard_time": 1688526399,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260022,
       "num": 260022,
       "word": "梦海开分意难平吗",
@@ -4211,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241939,
+      "num": 241939,
+      "word": "在欧洲企业加班之后被经理暗示了",
+      "onboard_time": 1688526519,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241880,
       "num": 241880,
       "word": "张柏芝吴磊同框好养眼",
@@ -4377,6 +4457,14 @@
       "onboard_time": 1688514992,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227154,
+      "num": 227154,
+      "word": "高考后向喜欢十年的男生坦白了",
+      "onboard_time": 1688526159,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 225651,
@@ -4715,14 +4803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207817,
-      "num": 207817,
-      "word": "高考后向喜欢十年的男生坦白了",
-      "onboard_time": 1688526159,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207636,
       "num": 207636,
       "word": "英雄联盟",
@@ -4785,14 +4865,6 @@
       "onboard_time": 1688439454,
       "rank": 40,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 204500,
-      "num": 204500,
-      "word": "官方回应山东一辅警接连杀害两名女性",
-      "onboard_time": 1688526580,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203493,
@@ -4889,6 +4961,14 @@
       "onboard_time": 1688480080,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199874,
+      "num": 199874,
+      "word": "战至巅峰",
+      "onboard_time": 1688527774,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 199394,
@@ -5011,6 +5091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194989,
+      "num": 194989,
+      "word": "现在的动画画风",
+      "onboard_time": 1688525857,
+      "rank": 46,
+      "category": "动漫,幽默"
+    },
+    {
       "raw_hot": 194672,
       "num": 194672,
       "word": "迪奥二零二三秋冬高订秀",
@@ -5033,14 +5121,6 @@
       "onboard_time": 1688513848,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192799,
-      "num": 192799,
-      "word": "拆个家把自己拆瘸的小猫",
-      "onboard_time": 1688526399,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 192505,
@@ -5097,6 +5177,14 @@
       "onboard_time": 1688313033,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 190588,
+      "num": 190588,
+      "word": "安崎新综艺宣发",
+      "onboard_time": 1688528017,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 190400,
@@ -5379,14 +5467,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 167736,
-      "num": 167736,
-      "word": "当我飞奔向你",
-      "onboard_time": 1688526519,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167578,
       "num": 167578,
       "word": "妈妈30年前成长日记每句都在说爱你",
@@ -5473,14 +5553,6 @@
       "onboard_time": 1688486910,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163753,
-      "num": 163753,
-      "word": "现在的动画画风",
-      "onboard_time": 1688525857,
-      "rank": 46,
-      "category": "动漫,幽默"
     },
     {
       "raw_hot": 163055,
