@@ -1,0 +1,410 @@
+{
+  "runTime": 1688596652670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2375970,
+        "num": 2375970,
+        "word": "李玟80岁母亲首先发现女儿在寓所轻生",
+        "onboard_time": 1688569866,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1315363,
+        "num": 1315363,
+        "word": "李玟老公",
+        "onboard_time": 1688565287,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37961,
+        "num": 1301180,
+        "word": "世界最早印花工具做出的汉服有多美",
+        "onboard_time": 1688558011,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300188,
+        "num": 1300188,
+        "word": "李玟生前曾完全失声",
+        "onboard_time": 1688576008,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1131633,
+        "num": 1131633,
+        "word": "萧亚轩 她是我永远的天后",
+        "onboard_time": 1688574812,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832570,
+        "num": 832570,
+        "word": "李玟去世",
+        "onboard_time": 1688563418,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304348,
+        "num": 304348,
+        "word": "抑郁症两大原因",
+        "onboard_time": 1688574812,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 251384,
+        "num": 251384,
+        "word": "2年被家暴16次女子希望判丈夫死刑",
+        "onboard_time": 1688564861,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200372,
+        "num": 200372,
+        "word": "被奶奶在海边的这句话整泪目了",
+        "onboard_time": 1688574812,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185760,
+        "num": 185760,
+        "word": "抑郁症早期征兆有哪些",
+        "onboard_time": 1688575588,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 701710,
+        "num": 180966,
+        "word": "众星悼念李玟",
+        "onboard_time": 1688568357,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477947,
+        "num": 177670,
+        "word": "经纪公司回应李玟去世",
+        "onboard_time": 1688575888,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467764,
+        "num": 175195,
+        "word": "张杰 多关心身边的朋友们",
+        "onboard_time": 1688572252,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188062,
+        "num": 166986,
+        "word": "警方回应男生大腿被同学用圆规扎出血",
+        "onboard_time": 1688589073,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166036,
+        "num": 166036,
+        "word": "偷拿同学20元男孩被妈妈带去派出所自首",
+        "onboard_time": 1688574693,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454941,
+        "num": 165240,
+        "word": "快告诉我是假的",
+        "onboard_time": 1688564730,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380436,
+        "num": 162135,
+        "word": "李玟抑郁症",
+        "onboard_time": 1688563909,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208147,
+        "num": 161697,
+        "word": "孙红雷 李玟走好",
+        "onboard_time": 1688569104,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151914,
+        "num": 151914,
+        "word": "抑郁症不是情绪问题",
+        "onboard_time": 1688573023,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151551,
+        "num": 151551,
+        "word": "坐高铁最好不要趴小桌板上",
+        "onboard_time": 1688554295,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307383,
+        "num": 150967,
+        "word": "姑娘每天放屁数十次确诊肠癌晚期",
+        "onboard_time": 1688557352,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245268,
+        "num": 150499,
+        "word": "钟欣潼 还是很想见花花",
+        "onboard_time": 1688576189,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147321,
+        "num": 147321,
+        "word": "印尼57岁男子性侵女儿9年产7子",
+        "onboard_time": 1688546674,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147259,
+        "num": 147259,
+        "word": "中国的年轻人没有客厅",
+        "onboard_time": 1688554772,
+        "rank": 23,
+        "category": "情感,游戏"
+      },
+      {
+        "raw_hot": 114327,
+        "num": 114327,
+        "word": "新疆导游小祁的团期排到了10月份",
+        "onboard_time": 1688565713,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 178519,
+        "num": 113625,
+        "word": "阳光型抑郁症",
+        "onboard_time": 1688569682,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175260,
+        "num": 113320,
+        "word": "天后殒落 世上再无月光爱人",
+        "onboard_time": 1688567008,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168391,
+        "num": 113320,
+        "word": "内娱建模脸明星",
+        "onboard_time": 1688592375,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111591,
+        "num": 111591,
+        "word": "圆肩驼背探颈是种病",
+        "onboard_time": 1688558316,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102142,
+        "num": 102142,
+        "word": "听见奇怪声音一个警醒救下聋哑人",
+        "onboard_time": 1688577806,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157441,
+        "num": 101044,
+        "word": "清华硫酸泼熊学生成中科院副研究员",
+        "onboard_time": 1688547093,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156107,
+        "num": 96057,
+        "word": "光渊剧组工作人员发长文",
+        "onboard_time": 1688569919,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151931,
+        "num": 92228,
+        "word": "李玟好友说她生前想要一个小孩",
+        "onboard_time": 1688579539,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138217,
+        "num": 85761,
+        "word": "杨洋终于有段完整的校园恋了",
+        "onboard_time": 1688570222,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84100,
+        "num": 84100,
+        "word": "河北一家长称儿子长期遭同学欺负",
+        "onboard_time": 1688593635,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 122264,
+        "num": 83712,
+        "word": "韩红首次公开回应被举报",
+        "onboard_time": 1688561790,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117431,
+        "num": 83668,
+        "word": "张艺兴悼念李玟",
+        "onboard_time": 1688568702,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104382,
+        "num": 83602,
+        "word": "麦当娜",
+        "onboard_time": 1688572432,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82876,
+        "num": 82876,
+        "word": "00后男生地铁中勇敢阻拦男子持刀行凶",
+        "onboard_time": 1688567353,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68567,
+        "num": 68567,
+        "word": "哪一瞬间你意识到了人的差距",
+        "onboard_time": 1688574991,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93285,
+        "num": 68349,
+        "word": "感觉才看了李玟刘聪的舞台",
+        "onboard_time": 1688567304,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82321,
+        "num": 67807,
+        "word": "TFBOYS再不官宣就不礼貌了",
+        "onboard_time": 1688556332,
+        "rank": 41,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 74981,
+        "num": 66976,
+        "word": "蔡依林 永远记得灿烂笑容的你",
+        "onboard_time": 1688571599,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70282,
+        "num": 66446,
+        "word": "李玟最后一条微博是新歌",
+        "onboard_time": 1688581397,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65893,
+        "num": 65893,
+        "word": "再强大的人也有能量用完的一天",
+        "onboard_time": 1688576846,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64831,
+        "num": 64831,
+        "word": "七旬老人凌晨迷失深山无人机热成像找人",
+        "onboard_time": 1688595438,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52554,
+        "num": 64670,
+        "word": "原来蚝油是要放在冰箱的",
+        "onboard_time": 1688575588,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48361,
+        "num": 63869,
+        "word": "断崖式分手",
+        "onboard_time": 1688547271,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29005,
+        "num": 63723,
+        "word": "温网2023",
+        "onboard_time": 1688585113,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22250,
+        "num": 62760,
+        "word": "温网",
+        "onboard_time": 1688568759,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织如何回应国际社会期待#"
+    }
+  }
+}
