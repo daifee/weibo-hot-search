@@ -1,0 +1,410 @@
+{
+  "runTime": 1688521802234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2522401,
+        "num": 2522401,
+        "word": "当老公知道前男友随礼5000",
+        "onboard_time": 1688516914,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1262823,
+        "num": 1262823,
+        "word": "工作八年的工资被父母拿走",
+        "onboard_time": 1688516914,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51707,
+        "num": 1098730,
+        "word": "这段交通安全宣传片看得有点上头",
+        "onboard_time": 1688470055,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043895,
+        "num": 1043895,
+        "word": "原来银行并不是五点下班",
+        "onboard_time": 1688516255,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 898128,
+        "num": 898128,
+        "word": "考研和考编同时上岸怎么选",
+        "onboard_time": 1688511982,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 692454,
+        "num": 692454,
+        "word": "你家会整夜开空调吗",
+        "onboard_time": 1688511740,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652493,
+        "num": 652493,
+        "word": "弟弟考上大专却想辍学当兵",
+        "onboard_time": 1688518655,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 583875,
+        "num": 583875,
+        "word": "两年不上班的感受",
+        "onboard_time": 1688517631,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539156,
+        "num": 539156,
+        "word": "嘴角很明显的一块凸起是什么",
+        "onboard_time": 1688517815,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 494338,
+        "num": 494338,
+        "word": "王楚然战损妆",
+        "onboard_time": 1688515529,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2407561,
+        "num": 471678,
+        "word": "李敬言 退学",
+        "onboard_time": 1688519853,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1835084,
+        "num": 463268,
+        "word": "法院判定王力宏李靓蕾离婚获准",
+        "onboard_time": 1688519615,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431271,
+        "num": 431271,
+        "word": "iPhone15系列电池容量曝光",
+        "onboard_time": 1688520870,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 410481,
+        "num": 410481,
+        "word": "白敬亭今年没有问答案之书桃花了",
+        "onboard_time": 1688520094,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394886,
+        "num": 394886,
+        "word": "宋亚轩公开鼠标两周年",
+        "onboard_time": 1688518412,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371707,
+        "num": 371707,
+        "word": "赵丽颖粉丝在张睿直播间宣传与凤行",
+        "onboard_time": 1688512523,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340187,
+        "num": 340187,
+        "word": "王宝强晒与刘德华刘若英19年合照",
+        "onboard_time": 1688519015,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338713,
+        "num": 338713,
+        "word": "改善圆肩驼背的体态操",
+        "onboard_time": 1688518832,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309001,
+        "num": 309001,
+        "word": "李雪琴闻宋茜身上的味道",
+        "onboard_time": 1688513425,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300541,
+        "num": 300541,
+        "word": "北大女生穿马面裙参加毕业典礼",
+        "onboard_time": 1688487449,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 297084,
+        "num": 297084,
+        "word": "白敬亭说网络消息大家想一下再信",
+        "onboard_time": 1688478275,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296202,
+        "num": 296202,
+        "word": "好朋友通知我她要结婚了",
+        "onboard_time": 1688517875,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284373,
+        "num": 284373,
+        "word": "发现了一个吵架屡战屡胜的方法",
+        "onboard_time": 1688517515,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277569,
+        "num": 277569,
+        "word": "没有一个中国人会这么写字",
+        "onboard_time": 1688514992,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272817,
+        "num": 272817,
+        "word": "精神状态最稳定的动物",
+        "onboard_time": 1688518534,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 786384,
+        "num": 270446,
+        "word": "16岁女孩结婚40天后离家出走",
+        "onboard_time": 1688516011,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 260022,
+        "num": 260022,
+        "word": "梦海开分意难平吗",
+        "onboard_time": 1688519313,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1907332,
+        "num": 255451,
+        "word": "女生遭8名未成年男女殴打脱衣",
+        "onboard_time": 1688513786,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227355,
+        "num": 227355,
+        "word": "今晚一个暴躁老爷爷注定要失眠了",
+        "onboard_time": 1688514992,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218391,
+        "num": 218391,
+        "word": "男子两任妻子都查出宫颈癌",
+        "onboard_time": 1688476114,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246188,
+        "num": 218391,
+        "word": "官方回应女生遭8人殴打并逼脱衣",
+        "onboard_time": 1688516914,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245978,
+        "num": 218389,
+        "word": "姚译添对郑恺的嘱咐",
+        "onboard_time": 1688521112,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218331,
+        "num": 218331,
+        "word": "hybe的工作环境",
+        "onboard_time": 1688513967,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208460,
+        "num": 208460,
+        "word": "王源郭京飞情头",
+        "onboard_time": 1688517934,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203431,
+        "num": 203431,
+        "word": "朱某龙骑车去痞幼家偷茅台",
+        "onboard_time": 1688470116,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198547,
+        "num": 198547,
+        "word": "31省最低工资标准公布",
+        "onboard_time": 1688521053,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 195299,
+        "num": 195299,
+        "word": "吴京还是那个吴京",
+        "onboard_time": 1688518055,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195233,
+        "num": 195233,
+        "word": "女子半夜拍蚊子走出158步吓坏老母亲",
+        "onboard_time": 1688511800,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195193,
+        "num": 195193,
+        "word": "EDG",
+        "onboard_time": 1688512703,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194205,
+        "num": 194205,
+        "word": "杨洋张彬彬二搭人间烟火",
+        "onboard_time": 1688513848,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184441,
+        "num": 184441,
+        "word": "张踩铃 看似多元的新标准是最损的",
+        "onboard_time": 1688515470,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178100,
+        "num": 178100,
+        "word": "唐玄奘究竟姓什么",
+        "onboard_time": 1688521471,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176852,
+        "num": 176852,
+        "word": "时影 凡人弑神",
+        "onboard_time": 1688516855,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176489,
+        "num": 176489,
+        "word": "单亲妈妈晕倒3岁女儿暖心照顾",
+        "onboard_time": 1688513245,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 165837,
+        "num": 165837,
+        "word": "何炅王嘉尔曾预言白敬亭宋轶",
+        "onboard_time": 1688478097,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158003,
+        "num": 158003,
+        "word": "在公司叫哥叫姐被说成黑帮",
+        "onboard_time": 1688517875,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153415,
+        "num": 153415,
+        "word": "日本札幌一酒店惊现无头男尸",
+        "onboard_time": 1688477975,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149958,
+        "num": 149958,
+        "word": "EDG 啃老",
+        "onboard_time": 1688473532,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145782,
+        "num": 145782,
+        "word": "太原万象城",
+        "onboard_time": 1688521712,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140777,
+        "num": 140777,
+        "word": "一只小跳蛛一路奔赴而来要抓一只苍蝇",
+        "onboard_time": 1688519431,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把互利合作蛋糕做大#"
+    }
+  }
+}
