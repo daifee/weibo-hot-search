@@ -1,7 +1,15 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688562051450,
+  "endTime": 1688563876501,
   "band_list": [
+    {
+      "raw_hot": 36451616,
+      "num": 36451616,
+      "word": "李玟去世",
+      "onboard_time": 1688563418,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 30586094,
       "num": 30586094,
@@ -184,6 +192,14 @@
       "word": "韩媒曝李俊昊林允儿恋情",
       "onboard_time": 1688352872,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4306038,
+      "num": 4306038,
+      "word": "韩红首次公开回应被举报",
+      "onboard_time": 1688561790,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2216097,
+      "num": 2216097,
+      "word": "TFBOYS再不官宣就不礼貌了",
+      "onboard_time": 1688556332,
+      "rank": 19,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 2213867,
       "num": 638279,
       "word": "曝炎亚纶涉儿少性剥削",
@@ -875,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1756996,
-      "num": 1756996,
-      "word": "TFBOYS再不官宣就不礼貌了",
-      "onboard_time": 1688556332,
-      "rank": 19,
-      "category": "音乐,幽默"
-    },
-    {
       "raw_hot": 1748695,
       "num": 1748695,
       "word": "室友卖掉了我将近十年的青春",
@@ -921,6 +937,14 @@
       "onboard_time": 1688342309,
       "rank": 0,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 1721898,
+      "num": 1721898,
+      "word": "刘雯穿几十斤重锁链裙走秀",
+      "onboard_time": 1688561012,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1719252,
@@ -1667,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1087691,
+      "num": 1064674,
+      "word": "谁给杨幂做的发型",
+      "onboard_time": 1688556273,
+      "rank": 23,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 1079475,
       "num": 1079475,
       "word": "赵露思陈哲远沙发40秒拥吻",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1688303141,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1079188,
-      "num": 574637,
-      "word": "刘雯穿几十斤重锁链裙走秀",
-      "onboard_time": 1688561012,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1077170,
@@ -1729,14 +1753,6 @@
       "onboard_time": 1688133156,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1064674,
-      "num": 1064674,
-      "word": "谁给杨幂做的发型",
-      "onboard_time": 1688556273,
-      "rank": 23,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1063643,
@@ -1833,6 +1849,14 @@
       "onboard_time": 1688447143,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1036989,
+      "num": 1036989,
+      "word": "圆肩驼背探颈是种病",
+      "onboard_time": 1688558316,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1034954,
@@ -2419,6 +2443,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 851032,
+      "num": 458708,
+      "word": "17岁女孩看不孕门诊",
+      "onboard_time": 1688559271,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850343,
       "num": 850343,
       "word": "山东大学拟聘用2名硕士为公寓管理员",
@@ -2788,7 +2820,7 @@
     },
     {
       "raw_hot": 775352,
-      "num": 643037,
+      "num": 737650,
       "word": "凌不疑接嫋嫋vs段嘉许接桑稚",
       "onboard_time": 1688558489,
       "rank": 14,
@@ -3729,14 +3761,6 @@
       "onboard_time": 1688517815,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 617598,
-      "num": 458708,
-      "word": "17岁女孩看不孕门诊",
-      "onboard_time": 1688559271,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615255,
@@ -4835,14 +4859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486273,
-      "num": 453934,
-      "word": "韩红首次公开回应被举报",
-      "onboard_time": 1688561790,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 485963,
       "num": 485963,
       "word": "Minnie普通话比叉烧芬标准",
@@ -4865,14 +4881,6 @@
       "onboard_time": 1688204254,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 481274,
-      "num": 481274,
-      "word": "圆肩驼背探颈是种病",
-      "onboard_time": 1688558316,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479082,
@@ -7371,6 +7379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300966,
+      "num": 221687,
+      "word": "TFBOYS团粉可以站起来了",
+      "onboard_time": 1688562092,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 300651,
       "num": 300651,
       "word": "熊孩子玩扎带勒脖被发现时已充血肿胀",
@@ -7721,6 +7737,14 @@
       "onboard_time": 1688270431,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287666,
+      "num": 244876,
+      "word": "SMTOWN回应金泰妍粉丝",
+      "onboard_time": 1688559753,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 286854,
@@ -8379,6 +8403,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 260131,
+      "num": 260131,
+      "word": "唱倒带为什么不会跑调",
+      "onboard_time": 1688561252,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260022,
       "num": 260022,
       "word": "梦海开分意难平吗",
@@ -8907,14 +8939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244876,
-      "num": 244876,
-      "word": "SMTOWN回应金泰妍粉丝",
-      "onboard_time": 1688559753,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244841,
       "num": 244841,
       "word": "段嘉许也被行车记录仪骗了",
@@ -9073,6 +9097,14 @@
       "onboard_time": 1688369265,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240874,
+      "num": 220241,
+      "word": "周也的怼脸live图",
+      "onboard_time": 1688562871,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 240756,
@@ -9699,6 +9731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219541,
+      "num": 219541,
+      "word": "张耀谈与杨紫合作",
+      "onboard_time": 1688560590,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219046,
       "num": 219046,
       "word": "许巍北京",
@@ -9752,6 +9792,14 @@
       "word": "时影入魔和清醒时的眼神",
       "onboard_time": 1688398181,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217949,
+      "num": 193831,
+      "word": "桑延好直给的爱",
+      "onboard_time": 1688563295,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -9881,14 +9929,6 @@
       "onboard_time": 1688362709,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213690,
-      "num": 213690,
-      "word": "唱倒带为什么不会跑调",
-      "onboard_time": 1688561252,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 213306,
@@ -10563,6 +10603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195337,
+      "num": 227897,
+      "word": "多大V呼吁公共场所宽容幼童",
+      "onboard_time": 1688562871,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195299,
       "num": 195299,
       "word": "吴京还是那个吴京",
@@ -10625,6 +10673,14 @@
       "onboard_time": 1688513848,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194142,
+      "num": 194142,
+      "word": "座头鲸妈妈把乳汁喷射到宝宝口中",
+      "onboard_time": 1688563565,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193164,
@@ -10752,6 +10808,14 @@
       "word": "百岁奶奶穿婚纱跳舞庆祝孙女结婚",
       "onboard_time": 1688351791,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190374,
+      "num": 190374,
+      "word": "扫码点餐 泄露电话号",
+      "onboard_time": 1688563632,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -11011,14 +11075,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 184057,
-      "num": 184057,
-      "word": "张耀谈与杨紫合作",
-      "onboard_time": 1688560590,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 182826,
       "num": 182826,
       "word": "GQ给明星P图",
@@ -11169,6 +11225,14 @@
       "onboard_time": 1688390745,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177256,
+      "num": 3166003,
+      "word": "驰援重庆暴雨的武警官兵辛苦了",
+      "onboard_time": 1688557774,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177172,
@@ -11523,6 +11587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166141,
+      "num": 166141,
+      "word": "BLG零封TES",
+      "onboard_time": 1688562931,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166065,
       "num": 166065,
       "word": "浙江这是下开水的节奏吗",
@@ -11616,6 +11688,14 @@
       "word": "这只熊猫怎么长得又忧郁又开心的",
       "onboard_time": 1688296774,
       "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 160554,
+      "num": 160554,
+      "word": "吸盘碗的质检工作",
+      "onboard_time": 1688563773,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -11888,14 +11968,6 @@
       "word": "金沙江落水女孩拜救人者为干爹",
       "onboard_time": 1688253679,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147346,
-      "num": 1102311,
-      "word": "驰援重庆暴雨的武警官兵辛苦了",
-      "onboard_time": 1688557774,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
