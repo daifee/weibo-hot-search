@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688570479700,
+  "endTime": 1688571370943,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -39,6 +39,14 @@
       "num": 9044864,
       "word": "李玟老公",
       "onboard_time": 1688565287,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8826385,
+      "num": 8826385,
+      "word": "李玟80岁母亲首先发现女儿在寓所轻生",
+      "onboard_time": 1688569866,
       "rank": 10,
       "category": "艺人"
     },
@@ -104,14 +112,6 @@
       "word": "连夜取关5000人",
       "onboard_time": 1688538030,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3544738,
-      "num": 678861,
-      "word": "李玟80岁母亲首先发现女儿在寓所轻生",
-      "onboard_time": 1688569866,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -371,6 +371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1597774,
+      "num": 561434,
+      "word": "阳光型抑郁症",
+      "onboard_time": 1688569682,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1558005,
       "num": 1558005,
       "word": "jiejie",
@@ -440,14 +448,6 @@
       "word": "倪妮在干什么",
       "onboard_time": 1688524716,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1231758,
-      "num": 367195,
-      "word": "阳光型抑郁症",
-      "onboard_time": 1688569682,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -763,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 732978,
+      "num": 315759,
+      "word": "光渊剧组工作人员发长文",
+      "onboard_time": 1688569919,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 731831,
       "num": 396218,
       "word": "体检后成了全公司笑话",
@@ -827,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 690478,
+      "num": 310970,
+      "word": "想你的365天",
+      "onboard_time": 1688566833,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 681801,
       "num": 681801,
       "word": "褪黑素",
@@ -889,14 +905,6 @@
       "onboard_time": 1688518655,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 647777,
-      "num": 293006,
-      "word": "想你的365天",
-      "onboard_time": 1688566833,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 647657,
@@ -1131,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 500128,
-      "num": 291995,
-      "word": "光渊剧组工作人员发长文",
-      "onboard_time": 1688569919,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 494338,
       "num": 494338,
       "word": "王楚然战损妆",
@@ -1355,12 +1355,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 396445,
+      "num": 396445,
+      "word": "00后男生地铁中勇敢阻拦男子持刀行凶",
+      "onboard_time": 1688567353,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394886,
       "num": 394886,
       "word": "宋亚轩公开鼠标两周年",
       "onboard_time": 1688518412,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394738,
+      "num": 301966,
+      "word": "杨洋终于有段完整的校园恋了",
+      "onboard_time": 1688570222,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 392960,
@@ -1707,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320166,
+      "num": 320166,
+      "word": "温网",
+      "onboard_time": 1688568759,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319899,
       "num": 319899,
       "word": "生理期不能吃的水果",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1688513425,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307427,
-      "num": 307427,
-      "word": "00后男生地铁中勇敢阻拦男子持刀行凶",
-      "onboard_time": 1688567353,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303448,
@@ -2155,14 +2171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 231829,
-      "num": 293886,
-      "word": "温网",
-      "onboard_time": 1688568759,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229442,
       "num": 229442,
       "word": "高考后向喜欢十年的男生坦白了",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1688556452,
       "rank": 41,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 213540,
+      "num": 304350,
+      "word": "你心情很不好但是却不难受",
+      "onboard_time": 1688567087,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 211589,
@@ -2435,6 +2451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190296,
+      "num": 293979,
+      "word": "抑郁离你有多近",
+      "onboard_time": 1688570598,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 187987,
       "num": 187987,
       "word": "妈妈的士会一直开直到女孩平安长大",
@@ -2465,14 +2489,6 @@
       "onboard_time": 1688552134,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 184091,
-      "num": 290261,
-      "word": "你心情很不好但是却不难受",
-      "onboard_time": 1688567087,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 179831,
@@ -2641,6 +2657,14 @@
       "onboard_time": 1688517875,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157790,
+      "num": 292893,
+      "word": "四川一高校8个寝室47人考研齐上岸",
+      "onboard_time": 1688570355,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 157023,

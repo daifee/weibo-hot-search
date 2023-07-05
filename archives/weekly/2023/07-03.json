@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688570479700,
+  "endTime": 1688571370943,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -105,6 +105,14 @@
       "onboard_time": 1688354013,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 8826385,
+      "num": 8826385,
+      "word": "李玟80岁母亲首先发现女儿在寓所轻生",
+      "onboard_time": 1688569866,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 8402780,
@@ -257,14 +265,6 @@
       "onboard_time": 1688442518,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3544738,
-      "num": 678861,
-      "word": "李玟80岁母亲首先发现女儿在寓所轻生",
-      "onboard_time": 1688569866,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 3440455,
@@ -795,6 +795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1597774,
+      "num": 561434,
+      "word": "阳光型抑郁症",
+      "onboard_time": 1688569682,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1561314,
       "num": 1561314,
       "word": "隐形眼镜有根线先别急着扔",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1688476114,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1231758,
-      "num": 367195,
-      "word": "阳光型抑郁症",
-      "onboard_time": 1688569682,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 1229167,
@@ -2091,6 +2091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 732978,
+      "num": 315759,
+      "word": "光渊剧组工作人员发长文",
+      "onboard_time": 1688569919,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 731831,
       "num": 396218,
       "word": "体检后成了全公司笑话",
@@ -2217,6 +2225,14 @@
       "onboard_time": 1688547813,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 690478,
+      "num": 310970,
+      "word": "想你的365天",
+      "onboard_time": 1688566833,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 688085,
@@ -2433,14 +2449,6 @@
       "onboard_time": 1688461597,
       "rank": 19,
       "category": "影视,影视"
-    },
-    {
-      "raw_hot": 647777,
-      "num": 293006,
-      "word": "想你的365天",
-      "onboard_time": 1688566833,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 647657,
@@ -3067,14 +3075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 500128,
-      "num": 291995,
-      "word": "光渊剧组工作人员发长文",
-      "onboard_time": 1688569919,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
@@ -3683,6 +3683,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 396445,
+      "num": 396445,
+      "word": "00后男生地铁中勇敢阻拦男子持刀行凶",
+      "onboard_time": 1688567353,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395414,
       "num": 395414,
       "word": "美依礼芽回中国了",
@@ -3705,6 +3713,14 @@
       "onboard_time": 1688518412,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394738,
+      "num": 301966,
+      "word": "杨洋终于有段完整的校园恋了",
+      "onboard_time": 1688570222,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 394198,
@@ -4523,6 +4539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320166,
+      "num": 320166,
+      "word": "温网",
+      "onboard_time": 1688390860,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320089,
       "num": 320089,
       "word": "哪部会成为暑期档爆剧",
@@ -4657,14 +4681,6 @@
       "onboard_time": 1688293536,
       "rank": 23,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 307427,
-      "num": 307427,
-      "word": "00后男生地铁中勇敢阻拦男子持刀行凶",
-      "onboard_time": 1688567353,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306260,
@@ -5803,14 +5819,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 231829,
-      "num": 293886,
-      "word": "温网",
-      "onboard_time": 1688390860,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229442,
       "num": 229442,
       "word": "高考后向喜欢十年的男生坦白了",
@@ -6145,6 +6153,14 @@
       "onboard_time": 1688362709,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213540,
+      "num": 304350,
+      "word": "你心情很不好但是却不难受",
+      "onboard_time": 1688567087,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 213221,
@@ -6707,6 +6723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190296,
+      "num": 293979,
+      "word": "抑郁离你有多近",
+      "onboard_time": 1688570598,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 190097,
       "num": 190097,
       "word": "原神菲米尼",
@@ -6825,14 +6849,6 @@
       "onboard_time": 1688552134,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 184091,
-      "num": 290261,
-      "word": "你心情很不好但是却不难受",
-      "onboard_time": 1688567087,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 181676,
@@ -7265,6 +7281,14 @@
       "onboard_time": 1688436693,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157790,
+      "num": 292893,
+      "word": "四川一高校8个寝室47人考研齐上岸",
+      "onboard_time": 1688570355,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 157596,
