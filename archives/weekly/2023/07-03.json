@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688560948305,
+  "endTime": 1688562051450,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1756996,
+      "num": 1756996,
+      "word": "TFBOYS再不官宣就不礼貌了",
+      "onboard_time": 1688556332,
+      "rank": 19,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 1742717,
       "num": 1742717,
       "word": "广东人正式被确诊为依萍",
@@ -697,14 +705,6 @@
       "onboard_time": 1688423780,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1439473,
-      "num": 1439473,
-      "word": "TFBOYS再不官宣就不礼貌了",
-      "onboard_time": 1688556332,
-      "rank": 19,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 1428840,
@@ -1115,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1079188,
+      "num": 574637,
+      "word": "刘雯穿几十斤重锁链裙走秀",
+      "onboard_time": 1688561012,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1077170,
       "num": 722880,
       "word": "男生街边卖卫生巾遭掀摊骂晦气",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1688522133,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1064674,
+      "num": 1064674,
+      "word": "谁给杨幂做的发型",
+      "onboard_time": 1688556273,
+      "rank": 23,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1063643,
@@ -1172,7 +1188,7 @@
     },
     {
       "raw_hot": 1045330,
-      "num": 279193,
+      "num": 471163,
       "word": "姑娘每天放屁数十次确诊肠癌晚期",
       "onboard_time": 1688557352,
       "rank": 21,
@@ -1195,12 +1211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1041977,
-      "num": 1041977,
-      "word": "谁给杨幂做的发型",
-      "onboard_time": 1688556273,
-      "rank": 23,
-      "category": "作品衍生,幽默"
+      "raw_hot": 1041376,
+      "num": 1041376,
+      "word": "papi酱 如果看剧也是一门课",
+      "onboard_time": 1688558193,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 1040332,
@@ -1321,14 +1337,6 @@
       "onboard_time": 1688537314,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 957689,
-      "num": 957689,
-      "word": "papi酱 如果看剧也是一门课",
-      "onboard_time": 1688558193,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 953927,
@@ -1784,6 +1792,14 @@
       "word": "肖战最有cp感的女主",
       "onboard_time": 1688555554,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 775352,
+      "num": 643037,
+      "word": "凌不疑接嫋嫋vs段嘉许接桑稚",
+      "onboard_time": 1688558489,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -2243,14 +2259,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 643037,
-      "num": 643037,
-      "word": "凌不疑接嫋嫋vs段嘉许接桑稚",
-      "onboard_time": 1688558489,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 639693,
       "num": 639693,
       "word": "世界气象组织确认厄尔尼诺出现",
@@ -2323,8 +2331,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 615492,
-      "num": 279150,
+      "raw_hot": 617598,
+      "num": 458708,
       "word": "17岁女孩看不孕门诊",
       "onboard_time": 1688559271,
       "rank": 22,
@@ -2667,6 +2675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 536673,
+      "num": 536673,
+      "word": "这就是热恋期的小情侣吗",
+      "onboard_time": 1688558131,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 536429,
       "num": 536429,
       "word": "非常理解李雪琴",
@@ -2955,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486273,
+      "num": 453934,
+      "word": "韩红首次公开回应被举报",
+      "onboard_time": 1688561790,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484981,
       "num": 484981,
       "word": "薛之谦脱掉",
@@ -2969,6 +2993,14 @@
       "onboard_time": 1688357057,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 481274,
+      "num": 481274,
+      "word": "圆肩驼背探颈是种病",
+      "onboard_time": 1688558316,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479082,
@@ -3040,14 +3072,6 @@
       "word": "白敬亭说没人比我更合适顾九思",
       "onboard_time": 1688453798,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 465843,
-      "num": 279101,
-      "word": "这就是热恋期的小情侣吗",
-      "onboard_time": 1688558131,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -3819,6 +3843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 356639,
+      "num": 356639,
+      "word": "消失的她实时票房破26亿",
+      "onboard_time": 1688557652,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356389,
       "num": 253337,
       "word": "电影燃冬定档七夕",
@@ -3948,7 +3980,7 @@
     },
     {
       "raw_hot": 343718,
-      "num": 216914,
+      "num": 277662,
       "word": "兼职生好像不知道我是老板",
       "onboard_time": 1688558853,
       "rank": 31,
@@ -4323,20 +4355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310974,
-      "num": 279020,
-      "word": "消失的她实时票房破26亿",
-      "onboard_time": 1688557652,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 310455,
       "num": 310455,
       "word": "女生称求职因是上海人2天被拒3次",
       "onboard_time": 1688303259,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310053,
+      "num": 310053,
+      "word": "我的人间烟火",
+      "onboard_time": 1688513006,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 309923,
@@ -4779,14 +4811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278994,
-      "num": 278994,
-      "word": "我的人间烟火",
-      "onboard_time": 1688513006,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278305,
       "num": 278305,
       "word": "中国男排vs日本男排",
@@ -4801,6 +4825,14 @@
       "onboard_time": 1688514992,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277343,
+      "num": 277343,
+      "word": "你现在近视多少度",
+      "onboard_time": 1688561252,
+      "rank": 32,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 277119,
@@ -4947,14 +4979,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 266124,
-      "num": 266124,
-      "word": "圆肩驼背探颈是种病",
-      "onboard_time": 1688558316,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265642,
       "num": 265642,
       "word": "369退出亚运会名单",
@@ -5081,6 +5105,14 @@
       "onboard_time": 1688341528,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 257387,
+      "num": 257387,
+      "word": "BLG对战TES",
+      "onboard_time": 1688558792,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 256610,
@@ -5288,6 +5320,14 @@
       "word": "明星必须自证清白吗",
       "onboard_time": 1688537314,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244876,
+      "num": 244876,
+      "word": "SMTOWN回应金泰妍粉丝",
+      "onboard_time": 1688559753,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -5555,14 +5595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227272,
-      "num": 205619,
-      "word": "SMTOWN回应金泰妍粉丝",
-      "onboard_time": 1688559753,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225651,
       "num": 225651,
       "word": "成都蓉城",
@@ -5827,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213690,
+      "num": 213690,
+      "word": "唱倒带为什么不会跑调",
+      "onboard_time": 1688561252,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213221,
       "num": 238709,
       "word": "未来中国科普宣传员",
@@ -6024,6 +6064,14 @@
       "word": "农民大叔造出了我的梦中情院",
       "onboard_time": 1688439454,
       "rank": 40,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 204627,
+      "num": 204627,
+      "word": "妈妈用自己的头发给女儿做了假发",
+      "onboard_time": 1688561613,
+      "rank": 38,
       "category": "社会新闻,幽默"
     },
     {
@@ -6819,6 +6867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164487,
+      "num": 164487,
+      "word": "被小学五年级的弟弟牵红线了",
+      "onboard_time": 1688561431,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 163232,
       "num": 1923794,
       "word": "贵州村超出圈蜀黍喊话球迷",
@@ -6987,6 +7043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152847,
+      "num": 152847,
+      "word": "老人摔倒男子录视频留证后帮扶起",
+      "onboard_time": 1688562031,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151094,
       "num": 151094,
       "word": "沈月是快乐的大人片头动作指导",
@@ -7035,6 +7099,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 147346,
+      "num": 1102311,
+      "word": "驰援重庆暴雨的武警官兵辛苦了",
+      "onboard_time": 1688557774,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147059,
       "num": 147059,
       "word": "张丹峰问为什么没早点遇见洪欣",
@@ -7073,14 +7145,6 @@
       "onboard_time": 1688519431,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140157,
-      "num": 148714,
-      "word": "BLG对战TES",
-      "onboard_time": 1688558792,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 140110,
@@ -7307,6 +7371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98254,
+      "num": 148599,
+      "word": "旅游了解兵马俑有啥意义",
+      "onboard_time": 1688561070,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 97660,
       "num": 354412,
       "word": "iQOO11S成亚运电竞官方用机",
@@ -7345,14 +7417,6 @@
       "onboard_time": 1688384380,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 90355,
-      "num": 1102311,
-      "word": "驰援重庆暴雨的武警官兵辛苦了",
-      "onboard_time": 1688557774,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88836,
