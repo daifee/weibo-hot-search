@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688585655570,
+  "endTime": 1688588483185,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -8209,6 +8209,14 @@
       "onboard_time": 1688476052,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38416,
+      "num": 32161,
+      "word": "周翊然6月全平台涨粉第一",
+      "onboard_time": 1688585714,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 38028,
