@@ -1,0 +1,410 @@
+{
+  "runTime": 1688539272174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1684877,
+        "num": 1684877,
+        "word": "张睿早几年都干嘛去了",
+        "onboard_time": 1688531079,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1363793,
+        "num": 1363793,
+        "word": "jiejie",
+        "onboard_time": 1688533538,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93169,
+        "num": 1209077,
+        "word": "中国航天版向云端",
+        "onboard_time": 1688534497,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4067421,
+        "num": 1209038,
+        "word": "蔡徐坤暂缓现场出席TMEA盛典",
+        "onboard_time": 1688535816,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3413685,
+        "num": 1197184,
+        "word": "连夜取关5000人",
+        "onboard_time": 1688538030,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1146691,
+        "num": 1146691,
+        "word": "现在该大小S有压力了",
+        "onboard_time": 1688527658,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049166,
+        "num": 1049166,
+        "word": "北京政法职业学院回应男生被退学",
+        "onboard_time": 1688531679,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 970342,
+        "num": 970342,
+        "word": "重庆万州洪涝灾害致15死4失踪",
+        "onboard_time": 1688537314,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768068,
+        "num": 768068,
+        "word": "何赛飞当众发飙后戏曲演员张军波现状",
+        "onboard_time": 1688533478,
+        "rank": 8,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 598388,
+        "num": 598388,
+        "word": "八角笼中后期 陈思诚出钱",
+        "onboard_time": 1688533779,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1437674,
+        "num": 589857,
+        "word": "女子不穿内裤试衣隔天要求退换遭拒",
+        "onboard_time": 1688538095,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955683,
+        "num": 589759,
+        "word": "女子浴室被已婚男邻居安摄像头",
+        "onboard_time": 1688531503,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655525,
+        "num": 589299,
+        "word": "李靓蕾律师陈建州回应",
+        "onboard_time": 1688529760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558007,
+        "num": 558007,
+        "word": "肖战迪丽热巴合作一部古偶吧",
+        "onboard_time": 1688527476,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510602,
+        "num": 510602,
+        "word": "太原警方通报商场发生刑案",
+        "onboard_time": 1688537074,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489884,
+        "num": 489884,
+        "word": "网友凭五句歌和定位认出井柏然小号",
+        "onboard_time": 1688534673,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461975,
+        "num": 461975,
+        "word": "为什么有钱人更容易保持身材",
+        "onboard_time": 1688529999,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405925,
+        "num": 405925,
+        "word": "鸟莎拉蒂",
+        "onboard_time": 1688535755,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369928,
+        "num": 369928,
+        "word": "原副市长妻子打人耳光成习惯",
+        "onboard_time": 1688522669,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398900,
+        "num": 368815,
+        "word": "肖战的伞7.5公斤",
+        "onboard_time": 1688529878,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700489,
+        "num": 366731,
+        "word": "男子月入3500征婚要求女方有房有车",
+        "onboard_time": 1688535097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602374,
+        "num": 364904,
+        "word": "为什么痛经蹲厕所就会好很多",
+        "onboard_time": 1688529760,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379170,
+        "num": 362740,
+        "word": "工作室辟谣井柏然小号",
+        "onboard_time": 1688538815,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362027,
+        "num": 362027,
+        "word": "万州洪涝",
+        "onboard_time": 1688538333,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359986,
+        "num": 359986,
+        "word": "萌娃只穿警服热出痱子宝妈无奈求助民警",
+        "onboard_time": 1688536060,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325889,
+        "num": 325889,
+        "word": "赵露思镜头下的曾黎",
+        "onboard_time": 1688532042,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324887,
+        "num": 324887,
+        "word": "谁懂 好喜欢凤凰传奇",
+        "onboard_time": 1688536357,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315958,
+        "num": 315958,
+        "word": "美国女网红直播睡觉月入1447万",
+        "onboard_time": 1688522133,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 311554,
+        "num": 311554,
+        "word": "黄明昊的顾里梗让杨幂沉默",
+        "onboard_time": 1688537973,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294926,
+        "num": 294926,
+        "word": "鹿晗广州站官宣嘉宾",
+        "onboard_time": 1688532101,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281265,
+        "num": 281265,
+        "word": "恶鬼第四集含鬼量",
+        "onboard_time": 1688537192,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247560,
+        "num": 247560,
+        "word": "官方回应山东一辅警接连杀害两名女性",
+        "onboard_time": 1688526580,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244944,
+        "num": 244944,
+        "word": "明星必须自证清白吗",
+        "onboard_time": 1688537314,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237934,
+        "num": 237934,
+        "word": "吴京在巨齿鲨2狂飙中文",
+        "onboard_time": 1688534434,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232321,
+        "num": 232321,
+        "word": "当老公知道前男友随礼5000",
+        "onboard_time": 1688516914,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235865,
+        "num": 222746,
+        "word": "法老仿妆",
+        "onboard_time": 1688533836,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212932,
+        "num": 212932,
+        "word": "消失的她里的声音密码",
+        "onboard_time": 1688533299,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207409,
+        "num": 207409,
+        "word": "密室大逃脱",
+        "onboard_time": 1688536657,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205599,
+        "num": 205599,
+        "word": "日照海边万人捡鱼还捡不完",
+        "onboard_time": 1688538333,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 203117,
+        "num": 203117,
+        "word": "8岁女孩为救同学不幸溺亡",
+        "onboard_time": 1688530360,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193082,
+        "num": 193082,
+        "word": "中国女足公布世界杯大名单",
+        "onboard_time": 1688538030,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192394,
+        "num": 192394,
+        "word": "2022年在园幼儿减少177.66万",
+        "onboard_time": 1688534796,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192293,
+        "num": 192293,
+        "word": "领导不让我回复好滴",
+        "onboard_time": 1688532220,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 189257,
+        "num": 189257,
+        "word": "18万钻戒和18万黄金选哪个",
+        "onboard_time": 1688527476,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188810,
+        "num": 188810,
+        "word": "八角笼中",
+        "onboard_time": 1688537732,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176649,
+        "num": 176649,
+        "word": "妈妈的士会一直开直到女孩平安长大",
+        "onboard_time": 1688537795,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173219,
+        "num": 173219,
+        "word": "板凳男孩中考考进全县前100名",
+        "onboard_time": 1688539175,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 172897,
+        "num": 172897,
+        "word": "周翊然张淼怡三年前试戏镜头",
+        "onboard_time": 1688538995,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172200,
+        "num": 172200,
+        "word": "婚礼结束看清很多人",
+        "onboard_time": 1688529036,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162359,
+        "num": 171316,
+        "word": "黑执事还我384眼睛",
+        "onboard_time": 1688538995,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}
