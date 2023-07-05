@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688535414669,
+  "endTime": 1688538401828,
   "band_list": [
     {
       "raw_hot": 7702414,
@@ -19,8 +19,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4643938,
+      "num": 1409767,
+      "word": "蔡徐坤暂缓现场出席TMEA盛典",
+      "onboard_time": 1688535816,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3111210,
-      "num": 1325555,
+      "num": 1328634,
       "word": "现在该大小S有压力了",
       "onboard_time": 1688527658,
       "rank": 16,
@@ -116,11 +124,19 @@
     },
     {
       "raw_hot": 1791324,
-      "num": 1038830,
+      "num": 1139867,
       "word": "北京政法职业学院回应男生被退学",
       "onboard_time": 1688531679,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1558005,
+      "num": 1558005,
+      "word": "jiejie",
+      "onboard_time": 1688533538,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 1480616,
@@ -203,14 +219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1017978,
-      "num": 1017978,
-      "word": "jiejie",
-      "onboard_time": 1688533538,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 990356,
       "num": 990356,
       "word": "婚礼结束看清很多人",
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 928352,
+      "num": 928352,
+      "word": "重庆万州洪涝灾害致15死4失踪",
+      "onboard_time": 1688537314,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 909165,
       "num": 909165,
       "word": "欧洲代表指责中国遭津巴布韦大使馆参赞质问",
@@ -256,6 +272,14 @@
       "word": "女子称入职时被要求上交毕业证原件",
       "onboard_time": 1688483199,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845295,
+      "num": 845295,
+      "word": "何赛飞当众发飙后戏曲演员张军波现状",
+      "onboard_time": 1688533478,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -299,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 738528,
-      "num": 616871,
-      "word": "何赛飞当众发飙后戏曲演员张军波现状",
-      "onboard_time": 1688533478,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 735042,
       "num": 735042,
       "word": "河北工大芬兰校区",
@@ -321,6 +337,14 @@
       "onboard_time": 1688522133,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 730238,
+      "num": 405046,
+      "word": "男子月入3500征婚要求女方有房有车",
+      "onboard_time": 1688535097,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696939,
@@ -467,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545213,
+      "num": 545213,
+      "word": "连夜取关5000人",
+      "onboard_time": 1688538030,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533790,
       "num": 349262,
       "word": "女子半夜拍蚊子走出158步吓坏老母亲",
@@ -481,6 +513,14 @@
       "onboard_time": 1688524657,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 517956,
+      "num": 517956,
+      "word": "鸟莎拉蒂",
+      "onboard_time": 1688535755,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 517593,
@@ -521,6 +561,14 @@
       "onboard_time": 1688482420,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 459751,
+      "num": 459751,
+      "word": "太原警方通报商场发生刑案",
+      "onboard_time": 1688537074,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459096,
@@ -587,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425604,
+      "num": 425604,
+      "word": "萌娃只穿警服热出痱子宝妈无奈求助民警",
+      "onboard_time": 1688536060,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417467,
       "num": 417467,
       "word": "鹿晗广州站场馆",
@@ -601,6 +657,14 @@
       "onboard_time": 1688529275,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409105,
+      "num": 409105,
+      "word": "网友凭五句歌和定位认出井柏然小号",
+      "onboard_time": 1688534673,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 402772,
@@ -699,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364014,
+      "num": 364014,
+      "word": "谁懂 好喜欢凤凰传奇",
+      "onboard_time": 1688536357,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 360302,
       "num": 360302,
       "word": "邓紫棋官宣加盟中国说唱巅峰对决",
@@ -787,14 +859,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 312290,
-      "num": 312290,
-      "word": "网友凭五句歌和定位认出井柏然小号",
-      "onboard_time": 1688534673,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309923,
       "num": 309923,
       "word": "你说话好伤人",
@@ -825,6 +889,22 @@
       "onboard_time": 1688462855,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 301973,
+      "num": 301973,
+      "word": "恶鬼第四集含鬼量",
+      "onboard_time": 1688537192,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 299622,
+      "num": 299622,
+      "word": "女子不穿内裤试衣隔天要求退换遭拒",
+      "onboard_time": 1688538095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296202,
@@ -955,14 +1035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 258099,
-      "num": 258099,
-      "word": "男子月入3500征婚要求女方有房有车",
-      "onboard_time": 1688535097,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252926,
       "num": 252926,
       "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
@@ -971,12 +1043,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250396,
+      "num": 250396,
+      "word": "黄明昊的顾里梗让杨幂沉默",
+      "onboard_time": 1688537973,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246188,
       "num": 218391,
       "word": "官方回应女生遭8人殴打并逼脱衣",
       "onboard_time": 1688516914,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245702,
+      "num": 245702,
+      "word": "八角笼中",
+      "onboard_time": 1688537732,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 245118,
@@ -1035,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236873,
+      "num": 236873,
+      "word": "明星必须自证清白吗",
+      "onboard_time": 1688537314,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229442,
       "num": 229442,
       "word": "高考后向喜欢十年的男生坦白了",
@@ -1057,6 +1153,14 @@
       "onboard_time": 1688514992,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224686,
+      "num": 217440,
+      "word": "密室大逃脱",
+      "onboard_time": 1688536657,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 224510,
@@ -1105,6 +1209,14 @@
       "onboard_time": 1688521053,
       "rank": 35,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 210441,
+      "num": 210441,
+      "word": "中国女足公布世界杯大名单",
+      "onboard_time": 1688538030,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 209500,
@@ -1203,12 +1315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187987,
+      "num": 187987,
+      "word": "妈妈的士会一直开直到女孩平安长大",
+      "onboard_time": 1688537795,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184441,
       "num": 184441,
       "word": "张踩铃 看似多元的新标准是最损的",
       "onboard_time": 1688515470,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181350,
+      "num": 181350,
+      "word": "万州洪涝",
+      "onboard_time": 1688538333,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178657,
@@ -1225,6 +1353,14 @@
       "onboard_time": 1688516855,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176653,
+      "num": 176653,
+      "word": "日照海边万人捡鱼还捡不完",
+      "onboard_time": 1688538333,
+      "rank": 47,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 176489,
@@ -1475,6 +1611,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 101689,
+      "num": 1437553,
+      "word": "中国航天版向云端",
+      "onboard_time": 1688534497,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98974,
       "num": 98974,
       "word": "感觉不像向云端像把云端了",
@@ -1536,14 +1680,6 @@
       "word": "七旬老人摔伤救援时孙子心疼掉眼泪",
       "onboard_time": 1688488224,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55063,
-      "num": 1044283,
-      "word": "中国航天版向云端",
-      "onboard_time": 1688534497,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
