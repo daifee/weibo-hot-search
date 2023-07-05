@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688539272174,
+  "endTime": 1688541552347,
   "band_list": [
     {
       "raw_hot": 7702414,
@@ -27,7 +27,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 3413685,
+      "raw_hot": 3903043,
       "num": 1197184,
       "word": "连夜取关5000人",
       "onboard_time": 1688538030,
@@ -139,6 +139,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1750804,
+      "num": 589857,
+      "word": "女子不穿内裤试衣隔天要求退换遭拒",
+      "onboard_time": 1688538095,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1558005,
       "num": 1558005,
       "word": "jiejie",
@@ -153,14 +161,6 @@
       "onboard_time": 1688478275,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1437674,
-      "num": 589857,
-      "word": "女子不穿内裤试衣隔天要求退换遭拒",
-      "onboard_time": 1688538095,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1262823,
@@ -235,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1015329,
+      "num": 1015329,
+      "word": "被花非花雾非雾震撼了",
+      "onboard_time": 1688540076,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 990356,
       "num": 990356,
       "word": "婚礼结束看清很多人",
@@ -305,6 +313,14 @@
       "onboard_time": 1688521830,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 810718,
+      "num": 536755,
+      "word": "法院将传唤大牙陈建州",
+      "onboard_time": 1688539775,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 786384,
@@ -467,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 613553,
+      "num": 524725,
+      "word": "工作室辟谣井柏然小号",
+      "onboard_time": 1688538815,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596796,
       "num": 591004,
       "word": "小姨为了抱认生的孩子用奇招",
@@ -547,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500291,
+      "num": 500291,
+      "word": "女子失联23年母亲被邻居刷视频发现",
+      "onboard_time": 1688540198,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494338,
       "num": 494338,
       "word": "王楚然战损妆",
@@ -609,6 +641,14 @@
       "onboard_time": 1688483858,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433669,
+      "num": 433669,
+      "word": "因为养多肉接到供电局电话",
+      "onboard_time": 1688540495,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 433500,
@@ -715,12 +755,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 379170,
-      "num": 362740,
-      "word": "工作室辟谣井柏然小号",
-      "onboard_time": 1688538815,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 388439,
+      "num": 388439,
+      "word": "大妈300万买基金一年赚不到两万",
+      "onboard_time": 1688540375,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 373627,
+      "num": 373627,
+      "word": "周翊然张淼怡三年前试戏镜头",
+      "onboard_time": 1688538995,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 373054,
@@ -795,12 +843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361642,
+      "num": 361642,
+      "word": "黄明昊的顾里梗让杨幂沉默",
+      "onboard_time": 1688537973,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360302,
       "num": 360302,
       "word": "邓紫棋官宣加盟中国说唱巅峰对决",
       "onboard_time": 1688527718,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358644,
+      "num": 358644,
+      "word": "结婚第二天被公司辞退了",
+      "onboard_time": 1688539955,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 350168,
@@ -843,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336752,
+      "num": 336752,
+      "word": "杨洋张彬彬新浪扫楼",
+      "onboard_time": 1688541098,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334667,
       "num": 334667,
       "word": "不容易近视的人 睫状肌",
@@ -883,14 +955,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 311554,
-      "num": 311554,
-      "word": "黄明昊的顾里梗让杨幂沉默",
-      "onboard_time": 1688537973,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 309923,
       "num": 309923,
       "word": "你说话好伤人",
@@ -913,6 +977,22 @@
       "onboard_time": 1688513425,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308624,
+      "num": 308624,
+      "word": "新型毒品干花果冻听话水了解吗",
+      "onboard_time": 1688539896,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304918,
+      "num": 304918,
+      "word": "精神离职",
+      "onboard_time": 1688539831,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 302872,
@@ -977,6 +1057,14 @@
       "onboard_time": 1688531922,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281916,
+      "num": 281916,
+      "word": "日照海边万人捡鱼还捡不完",
+      "onboard_time": 1688538333,
+      "rank": 47,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 279150,
@@ -1059,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255084,
+      "num": 255084,
+      "word": "井柏然 明显比我唱的好听",
+      "onboard_time": 1688541154,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252926,
       "num": 252926,
       "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1688537314,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243445,
+      "num": 243445,
+      "word": "那它就是为你创作的",
+      "onboard_time": 1688540674,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 242750,
@@ -1147,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231277,
+      "num": 231277,
+      "word": "中考满分760我考了753",
+      "onboard_time": 1688541274,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 229442,
       "num": 229442,
       "word": "高考后向喜欢十年的男生坦白了",
@@ -1185,6 +1297,14 @@
       "onboard_time": 1688532940,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224357,
+      "num": 224357,
+      "word": "能给倪妮报备吗",
+      "onboard_time": 1688541393,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 223445,
@@ -1265,14 +1385,6 @@
       "onboard_time": 1688517934,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205599,
-      "num": 205599,
-      "word": "日照海边万人捡鱼还捡不完",
-      "onboard_time": 1688538333,
-      "rank": 47,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 204960,
@@ -1363,6 +1475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178528,
+      "num": 178528,
+      "word": "黑执事还我384眼睛",
+      "onboard_time": 1688538995,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 176852,
       "num": 176852,
       "word": "时影 凡人弑神",
@@ -1387,14 +1507,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 172897,
-      "num": 172897,
-      "word": "周翊然张淼怡三年前试戏镜头",
-      "onboard_time": 1688538995,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170494,
       "num": 170494,
       "word": "果然前任都逃不过被阴阳怪气",
@@ -1417,14 +1529,6 @@
       "onboard_time": 1688486910,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162359,
-      "num": 171316,
-      "word": "黑执事还我384眼睛",
-      "onboard_time": 1688538995,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 158269,
