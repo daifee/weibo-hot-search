@@ -1,6 +1,6 @@
 {
   "startTime": 1688574432791,
-  "endTime": 1688574432791,
+  "endTime": 1688575482554,
   "band_list": [
     {
       "raw_hot": 9455004,
@@ -47,6 +47,14 @@
       "num": 532490,
       "word": "李玟老公",
       "onboard_time": 1688565287,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2171340,
+      "num": 495632,
+      "word": "萧亚轩 她是我永远的天后",
+      "onboard_time": 1688574812,
       "rank": 10,
       "category": "艺人"
     },
@@ -131,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 720721,
+      "num": 414928,
+      "word": "麦当娜",
+      "onboard_time": 1688572432,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709340,
       "num": 418382,
       "word": "邓紫棋 我会一直想念你",
@@ -152,14 +168,6 @@
       "word": "孙红雷 李玟走好",
       "onboard_time": 1688569104,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 662864,
-      "num": 414928,
-      "word": "麦当娜",
-      "onboard_time": 1688572432,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -187,7 +195,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 564895,
+      "raw_hot": 568284,
       "num": 411732,
       "word": "蔡依林 永远记得灿烂笑容的你",
       "onboard_time": 1688571599,
@@ -243,6 +251,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 499233,
+      "num": 499233,
+      "word": "身边有抑郁症的朋友该怎么办",
+      "onboard_time": 1688572666,
+      "rank": 24,
+      "category": "社会议题,艺人"
+    },
+    {
       "raw_hot": 477156,
       "num": 477156,
       "word": "你心情很不好但是却不难受",
@@ -259,19 +275,19 @@
       "category": "情感,游戏"
     },
     {
-      "raw_hot": 420566,
-      "num": 420566,
-      "word": "身边有抑郁症的朋友该怎么办",
-      "onboard_time": 1688572666,
-      "rank": 24,
-      "category": "社会议题,艺人"
-    },
-    {
-      "raw_hot": 408068,
+      "raw_hot": 433468,
       "num": 408068,
       "word": "杨洋终于有段完整的校园恋了",
       "onboard_time": 1688570222,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 385687,
+      "num": 170483,
+      "word": "赵露思19岁到24岁荧幕变化",
+      "onboard_time": 1688573440,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -331,6 +347,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220896,
+      "num": 354524,
+      "word": "刚睡醒的小金毛",
+      "onboard_time": 1688574044,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 212379,
+      "num": 212379,
+      "word": "被奶奶在海边的这句话整泪目了",
+      "onboard_time": 1688574812,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208047,
       "num": 408970,
       "word": "关注抑郁症",
@@ -339,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198063,
-      "num": 354524,
-      "word": "刚睡醒的小金毛",
-      "onboard_time": 1688574044,
-      "rank": 44,
-      "category": "情感,幽默"
+      "raw_hot": 207944,
+      "num": 207944,
+      "word": "抑郁症两大原因",
+      "onboard_time": 1688574812,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 190595,
@@ -387,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167719,
+      "num": 167719,
+      "word": "明明是那么开朗又爱笑的女生",
+      "onboard_time": 1688575352,
+      "rank": 45,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 142468,
       "num": 345394,
       "word": "米线汤的新做法",
@@ -395,7 +435,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 18107,
+      "raw_hot": 40251,
       "num": 5580577,
       "word": "世界最早印花工具做出的汉服有多美",
       "onboard_time": 1688558011,

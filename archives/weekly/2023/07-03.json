@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688574432791,
+  "endTime": 1688575482554,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -513,6 +513,14 @@
       "onboard_time": 1688552013,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2171340,
+      "num": 495632,
+      "word": "萧亚轩 她是我永远的天后",
+      "onboard_time": 1688574812,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2171123,
@@ -2163,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 720721,
+      "num": 414928,
+      "word": "麦当娜",
+      "onboard_time": 1688572432,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714481,
       "num": 508196,
       "word": "白敬亭脱单手串有点东西",
@@ -2377,14 +2393,6 @@
       "onboard_time": 1688356997,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 662864,
-      "num": 414928,
-      "word": "麦当娜",
-      "onboard_time": 1688572432,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 662489,
@@ -2771,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568284,
+      "num": 411732,
+      "word": "蔡依林 永远记得灿烂笑容的你",
+      "onboard_time": 1688571599,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567295,
       "num": 457469,
       "word": "赵露思穿JK跳gee",
@@ -2784,14 +2800,6 @@
       "word": "如何评价蔡徐坤道歉",
       "onboard_time": 1688413453,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 564895,
-      "num": 411732,
-      "word": "蔡依林 永远记得灿烂笑容的你",
-      "onboard_time": 1688571599,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -3105,6 +3113,14 @@
       "onboard_time": 1688541098,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 499233,
+      "num": 499233,
+      "word": "身边有抑郁症的朋友该怎么办",
+      "onboard_time": 1688572666,
+      "rank": 24,
+      "category": "社会议题,艺人"
     },
     {
       "raw_hot": 495843,
@@ -3475,6 +3491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 433468,
+      "num": 408068,
+      "word": "杨洋终于有段完整的校园恋了",
+      "onboard_time": 1688570222,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433005,
       "num": 272862,
       "word": "对带孩子出行家庭的宽容度",
@@ -3547,14 +3571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 420566,
-      "num": 420566,
-      "word": "身边有抑郁症的朋友该怎么办",
-      "onboard_time": 1688572666,
-      "rank": 24,
-      "category": "社会议题,艺人"
-    },
-    {
       "raw_hot": 417467,
       "num": 417467,
       "word": "鹿晗广州站场馆",
@@ -3608,14 +3624,6 @@
       "word": "芭比",
       "onboard_time": 1688465738,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 408068,
-      "num": 408068,
-      "word": "杨洋终于有段完整的校园恋了",
-      "onboard_time": 1688570222,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -3849,6 +3857,14 @@
       "onboard_time": 1688468796,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 385687,
+      "num": 170483,
+      "word": "赵露思19岁到24岁荧幕变化",
+      "onboard_time": 1688573440,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 383616,
@@ -6075,6 +6091,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 220896,
+      "num": 354524,
+      "word": "刚睡醒的小金毛",
+      "onboard_time": 1688574044,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 220658,
       "num": 220658,
       "word": "对付单位里坏人的办法",
@@ -6219,6 +6243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212379,
+      "num": 212379,
+      "word": "被奶奶在海边的这句话整泪目了",
+      "onboard_time": 1688574812,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212168,
       "num": 212168,
       "word": "不同年龄段空调的温度",
@@ -6337,6 +6369,14 @@
       "onboard_time": 1688571655,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207944,
+      "num": 207944,
+      "word": "抑郁症两大原因",
+      "onboard_time": 1688574812,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 207636,
@@ -6569,14 +6609,6 @@
       "onboard_time": 1688429676,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198063,
-      "num": 354524,
-      "word": "刚睡醒的小金毛",
-      "onboard_time": 1688574044,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 197795,
@@ -7145,6 +7177,14 @@
       "onboard_time": 1688430998,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 167719,
+      "num": 167719,
+      "word": "明明是那么开朗又爱笑的女生",
+      "onboard_time": 1688575352,
+      "rank": 45,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 167578,
@@ -8043,6 +8083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40251,
+      "num": 5580577,
+      "word": "世界最早印花工具做出的汉服有多美",
+      "onboard_time": 1688558011,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39476,
       "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
@@ -8096,14 +8144,6 @@
       "word": "航拍新疆独库公路画风魔幻",
       "onboard_time": 1688446840,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18107,
-      "num": 5580577,
-      "word": "世界最早印花工具做出的汉服有多美",
-      "onboard_time": 1688558011,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
