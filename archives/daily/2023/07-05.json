@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688564484523,
+  "endTime": 1688566744184,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -12,11 +12,27 @@
     },
     {
       "raw_hot": 35101533,
-      "num": 3529302,
+      "num": 25263027,
       "word": "李玟抑郁症",
       "onboard_time": 1688563909,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26859681,
+      "num": 26859681,
+      "word": "快告诉我是假的",
+      "onboard_time": 1688564730,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8402780,
+      "num": 8402780,
+      "word": "你留下的爱",
+      "onboard_time": 1688564730,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 7702414,
@@ -35,11 +51,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5921230,
-      "num": 5921230,
+      "raw_hot": 7488020,
+      "num": 7488020,
       "word": "韩红首次公开回应被举报",
       "onboard_time": 1688561790,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6180511,
+      "num": 753038,
+      "word": "李玟老公",
+      "onboard_time": 1688565287,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -49,6 +73,14 @@
       "onboard_time": 1688535816,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3922992,
+      "num": 750966,
+      "word": "我心中的刀马旦",
+      "onboard_time": 1688565039,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 3903043,
@@ -65,6 +97,22 @@
       "onboard_time": 1688547271,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 3395380,
+      "num": 748146,
+      "word": "姐姐走好",
+      "onboard_time": 1688564978,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3199028,
+      "num": 739700,
+      "word": "李玟最近还给粉丝录了语音",
+      "onboard_time": 1688565770,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 3111210,
@@ -129,6 +177,14 @@
       "onboard_time": 1688547093,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2217041,
+      "num": 441956,
+      "word": "邓紫棋 我会一直想念你",
+      "onboard_time": 1688566287,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2210716,
@@ -211,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1860438,
+      "num": 827631,
+      "word": "印尼57岁男子性侵女儿9年产7子",
+      "onboard_time": 1688546674,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1820625,
       "num": 1820625,
       "word": "你家会整夜开空调吗",
@@ -233,6 +297,14 @@
       "onboard_time": 1688541274,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1645508,
+      "num": 1645508,
+      "word": "圆肩驼背探颈是种病",
+      "onboard_time": 1688558316,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1600913,
@@ -260,7 +332,7 @@
     },
     {
       "raw_hot": 1522645,
-      "num": 471163,
+      "num": 713695,
       "word": "姑娘每天放屁数十次确诊肠癌晚期",
       "onboard_time": 1688557352,
       "rank": 21,
@@ -289,22 +361,6 @@
       "onboard_time": 1688540076,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1372611,
-      "num": 1372611,
-      "word": "圆肩驼背探颈是种病",
-      "onboard_time": 1688558316,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1347111,
-      "num": 827631,
-      "word": "印尼57岁男子性侵女儿9年产7子",
-      "onboard_time": 1688546674,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1262823,
@@ -369,6 +425,14 @@
       "onboard_time": 1688529878,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1108195,
+      "num": 1108195,
+      "word": "2年被家暴16次女子希望判丈夫死刑",
+      "onboard_time": 1688564861,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1087691,
@@ -483,6 +547,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 897492,
+      "num": 690740,
+      "word": "17岁女孩看不孕门诊",
+      "onboard_time": 1688559271,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894159,
       "num": 894159,
       "word": "女子称入职时被要求上交毕业证原件",
@@ -497,14 +569,6 @@
       "onboard_time": 1688541935,
       "rank": 21,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 851032,
-      "num": 458708,
-      "word": "17岁女孩看不孕门诊",
-      "onboard_time": 1688559271,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 845295,
@@ -529,6 +593,14 @@
       "onboard_time": 1688548113,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 822502,
+      "num": 675219,
+      "word": "永远的滴答滴",
+      "onboard_time": 1688565665,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 815914,
@@ -603,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 735160,
+      "num": 735160,
+      "word": "中国的年轻人没有客厅",
+      "onboard_time": 1688554772,
+      "rank": 32,
+      "category": "情感,游戏"
+    },
+    {
       "raw_hot": 735042,
       "num": 735042,
       "word": "河北工大芬兰校区",
@@ -625,6 +705,14 @@
       "onboard_time": 1688522133,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 731080,
+      "num": 740232,
+      "word": "座头鲸妈妈把乳汁喷射到宝宝口中",
+      "onboard_time": 1688563565,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730238,
@@ -859,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 554081,
-      "num": 554081,
-      "word": "中国的年轻人没有客厅",
-      "onboard_time": 1688554772,
-      "rank": 32,
-      "category": "情感,游戏"
-    },
-    {
       "raw_hot": 552091,
       "num": 552091,
       "word": "周杰伦杨幂古早合影",
@@ -1051,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454222,
+      "num": 454222,
+      "word": "扫码点餐 泄露电话号",
+      "onboard_time": 1688563632,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444928,
       "num": 382898,
       "word": "哥哥面试妹妹",
@@ -1195,6 +1283,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 390689,
+      "num": 4966176,
+      "word": "驰援重庆暴雨的武警官兵辛苦了",
+      "onboard_time": 1688557774,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390278,
+      "num": 390278,
+      "word": "唱倒带为什么不会跑调",
+      "onboard_time": 1688561252,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 388429,
       "num": 388429,
       "word": "周翊然张淼怡三年前试戏镜头",
@@ -1305,6 +1409,14 @@
       "onboard_time": 1688522611,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366405,
+      "num": 266929,
+      "word": "刘宇宁直播",
+      "onboard_time": 1688564438,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 364014,
@@ -1435,14 +1547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334936,
-      "num": 334936,
-      "word": "唱倒带为什么不会跑调",
-      "onboard_time": 1688561252,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 334667,
       "num": 334667,
       "word": "不容易近视的人 睫状肌",
@@ -1473,14 +1577,6 @@
       "onboard_time": 1688527774,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326029,
-      "num": 326029,
-      "word": "扫码点餐 泄露电话号",
-      "onboard_time": 1688563632,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325007,
@@ -1707,14 +1803,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 276976,
-      "num": 276976,
-      "word": "座头鲸妈妈把乳汁喷射到宝宝口中",
-      "onboard_time": 1688563565,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272817,
       "num": 272817,
       "word": "精神状态最稳定的动物",
@@ -1796,7 +1884,7 @@
     },
     {
       "raw_hot": 257387,
-      "num": 257387,
+      "num": 265305,
       "word": "BLG对战TES",
       "onboard_time": 1688558792,
       "rank": 48,
@@ -1865,14 +1953,6 @@
       "onboard_time": 1688561613,
       "rank": 38,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 245120,
-      "num": 4019995,
-      "word": "驰援重庆暴雨的武警官兵辛苦了",
-      "onboard_time": 1688557774,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245118,
@@ -2049,14 +2129,6 @@
       "onboard_time": 1688556452,
       "rank": 41,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 214616,
-      "num": 205368,
-      "word": "刘宇宁直播",
-      "onboard_time": 1688564438,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 211589,
@@ -2459,6 +2531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154318,
+      "num": 265967,
+      "word": "乐观的悲观主义者",
+      "onboard_time": 1688566616,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 152847,
       "num": 152847,
       "word": "老人摔倒男子录视频留证后帮扶起",
@@ -2505,6 +2585,14 @@
       "onboard_time": 1688460577,
       "rank": 39,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 144304,
+      "num": 265748,
+      "word": "对浪漫的感知仿佛有种滞后性",
+      "onboard_time": 1688566347,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 143608,
@@ -2635,6 +2723,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 111411,
+      "num": 265161,
+      "word": "新疆导游小祁的团期排到了10月份",
+      "onboard_time": 1688565713,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 110457,
       "num": 590600,
       "word": "原神3.8版本更新 可莉",
@@ -2649,6 +2745,14 @@
       "onboard_time": 1688512884,
       "rank": 43,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 104582,
+      "num": 264898,
+      "word": "减脂期也能吃的鸡米花",
+      "onboard_time": 1688565528,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 101689,
