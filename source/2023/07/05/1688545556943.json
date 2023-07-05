@@ -1,0 +1,410 @@
+{
+  "runTime": 1688545556943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651808,
+        "num": 1651808,
+        "word": "中考满分760我考了753",
+        "onboard_time": 1688541274,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1271044,
+        "num": 1271044,
+        "word": "被花非花雾非雾震撼了",
+        "onboard_time": 1688540076,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58238,
+        "num": 1013483,
+        "word": "中国航天版向云端",
+        "onboard_time": 1688534497,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2965799,
+        "num": 1003766,
+        "word": "连夜取关5000人",
+        "onboard_time": 1688538030,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1496909,
+        "num": 1001517,
+        "word": "蔡徐坤暂缓现场出席TMEA盛典",
+        "onboard_time": 1688535816,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 985221,
+        "num": 985221,
+        "word": "因为养多肉接到供电局电话",
+        "onboard_time": 1688540495,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 878731,
+        "num": 878731,
+        "word": "周润发确诊新冠",
+        "onboard_time": 1688541935,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 792839,
+        "num": 792839,
+        "word": "大妈300万买基金一年赚不到两万",
+        "onboard_time": 1688540375,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 759524,
+        "num": 759524,
+        "word": "张睿早几年都干嘛去了",
+        "onboard_time": 1688531079,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603952,
+        "num": 603952,
+        "word": "新型毒品干花果冻听话水了解吗",
+        "onboard_time": 1688539896,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1919099,
+        "num": 603684,
+        "word": "女子不穿内裤试衣隔天要求退换遭拒",
+        "onboard_time": 1688538095,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1600913,
+        "num": 602442,
+        "word": "王栎鑫前妻否认拿7位数抚养费",
+        "onboard_time": 1688543194,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599157,
+        "num": 599157,
+        "word": "结婚第二天被公司辞退了",
+        "onboard_time": 1688539955,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 534589,
+        "num": 534589,
+        "word": "现在该大小S有压力了",
+        "onboard_time": 1688527658,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521554,
+        "num": 521554,
+        "word": "杨超越演杨洋妹妹",
+        "onboard_time": 1688541756,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510721,
+        "num": 510721,
+        "word": "精神离职",
+        "onboard_time": 1688539831,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506583,
+        "num": 506583,
+        "word": "井柏然 明显比我唱的好听",
+        "onboard_time": 1688541154,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440767,
+        "num": 440767,
+        "word": "何赛飞当众发飙后戏曲演员张军波现状",
+        "onboard_time": 1688533478,
+        "rank": 17,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 430478,
+        "num": 430478,
+        "word": "北京政法职业学院回应男生被退学",
+        "onboard_time": 1688531679,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 388046,
+        "num": 388046,
+        "word": "美总统参选人称中国周边有313美军基地",
+        "onboard_time": 1688543496,
+        "rank": 19,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 673903,
+        "num": 381795,
+        "word": "体检后成了全公司笑话",
+        "onboard_time": 1688542895,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418179,
+        "num": 377248,
+        "word": "为什么痛经蹲厕所就会好很多",
+        "onboard_time": 1688529760,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368664,
+        "num": 368664,
+        "word": "重庆暴雨",
+        "onboard_time": 1688543014,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367317,
+        "num": 367317,
+        "word": "能给倪妮报备吗",
+        "onboard_time": 1688541393,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366756,
+        "num": 366756,
+        "word": "荷花火锅",
+        "onboard_time": 1688541815,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 355106,
+        "num": 355106,
+        "word": "我的神仙同事离职了",
+        "onboard_time": 1688542233,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348986,
+        "num": 348986,
+        "word": "鹿晗演唱会再邀高瀚宇",
+        "onboard_time": 1688543014,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324413,
+        "num": 324413,
+        "word": "jiejie",
+        "onboard_time": 1688533538,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323174,
+        "num": 323174,
+        "word": "杨洋张彬彬新浪扫楼",
+        "onboard_time": 1688541098,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299156,
+        "num": 299156,
+        "word": "咒术回战",
+        "onboard_time": 1688542954,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 449788,
+        "num": 298540,
+        "word": "淄博烧烤怎么样了",
+        "onboard_time": 1688544453,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 293542,
+        "num": 293542,
+        "word": "仙侠剧女主颜值TOP",
+        "onboard_time": 1688544935,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281044,
+        "num": 281044,
+        "word": "被裁员领到26万赔偿款",
+        "onboard_time": 1688542298,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280203,
+        "num": 280203,
+        "word": "中国网评死神2国内定档",
+        "onboard_time": 1688544814,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 274356,
+        "num": 274356,
+        "word": "肖奈KO七年后再合体",
+        "onboard_time": 1688544756,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271785,
+        "num": 271785,
+        "word": "女子浴室被已婚男邻居安摄像头",
+        "onboard_time": 1688531503,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254928,
+        "num": 254928,
+        "word": "女子失联23年母亲被邻居刷视频发现",
+        "onboard_time": 1688540198,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249247,
+        "num": 249247,
+        "word": "消失的她小头像",
+        "onboard_time": 1688544995,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244813,
+        "num": 244813,
+        "word": "周翊然张淼怡三年前试戏镜头",
+        "onboard_time": 1688538995,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236317,
+        "num": 236317,
+        "word": "李靓蕾律师陈建州回应",
+        "onboard_time": 1688529760,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228819,
+        "num": 228819,
+        "word": "肖战迪丽热巴合作一部古偶吧",
+        "onboard_time": 1688527476,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221159,
+        "num": 221159,
+        "word": "法院将传唤大牙陈建州",
+        "onboard_time": 1688539775,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195944,
+        "num": 195944,
+        "word": "男子月入3500征婚要求女方有房有车",
+        "onboard_time": 1688535097,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210434,
+        "num": 185539,
+        "word": "肖战的伞7.5公斤",
+        "onboard_time": 1688529878,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172611,
+        "num": 172611,
+        "word": "黄明昊的顾里梗让杨幂沉默",
+        "onboard_time": 1688537973,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170035,
+        "num": 170035,
+        "word": "日照海边万人捡鱼还捡不完",
+        "onboard_time": 1688538333,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 168920,
+        "num": 168920,
+        "word": "八角笼中后期 陈思诚出钱",
+        "onboard_time": 1688533779,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164495,
+        "num": 164495,
+        "word": "工作室辟谣井柏然小号",
+        "onboard_time": 1688538815,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164066,
+        "num": 164066,
+        "word": "太原警方通报商场发生刑案",
+        "onboard_time": 1688537074,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150828,
+        "num": 150828,
+        "word": "美国女网红直播睡觉月入1447万",
+        "onboard_time": 1688522133,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}

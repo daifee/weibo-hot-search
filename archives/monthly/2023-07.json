@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688542454768,
+  "endTime": 1688545556943,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -923,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1651808,
+      "num": 1651808,
+      "word": "中考满分760我考了753",
+      "onboard_time": 1688541274,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1630521,
       "num": 627674,
       "word": "沈涛官宣得子",
@@ -945,6 +953,14 @@
       "onboard_time": 1688377781,
       "rank": 5,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1600913,
+      "num": 602442,
+      "word": "王栎鑫前妻否认拿7位数抚养费",
+      "onboard_time": 1688543194,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1561314,
@@ -1819,6 +1835,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 985221,
+      "num": 985221,
+      "word": "因为养多肉接到供电局电话",
+      "onboard_time": 1688540495,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 983177,
       "num": 812910,
       "word": "薛之谦脱掉",
@@ -2163,6 +2187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 878731,
+      "num": 878731,
+      "word": "周润发确诊新冠",
+      "onboard_time": 1688541935,
+      "rank": 21,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 877522,
       "num": 641684,
       "word": "易烊千玺粉色手链是自己串的",
@@ -2481,6 +2513,14 @@
       "onboard_time": 1688372326,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 792839,
+      "num": 792839,
+      "word": "大妈300万买基金一年赚不到两万",
+      "onboard_time": 1688540375,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 792675,
@@ -2803,14 +2843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 722543,
-      "num": 722543,
-      "word": "大妈300万买基金一年赚不到两万",
-      "onboard_time": 1688540375,
-      "rank": 23,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 716944,
       "num": 716944,
       "word": "鹿晗演唱会给粉丝送Gucci",
@@ -3035,6 +3067,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 673903,
+      "num": 381795,
+      "word": "体检后成了全公司笑话",
+      "onboard_time": 1688542895,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 670692,
       "num": 670692,
       "word": "女友妹妹炮轰内马尔孕期出轨",
@@ -3251,14 +3291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 650143,
-      "num": 590922,
-      "word": "中考满分760我考了753",
-      "onboard_time": 1688541274,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 649899,
       "num": 649899,
       "word": "周杰伦你真的不热吗",
@@ -3451,14 +3483,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 624880,
-      "num": 624880,
-      "word": "因为养多肉接到供电局电话",
-      "onboard_time": 1688540495,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 624217,
       "num": 624217,
       "word": "茶百道 未定事件簿",
@@ -3563,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603952,
+      "num": 603952,
+      "word": "新型毒品干花果冻听话水了解吗",
+      "onboard_time": 1688539896,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603332,
       "num": 603332,
       "word": "薛之谦腿怎么了",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1688184151,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599157,
+      "num": 599157,
+      "word": "结婚第二天被公司辞退了",
+      "onboard_time": 1688539955,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 598168,
@@ -4147,6 +4187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521554,
+      "num": 521554,
+      "word": "杨超越演杨洋妹妹",
+      "onboard_time": 1688541756,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 518056,
       "num": 587566,
       "word": "晋江",
@@ -4267,6 +4315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510721,
+      "num": 510721,
+      "word": "精神离职",
+      "onboard_time": 1688539831,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 510602,
       "num": 510602,
       "word": "太原警方通报商场发生刑案",
@@ -4331,14 +4387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 500955,
-      "num": 500955,
-      "word": "新型毒品干花果冻听话水了解吗",
-      "onboard_time": 1688539896,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500427,
       "num": 500427,
       "word": "于文文去看了薛之谦演唱会",
@@ -4353,14 +4401,6 @@
       "onboard_time": 1688285613,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 498092,
-      "num": 498092,
-      "word": "结婚第二天被公司辞退了",
-      "onboard_time": 1688539955,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 497364,
@@ -4577,14 +4617,6 @@
       "onboard_time": 1688188774,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 474960,
-      "num": 474960,
-      "word": "周润发确诊新冠",
-      "onboard_time": 1688541935,
-      "rank": 21,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 474009,
@@ -4825,6 +4857,14 @@
       "onboard_time": 1688304521,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449788,
+      "num": 298540,
+      "word": "淄博烧烤怎么样了",
+      "onboard_time": 1688544453,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 449261,
@@ -5499,6 +5539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 388046,
+      "num": 388046,
+      "word": "美总统参选人称中国周边有313美军基地",
+      "onboard_time": 1688543496,
+      "rank": 19,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 386909,
       "num": 280351,
       "word": "玉骨遥配音",
@@ -5771,6 +5819,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 368664,
+      "num": 368664,
+      "word": "重庆暴雨",
+      "onboard_time": 1688543014,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367317,
+      "num": 367317,
+      "word": "能给倪妮报备吗",
+      "onboard_time": 1688541393,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 367185,
       "num": 367185,
       "word": "UCAL 我爱uzi大哥",
@@ -5785,6 +5849,14 @@
       "onboard_time": 1688522611,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366756,
+      "num": 366756,
+      "word": "荷花火锅",
+      "onboard_time": 1688541815,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 366211,
@@ -5955,6 +6027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355106,
+      "num": 355106,
+      "word": "我的神仙同事离职了",
+      "onboard_time": 1688542233,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353902,
       "num": 353902,
       "word": "TFBOYS十周年可能有直播",
@@ -6009,6 +6089,14 @@
       "onboard_time": 1688268692,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348986,
+      "num": 348986,
+      "word": "鹿晗演唱会再邀高瀚宇",
+      "onboard_time": 1688543014,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 348597,
@@ -6643,14 +6731,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 312248,
-      "num": 312248,
-      "word": "精神离职",
-      "onboard_time": 1688539831,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 312181,
       "num": 312181,
       "word": "黄晓明闹太套脱敏成功",
@@ -6931,6 +7011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299156,
+      "num": 299156,
+      "word": "咒术回战",
+      "onboard_time": 1688542954,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 299033,
       "num": 299033,
       "word": "偷偷藏不住秀恩爱藏不住了",
@@ -7113,6 +7201,14 @@
       "onboard_time": 1688432797,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 293542,
+      "num": 293542,
+      "word": "仙侠剧女主颜值TOP",
+      "onboard_time": 1688544935,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292780,
@@ -7331,12 +7427,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 281044,
+      "num": 281044,
+      "word": "被裁员领到26万赔偿款",
+      "onboard_time": 1688542298,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280520,
       "num": 1771208,
       "word": "巨型海底盲盒开出超18万件文物",
       "onboard_time": 1688393504,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280203,
+      "num": 280203,
+      "word": "中国网评死神2国内定档",
+      "onboard_time": 1688544814,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 279864,
@@ -7411,14 +7523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276744,
-      "num": 276744,
-      "word": "杨超越演杨洋妹妹",
-      "onboard_time": 1688541756,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 275888,
       "num": 275888,
       "word": "你有每月存钱的习惯吗",
@@ -7449,6 +7553,14 @@
       "onboard_time": 1688349150,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274356,
+      "num": 274356,
+      "word": "肖奈KO七年后再合体",
+      "onboard_time": 1688544756,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 274331,
@@ -8155,14 +8267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249859,
-      "num": 249859,
-      "word": "能给倪妮报备吗",
-      "onboard_time": 1688541393,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249761,
       "num": 249761,
       "word": "熊猫解暑主要靠大冰坨子",
@@ -8192,6 +8296,14 @@
       "word": "任嘉伦直播",
       "onboard_time": 1688288673,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 249247,
+      "num": 249247,
+      "word": "消失的她小头像",
+      "onboard_time": 1688544995,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -8297,14 +8409,6 @@
       "onboard_time": 1688292813,
       "rank": 33,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 245891,
-      "num": 245891,
-      "word": "我的神仙同事离职了",
-      "onboard_time": 1688542233,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 245811,
@@ -9835,14 +9939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198048,
-      "num": 198048,
-      "word": "被裁员领到26万赔偿款",
-      "onboard_time": 1688542298,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198014,
       "num": 198014,
       "word": "久哲直播",
@@ -10361,14 +10457,6 @@
       "onboard_time": 1688515470,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184332,
-      "num": 184332,
-      "word": "荷花火锅",
-      "onboard_time": 1688541815,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 182826,
