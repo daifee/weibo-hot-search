@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/03 00:22:57 ~ 2023/07/06 05:17:55
+本榜单时间：2023/07/03 00:22:57 ~ 2023/07/06 05:34:12
 </p>
 </blockquote>
 <p>
@@ -6123,6 +6123,12 @@ BLG零封FPX（热度：67396）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%94%A8%E5%9C%86%E8%A7%84%E6%89%8E%E5%87%BA%E8%A1%80%23" target="weibo">
+警方回应男生大腿被同学用圆规扎出血（热度：56529）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A7%B0%E8%85%BE%E5%8A%BFN7%E9%A2%86%E5%85%88%E4%B8%A4%E4%BB%A3%23" target="weibo">
 赵长江称腾势N7领先两代（热度：54375）
 </a>
@@ -6149,6 +6155,12 @@ BLG零封FPX（热度：67396）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NMIXX%E6%96%B0%E6%AD%8C%E5%8F%91%E5%B8%83%E5%90%8C%E6%97%B6JINI%E5%BC%80%E4%BA%86ins%E7%9B%B4%E6%92%AD%23" target="weibo">
 NMIXX新歌发布同时JINI开了ins直播（热度：47212）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%BB%BA%E6%A8%A1%E8%84%B8%E6%98%8E%E6%98%9F%23" target="weibo">
+内娱建模脸明星（热度：43361）
 </a>
 </li>
 
@@ -6191,12 +6203,6 @@ Angelababy尘缘一滴泪镜头（热度：39476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%85%B0%E7%94%9F%E6%98%AF%E8%B0%81%23" target="weibo">
 方兰生是谁（热度：34696）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%94%A8%E5%9C%86%E8%A7%84%E6%89%8E%E5%87%BA%E8%A1%80%23" target="weibo">
-警方回应男生大腿被同学用圆规扎出血（热度：28800）
 </a>
 </li>
 

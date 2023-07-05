@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688591875346,
+  "endTime": 1688592852540,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -13235,6 +13235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56529,
+      "num": 56529,
+      "word": "警方回应男生大腿被同学用圆规扎出血",
+      "onboard_time": 1688589073,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54812,
       "num": 484837,
       "word": "山东省委书记揭秘乡村振兴经验",
@@ -13289,6 +13297,14 @@
       "onboard_time": 1688407523,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43361,
+      "num": 36320,
+      "word": "内娱建模脸明星",
+      "onboard_time": 1688592375,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 42942,
@@ -13369,14 +13385,6 @@
       "onboard_time": 1688245513,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28800,
-      "num": 28800,
-      "word": "警方回应男生大腿被同学用圆规扎出血",
-      "onboard_time": 1688589073,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27214,
