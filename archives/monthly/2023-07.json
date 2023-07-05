@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688546437731,
+  "endTime": 1688548823745,
   "band_list": [
     {
       "raw_hot": 30586094,
@@ -707,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1893877,
+      "num": 1893877,
+      "word": "淄博烧烤怎么样了",
+      "onboard_time": 1688544453,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1861781,
       "num": 935537,
       "word": "江西杀害3名小孩嫌疑人被抓获",
@@ -1003,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1501916,
+      "num": 865978,
+      "word": "肖战任敏水下吻",
+      "onboard_time": 1688546674,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1497569,
       "num": 749526,
       "word": "前交通局长孙女炫富事件调查近百日",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1688268750,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1263367,
+      "num": 587379,
+      "word": "印尼57岁男子性侵女儿9年产7子",
+      "onboard_time": 1688546674,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1262823,
@@ -2035,14 +2059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 929910,
-      "num": 539067,
-      "word": "淄博烧烤怎么样了",
-      "onboard_time": 1688544453,
-      "rank": 30,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 926340,
       "num": 926340,
       "word": "网友感谢王一博赞助奖学金",
@@ -2248,6 +2264,14 @@
       "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
       "onboard_time": 1688268269,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863832,
+      "num": 863832,
+      "word": "清华硫酸泼熊学生成中科院副研究员",
+      "onboard_time": 1688547093,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -3003,6 +3027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 685104,
+      "num": 685104,
+      "word": "戚薇 女生本就是世界上最美好的存在",
+      "onboard_time": 1688547334,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684945,
       "num": 684945,
       "word": "封神",
@@ -3523,6 +3555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 621418,
+      "num": 587301,
+      "word": "痛经和生孩子没啥大关系",
+      "onboard_time": 1688544633,
+      "rank": 45,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 620891,
       "num": 620891,
       "word": "现在的人都看不出年龄了",
@@ -3715,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590105,
+      "num": 590105,
+      "word": "仙侠剧女主颜值TOP",
+      "onboard_time": 1688544935,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 587690,
       "num": 379268,
       "word": "沈月的字",
@@ -3737,6 +3785,14 @@
       "onboard_time": 1688372205,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 585098,
+      "num": 585098,
+      "word": "断崖式分手",
+      "onboard_time": 1688547271,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 584162,
@@ -4779,12 +4835,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 455193,
+      "num": 455193,
+      "word": "美总统参选人称中国周边有313美军基地",
+      "onboard_time": 1688543496,
+      "rank": 19,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 455101,
       "num": 437777,
       "word": "原神",
       "onboard_time": 1688358201,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 454603,
+      "num": 454603,
+      "word": "TFBOYS十年专辑曲目",
+      "onboard_time": 1688548113,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 454535,
@@ -4977,14 +5049,6 @@
       "onboard_time": 1688282915,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 439012,
-      "num": 439012,
-      "word": "美总统参选人称中国周边有313美军基地",
-      "onboard_time": 1688543496,
-      "rank": 19,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 438431,
@@ -5267,19 +5331,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 409605,
-      "num": 409605,
-      "word": "仙侠剧女主颜值TOP",
-      "onboard_time": 1688544935,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 409522,
       "num": 316506,
       "word": "宣璐汪卓成二搭演情侣",
       "onboard_time": 1688263767,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 405001,
+      "num": 258353,
+      "word": "消失的她在八角笼中",
+      "onboard_time": 1688547813,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -6819,6 +6883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308984,
+      "num": 257538,
+      "word": "主人带狗新疆玩1个月连人带狗晒黑",
+      "onboard_time": 1688547871,
+      "rank": 31,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 308925,
       "num": 308925,
       "word": "JDG晋级夏季季后赛",
@@ -7073,6 +7145,14 @@
       "onboard_time": 1688358684,
       "rank": 41,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 298070,
+      "num": 298070,
+      "word": "王楚然怎么没来扫楼",
+      "onboard_time": 1688547271,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 298003,
@@ -8195,6 +8275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252920,
+      "num": 252920,
+      "word": "胡锡进",
+      "onboard_time": 1688545832,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 252878,
       "num": 252878,
       "word": "可爱小猫嘬手手",
@@ -8641,6 +8729,14 @@
       "onboard_time": 1688134783,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238764,
+      "num": 238764,
+      "word": "中科院回应清华硫酸泼熊学生成副研究员",
+      "onboard_time": 1688548172,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238518,
@@ -9435,14 +9531,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 212204,
-      "num": 212204,
-      "word": "胡锡进",
-      "onboard_time": 1688545832,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 212168,
       "num": 212168,
       "word": "不同年龄段空调的温度",
@@ -9867,6 +9955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201286,
+      "num": 201286,
+      "word": "任敏樱桃碎花裙",
+      "onboard_time": 1688546253,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201039,
       "num": 201039,
       "word": "原神林尼",
@@ -10009,6 +10105,14 @@
       "onboard_time": 1688535393,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196730,
+      "num": 196730,
+      "word": "乌卫生部发布核事故应对指南",
+      "onboard_time": 1688548771,
+      "rank": 42,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 196005,
@@ -10627,14 +10731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177002,
-      "num": 177002,
-      "word": "任敏樱桃碎花裙",
-      "onboard_time": 1688546253,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176969,
       "num": 176969,
       "word": "店老板硬气回应挣该挣的钱",
@@ -10737,14 +10833,6 @@
       "onboard_time": 1688290471,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174946,
-      "num": 174946,
-      "word": "痛经和生孩子没啥大关系",
-      "onboard_time": 1688544633,
-      "rank": 45,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 174726,

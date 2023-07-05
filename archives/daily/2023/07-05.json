@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688546437731,
+  "endTime": 1688548823745,
   "band_list": [
     {
       "raw_hot": 7702414,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1893877,
+      "num": 1893877,
+      "word": "淄博烧烤怎么样了",
+      "onboard_time": 1688544453,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1820625,
       "num": 1820625,
       "word": "你家会整夜开空调吗",
@@ -171,6 +179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1501916,
+      "num": 865978,
+      "word": "肖战任敏水下吻",
+      "onboard_time": 1688546674,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1480616,
       "num": 1480616,
       "word": "白敬亭说网络消息大家想一下再信",
@@ -185,6 +201,14 @@
       "onboard_time": 1688540076,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1263367,
+      "num": 587379,
+      "word": "印尼57岁男子性侵女儿9年产7子",
+      "onboard_time": 1688546674,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1262823,
@@ -299,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 929910,
-      "num": 539067,
-      "word": "淄博烧烤怎么样了",
-      "onboard_time": 1688544453,
-      "rank": 30,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 909165,
       "num": 909165,
       "word": "欧洲代表指责中国遭津巴布韦大使馆参赞质问",
@@ -337,6 +353,14 @@
       "onboard_time": 1688541935,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 863832,
+      "num": 863832,
+      "word": "清华硫酸泼熊学生成中科院副研究员",
+      "onboard_time": 1688547093,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 845295,
@@ -459,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 685104,
+      "num": 685104,
+      "word": "戚薇 女生本就是世界上最美好的存在",
+      "onboard_time": 1688547334,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681801,
       "num": 681801,
       "word": "褪黑素",
@@ -539,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621418,
+      "num": 587301,
+      "word": "痛经和生孩子没啥大关系",
+      "onboard_time": 1688544633,
+      "rank": 45,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 618313,
       "num": 618313,
       "word": "嘴角很明显的一块凸起是什么",
@@ -593,6 +633,22 @@
       "onboard_time": 1688468973,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590105,
+      "num": 590105,
+      "word": "仙侠剧女主颜值TOP",
+      "onboard_time": 1688544935,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 585098,
+      "num": 585098,
+      "word": "断崖式分手",
+      "onboard_time": 1688547271,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 584162,
@@ -731,6 +787,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455193,
+      "num": 455193,
+      "word": "美总统参选人称中国周边有313美军基地",
+      "onboard_time": 1688543496,
+      "rank": 19,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 454603,
+      "num": 454603,
+      "word": "TFBOYS十年专辑曲目",
+      "onboard_time": 1688548113,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 454268,
       "num": 454268,
       "word": "姚译添对郑恺的嘱咐",
@@ -745,14 +817,6 @@
       "onboard_time": 1688483858,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 439012,
-      "num": 439012,
-      "word": "美总统参选人称中国周边有313美军基地",
-      "onboard_time": 1688543496,
-      "rank": 19,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 433500,
@@ -819,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 409605,
-      "num": 409605,
-      "word": "仙侠剧女主颜值TOP",
-      "onboard_time": 1688544935,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 405001,
+      "num": 258353,
+      "word": "消失的她在八角笼中",
+      "onboard_time": 1688547813,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 402772,
@@ -1115,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308984,
+      "num": 257538,
+      "word": "主人带狗新疆玩1个月连人带狗晒黑",
+      "onboard_time": 1688547871,
+      "rank": 31,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 302872,
       "num": 320808,
       "word": "痞幼",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1688542954,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 298070,
+      "num": 298070,
+      "word": "王楚然怎么没来扫楼",
+      "onboard_time": 1688547271,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 296202,
@@ -1307,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252920,
+      "num": 252920,
+      "word": "胡锡进",
+      "onboard_time": 1688545832,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 246188,
       "num": 218391,
       "word": "官方回应女生遭8人殴打并逼脱衣",
@@ -1377,6 +1465,14 @@
       "onboard_time": 1688481341,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238764,
+      "num": 238764,
+      "word": "中科院回应清华硫酸泼熊学生成副研究员",
+      "onboard_time": 1688548172,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238518,
@@ -1467,14 +1563,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 212204,
-      "num": 212204,
-      "word": "胡锡进",
-      "onboard_time": 1688545832,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 211430,
       "num": 211430,
       "word": "31省最低工资标准公布",
@@ -1539,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201286,
+      "num": 201286,
+      "word": "任敏樱桃碎花裙",
+      "onboard_time": 1688546253,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201042,
       "num": 201042,
       "word": "东京一店长闻到煤气味后点了根烟",
@@ -1561,6 +1657,14 @@
       "onboard_time": 1688535393,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196730,
+      "num": 196730,
+      "word": "乌卫生部发布核事故应对指南",
+      "onboard_time": 1688548771,
+      "rank": 42,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 196005,
@@ -1627,14 +1731,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 177002,
-      "num": 177002,
-      "word": "任敏樱桃碎花裙",
-      "onboard_time": 1688546253,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176852,
       "num": 176852,
       "word": "时影 凡人弑神",
@@ -1649,14 +1745,6 @@
       "onboard_time": 1688513245,
       "rank": 33,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 174946,
-      "num": 174946,
-      "word": "痛经和生孩子没啥大关系",
-      "onboard_time": 1688544633,
-      "rank": 45,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 173219,
