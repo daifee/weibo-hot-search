@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688541552347,
+  "endTime": 1688542454768,
   "band_list": [
     {
       "raw_hot": 7702414,
@@ -65,6 +65,14 @@
       "onboard_time": 1688516914,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2464994,
+      "num": 621109,
+      "word": "女子不穿内裤试衣隔天要求退换遭拒",
+      "onboard_time": 1688538095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2168097,
@@ -139,14 +147,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1750804,
-      "num": 589857,
-      "word": "女子不穿内裤试衣隔天要求退换遭拒",
-      "onboard_time": 1688538095,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1558005,
       "num": 1558005,
       "word": "jiejie",
@@ -160,6 +160,14 @@
       "word": "白敬亭说网络消息大家想一下再信",
       "onboard_time": 1688478275,
       "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1377542,
+      "num": 1377542,
+      "word": "被花非花雾非雾震撼了",
+      "onboard_time": 1688540076,
+      "rank": 5,
       "category": "作品衍生"
     },
     {
@@ -235,14 +243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1015329,
-      "num": 1015329,
-      "word": "被花非花雾非雾震撼了",
-      "onboard_time": 1688540076,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 990356,
       "num": 990356,
       "word": "婚礼结束看清很多人",
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 810718,
-      "num": 536755,
+      "num": 614710,
       "word": "法院将传唤大牙陈建州",
       "onboard_time": 1688539775,
       "rank": 11,
@@ -372,11 +372,19 @@
     },
     {
       "raw_hot": 730238,
-      "num": 405046,
+      "num": 469310,
       "word": "男子月入3500征婚要求女方有房有车",
       "onboard_time": 1688535097,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 722543,
+      "num": 722543,
+      "word": "大妈300万买基金一年赚不到两万",
+      "onboard_time": 1688540375,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 696939,
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658515,
+      "num": 658515,
+      "word": "女子失联23年母亲被邻居刷视频发现",
+      "onboard_time": 1688540198,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655126,
       "num": 655126,
       "word": "鹿晗广州站官宣嘉宾",
@@ -443,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 650143,
+      "num": 590922,
+      "word": "中考满分760我考了753",
+      "onboard_time": 1688541274,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 647657,
       "num": 647657,
       "word": "当我飞奔向你",
@@ -465,6 +489,14 @@
       "onboard_time": 1688532042,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 624880,
+      "num": 624880,
+      "word": "因为养多肉接到供电局电话",
+      "onboard_time": 1688540495,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 623675,
@@ -512,6 +544,14 @@
       "word": "秦牛正威回应为了男友改名",
       "onboard_time": 1688468973,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 584162,
+      "num": 584162,
+      "word": "井柏然 明显比我唱的好听",
+      "onboard_time": 1688541154,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -571,12 +611,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500291,
-      "num": 500291,
-      "word": "女子失联23年母亲被邻居刷视频发现",
-      "onboard_time": 1688540198,
-      "rank": 13,
+      "raw_hot": 503285,
+      "num": 503285,
+      "word": "杨洋张彬彬新浪扫楼",
+      "onboard_time": 1688541098,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 500955,
+      "num": 500955,
+      "word": "新型毒品干花果冻听话水了解吗",
+      "onboard_time": 1688539896,
+      "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498092,
+      "num": 498092,
+      "word": "结婚第二天被公司辞退了",
+      "onboard_time": 1688539955,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 494338,
@@ -619,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474960,
+      "num": 474960,
+      "word": "周润发确诊新冠",
+      "onboard_time": 1688541935,
+      "rank": 21,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 459096,
       "num": 355093,
       "word": "太原万象城",
@@ -641,14 +705,6 @@
       "onboard_time": 1688483858,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 433669,
-      "num": 433669,
-      "word": "因为养多肉接到供电局电话",
-      "onboard_time": 1688540495,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 433500,
@@ -755,16 +811,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 388439,
-      "num": 388439,
-      "word": "大妈300万买基金一年赚不到两万",
-      "onboard_time": 1688540375,
-      "rank": 23,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 373627,
-      "num": 373627,
+      "raw_hot": 388429,
+      "num": 388429,
       "word": "周翊然张淼怡三年前试戏镜头",
       "onboard_time": 1688538995,
       "rank": 47,
@@ -859,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358644,
-      "num": 358644,
-      "word": "结婚第二天被公司辞退了",
-      "onboard_time": 1688539955,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 350168,
       "num": 350168,
       "word": "杨颖王楚然任敏连播两部剧",
@@ -905,14 +945,6 @@
       "onboard_time": 1688518832,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 336752,
-      "num": 336752,
-      "word": "杨洋张彬彬新浪扫楼",
-      "onboard_time": 1688541098,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 334667,
@@ -955,6 +987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 312248,
+      "num": 312248,
+      "word": "精神离职",
+      "onboard_time": 1688539831,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309923,
       "num": 309923,
       "word": "你说话好伤人",
@@ -977,22 +1017,6 @@
       "onboard_time": 1688513425,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308624,
-      "num": 308624,
-      "word": "新型毒品干花果冻听话水了解吗",
-      "onboard_time": 1688539896,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304918,
-      "num": 304918,
-      "word": "精神离职",
-      "onboard_time": 1688539831,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 302872,
@@ -1083,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276744,
+      "num": 276744,
+      "word": "杨超越演杨洋妹妹",
+      "onboard_time": 1688541756,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272817,
       "num": 272817,
       "word": "精神状态最稳定的动物",
@@ -1147,19 +1179,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 255084,
-      "num": 255084,
-      "word": "井柏然 明显比我唱的好听",
-      "onboard_time": 1688541154,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252926,
       "num": 252926,
       "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
       "onboard_time": 1688500513,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 249859,
+      "num": 249859,
+      "word": "能给倪妮报备吗",
+      "onboard_time": 1688541393,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1169,6 +1201,14 @@
       "onboard_time": 1688516914,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245891,
+      "num": 245891,
+      "word": "我的神仙同事离职了",
+      "onboard_time": 1688542233,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 245702,
@@ -1251,14 +1291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 231277,
-      "num": 231277,
-      "word": "中考满分760我考了753",
-      "onboard_time": 1688541274,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 229442,
       "num": 229442,
       "word": "高考后向喜欢十年的男生坦白了",
@@ -1297,14 +1329,6 @@
       "onboard_time": 1688532940,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224357,
-      "num": 224357,
-      "word": "能给倪妮报备吗",
-      "onboard_time": 1688541393,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 223445,
@@ -1411,6 +1435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198048,
+      "num": 198048,
+      "word": "被裁员领到26万赔偿款",
+      "onboard_time": 1688542298,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 197416,
+      "num": 197416,
+      "word": "国内画师安利计划",
+      "onboard_time": 1688542114,
+      "rank": 44,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 196761,
       "num": 196761,
       "word": "怦然心动20岁",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1688515470,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184332,
+      "num": 184332,
+      "word": "荷花火锅",
+      "onboard_time": 1688541815,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 178657,
