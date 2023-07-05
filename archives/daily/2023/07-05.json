@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688534396170,
+  "endTime": 1688535414669,
   "band_list": [
     {
       "raw_hot": 7702414,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2168097,
+      "num": 2168097,
+      "word": "张睿早几年都干嘛去了",
+      "onboard_time": 1688531079,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2128980,
       "num": 551589,
       "word": "北京政法职业学院",
@@ -65,6 +73,14 @@
       "onboard_time": 1688519615,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1977729,
+      "num": 642179,
+      "word": "女子浴室被已婚男邻居安摄像头",
+      "onboard_time": 1688531503,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1976013,
@@ -91,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1885702,
-      "num": 1885702,
-      "word": "张睿早几年都干嘛去了",
-      "onboard_time": 1688531079,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1820625,
       "num": 1820625,
       "word": "你家会整夜开空调吗",
@@ -113,14 +121,6 @@
       "onboard_time": 1688531679,
       "rank": 19,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1641701,
-      "num": 642179,
-      "word": "女子浴室被已婚男邻居安摄像头",
-      "onboard_time": 1688531503,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1480616,
@@ -203,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1017978,
+      "num": 1017978,
+      "word": "jiejie",
+      "onboard_time": 1688533538,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 990356,
       "num": 990356,
       "word": "婚礼结束看清很多人",
@@ -217,6 +225,14 @@
       "onboard_time": 1688527476,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 943876,
+      "num": 943876,
+      "word": "八角笼中后期 陈思诚出钱",
+      "onboard_time": 1688533779,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 909165,
@@ -281,6 +297,14 @@
       "onboard_time": 1688525616,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 738528,
+      "num": 616871,
+      "word": "何赛飞当众发飙后戏曲演员张军波现状",
+      "onboard_time": 1688533478,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735042,
@@ -379,8 +403,8 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 629292,
-      "num": 629292,
+      "raw_hot": 630157,
+      "num": 630157,
       "word": "赵露思镜头下的曾黎",
       "onboard_time": 1688532042,
       "rank": 13,
@@ -435,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 550529,
+      "num": 550529,
+      "word": "消失的她里的声音密码",
+      "onboard_time": 1688533299,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533790,
       "num": 349262,
       "word": "女子半夜拍蚊子走出158步吓坏老母亲",
@@ -443,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 532031,
-      "num": 532031,
-      "word": "八角笼中后期 陈思诚出钱",
-      "onboard_time": 1688533779,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 529963,
       "num": 404102,
       "word": "不要给孩子吃太多水果了",
       "onboard_time": 1688524657,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 517593,
+      "num": 426957,
+      "word": "玉骨遥人物特辑",
+      "onboard_time": 1688534497,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 494338,
@@ -489,14 +521,6 @@
       "onboard_time": 1688482420,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 467115,
-      "num": 467115,
-      "word": "消失的她里的声音密码",
-      "onboard_time": 1688533299,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 459096,
@@ -555,20 +579,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 426427,
-      "num": 426427,
-      "word": "何赛飞当众发飙后戏曲演员张军波现状",
-      "onboard_time": 1688533478,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421616,
-      "num": 421616,
-      "word": "jiejie",
-      "onboard_time": 1688533538,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 429759,
+      "num": 429759,
+      "word": "法老仿妆",
+      "onboard_time": 1688533836,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 417467,
@@ -691,19 +707,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351999,
-      "num": 351999,
-      "word": "法老仿妆",
-      "onboard_time": 1688533836,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 350168,
       "num": 350168,
       "word": "杨颖王楚然任敏连播两部剧",
       "onboard_time": 1688524896,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 348467,
+      "num": 348467,
+      "word": "吴京在巨齿鲨2狂飙中文",
+      "onboard_time": 1688534434,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -755,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323282,
+      "num": 323282,
+      "word": "孟美岐舞台2023官宣",
+      "onboard_time": 1688530665,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319899,
       "num": 319899,
       "word": "生理期不能吃的水果",
@@ -763,12 +787,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 317787,
-      "num": 317787,
-      "word": "孟美岐舞台2023官宣",
-      "onboard_time": 1688530665,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 312290,
+      "num": 312290,
+      "word": "网友凭五句歌和定位认出井柏然小号",
+      "onboard_time": 1688534673,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 309923,
@@ -931,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258099,
+      "num": 258099,
+      "word": "男子月入3500征婚要求女方有房有车",
+      "onboard_time": 1688535097,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252926,
       "num": 252926,
       "word": "时影拉住朱颜vs蓝忘机拉住魏无羡",
@@ -955,11 +987,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242750,
+      "num": 242750,
+      "word": "数辆私家车齐刷刷闯红灯45度让行",
+      "onboard_time": 1688534975,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242285,
       "num": 242285,
       "word": "女子看消失的她遇情侣争执立刻报警",
       "onboard_time": 1688495475,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241368,
+      "num": 241368,
+      "word": "2022年在园幼儿减少177.66万",
+      "onboard_time": 1688534796,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1113,6 +1161,14 @@
       "onboard_time": 1688475513,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196761,
+      "num": 196761,
+      "word": "怦然心动20岁",
+      "onboard_time": 1688535393,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 196005,
@@ -1483,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55063,
+      "num": 1044283,
+      "word": "中国航天版向云端",
+      "onboard_time": 1688534497,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50984,
       "num": 707015,
       "word": "闪闪发光的中国00后",
@@ -1524,6 +1588,9 @@
     },
     {
       "word": "#习近平出席上海合作组织成员国元首理事会第二十三次会议#"
+    },
+    {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
     }
   ]
 }

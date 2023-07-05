@@ -1,0 +1,410 @@
+{
+  "runTime": 1688535414669,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2168097,
+        "num": 2168097,
+        "word": "张睿早几年都干嘛去了",
+        "onboard_time": 1688531079,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1093781,
+        "num": 1093781,
+        "word": "肖战迪丽热巴合作一部古偶吧",
+        "onboard_time": 1688527476,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55063,
+        "num": 1044283,
+        "word": "中国航天版向云端",
+        "onboard_time": 1688534497,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1782568,
+        "num": 1035647,
+        "word": "现在该大小S有压力了",
+        "onboard_time": 1688527658,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1017978,
+        "num": 1017978,
+        "word": "jiejie",
+        "onboard_time": 1688533538,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1419328,
+        "num": 995696,
+        "word": "北京政法职业学院回应男生被退学",
+        "onboard_time": 1688531679,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 943876,
+        "num": 943876,
+        "word": "八角笼中后期 陈思诚出钱",
+        "onboard_time": 1688533779,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 855689,
+        "num": 855689,
+        "word": "原副市长妻子打人耳光成习惯",
+        "onboard_time": 1688522669,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747017,
+        "num": 747017,
+        "word": "为什么有钱人更容易保持身材",
+        "onboard_time": 1688529999,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 630157,
+        "num": 630157,
+        "word": "赵露思镜头下的曾黎",
+        "onboard_time": 1688532042,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1977729,
+        "num": 629544,
+        "word": "女子浴室被已婚男邻居安摄像头",
+        "onboard_time": 1688531503,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1741661,
+        "num": 625132,
+        "word": "李靓蕾律师陈建州回应",
+        "onboard_time": 1688529760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769520,
+        "num": 618794,
+        "word": "肖战的伞7.5公斤",
+        "onboard_time": 1688529878,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738528,
+        "num": 616871,
+        "word": "何赛飞当众发飙后戏曲演员张军波现状",
+        "onboard_time": 1688533478,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612827,
+        "num": 612827,
+        "word": "婚礼结束看清很多人",
+        "onboard_time": 1688529036,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 595986,
+        "num": 595986,
+        "word": "鹿晗广州站官宣嘉宾",
+        "onboard_time": 1688532101,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 550529,
+        "num": 550529,
+        "word": "消失的她里的声音密码",
+        "onboard_time": 1688533299,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520669,
+        "num": 520669,
+        "word": "官方回应山东一辅警接连杀害两名女性",
+        "onboard_time": 1688526580,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454140,
+        "num": 454140,
+        "word": "当老公知道前男友随礼5000",
+        "onboard_time": 1688516914,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429759,
+        "num": 429759,
+        "word": "法老仿妆",
+        "onboard_time": 1688533836,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 943666,
+        "num": 428157,
+        "word": "为什么痛经蹲厕所就会好很多",
+        "onboard_time": 1688529760,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 517593,
+        "num": 426957,
+        "word": "玉骨遥人物特辑",
+        "onboard_time": 1688534497,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423513,
+        "num": 423513,
+        "word": "美国女网红直播睡觉月入1447万",
+        "onboard_time": 1688522133,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 414449,
+        "num": 414449,
+        "word": "河北工大芬兰校区",
+        "onboard_time": 1688528799,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404089,
+        "num": 404089,
+        "word": "领导不让我回复好滴",
+        "onboard_time": 1688532220,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 366566,
+        "num": 366566,
+        "word": "倪妮在干什么",
+        "onboard_time": 1688524716,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357042,
+        "num": 357042,
+        "word": "18万钻戒和18万黄金选哪个",
+        "onboard_time": 1688527476,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353586,
+        "num": 353586,
+        "word": "工作八年的工资被父母拿走",
+        "onboard_time": 1688516914,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352946,
+        "num": 352946,
+        "word": "8岁女孩为救同学不幸溺亡",
+        "onboard_time": 1688530360,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348467,
+        "num": 348467,
+        "word": "吴京在巨齿鲨2狂飙中文",
+        "onboard_time": 1688534434,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341356,
+        "num": 341356,
+        "word": "青岛巧克力大爷救人嘎嘎猛",
+        "onboard_time": 1688523814,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323282,
+        "num": 323282,
+        "word": "孟美岐舞台2023官宣",
+        "onboard_time": 1688530665,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312290,
+        "num": 312290,
+        "word": "网友凭五句歌和定位认出井柏然小号",
+        "onboard_time": 1688534673,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283458,
+        "num": 283458,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1688530782,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277791,
+        "num": 277791,
+        "word": "原来银行并不是五点下班",
+        "onboard_time": 1688516255,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274432,
+        "num": 274432,
+        "word": "嘴角很明显的一块凸起是什么",
+        "onboard_time": 1688517815,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264462,
+        "num": 264462,
+        "word": "为何放弃入学的研究生越来越多",
+        "onboard_time": 1688522732,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 258099,
+        "num": 258099,
+        "word": "男子月入3500征婚要求女方有房有车",
+        "onboard_time": 1688535097,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242750,
+        "num": 242750,
+        "word": "数辆私家车齐刷刷闯红灯45度让行",
+        "onboard_time": 1688534975,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241368,
+        "num": 241368,
+        "word": "2022年在园幼儿减少177.66万",
+        "onboard_time": 1688534796,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237344,
+        "num": 237344,
+        "word": "iPhone15系列电池容量曝光",
+        "onboard_time": 1688520870,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 231410,
+        "num": 231410,
+        "word": "终于等到桑延暴扣段嘉许了",
+        "onboard_time": 1688524594,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229180,
+        "num": 229180,
+        "word": "UCAL 我爱uzi大哥",
+        "onboard_time": 1688531021,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214724,
+        "num": 214724,
+        "word": "不要给孩子吃太多水果了",
+        "onboard_time": 1688524657,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 211765,
+        "num": 211765,
+        "word": "起猛了看见韩栋抱肖战",
+        "onboard_time": 1688522133,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205117,
+        "num": 205117,
+        "word": "杨颖王楚然任敏连播两部剧",
+        "onboard_time": 1688524896,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204944,
+        "num": 204944,
+        "word": "玉骨遥特效",
+        "onboard_time": 1688531922,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203529,
+        "num": 203529,
+        "word": "当我飞奔向你",
+        "onboard_time": 1688526519,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199958,
+        "num": 199958,
+        "word": "赵丽颖张睿演过新还珠格格",
+        "onboard_time": 1688525616,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196761,
+        "num": 196761,
+        "word": "怦然心动20岁",
+        "onboard_time": 1688535393,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}
