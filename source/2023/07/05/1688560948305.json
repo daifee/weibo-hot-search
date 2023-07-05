@@ -1,0 +1,410 @@
+{
+  "runTime": 1688560948305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1550448,
+        "num": 1550448,
+        "word": "光渊下架",
+        "onboard_time": 1688552013,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1439473,
+        "num": 1439473,
+        "word": "TFBOYS再不官宣就不礼貌了",
+        "onboard_time": 1688556332,
+        "rank": 1,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 90355,
+        "num": 1102311,
+        "word": "驰援重庆暴雨的武警官兵辛苦了",
+        "onboard_time": 1688557774,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041977,
+        "num": 1041977,
+        "word": "谁给杨幂做的发型",
+        "onboard_time": 1688556273,
+        "rank": 3,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 1006376,
+        "num": 1006376,
+        "word": "坐高铁最好不要趴小桌板上",
+        "onboard_time": 1688554295,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 957689,
+        "num": 957689,
+        "word": "papi酱 如果看剧也是一门课",
+        "onboard_time": 1688558193,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 910518,
+        "num": 910518,
+        "word": "刘昊然露额头好帅",
+        "onboard_time": 1688557410,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 878882,
+        "num": 878882,
+        "word": "硕士毕业10年被查出论文剽窃",
+        "onboard_time": 1688550812,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 690104,
+        "num": 690104,
+        "word": "断崖式分手",
+        "onboard_time": 1688547271,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390379,
+        "num": 685376,
+        "word": "淄博烧烤怎么样了",
+        "onboard_time": 1688544453,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1315479,
+        "num": 678439,
+        "word": "狗头萝莉 美丽并不可耻",
+        "onboard_time": 1688554713,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 778304,
+        "num": 663067,
+        "word": "肖战最有cp感的女主",
+        "onboard_time": 1688555554,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 756372,
+        "num": 653746,
+        "word": "女子不穿内裤试衣隔天要求退换遭拒",
+        "onboard_time": 1688538095,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643937,
+        "num": 643937,
+        "word": "印尼57岁男子性侵女儿9年产7子",
+        "onboard_time": 1688546674,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643037,
+        "num": 643037,
+        "word": "凌不疑接嫋嫋vs段嘉许接桑稚",
+        "onboard_time": 1688558489,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 600713,
+        "num": 600713,
+        "word": "那皓衣行左肩有你烽火流金怎么办",
+        "onboard_time": 1688557952,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576536,
+        "num": 576536,
+        "word": "赵露思陈哲远沙发40秒拥吻",
+        "onboard_time": 1688554772,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554081,
+        "num": 554081,
+        "word": "中国的年轻人没有客厅",
+        "onboard_time": 1688554772,
+        "rank": 17,
+        "category": "情感,游戏"
+      },
+      {
+        "raw_hot": 285360,
+        "num": 285360,
+        "word": "我的神仙同事离职了",
+        "onboard_time": 1688542233,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279271,
+        "num": 279271,
+        "word": "杀人犯逃亡30年被抓当场让妻子改嫁",
+        "onboard_time": 1688554175,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1490156,
+        "num": 279254,
+        "word": "北京人正式被确诊为哪吒",
+        "onboard_time": 1688551893,
+        "rank": 20,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1045330,
+        "num": 279193,
+        "word": "姑娘每天放屁数十次确诊肠癌晚期",
+        "onboard_time": 1688557352,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615492,
+        "num": 279150,
+        "word": "17岁女孩看不孕门诊",
+        "onboard_time": 1688559271,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465843,
+        "num": 279101,
+        "word": "这就是热恋期的小情侣吗",
+        "onboard_time": 1688558131,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381241,
+        "num": 279057,
+        "word": "王栎鑫前妻否认拿7位数抚养费",
+        "onboard_time": 1688543194,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310974,
+        "num": 279020,
+        "word": "消失的她实时票房破26亿",
+        "onboard_time": 1688557652,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278994,
+        "num": 278994,
+        "word": "我的人间烟火",
+        "onboard_time": 1688559575,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266124,
+        "num": 266124,
+        "word": "圆肩驼背探颈是种病",
+        "onboard_time": 1688558316,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261314,
+        "num": 261314,
+        "word": "玉骨遥直接跳到第8集",
+        "onboard_time": 1688551774,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222811,
+        "num": 222811,
+        "word": "在故宫走丢倍有面子",
+        "onboard_time": 1688553632,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474497,
+        "num": 222774,
+        "word": "清华硫酸泼熊学生成中科院副研究员",
+        "onboard_time": 1688547093,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343718,
+        "num": 216914,
+        "word": "兼职生好像不知道我是老板",
+        "onboard_time": 1688558853,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255554,
+        "num": 212030,
+        "word": "消失的她在八角笼中",
+        "onboard_time": 1688547813,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205853,
+        "num": 205853,
+        "word": "中考满分760我考了753",
+        "onboard_time": 1688541274,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227272,
+        "num": 205619,
+        "word": "SMTOWN回应金泰妍粉丝",
+        "onboard_time": 1688559753,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224731,
+        "num": 204919,
+        "word": "狗狗还是很好骗的",
+        "onboard_time": 1688560353,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 209509,
+        "num": 204309,
+        "word": "伪中文emoji",
+        "onboard_time": 1688555614,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202965,
+        "num": 202965,
+        "word": "周杰伦杨幂古早合影",
+        "onboard_time": 1688553395,
+        "rank": 37,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 184057,
+        "num": 184057,
+        "word": "张耀谈与杨紫合作",
+        "onboard_time": 1688560590,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177954,
+        "num": 177954,
+        "word": "领养后发现是校长的猫",
+        "onboard_time": 1688556872,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177106,
+        "num": 177106,
+        "word": "晚霞",
+        "onboard_time": 1688557593,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160211,
+        "num": 160211,
+        "word": "周润发确诊新冠",
+        "onboard_time": 1688541935,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 159052,
+        "num": 159052,
+        "word": "台媒评肖战时影哭戏",
+        "onboard_time": 1688549917,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157186,
+        "num": 157186,
+        "word": "被花非花雾非雾震撼了",
+        "onboard_time": 1688540076,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156267,
+        "num": 156267,
+        "word": "明码标价的小卖部",
+        "onboard_time": 1688560231,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153581,
+        "num": 153581,
+        "word": "成都一公园开出红黄对称双色睡莲",
+        "onboard_time": 1688550633,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150973,
+        "num": 150973,
+        "word": "孙千拍风吹半夏导演不让做头发",
+        "onboard_time": 1688550271,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149370,
+        "num": 149370,
+        "word": "Faker因伤暂离赛场",
+        "onboard_time": 1688549135,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140157,
+        "num": 148714,
+        "word": "BLG对战TES",
+        "onboard_time": 1688558792,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112563,
+        "num": 147981,
+        "word": "女生到底什么时候才不用美啊",
+        "onboard_time": 1688559812,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织如何回应国际社会期待#"
+    }
+  }
+}
