@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688552521039,
+  "endTime": 1688553633771,
   "band_list": [
     {
       "raw_hot": 7702414,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2464994,
-      "num": 670745,
+      "num": 829431,
       "word": "女子不穿内裤试衣隔天要求退换遭拒",
       "onboard_time": 1688538095,
       "rank": 30,
@@ -96,6 +96,14 @@
       "word": "张睿早几年都干嘛去了",
       "onboard_time": 1688531079,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2130265,
+      "num": 2130265,
+      "word": "光渊下架",
+      "onboard_time": 1688552013,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1600913,
-      "num": 665595,
+      "num": 821533,
       "word": "王栎鑫前妻否认拿7位数抚养费",
       "onboard_time": 1688543194,
       "rank": 11,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 1263367,
-      "num": 670294,
+      "num": 827631,
       "word": "印尼57岁男子性侵女儿9年产7子",
       "onboard_time": 1688546674,
       "rank": 12,
@@ -331,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 953192,
+      "num": 953192,
+      "word": "北京人正式被确诊为哪吒",
+      "onboard_time": 1688551893,
+      "rank": 25,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 943876,
       "num": 943876,
       "word": "八角笼中后期 陈思诚出钱",
@@ -361,6 +377,14 @@
       "onboard_time": 1688483199,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893957,
+      "num": 825329,
+      "word": "硕士毕业10年被查出论文剽窃",
+      "onboard_time": 1688550812,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 878731,
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692194,
+      "num": 692194,
+      "word": "消失的她在八角笼中",
+      "onboard_time": 1688547813,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 691527,
       "num": 440947,
       "word": "何炅王嘉尔曾预言白敬亭宋轶",
@@ -569,14 +601,6 @@
       "onboard_time": 1688518655,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 651333,
-      "num": 651333,
-      "word": "消失的她在八角笼中",
-      "onboard_time": 1688547813,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 647657,
@@ -715,19 +739,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 543694,
-      "num": 543694,
-      "word": "硕士毕业10年被查出论文剽窃",
-      "onboard_time": 1688550812,
-      "rank": 17,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 533872,
-      "num": 533872,
-      "word": "光渊下架",
-      "onboard_time": 1688552013,
-      "rank": 18,
+      "raw_hot": 544750,
+      "num": 498499,
+      "word": "马天宇纪若尘结婚剧照",
+      "onboard_time": 1688549555,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -785,14 +801,6 @@
       "onboard_time": 1688537074,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 508765,
-      "num": 498499,
-      "word": "马天宇纪若尘结婚剧照",
-      "onboard_time": 1688549555,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 503285,
@@ -881,6 +889,14 @@
       "onboard_time": 1688521112,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444928,
+      "num": 322038,
+      "word": "哥哥面试妹妹",
+      "onboard_time": 1688549555,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 442803,
@@ -1003,22 +1019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 381381,
-      "num": 381381,
-      "word": "北京人正式被确诊为哪吒",
-      "onboard_time": 1688551893,
-      "rank": 25,
-      "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 373215,
-      "num": 321608,
-      "word": "哥哥面试妹妹",
-      "onboard_time": 1688549555,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 373054,
       "num": 373054,
       "word": "肖战洗澡vs杨洋王子奇洗澡",
@@ -1107,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 363742,
+      "num": 363742,
+      "word": "我的神仙同事离职了",
+      "onboard_time": 1688542233,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362027,
       "num": 362027,
       "word": "万州洪涝",
@@ -1131,12 +1139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 355106,
-      "num": 355106,
-      "word": "我的神仙同事离职了",
-      "onboard_time": 1688542233,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 354791,
+      "num": 354791,
+      "word": "玉骨遥直接跳到第8集",
+      "onboard_time": 1688551774,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 351957,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1688517515,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 344359,
+      "num": 344359,
+      "word": "曼联官宣芒特加盟",
+      "onboard_time": 1688552494,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 340187,
@@ -1307,14 +1323,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 302196,
-      "num": 302196,
-      "word": "玉骨遥直接跳到第8集",
-      "onboard_time": 1688551774,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 301973,
       "num": 301973,
       "word": "恶鬼第四集含鬼量",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1688517875,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295014,
+      "num": 295014,
+      "word": "乌卫生部发布核事故应对指南",
+      "onboard_time": 1688548771,
+      "rank": 42,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 294532,
@@ -1507,12 +1523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 253142,
-      "num": 253142,
-      "word": "乌卫生部发布核事故应对指南",
-      "onboard_time": 1688548771,
-      "rank": 42,
-      "category": "国外要闻,军事"
+      "raw_hot": 252968,
+      "num": 252968,
+      "word": "当穷鬼养了条馋狗",
+      "onboard_time": 1688552432,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 252926,
@@ -1529,6 +1545,14 @@
       "onboard_time": 1688545832,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 250926,
+      "num": 250926,
+      "word": "桑延真正的寒心不是大吵大闹",
+      "onboard_time": 1688553092,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 249346,
@@ -1627,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231785,
+      "num": 231785,
+      "word": "周杰伦杨幂古早合影",
+      "onboard_time": 1688553395,
+      "rank": 39,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 229442,
       "num": 229442,
       "word": "高考后向喜欢十年的男生坦白了",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1688532940,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223713,
-      "num": 223713,
-      "word": "曼联官宣芒特加盟",
-      "onboard_time": 1688552494,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 223445,
@@ -1843,14 +1867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 191983,
-      "num": 191983,
-      "word": "当穷鬼养了条馋狗",
-      "onboard_time": 1688552432,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187987,
       "num": 187987,
       "word": "妈妈的士会一直开直到女孩平安长大",
@@ -1889,6 +1905,14 @@
       "onboard_time": 1688538995,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176875,
+      "num": 176875,
+      "word": "高汤睡衣",
+      "onboard_time": 1688553031,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 176852,
@@ -1939,8 +1963,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164701,
+      "num": 171979,
+      "word": "是我理想的旅游方式了",
+      "onboard_time": 1688552794,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163232,
-      "num": 1435126,
+      "num": 1846808,
       "word": "贵州村超出圈蜀黍喊话球迷",
       "onboard_time": 1688549973,
       "rank": 4,
@@ -2076,7 +2108,7 @@
     },
     {
       "raw_hot": 128295,
-      "num": 1166591,
+      "num": 1527224,
       "word": "广西现鸳鸯江奇景",
       "onboard_time": 1688550633,
       "rank": 6,
