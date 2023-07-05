@@ -1,6 +1,6 @@
 {
   "startTime": 1688487970152,
-  "endTime": 1688548823745,
+  "endTime": 1688549699988,
   "band_list": [
     {
       "raw_hot": 7702414,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2464994,
-      "num": 621109,
+      "num": 642675,
       "word": "女子不穿内裤试衣隔天要求退换遭拒",
       "onboard_time": 1688538095,
       "rank": 30,
@@ -97,6 +97,14 @@
       "onboard_time": 1688519615,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1997339,
+      "num": 1997339,
+      "word": "淄博烧烤怎么样了",
+      "onboard_time": 1688544453,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1977729,
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1893877,
-      "num": 1893877,
-      "word": "淄博烧烤怎么样了",
-      "onboard_time": 1688544453,
-      "rank": 30,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 1820625,
       "num": 1820625,
       "word": "你家会整夜开空调吗",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1600913,
-      "num": 602442,
+      "num": 631811,
       "word": "王栎鑫前妻否认拿7位数抚养费",
       "onboard_time": 1688543194,
       "rank": 11,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1501916,
-      "num": 865978,
+      "num": 1336887,
       "word": "肖战任敏水下吻",
       "onboard_time": 1688546674,
       "rank": 3,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1428226,
+      "num": 1428226,
+      "word": "清华硫酸泼熊学生成中科院副研究员",
+      "onboard_time": 1688547093,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1377542,
       "num": 1377542,
       "word": "被花非花雾非雾震撼了",
@@ -203,8 +211,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1313286,
+      "num": 1313286,
+      "word": "断崖式分手",
+      "onboard_time": 1688547271,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1263367,
-      "num": 587379,
+      "num": 620568,
       "word": "印尼57岁男子性侵女儿9年产7子",
       "onboard_time": 1688546674,
       "rank": 12,
@@ -355,20 +371,28 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 863832,
-      "num": 863832,
-      "word": "清华硫酸泼熊学生成中科院副研究员",
-      "onboard_time": 1688547093,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 845295,
       "num": 845295,
       "word": "何赛飞当众发飙后戏曲演员张军波现状",
       "onboard_time": 1688533478,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842953,
+      "num": 842953,
+      "word": "戚薇 女生本就是世界上最美好的存在",
+      "onboard_time": 1688547334,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 837864,
+      "num": 837864,
+      "word": "TFBOYS十年专辑曲目",
+      "onboard_time": 1688548113,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 815914,
@@ -483,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 685104,
-      "num": 685104,
-      "word": "戚薇 女生本就是世界上最美好的存在",
-      "onboard_time": 1688547334,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 681801,
       "num": 681801,
       "word": "褪黑素",
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 621418,
-      "num": 587301,
+      "num": 608459,
       "word": "痛经和生孩子没啥大关系",
       "onboard_time": 1688544633,
       "rank": 45,
@@ -641,14 +657,6 @@
       "onboard_time": 1688544935,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 585098,
-      "num": 585098,
-      "word": "断崖式分手",
-      "onboard_time": 1688547271,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 584162,
@@ -795,20 +803,20 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 454603,
-      "num": 454603,
-      "word": "TFBOYS十年专辑曲目",
-      "onboard_time": 1688548113,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 454268,
       "num": 454268,
       "word": "姚译添对郑恺的嘱咐",
       "onboard_time": 1688521112,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443399,
+      "num": 443399,
+      "word": "消失的她在八角笼中",
+      "onboard_time": 1688547813,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 442803,
@@ -881,14 +889,6 @@
       "onboard_time": 1688529275,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 405001,
-      "num": 258353,
-      "word": "消失的她在八角笼中",
-      "onboard_time": 1688547813,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 402772,
@@ -1115,6 +1115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334119,
+      "num": 334119,
+      "word": "主人带狗新疆玩1个月连人带狗晒黑",
+      "onboard_time": 1688547871,
+      "rank": 31,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 332595,
       "num": 332595,
       "word": "消失的她小头像",
@@ -1147,12 +1155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322659,
+      "num": 322659,
+      "word": "王楚然怎么没来扫楼",
+      "onboard_time": 1688547271,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319899,
       "num": 319899,
       "word": "生理期不能吃的水果",
       "onboard_time": 1688455536,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 314178,
+      "num": 268097,
+      "word": "21块钱补办的六级证书",
+      "onboard_time": 1688548957,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 309923,
@@ -1179,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308984,
-      "num": 257538,
-      "word": "主人带狗新疆玩1个月连人带狗晒黑",
-      "onboard_time": 1688547871,
-      "rank": 31,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 302872,
       "num": 320808,
       "word": "痞幼",
@@ -1203,20 +1219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301385,
+      "num": 301385,
+      "word": "Faker因伤暂离赛场",
+      "onboard_time": 1688549135,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 300347,
+      "num": 300347,
+      "word": "中科院回应清华硫酸泼熊学生成副研究员",
+      "onboard_time": 1688548172,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299156,
       "num": 299156,
       "word": "咒术回战",
       "onboard_time": 1688542954,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 298070,
-      "num": 298070,
-      "word": "王楚然怎么没来扫楼",
-      "onboard_time": 1688547271,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 296202,
@@ -1388,7 +1412,7 @@
     },
     {
       "raw_hot": 252920,
-      "num": 252920,
+      "num": 268125,
       "word": "胡锡进",
       "onboard_time": 1688545832,
       "rank": 37,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1688481341,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238764,
-      "num": 238764,
-      "word": "中科院回应清华硫酸泼熊学生成副研究员",
-      "onboard_time": 1688548172,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238518,
@@ -1571,6 +1587,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 211287,
+      "num": 211287,
+      "word": "乌卫生部发布核事故应对指南",
+      "onboard_time": 1688548771,
+      "rank": 42,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 210441,
       "num": 210441,
       "word": "中国女足公布世界杯大名单",
@@ -1619,6 +1643,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 203563,
+      "num": 203563,
+      "word": "哥哥面试妹妹",
+      "onboard_time": 1688549555,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 202193,
       "num": 202193,
       "word": "大哥多看一眼抢救回热射病老人",
@@ -1659,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196730,
-      "num": 196730,
-      "word": "乌卫生部发布核事故应对指南",
-      "onboard_time": 1688548771,
-      "rank": 42,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 196005,
       "num": 196005,
       "word": "EDG",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1688518055,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194755,
+      "num": 194755,
+      "word": "碳循环减肥法",
+      "onboard_time": 1688549316,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 194205,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1688515470,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182875,
+      "num": 182875,
+      "word": "马天宇纪若尘结婚剧照",
+      "onboard_time": 1688549555,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 178657,
@@ -1777,6 +1817,14 @@
       "onboard_time": 1688486910,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162277,
+      "num": 162277,
+      "word": "阿本曾因为炎亚纶退出演艺圈",
+      "onboard_time": 1688549614,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 158269,
