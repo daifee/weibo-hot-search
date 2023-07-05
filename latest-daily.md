@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/06 00:27:12 ~ 2023/07/06 02:39:31
+本榜单时间：2023/07/06 00:27:12 ~ 2023/07/06 03:16:33
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,12 @@ TFBOYS再不官宣就不礼貌了（热度：376959）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E4%B8%AD%E6%8B%A6%E8%BD%A6%E6%95%91%E4%BA%BA%E7%9A%84%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%98%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
 暴雨中拦车救人的杭州姑娘找到了（热度：93389）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%98%AF%E9%A6%96%E4%BD%8D%E7%8C%AE%E5%94%B1%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%9A%84%E5%8D%8E%E4%BA%BA%E6%AD%8C%E6%89%8B%23" target="weibo">
+李玟是首位献唱奥斯卡的华人歌手（热度：57864）
 </a>
 </li>
 
