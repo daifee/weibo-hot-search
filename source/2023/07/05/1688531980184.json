@@ -1,0 +1,410 @@
+{
+  "runTime": 1688531980184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1672083,
+        "num": 1672083,
+        "word": "原副市长妻子打人耳光成习惯",
+        "onboard_time": 1688522669,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1608325,
+        "num": 1608325,
+        "word": "肖战迪丽热巴合作一部古偶吧",
+        "onboard_time": 1688527476,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19136,
+        "num": 1337897,
+        "word": "这段交通安全宣传片看得有点上头",
+        "onboard_time": 1688470055,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2539446,
+        "num": 1325555,
+        "word": "现在该大小S有压力了",
+        "onboard_time": 1688527658,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1156708,
+        "num": 1156708,
+        "word": "官方回应山东一辅警接连杀害两名女性",
+        "onboard_time": 1688526580,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990356,
+        "num": 990356,
+        "word": "婚礼结束看清很多人",
+        "onboard_time": 1688529036,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 806202,
+        "num": 806202,
+        "word": "倪妮在干什么",
+        "onboard_time": 1688524716,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 735042,
+        "num": 735042,
+        "word": "河北工大芬兰校区",
+        "onboard_time": 1688528799,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 650288,
+        "num": 650288,
+        "word": "为什么有钱人更容易保持身材",
+        "onboard_time": 1688529999,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 605631,
+        "num": 605631,
+        "word": "当我飞奔向你",
+        "onboard_time": 1688526519,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2696359,
+        "num": 604703,
+        "word": "李靓蕾律师陈建州回应",
+        "onboard_time": 1688529760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1108393,
+        "num": 599678,
+        "word": "肖战的伞7.5公斤",
+        "onboard_time": 1688529878,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751750,
+        "num": 597157,
+        "word": "工作八年的工资被父母拿走",
+        "onboard_time": 1688516914,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 731602,
+        "num": 591286,
+        "word": "当老公知道前男友随礼5000",
+        "onboard_time": 1688516914,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110457,
+        "num": 590600,
+        "word": "原神3.8版本更新 可莉",
+        "onboard_time": 1688529637,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 642496,
+        "num": 584916,
+        "word": "法院判定王力宏李靓蕾离婚获准",
+        "onboard_time": 1688519615,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583233,
+        "num": 583233,
+        "word": "青岛巧克力大爷救人嘎嘎猛",
+        "onboard_time": 1688523814,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536912,
+        "num": 536912,
+        "word": "世界气象组织确认厄尔尼诺出现",
+        "onboard_time": 1688525374,
+        "rank": 17,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 484884,
+        "num": 484884,
+        "word": "赵丽颖张睿演过新还珠格格",
+        "onboard_time": 1688525616,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467851,
+        "num": 467851,
+        "word": "北京政法职业学院回应男生被退学",
+        "onboard_time": 1688531679,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1138125,
+        "num": 458790,
+        "word": "为什么痛经蹲厕所就会好很多",
+        "onboard_time": 1688529760,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 928828,
+        "num": 453036,
+        "word": "18万钻戒和18万黄金选哪个",
+        "onboard_time": 1688527476,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 560823,
+        "num": 441344,
+        "word": "张睿早几年都干嘛去了",
+        "onboard_time": 1688531079,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 552612,
+        "num": 429019,
+        "word": "美国女网红直播睡觉月入1447万",
+        "onboard_time": 1688522133,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 427770,
+        "num": 427770,
+        "word": "原来银行并不是五点下班",
+        "onboard_time": 1688516255,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400892,
+        "num": 400892,
+        "word": "舞台2023歌手阵容官宣",
+        "onboard_time": 1688525434,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393486,
+        "num": 393486,
+        "word": "美依礼芽凤凰传奇终于同框了",
+        "onboard_time": 1688529275,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380770,
+        "num": 380770,
+        "word": "8岁女孩为救同学不幸溺亡",
+        "onboard_time": 1688530360,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371135,
+        "num": 371135,
+        "word": "杨丞琳素颜照",
+        "onboard_time": 1688529158,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 369671,
+        "num": 369671,
+        "word": "终于等到桑延暴扣段嘉许了",
+        "onboard_time": 1688524594,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411009,
+        "num": 369006,
+        "word": "女子浴室被已婚男邻居安摄像头",
+        "onboard_time": 1688531503,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367185,
+        "num": 367185,
+        "word": "UCAL 我爱uzi大哥",
+        "onboard_time": 1688531021,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 344272,
+        "num": 344272,
+        "word": "学生恶意篡改同学高考志愿被行拘",
+        "onboard_time": 1688521830,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 342164,
+        "num": 342164,
+        "word": "iPhone15系列电池容量曝光",
+        "onboard_time": 1688520870,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 342124,
+        "num": 342124,
+        "word": "为何放弃入学的研究生越来越多",
+        "onboard_time": 1688522732,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 338199,
+        "num": 338199,
+        "word": "起猛了看见韩栋抱肖战",
+        "onboard_time": 1688522133,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326818,
+        "num": 326818,
+        "word": "不要给孩子吃太多水果了",
+        "onboard_time": 1688524657,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 309538,
+        "num": 309538,
+        "word": "在欧洲企业加班之后被经理暗示了",
+        "onboard_time": 1688526519,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287066,
+        "num": 287066,
+        "word": "孟美岐舞台2023官宣",
+        "onboard_time": 1688530665,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283090,
+        "num": 283090,
+        "word": "战至巅峰",
+        "onboard_time": 1688527774,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281368,
+        "num": 281368,
+        "word": "邓紫棋官宣加盟中国说唱巅峰对决",
+        "onboard_time": 1688527718,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278843,
+        "num": 278843,
+        "word": "阿雅工作室发检测报告",
+        "onboard_time": 1688527316,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267949,
+        "num": 267949,
+        "word": "杨颖王楚然任敏连播两部剧",
+        "onboard_time": 1688524896,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267734,
+        "num": 267734,
+        "word": "疑因制止霸凌遭辱骂男生发退学申请表",
+        "onboard_time": 1688531622,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 265526,
+        "num": 265526,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1688530782,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259615,
+        "num": 259615,
+        "word": "范丞丞虞书欣说最喜欢对方的剧",
+        "onboard_time": 1688528619,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238518,
+        "num": 238518,
+        "word": "我还能扛",
+        "onboard_time": 1688531324,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235743,
+        "num": 235743,
+        "word": "虞书欣我是esther",
+        "onboard_time": 1688524354,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233950,
+        "num": 233950,
+        "word": "嘴角很明显的一块凸起是什么",
+        "onboard_time": 1688517815,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232888,
+        "num": 232888,
+        "word": "玉骨遥特效",
+        "onboard_time": 1688531922,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强交流互鉴促进民心相通#"
+    }
+  }
+}
