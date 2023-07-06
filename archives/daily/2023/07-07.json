@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688682946822,
+  "endTime": 1688685587930,
   "band_list": [
     {
       "raw_hot": 1833030,
@@ -9,6 +9,14 @@
       "onboard_time": 1688635596,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1549832,
+      "num": 488889,
+      "word": "女婴出生第一天喝了过期奶粉",
+      "onboard_time": 1688659469,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1358686,
@@ -27,14 +35,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 970326,
-      "num": 488889,
-      "word": "女婴出生第一天喝了过期奶粉",
-      "onboard_time": 1688659469,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 844283,
       "num": 529948,
       "word": "王雪峰被开除党籍",
@@ -51,12 +51,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 763844,
-      "num": 763844,
+      "raw_hot": 777711,
+      "num": 777711,
       "word": "谭爷爷快成顶流了",
       "onboard_time": 1688657855,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756034,
+      "num": 756034,
+      "word": "李玟妈妈目前不吃不睡",
+      "onboard_time": 1688649035,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 708322,
@@ -64,14 +72,6 @@
       "word": "金星再回应捂胸",
       "onboard_time": 1688634395,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 701460,
-      "num": 701460,
-      "word": "李玟妈妈目前不吃不睡",
-      "onboard_time": 1688649035,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -131,12 +131,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452544,
+      "raw_hot": 500116,
+      "num": 500116,
+      "word": "家人把15万珠宝当垃圾丢掉还被人给捡了",
+      "onboard_time": 1688684423,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461113,
+      "num": 461113,
+      "word": "七七事变86周年",
+      "onboard_time": 1688684843,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458509,
       "num": 342547,
       "word": "警方通报2名女孩在酒店被性侵",
       "onboard_time": 1688653536,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457866,
+      "num": 228956,
+      "word": "小暑",
+      "onboard_time": 1688684843,
+      "rank": 21,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 451487,
@@ -267,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238304,
+      "num": 238304,
+      "word": "亮警证让查酒驾交警放行男子系民警",
+      "onboard_time": 1688684120,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232727,
       "num": 232727,
       "word": "kms",
@@ -281,6 +313,14 @@
       "onboard_time": 1688661806,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216004,
+      "num": 216004,
+      "word": "科学家为什么执着于计算圆周率",
+      "onboard_time": 1688660370,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 214233,
@@ -337,6 +377,14 @@
       "onboard_time": 1688641473,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 173901,
+      "num": 145946,
+      "word": "原来黑笔真的可以写出白字",
+      "onboard_time": 1688684482,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 170554,
@@ -411,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161730,
-      "num": 162192,
-      "word": "科学家为什么执着于计算圆周率",
-      "onboard_time": 1688660370,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 154051,
       "num": 154051,
       "word": "80瓶飞天茅台被盗嫌疑人竟是女儿男友",
@@ -460,11 +500,35 @@
     },
     {
       "raw_hot": 103813,
-      "num": 71415,
+      "num": 99435,
       "word": "日本地铁站启用实时翻译屏幕",
       "onboard_time": 1688664200,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87952,
+      "num": 87952,
+      "word": "肖战剧中最虐的台词",
+      "onboard_time": 1688680875,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 87247,
+      "num": 87247,
+      "word": "杨洋看王楚然的眼神",
+      "onboard_time": 1688639556,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 81928,
+      "num": 81928,
+      "word": "谈一场直球式恋爱有多甜",
+      "onboard_time": 1688684722,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 81235,
@@ -481,6 +545,14 @@
       "onboard_time": 1688631633,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 72609,
+      "num": 72609,
+      "word": "有了新玩具的显眼包小金毛",
+      "onboard_time": 1688680216,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 68879,
@@ -523,20 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51258,
-      "num": 51258,
-      "word": "肖战剧中最虐的台词",
-      "onboard_time": 1688680875,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 44918,
-      "num": 50893,
-      "word": "有了新玩具的显眼包小金毛",
-      "onboard_time": 1688680216,
-      "rank": 47,
-      "category": "幽默,情感"
+      "raw_hot": 47688,
+      "num": 764432,
+      "word": "高温下坚守的人",
+      "onboard_time": 1688648558,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27818,
@@ -545,14 +609,6 @@
       "onboard_time": 1688668394,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20098,
-      "num": 718393,
-      "word": "高温下坚守的人",
-      "onboard_time": 1688648558,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

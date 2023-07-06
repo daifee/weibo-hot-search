@@ -1,0 +1,410 @@
+{
+  "runTime": 1688685587930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1300342,
+        "num": 1300342,
+        "word": "学校要求教师不要晒暑假旅游照片",
+        "onboard_time": 1688651496,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 777711,
+        "num": 777711,
+        "word": "谭爷爷快成顶流了",
+        "onboard_time": 1688657855,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47688,
+        "num": 764432,
+        "word": "高温下坚守的人",
+        "onboard_time": 1688648558,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756034,
+        "num": 756034,
+        "word": "李玟妈妈目前不吃不睡",
+        "onboard_time": 1688649035,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601623,
+        "num": 601623,
+        "word": "我姓彭 土豆丝彭",
+        "onboard_time": 1688655638,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500116,
+        "num": 500116,
+        "word": "家人把15万珠宝当垃圾丢掉还被人给捡了",
+        "onboard_time": 1688684423,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550587,
+        "num": 493036,
+        "word": "李玟老公发讣告",
+        "onboard_time": 1688637342,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461113,
+        "num": 461113,
+        "word": "七七事变86周年",
+        "onboard_time": 1688684843,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419034,
+        "num": 419034,
+        "word": "八角笼中票房",
+        "onboard_time": 1688652038,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349045,
+        "num": 349045,
+        "word": "杭州男子卖掉三套房换别墅刚到手就后悔",
+        "onboard_time": 1688656956,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1549832,
+        "num": 345486,
+        "word": "女婴出生第一天喝了过期奶粉",
+        "onboard_time": 1688659469,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340875,
+        "num": 340875,
+        "word": "火锅店买8000斤滞销瓜送顾客",
+        "onboard_time": 1688654438,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315657,
+        "num": 315657,
+        "word": "刘昊然原来穿的是高跟鞋",
+        "onboard_time": 1688659591,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302605,
+        "num": 302605,
+        "word": "李雪琴谈走出抑郁症的方法",
+        "onboard_time": 1688648375,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296394,
+        "num": 296394,
+        "word": "羊毛党用无理由退货漏洞薅了100万",
+        "onboard_time": 1688656836,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294303,
+        "num": 294303,
+        "word": "金星再回应捂胸",
+        "onboard_time": 1688634395,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277954,
+        "num": 277954,
+        "word": "俞敏洪曾想从20层楼跳下",
+        "onboard_time": 1688657615,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276206,
+        "num": 276206,
+        "word": "演员热依扎谈抑郁症",
+        "onboard_time": 1688652994,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248560,
+        "num": 248560,
+        "word": "王雪峰被开除党籍",
+        "onboard_time": 1688635178,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238304,
+        "num": 238304,
+        "word": "亮警证让查酒驾交警放行男子系民警",
+        "onboard_time": 1688684120,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458509,
+        "num": 236805,
+        "word": "警方通报2名女孩在酒店被性侵",
+        "onboard_time": 1688653536,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457866,
+        "num": 228956,
+        "word": "小暑",
+        "onboard_time": 1688684843,
+        "rank": 21,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 302035,
+        "num": 225250,
+        "word": "女子产后抑郁将孩子从天桥抛下",
+        "onboard_time": 1688655938,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293627,
+        "num": 220129,
+        "word": "男子迷奸多女子后多次查询法律后果",
+        "onboard_time": 1688647054,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216004,
+        "num": 216004,
+        "word": "科学家为什么执着于计算圆周率",
+        "onboard_time": 1688660370,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196385,
+        "num": 196385,
+        "word": "她好厉害她一定会是我",
+        "onboard_time": 1688659113,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178489,
+        "num": 178489,
+        "word": "你们每个月的公积金有多少",
+        "onboard_time": 1688635596,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171862,
+        "num": 171862,
+        "word": "小蜘蛛今天应该是睡过头了",
+        "onboard_time": 1688655759,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171001,
+        "num": 171001,
+        "word": "哥们你小说男主啊",
+        "onboard_time": 1688654976,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156548,
+        "num": 156548,
+        "word": "我的人间烟火第8集不敢看",
+        "onboard_time": 1688654076,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173901,
+        "num": 145946,
+        "word": "原来黑笔真的可以写出白字",
+        "onboard_time": 1688684482,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134968,
+        "num": 134968,
+        "word": "当大学生找学习搭子遇见小学生",
+        "onboard_time": 1688659411,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124948,
+        "num": 124948,
+        "word": "肖战包场电影八角笼中",
+        "onboard_time": 1688646032,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122377,
+        "num": 122377,
+        "word": "黄晓明 CoCo一直像小太阳",
+        "onboard_time": 1688635235,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115548,
+        "num": 115548,
+        "word": "第一次去青海西藏的一定要看完",
+        "onboard_time": 1688657976,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 111683,
+        "num": 111683,
+        "word": "桑稚钻戒好大",
+        "onboard_time": 1688661806,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100260,
+        "num": 100260,
+        "word": "酒店的床为什么有四个枕头",
+        "onboard_time": 1688643031,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99435,
+        "num": 99435,
+        "word": "日本地铁站启用实时翻译屏幕",
+        "onboard_time": 1688664200,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91946,
+        "num": 91946,
+        "word": "迪丽热巴赵露思宋轶微指破亿",
+        "onboard_time": 1688650415,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91448,
+        "num": 91448,
+        "word": "周星驰看王宝强新电影说服了",
+        "onboard_time": 1688644713,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87952,
+        "num": 87952,
+        "word": "肖战剧中最虐的台词",
+        "onboard_time": 1688680875,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87247,
+        "num": 87247,
+        "word": "杨洋看王楚然的眼神",
+        "onboard_time": 1688639556,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85039,
+        "num": 85039,
+        "word": "newjeans新歌",
+        "onboard_time": 1688657136,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81928,
+        "num": 81928,
+        "word": "谈一场直球式恋爱有多甜",
+        "onboard_time": 1688684722,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80686,
+        "num": 80686,
+        "word": "TF一代二代三代暑假都有演唱会",
+        "onboard_time": 1688658573,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79798,
+        "num": 79798,
+        "word": "周杰伦开演唱会为海口增近10亿旅游收入",
+        "onboard_time": 1688643333,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79572,
+        "num": 79572,
+        "word": "很少劝朋友离开让她难过的关系",
+        "onboard_time": 1688660069,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76826,
+        "num": 76826,
+        "word": "在厕所里发现了新世界",
+        "onboard_time": 1688660910,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72609,
+        "num": 72609,
+        "word": "有了新玩具的显眼包小金毛",
+        "onboard_time": 1688680216,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 71374,
+        "num": 71374,
+        "word": "25岁女网红服大量安眠药自杀",
+        "onboard_time": 1688629777,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江苏苏州市考察调研#"
+    }
+  }
+}
