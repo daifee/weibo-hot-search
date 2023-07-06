@@ -1,0 +1,410 @@
+{
+  "runTime": 1688642235503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7238620,
+        "num": 7238620,
+        "word": "李玟老公发讣告",
+        "onboard_time": 1688637342,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5904609,
+        "num": 5904609,
+        "word": "金星再回应捂胸",
+        "onboard_time": 1688634395,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260609,
+        "num": 3106544,
+        "word": "大学四年如何不虚度",
+        "onboard_time": 1688630614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1365794,
+        "num": 1365794,
+        "word": "王雪峰被开除党籍",
+        "onboard_time": 1688635178,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464598,
+        "num": 1016274,
+        "word": "83岁老人感谢李玟曾帮他卖柑桔",
+        "onboard_time": 1688632956,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 898830,
+        "num": 898830,
+        "word": "杨洋看王楚然的眼神",
+        "onboard_time": 1688639556,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383080,
+        "num": 850115,
+        "word": "老人卖桑葚担心价格太贵主动降价",
+        "onboard_time": 1688635953,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838476,
+        "num": 838476,
+        "word": "姜云升解约",
+        "onboard_time": 1688638718,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790946,
+        "num": 790946,
+        "word": "周星驰晒照悼念李玟",
+        "onboard_time": 1688635235,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754763,
+        "num": 754763,
+        "word": "你们每个月的公积金有多少",
+        "onboard_time": 1688635596,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 627751,
+        "num": 627751,
+        "word": "偷偷藏不住直通大结局",
+        "onboard_time": 1688639914,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551346,
+        "num": 551346,
+        "word": "TFBOYS演唱会的票价",
+        "onboard_time": 1688631633,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 528692,
+        "num": 528692,
+        "word": "李玟遗产都留给妈妈",
+        "onboard_time": 1688615680,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505466,
+        "num": 505466,
+        "word": "28.8万彩礼男生读大一双方家长未见面",
+        "onboard_time": 1688627616,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401591,
+        "num": 401591,
+        "word": "花百万上大学上了1年发现没入学",
+        "onboard_time": 1688637216,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520915,
+        "num": 398657,
+        "word": "王楚然第一次见杨洋就被帅到了",
+        "onboard_time": 1688636256,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465602,
+        "num": 387677,
+        "word": "梁朝伟一个人看电影要买六个位子",
+        "onboard_time": 1688632295,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369894,
+        "num": 369894,
+        "word": "陈梦王曼昱止步女双八强",
+        "onboard_time": 1688639914,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310601,
+        "num": 310601,
+        "word": "第一次见抽血也这么乖的大熊猫",
+        "onboard_time": 1688632295,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 219174,
+        "num": 219174,
+        "word": "抑郁症痊愈后性格变化",
+        "onboard_time": 1688630795,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498503,
+        "num": 218813,
+        "word": "淄博烧烤店老板称倒闭的多是蹭热度的新店",
+        "onboard_time": 1688639076,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466702,
+        "num": 217931,
+        "word": "女儿终于失业了",
+        "onboard_time": 1688633673,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418732,
+        "num": 217122,
+        "word": "宋轶被催婚时的反应",
+        "onboard_time": 1688639854,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382410,
+        "num": 216212,
+        "word": "全靠Angelababy的脸在撑",
+        "onboard_time": 1688641473,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 336418,
+        "num": 215427,
+        "word": "男子称儿子在足浴店兴奋过度身亡",
+        "onboard_time": 1688618026,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357539,
+        "num": 214691,
+        "word": "影帝界四大社恐",
+        "onboard_time": 1688640094,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335345,
+        "num": 213698,
+        "word": "公司不给开空调用冰块降温",
+        "onboard_time": 1688639377,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320992,
+        "num": 212654,
+        "word": "25岁女网红服大量安眠药自杀",
+        "onboard_time": 1688629777,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319810,
+        "num": 211434,
+        "word": "黄晓明 CoCo一直像小太阳",
+        "onboard_time": 1688635235,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211354,
+        "num": 211354,
+        "word": "日本现气球葬礼",
+        "onboard_time": 1688632113,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306047,
+        "num": 210733,
+        "word": "把笼吹成了我听不起的样子",
+        "onboard_time": 1688641292,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284985,
+        "num": 209891,
+        "word": "陈哲远最有cp感的女主",
+        "onboard_time": 1688636559,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284417,
+        "num": 209206,
+        "word": "李玟家属将举行歌迷追思会",
+        "onboard_time": 1688628094,
+        "rank": 32,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 280599,
+        "num": 208178,
+        "word": "老人骑车被两车之间牵引绳勒倒死亡",
+        "onboard_time": 1688638474,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265087,
+        "num": 207800,
+        "word": "PDD朋友圈调侃彭昱畅",
+        "onboard_time": 1688629232,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260882,
+        "num": 206812,
+        "word": "餐馆回应数只小猫被员工烫死",
+        "onboard_time": 1688640214,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258385,
+        "num": 206335,
+        "word": "奔跑吧",
+        "onboard_time": 1688625272,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205719,
+        "num": 205719,
+        "word": "肖战再提陈情令",
+        "onboard_time": 1688616342,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204667,
+        "num": 204667,
+        "word": "EXO预告",
+        "onboard_time": 1688637818,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199844,
+        "num": 199844,
+        "word": "美财政部部长抵达北京",
+        "onboard_time": 1688637401,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198135,
+        "num": 198135,
+        "word": "高速收费员抬杆放行对司机说过路费我出",
+        "onboard_time": 1688640871,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193428,
+        "num": 193428,
+        "word": "WE零封RA",
+        "onboard_time": 1688642191,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193387,
+        "num": 193387,
+        "word": "许佳琪孔雪儿聚餐合照",
+        "onboard_time": 1688641231,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180206,
+        "num": 180206,
+        "word": "不开心就打开玉骨遥第十集",
+        "onboard_time": 1688638776,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179335,
+        "num": 179335,
+        "word": "在广东走路一定要注意头顶",
+        "onboard_time": 1688639138,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178009,
+        "num": 178009,
+        "word": "黄子韬 我是菜但爱玩",
+        "onboard_time": 1688635115,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168279,
+        "num": 168279,
+        "word": "丫丫冰块凉席安排上了",
+        "onboard_time": 1688626715,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155401,
+        "num": 155401,
+        "word": "Asen结婚",
+        "onboard_time": 1688642070,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153711,
+        "num": 153711,
+        "word": "陈梦王曼昱晋级女双八强",
+        "onboard_time": 1688641175,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136203,
+        "num": 136203,
+        "word": "秋瓷炫于晓光回归韩综",
+        "onboard_time": 1688624496,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道不孤众行致远#"
+    }
+  }
+}

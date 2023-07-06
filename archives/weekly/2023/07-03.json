@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688640013355,
+  "endTime": 1688642235503,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2067,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 898830,
+      "num": 898830,
+      "word": "杨洋看王楚然的眼神",
+      "onboard_time": 1688639556,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 898128,
       "num": 898128,
       "word": "考研和考编同时上岸怎么选",
@@ -2259,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 838476,
+      "num": 838476,
+      "word": "姜云升解约",
+      "onboard_time": 1688638718,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 837864,
       "num": 837864,
       "word": "TFBOYS十年专辑曲目",
@@ -2433,14 +2449,6 @@
       "onboard_time": 1688610338,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 782953,
-      "num": 782953,
-      "word": "姜云升解约",
-      "onboard_time": 1688638718,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 782510,
@@ -3096,6 +3104,14 @@
       "word": "赵露思镜头下的曾黎",
       "onboard_time": 1688532042,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 627751,
+      "num": 627751,
+      "word": "偷偷藏不住直通大结局",
+      "onboard_time": 1688639914,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -3771,6 +3787,14 @@
       "category": "社会议题,艺人"
     },
     {
+      "raw_hot": 498503,
+      "num": 253882,
+      "word": "淄博烧烤店老板称倒闭的多是蹭热度的新店",
+      "onboard_time": 1688639076,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
@@ -4307,6 +4331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418732,
+      "num": 217122,
+      "word": "宋轶被催婚时的反应",
+      "onboard_time": 1688639854,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417467,
       "num": 417467,
       "word": "鹿晗广州站场馆",
@@ -4659,6 +4691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383080,
+      "num": 850115,
+      "word": "老人卖桑葚担心价格太贵主动降价",
+      "onboard_time": 1688635953,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382746,
       "num": 343092,
       "word": "王一博核心力量",
@@ -4673,6 +4713,14 @@
       "onboard_time": 1688386960,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 382410,
+      "num": 216212,
+      "word": "全靠Angelababy的脸在撑",
+      "onboard_time": 1688641473,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 381891,
@@ -4721,14 +4769,6 @@
       "onboard_time": 1688385637,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 380552,
-      "num": 253882,
-      "word": "淄博烧烤店老板称倒闭的多是蹭热度的新店",
-      "onboard_time": 1688639076,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378759,
@@ -4801,6 +4841,14 @@
       "onboard_time": 1688562092,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 369894,
+      "num": 369894,
+      "word": "陈梦王曼昱止步女双八强",
+      "onboard_time": 1688639914,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 369671,
@@ -4979,6 +5027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 357539,
+      "num": 214691,
+      "word": "影帝界四大社恐",
+      "onboard_time": 1688640094,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 356639,
       "num": 356639,
       "word": "消失的她实时票房破26亿",
@@ -5017,14 +5073,6 @@
       "onboard_time": 1688454698,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 352277,
-      "num": 352277,
-      "word": "老人卖桑葚担心价格太贵主动降价",
-      "onboard_time": 1688635953,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351957,
@@ -5265,6 +5313,14 @@
       "onboard_time": 1688310580,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335345,
+      "num": 258146,
+      "word": "公司不给开空调用冰块降温",
+      "onboard_time": 1688639377,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 335178,
@@ -5691,6 +5747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306047,
+      "num": 210733,
+      "word": "把笼吹成了我听不起的样子",
+      "onboard_time": 1688641292,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305850,
       "num": 305850,
       "word": "桑稚实习被欺负",
@@ -6009,14 +6073,6 @@
       "onboard_time": 1688465920,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284796,
-      "num": 258146,
-      "word": "公司不给开空调用冰块降温",
-      "onboard_time": 1688639377,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 284632,
@@ -6427,6 +6483,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260882,
+      "num": 206812,
+      "word": "餐馆回应数只小猫被员工烫死",
+      "onboard_time": 1688640214,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260609,
+      "num": 4446838,
+      "word": "大学四年如何不虚度",
+      "onboard_time": 1688630614,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260404,
       "num": 206356,
       "word": "桑延好直给的爱",
@@ -6603,14 +6675,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 253153,
-      "num": 253153,
-      "word": "偷偷藏不住直通大结局",
-      "onboard_time": 1688639914,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 252968,
       "num": 252968,
       "word": "当穷鬼养了条馋狗",
@@ -6681,14 +6745,6 @@
       "onboard_time": 1688438557,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 250006,
-      "num": 4446838,
-      "word": "大学四年如何不虚度",
-      "onboard_time": 1688630614,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249993,
@@ -6936,14 +6992,6 @@
       "word": "不开心就打开玉骨遥第十集",
       "onboard_time": 1688638776,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 236789,
-      "num": 236789,
-      "word": "杨洋看王楚然的眼神",
-      "onboard_time": 1688639556,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -7675,14 +7723,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 204653,
-      "num": 204653,
-      "word": "陈梦王曼昱止步女双八强",
-      "onboard_time": 1688639914,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203493,
       "num": 203493,
       "word": "为你撑伞因为你值得",
@@ -7705,14 +7745,6 @@
       "onboard_time": 1688609018,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202667,
-      "num": 202667,
-      "word": "宋轶被催婚时的反应",
-      "onboard_time": 1688639854,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 202635,
@@ -7872,6 +7904,14 @@
       "word": "河南升级发布暴雨黄色预警",
       "onboard_time": 1688364657,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198135,
+      "num": 198135,
+      "word": "高速收费员抬杆放行对司机说过路费我出",
+      "onboard_time": 1688640871,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -8057,6 +8097,22 @@
       "onboard_time": 1688631271,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193428,
+      "num": 193428,
+      "word": "WE零封RA",
+      "onboard_time": 1688642191,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 193387,
+      "num": 193387,
+      "word": "许佳琪孔雪儿聚餐合照",
+      "onboard_time": 1688641231,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 192930,
@@ -8907,6 +8963,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 155401,
+      "num": 155401,
+      "word": "Asen结婚",
+      "onboard_time": 1688642070,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155310,
       "num": 155310,
       "word": "北京南四环上空突现神秘飞行物",
@@ -8937,6 +9001,14 @@
       "onboard_time": 1688450377,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153711,
+      "num": 153711,
+      "word": "陈梦王曼昱晋级女双八强",
+      "onboard_time": 1688641175,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 153433,
