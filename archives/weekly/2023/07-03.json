@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688624791185,
+  "endTime": 1688625713232,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 2317838,
-      "num": 832467,
+      "num": 870795,
       "word": "成龙 CoCo是天生的明星",
       "onboard_time": 1688618328,
       "rank": 30,
@@ -844,7 +844,7 @@
     },
     {
       "raw_hot": 1810361,
-      "num": 865996,
+      "num": 889816,
       "word": "Lisa无刘海vs蒋雯丽",
       "onboard_time": 1688617243,
       "rank": 41,
@@ -1435,6 +1435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1151078,
+      "num": 422728,
+      "word": "她是认认真真地对待了此生",
+      "onboard_time": 1688623654,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1147966,
       "num": 1147966,
       "word": "李玟",
@@ -1755,20 +1763,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 970409,
-      "num": 388822,
-      "word": "她是认认真真地对待了此生",
-      "onboard_time": 1688623654,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 970342,
       "num": 970342,
       "word": "重庆万州洪涝灾害致15死4失踪",
       "onboard_time": 1688537314,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 963178,
+      "num": 413553,
+      "word": "秋瓷炫于晓光回归韩综",
+      "onboard_time": 1688624496,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 953927,
@@ -1873,6 +1881,14 @@
       "onboard_time": 1688355092,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 916210,
+      "num": 916210,
+      "word": "手机玩太久可导致抑郁症",
+      "onboard_time": 1688621438,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 915791,
@@ -3251,14 +3267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 546342,
-      "num": 546342,
-      "word": "手机玩太久可导致抑郁症",
-      "onboard_time": 1688621438,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 545776,
       "num": 545776,
       "word": "i人和e人的区别不在于是否社恐",
@@ -3652,7 +3660,7 @@
     },
     {
       "raw_hot": 486816,
-      "num": 392087,
+      "num": 402301,
       "word": "官方回应男孩被逼吃异物是否存在逼迫和解",
       "onboard_time": 1688617967,
       "rank": 44,
@@ -4451,6 +4459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376553,
+      "num": 345859,
+      "word": "奔跑吧",
+      "onboard_time": 1688625272,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375273,
       "num": 375273,
       "word": "LPL官方回应推迟开票",
@@ -5203,6 +5219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318955,
+      "num": 262325,
+      "word": "张若昀李沁庆余年2路透",
+      "onboard_time": 1688624496,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318837,
       "num": 318837,
       "word": "老祖宗最知道怎么哄孩子",
@@ -5473,6 +5497,14 @@
       "onboard_time": 1688365851,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296898,
+      "num": 296898,
+      "word": "陕西文旅回应TFBOYS十周年演唱会志愿者招募",
+      "onboard_time": 1688624670,
+      "rank": 47,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 296500,
@@ -6011,6 +6043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261115,
+      "num": 372947,
+      "word": "这是一只吃了菌子的大熊猫吧",
+      "onboard_time": 1688624073,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260404,
       "num": 206356,
       "word": "桑延好直给的爱",
@@ -6356,7 +6396,7 @@
     },
     {
       "raw_hot": 244690,
-      "num": 214338,
+      "num": 239188,
       "word": "TF家族演唱会广州站官宣",
       "onboard_time": 1688624073,
       "rank": 30,
@@ -6875,6 +6915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218479,
+      "num": 218479,
+      "word": "张杰演唱会抢票",
+      "onboard_time": 1688625454,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218421,
       "num": 218421,
       "word": "情侣被困洪水男生要求先救女友",
@@ -7177,14 +7225,6 @@
       "onboard_time": 1688439454,
       "rank": 40,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 204304,
-      "num": 204304,
-      "word": "秋瓷炫于晓光回归韩综",
-      "onboard_time": 1688624496,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 203493,
@@ -7515,6 +7555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193995,
+      "num": 193995,
+      "word": "北京高温",
+      "onboard_time": 1688624915,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193950,
       "num": 193950,
       "word": "哪一瞬间你意识到了人的差距",
@@ -7743,6 +7791,14 @@
       "num": 291047,
       "word": "性教育第四季预告",
       "onboard_time": 1688602422,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181761,
+      "num": 181761,
+      "word": "白日梦与她开机",
+      "onboard_time": 1688625395,
       "rank": 39,
       "category": "影视"
     },
@@ -8011,6 +8067,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 171658,
+      "num": 171658,
+      "word": "DOTA2",
+      "onboard_time": 1688624433,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170494,
       "num": 170494,
       "word": "果然前任都逃不过被阴阳怪气",
@@ -8025,6 +8089,14 @@
       "onboard_time": 1688433695,
       "rank": 44,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 170006,
+      "num": 170006,
+      "word": "种地吧",
+      "onboard_time": 1688395724,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 169784,
@@ -8073,14 +8145,6 @@
       "onboard_time": 1688319441,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166280,
-      "num": 166280,
-      "word": "种地吧",
-      "onboard_time": 1688395724,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 166182,
@@ -8155,6 +8219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164583,
+      "num": 164583,
+      "word": "上一个这么害羞的还是白敬亭",
+      "onboard_time": 1688623594,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164487,
       "num": 164487,
       "word": "被小学五年级的弟弟牵红线了",
@@ -8219,14 +8291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158284,
-      "num": 158284,
-      "word": "这是一只吃了菌子的大熊猫吧",
-      "onboard_time": 1688624073,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 158269,
       "num": 158269,
       "word": "王一博看热烈看开心了",
@@ -8281,22 +8345,6 @@
       "onboard_time": 1688383839,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157269,
-      "num": 157269,
-      "word": "张若昀李沁庆余年2路透",
-      "onboard_time": 1688624496,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 156704,
-      "num": 156704,
-      "word": "上一个这么害羞的还是白敬亭",
-      "onboard_time": 1688623594,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 156616,
@@ -8571,14 +8619,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 129206,
-      "num": 129206,
-      "word": "DOTA2",
-      "onboard_time": 1688624433,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 128295,
       "num": 1527224,
       "word": "广西现鸳鸯江奇景",
@@ -8625,14 +8665,6 @@
       "onboard_time": 1688301519,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119077,
-      "num": 129026,
-      "word": "陕西文旅回应TFBOYS十周年演唱会志愿者招募",
-      "onboard_time": 1688624670,
-      "rank": 47,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 118898,
