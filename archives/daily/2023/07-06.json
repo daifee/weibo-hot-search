@@ -1,6 +1,6 @@
 {
   "startTime": 1688574432791,
-  "endTime": 1688643263878,
+  "endTime": 1688647283318,
   "band_list": [
     {
       "raw_hot": 9455004,
@@ -195,6 +195,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1980692,
+      "num": 1561857,
+      "word": "王雪峰被开除党籍",
+      "onboard_time": 1688635178,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1958465,
       "num": 467551,
       "word": "我驻乌使馆提醒中国公民切勿来乌",
@@ -259,20 +267,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1645958,
+      "num": 1645958,
+      "word": "你们每个月的公积金有多少",
+      "onboard_time": 1688635596,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1604000,
       "num": 1604000,
       "word": "秋瓷炫于晓光回归韩综",
       "onboard_time": 1688624496,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1561857,
-      "num": 1561857,
-      "word": "王雪峰被开除党籍",
-      "onboard_time": 1688635178,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1545747,
@@ -307,19 +315,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1464892,
-      "num": 1464892,
-      "word": "你们每个月的公积金有多少",
-      "onboard_time": 1688635596,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1462326,
       "num": 1462326,
       "word": "梁朝伟一个人看电影要买六个位子",
       "onboard_time": 1688632295,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1393175,
+      "num": 1393175,
+      "word": "肖战包场电影八角笼中",
+      "onboard_time": 1688646032,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -441,6 +449,14 @@
       "onboard_time": 1688635235,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1087119,
+      "num": 579379,
+      "word": "周星驰看王宝强新电影说服了",
+      "onboard_time": 1688644713,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1076028,
@@ -635,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 736780,
+      "num": 555051,
+      "word": "程青松喊话王宝强退还金扫帚",
+      "onboard_time": 1688642913,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 729499,
       "num": 729499,
       "word": "陕西文旅回应TFBOYS十周年演唱会志愿者招募",
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701754,
+      "num": 255885,
+      "word": "刘诗诗捂得好严",
+      "onboard_time": 1688645854,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 682041,
       "num": 397380,
       "word": "钟欣潼 还是很想见花花",
@@ -745,6 +777,14 @@
       "onboard_time": 1688636256,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 625389,
+      "num": 253549,
+      "word": "酒店的床为什么有四个枕头",
+      "onboard_time": 1688643031,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 619259,
@@ -787,6 +827,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 583250,
+      "num": 1060595,
+      "word": "老人卖桑葚担心价格太贵主动降价",
+      "onboard_time": 1688635953,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578370,
       "num": 436880,
       "word": "女子擤鼻涕擤出息肉血流不止",
@@ -801,6 +849,22 @@
       "onboard_time": 1688571599,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566860,
+      "num": 566860,
+      "word": "美方称坚决反对中国对镓和锗出口管制",
+      "onboard_time": 1688643633,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564156,
+      "num": 564156,
+      "word": "胡锡进 农民工退休待遇",
+      "onboard_time": 1688642615,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 563490,
@@ -923,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 501968,
+      "num": 252231,
+      "word": "杨迪童年被父亲打到鼻子出血",
+      "onboard_time": 1688646214,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499233,
       "num": 499233,
       "word": "身边有抑郁症的朋友该怎么办",
@@ -932,7 +1004,7 @@
     },
     {
       "raw_hot": 498503,
-      "num": 253882,
+      "num": 319098,
       "word": "淄博烧烤店老板称倒闭的多是蹭热度的新店",
       "onboard_time": 1688639076,
       "rank": 30,
@@ -987,12 +1059,12 @@
       "category": "情感,游戏"
     },
     {
-      "raw_hot": 465153,
-      "num": 1060595,
-      "word": "老人卖桑葚担心价格太贵主动降价",
-      "onboard_time": 1688635953,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 470146,
+      "num": 249404,
+      "word": "公司的冰箱太累了",
+      "onboard_time": 1688645431,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 465020,
@@ -1123,11 +1195,27 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 380856,
+      "num": 242458,
+      "word": "周杰伦开演唱会为海口增近10亿旅游收入",
+      "onboard_time": 1688643333,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 380756,
       "num": 294396,
       "word": "顾九思为柳玉茹抗旨拒婚",
       "onboard_time": 1688628574,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 379668,
+      "num": 241655,
+      "word": "八角笼中原型孩子现状",
+      "onboard_time": 1688643812,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1387,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279673,
-      "num": 235308,
-      "word": "程青松喊话王宝强退还金扫帚",
-      "onboard_time": 1688642913,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278188,
       "num": 276051,
       "word": "妈妈认识电饭煲却不认识儿子",
@@ -1443,6 +1523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268063,
+      "num": 227624,
+      "word": "马伯骞你在干什么",
+      "onboard_time": 1688643694,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266344,
       "num": 266343,
       "word": "韩国博主说Ella芝芙孟佳原地出道",
@@ -1483,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257162,
+      "num": 257162,
+      "word": "高速收费员抬杆放行对司机说过路费我出",
+      "onboard_time": 1688640871,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256964,
       "num": 256964,
       "word": "EXO预告",
@@ -1497,6 +1593,14 @@
       "onboard_time": 1688635474,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253167,
+      "num": 203666,
+      "word": "八角笼中",
+      "onboard_time": 1688646755,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 252930,
@@ -1521,14 +1625,6 @@
       "onboard_time": 1688621319,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242368,
-      "num": 232517,
-      "word": "酒店的床为什么有四个枕头",
-      "onboard_time": 1688643031,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 239109,
@@ -1587,12 +1683,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 226237,
-      "num": 226237,
-      "word": "胡锡进 农民工退休待遇",
-      "onboard_time": 1688642615,
-      "rank": 37,
-      "category": "财经,社会新闻"
+      "raw_hot": 226899,
+      "num": 226899,
+      "word": "男子迷奸多女子后多次查询法律后果",
+      "onboard_time": 1688647054,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223300,
@@ -1659,12 +1755,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210101,
+      "num": 210101,
+      "word": "BW2023",
+      "onboard_time": 1688647114,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210022,
       "num": 210022,
       "word": "时影转身名场面",
       "onboard_time": 1688612259,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208693,
+      "num": 208693,
+      "word": "爸爸你为什么不爱我啦",
+      "onboard_time": 1688646333,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 208047,
@@ -1689,6 +1801,14 @@
       "onboard_time": 1688593635,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 206659,
+      "num": 206659,
+      "word": "上班根本判断不出同事年龄",
+      "onboard_time": 1688642673,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 205543,
@@ -1745,14 +1865,6 @@
       "onboard_time": 1688627915,
       "rank": 35,
       "category": "游戏,综艺"
-    },
-    {
-      "raw_hot": 198135,
-      "num": 198135,
-      "word": "高速收费员抬杆放行对司机说过路费我出",
-      "onboard_time": 1688640871,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197804,
@@ -1817,6 +1929,14 @@
       "onboard_time": 1688620720,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192470,
+      "num": 192470,
+      "word": "梁靖崑林高远止步男双八强",
+      "onboard_time": 1688646572,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 192282,
@@ -1979,6 +2099,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 166041,
+      "num": 166041,
+      "word": "看得出来这是又热疯了一位",
+      "onboard_time": 1688644713,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164583,
       "num": 185134,
       "word": "上一个这么害羞的还是白敬亭",
@@ -1995,20 +2123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158715,
+      "num": 158715,
+      "word": "战至巅峰2",
+      "onboard_time": 1688643933,
+      "rank": 49,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 158249,
       "num": 182100,
       "word": "九嶷山特种兵旅行",
       "onboard_time": 1688607038,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 155883,
-      "num": 155883,
-      "word": "上班根本判断不出同事年龄",
-      "onboard_time": 1688642673,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 153711,
@@ -2152,6 +2280,14 @@
       "word": "七旬老人凌晨迷失深山无人机热成像找人",
       "onboard_time": 1688595438,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64536,
+      "num": 1466292,
+      "word": "2000多年前古人就有冰酒器还可拆卸",
+      "onboard_time": 1688630372,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
