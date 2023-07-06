@@ -1,6 +1,6 @@
 {
   "startTime": 1688574432791,
-  "endTime": 1688653141081,
+  "endTime": 1688654256221,
   "band_list": [
     {
       "raw_hot": 9455004,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 2730238,
-      "num": 1150944,
+      "num": 1256495,
       "word": "李玟妈妈目前不吃不睡",
       "onboard_time": 1688649035,
       "rank": 4,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1724595,
+      "num": 1724595,
+      "word": "你们每个月的公积金有多少",
+      "onboard_time": 1688635596,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1717895,
       "num": 1717895,
       "word": "杨幂说我经常被人背叛",
@@ -273,14 +281,6 @@
       "onboard_time": 1688631633,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1645958,
-      "num": 1645958,
-      "word": "你们每个月的公积金有多少",
-      "onboard_time": 1688635596,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 1627577,
@@ -336,6 +336,14 @@
       "word": "梁朝伟一个人看电影要买六个位子",
       "onboard_time": 1688632295,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1427531,
+      "num": 1427531,
+      "word": "八角笼中票房",
+      "onboard_time": 1688652038,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1248353,
+      "num": 1248353,
+      "word": "李雪琴谈走出抑郁症的方法",
+      "onboard_time": 1688648375,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1242958,
       "num": 1242958,
       "word": "奔跑吧",
@@ -424,14 +440,6 @@
       "word": "韩红 你没走就在我们身边",
       "onboard_time": 1688630372,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1205905,
-      "num": 1205905,
-      "word": "李雪琴谈走出抑郁症的方法",
-      "onboard_time": 1688648375,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -531,12 +539,12 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 962102,
-      "num": 962102,
-      "word": "八角笼中票房",
-      "onboard_time": 1688652038,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 975948,
+      "num": 425733,
+      "word": "演员热依扎谈抑郁症",
+      "onboard_time": 1688652994,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 959444,
@@ -681,6 +689,14 @@
       "onboard_time": 1688572786,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775258,
+      "num": 775258,
+      "word": "我要活生生的你 不想怀念空洞的名字",
+      "onboard_time": 1688648488,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 772360,
@@ -835,14 +851,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 668178,
-      "num": 668178,
-      "word": "我要活生生的你 不想怀念空洞的名字",
-      "onboard_time": 1688648488,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 665655,
       "num": 415703,
       "word": "孙红雷 李玟走好",
@@ -857,6 +865,14 @@
       "onboard_time": 1688635953,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653091,
+      "num": 316536,
+      "word": "学校要求教师不要晒暑假旅游照片",
+      "onboard_time": 1688651496,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 636322,
@@ -921,14 +937,6 @@
       "onboard_time": 1688613339,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 578438,
-      "num": 316536,
-      "word": "学校要求教师不要晒暑假旅游照片",
-      "onboard_time": 1688651496,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 578370,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1688573023,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543375,
+      "num": 411655,
+      "word": "蒜蓉罗氏虾",
+      "onboard_time": 1688651198,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 543226,
@@ -1163,6 +1179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456996,
+      "num": 206486,
+      "word": "警方通报2名女孩在酒店被性侵",
+      "onboard_time": 1688653536,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454153,
+      "num": 316409,
+      "word": "张彬彬吴倩三分野庆功宴",
+      "onboard_time": 1688651138,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451356,
       "num": 451356,
       "word": "陈哲远最有cp感的女主",
@@ -1171,12 +1203,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450102,
-      "num": 316409,
-      "word": "张彬彬吴倩三分野庆功宴",
-      "onboard_time": 1688651138,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 449511,
+      "num": 394189,
+      "word": "80瓶飞天茅台被盗嫌疑人竟是女儿男友",
+      "onboard_time": 1688652217,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444539,
@@ -1192,6 +1224,14 @@
       "word": "杨洋王楚然我的人间烟火十年前vs十年后",
       "onboard_time": 1688633433,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 437838,
+      "num": 306175,
+      "word": "潘粤明新剧瘦了好多",
+      "onboard_time": 1688652939,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1267,6 +1307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 401772,
+      "num": 263843,
+      "word": "我的人间烟火第8集不敢看",
+      "onboard_time": 1688654076,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394958,
       "num": 295307,
       "word": "赵露思陈哲远穿着高定在跳什么",
@@ -1289,14 +1337,6 @@
       "onboard_time": 1688573440,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 384093,
-      "num": 384093,
-      "word": "蒜蓉罗氏虾",
-      "onboard_time": 1688651198,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 383702,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1688579539,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342840,
+      "num": 310134,
+      "word": "玉骨遥梦中的那片海顶峰相见",
+      "onboard_time": 1688651856,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 342595,
@@ -1531,28 +1579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 310134,
-      "num": 310134,
-      "word": "玉骨遥梦中的那片海顶峰相见",
-      "onboard_time": 1688651856,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 309745,
       "num": 326347,
       "word": "高速收费员抬杆放行对司机说过路费我出",
       "onboard_time": 1688640871,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306175,
-      "num": 306175,
-      "word": "潘粤明新剧瘦了好多",
-      "onboard_time": 1688652939,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 306047,
@@ -1617,14 +1649,6 @@
       "onboard_time": 1688632834,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 291504,
-      "num": 239325,
-      "word": "演员热依扎谈抑郁症",
-      "onboard_time": 1688652994,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 282665,
@@ -1715,14 +1739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264377,
-      "num": 264377,
-      "word": "80瓶飞天茅台被盗嫌疑人竟是女儿男友",
-      "onboard_time": 1688652217,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261090,
       "num": 261090,
       "word": "在广东走路一定要注意头顶",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1688637818,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254904,
+      "num": 197832,
+      "word": "李玟二姐希望外界少点八卦",
+      "onboard_time": 1688650057,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 254176,
@@ -1809,14 +1833,6 @@
       "onboard_time": 1688544453,
       "rank": 29,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 236998,
-      "num": 192119,
-      "word": "李玟二姐希望外界少点八卦",
-      "onboard_time": 1688650057,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 236992,
@@ -2003,6 +2019,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 206583,
+      "num": 206583,
+      "word": "重庆万州洪涝灾害致17死2失踪",
+      "onboard_time": 1688654020,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 205543,
       "num": 196139,
       "word": "内娱建模脸明星",
@@ -2024,6 +2048,14 @@
       "word": "这个夏天为啥这么热",
       "onboard_time": 1688609018,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202706,
+      "num": 202706,
+      "word": "重庆万州洪涝救援",
+      "onboard_time": 1688653718,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -2491,19 +2523,19 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 100240,
+      "num": 1263536,
+      "word": "首只在台出生的大熊猫十岁啦",
+      "onboard_time": 1688648673,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93389,
       "num": 116334,
       "word": "暴雨中拦车救人的杭州姑娘找到了",
       "onboard_time": 1688578463,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87927,
-      "num": 1150989,
-      "word": "首只在台出生的大熊猫十岁啦",
-      "onboard_time": 1688648673,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
