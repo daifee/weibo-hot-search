@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688661856025,
+  "endTime": 1688663892505,
   "band_list": [
     {
       "raw_hot": 1833030,
@@ -267,6 +267,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228827,
+      "num": 228827,
+      "word": "桑稚钻戒好大",
+      "onboard_time": 1688661806,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214233,
+      "num": 170446,
+      "word": "在厕所里发现了新世界",
+      "onboard_time": 1688660910,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210113,
       "num": 210113,
       "word": "小蜘蛛今天应该是睡过头了",
@@ -315,12 +331,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 170446,
-      "num": 170446,
-      "word": "在厕所里发现了新世界",
-      "onboard_time": 1688660910,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 173754,
+      "num": 173754,
+      "word": "kms",
+      "onboard_time": 1688662824,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170554,
+      "num": 170554,
+      "word": "很少劝朋友离开让她难过的关系",
+      "onboard_time": 1688660069,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 169066,
@@ -403,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149621,
+      "num": 162192,
+      "word": "科学家为什么执着于计算圆周率",
+      "onboard_time": 1688660370,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 147458,
       "num": 152033,
       "word": "这密室没NPC都能把我吓死",
@@ -419,28 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138011,
-      "num": 162192,
-      "word": "科学家为什么执着于计算圆周率",
-      "onboard_time": 1688660370,
+      "raw_hot": 128174,
+      "num": 128174,
+      "word": "25岁女网红服大量安眠药自杀",
+      "onboard_time": 1688629777,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63425,
+      "num": 96370,
+      "word": "当突然有个人跟你搭讪时",
+      "onboard_time": 1688663481,
       "rank": 49,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 135535,
-      "num": 135535,
-      "word": "桑稚钻戒好大",
-      "onboard_time": 1688661806,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 128756,
-      "num": 128756,
-      "word": "很少劝朋友离开让她难过的关系",
-      "onboard_time": 1688660069,
-      "rank": 48,
-      "category": "情感"
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 51310,
@@ -449,11 +473,22 @@
       "onboard_time": 1688648673,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11064,
+      "num": 718393,
+      "word": "高温下坚守的人",
+      "onboard_time": 1688648558,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平视察东部战区机关#"
+    },
+    {
+      "word": "#习近平在江苏苏州市考察调研#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688661856025,
+  "endTime": 1688663892505,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -7643,6 +7643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228827,
+      "num": 228827,
+      "word": "桑稚钻戒好大",
+      "onboard_time": 1688661806,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228409,
       "num": 228409,
       "word": "宋轶发了五条微博",
@@ -7984,6 +7992,14 @@
       "word": "摔一跤店就倒闭了",
       "onboard_time": 1688655759,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 214233,
+      "num": 170446,
+      "word": "在厕所里发现了新世界",
+      "onboard_time": 1688660910,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -9211,6 +9227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 173754,
+      "num": 173754,
+      "word": "kms",
+      "onboard_time": 1688662824,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173736,
       "num": 173736,
       "word": "相册总为夏日晚霞留个位置",
@@ -9267,20 +9291,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170554,
+      "num": 170554,
+      "word": "很少劝朋友离开让她难过的关系",
+      "onboard_time": 1688660069,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170494,
       "num": 170494,
       "word": "果然前任都逃不过被阴阳怪气",
       "onboard_time": 1688526100,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 170446,
-      "num": 170446,
-      "word": "在厕所里发现了新世界",
-      "onboard_time": 1688660910,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 170119,
@@ -9715,6 +9739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149621,
+      "num": 162192,
+      "word": "科学家为什么执着于计算圆周率",
+      "onboard_time": 1688660370,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 149143,
       "num": 149143,
       "word": "中邑故一 我主要画中国的隐士幻想",
@@ -9843,26 +9875,10 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 138011,
-      "num": 162192,
-      "word": "科学家为什么执着于计算圆周率",
-      "onboard_time": 1688660370,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 136043,
       "num": 136043,
       "word": "桑稚桑延猫捉老鼠版",
       "onboard_time": 1688348969,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 135535,
-      "num": 135535,
-      "word": "桑稚钻戒好大",
-      "onboard_time": 1688661806,
       "rank": 45,
       "category": "影视"
     },
@@ -9905,14 +9921,6 @@
       "onboard_time": 1688340386,
       "rank": 38,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 128756,
-      "num": 128756,
-      "word": "很少劝朋友离开让她难过的关系",
-      "onboard_time": 1688660069,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 128295,
@@ -10387,6 +10395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 63425,
+      "num": 96370,
+      "word": "当突然有个人跟你搭讪时",
+      "onboard_time": 1688663481,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 62770,
       "num": 354004,
       "word": "街头偶遇邓亚萍打王者",
@@ -10551,6 +10567,14 @@
       "num": 703528,
       "word": "中国动车组单列试验时速453公里",
       "onboard_time": 1688267731,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11064,
+      "num": 718393,
+      "word": "高温下坚守的人",
+      "onboard_time": 1688648558,
       "rank": 2,
       "category": "社会新闻"
     },
