@@ -1,6 +1,6 @@
 {
   "startTime": 1688574432791,
-  "endTime": 1688613124969,
+  "endTime": 1688614990622,
   "band_list": [
     {
       "raw_hot": 9455004,
@@ -68,10 +68,18 @@
     },
     {
       "raw_hot": 3375063,
-      "num": 1089244,
+      "num": 1103303,
       "word": "那英 还没等到我们俩合作你就走了",
       "onboard_time": 1688612498,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2867069,
+      "num": 874314,
+      "word": "李玟唯一一部主演电影",
+      "onboard_time": 1688614299,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -169,6 +177,14 @@
       "onboard_time": 1688569682,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1372764,
+      "num": 1372764,
+      "word": "永劫无间转为免费游戏",
+      "onboard_time": 1688611959,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 1354267,
@@ -289,6 +305,14 @@
       "onboard_time": 1688569919,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 759938,
+      "num": 536096,
+      "word": "烫了个爆炸头把小猫耳朵吓没了",
+      "onboard_time": 1688611959,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 727220,
@@ -419,14 +443,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 547702,
-      "num": 547702,
-      "word": "永劫无间转为免费游戏",
-      "onboard_time": 1688611959,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 546980,
       "num": 410229,
       "word": "我心中的刀马旦",
@@ -531,20 +547,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 474366,
+      "num": 331777,
+      "word": "播一部爆一部的演员",
+      "onboard_time": 1688614421,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471995,
       "num": 471995,
       "word": "中国的年轻人没有客厅",
       "onboard_time": 1688554772,
       "rank": 17,
       "category": "情感,游戏"
-    },
-    {
-      "raw_hot": 446484,
-      "num": 211658,
-      "word": "烫了个爆炸头把小猫耳朵吓没了",
-      "onboard_time": 1688611959,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 433468,
@@ -635,12 +651,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326509,
+      "num": 326509,
+      "word": "05后要上大学了",
+      "onboard_time": 1688613339,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 323836,
+      "num": 323836,
+      "word": "时影 翻身接公主抱落地",
+      "onboard_time": 1688610876,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313004,
       "num": 313004,
       "word": "张佳宁屈楚萧新电影路透",
       "onboard_time": 1688601458,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307493,
+      "num": 307493,
+      "word": "芋泥香酥鸭",
+      "onboard_time": 1688601759,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 300645,
@@ -700,31 +740,15 @@
     },
     {
       "raw_hot": 273283,
-      "num": 273283,
+      "num": 291507,
       "word": "各大迪士尼是怎么应对下雨的",
       "onboard_time": 1688605062,
       "rank": 31,
       "category": "旅游"
     },
     {
-      "raw_hot": 263889,
-      "num": 263889,
-      "word": "时影 翻身接公主抱落地",
-      "onboard_time": 1688610876,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 254257,
-      "num": 254257,
-      "word": "芋泥香酥鸭",
-      "onboard_time": 1688601759,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 252930,
-      "num": 273444,
+      "num": 292546,
       "word": "告诉妈妈我有抑郁症后",
       "onboard_time": 1688600437,
       "rank": 29,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 252456,
-      "num": 252456,
+      "num": 291753,
       "word": "恋爱脑犯了就来看看",
       "onboard_time": 1688603623,
       "rank": 34,
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 201809,
-      "num": 201809,
+      "num": 292136,
       "word": "民警接警救小象结果它俩是在坑里玩",
       "onboard_time": 1688610519,
       "rank": 29,
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 197804,
-      "num": 197804,
+      "num": 291928,
       "word": "逛超市是一件很亲密的事",
       "onboard_time": 1688600673,
       "rank": 37,
@@ -849,6 +873,14 @@
       "onboard_time": 1688574991,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193083,
+      "num": 292279,
+      "word": "天津路人大爷一铁锹拍蒙歹徒",
+      "onboard_time": 1688612797,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192930,
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 182505,
-      "num": 182505,
+      "num": 291047,
       "word": "性教育第四季预告",
       "onboard_time": 1688602422,
       "rank": 39,
@@ -921,6 +953,14 @@
       "onboard_time": 1688568759,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175382,
+      "num": 291798,
+      "word": "微博手机影像年",
+      "onboard_time": 1688613878,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 172626,
@@ -980,19 +1020,11 @@
     },
     {
       "raw_hot": 141409,
-      "num": 141409,
+      "num": 290881,
       "word": "当曾经帮助过的人回来找你",
       "onboard_time": 1688612378,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135945,
-      "num": 135945,
-      "word": "天津路人大爷一铁锹拍蒙歹徒",
-      "onboard_time": 1688612797,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127735,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1688609378,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 106464,
+      "num": 1180034,
+      "word": "路途遥远且听完这最后一课",
+      "onboard_time": 1688612617,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103794,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1688585113,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30756,
-      "num": 1101662,
-      "word": "路途遥远且听完这最后一课",
-      "onboard_time": 1688612617,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21392,
