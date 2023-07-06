@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688667805121,
+  "endTime": 1688668577014,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -15019,6 +15019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103813,
+      "num": 71415,
+      "word": "日本地铁站启用实时翻译屏幕",
+      "onboard_time": 1688664200,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103794,
       "num": 182053,
       "word": "给蚊子上了一课",
@@ -15072,14 +15080,6 @@
       "word": "首只在台出生的大熊猫十岁啦",
       "onboard_time": 1688648673,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99744,
-      "num": 71415,
-      "word": "日本地铁站启用实时翻译屏幕",
-      "onboard_time": 1688664200,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -15673,6 +15673,14 @@
       "onboard_time": 1688245513,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27818,
+      "num": 40809,
+      "word": "原神3.8版本",
+      "onboard_time": 1688668394,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 27214,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/03 00:22:57 ~ 2023/07/07 02:23:25
+本榜单时间：2023/07/03 00:22:57 ~ 2023/07/07 02:36:17
 </p>
 </blockquote>
 <p>
@@ -7587,6 +7587,12 @@ MLB美职棒大联盟（热度：130432）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%AF%E7%94%A8%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%E5%B1%8F%E5%B9%95%23" target="weibo">
+日本地铁站启用实时翻译屏幕（热度：103813）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E8%9A%8A%E5%AD%90%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23" target="weibo">
 给蚊子上了一课（热度：103794）
 </a>
@@ -7625,12 +7631,6 @@ MLB美职棒大联盟（热度：130432）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%8F%AA%E5%9C%A8%E5%8F%B0%E5%87%BA%E7%94%9F%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8D%81%E5%B2%81%E5%95%A6%23" target="weibo">
 首只在台出生的大熊猫十岁啦（热度：100240）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%AF%E7%94%A8%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%E5%B1%8F%E5%B9%95%23" target="weibo">
-日本地铁站启用实时翻译屏幕（热度：99744）
 </a>
 </li>
 
@@ -7931,6 +7931,12 @@ Angelababy尘缘一滴泪镜头（热度：39476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E8%AF%B4%E5%8A%AA%E5%8A%9B%E6%98%AF%E6%88%90%E5%8A%9F%E7%9A%84%E5%BF%85%E9%80%89%E9%A1%B9%23" target="weibo">
 刘德华说努力是成功的必选项（热度：32353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.8%E7%89%88%E6%9C%AC%23" target="weibo">
+原神3.8版本（热度：27818）
 </a>
 </li>
 
