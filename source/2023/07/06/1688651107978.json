@@ -1,0 +1,410 @@
+{
+  "runTime": 1688651107978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555876,
+        "num": 1555876,
+        "word": "你们每个月的公积金有多少",
+        "onboard_time": 1688635596,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1080115,
+        "num": 1080115,
+        "word": "周星驰看王宝强新电影说服了",
+        "onboard_time": 1688644713,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86539,
+        "num": 1020769,
+        "word": "首只在台出生的大熊猫十岁啦",
+        "onboard_time": 1688648673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3096770,
+        "num": 1016239,
+        "word": "李玟老公发讣告",
+        "onboard_time": 1688637342,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2241580,
+        "num": 1014163,
+        "word": "李玟妈妈目前不吃不睡",
+        "onboard_time": 1688649035,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 980478,
+        "num": 980478,
+        "word": "肖战包场电影八角笼中",
+        "onboard_time": 1688646032,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 952676,
+        "num": 952676,
+        "word": "李雪琴谈走出抑郁症的方法",
+        "onboard_time": 1688648375,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 712660,
+        "num": 712660,
+        "word": "cube 还有什么比今天爽",
+        "onboard_time": 1688647652,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 458399,
+        "num": 458399,
+        "word": "孕妇羊水栓塞市民自发排队献血",
+        "onboard_time": 1688649514,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350590,
+        "num": 350590,
+        "word": "老人卖桑葚担心价格太贵主动降价",
+        "onboard_time": 1688635953,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1787614,
+        "num": 348158,
+        "word": "王雪峰被开除党籍",
+        "onboard_time": 1688635178,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509726,
+        "num": 343778,
+        "word": "美方称坚决反对中国对镓和锗出口管制",
+        "onboard_time": 1688643633,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1710237,
+        "num": 341093,
+        "word": "金星再回应捂胸",
+        "onboard_time": 1688634395,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760771,
+        "num": 338282,
+        "word": "马立奥 互联网儿子",
+        "onboard_time": 1688649454,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 683704,
+        "num": 330932,
+        "word": "杨迪童年被父亲打到鼻子出血",
+        "onboard_time": 1688646214,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683062,
+        "num": 330662,
+        "word": "周星驰晒照悼念李玟",
+        "onboard_time": 1688635235,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326861,
+        "num": 326861,
+        "word": "淄博烧烤店老板称倒闭的多是蹭热度的新店",
+        "onboard_time": 1688639076,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284835,
+        "num": 326758,
+        "word": "我要活生生的你 不想怀念空洞的名字",
+        "onboard_time": 1688648488,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508465,
+        "num": 326667,
+        "word": "黄晓明 CoCo一直像小太阳",
+        "onboard_time": 1688635235,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208861,
+        "num": 326347,
+        "word": "高速收费员抬杆放行对司机说过路费我出",
+        "onboard_time": 1688640871,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653014,
+        "num": 326135,
+        "word": "男子迷奸多女子后多次查询法律后果",
+        "onboard_time": 1688647054,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594328,
+        "num": 326085,
+        "word": "刘诗诗捂得好严",
+        "onboard_time": 1688645854,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450845,
+        "num": 325903,
+        "word": "全靠Angelababy的脸在撑",
+        "onboard_time": 1688641473,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 349586,
+        "num": 325683,
+        "word": "83岁老人感谢李玟曾帮他卖柑桔",
+        "onboard_time": 1688632956,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 338504,
+        "num": 325477,
+        "word": "25岁女网红服大量安眠药自杀",
+        "onboard_time": 1688629777,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407425,
+        "num": 325256,
+        "word": "迪丽热巴赵露思宋轶微指破亿",
+        "onboard_time": 1688650415,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388561,
+        "num": 324974,
+        "word": "TFBOYS演唱会的票价",
+        "onboard_time": 1688631633,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 382577,
+        "num": 324969,
+        "word": "大王老公说孩子爸爸叫段嘉许",
+        "onboard_time": 1688648736,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324785,
+        "num": 324785,
+        "word": "公司的冰箱太累了",
+        "onboard_time": 1688645431,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176544,
+        "num": 321340,
+        "word": "丫丫开启避暑模式",
+        "onboard_time": 1688648375,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381993,
+        "num": 311735,
+        "word": "檀健次张婧仪吻戏",
+        "onboard_time": 1688648317,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375420,
+        "num": 306976,
+        "word": "程青松喊话王宝强退还金扫帚",
+        "onboard_time": 1688642913,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353812,
+        "num": 301109,
+        "word": "偷偷藏不住直通大结局",
+        "onboard_time": 1688639914,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295162,
+        "num": 295162,
+        "word": "杨洋看王楚然的眼神",
+        "onboard_time": 1688639556,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280627,
+        "num": 280627,
+        "word": "酒店的床为什么有四个枕头",
+        "onboard_time": 1688643031,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274662,
+        "num": 274662,
+        "word": "周杰伦开演唱会为海口增近10亿旅游收入",
+        "onboard_time": 1688643333,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218037,
+        "num": 218037,
+        "word": "女儿终于失业了",
+        "onboard_time": 1688633673,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212660,
+        "num": 212660,
+        "word": "装啥也别装努力",
+        "onboard_time": 1688648975,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201975,
+        "num": 201975,
+        "word": "28.8万彩礼男生读大一双方家长未见面",
+        "onboard_time": 1688627616,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198193,
+        "num": 198193,
+        "word": "AR比赛",
+        "onboard_time": 1688650356,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272437,
+        "num": 198139,
+        "word": "八角笼中原型孩子现状",
+        "onboard_time": 1688643812,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265151,
+        "num": 198070,
+        "word": "奔跑吧",
+        "onboard_time": 1688625272,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234294,
+        "num": 197928,
+        "word": "李玟遗产都留给妈妈",
+        "onboard_time": 1688615680,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225451,
+        "num": 197819,
+        "word": "八角笼中",
+        "onboard_time": 1688646755,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216839,
+        "num": 197715,
+        "word": "姜云升解约",
+        "onboard_time": 1688638718,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197678,
+        "num": 197678,
+        "word": "ucal向粉丝行大礼",
+        "onboard_time": 1688650835,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180520,
+        "num": 180520,
+        "word": "男子称儿子在足浴店兴奋过度身亡",
+        "onboard_time": 1688618026,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179784,
+        "num": 179784,
+        "word": "EDG双线对战",
+        "onboard_time": 1688650595,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169212,
+        "num": 169212,
+        "word": "胡锡进 农民工退休待遇",
+        "onboard_time": 1688642615,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 159572,
+        "num": 159572,
+        "word": "花百万上大学上了1年发现没入学",
+        "onboard_time": 1688637216,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道不孤众行致远#"
+    }
+  }
+}
