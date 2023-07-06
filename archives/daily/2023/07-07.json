@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688663892505,
+  "endTime": 1688664970815,
   "band_list": [
     {
       "raw_hot": 1833030,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 214233,
-      "num": 170446,
+      "num": 179730,
       "word": "在厕所里发现了新世界",
       "onboard_time": 1688660910,
       "rank": 35,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197395,
+      "num": 197395,
+      "word": "kms",
+      "onboard_time": 1688662824,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191223,
       "num": 191223,
       "word": "肖战包场电影八角笼中",
@@ -329,14 +337,6 @@
       "onboard_time": 1688641473,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 173754,
-      "num": 173754,
-      "word": "kms",
-      "onboard_time": 1688662824,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 170554,
@@ -459,6 +459,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81235,
+      "num": 81235,
+      "word": "seventeen日专预告图",
+      "onboard_time": 1688664560,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74053,
+      "num": 74053,
+      "word": "TFBOYS演唱会的票价",
+      "onboard_time": 1688631633,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 71415,
+      "num": 71415,
+      "word": "日本地铁站启用实时翻译屏幕",
+      "onboard_time": 1688664200,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68879,
+      "num": 71379,
+      "word": "没见过这么炸裂的吹肉方式",
+      "onboard_time": 1688664500,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63425,
       "num": 96370,
       "word": "当突然有个人跟你搭讪时",
@@ -475,7 +507,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11064,
+      "raw_hot": 12144,
       "num": 718393,
       "word": "高温下坚守的人",
       "onboard_time": 1688648558,

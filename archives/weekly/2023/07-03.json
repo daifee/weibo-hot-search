@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688663892505,
+  "endTime": 1688664970815,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -7996,7 +7996,7 @@
     },
     {
       "raw_hot": 214233,
-      "num": 170446,
+      "num": 179730,
       "word": "在厕所里发现了新世界",
       "onboard_time": 1688660910,
       "rank": 35,
@@ -8569,6 +8569,14 @@
       "onboard_time": 1688542114,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 197395,
+      "num": 197395,
+      "word": "kms",
+      "onboard_time": 1688662824,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197266,
@@ -9225,14 +9233,6 @@
       "onboard_time": 1688634935,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 173754,
-      "num": 173754,
-      "word": "kms",
-      "onboard_time": 1688662824,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 173736,
@@ -10315,6 +10315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81235,
+      "num": 81235,
+      "word": "seventeen日专预告图",
+      "onboard_time": 1688664560,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79928,
       "num": 79928,
       "word": "最爱九思和玉茹的两个人",
@@ -10363,12 +10371,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 71415,
+      "num": 71415,
+      "word": "日本地铁站启用实时翻译屏幕",
+      "onboard_time": 1688664200,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69068,
       "num": 1466292,
       "word": "2000多年前古人就有冰酒器还可拆卸",
       "onboard_time": 1688630372,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68879,
+      "num": 71379,
+      "word": "没见过这么炸裂的吹肉方式",
+      "onboard_time": 1688664500,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 67396,
@@ -10563,18 +10587,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11977,
-      "num": 703528,
-      "word": "中国动车组单列试验时速453公里",
-      "onboard_time": 1688267731,
+      "raw_hot": 12144,
+      "num": 718393,
+      "word": "高温下坚守的人",
+      "onboard_time": 1688648558,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11064,
-      "num": 718393,
-      "word": "高温下坚守的人",
-      "onboard_time": 1688648558,
+      "raw_hot": 11977,
+      "num": 703528,
+      "word": "中国动车组单列试验时速453公里",
+      "onboard_time": 1688267731,
       "rank": 2,
       "category": "社会新闻"
     },
