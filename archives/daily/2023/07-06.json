@@ -1,6 +1,6 @@
 {
   "startTime": 1688574432791,
-  "endTime": 1688625713232,
+  "endTime": 1688627961496,
   "band_list": [
     {
       "raw_hot": 9455004,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3081445,
+      "num": 3081445,
+      "word": "手机玩太久可导致抑郁症",
+      "onboard_time": 1688621438,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2867069,
       "num": 874314,
       "word": "李玟唯一一部主演电影",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 2317838,
-      "num": 870795,
+      "num": 1262139,
       "word": "成龙 CoCo是天生的明星",
       "onboard_time": 1688618328,
       "rank": 30,
@@ -208,6 +216,14 @@
       "word": "杨幂说我经常被人背叛",
       "onboard_time": 1688619883,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1604000,
+      "num": 1604000,
+      "word": "秋瓷炫于晓光回归韩综",
+      "onboard_time": 1688624496,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1213187,
+      "num": 1213187,
+      "word": "奔跑吧",
+      "onboard_time": 1688625272,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1170335,
       "num": 386099,
       "word": "港媒曝李玟轻生细节",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 1151078,
-      "num": 422728,
+      "num": 425565,
       "word": "她是认认真真地对待了此生",
       "onboard_time": 1688623654,
       "rank": 14,
@@ -355,28 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 963178,
-      "num": 413553,
-      "word": "秋瓷炫于晓光回归韩综",
-      "onboard_time": 1688624496,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 937717,
       "num": 937717,
       "word": "抢教授话筒的同学被哈工大录取",
       "onboard_time": 1688604281,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 916210,
-      "num": 916210,
-      "word": "手机玩太久可导致抑郁症",
-      "onboard_time": 1688621438,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 896265,
@@ -449,6 +457,14 @@
       "onboard_time": 1688569919,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 729499,
+      "num": 729499,
+      "word": "陕西文旅回应TFBOYS十周年演唱会志愿者招募",
+      "onboard_time": 1688624670,
+      "rank": 47,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 727220,
@@ -595,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563490,
+      "num": 563490,
+      "word": "这是一只吃了菌子的大熊猫吧",
+      "onboard_time": 1688624073,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 547796,
       "num": 547796,
       "word": "抑郁症两大原因",
@@ -631,6 +655,14 @@
       "num": 396157,
       "word": "女子买榴莲换土豆标签自助结账被发现",
       "onboard_time": 1688603142,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539205,
+      "num": 281715,
+      "word": "丫丫冰块凉席安排上了",
+      "onboard_time": 1688626715,
       "rank": 21,
       "category": "社会新闻"
     },
@@ -755,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444539,
+      "num": 270156,
+      "word": "张若昀李沁庆余年2路透",
+      "onboard_time": 1688624496,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435609,
       "num": 382782,
       "word": "男朋友要求婚了策划师是我",
@@ -809,14 +849,6 @@
       "onboard_time": 1688556332,
       "rank": 42,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 376553,
-      "num": 345859,
-      "word": "奔跑吧",
-      "onboard_time": 1688625272,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 374716,
@@ -891,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332045,
+      "num": 264838,
+      "word": "白日梦与她开机",
+      "onboard_time": 1688625395,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328581,
       "num": 328581,
       "word": "别总对抑郁症患者说想开点",
@@ -907,20 +947,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318955,
-      "num": 262325,
-      "word": "张若昀李沁庆余年2路透",
-      "onboard_time": 1688624496,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 313004,
       "num": 313004,
       "word": "张佳宁屈楚萧新电影路透",
       "onboard_time": 1688601458,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308045,
+      "num": 308045,
+      "word": "邮递员为女儿送北大研究生录取通知书",
+      "onboard_time": 1688625815,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 300645,
@@ -945,14 +985,6 @@
       "onboard_time": 1688606021,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 296898,
-      "num": 296898,
-      "word": "陕西文旅回应TFBOYS十周年演唱会志愿者招募",
-      "onboard_time": 1688624670,
-      "rank": 47,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 296425,
@@ -1011,12 +1043,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261115,
-      "num": 372947,
-      "word": "这是一只吃了菌子的大熊猫吧",
+      "raw_hot": 261748,
+      "num": 261748,
+      "word": "TF家族演唱会广州站官宣",
       "onboard_time": 1688624073,
-      "rank": 40,
-      "category": "情感"
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 252930,
@@ -1043,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244690,
-      "num": 239188,
-      "word": "TF家族演唱会广州站官宣",
-      "onboard_time": 1688624073,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 239109,
       "num": 265444,
       "word": "光与夜之恋",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1688544453,
       "rank": 29,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 236218,
+      "num": 236218,
+      "word": "张杰演唱会抢票",
+      "onboard_time": 1688625454,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 235974,
@@ -1099,6 +1131,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 223080,
+      "num": 223080,
+      "word": "28.8万彩礼男生读大一双方家长未见面",
+      "onboard_time": 1688627616,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221774,
       "num": 413147,
       "word": "17岁女孩看不孕门诊",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1688574044,
       "rank": 44,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 218479,
-      "num": 218479,
-      "word": "张杰演唱会抢票",
-      "onboard_time": 1688625454,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 210022,
@@ -1179,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200332,
+      "num": 200332,
+      "word": "KPL选手担任战至巅峰首轮评级官",
+      "onboard_time": 1688627915,
+      "rank": 35,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 197804,
       "num": 291928,
       "word": "逛超市是一件很亲密的事",
@@ -1227,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187880,
+      "num": 187880,
+      "word": "千万不要对任何职业有滤镜",
+      "onboard_time": 1688626414,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186546,
       "num": 186546,
       "word": "陈紫函戴向宇玉骨遥片场撒狗粮",
@@ -1251,12 +1299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181761,
-      "num": 181761,
-      "word": "白日梦与她开机",
-      "onboard_time": 1688625395,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 182373,
+      "num": 182373,
+      "word": "杭州西湖橘子味晚霞",
+      "onboard_time": 1688627616,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 180517,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1688613878,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 173262,
+      "num": 173262,
+      "word": "凌晨四点还在排队的顺德人气排骨饭",
+      "onboard_time": 1688626357,
+      "rank": 41,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 172626,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1688600736,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143832,
+      "num": 143832,
+      "word": "反向暹罗猫",
+      "onboard_time": 1688625032,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 142468,
