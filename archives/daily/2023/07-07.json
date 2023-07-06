@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688664970815,
+  "endTime": 1688667805121,
   "band_list": [
     {
       "raw_hot": 1833030,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232727,
+      "num": 232727,
+      "word": "kms",
+      "onboard_time": 1688662824,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228827,
       "num": 228827,
       "word": "桑稚钻戒好大",
@@ -305,14 +313,6 @@
       "onboard_time": 1688656897,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197395,
-      "num": 197395,
-      "word": "kms",
-      "onboard_time": 1688662824,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191223,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99744,
+      "num": 71415,
+      "word": "日本地铁站启用实时翻译屏幕",
+      "onboard_time": 1688664200,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81235,
       "num": 81235,
       "word": "seventeen日专预告图",
@@ -473,14 +481,6 @@
       "onboard_time": 1688631633,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 71415,
-      "num": 71415,
-      "word": "日本地铁站启用实时翻译屏幕",
-      "onboard_time": 1688664200,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68879,
@@ -507,7 +507,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12144,
+      "raw_hot": 12476,
       "num": 718393,
       "word": "高温下坚守的人",
       "onboard_time": 1688648558,
