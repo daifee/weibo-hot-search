@@ -1,0 +1,410 @@
+{
+  "runTime": 1688613124969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3336206,
+        "num": 3336206,
+        "word": "boss直聘",
+        "onboard_time": 1688609798,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1229108,
+        "num": 1229108,
+        "word": "我挣到钱不体面的工作就变体面了",
+        "onboard_time": 1688604040,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30756,
+        "num": 1101662,
+        "word": "路途遥远且听完这最后一课",
+        "onboard_time": 1688612617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3375063,
+        "num": 1089244,
+        "word": "那英 还没等到我们俩合作你就走了",
+        "onboard_time": 1688612498,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1069291,
+        "num": 1069291,
+        "word": "他袜子满是补丁去世才被发现没领过工资",
+        "onboard_time": 1688605362,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854032,
+        "num": 854032,
+        "word": "2年被家暴16次女子希望判丈夫死刑",
+        "onboard_time": 1688564861,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2237599,
+        "num": 819636,
+        "word": "姐姐忆述李玟生死一刻",
+        "onboard_time": 1688601941,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 783629,
+        "num": 783629,
+        "word": "曾少年定档",
+        "onboard_time": 1688610338,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 660692,
+        "num": 660692,
+        "word": "抢教授话筒的同学被哈工大录取",
+        "onboard_time": 1688604281,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 547702,
+        "num": 547702,
+        "word": "永劫无间转为免费游戏",
+        "onboard_time": 1688611959,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1655565,
+        "num": 537254,
+        "word": "某二手平台上有人在卖孩子",
+        "onboard_time": 1688607338,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1653996,
+        "num": 530460,
+        "word": "林俊杰 失去了你音乐宇宙将不再如昔",
+        "onboard_time": 1688606739,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507634,
+        "num": 507634,
+        "word": "肖燕回应改年龄",
+        "onboard_time": 1688605840,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497683,
+        "num": 497683,
+        "word": "上海交通大学录取通知书里有一滴水",
+        "onboard_time": 1688598087,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1339243,
+        "num": 492802,
+        "word": "声生不息 我们感受温暖时没想过太阳会落山",
+        "onboard_time": 1688607998,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479236,
+        "num": 479236,
+        "word": "倪妮消失的她无睫毛清透妆",
+        "onboard_time": 1688607518,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469651,
+        "num": 469651,
+        "word": "董宇辉说出了农村孩子的心声",
+        "onboard_time": 1688600616,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151947,
+        "num": 469429,
+        "word": "谢娜发文悼念李玟",
+        "onboard_time": 1688606739,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448048,
+        "num": 448048,
+        "word": "中国驻乌克兰大使馆郑重提醒",
+        "onboard_time": 1688606860,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415507,
+        "num": 415507,
+        "word": "i人和e人的区别不在于是否社恐",
+        "onboard_time": 1688600559,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1159028,
+        "num": 392906,
+        "word": "台湾一男子持刀砍下84岁母亲头颅",
+        "onboard_time": 1688608597,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487751,
+        "num": 392659,
+        "word": "找对象的尽头是高中同学",
+        "onboard_time": 1688601819,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 445979,
+        "num": 380284,
+        "word": "钟欣潼 还是很想见花花",
+        "onboard_time": 1688576189,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340558,
+        "num": 340558,
+        "word": "曾少年",
+        "onboard_time": 1688610459,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266053,
+        "num": 266053,
+        "word": "杨洋终于有段完整的校园恋了",
+        "onboard_time": 1688570222,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263889,
+        "num": 263889,
+        "word": "时影 翻身接公主抱落地",
+        "onboard_time": 1688610876,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254257,
+        "num": 254257,
+        "word": "芋泥香酥鸭",
+        "onboard_time": 1688601759,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247246,
+        "num": 247246,
+        "word": "再也不想来小公司了",
+        "onboard_time": 1688600437,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 232499,
+        "num": 232499,
+        "word": "老去不是一瞬的事",
+        "onboard_time": 1688612139,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212082,
+        "num": 212082,
+        "word": "女子买榴莲换土豆标签自助结账被发现",
+        "onboard_time": 1688603142,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446484,
+        "num": 211658,
+        "word": "烫了个爆炸头把小猫耳朵吓没了",
+        "onboard_time": 1688611959,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210022,
+        "num": 210022,
+        "word": "时影转身名场面",
+        "onboard_time": 1688612259,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201137,
+        "num": 201137,
+        "word": "有个情绪稳定的伴侣有多重要",
+        "onboard_time": 1688606021,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198907,
+        "num": 198907,
+        "word": "不要心疼爱豆多心疼自己吧",
+        "onboard_time": 1688598146,
+        "rank": 33,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 192733,
+        "num": 192733,
+        "word": "痘痘一直好不了怎么办",
+        "onboard_time": 1688607579,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 188475,
+        "num": 188475,
+        "word": "逛超市是一件很亲密的事",
+        "onboard_time": 1688600673,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 181837,
+        "num": 181837,
+        "word": "民警接警救小象结果它俩是在坑里玩",
+        "onboard_time": 1688610519,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176939,
+        "num": 176939,
+        "word": "告诉妈妈我有抑郁症后",
+        "onboard_time": 1688600437,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169132,
+        "num": 169132,
+        "word": "恋爱脑犯了就来看看",
+        "onboard_time": 1688603623,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 587702,
+        "num": 167890,
+        "word": "任正非曾患抑郁症",
+        "onboard_time": 1688607579,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 164999,
+        "num": 164999,
+        "word": "我驻乌使馆提醒中国公民切勿来乌",
+        "onboard_time": 1688613100,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161879,
+        "num": 161879,
+        "word": "偷拿同学20元男孩被妈妈带去派出所自首",
+        "onboard_time": 1688574693,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151362,
+        "num": 151362,
+        "word": "光渊剧组工作人员发长文",
+        "onboard_time": 1688569919,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146583,
+        "num": 146583,
+        "word": "性教育第四季预告",
+        "onboard_time": 1688602422,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145888,
+        "num": 145888,
+        "word": "00后男生地铁中勇敢阻拦男子持刀行凶",
+        "onboard_time": 1688567353,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145723,
+        "num": 145723,
+        "word": "各大迪士尼是怎么应对下雨的",
+        "onboard_time": 1688605062,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 141409,
+        "num": 141409,
+        "word": "当曾经帮助过的人回来找你",
+        "onboard_time": 1688612378,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135945,
+        "num": 135945,
+        "word": "天津路人大爷一铁锹拍蒙歹徒",
+        "onboard_time": 1688612797,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118917,
+        "num": 135940,
+        "word": "这个夏天为啥这么热",
+        "onboard_time": 1688609018,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118880,
+        "num": 135928,
+        "word": "麦当娜",
+        "onboard_time": 1688572432,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平发展合作共赢的时代潮流不可阻挡#"
+    }
+  }
+}
