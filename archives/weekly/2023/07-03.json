@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688651107978,
+  "endTime": 1688653141081,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -483,6 +483,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2730238,
+      "num": 1150944,
+      "word": "李玟妈妈目前不吃不睡",
+      "onboard_time": 1688649035,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2696359,
       "num": 646538,
       "word": "李靓蕾律师陈建州回应",
@@ -601,14 +609,6 @@
       "onboard_time": 1688390921,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2241580,
-      "num": 1150944,
-      "word": "李玟妈妈目前不吃不睡",
-      "onboard_time": 1688649035,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 2217825,
@@ -1435,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1205905,
+      "num": 1205905,
+      "word": "李雪琴谈走出抑郁症的方法",
+      "onboard_time": 1688648375,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1202190,
       "num": 1161968,
       "word": "朱某龙骑车去痞幼家偷茅台",
@@ -1819,6 +1827,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1019523,
+      "num": 1019523,
+      "word": "马立奥 互联网儿子",
+      "onboard_time": 1688649454,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1016417,
       "num": 1016417,
       "word": "环卫工人儿子高考687分被多校电话争抢",
@@ -1931,20 +1947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 962102,
+      "num": 962102,
+      "word": "八角笼中票房",
+      "onboard_time": 1688652038,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 959444,
       "num": 351464,
       "word": "25岁女网红服大量安眠药自杀",
       "onboard_time": 1688629777,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 959165,
-      "num": 959165,
-      "word": "李雪琴谈走出抑郁症的方法",
-      "onboard_time": 1688648375,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 953927,
@@ -2065,6 +2081,14 @@
       "onboard_time": 1688433633,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 914835,
+      "num": 326135,
+      "word": "男子迷奸多女子后多次查询法律后果",
+      "onboard_time": 1688647054,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 913305,
@@ -2321,14 +2345,6 @@
       "onboard_time": 1688444079,
       "rank": 29,
       "category": "影视,美妆"
-    },
-    {
-      "raw_hot": 832725,
-      "num": 326135,
-      "word": "男子迷奸多女子后多次查询法律后果",
-      "onboard_time": 1688647054,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 831235,
@@ -2603,14 +2619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 760771,
-      "num": 395648,
-      "word": "马立奥 互联网儿子",
-      "onboard_time": 1688649454,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 756805,
       "num": 756805,
       "word": "萌兰庆生现场画面来啦",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1688525616,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 745861,
+      "num": 745861,
+      "word": "孕妇羊水栓塞市民自发排队献血",
+      "onboard_time": 1688649514,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 740399,
@@ -2793,6 +2809,14 @@
       "onboard_time": 1688574693,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710182,
+      "num": 325256,
+      "word": "迪丽热巴赵露思宋轶微指破亿",
+      "onboard_time": 1688650415,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 709257,
@@ -3019,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 668178,
+      "num": 668178,
+      "word": "我要活生生的你 不想怀念空洞的名字",
+      "onboard_time": 1688648488,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 667107,
       "num": 491569,
       "word": "荣宅",
@@ -3228,7 +3260,7 @@
     },
     {
       "raw_hot": 625389,
-      "num": 295999,
+      "num": 316354,
       "word": "酒店的床为什么有四个枕头",
       "onboard_time": 1688643031,
       "rank": 35,
@@ -3449,6 +3481,14 @@
       "onboard_time": 1688311540,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578438,
+      "num": 316536,
+      "word": "学校要求教师不要晒暑假旅游照片",
+      "onboard_time": 1688651496,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 578370,
@@ -4211,14 +4251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458399,
-      "num": 458399,
-      "word": "孕妇羊水栓塞市民自发排队献血",
-      "onboard_time": 1688649514,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457620,
       "num": 457620,
       "word": "五月天深圳 开船",
@@ -4297,6 +4329,14 @@
       "onboard_time": 1688369684,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450102,
+      "num": 316409,
+      "word": "张彬彬吴倩三分野庆功宴",
+      "onboard_time": 1688651138,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 444928,
@@ -4545,14 +4585,6 @@
       "onboard_time": 1688640094,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 407425,
-      "num": 325256,
-      "word": "迪丽热巴赵露思宋轶微指破亿",
-      "onboard_time": 1688650415,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 407159,
@@ -4833,6 +4865,14 @@
       "onboard_time": 1688573440,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384093,
+      "num": 384093,
+      "word": "蒜蓉罗氏虾",
+      "onboard_time": 1688651198,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 383702,
@@ -5467,6 +5507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336267,
+      "num": 315862,
+      "word": "消失的她票房",
+      "onboard_time": 1688651258,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336160,
       "num": 315303,
       "word": "玉骨遥值得追吗",
@@ -5779,6 +5827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317003,
+      "num": 317003,
+      "word": "ucal向粉丝行大礼",
+      "onboard_time": 1688650835,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 316207,
       "num": 316207,
       "word": "没房贷的下属",
@@ -5851,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310134,
+      "num": 310134,
+      "word": "玉骨遥梦中的那片海顶峰相见",
+      "onboard_time": 1688651856,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309923,
       "num": 309923,
       "word": "你说话好伤人",
@@ -5921,6 +5985,14 @@
       "onboard_time": 1688471612,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306175,
+      "num": 306175,
+      "word": "潘粤明新剧瘦了好多",
+      "onboard_time": 1688652939,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 306047,
@@ -6195,6 +6267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291504,
+      "num": 239325,
+      "word": "演员热依扎谈抑郁症",
+      "onboard_time": 1688652994,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291246,
       "num": 291246,
       "word": "杭州西湖怎么那么萌",
@@ -6249,14 +6329,6 @@
       "onboard_time": 1688465920,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284835,
-      "num": 326758,
-      "word": "我要活生生的你 不想怀念空洞的名字",
-      "onboard_time": 1688648488,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 284632,
@@ -6651,6 +6723,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 264377,
+      "num": 264377,
+      "word": "80瓶飞天茅台被盗嫌疑人竟是女儿男友",
+      "onboard_time": 1688652217,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261473,
       "num": 254795,
       "word": "赵露思戴蛋糕帽子",
@@ -6969,6 +7049,14 @@
       "onboard_time": 1688369443,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247279,
+      "num": 247279,
+      "word": "上海在老年电话亭里放了使用说明",
+      "onboard_time": 1688651799,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247031,
@@ -7329,6 +7417,14 @@
       "onboard_time": 1688365251,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229291,
+      "num": 229291,
+      "word": "EDG双线对战",
+      "onboard_time": 1688650595,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 228943,
@@ -7779,6 +7875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210154,
+      "num": 210154,
+      "word": "养颜方 晒背",
+      "onboard_time": 1688651617,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210101,
       "num": 210101,
       "word": "BW2023",
@@ -8195,14 +8299,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 197678,
-      "num": 197678,
-      "word": "ucal向粉丝行大礼",
-      "onboard_time": 1688650835,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 197594,
       "num": 197594,
       "word": "燃冬",
@@ -8515,6 +8611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189908,
+      "num": 321340,
+      "word": "丫丫开启避暑模式",
+      "onboard_time": 1688648375,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189795,
       "num": 189795,
       "word": "挖机师傅帮老人清理杂草被留吃饭",
@@ -8560,14 +8664,6 @@
       "word": "妈妈的士会一直开直到女孩平安长大",
       "onboard_time": 1688537795,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187562,
-      "num": 321340,
-      "word": "丫丫开启避暑模式",
-      "onboard_time": 1688648375,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -8681,14 +8777,6 @@
       "onboard_time": 1688564261,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179784,
-      "num": 179784,
-      "word": "EDG双线对战",
-      "onboard_time": 1688650595,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 178731,
@@ -9859,20 +9947,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87927,
+      "num": 1150989,
+      "word": "首只在台出生的大熊猫十岁啦",
+      "onboard_time": 1688648673,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86967,
       "num": 86967,
       "word": "没有穿尿不湿的干不了的事",
       "onboard_time": 1688327412,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86539,
-      "num": 1150989,
-      "word": "首只在台出生的大熊猫十岁啦",
-      "onboard_time": 1688648673,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86105,
@@ -10221,6 +10309,9 @@
     },
     {
       "word": "#大道不孤众行致远#"
+    },
+    {
+      "word": "#习近平视察东部战区机关#"
     }
   ]
 }
