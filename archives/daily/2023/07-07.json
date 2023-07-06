@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688672020508,
+  "endTime": 1688674812804,
   "band_list": [
     {
       "raw_hot": 1833030,
@@ -499,6 +499,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 52053,
+      "num": 52053,
+      "word": "李洙赫新闻图",
+      "onboard_time": 1688670435,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 51310,
       "num": 1304755,
       "word": "首只在台出生的大熊猫十岁啦",
@@ -507,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48831,
-      "num": 48831,
-      "word": "李洙赫新闻图",
-      "onboard_time": 1688670435,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 38699,
+      "num": 38235,
+      "word": "陈妍希柳岩走在吃瓜第一线",
+      "onboard_time": 1688671874,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 27818,
@@ -521,14 +529,6 @@
       "onboard_time": 1688668394,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 25617,
-      "num": 31099,
-      "word": "陈妍希柳岩走在吃瓜第一线",
-      "onboard_time": 1688671874,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 12476,
