@@ -1,6 +1,6 @@
 {
   "startTime": 1688574432791,
-  "endTime": 1688628857040,
+  "endTime": 1688631946544,
   "band_list": [
     {
       "raw_hot": 9455004,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1857483,
+      "num": 981950,
+      "word": "家人将为李玟举办佛教丧礼",
+      "onboard_time": 1688629352,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1810361,
       "num": 889816,
       "word": "Lisa无刘海vs蒋雯丽",
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1605542,
+      "num": 1605542,
+      "word": "PDD朋友圈调侃彭昱畅",
+      "onboard_time": 1688629232,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1604000,
       "num": 1604000,
       "word": "秋瓷炫于晓光回归韩综",
@@ -241,6 +257,14 @@
       "onboard_time": 1688567008,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1474501,
+      "num": 978586,
+      "word": "28.8万彩礼男生读大一双方家长未见面",
+      "onboard_time": 1688627616,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1381881,
@@ -323,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1234685,
+      "num": 977799,
+      "word": "韩红 你没走就在我们身边",
+      "onboard_time": 1688630372,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1170335,
       "num": 386099,
       "word": "港媒曝李玟轻生细节",
@@ -353,14 +385,6 @@
       "onboard_time": 1688568702,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1066101,
-      "num": 506146,
-      "word": "28.8万彩礼男生读大一双方家长未见面",
-      "onboard_time": 1688627616,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1066021,
@@ -395,6 +419,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 959444,
+      "num": 266981,
+      "word": "25岁女网红服大量安眠药自杀",
+      "onboard_time": 1688629777,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 937717,
       "num": 937717,
       "word": "抢教授话筒的同学被哈工大录取",
@@ -409,6 +441,14 @@
       "onboard_time": 1688561790,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 851260,
+      "num": 851260,
+      "word": "丫丫冰块凉席安排上了",
+      "onboard_time": 1688626715,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 847221,
@@ -473,14 +513,6 @@
       "onboard_time": 1688569919,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 730336,
-      "num": 730336,
-      "word": "丫丫冰块凉席安排上了",
-      "onboard_time": 1688626715,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 729499,
@@ -835,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425823,
+      "num": 266693,
+      "word": "杨幂唱时间煮雨时在想什么",
+      "onboard_time": 1688629955,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417250,
       "num": 417250,
       "word": "伍佰演唱会抢票",
@@ -851,6 +891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 394958,
+      "num": 266622,
+      "word": "赵露思陈哲远穿着高定在跳什么",
+      "onboard_time": 1688628272,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387906,
       "num": 344811,
       "word": "抑郁症早期征兆有哪些",
@@ -864,6 +912,14 @@
       "word": "赵露思19岁到24岁荧幕变化",
       "onboard_time": 1688573440,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 380756,
+      "num": 266612,
+      "word": "顾九思为柳玉茹抗旨拒婚",
+      "onboard_time": 1688628574,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -905,6 +961,14 @@
       "onboard_time": 1688618328,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 356220,
+      "num": 266755,
+      "word": "25岁女生掉发严重索性剃光头",
+      "onboard_time": 1688628936,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355498,
@@ -963,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324661,
-      "num": 252032,
-      "word": "赵露思陈哲远穿着高定在跳什么",
-      "onboard_time": 1688628272,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323836,
       "num": 323836,
       "word": "时影 翻身接公主抱落地",
@@ -1019,12 +1075,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 290014,
+      "num": 290014,
+      "word": "男孩嘴卡奶瓶消防员憋笑救援",
+      "onboard_time": 1688628873,
+      "rank": 18,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 282665,
       "num": 282665,
       "word": "警方回应男生大腿被同学用圆规扎出血",
       "onboard_time": 1688589073,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278188,
+      "num": 266344,
+      "word": "妈妈认识电饭煲却不认识儿子",
+      "onboard_time": 1688630913,
+      "rank": 31,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 277385,
@@ -1067,12 +1139,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 266990,
+      "num": 266990,
+      "word": "凌晨四点还在排队的顺德人气排骨饭",
+      "onboard_time": 1688626357,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 266344,
+      "num": 266343,
+      "word": "韩国博主说Ella芝芙孟佳原地出道",
+      "onboard_time": 1688629296,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265937,
+      "num": 265937,
+      "word": "社交头像出卖了你的性格",
+      "onboard_time": 1688630913,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 265458,
       "num": 265458,
       "word": "半熟男女",
       "onboard_time": 1688620422,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256099,
+      "num": 256099,
+      "word": "抑郁症痊愈后性格变化",
+      "onboard_time": 1688630795,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252930,
@@ -1089,6 +1193,14 @@
       "onboard_time": 1688603623,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 248287,
+      "num": 248287,
+      "word": "TFBOYS演唱会的票价",
+      "onboard_time": 1688631633,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 246495,
@@ -1227,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200950,
-      "num": 199630,
-      "word": "顾九思为柳玉茹抗旨拒婚",
-      "onboard_time": 1688628574,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200738,
       "num": 200738,
       "word": "KPL选手担任战至巅峰首轮评级官",
@@ -1275,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193530,
+      "num": 193530,
+      "word": "原来大自然真的有医生",
+      "onboard_time": 1688631271,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192930,
       "num": 192930,
       "word": "耳帝 热情乐观活力的屏障轰塌了",
@@ -1297,14 +1409,6 @@
       "onboard_time": 1688626414,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186641,
-      "num": 186641,
-      "word": "凌晨四点还在排队的顺德人气排骨饭",
-      "onboard_time": 1688626357,
-      "rank": 41,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 186546,
@@ -1353,6 +1457,14 @@
       "onboard_time": 1688618443,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179453,
+      "num": 982385,
+      "word": "大学四年如何不虚度",
+      "onboard_time": 1688630614,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178731,
@@ -1441,6 +1553,14 @@
       "onboard_time": 1688623594,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160858,
+      "num": 266471,
+      "word": "丫丫有了新玩具小藤球",
+      "onboard_time": 1688630435,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158249,

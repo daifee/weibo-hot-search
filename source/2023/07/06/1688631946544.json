@@ -1,0 +1,410 @@
+{
+  "runTime": 1688631946544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1605542,
+        "num": 1605542,
+        "word": "PDD朋友圈调侃彭昱畅",
+        "onboard_time": 1688629232,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 983746,
+        "num": 983746,
+        "word": "秋瓷炫于晓光回归韩综",
+        "onboard_time": 1688624496,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179453,
+        "num": 982385,
+        "word": "大学四年如何不虚度",
+        "onboard_time": 1688630614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1857483,
+        "num": 981950,
+        "word": "家人将为李玟举办佛教丧礼",
+        "onboard_time": 1688629352,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2464357,
+        "num": 980335,
+        "word": "手机玩太久可导致抑郁症",
+        "onboard_time": 1688621438,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1474501,
+        "num": 978586,
+        "word": "28.8万彩礼男生读大一双方家长未见面",
+        "onboard_time": 1688627616,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234685,
+        "num": 977799,
+        "word": "韩红 你没走就在我们身边",
+        "onboard_time": 1688630372,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 976464,
+        "num": 976464,
+        "word": "奔跑吧",
+        "onboard_time": 1688625272,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 851260,
+        "num": 851260,
+        "word": "丫丫冰块凉席安排上了",
+        "onboard_time": 1688626715,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394954,
+        "num": 394954,
+        "word": "邮递员为女儿送北大研究生录取通知书",
+        "onboard_time": 1688625815,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1148284,
+        "num": 385806,
+        "word": "成龙 CoCo是天生的明星",
+        "onboard_time": 1688618328,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371893,
+        "num": 371893,
+        "word": "某二手平台上有人在卖孩子",
+        "onboard_time": 1688607338,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316882,
+        "num": 316882,
+        "word": "这是一只吃了菌子的大熊猫吧",
+        "onboard_time": 1688624073,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 904157,
+        "num": 311869,
+        "word": "李玟遗产都留给妈妈",
+        "onboard_time": 1688615680,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297583,
+        "num": 297583,
+        "word": "boss直聘",
+        "onboard_time": 1688609798,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 678305,
+        "num": 295685,
+        "word": "播一部爆一部的演员",
+        "onboard_time": 1688614421,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 758027,
+        "num": 293944,
+        "word": "李玟家属将举行歌迷追思会",
+        "onboard_time": 1688628094,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 532042,
+        "num": 292621,
+        "word": "肖战再提陈情令",
+        "onboard_time": 1688616342,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290014,
+        "num": 290014,
+        "word": "男孩嘴卡奶瓶消防员憋笑救援",
+        "onboard_time": 1688628873,
+        "rank": 18,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 266990,
+        "num": 266990,
+        "word": "凌晨四点还在排队的顺德人气排骨饭",
+        "onboard_time": 1688626357,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 959444,
+        "num": 266981,
+        "word": "25岁女网红服大量安眠药自杀",
+        "onboard_time": 1688629777,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608186,
+        "num": 266930,
+        "word": "男子称儿子在足浴店兴奋过度身亡",
+        "onboard_time": 1688618026,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520236,
+        "num": 266837,
+        "word": "Lisa无刘海vs蒋雯丽",
+        "onboard_time": 1688617243,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497725,
+        "num": 266787,
+        "word": "陕西文旅回应TFBOYS十周年演唱会志愿者招募",
+        "onboard_time": 1688624670,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 356220,
+        "num": 266755,
+        "word": "25岁女生掉发严重索性剃光头",
+        "onboard_time": 1688628936,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425823,
+        "num": 266693,
+        "word": "杨幂唱时间煮雨时在想什么",
+        "onboard_time": 1688629955,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394958,
+        "num": 266622,
+        "word": "赵露思陈哲远穿着高定在跳什么",
+        "onboard_time": 1688628272,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380756,
+        "num": 266612,
+        "word": "顾九思为柳玉茹抗旨拒婚",
+        "onboard_time": 1688628574,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313088,
+        "num": 266535,
+        "word": "在澳洲打工4年赚了163万",
+        "onboard_time": 1688617302,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160858,
+        "num": 266471,
+        "word": "丫丫有了新玩具小藤球",
+        "onboard_time": 1688630435,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301298,
+        "num": 266417,
+        "word": "杨幂说我经常被人背叛",
+        "onboard_time": 1688619883,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278188,
+        "num": 266344,
+        "word": "妈妈认识电饭煲却不认识儿子",
+        "onboard_time": 1688630913,
+        "rank": 31,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 266344,
+        "num": 266343,
+        "word": "韩国博主说Ella芝芙孟佳原地出道",
+        "onboard_time": 1688629296,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265937,
+        "num": 265937,
+        "word": "社交头像出卖了你的性格",
+        "onboard_time": 1688630913,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 256099,
+        "num": 256099,
+        "word": "抑郁症痊愈后性格变化",
+        "onboard_time": 1688630795,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248287,
+        "num": 248287,
+        "word": "TFBOYS演唱会的票价",
+        "onboard_time": 1688631633,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232979,
+        "num": 232979,
+        "word": "月薪15万的境外工作你去吗",
+        "onboard_time": 1688616944,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225894,
+        "num": 225894,
+        "word": "张若昀李沁庆余年2路透",
+        "onboard_time": 1688624496,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193530,
+        "num": 193530,
+        "word": "原来大自然真的有医生",
+        "onboard_time": 1688631271,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189734,
+        "num": 189734,
+        "word": "KPL选手担任战至巅峰首轮评级官",
+        "onboard_time": 1688627915,
+        "rank": 39,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 173176,
+        "num": 173176,
+        "word": "关晓彤范丞丞演情侣",
+        "onboard_time": 1688620599,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168422,
+        "num": 168422,
+        "word": "TF家族演唱会广州站官宣",
+        "onboard_time": 1688624073,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168297,
+        "num": 168297,
+        "word": "他袜子满是补丁去世才被发现没领过工资",
+        "onboard_time": 1688605362,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168111,
+        "num": 168111,
+        "word": "张杰演唱会抢票",
+        "onboard_time": 1688625454,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346867,
+        "num": 167920,
+        "word": "教育部回应山河大学",
+        "onboard_time": 1688615382,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165812,
+        "num": 165812,
+        "word": "突发火灾妈妈将婴儿从4楼扔下楼求生",
+        "onboard_time": 1688616523,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153730,
+        "num": 153730,
+        "word": "烫了个爆炸头把小猫耳朵吓没了",
+        "onboard_time": 1688611959,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153203,
+        "num": 153203,
+        "word": "千万不要对任何职业有滤镜",
+        "onboard_time": 1688626414,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144904,
+        "num": 144904,
+        "word": "白日梦与她开机",
+        "onboard_time": 1688625395,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141536,
+        "num": 141536,
+        "word": "半熟男女全阵容官宣",
+        "onboard_time": 1688620066,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织如何回应国际社会期待#"
+    }
+  }
+}
