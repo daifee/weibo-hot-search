@@ -1,0 +1,410 @@
+{
+  "runTime": 1688624791185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1717895,
+        "num": 1717895,
+        "word": "杨幂说我经常被人背叛",
+        "onboard_time": 1688619883,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 988228,
+        "num": 988228,
+        "word": "月薪15万的境外工作你去吗",
+        "onboard_time": 1688616944,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52781,
+        "num": 553571,
+        "word": "路途遥远且听完这最后一课",
+        "onboard_time": 1688612617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1893063,
+        "num": 551600,
+        "word": "李玟遗产都留给妈妈",
+        "onboard_time": 1688615680,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1222025,
+        "num": 549548,
+        "word": "Lisa无刘海vs蒋雯丽",
+        "onboard_time": 1688617243,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 546342,
+        "num": 546342,
+        "word": "手机玩太久可导致抑郁症",
+        "onboard_time": 1688621438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1834363,
+        "num": 532944,
+        "word": "成龙 CoCo是天生的明星",
+        "onboard_time": 1688618328,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493902,
+        "num": 493902,
+        "word": "突发火灾妈妈将婴儿从4楼扔下楼求生",
+        "onboard_time": 1688616523,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487775,
+        "num": 487775,
+        "word": "感觉文字很轻也很重",
+        "onboard_time": 1688617062,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412777,
+        "num": 412777,
+        "word": "烫了个爆炸头把小猫耳朵吓没了",
+        "onboard_time": 1688611959,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1028620,
+        "num": 411593,
+        "word": "播一部爆一部的演员",
+        "onboard_time": 1688614421,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1011153,
+        "num": 405335,
+        "word": "李玟生前曾帮7旬老人卖橙回家过年",
+        "onboard_time": 1688619103,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808498,
+        "num": 399702,
+        "word": "教育部回应山河大学",
+        "onboard_time": 1688615382,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 646787,
+        "num": 393931,
+        "word": "某二手平台上有人在卖孩子",
+        "onboard_time": 1688607338,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970409,
+        "num": 388822,
+        "word": "她是认认真真地对待了此生",
+        "onboard_time": 1688623654,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 945741,
+        "num": 386682,
+        "word": "肖战再提陈情令",
+        "onboard_time": 1688616342,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 708733,
+        "num": 383239,
+        "word": "关晓彤范丞丞演情侣",
+        "onboard_time": 1688620599,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 950448,
+        "num": 375097,
+        "word": "小S悼念李玟",
+        "onboard_time": 1688620899,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445778,
+        "num": 372352,
+        "word": "官方回应男孩被逼吃异物是否存在逼迫和解",
+        "onboard_time": 1688617967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369084,
+        "num": 369084,
+        "word": "boss直聘",
+        "onboard_time": 1688609798,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 985114,
+        "num": 367094,
+        "word": "男子称儿子在足浴店兴奋过度身亡",
+        "onboard_time": 1688618026,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480072,
+        "num": 345652,
+        "word": "在澳洲打工4年赚了163万",
+        "onboard_time": 1688617302,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 435609,
+        "num": 339697,
+        "word": "男朋友要求婚了策划师是我",
+        "onboard_time": 1688619822,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422120,
+        "num": 321135,
+        "word": "半熟男女全阵容官宣",
+        "onboard_time": 1688620066,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315637,
+        "num": 315637,
+        "word": "他袜子满是补丁去世才被发现没领过工资",
+        "onboard_time": 1688605362,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302198,
+        "num": 302198,
+        "word": "有没有人救救陈哲远",
+        "onboard_time": 1688618926,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280031,
+        "num": 280031,
+        "word": "台湾一男子持刀砍下84岁母亲头颅",
+        "onboard_time": 1688608597,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277164,
+        "num": 277164,
+        "word": "好朋友就要互相摸摸手啊",
+        "onboard_time": 1688622753,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 247538,
+        "num": 247538,
+        "word": "TF家族合照",
+        "onboard_time": 1688620958,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214859,
+        "num": 214859,
+        "word": "找对象的尽头是高中同学",
+        "onboard_time": 1688601819,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 244690,
+        "num": 214338,
+        "word": "TF家族演唱会广州站官宣",
+        "onboard_time": 1688624073,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208133,
+        "num": 208133,
+        "word": "介休市通报未成年人欺凌事件",
+        "onboard_time": 1688621198,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 204304,
+        "num": 204304,
+        "word": "秋瓷炫于晓光回归韩综",
+        "onboard_time": 1688624496,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194242,
+        "num": 194242,
+        "word": "被辞退后发现新人还不如我",
+        "onboard_time": 1688618328,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179979,
+        "num": 179979,
+        "word": "蛋仔派对",
+        "onboard_time": 1688617604,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178416,
+        "num": 178416,
+        "word": "6人被巨石砸中无一生还",
+        "onboard_time": 1688617187,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176233,
+        "num": 176233,
+        "word": "半熟男女",
+        "onboard_time": 1688620422,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175587,
+        "num": 175587,
+        "word": "痛苦不要比较 快乐尽量分享",
+        "onboard_time": 1688618443,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171187,
+        "num": 171187,
+        "word": "顾九思说小九思可不怕",
+        "onboard_time": 1688620720,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163779,
+        "num": 163779,
+        "word": "2年被家暴16次女子希望判丈夫死刑",
+        "onboard_time": 1688564861,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158284,
+        "num": 158284,
+        "word": "这是一只吃了菌子的大熊猫吧",
+        "onboard_time": 1688624073,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157269,
+        "num": 157269,
+        "word": "张若昀李沁庆余年2路透",
+        "onboard_time": 1688624496,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156704,
+        "num": 156704,
+        "word": "上一个这么害羞的还是白敬亭",
+        "onboard_time": 1688623594,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140668,
+        "num": 140668,
+        "word": "永劫无间转为免费游戏",
+        "onboard_time": 1688611959,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133709,
+        "num": 133709,
+        "word": "伍佰演唱会抢票",
+        "onboard_time": 1688618147,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129206,
+        "num": 129206,
+        "word": "DOTA2",
+        "onboard_time": 1688624433,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122714,
+        "num": 129162,
+        "word": "种地吧",
+        "onboard_time": 1688624613,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119077,
+        "num": 129026,
+        "word": "陕西文旅回应TFBOYS十周年演唱会志愿者招募",
+        "onboard_time": 1688624670,
+        "rank": 47,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 118396,
+        "num": 128958,
+        "word": "光与夜之恋",
+        "onboard_time": 1688620361,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110593,
+        "num": 128812,
+        "word": "我们还是应该有脆弱衰老的权利",
+        "onboard_time": 1688623955,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织如何回应国际社会期待#"
+    }
+  }
+}

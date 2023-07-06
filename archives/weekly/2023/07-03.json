@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688621822022,
+  "endTime": 1688624791185,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -899,6 +899,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 1717895,
+      "num": 1717895,
+      "word": "杨幂说我经常被人背叛",
+      "onboard_time": 1688619883,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1701475,
       "num": 1701475,
       "word": "中考满分760我考了753",
@@ -1331,14 +1339,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1192273,
-      "num": 1192273,
-      "word": "杨幂说我经常被人背叛",
-      "onboard_time": 1688619883,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1191132,
       "num": 415703,
       "word": "孙红雷 李玟走好",
@@ -1753,6 +1753,14 @@
       "onboard_time": 1688378679,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 970409,
+      "num": 388822,
+      "word": "她是认认真真地对待了此生",
+      "onboard_time": 1688623654,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 970342,
@@ -2499,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 708733,
+      "num": 383239,
+      "word": "关晓彤范丞丞演情侣",
+      "onboard_time": 1688620599,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 707655,
       "num": 707655,
       "word": "中国驻乌克兰大使馆郑重提醒",
@@ -3235,6 +3251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 546342,
+      "num": 546342,
+      "word": "手机玩太久可导致抑郁症",
+      "onboard_time": 1688621438,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545776,
       "num": 545776,
       "word": "i人和e人的区别不在于是否社恐",
@@ -3603,6 +3627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487775,
+      "num": 487775,
+      "word": "感觉文字很轻也很重",
+      "onboard_time": 1688617062,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 487112,
       "num": 630683,
       "word": "原神 枫丹预告片",
@@ -3931,6 +3963,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 435609,
+      "num": 382782,
+      "word": "男朋友要求婚了策划师是我",
+      "onboard_time": 1688619822,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 433468,
       "num": 408068,
       "word": "杨洋终于有段完整的校园恋了",
@@ -4073,14 +4113,6 @@
       "onboard_time": 1688465738,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 410935,
-      "num": 382782,
-      "word": "男朋友要求婚了策划师是我",
-      "onboard_time": 1688619822,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 403666,
@@ -4387,14 +4419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 381357,
-      "num": 381357,
-      "word": "关晓彤范丞丞演情侣",
-      "onboard_time": 1688620599,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 381230,
       "num": 381230,
       "word": "Jennie音乐节彩排视频",
@@ -4521,14 +4545,6 @@
       "onboard_time": 1688543014,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368305,
-      "num": 385256,
-      "word": "感觉文字很轻也很重",
-      "onboard_time": 1688617062,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 367317,
@@ -5763,6 +5779,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 277164,
+      "num": 277164,
+      "word": "好朋友就要互相摸摸手啊",
+      "onboard_time": 1688622753,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 277119,
       "num": 277119,
       "word": "结巴的是段嘉许还是陈哲远",
@@ -6329,6 +6353,14 @@
       "onboard_time": 1688452175,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244690,
+      "num": 214338,
+      "word": "TF家族演唱会广州站官宣",
+      "onboard_time": 1688624073,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 244331,
@@ -7145,6 +7177,14 @@
       "onboard_time": 1688439454,
       "rank": 40,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 204304,
+      "num": 204304,
+      "word": "秋瓷炫于晓光回归韩综",
+      "onboard_time": 1688624496,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 203493,
@@ -8179,6 +8219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158284,
+      "num": 158284,
+      "word": "这是一只吃了菌子的大熊猫吧",
+      "onboard_time": 1688624073,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158269,
       "num": 158269,
       "word": "王一博看热烈看开心了",
@@ -8233,6 +8281,22 @@
       "onboard_time": 1688383839,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157269,
+      "num": 157269,
+      "word": "张若昀李沁庆余年2路透",
+      "onboard_time": 1688624496,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156704,
+      "num": 156704,
+      "word": "上一个这么害羞的还是白敬亭",
+      "onboard_time": 1688623594,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 156616,
@@ -8419,14 +8483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142920,
-      "num": 162084,
-      "word": "手机玩太久可导致抑郁症",
-      "onboard_time": 1688621438,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142468,
       "num": 345394,
       "word": "米线汤的新做法",
@@ -8515,6 +8571,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 129206,
+      "num": 129206,
+      "word": "DOTA2",
+      "onboard_time": 1688624433,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128295,
       "num": 1527224,
       "word": "广西现鸳鸯江奇景",
@@ -8561,6 +8625,14 @@
       "onboard_time": 1688301519,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119077,
+      "num": 129026,
+      "word": "陕西文旅回应TFBOYS十周年演唱会志愿者招募",
+      "onboard_time": 1688624670,
+      "rank": 47,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 118898,
@@ -8617,6 +8689,14 @@
       "onboard_time": 1688559812,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 110593,
+      "num": 128812,
+      "word": "我们还是应该有脆弱衰老的权利",
+      "onboard_time": 1688623955,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 110457,
