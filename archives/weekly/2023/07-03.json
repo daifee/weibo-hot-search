@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688635219149,
+  "endTime": 1688636074256,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -232,6 +232,14 @@
       "word": "警方确认炎亚纶涉嫌偷拍私密影片",
       "onboard_time": 1688376224,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4276557,
+      "num": 4276557,
+      "word": "金星再回应捂胸",
+      "onboard_time": 1688634395,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -1235,14 +1243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1333169,
-      "num": 1333169,
-      "word": "金星再回应捂胸",
-      "onboard_time": 1688634395,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1323931,
       "num": 504422,
       "word": "小S悼念李玟",
@@ -1651,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1076028,
+      "num": 251948,
+      "word": "黄晓明 CoCo一直像小太阳",
+      "onboard_time": 1688635235,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1075075,
       "num": 500587,
       "word": "美国女网红直播睡觉月入1447万",
@@ -1713,6 +1721,14 @@
       "onboard_time": 1688457156,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1046027,
+      "num": 690429,
+      "word": "周星驰晒照悼念李玟",
+      "onboard_time": 1688635235,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1043895,
@@ -1995,6 +2011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 913305,
+      "num": 293801,
+      "word": "女儿终于失业了",
+      "onboard_time": 1688633673,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 910518,
       "num": 910518,
       "word": "刘昊然露额头好帅",
@@ -2017,14 +2041,6 @@
       "onboard_time": 1688465676,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 898585,
-      "num": 241822,
-      "word": "女儿终于失业了",
-      "onboard_time": 1688633673,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 898128,
@@ -2355,6 +2371,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 790182,
+      "num": 790182,
+      "word": "男子拷走292份文件跳槽至竞争公司",
+      "onboard_time": 1688631994,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787901,
       "num": 340289,
       "word": "白敬亭小号名字解读",
@@ -2513,6 +2537,14 @@
       "onboard_time": 1688525616,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 742496,
+      "num": 248627,
+      "word": "王雪峰被开除党籍",
+      "onboard_time": 1688635178,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 740399,
@@ -2697,14 +2729,6 @@
       "onboard_time": 1688351791,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 697349,
-      "num": 697349,
-      "word": "男子拷走292份文件跳槽至竞争公司",
-      "onboard_time": 1688631994,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 696939,
@@ -4076,7 +4100,7 @@
     },
     {
       "raw_hot": 444526,
-      "num": 241524,
+      "num": 412727,
       "word": "杨洋王楚然我的人间烟火十年前vs十年后",
       "onboard_time": 1688633433,
       "rank": 21,
@@ -5483,6 +5507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312338,
+      "num": 291109,
+      "word": "曾少年是ceng还是zeng",
+      "onboard_time": 1688634093,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312181,
       "num": 312181,
       "word": "黄晓明闹太套脱敏成功",
@@ -5612,7 +5644,7 @@
     },
     {
       "raw_hot": 300403,
-      "num": 247351,
+      "num": 255161,
       "word": "日本现气球葬礼",
       "onboard_time": 1688632113,
       "rank": 34,
@@ -5763,6 +5795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294901,
+      "num": 294901,
+      "word": "第一次见抽血也这么乖的大熊猫",
+      "onboard_time": 1688632295,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 294548,
       "num": 294548,
       "word": "试用期薪资可以不打八折",
@@ -5820,7 +5860,7 @@
     },
     {
       "raw_hot": 292160,
-      "num": 239236,
+      "num": 275777,
       "word": "实习后发现自己是替身",
       "onboard_time": 1688632834,
       "rank": 28,
@@ -5969,6 +6009,14 @@
       "onboard_time": 1688544814,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 280150,
+      "num": 280150,
+      "word": "黄子韬 我是菜但爱玩",
+      "onboard_time": 1688635115,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279864,
@@ -6275,14 +6323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261285,
-      "num": 238039,
-      "word": "曾少年是ceng还是zeng",
-      "onboard_time": 1688634093,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261249,
       "num": 261249,
       "word": "拆个家把自己拆瘸的小猫",
@@ -6409,6 +6449,14 @@
       "onboard_time": 1688456372,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254176,
+      "num": 294674,
+      "word": "LNG晋级夏季季后赛",
+      "onboard_time": 1688635474,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 253621,
@@ -6705,14 +6753,6 @@
       "onboard_time": 1688495475,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242126,
-      "num": 242126,
-      "word": "第一次见抽血也这么乖的大熊猫",
-      "onboard_time": 1688632295,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 241880,
@@ -7233,6 +7273,14 @@
       "onboard_time": 1688556452,
       "rank": 41,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 214330,
+      "num": 214330,
+      "word": "你们每个月的公积金有多少",
+      "onboard_time": 1688635596,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 214098,
@@ -7995,14 +8043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187806,
-      "num": 187806,
-      "word": "王雪峰被开除党籍",
-      "onboard_time": 1688635178,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186881,
       "num": 186881,
       "word": "腾势",
@@ -8089,6 +8129,14 @@
       "onboard_time": 1688477315,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180915,
+      "num": 180915,
+      "word": "给对象拍照都没这么用心过",
+      "onboard_time": 1688635474,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 180403,
@@ -8321,14 +8369,6 @@
       "onboard_time": 1688438496,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173258,
-      "num": 173258,
-      "word": "黄子韬 我是菜但爱玩",
-      "onboard_time": 1688635115,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 173219,
@@ -8728,6 +8768,14 @@
       "word": "老人摔倒男子录视频留证后帮扶起",
       "onboard_time": 1688562031,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152761,
+      "num": 152761,
+      "word": "老人卖桑葚担心价格太贵主动降价",
+      "onboard_time": 1688635953,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
