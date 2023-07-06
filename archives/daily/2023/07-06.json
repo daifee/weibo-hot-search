@@ -1,6 +1,6 @@
 {
   "startTime": 1688574432791,
-  "endTime": 1688614990622,
+  "endTime": 1688617460805,
   "band_list": [
     {
       "raw_hot": 9455004,
@@ -32,6 +32,14 @@
       "word": "快告诉我是假的",
       "onboard_time": 1688564730,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4827305,
+      "num": 1350932,
+      "word": "李玟遗产都留给妈妈",
+      "onboard_time": 1688615680,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -99,6 +107,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2720829,
+      "num": 1290229,
+      "word": "肖战再提陈情令",
+      "onboard_time": 1688616342,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2451583,
       "num": 554902,
       "word": "声生不息 我们感受温暖时没想过太阳会落山",
@@ -147,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1796977,
+      "num": 1796977,
+      "word": "教育部回应山河大学",
+      "onboard_time": 1688615382,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1765153,
-      "num": 586156,
+      "num": 729959,
       "word": "某二手平台上有人在卖孩子",
       "onboard_time": 1688607338,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1551329,
+      "num": 1199522,
+      "word": "播一部爆一部的演员",
+      "onboard_time": 1688614421,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 1529712,
@@ -275,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 847221,
+      "num": 847221,
+      "word": "烫了个爆炸头把小猫耳朵吓没了",
+      "onboard_time": 1688611959,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 793599,
       "num": 430260,
       "word": "姑娘每天放屁数十次确诊肠癌晚期",
@@ -299,20 +339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772360,
+      "num": 772360,
+      "word": "肖战入戏专访",
+      "onboard_time": 1688616278,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 768979,
       "num": 419164,
       "word": "光渊剧组工作人员发长文",
       "onboard_time": 1688569919,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 759938,
-      "num": 536096,
-      "word": "烫了个爆炸头把小猫耳朵吓没了",
-      "onboard_time": 1688611959,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 727220,
@@ -356,7 +396,7 @@
     },
     {
       "raw_hot": 706960,
-      "num": 397781,
+      "num": 425566,
       "word": "找对象的尽头是高中同学",
       "onboard_time": 1688601819,
       "rank": 20,
@@ -425,6 +465,22 @@
       "onboard_time": 1688547271,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 587187,
+      "num": 587187,
+      "word": "05后要上大学了",
+      "onboard_time": 1688613339,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 578370,
+      "num": 269841,
+      "word": "女子擤鼻涕擤出息肉血流不止",
+      "onboard_time": 1688616278,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568284,
@@ -547,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 474366,
-      "num": 331777,
-      "word": "播一部爆一部的演员",
-      "onboard_time": 1688614421,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 471995,
       "num": 471995,
       "word": "中国的年轻人没有客厅",
@@ -569,6 +617,22 @@
       "onboard_time": 1688570222,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 428912,
+      "num": 428912,
+      "word": "刘德华淋过雨所以想做撑伞的人",
+      "onboard_time": 1688616342,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 403234,
+      "num": 403234,
+      "word": "芋泥香酥鸭",
+      "onboard_time": 1688601759,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 387906,
@@ -619,6 +683,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 353810,
+      "num": 257537,
+      "word": "突发火灾妈妈将婴儿从4楼扔下楼求生",
+      "onboard_time": 1688616523,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349526,
       "num": 274147,
       "word": "李玟好友说她生前想要一个小孩",
@@ -643,20 +715,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337608,
+      "num": 249883,
+      "word": "在澳洲打工4年赚了163万",
+      "onboard_time": 1688617302,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328581,
       "num": 328581,
       "word": "别总对抑郁症患者说想开点",
       "onboard_time": 1688599230,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326509,
-      "num": 326509,
-      "word": "05后要上大学了",
-      "onboard_time": 1688613339,
-      "rank": 24,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 323836,
@@ -673,14 +745,6 @@
       "onboard_time": 1688601458,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 307493,
-      "num": 307493,
-      "word": "芋泥香酥鸭",
-      "onboard_time": 1688601759,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 300645,
@@ -779,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225887,
+      "num": 225887,
+      "word": "6人被巨石砸中无一生还",
+      "onboard_time": 1688617187,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223300,
       "num": 350585,
       "word": "新疆导游小祁的团期排到了10月份",
@@ -851,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202394,
+      "num": 224374,
+      "word": "月薪15万的境外工作你去吗",
+      "onboard_time": 1688616944,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 201809,
       "num": 292136,
       "word": "民警接警救小象结果它俩是在坑里玩",
@@ -867,6 +947,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 194699,
+      "num": 292279,
+      "word": "天津路人大爷一铁锹拍蒙歹徒",
+      "onboard_time": 1688612797,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193950,
       "num": 193950,
       "word": "哪一瞬间你意识到了人的差距",
@@ -875,12 +963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193083,
-      "num": 292279,
-      "word": "天津路人大爷一铁锹拍蒙歹徒",
-      "onboard_time": 1688612797,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 192994,
+      "num": 224358,
+      "word": "Lisa无刘海vs蒋雯丽",
+      "onboard_time": 1688617243,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192930,
@@ -979,6 +1067,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 163128,
+      "num": 224321,
+      "word": "感觉文字很轻也很重",
+      "onboard_time": 1688617062,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158249,
       "num": 182100,
       "word": "九嶷山特种兵旅行",
@@ -1051,8 +1147,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 106464,
-      "num": 1180034,
+      "raw_hot": 108211,
+      "num": 1506002,
       "word": "路途遥远且听完这最后一课",
       "onboard_time": 1688612617,
       "rank": 2,
@@ -1145,6 +1241,14 @@
       "onboard_time": 1688585113,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32353,
+      "num": 224284,
+      "word": "刘德华说努力是成功的必选项",
+      "onboard_time": 1688617302,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 21392,
