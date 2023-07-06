@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688638917141,
+  "endTime": 1688640013355,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1019,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1561857,
+      "num": 1561857,
+      "word": "王雪峰被开除党籍",
+      "onboard_time": 1688635178,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1561314,
       "num": 1561314,
       "word": "隐形眼镜有根线先别急着扔",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1688533538,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1552292,
-      "num": 1552292,
-      "word": "王雪峰被开除党籍",
-      "onboard_time": 1688635178,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1545747,
@@ -2435,6 +2435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 782953,
+      "num": 782953,
+      "word": "姜云升解约",
+      "onboard_time": 1688638718,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782510,
       "num": 415976,
       "word": "袁娅维 这不是真的",
@@ -3059,20 +3067,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 635723,
+      "num": 635723,
+      "word": "王楚然第一次见杨洋就被帅到了",
+      "onboard_time": 1688636256,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 635541,
       "num": 1328339,
       "word": "1岁宝宝掉下轨道女乘务员秒跳下救娃",
       "onboard_time": 1688360039,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632280,
-      "num": 632280,
-      "word": "王楚然第一次见杨洋就被帅到了",
-      "onboard_time": 1688636256,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 630730,
@@ -3995,6 +4003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465020,
+      "num": 465020,
+      "word": "花百万上大学上了1年发现没入学",
+      "onboard_time": 1688637216,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463902,
       "num": 5802666,
       "word": "驰援重庆暴雨的武警官兵辛苦了",
@@ -4075,14 +4091,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 454400,
-      "num": 454400,
-      "word": "花百万上大学上了1年发现没入学",
-      "onboard_time": 1688637216,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454268,
       "num": 454268,
       "word": "姚译添对郑恺的嘱咐",
@@ -4113,6 +4121,14 @@
       "onboard_time": 1688466158,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 451356,
+      "num": 451356,
+      "word": "陈哲远最有cp感的女主",
+      "onboard_time": 1688636559,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 451142,
@@ -4249,14 +4265,6 @@
       "onboard_time": 1688533836,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 429734,
-      "num": 429734,
-      "word": "陈哲远最有cp感的女主",
-      "onboard_time": 1688636559,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 428179,
@@ -4713,6 +4721,14 @@
       "onboard_time": 1688385637,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 380552,
+      "num": 253882,
+      "word": "淄博烧烤店老板称倒闭的多是蹭热度的新店",
+      "onboard_time": 1688639076,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378759,
@@ -5315,6 +5331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331018,
+      "num": 298069,
+      "word": "老人骑车被两车之间牵引绳勒倒死亡",
+      "onboard_time": 1688638474,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330936,
       "num": 330936,
       "word": "战至巅峰",
@@ -5803,14 +5827,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 298069,
-      "num": 298069,
-      "word": "老人骑车被两车之间牵引绳勒倒死亡",
-      "onboard_time": 1688638474,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297182,
       "num": 297182,
       "word": "林宥嘉武汉",
@@ -5987,20 +6003,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287624,
-      "num": 287624,
-      "word": "姜云升解约",
-      "onboard_time": 1688638718,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286854,
       "num": 286854,
       "word": "长风渡返乡名单里有宋亚轩",
       "onboard_time": 1688465920,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284796,
+      "num": 258146,
+      "word": "公司不给开空调用冰块降温",
+      "onboard_time": 1688639377,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 284632,
@@ -6403,6 +6419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261090,
+      "num": 261090,
+      "word": "在广东走路一定要注意头顶",
+      "onboard_time": 1688639138,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260404,
       "num": 206356,
       "word": "桑延好直给的爱",
@@ -6577,6 +6601,14 @@
       "onboard_time": 1688362824,
       "rank": 24,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 253153,
+      "num": 253153,
+      "word": "偷偷藏不住直通大结局",
+      "onboard_time": 1688639914,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 252968,
@@ -6897,6 +6929,22 @@
       "onboard_time": 1688458778,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236992,
+      "num": 236992,
+      "word": "不开心就打开玉骨遥第十集",
+      "onboard_time": 1688638776,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 236789,
+      "num": 236789,
+      "word": "杨洋看王楚然的眼神",
+      "onboard_time": 1688639556,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 236725,
@@ -7283,6 +7331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218742,
+      "num": 218742,
+      "word": "美财政部部长抵达北京",
+      "onboard_time": 1688637401,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218421,
       "num": 218421,
       "word": "情侣被困洪水男生要求先救女友",
@@ -7313,14 +7369,6 @@
       "onboard_time": 1688371427,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 216723,
-      "num": 215491,
-      "word": "不开心就打开玉骨遥第十集",
-      "onboard_time": 1688638776,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 216582,
@@ -7401,14 +7449,6 @@
       "onboard_time": 1688393142,
       "rank": 44,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 212027,
-      "num": 212027,
-      "word": "美财政部部长抵达北京",
-      "onboard_time": 1688637401,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211808,
@@ -7611,6 +7651,14 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 205225,
+      "num": 205225,
+      "word": "直击美国财长耶伦访华",
+      "onboard_time": 1688638959,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204960,
       "num": 204960,
       "word": "现在的动画画风",
@@ -7625,6 +7673,14 @@
       "onboard_time": 1688439454,
       "rank": 40,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 204653,
+      "num": 204653,
+      "word": "陈梦王曼昱止步女双八强",
+      "onboard_time": 1688639914,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 203493,
@@ -7649,6 +7705,14 @@
       "onboard_time": 1688609018,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202667,
+      "num": 202667,
+      "word": "宋轶被催婚时的反应",
+      "onboard_time": 1688639854,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 202635,
@@ -7873,6 +7937,14 @@
       "onboard_time": 1688397522,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 196785,
+      "num": 196785,
+      "word": "暴雨大暴雨又要来了",
+      "onboard_time": 1688639977,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196761,

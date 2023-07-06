@@ -1,6 +1,6 @@
 {
   "startTime": 1688574432791,
-  "endTime": 1688638917141,
+  "endTime": 1688640013355,
   "band_list": [
     {
       "raw_hot": 9455004,
@@ -267,8 +267,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1552292,
-      "num": 1552292,
+      "raw_hot": 1561857,
+      "num": 1561857,
       "word": "王雪峰被开除党籍",
       "onboard_time": 1688635178,
       "rank": 37,
@@ -587,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 782953,
+      "num": 782953,
+      "word": "姜云升解约",
+      "onboard_time": 1688638718,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782510,
       "num": 415976,
       "word": "袁娅维 这不是真的",
@@ -707,8 +715,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 632280,
-      "num": 632280,
+      "raw_hot": 635723,
+      "num": 635723,
       "word": "王楚然第一次见杨洋就被帅到了",
       "onboard_time": 1688636256,
       "rank": 11,
@@ -947,6 +955,14 @@
       "category": "情感,游戏"
     },
     {
+      "raw_hot": 465020,
+      "num": 465020,
+      "word": "花百万上大学上了1年发现没入学",
+      "onboard_time": 1688637216,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461597,
       "num": 461597,
       "word": "6人被巨石砸中无一生还",
@@ -955,12 +971,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454400,
-      "num": 454400,
-      "word": "花百万上大学上了1年发现没入学",
-      "onboard_time": 1688637216,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 451356,
+      "num": 451356,
+      "word": "陈哲远最有cp感的女主",
+      "onboard_time": 1688636559,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 444539,
@@ -992,14 +1008,6 @@
       "word": "杨洋终于有段完整的校园恋了",
       "onboard_time": 1688570222,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 429734,
-      "num": 429734,
-      "word": "陈哲远最有cp感的女主",
-      "onboard_time": 1688636559,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -1065,6 +1073,14 @@
       "onboard_time": 1688628574,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380552,
+      "num": 253882,
+      "word": "淄博烧烤店老板称倒闭的多是蹭热度的新店",
+      "onboard_time": 1688639076,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376959,
@@ -1187,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331018,
+      "num": 298069,
+      "word": "老人骑车被两车之间牵引绳勒倒死亡",
+      "onboard_time": 1688638474,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328581,
       "num": 328581,
       "word": "别总对抑郁症患者说想开点",
@@ -1259,14 +1283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 298069,
-      "num": 298069,
-      "word": "老人骑车被两车之间牵引绳勒倒死亡",
-      "onboard_time": 1688638474,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296425,
       "num": 296425,
       "word": "痘痘一直好不了怎么办",
@@ -1291,12 +1307,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287624,
-      "num": 287624,
-      "word": "姜云升解约",
-      "onboard_time": 1688638718,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 284796,
+      "num": 258146,
+      "word": "公司不给开空调用冰块降温",
+      "onboard_time": 1688639377,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 282665,
@@ -1371,12 +1387,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261090,
+      "num": 261090,
+      "word": "在广东走路一定要注意头顶",
+      "onboard_time": 1688639138,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 256964,
+      "num": 256964,
+      "word": "EXO预告",
+      "onboard_time": 1688637818,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254176,
       "num": 294674,
       "word": "LNG晋级夏季季后赛",
       "onboard_time": 1688635474,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253153,
+      "num": 253153,
+      "word": "偷偷藏不住直通大结局",
+      "onboard_time": 1688639914,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 252930,
@@ -1427,6 +1467,22 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 236992,
+      "num": 236992,
+      "word": "不开心就打开玉骨遥第十集",
+      "onboard_time": 1688638776,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 236789,
+      "num": 236789,
+      "word": "杨洋看王楚然的眼神",
+      "onboard_time": 1688639556,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236218,
       "num": 236218,
       "word": "张杰演唱会抢票",
@@ -1475,14 +1531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221216,
-      "num": 216235,
-      "word": "EXO预告",
-      "onboard_time": 1688637818,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 220896,
       "num": 354524,
       "word": "刚睡醒的小金毛",
@@ -1491,12 +1539,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 216723,
-      "num": 215491,
-      "word": "不开心就打开玉骨遥第十集",
-      "onboard_time": 1688638776,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 218742,
+      "num": 218742,
+      "word": "美财政部部长抵达北京",
+      "onboard_time": 1688637401,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216582,
@@ -1512,14 +1560,6 @@
       "word": "北京户外工作者收到免费冰棍",
       "onboard_time": 1688636977,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212027,
-      "num": 212027,
-      "word": "美财政部部长抵达北京",
-      "onboard_time": 1688637401,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1563,12 +1603,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205225,
+      "num": 205225,
+      "word": "直击美国财长耶伦访华",
+      "onboard_time": 1688638959,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204653,
+      "num": 204653,
+      "word": "陈梦王曼昱止步女双八强",
+      "onboard_time": 1688639914,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202777,
       "num": 202777,
       "word": "这个夏天为啥这么热",
       "onboard_time": 1688609018,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202667,
+      "num": 202667,
+      "word": "宋轶被催婚时的反应",
+      "onboard_time": 1688639854,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 202571,
@@ -1601,6 +1665,14 @@
       "onboard_time": 1688600673,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 196785,
+      "num": 196785,
+      "word": "暴雨大暴雨又要来了",
+      "onboard_time": 1688639977,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194699,
