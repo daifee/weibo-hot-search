@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688681899380,
+  "endTime": 1688682946822,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -9499,6 +9499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161730,
+      "num": 162192,
+      "word": "科学家为什么执着于计算圆周率",
+      "onboard_time": 1688660370,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 160858,
       "num": 279559,
       "word": "丫丫有了新玩具小藤球",
@@ -9737,14 +9745,6 @@
       "onboard_time": 1688600858,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149621,
-      "num": 162192,
-      "word": "科学家为什么执着于计算圆周率",
-      "onboard_time": 1688660370,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 149143,
@@ -10475,6 +10475,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51538,
+      "num": 51538,
+      "word": "陈妍希柳岩走在吃瓜第一线",
+      "onboard_time": 1688671874,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 51258,
+      "num": 51258,
+      "word": "肖战剧中最虐的台词",
+      "onboard_time": 1688680875,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 49615,
       "num": 4815269,
       "word": "他们获颁光荣在党50年纪念章",
@@ -10507,6 +10523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 44918,
+      "num": 50893,
+      "word": "有了新玩具的显眼包小金毛",
+      "onboard_time": 1688680216,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 39476,
       "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
@@ -10521,14 +10545,6 @@
       "onboard_time": 1688476052,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39342,
-      "num": 51078,
-      "word": "陈妍希柳岩走在吃瓜第一线",
-      "onboard_time": 1688671874,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 38416,
@@ -10571,14 +10587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33777,
-      "num": 51002,
-      "word": "肖战剧中最虐的台词",
-      "onboard_time": 1688680875,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 32353,
       "num": 224284,
       "word": "刘德华说努力是成功的必选项",
@@ -10593,14 +10601,6 @@
       "onboard_time": 1688668394,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27802,
-      "num": 50893,
-      "word": "有了新玩具的显眼包小金毛",
-      "onboard_time": 1688680216,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 26764,
@@ -10619,20 +10619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20098,
+      "num": 718393,
+      "word": "高温下坚守的人",
+      "onboard_time": 1688648558,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17448,
       "num": 50656,
       "word": "刘耀文的领口很危险",
       "onboard_time": 1688500931,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16482,
-      "num": 718393,
-      "word": "高温下坚守的人",
-      "onboard_time": 1688648558,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11977,
