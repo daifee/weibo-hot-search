@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688617460805,
+  "endTime": 1688618379545,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -523,6 +523,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 2807356,
+      "num": 1290229,
+      "word": "肖战再提陈情令",
+      "onboard_time": 1688616342,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2778111,
       "num": 662804,
       "word": "李俊昊林允儿方回应恋情",
@@ -537,14 +545,6 @@
       "onboard_time": 1688601941,
       "rank": 6,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2720829,
-      "num": 1290229,
-      "word": "肖战再提陈情令",
-      "onboard_time": 1688616342,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 2696359,
@@ -883,6 +883,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1992811,
+      "num": 1796977,
+      "word": "教育部回应山河大学",
+      "onboard_time": 1688615382,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1977729,
       "num": 642179,
       "word": "女子浴室被已婚男邻居安摄像头",
@@ -953,6 +961,14 @@
       "onboard_time": 1688565665,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1925599,
+      "num": 1199522,
+      "word": "播一部爆一部的演员",
+      "onboard_time": 1688614421,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 1918395,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1688289934,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1796977,
-      "num": 1796977,
-      "word": "教育部回应山河大学",
-      "onboard_time": 1688615382,
-      "rank": 0,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1796740,
@@ -1339,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1551329,
-      "num": 1199522,
-      "word": "播一部爆一部的演员",
-      "onboard_time": 1688614421,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1529712,
       "num": 380206,
       "word": "经纪公司回应李玟去世",
@@ -1489,6 +1489,14 @@
       "onboard_time": 1688269470,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1390551,
+      "num": 326640,
+      "word": "成龙 CoCo是天生的明星",
+      "onboard_time": 1688618328,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1386066,
@@ -2211,6 +2219,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1027915,
+      "num": 515531,
+      "word": "Lisa无刘海vs蒋雯丽",
+      "onboard_time": 1688617243,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1026500,
       "num": 1026500,
       "word": "Uzi选出VN",
@@ -2883,6 +2899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 838860,
+      "num": 463202,
+      "word": "在澳洲打工4年赚了163万",
+      "onboard_time": 1688617302,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 837864,
       "num": 837864,
       "word": "TFBOYS十年专辑曲目",
@@ -3524,7 +3548,7 @@
     },
     {
       "raw_hot": 706960,
-      "num": 425566,
+      "num": 462314,
       "word": "找对象的尽头是高中同学",
       "onboard_time": 1688601819,
       "rank": 20,
@@ -3585,6 +3609,14 @@
       "onboard_time": 1688525434,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696236,
+      "num": 514509,
+      "word": "突发火灾妈妈将婴儿从4楼扔下楼求生",
+      "onboard_time": 1688616523,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695559,
@@ -4025,6 +4057,14 @@
       "onboard_time": 1688526519,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 647024,
+      "num": 511439,
+      "word": "月薪15万的境外工作你去吗",
+      "onboard_time": 1688616944,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 645052,
@@ -4508,7 +4548,7 @@
     },
     {
       "raw_hot": 578370,
-      "num": 269841,
+      "num": 436880,
       "word": "女子擤鼻涕擤出息肉血流不止",
       "onboard_time": 1688616278,
       "rank": 30,
@@ -5139,6 +5179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511011,
+      "num": 511011,
+      "word": "刘德华淋过雨所以想做撑伞的人",
+      "onboard_time": 1688616342,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510721,
       "num": 510721,
       "word": "精神离职",
@@ -5595,11 +5643,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464104,
+      "num": 464104,
+      "word": "男子称儿子在足浴店兴奋过度身亡",
+      "onboard_time": 1688618026,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463902,
       "num": 5802666,
       "word": "驰援重庆暴雨的武警官兵辛苦了",
       "onboard_time": 1688557774,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461597,
+      "num": 461597,
+      "word": "6人被巨石砸中无一生还",
+      "onboard_time": 1688617187,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -5995,14 +6059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 428912,
-      "num": 428912,
-      "word": "刘德华淋过雨所以想做撑伞的人",
-      "onboard_time": 1688616342,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428691,
       "num": 677329,
       "word": "女生称求职因是上海人2天被拒3次",
@@ -6072,6 +6128,14 @@
       "word": "鹿晗广州站场馆",
       "onboard_time": 1688530060,
       "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 417250,
+      "num": 417250,
+      "word": "伍佰演唱会抢票",
+      "onboard_time": 1688618147,
+      "rank": 25,
       "category": "音乐"
     },
     {
@@ -7051,14 +7115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 353810,
-      "num": 257537,
-      "word": "突发火灾妈妈将婴儿从4楼扔下楼求生",
-      "onboard_time": 1688616523,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352402,
       "num": 352402,
       "word": "杀人犯逃亡30年被抓当场让妻子改嫁",
@@ -7377,14 +7433,6 @@
       "onboard_time": 1688273070,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337608,
-      "num": 249883,
-      "word": "在澳洲打工4年赚了163万",
-      "onboard_time": 1688617302,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 337006,
@@ -8032,6 +8080,14 @@
       "word": "HR让我面试帮忙带杯冰美式",
       "onboard_time": 1688201493,
       "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 305283,
+      "num": 305283,
+      "word": "被辞退后发现新人还不如我",
+      "onboard_time": 1688618328,
+      "rank": 31,
       "category": "幽默"
     },
     {
@@ -10067,6 +10123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235974,
+      "num": 235974,
+      "word": "蛋仔派对",
+      "onboard_time": 1688617604,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234481,
       "num": 234481,
       "word": "爸爸焦急盼到女儿通知书第一时间开箱",
@@ -10265,14 +10329,6 @@
       "onboard_time": 1688286872,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 225887,
-      "num": 225887,
-      "word": "6人被巨石砸中无一生还",
-      "onboard_time": 1688617187,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225775,
@@ -10649,6 +10705,14 @@
       "onboard_time": 1688183731,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 217464,
+      "num": 234226,
+      "word": "感觉文字很轻也很重",
+      "onboard_time": 1688617062,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 217108,
@@ -11235,14 +11299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202394,
-      "num": 224374,
-      "word": "月薪15万的境外工作你去吗",
-      "onboard_time": 1688616944,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 202302,
       "num": 202302,
       "word": "毛不易演唱会",
@@ -11603,20 +11659,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193738,
+      "num": 234141,
+      "word": "官方回应男孩被逼吃异物是否存在逼迫和解",
+      "onboard_time": 1688617967,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193164,
       "num": 193164,
       "word": "被西安交大校长的临场发挥震撼到",
       "onboard_time": 1688293536,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192994,
-      "num": 224358,
-      "word": "Lisa无刘海vs蒋雯丽",
-      "onboard_time": 1688617243,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 192930,
@@ -12195,6 +12251,14 @@
       "category": "幽默,游戏"
     },
     {
+      "raw_hot": 177363,
+      "num": 234065,
+      "word": "压垮骆驼的最后一块肉",
+      "onboard_time": 1688618204,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177297,
       "num": 177297,
       "word": "没想到马也有这么矮的",
@@ -12657,14 +12721,6 @@
       "onboard_time": 1688549973,
       "rank": 4,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 163128,
-      "num": 224321,
-      "word": "感觉文字很轻也很重",
-      "onboard_time": 1688617062,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 163055,
