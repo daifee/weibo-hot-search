@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688679249316,
+  "endTime": 1688681899380,
   "band_list": [
     {
       "raw_hot": 1833030,
@@ -515,12 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38699,
-      "num": 38235,
+      "raw_hot": 39342,
+      "num": 51078,
       "word": "陈妍希柳岩走在吃瓜第一线",
       "onboard_time": 1688671874,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33777,
+      "num": 51002,
+      "word": "肖战剧中最虐的台词",
+      "onboard_time": 1688680875,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 27818,
@@ -531,7 +539,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12476,
+      "raw_hot": 27802,
+      "num": 50893,
+      "word": "有了新玩具的显眼包小金毛",
+      "onboard_time": 1688680216,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 16482,
       "num": 718393,
       "word": "高温下坚守的人",
       "onboard_time": 1688648558,
