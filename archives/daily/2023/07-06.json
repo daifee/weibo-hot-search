@@ -1,6 +1,6 @@
 {
   "startTime": 1688574432791,
-  "endTime": 1688609748346,
+  "endTime": 1688612599739,
   "band_list": [
     {
       "raw_hot": 9455004,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3696326,
+      "num": 3696326,
+      "word": "boss直聘",
+      "onboard_time": 1688609798,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 3463245,
       "num": 1100841,
       "word": "林俊杰 失去了你音乐宇宙将不再如昔",
@@ -81,6 +89,14 @@
       "onboard_time": 1688607998,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2374480,
+      "num": 490877,
+      "word": "那英 还没等到我们俩合作你就走了",
+      "onboard_time": 1688612498,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2341062,
@@ -171,6 +187,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1280880,
+      "num": 472338,
+      "word": "台湾一男子持刀砍下84岁母亲头颅",
+      "onboard_time": 1688608597,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1276947,
       "num": 475898,
       "word": "李玟手术",
@@ -201,14 +225,6 @@
       "onboard_time": 1688568702,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1059640,
-      "num": 472338,
-      "word": "台湾一男子持刀砍下84岁母亲头颅",
-      "onboard_time": 1688608597,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1053457,
@@ -264,6 +280,14 @@
       "word": "光渊剧组工作人员发长文",
       "onboard_time": 1688569919,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 751576,
+      "num": 751576,
+      "word": "曾少年定档",
+      "onboard_time": 1688610338,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -331,7 +355,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 674960,
+      "raw_hot": 679843,
       "num": 459676,
       "word": "任正非曾患抑郁症",
       "onboard_time": 1688607579,
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486645,
+      "num": 486645,
+      "word": "倪妮消失的她无睫毛清透妆",
+      "onboard_time": 1688607518,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477156,
       "num": 477156,
       "word": "你心情很不好但是却不难受",
@@ -513,14 +545,6 @@
       "onboard_time": 1688575588,
       "rank": 13,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 386591,
-      "num": 267719,
-      "word": "倪妮消失的她无睫毛清透妆",
-      "onboard_time": 1688607518,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 385687,
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368594,
+      "num": 267076,
+      "word": "永劫无间转为免费游戏",
+      "onboard_time": 1688611959,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 355498,
       "num": 355498,
       "word": "刘雯穿几十斤重锁链裙走秀",
@@ -577,6 +609,14 @@
       "onboard_time": 1688600437,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 335568,
+      "num": 335568,
+      "word": "曾少年",
+      "onboard_time": 1688610459,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 328581,
@@ -617,6 +657,14 @@
       "onboard_time": 1688606021,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 297250,
+      "num": 200341,
+      "word": "烫了个爆炸头把小猫耳朵吓没了",
+      "onboard_time": 1688611959,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 296425,
@@ -683,20 +731,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 231914,
+      "num": 231914,
+      "word": "芋泥香酥鸭",
+      "onboard_time": 1688601759,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 223300,
       "num": 350585,
       "word": "新疆导游小祁的团期排到了10月份",
       "onboard_time": 1688565713,
       "rank": 46,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 223124,
-      "num": 223124,
-      "word": "芋泥香酥鸭",
-      "onboard_time": 1688601759,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 221774,
@@ -755,12 +803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201809,
+      "num": 201809,
+      "word": "民警接警救小象结果它俩是在坑里玩",
+      "onboard_time": 1688610519,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197804,
       "num": 197804,
       "word": "逛超市是一件很亲密的事",
       "onboard_time": 1688600673,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 194078,
+      "num": 194078,
+      "word": "老去不是一瞬的事",
+      "onboard_time": 1688612139,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 193950,
@@ -779,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188627,
+      "num": 188627,
+      "word": "时影转身名场面",
+      "onboard_time": 1688612259,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186546,
       "num": 186546,
       "word": "陈紫函戴向宇玉骨遥片场撒狗粮",
@@ -793,6 +865,14 @@
       "onboard_time": 1688550812,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 185378,
+      "num": 185378,
+      "word": "时影 翻身接公主抱落地",
+      "onboard_time": 1688610876,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 182505,
@@ -899,6 +979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139852,
+      "num": 139852,
+      "word": "当曾经帮助过的人回来找你",
+      "onboard_time": 1688612378,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127735,
       "num": 145698,
       "word": "潜水时偶然结交的章鱼朋友",
@@ -968,6 +1056,14 @@
       "word": "七旬老人凌晨迷失深山无人机热成像找人",
       "onboard_time": 1688595438,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58070,
+      "num": 188201,
+      "word": "世界首头人工繁育长江江豚18岁了",
+      "onboard_time": 1688612378,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
