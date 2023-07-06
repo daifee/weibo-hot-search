@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688660822264,
+  "endTime": 1688661856025,
   "band_list": [
     {
       "raw_hot": 1833030,
@@ -25,6 +25,14 @@
       "onboard_time": 1688637342,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 970326,
+      "num": 488889,
+      "word": "女婴出生第一天喝了过期奶粉",
+      "onboard_time": 1688659469,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 844283,
@@ -100,10 +108,18 @@
     },
     {
       "raw_hot": 534474,
-      "num": 345001,
+      "num": 349364,
       "word": "杭州男子卖掉三套房换别墅刚到手就后悔",
       "onboard_time": 1688656956,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508296,
+      "num": 508296,
+      "word": "火锅店买8000斤滞销瓜送顾客",
+      "onboard_time": 1688654438,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -140,27 +156,27 @@
     },
     {
       "raw_hot": 431575,
-      "num": 338178,
+      "num": 347653,
       "word": "女子产后抑郁将孩子从天桥抛下",
       "onboard_time": 1688655938,
       "rank": 23,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424375,
-      "num": 424375,
-      "word": "火锅店买8000斤滞销瓜送顾客",
-      "onboard_time": 1688654438,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421521,
-      "num": 421521,
+      "raw_hot": 430585,
+      "num": 430585,
       "word": "羊毛党用无理由退货漏洞薅了100万",
       "onboard_time": 1688656836,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423838,
+      "num": 423838,
+      "word": "刘昊然原来穿的是高跟鞋",
+      "onboard_time": 1688659591,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 384584,
@@ -187,22 +203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362108,
-      "num": 331737,
-      "word": "刘昊然原来穿的是高跟鞋",
-      "onboard_time": 1688659591,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353209,
-      "num": 353209,
-      "word": "女婴出生第一天喝了过期奶粉",
-      "onboard_time": 1688659469,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328328,
       "num": 328328,
       "word": "TF一代二代三代暑假都有演唱会",
@@ -227,8 +227,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270417,
-      "num": 270417,
+      "raw_hot": 281353,
+      "num": 281353,
       "word": "第一次去青海西藏的一定要看完",
       "onboard_time": 1688657976,
       "rank": 29,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 184892,
-      "num": 164906,
+      "num": 165870,
       "word": "杨坤悼念李玟",
       "onboard_time": 1688656358,
       "rank": 40,
@@ -312,6 +312,22 @@
       "word": "全靠Angelababy的脸在撑",
       "onboard_time": 1688641473,
       "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170446,
+      "num": 170446,
+      "word": "在厕所里发现了新世界",
+      "onboard_time": 1688660910,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169066,
+      "num": 169066,
+      "word": "张静初到底有多少碎花裙",
+      "onboard_time": 1688661445,
+      "rank": 36,
       "category": "作品衍生,时尚"
     },
     {
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162862,
+      "num": 160695,
+      "word": "黄晓明 CoCo一直像小太阳",
+      "onboard_time": 1688635235,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162625,
       "num": 162625,
       "word": "孕妇羊水栓塞市民自发排队献血",
@@ -387,12 +411,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126577,
-      "num": 151326,
+      "raw_hot": 139534,
+      "num": 139534,
+      "word": "姜云升解约",
+      "onboard_time": 1688638718,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138011,
+      "num": 162192,
       "word": "科学家为什么执着于计算圆周率",
       "onboard_time": 1688660370,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 135535,
+      "num": 135535,
+      "word": "桑稚钻戒好大",
+      "onboard_time": 1688661806,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 128756,
+      "num": 128756,
+      "word": "很少劝朋友离开让她难过的关系",
+      "onboard_time": 1688660069,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 51310,
