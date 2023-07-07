@@ -1,0 +1,410 @@
+{
+  "runTime": 1688700711278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3022301,
+        "num": 3022301,
+        "word": "原来骑手知道我在看配送进度",
+        "onboard_time": 1688693733,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1319416,
+        "num": 1319416,
+        "word": "难哄",
+        "onboard_time": 1688696428,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53271,
+        "num": 1160108,
+        "word": "高温下坚守的人",
+        "onboard_time": 1688648558,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036922,
+        "num": 1036922,
+        "word": "张彬彬白天和杨洋扫楼晚上陪吴倩吃饭",
+        "onboard_time": 1688695591,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1024481,
+        "num": 1024481,
+        "word": "爸妈一直叫我打暑假工",
+        "onboard_time": 1688697991,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 867017,
+        "num": 867017,
+        "word": "酒店为什么会免费升房",
+        "onboard_time": 1688690617,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719358,
+        "num": 719358,
+        "word": "奔跑吧",
+        "onboard_time": 1688693852,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694603,
+        "num": 694603,
+        "word": "美国新型毒品泛滥吸食者如丧尸围城",
+        "onboard_time": 1688687670,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689673,
+        "num": 689673,
+        "word": "李玟姐姐呼吁大家不要作任何揣测",
+        "onboard_time": 1688692715,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664878,
+        "num": 664878,
+        "word": "特斯拉",
+        "onboard_time": 1688698471,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1850762,
+        "num": 659261,
+        "word": "男子强迫11岁少年吸毒并殴打致死",
+        "onboard_time": 1688695051,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156948,
+        "num": 651538,
+        "word": "叶舒华 烧给你",
+        "onboard_time": 1688687368,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635474,
+        "num": 635474,
+        "word": "广州地铁到底发生过什么",
+        "onboard_time": 1688698113,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 607444,
+        "num": 607444,
+        "word": "iPhone15系列8月将量产",
+        "onboard_time": 1688696428,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125405,
+        "num": 551225,
+        "word": "92岁亲历者讲述卢沟桥事变惨状",
+        "onboard_time": 1688699374,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544925,
+        "num": 544925,
+        "word": "最具仙气的古偶男主脸",
+        "onboard_time": 1688695416,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499754,
+        "num": 499754,
+        "word": "宝马司机醉驾撞人拖行案一审宣判",
+        "onboard_time": 1688699494,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495279,
+        "num": 495279,
+        "word": "布兰妮希望NBA状元公开道歉",
+        "onboard_time": 1688699309,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 474880,
+        "num": 474880,
+        "word": "马嘉祺丁程鑫一起旅游",
+        "onboard_time": 1688699309,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482261,
+        "num": 473481,
+        "word": "布兰妮被文班亚马保镖掌掴",
+        "onboard_time": 1688690494,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 561202,
+        "num": 473141,
+        "word": "月薪4.2万的offer被我拒绝了",
+        "onboard_time": 1688690675,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506351,
+        "num": 471796,
+        "word": "半夜因为一条蜈蚣被救护车拉走",
+        "onboard_time": 1688695714,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 468036,
+        "num": 468036,
+        "word": "我的人间烟火结局",
+        "onboard_time": 1688698171,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448502,
+        "num": 448502,
+        "word": "徐志胜很难证明自己的身份",
+        "onboard_time": 1688693492,
+        "rank": 23,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 447183,
+        "num": 447183,
+        "word": "李玟22年前在杭州珍贵影像",
+        "onboard_time": 1688686228,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413306,
+        "num": 413306,
+        "word": "你现在收入存够50万要多久",
+        "onboard_time": 1688691518,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356599,
+        "num": 356599,
+        "word": "迪丽热巴ins点赞",
+        "onboard_time": 1688688212,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330553,
+        "num": 330553,
+        "word": "上岸第二天就被介绍对象了",
+        "onboard_time": 1688700334,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350467,
+        "num": 326626,
+        "word": "杨洋评论区好多迪丽热巴照片",
+        "onboard_time": 1688692118,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322308,
+        "num": 322308,
+        "word": "为什么自制的冰几分钟就化了",
+        "onboard_time": 1688695354,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 320292,
+        "num": 320292,
+        "word": "肖战时影梦回言冰云",
+        "onboard_time": 1688698113,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313856,
+        "num": 313856,
+        "word": "孕妇大出血遇堵车铁骑大喊跟我走",
+        "onboard_time": 1688699432,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283926,
+        "num": 283926,
+        "word": "帮韩国室友抓蟑螂收到的礼物",
+        "onboard_time": 1688693195,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275079,
+        "num": 275079,
+        "word": "赵露思ins粉丝数破百万",
+        "onboard_time": 1688696793,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271460,
+        "num": 271460,
+        "word": "趁弟弟不注意把他的暑假作业写完",
+        "onboard_time": 1688700273,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 267993,
+        "num": 267993,
+        "word": "smlz解释FoFo评价",
+        "onboard_time": 1688690918,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263889,
+        "num": 263889,
+        "word": "少年推理社",
+        "onboard_time": 1688697632,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261305,
+        "num": 261305,
+        "word": "王楚钦说和马龙樊振东相比有很大差距",
+        "onboard_time": 1688700334,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259204,
+        "num": 259204,
+        "word": "EDG更换主教练",
+        "onboard_time": 1688687731,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258816,
+        "num": 258816,
+        "word": "杭州男子卖掉三套房换别墅刚到手就后悔",
+        "onboard_time": 1688656956,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256381,
+        "num": 256381,
+        "word": "第一次见长得像海胆的小猫",
+        "onboard_time": 1688699672,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244378,
+        "num": 244378,
+        "word": "谁家的哈基米时影丢了",
+        "onboard_time": 1688689359,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235993,
+        "num": 235993,
+        "word": "原来这些水果都自带解药",
+        "onboard_time": 1688690617,
+        "rank": 42,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 228224,
+        "num": 228224,
+        "word": "女婴出生第一天喝了过期奶粉",
+        "onboard_time": 1688659469,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215449,
+        "num": 215449,
+        "word": "李艾 这不是她的错她需要帮助",
+        "onboard_time": 1688689836,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215178,
+        "num": 215178,
+        "word": "女子产后抑郁将孩子从天桥抛下",
+        "onboard_time": 1688655938,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214829,
+        "num": 214829,
+        "word": "我姓彭 土豆丝彭",
+        "onboard_time": 1688655638,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208538,
+        "num": 208538,
+        "word": "王嘉尔抱着Amber转圈圈",
+        "onboard_time": 1688695113,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199644,
+        "num": 199644,
+        "word": "现实版孤儿怨",
+        "onboard_time": 1688700695,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198251,
+        "num": 198251,
+        "word": "底薪6K的外贸笔试题",
+        "onboard_time": 1688690617,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察东部战区机关#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688699386896,
+  "endTime": 1688700711278,
   "band_list": [
     {
-      "raw_hot": 2937586,
-      "num": 2937586,
+      "raw_hot": 3022301,
+      "num": 3022301,
       "word": "原来骑手知道我在看配送进度",
       "onboard_time": 1688693733,
       "rank": 27,
@@ -19,8 +19,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1850762,
+      "num": 659261,
+      "word": "男子强迫11岁少年吸毒并殴打致死",
+      "onboard_time": 1688695051,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1845198,
-      "num": 444092,
+      "num": 473141,
       "word": "月薪4.2万的offer被我拒绝了",
       "onboard_time": 1688690675,
       "rank": 20,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1844383,
-      "num": 512374,
+      "num": 651538,
       "word": "叶舒华 烧给你",
       "onboard_time": 1688687368,
       "rank": 10,
@@ -48,14 +56,6 @@
       "word": "美国新型毒品泛滥吸食者如丧尸围城",
       "onboard_time": 1688687670,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1688670,
-      "num": 505313,
-      "word": "男子强迫11岁少年吸毒并殴打致死",
-      "onboard_time": 1688695051,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -115,12 +115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 979474,
-      "num": 979474,
+      "raw_hot": 1036922,
+      "num": 1036922,
       "word": "张彬彬白天和杨洋扫楼晚上陪吴倩吃饭",
       "onboard_time": 1688695591,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1024481,
+      "num": 1024481,
+      "word": "爸妈一直叫我打暑假工",
+      "onboard_time": 1688697991,
+      "rank": 27,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 937489,
@@ -128,6 +136,14 @@
       "word": "家人把15万珠宝当垃圾丢掉还被人给捡了",
       "onboard_time": 1688684423,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867017,
+      "num": 867017,
+      "word": "酒店为什么会免费升房",
+      "onboard_time": 1688690617,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1688655638,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 833514,
-      "num": 833514,
-      "word": "酒店为什么会免费升房",
-      "onboard_time": 1688690617,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 815233,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664878,
+      "num": 664878,
+      "word": "特斯拉",
+      "onboard_time": 1688698471,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643461,
       "num": 643461,
       "word": "哥们你小说男主啊",
@@ -227,8 +243,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635474,
+      "num": 635474,
+      "word": "广州地铁到底发生过什么",
+      "onboard_time": 1688698113,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 629138,
-      "num": 393759,
+      "num": 471796,
       "word": "半夜因为一条蜈蚣被救护车拉走",
       "onboard_time": 1688695714,
       "rank": 30,
@@ -241,6 +265,14 @@
       "onboard_time": 1688693492,
       "rank": 23,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 607444,
+      "num": 607444,
+      "word": "iPhone15系列8月将量产",
+      "onboard_time": 1688696428,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 601948,
@@ -257,14 +289,6 @@
       "onboard_time": 1688690918,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 576352,
-      "num": 391678,
-      "word": "iPhone15系列8月将量产",
-      "onboard_time": 1688696428,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 575483,
@@ -291,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544925,
+      "num": 544925,
+      "word": "最具仙气的古偶男主脸",
+      "onboard_time": 1688695416,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540826,
       "num": 540826,
       "word": "八角笼中票房",
@@ -305,14 +337,6 @@
       "onboard_time": 1688688514,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 513772,
-      "num": 513772,
-      "word": "爸妈一直叫我打暑假工",
-      "onboard_time": 1688697991,
-      "rank": 27,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 512455,
@@ -339,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499754,
+      "num": 499754,
+      "word": "宝马司机醉驾撞人拖行案一审宣判",
+      "onboard_time": 1688699494,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497756,
       "num": 497756,
       "word": "谁家的哈基米时影丢了",
       "onboard_time": 1688689359,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 495279,
+      "num": 495279,
+      "word": "布兰妮希望NBA状元公开道歉",
+      "onboard_time": 1688699309,
+      "rank": 44,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 486148,
@@ -363,20 +403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474880,
+      "num": 474880,
+      "word": "马嘉祺丁程鑫一起旅游",
+      "onboard_time": 1688699309,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 468036,
+      "num": 468036,
+      "word": "我的人间烟火结局",
+      "onboard_time": 1688698171,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 461113,
       "num": 461113,
       "word": "七七事变86周年",
       "onboard_time": 1688684843,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459630,
-      "num": 459630,
-      "word": "广州地铁到底发生过什么",
-      "onboard_time": 1688698113,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 457866,
@@ -427,14 +475,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 431733,
-      "num": 431733,
-      "word": "最具仙气的古偶男主脸",
-      "onboard_time": 1688695416,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 431575,
       "num": 347653,
       "word": "女子产后抑郁将孩子从天桥抛下",
@@ -465,14 +505,6 @@
       "onboard_time": 1688647054,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382122,
-      "num": 382122,
-      "word": "我的人间烟火结局",
-      "onboard_time": 1688698171,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 372106,
@@ -507,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330553,
+      "num": 330553,
+      "word": "上岸第二天就被介绍对象了",
+      "onboard_time": 1688700334,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328328,
       "num": 328328,
       "word": "TF一代二代三代暑假都有演唱会",
@@ -523,20 +563,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316393,
-      "num": 316393,
-      "word": "特斯拉",
-      "onboard_time": 1688698471,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314129,
       "num": 314129,
       "word": "为什么不夸魏大勋",
       "onboard_time": 1688656716,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313856,
+      "num": 313856,
+      "word": "孕妇大出血遇堵车铁骑大喊跟我走",
+      "onboard_time": 1688699432,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289582,
@@ -587,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271460,
+      "num": 271460,
+      "word": "趁弟弟不注意把他的暑假作业写完",
+      "onboard_time": 1688700273,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 269633,
       "num": 269633,
       "word": "马立奥 互联网儿子",
@@ -603,12 +651,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 256524,
-      "num": 256524,
-      "word": "马嘉祺丁程鑫一起旅游",
-      "onboard_time": 1688699309,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 261305,
+      "num": 261305,
+      "word": "王楚钦说和马龙樊振东相比有很大差距",
+      "onboard_time": 1688700334,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 256381,
+      "num": 256381,
+      "word": "第一次见长得像海胆的小猫",
+      "onboard_time": 1688699672,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 253805,
@@ -755,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206057,
-      "num": 206057,
-      "word": "布兰妮希望NBA状元公开道歉",
-      "onboard_time": 1688699309,
-      "rank": 44,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 201675,
       "num": 201675,
       "word": "男子收集29张李玟贴纸珍藏22年",
@@ -785,6 +833,14 @@
       "onboard_time": 1688691339,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199644,
+      "num": 199644,
+      "word": "现实版孤儿怨",
+      "onboard_time": 1688700695,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 195666,
@@ -995,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125405,
+      "num": 551225,
+      "word": "92岁亲历者讲述卢沟桥事变惨状",
+      "onboard_time": 1688699374,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114881,
       "num": 114881,
       "word": "谈一场直球式恋爱有多甜",
@@ -1081,14 +1145,6 @@
       "onboard_time": 1688663481,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 52858,
-      "num": 461197,
-      "word": "92岁亲历者讲述卢沟桥事变惨状",
-      "onboard_time": 1688699374,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52053,
