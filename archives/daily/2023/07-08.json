@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688754224485,
+  "endTime": 1688755063352,
   "band_list": [
     {
       "raw_hot": 1976757,
@@ -440,6 +440,14 @@
       "word": "关晓彤也演过花非花雾非雾",
       "onboard_time": 1688727093,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 51368,
+      "num": 51368,
+      "word": "醉酒是少司命亲自教学",
+      "onboard_time": 1688754256,
+      "rank": 43,
       "category": "影视"
     },
     {

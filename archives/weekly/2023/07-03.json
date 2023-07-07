@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688754224485,
+  "endTime": 1688755063352,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -12849,6 +12849,14 @@
       "onboard_time": 1688671874,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51368,
+      "num": 51368,
+      "word": "醉酒是少司命亲自教学",
+      "onboard_time": 1688754256,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 49615,
