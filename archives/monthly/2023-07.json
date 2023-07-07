@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688744068062,
+  "endTime": 1688747114779,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1451,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1755092,
+      "num": 418733,
+      "word": "男子地铁上掏下体猥亵被揪着报警",
+      "onboard_time": 1688745273,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1748695,
       "num": 1748695,
       "word": "室友卖掉了我将近十年的青春",
@@ -2873,6 +2881,14 @@
       "onboard_time": 1688695591,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1035881,
+      "num": 1035881,
+      "word": "TFBOYS会合体集训",
+      "onboard_time": 1688743721,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1034954,
@@ -5227,6 +5243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 658609,
+      "num": 658609,
+      "word": "我好想见你啊",
+      "onboard_time": 1688744556,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658581,
       "num": 658581,
       "word": "玉骨遥塌房文学",
@@ -5843,6 +5867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595457,
+      "num": 595457,
+      "word": "长风渡改编",
+      "onboard_time": 1688744616,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 595287,
       "num": 340497,
       "word": "张雪峰出院",
@@ -6032,6 +6064,14 @@
       "word": "孟子义说我是越特写越漂亮",
       "onboard_time": 1688281414,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 572582,
+      "num": 572582,
+      "word": "何洁希望张靓颖越来越好",
+      "onboard_time": 1688742820,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -6523,6 +6563,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 529825,
+      "num": 529825,
+      "word": "在霉霉唱Love Story时求婚",
+      "onboard_time": 1688743835,
+      "rank": 35,
+      "category": "情感,音乐"
+    },
+    {
       "raw_hot": 529612,
       "num": 529612,
       "word": "肖战vs罗云熙破碎感",
@@ -6947,14 +6995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 494773,
-      "num": 494773,
-      "word": "何洁希望张靓颖越来越好",
-      "onboard_time": 1688742820,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 494338,
       "num": 494338,
       "word": "王楚然战损妆",
@@ -7113,6 +7153,14 @@
       "onboard_time": 1688617967,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486799,
+      "num": 372786,
+      "word": "以前感觉晚上九点就很晚了",
+      "onboard_time": 1688745034,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 486702,
@@ -7441,6 +7489,14 @@
       "onboard_time": 1688443962,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 459882,
+      "num": 361649,
+      "word": "宋轶 不夸我是百灵鸟我不唱",
+      "onboard_time": 1688745334,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 459795,
@@ -9323,6 +9379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 357020,
+      "num": 357020,
+      "word": "为什么高铁还没到站就站起来等",
+      "onboard_time": 1688745873,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356639,
       "num": 356639,
       "word": "消失的她实时票房破26亿",
@@ -9825,6 +9889,14 @@
       "onboard_time": 1688636135,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335072,
+      "num": 299591,
+      "word": "家里的狗被牵扯进了诈骗",
+      "onboard_time": 1688745097,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 334852,
@@ -10369,14 +10441,6 @@
       "onboard_time": 1688353774,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 314993,
-      "num": 314993,
-      "word": "在霉霉唱Love Story时求婚",
-      "onboard_time": 1688743835,
-      "rank": 35,
-      "category": "情感,音乐"
     },
     {
       "raw_hot": 314327,
@@ -12467,14 +12531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250736,
-      "num": 250736,
-      "word": "TFBOYS会合体集训",
-      "onboard_time": 1688743721,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250580,
       "num": 250580,
       "word": "女子种地5600亩国企老公辞职支持",
@@ -13473,6 +13529,14 @@
       "onboard_time": 1688398060,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224767,
+      "num": 224767,
+      "word": "吉克隽逸汪苏泷合唱雨爱",
+      "onboard_time": 1688744978,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 224731,
