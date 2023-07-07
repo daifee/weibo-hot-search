@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688769383094,
+  "endTime": 1688771920603,
   "band_list": [
     {
       "raw_hot": 1976757,
@@ -115,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 576348,
+      "num": 576348,
+      "word": "孙红雷 他说的全是我的词啊",
+      "onboard_time": 1688750720,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572582,
       "num": 572582,
       "word": "何洁希望张靓颖越来越好",
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451328,
+      "num": 121341,
+      "word": "宝妈睡觉被1岁娃拍照误发给朋友",
+      "onboard_time": 1688770940,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435071,
       "num": 435071,
       "word": "气象局真的和电影里一模一样",
@@ -235,20 +251,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325552,
+      "num": 325552,
+      "word": "我的人间烟火女主人设",
+      "onboard_time": 1688770940,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321139,
       "num": 321139,
       "word": "苹果的苹还能组什么词",
       "onboard_time": 1688741622,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 318868,
-      "num": 318868,
-      "word": "孙红雷 他说的全是我的词啊",
-      "onboard_time": 1688750720,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 314859,
@@ -297,6 +313,14 @@
       "onboard_time": 1688739223,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254162,
+      "num": 254162,
+      "word": "牵手门董某某被解除劳动合同",
+      "onboard_time": 1688733944,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251716,
@@ -379,6 +403,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 208684,
+      "num": 208684,
+      "word": "为什么现在越来越多人想当老师",
+      "onboard_time": 1688771060,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 205635,
       "num": 205635,
       "word": "白敬亭究竟有多少好妹妹",
@@ -387,20 +419,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199431,
-      "num": 199431,
-      "word": "牵手门董某某被解除劳动合同",
-      "onboard_time": 1688733944,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197805,
       "num": 168974,
       "word": "放在恋爱脑界也是相当炸裂的",
       "onboard_time": 1688748149,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 195381,
+      "num": 121092,
+      "word": "女子无人区遇乞食狼下车投喂",
+      "onboard_time": 1688770999,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180365,
@@ -427,6 +459,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 104185,
+      "num": 97193,
+      "word": "醉酒是少司命亲自教学",
+      "onboard_time": 1688754256,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103809,
       "num": 103809,
       "word": "郭富城拿了大女主剧本吧",
@@ -443,12 +483,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 64423,
-      "num": 64423,
-      "word": "醉酒是少司命亲自教学",
-      "onboard_time": 1688754256,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 76775,
+      "num": 76775,
+      "word": "为什么现在没这种广告了",
+      "onboard_time": 1688771060,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 73005,
+      "num": 73005,
+      "word": "辛追夫人原来是吃货",
+      "onboard_time": 1688769797,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 59735,
@@ -491,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 42361,
+      "num": 582600,
+      "word": "天问一号最新发现",
+      "onboard_time": 1688740668,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41865,
       "num": 50777,
       "word": "韩剧恶鬼",
@@ -520,14 +576,6 @@
       "word": "王冠说热情好客流淌在山东人血液里",
       "onboard_time": 1688758273,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22256,
-      "num": 332171,
-      "word": "天问一号最新发现",
-      "onboard_time": 1688740668,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
