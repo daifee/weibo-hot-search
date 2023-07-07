@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688719069134,
+  "endTime": 1688721563385,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 3531419,
-      "num": 914967,
+      "num": 942017,
       "word": "李玟疑因窒息死亡",
       "onboard_time": 1688707062,
       "rank": 31,
@@ -409,6 +409,14 @@
       "onboard_time": 1688364119,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3207394,
+      "num": 3207394,
+      "word": "小欢喜2",
+      "onboard_time": 1688718696,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 3118420,
@@ -593,6 +601,14 @@
       "onboard_time": 1688449600,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2366157,
+      "num": 977089,
+      "word": "珠宝品牌撤下李玟代言海报",
+      "onboard_time": 1688719293,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2358511,
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 1671883,
-      "num": 265673,
+      "num": 267707,
       "word": "蔡徐坤周边遭粉丝9.9元甩卖",
       "onboard_time": 1688715274,
       "rank": 30,
@@ -1513,6 +1529,14 @@
       "onboard_time": 1688564861,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1307845,
+      "num": 1307845,
+      "word": "原来抽纸是从侧面撕开的",
+      "onboard_time": 1688718514,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1298120,
@@ -2219,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968804,
+      "num": 408031,
+      "word": "丈夫不愿付70元手机维修费扇妻子耳光",
+      "onboard_time": 1688717432,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959444,
       "num": 351464,
       "word": "25岁女网红服大量安眠药自杀",
@@ -2345,14 +2377,6 @@
       "onboard_time": 1688703761,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 916485,
-      "num": 408031,
-      "word": "丈夫不愿付70元手机维修费扇妻子耳光",
-      "onboard_time": 1688717432,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 915791,
@@ -2572,7 +2596,7 @@
     },
     {
       "raw_hot": 855645,
-      "num": 485721,
+      "num": 530631,
       "word": "宋轶鸡哔你",
       "onboard_time": 1688712455,
       "rank": 15,
@@ -2585,14 +2609,6 @@
       "onboard_time": 1688626715,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 850412,
-      "num": 850412,
-      "word": "小欢喜2",
-      "onboard_time": 1688718696,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 849231,
@@ -2699,6 +2715,14 @@
       "category": "影视,美妆"
     },
     {
+      "raw_hot": 833489,
+      "num": 833489,
+      "word": "杨紫万茜李晟你们怎么还整过这出",
+      "onboard_time": 1688718873,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 833412,
       "num": 833412,
       "word": "FoFo",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1688468135,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 831162,
+      "num": 831162,
+      "word": "EDG战胜LGD",
+      "onboard_time": 1688719776,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 831111,
@@ -2785,6 +2817,14 @@
       "onboard_time": 1688521830,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 815004,
+      "num": 815004,
+      "word": "朱一龙一番票房突破50亿",
+      "onboard_time": 1688718273,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 812502,
@@ -2897,6 +2937,14 @@
       "onboard_time": 1688516011,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 786211,
+      "num": 264824,
+      "word": "关于我被厦门公安带走这件事",
+      "onboard_time": 1688719535,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 783629,
@@ -3233,6 +3281,14 @@
       "onboard_time": 1688605840,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 723355,
+      "num": 723355,
+      "word": "小欢喜2可以原班人马吗",
+      "onboard_time": 1688719714,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 720721,
@@ -3905,14 +3961,6 @@
       "onboard_time": 1688467058,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 607784,
-      "num": 607784,
-      "word": "朱一龙一番票房突破50亿",
-      "onboard_time": 1688718273,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 607720,
@@ -5027,14 +5075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459166,
-      "num": 459166,
-      "word": "原来抽纸是从侧面撕开的",
-      "onboard_time": 1688718514,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 459096,
       "num": 355093,
       "word": "太原万象城",
@@ -5939,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375969,
+      "num": 298264,
+      "word": "突然发现发小是富二代",
+      "onboard_time": 1688718873,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 375273,
       "num": 375273,
       "word": "LPL官方回应推迟开票",
@@ -6587,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334769,
+      "num": 295727,
+      "word": "毕业一年爸爸突然找我借五千块",
+      "onboard_time": 1688718634,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 334443,
       "num": 296423,
       "word": "林俊杰直播",
@@ -6995,6 +7051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312650,
+      "num": 263053,
+      "word": "不要谈久了就省略很多东西",
+      "onboard_time": 1688719416,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312338,
       "num": 291109,
       "word": "曾少年是ceng还是zeng",
@@ -7009,6 +7073,14 @@
       "onboard_time": 1688323754,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312087,
+      "num": 261673,
+      "word": "妻子坐月子丈夫门口贴亲朋进门须知",
+      "onboard_time": 1688720976,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311364,
@@ -7409,6 +7481,14 @@
       "onboard_time": 1688383542,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 289741,
+      "num": 289741,
+      "word": "长肥胖纹是有预兆的",
+      "onboard_time": 1688721215,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 289582,
@@ -7955,6 +8035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260907,
+      "num": 260907,
+      "word": "避免做伤害大脑的这3件事",
+      "onboard_time": 1688717015,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260882,
       "num": 206812,
       "word": "餐馆回应数只小猫被员工烫死",
@@ -8057,14 +8145,6 @@
       "onboard_time": 1688558792,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256883,
-      "num": 256883,
-      "word": "杨紫万茜李晟你们怎么还整过这出",
-      "onboard_time": 1688718873,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 256610,
@@ -8217,14 +8297,6 @@
       "onboard_time": 1688545832,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 252896,
-      "num": 252896,
-      "word": "突然发现发小是富二代",
-      "onboard_time": 1688718873,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 252878,
@@ -8539,6 +8611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 239233,
+      "num": 239233,
+      "word": "小狗的热情终究是错付了",
+      "onboard_time": 1688721155,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 239109,
       "num": 265444,
       "word": "光与夜之恋",
@@ -8769,6 +8849,14 @@
       "onboard_time": 1688661806,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228633,
+      "num": 228633,
+      "word": "五月天深圳演唱会",
+      "onboard_time": 1688718992,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 228552,
@@ -9201,14 +9289,6 @@
       "onboard_time": 1688362709,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213839,
-      "num": 213839,
-      "word": "毕业一年爸爸突然找我借五千块",
-      "onboard_time": 1688718634,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 213655,
@@ -9715,14 +9795,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 199328,
-      "num": 199328,
-      "word": "避免做伤害大脑的这3件事",
-      "onboard_time": 1688717015,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199057,
       "num": 199057,
       "word": "纵观整个泼水节无人敢与之抗衡",
@@ -9753,6 +9825,14 @@
       "onboard_time": 1688364657,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198343,
+      "num": 198343,
+      "word": "上班没事干才是最累的",
+      "onboard_time": 1688720976,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 198193,
@@ -9977,6 +10057,14 @@
       "onboard_time": 1688602120,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192514,
+      "num": 192514,
+      "word": "因为没去聚餐被踢出公司群了",
+      "onboard_time": 1688721454,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 192505,
@@ -10251,14 +10339,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 182657,
-      "num": 182657,
-      "word": "五月天深圳演唱会",
-      "onboard_time": 1688718992,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 182505,
       "num": 291047,
       "word": "性教育第四季预告",
@@ -10505,6 +10585,14 @@
       "onboard_time": 1688407577,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 175492,
+      "num": 175492,
+      "word": "同事说我把别人的萝卜岗占了",
+      "onboard_time": 1688721336,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 175382,
@@ -11992,6 +12080,14 @@
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23920,
+      "num": 986918,
+      "word": "一眼千年看东方之美的绵延",
+      "onboard_time": 1688721155,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

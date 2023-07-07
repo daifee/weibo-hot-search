@@ -1,0 +1,410 @@
+{
+  "runTime": 1688721563385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3207394,
+        "num": 3207394,
+        "word": "小欢喜2",
+        "onboard_time": 1688718696,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1307845,
+        "num": 1307845,
+        "word": "原来抽纸是从侧面撕开的",
+        "onboard_time": 1688718514,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23920,
+        "num": 986918,
+        "word": "一眼千年看东方之美的绵延",
+        "onboard_time": 1688721155,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2366157,
+        "num": 977089,
+        "word": "珠宝品牌撤下李玟代言海报",
+        "onboard_time": 1688719293,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1943082,
+        "num": 942017,
+        "word": "李玟疑因窒息死亡",
+        "onboard_time": 1688707062,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833489,
+        "num": 833489,
+        "word": "杨紫万茜李晟你们怎么还整过这出",
+        "onboard_time": 1688718873,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 831162,
+        "num": 831162,
+        "word": "EDG战胜LGD",
+        "onboard_time": 1688719776,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 815004,
+        "num": 815004,
+        "word": "朱一龙一番票房突破50亿",
+        "onboard_time": 1688718273,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 723355,
+        "num": 723355,
+        "word": "小欢喜2可以原班人马吗",
+        "onboard_time": 1688719714,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535483,
+        "num": 535483,
+        "word": "西安人被正式确诊为沈眉庄",
+        "onboard_time": 1688706224,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1296011,
+        "num": 533502,
+        "word": "Melody离婚",
+        "onboard_time": 1688704603,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621311,
+        "num": 532269,
+        "word": "宋妍霏工作室 有道理个屁",
+        "onboard_time": 1688710719,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 530631,
+        "num": 530631,
+        "word": "宋轶鸡哔你",
+        "onboard_time": 1688712455,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487255,
+        "num": 487255,
+        "word": "2岁女孩遇车祸交警喊来妻子哄娃",
+        "onboard_time": 1688712815,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441637,
+        "num": 441637,
+        "word": "中国禁止进口日本福岛等十地食品",
+        "onboard_time": 1688700932,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474944,
+        "num": 440226,
+        "word": "六公主说但他可是周深啊",
+        "onboard_time": 1688710359,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427088,
+        "num": 427088,
+        "word": "专升本和事业编同时上岸选哪个",
+        "onboard_time": 1688703761,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426645,
+        "num": 426645,
+        "word": "奔跑的安慕希",
+        "onboard_time": 1688713178,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347809,
+        "num": 347809,
+        "word": "吃完的荔枝核不要扔",
+        "onboard_time": 1688707192,
+        "rank": 18,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 305982,
+        "num": 305982,
+        "word": "老板知道我要离职不断给我加工作",
+        "onboard_time": 1688710959,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 968804,
+        "num": 304046,
+        "word": "丈夫不愿付70元手机维修费扇妻子耳光",
+        "onboard_time": 1688717432,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419251,
+        "num": 302104,
+        "word": "FoFo",
+        "onboard_time": 1688712216,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 403237,
+        "num": 301245,
+        "word": "确诊糖尿病后被女朋友分手了",
+        "onboard_time": 1688713415,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375969,
+        "num": 298264,
+        "word": "突然发现发小是富二代",
+        "onboard_time": 1688718873,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334769,
+        "num": 295727,
+        "word": "毕业一年爸爸突然找我借五千块",
+        "onboard_time": 1688718634,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319835,
+        "num": 293172,
+        "word": "李玟二姐称近一周发现李玟不对劲",
+        "onboard_time": 1688702438,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292908,
+        "num": 292908,
+        "word": "肖战谈任敏角色",
+        "onboard_time": 1688714196,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289741,
+        "num": 289741,
+        "word": "长肥胖纹是有预兆的",
+        "onboard_time": 1688721215,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272022,
+        "num": 272022,
+        "word": "A股",
+        "onboard_time": 1688716594,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267780,
+        "num": 267780,
+        "word": "芝芙杀疯了",
+        "onboard_time": 1688712273,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1470278,
+        "num": 267707,
+        "word": "蔡徐坤周边遭粉丝9.9元甩卖",
+        "onboard_time": 1688715274,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786211,
+        "num": 264824,
+        "word": "关于我被厦门公安带走这件事",
+        "onboard_time": 1688719535,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312650,
+        "num": 263053,
+        "word": "不要谈久了就省略很多东西",
+        "onboard_time": 1688719416,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312087,
+        "num": 261673,
+        "word": "妻子坐月子丈夫门口贴亲朋进门须知",
+        "onboard_time": 1688720976,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260907,
+        "num": 260907,
+        "word": "避免做伤害大脑的这3件事",
+        "onboard_time": 1688717015,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246845,
+        "num": 246845,
+        "word": "我在航班上冒犯了一位高僧",
+        "onboard_time": 1688702319,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239233,
+        "num": 239233,
+        "word": "小狗的热情终究是错付了",
+        "onboard_time": 1688721155,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 228633,
+        "num": 228633,
+        "word": "五月天深圳演唱会",
+        "onboard_time": 1688718992,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136758,
+        "num": 216196,
+        "word": "七七事变爆发86周年",
+        "onboard_time": 1688718755,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207933,
+        "num": 207933,
+        "word": "LPL",
+        "onboard_time": 1688720017,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198343,
+        "num": 198343,
+        "word": "上班没事干才是最累的",
+        "onboard_time": 1688720976,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 197830,
+        "num": 197830,
+        "word": "新疆库木塔格沙漠海市蜃楼奇观",
+        "onboard_time": 1688714499,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192514,
+        "num": 192514,
+        "word": "因为没去聚餐被踢出公司群了",
+        "onboard_time": 1688721454,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184792,
+        "num": 184792,
+        "word": "内娱绝交大全",
+        "onboard_time": 1688709699,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 308339,
+        "num": 184720,
+        "word": "gap day是怎么流行起来的",
+        "onboard_time": 1688713715,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181291,
+        "num": 181291,
+        "word": "Melody老公",
+        "onboard_time": 1688709035,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178828,
+        "num": 178828,
+        "word": "后浪豆瓣开分3.9",
+        "onboard_time": 1688708200,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175492,
+        "num": 175492,
+        "word": "同事说我把别人的萝卜岗占了",
+        "onboard_time": 1688721336,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174157,
+        "num": 174157,
+        "word": "陈鲁豫全英文主持",
+        "onboard_time": 1688709276,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168459,
+        "num": 168459,
+        "word": "瑞幸一门店有门框无玻璃顾客尴尬进出",
+        "onboard_time": 1688716234,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江苏南京考察调研#"
+    }
+  }
+}

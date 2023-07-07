@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688719069134,
+  "endTime": 1688721563385,
   "band_list": [
     {
       "raw_hot": 4679821,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3531419,
-      "num": 914967,
+      "num": 942017,
       "word": "李玟疑因窒息死亡",
       "onboard_time": 1688707062,
       "rank": 31,
@@ -27,12 +27,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 3207394,
+      "num": 3207394,
+      "word": "小欢喜2",
+      "onboard_time": 1688718696,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3022301,
       "num": 3022301,
       "word": "原来骑手知道我在看配送进度",
       "onboard_time": 1688693733,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2366157,
+      "num": 977089,
+      "word": "珠宝品牌撤下李玟代言海报",
+      "onboard_time": 1688719293,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2230634,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1671883,
-      "num": 265673,
+      "num": 267707,
       "word": "蔡徐坤周边遭粉丝9.9元甩卖",
       "onboard_time": 1688715274,
       "rank": 30,
@@ -201,6 +217,14 @@
       "onboard_time": 1688651496,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1307845,
+      "num": 1307845,
+      "word": "原来抽纸是从侧面撕开的",
+      "onboard_time": 1688718514,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1257102,
@@ -275,6 +299,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 968804,
+      "num": 408031,
+      "word": "丈夫不愿付70元手机维修费扇妻子耳光",
+      "onboard_time": 1688717432,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 937489,
       "num": 500116,
       "word": "家人把15万珠宝当垃圾丢掉还被人给捡了",
@@ -289,14 +321,6 @@
       "onboard_time": 1688703761,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 916485,
-      "num": 408031,
-      "word": "丈夫不愿付70元手机维修费扇妻子耳光",
-      "onboard_time": 1688717432,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 902167,
@@ -324,18 +348,10 @@
     },
     {
       "raw_hot": 855645,
-      "num": 485721,
+      "num": 530631,
       "word": "宋轶鸡哔你",
       "onboard_time": 1688712455,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 850412,
-      "num": 850412,
-      "word": "小欢喜2",
-      "onboard_time": 1688718696,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -363,11 +379,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 833489,
+      "num": 833489,
+      "word": "杨紫万茜李晟你们怎么还整过这出",
+      "onboard_time": 1688718873,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 833412,
       "num": 833412,
       "word": "FoFo",
       "onboard_time": 1688712216,
       "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 831162,
+      "num": 831162,
+      "word": "EDG战胜LGD",
+      "onboard_time": 1688719776,
+      "rank": 6,
       "category": "游戏"
     },
     {
@@ -387,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 815004,
+      "num": 815004,
+      "word": "朱一龙一番票房突破50亿",
+      "onboard_time": 1688718273,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 812502,
       "num": 458405,
       "word": "女孩被蛇咬伤奶奶抓蜘蛛吸毒",
       "onboard_time": 1688705025,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786211,
+      "num": 264824,
+      "word": "关于我被厦门公安带走这件事",
+      "onboard_time": 1688719535,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 777711,
@@ -449,6 +497,14 @@
       "onboard_time": 1688699309,
       "rank": 44,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 723355,
+      "num": 723355,
+      "word": "小欢喜2可以原班人马吗",
+      "onboard_time": 1688719714,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 719323,
@@ -585,14 +641,6 @@
       "onboard_time": 1688693492,
       "rank": 23,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 607784,
-      "num": 607784,
-      "word": "朱一龙一番票房突破50亿",
-      "onboard_time": 1688718273,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 601948,
@@ -819,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 459166,
-      "num": 459166,
-      "word": "原来抽纸是从侧面撕开的",
-      "onboard_time": 1688718514,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 457866,
       "num": 228956,
       "word": "小暑",
@@ -995,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375969,
+      "num": 298264,
+      "word": "突然发现发小是富二代",
+      "onboard_time": 1688718873,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374458,
       "num": 374458,
       "word": "安乐传",
@@ -1091,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334769,
+      "num": 295727,
+      "word": "毕业一年爸爸突然找我借五千块",
+      "onboard_time": 1688718634,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328328,
       "num": 328328,
       "word": "TF一代二代三代暑假都有演唱会",
@@ -1155,6 +1211,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312650,
+      "num": 263053,
+      "word": "不要谈久了就省略很多东西",
+      "onboard_time": 1688719416,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 312087,
+      "num": 261673,
+      "word": "妻子坐月子丈夫门口贴亲朋进门须知",
+      "onboard_time": 1688720976,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311364,
       "num": 311364,
       "word": "李飞不浪费一点版权费",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1688707541,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 289741,
+      "num": 289741,
+      "word": "长肥胖纹是有预兆的",
+      "onboard_time": 1688721215,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 289582,
@@ -1283,12 +1363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256883,
-      "num": 256883,
-      "word": "杨紫万茜李晟你们怎么还整过这出",
-      "onboard_time": 1688718873,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 260907,
+      "num": 260907,
+      "word": "避免做伤害大脑的这3件事",
+      "onboard_time": 1688717015,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 256381,
@@ -1313,14 +1393,6 @@
       "onboard_time": 1688687731,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252896,
-      "num": 252896,
-      "word": "突然发现发小是富二代",
-      "onboard_time": 1688718873,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 251997,
@@ -1387,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239233,
+      "num": 239233,
+      "word": "小狗的热情终究是错付了",
+      "onboard_time": 1688721155,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 238746,
       "num": 238746,
       "word": "陈哲远不看会后悔",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1688661806,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228633,
+      "num": 228633,
+      "word": "五月天深圳演唱会",
+      "onboard_time": 1688718992,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 228552,
@@ -1491,14 +1579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213839,
-      "num": 213839,
-      "word": "毕业一年爸爸突然找我借五千块",
-      "onboard_time": 1688718634,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 213655,
       "num": 213655,
       "word": "被51个00后的坚持戳到了",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1688655759,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207933,
+      "num": 207933,
+      "word": "LPL",
+      "onboard_time": 1688720017,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 207582,
@@ -1563,12 +1651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199328,
-      "num": 199328,
-      "word": "避免做伤害大脑的这3件事",
-      "onboard_time": 1688717015,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 198343,
+      "num": 198343,
+      "word": "上班没事干才是最累的",
+      "onboard_time": 1688720976,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 195666,
@@ -1584,6 +1672,14 @@
       "word": "以前很抗拒后来真香",
       "onboard_time": 1688714559,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 192514,
+      "num": 192514,
+      "word": "因为没去聚餐被踢出公司群了",
+      "onboard_time": 1688721454,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -1627,14 +1723,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 182657,
-      "num": 182657,
-      "word": "五月天深圳演唱会",
-      "onboard_time": 1688718992,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 178407,
       "num": 178407,
       "word": "警戒无良商人利用李玟诈骗",
@@ -1665,6 +1753,14 @@
       "onboard_time": 1688687551,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175492,
+      "num": 175492,
+      "word": "同事说我把别人的萝卜岗占了",
+      "onboard_time": 1688721336,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 174323,
@@ -1961,6 +2057,14 @@
       "onboard_time": 1688668394,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 23920,
+      "num": 986918,
+      "word": "一眼千年看东方之美的绵延",
+      "onboard_time": 1688721155,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
