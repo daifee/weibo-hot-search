@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688722445901,
+  "endTime": 1688725250951,
   "band_list": [
     {
       "raw_hot": 4679821,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2513357,
-      "num": 977089,
+      "num": 1823368,
       "word": "珠宝品牌撤下李玟代言海报",
       "onboard_time": 1688719293,
       "rank": 3,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1671883,
-      "num": 267707,
+      "num": 281716,
       "word": "蔡徐坤周边遭粉丝9.9元甩卖",
       "onboard_time": 1688715274,
       "rank": 30,
@@ -177,6 +177,14 @@
       "onboard_time": 1688706224,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1467484,
+      "num": 624995,
+      "word": "关于我被厦门公安带走这件事",
+      "onboard_time": 1688719535,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1416215,
@@ -395,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 832258,
+      "num": 832258,
+      "word": "长肥胖纹是有预兆的",
+      "onboard_time": 1688721215,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 831162,
       "num": 831162,
       "word": "EDG战胜LGD",
@@ -427,28 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 812652,
-      "num": 722858,
-      "word": "长肥胖纹是有预兆的",
-      "onboard_time": 1688721215,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 812502,
       "num": 458405,
       "word": "女孩被蛇咬伤奶奶抓蜘蛛吸毒",
       "onboard_time": 1688705025,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786211,
-      "num": 624995,
-      "word": "关于我被厦门公安带走这件事",
-      "onboard_time": 1688719535,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 777711,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 719323,
-      "num": 719323,
+      "num": 1846938,
       "word": "2岁女孩遇车祸交警喊来妻子哄娃",
       "onboard_time": 1688712815,
       "rank": 24,
@@ -643,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613846,
+      "num": 613846,
+      "word": "知乎宣布将下线匿名功能",
+      "onboard_time": 1688724154,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 610616,
       "num": 610616,
       "word": "徐志胜很难证明自己的身份",
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 581936,
-      "num": 264847,
+      "num": 349783,
       "word": "妻子坐月子丈夫门口贴亲朋进门须知",
       "onboard_time": 1688720976,
       "rank": 33,
@@ -761,6 +769,22 @@
       "onboard_time": 1688688514,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 534838,
+      "num": 534838,
+      "word": "柠萌影视否认将拍小欢喜2",
+      "onboard_time": 1688724750,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 520159,
+      "num": 520159,
+      "word": "电梯的镜子原来这么有用",
+      "onboard_time": 1688721396,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 512455,
@@ -1011,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404847,
+      "num": 340849,
+      "word": "在理发店存3万和5千的区别",
+      "onboard_time": 1688723852,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 402146,
       "num": 402146,
       "word": "这还是刘雅瑟吗",
@@ -1163,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339865,
+      "num": 339865,
+      "word": "露思型甜妹",
+      "onboard_time": 1688722114,
+      "rank": 40,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 328328,
       "num": 328328,
       "word": "TF一代二代三代暑假都有演唱会",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1688710476,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325000,
+      "num": 891889,
+      "word": "新疆库木塔格沙漠海市蜃楼奇观",
+      "onboard_time": 1688714499,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320052,
@@ -1243,12 +1291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310008,
+      "num": 310008,
+      "word": "小狗的热情终究是错付了",
+      "onboard_time": 1688721155,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 305635,
       "num": 305635,
       "word": "speak now",
       "onboard_time": 1688704362,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301745,
+      "num": 808663,
+      "word": "被新疆交警的叮嘱暖到了",
+      "onboard_time": 1688723432,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296694,
@@ -1275,6 +1339,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 289630,
+      "num": 289630,
+      "word": "上班没事干才是最累的",
+      "onboard_time": 1688720976,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 289582,
       "num": 289582,
       "word": "赵露思ins粉丝数破百万",
@@ -1291,12 +1363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283915,
+      "num": 283915,
+      "word": "你觉得女性为什么要经济独立",
+      "onboard_time": 1688722353,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281353,
       "num": 281353,
       "word": "第一次去青海西藏的一定要看完",
       "onboard_time": 1688657976,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 276365,
+      "num": 276365,
+      "word": "薛之谦合肥",
+      "onboard_time": 1688724992,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 276037,
@@ -1331,19 +1419,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271690,
+      "num": 251417,
+      "word": "薛之谦8月鸟巢三场连开",
+      "onboard_time": 1688724933,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271640,
       "num": 271640,
       "word": "存钱是真的会上瘾",
       "onboard_time": 1688691578,
       "rank": 28,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 269847,
-      "num": 269847,
-      "word": "电梯的镜子原来这么有用",
-      "onboard_time": 1688721396,
-      "rank": 27,
       "category": "幽默"
     },
     {
@@ -1387,14 +1475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259350,
-      "num": 259350,
-      "word": "上班没事干才是最累的",
-      "onboard_time": 1688720976,
-      "rank": 40,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 256381,
       "num": 256381,
       "word": "第一次见长得像海胆的小猫",
@@ -1435,20 +1515,20 @@
       "category": "情感,音乐"
     },
     {
+      "raw_hot": 250748,
+      "num": 250748,
+      "word": "高铁侠",
+      "onboard_time": 1688724392,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247852,
       "num": 247852,
       "word": "李沁看秀生图",
       "onboard_time": 1688693135,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 245605,
-      "num": 255408,
-      "word": "新疆库木塔格沙漠海市蜃楼奇观",
-      "onboard_time": 1688714499,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244216,
@@ -1481,14 +1561,6 @@
       "onboard_time": 1688689176,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239233,
-      "num": 239233,
-      "word": "小狗的热情终究是错付了",
-      "onboard_time": 1688721155,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 238746,
@@ -1555,20 +1627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224009,
+      "num": 224009,
+      "word": "AI只会导致一代人失业",
+      "onboard_time": 1688722114,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221845,
-      "num": 787919,
+      "num": 1830056,
       "word": "七七事变爆发86周年",
       "onboard_time": 1688718755,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219016,
-      "num": 219016,
-      "word": "露思型甜妹",
-      "onboard_time": 1688722114,
+      "raw_hot": 219847,
+      "num": 219847,
+      "word": "柳玉茹沉默回应洛子商仰慕",
+      "onboard_time": 1688723972,
       "rank": 40,
-      "category": "影视,时尚"
+      "category": "影视"
     },
     {
       "raw_hot": 218833,
@@ -1675,14 +1755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200919,
-      "num": 200919,
-      "word": "AI只会导致一代人失业",
-      "onboard_time": 1688722114,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200438,
       "num": 200438,
       "word": "关晓彤扛剧能力",
@@ -1705,6 +1777,14 @@
       "onboard_time": 1688698774,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194590,
+      "num": 194590,
+      "word": "WBG对战UP",
+      "onboard_time": 1688724454,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 193119,
@@ -1755,20 +1835,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 178794,
-      "num": 178794,
-      "word": "你觉得女性为什么要经济独立",
-      "onboard_time": 1688722353,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178407,
       "num": 178407,
       "word": "警戒无良商人利用李玟诈骗",
       "onboard_time": 1688698710,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178162,
+      "num": 178162,
+      "word": "梁靖崑钱天一3比1林高远王艺迪",
+      "onboard_time": 1688724031,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 177750,
@@ -1785,6 +1865,14 @@
       "onboard_time": 1688686046,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177423,
+      "num": 177423,
+      "word": "品牌回应撤下李玟代言海报",
+      "onboard_time": 1688723312,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 176657,
