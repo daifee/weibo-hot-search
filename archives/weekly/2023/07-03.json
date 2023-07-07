@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688701274540,
+  "endTime": 1688703787794,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1035,6 +1035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1696163,
+      "num": 1495349,
+      "word": "王嘉尔茅台对瓶吹",
+      "onboard_time": 1688701716,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1693557,
       "num": 1693557,
       "word": "杭州女子买彩票误打误撞中了一千万",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1688569682,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1589443,
+      "num": 1589443,
+      "word": "体制内食堂让我有了考公动力",
+      "onboard_time": 1688701716,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1561314,
@@ -1185,6 +1201,14 @@
       "onboard_time": 1688566616,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1472550,
+      "num": 1472550,
+      "word": "中国禁止进口日本福岛等十地食品",
+      "onboard_time": 1688700932,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1470492,
@@ -1907,12 +1931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047489,
+      "num": 626109,
+      "word": "现实版孤儿怨",
+      "onboard_time": 1688700695,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1043895,
       "num": 1043895,
       "word": "原来银行并不是五点下班",
       "onboard_time": 1688516255,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1042401,
+      "num": 613445,
+      "word": "李玟二姐称近一周发现李玟不对劲",
+      "onboard_time": 1688702438,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1042081,
@@ -2892,7 +2932,7 @@
     },
     {
       "raw_hot": 737376,
-      "num": 667266,
+      "num": 726606,
       "word": "布兰妮希望NBA状元公开道歉",
       "onboard_time": 1688699309,
       "rank": 44,
@@ -3001,6 +3041,14 @@
       "onboard_time": 1688572432,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 716242,
+      "num": 330689,
+      "word": "我在航班上冒犯了一位高僧",
+      "onboard_time": 1688702319,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 714481,
@@ -3321,6 +3369,14 @@
       "onboard_time": 1688698113,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 662696,
+      "num": 662696,
+      "word": "趁弟弟不注意把他的暑假作业写完",
+      "onboard_time": 1688700273,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 662489,
@@ -3819,6 +3875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568307,
+      "num": 568307,
+      "word": "杨紫琼发文悼念李玟",
+      "onboard_time": 1688701054,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568284,
       "num": 411732,
       "word": "蔡依林 永远记得灿烂笑容的你",
@@ -4043,6 +4107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 540720,
+      "num": 437078,
+      "word": "突然多了一个相差20岁的弟弟",
+      "onboard_time": 1688701233,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 536673,
       "num": 536673,
       "word": "这就是热恋期的小情侣吗",
@@ -4161,6 +4233,14 @@
       "onboard_time": 1688541756,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520295,
+      "num": 324559,
+      "word": "被蚊子吸走了我的淤血",
+      "onboard_time": 1688702857,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 517956,
@@ -4633,6 +4713,14 @@
       "onboard_time": 1688389418,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459172,
+      "num": 459172,
+      "word": "教授称有花百万留学回来月薪5000",
+      "onboard_time": 1688701957,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 459096,
@@ -5651,6 +5739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361885,
+      "num": 361885,
+      "word": "和公婆同住是什么体验",
+      "onboard_time": 1688701356,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361642,
       "num": 361642,
       "word": "黄明昊的顾里梗让杨幂沉默",
@@ -5841,14 +5937,6 @@
       "onboard_time": 1688467418,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 345959,
-      "num": 345959,
-      "word": "趁弟弟不注意把他的暑假作业写完",
-      "onboard_time": 1688700273,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 345417,
@@ -6459,6 +6547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311206,
+      "num": 311206,
+      "word": "黑色外卖勺子",
+      "onboard_time": 1688702977,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310455,
       "num": 310455,
       "word": "女生称求职因是上海人2天被拒3次",
@@ -6505,14 +6601,6 @@
       "onboard_time": 1688513425,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308816,
-      "num": 308816,
-      "word": "现实版孤儿怨",
-      "onboard_time": 1688700695,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 308773,
@@ -6955,6 +7043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282509,
+      "num": 282509,
+      "word": "国产剧你真的别太过分",
+      "onboard_time": 1688703037,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281919,
       "num": 281919,
       "word": "期末考试限定皮肤",
@@ -6993,6 +7089,14 @@
       "onboard_time": 1688393504,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280256,
+      "num": 280256,
+      "word": "王楚然魏大勋cp感",
+      "onboard_time": 1688702977,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 280203,
@@ -7691,6 +7795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248607,
+      "num": 248607,
+      "word": "专升本和事业编同时上岸选哪个",
+      "onboard_time": 1688703761,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247852,
       "num": 247852,
       "word": "李沁看秀生图",
@@ -7947,14 +8059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236845,
-      "num": 236845,
-      "word": "杨紫琼发文悼念李玟",
-      "onboard_time": 1688701054,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236725,
       "num": 236725,
       "word": "分手时送前任一束有眼无珠",
@@ -8035,6 +8139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232993,
+      "num": 232993,
+      "word": "王一博大鹏杜华聚会",
+      "onboard_time": 1688703638,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232727,
       "num": 232727,
       "word": "kms",
@@ -8065,14 +8177,6 @@
       "onboard_time": 1688358378,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 229844,
-      "num": 229844,
-      "word": "突然多了一个相差20岁的弟弟",
-      "onboard_time": 1688701233,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 229442,
@@ -8179,12 +8283,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227025,
+      "num": 227025,
+      "word": "港媒曝郑欣宜患抑郁症",
+      "onboard_time": 1688703761,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225651,
       "num": 225651,
       "word": "成都蓉城",
       "onboard_time": 1688392183,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225514,
+      "num": 225514,
+      "word": "李东海看海底捞甩面师傅甩面的反应",
+      "onboard_time": 1688700632,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 225401,
@@ -8299,14 +8419,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 223425,
-      "num": 223425,
-      "word": "李东海看海底捞甩面师傅甩面的反应",
-      "onboard_time": 1688700632,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223300,
       "num": 350585,
       "word": "新疆导游小祁的团期排到了10月份",
@@ -8345,14 +8457,6 @@
       "onboard_time": 1688455654,
       "rank": 42,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 222091,
-      "num": 222091,
-      "word": "中国禁止进口日本福岛等十地食品",
-      "onboard_time": 1688700932,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221437,
@@ -11060,7 +11164,7 @@
     },
     {
       "raw_hot": 68667,
-      "num": 1232360,
+      "num": 1497399,
       "word": "高温下坚守的人",
       "onboard_time": 1688648558,
       "rank": 2,
@@ -11281,6 +11385,14 @@
       "onboard_time": 1688500931,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15384,
+      "num": 585288,
+      "word": "这些名字曾被炮火蒙尘",
+      "onboard_time": 1688703278,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11977,
