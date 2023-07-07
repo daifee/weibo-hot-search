@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688750217707,
+  "endTime": 1688751275661,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -17001,6 +17001,14 @@
       "onboard_time": 1688216013,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134236,
+      "num": 134236,
+      "word": "孙红雷 他说的全是我的词啊",
+      "onboard_time": 1688750720,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 134106,
