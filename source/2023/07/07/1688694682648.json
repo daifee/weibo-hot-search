@@ -1,0 +1,410 @@
+{
+  "runTime": 1688694682648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1816444,
+        "num": 1816444,
+        "word": "美国新型毒品泛滥吸食者如丧尸围城",
+        "onboard_time": 1688687670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364655,
+        "num": 1364655,
+        "word": "老公居然登报庆祝我裸辞",
+        "onboard_time": 1688687792,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62382,
+        "num": 766506,
+        "word": "高温下坚守的人",
+        "onboard_time": 1688648558,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1880704,
+        "num": 749058,
+        "word": "李玟姐姐呼吁大家不要作任何揣测",
+        "onboard_time": 1688692715,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725929,
+        "num": 725929,
+        "word": "杭州男子卖掉三套房换别墅刚到手就后悔",
+        "onboard_time": 1688656956,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720980,
+        "num": 720980,
+        "word": "奔跑吧",
+        "onboard_time": 1688693852,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673261,
+        "num": 673261,
+        "word": "底薪6K的外贸笔试题",
+        "onboard_time": 1688690617,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 587138,
+        "num": 587138,
+        "word": "smlz解释FoFo评价",
+        "onboard_time": 1688690918,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 536594,
+        "num": 536594,
+        "word": "因为上厕所错过了拍毕业照",
+        "onboard_time": 1688688514,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 512455,
+        "num": 512455,
+        "word": "EDG更换主教练",
+        "onboard_time": 1688687731,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1844383,
+        "num": 512374,
+        "word": "叶舒华 烧给你",
+        "onboard_time": 1688687368,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849231,
+        "num": 509260,
+        "word": "布兰妮被文班亚马保镖掌掴",
+        "onboard_time": 1688690494,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 774136,
+        "num": 508972,
+        "word": "杨洋评论区好多迪丽热巴照片",
+        "onboard_time": 1688692118,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 666567,
+        "num": 506808,
+        "word": "李艾 这不是她的错她需要帮助",
+        "onboard_time": 1688689836,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545427,
+        "num": 505301,
+        "word": "迪丽热巴ins点赞",
+        "onboard_time": 1688688212,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503838,
+        "num": 503838,
+        "word": "酒店为什么会免费升房",
+        "onboard_time": 1688690617,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497756,
+        "num": 497756,
+        "word": "谁家的哈基米时影丢了",
+        "onboard_time": 1688689359,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460262,
+        "num": 460262,
+        "word": "我姓彭 土豆丝彭",
+        "onboard_time": 1688655638,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452763,
+        "num": 452763,
+        "word": "李玟22年前在杭州珍贵影像",
+        "onboard_time": 1688686228,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371367,
+        "num": 445607,
+        "word": "学校要求教师不要晒暑假旅游照片",
+        "onboard_time": 1688651496,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1845198,
+        "num": 444092,
+        "word": "月薪4.2万的offer被我拒绝了",
+        "onboard_time": 1688690675,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 495016,
+        "num": 443620,
+        "word": "你现在收入存够50万要多久",
+        "onboard_time": 1688691518,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442485,
+        "num": 442485,
+        "word": "原来这些水果都自带解药",
+        "onboard_time": 1688690617,
+        "rank": 22,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 441649,
+        "num": 441649,
+        "word": "徐志胜很难证明自己的身份",
+        "onboard_time": 1688693492,
+        "rank": 23,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 405874,
+        "num": 405874,
+        "word": "难哄或在接触宋威龙张予曦",
+        "onboard_time": 1688692534,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358051,
+        "num": 358051,
+        "word": "帮韩国室友抓蟑螂收到的礼物",
+        "onboard_time": 1688693195,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339817,
+        "num": 339817,
+        "word": "女子产后抑郁将孩子从天桥抛下",
+        "onboard_time": 1688655938,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276480,
+        "num": 276480,
+        "word": "原来骑手知道我在看配送进度",
+        "onboard_time": 1688693733,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271640,
+        "num": 271640,
+        "word": "存钱是真的会上瘾",
+        "onboard_time": 1688691578,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262402,
+        "num": 262402,
+        "word": "女婴出生第一天喝了过期奶粉",
+        "onboard_time": 1688659469,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251080,
+        "num": 251080,
+        "word": "玲花把麦给我我来唱",
+        "onboard_time": 1688692355,
+        "rank": 30,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 249809,
+        "num": 249809,
+        "word": "八角笼中票房",
+        "onboard_time": 1688652038,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247852,
+        "num": 247852,
+        "word": "李沁看秀生图",
+        "onboard_time": 1688693135,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 241561,
+        "num": 241561,
+        "word": "汉字在外国人眼里是什么样的",
+        "onboard_time": 1688689176,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236072,
+        "num": 236072,
+        "word": "李玟妈妈目前不吃不睡",
+        "onboard_time": 1688649035,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227875,
+        "num": 227875,
+        "word": "肖战任敏新剧立意",
+        "onboard_time": 1688691636,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213655,
+        "num": 213655,
+        "word": "被51个00后的坚持戳到了",
+        "onboard_time": 1688691456,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205699,
+        "num": 205699,
+        "word": "吉克隽逸镶钻半遮面头纱",
+        "onboard_time": 1688694151,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203322,
+        "num": 203322,
+        "word": "家人把15万珠宝当垃圾丢掉还被人给捡了",
+        "onboard_time": 1688684423,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200169,
+        "num": 200169,
+        "word": "谭爷爷快成顶流了",
+        "onboard_time": 1688657855,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200053,
+        "num": 200053,
+        "word": "3只小赤狐晃悠着小脑袋走出洞口",
+        "onboard_time": 1688691339,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194347,
+        "num": 194347,
+        "word": "警方通报2名女孩在酒店被性侵",
+        "onboard_time": 1688653536,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187034,
+        "num": 187034,
+        "word": "杨千嬅悼念李玟",
+        "onboard_time": 1688691578,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176657,
+        "num": 176657,
+        "word": "警惕叶黄素危害",
+        "onboard_time": 1688687551,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176209,
+        "num": 176209,
+        "word": "男子迷奸多女子后多次查询法律后果",
+        "onboard_time": 1688647054,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175325,
+        "num": 175325,
+        "word": "七七事变",
+        "onboard_time": 1688687731,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169374,
+        "num": 169374,
+        "word": "小蜘蛛今天应该是睡过头了",
+        "onboard_time": 1688655759,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168266,
+        "num": 168266,
+        "word": "关于我点土豆丝少放两根这件事",
+        "onboard_time": 1688686046,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160687,
+        "num": 160687,
+        "word": "纯爱战神宋焰",
+        "onboard_time": 1688693314,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155458,
+        "num": 155458,
+        "word": "小暑",
+        "onboard_time": 1688684843,
+        "rank": 49,
+        "category": "社会新闻,自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#七七事变爆发86周年#"
+    }
+  }
+}
