@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688725250951,
+  "endTime": 1688726297714,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 3531419,
-      "num": 942017,
+      "num": 1075801,
       "word": "李玟疑因窒息死亡",
       "onboard_time": 1688707062,
       "rank": 31,
@@ -1219,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1558530,
+      "num": 1558530,
+      "word": "知乎宣布将下线匿名功能",
+      "onboard_time": 1688724154,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1558005,
       "num": 1558005,
       "word": "jiejie",
@@ -1308,7 +1316,7 @@
     },
     {
       "raw_hot": 1467484,
-      "num": 624995,
+      "num": 678068,
       "word": "关于我被厦门公安带走这件事",
       "onboard_time": 1688719535,
       "rank": 31,
@@ -2505,6 +2513,14 @@
       "onboard_time": 1688439634,
       "rank": 34,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 890429,
+      "num": 890429,
+      "word": "柠萌影视否认将拍小欢喜2",
+      "onboard_time": 1688724750,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 889569,
@@ -3931,14 +3947,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 613846,
-      "num": 613846,
-      "word": "知乎宣布将下线匿名功能",
-      "onboard_time": 1688724154,
-      "rank": 9,
-      "category": "科技"
-    },
-    {
       "raw_hot": 613553,
       "num": 524725,
       "word": "工作室辟谣井柏然小号",
@@ -4235,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 568156,
+      "num": 568156,
+      "word": "高铁侠",
+      "onboard_time": 1688724392,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 567295,
       "num": 457469,
       "word": "赵露思穿JK跳gee",
@@ -4481,14 +4497,6 @@
       "onboard_time": 1688393803,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 534838,
-      "num": 534838,
-      "word": "柠萌影视否认将拍小欢喜2",
-      "onboard_time": 1688724750,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 533790,
@@ -5811,6 +5819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 392266,
+      "num": 1573086,
+      "word": "新疆库木塔格沙漠海市蜃楼奇观",
+      "onboard_time": 1688714499,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391594,
       "num": 305018,
       "word": "有个会流白色眼泪的女友有多酷",
@@ -5969,6 +5985,14 @@
       "onboard_time": 1688437535,
       "rank": 21,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 381801,
+      "num": 306745,
+      "word": "给女儿取了全上海唯一的名字",
+      "onboard_time": 1688725893,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 381550,
@@ -6185,6 +6209,14 @@
       "onboard_time": 1688618328,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365727,
+      "num": 303166,
+      "word": "你觉得女性为什么要经济独立",
+      "onboard_time": 1688722353,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 364014,
@@ -6907,14 +6939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 325000,
-      "num": 891889,
-      "word": "新疆库木塔格沙漠海市蜃楼奇观",
-      "onboard_time": 1688714499,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324664,
       "num": 368620,
       "word": "三只狗狗相约一起看日出",
@@ -6937,6 +6961,14 @@
       "onboard_time": 1688610876,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323792,
+      "num": 323792,
+      "word": "薛之谦8月鸟巢三场连开",
+      "onboard_time": 1688724933,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 323282,
@@ -7292,7 +7324,7 @@
     },
     {
       "raw_hot": 301745,
-      "num": 808663,
+      "num": 1129401,
       "word": "被新疆交警的叮嘱暖到了",
       "onboard_time": 1688723432,
       "rank": 6,
@@ -7651,14 +7683,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 283915,
-      "num": 283915,
-      "word": "你觉得女性为什么要经济独立",
-      "onboard_time": 1688722353,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 283609,
       "num": 283609,
       "word": "玉骨遥特效",
@@ -7761,6 +7785,14 @@
       "onboard_time": 1688528017,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278599,
+      "num": 274355,
+      "word": "我的通勤包包破了",
+      "onboard_time": 1688725412,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 278305,
@@ -7969,14 +8001,6 @@
       "onboard_time": 1688466338,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271690,
-      "num": 251417,
-      "word": "薛之谦8月鸟巢三场连开",
-      "onboard_time": 1688724933,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 271640,
@@ -8449,14 +8473,6 @@
       "onboard_time": 1688692355,
       "rank": 30,
       "category": "情感,音乐"
-    },
-    {
-      "raw_hot": 250748,
-      "num": 250748,
-      "word": "高铁侠",
-      "onboard_time": 1688724392,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 250505,
@@ -8987,6 +9003,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 227476,
+      "num": 227476,
+      "word": "柳玉茹沉默回应洛子商仰慕",
+      "onboard_time": 1688723972,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227355,
       "num": 227355,
       "word": "今晚一个暴躁老爷爷注定要失眠了",
@@ -9217,14 +9241,6 @@
       "onboard_time": 1688445465,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219847,
-      "num": 219847,
-      "word": "柳玉茹沉默回应洛子商仰慕",
-      "onboard_time": 1688723972,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 219792,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1688726297714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1621474,
+        "num": 1621474,
+        "word": "小欢喜2",
+        "onboard_time": 1688718696,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 595066,
+        "num": 1610219,
+        "word": "2岁女孩遇车祸交警喊来妻子哄娃",
+        "onboard_time": 1688712815,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105388,
+        "num": 1590326,
+        "word": "七七事变爆发86周年",
+        "onboard_time": 1688718755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2014756,
+        "num": 1589038,
+        "word": "珠宝品牌撤下李玟代言海报",
+        "onboard_time": 1688719293,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 392266,
+        "num": 1573086,
+        "word": "新疆库木塔格沙漠海市蜃楼奇观",
+        "onboard_time": 1688714499,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1558530,
+        "num": 1558530,
+        "word": "知乎宣布将下线匿名功能",
+        "onboard_time": 1688724154,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 257052,
+        "num": 1129401,
+        "word": "被新疆交警的叮嘱暖到了",
+        "onboard_time": 1688723432,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1701750,
+        "num": 1075801,
+        "word": "李玟疑因窒息死亡",
+        "onboard_time": 1688707062,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 890429,
+        "num": 890429,
+        "word": "柠萌影视否认将拍小欢喜2",
+        "onboard_time": 1688724750,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678395,
+        "num": 678395,
+        "word": "长肥胖纹是有预兆的",
+        "onboard_time": 1688721215,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1401356,
+        "num": 678068,
+        "word": "关于我被厦门公安带走这件事",
+        "onboard_time": 1688719535,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1155817,
+        "num": 661423,
+        "word": "Melody离婚",
+        "onboard_time": 1688704603,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623821,
+        "num": 623821,
+        "word": "原来抽纸是从侧面撕开的",
+        "onboard_time": 1688718514,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 568156,
+        "num": 568156,
+        "word": "高铁侠",
+        "onboard_time": 1688724392,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 517399,
+        "num": 517399,
+        "word": "电梯的镜子原来这么有用",
+        "onboard_time": 1688721396,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460465,
+        "num": 460465,
+        "word": "杨紫万茜李晟你们怎么还整过这出",
+        "onboard_time": 1688718873,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383193,
+        "num": 383193,
+        "word": "奔跑的安慕希",
+        "onboard_time": 1688713178,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373699,
+        "num": 373699,
+        "word": "朱一龙一番票房突破50亿",
+        "onboard_time": 1688718273,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323792,
+        "num": 323792,
+        "word": "薛之谦8月鸟巢三场连开",
+        "onboard_time": 1688724933,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312133,
+        "num": 312133,
+        "word": "宋妍霏工作室 有道理个屁",
+        "onboard_time": 1688710719,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 481098,
+        "num": 310979,
+        "word": "丈夫不愿付70元手机维修费扇妻子耳光",
+        "onboard_time": 1688717432,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468657,
+        "num": 308779,
+        "word": "妻子坐月子丈夫门口贴亲朋进门须知",
+        "onboard_time": 1688720976,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400015,
+        "num": 307746,
+        "word": "在理发店存3万和5千的区别",
+        "onboard_time": 1688723852,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381801,
+        "num": 306745,
+        "word": "给女儿取了全上海唯一的名字",
+        "onboard_time": 1688725893,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378866,
+        "num": 303477,
+        "word": "确诊糖尿病后被女朋友分手了",
+        "onboard_time": 1688713415,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365727,
+        "num": 303166,
+        "word": "你觉得女性为什么要经济独立",
+        "onboard_time": 1688722353,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301575,
+        "num": 301575,
+        "word": "EDG战胜LGD",
+        "onboard_time": 1688719776,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296941,
+        "num": 296941,
+        "word": "露思型甜妹",
+        "onboard_time": 1688722114,
+        "rank": 27,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 282108,
+        "num": 282108,
+        "word": "小欢喜2可以原班人马吗",
+        "onboard_time": 1688719714,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274817,
+        "num": 274817,
+        "word": "宋轶鸡哔你",
+        "onboard_time": 1688712455,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 986943,
+        "num": 274520,
+        "word": "蔡徐坤周边遭粉丝9.9元甩卖",
+        "onboard_time": 1688715274,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278599,
+        "num": 274355,
+        "word": "我的通勤包包破了",
+        "onboard_time": 1688725412,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273173,
+        "num": 273173,
+        "word": "薛之谦合肥",
+        "onboard_time": 1688724992,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263688,
+        "num": 263688,
+        "word": "中国禁止进口日本福岛等十地食品",
+        "onboard_time": 1688700932,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254167,
+        "num": 254167,
+        "word": "小狗的热情终究是错付了",
+        "onboard_time": 1688721155,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233657,
+        "num": 233657,
+        "word": "上班没事干才是最累的",
+        "onboard_time": 1688720976,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 227476,
+        "num": 227476,
+        "word": "柳玉茹沉默回应洛子商仰慕",
+        "onboard_time": 1688723972,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227448,
+        "num": 227448,
+        "word": "李玟二姐称近一周发现李玟不对劲",
+        "onboard_time": 1688702438,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199537,
+        "num": 199537,
+        "word": "西安人被正式确诊为沈眉庄",
+        "onboard_time": 1688706224,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191107,
+        "num": 191107,
+        "word": "五月天深圳演唱会",
+        "onboard_time": 1688718992,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186063,
+        "num": 186063,
+        "word": "FoFo",
+        "onboard_time": 1688712216,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173298,
+        "num": 173298,
+        "word": "六公主说但他可是周深啊",
+        "onboard_time": 1688710359,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171556,
+        "num": 171556,
+        "word": "吃完的荔枝核不要扔",
+        "onboard_time": 1688707192,
+        "rank": 42,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 170987,
+        "num": 170987,
+        "word": "Melody老公",
+        "onboard_time": 1688709035,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169677,
+        "num": 169677,
+        "word": "奔跑吧",
+        "onboard_time": 1688693852,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167907,
+        "num": 167907,
+        "word": "肖战谈任敏角色",
+        "onboard_time": 1688714196,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167078,
+        "num": 167078,
+        "word": "芝芙杀疯了",
+        "onboard_time": 1688712273,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166772,
+        "num": 166772,
+        "word": "同事说我把别人的萝卜岗占了",
+        "onboard_time": 1688721336,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161139,
+        "num": 161139,
+        "word": "品牌回应撤下李玟代言海报",
+        "onboard_time": 1688723312,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151184,
+        "num": 151184,
+        "word": "专升本和事业编同时上岸选哪个",
+        "onboard_time": 1688703761,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江苏南京考察调研#"
+    }
+  }
+}
