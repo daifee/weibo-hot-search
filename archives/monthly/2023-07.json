@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688698819919,
+  "endTime": 1688699386896,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2937586,
+      "num": 2937586,
+      "word": "原来骑手知道我在看配送进度",
+      "onboard_time": 1688693733,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2932107,
       "num": 524536,
       "word": "李敬言 退学",
@@ -553,14 +561,6 @@
       "onboard_time": 1688551893,
       "rank": 25,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 2809996,
-      "num": 2809996,
-      "word": "原来骑手知道我在看配送进度",
-      "onboard_time": 1688693733,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 2807356,
@@ -1371,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1688670,
+      "num": 505313,
+      "word": "男子强迫11岁少年吸毒并殴打致死",
+      "onboard_time": 1688695051,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1671235,
       "num": 1671235,
       "word": "消失的她票根还有隐藏刀",
@@ -1747,6 +1755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1365657,
+      "num": 1365657,
+      "word": "难哄",
+      "onboard_time": 1688696428,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1364655,
       "num": 1364655,
       "word": "老公居然登报庆祝我裸辞",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1688441676,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1283545,
-      "num": 1283545,
-      "word": "难哄",
-      "onboard_time": 1688696428,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1280880,
@@ -2691,6 +2699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 979474,
+      "num": 979474,
+      "word": "张彬彬白天和杨洋扫楼晚上陪吴倩吃饭",
+      "onboard_time": 1688695591,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 974507,
       "num": 974507,
       "word": "炎亚纶前往警局做笔录",
@@ -2744,14 +2760,6 @@
       "word": "牙医建议刷牙后不要立刻漱口",
       "onboard_time": 1688183792,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 961600,
-      "num": 470849,
-      "word": "男子强迫11岁少年吸毒并殴打致死",
-      "onboard_time": 1688695051,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3216,14 +3224,6 @@
       "word": "八角笼中",
       "onboard_time": 1688185713,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 856120,
-      "num": 856120,
-      "word": "张彬彬白天和杨洋扫楼晚上陪吴倩吃饭",
-      "onboard_time": 1688695591,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -4811,6 +4811,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 629138,
+      "num": 393759,
+      "word": "半夜因为一条蜈蚣被救护车拉走",
+      "onboard_time": 1688695714,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 627845,
       "num": 624269,
       "word": "陈哲远王玉雯 白色橄榄树",
@@ -5035,14 +5043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 600590,
-      "num": 326244,
-      "word": "半夜因为一条蜈蚣被救护车拉走",
-      "onboard_time": 1688695714,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 599993,
       "num": 342341,
       "word": "顾客吃肯德基发现鸡腿冒血水",
@@ -5209,6 +5209,14 @@
       "onboard_time": 1688616278,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576352,
+      "num": 391678,
+      "word": "iPhone15系列8月将量产",
+      "onboard_time": 1688696428,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 576248,
@@ -5851,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513772,
+      "num": 513772,
+      "word": "爸妈一直叫我打暑假工",
+      "onboard_time": 1688697991,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 513443,
       "num": 513443,
       "word": "EDG对战WE",
@@ -6065,14 +6081,6 @@
       "onboard_time": 1688372085,
       "rank": 30,
       "category": "旅游,幽默"
-    },
-    {
-      "raw_hot": 495729,
-      "num": 325158,
-      "word": "iPhone15系列8月将量产",
-      "onboard_time": 1688696428,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 495277,
@@ -6507,6 +6515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459630,
+      "num": 459630,
+      "word": "广州地铁到底发生过什么",
+      "onboard_time": 1688698113,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 459096,
       "num": 355093,
       "word": "太原万象城",
@@ -6937,6 +6953,14 @@
       "onboard_time": 1688217573,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431733,
+      "num": 431733,
+      "word": "最具仙气的古偶男主脸",
+      "onboard_time": 1688695416,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 431619,
@@ -7659,6 +7683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382122,
+      "num": 382122,
+      "word": "我的人间烟火结局",
+      "onboard_time": 1688698171,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381891,
       "num": 320720,
       "word": "长大后最恐怖的事情之一",
@@ -8339,6 +8371,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 344617,
+      "num": 344617,
+      "word": "为什么自制的冰几分钟就化了",
+      "onboard_time": 1688695354,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 344395,
       "num": 344395,
       "word": "樊振东vs林高远",
@@ -8361,14 +8401,6 @@
       "onboard_time": 1688311001,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 343583,
-      "num": 343583,
-      "word": "最具仙气的古偶男主脸",
-      "onboard_time": 1688695416,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 342840,
@@ -8483,6 +8515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339930,
+      "num": 339930,
+      "word": "肖战时影梦回言冰云",
+      "onboard_time": 1688698113,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339765,
       "num": 381317,
       "word": "心肺复苏急救一只迷你小青蛙",
@@ -8577,14 +8617,6 @@
       "onboard_time": 1688469454,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334509,
-      "num": 320044,
-      "word": "我的人间烟火结局",
-      "onboard_time": 1688698171,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 334443,
@@ -8721,14 +8753,6 @@
       "onboard_time": 1688189432,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329721,
-      "num": 329721,
-      "word": "为什么自制的冰几分钟就化了",
-      "onboard_time": 1688695354,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 329545,
@@ -9067,6 +9091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316393,
+      "num": 316393,
+      "word": "特斯拉",
+      "onboard_time": 1688698471,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316207,
       "num": 316207,
       "word": "没房贷的下属",
@@ -9329,14 +9361,6 @@
       "onboard_time": 1688260170,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303630,
-      "num": 303630,
-      "word": "爸妈一直叫我打暑假工",
-      "onboard_time": 1688697991,
-      "rank": 27,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 303448,
@@ -9811,27 +9835,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287964,
-      "num": 287964,
-      "word": "广州地铁到底发生过什么",
-      "onboard_time": 1688698113,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 287726,
       "num": 287726,
       "word": "杨洋张彬彬连手都有体型差",
       "onboard_time": 1688694871,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 287278,
-      "num": 287278,
-      "word": "肖战时影梦回言冰云",
-      "onboard_time": 1688698113,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -10113,6 +10121,14 @@
       "onboard_time": 1688433818,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275858,
+      "num": 275858,
+      "word": "少年推理社",
+      "onboard_time": 1688697632,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 275402,
@@ -10531,14 +10547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262397,
-      "num": 262397,
-      "word": "少年推理社",
-      "onboard_time": 1688697632,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261974,
       "num": 248981,
       "word": "长安三万里 将进酒",
@@ -10761,6 +10769,14 @@
       "onboard_time": 1688369384,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256524,
+      "num": 256524,
+      "word": "马嘉祺丁程鑫一起旅游",
+      "onboard_time": 1688699309,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 256448,
@@ -12267,14 +12283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218011,
-      "num": 218011,
-      "word": "特斯拉",
-      "onboard_time": 1688698471,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217547,
       "num": 219623,
       "word": "夏目友人帐第7季制作决定",
@@ -12875,6 +12883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206057,
+      "num": 206057,
+      "word": "布兰妮希望NBA状元公开道歉",
+      "onboard_time": 1688699309,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 205543,
       "num": 196139,
       "word": "内娱建模脸明星",
@@ -13057,6 +13073,14 @@
       "onboard_time": 1688376880,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201675,
+      "num": 201675,
+      "word": "男子收集29张李玟贴纸珍藏22年",
+      "onboard_time": 1688687189,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 201661,
@@ -13297,6 +13321,14 @@
       "onboard_time": 1688220156,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195666,
+      "num": 195666,
+      "word": "安徽一小学期末奖励是大公鸡活鱼",
+      "onboard_time": 1688698774,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195594,
@@ -14083,6 +14115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177750,
+      "num": 177750,
+      "word": "文班亚马回应保镖掌掴布兰妮",
+      "onboard_time": 1688696251,
+      "rank": 49,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 177741,
       "num": 177741,
       "word": "在国外穿壮族服饰参观南宁舰",
@@ -14315,14 +14355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174335,
-      "num": 174335,
-      "word": "安徽一小学期末奖励是大公鸡活鱼",
-      "onboard_time": 1688698774,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "如果让亲妈做你婆婆",
@@ -14345,14 +14377,6 @@
       "onboard_time": 1688634935,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 173797,
-      "num": 173797,
-      "word": "文班亚马回应保镖掌掴布兰妮",
-      "onboard_time": 1688696251,
-      "rank": 49,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 173736,
@@ -15971,7 +15995,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68091,
+      "raw_hot": 68667,
       "num": 1218117,
       "word": "高温下坚守的人",
       "onboard_time": 1688648558,
@@ -16089,6 +16113,14 @@
       "onboard_time": 1688371483,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 52858,
+      "num": 461197,
+      "word": "92岁亲历者讲述卢沟桥事变惨状",
+      "onboard_time": 1688699374,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52053,
