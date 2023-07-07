@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688768275370,
+  "endTime": 1688769383094,
   "band_list": [
     {
       "raw_hot": 1976757,
@@ -443,20 +443,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 64423,
+      "num": 64423,
+      "word": "醉酒是少司命亲自教学",
+      "onboard_time": 1688754256,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 59735,
       "num": 59735,
       "word": "有没有人考虑吴磊的感受",
       "onboard_time": 1688755215,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 51368,
-      "num": 51368,
-      "word": "醉酒是少司命亲自教学",
-      "onboard_time": 1688754256,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 50275,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 45499,
-      "num": 45499,
+      "num": 50656,
       "word": "黄宗泽也觉得自己帅",
       "onboard_time": 1688756115,
       "rank": 41,
@@ -491,20 +491,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41865,
+      "num": 50777,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1688739223,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 38587,
+      "num": 50688,
+      "word": "怎么破解AI换脸诈骗",
+      "onboard_time": 1688768417,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 32420,
       "num": 32420,
       "word": "看种地吧我学到了什么",
       "onboard_time": 1688755634,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29732,
-      "num": 43741,
-      "word": "韩剧恶鬼",
-      "onboard_time": 1688739223,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 29549,
@@ -515,8 +523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17348,
-      "num": 235358,
+      "raw_hot": 22256,
+      "num": 332171,
       "word": "天问一号最新发现",
       "onboard_time": 1688740668,
       "rank": 2,
