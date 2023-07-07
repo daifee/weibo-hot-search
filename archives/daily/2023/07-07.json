@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688715239443,
+  "endTime": 1688718263837,
   "band_list": [
     {
       "raw_hot": 4679821,
@@ -137,6 +137,14 @@
       "onboard_time": 1688700932,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1554371,
+      "num": 243531,
+      "word": "蔡徐坤周边遭粉丝9.9元甩卖",
+      "onboard_time": 1688715274,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1549832,
@@ -283,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 902167,
+      "num": 422914,
+      "word": "确诊糖尿病后被女朋友分手了",
+      "onboard_time": 1688713415,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 867017,
       "num": 867017,
       "word": "酒店为什么会免费升房",
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 855645,
-      "num": 466601,
+      "num": 485721,
       "word": "宋轶鸡哔你",
       "onboard_time": 1688712455,
       "rank": 15,
@@ -387,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 750637,
-      "num": 422914,
-      "word": "确诊糖尿病后被女朋友分手了",
-      "onboard_time": 1688713415,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 749345,
       "num": 749345,
       "word": "买香水客服竟然是高中同学",
@@ -425,6 +433,14 @@
       "onboard_time": 1688699309,
       "rank": 44,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 719323,
+      "num": 719323,
+      "word": "2岁女孩遇车祸交警喊来妻子哄娃",
+      "onboard_time": 1688712815,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 716242,
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 708218,
+      "num": 708218,
+      "word": "奔跑的安慕希",
+      "onboard_time": 1688713178,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706134,
       "num": 706134,
       "word": "驻日美军承认东京17个地区地下水疑受污染",
@@ -491,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 660728,
-      "num": 660728,
-      "word": "奔跑的安慕希",
-      "onboard_time": 1688713178,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 643461,
       "num": 643461,
       "word": "哥们你小说男主啊",
@@ -529,6 +545,22 @@
       "onboard_time": 1688695714,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 625610,
+      "num": 625610,
+      "word": "肖战谈任敏角色",
+      "onboard_time": 1688714196,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 620241,
+      "num": 620241,
+      "word": "gap day是怎么流行起来的",
+      "onboard_time": 1688713715,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 610616,
@@ -651,6 +683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 510733,
+      "num": 342838,
+      "word": "丈夫不愿付70元手机维修费扇妻子耳光",
+      "onboard_time": 1688717432,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508296,
       "num": 508296,
       "word": "火锅店买8000斤滞销瓜送顾客",
@@ -691,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 493366,
+      "num": 493366,
+      "word": "老板知道我要离职不断给我加工作",
+      "onboard_time": 1688710959,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 486148,
       "num": 342547,
       "word": "警方通报2名女孩在酒店被性侵",
@@ -705,6 +753,14 @@
       "onboard_time": 1688692534,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 481727,
+      "num": 481727,
+      "word": "芝芙杀疯了",
+      "onboard_time": 1688712273,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 475857,
@@ -779,14 +835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 450270,
-      "num": 450270,
-      "word": "2岁女孩遇车祸交警喊来妻子哄娃",
-      "onboard_time": 1688712815,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450113,
       "num": 450113,
       "word": "陈鲁豫全英文主持",
@@ -827,20 +875,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 436193,
+      "num": 242844,
+      "word": "瑞幸一门店有门框无玻璃顾客尴尬进出",
+      "onboard_time": 1688716234,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431575,
       "num": 347653,
       "word": "女子产后抑郁将孩子从天桥抛下",
       "onboard_time": 1688655938,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425266,
-      "num": 425266,
-      "word": "老板知道我要离职不断给我加工作",
-      "onboard_time": 1688710959,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 424631,
@@ -867,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410729,
-      "num": 410729,
-      "word": "芝芙杀疯了",
-      "onboard_time": 1688712273,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 410666,
       "num": 293697,
       "word": "亮警证让查酒驾交警放行男子系民警",
@@ -889,6 +929,14 @@
       "onboard_time": 1688710416,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391118,
+      "num": 391118,
+      "word": "A股",
+      "onboard_time": 1688716594,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 387614,
@@ -936,14 +984,6 @@
       "word": "我的人间烟火第8集不敢看",
       "onboard_time": 1688654076,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 371316,
-      "num": 316478,
-      "word": "肖战谈任敏角色",
-      "onboard_time": 1688714196,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -1099,20 +1139,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 303789,
-      "num": 303789,
-      "word": "gap day是怎么流行起来的",
-      "onboard_time": 1688713715,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296694,
       "num": 296694,
       "word": "徐怀钰回来了",
       "onboard_time": 1688707901,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292380,
+      "num": 292380,
+      "word": "陈立农表情演我",
+      "onboard_time": 1688717555,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292271,
@@ -1267,6 +1307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 245605,
+      "num": 255408,
+      "word": "新疆库木塔格沙漠海市蜃楼奇观",
+      "onboard_time": 1688714499,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244216,
       "num": 244216,
       "word": "女装尺码越做越小合理吗",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1688707839,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234348,
-      "num": 255408,
-      "word": "新疆库木塔格沙漠海市蜃楼奇观",
-      "onboard_time": 1688714499,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232727,
@@ -1411,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213303,
+      "num": 213303,
+      "word": "熊猫有多爱做标记",
+      "onboard_time": 1688716957,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 212334,
       "num": 212334,
       "word": "领导给我哺乳假期延长了",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1688698774,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193468,
+      "num": 193468,
+      "word": "避免做伤害大脑的这3件事",
+      "onboard_time": 1688717015,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 193119,
@@ -1561,6 +1617,14 @@
       "onboard_time": 1688660069,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169600,
+      "num": 169600,
+      "word": "原来小朋友滑滑梯也有段位",
+      "onboard_time": 1688718031,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 169066,

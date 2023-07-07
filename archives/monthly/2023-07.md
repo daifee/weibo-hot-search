@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/07 15:33:59
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/07 16:24:23
 </p>
 </blockquote>
 <p>
@@ -1203,6 +1203,12 @@ jiejie（热度：1558005）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%91%A8%E8%BE%B9%E9%81%AD%E7%B2%89%E4%B8%9D9.9%E5%85%83%E7%94%A9%E5%8D%96%23" target="weibo">
+蔡徐坤周边遭粉丝9.9元甩卖（热度：1554371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%88%92%E4%BA%88%23" target="weibo">
 杨舒予（热度：1553372）
 </a>
@@ -2391,6 +2397,12 @@ EDG 亚运野辅（热度：935194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E5%90%8E%E8%A2%AB%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%88%86%E6%89%8B%E4%BA%86%23" target="weibo">
+确诊糖尿病后被女朋友分手了（热度：902167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D8%E9%9B%86%E6%8D%A229%E5%A5%97%E8%A1%A3%E6%9C%8D%23" target="weibo">
 赵露思8集换29套衣服（热度：901008）
 </a>
@@ -3057,12 +3069,6 @@ iPhone15系列电池容量曝光（热度：771457）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E5%90%8E%E8%A2%AB%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%88%86%E6%89%8B%E4%BA%86%23" target="weibo">
-确诊糖尿病后被女朋友分手了（热度：750637）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B0%8F%E6%97%B6%E5%80%99%E7%BB%99%E7%8E%8B%E6%BA%90%E7%9A%84%E4%BF%A1%23" target="weibo">
 王俊凯小时候给王源的信（热度：750582）
 </a>
@@ -3237,6 +3243,12 @@ EDG战胜WE（热度：734905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83%23" target="weibo">
+2岁女孩遇车祸交警喊来妻子哄娃（热度：719323）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%99%E7%B2%89%E4%B8%9D%E9%80%81Gucci%23" target="weibo">
 鹿晗演唱会给粉丝送Gucci（热度：716944）
 </a>
@@ -3293,6 +3305,12 @@ iPhone15系列8月将量产（热度：712352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%BC%94%E6%83%85%E4%BE%A3%23" target="weibo">
 关晓彤范丞丞演情侣（热度：708733）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E7%9A%84%E5%AE%89%E6%85%95%E5%B8%8C%23" target="weibo">
+奔跑的安慕希（热度：708218）
 </a>
 </li>
 
@@ -3615,12 +3633,6 @@ treasure（热度：668903）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E7%9A%84%E5%AE%89%E6%85%95%E5%B8%8C%23" target="weibo">
-奔跑的安慕希（热度：660728）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%8B%85%E4%BB%BB%E7%94%B0%E6%9F%BE%E5%9B%BDMV%E4%B8%BB%E6%BC%94%23" target="weibo">
 韩素希担任田柾国MV主演（热度：660067）
 </a>
@@ -3873,6 +3885,12 @@ Jennie戳爷lily合照（热度：643666）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%88%E4%BB%BB%E6%95%8F%E8%A7%92%E8%89%B2%23" target="weibo">
+肖战谈任敏角色（热度：625610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E7%9A%84%E5%BA%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E5%9B%9B%E4%B8%AA%E6%9E%95%E5%A4%B4%23" target="weibo">
 酒店的床为什么有四个枕头（热度：625389）
 </a>
@@ -3911,6 +3929,12 @@ Jennie戳爷lily合照（热度：643666）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BA%BA%E9%83%BD%E7%9C%8B%E4%B8%8D%E5%87%BA%E5%B9%B4%E9%BE%84%E4%BA%86%23" target="weibo">
 现在的人都看不出年龄了（热度：620891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23gap%20day%E6%98%AF%E6%80%8E%E4%B9%88%E6%B5%81%E8%A1%8C%E8%B5%B7%E6%9D%A5%E7%9A%84%23" target="weibo">
+gap day是怎么流行起来的（热度：620241）
 </a>
 </li>
 
@@ -4707,6 +4731,12 @@ EDG更换主教练（热度：512455）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E4%B8%8D%E6%84%BF%E4%BB%9870%E5%85%83%E6%89%8B%E6%9C%BA%E7%BB%B4%E4%BF%AE%E8%B4%B9%E6%89%87%E5%A6%BB%E5%AD%90%E8%80%B3%E5%85%89%23" target="weibo">
+丈夫不愿付70元手机维修费扇妻子耳光（热度：510733）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%BE%E7%A5%9E%E7%A6%BB%E8%81%8C%23" target="weibo">
 精神离职（热度：510721）
 </a>
@@ -4851,6 +4881,12 @@ EDG更换主教练（热度：512455）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E7%9F%A5%E9%81%93%E6%88%91%E8%A6%81%E7%A6%BB%E8%81%8C%E4%B8%8D%E6%96%AD%E7%BB%99%E6%88%91%E5%8A%A0%E5%B7%A5%E4%BD%9C%23" target="weibo">
+老板知道我要离职不断给我加工作（热度：493366）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E4%BA%8C%E5%8D%81%E4%BA%BF%E7%A5%A8%E6%88%BF%E5%A5%B3%E4%B8%BB%23" target="weibo">
 倪妮二十亿票房女主（热度：493357）
 </a>
@@ -4991,6 +5027,12 @@ Lisa新编舞好辣（热度：484662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 樊振东（热度：483378）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%9D%E8%8A%99%E6%9D%80%E7%96%AF%E4%BA%86%23" target="weibo">
+芝芙杀疯了（热度：481727）
 </a>
 </li>
 
@@ -5313,12 +5355,6 @@ newjeans新歌（热度：451487）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E4%BA%A4%E8%AD%A6%E5%96%8A%E6%9D%A5%E5%A6%BB%E5%AD%90%E5%93%84%E5%A8%83%23" target="weibo">
-2岁女孩遇车祸交警喊来妻子哄娃（热度：450270）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%B2%81%E8%B1%AB%E5%85%A8%E8%8B%B1%E6%96%87%E4%B8%BB%E6%8C%81%23" target="weibo">
 陈鲁豫全英文主持（热度：450113）
 </a>
@@ -5493,6 +5529,12 @@ BLACKPINK亮相海德公园音乐节（热度：436525）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E4%B8%80%E9%97%A8%E5%BA%97%E6%9C%89%E9%97%A8%E6%A1%86%E6%97%A0%E7%8E%BB%E7%92%83%E9%A1%BE%E5%AE%A2%E5%B0%B4%E5%B0%AC%E8%BF%9B%E5%87%BA%23" target="weibo">
+瑞幸一门店有门框无玻璃顾客尴尬进出（热度：436193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%84%BF%E5%AD%90%E6%82%A3%E7%99%8C88%E5%B2%81%E7%88%B6%E4%BA%B2%E6%AF%8F%E5%A4%A9%E7%9C%8B%E6%9C%9B%23" target="weibo">
 62岁儿子患癌88岁父亲每天看望（热度：436110）
 </a>
@@ -5573,12 +5615,6 @@ BLACKPINK亮相海德公园音乐节（热度：436525）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E5%8F%AA%E7%A9%BF%E8%AD%A6%E6%9C%8D%E7%83%AD%E5%87%BA%E7%97%B1%E5%AD%90%E5%AE%9D%E5%A6%88%E6%97%A0%E5%A5%88%E6%B1%82%E5%8A%A9%E6%B0%91%E8%AD%A6%23" target="weibo">
 萌娃只穿警服热出痱子宝妈无奈求助民警（热度：425604）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E7%9F%A5%E9%81%93%E6%88%91%E8%A6%81%E7%A6%BB%E8%81%8C%E4%B8%8D%E6%96%AD%E7%BB%99%E6%88%91%E5%8A%A0%E5%B7%A5%E4%BD%9C%23" target="weibo">
-老板知道我要离职不断给我加工作（热度：425266）
 </a>
 </li>
 
@@ -5729,12 +5765,6 @@ super shy（热度：421621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E6%AF%94%23" target="weibo">
 芭比（热度：411113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%9D%E8%8A%99%E6%9D%80%E7%96%AF%E4%BA%86%23" target="weibo">
-芝芙杀疯了（热度：410729）
 </a>
 </li>
 
@@ -5973,44 +6003,14 @@ WE 劫富济贫（热度：401003）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
+A股（热度：391118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%B1%E5%80%92%E5%B8%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%BC%9A%E8%B7%91%E8%B0%83%23" target="weibo">
 唱倒带为什么不会跑调（热度：390278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E5%9B%A2%E5%85%A8%E5%91%98%E4%B8%BAAngelababy%E6%96%B0%E5%89%A7%E6%89%93call%23" target="weibo">
-跑男团全员为Angelababy新剧打call（热度：389246）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%88%B1%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A622%E5%B9%B4%23" target="weibo">
-李现爱了周杰伦22年（热度：388971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%89%87%E5%9C%BA%E5%AF%B9%E7%9D%80%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B7%B3%E8%88%9E%23" target="weibo">
-王传君片场对着张艺兴跳舞（热度：388758）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E5%BC%A0%E6%B7%BC%E6%80%A1%E4%B8%89%E5%B9%B4%E5%89%8D%E8%AF%95%E6%88%8F%E9%95%9C%E5%A4%B4%23" target="weibo">
-周翊然张淼怡三年前试戏镜头（热度：388429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8D%96%E8%8A%B1%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8B%E5%A7%8B%E7%BB%88%E8%83%8C%E5%9C%A8%E5%90%8E%E9%9D%A2%23" target="weibo">
-他卖花的时候手始终背在后面（热度：388286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E5%86%B0%E6%B7%87%E6%B7%8B%23" target="weibo">
-对方撤回了一个冰淇淋（热度：388246）
 </a>
 </li>
 

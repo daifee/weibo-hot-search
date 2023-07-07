@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688715239443,
+  "endTime": 1688718263837,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1203,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1554371,
+      "num": 243531,
+      "word": "蔡徐坤周边遭粉丝9.9元甩卖",
+      "onboard_time": 1688715274,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1549832,
       "num": 488889,
       "word": "女婴出生第一天喝了过期奶粉",
@@ -2403,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902167,
+      "num": 422914,
+      "word": "确诊糖尿病后被女朋友分手了",
+      "onboard_time": 1688713415,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 898830,
       "num": 898830,
       "word": "杨洋看王楚然的眼神",
@@ -2548,7 +2564,7 @@
     },
     {
       "raw_hot": 855645,
-      "num": 466601,
+      "num": 485721,
       "word": "宋轶鸡哔你",
       "onboard_time": 1688712455,
       "rank": 15,
@@ -3035,14 +3051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 750637,
-      "num": 422914,
-      "word": "确诊糖尿病后被女朋友分手了",
-      "onboard_time": 1688713415,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 750385,
       "num": 350708,
       "word": "2PM 少女时代",
@@ -3219,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719323,
+      "num": 719323,
+      "word": "2岁女孩遇车祸交警喊来妻子哄娃",
+      "onboard_time": 1688712815,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716242,
       "num": 379028,
       "word": "我在航班上冒犯了一位高僧",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1688620599,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 708218,
+      "num": 708218,
+      "word": "奔跑的安慕希",
+      "onboard_time": 1688713178,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 707655,
@@ -3571,14 +3595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 660728,
-      "num": 660728,
-      "word": "奔跑的安慕希",
-      "onboard_time": 1688713178,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 658515,
       "num": 658515,
       "word": "女子失联23年母亲被邻居刷视频发现",
@@ -3779,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625610,
+      "num": 625610,
+      "word": "肖战谈任敏角色",
+      "onboard_time": 1688714196,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 625389,
       "num": 316354,
       "word": "酒店的床为什么有四个枕头",
@@ -3801,6 +3825,14 @@
       "onboard_time": 1688373463,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 620241,
+      "num": 620241,
+      "word": "gap day是怎么流行起来的",
+      "onboard_time": 1688713715,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 618313,
@@ -4515,6 +4547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510733,
+      "num": 342838,
+      "word": "丈夫不愿付70元手机维修费扇妻子耳光",
+      "onboard_time": 1688717432,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510721,
       "num": 510721,
       "word": "精神离职",
@@ -4633,6 +4673,14 @@
       "onboard_time": 1688375802,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493366,
+      "num": 493366,
+      "word": "老板知道我要离职不断给我加工作",
+      "onboard_time": 1688710959,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 492881,
@@ -4769,6 +4817,14 @@
       "onboard_time": 1688357057,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 481727,
+      "num": 481727,
+      "word": "芝芙杀疯了",
+      "onboard_time": 1688712273,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 479082,
@@ -5083,14 +5139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 450270,
-      "num": 450270,
-      "word": "2岁女孩遇车祸交警喊来妻子哄娃",
-      "onboard_time": 1688712815,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450113,
       "num": 450113,
       "word": "陈鲁豫全英文主持",
@@ -5203,6 +5251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 436193,
+      "num": 242844,
+      "word": "瑞幸一门店有门框无玻璃顾客尴尬进出",
+      "onboard_time": 1688716234,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435881,
       "num": 435881,
       "word": "中方回应越南因南海九段线禁映芭比",
@@ -5289,14 +5345,6 @@
       "onboard_time": 1688536060,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425266,
-      "num": 425266,
-      "word": "老板知道我要离职不断给我加工作",
-      "onboard_time": 1688710959,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 424631,
@@ -5409,14 +5457,6 @@
       "onboard_time": 1688465738,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 410729,
-      "num": 410729,
-      "word": "芝芙杀疯了",
-      "onboard_time": 1688712273,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 410666,
@@ -5667,6 +5707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391118,
+      "num": 391118,
+      "word": "A股",
+      "onboard_time": 1688716594,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 390278,
       "num": 390278,
       "word": "唱倒带为什么不会跑调",
@@ -5912,14 +5960,6 @@
       "word": "赵丽颖粉丝在张睿直播间宣传与凤行",
       "onboard_time": 1688512523,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 371316,
-      "num": 316478,
-      "word": "肖战谈任敏角色",
-      "onboard_time": 1688714196,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -7067,14 +7107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303789,
-      "num": 303789,
-      "word": "gap day是怎么流行起来的",
-      "onboard_time": 1688713715,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 303448,
       "num": 297838,
       "word": "伪中文emoji",
@@ -7321,6 +7353,14 @@
       "onboard_time": 1688446005,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292380,
+      "num": 292380,
+      "word": "陈立农表情演我",
+      "onboard_time": 1688717555,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292160,
@@ -8283,6 +8323,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 245605,
+      "num": 255408,
+      "word": "新疆库木塔格沙漠海市蜃楼奇观",
+      "onboard_time": 1688714499,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245559,
       "num": 245559,
       "word": "妈妈用自己的头发给女儿做了假发",
@@ -8569,14 +8617,6 @@
       "onboard_time": 1688707839,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234348,
-      "num": 255408,
-      "word": "新疆库木塔格沙漠海市蜃楼奇观",
-      "onboard_time": 1688714499,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233966,
@@ -9121,6 +9161,14 @@
       "onboard_time": 1688691456,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213303,
+      "num": 213303,
+      "word": "熊猫有多爱做标记",
+      "onboard_time": 1688716957,
+      "rank": 35,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 213221,
@@ -9851,6 +9899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193468,
+      "num": 193468,
+      "word": "避免做伤害大脑的这3件事",
+      "onboard_time": 1688717015,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193119,
       "num": 193119,
       "word": "以前很抗拒后来真香",
@@ -10521,6 +10577,14 @@
       "onboard_time": 1688430998,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 169600,
+      "num": 169600,
+      "word": "原来小朋友滑滑梯也有段位",
+      "onboard_time": 1688718031,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 169066,
