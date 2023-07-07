@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688711979450,
+  "endTime": 1688714282603,
   "band_list": [
     {
       "raw_hot": 4679821,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3531419,
-      "num": 750699,
+      "num": 914967,
       "word": "李玟疑因窒息死亡",
       "onboard_time": 1688707062,
       "rank": 31,
@@ -33,6 +33,14 @@
       "onboard_time": 1688701716,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2132581,
+      "num": 509490,
+      "word": "蔡徐坤涂唇膏",
+      "onboard_time": 1688712935,
+      "rank": 10,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 2129612,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1560431,
+      "num": 417220,
+      "word": "挥刀自宫有多痛",
+      "onboard_time": 1688710959,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1549832,
       "num": 488889,
       "word": "女婴出生第一天喝了过期奶粉",
@@ -145,6 +161,14 @@
       "onboard_time": 1688696428,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1391187,
+      "num": 618839,
+      "word": "宋妍霏工作室 有道理个屁",
+      "onboard_time": 1688710719,
+      "rank": 16,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1385015,
@@ -203,6 +227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1131631,
+      "num": 1131631,
+      "word": "六公主说但他可是周深啊",
+      "onboard_time": 1688710359,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1047489,
       "num": 680087,
       "word": "现实版孤儿怨",
@@ -217,14 +249,6 @@
       "onboard_time": 1688695591,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1015073,
-      "num": 618839,
-      "word": "宋妍霏工作室 有道理个屁",
-      "onboard_time": 1688710719,
-      "rank": 16,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 985884,
@@ -297,6 +321,14 @@
       "onboard_time": 1688655638,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 833412,
+      "num": 833412,
+      "word": "FoFo",
+      "onboard_time": 1688712216,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 819147,
@@ -379,6 +411,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 730356,
+      "num": 466601,
+      "word": "宋轶鸡哔你",
+      "onboard_time": 1688712455,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716242,
       "num": 379028,
       "word": "我在航班上冒犯了一位高僧",
@@ -411,20 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 696179,
-      "num": 696179,
+      "raw_hot": 706134,
+      "num": 706134,
       "word": "驻日美军承认东京17个地区地下水疑受污染",
       "onboard_time": 1688708739,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 692559,
-      "num": 692559,
-      "word": "六公主说但他可是周深啊",
-      "onboard_time": 1688710359,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 670193,
@@ -595,12 +627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 523522,
-      "num": 417220,
-      "word": "挥刀自宫有多痛",
-      "onboard_time": 1688710959,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 516688,
+      "num": 353123,
+      "word": "确诊糖尿病后被女朋友分手了",
+      "onboard_time": 1688713415,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 512455,
@@ -609,6 +641,14 @@
       "onboard_time": 1688687731,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 510906,
+      "num": 465510,
+      "word": "奔跑的安慕希",
+      "onboard_time": 1688713178,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 508296,
@@ -707,6 +747,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 455666,
+      "num": 477513,
+      "word": "吃完的荔枝核不要扔",
+      "onboard_time": 1688707192,
+      "rank": 18,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 453959,
       "num": 453959,
       "word": "帮韩国室友抓蟑螂收到的礼物",
@@ -739,12 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 443967,
-      "num": 477513,
-      "word": "吃完的荔枝核不要扔",
-      "onboard_time": 1688707192,
-      "rank": 18,
-      "category": "美食,幽默"
+      "raw_hot": 445955,
+      "num": 371563,
+      "word": "朱珠穿旗袍",
+      "onboard_time": 1688708619,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 443253,
@@ -819,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394691,
+      "num": 394691,
+      "word": "老板知道我要离职不断给我加工作",
+      "onboard_time": 1688710959,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387614,
       "num": 387614,
       "word": "禁止创建以匿名投稿发布不良内容的话题和群组",
@@ -859,11 +915,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371563,
-      "num": 371563,
-      "word": "朱珠穿旗袍",
-      "onboard_time": 1688708619,
-      "rank": 25,
+      "raw_hot": 371206,
+      "num": 335934,
+      "word": "芝芙杀疯了",
+      "onboard_time": 1688712273,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -963,6 +1019,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325344,
+      "num": 325344,
+      "word": "谢娜给贾静雯刘雅瑟准备横幅",
+      "onboard_time": 1688710476,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321232,
+      "num": 346212,
+      "word": "2岁女孩遇车祸交警喊来妻子哄娃",
+      "onboard_time": 1688712815,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320052,
       "num": 320052,
       "word": "偷偷藏不住",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1688707901,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292271,
+      "num": 292271,
+      "word": "饿了么免单",
+      "onboard_time": 1688701356,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 291556,
@@ -1083,14 +1163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 268922,
-      "num": 253070,
-      "word": "谢娜给贾静雯刘雅瑟准备横幅",
-      "onboard_time": 1688710476,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262445,
       "num": 262445,
       "word": "酒店的床为什么有四个枕头",
@@ -1123,12 +1195,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 253949,
-      "num": 253949,
-      "word": "饿了么免单",
-      "onboard_time": 1688701356,
-      "rank": 39,
-      "category": "科技"
+      "raw_hot": 254117,
+      "num": 254117,
+      "word": "被邻桌小女孩塞了纸条",
+      "onboard_time": 1688711434,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 253805,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1688692355,
       "rank": 30,
       "category": "情感,音乐"
+    },
+    {
+      "raw_hot": 250412,
+      "num": 248593,
+      "word": "安乐传",
+      "onboard_time": 1688713534,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 247852,
@@ -1207,6 +1287,14 @@
       "num": 238746,
       "word": "陈哲远不看会后悔",
       "onboard_time": 1688707839,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238583,
+      "num": 238583,
+      "word": "肖战谈任敏角色",
+      "onboard_time": 1688714196,
       "rank": 44,
       "category": "影视"
     },
@@ -1307,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212831,
+      "num": 212831,
+      "word": "gap day是怎么流行起来的",
+      "onboard_time": 1688713715,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212334,
       "num": 212334,
       "word": "领导给我哺乳假期延长了",
@@ -1315,28 +1411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211175,
-      "num": 211175,
-      "word": "老板知道我要离职不断给我加工作",
-      "onboard_time": 1688710959,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210113,
       "num": 210113,
       "word": "小蜘蛛今天应该是睡过头了",
       "onboard_time": 1688655759,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209529,
-      "num": 209529,
-      "word": "被邻桌小女孩塞了纸条",
-      "onboard_time": 1688711434,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 207582,
@@ -1539,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157696,
+      "num": 157696,
+      "word": "小暑荷花妆点杭城",
+      "onboard_time": 1688713899,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 154051,
       "num": 154051,
       "word": "80瓶飞天茅台被盗嫌疑人竟是女儿男友",
@@ -1673,6 +1761,14 @@
       "onboard_time": 1688663481,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 55519,
+      "num": 944157,
+      "word": "打卡2023世界人工智能大会",
+      "onboard_time": 1688712995,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52053,
