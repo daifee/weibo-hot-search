@@ -1,7 +1,15 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688704672698,
+  "endTime": 1688707104542,
   "band_list": [
+    {
+      "raw_hot": 4679821,
+      "num": 818551,
+      "word": "Melody离婚",
+      "onboard_time": 1688704603,
+      "rank": 47,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3022301,
       "num": 3022301,
@@ -17,6 +25,14 @@
       "onboard_time": 1688701716,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2085097,
+      "num": 797082,
+      "word": "宋轶真换了头像",
+      "onboard_time": 1688703877,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1880704,
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1783739,
+      "num": 1783739,
+      "word": "港媒曝郑欣宜患抑郁症",
+      "onboard_time": 1688703761,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1590949,
       "num": 1590949,
       "word": "中国禁止进口日本福岛等十地食品",
@@ -99,28 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1511289,
-      "num": 680546,
-      "word": "宋轶真换了头像",
-      "onboard_time": 1688703877,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1478399,
-      "num": 1478399,
-      "word": "港媒曝郑欣宜患抑郁症",
-      "onboard_time": 1688703761,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1416215,
       "num": 1416215,
       "word": "难哄",
       "onboard_time": 1688696428,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1385015,
+      "num": 1385015,
+      "word": "1937年7月7日",
+      "onboard_time": 1688705685,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1364655,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 1047489,
-      "num": 668843,
+      "num": 680087,
       "word": "现实版孤儿怨",
       "onboard_time": 1688700695,
       "rank": 48,
@@ -193,6 +209,14 @@
       "onboard_time": 1688684423,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919113,
+      "num": 919113,
+      "word": "开始断崖式衰老的表现",
+      "onboard_time": 1688704061,
+      "rank": 24,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 867017,
@@ -235,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 821130,
+      "num": 821130,
+      "word": "专升本和事业编同时上岸选哪个",
+      "onboard_time": 1688703761,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 815233,
       "num": 815233,
       "word": "李玟妈妈目前不吃不睡",
@@ -243,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 812502,
+      "num": 447857,
+      "word": "女孩被蛇咬伤奶奶抓蜘蛛吸毒",
+      "onboard_time": 1688705025,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777711,
       "num": 777711,
       "word": "谭爷爷快成顶流了",
       "onboard_time": 1688657855,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763355,
+      "num": 763355,
+      "word": "王楚然两部新剧没有技巧全是感情",
+      "onboard_time": 1688704120,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 755887,
@@ -260,10 +308,18 @@
     },
     {
       "raw_hot": 744276,
-      "num": 384035,
+      "num": 621786,
       "word": "被蚊子吸走了我的淤血",
       "onboard_time": 1688702857,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 740630,
+      "num": 740630,
+      "word": "黑色外卖勺子",
+      "onboard_time": 1688702977,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -347,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634127,
+      "num": 372442,
+      "word": "买香水客服竟然是高中同学",
+      "onboard_time": 1688704307,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 629138,
       "num": 471796,
       "word": "半夜因为一条蜈蚣被救护车拉走",
@@ -401,14 +465,6 @@
       "onboard_time": 1688656836,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573680,
-      "num": 573680,
-      "word": "黑色外卖勺子",
-      "onboard_time": 1688702977,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 568307,
@@ -467,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 530537,
+      "num": 364134,
+      "word": "李玟疑因窒息死亡",
+      "onboard_time": 1688707062,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512455,
       "num": 512455,
       "word": "EDG更换主教练",
@@ -489,6 +553,14 @@
       "onboard_time": 1688698171,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 505071,
+      "num": 442270,
+      "word": "7旬老人为救17岁女孩当场遇害",
+      "onboard_time": 1688705625,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504082,
@@ -611,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424631,
+      "num": 424631,
+      "word": "女子放弃高薪全职带娃丈夫离婚拒补偿",
+      "onboard_time": 1688703820,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423838,
       "num": 423838,
       "word": "刘昊然原来穿的是高跟鞋",
@@ -619,12 +699,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 413528,
-      "num": 375166,
-      "word": "王楚然两部新剧没有技巧全是感情",
-      "onboard_time": 1688704120,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 421621,
+      "num": 421621,
+      "word": "super shy",
+      "onboard_time": 1688705025,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 410666,
@@ -633,22 +713,6 @@
       "onboard_time": 1688684120,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409317,
-      "num": 409317,
-      "word": "开始断崖式衰老的表现",
-      "onboard_time": 1688704061,
-      "rank": 24,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 404861,
-      "num": 372442,
-      "word": "买香水客服竟然是高中同学",
-      "onboard_time": 1688704307,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 387614,
@@ -699,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369378,
-      "num": 369378,
-      "word": "专升本和事业编同时上岸选哪个",
-      "onboard_time": 1688703761,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 363902,
       "num": 363902,
       "word": "德云社",
@@ -721,6 +777,22 @@
       "onboard_time": 1688701356,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 359708,
+      "num": 359708,
+      "word": "乘风",
+      "onboard_time": 1688704841,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349267,
+      "num": 349267,
+      "word": "西安人被正式确诊为沈眉庄",
+      "onboard_time": 1688706224,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344617,
@@ -755,14 +827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327008,
-      "num": 327008,
-      "word": "女子放弃高薪全职带娃丈夫离婚拒补偿",
-      "onboard_time": 1688703820,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320052,
       "num": 320052,
       "word": "偷偷藏不住",
@@ -793,6 +857,14 @@
       "onboard_time": 1688704362,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300267,
+      "num": 300267,
+      "word": "出差全程让领导拎箱子挤地铁",
+      "onboard_time": 1688706523,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 289582,
@@ -835,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273970,
+      "num": 273970,
+      "word": "李飞不浪费一点版权费",
+      "onboard_time": 1688706821,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271640,
       "num": 271640,
       "word": "存钱是真的会上瘾",
@@ -865,14 +945,6 @@
       "onboard_time": 1688700334,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259917,
-      "num": 259917,
-      "word": "Melody离婚",
-      "onboard_time": 1688704603,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 256381,
@@ -1409,6 +1481,14 @@
       "onboard_time": 1688668394,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24252,
+      "num": 694515,
+      "word": "这些历史永不能忘",
+      "onboard_time": 1688706044,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
