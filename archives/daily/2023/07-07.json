@@ -1,7 +1,15 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688729631518,
+  "endTime": 1688733525520,
   "band_list": [
+    {
+      "raw_hot": 8101452,
+      "num": 8101452,
+      "word": "邓伦被强制执行",
+      "onboard_time": 1688730994,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 4679821,
       "num": 818551,
@@ -9,6 +17,14 @@
       "onboard_time": 1688704603,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4580626,
+      "num": 4580626,
+      "word": "蚂蚁集团被罚71.23亿元",
+      "onboard_time": 1688731778,
+      "rank": 1,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 3531419,
@@ -33,6 +49,14 @@
       "onboard_time": 1688718696,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3190297,
+      "num": 3190297,
+      "word": "牵手门涉事领导被双开",
+      "onboard_time": 1688732260,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3022301,
@@ -72,6 +96,14 @@
       "word": "宋轶真换了头像",
       "onboard_time": 1688703877,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1906649,
+      "num": 1906649,
+      "word": "陈哲远直播 取消",
+      "onboard_time": 1688730994,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -187,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1518074,
+      "num": 1518074,
+      "word": "奔跑的安慕希",
+      "onboard_time": 1688713178,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1467484,
       "num": 731330,
       "word": "关于我被厦门公安带走这件事",
@@ -241,6 +281,22 @@
       "onboard_time": 1688718514,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1350131,
+      "num": 1350131,
+      "word": "原来快递员能看见快递里面是啥",
+      "onboard_time": 1688729672,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1294549,
+      "num": 857115,
+      "word": "杜蕾斯客服回应避孕套中发现异物",
+      "onboard_time": 1688731836,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1261355,
@@ -305,6 +361,14 @@
       "onboard_time": 1688710359,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1098586,
+      "num": 1098586,
+      "word": "范玮琪演唱会取消",
+      "onboard_time": 1688730812,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 1047489,
@@ -603,20 +667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 708218,
-      "num": 708218,
-      "word": "奔跑的安慕希",
-      "onboard_time": 1688713178,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 706134,
       "num": 706134,
       "word": "驻日美军承认东京17个地区地下水疑受污染",
       "onboard_time": 1688708739,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698961,
+      "num": 370859,
+      "word": "无骨鸡柳为什么消失了",
+      "onboard_time": 1688729672,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 689693,
@@ -697,6 +761,14 @@
       "onboard_time": 1688714196,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 615197,
+      "num": 615197,
+      "word": "要求蚂蚁集团关停相互宝业务",
+      "onboard_time": 1688732382,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 610616,
@@ -1059,6 +1131,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 439423,
+      "num": 368469,
+      "word": "恋爱脑都沉默了",
+      "onboard_time": 1688730932,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 437559,
       "num": 437559,
       "word": "上岸第二天就被介绍对象了",
@@ -1251,6 +1331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358393,
+      "num": 358393,
+      "word": "长风渡豆瓣开分6.8",
+      "onboard_time": 1688731536,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350594,
       "num": 350594,
       "word": "国产剧里你最烦的男女主",
@@ -1355,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316146,
+      "num": 316146,
+      "word": "小猫咪想不通蜜蜂为什么要蛰它",
+      "onboard_time": 1688730212,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314129,
       "num": 314129,
       "word": "为什么不夸魏大勋",
@@ -1435,12 +1531,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 291584,
+      "num": 291584,
+      "word": "北京晚霞",
+      "onboard_time": 1688731959,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291556,
       "num": 291556,
       "word": "小鸟的审美能有多高级",
       "onboard_time": 1688707541,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 289691,
+      "num": 289691,
+      "word": "张彬彬新剧上线3天就下线",
+      "onboard_time": 1688733044,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 289630,
@@ -1539,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264106,
+      "num": 264106,
+      "word": "谢娜旗袍劈叉",
+      "onboard_time": 1688730392,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262445,
       "num": 262445,
       "word": "酒店的床为什么有四个枕头",
@@ -1603,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252231,
+      "num": 252231,
+      "word": "玉骨遥塌房文学",
+      "onboard_time": 1688733044,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251997,
       "num": 242650,
       "word": "段嘉许苏而不油的原因",
@@ -1648,6 +1776,14 @@
       "word": "迪丽热巴赵露思宋轶微指破亿",
       "onboard_time": 1688650415,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 242236,
+      "num": 242236,
+      "word": "我的人间烟火",
+      "onboard_time": 1688733283,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1748,7 +1884,7 @@
     },
     {
       "raw_hot": 221845,
-      "num": 1830056,
+      "num": 3294234,
       "word": "七七事变爆发86周年",
       "onboard_time": 1688718755,
       "rank": 2,
@@ -1859,6 +1995,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205975,
+      "num": 205975,
+      "word": "没想到暗恋的人也暗恋我",
+      "onboard_time": 1688728954,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 205601,
+      "num": 205601,
+      "word": "没想到保洁大叔家里有房有车",
+      "onboard_time": 1688733167,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201675,
       "num": 201675,
       "word": "男子收集29张李玟贴纸珍藏22年",
@@ -1947,6 +2099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 182243,
+      "num": 182243,
+      "word": "男童打卡碑林脑袋被文物石碑卡住",
+      "onboard_time": 1688731232,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178407,
       "num": 178407,
       "word": "警戒无良商人利用李玟诈骗",
@@ -1995,6 +2155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175908,
+      "num": 175908,
+      "word": "高层建筑瓷砖脱落场面堪比爆炸",
+      "onboard_time": 1688733167,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174323,
       "num": 655680,
       "word": "92岁亲历者讲述卢沟桥事变惨状",
@@ -2009,6 +2177,14 @@
       "onboard_time": 1688728112,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171649,
+      "num": 171649,
+      "word": "李玟重病时仍在关心郑欣宜",
+      "onboard_time": 1688733466,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 170554,
@@ -2129,14 +2305,6 @@
       "onboard_time": 1688659411,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147911,
-      "num": 147911,
-      "word": "没想到暗恋的人也暗恋我",
-      "onboard_time": 1688728954,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 147458,

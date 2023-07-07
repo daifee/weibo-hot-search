@@ -1,0 +1,410 @@
+{
+  "runTime": 1688733525520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8101452,
+        "num": 8101452,
+        "word": "邓伦被强制执行",
+        "onboard_time": 1688730994,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 4580626,
+        "num": 4580626,
+        "word": "蚂蚁集团被罚71.23亿元",
+        "onboard_time": 1688731778,
+        "rank": 1,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 135396,
+        "num": 3294234,
+        "word": "七七事变爆发86周年",
+        "onboard_time": 1688718755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3190297,
+        "num": 3190297,
+        "word": "牵手门涉事领导被双开",
+        "onboard_time": 1688732260,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1906649,
+        "num": 1906649,
+        "word": "陈哲远直播 取消",
+        "onboard_time": 1688730994,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1518074,
+        "num": 1518074,
+        "word": "奔跑的安慕希",
+        "onboard_time": 1688713178,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1350131,
+        "num": 1350131,
+        "word": "原来快递员能看见快递里面是啥",
+        "onboard_time": 1688729672,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1164323,
+        "num": 1164323,
+        "word": "奔跑吧",
+        "onboard_time": 1688693852,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1098586,
+        "num": 1098586,
+        "word": "范玮琪演唱会取消",
+        "onboard_time": 1688730812,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 936458,
+        "num": 936458,
+        "word": "李玟疑因窒息死亡",
+        "onboard_time": 1688707062,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1294549,
+        "num": 857115,
+        "word": "杜蕾斯客服回应避孕套中发现异物",
+        "onboard_time": 1688731836,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773889,
+        "num": 773889,
+        "word": "知乎宣布将下线匿名功能",
+        "onboard_time": 1688724154,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 656319,
+        "num": 656319,
+        "word": "郑秀文 抑郁症我懂",
+        "onboard_time": 1688727153,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 615197,
+        "num": 615197,
+        "word": "要求蚂蚁集团关停相互宝业务",
+        "onboard_time": 1688732382,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 577849,
+        "num": 577849,
+        "word": "曾毅竟然50岁了",
+        "onboard_time": 1688726370,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532693,
+        "num": 532693,
+        "word": "Melody离婚",
+        "onboard_time": 1688704603,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478154,
+        "num": 478154,
+        "word": "日本学者发现涉731部队最高机密资料",
+        "onboard_time": 1688726914,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445839,
+        "num": 445839,
+        "word": "关晓彤也演过花非花雾非雾",
+        "onboard_time": 1688727093,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444238,
+        "num": 444238,
+        "word": "成都一兔火锅200余公斤口水油被查",
+        "onboard_time": 1688727992,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381859,
+        "num": 381859,
+        "word": "小欢喜2",
+        "onboard_time": 1688718696,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1023772,
+        "num": 375382,
+        "word": "给女儿取了全上海唯一的名字",
+        "onboard_time": 1688725893,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 698961,
+        "num": 370859,
+        "word": "无骨鸡柳为什么消失了",
+        "onboard_time": 1688729672,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 439423,
+        "num": 368469,
+        "word": "恋爱脑都沉默了",
+        "onboard_time": 1688730932,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358393,
+        "num": 358393,
+        "word": "长风渡豆瓣开分6.8",
+        "onboard_time": 1688731536,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336492,
+        "num": 336492,
+        "word": "珠宝品牌撤下李玟代言海报",
+        "onboard_time": 1688719293,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 316146,
+        "num": 316146,
+        "word": "小猫咪想不通蜜蜂为什么要蛰它",
+        "onboard_time": 1688730212,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309480,
+        "num": 309480,
+        "word": "boboka",
+        "onboard_time": 1688728773,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291584,
+        "num": 291584,
+        "word": "北京晚霞",
+        "onboard_time": 1688731959,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289691,
+        "num": 289691,
+        "word": "张彬彬新剧上线3天就下线",
+        "onboard_time": 1688733044,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268537,
+        "num": 268537,
+        "word": "关于我被厦门公安带走这件事",
+        "onboard_time": 1688719535,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 696827,
+        "num": 267472,
+        "word": "蔡徐坤周边遭粉丝9.9元甩卖",
+        "onboard_time": 1688715274,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264106,
+        "num": 264106,
+        "word": "谢娜旗袍劈叉",
+        "onboard_time": 1688730392,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261961,
+        "num": 261961,
+        "word": "原来抽纸是从侧面撕开的",
+        "onboard_time": 1688718514,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252231,
+        "num": 252231,
+        "word": "玉骨遥塌房文学",
+        "onboard_time": 1688733044,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242236,
+        "num": 242236,
+        "word": "我的人间烟火",
+        "onboard_time": 1688733283,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241287,
+        "num": 241287,
+        "word": "任安乐空降",
+        "onboard_time": 1688726310,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228575,
+        "num": 228575,
+        "word": "妻子坐月子丈夫门口贴亲朋进门须知",
+        "onboard_time": 1688720976,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209783,
+        "num": 209783,
+        "word": "WBG晋级夏季赛季后赛",
+        "onboard_time": 1688726972,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205975,
+        "num": 205975,
+        "word": "没想到暗恋的人也暗恋我",
+        "onboard_time": 1688728954,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 205852,
+        "num": 205852,
+        "word": "情绪稳定真的太重要了",
+        "onboard_time": 1688726555,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 205601,
+        "num": 205601,
+        "word": "没想到保洁大叔家里有房有车",
+        "onboard_time": 1688733167,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202069,
+        "num": 202069,
+        "word": "五月天深圳演唱会",
+        "onboard_time": 1688718992,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192637,
+        "num": 192637,
+        "word": "长肥胖纹是有预兆的",
+        "onboard_time": 1688721215,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187146,
+        "num": 187146,
+        "word": "确诊糖尿病后被女朋友分手了",
+        "onboard_time": 1688713415,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183113,
+        "num": 183113,
+        "word": "刘宇宁上桌文学",
+        "onboard_time": 1688729132,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182243,
+        "num": 182243,
+        "word": "男童打卡碑林脑袋被文物石碑卡住",
+        "onboard_time": 1688731232,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177905,
+        "num": 177905,
+        "word": "杨紫万茜李晟你们怎么还整过这出",
+        "onboard_time": 1688718873,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175908,
+        "num": 175908,
+        "word": "高层建筑瓷砖脱落场面堪比爆炸",
+        "onboard_time": 1688733167,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172581,
+        "num": 172581,
+        "word": "丈夫不愿付70元手机维修费扇妻子耳光",
+        "onboard_time": 1688717432,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171649,
+        "num": 171649,
+        "word": "李玟重病时仍在关心郑欣宜",
+        "onboard_time": 1688733466,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记江苏考察关注这个园区#"
+    }
+  }
+}
