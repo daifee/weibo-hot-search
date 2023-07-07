@@ -1,7 +1,15 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688734581435,
+  "endTime": 1688736368337,
   "band_list": [
+    {
+      "raw_hot": 10204768,
+      "num": 10204768,
+      "word": "奔跑吧没播",
+      "onboard_time": 1688735864,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 8925810,
       "num": 8925810,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1671883,
-      "num": 283953,
+      "num": 417277,
       "word": "蔡徐坤周边遭粉丝9.9元甩卖",
       "onboard_time": 1688715274,
       "rank": 30,
@@ -203,19 +211,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1578359,
+      "num": 857115,
+      "word": "杜蕾斯客服回应避孕套中发现异物",
+      "onboard_time": 1688731836,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1549832,
       "num": 488889,
       "word": "女婴出生第一天喝了过期奶粉",
       "onboard_time": 1688659469,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1529402,
-      "num": 857115,
-      "word": "杜蕾斯客服回应避孕套中发现异物",
-      "onboard_time": 1688731836,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -339,6 +347,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1163896,
+      "num": 914901,
+      "word": "蚂蚁集团回应被罚",
+      "onboard_time": 1688734663,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1139789,
       "num": 1139789,
       "word": "爸妈一直叫我打暑假工",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 1134430,
-      "num": 442931,
+      "num": 533608,
       "word": "给女儿取了全上海唯一的名字",
       "onboard_time": 1688725893,
       "rank": 23,
@@ -419,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 934220,
+      "raw_hot": 936759,
       "num": 934220,
       "word": "要求蚂蚁集团关停相互宝业务",
       "onboard_time": 1688732382,
@@ -475,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 853174,
+      "num": 853174,
+      "word": "张彬彬新剧上线3天就下线",
+      "onboard_time": 1688733044,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 849231,
       "num": 509260,
       "word": "布兰妮被文班亚马保镖掌掴",
@@ -513,6 +537,14 @@
       "onboard_time": 1688712216,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 832896,
+      "num": 832896,
+      "word": "网友辣评Angelababy新剧哭戏",
+      "onboard_time": 1688734310,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 832258,
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781931,
+      "num": 781931,
+      "word": "李玟重病时仍在关心郑欣宜",
+      "onboard_time": 1688733466,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 777711,
       "num": 777711,
       "word": "谭爷爷快成顶流了",
@@ -585,6 +625,14 @@
       "onboard_time": 1688704120,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 761355,
+      "num": 761355,
+      "word": "牵手门董某某被解除劳动合同",
+      "onboard_time": 1688733944,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755887,
@@ -617,14 +665,6 @@
       "onboard_time": 1688702977,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 738682,
-      "num": 738682,
-      "word": "张彬彬新剧上线3天就下线",
-      "onboard_time": 1688733044,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 737376,
@@ -692,7 +732,7 @@
     },
     {
       "raw_hot": 698961,
-      "num": 370979,
+      "num": 446145,
       "word": "无骨鸡柳为什么消失了",
       "onboard_time": 1688729672,
       "rank": 21,
@@ -715,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667916,
+      "num": 667916,
+      "word": "王俊凯为十周年在剧组租舞室",
+      "onboard_time": 1688734483,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 666567,
       "num": 560282,
       "word": "李艾 这不是她的错她需要帮助",
@@ -731,20 +779,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 658581,
+      "num": 658581,
+      "word": "玉骨遥塌房文学",
+      "onboard_time": 1688733044,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 655584,
       "num": 655584,
       "word": "日本学者发现涉731部队最高机密资料",
       "onboard_time": 1688726914,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 649117,
-      "num": 259737,
-      "word": "李玟重病时仍在关心郑欣宜",
-      "onboard_time": 1688733466,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 643461,
@@ -809,6 +857,14 @@
       "onboard_time": 1688659113,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 593486,
+      "num": 521181,
+      "word": "魏大勋早几年干嘛去了",
+      "onboard_time": 1688735803,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 591230,
@@ -883,11 +939,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556360,
+      "num": 556360,
+      "word": "马龙止步男单16强",
+      "onboard_time": 1688734966,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 555298,
       "num": 555298,
       "word": "任安乐空降",
       "onboard_time": 1688726310,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 553091,
+      "num": 553091,
+      "word": "肖战任敏的cp名叫肖朱佩奇",
+      "onboard_time": 1688735507,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -1051,6 +1123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 467715,
+      "num": 467715,
+      "word": "财付通支付科技有限公司被罚没近30亿元",
+      "onboard_time": 1688735143,
+      "rank": 23,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 466040,
       "num": 477513,
       "word": "吃完的荔枝核不要扔",
@@ -1067,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460875,
+      "num": 460875,
+      "word": "小时候申请的专利竟然被做出来了",
+      "onboard_time": 1688735023,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 460683,
       "num": 460683,
       "word": "王楚然魏大勋cp感",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1688684843,
       "rank": 21,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 456311,
+      "num": 456311,
+      "word": "长沙发现3例猴痘病例",
+      "onboard_time": 1688736042,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453959,
@@ -1148,7 +1244,7 @@
     },
     {
       "raw_hot": 439423,
-      "num": 369744,
+      "num": 439348,
       "word": "恋爱脑都沉默了",
       "onboard_time": 1688730932,
       "rank": 22,
@@ -1169,14 +1265,6 @@
       "onboard_time": 1688716234,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434378,
-      "num": 434378,
-      "word": "玉骨遥塌房文学",
-      "onboard_time": 1688733044,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 431575,
@@ -1211,12 +1299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413317,
-      "num": 413317,
-      "word": "牵手门董某某被解除劳动合同",
-      "onboard_time": 1688733944,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 413365,
+      "num": 413365,
+      "word": "AG对战TTG",
+      "onboard_time": 1688734909,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 411018,
@@ -1467,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322753,
+      "num": 322753,
+      "word": "肖战vs罗云熙破碎感",
+      "onboard_time": 1688735568,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320052,
       "num": 320052,
       "word": "偷偷藏不住",
@@ -1545,14 +1641,6 @@
       "onboard_time": 1688723432,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300678,
-      "num": 300678,
-      "word": "网友辣评Angelababy新剧哭戏",
-      "onboard_time": 1688734310,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 296694,
@@ -1681,6 +1769,14 @@
       "onboard_time": 1688649454,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265078,
+      "num": 265078,
+      "word": "李玟曾说为自己是中国人感到骄傲",
+      "onboard_time": 1688736106,
+      "rank": 37,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 264106,
@@ -1916,7 +2012,7 @@
     },
     {
       "raw_hot": 221845,
-      "num": 3506956,
+      "num": 4176658,
       "word": "七七事变爆发86周年",
       "onboard_time": 1688718755,
       "rank": 2,
@@ -2019,14 +2115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209704,
-      "num": 209704,
-      "word": "王俊凯为十周年在剧组租舞室",
-      "onboard_time": 1688734483,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 207933,
       "num": 207933,
       "word": "LPL",
@@ -2040,6 +2128,14 @@
       "word": "周星驰晒照悼念李玟",
       "onboard_time": 1688635235,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206347,
+      "num": 206347,
+      "word": "内娱外星系帅哥",
+      "onboard_time": 1688736224,
+      "rank": 44,
       "category": "艺人"
     },
     {
