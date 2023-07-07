@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688771920603,
+  "endTime": 1688772856355,
   "band_list": [
     {
       "raw_hot": 1976757,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 804045,
+      "num": 307361,
+      "word": "宝妈睡觉被1岁娃拍照误发给朋友",
+      "onboard_time": 1688770940,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767777,
       "num": 767777,
       "word": "对这期跑男越来越感兴趣了",
@@ -99,6 +107,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 632980,
+      "num": 632980,
+      "word": "孙红雷 他说的全是我的词啊",
+      "onboard_time": 1688750720,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 614112,
+      "num": 614112,
+      "word": "为什么现在越来越多人想当老师",
+      "onboard_time": 1688771060,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 600426,
       "num": 600426,
       "word": "长风渡改编",
@@ -113,14 +137,6 @@
       "onboard_time": 1688739340,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 576348,
-      "num": 576348,
-      "word": "孙红雷 他说的全是我的词啊",
-      "onboard_time": 1688750720,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 572582,
@@ -203,20 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451328,
-      "num": 121341,
-      "word": "宝妈睡觉被1岁娃拍照误发给朋友",
-      "onboard_time": 1688770940,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435071,
       "num": 435071,
       "word": "气象局真的和电影里一模一样",
       "onboard_time": 1688740120,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 412466,
+      "num": 412466,
+      "word": "我的人间烟火女主人设",
+      "onboard_time": 1688770940,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 376530,
@@ -249,14 +265,6 @@
       "onboard_time": 1688745097,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 325552,
-      "num": 325552,
-      "word": "我的人间烟火女主人设",
-      "onboard_time": 1688770940,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 321139,
@@ -307,20 +315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260431,
+      "num": 260431,
+      "word": "女子无人区遇乞食狼下车投喂",
+      "onboard_time": 1688770999,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260022,
+      "num": 260022,
+      "word": "牵手门董某某被解除劳动合同",
+      "onboard_time": 1688733944,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259354,
       "num": 259354,
       "word": "张颂文拍的晚霞",
       "onboard_time": 1688739223,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254162,
-      "num": 254162,
-      "word": "牵手门董某某被解除劳动合同",
-      "onboard_time": 1688733944,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251716,
@@ -363,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227851,
+      "num": 145702,
+      "word": "书店老板回应被曝售卖情趣骰子",
+      "onboard_time": 1688772082,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224767,
       "num": 224767,
       "word": "吉克隽逸汪苏泷合唱雨爱",
@@ -403,14 +427,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 208684,
-      "num": 208684,
-      "word": "为什么现在越来越多人想当老师",
-      "onboard_time": 1688771060,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 205635,
       "num": 205635,
       "word": "白敬亭究竟有多少好妹妹",
@@ -425,14 +441,6 @@
       "onboard_time": 1688748149,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 195381,
-      "num": 121092,
-      "word": "女子无人区遇乞食狼下车投喂",
-      "onboard_time": 1688770999,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180365,
@@ -459,8 +467,24 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 104185,
-      "num": 97193,
+      "raw_hot": 132669,
+      "num": 132669,
+      "word": "为什么现在没这种广告了",
+      "onboard_time": 1688771060,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 130085,
+      "num": 130085,
+      "word": "辛追夫人原来是吃货",
+      "onboard_time": 1688769797,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121225,
+      "num": 121225,
       "word": "醉酒是少司命亲自教学",
       "onboard_time": 1688754256,
       "rank": 43,
@@ -475,28 +499,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 100617,
+      "num": 100617,
+      "word": "怎么做梦都这么保守啊",
+      "onboard_time": 1688772622,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 98264,
       "num": 99886,
       "word": "关晓彤也演过花非花雾非雾",
       "onboard_time": 1688727093,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 76775,
-      "num": 76775,
-      "word": "为什么现在没这种广告了",
-      "onboard_time": 1688771060,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 73005,
-      "num": 73005,
-      "word": "辛追夫人原来是吃货",
-      "onboard_time": 1688769797,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 59735,
@@ -523,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45523,
+      "num": 666278,
+      "word": "天问一号最新发现",
+      "onboard_time": 1688740668,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45499,
       "num": 50656,
       "word": "黄宗泽也觉得自己帅",
@@ -537,14 +561,6 @@
       "onboard_time": 1688734483,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 42361,
-      "num": 582600,
-      "word": "天问一号最新发现",
-      "onboard_time": 1688740668,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41865,
