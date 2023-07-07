@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688739459305,
+  "endTime": 1688740564848,
   "band_list": [
     {
       "raw_hot": 10204768,
@@ -203,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1682756,
+      "num": 857115,
+      "word": "杜蕾斯客服回应避孕套中发现异物",
+      "onboard_time": 1688731836,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1671883,
       "num": 417277,
       "word": "蔡徐坤周边遭粉丝9.9元甩卖",
       "onboard_time": 1688715274,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1649568,
-      "num": 857115,
-      "word": "杜蕾斯客服回应避孕套中发现异物",
-      "onboard_time": 1688731836,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1590949,
@@ -315,12 +315,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1320057,
-      "num": 1320057,
+      "raw_hot": 1347939,
+      "num": 1347939,
       "word": "xxs",
       "onboard_time": 1688737362,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1324645,
+      "num": 457606,
+      "word": "我同学被北大退学了",
+      "onboard_time": 1688739340,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1261355,
@@ -483,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 907895,
+      "num": 907895,
+      "word": "张颂文拍的晚霞",
+      "onboard_time": 1688739223,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 902167,
       "num": 422914,
       "word": "确诊糖尿病后被女朋友分手了",
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782195,
+      "num": 477070,
+      "word": "迪丽热巴是90后唯一电视剧三大奖全提女演员",
+      "onboard_time": 1688738319,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 781931,
       "num": 781931,
       "word": "李玟重病时仍在关心郑欣宜",
@@ -641,6 +665,14 @@
       "onboard_time": 1688657855,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776306,
+      "num": 776306,
+      "word": "取2.5万存款被盘问用途合规吗",
+      "onboard_time": 1688739165,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 763355,
@@ -843,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 640498,
-      "num": 477070,
-      "word": "迪丽热巴是90后唯一电视剧三大奖全提女演员",
-      "onboard_time": 1688738319,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 629841,
       "num": 629841,
       "word": "薛之谦衡阳天外来物演唱会 退票",
@@ -873,6 +897,14 @@
       "onboard_time": 1688714196,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 620877,
+      "num": 423154,
+      "word": "原来研究生是没有暑假的",
+      "onboard_time": 1688739640,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 614993,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1688735568,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 527404,
+      "num": 417424,
+      "word": "对这期跑男越来越感兴趣了",
+      "onboard_time": 1688739464,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 520159,
@@ -1243,14 +1283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 451064,
-      "num": 399760,
-      "word": "我同学被北大退学了",
-      "onboard_time": 1688739340,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 450113,
       "num": 450113,
       "word": "陈鲁豫全英文主持",
@@ -1339,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422589,
+      "num": 384755,
+      "word": "气象局真的和电影里一模一样",
+      "onboard_time": 1688740120,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421621,
       "num": 421621,
       "word": "super shy",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1688710416,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400171,
+      "num": 400171,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1688739223,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 400066,
@@ -1619,14 +1667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 331778,
-      "num": 331778,
-      "word": "张颂文拍的晚霞",
-      "onboard_time": 1688739223,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328328,
       "num": 328328,
       "word": "TF一代二代三代暑假都有演唱会",
@@ -1707,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310669,
+      "num": 310669,
+      "word": "范玉气死我了",
+      "onboard_time": 1688740001,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310008,
       "num": 310008,
       "word": "小狗的热情终究是错付了",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1688723432,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297043,
-      "num": 297043,
-      "word": "韩剧恶鬼",
-      "onboard_time": 1688739223,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 296694,
@@ -1971,14 +2011,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 245176,
-      "num": 245176,
-      "word": "取2.5万存款被盘问用途合规吗",
-      "onboard_time": 1688739165,
-      "rank": 47,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 244216,
       "num": 244216,
       "word": "女装尺码越做越小合理吗",
@@ -2024,6 +2056,14 @@
       "word": "陈哲远不看会后悔",
       "onboard_time": 1688707839,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237731,
+      "num": 237731,
+      "word": "任敏要是害羞就让我来",
+      "onboard_time": 1688740540,
+      "rank": 49,
       "category": "影视"
     },
     {
