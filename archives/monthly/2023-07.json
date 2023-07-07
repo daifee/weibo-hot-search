@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688714282603,
+  "endTime": 1688715239443,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -377,6 +377,14 @@
       "onboard_time": 1688226334,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3471347,
+      "num": 509490,
+      "word": "蔡徐坤涂唇膏",
+      "onboard_time": 1688712935,
+      "rank": 10,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 3463245,
@@ -891,14 +899,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 2132581,
-      "num": 509490,
-      "word": "蔡徐坤涂唇膏",
-      "onboard_time": 1688712935,
-      "rank": 10,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 2129612,
       "num": 797082,
       "word": "宋轶真换了头像",
@@ -1355,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1762505,
+      "num": 417220,
+      "word": "挥刀自宫有多痛",
+      "onboard_time": 1688710959,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1748695,
       "num": 1748695,
       "word": "室友卖掉了我将近十年的青春",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1688347113,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1560431,
-      "num": 417220,
-      "word": "挥刀自宫有多痛",
-      "onboard_time": 1688710959,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1559386,
@@ -3387,6 +3387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 855645,
+      "num": 466601,
+      "word": "宋轶鸡哔你",
+      "onboard_time": 1688712455,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 854142,
       "num": 854142,
       "word": "在飞机上偶遇三只狗狗",
@@ -4051,6 +4059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 750637,
+      "num": 422914,
+      "word": "确诊糖尿病后被女朋友分手了",
+      "onboard_time": 1688713415,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 750582,
       "num": 750582,
       "word": "王俊凯小时候给王源的信",
@@ -4241,14 +4257,6 @@
       "onboard_time": 1688468737,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 730356,
-      "num": 466601,
-      "word": "宋轶鸡哔你",
-      "onboard_time": 1688712455,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 730238,
@@ -4793,6 +4801,14 @@
       "onboard_time": 1688109633,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660728,
+      "num": 660728,
+      "word": "奔跑的安慕希",
+      "onboard_time": 1688713178,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 660067,
@@ -6139,14 +6155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 516688,
-      "num": 353123,
-      "word": "确诊糖尿病后被女朋友分手了",
-      "onboard_time": 1688713415,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 515427,
       "num": 515427,
       "word": "九尾狐设计",
@@ -6249,14 +6257,6 @@
       "onboard_time": 1688616342,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 510906,
-      "num": 465510,
-      "word": "奔跑的安慕希",
-      "onboard_time": 1688713178,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 510721,
@@ -6811,6 +6811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466040,
+      "num": 477513,
+      "word": "吃完的荔枝核不要扔",
+      "onboard_time": 1688707192,
+      "rank": 18,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 465743,
       "num": 465743,
       "word": "宋雨琦人在曹营心在汉",
@@ -6913,14 +6921,6 @@
       "onboard_time": 1688288013,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 455666,
-      "num": 477513,
-      "word": "吃完的荔枝核不要扔",
-      "onboard_time": 1688707192,
-      "rank": 18,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 455193,
@@ -7065,6 +7065,14 @@
       "onboard_time": 1688304521,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450270,
+      "num": 450270,
+      "word": "2岁女孩遇车祸交警喊来妻子哄娃",
+      "onboard_time": 1688712815,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450113,
@@ -7411,6 +7419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425266,
+      "num": 425266,
+      "word": "老板知道我要离职不断给我加工作",
+      "onboard_time": 1688710959,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 425050,
       "num": 420931,
       "word": "为什么建议年轻时多谈恋爱",
@@ -7609,6 +7625,14 @@
       "onboard_time": 1688465738,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 410729,
+      "num": 410729,
+      "word": "芝芙杀疯了",
+      "onboard_time": 1688712273,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 410666,
@@ -7873,14 +7897,6 @@
       "onboard_time": 1688518412,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394691,
-      "num": 394691,
-      "word": "老板知道我要离职不断给我加工作",
-      "onboard_time": 1688710959,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 394492,
@@ -8323,12 +8339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371206,
-      "num": 335934,
-      "word": "芝芙杀疯了",
-      "onboard_time": 1688712273,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 371316,
+      "num": 316478,
+      "word": "肖战谈任敏角色",
+      "onboard_time": 1688714196,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 371135,
@@ -9507,14 +9523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 321232,
-      "num": 346212,
-      "word": "2岁女孩遇车祸交警喊来妻子哄娃",
-      "onboard_time": 1688712815,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320288,
       "num": 320288,
       "word": "朱珠再穿旗袍",
@@ -9905,6 +9913,14 @@
       "onboard_time": 1688260170,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303789,
+      "num": 303789,
+      "word": "gap day是怎么流行起来的",
+      "onboard_time": 1688713715,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 303448,
@@ -10675,6 +10691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276037,
+      "num": 276037,
+      "word": "被邻桌小女孩塞了纸条",
+      "onboard_time": 1688711434,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275888,
       "num": 275888,
       "word": "你有每月存钱的习惯吗",
@@ -11419,14 +11443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 254117,
-      "num": 254117,
-      "word": "被邻桌小女孩塞了纸条",
-      "onboard_time": 1688711434,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253930,
       "num": 253930,
       "word": "AG战胜LGD",
@@ -12115,14 +12131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238583,
-      "num": 238583,
-      "word": "肖战谈任敏角色",
-      "onboard_time": 1688714196,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 238518,
       "num": 238518,
       "word": "我还能扛",
@@ -12272,6 +12280,14 @@
       "word": "爸爸焦急盼到女儿通知书第一时间开箱",
       "onboard_time": 1688187155,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234348,
+      "num": 255408,
+      "word": "新疆库木塔格沙漠海市蜃楼奇观",
+      "onboard_time": 1688714499,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -13136,14 +13152,6 @@
       "word": "老一辈穿上汉服能有多惊艳",
       "onboard_time": 1688286274,
       "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 212831,
-      "num": 212831,
-      "word": "gap day是怎么流行起来的",
-      "onboard_time": 1688713715,
-      "rank": 46,
       "category": "情感"
     },
     {
@@ -14113,6 +14121,14 @@
       "onboard_time": 1688293536,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193119,
+      "num": 193119,
+      "word": "以前很抗拒后来真香",
+      "onboard_time": 1688714559,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 192930,
@@ -16675,6 +16691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66878,
+      "num": 944157,
+      "word": "打卡2023世界人工智能大会",
+      "onboard_time": 1688712995,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66852,
       "num": 2737350,
       "word": "七一勋章获得者的事迹有多感人",
@@ -16760,14 +16784,6 @@
       "word": "七旬老人摔伤救援时孙子心疼掉眼泪",
       "onboard_time": 1688488224,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55519,
-      "num": 944157,
-      "word": "打卡2023世界人工智能大会",
-      "onboard_time": 1688712995,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

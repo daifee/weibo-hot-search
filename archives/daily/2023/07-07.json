@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688714282603,
+  "endTime": 1688715239443,
   "band_list": [
     {
       "raw_hot": 4679821,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3471347,
+      "num": 509490,
+      "word": "蔡徐坤涂唇膏",
+      "onboard_time": 1688712935,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 3022301,
       "num": 3022301,
       "word": "原来骑手知道我在看配送进度",
@@ -33,14 +41,6 @@
       "onboard_time": 1688701716,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2132581,
-      "num": 509490,
-      "word": "蔡徐坤涂唇膏",
-      "onboard_time": 1688712935,
-      "rank": 10,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 2129612,
@@ -123,19 +123,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1762505,
+      "num": 417220,
+      "word": "挥刀自宫有多痛",
+      "onboard_time": 1688710959,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1590949,
       "num": 1590949,
       "word": "中国禁止进口日本福岛等十地食品",
       "onboard_time": 1688700932,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1560431,
-      "num": 417220,
-      "word": "挥刀自宫有多痛",
-      "onboard_time": 1688710959,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 855645,
+      "num": 466601,
+      "word": "宋轶鸡哔你",
+      "onboard_time": 1688712455,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 849231,
       "num": 509260,
       "word": "布兰妮被文班亚马保镖掌掴",
@@ -379,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 750637,
+      "num": 422914,
+      "word": "确诊糖尿病后被女朋友分手了",
+      "onboard_time": 1688713415,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 749345,
       "num": 749345,
       "word": "买香水客服竟然是高中同学",
@@ -409,14 +425,6 @@
       "onboard_time": 1688699309,
       "rank": 44,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 730356,
-      "num": 466601,
-      "word": "宋轶鸡哔你",
-      "onboard_time": 1688712455,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 716242,
@@ -481,6 +489,14 @@
       "onboard_time": 1688698113,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 660728,
+      "num": 660728,
+      "word": "奔跑的安慕希",
+      "onboard_time": 1688713178,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 643461,
@@ -627,28 +643,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 516688,
-      "num": 353123,
-      "word": "确诊糖尿病后被女朋友分手了",
-      "onboard_time": 1688713415,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 512455,
       "num": 512455,
       "word": "EDG更换主教练",
       "onboard_time": 1688687731,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 510906,
-      "num": 465510,
-      "word": "奔跑的安慕希",
-      "onboard_time": 1688713178,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 508296,
@@ -723,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466040,
+      "num": 477513,
+      "word": "吃完的荔枝核不要扔",
+      "onboard_time": 1688707192,
+      "rank": 18,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 461113,
       "num": 461113,
       "word": "七七事变86周年",
@@ -747,14 +755,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 455666,
-      "num": 477513,
-      "word": "吃完的荔枝核不要扔",
-      "onboard_time": 1688707192,
-      "rank": 18,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 453959,
       "num": 453959,
       "word": "帮韩国室友抓蟑螂收到的礼物",
@@ -777,6 +777,14 @@
       "onboard_time": 1688657136,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 450270,
+      "num": 450270,
+      "word": "2岁女孩遇车祸交警喊来妻子哄娃",
+      "onboard_time": 1688712815,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450113,
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425266,
+      "num": 425266,
+      "word": "老板知道我要离职不断给我加工作",
+      "onboard_time": 1688710959,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 424631,
       "num": 424631,
       "word": "女子放弃高薪全职带娃丈夫离婚拒补偿",
@@ -851,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410729,
+      "num": 410729,
+      "word": "芝芙杀疯了",
+      "onboard_time": 1688712273,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410666,
       "num": 293697,
       "word": "亮警证让查酒驾交警放行男子系民警",
@@ -865,14 +889,6 @@
       "onboard_time": 1688710416,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394691,
-      "num": 394691,
-      "word": "老板知道我要离职不断给我加工作",
-      "onboard_time": 1688710959,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 387614,
@@ -907,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374458,
+      "num": 374458,
+      "word": "安乐传",
+      "onboard_time": 1688713534,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372106,
       "num": 372106,
       "word": "我的人间烟火第8集不敢看",
@@ -915,12 +939,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371206,
-      "num": 335934,
-      "word": "芝芙杀疯了",
-      "onboard_time": 1688712273,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 371316,
+      "num": 316478,
+      "word": "肖战谈任敏角色",
+      "onboard_time": 1688714196,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 370272,
@@ -1027,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321232,
-      "num": 346212,
-      "word": "2岁女孩遇车祸交警喊来妻子哄娃",
-      "onboard_time": 1688712815,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320052,
       "num": 320052,
       "word": "偷偷藏不住",
@@ -1083,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 303789,
+      "num": 303789,
+      "word": "gap day是怎么流行起来的",
+      "onboard_time": 1688713715,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296694,
       "num": 296694,
       "word": "徐怀钰回来了",
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 292271,
-      "num": 292271,
+      "num": 308556,
       "word": "饿了么免单",
       "onboard_time": 1688701356,
       "rank": 39,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1688657976,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 276037,
+      "num": 276037,
+      "word": "被邻桌小女孩塞了纸条",
+      "onboard_time": 1688711434,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 275858,
@@ -1195,14 +1227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254117,
-      "num": 254117,
-      "word": "被邻桌小女孩塞了纸条",
-      "onboard_time": 1688711434,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253805,
       "num": 255365,
       "word": "王嘉尔抱着Amber转圈圈",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1688692355,
       "rank": 30,
       "category": "情感,音乐"
-    },
-    {
-      "raw_hot": 250412,
-      "num": 248593,
-      "word": "安乐传",
-      "onboard_time": 1688713534,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 247852,
@@ -1291,20 +1307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238583,
-      "num": 238583,
-      "word": "肖战谈任敏角色",
-      "onboard_time": 1688714196,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234626,
       "num": 234626,
       "word": "入画江南",
       "onboard_time": 1688707839,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234348,
+      "num": 255408,
+      "word": "新疆库木塔格沙漠海市蜃楼奇观",
+      "onboard_time": 1688714499,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232727,
@@ -1395,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212831,
-      "num": 212831,
-      "word": "gap day是怎么流行起来的",
-      "onboard_time": 1688713715,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212334,
       "num": 212334,
       "word": "领导给我哺乳假期延长了",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1688698774,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193119,
+      "num": 193119,
+      "word": "以前很抗拒后来真香",
+      "onboard_time": 1688714559,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 191223,
@@ -1755,20 +1771,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66878,
+      "num": 944157,
+      "word": "打卡2023世界人工智能大会",
+      "onboard_time": 1688712995,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63425,
       "num": 96370,
       "word": "当突然有个人跟你搭讪时",
       "onboard_time": 1688663481,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 55519,
-      "num": 944157,
-      "word": "打卡2023世界人工智能大会",
-      "onboard_time": 1688712995,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52053,

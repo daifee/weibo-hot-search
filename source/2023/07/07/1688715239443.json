@@ -1,0 +1,410 @@
+{
+  "runTime": 1688715239443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1086235,
+        "num": 1086235,
+        "word": "六公主说但他可是周深啊",
+        "onboard_time": 1688710359,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 764579,
+        "num": 764579,
+        "word": "西安人被正式确诊为沈眉庄",
+        "onboard_time": 1688706224,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66878,
+        "num": 702416,
+        "word": "打卡2023世界人工智能大会",
+        "onboard_time": 1688712995,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2520830,
+        "num": 699323,
+        "word": "李玟疑因窒息死亡",
+        "onboard_time": 1688707062,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689830,
+        "num": 689830,
+        "word": "FoFo",
+        "onboard_time": 1688712216,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 660728,
+        "num": 660728,
+        "word": "奔跑的安慕希",
+        "onboard_time": 1688713178,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660450,
+        "num": 660450,
+        "word": "专升本和事业编同时上岸选哪个",
+        "onboard_time": 1688703761,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 553145,
+        "num": 553145,
+        "word": "买香水客服竟然是高中同学",
+        "onboard_time": 1688704307,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523690,
+        "num": 523690,
+        "word": "驻日美军承认东京17个地区地下水疑受污染",
+        "onboard_time": 1688708739,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466040,
+        "num": 466040,
+        "word": "吃完的荔枝核不要扔",
+        "onboard_time": 1688707192,
+        "rank": 9,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 3471347,
+        "num": 463753,
+        "word": "蔡徐坤涂唇膏",
+        "onboard_time": 1688712935,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1765378,
+        "num": 463155,
+        "word": "Melody离婚",
+        "onboard_time": 1688704603,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1183843,
+        "num": 462720,
+        "word": "宋妍霏工作室 有道理个屁",
+        "onboard_time": 1688710719,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 460118,
+        "num": 460118,
+        "word": "中国禁止进口日本福岛等十地食品",
+        "onboard_time": 1688700932,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855645,
+        "num": 458679,
+        "word": "宋轶鸡哔你",
+        "onboard_time": 1688712455,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450270,
+        "num": 450270,
+        "word": "2岁女孩遇车祸交警喊来妻子哄娃",
+        "onboard_time": 1688712815,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643680,
+        "num": 450050,
+        "word": "宋轶真换了头像",
+        "onboard_time": 1688703877,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448941,
+        "num": 448941,
+        "word": "李玟二姐称近一周发现李玟不对劲",
+        "onboard_time": 1688702438,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440355,
+        "num": 440355,
+        "word": "后浪豆瓣开分3.9",
+        "onboard_time": 1688708200,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425266,
+        "num": 425266,
+        "word": "老板知道我要离职不断给我加工作",
+        "onboard_time": 1688710959,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 750637,
+        "num": 422914,
+        "word": "确诊糖尿病后被女朋友分手了",
+        "onboard_time": 1688713415,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 573120,
+        "num": 417497,
+        "word": "内娱绝交大全",
+        "onboard_time": 1688709699,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 410729,
+        "num": 410729,
+        "word": "芝芙杀疯了",
+        "onboard_time": 1688712273,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374458,
+        "num": 374458,
+        "word": "安乐传",
+        "onboard_time": 1688713534,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317527,
+        "num": 317527,
+        "word": "开始断崖式衰老的表现",
+        "onboard_time": 1688704061,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 371316,
+        "num": 316478,
+        "word": "肖战谈任敏角色",
+        "onboard_time": 1688714196,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329386,
+        "num": 315451,
+        "word": "国产剧里你最烦的男女主",
+        "onboard_time": 1688710059,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325884,
+        "num": 313351,
+        "word": "Melody老公",
+        "onboard_time": 1688709035,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268700,
+        "num": 310098,
+        "word": "7旬老人为救17岁女孩当场遇害",
+        "onboard_time": 1688705625,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267886,
+        "num": 308556,
+        "word": "饿了么免单",
+        "onboard_time": 1688701356,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1762505,
+        "num": 307197,
+        "word": "挥刀自宫有多痛",
+        "onboard_time": 1688710959,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317553,
+        "num": 304926,
+        "word": "朱珠穿旗袍",
+        "onboard_time": 1688708619,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303789,
+        "num": 303789,
+        "word": "gap day是怎么流行起来的",
+        "onboard_time": 1688713715,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293560,
+        "num": 293560,
+        "word": "谢娜给贾静雯刘雅瑟准备横幅",
+        "onboard_time": 1688710476,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284536,
+        "num": 284536,
+        "word": "港媒曝郑欣宜患抑郁症",
+        "onboard_time": 1688703761,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281908,
+        "num": 281908,
+        "word": "薛之谦衡阳天外来物演唱会 退票",
+        "onboard_time": 1688707241,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276037,
+        "num": 276037,
+        "word": "被邻桌小女孩塞了纸条",
+        "onboard_time": 1688711434,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265998,
+        "num": 265998,
+        "word": "这还是刘雅瑟吗",
+        "onboard_time": 1688710416,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239166,
+        "num": 257968,
+        "word": "我在航班上冒犯了一位高僧",
+        "onboard_time": 1688702319,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234348,
+        "num": 255408,
+        "word": "新疆库木塔格沙漠海市蜃楼奇观",
+        "onboard_time": 1688714499,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255303,
+        "num": 255303,
+        "word": "陈鲁豫全英文主持",
+        "onboard_time": 1688709276,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244544,
+        "num": 244544,
+        "word": "张元英穿拖鞋的腿长",
+        "onboard_time": 1688709759,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235200,
+        "num": 235200,
+        "word": "原来骑手知道我在看配送进度",
+        "onboard_time": 1688693733,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233500,
+        "num": 233500,
+        "word": "王嘉尔茅台对瓶吹",
+        "onboard_time": 1688701716,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215665,
+        "num": 215665,
+        "word": "杨洋王楚然长成这样还折腾什么",
+        "onboard_time": 1688707192,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206794,
+        "num": 206794,
+        "word": "段嘉许苏而不油的原因",
+        "onboard_time": 1688709519,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199341,
+        "num": 199341,
+        "word": "女孩被蛇咬伤奶奶抓蜘蛛吸毒",
+        "onboard_time": 1688705025,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199114,
+        "num": 199114,
+        "word": "被蚊子吸走了我的淤血",
+        "onboard_time": 1688702857,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193119,
+        "num": 193119,
+        "word": "以前很抗拒后来真香",
+        "onboard_time": 1688714559,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191302,
+        "num": 191302,
+        "word": "被爷爷70年前大学笔记惊艳到了",
+        "onboard_time": 1688711317,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江苏南京考察调研#"
+    }
+  }
+}
