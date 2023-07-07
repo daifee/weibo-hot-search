@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688757254617,
+  "endTime": 1688758416485,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -12803,6 +12803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59735,
+      "num": 59735,
+      "word": "有没有人考虑吴磊的感受",
+      "onboard_time": 1688755215,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 58070,
       "num": 188201,
       "word": "世界首头人工繁育长江江豚18岁了",
@@ -12867,14 +12875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49498,
-      "num": 49498,
-      "word": "有没有人考虑吴磊的感受",
-      "onboard_time": 1688755215,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 49338,
       "num": 286192,
       "word": "三口之家大五座SUV怎么选",
@@ -12915,20 +12915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45499,
+      "num": 45499,
+      "word": "黄宗泽也觉得自己帅",
+      "onboard_time": 1688756115,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41977,
       "num": 694515,
       "word": "这些历史永不能忘",
       "onboard_time": 1688706044,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41389,
-      "num": 41389,
-      "word": "黄宗泽也觉得自己帅",
-      "onboard_time": 1688756115,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 39476,
@@ -13009,6 +13009,14 @@
       "onboard_time": 1688617302,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29549,
+      "num": 31305,
+      "word": "王冠说热情好客流淌在山东人血液里",
+      "onboard_time": 1688758273,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27818,
