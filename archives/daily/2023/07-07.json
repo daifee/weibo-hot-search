@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688700711278,
+  "endTime": 1688701274540,
   "band_list": [
     {
       "raw_hot": 3022301,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1850762,
-      "num": 659261,
+      "num": 669574,
       "word": "男子强迫11岁少年吸毒并殴打致死",
       "onboard_time": 1688695051,
       "rank": 23,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1844383,
-      "num": 651538,
+      "num": 668296,
       "word": "叶舒华 烧给你",
       "onboard_time": 1688687368,
       "rank": 10,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1365657,
-      "num": 1365657,
+      "raw_hot": 1416215,
+      "num": 1416215,
       "word": "难哄",
       "onboard_time": 1688696428,
       "rank": 1,
@@ -115,20 +115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1139789,
+      "num": 1139789,
+      "word": "爸妈一直叫我打暑假工",
+      "onboard_time": 1688697991,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1036922,
       "num": 1036922,
       "word": "张彬彬白天和杨洋扫楼晚上陪吴倩吃饭",
       "onboard_time": 1688695591,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1024481,
-      "num": 1024481,
-      "word": "爸妈一直叫我打暑假工",
-      "onboard_time": 1688697991,
-      "rank": 27,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 937489,
@@ -203,12 +203,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 737376,
+      "num": 667266,
+      "word": "布兰妮希望NBA状元公开道歉",
+      "onboard_time": 1688699309,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 712352,
+      "num": 712352,
+      "word": "iPhone15系列8月将量产",
+      "onboard_time": 1688696428,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 708322,
       "num": 524452,
       "word": "金星再回应捂胸",
       "onboard_time": 1688634395,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670193,
+      "num": 670193,
+      "word": "特斯拉",
+      "onboard_time": 1688698471,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 666567,
@@ -219,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 664878,
-      "num": 664878,
-      "word": "特斯拉",
-      "onboard_time": 1688698471,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 664678,
+      "num": 664678,
+      "word": "广州地铁到底发生过什么",
+      "onboard_time": 1688698113,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 643461,
@@ -243,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 635474,
-      "num": 635474,
-      "word": "广州地铁到底发生过什么",
-      "onboard_time": 1688698113,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 629138,
       "num": 471796,
       "word": "半夜因为一条蜈蚣被救护车拉走",
@@ -267,14 +283,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 607444,
-      "num": 607444,
-      "word": "iPhone15系列8月将量产",
-      "onboard_time": 1688696428,
-      "rank": 22,
-      "category": "科技"
-    },
-    {
       "raw_hot": 601948,
       "num": 350010,
       "word": "她好厉害她一定会是我",
@@ -289,6 +297,14 @@
       "onboard_time": 1688690918,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 578592,
+      "num": 578592,
+      "word": "宝马司机醉驾撞人拖行案一审宣判",
+      "onboard_time": 1688699494,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575483,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506881,
+      "num": 506881,
+      "word": "我的人间烟火结局",
+      "onboard_time": 1688698171,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 504082,
       "num": 504082,
       "word": "李雪琴谈走出抑郁症的方法",
@@ -363,28 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 499754,
-      "num": 499754,
-      "word": "宝马司机醉驾撞人拖行案一审宣判",
-      "onboard_time": 1688699494,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497756,
       "num": 497756,
       "word": "谁家的哈基米时影丢了",
       "onboard_time": 1688689359,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 495279,
-      "num": 495279,
-      "word": "布兰妮希望NBA状元公开道歉",
-      "onboard_time": 1688699309,
-      "rank": 44,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 486148,
@@ -409,14 +417,6 @@
       "onboard_time": 1688699309,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 468036,
-      "num": 468036,
-      "word": "我的人间烟火结局",
-      "onboard_time": 1688698171,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 461113,
@@ -475,6 +475,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 437559,
+      "num": 437559,
+      "word": "上岸第二天就被介绍对象了",
+      "onboard_time": 1688700334,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 431575,
       "num": 347653,
       "word": "女子产后抑郁将孩子从天桥抛下",
@@ -523,6 +531,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363902,
+      "num": 363902,
+      "word": "德云社",
+      "onboard_time": 1688700451,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 345959,
+      "num": 345959,
+      "word": "趁弟弟不注意把他的暑假作业写完",
+      "onboard_time": 1688700273,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 344617,
       "num": 344617,
       "word": "为什么自制的冰几分钟就化了",
@@ -537,14 +561,6 @@
       "onboard_time": 1688698113,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330553,
-      "num": 330553,
-      "word": "上岸第二天就被介绍对象了",
-      "onboard_time": 1688700334,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 328328,
@@ -577,6 +593,14 @@
       "onboard_time": 1688699432,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308816,
+      "num": 308816,
+      "word": "现实版孤儿怨",
+      "onboard_time": 1688700695,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 289582,
@@ -625,14 +649,6 @@
       "onboard_time": 1688691578,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 271460,
-      "num": 271460,
-      "word": "趁弟弟不注意把他的暑假作业写完",
-      "onboard_time": 1688700273,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 269633,
@@ -723,12 +739,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236845,
+      "num": 236845,
+      "word": "杨紫琼发文悼念李玟",
+      "onboard_time": 1688701054,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232727,
       "num": 232727,
       "word": "kms",
       "onboard_time": 1688662824,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229844,
+      "num": 229844,
+      "word": "突然多了一个相差20岁的弟弟",
+      "onboard_time": 1688701233,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 228827,
@@ -753,6 +785,22 @@
       "onboard_time": 1688691636,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223425,
+      "num": 223425,
+      "word": "李东海看海底捞甩面师傅甩面的反应",
+      "onboard_time": 1688700632,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222091,
+      "num": 222091,
+      "word": "中国禁止进口日本福岛等十地食品",
+      "onboard_time": 1688700932,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216004,
@@ -835,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199644,
-      "num": 199644,
-      "word": "现实版孤儿怨",
-      "onboard_time": 1688700695,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195666,
       "num": 195666,
       "word": "安徽一小学期末奖励是大公鸡活鱼",
@@ -921,6 +961,14 @@
       "onboard_time": 1688687551,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174323,
+      "num": 655680,
+      "word": "92岁亲历者讲述卢沟桥事变惨状",
+      "onboard_time": 1688699374,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170554,
@@ -1051,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125405,
-      "num": 551225,
-      "word": "92岁亲历者讲述卢沟桥事变惨状",
-      "onboard_time": 1688699374,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114881,
       "num": 114881,
       "word": "谈一场直球式恋爱有多甜",
@@ -1132,7 +1172,7 @@
     },
     {
       "raw_hot": 68667,
-      "num": 1218117,
+      "num": 1232360,
       "word": "高温下坚守的人",
       "onboard_time": 1688648558,
       "rank": 2,
