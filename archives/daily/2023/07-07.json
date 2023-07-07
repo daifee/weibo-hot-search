@@ -1,10 +1,10 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688694682648,
+  "endTime": 1688695998523,
   "band_list": [
     {
       "raw_hot": 1880704,
-      "num": 749058,
+      "num": 1128536,
       "word": "李玟姐姐呼吁大家不要作任何揣测",
       "onboard_time": 1688692715,
       "rank": 3,
@@ -83,12 +83,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1244708,
+      "num": 1244708,
+      "word": "奔跑吧",
+      "onboard_time": 1688693852,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1106775,
+      "num": 1106775,
+      "word": "原来骑手知道我在看配送进度",
+      "onboard_time": 1688693733,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 937489,
       "num": 500116,
       "word": "家人把15万珠宝当垃圾丢掉还被人给捡了",
       "onboard_time": 1688684423,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 858557,
+      "num": 508972,
+      "word": "杨洋评论区好多迪丽热巴照片",
+      "onboard_time": 1688692118,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 849231,
@@ -115,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 828628,
+      "num": 828628,
+      "word": "酒店为什么会免费升房",
+      "onboard_time": 1688690617,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815233,
       "num": 815233,
       "word": "李玟妈妈目前不吃不睡",
@@ -131,20 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 774136,
-      "num": 508972,
-      "word": "杨洋评论区好多迪丽热巴照片",
-      "onboard_time": 1688692118,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 720980,
-      "num": 720980,
-      "word": "奔跑吧",
-      "onboard_time": 1688693852,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 755887,
+      "num": 755887,
+      "word": "底薪6K的外贸笔试题",
+      "onboard_time": 1688690617,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 708322,
@@ -155,16 +179,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 673261,
-      "num": 673261,
-      "word": "底薪6K的外贸笔试题",
-      "onboard_time": 1688690617,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 666567,
-      "num": 506808,
+      "num": 560282,
       "word": "李艾 这不是她的错她需要帮助",
       "onboard_time": 1688689836,
       "rank": 13,
@@ -209,6 +225,22 @@
       "onboard_time": 1688656836,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561048,
+      "num": 475516,
+      "word": "徐志胜很难证明自己的身份",
+      "onboard_time": 1688693492,
+      "rank": 23,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 547436,
+      "num": 443620,
+      "word": "你现在收入存够50万要多久",
+      "onboard_time": 1688691518,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 545427,
@@ -259,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503838,
-      "num": 503838,
-      "word": "酒店为什么会免费升房",
-      "onboard_time": 1688690617,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497756,
       "num": 497756,
       "word": "谁家的哈基米时影丢了",
@@ -275,20 +299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 495016,
-      "num": 443620,
-      "word": "你现在收入存够50万要多久",
-      "onboard_time": 1688691518,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 486148,
       "num": 342547,
       "word": "警方通报2名女孩在酒店被性侵",
       "onboard_time": 1688653536,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474771,
+      "num": 474771,
+      "word": "难哄或在接触宋威龙张予曦",
+      "onboard_time": 1688692534,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 461113,
@@ -339,14 +363,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 441649,
-      "num": 441649,
-      "word": "徐志胜很难证明自己的身份",
-      "onboard_time": 1688693492,
-      "rank": 23,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 431575,
       "num": 347653,
       "word": "女子产后抑郁将孩子从天桥抛下",
@@ -363,20 +379,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 420605,
+      "num": 360526,
+      "word": "男子强迫11岁少年吸毒并殴打致死",
+      "onboard_time": 1688695051,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410666,
       "num": 293697,
       "word": "亮警证让查酒驾交警放行男子系民警",
       "onboard_time": 1688684120,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405874,
-      "num": 405874,
-      "word": "难哄或在接触宋威龙张予曦",
-      "onboard_time": 1688692534,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 384584,
@@ -427,11 +443,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314938,
+      "num": 296534,
+      "word": "半夜因为一条蜈蚣被救护车拉走",
+      "onboard_time": 1688695714,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314129,
       "num": 314129,
       "word": "为什么不夸魏大勋",
       "onboard_time": 1688656716,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298173,
+      "num": 298173,
+      "word": "张彬彬白天和杨洋扫楼晚上陪吴倩吃饭",
+      "onboard_time": 1688695591,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 287726,
+      "num": 287726,
+      "word": "杨洋张彬彬连手都有体型差",
+      "onboard_time": 1688694871,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -441,14 +481,6 @@
       "onboard_time": 1688657976,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 276480,
-      "num": 276480,
-      "word": "原来骑手知道我在看配送进度",
-      "onboard_time": 1688693733,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 275402,
@@ -481,6 +513,14 @@
       "onboard_time": 1688643031,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253428,
+      "num": 253428,
+      "word": "七七事变",
+      "onboard_time": 1688687731,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251080,
@@ -555,6 +595,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 215188,
+      "num": 215188,
+      "word": "TMEA音乐节节目单",
+      "onboard_time": 1688695354,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 214742,
+      "num": 214742,
+      "word": "吉克隽逸镶钻半遮面头纱",
+      "onboard_time": 1688694151,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214233,
       "num": 179730,
       "word": "在厕所里发现了新世界",
@@ -579,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208612,
+      "num": 208612,
+      "word": "王嘉尔抱着Amber转圈圈",
+      "onboard_time": 1688695113,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207582,
       "num": 207582,
       "word": "周星驰晒照悼念李玟",
@@ -587,12 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205699,
-      "num": 205699,
-      "word": "吉克隽逸镶钻半遮面头纱",
-      "onboard_time": 1688694151,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 204772,
+      "num": 204772,
+      "word": "教资报名",
+      "onboard_time": 1688695174,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 200438,
@@ -609,6 +673,14 @@
       "onboard_time": 1688691339,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193999,
+      "num": 193999,
+      "word": "最具仙气的古偶男主脸",
+      "onboard_time": 1688695416,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 191223,
@@ -667,14 +739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175325,
-      "num": 175325,
-      "word": "七七事变",
-      "onboard_time": 1688687731,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170554,
       "num": 170554,
       "word": "很少劝朋友离开让她难过的关系",
@@ -697,6 +761,14 @@
       "onboard_time": 1688648488,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165309,
+      "num": 165309,
+      "word": "为什么自制的冰几分钟就化了",
+      "onboard_time": 1688695354,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 164916,
@@ -875,20 +947,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65138,
+      "num": 1144643,
+      "word": "高温下坚守的人",
+      "onboard_time": 1688648558,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63425,
       "num": 96370,
       "word": "当突然有个人跟你搭讪时",
       "onboard_time": 1688663481,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 62382,
-      "num": 873187,
-      "word": "高温下坚守的人",
-      "onboard_time": 1688648558,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52053,
