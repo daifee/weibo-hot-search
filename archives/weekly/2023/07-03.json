@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688711147407,
+  "endTime": 1688711979450,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1227,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1518248,
+      "num": 1518248,
+      "word": "西安人被正式确诊为沈眉庄",
+      "onboard_time": 1688706224,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1501916,
       "num": 1336887,
       "word": "肖战任敏水下吻",
@@ -2051,6 +2059,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1015073,
+      "num": 618839,
+      "word": "宋妍霏工作室 有道理个屁",
+      "onboard_time": 1688710719,
+      "rank": 16,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1010809,
       "num": 1010809,
       "word": "TES",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1688452598,
       "rank": 37,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 985884,
+      "num": 720668,
+      "word": "内娱绝交大全",
+      "onboard_time": 1688709699,
+      "rank": 7,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 985221,
@@ -2321,14 +2345,6 @@
       "onboard_time": 1688633673,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 910549,
-      "num": 1115669,
-      "word": "西安人被正式确诊为沈眉庄",
-      "onboard_time": 1688706224,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 910518,
@@ -2667,6 +2683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 819147,
+      "num": 750568,
+      "word": "后浪豆瓣开分3.9",
+      "onboard_time": 1688708200,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 819066,
       "num": 819066,
       "word": "我的人间烟火官宣定档",
@@ -2808,14 +2832,6 @@
       "word": "曾少年定档",
       "onboard_time": 1688610338,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 782766,
-      "num": 750568,
-      "word": "后浪豆瓣开分3.9",
-      "onboard_time": 1688708200,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -2985,6 +3001,14 @@
       "onboard_time": 1688358625,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 749345,
+      "num": 749345,
+      "word": "买香水客服竟然是高中同学",
+      "onboard_time": 1688704307,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 746391,
@@ -3195,14 +3219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 709923,
-      "num": 709923,
-      "word": "买香水客服竟然是高中同学",
-      "onboard_time": 1688704307,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 709532,
       "num": 709532,
       "word": "趁弟弟不注意把他的暑假作业写完",
@@ -3233,14 +3249,6 @@
       "onboard_time": 1688606860,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707170,
-      "num": 707170,
-      "word": "内娱绝交大全",
-      "onboard_time": 1688709699,
-      "rank": 7,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 706960,
@@ -3291,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 696179,
+      "num": 696179,
+      "word": "驻日美军承认东京17个地区地下水疑受污染",
+      "onboard_time": 1688708739,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695559,
       "num": 962774,
       "word": "武汉牛肉粉店一天卖光一头牛",
@@ -3305,6 +3321,14 @@
       "onboard_time": 1688383778,
       "rank": 46,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 692559,
+      "num": 692559,
+      "word": "六公主说但他可是周深啊",
+      "onboard_time": 1688710359,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 692194,
@@ -3907,14 +3931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 587395,
-      "num": 587395,
-      "word": "驻日美军承认东京17个地区地下水疑受污染",
-      "onboard_time": 1688708739,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587187,
       "num": 587187,
       "word": "05后要上大学了",
@@ -4379,6 +4395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 523522,
+      "num": 417220,
+      "word": "挥刀自宫有多痛",
+      "onboard_time": 1688710959,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521554,
       "num": 521554,
       "word": "杨超越演杨洋妹妹",
@@ -4683,14 +4707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485863,
-      "num": 485863,
-      "word": "宋妍霏工作室 有道理个屁",
-      "onboard_time": 1688710719,
-      "rank": 16,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 484981,
       "num": 484981,
       "word": "薛之谦脱掉",
@@ -4915,14 +4931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 456038,
-      "num": 456038,
-      "word": "六公主说但他可是周深啊",
-      "onboard_time": 1688710359,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 455193,
       "num": 455193,
       "word": "美总统参选人称中国周边有313美军基地",
@@ -5057,6 +5065,14 @@
       "onboard_time": 1688633433,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443967,
+      "num": 477513,
+      "word": "吃完的荔枝核不要扔",
+      "onboard_time": 1688707192,
+      "rank": 18,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 443253,
@@ -5411,6 +5427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 402146,
+      "num": 402146,
+      "word": "这还是刘雅瑟吗",
+      "onboard_time": 1688710416,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401701,
       "num": 401701,
       "word": "他是一颗星 但你是自己的太阳",
@@ -5755,14 +5779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 380448,
-      "num": 477513,
-      "word": "吃完的荔枝核不要扔",
-      "onboard_time": 1688707192,
-      "rank": 18,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 379668,
       "num": 291055,
       "word": "八角笼中原型孩子现状",
@@ -6099,14 +6115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 353808,
-      "num": 315380,
-      "word": "这还是刘雅瑟吗",
-      "onboard_time": 1688710416,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 352402,
       "num": 352402,
       "word": "杀人犯逃亡30年被抓当场让妻子改嫁",
@@ -6137,6 +6145,22 @@
       "onboard_time": 1688344830,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 350594,
+      "num": 350594,
+      "word": "国产剧里你最烦的男女主",
+      "onboard_time": 1688710059,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 350591,
+      "num": 350591,
+      "word": "freshman是什么意思",
+      "onboard_time": 1688709336,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 350168,
@@ -7147,14 +7171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 294872,
-      "num": 294872,
-      "word": "国产剧里你最烦的男女主",
-      "onboard_time": 1688710059,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 294548,
       "num": 294548,
       "word": "试用期薪资可以不打八折",
@@ -7644,7 +7660,7 @@
     },
     {
       "raw_hot": 268922,
-      "num": 202290,
+      "num": 253070,
       "word": "谢娜给贾静雯刘雅瑟准备横幅",
       "onboard_time": 1688710476,
       "rank": 40,
@@ -7753,6 +7769,14 @@
       "onboard_time": 1688393686,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261324,
+      "num": 261324,
+      "word": "钻戒和黄金应该选择哪个",
+      "onboard_time": 1688711675,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 261305,
@@ -8051,6 +8075,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 251997,
+      "num": 242650,
+      "word": "段嘉许苏而不油的原因",
+      "onboard_time": 1688709519,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251698,
       "num": 251698,
       "word": "鼻孔巨震",
@@ -8105,14 +8137,6 @@
       "onboard_time": 1688549316,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248707,
-      "num": 201971,
-      "word": "段嘉许苏而不油的原因",
-      "onboard_time": 1688709519,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 247852,
@@ -8225,6 +8249,14 @@
       "onboard_time": 1688297434,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244216,
+      "num": 244216,
+      "word": "女装尺码越做越小合理吗",
+      "onboard_time": 1688711499,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 243861,
@@ -8843,6 +8875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218833,
+      "num": 218833,
+      "word": "被爷爷70年前大学笔记惊艳到了",
+      "onboard_time": 1688711317,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218742,
       "num": 218742,
       "word": "美财政部部长抵达北京",
@@ -9011,6 +9051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212334,
+      "num": 212334,
+      "word": "领导给我哺乳假期延长了",
+      "onboard_time": 1688711855,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212168,
       "num": 212168,
       "word": "不同年龄段空调的温度",
@@ -9049,6 +9097,14 @@
       "onboard_time": 1688521053,
       "rank": 35,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 211175,
+      "num": 211175,
+      "word": "老板知道我要离职不断给我加工作",
+      "onboard_time": 1688710959,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 210728,
@@ -9129,6 +9185,14 @@
       "onboard_time": 1688372146,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 209529,
+      "num": 209529,
+      "word": "被邻桌小女孩塞了纸条",
+      "onboard_time": 1688711434,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 208939,
@@ -9339,14 +9403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202329,
-      "num": 202329,
-      "word": "挥刀自宫有多痛",
-      "onboard_time": 1688710959,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202265,
       "num": 202265,
       "word": "成都蓉城0比1北京国安",
@@ -9417,14 +9473,6 @@
       "onboard_time": 1688546253,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201174,
-      "num": 201174,
-      "word": "freshman是什么意思",
-      "onboard_time": 1688709336,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 201039,
@@ -9833,14 +9881,6 @@
       "onboard_time": 1688313033,
       "rank": 37,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 190700,
-      "num": 190700,
-      "word": "老板知道我要离职不断给我加工作",
-      "onboard_time": 1688710959,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 190485,
