@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688736368337,
+  "endTime": 1688736995234,
   "band_list": [
     {
       "raw_hot": 10204768,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1163896,
-      "num": 914901,
+      "num": 1017416,
       "word": "蚂蚁集团回应被罚",
       "onboard_time": 1688734663,
       "rank": 6,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 1134430,
-      "num": 533608,
+      "num": 582574,
       "word": "给女儿取了全上海唯一的名字",
       "onboard_time": 1688725893,
       "rank": 23,
@@ -385,6 +385,14 @@
       "onboard_time": 1688730812,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1065827,
+      "num": 1065827,
+      "word": "网友辣评Angelababy新剧哭戏",
+      "onboard_time": 1688734310,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 1047489,
@@ -467,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 870717,
+      "num": 870717,
+      "word": "长沙发现3例猴痘病例",
+      "onboard_time": 1688736042,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867017,
       "num": 867017,
       "word": "酒店为什么会免费升房",
@@ -539,14 +555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 832896,
-      "num": 832896,
-      "word": "网友辣评Angelababy新剧哭戏",
-      "onboard_time": 1688734310,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 832258,
       "num": 832258,
       "word": "长肥胖纹是有预兆的",
@@ -561,6 +569,14 @@
       "onboard_time": 1688719776,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 824566,
+      "num": 567888,
+      "word": "魏大勋早几年干嘛去了",
+      "onboard_time": 1688735803,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 819147,
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 698961,
-      "num": 446145,
+      "num": 500109,
       "word": "无骨鸡柳为什么消失了",
       "onboard_time": 1688729672,
       "rank": 21,
@@ -747,20 +763,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 678644,
+      "num": 678644,
+      "word": "王俊凯为十周年在剧组租舞室",
+      "onboard_time": 1688734483,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 670193,
       "num": 670193,
       "word": "特斯拉",
       "onboard_time": 1688698471,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 667916,
-      "num": 667916,
-      "word": "王俊凯为十周年在剧组租舞室",
-      "onboard_time": 1688734483,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 666567,
@@ -785,6 +801,14 @@
       "onboard_time": 1688733044,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 658551,
+      "num": 658551,
+      "word": "财付通支付科技有限公司被罚没近30亿元",
+      "onboard_time": 1688735143,
+      "rank": 23,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 655584,
@@ -835,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614993,
+      "num": 596367,
+      "word": "肖战任敏的cp名叫肖朱佩奇",
+      "onboard_time": 1688735507,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 610616,
       "num": 610616,
       "word": "徐志胜很难证明自己的身份",
@@ -857,14 +889,6 @@
       "onboard_time": 1688659113,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 593486,
-      "num": 521181,
-      "word": "魏大勋早几年干嘛去了",
-      "onboard_time": 1688735803,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 591230,
@@ -955,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 553091,
-      "num": 553091,
-      "word": "肖战任敏的cp名叫肖朱佩奇",
-      "onboard_time": 1688735507,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 547436,
       "num": 443620,
       "word": "你现在收入存够50万要多久",
@@ -1043,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506579,
+      "num": 506579,
+      "word": "肖战vs罗云熙破碎感",
+      "onboard_time": 1688735568,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 505071,
       "num": 476625,
       "word": "7旬老人为救17岁女孩当场遇害",
@@ -1099,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481210,
+      "num": 481210,
+      "word": "小时候申请的专利竟然被做出来了",
+      "onboard_time": 1688735023,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 475857,
       "num": 475857,
       "word": "杨洋王楚然长成这样还折腾什么",
@@ -1123,14 +1155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 467715,
-      "num": 467715,
-      "word": "财付通支付科技有限公司被罚没近30亿元",
-      "onboard_time": 1688735143,
-      "rank": 23,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 466040,
       "num": 477513,
       "word": "吃完的荔枝核不要扔",
@@ -1147,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460875,
-      "num": 460875,
-      "word": "小时候申请的专利竟然被做出来了",
-      "onboard_time": 1688735023,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 460683,
       "num": 460683,
       "word": "王楚然魏大勋cp感",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1688684843,
       "rank": 21,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 456311,
-      "num": 456311,
-      "word": "长沙发现3例猴痘病例",
-      "onboard_time": 1688736042,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453959,
@@ -1555,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322753,
-      "num": 322753,
-      "word": "肖战vs罗云熙破碎感",
-      "onboard_time": 1688735568,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 320052,
       "num": 320052,
       "word": "偷偷藏不住",
@@ -1643,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299938,
+      "num": 299938,
+      "word": "李玟曾说为自己是中国人感到骄傲",
+      "onboard_time": 1688736106,
+      "rank": 37,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 296694,
       "num": 296694,
       "word": "徐怀钰回来了",
@@ -1715,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278459,
+      "num": 278459,
+      "word": "内娱外星系帅哥",
+      "onboard_time": 1688736224,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276365,
       "num": 276365,
       "word": "薛之谦合肥",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1688649454,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 265078,
-      "num": 265078,
-      "word": "李玟曾说为自己是中国人感到骄傲",
-      "onboard_time": 1688736106,
-      "rank": 37,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 264106,
@@ -2107,6 +2115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211884,
+      "num": 211884,
+      "word": "小狗肚子怎么任人摸摸啊",
+      "onboard_time": 1688734483,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210113,
       "num": 210113,
       "word": "小蜘蛛今天应该是睡过头了",
@@ -2128,14 +2144,6 @@
       "word": "周星驰晒照悼念李玟",
       "onboard_time": 1688635235,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 206347,
-      "num": 206347,
-      "word": "内娱外星系帅哥",
-      "onboard_time": 1688736224,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -2161,14 +2169,6 @@
       "onboard_time": 1688691339,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199031,
-      "num": 199031,
-      "word": "小狗肚子怎么任人摸摸啊",
-      "onboard_time": 1688734483,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 195666,
@@ -2257,6 +2257,14 @@
       "onboard_time": 1688724031,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177816,
+      "num": 177816,
+      "word": "居住在高档小区是什么体验",
+      "onboard_time": 1688736941,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 177750,
