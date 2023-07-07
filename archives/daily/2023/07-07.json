@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688718263837,
+  "endTime": 1688719069134,
   "band_list": [
     {
       "raw_hot": 4679821,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1671883,
+      "num": 265673,
+      "word": "蔡徐坤周边遭粉丝9.9元甩卖",
+      "onboard_time": 1688715274,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1590949,
       "num": 1590949,
       "word": "中国禁止进口日本福岛等十地食品",
       "onboard_time": 1688700932,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1554371,
-      "num": 243531,
-      "word": "蔡徐坤周边遭粉丝9.9元甩卖",
-      "onboard_time": 1688715274,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1549832,
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 916485,
+      "num": 408031,
+      "word": "丈夫不愿付70元手机维修费扇妻子耳光",
+      "onboard_time": 1688717432,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902167,
       "num": 422914,
       "word": "确诊糖尿病后被女朋友分手了",
@@ -320,6 +328,14 @@
       "word": "宋轶鸡哔你",
       "onboard_time": 1688712455,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 850412,
+      "num": 850412,
+      "word": "小欢喜2",
+      "onboard_time": 1688718696,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689693,
+      "num": 620241,
+      "word": "gap day是怎么流行起来的",
+      "onboard_time": 1688713715,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 670193,
       "num": 670193,
       "word": "特斯拉",
@@ -555,20 +579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 620241,
-      "num": 620241,
-      "word": "gap day是怎么流行起来的",
-      "onboard_time": 1688713715,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 610616,
       "num": 610616,
       "word": "徐志胜很难证明自己的身份",
       "onboard_time": 1688693492,
       "rank": 23,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 607784,
+      "num": 607784,
+      "word": "朱一龙一番票房突破50亿",
+      "onboard_time": 1688718273,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 601948,
@@ -683,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 510733,
-      "num": 342838,
-      "word": "丈夫不愿付70元手机维修费扇妻子耳光",
-      "onboard_time": 1688717432,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 508296,
       "num": 508296,
       "word": "火锅店买8000斤滞销瓜送顾客",
@@ -803,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459166,
+      "num": 459166,
+      "word": "原来抽纸是从侧面撕开的",
+      "onboard_time": 1688718514,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457866,
       "num": 228956,
       "word": "小暑",
@@ -876,7 +900,7 @@
     },
     {
       "raw_hot": 436193,
-      "num": 242844,
+      "num": 273612,
       "word": "瑞幸一门店有门框无玻璃顾客尴尬进出",
       "onboard_time": 1688716234,
       "rank": 31,
@@ -915,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411018,
+      "num": 411018,
+      "word": "A股",
+      "onboard_time": 1688716594,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 410666,
       "num": 293697,
       "word": "亮警证让查酒驾交警放行男子系民警",
@@ -929,14 +961,6 @@
       "onboard_time": 1688710416,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391118,
-      "num": 391118,
-      "word": "A股",
-      "onboard_time": 1688716594,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 387614,
@@ -1099,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319797,
+      "num": 319797,
+      "word": "陈立农表情演我",
+      "onboard_time": 1688717555,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314129,
       "num": 314129,
       "word": "为什么不夸魏大勋",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1688707901,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292380,
-      "num": 292380,
-      "word": "陈立农表情演我",
-      "onboard_time": 1688717555,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 292271,
@@ -1259,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256883,
+      "num": 256883,
+      "word": "杨紫万茜李晟你们怎么还整过这出",
+      "onboard_time": 1688718873,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256381,
       "num": 256381,
       "word": "第一次见长得像海胆的小猫",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1688687731,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252896,
+      "num": 252896,
+      "word": "突然发现发小是富二代",
+      "onboard_time": 1688718873,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 251997,
@@ -1403,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221845,
+      "num": 787919,
+      "word": "七七事变爆发86周年",
+      "onboard_time": 1688718755,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218833,
       "num": 218833,
       "word": "被爷爷70年前大学笔记惊艳到了",
@@ -1440,6 +1488,14 @@
       "word": "在厕所里发现了新世界",
       "onboard_time": 1688660910,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 213839,
+      "num": 213839,
+      "word": "毕业一年爸爸突然找我借五千块",
+      "onboard_time": 1688718634,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -1507,20 +1563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199328,
+      "num": 199328,
+      "word": "避免做伤害大脑的这3件事",
+      "onboard_time": 1688717015,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195666,
       "num": 195666,
       "word": "安徽一小学期末奖励是大公鸡活鱼",
       "onboard_time": 1688698774,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193468,
-      "num": 193468,
-      "word": "避免做伤害大脑的这3件事",
-      "onboard_time": 1688717015,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 193119,
@@ -1569,6 +1625,14 @@
       "onboard_time": 1688641473,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 182657,
+      "num": 182657,
+      "word": "五月天深圳演唱会",
+      "onboard_time": 1688718992,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 178407,
