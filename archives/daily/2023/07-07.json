@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688736995234,
+  "endTime": 1688739459305,
   "band_list": [
     {
       "raw_hot": 10204768,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1909751,
+      "num": 1909751,
+      "word": "长沙发现3例猴痘病例",
+      "onboard_time": 1688736042,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1906649,
       "num": 1906649,
       "word": "陈哲远直播 取消",
@@ -203,19 +211,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1649568,
+      "num": 857115,
+      "word": "杜蕾斯客服回应避孕套中发现异物",
+      "onboard_time": 1688731836,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1590949,
       "num": 1590949,
       "word": "中国禁止进口日本福岛等十地食品",
       "onboard_time": 1688700932,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1578359,
-      "num": 857115,
-      "word": "杜蕾斯客服回应避孕套中发现异物",
-      "onboard_time": 1688731836,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -307,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1320057,
+      "num": 1320057,
+      "word": "xxs",
+      "onboard_time": 1688737362,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1261355,
       "num": 1261355,
       "word": "曾毅竟然50岁了",
@@ -329,6 +345,14 @@
       "onboard_time": 1688656956,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1246076,
+      "num": 1246076,
+      "word": "网友辣评Angelababy新剧哭戏",
+      "onboard_time": 1688734310,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 1244708,
@@ -387,14 +411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1065827,
-      "num": 1065827,
-      "word": "网友辣评Angelababy新剧哭戏",
-      "onboard_time": 1688734310,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1047489,
       "num": 680087,
       "word": "现实版孤儿怨",
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938070,
+      "num": 567888,
+      "word": "魏大勋早几年干嘛去了",
+      "onboard_time": 1688735803,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 937489,
       "num": 500116,
       "word": "家人把15万珠宝当垃圾丢掉还被人给捡了",
@@ -473,14 +497,6 @@
       "onboard_time": 1688724750,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 870717,
-      "num": 870717,
-      "word": "长沙发现3例猴痘病例",
-      "onboard_time": 1688736042,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 867017,
@@ -569,14 +585,6 @@
       "onboard_time": 1688719776,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 824566,
-      "num": 567888,
-      "word": "魏大勋早几年干嘛去了",
-      "onboard_time": 1688735803,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 819147,
@@ -835,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640498,
+      "num": 477070,
+      "word": "迪丽热巴是90后唯一电视剧三大奖全提女演员",
+      "onboard_time": 1688738319,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 629841,
       "num": 629841,
       "word": "薛之谦衡阳天外来物演唱会 退票",
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 614993,
-      "num": 596367,
+      "num": 605882,
       "word": "肖战任敏的cp名叫肖朱佩奇",
       "onboard_time": 1688735507,
       "rank": 19,
@@ -1027,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 529612,
+      "num": 529612,
+      "word": "肖战vs罗云熙破碎感",
+      "onboard_time": 1688735568,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 520159,
       "num": 520159,
       "word": "电梯的镜子原来这么有用",
@@ -1056,14 +1080,6 @@
       "word": "我的人间烟火结局",
       "onboard_time": 1688698171,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 506579,
-      "num": 506579,
-      "word": "肖战vs罗云熙破碎感",
-      "onboard_time": 1688735568,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -1155,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 468355,
+      "num": 468355,
+      "word": "内娱外星系帅哥",
+      "onboard_time": 1688736224,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466040,
       "num": 477513,
       "word": "吃完的荔枝核不要扔",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1688657136,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 451064,
+      "num": 399760,
+      "word": "我同学被北大退学了",
+      "onboard_time": 1688739340,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 450113,
@@ -1299,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 423757,
+      "num": 423757,
+      "word": "女子网购S码裤子太小戴头上当帽子",
+      "onboard_time": 1688737001,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421621,
       "num": 421621,
       "word": "super shy",
@@ -1352,6 +1392,22 @@
       "word": "这还是刘雅瑟吗",
       "onboard_time": 1688710416,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 400066,
+      "num": 400066,
+      "word": "古人的吸管杯颜值太高了",
+      "onboard_time": 1688738380,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399389,
+      "num": 399389,
+      "word": "黄子韬抱着孙红雷痛哭",
+      "onboard_time": 1688737540,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1475,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356114,
+      "num": 356114,
+      "word": "李玟曾说为自己是中国人感到骄傲",
+      "onboard_time": 1688736106,
+      "rank": 37,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 350594,
       "num": 350594,
       "word": "国产剧里你最烦的男女主",
@@ -1537,6 +1601,30 @@
       "onboard_time": 1688722114,
       "rank": 40,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 332479,
+      "num": 332479,
+      "word": "农学生挂科到底有多容易",
+      "onboard_time": 1688738022,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 332342,
+      "num": 332342,
+      "word": "王俊凯流浪汉造型路透",
+      "onboard_time": 1688737961,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 331778,
+      "num": 331778,
+      "word": "张颂文拍的晚霞",
+      "onboard_time": 1688739223,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 328328,
@@ -1643,12 +1731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299938,
-      "num": 299938,
-      "word": "李玟曾说为自己是中国人感到骄傲",
-      "onboard_time": 1688736106,
-      "rank": 37,
-      "category": "社会新闻,艺人"
+      "raw_hot": 297043,
+      "num": 297043,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1688739223,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 296694,
@@ -1715,20 +1803,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 278737,
+      "num": 278737,
+      "word": "上班第一天把老板的豪车撞了",
+      "onboard_time": 1688738319,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278599,
       "num": 274355,
       "word": "我的通勤包包破了",
       "onboard_time": 1688725412,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 278459,
-      "num": 278459,
-      "word": "内娱外星系帅哥",
-      "onboard_time": 1688736224,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 276365,
@@ -1883,6 +1971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 245176,
+      "num": 245176,
+      "word": "取2.5万存款被盘问用途合规吗",
+      "onboard_time": 1688739165,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 244216,
       "num": 244216,
       "word": "女装尺码越做越小合理吗",
@@ -1953,6 +2049,14 @@
       "onboard_time": 1688662824,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231318,
+      "num": 231318,
+      "word": "小狗肚子怎么任人摸摸啊",
+      "onboard_time": 1688734483,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 228827,
@@ -2112,14 +2216,6 @@
       "word": "因为没去聚餐被踢出公司群了",
       "onboard_time": 1688721454,
       "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 211884,
-      "num": 211884,
-      "word": "小狗肚子怎么任人摸摸啊",
-      "onboard_time": 1688734483,
-      "rank": 43,
       "category": "幽默"
     },
     {
@@ -2653,6 +2749,9 @@
     },
     {
       "word": "#总书记江苏考察关注这个园区#"
+    },
+    {
+      "word": "#习近平在江苏考察#"
     }
   ]
 }

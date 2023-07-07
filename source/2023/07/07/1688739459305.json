@@ -1,0 +1,410 @@
+{
+  "runTime": 1688739459305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5809586,
+        "num": 5809586,
+        "word": "奔跑吧没播",
+        "onboard_time": 1688735864,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4057590,
+        "num": 4057590,
+        "word": "邓伦被强制执行",
+        "onboard_time": 1688730994,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 107470,
+        "num": 2976163,
+        "word": "七七事变爆发86周年",
+        "onboard_time": 1688718755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2502395,
+        "num": 2502395,
+        "word": "蚂蚁集团被罚71.23亿元",
+        "onboard_time": 1688731778,
+        "rank": 3,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1909751,
+        "num": 1909751,
+        "word": "长沙发现3例猴痘病例",
+        "onboard_time": 1688736042,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320057,
+        "num": 1320057,
+        "word": "xxs",
+        "onboard_time": 1688737362,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1246076,
+        "num": 1246076,
+        "word": "网友辣评Angelababy新剧哭戏",
+        "onboard_time": 1688734310,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 895649,
+        "num": 895649,
+        "word": "牵手门涉事领导被双开",
+        "onboard_time": 1688732260,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812109,
+        "num": 812109,
+        "word": "原来快递员能看见快递里面是啥",
+        "onboard_time": 1688729672,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 647706,
+        "num": 647706,
+        "word": "李玟重病时仍在关心郑欣宜",
+        "onboard_time": 1688733466,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1649568,
+        "num": 645561,
+        "word": "杜蕾斯客服回应避孕套中发现异物",
+        "onboard_time": 1688731836,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605882,
+        "num": 605882,
+        "word": "肖战任敏的cp名叫肖朱佩奇",
+        "onboard_time": 1688735507,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585193,
+        "num": 585193,
+        "word": "李玟疑因窒息死亡",
+        "onboard_time": 1688707062,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582974,
+        "num": 582974,
+        "word": "张彬彬新剧上线3天就下线",
+        "onboard_time": 1688733044,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573630,
+        "num": 573630,
+        "word": "王俊凯为十周年在剧组租舞室",
+        "onboard_time": 1688734483,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 543100,
+        "num": 543100,
+        "word": "蚂蚁集团回应被罚",
+        "onboard_time": 1688734663,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 529612,
+        "num": 529612,
+        "word": "肖战vs罗云熙破碎感",
+        "onboard_time": 1688735568,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 526468,
+        "num": 526468,
+        "word": "牵手门董某某被解除劳动合同",
+        "onboard_time": 1688733944,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513739,
+        "num": 513739,
+        "word": "财付通支付科技有限公司被罚没近30亿元",
+        "onboard_time": 1688735143,
+        "rank": 18,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 497881,
+        "num": 497881,
+        "word": "范玮琪演唱会取消",
+        "onboard_time": 1688730812,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1026656,
+        "num": 491533,
+        "word": "给女儿取了全上海唯一的名字",
+        "onboard_time": 1688725893,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 938070,
+        "num": 486945,
+        "word": "魏大勋早几年干嘛去了",
+        "onboard_time": 1688735803,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640498,
+        "num": 477070,
+        "word": "迪丽热巴是90后唯一电视剧三大奖全提女演员",
+        "onboard_time": 1688738319,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507389,
+        "num": 472491,
+        "word": "无骨鸡柳为什么消失了",
+        "onboard_time": 1688729672,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 468355,
+        "num": 468355,
+        "word": "内娱外星系帅哥",
+        "onboard_time": 1688736224,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423757,
+        "num": 423757,
+        "word": "女子网购S码裤子太小戴头上当帽子",
+        "onboard_time": 1688737001,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416680,
+        "num": 416680,
+        "word": "小时候申请的专利竟然被做出来了",
+        "onboard_time": 1688735023,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405050,
+        "num": 405050,
+        "word": "曾毅竟然50岁了",
+        "onboard_time": 1688726370,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400217,
+        "num": 400217,
+        "word": "玉骨遥塌房文学",
+        "onboard_time": 1688733044,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400066,
+        "num": 400066,
+        "word": "古人的吸管杯颜值太高了",
+        "onboard_time": 1688738380,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559062,
+        "num": 400000,
+        "word": "蔡徐坤周边遭粉丝9.9元甩卖",
+        "onboard_time": 1688715274,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451064,
+        "num": 399760,
+        "word": "我同学被北大退学了",
+        "onboard_time": 1688739340,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399389,
+        "num": 399389,
+        "word": "黄子韬抱着孙红雷痛哭",
+        "onboard_time": 1688737540,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356114,
+        "num": 356114,
+        "word": "李玟曾说为自己是中国人感到骄傲",
+        "onboard_time": 1688736106,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 351746,
+        "num": 351746,
+        "word": "马龙止步男单16强",
+        "onboard_time": 1688734966,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333839,
+        "num": 333839,
+        "word": "Melody离婚",
+        "onboard_time": 1688704603,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332479,
+        "num": 332479,
+        "word": "农学生挂科到底有多容易",
+        "onboard_time": 1688738022,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332342,
+        "num": 332342,
+        "word": "王俊凯流浪汉造型路透",
+        "onboard_time": 1688737961,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331778,
+        "num": 331778,
+        "word": "张颂文拍的晚霞",
+        "onboard_time": 1688739223,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331004,
+        "num": 331004,
+        "word": "小欢喜2",
+        "onboard_time": 1688718696,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319386,
+        "num": 319386,
+        "word": "关晓彤也演过花非花雾非雾",
+        "onboard_time": 1688727093,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297582,
+        "num": 297582,
+        "word": "郑秀文 抑郁症我懂",
+        "onboard_time": 1688727153,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 297043,
+        "num": 297043,
+        "word": "韩剧恶鬼",
+        "onboard_time": 1688739223,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288646,
+        "num": 288646,
+        "word": "恋爱脑都沉默了",
+        "onboard_time": 1688730932,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278737,
+        "num": 278737,
+        "word": "上班第一天把老板的豪车撞了",
+        "onboard_time": 1688738319,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266775,
+        "num": 266775,
+        "word": "奔跑的安慕希",
+        "onboard_time": 1688713178,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257815,
+        "num": 257815,
+        "word": "日本学者发现涉731部队最高机密资料",
+        "onboard_time": 1688726914,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245176,
+        "num": 245176,
+        "word": "取2.5万存款被盘问用途合规吗",
+        "onboard_time": 1688739165,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 231318,
+        "num": 231318,
+        "word": "小狗肚子怎么任人摸摸啊",
+        "onboard_time": 1688734483,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225125,
+        "num": 225125,
+        "word": "妻子坐月子丈夫门口贴亲朋进门须知",
+        "onboard_time": 1688720976,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江苏考察#"
+    }
+  }
+}
