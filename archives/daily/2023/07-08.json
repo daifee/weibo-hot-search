@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688748109741,
+  "endTime": 1688750217707,
   "band_list": [
     {
       "raw_hot": 1976757,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 335072,
-      "num": 299591,
+      "num": 320214,
       "word": "家里的狗被牵扯进了诈骗",
       "onboard_time": 1688745097,
       "rank": 32,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 251716,
-      "num": 251716,
+      "num": 265245,
       "word": "张彬彬新剧上线3天就下线",
       "onboard_time": 1688733044,
       "rank": 36,
@@ -321,6 +321,14 @@
       "onboard_time": 1688730812,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230215,
+      "num": 193531,
+      "word": "假如女儿出生就拥有妈妈的记忆",
+      "onboard_time": 1688747190,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 224767,
@@ -379,20 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189754,
-      "num": 189754,
-      "word": "假如女儿出生就拥有妈妈的记忆",
-      "onboard_time": 1688747190,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180365,
       "num": 180365,
       "word": "黄子韬抱着孙红雷痛哭",
       "onboard_time": 1688737540,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168974,
+      "num": 168974,
+      "word": "放在恋爱脑界也是相当炸裂的",
+      "onboard_time": 1688748149,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 168712,
@@ -409,6 +417,14 @@
       "onboard_time": 1688736106,
       "rank": 46,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 98264,
+      "num": 99886,
+      "word": "关晓彤也演过花非花雾非雾",
+      "onboard_time": 1688727093,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 50275,
