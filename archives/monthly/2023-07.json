@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688708116849,
+  "endTime": 1688711147407,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -363,20 +363,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3531419,
+      "num": 750699,
+      "word": "李玟疑因窒息死亡",
+      "onboard_time": 1688707062,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3526747,
       "num": 3526747,
       "word": "ALin 金曲歌后",
       "onboard_time": 1688226334,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3502338,
-      "num": 703779,
-      "word": "李玟疑因窒息死亡",
-      "onboard_time": 1688707062,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 3463245,
@@ -3092,7 +3092,7 @@
     },
     {
       "raw_hot": 910549,
-      "num": 687570,
+      "num": 1115669,
       "word": "西安人被正式确诊为沈眉庄",
       "onboard_time": 1688706224,
       "rank": 35,
@@ -3763,6 +3763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 782766,
+      "num": 750568,
+      "word": "后浪豆瓣开分3.9",
+      "onboard_time": 1688708200,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 782510,
       "num": 415976,
       "word": "袁娅维 这不是真的",
@@ -4275,6 +4283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709923,
+      "num": 709923,
+      "word": "买香水客服竟然是高中同学",
+      "onboard_time": 1688704307,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 709532,
       "num": 709532,
       "word": "趁弟弟不注意把他的暑假作业写完",
@@ -4305,6 +4321,14 @@
       "onboard_time": 1688606860,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707170,
+      "num": 707170,
+      "word": "内娱绝交大全",
+      "onboard_time": 1688709699,
+      "rank": 7,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 706960,
@@ -4545,14 +4569,6 @@
       "onboard_time": 1688269410,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 675175,
-      "num": 675175,
-      "word": "买香水客服竟然是高中同学",
-      "onboard_time": 1688704307,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 674195,
@@ -5003,6 +5019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629841,
+      "num": 629841,
+      "word": "薛之谦衡阳天外来物演唱会 退票",
+      "onboard_time": 1688707241,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 629809,
       "num": 629809,
       "word": "原来韩国偶像剧演的并不夸张",
@@ -5339,6 +5363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587395,
+      "num": 587395,
+      "word": "驻日美军承认东京17个地区地下水疑受污染",
+      "onboard_time": 1688708739,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587187,
       "num": 587187,
       "word": "05后要上大学了",
@@ -5441,6 +5473,14 @@
       "onboard_time": 1688656836,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575132,
+      "num": 575132,
+      "word": "Melody老公",
+      "onboard_time": 1688709035,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 574856,
@@ -6212,7 +6252,7 @@
     },
     {
       "raw_hot": 505071,
-      "num": 442270,
+      "num": 476625,
       "word": "7旬老人为救17岁女孩当场遇害",
       "onboard_time": 1688705625,
       "rank": 21,
@@ -6515,6 +6555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 485863,
+      "num": 485863,
+      "word": "宋妍霏工作室 有道理个屁",
+      "onboard_time": 1688710719,
+      "rank": 16,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 484795,
       "num": 484795,
       "word": "难哄或在接触宋威龙张予曦",
@@ -6577,6 +6625,14 @@
       "onboard_time": 1688188774,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475857,
+      "num": 475857,
+      "word": "杨洋王楚然长成这样还折腾什么",
+      "onboard_time": 1688707192,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 474880,
@@ -6803,6 +6859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 456038,
+      "num": 456038,
+      "word": "六公主说但他可是周深啊",
+      "onboard_time": 1688710359,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455193,
       "num": 455193,
       "word": "美总统参选人称中国周边有313美军基地",
@@ -6945,6 +7009,14 @@
       "onboard_time": 1688304521,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450113,
+      "num": 450113,
+      "word": "陈鲁豫全英文主持",
+      "onboard_time": 1688709276,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 449261,
@@ -7345,14 +7417,6 @@
       "onboard_time": 1688272532,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418049,
-      "num": 418049,
-      "word": "杨洋王楚然长成这样还折腾什么",
-      "onboard_time": 1688707192,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 417467,
@@ -8035,6 +8099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 380448,
+      "num": 477513,
+      "word": "吃完的荔枝核不要扔",
+      "onboard_time": 1688707192,
+      "rank": 18,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 380306,
       "num": 348827,
       "word": "恋与制作人",
@@ -8179,6 +8251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371563,
+      "num": 371563,
+      "word": "朱珠穿旗袍",
+      "onboard_time": 1688708619,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371135,
       "num": 371135,
       "word": "杨丞琳素颜照",
@@ -8313,14 +8393,6 @@
       "onboard_time": 1688281893,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 365070,
-      "num": 365070,
-      "word": "薛之谦衡阳天外来物演唱会 退票",
-      "onboard_time": 1688707241,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 364014,
@@ -8459,6 +8531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359624,
+      "num": 359624,
+      "word": "西瓜被晒成了苦瓜",
+      "onboard_time": 1688709336,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 359531,
       "num": 359531,
       "word": "江疏影王传君认识19年了",
@@ -8521,6 +8601,14 @@
       "onboard_time": 1688394165,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 353808,
+      "num": 315380,
+      "word": "这还是刘雅瑟吗",
+      "onboard_time": 1688710416,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 352402,
@@ -9483,6 +9571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313589,
+      "num": 313589,
+      "word": "张元英穿拖鞋的腿长",
+      "onboard_time": 1688709759,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313004,
       "num": 313004,
       "word": "张佳宁屈楚萧新电影路透",
@@ -9923,6 +10019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 296694,
+      "num": 296694,
+      "word": "徐怀钰回来了",
+      "onboard_time": 1688707901,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296500,
       "num": 400474,
       "word": "亚运会",
@@ -10009,6 +10113,14 @@
       "onboard_time": 1688311657,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294872,
+      "num": 294872,
+      "word": "国产剧里你最烦的男女主",
+      "onboard_time": 1688710059,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 294548,
@@ -10747,6 +10859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 268922,
+      "num": 202290,
+      "word": "谢娜给贾静雯刘雅瑟准备横幅",
+      "onboard_time": 1688710476,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268063,
       "num": 227624,
       "word": "马伯骞你在干什么",
@@ -10849,14 +10969,6 @@
       "onboard_time": 1688620422,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265322,
-      "num": 265322,
-      "word": "徐怀钰回来了",
-      "onboard_time": 1688707901,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 265247,
@@ -11505,6 +11617,14 @@
       "onboard_time": 1688293596,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248707,
+      "num": 201971,
+      "word": "段嘉许苏而不油的原因",
+      "onboard_time": 1688709519,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 248610,
@@ -13419,6 +13539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202329,
+      "num": 202329,
+      "word": "挥刀自宫有多痛",
+      "onboard_time": 1688710959,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202302,
       "num": 202302,
       "word": "毛不易演唱会",
@@ -13513,6 +13641,14 @@
       "onboard_time": 1688546253,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201174,
+      "num": 201174,
+      "word": "freshman是什么意思",
+      "onboard_time": 1688709336,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 201039,
@@ -14017,6 +14153,14 @@
       "onboard_time": 1688282615,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190700,
+      "num": 190700,
+      "word": "老板知道我要离职不断给我加工作",
+      "onboard_time": 1688710959,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 190485,

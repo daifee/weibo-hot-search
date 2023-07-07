@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688708116849,
+  "endTime": 1688711147407,
   "band_list": [
     {
       "raw_hot": 4679821,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3502338,
-      "num": 703779,
+      "raw_hot": 3531419,
+      "num": 750699,
       "word": "李玟疑因窒息死亡",
       "onboard_time": 1688707062,
       "rank": 31,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 910549,
-      "num": 687570,
+      "num": 1115669,
       "word": "西安人被正式确诊为沈眉庄",
       "onboard_time": 1688706224,
       "rank": 35,
@@ -297,6 +297,14 @@
       "onboard_time": 1688705025,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782766,
+      "num": 750568,
+      "word": "后浪豆瓣开分3.9",
+      "onboard_time": 1688708200,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 777711,
@@ -363,6 +371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 709923,
+      "num": 709923,
+      "word": "买香水客服竟然是高中同学",
+      "onboard_time": 1688704307,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 709532,
       "num": 709532,
       "word": "趁弟弟不注意把他的暑假作业写完",
@@ -379,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 675175,
-      "num": 675175,
-      "word": "买香水客服竟然是高中同学",
-      "onboard_time": 1688704307,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 707170,
+      "num": 707170,
+      "word": "内娱绝交大全",
+      "onboard_time": 1688709699,
+      "rank": 7,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 670193,
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629841,
+      "num": 629841,
+      "word": "薛之谦衡阳天外来物演唱会 退票",
+      "onboard_time": 1688707241,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 629138,
       "num": 471796,
       "word": "半夜因为一条蜈蚣被救护车拉走",
@@ -449,6 +473,14 @@
       "onboard_time": 1688659113,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 587395,
+      "num": 587395,
+      "word": "驻日美军承认东京17个地区地下水疑受污染",
+      "onboard_time": 1688708739,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587138,
@@ -481,6 +513,14 @@
       "onboard_time": 1688656836,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575132,
+      "num": 575132,
+      "word": "Melody老公",
+      "onboard_time": 1688709035,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 568307,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 505071,
-      "num": 442270,
+      "num": 476625,
       "word": "7旬老人为救17岁女孩当场遇害",
       "onboard_time": 1688705625,
       "rank": 21,
@@ -595,11 +635,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485863,
+      "num": 485863,
+      "word": "宋妍霏工作室 有道理个屁",
+      "onboard_time": 1688710719,
+      "rank": 16,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 484795,
       "num": 484795,
       "word": "难哄或在接触宋威龙张予曦",
       "onboard_time": 1688692534,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 475857,
+      "num": 475857,
+      "word": "杨洋王楚然长成这样还折腾什么",
+      "onboard_time": 1688707192,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -635,6 +691,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 456038,
+      "num": 456038,
+      "word": "六公主说但他可是周深啊",
+      "onboard_time": 1688710359,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453959,
       "num": 453959,
       "word": "帮韩国室友抓蟑螂收到的礼物",
@@ -657,6 +721,14 @@
       "onboard_time": 1688657136,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 450113,
+      "num": 450113,
+      "word": "陈鲁豫全英文主持",
+      "onboard_time": 1688709276,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 443253,
@@ -715,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418049,
-      "num": 418049,
-      "word": "杨洋王楚然长成这样还折腾什么",
-      "onboard_time": 1688707192,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 410666,
       "num": 293697,
       "word": "亮警证让查酒驾交警放行男子系民警",
@@ -763,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380448,
+      "num": 477513,
+      "word": "吃完的荔枝核不要扔",
+      "onboard_time": 1688707192,
+      "rank": 18,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 372106,
       "num": 372106,
       "word": "我的人间烟火第8集不敢看",
@@ -771,20 +843,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371563,
+      "num": 371563,
+      "word": "朱珠穿旗袍",
+      "onboard_time": 1688708619,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370272,
       "num": 370272,
       "word": "人民网评长风渡",
       "onboard_time": 1688655159,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 365070,
-      "num": 365070,
-      "word": "薛之谦衡阳天外来物演唱会 退票",
-      "onboard_time": 1688707241,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 363902,
@@ -808,6 +880,22 @@
       "word": "乘风",
       "onboard_time": 1688704841,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 359624,
+      "num": 359624,
+      "word": "西瓜被晒成了苦瓜",
+      "onboard_time": 1688709336,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 353808,
+      "num": 315380,
+      "word": "这还是刘雅瑟吗",
+      "onboard_time": 1688710416,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -875,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313589,
+      "num": 313589,
+      "word": "张元英穿拖鞋的腿长",
+      "onboard_time": 1688709759,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311364,
       "num": 311364,
       "word": "李飞不浪费一点版权费",
@@ -889,6 +985,22 @@
       "onboard_time": 1688704362,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296694,
+      "num": 296694,
+      "word": "徐怀钰回来了",
+      "onboard_time": 1688707901,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294872,
+      "num": 294872,
+      "word": "国产剧里你最烦的男女主",
+      "onboard_time": 1688710059,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 291556,
@@ -955,11 +1067,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265322,
-      "num": 265322,
-      "word": "徐怀钰回来了",
-      "onboard_time": 1688707901,
-      "rank": 41,
+      "raw_hot": 268922,
+      "num": 202290,
+      "word": "谢娜给贾静雯刘雅瑟准备横幅",
+      "onboard_time": 1688710476,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1017,6 +1129,14 @@
       "onboard_time": 1688692355,
       "rank": 30,
       "category": "情感,音乐"
+    },
+    {
+      "raw_hot": 248707,
+      "num": 201971,
+      "word": "段嘉许苏而不油的原因",
+      "onboard_time": 1688709519,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 247852,
@@ -1163,12 +1283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202329,
+      "num": 202329,
+      "word": "挥刀自宫有多痛",
+      "onboard_time": 1688710959,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201675,
       "num": 201675,
       "word": "男子收集29张李玟贴纸珍藏22年",
       "onboard_time": 1688687189,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201174,
+      "num": 201174,
+      "word": "freshman是什么意思",
+      "onboard_time": 1688709336,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 200438,
@@ -1201,6 +1337,14 @@
       "onboard_time": 1688646032,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190700,
+      "num": 190700,
+      "word": "老板知道我要离职不断给我加工作",
+      "onboard_time": 1688710959,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 188803,
