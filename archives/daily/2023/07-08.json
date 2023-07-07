@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688751275661,
+  "endTime": 1688754224485,
   "band_list": [
     {
       "raw_hot": 1976757,
@@ -243,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318868,
+      "num": 318868,
+      "word": "孙红雷 他说的全是我的词啊",
+      "onboard_time": 1688750720,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314859,
       "num": 299072,
       "word": "无骨鸡柳为什么消失了",
@@ -387,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197805,
+      "num": 168974,
+      "word": "放在恋爱脑界也是相当炸裂的",
+      "onboard_time": 1688748149,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 180365,
       "num": 180365,
       "word": "黄子韬抱着孙红雷痛哭",
       "onboard_time": 1688737540,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168974,
-      "num": 168974,
-      "word": "放在恋爱脑界也是相当炸裂的",
-      "onboard_time": 1688748149,
-      "rank": 35,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 168712,
@@ -419,12 +427,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 134236,
-      "num": 134236,
-      "word": "孙红雷 他说的全是我的词啊",
-      "onboard_time": 1688750720,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 103809,
+      "num": 103809,
+      "word": "郭富城拿了大女主剧本吧",
+      "onboard_time": 1688751442,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 98264,
@@ -441,6 +449,22 @@
       "onboard_time": 1688740781,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48629,
+      "num": 48629,
+      "word": "kaka加入Aster",
+      "onboard_time": 1688751620,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 43735,
+      "num": 43735,
+      "word": "王俊凯为十周年在剧组租舞室",
+      "onboard_time": 1688734483,
+      "rank": 49,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
