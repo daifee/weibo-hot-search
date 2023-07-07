@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688765646554,
+  "endTime": 1688768275370,
   "band_list": [
     {
       "raw_hot": 1976757,
@@ -499,16 +499,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29732,
+      "num": 43741,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1688739223,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 29549,
-      "num": 31305,
+      "num": 43739,
       "word": "王冠说热情好客流淌在山东人血液里",
       "onboard_time": 1688758273,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14887,
-      "num": 162632,
+      "raw_hot": 17348,
+      "num": 235358,
       "word": "天问一号最新发现",
       "onboard_time": 1688740668,
       "rank": 2,
