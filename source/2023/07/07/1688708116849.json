@@ -1,0 +1,410 @@
+{
+  "runTime": 1688708116849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1816771,
+        "num": 1816771,
+        "word": "体制内食堂让我有了考公动力",
+        "onboard_time": 1688701716,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1600941,
+        "num": 1600941,
+        "word": "港媒曝郑欣宜患抑郁症",
+        "onboard_time": 1688703761,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17328,
+        "num": 1326620,
+        "word": "高温下坚守的人",
+        "onboard_time": 1688648558,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304836,
+        "num": 1304836,
+        "word": "1937年7月7日",
+        "onboard_time": 1688705685,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286285,
+        "num": 1286285,
+        "word": "李玟二姐称近一周发现李玟不对劲",
+        "onboard_time": 1688702438,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973429,
+        "num": 973429,
+        "word": "开始断崖式衰老的表现",
+        "onboard_time": 1688704061,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 916703,
+        "num": 916703,
+        "word": "专升本和事业编同时上岸选哪个",
+        "onboard_time": 1688703761,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 878669,
+        "num": 878669,
+        "word": "中国禁止进口日本福岛等十地食品",
+        "onboard_time": 1688700932,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714879,
+        "num": 714879,
+        "word": "黑色外卖勺子",
+        "onboard_time": 1688702977,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 710762,
+        "num": 710762,
+        "word": "王楚然两部新剧没有技巧全是感情",
+        "onboard_time": 1688704120,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4239620,
+        "num": 708132,
+        "word": "Melody离婚",
+        "onboard_time": 1688704603,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3502338,
+        "num": 703779,
+        "word": "李玟疑因窒息死亡",
+        "onboard_time": 1688707062,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2129612,
+        "num": 698884,
+        "word": "宋轶真换了头像",
+        "onboard_time": 1688703877,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 910549,
+        "num": 687570,
+        "word": "西安人被正式确诊为沈眉庄",
+        "onboard_time": 1688706224,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41977,
+        "num": 686706,
+        "word": "这些历史永不能忘",
+        "onboard_time": 1688706044,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865420,
+        "num": 675991,
+        "word": "王嘉尔茅台对瓶吹",
+        "onboard_time": 1688701716,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675175,
+        "num": 675175,
+        "word": "买香水客服竟然是高中同学",
+        "onboard_time": 1688704307,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 642598,
+        "num": 642598,
+        "word": "原来骑手知道我在看配送进度",
+        "onboard_time": 1688693733,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474073,
+        "num": 474073,
+        "word": "现实版孤儿怨",
+        "onboard_time": 1688700695,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458434,
+        "num": 458434,
+        "word": "叶舒华 烧给你",
+        "onboard_time": 1688687368,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624618,
+        "num": 458405,
+        "word": "女孩被蛇咬伤奶奶抓蜘蛛吸毒",
+        "onboard_time": 1688705025,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457339,
+        "num": 457339,
+        "word": "被蚊子吸走了我的淤血",
+        "onboard_time": 1688702857,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418049,
+        "num": 418049,
+        "word": "杨洋王楚然长成这样还折腾什么",
+        "onboard_time": 1688707192,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408011,
+        "num": 408011,
+        "word": "7旬老人为救17岁女孩当场遇害",
+        "onboard_time": 1688705625,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402623,
+        "num": 402623,
+        "word": "月薪4.2万的offer被我拒绝了",
+        "onboard_time": 1688690675,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391853,
+        "num": 391853,
+        "word": "王楚然魏大勋cp感",
+        "onboard_time": 1688702977,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385433,
+        "num": 385433,
+        "word": "女子放弃高薪全职带娃丈夫离婚拒补偿",
+        "onboard_time": 1688703820,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382895,
+        "num": 382895,
+        "word": "教授称有花百万留学回来月薪5000",
+        "onboard_time": 1688701957,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 365070,
+        "num": 365070,
+        "word": "薛之谦衡阳天外来物演唱会 退票",
+        "onboard_time": 1688707241,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350749,
+        "num": 350749,
+        "word": "我在航班上冒犯了一位高僧",
+        "onboard_time": 1688702319,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341641,
+        "num": 341641,
+        "word": "出差全程让领导拎箱子挤地铁",
+        "onboard_time": 1688706523,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331769,
+        "num": 331769,
+        "word": "杨紫琼发文悼念李玟",
+        "onboard_time": 1688701054,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327421,
+        "num": 327421,
+        "word": "张彬彬白天和杨洋扫楼晚上陪吴倩吃饭",
+        "onboard_time": 1688695591,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320098,
+        "num": 320098,
+        "word": "super shy",
+        "onboard_time": 1688705025,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311364,
+        "num": 311364,
+        "word": "李飞不浪费一点版权费",
+        "onboard_time": 1688706821,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304510,
+        "num": 304510,
+        "word": "难哄",
+        "onboard_time": 1688696428,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319502,
+        "num": 302026,
+        "word": "男子强迫11岁少年吸毒并殴打致死",
+        "onboard_time": 1688695051,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298024,
+        "num": 298024,
+        "word": "酒店为什么会免费升房",
+        "onboard_time": 1688690617,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291556,
+        "num": 291556,
+        "word": "小鸟的审美能有多高级",
+        "onboard_time": 1688707541,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 285769,
+        "num": 285769,
+        "word": "布兰妮希望NBA状元公开道歉",
+        "onboard_time": 1688699309,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 281491,
+        "num": 281491,
+        "word": "乘风",
+        "onboard_time": 1688704841,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265322,
+        "num": 265322,
+        "word": "徐怀钰回来了",
+        "onboard_time": 1688707901,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258834,
+        "num": 258834,
+        "word": "奔跑吧",
+        "onboard_time": 1688693852,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242909,
+        "num": 242909,
+        "word": "国产剧你真的别太过分",
+        "onboard_time": 1688703037,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238746,
+        "num": 238746,
+        "word": "陈哲远不看会后悔",
+        "onboard_time": 1688707839,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236285,
+        "num": 236285,
+        "word": "iPhone15系列8月将量产",
+        "onboard_time": 1688696428,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234626,
+        "num": 234626,
+        "word": "入画江南",
+        "onboard_time": 1688707839,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215421,
+        "num": 215421,
+        "word": "突然多了一个相差20岁的弟弟",
+        "onboard_time": 1688701233,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214279,
+        "num": 214279,
+        "word": "李玟姐姐呼吁大家不要作任何揣测",
+        "onboard_time": 1688692715,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212184,
+        "num": 212184,
+        "word": "趁弟弟不注意把他的暑假作业写完",
+        "onboard_time": 1688700273,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#七七事变爆发86周年#"
+    }
+  }
+}

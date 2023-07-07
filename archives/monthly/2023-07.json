@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688707104542,
+  "endTime": 1688708116849,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -369,6 +369,14 @@
       "onboard_time": 1688226334,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3502338,
+      "num": 703779,
+      "word": "李玟疑因窒息死亡",
+      "onboard_time": 1688707062,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 3463245,
@@ -883,6 +891,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 2129612,
+      "num": 797082,
+      "word": "宋轶真换了头像",
+      "onboard_time": 1688703877,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2128980,
       "num": 551589,
       "word": "北京政法职业学院",
@@ -897,14 +913,6 @@
       "onboard_time": 1688606739,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2085097,
-      "num": 797082,
-      "word": "宋轶真换了头像",
-      "onboard_time": 1688703877,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 2076475,
@@ -2803,6 +2811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 973429,
+      "num": 973429,
+      "word": "开始断崖式衰老的表现",
+      "onboard_time": 1688704061,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 970342,
       "num": 970342,
       "word": "重庆万州洪涝灾害致15死4失踪",
@@ -3011,20 +3027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 919113,
-      "num": 919113,
-      "word": "开始断崖式衰老的表现",
-      "onboard_time": 1688704061,
-      "rank": 24,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 916780,
       "num": 533704,
       "word": "任敏有刘海vs没刘海",
       "onboard_time": 1688355092,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 916703,
+      "num": 916703,
+      "word": "专升本和事业编同时上岸选哪个",
+      "onboard_time": 1688703761,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 916281,
@@ -3073,6 +3089,14 @@
       "onboard_time": 1688633673,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 910549,
+      "num": 687570,
+      "word": "西安人被正式确诊为沈眉庄",
+      "onboard_time": 1688706224,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 910518,
@@ -3515,14 +3539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 821130,
-      "num": 821130,
-      "word": "专升本和事业编同时上岸选哪个",
-      "onboard_time": 1688703761,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 819344,
       "num": 819344,
       "word": "苏州大学录取通知书太用心了",
@@ -3564,7 +3580,7 @@
     },
     {
       "raw_hot": 812502,
-      "num": 447857,
+      "num": 458405,
       "word": "女孩被蛇咬伤奶奶抓蜘蛛吸毒",
       "onboard_time": 1688705025,
       "rank": 20,
@@ -4531,6 +4547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 675175,
+      "num": 675175,
+      "word": "买香水客服竟然是高中同学",
+      "onboard_time": 1688704307,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 674195,
       "num": 674195,
       "word": "张雪峰称老师家长告诉你的全是真的",
@@ -4929,14 +4953,6 @@
       "onboard_time": 1688275830,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 634127,
-      "num": 372442,
-      "word": "买香水客服竟然是高中同学",
-      "onboard_time": 1688704307,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 632695,
@@ -5897,14 +5913,6 @@
       "onboard_time": 1688312255,
       "rank": 7,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 530537,
-      "num": 364134,
-      "word": "李玟疑因窒息死亡",
-      "onboard_time": 1688707062,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 529963,
@@ -7339,6 +7347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418049,
+      "num": 418049,
+      "word": "杨洋王楚然长成这样还折腾什么",
+      "onboard_time": 1688707192,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417467,
       "num": 417467,
       "word": "鹿晗广州站场馆",
@@ -8299,6 +8315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365070,
+      "num": 365070,
+      "word": "薛之谦衡阳天外来物演唱会 退票",
+      "onboard_time": 1688707241,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 364014,
       "num": 364014,
       "word": "谁懂 好喜欢凤凰传奇",
@@ -8571,14 +8595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349267,
-      "num": 349267,
-      "word": "西安人被正式确诊为沈眉庄",
-      "onboard_time": 1688706224,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348986,
       "num": 348986,
       "word": "鹿晗演唱会再邀高瀚宇",
@@ -8753,6 +8769,14 @@
       "onboard_time": 1688313395,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341641,
+      "num": 341641,
+      "word": "出差全程让领导拎箱子挤地铁",
+      "onboard_time": 1688706523,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 341376,
@@ -9491,6 +9515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311364,
+      "num": 311364,
+      "word": "李飞不浪费一点版权费",
+      "onboard_time": 1688706821,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310778,
       "num": 310778,
       "word": "中国共产党成立102周年",
@@ -9779,14 +9811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300267,
-      "num": 300267,
-      "word": "出差全程让领导拎箱子挤地铁",
-      "onboard_time": 1688706523,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 300120,
       "num": 300120,
       "word": "樊振东第二",
@@ -10073,6 +10097,14 @@
       "onboard_time": 1688273852,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291556,
+      "num": 291556,
+      "word": "小鸟的审美能有多高级",
+      "onboard_time": 1688707541,
+      "rank": 38,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 291291,
@@ -10523,14 +10555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273970,
-      "num": 273970,
-      "word": "李飞不浪费一点版权费",
-      "onboard_time": 1688706821,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273954,
       "num": 135914,
       "word": "巨型蟑螂吓到主人4只奶猫争相帮抓",
@@ -10825,6 +10849,14 @@
       "onboard_time": 1688620422,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265322,
+      "num": 265322,
+      "word": "徐怀钰回来了",
+      "onboard_time": 1688707901,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 265247,
@@ -11851,6 +11883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238746,
+      "num": 238746,
+      "word": "陈哲远不看会后悔",
+      "onboard_time": 1688707839,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238518,
       "num": 238518,
       "word": "我还能扛",
@@ -11984,6 +12024,14 @@
       "word": "蛋仔派对",
       "onboard_time": 1688617604,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 234626,
+      "num": 234626,
+      "word": "入画江南",
+      "onboard_time": 1688707839,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -16531,6 +16579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 41977,
+      "num": 694515,
+      "word": "这些历史永不能忘",
+      "onboard_time": 1688706044,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39476,
       "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
@@ -16640,14 +16696,6 @@
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24252,
-      "num": 694515,
-      "word": "这些历史永不能忘",
-      "onboard_time": 1688706044,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
