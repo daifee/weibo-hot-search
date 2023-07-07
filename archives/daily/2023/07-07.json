@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688703787794,
+  "endTime": 1688704672698,
   "band_list": [
     {
       "raw_hot": 3022301,
@@ -8,6 +8,14 @@
       "word": "原来骑手知道我在看配送进度",
       "onboard_time": 1688693733,
       "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 2230634,
+      "num": 2230634,
+      "word": "体制内食堂让我有了考公动力",
+      "onboard_time": 1688701716,
+      "rank": 1,
       "category": "幽默"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1850762,
-      "num": 669574,
+      "num": 670915,
       "word": "男子强迫11岁少年吸毒并殴打致死",
       "onboard_time": 1688695051,
       "rank": 23,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1845198,
-      "num": 473141,
+      "num": 512349,
       "word": "月薪4.2万的offer被我拒绝了",
       "onboard_time": 1688690675,
       "rank": 20,
@@ -40,6 +48,22 @@
       "word": "叶舒华 烧给你",
       "onboard_time": 1688687368,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1842118,
+      "num": 1632192,
+      "word": "王嘉尔茅台对瓶吹",
+      "onboard_time": 1688701716,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1837819,
+      "num": 1619091,
+      "word": "李玟二姐称近一周发现李玟不对劲",
+      "onboard_time": 1688702438,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -59,20 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1696163,
-      "num": 1495349,
-      "word": "王嘉尔茅台对瓶吹",
-      "onboard_time": 1688701716,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1589443,
-      "num": 1589443,
-      "word": "体制内食堂让我有了考公动力",
-      "onboard_time": 1688701716,
-      "rank": 1,
-      "category": "幽默"
+      "raw_hot": 1590949,
+      "num": 1590949,
+      "word": "中国禁止进口日本福岛等十地食品",
+      "onboard_time": 1688700932,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1549832,
@@ -83,12 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1472550,
-      "num": 1472550,
-      "word": "中国禁止进口日本福岛等十地食品",
-      "onboard_time": 1688700932,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 1511289,
+      "num": 680546,
+      "word": "宋轶真换了头像",
+      "onboard_time": 1688703877,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1478399,
+      "num": 1478399,
+      "word": "港媒曝郑欣宜患抑郁症",
+      "onboard_time": 1688703761,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 1416215,
@@ -148,19 +172,11 @@
     },
     {
       "raw_hot": 1047489,
-      "num": 626109,
+      "num": 668843,
       "word": "现实版孤儿怨",
       "onboard_time": 1688700695,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1042401,
-      "num": 613445,
-      "word": "李玟二姐称近一周发现李玟不对劲",
-      "onboard_time": 1688702438,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1036922,
@@ -243,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 744276,
+      "num": 384035,
+      "word": "被蚊子吸走了我的淤血",
+      "onboard_time": 1688702857,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 737376,
       "num": 726606,
       "word": "布兰妮希望NBA状元公开道歉",
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 716242,
-      "num": 330689,
+      "num": 379028,
       "word": "我在航班上冒犯了一位高僧",
       "onboard_time": 1688702319,
       "rank": 30,
@@ -265,6 +289,14 @@
       "onboard_time": 1688696428,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 709532,
+      "num": 709532,
+      "word": "趁弟弟不注意把他的暑假作业写完",
+      "onboard_time": 1688700273,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 708322,
@@ -297,14 +329,6 @@
       "onboard_time": 1688698113,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 662696,
-      "num": 662696,
-      "word": "趁弟弟不注意把他的暑假作业写完",
-      "onboard_time": 1688700273,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 643461,
@@ -363,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577128,
+      "num": 577128,
+      "word": "教授称有花百万留学回来月薪5000",
+      "onboard_time": 1688701957,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 575483,
       "num": 575483,
       "word": "羊毛党用无理由退货漏洞薅了100万",
       "onboard_time": 1688656836,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573680,
+      "num": 573680,
+      "word": "黑色外卖勺子",
+      "onboard_time": 1688702977,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 568307,
@@ -412,7 +452,7 @@
     },
     {
       "raw_hot": 540720,
-      "num": 437078,
+      "num": 509867,
       "word": "突然多了一个相差20岁的弟弟",
       "onboard_time": 1688701233,
       "rank": 44,
@@ -425,14 +465,6 @@
       "onboard_time": 1688688514,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 520295,
-      "num": 324559,
-      "word": "被蚊子吸走了我的淤血",
-      "onboard_time": 1688702857,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 512455,
@@ -507,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459172,
-      "num": 459172,
-      "word": "教授称有花百万留学回来月薪5000",
-      "onboard_time": 1688701957,
-      "rank": 17,
-      "category": "社会新闻,教育"
+      "raw_hot": 460683,
+      "num": 460683,
+      "word": "王楚然魏大勋cp感",
+      "onboard_time": 1688702977,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 457866,
@@ -587,12 +619,60 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 413528,
+      "num": 375166,
+      "word": "王楚然两部新剧没有技巧全是感情",
+      "onboard_time": 1688704120,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410666,
       "num": 293697,
       "word": "亮警证让查酒驾交警放行男子系民警",
       "onboard_time": 1688684120,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409317,
+      "num": 409317,
+      "word": "开始断崖式衰老的表现",
+      "onboard_time": 1688704061,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 404861,
+      "num": 372442,
+      "word": "买香水客服竟然是高中同学",
+      "onboard_time": 1688704307,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 387614,
+      "num": 387614,
+      "word": "禁止创建以匿名投稿发布不良内容的话题和群组",
+      "onboard_time": 1688703520,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386388,
+      "num": 386388,
+      "word": "当我妈妈说冰箱没菜了",
+      "onboard_time": 1688704000,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 385617,
+      "num": 385617,
+      "word": "国产剧你真的别太过分",
+      "onboard_time": 1688703037,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 384584,
@@ -617,6 +697,14 @@
       "onboard_time": 1688655159,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369378,
+      "num": 369378,
+      "word": "专升本和事业编同时上岸选哪个",
+      "onboard_time": 1688703761,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 363902,
@@ -659,6 +747,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 327638,
+      "num": 327638,
+      "word": "王一博大鹏杜华聚会",
+      "onboard_time": 1688703638,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327008,
+      "num": 327008,
+      "word": "女子放弃高薪全职带娃丈夫离婚拒补偿",
+      "onboard_time": 1688703820,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320052,
       "num": 320052,
       "word": "偷偷藏不住",
@@ -683,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311206,
-      "num": 311206,
-      "word": "黑色外卖勺子",
-      "onboard_time": 1688702977,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 305635,
+      "num": 305635,
+      "word": "speak now",
+      "onboard_time": 1688704362,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 289582,
@@ -707,28 +811,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282509,
-      "num": 282509,
-      "word": "国产剧你真的别太过分",
-      "onboard_time": 1688703037,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 281353,
       "num": 281353,
       "word": "第一次去青海西藏的一定要看完",
       "onboard_time": 1688657976,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 280256,
-      "num": 280256,
-      "word": "王楚然魏大勋cp感",
-      "onboard_time": 1688702977,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 275858,
@@ -779,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259917,
+      "num": 259917,
+      "word": "Melody离婚",
+      "onboard_time": 1688704603,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256381,
       "num": 256381,
       "word": "第一次见长得像海胆的小猫",
@@ -819,14 +915,6 @@
       "category": "情感,音乐"
     },
     {
-      "raw_hot": 248607,
-      "num": 248607,
-      "word": "专升本和事业编同时上岸选哪个",
-      "onboard_time": 1688703761,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 247852,
       "num": 247852,
       "word": "李沁看秀生图",
@@ -859,14 +947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232993,
-      "num": 232993,
-      "word": "王一博大鹏杜华聚会",
-      "onboard_time": 1688703638,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232727,
       "num": 232727,
       "word": "kms",
@@ -897,14 +977,6 @@
       "onboard_time": 1688691636,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227025,
-      "num": 227025,
-      "word": "港媒曝郑欣宜患抑郁症",
-      "onboard_time": 1688703761,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 225514,
@@ -1284,7 +1356,7 @@
     },
     {
       "raw_hot": 68667,
-      "num": 1497399,
+      "num": 1636168,
       "word": "高温下坚守的人",
       "onboard_time": 1688648558,
       "rank": 2,
@@ -1323,20 +1395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39347,
+      "num": 658322,
+      "word": "这些名字曾被炮火蒙尘",
+      "onboard_time": 1688703278,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27818,
       "num": 40809,
       "word": "原神3.8版本",
       "onboard_time": 1688668394,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15384,
-      "num": 585288,
-      "word": "这些名字曾被炮火蒙尘",
-      "onboard_time": 1688703278,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
