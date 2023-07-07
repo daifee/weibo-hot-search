@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688728556514,
+  "endTime": 1688729631518,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2179,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1222761,
+      "num": 847646,
+      "word": "郑秀文 抑郁症我懂",
+      "onboard_time": 1688727153,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1216616,
       "num": 1216616,
       "word": "日本东京市中心发生爆炸",
@@ -2435,6 +2443,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1134430,
+      "num": 442931,
+      "word": "给女儿取了全上海唯一的名字",
+      "onboard_time": 1688725893,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1132879,
       "num": 1132879,
       "word": "宋轶是不是男生都喜欢的类型",
@@ -2649,14 +2665,6 @@
       "onboard_time": 1688294072,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1054206,
-      "num": 400126,
-      "word": "给女儿取了全上海唯一的名字",
-      "onboard_time": 1688725893,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 1053738,
@@ -2905,14 +2913,6 @@
       "onboard_time": 1688309143,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 980442,
-      "num": 645516,
-      "word": "郑秀文 抑郁症我懂",
-      "onboard_time": 1688727153,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 974507,
@@ -5019,6 +5019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655584,
+      "num": 655584,
+      "word": "日本学者发现涉731部队最高机密资料",
+      "onboard_time": 1688726914,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655126,
       "num": 655126,
       "word": "鹿晗广州站官宣嘉宾",
@@ -5435,6 +5443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604862,
+      "num": 604862,
+      "word": "boboka",
+      "onboard_time": 1688728773,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 603952,
       "num": 603952,
       "word": "新型毒品干花果冻听话水了解吗",
@@ -5569,6 +5585,14 @@
       "onboard_time": 1688177971,
       "rank": 7,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 591230,
+      "num": 591230,
+      "word": "关晓彤也演过花非花雾非雾",
+      "onboard_time": 1688727093,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 590220,
@@ -5899,12 +5923,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 557685,
+      "num": 557685,
+      "word": "成都一兔火锅200余公斤口水油被查",
+      "onboard_time": 1688727992,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555923,
       "num": 555923,
       "word": "Jennie海德公园音乐节饭拍",
       "onboard_time": 1688346093,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 555298,
+      "num": 555298,
+      "word": "任安乐空降",
+      "onboard_time": 1688726310,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 553849,
@@ -6457,14 +6497,6 @@
       "onboard_time": 1688625815,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 509597,
-      "num": 509597,
-      "word": "任安乐空降",
-      "onboard_time": 1688726310,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 508481,
@@ -7579,14 +7611,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 431092,
-      "num": 399856,
-      "word": "日本学者发现涉731部队最高机密资料",
-      "onboard_time": 1688726914,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430395,
       "num": 409897,
       "word": "老人高铁霸座掏出一把药丸",
@@ -8049,14 +8073,6 @@
       "onboard_time": 1688365076,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399555,
-      "num": 399555,
-      "word": "关晓彤也演过花非花雾非雾",
-      "onboard_time": 1688727093,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 399509,
@@ -10939,14 +10955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 278535,
-      "num": 278535,
-      "word": "成都一兔火锅200余公斤口水油被查",
-      "onboard_time": 1688727992,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278305,
       "num": 278305,
       "word": "中国男排vs日本男排",
@@ -12587,6 +12595,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 236325,
+      "num": 236325,
+      "word": "吃完猪肉脯不要接着吃黄瓜",
+      "onboard_time": 1688729012,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236218,
       "num": 236218,
       "word": "张杰演唱会抢票",
@@ -13505,6 +13521,14 @@
       "onboard_time": 1688691456,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213397,
+      "num": 213397,
+      "word": "刘宇宁上桌文学",
+      "onboard_time": 1688729132,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 213306,
@@ -16177,6 +16201,14 @@
       "onboard_time": 1688425404,
       "rank": 45,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 147911,
+      "num": 147911,
+      "word": "没想到暗恋的人也暗恋我",
+      "onboard_time": 1688728954,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 147775,

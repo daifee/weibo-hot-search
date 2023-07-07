@@ -1,6 +1,6 @@
 {
   "startTime": 1688660822264,
-  "endTime": 1688728556514,
+  "endTime": 1688729631518,
   "band_list": [
     {
       "raw_hot": 4679821,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1222761,
+      "num": 847646,
+      "word": "郑秀文 抑郁症我懂",
+      "onboard_time": 1688727153,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1139789,
       "num": 1139789,
       "word": "爸妈一直叫我打暑假工",
@@ -283,20 +291,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1134430,
+      "num": 442931,
+      "word": "给女儿取了全上海唯一的名字",
+      "onboard_time": 1688725893,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1131631,
       "num": 1131631,
       "word": "六公主说但他可是周深啊",
       "onboard_time": 1688710359,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1054206,
-      "num": 400126,
-      "word": "给女儿取了全上海唯一的名字",
-      "onboard_time": 1688725893,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 1047489,
@@ -321,14 +329,6 @@
       "onboard_time": 1688709699,
       "rank": 7,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 980442,
-      "num": 645516,
-      "word": "郑秀文 抑郁症我懂",
-      "onboard_time": 1688727153,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 973429,
@@ -651,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 655584,
+      "num": 655584,
+      "word": "日本学者发现涉731部队最高机密资料",
+      "onboard_time": 1688726914,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643461,
       "num": 643461,
       "word": "哥们你小说男主啊",
@@ -699,12 +707,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 604862,
+      "num": 604862,
+      "word": "boboka",
+      "onboard_time": 1688728773,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 601948,
       "num": 350010,
       "word": "她好厉害她一定会是我",
       "onboard_time": 1688659113,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 591230,
+      "num": 591230,
+      "word": "关晓彤也演过花非花雾非雾",
+      "onboard_time": 1688727093,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 587138,
@@ -761,6 +785,22 @@
       "onboard_time": 1688701054,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557685,
+      "num": 557685,
+      "word": "成都一兔火锅200余公斤口水油被查",
+      "onboard_time": 1688727992,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555298,
+      "num": 555298,
+      "word": "任安乐空降",
+      "onboard_time": 1688726310,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 547436,
@@ -825,14 +865,6 @@
       "onboard_time": 1688687731,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 509597,
-      "num": 509597,
-      "word": "任安乐空降",
-      "onboard_time": 1688726310,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 508296,
@@ -1051,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431092,
-      "num": 399856,
-      "word": "日本学者发现涉731部队最高机密资料",
-      "onboard_time": 1688726914,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424631,
       "num": 424631,
       "word": "女子放弃高薪全职带娃丈夫离婚拒补偿",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1688710416,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399555,
-      "num": 399555,
-      "word": "关晓彤也演过花非花雾非雾",
-      "onboard_time": 1688727093,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 387614,
@@ -1467,14 +1483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 278535,
-      "num": 278535,
-      "word": "成都一兔火锅200余公斤口水油被查",
-      "onboard_time": 1688727992,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276365,
       "num": 276365,
       "word": "薛之谦合肥",
@@ -1659,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236325,
+      "num": 236325,
+      "word": "吃完猪肉脯不要接着吃黄瓜",
+      "onboard_time": 1688729012,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234626,
       "num": 234626,
       "word": "入画江南",
@@ -1785,6 +1801,14 @@
       "onboard_time": 1688691456,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213397,
+      "num": 213397,
+      "word": "刘宇宁上桌文学",
+      "onboard_time": 1688729132,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 213303,
@@ -2105,6 +2129,14 @@
       "onboard_time": 1688659411,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147911,
+      "num": 147911,
+      "word": "没想到暗恋的人也暗恋我",
+      "onboard_time": 1688728954,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 147458,
