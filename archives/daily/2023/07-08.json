@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688798217906,
+  "endTime": 1688800593588,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2326353,
+      "num": 1269755,
+      "word": "李玟二姐喊话让知情人站出来",
+      "onboard_time": 1688798129,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2313804,
       "num": 1151822,
       "word": "坐电梯坐到张杰谢娜家",
@@ -48,6 +56,14 @@
       "word": "男子地铁上掏下体猥亵被揪着报警",
       "onboard_time": 1688745273,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1919265,
+      "num": 1919265,
+      "word": "9个孩子被骗缅甸遭电击开水烫",
+      "onboard_time": 1688797351,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -235,12 +251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 783486,
+      "num": 783486,
+      "word": "英国一年制硕士水吗",
+      "onboard_time": 1688798668,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 782388,
       "num": 782388,
       "word": "Angelababy张殷殷",
       "onboard_time": 1688773287,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 776914,
+      "num": 776914,
+      "word": "哈尔滨成功申办2025亚冬会",
+      "onboard_time": 1688798909,
+      "rank": 8,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 773341,
@@ -273,6 +305,14 @@
       "onboard_time": 1688739165,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 707026,
+      "num": 490020,
+      "word": "猴痘可能使人短期毁容",
+      "onboard_time": 1688797290,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 704640,
@@ -427,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 557553,
-      "num": 413094,
-      "word": "9个孩子被骗缅甸遭电击开水烫",
-      "onboard_time": 1688797351,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 554636,
       "num": 438905,
       "word": "前崔秀彬大吧爆料",
@@ -499,6 +531,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 500347,
+      "num": 298320,
+      "word": "妈妈让弟弟接28岁的我",
+      "onboard_time": 1688799270,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 496216,
       "num": 300676,
       "word": "长沙发现3例猴痘病例",
@@ -553,6 +593,14 @@
       "onboard_time": 1688773164,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 472353,
+      "num": 245125,
+      "word": "超级防窥屏聊天背景 杀敌一千自损八百",
+      "onboard_time": 1688798789,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 462674,
@@ -715,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367226,
+      "num": 367226,
+      "word": "TF三代演唱会抢票",
+      "onboard_time": 1688798429,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 366165,
       "num": 366165,
       "word": "小虞姬",
@@ -747,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351984,
-      "num": 233897,
-      "word": "猴痘可能使人短期毁容",
-      "onboard_time": 1688797290,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351599,
       "num": 320339,
       "word": "杨迪说杨紫是软体动物",
@@ -777,6 +825,14 @@
       "onboard_time": 1688738319,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339432,
+      "num": 339432,
+      "word": "芝芙五公排名第一",
+      "onboard_time": 1688797589,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 335072,
@@ -817,6 +873,14 @@
       "onboard_time": 1688776112,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322505,
+      "num": 245035,
+      "word": "第一次在老虎脸上看见惊讶疑惑",
+      "onboard_time": 1688798909,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 321139,
@@ -899,6 +963,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309554,
+      "num": 309554,
+      "word": "中等偏上的人生是怎样的",
+      "onboard_time": 1688797410,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 305149,
+      "num": 305149,
+      "word": "隆里电丝",
+      "onboard_time": 1688799811,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304976,
       "num": 304976,
       "word": "李玟重病时仍在关心郑欣宜",
@@ -913,6 +993,14 @@
       "onboard_time": 1688740540,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300391,
+      "num": 300391,
+      "word": "杨天真考北大博士失败",
+      "onboard_time": 1688800230,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 298441,
@@ -993,6 +1081,14 @@
       "onboard_time": 1688780371,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279491,
+      "num": 279491,
+      "word": "刘雨昕腰围才50CM",
+      "onboard_time": 1688797952,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 260542,
@@ -1147,14 +1243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233213,
-      "num": 231080,
-      "word": "中等偏上的人生是怎样的",
-      "onboard_time": 1688797410,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 232648,
       "num": 232648,
       "word": "TMEA音乐盛典节目单",
@@ -1195,6 +1283,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 226957,
+      "num": 226957,
+      "word": "后院猫的生存环境有多恶劣",
+      "onboard_time": 1688800413,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 226169,
+      "num": 226169,
+      "word": "妈妈问我为什么不愿意回家了",
+      "onboard_time": 1688798368,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 224767,
       "num": 224767,
       "word": "吉克隽逸汪苏泷合唱雨爱",
@@ -1225,14 +1329,6 @@
       "onboard_time": 1688785292,
       "rank": 41,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 216048,
-      "num": 216048,
-      "word": "芝芙五公排名第一",
-      "onboard_time": 1688797589,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 214244,
@@ -1347,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199923,
-      "num": 199923,
-      "word": "李玟二姐喊话让知情人站出来",
-      "onboard_time": 1688798129,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197805,
       "num": 168974,
       "word": "放在恋爱脑界也是相当炸裂的",
@@ -1387,6 +1475,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 191521,
+      "num": 191521,
+      "word": "王宝强谢谢沈月",
+      "onboard_time": 1688800471,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "村民私建浮桥被判刑当地法院已立案",
@@ -1403,11 +1499,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188245,
-      "num": 188245,
-      "word": "刘雨昕腰围才50CM",
-      "onboard_time": 1688797952,
-      "rank": 46,
+      "raw_hot": 187437,
+      "num": 187437,
+      "word": "Angelababy生孩子期间打上武则天高位",
+      "onboard_time": 1688800471,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1459,8 +1555,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 165251,
-      "num": 165251,
+      "raw_hot": 165496,
+      "num": 165496,
       "word": "种地吧全员告别小动物",
       "onboard_time": 1688797952,
       "rank": 48,
@@ -1472,6 +1568,14 @@
       "word": "蔚蓝档案8月3日上线",
       "onboard_time": 1688794830,
       "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143018,
+      "num": 157207,
+      "word": "Bengi卸任T1主教练",
+      "onboard_time": 1688799330,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -1636,6 +1740,9 @@
     },
     {
       "word": "#2023明文化论坛#"
+    },
+    {
+      "word": "#走在前做示范江苏有能力也有责任#"
     }
   ]
 }

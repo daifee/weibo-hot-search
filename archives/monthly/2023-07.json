@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688798217906,
+  "endTime": 1688800593588,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -835,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2326353,
+      "num": 1269755,
+      "word": "李玟二姐喊话让知情人站出来",
+      "onboard_time": 1688798129,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2317838,
       "num": 1364249,
       "word": "成龙 CoCo是天生的明星",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1688614421,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1919265,
+      "num": 1919265,
+      "word": "9个孩子被骗缅甸遭电击开水烫",
+      "onboard_time": 1688797351,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1918395,
@@ -4339,6 +4355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 783486,
+      "num": 783486,
+      "word": "英国一年制硕士水吗",
+      "onboard_time": 1688798668,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 782510,
       "num": 415976,
       "word": "袁娅维 这不是真的",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1688657855,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776914,
+      "num": 776914,
+      "word": "哈尔滨成功申办2025亚冬会",
+      "onboard_time": 1688798909,
+      "rank": 8,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 775932,
@@ -4968,6 +5000,14 @@
       "word": "中国驻乌克兰大使馆郑重提醒",
       "onboard_time": 1688606860,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707026,
+      "num": 490020,
+      "word": "猴痘可能使人短期毁容",
+      "onboard_time": 1688797290,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -6531,14 +6571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557553,
-      "num": 413094,
-      "word": "9个孩子被骗缅甸遭电击开水烫",
-      "onboard_time": 1688797351,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556360,
       "num": 556360,
       "word": "马龙止步男单16强",
@@ -7267,6 +7299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 500347,
+      "num": 298320,
+      "word": "妈妈让弟弟接28岁的我",
+      "onboard_time": 1688799270,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 499233,
       "num": 499233,
       "word": "身边有抑郁症的朋友该怎么办",
@@ -7681,6 +7721,14 @@
       "onboard_time": 1688213011,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 472353,
+      "num": 245125,
+      "word": "超级防窥屏聊天背景 杀敌一千自损八百",
+      "onboard_time": 1688798789,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 471140,
@@ -9635,6 +9683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367226,
+      "num": 367226,
+      "word": "TF三代演唱会抢票",
+      "onboard_time": 1688798429,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 367185,
       "num": 367185,
       "word": "UCAL 我爱uzi大哥",
@@ -9961,14 +10017,6 @@
       "onboard_time": 1688175570,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 351984,
-      "num": 233897,
-      "word": "猴痘可能使人短期毁容",
-      "onboard_time": 1688797290,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351957,
@@ -10345,6 +10393,14 @@
       "onboard_time": 1688358081,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 339432,
+      "num": 339432,
+      "word": "芝芙五公排名第一",
+      "onboard_time": 1688797589,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 338782,
@@ -10827,6 +10883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322505,
+      "num": 245035,
+      "word": "第一次在老虎脸上看见惊讶疑惑",
+      "onboard_time": 1688798909,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322240,
       "num": 322240,
       "word": "黄子韬 我是菜但爱玩",
@@ -11195,6 +11259,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 309554,
+      "num": 309554,
+      "word": "中等偏上的人生是怎样的",
+      "onboard_time": 1688797410,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 309538,
       "num": 309538,
       "word": "在欧洲企业加班之后被经理暗示了",
@@ -11323,6 +11395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305149,
+      "num": 305149,
+      "word": "隆里电丝",
+      "onboard_time": 1688799811,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305082,
       "num": 305082,
       "word": "金晨的多巴胺穿搭",
@@ -11441,6 +11521,14 @@
       "onboard_time": 1688632113,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300391,
+      "num": 300391,
+      "word": "杨天真考北大博士失败",
+      "onboard_time": 1688800230,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 300347,
@@ -12121,6 +12209,14 @@
       "onboard_time": 1688259085,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279491,
+      "num": 279491,
+      "word": "刘雨昕腰围才50CM",
+      "onboard_time": 1688797952,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 279333,
@@ -14003,14 +14099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233213,
-      "num": 231080,
-      "word": "中等偏上的人生是怎样的",
-      "onboard_time": 1688797410,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 232746,
       "num": 232746,
       "word": "伯远笑吐了",
@@ -14273,6 +14361,22 @@
       "onboard_time": 1688774667,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 226957,
+      "num": 226957,
+      "word": "后院猫的生存环境有多恶劣",
+      "onboard_time": 1688800413,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 226169,
+      "num": 226169,
+      "word": "妈妈问我为什么不愿意回家了",
+      "onboard_time": 1688798368,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 225911,
@@ -14816,14 +14920,6 @@
       "word": "王鹤棣的神灯显灵了",
       "onboard_time": 1688285792,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 216048,
-      "num": 216048,
-      "word": "芝芙五公排名第一",
-      "onboard_time": 1688797589,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -15723,14 +15819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199923,
-      "num": 199923,
-      "word": "李玟二姐喊话让知情人站出来",
-      "onboard_time": 1688798129,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199394,
       "num": 199394,
       "word": "控制不了的情绪别怪在我身上",
@@ -16211,6 +16299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191521,
+      "num": 191521,
+      "word": "王宝强谢谢沈月",
+      "onboard_time": 1688800471,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191325,
       "num": 191325,
       "word": "下班回家后立刻洗漱",
@@ -16435,14 +16531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188245,
-      "num": 188245,
-      "word": "刘雨昕腰围才50CM",
-      "onboard_time": 1688797952,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188106,
       "num": 188106,
       "word": "任天真段嘉许同台",
@@ -16457,6 +16545,14 @@
       "onboard_time": 1688537795,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187437,
+      "num": 187437,
+      "word": "Angelababy生孩子期间打上武则天高位",
+      "onboard_time": 1688800471,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 187154,
@@ -17371,6 +17467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165496,
+      "num": 165496,
+      "word": "种地吧全员告别小动物",
+      "onboard_time": 1688797952,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165457,
       "num": 165457,
       "word": "BLG三人入选亚运会名单",
@@ -17385,14 +17489,6 @@
       "onboard_time": 1688486910,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165251,
-      "num": 165251,
-      "word": "种地吧全员告别小动物",
-      "onboard_time": 1688797952,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 164701,
@@ -17905,6 +18001,14 @@
       "onboard_time": 1688197172,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143018,
+      "num": 157207,
+      "word": "Bengi卸任T1主教练",
+      "onboard_time": 1688799330,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 142468,
@@ -19316,6 +19420,9 @@
     },
     {
       "word": "#2023明文化论坛#"
+    },
+    {
+      "word": "#走在前做示范江苏有能力也有责任#"
     }
   ]
 }
