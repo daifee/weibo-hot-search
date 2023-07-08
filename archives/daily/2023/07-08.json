@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688805345839,
+  "endTime": 1688807821082,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -187,6 +187,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 903436,
+      "num": 903436,
+      "word": "德国女生坚持跑步20周成功蜕变",
+      "onboard_time": 1688801853,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 901903,
       "num": 901903,
       "word": "现偶四大甜妹",
@@ -251,20 +259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 836850,
-      "num": 836850,
-      "word": "德国女生坚持跑步20周成功蜕变",
-      "onboard_time": 1688801853,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 824652,
       "num": 824652,
       "word": "福宝要当姐姐了",
       "onboard_time": 1688784087,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 818074,
+      "num": 818074,
+      "word": "魏大勋能看清电脑屏幕吗",
+      "onboard_time": 1688806051,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 806660,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648276,
+      "num": 648276,
+      "word": "你师父当年也选的工商",
+      "onboard_time": 1688804254,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632980,
       "num": 632980,
       "word": "孙红雷 他说的全是我的词啊",
@@ -457,6 +473,14 @@
       "onboard_time": 1688739340,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 593783,
+      "num": 593783,
+      "word": "杨紫问张晚意怎么瘦的",
+      "onboard_time": 1688805812,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 588687,
@@ -609,6 +633,14 @@
       "onboard_time": 1688799270,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 503887,
+      "num": 379665,
+      "word": "消失的她前传 怎么能算清白呢",
+      "onboard_time": 1688806714,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 496216,
@@ -787,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389257,
+      "num": 355175,
+      "word": "入职3天因公司氛围不好离职了",
+      "onboard_time": 1688804552,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385311,
       "num": 300560,
       "word": "背叛都是从闲聊开始的",
@@ -819,19 +859,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375377,
-      "num": 375377,
-      "word": "你师父当年也选的工商",
-      "onboard_time": 1688804254,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 374840,
       "num": 374840,
       "word": "曝河南一院长要医生多开中药提升收入",
       "onboard_time": 1688773767,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374439,
+      "num": 374439,
+      "word": "男孩买药欲轻生被店员路人劝下",
+      "onboard_time": 1688804013,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1100,7 +1140,7 @@
     },
     {
       "raw_hot": 297433,
-      "num": 260997,
+      "num": 286350,
       "word": "岳云鹏把燕子追回来了",
       "onboard_time": 1688803713,
       "rank": 30,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1688788112,
       "rank": 29,
       "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 294069,
+      "num": 294069,
+      "word": "发现一直踩错了上班的点",
+      "onboard_time": 1688806353,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 292594,
@@ -1347,6 +1395,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 243460,
+      "num": 243460,
+      "word": "BLG零封NIP",
+      "onboard_time": 1688807491,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241965,
       "num": 241965,
       "word": "总有一两个人占用整个教室",
@@ -1371,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235685,
+      "num": 235685,
+      "word": "王鹤棣李晨水上俯卧撑",
+      "onboard_time": 1688805393,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232648,
       "num": 232648,
       "word": "TMEA音乐盛典节目单",
@@ -1379,12 +1443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231632,
-      "num": 231632,
-      "word": "男孩买药欲轻生被店员路人劝下",
-      "onboard_time": 1688804013,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 231956,
+      "num": 231956,
+      "word": "这是桑稚段嘉许",
+      "onboard_time": 1688806769,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 230215,
@@ -1595,6 +1659,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 197492,
+      "num": 197492,
+      "word": "男童挂窗外爸爸编织袋兜娃等救援",
+      "onboard_time": 1688807311,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197201,
       "num": 197201,
       "word": "Gr对战成都GG",
@@ -1617,14 +1689,6 @@
       "onboard_time": 1688788830,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193993,
-      "num": 193993,
-      "word": "入职3天因公司氛围不好离职了",
-      "onboard_time": 1688804552,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 193123,
@@ -1667,12 +1731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180351,
+      "num": 180351,
+      "word": "周柯宇再回节目团已解散",
+      "onboard_time": 1688806051,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178495,
       "num": 178495,
       "word": "如何用一句话伤害一个人六次",
       "onboard_time": 1688794412,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175925,
+      "num": 181361,
+      "word": "两名网格员一小时内两次救了同一位老人",
+      "onboard_time": 1688807548,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175919,
@@ -1903,6 +1983,14 @@
       "num": 197620,
       "word": "崇礼168无痕山野有我在",
       "onboard_time": 1688804672,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14797,
+      "num": 195862,
+      "word": "吃中国面挺中国队",
+      "onboard_time": 1688806832,
       "rank": 39,
       "category": "社会新闻"
     }
