@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688785238844,
+  "endTime": 1688785866769,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -851,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2043780,
+      "num": 2043780,
+      "word": "身边的超级致癌物 黄曲霉菌",
+      "onboard_time": 1688782053,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2013096,
       "num": 2013096,
       "word": "刘雯穿几十斤重锁链裙走秀",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1688715274,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1661193,
-      "num": 1661193,
-      "word": "身边的超级致癌物 黄曲霉菌",
-      "onboard_time": 1688782053,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1645508,
@@ -2867,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 872228,
+      "num": 872228,
+      "word": "肖战以后还演古偶吗",
+      "onboard_time": 1688782112,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 868210,
       "num": 868210,
       "word": "幼儿在公共场合哭闹 泰森原则",
@@ -2953,14 +2961,6 @@
       "onboard_time": 1688476295,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 847717,
-      "num": 847717,
-      "word": "肖战以后还演古偶吗",
-      "onboard_time": 1688782112,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 847221,
@@ -4643,6 +4643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 586831,
+      "num": 586831,
+      "word": "沈月谈要不要生小孩",
+      "onboard_time": 1688784271,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 585130,
       "num": 501426,
       "word": "怀孕后公司不给批辞职报告",
@@ -4755,6 +4763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568971,
+      "num": 568971,
+      "word": "福宝要当姐姐了",
+      "onboard_time": 1688784087,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568307,
       "num": 568307,
       "word": "杨紫琼发文悼念李玟",
@@ -4849,6 +4865,14 @@
       "onboard_time": 1688726310,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 554952,
+      "num": 554952,
+      "word": "读了一天博了",
+      "onboard_time": 1688784631,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 553849,
@@ -4979,6 +5003,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 544263,
+      "num": 544263,
+      "word": "专家说秦二世被冤枉了2000多年",
+      "onboard_time": 1688781092,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543725,
       "num": 543725,
       "word": "LPL",
@@ -5028,11 +5060,19 @@
     },
     {
       "raw_hot": 540481,
-      "num": 442492,
+      "num": 485293,
       "word": "点外卖点到在骑手群出名了",
       "onboard_time": 1688782230,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 536854,
+      "num": 536854,
+      "word": "崔胜澈白发",
+      "onboard_time": 1688784394,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 536673,
@@ -5073,14 +5113,6 @@
       "onboard_time": 1688373946,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 531908,
-      "num": 531908,
-      "word": "专家说秦二世被冤枉了2000多年",
-      "onboard_time": 1688781092,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 530769,
@@ -5161,6 +5193,14 @@
       "onboard_time": 1688350649,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524719,
+      "num": 524719,
+      "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
+      "onboard_time": 1688781872,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 523857,
@@ -5345,14 +5385,6 @@
       "onboard_time": 1688572666,
       "rank": 24,
       "category": "社会议题,艺人"
-    },
-    {
-      "raw_hot": 498630,
-      "num": 498630,
-      "word": "沈月谈要不要生小孩",
-      "onboard_time": 1688784271,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 498503,
@@ -5627,14 +5659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474279,
-      "num": 474279,
-      "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
-      "onboard_time": 1688781872,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 474009,
       "num": 474009,
       "word": "上海网红瑞士卷店员磨洋工引争议",
@@ -5673,14 +5697,6 @@
       "onboard_time": 1688724933,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 469394,
-      "num": 469394,
-      "word": "福宝要当姐姐了",
-      "onboard_time": 1688784087,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469240,
@@ -6827,14 +6843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 375462,
-      "num": 375462,
-      "word": "读了一天博了",
-      "onboard_time": 1688784631,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 375273,
       "num": 375273,
       "word": "LPL官方回应推迟开票",
@@ -7955,14 +7963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 318694,
-      "num": 318694,
-      "word": "崔胜澈白发",
-      "onboard_time": 1688784394,
-      "rank": 28,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 317003,
       "num": 317003,
       "word": "ucal向粉丝行大礼",
@@ -8363,6 +8363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296673,
+      "num": 296673,
+      "word": "花花在大运会宣传片里出镜了",
+      "onboard_time": 1688783911,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296500,
       "num": 400474,
       "word": "亚运会",
@@ -8481,6 +8489,14 @@
       "onboard_time": 1688446005,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292594,
+      "num": 292594,
+      "word": "魏大勋演技",
+      "onboard_time": 1688784212,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 292160,
@@ -9875,14 +9891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235553,
-      "num": 235553,
-      "word": "花花在大运会宣传片里出镜了",
-      "onboard_time": 1688783911,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235166,
       "num": 235166,
       "word": "朱一龙文咏珊好像两台扫描仪",
@@ -10371,14 +10379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219232,
-      "num": 219232,
-      "word": "魏大勋演技",
-      "onboard_time": 1688784212,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219046,
       "num": 219046,
       "word": "许巍北京",
@@ -10531,6 +10531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214178,
+      "num": 214178,
+      "word": "向往的生活结尾看到了谁",
+      "onboard_time": 1688785652,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214098,
       "num": 330494,
       "word": "当事人回应跳下站台救孩子",
@@ -10545,6 +10553,14 @@
       "onboard_time": 1688691456,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213491,
+      "num": 213491,
+      "word": "孙燕姿去看了张惠妹的演唱会",
+      "onboard_time": 1688785051,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 213397,
@@ -10585,14 +10601,6 @@
       "onboard_time": 1688386301,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212385,
-      "num": 205560,
-      "word": "孙燕姿去看了张惠妹的演唱会",
-      "onboard_time": 1688785051,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 212334,
@@ -11075,6 +11083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199927,
+      "num": 199927,
+      "word": "黄磊孙红雷意外同框",
+      "onboard_time": 1688785472,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199394,
       "num": 199394,
       "word": "控制不了的情绪别怪在我身上",
@@ -11313,6 +11329,14 @@
       "onboard_time": 1688513848,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194197,
+      "num": 198395,
+      "word": "杭州亚运首批售票项目该怎么选",
+      "onboard_time": 1688785292,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 193995,
@@ -13561,6 +13585,14 @@
       "onboard_time": 1688500931,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14467,
+      "num": 1480634,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1688785828,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11977,
