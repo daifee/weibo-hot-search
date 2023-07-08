@@ -1,0 +1,410 @@
+{
+  "runTime": 1688793448966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2431831,
+        "num": 2431831,
+        "word": "身边的超级致癌物 黄曲霉菌",
+        "onboard_time": 1688782053,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1610940,
+        "num": 1610940,
+        "word": "爱宝",
+        "onboard_time": 1688774007,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26481,
+        "num": 1046780,
+        "word": "倾听运河新生的脉动",
+        "onboard_time": 1688786070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2313804,
+        "num": 969378,
+        "word": "坐电梯坐到张杰谢娜家",
+        "onboard_time": 1688789792,
+        "rank": 3,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 831778,
+        "num": 831778,
+        "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
+        "onboard_time": 1688780611,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 616914,
+        "num": 616914,
+        "word": "布兰妮被掌掴视频曝光",
+        "onboard_time": 1688780495,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609061,
+        "num": 609061,
+        "word": "柳玉茹 假死",
+        "onboard_time": 1688782536,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 602458,
+        "num": 602458,
+        "word": "多地有猴痘普通人感染几率会增大吗",
+        "onboard_time": 1688787332,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579654,
+        "num": 579654,
+        "word": "当事人回应私搭浮桥一家18口被判刑",
+        "onboard_time": 1688789672,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517841,
+        "num": 517841,
+        "word": "iPhone15Pro系列将采用深蓝色",
+        "onboard_time": 1688786312,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 527978,
+        "num": 511793,
+        "word": "女子回应赚5亿不如月薪5千生娃好",
+        "onboard_time": 1688775691,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 462674,
+        "num": 462674,
+        "word": "金虎",
+        "onboard_time": 1688788951,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451804,
+        "num": 451804,
+        "word": "男生考上研究生辞掉上万月薪工作",
+        "onboard_time": 1688780553,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 424887,
+        "num": 424887,
+        "word": "张杰超话 答题",
+        "onboard_time": 1688789971,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410019,
+        "num": 410019,
+        "word": "bilibiliworld",
+        "onboard_time": 1688791173,
+        "rank": 14,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 402045,
+        "num": 402045,
+        "word": "为seventeen点播一首hot",
+        "onboard_time": 1688787694,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 401980,
+        "num": 401980,
+        "word": "女子过生日闺蜜送10万元刮刮乐",
+        "onboard_time": 1688791230,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396106,
+        "num": 396106,
+        "word": "向往的生活结尾看到了谁",
+        "onboard_time": 1688785652,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394199,
+        "num": 394199,
+        "word": "福宝要当姐姐了",
+        "onboard_time": 1688784087,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385050,
+        "num": 385050,
+        "word": "文咏珊送给李木子的海底星空",
+        "onboard_time": 1688788711,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 773341,
+        "num": 382818,
+        "word": "男子便秘自行灌肠致肠穿孔休克",
+        "onboard_time": 1688789555,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444296,
+        "num": 381252,
+        "word": "张杰深圳演唱会",
+        "onboard_time": 1688792670,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 373378,
+        "num": 373378,
+        "word": "Angelababy王者段位",
+        "onboard_time": 1688791354,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370158,
+        "num": 370158,
+        "word": "福宝是像家人一样的宝贝",
+        "onboard_time": 1688793154,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327223,
+        "num": 327223,
+        "word": "肖战以后还演古偶吗",
+        "onboard_time": 1688782112,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319955,
+        "num": 319955,
+        "word": "上海地铁一女子发表辱华言论",
+        "onboard_time": 1688792911,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318281,
+        "num": 318281,
+        "word": "点外卖点到在骑手群出名了",
+        "onboard_time": 1688782230,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314002,
+        "num": 314002,
+        "word": "你会把实际存款告诉另一半吗",
+        "onboard_time": 1688791956,
+        "rank": 27,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 311448,
+        "num": 311448,
+        "word": "白敬亭望都F4T恤",
+        "onboard_time": 1688791833,
+        "rank": 28,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 301059,
+        "num": 301059,
+        "word": "INFP 命运会让我们相遇",
+        "onboard_time": 1688789431,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396118,
+        "num": 281593,
+        "word": "宋轶爬楼全靠臂力",
+        "onboard_time": 1688791230,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385311,
+        "num": 273104,
+        "word": "背叛都是从闲聊开始的",
+        "onboard_time": 1688793092,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 261268,
+        "num": 261268,
+        "word": "谢娜自己淘汰自己",
+        "onboard_time": 1688779171,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257249,
+        "num": 257249,
+        "word": "嘘嘘不稀得看陆虎手机",
+        "onboard_time": 1688791893,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246666,
+        "num": 246666,
+        "word": "光与夜之恋",
+        "onboard_time": 1688791654,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241965,
+        "num": 241965,
+        "word": "总有一两个人占用整个教室",
+        "onboard_time": 1688792194,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241069,
+        "num": 241069,
+        "word": "5旬失独母亲试管产下新生儿",
+        "onboard_time": 1688793154,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237937,
+        "num": 237937,
+        "word": "齐司礼",
+        "onboard_time": 1688791956,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233470,
+        "num": 233470,
+        "word": "邓伦被强制执行",
+        "onboard_time": 1688730994,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 228352,
+        "num": 228352,
+        "word": "四岁男孩走失到派出所连炫3瓶奶",
+        "onboard_time": 1688790274,
+        "rank": 39,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 226709,
+        "num": 226709,
+        "word": "外媒报道李玟去世形容巨星陨落",
+        "onboard_time": 1688773287,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224849,
+        "num": 224849,
+        "word": "幂系仙系妮系女明星",
+        "onboard_time": 1688793271,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 215170,
+        "num": 215170,
+        "word": "文班亚马NBA首秀",
+        "onboard_time": 1688787511,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211155,
+        "num": 211155,
+        "word": "沈月谈要不要生小孩",
+        "onboard_time": 1688784271,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208115,
+        "num": 208115,
+        "word": "杨迪说杨紫是软体动物",
+        "onboard_time": 1688787392,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204277,
+        "num": 204277,
+        "word": "先救女友情侣送完锦旗后订婚了",
+        "onboard_time": 1688781213,
+        "rank": 45,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 203617,
+        "num": 203617,
+        "word": "梁静茹悼念李玟",
+        "onboard_time": 1688791114,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195549,
+        "num": 202682,
+        "word": "这才是女生该有的小金库",
+        "onboard_time": 1688788112,
+        "rank": 47,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 202388,
+        "num": 202388,
+        "word": "专家说秦二世被冤枉了2000多年",
+        "onboard_time": 1688781092,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199263,
+        "num": 199263,
+        "word": "崔胜澈白发",
+        "onboard_time": 1688784394,
+        "rank": 49,
+        "category": "音乐,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023明文化论坛#"
+    }
+  }
+}

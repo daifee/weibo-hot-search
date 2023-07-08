@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688791012105,
+  "endTime": 1688793448966,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -25,6 +25,14 @@
       "onboard_time": 1688774007,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2313804,
+      "num": 969378,
+      "word": "坐电梯坐到张杰谢娜家",
+      "onboard_time": 1688789792,
+      "rank": 31,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 2159758,
@@ -65,14 +73,6 @@
       "onboard_time": 1688779229,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1176069,
-      "num": 596391,
-      "word": "坐电梯坐到张杰谢娜家",
-      "onboard_time": 1688789792,
-      "rank": 31,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 1173599,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 773341,
+      "num": 405007,
+      "word": "男子便秘自行灌肠致肠穿孔休克",
+      "onboard_time": 1688789555,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767777,
       "num": 767777,
       "word": "对这期跑男越来越感兴趣了",
@@ -265,14 +273,6 @@
       "onboard_time": 1688741384,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 646596,
-      "num": 405007,
-      "word": "男子便秘自行灌肠致肠穿孔休克",
-      "onboard_time": 1688789555,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632980,
@@ -344,6 +344,14 @@
       "word": "女子无人区遇乞食狼下车投喂",
       "onboard_time": 1688770999,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579654,
+      "num": 579654,
+      "word": "当事人回应私搭浮桥一家18口被判刑",
+      "onboard_time": 1688789672,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -491,6 +499,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 462674,
+      "num": 462674,
+      "word": "金虎",
+      "onboard_time": 1688788951,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459882,
       "num": 361649,
       "word": "宋轶 不夸我是百灵鸟我不唱",
@@ -507,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458067,
-      "num": 458067,
-      "word": "金虎",
-      "onboard_time": 1688788951,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 444296,
+      "num": 381252,
+      "word": "张杰深圳演唱会",
+      "onboard_time": 1688792670,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 442269,
@@ -539,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410019,
+      "num": 410019,
+      "word": "bilibiliworld",
+      "onboard_time": 1688791173,
+      "rank": 14,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 409103,
       "num": 409103,
       "word": "李玟",
@@ -547,12 +571,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388946,
-      "num": 384715,
+      "raw_hot": 402045,
+      "num": 402045,
       "word": "为seventeen点播一首hot",
       "onboard_time": 1688787694,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401980,
+      "num": 401980,
+      "word": "女子过生日闺蜜送10万元刮刮乐",
+      "onboard_time": 1688791230,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396118,
+      "num": 281593,
+      "word": "宋轶爬楼全靠臂力",
+      "onboard_time": 1688791230,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 385311,
+      "num": 273104,
+      "word": "背叛都是从闲聊开始的",
+      "onboard_time": 1688793092,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 383311,
@@ -576,6 +624,22 @@
       "word": "曝河南一院长要医生多开中药提升收入",
       "onboard_time": 1688773767,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373378,
+      "num": 373378,
+      "word": "Angelababy王者段位",
+      "onboard_time": 1688791354,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 370158,
+      "num": 370158,
+      "word": "福宝是像家人一样的宝贝",
+      "onboard_time": 1688793154,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -643,14 +707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334893,
-      "num": 334893,
-      "word": "当事人回应私搭浮桥一家18口被判刑",
-      "onboard_time": 1688789672,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333158,
       "num": 333158,
       "word": "先救女友情侣送完锦旗后订婚了",
@@ -691,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 319955,
+      "num": 319955,
+      "word": "上海地铁一女子发表辱华言论",
+      "onboard_time": 1688792911,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319201,
       "num": 319201,
       "word": "张惠妹演唱会唱李玟的歌",
@@ -729,6 +793,22 @@
       "onboard_time": 1688729672,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 314002,
+      "num": 314002,
+      "word": "你会把实际存款告诉另一半吗",
+      "onboard_time": 1688791956,
+      "rank": 27,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 311448,
+      "num": 311448,
+      "word": "白敬亭望都F4T恤",
+      "onboard_time": 1688791833,
+      "rank": 28,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 309565,
@@ -835,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257249,
+      "num": 257249,
+      "word": "嘘嘘不稀得看陆虎手机",
+      "onboard_time": 1688791893,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257018,
       "num": 257018,
       "word": "四岁男孩走失到派出所连炫3瓶奶",
@@ -899,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246666,
+      "num": 246666,
+      "word": "光与夜之恋",
+      "onboard_time": 1688791654,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246010,
       "num": 246010,
       "word": "战至巅峰2开播",
@@ -913,6 +1009,30 @@
       "onboard_time": 1688774489,
       "rank": 35,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 241965,
+      "num": 241965,
+      "word": "总有一两个人占用整个教室",
+      "onboard_time": 1688792194,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 241069,
+      "num": 241069,
+      "word": "5旬失独母亲试管产下新生儿",
+      "onboard_time": 1688793154,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237937,
+      "num": 237937,
+      "word": "齐司礼",
+      "onboard_time": 1688791956,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 237685,
@@ -961,6 +1081,14 @@
       "onboard_time": 1688774667,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 224849,
+      "num": 224849,
+      "word": "幂系仙系妮系女明星",
+      "onboard_time": 1688793271,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 224767,
@@ -1057,6 +1185,14 @@
       "onboard_time": 1688741019,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203617,
+      "num": 203617,
+      "word": "梁静茹悼念李玟",
+      "onboard_time": 1688791114,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 202024,

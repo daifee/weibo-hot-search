@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688791012105,
+  "endTime": 1688793448966,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -705,6 +705,14 @@
       "onboard_time": 1688618328,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2313804,
+      "num": 969378,
+      "word": "坐电梯坐到张杰谢娜家",
+      "onboard_time": 1688789792,
+      "rank": 31,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 2285274,
@@ -1929,14 +1937,6 @@
       "onboard_time": 1688382639,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1176069,
-      "num": 596391,
-      "word": "坐电梯坐到张杰谢娜家",
-      "onboard_time": 1688789792,
-      "rank": 31,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 1173599,
@@ -3435,6 +3435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 773341,
+      "num": 405007,
+      "word": "男子便秘自行灌肠致肠穿孔休克",
+      "onboard_time": 1688789555,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773061,
       "num": 773061,
       "word": "如何看待蔡徐坤回应",
@@ -4307,14 +4315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 646596,
-      "num": 405007,
-      "word": "男子便秘自行灌肠致肠穿孔休克",
-      "onboard_time": 1688789555,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 645052,
       "num": 645052,
       "word": "香港警方悬红100万港元通缉许智峰等8人",
@@ -4760,6 +4760,14 @@
       "word": "妻子坐月子丈夫门口贴亲朋进门须知",
       "onboard_time": 1688720976,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579654,
+      "num": 579654,
+      "word": "当事人回应私搭浮桥一家18口被判刑",
+      "onboard_time": 1688789672,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -5819,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462674,
+      "num": 462674,
+      "word": "金虎",
+      "onboard_time": 1688788951,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461597,
       "num": 461597,
       "word": "6人被巨石砸中无一生还",
@@ -5888,14 +5904,6 @@
       "word": "清华选美冠军初中时因容貌遭欺凌",
       "onboard_time": 1688779712,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458067,
-      "num": 458067,
-      "word": "金虎",
-      "onboard_time": 1688788951,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -6065,6 +6073,14 @@
       "onboard_time": 1688633433,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444296,
+      "num": 381252,
+      "word": "张杰深圳演唱会",
+      "onboard_time": 1688792670,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 443253,
@@ -6403,6 +6419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410019,
+      "num": 410019,
+      "word": "bilibiliworld",
+      "onboard_time": 1688791173,
+      "rank": 14,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 409512,
       "num": 240752,
       "word": "影帝界四大社恐",
@@ -6497,6 +6521,22 @@
       "onboard_time": 1688710416,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402045,
+      "num": 402045,
+      "word": "为seventeen点播一首hot",
+      "onboard_time": 1688787694,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 401980,
+      "num": 401980,
+      "word": "女子过生日闺蜜送10万元刮刮乐",
+      "onboard_time": 1688791230,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401701,
@@ -6619,6 +6659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396118,
+      "num": 281593,
+      "word": "宋轶爬楼全靠臂力",
+      "onboard_time": 1688791230,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395414,
       "num": 395414,
       "word": "美依礼芽回中国了",
@@ -6699,14 +6747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 388946,
-      "num": 384715,
-      "word": "为seventeen点播一首hot",
-      "onboard_time": 1688787694,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388429,
       "num": 388429,
       "word": "周翊然张淼怡三年前试戏镜头",
@@ -6785,6 +6825,14 @@
       "onboard_time": 1688703037,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385311,
+      "num": 273104,
+      "word": "背叛都是从闲聊开始的",
+      "onboard_time": 1688793092,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 383702,
@@ -6963,6 +7011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373378,
+      "num": 373378,
+      "word": "Angelababy王者段位",
+      "onboard_time": 1688791354,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372704,
       "num": 1274327,
       "word": "同济520宿舍四位女生全员上岸名校",
@@ -7009,6 +7065,14 @@
       "onboard_time": 1688562092,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 370158,
+      "num": 370158,
+      "word": "福宝是像家人一样的宝贝",
+      "onboard_time": 1688793154,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369894,
@@ -7691,14 +7755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334893,
-      "num": 334893,
-      "word": "当事人回应私搭浮桥一家18口被判刑",
-      "onboard_time": 1688789672,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334852,
       "num": 334852,
       "word": "打死西湖松鼠男子已离开杭州",
@@ -8051,6 +8107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319955,
+      "num": 319955,
+      "word": "上海地铁一女子发表辱华言论",
+      "onboard_time": 1688792911,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319797,
       "num": 319797,
       "word": "陈立农表情演我",
@@ -8147,6 +8211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314002,
+      "num": 314002,
+      "word": "你会把实际存款告诉另一半吗",
+      "onboard_time": 1688791956,
+      "rank": 27,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 313920,
       "num": 240253,
       "word": "日本女高真是独特的关系",
@@ -8209,6 +8281,14 @@
       "onboard_time": 1688323754,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311448,
+      "num": 311448,
+      "word": "白敬亭望都F4T恤",
+      "onboard_time": 1688791833,
+      "rank": 28,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 311364,
@@ -9411,6 +9491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257249,
+      "num": 257249,
+      "word": "嘘嘘不稀得看陆虎手机",
+      "onboard_time": 1688791893,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257018,
       "num": 257018,
       "word": "四岁男孩走失到派出所连炫3瓶奶",
@@ -9731,6 +9819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246666,
+      "num": 265444,
+      "word": "光与夜之恋",
+      "onboard_time": 1688620361,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246495,
       "num": 246495,
       "word": "女子每日孕吐近十次抱妈妈嚎啕大哭",
@@ -9883,6 +9979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241965,
+      "num": 241965,
+      "word": "总有一两个人占用整个教室",
+      "onboard_time": 1688792194,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241880,
       "num": 241880,
       "word": "张柏芝吴磊同框好养眼",
@@ -9923,6 +10027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241069,
+      "num": 241069,
+      "word": "5旬失独母亲试管产下新生儿",
+      "onboard_time": 1688793154,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240917,
       "num": 240917,
       "word": "离职时这些文件不能签",
@@ -9939,14 +10051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 239109,
-      "num": 265444,
-      "word": "光与夜之恋",
-      "onboard_time": 1688620361,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 238746,
       "num": 238746,
       "word": "陈哲远不看会后悔",
@@ -9961,6 +10065,14 @@
       "onboard_time": 1688531324,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237937,
+      "num": 237937,
+      "word": "齐司礼",
+      "onboard_time": 1688791956,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 237503,
@@ -10321,6 +10433,14 @@
       "onboard_time": 1688428414,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224849,
+      "num": 224849,
+      "word": "幂系仙系妮系女明星",
+      "onboard_time": 1688793271,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 224843,
@@ -11073,6 +11193,14 @@
       "onboard_time": 1688439454,
       "rank": 40,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 203617,
+      "num": 203617,
+      "word": "梁静茹悼念李玟",
+      "onboard_time": 1688791114,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 203493,
