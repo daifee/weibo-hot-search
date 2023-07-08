@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688785866769,
+  "endTime": 1688787200517,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -603,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2577791,
+      "num": 2577791,
+      "word": "身边的超级致癌物 黄曲霉菌",
+      "onboard_time": 1688782053,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2522401,
       "num": 2522401,
       "word": "当老公知道前男友随礼5000",
@@ -849,14 +857,6 @@
       "onboard_time": 1688572252,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2043780,
-      "num": 2043780,
-      "word": "身边的超级致癌物 黄曲霉菌",
-      "onboard_time": 1688782053,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2013096,
@@ -3203,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 806660,
+      "num": 806660,
+      "word": "读了一天博了",
+      "onboard_time": 1688784631,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 804045,
       "num": 357885,
       "word": "宝妈睡觉被1岁娃拍照误发给朋友",
@@ -3313,6 +3321,14 @@
       "onboard_time": 1688610338,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 782967,
+      "num": 782967,
+      "word": "福宝要当姐姐了",
+      "onboard_time": 1688784087,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 782510,
@@ -3505,6 +3521,14 @@
       "onboard_time": 1688654976,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 752557,
+      "num": 724885,
+      "word": "浙江人最近热成了孙悟空",
+      "onboard_time": 1688779229,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 750385,
@@ -3985,6 +4009,14 @@
       "onboard_time": 1688576189,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 681672,
+      "num": 681672,
+      "word": "崔胜澈白发",
+      "onboard_time": 1688784394,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 679843,
@@ -4571,6 +4603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 597469,
+      "num": 597469,
+      "word": "沈月谈要不要生小孩",
+      "onboard_time": 1688784271,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 596796,
       "num": 591004,
       "word": "小姨为了抱认生的孩子用奇招",
@@ -4641,14 +4681,6 @@
       "onboard_time": 1688690918,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 586831,
-      "num": 586831,
-      "word": "沈月谈要不要生小孩",
-      "onboard_time": 1688784271,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 585130,
@@ -4763,14 +4795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568971,
-      "num": 568971,
-      "word": "福宝要当姐姐了",
-      "onboard_time": 1688784087,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 568307,
       "num": 568307,
       "word": "杨紫琼发文悼念李玟",
@@ -4865,14 +4889,6 @@
       "onboard_time": 1688726310,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 554952,
-      "num": 554952,
-      "word": "读了一天博了",
-      "onboard_time": 1688784631,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 553849,
@@ -5065,14 +5081,6 @@
       "onboard_time": 1688782230,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 536854,
-      "num": 536854,
-      "word": "崔胜澈白发",
-      "onboard_time": 1688784394,
-      "rank": 28,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 536673,
@@ -5561,6 +5569,14 @@
       "onboard_time": 1688483978,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484983,
+      "num": 249365,
+      "word": "向往的生活结尾看到了谁",
+      "onboard_time": 1688785652,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 484981,
@@ -6819,6 +6835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376562,
+      "num": 376562,
+      "word": "iPhone15Pro系列将采用深蓝色",
+      "onboard_time": 1688786312,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 376530,
       "num": 357020,
       "word": "为什么高铁还没到站就站起来等",
@@ -7531,6 +7555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337245,
+      "num": 249360,
+      "word": "张馨予火锅前vs火锅后",
+      "onboard_time": 1688786192,
+      "rank": 31,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 337006,
       "num": 337006,
       "word": "高远二姨怎么了",
@@ -7985,6 +8017,14 @@
       "onboard_time": 1688783313,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316506,
+      "num": 316506,
+      "word": "洪知秀机场路透",
+      "onboard_time": 1688785953,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 316207,
@@ -9531,6 +9571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248283,
+      "num": 248283,
+      "word": "孙燕姿去看了张惠妹的演唱会",
+      "onboard_time": 1688785051,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 247852,
       "num": 247852,
       "word": "李沁看秀生图",
@@ -10531,14 +10579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214178,
-      "num": 214178,
-      "word": "向往的生活结尾看到了谁",
-      "onboard_time": 1688785652,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214098,
       "num": 330494,
       "word": "当事人回应跳下站台救孩子",
@@ -10553,14 +10593,6 @@
       "onboard_time": 1688691456,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213491,
-      "num": 213491,
-      "word": "孙燕姿去看了张惠妹的演唱会",
-      "onboard_time": 1688785051,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 213397,
@@ -10747,6 +10779,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 209100,
+      "num": 209100,
+      "word": "布莱泽奥特曼",
+      "onboard_time": 1688787153,
+      "rank": 38,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 208939,
       "num": 208939,
       "word": "没想到老板也会社恐",
@@ -10768,6 +10808,14 @@
       "word": "王源郭京飞情头",
       "onboard_time": 1688517934,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208264,
+      "num": 208264,
+      "word": "玉骨遥steve文学",
+      "onboard_time": 1688786011,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -11281,6 +11329,14 @@
       "onboard_time": 1688438675,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195049,
+      "num": 195049,
+      "word": "范玉黑化其实早有伏笔",
+      "onboard_time": 1688786372,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 194837,
@@ -13545,6 +13601,14 @@
       "onboard_time": 1688617302,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30544,
+      "num": 1721244,
+      "word": "倾听运河新生的脉动",
+      "onboard_time": 1688786070,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29549,
