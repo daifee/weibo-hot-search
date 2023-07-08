@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688800593588,
+  "endTime": 1688801619286,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -51,19 +51,19 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 2097071,
+      "num": 2097071,
+      "word": "9个孩子被骗缅甸遭电击开水烫",
+      "onboard_time": 1688797351,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1976757,
       "num": 418733,
       "word": "男子地铁上掏下体猥亵被揪着报警",
       "onboard_time": 1688745273,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1919265,
-      "num": 1919265,
-      "word": "9个孩子被骗缅甸遭电击开水烫",
-      "onboard_time": 1688797351,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -155,6 +155,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 986279,
+      "num": 660013,
+      "word": "Angelababy生孩子期间打上武则天高位",
+      "onboard_time": 1688800471,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 952978,
       "num": 952978,
       "word": "男生考上研究生辞掉上万月薪工作",
@@ -219,6 +227,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 826269,
+      "num": 826269,
+      "word": "杨天真考北大博士失败",
+      "onboard_time": 1688800230,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824652,
       "num": 824652,
       "word": "福宝要当姐姐了",
@@ -251,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 790905,
+      "num": 790905,
+      "word": "哈尔滨成功申办2025亚冬会",
+      "onboard_time": 1688798909,
+      "rank": 8,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 783486,
       "num": 783486,
       "word": "英国一年制硕士水吗",
@@ -265,14 +289,6 @@
       "onboard_time": 1688773287,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 776914,
-      "num": 776914,
-      "word": "哈尔滨成功申办2025亚冬会",
-      "onboard_time": 1688798909,
-      "rank": 8,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 773341,
@@ -307,8 +323,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 707026,
-      "num": 490020,
+      "raw_hot": 709967,
+      "num": 614493,
       "word": "猴痘可能使人短期毁容",
       "onboard_time": 1688797290,
       "rank": 44,
@@ -451,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 563388,
+      "num": 325666,
+      "word": "王宝强谢谢沈月",
+      "onboard_time": 1688800471,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 562883,
       "num": 562883,
       "word": "茶百道 未定事件簿",
@@ -473,6 +497,14 @@
       "onboard_time": 1688795310,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547732,
+      "num": 547732,
+      "word": "胡一统都当校长了",
+      "onboard_time": 1688801192,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 544263,
@@ -499,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530711,
+      "num": 530711,
+      "word": "超级防窥屏聊天背景 杀敌一千自损八百",
+      "onboard_time": 1688798789,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529825,
       "num": 529825,
       "word": "在霉霉唱Love Story时求婚",
@@ -513,6 +553,14 @@
       "onboard_time": 1688781872,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513579,
+      "num": 513579,
+      "word": "隆里电丝",
+      "onboard_time": 1688799811,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 508960,
@@ -531,8 +579,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 500347,
-      "num": 298320,
+      "raw_hot": 505400,
+      "num": 325585,
       "word": "妈妈让弟弟接28岁的我",
       "onboard_time": 1688799270,
       "rank": 20,
@@ -593,14 +641,6 @@
       "onboard_time": 1688773164,
       "rank": 13,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 472353,
-      "num": 245125,
-      "word": "超级防窥屏聊天背景 杀敌一千自损八百",
-      "onboard_time": 1688798789,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 462674,
@@ -811,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348522,
+      "num": 348522,
+      "word": "中等偏上的人生是怎样的",
+      "onboard_time": 1688797410,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 340620,
       "num": 340620,
       "word": "你好星期六",
@@ -876,7 +924,7 @@
     },
     {
       "raw_hot": 322505,
-      "num": 245035,
+      "num": 304164,
       "word": "第一次在老虎脸上看见惊讶疑惑",
       "onboard_time": 1688798909,
       "rank": 31,
@@ -963,22 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309554,
-      "num": 309554,
-      "word": "中等偏上的人生是怎样的",
-      "onboard_time": 1688797410,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 305149,
-      "num": 305149,
-      "word": "隆里电丝",
-      "onboard_time": 1688799811,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304976,
       "num": 304976,
       "word": "李玟重病时仍在关心郑欣宜",
@@ -993,14 +1025,6 @@
       "onboard_time": 1688740540,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300391,
-      "num": 300391,
-      "word": "杨天真考北大博士失败",
-      "onboard_time": 1688800230,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 298441,
@@ -1059,6 +1083,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 284738,
+      "num": 278375,
+      "word": "女子用丝袜包5条活蛇藏胸部入境",
+      "onboard_time": 1688801253,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284126,
       "num": 284126,
       "word": "饲养员为爱宝开启昼夜陪护模式",
@@ -1088,6 +1120,14 @@
       "word": "刘雨昕腰围才50CM",
       "onboard_time": 1688797952,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279015,
+      "num": 279015,
+      "word": "美依礼芽镜头",
+      "onboard_time": 1688801014,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1403,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204352,
+      "num": 204352,
+      "word": "薛之谦青岛",
+      "onboard_time": 1688801253,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203992,
       "num": 203992,
       "word": "种地吧",
@@ -1451,6 +1499,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 197201,
+      "num": 197201,
+      "word": "Gr对战成都GG",
+      "onboard_time": 1688801313,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195199,
+      "num": 195199,
+      "word": "白鹿捧脸照",
+      "onboard_time": 1688801253,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 195049,
       "num": 195049,
       "word": "范玉黑化其实早有伏笔",
@@ -1475,14 +1539,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 191521,
-      "num": 191521,
-      "word": "王宝强谢谢沈月",
-      "onboard_time": 1688800471,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "村民私建浮桥被判刑当地法院已立案",
@@ -1496,14 +1552,6 @@
       "word": "星光派对",
       "onboard_time": 1688796989,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 187437,
-      "num": 187437,
-      "word": "Angelababy生孩子期间打上武则天高位",
-      "onboard_time": 1688800471,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1545,6 +1593,14 @@
       "onboard_time": 1688727153,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 168628,
+      "num": 168628,
+      "word": "现偶四大甜妹",
+      "onboard_time": 1688801555,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166502,
@@ -1707,6 +1763,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 33147,
+      "num": 1480634,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1688785828,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32420,
       "num": 32420,
       "word": "看种地吧我学到了什么",
@@ -1720,14 +1784,6 @@
       "word": "王冠说热情好客流淌在山东人血液里",
       "onboard_time": 1688758273,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14467,
-      "num": 1480634,
-      "word": "盛世中华何以中国",
-      "onboard_time": 1688785828,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
