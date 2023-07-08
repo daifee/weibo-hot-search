@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688855682965,
+  "endTime": 1688858277059,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -12379,6 +12379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 294542,
+      "num": 294542,
+      "word": "民警陪戒毒人员见父亲最后一面",
+      "onboard_time": 1688851453,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294532,
       "num": 294532,
       "word": "时影刚满18就要开始带娃了",
@@ -18675,14 +18683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159163,
-      "num": 159163,
-      "word": "民警陪戒毒人员见父亲最后一面",
-      "onboard_time": 1688851453,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158715,
       "num": 158715,
       "word": "战至巅峰2",
@@ -19203,6 +19203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135195,
+      "num": 109407,
+      "word": "自驾游夫妻高速上被黑熊撞翻车",
+      "onboard_time": 1688857278,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135120,
       "num": 167074,
       "word": "00后小伙探亲回家救2人",
@@ -19249,6 +19257,14 @@
       "onboard_time": 1688256745,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131155,
+      "num": 120222,
+      "word": "拍毕业照时把前女友砸到了",
+      "onboard_time": 1688837839,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 130901,
@@ -19433,6 +19449,14 @@
       "onboard_time": 1688839039,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118165,
+      "num": 118165,
+      "word": "杨紫觉得年龄大了挺好的",
+      "onboard_time": 1688842333,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 117598,
@@ -19649,14 +19673,6 @@
       "onboard_time": 1688581397,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102548,
-      "num": 83915,
-      "word": "拍毕业照时把前女友砸到了",
-      "onboard_time": 1688837839,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 102389,
@@ -19883,6 +19899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87162,
+      "num": 87162,
+      "word": "Angelababy豹纹露腰背心",
+      "onboard_time": 1688840416,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86967,
       "num": 86967,
       "word": "没有穿尿不湿的干不了的事",
@@ -20003,6 +20027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 78093,
+      "num": 78093,
+      "word": "健身房被淹教练无奈抱蛋白粉出来",
+      "onboard_time": 1688843535,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77955,
       "num": 406892,
       "word": "马齿苋是敏感肌救星吗",
@@ -20049,6 +20081,14 @@
       "onboard_time": 1688404580,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 76702,
+      "num": 76702,
+      "word": "周深说了6个一定今年发专辑",
+      "onboard_time": 1688855114,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 76484,
@@ -20123,19 +20163,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68859,
-      "num": 67884,
-      "word": "Angelababy豹纹露腰背心",
-      "onboard_time": 1688840416,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68667,
       "num": 1636168,
       "word": "高温下坚守的人",
       "onboard_time": 1688648558,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67496,
+      "num": 67496,
+      "word": "你会为了省钱放弃喜欢的东西吗",
+      "onboard_time": 1688843535,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -20161,14 +20201,6 @@
       "onboard_time": 1688200595,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65665,
-      "num": 56259,
-      "word": "杨紫觉得年龄大了挺好的",
-      "onboard_time": 1688842333,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 64831,
@@ -20291,6 +20323,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 53827,
+      "num": 62759,
+      "word": "王楚钦3比0周启豪",
+      "onboard_time": 1688858000,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53075,
+      "num": 62417,
+      "word": "中国队提前锁定混双男双冠军",
+      "onboard_time": 1688858120,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52080,
       "num": 486464,
       "word": "全国校园音乐大赛总决赛",
@@ -20379,14 +20427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45870,
-      "num": 52835,
-      "word": "健身房被淹教练无奈抱蛋白粉出来",
-      "onboard_time": 1688843535,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45499,
       "num": 50656,
       "word": "黄宗泽也觉得自己帅",
@@ -20443,19 +20483,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39327,
+      "num": 820117,
+      "word": "守护高温下的户外劳动者",
+      "onboard_time": 1688821897,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39127,
       "num": 1721244,
       "word": "倾听运河新生的脉动",
       "onboard_time": 1688786070,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39051,
-      "num": 52828,
-      "word": "你会为了省钱放弃喜欢的东西吗",
-      "onboard_time": 1688843535,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -20513,14 +20553,6 @@
       "onboard_time": 1688412494,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34907,
-      "num": 820117,
-      "word": "守护高温下的户外劳动者",
-      "onboard_time": 1688821897,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34696,
