@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688826830821,
+  "endTime": 1688829486612,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -123,6 +123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1484406,
+      "num": 1011551,
+      "word": "李玟姐姐称其老公已被原公司撤职很久",
+      "onboard_time": 1688826217,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1448461,
+      "num": 1448461,
+      "word": "谁给小鬼做的造型",
+      "onboard_time": 1688826033,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1414378,
       "num": 1414378,
       "word": "上海地铁一女子发表辱华言论",
@@ -155,20 +171,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1278701,
+      "num": 1278701,
+      "word": "90后终于熬成了挂钥匙的那群人",
+      "onboard_time": 1688819192,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1265214,
       "num": 1265214,
       "word": "魏大勋马伯骞赢麻了",
       "onboard_time": 1688822013,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1192075,
-      "num": 1192075,
-      "word": "90后终于熬成了挂钥匙的那群人",
-      "onboard_time": 1688819192,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 1173599,
@@ -275,6 +291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 925977,
+      "num": 789685,
+      "word": "鹿晗让粉丝在微博上征婚",
+      "onboard_time": 1688828675,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 915373,
       "num": 623456,
       "word": "蚂蚁集团被罚71.23亿元",
@@ -313,6 +337,14 @@
       "onboard_time": 1688786312,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 877723,
+      "num": 781988,
+      "word": "有点理解为啥找魏大勋演了",
+      "onboard_time": 1688824897,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 872228,
@@ -395,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 810771,
+      "num": 810771,
+      "word": "不小心发现落入山谷里的云朵",
+      "onboard_time": 1688827175,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 806660,
       "num": 806660,
       "word": "读了一天博了",
@@ -443,12 +483,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 782744,
-      "num": 684965,
-      "word": "有点理解为啥找魏大勋演了",
-      "onboard_time": 1688824897,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 783349,
+      "num": 586483,
+      "word": "徐明浩澳门",
+      "onboard_time": 1688828614,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 782388,
@@ -489,14 +529,6 @@
       "onboard_time": 1688779229,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742931,
-      "num": 742931,
-      "word": "谁给小鬼做的造型",
-      "onboard_time": 1688826033,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 732383,
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 612984,
-      "num": 758121,
+      "num": 801675,
       "word": "女生放假回家帮2嫂子带5娃",
       "onboard_time": 1688823033,
       "rank": 42,
@@ -731,14 +763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 576986,
-      "num": 344856,
-      "word": "李玟姐姐称其老公已被原公司撤职很久",
-      "onboard_time": 1688826217,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 574124,
       "num": 574124,
       "word": "威神V全开麦",
@@ -777,6 +801,14 @@
       "onboard_time": 1688800471,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 563231,
+      "num": 334263,
+      "word": "詹雯婷把麦给我我来唱",
+      "onboard_time": 1688826994,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 562883,
@@ -931,6 +963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 489963,
+      "num": 333848,
+      "word": "一双腿养活了蚊子祖宗十八代",
+      "onboard_time": 1688826994,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 487088,
       "num": 487088,
       "word": "EDG被多次盗窃",
@@ -961,6 +1001,14 @@
       "onboard_time": 1688785652,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482686,
+      "num": 332829,
+      "word": "BLACKPINK里哪位成员最依赖团",
+      "onboard_time": 1688828136,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 477329,
@@ -1009,6 +1057,14 @@
       "onboard_time": 1688820393,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 456136,
+      "num": 332524,
+      "word": "宋丹丹去了汪苏泷北京演唱会",
+      "onboard_time": 1688825433,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 444296,
@@ -1379,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326910,
-      "num": 227441,
-      "word": "宋丹丹去了汪苏泷北京演唱会",
-      "onboard_time": 1688825433,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 326888,
       "num": 326888,
       "word": "谢娜组五公第一",
@@ -1499,6 +1547,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 311403,
+      "num": 204533,
+      "word": "魏晨的铁没有白举",
+      "onboard_time": 1688828434,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309565,
       "num": 425486,
       "word": "李玟疑因窒息死亡",
@@ -1609,6 +1665,14 @@
       "onboard_time": 1688796629,
       "rank": 37,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 288354,
+      "num": 204248,
+      "word": "听周深唱歌对我耳朵很好",
+      "onboard_time": 1688827534,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 288163,
@@ -2067,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221143,
+      "num": 221143,
+      "word": "王者荣耀",
+      "onboard_time": 1688827596,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221109,
       "num": 221109,
       "word": "玉骨遥",
@@ -2235,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203726,
+      "num": 203726,
+      "word": "WBG积分榜",
+      "onboard_time": 1688826875,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203617,
       "num": 203617,
       "word": "梁静茹悼念李玟",
@@ -2281,6 +2361,14 @@
       "onboard_time": 1688801313,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197066,
+      "num": 197066,
+      "word": "周启豪比赛",
+      "onboard_time": 1688827534,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 195479,
@@ -2393,6 +2481,14 @@
       "onboard_time": 1688771060,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181718,
+      "num": 197031,
+      "word": "李玟精彩现场与作品回顾",
+      "onboard_time": 1688827056,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 180365,
@@ -2529,6 +2625,14 @@
       "onboard_time": 1688820575,
       "rank": 46,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 146876,
+      "num": 197015,
+      "word": "eStar战胜DYG",
+      "onboard_time": 1688828794,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 145087,
