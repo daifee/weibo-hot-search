@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688819723562,
+  "endTime": 1688820746226,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2027,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1402078,
+      "num": 1402078,
+      "word": "荷兰政府宣布将集体辞职",
+      "onboard_time": 1688813492,
+      "rank": 30,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 1391221,
       "num": 1391221,
       "word": "倪妮能够出演陈麦的原因",
@@ -2201,14 +2209,6 @@
       "onboard_time": 1688479421,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1314005,
-      "num": 1314005,
-      "word": "荷兰政府宣布将集体辞职",
-      "onboard_time": 1688813492,
-      "rank": 30,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 1313529,
@@ -4156,7 +4156,7 @@
     },
     {
       "raw_hot": 827800,
-      "num": 329046,
+      "num": 333802,
       "word": "泰妃看肖战出场的反应",
       "onboard_time": 1688818112,
       "rank": 20,
@@ -6195,6 +6195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607138,
+      "num": 607138,
+      "word": "花傲天上场",
+      "onboard_time": 1688811991,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 606794,
       "num": 606794,
       "word": "大学毕业生带小黄鸭坐火车被拒",
@@ -6313,6 +6321,14 @@
       "onboard_time": 1688539955,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 598966,
+      "num": 598966,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1688815471,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 598168,
@@ -7211,14 +7227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 525723,
-      "num": 525723,
-      "word": "花傲天上场",
-      "onboard_time": 1688811991,
-      "rank": 18,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 524719,
       "num": 524719,
       "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
@@ -7241,6 +7249,14 @@
       "onboard_time": 1688266531,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 523528,
+      "num": 325134,
+      "word": "90后终于熬成了挂钥匙的那群人",
+      "onboard_time": 1688819192,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 523496,
@@ -7633,14 +7649,6 @@
       "onboard_time": 1688515529,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 494061,
-      "num": 494061,
-      "word": "汪苏泷演唱会",
-      "onboard_time": 1688815471,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 493959,
@@ -8209,6 +8217,14 @@
       "onboard_time": 1688466338,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 456917,
+      "num": 456917,
+      "word": "BW2023",
+      "onboard_time": 1688647114,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 456883,
@@ -8851,6 +8867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420703,
+      "num": 420703,
+      "word": "TMEA音乐盛典",
+      "onboard_time": 1688815172,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 418734,
       "num": 418734,
       "word": "他到长沙第一件事是去缅怀袁老师",
@@ -9275,6 +9299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398811,
+      "num": 398811,
+      "word": "老人游泳误入深海漂浮1小时获救",
+      "onboard_time": 1688817391,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398269,
       "num": 361264,
       "word": "比失业还可怕的是什么",
@@ -9507,12 +9539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 386010,
-      "num": 386010,
-      "word": "TMEA音乐盛典",
-      "onboard_time": 1688815172,
+      "raw_hot": 386253,
+      "num": 386253,
+      "word": "我的人间烟火 伪骨科",
+      "onboard_time": 1688820032,
       "rank": 16,
-      "category": "音乐"
+      "category": "影视"
     },
     {
       "raw_hot": 385994,
@@ -9777,14 +9809,6 @@
       "onboard_time": 1688742280,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 375717,
-      "num": 375717,
-      "word": "老人游泳误入深海漂浮1小时获救",
-      "onboard_time": 1688817391,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375336,
@@ -10891,14 +10915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332754,
-      "num": 325134,
-      "word": "90后终于熬成了挂钥匙的那群人",
-      "onboard_time": 1688819192,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 332595,
       "num": 332595,
       "word": "消失的她小头像",
@@ -11049,6 +11065,14 @@
       "onboard_time": 1688658573,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327931,
+      "num": 284287,
+      "word": "女子找手机全飞机乘客干等3小时",
+      "onboard_time": 1688817813,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327638,
@@ -11691,6 +11715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307266,
+      "num": 307266,
+      "word": "陈梦",
+      "onboard_time": 1688820272,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306695,
       "num": 249902,
       "word": "被赞达亚的自信感染到了",
@@ -12033,14 +12065,6 @@
       "onboard_time": 1688801613,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296398,
-      "num": 257137,
-      "word": "女子找手机全飞机乘客干等3小时",
-      "onboard_time": 1688817813,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296270,
@@ -12985,6 +13009,14 @@
       "onboard_time": 1688135978,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 270826,
+      "num": 270826,
+      "word": "亚运会门票",
+      "onboard_time": 1688818895,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 270590,
@@ -15243,14 +15275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219900,
-      "num": 219900,
-      "word": "亚运会门票",
-      "onboard_time": 1688818895,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219792,
       "num": 219792,
       "word": "不要太快开始一段恋爱",
@@ -15761,14 +15785,6 @@
       "onboard_time": 1688651617,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210101,
-      "num": 210101,
-      "word": "BW2023",
-      "onboard_time": 1688647114,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 210062,
@@ -17884,7 +17900,7 @@
     },
     {
       "raw_hot": 171585,
-      "num": 171585,
+      "num": 180267,
       "word": "孙颖莎3比2早田希娜",
       "onboard_time": 1688817692,
       "rank": 44,
@@ -18452,7 +18468,7 @@
     },
     {
       "raw_hot": 151530,
-      "num": 151530,
+      "num": 180263,
       "word": "老人海边游泳漂入深海",
       "onboard_time": 1688817992,
       "rank": 48,
@@ -18465,6 +18481,14 @@
       "onboard_time": 1688434596,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150938,
+      "num": 180298,
+      "word": "那些军装沾满泥巴的武警真帅",
+      "onboard_time": 1688820575,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 150527,
@@ -18891,6 +18915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120841,
+      "num": 402327,
+      "word": "亚运门票在支付宝开售",
+      "onboard_time": 1688817629,
+      "rank": 14,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 119407,
       "num": 1071521,
       "word": "为保护被困司机他用身体挡飞溅玻璃",
@@ -19185,14 +19217,6 @@
       "onboard_time": 1688509576,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 98775,
-      "num": 387009,
-      "word": "亚运门票在支付宝开售",
-      "onboard_time": 1688817629,
-      "rank": 14,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 98758,

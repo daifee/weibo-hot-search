@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688819723562,
+  "endTime": 1688820746226,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -131,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1314005,
-      "num": 1314005,
+      "raw_hot": 1402078,
+      "num": 1402078,
       "word": "荷兰政府宣布将集体辞职",
       "onboard_time": 1688813492,
       "rank": 30,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 827800,
-      "num": 329046,
+      "num": 333802,
       "word": "泰妃看肖战出场的反应",
       "onboard_time": 1688818112,
       "rank": 20,
@@ -555,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607138,
+      "num": 607138,
+      "word": "花傲天上场",
+      "onboard_time": 1688811991,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 606543,
       "num": 606543,
       "word": "TMEA红毯",
@@ -577,6 +585,14 @@
       "onboard_time": 1688744616,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 598966,
+      "num": 598966,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1688815471,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 593902,
@@ -739,20 +755,20 @@
       "category": "情感,音乐"
     },
     {
-      "raw_hot": 525723,
-      "num": 525723,
-      "word": "花傲天上场",
-      "onboard_time": 1688811991,
-      "rank": 18,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 524719,
       "num": 524719,
       "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
       "onboard_time": 1688781872,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523528,
+      "num": 325134,
+      "word": "90后终于熬成了挂钥匙的那群人",
+      "onboard_time": 1688819192,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 520200,
@@ -801,14 +817,6 @@
       "onboard_time": 1688736042,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494061,
-      "num": 494061,
-      "word": "汪苏泷演唱会",
-      "onboard_time": 1688815471,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 490116,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456917,
+      "num": 456917,
+      "word": "BW2023",
+      "onboard_time": 1688820393,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 444296,
       "num": 381252,
       "word": "张杰深圳演唱会",
@@ -937,6 +953,14 @@
       "onboard_time": 1688793271,
       "rank": 41,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 420703,
+      "num": 420703,
+      "word": "TMEA音乐盛典",
+      "onboard_time": 1688815172,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 412466,
@@ -995,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398811,
+      "num": 398811,
+      "word": "老人游泳误入深海漂浮1小时获救",
+      "onboard_time": 1688817391,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396118,
       "num": 316115,
       "word": "宋轶爬楼全靠臂力",
@@ -1003,12 +1035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 386010,
-      "num": 386010,
-      "word": "TMEA音乐盛典",
-      "onboard_time": 1688815172,
+      "raw_hot": 386253,
+      "num": 386253,
+      "word": "我的人间烟火 伪骨科",
+      "onboard_time": 1688820032,
       "rank": 16,
-      "category": "音乐"
+      "category": "影视"
     },
     {
       "raw_hot": 385713,
@@ -1048,14 +1080,6 @@
       "word": "为什么高铁还没到站就站起来等",
       "onboard_time": 1688745873,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375717,
-      "num": 375717,
-      "word": "老人游泳误入深海漂浮1小时获救",
-      "onboard_time": 1688817391,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351436,
+      "num": 306859,
+      "word": "长相思",
+      "onboard_time": 1688819373,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348522,
       "num": 348522,
       "word": "中等偏上的人生是怎样的",
@@ -1195,12 +1227,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 332754,
-      "num": 325134,
-      "word": "90后终于熬成了挂钥匙的那群人",
-      "onboard_time": 1688819192,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 327931,
+      "num": 284287,
+      "word": "女子找手机全飞机乘客干等3小时",
+      "onboard_time": 1688817813,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326888,
@@ -1331,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307266,
+      "num": 307266,
+      "word": "陈梦",
+      "onboard_time": 1688820272,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304976,
       "num": 304976,
       "word": "李玟重病时仍在关心郑欣宜",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1688801613,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296398,
-      "num": 257137,
-      "word": "女子找手机全飞机乘客干等3小时",
-      "onboard_time": 1688817813,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295839,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1688797952,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270826,
+      "num": 270826,
+      "word": "亚运会门票",
+      "onboard_time": 1688818895,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 260542,
@@ -1843,14 +1883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219900,
-      "num": 219900,
-      "word": "亚运会门票",
-      "onboard_time": 1688818895,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216087,
       "num": 216087,
       "word": "杭州亚运首批售票项目该怎么选",
@@ -1891,11 +1923,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210620,
-      "num": 210620,
-      "word": "长相思",
-      "onboard_time": 1688819373,
-      "rank": 37,
+      "raw_hot": 209686,
+      "num": 209686,
+      "word": "长风渡",
+      "onboard_time": 1688816252,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1993,14 +2025,6 @@
       "onboard_time": 1688791114,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202798,
-      "num": 202798,
-      "word": "长风渡",
-      "onboard_time": 1688816252,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 202769,
@@ -2164,7 +2188,7 @@
     },
     {
       "raw_hot": 171585,
-      "num": 171585,
+      "num": 180267,
       "word": "孙颖莎3比2早田希娜",
       "onboard_time": 1688817692,
       "rank": 44,
@@ -2228,11 +2252,19 @@
     },
     {
       "raw_hot": 151530,
-      "num": 151530,
+      "num": 180263,
       "word": "老人海边游泳漂入深海",
       "onboard_time": 1688817992,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150938,
+      "num": 180298,
+      "word": "那些军装沾满泥巴的武警真帅",
+      "onboard_time": 1688820575,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 145087,
@@ -2275,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120841,
+      "num": 402327,
+      "word": "亚运门票在支付宝开售",
+      "onboard_time": 1688817629,
+      "rank": 14,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 112593,
       "num": 1755556,
       "word": "世界遗产在中国",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1688772622,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 98775,
-      "num": 387009,
-      "word": "亚运门票在支付宝开售",
-      "onboard_time": 1688817629,
-      "rank": 14,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 98264,
