@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688858277059,
+  "endTime": 1688859268732,
   "band_list": [
     {
       "raw_hot": 1344980,
@@ -195,20 +195,20 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 323221,
+      "num": 323221,
+      "word": "民警陪戒毒人员见父亲最后一面",
+      "onboard_time": 1688851453,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311286,
       "num": 311286,
       "word": "荷兰政府宣布将集体辞职",
       "onboard_time": 1688813492,
       "rank": 17,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 294542,
-      "num": 294542,
-      "word": "民警陪戒毒人员见父亲最后一面",
-      "onboard_time": 1688851453,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266520,
@@ -257,6 +257,14 @@
       "onboard_time": 1688826994,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240123,
+      "num": 148980,
+      "word": "自驾游夫妻高速上被黑熊撞翻车",
+      "onboard_time": 1688857278,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226062,
@@ -323,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201177,
+      "num": 201177,
+      "word": "中国队提前锁定混双男双冠军",
+      "onboard_time": 1688858120,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199582,
       "num": 199582,
       "word": "薛之谦演唱会",
@@ -353,6 +369,14 @@
       "onboard_time": 1688817813,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158084,
+      "num": 148212,
+      "word": "拍毕业照时把前女友砸到了",
+      "onboard_time": 1688837839,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 138733,
@@ -387,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135195,
-      "num": 109407,
-      "word": "自驾游夫妻高速上被黑熊撞翻车",
-      "onboard_time": 1688857278,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 132876,
+      "num": 132876,
+      "word": "杨紫觉得年龄大了挺好的",
+      "onboard_time": 1688842333,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 132399,
@@ -401,14 +425,6 @@
       "onboard_time": 1688822675,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131155,
-      "num": 120222,
-      "word": "拍毕业照时把前女友砸到了",
-      "onboard_time": 1688837839,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 130332,
@@ -452,19 +468,11 @@
     },
     {
       "raw_hot": 118496,
-      "num": 85378,
+      "num": 101915,
       "word": "赵露思虞书欣业内评价口碑",
       "onboard_time": 1688839039,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118165,
-      "num": 118165,
-      "word": "杨紫觉得年龄大了挺好的",
-      "onboard_time": 1688842333,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 115492,
@@ -491,28 +499,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87162,
-      "num": 87162,
+      "raw_hot": 105937,
+      "num": 105937,
       "word": "Angelababy豹纹露腰背心",
       "onboard_time": 1688840416,
       "rank": 44,
       "category": "艺人"
     },
     {
-      "raw_hot": 78093,
-      "num": 78093,
+      "raw_hot": 98942,
+      "num": 98942,
       "word": "健身房被淹教练无奈抱蛋白粉出来",
       "onboard_time": 1688843535,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76702,
-      "num": 76702,
+      "raw_hot": 88799,
+      "num": 88799,
       "word": "周深说了6个一定今年发专辑",
       "onboard_time": 1688855114,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 84626,
+      "num": 84626,
+      "word": "王楚钦3比0周启豪",
+      "onboard_time": 1688858000,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80427,
+      "num": 80427,
+      "word": "产妇羊水破裂交警开道护送就医",
+      "onboard_time": 1688858902,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 73118,
@@ -539,22 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53827,
-      "num": 62759,
-      "word": "王楚钦3比0周启豪",
-      "onboard_time": 1688858000,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 53075,
-      "num": 62417,
-      "word": "中国队提前锁定混双男双冠军",
-      "onboard_time": 1688858120,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48784,
       "num": 52875,
       "word": "王源去看汪苏泷演唱会",
@@ -579,7 +587,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39327,
+      "raw_hot": 42756,
       "num": 820117,
       "word": "守护高温下的户外劳动者",
       "onboard_time": 1688821897,

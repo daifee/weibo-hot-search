@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688858277059,
+  "endTime": 1688859268732,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -11451,6 +11451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323221,
+      "num": 323221,
+      "word": "民警陪戒毒人员见父亲最后一面",
+      "onboard_time": 1688851453,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323207,
       "num": 323207,
       "word": "体验故宫下午茶",
@@ -12377,14 +12385,6 @@
       "onboard_time": 1688446544,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 294542,
-      "num": 294542,
-      "word": "民警陪戒毒人员见父亲最后一面",
-      "onboard_time": 1688851453,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294532,
@@ -14635,6 +14635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240123,
+      "num": 148980,
+      "word": "自驾游夫妻高速上被黑熊撞翻车",
+      "onboard_time": 1688857278,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240078,
       "num": 233295,
       "word": "正处在换毛期的印度领角鸮",
@@ -16691,6 +16699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201177,
+      "num": 201177,
+      "word": "中国队提前锁定混双男双冠军",
+      "onboard_time": 1688858120,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201039,
       "num": 201039,
       "word": "原神林尼",
@@ -18723,6 +18739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158084,
+      "num": 148212,
+      "word": "拍毕业照时把前女友砸到了",
+      "onboard_time": 1688837839,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158003,
       "num": 158003,
       "word": "在公司叫哥叫姐被说成黑帮",
@@ -19203,14 +19227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135195,
-      "num": 109407,
-      "word": "自驾游夫妻高速上被黑熊撞翻车",
-      "onboard_time": 1688857278,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135120,
       "num": 167074,
       "word": "00后小伙探亲回家救2人",
@@ -19232,6 +19248,14 @@
       "word": "程潇销冠",
       "onboard_time": 1688426849,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132876,
+      "num": 132876,
+      "word": "杨紫觉得年龄大了挺好的",
+      "onboard_time": 1688842333,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -19257,14 +19281,6 @@
       "onboard_time": 1688256745,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131155,
-      "num": 120222,
-      "word": "拍毕业照时把前女友砸到了",
-      "onboard_time": 1688837839,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 130901,
@@ -19444,19 +19460,11 @@
     },
     {
       "raw_hot": 118496,
-      "num": 85378,
+      "num": 101915,
       "word": "赵露思虞书欣业内评价口碑",
       "onboard_time": 1688839039,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118165,
-      "num": 118165,
-      "word": "杨紫觉得年龄大了挺好的",
-      "onboard_time": 1688842333,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 117598,
@@ -19603,6 +19611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105937,
+      "num": 105937,
+      "word": "Angelababy豹纹露腰背心",
+      "onboard_time": 1688840416,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105642,
       "num": 130801,
       "word": "首饰掉便池男子心急去捞又卡手",
@@ -19729,6 +19745,14 @@
       "onboard_time": 1688509576,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 98942,
+      "num": 98942,
+      "word": "健身房被淹教练无奈抱蛋白粉出来",
+      "onboard_time": 1688843535,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98758,
@@ -19875,6 +19899,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 88799,
+      "num": 88799,
+      "word": "周深说了6个一定今年发专辑",
+      "onboard_time": 1688855114,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 88435,
       "num": 326538,
       "word": "澳大利亚还有多少惊喜",
@@ -19897,14 +19929,6 @@
       "onboard_time": 1688356400,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 87162,
-      "num": 87162,
-      "word": "Angelababy豹纹露腰背心",
-      "onboard_time": 1688840416,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 86967,
@@ -19937,6 +19961,14 @@
       "onboard_time": 1688492656,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 84626,
+      "num": 84626,
+      "word": "王楚钦3比0周启豪",
+      "onboard_time": 1688858000,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 83871,
@@ -20011,6 +20043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80427,
+      "num": 80427,
+      "word": "产妇羊水破裂交警开道护送就医",
+      "onboard_time": 1688858902,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 80371,
       "num": 80371,
       "word": "镜头里的欢乐瞬间",
@@ -20025,14 +20065,6 @@
       "onboard_time": 1688418432,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 78093,
-      "num": 78093,
-      "word": "健身房被淹教练无奈抱蛋白粉出来",
-      "onboard_time": 1688843535,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77955,
@@ -20081,14 +20113,6 @@
       "onboard_time": 1688404580,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 76702,
-      "num": 76702,
-      "word": "周深说了6个一定今年发专辑",
-      "onboard_time": 1688855114,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 76484,
@@ -20323,22 +20347,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 53827,
-      "num": 62759,
-      "word": "王楚钦3比0周启豪",
-      "onboard_time": 1688858000,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 53075,
-      "num": 62417,
-      "word": "中国队提前锁定混双男双冠军",
-      "onboard_time": 1688858120,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52080,
       "num": 486464,
       "word": "全国校园音乐大赛总决赛",
@@ -20451,6 +20459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 42756,
+      "num": 820117,
+      "word": "守护高温下的户外劳动者",
+      "onboard_time": 1688821897,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41977,
       "num": 694515,
       "word": "这些历史永不能忘",
@@ -20480,14 +20496,6 @@
       "word": "这些名字曾被炮火蒙尘",
       "onboard_time": 1688703278,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39327,
-      "num": 820117,
-      "word": "守护高温下的户外劳动者",
-      "onboard_time": 1688821897,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
