@@ -1,0 +1,410 @@
+{
+  "runTime": 1688798217906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2556088,
+        "num": 2556088,
+        "word": "身边的超级致癌物 黄曲霉菌",
+        "onboard_time": 1688782053,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378635,
+        "num": 1378635,
+        "word": "上海地铁一女子发表辱华言论",
+        "onboard_time": 1688792911,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22231,
+        "num": 1188179,
+        "word": "倾听运河新生的脉动",
+        "onboard_time": 1688786070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562538,
+        "num": 1151822,
+        "word": "坐电梯坐到张杰谢娜家",
+        "onboard_time": 1688789792,
+        "rank": 3,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 1007120,
+        "num": 1007120,
+        "word": "凤凰传奇什么时候变成三个人了",
+        "onboard_time": 1688794653,
+        "rank": 4,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 808208,
+        "num": 808208,
+        "word": "爱宝",
+        "onboard_time": 1688774007,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771354,
+        "num": 771354,
+        "word": "5旬失独母亲试管产下新生儿",
+        "onboard_time": 1688793154,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748888,
+        "num": 748888,
+        "word": "杨幂张大大vsAngelababy张大大打游戏",
+        "onboard_time": 1688794351,
+        "rank": 7,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 602429,
+        "num": 602429,
+        "word": "鹿晗说一巡时紧张到生病",
+        "onboard_time": 1688796868,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 433002,
+        "num": 433002,
+        "word": "当事人回应私搭浮桥一家18口被判刑",
+        "onboard_time": 1688789672,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557553,
+        "num": 413094,
+        "word": "9个孩子被骗缅甸遭电击开水烫",
+        "onboard_time": 1688797351,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554636,
+        "num": 403361,
+        "word": "前崔秀彬大吧爆料",
+        "onboard_time": 1688795310,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451035,
+        "num": 401561,
+        "word": "女子回应赚5亿不如月薪5千生娃好",
+        "onboard_time": 1688775691,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 391690,
+        "num": 391690,
+        "word": "iPhone15Pro系列将采用深蓝色",
+        "onboard_time": 1688786312,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 77955,
+        "num": 385710,
+        "word": "马齿苋是敏感肌救星吗",
+        "onboard_time": 1688796030,
+        "rank": 14,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 383380,
+        "num": 383380,
+        "word": "12岁女孩搬啤酒炸裂一地后",
+        "onboard_time": 1688793452,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371193,
+        "num": 371193,
+        "word": "柳玉茹 假死",
+        "onboard_time": 1688782536,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350023,
+        "num": 350023,
+        "word": "文咏珊送给李木子的海底星空",
+        "onboard_time": 1688788711,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344084,
+        "num": 344084,
+        "word": "幂系仙系妮系女明星",
+        "onboard_time": 1688793271,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 343726,
+        "num": 343726,
+        "word": "多地有猴痘普通人感染几率会增大吗",
+        "onboard_time": 1688787332,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541956,
+        "num": 337167,
+        "word": "男子便秘自行灌肠致肠穿孔休克",
+        "onboard_time": 1688789555,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314264,
+        "num": 314264,
+        "word": "布兰妮被掌掴视频曝光",
+        "onboard_time": 1688780495,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302194,
+        "num": 302194,
+        "word": "谢娜组五公第一",
+        "onboard_time": 1688795192,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289364,
+        "num": 289364,
+        "word": "徐怀钰谢欣淘汰",
+        "onboard_time": 1688796629,
+        "rank": 23,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 288163,
+        "num": 288163,
+        "word": "云南一民宿为防艳遇受伤只招待女客",
+        "onboard_time": 1688796509,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264318,
+        "num": 264318,
+        "word": "宋轶爬楼全靠臂力",
+        "onboard_time": 1688791230,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258626,
+        "num": 258626,
+        "word": "背叛都是从闲聊开始的",
+        "onboard_time": 1688793092,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 249164,
+        "num": 249164,
+        "word": "女子过生日闺蜜送10万元刮刮乐",
+        "onboard_time": 1688791230,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247714,
+        "num": 247714,
+        "word": "男生考上研究生辞掉上万月薪工作",
+        "onboard_time": 1688780553,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 234650,
+        "num": 234650,
+        "word": "福宝要当姐姐了",
+        "onboard_time": 1688784087,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351984,
+        "num": 233897,
+        "word": "猴痘可能使人短期毁容",
+        "onboard_time": 1688797290,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251765,
+        "num": 233437,
+        "word": "为了生活 先生",
+        "onboard_time": 1688796570,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240078,
+        "num": 233295,
+        "word": "正处在换毛期的印度领角鸮",
+        "onboard_time": 1688795909,
+        "rank": 32,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 232358,
+        "num": 232358,
+        "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
+        "onboard_time": 1688780611,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 233213,
+        "num": 231080,
+        "word": "中等偏上的人生是怎样的",
+        "onboard_time": 1688797410,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 227342,
+        "num": 227342,
+        "word": "为seventeen点播一首hot",
+        "onboard_time": 1688787694,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226560,
+        "num": 226560,
+        "word": "嘘嘘不稀得看陆虎手机",
+        "onboard_time": 1688791893,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216048,
+        "num": 216048,
+        "word": "芝芙五公排名第一",
+        "onboard_time": 1688797589,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213568,
+        "num": 213568,
+        "word": "点外卖点到在骑手群出名了",
+        "onboard_time": 1688782230,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208901,
+        "num": 208901,
+        "word": "青岛沙滩又现脸基尼",
+        "onboard_time": 1688797768,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 207232,
+        "num": 207232,
+        "word": "你会把实际存款告诉另一半吗",
+        "onboard_time": 1688791956,
+        "rank": 40,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 203992,
+        "num": 203992,
+        "word": "种地吧",
+        "onboard_time": 1688797589,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199923,
+        "num": 199923,
+        "word": "李玟二姐喊话让知情人站出来",
+        "onboard_time": 1688798129,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195185,
+        "num": 195185,
+        "word": "白敬亭望都F4T恤",
+        "onboard_time": 1688791833,
+        "rank": 43,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 190433,
+        "num": 190433,
+        "word": "加速队员全员晒真假线索",
+        "onboard_time": 1688793873,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188989,
+        "num": 188989,
+        "word": "齐司礼",
+        "onboard_time": 1688791956,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188245,
+        "num": 188245,
+        "word": "刘雨昕腰围才50CM",
+        "onboard_time": 1688797952,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182240,
+        "num": 182240,
+        "word": "肖战以后还演古偶吗",
+        "onboard_time": 1688782112,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165251,
+        "num": 165251,
+        "word": "种地吧全员告别小动物",
+        "onboard_time": 1688797952,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104938,
+        "num": 165178,
+        "word": "杭州亚运会最便宜门票20元",
+        "onboard_time": 1688798190,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江苏考察#"
+    }
+  }
+}

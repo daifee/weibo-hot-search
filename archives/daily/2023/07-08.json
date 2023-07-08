@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688797393530,
+  "endTime": 1688798217906,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2313804,
-      "num": 1116790,
+      "num": 1151822,
       "word": "坐电梯坐到张杰谢娜家",
       "onboard_time": 1688789792,
       "rank": 31,
@@ -131,6 +131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1007120,
+      "num": 1007120,
+      "word": "凤凰传奇什么时候变成三个人了",
+      "onboard_time": 1688794653,
+      "rank": 7,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 952978,
       "num": 952978,
       "word": "男生考上研究生辞掉上万月薪工作",
@@ -217,14 +225,6 @@
       "onboard_time": 1688770940,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 793723,
-      "num": 793723,
-      "word": "凤凰传奇什么时候变成三个人了",
-      "onboard_time": 1688794653,
-      "rank": 7,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 793604,
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 602429,
+      "num": 602429,
+      "word": "鹿晗说一巡时紧张到生病",
+      "onboard_time": 1688796868,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 600426,
       "num": 600426,
       "word": "长风渡改编",
@@ -419,20 +427,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 557553,
+      "num": 413094,
+      "word": "9个孩子被骗缅甸遭电击开水烫",
+      "onboard_time": 1688797351,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554636,
+      "num": 438905,
+      "word": "前崔秀彬大吧爆料",
+      "onboard_time": 1688795310,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544263,
       "num": 544263,
       "word": "专家说秦二世被冤枉了2000多年",
       "onboard_time": 1688781092,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 542963,
-      "num": 438905,
-      "word": "前崔秀彬大吧爆料",
-      "onboard_time": 1688795310,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 540481,
@@ -595,14 +611,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 413258,
-      "num": 413258,
-      "word": "鹿晗说一巡时紧张到生病",
-      "onboard_time": 1688796868,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 412466,
       "num": 412466,
       "word": "我的人间烟火女主人设",
@@ -657,6 +665,14 @@
       "onboard_time": 1688793092,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 383380,
+      "num": 383380,
+      "word": "12岁女孩搬啤酒炸裂一地后",
+      "onboard_time": 1688793452,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383311,
@@ -715,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358392,
-      "num": 358392,
-      "word": "12岁女孩搬啤酒炸裂一地后",
-      "onboard_time": 1688793452,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357282,
       "num": 296603,
       "word": "老板看了我的朋友圈以后",
@@ -737,6 +745,14 @@
       "onboard_time": 1688715274,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351984,
+      "num": 233897,
+      "word": "猴痘可能使人短期毁容",
+      "onboard_time": 1688797290,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351599,
@@ -931,6 +947,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289364,
+      "num": 289364,
+      "word": "徐怀钰谢欣淘汰",
+      "onboard_time": 1688796629,
+      "rank": 37,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 288163,
+      "num": 288163,
+      "word": "云南一民宿为防艳遇受伤只招待女客",
+      "onboard_time": 1688796509,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286139,
       "num": 286139,
       "word": "5亿不如生娃大妈喊话去幼儿园看看",
@@ -961,14 +993,6 @@
       "onboard_time": 1688780371,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 267547,
-      "num": 257783,
-      "word": "云南一民宿为防艳遇受伤只招待女客",
-      "onboard_time": 1688796509,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260542,
@@ -1035,6 +1059,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 251765,
+      "num": 233437,
+      "word": "为了生活 先生",
+      "onboard_time": 1688796570,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251716,
       "num": 265245,
       "word": "张彬彬新剧上线3天就下线",
@@ -1099,12 +1131,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240078,
+      "num": 233295,
+      "word": "正处在换毛期的印度领角鸮",
+      "onboard_time": 1688795909,
+      "rank": 36,
+      "category": "自然"
+    },
+    {
       "raw_hot": 237685,
       "num": 237685,
       "word": "范玮琪演唱会取消",
       "onboard_time": 1688730812,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233213,
+      "num": 231080,
+      "word": "中等偏上的人生是怎样的",
+      "onboard_time": 1688797410,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 232648,
@@ -1121,14 +1169,6 @@
       "onboard_time": 1688747190,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229373,
-      "num": 229373,
-      "word": "正处在换毛期的印度领角鸮",
-      "onboard_time": 1688795909,
-      "rank": 36,
-      "category": "自然"
     },
     {
       "raw_hot": 228233,
@@ -1179,14 +1219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218430,
-      "num": 218430,
-      "word": "徐怀钰谢欣淘汰",
-      "onboard_time": 1688796629,
-      "rank": 37,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 216087,
       "num": 216087,
       "word": "杭州亚运首批售票项目该怎么选",
@@ -1195,20 +1227,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 216048,
+      "num": 216048,
+      "word": "芝芙五公排名第一",
+      "onboard_time": 1688797589,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214244,
       "num": 214244,
       "word": "赵露思桑稚",
       "onboard_time": 1688777312,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212784,
-      "num": 212784,
-      "word": "为了生活 先生",
-      "onboard_time": 1688796570,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 211491,
@@ -1251,6 +1283,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 208901,
+      "num": 208901,
+      "word": "青岛沙滩又现脸基尼",
+      "onboard_time": 1688797768,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 208264,
       "num": 208264,
       "word": "玉骨遥steve文学",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1688741019,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203992,
+      "num": 203992,
+      "word": "种地吧",
+      "onboard_time": 1688797589,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 203617,
@@ -1297,6 +1345,14 @@
       "onboard_time": 1688785472,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199923,
+      "num": 199923,
+      "word": "李玟二姐喊话让知情人站出来",
+      "onboard_time": 1688798129,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 197805,
@@ -1347,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188245,
+      "num": 188245,
+      "word": "刘雨昕腰围才50CM",
+      "onboard_time": 1688797952,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184491,
       "num": 184491,
       "word": "为什么现在没这种广告了",
@@ -1363,28 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178851,
-      "num": 178851,
-      "word": "9个孩子被骗缅甸遭电击开水烫",
-      "onboard_time": 1688797351,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178495,
       "num": 178495,
       "word": "如何用一句话伤害一个人六次",
       "onboard_time": 1688794412,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178114,
-      "num": 178114,
-      "word": "猴痘可能使人短期毁容",
-      "onboard_time": 1688797290,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175919,
@@ -1411,6 +1459,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 165251,
+      "num": 165251,
+      "word": "种地吧全员告别小动物",
+      "onboard_time": 1688797952,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143556,
       "num": 300011,
       "word": "蔚蓝档案8月3日上线",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1688754256,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 104938,
+      "num": 165178,
+      "word": "杭州亚运会最便宜门票20元",
+      "onboard_time": 1688798190,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 103809,
@@ -1467,7 +1531,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59810,
+      "raw_hot": 77955,
       "num": 406892,
       "word": "马齿苋是敏感肌救星吗",
       "onboard_time": 1688796030,
