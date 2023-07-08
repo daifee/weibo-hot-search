@@ -1,0 +1,410 @@
+{
+  "runTime": 1688822542815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313849,
+        "num": 1313849,
+        "word": "荷兰政府宣布将集体辞职",
+        "onboard_time": 1688813492,
+        "rank": 0,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 896906,
+        "num": 896906,
+        "word": "我的人间烟火 伪骨科",
+        "onboard_time": 1688820032,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56957,
+        "num": 893562,
+        "word": "小浪底又见黄河之水天上来",
+        "onboard_time": 1688822013,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1915743,
+        "num": 893459,
+        "word": "李玟老公称一直对李玟很好",
+        "onboard_time": 1688817692,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1736940,
+        "num": 893300,
+        "word": "澳门偶遇",
+        "onboard_time": 1688808152,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 892617,
+        "num": 892617,
+        "word": "Angelababy生孩子期间打上武则天高位",
+        "onboard_time": 1688800471,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 867569,
+        "num": 867569,
+        "word": "第一次上交工资就被警察查了",
+        "onboard_time": 1688811872,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 709515,
+        "num": 709515,
+        "word": "鹿晗好喜欢戴金手链",
+        "onboard_time": 1688809109,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 608240,
+        "num": 608240,
+        "word": "陈梦",
+        "onboard_time": 1688820272,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522361,
+        "num": 522361,
+        "word": "90后终于熬成了挂钥匙的那群人",
+        "onboard_time": 1688819192,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 884347,
+        "num": 522124,
+        "word": "关于自愿离职公司一次性发放十万",
+        "onboard_time": 1688820753,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 689554,
+        "num": 520474,
+        "word": "泰妃看肖战出场的反应",
+        "onboard_time": 1688818112,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517148,
+        "num": 517148,
+        "word": "杨洋和张彬彬 魏大勋和王楚然",
+        "onboard_time": 1688821654,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494384,
+        "num": 494384,
+        "word": "唤醒植物人丈夫后她退还18万元善款",
+        "onboard_time": 1688811631,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 47689,
+        "num": 486464,
+        "word": "全国校园音乐大赛总决赛",
+        "onboard_time": 1688821232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483638,
+        "num": 483638,
+        "word": "德国女生坚持跑步20周成功蜕变",
+        "onboard_time": 1688801853,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466713,
+        "num": 466713,
+        "word": "TMEA致敬李玟",
+        "onboard_time": 1688820813,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 445839,
+        "num": 445839,
+        "word": "BW2023",
+        "onboard_time": 1688820393,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 430760,
+        "num": 430760,
+        "word": "老人游泳误入深海漂浮1小时获救",
+        "onboard_time": 1688817391,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374517,
+        "num": 374517,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1688815471,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 531335,
+        "num": 372085,
+        "word": "何炅跟着杨紫一起跪",
+        "onboard_time": 1688822256,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435234,
+        "num": 371628,
+        "word": "鹿晗回复邓超喊话买单",
+        "onboard_time": 1688817270,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386753,
+        "num": 371002,
+        "word": "长相思",
+        "onboard_time": 1688819373,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368670,
+        "num": 368670,
+        "word": "花傲天上场",
+        "onboard_time": 1688811991,
+        "rank": 23,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 364629,
+        "num": 364629,
+        "word": "9个孩子被骗缅甸遭电击开水烫",
+        "onboard_time": 1688797351,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342069,
+        "num": 342069,
+        "word": "宋轶真的穿白色衣服了",
+        "onboard_time": 1688811330,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319044,
+        "num": 319044,
+        "word": "威神V全开麦",
+        "onboard_time": 1688817576,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310436,
+        "num": 310436,
+        "word": "李玟二姐喊话让知情人站出来",
+        "onboard_time": 1688798129,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309825,
+        "num": 309825,
+        "word": "女儿因蛋糕贵大哭求妈妈退款",
+        "onboard_time": 1688811451,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268683,
+        "num": 268683,
+        "word": "猴痘病毒是怎么感染的",
+        "onboard_time": 1688810313,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296209,
+        "num": 268341,
+        "word": "魏大勋马伯骞赢麻了",
+        "onboard_time": 1688822013,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286242,
+        "num": 265777,
+        "word": "女子找手机全飞机乘客干等3小时",
+        "onboard_time": 1688817813,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284727,
+        "num": 264430,
+        "word": "TMEA音乐盛典",
+        "onboard_time": 1688815172,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274867,
+        "num": 261608,
+        "word": "你好星期六",
+        "onboard_time": 1688817753,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261278,
+        "num": 261278,
+        "word": "胡一统都当校长了",
+        "onboard_time": 1688801192,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246013,
+        "num": 246013,
+        "word": "亚运会门票",
+        "onboard_time": 1688818895,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242236,
+        "num": 242236,
+        "word": "DYG对战eStar",
+        "onboard_time": 1688822073,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227166,
+        "num": 227166,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1688822195,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224864,
+        "num": 224864,
+        "word": "LESSERAFIM用中文打招呼",
+        "onboard_time": 1688815652,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208412,
+        "num": 208412,
+        "word": "TT战胜OMG",
+        "onboard_time": 1688821172,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190954,
+        "num": 190954,
+        "word": "TMEA直播",
+        "onboard_time": 1688820753,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189692,
+        "num": 189692,
+        "word": "上海迪士尼回应禁止游客带凳子入园",
+        "onboard_time": 1688814811,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177393,
+        "num": 177393,
+        "word": "任敏的减肥小tips",
+        "onboard_time": 1688816852,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160213,
+        "num": 160213,
+        "word": "男孩买药欲轻生被店员路人劝下",
+        "onboard_time": 1688804013,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176042,
+        "num": 160193,
+        "word": "群演谈肖战",
+        "onboard_time": 1688811091,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160036,
+        "num": 160036,
+        "word": "男子称在酒店床上发现排泄物",
+        "onboard_time": 1688813611,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168884,
+        "num": 159348,
+        "word": "任敏和猪猪侠",
+        "onboard_time": 1688809712,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158213,
+        "num": 158213,
+        "word": "TMEA红毯",
+        "onboard_time": 1688814871,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156093,
+        "num": 156093,
+        "word": "姆巴佩",
+        "onboard_time": 1688810491,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139841,
+        "num": 156088,
+        "word": "谁能抵挡吐着粉嫩小舌头的小熊猫",
+        "onboard_time": 1688822434,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#哈尔滨成功申办2025亚冬会#"
+    }
+  }
+}

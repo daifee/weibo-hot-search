@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688820746226,
+  "endTime": 1688822542815,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -251,6 +251,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 896906,
+      "num": 896906,
+      "word": "我的人间烟火 伪骨科",
+      "onboard_time": 1688820032,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 884347,
+      "num": 522124,
+      "word": "关于自愿离职公司一次性发放十万",
+      "onboard_time": 1688820753,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 878985,
       "num": 878985,
       "word": "iPhone15Pro系列将采用深蓝色",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 827800,
-      "num": 333802,
+      "num": 520474,
       "word": "泰妃看肖战出场的反应",
       "onboard_time": 1688818112,
       "rank": 20,
@@ -555,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 608240,
+      "num": 608240,
+      "word": "陈梦",
+      "onboard_time": 1688820272,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 607138,
       "num": 607138,
       "word": "花傲天上场",
@@ -732,11 +756,19 @@
     },
     {
       "raw_hot": 531467,
-      "num": 327672,
+      "num": 371628,
       "word": "鹿晗回复邓超喊话买单",
       "onboard_time": 1688817270,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 531335,
+      "num": 372085,
+      "word": "何炅跟着杨紫一起跪",
+      "onboard_time": 1688822256,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 530711,
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 523528,
-      "num": 325134,
+      "num": 522361,
       "word": "90后终于熬成了挂钥匙的那群人",
       "onboard_time": 1688819192,
       "rank": 23,
@@ -777,6 +809,14 @@
       "onboard_time": 1688804013,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517148,
+      "num": 517148,
+      "word": "杨洋和张彬彬 魏大勋和王楚然",
+      "onboard_time": 1688821654,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 513579,
@@ -867,6 +907,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 466713,
+      "num": 466713,
+      "word": "TMEA致敬李玟",
+      "onboard_time": 1688820813,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 462674,
       "num": 462674,
       "word": "金虎",
@@ -937,6 +985,14 @@
       "onboard_time": 1688740120,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 430760,
+      "num": 430760,
+      "word": "老人游泳误入深海漂浮1小时获救",
+      "onboard_time": 1688817391,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429535,
@@ -1019,14 +1075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 398811,
-      "num": 398811,
-      "word": "老人游泳误入深海漂浮1小时获救",
-      "onboard_time": 1688817391,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396118,
       "num": 316115,
       "word": "宋轶爬楼全靠臂力",
@@ -1035,11 +1083,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 386253,
-      "num": 386253,
-      "word": "我的人间烟火 伪骨科",
-      "onboard_time": 1688820032,
-      "rank": 16,
+      "raw_hot": 386753,
+      "num": 371002,
+      "word": "长相思",
+      "onboard_time": 1688819373,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1169,14 +1217,6 @@
       "onboard_time": 1688787392,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351436,
-      "num": 306859,
-      "word": "长相思",
-      "onboard_time": 1688819373,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 348522,
@@ -1363,14 +1403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 307266,
-      "num": 307266,
-      "word": "陈梦",
-      "onboard_time": 1688820272,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 304976,
       "num": 304976,
       "word": "李玟重病时仍在关心郑欣宜",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1688801613,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 296209,
+      "num": 268341,
+      "word": "魏大勋马伯骞赢麻了",
+      "onboard_time": 1688822013,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 295839,
@@ -1715,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242236,
+      "num": 242236,
+      "word": "DYG对战eStar",
+      "onboard_time": 1688822073,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241965,
       "num": 241965,
       "word": "总有一两个人占用整个教室",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1688774667,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 227166,
+      "num": 227166,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1688822195,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 226957,
@@ -1971,6 +2027,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 208412,
+      "num": 208412,
+      "word": "TT战胜OMG",
+      "onboard_time": 1688821172,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208264,
       "num": 208264,
       "word": "玉骨遥steve文学",
@@ -2105,6 +2169,14 @@
       "onboard_time": 1688816852,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190954,
+      "num": 190954,
+      "word": "TMEA直播",
+      "onboard_time": 1688820753,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 190563,
@@ -2291,6 +2363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139841,
+      "num": 156088,
+      "word": "谁能抵挡吐着粉嫩小舌头的小熊猫",
+      "onboard_time": 1688822434,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130085,
       "num": 130085,
       "word": "辛追夫人原来是吃货",
@@ -2395,6 +2475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 56957,
+      "num": 893562,
+      "word": "小浪底又见黄河之水天上来",
+      "onboard_time": 1688822013,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50275,
       "num": 1077613,
       "word": "夏日超实用防暑降温指南",
@@ -2409,6 +2497,14 @@
       "onboard_time": 1688751620,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47689,
+      "num": 486464,
+      "word": "全国校园音乐大赛总决赛",
+      "onboard_time": 1688821232,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45499,
@@ -2514,6 +2610,9 @@
     },
     {
       "word": "#中美鼓岭情缘为何延续至今#"
+    },
+    {
+      "word": "#哈尔滨成功申办2025亚冬会#"
     }
   ]
 }
