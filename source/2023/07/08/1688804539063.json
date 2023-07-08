@@ -1,0 +1,410 @@
+{
+  "runTime": 1688804539063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1960124,
+        "num": 1960124,
+        "word": "9个孩子被骗缅甸遭电击开水烫",
+        "onboard_time": 1688797351,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1911311,
+        "num": 1911311,
+        "word": "Angelababy生孩子期间打上武则天高位",
+        "onboard_time": 1688800471,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77577,
+        "num": 1755556,
+        "word": "世界遗产在中国",
+        "onboard_time": 1688803593,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1712738,
+        "num": 1712738,
+        "word": "李玟二姐喊话让知情人站出来",
+        "onboard_time": 1688798129,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002803,
+        "num": 1002803,
+        "word": "胡一统都当校长了",
+        "onboard_time": 1688801192,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 844096,
+        "num": 844096,
+        "word": "杨天真考北大博士失败",
+        "onboard_time": 1688800230,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832858,
+        "num": 832858,
+        "word": "现偶四大甜妹",
+        "onboard_time": 1688801555,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 761197,
+        "num": 761197,
+        "word": "上海地铁一女子发表辱华言论",
+        "onboard_time": 1688792911,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708742,
+        "num": 708742,
+        "word": "身边的超级致癌物 黄曲霉菌",
+        "onboard_time": 1688782053,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708677,
+        "num": 708677,
+        "word": "哈尔滨成功申办2025亚冬会",
+        "onboard_time": 1688798909,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 731506,
+        "num": 664962,
+        "word": "德国女生坚持跑步20周成功蜕变",
+        "onboard_time": 1688801853,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566946,
+        "num": 566946,
+        "word": "英国一年制硕士水吗",
+        "onboard_time": 1688798668,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 557354,
+        "num": 557354,
+        "word": "坐电梯坐到张杰谢娜家",
+        "onboard_time": 1688789792,
+        "rank": 12,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 512878,
+        "num": 512878,
+        "word": "网友对屈楚萧的忠告",
+        "onboard_time": 1688802512,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46214,
+        "num": 509423,
+        "word": "篮球场最帅面孔",
+        "onboard_time": 1688803232,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508942,
+        "num": 508942,
+        "word": "隆里电丝",
+        "onboard_time": 1688799811,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495705,
+        "num": 495705,
+        "word": "超级防窥屏聊天背景 杀敌一千自损八百",
+        "onboard_time": 1688798789,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 429535,
+        "num": 429535,
+        "word": "美依礼芽镜头",
+        "onboard_time": 1688801014,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390127,
+        "num": 390127,
+        "word": "凤凰传奇什么时候变成三个人了",
+        "onboard_time": 1688794653,
+        "rank": 18,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 349362,
+        "num": 349362,
+        "word": "猴痘可能使人短期毁容",
+        "onboard_time": 1688797290,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478890,
+        "num": 333261,
+        "word": "妈妈让弟弟接28岁的我",
+        "onboard_time": 1688799270,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404571,
+        "num": 320569,
+        "word": "王宝强谢谢沈月",
+        "onboard_time": 1688800471,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365614,
+        "num": 311426,
+        "word": "郭京飞好像长大了的刘星",
+        "onboard_time": 1688802276,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296405,
+        "num": 296405,
+        "word": "LGD",
+        "onboard_time": 1688801613,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288067,
+        "num": 288067,
+        "word": "第一次在老虎脸上看见惊讶疑惑",
+        "onboard_time": 1688798909,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351494,
+        "num": 287562,
+        "word": "八角笼中",
+        "onboard_time": 1688802154,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286825,
+        "num": 286825,
+        "word": "白鹿捧脸照",
+        "onboard_time": 1688801253,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 284935,
+        "num": 284935,
+        "word": "女子回应赚5亿不如月薪5千生娃好",
+        "onboard_time": 1688775691,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 270477,
+        "num": 270477,
+        "word": "中等偏上的人生是怎样的",
+        "onboard_time": 1688797410,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 253489,
+        "num": 253489,
+        "word": "薛之谦青岛",
+        "onboard_time": 1688801253,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247170,
+        "num": 247170,
+        "word": "岳云鹏把燕子追回来了",
+        "onboard_time": 1688803713,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 246287,
+        "num": 246287,
+        "word": "张译期待长安三万里太久",
+        "onboard_time": 1688801912,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244723,
+        "num": 244723,
+        "word": "芝芙五公排名第一",
+        "onboard_time": 1688797589,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224582,
+        "num": 224582,
+        "word": "12岁女孩搬啤酒炸裂一地后",
+        "onboard_time": 1688793452,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223326,
+        "num": 223326,
+        "word": "5旬失独母亲试管产下新生儿",
+        "onboard_time": 1688793154,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221440,
+        "num": 221440,
+        "word": "鹿晗说一巡时紧张到生病",
+        "onboard_time": 1688796868,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220848,
+        "num": 220848,
+        "word": "上海地铁拍视频男子应被处罚吗",
+        "onboard_time": 1688802931,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213739,
+        "num": 213739,
+        "word": "你师父当年也选的工商",
+        "onboard_time": 1688804254,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205519,
+        "num": 205519,
+        "word": "多地有猴痘普通人感染几率会增大吗",
+        "onboard_time": 1688787332,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204600,
+        "num": 204600,
+        "word": "男子便秘自行灌肠致肠穿孔休克",
+        "onboard_time": 1688789555,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193549,
+        "num": 193549,
+        "word": "杨幂张大大vsAngelababy张大大打游戏",
+        "onboard_time": 1688794351,
+        "rank": 40,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 192110,
+        "num": 192110,
+        "word": "前崔秀彬大吧爆料",
+        "onboard_time": 1688795310,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190251,
+        "num": 190251,
+        "word": "云南一民宿为防艳遇受伤只招待女客",
+        "onboard_time": 1688796509,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179932,
+        "num": 179932,
+        "word": "iPhone15Pro系列将采用深蓝色",
+        "onboard_time": 1688786312,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 178076,
+        "num": 178076,
+        "word": "为seventeen点播一首hot",
+        "onboard_time": 1688787694,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172213,
+        "num": 172213,
+        "word": "TF三代演唱会抢票",
+        "onboard_time": 1688798429,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165971,
+        "num": 165971,
+        "word": "柳玉茹 假死",
+        "onboard_time": 1688782536,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165177,
+        "num": 165177,
+        "word": "男孩买药欲轻生被店员路人劝下",
+        "onboard_time": 1688804013,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156918,
+        "num": 156918,
+        "word": "爱宝",
+        "onboard_time": 1688774007,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110197,
+        "num": 155851,
+        "word": "潮汕好吃的也太多了",
+        "onboard_time": 1688803952,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美鼓岭情缘为何延续至今#"
+    }
+  }
+}

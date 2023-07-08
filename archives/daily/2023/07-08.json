@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688801619286,
+  "endTime": 1688804539063,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2326353,
-      "num": 1269755,
+      "num": 1712738,
       "word": "李玟二姐喊话让知情人站出来",
       "onboard_time": 1688798129,
       "rank": 42,
@@ -65,6 +65,14 @@
       "onboard_time": 1688745273,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1911311,
+      "num": 1911311,
+      "word": "Angelababy生孩子期间打上武则天高位",
+      "onboard_time": 1688800471,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 1774421,
@@ -155,12 +163,12 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 986279,
-      "num": 660013,
-      "word": "Angelababy生孩子期间打上武则天高位",
-      "onboard_time": 1688800471,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 1002803,
+      "num": 1002803,
+      "word": "胡一统都当校长了",
+      "onboard_time": 1688801192,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 952978,
@@ -227,12 +235,20 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 826269,
-      "num": 826269,
+      "raw_hot": 844096,
+      "num": 844096,
       "word": "杨天真考北大博士失败",
       "onboard_time": 1688800230,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 832858,
+      "num": 832858,
+      "word": "现偶四大甜妹",
+      "onboard_time": 1688801555,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 824652,
@@ -321,6 +337,14 @@
       "onboard_time": 1688739165,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 731506,
+      "num": 664962,
+      "word": "德国女生坚持跑步20周成功蜕变",
+      "onboard_time": 1688801853,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 709967,
@@ -499,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 547732,
-      "num": 547732,
-      "word": "胡一统都当校长了",
-      "onboard_time": 1688801192,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 544263,
       "num": 544263,
       "word": "专家说秦二世被冤枉了2000多年",
@@ -563,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 512878,
+      "num": 512878,
+      "word": "网友对屈楚萧的忠告",
+      "onboard_time": 1688802512,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 508960,
       "num": 508960,
       "word": "最新考古发现证明史记是错的",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 505400,
-      "num": 325585,
+      "num": 333261,
       "word": "妈妈让弟弟接28岁的我",
       "onboard_time": 1688799270,
       "rank": 20,
@@ -689,6 +713,14 @@
       "onboard_time": 1688740120,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 429535,
+      "num": 429535,
+      "word": "美依礼芽镜头",
+      "onboard_time": 1688801014,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 426722,
@@ -819,6 +851,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 365614,
+      "num": 311426,
+      "word": "郭京飞好像长大了的刘星",
+      "onboard_time": 1688802276,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364936,
       "num": 364936,
       "word": "战至巅峰",
@@ -849,6 +889,14 @@
       "onboard_time": 1688787392,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351494,
+      "num": 287562,
+      "word": "八角笼中",
+      "onboard_time": 1688802154,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 348522,
@@ -1043,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296405,
+      "num": 296405,
+      "word": "LGD",
+      "onboard_time": 1688801613,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295839,
       "num": 295839,
       "word": "这才是女生该有的小金库",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1688796509,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286825,
+      "num": 286825,
+      "word": "白鹿捧脸照",
+      "onboard_time": 1688801253,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 286139,
@@ -1120,14 +1184,6 @@
       "word": "刘雨昕腰围才50CM",
       "onboard_time": 1688797952,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 279015,
-      "num": 279015,
-      "word": "美依礼芽镜头",
-      "onboard_time": 1688801014,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1195,6 +1251,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 253489,
+      "num": 253489,
+      "word": "薛之谦青岛",
+      "onboard_time": 1688801253,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251765,
       "num": 233437,
       "word": "为了生活 先生",
@@ -1235,12 +1299,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 247170,
+      "num": 247170,
+      "word": "岳云鹏把燕子追回来了",
+      "onboard_time": 1688803713,
+      "rank": 30,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 246666,
       "num": 246666,
       "word": "光与夜之恋",
       "onboard_time": 1688791654,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 246287,
+      "num": 246287,
+      "word": "张译期待长安三万里太久",
+      "onboard_time": 1688801912,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 246010,
@@ -1363,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220848,
+      "num": 220848,
+      "word": "上海地铁拍视频男子应被处罚吗",
+      "onboard_time": 1688802931,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216087,
       "num": 216087,
       "word": "杭州亚运首批售票项目该怎么选",
@@ -1376,6 +1464,14 @@
       "word": "赵露思桑稚",
       "onboard_time": 1688777312,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213739,
+      "num": 213739,
+      "word": "你师父当年也选的工商",
+      "onboard_time": 1688804254,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1443,14 +1539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204352,
-      "num": 204352,
-      "word": "薛之谦青岛",
-      "onboard_time": 1688801253,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 203992,
       "num": 203992,
       "word": "种地吧",
@@ -1505,14 +1593,6 @@
       "onboard_time": 1688801313,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195199,
-      "num": 195199,
-      "word": "白鹿捧脸照",
-      "onboard_time": 1688801253,
-      "rank": 40,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 195049,
@@ -1595,14 +1675,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 168628,
-      "num": 168628,
-      "word": "现偶四大甜妹",
-      "onboard_time": 1688801555,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 166502,
       "num": 166502,
       "word": "李玟曾说为自己是中国人感到骄傲",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1688797952,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165177,
+      "num": 165177,
+      "word": "男孩买药欲轻生被店员路人劝下",
+      "onboard_time": 1688804013,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143556,
@@ -1649,6 +1729,14 @@
       "onboard_time": 1688754256,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110197,
+      "num": 155851,
+      "word": "潮汕好吃的也太多了",
+      "onboard_time": 1688803952,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 104938,
@@ -1699,6 +1787,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 77577,
+      "num": 1755556,
+      "word": "世界遗产在中国",
+      "onboard_time": 1688803593,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59735,
       "num": 59735,
       "word": "有没有人考虑吴磊的感受",
@@ -1721,6 +1817,14 @@
       "onboard_time": 1688751620,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 46214,
+      "num": 509423,
+      "word": "篮球场最帅面孔",
+      "onboard_time": 1688803232,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 45499,
@@ -1799,6 +1903,9 @@
     },
     {
       "word": "#走在前做示范江苏有能力也有责任#"
+    },
+    {
+      "word": "#中美鼓岭情缘为何延续至今#"
     }
   ]
 }
