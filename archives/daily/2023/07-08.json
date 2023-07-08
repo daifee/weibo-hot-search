@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688812570396,
+  "endTime": 1688814887710,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2341344,
-      "num": 1273752,
+      "num": 1403205,
       "word": "澳门偶遇",
       "onboard_time": 1688808152,
       "rank": 4,
@@ -97,6 +97,14 @@
       "onboard_time": 1688731836,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1582682,
+      "num": 1582682,
+      "word": "第一次上交工资就被警察查了",
+      "onboard_time": 1688811872,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1414378,
@@ -363,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 780289,
+      "num": 259830,
+      "word": "男子称在酒店床上发现排泄物",
+      "onboard_time": 1688813611,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773341,
       "num": 405007,
       "word": "男子便秘自行灌肠致肠穿孔休克",
@@ -435,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 665145,
+      "num": 1447117,
+      "word": "唤醒植物人丈夫后她退还18万元善款",
+      "onboard_time": 1688811631,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 660807,
       "num": 660807,
       "word": "当村门口路过一个年轻陌生人时",
@@ -449,6 +473,14 @@
       "onboard_time": 1688789672,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649821,
+      "num": 649821,
+      "word": "杨洋拍戏拍到中暑呕吐",
+      "onboard_time": 1688810374,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 648276,
@@ -595,20 +627,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 560708,
-      "num": 560708,
-      "word": "杨洋拍戏拍到中暑呕吐",
-      "onboard_time": 1688810374,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 554636,
       "num": 438905,
       "word": "前崔秀彬大吧爆料",
       "onboard_time": 1688795310,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 550016,
+      "num": 269240,
+      "word": "女儿因蛋糕贵大哭求妈妈退款",
+      "onboard_time": 1688811451,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544263,
@@ -673,14 +705,6 @@
       "onboard_time": 1688804013,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517936,
-      "num": 270662,
-      "word": "第一次上交工资就被警察查了",
-      "onboard_time": 1688811872,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 513579,
@@ -771,14 +795,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 474383,
-      "num": 269240,
-      "word": "女儿因蛋糕贵大哭求妈妈退款",
-      "onboard_time": 1688811451,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 462674,
       "num": 462674,
       "word": "金虎",
@@ -801,6 +817,22 @@
       "onboard_time": 1688779712,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457896,
+      "num": 222596,
+      "word": "荷兰政府宣布将集体辞职",
+      "onboard_time": 1688813492,
+      "rank": 30,
+      "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 448947,
+      "num": 448947,
+      "word": "花傲天上场",
+      "onboard_time": 1688811991,
+      "rank": 18,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 444296,
@@ -905,14 +937,6 @@
       "onboard_time": 1688791230,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401576,
-      "num": 401576,
-      "word": "花傲天上场",
-      "onboard_time": 1688811991,
-      "rank": 18,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 400448,
@@ -1115,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322711,
-      "num": 322711,
-      "word": "唤醒植物人丈夫后她退还18万元善款",
-      "onboard_time": 1688811631,
-      "rank": 22,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 322505,
       "num": 304164,
       "word": "第一次在老虎脸上看见惊讶疑惑",
@@ -1219,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305616,
+      "num": 280396,
+      "word": "会谈恋爱的女生是什么样的",
+      "onboard_time": 1688810733,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304976,
       "num": 304976,
       "word": "李玟重病时仍在关心郑欣宜",
@@ -1291,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290220,
+      "num": 251198,
+      "word": "山东人被正式确诊为铁扇公主",
+      "onboard_time": 1688813371,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289364,
       "num": 289364,
       "word": "徐怀钰谢欣淘汰",
@@ -1355,14 +1387,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 280396,
-      "num": 280396,
-      "word": "会谈恋爱的女生是什么样的",
-      "onboard_time": 1688810733,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 279939,
       "num": 279939,
       "word": "一闪一闪亮星星",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1688797952,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264262,
+      "num": 222239,
+      "word": "TMEA红毯",
+      "onboard_time": 1688814871,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 260542,
@@ -1643,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226612,
+      "num": 226612,
+      "word": "全员加速中",
+      "onboard_time": 1688813071,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226169,
       "num": 226169,
       "word": "妈妈问我为什么不愿意回家了",
@@ -1907,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183321,
+      "num": 203354,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1688812591,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180365,
       "num": 180365,
       "word": "黄子韬抱着孙红雷痛哭",
@@ -1947,20 +1995,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173099,
+      "num": 203321,
+      "word": "消失的她观影人次破7000万",
+      "onboard_time": 1688812291,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169451,
       "num": 169451,
       "word": "在医院实习被带教老师吐槽了",
       "onboard_time": 1688809055,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169118,
-      "num": 202413,
-      "word": "消失的她观影人次破7000万",
-      "onboard_time": 1688812291,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 168712,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1688799330,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137793,
+      "num": 203256,
+      "word": "上海迪士尼回应禁止游客带凳子入园",
+      "onboard_time": 1688814811,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130085,
@@ -2217,6 +2273,14 @@
       "onboard_time": 1688804672,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16647,
+      "num": 203342,
+      "word": "王鹤棣导航太上头了",
+      "onboard_time": 1688814030,
+      "rank": 39,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
