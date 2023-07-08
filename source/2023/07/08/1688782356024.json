@@ -1,0 +1,410 @@
+{
+  "runTime": 1688782356024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1719866,
+        "num": 1719866,
+        "word": "爱宝",
+        "onboard_time": 1688774007,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1416040,
+        "num": 1416040,
+        "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
+        "onboard_time": 1688780611,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 68157,
+        "num": 1412178,
+        "word": "天问一号最新发现",
+        "onboard_time": 1688740668,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408631,
+        "num": 1408631,
+        "word": "浙江人也被确诊为孙悟空了",
+        "onboard_time": 1688779229,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053977,
+        "num": 1053977,
+        "word": "谢娜自己淘汰自己",
+        "onboard_time": 1688779171,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1053531,
+        "num": 1053531,
+        "word": "布兰妮被掌掴视频曝光",
+        "onboard_time": 1688780495,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793604,
+        "num": 793604,
+        "word": "电影一闪一闪亮星星今日开机",
+        "onboard_time": 1688779774,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 758679,
+        "num": 758679,
+        "word": "外媒报道李玟去世形容巨星陨落",
+        "onboard_time": 1688773287,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 753086,
+        "num": 753086,
+        "word": "邓伦被强制执行",
+        "onboard_time": 1688730994,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 693843,
+        "num": 693843,
+        "word": "Angelababy张殷殷",
+        "onboard_time": 1688773287,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1768957,
+        "num": 647652,
+        "word": "女子回应赚5亿不如月薪5千生娃好",
+        "onboard_time": 1688775691,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 806888,
+        "num": 598529,
+        "word": "男生考上研究生辞掉上万月薪工作",
+        "onboard_time": 1688780553,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 499560,
+        "num": 499560,
+        "word": "女子无人区遇乞食狼下车投喂",
+        "onboard_time": 1688770999,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474349,
+        "num": 474349,
+        "word": "专家说秦二世被冤枉了2000多年",
+        "onboard_time": 1688781092,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456586,
+        "num": 456586,
+        "word": "文班亚马",
+        "onboard_time": 1688781092,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 431854,
+        "num": 431854,
+        "word": "最新考古发现证明史记是错的",
+        "onboard_time": 1688774248,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430613,
+        "num": 430613,
+        "word": "清华选美冠军初中时因容貌遭欺凌",
+        "onboard_time": 1688779712,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397900,
+        "num": 397900,
+        "word": "中餐厅7倒时差官宣",
+        "onboard_time": 1688777249,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386799,
+        "num": 386799,
+        "word": "为什么现在越来越多人想当老师",
+        "onboard_time": 1688771060,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 360520,
+        "num": 360520,
+        "word": "TFBOYS会合体集训",
+        "onboard_time": 1688743721,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 619517,
+        "num": 360310,
+        "word": "把54公斤樱桃去核放冰箱",
+        "onboard_time": 1688780252,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441760,
+        "num": 360030,
+        "word": "谁敢在公司睡成这样",
+        "onboard_time": 1688779290,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366467,
+        "num": 357885,
+        "word": "宝妈睡觉被1岁娃拍照误发给朋友",
+        "onboard_time": 1688770940,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352177,
+        "num": 352177,
+        "word": "对这期跑男越来越感兴趣了",
+        "onboard_time": 1688739464,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329839,
+        "num": 329839,
+        "word": "杜蕾斯客服回应避孕套中发现异物",
+        "onboard_time": 1688731836,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327433,
+        "num": 327433,
+        "word": "先救女友情侣送完锦旗后订婚了",
+        "onboard_time": 1688781213,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 321275,
+        "num": 321275,
+        "word": "男子地铁上掏下体猥亵被揪着报警",
+        "onboard_time": 1688745273,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305599,
+        "num": 305599,
+        "word": "张惠妹演唱会唱李玟的歌",
+        "onboard_time": 1688778931,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304302,
+        "num": 304302,
+        "word": "富豪为长生不老上午11点后断食",
+        "onboard_time": 1688773164,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 202798,
+        "num": 297707,
+        "word": "天津发现一例猴痘",
+        "onboard_time": 1688740600,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357282,
+        "num": 296603,
+        "word": "老板看了我的朋友圈以后",
+        "onboard_time": 1688781031,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326908,
+        "num": 295600,
+        "word": "身边的超级致癌物 黄曲霉菌",
+        "onboard_time": 1688782053,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294563,
+        "num": 294563,
+        "word": "小虞姬",
+        "onboard_time": 1688776710,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 284126,
+        "num": 284126,
+        "word": "饲养员为爱宝开启昼夜陪护模式",
+        "onboard_time": 1688782230,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279939,
+        "num": 279939,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1688780371,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269687,
+        "num": 269687,
+        "word": "原来招聘视角是这样的",
+        "onboard_time": 1688779290,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261954,
+        "num": 261954,
+        "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
+        "onboard_time": 1688781872,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261390,
+        "num": 261390,
+        "word": "李玟",
+        "onboard_time": 1688775270,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253626,
+        "num": 253626,
+        "word": "人和人的核心区别就是主动",
+        "onboard_time": 1688781333,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 246050,
+        "num": 246050,
+        "word": "肖战以后还演古偶吗",
+        "onboard_time": 1688782112,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245021,
+        "num": 245021,
+        "word": "点外卖点到在骑手群出名了",
+        "onboard_time": 1688782230,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235494,
+        "num": 235494,
+        "word": "原来萧敬腾8层别墅是留给宠物的",
+        "onboard_time": 1688776112,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234875,
+        "num": 234875,
+        "word": "少年白马醉春风",
+        "onboard_time": 1688779109,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220122,
+        "num": 220122,
+        "word": "曝河南一院长要医生多开中药提升收入",
+        "onboard_time": 1688773767,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214244,
+        "num": 214244,
+        "word": "赵露思桑稚",
+        "onboard_time": 1688777312,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190212,
+        "num": 190212,
+        "word": "取2.5万存款被盘问用途合规吗",
+        "onboard_time": 1688739165,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 187416,
+        "num": 187416,
+        "word": "原来研究生是没有暑假的",
+        "onboard_time": 1688739640,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185148,
+        "num": 185148,
+        "word": "孙红雷 他说的全是我的词啊",
+        "onboard_time": 1688750720,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179424,
+        "num": 179424,
+        "word": "保安为女友花20万遭拉黑发现已结婚",
+        "onboard_time": 1688774667,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 111429,
+        "num": 179366,
+        "word": "范德萨突发脑溢血被送往ICU抢救",
+        "onboard_time": 1688773528,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记江苏考察关注这个园区#"
+    }
+  }
+}

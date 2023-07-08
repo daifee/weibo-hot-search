@@ -1,10 +1,10 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688781028637,
+  "endTime": 1688782356024,
   "band_list": [
     {
       "raw_hot": 2159758,
-      "num": 500326,
+      "num": 647652,
       "word": "女子回应赚5亿不如月薪5千生娃好",
       "onboard_time": 1688775691,
       "rank": 10,
@@ -27,8 +27,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1639359,
-      "num": 1639359,
+      "raw_hot": 1719866,
+      "num": 1719866,
       "word": "爱宝",
       "onboard_time": 1688774007,
       "rank": 0,
@@ -43,8 +43,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1199699,
-      "num": 1199699,
+      "raw_hot": 1416040,
+      "num": 1416040,
+      "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
+      "onboard_time": 1688780611,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1408631,
+      "num": 1408631,
       "word": "浙江人也被确诊为孙悟空了",
       "onboard_time": 1688779229,
       "rank": 1,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1173599,
-      "num": 497044,
+      "num": 1053977,
       "word": "谢娜自己淘汰自己",
       "onboard_time": 1688779171,
       "rank": 11,
@@ -65,6 +73,14 @@
       "onboard_time": 1688735864,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1053531,
+      "num": 1053531,
+      "word": "布兰妮被掌掴视频曝光",
+      "onboard_time": 1688780495,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1053388,
@@ -99,12 +115,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 806888,
+      "num": 598529,
+      "word": "男生考上研究生辞掉上万月薪工作",
+      "onboard_time": 1688780553,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 804045,
-      "num": 307361,
+      "num": 357885,
       "word": "宝妈睡觉被1岁娃拍照误发给朋友",
       "onboard_time": 1688770940,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 793604,
+      "num": 793604,
+      "word": "电影一闪一闪亮星星今日开机",
+      "onboard_time": 1688779774,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 782388,
@@ -129,14 +161,6 @@
       "onboard_time": 1688739165,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 714202,
-      "num": 714202,
-      "word": "电影一闪一闪亮星星今日开机",
-      "onboard_time": 1688779774,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 704640,
@@ -169,6 +193,14 @@
       "onboard_time": 1688750720,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 619517,
+      "num": 360310,
+      "word": "把54公斤樱桃去核放冰箱",
+      "onboard_time": 1688780252,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614112,
@@ -307,12 +339,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 463204,
-      "num": 247422,
-      "word": "把54公斤樱桃去核放冰箱",
-      "onboard_time": 1688780252,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 474349,
+      "num": 474349,
+      "word": "专家说秦二世被冤枉了2000多年",
+      "onboard_time": 1688781092,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 459882,
@@ -329,6 +361,14 @@
       "onboard_time": 1688779712,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456586,
+      "num": 456586,
+      "word": "文班亚马",
+      "onboard_time": 1688781092,
+      "rank": 14,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 435071,
@@ -355,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407777,
-      "num": 246840,
-      "word": "布兰妮被掌掴视频曝光",
-      "onboard_time": 1688780495,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376530,
       "num": 357020,
       "word": "为什么高铁还没到站就站起来等",
@@ -379,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369501,
-      "num": 246088,
-      "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
-      "onboard_time": 1688780611,
-      "rank": 32,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 366165,
       "num": 366165,
       "word": "小虞姬",
       "onboard_time": 1688776710,
       "rank": 19,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 357282,
+      "num": 296603,
+      "word": "老板看了我的朋友圈以后",
+      "onboard_time": 1688781031,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 354078,
@@ -417,6 +449,22 @@
       "onboard_time": 1688745097,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327433,
+      "num": 327433,
+      "word": "先救女友情侣送完锦旗后订婚了",
+      "onboard_time": 1688781213,
+      "rank": 25,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 326908,
+      "num": 295600,
+      "word": "身边的超级致癌物 黄曲霉菌",
+      "onboard_time": 1688782053,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324695,
@@ -459,14 +507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 312632,
-      "num": 245617,
-      "word": "男生考上研究生辞掉上万月薪工作",
-      "onboard_time": 1688780553,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 309565,
       "num": 425486,
       "word": "李玟疑因窒息死亡",
@@ -507,6 +547,30 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 284126,
+      "num": 284126,
+      "word": "饲养员为爱宝开启昼夜陪护模式",
+      "onboard_time": 1688782230,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279939,
+      "num": 279939,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1688780371,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 261954,
+      "num": 261954,
+      "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
+      "onboard_time": 1688781872,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260022,
       "num": 260022,
       "word": "牵手门董某某被解除劳动合同",
@@ -531,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253626,
+      "num": 253626,
+      "word": "人和人的核心区别就是主动",
+      "onboard_time": 1688781333,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 251716,
       "num": 265245,
       "word": "张彬彬新剧上线3天就下线",
@@ -553,6 +625,22 @@
       "onboard_time": 1688735507,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246050,
+      "num": 246050,
+      "word": "肖战以后还演古偶吗",
+      "onboard_time": 1688782112,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245021,
+      "num": 245021,
+      "word": "点外卖点到在骑手群出名了",
+      "onboard_time": 1688782230,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 244813,
@@ -603,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223091,
-      "num": 223091,
-      "word": "一闪一闪亮星星",
-      "onboard_time": 1688780371,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221216,
       "num": 221216,
       "word": "Melody离婚",
@@ -624,6 +704,14 @@
       "word": "玉骨遥",
       "onboard_time": 1688746173,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214244,
+      "num": 214244,
+      "word": "赵露思桑稚",
+      "onboard_time": 1688777312,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -673,14 +761,6 @@
       "onboard_time": 1688773528,
       "rank": 45,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 198554,
-      "num": 198554,
-      "word": "赵露思桑稚",
-      "onboard_time": 1688777312,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 197805,
@@ -772,7 +852,7 @@
     },
     {
       "raw_hot": 83797,
-      "num": 1108929,
+      "num": 1412178,
       "word": "天问一号最新发现",
       "onboard_time": 1688740668,
       "rank": 2,
