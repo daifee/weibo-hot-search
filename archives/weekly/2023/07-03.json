@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688811533102,
+  "endTime": 1688812570396,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2811,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903801,
+      "num": 903801,
+      "word": "姆巴佩",
+      "onboard_time": 1688810491,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 903436,
       "num": 903436,
       "word": "德国女生坚持跑步20周成功蜕变",
@@ -3475,6 +3483,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 785063,
+      "num": 785063,
+      "word": "鹿晗好喜欢戴金手链",
+      "onboard_time": 1688809109,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 783629,
       "num": 783629,
       "word": "曾少年定档",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1688439696,
       "rank": 28,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 769384,
-      "num": 769384,
-      "word": "鹿晗好喜欢戴金手链",
-      "onboard_time": 1688809109,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 768979,
@@ -4337,6 +4345,14 @@
       "onboard_time": 1688550271,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660807,
+      "num": 660807,
+      "word": "当村门口路过一个年轻陌生人时",
+      "onboard_time": 1688812351,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 659212,
@@ -5099,6 +5115,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 560708,
+      "num": 560708,
+      "word": "杨洋拍戏拍到中暑呕吐",
+      "onboard_time": 1688810374,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 557685,
       "num": 557685,
       "word": "成都一兔火锅200余公斤口水油被查",
@@ -5371,12 +5395,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 532501,
-      "num": 532501,
-      "word": "姆巴佩",
-      "onboard_time": 1688810491,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 533249,
+      "num": 376952,
+      "word": "宋轶真的穿白色衣服了",
+      "onboard_time": 1688811330,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 530769,
@@ -5491,6 +5515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 520200,
+      "num": 1597693,
+      "word": "男孩买药欲轻生被店员路人劝下",
+      "onboard_time": 1688804013,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520159,
       "num": 520159,
       "word": "电梯的镜子原来这么有用",
@@ -5505,6 +5537,14 @@
       "onboard_time": 1688535755,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 517936,
+      "num": 270662,
+      "word": "第一次上交工资就被警察查了",
+      "onboard_time": 1688811872,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 517860,
@@ -5665,14 +5705,6 @@
       "onboard_time": 1688620066,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 500097,
-      "num": 1597693,
-      "word": "男孩买药欲轻生被店员路人劝下",
-      "onboard_time": 1688804013,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499233,
@@ -5961,6 +5993,14 @@
       "onboard_time": 1688699309,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474383,
+      "num": 269240,
+      "word": "女儿因蛋糕贵大哭求妈妈退款",
+      "onboard_time": 1688811451,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474009,
@@ -6339,6 +6379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442750,
+      "num": 442750,
+      "word": "猴痘病毒是怎么感染的",
+      "onboard_time": 1688810313,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442485,
       "num": 442485,
       "word": "原来这些水果都自带解药",
@@ -6369,6 +6417,14 @@
       "onboard_time": 1688788711,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439638,
+      "num": 439638,
+      "word": "群演谈肖战",
+      "onboard_time": 1688811091,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 439423,
@@ -6803,6 +6859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401576,
+      "num": 401576,
+      "word": "花傲天上场",
+      "onboard_time": 1688811991,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 401375,
       "num": 401375,
       "word": "北京一地接导游中暑死亡",
@@ -7225,14 +7289,6 @@
       "onboard_time": 1688356341,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377658,
-      "num": 355863,
-      "word": "杨洋拍戏拍到中暑呕吐",
-      "onboard_time": 1688810374,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 376530,
@@ -7979,14 +8035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339278,
-      "num": 339278,
-      "word": "猴痘病毒是怎么感染的",
-      "onboard_time": 1688810313,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338782,
       "num": 460885,
       "word": "P人的一生",
@@ -8363,6 +8411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322711,
+      "num": 322711,
+      "word": "唤醒植物人丈夫后她退还18万元善款",
+      "onboard_time": 1688811631,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 322659,
       "num": 322659,
       "word": "王楚然怎么没来扫楼",
@@ -8409,6 +8465,14 @@
       "onboard_time": 1688343332,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321553,
+      "num": 1033596,
+      "word": "男童挂窗外爸爸编织袋兜娃等救援",
+      "onboard_time": 1688807311,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320327,
@@ -8625,14 +8689,6 @@
       "onboard_time": 1688706821,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310835,
-      "num": 310835,
-      "word": "群演谈肖战",
-      "onboard_time": 1688811091,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 310669,
@@ -9315,6 +9371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 281240,
+      "num": 281240,
+      "word": "王楚然微指破亿",
+      "onboard_time": 1688810612,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 281219,
       "num": 281219,
       "word": "需要自己盖宿舍的大学",
@@ -9329,6 +9393,14 @@
       "onboard_time": 1688393504,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280396,
+      "num": 280396,
+      "word": "会谈恋爱的女生是什么样的",
+      "onboard_time": 1688810733,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 280203,
@@ -9579,14 +9651,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 273257,
-      "num": 242017,
-      "word": "会谈恋爱的女生是什么样的",
-      "onboard_time": 1688810733,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 272843,
       "num": 262231,
       "word": "同事说我把别人的萝卜岗占了",
@@ -9665,14 +9729,6 @@
       "onboard_time": 1688531622,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 266783,
-      "num": 1033596,
-      "word": "男童挂窗外爸爸编织袋兜娃等救援",
-      "onboard_time": 1688807311,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266615,
@@ -9929,14 +9985,6 @@
       "onboard_time": 1688790274,
       "rank": 35,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 256967,
-      "num": 241674,
-      "word": "王楚然微指破亿",
-      "onboard_time": 1688810612,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 256610,
@@ -11105,6 +11153,14 @@
       "onboard_time": 1688641231,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221377,
+      "num": 221377,
+      "word": "PEL",
+      "onboard_time": 1688811931,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 221104,
@@ -12403,14 +12459,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 190221,
-      "num": 190221,
-      "word": "宋轶真的穿白色衣服了",
-      "onboard_time": 1688811330,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190097,
       "num": 190097,
       "word": "原神菲米尼",
@@ -12460,7 +12508,7 @@
     },
     {
       "raw_hot": 188785,
-      "num": 188785,
+      "num": 201031,
       "word": "WE对战RNG",
       "onboard_time": 1688810972,
       "rank": 41,
@@ -13059,6 +13107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169118,
+      "num": 202413,
+      "word": "消失的她观影人次破7000万",
+      "onboard_time": 1688812291,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169066,
       "num": 169066,
       "word": "张静初到底有多少碎花裙",
@@ -13281,14 +13337,6 @@
       "onboard_time": 1688464837,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158757,
-      "num": 158757,
-      "word": "女儿因蛋糕贵大哭求妈妈退款",
-      "onboard_time": 1688811451,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158715,
