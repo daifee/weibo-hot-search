@@ -1,0 +1,410 @@
+{
+  "runTime": 1688785238844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2407837,
+        "num": 2407837,
+        "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
+        "onboard_time": 1688780611,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1753963,
+        "num": 1753963,
+        "word": "爱宝",
+        "onboard_time": 1688774007,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56285,
+        "num": 1692544,
+        "word": "天问一号最新发现",
+        "onboard_time": 1688740668,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1661193,
+        "num": 1661193,
+        "word": "身边的超级致癌物 黄曲霉菌",
+        "onboard_time": 1688782053,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218356,
+        "num": 1218356,
+        "word": "浙江人也被确诊为孙悟空了",
+        "onboard_time": 1688779229,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110471,
+        "num": 1110471,
+        "word": "布兰妮被掌掴视频曝光",
+        "onboard_time": 1688780495,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1072505,
+        "num": 1072505,
+        "word": "柳玉茹 假死",
+        "onboard_time": 1688782536,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 952978,
+        "num": 952978,
+        "word": "男生考上研究生辞掉上万月薪工作",
+        "onboard_time": 1688780553,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 847717,
+        "num": 847717,
+        "word": "肖战以后还演古偶吗",
+        "onboard_time": 1688782112,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562883,
+        "num": 562883,
+        "word": "茶百道 未定事件簿",
+        "onboard_time": 1688782472,
+        "rank": 9,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 931403,
+        "num": 559508,
+        "word": "女子回应赚5亿不如月薪5千生娃好",
+        "onboard_time": 1688775691,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 552710,
+        "num": 552710,
+        "word": "邓伦被强制执行",
+        "onboard_time": 1688730994,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 531908,
+        "num": 531908,
+        "word": "专家说秦二世被冤枉了2000多年",
+        "onboard_time": 1688781092,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508563,
+        "num": 508563,
+        "word": "谢娜自己淘汰自己",
+        "onboard_time": 1688779171,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506687,
+        "num": 506687,
+        "word": "文班亚马",
+        "onboard_time": 1688781092,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 498630,
+        "num": 498630,
+        "word": "沈月谈要不要生小孩",
+        "onboard_time": 1688784271,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474279,
+        "num": 474279,
+        "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
+        "onboard_time": 1688781872,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469394,
+        "num": 469394,
+        "word": "福宝要当姐姐了",
+        "onboard_time": 1688784087,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316691,
+        "num": 459688,
+        "word": "杭州亚运会开票",
+        "onboard_time": 1688783313,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453068,
+        "num": 453068,
+        "word": "外媒报道李玟去世形容巨星陨落",
+        "onboard_time": 1688773287,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540481,
+        "num": 442492,
+        "word": "点外卖点到在骑手群出名了",
+        "onboard_time": 1688782230,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430474,
+        "num": 430474,
+        "word": "电影一闪一闪亮星星今日开机",
+        "onboard_time": 1688779774,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426241,
+        "num": 426241,
+        "word": "把54公斤樱桃去核放冰箱",
+        "onboard_time": 1688780252,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375462,
+        "num": 375462,
+        "word": "读了一天博了",
+        "onboard_time": 1688784631,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370142,
+        "num": 370142,
+        "word": "Angelababy张殷殷",
+        "onboard_time": 1688773287,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364936,
+        "num": 364936,
+        "word": "战至巅峰",
+        "onboard_time": 1688784572,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340620,
+        "num": 340620,
+        "word": "你好星期六",
+        "onboard_time": 1688782713,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333158,
+        "num": 333158,
+        "word": "先救女友情侣送完锦旗后订婚了",
+        "onboard_time": 1688781213,
+        "rank": 27,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 318694,
+        "num": 318694,
+        "word": "崔胜澈白发",
+        "onboard_time": 1688784394,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 298023,
+        "num": 298023,
+        "word": "TFBOYS会合体集训",
+        "onboard_time": 1688743721,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285142,
+        "num": 285142,
+        "word": "宝妈睡觉被1岁娃拍照误发给朋友",
+        "onboard_time": 1688770940,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281219,
+        "num": 281219,
+        "word": "需要自己盖宿舍的大学",
+        "onboard_time": 1688783612,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 272888,
+        "num": 272888,
+        "word": "男子地铁上掏下体猥亵被揪着报警",
+        "onboard_time": 1688745273,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248007,
+        "num": 248007,
+        "word": "对这期跑男越来越感兴趣了",
+        "onboard_time": 1688739464,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246010,
+        "num": 246010,
+        "word": "战至巅峰2开播",
+        "onboard_time": 1688783073,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239072,
+        "num": 239072,
+        "word": "杜蕾斯客服回应避孕套中发现异物",
+        "onboard_time": 1688731836,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235553,
+        "num": 235553,
+        "word": "花花在大运会宣传片里出镜了",
+        "onboard_time": 1688783911,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219232,
+        "num": 219232,
+        "word": "魏大勋演技",
+        "onboard_time": 1688784212,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214351,
+        "num": 214351,
+        "word": "张惠妹演唱会唱李玟的歌",
+        "onboard_time": 1688778931,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207144,
+        "num": 207144,
+        "word": "谁敢在公司睡成这样",
+        "onboard_time": 1688779290,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212385,
+        "num": 205560,
+        "word": "孙燕姿去看了张惠妹的演唱会",
+        "onboard_time": 1688785051,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195938,
+        "num": 195938,
+        "word": "饲养员为爱宝开启昼夜陪护模式",
+        "onboard_time": 1688782230,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194743,
+        "num": 194743,
+        "word": "中餐厅7倒时差官宣",
+        "onboard_time": 1688777249,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194407,
+        "num": 194407,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1688780371,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192480,
+        "num": 192480,
+        "word": "李玟",
+        "onboard_time": 1688775270,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186070,
+        "num": 186070,
+        "word": "人和人的核心区别就是主动",
+        "onboard_time": 1688781333,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 183828,
+        "num": 183828,
+        "word": "最新考古发现证明史记是错的",
+        "onboard_time": 1688774248,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178700,
+        "num": 178700,
+        "word": "原来招聘视角是这样的",
+        "onboard_time": 1688779290,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175919,
+        "num": 175919,
+        "word": "长安三万里",
+        "onboard_time": 1688782536,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174908,
+        "num": 174908,
+        "word": "奔跑吧",
+        "onboard_time": 1688774609,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记江苏考察关注这个园区#"
+    }
+  }
+}

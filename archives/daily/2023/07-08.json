@@ -1,7 +1,15 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688782356024,
+  "endTime": 1688785238844,
   "band_list": [
+    {
+      "raw_hot": 2407837,
+      "num": 2407837,
+      "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
+      "onboard_time": 1688780611,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
     {
       "raw_hot": 2159758,
       "num": 647652,
@@ -27,11 +35,19 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1719866,
-      "num": 1719866,
+      "raw_hot": 1753963,
+      "num": 1753963,
       "word": "爱宝",
       "onboard_time": 1688774007,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1661193,
+      "num": 1661193,
+      "word": "身边的超级致癌物 黄曲霉菌",
+      "onboard_time": 1688782053,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -41,14 +57,6 @@
       "onboard_time": 1688731836,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1416040,
-      "num": 1416040,
-      "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
-      "onboard_time": 1688780611,
-      "rank": 32,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1408631,
@@ -75,12 +83,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1053531,
-      "num": 1053531,
+      "raw_hot": 1110471,
+      "num": 1110471,
       "word": "布兰妮被掌掴视频曝光",
       "onboard_time": 1688780495,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1072505,
+      "num": 1072505,
+      "word": "柳玉茹 假死",
+      "onboard_time": 1688782536,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1053388,
@@ -99,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 952978,
+      "num": 952978,
+      "word": "男生考上研究生辞掉上万月薪工作",
+      "onboard_time": 1688780553,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 915373,
       "num": 623456,
       "word": "蚂蚁集团被罚71.23亿元",
@@ -115,12 +139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 806888,
-      "num": 598529,
-      "word": "男生考上研究生辞掉上万月薪工作",
-      "onboard_time": 1688780553,
-      "rank": 33,
-      "category": "社会新闻,教育"
+      "raw_hot": 847717,
+      "num": 847717,
+      "word": "肖战以后还演古偶吗",
+      "onboard_time": 1688782112,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 804045,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 619517,
-      "num": 360310,
+      "num": 426241,
       "word": "把54公斤樱桃去核放冰箱",
       "onboard_time": 1688780252,
       "rank": 30,
@@ -259,6 +283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 562883,
+      "num": 562883,
+      "word": "茶百道 未定事件簿",
+      "onboard_time": 1688782472,
+      "rank": 9,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 562721,
       "num": 392146,
       "word": "原来研究生是没有暑假的",
@@ -267,12 +299,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540481,
+      "num": 442492,
+      "word": "点外卖点到在骑手群出名了",
+      "onboard_time": 1688782230,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 537603,
       "num": 537603,
       "word": "网友辣评Angelababy新剧哭戏",
       "onboard_time": 1688734310,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 531908,
+      "num": 531908,
+      "word": "专家说秦二世被冤枉了2000多年",
+      "onboard_time": 1688781092,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 529825,
@@ -289,6 +337,22 @@
       "onboard_time": 1688774248,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506687,
+      "num": 506687,
+      "word": "文班亚马",
+      "onboard_time": 1688781092,
+      "rank": 14,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 498630,
+      "num": 498630,
+      "word": "沈月谈要不要生小孩",
+      "onboard_time": 1688784271,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 496216,
@@ -339,12 +403,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 474349,
-      "num": 474349,
-      "word": "专家说秦二世被冤枉了2000多年",
-      "onboard_time": 1688781092,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 474279,
+      "num": 474279,
+      "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
+      "onboard_time": 1688781872,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 469394,
+      "num": 469394,
+      "word": "福宝要当姐姐了",
+      "onboard_time": 1688784087,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459882,
@@ -361,14 +433,6 @@
       "onboard_time": 1688779712,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456586,
-      "num": 456586,
-      "word": "文班亚马",
-      "onboard_time": 1688781092,
-      "rank": 14,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 435071,
@@ -403,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375462,
+      "num": 375462,
+      "word": "读了一天博了",
+      "onboard_time": 1688784631,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374840,
       "num": 374840,
       "word": "曝河南一院长要医生多开中药提升收入",
@@ -417,6 +489,14 @@
       "onboard_time": 1688776710,
       "rank": 19,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 364936,
+      "num": 364936,
+      "word": "战至巅峰",
+      "onboard_time": 1688784572,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 357282,
@@ -435,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340620,
+      "num": 340620,
+      "word": "你好星期六",
+      "onboard_time": 1688782713,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340226,
       "num": 340226,
       "word": "迪丽热巴是90后唯一电视剧三大奖全提女演员",
@@ -451,20 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 327433,
-      "num": 327433,
+      "raw_hot": 333158,
+      "num": 333158,
       "word": "先救女友情侣送完锦旗后订婚了",
       "onboard_time": 1688781213,
       "rank": 25,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 326908,
-      "num": 295600,
-      "word": "身边的超级致癌物 黄曲霉菌",
-      "onboard_time": 1688782053,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324695,
@@ -491,12 +571,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 318694,
+      "num": 318694,
+      "word": "崔胜澈白发",
+      "onboard_time": 1688784394,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 316861,
       "num": 316861,
       "word": "原来招聘视角是这样的",
       "onboard_time": 1688779290,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316691,
+      "num": 459688,
+      "word": "杭州亚运会开票",
+      "onboard_time": 1688783313,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 314859,
@@ -555,20 +651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281219,
+      "num": 281219,
+      "word": "需要自己盖宿舍的大学",
+      "onboard_time": 1688783612,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 279939,
       "num": 279939,
       "word": "一闪一闪亮星星",
       "onboard_time": 1688780371,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261954,
-      "num": 261954,
-      "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
-      "onboard_time": 1688781872,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 260022,
@@ -627,20 +723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246050,
-      "num": 246050,
-      "word": "肖战以后还演古偶吗",
-      "onboard_time": 1688782112,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 245021,
-      "num": 245021,
-      "word": "点外卖点到在骑手群出名了",
-      "onboard_time": 1688782230,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 246010,
+      "num": 246010,
+      "word": "战至巅峰2开播",
+      "onboard_time": 1688783073,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 244813,
@@ -657,6 +745,14 @@
       "onboard_time": 1688730812,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235553,
+      "num": 235553,
+      "word": "花花在大运会宣传片里出镜了",
+      "onboard_time": 1688783911,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230215,
@@ -707,12 +803,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219232,
+      "num": 219232,
+      "word": "魏大勋演技",
+      "onboard_time": 1688784212,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214244,
       "num": 214244,
       "word": "赵露思桑稚",
       "onboard_time": 1688777312,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212385,
+      "num": 205560,
+      "word": "孙燕姿去看了张惠妹的演唱会",
+      "onboard_time": 1688785051,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 211491,
@@ -795,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175919,
+      "num": 175919,
+      "word": "长安三万里",
+      "onboard_time": 1688782536,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168712,
       "num": 168712,
       "word": "郑秀文 抑郁症我懂",
@@ -852,7 +972,7 @@
     },
     {
       "raw_hot": 83797,
-      "num": 1412178,
+      "num": 1692544,
       "word": "天问一号最新发现",
       "onboard_time": 1688740668,
       "rank": 2,
