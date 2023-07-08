@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688830453635,
+  "endTime": 1688833408207,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5627,6 +5627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 668506,
+      "num": 668506,
+      "word": "暑假目前最惊喜的国产剧",
+      "onboard_time": 1688831611,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 667623,
       "num": 347653,
       "word": "女子产后抑郁将孩子从天桥抛下",
@@ -7217,6 +7225,14 @@
       "onboard_time": 1688283629,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539207,
+      "num": 539207,
+      "word": "00后女生帮姐姐带娃1小时崩溃大哭",
+      "onboard_time": 1688830232,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536673,
@@ -13203,6 +13219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 271146,
+      "num": 271146,
+      "word": "重庆果然是立体的",
+      "onboard_time": 1688830354,
+      "rank": 18,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 271105,
       "num": 225736,
       "word": "李现把周杰伦to签穿身上",
@@ -15411,6 +15435,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 222301,
+      "num": 216928,
+      "word": "白敬亭还是你懂大哥",
+      "onboard_time": 1688832509,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222148,
       "num": 222148,
       "word": "就差演唱会门票了",
@@ -16665,6 +16697,14 @@
       "onboard_time": 1688785472,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199582,
+      "num": 199582,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1688206894,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 199394,
@@ -18563,14 +18603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160196,
-      "num": 236599,
-      "word": "00后女生帮姐姐带娃1小时崩溃大哭",
-      "onboard_time": 1688830232,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160159,
       "num": 160159,
       "word": "小女孩给狗狗示范上沙发",
@@ -18737,14 +18769,6 @@
       "onboard_time": 1688485115,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156476,
-      "num": 156476,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1688206894,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 156267,
@@ -19243,6 +19267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127247,
+      "num": 198219,
+      "word": "台北电影节",
+      "onboard_time": 1688830829,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127060,
       "num": 1731559,
       "word": "中国人首次荣获护理界国际成就奖",
@@ -19369,6 +19401,14 @@
       "onboard_time": 1688217093,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 115492,
+      "num": 196443,
+      "word": "OMG对战TT",
+      "onboard_time": 1688832869,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 115069,
@@ -20408,6 +20448,14 @@
       "word": "中国夫妇讲述在法遇袭经历",
       "onboard_time": 1688239154,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27154,
+      "num": 674469,
+      "word": "守护高温下的户外劳动者",
+      "onboard_time": 1688821897,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
