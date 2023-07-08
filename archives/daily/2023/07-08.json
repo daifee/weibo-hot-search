@@ -1,7 +1,15 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688772856355,
+  "endTime": 1688781028637,
   "band_list": [
+    {
+      "raw_hot": 2159758,
+      "num": 500326,
+      "word": "女子回应赚5亿不如月薪5千生娃好",
+      "onboard_time": 1688775691,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
     {
       "raw_hot": 1976757,
       "num": 418733,
@@ -19,6 +27,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1639359,
+      "num": 1639359,
+      "word": "爱宝",
+      "onboard_time": 1688774007,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1624484,
       "num": 627946,
       "word": "杜蕾斯客服回应避孕套中发现异物",
@@ -27,12 +43,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1199699,
+      "num": 1199699,
+      "word": "浙江人也被确诊为孙悟空了",
+      "onboard_time": 1688779229,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1173599,
+      "num": 497044,
+      "word": "谢娜自己淘汰自己",
+      "onboard_time": 1688779171,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1124470,
       "num": 1124470,
       "word": "奔跑吧没播",
       "onboard_time": 1688735864,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1053388,
+      "num": 1053388,
+      "word": "外媒报道李玟去世形容巨星陨落",
+      "onboard_time": 1688773287,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1035881,
@@ -67,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782388,
+      "num": 782388,
+      "word": "Angelababy张殷殷",
+      "onboard_time": 1688773287,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 767777,
       "num": 767777,
       "word": "对这期跑男越来越感兴趣了",
@@ -81,6 +129,14 @@
       "onboard_time": 1688739165,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 714202,
+      "num": 714202,
+      "word": "电影一闪一闪亮星星今日开机",
+      "onboard_time": 1688779774,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 704640,
@@ -139,6 +195,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 588687,
+      "num": 365353,
+      "word": "谁敢在公司睡成这样",
+      "onboard_time": 1688779290,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 587856,
+      "num": 587856,
+      "word": "女子无人区遇乞食狼下车投喂",
+      "onboard_time": 1688770999,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572582,
       "num": 572582,
       "word": "何洁希望张靓颖越来越好",
@@ -179,6 +251,14 @@
       "category": "情感,音乐"
     },
     {
+      "raw_hot": 508960,
+      "num": 508960,
+      "word": "最新考古发现证明史记是错的",
+      "onboard_time": 1688774248,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496216,
       "num": 300676,
       "word": "长沙发现3例猴痘病例",
@@ -211,12 +291,44 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 486609,
+      "num": 486609,
+      "word": "中餐厅7倒时差官宣",
+      "onboard_time": 1688777249,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 477329,
+      "num": 477329,
+      "word": "富豪为长生不老上午11点后断食",
+      "onboard_time": 1688773164,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 463204,
+      "num": 247422,
+      "word": "把54公斤樱桃去核放冰箱",
+      "onboard_time": 1688780252,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459882,
       "num": 361649,
       "word": "宋轶 不夸我是百灵鸟我不唱",
       "onboard_time": 1688745334,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458999,
+      "num": 458999,
+      "word": "清华选美冠军初中时因容貌遭欺凌",
+      "onboard_time": 1688779712,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435071,
@@ -235,12 +347,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409103,
+      "num": 409103,
+      "word": "李玟",
+      "onboard_time": 1688775270,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 407777,
+      "num": 246840,
+      "word": "布兰妮被掌掴视频曝光",
+      "onboard_time": 1688780495,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376530,
       "num": 357020,
       "word": "为什么高铁还没到站就站起来等",
       "onboard_time": 1688745873,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374840,
+      "num": 374840,
+      "word": "曝河南一院长要医生多开中药提升收入",
+      "onboard_time": 1688773767,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369501,
+      "num": 246088,
+      "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
+      "onboard_time": 1688780611,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 366165,
+      "num": 366165,
+      "word": "小虞姬",
+      "onboard_time": 1688776710,
+      "rank": 19,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 354078,
@@ -267,11 +419,35 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324695,
+      "num": 324695,
+      "word": "原来萧敬腾8层别墅是留给宠物的",
+      "onboard_time": 1688776112,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321139,
       "num": 321139,
       "word": "苹果的苹还能组什么词",
       "onboard_time": 1688741622,
       "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 319201,
+      "num": 319201,
+      "word": "张惠妹演唱会唱李玟的歌",
+      "onboard_time": 1688778931,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 316861,
+      "num": 316861,
+      "word": "原来招聘视角是这样的",
+      "onboard_time": 1688779290,
+      "rank": 25,
       "category": "幽默"
     },
     {
@@ -281,6 +457,14 @@
       "onboard_time": 1688729672,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 312632,
+      "num": 245617,
+      "word": "男生考上研究生辞掉上万月薪工作",
+      "onboard_time": 1688780553,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 309565,
@@ -315,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260431,
-      "num": 260431,
-      "word": "女子无人区遇乞食狼下车投喂",
-      "onboard_time": 1688770999,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 286139,
+      "num": 286139,
+      "word": "5亿不如生娃大妈喊话去幼儿园看看",
+      "onboard_time": 1688778752,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 260022,
@@ -337,6 +521,14 @@
       "onboard_time": 1688739223,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255227,
+      "num": 244878,
+      "word": "少年白马醉春风",
+      "onboard_time": 1688779109,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 251716,
@@ -363,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244813,
+      "num": 244813,
+      "word": "小伙当兵12年拿遍一二三等功",
+      "onboard_time": 1688774489,
+      "rank": 35,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 237685,
       "num": 237685,
       "word": "范玮琪演唱会取消",
@@ -387,12 +587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227314,
+      "num": 227314,
+      "word": "保安为女友花20万遭拉黑发现已结婚",
+      "onboard_time": 1688774667,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 224767,
       "num": 224767,
       "word": "吉克隽逸汪苏泷合唱雨爱",
       "onboard_time": 1688744978,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223091,
+      "num": 223091,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1688780371,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 221216,
@@ -411,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211491,
+      "num": 211491,
+      "word": "河南人被正式确诊为红孩儿",
+      "onboard_time": 1688774067,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209379,
       "num": 208331,
       "word": "肖战的cp名怎么都这样",
@@ -427,6 +651,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 207858,
+      "num": 207858,
+      "word": "奔跑吧",
+      "onboard_time": 1688774609,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205635,
       "num": 205635,
       "word": "白敬亭究竟有多少好妹妹",
@@ -435,12 +667,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202024,
+      "num": 202024,
+      "word": "范德萨突发脑溢血被送往ICU抢救",
+      "onboard_time": 1688773528,
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 198554,
+      "num": 198554,
+      "word": "赵露思桑稚",
+      "onboard_time": 1688777312,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197805,
       "num": 168974,
       "word": "放在恋爱脑界也是相当炸裂的",
       "onboard_time": 1688748149,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 193123,
+      "num": 193123,
+      "word": "女童生病求安慰却不让爸爸开语音",
+      "onboard_time": 1688778389,
+      "rank": 47,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 184491,
+      "num": 184491,
+      "word": "为什么现在没这种广告了",
+      "onboard_time": 1688771060,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 180365,
@@ -465,14 +729,6 @@
       "onboard_time": 1688736106,
       "rank": 46,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 132669,
-      "num": 132669,
-      "word": "为什么现在没这种广告了",
-      "onboard_time": 1688771060,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 130085,
@@ -515,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 83797,
+      "num": 1108929,
+      "word": "天问一号最新发现",
+      "onboard_time": 1688740668,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59735,
       "num": 59735,
       "word": "有没有人考虑吴磊的感受",
@@ -537,14 +801,6 @@
       "onboard_time": 1688751620,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 45523,
-      "num": 666278,
-      "word": "天问一号最新发现",
-      "onboard_time": 1688740668,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45499,
