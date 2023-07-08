@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688847530870,
+  "endTime": 1688848446343,
   "band_list": [
     {
       "raw_hot": 1344980,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 25563,
-      "num": 28602,
+      "num": 31722,
       "word": "GEN战胜T1",
       "onboard_time": 1688845036,
       "rank": 39,
