@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688787732150,
+  "endTime": 1688790151703,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -17,6 +17,14 @@
       "onboard_time": 1688780611,
       "rank": 32,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2351592,
+      "num": 2351592,
+      "word": "爱宝",
+      "onboard_time": 1688774007,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2159758,
@@ -41,14 +49,6 @@
       "onboard_time": 1688730994,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1753963,
-      "num": 1753963,
-      "word": "爱宝",
-      "onboard_time": 1688774007,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1624484,
@@ -131,6 +131,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 878985,
+      "num": 878985,
+      "word": "iPhone15Pro系列将采用深蓝色",
+      "onboard_time": 1688786312,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 872228,
       "num": 872228,
       "word": "肖战以后还演古偶吗",
@@ -193,6 +201,14 @@
       "onboard_time": 1688739464,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 763485,
+      "num": 763485,
+      "word": "多地有猴痘普通人感染几率会增大吗",
+      "onboard_time": 1688787332,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752557,
@@ -363,14 +379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 532942,
-      "num": 532942,
-      "word": "iPhone15Pro系列将采用深蓝色",
-      "onboard_time": 1688786312,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 529825,
       "num": 529825,
       "word": "在霉霉唱Love Story时求婚",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 484983,
-      "num": 284925,
+      "num": 364234,
       "word": "向往的生活结尾看到了谁",
       "onboard_time": 1688785652,
       "rank": 35,
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442269,
+      "num": 322469,
+      "word": "文咏珊送给李木子的海底星空",
+      "onboard_time": 1688788711,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435071,
       "num": 435071,
       "word": "气象局真的和电影里一模一样",
@@ -496,6 +512,14 @@
       "word": "李玟",
       "onboard_time": 1688775270,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388946,
+      "num": 320845,
+      "word": "为seventeen点播一首hot",
+      "onboard_time": 1688787694,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -555,6 +579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351599,
+      "num": 320339,
+      "word": "杨迪说杨紫是软体动物",
+      "onboard_time": 1688787392,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349603,
+      "num": 270018,
+      "word": "男子便秘自行灌肠致肠穿孔休克",
+      "onboard_time": 1688789555,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340620,
       "num": 340620,
       "word": "你好星期六",
@@ -593,6 +633,14 @@
       "onboard_time": 1688776112,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322932,
+      "num": 265519,
+      "word": "坐电梯坐到张杰谢娜家",
+      "onboard_time": 1688789792,
+      "rank": 31,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 321139,
@@ -635,12 +683,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314945,
+      "num": 319477,
+      "word": "张杰超话 答题",
+      "onboard_time": 1688789971,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314859,
       "num": 299072,
       "word": "无骨鸡柳为什么消失了",
       "onboard_time": 1688729672,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 311715,
+      "num": 311715,
+      "word": "金虎",
+      "onboard_time": 1688788951,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310831,
+      "num": 310831,
+      "word": "文班亚马NBA首秀",
+      "onboard_time": 1688787511,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 309565,
@@ -723,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271674,
+      "num": 271674,
+      "word": "这才是女生该有的小金库",
+      "onboard_time": 1688788112,
+      "rank": 29,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 260022,
       "num": 260022,
       "word": "牵手门董某某被解除劳动合同",
@@ -737,6 +817,14 @@
       "onboard_time": 1688739223,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255398,
+      "num": 255398,
+      "word": "蔡依林演唱会武汉站预售",
+      "onboard_time": 1688788471,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 255227,
@@ -819,14 +907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229142,
-      "num": 229142,
-      "word": "杨迪说杨紫是软体动物",
-      "onboard_time": 1688787392,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227851,
       "num": 145702,
       "word": "书店老板回应被曝售卖情趣骰子",
@@ -867,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219792,
+      "num": 219792,
+      "word": "当事人回应私搭浮桥一家18口被判刑",
+      "onboard_time": 1688789672,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216087,
       "num": 216087,
       "word": "杭州亚运首批售票项目该怎么选",
@@ -891,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210924,
+      "num": 210924,
+      "word": "奔跑吧",
+      "onboard_time": 1688774609,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209379,
       "num": 208331,
       "word": "肖战的cp名怎么都这样",
@@ -907,12 +1003,28 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 208997,
+      "num": 208997,
+      "word": "INFP 命运会让我们相遇",
+      "onboard_time": 1688789431,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208933,
       "num": 208933,
       "word": "蚂蚁集团回应被罚",
       "onboard_time": 1688734663,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 208712,
+      "num": 208712,
+      "word": "TMEA音乐盛典节目单",
+      "onboard_time": 1688789312,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 208264,
@@ -923,28 +1035,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207858,
-      "num": 207858,
-      "word": "奔跑吧",
-      "onboard_time": 1688774609,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205635,
       "num": 205635,
       "word": "白敬亭究竟有多少好妹妹",
       "onboard_time": 1688741019,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205369,
-      "num": 205369,
-      "word": "多地有猴痘普通人感染几率会增大吗",
-      "onboard_time": 1688787332,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202024,
@@ -995,28 +1091,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182395,
-      "num": 182395,
-      "word": "文班亚马NBA首秀",
-      "onboard_time": 1688787511,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180365,
       "num": 180365,
       "word": "黄子韬抱着孙红雷痛哭",
       "onboard_time": 1688737540,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178058,
-      "num": 178058,
-      "word": "为seventeen点播一首hot",
-      "onboard_time": 1688787694,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 175919,
@@ -1041,6 +1121,14 @@
       "onboard_time": 1688736106,
       "rank": 46,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 141255,
+      "num": 496490,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1688788830,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 130085,
@@ -1185,6 +1273,9 @@
     },
     {
       "word": "#习近平在江苏考察#"
+    },
+    {
+      "word": "#2023明文化论坛#"
     }
   ]
 }

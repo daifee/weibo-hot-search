@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688787732150,
+  "endTime": 1688790151703,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -675,6 +675,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 2351592,
+      "num": 2351592,
+      "word": "爱宝",
+      "onboard_time": 1688774007,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2344347,
       "num": 357906,
       "word": "21岁姑娘新婚初夜出血1500ml",
@@ -1184,14 +1192,6 @@
       "word": "挥刀自宫有多痛",
       "onboard_time": 1688710959,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1753963,
-      "num": 1753963,
-      "word": "爱宝",
-      "onboard_time": 1688774007,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -2843,6 +2843,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 878985,
+      "num": 878985,
+      "word": "iPhone15Pro系列将采用深蓝色",
+      "onboard_time": 1688786312,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 878947,
       "num": 878947,
       "word": "古天乐眉毛",
@@ -3465,6 +3473,14 @@
       "onboard_time": 1688311118,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 763485,
+      "num": 763485,
+      "word": "多地有猴痘普通人感染几率会增大吗",
+      "onboard_time": 1688787332,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 763355,
@@ -5123,14 +5139,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 532942,
-      "num": 532942,
-      "word": "iPhone15Pro系列将采用深蓝色",
-      "onboard_time": 1688786312,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 530769,
       "num": 530769,
       "word": "白桃星座",
@@ -5580,7 +5588,7 @@
     },
     {
       "raw_hot": 484983,
-      "num": 284925,
+      "num": 364234,
       "word": "向往的生活结尾看到了谁",
       "onboard_time": 1688785652,
       "rank": 35,
@@ -6065,6 +6073,14 @@
       "onboard_time": 1688366512,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442269,
+      "num": 322469,
+      "word": "文咏珊送给李木子的海底星空",
+      "onboard_time": 1688788711,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 439423,
@@ -6649,6 +6665,14 @@
       "onboard_time": 1688561252,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388946,
+      "num": 320845,
+      "word": "为seventeen点播一首hot",
+      "onboard_time": 1688787694,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 388429,
@@ -7275,6 +7299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351599,
+      "num": 320339,
+      "word": "杨迪说杨紫是软体动物",
+      "onboard_time": 1688787392,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351546,
       "num": 338892,
       "word": "张杰回应巡演脱衣服",
@@ -7313,6 +7345,14 @@
       "onboard_time": 1688524896,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349603,
+      "num": 270018,
+      "word": "男子便秘自行灌肠致肠穿孔休克",
+      "onboard_time": 1688789555,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349526,
@@ -7899,6 +7939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322932,
+      "num": 265519,
+      "word": "坐电梯坐到张杰谢娜家",
+      "onboard_time": 1688789792,
+      "rank": 31,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 322659,
       "num": 322659,
       "word": "王楚然怎么没来扫楼",
@@ -8043,6 +8091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314945,
+      "num": 319477,
+      "word": "张杰超话 答题",
+      "onboard_time": 1688789971,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314327,
       "num": 276379,
       "word": "请记住这15个电话",
@@ -8123,12 +8179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311715,
+      "num": 311715,
+      "word": "金虎",
+      "onboard_time": 1688788951,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311364,
       "num": 311364,
       "word": "李飞不浪费一点版权费",
       "onboard_time": 1688706821,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310831,
+      "num": 310831,
+      "word": "文班亚马NBA首秀",
+      "onboard_time": 1688787511,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 310669,
@@ -9027,6 +9099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271674,
+      "num": 271674,
+      "word": "这才是女生该有的小金库",
+      "onboard_time": 1688788112,
+      "rank": 29,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 271640,
       "num": 271640,
       "word": "存钱是真的会上瘾",
@@ -9345,6 +9425,14 @@
       "onboard_time": 1688447679,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255398,
+      "num": 255398,
+      "word": "蔡依林演唱会武汉站预售",
+      "onboard_time": 1688788471,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 255227,
@@ -10059,14 +10147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 229142,
-      "num": 229142,
-      "word": "杨迪说杨紫是软体动物",
-      "onboard_time": 1688787392,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228943,
       "num": 228943,
       "word": "男朋友突然跟我说这些",
@@ -10417,6 +10497,14 @@
       "onboard_time": 1688511800,
       "rank": 22,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 219792,
+      "num": 219792,
+      "word": "当事人回应私搭浮桥一家18口被判刑",
+      "onboard_time": 1688789672,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219548,
@@ -10803,12 +10891,28 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 208997,
+      "num": 208997,
+      "word": "INFP 命运会让我们相遇",
+      "onboard_time": 1688789431,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208939,
       "num": 208939,
       "word": "没想到老板也会社恐",
       "onboard_time": 1688448818,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208712,
+      "num": 208712,
+      "word": "TMEA音乐盛典节目单",
+      "onboard_time": 1688789312,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 208707,
@@ -10921,14 +11025,6 @@
       "onboard_time": 1688592375,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205369,
-      "num": 205369,
-      "word": "多地有猴痘普通人感染几率会增大吗",
-      "onboard_time": 1688787332,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205267,
@@ -11747,14 +11843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182395,
-      "num": 182395,
-      "word": "文班亚马NBA首秀",
-      "onboard_time": 1688787511,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182373,
       "num": 185006,
       "word": "杭州西湖橘子味晚霞",
@@ -11841,14 +11929,6 @@
       "onboard_time": 1688724031,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178058,
-      "num": 178058,
-      "word": "为seventeen点播一首hot",
-      "onboard_time": 1688787694,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 177954,
@@ -12729,6 +12809,14 @@
       "onboard_time": 1688612378,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141255,
+      "num": 496490,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1688788830,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 140777,
@@ -13767,6 +13855,9 @@
     },
     {
       "word": "#习近平在江苏考察#"
+    },
+    {
+      "word": "#2023明文化论坛#"
     }
   ]
 }
