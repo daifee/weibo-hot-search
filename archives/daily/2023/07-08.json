@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688823221217,
+  "endTime": 1688825775692,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -9,6 +9,14 @@
       "onboard_time": 1688782053,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2513746,
+      "num": 1403205,
+      "word": "澳门偶遇",
+      "onboard_time": 1688808152,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 2407837,
@@ -25,14 +33,6 @@
       "onboard_time": 1688774007,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2341344,
-      "num": 1403205,
-      "word": "澳门偶遇",
-      "onboard_time": 1688808152,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 2326353,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 2092042,
-      "num": 974151,
+      "num": 1281803,
       "word": "李玟老公称一直对李玟很好",
       "onboard_time": 1688817692,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2046407,
+      "num": 2046407,
+      "word": "关于自愿离职公司一次性发放十万",
+      "onboard_time": 1688820753,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1976757,
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1481525,
-      "num": 1481525,
-      "word": "关于自愿离职公司一次性发放十万",
-      "onboard_time": 1688820753,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1414378,
       "num": 1414378,
       "word": "上海地铁一女子发表辱华言论",
@@ -147,12 +147,36 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 1363258,
+      "num": 1363258,
+      "word": "泰妃看肖战出场的反应",
+      "onboard_time": 1688818112,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1265214,
+      "num": 1265214,
+      "word": "魏大勋马伯骞赢麻了",
+      "onboard_time": 1688822013,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1173599,
       "num": 1053977,
       "word": "谢娜自己淘汰自己",
       "onboard_time": 1688779171,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1158705,
+      "num": 1158705,
+      "word": "90后终于熬成了挂钥匙的那群人",
+      "onboard_time": 1688819192,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 1124470,
@@ -235,20 +259,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 962841,
+      "num": 646112,
+      "word": "杨洋和张彬彬 魏大勋和王楚然",
+      "onboard_time": 1688821654,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 952978,
       "num": 952978,
       "word": "男生考上研究生辞掉上万月薪工作",
       "onboard_time": 1688780553,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 926969,
-      "num": 926969,
-      "word": "泰妃看肖战出场的反应",
-      "onboard_time": 1688818112,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 915373,
@@ -353,14 +377,6 @@
       "onboard_time": 1688784087,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821569,
-      "num": 646112,
-      "word": "杨洋和张彬彬 魏大勋和王楚然",
-      "onboard_time": 1688821654,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 818074,
@@ -475,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707748,
-      "num": 707748,
-      "word": "90后终于熬成了挂钥匙的那群人",
-      "onboard_time": 1688819192,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 704640,
       "num": 704640,
       "word": "我好想见你啊",
@@ -587,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 612984,
+      "num": 612984,
+      "word": "女生放假回家帮2嫂子带5娃",
+      "onboard_time": 1688823033,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611097,
       "num": 611097,
       "word": "张杰超话 答题",
@@ -675,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577763,
-      "num": 577763,
-      "word": "魏大勋马伯骞赢麻了",
-      "onboard_time": 1688822013,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 574124,
       "num": 574124,
       "word": "威神V全开麦",
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548608,
+      "num": 325908,
+      "word": "济南大学回应留学生每月补助3万元",
+      "onboard_time": 1688824114,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 544263,
       "num": 544263,
       "word": "专家说秦二世被冤枉了2000多年",
@@ -819,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523396,
+      "num": 523396,
+      "word": "华晨宇PEL生涯首个淘汰",
+      "onboard_time": 1688823574,
+      "rank": 11,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 520200,
       "num": 1597693,
       "word": "男孩买药欲轻生被店员路人劝下",
@@ -865,6 +889,14 @@
       "onboard_time": 1688736042,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494966,
+      "num": 494966,
+      "word": "东方神起TMEA",
+      "onboard_time": 1688824475,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 490116,
@@ -1019,6 +1051,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 425442,
+      "num": 425442,
+      "word": "有点理解为啥找魏大勋演了",
+      "onboard_time": 1688824897,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420703,
       "num": 420703,
       "word": "TMEA音乐盛典",
@@ -1147,12 +1187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374681,
+      "num": 265879,
+      "word": "五月天演唱会歌迷举发光蚊帐被疯狂吐槽",
+      "onboard_time": 1688822675,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373378,
       "num": 373378,
       "word": "Angelababy王者段位",
       "onboard_time": 1688791354,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372786,
+      "num": 265558,
+      "word": "汪苏泷北京演唱会嘉宾是薛凯琪",
+      "onboard_time": 1688823634,
+      "rank": 26,
+      "category": "音乐,综艺"
     },
     {
       "raw_hot": 370158,
@@ -1203,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355302,
+      "num": 265476,
+      "word": "消失的她票房",
+      "onboard_time": 1688822914,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354377,
       "num": 327120,
       "word": "上海迪士尼回应禁止游客带凳子入园",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1688787392,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348608,
+      "num": 262398,
+      "word": "米卡舞台",
+      "onboard_time": 1688824774,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 348522,
@@ -1467,6 +1539,14 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 295474,
+      "num": 262335,
+      "word": "长安三万里",
+      "onboard_time": 1688782536,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294069,
       "num": 294069,
       "word": "发现一直踩错了上班的点",
@@ -1587,6 +1667,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265881,
+      "num": 265881,
+      "word": "德赫亚告别曼联",
+      "onboard_time": 1688824657,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 262169,
+      "num": 262169,
+      "word": "许嵩天津欢乐谷",
+      "onboard_time": 1688825315,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 260542,
       "num": 260542,
       "word": "齐司礼",
@@ -1667,12 +1763,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252749,
-      "num": 252749,
-      "word": "五月天演唱会歌迷举发光蚊帐被疯狂吐槽",
-      "onboard_time": 1688822675,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 252274,
+      "num": 220562,
+      "word": "张靓颖袁娅维清唱",
+      "onboard_time": 1688825433,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 251765,
@@ -1755,6 +1851,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 244351,
+      "num": 262436,
+      "word": "体感上延长周末的神奇方法",
+      "onboard_time": 1688823634,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243460,
       "num": 243460,
       "word": "BLG零封NIP",
@@ -1801,14 +1905,6 @@
       "onboard_time": 1688730812,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 236216,
-      "num": 227840,
-      "word": "消失的她票房",
-      "onboard_time": 1688822914,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 235685,
@@ -2011,14 +2107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209613,
-      "num": 209613,
-      "word": "女生放假回家帮2嫂子带5娃",
-      "onboard_time": 1688823033,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209379,
       "num": 208331,
       "word": "肖战的cp名怎么都这样",
@@ -2203,6 +2291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192120,
+      "num": 192120,
+      "word": "亚运游泳门票",
+      "onboard_time": 1688824057,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192075,
       "num": 192075,
       "word": "小熊猫幼崽和妈妈亲亲",
@@ -2291,14 +2387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175919,
-      "num": 175919,
-      "word": "长安三万里",
-      "onboard_time": 1688782536,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 173099,
       "num": 203321,
       "word": "消失的她观影人次破7000万",
@@ -2379,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151286,
+      "num": 187459,
+      "word": "这就是理想的老年生活吧",
+      "onboard_time": 1688825135,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150938,
       "num": 180298,
       "word": "那些军装沾满泥巴的武警真帅",
@@ -2411,12 +2507,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132322,
+      "num": 1297173,
+      "word": "小浪底又见黄河之水天上来",
+      "onboard_time": 1688822013,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130085,
       "num": 130085,
       "word": "辛追夫人原来是吃货",
       "onboard_time": 1688769797,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126677,
+      "num": 187442,
+      "word": "重庆万州群众夹道送别防汛救灾英雄",
+      "onboard_time": 1688825735,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121225,
@@ -2483,14 +2595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 95304,
-      "num": 990362,
-      "word": "小浪底又见黄河之水天上来",
-      "onboard_time": 1688822013,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83797,
       "num": 1692544,
       "word": "天问一号最新发现",
@@ -2545,6 +2649,14 @@
       "onboard_time": 1688751620,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 45594,
+      "num": 493111,
+      "word": "TIA再现神级现场",
+      "onboard_time": 1688824834,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 45499,
