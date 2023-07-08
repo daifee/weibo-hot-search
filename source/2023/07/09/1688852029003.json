@@ -1,0 +1,410 @@
+{
+  "runTime": 1688852029003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 174674,
+        "num": 174674,
+        "word": "暑假目前最惊喜的国产剧",
+        "onboard_time": 1688831611,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121727,
+        "num": 121727,
+        "word": "90后终于熬成了挂钥匙的那群人",
+        "onboard_time": 1688819192,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11339,
+        "num": 89602,
+        "word": "守护高温下的户外劳动者",
+        "onboard_time": 1688821897,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131946,
+        "num": 88698,
+        "word": "李玟姐姐称其老公已被原公司撤职很久",
+        "onboard_time": 1688826217,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85546,
+        "num": 85546,
+        "word": "泰妃看肖战出场的反应",
+        "onboard_time": 1688818112,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70465,
+        "num": 70465,
+        "word": "有点理解为啥找魏大勋演了",
+        "onboard_time": 1688824897,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68853,
+        "num": 68853,
+        "word": "德国女生坚持跑步20周成功蜕变",
+        "onboard_time": 1688801853,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68289,
+        "num": 68289,
+        "word": "不小心发现落入山谷里的云朵",
+        "onboard_time": 1688827175,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60058,
+        "num": 60058,
+        "word": "荷兰政府宣布将集体辞职",
+        "onboard_time": 1688813492,
+        "rank": 8,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 59932,
+        "num": 59932,
+        "word": "9个孩子被骗缅甸遭电击开水烫",
+        "onboard_time": 1688797351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55831,
+        "num": 55831,
+        "word": "李玟老公称一直对李玟很好",
+        "onboard_time": 1688817692,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52033,
+        "num": 52033,
+        "word": "关于自愿离职公司一次性发放十万",
+        "onboard_time": 1688820753,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45191,
+        "num": 51734,
+        "word": "鹿晗让粉丝在微博上征婚",
+        "onboard_time": 1688828675,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43338,
+        "num": 51462,
+        "word": "魏大勋马伯骞赢麻了",
+        "onboard_time": 1688822013,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42266,
+        "num": 51222,
+        "word": "Angelababy生孩子期间打上武则天高位",
+        "onboard_time": 1688800471,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41888,
+        "num": 50789,
+        "word": "华晨宇PEL生涯首个淘汰",
+        "onboard_time": 1688823574,
+        "rank": 15,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 40354,
+        "num": 50585,
+        "word": "第一次上交工资就被警察查了",
+        "onboard_time": 1688811872,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39472,
+        "num": 50220,
+        "word": "不能笑的待爆帝",
+        "onboard_time": 1688833827,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38263,
+        "num": 49800,
+        "word": "00后女生帮姐姐带娃1小时崩溃大哭",
+        "onboard_time": 1688830232,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35789,
+        "num": 49739,
+        "word": "女生放假回家帮2嫂子带5娃",
+        "onboard_time": 1688823033,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61862,
+        "num": 49378,
+        "word": "济南大学回应留学生每月补助3万元",
+        "onboard_time": 1688824114,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 49133,
+        "num": 49133,
+        "word": "一双腿养活了蚊子祖宗十八代",
+        "onboard_time": 1688826994,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41862,
+        "num": 49121,
+        "word": "何炅跟着杨紫一起跪",
+        "onboard_time": 1688822256,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41726,
+        "num": 49115,
+        "word": "内娱有效播剧的演员",
+        "onboard_time": 1688835564,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40170,
+        "num": 49098,
+        "word": "BLACKPINK里哪位成员最依赖团",
+        "onboard_time": 1688828136,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38779,
+        "num": 49082,
+        "word": "男子称在酒店床上发现排泄物",
+        "onboard_time": 1688813611,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35341,
+        "num": 49067,
+        "word": "我的人间烟火 伪骨科",
+        "onboard_time": 1688820032,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35052,
+        "num": 49053,
+        "word": "谁给小鬼做的造型",
+        "onboard_time": 1688826033,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33527,
+        "num": 49043,
+        "word": "看来武艺更喜欢女儿",
+        "onboard_time": 1688835924,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32997,
+        "num": 49030,
+        "word": "杨紫觉得年龄大了挺好的",
+        "onboard_time": 1688842333,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31668,
+        "num": 49003,
+        "word": "卷福或将出演唐探4",
+        "onboard_time": 1688838439,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30936,
+        "num": 49002,
+        "word": "拍毕业照时把前女友砸到了",
+        "onboard_time": 1688837839,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30214,
+        "num": 48985,
+        "word": "赵露思虞书欣业内评价口碑",
+        "onboard_time": 1688839039,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27955,
+        "num": 48963,
+        "word": "你会为了省钱放弃喜欢的东西吗",
+        "onboard_time": 1688843535,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27922,
+        "num": 48957,
+        "word": "汪苏泷又在寻宝藏了",
+        "onboard_time": 1688834246,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27630,
+        "num": 48937,
+        "word": "徐明浩澳门",
+        "onboard_time": 1688828614,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27190,
+        "num": 48914,
+        "word": "唤醒植物人丈夫后她退还18万元善款",
+        "onboard_time": 1688811631,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 25970,
+        "num": 48908,
+        "word": "健身房被淹教练无奈抱蛋白粉出来",
+        "onboard_time": 1688843535,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25620,
+        "num": 48888,
+        "word": "女子找手机全飞机乘客干等3小时",
+        "onboard_time": 1688817813,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24536,
+        "num": 48876,
+        "word": "女儿因蛋糕贵大哭求妈妈退款",
+        "onboard_time": 1688811451,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26084,
+        "num": 48858,
+        "word": "杨洋和张彬彬 魏大勋和王楚然",
+        "onboard_time": 1688821654,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25744,
+        "num": 48846,
+        "word": "宋丹丹去了汪苏泷北京演唱会",
+        "onboard_time": 1688825433,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24033,
+        "num": 48839,
+        "word": "Angelababy豹纹露腰背心",
+        "onboard_time": 1688840416,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22995,
+        "num": 48826,
+        "word": "五月天演唱会歌迷举发光蚊帐被疯狂吐槽",
+        "onboard_time": 1688822675,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21526,
+        "num": 48805,
+        "word": "澳门偶遇",
+        "onboard_time": 1688808152,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21345,
+        "num": 48789,
+        "word": "GEN战胜T1",
+        "onboard_time": 1688845036,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18967,
+        "num": 48778,
+        "word": "汪苏泷北京演唱会嘉宾是薛凯琪",
+        "onboard_time": 1688823634,
+        "rank": 46,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 18181,
+        "num": 48764,
+        "word": "王者荣耀",
+        "onboard_time": 1688827596,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17246,
+        "num": 48744,
+        "word": "OMG对战TT",
+        "onboard_time": 1688832869,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15734,
+        "num": 48727,
+        "word": "WBG积分榜",
+        "onboard_time": 1688826875,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会20天倒计时#"
+    }
+  }
+}
