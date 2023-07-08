@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688794452844,
+  "endTime": 1688797393530,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2313804,
-      "num": 969378,
+      "num": 1116790,
       "word": "坐电梯坐到张杰谢娜家",
       "onboard_time": 1688789792,
       "rank": 31,
@@ -64,6 +64,14 @@
       "word": "杜蕾斯客服回应避孕套中发现异物",
       "onboard_time": 1688731836,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1414378,
+      "num": 1414378,
+      "word": "上海地铁一女子发表辱华言论",
+      "onboard_time": 1688792911,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 864323,
+      "num": 864323,
+      "word": "5旬失独母亲试管产下新生儿",
+      "onboard_time": 1688793154,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 861682,
       "num": 861682,
       "word": "多地有猴痘普通人感染几率会增大吗",
@@ -171,12 +187,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 827298,
-      "num": 484837,
-      "word": "上海地铁一女子发表辱华言论",
-      "onboard_time": 1688792911,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 846319,
+      "num": 846319,
+      "word": "杨幂张大大vsAngelababy张大大打游戏",
+      "onboard_time": 1688794351,
+      "rank": 41,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 824652,
@@ -201,6 +217,14 @@
       "onboard_time": 1688770940,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 793723,
+      "num": 793723,
+      "word": "凤凰传奇什么时候变成三个人了",
+      "onboard_time": 1688794653,
+      "rank": 7,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 793604,
@@ -403,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542963,
+      "num": 438905,
+      "word": "前崔秀彬大吧爆料",
+      "onboard_time": 1688795310,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540481,
       "num": 485293,
       "word": "点外卖点到在骑手群出名了",
@@ -433,14 +465,6 @@
       "onboard_time": 1688781872,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 514165,
-      "num": 514165,
-      "word": "5旬失独母亲试管产下新生儿",
-      "onboard_time": 1688793154,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508960,
@@ -563,6 +587,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 426722,
+      "num": 426722,
+      "word": "幂系仙系妮系女明星",
+      "onboard_time": 1688793271,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 413258,
+      "num": 413258,
+      "word": "鹿晗说一巡时紧张到生病",
+      "onboard_time": 1688796868,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 412466,
       "num": 412466,
       "word": "我的人间烟火女主人设",
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 396118,
-      "num": 281593,
+      "num": 316115,
       "word": "宋轶爬楼全靠臂力",
       "onboard_time": 1688791230,
       "rank": 30,
@@ -612,7 +652,7 @@
     },
     {
       "raw_hot": 385311,
-      "num": 273104,
+      "num": 300560,
       "word": "背叛都是从闲聊开始的",
       "onboard_time": 1688793092,
       "rank": 31,
@@ -633,14 +673,6 @@
       "onboard_time": 1688745873,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375664,
-      "num": 375664,
-      "word": "幂系仙系妮系女明星",
-      "onboard_time": 1688793271,
-      "rank": 41,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 374840,
@@ -681,6 +713,14 @@
       "onboard_time": 1688784572,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358392,
+      "num": 358392,
+      "word": "12岁女孩搬啤酒炸裂一地后",
+      "onboard_time": 1688793452,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357282,
@@ -737,6 +777,14 @@
       "onboard_time": 1688781213,
       "rank": 25,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 326888,
+      "num": 326888,
+      "word": "谢娜组五公第一",
+      "onboard_time": 1688795192,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 325225,
@@ -915,6 +963,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267547,
+      "num": 257783,
+      "word": "云南一民宿为防艳遇受伤只招待女客",
+      "onboard_time": 1688796509,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260542,
+      "num": 260542,
+      "word": "齐司礼",
+      "onboard_time": 1688791956,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 260022,
       "num": 260022,
       "word": "牵手门董某某被解除劳动合同",
@@ -1035,14 +1099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237937,
-      "num": 237937,
-      "word": "齐司礼",
-      "onboard_time": 1688791956,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237685,
       "num": 237685,
       "word": "范玮琪演唱会取消",
@@ -1067,12 +1123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228586,
-      "num": 228586,
-      "word": "12岁女孩搬啤酒炸裂一地后",
-      "onboard_time": 1688793452,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 229373,
+      "num": 229373,
+      "word": "正处在换毛期的印度领角鸮",
+      "onboard_time": 1688795909,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 228233,
@@ -1123,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218430,
+      "num": 218430,
+      "word": "徐怀钰谢欣淘汰",
+      "onboard_time": 1688796629,
+      "rank": 37,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 216087,
       "num": 216087,
       "word": "杭州亚运首批售票项目该怎么选",
@@ -1137,6 +1201,14 @@
       "onboard_time": 1688777312,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212784,
+      "num": 212784,
+      "word": "为了生活 先生",
+      "onboard_time": 1688796570,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 211491,
@@ -1259,20 +1331,20 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 192400,
-      "num": 192400,
-      "word": "杨幂张大大vsAngelababy张大大打游戏",
-      "onboard_time": 1688794351,
-      "rank": 41,
-      "category": "综艺,游戏"
-    },
-    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "村民私建浮桥被判刑当地法院已立案",
       "onboard_time": 1688790152,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188376,
+      "num": 188376,
+      "word": "星光派对",
+      "onboard_time": 1688796989,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 184491,
@@ -1291,12 +1363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178851,
+      "num": 178851,
+      "word": "9个孩子被骗缅甸遭电击开水烫",
+      "onboard_time": 1688797351,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178495,
       "num": 178495,
       "word": "如何用一句话伤害一个人六次",
       "onboard_time": 1688794412,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178114,
+      "num": 178114,
+      "word": "猴痘可能使人短期毁容",
+      "onboard_time": 1688797290,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175919,
@@ -1321,6 +1409,14 @@
       "onboard_time": 1688736106,
       "rank": 46,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 143556,
+      "num": 300011,
+      "word": "蔚蓝档案8月3日上线",
+      "onboard_time": 1688794830,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 130085,
@@ -1369,6 +1465,14 @@
       "onboard_time": 1688740668,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59810,
+      "num": 406892,
+      "word": "马齿苋是敏感肌救星吗",
+      "onboard_time": 1688796030,
+      "rank": 14,
+      "category": "社会议题"
     },
     {
       "raw_hot": 59735,
