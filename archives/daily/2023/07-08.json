@@ -1,10 +1,10 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688787200517,
+  "endTime": 1688787732150,
   "band_list": [
     {
-      "raw_hot": 2577791,
-      "num": 2577791,
+      "raw_hot": 2695633,
+      "num": 2695633,
       "word": "身边的超级致癌物 黄曲霉菌",
       "onboard_time": 1688782053,
       "rank": 31,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 824652,
+      "num": 824652,
+      "word": "福宝要当姐姐了",
+      "onboard_time": 1688784087,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806660,
       "num": 806660,
       "word": "读了一天博了",
@@ -169,14 +177,6 @@
       "onboard_time": 1688779774,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 782967,
-      "num": 782967,
-      "word": "福宝要当姐姐了",
-      "onboard_time": 1688784087,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 782388,
@@ -267,19 +267,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 608613,
+      "num": 608613,
+      "word": "沈月谈要不要生小孩",
+      "onboard_time": 1688784271,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 600426,
       "num": 600426,
       "word": "长风渡改编",
       "onboard_time": 1688744616,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 597469,
-      "num": 597469,
-      "word": "沈月谈要不要生小孩",
-      "onboard_time": 1688784271,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532942,
+      "num": 532942,
+      "word": "iPhone15Pro系列将采用深蓝色",
+      "onboard_time": 1688786312,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 529825,
       "num": 529825,
       "word": "在霉霉唱Love Story时求婚",
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 484983,
-      "num": 249365,
+      "num": 284925,
       "word": "向往的生活结尾看到了谁",
       "onboard_time": 1688785652,
       "rank": 35,
@@ -491,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376562,
-      "num": 376562,
-      "word": "iPhone15Pro系列将采用深蓝色",
-      "onboard_time": 1688786312,
-      "rank": 18,
-      "category": "科技"
+      "raw_hot": 383311,
+      "num": 330797,
+      "word": "张馨予火锅前vs火锅后",
+      "onboard_time": 1688786192,
+      "rank": 31,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 376530,
@@ -561,14 +569,6 @@
       "onboard_time": 1688738319,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337245,
-      "num": 249360,
-      "word": "张馨予火锅前vs火锅后",
-      "onboard_time": 1688786192,
-      "rank": 31,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 335072,
@@ -667,20 +667,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298441,
+      "num": 298441,
+      "word": "花花在大运会宣传片里出镜了",
+      "onboard_time": 1688783911,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298401,
       "num": 298401,
       "word": "魏大勋早几年干嘛去了",
       "onboard_time": 1688735803,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 296673,
-      "num": 296673,
-      "word": "花花在大运会宣传片里出镜了",
-      "onboard_time": 1688783911,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292594,
@@ -819,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229142,
+      "num": 229142,
+      "word": "杨迪说杨紫是软体动物",
+      "onboard_time": 1688787392,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227851,
       "num": 145702,
       "word": "书店老板回应被曝售卖情趣骰子",
@@ -857,6 +865,14 @@
       "onboard_time": 1688746173,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216087,
+      "num": 216087,
+      "word": "杭州亚运首批售票项目该怎么选",
+      "onboard_time": 1688785292,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 214244,
@@ -923,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205369,
+      "num": 205369,
+      "word": "多地有猴痘普通人感染几率会增大吗",
+      "onboard_time": 1688787332,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202024,
       "num": 202024,
       "word": "范德萨突发脑溢血被送往ICU抢救",
@@ -955,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194197,
-      "num": 198395,
-      "word": "杭州亚运首批售票项目该怎么选",
-      "onboard_time": 1688785292,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 193123,
       "num": 193123,
       "word": "女童生病求安慰却不让爸爸开语音",
@@ -979,12 +995,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182395,
+      "num": 182395,
+      "word": "文班亚马NBA首秀",
+      "onboard_time": 1688787511,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180365,
       "num": 180365,
       "word": "黄子韬抱着孙红雷痛哭",
       "onboard_time": 1688737540,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178058,
+      "num": 178058,
+      "word": "为seventeen点播一首hot",
+      "onboard_time": 1688787694,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 175919,
@@ -1107,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39051,
+      "num": 1721244,
+      "word": "倾听运河新生的脉动",
+      "onboard_time": 1688786070,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38587,
       "num": 50688,
       "word": "怎么破解AI换脸诈骗",
@@ -1121,14 +1161,6 @@
       "onboard_time": 1688755634,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30544,
-      "num": 1721244,
-      "word": "倾听运河新生的脉动",
-      "onboard_time": 1688786070,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29549,

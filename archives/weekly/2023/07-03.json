@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688787200517,
+  "endTime": 1688787732150,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2695633,
+      "num": 2695633,
+      "word": "身边的超级致癌物 黄曲霉菌",
+      "onboard_time": 1688782053,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2675496,
       "num": 2265430,
       "word": "婚检后才知道自己有蚕豆病",
@@ -601,14 +609,6 @@
       "onboard_time": 1688478275,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2577791,
-      "num": 2577791,
-      "word": "身边的超级致癌物 黄曲霉菌",
-      "onboard_time": 1688782053,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2522401,
@@ -3123,6 +3123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 824652,
+      "num": 824652,
+      "word": "福宝要当姐姐了",
+      "onboard_time": 1688784087,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819344,
       "num": 819344,
       "word": "苏州大学录取通知书太用心了",
@@ -3321,14 +3329,6 @@
       "onboard_time": 1688610338,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 782967,
-      "num": 782967,
-      "word": "福宝要当姐姐了",
-      "onboard_time": 1688784087,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 782510,
@@ -4491,6 +4491,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 608613,
+      "num": 608613,
+      "word": "沈月谈要不要生小孩",
+      "onboard_time": 1688784271,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 608475,
       "num": 608475,
       "word": "刘诗诗巴黎时装周生图",
@@ -4601,14 +4609,6 @@
       "onboard_time": 1688451996,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 597469,
-      "num": 597469,
-      "word": "沈月谈要不要生小孩",
-      "onboard_time": 1688784271,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 596796,
@@ -5123,6 +5123,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 532942,
+      "num": 532942,
+      "word": "iPhone15Pro系列将采用深蓝色",
+      "onboard_time": 1688786312,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 530769,
       "num": 530769,
       "word": "白桃星座",
@@ -5572,7 +5580,7 @@
     },
     {
       "raw_hot": 484983,
-      "num": 249365,
+      "num": 284925,
       "word": "向往的生活结尾看到了谁",
       "onboard_time": 1688785652,
       "rank": 35,
@@ -6739,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383311,
+      "num": 330797,
+      "word": "张馨予火锅前vs火锅后",
+      "onboard_time": 1688786192,
+      "rank": 31,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 383235,
       "num": 651146,
       "word": "在高铁上吃泡面是没有素质吗",
@@ -6833,14 +6849,6 @@
       "onboard_time": 1688356341,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376562,
-      "num": 376562,
-      "word": "iPhone15Pro系列将采用深蓝色",
-      "onboard_time": 1688786312,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 376530,
@@ -7553,14 +7561,6 @@
       "onboard_time": 1688513006,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337245,
-      "num": 249360,
-      "word": "张馨予火锅前vs火锅后",
-      "onboard_time": 1688786192,
-      "rank": 31,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 337006,
@@ -8371,6 +8371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298441,
+      "num": 298441,
+      "word": "花花在大运会宣传片里出镜了",
+      "onboard_time": 1688783911,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298435,
       "num": 298435,
       "word": "沈腾演反派主打一个真诚",
@@ -8401,14 +8409,6 @@
       "onboard_time": 1688707901,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296673,
-      "num": 296673,
-      "word": "花花在大运会宣传片里出镜了",
-      "onboard_time": 1688783911,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296500,
@@ -10059,6 +10059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229142,
+      "num": 229142,
+      "word": "杨迪说杨紫是软体动物",
+      "onboard_time": 1688787392,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228943,
       "num": 228943,
       "word": "男朋友突然跟我说这些",
@@ -10499,6 +10507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216087,
+      "num": 216087,
+      "word": "杭州亚运首批售票项目该怎么选",
+      "onboard_time": 1688785292,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 216004,
       "num": 216004,
       "word": "科学家为什么执着于计算圆周率",
@@ -10905,6 +10921,14 @@
       "onboard_time": 1688592375,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205369,
+      "num": 205369,
+      "word": "多地有猴痘普通人感染几率会增大吗",
+      "onboard_time": 1688787332,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205267,
@@ -11387,14 +11411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194197,
-      "num": 198395,
-      "word": "杭州亚运首批售票项目该怎么选",
-      "onboard_time": 1688785292,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 193995,
       "num": 193995,
       "word": "北京高温",
@@ -11731,6 +11747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182395,
+      "num": 182395,
+      "word": "文班亚马NBA首秀",
+      "onboard_time": 1688787511,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182373,
       "num": 185006,
       "word": "杭州西湖橘子味晚霞",
@@ -11817,6 +11841,14 @@
       "onboard_time": 1688724031,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178058,
+      "num": 178058,
+      "word": "为seventeen点播一首hot",
+      "onboard_time": 1688787694,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 177954,
@@ -13539,6 +13571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39051,
+      "num": 1721244,
+      "word": "倾听运河新生的脉动",
+      "onboard_time": 1688786070,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38587,
       "num": 50688,
       "word": "怎么破解AI换脸诈骗",
@@ -13601,14 +13641,6 @@
       "onboard_time": 1688617302,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30544,
-      "num": 1721244,
-      "word": "倾听运河新生的脉动",
-      "onboard_time": 1688786070,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29549,
