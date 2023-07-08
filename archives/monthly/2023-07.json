@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688836545860,
+  "endTime": 1688837625085,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -8379,6 +8379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458289,
+      "num": 458289,
+      "word": "不能笑的待爆帝",
+      "onboard_time": 1688833827,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457866,
       "num": 228956,
       "word": "小暑",
@@ -9265,14 +9273,6 @@
       "onboard_time": 1688643333,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 406925,
-      "num": 406925,
-      "word": "不能笑的待爆帝",
-      "onboard_time": 1688833827,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 406542,
@@ -13315,6 +13315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266520,
+      "num": 165863,
+      "word": "汪苏泷又在寻宝藏了",
+      "onboard_time": 1688834246,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266463,
       "num": 266463,
       "word": "什么病人明明是我本人",
@@ -13737,14 +13745,6 @@
       "onboard_time": 1688790274,
       "rank": 35,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 256850,
-      "num": 165863,
-      "word": "汪苏泷又在寻宝藏了",
-      "onboard_time": 1688834246,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 256610,
@@ -15256,6 +15256,14 @@
       "word": "韩素希将出演新剧鬼怪",
       "onboard_time": 1688400213,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 225162,
+      "num": 131973,
+      "word": "内娱有效播剧的演员",
+      "onboard_time": 1688835564,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -18643,14 +18651,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 159725,
-      "num": 131973,
-      "word": "内娱有效播剧的演员",
-      "onboard_time": 1688835564,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 159610,
       "num": 159610,
       "word": "你可知我们五百年前就相识",
@@ -19353,6 +19353,14 @@
       "onboard_time": 1688368726,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122187,
+      "num": 113401,
+      "word": "郁可唯上海演唱会",
+      "onboard_time": 1688836823,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 121225,
@@ -20201,6 +20209,14 @@
       "onboard_time": 1688488224,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56329,
+      "num": 93044,
+      "word": "LGD新首发阵容",
+      "onboard_time": 1688836880,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 54812,
