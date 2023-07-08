@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688837625085,
+  "endTime": 1688840537452,
   "band_list": [
     {
       "raw_hot": 1344980,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138733,
+      "num": 87688,
+      "word": "卷福或将出演唐探4",
+      "onboard_time": 1688838439,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138630,
       "num": 202940,
       "word": "WBG积分榜",
@@ -443,12 +451,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56329,
+      "raw_hot": 109842,
+      "num": 85378,
+      "word": "赵露思虞书欣业内评价口碑",
+      "onboard_time": 1688839039,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102548,
+      "num": 83915,
+      "word": "拍毕业照时把前女友砸到了",
+      "onboard_time": 1688837839,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73118,
       "num": 93044,
       "word": "LGD新首发阵容",
       "onboard_time": 1688836880,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58743,
+      "num": 57435,
+      "word": "Angelababy豹纹露腰背心",
+      "onboard_time": 1688840416,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 48365,

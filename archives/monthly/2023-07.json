@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688837625085,
+  "endTime": 1688840537452,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -19163,6 +19163,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 138733,
+      "num": 87688,
+      "word": "卷福或将出演唐探4",
+      "onboard_time": 1688838439,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136225,
       "num": 136225,
       "word": "卡脚萌娃发语音奶声奶气感谢消防员",
@@ -19515,6 +19523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 109842,
+      "num": 85378,
+      "word": "赵露思虞书欣业内评价口碑",
+      "onboard_time": 1688839039,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109373,
       "num": 361553,
       "word": "高性能手机用起来有多爽",
@@ -19625,6 +19641,14 @@
       "onboard_time": 1688581397,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102548,
+      "num": 83915,
+      "word": "拍毕业照时把前女友砸到了",
+      "onboard_time": 1688837839,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 102389,
@@ -20035,6 +20059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 73118,
+      "num": 93044,
+      "word": "LGD新首发阵容",
+      "onboard_time": 1688836880,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72851,
       "num": 72851,
       "word": "要有足够的悲伤才能忍住不哭",
@@ -20171,6 +20203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58743,
+      "num": 57435,
+      "word": "Angelababy豹纹露腰背心",
+      "onboard_time": 1688840416,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58647,
       "num": 58647,
       "word": "大叔被列车上举手尝零食的学生逗笑",
@@ -20209,14 +20249,6 @@
       "onboard_time": 1688488224,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56329,
-      "num": 93044,
-      "word": "LGD新首发阵容",
-      "onboard_time": 1688836880,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 54812,
