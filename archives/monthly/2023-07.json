@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688844826609,
+  "endTime": 1688847530870,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -20435,6 +20435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38973,
+      "num": 52828,
+      "word": "你会为了省钱放弃喜欢的东西吗",
+      "onboard_time": 1688843535,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38587,
       "num": 50688,
       "word": "怎么破解AI换脸诈骗",
@@ -20465,6 +20473,14 @@
       "onboard_time": 1688582355,
       "rank": 47,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 37569,
+      "num": 52835,
+      "word": "健身房被淹教练无奈抱蛋白粉出来",
+      "onboard_time": 1688843535,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36661,
@@ -20531,14 +20547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31269,
-      "num": 52835,
-      "word": "健身房被淹教练无奈抱蛋白粉出来",
-      "onboard_time": 1688843535,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31098,
       "num": 195862,
       "word": "吃中国面挺中国队",
@@ -20560,14 +20568,6 @@
       "word": "王冠说热情好客流淌在山东人血液里",
       "onboard_time": 1688758273,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28375,
-      "num": 52828,
-      "word": "你会为了省钱放弃喜欢的东西吗",
-      "onboard_time": 1688843535,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -20593,6 +20593,14 @@
       "onboard_time": 1688324533,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25563,
+      "num": 28602,
+      "word": "GEN战胜T1",
+      "onboard_time": 1688845036,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 21998,

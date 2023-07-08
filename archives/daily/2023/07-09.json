@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688844826609,
+  "endTime": 1688847530870,
   "band_list": [
     {
       "raw_hot": 1344980,
@@ -523,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38973,
+      "num": 52828,
+      "word": "你会为了省钱放弃喜欢的东西吗",
+      "onboard_time": 1688843535,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37569,
+      "num": 52835,
+      "word": "健身房被淹教练无奈抱蛋白粉出来",
+      "onboard_time": 1688843535,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34907,
       "num": 820117,
       "word": "守护高温下的户外劳动者",
@@ -531,20 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31269,
-      "num": 52835,
-      "word": "健身房被淹教练无奈抱蛋白粉出来",
-      "onboard_time": 1688843535,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28375,
-      "num": 52828,
-      "word": "你会为了省钱放弃喜欢的东西吗",
-      "onboard_time": 1688843535,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 25563,
+      "num": 28602,
+      "word": "GEN战胜T1",
+      "onboard_time": 1688845036,
+      "rank": 39,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
