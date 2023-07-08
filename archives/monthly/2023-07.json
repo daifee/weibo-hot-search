@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688840537452,
+  "endTime": 1688841374038,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -19419,6 +19419,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 118496,
+      "num": 85378,
+      "word": "赵露思虞书欣业内评价口碑",
+      "onboard_time": 1688839039,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117598,
       "num": 117598,
       "word": "92岁奶奶被人碰倒直言咱不赖人",
@@ -19521,14 +19529,6 @@
       "onboard_time": 1688803952,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 109842,
-      "num": 85378,
-      "word": "赵露思虞书欣业内评价口碑",
-      "onboard_time": 1688839039,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 109373,
@@ -20107,6 +20107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68859,
+      "num": 67884,
+      "word": "Angelababy豹纹露腰背心",
+      "onboard_time": 1688840416,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68667,
       "num": 1636168,
       "word": "高温下坚守的人",
@@ -20201,14 +20209,6 @@
       "onboard_time": 1688755215,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 58743,
-      "num": 57435,
-      "word": "Angelababy豹纹露腰背心",
-      "onboard_time": 1688840416,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 58647,
