@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688814887710,
+  "endTime": 1688816025328,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1611,6 +1611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1697384,
+      "num": 1697384,
+      "word": "第一次上交工资就被警察查了",
+      "onboard_time": 1688811872,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1693557,
       "num": 1693557,
       "word": "杭州女子买彩票误打误撞中了一千万",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1688700932,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1582682,
-      "num": 1582682,
-      "word": "第一次上交工资就被警察查了",
-      "onboard_time": 1688811872,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1561314,
@@ -4508,7 +4508,7 @@
     },
     {
       "raw_hot": 780289,
-      "num": 259830,
+      "num": 338982,
       "word": "男子称在酒店床上发现排泄物",
       "onboard_time": 1688813611,
       "rank": 20,
@@ -5251,6 +5251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 691291,
+      "num": 1554712,
+      "word": "唤醒植物人丈夫后她退还18万元善款",
+      "onboard_time": 1688811631,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 690478,
       "num": 310970,
       "word": "想你的365天",
@@ -5419,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 676669,
+      "num": 572000,
+      "word": "荷兰政府宣布将集体辞职",
+      "onboard_time": 1688813492,
+      "rank": 30,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 674195,
       "num": 674195,
       "word": "张雪峰称老师家长告诉你的全是真的",
@@ -5537,14 +5553,6 @@
       "onboard_time": 1688277393,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665145,
-      "num": 1447117,
-      "word": "唤醒植物人丈夫后她退还18万元善款",
-      "onboard_time": 1688811631,
-      "rank": 22,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 665100,
@@ -6177,6 +6185,14 @@
       "onboard_time": 1688252477,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606543,
+      "num": 606543,
+      "word": "TMEA红毯",
+      "onboard_time": 1688814871,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 604862,
@@ -6820,7 +6836,7 @@
     },
     {
       "raw_hot": 550016,
-      "num": 269240,
+      "num": 328170,
       "word": "女儿因蛋糕贵大哭求妈妈退款",
       "onboard_time": 1688811451,
       "rank": 47,
@@ -8129,14 +8145,6 @@
       "onboard_time": 1688779712,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457896,
-      "num": 222596,
-      "word": "荷兰政府宣布将集体辞职",
-      "onboard_time": 1688813492,
-      "rank": 30,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 457866,
@@ -9457,6 +9465,14 @@
       "onboard_time": 1688704000,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386010,
+      "num": 386010,
+      "word": "TMEA音乐盛典",
+      "onboard_time": 1688815172,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 385994,
@@ -11571,6 +11587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308452,
+      "num": 308452,
+      "word": "会谈恋爱的女生是什么样的",
+      "onboard_time": 1688810733,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307965,
       "num": 307965,
       "word": "河马炫西瓜么得技术全是感情",
@@ -11635,20 +11659,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305823,
+      "num": 305823,
+      "word": "LESSERAFIM用中文打招呼",
+      "onboard_time": 1688815652,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 305635,
       "num": 305635,
       "word": "speak now",
       "onboard_time": 1688704362,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 305616,
-      "num": 280396,
-      "word": "会谈恋爱的女生是什么样的",
-      "onboard_time": 1688810733,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 305503,
@@ -12172,7 +12196,7 @@
     },
     {
       "raw_hot": 290220,
-      "num": 251198,
+      "num": 288372,
       "word": "山东人被正式确诊为铁扇公主",
       "onboard_time": 1688813371,
       "rank": 24,
@@ -13059,14 +13083,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 264262,
-      "num": 222239,
-      "word": "TMEA红毯",
-      "onboard_time": 1688814871,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 264106,
       "num": 264106,
       "word": "谢娜旗袍劈叉",
@@ -13931,6 +13947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245838,
+      "num": 245838,
+      "word": "上海迪士尼回应禁止游客带凳子入园",
+      "onboard_time": 1688814811,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245811,
       "num": 245811,
       "word": "亚运会名单",
@@ -14145,6 +14169,14 @@
       "onboard_time": 1688534796,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241292,
+      "num": 241292,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1688815471,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 241106,
@@ -14553,6 +14585,14 @@
       "onboard_time": 1688113056,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230151,
+      "num": 230151,
+      "word": "檀健次邓为穿松糕鞋不告诉张晚意",
+      "onboard_time": 1688815231,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 230013,
@@ -15299,6 +15339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216309,
+      "num": 216309,
+      "word": "法老C级浪漫",
+      "onboard_time": 1688815893,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216087,
       "num": 216087,
       "word": "杭州亚运首批售票项目该怎么选",
@@ -15891,6 +15939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206509,
+      "num": 206509,
+      "word": "国产车在老外的眼里有何魅力",
+      "onboard_time": 1688815952,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 206484,
       "num": 206484,
       "word": "消失的她票房破15亿",
@@ -16425,6 +16481,14 @@
       "onboard_time": 1688459858,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195479,
+      "num": 203354,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1688812591,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 195337,
@@ -17097,14 +17161,6 @@
       "onboard_time": 1688552134,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 183321,
-      "num": 203354,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1688812591,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 182826,
@@ -18547,14 +18603,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 137793,
-      "num": 203256,
-      "word": "上海迪士尼回应禁止游客带凳子入园",
-      "onboard_time": 1688814811,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136225,
       "num": 136225,
       "word": "卡脚萌娃发语音奶声奶气感谢消防员",
@@ -19731,6 +19779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35631,
+      "num": 203342,
+      "word": "王鹤棣导航太上头了",
+      "onboard_time": 1688814030,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35390,
       "num": 126977,
       "word": "温网2023",
@@ -19849,14 +19905,6 @@
       "onboard_time": 1688500931,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16647,
-      "num": 203342,
-      "word": "王鹤棣导航太上头了",
-      "onboard_time": 1688814030,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 11854,

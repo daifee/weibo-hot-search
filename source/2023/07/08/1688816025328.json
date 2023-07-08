@@ -1,0 +1,410 @@
+{
+  "runTime": 1688816025328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1697384,
+        "num": 1697384,
+        "word": "第一次上交工资就被警察查了",
+        "onboard_time": 1688811872,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 691291,
+        "num": 1554712,
+        "word": "唤醒植物人丈夫后她退还18万元善款",
+        "onboard_time": 1688811631,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 55684,
+        "num": 1493205,
+        "word": "世界遗产在中国",
+        "onboard_time": 1688803593,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1447236,
+        "num": 1447236,
+        "word": "Angelababy生孩子期间打上武则天高位",
+        "onboard_time": 1688800471,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338840,
+        "num": 1172736,
+        "word": "男孩买药欲轻生被店员路人劝下",
+        "onboard_time": 1688804013,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098745,
+        "num": 1098745,
+        "word": "澳门偶遇",
+        "onboard_time": 1688808152,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237412,
+        "num": 758963,
+        "word": "12岁女孩搬啤酒炸裂一地后",
+        "onboard_time": 1688793452,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606543,
+        "num": 606543,
+        "word": "TMEA红毯",
+        "onboard_time": 1688814871,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 586834,
+        "num": 586834,
+        "word": "姆巴佩",
+        "onboard_time": 1688810491,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 584327,
+        "num": 584327,
+        "word": "鹿晗好喜欢戴金手链",
+        "onboard_time": 1688809109,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 676669,
+        "num": 572000,
+        "word": "荷兰政府宣布将集体辞职",
+        "onboard_time": 1688813492,
+        "rank": 10,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 557633,
+        "num": 557633,
+        "word": "杨洋拍戏拍到中暑呕吐",
+        "onboard_time": 1688810374,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543604,
+        "num": 543604,
+        "word": "李玟二姐喊话让知情人站出来",
+        "onboard_time": 1688798129,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437683,
+        "num": 437683,
+        "word": "9个孩子被骗缅甸遭电击开水烫",
+        "onboard_time": 1688797351,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436521,
+        "num": 436521,
+        "word": "花傲天上场",
+        "onboard_time": 1688811991,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 428991,
+        "num": 428991,
+        "word": "猴痘病毒是怎么感染的",
+        "onboard_time": 1688810313,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386010,
+        "num": 386010,
+        "word": "TMEA音乐盛典",
+        "onboard_time": 1688815172,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379186,
+        "num": 379186,
+        "word": "群演谈肖战",
+        "onboard_time": 1688811091,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351663,
+        "num": 351663,
+        "word": "德国女生坚持跑步20周成功蜕变",
+        "onboard_time": 1688801853,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368670,
+        "num": 344169,
+        "word": "任敏和猪猪侠",
+        "onboard_time": 1688809712,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 665168,
+        "num": 338982,
+        "word": "男子称在酒店床上发现排泄物",
+        "onboard_time": 1688813611,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480307,
+        "num": 328170,
+        "word": "女儿因蛋糕贵大哭求妈妈退款",
+        "onboard_time": 1688811451,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423150,
+        "num": 315006,
+        "word": "宋轶真的穿白色衣服了",
+        "onboard_time": 1688811330,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308452,
+        "num": 308452,
+        "word": "会谈恋爱的女生是什么样的",
+        "onboard_time": 1688810733,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305823,
+        "num": 305823,
+        "word": "LESSERAFIM用中文打招呼",
+        "onboard_time": 1688815652,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288372,
+        "num": 288372,
+        "word": "山东人被正式确诊为铁扇公主",
+        "onboard_time": 1688813371,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277229,
+        "num": 277229,
+        "word": "胡一统都当校长了",
+        "onboard_time": 1688801192,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275169,
+        "num": 275169,
+        "word": "杨天真考北大博士失败",
+        "onboard_time": 1688800230,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245838,
+        "num": 245838,
+        "word": "上海迪士尼回应禁止游客带凳子入园",
+        "onboard_time": 1688814811,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245539,
+        "num": 245539,
+        "word": "王楚然微指破亿",
+        "onboard_time": 1688810612,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243951,
+        "num": 243951,
+        "word": "消失的她前传 怎么能算清白呢",
+        "onboard_time": 1688806714,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241292,
+        "num": 241292,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1688815471,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230151,
+        "num": 230151,
+        "word": "檀健次邓为穿松糕鞋不告诉张晚意",
+        "onboard_time": 1688815231,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220267,
+        "num": 220267,
+        "word": "坐电梯坐到张杰谢娜家",
+        "onboard_time": 1688789792,
+        "rank": 33,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 216309,
+        "num": 216309,
+        "word": "法老C级浪漫",
+        "onboard_time": 1688815893,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206509,
+        "num": 206509,
+        "word": "国产车在老外的眼里有何魅力",
+        "onboard_time": 1688815952,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 195479,
+        "num": 195479,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1688812591,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191129,
+        "num": 191129,
+        "word": "英国一年制硕士水吗",
+        "onboard_time": 1688798668,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181609,
+        "num": 181609,
+        "word": "妈妈让弟弟接28岁的我",
+        "onboard_time": 1688799270,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35631,
+        "num": 173803,
+        "word": "王鹤棣导航太上头了",
+        "onboard_time": 1688814030,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189299,
+        "num": 173764,
+        "word": "八角笼中",
+        "onboard_time": 1688802154,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173433,
+        "num": 173433,
+        "word": "当村门口路过一个年轻陌生人时",
+        "onboard_time": 1688812351,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171638,
+        "num": 171638,
+        "word": "哈尔滨成功申办2025亚冬会",
+        "onboard_time": 1688798909,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 170425,
+        "num": 170425,
+        "word": "身边的超级致癌物 黄曲霉菌",
+        "onboard_time": 1688782053,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165935,
+        "num": 165935,
+        "word": "超级防窥屏聊天背景 杀敌一千自损八百",
+        "onboard_time": 1688798789,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164974,
+        "num": 164974,
+        "word": "消失的她观影人次破7000万",
+        "onboard_time": 1688812291,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162893,
+        "num": 162893,
+        "word": "入职3天因公司氛围不好离职了",
+        "onboard_time": 1688804552,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162193,
+        "num": 162193,
+        "word": "杨紫问张晚意怎么瘦的",
+        "onboard_time": 1688805812,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161980,
+        "num": 161980,
+        "word": "全员加速中",
+        "onboard_time": 1688813071,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159598,
+        "num": 159598,
+        "word": "猴痘可能使人短期毁容",
+        "onboard_time": 1688797290,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美鼓岭情缘为何延续至今#"
+    }
+  }
+}
