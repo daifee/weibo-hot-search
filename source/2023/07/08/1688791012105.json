@@ -1,0 +1,410 @@
+{
+  "runTime": 1688791012105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2561107,
+        "num": 2561107,
+        "word": "身边的超级致癌物 黄曲霉菌",
+        "onboard_time": 1688782053,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2301723,
+        "num": 2301723,
+        "word": "爱宝",
+        "onboard_time": 1688774007,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39127,
+        "num": 1575884,
+        "word": "倾听运河新生的脉动",
+        "onboard_time": 1688786070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861682,
+        "num": 861682,
+        "word": "多地有猴痘普通人感染几率会增大吗",
+        "onboard_time": 1688787332,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859028,
+        "num": 859028,
+        "word": "夫妇彩票中3亿7年后各自和新人住豪宅",
+        "onboard_time": 1688780611,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 802478,
+        "num": 802478,
+        "word": "布兰妮被掌掴视频曝光",
+        "onboard_time": 1688780495,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794800,
+        "num": 794800,
+        "word": "iPhone15Pro系列将采用深蓝色",
+        "onboard_time": 1688786312,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 767244,
+        "num": 767244,
+        "word": "柳玉茹 假死",
+        "onboard_time": 1688782536,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611097,
+        "num": 611097,
+        "word": "张杰超话 答题",
+        "onboard_time": 1688789971,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599808,
+        "num": 599808,
+        "word": "读了一天博了",
+        "onboard_time": 1688784631,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1176069,
+        "num": 596391,
+        "word": "坐电梯坐到张杰谢娜家",
+        "onboard_time": 1688789792,
+        "rank": 10,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 568107,
+        "num": 568107,
+        "word": "男生考上研究生辞掉上万月薪工作",
+        "onboard_time": 1688780553,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 534663,
+        "num": 534663,
+        "word": "福宝要当姐姐了",
+        "onboard_time": 1688784087,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499786,
+        "num": 499786,
+        "word": "女子回应赚5亿不如月薪5千生娃好",
+        "onboard_time": 1688775691,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 194942,
+        "num": 477237,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1688788830,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 458067,
+        "num": 458067,
+        "word": "金虎",
+        "onboard_time": 1688788951,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440820,
+        "num": 440820,
+        "word": "文咏珊送给李木子的海底星空",
+        "onboard_time": 1688788711,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430559,
+        "num": 430559,
+        "word": "肖战以后还演古偶吗",
+        "onboard_time": 1688782112,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429487,
+        "num": 429487,
+        "word": "谢娜自己淘汰自己",
+        "onboard_time": 1688779171,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408124,
+        "num": 408124,
+        "word": "向往的生活结尾看到了谁",
+        "onboard_time": 1688785652,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646596,
+        "num": 405007,
+        "word": "男子便秘自行灌肠致肠穿孔休克",
+        "onboard_time": 1688789555,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419580,
+        "num": 402895,
+        "word": "崔胜澈白发",
+        "onboard_time": 1688784394,
+        "rank": 21,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 399722,
+        "num": 399722,
+        "word": "沈月谈要不要生小孩",
+        "onboard_time": 1688784271,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384715,
+        "num": 384715,
+        "word": "为seventeen点播一首hot",
+        "onboard_time": 1688787694,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361364,
+        "num": 361364,
+        "word": "点外卖点到在骑手群出名了",
+        "onboard_time": 1688782230,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334893,
+        "num": 334893,
+        "word": "当事人回应私搭浮桥一家18口被判刑",
+        "onboard_time": 1688789672,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325225,
+        "num": 325225,
+        "word": "文班亚马NBA首秀",
+        "onboard_time": 1688787511,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323840,
+        "num": 323840,
+        "word": "邓伦被强制执行",
+        "onboard_time": 1688730994,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 320327,
+        "num": 320327,
+        "word": "INFP 命运会让我们相遇",
+        "onboard_time": 1688789431,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305936,
+        "num": 305936,
+        "word": "文班亚马拒绝向布兰妮遭掌掴道歉",
+        "onboard_time": 1688781872,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301899,
+        "num": 301899,
+        "word": "杨迪说杨紫是软体动物",
+        "onboard_time": 1688787392,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295839,
+        "num": 295839,
+        "word": "这才是女生该有的小金库",
+        "onboard_time": 1688788112,
+        "rank": 31,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 289205,
+        "num": 289205,
+        "word": "外媒报道李玟去世形容巨星陨落",
+        "onboard_time": 1688773287,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288597,
+        "num": 288597,
+        "word": "茶百道 未定事件簿",
+        "onboard_time": 1688782472,
+        "rank": 33,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 273866,
+        "num": 273866,
+        "word": "专家说秦二世被冤枉了2000多年",
+        "onboard_time": 1688781092,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257018,
+        "num": 257018,
+        "word": "四岁男孩走失到派出所连炫3瓶奶",
+        "onboard_time": 1688790274,
+        "rank": 35,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 252272,
+        "num": 252272,
+        "word": "蔡依林演唱会武汉站预售",
+        "onboard_time": 1688788471,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242436,
+        "num": 242436,
+        "word": "先救女友情侣送完锦旗后订婚了",
+        "onboard_time": 1688781213,
+        "rank": 37,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 238812,
+        "num": 238812,
+        "word": "李玟",
+        "onboard_time": 1688775270,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232648,
+        "num": 232648,
+        "word": "TMEA音乐盛典节目单",
+        "onboard_time": 1688789312,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228233,
+        "num": 228233,
+        "word": "绘旅人珠宝之心",
+        "onboard_time": 1688790690,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205707,
+        "num": 205707,
+        "word": "张馨予火锅前vs火锅后",
+        "onboard_time": 1688786192,
+        "rank": 41,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 200237,
+        "num": 200237,
+        "word": "奔跑吧",
+        "onboard_time": 1688774609,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199032,
+        "num": 199032,
+        "word": "TFBOYS会合体集训",
+        "onboard_time": 1688743721,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192162,
+        "num": 192162,
+        "word": "花花在大运会宣传片里出镜了",
+        "onboard_time": 1688783911,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190563,
+        "num": 190563,
+        "word": "村民私建浮桥被判刑当地法院已立案",
+        "onboard_time": 1688790152,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177355,
+        "num": 177355,
+        "word": "战至巅峰2开播",
+        "onboard_time": 1688783073,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173925,
+        "num": 173925,
+        "word": "魏大勋演技",
+        "onboard_time": 1688784212,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167754,
+        "num": 167754,
+        "word": "需要自己盖宿舍的大学",
+        "onboard_time": 1688783612,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166358,
+        "num": 166358,
+        "word": "布莱泽奥特曼",
+        "onboard_time": 1688787153,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江苏考察#"
+    }
+  }
+}

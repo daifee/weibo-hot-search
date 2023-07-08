@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688790151703,
+  "endTime": 1688791012105,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -65,6 +65,14 @@
       "onboard_time": 1688779229,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1176069,
+      "num": 596391,
+      "word": "坐电梯坐到张杰谢娜家",
+      "onboard_time": 1688789792,
+      "rank": 31,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 1173599,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 861682,
+      "num": 861682,
+      "word": "多地有猴痘普通人感染几率会增大吗",
+      "onboard_time": 1688787332,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848584,
       "num": 848584,
       "word": "原来快递员能看见快递里面是啥",
@@ -203,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 763485,
-      "num": 763485,
-      "word": "多地有猴痘普通人感染几率会增大吗",
-      "onboard_time": 1688787332,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 752557,
       "num": 724885,
       "word": "浙江人最近热成了孙悟空",
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 646596,
+      "num": 405007,
+      "word": "男子便秘自行灌肠致肠穿孔休克",
+      "onboard_time": 1688789555,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632980,
       "num": 632980,
       "word": "孙红雷 他说的全是我的词啊",
@@ -281,6 +297,14 @@
       "onboard_time": 1688771060,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 611097,
+      "num": 611097,
+      "word": "张杰超话 答题",
+      "onboard_time": 1688789971,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 608613,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 484983,
-      "num": 364234,
+      "num": 408124,
       "word": "向往的生活结尾看到了谁",
       "onboard_time": 1688785652,
       "rank": 35,
@@ -483,8 +507,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458067,
+      "num": 458067,
+      "word": "金虎",
+      "onboard_time": 1688788951,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442269,
-      "num": 322469,
+      "num": 440820,
       "word": "文咏珊送给李木子的海底星空",
       "onboard_time": 1688788711,
       "rank": 20,
@@ -516,7 +548,7 @@
     },
     {
       "raw_hot": 388946,
-      "num": 320845,
+      "num": 384715,
       "word": "为seventeen点播一首hot",
       "onboard_time": 1688787694,
       "rank": 49,
@@ -587,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349603,
-      "num": 270018,
-      "word": "男子便秘自行灌肠致肠穿孔休克",
-      "onboard_time": 1688789555,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340620,
       "num": 340620,
       "word": "你好星期六",
@@ -619,12 +643,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 334893,
+      "num": 334893,
+      "word": "当事人回应私搭浮桥一家18口被判刑",
+      "onboard_time": 1688789672,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333158,
       "num": 333158,
       "word": "先救女友情侣送完锦旗后订婚了",
       "onboard_time": 1688781213,
       "rank": 25,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 325225,
+      "num": 325225,
+      "word": "文班亚马NBA首秀",
+      "onboard_time": 1688787511,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 324695,
@@ -635,20 +675,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322932,
-      "num": 265519,
-      "word": "坐电梯坐到张杰谢娜家",
-      "onboard_time": 1688789792,
-      "rank": 31,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 321139,
       "num": 321139,
       "word": "苹果的苹还能组什么词",
       "onboard_time": 1688741622,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320327,
+      "num": 320327,
+      "word": "INFP 命运会让我们相遇",
+      "onboard_time": 1688789431,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 319201,
@@ -683,36 +723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314945,
-      "num": 319477,
-      "word": "张杰超话 答题",
-      "onboard_time": 1688789971,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 314859,
       "num": 299072,
       "word": "无骨鸡柳为什么消失了",
       "onboard_time": 1688729672,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 311715,
-      "num": 311715,
-      "word": "金虎",
-      "onboard_time": 1688788951,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310831,
-      "num": 310831,
-      "word": "文班亚马NBA首秀",
-      "onboard_time": 1688787511,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 309565,
@@ -755,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295839,
+      "num": 295839,
+      "word": "这才是女生该有的小金库",
+      "onboard_time": 1688788112,
+      "rank": 29,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 292594,
       "num": 292594,
       "word": "魏大勋演技",
@@ -795,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271674,
-      "num": 271674,
-      "word": "这才是女生该有的小金库",
-      "onboard_time": 1688788112,
-      "rank": 29,
-      "category": "时尚,幽默"
-    },
-    {
       "raw_hot": 260022,
       "num": 260022,
       "word": "牵手门董某某被解除劳动合同",
@@ -817,6 +833,14 @@
       "onboard_time": 1688739223,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257018,
+      "num": 257018,
+      "word": "四岁男孩走失到派出所连炫3瓶奶",
+      "onboard_time": 1688790274,
+      "rank": 35,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 255398,
@@ -899,12 +923,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232648,
+      "num": 232648,
+      "word": "TMEA音乐盛典节目单",
+      "onboard_time": 1688789312,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230215,
       "num": 193531,
       "word": "假如女儿出生就拥有妈妈的记忆",
       "onboard_time": 1688747190,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228233,
+      "num": 228233,
+      "word": "绘旅人珠宝之心",
+      "onboard_time": 1688790690,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 227851,
@@ -945,14 +985,6 @@
       "onboard_time": 1688746173,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219792,
-      "num": 219792,
-      "word": "当事人回应私搭浮桥一家18口被判刑",
-      "onboard_time": 1688789672,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216087,
@@ -1003,28 +1035,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 208997,
-      "num": 208997,
-      "word": "INFP 命运会让我们相遇",
-      "onboard_time": 1688789431,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208933,
       "num": 208933,
       "word": "蚂蚁集团回应被罚",
       "onboard_time": 1688734663,
       "rank": 44,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 208712,
-      "num": 208712,
-      "word": "TMEA音乐盛典节目单",
-      "onboard_time": 1688789312,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 208264,
@@ -1075,12 +1091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194942,
+      "num": 496490,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1688788830,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193123,
       "num": 193123,
       "word": "女童生病求安慰却不让爸爸开语音",
       "onboard_time": 1688778389,
       "rank": 47,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 190563,
+      "num": 190563,
+      "word": "村民私建浮桥被判刑当地法院已立案",
+      "onboard_time": 1688790152,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184491,
@@ -1121,14 +1153,6 @@
       "onboard_time": 1688736106,
       "rank": 46,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 141255,
-      "num": 496490,
-      "word": "时空中的绘旅人",
-      "onboard_time": 1688788830,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 130085,
@@ -1227,7 +1251,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 39051,
+      "raw_hot": 39127,
       "num": 1721244,
       "word": "倾听运河新生的脉动",
       "onboard_time": 1688786070,
