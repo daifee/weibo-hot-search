@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688843680354,
+  "endTime": 1688844826609,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -15203,20 +15203,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 60444,
+      "num": 55209,
+      "word": "杨紫觉得年龄大了挺好的",
+      "onboard_time": 1688842333,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59735,
       "num": 59735,
       "word": "有没有人考虑吴磊的感受",
       "onboard_time": 1688755215,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 59377,
-      "num": 53076,
-      "word": "杨紫觉得年龄大了挺好的",
-      "onboard_time": 1688842333,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 58070,
@@ -15475,19 +15475,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31269,
+      "num": 52835,
+      "word": "健身房被淹教练无奈抱蛋白粉出来",
+      "onboard_time": 1688843535,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31098,
       "num": 195862,
       "word": "吃中国面挺中国队",
       "onboard_time": 1688806832,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29641,
-      "num": 52835,
-      "word": "健身房被淹教练无奈抱蛋白粉出来",
-      "onboard_time": 1688843535,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
