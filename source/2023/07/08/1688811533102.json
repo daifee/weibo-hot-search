@@ -1,0 +1,410 @@
+{
+  "runTime": 1688811533102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728830,
+        "num": 1728830,
+        "word": "Angelababy生孩子期间打上武则天高位",
+        "onboard_time": 1688800471,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500097,
+        "num": 1597693,
+        "word": "男孩买药欲轻生被店员路人劝下",
+        "onboard_time": 1688804013,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90455,
+        "num": 1454242,
+        "word": "世界遗产在中国",
+        "onboard_time": 1688803593,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2341344,
+        "num": 1273752,
+        "word": "澳门偶遇",
+        "onboard_time": 1688808152,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369729,
+        "num": 1140261,
+        "word": "12岁女孩搬啤酒炸裂一地后",
+        "onboard_time": 1688793452,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067959,
+        "num": 1067959,
+        "word": "9个孩子被骗缅甸遭电击开水烫",
+        "onboard_time": 1688797351,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266783,
+        "num": 1033596,
+        "word": "男童挂窗外爸爸编织袋兜娃等救援",
+        "onboard_time": 1688807311,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025195,
+        "num": 1025195,
+        "word": "任敏和猪猪侠",
+        "onboard_time": 1688809712,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 826510,
+        "num": 826510,
+        "word": "李玟二姐喊话让知情人站出来",
+        "onboard_time": 1688798129,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769384,
+        "num": 769384,
+        "word": "鹿晗好喜欢戴金手链",
+        "onboard_time": 1688809109,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 568216,
+        "num": 568216,
+        "word": "消失的她前传 怎么能算清白呢",
+        "onboard_time": 1688806714,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553436,
+        "num": 553436,
+        "word": "德国女生坚持跑步20周成功蜕变",
+        "onboard_time": 1688801853,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543538,
+        "num": 543538,
+        "word": "魏大勋能看清电脑屏幕吗",
+        "onboard_time": 1688806051,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532501,
+        "num": 532501,
+        "word": "姆巴佩",
+        "onboard_time": 1688810491,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460391,
+        "num": 460391,
+        "word": "胡一统都当校长了",
+        "onboard_time": 1688801192,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408102,
+        "num": 408102,
+        "word": "身边的超级致癌物 黄曲霉菌",
+        "onboard_time": 1688782053,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404817,
+        "num": 404817,
+        "word": "英国一年制硕士水吗",
+        "onboard_time": 1688798668,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 386390,
+        "num": 386390,
+        "word": "杨紫问张晚意怎么瘦的",
+        "onboard_time": 1688805812,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384674,
+        "num": 384674,
+        "word": "你师父当年也选的工商",
+        "onboard_time": 1688804254,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357735,
+        "num": 357735,
+        "word": "哈尔滨成功申办2025亚冬会",
+        "onboard_time": 1688798909,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 377658,
+        "num": 355863,
+        "word": "杨洋拍戏拍到中暑呕吐",
+        "onboard_time": 1688810374,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351689,
+        "num": 351689,
+        "word": "现偶四大甜妹",
+        "onboard_time": 1688801555,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349939,
+        "num": 349939,
+        "word": "超级防窥屏聊天背景 杀敌一千自损八百",
+        "onboard_time": 1688798789,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339278,
+        "num": 339278,
+        "word": "猴痘病毒是怎么感染的",
+        "onboard_time": 1688810313,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303919,
+        "num": 326286,
+        "word": "猴痘可能使人短期毁容",
+        "onboard_time": 1688797290,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315857,
+        "num": 315857,
+        "word": "坐电梯坐到张杰谢娜家",
+        "onboard_time": 1688789792,
+        "rank": 25,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 314917,
+        "num": 314917,
+        "word": "杨天真考北大博士失败",
+        "onboard_time": 1688800230,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310835,
+        "num": 310835,
+        "word": "群演谈肖战",
+        "onboard_time": 1688811091,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256274,
+        "num": 256274,
+        "word": "妈妈让弟弟接28岁的我",
+        "onboard_time": 1688799270,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242740,
+        "num": 242740,
+        "word": "Bin格温",
+        "onboard_time": 1688809295,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297634,
+        "num": 242589,
+        "word": "八角笼中",
+        "onboard_time": 1688802154,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425532,
+        "num": 242413,
+        "word": "上海地铁一女子发表辱华言论",
+        "onboard_time": 1688792911,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273257,
+        "num": 242017,
+        "word": "会谈恋爱的女生是什么样的",
+        "onboard_time": 1688810733,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256967,
+        "num": 241674,
+        "word": "王楚然微指破亿",
+        "onboard_time": 1688810612,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241565,
+        "num": 241565,
+        "word": "入职3天因公司氛围不好离职了",
+        "onboard_time": 1688804552,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232621,
+        "num": 232621,
+        "word": "时代少年团叁重楼回归时间表",
+        "onboard_time": 1688808692,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206960,
+        "num": 206960,
+        "word": "因为不吃鱼籽和男朋友吵架了",
+        "onboard_time": 1688809055,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 205113,
+        "num": 205113,
+        "word": "爷爷攒了很久的钱带我去买了长命锁",
+        "onboard_time": 1688809055,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193061,
+        "num": 193061,
+        "word": "美依礼芽镜头",
+        "onboard_time": 1688801014,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191111,
+        "num": 191111,
+        "word": "发现一直踩错了上班的点",
+        "onboard_time": 1688806353,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190221,
+        "num": 190221,
+        "word": "宋轶真的穿白色衣服了",
+        "onboard_time": 1688811330,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188785,
+        "num": 188785,
+        "word": "WE对战RNG",
+        "onboard_time": 1688810972,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186618,
+        "num": 186618,
+        "word": "王鹤棣李晨水上俯卧撑",
+        "onboard_time": 1688805393,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177452,
+        "num": 177452,
+        "word": "5旬失独母亲试管产下新生儿",
+        "onboard_time": 1688793154,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177254,
+        "num": 177254,
+        "word": "网友对屈楚萧的忠告",
+        "onboard_time": 1688802512,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171816,
+        "num": 171816,
+        "word": "这是桑稚段嘉许",
+        "onboard_time": 1688806769,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169451,
+        "num": 169451,
+        "word": "在医院实习被带教老师吐槽了",
+        "onboard_time": 1688809055,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158757,
+        "num": 158757,
+        "word": "女儿因蛋糕贵大哭求妈妈退款",
+        "onboard_time": 1688811451,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157302,
+        "num": 157302,
+        "word": "Wolves对战MRC",
+        "onboard_time": 1688810491,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153129,
+        "num": 153129,
+        "word": "扫毒3",
+        "onboard_time": 1688808572,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#走在前做示范江苏有能力也有责任#"
+    }
+  }
+}

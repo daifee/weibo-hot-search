@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688808844965,
+  "endTime": 1688811533102,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -689,6 +689,14 @@
       "onboard_time": 1688400034,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2341344,
+      "num": 1273752,
+      "word": "澳门偶遇",
+      "onboard_time": 1688808152,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 2341062,
@@ -2331,14 +2339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1052873,
-      "num": 1052873,
-      "word": "澳门偶遇",
-      "onboard_time": 1688808152,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1051918,
       "num": 645239,
       "word": "短发女警刘欣走了",
@@ -2409,6 +2409,14 @@
       "onboard_time": 1688462737,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1025195,
+      "num": 1025195,
+      "word": "任敏和猪猪侠",
+      "onboard_time": 1688809712,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1019523,
@@ -3609,6 +3617,14 @@
       "onboard_time": 1688439696,
       "rank": 28,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 769384,
+      "num": 769384,
+      "word": "鹿晗好喜欢戴金手链",
+      "onboard_time": 1688809109,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 768979,
@@ -5355,6 +5371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 532501,
+      "num": 532501,
+      "word": "姆巴佩",
+      "onboard_time": 1688810491,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530769,
       "num": 530769,
       "word": "白桃星座",
@@ -5641,6 +5665,14 @@
       "onboard_time": 1688620066,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 500097,
+      "num": 1597693,
+      "word": "男孩买药欲轻生被店员路人劝下",
+      "onboard_time": 1688804013,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499233,
@@ -6217,14 +6249,6 @@
       "onboard_time": 1688466158,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 451570,
-      "num": 451570,
-      "word": "男孩买药欲轻生被店员路人劝下",
-      "onboard_time": 1688804013,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451487,
@@ -7092,7 +7116,7 @@
     },
     {
       "raw_hot": 383380,
-      "num": 383380,
+      "num": 1140261,
       "word": "12岁女孩搬啤酒炸裂一地后",
       "onboard_time": 1688793452,
       "rank": 29,
@@ -7201,6 +7225,14 @@
       "onboard_time": 1688356341,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377658,
+      "num": 355863,
+      "word": "杨洋拍戏拍到中暑呕吐",
+      "onboard_time": 1688810374,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 376530,
@@ -7947,6 +7979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339278,
+      "num": 339278,
+      "word": "猴痘病毒是怎么感染的",
+      "onboard_time": 1688810313,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338782,
       "num": 460885,
       "word": "P人的一生",
@@ -8585,6 +8625,14 @@
       "onboard_time": 1688706821,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310835,
+      "num": 310835,
+      "word": "群演谈肖战",
+      "onboard_time": 1688811091,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310669,
@@ -9531,6 +9579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 273257,
+      "num": 242017,
+      "word": "会谈恋爱的女生是什么样的",
+      "onboard_time": 1688810733,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272843,
       "num": 262231,
       "word": "同事说我把别人的萝卜岗占了",
@@ -9609,6 +9665,14 @@
       "onboard_time": 1688531622,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 266783,
+      "num": 1033596,
+      "word": "男童挂窗外爸爸编织袋兜娃等救援",
+      "onboard_time": 1688807311,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266615,
@@ -9867,6 +9931,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 256967,
+      "num": 241674,
+      "word": "王楚然微指破亿",
+      "onboard_time": 1688810612,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256610,
       "num": 256610,
       "word": "男子为献血保持身材20年不变",
@@ -10123,14 +10195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249416,
-      "num": 249416,
-      "word": "男童挂窗外爸爸编织袋兜娃等救援",
-      "onboard_time": 1688807311,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249396,
       "num": 316621,
       "word": "没有一只鸡会被热死在天津高速上",
@@ -10361,6 +10425,14 @@
       "onboard_time": 1688534975,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242740,
+      "num": 242740,
+      "word": "Bin格温",
+      "onboard_time": 1688809295,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 242523,
@@ -10609,6 +10681,14 @@
       "onboard_time": 1688789312,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232621,
+      "num": 232621,
+      "word": "时代少年团叁重楼回归时间表",
+      "onboard_time": 1688808692,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 232499,
@@ -11563,6 +11643,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 206960,
+      "num": 206960,
+      "word": "因为不吃鱼籽和男朋友吵架了",
+      "onboard_time": 1688809055,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 206894,
       "num": 206894,
       "word": "合肥晚霞",
@@ -11616,6 +11704,14 @@
       "word": "直击美国财长耶伦访华",
       "onboard_time": 1688638959,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "爷爷攒了很久的钱带我去买了长命锁",
+      "onboard_time": 1688809055,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -12307,6 +12403,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 190221,
+      "num": 190221,
+      "word": "宋轶真的穿白色衣服了",
+      "onboard_time": 1688811330,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190097,
       "num": 190097,
       "word": "原神菲米尼",
@@ -12353,6 +12457,14 @@
       "onboard_time": 1688685746,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188785,
+      "num": 188785,
+      "word": "WE对战RNG",
+      "onboard_time": 1688810972,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 188376,
@@ -12617,14 +12729,6 @@
       "onboard_time": 1688459077,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 177437,
-      "num": 170263,
-      "word": "时代少年团叁重楼回归时间表",
-      "onboard_time": 1688808692,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 177423,
@@ -12947,6 +13051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169451,
+      "num": 169451,
+      "word": "在医院实习被带教老师吐槽了",
+      "onboard_time": 1688809055,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169066,
       "num": 169066,
       "word": "张静初到底有多少碎花裙",
@@ -13171,6 +13283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158757,
+      "num": 158757,
+      "word": "女儿因蛋糕贵大哭求妈妈退款",
+      "onboard_time": 1688811451,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158715,
       "num": 158715,
       "word": "战至巅峰2",
@@ -13257,6 +13377,14 @@
       "onboard_time": 1688383839,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157302,
+      "num": 157302,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1688810491,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 156835,

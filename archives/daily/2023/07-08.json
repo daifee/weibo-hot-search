@@ -1,6 +1,6 @@
 {
   "startTime": 1688747114779,
-  "endTime": 1688808844965,
+  "endTime": 1688811533102,
   "band_list": [
     {
       "raw_hot": 2695633,
@@ -25,6 +25,14 @@
       "onboard_time": 1688774007,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2341344,
+      "num": 1273752,
+      "word": "澳门偶遇",
+      "onboard_time": 1688808152,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 2326353,
@@ -147,20 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1052873,
-      "num": 1052873,
-      "word": "澳门偶遇",
-      "onboard_time": 1688808152,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1035881,
       "num": 1035881,
       "word": "TFBOYS会合体集训",
       "onboard_time": 1688743721,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1025195,
+      "num": 1025195,
+      "word": "任敏和猪猪侠",
+      "onboard_time": 1688809712,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1007120,
@@ -345,6 +353,14 @@
       "onboard_time": 1688789555,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769384,
+      "num": 769384,
+      "word": "鹿晗好喜欢戴金手链",
+      "onboard_time": 1688809109,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 767777,
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532501,
+      "num": 532501,
+      "word": "姆巴佩",
+      "onboard_time": 1688810491,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530711,
       "num": 530711,
       "word": "超级防窥屏聊天背景 杀敌一千自损八百",
@@ -649,6 +673,14 @@
       "onboard_time": 1688799270,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 500097,
+      "num": 1597693,
+      "word": "男孩买药欲轻生被店员路人劝下",
+      "onboard_time": 1688804013,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496216,
@@ -728,14 +760,6 @@
       "word": "清华选美冠军初中时因容貌遭欺凌",
       "onboard_time": 1688779712,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451570,
-      "num": 451570,
-      "word": "男孩买药欲轻生被店员路人劝下",
-      "onboard_time": 1688804013,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -852,7 +876,7 @@
     },
     {
       "raw_hot": 383380,
-      "num": 383380,
+      "num": 1140261,
       "word": "12岁女孩搬啤酒炸裂一地后",
       "onboard_time": 1688793452,
       "rank": 29,
@@ -865,6 +889,14 @@
       "onboard_time": 1688786192,
       "rank": 31,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 377658,
+      "num": 355863,
+      "word": "杨洋拍戏拍到中暑呕吐",
+      "onboard_time": 1688810374,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 376530,
@@ -987,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339278,
+      "num": 339278,
+      "word": "猴痘病毒是怎么感染的",
+      "onboard_time": 1688810313,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335072,
       "num": 320214,
       "word": "家里的狗被牵扯进了诈骗",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1688791833,
       "rank": 28,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 310835,
+      "num": 310835,
+      "word": "群演谈肖战",
+      "onboard_time": 1688811091,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 309565,
@@ -1259,6 +1307,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273257,
+      "num": 242017,
+      "word": "会谈恋爱的女生是什么样的",
+      "onboard_time": 1688810733,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 266783,
+      "num": 1033596,
+      "word": "男童挂窗外爸爸编织袋兜娃等救援",
+      "onboard_time": 1688807311,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260542,
       "num": 260542,
       "word": "齐司礼",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1688790274,
       "rank": 35,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 256967,
+      "num": 241674,
+      "word": "王楚然微指破亿",
+      "onboard_time": 1688810612,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255398,
@@ -1363,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249416,
-      "num": 249416,
-      "word": "男童挂窗外爸爸编织袋兜娃等救援",
-      "onboard_time": 1688807311,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248283,
       "num": 248283,
       "word": "孙燕姿去看了张惠妹的演唱会",
@@ -1419,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242740,
+      "num": 242740,
+      "word": "Bin格温",
+      "onboard_time": 1688809295,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241965,
       "num": 241965,
       "word": "总有一两个人占用整个教室",
@@ -1457,6 +1529,14 @@
       "onboard_time": 1688789312,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232621,
+      "num": 232621,
+      "word": "时代少年团叁重楼回归时间表",
+      "onboard_time": 1688808692,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 231956,
@@ -1627,12 +1707,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206960,
+      "num": 206960,
+      "word": "因为不吃鱼籽和男朋友吵架了",
+      "onboard_time": 1688809055,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 205635,
       "num": 205635,
       "word": "白敬亭究竟有多少好妹妹",
       "onboard_time": 1688741019,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "爷爷攒了很久的钱带我去买了长命锁",
+      "onboard_time": 1688809055,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203992,
@@ -1723,6 +1819,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190221,
+      "num": 190221,
+      "word": "宋轶真的穿白色衣服了",
+      "onboard_time": 1688811330,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188785,
+      "num": 188785,
+      "word": "WE对战RNG",
+      "onboard_time": 1688810972,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188376,
       "num": 188376,
       "word": "星光派对",
@@ -1763,14 +1875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177437,
-      "num": 170263,
-      "word": "时代少年团叁重楼回归时间表",
-      "onboard_time": 1688808692,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175925,
       "num": 181361,
       "word": "两名网格员一小时内两次救了同一位老人",
@@ -1785,6 +1889,14 @@
       "onboard_time": 1688782536,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169451,
+      "num": 169451,
+      "word": "在医院实习被带教老师吐槽了",
+      "onboard_time": 1688809055,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 168712,
@@ -1817,6 +1929,22 @@
       "onboard_time": 1688808455,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 158757,
+      "num": 158757,
+      "word": "女儿因蛋糕贵大哭求妈妈退款",
+      "onboard_time": 1688811451,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157302,
+      "num": 157302,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1688810491,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 145087,
