@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688897949405,
+  "endTime": 1688898992487,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1536034,
-      "num": 560778,
+      "num": 585354,
       "word": "一鹿彤行偷偷藏不住版",
       "onboard_time": 1688888731,
       "rank": 10,
@@ -145,6 +145,14 @@
       "onboard_time": 1688892568,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1045625,
+      "num": 791674,
+      "word": "倪妮发了30张自拍",
+      "onboard_time": 1688896592,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1032529,
@@ -243,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 876329,
+      "num": 876329,
+      "word": "一个不会离职的办公桌长啥样",
+      "onboard_time": 1688895451,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 860257,
       "num": 860257,
       "word": "顾客买到生瓜留言2年后收到回复",
@@ -283,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 832802,
+      "num": 832802,
+      "word": "于途乔晶晶vs宋焰许沁",
+      "onboard_time": 1688895089,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 801430,
       "num": 801430,
       "word": "黄子韬说宁静那英没一个能压得住自己",
@@ -297,6 +321,14 @@
       "onboard_time": 1688862988,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 779555,
+      "num": 779555,
+      "word": "台湾面临鸡蛋过剩问题",
+      "onboard_time": 1688896954,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 773639,
@@ -323,22 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 743691,
-      "num": 743691,
-      "word": "于途乔晶晶vs宋焰许沁",
-      "onboard_time": 1688895089,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 718341,
-      "num": 718341,
-      "word": "倪妮发了30张自拍",
-      "onboard_time": 1688896592,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 704801,
       "num": 704801,
       "word": "茶百道未定联名",
@@ -353,6 +369,14 @@
       "onboard_time": 1688830232,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698334,
+      "num": 698334,
+      "word": "Seventeen孙悟空首舞台在中国",
+      "onboard_time": 1688895872,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 683694,
@@ -409,14 +433,6 @@
       "onboard_time": 1688889512,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 631167,
-      "num": 534322,
-      "word": "一个不会离职的办公桌长啥样",
-      "onboard_time": 1688895451,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 629494,
@@ -515,14 +531,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 533606,
-      "num": 533606,
-      "word": "Seventeen孙悟空首舞台在中国",
-      "onboard_time": 1688895872,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 533144,
       "num": 264124,
       "word": "BLACKPINK里哪位成员最依赖团",
@@ -609,6 +617,14 @@
       "onboard_time": 1688800471,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475417,
+      "num": 412000,
+      "word": "肖战为了玉骨遥剧宣好努力",
+      "onboard_time": 1688895995,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 473410,
@@ -699,14 +715,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 439256,
-      "num": 439256,
-      "word": "台湾面临鸡蛋过剩问题",
-      "onboard_time": 1688896954,
-      "rank": 17,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 438729,
       "num": 387242,
       "word": "贾静雯从唱跳双废到女团预备",
@@ -771,6 +779,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 412134,
+      "num": 412134,
+      "word": "杨紫在MLB全明星",
+      "onboard_time": 1688897252,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 409786,
       "num": 409786,
       "word": "喝多了非要默写出师表",
@@ -803,20 +819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405333,
+      "num": 405333,
+      "word": "私搭浮桥案审判长被曝顶替他人上大学",
+      "onboard_time": 1688895692,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404280,
       "num": 404280,
       "word": "seventeen澳门彩排",
       "onboard_time": 1688883868,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 400882,
-      "num": 400882,
-      "word": "肖战为了玉骨遥剧宣好努力",
-      "onboard_time": 1688895995,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 398549,
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369795,
+      "num": 720734,
+      "word": "粉衣姑娘暴雨中弃车救人",
+      "onboard_time": 1688896230,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369593,
       "num": 254397,
       "word": "何炅跟着杨紫一起跪",
@@ -987,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347992,
-      "num": 347992,
-      "word": "私搭浮桥案审判长被曝顶替他人上大学",
-      "onboard_time": 1688895692,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347477,
       "num": 251669,
       "word": "一双腿养活了蚊子祖宗十八代",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1688871872,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 335098,
-      "num": 335098,
-      "word": "杨紫在MLB全明星",
-      "onboard_time": 1688897252,
-      "rank": 27,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 330439,
@@ -1203,14 +1211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 292482,
-      "num": 720734,
-      "word": "粉衣姑娘暴雨中弃车救人",
-      "onboard_time": 1688896230,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289947,
       "num": 309072,
       "word": "乌克兰承认曾对克里米亚大桥实施袭击",
@@ -1339,6 +1339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265328,
+      "num": 265328,
+      "word": "情侣顺利订婚后女方态度大转变",
+      "onboard_time": 1688898509,
+      "rank": 31,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 264804,
       "num": 264804,
       "word": "斗罗大陆最美武魂",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1688864849,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259395,
+      "num": 710433,
+      "word": "男子高铁车厢连接处陪娃待了1小时",
+      "onboard_time": 1688897252,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259095,
@@ -1441,14 +1457,6 @@
       "onboard_time": 1688826994,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 241596,
-      "num": 710433,
-      "word": "男子高铁车厢连接处陪娃待了1小时",
-      "onboard_time": 1688897252,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240182,
@@ -1577,6 +1585,14 @@
       "onboard_time": 1688880092,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214574,
+      "num": 214574,
+      "word": "老外到美甲店消费100多元称没钱",
+      "onboard_time": 1688898509,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213659,
@@ -1963,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131845,
+      "num": 131845,
+      "word": "庆余年2",
+      "onboard_time": 1688898932,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130332,
       "num": 199026,
       "word": "女儿因蛋糕贵大哭求妈妈退款",
@@ -2188,6 +2212,9 @@
     },
     {
       "word": "#哈尔滨成功申办2025亚冬会#"
+    },
+    {
+      "word": "#盛世中华何以中国#"
     }
   ]
 }
