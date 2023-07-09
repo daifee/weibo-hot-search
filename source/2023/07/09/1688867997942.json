@@ -1,0 +1,410 @@
+{
+  "runTime": 1688867997942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4487950,
+        "num": 4487950,
+        "word": "罗翔",
+        "onboard_time": 1688859802,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2631499,
+        "num": 2631499,
+        "word": "韩国歌手李尚恩去世",
+        "onboard_time": 1688866829,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70536,
+        "num": 1379577,
+        "word": "守护高温下的户外劳动者",
+        "onboard_time": 1688821897,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368367,
+        "num": 1368367,
+        "word": "何非知道李木子无论如何都活不了",
+        "onboard_time": 1688860584,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 999500,
+        "num": 999500,
+        "word": "家长庆祝孩子高考660分聚众赌博被拘",
+        "onboard_time": 1688862687,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 838246,
+        "num": 838246,
+        "word": "徐峥看茶啊二中笑得肚子疼",
+        "onboard_time": 1688866168,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 834007,
+        "num": 834007,
+        "word": "人民日报评长安三万里",
+        "onboard_time": 1688865568,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785320,
+        "num": 785320,
+        "word": "家里对外人谎报我的高考分数",
+        "onboard_time": 1688862988,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 618662,
+        "num": 618662,
+        "word": "孟宴臣许沁",
+        "onboard_time": 1688863168,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 569900,
+        "num": 569900,
+        "word": "吉林私搭浮桥收费获刑当事人发声",
+        "onboard_time": 1688865451,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085807,
+        "num": 566832,
+        "word": "马景涛",
+        "onboard_time": 1688859922,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553324,
+        "num": 553324,
+        "word": "暑假目前最惊喜的国产剧",
+        "onboard_time": 1688831611,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 670699,
+        "num": 550819,
+        "word": "马景涛 边牧波泥小pony",
+        "onboard_time": 1688864367,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546529,
+        "num": 546529,
+        "word": "女子往餐馆汤锅放不明液体致人呕吐",
+        "onboard_time": 1688864549,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490339,
+        "num": 490339,
+        "word": "高收入的人还是需要有风险意识",
+        "onboard_time": 1688862565,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443696,
+        "num": 443696,
+        "word": "鹿晗说邓超照片巨丑",
+        "onboard_time": 1688863048,
+        "rank": 15,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 423031,
+        "num": 423031,
+        "word": "长安三万里 李白",
+        "onboard_time": 1688866710,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373528,
+        "num": 373528,
+        "word": "韩国人有自己的伍佰",
+        "onboard_time": 1688861424,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 298666,
+        "num": 298666,
+        "word": "媒体评因搭浮桥判18人有罪",
+        "onboard_time": 1688863465,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269709,
+        "num": 269709,
+        "word": "28岁女驾驶员开船穿越北冰洋",
+        "onboard_time": 1688865451,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628430,
+        "num": 269216,
+        "word": "影楼把我的孕照丢失了怎么办",
+        "onboard_time": 1688862327,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363915,
+        "num": 267609,
+        "word": "情绪稳定vs情绪表达",
+        "onboard_time": 1688866049,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 304112,
+        "num": 266974,
+        "word": "李玟姐姐称其老公已被原公司撤职很久",
+        "onboard_time": 1688826217,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302478,
+        "num": 264842,
+        "word": "肖战梦中的那片海新合照",
+        "onboard_time": 1688864427,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264804,
+        "num": 264804,
+        "word": "斗罗大陆最美武魂",
+        "onboard_time": 1688861185,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 258098,
+        "num": 258098,
+        "word": "罗翔谈村民私造浮桥收费被判刑",
+        "onboard_time": 1688867549,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256875,
+        "num": 256875,
+        "word": "自驾游夫妻高速上被黑熊撞翻车",
+        "onboard_time": 1688857278,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239444,
+        "num": 239444,
+        "word": "90后终于熬成了挂钥匙的那群人",
+        "onboard_time": 1688819192,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1011679,
+        "num": 239307,
+        "word": "肖战和替身同框",
+        "onboard_time": 1688861424,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113500,
+        "num": 239137,
+        "word": "中国队提前锁定混双男双冠军",
+        "onboard_time": 1688858120,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261441,
+        "num": 239035,
+        "word": "张钧甯晒与陈柏霖合照",
+        "onboard_time": 1688864849,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235567,
+        "num": 238864,
+        "word": "浮桥",
+        "onboard_time": 1688866049,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238769,
+        "num": 238769,
+        "word": "杨紫主打的就是一个把水端平",
+        "onboard_time": 1688864549,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238746,
+        "num": 238746,
+        "word": "一双腿养活了蚊子祖宗十八代",
+        "onboard_time": 1688826994,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237707,
+        "num": 237707,
+        "word": "中国网评死神2国内上线",
+        "onboard_time": 1688860343,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 236312,
+        "num": 236312,
+        "word": "济南大学回应留学生每月补助3万元",
+        "onboard_time": 1688824114,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 234900,
+        "num": 234900,
+        "word": "凌霄vs孟宴臣",
+        "onboard_time": 1688867130,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223024,
+        "num": 223024,
+        "word": "网友在三里屯偶遇张嘉倪",
+        "onboard_time": 1688863527,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217343,
+        "num": 217343,
+        "word": "BLACKPINK里哪位成员最依赖团",
+        "onboard_time": 1688828136,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213624,
+        "num": 213624,
+        "word": "汪苏泷演唱会旁白是何炅",
+        "onboard_time": 1688864549,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207946,
+        "num": 207946,
+        "word": "exo回归预告",
+        "onboard_time": 1688867850,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202943,
+        "num": 202943,
+        "word": "黄子韬说宁静那英没一个能压得住自己",
+        "onboard_time": 1688867910,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201017,
+        "num": 201017,
+        "word": "凤凰传奇什么时候开演唱会",
+        "onboard_time": 1688865093,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195382,
+        "num": 195382,
+        "word": "有点理解为啥找魏大勋演了",
+        "onboard_time": 1688824897,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189712,
+        "num": 189712,
+        "word": "XYG仙哥",
+        "onboard_time": 1688866890,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174214,
+        "num": 174214,
+        "word": "蔡依林全开麦真唱",
+        "onboard_time": 1688866829,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169507,
+        "num": 169507,
+        "word": "山东美术馆最震撼的作品",
+        "onboard_time": 1688862327,
+        "rank": 46,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 156297,
+        "num": 156297,
+        "word": "杨紫觉得年龄大了挺好的",
+        "onboard_time": 1688842333,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144827,
+        "num": 144827,
+        "word": "张昊唯直播晒白敬亭送的望都F4T恤",
+        "onboard_time": 1688866350,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137457,
+        "num": 144422,
+        "word": "每次看到余额的我",
+        "onboard_time": 1688867495,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会20天倒计时#"
+    }
+  }
+}

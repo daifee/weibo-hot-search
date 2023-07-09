@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688859268732,
+  "endTime": 1688867997942,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -297,6 +297,14 @@
       "onboard_time": 1688731778,
       "rank": 1,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 4487950,
+      "num": 4487950,
+      "word": "罗翔",
+      "onboard_time": 1688859802,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4453087,
@@ -697,6 +705,14 @@
       "onboard_time": 1688198013,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2631499,
+      "num": 2631499,
+      "word": "韩国歌手李尚恩去世",
+      "onboard_time": 1688866829,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2621776,
@@ -2147,6 +2163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1368367,
+      "num": 1368367,
+      "word": "何非知道李木子无论如何都活不了",
+      "onboard_time": 1688860584,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1364655,
       "num": 1364655,
       "word": "老公居然登报庆祝我裸辞",
@@ -2891,6 +2915,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1085807,
+      "num": 566832,
+      "word": "马景涛",
+      "onboard_time": 1688859922,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1079475,
       "num": 1079475,
       "word": "赵露思陈哲远沙发40秒拥吻",
@@ -3155,6 +3187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1011679,
+      "num": 239307,
+      "word": "肖战和替身同框",
+      "onboard_time": 1688861424,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1011525,
       "num": 1011525,
       "word": "宋轶骂得我心都化了",
@@ -3217,6 +3257,14 @@
       "onboard_time": 1688741384,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 999500,
+      "num": 999500,
+      "word": "家长庆祝孩子高考660分聚众赌博被拘",
+      "onboard_time": 1688862687,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 997614,
@@ -4155,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 838246,
+      "num": 838246,
+      "word": "徐峥看茶啊二中笑得肚子疼",
+      "onboard_time": 1688866168,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 837864,
       "num": 837864,
       "word": "TFBOYS十年专辑曲目",
@@ -4177,6 +4233,14 @@
       "onboard_time": 1688444079,
       "rank": 29,
       "category": "影视,美妆"
+    },
+    {
+      "raw_hot": 834007,
+      "num": 834007,
+      "word": "人民日报评长安三万里",
+      "onboard_time": 1688865568,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 833489,
@@ -4585,6 +4649,14 @@
       "onboard_time": 1688516011,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 785320,
+      "num": 785320,
+      "word": "家里对外人谎报我的高考分数",
+      "onboard_time": 1688862988,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 783629,
@@ -5587,6 +5659,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 670699,
+      "num": 550819,
+      "word": "马景涛 边牧波泥小pony",
+      "onboard_time": 1688864367,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670692,
       "num": 670692,
       "word": "女友妹妹炮轰内马尔孕期出轨",
@@ -6131,6 +6211,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 628430,
+      "num": 269216,
+      "word": "影楼把我的孕照丢失了怎么办",
+      "onboard_time": 1688862327,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 627845,
       "num": 624269,
       "word": "陈哲远王玉雯 白色橄榄树",
@@ -6233,6 +6321,14 @@
       "onboard_time": 1688780252,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618662,
+      "num": 618662,
+      "word": "孟宴臣许沁",
+      "onboard_time": 1688863168,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 618313,
@@ -6787,6 +6883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569900,
+      "num": 569900,
+      "word": "吉林私搭浮桥收费获刑当事人发声",
+      "onboard_time": 1688865451,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569896,
       "num": 569896,
       "word": "法国马赛最大图书馆被烧毁",
@@ -7081,6 +7185,14 @@
       "onboard_time": 1688316926,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 546529,
+      "num": 546529,
+      "word": "女子往餐馆汤锅放不明液体致人呕吐",
+      "onboard_time": 1688864549,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545776,
@@ -7899,6 +8011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 490339,
+      "num": 490339,
+      "word": "高收入的人还是需要有风险意识",
+      "onboard_time": 1688862565,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489963,
       "num": 333848,
       "word": "一双腿养活了蚊子祖宗十八代",
@@ -8683,6 +8803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 443696,
+      "num": 443696,
+      "word": "鹿晗说邓超照片巨丑",
+      "onboard_time": 1688863048,
+      "rank": 15,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 443264,
       "num": 443264,
       "word": "肖战vlog画外音",
@@ -9033,6 +9161,14 @@
       "onboard_time": 1688737001,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423031,
+      "num": 423031,
+      "word": "长安三万里 李白",
+      "onboard_time": 1688866710,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 421803,
@@ -10059,6 +10195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373528,
+      "num": 373528,
+      "word": "韩国人有自己的伍佰",
+      "onboard_time": 1688861424,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 373378,
       "num": 373378,
       "word": "Angelababy王者段位",
@@ -10313,6 +10457,14 @@
       "onboard_time": 1688536357,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 363915,
+      "num": 267609,
+      "word": "情绪稳定vs情绪表达",
+      "onboard_time": 1688866049,
+      "rank": 21,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 363902,
@@ -12075,6 +12227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302478,
+      "num": 264842,
+      "word": "肖战梦中的那片海新合照",
+      "onboard_time": 1688864427,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301973,
       "num": 301973,
       "word": "恶鬼第四集含鬼量",
@@ -12200,6 +12360,14 @@
       "word": "中学图书馆为保护古树在大厅开洞",
       "onboard_time": 1688347831,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298666,
+      "num": 298666,
+      "word": "媒体评因搭浮桥判18人有罪",
+      "onboard_time": 1688863465,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -13275,6 +13443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269709,
+      "num": 269709,
+      "word": "28岁女驾驶员开船穿越北冰洋",
+      "onboard_time": 1688865451,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269552,
       "num": 269552,
       "word": "透明的山竹能吃吗",
@@ -13419,6 +13595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264804,
+      "num": 264804,
+      "word": "斗罗大陆最美武魂",
+      "onboard_time": 1688861185,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 264718,
       "num": 264718,
       "word": "杨紫杂志销量统计",
@@ -13497,6 +13681,14 @@
       "onboard_time": 1688393686,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261441,
+      "num": 239035,
+      "word": "张钧甯晒与陈柏霖合照",
+      "onboard_time": 1688864849,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 261324,
@@ -13723,6 +13915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258098,
+      "num": 258098,
+      "word": "罗翔谈村民私造浮桥收费被判刑",
+      "onboard_time": 1688867549,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257387,
       "num": 313057,
       "word": "BLG对战TES",
@@ -13753,6 +13953,14 @@
       "onboard_time": 1688790274,
       "rank": 35,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 256875,
+      "num": 256875,
+      "word": "自驾游夫妻高速上被黑熊撞翻车",
+      "onboard_time": 1688857278,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256610,
@@ -14635,14 +14843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240123,
-      "num": 148980,
-      "word": "自驾游夫妻高速上被黑熊撞翻车",
-      "onboard_time": 1688857278,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240078,
       "num": 233295,
       "word": "正处在换毛期的印度领角鸮",
@@ -14673,6 +14873,14 @@
       "onboard_time": 1688134783,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238769,
+      "num": 238769,
+      "word": "杨紫主打的就是一个把水端平",
+      "onboard_time": 1688864549,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 238746,
@@ -14729,6 +14937,14 @@
       "onboard_time": 1688289331,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237707,
+      "num": 237707,
+      "word": "中国网评死神2国内上线",
+      "onboard_time": 1688860343,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 237503,
@@ -14833,6 +15049,22 @@
       "onboard_time": 1688805393,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235567,
+      "num": 238864,
+      "word": "浮桥",
+      "onboard_time": 1688866049,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234900,
+      "num": 234900,
+      "word": "凌霄vs孟宴臣",
+      "onboard_time": 1688867130,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 234626,
@@ -15467,6 +15699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223024,
+      "num": 223024,
+      "word": "网友在三里屯偶遇张嘉倪",
+      "onboard_time": 1688863527,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222953,
       "num": 222953,
       "word": "远赴相思",
@@ -15931,6 +16171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213624,
+      "num": 213624,
+      "word": "汪苏泷演唱会旁白是何炅",
+      "onboard_time": 1688864549,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213397,
       "num": 213397,
       "word": "刘宇宁上桌文学",
@@ -16283,6 +16531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207946,
+      "num": 207946,
+      "word": "exo回归预告",
+      "onboard_time": 1688867850,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207687,
       "num": 207687,
       "word": "白敬亭顾九思战损海报",
@@ -16539,6 +16795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202943,
+      "num": 202943,
+      "word": "黄子韬说宁静那英没一个能压得住自己",
+      "onboard_time": 1688867910,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202777,
       "num": 202777,
       "word": "这个夏天为啥这么热",
@@ -16700,7 +16964,7 @@
     },
     {
       "raw_hot": 201177,
-      "num": 201177,
+      "num": 239137,
       "word": "中国队提前锁定混双男双冠军",
       "onboard_time": 1688858120,
       "rank": 49,
@@ -16713,6 +16977,14 @@
       "onboard_time": 1688382761,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201017,
+      "num": 201017,
+      "word": "凤凰传奇什么时候开演唱会",
+      "onboard_time": 1688865093,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 200738,
@@ -17441,6 +17713,14 @@
       "onboard_time": 1688382162,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189712,
+      "num": 189712,
+      "word": "XYG仙哥",
+      "onboard_time": 1688866890,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 189687,
@@ -18195,6 +18475,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 174214,
+      "num": 174214,
+      "word": "蔡依林全开麦真唱",
+      "onboard_time": 1688866829,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173885,
       "num": 173885,
       "word": "西北大学轮椅男孩毕业了",
@@ -18401,6 +18689,14 @@
       "onboard_time": 1688718031,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169507,
+      "num": 169507,
+      "word": "山东美术馆最震撼的作品",
+      "onboard_time": 1688862327,
+      "rank": 46,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 169456,
@@ -18835,6 +19131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156297,
+      "num": 156297,
+      "word": "杨紫觉得年龄大了挺好的",
+      "onboard_time": 1688842333,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156267,
       "num": 156267,
       "word": "明码标价的小卖部",
@@ -19099,6 +19403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 144827,
+      "num": 144827,
+      "word": "张昊唯直播晒白敬亭送的望都F4T恤",
+      "onboard_time": 1688866350,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144304,
       "num": 265748,
       "word": "对浪漫的感知仿佛有种滞后性",
@@ -19203,6 +19515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137457,
+      "num": 144422,
+      "word": "每次看到余额的我",
+      "onboard_time": 1688867495,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 136225,
       "num": 136225,
       "word": "卡脚萌娃发语音奶声奶气感谢消防员",
@@ -19248,14 +19568,6 @@
       "word": "程潇销冠",
       "onboard_time": 1688426849,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 132876,
-      "num": 132876,
-      "word": "杨紫觉得年龄大了挺好的",
-      "onboard_time": 1688842333,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -20155,6 +20467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 70536,
+      "num": 1379577,
+      "word": "守护高温下的户外劳动者",
+      "onboard_time": 1688821897,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70490,
       "num": 56319,
       "word": "姚琛金发腹肌",
@@ -20457,14 +20777,6 @@
       "onboard_time": 1688143647,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 42756,
-      "num": 820117,
-      "word": "守护高温下的户外劳动者",
-      "onboard_time": 1688821897,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41977,
