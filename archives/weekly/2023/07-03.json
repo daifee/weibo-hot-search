@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688913231273,
+  "endTime": 1688915903555,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2355,6 +2355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1139082,
+      "num": 1139082,
+      "word": "2女子与蜜雪冰城员工起冲突",
+      "onboard_time": 1688913154,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138125,
       "num": 479413,
       "word": "为什么痛经蹲厕所就会好很多",
@@ -2771,6 +2779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1023351,
+      "num": 1023351,
+      "word": "国产剧能不能边拍边播",
+      "onboard_time": 1688912014,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1019523,
       "num": 1019523,
       "word": "马立奥 互联网儿子",
@@ -2816,6 +2832,14 @@
       "word": "曝HYBE员工搜身时摸粉丝胸部",
       "onboard_time": 1688882250,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1008100,
+      "num": 1008100,
+      "word": "是谁去杭州给宋轶买的牛排包",
+      "onboard_time": 1688913874,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -3139,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 930547,
+      "num": 796282,
+      "word": "肖战下一部戏藏海戏麟",
+      "onboard_time": 1688915195,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 929980,
       "num": 702479,
       "word": "袁咏仪儿子张慕童近照",
@@ -3337,6 +3369,14 @@
       "onboard_time": 1688298513,
       "rank": 19,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 895574,
+      "num": 895574,
+      "word": "26岁一想到明天上班还想哭",
+      "onboard_time": 1688914536,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 894159,
@@ -3545,6 +3585,14 @@
       "onboard_time": 1688626715,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849269,
+      "num": 442150,
+      "word": "徐明浩白色狼尾造型",
+      "onboard_time": 1688915376,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 849231,
@@ -4065,6 +4113,14 @@
       "onboard_time": 1688862988,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 783757,
+      "num": 783757,
+      "word": "李灿中文",
+      "onboard_time": 1688913275,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 783629,
@@ -5363,6 +5419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627193,
+      "num": 627193,
+      "word": "李硕珉胸肌",
+      "onboard_time": 1688914234,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 626586,
       "num": 626586,
       "word": "陈卓璇厌世感红毯",
@@ -5433,14 +5497,6 @@
       "onboard_time": 1688517815,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 615623,
-      "num": 615623,
-      "word": "国产剧能不能边拍边播",
-      "onboard_time": 1688912014,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 615255,
@@ -6515,6 +6571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513662,
+      "num": 513662,
+      "word": "入职要填微博名该怎么办",
+      "onboard_time": 1688914774,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 513579,
       "num": 513579,
       "word": "隆里电丝",
@@ -7435,6 +7499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447493,
+      "num": 447493,
+      "word": "男子花百元订蛋糕只有一层奶油",
+      "onboard_time": 1688912254,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447065,
+      "num": 447065,
+      "word": "爸妈忘了还有个放假回来的大学生",
+      "onboard_time": 1688911295,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445955,
       "num": 371563,
       "word": "朱珠穿旗袍",
@@ -7505,14 +7585,6 @@
       "onboard_time": 1688483858,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 442751,
-      "num": 269340,
-      "word": "男子花百元订蛋糕只有一层奶油",
-      "onboard_time": 1688912254,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442750,
@@ -7753,6 +7825,14 @@
       "onboard_time": 1688553632,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 426979,
+      "num": 426979,
+      "word": "我爱我家杭州公司高管全部被停职",
+      "onboard_time": 1688913335,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426722,
@@ -8027,14 +8107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408173,
-      "num": 408173,
-      "word": "爸妈忘了还有个放假回来的大学生",
-      "onboard_time": 1688911295,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407159,
       "num": 292862,
       "word": "周杰伦开演唱会为海口增近10亿旅游收入",
@@ -8289,6 +8361,14 @@
       "onboard_time": 1688742942,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 396587,
+      "num": 378921,
+      "word": "seventeen hot",
+      "onboard_time": 1688915433,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 396586,
@@ -9185,6 +9265,14 @@
       "onboard_time": 1688898509,
       "rank": 31,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 359344,
+      "num": 313843,
+      "word": "刘惜君红毯好港风",
+      "onboard_time": 1688912854,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 358453,
@@ -10659,14 +10747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300008,
-      "num": 267261,
-      "word": "刘惜君红毯好港风",
-      "onboard_time": 1688912854,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 299942,
       "num": 299942,
       "word": "黄朔 空降",
@@ -10963,6 +11043,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 292944,
+      "num": 292944,
+      "word": "你的睡眠也在变老",
+      "onboard_time": 1688913335,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292780,
       "num": 292780,
       "word": "5旬女子被00后喊阿姨后索赔2000",
@@ -11113,6 +11201,14 @@
       "onboard_time": 1688827534,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288351,
+      "num": 288351,
+      "word": "杨紫棕色系穿搭",
+      "onboard_time": 1688915736,
+      "rank": 35,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 288280,
@@ -11667,6 +11763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269907,
+      "num": 269907,
+      "word": "你会整夜吹空调吗",
+      "onboard_time": 1688914956,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 269552,
       "num": 269552,
       "word": "透明的山竹能吃吗",
@@ -12147,6 +12251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255002,
+      "num": 255002,
+      "word": "不像新学的像没忘干净",
+      "onboard_time": 1688915076,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254904,
       "num": 197832,
       "word": "李玟二姐希望外界少点八卦",
@@ -12161,6 +12273,14 @@
       "onboard_time": 1688823634,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254678,
+      "num": 254678,
+      "word": "五月天深圳演唱会",
+      "onboard_time": 1688718992,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 254470,
@@ -13123,14 +13243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228633,
-      "num": 228633,
-      "word": "五月天深圳演唱会",
-      "onboard_time": 1688718992,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 228552,
       "num": 228552,
       "word": "教资报名",
@@ -13177,6 +13289,14 @@
       "onboard_time": 1688621198,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 227641,
+      "num": 227641,
+      "word": "重庆狼队",
+      "onboard_time": 1688913335,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 227476,
@@ -13824,6 +13944,14 @@
       "word": "LGD对战WE",
       "onboard_time": 1688386301,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 212346,
+      "num": 212346,
+      "word": "4AM",
+      "onboard_time": 1688915856,
+      "rank": 48,
       "category": "游戏"
     },
     {
@@ -16515,6 +16643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141777,
+      "num": 1816415,
+      "word": "高考录取通知查询通道",
+      "onboard_time": 1688912917,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141409,
       "num": 290881,
       "word": "当曾经帮助过的人回来找你",
@@ -17681,14 +17817,6 @@
       "onboard_time": 1688411054,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 33359,
-      "num": 1816415,
-      "word": "高考录取通知查询通道",
-      "onboard_time": 1688912917,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33147,
