@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688920785308,
+  "endTime": 1688922970788,
   "band_list": [
     {
       "raw_hot": 1496601,
@@ -27,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 906369,
+      "num": 906369,
+      "word": "穷的时候真的特别敏感",
+      "onboard_time": 1688917710,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 896825,
       "num": 896825,
       "word": "因为我男朋友开了家螺蛳粉店",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 768185,
-      "num": 768185,
-      "word": "穷的时候真的特别敏感",
-      "onboard_time": 1688917710,
-      "rank": 6,
-      "category": "情感"
+      "raw_hot": 747354,
+      "num": 380796,
+      "word": "首尔街头采访韩国人加班",
+      "onboard_time": 1688919626,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703846,
@@ -147,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417428,
+      "num": 417428,
+      "word": "文韬发脾气是这样的吗",
+      "onboard_time": 1688920465,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403716,
       "num": 403716,
       "word": "国产剧能不能边拍边播",
       "onboard_time": 1688912014,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380268,
+      "num": 380268,
+      "word": "法老走红毯",
+      "onboard_time": 1688919269,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 370451,
@@ -177,14 +201,6 @@
       "onboard_time": 1688917414,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 348490,
-      "num": 348490,
-      "word": "法老走红毯",
-      "onboard_time": 1688919269,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 336127,
@@ -244,19 +260,11 @@
     },
     {
       "raw_hot": 275202,
-      "num": 215727,
+      "num": 227496,
       "word": "前任和现任的关系可以有多好",
       "onboard_time": 1688918251,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 274022,
-      "num": 216936,
-      "word": "首尔街头采访韩国人加班",
-      "onboard_time": 1688919626,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273156,
@@ -315,12 +323,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 240627,
-      "num": 240627,
-      "word": "文韬发脾气是这样的吗",
-      "onboard_time": 1688920465,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 238256,
+      "num": 238256,
+      "word": "张兰上诉被驳回",
+      "onboard_time": 1688921246,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 221179,
@@ -403,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150865,
+      "num": 150865,
+      "word": "下辈子先预定一下这张脸",
+      "onboard_time": 1688919507,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 149401,
       "num": 173608,
       "word": "黑龙江一18个月女孩从6楼窗台坠亡",
@@ -419,12 +435,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117919,
-      "num": 141371,
-      "word": "下辈子先预定一下这张脸",
-      "onboard_time": 1688919507,
-      "rank": 49,
-      "category": "幽默,情感"
+      "raw_hot": 128759,
+      "num": 128759,
+      "word": "孟佳TMEA",
+      "onboard_time": 1688921365,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 101239,
+      "num": 101239,
+      "word": "我的人间烟火",
+      "onboard_time": 1688922862,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 76975,

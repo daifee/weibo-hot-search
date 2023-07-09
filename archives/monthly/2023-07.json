@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688920785308,
+  "endTime": 1688922970788,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -4067,6 +4067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 906369,
+      "num": 906369,
+      "word": "穷的时候真的特别敏感",
+      "onboard_time": 1688917710,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 905608,
       "num": 342547,
       "word": "警方通报2名女孩在酒店被性侵",
@@ -5315,14 +5323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 768185,
-      "num": 768185,
-      "word": "穷的时候真的特别敏感",
-      "onboard_time": 1688917710,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 767313,
       "num": 767313,
       "word": "腾讯会员",
@@ -5449,6 +5449,14 @@
       "onboard_time": 1688704307,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 747354,
+      "num": 380796,
+      "word": "首尔街头采访韩国人加班",
+      "onboard_time": 1688919626,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746391,
@@ -10187,6 +10195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 417428,
+      "num": 417428,
+      "word": "文韬发脾气是这样的吗",
+      "onboard_time": 1688920465,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417250,
       "num": 417250,
       "word": "伍佰演唱会抢票",
@@ -11129,6 +11145,14 @@
       "onboard_time": 1688268571,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 380268,
+      "num": 380268,
+      "word": "法老走红毯",
+      "onboard_time": 1688919269,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 379668,
@@ -12097,14 +12121,6 @@
       "onboard_time": 1688797410,
       "rank": 34,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 348490,
-      "num": 348490,
-      "word": "法老走红毯",
-      "onboard_time": 1688919269,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 348467,
@@ -14772,7 +14788,7 @@
     },
     {
       "raw_hot": 275202,
-      "num": 215727,
+      "num": 227496,
       "word": "前任和现任的关系可以有多好",
       "onboard_time": 1688918251,
       "rank": 32,
@@ -14833,14 +14849,6 @@
       "onboard_time": 1688279730,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274022,
-      "num": 216936,
-      "word": "首尔街头采访韩国人加班",
-      "onboard_time": 1688919626,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273954,
@@ -16595,14 +16603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240627,
-      "num": 240627,
-      "word": "文韬发脾气是这样的吗",
-      "onboard_time": 1688920465,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240539,
       "num": 225160,
       "word": "恶鬼",
@@ -16713,6 +16713,14 @@
       "onboard_time": 1688190934,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238256,
+      "num": 238256,
+      "word": "张兰上诉被驳回",
+      "onboard_time": 1688921246,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 237954,
@@ -21347,6 +21355,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 150865,
+      "num": 150865,
+      "word": "下辈子先预定一下这张脸",
+      "onboard_time": 1688919507,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 150527,
       "num": 150527,
       "word": "这就是中国人才懂的审美吧",
@@ -21747,6 +21763,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 128759,
+      "num": 128759,
+      "word": "孟佳TMEA",
+      "onboard_time": 1688921365,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128532,
       "num": 153764,
       "word": "不要否定别人的生活状态",
@@ -21905,14 +21929,6 @@
       "onboard_time": 1688839039,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117919,
-      "num": 141371,
-      "word": "下辈子先预定一下这张脸",
-      "onboard_time": 1688919507,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 117598,
