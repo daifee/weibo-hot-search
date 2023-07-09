@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688876551048,
+  "endTime": 1688877424586,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -17,6 +17,14 @@
       "onboard_time": 1688866829,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1690041,
+      "num": 618232,
+      "word": "女孩中考742分报考师范专科引争议",
+      "onboard_time": 1688875891,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1682561,
@@ -107,6 +115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 949289,
+      "num": 949289,
+      "word": "魏大勋反手开车门",
+      "onboard_time": 1688874812,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 941099,
       "num": 770359,
       "word": "李玟姐姐称其老公已被原公司撤职很久",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 921887,
-      "num": 568217,
+      "num": 881930,
       "word": "男子散落400万现金纸钞遭哄抢",
       "onboard_time": 1688873311,
       "rank": 30,
@@ -187,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 682860,
+      "num": 682860,
+      "word": "章昊认为自己能C位出道的原因",
+      "onboard_time": 1688874150,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670699,
       "num": 550819,
       "word": "马景涛 边牧波泥小pony",
@@ -201,6 +225,14 @@
       "onboard_time": 1688826033,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 657786,
+      "num": 657786,
+      "word": "济南大学回应留学生生活补助每月3万",
+      "onboard_time": 1688875654,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640224,
@@ -220,27 +252,11 @@
     },
     {
       "raw_hot": 628430,
-      "num": 311920,
+      "num": 313486,
       "word": "影楼把我的孕照丢失了怎么办",
       "onboard_time": 1688862327,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 624210,
-      "num": 624210,
-      "word": "章昊认为自己能C位出道的原因",
-      "onboard_time": 1688874150,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 623874,
-      "num": 623874,
-      "word": "魏大勋反手开车门",
-      "onboard_time": 1688874812,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 618662,
@@ -265,14 +281,6 @@
       "onboard_time": 1688865451,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566337,
-      "num": 279258,
-      "word": "女孩中考742分报考师范专科引争议",
-      "onboard_time": 1688875891,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 546529,
@@ -419,12 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411651,
-      "num": 411651,
-      "word": "济南大学回应留学生生活补助每月3万",
-      "onboard_time": 1688875654,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 422018,
+      "num": 319903,
+      "word": "消失的她进入2023全球票房榜前十",
+      "onboard_time": 1688873069,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 409163,
@@ -436,18 +444,10 @@
     },
     {
       "raw_hot": 400499,
-      "num": 288754,
+      "num": 293382,
       "word": "倪妮主演电影票房超过杨幂",
       "onboard_time": 1688870791,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 397963,
-      "num": 319903,
-      "word": "消失的她进入2023全球票房榜前十",
-      "onboard_time": 1688873069,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -488,6 +488,14 @@
       "word": "男子称在酒店床上发现排泄物",
       "onboard_time": 1688813611,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369926,
+      "num": 369926,
+      "word": "女生被夫妻占座被指责破坏家庭",
+      "onboard_time": 1688876132,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -568,6 +576,22 @@
       "word": "民警陪戒毒人员见父亲最后一面",
       "onboard_time": 1688851453,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318684,
+      "num": 282084,
+      "word": "彭昱畅回归向往的生活",
+      "onboard_time": 1688876429,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312720,
+      "num": 312720,
+      "word": "长期食用口水油或致癌",
+      "onboard_time": 1688876492,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -707,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258457,
+      "num": 258457,
+      "word": "奶奶接孙女放学被水冲走十多人急救援",
+      "onboard_time": 1688876792,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256875,
       "num": 256875,
       "word": "自驾游夫妻高速上被黑熊撞翻车",
@@ -779,6 +811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235436,
+      "num": 235436,
+      "word": "济南事业编",
+      "onboard_time": 1688875593,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 231580,
+      "num": 203073,
+      "word": "卡琳娜营业 天花板级别",
+      "onboard_time": 1688877271,
+      "rank": 40,
+      "category": "网红,动漫"
+    },
+    {
       "raw_hot": 230165,
       "num": 230165,
       "word": "金虎 感谢大家参加我的生日会",
@@ -819,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223330,
-      "num": 282686,
-      "word": "女生被夫妻占座被指责破坏家庭",
-      "onboard_time": 1688876132,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223024,
       "num": 223024,
       "word": "网友在三里屯偶遇张嘉倪",
@@ -848,6 +888,14 @@
       "word": "9个孩子被骗缅甸遭电击开水烫",
       "onboard_time": 1688797351,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218549,
+      "num": 218549,
+      "word": "账与帐很多人分不清",
+      "onboard_time": 1688877031,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -881,6 +929,14 @@
       "onboard_time": 1688825197,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203445,
+      "num": 203445,
+      "word": "耶伦召开记者会",
+      "onboard_time": 1688876552,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 202792,
@@ -971,14 +1027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175312,
-      "num": 175312,
-      "word": "济南事业编",
-      "onboard_time": 1688875593,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 171985,
       "num": 171985,
       "word": "北京中考查分",
@@ -1003,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161895,
-      "num": 161895,
-      "word": "彭昱畅回归向往的生活",
-      "onboard_time": 1688876429,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 160692,
+      "num": 160692,
+      "word": "你爷爷也没看过海",
+      "onboard_time": 1688877390,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159815,
@@ -1025,14 +1073,6 @@
       "onboard_time": 1688837839,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156902,
-      "num": 156902,
-      "word": "长期食用口水油或致癌",
-      "onboard_time": 1688876492,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156297,
@@ -1211,6 +1251,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 77422,
+      "num": 434102,
+      "word": "年轻人开始去电音节蹦迪",
+      "onboard_time": 1688875230,
+      "rank": 14,
+      "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 75458,
+      "num": 1211008,
+      "word": "滇藏铁路丽香段哈巴雪山隧道贯通",
+      "onboard_time": 1688875171,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73118,
       "num": 93044,
       "word": "LGD新首发阵容",
@@ -1241,22 +1297,6 @@
       "onboard_time": 1688843535,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52387,
-      "num": 1211008,
-      "word": "滇藏铁路丽香段哈巴雪山隧道贯通",
-      "onboard_time": 1688875171,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52039,
-      "num": 434102,
-      "word": "年轻人开始去电音节蹦迪",
-      "onboard_time": 1688875230,
-      "rank": 14,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 48784,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1688877424586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1749026,
+        "num": 1749026,
+        "word": "韩国歌手李尚恩去世",
+        "onboard_time": 1688866829,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1130916,
+        "num": 1130916,
+        "word": "庆余年第二季首发剧照",
+        "onboard_time": 1688871450,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75458,
+        "num": 952857,
+        "word": "滇藏铁路丽香段哈巴雪山隧道贯通",
+        "onboard_time": 1688875171,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158191,
+        "num": 951535,
+        "word": "药水哥两年没回向佐微信",
+        "onboard_time": 1688868570,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 949289,
+        "num": 949289,
+        "word": "魏大勋反手开车门",
+        "onboard_time": 1688874812,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2129866,
+        "num": 949039,
+        "word": "罗翔",
+        "onboard_time": 1688859802,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943846,
+        "num": 943846,
+        "word": "专家称本周或是十万年来最热一周",
+        "onboard_time": 1688873852,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881930,
+        "num": 881930,
+        "word": "男子散落400万现金纸钞遭哄抢",
+        "onboard_time": 1688873311,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 682860,
+        "num": 682860,
+        "word": "章昊认为自己能C位出道的原因",
+        "onboard_time": 1688874150,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 657786,
+        "num": 657786,
+        "word": "济南大学回应留学生生活补助每月3万",
+        "onboard_time": 1688875654,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1690041,
+        "num": 618232,
+        "word": "女孩中考742分报考师范专科引争议",
+        "onboard_time": 1688875891,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 449795,
+        "num": 449795,
+        "word": "顾九思得知柳玉茹死讯泪崩",
+        "onboard_time": 1688872771,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431757,
+        "num": 431757,
+        "word": "一个关于指甲的小偏方",
+        "onboard_time": 1688870371,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407006,
+        "num": 407006,
+        "word": "女儿一封信让环卫工爸爸工服变了样",
+        "onboard_time": 1688872830,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77422,
+        "num": 405110,
+        "word": "年轻人开始去电音节蹦迪",
+        "onboard_time": 1688875230,
+        "rank": 14,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 404070,
+        "num": 404070,
+        "word": "茶啊二中",
+        "onboard_time": 1688870971,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385666,
+        "num": 385666,
+        "word": "原来沈腾艾伦都是校草",
+        "onboard_time": 1688868690,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369926,
+        "num": 369926,
+        "word": "女生被夫妻占座被指责破坏家庭",
+        "onboard_time": 1688876132,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365844,
+        "num": 365844,
+        "word": "庆余年",
+        "onboard_time": 1688872229,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315681,
+        "num": 315681,
+        "word": "交警罚完瓜农帮卖了2000多斤瓜",
+        "onboard_time": 1688873130,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858324,
+        "num": 314248,
+        "word": "魏大勋没想到你能演骨科",
+        "onboard_time": 1688868512,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422018,
+        "num": 313927,
+        "word": "消失的她进入2023全球票房榜前十",
+        "onboard_time": 1688873069,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413678,
+        "num": 313486,
+        "word": "影楼把我的孕照丢失了怎么办",
+        "onboard_time": 1688862327,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312720,
+        "num": 312720,
+        "word": "长期食用口水油或致癌",
+        "onboard_time": 1688876492,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302866,
+        "num": 302866,
+        "word": "家长庆祝孩子高考660分聚众赌博被拘",
+        "onboard_time": 1688862687,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 340919,
+        "num": 293382,
+        "word": "倪妮主演电影票房超过杨幂",
+        "onboard_time": 1688870791,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318684,
+        "num": 282084,
+        "word": "彭昱畅回归向往的生活",
+        "onboard_time": 1688876429,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335463,
+        "num": 276753,
+        "word": "何非知道李木子无论如何都活不了",
+        "onboard_time": 1688860584,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258457,
+        "num": 258457,
+        "word": "奶奶接孙女放学被水冲走十多人急救援",
+        "onboard_time": 1688876792,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255653,
+        "num": 255653,
+        "word": "韩国某些职业只招特定的MBTI",
+        "onboard_time": 1688871872,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317881,
+        "num": 253312,
+        "word": "张彬彬心疼的伤臂都穿帮了",
+        "onboard_time": 1688874452,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 281437,
+        "num": 252929,
+        "word": "时影别闹vs蓝忘机别闹",
+        "onboard_time": 1688873609,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263722,
+        "num": 250829,
+        "word": "贾静雯从唱跳双废到女团预备",
+        "onboard_time": 1688868930,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248704,
+        "num": 248704,
+        "word": "乘风4团综路透",
+        "onboard_time": 1688875171,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242518,
+        "num": 242518,
+        "word": "蛋仔雪王",
+        "onboard_time": 1688870551,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 241908,
+        "num": 241908,
+        "word": "马景涛",
+        "onboard_time": 1688859922,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235436,
+        "num": 235436,
+        "word": "济南事业编",
+        "onboard_time": 1688875593,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224942,
+        "num": 224942,
+        "word": "警方通报女子在餐厅投放不明物品",
+        "onboard_time": 1688870791,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218549,
+        "num": 218549,
+        "word": "账与帐很多人分不清",
+        "onboard_time": 1688877031,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203445,
+        "num": 203445,
+        "word": "耶伦召开记者会",
+        "onboard_time": 1688876552,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 231580,
+        "num": 203073,
+        "word": "卡琳娜营业 天花板级别",
+        "onboard_time": 1688877271,
+        "rank": 40,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 225164,
+        "num": 203018,
+        "word": "罗正跳eiei",
+        "onboard_time": 1688872049,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220032,
+        "num": 202995,
+        "word": "鹿晗说邓超照片巨丑",
+        "onboard_time": 1688863048,
+        "rank": 42,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 202604,
+        "num": 202604,
+        "word": "离岸流",
+        "onboard_time": 1688872713,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189892,
+        "num": 189892,
+        "word": "人民日报评长安三万里",
+        "onboard_time": 1688865568,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189686,
+        "num": 189686,
+        "word": "黄子韬说宁静那英没一个能压得住自己",
+        "onboard_time": 1688867910,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189112,
+        "num": 189112,
+        "word": "商家 外卖小哥求你闭嘴吧",
+        "onboard_time": 1688869052,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160692,
+        "num": 160692,
+        "word": "你爷爷也没看过海",
+        "onboard_time": 1688877390,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135033,
+        "num": 160690,
+        "word": "未定事件簿茶百道",
+        "onboard_time": 1688874993,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126516,
+        "num": 160684,
+        "word": "斗破苍穹",
+        "onboard_time": 1688870852,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美鼓岭情缘为何延续至今#"
+    }
+  }
+}
