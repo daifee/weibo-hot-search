@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688934845128,
+  "endTime": 1688937351142,
   "band_list": [
     {
       "raw_hot": 1496601,
@@ -523,6 +523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 28188,
+      "num": 50797,
+      "word": "张杰年度最佳内地男歌手",
+      "onboard_time": 1688934132,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 27838,
       "num": 50734,
       "word": "遇到离岸流有多危险",
@@ -539,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 22348,
-      "num": 50797,
-      "word": "张杰年度最佳内地男歌手",
-      "onboard_time": 1688934132,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 23873,
+      "num": 49842,
+      "word": "第一次看到这么活泼的扇贝",
+      "onboard_time": 1688935512,
+      "rank": 35,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
