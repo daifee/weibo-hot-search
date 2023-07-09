@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688941052298,
+  "endTime": 1688942117352,
   "band_list": [
     {
       "raw_hot": 1496601,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302150,
+      "num": 302150,
+      "word": "张兰上诉被驳回",
+      "onboard_time": 1688921246,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 296143,
       "num": 296143,
       "word": "seventeen视频有了吗",
@@ -289,14 +297,6 @@
       "onboard_time": 1688900131,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269245,
-      "num": 298453,
-      "word": "张兰上诉被驳回",
-      "onboard_time": 1688921246,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 263325,
@@ -459,8 +459,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110631,
-      "num": 110631,
+      "raw_hot": 114367,
+      "num": 114367,
       "word": "有没有可能王一博穿了袜子",
       "onboard_time": 1688926036,
       "rank": 26,
@@ -499,6 +499,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65028,
+      "num": 58353,
+      "word": "南大0001号录取通知书获得者",
+      "onboard_time": 1688941275,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 56171,
+      "num": 56171,
+      "word": "张杰年度最佳内地男歌手",
+      "onboard_time": 1688934132,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 51659,
+      "num": 54302,
+      "word": "第一次看到这么活泼的扇贝",
+      "onboard_time": 1688935512,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 49865,
       "num": 57653,
       "word": "范玉好蠢",
@@ -507,20 +531,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 46179,
-      "num": 54443,
-      "word": "张杰年度最佳内地男歌手",
-      "onboard_time": 1688934132,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 44699,
+      "num": 53564,
+      "word": "学学李白找工作",
+      "onboard_time": 1688939236,
+      "rank": 42,
+      "category": "情感"
     },
     {
-      "raw_hot": 44013,
-      "num": 54302,
-      "word": "第一次看到这么活泼的扇贝",
-      "onboard_time": 1688935512,
-      "rank": 35,
-      "category": "幽默,情感"
+      "raw_hot": 44139,
+      "num": 53800,
+      "word": "玉骨遥",
+      "onboard_time": 1688931014,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 37564,
@@ -531,28 +555,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 34800,
-      "num": 53800,
-      "word": "玉骨遥",
-      "onboard_time": 1688931014,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 33266,
       "num": 55304,
       "word": "专业人士回应遇离岸流如何自救",
       "onboard_time": 1688930053,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31835,
-      "num": 53564,
-      "word": "学学李白找工作",
-      "onboard_time": 1688939236,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 30199,
