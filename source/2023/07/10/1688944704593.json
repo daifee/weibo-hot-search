@@ -1,0 +1,410 @@
+{
+  "runTime": 1688944704593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 887454,
+        "num": 887454,
+        "word": "海南警方回应陪女友看演唱会男孩溺亡",
+        "onboard_time": 1688900433,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807838,
+        "num": 807838,
+        "word": "七月辞职 狼多肉少",
+        "onboard_time": 1688910754,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44701,
+        "num": 640172,
+        "word": "高考录取通知查询通道",
+        "onboard_time": 1688912917,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614306,
+        "num": 614306,
+        "word": "宋焰的不幸 和女主相爱",
+        "onboard_time": 1688924359,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 589054,
+        "num": 589054,
+        "word": "首尔街头采访韩国人加班",
+        "onboard_time": 1688919626,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538596,
+        "num": 538596,
+        "word": "我爱我家杭州公司高管全部被停职",
+        "onboard_time": 1688913335,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493788,
+        "num": 493788,
+        "word": "张兰上诉被驳回",
+        "onboard_time": 1688921246,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 447769,
+        "num": 447769,
+        "word": "肖战下一部戏藏海戏麟",
+        "onboard_time": 1688915195,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381473,
+        "num": 381473,
+        "word": "樊振东WTT夺冠",
+        "onboard_time": 1688943861,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356376,
+        "num": 356376,
+        "word": "前任和现任的关系可以有多好",
+        "onboard_time": 1688918251,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350425,
+        "num": 350425,
+        "word": "26岁一想到明天上班还想哭",
+        "onboard_time": 1688914536,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330052,
+        "num": 330052,
+        "word": "独居老人没开空调致热痉挛咬断两颗牙",
+        "onboard_time": 1688918310,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322651,
+        "num": 322651,
+        "word": "是谁去杭州给宋轶买的牛排包",
+        "onboard_time": 1688913874,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303330,
+        "num": 303330,
+        "word": "2女子与蜜雪冰城员工起冲突",
+        "onboard_time": 1688913154,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262350,
+        "num": 262350,
+        "word": "朱一龙眼睛太大被风吹走了隐形眼镜",
+        "onboard_time": 1688916453,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246621,
+        "num": 246621,
+        "word": "张若昀直播剧透庆余年2",
+        "onboard_time": 1688927415,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245477,
+        "num": 245477,
+        "word": "警方通报北京政法职业学院学生纠纷",
+        "onboard_time": 1688911773,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216991,
+        "num": 216991,
+        "word": "穷的时候真的特别敏感",
+        "onboard_time": 1688917710,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211328,
+        "num": 211328,
+        "word": "孟宴臣要开始发疯了",
+        "onboard_time": 1688911054,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199743,
+        "num": 199743,
+        "word": "WTT球星挑战赛卢布尔雅那站2023",
+        "onboard_time": 1688944223,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307722,
+        "num": 198838,
+        "word": "南大0001号录取通知书获得者",
+        "onboard_time": 1688941275,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 238966,
+        "num": 198647,
+        "word": "你会整夜吹空调吗",
+        "onboard_time": 1688914956,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 196634,
+        "num": 196634,
+        "word": "你的睡眠也在变老",
+        "onboard_time": 1688913335,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182671,
+        "num": 182671,
+        "word": "有没有可能王一博穿了袜子",
+        "onboard_time": 1688926036,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169295,
+        "num": 169295,
+        "word": "白敬亭张昊唯没白来极限挑战",
+        "onboard_time": 1688918429,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149434,
+        "num": 149434,
+        "word": "男子花百元订蛋糕只有一层奶油",
+        "onboard_time": 1688912254,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143277,
+        "num": 143277,
+        "word": "张杰年度最佳内地男歌手",
+        "onboard_time": 1688934132,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140137,
+        "num": 140137,
+        "word": "文韬发脾气是这样的吗",
+        "onboard_time": 1688920465,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139755,
+        "num": 139755,
+        "word": "孟宴臣 蝴蝶",
+        "onboard_time": 1688907511,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136308,
+        "num": 136308,
+        "word": "一个不会离职的办公桌长啥样",
+        "onboard_time": 1688895451,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176218,
+        "num": 132223,
+        "word": "小学生开始去胖东来抢座位了",
+        "onboard_time": 1688944161,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127810,
+        "num": 127810,
+        "word": "郑州狗主悬赏1000万人民币寻狗",
+        "onboard_time": 1688900131,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125923,
+        "num": 125923,
+        "word": "赵露思2019年vs2023年",
+        "onboard_time": 1688917830,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122575,
+        "num": 122575,
+        "word": "国产剧能不能边拍边播",
+        "onboard_time": 1688912014,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119462,
+        "num": 119462,
+        "word": "杨洋版孟宴臣",
+        "onboard_time": 1688918191,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117296,
+        "num": 117296,
+        "word": "入职要填微博名该怎么办",
+        "onboard_time": 1688914774,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109747,
+        "num": 109747,
+        "word": "seventeen舞台",
+        "onboard_time": 1688919507,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98080,
+        "num": 98080,
+        "word": "下辈子先预定一下这张脸",
+        "onboard_time": 1688919507,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104483,
+        "num": 97538,
+        "word": "汪苏泷开演唱会同时领了个奖",
+        "onboard_time": 1688937552,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94445,
+        "num": 94445,
+        "word": "学学李白找工作",
+        "onboard_time": 1688939236,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93718,
+        "num": 93718,
+        "word": "亲密关系突然破裂",
+        "onboard_time": 1688917414,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89357,
+        "num": 89357,
+        "word": "爱豆鹿晗回来了",
+        "onboard_time": 1688906431,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87407,
+        "num": 87407,
+        "word": "法老走红毯",
+        "onboard_time": 1688919269,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85270,
+        "num": 85270,
+        "word": "第一次看到这么活泼的扇贝",
+        "onboard_time": 1688935512,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 83013,
+        "num": 83013,
+        "word": "人民论坛网评八角笼中",
+        "onboard_time": 1688918372,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81865,
+        "num": 81865,
+        "word": "济南大学已报警",
+        "onboard_time": 1688893051,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 78055,
+        "num": 78055,
+        "word": "玉骨遥",
+        "onboard_time": 1688931014,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73962,
+        "num": 73962,
+        "word": "Fofo Uzi想弄就跟",
+        "onboard_time": 1688910630,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72701,
+        "num": 72701,
+        "word": "张元英露腰",
+        "onboard_time": 1688917710,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70204,
+        "num": 70204,
+        "word": "高温天女子给工人送2瓶冰水解暑",
+        "onboard_time": 1688943921,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习纲要思维导图#"
+    }
+  }
+}
