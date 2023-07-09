@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688869414518,
+  "endTime": 1688872192519,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -17,6 +17,14 @@
       "onboard_time": 1688866829,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1623289,
+      "num": 1000732,
+      "word": "药水哥两年没回向佐微信",
+      "onboard_time": 1688868570,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1368367,
@@ -51,11 +59,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1072334,
+      "num": 278590,
+      "word": "魏大勋没想到你能演骨科",
+      "onboard_time": 1688868512,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1032529,
       "num": 1032529,
       "word": "暑假目前最惊喜的国产剧",
       "onboard_time": 1688831611,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1013224,
+      "num": 1013224,
+      "word": "庆余年第二季首发剧照",
+      "onboard_time": 1688871450,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -65,14 +89,6 @@
       "onboard_time": 1688861424,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1000732,
-      "num": 1000732,
-      "word": "药水哥两年没回向佐微信",
-      "onboard_time": 1688868570,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 999500,
@@ -107,12 +123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 789751,
+      "num": 789751,
+      "word": "黄子韬说宁静那英没一个能压得住自己",
+      "onboard_time": 1688867910,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 785320,
       "num": 785320,
       "word": "家里对外人谎报我的高考分数",
       "onboard_time": 1688862988,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 768989,
+      "num": 513973,
+      "word": "原来沈腾艾伦都是校草",
+      "onboard_time": 1688868690,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 700588,
@@ -155,16 +187,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 631696,
-      "num": 278590,
-      "word": "魏大勋没想到你能演骨科",
-      "onboard_time": 1688868512,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 639627,
+      "num": 413687,
+      "word": "一个关于指甲的小偏方",
+      "onboard_time": 1688870371,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 628430,
-      "num": 269216,
+      "num": 270932,
       "word": "影楼把我的孕照丢失了怎么办",
       "onboard_time": 1688862327,
       "rank": 20,
@@ -176,14 +208,6 @@
       "word": "孟宴臣许沁",
       "onboard_time": 1688863168,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 612982,
-      "num": 543774,
-      "word": "黄子韬说宁静那英没一个能压得住自己",
-      "onboard_time": 1688867910,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -219,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539101,
+      "num": 399080,
+      "word": "茶啊二中",
+      "onboard_time": 1688870971,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533144,
       "num": 264124,
       "word": "BLACKPINK里哪位成员最依赖团",
@@ -233,14 +265,6 @@
       "onboard_time": 1688827175,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 513973,
-      "num": 513973,
-      "word": "原来沈腾艾伦都是校草",
-      "onboard_time": 1688868690,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 490339,
@@ -299,6 +323,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432900,
+      "num": 387242,
+      "word": "贾静雯从唱跳双废到女团预备",
+      "onboard_time": 1688868930,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 432309,
+      "num": 432309,
+      "word": "情绪稳定vs情绪表达",
+      "onboard_time": 1688866049,
+      "rank": 21,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 423031,
       "num": 423031,
       "word": "长安三万里 李白",
@@ -321,6 +361,14 @@
       "onboard_time": 1688823574,
       "rank": 14,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 377088,
+      "num": 266097,
+      "word": "蛋仔雪王",
+      "onboard_time": 1688870551,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 373528,
@@ -347,12 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363915,
-      "num": 350658,
-      "word": "情绪稳定vs情绪表达",
-      "onboard_time": 1688866049,
-      "rank": 21,
-      "category": "情感,幽默"
+      "raw_hot": 350447,
+      "num": 261896,
+      "word": "倪妮主演电影票房超过杨幂",
+      "onboard_time": 1688870791,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 350137,
+      "num": 350137,
+      "word": "28岁女驾驶员开船穿越北冰洋",
+      "onboard_time": 1688865451,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347477,
@@ -361,6 +417,14 @@
       "onboard_time": 1688826994,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343765,
+      "num": 259442,
+      "word": "罗正跳eiei",
+      "onboard_time": 1688872049,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 330439,
@@ -387,11 +451,11 @@
       "category": "旅游,幽默"
     },
     {
-      "raw_hot": 326149,
-      "num": 326149,
-      "word": "28岁女驾驶员开船穿越北冰洋",
-      "onboard_time": 1688865451,
-      "rank": 19,
+      "raw_hot": 324393,
+      "num": 264380,
+      "word": "警方通报女子在餐厅投放不明物品",
+      "onboard_time": 1688870791,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -401,14 +465,6 @@
       "onboard_time": 1688851453,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320513,
-      "num": 226351,
-      "word": "贾静雯从唱跳双废到女团预备",
-      "onboard_time": 1688868930,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 311286,
@@ -444,10 +500,26 @@
     },
     {
       "raw_hot": 296331,
-      "num": 234900,
+      "num": 253600,
       "word": "凌霄vs孟宴臣",
       "onboard_time": 1688867130,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 294169,
+      "num": 248757,
+      "word": "杨洋王彦霖演情敌和同母异父的兄弟",
+      "onboard_time": 1688869590,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281218,
+      "num": 246931,
+      "word": "消失的十一层今日开播",
+      "onboard_time": 1688869770,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -555,6 +627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 235597,
+      "num": 235597,
+      "word": "商家 外卖小哥求你闭嘴吧",
+      "onboard_time": 1688869052,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235567,
       "num": 238864,
       "word": "浮桥",
@@ -611,20 +691,20 @@
       "category": "音乐,综艺"
     },
     {
-      "raw_hot": 220535,
-      "num": 220535,
-      "word": "商家 外卖小哥求你闭嘴吧",
-      "onboard_time": 1688869052,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 219335,
       "num": 219335,
       "word": "9个孩子被骗缅甸遭电击开水烫",
       "onboard_time": 1688797351,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215779,
+      "num": 186729,
+      "word": "单依纯00后爱情观",
+      "onboard_time": 1688869351,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 213659,
@@ -660,7 +740,7 @@
     },
     {
       "raw_hot": 201177,
-      "num": 239137,
+      "num": 250817,
       "word": "中国队提前锁定混双男双冠军",
       "onboard_time": 1688858120,
       "rank": 49,
@@ -673,6 +753,14 @@
       "onboard_time": 1688865093,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199821,
+      "num": 199821,
+      "word": "时影术法手势教学",
+      "onboard_time": 1688872112,
+      "rank": 34,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 199582,
@@ -689,14 +777,6 @@
       "onboard_time": 1688866890,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186729,
-      "num": 186729,
-      "word": "单依纯00后爱情观",
-      "onboard_time": 1688869351,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 186473,
@@ -731,6 +811,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179126,
+      "num": 179126,
+      "word": "韩国某些职业只招特定的MBTI",
+      "onboard_time": 1688871872,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 176091,
+      "num": 178301,
+      "word": "斗破苍穹",
+      "onboard_time": 1688870852,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 171985,
       "num": 171985,
       "word": "北京中考查分",
@@ -752,6 +848,14 @@
       "word": "女子找手机全飞机乘客干等3小时",
       "onboard_time": 1688817813,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159815,
+      "num": 159815,
+      "word": "黄曲霉素产生条件",
+      "onboard_time": 1688869649,
+      "rank": 46,
       "category": "社会新闻"
     },
     {

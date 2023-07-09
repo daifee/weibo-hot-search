@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688869414518,
+  "endTime": 1688872192519,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1363,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1623289,
+      "num": 1000732,
+      "word": "药水哥两年没回向佐微信",
+      "onboard_time": 1688868570,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1613803,
       "num": 1152083,
       "word": "我的新娘被人说好像杨紫",
@@ -2403,6 +2411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1072334,
+      "num": 278590,
+      "word": "魏大勋没想到你能演骨科",
+      "onboard_time": 1688868512,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1066021,
       "num": 464104,
       "word": "男子称儿子在足浴店兴奋过度身亡",
@@ -2563,6 +2579,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1013224,
+      "num": 1013224,
+      "word": "庆余年第二季首发剧照",
+      "onboard_time": 1688871450,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1011679,
       "num": 239307,
       "word": "肖战和替身同框",
@@ -2601,14 +2625,6 @@
       "onboard_time": 1688801192,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1000732,
-      "num": 1000732,
-      "word": "药水哥两年没回向佐微信",
-      "onboard_time": 1688868570,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 999614,
@@ -3675,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789751,
+      "num": 789751,
+      "word": "黄子韬说宁静那英没一个能压得住自己",
+      "onboard_time": 1688867910,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 789037,
       "num": 789037,
       "word": "华晨宇PEL生涯首个淘汰",
@@ -3865,6 +3889,14 @@
       "onboard_time": 1688439696,
       "rank": 28,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 768989,
+      "num": 513973,
+      "word": "原来沈腾艾伦都是校草",
+      "onboard_time": 1688868690,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 768979,
@@ -4795,6 +4827,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 639627,
+      "num": 413687,
+      "word": "一个关于指甲的小偏方",
+      "onboard_time": 1688870371,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 637584,
       "num": 637584,
       "word": "美依礼芽被蜗牛吓到尖叫",
@@ -4833,14 +4873,6 @@
       "onboard_time": 1688750720,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 631696,
-      "num": 278590,
-      "word": "魏大勋没想到你能演骨科",
-      "onboard_time": 1688868512,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 630730,
@@ -4884,7 +4916,7 @@
     },
     {
       "raw_hot": 628430,
-      "num": 269216,
+      "num": 270932,
       "word": "影楼把我的孕照丢失了怎么办",
       "onboard_time": 1688862327,
       "rank": 20,
@@ -5001,14 +5033,6 @@
       "onboard_time": 1688823033,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612982,
-      "num": 543774,
-      "word": "黄子韬说宁静那英没一个能压得住自己",
-      "onboard_time": 1688867910,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 612060,
@@ -5747,6 +5771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 539101,
+      "num": 399080,
+      "word": "茶啊二中",
+      "onboard_time": 1688870971,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 536673,
       "num": 536673,
       "word": "这就是热恋期的小情侣吗",
@@ -5961,14 +5993,6 @@
       "onboard_time": 1688465560,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 513973,
-      "num": 513973,
-      "word": "原来沈腾艾伦都是校草",
-      "onboard_time": 1688868690,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 513579,
@@ -6955,6 +6979,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432900,
+      "num": 387242,
+      "word": "贾静雯从唱跳双废到女团预备",
+      "onboard_time": 1688868930,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 432309,
+      "num": 432309,
+      "word": "情绪稳定vs情绪表达",
+      "onboard_time": 1688866049,
+      "rank": 21,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 431619,
       "num": 431619,
       "word": "领导不让我回复好滴",
@@ -7771,6 +7811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377088,
+      "num": 266097,
+      "word": "蛋仔雪王",
+      "onboard_time": 1688870551,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 376530,
       "num": 357020,
       "word": "为什么高铁还没到站就站起来等",
@@ -8051,14 +8099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 363915,
-      "num": 350658,
-      "word": "情绪稳定vs情绪表达",
-      "onboard_time": 1688866049,
-      "rank": 21,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 363902,
       "num": 363902,
       "word": "德云社",
@@ -8315,12 +8355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350447,
+      "num": 261896,
+      "word": "倪妮主演电影票房超过杨幂",
+      "onboard_time": 1688870791,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350168,
       "num": 350168,
       "word": "杨颖王楚然任敏连播两部剧",
       "onboard_time": 1688524896,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350137,
+      "num": 350137,
+      "word": "28岁女驾驶员开船穿越北冰洋",
+      "onboard_time": 1688865451,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349526,
@@ -8425,6 +8481,14 @@
       "onboard_time": 1688552494,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 343765,
+      "num": 259442,
+      "word": "罗正跳eiei",
+      "onboard_time": 1688872049,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 343105,
@@ -8899,14 +8963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326149,
-      "num": 326149,
-      "word": "28岁女驾驶员开船穿越北冰洋",
-      "onboard_time": 1688865451,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325699,
       "num": 295099,
       "word": "王阳到底演过多少姐夫",
@@ -8952,6 +9008,14 @@
       "word": "三只狗狗相约一起看日出",
       "onboard_time": 1688374423,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324393,
+      "num": 264380,
+      "word": "警方通报女子在餐厅投放不明物品",
+      "onboard_time": 1688870791,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -9041,14 +9105,6 @@
       "onboard_time": 1688807311,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320513,
-      "num": 226351,
-      "word": "贾静雯从唱跳双废到女团预备",
-      "onboard_time": 1688868930,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 320327,
@@ -9620,7 +9676,7 @@
     },
     {
       "raw_hot": 296331,
-      "num": 234900,
+      "num": 253600,
       "word": "凌霄vs孟宴臣",
       "onboard_time": 1688867130,
       "rank": 36,
@@ -9705,6 +9761,14 @@
       "onboard_time": 1688401833,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294169,
+      "num": 248757,
+      "word": "杨洋王彦霖演情敌和同母异父的兄弟",
+      "onboard_time": 1688869590,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 294096,
@@ -10033,6 +10097,14 @@
       "onboard_time": 1688783612,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 281218,
+      "num": 246931,
+      "word": "消失的十一层今日开播",
+      "onboard_time": 1688869770,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 280520,
@@ -11443,6 +11515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235597,
+      "num": 235597,
+      "word": "商家 外卖小哥求你闭嘴吧",
+      "onboard_time": 1688869052,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235567,
       "num": 238864,
       "word": "浮桥",
@@ -12035,14 +12115,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 220535,
-      "num": 220535,
-      "word": "商家 外卖小哥求你闭嘴吧",
-      "onboard_time": 1688869052,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 220534,
       "num": 220534,
       "word": "海猫",
@@ -12185,6 +12257,14 @@
       "onboard_time": 1688808572,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215779,
+      "num": 186729,
+      "word": "单依纯00后爱情观",
+      "onboard_time": 1688869351,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 215660,
@@ -12844,7 +12924,7 @@
     },
     {
       "raw_hot": 201177,
-      "num": 239137,
+      "num": 250817,
       "word": "中国队提前锁定混双男双冠军",
       "onboard_time": 1688858120,
       "rank": 49,
@@ -12913,6 +12993,14 @@
       "onboard_time": 1688785472,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199821,
+      "num": 199821,
+      "word": "时影术法手势教学",
+      "onboard_time": 1688872112,
+      "rank": 34,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 199582,
@@ -13555,14 +13643,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 186729,
-      "num": 186729,
-      "word": "单依纯00后爱情观",
-      "onboard_time": 1688869351,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186546,
       "num": 186546,
       "word": "陈紫函戴向宇玉骨遥片场撒狗粮",
@@ -13704,6 +13784,14 @@
       "word": "近距离观察日本对虾产卵",
       "onboard_time": 1688564261,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 179126,
+      "num": 179126,
+      "word": "韩国某些职业只招特定的MBTI",
+      "onboard_time": 1688871872,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -13921,6 +14009,14 @@
       "onboard_time": 1688449477,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176091,
+      "num": 178301,
+      "word": "斗破苍穹",
+      "onboard_time": 1688870852,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 175925,
@@ -14369,6 +14465,14 @@
       "onboard_time": 1688563773,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159815,
+      "num": 159815,
+      "word": "黄曲霉素产生条件",
+      "onboard_time": 1688869649,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159610,
