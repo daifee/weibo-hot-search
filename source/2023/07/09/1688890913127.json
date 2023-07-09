@@ -1,0 +1,410 @@
+{
+  "runTime": 1688890913127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2226792,
+        "num": 2226792,
+        "word": "肖战在任敏微博评论区刷屏",
+        "onboard_time": 1688884049,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1249243,
+        "num": 1249243,
+        "word": "女孩中考742分报考师范专科引争议",
+        "onboard_time": 1688875891,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 21664,
+        "num": 900670,
+        "word": "一图了解中华文明探源工程主要成果",
+        "onboard_time": 1688874932,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843540,
+        "num": 843540,
+        "word": "发现高档食品一般不能多吃",
+        "onboard_time": 1688885727,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1594138,
+        "num": 842087,
+        "word": "汤唯韩国坐地铁",
+        "onboard_time": 1688887411,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772965,
+        "num": 772965,
+        "word": "这四个显眼包怎么变了",
+        "onboard_time": 1688888849,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 761285,
+        "num": 761285,
+        "word": "顾客买到生瓜留言2年后收到回复",
+        "onboard_time": 1688888309,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661594,
+        "num": 661594,
+        "word": "洪欣张丹峰带女儿合拍视频",
+        "onboard_time": 1688887169,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507312,
+        "num": 507312,
+        "word": "李玟姐姐称乐裕民靠李玟上位",
+        "onboard_time": 1688884651,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421028,
+        "num": 421028,
+        "word": "年轻人为什么不买快时尚的账了",
+        "onboard_time": 1688877571,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1160551,
+        "num": 416573,
+        "word": "一鹿彤行偷偷藏不住版",
+        "onboard_time": 1688888731,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483504,
+        "num": 406839,
+        "word": "庆余年第二季首发剧照",
+        "onboard_time": 1688871450,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432765,
+        "num": 405626,
+        "word": "难哄男主魏大勋来演怎么样",
+        "onboard_time": 1688889512,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393964,
+        "num": 393964,
+        "word": "郝景芳",
+        "onboard_time": 1688887892,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391055,
+        "num": 391055,
+        "word": "共享充电宝电用完只充了30%",
+        "onboard_time": 1688883627,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 418075,
+        "num": 382125,
+        "word": "曝HYBE员工搜身时摸粉丝胸部",
+        "onboard_time": 1688882250,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409536,
+        "num": 381942,
+        "word": "肖战的内核",
+        "onboard_time": 1688888431,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365323,
+        "num": 365323,
+        "word": "魏大勋反手开车门",
+        "onboard_time": 1688874812,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308928,
+        "num": 308928,
+        "word": "夫妻情侣请求让座你会让吗",
+        "onboard_time": 1688881228,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 289263,
+        "num": 289263,
+        "word": "罗翔",
+        "onboard_time": 1688859802,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512863,
+        "num": 287062,
+        "word": "天天发朋友圈会让人反感吗",
+        "onboard_time": 1688889092,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387538,
+        "num": 284634,
+        "word": "为什么上班后大家就爱发云彩了",
+        "onboard_time": 1688886450,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351623,
+        "num": 283618,
+        "word": "心疼白敬亭一整期",
+        "onboard_time": 1688890049,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280123,
+        "num": 280123,
+        "word": "大学生因毕业问题无颜回家流浪10年",
+        "onboard_time": 1688880092,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 275088,
+        "num": 275088,
+        "word": "揉眼睛的花花",
+        "onboard_time": 1688886149,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311043,
+        "num": 273456,
+        "word": "王楚然刻在DNA里吹粥动作",
+        "onboard_time": 1688889450,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306150,
+        "num": 264068,
+        "word": "seventeen彩排了7次hot",
+        "onboard_time": 1688888489,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275840,
+        "num": 263651,
+        "word": "八角笼中",
+        "onboard_time": 1688888250,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229155,
+        "num": 229155,
+        "word": "专家称本周或是十万年来最热一周",
+        "onboard_time": 1688873852,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192607,
+        "num": 192607,
+        "word": "重庆警方广告拍成了用不起的样子",
+        "onboard_time": 1688888550,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 260989,
+        "num": 191805,
+        "word": "Ella蔡少芬和老公吵架都用短信",
+        "onboard_time": 1688879671,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248388,
+        "num": 190245,
+        "word": "张睿遥吻空吻",
+        "onboard_time": 1688890411,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245828,
+        "num": 189240,
+        "word": "喝多了非要默写出师表",
+        "onboard_time": 1688890049,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245055,
+        "num": 187899,
+        "word": "韩国歌手李尚恩去世",
+        "onboard_time": 1688866829,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187867,
+        "num": 187867,
+        "word": "新疆的店名永远在我的笑点上",
+        "onboard_time": 1688879730,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242654,
+        "num": 186552,
+        "word": "王勉送鹿晗的花篮",
+        "onboard_time": 1688888731,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222014,
+        "num": 185901,
+        "word": "内娱眼睛会说话的演员",
+        "onboard_time": 1688889995,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217218,
+        "num": 185496,
+        "word": "seventeen澳门彩排",
+        "onboard_time": 1688883868,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184689,
+        "num": 184689,
+        "word": "鸵鸟刺身",
+        "onboard_time": 1688887470,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180483,
+        "num": 180483,
+        "word": "日本市民团体在人民日报撰文反对排海措施",
+        "onboard_time": 1688885010,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207972,
+        "num": 175528,
+        "word": "药水哥两年没回向佐微信",
+        "onboard_time": 1688868570,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 201587,
+        "num": 174051,
+        "word": "五月天演唱会保安大哥也体会了当明星的感觉",
+        "onboard_time": 1688883751,
+        "rank": 41,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 197395,
+        "num": 172491,
+        "word": "张淼怡正脸vs侧脸",
+        "onboard_time": 1688884230,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167557,
+        "num": 167557,
+        "word": "1岁半患儿彻底摆脱原生基因缺陷",
+        "onboard_time": 1688889029,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165107,
+        "num": 165107,
+        "word": "卡琳娜营业 天花板级别",
+        "onboard_time": 1688877271,
+        "rank": 44,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 163144,
+        "num": 163144,
+        "word": "原来偷听的不止我一个",
+        "onboard_time": 1688886989,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158631,
+        "num": 158631,
+        "word": "济南大学回应留学生生活补助每月3万",
+        "onboard_time": 1688880570,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151184,
+        "num": 151184,
+        "word": "广州中考",
+        "onboard_time": 1688889332,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147962,
+        "num": 147962,
+        "word": "古人用玻璃做了朵蓝莲花",
+        "onboard_time": 1688890827,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147681,
+        "num": 147681,
+        "word": "姜贞羽现偶适配度",
+        "onboard_time": 1688884110,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#哈尔滨成功申办2025亚冬会#"
+    }
+  }
+}

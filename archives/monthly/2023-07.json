@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688888017367,
+  "endTime": 1688890913127,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1811,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1594138,
+      "num": 842087,
+      "word": "汤唯韩国坐地铁",
+      "onboard_time": 1688887411,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1590949,
       "num": 1590949,
       "word": "中国禁止进口日本福岛等十地食品",
@@ -2713,6 +2721,14 @@
       "onboard_time": 1688487449,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1160551,
+      "num": 416573,
+      "word": "一鹿彤行偷偷藏不住版",
+      "onboard_time": 1688888731,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1159263,
@@ -4291,6 +4307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843540,
+      "num": 843540,
+      "word": "发现高档食品一般不能多吃",
+      "onboard_time": 1688885727,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 842953,
       "num": 842953,
       "word": "戚薇 女生本就是世界上最美好的存在",
@@ -4955,6 +4979,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 772965,
+      "num": 772965,
+      "word": "这四个显眼包怎么变了",
+      "onboard_time": 1688888849,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 772360,
       "num": 772360,
       "word": "肖战入戏专访",
@@ -5048,6 +5080,14 @@
       "word": "牵手门董某某被解除劳动合同",
       "onboard_time": 1688733944,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761285,
+      "num": 761285,
+      "word": "顾客买到生瓜留言2年后收到回复",
+      "onboard_time": 1688888309,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -5337,14 +5377,6 @@
       "onboard_time": 1688605840,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 727109,
-      "num": 428539,
-      "word": "发现高档食品一般不能多吃",
-      "onboard_time": 1688885727,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 723355,
@@ -5993,6 +6025,14 @@
       "onboard_time": 1688182411,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 661594,
+      "num": 661594,
+      "word": "洪欣张丹峰带女儿合拍视频",
+      "onboard_time": 1688887169,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 660994,
@@ -7867,6 +7907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 512863,
+      "num": 287062,
+      "word": "天天发朋友圈会让人反感吗",
+      "onboard_time": 1688889092,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 512676,
       "num": 351157,
       "word": "公司解散领到26万补偿款",
@@ -9299,6 +9347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432765,
+      "num": 405626,
+      "word": "难哄男主魏大勋来演怎么样",
+      "onboard_time": 1688889512,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432548,
       "num": 432548,
       "word": "金地雄晕倒",
@@ -9675,6 +9731,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 409536,
+      "num": 381942,
+      "word": "肖战的内核",
+      "onboard_time": 1688888431,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409522,
       "num": 316506,
       "word": "宣璐汪卓成二搭演情侣",
@@ -10043,6 +10107,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 393964,
+      "num": 393964,
+      "word": "郝景芳",
+      "onboard_time": 1688887892,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392960,
       "num": 392960,
       "word": "我的神仙同事离职了",
@@ -10385,14 +10457,6 @@
       "onboard_time": 1688643812,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379016,
-      "num": 223812,
-      "word": "汤唯韩国坐地铁",
-      "onboard_time": 1688887411,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 378759,
@@ -11097,6 +11161,14 @@
       "onboard_time": 1688549917,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 351623,
+      "num": 283618,
+      "word": "心疼白敬亭一整期",
+      "onboard_time": 1688890049,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 351599,
@@ -12331,14 +12403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313281,
-      "num": 287098,
-      "word": "洪欣张丹峰带女儿合拍视频",
-      "onboard_time": 1688887169,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313004,
       "num": 313004,
       "word": "张佳宁屈楚萧新电影路透",
@@ -12401,6 +12465,14 @@
       "onboard_time": 1688706821,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311043,
+      "num": 273456,
+      "word": "王楚然刻在DNA里吹粥动作",
+      "onboard_time": 1688889450,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 310778,
@@ -12577,6 +12649,14 @@
       "onboard_time": 1688471612,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306150,
+      "num": 264068,
+      "word": "seventeen彩排了7次hot",
+      "onboard_time": 1688888489,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 306047,
@@ -13713,6 +13793,14 @@
       "onboard_time": 1688684482,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275088,
+      "num": 275088,
+      "word": "揉眼睛的花花",
+      "onboard_time": 1688886149,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 274863,
@@ -14875,14 +14963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250354,
-      "num": 250354,
-      "word": "揉眼睛的花花",
-      "onboard_time": 1688886149,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 250152,
       "num": 250152,
       "word": "金智秀拖鞋被踩掉了",
@@ -14993,6 +15073,14 @@
       "onboard_time": 1688286393,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248388,
+      "num": 190245,
+      "word": "张睿遥吻空吻",
+      "onboard_time": 1688890411,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 248283,
@@ -15129,6 +15217,14 @@
       "onboard_time": 1688783073,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245828,
+      "num": 189240,
+      "word": "喝多了非要默写出师表",
+      "onboard_time": 1688890049,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 245811,
@@ -15281,6 +15377,14 @@
       "onboard_time": 1688809295,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242654,
+      "num": 186552,
+      "word": "王勉送鹿晗的花篮",
+      "onboard_time": 1688888731,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 242627,
@@ -16347,6 +16451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222014,
+      "num": 185901,
+      "word": "内娱眼睛会说话的演员",
+      "onboard_time": 1688889995,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221898,
       "num": 221898,
       "word": "Alin获奖后与贾静雯刘雅瑟视频",
@@ -16569,14 +16681,6 @@
       "onboard_time": 1688398181,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217801,
-      "num": 217801,
-      "word": "郝景芳",
-      "onboard_time": 1688887892,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217708,
@@ -18107,6 +18211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192607,
+      "num": 192607,
+      "word": "重庆警方广告拍成了用不起的样子",
+      "onboard_time": 1688888550,
+      "rank": 29,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 192505,
       "num": 192505,
       "word": "WE战胜WBG",
@@ -18641,6 +18753,14 @@
       "onboard_time": 1688256325,
       "rank": 39,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 184689,
+      "num": 184689,
+      "word": "鸵鸟刺身",
+      "onboard_time": 1688887470,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 184491,
@@ -19459,6 +19579,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 167557,
+      "num": 167557,
+      "word": "1岁半患儿彻底摆脱原生基因缺陷",
+      "onboard_time": 1688889029,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167330,
       "num": 167330,
       "word": "养猫猫狗狗的深深懂了",
@@ -19963,6 +20091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151184,
+      "num": 151184,
+      "word": "广州中考",
+      "onboard_time": 1688889332,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151094,
       "num": 151094,
       "word": "沈月是快乐的大人片头动作指导",
@@ -19985,14 +20121,6 @@
       "onboard_time": 1688208513,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150395,
-      "num": 150395,
-      "word": "鸵鸟刺身",
-      "onboard_time": 1688887470,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 150365,
@@ -20057,6 +20185,14 @@
       "onboard_time": 1688425404,
       "rank": 45,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 147962,
+      "num": 147962,
+      "word": "古人用玻璃做了朵蓝莲花",
+      "onboard_time": 1688890827,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147775,
@@ -21736,6 +21872,14 @@
       "word": "航拍新疆独库公路画风魔幻",
       "onboard_time": 1688446840,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21664,
+      "num": 900670,
+      "word": "一图了解中华文明探源工程主要成果",
+      "onboard_time": 1688874932,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
