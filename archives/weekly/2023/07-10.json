@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688931231474,
+  "endTime": 1688933929708,
   "band_list": [
     {
       "raw_hot": 1496601,
@@ -512,6 +512,22 @@
       "word": "专业人士回应遇离岸流如何自救",
       "onboard_time": 1688930053,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30199,
+      "num": 47704,
+      "word": "张淼怡粉发",
+      "onboard_time": 1688931433,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27838,
+      "num": 47702,
+      "word": "遇到离岸流有多危险",
+      "onboard_time": 1688930353,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
