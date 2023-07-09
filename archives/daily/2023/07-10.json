@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688938424030,
+  "endTime": 1688941052298,
   "band_list": [
     {
       "raw_hot": 1496601,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93492,
+      "num": 93492,
+      "word": "汪苏泷开演唱会同时领了个奖",
+      "onboard_time": 1688937552,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 76975,
       "num": 902828,
       "word": "高考录取通知查询通道",
@@ -499,12 +507,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 40187,
-      "num": 55111,
-      "word": "汪苏泷开演唱会同时领了个奖",
-      "onboard_time": 1688937552,
-      "rank": 19,
+      "raw_hot": 46179,
+      "num": 54443,
+      "word": "张杰年度最佳内地男歌手",
+      "onboard_time": 1688934132,
+      "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 44013,
+      "num": 54302,
+      "word": "第一次看到这么活泼的扇贝",
+      "onboard_time": 1688935512,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 37564,
@@ -515,12 +531,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 34800,
+      "num": 53800,
+      "word": "玉骨遥",
+      "onboard_time": 1688931014,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 33266,
       "num": 55304,
       "word": "专业人士回应遇离岸流如何自救",
       "onboard_time": 1688930053,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31835,
+      "num": 53564,
+      "word": "学学李白找工作",
+      "onboard_time": 1688939236,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 30199,
@@ -531,36 +563,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 29975,
-      "num": 54443,
-      "word": "张杰年度最佳内地男歌手",
-      "onboard_time": 1688934132,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 29160,
-      "num": 54302,
-      "word": "第一次看到这么活泼的扇贝",
-      "onboard_time": 1688935512,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 27838,
       "num": 53906,
       "word": "遇到离岸流有多危险",
       "onboard_time": 1688930353,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24574,
-      "num": 53800,
-      "word": "玉骨遥",
-      "onboard_time": 1688931014,
-      "rank": 48,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
