@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688883821870,
+  "endTime": 1688884657794,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1009960,
+      "num": 986532,
+      "word": "曝HYBE员工搜身时摸粉丝胸部",
+      "onboard_time": 1688882250,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 999500,
       "num": 999500,
       "word": "家长庆祝孩子高考660分聚众赌博被拘",
@@ -139,12 +147,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 986532,
-      "num": 986532,
-      "word": "曝HYBE员工搜身时摸粉丝胸部",
-      "onboard_time": 1688882250,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 959703,
+      "num": 959703,
+      "word": "夫妻情侣请求让座你会让吗",
+      "onboard_time": 1688881228,
+      "rank": 6,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 955697,
@@ -203,14 +211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 810063,
-      "num": 810063,
-      "word": "夫妻情侣请求让座你会让吗",
-      "onboard_time": 1688881228,
-      "rank": 6,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 801430,
       "num": 801430,
       "word": "黄子韬说宁静那英没一个能压得住自己",
@@ -225,6 +225,14 @@
       "onboard_time": 1688862988,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 773639,
+      "num": 773639,
+      "word": "Ella蔡少芬和老公吵架都用短信",
+      "onboard_time": 1688879671,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 768989,
@@ -275,14 +283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 649105,
-      "num": 649105,
-      "word": "Ella蔡少芬和老公吵架都用短信",
-      "onboard_time": 1688879671,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 640224,
       "num": 640224,
       "word": "泰妃看肖战出场的反应",
@@ -321,6 +321,14 @@
       "onboard_time": 1688808152,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 605319,
+      "num": 527018,
+      "word": "肖战在任敏微博评论区刷屏",
+      "onboard_time": 1688884049,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 574529,
@@ -547,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 380693,
+      "num": 229208,
+      "word": "五月天演唱会保安大哥也体会了当明星的感觉",
+      "onboard_time": 1688883751,
+      "rank": 45,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 377088,
       "num": 296305,
       "word": "蛋仔雪王",
@@ -593,6 +609,14 @@
       "onboard_time": 1688880629,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 357010,
+      "num": 357010,
+      "word": "年轻人为什么不买快时尚的账了",
+      "onboard_time": 1688877571,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 354734,
@@ -683,20 +707,20 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 325695,
+      "num": 325695,
+      "word": "seventeen澳门彩排",
+      "onboard_time": 1688883868,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323221,
       "num": 323221,
       "word": "民警陪戒毒人员见父亲最后一面",
       "onboard_time": 1688851453,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319041,
-      "num": 319041,
-      "word": "年轻人为什么不买快时尚的账了",
-      "onboard_time": 1688877571,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 315017,
@@ -713,6 +737,14 @@
       "onboard_time": 1688877754,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313524,
+      "num": 313524,
+      "word": "共享充电宝电用完只充了30%",
+      "onboard_time": 1688883627,
+      "rank": 33,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 311286,
@@ -1003,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228682,
+      "num": 228682,
+      "word": "姜贞羽现偶适配度",
+      "onboard_time": 1688884110,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226062,
       "num": 159814,
       "word": "看来武艺更喜欢女儿",
@@ -1131,14 +1171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201086,
-      "num": 201086,
-      "word": "共享充电宝电用完只充了30%",
-      "onboard_time": 1688883627,
-      "rank": 33,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 201077,
       "num": 201077,
       "word": "阴阳师 缘结神",
@@ -1171,6 +1203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195331,
+      "num": 195331,
+      "word": "宋轶近距离清扫永定门牌匾",
+      "onboard_time": 1688883868,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189712,
       "num": 189712,
       "word": "XYG仙哥",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1688827596,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186212,
+      "num": 186212,
+      "word": "张淼怡正脸vs侧脸",
+      "onboard_time": 1688884230,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185243,
@@ -1275,12 +1323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152586,
-      "num": 152586,
-      "word": "五月天演唱会保安大哥也体会了当明星的感觉",
-      "onboard_time": 1688883751,
+      "raw_hot": 151469,
+      "num": 151469,
+      "word": "情侣携手同行从专科逆袭到研究生",
+      "onboard_time": 1688884354,
       "rank": 45,
-      "category": "音乐,幽默"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149285,
+      "num": 149285,
+      "word": "宋丹丹说尹浩宇太像孟子义了",
+      "onboard_time": 1688884468,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 144827,
