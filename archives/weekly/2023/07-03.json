@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688915903555,
+  "endTime": 1688916860703,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1651,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1460999,
+      "num": 1460999,
+      "word": "是谁去杭州给宋轶买的牛排包",
+      "onboard_time": 1688913874,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1451655,
       "num": 1451655,
       "word": "非洲女孩远嫁中国农村当短视频博主",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1688540076,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1376218,
+      "num": 1376218,
+      "word": "肖战下一部戏藏海戏麟",
+      "onboard_time": 1688915195,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1374562,
@@ -2155,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1205466,
+      "num": 1205466,
+      "word": "2女子与蜜雪冰城员工起冲突",
+      "onboard_time": 1688913154,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1202190,
       "num": 1161968,
       "word": "朱某龙骑车去痞幼家偷茅台",
@@ -2209,6 +2233,14 @@
       "onboard_time": 1688382639,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1180539,
+      "num": 1180539,
+      "word": "26岁一想到明天上班还想哭",
+      "onboard_time": 1688914536,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 1173599,
@@ -2355,14 +2387,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1139082,
-      "num": 1139082,
-      "word": "2女子与蜜雪冰城员工起冲突",
-      "onboard_time": 1688913154,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1138125,
       "num": 479413,
       "word": "为什么痛经蹲厕所就会好很多",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1688822256,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1118825,
+      "num": 1118825,
+      "word": "徐明浩白色狼尾造型",
+      "onboard_time": 1688915376,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 1118559,
@@ -2835,14 +2867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1008100,
-      "num": 1008100,
-      "word": "是谁去杭州给宋轶买的牛排包",
-      "onboard_time": 1688913874,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1007120,
       "num": 1007120,
       "word": "凤凰传奇什么时候变成三个人了",
@@ -3163,14 +3187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 930547,
-      "num": 796282,
-      "word": "肖战下一部戏藏海戏麟",
-      "onboard_time": 1688915195,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 929980,
       "num": 702479,
       "word": "袁咏仪儿子张慕童近照",
@@ -3369,14 +3385,6 @@
       "onboard_time": 1688298513,
       "rank": 19,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 895574,
-      "num": 895574,
-      "word": "26岁一想到明天上班还想哭",
-      "onboard_time": 1688914536,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 894159,
@@ -3585,14 +3593,6 @@
       "onboard_time": 1688626715,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849269,
-      "num": 442150,
-      "word": "徐明浩白色狼尾造型",
-      "onboard_time": 1688915376,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 849231,
@@ -3985,6 +3985,14 @@
       "onboard_time": 1688641473,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 802664,
+      "num": 802664,
+      "word": "入职要填微博名该怎么办",
+      "onboard_time": 1688914774,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 802037,
@@ -6571,14 +6579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513662,
-      "num": 513662,
-      "word": "入职要填微博名该怎么办",
-      "onboard_time": 1688914774,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 513579,
       "num": 513579,
       "word": "隆里电丝",
@@ -7651,6 +7651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 439087,
+      "num": 378921,
+      "word": "seventeen hot",
+      "onboard_time": 1688915433,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 438729,
       "num": 387242,
       "word": "贾静雯从唱跳双废到女团预备",
@@ -7665,6 +7673,14 @@
       "onboard_time": 1688897252,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 438118,
+      "num": 342997,
+      "word": "你会整夜吹空调吗",
+      "onboard_time": 1688914956,
+      "rank": 37,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 437838,
@@ -8361,14 +8377,6 @@
       "onboard_time": 1688742942,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 396587,
-      "num": 378921,
-      "word": "seventeen hot",
-      "onboard_time": 1688915433,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 396586,
@@ -9299,6 +9307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 357413,
+      "num": 317426,
+      "word": "杨紫棕色系穿搭",
+      "onboard_time": 1688915736,
+      "rank": 35,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 357282,
       "num": 296603,
       "word": "老板看了我的朋友圈以后",
@@ -9360,6 +9376,14 @@
       "word": "TFBOYS十周年可能有直播",
       "onboard_time": 1688394165,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 352430,
+      "num": 289550,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1688530782,
+      "rank": 47,
       "category": "音乐"
     },
     {
@@ -10707,6 +10731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300866,
+      "num": 269832,
+      "word": "文俊辉TMEA舞台",
+      "onboard_time": 1688916098,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 300647,
       "num": 300647,
       "word": "王鹤棣仪态管理",
@@ -10857,6 +10889,14 @@
       "onboard_time": 1688365851,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296981,
+      "num": 269558,
+      "word": "朱一龙眼睛太大被风吹走了隐形眼镜",
+      "onboard_time": 1688916453,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296954,
@@ -11139,14 +11179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289550,
-      "num": 289550,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1688530782,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 289526,
       "num": 289526,
       "word": "王楚钦vs莫雷加德",
@@ -11179,6 +11211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289084,
+      "num": 289084,
+      "word": "WBG夏季赛周冠军",
+      "onboard_time": 1688916513,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288741,
       "num": 288741,
       "word": "原神3.8",
@@ -11201,14 +11241,6 @@
       "onboard_time": 1688827534,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 288351,
-      "num": 288351,
-      "word": "杨紫棕色系穿搭",
-      "onboard_time": 1688915736,
-      "rank": 35,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 288280,
@@ -11763,14 +11795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269907,
-      "num": 269907,
-      "word": "你会整夜吹空调吗",
-      "onboard_time": 1688914956,
-      "rank": 37,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 269552,
       "num": 269552,
       "word": "透明的山竹能吃吗",
@@ -11913,6 +11937,14 @@
       "onboard_time": 1688528074,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264961,
+      "num": 258592,
+      "word": "人间烟火的原著",
+      "onboard_time": 1688916513,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 264804,
@@ -12513,6 +12545,14 @@
       "onboard_time": 1688549316,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249272,
+      "num": 249272,
+      "word": "林俊杰年度最具影响力制作人",
+      "onboard_time": 1688916214,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 248973,
