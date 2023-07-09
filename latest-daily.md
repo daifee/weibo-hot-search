@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/10 00:23:10 ~ 2023/07/10 04:18:49
+本榜单时间：2023/07/10 00:23:10 ~ 2023/07/10 04:34:05
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@ Fofo Uzi想弄就跟（热度：164282）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%23" target="weibo">
 玉骨遥（热度：24574）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E5%86%85%E5%9C%B0%E7%94%B7%E6%AD%8C%E6%89%8B%23" target="weibo">
+张杰年度最佳内地男歌手（热度：22348）
 </a>
 </li>
 
