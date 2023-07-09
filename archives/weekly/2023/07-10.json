@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688944704593,
+  "endTime": 1688945669430,
   "band_list": [
     {
       "raw_hot": 1496601,
@@ -9,6 +9,14 @@
       "onboard_time": 1688914536,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1092715,
+      "num": 1092715,
+      "word": "七月辞职 狼多肉少",
+      "onboard_time": 1688910754,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 991519,
@@ -27,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 942568,
+      "num": 942568,
+      "word": "海南警方回应陪女友看演唱会男孩溺亡",
+      "onboard_time": 1688900433,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 906369,
       "num": 906369,
       "word": "穷的时候真的特别敏感",
@@ -41,14 +57,6 @@
       "onboard_time": 1688905529,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 887454,
-      "num": 887454,
-      "word": "海南警方回应陪女友看演唱会男孩溺亡",
-      "onboard_time": 1688900433,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 885963,
@@ -75,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 807838,
-      "num": 807838,
-      "word": "七月辞职 狼多肉少",
-      "onboard_time": 1688910754,
-      "rank": 8,
-      "category": "幽默"
+      "raw_hot": 735013,
+      "num": 735013,
+      "word": "宋焰的不幸 和女主相爱",
+      "onboard_time": 1688924359,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 690439,
+      "num": 690439,
+      "word": "提前15个月还完67万多感觉天亮了",
+      "onboard_time": 1688944763,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672928,
@@ -97,14 +113,6 @@
       "onboard_time": 1688916453,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 614306,
-      "num": 614306,
-      "word": "宋焰的不幸 和女主相爱",
-      "onboard_time": 1688924359,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 589766,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 551666,
-      "num": 335297,
+      "num": 384252,
       "word": "独居老人没开空调致热痉挛咬断两颗牙",
       "onboard_time": 1688918310,
       "rank": 30,
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535193,
+      "num": 535193,
+      "word": "张兰上诉被驳回",
+      "onboard_time": 1688921246,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 508375,
       "num": 508375,
       "word": "爱豆鹿晗回来了",
       "onboard_time": 1688906431,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 493788,
-      "num": 493788,
-      "word": "张兰上诉被驳回",
-      "onboard_time": 1688921246,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 464068,
@@ -169,6 +177,14 @@
       "onboard_time": 1688917830,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 430553,
+      "num": 148079,
+      "word": "李俊昊林允儿亲了两分钟",
+      "onboard_time": 1688944944,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 424200,
@@ -243,8 +259,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307722,
-      "num": 198838,
+      "raw_hot": 325985,
+      "num": 213191,
       "word": "南大0001号录取通知书获得者",
       "onboard_time": 1688941275,
       "rank": 30,
@@ -257,6 +273,14 @@
       "onboard_time": 1688910934,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293619,
+      "num": 293619,
+      "word": "张若昀直播剧透庆余年2",
+      "onboard_time": 1688927415,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 292439,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 279237,
-      "num": 211328,
+      "num": 242877,
       "word": "孟宴臣要开始发疯了",
       "onboard_time": 1688911054,
       "rank": 31,
@@ -355,20 +379,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 246621,
-      "num": 246621,
-      "word": "张若昀直播剧透庆余年2",
-      "onboard_time": 1688927415,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221179,
       "num": 190839,
       "word": "杨紫棕色系穿搭",
       "onboard_time": 1688915736,
       "rank": 43,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 217269,
+      "num": 217269,
+      "word": "肖战回应火烧云",
+      "onboard_time": 1688945365,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203289,
+      "num": 203289,
+      "word": "男子花百元订蛋糕只有一层奶油",
+      "onboard_time": 1688912254,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203237,
@@ -444,18 +476,10 @@
     },
     {
       "raw_hot": 176218,
-      "num": 132223,
+      "num": 159076,
       "word": "小学生开始去胖东来抢座位了",
       "onboard_time": 1688944161,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175745,
-      "num": 175745,
-      "word": "男子花百元订蛋糕只有一层奶油",
-      "onboard_time": 1688912254,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -465,6 +489,14 @@
       "onboard_time": 1688910630,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156744,
+      "num": 156744,
+      "word": "张杰年度最佳内地男歌手",
+      "onboard_time": 1688934132,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 150865,
@@ -491,12 +523,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 143277,
-      "num": 143277,
-      "word": "张杰年度最佳内地男歌手",
-      "onboard_time": 1688934132,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 141861,
+      "num": 141861,
+      "word": "悬赏1000万找的狗找到了",
+      "onboard_time": 1688945545,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131746,
@@ -507,12 +539,52 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104483,
-      "num": 97538,
+      "raw_hot": 129009,
+      "num": 129009,
+      "word": "白敬亭这次不心疼他的鞋了",
+      "onboard_time": 1688945065,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127631,
+      "num": 127631,
+      "word": "爸妈是不是喝了忘崽牛奶",
+      "onboard_time": 1688945306,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 127275,
+      "num": 127275,
       "word": "汪苏泷开演唱会同时领了个奖",
       "onboard_time": 1688937552,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108750,
+      "num": 108750,
+      "word": "藏海戏麟",
+      "onboard_time": 1688945485,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 107891,
+      "num": 107891,
+      "word": "孙颖莎4比3陈梦",
+      "onboard_time": 1688945425,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105917,
+      "num": 105917,
+      "word": "头车司机等待对向车流两分钟引众怒",
+      "onboard_time": 1688945485,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101239,
