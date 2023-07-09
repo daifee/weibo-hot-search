@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688919790541,
+  "endTime": 1688920785308,
   "band_list": [
     {
       "raw_hot": 1496601,
@@ -9,6 +9,14 @@
       "onboard_time": 1688914536,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 991519,
+      "num": 752992,
+      "word": "是谁去杭州给宋轶买的牛排包",
+      "onboard_time": 1688913874,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 963348,
@@ -51,24 +59,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 707682,
-      "num": 707682,
-      "word": "是谁去杭州给宋轶买的牛排包",
-      "onboard_time": 1688913874,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 667503,
-      "num": 667503,
+      "raw_hot": 703846,
+      "num": 703846,
       "word": "七月辞职 狼多肉少",
       "onboard_time": 1688910754,
       "rank": 8,
       "category": "幽默"
     },
     {
-      "raw_hot": 642682,
-      "num": 642682,
+      "raw_hot": 672928,
+      "num": 672928,
       "word": "张元英露腰",
       "onboard_time": 1688917710,
       "rank": 10,
@@ -99,19 +99,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 551666,
+      "num": 335297,
+      "word": "独居老人没开空调致热痉挛咬断两颗牙",
+      "onboard_time": 1688918310,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520953,
       "num": 654557,
       "word": "海南警方回应陪女友看演唱会男孩溺亡",
       "onboard_time": 1688900433,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 508954,
-      "num": 202984,
-      "word": "独居老人没开空调致热痉挛咬断两颗牙",
-      "onboard_time": 1688918310,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -131,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436577,
+      "num": 436577,
+      "word": "赵露思2019年vs2023年",
+      "onboard_time": 1688917830,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424200,
       "num": 424200,
       "word": "警方通报北京政法职业学院学生纠纷",
       "onboard_time": 1688911773,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411675,
-      "num": 411675,
-      "word": "赵露思2019年vs2023年",
-      "onboard_time": 1688917830,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 403716,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 348490,
+      "num": 348490,
+      "word": "法老走红毯",
+      "onboard_time": 1688919269,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 336127,
       "num": 336127,
       "word": "白敬亭张昊唯没白来极限挑战",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 292439,
-      "num": 254825,
+      "num": 265449,
       "word": "seventeen舞台",
       "onboard_time": 1688919507,
       "rank": 25,
@@ -236,15 +244,23 @@
     },
     {
       "raw_hot": 275202,
-      "num": 202601,
+      "num": 215727,
       "word": "前任和现任的关系可以有多好",
       "onboard_time": 1688918251,
       "rank": 32,
       "category": "情感"
     },
     {
+      "raw_hot": 274022,
+      "num": 216936,
+      "word": "首尔街头采访韩国人加班",
+      "onboard_time": 1688919626,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273156,
-      "num": 202515,
+      "num": 211571,
       "word": "人间烟火的原著",
       "onboard_time": 1688916513,
       "rank": 33,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 271762,
-      "num": 202366,
+      "num": 214920,
       "word": "郑州狗主悬赏1000万人民币寻狗",
       "onboard_time": 1688900131,
       "rank": 34,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 255970,
-      "num": 202004,
+      "num": 214002,
       "word": "人民论坛网评八角笼中",
       "onboard_time": 1688918372,
       "rank": 36,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 254435,
-      "num": 195656,
+      "num": 199643,
       "word": "徐穗珍更新ins",
       "onboard_time": 1688911354,
       "rank": 40,
@@ -292,19 +308,19 @@
     },
     {
       "raw_hot": 253842,
-      "num": 194696,
+      "num": 211035,
       "word": "林俊杰演唱会",
       "onboard_time": 1688915136,
       "rank": 41,
       "category": "音乐"
     },
     {
-      "raw_hot": 243139,
-      "num": 192300,
-      "word": "法老走红毯",
-      "onboard_time": 1688919269,
-      "rank": 42,
-      "category": "音乐"
+      "raw_hot": 240627,
+      "num": 240627,
+      "word": "文韬发脾气是这样的吗",
+      "onboard_time": 1688920465,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 221179,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 203237,
-      "num": 203237,
+      "num": 212399,
       "word": "4AM",
       "onboard_time": 1688915856,
       "rank": 28,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 201682,
-      "num": 201682,
+      "num": 218025,
       "word": "iG爆冷战胜JDG",
       "onboard_time": 1688910452,
       "rank": 38,
@@ -371,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175745,
+      "num": 175745,
+      "word": "男子花百元订蛋糕只有一层奶油",
+      "onboard_time": 1688912254,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164282,
       "num": 176142,
       "word": "Fofo Uzi想弄就跟",
@@ -379,20 +403,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158189,
-      "num": 174114,
-      "word": "男子花百元订蛋糕只有一层奶油",
-      "onboard_time": 1688912254,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149401,
       "num": 173608,
       "word": "黑龙江一18个月女孩从6楼窗台坠亡",
       "onboard_time": 1688902412,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131746,
+      "num": 141865,
+      "word": "手机被前男友折断了",
+      "onboard_time": 1688901572,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117919,
+      "num": 141371,
+      "word": "下辈子先预定一下这张脸",
+      "onboard_time": 1688919507,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 76975,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#盛世中华何以中国#"
+    },
+    {
+      "word": "#当千里江山图遇上壮美陕西#"
     }
   ]
 }
