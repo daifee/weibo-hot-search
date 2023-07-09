@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688895253860,
+  "endTime": 1688897949405,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1500,7 +1500,7 @@
     },
     {
       "raw_hot": 1536034,
-      "num": 425470,
+      "num": 560778,
       "word": "一鹿彤行偷偷藏不住版",
       "onboard_time": 1688888731,
       "rank": 10,
@@ -2507,6 +2507,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 1062586,
+      "num": 1062586,
+      "word": "考上研究生却被人用来做生意",
+      "onboard_time": 1688892568,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1060747,
       "num": 1060747,
       "word": "睡觉时身体为什么会抖一下",
@@ -2785,14 +2793,6 @@
       "onboard_time": 1688820032,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 988766,
-      "num": 424886,
-      "word": "考上研究生却被人用来做生意",
-      "onboard_time": 1688892568,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 987433,
@@ -4195,6 +4195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 743691,
+      "num": 743691,
+      "word": "于途乔晶晶vs宋焰许沁",
+      "onboard_time": 1688895089,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 740630,
       "num": 740630,
       "word": "黑色外卖勺子",
@@ -4355,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718341,
+      "num": 718341,
+      "word": "倪妮发了30张自拍",
+      "onboard_time": 1688896592,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 716242,
       "num": 379028,
       "word": "我在航班上冒犯了一位高僧",
@@ -4464,6 +4480,14 @@
       "word": "驻日美军承认东京17个地区地下水疑受污染",
       "onboard_time": 1688708739,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704801,
+      "num": 704801,
+      "word": "茶百道未定联名",
+      "onboard_time": 1688893892,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4633,14 +4657,6 @@
       "onboard_time": 1688451873,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 684121,
-      "num": 684121,
-      "word": "茶百道未定联名",
-      "onboard_time": 1688893892,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 683498,
@@ -5073,6 +5089,14 @@
       "onboard_time": 1688750720,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 631167,
+      "num": 534322,
+      "word": "一个不会离职的办公桌长啥样",
+      "onboard_time": 1688895451,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 630730,
@@ -6051,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533606,
+      "num": 533606,
+      "word": "Seventeen孙悟空首舞台在中国",
+      "onboard_time": 1688895872,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 533351,
       "num": 533351,
       "word": "西南大学回应网友老实芭蕉不当言论",
@@ -6073,6 +6105,14 @@
       "onboard_time": 1688817270,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 531439,
+      "num": 531439,
+      "word": "王楚然小时候",
+      "onboard_time": 1688895271,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 530769,
@@ -6955,6 +6995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457333,
+      "num": 457333,
+      "word": "这真的是同一个女生夏天的衣服",
+      "onboard_time": 1688893110,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 456917,
       "num": 456917,
       "word": "BW2023",
@@ -7241,6 +7289,14 @@
       "onboard_time": 1688730932,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 439256,
+      "num": 439256,
+      "word": "台湾面临鸡蛋过剩问题",
+      "onboard_time": 1688896954,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 438729,
@@ -7571,6 +7627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412327,
+      "num": 412327,
+      "word": "前金球奖得主苏亚雷斯去世",
+      "onboard_time": 1688894491,
+      "rank": 24,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 411113,
       "num": 411113,
       "word": "芭比",
@@ -7625,6 +7689,14 @@
       "onboard_time": 1688640094,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 408289,
+      "num": 408289,
+      "word": "日本北海道高浓度砒霜泄露",
+      "onboard_time": 1688895692,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407159,
@@ -7777,6 +7849,14 @@
       "onboard_time": 1688471252,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 400882,
+      "num": 400882,
+      "word": "肖战为了玉骨遥剧宣好努力",
+      "onboard_time": 1688895995,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 400637,
@@ -8091,14 +8171,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 385258,
-      "num": 382919,
-      "word": "这真的是同一个女生夏天的衣服",
-      "onboard_time": 1688893110,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 383702,
       "num": 383702,
       "word": "男孩嘴卡奶瓶消防员憋笑救援",
@@ -8379,6 +8451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371141,
+      "num": 371141,
+      "word": "吴佳尼晒与儿子游玩照",
+      "onboard_time": 1688895931,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371135,
       "num": 371135,
       "word": "杨丞琳素颜照",
@@ -8537,6 +8617,14 @@
       "onboard_time": 1688527774,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364647,
+      "num": 364647,
+      "word": "范闲好像化了烟熏妆",
+      "onboard_time": 1688896053,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 364093,
@@ -8915,6 +9003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347992,
+      "num": 347992,
+      "word": "私搭浮桥案审判长被曝顶替他人上大学",
+      "onboard_time": 1688895692,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347624,
       "num": 347624,
       "word": "去找异地男友发现他没关空调",
@@ -9211,6 +9307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335098,
+      "num": 335098,
+      "word": "杨紫在MLB全明星",
+      "onboard_time": 1688897252,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 335072,
       "num": 320214,
       "word": "家里的狗被牵扯进了诈骗",
@@ -9265,14 +9369,6 @@
       "onboard_time": 1688781213,
       "rank": 25,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 332723,
-      "num": 332723,
-      "word": "前金球奖得主苏亚雷斯去世",
-      "onboard_time": 1688894491,
-      "rank": 24,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 332595,
@@ -10027,6 +10123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 302611,
+      "num": 302611,
+      "word": "感觉唱得都快读出来了",
+      "onboard_time": 1688897430,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302478,
       "num": 264842,
       "word": "肖战梦中的那片海新合照",
@@ -10049,6 +10153,14 @@
       "onboard_time": 1688723432,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300647,
+      "num": 300647,
+      "word": "王鹤棣仪态管理",
+      "onboard_time": 1688894429,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 300521,
@@ -10251,6 +10363,14 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 295516,
+      "num": 295516,
+      "word": "死神2豆瓣开分9.5",
+      "onboard_time": 1688895572,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 295363,
       "num": 295363,
       "word": "乾隆是多巴胺审美鼻祖吧",
@@ -10355,12 +10475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292720,
+      "num": 292720,
+      "word": "EDG对战FPX",
+      "onboard_time": 1688896774,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292594,
       "num": 292594,
       "word": "魏大勋演技",
       "onboard_time": 1688784212,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292482,
+      "num": 720734,
+      "word": "粉衣姑娘暴雨中弃车救人",
+      "onboard_time": 1688896230,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292160,
@@ -10404,7 +10540,7 @@
     },
     {
       "raw_hot": 289947,
-      "num": 289947,
+      "num": 309072,
       "word": "乌克兰承认曾对克里米亚大桥实施袭击",
       "onboard_time": 1688893051,
       "rank": 49,
@@ -10955,6 +11091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 273042,
+      "num": 273042,
+      "word": "LGD对战Hero",
+      "onboard_time": 1688896894,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272843,
       "num": 262231,
       "word": "同事说我把别人的萝卜岗占了",
@@ -10969,6 +11113,14 @@
       "onboard_time": 1688518534,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272740,
+      "num": 272740,
+      "word": "广州一特斯拉闯红灯撞电瓶车致1死",
+      "onboard_time": 1688894792,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272591,
@@ -11425,14 +11577,6 @@
       "onboard_time": 1688699672,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 256279,
-      "num": 256279,
-      "word": "王鹤棣仪态管理",
-      "onboard_time": 1688894429,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 255556,
@@ -11995,6 +12139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241596,
+      "num": 710433,
+      "word": "男子高铁车厢连接处陪娃待了1小时",
+      "onboard_time": 1688897252,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241561,
       "num": 241561,
       "word": "汉字在外国人眼里是什么样的",
@@ -12217,14 +12369,6 @@
       "onboard_time": 1688707839,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234594,
-      "num": 234594,
-      "word": "于途乔晶晶vs宋焰许沁",
-      "onboard_time": 1688895089,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 233966,
@@ -13355,6 +13499,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 207206,
+      "num": 207206,
+      "word": "罗翔评男子修桥一家18口获刑",
+      "onboard_time": 1688896112,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207154,
       "num": 207154,
       "word": "渣渣辉一点也不渣",
@@ -13585,14 +13737,6 @@
       "onboard_time": 1688642191,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 202283,
-      "num": 202283,
-      "word": "广州一特斯拉闯红灯撞电瓶车致1死",
-      "onboard_time": 1688894792,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202265,
@@ -14875,6 +15019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174609,
+      "num": 234365,
+      "word": "1岁半患儿彻底摆脱原生基因缺陷",
+      "onboard_time": 1688889029,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174323,
       "num": 655680,
       "word": "92岁亲历者讲述卢沟桥事变惨状",
@@ -14961,14 +15113,6 @@
       "onboard_time": 1688443181,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 172054,
-      "num": 234365,
-      "word": "1岁半患儿彻底摆脱原生基因缺陷",
-      "onboard_time": 1688889029,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171985,
@@ -15865,6 +16009,14 @@
       "onboard_time": 1688769797,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128532,
+      "num": 153764,
+      "word": "不要否定别人的生活状态",
+      "onboard_time": 1688897673,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 128295,
