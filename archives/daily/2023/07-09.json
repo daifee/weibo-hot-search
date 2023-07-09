@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688902435477,
+  "endTime": 1688906115940,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1361589,
+      "num": 1361589,
+      "word": "鹿晗喜欢的显眼包出现了",
+      "onboard_time": 1688904212,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1344980,
       "num": 424869,
       "word": "鹿晗让粉丝在微博上征婚",
@@ -107,12 +115,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1207739,
+      "num": 432479,
+      "word": "手机被前男友折断了",
+      "onboard_time": 1688901572,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1198973,
       "num": 1198973,
       "word": "90后终于熬成了挂钥匙的那群人",
       "onboard_time": 1688819192,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1148803,
+      "num": 1148803,
+      "word": "Uzi",
+      "onboard_time": 1688902653,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1133360,
@@ -129,6 +153,14 @@
       "onboard_time": 1688873852,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1107406,
+      "num": 1107406,
+      "word": "王楚然7天涨粉13万",
+      "onboard_time": 1688901932,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 1085807,
@@ -169,6 +201,14 @@
       "onboard_time": 1688892568,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1048660,
+      "num": 960874,
+      "word": "郑州狗主悬赏1000万人民币寻狗",
+      "onboard_time": 1688900131,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1045625,
@@ -232,14 +272,6 @@
       "word": "海南警方回应陪女友看演唱会男孩溺亡",
       "onboard_time": 1688900433,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 960874,
-      "num": 960874,
-      "word": "郑州狗主悬赏1000万人民币寻狗",
-      "onboard_time": 1688900131,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -352,6 +384,14 @@
       "word": "黄子韬说宁静那英没一个能压得住自己",
       "onboard_time": 1688867910,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 787569,
+      "num": 787569,
+      "word": "玉骨遥第一集的剧情终于来了",
+      "onboard_time": 1688902052,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -491,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626586,
+      "num": 626586,
+      "word": "陈卓璇厌世感红毯",
+      "onboard_time": 1688902352,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 618662,
       "num": 618662,
       "word": "孟宴臣许沁",
@@ -516,7 +564,7 @@
     },
     {
       "raw_hot": 574599,
-      "num": 372381,
+      "num": 378491,
       "word": "赵露思她超爱",
       "onboard_time": 1688900972,
       "rank": 24,
@@ -528,6 +576,14 @@
       "word": "吉林私搭浮桥收费获刑当事人发声",
       "onboard_time": 1688865451,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566917,
+      "num": 566917,
+      "word": "黑龙江一18个月女孩从6楼窗台坠亡",
+      "onboard_time": 1688902412,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -544,6 +600,14 @@
       "word": "女子往餐馆汤锅放不明液体致人呕吐",
       "onboard_time": 1688864549,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544677,
+      "num": 544677,
+      "word": "老外到美甲店消费100多元称没钱",
+      "onboard_time": 1688898509,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -603,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 511756,
+      "num": 511756,
+      "word": "朱颜假死",
+      "onboard_time": 1688904753,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 508018,
       "num": 423931,
       "word": "肖战王一博同款耍剑打戏",
@@ -651,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 483452,
-      "num": 483452,
-      "word": "老外到美甲店消费100多元称没钱",
-      "onboard_time": 1688898509,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478255,
       "num": 365816,
       "word": "魏大勋马伯骞赢麻了",
@@ -688,6 +752,14 @@
       "word": "当事人称没架桥前溺亡22位乡亲",
       "onboard_time": 1688892090,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471216,
+      "num": 471216,
+      "word": "55岁男子离世为5个家庭带来希望",
+      "onboard_time": 1688902593,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -795,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 432479,
-      "num": 432479,
-      "word": "手机被前男友折断了",
-      "onboard_time": 1688901572,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 432472,
       "num": 432472,
       "word": "私搭浮桥案审判长被曝顶替他人上大学",
@@ -899,6 +963,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 404154,
+      "num": 404154,
+      "word": "澳门音乐节",
+      "onboard_time": 1688902052,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 399673,
+      "num": 399673,
+      "word": "晚霞",
+      "onboard_time": 1688904274,
+      "rank": 17,
+      "category": "自然"
+    },
+    {
       "raw_hot": 398549,
       "num": 379322,
       "word": "seventeen彩排了7次hot",
@@ -961,6 +1041,14 @@
       "onboard_time": 1688870551,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 375728,
+      "num": 332510,
+      "word": "十个九块九就能凑一百哦",
+      "onboard_time": 1688904451,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 374455,
@@ -1035,12 +1123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360204,
-      "num": 360204,
-      "word": "玉骨遥第一集的剧情终于来了",
-      "onboard_time": 1688902052,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 359662,
+      "num": 359662,
+      "word": "刚得知爸妈给我编了个男朋友",
+      "onboard_time": 1688901211,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 359552,
@@ -1099,14 +1187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 347348,
-      "num": 347348,
-      "word": "王楚然7天涨粉13万",
-      "onboard_time": 1688901932,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 343765,
       "num": 272754,
       "word": "罗正跳eiei",
@@ -1139,14 +1219,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 330335,
-      "num": 330335,
-      "word": "陈卓璇厌世感红毯",
-      "onboard_time": 1688902352,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 329949,
       "num": 241296,
       "word": "Angelababy流泪吻戏",
@@ -1163,12 +1235,28 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 323432,
+      "num": 250983,
+      "word": "因为我男朋友开了家螺蛳粉店",
+      "onboard_time": 1688905529,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323221,
       "num": 323221,
       "word": "民警陪戒毒人员见父亲最后一面",
       "onboard_time": 1688851453,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317807,
+      "num": 317807,
+      "word": "EDG晋级夏季赛季后赛",
+      "onboard_time": 1688903371,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 315017,
@@ -1243,12 +1331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 302583,
-      "num": 302583,
-      "word": "刚得知爸妈给我编了个男朋友",
-      "onboard_time": 1688901211,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 302509,
+      "num": 302509,
+      "word": "宫脇咲良广州签售会人气",
+      "onboard_time": 1688902892,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 302478,
@@ -1339,6 +1427,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289841,
+      "num": 248387,
+      "word": "警方回应郑州一男子悬赏千万寻狗",
+      "onboard_time": 1688905472,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289358,
+      "num": 289358,
+      "word": "最后哈基米承受了一切",
+      "onboard_time": 1688900792,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288280,
       "num": 288280,
       "word": "揉眼睛的花花",
@@ -1393,6 +1497,14 @@
       "onboard_time": 1688888250,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274542,
+      "num": 243349,
+      "word": "还没毕业被交了社保和公积金",
+      "onboard_time": 1688903311,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 273042,
@@ -1491,11 +1603,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260972,
-      "num": 260972,
-      "word": "澳门音乐节",
-      "onboard_time": 1688902052,
-      "rank": 32,
+      "raw_hot": 259529,
+      "num": 259529,
+      "word": "张杰TMEA开场也太稳了吧",
+      "onboard_time": 1688905710,
+      "rank": 28,
       "category": "音乐"
     },
     {
@@ -1552,14 +1664,6 @@
       "word": "杨洋和张彬彬 魏大勋和王楚然",
       "onboard_time": 1688821654,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 247287,
-      "num": 247287,
-      "word": "最后哈基米承受了一切",
-      "onboard_time": 1688900792,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -1649,6 +1753,14 @@
       "onboard_time": 1688875593,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 233758,
+      "num": 233758,
+      "word": "郑棋元",
+      "onboard_time": 1688905051,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 233708,
@@ -1787,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207755,
+      "num": 207755,
+      "word": "WB对战狼队",
+      "onboard_time": 1688905894,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207206,
       "num": 207206,
       "word": "罗翔评男子修桥一家18口获刑",
@@ -1883,20 +2003,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196377,
+      "num": 196377,
+      "word": "消失的十一层",
+      "onboard_time": 1688903072,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195331,
       "num": 195331,
       "word": "宋轶近距离清扫永定门牌匾",
       "onboard_time": 1688883868,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195054,
-      "num": 195054,
-      "word": "黑龙江一18个月女孩从6楼窗台坠亡",
-      "onboard_time": 1688902412,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194744,
@@ -2017,6 +2137,14 @@
       "onboard_time": 1688869171,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 171049,
+      "num": 171049,
+      "word": "私造浮桥案审判长免职后仍在法院上班",
+      "onboard_time": 1688906074,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170898,
@@ -2356,7 +2484,7 @@
     },
     {
       "raw_hot": 27554,
-      "num": 1068122,
+      "num": 1156733,
       "word": "一图了解中华文明探源工程主要成果",
       "onboard_time": 1688874932,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1688906115940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1361589,
+        "num": 1361589,
+        "word": "鹿晗喜欢的显眼包出现了",
+        "onboard_time": 1688904212,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1170799,
+        "num": 1170799,
+        "word": "一个不会离职的办公桌长啥样",
+        "onboard_time": 1688895451,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14192,
+        "num": 1156733,
+        "word": "一图了解中华文明探源工程主要成果",
+        "onboard_time": 1688874932,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148803,
+        "num": 1148803,
+        "word": "Uzi",
+        "onboard_time": 1688902653,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1107406,
+        "num": 1107406,
+        "word": "王楚然7天涨粉13万",
+        "onboard_time": 1688901932,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 876163,
+        "num": 876163,
+        "word": "海南警方回应陪女友看演唱会男孩溺亡",
+        "onboard_time": 1688900433,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787569,
+        "num": 787569,
+        "word": "玉骨遥第一集的剧情终于来了",
+        "onboard_time": 1688902052,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 655915,
+        "num": 655915,
+        "word": "倪妮发了30张自拍",
+        "onboard_time": 1688896592,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 626586,
+        "num": 626586,
+        "word": "陈卓璇厌世感红毯",
+        "onboard_time": 1688902352,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 566917,
+        "num": 566917,
+        "word": "黑龙江一18个月女孩从6楼窗台坠亡",
+        "onboard_time": 1688902412,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681298,
+        "num": 562365,
+        "word": "济南大学已报警",
+        "onboard_time": 1688893051,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 544677,
+        "num": 544677,
+        "word": "老外到美甲店消费100多元称没钱",
+        "onboard_time": 1688898509,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511756,
+        "num": 511756,
+        "word": "朱颜假死",
+        "onboard_time": 1688904753,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471216,
+        "num": 471216,
+        "word": "55岁男子离世为5个家庭带来希望",
+        "onboard_time": 1688902593,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452978,
+        "num": 452978,
+        "word": "Seventeen孙悟空首舞台在中国",
+        "onboard_time": 1688895872,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 417047,
+        "num": 417047,
+        "word": "高铁上终于卖卫生巾了",
+        "onboard_time": 1688899173,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404154,
+        "num": 404154,
+        "word": "澳门音乐节",
+        "onboard_time": 1688902052,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 399673,
+        "num": 399673,
+        "word": "晚霞",
+        "onboard_time": 1688904274,
+        "rank": 17,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 378491,
+        "num": 378491,
+        "word": "赵露思她超爱",
+        "onboard_time": 1688900972,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359662,
+        "num": 359662,
+        "word": "刚得知爸妈给我编了个男朋友",
+        "onboard_time": 1688901211,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1207739,
+        "num": 344775,
+        "word": "手机被前男友折断了",
+        "onboard_time": 1688901572,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375728,
+        "num": 332510,
+        "word": "十个九块九就能凑一百哦",
+        "onboard_time": 1688904451,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317807,
+        "num": 317807,
+        "word": "EDG晋级夏季赛季后赛",
+        "onboard_time": 1688903371,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313450,
+        "num": 313450,
+        "word": "家属回应6未成年入店抢劫致人死亡",
+        "onboard_time": 1688899473,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313261,
+        "num": 313261,
+        "word": "台湾面临鸡蛋过剩问题",
+        "onboard_time": 1688896954,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 302509,
+        "num": 302509,
+        "word": "宫脇咲良广州签售会人气",
+        "onboard_time": 1688902892,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289358,
+        "num": 289358,
+        "word": "最后哈基米承受了一切",
+        "onboard_time": 1688900792,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268197,
+        "num": 268197,
+        "word": "于途乔晶晶vs宋焰许沁",
+        "onboard_time": 1688895089,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259529,
+        "num": 259529,
+        "word": "张杰TMEA开场也太稳了吧",
+        "onboard_time": 1688905710,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145912,
+        "num": 259128,
+        "word": "乌克兰承认曾对克里米亚大桥实施袭击",
+        "onboard_time": 1688893051,
+        "rank": 29,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1048660,
+        "num": 254452,
+        "word": "郑州狗主悬赏1000万人民币寻狗",
+        "onboard_time": 1688900131,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323432,
+        "num": 250983,
+        "word": "因为我男朋友开了家螺蛳粉店",
+        "onboard_time": 1688905529,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289841,
+        "num": 248387,
+        "word": "警方回应郑州一男子悬赏千万寻狗",
+        "onboard_time": 1688905472,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274542,
+        "num": 243349,
+        "word": "还没毕业被交了社保和公积金",
+        "onboard_time": 1688903311,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242685,
+        "num": 242685,
+        "word": "杨紫在MLB全明星",
+        "onboard_time": 1688897252,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 235226,
+        "num": 235226,
+        "word": "镇政府人员回应吉林私搭浮桥案",
+        "onboard_time": 1688901151,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233758,
+        "num": 233758,
+        "word": "郑棋元",
+        "onboard_time": 1688905051,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233079,
+        "num": 233079,
+        "word": "情侣顺利订婚后女方态度大转变",
+        "onboard_time": 1688898509,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 229691,
+        "num": 229691,
+        "word": "肖战为了玉骨遥剧宣好努力",
+        "onboard_time": 1688895995,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212050,
+        "num": 212050,
+        "word": "老人街头散钱66万无人要",
+        "onboard_time": 1688901991,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209721,
+        "num": 209721,
+        "word": "庆余年2",
+        "onboard_time": 1688898932,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207755,
+        "num": 207755,
+        "word": "WB对战狼队",
+        "onboard_time": 1688905894,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207691,
+        "num": 207691,
+        "word": "私搭浮桥案审判长被曝顶替他人上大学",
+        "onboard_time": 1688895692,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204257,
+        "num": 204257,
+        "word": "消失的她实时票房破30亿",
+        "onboard_time": 1688893171,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196892,
+        "num": 196892,
+        "word": "我再也没有寒暑假了",
+        "onboard_time": 1688899473,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196377,
+        "num": 196377,
+        "word": "消失的十一层",
+        "onboard_time": 1688903072,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192150,
+        "num": 192150,
+        "word": "王楚然小时候",
+        "onboard_time": 1688895271,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188563,
+        "num": 188563,
+        "word": "茶百道未定联名",
+        "onboard_time": 1688893892,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176052,
+        "num": 176052,
+        "word": "一鹿彤行偷偷藏不住版",
+        "onboard_time": 1688888731,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171049,
+        "num": 171049,
+        "word": "私造浮桥案审判长免职后仍在法院上班",
+        "onboard_time": 1688906074,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#哈尔滨成功申办2025亚冬会#"
+    }
+  }
+}
