@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688884657794,
+  "endTime": 1688887006287,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -833,6 +833,14 @@
       "onboard_time": 1688473532,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2168887,
+      "num": 2168887,
+      "word": "肖战在任敏微博评论区刷屏",
+      "onboard_time": 1688884049,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 2168097,
@@ -3987,6 +3995,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 769065,
+      "num": 769065,
+      "word": "李玟姐姐称乐裕民靠李玟上位",
+      "onboard_time": 1688884651,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 768989,
       "num": 628764,
       "word": "原来沈腾艾伦都是校草",
@@ -5219,14 +5235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 605319,
-      "num": 527018,
-      "word": "肖战在任敏微博评论区刷屏",
-      "onboard_time": 1688884049,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 604862,
       "num": 604862,
       "word": "boboka",
@@ -5931,6 +5939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534980,
+      "num": 534980,
+      "word": "共享充电宝电用完只充了30%",
+      "onboard_time": 1688883627,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 533790,
       "num": 349262,
       "word": "女子半夜拍蚊子走出158步吓坏老母亲",
@@ -6209,6 +6225,14 @@
       "onboard_time": 1688698171,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 506739,
+      "num": 212616,
+      "word": "发现高档食品一般不能多吃",
+      "onboard_time": 1688885727,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 506687,
@@ -7075,6 +7099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438736,
+      "num": 438736,
+      "word": "年轻人为什么不买快时尚的账了",
+      "onboard_time": 1688877571,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 438729,
       "num": 387242,
       "word": "贾静雯从唱跳双废到女团预备",
@@ -7465,6 +7497,14 @@
       "onboard_time": 1688723852,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 404280,
+      "num": 404280,
+      "word": "seventeen澳门彩排",
+      "onboard_time": 1688883868,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 404258,
@@ -7980,7 +8020,7 @@
     },
     {
       "raw_hot": 380693,
-      "num": 229208,
+      "num": 362419,
       "word": "五月天演唱会保安大哥也体会了当明星的感觉",
       "onboard_time": 1688883751,
       "rank": 45,
@@ -8465,14 +8505,6 @@
       "onboard_time": 1688781031,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 357010,
-      "num": 357010,
-      "word": "年轻人为什么不买快时尚的账了",
-      "onboard_time": 1688877571,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 356639,
@@ -9227,14 +9259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 325695,
-      "num": 325695,
-      "word": "seventeen澳门彩排",
-      "onboard_time": 1688883868,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 325344,
       "num": 325344,
       "word": "谢娜给贾静雯刘雅瑟准备横幅",
@@ -9539,14 +9563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313524,
-      "num": 313524,
-      "word": "共享充电宝电用完只充了30%",
-      "onboard_time": 1688883627,
-      "rank": 33,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 313004,
       "num": 313004,
       "word": "张佳宁屈楚萧新电影路透",
@@ -9713,6 +9729,14 @@
       "onboard_time": 1688293536,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 307603,
+      "num": 272596,
+      "word": "伍嘉成二十年没有吃过荔枝",
+      "onboard_time": 1688886450,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 307271,
@@ -9937,6 +9961,14 @@
       "onboard_time": 1688365851,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296954,
+      "num": 255784,
+      "word": "姜贞羽现偶适配度",
+      "onboard_time": 1688884110,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 296694,
@@ -11091,6 +11123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257397,
+      "num": 257397,
+      "word": "日本市民团体在人民日报撰文反对排海措施",
+      "onboard_time": 1688885010,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257387,
       "num": 313057,
       "word": "BLG对战TES",
@@ -11161,6 +11201,14 @@
       "onboard_time": 1688788471,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255389,
+      "num": 197374,
+      "word": "为什么上班后大家就爱发云彩了",
+      "onboard_time": 1688886450,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 255227,
@@ -11441,6 +11489,14 @@
       "onboard_time": 1688693135,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 247702,
+      "num": 247702,
+      "word": "张淼怡正脸vs侧脸",
+      "onboard_time": 1688884230,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247680,
@@ -11755,6 +11811,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 239776,
+      "num": 239776,
+      "word": "揉眼睛的花花",
+      "onboard_time": 1688886149,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238877,
       "num": 308333,
       "word": "F1",
@@ -12003,6 +12067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230740,
+      "num": 230740,
+      "word": "评论区里的表白才最好磕",
+      "onboard_time": 1688886391,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230215,
       "num": 193531,
       "word": "假如女儿出生就拥有妈妈的记忆",
@@ -12097,14 +12169,6 @@
       "onboard_time": 1688869351,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228682,
-      "num": 228682,
-      "word": "姜贞羽现偶适配度",
-      "onboard_time": 1688884110,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 228633,
@@ -14091,14 +14155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186212,
-      "num": 186212,
-      "word": "张淼怡正脸vs侧脸",
-      "onboard_time": 1688884230,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 186203,
       "num": 186203,
       "word": "长风渡又断更了",
@@ -14129,6 +14185,14 @@
       "onboard_time": 1688866829,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185146,
+      "num": 185146,
+      "word": "宋丹丹说尹浩宇太像孟子义了",
+      "onboard_time": 1688884468,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 184491,
@@ -14851,6 +14915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163699,
+      "num": 163699,
+      "word": "鹿晗三巡演唱会",
+      "onboard_time": 1688885010,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163616,
       "num": 163616,
       "word": "儿童友好的区域也太少了",
@@ -15195,14 +15267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149285,
-      "num": 149285,
-      "word": "宋丹丹说尹浩宇太像孟子义了",
-      "onboard_time": 1688884468,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149143,
       "num": 149143,
       "word": "中邑故一 我主要画中国的隐士幻想",
@@ -15273,6 +15337,14 @@
       "onboard_time": 1688524534,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146566,
+      "num": 146566,
+      "word": "原来偷听的不止我一个",
+      "onboard_time": 1688886989,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 145613,

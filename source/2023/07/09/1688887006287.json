@@ -1,0 +1,410 @@
+{
+  "runTime": 1688887006287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2168887,
+        "num": 2168887,
+        "word": "肖战在任敏微博评论区刷屏",
+        "onboard_time": 1688884049,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1786475,
+        "num": 1786475,
+        "word": "女孩中考742分报考师范专科引争议",
+        "onboard_time": 1688875891,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 56692,
+        "num": 1017863,
+        "word": "滇藏铁路丽香段哈巴雪山隧道贯通",
+        "onboard_time": 1688875171,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788437,
+        "num": 788437,
+        "word": "曝HYBE员工搜身时摸粉丝胸部",
+        "onboard_time": 1688882250,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769065,
+        "num": 769065,
+        "word": "李玟姐姐称乐裕民靠李玟上位",
+        "onboard_time": 1688884651,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685070,
+        "num": 685070,
+        "word": "夫妻情侣请求让座你会让吗",
+        "onboard_time": 1688881228,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 650872,
+        "num": 650872,
+        "word": "庆余年第二季首发剧照",
+        "onboard_time": 1688871450,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644591,
+        "num": 644591,
+        "word": "魏大勋反手开车门",
+        "onboard_time": 1688874812,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534980,
+        "num": 534980,
+        "word": "共享充电宝电用完只充了30%",
+        "onboard_time": 1688883627,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 507469,
+        "num": 507469,
+        "word": "新疆的店名永远在我的笑点上",
+        "onboard_time": 1688879730,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 598452,
+        "num": 474650,
+        "word": "Ella蔡少芬和老公吵架都用短信",
+        "onboard_time": 1688879671,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438736,
+        "num": 438736,
+        "word": "年轻人为什么不买快时尚的账了",
+        "onboard_time": 1688877571,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 404280,
+        "num": 404280,
+        "word": "seventeen澳门彩排",
+        "onboard_time": 1688883868,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 404129,
+        "num": 404129,
+        "word": "韩国歌手李尚恩去世",
+        "onboard_time": 1688866829,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363132,
+        "num": 363132,
+        "word": "罗翔",
+        "onboard_time": 1688859802,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368961,
+        "num": 362419,
+        "word": "五月天演唱会保安大哥也体会了当明星的感觉",
+        "onboard_time": 1688883751,
+        "rank": 15,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 360868,
+        "num": 360868,
+        "word": "济南大学回应留学生生活补助每月3万",
+        "onboard_time": 1688880570,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328299,
+        "num": 328299,
+        "word": "药水哥两年没回向佐微信",
+        "onboard_time": 1688868570,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 322660,
+        "num": 322660,
+        "word": "大学生因毕业问题无颜回家流浪10年",
+        "onboard_time": 1688880092,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 297112,
+        "num": 297112,
+        "word": "专家称本周或是十万年来最热一周",
+        "onboard_time": 1688873852,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338028,
+        "num": 286359,
+        "word": "魏大勋没想到你能演骨科",
+        "onboard_time": 1688868512,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312366,
+        "num": 274893,
+        "word": "卡琳娜营业 天花板级别",
+        "onboard_time": 1688877271,
+        "rank": 21,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 307603,
+        "num": 272596,
+        "word": "伍嘉成二十年没有吃过荔枝",
+        "onboard_time": 1688886450,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260837,
+        "num": 260837,
+        "word": "女生被夫妻占座被指责破坏家庭",
+        "onboard_time": 1688876132,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257397,
+        "num": 257397,
+        "word": "日本市民团体在人民日报撰文反对排海措施",
+        "onboard_time": 1688885010,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296954,
+        "num": 255784,
+        "word": "姜贞羽现偶适配度",
+        "onboard_time": 1688884110,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247702,
+        "num": 247702,
+        "word": "张淼怡正脸vs侧脸",
+        "onboard_time": 1688884230,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239776,
+        "num": 239776,
+        "word": "揉眼睛的花花",
+        "onboard_time": 1688886149,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230740,
+        "num": 230740,
+        "word": "评论区里的表白才最好磕",
+        "onboard_time": 1688886391,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154541,
+        "num": 212822,
+        "word": "交警罚完瓜农帮卖了2000多斤瓜",
+        "onboard_time": 1688873130,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506739,
+        "num": 212616,
+        "word": "发现高档食品一般不能多吃",
+        "onboard_time": 1688885727,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206653,
+        "num": 206653,
+        "word": "宋茜排舞梦回Victoria",
+        "onboard_time": 1688882669,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170107,
+        "num": 197606,
+        "word": "阴阳师 缘结神",
+        "onboard_time": 1688881292,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255389,
+        "num": 197374,
+        "word": "为什么上班后大家就爱发云彩了",
+        "onboard_time": 1688886450,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196177,
+        "num": 196177,
+        "word": "倪妮主演电影票房超过杨幂",
+        "onboard_time": 1688870791,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185146,
+        "num": 185146,
+        "word": "宋丹丹说尹浩宇太像孟子义了",
+        "onboard_time": 1688884468,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185839,
+        "num": 180385,
+        "word": "消失的她进入2023全球票房榜前十",
+        "onboard_time": 1688873069,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172442,
+        "num": 172442,
+        "word": "死神2也太懂时髦了",
+        "onboard_time": 1688880148,
+        "rank": 37,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 166831,
+        "num": 166831,
+        "word": "小猫在你没注意的地方偷偷爱你",
+        "onboard_time": 1688881292,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 165814,
+        "num": 165814,
+        "word": "奶奶接孙女放学被水冲走十多人急救援",
+        "onboard_time": 1688876792,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163699,
+        "num": 163699,
+        "word": "鹿晗三巡演唱会",
+        "onboard_time": 1688885010,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162437,
+        "num": 162437,
+        "word": "长期食用口水油或致癌",
+        "onboard_time": 1688876492,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146566,
+        "num": 146566,
+        "word": "原来偷听的不止我一个",
+        "onboard_time": 1688886989,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142242,
+        "num": 142242,
+        "word": "极限挑战第九季收官",
+        "onboard_time": 1688881711,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137755,
+        "num": 137755,
+        "word": "女儿一封信让环卫工爸爸工服变了样",
+        "onboard_time": 1688872830,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135366,
+        "num": 135366,
+        "word": "王源新剧消失的他即视感",
+        "onboard_time": 1688878292,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133942,
+        "num": 133942,
+        "word": "情侣携手同行从专科逆袭到研究生",
+        "onboard_time": 1688884354,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130854,
+        "num": 130854,
+        "word": "人民日报评长安三万里",
+        "onboard_time": 1688865568,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125510,
+        "num": 125510,
+        "word": "马景涛 边牧波泥小pony",
+        "onboard_time": 1688864367,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124947,
+        "num": 124947,
+        "word": "宋轶近距离清扫永定门牌匾",
+        "onboard_time": 1688883868,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美鼓岭情缘为何延续至今#"
+    }
+  }
+}
