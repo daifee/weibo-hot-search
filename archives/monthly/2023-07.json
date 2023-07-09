@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688926930317,
+  "endTime": 1688927769790,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -12011,6 +12011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350998,
+      "num": 350998,
+      "word": "宋焰的不幸 和女主相爱",
+      "onboard_time": 1688924359,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350638,
       "num": 323859,
       "word": "爷爷给我买了杯奶茶",
@@ -12081,14 +12089,6 @@
       "onboard_time": 1688579539,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349492,
-      "num": 349492,
-      "word": "宋焰的不幸 和女主相爱",
-      "onboard_time": 1688924359,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 348986,
@@ -22019,6 +22019,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110631,
+      "num": 110631,
+      "word": "有没有可能王一博穿了袜子",
+      "onboard_time": 1688926036,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 110593,
       "num": 128812,
       "word": "我们还是应该有脆弱衰老的权利",
@@ -22105,6 +22113,14 @@
       "onboard_time": 1688340808,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105142,
+      "num": 105142,
+      "word": "张若昀直播剧透庆余年2",
+      "onboard_time": 1688927415,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 104938,
@@ -22425,14 +22441,6 @@
       "onboard_time": 1688441375,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85481,
-      "num": 85481,
-      "word": "有没有可能王一博穿了袜子",
-      "onboard_time": 1688926036,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 85252,
