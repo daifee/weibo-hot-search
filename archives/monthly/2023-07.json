@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688872417947,
+  "endTime": 1688874067392,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1667,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1682561,
+      "num": 1682561,
+      "word": "庆余年第二季首发剧照",
+      "onboard_time": 1688871450,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1680460,
       "num": 1680460,
       "word": "天津发现一例猴痘",
@@ -1732,7 +1740,7 @@
     },
     {
       "raw_hot": 1623289,
-      "num": 1000732,
+      "num": 1232875,
       "word": "药水哥两年没回向佐微信",
       "onboard_time": 1688868570,
       "rank": 3,
@@ -2617,14 +2625,6 @@
       "onboard_time": 1688599593,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1170047,
-      "num": 1170047,
-      "word": "庆余年第二季首发剧照",
-      "onboard_time": 1688871450,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1170002,
@@ -3713,6 +3713,14 @@
       "onboard_time": 1688647054,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913367,
+      "num": 913367,
+      "word": "一个关于指甲的小偏方",
+      "onboard_time": 1688870371,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 913305,
@@ -4884,7 +4892,7 @@
     },
     {
       "raw_hot": 768989,
-      "num": 513973,
+      "num": 628764,
       "word": "原来沈腾艾伦都是校草",
       "onboard_time": 1688868690,
       "rank": 12,
@@ -5969,14 +5977,6 @@
       "onboard_time": 1688726914,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655129,
-      "num": 413687,
-      "word": "一个关于指甲的小偏方",
-      "onboard_time": 1688870371,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 655126,
@@ -7396,10 +7396,18 @@
     },
     {
       "raw_hot": 539101,
-      "num": 401741,
+      "num": 483397,
       "word": "茶啊二中",
       "onboard_time": 1688870971,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 538771,
+      "num": 488985,
+      "word": "庆余年",
+      "onboard_time": 1688872229,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -8009,6 +8017,14 @@
       "onboard_time": 1688384620,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 492236,
+      "num": 492236,
+      "word": "女儿一封信让环卫工爸爸工服变了样",
+      "onboard_time": 1688872830,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491782,
@@ -8971,6 +8987,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438729,
+      "num": 387242,
+      "word": "贾静雯从唱跳双废到女团预备",
+      "onboard_time": 1688868930,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 438707,
+      "num": 310977,
+      "word": "顾九思得知柳玉茹死讯泪崩",
+      "onboard_time": 1688872771,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438431,
       "num": 335652,
       "word": "顾九思柳玉茹诀别吻",
@@ -9081,14 +9113,6 @@
       "onboard_time": 1688454516,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432900,
-      "num": 387242,
-      "word": "贾静雯从唱跳双废到女团预备",
-      "onboard_time": 1688868930,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 432548,
@@ -9651,6 +9675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 400499,
+      "num": 274458,
+      "word": "倪妮主演电影票房超过杨幂",
+      "onboard_time": 1688870791,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400448,
       "num": 355175,
       "word": "入职3天因公司氛围不好离职了",
@@ -10081,6 +10113,14 @@
       "onboard_time": 1688558853,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 381335,
+      "num": 240155,
+      "word": "男子散落400万现金纸钞遭哄抢",
+      "onboard_time": 1688873311,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 381230,
@@ -10617,14 +10657,6 @@
       "onboard_time": 1688642070,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360785,
-      "num": 274458,
-      "word": "倪妮主演电影票房超过杨幂",
-      "onboard_time": 1688870791,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 360676,
@@ -12171,6 +12203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309092,
+      "num": 240100,
+      "word": "消失的她进入2023全球票房榜前十",
+      "onboard_time": 1688873069,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309001,
       "num": 309001,
       "word": "李雪琴闻宋茜身上的味道",
@@ -13259,6 +13299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277918,
+      "num": 240020,
+      "word": "专家称本周或是十万年来最热一周",
+      "onboard_time": 1688873852,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277569,
       "num": 277569,
       "word": "没有一个中国人会这么写字",
@@ -13603,6 +13651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269006,
+      "num": 269006,
+      "word": "韩国某些职业只招特定的MBTI",
+      "onboard_time": 1688871872,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268063,
       "num": 227624,
       "word": "马伯骞你在干什么",
@@ -13611,12 +13667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267972,
+      "num": 247269,
+      "word": "商家 外卖小哥求你闭嘴吧",
+      "onboard_time": 1688869052,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267943,
       "num": 326573,
       "word": "快乐的大人",
       "onboard_time": 1688362592,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267931,
+      "num": 239970,
+      "word": "时影别闹vs蓝忘机别闹",
+      "onboard_time": 1688873609,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 267770,
@@ -14355,14 +14427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 252463,
-      "num": 197782,
-      "word": "庆余年",
-      "onboard_time": 1688872229,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 252456,
       "num": 291753,
       "word": "恋爱脑犯了就来看看",
@@ -14683,14 +14747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246031,
-      "num": 246031,
-      "word": "商家 外卖小哥求你闭嘴吧",
-      "onboard_time": 1688869052,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 246015,
       "num": 246015,
       "word": "稚段情长双人大片",
@@ -15003,12 +15059,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240182,
+      "num": 240182,
+      "word": "斗破苍穹",
+      "onboard_time": 1688870852,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 240078,
       "num": 233295,
       "word": "正处在换毛期的印度领角鸮",
       "onboard_time": 1688795909,
       "rank": 36,
       "category": "自然"
+    },
+    {
+      "raw_hot": 239911,
+      "num": 239911,
+      "word": "交警罚完瓜农帮卖了2000多斤瓜",
+      "onboard_time": 1688873130,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239609,
@@ -15897,6 +15969,14 @@
       "onboard_time": 1688271931,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221999,
+      "num": 221999,
+      "word": "离岸流",
+      "onboard_time": 1688872713,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221898,
@@ -17027,14 +17107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202071,
-      "num": 202071,
-      "word": "韩国某些职业只招特定的MBTI",
-      "onboard_time": 1688871872,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 202024,
       "num": 202024,
       "word": "范德萨突发脑溢血被送往ICU抢救",
@@ -17761,14 +17833,6 @@
       "onboard_time": 1688820753,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190901,
-      "num": 190901,
-      "word": "斗破苍穹",
-      "onboard_time": 1688870852,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 190766,
@@ -20660,7 +20724,7 @@
     },
     {
       "raw_hot": 70536,
-      "num": 1379577,
+      "num": 1415150,
       "word": "守护高温下的户外劳动者",
       "onboard_time": 1688821897,
       "rank": 2,

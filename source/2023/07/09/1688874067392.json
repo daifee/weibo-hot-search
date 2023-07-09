@@ -1,0 +1,410 @@
+{
+  "runTime": 1688874067392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2028324,
+        "num": 2028324,
+        "word": "韩国歌手李尚恩去世",
+        "onboard_time": 1688866829,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1682561,
+        "num": 1682561,
+        "word": "庆余年第二季首发剧照",
+        "onboard_time": 1688871450,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45450,
+        "num": 1415150,
+        "word": "守护高温下的户外劳动者",
+        "onboard_time": 1688821897,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232875,
+        "num": 1232875,
+        "word": "药水哥两年没回向佐微信",
+        "onboard_time": 1688868570,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 913367,
+        "num": 913367,
+        "word": "一个关于指甲的小偏方",
+        "onboard_time": 1688870371,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2621016,
+        "num": 866057,
+        "word": "罗翔",
+        "onboard_time": 1688859802,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651673,
+        "num": 651673,
+        "word": "何非知道李木子无论如何都活不了",
+        "onboard_time": 1688860584,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628764,
+        "num": 628764,
+        "word": "原来沈腾艾伦都是校草",
+        "onboard_time": 1688868690,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 590363,
+        "num": 590363,
+        "word": "家长庆祝孩子高考660分聚众赌博被拘",
+        "onboard_time": 1688862687,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 492236,
+        "num": 492236,
+        "word": "女儿一封信让环卫工爸爸工服变了样",
+        "onboard_time": 1688872830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538771,
+        "num": 488985,
+        "word": "庆余年",
+        "onboard_time": 1688872229,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483397,
+        "num": 483397,
+        "word": "茶啊二中",
+        "onboard_time": 1688870971,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458932,
+        "num": 458932,
+        "word": "黄子韬说宁静那英没一个能压得住自己",
+        "onboard_time": 1688867910,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337988,
+        "num": 337988,
+        "word": "女子往餐馆汤锅放不明液体致人呕吐",
+        "onboard_time": 1688864549,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312543,
+        "num": 312543,
+        "word": "情绪稳定vs情绪表达",
+        "onboard_time": 1688866049,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 438729,
+        "num": 311993,
+        "word": "贾静雯从唱跳双废到女团预备",
+        "onboard_time": 1688868930,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438707,
+        "num": 310977,
+        "word": "顾九思得知柳玉茹死讯泪崩",
+        "onboard_time": 1688872771,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308583,
+        "num": 308583,
+        "word": "吉林私搭浮桥收费获刑当事人发声",
+        "onboard_time": 1688865451,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269006,
+        "num": 269006,
+        "word": "韩国某些职业只招特定的MBTI",
+        "onboard_time": 1688871872,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252005,
+        "num": 252005,
+        "word": "28岁女驾驶员开船穿越北冰洋",
+        "onboard_time": 1688865451,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977133,
+        "num": 251584,
+        "word": "魏大勋没想到你能演骨科",
+        "onboard_time": 1688868512,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467861,
+        "num": 250565,
+        "word": "影楼把我的孕照丢失了怎么办",
+        "onboard_time": 1688862327,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 400499,
+        "num": 248805,
+        "word": "倪妮主演电影票房超过杨幂",
+        "onboard_time": 1688870791,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267972,
+        "num": 247269,
+        "word": "商家 外卖小哥求你闭嘴吧",
+        "onboard_time": 1688869052,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257078,
+        "num": 245788,
+        "word": "警方通报女子在餐厅投放不明物品",
+        "onboard_time": 1688870791,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379565,
+        "num": 244409,
+        "word": "人民日报评长安三万里",
+        "onboard_time": 1688865568,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338154,
+        "num": 243507,
+        "word": "马景涛",
+        "onboard_time": 1688859922,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316016,
+        "num": 242707,
+        "word": "罗正跳eiei",
+        "onboard_time": 1688872049,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253461,
+        "num": 241330,
+        "word": "蛋仔雪王",
+        "onboard_time": 1688870551,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240182,
+        "num": 240182,
+        "word": "斗破苍穹",
+        "onboard_time": 1688870852,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 381335,
+        "num": 240155,
+        "word": "男子散落400万现金纸钞遭哄抢",
+        "onboard_time": 1688873311,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 309092,
+        "num": 240100,
+        "word": "消失的她进入2023全球票房榜前十",
+        "onboard_time": 1688873069,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290847,
+        "num": 240082,
+        "word": "鹿晗说邓超照片巨丑",
+        "onboard_time": 1688863048,
+        "rank": 32,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 277918,
+        "num": 240020,
+        "word": "专家称本周或是十万年来最热一周",
+        "onboard_time": 1688873852,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267931,
+        "num": 239970,
+        "word": "时影别闹vs蓝忘机别闹",
+        "onboard_time": 1688873609,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244163,
+        "num": 239922,
+        "word": "杨洋王彦霖演情敌和同母异父的兄弟",
+        "onboard_time": 1688869590,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239911,
+        "num": 239911,
+        "word": "交警罚完瓜农帮卖了2000多斤瓜",
+        "onboard_time": 1688873130,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221999,
+        "num": 221999,
+        "word": "离岸流",
+        "onboard_time": 1688872713,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221374,
+        "num": 221374,
+        "word": "李玟姐姐称其老公已被原公司撤职很久",
+        "onboard_time": 1688826217,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198235,
+        "num": 198235,
+        "word": "家里对外人谎报我的高考分数",
+        "onboard_time": 1688862988,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220006,
+        "num": 198007,
+        "word": "暑假目前最惊喜的国产剧",
+        "onboard_time": 1688831611,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215123,
+        "num": 194526,
+        "word": "凌霄vs孟宴臣",
+        "onboard_time": 1688867130,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215100,
+        "num": 194263,
+        "word": "消失的十一层今日开播",
+        "onboard_time": 1688869770,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189347,
+        "num": 189347,
+        "word": "罗翔谈村民私造浮桥收费被判刑",
+        "onboard_time": 1688867549,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182452,
+        "num": 182452,
+        "word": "马景涛 边牧波泥小pony",
+        "onboard_time": 1688864367,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177675,
+        "num": 177675,
+        "word": "高收入的人还是需要有风险意识",
+        "onboard_time": 1688862565,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176128,
+        "num": 176128,
+        "word": "单依纯00后爱情观",
+        "onboard_time": 1688869351,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174839,
+        "num": 174839,
+        "word": "徐峥看茶啊二中笑得肚子疼",
+        "onboard_time": 1688866168,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172913,
+        "num": 172913,
+        "word": "金虎 感谢大家参加我的生日会",
+        "onboard_time": 1688868030,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105014,
+        "num": 172787,
+        "word": "XYG仙哥",
+        "onboard_time": 1688866890,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#哈尔滨成功申办2025亚冬会#"
+    }
+  }
+}
