@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688907128797,
+  "endTime": 1688908950231,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1435,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1845136,
+      "num": 1845136,
+      "word": "鹿晗喜欢的显眼包出现了",
+      "onboard_time": 1688904212,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1844383,
       "num": 668296,
       "word": "叶舒华 烧给你",
@@ -1835,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1585670,
+      "num": 1585670,
+      "word": "因为我男朋友开了家螺蛳粉店",
+      "onboard_time": 1688905529,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1561314,
       "num": 1561314,
       "word": "隐形眼镜有根线先别急着扔",
@@ -1905,14 +1921,6 @@
       "onboard_time": 1688575888,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1529284,
-      "num": 1529284,
-      "word": "鹿晗喜欢的显眼包出现了",
-      "onboard_time": 1688904212,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 1523121,
@@ -2312,6 +2320,14 @@
       "word": "魏大勋反手开车门",
       "onboard_time": 1688874812,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1329328,
+      "num": 1329328,
+      "word": "孟宴臣 蝴蝶",
+      "onboard_time": 1688907511,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -3257,6 +3273,14 @@
       "onboard_time": 1688452655,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1041939,
+      "num": 1041939,
+      "word": "爱豆鹿晗回来了",
+      "onboard_time": 1688906431,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1041378,
@@ -5035,6 +5059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 779297,
+      "num": 779297,
+      "word": "TMEA音乐节",
+      "onboard_time": 1688906311,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 778894,
       "num": 778894,
       "word": "为什么有钱人更容易保持身材",
@@ -6331,6 +6363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 650719,
+      "num": 650719,
+      "word": "警方回应郑州一男子悬赏千万寻狗",
+      "onboard_time": 1688905472,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650672,
       "num": 650672,
       "word": "玉骨遥弑神论",
@@ -6368,14 +6408,6 @@
       "word": "鹿晗演唱会 抢票",
       "onboard_time": 1688271451,
       "rank": 21,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 648929,
-      "num": 648929,
-      "word": "爱豆鹿晗回来了",
-      "onboard_time": 1688906431,
-      "rank": 7,
       "category": "音乐"
     },
     {
@@ -6420,7 +6452,7 @@
     },
     {
       "raw_hot": 642399,
-      "num": 642399,
+      "num": 661794,
       "word": "黑龙江一18个月女孩从6楼窗台坠亡",
       "onboard_time": 1688902412,
       "rank": 44,
@@ -6472,6 +6504,14 @@
       "word": "偷偷藏不住直通大结局",
       "onboard_time": 1688639914,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 636153,
+      "num": 636153,
+      "word": "朱颜假死",
+      "onboard_time": 1688904753,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -6689,14 +6729,6 @@
       "onboard_time": 1688271091,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 621722,
-      "num": 621722,
-      "word": "因为我男朋友开了家螺蛳粉店",
-      "onboard_time": 1688905529,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 621559,
@@ -7473,14 +7505,6 @@
       "onboard_time": 1688226395,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 558724,
-      "num": 558724,
-      "word": "朱颜假死",
-      "onboard_time": 1688904753,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 557685,
@@ -8403,14 +8427,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 496926,
-      "num": 496926,
-      "word": "TMEA音乐节",
-      "onboard_time": 1688906311,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
@@ -8929,6 +8945,14 @@
       "onboard_time": 1688820813,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 466346,
+      "num": 466346,
+      "word": "还没毕业被交了社保和公积金",
+      "onboard_time": 1688903311,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 466040,
@@ -9723,6 +9747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428821,
+      "num": 428821,
+      "word": "林俊杰TMEA",
+      "onboard_time": 1688906493,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 428719,
       "num": 401626,
       "word": "张杰TMEA开场也太稳了吧",
@@ -10107,14 +10139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407968,
-      "num": 407968,
-      "word": "警方回应郑州一男子悬赏千万寻狗",
-      "onboard_time": 1688905472,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407159,
       "num": 292862,
       "word": "周杰伦开演唱会为海口增近10亿旅游收入",
@@ -10387,19 +10411,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397772,
-      "num": 397772,
-      "word": "林俊杰TMEA",
-      "onboard_time": 1688906493,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 397296,
       "num": 397296,
       "word": "尘缘",
       "onboard_time": 1688293655,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 396997,
+      "num": 396997,
+      "word": "范玉好蠢",
+      "onboard_time": 1688908231,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -10924,7 +10948,7 @@
     },
     {
       "raw_hot": 375728,
-      "num": 350411,
+      "num": 356133,
       "word": "十个九块九就能凑一百哦",
       "onboard_time": 1688904451,
       "rank": 21,
@@ -11259,6 +11283,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 365817,
+      "num": 365817,
+      "word": "给宁艺卓20个AirPods更实用",
+      "onboard_time": 1688906493,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 365727,
       "num": 303166,
       "word": "你觉得女性为什么要经济独立",
@@ -11513,14 +11545,6 @@
       "onboard_time": 1688781031,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 357225,
-      "num": 357225,
-      "word": "还没毕业被交了社保和公积金",
-      "onboard_time": 1688903311,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 356639,
@@ -12731,6 +12755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317997,
+      "num": 317997,
+      "word": "路人看秦岚的眼神",
+      "onboard_time": 1688908112,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317807,
       "num": 317807,
       "word": "EDG晋级夏季赛季后赛",
@@ -13780,7 +13812,7 @@
     },
     {
       "raw_hot": 289947,
-      "num": 309072,
+      "num": 318845,
       "word": "乌克兰承认曾对克里米亚大桥实施袭击",
       "onboard_time": 1688893051,
       "rank": 49,
@@ -14131,14 +14163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280679,
-      "num": 280679,
-      "word": "给宁艺卓20个AirPods更实用",
-      "onboard_time": 1688906493,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 280520,
       "num": 1771208,
       "word": "巨型海底盲盒开出超18万件文物",
@@ -14337,6 +14361,14 @@
       "onboard_time": 1688684482,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275292,
+      "num": 319962,
+      "word": "私造浮桥案审判长免职后仍在法院上班",
+      "onboard_time": 1688906074,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274863,
@@ -17283,6 +17315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217662,
+      "num": 217662,
+      "word": "极限挑战",
+      "onboard_time": 1688908351,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217547,
       "num": 219623,
       "word": "夏目友人帐第7季制作决定",
@@ -17297,14 +17337,6 @@
       "onboard_time": 1688127274,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217106,
-      "num": 217106,
-      "word": "私造浮桥案审判长免职后仍在法院上班",
-      "onboard_time": 1688906074,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217099,
@@ -17971,6 +18003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206800,
+      "num": 206800,
+      "word": "哈基米大战龙神",
+      "onboard_time": 1688908051,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206723,
       "num": 206723,
       "word": "这段宝宝学走路视频爸爸拍了3年",
@@ -18385,6 +18425,14 @@
       "onboard_time": 1688480080,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200400,
+      "num": 200400,
+      "word": "刘雨昕获年度新势力制作人",
+      "onboard_time": 1688907272,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 200317,
@@ -19595,6 +19643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179295,
+      "num": 179295,
+      "word": "3只小羊离家出走找到时已送上餐桌",
+      "onboard_time": 1688908474,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178731,
       "num": 182071,
       "word": "多伦多女孩3岁起开始念叨要结婚",
@@ -20217,6 +20273,14 @@
       "onboard_time": 1688809055,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169393,
+      "num": 169393,
+      "word": "晒背天灸养身法",
+      "onboard_time": 1688907872,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 169346,
@@ -22516,7 +22580,7 @@
     },
     {
       "raw_hot": 27554,
-      "num": 1156733,
+      "num": 1387230,
       "word": "一图了解中华文明探源工程主要成果",
       "onboard_time": 1688874932,
       "rank": 2,
