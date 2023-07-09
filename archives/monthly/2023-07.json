@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688922970788,
+  "endTime": 1688924022031,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -4211,6 +4211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 885963,
+      "num": 885963,
+      "word": "首尔街头采访韩国人加班",
+      "onboard_time": 1688919626,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 883481,
       "num": 766612,
       "word": "奔跑吧延期播出",
@@ -5449,14 +5457,6 @@
       "onboard_time": 1688704307,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 747354,
-      "num": 380796,
-      "word": "首尔街头采访韩国人加班",
-      "onboard_time": 1688919626,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 746391,
@@ -14788,7 +14788,7 @@
     },
     {
       "raw_hot": 275202,
-      "num": 227496,
+      "num": 236032,
       "word": "前任和现任的关系可以有多好",
       "onboard_time": 1688918251,
       "rank": 32,
@@ -15089,6 +15089,14 @@
       "onboard_time": 1688457399,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 269245,
+      "num": 298453,
+      "word": "张兰上诉被驳回",
+      "onboard_time": 1688921246,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 269244,
@@ -16713,14 +16721,6 @@
       "onboard_time": 1688190934,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238256,
-      "num": 238256,
-      "word": "张兰上诉被驳回",
-      "onboard_time": 1688921246,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 237954,
@@ -21435,6 +21435,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 148493,
+      "num": 148493,
+      "word": "孟佳TMEA",
+      "onboard_time": 1688921365,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147775,
       "num": 147775,
       "word": "金沙江落水女孩拜救人者为干爹",
@@ -21761,14 +21769,6 @@
       "onboard_time": 1688215170,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 128759,
-      "num": 128759,
-      "word": "孟佳TMEA",
-      "onboard_time": 1688921365,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 128532,

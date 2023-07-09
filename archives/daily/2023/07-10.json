@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688922970788,
+  "endTime": 1688924022031,
   "band_list": [
     {
       "raw_hot": 1496601,
@@ -43,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 885963,
+      "num": 885963,
+      "word": "首尔街头采访韩国人加班",
+      "onboard_time": 1688919626,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 879766,
       "num": 879766,
       "word": "入职要填微博名该怎么办",
@@ -56,14 +64,6 @@
       "word": "2女子与蜜雪冰城员工起冲突",
       "onboard_time": 1688913154,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 747354,
-      "num": 380796,
-      "word": "首尔街头采访韩国人加班",
-      "onboard_time": 1688919626,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 275202,
-      "num": 227496,
+      "num": 236032,
       "word": "前任和现任的关系可以有多好",
       "onboard_time": 1688918251,
       "rank": 32,
@@ -281,6 +281,14 @@
       "onboard_time": 1688900131,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269245,
+      "num": 298453,
+      "word": "张兰上诉被驳回",
+      "onboard_time": 1688921246,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 263325,
@@ -321,14 +329,6 @@
       "onboard_time": 1688915136,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 238256,
-      "num": 238256,
-      "word": "张兰上诉被驳回",
-      "onboard_time": 1688921246,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 221179,
@@ -427,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148493,
+      "num": 148493,
+      "word": "孟佳TMEA",
+      "onboard_time": 1688921365,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131746,
       "num": 141865,
       "word": "手机被前男友折断了",
       "onboard_time": 1688901572,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128759,
-      "num": 128759,
-      "word": "孟佳TMEA",
-      "onboard_time": 1688921365,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 101239,
