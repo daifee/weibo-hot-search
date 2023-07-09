@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688909626635,
+  "endTime": 1688912159269,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2624572,
+      "num": 2624572,
+      "word": "孟宴臣 蝴蝶",
+      "onboard_time": 1688907511,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2621776,
       "num": 2621776,
       "word": "白敬亭说网络消息大家想一下再信",
@@ -969,6 +977,14 @@
       "onboard_time": 1688701716,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2225422,
+      "num": 2225422,
+      "word": "seventeen视频有了吗",
+      "onboard_time": 1688910934,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 2221394,
@@ -1579,14 +1595,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1770795,
-      "num": 1770795,
-      "word": "孟宴臣 蝴蝶",
-      "onboard_time": 1688907511,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1766088,
       "num": 1766088,
       "word": "李承铉参加张杰谢娜婚礼晕倒了",
@@ -1851,8 +1859,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1585670,
-      "num": 1585670,
+      "raw_hot": 1588858,
+      "num": 1588858,
       "word": "因为我男朋友开了家螺蛳粉店",
       "onboard_time": 1688905529,
       "rank": 31,
@@ -2275,6 +2283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1354590,
+      "num": 1354590,
+      "word": "爱豆鹿晗回来了",
+      "onboard_time": 1688906431,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1354267,
       "num": 1354267,
       "word": "他袜子满是补丁去世才被发现没领过工资",
@@ -2532,7 +2548,7 @@
     },
     {
       "raw_hot": 1245111,
-      "num": 432479,
+      "num": 438564,
       "word": "手机被前男友折断了",
       "onboard_time": 1688901572,
       "rank": 16,
@@ -2857,6 +2873,14 @@
       "onboard_time": 1688277573,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1142385,
+      "num": 1142385,
+      "word": "iG爆冷战胜JDG",
+      "onboard_time": 1688910452,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1139789,
@@ -3273,14 +3297,6 @@
       "onboard_time": 1688452655,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1041939,
-      "num": 1041939,
-      "word": "爱豆鹿晗回来了",
-      "onboard_time": 1688906431,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1041378,
@@ -4449,6 +4465,14 @@
       "onboard_time": 1688533478,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845042,
+      "num": 435976,
+      "word": "七月辞职 狼多肉少",
+      "onboard_time": 1688910754,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 844096,
@@ -6328,6 +6352,14 @@
       "word": "日本学者发现涉731部队最高机密资料",
       "onboard_time": 1688726914,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655522,
+      "num": 655522,
+      "word": "警方通报北京政法职业学院学生纠纷",
+      "onboard_time": 1688911773,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -8387,6 +8419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 499563,
+      "num": 499563,
+      "word": "iG好牛",
+      "onboard_time": 1688910393,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 499233,
       "num": 499233,
       "word": "身边有抑郁症的朋友该怎么办",
@@ -9331,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449391,
+      "num": 449391,
+      "word": "孟宴臣要开始发疯了",
+      "onboard_time": 1688911054,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449261,
       "num": 449261,
       "word": "填个志愿都快要把家填散了",
@@ -9513,6 +9561,22 @@
       "onboard_time": 1688788711,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 441011,
+      "num": 441011,
+      "word": "3只小羊离家出走找到时已送上餐桌",
+      "onboard_time": 1688908474,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440372,
+      "num": 440372,
+      "word": "徐穗珍更新ins",
+      "onboard_time": 1688911354,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 440038,
@@ -9793,6 +9857,14 @@
       "onboard_time": 1688793271,
       "rank": 41,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 425989,
+      "num": 425989,
+      "word": "JDG对战iG",
+      "onboard_time": 1688906973,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 425823,
@@ -10227,14 +10299,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 402943,
-      "num": 270226,
-      "word": "3只小羊离家出走找到时已送上餐桌",
-      "onboard_time": 1688908474,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402772,
       "num": 402772,
       "word": "为何放弃入学的研究生越来越多",
@@ -10571,6 +10635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 389804,
+      "num": 389804,
+      "word": "公司保洁工资竟然比我高一倍",
+      "onboard_time": 1688910754,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389246,
       "num": 338450,
       "word": "跑男团全员为Angelababy新剧打call",
@@ -10665,6 +10737,14 @@
       "onboard_time": 1688704000,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386045,
+      "num": 320344,
+      "word": "爸妈忘了还有个放假回来的大学生",
+      "onboard_time": 1688911295,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385994,
@@ -10899,6 +10979,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 378378,
+      "num": 320074,
+      "word": "主演不同片酬不同",
+      "onboard_time": 1688910693,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 378352,
       "num": 378352,
       "word": "Burberry雪糕",
@@ -11081,6 +11169,14 @@
       "onboard_time": 1688213194,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371867,
+      "num": 371867,
+      "word": "Fofo Uzi想弄就跟",
+      "onboard_time": 1688910630,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 371723,
@@ -11393,6 +11489,14 @@
       "onboard_time": 1688701356,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 361658,
+      "num": 361658,
+      "word": "死神2外网评价",
+      "onboard_time": 1688910873,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 361642,
@@ -12859,6 +12963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314929,
+      "num": 314929,
+      "word": "江疏影机场素颜",
+      "onboard_time": 1688909673,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314884,
       "num": 300540,
       "word": "马天宇为尘缘开评论",
@@ -13187,6 +13299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305820,
+      "num": 305820,
+      "word": "庆余年2",
+      "onboard_time": 1688898932,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305635,
       "num": 305635,
       "word": "speak now",
@@ -13393,6 +13513,14 @@
       "onboard_time": 1688305362,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299326,
+      "num": 299326,
+      "word": "BLG",
+      "onboard_time": 1688910693,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 299321,
@@ -13657,6 +13785,14 @@
       "onboard_time": 1688311657,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294761,
+      "num": 294761,
+      "word": "迪丽热巴利剑玫瑰今日杀青路透",
+      "onboard_time": 1688911956,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 294548,
@@ -13960,6 +14096,14 @@
       "word": "长风渡城楼吻海报",
       "onboard_time": 1688270431,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288074,
+      "num": 288074,
+      "word": "心疼范轩",
+      "onboard_time": 1688911832,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -14739,14 +14883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 266989,
-      "num": 266989,
-      "word": "庆余年2",
-      "onboard_time": 1688898932,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266615,
       "num": 258953,
       "word": "王鹤棣帮女生抓虫子",
@@ -15243,6 +15379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256643,
+      "num": 256643,
+      "word": "长安三万里立意",
+      "onboard_time": 1688911594,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256610,
       "num": 256610,
       "word": "男子为献血保持身材20年不变",
@@ -15393,6 +15537,14 @@
       "onboard_time": 1688383000,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253527,
+      "num": 253527,
+      "word": "国产剧能不能边拍边播",
+      "onboard_time": 1688912014,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 253489,
@@ -17161,6 +17313,14 @@
       "onboard_time": 1688802931,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220677,
+      "num": 220677,
+      "word": "章鱼养殖场",
+      "onboard_time": 1688912135,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 220658,
@@ -19369,14 +19529,6 @@
       "onboard_time": 1688133100,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187138,
-      "num": 187138,
-      "word": "JDG对战iG",
-      "onboard_time": 1688906973,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 187034,
@@ -22515,6 +22667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36436,
+      "num": 472690,
+      "word": "随心所爱舞台蹦迪现场",
+      "onboard_time": 1688911235,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 35631,
       "num": 203342,
       "word": "王鹤棣导航太上头了",
@@ -22596,7 +22756,7 @@
     },
     {
       "raw_hot": 27554,
-      "num": 1606463,
+      "num": 1628514,
       "word": "一图了解中华文明探源工程主要成果",
       "onboard_time": 1688874932,
       "rank": 2,
@@ -22779,6 +22939,9 @@
     },
     {
       "word": "#盛世中华何以中国#"
+    },
+    {
+      "word": "#学习纲要思维导图#"
     }
   ]
 }

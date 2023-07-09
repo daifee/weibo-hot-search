@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688909626635,
+  "endTime": 1688912159269,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -35,6 +35,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2624572,
+      "num": 2624572,
+      "word": "孟宴臣 蝴蝶",
+      "onboard_time": 1688907511,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2501444,
       "num": 2501444,
       "word": "肖战在任敏微博评论区刷屏",
@@ -43,20 +51,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2225422,
+      "num": 2225422,
+      "word": "seventeen视频有了吗",
+      "onboard_time": 1688910934,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1845136,
       "num": 1845136,
       "word": "鹿晗喜欢的显眼包出现了",
       "onboard_time": 1688904212,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1770795,
-      "num": 1770795,
-      "word": "孟宴臣 蝴蝶",
-      "onboard_time": 1688907511,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1718263,
@@ -83,8 +91,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1585670,
-      "num": 1585670,
+      "raw_hot": 1588858,
+      "num": 1588858,
       "word": "因为我男朋友开了家螺蛳粉店",
       "onboard_time": 1688905529,
       "rank": 31,
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1354590,
+      "num": 1354590,
+      "word": "爱豆鹿晗回来了",
+      "onboard_time": 1688906431,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1344980,
       "num": 424869,
       "word": "鹿晗让粉丝在微博上征婚",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1245111,
-      "num": 432479,
+      "num": 438564,
       "word": "手机被前男友折断了",
       "onboard_time": 1688901572,
       "rank": 16,
@@ -152,6 +168,14 @@
       "word": "Uzi",
       "onboard_time": 1688902653,
       "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1142385,
+      "num": 1142385,
+      "word": "iG爆冷战胜JDG",
+      "onboard_time": 1688910452,
+      "rank": 5,
       "category": "游戏"
     },
     {
@@ -233,14 +257,6 @@
       "onboard_time": 1688896592,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1041939,
-      "num": 1041939,
-      "word": "爱豆鹿晗回来了",
-      "onboard_time": 1688906431,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1032529,
@@ -369,6 +385,14 @@
       "onboard_time": 1688899772,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 845042,
+      "num": 435976,
+      "word": "七月辞职 狼多肉少",
+      "onboard_time": 1688910754,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 843540,
@@ -536,6 +560,14 @@
       "word": "警方回应郑州一男子悬赏千万寻狗",
       "onboard_time": 1688905472,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655522,
+      "num": 655522,
+      "word": "警方通报北京政法职业学院学生纠纷",
+      "onboard_time": 1688911773,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -747,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 499563,
+      "num": 499563,
+      "word": "iG好牛",
+      "onboard_time": 1688910393,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 490339,
       "num": 490339,
       "word": "高收入的人还是需要有风险意识",
@@ -875,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 449391,
+      "num": 449391,
+      "word": "孟宴臣要开始发疯了",
+      "onboard_time": 1688911054,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443696,
       "num": 443696,
       "word": "鹿晗说邓超照片巨丑",
@@ -897,6 +945,22 @@
       "onboard_time": 1688880092,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 441011,
+      "num": 441011,
+      "word": "3只小羊离家出走找到时已送上餐桌",
+      "onboard_time": 1688908474,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440372,
+      "num": 440372,
+      "word": "徐穗珍更新ins",
+      "onboard_time": 1688911354,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 438729,
@@ -953,6 +1017,14 @@
       "onboard_time": 1688905710,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 425989,
+      "num": 425989,
+      "word": "JDG对战iG",
+      "onboard_time": 1688906973,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 425689,
@@ -1043,14 +1115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 402943,
-      "num": 270226,
-      "word": "3只小羊离家出走找到时已送上餐桌",
-      "onboard_time": 1688908474,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399673,
       "num": 399673,
       "word": "晚霞",
@@ -1091,12 +1155,28 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 389804,
+      "num": 389804,
+      "word": "公司保洁工资竟然比我高一倍",
+      "onboard_time": 1688910754,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387893,
       "num": 387893,
       "word": "内娱眼睛会说话的演员",
       "onboard_time": 1688889995,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386045,
+      "num": 320344,
+      "word": "爸妈忘了还有个放假回来的大学生",
+      "onboard_time": 1688911295,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382348,
@@ -1113,6 +1193,14 @@
       "onboard_time": 1688883751,
       "rank": 45,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 378378,
+      "num": 320074,
+      "word": "主演不同片酬不同",
+      "onboard_time": 1688910693,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 377088,
@@ -1153,6 +1241,14 @@
       "onboard_time": 1688813611,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371867,
+      "num": 371867,
+      "word": "Fofo Uzi想弄就跟",
+      "onboard_time": 1688910630,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 371141,
@@ -1217,6 +1313,14 @@
       "onboard_time": 1688880629,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361658,
+      "num": 361658,
+      "word": "死神2外网评价",
+      "onboard_time": 1688910873,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 360755,
@@ -1371,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314929,
+      "num": 314929,
+      "word": "江疏影机场素颜",
+      "onboard_time": 1688909673,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314884,
       "num": 300540,
       "word": "马天宇为尘缘开评论",
@@ -1419,6 +1531,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 305820,
+      "num": 305820,
+      "word": "庆余年2",
+      "onboard_time": 1688898932,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304475,
       "num": 275243,
       "word": "时影别闹vs蓝忘机别闹",
@@ -1457,6 +1577,14 @@
       "onboard_time": 1688894429,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299326,
+      "num": 299326,
+      "word": "BLG",
+      "onboard_time": 1688910693,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 298666,
@@ -1507,6 +1635,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 294761,
+      "num": 294761,
+      "word": "迪丽热巴利剑玫瑰今日杀青路透",
+      "onboard_time": 1688911956,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294169,
       "num": 270941,
       "word": "杨洋王彦霖演情敌和同母异父的兄弟",
@@ -1553,6 +1689,14 @@
       "onboard_time": 1688886149,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288074,
+      "num": 288074,
+      "word": "心疼范轩",
+      "onboard_time": 1688911832,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 285302,
@@ -1659,14 +1803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 266989,
-      "num": 266989,
-      "word": "庆余年2",
-      "onboard_time": 1688898932,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266520,
       "num": 165863,
       "word": "汪苏泷又在寻宝藏了",
@@ -1737,6 +1873,22 @@
       "onboard_time": 1688857278,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256643,
+      "num": 256643,
+      "word": "长安三万里立意",
+      "onboard_time": 1688911594,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 253527,
+      "num": 253527,
+      "word": "国产剧能不能边拍边播",
+      "onboard_time": 1688912014,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 251886,
@@ -1929,6 +2081,14 @@
       "onboard_time": 1688823634,
       "rank": 31,
       "category": "音乐,综艺"
+    },
+    {
+      "raw_hot": 220677,
+      "num": 220677,
+      "word": "章鱼养殖场",
+      "onboard_time": 1688912135,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 219335,
@@ -2177,14 +2337,6 @@
       "onboard_time": 1688887470,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 187138,
-      "num": 187138,
-      "word": "JDG对战iG",
-      "onboard_time": 1688906973,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 186473,
@@ -2611,8 +2763,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36436,
+      "num": 472690,
+      "word": "随心所爱舞台蹦迪现场",
+      "onboard_time": 1688911235,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 27554,
-      "num": 1606463,
+      "num": 1628514,
       "word": "一图了解中华文明探源工程主要成果",
       "onboard_time": 1688874932,
       "rank": 2,
@@ -2647,6 +2807,9 @@
     },
     {
       "word": "#盛世中华何以中国#"
+    },
+    {
+      "word": "#学习纲要思维导图#"
     }
   ]
 }
