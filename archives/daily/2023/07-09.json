@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688901286808,
+  "endTime": 1688902435477,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1448006,
+      "num": 1448006,
+      "word": "一个不会离职的办公桌长啥样",
+      "onboard_time": 1688895451,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1368367,
       "num": 1368367,
       "word": "何非知道李木子无论如何都活不了",
@@ -97,14 +105,6 @@
       "onboard_time": 1688874812,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1265073,
-      "num": 1265073,
-      "word": "一个不会离职的办公桌长啥样",
-      "onboard_time": 1688895451,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 1198973,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1070468,
+      "num": 1070468,
+      "word": "台湾面临鸡蛋过剩问题",
+      "onboard_time": 1688896954,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1062586,
       "num": 1062586,
       "word": "考上研究生却被人用来做生意",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1045625,
-      "num": 791674,
+      "num": 945714,
       "word": "倪妮发了30张自拍",
       "onboard_time": 1688896592,
       "rank": 5,
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1011700,
-      "num": 1011700,
-      "word": "台湾面临鸡蛋过剩问题",
-      "onboard_time": 1688896954,
-      "rank": 17,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1011679,
       "num": 239307,
       "word": "肖战和替身同框",
@@ -225,6 +225,22 @@
       "onboard_time": 1688862687,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 995354,
+      "num": 995354,
+      "word": "海南警方回应陪女友看演唱会男孩溺亡",
+      "onboard_time": 1688900433,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960874,
+      "num": 960874,
+      "word": "郑州狗主悬赏1000万人民币寻狗",
+      "onboard_time": 1688900131,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 959703,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 860257,
-      "num": 860257,
+      "num": 965441,
       "word": "顾客买到生瓜留言2年后收到回复",
       "onboard_time": 1688888309,
       "rank": 6,
@@ -289,6 +305,14 @@
       "onboard_time": 1688879730,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 847858,
+      "num": 847858,
+      "word": "第一次见男二一个人扫楼的",
+      "onboard_time": 1688899772,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 843540,
@@ -443,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 632751,
+      "num": 632751,
+      "word": "家属回应6未成年入店抢劫致人死亡",
+      "onboard_time": 1688899473,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629494,
       "num": 629494,
       "word": "女儿一封信让环卫工爸爸工服变了样",
@@ -467,28 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 617143,
-      "num": 561458,
-      "word": "海南警方回应陪女友看演唱会男孩溺亡",
-      "onboard_time": 1688900433,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 609874,
       "num": 417994,
       "word": "澳门偶遇",
       "onboard_time": 1688808152,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 594414,
-      "num": 594414,
-      "word": "第一次见男二一个人扫楼的",
-      "onboard_time": 1688899772,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 591505,
@@ -499,18 +515,18 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 574599,
+      "num": 372381,
+      "word": "赵露思她超爱",
+      "onboard_time": 1688900972,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574529,
       "num": 574529,
       "word": "吉林私搭浮桥收费获刑当事人发声",
       "onboard_time": 1688865451,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 564142,
-      "num": 564142,
-      "word": "家属回应6未成年入店抢劫致人死亡",
-      "onboard_time": 1688899473,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -553,14 +569,6 @@
       "onboard_time": 1688872229,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 537523,
-      "num": 537523,
-      "word": "郑州狗主悬赏1000万人民币寻狗",
-      "onboard_time": 1688900131,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534980,
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483452,
+      "num": 483452,
+      "word": "老外到美甲店消费100多元称没钱",
+      "onboard_time": 1688898509,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478255,
       "num": 365816,
       "word": "魏大勋马伯骞赢麻了",
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 475417,
-      "num": 438008,
+      "num": 449873,
       "word": "肖战为了玉骨遥剧宣好努力",
       "onboard_time": 1688895995,
       "rank": 22,
@@ -777,6 +793,14 @@
       "onboard_time": 1688801853,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432479,
+      "num": 432479,
+      "word": "手机被前男友折断了",
+      "onboard_time": 1688901572,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 432472,
@@ -899,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392333,
-      "num": 392333,
-      "word": "老外到美甲店消费100多元称没钱",
-      "onboard_time": 1688898509,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391504,
       "num": 391504,
       "word": "华晨宇PEL生涯首个淘汰",
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 370299,
-      "num": 720734,
+      "num": 947597,
       "word": "粉衣姑娘暴雨中弃车救人",
       "onboard_time": 1688896230,
       "rank": 4,
@@ -1016,6 +1032,14 @@
       "word": "消失的她",
       "onboard_time": 1688880629,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 360204,
+      "num": 360204,
+      "word": "玉骨遥第一集的剧情终于来了",
+      "onboard_time": 1688902052,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1075,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347348,
+      "num": 347348,
+      "word": "王楚然7天涨粉13万",
+      "onboard_time": 1688901932,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343765,
       "num": 272754,
       "word": "罗正跳eiei",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1688824114,
       "rank": 25,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 330335,
+      "num": 330335,
+      "word": "陈卓璇厌世感红毯",
+      "onboard_time": 1688902352,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 329949,
@@ -1163,6 +1203,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 310582,
+      "num": 310582,
+      "word": "镇政府人员回应吉林私搭浮桥案",
+      "onboard_time": 1688901151,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309513,
       "num": 251302,
       "word": "蛋仔派对",
@@ -1195,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 302583,
+      "num": 302583,
+      "word": "刚得知爸妈给我编了个男朋友",
+      "onboard_time": 1688901211,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302478,
       "num": 264842,
       "word": "肖战梦中的那片海新合照",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1688863465,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297385,
+      "num": 297385,
+      "word": "EDG对战FPX",
+      "onboard_time": 1688896774,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 296954,
@@ -1243,14 +1307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295892,
-      "num": 295892,
-      "word": "赵露思她超爱",
-      "onboard_time": 1688900972,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295516,
       "num": 295516,
       "word": "死神2豆瓣开分9.5",
@@ -1265,14 +1321,6 @@
       "onboard_time": 1688869590,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292720,
-      "num": 292720,
-      "word": "EDG对战FPX",
-      "onboard_time": 1688896774,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 289947,
@@ -1443,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260972,
+      "num": 260972,
+      "word": "澳门音乐节",
+      "onboard_time": 1688902052,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259395,
       "num": 710433,
       "word": "男子高铁车厢连接处陪娃待了1小时",
@@ -1475,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252689,
+      "num": 252689,
+      "word": "庆余年2",
+      "onboard_time": 1688898932,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251886,
       "num": 251886,
       "word": "账与帐很多人分不清",
@@ -1488,6 +1552,14 @@
       "word": "杨洋和张彬彬 魏大勋和王楚然",
       "onboard_time": 1688821654,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247287,
+      "num": 247287,
+      "word": "最后哈基米承受了一切",
+      "onboard_time": 1688900792,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1531,14 +1603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 241037,
-      "num": 241037,
-      "word": "最后哈基米承受了一切",
-      "onboard_time": 1688900792,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 240182,
       "num": 240182,
       "word": "斗破苍穹",
@@ -1563,6 +1627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 236699,
+      "num": 236699,
+      "word": "老人街头散钱66万无人要",
+      "onboard_time": 1688901991,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235567,
       "num": 238864,
       "word": "浮桥",
@@ -1585,14 +1657,6 @@
       "onboard_time": 1688899831,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231516,
-      "num": 231516,
-      "word": "庆余年2",
-      "onboard_time": 1688898932,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 230740,
@@ -1667,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219043,
+      "num": 219043,
+      "word": "减肥营被曝殴打未成年学员",
+      "onboard_time": 1688900492,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218857,
       "num": 218857,
       "word": "小猫在你没注意的地方偷偷爱你",
@@ -1713,14 +1785,6 @@
       "onboard_time": 1688874993,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207411,
-      "num": 207411,
-      "word": "镇政府人员回应吉林私搭浮桥案",
-      "onboard_time": 1688901151,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207206,
@@ -1811,14 +1875,6 @@
       "category": "美妆,时尚"
     },
     {
-      "raw_hot": 199647,
-      "num": 199647,
-      "word": "减肥营被曝殴打未成年学员",
-      "onboard_time": 1688900492,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199582,
       "num": 199582,
       "word": "薛之谦演唱会",
@@ -1833,6 +1889,22 @@
       "onboard_time": 1688883868,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195054,
+      "num": 195054,
+      "word": "黑龙江一18个月女孩从6楼窗台坠亡",
+      "onboard_time": 1688902412,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194744,
+      "num": 194744,
+      "word": "Hero对战LGD",
+      "onboard_time": 1688901629,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 193967,
@@ -1929,14 +2001,6 @@
       "onboard_time": 1688868390,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175066,
-      "num": 175066,
-      "word": "刚得知爸妈给我编了个男朋友",
-      "onboard_time": 1688901211,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 174609,
