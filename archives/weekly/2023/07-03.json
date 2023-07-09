@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688891726251,
+  "endTime": 1688894230274,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1536034,
+      "num": 425470,
+      "word": "一鹿彤行偷偷藏不住版",
+      "onboard_time": 1688888731,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1529712,
       "num": 380206,
       "word": "经纪公司回应李玟去世",
@@ -2027,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1230846,
-      "num": 416573,
-      "word": "一鹿彤行偷偷藏不住版",
-      "onboard_time": 1688888731,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1229167,
       "num": 696171,
       "word": "ITZY",
@@ -2371,6 +2371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1106792,
+      "num": 1106792,
+      "word": "济南大学已报警",
+      "onboard_time": 1688893051,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1104777,
       "num": 1104777,
       "word": "花少北 一直逃避回应做视频的问题",
@@ -2619,6 +2627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1028842,
+      "num": 1028842,
+      "word": "这四个显眼包怎么变了",
+      "onboard_time": 1688888849,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1025195,
       "num": 1025195,
       "word": "任敏和猪猪侠",
@@ -2817,6 +2833,14 @@
       "onboard_time": 1688704061,
       "rank": 24,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 971582,
+      "num": 424886,
+      "word": "考上研究生却被人用来做生意",
+      "onboard_time": 1688892568,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 970342,
@@ -3329,6 +3353,14 @@
       "onboard_time": 1688389661,
       "rank": 10,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 860257,
+      "num": 860257,
+      "word": "顾客买到生瓜留言2年后收到回复",
+      "onboard_time": 1688888309,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 860208,
@@ -3987,14 +4019,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 772965,
-      "num": 772965,
-      "word": "这四个显眼包怎么变了",
-      "onboard_time": 1688888849,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 772360,
       "num": 772360,
       "word": "肖战入戏专访",
@@ -4072,14 +4096,6 @@
       "word": "牵手门董某某被解除劳动合同",
       "onboard_time": 1688733944,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761285,
-      "num": 761285,
-      "word": "顾客买到生瓜留言2年后收到回复",
-      "onboard_time": 1688888309,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -5003,6 +5019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 637222,
+      "num": 424694,
+      "word": "难哄男主魏大勋来演怎么样",
+      "onboard_time": 1688889512,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 636322,
       "num": 636322,
       "word": "偷偷藏不住直通大结局",
@@ -5411,16 +5435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 592176,
-      "num": 405626,
-      "word": "难哄男主魏大勋来演怎么样",
-      "onboard_time": 1688889512,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 591505,
-      "num": 287062,
+      "num": 298666,
       "word": "天天发朋友圈会让人反感吗",
       "onboard_time": 1688889092,
       "rank": 20,
@@ -6467,6 +6483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489625,
+      "num": 345160,
+      "word": "消失的她实时票房破30亿",
+      "onboard_time": 1688893171,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 489336,
       "num": 489336,
       "word": "杨超越出演杨洋王楚然新剧",
@@ -6667,12 +6691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473410,
+      "num": 424293,
+      "word": "当事人称没架桥前溺亡22位乡亲",
+      "onboard_time": 1688892090,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472746,
       "num": 477519,
       "word": "为什么运钞车不直接运一张银行卡",
       "onboard_time": 1688388579,
       "rank": 41,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 472015,
+      "num": 423931,
+      "word": "肖战王一博同款耍剑打戏",
+      "onboard_time": 1688892568,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 470324,
@@ -7035,6 +7075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448578,
+      "num": 448578,
+      "word": "朱丹跟周一围说市场都快把我忘了",
+      "onboard_time": 1688892332,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445955,
       "num": 371563,
       "word": "朱珠穿旗袍",
@@ -7363,6 +7411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423746,
+      "num": 423746,
+      "word": "王楚然刻在DNA里吹粥动作",
+      "onboard_time": 1688889450,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423031,
       "num": 423031,
       "word": "长安三万里 李白",
@@ -7523,6 +7579,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 409786,
+      "num": 409786,
+      "word": "喝多了非要默写出师表",
+      "onboard_time": 1688890049,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409536,
       "num": 381942,
       "word": "肖战的内核",
@@ -7553,6 +7617,14 @@
       "onboard_time": 1688714499,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406168,
+      "num": 233231,
+      "word": "第一次见到老了的猫咪",
+      "onboard_time": 1688892332,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 405722,
@@ -7995,6 +8067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 385258,
+      "num": 294796,
+      "word": "这真的是同一个女生夏天的衣服",
+      "onboard_time": 1688893110,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 383702,
       "num": 383702,
       "word": "男孩嘴卡奶瓶消防员憋笑救援",
@@ -8209,6 +8289,14 @@
       "onboard_time": 1688874452,
       "rank": 26,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 374394,
+      "num": 374394,
+      "word": "seventeen彩排了7次hot",
+      "onboard_time": 1688888489,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 374249,
@@ -8515,14 +8603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360823,
-      "num": 273456,
-      "word": "王楚然刻在DNA里吹粥动作",
-      "onboard_time": 1688889450,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 360811,
       "num": 237974,
       "word": "Asen结婚",
@@ -8633,6 +8713,14 @@
       "onboard_time": 1688736106,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 354774,
+      "num": 354774,
+      "word": "茶百道未定联名",
+      "onboard_time": 1688893892,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354734,
@@ -9627,14 +9715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314467,
-      "num": 264068,
-      "word": "seventeen彩排了7次hot",
-      "onboard_time": 1688888489,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 314327,
       "num": 276379,
       "word": "请记住这15个电话",
@@ -9697,6 +9777,22 @@
       "onboard_time": 1688559753,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312857,
+      "num": 244319,
+      "word": "消失的她朋友圈文案",
+      "onboard_time": 1688891129,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 312850,
+      "num": 242382,
+      "word": "今年四大出圈配角",
+      "onboard_time": 1688893230,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 312650,
@@ -9929,14 +10025,6 @@
       "onboard_time": 1688864427,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301997,
-      "num": 209434,
-      "word": "喝多了非要默写出师表",
-      "onboard_time": 1688890049,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 301973,
@@ -10488,14 +10576,6 @@
       "word": "玉骨遥特效",
       "onboard_time": 1688531922,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 283460,
-      "num": 208760,
-      "word": "消失的她朋友圈文案",
-      "onboard_time": 1688891129,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -11844,7 +11924,7 @@
     },
     {
       "raw_hot": 242654,
-      "num": 204551,
+      "num": 213195,
       "word": "王勉送鹿晗的花篮",
       "onboard_time": 1688888731,
       "rank": 35,
@@ -14107,6 +14187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191771,
+      "num": 174056,
+      "word": "魏大勋事业第二春",
+      "onboard_time": 1688891490,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191577,
       "num": 191577,
       "word": "恋爱脑犯了的时候就看看",
@@ -14328,6 +14416,14 @@
       "word": "高远泡面好吃王源不一定",
       "onboard_time": 1688477433,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186310,
+      "num": 174034,
+      "word": "梦中的那片海主创主演再聚首",
+      "onboard_time": 1688891671,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -14731,14 +14827,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 174986,
-      "num": 174056,
-      "word": "魏大勋事业第二春",
-      "onboard_time": 1688891490,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 174726,
       "num": 174726,
       "word": "当我跟别人说话有猫猫经过时",
@@ -14761,14 +14849,6 @@
       "onboard_time": 1688311001,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174034,
-      "num": 174034,
-      "word": "梦中的那片海主创主演再聚首",
-      "onboard_time": 1688891671,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 173863,
@@ -14865,6 +14945,14 @@
       "onboard_time": 1688817692,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170898,
+      "num": 170898,
+      "word": "WBG战胜AL",
+      "onboard_time": 1688892689,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 170554,
@@ -14964,7 +15052,7 @@
     },
     {
       "raw_hot": 167557,
-      "num": 167557,
+      "num": 234365,
       "word": "1岁半患儿彻底摆脱原生基因缺陷",
       "onboard_time": 1688889029,
       "rank": 43,
@@ -15465,6 +15553,14 @@
       "onboard_time": 1688820575,
       "rank": 46,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 150354,
+      "num": 150354,
+      "word": "乌克兰承认曾对克里米亚大桥实施袭击",
+      "onboard_time": 1688893051,
+      "rank": 49,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 150183,
@@ -16811,8 +16907,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27393,
-      "num": 900670,
+      "raw_hot": 27434,
+      "num": 1059455,
       "word": "一图了解中华文明探源工程主要成果",
       "onboard_time": 1688874932,
       "rank": 2,
@@ -16849,6 +16945,14 @@
       "onboard_time": 1688446840,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21314,
+      "num": 173397,
+      "word": "篮球玩出花",
+      "onboard_time": 1688893230,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 17448,
