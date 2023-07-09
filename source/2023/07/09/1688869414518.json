@@ -1,0 +1,410 @@
+{
+  "runTime": 1688869414518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2998222,
+        "num": 2998222,
+        "word": "韩国歌手李尚恩去世",
+        "onboard_time": 1688866829,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1276365,
+        "num": 1276365,
+        "word": "何非知道李木子无论如何都活不了",
+        "onboard_time": 1688860584,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61482,
+        "num": 1127538,
+        "word": "守护高温下的户外劳动者",
+        "onboard_time": 1688821897,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000732,
+        "num": 1000732,
+        "word": "药水哥两年没回向佐微信",
+        "onboard_time": 1688868570,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 826701,
+        "num": 826701,
+        "word": "徐峥看茶啊二中笑得肚子疼",
+        "onboard_time": 1688866168,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3610831,
+        "num": 822739,
+        "word": "罗翔",
+        "onboard_time": 1688859802,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810035,
+        "num": 810035,
+        "word": "人民日报评长安三万里",
+        "onboard_time": 1688865568,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 759765,
+        "num": 759765,
+        "word": "家长庆祝孩子高考660分聚众赌博被拘",
+        "onboard_time": 1688862687,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 597193,
+        "num": 597193,
+        "word": "家里对外人谎报我的高考分数",
+        "onboard_time": 1688862988,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 574529,
+        "num": 574529,
+        "word": "吉林私搭浮桥收费获刑当事人发声",
+        "onboard_time": 1688865451,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940229,
+        "num": 545744,
+        "word": "马景涛",
+        "onboard_time": 1688859922,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612982,
+        "num": 543774,
+        "word": "黄子韬说宁静那英没一个能压得住自己",
+        "onboard_time": 1688867910,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513973,
+        "num": 513973,
+        "word": "原来沈腾艾伦都是校草",
+        "onboard_time": 1688868690,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464688,
+        "num": 464688,
+        "word": "女子往餐馆汤锅放不明液体致人呕吐",
+        "onboard_time": 1688864549,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350658,
+        "num": 350658,
+        "word": "情绪稳定vs情绪表达",
+        "onboard_time": 1688866049,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 504522,
+        "num": 348453,
+        "word": "孟宴臣许沁",
+        "onboard_time": 1688863168,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496974,
+        "num": 348430,
+        "word": "马景涛 边牧波泥小pony",
+        "onboard_time": 1688864367,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338712,
+        "num": 338712,
+        "word": "高收入的人还是需要有风险意识",
+        "onboard_time": 1688862565,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326149,
+        "num": 326149,
+        "word": "28岁女驾驶员开船穿越北冰洋",
+        "onboard_time": 1688865451,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280328,
+        "num": 280328,
+        "word": "罗翔谈村民私造浮桥收费被判刑",
+        "onboard_time": 1688867549,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631696,
+        "num": 278590,
+        "word": "魏大勋没想到你能演骨科",
+        "onboard_time": 1688868512,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480740,
+        "num": 268447,
+        "word": "暑假目前最惊喜的国产剧",
+        "onboard_time": 1688831611,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441670,
+        "num": 262956,
+        "word": "影楼把我的孕照丢失了怎么办",
+        "onboard_time": 1688862327,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427093,
+        "num": 259306,
+        "word": "鹿晗说邓超照片巨丑",
+        "onboard_time": 1688863048,
+        "rank": 23,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 309513,
+        "num": 251302,
+        "word": "蛋仔派对",
+        "onboard_time": 1688868751,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 418230,
+        "num": 249150,
+        "word": "长安三万里 李白",
+        "onboard_time": 1688866710,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329949,
+        "num": 241296,
+        "word": "Angelababy流泪吻戏",
+        "onboard_time": 1688868151,
+        "rank": 26,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 236820,
+        "num": 236820,
+        "word": "韩国人有自己的伍佰",
+        "onboard_time": 1688861424,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 230165,
+        "num": 230165,
+        "word": "金虎 感谢大家参加我的生日会",
+        "onboard_time": 1688868030,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109510,
+        "num": 228780,
+        "word": "中国队提前锁定混双男双冠军",
+        "onboard_time": 1688858120,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320513,
+        "num": 226351,
+        "word": "贾静雯从唱跳双废到女团预备",
+        "onboard_time": 1688868930,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300055,
+        "num": 225483,
+        "word": "肖战梦中的那片海新合照",
+        "onboard_time": 1688864427,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296331,
+        "num": 223113,
+        "word": "凌霄vs孟宴臣",
+        "onboard_time": 1688867130,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267177,
+        "num": 222238,
+        "word": "exo回归预告",
+        "onboard_time": 1688867850,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220535,
+        "num": 220535,
+        "word": "商家 外卖小哥求你闭嘴吧",
+        "onboard_time": 1688869052,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259002,
+        "num": 219719,
+        "word": "李玟姐姐称其老公已被原公司撤职很久",
+        "onboard_time": 1688826217,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215624,
+        "num": 215624,
+        "word": "媒体评因搭浮桥判18人有罪",
+        "onboard_time": 1688863465,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205929,
+        "num": 205929,
+        "word": "斗罗大陆最美武魂",
+        "onboard_time": 1688861185,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 204973,
+        "num": 204973,
+        "word": "90后终于熬成了挂钥匙的那群人",
+        "onboard_time": 1688819192,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200616,
+        "num": 200616,
+        "word": "济南大学回应留学生每月补助3万元",
+        "onboard_time": 1688824114,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 224740,
+        "num": 200267,
+        "word": "杨紫主打的就是一个把水端平",
+        "onboard_time": 1688864549,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209310,
+        "num": 199433,
+        "word": "网友在三里屯偶遇张嘉倪",
+        "onboard_time": 1688863527,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195813,
+        "num": 195813,
+        "word": "一双腿养活了蚊子祖宗十八代",
+        "onboard_time": 1688826994,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194258,
+        "num": 194258,
+        "word": "凤凰传奇什么时候开演唱会",
+        "onboard_time": 1688865093,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186729,
+        "num": 186729,
+        "word": "单依纯00后爱情观",
+        "onboard_time": 1688869351,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186180,
+        "num": 186180,
+        "word": "BLACKPINK里哪位成员最依赖团",
+        "onboard_time": 1688828136,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185243,
+        "num": 185243,
+        "word": "蔡依林全开麦真唱",
+        "onboard_time": 1688866829,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180711,
+        "num": 180711,
+        "word": "看完腿软系列",
+        "onboard_time": 1688868390,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179364,
+        "num": 179364,
+        "word": "XYG仙哥",
+        "onboard_time": 1688866890,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171985,
+        "num": 171985,
+        "word": "北京中考查分",
+        "onboard_time": 1688869171,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美鼓岭情缘为何延续至今#"
+    }
+  }
+}

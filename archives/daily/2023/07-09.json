@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688867997942,
+  "endTime": 1688869414518,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2631499,
-      "num": 2631499,
+      "raw_hot": 2998222,
+      "num": 2998222,
       "word": "韩国歌手李尚恩去世",
       "onboard_time": 1688866829,
       "rank": 1,
@@ -65,6 +65,14 @@
       "onboard_time": 1688861424,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1000732,
+      "num": 1000732,
+      "word": "药水哥两年没回向佐微信",
+      "onboard_time": 1688868570,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 999500,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631696,
+      "num": 278590,
+      "word": "魏大勋没想到你能演骨科",
+      "onboard_time": 1688868512,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 628430,
       "num": 269216,
       "word": "影楼把我的孕照丢失了怎么办",
@@ -163,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612982,
+      "num": 543774,
+      "word": "黄子韬说宁静那英没一个能压得住自己",
+      "onboard_time": 1688867910,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 609874,
       "num": 417994,
       "word": "澳门偶遇",
@@ -171,8 +195,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569900,
-      "num": 569900,
+      "raw_hot": 574529,
+      "num": 574529,
       "word": "吉林私搭浮桥收费获刑当事人发声",
       "onboard_time": 1688865451,
       "rank": 9,
@@ -209,6 +233,14 @@
       "onboard_time": 1688827175,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 513973,
+      "num": 513973,
+      "word": "原来沈腾艾伦都是校草",
+      "onboard_time": 1688868690,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 490339,
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 363915,
-      "num": 267609,
+      "num": 350658,
       "word": "情绪稳定vs情绪表达",
       "onboard_time": 1688866049,
       "rank": 21,
@@ -339,12 +371,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 329949,
+      "num": 241296,
+      "word": "Angelababy流泪吻戏",
+      "onboard_time": 1688868151,
+      "rank": 26,
+      "category": "艺人,影视"
+    },
+    {
       "raw_hot": 326625,
       "num": 326625,
       "word": "重庆果然是立体的",
       "onboard_time": 1688830354,
       "rank": 18,
       "category": "旅游,幽默"
+    },
+    {
+      "raw_hot": 326149,
+      "num": 326149,
+      "word": "28岁女驾驶员开船穿越北冰洋",
+      "onboard_time": 1688865451,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323221,
@@ -355,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320513,
+      "num": 226351,
+      "word": "贾静雯从唱跳双废到女团预备",
+      "onboard_time": 1688868930,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311286,
       "num": 311286,
       "word": "荷兰政府宣布将集体辞职",
       "onboard_time": 1688813492,
       "rank": 17,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 309513,
+      "num": 251302,
+      "word": "蛋仔派对",
+      "onboard_time": 1688868751,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 302478,
@@ -379,12 +443,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269709,
-      "num": 269709,
-      "word": "28岁女驾驶员开船穿越北冰洋",
-      "onboard_time": 1688865451,
-      "rank": 19,
+      "raw_hot": 296331,
+      "num": 234900,
+      "word": "凌霄vs孟宴臣",
+      "onboard_time": 1688867130,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280328,
+      "num": 280328,
+      "word": "罗翔谈村民私造浮桥收费被判刑",
+      "onboard_time": 1688867549,
+      "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267177,
+      "num": 222238,
+      "word": "exo回归预告",
+      "onboard_time": 1688867850,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 266520,
@@ -417,14 +497,6 @@
       "onboard_time": 1688864849,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258098,
-      "num": 258098,
-      "word": "罗翔谈村民私造浮桥收费被判刑",
-      "onboard_time": 1688867549,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256875,
@@ -491,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234900,
-      "num": 234900,
-      "word": "凌霄vs孟宴臣",
-      "onboard_time": 1688867130,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 230165,
+      "num": 230165,
+      "word": "金虎 感谢大家参加我的生日会",
+      "onboard_time": 1688868030,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226062,
@@ -539,6 +611,14 @@
       "category": "音乐,综艺"
     },
     {
+      "raw_hot": 220535,
+      "num": 220535,
+      "word": "商家 外卖小哥求你闭嘴吧",
+      "onboard_time": 1688869052,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219335,
       "num": 219335,
       "word": "9个孩子被骗缅甸遭电击开水烫",
@@ -563,27 +643,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207946,
-      "num": 207946,
-      "word": "exo回归预告",
-      "onboard_time": 1688867850,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 203480,
       "num": 203480,
       "word": "长安三万里",
       "onboard_time": 1688825197,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 202943,
-      "num": 202943,
-      "word": "黄子韬说宁静那英没一个能压得住自己",
-      "onboard_time": 1688867910,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -627,12 +691,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186729,
+      "num": 186729,
+      "word": "单依纯00后爱情观",
+      "onboard_time": 1688869351,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186473,
       "num": 214927,
       "word": "王者荣耀",
       "onboard_time": 1688827596,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185243,
+      "num": 185243,
+      "word": "蔡依林全开麦真唱",
+      "onboard_time": 1688866829,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 183493,
@@ -643,12 +723,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174214,
-      "num": 174214,
-      "word": "蔡依林全开麦真唱",
-      "onboard_time": 1688866829,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 180711,
+      "num": 180711,
+      "word": "看完腿软系列",
+      "onboard_time": 1688868390,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 171985,
+      "num": 171985,
+      "word": "北京中考查分",
+      "onboard_time": 1688869171,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 169507,
