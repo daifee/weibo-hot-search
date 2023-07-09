@@ -1,0 +1,410 @@
+{
+  "runTime": 1688891726251,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2025410,
+        "num": 2025410,
+        "word": "肖战在任敏微博评论区刷屏",
+        "onboard_time": 1688884049,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1134979,
+        "num": 1134979,
+        "word": "女孩中考742分报考师范专科引争议",
+        "onboard_time": 1688875891,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 27393,
+        "num": 817335,
+        "word": "一图了解中华文明探源工程主要成果",
+        "onboard_time": 1688874932,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799109,
+        "num": 799109,
+        "word": "发现高档食品一般不能多吃",
+        "onboard_time": 1688885727,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 740009,
+        "num": 740009,
+        "word": "顾客买到生瓜留言2年后收到回复",
+        "onboard_time": 1688888309,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737213,
+        "num": 737213,
+        "word": "这四个显眼包怎么变了",
+        "onboard_time": 1688888849,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 633106,
+        "num": 633106,
+        "word": "洪欣张丹峰带女儿合拍视频",
+        "onboard_time": 1688887169,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465311,
+        "num": 465311,
+        "word": "李玟姐姐称乐裕民靠李玟上位",
+        "onboard_time": 1688884651,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389574,
+        "num": 389574,
+        "word": "年轻人为什么不买快时尚的账了",
+        "onboard_time": 1688877571,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 388672,
+        "num": 388672,
+        "word": "曝HYBE员工搜身时摸粉丝胸部",
+        "onboard_time": 1688882250,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1718263,
+        "num": 388305,
+        "word": "汤唯韩国坐地铁",
+        "onboard_time": 1688887411,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1230846,
+        "num": 388138,
+        "word": "一鹿彤行偷偷藏不住版",
+        "onboard_time": 1688888731,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592176,
+        "num": 388038,
+        "word": "难哄男主魏大勋来演怎么样",
+        "onboard_time": 1688889512,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387893,
+        "num": 387893,
+        "word": "内娱眼睛会说话的演员",
+        "onboard_time": 1688889995,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389477,
+        "num": 381528,
+        "word": "郝景芳",
+        "onboard_time": 1688887892,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366369,
+        "num": 366369,
+        "word": "庆余年第二季首发剧照",
+        "onboard_time": 1688871450,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342586,
+        "num": 342586,
+        "word": "共享充电宝电用完只充了30%",
+        "onboard_time": 1688883627,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 330868,
+        "num": 330868,
+        "word": "大学生因毕业问题无颜回家流浪10年",
+        "onboard_time": 1688880092,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 288280,
+        "num": 288280,
+        "word": "揉眼睛的花花",
+        "onboard_time": 1688886149,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257621,
+        "num": 257621,
+        "word": "罗翔",
+        "onboard_time": 1688859802,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591505,
+        "num": 255764,
+        "word": "天天发朋友圈会让人反感吗",
+        "onboard_time": 1688889092,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360823,
+        "num": 249911,
+        "word": "王楚然刻在DNA里吹粥动作",
+        "onboard_time": 1688889450,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359688,
+        "num": 243432,
+        "word": "为什么上班后大家就爱发云彩了",
+        "onboard_time": 1688886450,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338828,
+        "num": 239500,
+        "word": "肖战的内核",
+        "onboard_time": 1688888431,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236252,
+        "num": 236252,
+        "word": "夫妻情侣请求让座你会让吗",
+        "onboard_time": 1688881228,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 326433,
+        "num": 234458,
+        "word": "心疼白敬亭一整期",
+        "onboard_time": 1688890049,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316888,
+        "num": 228630,
+        "word": "魏大勋反手开车门",
+        "onboard_time": 1688874812,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314467,
+        "num": 222052,
+        "word": "seventeen彩排了7次hot",
+        "onboard_time": 1688888489,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211859,
+        "num": 211859,
+        "word": "DOU5",
+        "onboard_time": 1688890951,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173514,
+        "num": 211550,
+        "word": "重庆警方广告拍成了用不起的样子",
+        "onboard_time": 1688888550,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 301997,
+        "num": 209434,
+        "word": "喝多了非要默写出师表",
+        "onboard_time": 1688890049,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283460,
+        "num": 208760,
+        "word": "消失的她朋友圈文案",
+        "onboard_time": 1688891129,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268338,
+        "num": 206965,
+        "word": "张睿遥吻空吻",
+        "onboard_time": 1688890411,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267301,
+        "num": 206385,
+        "word": "八角笼中",
+        "onboard_time": 1688888250,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239644,
+        "num": 204551,
+        "word": "王勉送鹿晗的花篮",
+        "onboard_time": 1688888731,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236593,
+        "num": 203663,
+        "word": "Ella蔡少芬和老公吵架都用短信",
+        "onboard_time": 1688879671,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203034,
+        "num": 203034,
+        "word": "古人用玻璃做了朵蓝莲花",
+        "onboard_time": 1688890827,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187740,
+        "num": 187740,
+        "word": "鸵鸟刺身",
+        "onboard_time": 1688887470,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174950,
+        "num": 174950,
+        "word": "专家称本周或是十万年来最热一周",
+        "onboard_time": 1688873852,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174766,
+        "num": 174766,
+        "word": "新疆的店名永远在我的笑点上",
+        "onboard_time": 1688879730,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228261,
+        "num": 174761,
+        "word": "韩国歌手李尚恩去世",
+        "onboard_time": 1688866829,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207355,
+        "num": 174545,
+        "word": "seventeen澳门彩排",
+        "onboard_time": 1688883868,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204520,
+        "num": 174446,
+        "word": "药水哥两年没回向佐微信",
+        "onboard_time": 1688868570,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188972,
+        "num": 174243,
+        "word": "张淼怡正脸vs侧脸",
+        "onboard_time": 1688884230,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174986,
+        "num": 174056,
+        "word": "魏大勋事业第二春",
+        "onboard_time": 1688891490,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174034,
+        "num": 174034,
+        "word": "梦中的那片海主创主演再聚首",
+        "onboard_time": 1688891671,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164057,
+        "num": 164057,
+        "word": "日本市民团体在人民日报撰文反对排海措施",
+        "onboard_time": 1688885010,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161661,
+        "num": 161661,
+        "word": "AL对战WBG",
+        "onboard_time": 1688890592,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140638,
+        "num": 140638,
+        "word": "济南大学回应留学生生活补助每月3万",
+        "onboard_time": 1688880570,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131025,
+        "num": 131025,
+        "word": "原来偷听的不止我一个",
+        "onboard_time": 1688886989,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会20天倒计时#"
+    }
+  }
+}

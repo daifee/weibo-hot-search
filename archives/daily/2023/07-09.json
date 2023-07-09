@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688890913127,
+  "endTime": 1688891726251,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -35,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1718263,
+      "num": 842087,
+      "word": "汤唯韩国坐地铁",
+      "onboard_time": 1688887411,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1682561,
       "num": 1682561,
       "word": "庆余年第二季首发剧照",
@@ -49,14 +57,6 @@
       "onboard_time": 1688868570,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1594138,
-      "num": 842087,
-      "word": "汤唯韩国坐地铁",
-      "onboard_time": 1688887411,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1368367,
@@ -83,20 +83,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1230846,
+      "num": 416573,
+      "word": "一鹿彤行偷偷藏不住版",
+      "onboard_time": 1688888731,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1198973,
       "num": 1198973,
       "word": "90后终于熬成了挂钥匙的那群人",
       "onboard_time": 1688819192,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1160551,
-      "num": 416573,
-      "word": "一鹿彤行偷偷藏不住版",
-      "onboard_time": 1688888731,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1133360,
@@ -387,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592176,
+      "num": 405626,
+      "word": "难哄男主魏大勋来演怎么样",
+      "onboard_time": 1688889512,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 591505,
+      "num": 287062,
+      "word": "天天发朋友圈会让人反感吗",
+      "onboard_time": 1688889092,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 574529,
       "num": 574529,
       "word": "吉林私搭浮桥收费获刑当事人发声",
@@ -457,14 +473,6 @@
       "onboard_time": 1688827175,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 512863,
-      "num": 287062,
-      "word": "天天发朋友圈会让人反感吗",
-      "onboard_time": 1688889092,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 507766,
@@ -587,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 432765,
-      "num": 405626,
-      "word": "难哄男主魏大勋来演怎么样",
-      "onboard_time": 1688889512,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 432309,
       "num": 432309,
       "word": "情绪稳定vs情绪表达",
@@ -667,6 +667,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 387893,
+      "num": 387893,
+      "word": "内娱眼睛会说话的演员",
+      "onboard_time": 1688889995,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382348,
       "num": 382348,
       "word": "王源新剧消失的他即视感",
@@ -736,6 +744,14 @@
       "word": "消失的她",
       "onboard_time": 1688880629,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 360823,
+      "num": 273456,
+      "word": "王楚然刻在DNA里吹粥动作",
+      "onboard_time": 1688889450,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -859,20 +875,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314467,
+      "num": 264068,
+      "word": "seventeen彩排了7次hot",
+      "onboard_time": 1688888489,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 311286,
       "num": 311286,
       "word": "荷兰政府宣布将集体辞职",
       "onboard_time": 1688813492,
       "rank": 17,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 311043,
-      "num": 273456,
-      "word": "王楚然刻在DNA里吹粥动作",
-      "onboard_time": 1688889450,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 309513,
@@ -891,14 +907,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 306150,
-      "num": 264068,
-      "word": "seventeen彩排了7次hot",
-      "onboard_time": 1688888489,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 304475,
       "num": 275243,
       "word": "时影别闹vs蓝忘机别闹",
@@ -913,6 +921,14 @@
       "onboard_time": 1688864427,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301997,
+      "num": 209434,
+      "word": "喝多了非要默写出师表",
+      "onboard_time": 1688890049,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 298666,
@@ -955,12 +971,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288280,
+      "num": 288280,
+      "word": "揉眼睛的花花",
+      "onboard_time": 1688886149,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285302,
       "num": 285302,
       "word": "日本市民团体在人民日报撰文反对排海措施",
       "onboard_time": 1688885010,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283460,
+      "num": 208760,
+      "word": "消失的她朋友圈文案",
+      "onboard_time": 1688891129,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 283362,
@@ -1003,14 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275088,
-      "num": 275088,
-      "word": "揉眼睛的花花",
-      "onboard_time": 1688886149,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 271306,
       "num": 271306,
       "word": "宋茜排舞梦回Victoria",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1688875171,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268338,
+      "num": 206965,
+      "word": "张睿遥吻空吻",
+      "onboard_time": 1688890411,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 267972,
@@ -1107,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248388,
-      "num": 190245,
-      "word": "张睿遥吻空吻",
-      "onboard_time": 1688890411,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "杨洋和张彬彬 魏大勋和王楚然",
@@ -1139,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 245828,
-      "num": 189240,
-      "word": "喝多了非要默写出师表",
-      "onboard_time": 1688890049,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242799,
       "num": 242799,
       "word": "第一次上交工资就被警察查了",
@@ -1156,7 +1172,7 @@
     },
     {
       "raw_hot": 242654,
-      "num": 186552,
+      "num": 204551,
       "word": "王勉送鹿晗的花篮",
       "onboard_time": 1688888731,
       "rank": 35,
@@ -1275,14 +1291,6 @@
       "category": "音乐,综艺"
     },
     {
-      "raw_hot": 222014,
-      "num": 185901,
-      "word": "内娱眼睛会说话的演员",
-      "onboard_time": 1688889995,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 219335,
       "num": 219335,
       "word": "9个孩子被骗缅甸遭电击开水烫",
@@ -1323,6 +1331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211859,
+      "num": 211859,
+      "word": "DOU5",
+      "onboard_time": 1688890951,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209851,
       "num": 255833,
       "word": "未定事件簿茶百道",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1688876552,
       "rank": 39,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 203034,
+      "num": 203034,
+      "word": "古人用玻璃做了朵蓝莲花",
+      "onboard_time": 1688890827,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202792,
@@ -1420,7 +1444,7 @@
     },
     {
       "raw_hot": 192607,
-      "num": 192607,
+      "num": 211550,
       "word": "重庆警方广告拍成了用不起的样子",
       "onboard_time": 1688888550,
       "rank": 29,
@@ -1433,6 +1457,14 @@
       "onboard_time": 1688866890,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187740,
+      "num": 187740,
+      "word": "鸵鸟刺身",
+      "onboard_time": 1688887470,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 186473,
@@ -1459,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184689,
-      "num": 184689,
-      "word": "鸵鸟刺身",
-      "onboard_time": 1688887470,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183493,
       "num": 199067,
       "word": "魏晨的铁没有白举",
@@ -1489,6 +1513,22 @@
       "onboard_time": 1688868390,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174986,
+      "num": 174056,
+      "word": "魏大勋事业第二春",
+      "onboard_time": 1688891490,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 174034,
+      "num": 174034,
+      "word": "梦中的那片海主创主演再聚首",
+      "onboard_time": 1688891671,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 171985,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1688885010,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161661,
+      "num": 161661,
+      "word": "AL对战WBG",
+      "onboard_time": 1688890592,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 160692,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1688889332,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147962,
-      "num": 147962,
-      "word": "古人用玻璃做了朵蓝莲花",
-      "onboard_time": 1688890827,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144827,
@@ -1827,20 +1867,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27393,
+      "num": 900670,
+      "word": "一图了解中华文明探源工程主要成果",
+      "onboard_time": 1688874932,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25563,
       "num": 48822,
       "word": "GEN战胜T1",
       "onboard_time": 1688845036,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21664,
-      "num": 900670,
-      "word": "一图了解中华文明探源工程主要成果",
-      "onboard_time": 1688874932,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

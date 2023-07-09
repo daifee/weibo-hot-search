@@ -1,6 +1,6 @@
 {
   "startTime": 1688314977109,
-  "endTime": 1688890913127,
+  "endTime": 1688891726251,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1307,6 +1307,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 1718263,
+      "num": 842087,
+      "word": "汤唯韩国坐地铁",
+      "onboard_time": 1688887411,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1717895,
       "num": 1717895,
       "word": "杨幂说我经常被人背叛",
@@ -1432,14 +1440,6 @@
       "word": "阳光型抑郁症",
       "onboard_time": 1688569682,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1594138,
-      "num": 842087,
-      "word": "汤唯韩国坐地铁",
-      "onboard_time": 1688887411,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2027,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1230846,
+      "num": 416573,
+      "word": "一鹿彤行偷偷藏不住版",
+      "onboard_time": 1688888731,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1229167,
       "num": 696171,
       "word": "ITZY",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1688487449,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1160551,
-      "num": 416573,
-      "word": "一鹿彤行偷偷藏不住版",
-      "onboard_time": 1688888731,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1159263,
@@ -5411,6 +5411,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 592176,
+      "num": 405626,
+      "word": "难哄男主魏大勋来演怎么样",
+      "onboard_time": 1688889512,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 591505,
+      "num": 287062,
+      "word": "天天发朋友圈会让人反感吗",
+      "onboard_time": 1688889092,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 591230,
       "num": 591230,
       "word": "关晓彤也演过花非花雾非雾",
@@ -6193,14 +6209,6 @@
       "onboard_time": 1688799811,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 512863,
-      "num": 287062,
-      "word": "天天发朋友圈会让人反感吗",
-      "onboard_time": 1688889092,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 512676,
@@ -7243,14 +7251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432765,
-      "num": 405626,
-      "word": "难哄男主魏大勋来演怎么样",
-      "onboard_time": 1688889512,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 432309,
       "num": 432309,
       "word": "情绪稳定vs情绪表达",
@@ -7923,6 +7923,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 387893,
+      "num": 387893,
+      "word": "内娱眼睛会说话的演员",
+      "onboard_time": 1688889995,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 387614,
       "num": 387614,
       "word": "禁止创建以匿名投稿发布不良内容的话题和群组",
@@ -8504,6 +8512,14 @@
       "word": "一见茹顾三次圆房",
       "onboard_time": 1688481461,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 360823,
+      "num": 273456,
+      "word": "王楚然刻在DNA里吹粥动作",
+      "onboard_time": 1688889450,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -9611,6 +9627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314467,
+      "num": 264068,
+      "word": "seventeen彩排了7次hot",
+      "onboard_time": 1688888489,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 314327,
       "num": 276379,
       "word": "请记住这15个电话",
@@ -9721,14 +9745,6 @@
       "onboard_time": 1688706821,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311043,
-      "num": 273456,
-      "word": "王楚然刻在DNA里吹粥动作",
-      "onboard_time": 1688889450,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 310669,
@@ -9851,14 +9867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 306150,
-      "num": 264068,
-      "word": "seventeen彩排了7次hot",
-      "onboard_time": 1688888489,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 306047,
       "num": 210733,
       "word": "把笼吹成了我听不起的样子",
@@ -9921,6 +9929,14 @@
       "onboard_time": 1688864427,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301997,
+      "num": 209434,
+      "word": "喝多了非要默写出师表",
+      "onboard_time": 1688890049,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 301973,
@@ -10363,6 +10379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 288280,
+      "num": 288280,
+      "word": "揉眼睛的花花",
+      "onboard_time": 1688886149,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288163,
       "num": 288163,
       "word": "云南一民宿为防艳遇受伤只招待女客",
@@ -10464,6 +10488,14 @@
       "word": "玉骨遥特效",
       "onboard_time": 1688531922,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 283460,
+      "num": 208760,
+      "word": "消失的她朋友圈文案",
+      "onboard_time": 1688891129,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -10739,14 +10771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275088,
-      "num": 275088,
-      "word": "揉眼睛的花花",
-      "onboard_time": 1688886149,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 274863,
       "num": 274863,
       "word": "雨衣可以先给我跳楼的事情再慢慢谈",
@@ -10905,6 +10929,14 @@
       "onboard_time": 1688875171,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268338,
+      "num": 206965,
+      "word": "张睿遥吻空吻",
+      "onboard_time": 1688890411,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 268063,
@@ -11587,14 +11619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248388,
-      "num": 190245,
-      "word": "张睿遥吻空吻",
-      "onboard_time": 1688890411,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248283,
       "num": 248283,
       "word": "孙燕姿去看了张惠妹的演唱会",
@@ -11689,14 +11713,6 @@
       "onboard_time": 1688783073,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245828,
-      "num": 189240,
-      "word": "喝多了非要默写出师表",
-      "onboard_time": 1688890049,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 245811,
@@ -11828,7 +11844,7 @@
     },
     {
       "raw_hot": 242654,
-      "num": 186552,
+      "num": 204551,
       "word": "王勉送鹿晗的花篮",
       "onboard_time": 1688888731,
       "rank": 35,
@@ -12627,14 +12643,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 222014,
-      "num": 185901,
-      "word": "内娱眼睛会说话的演员",
-      "onboard_time": 1688889995,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 221845,
       "num": 4176658,
       "word": "七七事变爆发86周年",
@@ -13009,6 +13017,14 @@
       "onboard_time": 1688393142,
       "rank": 44,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 211859,
+      "num": 211859,
+      "word": "DOU5",
+      "onboard_time": 1688890951,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 211808,
@@ -13393,6 +13409,14 @@
       "onboard_time": 1688371725,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203034,
+      "num": 203034,
+      "word": "古人用玻璃做了朵蓝莲花",
+      "onboard_time": 1688890827,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202777,
@@ -13980,7 +14004,7 @@
     },
     {
       "raw_hot": 192607,
-      "num": 192607,
+      "num": 211550,
       "word": "重庆警方广告拍成了用不起的样子",
       "onboard_time": 1688888550,
       "rank": 29,
@@ -14267,6 +14291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187740,
+      "num": 187740,
+      "word": "鸵鸟刺身",
+      "onboard_time": 1688887470,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 187034,
       "num": 187034,
       "word": "杨千嬅悼念李玟",
@@ -14337,14 +14369,6 @@
       "onboard_time": 1688884468,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184689,
-      "num": 184689,
-      "word": "鸵鸟刺身",
-      "onboard_time": 1688887470,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 184491,
@@ -14707,6 +14731,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 174986,
+      "num": 174056,
+      "word": "魏大勋事业第二春",
+      "onboard_time": 1688891490,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174726,
       "num": 174726,
       "word": "当我跟别人说话有猫猫经过时",
@@ -14729,6 +14761,14 @@
       "onboard_time": 1688311001,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174034,
+      "num": 174034,
+      "word": "梦中的那片海主创主演再聚首",
+      "onboard_time": 1688891671,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 173863,
@@ -15107,6 +15147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161661,
+      "num": 161661,
+      "word": "AL对战WBG",
+      "onboard_time": 1688890592,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160858,
       "num": 279559,
       "word": "丫丫有了新玩具小藤球",
@@ -15465,14 +15513,6 @@
       "onboard_time": 1688425404,
       "rank": 45,
       "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 147962,
-      "num": 147962,
-      "word": "古人用玻璃做了朵蓝莲花",
-      "onboard_time": 1688890827,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147059,
@@ -16771,6 +16811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27393,
+      "num": 900670,
+      "word": "一图了解中华文明探源工程主要成果",
+      "onboard_time": 1688874932,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26764,
       "num": 50821,
       "word": "你求职遇过哪些歧视",
@@ -16800,14 +16848,6 @@
       "word": "航拍新疆独库公路画风魔幻",
       "onboard_time": 1688446840,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21664,
-      "num": 900670,
-      "word": "一图了解中华文明探源工程主要成果",
-      "onboard_time": 1688874932,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
