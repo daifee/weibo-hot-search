@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688879867339,
+  "endTime": 1688880863753,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1133360,
+      "num": 1133360,
+      "word": "女生被夫妻占座被指责破坏家庭",
+      "onboard_time": 1688876132,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109098,
       "num": 1109098,
       "word": "专家称本周或是十万年来最热一周",
@@ -105,6 +113,14 @@
       "onboard_time": 1688831611,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1017038,
+      "num": 1017038,
+      "word": "济南大学回应留学生生活补助每月3万",
+      "onboard_time": 1688875654,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1011679,
@@ -155,14 +171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 874850,
-      "num": 874850,
-      "word": "女生被夫妻占座被指责破坏家庭",
-      "onboard_time": 1688876132,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 838246,
       "num": 838246,
       "word": "徐峥看茶啊二中笑得肚子疼",
@@ -208,14 +216,6 @@
       "word": "00后女生帮姐姐带娃1小时崩溃大哭",
       "onboard_time": 1688830232,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 687274,
-      "num": 687274,
-      "word": "济南大学回应留学生生活补助每月3万",
-      "onboard_time": 1688875654,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549810,
+      "num": 549810,
+      "word": "长期食用口水油或致癌",
+      "onboard_time": 1688876492,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546529,
       "num": 546529,
       "word": "女子往餐馆汤锅放不明液体致人呕吐",
@@ -347,12 +355,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 507766,
+      "num": 507766,
+      "word": "宋茜抓鸡",
+      "onboard_time": 1688878652,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503088,
       "num": 503088,
       "word": "顾九思得知柳玉茹死讯泪崩",
       "onboard_time": 1688872771,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497840,
+      "num": 257798,
+      "word": "Ella蔡少芬和老公吵架都用短信",
+      "onboard_time": 1688879671,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 490339,
@@ -371,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481615,
-      "num": 481615,
-      "word": "长期食用口水油或致癌",
-      "onboard_time": 1688876492,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478255,
       "num": 365816,
       "word": "魏大勋马伯骞赢麻了",
@@ -387,20 +403,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 477188,
-      "num": 477188,
-      "word": "宋茜抓鸡",
-      "onboard_time": 1688878652,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 475565,
       "num": 334581,
       "word": "Angelababy生孩子期间打上武则天高位",
       "onboard_time": 1688800471,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459209,
+      "num": 257298,
+      "word": "新疆的店名永远在我的笑点上",
+      "onboard_time": 1688879730,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 458289,
@@ -499,6 +515,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 382348,
+      "num": 382348,
+      "word": "王源新剧消失的他即视感",
+      "onboard_time": 1688878292,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377088,
       "num": 296305,
       "word": "蛋仔雪王",
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364093,
+      "num": 364093,
+      "word": "消失的她",
+      "onboard_time": 1688880629,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354734,
       "num": 354734,
       "word": "奶奶接孙女放学被水冲走十多人急救援",
@@ -553,6 +585,14 @@
       "onboard_time": 1688870791,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350638,
+      "num": 323859,
+      "word": "爷爷给我买了杯奶茶",
+      "onboard_time": 1688877932,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 350137,
@@ -579,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343434,
-      "num": 323859,
-      "word": "爷爷给我买了杯奶茶",
-      "onboard_time": 1688877932,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 342267,
+      "num": 256780,
+      "word": "如何看待留学生获生活补助",
+      "onboard_time": 1688880629,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337330,
@@ -627,6 +667,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319041,
+      "num": 319041,
+      "word": "年轻人为什么不买快时尚的账了",
+      "onboard_time": 1688877571,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 314884,
+      "num": 300540,
+      "word": "马天宇为尘缘开评论",
+      "onboard_time": 1688877754,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311286,
       "num": 311286,
       "word": "荷兰政府宣布将集体辞职",
@@ -641,14 +697,6 @@
       "onboard_time": 1688868751,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 307819,
-      "num": 307819,
-      "word": "年轻人为什么不买快时尚的账了",
-      "onboard_time": 1688877571,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 304475,
@@ -667,12 +715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 300280,
-      "num": 291835,
-      "word": "王源新剧消失的他即视感",
-      "onboard_time": 1688878292,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 300950,
+      "num": 300950,
+      "word": "大学生因毕业问题无颜回家流浪10年",
+      "onboard_time": 1688880092,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 298666,
@@ -720,6 +768,14 @@
       "word": "罗翔谈村民私造浮桥收费被判刑",
       "onboard_time": 1688867549,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276105,
+      "num": 276105,
+      "word": "当地回应村民私搭浮桥被判刑事件五大疑问",
+      "onboard_time": 1688878052,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -771,20 +827,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262154,
-      "num": 250362,
-      "word": "马天宇为尘缘开评论",
-      "onboard_time": 1688877754,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261441,
       "num": 239035,
       "word": "张钧甯晒与陈柏霖合照",
       "onboard_time": 1688864849,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260581,
+      "num": 260581,
+      "word": "死神2也太懂时髦了",
+      "onboard_time": 1688880148,
+      "rank": 29,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 256875,
@@ -795,11 +851,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250821,
-      "num": 250821,
-      "word": "当地回应村民私搭浮桥被判刑事件五大疑问",
-      "onboard_time": 1688878052,
-      "rank": 29,
+      "raw_hot": 251886,
+      "num": 251886,
+      "word": "账与帐很多人分不清",
+      "onboard_time": 1688877031,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -865,14 +921,6 @@
       "onboard_time": 1688860343,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 236959,
-      "num": 236959,
-      "word": "账与帐很多人分不清",
-      "onboard_time": 1688877031,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235567,
@@ -955,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217708,
+      "num": 217708,
+      "word": "树懒妈妈 刚刚好险啊",
+      "onboard_time": 1688880092,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213659,
       "num": 213659,
       "word": "宋轶真的穿白色衣服了",
@@ -977,14 +1033,6 @@
       "onboard_time": 1688874993,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208821,
-      "num": 208821,
-      "word": "Ella蔡少芬和老公吵架都用短信",
-      "onboard_time": 1688879671,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 203480,
@@ -1073,14 +1121,6 @@
       "onboard_time": 1688866829,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 185022,
-      "num": 185022,
-      "word": "新疆的店名永远在我的笑点上",
-      "onboard_time": 1688879730,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 183493,
