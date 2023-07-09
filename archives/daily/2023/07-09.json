@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688877424586,
+  "endTime": 1688879867339,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3113742,
+      "num": 3113742,
+      "word": "女孩中考742分报考师范专科引争议",
+      "onboard_time": 1688875891,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2998222,
       "num": 2998222,
       "word": "韩国歌手李尚恩去世",
       "onboard_time": 1688866829,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1690041,
-      "num": 618232,
-      "word": "女孩中考742分报考师范专科引争议",
-      "onboard_time": 1688875891,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1682561,
@@ -59,6 +59,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1335823,
+      "num": 1335823,
+      "word": "魏大勋反手开车门",
+      "onboard_time": 1688874812,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1198973,
       "num": 1198973,
       "word": "90后终于熬成了挂钥匙的那群人",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1072334,
-      "num": 323001,
+      "num": 324070,
       "word": "魏大勋没想到你能演骨科",
       "onboard_time": 1688868512,
       "rank": 20,
@@ -115,12 +123,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 949289,
-      "num": 949289,
-      "word": "魏大勋反手开车门",
-      "onboard_time": 1688874812,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 955697,
+      "num": 955697,
+      "word": "卡琳娜营业 天花板级别",
+      "onboard_time": 1688877271,
+      "rank": 40,
+      "category": "网红,动漫"
     },
     {
       "raw_hot": 941099,
@@ -145,6 +153,14 @@
       "onboard_time": 1688870371,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 874850,
+      "num": 874850,
+      "word": "女生被夫妻占座被指责破坏家庭",
+      "onboard_time": 1688876132,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838246,
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687274,
+      "num": 687274,
+      "word": "济南大学回应留学生生活补助每月3万",
+      "onboard_time": 1688875654,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683694,
       "num": 683694,
       "word": "有点理解为啥找魏大勋演了",
@@ -225,14 +249,6 @@
       "onboard_time": 1688826033,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 657786,
-      "num": 657786,
-      "word": "济南大学回应留学生生活补助每月3万",
-      "onboard_time": 1688875654,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 640224,
@@ -355,12 +371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481615,
+      "num": 481615,
+      "word": "长期食用口水油或致癌",
+      "onboard_time": 1688876492,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478255,
       "num": 365816,
       "word": "魏大勋马伯骞赢麻了",
       "onboard_time": 1688822013,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 477188,
+      "num": 477188,
+      "word": "宋茜抓鸡",
+      "onboard_time": 1688878652,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 475565,
@@ -385,6 +417,14 @@
       "onboard_time": 1688873130,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451220,
+      "num": 451220,
+      "word": "倪妮主演电影票房超过杨幂",
+      "onboard_time": 1688870791,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 443696,
@@ -443,12 +483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 400499,
-      "num": 293382,
-      "word": "倪妮主演电影票房超过杨幂",
-      "onboard_time": 1688870791,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 398208,
+      "num": 398208,
+      "word": "彭昱畅回归向往的生活",
+      "onboard_time": 1688876429,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 391504,
@@ -491,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369926,
-      "num": 369926,
-      "word": "女生被夫妻占座被指责破坏家庭",
-      "onboard_time": 1688876132,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369593,
       "num": 254397,
       "word": "何炅跟着杨紫一起跪",
       "onboard_time": 1688822256,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354734,
+      "num": 354734,
+      "word": "奶奶接孙女放学被水冲走十多人急救援",
+      "onboard_time": 1688876792,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353997,
@@ -537,6 +577,14 @@
       "onboard_time": 1688872049,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343434,
+      "num": 323859,
+      "word": "爷爷给我买了杯奶茶",
+      "onboard_time": 1688877932,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 337330,
@@ -579,22 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318684,
-      "num": 282084,
-      "word": "彭昱畅回归向往的生活",
-      "onboard_time": 1688876429,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 312720,
-      "num": 312720,
-      "word": "长期食用口水油或致癌",
-      "onboard_time": 1688876492,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311286,
       "num": 311286,
       "word": "荷兰政府宣布将集体辞职",
@@ -611,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307819,
+      "num": 307819,
+      "word": "年轻人为什么不买快时尚的账了",
+      "onboard_time": 1688877571,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 304475,
       "num": 275243,
       "word": "时影别闹vs蓝忘机别闹",
@@ -624,6 +664,14 @@
       "word": "肖战梦中的那片海新合照",
       "onboard_time": 1688864427,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 300280,
+      "num": 291835,
+      "word": "王源新剧消失的他即视感",
+      "onboard_time": 1688878292,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -723,20 +771,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262154,
+      "num": 250362,
+      "word": "马天宇为尘缘开评论",
+      "onboard_time": 1688877754,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261441,
       "num": 239035,
       "word": "张钧甯晒与陈柏霖合照",
       "onboard_time": 1688864849,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258457,
-      "num": 258457,
-      "word": "奶奶接孙女放学被水冲走十多人急救援",
-      "onboard_time": 1688876792,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256875,
@@ -747,12 +795,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250821,
+      "num": 250821,
+      "word": "当地回应村民私搭浮桥被判刑事件五大疑问",
+      "onboard_time": 1688878052,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "杨洋和张彬彬 魏大勋和王楚然",
       "onboard_time": 1688821654,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246363,
+      "num": 246363,
+      "word": "中国男排1比3加拿大男排",
+      "onboard_time": 1688878772,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 245984,
@@ -803,6 +867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 236959,
+      "num": 236959,
+      "word": "账与帐很多人分不清",
+      "onboard_time": 1688877031,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235567,
       "num": 238864,
       "word": "浮桥",
@@ -817,14 +889,6 @@
       "onboard_time": 1688875593,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 231580,
-      "num": 203073,
-      "word": "卡琳娜营业 天花板级别",
-      "onboard_time": 1688877271,
-      "rank": 40,
-      "category": "网红,动漫"
     },
     {
       "raw_hot": 230165,
@@ -891,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218549,
-      "num": 218549,
-      "word": "账与帐很多人分不清",
-      "onboard_time": 1688877031,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213659,
       "num": 213659,
       "word": "宋轶真的穿白色衣服了",
@@ -923,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208821,
+      "num": 208821,
+      "word": "Ella蔡少芬和老公吵架都用短信",
+      "onboard_time": 1688879671,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203480,
       "num": 203480,
       "word": "长安三万里",
@@ -945,6 +1009,14 @@
       "onboard_time": 1688820032,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201222,
+      "num": 201222,
+      "word": "特效鱼饵是真实存在的吗",
+      "onboard_time": 1688879430,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201177,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1688866829,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185022,
+      "num": 185022,
+      "word": "新疆的店名永远在我的笑点上",
+      "onboard_time": 1688879730,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 183493,
@@ -1243,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82685,
+      "num": 1219376,
+      "word": "滇藏铁路丽香段哈巴雪山隧道贯通",
+      "onboard_time": 1688875171,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80427,
       "num": 80427,
       "word": "产妇羊水破裂交警开道护送就医",
@@ -1257,14 +1345,6 @@
       "onboard_time": 1688875230,
       "rank": 14,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 75458,
-      "num": 1211008,
-      "word": "滇藏铁路丽香段哈巴雪山隧道贯通",
-      "onboard_time": 1688875171,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73118,

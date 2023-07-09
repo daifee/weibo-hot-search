@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/09 12:37:04
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/09 13:17:47
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@ ALin 金曲歌后（热度：3526747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB3%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E9%80%BC%E5%90%83%E7%B2%AA%E4%BE%BF%E7%94%B7%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
 被3名未成年逼吃粪便男童父亲发声（热度：3118420）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83742%E5%88%86%E6%8A%A5%E8%80%83%E5%B8%88%E8%8C%83%E4%B8%93%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+女孩中考742分报考师范专科引争议（热度：3113742）
 </a>
 </li>
 
@@ -1263,12 +1269,6 @@ TFBOYS演唱会的票价（热度：1711127）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83742%E5%88%86%E6%8A%A5%E8%80%83%E5%B8%88%E8%8C%83%E4%B8%93%E7%A7%91%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
-女孩中考742分报考师范专科引争议（热度：1690041）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A3%E9%A6%96%E5%8F%91%E5%89%A7%E7%85%A7%23" target="weibo">
 庆余年第二季首发剧照（热度：1682561）
 </a>
@@ -1703,6 +1703,12 @@ xxs（热度：1347939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23" target="weibo">
 王楚钦世界排名第一（热度：1336526）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%8F%8D%E6%89%8B%E5%BC%80%E8%BD%A6%E9%97%A8%23" target="weibo">
+魏大勋反手开车门（热度：1335823）
 </a>
 </li>
 
@@ -2637,6 +2643,12 @@ TES（热度：1010809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E7%90%B3%E5%A8%9C%E8%90%A5%E4%B8%9A%20%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%BA%A7%E5%88%AB%23" target="weibo">
+卡琳娜营业 天花板级别（热度：955697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%89%BA%E7%8F%8D%E4%BA%A7%E5%90%8E%E9%A6%96%E4%B8%AA%E5%85%AC%E5%BC%80%E8%A1%8C%E7%A8%8B%23" target="weibo">
 孙艺珍产后首个公开行程（热度：953927）
 </a>
@@ -2657,12 +2669,6 @@ TES（热度：1010809）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E8%BE%9E%E6%8E%89%E4%B8%8A%E4%B8%87%E6%9C%88%E8%96%AA%E5%B7%A5%E4%BD%9C%23" target="weibo">
 男生考上研究生辞掉上万月薪工作（热度：952978）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%8F%8D%E6%89%8B%E5%BC%80%E8%BD%A6%E9%97%A8%23" target="weibo">
-魏大勋反手开车门（热度：949289）
 </a>
 </li>
 
@@ -3017,6 +3023,12 @@ iPhone15Pro系列将采用深蓝色（热度：878985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%98%AF%E5%9C%A8%E9%A5%AD%E5%B1%80%E4%B8%8A%E8%AE%A4%E8%AF%86%E7%9A%84%23" target="weibo">
 沈月魏大勋是在饭局上认识的（热度：875229）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%A4%AB%E5%A6%BB%E5%8D%A0%E5%BA%A7%E8%A2%AB%E6%8C%87%E8%B4%A3%E7%A0%B4%E5%9D%8F%E5%AE%B6%E5%BA%AD%23" target="weibo">
+女生被夫妻占座被指责破坏家庭（热度：874850）
 </a>
 </li>
 
@@ -4209,6 +4221,12 @@ gap day是怎么流行起来的（热度：689693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E7%94%9F%E6%B4%BB%E8%A1%A5%E5%8A%A9%E6%AF%8F%E6%9C%883%E4%B8%87%23" target="weibo">
+济南大学回应留学生生活补助每月3万（热度：687274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E8%8D%AF%E6%B0%B4%E4%B8%8D%E8%83%BD%E6%BB%B4%E5%9C%A8%E7%9C%BC%E7%9D%9B%E4%B8%8A%23" target="weibo">
 眼药水不能滴在眼睛上（热度：686525）
 </a>
@@ -4505,12 +4523,6 @@ treasure（热度：668903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%B7%B1V%23" target="weibo">
 吴磊深V（热度：657965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E7%94%9F%E6%B4%BB%E8%A1%A5%E5%8A%A9%E6%AF%8F%E6%9C%883%E4%B8%87%23" target="weibo">
-济南大学回应留学生生活补助每月3万（热度：657786）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ EDG更换主教练（热度：512455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E6%9C%89%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
 身边有抑郁症的朋友该怎么办（热度：499233）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE%23" target="weibo">
-日本女篮（热度：498752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E5%BA%97%E8%80%81%E6%9D%BF%E7%A7%B0%E5%80%92%E9%97%AD%E7%9A%84%E5%A4%9A%E6%98%AF%E8%B9%AD%E7%83%AD%E5%BA%A6%E7%9A%84%E6%96%B0%E5%BA%97%23" target="weibo">
-淄博烧烤店老板称倒闭的多是蹭热度的新店（热度：498503）
 </a>
 </li>
 
