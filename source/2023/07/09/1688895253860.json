@@ -1,0 +1,410 @@
+{
+  "runTime": 1688895253860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2840872,
+        "num": 2840872,
+        "word": "济南大学已报警",
+        "onboard_time": 1688893051,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1209044,
+        "num": 1209044,
+        "word": "肖战在任敏微博评论区刷屏",
+        "onboard_time": 1688884049,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27554,
+        "num": 1068122,
+        "word": "一图了解中华文明探源工程主要成果",
+        "onboard_time": 1688874932,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956186,
+        "num": 956186,
+        "word": "朱丹跟周一围说市场都快把我忘了",
+        "onboard_time": 1688892332,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 777012,
+        "num": 777012,
+        "word": "这四个显眼包怎么变了",
+        "onboard_time": 1688888849,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 684121,
+        "num": 684121,
+        "word": "茶百道未定联名",
+        "onboard_time": 1688893892,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662865,
+        "num": 662865,
+        "word": "顾客买到生瓜留言2年后收到回复",
+        "onboard_time": 1688888309,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621111,
+        "num": 621111,
+        "word": "女孩中考742分报考师范专科引争议",
+        "onboard_time": 1688875891,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 457441,
+        "num": 457441,
+        "word": "今年四大出圈配角",
+        "onboard_time": 1688893230,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417894,
+        "num": 417894,
+        "word": "洪欣张丹峰带女儿合拍视频",
+        "onboard_time": 1688887169,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1392239,
+        "num": 416497,
+        "word": "一鹿彤行偷偷藏不住版",
+        "onboard_time": 1688888731,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1234470,
+        "num": 414213,
+        "word": "汤唯韩国坐地铁",
+        "onboard_time": 1688887411,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 988766,
+        "num": 410737,
+        "word": "考上研究生却被人用来做生意",
+        "onboard_time": 1688892568,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 508018,
+        "num": 407877,
+        "word": "肖战王一博同款耍剑打戏",
+        "onboard_time": 1688892568,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460238,
+        "num": 407317,
+        "word": "第一次见到老了的猫咪",
+        "onboard_time": 1688892332,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 466188,
+        "num": 404627,
+        "word": "难哄男主魏大勋来演怎么样",
+        "onboard_time": 1688889512,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402810,
+        "num": 402810,
+        "word": "安乐传",
+        "onboard_time": 1688892393,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399647,
+        "num": 399647,
+        "word": "当事人称没架桥前溺亡22位乡亲",
+        "onboard_time": 1688892090,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396092,
+        "num": 396092,
+        "word": "喝多了非要默写出师表",
+        "onboard_time": 1688890049,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382919,
+        "num": 382919,
+        "word": "这真的是同一个女生夏天的衣服",
+        "onboard_time": 1688893110,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398549,
+        "num": 379322,
+        "word": "seventeen彩排了7次hot",
+        "onboard_time": 1688888489,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365813,
+        "num": 365813,
+        "word": "发现高档食品一般不能多吃",
+        "onboard_time": 1688885727,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 361666,
+        "num": 361666,
+        "word": "天天发朋友圈会让人反感吗",
+        "onboard_time": 1688889092,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352707,
+        "num": 352707,
+        "word": "王楚然刻在DNA里吹粥动作",
+        "onboard_time": 1688889450,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332723,
+        "num": 332723,
+        "word": "前金球奖得主苏亚雷斯去世",
+        "onboard_time": 1688894491,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 289947,
+        "num": 289947,
+        "word": "乌克兰承认曾对克里米亚大桥实施袭击",
+        "onboard_time": 1688893051,
+        "rank": 25,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 270157,
+        "num": 270157,
+        "word": "内娱眼睛会说话的演员",
+        "onboard_time": 1688889995,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259958,
+        "num": 259958,
+        "word": "消失的她朋友圈文案",
+        "onboard_time": 1688891129,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256279,
+        "num": 256279,
+        "word": "王鹤棣仪态管理",
+        "onboard_time": 1688894429,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243039,
+        "num": 243039,
+        "word": "为什么上班后大家就爱发云彩了",
+        "onboard_time": 1688886450,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241035,
+        "num": 241035,
+        "word": "八角笼中",
+        "onboard_time": 1688888250,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234594,
+        "num": 234594,
+        "word": "于途乔晶晶vs宋焰许沁",
+        "onboard_time": 1688895089,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221781,
+        "num": 221781,
+        "word": "张睿遥吻空吻",
+        "onboard_time": 1688890411,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210012,
+        "num": 210012,
+        "word": "年轻人为什么不买快时尚的账了",
+        "onboard_time": 1688877571,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 202283,
+        "num": 202283,
+        "word": "广州一特斯拉闯红灯撞电瓶车致1死",
+        "onboard_time": 1688894792,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214666,
+        "num": 202207,
+        "word": "李玟姐姐称乐裕民靠李玟上位",
+        "onboard_time": 1688884651,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201146,
+        "num": 201146,
+        "word": "消失的她实时票房破30亿",
+        "onboard_time": 1688893171,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201008,
+        "num": 201008,
+        "word": "心疼白敬亭一整期",
+        "onboard_time": 1688890049,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194580,
+        "num": 194580,
+        "word": "共享充电宝电用完只充了30%",
+        "onboard_time": 1688883627,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 18947,
+        "num": 189114,
+        "word": "篮球玩出花",
+        "onboard_time": 1688893230,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187946,
+        "num": 187946,
+        "word": "曝HYBE员工搜身时摸粉丝胸部",
+        "onboard_time": 1688882250,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184456,
+        "num": 184456,
+        "word": "魏大勋事业第二春",
+        "onboard_time": 1688891490,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170364,
+        "num": 179458,
+        "word": "郝景芳",
+        "onboard_time": 1688887892,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172054,
+        "num": 177111,
+        "word": "1岁半患儿彻底摆脱原生基因缺陷",
+        "onboard_time": 1688889029,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176981,
+        "num": 176981,
+        "word": "王勉送鹿晗的花篮",
+        "onboard_time": 1688888731,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173747,
+        "num": 173747,
+        "word": "肖战的内核",
+        "onboard_time": 1688888431,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155270,
+        "num": 172758,
+        "word": "大学生因毕业问题无颜回家流浪10年",
+        "onboard_time": 1688880092,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 151461,
+        "num": 170072,
+        "word": "古人用玻璃做了朵蓝莲花",
+        "onboard_time": 1688890827,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146882,
+        "num": 169109,
+        "word": "揉眼睛的花花",
+        "onboard_time": 1688886149,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141428,
+        "num": 167330,
+        "word": "罗翔",
+        "onboard_time": 1688859802,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#哈尔滨成功申办2025亚冬会#"
+    }
+  }
+}
