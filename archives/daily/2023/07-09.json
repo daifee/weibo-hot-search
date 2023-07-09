@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688872192519,
+  "endTime": 1688872417947,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -51,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1170047,
+      "num": 1170047,
+      "word": "庆余年第二季首发剧照",
+      "onboard_time": 1688871450,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1085807,
       "num": 566832,
       "word": "马景涛",
@@ -72,14 +80,6 @@
       "word": "暑假目前最惊喜的国产剧",
       "onboard_time": 1688831611,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1013224,
-      "num": 1013224,
-      "word": "庆余年第二季首发剧照",
-      "onboard_time": 1688871450,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -123,8 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 789751,
-      "num": 789751,
+      "raw_hot": 801430,
+      "num": 801430,
       "word": "黄子韬说宁静那英没一个能压得住自己",
       "onboard_time": 1688867910,
       "rank": 41,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 655129,
+      "num": 413687,
+      "word": "一个关于指甲的小偏方",
+      "onboard_time": 1688870371,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 640224,
       "num": 640224,
       "word": "泰妃看肖战出场的反应",
@@ -187,16 +195,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 639627,
-      "num": 413687,
-      "word": "一个关于指甲的小偏方",
-      "onboard_time": 1688870371,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 628430,
-      "num": 270932,
+      "num": 275257,
       "word": "影楼把我的孕照丢失了怎么办",
       "onboard_time": 1688862327,
       "rank": 20,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 539101,
-      "num": 399080,
+      "num": 401741,
       "word": "茶啊二中",
       "onboard_time": 1688870971,
       "rank": 13,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 377088,
-      "num": 266097,
+      "num": 274950,
       "word": "蛋仔雪王",
       "onboard_time": 1688870551,
       "rank": 23,
@@ -395,12 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350447,
-      "num": 261896,
+      "raw_hot": 360785,
+      "num": 274458,
       "word": "倪妮主演电影票房超过杨幂",
       "onboard_time": 1688870791,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353997,
+      "num": 274108,
+      "word": "警方通报女子在餐厅投放不明物品",
+      "onboard_time": 1688870791,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350137,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 343765,
-      "num": 259442,
+      "num": 272754,
       "word": "罗正跳eiei",
       "onboard_time": 1688872049,
       "rank": 26,
@@ -449,14 +457,6 @@
       "onboard_time": 1688830354,
       "rank": 18,
       "category": "旅游,幽默"
-    },
-    {
-      "raw_hot": 324393,
-      "num": 264380,
-      "word": "警方通报女子在餐厅投放不明物品",
-      "onboard_time": 1688870791,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323221,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 296331,
-      "num": 253600,
+      "num": 271876,
       "word": "凌霄vs孟宴臣",
       "onboard_time": 1688867130,
       "rank": 36,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 294169,
-      "num": 248757,
+      "num": 270941,
       "word": "杨洋王彦霖演情敌和同母异父的兄弟",
       "onboard_time": 1688869590,
       "rank": 30,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 281218,
-      "num": 246931,
+      "num": 270936,
       "word": "消失的十一层今日开播",
       "onboard_time": 1688869770,
       "rank": 31,
@@ -579,12 +579,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252463,
+      "num": 197782,
+      "word": "庆余年",
+      "onboard_time": 1688872229,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "杨洋和张彬彬 魏大勋和王楚然",
       "onboard_time": 1688821654,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246031,
+      "num": 246031,
+      "word": "商家 外卖小哥求你闭嘴吧",
+      "onboard_time": 1688869052,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 245984,
@@ -627,14 +643,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 235597,
-      "num": 235597,
-      "word": "商家 外卖小哥求你闭嘴吧",
-      "onboard_time": 1688869052,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235567,
       "num": 238864,
       "word": "浮桥",
@@ -649,6 +657,14 @@
       "onboard_time": 1688868030,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228716,
+      "num": 186729,
+      "word": "单依纯00后爱情观",
+      "onboard_time": 1688869351,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 226062,
@@ -699,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215779,
-      "num": 186729,
-      "word": "单依纯00后爱情观",
-      "onboard_time": 1688869351,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213659,
       "num": 213659,
       "word": "宋轶真的穿白色衣服了",
@@ -739,8 +747,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202071,
+      "num": 202071,
+      "word": "韩国某些职业只招特定的MBTI",
+      "onboard_time": 1688871872,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201177,
-      "num": 250817,
+      "num": 271729,
       "word": "中国队提前锁定混双男双冠军",
       "onboard_time": 1688858120,
       "rank": 49,
@@ -769,6 +785,14 @@
       "onboard_time": 1688832987,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190901,
+      "num": 190901,
+      "word": "斗破苍穹",
+      "onboard_time": 1688870852,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 189712,
@@ -809,22 +833,6 @@
       "onboard_time": 1688868390,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179126,
-      "num": 179126,
-      "word": "韩国某些职业只招特定的MBTI",
-      "onboard_time": 1688871872,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 176091,
-      "num": 178301,
-      "word": "斗破苍穹",
-      "onboard_time": 1688870852,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 171985,
