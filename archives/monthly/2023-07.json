@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688898992487,
+  "endTime": 1688901286808,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2427,6 +2427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1265073,
+      "num": 1265073,
+      "word": "一个不会离职的办公桌长啥样",
+      "onboard_time": 1688895451,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1264487,
       "num": 1264487,
       "word": "广东液体榴莲",
@@ -3027,6 +3035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1077195,
+      "num": 561712,
+      "word": "高铁上终于卖卫生巾了",
+      "onboard_time": 1688899173,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1077170,
       "num": 722880,
       "word": "男生街边卖卫生巾遭掀摊骂晦气",
@@ -3305,6 +3321,14 @@
       "onboard_time": 1688263708,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1011700,
+      "num": 1011700,
+      "word": "台湾面临鸡蛋过剩问题",
+      "onboard_time": 1688896954,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1011679,
@@ -4105,14 +4129,6 @@
       "onboard_time": 1688567304,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 876329,
-      "num": 876329,
-      "word": "一个不会离职的办公桌长啥样",
-      "onboard_time": 1688895451,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 875229,
@@ -4953,14 +4969,6 @@
       "onboard_time": 1688558489,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 779555,
-      "num": 779555,
-      "word": "台湾面临鸡蛋过剩问题",
-      "onboard_time": 1688896954,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 778894,
@@ -6635,6 +6643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 617143,
+      "num": 561458,
+      "word": "海南警方回应陪女友看演唱会男孩溺亡",
+      "onboard_time": 1688900433,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615255,
       "num": 615255,
       "word": "否定型人格",
@@ -6913,6 +6929,14 @@
       "onboard_time": 1688284532,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594414,
+      "num": 594414,
+      "word": "第一次见男二一个人扫楼的",
+      "onboard_time": 1688899772,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 593783,
@@ -7289,6 +7313,14 @@
       "onboard_time": 1688642615,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 564142,
+      "num": 564142,
+      "word": "家属回应6未成年入店抢劫致人死亡",
+      "onboard_time": 1688899473,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563490,
@@ -7673,6 +7705,14 @@
       "onboard_time": 1688872229,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 537523,
+      "num": 537523,
+      "word": "郑州狗主悬赏1000万人民币寻狗",
+      "onboard_time": 1688900131,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536673,
@@ -8620,7 +8660,7 @@
     },
     {
       "raw_hot": 475417,
-      "num": 412000,
+      "num": 438008,
       "word": "肖战为了玉骨遥剧宣好努力",
       "onboard_time": 1688895995,
       "rank": 22,
@@ -9379,6 +9419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438647,
+      "num": 438647,
+      "word": "杨紫在MLB全明星",
+      "onboard_time": 1688897252,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 438431,
       "num": 335652,
       "word": "顾九思柳玉茹诀别吻",
@@ -9497,6 +9545,14 @@
       "onboard_time": 1688217573,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432472,
+      "num": 432472,
+      "word": "私搭浮桥案审判长被曝顶替他人上大学",
+      "onboard_time": 1688895692,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432309,
@@ -9835,14 +9891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 412134,
-      "num": 412134,
-      "word": "杨紫在MLB全明星",
-      "onboard_time": 1688897252,
-      "rank": 27,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 411872,
       "num": 411872,
       "word": "汪东城音乐节",
@@ -9944,14 +9992,6 @@
       "word": "新疆库木塔格沙漠海市蜃楼奇观",
       "onboard_time": 1688714499,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405333,
-      "num": 405333,
-      "word": "私搭浮桥案审判长被曝顶替他人上大学",
-      "onboard_time": 1688895692,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -10313,6 +10353,14 @@
       "onboard_time": 1688542233,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 392333,
+      "num": 392333,
+      "word": "老外到美甲店消费100多元称没钱",
+      "onboard_time": 1688898509,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391594,
@@ -10907,6 +10955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 370299,
+      "num": 720734,
+      "word": "粉衣姑娘暴雨中弃车救人",
+      "onboard_time": 1688896230,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370158,
       "num": 370158,
       "word": "福宝是像家人一样的宝贝",
@@ -10921,14 +10977,6 @@
       "onboard_time": 1688639914,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 369795,
-      "num": 720734,
-      "word": "粉衣姑娘暴雨中弃车救人",
-      "onboard_time": 1688896230,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369671,
@@ -11241,6 +11289,14 @@
       "onboard_time": 1688709336,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 359552,
+      "num": 359552,
+      "word": "情侣顺利订婚后女方态度大转变",
+      "onboard_time": 1688898509,
+      "rank": 31,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 359531,
@@ -13275,6 +13331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295892,
+      "num": 295892,
+      "word": "赵露思她超爱",
+      "onboard_time": 1688900972,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295839,
       "num": 295839,
       "word": "这才是女生该有的小金库",
@@ -13529,6 +13593,14 @@
       "onboard_time": 1688893051,
       "rank": 49,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 289888,
+      "num": 289888,
+      "word": "我再也没有寒暑假了",
+      "onboard_time": 1688899473,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 289630,
@@ -14499,20 +14571,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265328,
-      "num": 265328,
-      "word": "情侣顺利订婚后女方态度大转变",
-      "onboard_time": 1688898509,
-      "rank": 31,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 265247,
       "num": 265247,
       "word": "谢娜乘风五公造型",
       "onboard_time": 1688180310,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265087,
+      "num": 250231,
+      "word": "小狗生气时敷衍的握手",
+      "onboard_time": 1688899651,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 264982,
@@ -15763,6 +15835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241037,
+      "num": 241037,
+      "word": "最后哈基米承受了一切",
+      "onboard_time": 1688900792,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240986,
       "num": 240986,
       "word": "众星为杨颖尘缘打call",
@@ -16067,6 +16147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233708,
+      "num": 233708,
+      "word": "白鹿粉色背带裤",
+      "onboard_time": 1688899831,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233303,
       "num": 233303,
       "word": "倪妮9个采访表扬朱一龙9遍",
@@ -16161,6 +16249,14 @@
       "onboard_time": 1688228072,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231516,
+      "num": 231516,
+      "word": "庆余年2",
+      "onboard_time": 1688898932,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 231348,
@@ -17123,14 +17219,6 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 214574,
-      "num": 214574,
-      "word": "老外到美甲店消费100多元称没钱",
-      "onboard_time": 1688898509,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214519,
       "num": 275882,
       "word": "摔一跤店就倒闭了",
@@ -17593,6 +17681,14 @@
       "onboard_time": 1688368372,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 207411,
+      "num": 207411,
+      "word": "镇政府人员回应吉林私搭浮桥案",
+      "onboard_time": 1688901151,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207206,
@@ -18099,6 +18195,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 199647,
+      "num": 199647,
+      "word": "减肥营被曝殴打未成年学员",
+      "onboard_time": 1688900492,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199582,
       "num": 199582,
       "word": "薛之谦演唱会",
@@ -18449,6 +18553,14 @@
       "onboard_time": 1688624915,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193967,
+      "num": 193967,
+      "word": "人间温暖",
+      "onboard_time": 1688900551,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 193950,
@@ -19585,6 +19697,14 @@
       "onboard_time": 1688352031,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 175066,
+      "num": 175066,
+      "word": "刚得知爸妈给我编了个男朋友",
+      "onboard_time": 1688901211,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 175018,
@@ -20801,14 +20921,6 @@
       "onboard_time": 1688256745,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131845,
-      "num": 131845,
-      "word": "庆余年2",
-      "onboard_time": 1688898932,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 130901,

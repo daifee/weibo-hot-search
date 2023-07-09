@@ -1,0 +1,410 @@
+{
+  "runTime": 1688901286808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1265073,
+        "num": 1265073,
+        "word": "一个不会离职的办公桌长啥样",
+        "onboard_time": 1688895451,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1011700,
+        "num": 1011700,
+        "word": "台湾面临鸡蛋过剩问题",
+        "onboard_time": 1688896954,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 16789,
+        "num": 757796,
+        "word": "一图了解中华文明探源工程主要成果",
+        "onboard_time": 1688874932,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014246,
+        "num": 741350,
+        "word": "倪妮发了30张自拍",
+        "onboard_time": 1688896592,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415851,
+        "num": 679691,
+        "word": "顾客买到生瓜留言2年后收到回复",
+        "onboard_time": 1688888309,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645884,
+        "num": 645884,
+        "word": "于途乔晶晶vs宋焰许沁",
+        "onboard_time": 1688895089,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370299,
+        "num": 617935,
+        "word": "粉衣姑娘暴雨中弃车救人",
+        "onboard_time": 1688896230,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594414,
+        "num": 594414,
+        "word": "第一次见男二一个人扫楼的",
+        "onboard_time": 1688899772,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584087,
+        "num": 584087,
+        "word": "Seventeen孙悟空首舞台在中国",
+        "onboard_time": 1688895872,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 564142,
+        "num": 564142,
+        "word": "家属回应6未成年入店抢劫致人死亡",
+        "onboard_time": 1688899473,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400771,
+        "num": 562381,
+        "word": "济南大学已报警",
+        "onboard_time": 1688893051,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1077195,
+        "num": 561712,
+        "word": "高铁上终于卖卫生巾了",
+        "onboard_time": 1688899173,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617143,
+        "num": 561458,
+        "word": "海南警方回应陪女友看演唱会男孩溺亡",
+        "onboard_time": 1688900433,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559573,
+        "num": 559573,
+        "word": "考上研究生却被人用来做生意",
+        "onboard_time": 1688892568,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537523,
+        "num": 537523,
+        "word": "郑州狗主悬赏1000万人民币寻狗",
+        "onboard_time": 1688900131,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474122,
+        "num": 474122,
+        "word": "王楚然小时候",
+        "onboard_time": 1688895271,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438647,
+        "num": 438647,
+        "word": "杨紫在MLB全明星",
+        "onboard_time": 1688897252,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 438008,
+        "num": 438008,
+        "word": "肖战为了玉骨遥剧宣好努力",
+        "onboard_time": 1688895995,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432472,
+        "num": 432472,
+        "word": "私搭浮桥案审判长被曝顶替他人上大学",
+        "onboard_time": 1688895692,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419729,
+        "num": 419729,
+        "word": "一鹿彤行偷偷藏不住版",
+        "onboard_time": 1688888731,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392333,
+        "num": 392333,
+        "word": "老外到美甲店消费100多元称没钱",
+        "onboard_time": 1688898509,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359552,
+        "num": 359552,
+        "word": "情侣顺利订婚后女方态度大转变",
+        "onboard_time": 1688898509,
+        "rank": 21,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 312978,
+        "num": 312978,
+        "word": "汤唯韩国坐地铁",
+        "onboard_time": 1688887411,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308734,
+        "num": 308734,
+        "word": "茶百道未定联名",
+        "onboard_time": 1688893892,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295892,
+        "num": 295892,
+        "word": "赵露思她超爱",
+        "onboard_time": 1688900972,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289888,
+        "num": 289888,
+        "word": "我再也没有寒暑假了",
+        "onboard_time": 1688899473,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260324,
+        "num": 260324,
+        "word": "这真的是同一个女生夏天的衣服",
+        "onboard_time": 1688893110,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259385,
+        "num": 259385,
+        "word": "吴佳尼晒与儿子游玩照",
+        "onboard_time": 1688895931,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255277,
+        "num": 255277,
+        "word": "范闲好像化了烟熏妆",
+        "onboard_time": 1688896053,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169517,
+        "num": 250447,
+        "word": "乌克兰承认曾对克里米亚大桥实施袭击",
+        "onboard_time": 1688893051,
+        "rank": 29,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 265087,
+        "num": 250231,
+        "word": "小狗生气时敷衍的握手",
+        "onboard_time": 1688899651,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 249268,
+        "num": 249268,
+        "word": "肖战在任敏微博评论区刷屏",
+        "onboard_time": 1688884049,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241818,
+        "num": 241818,
+        "word": "死神2豆瓣开分9.5",
+        "onboard_time": 1688895572,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 241037,
+        "num": 241037,
+        "word": "最后哈基米承受了一切",
+        "onboard_time": 1688900792,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237279,
+        "num": 237279,
+        "word": "日本北海道高浓度砒霜泄露",
+        "onboard_time": 1688895692,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233708,
+        "num": 233708,
+        "word": "白鹿粉色背带裤",
+        "onboard_time": 1688899831,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231516,
+        "num": 231516,
+        "word": "庆余年2",
+        "onboard_time": 1688898932,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218355,
+        "num": 218355,
+        "word": "朱丹跟周一围说市场都快把我忘了",
+        "onboard_time": 1688892332,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210684,
+        "num": 210684,
+        "word": "前金球奖得主苏亚雷斯去世",
+        "onboard_time": 1688894491,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 207411,
+        "num": 207411,
+        "word": "镇政府人员回应吉林私搭浮桥案",
+        "onboard_time": 1688901151,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200476,
+        "num": 200476,
+        "word": "这四个显眼包怎么变了",
+        "onboard_time": 1688888849,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199647,
+        "num": 199647,
+        "word": "减肥营被曝殴打未成年学员",
+        "onboard_time": 1688900492,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197496,
+        "num": 197496,
+        "word": "EDG对战FPX",
+        "onboard_time": 1688896774,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193967,
+        "num": 193967,
+        "word": "人间温暖",
+        "onboard_time": 1688900551,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 187023,
+        "num": 187023,
+        "word": "罗翔评男子修桥一家18口获刑",
+        "onboard_time": 1688896112,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185567,
+        "num": 185567,
+        "word": "今年四大出圈配角",
+        "onboard_time": 1688893230,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182432,
+        "num": 182432,
+        "word": "第一次见到老了的猫咪",
+        "onboard_time": 1688892332,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 179159,
+        "num": 179159,
+        "word": "天天发朋友圈会让人反感吗",
+        "onboard_time": 1688889092,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177490,
+        "num": 177490,
+        "word": "seventeen彩排了7次hot",
+        "onboard_time": 1688888489,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175066,
+        "num": 175066,
+        "word": "刚得知爸妈给我编了个男朋友",
+        "onboard_time": 1688901211,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会20天倒计时#"
+    }
+  }
+}
