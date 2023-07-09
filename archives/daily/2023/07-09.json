@@ -1,6 +1,6 @@
 {
   "startTime": 1688833408207,
-  "endTime": 1688908950231,
+  "endTime": 1688909626635,
   "band_list": [
     {
       "raw_hot": 4487950,
@@ -49,6 +49,14 @@
       "onboard_time": 1688904212,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1770795,
+      "num": 1770795,
+      "word": "孟宴臣 蝴蝶",
+      "onboard_time": 1688907511,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1718263,
@@ -120,14 +128,6 @@
       "word": "魏大勋反手开车门",
       "onboard_time": 1688874812,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1329328,
-      "num": 1329328,
-      "word": "孟宴臣 蝴蝶",
-      "onboard_time": 1688907511,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -483,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 691748,
+      "num": 691748,
+      "word": "朱颜假死",
+      "onboard_time": 1688904753,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 683694,
       "num": 683694,
       "word": "有点理解为啥找魏大勋演了",
@@ -523,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 650719,
-      "num": 650719,
+      "raw_hot": 661581,
+      "num": 661581,
       "word": "警方回应郑州一男子悬赏千万寻狗",
       "onboard_time": 1688905472,
       "rank": 32,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 642399,
-      "num": 661794,
+      "num": 674836,
       "word": "黑龙江一18个月女孩从6楼窗台坠亡",
       "onboard_time": 1688902412,
       "rank": 44,
@@ -551,14 +559,6 @@
       "num": 424694,
       "word": "难哄男主魏大勋来演怎么样",
       "onboard_time": 1688889512,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 636153,
-      "num": 636153,
-      "word": "朱颜假死",
-      "onboard_time": 1688904753,
       "rank": 12,
       "category": "影视"
     },
@@ -657,6 +657,14 @@
       "onboard_time": 1688898509,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544439,
+      "num": 544439,
+      "word": "范玉好蠢",
+      "onboard_time": 1688908231,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 543404,
@@ -787,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473745,
+      "num": 473745,
+      "word": "还没毕业被交了社保和公积金",
+      "onboard_time": 1688903311,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 473410,
       "num": 424293,
       "word": "当事人称没架桥前溺亡22位乡亲",
@@ -801,14 +817,6 @@
       "onboard_time": 1688902593,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466346,
-      "num": 466346,
-      "word": "还没毕业被交了社保和公积金",
-      "onboard_time": 1688903311,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 462976,
@@ -1035,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 402943,
+      "num": 270226,
+      "word": "3只小羊离家出走找到时已送上餐桌",
+      "onboard_time": 1688908474,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399673,
       "num": 399673,
       "word": "晚霞",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1688876429,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396997,
-      "num": 396997,
-      "word": "范玉好蠢",
-      "onboard_time": 1688908231,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 393964,
@@ -1243,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352360,
+      "num": 352360,
+      "word": "路人看秦岚的眼神",
+      "onboard_time": 1688908112,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351623,
       "num": 283618,
       "word": "心疼白敬亭一整期",
@@ -1315,6 +1331,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 328944,
+      "num": 328944,
+      "word": "极限挑战",
+      "onboard_time": 1688908351,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326625,
       "num": 326625,
       "word": "重庆果然是立体的",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1688851453,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317997,
-      "num": 317997,
-      "word": "路人看秦岚的眼神",
-      "onboard_time": 1688908112,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 317807,
@@ -1499,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293189,
+      "num": 333997,
+      "word": "私造浮桥案审判长免职后仍在法院上班",
+      "onboard_time": 1688906074,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289947,
       "num": 318845,
       "word": "乌克兰承认曾对克里米亚大桥实施袭击",
@@ -1579,14 +1603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275292,
-      "num": 319962,
-      "word": "私造浮桥案审判长免职后仍在法院上班",
-      "onboard_time": 1688906074,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273042,
       "num": 273042,
       "word": "LGD对战Hero",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1688867850,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 266989,
+      "num": 266989,
+      "word": "庆余年2",
+      "onboard_time": 1688898932,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 266520,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1688857278,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252689,
-      "num": 252689,
-      "word": "庆余年2",
-      "onboard_time": 1688898932,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 251886,
@@ -1947,14 +1963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217662,
-      "num": 217662,
-      "word": "极限挑战",
-      "onboard_time": 1688908351,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213659,
       "num": 213659,
       "word": "宋轶真的穿白色衣服了",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1688886989,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204480,
+      "num": 204480,
+      "word": "威神V澳门音乐节舞台",
+      "onboard_time": 1688909612,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 203480,
@@ -2227,14 +2243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179295,
-      "num": 179295,
-      "word": "3只小羊离家出走找到时已送上餐桌",
-      "onboard_time": 1688908474,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174609,
       "num": 234365,
       "word": "1岁半患儿彻底摆脱原生基因缺陷",
@@ -2419,6 +2427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127559,
+      "num": 216536,
+      "word": "4名熊猫侠跨省献出1600毫升救命血",
+      "onboard_time": 1688909554,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127247,
       "num": 198219,
       "word": "台北电影节",
@@ -2596,7 +2612,7 @@
     },
     {
       "raw_hot": 27554,
-      "num": 1387230,
+      "num": 1606463,
       "word": "一图了解中华文明探源工程主要成果",
       "onboard_time": 1688874932,
       "rank": 2,
