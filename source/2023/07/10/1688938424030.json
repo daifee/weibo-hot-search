@@ -1,0 +1,410 @@
+{
+  "runTime": 1688938424030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 146163,
+        "num": 146163,
+        "word": "海南警方回应陪女友看演唱会男孩溺亡",
+        "onboard_time": 1688900433,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110071,
+        "num": 110071,
+        "word": "张兰上诉被驳回",
+        "onboard_time": 1688921246,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 11429,
+        "num": 101050,
+        "word": "高考录取通知查询通道",
+        "onboard_time": 1688912917,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100755,
+        "num": 100755,
+        "word": "是谁去杭州给宋轶买的牛排包",
+        "onboard_time": 1688913874,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88125,
+        "num": 88125,
+        "word": "七月辞职 狼多肉少",
+        "onboard_time": 1688910754,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85930,
+        "num": 85930,
+        "word": "肖战下一部戏藏海戏麟",
+        "onboard_time": 1688915195,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84942,
+        "num": 84942,
+        "word": "宋焰的不幸 和女主相爱",
+        "onboard_time": 1688924359,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82669,
+        "num": 82669,
+        "word": "首尔街头采访韩国人加班",
+        "onboard_time": 1688919626,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75534,
+        "num": 75534,
+        "word": "穷的时候真的特别敏感",
+        "onboard_time": 1688917710,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69981,
+        "num": 69981,
+        "word": "我爱我家杭州公司高管全部被停职",
+        "onboard_time": 1688913335,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69768,
+        "num": 69768,
+        "word": "前任和现任的关系可以有多好",
+        "onboard_time": 1688918251,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62344,
+        "num": 62344,
+        "word": "2女子与蜜雪冰城员工起冲突",
+        "onboard_time": 1688913154,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61016,
+        "num": 61016,
+        "word": "警方通报北京政法职业学院学生纠纷",
+        "onboard_time": 1688911773,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56670,
+        "num": 56670,
+        "word": "你的睡眠也在变老",
+        "onboard_time": 1688913335,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47474,
+        "num": 56572,
+        "word": "张若昀直播剧透庆余年2",
+        "onboard_time": 1688927415,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46836,
+        "num": 56124,
+        "word": "有没有可能王一博穿了袜子",
+        "onboard_time": 1688926036,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44797,
+        "num": 56034,
+        "word": "26岁一想到明天上班还想哭",
+        "onboard_time": 1688914536,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43092,
+        "num": 55652,
+        "word": "赵露思2019年vs2023年",
+        "onboard_time": 1688917830,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43035,
+        "num": 55291,
+        "word": "亲密关系突然破裂",
+        "onboard_time": 1688917414,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40187,
+        "num": 55111,
+        "word": "汪苏泷开演唱会同时领了个奖",
+        "onboard_time": 1688937552,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74906,
+        "num": 54937,
+        "word": "独居老人没开空调致热痉挛咬断两颗牙",
+        "onboard_time": 1688918310,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54710,
+        "num": 54710,
+        "word": "你会整夜吹空调吗",
+        "onboard_time": 1688914956,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 41714,
+        "num": 54687,
+        "word": "白敬亭张昊唯没白来极限挑战",
+        "onboard_time": 1688918429,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39292,
+        "num": 54657,
+        "word": "男子花百元订蛋糕只有一层奶油",
+        "onboard_time": 1688912254,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39242,
+        "num": 54613,
+        "word": "孟宴臣 蝴蝶",
+        "onboard_time": 1688907511,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32667,
+        "num": 54575,
+        "word": "seventeen视频有了吗",
+        "onboard_time": 1688910934,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36328,
+        "num": 54543,
+        "word": "孟宴臣要开始发疯了",
+        "onboard_time": 1688911054,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31285,
+        "num": 54480,
+        "word": "文韬发脾气是这样的吗",
+        "onboard_time": 1688920465,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29975,
+        "num": 54443,
+        "word": "张杰年度最佳内地男歌手",
+        "onboard_time": 1688934132,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29723,
+        "num": 54417,
+        "word": "张元英露腰",
+        "onboard_time": 1688917710,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31069,
+        "num": 54385,
+        "word": "郑州狗主悬赏1000万人民币寻狗",
+        "onboard_time": 1688900131,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29706,
+        "num": 54344,
+        "word": "济南大学已报警",
+        "onboard_time": 1688893051,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 29160,
+        "num": 54302,
+        "word": "第一次看到这么活泼的扇贝",
+        "onboard_time": 1688935512,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 28415,
+        "num": 54255,
+        "word": "朱一龙眼睛太大被风吹走了隐形眼镜",
+        "onboard_time": 1688916453,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27908,
+        "num": 54235,
+        "word": "国产剧能不能边拍边播",
+        "onboard_time": 1688912014,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27404,
+        "num": 54191,
+        "word": "杨洋版孟宴臣",
+        "onboard_time": 1688918191,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27368,
+        "num": 54164,
+        "word": "法老走红毯",
+        "onboard_time": 1688919269,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26889,
+        "num": 54103,
+        "word": "专业人士回应遇离岸流如何自救",
+        "onboard_time": 1688930053,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27035,
+        "num": 54089,
+        "word": "seventeen舞台",
+        "onboard_time": 1688919507,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25577,
+        "num": 54041,
+        "word": "爱豆鹿晗回来了",
+        "onboard_time": 1688906431,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25015,
+        "num": 54005,
+        "word": "入职要填微博名该怎么办",
+        "onboard_time": 1688914774,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23283,
+        "num": 53942,
+        "word": "下辈子先预定一下这张脸",
+        "onboard_time": 1688919507,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 22979,
+        "num": 53906,
+        "word": "遇到离岸流有多危险",
+        "onboard_time": 1688930353,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22667,
+        "num": 53887,
+        "word": "一个不会离职的办公桌长啥样",
+        "onboard_time": 1688895451,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21594,
+        "num": 53825,
+        "word": "乒超",
+        "onboard_time": 1688928793,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21318,
+        "num": 53800,
+        "word": "玉骨遥",
+        "onboard_time": 1688931014,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20317,
+        "num": 53752,
+        "word": "倪妮发了30张自拍",
+        "onboard_time": 1688896592,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20077,
+        "num": 53714,
+        "word": "iG爆冷战胜JDG",
+        "onboard_time": 1688910452,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19575,
+        "num": 53685,
+        "word": "李灿中文",
+        "onboard_time": 1688913275,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17416,
+        "num": 53666,
+        "word": "Fofo Uzi想弄就跟",
+        "onboard_time": 1688910630,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#当千里江山图遇上壮美陕西#"
+    }
+  }
+}

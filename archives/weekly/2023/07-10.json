@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688937351142,
+  "endTime": 1688938424030,
   "band_list": [
     {
       "raw_hot": 1496601,
@@ -499,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40187,
+      "num": 55111,
+      "word": "汪苏泷开演唱会同时领了个奖",
+      "onboard_time": 1688937552,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 37564,
       "num": 57621,
       "word": "模特分享各种风格的拍照pose",
@@ -523,16 +531,24 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 28188,
-      "num": 50797,
+      "raw_hot": 29975,
+      "num": 54443,
       "word": "张杰年度最佳内地男歌手",
       "onboard_time": 1688934132,
       "rank": 40,
       "category": "音乐"
     },
     {
+      "raw_hot": 29160,
+      "num": 54302,
+      "word": "第一次看到这么活泼的扇贝",
+      "onboard_time": 1688935512,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 27838,
-      "num": 50734,
+      "num": 53906,
       "word": "遇到离岸流有多危险",
       "onboard_time": 1688930353,
       "rank": 35,
@@ -540,19 +556,11 @@
     },
     {
       "raw_hot": 24574,
-      "num": 50328,
+      "num": 53800,
       "word": "玉骨遥",
       "onboard_time": 1688931014,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23873,
-      "num": 49842,
-      "word": "第一次看到这么活泼的扇贝",
-      "onboard_time": 1688935512,
-      "rank": 35,
-      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
