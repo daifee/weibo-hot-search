@@ -1,0 +1,410 @@
+{
+  "runTime": 1688984471750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1239996,
+        "num": 1239996,
+        "word": "花店老板接33700元订单被利用参与洗钱",
+        "onboard_time": 1688974054,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362292,
+        "num": 1239821,
+        "word": "工人40度天高空作业女子隔窗送冷饮",
+        "onboard_time": 1688973210,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114619,
+        "num": 1232444,
+        "word": "黄河流域发现长达百万年连续古人类文化遗存",
+        "onboard_time": 1688974231,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2649371,
+        "num": 1229224,
+        "word": "Prada这次找对人了",
+        "onboard_time": 1688976696,
+        "rank": 3,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 335391,
+        "num": 1226670,
+        "word": "男孩泳池中央溺水20秒被好心男子救起",
+        "onboard_time": 1688971290,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2185128,
+        "num": 1223823,
+        "word": "难听",
+        "onboard_time": 1688982453,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96703,
+        "num": 1218413,
+        "word": "立志要进杂技圈的大熊猫",
+        "onboard_time": 1688983653,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1216990,
+        "num": 1216990,
+        "word": "警方通报网传济南大学留学生月补3万元",
+        "onboard_time": 1688982514,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1077085,
+        "num": 1077085,
+        "word": "网曝未满1岁婴儿坐船被要求买票",
+        "onboard_time": 1688979871,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862902,
+        "num": 862902,
+        "word": "melon",
+        "onboard_time": 1688983233,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 947901,
+        "num": 824200,
+        "word": "鹿晗死守男德",
+        "onboard_time": 1688981013,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 721691,
+        "num": 721691,
+        "word": "北京一房主被中介要求降价200万",
+        "onboard_time": 1688980351,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686036,
+        "num": 686036,
+        "word": "李飞你的对手来了",
+        "onboard_time": 1688981493,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625949,
+        "num": 625949,
+        "word": "千户苗寨火灾致2死6伤",
+        "onboard_time": 1688982272,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619877,
+        "num": 619877,
+        "word": "娜扎cos芈月",
+        "onboard_time": 1688977231,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 582970,
+        "num": 582970,
+        "word": "在孙权墓前放中科大录取通知书",
+        "onboard_time": 1688983233,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580649,
+        "num": 580649,
+        "word": "EXO回归新歌CreamSoda",
+        "onboard_time": 1688980112,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 568995,
+        "num": 568995,
+        "word": "B组签售",
+        "onboard_time": 1688978433,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 459549,
+        "num": 459549,
+        "word": "能感受到西安官方的兴奋了",
+        "onboard_time": 1688982334,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 417525,
+        "num": 417525,
+        "word": "Prada成为中国国家女子足球队官方合作伙伴",
+        "onboard_time": 1688973273,
+        "rank": 19,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 561250,
+        "num": 416319,
+        "word": "女子当街将男子压在身下欲强扒衣物",
+        "onboard_time": 1688975012,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408446,
+        "num": 408446,
+        "word": "TFBOYS十周年演唱会还不官宣吗",
+        "onboard_time": 1688976696,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370525,
+        "num": 370525,
+        "word": "李咏女儿将出道",
+        "onboard_time": 1688968895,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363625,
+        "num": 363625,
+        "word": "李现是怎么忍住甜品只吃一口的",
+        "onboard_time": 1688976513,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361882,
+        "num": 361882,
+        "word": "华莎被告发涉嫌演出淫乱罪",
+        "onboard_time": 1688960794,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358721,
+        "num": 358721,
+        "word": "曝Jennie将与YG解约",
+        "onboard_time": 1688961514,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345744,
+        "num": 345744,
+        "word": "谁给徐明浩戴的猫耳",
+        "onboard_time": 1688980773,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330702,
+        "num": 330702,
+        "word": "封神第一部",
+        "onboard_time": 1688982994,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303598,
+        "num": 303598,
+        "word": "租房就是不想多花一分钱",
+        "onboard_time": 1688982693,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300281,
+        "num": 300281,
+        "word": "7D的新娘2D的新郎",
+        "onboard_time": 1688979753,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352585,
+        "num": 293555,
+        "word": "日男子照顾瘫痪妻子40年将其推入大海",
+        "onboard_time": 1688983653,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323031,
+        "num": 292020,
+        "word": "魏大勋还有3部待播剧",
+        "onboard_time": 1688981733,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306785,
+        "num": 287699,
+        "word": "EXO回归直播",
+        "onboard_time": 1688972552,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281956,
+        "num": 281956,
+        "word": "谢娜听不懂蔡少芬吵架时说什么",
+        "onboard_time": 1688971532,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275752,
+        "num": 275752,
+        "word": "抓到植物偷偷喝水",
+        "onboard_time": 1688980112,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269057,
+        "num": 269057,
+        "word": "头像真的会影响聊天欲望",
+        "onboard_time": 1688977352,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 268534,
+        "num": 268534,
+        "word": "ZB1出道专辑",
+        "onboard_time": 1688979932,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266052,
+        "num": 266052,
+        "word": "章昊solo曲",
+        "onboard_time": 1688983711,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227116,
+        "num": 227116,
+        "word": "千户苗寨着火有人顺白布跳下三楼",
+        "onboard_time": 1688981432,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224245,
+        "num": 224245,
+        "word": "广东廉江发生一起故意伤害案致6死1伤",
+        "onboard_time": 1688959112,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258320,
+        "num": 224183,
+        "word": "ZB1全员唱功",
+        "onboard_time": 1688979334,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248342,
+        "num": 224152,
+        "word": "偷偷藏不住算爆剧吗",
+        "onboard_time": 1688976094,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245993,
+        "num": 224005,
+        "word": "全圆佑顺毛黑框",
+        "onboard_time": 1688983472,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239636,
+        "num": 223927,
+        "word": "Seventeen广州签售会",
+        "onboard_time": 1688971591,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223909,
+        "num": 223909,
+        "word": "无聊行为怎么做到全球统一的",
+        "onboard_time": 1688983351,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206646,
+        "num": 206646,
+        "word": "魏大勋算爆了吗",
+        "onboard_time": 1688950413,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195729,
+        "num": 195729,
+        "word": "正午顶光怎么拍",
+        "onboard_time": 1688984433,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180952,
+        "num": 180952,
+        "word": "毕业后一直在当女大学生",
+        "onboard_time": 1688955752,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 150049,
+        "num": 180889,
+        "word": "高温让空调安装师傅成了最难约的人",
+        "onboard_time": 1688968295,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135501,
+        "num": 180446,
+        "word": "LPL季后赛落地西安",
+        "onboard_time": 1688975315,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}

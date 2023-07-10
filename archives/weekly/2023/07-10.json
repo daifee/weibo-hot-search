@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688981655655,
+  "endTime": 1688984471750,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -25,6 +25,14 @@
       "onboard_time": 1688950413,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2649371,
+      "num": 1229224,
+      "word": "Prada这次找对人了",
+      "onboard_time": 1688976696,
+      "rank": 15,
+      "category": "时尚,体育"
     },
     {
       "raw_hot": 2505184,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2224569,
-      "num": 1103985,
-      "word": "Prada这次找对人了",
-      "onboard_time": 1688976696,
-      "rank": 15,
-      "category": "时尚,体育"
-    },
-    {
       "raw_hot": 2220146,
       "num": 2220146,
       "word": "乔任梁父亲自曝住院",
@@ -81,6 +81,14 @@
       "onboard_time": 1688968895,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2185128,
+      "num": 1223823,
+      "word": "难听",
+      "onboard_time": 1688982453,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1929095,
@@ -155,6 +163,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1216990,
+      "num": 1216990,
+      "word": "警方通报网传济南大学留学生月补3万元",
+      "onboard_time": 1688982514,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1211217,
       "num": 1211217,
       "word": "父亲称蹲守杀害女儿者非前任而是追求者",
@@ -177,6 +193,14 @@
       "onboard_time": 1688910754,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1077085,
+      "num": 1077085,
+      "word": "网曝未满1岁婴儿坐船被要求买票",
+      "onboard_time": 1688979871,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1055322,
@@ -241,6 +265,14 @@
       "onboard_time": 1688964101,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947901,
+      "num": 824200,
+      "word": "鹿晗死守男德",
+      "onboard_time": 1688981013,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 942568,
@@ -313,6 +345,14 @@
       "onboard_time": 1688964040,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862902,
+      "num": 862902,
+      "word": "melon",
+      "onboard_time": 1688983233,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 849487,
@@ -427,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 721691,
+      "num": 721691,
+      "word": "北京一房主被中介要求降价200万",
+      "onboard_time": 1688980351,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714258,
       "num": 714258,
       "word": "李俊昊林允儿亲了两分钟",
@@ -459,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686036,
+      "num": 686036,
+      "word": "李飞你的对手来了",
+      "onboard_time": 1688981493,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675298,
       "num": 675298,
       "word": "李秀满将在中国选秀",
@@ -473,14 +529,6 @@
       "onboard_time": 1688917710,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 670596,
-      "num": 456680,
-      "word": "网曝未满1岁婴儿坐船被要求买票",
-      "onboard_time": 1688979871,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 668297,
@@ -539,11 +587,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 626541,
-      "num": 456629,
-      "word": "北京一房主被中介要求降价200万",
-      "onboard_time": 1688980351,
-      "rank": 19,
+      "raw_hot": 625949,
+      "num": 625949,
+      "word": "千户苗寨火灾致2死6伤",
+      "onboard_time": 1688982272,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -569,6 +617,14 @@
       "onboard_time": 1688951011,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 582970,
+      "num": 582970,
+      "word": "在孙权墓前放中科大录取通知书",
+      "onboard_time": 1688983233,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 578424,
@@ -668,7 +724,7 @@
     },
     {
       "raw_hot": 488961,
-      "num": 261922,
+      "num": 300281,
       "word": "7D的新娘2D的新郎",
       "onboard_time": 1688979753,
       "rank": 30,
@@ -731,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 459549,
+      "num": 459549,
+      "word": "能感受到西安官方的兴奋了",
+      "onboard_time": 1688982334,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456266,
       "num": 456266,
       "word": "肖战回应火烧云",
@@ -739,16 +803,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 454660,
-      "num": 454660,
-      "word": "鹿晗死守男德",
-      "onboard_time": 1688981013,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 441900,
-      "num": 441900,
+      "num": 1226670,
       "word": "男孩泳池中央溺水20秒被好心男子救起",
       "onboard_time": 1688971290,
       "rank": 17,
@@ -963,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 362292,
+      "num": 1239821,
+      "word": "工人40度天高空作业女子隔窗送冷饮",
+      "onboard_time": 1688973210,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357512,
       "num": 294522,
       "word": "ZB1出道专辑",
@@ -987,12 +1051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352585,
+      "num": 293555,
+      "word": "日男子照顾瘫痪妻子40年将其推入大海",
+      "onboard_time": 1688983653,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348638,
       "num": 348638,
       "word": "亲密关系突然破裂",
       "onboard_time": 1688917414,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 345744,
+      "num": 345744,
+      "word": "谁给徐明浩戴的猫耳",
+      "onboard_time": 1688980773,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 336127,
@@ -1027,6 +1107,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 330702,
+      "num": 330702,
+      "word": "封神第一部",
+      "onboard_time": 1688982994,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325985,
       "num": 213191,
       "word": "南大0001号录取通知书获得者",
@@ -1035,12 +1123,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 317267,
-      "num": 317267,
-      "word": "工人40度天高空作业女子隔窗送冷饮",
-      "onboard_time": 1688973210,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 323031,
+      "num": 292020,
+      "word": "魏大勋还有3部待播剧",
+      "onboard_time": 1688981733,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 316273,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1688968295,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303598,
+      "num": 303598,
+      "word": "租房就是不想多花一分钱",
+      "onboard_time": 1688982693,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 302216,
@@ -1267,6 +1363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 266052,
+      "num": 266052,
+      "word": "章昊solo曲",
+      "onboard_time": 1688983711,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265783,
       "num": 265783,
       "word": "女子打多份工养育去世哥哥孩子",
@@ -1403,6 +1507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245993,
+      "num": 224005,
+      "word": "全圆佑顺毛黑框",
+      "onboard_time": 1688983472,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242217,
       "num": 242217,
       "word": "暗夜与黎明首批阵容官宣",
@@ -1417,14 +1529,6 @@
       "onboard_time": 1688968533,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231339,
-      "num": 214253,
-      "word": "李飞你的对手来了",
-      "onboard_time": 1688981493,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 229854,
@@ -1443,12 +1547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 228920,
-      "num": 228920,
-      "word": "谁给徐明浩戴的猫耳",
-      "onboard_time": 1688980773,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 227116,
+      "num": 227116,
+      "word": "千户苗寨着火有人顺白布跳下三楼",
+      "onboard_time": 1688981432,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225834,
@@ -1457,6 +1561,14 @@
       "onboard_time": 1688950593,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223909,
+      "num": 223909,
+      "word": "无聊行为怎么做到全球统一的",
+      "onboard_time": 1688983351,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 223740,
@@ -1521,14 +1633,6 @@
       "onboard_time": 1688956711,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218196,
-      "num": 218196,
-      "word": "千户苗寨着火有人顺白布跳下三楼",
-      "onboard_time": 1688981432,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217817,
@@ -1739,6 +1843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195729,
+      "num": 195729,
+      "word": "正午顶光怎么拍",
+      "onboard_time": 1688984433,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195243,
       "num": 195243,
       "word": "400米巨轮海上倒车入库有多丝滑",
@@ -1796,7 +1908,7 @@
     },
     {
       "raw_hot": 183727,
-      "num": 1176771,
+      "num": 1232444,
       "word": "黄河流域发现长达百万年连续古人类文化遗存",
       "onboard_time": 1688974231,
       "rank": 2,
@@ -1977,6 +2089,14 @@
       "onboard_time": 1688952749,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96703,
+      "num": 1218413,
+      "word": "立志要进杂技圈的大熊猫",
+      "onboard_time": 1688983653,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 95990,
