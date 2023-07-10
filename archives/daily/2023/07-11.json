@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689021231518,
+  "endTime": 1689023819084,
   "band_list": [
     {
       "raw_hot": 2672619,
@@ -467,12 +467,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 57716,
+      "raw_hot": 64332,
       "num": 57716,
       "word": "吉林私搭浮桥多名过桥者发声",
       "onboard_time": 1689014595,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63446,
+      "num": 55834,
+      "word": "原来垃圾袋可以套好几个",
+      "onboard_time": 1689019691,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 60251,
+      "num": 54374,
+      "word": "魏大勋发蝴蝶墙",
+      "onboard_time": 1689021191,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 53654,
@@ -491,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 45572,
-      "num": 55834,
-      "word": "原来垃圾袋可以套好几个",
-      "onboard_time": 1689019691,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 41676,
       "num": 54531,
       "word": "王楚然早期旧照",
@@ -508,18 +516,10 @@
     },
     {
       "raw_hot": 33667,
-      "num": 48017,
+      "num": 50116,
       "word": "桑延终于有自己的城堡了",
       "onboard_time": 1688997996,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 17149,
-      "num": 54374,
-      "word": "魏大勋发蝴蝶墙",
-      "onboard_time": 1689021191,
-      "rank": 46,
       "category": "影视"
     }
   ],
