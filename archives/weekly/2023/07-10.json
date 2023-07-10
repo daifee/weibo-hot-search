@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689014304940,
+  "endTime": 1689016533145,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -2889,6 +2889,22 @@
       "onboard_time": 1688908231,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 43046,
+      "num": 48522,
+      "word": "把玉骨遥第八集搬进了婚礼现场",
+      "onboard_time": 1689015313,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 41376,
+      "num": 48456,
+      "word": "吉林私搭浮桥多名过桥者发声",
+      "onboard_time": 1689014595,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37867,
