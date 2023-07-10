@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689023819084,
+  "endTime": 1689024849679,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -24899,6 +24899,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75348,
+      "num": 54374,
+      "word": "魏大勋发蝴蝶墙",
+      "onboard_time": 1689021191,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 73879,
+      "num": 57716,
+      "word": "吉林私搭浮桥多名过桥者发声",
+      "onboard_time": 1689014595,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73118,
       "num": 93044,
       "word": "LGD新首发阵容",
@@ -24979,6 +24995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68157,
+      "num": 55834,
+      "word": "原来垃圾袋可以套好几个",
+      "onboard_time": 1689019691,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67496,
       "num": 67496,
       "word": "你会为了省钱放弃喜欢的东西吗",
@@ -25027,14 +25051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64332,
-      "num": 57716,
-      "word": "吉林私搭浮桥多名过桥者发声",
-      "onboard_time": 1689014595,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64307,
       "num": 514163,
       "word": "去香港一定要看的出片攻略",
@@ -25049,14 +25065,6 @@
       "onboard_time": 1688320398,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 63446,
-      "num": 55834,
-      "word": "原来垃圾袋可以套好几个",
-      "onboard_time": 1689019691,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 63425,
@@ -25083,20 +25091,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 60251,
-      "num": 54374,
-      "word": "魏大勋发蝴蝶墙",
-      "onboard_time": 1689021191,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 59735,
       "num": 59735,
       "word": "有没有人考虑吴磊的感受",
       "onboard_time": 1688755215,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59222,
+      "num": 60340,
+      "word": "把玉骨遥第八集搬进了婚礼现场",
+      "onboard_time": 1689015313,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 59011,
@@ -25169,14 +25177,6 @@
       "onboard_time": 1688371483,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 53152,
-      "num": 60340,
-      "word": "把玉骨遥第八集搬进了婚礼现场",
-      "onboard_time": 1689015313,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 52080,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689023819084,
+  "endTime": 1689024849679,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -2867,6 +2867,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75348,
+      "num": 54374,
+      "word": "魏大勋发蝴蝶墙",
+      "onboard_time": 1689021191,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 73879,
+      "num": 57716,
+      "word": "吉林私搭浮桥多名过桥者发声",
+      "onboard_time": 1689014595,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70204,
       "num": 70204,
       "word": "高温天女子给工人送2瓶冰水解暑",
@@ -2875,15 +2891,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64332,
-      "num": 57716,
-      "word": "吉林私搭浮桥多名过桥者发声",
-      "onboard_time": 1689014595,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63446,
+      "raw_hot": 68157,
       "num": 55834,
       "word": "原来垃圾袋可以套好几个",
       "onboard_time": 1689019691,
@@ -2891,11 +2899,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60251,
-      "num": 54374,
-      "word": "魏大勋发蝴蝶墙",
-      "onboard_time": 1689021191,
-      "rank": 46,
+      "raw_hot": 59222,
+      "num": 60340,
+      "word": "把玉骨遥第八集搬进了婚礼现场",
+      "onboard_time": 1689015313,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -2913,14 +2921,6 @@
       "onboard_time": 1688964459,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53152,
-      "num": 60340,
-      "word": "把玉骨遥第八集搬进了婚礼现场",
-      "onboard_time": 1689015313,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 49865,
