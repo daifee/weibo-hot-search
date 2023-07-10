@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688977550136,
+  "endTime": 1688978372579,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -99,19 +99,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1659793,
+      "num": 1659793,
+      "word": "花店老板接33700元订单被利用参与洗钱",
+      "onboard_time": 1688974054,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1612033,
       "num": 1116732,
       "word": "廉江回应有人持刀在幼儿园行凶",
       "onboard_time": 1688959532,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1548446,
-      "num": 1548446,
-      "word": "花店老板接33700元订单被利用参与洗钱",
-      "onboard_time": 1688974054,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -211,6 +211,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 975008,
+      "num": 975008,
+      "word": "Prada这次找对人了",
+      "onboard_time": 1688976696,
+      "rank": 15,
+      "category": "时尚,体育"
+    },
+    {
       "raw_hot": 963348,
       "num": 963348,
       "word": "肖战下一部戏藏海戏麟",
@@ -243,7 +251,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 912719,
+      "raw_hot": 927937,
       "num": 424378,
       "word": "女子当街将男子压在身下欲强扒衣物",
       "onboard_time": 1688975012,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869836,
+      "num": 869836,
+      "word": "娜扎cos芈月",
+      "onboard_time": 1688977231,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 849487,
       "num": 849487,
       "word": "大熊猫捡到游客的伞还给撑开了",
@@ -321,6 +337,14 @@
       "onboard_time": 1688958092,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805840,
+      "num": 805840,
+      "word": "TFBOYS十周年演唱会还不官宣吗",
+      "onboard_time": 1688976696,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 783437,
@@ -395,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690425,
+      "num": 655624,
+      "word": "偷偷藏不住算爆剧吗",
+      "onboard_time": 1688976094,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 688357,
       "num": 688357,
       "word": "眼镜是显眼包最好的封印",
@@ -465,14 +497,6 @@
       "onboard_time": 1688916453,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 624521,
-      "num": 624521,
-      "word": "偷偷藏不住算爆剧吗",
-      "onboard_time": 1688976094,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 619843,
@@ -584,22 +608,6 @@
       "word": "爱豆鹿晗回来了",
       "onboard_time": 1688906431,
       "rank": 13,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 503088,
-      "num": 503088,
-      "word": "Prada这次找对人了",
-      "onboard_time": 1688976696,
-      "rank": 15,
-      "category": "时尚,体育"
-    },
-    {
-      "raw_hot": 494804,
-      "num": 494804,
-      "word": "TFBOYS十周年演唱会还不官宣吗",
-      "onboard_time": 1688976696,
-      "rank": 16,
       "category": "音乐"
     },
     {
@@ -819,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397446,
+      "num": 309995,
+      "word": "李现是怎么忍住甜品只吃一口的",
+      "onboard_time": 1688976513,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386769,
       "num": 302069,
       "word": "TMEA导播叫尹净汉最漂亮的那个",
@@ -865,14 +881,6 @@
       "onboard_time": 1688967395,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375367,
-      "num": 344592,
-      "word": "娜扎cos芈月",
-      "onboard_time": 1688977231,
-      "rank": 26,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 375230,
@@ -923,14 +931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 336473,
-      "num": 297611,
-      "word": "李现是怎么忍住甜品只吃一口的",
-      "onboard_time": 1688976513,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336127,
       "num": 336127,
       "word": "白敬亭张昊唯没白来极限挑战",
@@ -977,6 +977,14 @@
       "onboard_time": 1688958329,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 309522,
+      "num": 272633,
+      "word": "谁最离不开BLACKPINK",
+      "onboard_time": 1688976454,
+      "rank": 32,
+      "category": "艺人,情感"
     },
     {
       "raw_hot": 308100,
@@ -1051,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 290658,
+      "num": 290658,
+      "word": "工人40度天高空作业女子隔窗送冷饮",
+      "onboard_time": 1688973210,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289938,
       "num": 289938,
       "word": "饿了么免单",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1688896592,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288591,
-      "num": 288591,
-      "word": "工人40度天高空作业女子隔窗送冷饮",
-      "onboard_time": 1688973210,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287401,
@@ -1145,14 +1153,6 @@
       "onboard_time": 1688916513,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272633,
-      "num": 272633,
-      "word": "谁最离不开BLACKPINK",
-      "onboard_time": 1688976454,
-      "rank": 32,
-      "category": "艺人,情感"
     },
     {
       "raw_hot": 271762,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1688958450,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222047,
+      "num": 222047,
+      "word": "总要去广州线下追一次星吧",
+      "onboard_time": 1688977831,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 221179,
@@ -1699,6 +1707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163377,
+      "num": 163377,
+      "word": "为了带猫咪做绝育有多拼",
+      "onboard_time": 1688977173,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 156744,
       "num": 156744,
       "word": "张杰年度最佳内地男歌手",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1688921365,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147491,
+      "num": 163243,
+      "word": "司机斑马线前礼让一家人整齐鞠躬致谢",
+      "onboard_time": 1688978193,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145878,
@@ -1843,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89014,
+      "num": 583789,
+      "word": "全球变暖或加剧皮肤问题",
+      "onboard_time": 1688976513,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85353,
       "num": 762404,
       "word": "为中国女足加油",
@@ -1880,14 +1912,6 @@
       "word": "高温天女子给工人送2瓶冰水解暑",
       "onboard_time": 1688943921,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59174,
-      "num": 513401,
-      "word": "全球变暖或加剧皮肤问题",
-      "onboard_time": 1688976513,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
