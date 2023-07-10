@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688958212969,
+  "endTime": 1688958725159,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -795,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2474381,
+      "num": 1061540,
+      "word": "曝李玟老公找律师推翻遗嘱",
+      "onboard_time": 1688955090,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2464994,
       "num": 878847,
       "word": "女子不穿内裤试衣隔天要求退换遭拒",
@@ -825,14 +833,6 @@
       "onboard_time": 1688172210,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2400797,
-      "num": 1061540,
-      "word": "曝李玟老公找律师推翻遗嘱",
-      "onboard_time": 1688955090,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 2393359,
@@ -1315,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1929095,
+      "num": 1929095,
+      "word": "为什么不建议要求伴侣情绪稳定",
+      "onboard_time": 1688955270,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1925599,
       "num": 1199522,
       "word": "播一部爆一部的演员",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1688298513,
       "rank": 1,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 1744881,
-      "num": 1744881,
-      "word": "为什么不建议要求伴侣情绪稳定",
-      "onboard_time": 1688955270,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 1742717,
@@ -6420,7 +6420,7 @@
     },
     {
       "raw_hot": 664872,
-      "num": 559326,
+      "num": 585764,
       "word": "李玟二姐回应李玟老公争遗产",
       "onboard_time": 1688955153,
       "rank": 30,
@@ -8067,6 +8067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543961,
+      "num": 543961,
+      "word": "seventeen广州",
+      "onboard_time": 1688956290,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543725,
       "num": 543725,
       "word": "LPL",
@@ -8249,6 +8257,14 @@
       "onboard_time": 1688811330,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 532299,
+      "num": 422870,
+      "word": "种地吧 文化输出",
+      "onboard_time": 1688957309,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 531467,
@@ -8457,14 +8473,6 @@
       "onboard_time": 1688534497,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 515766,
-      "num": 515766,
-      "word": "seventeen广州",
-      "onboard_time": 1688956290,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 515427,
@@ -10315,6 +10323,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 424191,
+      "num": 424191,
+      "word": "文班亚马隔扣",
+      "onboard_time": 1688954549,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423838,
       "num": 423838,
       "word": "刘昊然原来穿的是高跟鞋",
@@ -10395,12 +10411,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 420257,
-      "num": 420257,
-      "word": "文班亚马隔扣",
-      "onboard_time": 1688954549,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 419978,
+      "num": 419978,
+      "word": "粉丝在薛之谦演唱会表白张艺兴",
+      "onboard_time": 1688954610,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 418734,
@@ -10449,14 +10465,6 @@
       "onboard_time": 1688195130,
       "rank": 31,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 416501,
-      "num": 277025,
-      "word": "种地吧 文化输出",
-      "onboard_time": 1688957309,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 416419,
@@ -11329,14 +11337,6 @@
       "onboard_time": 1688437535,
       "rank": 21,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 381846,
-      "num": 281911,
-      "word": "粉丝在薛之谦演唱会表白张艺兴",
-      "onboard_time": 1688954610,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 381550,
@@ -13459,6 +13459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316110,
+      "num": 262515,
+      "word": "常州音乐节",
+      "onboard_time": 1688958329,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 315416,
       "num": 284782,
       "word": "没有小猫这个家真的得散",
@@ -14171,6 +14179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297199,
+      "num": 261733,
+      "word": "白敬亭这次不心疼他的鞋了",
+      "onboard_time": 1688945065,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297182,
       "num": 297182,
       "word": "林宥嘉武汉",
@@ -14785,6 +14801,14 @@
       "onboard_time": 1688263289,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 283778,
+      "num": 260449,
+      "word": "王艺迪",
+      "onboard_time": 1688958270,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 283609,
@@ -15411,6 +15435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269017,
+      "num": 259002,
+      "word": "阳神动画开播",
+      "onboard_time": 1688958329,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 268338,
       "num": 221781,
       "word": "张睿遥吻空吻",
@@ -15465,6 +15497,14 @@
       "onboard_time": 1688867850,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267147,
+      "num": 267147,
+      "word": "上万韩国人竞聘福宝一日饲养员助理",
+      "onboard_time": 1688958092,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266615,
@@ -16267,6 +16307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 252898,
+      "num": 263792,
+      "word": "婚车偶遇新娘互换捧花彼此祝福",
+      "onboard_time": 1688953349,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252878,
       "num": 252878,
       "word": "可爱小猫嘬手手",
@@ -16339,6 +16387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251243,
+      "num": 251243,
+      "word": "永远年轻永远有人正在办公",
+      "onboard_time": 1688956892,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 251164,
       "num": 251164,
       "word": "间谍潜藏十七年终落网",
@@ -16384,14 +16440,6 @@
       "word": "女子种地5600亩国企老公辞职支持",
       "onboard_time": 1688267910,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250490,
-      "num": 250490,
-      "word": "婚车偶遇新娘互换捧花彼此祝福",
-      "onboard_time": 1688953349,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -16875,6 +16923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241581,
+      "num": 241581,
+      "word": "吉林违建浮桥举报者受访",
+      "onboard_time": 1688957551,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241561,
       "num": 241561,
       "word": "汉字在外国人眼里是什么样的",
@@ -16985,14 +17041,6 @@
       "onboard_time": 1688795909,
       "rank": 36,
       "category": "自然"
-    },
-    {
-      "raw_hot": 240008,
-      "num": 240008,
-      "word": "白敬亭这次不心疼他的鞋了",
-      "onboard_time": 1688945065,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 239609,
@@ -17539,14 +17587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 228041,
-      "num": 228041,
-      "word": "永远年轻永远有人正在办公",
-      "onboard_time": 1688956892,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 227875,
       "num": 227875,
       "word": "肖战任敏新剧立意",
@@ -17945,6 +17985,14 @@
       "onboard_time": 1688455654,
       "rank": 42,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 222208,
+      "num": 222208,
+      "word": "芒禾音乐节开售",
+      "onboard_time": 1688958450,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 222148,
@@ -19651,6 +19699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196218,
+      "num": 196218,
+      "word": "赵丽颖蝴蝶结白裙",
+      "onboard_time": 1688958629,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 196005,
       "num": 196005,
       "word": "EDG",
@@ -19825,14 +19881,6 @@
       "onboard_time": 1688191113,
       "rank": 49,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 194212,
-      "num": 194212,
-      "word": "吉林违建浮桥举报者受访",
-      "onboard_time": 1688957551,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194205,
@@ -20119,6 +20167,14 @@
       "num": 190563,
       "word": "村民私建浮桥被判刑当地法院已立案",
       "onboard_time": 1688790152,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190492,
+      "num": 190492,
+      "word": "郑州通报金水河综合整治工程情况",
+      "onboard_time": 1688958513,
       "rank": 45,
       "category": "社会新闻"
     },
