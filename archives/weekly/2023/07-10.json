@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689010519153,
+  "endTime": 1689013453950,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -2019,6 +2019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247767,
+      "num": 247767,
+      "word": "终于有狗子愿意理肖战了",
+      "onboard_time": 1689008961,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247073,
       "num": 247073,
       "word": "养娃后衣服码数变大的原因",
@@ -2473,14 +2481,6 @@
       "onboard_time": 1688975552,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189429,
-      "num": 189429,
-      "word": "终于有狗子愿意理肖战了",
-      "onboard_time": 1689008961,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 189241,
