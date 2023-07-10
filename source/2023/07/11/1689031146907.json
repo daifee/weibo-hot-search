@@ -1,0 +1,410 @@
+{
+  "runTime": 1689031146907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2241649,
+        "num": 2241649,
+        "word": "死臀综合征",
+        "onboard_time": 1689002617,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1193261,
+        "num": 1193261,
+        "word": "CA1524 颠簸",
+        "onboard_time": 1689007704,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45012,
+        "num": 842241,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1688992051,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731757,
+        "num": 731757,
+        "word": "原来垃圾袋可以套好几个",
+        "onboard_time": 1689019691,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 722275,
+        "num": 722275,
+        "word": "终于有狗子愿意理肖战了",
+        "onboard_time": 1689008961,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525511,
+        "num": 525511,
+        "word": "杨洋大大方方营业",
+        "onboard_time": 1689000158,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364082,
+        "num": 364082,
+        "word": "把玉骨遥第八集搬进了婚礼现场",
+        "onboard_time": 1689015313,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313998,
+        "num": 313998,
+        "word": "她脱下雨衣的那一刻真美",
+        "onboard_time": 1689003274,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 308097,
+        "num": 308097,
+        "word": "入伏",
+        "onboard_time": 1689030322,
+        "rank": 8,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 293484,
+        "num": 293484,
+        "word": "女孩高考超一本线35分却报专科",
+        "onboard_time": 1688990072,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 437764,
+        "num": 285407,
+        "word": "吉林私搭浮桥多名过桥者发声",
+        "onboard_time": 1689014595,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268189,
+        "num": 268189,
+        "word": "为小朋友提供杯子分饮料后续暖哭",
+        "onboard_time": 1689027796,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265443,
+        "num": 265443,
+        "word": "魏大勋发蝴蝶墙",
+        "onboard_time": 1689021191,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253020,
+        "num": 253020,
+        "word": "王一博热烈惊喜派对跳舞太燃了",
+        "onboard_time": 1689005073,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261922,
+        "num": 217416,
+        "word": "许沁改姓",
+        "onboard_time": 1689002075,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178606,
+        "num": 178606,
+        "word": "商洛2岁男童走失6天在山顶被找到",
+        "onboard_time": 1688989890,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170116,
+        "num": 170116,
+        "word": "日男子照顾瘫痪妻子40年将其推入大海",
+        "onboard_time": 1688983653,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166066,
+        "num": 166066,
+        "word": "肖战时影内啡肽穿搭",
+        "onboard_time": 1689017053,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149743,
+        "num": 149743,
+        "word": "村民以为挖到废铁玩着玩着发现是国宝",
+        "onboard_time": 1688996555,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148734,
+        "num": 148734,
+        "word": "金奎彬晕倒",
+        "onboard_time": 1689003873,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238650,
+        "num": 146802,
+        "word": "女子当街将男子压在身下欲强扒衣物",
+        "onboard_time": 1688975012,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185282,
+        "num": 145701,
+        "word": "冉莹颖让两个儿子独自出国",
+        "onboard_time": 1688987071,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143354,
+        "num": 143354,
+        "word": "中3250万英镑的英国夫妻分手各结新欢",
+        "onboard_time": 1689005969,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142215,
+        "num": 142215,
+        "word": "关晓彤范丞丞新剧吻戏",
+        "onboard_time": 1688997214,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140941,
+        "num": 140941,
+        "word": "专家称猴痘不太可能大规模传播",
+        "onboard_time": 1688996254,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139976,
+        "num": 139976,
+        "word": "7旬老人运500斤大石缸为孙女种荷花",
+        "onboard_time": 1689026714,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132505,
+        "num": 132505,
+        "word": "孟子义算命",
+        "onboard_time": 1689004173,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124974,
+        "num": 124974,
+        "word": "新版妲己 猫咪纹",
+        "onboard_time": 1688989111,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122400,
+        "num": 122400,
+        "word": "薛小婉又又分手了",
+        "onboard_time": 1688991452,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121071,
+        "num": 121071,
+        "word": "家庭氛围会影响孩子性格吗",
+        "onboard_time": 1689002376,
+        "rank": 29,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 111140,
+        "num": 111140,
+        "word": "4招识破真假护肤品",
+        "onboard_time": 1689004829,
+        "rank": 30,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 110703,
+        "num": 110703,
+        "word": "Prada这次找对人了",
+        "onboard_time": 1688976696,
+        "rank": 31,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 109931,
+        "num": 109931,
+        "word": "曾少年女大学生吃菌子出幻觉",
+        "onboard_time": 1688992233,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105031,
+        "num": 105031,
+        "word": "魏大勋隐忍式哭戏",
+        "onboard_time": 1688999917,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103720,
+        "num": 103720,
+        "word": "芈月宝格丽新皮肤",
+        "onboard_time": 1688993312,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102966,
+        "num": 102966,
+        "word": "刘星和姥姥再续祖孙情",
+        "onboard_time": 1689005073,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91884,
+        "num": 91884,
+        "word": "千户苗寨火灾致2死6伤",
+        "onboard_time": 1688982272,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96769,
+        "num": 90455,
+        "word": "孙珍妮又演狐狸",
+        "onboard_time": 1689000576,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87243,
+        "num": 87243,
+        "word": "印度大巴名不虚传",
+        "onboard_time": 1689006568,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 85821,
+        "num": 85821,
+        "word": "还以为小狗在修仙",
+        "onboard_time": 1689028638,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81320,
+        "num": 81320,
+        "word": "李昊 人齐了啊",
+        "onboard_time": 1689002075,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77735,
+        "num": 77735,
+        "word": "陕西省发现一例猴痘病例",
+        "onboard_time": 1688994153,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77219,
+        "num": 77219,
+        "word": "装扮成狮子的小金毛宝宝",
+        "onboard_time": 1689030142,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 74598,
+        "num": 74598,
+        "word": "TF家族官方账号在掉粉",
+        "onboard_time": 1688993734,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 67427,
+        "num": 74595,
+        "word": "王楚然早期旧照",
+        "onboard_time": 1688985513,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63507,
+        "num": 74578,
+        "word": "有人看乐子 有人照镜子",
+        "onboard_time": 1689006748,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62779,
+        "num": 74567,
+        "word": "饭后整齐洗脸的可爱猫猫",
+        "onboard_time": 1689005370,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 57094,
+        "num": 74551,
+        "word": "今年入伏后还会更热吗",
+        "onboard_time": 1689031104,
+        "rank": 47,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 56676,
+        "num": 74536,
+        "word": "上海飞北京航班遭遇严重颠簸",
+        "onboard_time": 1689030863,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50546,
+        "num": 74524,
+        "word": "成都今天热过了就开始降温",
+        "onboard_time": 1689031044,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见所罗门群岛总理#"
+    }
+  }
+}

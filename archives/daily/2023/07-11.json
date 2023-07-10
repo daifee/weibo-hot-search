@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689028575112,
+  "endTime": 1689031146907,
   "band_list": [
     {
       "raw_hot": 2672619,
@@ -27,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1193261,
+      "num": 1193261,
+      "word": "CA1524 颠簸",
+      "onboard_time": 1689007704,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996559,
       "num": 996559,
       "word": "金奎彬晕倒",
@@ -43,20 +51,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 731757,
+      "num": 731757,
+      "word": "原来垃圾袋可以套好几个",
+      "onboard_time": 1689019691,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 722275,
+      "num": 722275,
+      "word": "终于有狗子愿意理肖战了",
+      "onboard_time": 1689008961,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 639104,
       "num": 639104,
       "word": "孟子义算命",
       "onboard_time": 1689004173,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 625326,
-      "num": 625326,
-      "word": "CA1524 颠簸",
-      "onboard_time": 1689007704,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604803,
@@ -99,6 +115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 437764,
+      "num": 285407,
+      "word": "吉林私搭浮桥多名过桥者发声",
+      "onboard_time": 1689014595,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415704,
       "num": 273517,
       "word": "刘星和姥姥再续祖孙情",
@@ -131,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364082,
+      "num": 364082,
+      "word": "把玉骨遥第八集搬进了婚礼现场",
+      "onboard_time": 1689015313,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363085,
       "num": 363085,
       "word": "关晓彤范丞丞新剧吻戏",
@@ -147,12 +179,12 @@
       "category": "情感,影视"
     },
     {
-      "raw_hot": 355426,
-      "num": 355426,
-      "word": "终于有狗子愿意理肖战了",
-      "onboard_time": 1689008961,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 308097,
+      "num": 308097,
+      "word": "入伏",
+      "onboard_time": 1689030322,
+      "rank": 8,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 305794,
@@ -211,12 +243,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264777,
-      "num": 119898,
-      "word": "原来垃圾袋可以套好几个",
-      "onboard_time": 1689019691,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 268189,
+      "num": 268189,
+      "word": "为小朋友提供杯子分饮料后续暖哭",
+      "onboard_time": 1689027796,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265443,
+      "num": 265443,
+      "word": "魏大勋发蝴蝶墙",
+      "onboard_time": 1689021191,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 256498,
@@ -307,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179608,
-      "num": 117127,
-      "word": "魏大勋发蝴蝶墙",
-      "onboard_time": 1689021191,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172492,
       "num": 172492,
       "word": "幸亏小狗不会说话",
@@ -331,11 +363,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166108,
-      "num": 166108,
-      "word": "把玉骨遥第八集搬进了婚礼现场",
-      "onboard_time": 1689015313,
-      "rank": 24,
+      "raw_hot": 166066,
+      "num": 166066,
+      "word": "肖战时影内啡肽穿搭",
+      "onboard_time": 1689017053,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -387,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149743,
+      "num": 149743,
+      "word": "村民以为挖到废铁玩着玩着发现是国宝",
+      "onboard_time": 1688996555,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148005,
       "num": 148005,
       "word": "TF家族官方账号在掉粉",
@@ -411,11 +451,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 141397,
-      "num": 115068,
-      "word": "吉林私搭浮桥多名过桥者发声",
-      "onboard_time": 1689014595,
-      "rank": 31,
+      "raw_hot": 139976,
+      "num": 139976,
+      "word": "7旬老人运500斤大石缸为孙女种荷花",
+      "onboard_time": 1689026714,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -425,14 +465,6 @@
       "onboard_time": 1689002256,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132698,
-      "num": 132698,
-      "word": "村民以为挖到废铁玩着玩着发现是国宝",
-      "onboard_time": 1688996555,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129466,
@@ -483,12 +515,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96356,
-      "num": 96356,
-      "word": "肖战时影内啡肽穿搭",
-      "onboard_time": 1689017053,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 85821,
+      "num": 85821,
+      "word": "还以为小狗在修仙",
+      "onboard_time": 1689028638,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77219,
+      "num": 77219,
+      "word": "装扮成狮子的小金毛宝宝",
+      "onboard_time": 1689030142,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 72128,
@@ -499,12 +539,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67427,
+      "num": 74595,
+      "word": "王楚然早期旧照",
+      "onboard_time": 1688985513,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60720,
       "num": 55452,
       "word": "适合中国宝宝体质的孙悟空",
       "onboard_time": 1689025754,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 57094,
+      "num": 74551,
+      "word": "今年入伏后还会更热吗",
+      "onboard_time": 1689031104,
+      "rank": 47,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 56676,
+      "num": 74536,
+      "word": "上海飞北京航班遭遇严重颠簸",
+      "onboard_time": 1689030863,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53654,
@@ -515,11 +579,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48654,
-      "num": 48654,
-      "word": "为小朋友提供杯子分饮料后续暖哭",
-      "onboard_time": 1689027796,
-      "rank": 36,
+      "raw_hot": 50546,
+      "num": 74524,
+      "word": "成都今天热过了就开始降温",
+      "onboard_time": 1689031044,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -529,22 +593,6 @@
       "onboard_time": 1688997996,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 41676,
-      "num": 54531,
-      "word": "王楚然早期旧照",
-      "onboard_time": 1688985513,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38906,
-      "num": 48294,
-      "word": "7旬老人运500斤大石缸为孙女种荷花",
-      "onboard_time": 1689026714,
-      "rank": 43,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
