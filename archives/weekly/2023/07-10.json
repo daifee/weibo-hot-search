@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688999814857,
+  "endTime": 1689002427673,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -33,6 +33,14 @@
       "onboard_time": 1688950413,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2732133,
+      "num": 1597888,
+      "word": "被困缅北男子手脚被打断母亲崩溃",
+      "onboard_time": 1688997815,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2683759,
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1597888,
-      "num": 1597888,
-      "word": "被困缅北男子手脚被打断母亲崩溃",
-      "onboard_time": 1688997815,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1571453,
       "num": 1571453,
       "word": "在孙权墓前放中科大录取通知书",
@@ -195,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1450682,
+      "num": 1450682,
+      "word": "杨洋大大方方营业",
+      "onboard_time": 1689000158,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1417629,
       "num": 1417629,
       "word": "警方通报网传济南大学留学生月补3万元",
       "onboard_time": 1688982514,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1387975,
+      "num": 1387975,
+      "word": "警方回应网传男子性侵15岁少女被当众鞭打",
+      "onboard_time": 1688997937,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1334758,
@@ -475,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864479,
+      "num": 476979,
+      "word": "杨洋 方头明",
+      "onboard_time": 1689001598,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 862902,
       "num": 862902,
       "word": "melon",
@@ -483,19 +507,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 850937,
+      "num": 850937,
+      "word": "魏大勋隐忍式哭戏",
+      "onboard_time": 1688999917,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 849487,
       "num": 849487,
       "word": "大熊猫捡到游客的伞还给撑开了",
       "onboard_time": 1688963980,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849308,
-      "num": 849308,
-      "word": "警方回应网传男子性侵15岁少女被当众鞭打",
-      "onboard_time": 1688997937,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559184,
+      "num": 330544,
+      "word": "孙珍妮又演狐狸",
+      "onboard_time": 1689000576,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 551666,
       "num": 384252,
       "word": "独居老人没开空调致热痉挛咬断两颗牙",
@@ -979,6 +1011,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 476170,
+      "num": 476170,
+      "word": "家庭氛围会影响孩子性格吗",
+      "onboard_time": 1689002376,
+      "rank": 13,
+      "category": "情感,影视"
+    },
+    {
       "raw_hot": 475334,
       "num": 347435,
       "word": "白鹿短发好酷",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1688987911,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 466981,
+      "num": 466981,
+      "word": "周琦",
+      "onboard_time": 1688999674,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 464068,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1688912014,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 401404,
+      "num": 324531,
+      "word": "上海火烧云",
+      "onboard_time": 1688999556,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400027,
@@ -1384,6 +1440,14 @@
       "word": "曾少年",
       "onboard_time": 1688966794,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338892,
+      "num": 338892,
+      "word": "边天扬姜之南售后",
+      "onboard_time": 1688999556,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1667,6 +1731,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 277342,
+      "num": 262369,
+      "word": "姥姥说要看我的结婚证",
+      "onboard_time": 1689000034,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273156,
       "num": 211571,
       "word": "人间烟火的原著",
@@ -1681,6 +1753,14 @@
       "onboard_time": 1688978971,
       "rank": 38,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 272709,
+      "num": 261831,
+      "word": "许沁改姓",
+      "onboard_time": 1689002075,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 271762,
@@ -1859,14 +1939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247429,
-      "num": 256381,
-      "word": "边天扬姜之南售后",
-      "onboard_time": 1688999556,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247073,
       "num": 247073,
       "word": "养娃后衣服码数变大的原因",
@@ -1881,6 +1953,14 @@
       "onboard_time": 1688983472,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245947,
+      "num": 245947,
+      "word": "李昊 人齐了啊",
+      "onboard_time": 1689002075,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 242217,
@@ -2275,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192398,
+      "num": 216269,
+      "word": "流浪小狗被捡回家后第一次洗澡",
+      "onboard_time": 1689000276,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 190492,
       "num": 190492,
       "word": "郑州通报金水河综合整治工程情况",
@@ -2371,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164636,
+      "num": 216198,
+      "word": "碟中谍7",
+      "onboard_time": 1689002256,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164282,
       "num": 176142,
       "word": "Fofo Uzi想弄就跟",
@@ -2393,6 +2489,22 @@
       "onboard_time": 1688934132,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156565,
+      "num": 216167,
+      "word": "镜像手综合征",
+      "onboard_time": 1689000875,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 153158,
+      "num": 216148,
+      "word": "外出你还会戴口罩吗",
+      "onboard_time": 1689001116,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150865,
@@ -2427,28 +2539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146295,
-      "num": 256271,
-      "word": "上海火烧云",
-      "onboard_time": 1688999556,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145878,
       "num": 178751,
       "word": "西瓜还可以这样切",
       "onboard_time": 1688946507,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 136110,
-      "num": 256231,
-      "word": "周琦",
-      "onboard_time": 1688999674,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 135640,

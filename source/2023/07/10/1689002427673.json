@@ -1,0 +1,410 @@
+{
+  "runTime": 1689002427673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1450682,
+        "num": 1450682,
+        "word": "杨洋大大方方营业",
+        "onboard_time": 1689000158,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1387975,
+        "num": 1387975,
+        "word": "警方回应网传男子性侵15岁少女被当众鞭打",
+        "onboard_time": 1688997937,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82613,
+        "num": 1190703,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1688992051,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022651,
+        "num": 1022651,
+        "word": "Prada这次找对人了",
+        "onboard_time": 1688976696,
+        "rank": 3,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 2732133,
+        "num": 993519,
+        "word": "被困缅北男子手脚被打断母亲崩溃",
+        "onboard_time": 1688997815,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946680,
+        "num": 946680,
+        "word": "女孩高考超一本线35分却报专科",
+        "onboard_time": 1688990072,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 850937,
+        "num": 850937,
+        "word": "魏大勋隐忍式哭戏",
+        "onboard_time": 1688999917,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 822929,
+        "num": 822929,
+        "word": "黄渤一把拉走袁泉",
+        "onboard_time": 1688996793,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744147,
+        "num": 744147,
+        "word": "关晓彤范丞丞新剧吻戏",
+        "onboard_time": 1688997214,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477728,
+        "num": 477728,
+        "word": "陕西省发现一例猴痘病例",
+        "onboard_time": 1688994153,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864479,
+        "num": 476979,
+        "word": "杨洋 方头明",
+        "onboard_time": 1689001598,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575367,
+        "num": 476920,
+        "word": "薛小婉又又分手了",
+        "onboard_time": 1688991452,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 498177,
+        "num": 476691,
+        "word": "曾少年女大学生吃菌子出幻觉",
+        "onboard_time": 1688992233,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476170,
+        "num": 476170,
+        "word": "家庭氛围会影响孩子性格吗",
+        "onboard_time": 1689002376,
+        "rank": 13,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 466981,
+        "num": 466981,
+        "word": "周琦",
+        "onboard_time": 1688999674,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373890,
+        "num": 373890,
+        "word": "村民以为挖到废铁玩着玩着发现是国宝",
+        "onboard_time": 1688996555,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352524,
+        "num": 352524,
+        "word": "商洛2岁男童走失6天在山顶被找到",
+        "onboard_time": 1688989890,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340893,
+        "num": 340893,
+        "word": "芈月宝格丽新皮肤",
+        "onboard_time": 1688993312,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338892,
+        "num": 338892,
+        "word": "边天扬姜之南售后",
+        "onboard_time": 1688999556,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334526,
+        "num": 334526,
+        "word": "日男子照顾瘫痪妻子40年将其推入大海",
+        "onboard_time": 1688983653,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595221,
+        "num": 331574,
+        "word": "专家称猴痘不太可能大规模传播",
+        "onboard_time": 1688996254,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559184,
+        "num": 330544,
+        "word": "孙珍妮又演狐狸",
+        "onboard_time": 1689000576,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327937,
+        "num": 327937,
+        "word": "桑延终于有自己的城堡了",
+        "onboard_time": 1688997996,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412226,
+        "num": 326559,
+        "word": "四川一老人当街抛扔双胞胎女婴",
+        "onboard_time": 1688992951,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401404,
+        "num": 324531,
+        "word": "上海火烧云",
+        "onboard_time": 1688999556,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348056,
+        "num": 323018,
+        "word": "冉莹颖让两个儿子独自出国",
+        "onboard_time": 1688987071,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321257,
+        "num": 321257,
+        "word": "长安三万里",
+        "onboard_time": 1688997996,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285725,
+        "num": 285725,
+        "word": "白鹿短发好酷",
+        "onboard_time": 1688994694,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271541,
+        "num": 271541,
+        "word": "新版妲己 猫咪纹",
+        "onboard_time": 1688989111,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262892,
+        "num": 262892,
+        "word": "王楚然早期旧照",
+        "onboard_time": 1688985513,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277342,
+        "num": 262369,
+        "word": "姥姥说要看我的结婚证",
+        "onboard_time": 1689000034,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272709,
+        "num": 261831,
+        "word": "许沁改姓",
+        "onboard_time": 1689002075,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259945,
+        "num": 259945,
+        "word": "林俊杰广州",
+        "onboard_time": 1688990491,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253115,
+        "num": 253115,
+        "word": "千户苗寨火灾致2死6伤",
+        "onboard_time": 1688982272,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248281,
+        "num": 248281,
+        "word": "女子当街将男子压在身下欲强扒衣物",
+        "onboard_time": 1688975012,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245947,
+        "num": 245947,
+        "word": "李昊 人齐了啊",
+        "onboard_time": 1689002075,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236943,
+        "num": 236943,
+        "word": "TF家族官方账号在掉粉",
+        "onboard_time": 1688993734,
+        "rank": 36,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 225006,
+        "num": 225006,
+        "word": "女孩夸环卫爷爷的小狗可爱被赠奶茶",
+        "onboard_time": 1688992113,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223012,
+        "num": 223012,
+        "word": "在孙权墓前放中科大录取通知书",
+        "onboard_time": 1688983233,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216271,
+        "num": 216271,
+        "word": "吴世勋c位",
+        "onboard_time": 1688988212,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 216269,
+        "word": "流浪小狗被捡回家后第一次洗澡",
+        "onboard_time": 1689000276,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 182097,
+        "num": 216248,
+        "word": "我的人间烟火",
+        "onboard_time": 1688994992,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179652,
+        "num": 216235,
+        "word": "普京6月29日在克宫会见普里戈任",
+        "onboard_time": 1688993553,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176092,
+        "num": 216224,
+        "word": "北京多名摩托车骑手飙车致2人身亡",
+        "onboard_time": 1688986952,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171497,
+        "num": 216203,
+        "word": "娜扎cos芈月",
+        "onboard_time": 1688977231,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 164636,
+        "num": 216198,
+        "word": "碟中谍7",
+        "onboard_time": 1689002256,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160380,
+        "num": 216182,
+        "word": "双胞胎兄弟婚前婚后判若四人",
+        "onboard_time": 1688990009,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156565,
+        "num": 216167,
+        "word": "镜像手综合征",
+        "onboard_time": 1689000875,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155862,
+        "num": 216151,
+        "word": "消失的十一层",
+        "onboard_time": 1688995293,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153158,
+        "num": 216148,
+        "word": "外出你还会戴口罩吗",
+        "onboard_time": 1689001116,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}
