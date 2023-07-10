@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688953950799,
+  "endTime": 1688955336817,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -675,20 +675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2766726,
+      "num": 2766726,
+      "word": "魏大勋算爆了吗",
+      "onboard_time": 1688950413,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2753305,
       "num": 1147335,
       "word": "姐姐忆述李玟生死一刻",
       "onboard_time": 1688601941,
       "rank": 6,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2735391,
-      "num": 2735391,
-      "word": "魏大勋算爆了吗",
-      "onboard_time": 1688950413,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2730238,
@@ -2683,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211217,
+      "num": 1211217,
+      "word": "父亲称蹲守杀害女儿者非前任而是追求者",
+      "onboard_time": 1688952451,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1207862,
       "num": 1207862,
       "word": "玉骨遥任敏演技",
@@ -3705,14 +3713,6 @@
       "onboard_time": 1688309143,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 979590,
-      "num": 594801,
-      "word": "父亲称蹲守杀害女儿者非前任而是追求者",
-      "onboard_time": 1688952451,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 974507,
@@ -5563,6 +5563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740024,
+      "num": 323865,
+      "word": "婆婆想让老公出钱供妹妹上大学",
+      "onboard_time": 1688948854,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 739702,
       "num": 739702,
       "word": "被子的颜色会影响睡眠",
@@ -5979,14 +5987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 696202,
-      "num": 304478,
-      "word": "婆婆想让老公出钱供妹妹上大学",
-      "onboard_time": 1688948854,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 695559,
       "num": 962774,
       "word": "武汉牛肉粉店一天卖光一头牛",
@@ -6075,6 +6075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 688357,
+      "num": 688357,
+      "word": "眼镜是显眼包最好的封印",
+      "onboard_time": 1688950654,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 688085,
       "num": 661891,
       "word": "古偶妆造天花板",
@@ -6097,14 +6105,6 @@
       "onboard_time": 1688433576,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 686076,
-      "num": 686076,
-      "word": "眼镜是显眼包最好的封印",
-      "onboard_time": 1688950654,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 685912,
@@ -6332,7 +6332,7 @@
     },
     {
       "raw_hot": 667429,
-      "num": 302846,
+      "num": 308090,
       "word": "我爸在卫生间装上了空调",
       "onboard_time": 1688952512,
       "rank": 21,
@@ -7379,6 +7379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589139,
+      "num": 554810,
+      "word": "欧阳娜娜猫咪纹",
+      "onboard_time": 1688951011,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588687,
       "num": 365353,
       "word": "谁敢在公司睡成这样",
@@ -7803,14 +7811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 554810,
-      "num": 554810,
-      "word": "欧阳娜娜猫咪纹",
-      "onboard_time": 1688951011,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 554636,
       "num": 438905,
       "word": "前崔秀彬大吧爆料",
@@ -8057,6 +8057,14 @@
       "onboard_time": 1688174791,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542344,
+      "num": 542344,
+      "word": "猫咪纹",
+      "onboard_time": 1688953831,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 541673,
@@ -9316,7 +9324,7 @@
     },
     {
       "raw_hot": 463775,
-      "num": 302403,
+      "num": 304620,
       "word": "真的反感朋友圈里的统一回复",
       "onboard_time": 1688946928,
       "rank": 22,
@@ -9923,6 +9931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 439364,
+      "num": 439364,
+      "word": "曝李玟老公找律师推翻遗嘱",
+      "onboard_time": 1688955090,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439087,
       "num": 378921,
       "word": "seventeen hot",
@@ -10129,6 +10145,14 @@
       "onboard_time": 1688485897,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430356,
+      "num": 430356,
+      "word": "超6成受访毕业生愿当网红",
+      "onboard_time": 1688951130,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 430171,
@@ -11443,14 +11467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 374924,
-      "num": 374924,
-      "word": "超6成受访毕业生愿当网红",
-      "onboard_time": 1688951130,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 374840,
       "num": 374840,
       "word": "曝河南一院长要医生多开中药提升收入",
@@ -12395,6 +12411,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 345160,
+      "num": 249527,
+      "word": "李玟二姐回应李玟老公争遗产",
+      "onboard_time": 1688955153,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344617,
       "num": 344617,
       "word": "为什么自制的冰几分钟就化了",
@@ -13091,6 +13115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324740,
+      "num": 324740,
+      "word": "文班亚马隔扣",
+      "onboard_time": 1688954549,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324695,
       "num": 324695,
       "word": "原来萧敬腾8层别墅是留给宠物的",
@@ -13401,6 +13433,14 @@
       "onboard_time": 1688881228,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 314979,
+      "num": 281911,
+      "word": "粉丝在薛之谦演唱会表白张艺兴",
+      "onboard_time": 1688954610,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 314929,
@@ -14585,6 +14625,14 @@
       "onboard_time": 1688694871,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287401,
+      "num": 287401,
+      "word": "清融妖刀",
+      "onboard_time": 1688950113,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 286854,
@@ -15915,6 +15963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256005,
+      "num": 378646,
+      "word": "我承认以前对拼多多太大声了",
+      "onboard_time": 1688953831,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255970,
       "num": 214002,
       "word": "人民论坛网评八角笼中",
@@ -16451,14 +16507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247001,
-      "num": 247001,
-      "word": "清融妖刀",
-      "onboard_time": 1688950113,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 246727,
       "num": 246727,
       "word": "TVB拍的打工人",
@@ -16737,6 +16785,14 @@
       "onboard_time": 1688822073,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242141,
+      "num": 242141,
+      "word": "婚车偶遇新娘互换捧花彼此祝福",
+      "onboard_time": 1688953349,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241965,
@@ -17041,14 +17097,6 @@
       "onboard_time": 1688729012,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 236271,
-      "num": 236271,
-      "word": "婚车偶遇新娘互换捧花彼此祝福",
-      "onboard_time": 1688953349,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236218,
@@ -17795,6 +17843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222904,
+      "num": 222904,
+      "word": "宋佳有多少怪墨镜",
+      "onboard_time": 1688953349,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 222681,
       "num": 222681,
       "word": "内心强大的人都具有屏蔽力",
@@ -18091,12 +18147,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 217069,
-      "num": 217069,
-      "word": "猫咪纹",
-      "onboard_time": 1688953831,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 217090,
+      "num": 217090,
+      "word": "如果实在渴得不行了呢",
+      "onboard_time": 1688954969,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 217027,
@@ -18145,6 +18201,14 @@
       "onboard_time": 1688204852,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216141,
+      "num": 216141,
+      "word": "史彭元身材",
+      "onboard_time": 1688953051,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 216087,
@@ -18281,6 +18345,14 @@
       "onboard_time": 1688362709,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213800,
+      "num": 213800,
+      "word": "为什么不建议要求伴侣情绪稳定",
+      "onboard_time": 1688955270,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 213655,
@@ -18695,6 +18767,14 @@
       "num": 408970,
       "word": "关注抑郁症",
       "onboard_time": 1688571655,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207843,
+      "num": 207843,
+      "word": "71岁奶奶自驾川藏线",
+      "onboard_time": 1688954070,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -19313,14 +19393,6 @@
       "onboard_time": 1688348131,
       "rank": 36,
       "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 198658,
-      "num": 198658,
-      "word": "宋佳有多少怪墨镜",
-      "onboard_time": 1688953349,
-      "rank": 37,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198623,
@@ -20025,14 +20097,6 @@
       "onboard_time": 1688648375,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189817,
-      "num": 189817,
-      "word": "史彭元身材",
-      "onboard_time": 1688953051,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 189795,
@@ -23233,14 +23297,6 @@
       "onboard_time": 1688459136,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62382,
-      "num": 176379,
-      "word": "我承认以前对拼多多太大声了",
-      "onboard_time": 1688953831,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62000,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1688955336817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2766726,
+        "num": 2766726,
+        "word": "魏大勋算爆了吗",
+        "onboard_time": 1688950413,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1214633,
+        "num": 1214633,
+        "word": "提前15个月还完67万多感觉天亮了",
+        "onboard_time": 1688944763,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76954,
+        "num": 1212056,
+        "word": "高考录取通知查询通道",
+        "onboard_time": 1688912917,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211217,
+        "num": 1211217,
+        "word": "父亲称蹲守杀害女儿者非前任而是追求者",
+        "onboard_time": 1688952451,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150897,
+        "num": 1150897,
+        "word": "孟佳在餐厅坐了一个半小时找不到刘雨昕",
+        "onboard_time": 1688950052,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 861002,
+        "num": 861002,
+        "word": "李木戈配享太庙",
+        "onboard_time": 1688949753,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 847621,
+        "num": 847621,
+        "word": "悬赏1000万找的狗找到了",
+        "onboard_time": 1688945545,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688357,
+        "num": 688357,
+        "word": "眼镜是显眼包最好的封印",
+        "onboard_time": 1688950654,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 596063,
+        "num": 596063,
+        "word": "李俊昊林允儿亲了两分钟",
+        "onboard_time": 1688944944,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556350,
+        "num": 556350,
+        "word": "七月辞职 狼多肉少",
+        "onboard_time": 1688910754,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 589139,
+        "num": 554623,
+        "word": "欧阳娜娜猫咪纹",
+        "onboard_time": 1688951011,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542344,
+        "num": 542344,
+        "word": "猫咪纹",
+        "onboard_time": 1688953831,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439364,
+        "num": 439364,
+        "word": "曝李玟老公找律师推翻遗嘱",
+        "onboard_time": 1688955090,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430356,
+        "num": 430356,
+        "word": "超6成受访毕业生愿当网红",
+        "onboard_time": 1688951130,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 420000,
+        "num": 420000,
+        "word": "专家预计今年全球还将多次打破高温纪录",
+        "onboard_time": 1688948854,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432362,
+        "num": 414836,
+        "word": "鹿晗打不过就加入",
+        "onboard_time": 1688950593,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 393749,
+        "num": 393749,
+        "word": "肖战回应火烧云",
+        "onboard_time": 1688945365,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256005,
+        "num": 378646,
+        "word": "我承认以前对拼多多太大声了",
+        "onboard_time": 1688953831,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372891,
+        "num": 372891,
+        "word": "孙怡说想要红还是得靠脑子",
+        "onboard_time": 1688946567,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324740,
+        "num": 324740,
+        "word": "文班亚马隔扣",
+        "onboard_time": 1688954549,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740024,
+        "num": 323865,
+        "word": "婆婆想让老公出钱供妹妹上大学",
+        "onboard_time": 1688948854,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 638911,
+        "num": 308090,
+        "word": "我爸在卫生间装上了空调",
+        "onboard_time": 1688952512,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 437892,
+        "num": 304620,
+        "word": "真的反感朋友圈里的统一回复",
+        "onboard_time": 1688946928,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351534,
+        "num": 290883,
+        "word": "ITZY 丑妆造",
+        "onboard_time": 1688950229,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287401,
+        "num": 287401,
+        "word": "清融妖刀",
+        "onboard_time": 1688950113,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285293,
+        "num": 285293,
+        "word": "泰国一载有中国游客巴士发生翻车事故",
+        "onboard_time": 1688947469,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314979,
+        "num": 281911,
+        "word": "粉丝在薛之谦演唱会表白张艺兴",
+        "onboard_time": 1688954610,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312327,
+        "num": 277354,
+        "word": "李玟",
+        "onboard_time": 1688955212,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263919,
+        "num": 263919,
+        "word": "小学生开始去胖东来抢座位了",
+        "onboard_time": 1688944161,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251507,
+        "num": 251507,
+        "word": "是谁去杭州给宋轶买的牛排包",
+        "onboard_time": 1688913874,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345160,
+        "num": 249527,
+        "word": "李玟二姐回应李玟老公争遗产",
+        "onboard_time": 1688955153,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247016,
+        "num": 247016,
+        "word": "李时珍500年前就知道了",
+        "onboard_time": 1688947111,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242141,
+        "num": 242141,
+        "word": "婚车偶遇新娘互换捧花彼此祝福",
+        "onboard_time": 1688953349,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231526,
+        "num": 231526,
+        "word": "徐明浩说做美甲会上瘾",
+        "onboard_time": 1688952212,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229419,
+        "num": 229419,
+        "word": "26岁一想到明天上班还想哭",
+        "onboard_time": 1688914536,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222904,
+        "num": 222904,
+        "word": "宋佳有多少怪墨镜",
+        "onboard_time": 1688953349,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 217090,
+        "num": 217090,
+        "word": "如果实在渴得不行了呢",
+        "onboard_time": 1688954969,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216141,
+        "num": 216141,
+        "word": "史彭元身材",
+        "onboard_time": 1688953051,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213800,
+        "num": 213800,
+        "word": "为什么不建议要求伴侣情绪稳定",
+        "onboard_time": 1688955270,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207843,
+        "num": 207843,
+        "word": "71岁奶奶自驾川藏线",
+        "onboard_time": 1688954070,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196380,
+        "num": 196380,
+        "word": "婚礼当天公婆贴了四百多个喜",
+        "onboard_time": 1688949630,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196235,
+        "num": 196235,
+        "word": "宋焰的不幸 和女主相爱",
+        "onboard_time": 1688924359,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188129,
+        "num": 188129,
+        "word": "肖战下一部戏藏海戏麟",
+        "onboard_time": 1688915195,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186094,
+        "num": 186094,
+        "word": "猫妈妈叼走碰瓷的小猫",
+        "onboard_time": 1688948131,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185786,
+        "num": 185786,
+        "word": "艾伦说我就是演了个WiFi",
+        "onboard_time": 1688949572,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185573,
+        "num": 185573,
+        "word": "顾九思劫法场救叶世安",
+        "onboard_time": 1688951493,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182372,
+        "num": 182372,
+        "word": "懂意大利人对水果披萨的愤怒了",
+        "onboard_time": 1688951612,
+        "rank": 46,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 180080,
+        "num": 180080,
+        "word": "我的人间烟火爆了吗",
+        "onboard_time": 1688951312,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171209,
+        "num": 171209,
+        "word": "东北味含量过高的路牌",
+        "onboard_time": 1688948251,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103559,
+        "num": 169564,
+        "word": "西瓜还可以这样切",
+        "onboard_time": 1688946507,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#当千里江山图遇上壮美陕西#"
+    }
+  }
+}
