@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689024849679,
+  "endTime": 1689027495434,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -17667,6 +17667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250104,
+      "num": 250104,
+      "word": "终于有狗子愿意理肖战了",
+      "onboard_time": 1689008961,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249993,
       "num": 249993,
       "word": "王鹤棣回应海洋之猴",
@@ -17801,14 +17809,6 @@
       "onboard_time": 1688693135,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 247767,
-      "num": 247767,
-      "word": "终于有狗子愿意理肖战了",
-      "onboard_time": 1689008961,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 247680,
@@ -22131,6 +22131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180597,
+      "num": 88928,
+      "word": "原来垃圾袋可以套好几个",
+      "onboard_time": 1689019691,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180403,
       "num": 265437,
       "word": "痛苦不要比较 快乐尽量分享",
@@ -23859,6 +23867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133631,
+      "num": 83702,
+      "word": "魏大勋发蝴蝶墙",
+      "onboard_time": 1689021191,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132566,
       "num": 132566,
       "word": "19370707永不敢忘",
@@ -24075,6 +24091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118919,
+      "num": 118919,
+      "word": "把玉骨遥第八集搬进了婚礼现场",
+      "onboard_time": 1689015313,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118898,
       "num": 118898,
       "word": "原来猫咪吵架也能按暂停",
@@ -24169,6 +24193,14 @@
       "onboard_time": 1688609378,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 113209,
+      "num": 82424,
+      "word": "吉林私搭浮桥多名过桥者发声",
+      "onboard_time": 1689014595,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112593,
@@ -24812,7 +24844,7 @@
     },
     {
       "raw_hot": 79742,
-      "num": 57215,
+      "num": 70582,
       "word": "肖战时影内啡肽穿搭",
       "onboard_time": 1689017053,
       "rank": 20,
@@ -24899,22 +24931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75348,
-      "num": 54374,
-      "word": "魏大勋发蝴蝶墙",
-      "onboard_time": 1689021191,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 73879,
-      "num": 57716,
-      "word": "吉林私搭浮桥多名过桥者发声",
-      "onboard_time": 1689014595,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73118,
       "num": 93044,
       "word": "LGD新首发阵容",
@@ -24993,14 +25009,6 @@
       "onboard_time": 1688648558,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68157,
-      "num": 55834,
-      "word": "原来垃圾袋可以套好几个",
-      "onboard_time": 1689019691,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 67496,
@@ -25097,14 +25105,6 @@
       "onboard_time": 1688755215,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 59222,
-      "num": 60340,
-      "word": "把玉骨遥第八集搬进了婚礼现场",
-      "onboard_time": 1689015313,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 59011,
@@ -25256,6 +25256,14 @@
       "word": "NMIXX新歌发布同时JINI开了ins直播",
       "onboard_time": 1688407523,
       "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 47206,
+      "num": 49992,
+      "word": "适合中国宝宝体质的孙悟空",
+      "onboard_time": 1689025754,
+      "rank": 30,
       "category": "音乐"
     },
     {

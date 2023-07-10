@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689024849679,
+  "endTime": 1689027495434,
   "band_list": [
     {
       "raw_hot": 2672619,
@@ -211,8 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247767,
-      "num": 247767,
+      "raw_hot": 250104,
+      "num": 250104,
       "word": "终于有狗子愿意理肖战了",
       "onboard_time": 1689008961,
       "rank": 39,
@@ -289,6 +289,14 @@
       "onboard_time": 1688983653,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180597,
+      "num": 88928,
+      "word": "原来垃圾袋可以套好几个",
+      "onboard_time": 1689019691,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 180596,
@@ -395,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133631,
+      "num": 83702,
+      "word": "魏大勋发蝴蝶墙",
+      "onboard_time": 1689021191,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132698,
       "num": 132698,
       "word": "村民以为挖到废铁玩着玩着发现是国宝",
@@ -435,6 +451,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118919,
+      "num": 118919,
+      "word": "把玉骨遥第八集搬进了婚礼现场",
+      "onboard_time": 1689015313,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 113209,
+      "num": 82424,
+      "word": "吉林私搭浮桥多名过桥者发声",
+      "onboard_time": 1689014595,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113075,
       "num": 127920,
       "word": "姥姥说要看我的结婚证",
@@ -452,27 +484,11 @@
     },
     {
       "raw_hot": 79742,
-      "num": 57215,
+      "num": 70582,
       "word": "肖战时影内啡肽穿搭",
       "onboard_time": 1689017053,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 75348,
-      "num": 54374,
-      "word": "魏大勋发蝴蝶墙",
-      "onboard_time": 1689021191,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 73879,
-      "num": 57716,
-      "word": "吉林私搭浮桥多名过桥者发声",
-      "onboard_time": 1689014595,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72128,
@@ -480,22 +496,6 @@
       "word": "曾少年",
       "onboard_time": 1688990491,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 68157,
-      "num": 55834,
-      "word": "原来垃圾袋可以套好几个",
-      "onboard_time": 1689019691,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 59222,
-      "num": 60340,
-      "word": "把玉骨遥第八集搬进了婚礼现场",
-      "onboard_time": 1689015313,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47206,
+      "num": 49992,
+      "word": "适合中国宝宝体质的孙悟空",
+      "onboard_time": 1689025754,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 41676,
       "num": 54531,
       "word": "王楚然早期旧照",
@@ -515,7 +523,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33667,
+      "raw_hot": 35691,
       "num": 50116,
       "word": "桑延终于有自己的城堡了",
       "onboard_time": 1688997996,
