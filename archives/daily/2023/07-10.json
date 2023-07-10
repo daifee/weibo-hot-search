@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689002427673,
+  "endTime": 1689003315740,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -139,6 +139,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1839688,
+      "num": 1218433,
+      "word": "杨洋 方头明",
+      "onboard_time": 1689001598,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1740683,
+      "num": 1740683,
+      "word": "杨洋大大方方营业",
+      "onboard_time": 1689000158,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1711007,
       "num": 1711007,
       "word": "提前15个月还完67万多感觉天亮了",
@@ -193,14 +209,6 @@
       "onboard_time": 1688994153,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1450682,
-      "num": 1450682,
-      "word": "杨洋大大方方营业",
-      "onboard_time": 1689000158,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1417629,
@@ -355,6 +363,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 974953,
+      "num": 974953,
+      "word": "魏大勋隐忍式哭戏",
+      "onboard_time": 1688999917,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 967789,
       "num": 362121,
       "word": "专家称猴痘不太可能大规模传播",
@@ -491,28 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 864479,
-      "num": 476979,
-      "word": "杨洋 方头明",
-      "onboard_time": 1689001598,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 862902,
       "num": 862902,
       "word": "melon",
       "onboard_time": 1688983233,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 850937,
-      "num": 850937,
-      "word": "魏大勋隐忍式哭戏",
-      "onboard_time": 1688999917,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 849487,
@@ -721,6 +721,14 @@
       "onboard_time": 1688952512,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 661325,
+      "num": 563306,
+      "word": "许沁改姓",
+      "onboard_time": 1689002075,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 659765,
@@ -1067,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 458265,
+      "num": 244394,
+      "word": "死臀综合征",
+      "onboard_time": 1689002617,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 456266,
       "num": 456266,
       "word": "肖战回应火烧云",
@@ -1203,6 +1219,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 420537,
+      "num": 420537,
+      "word": "李昊 人齐了啊",
+      "onboard_time": 1689002075,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419978,
       "num": 419978,
       "word": "粉丝在薛之谦演唱会表白张艺兴",
@@ -1219,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411172,
+      "num": 324531,
+      "word": "上海火烧云",
+      "onboard_time": 1688999556,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404930,
       "num": 404930,
       "word": "白敬亭这次不心疼他的鞋了",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1688912014,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 401404,
-      "num": 324531,
-      "word": "上海火烧云",
-      "onboard_time": 1688999556,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400027,
@@ -1755,14 +1779,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 272709,
-      "num": 261831,
-      "word": "许沁改姓",
-      "onboard_time": 1689002075,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 271762,
       "num": 214920,
       "word": "郑州狗主悬赏1000万人民币寻狗",
@@ -1953,14 +1969,6 @@
       "onboard_time": 1688983472,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245947,
-      "num": 245947,
-      "word": "李昊 人齐了啊",
-      "onboard_time": 1689002075,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 242217,
@@ -2307,6 +2315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 198141,
+      "num": 216198,
+      "word": "碟中谍7",
+      "onboard_time": 1689002256,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197858,
       "num": 256306,
       "word": "八角笼中",
@@ -2451,20 +2467,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169537,
+      "num": 169537,
+      "word": "撸猫时人类视角vs猫猫视角",
+      "onboard_time": 1689002316,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 168468,
+      "num": 216167,
+      "word": "镜像手综合征",
+      "onboard_time": 1689000875,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 167023,
       "num": 167023,
       "word": "干了3年宠物护理后",
       "onboard_time": 1688956771,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164636,
-      "num": 216198,
-      "word": "碟中谍7",
-      "onboard_time": 1689002256,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 164282,
@@ -2491,20 +2515,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 156565,
-      "num": 216167,
-      "word": "镜像手综合征",
-      "onboard_time": 1689000875,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 153158,
       "num": 216148,
       "word": "外出你还会戴口罩吗",
       "onboard_time": 1689001116,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152824,
+      "num": 152824,
+      "word": "她脱下雨衣的那一刻真美",
+      "onboard_time": 1689003274,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 150865,
@@ -2784,6 +2808,9 @@
     },
     {
       "word": "#习近平会见所罗门群岛总理#"
+    },
+    {
+      "word": "#习近平会见俄罗斯联邦委员会主席马特维延科#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1689003315740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1740683,
+        "num": 1740683,
+        "word": "杨洋大大方方营业",
+        "onboard_time": 1689000158,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1321241,
+        "num": 1321241,
+        "word": "警方回应网传男子性侵15岁少女被当众鞭打",
+        "onboard_time": 1688997937,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74529,
+        "num": 1305306,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1688992051,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1839688,
+        "num": 1218433,
+        "word": "杨洋 方头明",
+        "onboard_time": 1689001598,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 834631,
+        "num": 1107726,
+        "word": "Prada这次找对人了",
+        "onboard_time": 1688976696,
+        "rank": 4,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 2390149,
+        "num": 1044957,
+        "word": "被困缅北男子手脚被打断母亲崩溃",
+        "onboard_time": 1688997815,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974953,
+        "num": 974953,
+        "word": "魏大勋隐忍式哭戏",
+        "onboard_time": 1688999917,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 837218,
+        "num": 837218,
+        "word": "女孩高考超一本线35分却报专科",
+        "onboard_time": 1688990072,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 664307,
+        "num": 664307,
+        "word": "关晓彤范丞丞新剧吻戏",
+        "onboard_time": 1688997214,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570496,
+        "num": 570496,
+        "word": "黄渤一把拉走袁泉",
+        "onboard_time": 1688996793,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 661325,
+        "num": 563306,
+        "word": "许沁改姓",
+        "onboard_time": 1689002075,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491683,
+        "num": 491683,
+        "word": "薛小婉又又分手了",
+        "onboard_time": 1688991452,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 455255,
+        "num": 455255,
+        "word": "家庭氛围会影响孩子性格吗",
+        "onboard_time": 1689002376,
+        "rank": 12,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 420537,
+        "num": 420537,
+        "word": "李昊 人齐了啊",
+        "onboard_time": 1689002075,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411945,
+        "num": 411945,
+        "word": "周琦",
+        "onboard_time": 1688999674,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401022,
+        "num": 401022,
+        "word": "曾少年女大学生吃菌子出幻觉",
+        "onboard_time": 1688992233,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360607,
+        "num": 360607,
+        "word": "陕西省发现一例猴痘病例",
+        "onboard_time": 1688994153,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319707,
+        "num": 319707,
+        "word": "芈月宝格丽新皮肤",
+        "onboard_time": 1688993312,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314800,
+        "num": 314800,
+        "word": "商洛2岁男童走失6天在山顶被找到",
+        "onboard_time": 1688989890,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281692,
+        "num": 281692,
+        "word": "边天扬姜之南售后",
+        "onboard_time": 1688999556,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511411,
+        "num": 281491,
+        "word": "专家称猴痘不太可能大规模传播",
+        "onboard_time": 1688996254,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494123,
+        "num": 281380,
+        "word": "孙珍妮又演狐狸",
+        "onboard_time": 1689000576,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411172,
+        "num": 281309,
+        "word": "上海火烧云",
+        "onboard_time": 1688999556,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279708,
+        "num": 279708,
+        "word": "日男子照顾瘫痪妻子40年将其推入大海",
+        "onboard_time": 1688983653,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394872,
+        "num": 276536,
+        "word": "四川一老人当街抛扔双胞胎女婴",
+        "onboard_time": 1688992951,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372449,
+        "num": 274101,
+        "word": "冉莹颖让两个儿子独自出国",
+        "onboard_time": 1688987071,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320930,
+        "num": 273379,
+        "word": "女子当街将男子压在身下欲强扒衣物",
+        "onboard_time": 1688975012,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267156,
+        "num": 267156,
+        "word": "新版妲己 猫咪纹",
+        "onboard_time": 1688989111,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262421,
+        "num": 262421,
+        "word": "长安三万里",
+        "onboard_time": 1688997996,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245003,
+        "num": 245003,
+        "word": "白鹿短发好酷",
+        "onboard_time": 1688994694,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458265,
+        "num": 244394,
+        "word": "死臀综合征",
+        "onboard_time": 1689002617,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241249,
+        "num": 241249,
+        "word": "林俊杰广州",
+        "onboard_time": 1688990491,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235264,
+        "num": 235264,
+        "word": "桑延终于有自己的城堡了",
+        "onboard_time": 1688997996,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235261,
+        "num": 235261,
+        "word": "姥姥说要看我的结婚证",
+        "onboard_time": 1689000034,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220001,
+        "num": 220001,
+        "word": "千户苗寨火灾致2死6伤",
+        "onboard_time": 1688982272,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217185,
+        "num": 217185,
+        "word": "TF家族官方账号在掉粉",
+        "onboard_time": 1688993734,
+        "rank": 35,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 213367,
+        "num": 213367,
+        "word": "吴世勋c位",
+        "onboard_time": 1688988212,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211419,
+        "num": 211419,
+        "word": "王楚然早期旧照",
+        "onboard_time": 1688985513,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198141,
+        "num": 198141,
+        "word": "碟中谍7",
+        "onboard_time": 1689002256,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187125,
+        "num": 187125,
+        "word": "女孩夸环卫爷爷的小狗可爱被赠奶茶",
+        "onboard_time": 1688992113,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181137,
+        "num": 181137,
+        "word": "村民以为挖到废铁玩着玩着发现是国宝",
+        "onboard_time": 1688996555,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175684,
+        "num": 175684,
+        "word": "在孙权墓前放中科大录取通知书",
+        "onboard_time": 1688983233,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174443,
+        "num": 174443,
+        "word": "流浪小狗被捡回家后第一次洗澡",
+        "onboard_time": 1689000276,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 172170,
+        "num": 172170,
+        "word": "北京多名摩托车骑手飙车致2人身亡",
+        "onboard_time": 1688986952,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169537,
+        "num": 169537,
+        "word": "撸猫时人类视角vs猫猫视角",
+        "onboard_time": 1689002316,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168468,
+        "num": 168468,
+        "word": "镜像手综合征",
+        "onboard_time": 1689000875,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 160946,
+        "num": 160946,
+        "word": "普京6月29日在克宫会见普里戈任",
+        "onboard_time": 1688993553,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158127,
+        "num": 158127,
+        "word": "娜扎cos芈月",
+        "onboard_time": 1688977231,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 152824,
+        "num": 152824,
+        "word": "她脱下雨衣的那一刻真美",
+        "onboard_time": 1689003274,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 152038,
+        "num": 152038,
+        "word": "双胞胎兄弟婚前婚后判若四人",
+        "onboard_time": 1688990009,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯联邦委员会主席马特维延科#"
+    }
+  }
+}
