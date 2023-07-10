@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689007438305,
+  "endTime": 1689009444654,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1688951130,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 429424,
+      "num": 233503,
+      "word": "CA1524 颠簸",
+      "onboard_time": 1689007704,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428281,
@@ -2683,7 +2691,7 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 138906,
+      "raw_hot": 141454,
       "num": 138906,
       "word": "印度大巴名不虚传",
       "onboard_time": 1689006568,
@@ -2721,6 +2729,14 @@
       "onboard_time": 1688937552,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115509,
+      "num": 115509,
+      "word": "张萌泳装照",
+      "onboard_time": 1689008362,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108750,
@@ -2793,6 +2809,14 @@
       "onboard_time": 1688939236,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89668,
+      "num": 93571,
+      "word": "终于有狗子愿意理肖战了",
+      "onboard_time": 1689008961,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 89014,

@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689007438305,
+  "endTime": 1689009444654,
   "band_list": [
     {
       "raw_hot": 2672619,
@@ -89,6 +89,14 @@
       "onboard_time": 1689004052,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 429424,
+      "num": 233503,
+      "word": "CA1524 颠簸",
+      "onboard_time": 1689007704,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415704,
@@ -363,7 +371,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138906,
+      "raw_hot": 141454,
       "num": 138906,
       "word": "印度大巴名不虚传",
       "onboard_time": 1689006568,
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115509,
+      "num": 115509,
+      "word": "张萌泳装照",
+      "onboard_time": 1689008362,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113075,
       "num": 127920,
       "word": "姥姥说要看我的结婚证",
@@ -427,6 +443,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89668,
+      "num": 93571,
+      "word": "终于有狗子愿意理肖战了",
+      "onboard_time": 1689008961,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 72128,
+      "num": 82184,
+      "word": "曾少年",
+      "onboard_time": 1688990491,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 53654,
       "num": 1063738,
       "word": "盛世中华何以中国",
@@ -438,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#大国之大也有大国之重#"
+    },
+    {
+      "word": "#习近平会见俄罗斯联邦委员会主席马特维延科#"
     }
   ]
 }
