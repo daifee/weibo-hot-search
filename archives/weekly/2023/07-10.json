@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688988839639,
+  "endTime": 1688992750983,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -8,6 +8,14 @@
       "word": "广东廉江发生一起故意伤害案致6死1伤",
       "onboard_time": 1688959112,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3301741,
+      "num": 354108,
+      "word": "无锡女童",
+      "onboard_time": 1688988094,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1688950413,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2683759,
+      "num": 2683759,
+      "word": "林俊杰广州",
+      "onboard_time": 1688990491,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 2649371,
@@ -145,6 +161,14 @@
       "onboard_time": 1688983233,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1515895,
+      "num": 1515895,
+      "word": "女孩高考超一本线35分却报专科",
+      "onboard_time": 1688990072,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1496601,
@@ -283,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 962560,
+      "num": 460518,
+      "word": "薛小婉又又分手了",
+      "onboard_time": 1688991452,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 955045,
       "num": 955045,
       "word": "千户苗寨",
@@ -345,6 +377,14 @@
       "onboard_time": 1688905529,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 888659,
+      "num": 888659,
+      "word": "王者宝格丽发布盛典",
+      "onboard_time": 1688988031,
+      "rank": 28,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 887133,
@@ -635,12 +675,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605294,
-      "num": 354108,
-      "word": "无锡女童",
-      "onboard_time": 1688988094,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 598722,
+      "num": 350280,
+      "word": "冉莹颖让两个儿子独自出国",
+      "onboard_time": 1688987071,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 589871,
+      "num": 277905,
+      "word": "新版妲己 猫咪纹",
+      "onboard_time": 1688989111,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 589766,
@@ -723,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541252,
+      "num": 541252,
+      "word": "曾少年女大学生吃菌子出幻觉",
+      "onboard_time": 1688992233,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 538596,
       "num": 538596,
       "word": "我爱我家杭州公司高管全部被停职",
@@ -787,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486664,
+      "num": 351455,
+      "word": "吴世勋c位",
+      "onboard_time": 1688988212,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 484995,
       "num": 423740,
       "word": "黄牛为了林俊杰演唱会抢票做题",
@@ -811,20 +875,20 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 476913,
-      "num": 351455,
-      "word": "吴世勋c位",
-      "onboard_time": 1688988212,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 472877,
       "num": 472877,
       "word": "不知火传说皮肤",
       "onboard_time": 1688966136,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 469035,
+      "num": 469035,
+      "word": "李硕珉脸链",
+      "onboard_time": 1688987911,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 464068,
@@ -851,12 +915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 451136,
-      "num": 350280,
-      "word": "冉莹颖让两个儿子独自出国",
-      "onboard_time": 1688987071,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 446275,
+      "num": 446275,
+      "word": "林俊杰晒与lesserafim合照",
+      "onboard_time": 1688989950,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 441900,
@@ -1035,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380498,
+      "num": 270268,
+      "word": "双胞胎兄弟婚前婚后判若四人",
+      "onboard_time": 1688990009,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380268,
       "num": 380268,
       "word": "法老走红毯",
@@ -1131,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349813,
-      "num": 349813,
-      "word": "李硕珉脸链",
-      "onboard_time": 1688987911,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 349621,
       "num": 349621,
       "word": "Scout杰斯五杀",
@@ -1219,6 +1283,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 319679,
+      "num": 319679,
+      "word": "曾少年",
+      "onboard_time": 1688966794,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316273,
       "num": 276937,
       "word": "许沁 恋爱脑",
@@ -1233,6 +1305,14 @@
       "onboard_time": 1688958329,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311694,
+      "num": 274530,
+      "word": "长风渡",
+      "onboard_time": 1688990249,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 309699,
@@ -1297,14 +1377,6 @@
       "onboard_time": 1688947111,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 300751,
-      "num": 300751,
-      "word": "王者宝格丽发布盛典",
-      "onboard_time": 1688988031,
-      "rank": 28,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 297953,
@@ -1507,12 +1579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260516,
+      "num": 260516,
+      "word": "偷偷藏不住",
+      "onboard_time": 1688990611,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260106,
       "num": 260106,
       "word": "郑润泽 抢票",
       "onboard_time": 1688973273,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259827,
+      "num": 259827,
+      "word": "商洛2岁男童走失6天在山顶被找到",
+      "onboard_time": 1688989890,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258092,
@@ -1619,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242246,
+      "num": 242246,
+      "word": "女孩夸环卫爷爷的小狗可爱被赠奶茶",
+      "onboard_time": 1688992113,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242217,
       "num": 242217,
       "word": "暗夜与黎明首批阵容官宣",
@@ -1640,6 +1736,14 @@
       "word": "成都街头玫瑰冰豆浆1块1袋",
       "onboard_time": 1688968533,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231114,
+      "num": 231114,
+      "word": "女子母婴室哺乳陌生男子在旁玩手机",
+      "onboard_time": 1688991512,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1673,6 +1777,14 @@
       "onboard_time": 1688950593,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224942,
+      "num": 224942,
+      "word": "果然青蛙人从来没让我失望过",
+      "onboard_time": 1688990672,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 223909,
@@ -1729,14 +1841,6 @@
       "onboard_time": 1688960973,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219410,
-      "num": 219410,
-      "word": "曾少年",
-      "onboard_time": 1688966794,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 218431,
@@ -1841,6 +1945,14 @@
       "onboard_time": 1688954070,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206370,
+      "num": 206370,
+      "word": "汕头路边摊20元水果大满贯",
+      "onboard_time": 1688990790,
+      "rank": 36,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 206183,
@@ -1977,6 +2089,14 @@
       "onboard_time": 1688950472,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194937,
+      "num": 194937,
+      "word": "当我飞奔向你",
+      "onboard_time": 1688992472,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 190492,
@@ -2297,6 +2417,14 @@
       "onboard_time": 1688964459,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 50324,
+      "num": 1486587,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1688992051,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49865,
