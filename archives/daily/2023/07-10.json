@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688966319686,
+  "endTime": 1688967341995,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1662507,
+      "num": 1662507,
+      "word": "结婚登记须提供户口簿被指违背婚姻自由",
+      "onboard_time": 1688964218,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1612033,
       "num": 1116732,
       "word": "廉江回应有人持刀在幼儿园行凶",
@@ -97,6 +105,14 @@
       "onboard_time": 1688950052,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1293634,
+      "num": 1293634,
+      "word": "官方回应垃圾桶里捡到人头",
+      "onboard_time": 1688964939,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1241490,
@@ -129,14 +145,6 @@
       "onboard_time": 1688910754,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1047281,
-      "num": 1047281,
-      "word": "结婚登记须提供户口簿被指违背婚姻自由",
-      "onboard_time": 1688964218,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1010258,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849487,
+      "num": 849487,
+      "word": "大熊猫捡到游客的伞还给撑开了",
+      "onboard_time": 1688963980,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848312,
       "num": 848312,
       "word": "2女子与蜜雪冰城员工起冲突",
@@ -256,22 +272,6 @@
       "word": "上万韩国人竞聘福宝一日饲养员助理",
       "onboard_time": 1688958092,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790733,
-      "num": 790733,
-      "word": "官方回应垃圾桶里捡到人头",
-      "onboard_time": 1688964939,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 762353,
-      "num": 762353,
-      "word": "大熊猫捡到游客的伞还给撑开了",
-      "onboard_time": 1688963980,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -361,6 +361,14 @@
       "onboard_time": 1688956530,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 638185,
+      "num": 638185,
+      "word": "张一山也需要别人演他小时候了",
+      "onboard_time": 1688966256,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 630530,
@@ -675,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346250,
+      "num": 346250,
+      "word": "时代峰峻自己的小时代",
+      "onboard_time": 1688966614,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336127,
       "num": 336127,
       "word": "白敬亭张昊唯没白来极限挑战",
@@ -689,6 +705,14 @@
       "onboard_time": 1688958871,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333849,
+      "num": 333849,
+      "word": "不知火传说皮肤",
+      "onboard_time": 1688966136,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 325985,
@@ -708,7 +732,7 @@
     },
     {
       "raw_hot": 301084,
-      "num": 301084,
+      "num": 329555,
       "word": "郑州通报河道贴砖事件",
       "onboard_time": 1688964520,
       "rank": 35,
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284192,
+      "num": 284192,
+      "word": "不设限毕业礼共唱歌单",
+      "onboard_time": 1688967095,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281468,
       "num": 281468,
       "word": "一个不会离职的办公桌长啥样",
@@ -825,6 +857,14 @@
       "onboard_time": 1688911054,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278689,
+      "num": 278689,
+      "word": "六公主拍的汪苏泷",
+      "onboard_time": 1688965775,
+      "rank": 43,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 273156,
@@ -907,14 +947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255113,
-      "num": 255113,
-      "word": "张一山也需要别人演他小时候了",
-      "onboard_time": 1688966256,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255017,
       "num": 201818,
       "word": "王鹤棣回应晒黑",
@@ -971,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246588,
+      "num": 246588,
+      "word": "黄牛为了林俊杰演唱会抢票做题",
+      "onboard_time": 1688967033,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242217,
       "num": 242217,
       "word": "暗夜与黎明首批阵容官宣",
@@ -979,28 +1019,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241119,
-      "num": 241119,
-      "word": "六公主拍的汪苏泷",
-      "onboard_time": 1688965775,
-      "rank": 43,
-      "category": "音乐,幽默"
-    },
-    {
       "raw_hot": 229854,
       "num": 229854,
       "word": "婚礼当天公婆贴了四百多个喜",
       "onboard_time": 1688949630,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226581,
-      "num": 226581,
-      "word": "不知火传说皮肤",
-      "onboard_time": 1688966136,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 225834,
@@ -1051,12 +1075,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219410,
+      "num": 219410,
+      "word": "曾少年",
+      "onboard_time": 1688966794,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "曾少年今日开播",
       "onboard_time": 1688956711,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217817,
+      "num": 2017425,
+      "word": "明天才入伏",
+      "onboard_time": 1688949692,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217335,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1688953051,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215265,
-      "num": 2017425,
-      "word": "明天才入伏",
-      "onboard_time": 1688949692,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213501,
@@ -1443,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85353,
+      "num": 762404,
+      "word": "为中国女足加油",
+      "onboard_time": 1688965237,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85270,
       "num": 85270,
       "word": "第一次看到这么活泼的扇贝",
@@ -1464,14 +1504,6 @@
       "word": "乒超",
       "onboard_time": 1688928793,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 70986,
-      "num": 762404,
-      "word": "为中国女足加油",
-      "onboard_time": 1688965237,
-      "rank": 14,
       "category": "体育"
     },
     {
