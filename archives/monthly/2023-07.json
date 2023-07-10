@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689006412071,
+  "endTime": 1689007438305,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -11331,6 +11331,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 415704,
+      "num": 273517,
+      "word": "刘星和姥姥再续祖孙情",
+      "onboard_time": 1689005073,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415343,
       "num": 415343,
       "word": "伊朗正式加入上合组织",
@@ -12529,14 +12537,6 @@
       "onboard_time": 1688791354,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 373042,
-      "num": 273517,
-      "word": "刘星和姥姥再续祖孙情",
-      "onboard_time": 1689005073,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 372786,
@@ -14915,6 +14915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305396,
+      "num": 305396,
+      "word": "王一博热烈惊喜派对跳舞太燃了",
+      "onboard_time": 1689005073,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305082,
       "num": 305082,
       "word": "金晨的多巴胺穿搭",
@@ -15153,14 +15161,6 @@
       "onboard_time": 1688305362,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 299414,
-      "num": 299414,
-      "word": "王一博热烈惊喜派对跳舞太燃了",
-      "onboard_time": 1689005073,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 299326,
@@ -15633,6 +15633,14 @@
       "onboard_time": 1688274154,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 290312,
+      "num": 290312,
+      "word": "白人饭",
+      "onboard_time": 1689004711,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 290220,
@@ -16337,14 +16345,6 @@
       "onboard_time": 1688226334,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 273537,
-      "num": 273537,
-      "word": "白人饭",
-      "onboard_time": 1689004711,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 273531,
@@ -18145,6 +18145,14 @@
       "onboard_time": 1688437833,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241692,
+      "num": 149259,
+      "word": "中3250万英镑的英国夫妻分手各结新欢",
+      "onboard_time": 1689005969,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 241620,
@@ -23459,6 +23467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150498,
+      "num": 150498,
+      "word": "封神北京首映礼",
+      "onboard_time": 1689007104,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150365,
       "num": 1512157,
       "word": "中国制造在土耳其火了",
@@ -23731,14 +23747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140475,
-      "num": 140475,
-      "word": "中3250万英镑的英国夫妻分手各结新欢",
-      "onboard_time": 1689005969,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140110,
       "num": 140110,
       "word": "这才是一个剧应传达的正确价值观",
@@ -23753,6 +23761,14 @@
       "onboard_time": 1688441316,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 138906,
+      "num": 138906,
+      "word": "印度大巴名不虚传",
+      "onboard_time": 1689006568,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 138733,
@@ -24249,6 +24265,14 @@
       "onboard_time": 1688142270,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105367,
+      "num": 121366,
+      "word": "有人看乐子 有人照镜子",
+      "onboard_time": 1689006748,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 105177,

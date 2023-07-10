@@ -1,0 +1,410 @@
+{
+  "runTime": 1689007438305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2251440,
+        "num": 2251440,
+        "word": "死臀综合征",
+        "onboard_time": 1689002617,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 961209,
+        "num": 961209,
+        "word": "杨洋大大方方营业",
+        "onboard_time": 1689000158,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37854,
+        "num": 921872,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1688992051,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906727,
+        "num": 906727,
+        "word": "金奎彬晕倒",
+        "onboard_time": 1689003873,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571759,
+        "num": 571759,
+        "word": "孟子义算命",
+        "onboard_time": 1689004173,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470489,
+        "num": 470489,
+        "word": "许沁改姓",
+        "onboard_time": 1689002075,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457272,
+        "num": 457272,
+        "word": "茶百道未定事件簿联名",
+        "onboard_time": 1689004052,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 440346,
+        "num": 440346,
+        "word": "魏大勋隐忍式哭戏",
+        "onboard_time": 1688999917,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346811,
+        "num": 346811,
+        "word": "女孩高考超一本线35分却报专科",
+        "onboard_time": 1688990072,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 308471,
+        "num": 308471,
+        "word": "她脱下雨衣的那一刻真美",
+        "onboard_time": 1689003274,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 369527,
+        "num": 307733,
+        "word": "Prada这次找对人了",
+        "onboard_time": 1688976696,
+        "rank": 10,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 305396,
+        "num": 305396,
+        "word": "王一博热烈惊喜派对跳舞太燃了",
+        "onboard_time": 1689005073,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301228,
+        "num": 301228,
+        "word": "李昊 人齐了啊",
+        "onboard_time": 1689002075,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293449,
+        "num": 293449,
+        "word": "关晓彤范丞丞新剧吻戏",
+        "onboard_time": 1688997214,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290952,
+        "num": 290952,
+        "word": "家庭氛围会影响孩子性格吗",
+        "onboard_time": 1689002376,
+        "rank": 14,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 1051360,
+        "num": 290660,
+        "word": "被困缅北男子手脚被打断母亲崩溃",
+        "onboard_time": 1688997815,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290312,
+        "num": 290312,
+        "word": "白人饭",
+        "onboard_time": 1689004711,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240038,
+        "num": 240038,
+        "word": "薛小婉又又分手了",
+        "onboard_time": 1688991452,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190336,
+        "num": 239575,
+        "word": "陕西省发现一例猴痘病例",
+        "onboard_time": 1688994153,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164421,
+        "num": 239462,
+        "word": "千户苗寨火灾致2死6伤",
+        "onboard_time": 1688982272,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415704,
+        "num": 239459,
+        "word": "刘星和姥姥再续祖孙情",
+        "onboard_time": 1689005073,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239394,
+        "num": 239394,
+        "word": "专家称猴痘不太可能大规模传播",
+        "onboard_time": 1688996254,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215109,
+        "num": 215109,
+        "word": "曾少年女大学生吃菌子出幻觉",
+        "onboard_time": 1688992233,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209054,
+        "num": 209054,
+        "word": "冉莹颖让两个儿子独自出国",
+        "onboard_time": 1688987071,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206313,
+        "num": 206313,
+        "word": "女子当街将男子压在身下欲强扒衣物",
+        "onboard_time": 1688975012,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184118,
+        "num": 184118,
+        "word": "孙珍妮又演狐狸",
+        "onboard_time": 1689000576,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179882,
+        "num": 179882,
+        "word": "芈月宝格丽新皮肤",
+        "onboard_time": 1688993312,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175427,
+        "num": 175427,
+        "word": "新版妲己 猫咪纹",
+        "onboard_time": 1688989111,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501654,
+        "num": 167844,
+        "word": "警方回应网传男子性侵15岁少女被当众鞭打",
+        "onboard_time": 1688997937,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150498,
+        "num": 150498,
+        "word": "封神北京首映礼",
+        "onboard_time": 1689007104,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241692,
+        "num": 149259,
+        "word": "中3250万英镑的英国夫妻分手各结新欢",
+        "onboard_time": 1689005969,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186653,
+        "num": 149013,
+        "word": "4招识破真假护肤品",
+        "onboard_time": 1689004829,
+        "rank": 31,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 153035,
+        "num": 148361,
+        "word": "饭后整齐洗脸的可爱猫猫",
+        "onboard_time": 1689005370,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 145654,
+        "num": 145654,
+        "word": "上海火烧云",
+        "onboard_time": 1688999556,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143983,
+        "num": 143983,
+        "word": "幸亏小狗不会说话",
+        "onboard_time": 1689003572,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142983,
+        "num": 142983,
+        "word": "吴世勋c位",
+        "onboard_time": 1688988212,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142576,
+        "num": 142576,
+        "word": "卓沅的vlog",
+        "onboard_time": 1689004473,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139450,
+        "num": 139450,
+        "word": "商洛2岁男童走失6天在山顶被找到",
+        "onboard_time": 1688989890,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138906,
+        "num": 138906,
+        "word": "印度大巴名不虚传",
+        "onboard_time": 1689006568,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137086,
+        "num": 137086,
+        "word": "人生第一次上班",
+        "onboard_time": 1689004230,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 132698,
+        "num": 132698,
+        "word": "村民以为挖到废铁玩着玩着发现是国宝",
+        "onboard_time": 1688996555,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131019,
+        "num": 131019,
+        "word": "白鹿短发好酷",
+        "onboard_time": 1688994694,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129532,
+        "num": 129532,
+        "word": "第一次见这么抢劫的",
+        "onboard_time": 1689003695,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128895,
+        "num": 128895,
+        "word": "TF家族官方账号在掉粉",
+        "onboard_time": 1688993734,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 796790,
+        "num": 125695,
+        "word": "杨洋 方头明",
+        "onboard_time": 1689001598,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121370,
+        "num": 121370,
+        "word": "林俊杰广州",
+        "onboard_time": 1688990491,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114419,
+        "num": 121367,
+        "word": "碟中谍7",
+        "onboard_time": 1689002256,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105367,
+        "num": 121366,
+        "word": "有人看乐子 有人照镜子",
+        "onboard_time": 1689006748,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95708,
+        "num": 121362,
+        "word": "日男子照顾瘫痪妻子40年将其推入大海",
+        "onboard_time": 1688983653,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94031,
+        "num": 121355,
+        "word": "黄渤一把拉走袁泉",
+        "onboard_time": 1688996793,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国之大也有大国之重#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689006412071,
+  "endTime": 1689007438305,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -1267,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415704,
+      "num": 273517,
+      "word": "刘星和姥姥再续祖孙情",
+      "onboard_time": 1689005073,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411172,
       "num": 324531,
       "word": "上海火烧云",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1688980112,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 373042,
-      "num": 273517,
-      "word": "刘星和姥姥再续祖孙情",
-      "onboard_time": 1689005073,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 370451,
@@ -1627,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305396,
+      "num": 305396,
+      "word": "王一博热烈惊喜派对跳舞太燃了",
+      "onboard_time": 1689005073,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303598,
       "num": 303598,
       "word": "租房就是不想多花一分钱",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1688947111,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 299414,
-      "num": 299414,
-      "word": "王一博热烈惊喜派对跳舞太燃了",
-      "onboard_time": 1689005073,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 297953,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1688913275,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290312,
+      "num": 290312,
+      "word": "白人饭",
+      "onboard_time": 1689004711,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 289938,
@@ -1809,14 +1817,6 @@
       "onboard_time": 1689000034,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273537,
-      "num": 273537,
-      "word": "白人饭",
-      "onboard_time": 1689004711,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 273156,
@@ -2033,6 +2033,14 @@
       "onboard_time": 1688960191,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241692,
+      "num": 149259,
+      "word": "中3250万英镑的英国夫妻分手各结新欢",
+      "onboard_time": 1689005969,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 241620,
@@ -2635,6 +2643,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 150498,
+      "num": 150498,
+      "word": "封神北京首映礼",
+      "onboard_time": 1689007104,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149401,
       "num": 173608,
       "word": "黑龙江一18个月女孩从6楼窗台坠亡",
@@ -2667,12 +2683,12 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 140475,
-      "num": 140475,
-      "word": "中3250万英镑的英国夫妻分手各结新欢",
-      "onboard_time": 1689005969,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 138906,
+      "num": 138906,
+      "word": "印度大巴名不虚传",
+      "onboard_time": 1689006568,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 135640,
@@ -2729,6 +2745,14 @@
       "onboard_time": 1688945485,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105367,
+      "num": 121366,
+      "word": "有人看乐子 有人照镜子",
+      "onboard_time": 1689006748,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 100587,

@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689006412071,
+  "endTime": 1689007438305,
   "band_list": [
     {
       "raw_hot": 2672619,
@@ -91,6 +91,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 415704,
+      "num": 273517,
+      "word": "刘星和姥姥再续祖孙情",
+      "onboard_time": 1689005073,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396709,
       "num": 396709,
       "word": "女孩高考超一本线35分却报专科",
@@ -105,14 +113,6 @@
       "onboard_time": 1689002075,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 373042,
-      "num": 273517,
-      "word": "刘星和姥姥再续祖孙情",
-      "onboard_time": 1689005073,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 370009,
@@ -155,20 +155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305396,
+      "num": 305396,
+      "word": "王一博热烈惊喜派对跳舞太燃了",
+      "onboard_time": 1689005073,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301671,
       "num": 273485,
       "word": "专家称猴痘不太可能大规模传播",
       "onboard_time": 1688996254,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299414,
-      "num": 299414,
-      "word": "王一博热烈惊喜派对跳舞太燃了",
-      "onboard_time": 1689005073,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 292619,
@@ -179,8 +179,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273537,
-      "num": 273537,
+      "raw_hot": 290312,
+      "num": 290312,
       "word": "白人饭",
       "onboard_time": 1689004711,
       "rank": 19,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241692,
+      "num": 149259,
+      "word": "中3250万英镑的英国夫妻分手各结新欢",
+      "onboard_time": 1689005969,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223726,
       "num": 191273,
       "word": "4招识破真假护肤品",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 206426,
-      "num": 206426,
+      "num": 239575,
       "word": "陕西省发现一例猴痘病例",
       "onboard_time": 1688994153,
       "rank": 27,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 180596,
-      "num": 180596,
+      "num": 239462,
       "word": "千户苗寨火灾致2死6伤",
       "onboard_time": 1688982272,
       "rank": 34,
@@ -331,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150498,
+      "num": 150498,
+      "word": "封神北京首映礼",
+      "onboard_time": 1689007104,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148005,
       "num": 148005,
       "word": "TF家族官方账号在掉粉",
@@ -347,12 +363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140475,
-      "num": 140475,
-      "word": "中3250万英镑的英国夫妻分手各结新欢",
-      "onboard_time": 1689005969,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 138906,
+      "num": 138906,
+      "word": "印度大巴名不虚传",
+      "onboard_time": 1689006568,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 136899,
@@ -361,6 +377,14 @@
       "onboard_time": 1689002256,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132698,
+      "num": 132698,
+      "word": "村民以为挖到废铁玩着玩着发现是国宝",
+      "onboard_time": 1688996555,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129466,
@@ -393,6 +417,14 @@
       "onboard_time": 1689000034,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105367,
+      "num": 121366,
+      "word": "有人看乐子 有人照镜子",
+      "onboard_time": 1689006748,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 53654,
