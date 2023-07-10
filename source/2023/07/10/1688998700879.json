@@ -1,0 +1,410 @@
+{
+  "runTime": 1688998700879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1454687,
+        "num": 1454687,
+        "word": "陕西省发现一例猴痘病例",
+        "onboard_time": 1688994153,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056072,
+        "num": 1056072,
+        "word": "黄渤一把拉走袁泉",
+        "onboard_time": 1688996793,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95178,
+        "num": 853434,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1688992051,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067532,
+        "num": 848078,
+        "word": "Prada这次找对人了",
+        "onboard_time": 1688976696,
+        "rank": 3,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 835266,
+        "num": 835266,
+        "word": "曾少年女大学生吃菌子出幻觉",
+        "onboard_time": 1688992233,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1605654,
+        "num": 834845,
+        "word": "女孩高考超一本线35分却报专科",
+        "onboard_time": 1688990072,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 822569,
+        "num": 822569,
+        "word": "关晓彤范丞丞新剧吻戏",
+        "onboard_time": 1688997214,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 711755,
+        "num": 711755,
+        "word": "芈月宝格丽新皮肤",
+        "onboard_time": 1688993312,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 489295,
+        "num": 489295,
+        "word": "普京6月29日在克宫会见普里戈任",
+        "onboard_time": 1688993553,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472339,
+        "num": 472339,
+        "word": "林俊杰广州",
+        "onboard_time": 1688990491,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1124348,
+        "num": 460425,
+        "word": "薛小婉又又分手了",
+        "onboard_time": 1688991452,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 727499,
+        "num": 458166,
+        "word": "村民以为挖到废铁玩着玩着发现是国宝",
+        "onboard_time": 1688996555,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448147,
+        "num": 448147,
+        "word": "日男子照顾瘫痪妻子40年将其推入大海",
+        "onboard_time": 1688983653,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444143,
+        "num": 444143,
+        "word": "我的人间烟火",
+        "onboard_time": 1688994992,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420378,
+        "num": 420378,
+        "word": "女孩夸环卫爷爷的小狗可爱被赠奶茶",
+        "onboard_time": 1688992113,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390109,
+        "num": 390109,
+        "word": "商洛2岁男童走失6天在山顶被找到",
+        "onboard_time": 1688989890,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381101,
+        "num": 381101,
+        "word": "千户苗寨火灾致2死6伤",
+        "onboard_time": 1688982272,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364037,
+        "num": 364037,
+        "word": "在孙权墓前放中科大录取通知书",
+        "onboard_time": 1688983233,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359145,
+        "num": 359145,
+        "word": "警方回应网传男子性侵15岁少女被当众鞭打",
+        "onboard_time": 1688997937,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351957,
+        "num": 351957,
+        "word": "王楚然早期旧照",
+        "onboard_time": 1688985513,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 967789,
+        "num": 350806,
+        "word": "专家称猴痘不太可能大规模传播",
+        "onboard_time": 1688996254,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510940,
+        "num": 345707,
+        "word": "四川一老人当街抛扔双胞胎女婴",
+        "onboard_time": 1688992951,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495117,
+        "num": 343111,
+        "word": "冉莹颖让两个儿子独自出国",
+        "onboard_time": 1688987071,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471934,
+        "num": 336801,
+        "word": "白鹿短发好酷",
+        "onboard_time": 1688994694,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352078,
+        "num": 333863,
+        "word": "TF家族官方账号在掉粉",
+        "onboard_time": 1688993734,
+        "rank": 24,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 330919,
+        "num": 330919,
+        "word": "长安三万里",
+        "onboard_time": 1688997996,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299338,
+        "num": 299338,
+        "word": "女子当街将男子压在身下欲强扒衣物",
+        "onboard_time": 1688975012,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279307,
+        "num": 279307,
+        "word": "桑延终于有自己的城堡了",
+        "onboard_time": 1688997996,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273783,
+        "num": 273783,
+        "word": "消失的十一层",
+        "onboard_time": 1688995293,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268434,
+        "num": 268434,
+        "word": "吴世勋c位",
+        "onboard_time": 1688988212,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 552228,
+        "num": 266952,
+        "word": "被困缅北男子手脚被打断母亲崩溃",
+        "onboard_time": 1688997815,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255898,
+        "num": 255898,
+        "word": "新版妲己 猫咪纹",
+        "onboard_time": 1688989111,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243988,
+        "num": 243988,
+        "word": "娜扎cos芈月",
+        "onboard_time": 1688977231,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 231644,
+        "num": 231644,
+        "word": "网曝未满1岁婴儿坐船被要求买票",
+        "onboard_time": 1688979871,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218988,
+        "num": 218988,
+        "word": "刘诗雯出战乒超",
+        "onboard_time": 1688994630,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209310,
+        "num": 209310,
+        "word": "八角笼中票房破9亿",
+        "onboard_time": 1688992893,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204651,
+        "num": 204651,
+        "word": "偷偷藏不住",
+        "onboard_time": 1688990611,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199213,
+        "num": 199213,
+        "word": "北京多名摩托车骑手飙车致2人身亡",
+        "onboard_time": 1688986952,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197858,
+        "num": 197858,
+        "word": "八角笼中",
+        "onboard_time": 1688996917,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188069,
+        "num": 197848,
+        "word": "林俊杰晒与lesserafim合照",
+        "onboard_time": 1688989950,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180326,
+        "num": 197834,
+        "word": "双胞胎兄弟婚前婚后判若四人",
+        "onboard_time": 1688990009,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176609,
+        "num": 197834,
+        "word": "曾少年",
+        "onboard_time": 1688990491,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173140,
+        "num": 197817,
+        "word": "当我飞奔向你",
+        "onboard_time": 1688992472,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171962,
+        "num": 197798,
+        "word": "林俊杰演唱会北京加场",
+        "onboard_time": 1688993851,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148382,
+        "num": 197797,
+        "word": "TFBOYS十周年演唱会还不官宣吗",
+        "onboard_time": 1688976696,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147798,
+        "num": 197775,
+        "word": "汕头路边摊20元水果大满贯",
+        "onboard_time": 1688990790,
+        "rank": 45,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 146156,
+        "num": 197772,
+        "word": "女子母婴室哺乳陌生男子在旁玩手机",
+        "onboard_time": 1688991512,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141681,
+        "num": 197759,
+        "word": "能感受到西安官方的兴奋了",
+        "onboard_time": 1688982334,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133597,
+        "num": 197744,
+        "word": "鹿晗死守男德",
+        "onboard_time": 1688981013,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132468,
+        "num": 197729,
+        "word": "警方通报网传济南大学留学生月补3万元",
+        "onboard_time": 1688982514,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联护苗#"
+    }
+  }
+}
