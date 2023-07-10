@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688962991058,
+  "endTime": 1688963911961,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2505184,
+      "num": 2505184,
+      "word": "曝Jennie将与YG解约",
+      "onboard_time": 1688961514,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2474381,
       "num": 1118186,
       "word": "曝李玟老公找律师推翻遗嘱",
@@ -27,19 +35,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2292758,
-      "num": 1926891,
+      "raw_hot": 2307405,
+      "num": 2307405,
       "word": "华莎被告发涉嫌演出淫乱罪",
       "onboard_time": 1688960794,
       "rank": 3,
       "category": "艺人"
     },
     {
-      "raw_hot": 2190823,
-      "num": 2190823,
-      "word": "曝Jennie将与YG解约",
+      "raw_hot": 2220146,
+      "num": 2220146,
+      "word": "乔任梁父亲自曝住院",
       "onboard_time": 1688961514,
-      "rank": 1,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -51,8 +59,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1813070,
-      "num": 1813070,
+      "raw_hot": 1872410,
+      "num": 1872410,
       "word": "宋轶白敬亭 阳神",
       "onboard_time": 1688960552,
       "rank": 4,
@@ -73,14 +81,6 @@
       "onboard_time": 1688959532,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1580189,
-      "num": 1580189,
-      "word": "乔任梁父亲自曝住院",
-      "onboard_time": 1688961514,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1496601,
@@ -123,8 +123,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1055494,
-      "num": 1055494,
+      "raw_hot": 1067616,
+      "num": 1067616,
       "word": "毕业后一直在当女大学生",
       "onboard_time": 1688955752,
       "rank": 4,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 740024,
-      "num": 372252,
+      "num": 462198,
       "word": "婆婆想让老公出钱供妹妹上大学",
       "onboard_time": 1688948854,
       "rank": 20,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 667429,
-      "num": 370619,
+      "num": 549896,
       "word": "我爸在卫生间装上了空调",
       "onboard_time": 1688952512,
       "rank": 21,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 659765,
-      "num": 374978,
+      "num": 467239,
       "word": "赵丽颖蝴蝶结白裙",
       "onboard_time": 1688958629,
       "rank": 44,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 561060,
+      "num": 561060,
+      "word": "seventeen广州",
+      "onboard_time": 1688956290,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559518,
       "num": 559518,
       "word": "猫咪纹",
@@ -363,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 543961,
-      "num": 543961,
-      "word": "seventeen广州",
-      "onboard_time": 1688956290,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 547656,
+      "num": 547656,
+      "word": "陈哲远聂远邢菲演搭档",
+      "onboard_time": 1688963198,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 538596,
@@ -387,6 +395,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 519407,
+      "num": 519407,
+      "word": "杨幂摩登猫眼妆",
+      "onboard_time": 1688961936,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 508375,
       "num": 508375,
       "word": "爱豆鹿晗回来了",
@@ -403,6 +419,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 490241,
+      "num": 490241,
+      "word": "宝妈买3斤干冰降温家中秒变仙境",
+      "onboard_time": 1688963139,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484880,
+      "num": 484880,
+      "word": "长沙站准备的高铁客饭",
+      "onboard_time": 1688959414,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 464068,
       "num": 464068,
       "word": "徐明浩直播",
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 463775,
-      "num": 304620,
+      "num": 393423,
       "word": "真的反感朋友圈里的统一回复",
       "onboard_time": 1688946928,
       "rank": 22,
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 439918,
-      "num": 296811,
+      "num": 361794,
       "word": "朋友给去世老人烧护照",
       "onboard_time": 1688960428,
       "rank": 47,
@@ -507,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 415835,
-      "num": 369171,
-      "word": "杨幂摩登猫眼妆",
-      "onboard_time": 1688961936,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 404930,
       "num": 404930,
       "word": "白敬亭这次不心疼他的鞋了",
@@ -563,20 +587,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 372375,
-      "num": 372375,
-      "word": "长沙站准备的高铁客饭",
-      "onboard_time": 1688959414,
-      "rank": 39,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 370451,
       "num": 361184,
       "word": "你会整夜吹空调吗",
       "onboard_time": 1688914956,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 366200,
+      "num": 358798,
+      "word": "老公居然让我新婚上头条",
+      "onboard_time": 1688962717,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 356376,
@@ -747,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270497,
+      "num": 270497,
+      "word": "妈妈被小朋友的数学惊呆了",
+      "onboard_time": 1688961876,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269519,
       "num": 269519,
       "word": "吉林违建浮桥举报者受访",
@@ -785,6 +817,14 @@
       "onboard_time": 1688956352,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258092,
+      "num": 258092,
+      "word": "快乐的大人",
+      "onboard_time": 1688963562,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 257493,
@@ -1091,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193071,
-      "num": 193071,
-      "word": "妈妈被小朋友的数学惊呆了",
-      "onboard_time": 1688961876,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190492,
       "num": 190492,
       "word": "郑州通报金水河综合整治工程情况",
@@ -1211,6 +1243,22 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 135640,
+      "num": 230713,
+      "word": "淘宝为毕业生新增60000岗位",
+      "onboard_time": 1688961636,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132432,
+      "num": 683256,
+      "word": "打工人的命是止痛药给的",
+      "onboard_time": 1688961636,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131746,
       "num": 141865,
       "word": "手机被前男友折断了",
@@ -1291,14 +1339,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 83205,
-      "num": 683256,
-      "word": "打工人的命是止痛药给的",
-      "onboard_time": 1688961636,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78055,
       "num": 78055,
       "word": "玉骨遥",
@@ -1313,14 +1353,6 @@
       "onboard_time": 1688928793,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71735,
-      "num": 227695,
-      "word": "淘宝为毕业生新增60000岗位",
-      "onboard_time": 1688961636,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70204,
@@ -1368,6 +1400,14 @@
       "word": "遇到离岸流有多危险",
       "onboard_time": 1688930353,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20936,
+      "num": 2326971,
+      "word": "黄河之水天上来有画面了",
+      "onboard_time": 1688963741,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
