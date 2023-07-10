@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689017637783,
+  "endTime": 1689020413855,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -25131,6 +25131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55425,
+      "num": 48456,
+      "word": "吉林私搭浮桥多名过桥者发声",
+      "onboard_time": 1689014595,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54812,
       "num": 484837,
       "word": "山东省委书记揭秘乡村振兴经验",
@@ -25249,14 +25257,6 @@
       "onboard_time": 1688756115,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44761,
-      "num": 48456,
-      "word": "吉林私搭浮桥多名过桥者发声",
-      "onboard_time": 1689014595,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44058,
@@ -25465,6 +25465,14 @@
       "onboard_time": 1688668394,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27604,
+      "num": 26728,
+      "word": "原来垃圾袋可以套好几个",
+      "onboard_time": 1689019691,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 27554,
