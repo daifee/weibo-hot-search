@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688993866963,
+  "endTime": 1688995697757,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -107,7 +107,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1939092,
+      "raw_hot": 1964594,
       "num": 1939092,
       "word": "女孩高考超一本线35分却报专科",
       "onboard_time": 1688990072,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1189066,
+      "num": 1189066,
+      "word": "曾少年女大学生吃菌子出幻觉",
+      "onboard_time": 1688992233,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1157870,
       "num": 1157870,
       "word": "悬赏1000万找的狗找到了",
@@ -257,14 +265,6 @@
       "onboard_time": 1688979871,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1065847,
-      "num": 1065847,
-      "word": "曾少年女大学生吃菌子出幻觉",
-      "onboard_time": 1688992233,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1055322,
@@ -371,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 902995,
+      "num": 902995,
+      "word": "芈月宝格丽新皮肤",
+      "onboard_time": 1688993312,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 902649,
       "num": 902649,
       "word": "B组签售",
@@ -463,6 +471,14 @@
       "num": 816891,
       "word": "专家预计今年全球还将多次打破高温纪录",
       "onboard_time": 1688948854,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811556,
+      "num": 811556,
+      "word": "陕西省发现一例猴痘病例",
+      "onboard_time": 1688994153,
       "rank": 6,
       "category": "社会新闻"
     },
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 589871,
-      "num": 277905,
+      "num": 286118,
       "word": "新版妲己 猫咪纹",
       "onboard_time": 1688989111,
       "rank": 21,
@@ -803,6 +819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 509054,
+      "num": 304541,
+      "word": "四川一老人当街抛扔双胞胎女婴",
+      "onboard_time": 1688992951,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508375,
       "num": 508375,
       "word": "爱豆鹿晗回来了",
@@ -817,14 +841,6 @@
       "onboard_time": 1688982334,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 499227,
-      "num": 499227,
-      "word": "芈月宝格丽新皮肤",
-      "onboard_time": 1688993312,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 494149,
@@ -857,6 +873,14 @@
       "onboard_time": 1688988212,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 485594,
+      "num": 485594,
+      "word": "女孩夸环卫爷爷的小狗可爱被赠奶茶",
+      "onboard_time": 1688992113,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484995,
@@ -913,14 +937,6 @@
       "onboard_time": 1688946928,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 457378,
-      "num": 457378,
-      "word": "女孩夸环卫爷爷的小狗可爱被赠奶茶",
-      "onboard_time": 1688992113,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456266,
@@ -1011,6 +1027,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 428281,
+      "num": 428281,
+      "word": "偷偷藏不住",
+      "onboard_time": 1688990611,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424200,
       "num": 424200,
       "word": "警方通报北京政法职业学院学生纠纷",
@@ -1057,6 +1081,22 @@
       "onboard_time": 1688920465,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408277,
+      "num": 301879,
+      "word": "TF家族官方账号在掉粉",
+      "onboard_time": 1688993734,
+      "rank": 25,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 406689,
+      "num": 296412,
+      "word": "白鹿短发好酷",
+      "onboard_time": 1688994694,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 404930,
@@ -1116,7 +1156,7 @@
     },
     {
       "raw_hot": 380498,
-      "num": 270268,
+      "num": 284985,
       "word": "双胞胎兄弟婚前婚后判若四人",
       "onboard_time": 1688990009,
       "rank": 24,
@@ -1195,14 +1235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359564,
-      "num": 265368,
-      "word": "TF家族官方账号在掉粉",
-      "onboard_time": 1688993734,
-      "rank": 25,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 357512,
       "num": 294522,
       "word": "ZB1出道专辑",
@@ -1251,12 +1283,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 342261,
-      "num": 262490,
-      "word": "四川一老人当街抛扔双胞胎女婴",
-      "onboard_time": 1688992951,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 346900,
+      "num": 346900,
+      "word": "曾少年",
+      "onboard_time": 1688966794,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 336127,
@@ -1296,14 +1328,6 @@
       "word": "封神第一部",
       "onboard_time": 1688982994,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 328928,
-      "num": 328928,
-      "word": "曾少年",
-      "onboard_time": 1688966794,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -1491,20 +1515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284602,
-      "num": 284602,
-      "word": "偷偷藏不住",
-      "onboard_time": 1688990611,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 284192,
       "num": 284192,
       "word": "不设限毕业礼共唱歌单",
       "onboard_time": 1688967095,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282904,
+      "num": 282904,
+      "word": "八角笼中票房破9亿",
+      "onboard_time": 1688992893,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 281468,
@@ -1619,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262412,
+      "num": 262412,
+      "word": "汕头路边摊20元水果大满贯",
+      "onboard_time": 1688990790,
+      "rank": 36,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 261805,
       "num": 261805,
       "word": "赵露思济南",
@@ -1715,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252587,
+      "num": 252587,
+      "word": "普京6月29日在克宫会见普里戈任",
+      "onboard_time": 1688993553,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251243,
       "num": 251243,
       "word": "永远年轻永远有人正在办公",
@@ -1763,12 +1803,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240031,
-      "num": 240031,
-      "word": "汕头路边摊20元水果大满贯",
-      "onboard_time": 1688990790,
-      "rank": 36,
-      "category": "社会新闻,美食"
+      "raw_hot": 240969,
+      "num": 240969,
+      "word": "刘诗雯出战乒超",
+      "onboard_time": 1688994630,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 234771,
@@ -1883,6 +1923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220468,
+      "num": 220468,
+      "word": "林俊杰演唱会北京加场",
+      "onboard_time": 1688993851,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "曾少年今日开播",
@@ -1939,6 +1987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216021,
+      "num": 216021,
+      "word": "消失的十一层",
+      "onboard_time": 1688995293,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213501,
       "num": 213501,
       "word": "艾伦说我就是演了个WiFi",
@@ -1953,14 +2009,6 @@
       "onboard_time": 1688970812,
       "rank": 38,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 209513,
-      "num": 209513,
-      "word": "八角笼中票房破9亿",
-      "onboard_time": 1688992893,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 209205,
@@ -2139,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194394,
+      "num": 194394,
+      "word": "我的人间烟火",
+      "onboard_time": 1688922862,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190492,
       "num": 190492,
       "word": "郑州通报金水河综合整治工程情况",
@@ -2251,14 +2307,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 159905,
-      "num": 159905,
-      "word": "林俊杰演唱会北京加场",
-      "onboard_time": 1688993851,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 156744,
       "num": 156744,
       "word": "张杰年度最佳内地男歌手",
@@ -2363,14 +2411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101239,
-      "num": 101239,
-      "word": "我的人间烟火",
-      "onboard_time": 1688922862,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 100587,
       "num": 566733,
       "word": "张靓颖 我的伤就是我的光",
@@ -2443,19 +2483,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74674,
+      "num": 1486587,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1688992051,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70204,
       "num": 70204,
       "word": "高温天女子给工人送2瓶冰水解暑",
       "onboard_time": 1688943921,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66536,
-      "num": 1486587,
-      "word": "盛世中华何以中国",
-      "onboard_time": 1688992051,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

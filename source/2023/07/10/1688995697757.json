@@ -1,0 +1,410 @@
+{
+  "runTime": 1688995697757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1189066,
+        "num": 1189066,
+        "word": "曾少年女大学生吃菌子出幻觉",
+        "onboard_time": 1688992233,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1044137,
+        "num": 1044137,
+        "word": "林俊杰广州",
+        "onboard_time": 1688990491,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74674,
+        "num": 944488,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1688992051,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1395835,
+        "num": 942050,
+        "word": "Prada这次找对人了",
+        "onboard_time": 1688976696,
+        "rank": 3,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 902995,
+        "num": 902995,
+        "word": "芈月宝格丽新皮肤",
+        "onboard_time": 1688993312,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1964594,
+        "num": 894177,
+        "word": "女孩高考超一本线35分却报专科",
+        "onboard_time": 1688990072,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 811556,
+        "num": 811556,
+        "word": "陕西省发现一例猴痘病例",
+        "onboard_time": 1688994153,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485594,
+        "num": 485594,
+        "word": "女孩夸环卫爷爷的小狗可爱被赠奶茶",
+        "onboard_time": 1688992113,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443647,
+        "num": 443647,
+        "word": "在孙权墓前放中科大录取通知书",
+        "onboard_time": 1688983233,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 439457,
+        "num": 439457,
+        "word": "千户苗寨火灾致2死6伤",
+        "onboard_time": 1688982272,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211268,
+        "num": 437344,
+        "word": "薛小婉又又分手了",
+        "onboard_time": 1688991452,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 514134,
+        "num": 434187,
+        "word": "日男子照顾瘫痪妻子40年将其推入大海",
+        "onboard_time": 1688983653,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428281,
+        "num": 428281,
+        "word": "偷偷藏不住",
+        "onboard_time": 1688990611,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352398,
+        "num": 352398,
+        "word": "娜扎cos芈月",
+        "onboard_time": 1688977231,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 346900,
+        "num": 346900,
+        "word": "曾少年",
+        "onboard_time": 1688990491,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328061,
+        "num": 328061,
+        "word": "王楚然早期旧照",
+        "onboard_time": 1688985513,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322609,
+        "num": 322609,
+        "word": "林俊杰晒与lesserafim合照",
+        "onboard_time": 1688989950,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314535,
+        "num": 314535,
+        "word": "王者宝格丽发布盛典",
+        "onboard_time": 1688988031,
+        "rank": 17,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 279420,
+        "num": 313252,
+        "word": "网曝未满1岁婴儿坐船被要求买票",
+        "onboard_time": 1688979871,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229902,
+        "num": 308787,
+        "word": "李硕珉脸链",
+        "onboard_time": 1688987911,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 509054,
+        "num": 304541,
+        "word": "四川一老人当街抛扔双胞胎女婴",
+        "onboard_time": 1688992951,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408277,
+        "num": 301879,
+        "word": "TF家族官方账号在掉粉",
+        "onboard_time": 1688993734,
+        "rank": 21,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 406689,
+        "num": 296412,
+        "word": "白鹿短发好酷",
+        "onboard_time": 1688994694,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344170,
+        "num": 293758,
+        "word": "女子当街将男子压在身下欲强扒衣物",
+        "onboard_time": 1688975012,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334773,
+        "num": 289878,
+        "word": "吴世勋c位",
+        "onboard_time": 1688988212,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331728,
+        "num": 286118,
+        "word": "新版妲己 猫咪纹",
+        "onboard_time": 1688989111,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284985,
+        "num": 284985,
+        "word": "双胞胎兄弟婚前婚后判若四人",
+        "onboard_time": 1688990009,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282904,
+        "num": 282904,
+        "word": "八角笼中票房破9亿",
+        "onboard_time": 1688992893,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262412,
+        "num": 262412,
+        "word": "汕头路边摊20元水果大满贯",
+        "onboard_time": 1688990790,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 259205,
+        "num": 259205,
+        "word": "当我飞奔向你",
+        "onboard_time": 1688992472,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252587,
+        "num": 252587,
+        "word": "普京6月29日在克宫会见普里戈任",
+        "onboard_time": 1688993553,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240969,
+        "num": 240969,
+        "word": "刘诗雯出战乒超",
+        "onboard_time": 1688994630,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235469,
+        "num": 235469,
+        "word": "冉莹颖让两个儿子独自出国",
+        "onboard_time": 1688987071,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226232,
+        "num": 226232,
+        "word": "商洛2岁男童走失6天在山顶被找到",
+        "onboard_time": 1688989890,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220468,
+        "num": 220468,
+        "word": "林俊杰演唱会北京加场",
+        "onboard_time": 1688993851,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216021,
+        "num": 216021,
+        "word": "消失的十一层",
+        "onboard_time": 1688995293,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209522,
+        "num": 209522,
+        "word": "警方通报网传济南大学留学生月补3万元",
+        "onboard_time": 1688982514,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208190,
+        "num": 208190,
+        "word": "北京多名摩托车骑手飙车致2人身亡",
+        "onboard_time": 1688986952,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199100,
+        "num": 199100,
+        "word": "果然青蛙人从来没让我失望过",
+        "onboard_time": 1688990672,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194394,
+        "num": 194394,
+        "word": "我的人间烟火",
+        "onboard_time": 1688994992,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183638,
+        "num": 183638,
+        "word": "能感受到西安官方的兴奋了",
+        "onboard_time": 1688982334,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176951,
+        "num": 176951,
+        "word": "女子母婴室哺乳陌生男子在旁玩手机",
+        "onboard_time": 1688991512,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170666,
+        "num": 170666,
+        "word": "鹿晗死守男德",
+        "onboard_time": 1688981013,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170639,
+        "num": 170639,
+        "word": "Seventeen广州签售会",
+        "onboard_time": 1688971591,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169562,
+        "num": 169562,
+        "word": "EXO回归直播",
+        "onboard_time": 1688972552,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160466,
+        "num": 160466,
+        "word": "北京一房主被中介要求降价200万",
+        "onboard_time": 1688980351,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157046,
+        "num": 157046,
+        "word": "TFBOYS十周年演唱会还不官宣吗",
+        "onboard_time": 1688976696,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148123,
+        "num": 148123,
+        "word": "李飞你的对手来了",
+        "onboard_time": 1688981493,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147557,
+        "num": 147557,
+        "word": "杨紫工作室公布名誉维权案进展",
+        "onboard_time": 1688975671,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144051,
+        "num": 144051,
+        "word": "Prada成为中国国家女子足球队官方合作伙伴",
+        "onboard_time": 1688973273,
+        "rank": 49,
+        "category": "体育,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#当千里江山图遇上壮美陕西#"
+    }
+  }
+}
