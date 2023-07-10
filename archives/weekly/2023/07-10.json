@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688978372579,
+  "endTime": 1688980803013,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -57,6 +57,14 @@
       "onboard_time": 1688960794,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2224569,
+      "num": 1103985,
+      "word": "Prada这次找对人了",
+      "onboard_time": 1688976696,
+      "rank": 15,
+      "category": "时尚,体育"
     },
     {
       "raw_hot": 2220146,
@@ -171,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1055322,
+      "num": 1055322,
+      "word": "娜扎cos芈月",
+      "onboard_time": 1688977231,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1014571,
       "num": 1014571,
       "word": "杨紫工作室公布名誉维权案进展",
@@ -209,14 +225,6 @@
       "onboard_time": 1688962717,
       "rank": 31,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 975008,
-      "num": 975008,
-      "word": "Prada这次找对人了",
-      "onboard_time": 1688976696,
-      "rank": 15,
-      "category": "时尚,体育"
     },
     {
       "raw_hot": 963348,
@@ -267,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 902649,
+      "num": 902649,
+      "word": "B组签售",
+      "onboard_time": 1688978433,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 896825,
       "num": 896825,
       "word": "因为我男朋友开了家螺蛳粉店",
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 869836,
-      "num": 869836,
-      "word": "娜扎cos芈月",
-      "onboard_time": 1688977231,
-      "rank": 26,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 849487,
       "num": 849487,
       "word": "大熊猫捡到游客的伞还给撑开了",
@@ -321,6 +329,14 @@
       "onboard_time": 1688913154,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 843735,
+      "num": 843735,
+      "word": "EXO回归新歌CreamSoda",
+      "onboard_time": 1688980112,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 816891,
@@ -475,6 +491,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 639919,
+      "num": 639919,
+      "word": "EXO回归直播",
+      "onboard_time": 1688972552,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639389,
       "num": 639389,
       "word": "国乒公布杭州亚运会名单",
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551442,
+      "num": 364683,
+      "word": "李现是怎么忍住甜品只吃一口的",
+      "onboard_time": 1688976513,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547656,
       "num": 547656,
       "word": "陈哲远聂远邢菲演搭档",
@@ -657,14 +689,6 @@
       "onboard_time": 1688966136,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 471577,
-      "num": 471577,
-      "word": "EXO回归直播",
-      "onboard_time": 1688972552,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 464068,
@@ -827,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397446,
-      "num": 309995,
-      "word": "李现是怎么忍住甜品只吃一口的",
-      "onboard_time": 1688976513,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386769,
       "num": 302069,
       "word": "TMEA导播叫尹净汉最漂亮的那个",
@@ -891,12 +907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374350,
+      "num": 323752,
+      "word": "抓到植物偷偷喝水",
+      "onboard_time": 1688980112,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 370451,
       "num": 361184,
       "word": "你会整夜吹空调吗",
       "onboard_time": 1688914956,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 368237,
+      "num": 261922,
+      "word": "7D的新娘2D的新郎",
+      "onboard_time": 1688979753,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 366035,
@@ -955,12 +987,44 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 331716,
+      "num": 331716,
+      "word": "北京一房主被中介要求降价200万",
+      "onboard_time": 1688980351,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327333,
+      "num": 261699,
+      "word": "ZB1出道专辑",
+      "onboard_time": 1688979932,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 325985,
       "num": 213191,
       "word": "南大0001号录取通知书获得者",
       "onboard_time": 1688941275,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 320146,
+      "num": 320146,
+      "word": "头像真的会影响聊天欲望",
+      "onboard_time": 1688977352,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 317267,
+      "num": 317267,
+      "word": "工人40度天高空作业女子隔窗送冷饮",
+      "onboard_time": 1688973210,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316273,
@@ -1027,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296199,
+      "num": 259356,
+      "word": "ZB1全员唱功",
+      "onboard_time": 1688979334,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 296143,
       "num": 296143,
       "word": "seventeen视频有了吗",
@@ -1057,14 +1129,6 @@
       "onboard_time": 1688913275,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 290658,
-      "num": 290658,
-      "word": "工人40度天高空作业女子隔窗送冷饮",
-      "onboard_time": 1688973210,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289938,
@@ -1105,6 +1169,14 @@
       "onboard_time": 1688967095,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283693,
+      "num": 258323,
+      "word": "网曝未满1岁婴儿坐船被要求买票",
+      "onboard_time": 1688979871,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281468,
@@ -1155,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272945,
+      "num": 258192,
+      "word": "徐志胜最想销毁的名场面是给李雪琴化妆",
+      "onboard_time": 1688978971,
+      "rank": 38,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 271762,
       "num": 214920,
       "word": "郑州狗主悬赏1000万人民币寻狗",
@@ -1177,14 +1257,6 @@
       "onboard_time": 1688958329,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 268712,
-      "num": 268712,
-      "word": "头像真的会影响聊天欲望",
-      "onboard_time": 1688977352,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 265783,
@@ -1283,6 +1355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 252957,
+      "num": 260532,
+      "word": "中国女足",
+      "onboard_time": 1688979871,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252898,
       "num": 263792,
       "word": "婚车偶遇新娘互换捧花彼此祝福",
@@ -1337,6 +1417,22 @@
       "onboard_time": 1688949630,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229386,
+      "num": 229386,
+      "word": "部落冲突",
+      "onboard_time": 1688979572,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 228920,
+      "num": 228920,
+      "word": "谁给徐明浩戴的猫耳",
+      "onboard_time": 1688980773,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225834,
@@ -1513,6 +1609,14 @@
       "onboard_time": 1688951493,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203359,
+      "num": 203359,
+      "word": "ZB1出道发布会",
+      "onboard_time": 1688971172,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 203289,
@@ -1699,6 +1803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166975,
+      "num": 175432,
+      "word": "没想到喝个水得用扛的",
+      "onboard_time": 1688980652,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164282,
       "num": 176142,
       "word": "Fofo Uzi想弄就跟",
@@ -1729,14 +1841,6 @@
       "onboard_time": 1688919507,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 149981,
-      "num": 149981,
-      "word": "ZB1出道发布会",
-      "onboard_time": 1688971172,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 149401,
