@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688973506090,
+  "endTime": 1688974460272,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -153,6 +153,14 @@
       "onboard_time": 1688910754,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1078872,
+      "num": 1078872,
+      "word": "Prada成为中国国家女子足球队官方合作伙伴",
+      "onboard_time": 1688973273,
+      "rank": 39,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 1010258,
@@ -419,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 624974,
+      "num": 569928,
+      "word": "杨幂采访谈离嘉",
+      "onboard_time": 1688973692,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 619843,
       "num": 490241,
       "word": "宝妈买3斤干冰降温家中秒变仙境",
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563579,
+      "num": 563579,
+      "word": "Seventeen广州签售会",
+      "onboard_time": 1688971591,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561060,
       "num": 561060,
       "word": "seventeen广州",
@@ -481,14 +505,6 @@
       "onboard_time": 1688918310,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548438,
-      "num": 548438,
-      "word": "Seventeen广州签售会",
-      "onboard_time": 1688971591,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 547656,
@@ -539,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 488427,
+      "num": 389283,
+      "word": "BLACKPINK会不会解散",
+      "onboard_time": 1688970393,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484995,
       "num": 423740,
       "word": "黄牛为了林俊杰演唱会抢票做题",
@@ -555,16 +579,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 477098,
-      "num": 348226,
-      "word": "BLACKPINK会不会解散",
-      "onboard_time": 1688970393,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 473471,
-      "num": 347704,
+      "raw_hot": 478270,
+      "num": 386404,
       "word": "肖战工作室太皮了",
       "onboard_time": 1688972070,
       "rank": 21,
@@ -577,6 +593,14 @@
       "onboard_time": 1688966136,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 471577,
+      "num": 471577,
+      "word": "EXO回归直播",
+      "onboard_time": 1688972552,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 464068,
@@ -601,6 +625,14 @@
       "onboard_time": 1688945365,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 441900,
+      "num": 441900,
+      "word": "男孩泳池中央溺水20秒被好心男子救起",
+      "onboard_time": 1688971290,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440601,
@@ -691,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 416895,
-      "num": 287644,
-      "word": "EXO回归直播",
-      "onboard_time": 1688972552,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 404930,
       "num": 404930,
       "word": "白敬亭这次不心疼他的鞋了",
@@ -731,16 +755,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388894,
-      "num": 388894,
-      "word": "男孩泳池中央溺水20秒被好心男子救起",
-      "onboard_time": 1688971290,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386769,
-      "num": 287591,
+      "num": 302069,
       "word": "TMEA导播叫尹净汉最漂亮的那个",
       "onboard_time": 1688970096,
       "rank": 35,
@@ -769,6 +785,14 @@
       "onboard_time": 1688919269,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 380152,
+      "num": 380152,
+      "word": "官方通报西江千户苗寨景区火情",
+      "onboard_time": 1688970630,
+      "rank": 33,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 378104,
@@ -819,14 +843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 341763,
-      "num": 341763,
-      "word": "官方通报西江千户苗寨景区火情",
-      "onboard_time": 1688970630,
-      "rank": 33,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 336127,
       "num": 336127,
       "word": "白敬亭张昊唯没白来极限挑战",
@@ -841,6 +857,14 @@
       "onboard_time": 1688958871,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331990,
+      "num": 331990,
+      "word": "官方回应导游不允许女子车上睡觉",
+      "onboard_time": 1688972612,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 325985,
@@ -872,6 +896,22 @@
       "word": "高温让空调安装师傅成了最难约的人",
       "onboard_time": 1688968295,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302688,
+      "num": 301957,
+      "word": "花店老板接33700元订单被利用参与洗钱",
+      "onboard_time": 1688974054,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302216,
+      "num": 302216,
+      "word": "网友都给爱宝二胎起了啥名",
+      "onboard_time": 1688972070,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -947,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288591,
+      "num": 288591,
+      "word": "工人40度天高空作业女子隔窗送冷饮",
+      "onboard_time": 1688973210,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287401,
       "num": 287401,
       "word": "清融妖刀",
@@ -985,14 +1033,6 @@
       "onboard_time": 1688952212,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280805,
-      "num": 280805,
-      "word": "官方回应导游不允许女子车上睡觉",
-      "onboard_time": 1688972612,
-      "rank": 32,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 280090,
@@ -1075,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260106,
+      "num": 260106,
+      "word": "郑润泽 抢票",
+      "onboard_time": 1688973273,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 258092,
       "num": 258092,
       "word": "快乐的大人",
@@ -1155,14 +1203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247991,
-      "num": 247991,
-      "word": "网友都给爱宝二胎起了啥名",
-      "onboard_time": 1688972070,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247073,
       "num": 247073,
       "word": "养娃后衣服码数变大的原因",
@@ -1185,14 +1225,6 @@
       "onboard_time": 1688968533,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231194,
-      "num": 220482,
-      "word": "郑润泽 抢票",
-      "onboard_time": 1688973273,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 229854,
@@ -1251,14 +1283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220550,
-      "num": 220550,
-      "word": "Prada成为中国国家女子足球队官方合作伙伴",
-      "onboard_time": 1688973273,
-      "rank": 39,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 219410,
       "num": 219410,
       "word": "曾少年",
@@ -1305,14 +1329,6 @@
       "onboard_time": 1688953051,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214639,
-      "num": 214639,
-      "word": "工人40度天高空作业女子隔窗送冷饮",
-      "onboard_time": 1688973210,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213501,
@@ -1784,6 +1800,14 @@
       "word": "专业人士回应遇离岸流如何自救",
       "onboard_time": 1688930053,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31539,
+      "num": 1086175,
+      "word": "黄河流域发现长达百万年连续古人类文化遗存",
+      "onboard_time": 1688974231,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

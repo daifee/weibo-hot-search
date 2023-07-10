@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688973506090,
+  "endTime": 1688974460272,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3297,6 +3297,14 @@
       "onboard_time": 1688303141,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1078872,
+      "num": 1078872,
+      "word": "Prada成为中国国家女子足球队官方合作伙伴",
+      "onboard_time": 1688973273,
+      "rank": 39,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 1077195,
@@ -7163,6 +7171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 624974,
+      "num": 569928,
+      "word": "杨幂采访谈离嘉",
+      "onboard_time": 1688973692,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 624217,
       "num": 624217,
       "word": "茶百道 未定事件簿",
@@ -7939,6 +7955,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 563579,
+      "num": 563579,
+      "word": "Seventeen广州签售会",
+      "onboard_time": 1688971591,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563490,
       "num": 563490,
       "word": "这是一只吃了菌子的大熊猫吧",
@@ -8145,14 +8169,6 @@
       "onboard_time": 1688550633,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548438,
-      "num": 548438,
-      "word": "Seventeen广州签售会",
-      "onboard_time": 1688971591,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 547796,
@@ -9179,6 +9195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 488427,
+      "num": 389283,
+      "word": "BLACKPINK会不会解散",
+      "onboard_time": 1688970393,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487775,
       "num": 487775,
       "word": "感觉文字很轻也很重",
@@ -9339,6 +9363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 478270,
+      "num": 386404,
+      "word": "肖战工作室太皮了",
+      "onboard_time": 1688972070,
+      "rank": 21,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 477329,
       "num": 477329,
       "word": "富豪为长生不老上午11点后断食",
@@ -9353,14 +9385,6 @@
       "onboard_time": 1688567087,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 477098,
-      "num": 348226,
-      "word": "BLACKPINK会不会解散",
-      "onboard_time": 1688970393,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 476971,
@@ -9427,14 +9451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 473471,
-      "num": 347704,
-      "word": "肖战工作室太皮了",
-      "onboard_time": 1688972070,
-      "rank": 21,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 473410,
       "num": 424293,
       "word": "当事人称没架桥前溺亡22位乡亲",
@@ -9465,6 +9481,14 @@
       "onboard_time": 1688213011,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471577,
+      "num": 471577,
+      "word": "EXO回归直播",
+      "onboard_time": 1688972552,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 471216,
@@ -10179,6 +10203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441900,
+      "num": 441900,
+      "word": "男孩泳池中央溺水20秒被好心男子救起",
+      "onboard_time": 1688971290,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440601,
       "num": 431251,
       "word": "ITZY 丑妆造",
@@ -10721,14 +10753,6 @@
       "onboard_time": 1688399796,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 416895,
-      "num": 287644,
-      "word": "EXO回归直播",
-      "onboard_time": 1688972552,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 416510,
@@ -11395,14 +11419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 388894,
-      "num": 388894,
-      "word": "男孩泳池中央溺水20秒被好心男子救起",
-      "onboard_time": 1688971290,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388758,
       "num": 325147,
       "word": "王传君片场对着张艺兴跳舞",
@@ -11476,7 +11492,7 @@
     },
     {
       "raw_hot": 386769,
-      "num": 287591,
+      "num": 302069,
       "word": "TMEA导播叫尹净汉最漂亮的那个",
       "onboard_time": 1688970096,
       "rank": 35,
@@ -11721,6 +11737,14 @@
       "onboard_time": 1688919269,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 380152,
+      "num": 380152,
+      "word": "官方通报西江千户苗寨景区火情",
+      "onboard_time": 1688970630,
+      "rank": 33,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 379668,
@@ -12907,14 +12931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341763,
-      "num": 341763,
-      "word": "官方通报西江千户苗寨景区火情",
-      "onboard_time": 1688970630,
-      "rank": 33,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 341703,
       "num": 341703,
       "word": "毕业一年爸爸突然找我借五千块",
@@ -13249,6 +13265,14 @@
       "onboard_time": 1688625395,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331990,
+      "num": 331990,
+      "word": "官方回应导游不允许女子车上睡觉",
+      "onboard_time": 1688972612,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 331617,
@@ -14283,6 +14307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302688,
+      "num": 301957,
+      "word": "花店老板接33700元订单被利用参与洗钱",
+      "onboard_time": 1688974054,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302611,
       "num": 302611,
       "word": "感觉唱得都快读出来了",
@@ -14305,6 +14337,14 @@
       "onboard_time": 1688864427,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302216,
+      "num": 302216,
+      "word": "网友都给爱宝二胎起了啥名",
+      "onboard_time": 1688972070,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301973,
@@ -14987,6 +15027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288591,
+      "num": 288591,
+      "word": "工人40度天高空作业女子隔窗送冷饮",
+      "onboard_time": 1688973210,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288560,
       "num": 288560,
       "word": "金钟云直播",
@@ -15297,14 +15345,6 @@
       "onboard_time": 1688869770,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280805,
-      "num": 280805,
-      "word": "官方回应导游不允许女子车上睡觉",
-      "onboard_time": 1688972612,
-      "rank": 32,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 280520,
@@ -16243,6 +16283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260106,
+      "num": 260106,
+      "word": "郑润泽 抢票",
+      "onboard_time": 1688973273,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 260022,
       "num": 260022,
       "word": "梦海开分意难平吗",
@@ -16985,14 +17033,6 @@
       "onboard_time": 1688266049,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247991,
-      "num": 247991,
-      "word": "网友都给爱宝二胎起了啥名",
-      "onboard_time": 1688972070,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247852,
@@ -17843,14 +17883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231194,
-      "num": 220482,
-      "word": "郑润泽 抢票",
-      "onboard_time": 1688973273,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 230740,
       "num": 230740,
       "word": "评论区里的表白才最好磕",
@@ -18547,14 +18579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220550,
-      "num": 220550,
-      "word": "Prada成为中国国家女子足球队官方合作伙伴",
-      "onboard_time": 1688973273,
-      "rank": 39,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 220534,
       "num": 220534,
       "word": "海猫",
@@ -18905,14 +18929,6 @@
       "onboard_time": 1688556452,
       "rank": 41,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 214639,
-      "num": 214639,
-      "word": "工人40度天高空作业女子隔窗送冷饮",
-      "onboard_time": 1688973210,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214519,
@@ -24345,6 +24361,14 @@
       "onboard_time": 1688617302,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31539,
+      "num": 1086175,
+      "word": "黄河流域发现长达百万年连续古人类文化遗存",
+      "onboard_time": 1688974231,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31098,
