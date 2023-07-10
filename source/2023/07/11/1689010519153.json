@@ -1,0 +1,410 @@
+{
+  "runTime": 1689010519153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315201,
+        "num": 1315201,
+        "word": "死臀综合征",
+        "onboard_time": 1689002617,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 572699,
+        "num": 572699,
+        "word": "CA1524 颠簸",
+        "onboard_time": 1689007704,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22663,
+        "num": 505808,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1688992051,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466946,
+        "num": 466946,
+        "word": "杨洋大大方方营业",
+        "onboard_time": 1689000158,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387333,
+        "num": 387333,
+        "word": "她脱下雨衣的那一刻真美",
+        "onboard_time": 1689003274,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 308639,
+        "num": 308639,
+        "word": "金奎彬晕倒",
+        "onboard_time": 1689003873,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248128,
+        "num": 248128,
+        "word": "魏大勋隐忍式哭戏",
+        "onboard_time": 1688999917,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238835,
+        "num": 238835,
+        "word": "孟子义算命",
+        "onboard_time": 1689004173,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233470,
+        "num": 233470,
+        "word": "茶百道未定事件簿联名",
+        "onboard_time": 1689004052,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193129,
+        "num": 193129,
+        "word": "Prada这次找对人了",
+        "onboard_time": 1688976696,
+        "rank": 9,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 189429,
+        "num": 189429,
+        "word": "终于有狗子愿意理肖战了",
+        "onboard_time": 1689008961,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183353,
+        "num": 183353,
+        "word": "女孩高考超一本线35分却报专科",
+        "onboard_time": 1688990072,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 182189,
+        "num": 182189,
+        "word": "中3250万英镑的英国夫妻分手各结新欢",
+        "onboard_time": 1689005969,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171982,
+        "num": 171982,
+        "word": "许沁改姓",
+        "onboard_time": 1689002075,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161557,
+        "num": 161557,
+        "word": "关晓彤范丞丞新剧吻戏",
+        "onboard_time": 1688997214,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155761,
+        "num": 155761,
+        "word": "薛小婉又又分手了",
+        "onboard_time": 1688991452,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153490,
+        "num": 153490,
+        "word": "白人饭",
+        "onboard_time": 1689004711,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151069,
+        "num": 151069,
+        "word": "王一博热烈惊喜派对跳舞太燃了",
+        "onboard_time": 1689005073,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142940,
+        "num": 142940,
+        "word": "曾少年女大学生吃菌子出幻觉",
+        "onboard_time": 1688992233,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138604,
+        "num": 138604,
+        "word": "日男子照顾瘫痪妻子40年将其推入大海",
+        "onboard_time": 1688983653,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143712,
+        "num": 133575,
+        "word": "女子当街将男子压在身下欲强扒衣物",
+        "onboard_time": 1688975012,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122121,
+        "num": 122121,
+        "word": "专家称猴痘不太可能大规模传播",
+        "onboard_time": 1688996254,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121509,
+        "num": 121509,
+        "word": "张萌泳装照",
+        "onboard_time": 1689008362,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121485,
+        "num": 121485,
+        "word": "新版妲己 猫咪纹",
+        "onboard_time": 1688989111,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121473,
+        "num": 121473,
+        "word": "冉莹颖让两个儿子独自出国",
+        "onboard_time": 1688987071,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108626,
+        "num": 108626,
+        "word": "李昊 人齐了啊",
+        "onboard_time": 1689002075,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105701,
+        "num": 105701,
+        "word": "刘星和姥姥再续祖孙情",
+        "onboard_time": 1689005073,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98865,
+        "num": 98865,
+        "word": "家庭氛围会影响孩子性格吗",
+        "onboard_time": 1689002376,
+        "rank": 27,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 96712,
+        "num": 96712,
+        "word": "芈月宝格丽新皮肤",
+        "onboard_time": 1688993312,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94257,
+        "num": 94257,
+        "word": "千户苗寨火灾致2死6伤",
+        "onboard_time": 1688982272,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120401,
+        "num": 94090,
+        "word": "印度大巴名不虚传",
+        "onboard_time": 1689006568,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 92436,
+        "num": 92436,
+        "word": "孙珍妮又演狐狸",
+        "onboard_time": 1689000576,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91771,
+        "num": 91771,
+        "word": "吴世勋c位",
+        "onboard_time": 1688988212,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87204,
+        "num": 87204,
+        "word": "4招识破真假护肤品",
+        "onboard_time": 1689004829,
+        "rank": 33,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 82616,
+        "num": 82616,
+        "word": "有人看乐子 有人照镜子",
+        "onboard_time": 1689006748,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80584,
+        "num": 80584,
+        "word": "商洛2岁男童走失6天在山顶被找到",
+        "onboard_time": 1688989890,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79808,
+        "num": 79808,
+        "word": "饭后整齐洗脸的可爱猫猫",
+        "onboard_time": 1689005370,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 78920,
+        "num": 78920,
+        "word": "陕西省发现一例猴痘病例",
+        "onboard_time": 1688994153,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75923,
+        "num": 75923,
+        "word": "TF家族官方账号在掉粉",
+        "onboard_time": 1688993734,
+        "rank": 38,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 74623,
+        "num": 74623,
+        "word": "林俊杰广州",
+        "onboard_time": 1688990491,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74210,
+        "num": 74210,
+        "word": "人生第一次上班",
+        "onboard_time": 1689004230,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 67519,
+        "num": 74210,
+        "word": "村民以为挖到废铁玩着玩着发现是国宝",
+        "onboard_time": 1688996555,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67121,
+        "num": 74204,
+        "word": "上海火烧云",
+        "onboard_time": 1688999556,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66111,
+        "num": 74192,
+        "word": "白鹿短发好酷",
+        "onboard_time": 1688994694,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65382,
+        "num": 74189,
+        "word": "卓沅的vlog",
+        "onboard_time": 1689004473,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62023,
+        "num": 74183,
+        "word": "幸亏小狗不会说话",
+        "onboard_time": 1689003572,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57746,
+        "num": 74179,
+        "word": "曾少年",
+        "onboard_time": 1688990491,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54307,
+        "num": 74171,
+        "word": "林俊杰晒与lesserafim合照",
+        "onboard_time": 1688989950,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53096,
+        "num": 74165,
+        "word": "第一次见这么抢劫的",
+        "onboard_time": 1689003695,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50497,
+        "num": 74158,
+        "word": "封神北京首映礼",
+        "onboard_time": 1689007104,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见所罗门群岛总理#"
+    }
+  }
+}
