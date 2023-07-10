@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688970357440,
+  "endTime": 1688971204350,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1978790,
-      "num": 1978790,
+      "raw_hot": 2205263,
+      "num": 2205263,
       "word": "李咏女儿将出道",
       "onboard_time": 1688968895,
       "rank": 1,
@@ -283,12 +283,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783437,
+      "num": 783437,
+      "word": "奔跑吧",
+      "onboard_time": 1688967454,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 764919,
+      "num": 764919,
+      "word": "蔡依林郑州",
+      "onboard_time": 1688970153,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 752290,
       "num": 752290,
       "word": "种地吧 文化输出",
       "onboard_time": 1688957309,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 748180,
+      "num": 748180,
+      "word": "父亲淡定晒相处25年的姐弟俩打架",
+      "onboard_time": 1688969496,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 740024,
@@ -313,14 +337,6 @@
       "onboard_time": 1688944944,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 711602,
-      "num": 711602,
-      "word": "奔跑吧",
-      "onboard_time": 1688967454,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 704676,
@@ -523,12 +539,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 468270,
-      "num": 468270,
-      "word": "父亲淡定晒相处25年的姐弟俩打架",
-      "onboard_time": 1688969496,
-      "rank": 17,
-      "category": "社会新闻,情感"
+      "raw_hot": 472877,
+      "num": 472877,
+      "word": "不知火传说皮肤",
+      "onboard_time": 1688966136,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 464068,
@@ -547,28 +563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 460229,
-      "num": 460229,
-      "word": "不知火传说皮肤",
-      "onboard_time": 1688966136,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 456266,
       "num": 456266,
       "word": "肖战回应火烧云",
       "onboard_time": 1688945365,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 446115,
-      "num": 303489,
-      "word": "蔡依林郑州",
-      "onboard_time": 1688970153,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 440601,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 422938,
-      "num": 346250,
+      "num": 408802,
       "word": "时代峰峻自己的小时代",
       "onboard_time": 1688966614,
       "rank": 26,
@@ -657,6 +657,14 @@
       "onboard_time": 1688920465,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405533,
+      "num": 293584,
+      "word": "BLACKPINK会不会解散",
+      "onboard_time": 1688970393,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 404930,
@@ -697,6 +705,14 @@
       "onboard_time": 1688943861,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381395,
+      "num": 290418,
+      "word": "况三喜表白马立奥",
+      "onboard_time": 1688969554,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 380268,
@@ -753,6 +769,14 @@
       "onboard_time": 1688917414,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336210,
+      "num": 254145,
+      "word": "TMEA导播叫尹净汉最漂亮的那个",
+      "onboard_time": 1688970096,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 336127,
@@ -875,19 +899,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287206,
+      "num": 287206,
+      "word": "高温让空调安装师傅成了最难约的人",
+      "onboard_time": 1688968295,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286552,
       "num": 378646,
       "word": "我承认以前对拼多多太大声了",
       "onboard_time": 1688953831,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285071,
-      "num": 285071,
-      "word": "高温让空调安装师傅成了最难约的人",
-      "onboard_time": 1688968295,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -939,6 +963,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 273235,
+      "num": 249432,
+      "word": "官方通报西江千户苗寨景区火情",
+      "onboard_time": 1688970630,
+      "rank": 33,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 273156,
       "num": 211571,
       "word": "人间烟火的原著",
@@ -969,14 +1001,6 @@
       "onboard_time": 1688958329,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 266446,
-      "num": 266446,
-      "word": "况三喜表白马立奥",
-      "onboard_time": 1688969554,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 265783,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1688956649,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 245310,
-      "num": 232683,
-      "word": "TMEA导播叫尹净汉最漂亮的那个",
-      "onboard_time": 1688970096,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 242217,
@@ -1243,20 +1259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207975,
+      "num": 188537,
+      "word": "爸爸当家",
+      "onboard_time": 1688969074,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207843,
       "num": 207843,
       "word": "71岁奶奶自驾川藏线",
       "onboard_time": 1688954070,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207192,
-      "num": 188537,
-      "word": "爸爸当家",
-      "onboard_time": 1688969074,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 206183,
@@ -1379,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191858,
+      "num": 191858,
+      "word": "女子努力十年实现带父母全国旅行梦",
+      "onboard_time": 1688970812,
+      "rank": 38,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 190492,
       "num": 190492,
       "word": "郑州通报金水河综合整治工程情况",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1688919507,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 149981,
+      "num": 149981,
+      "word": "ZB1出道发布会",
+      "onboard_time": 1688971172,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 149401,
@@ -1555,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 100587,
+      "num": 566733,
+      "word": "张靓颖 我的伤就是我的光",
+      "onboard_time": 1688968834,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 97182,
       "num": 177504,
       "word": "林诗栋向鹏3比2马龙袁励岑",
@@ -1593,14 +1633,6 @@
       "onboard_time": 1688935512,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 79857,
-      "num": 566733,
-      "word": "张靓颖 我的伤就是我的光",
-      "onboard_time": 1688968834,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 78055,
