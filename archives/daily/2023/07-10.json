@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688980803013,
+  "endTime": 1688981655655,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -411,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 737349,
+      "num": 737349,
+      "word": "李现是怎么忍住甜品只吃一口的",
+      "onboard_time": 1688976513,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735013,
       "num": 735013,
       "word": "宋焰的不幸 和女主相爱",
@@ -467,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 670596,
+      "num": 456680,
+      "word": "网曝未满1岁婴儿坐船被要求买票",
+      "onboard_time": 1688979871,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668297,
       "num": 668297,
       "word": "李玟二姐回应李玟老公争遗产",
@@ -521,6 +537,14 @@
       "onboard_time": 1688916453,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 626541,
+      "num": 456629,
+      "word": "北京一房主被中介要求降价200万",
+      "onboard_time": 1688980351,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619843,
@@ -595,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 551442,
-      "num": 364683,
-      "word": "李现是怎么忍住甜品只吃一口的",
-      "onboard_time": 1688976513,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 547656,
       "num": 547656,
       "word": "陈哲远聂远邢菲演搭档",
@@ -649,6 +665,14 @@
       "onboard_time": 1688950593,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 488961,
+      "num": 261922,
+      "word": "7D的新娘2D的新郎",
+      "onboard_time": 1688979753,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 488427,
@@ -713,6 +737,14 @@
       "onboard_time": 1688945365,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 454660,
+      "num": 454660,
+      "word": "鹿晗死守男德",
+      "onboard_time": 1688981013,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 441900,
@@ -923,20 +955,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 368237,
-      "num": 261922,
-      "word": "7D的新娘2D的新郎",
-      "onboard_time": 1688979753,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 366035,
       "num": 366035,
       "word": "LPL季后赛落地西安",
       "onboard_time": 1688975315,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 357512,
+      "num": 294522,
+      "word": "ZB1出道专辑",
+      "onboard_time": 1688979932,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 356376,
@@ -979,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332831,
+      "num": 320146,
+      "word": "头像真的会影响聊天欲望",
+      "onboard_time": 1688977352,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 331990,
       "num": 331990,
       "word": "官方回应导游不允许女子车上睡觉",
@@ -987,36 +1027,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 331716,
-      "num": 331716,
-      "word": "北京一房主被中介要求降价200万",
-      "onboard_time": 1688980351,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327333,
-      "num": 261699,
-      "word": "ZB1出道专辑",
-      "onboard_time": 1688979932,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 325985,
       "num": 213191,
       "word": "南大0001号录取通知书获得者",
       "onboard_time": 1688941275,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 320146,
-      "num": 320146,
-      "word": "头像真的会影响聊天欲望",
-      "onboard_time": 1688977352,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 317267,
@@ -1040,6 +1056,14 @@
       "word": "常州音乐节",
       "onboard_time": 1688958329,
       "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 309699,
+      "num": 293855,
+      "word": "ZB1全员唱功",
+      "onboard_time": 1688979334,
+      "rank": 35,
       "category": "音乐"
     },
     {
@@ -1089,14 +1113,6 @@
       "onboard_time": 1688960011,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296199,
-      "num": 259356,
-      "word": "ZB1全员唱功",
-      "onboard_time": 1688979334,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 296143,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1688967095,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283693,
-      "num": 258323,
-      "word": "网曝未满1岁婴儿坐船被要求买票",
-      "onboard_time": 1688979871,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281468,
@@ -1411,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231339,
+      "num": 214253,
+      "word": "李飞你的对手来了",
+      "onboard_time": 1688981493,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229854,
       "num": 229854,
       "word": "婚礼当天公婆贴了四百多个喜",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1688956711,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218196,
+      "num": 218196,
+      "word": "千户苗寨着火有人顺白布跳下三楼",
+      "onboard_time": 1688981432,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217817,
@@ -1779,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182816,
+      "num": 196921,
+      "word": "没想到喝个水得用扛的",
+      "onboard_time": 1688980652,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182671,
       "num": 182671,
       "word": "有没有可能王一博穿了袜子",
@@ -1800,14 +1832,6 @@
       "word": "干了3年宠物护理后",
       "onboard_time": 1688956771,
       "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 166975,
-      "num": 175432,
-      "word": "没想到喝个水得用扛的",
-      "onboard_time": 1688980652,
-      "rank": 49,
       "category": "幽默"
     },
     {
