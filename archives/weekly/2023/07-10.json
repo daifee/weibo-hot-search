@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689031146907,
+  "endTime": 1689032050329,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2688567,
+      "num": 2688567,
+      "word": "死臀综合征",
+      "onboard_time": 1689002617,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2683759,
       "num": 2683759,
       "word": "林俊杰广州",
       "onboard_time": 1688990491,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2672619,
-      "num": 2672619,
-      "word": "死臀综合征",
-      "onboard_time": 1689002617,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 2649371,
@@ -283,18 +283,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1211217,
-      "num": 1211217,
-      "word": "父亲称蹲守杀害女儿者非前任而是追求者",
-      "onboard_time": 1688952451,
+      "raw_hot": 1224819,
+      "num": 1224819,
+      "word": "CA1524 颠簸",
+      "onboard_time": 1689007704,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1193261,
-      "num": 1193261,
-      "word": "CA1524 颠簸",
-      "onboard_time": 1689007704,
+      "raw_hot": 1211217,
+      "num": 1211217,
+      "word": "父亲称蹲守杀害女儿者非前任而是追求者",
+      "onboard_time": 1688952451,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -361,6 +361,14 @@
       "onboard_time": 1689003873,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 996305,
+      "num": 996305,
+      "word": "原来垃圾袋可以套好几个",
+      "onboard_time": 1689019691,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 991519,
@@ -539,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 858838,
+      "num": 858838,
+      "word": "终于有狗子愿意理肖战了",
+      "onboard_time": 1689008961,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 849487,
       "num": 849487,
       "word": "大熊猫捡到游客的伞还给撑开了",
@@ -656,22 +672,6 @@
       "word": "宋焰的不幸 和女主相爱",
       "onboard_time": 1688924359,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 731757,
-      "num": 731757,
-      "word": "原来垃圾袋可以套好几个",
-      "onboard_time": 1689019691,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 722275,
-      "num": 722275,
-      "word": "终于有狗子愿意理肖战了",
-      "onboard_time": 1689008961,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -1147,6 +1147,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448213,
+      "num": 448213,
+      "word": "她脱下雨衣的那一刻真美",
+      "onboard_time": 1689003274,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 442976,
+      "num": 309954,
+      "word": "吉林私搭浮桥多名过桥者发声",
+      "onboard_time": 1689014595,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441900,
       "num": 1532909,
       "word": "男孩泳池中央溺水20秒被好心男子救起",
@@ -1168,14 +1184,6 @@
       "word": "朋友给去世老人烧护照",
       "onboard_time": 1688960428,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437764,
-      "num": 285407,
-      "word": "吉林私搭浮桥多名过桥者发声",
-      "onboard_time": 1689014595,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1216,6 +1224,14 @@
       "word": "网信办发文加强自媒体管理",
       "onboard_time": 1688976270,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430701,
+      "num": 306719,
+      "word": "上海飞北京航班遭遇严重颠簸",
+      "onboard_time": 1689030863,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1307,12 +1323,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413359,
+      "num": 413359,
+      "word": "入伏",
+      "onboard_time": 1689030322,
+      "rank": 8,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 411172,
       "num": 324531,
       "word": "上海火烧云",
       "onboard_time": 1688999556,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406740,
+      "num": 406740,
+      "word": "把玉骨遥第八集搬进了婚礼现场",
+      "onboard_time": 1689015313,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 404930,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1688946567,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387333,
-      "num": 387333,
-      "word": "她脱下雨衣的那一刻真美",
-      "onboard_time": 1689003274,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 386769,
@@ -1472,14 +1496,6 @@
       "word": "热烈",
       "onboard_time": 1688985152,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 364082,
-      "num": 364082,
-      "word": "把玉骨遥第八集搬进了婚礼现场",
-      "onboard_time": 1689015313,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -1627,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 315794,
+      "num": 306664,
+      "word": "为小朋友提供杯子分饮料后续暖哭",
+      "onboard_time": 1689027796,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311694,
       "num": 274530,
       "word": "长风渡",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1688968295,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308097,
-      "num": 308097,
-      "word": "入伏",
-      "onboard_time": 1689030322,
-      "rank": 8,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 306961,
@@ -1721,6 +1737,14 @@
       "onboard_time": 1688947111,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300745,
+      "num": 300745,
+      "word": "魏大勋发蝴蝶墙",
+      "onboard_time": 1689021191,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 297953,
@@ -1915,14 +1939,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 268189,
-      "num": 268189,
-      "word": "为小朋友提供杯子分饮料后续暖哭",
-      "onboard_time": 1689027796,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265783,
       "num": 265783,
       "word": "女子打多份工养育去世哥哥孩子",
@@ -1937,14 +1953,6 @@
       "onboard_time": 1688975072,
       "rank": 35,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 265443,
-      "num": 265443,
-      "word": "魏大勋发蝴蝶墙",
-      "onboard_time": 1689021191,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 264683,
@@ -2427,6 +2435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201290,
+      "num": 201290,
+      "word": "7旬老人运500斤大石缸为孙女种荷花",
+      "onboard_time": 1689026714,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200903,
       "num": 188303,
       "word": "李硕珉胸肌",
@@ -2555,6 +2571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184402,
+      "num": 184402,
+      "word": "肖战时影内啡肽穿搭",
+      "onboard_time": 1689017053,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183995,
       "num": 183995,
       "word": "去海边玩水时要警惕隐形杀手",
@@ -2595,6 +2619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176130,
+      "num": 138749,
+      "word": "警方回应老人当街抛扔满月双胞胎女婴",
+      "onboard_time": 1689031525,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174958,
       "num": 1393677,
       "word": "立志要进杂技圈的大熊猫",
@@ -2619,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170713,
+      "num": 170713,
+      "word": "今年入伏后还会更热吗",
+      "onboard_time": 1689031104,
+      "rank": 47,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 169537,
       "num": 169537,
       "word": "撸猫时人类视角vs猫猫视角",
@@ -2641,14 +2681,6 @@
       "onboard_time": 1688956771,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166066,
-      "num": 166066,
-      "word": "肖战时影内啡肽穿搭",
-      "onboard_time": 1689017053,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 165326,
@@ -2689,6 +2721,14 @@
       "onboard_time": 1689004230,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 159970,
+      "num": 159970,
+      "word": "成都今天热过了就开始降温",
+      "onboard_time": 1689031044,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156744,
@@ -2763,20 +2803,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 139976,
-      "num": 139976,
-      "word": "7旬老人运500斤大石缸为孙女种荷花",
-      "onboard_time": 1689026714,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135640,
       "num": 230713,
       "word": "淘宝为毕业生新增60000岗位",
       "onboard_time": 1688961636,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134999,
+      "num": 134999,
+      "word": "装扮成狮子的小金毛宝宝",
+      "onboard_time": 1689030142,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 132432,
@@ -2809,6 +2849,14 @@
       "onboard_time": 1689008362,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111965,
+      "num": 111965,
+      "word": "5女子以女厕难等为由进餐厅男厕",
+      "onboard_time": 1689031947,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108750,
@@ -2851,6 +2899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97746,
+      "num": 97746,
+      "word": "还以为小狗在修仙",
+      "onboard_time": 1689028638,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97182,
       "num": 177504,
       "word": "林诗栋向鹏3比2马龙袁励岑",
@@ -2891,14 +2947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85821,
-      "num": 85821,
-      "word": "还以为小狗在修仙",
-      "onboard_time": 1689028638,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 85353,
       "num": 762404,
       "word": "为中国女足加油",
@@ -2923,14 +2971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 77219,
-      "num": 77219,
-      "word": "装扮成狮子的小金毛宝宝",
-      "onboard_time": 1689030142,
-      "rank": 42,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 75655,
       "num": 75655,
       "word": "乒超",
@@ -2939,20 +2979,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70311,
+      "num": 73412,
+      "word": "适合中国宝宝体质的孙悟空",
+      "onboard_time": 1689025754,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 70204,
       "num": 70204,
       "word": "高温天女子给工人送2瓶冰水解暑",
       "onboard_time": 1688943921,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60720,
-      "num": 55452,
-      "word": "适合中国宝宝体质的孙悟空",
-      "onboard_time": 1689025754,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 59011,
@@ -2969,30 +3009,6 @@
       "onboard_time": 1688964459,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 57094,
-      "num": 74551,
-      "word": "今年入伏后还会更热吗",
-      "onboard_time": 1689031104,
-      "rank": 47,
-      "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 56676,
-      "num": 74536,
-      "word": "上海飞北京航班遭遇严重颠簸",
-      "onboard_time": 1689030863,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50546,
-      "num": 74524,
-      "word": "成都今天热过了就开始降温",
-      "onboard_time": 1689031044,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49865,
