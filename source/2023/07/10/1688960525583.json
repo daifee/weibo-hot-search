@@ -1,0 +1,410 @@
+{
+  "runTime": 1688960525583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3350796,
+        "num": 3350796,
+        "word": "广东廉江发生一起故意伤害案致6死1伤",
+        "onboard_time": 1688959112,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1660284,
+        "num": 1660284,
+        "word": "魏大勋算爆了吗",
+        "onboard_time": 1688950413,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46439,
+        "num": 1118464,
+        "word": "高考录取通知查询通道",
+        "onboard_time": 1688912917,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1792239,
+        "num": 1118252,
+        "word": "为什么不建议要求伴侣情绪稳定",
+        "onboard_time": 1688955270,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1743269,
+        "num": 1118186,
+        "word": "曝李玟老公找律师推翻遗嘱",
+        "onboard_time": 1688955090,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1116732,
+        "num": 1116732,
+        "word": "廉江回应有人持刀在幼儿园行凶",
+        "onboard_time": 1688959532,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991353,
+        "num": 991353,
+        "word": "毕业后一直在当女大学生",
+        "onboard_time": 1688955752,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 931303,
+        "num": 931303,
+        "word": "王艺迪",
+        "onboard_time": 1688958270,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 806184,
+        "num": 806184,
+        "word": "上万韩国人竞聘福宝一日饲养员助理",
+        "onboard_time": 1688958092,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777505,
+        "num": 777505,
+        "word": "孟佳在餐厅坐了一个半小时找不到刘雨昕",
+        "onboard_time": 1688950052,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752290,
+        "num": 752290,
+        "word": "种地吧 文化输出",
+        "onboard_time": 1688957309,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668297,
+        "num": 668297,
+        "word": "李玟二姐回应李玟老公争遗产",
+        "onboard_time": 1688955153,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547031,
+        "num": 547031,
+        "word": "李木戈配享太庙",
+        "onboard_time": 1688949753,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512505,
+        "num": 512505,
+        "word": "悬赏1000万找的狗找到了",
+        "onboard_time": 1688945545,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541689,
+        "num": 505312,
+        "word": "李玟",
+        "onboard_time": 1688955212,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477652,
+        "num": 477652,
+        "word": "seventeen广州",
+        "onboard_time": 1688956290,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449605,
+        "num": 449605,
+        "word": "猫咪纹",
+        "onboard_time": 1688953831,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431356,
+        "num": 431356,
+        "word": "提前15个月还完67万多感觉天亮了",
+        "onboard_time": 1688944763,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404930,
+        "num": 404930,
+        "word": "白敬亭这次不心疼他的鞋了",
+        "onboard_time": 1688945065,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383035,
+        "num": 383035,
+        "word": "国乒公布杭州亚运会名单",
+        "onboard_time": 1688956530,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659765,
+        "num": 374978,
+        "word": "赵丽颖蝴蝶结白裙",
+        "onboard_time": 1688958629,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 569797,
+        "num": 361253,
+        "word": "我爸在卫生间装上了空调",
+        "onboard_time": 1688952512,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490346,
+        "num": 347835,
+        "word": "婆婆想让老公出钱供妹妹上大学",
+        "onboard_time": 1688948854,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420629,
+        "num": 330834,
+        "word": "韩综也要种地了",
+        "onboard_time": 1688959230,
+        "rank": 23,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 326278,
+        "num": 326278,
+        "word": "文班亚马隔扣",
+        "onboard_time": 1688954549,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305778,
+        "num": 305778,
+        "word": "李俊昊林允儿亲了两分钟",
+        "onboard_time": 1688944944,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296838,
+        "num": 296838,
+        "word": "真的反感朋友圈里的统一回复",
+        "onboard_time": 1688946928,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296105,
+        "num": 296105,
+        "word": "粉丝在薛之谦演唱会表白张艺兴",
+        "onboard_time": 1688954610,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290145,
+        "num": 290145,
+        "word": "团伙PS艳照敲诈900余名公职人员",
+        "onboard_time": 1688958871,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282154,
+        "num": 282154,
+        "word": "李时珍500年前就知道了",
+        "onboard_time": 1688947111,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297953,
+        "num": 281696,
+        "word": "导游带团2小时步行1.5公里后中暑身亡",
+        "onboard_time": 1688960011,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278640,
+        "num": 278640,
+        "word": "欧阳娜娜猫咪纹",
+        "onboard_time": 1688951011,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273268,
+        "num": 273268,
+        "word": "眼镜是显眼包最好的封印",
+        "onboard_time": 1688950654,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261353,
+        "num": 261353,
+        "word": "吉林违建浮桥举报者受访",
+        "onboard_time": 1688957551,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257493,
+        "num": 257493,
+        "word": "暗夜与黎明",
+        "onboard_time": 1688960371,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254238,
+        "num": 254238,
+        "word": "父亲称蹲守杀害女儿者非前任而是追求者",
+        "onboard_time": 1688952451,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268101,
+        "num": 249271,
+        "word": "七月辞职 狼多肉少",
+        "onboard_time": 1688910754,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242217,
+        "num": 242217,
+        "word": "暗夜与黎明首批阵容官宣",
+        "onboard_time": 1688960191,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239279,
+        "num": 239279,
+        "word": "我承认以前对拼多多太大声了",
+        "onboard_time": 1688953831,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233390,
+        "num": 233390,
+        "word": "长沙站准备的高铁客饭",
+        "onboard_time": 1688959414,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 232550,
+        "num": 232550,
+        "word": "赵露思济南",
+        "onboard_time": 1688956352,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229276,
+        "num": 229276,
+        "word": "婚车偶遇新娘互换捧花彼此祝福",
+        "onboard_time": 1688953349,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228996,
+        "num": 228996,
+        "word": "肖战回应火烧云",
+        "onboard_time": 1688945365,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222352,
+        "num": 222352,
+        "word": "永远年轻永远有人正在办公",
+        "onboard_time": 1688956892,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 206183,
+        "num": 206183,
+        "word": "陈奕迅北美巡回演唱会",
+        "onboard_time": 1688959712,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202302,
+        "num": 202302,
+        "word": "女子打多份工养育去世哥哥孩子",
+        "onboard_time": 1688955511,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189900,
+        "num": 189900,
+        "word": "ITZY 丑妆造",
+        "onboard_time": 1688950229,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180817,
+        "num": 180817,
+        "word": "朋友给去世老人烧护照",
+        "onboard_time": 1688960428,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179978,
+        "num": 179978,
+        "word": "爷奶摆摊救再障8年孙子",
+        "onboard_time": 1688960492,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175145,
+        "num": 175145,
+        "word": "孙怡说想要红还是得靠脑子",
+        "onboard_time": 1688946567,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#当千里江山图遇上壮美陕西#"
+    }
+  }
+}

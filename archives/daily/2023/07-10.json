@@ -1,7 +1,15 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688958725159,
+  "endTime": 1688960525583,
   "band_list": [
+    {
+      "raw_hot": 3350796,
+      "num": 3350796,
+      "word": "广东廉江发生一起故意伤害案致6死1伤",
+      "onboard_time": 1688959112,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2766726,
       "num": 2766726,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 2474381,
-      "num": 1061540,
+      "num": 1118186,
       "word": "曝李玟老公找律师推翻遗嘱",
       "onboard_time": 1688955090,
       "rank": 12,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1116732,
+      "num": 1116732,
+      "word": "廉江回应有人持刀在幼儿园行凶",
+      "onboard_time": 1688959532,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1092715,
       "num": 1092715,
       "word": "七月辞职 狼多肉少",
@@ -113,6 +129,14 @@
       "onboard_time": 1688900433,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931303,
+      "num": 931303,
+      "word": "王艺迪",
+      "onboard_time": 1688958270,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 906369,
@@ -163,8 +187,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806184,
+      "num": 806184,
+      "word": "上万韩国人竞聘福宝一日饲养员助理",
+      "onboard_time": 1688958092,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752290,
+      "num": 752290,
+      "word": "种地吧 文化输出",
+      "onboard_time": 1688957309,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 740024,
-      "num": 323865,
+      "num": 347835,
       "word": "婆婆想让老公出钱供妹妹上大学",
       "onboard_time": 1688948854,
       "rank": 20,
@@ -211,20 +251,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 668297,
+      "num": 668297,
+      "word": "李玟二姐回应李玟老公争遗产",
+      "onboard_time": 1688955153,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667429,
-      "num": 308090,
+      "num": 361253,
       "word": "我爸在卫生间装上了空调",
       "onboard_time": 1688952512,
       "rank": 21,
       "category": "幽默"
     },
     {
-      "raw_hot": 664872,
-      "num": 585764,
-      "word": "李玟二姐回应李玟老公争遗产",
-      "onboard_time": 1688955153,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 659765,
+      "num": 374978,
+      "word": "赵丽颖蝴蝶结白裙",
+      "onboard_time": 1688958629,
+      "rank": 44,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 639389,
@@ -305,14 +353,6 @@
       "onboard_time": 1688921246,
       "rank": 18,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 532299,
-      "num": 422870,
-      "word": "种地吧 文化输出",
-      "onboard_time": 1688957309,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 508375,
@@ -403,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420629,
+      "num": 330834,
+      "word": "韩综也要种地了",
+      "onboard_time": 1688959230,
+      "rank": 23,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 419978,
       "num": 419978,
       "word": "粉丝在薛之谦演唱会表白张艺兴",
@@ -416,6 +464,14 @@
       "word": "文韬发脾气是这样的吗",
       "onboard_time": 1688920465,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 404930,
+      "num": 404930,
+      "word": "白敬亭这次不心疼他的鞋了",
+      "onboard_time": 1688945065,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -515,12 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 297199,
-      "num": 261733,
-      "word": "白敬亭这次不心疼他的鞋了",
-      "onboard_time": 1688945065,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 297953,
+      "num": 281696,
+      "word": "导游带团2小时步行1.5公里后中暑身亡",
+      "onboard_time": 1688960011,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296143,
@@ -555,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 290145,
+      "num": 290145,
+      "word": "团伙PS艳照敲诈900余名公职人员",
+      "onboard_time": 1688958871,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289825,
       "num": 240241,
       "word": "倪妮发了30张自拍",
@@ -577,14 +641,6 @@
       "onboard_time": 1688953831,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283778,
-      "num": 260449,
-      "word": "王艺迪",
-      "onboard_time": 1688958270,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 281468,
@@ -635,14 +691,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 267147,
-      "num": 267147,
-      "word": "上万韩国人竞聘福宝一日饲养员助理",
-      "onboard_time": 1688958092,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265783,
       "num": 265783,
       "word": "女子打多份工养育去世哥哥孩子",
@@ -665,6 +713,22 @@
       "onboard_time": 1688956352,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261353,
+      "num": 261353,
+      "word": "吉林违建浮桥举报者受访",
+      "onboard_time": 1688957551,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257493,
+      "num": 257493,
+      "word": "暗夜与黎明",
+      "onboard_time": 1688960371,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 255970,
@@ -731,12 +795,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241581,
-      "num": 241581,
-      "word": "吉林违建浮桥举报者受访",
-      "onboard_time": 1688957551,
+      "raw_hot": 242217,
+      "num": 242217,
+      "word": "暗夜与黎明首批阵容官宣",
+      "onboard_time": 1688960191,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 233390,
+      "num": 233390,
+      "word": "长沙站准备的高铁客饭",
+      "onboard_time": 1688959414,
       "rank": 39,
-      "category": "社会新闻"
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 229854,
@@ -835,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206183,
+      "num": 206183,
+      "word": "陈奕迅北美巡回演唱会",
+      "onboard_time": 1688959712,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205059,
       "num": 205059,
       "word": "顾九思劫法场救叶世安",
@@ -923,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196218,
-      "num": 196218,
-      "word": "赵丽颖蝴蝶结白裙",
-      "onboard_time": 1688958629,
-      "rank": 44,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 195243,
       "num": 195243,
       "word": "400米巨轮海上倒车入库有多丝滑",
@@ -987,12 +1059,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180817,
+      "num": 180817,
+      "word": "朋友给去世老人烧护照",
+      "onboard_time": 1688960428,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180637,
       "num": 180637,
       "word": "永远在一起这事离我越来越远",
       "onboard_time": 1688953229,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179978,
+      "num": 179978,
+      "word": "爷奶摆摊救再障8年孙子",
+      "onboard_time": 1688960492,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167023,
