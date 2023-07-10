@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688963911961,
+  "endTime": 1688966319686,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1241490,
+      "num": 1241490,
+      "word": "毕业后一直在当女大学生",
+      "onboard_time": 1688955752,
+      "rank": 4,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1211217,
       "num": 1211217,
       "word": "父亲称蹲守杀害女儿者非前任而是追求者",
@@ -123,12 +131,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1067616,
-      "num": 1067616,
-      "word": "毕业后一直在当女大学生",
-      "onboard_time": 1688955752,
-      "rank": 4,
-      "category": "情感,幽默"
+      "raw_hot": 1047281,
+      "num": 1047281,
+      "word": "结婚登记须提供户口簿被指违背婚姻自由",
+      "onboard_time": 1688964218,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1010258,
@@ -147,12 +155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 978720,
+      "num": 458199,
+      "word": "老公居然让我新婚上头条",
+      "onboard_time": 1688962717,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 963348,
       "num": 963348,
       "word": "肖战下一部戏藏海戏麟",
       "onboard_time": 1688915195,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 955045,
+      "num": 955045,
+      "word": "千户苗寨",
+      "onboard_time": 1688964101,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 942568,
@@ -203,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 875309,
+      "num": 875309,
+      "word": "宣传部回应男子幼儿园行凶致6死1伤",
+      "onboard_time": 1688964040,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848312,
       "num": 848312,
       "word": "2女子与蜜雪冰城员工起冲突",
@@ -224,6 +256,22 @@
       "word": "上万韩国人竞聘福宝一日饲养员助理",
       "onboard_time": 1688958092,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790733,
+      "num": 790733,
+      "word": "官方回应垃圾桶里捡到人头",
+      "onboard_time": 1688964939,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762353,
+      "num": 762353,
+      "word": "大熊猫捡到游客的伞还给撑开了",
+      "onboard_time": 1688963980,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -323,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 619843,
+      "num": 490241,
+      "word": "宝妈买3斤干冰降温家中秒变仙境",
+      "onboard_time": 1688963139,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589766,
       "num": 589766,
       "word": "杨洋版孟宴臣",
@@ -417,14 +473,6 @@
       "onboard_time": 1688950593,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 490241,
-      "num": 490241,
-      "word": "宝妈买3斤干冰降温家中秒变仙境",
-      "onboard_time": 1688963139,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484880,
@@ -587,6 +635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 375230,
+      "num": 375230,
+      "word": "杭州打工人花5万装修3平米工位",
+      "onboard_time": 1688964577,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370451,
       "num": 361184,
       "word": "你会整夜吹空调吗",
@@ -595,20 +651,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 366200,
-      "num": 358798,
-      "word": "老公居然让我新婚上头条",
-      "onboard_time": 1688962717,
-      "rank": 31,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 356376,
       "num": 356376,
       "word": "前任和现任的关系可以有多好",
       "onboard_time": 1688918251,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 355357,
+      "num": 355357,
+      "word": "密室大逃脱绝命医院",
+      "onboard_time": 1688964817,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 348638,
@@ -649,6 +705,14 @@
       "onboard_time": 1688958329,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301084,
+      "num": 301084,
+      "word": "郑州通报河道贴砖事件",
+      "onboard_time": 1688964520,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300836,
@@ -747,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280090,
+      "num": 280090,
+      "word": "妈妈被小朋友的数学惊呆了",
+      "onboard_time": 1688961876,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279237,
       "num": 242877,
       "word": "孟宴臣要开始发疯了",
@@ -769,14 +841,6 @@
       "onboard_time": 1688900131,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270497,
-      "num": 270497,
-      "word": "妈妈被小朋友的数学惊呆了",
-      "onboard_time": 1688961876,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 269519,
@@ -840,6 +904,14 @@
       "word": "人民论坛网评八角笼中",
       "onboard_time": 1688918372,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255113,
+      "num": 255113,
+      "word": "张一山也需要别人演他小时候了",
+      "onboard_time": 1688966256,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -907,12 +979,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241119,
+      "num": 241119,
+      "word": "六公主拍的汪苏泷",
+      "onboard_time": 1688965775,
+      "rank": 43,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 229854,
       "num": 229854,
       "word": "婚礼当天公婆贴了四百多个喜",
       "onboard_time": 1688949630,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226581,
+      "num": 226581,
+      "word": "不知火传说皮肤",
+      "onboard_time": 1688966136,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 225834,
@@ -995,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215265,
+      "num": 2017425,
+      "word": "明天才入伏",
+      "onboard_time": 1688949692,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213501,
       "num": 213501,
       "word": "艾伦说我就是演了个WiFi",
@@ -1051,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203273,
+      "num": 203273,
+      "word": "小熊友的吃饭姿势有多离谱",
+      "onboard_time": 1688965417,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203237,
       "num": 212399,
       "word": "4AM",
@@ -1065,6 +1169,14 @@
       "onboard_time": 1688910452,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201512,
+      "num": 201512,
+      "word": "西江千户苗寨景区一木楼着火",
+      "onboard_time": 1688965596,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 201380,
@@ -1355,12 +1467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70986,
+      "num": 762404,
+      "word": "为中国女足加油",
+      "onboard_time": 1688965237,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70204,
       "num": 70204,
       "word": "高温天女子给工人送2瓶冰水解暑",
       "onboard_time": 1688943921,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59003,
+      "num": 478345,
+      "word": "权益可选凯迪拉克锐歌至35万区间",
+      "onboard_time": 1688964459,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 49865,
