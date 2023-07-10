@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688955336817,
+  "endTime": 1688958212969,
   "band_list": [
     {
       "raw_hot": 2766726,
@@ -9,6 +9,22 @@
       "onboard_time": 1688950413,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2400797,
+      "num": 1061540,
+      "word": "曝李玟老公找律师推翻遗嘱",
+      "onboard_time": 1688955090,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1744881,
+      "num": 1744881,
+      "word": "为什么不建议要求伴侣情绪稳定",
+      "onboard_time": 1688955270,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 1711007,
@@ -57,6 +73,14 @@
       "onboard_time": 1688910754,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1055494,
+      "num": 1055494,
+      "word": "毕业后一直在当女大学生",
+      "onboard_time": 1688955752,
+      "rank": 4,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1010258,
@@ -171,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 676644,
+      "num": 676644,
+      "word": "李玟",
+      "onboard_time": 1688955212,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672928,
       "num": 672928,
       "word": "张元英露腰",
@@ -185,6 +217,22 @@
       "onboard_time": 1688952512,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 664872,
+      "num": 559326,
+      "word": "李玟二姐回应李玟老公争遗产",
+      "onboard_time": 1688955153,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 639389,
+      "num": 639389,
+      "word": "国乒公布杭州亚运会名单",
+      "onboard_time": 1688956530,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 630530,
@@ -219,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559518,
+      "num": 559518,
+      "word": "猫咪纹",
+      "onboard_time": 1688953831,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551666,
       "num": 384252,
       "word": "独居老人没开空调致热痉挛咬断两颗牙",
       "onboard_time": 1688918310,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542344,
-      "num": 542344,
-      "word": "猫咪纹",
-      "onboard_time": 1688953831,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 538596,
@@ -249,6 +297,14 @@
       "onboard_time": 1688921246,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 515766,
+      "num": 515766,
+      "word": "seventeen广州",
+      "onboard_time": 1688956290,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 508375,
@@ -299,14 +355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 439364,
-      "num": 439364,
-      "word": "曝李玟老公找律师推翻遗嘱",
-      "onboard_time": 1688955090,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 436577,
       "num": 436577,
       "word": "赵露思2019年vs2023年",
@@ -339,11 +387,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420257,
+      "num": 420257,
+      "word": "文班亚马隔扣",
+      "onboard_time": 1688954549,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417428,
       "num": 417428,
       "word": "文韬发脾气是这样的吗",
       "onboard_time": 1688920465,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 416501,
+      "num": 277025,
+      "word": "种地吧 文化输出",
+      "onboard_time": 1688957309,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -369,6 +433,14 @@
       "onboard_time": 1688946567,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381846,
+      "num": 281911,
+      "word": "粉丝在薛之谦演唱会表白张艺兴",
+      "onboard_time": 1688954610,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 381473,
@@ -411,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345160,
-      "num": 249527,
-      "word": "李玟二姐回应李玟老公争遗产",
-      "onboard_time": 1688955153,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336127,
       "num": 336127,
       "word": "白敬亭张昊唯没白来极限挑战",
@@ -433,30 +497,6 @@
       "onboard_time": 1688941275,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 324740,
-      "num": 324740,
-      "word": "文班亚马隔扣",
-      "onboard_time": 1688954549,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 314979,
-      "num": 281911,
-      "word": "粉丝在薛之谦演唱会表白张艺兴",
-      "onboard_time": 1688954610,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 312327,
-      "num": 277354,
-      "word": "李玟",
-      "onboard_time": 1688955212,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 300836,
@@ -515,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286552,
+      "num": 378646,
+      "word": "我承认以前对拼多多太大声了",
+      "onboard_time": 1688953831,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281468,
       "num": 281468,
       "word": "一个不会离职的办公桌长啥样",
@@ -555,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265783,
+      "num": 265783,
+      "word": "女子打多份工养育去世哥哥孩子",
+      "onboard_time": 1688955511,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263325,
       "num": 202093,
       "word": "徐明浩白色狼尾造型",
@@ -563,12 +619,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 256005,
-      "num": 378646,
-      "word": "我承认以前对拼多多太大声了",
-      "onboard_time": 1688953831,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 261805,
+      "num": 261805,
+      "word": "赵露思济南",
+      "onboard_time": 1688956352,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 255970,
@@ -611,12 +667,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242141,
-      "num": 242141,
+      "raw_hot": 250490,
+      "num": 250490,
       "word": "婚车偶遇新娘互换捧花彼此祝福",
       "onboard_time": 1688953349,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247073,
+      "num": 247073,
+      "word": "养娃后衣服码数变大的原因",
+      "onboard_time": 1688956649,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 240008,
+      "num": 240008,
+      "word": "白敬亭这次不心疼他的鞋了",
+      "onboard_time": 1688945065,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 229854,
@@ -625,6 +697,14 @@
       "onboard_time": 1688949630,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228041,
+      "num": 228041,
+      "word": "永远年轻永远有人正在办公",
+      "onboard_time": 1688956892,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 225834,
@@ -651,6 +731,22 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 218431,
+      "num": 218431,
+      "word": "曾少年今日开播",
+      "onboard_time": 1688956711,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217335,
+      "num": 217335,
+      "word": "罗渽民抱黄仁俊",
+      "onboard_time": 1688956591,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217090,
       "num": 217090,
       "word": "如果实在渴得不行了呢",
@@ -659,20 +755,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216141,
+      "raw_hot": 216286,
       "num": 216141,
       "word": "史彭元身材",
       "onboard_time": 1688953051,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213800,
-      "num": 213800,
-      "word": "为什么不建议要求伴侣情绪稳定",
-      "onboard_time": 1688955270,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 213501,
@@ -795,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194212,
+      "num": 194212,
+      "word": "吉林违建浮桥举报者受访",
+      "onboard_time": 1688957551,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189241,
       "num": 189241,
       "word": "白敬亭从所有案发现场路过",
@@ -841,6 +937,14 @@
       "onboard_time": 1688953229,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167023,
+      "num": 167023,
+      "word": "干了3年宠物护理后",
+      "onboard_time": 1688956771,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 164282,
@@ -897,14 +1001,6 @@
       "onboard_time": 1688901572,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 129009,
-      "num": 129009,
-      "word": "白敬亭这次不心疼他的鞋了",
-      "onboard_time": 1688945065,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 127275,
@@ -1052,6 +1148,9 @@
     },
     {
       "word": "#学习纲要思维导图#"
+    },
+    {
+      "word": "#互联护苗#"
     }
   ]
 }
