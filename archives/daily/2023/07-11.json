@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689020413855,
+  "endTime": 1689021231518,
   "band_list": [
     {
       "raw_hot": 2672619,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 79742,
-      "num": 41724,
+      "num": 57215,
       "word": "肖战时影内啡肽穿搭",
       "onboard_time": 1689017053,
       "rank": 20,
@@ -467,8 +467,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 55425,
-      "num": 48456,
+      "raw_hot": 57716,
+      "num": 57716,
       "word": "吉林私搭浮桥多名过桥者发声",
       "onboard_time": 1689014595,
       "rank": 31,
@@ -484,15 +484,23 @@
     },
     {
       "raw_hot": 53152,
-      "num": 53152,
+      "num": 60340,
       "word": "把玉骨遥第八集搬进了婚礼现场",
       "onboard_time": 1689015313,
       "rank": 24,
       "category": "影视"
     },
     {
+      "raw_hot": 45572,
+      "num": 55834,
+      "word": "原来垃圾袋可以套好几个",
+      "onboard_time": 1689019691,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 41676,
-      "num": 48896,
+      "num": 54531,
       "word": "王楚然早期旧照",
       "onboard_time": 1688985513,
       "rank": 41,
@@ -507,12 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27604,
-      "num": 26728,
-      "word": "原来垃圾袋可以套好几个",
-      "onboard_time": 1689019691,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 17149,
+      "num": 54374,
+      "word": "魏大勋发蝴蝶墙",
+      "onboard_time": 1689021191,
+      "rank": 46,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
