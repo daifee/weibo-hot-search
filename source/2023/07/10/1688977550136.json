@@ -1,0 +1,410 @@
+{
+  "runTime": 1688977550136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2770503,
+        "num": 2770503,
+        "word": "Prada成为中国国家女子足球队官方合作伙伴",
+        "onboard_time": 1688973273,
+        "rank": 0,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 1548446,
+        "num": 1548446,
+        "word": "花店老板接33700元订单被利用参与洗钱",
+        "onboard_time": 1688974054,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183727,
+        "num": 1176771,
+        "word": "黄河流域发现长达百万年连续古人类文化遗存",
+        "onboard_time": 1688974231,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014571,
+        "num": 1014571,
+        "word": "杨紫工作室公布名誉维权案进展",
+        "onboard_time": 1688975671,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 989890,
+        "num": 989890,
+        "word": "李咏女儿将出道",
+        "onboard_time": 1688968895,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836414,
+        "num": 836414,
+        "word": "结婚登记须提供户口簿被指违背婚姻自由",
+        "onboard_time": 1688964218,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799339,
+        "num": 799339,
+        "word": "毕业后一直在当女大学生",
+        "onboard_time": 1688955752,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 758850,
+        "num": 758850,
+        "word": "杨幂采访谈离嘉",
+        "onboard_time": 1688973692,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 706429,
+        "num": 706429,
+        "word": "谢娜听不懂蔡少芬吵架时说什么",
+        "onboard_time": 1688971532,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675298,
+        "num": 675298,
+        "word": "李秀满将在中国选秀",
+        "onboard_time": 1688975193,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673832,
+        "num": 673832,
+        "word": "华莎被告发涉嫌演出淫乱罪",
+        "onboard_time": 1688960794,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624521,
+        "num": 624521,
+        "word": "偷偷藏不住算爆剧吗",
+        "onboard_time": 1688976094,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 581320,
+        "num": 581320,
+        "word": "曝Jennie将与YG解约",
+        "onboard_time": 1688961514,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529239,
+        "num": 529239,
+        "word": "官方回应垃圾桶里捡到人头",
+        "onboard_time": 1688964939,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59174,
+        "num": 513401,
+        "word": "全球变暖或加剧皮肤问题",
+        "onboard_time": 1688976513,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503088,
+        "num": 503088,
+        "word": "Prada这次找对人了",
+        "onboard_time": 1688976696,
+        "rank": 15,
+        "category": "时尚,体育"
+      },
+      {
+        "raw_hot": 494804,
+        "num": 494804,
+        "word": "TFBOYS十周年演唱会还不官宣吗",
+        "onboard_time": 1688976696,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 457452,
+        "num": 457452,
+        "word": "Seventeen广州签售会",
+        "onboard_time": 1688971591,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 432428,
+        "num": 432428,
+        "word": "网信办发文加强自媒体管理",
+        "onboard_time": 1688976270,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430827,
+        "num": 430827,
+        "word": "广东廉江发生一起故意伤害案致6死1伤",
+        "onboard_time": 1688959112,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912719,
+        "num": 424378,
+        "word": "女子当街将男子压在身下欲强扒衣物",
+        "onboard_time": 1688975012,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441337,
+        "num": 417356,
+        "word": "魏大勋算爆了吗",
+        "onboard_time": 1688950413,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409861,
+        "num": 409861,
+        "word": "男孩泳池中央溺水20秒被好心男子救起",
+        "onboard_time": 1688971290,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396643,
+        "num": 396643,
+        "word": "EXO回归直播",
+        "onboard_time": 1688972552,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366035,
+        "num": 366035,
+        "word": "LPL季后赛落地西安",
+        "onboard_time": 1688975315,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 380388,
+        "num": 347056,
+        "word": "宋轶白敬亭 阳神",
+        "onboard_time": 1688960552,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375367,
+        "num": 344592,
+        "word": "娜扎cos芈月",
+        "onboard_time": 1688977231,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 369422,
+        "num": 343300,
+        "word": "肖战工作室太皮了",
+        "onboard_time": 1688972070,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 314880,
+        "num": 314880,
+        "word": "为什么不建议要求伴侣情绪稳定",
+        "onboard_time": 1688955270,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298914,
+        "num": 298914,
+        "word": "网友都给爱宝二胎起了啥名",
+        "onboard_time": 1688972070,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336473,
+        "num": 297611,
+        "word": "李现是怎么忍住甜品只吃一口的",
+        "onboard_time": 1688976513,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287171,
+        "num": 287171,
+        "word": "工人40度天高空作业女子隔窗送冷饮",
+        "onboard_time": 1688973210,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272633,
+        "num": 272633,
+        "word": "谁最离不开BLACKPINK",
+        "onboard_time": 1688976454,
+        "rank": 32,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 268966,
+        "num": 268966,
+        "word": "我爸在卫生间装上了空调",
+        "onboard_time": 1688952512,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268712,
+        "num": 268712,
+        "word": "头像真的会影响聊天欲望",
+        "onboard_time": 1688977352,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 265771,
+        "num": 265771,
+        "word": "张馨予张柏芝黑白配",
+        "onboard_time": 1688975072,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 250373,
+        "num": 250373,
+        "word": "BLACKPINK会不会解散",
+        "onboard_time": 1688970393,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245628,
+        "num": 245628,
+        "word": "父亲淡定晒相处25年的姐弟俩打架",
+        "onboard_time": 1688969496,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 245031,
+        "num": 245031,
+        "word": "大熊猫捡到游客的伞还给撑开了",
+        "onboard_time": 1688963980,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19300,
+        "num": 241073,
+        "word": "权益可选凯迪拉克锐歌至35万区间",
+        "onboard_time": 1688964459,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237537,
+        "num": 237537,
+        "word": "李玟二姐回应李玟老公争遗产",
+        "onboard_time": 1688955153,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231385,
+        "num": 231385,
+        "word": "高温让空调安装师傅成了最难约的人",
+        "onboard_time": 1688968295,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219915,
+        "num": 219915,
+        "word": "TMEA导播叫尹净汉最漂亮的那个",
+        "onboard_time": 1688970096,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214706,
+        "num": 214706,
+        "word": "陈坤晒照为张婧仪庆生",
+        "onboard_time": 1688967336,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213677,
+        "num": 213677,
+        "word": "奔跑吧",
+        "onboard_time": 1688967454,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211679,
+        "num": 211679,
+        "word": "官方通报西江千户苗寨景区火情",
+        "onboard_time": 1688970630,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 211516,
+        "num": 211516,
+        "word": "曝李玟老公找律师推翻遗嘱",
+        "onboard_time": 1688955090,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203032,
+        "num": 203032,
+        "word": "蔡依林郑州",
+        "onboard_time": 1688970153,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190335,
+        "num": 190335,
+        "word": "众人一人一只手拽住欲跳江男子",
+        "onboard_time": 1688975552,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177382,
+        "num": 177382,
+        "word": "千户苗寨",
+        "onboard_time": 1688964101,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国卫星互联网技术试验卫星发射成功#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688974460272,
+  "endTime": 1688977550136,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -9,6 +9,14 @@
       "onboard_time": 1688959112,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2770503,
+      "num": 2770503,
+      "word": "Prada成为中国国家女子足球队官方合作伙伴",
+      "onboard_time": 1688973273,
+      "rank": 39,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 2766726,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548446,
+      "num": 1548446,
+      "word": "花店老板接33700元订单被利用参与洗钱",
+      "onboard_time": 1688974054,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1496601,
       "num": 1496601,
       "word": "26岁一想到明天上班还想哭",
@@ -155,12 +171,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1078872,
-      "num": 1078872,
-      "word": "Prada成为中国国家女子足球队官方合作伙伴",
-      "onboard_time": 1688973273,
-      "rank": 39,
-      "category": "体育,时尚"
+      "raw_hot": 1014571,
+      "num": 1014571,
+      "word": "杨紫工作室公布名誉维权案进展",
+      "onboard_time": 1688975671,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1010258,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 990297,
-      "num": 583213,
+      "num": 706429,
       "word": "谢娜听不懂蔡少芬吵架时说什么",
       "onboard_time": 1688971532,
       "rank": 11,
@@ -225,6 +241,14 @@
       "onboard_time": 1688958270,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 912719,
+      "num": 424378,
+      "word": "女子当街将男子压在身下欲强扒衣物",
+      "onboard_time": 1688975012,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 906369,
@@ -323,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 758850,
+      "num": 758850,
+      "word": "杨幂采访谈离嘉",
+      "onboard_time": 1688973692,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 752290,
       "num": 752290,
       "word": "种地吧 文化输出",
@@ -369,6 +401,14 @@
       "onboard_time": 1688950654,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 675298,
+      "num": 675298,
+      "word": "李秀满将在中国选秀",
+      "onboard_time": 1688975193,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 672928,
@@ -427,12 +467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 624974,
-      "num": 569928,
-      "word": "杨幂采访谈离嘉",
-      "onboard_time": 1688973692,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 624521,
+      "num": 624521,
+      "word": "偷偷藏不住算爆剧吗",
+      "onboard_time": 1688976094,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 619843,
@@ -544,6 +584,22 @@
       "word": "爱豆鹿晗回来了",
       "onboard_time": 1688906431,
       "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 503088,
+      "num": 503088,
+      "word": "Prada这次找对人了",
+      "onboard_time": 1688976696,
+      "rank": 15,
+      "category": "时尚,体育"
+    },
+    {
+      "raw_hot": 494804,
+      "num": 494804,
+      "word": "TFBOYS十周年演唱会还不官宣吗",
+      "onboard_time": 1688976696,
+      "rank": 16,
       "category": "音乐"
     },
     {
@@ -664,6 +720,14 @@
       "word": "小学生开始去胖东来抢座位了",
       "onboard_time": 1688944161,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432428,
+      "num": 432428,
+      "word": "网信办发文加强自媒体管理",
+      "onboard_time": 1688976270,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -803,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375367,
+      "num": 344592,
+      "word": "娜扎cos芈月",
+      "onboard_time": 1688977231,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 375230,
       "num": 375230,
       "word": "杭州打工人花5万装修3平米工位",
@@ -817,6 +889,14 @@
       "onboard_time": 1688914956,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 366035,
+      "num": 366035,
+      "word": "LPL季后赛落地西安",
+      "onboard_time": 1688975315,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 356376,
@@ -841,6 +921,14 @@
       "onboard_time": 1688917414,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336473,
+      "num": 297611,
+      "word": "李现是怎么忍住甜品只吃一口的",
+      "onboard_time": 1688976513,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 336127,
@@ -896,14 +984,6 @@
       "word": "高温让空调安装师傅成了最难约的人",
       "onboard_time": 1688968295,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302688,
-      "num": 301957,
-      "word": "花店老板接33700元订单被利用参与洗钱",
-      "onboard_time": 1688974054,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272633,
+      "num": 272633,
+      "word": "谁最离不开BLACKPINK",
+      "onboard_time": 1688976454,
+      "rank": 32,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 271762,
       "num": 214920,
       "word": "郑州狗主悬赏1000万人民币寻狗",
@@ -1091,12 +1179,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 268712,
+      "num": 268712,
+      "word": "头像真的会影响聊天欲望",
+      "onboard_time": 1688977352,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 265783,
       "num": 265783,
       "word": "女子打多份工养育去世哥哥孩子",
       "onboard_time": 1688955511,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265771,
+      "num": 265771,
+      "word": "张馨予张柏芝黑白配",
+      "onboard_time": 1688975072,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 263325,
@@ -1515,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190335,
+      "num": 190335,
+      "word": "众人一人一只手拽住欲跳江男子",
+      "onboard_time": 1688975552,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189241,
       "num": 189241,
       "word": "白敬亭从所有案发现场路过",
@@ -1544,6 +1656,14 @@
       "word": "去海边玩水时要警惕隐形杀手",
       "onboard_time": 1688953469,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183727,
+      "num": 1176771,
+      "word": "黄河流域发现长达百万年连续古人类文化遗存",
+      "onboard_time": 1688974231,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1763,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59174,
+      "num": 513401,
+      "word": "全球变暖或加剧皮肤问题",
+      "onboard_time": 1688976513,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59011,
       "num": 188431,
       "word": "6月份CPI同比持平",
@@ -1800,14 +1928,6 @@
       "word": "专业人士回应遇离岸流如何自救",
       "onboard_time": 1688930053,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31539,
-      "num": 1086175,
-      "word": "黄河流域发现长达百万年连续古人类文化遗存",
-      "onboard_time": 1688974231,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
