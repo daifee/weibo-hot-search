@@ -1,0 +1,410 @@
+{
+  "runTime": 1688970357440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2366930,
+        "num": 2366930,
+        "word": "结婚登记须提供户口簿被指违背婚姻自由",
+        "onboard_time": 1688964218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1978790,
+        "num": 1978790,
+        "word": "李咏女儿将出道",
+        "onboard_time": 1688968895,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161033,
+        "num": 1328593,
+        "word": "明天才入伏",
+        "onboard_time": 1688949692,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261040,
+        "num": 1261040,
+        "word": "官方回应垃圾桶里捡到人头",
+        "onboard_time": 1688964939,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980125,
+        "num": 980125,
+        "word": "曝Jennie将与YG解约",
+        "onboard_time": 1688961514,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960978,
+        "num": 960978,
+        "word": "广东廉江发生一起故意伤害案致6死1伤",
+        "onboard_time": 1688959112,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900607,
+        "num": 900607,
+        "word": "毕业后一直在当女大学生",
+        "onboard_time": 1688955752,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 772486,
+        "num": 772486,
+        "word": "宋轶白敬亭 阳神",
+        "onboard_time": 1688960552,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 876043,
+        "num": 760142,
+        "word": "乔任梁父亲自曝住院",
+        "onboard_time": 1688961514,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711602,
+        "num": 711602,
+        "word": "奔跑吧",
+        "onboard_time": 1688967454,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1327692,
+        "num": 678859,
+        "word": "华莎被告发涉嫌演出淫乱罪",
+        "onboard_time": 1688960794,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644114,
+        "num": 644114,
+        "word": "魏大勋算爆了吗",
+        "onboard_time": 1688950413,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 595689,
+        "num": 595689,
+        "word": "大熊猫捡到游客的伞还给撑开了",
+        "onboard_time": 1688963980,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568708,
+        "num": 568708,
+        "word": "张一山也需要别人演他小时候了",
+        "onboard_time": 1688966256,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79857,
+        "num": 566733,
+        "word": "张靓颖 我的伤就是我的光",
+        "onboard_time": 1688968834,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 566723,
+        "num": 566723,
+        "word": "陈坤晒照为张婧仪庆生",
+        "onboard_time": 1688967336,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500668,
+        "num": 500668,
+        "word": "千户苗寨",
+        "onboard_time": 1688964101,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468270,
+        "num": 468270,
+        "word": "父亲淡定晒相处25年的姐弟俩打架",
+        "onboard_time": 1688969496,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 460229,
+        "num": 460229,
+        "word": "不知火传说皮肤",
+        "onboard_time": 1688966136,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 425831,
+        "num": 425831,
+        "word": "为什么不建议要求伴侣情绪稳定",
+        "onboard_time": 1688955270,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484995,
+        "num": 423740,
+        "word": "黄牛为了林俊杰演唱会抢票做题",
+        "onboard_time": 1688967033,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 472830,
+        "num": 421353,
+        "word": "曝李玟老公找律师推翻遗嘱",
+        "onboard_time": 1688955090,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415541,
+        "num": 415541,
+        "word": "我爸在卫生间装上了空调",
+        "onboard_time": 1688952512,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 395934,
+        "num": 395934,
+        "word": "宣传部回应男子幼儿园行凶致6死1伤",
+        "onboard_time": 1688964040,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303655,
+        "num": 303655,
+        "word": "婆婆想让老公出钱供妹妹上大学",
+        "onboard_time": 1688948854,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 446115,
+        "num": 303489,
+        "word": "蔡依林郑州",
+        "onboard_time": 1688970153,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 422938,
+        "num": 303084,
+        "word": "时代峰峻自己的小时代",
+        "onboard_time": 1688966614,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378104,
+        "num": 303053,
+        "word": "NMIXX事前录制舞台事故",
+        "onboard_time": 1688967395,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302575,
+        "num": 302575,
+        "word": "杭州打工人花5万装修3平米工位",
+        "onboard_time": 1688964577,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285071,
+        "num": 285071,
+        "word": "高温让空调安装师傅成了最难约的人",
+        "onboard_time": 1688968295,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318608,
+        "num": 279167,
+        "word": "seventeen广州",
+        "onboard_time": 1688956290,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316273,
+        "num": 276937,
+        "word": "许沁 恋爱脑",
+        "onboard_time": 1688967995,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271109,
+        "num": 271109,
+        "word": "宝妈买3斤干冰降温家中秒变仙境",
+        "onboard_time": 1688963139,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266446,
+        "num": 266446,
+        "word": "况三喜表白马立奥",
+        "onboard_time": 1688969554,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234771,
+        "num": 234771,
+        "word": "成都街头玫瑰冰豆浆1块1袋",
+        "onboard_time": 1688968533,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245310,
+        "num": 232683,
+        "word": "TMEA导播叫尹净汉最漂亮的那个",
+        "onboard_time": 1688970096,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219572,
+        "num": 219572,
+        "word": "孟佳在餐厅坐了一个半小时找不到刘雨昕",
+        "onboard_time": 1688950052,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216481,
+        "num": 216481,
+        "word": "密室大逃脱绝命医院",
+        "onboard_time": 1688964817,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209205,
+        "num": 209205,
+        "word": "消防员休假途中暴雨里救了个人",
+        "onboard_time": 1688969973,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188552,
+        "num": 188552,
+        "word": "郑州通报河道贴砖事件",
+        "onboard_time": 1688964520,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210692,
+        "num": 188551,
+        "word": "李玟二姐回应李玟老公争遗产",
+        "onboard_time": 1688955153,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207192,
+        "num": 188537,
+        "word": "爸爸当家",
+        "onboard_time": 1688969074,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194756,
+        "num": 188517,
+        "word": "陈哲远聂远邢菲演搭档",
+        "onboard_time": 1688963198,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180083,
+        "num": 188507,
+        "word": "悬赏1000万找的狗找到了",
+        "onboard_time": 1688945545,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184698,
+        "num": 188492,
+        "word": "赵丽颖蝴蝶结白裙",
+        "onboard_time": 1688958629,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 152917,
+        "num": 188486,
+        "word": "老公居然让我新婚上头条",
+        "onboard_time": 1688962717,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 151968,
+        "num": 188470,
+        "word": "上万韩国人竞聘福宝一日饲养员助理",
+        "onboard_time": 1688958092,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146219,
+        "num": 188462,
+        "word": "提前15个月还完67万多感觉天亮了",
+        "onboard_time": 1688944763,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123953,
+        "num": 188448,
+        "word": "王艺迪",
+        "onboard_time": 1688958270,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59011,
+        "num": 188431,
+        "word": "6月份CPI同比持平",
+        "onboard_time": 1688969314,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#当千里江山图遇上壮美陕西#"
+    }
+  }
+}

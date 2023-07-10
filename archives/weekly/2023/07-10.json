@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1688967341995,
+  "endTime": 1688970357440,
   "band_list": [
     {
       "raw_hot": 4776127,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2366930,
+      "num": 2366930,
+      "word": "结婚登记须提供户口簿被指违背婚姻自由",
+      "onboard_time": 1688964218,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2307405,
       "num": 2307405,
       "word": "华莎被告发涉嫌演出淫乱罪",
@@ -48,6 +56,14 @@
       "word": "乔任梁父亲自曝住院",
       "onboard_time": 1688961514,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1978790,
+      "num": 1978790,
+      "word": "李咏女儿将出道",
+      "onboard_time": 1688968895,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -72,14 +88,6 @@
       "word": "提前15个月还完67万多感觉天亮了",
       "onboard_time": 1688944763,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1662507,
-      "num": 1662507,
-      "word": "结婚登记须提供户口簿被指违背婚姻自由",
-      "onboard_time": 1688964218,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -307,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 711602,
+      "num": 711602,
+      "word": "奔跑吧",
+      "onboard_time": 1688967454,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 704676,
       "num": 704676,
       "word": "李玟",
@@ -411,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566723,
+      "num": 566723,
+      "word": "陈坤晒照为张婧仪庆生",
+      "onboard_time": 1688967336,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561060,
       "num": 561060,
       "word": "seventeen广州",
@@ -483,12 +507,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484995,
+      "num": 423740,
+      "word": "黄牛为了林俊杰演唱会抢票做题",
+      "onboard_time": 1688967033,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 484880,
       "num": 484880,
       "word": "长沙站准备的高铁客饭",
       "onboard_time": 1688959414,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 468270,
+      "num": 468270,
+      "word": "父亲淡定晒相处25年的姐弟俩打架",
+      "onboard_time": 1688969496,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 464068,
@@ -507,12 +547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 460229,
+      "num": 460229,
+      "word": "不知火传说皮肤",
+      "onboard_time": 1688966136,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 456266,
       "num": 456266,
       "word": "肖战回应火烧云",
       "onboard_time": 1688945365,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 446115,
+      "num": 303489,
+      "word": "蔡依林郑州",
+      "onboard_time": 1688970153,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 440601,
@@ -569,6 +625,14 @@
       "onboard_time": 1688954549,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422938,
+      "num": 346250,
+      "word": "时代峰峻自己的小时代",
+      "onboard_time": 1688966614,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 420629,
@@ -643,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 378104,
+      "num": 303053,
+      "word": "NMIXX事前录制舞台事故",
+      "onboard_time": 1688967395,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375230,
       "num": 375230,
       "word": "杭州打工人花5万装修3平米工位",
@@ -683,14 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 346250,
-      "num": 346250,
-      "word": "时代峰峻自己的小时代",
-      "onboard_time": 1688966614,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336127,
       "num": 336127,
       "word": "白敬亭张昊唯没白来极限挑战",
@@ -707,20 +771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333849,
-      "num": 333849,
-      "word": "不知火传说皮肤",
-      "onboard_time": 1688966136,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 325985,
       "num": 213191,
       "word": "南大0001号录取通知书获得者",
       "onboard_time": 1688941275,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 316273,
+      "num": 276937,
+      "word": "许沁 恋爱脑",
+      "onboard_time": 1688967995,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 316110,
@@ -819,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285071,
+      "num": 285071,
+      "word": "高温让空调安装师傅成了最难约的人",
+      "onboard_time": 1688968295,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284192,
       "num": 284192,
       "word": "不设限毕业礼共唱歌单",
@@ -897,6 +969,14 @@
       "onboard_time": 1688958329,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 266446,
+      "num": 266446,
+      "word": "况三喜表白马立奥",
+      "onboard_time": 1688969554,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 265783,
@@ -1003,11 +1083,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246588,
-      "num": 246588,
-      "word": "黄牛为了林俊杰演唱会抢票做题",
-      "onboard_time": 1688967033,
-      "rank": 39,
+      "raw_hot": 245310,
+      "num": 232683,
+      "word": "TMEA导播叫尹净汉最漂亮的那个",
+      "onboard_time": 1688970096,
+      "rank": 35,
       "category": "音乐"
     },
     {
@@ -1017,6 +1097,14 @@
       "onboard_time": 1688960191,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234771,
+      "num": 234771,
+      "word": "成都街头玫瑰冰豆浆1块1袋",
+      "onboard_time": 1688968533,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229854,
@@ -1131,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209205,
+      "num": 209205,
+      "word": "消防员休假途中暴雨里救了个人",
+      "onboard_time": 1688969973,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208078,
       "num": 208078,
       "word": "懂意大利人对水果披萨的愤怒了",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1688954070,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207192,
+      "num": 188537,
+      "word": "爸爸当家",
+      "onboard_time": 1688969074,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 206183,
@@ -1491,6 +1595,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 79857,
+      "num": 566733,
+      "word": "张靓颖 我的伤就是我的光",
+      "onboard_time": 1688968834,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 78055,
       "num": 78055,
       "word": "玉骨遥",
@@ -1513,6 +1625,14 @@
       "onboard_time": 1688943921,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59011,
+      "num": 188431,
+      "word": "6月份CPI同比持平",
+      "onboard_time": 1688969314,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 59003,
