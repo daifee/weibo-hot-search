@@ -1,0 +1,410 @@
+{
+  "runTime": 1689085069658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7606953,
+        "num": 8647817,
+        "word": "宝格丽道歉别弄成专供中国大陆",
+        "onboard_time": 1689081698,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 2339193,
+        "num": 2339193,
+        "word": "宝格丽致歉",
+        "onboard_time": 1689076054,
+        "rank": 1,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 5238,
+        "num": 2205380,
+        "word": "古诗词里的消暑指南",
+        "onboard_time": 1689084943,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2109534,
+        "num": 2109534,
+        "word": "李维嘉官宣加盟优酷新综艺",
+        "onboard_time": 1689082775,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1488089,
+        "num": 1488089,
+        "word": "姐姐30万赎弟弟没出缅甸又遭转卖",
+        "onboard_time": 1689081157,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1111336,
+        "num": 1111336,
+        "word": "孟宴臣说冷战一个星期我都快疯了",
+        "onboard_time": 1689080673,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1070513,
+        "num": 1070513,
+        "word": "易梦玲要开始演戏了",
+        "onboard_time": 1689079175,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 889055,
+        "num": 889055,
+        "word": "一只虾暴露了广东的温度",
+        "onboard_time": 1689078816,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598211,
+        "num": 598211,
+        "word": "张若昀唐艺昕 性张力",
+        "onboard_time": 1689055714,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 544837,
+        "num": 544837,
+        "word": "肖战下次不许穿黑色短裤",
+        "onboard_time": 1689068977,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2157597,
+        "num": 539319,
+        "word": "Selina怀孕8个月状态",
+        "onboard_time": 1689082658,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826183,
+        "num": 538544,
+        "word": "关晓彤七年换来一句嫂子",
+        "onboard_time": 1689058230,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 753527,
+        "num": 528410,
+        "word": "警方通报无锡3岁女童事件调查结果",
+        "onboard_time": 1689073897,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717612,
+        "num": 521721,
+        "word": "宝格丽官网疑将台湾列为国家",
+        "onboard_time": 1689068255,
+        "rank": 13,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 652864,
+        "num": 517600,
+        "word": "韩幽灵儿童案677名孩子生死不明",
+        "onboard_time": 1689082595,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632275,
+        "num": 513067,
+        "word": "宝格丽客服回应",
+        "onboard_time": 1689069940,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508672,
+        "num": 508672,
+        "word": "当同事是我前男友的现任时",
+        "onboard_time": 1689076114,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 462750,
+        "num": 462750,
+        "word": "拾荒老人喝瓶内剩水男子抹泪买水相送",
+        "onboard_time": 1689082717,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420441,
+        "num": 420441,
+        "word": "曾黎晒桑家全家福",
+        "onboard_time": 1689075995,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419640,
+        "num": 419640,
+        "word": "地铁的空气有多脏",
+        "onboard_time": 1689071437,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 719886,
+        "num": 412629,
+        "word": "如果微信显示已读的话",
+        "onboard_time": 1689084101,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 619339,
+        "num": 409332,
+        "word": "卢昱晓演的皇甫珊",
+        "onboard_time": 1689082057,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551881,
+        "num": 407517,
+        "word": "偷偷藏不住 删减",
+        "onboard_time": 1689083500,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405112,
+        "num": 405112,
+        "word": "被徐梦洁的袁湘琴可爱到了",
+        "onboard_time": 1689080733,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387909,
+        "num": 387909,
+        "word": "宋茜王鹤棣或将演凤来栖",
+        "onboard_time": 1689083077,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384519,
+        "num": 384519,
+        "word": "为什么中国不禁止人名重复",
+        "onboard_time": 1689068132,
+        "rank": 25,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 355679,
+        "num": 355679,
+        "word": "重庆虐猫大学生已做精神鉴定",
+        "onboard_time": 1689079413,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353972,
+        "num": 353972,
+        "word": "天蝎座的感情真的离不开陪伴",
+        "onboard_time": 1689077313,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 350825,
+        "num": 350825,
+        "word": "宝格丽",
+        "onboard_time": 1689053496,
+        "rank": 28,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 29131,
+        "num": 334233,
+        "word": "今天是第19个中国航海日",
+        "onboard_time": 1689067776,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332459,
+        "num": 332459,
+        "word": "太爷爷1张奖状奖1千重孙女拿出29张",
+        "onboard_time": 1689080733,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331454,
+        "num": 331454,
+        "word": "本以为殉情只是古老的传言",
+        "onboard_time": 1689066755,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317412,
+        "num": 317412,
+        "word": "安乐传",
+        "onboard_time": 1689075214,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314804,
+        "num": 314804,
+        "word": "女子被拐26年后回家父母已身亡",
+        "onboard_time": 1689083077,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300550,
+        "num": 300550,
+        "word": "时影给青妃卸美甲",
+        "onboard_time": 1689080314,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296324,
+        "num": 296324,
+        "word": "青旅回应不接待35岁以上人群",
+        "onboard_time": 1689074015,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 286572,
+        "num": 286572,
+        "word": "LPL比赛延期",
+        "onboard_time": 1689073598,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276012,
+        "num": 276012,
+        "word": "关晓彤这真的是你吗",
+        "onboard_time": 1689061833,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239025,
+        "num": 239025,
+        "word": "魏大勋演出了乌木沉香",
+        "onboard_time": 1689064115,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270945,
+        "num": 232843,
+        "word": "范丞丞一个人的韩剧",
+        "onboard_time": 1689065737,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226657,
+        "num": 226657,
+        "word": "因为公司冰箱太满同事买了个小的",
+        "onboard_time": 1689070119,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225916,
+        "num": 225916,
+        "word": "小伙子有点良心但不多",
+        "onboard_time": 1689084040,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223516,
+        "num": 223516,
+        "word": "福宝和两个妹妹都是巨蟹座",
+        "onboard_time": 1689076295,
+        "rank": 42,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 216971,
+        "num": 216971,
+        "word": "吴昕录湖南卫视新综艺",
+        "onboard_time": 1689065673,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186036,
+        "num": 186036,
+        "word": "王鹤棣跳舞是F班",
+        "onboard_time": 1689084943,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180939,
+        "num": 180939,
+        "word": "八角笼中票房破10亿",
+        "onboard_time": 1689078756,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175146,
+        "num": 175146,
+        "word": "网友总结杨洋的演技",
+        "onboard_time": 1689074854,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174721,
+        "num": 174721,
+        "word": "爸爸带16岁女儿做医美改善眼睑下垂",
+        "onboard_time": 1689073833,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167868,
+        "num": 167868,
+        "word": "李沁的发量",
+        "onboard_time": 1689078156,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166181,
+        "num": 166181,
+        "word": "那是62岁费翔的手",
+        "onboard_time": 1689069218,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#星辰大海里的中国名字#"
+    }
+  }
+}
