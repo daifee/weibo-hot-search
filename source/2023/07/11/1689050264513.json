@@ -1,0 +1,410 @@
+{
+  "runTime": 1689050264513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1994029,
+        "num": 1994029,
+        "word": "优衣库门店回应大学生发文吐槽",
+        "onboard_time": 1689044858,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1930745,
+        "num": 1930745,
+        "word": "姜爷爷宋爷爷不用抢了",
+        "onboard_time": 1689039755,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119129,
+        "num": 1472904,
+        "word": "年过80的她这件事干了60年",
+        "onboard_time": 1689042514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1464161,
+        "num": 1464161,
+        "word": "爱宝诞下双胞胎",
+        "onboard_time": 1689033630,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410075,
+        "num": 1410075,
+        "word": "秋瓷炫于晓光同床异梦2预告",
+        "onboard_time": 1689047434,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1401485,
+        "num": 1401485,
+        "word": "EDG起诉Scout",
+        "onboard_time": 1689049062,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1382375,
+        "num": 1382375,
+        "word": "她的骨灰装进了周恩来用过的骨灰盒里",
+        "onboard_time": 1689037894,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219350,
+        "num": 1219350,
+        "word": "魏大勋只是特别出演",
+        "onboard_time": 1689041432,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1043042,
+        "num": 1043042,
+        "word": "28岁女子被高空抛下砖头砸中离世",
+        "onboard_time": 1689041494,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008669,
+        "num": 1008669,
+        "word": "老板劝顾客别买了实在夸不下去了",
+        "onboard_time": 1689045333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908698,
+        "num": 908698,
+        "word": "周笔畅悼念李玟头七",
+        "onboard_time": 1689045815,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 854879,
+        "num": 854879,
+        "word": "大学生优衣库兼职薪资一小时16元",
+        "onboard_time": 1689046054,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714472,
+        "num": 714472,
+        "word": "猴痘病例为何突然增多",
+        "onboard_time": 1689044494,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707759,
+        "num": 707759,
+        "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
+        "onboard_time": 1689044136,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614190,
+        "num": 614190,
+        "word": "浪姐4邀请过谭松韵",
+        "onboard_time": 1689048453,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605738,
+        "num": 605738,
+        "word": "狂飙里的蒋天演刘小北爸爸",
+        "onboard_time": 1689042514,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574501,
+        "num": 574501,
+        "word": "这是西游记哪一集",
+        "onboard_time": 1689045755,
+        "rank": 16,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 552215,
+        "num": 552215,
+        "word": "三伏天是一年当中补阳气的最好时间",
+        "onboard_time": 1689037117,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537172,
+        "num": 537172,
+        "word": "黄子韬说不喜欢员工这两个字",
+        "onboard_time": 1689040891,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516558,
+        "num": 516558,
+        "word": "内娱最炸的组合",
+        "onboard_time": 1689035797,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1035716,
+        "num": 511560,
+        "word": "妻子怀孕让中医老公把脉",
+        "onboard_time": 1689043714,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 561558,
+        "num": 499598,
+        "word": "三大平台接档剧",
+        "onboard_time": 1689048821,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480788,
+        "num": 480788,
+        "word": "免单",
+        "onboard_time": 1689047376,
+        "rank": 22,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 440147,
+        "num": 440147,
+        "word": "朱一龙文咏珊沙滩戏全是心眼",
+        "onboard_time": 1689046114,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427607,
+        "num": 427607,
+        "word": "TFBOYS十周年三人合体舞台多吗",
+        "onboard_time": 1689042995,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 414562,
+        "num": 414562,
+        "word": "偷偷藏不住今日会员收官",
+        "onboard_time": 1689046353,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403902,
+        "num": 403902,
+        "word": "三伏天养生6大禁忌",
+        "onboard_time": 1689033210,
+        "rank": 26,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 377702,
+        "num": 377702,
+        "word": "无骨鸡爪就是我的底线",
+        "onboard_time": 1689045632,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374251,
+        "num": 374251,
+        "word": "王一博骗小海吃东西搞笑程度",
+        "onboard_time": 1689044136,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373356,
+        "num": 373356,
+        "word": "杨紫现场观看MLB全明星赛",
+        "onboard_time": 1689045213,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 417636,
+        "num": 371273,
+        "word": "毛晓慧是曾少年的肖千喜",
+        "onboard_time": 1689048577,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392033,
+        "num": 369516,
+        "word": "北京一外卖骑手违法超车致人死亡",
+        "onboard_time": 1689049476,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389706,
+        "num": 364872,
+        "word": "姜爷爷脸都笑烂了",
+        "onboard_time": 1689050020,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383262,
+        "num": 363892,
+        "word": "中层领导在公司的地位",
+        "onboard_time": 1689049182,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361999,
+        "num": 361999,
+        "word": "128G手机存储够用吗",
+        "onboard_time": 1689048517,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 360503,
+        "num": 360503,
+        "word": "长大后我变成拆散主角的妈",
+        "onboard_time": 1689041913,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351994,
+        "num": 351994,
+        "word": "关晓彤范丞丞吻戏评论区",
+        "onboard_time": 1689046775,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328737,
+        "num": 328737,
+        "word": "芈月宝格丽皮肤CG",
+        "onboard_time": 1689049419,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300797,
+        "num": 300797,
+        "word": "光遇复刻",
+        "onboard_time": 1689048702,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296452,
+        "num": 296452,
+        "word": "不晒太阳竟然是减肥的天敌",
+        "onboard_time": 1689047916,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294590,
+        "num": 294590,
+        "word": "死臀综合征",
+        "onboard_time": 1689002617,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290533,
+        "num": 290533,
+        "word": "你不用变得很外向 但要发言时一定要勇敢",
+        "onboard_time": 1689040654,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281712,
+        "num": 281712,
+        "word": "CA1524航班颠簸致1旅客1乘务员受伤",
+        "onboard_time": 1689046293,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271052,
+        "num": 271052,
+        "word": "福宝两个妹妹叫啥名字好",
+        "onboard_time": 1689039092,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270343,
+        "num": 270343,
+        "word": "国航回应飞机颠簸",
+        "onboard_time": 1689045815,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267511,
+        "num": 267511,
+        "word": "爱宝隔壁瀑布要保不住了",
+        "onboard_time": 1689039513,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263236,
+        "num": 263236,
+        "word": "迪丽热巴大开口破洞裤",
+        "onboard_time": 1689033690,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 250725,
+        "num": 250725,
+        "word": "亲历者称飞机颠簸比文字描述可怕得多",
+        "onboard_time": 1689049898,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240211,
+        "num": 240211,
+        "word": "陈哲远晒段嘉许日记",
+        "onboard_time": 1689049961,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224340,
+        "num": 224340,
+        "word": "曝朴彩英与YG续约",
+        "onboard_time": 1689034413,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#盛世中华何以中国#"
+    }
+  }
+}

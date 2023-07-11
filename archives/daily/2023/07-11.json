@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689049387631,
+  "endTime": 1689050264513,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -43,8 +43,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1580738,
-      "num": 1580738,
+      "raw_hot": 1994029,
+      "num": 1994029,
       "word": "优衣库门店回应大学生发文吐槽",
       "onboard_time": 1689044858,
       "rank": 30,
@@ -65,6 +65,22 @@
       "onboard_time": 1689030863,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1410075,
+      "num": 1410075,
+      "word": "秋瓷炫于晓光同床异梦2预告",
+      "onboard_time": 1689047434,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1401485,
+      "num": 1401485,
+      "word": "EDG起诉Scout",
+      "onboard_time": 1689049062,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 1398428,
@@ -89,14 +105,6 @@
       "onboard_time": 1688997815,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1247110,
-      "num": 1247110,
-      "word": "秋瓷炫于晓光同床异梦2预告",
-      "onboard_time": 1689047434,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1242648,
@@ -211,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 854879,
+      "num": 854879,
+      "word": "大学生优衣库兼职薪资一小时16元",
+      "onboard_time": 1689046054,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814578,
       "num": 814578,
       "word": "香港小姐",
@@ -240,14 +256,6 @@
       "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
       "onboard_time": 1689044136,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677869,
-      "num": 677869,
-      "word": "大学生优衣库兼职薪资一小时16元",
-      "onboard_time": 1689046054,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 614190,
+      "num": 614190,
+      "word": "浪姐4邀请过谭松韵",
+      "onboard_time": 1689048453,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604803,
       "num": 604803,
       "word": "警方回应网传男子性侵15岁少女被当众鞭打",
@@ -307,8 +323,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 571094,
-      "num": 571094,
+      "raw_hot": 574501,
+      "num": 574501,
       "word": "这是西游记哪一集",
       "onboard_time": 1689045755,
       "rank": 47,
@@ -321,6 +337,14 @@
       "onboard_time": 1689031947,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561558,
+      "num": 499598,
+      "word": "三大平台接档剧",
+      "onboard_time": 1689048821,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 547477,
@@ -353,14 +377,6 @@
       "onboard_time": 1689036936,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 528139,
-      "num": 528139,
-      "word": "浪姐4邀请过谭松韵",
-      "onboard_time": 1689048453,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 526878,
@@ -499,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417636,
+      "num": 381439,
+      "word": "毛晓慧是曾少年的肖千喜",
+      "onboard_time": 1689048577,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415704,
       "num": 273517,
       "word": "刘星和姥姥再续祖孙情",
@@ -523,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 398762,
-      "num": 381439,
-      "word": "毛晓慧是曾少年的肖千喜",
-      "onboard_time": 1689048577,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 396709,
       "num": 396709,
       "word": "女孩高考超一本线35分却报专科",
@@ -547,12 +563,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 392033,
+      "num": 369516,
+      "word": "北京一外卖骑手违法超车致人死亡",
+      "onboard_time": 1689049476,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390217,
       "num": 390217,
       "word": "婚礼前老公打篮球把脚摔骨折了",
       "onboard_time": 1689036517,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389706,
+      "num": 364872,
+      "word": "姜爷爷脸都笑烂了",
+      "onboard_time": 1689050020,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384894,
@@ -579,20 +611,20 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 383262,
+      "num": 363892,
+      "word": "中层领导在公司的地位",
+      "onboard_time": 1689049182,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 379529,
       "num": 379529,
       "word": "迪丽热巴大开口破洞裤",
       "onboard_time": 1689033690,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 376883,
-      "num": 376883,
-      "word": "EDG起诉Scout",
-      "onboard_time": 1689049062,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 363085,
@@ -609,6 +641,14 @@
       "onboard_time": 1689002376,
       "rank": 15,
       "category": "情感,影视"
+    },
+    {
+      "raw_hot": 361999,
+      "num": 361999,
+      "word": "128G手机存储够用吗",
+      "onboard_time": 1689048517,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 360136,
@@ -635,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340257,
-      "num": 340257,
-      "word": "三大平台接档剧",
-      "onboard_time": 1689048821,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 339011,
       "num": 339011,
       "word": "质疑章鱼哥理解章鱼哥成为章鱼哥",
@@ -667,20 +699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328737,
+      "num": 328737,
+      "word": "芈月宝格丽皮肤CG",
+      "onboard_time": 1689049419,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 326367,
       "num": 326367,
       "word": "旅韩大熊猫福宝当姐姐啦",
       "onboard_time": 1689034833,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326121,
-      "num": 326121,
-      "word": "中层领导在公司的地位",
-      "onboard_time": 1689049182,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 315794,
@@ -747,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296452,
+      "num": 296452,
+      "word": "不晒太阳竟然是减肥的天敌",
+      "onboard_time": 1689047916,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293590,
       "num": 293590,
       "word": "杨丞琳卡点祝李荣浩生日快乐",
@@ -811,22 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266770,
-      "num": 266770,
-      "word": "不晒太阳竟然是减肥的天敌",
-      "onboard_time": 1689047916,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 262812,
-      "num": 262812,
-      "word": "128G手机存储够用吗",
-      "onboard_time": 1689048517,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 259469,
       "num": 259469,
       "word": "在五月天演唱会散场后求婚",
@@ -848,6 +872,14 @@
       "word": "女子当街将男子压在身下欲强扒衣物",
       "onboard_time": 1688975012,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250725,
+      "num": 250725,
+      "word": "亲历者称飞机颠簸比文字描述可怕得多",
+      "onboard_time": 1689049898,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -889,6 +921,14 @@
       "onboard_time": 1689034172,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240211,
+      "num": 240211,
+      "word": "陈哲远晒段嘉许日记",
+      "onboard_time": 1689049961,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 235186,
