@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689113872036,
+  "endTime": 1689114964888,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -4955,6 +4955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149766,
+      "num": 149766,
+      "word": "闫桉终于来演偶像剧了",
+      "onboard_time": 1689110413,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149401,
       "num": 173608,
       "word": "黑龙江一18个月女孩从6楼窗台坠亡",
@@ -5115,14 +5123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95829,
-      "num": 95829,
-      "word": "闫桉终于来演偶像剧了",
-      "onboard_time": 1689110413,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95178,
       "num": 2308334,
       "word": "盛世中华何以中国",
@@ -5161,6 +5161,14 @@
       "onboard_time": 1688935512,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 82346,
+      "num": 82346,
+      "word": "西安的雨没有100斤寸步难行",
+      "onboard_time": 1689113656,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75655,
@@ -5219,6 +5227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57910,
+      "num": 57910,
+      "word": "王一博晒分层",
+      "onboard_time": 1689112153,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 57334,
       "num": 3739475,
       "word": "今天是第19个中国航海日",
@@ -5235,28 +5251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46567,
+      "num": 47964,
+      "word": "肖战大漠vlog",
+      "onboard_time": 1689104652,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45928,
       "num": 51938,
       "word": "UP对战TES",
       "onboard_time": 1689099078,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 39943,
-      "num": 39943,
-      "word": "王一博晒分层",
-      "onboard_time": 1689112153,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 38182,
-      "num": 38182,
-      "word": "肖战大漠vlog",
-      "onboard_time": 1689104652,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 37867,
@@ -5281,6 +5289,14 @@
       "onboard_time": 1689085121,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36476,
+      "num": 47927,
+      "word": "费翔老师我妈爱你",
+      "onboard_time": 1689114556,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 33266,
@@ -5320,14 +5336,6 @@
       "word": "遇到离岸流有多危险",
       "onboard_time": 1688930353,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25344,
-      "num": 38084,
-      "word": "西安的雨没有100斤寸步难行",
-      "onboard_time": 1689113656,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

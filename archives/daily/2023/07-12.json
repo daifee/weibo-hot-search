@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689113872036,
+  "endTime": 1689114964888,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -379,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149766,
+      "num": 149766,
+      "word": "闫桉终于来演偶像剧了",
+      "onboard_time": 1689110413,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149525,
       "num": 149525,
       "word": "玉骨遥",
@@ -419,12 +427,12 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 95829,
-      "num": 95829,
-      "word": "闫桉终于来演偶像剧了",
-      "onboard_time": 1689110413,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 82346,
+      "num": 82346,
+      "word": "西安的雨没有100斤寸步难行",
+      "onboard_time": 1689113656,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75309,
@@ -443,6 +451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57910,
+      "num": 57910,
+      "word": "王一博晒分层",
+      "onboard_time": 1689112153,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 46567,
+      "num": 47964,
+      "word": "肖战大漠vlog",
+      "onboard_time": 1689104652,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45928,
       "num": 51938,
       "word": "UP对战TES",
@@ -451,20 +475,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39943,
-      "num": 39943,
-      "word": "王一博晒分层",
-      "onboard_time": 1689112153,
-      "rank": 39,
+      "raw_hot": 36476,
+      "num": 47927,
+      "word": "费翔老师我妈爱你",
+      "onboard_time": 1689114556,
+      "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 38182,
-      "num": 38182,
-      "word": "肖战大漠vlog",
-      "onboard_time": 1689104652,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 32944,
@@ -488,14 +504,6 @@
       "word": "长江文物宝藏画卷",
       "onboard_time": 1689085121,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25344,
-      "num": 38084,
-      "word": "西安的雨没有100斤寸步难行",
-      "onboard_time": 1689113656,
-      "rank": 48,
       "category": "社会新闻"
     }
   ],
