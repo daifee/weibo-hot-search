@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689041078936,
+  "endTime": 1689043975838,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -43,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1358959,
+      "num": 1358959,
+      "word": "28岁女子被高空抛下砖头砸中离世",
+      "onboard_time": 1689041494,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1282388,
       "num": 633918,
       "word": "被困缅北男子手脚被打断母亲崩溃",
       "onboard_time": 1688997815,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1272817,
+      "num": 1272817,
+      "word": "黄子韬说不喜欢员工这两个字",
+      "onboard_time": 1689040891,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1224819,
@@ -75,12 +91,28 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1190398,
+      "num": 1190398,
+      "word": "魏大勋只是特别出演",
+      "onboard_time": 1689041432,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1190358,
       "num": 1190358,
       "word": "内娱最炸的组合",
       "onboard_time": 1689035797,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1110660,
+      "num": 1110660,
+      "word": "你不用变得很外向 但要发言时一定要勇敢",
+      "onboard_time": 1689040654,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 996559,
@@ -116,7 +148,7 @@
     },
     {
       "raw_hot": 884507,
-      "num": 692480,
+      "num": 761154,
       "word": "男子隐瞒婚育和同事生子拒付抚养费",
       "onboard_time": 1689039092,
       "rank": 30,
@@ -145,6 +177,14 @@
       "onboard_time": 1689036458,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688126,
+      "num": 688126,
+      "word": "狂飙里的蒋天演刘小北爸爸",
+      "onboard_time": 1689042514,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 667302,
@@ -211,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536628,
+      "num": 536628,
+      "word": "爱宝隔壁瀑布要保不住了",
+      "onboard_time": 1689039513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529387,
       "num": 529387,
       "word": "肖燕再现小娘惹经典造型",
       "onboard_time": 1689036936,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 528736,
-      "num": 528736,
-      "word": "爱宝隔壁瀑布要保不住了",
-      "onboard_time": 1689039513,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 526878,
@@ -241,6 +281,14 @@
       "onboard_time": 1689036634,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488457,
+      "num": 488457,
+      "word": "TFBOYS十周年三人合体舞台多吗",
+      "onboard_time": 1689042995,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 472804,
@@ -299,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418704,
+      "num": 418704,
+      "word": "网友举报多家已读不回招聘公司",
+      "onboard_time": 1689041432,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415704,
       "num": 273517,
       "word": "刘星和姥姥再续祖孙情",
@@ -320,6 +376,14 @@
       "word": "把玉骨遥第八集搬进了婚礼现场",
       "onboard_time": 1689015313,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 401118,
+      "num": 401118,
+      "word": "长大后我变成拆散主角的妈",
+      "onboard_time": 1689041913,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -379,12 +443,28 @@
       "category": "情感,影视"
     },
     {
-      "raw_hot": 358900,
-      "num": 276727,
-      "word": "你不用变得很外向 但要发言时一定要勇敢",
-      "onboard_time": 1689040654,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 349945,
+      "num": 349945,
+      "word": "女孩称在鬼屋扮NPC被男玩家袭胸",
+      "onboard_time": 1689042033,
+      "rank": 23,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 346132,
+      "num": 346132,
+      "word": "CA1524航班乘客讲述颠簸经过",
+      "onboard_time": 1689037833,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339011,
+      "num": 339011,
+      "word": "质疑章鱼哥理解章鱼哥成为章鱼哥",
+      "onboard_time": 1689040535,
+      "rank": 33,
+      "category": "幽默,动漫"
     },
     {
       "raw_hot": 336585,
@@ -395,19 +475,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330452,
+      "num": 287572,
+      "word": "妻子怀孕让中医老公把脉",
+      "onboard_time": 1689043714,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 326367,
       "num": 326367,
       "word": "旅韩大熊猫福宝当姐姐啦",
       "onboard_time": 1689034833,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322080,
-      "num": 322080,
-      "word": "CA1524航班乘客讲述颠簸经过",
-      "onboard_time": 1689037833,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -425,14 +505,6 @@
       "onboard_time": 1689032729,
       "rank": 27,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 308508,
-      "num": 308508,
-      "word": "黄子韬说不喜欢员工这两个字",
-      "onboard_time": 1689040891,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 305794,
@@ -507,6 +579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 284963,
+      "num": 284963,
+      "word": "快乐大本营26岁了",
+      "onboard_time": 1689043113,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274698,
       "num": 274698,
       "word": "警方回应老人当街抛扔满月双胞胎女婴",
@@ -537,14 +617,6 @@
       "onboard_time": 1688975012,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254231,
-      "num": 254231,
-      "word": "质疑章鱼哥理解章鱼哥成为章鱼哥",
-      "onboard_time": 1689040535,
-      "rank": 33,
-      "category": "幽默,动漫"
     },
     {
       "raw_hot": 247959,
@@ -603,6 +675,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 216405,
+      "num": 216405,
+      "word": "关于橘猫的传闻是真的",
+      "onboard_time": 1689041072,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212158,
       "num": 212158,
       "word": "大熊猫爱宝新宝宝名字",
@@ -617,6 +697,14 @@
       "onboard_time": 1688993312,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207999,
+      "num": 207999,
+      "word": "权顺荣用中文问有T吗",
+      "onboard_time": 1689043414,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 206426,
@@ -649,6 +737,14 @@
       "onboard_time": 1689026714,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196097,
+      "num": 196097,
+      "word": "杨洋吊威亚4楼速降",
+      "onboard_time": 1689043232,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 191280,
@@ -713,6 +809,14 @@
       "onboard_time": 1688982272,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177713,
+      "num": 185834,
+      "word": "游客不慎坠河被冲走众人合力相救",
+      "onboard_time": 1689040829,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 172492,
@@ -891,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109921,
+      "num": 1921609,
+      "word": "年过80的她这件事干了60年",
+      "onboard_time": 1689042514,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105367,
       "num": 121366,
       "word": "有人看乐子 有人照镜子",
@@ -913,14 +1025,6 @@
       "onboard_time": 1689028638,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81786,
-      "num": 185834,
-      "word": "游客不慎坠河被冲走众人合力相救",
-      "onboard_time": 1689040829,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 72128,
@@ -972,6 +1076,9 @@
     },
     {
       "word": "#习近平会见所罗门群岛总理#"
+    },
+    {
+      "word": "#盛世中华何以中国#"
     }
   ]
 }
