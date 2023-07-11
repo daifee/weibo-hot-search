@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689082047459,
+  "endTime": 1689082679922,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -25,6 +25,14 @@
       "onboard_time": 1689033630,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3589345,
+      "num": 3678691,
+      "word": "宝格丽道歉别弄成专供中国大陆",
+      "onboard_time": 1689081698,
+      "rank": 1,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 3313165,
@@ -163,20 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1602282,
-      "num": 1602282,
-      "word": "宝格丽道歉别弄成专供中国大陆",
-      "onboard_time": 1689081698,
-      "rank": 1,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1589963,
       "num": 1589963,
       "word": "姜爷爷脸都笑烂了",
       "onboard_time": 1689050020,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1562074,
+      "num": 1562074,
+      "word": "易梦玲要开始演戏了",
+      "onboard_time": 1689079175,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1554791,
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1525257,
-      "num": 1525257,
-      "word": "易梦玲要开始演戏了",
-      "onboard_time": 1689079175,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1498759,
       "num": 1498759,
       "word": "上海飞北京航班遭遇严重颠簸",
       "onboard_time": 1689030863,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1463108,
+      "num": 1463108,
+      "word": "姐姐30万赎弟弟没出缅甸又遭转卖",
+      "onboard_time": 1689081157,
+      "rank": 6,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1410075,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1153524,
+      "num": 1153524,
+      "word": "孟宴臣说冷战一个星期我都快疯了",
+      "onboard_time": 1689080673,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1101075,
       "num": 4919188,
       "word": "1米58男子苦练绣花一幅卖到6万8",
@@ -363,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1014910,
+      "num": 1014910,
+      "word": "一只虾暴露了广东的温度",
+      "onboard_time": 1689078816,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999681,
       "num": 702958,
       "word": "娱乐圈的真夫妻",
@@ -393,14 +417,6 @@
       "onboard_time": 1689042514,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 982832,
-      "num": 982832,
-      "word": "一只虾暴露了广东的温度",
-      "onboard_time": 1689078816,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 979751,
@@ -449,14 +465,6 @@
       "onboard_time": 1689039092,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 870799,
-      "num": 870799,
-      "word": "姐姐30万赎弟弟没出缅甸又遭转卖",
-      "onboard_time": 1689081157,
-      "rank": 6,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 858838,
@@ -512,14 +520,6 @@
       "word": "肖战下次不许穿黑色短裤",
       "onboard_time": 1689068977,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 791224,
-      "num": 791224,
-      "word": "孟宴臣说冷战一个星期我都快疯了",
-      "onboard_time": 1689080673,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -867,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492386,
+      "num": 351308,
+      "word": "被徐梦洁的袁湘琴可爱到了",
+      "onboard_time": 1689080733,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479942,
       "num": 479942,
       "word": "福宝两个妹妹叫啥名字好",
@@ -971,14 +979,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 452042,
-      "num": 351308,
-      "word": "被徐梦洁的袁湘琴可爱到了",
-      "onboard_time": 1689080733,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 450513,
       "num": 450513,
       "word": "曝朴彩英与YG续约",
@@ -1027,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 437181,
+      "num": 437181,
+      "word": "天蝎座的感情真的离不开陪伴",
+      "onboard_time": 1689077313,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 434517,
       "num": 350589,
       "word": "重庆虐猫大学生已做精神鉴定",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1689045213,
       "rank": 23,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 421346,
-      "num": 377328,
-      "word": "天蝎座的感情真的离不开陪伴",
-      "onboard_time": 1689077313,
-      "rank": 20,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 421048,
@@ -1144,6 +1144,14 @@
       "word": "黄子韬带旗下艺人团建",
       "onboard_time": 1689065014,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 393058,
+      "num": 307116,
+      "word": "卢昱晓演的皇甫珊",
+      "onboard_time": 1689082057,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -2067,6 +2075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204193,
+      "num": 204193,
+      "word": "Selina怀孕8个月状态",
+      "onboard_time": 1689082658,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203900,
       "num": 203900,
       "word": "新版妲己 猫咪纹",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1688989890,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189773,
+      "num": 189773,
+      "word": "妥妥的暴力美学",
+      "onboard_time": 1689082236,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 189480,
@@ -2233,6 +2257,14 @@
       "onboard_time": 1689040829,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 175941,
+      "num": 175941,
+      "word": "韩幽灵儿童案677名孩子生死不明",
+      "onboard_time": 1689082595,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173606,
