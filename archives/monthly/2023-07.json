@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689086198981,
+  "endTime": 1689088806683,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3675,6 +3675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1105309,
+      "num": 1105309,
+      "word": "孟宴臣原著结局",
+      "onboard_time": 1689085361,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1104777,
       "num": 1104777,
       "word": "花少北 一直逃避回应做视频的问题",
@@ -4163,6 +4171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014527,
+      "num": 480439,
+      "word": "如果微信显示已读的话",
+      "onboard_time": 1689084101,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1011726,
       "num": 1011726,
       "word": "尘缘定档今晚",
@@ -4563,14 +4579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 956802,
-      "num": 431975,
-      "word": "如果微信显示已读的话",
-      "onboard_time": 1689084101,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
       "raw_hot": 956186,
       "num": 956186,
       "word": "朱丹跟周一围说市场都快把我忘了",
@@ -4785,6 +4793,14 @@
       "onboard_time": 1688370464,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 928753,
+      "num": 928753,
+      "word": "唐艺昕错位礼服",
+      "onboard_time": 1689086676,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 927937,
@@ -8875,6 +8891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572243,
+      "num": 572243,
+      "word": "张一山关晓彤北京话互怼",
+      "onboard_time": 1689087580,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571983,
       "num": 571983,
       "word": "EDG对战TT",
@@ -9555,14 +9579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537313,
-      "num": 537313,
-      "word": "孟宴臣原著结局",
-      "onboard_time": 1689085361,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 536673,
       "num": 536673,
       "word": "这就是热恋期的小情侣吗",
@@ -9817,6 +9833,14 @@
       "onboard_time": 1688211631,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 522797,
+      "num": 522797,
+      "word": "玖月晞告读者案一审结果",
+      "onboard_time": 1689086739,
+      "rank": 17,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 522627,
@@ -12713,6 +12737,14 @@
       "onboard_time": 1688468556,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402242,
+      "num": 402242,
+      "word": "西安交大博士生毕业后希望回到母校工作",
+      "onboard_time": 1689087877,
+      "rank": 22,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 402146,
@@ -15651,6 +15683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322288,
+      "num": 322288,
+      "word": "王鹤棣跳舞是F班",
+      "onboard_time": 1689084943,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322240,
       "num": 322240,
       "word": "黄子韬 我是菜但爱玩",
@@ -16211,6 +16251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308972,
+      "num": 308972,
+      "word": "偷偷藏不住大结局",
+      "onboard_time": 1689086559,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308925,
       "num": 308925,
       "word": "JDG晋级夏季季后赛",
@@ -16696,6 +16744,14 @@
       "word": "沈腾演反派主打一个真诚",
       "onboard_time": 1688433096,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298206,
+      "num": 298206,
+      "word": "许沁和她的三个男人",
+      "onboard_time": 1689088057,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -17824,14 +17880,6 @@
       "word": "少年推理社",
       "onboard_time": 1688697632,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 275534,
-      "num": 275534,
-      "word": "王鹤棣跳舞是F班",
-      "onboard_time": 1689084943,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -19043,6 +19091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253719,
+      "num": 253719,
+      "word": "爱豆远离这首歌",
+      "onboard_time": 1689085121,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253626,
       "num": 253626,
       "word": "人和人的核心区别就是主动",
@@ -19113,14 +19169,6 @@
       "onboard_time": 1688362824,
       "rank": 24,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 253219,
-      "num": 253219,
-      "word": "爱豆远离这首歌",
-      "onboard_time": 1689085121,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 253160,
@@ -23625,6 +23673,14 @@
       "onboard_time": 1689082236,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189768,
+      "num": 189768,
+      "word": "刘浩存七根凶简造型",
+      "onboard_time": 1689088659,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 189745,
