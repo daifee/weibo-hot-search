@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689046588398,
+  "endTime": 1689049387631,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -43,6 +43,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1580738,
+      "num": 1580738,
+      "word": "优衣库门店回应大学生发文吐槽",
+      "onboard_time": 1689044858,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1554791,
       "num": 1554791,
       "word": "28岁女子被高空抛下砖头砸中离世",
@@ -81,6 +89,14 @@
       "onboard_time": 1688997815,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1247110,
+      "num": 1247110,
+      "word": "秋瓷炫于晓光同床异梦2预告",
+      "onboard_time": 1689047434,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1242648,
@@ -123,11 +139,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1038037,
-      "num": 844188,
-      "word": "优衣库门店回应大学生发文吐槽",
-      "onboard_time": 1689044858,
+      "raw_hot": 1087454,
+      "num": 1087454,
+      "word": "周笔畅悼念李玟头七",
+      "onboard_time": 1689045815,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1055114,
+      "num": 1055114,
+      "word": "老板劝顾客别买了实在夸不下去了",
+      "onboard_time": 1689045333,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -195,6 +219,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 782845,
+      "num": 782845,
+      "word": "猴痘病例为何突然增多",
+      "onboard_time": 1689044494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754011,
       "num": 754011,
       "word": "谭松韵工作室回应受伤",
@@ -203,19 +235,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 697493,
-      "num": 697493,
-      "word": "猴痘病例为何突然增多",
-      "onboard_time": 1689044494,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 693251,
-      "num": 693251,
+      "raw_hot": 710487,
+      "num": 710487,
       "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
       "onboard_time": 1689044136,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677869,
+      "num": 677869,
+      "word": "大学生优衣库兼职薪资一小时16元",
+      "onboard_time": 1689046054,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -225,6 +257,14 @@
       "onboard_time": 1689039331,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664400,
+      "num": 664400,
+      "word": "免单",
+      "onboard_time": 1689047376,
+      "rank": 13,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 662658,
@@ -259,20 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588553,
-      "num": 262981,
-      "word": "周笔畅悼念李玟头七",
-      "onboard_time": 1689045815,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 579065,
       "num": 579065,
       "word": "许沁改姓",
       "onboard_time": 1689002075,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 571094,
+      "num": 571094,
+      "word": "这是西游记哪一集",
+      "onboard_time": 1689045755,
+      "rank": 47,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 565296,
@@ -315,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 528139,
+      "num": 528139,
+      "word": "浪姐4邀请过谭松韵",
+      "onboard_time": 1689048453,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 526878,
       "num": 472580,
       "word": "魏大勋隐忍式哭戏",
@@ -337,6 +385,14 @@
       "onboard_time": 1689036634,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492543,
+      "num": 492543,
+      "word": "朱一龙文咏珊沙滩戏全是心眼",
+      "onboard_time": 1689046114,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 479942,
@@ -379,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452858,
-      "num": 452858,
-      "word": "老板劝顾客别买了实在夸不下去了",
-      "onboard_time": 1689045333,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450513,
       "num": 450513,
       "word": "曝朴彩英与YG续约",
@@ -411,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434003,
+      "num": 381618,
+      "word": "任敏玉骨遥专访",
+      "onboard_time": 1689048275,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431729,
       "num": 418704,
       "word": "网友举报多家已读不回招聘公司",
@@ -419,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428252,
+      "num": 428252,
+      "word": "光遇复刻",
+      "onboard_time": 1689048702,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 422732,
       "num": 422732,
       "word": "杨紫现场观看MLB全明星赛",
       "onboard_time": 1689045213,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 421048,
+      "num": 421048,
+      "word": "偷偷藏不住今日会员收官",
+      "onboard_time": 1689046353,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 415704,
@@ -451,12 +523,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398762,
+      "num": 381439,
+      "word": "毛晓慧是曾少年的肖千喜",
+      "onboard_time": 1689048577,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396709,
       "num": 396709,
       "word": "女孩高考超一本线35分却报专科",
       "onboard_time": 1688990072,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 392835,
+      "num": 392835,
+      "word": "无骨鸡爪就是我的底线",
+      "onboard_time": 1689045632,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 390217,
@@ -475,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384656,
+      "num": 384656,
+      "word": "CA1524航班颠簸致1旅客1乘务员受伤",
+      "onboard_time": 1689046293,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384592,
       "num": 384592,
       "word": "三伏天省着点用自己",
@@ -491,12 +587,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 363610,
-      "num": 260835,
-      "word": "这是西游记哪一集",
-      "onboard_time": 1689045755,
-      "rank": 47,
-      "category": "影视,幽默"
+      "raw_hot": 376883,
+      "num": 376883,
+      "word": "EDG起诉Scout",
+      "onboard_time": 1689049062,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 363085,
@@ -515,6 +611,14 @@
       "category": "情感,影视"
     },
     {
+      "raw_hot": 360136,
+      "num": 360136,
+      "word": "关晓彤范丞丞吻戏评论区",
+      "onboard_time": 1689046775,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349945,
       "num": 349945,
       "word": "女孩称在鬼屋扮NPC被男玩家袭胸",
@@ -523,20 +627,20 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 349606,
-      "num": 259565,
-      "word": "大学生优衣库兼职薪资一小时16元",
-      "onboard_time": 1689046054,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346132,
       "num": 346132,
       "word": "CA1524航班乘客讲述颠簸经过",
       "onboard_time": 1689037833,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340257,
+      "num": 340257,
+      "word": "三大平台接档剧",
+      "onboard_time": 1689048821,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 339011,
@@ -555,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333102,
+      "num": 333102,
+      "word": "国航回应飞机颠簸",
+      "onboard_time": 1689045815,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326367,
       "num": 326367,
       "word": "旅韩大熊猫福宝当姐姐啦",
       "onboard_time": 1689034833,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326121,
+      "num": 326121,
+      "word": "中层领导在公司的地位",
+      "onboard_time": 1689049182,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 315794,
@@ -659,22 +779,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 289372,
-      "num": 289372,
-      "word": "国航回应飞机颠簸",
-      "onboard_time": 1689045815,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281171,
-      "num": 258784,
-      "word": "无骨鸡爪就是我的底线",
-      "onboard_time": 1689045632,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 274698,
       "num": 274698,
       "word": "警方回应老人当街抛扔满月双胞胎女婴",
@@ -705,6 +809,22 @@
       "onboard_time": 1689044254,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266770,
+      "num": 266770,
+      "word": "不晒太阳竟然是减肥的天敌",
+      "onboard_time": 1689047916,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 262812,
+      "num": 262812,
+      "word": "128G手机存储够用吗",
+      "onboard_time": 1689048517,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 259469,
@@ -771,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236299,
-      "num": 236299,
-      "word": "CA1524航班颠簸致1旅客1乘务员受伤",
-      "onboard_time": 1689046293,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235186,
       "num": 235186,
       "word": "如何看待村书记称浮桥搭建者说假话",
@@ -795,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233340,
-      "num": 233340,
-      "word": "偷偷藏不住今日会员收官",
-      "onboard_time": 1689046353,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 231181,
       "num": 231181,
       "word": "抑郁的反面不是快乐而是活力",
@@ -817,14 +921,6 @@
       "onboard_time": 1689004829,
       "rank": 30,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 219842,
-      "num": 219842,
-      "word": "朱一龙文咏珊沙滩戏全是心眼",
-      "onboard_time": 1689046114,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 216405,
