@@ -1,0 +1,410 @@
+{
+  "runTime": 1689044547117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2217945,
+        "num": 2217945,
+        "word": "爱宝诞下双胞胎",
+        "onboard_time": 1689033630,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2149182,
+        "num": 2149182,
+        "word": "姜爷爷宋爷爷不用抢了",
+        "onboard_time": 1689039755,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120239,
+        "num": 1954557,
+        "word": "年过80的她这件事干了60年",
+        "onboard_time": 1689042514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1951344,
+        "num": 1951344,
+        "word": "她的骨灰装进了周恩来用过的骨灰盒里",
+        "onboard_time": 1689037894,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554791,
+        "num": 1554791,
+        "word": "28岁女子被高空抛下砖头砸中离世",
+        "onboard_time": 1689041494,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398428,
+        "num": 1398428,
+        "word": "黄子韬说不喜欢员工这两个字",
+        "onboard_time": 1689040891,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1292644,
+        "num": 1292644,
+        "word": "魏大勋只是特别出演",
+        "onboard_time": 1689041432,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1242648,
+        "num": 1242648,
+        "word": "你不用变得很外向 但要发言时一定要勇敢",
+        "onboard_time": 1689040654,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 858963,
+        "num": 858963,
+        "word": "狂飙里的蒋天演刘小北爸爸",
+        "onboard_time": 1689042514,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 777707,
+        "num": 777707,
+        "word": "内娱最炸的组合",
+        "onboard_time": 1689035797,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723460,
+        "num": 723460,
+        "word": "三伏天是一年当中补阳气的最好时间",
+        "onboard_time": 1689037117,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641300,
+        "num": 641300,
+        "word": "三伏天养生6大禁忌",
+        "onboard_time": 1689033210,
+        "rank": 11,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 634488,
+        "num": 634488,
+        "word": "男子隐瞒婚育和同事生子拒付抚养费",
+        "onboard_time": 1689039092,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603848,
+        "num": 603848,
+        "word": "TFBOYS十周年三人合体舞台多吗",
+        "onboard_time": 1689042995,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 521042,
+        "num": 521042,
+        "word": "爱宝隔壁瀑布要保不住了",
+        "onboard_time": 1689039513,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479942,
+        "num": 479942,
+        "word": "福宝两个妹妹叫啥名字好",
+        "onboard_time": 1689039092,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446121,
+        "num": 446121,
+        "word": "上海飞北京航班遭遇严重颠簸",
+        "onboard_time": 1689030863,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441130,
+        "num": 441130,
+        "word": "谭松韵工作室回应受伤",
+        "onboard_time": 1689036458,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407214,
+        "num": 407214,
+        "word": "香港小姐",
+        "onboard_time": 1689037417,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 403132,
+        "num": 403132,
+        "word": "死臀综合征",
+        "onboard_time": 1689002617,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431729,
+        "num": 388656,
+        "word": "网友举报多家已读不回招聘公司",
+        "onboard_time": 1689041432,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373775,
+        "num": 373775,
+        "word": "长大后我变成拆散主角的妈",
+        "onboard_time": 1689041913,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344198,
+        "num": 344198,
+        "word": "爱宝女儿出生照",
+        "onboard_time": 1689038074,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339944,
+        "num": 339944,
+        "word": "女孩称在鬼屋扮NPC被男玩家袭胸",
+        "onboard_time": 1689042033,
+        "rank": 23,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 317299,
+        "num": 317299,
+        "word": "曝朴彩英与YG续约",
+        "onboard_time": 1689034413,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313067,
+        "num": 313067,
+        "word": "质疑章鱼哥理解章鱼哥成为章鱼哥",
+        "onboard_time": 1689040535,
+        "rank": 25,
+        "category": "幽默,动漫"
+      },
+      {
+        "raw_hot": 311945,
+        "num": 311945,
+        "word": "CA1524航班乘客讲述颠簸经过",
+        "onboard_time": 1689037833,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309256,
+        "num": 309256,
+        "word": "快乐大本营26岁了",
+        "onboard_time": 1689043113,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291022,
+        "num": 291022,
+        "word": "王一博骗小海吃东西搞笑程度",
+        "onboard_time": 1689044136,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275119,
+        "num": 275119,
+        "word": "5女子以女厕难等为由进餐厅男厕",
+        "onboard_time": 1689031947,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803537,
+        "num": 274606,
+        "word": "妻子怀孕让中医老公把脉",
+        "onboard_time": 1689043714,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 273080,
+        "num": 273080,
+        "word": "乐宝",
+        "onboard_time": 1689039154,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255553,
+        "num": 255553,
+        "word": "古人没有空调怎么过夏天",
+        "onboard_time": 1689036159,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253624,
+        "num": 253624,
+        "word": "迪丽热巴大开口破洞裤",
+        "onboard_time": 1689033690,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 246631,
+        "num": 246631,
+        "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
+        "onboard_time": 1689044136,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245025,
+        "num": 245025,
+        "word": "三伏天省着点用自己",
+        "onboard_time": 1689036218,
+        "rank": 35,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 234219,
+        "num": 234219,
+        "word": "权顺荣用中文问有T吗",
+        "onboard_time": 1689043414,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233398,
+        "num": 233398,
+        "word": "姐姐辟谣费玉清病危传闻",
+        "onboard_time": 1689044254,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232659,
+        "num": 232659,
+        "word": "多位博主称被都美竹起诉侵犯肖像权",
+        "onboard_time": 1689032729,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 203029,
+        "num": 203029,
+        "word": "自闭症儿子无学上妈妈辞职办学校",
+        "onboard_time": 1689037117,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202992,
+        "num": 202992,
+        "word": "如何看待村书记称浮桥搭建者说假话",
+        "onboard_time": 1689044494,
+        "rank": 40,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 186670,
+        "num": 186670,
+        "word": "杨洋吊威亚4楼速降",
+        "onboard_time": 1689043232,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177021,
+        "num": 177021,
+        "word": "肖燕再现小娘惹经典造型",
+        "onboard_time": 1689036936,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179523,
+        "num": 176660,
+        "word": "魏大勋发蝴蝶墙",
+        "onboard_time": 1689021191,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174465,
+        "num": 174465,
+        "word": "关于橘猫的传闻是真的",
+        "onboard_time": 1689041072,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176526,
+        "num": 174212,
+        "word": "魏大勋隐忍式哭戏",
+        "onboard_time": 1688999917,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172752,
+        "num": 172752,
+        "word": "游客不慎坠河被冲走众人合力相救",
+        "onboard_time": 1689040829,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 168460,
+        "num": 168460,
+        "word": "医生说这是他拍过最小的猫",
+        "onboard_time": 1689033511,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 165520,
+        "num": 165520,
+        "word": "猴痘病例为何突然增多",
+        "onboard_time": 1689044494,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89815,
+        "num": 159554,
+        "word": "间谍过家家",
+        "onboard_time": 1689032187,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见所罗门群岛总理#"
+    }
+  }
+}
