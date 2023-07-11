@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689053707888,
+  "endTime": 1689056705657,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -25,6 +25,14 @@
       "onboard_time": 1688988094,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2832936,
+      "num": 2832936,
+      "word": "张若昀唐艺昕双人杂志",
+      "onboard_time": 1689053856,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2770503,
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1870913,
+      "num": 654833,
+      "word": "李靓蕾谈陈建州性骚扰事件",
+      "onboard_time": 1689053674,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1839688,
       "num": 1218433,
       "word": "杨洋 方头明",
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1584524,
+      "num": 1584524,
+      "word": "三伏天为啥是减肥的好时候",
+      "onboard_time": 1689051037,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1571453,
       "num": 1571453,
       "word": "在孙权墓前放中科大录取通知书",
@@ -281,6 +305,14 @@
       "onboard_time": 1688994153,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1454493,
+      "num": 1454493,
+      "word": "宝格丽",
+      "onboard_time": 1689053496,
+      "rank": 19,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1417629,
@@ -395,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1215128,
-      "num": 1215128,
-      "word": "三伏天为啥是减肥的好时候",
-      "onboard_time": 1689051037,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1211217,
       "num": 1211217,
       "word": "父亲称蹲守杀害女儿者非前任而是追求者",
@@ -433,6 +457,14 @@
       "onboard_time": 1689049476,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1159528,
+      "num": 305131,
+      "word": "张若昀唐艺昕 性张力",
+      "onboard_time": 1689055714,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1157870,
@@ -1019,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660957,
+      "num": 660957,
+      "word": "山航三年亏损110亿元",
+      "onboard_time": 1689053072,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 659765,
       "num": 467239,
       "word": "赵丽颖蝴蝶结白裙",
@@ -1275,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 528138,
+      "num": 528138,
+      "word": "老人因病痛跳河轻生女儿岸边苦苦哀求",
+      "onboard_time": 1689054274,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527570,
       "num": 527570,
       "word": "大奉打更人",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1688982334,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 499737,
+      "num": 499737,
+      "word": "学区房是凶宅你会买吗",
+      "onboard_time": 1689055414,
+      "rank": 15,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 494149,
@@ -1555,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449038,
+      "num": 449038,
+      "word": "宋轶用柳玉茹手机壳",
+      "onboard_time": 1689054995,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448642,
       "num": 448642,
       "word": "林孝埈中文接受采访",
@@ -1609,6 +1673,14 @@
       "onboard_time": 1688917830,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 436024,
+      "num": 436024,
+      "word": "张歆艺被叫成张艺兴",
+      "onboard_time": 1689056073,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 434902,
@@ -1689,14 +1761,6 @@
       "onboard_time": 1688993734,
       "rank": 25,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 426833,
-      "num": 426833,
-      "word": "宝格丽",
-      "onboard_time": 1689053496,
-      "rank": 19,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 424200,
@@ -1801,6 +1865,14 @@
       "onboard_time": 1688999556,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408709,
+      "num": 408709,
+      "word": "王者荣耀",
+      "onboard_time": 1689052177,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 406740,
@@ -2163,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334347,
+      "num": 334347,
+      "word": "In Bloom",
+      "onboard_time": 1689055594,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 333102,
       "num": 333102,
       "word": "国航回应飞机颠簸",
@@ -2211,14 +2291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326668,
-      "num": 326668,
-      "word": "山航三年亏损110亿元",
-      "onboard_time": 1689053072,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 326367,
       "num": 326367,
       "word": "旅韩大熊猫福宝当姐姐啦",
@@ -2257,6 +2329,14 @@
       "onboard_time": 1689027796,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312874,
+      "num": 312874,
+      "word": "毛晓慧是新神雕侠侣的小龙女",
+      "onboard_time": 1689055053,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 312754,
@@ -2313,6 +2393,14 @@
       "onboard_time": 1688992472,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306359,
+      "num": 306359,
+      "word": "虞书欣粉色火烈鸟高跟鞋",
+      "onboard_time": 1689054274,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 305901,
@@ -2747,6 +2835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253757,
+      "num": 253757,
+      "word": "BABYMONSTER预计9月出道",
+      "onboard_time": 1689053674,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252957,
       "num": 260532,
       "word": "中国女足",
@@ -2771,20 +2867,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252260,
-      "num": 252260,
-      "word": "李靓蕾谈陈建州性骚扰事件",
-      "onboard_time": 1689053674,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251243,
       "num": 251243,
       "word": "永远年轻永远有人正在办公",
       "onboard_time": 1688956892,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 250914,
+      "num": 250914,
+      "word": "原来被蒙眼睛的是王楚然",
+      "onboard_time": 1689055234,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 250890,
@@ -2801,14 +2897,6 @@
       "onboard_time": 1689049898,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250089,
-      "num": 250089,
-      "word": "王者荣耀",
-      "onboard_time": 1689052177,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 247959,
@@ -3043,6 +3131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218790,
+      "num": 218790,
+      "word": "福宝知道自己当姐姐了吗",
+      "onboard_time": 1689056552,
+      "rank": 40,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "曾少年今日开播",
@@ -3099,6 +3195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216362,
+      "num": 216362,
+      "word": "三伏天晒背最佳时间表",
+      "onboard_time": 1689053912,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216286,
       "num": 216141,
       "word": "史彭元身材",
@@ -3153,14 +3257,6 @@
       "onboard_time": 1688951612,
       "rank": 35,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 208057,
-      "num": 208057,
-      "word": "BABYMONSTER预计9月出道",
-      "onboard_time": 1689053674,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 207978,

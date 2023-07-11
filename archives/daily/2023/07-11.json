@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689053707888,
+  "endTime": 1689056705657,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -9,6 +9,14 @@
       "onboard_time": 1689033630,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2832936,
+      "num": 2832936,
+      "word": "张若昀唐艺昕双人杂志",
+      "onboard_time": 1689053856,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2688567,
@@ -51,11 +59,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1870913,
+      "num": 654833,
+      "word": "李靓蕾谈陈建州性骚扰事件",
+      "onboard_time": 1689053674,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1589963,
       "num": 1589963,
       "word": "姜爷爷脸都笑烂了",
       "onboard_time": 1689050020,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1584524,
+      "num": 1584524,
+      "word": "三伏天为啥是减肥的好时候",
+      "onboard_time": 1689051037,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -73,6 +97,14 @@
       "onboard_time": 1689030863,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1454493,
+      "num": 1454493,
+      "word": "宝格丽",
+      "onboard_time": 1689053496,
+      "rank": 19,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1410075,
@@ -139,14 +171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1215128,
-      "num": 1215128,
-      "word": "三伏天为啥是减肥的好时候",
-      "onboard_time": 1689051037,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1190560,
       "num": 1190560,
       "word": "三伏天养生6大禁忌",
@@ -169,6 +193,14 @@
       "onboard_time": 1689049476,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1159528,
+      "num": 305131,
+      "word": "张若昀唐艺昕 性张力",
+      "onboard_time": 1689055714,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1087454,
@@ -315,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 660957,
+      "num": 660957,
+      "word": "山航三年亏损110亿元",
+      "onboard_time": 1689053072,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 639468,
       "num": 507402,
       "word": "陈立农留存离世粉丝遗物",
@@ -419,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 528138,
+      "num": 528138,
+      "word": "老人因病痛跳河轻生女儿岸边苦苦哀求",
+      "onboard_time": 1689054274,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527570,
       "num": 527570,
       "word": "大奉打更人",
@@ -457,6 +505,14 @@
       "onboard_time": 1689036634,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499737,
+      "num": 499737,
+      "word": "学区房是凶宅你会买吗",
+      "onboard_time": 1689055414,
+      "rank": 15,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 492543,
@@ -523,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449038,
+      "num": 449038,
+      "word": "宋轶用柳玉茹手机壳",
+      "onboard_time": 1689054995,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448642,
       "num": 448642,
       "word": "林孝埈中文接受采访",
@@ -547,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436024,
+      "num": 436024,
+      "word": "张歆艺被叫成张艺兴",
+      "onboard_time": 1689056073,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434003,
       "num": 381618,
       "word": "任敏玉骨遥专访",
@@ -569,14 +641,6 @@
       "onboard_time": 1689048702,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 426833,
-      "num": 426833,
-      "word": "宝格丽",
-      "onboard_time": 1689053496,
-      "rank": 19,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 422732,
@@ -617,6 +681,14 @@
       "onboard_time": 1689030322,
       "rank": 8,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 408709,
+      "num": 408709,
+      "word": "王者荣耀",
+      "onboard_time": 1689052177,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 406740,
@@ -771,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334347,
+      "num": 334347,
+      "word": "In Bloom",
+      "onboard_time": 1689055594,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 333102,
       "num": 333102,
       "word": "国航回应飞机颠簸",
@@ -785,14 +865,6 @@
       "onboard_time": 1689052298,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 326668,
-      "num": 326668,
-      "word": "山航三年亏损110亿元",
-      "onboard_time": 1689053072,
-      "rank": 31,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 326367,
@@ -811,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312874,
+      "num": 312874,
+      "word": "毛晓慧是新神雕侠侣的小龙女",
+      "onboard_time": 1689055053,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312754,
       "num": 312754,
       "word": "多位博主称被都美竹起诉侵犯肖像权",
@@ -825,6 +905,14 @@
       "onboard_time": 1689043113,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306359,
+      "num": 306359,
+      "word": "虞书欣粉色火烈鸟高跟鞋",
+      "onboard_time": 1689054274,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 305901,
@@ -979,12 +1067,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252260,
-      "num": 252260,
-      "word": "李靓蕾谈陈建州性骚扰事件",
+      "raw_hot": 253757,
+      "num": 253757,
+      "word": "BABYMONSTER预计9月出道",
       "onboard_time": 1689053674,
-      "rank": 43,
+      "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250914,
+      "num": 250914,
+      "word": "原来被蒙眼睛的是王楚然",
+      "onboard_time": 1689055234,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 250725,
@@ -993,14 +1089,6 @@
       "onboard_time": 1689049898,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250089,
-      "num": 250089,
-      "word": "王者荣耀",
-      "onboard_time": 1689052177,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 247959,
@@ -1083,12 +1171,28 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 218790,
+      "num": 218790,
+      "word": "福宝知道自己当姐姐了吗",
+      "onboard_time": 1689056552,
+      "rank": 40,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 216405,
       "num": 216405,
       "word": "关于橘猫的传闻是真的",
       "onboard_time": 1689041072,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216362,
+      "num": 216362,
+      "word": "三伏天晒背最佳时间表",
+      "onboard_time": 1689053912,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213843,
@@ -1113,14 +1217,6 @@
       "onboard_time": 1688993312,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208057,
-      "num": 208057,
-      "word": "BABYMONSTER预计9月出道",
-      "onboard_time": 1689053674,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 206426,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689053707888,
+  "endTime": 1689056705657,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -681,6 +681,14 @@
       "onboard_time": 1688551893,
       "rank": 25,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 2832936,
+      "num": 2832936,
+      "word": "张若昀唐艺昕双人杂志",
+      "onboard_time": 1689053856,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2807356,
@@ -1555,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1870913,
+      "num": 654833,
+      "word": "李靓蕾谈陈建州性骚扰事件",
+      "onboard_time": 1689053674,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1861781,
       "num": 935537,
       "word": "江西杀害3名小孩嫌疑人被抓获",
@@ -2115,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1584524,
+      "num": 1584524,
+      "word": "三伏天为啥是减肥的好时候",
+      "onboard_time": 1689051037,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1571453,
       "num": 1571453,
       "word": "在孙权墓前放中科大录取通知书",
@@ -2353,6 +2377,14 @@
       "onboard_time": 1688994153,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1454493,
+      "num": 1454493,
+      "word": "宝格丽",
+      "onboard_time": 1689053496,
+      "rank": 19,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1451655,
@@ -3043,14 +3075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1215128,
-      "num": 1215128,
-      "word": "三伏天为啥是减肥的好时候",
-      "onboard_time": 1689051037,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1211217,
       "num": 1211217,
       "word": "父亲称蹲守杀害女儿者非前任而是追求者",
@@ -3257,6 +3281,14 @@
       "onboard_time": 1688487449,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1159528,
+      "num": 305131,
+      "word": "张若昀唐艺昕 性张力",
+      "onboard_time": 1689055714,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1159263,
@@ -7283,6 +7315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660957,
+      "num": 660957,
+      "word": "山航三年亏损110亿元",
+      "onboard_time": 1689053072,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 660807,
       "num": 660807,
       "word": "当村门口路过一个年轻陌生人时",
@@ -9291,6 +9331,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 528138,
+      "num": 528138,
+      "word": "老人因病痛跳河轻生女儿岸边苦苦哀求",
+      "onboard_time": 1689054274,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527993,
       "num": 527993,
       "word": "YGSMTOWNHYBE进行现场调查",
@@ -9761,6 +9809,14 @@
       "onboard_time": 1688215589,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 499737,
+      "num": 499737,
+      "word": "学区房是凶宅你会买吗",
+      "onboard_time": 1689055414,
+      "rank": 15,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 499563,
@@ -10931,6 +10987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 449038,
+      "num": 449038,
+      "word": "宋轶用柳玉茹手机壳",
+      "onboard_time": 1689054995,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448877,
       "num": 448877,
       "word": "泰坦号失事前水下短信通信记录",
@@ -11331,6 +11395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436024,
+      "num": 436024,
+      "word": "张歆艺被叫成张艺兴",
+      "onboard_time": 1689056073,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435881,
       "num": 435881,
       "word": "中方回应越南因南海九段线禁映芭比",
@@ -11545,14 +11617,6 @@
       "onboard_time": 1688993734,
       "rank": 25,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 426833,
-      "num": 426833,
-      "word": "宝格丽",
-      "onboard_time": 1689053496,
-      "rank": 19,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 426722,
@@ -12009,6 +12073,14 @@
       "onboard_time": 1688640094,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 408709,
+      "num": 408709,
+      "word": "王者荣耀",
+      "onboard_time": 1688279192,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 408289,
@@ -14451,6 +14523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 334347,
+      "num": 334347,
+      "word": "In Bloom",
+      "onboard_time": 1689055594,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334119,
       "num": 334119,
       "word": "主人带狗新疆玩1个月连人带狗晒黑",
@@ -14771,14 +14851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 326668,
-      "num": 326668,
-      "word": "山航三年亏损110亿元",
-      "onboard_time": 1689053072,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 326625,
       "num": 326625,
       "word": "重庆果然是立体的",
@@ -15035,14 +15107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 319510,
-      "num": 319510,
-      "word": "王者荣耀",
-      "onboard_time": 1688279192,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 319308,
       "num": 319308,
       "word": "Angelababy王鹤棣传唱挖呀挖呀挖",
@@ -15257,6 +15321,14 @@
       "onboard_time": 1688559753,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312874,
+      "num": 312874,
+      "word": "毛晓慧是新神雕侠侣的小龙女",
+      "onboard_time": 1689055053,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 312857,
@@ -15537,6 +15609,14 @@
       "onboard_time": 1688222676,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306359,
+      "num": 306359,
+      "word": "虞书欣粉色火烈鸟高跟鞋",
+      "onboard_time": 1689054274,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 306260,
@@ -18147,6 +18227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253757,
+      "num": 253757,
+      "word": "BABYMONSTER预计9月出道",
+      "onboard_time": 1689053674,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253626,
       "num": 253626,
       "word": "人和人的核心区别就是主动",
@@ -18307,14 +18395,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252260,
-      "num": 252260,
-      "word": "李靓蕾谈陈建州性骚扰事件",
-      "onboard_time": 1689053674,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252070,
       "num": 252070,
       "word": "女子叫来特警弟弟合力救下坠河男孩",
@@ -18393,6 +18473,14 @@
       "onboard_time": 1688692355,
       "rank": 30,
       "category": "情感,音乐"
+    },
+    {
+      "raw_hot": 250914,
+      "num": 250914,
+      "word": "原来被蒙眼睛的是王楚然",
+      "onboard_time": 1689055234,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 250890,
@@ -20347,6 +20435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218790,
+      "num": 218790,
+      "word": "福宝知道自己当姐姐了吗",
+      "onboard_time": 1689056552,
+      "rank": 40,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 218742,
       "num": 218742,
       "word": "美财政部部长抵达北京",
@@ -20521,6 +20617,14 @@
       "onboard_time": 1689041072,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216362,
+      "num": 216362,
+      "word": "三伏天晒背最佳时间表",
+      "onboard_time": 1689053912,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216337,
@@ -21105,14 +21209,6 @@
       "onboard_time": 1688951612,
       "rank": 35,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 208057,
-      "num": 208057,
-      "word": "BABYMONSTER预计9月出道",
-      "onboard_time": 1689053674,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 208047,

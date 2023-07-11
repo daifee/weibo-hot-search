@@ -1,0 +1,410 @@
+{
+  "runTime": 1689056705657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2832936,
+        "num": 2832936,
+        "word": "张若昀唐艺昕双人杂志",
+        "onboard_time": 1689053856,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1584524,
+        "num": 1584524,
+        "word": "三伏天为啥是减肥的好时候",
+        "onboard_time": 1689051037,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81159,
+        "num": 1516051,
+        "word": "年过80的她这件事干了60年",
+        "onboard_time": 1689042514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1454493,
+        "num": 1454493,
+        "word": "宝格丽",
+        "onboard_time": 1689053496,
+        "rank": 3,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 1066033,
+        "num": 1066033,
+        "word": "优衣库门店回应大学生发文吐槽",
+        "onboard_time": 1689044858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009120,
+        "num": 1009120,
+        "word": "姜爷爷脸都笑烂了",
+        "onboard_time": 1689050020,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858185,
+        "num": 858185,
+        "word": "姜爷爷宋爷爷不用抢了",
+        "onboard_time": 1689039755,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660957,
+        "num": 660957,
+        "word": "山航三年亏损110亿元",
+        "onboard_time": 1689053072,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 655775,
+        "num": 655775,
+        "word": "她的骨灰装进了周恩来用过的骨灰盒里",
+        "onboard_time": 1689037894,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654923,
+        "num": 654923,
+        "word": "北京一外卖骑手违法超车致人死亡",
+        "onboard_time": 1689049476,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1870913,
+        "num": 654833,
+        "word": "李靓蕾谈陈建州性骚扰事件",
+        "onboard_time": 1689053674,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650206,
+        "num": 650206,
+        "word": "EDG起诉Scout",
+        "onboard_time": 1689049062,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 628525,
+        "num": 628525,
+        "word": "孟宴臣许沁 好可怕又美味的30S",
+        "onboard_time": 1689050318,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554734,
+        "num": 554734,
+        "word": "秋瓷炫于晓光同床异梦2预告",
+        "onboard_time": 1689047434,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528138,
+        "num": 528138,
+        "word": "老人因病痛跳河轻生女儿岸边苦苦哀求",
+        "onboard_time": 1689054274,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499737,
+        "num": 499737,
+        "word": "学区房是凶宅你会买吗",
+        "onboard_time": 1689055414,
+        "rank": 15,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 480004,
+        "num": 480004,
+        "word": "魏大勋只是特别出演",
+        "onboard_time": 1689041432,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449575,
+        "num": 449575,
+        "word": "桑延是段嘉许最开始的救赎",
+        "onboard_time": 1689050981,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449038,
+        "num": 449038,
+        "word": "宋轶用柳玉茹手机壳",
+        "onboard_time": 1689054995,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437969,
+        "num": 437969,
+        "word": "老板劝顾客别买了实在夸不下去了",
+        "onboard_time": 1689045333,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436024,
+        "num": 436024,
+        "word": "张歆艺被叫成张艺兴",
+        "onboard_time": 1689056073,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408709,
+        "num": 408709,
+        "word": "王者荣耀",
+        "onboard_time": 1689052177,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 408330,
+        "num": 408330,
+        "word": "28岁女子被高空抛下砖头砸中离世",
+        "onboard_time": 1689041494,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382041,
+        "num": 382041,
+        "word": "陈立农留存离世粉丝遗物",
+        "onboard_time": 1689050618,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354845,
+        "num": 354845,
+        "word": "妻子怀孕让中医老公把脉",
+        "onboard_time": 1689043714,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 337852,
+        "num": 337852,
+        "word": "周笔畅悼念李玟头七",
+        "onboard_time": 1689045815,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334347,
+        "num": 334347,
+        "word": "In Bloom",
+        "onboard_time": 1689055594,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324252,
+        "num": 324252,
+        "word": "农民宰杀家养猪分售700元被罚款5万",
+        "onboard_time": 1689051159,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312874,
+        "num": 312874,
+        "word": "毛晓慧是新神雕侠侣的小龙女",
+        "onboard_time": 1689055053,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306359,
+        "num": 306359,
+        "word": "虞书欣粉色火烈鸟高跟鞋",
+        "onboard_time": 1689054274,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1159528,
+        "num": 305131,
+        "word": "张若昀唐艺昕 性张力",
+        "onboard_time": 1689055714,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300272,
+        "num": 300272,
+        "word": "大奉打更人",
+        "onboard_time": 1689050803,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289703,
+        "num": 289703,
+        "word": "韩国福宝爷爷说太开心了",
+        "onboard_time": 1689052654,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280474,
+        "num": 280474,
+        "word": "三大平台接档剧",
+        "onboard_time": 1689048821,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262603,
+        "num": 262603,
+        "word": "爱宝诞下双胞胎",
+        "onboard_time": 1689033630,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253757,
+        "num": 253757,
+        "word": "BABYMONSTER预计9月出道",
+        "onboard_time": 1689053674,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250914,
+        "num": 250914,
+        "word": "原来被蒙眼睛的是王楚然",
+        "onboard_time": 1689055234,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241151,
+        "num": 241151,
+        "word": "猴痘病例为何突然增多",
+        "onboard_time": 1689044494,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229541,
+        "num": 229541,
+        "word": "芈月宝格丽皮肤CG",
+        "onboard_time": 1689049419,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228964,
+        "num": 228964,
+        "word": "人设比颜值更重要吗",
+        "onboard_time": 1689053255,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218790,
+        "num": 218790,
+        "word": "福宝知道自己当姐姐了吗",
+        "onboard_time": 1689056552,
+        "rank": 40,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 218441,
+        "num": 218441,
+        "word": "大学生优衣库兼职薪资一小时16元",
+        "onboard_time": 1689046054,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216362,
+        "num": 216362,
+        "word": "三伏天晒背最佳时间表",
+        "onboard_time": 1689053912,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210965,
+        "num": 210965,
+        "word": "狂飙里的蒋天演刘小北爸爸",
+        "onboard_time": 1689042514,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210604,
+        "num": 210604,
+        "word": "林孝埈中文接受采访",
+        "onboard_time": 1689050499,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208778,
+        "num": 208778,
+        "word": "浪姐4邀请过谭松韵",
+        "onboard_time": 1689048453,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208070,
+        "num": 208070,
+        "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
+        "onboard_time": 1689044136,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201834,
+        "num": 201834,
+        "word": "助理回应黄子佼近况",
+        "onboard_time": 1689052356,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198998,
+        "num": 198998,
+        "word": "这是西游记哪一集",
+        "onboard_time": 1689045755,
+        "rank": 48,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 198348,
+        "num": 198348,
+        "word": "TFBOYS十周年三人合体舞台多吗",
+        "onboard_time": 1689042995,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#盛世中华何以中国#"
+    }
+  }
+}
