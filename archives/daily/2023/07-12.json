@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689100690224,
+  "endTime": 1689102913767,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -449,6 +449,14 @@
       "onboard_time": 1689100514,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29104,
+      "num": 29104,
+      "word": "在数模上打破了性别的壁垒",
+      "onboard_time": 1689101775,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26637,
