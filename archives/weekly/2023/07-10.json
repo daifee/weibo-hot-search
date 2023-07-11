@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689052696619,
+  "endTime": 1689053707888,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1215128,
+      "num": 1215128,
+      "word": "三伏天为啥是减肥的好时候",
+      "onboard_time": 1689051037,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211217,
       "num": 1211217,
       "word": "父亲称蹲守杀害女儿者非前任而是追求者",
@@ -417,6 +425,14 @@
       "onboard_time": 1689035797,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1164405,
+      "num": 1164405,
+      "word": "北京一外卖骑手违法超车致人死亡",
+      "onboard_time": 1689049476,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1157870,
@@ -472,14 +488,6 @@
       "word": "老板劝顾客别买了实在夸不下去了",
       "onboard_time": 1689045333,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1035744,
-      "num": 1035744,
-      "word": "北京一外卖骑手违法超车致人死亡",
-      "onboard_time": 1689049476,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -603,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 947817,
+      "num": 947817,
+      "word": "孟宴臣许沁 好可怕又美味的30S",
+      "onboard_time": 1689050318,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 942568,
       "num": 942568,
       "word": "海南警方回应陪女友看演唱会男孩溺亡",
@@ -657,14 +673,6 @@
       "onboard_time": 1688905529,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 890758,
-      "num": 890758,
-      "word": "孟宴臣许沁 好可怕又美味的30S",
-      "onboard_time": 1689050318,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 888659,
@@ -915,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 709610,
-      "num": 709610,
-      "word": "三伏天为啥是减肥的好时候",
-      "onboard_time": 1689051037,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 704676,
       "num": 704676,
       "word": "李玟",
@@ -1035,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639468,
+      "num": 507402,
+      "word": "陈立农留存离世粉丝遗物",
+      "onboard_time": 1689050618,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639389,
       "num": 639389,
       "word": "国乒公布杭州亚运会名单",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1688916453,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 628766,
-      "num": 507402,
-      "word": "陈立农留存离世粉丝遗物",
-      "onboard_time": 1689050618,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 619843,
@@ -1323,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 508234,
+      "num": 508234,
+      "word": "桑延是段嘉许最开始的救赎",
+      "onboard_time": 1689050981,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 502512,
       "num": 502512,
       "word": "猴痘",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1688994694,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 473359,
+      "num": 334975,
+      "word": "韩国福宝爷爷说太开心了",
+      "onboard_time": 1689052654,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472877,
@@ -1619,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 433792,
-      "num": 433792,
-      "word": "桑延是段嘉许最开始的救赎",
-      "onboard_time": 1689050981,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 433239,
       "num": 433239,
       "word": "小学生开始去胖东来抢座位了",
@@ -1681,6 +1689,14 @@
       "onboard_time": 1688993734,
       "rank": 25,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 426833,
+      "num": 426833,
+      "word": "宝格丽",
+      "onboard_time": 1689053496,
+      "rank": 19,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 424200,
@@ -2195,6 +2211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326668,
+      "num": 326668,
+      "word": "山航三年亏损110亿元",
+      "onboard_time": 1689053072,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 326367,
       "num": 326367,
       "word": "旅韩大熊猫福宝当姐姐啦",
@@ -2289,6 +2313,14 @@
       "onboard_time": 1688992472,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305901,
+      "num": 305901,
+      "word": "助理回应黄子佼近况",
+      "onboard_time": 1689052356,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 305396,
@@ -2467,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283256,
+      "num": 283256,
+      "word": "人设比颜值更重要吗",
+      "onboard_time": 1689053255,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281468,
       "num": 281468,
       "word": "一个不会离职的办公桌长啥样",
@@ -2560,14 +2600,6 @@
       "word": "姐姐辟谣费玉清病危传闻",
       "onboard_time": 1689044254,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 269581,
-      "num": 269581,
-      "word": "助理回应黄子佼近况",
-      "onboard_time": 1689052356,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -2739,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252260,
+      "num": 252260,
+      "word": "李靓蕾谈陈建州性骚扰事件",
+      "onboard_time": 1689053674,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251243,
       "num": 251243,
       "word": "永远年轻永远有人正在办公",
@@ -2761,6 +2801,14 @@
       "onboard_time": 1689049898,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250089,
+      "num": 250089,
+      "word": "王者荣耀",
+      "onboard_time": 1689052177,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 247959,
@@ -2793,14 +2841,6 @@
       "onboard_time": 1689049961,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246268,
-      "num": 246268,
-      "word": "韩国福宝爷爷说太开心了",
-      "onboard_time": 1689052654,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245993,
@@ -3113,6 +3153,14 @@
       "onboard_time": 1688951612,
       "rank": 35,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 208057,
+      "num": 208057,
+      "word": "BABYMONSTER预计9月出道",
+      "onboard_time": 1689053674,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 207978,
