@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689095812000,
+  "endTime": 1689096884438,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -83,20 +83,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577860,
+      "num": 577860,
+      "word": "如果微信显示已读的话",
+      "onboard_time": 1689084101,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 532375,
       "num": 532375,
       "word": "唐艺昕错位礼服",
       "onboard_time": 1689086676,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 512004,
-      "num": 497331,
-      "word": "如果微信显示已读的话",
-      "onboard_time": 1689084101,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 507291,
