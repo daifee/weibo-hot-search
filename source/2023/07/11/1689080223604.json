@@ -1,0 +1,410 @@
+{
+  "runTime": 1689080223604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7383541,
+        "num": 7383541,
+        "word": "宝格丽致歉",
+        "onboard_time": 1689076054,
+        "rank": 0,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 1679568,
+        "num": 1679568,
+        "word": "警方通报无锡3岁女童事件调查结果",
+        "onboard_time": 1689073897,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32911,
+        "num": 1331218,
+        "word": "今天是第19个中国航海日",
+        "onboard_time": 1689067776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086941,
+        "num": 1086941,
+        "word": "易梦玲要开始演戏了",
+        "onboard_time": 1689079175,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1057329,
+        "num": 1057329,
+        "word": "宝格丽官网疑将台湾列为国家",
+        "onboard_time": 1689068255,
+        "rank": 4,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 1050183,
+        "num": 1050183,
+        "word": "曾黎晒桑家全家福",
+        "onboard_time": 1689075995,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 979751,
+        "num": 979751,
+        "word": "当同事是我前男友的现任时",
+        "onboard_time": 1689076114,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 811872,
+        "num": 811872,
+        "word": "白敬亭宋轶魏大勋梦幻联动",
+        "onboard_time": 1689078156,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 645175,
+        "num": 645175,
+        "word": "张若昀唐艺昕 性张力",
+        "onboard_time": 1689055714,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 631967,
+        "num": 631967,
+        "word": "肖战下次不许穿黑色短裤",
+        "onboard_time": 1689068977,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 900965,
+        "num": 607904,
+        "word": "关晓彤七年换来一句嫂子",
+        "onboard_time": 1689058230,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 831944,
+        "num": 603300,
+        "word": "一只虾暴露了广东的温度",
+        "onboard_time": 1689078816,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579815,
+        "num": 579815,
+        "word": "地铁的空气有多脏",
+        "onboard_time": 1689071437,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 493717,
+        "num": 493717,
+        "word": "网友总结杨洋的演技",
+        "onboard_time": 1689074854,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466737,
+        "num": 466737,
+        "word": "安乐传",
+        "onboard_time": 1689075214,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421675,
+        "num": 421675,
+        "word": "青旅回应不接待35岁以上人群",
+        "onboard_time": 1689074015,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 408585,
+        "num": 408585,
+        "word": "LPL比赛延期",
+        "onboard_time": 1689073598,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329863,
+        "num": 329863,
+        "word": "魏大勋演出了乌木沉香",
+        "onboard_time": 1689064115,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307208,
+        "num": 307208,
+        "word": "福宝和两个妹妹都是巨蟹座",
+        "onboard_time": 1689076295,
+        "rank": 18,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 299462,
+        "num": 299462,
+        "word": "导演看一下姜之南",
+        "onboard_time": 1689075574,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1169900,
+        "num": 298617,
+        "word": "为什么中国不禁止人名重复",
+        "onboard_time": 1689068132,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 553829,
+        "num": 297175,
+        "word": "本以为殉情只是古老的传言",
+        "onboard_time": 1689066755,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409411,
+        "num": 296075,
+        "word": "天蝎座的感情真的离不开陪伴",
+        "onboard_time": 1689077313,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 330115,
+        "num": 294670,
+        "word": "李沁的发量",
+        "onboard_time": 1689078156,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293582,
+        "num": 293582,
+        "word": "重庆虐猫大学生已做精神鉴定",
+        "onboard_time": 1689079413,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268333,
+        "num": 268333,
+        "word": "这才是导师想看的开题报告",
+        "onboard_time": 1689074616,
+        "rank": 25,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 262415,
+        "num": 262415,
+        "word": "爸爸带16岁女儿做医美改善眼睑下垂",
+        "onboard_time": 1689073833,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260465,
+        "num": 260465,
+        "word": "段嘉许和桑稚的22岁",
+        "onboard_time": 1689074794,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258637,
+        "num": 258637,
+        "word": "孟宴臣根本不这样说话",
+        "onboard_time": 1689066695,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247089,
+        "num": 247089,
+        "word": "BLACKPINK创KPOP女团新纪录",
+        "onboard_time": 1689076832,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247007,
+        "num": 247007,
+        "word": "八角笼中票房破10亿",
+        "onboard_time": 1689078756,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240249,
+        "num": 240249,
+        "word": "中国一点都不能少",
+        "onboard_time": 1689079895,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 239683,
+        "num": 239683,
+        "word": "因为公司冰箱太满同事买了个小的",
+        "onboard_time": 1689070119,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238926,
+        "num": 238926,
+        "word": "宝格丽客服回应",
+        "onboard_time": 1689069940,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237369,
+        "num": 237369,
+        "word": "金珉奎泳池照",
+        "onboard_time": 1689076114,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 232242,
+        "num": 232242,
+        "word": "杭州超过40℃全天免费停车",
+        "onboard_time": 1689069035,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222143,
+        "num": 222143,
+        "word": "吴昕录湖南卫视新综艺",
+        "onboard_time": 1689065673,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220748,
+        "num": 220748,
+        "word": "那是62岁费翔的手",
+        "onboard_time": 1689069218,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214959,
+        "num": 214959,
+        "word": "大树被刮倒后换了棵小树",
+        "onboard_time": 1689076893,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207956,
+        "num": 207956,
+        "word": "天价寻狗系自媒体杜撰",
+        "onboard_time": 1689076357,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206906,
+        "num": 206906,
+        "word": "工作一会儿就不自觉拿起手机",
+        "onboard_time": 1689079473,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199804,
+        "num": 199804,
+        "word": "宝格丽称因管理疏忽致标识误注",
+        "onboard_time": 1689078454,
+        "rank": 41,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 186385,
+        "num": 186385,
+        "word": "范丞丞一个人的韩剧",
+        "onboard_time": 1689065737,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184307,
+        "num": 184307,
+        "word": "申花",
+        "onboard_time": 1689079295,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177473,
+        "num": 177473,
+        "word": "孙女看到爷爷瘦成皮包骨心疼哽咽",
+        "onboard_time": 1689075873,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168559,
+        "num": 168559,
+        "word": "EXO歌曲串烧",
+        "onboard_time": 1689077195,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167315,
+        "num": 167315,
+        "word": "肖战新剧妆造",
+        "onboard_time": 1689065496,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164283,
+        "num": 164283,
+        "word": "黄子韬带旗下艺人团建",
+        "onboard_time": 1689065014,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157277,
+        "num": 157277,
+        "word": "IU接受冰桶挑战",
+        "onboard_time": 1689066516,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153950,
+        "num": 153950,
+        "word": "关晓彤这真的是你吗",
+        "onboard_time": 1689061833,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#星辰大海里的中国名字#"
+    }
+  }
+}
