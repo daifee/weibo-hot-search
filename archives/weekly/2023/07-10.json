@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689067141368,
+  "endTime": 1689068076678,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1796316,
+      "num": 1796316,
+      "word": "吴昕录湖南卫视新综艺",
+      "onboard_time": 1689065673,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1740683,
       "num": 1740683,
       "word": "杨洋大大方方营业",
@@ -443,14 +451,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 1239102,
-      "num": 1239102,
-      "word": "吴昕录湖南卫视新综艺",
-      "onboard_time": 1689065673,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1225245,
       "num": 1225245,
       "word": "曾少年女大学生吃菌子出幻觉",
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1076478,
+      "num": 1076478,
+      "word": "宝格丽现有代言人",
+      "onboard_time": 1689067897,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1055322,
       "num": 1055322,
       "word": "娜扎cos芈月",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 999681,
-      "num": 681931,
+      "num": 702958,
       "word": "娱乐圈的真夫妻",
       "onboard_time": 1689059432,
       "rank": 30,
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 937698,
-      "num": 738679,
+      "num": 820649,
       "word": "肖战新剧妆造",
       "onboard_time": 1689065496,
       "rank": 11,
@@ -921,6 +929,14 @@
       "onboard_time": 1688996555,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 796315,
+      "num": 321375,
+      "word": "本以为殉情只是古老的传言",
+      "onboard_time": 1689066755,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 783437,
@@ -1243,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611806,
+      "num": 528860,
+      "word": "IU接受冰桶挑战",
+      "onboard_time": 1689066516,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 598722,
       "num": 357200,
       "word": "冉莹颖让两个儿子独自出国",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1688985993,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 569205,
+      "num": 528607,
+      "word": "李木戈回应PPT转场",
+      "onboard_time": 1689065795,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 566723,
@@ -1675,12 +1707,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 469878,
+      "num": 469878,
+      "word": "芈月宝格丽皮肤CG",
+      "onboard_time": 1689049419,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 469035,
       "num": 469035,
       "word": "李硕珉脸链",
       "onboard_time": 1688987911,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 467734,
+      "num": 467734,
+      "word": "去拉萨第一天到第二天就回去了",
+      "onboard_time": 1689065856,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 467554,
@@ -1827,20 +1875,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 440507,
+      "num": 440507,
+      "word": "范丞丞一个人的韩剧",
+      "onboard_time": 1689065737,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439918,
       "num": 361794,
       "word": "朋友给去世老人烧护照",
       "onboard_time": 1688960428,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438688,
-      "num": 438688,
-      "word": "芈月宝格丽皮肤CG",
-      "onboard_time": 1689049419,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 436577,
@@ -2027,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414943,
+      "num": 414943,
+      "word": "我这种女生大概快绝版了吧",
+      "onboard_time": 1689066273,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 413359,
       "num": 413359,
       "word": "入伏",
@@ -2051,14 +2107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 405825,
-      "num": 405825,
-      "word": "李木戈回应PPT转场",
-      "onboard_time": 1689065795,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 404930,
       "num": 404930,
       "word": "白敬亭这次不心疼他的鞋了",
@@ -2072,14 +2120,6 @@
       "word": "国产剧能不能边拍边播",
       "onboard_time": 1688912014,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 400864,
-      "num": 400864,
-      "word": "范丞丞一个人的韩剧",
-      "onboard_time": 1689065737,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -2107,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394268,
+      "num": 394268,
+      "word": "黄子韬带旗下艺人团建",
+      "onboard_time": 1689065014,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392835,
       "num": 392835,
       "word": "无骨鸡爪就是我的底线",
@@ -2121,6 +2169,14 @@
       "onboard_time": 1689036517,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389471,
+      "num": 389471,
+      "word": "迪丽热巴龚俊安乐传情头",
+      "onboard_time": 1689065737,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 386769,
@@ -2153,14 +2209,6 @@
       "onboard_time": 1689049182,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 381745,
-      "num": 286580,
-      "word": "IU接受冰桶挑战",
-      "onboard_time": 1689066516,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 381473,
@@ -2227,12 +2275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376890,
-      "num": 376890,
-      "word": "黄子韬带旗下艺人团建",
-      "onboard_time": 1689065014,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 377739,
+      "num": 377739,
+      "word": "警方回应网传拆浮桥后十余人溺亡",
+      "onboard_time": 1689066454,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375708,
@@ -2275,14 +2323,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 366307,
-      "num": 286339,
-      "word": "去拉萨第一天到第二天就回去了",
-      "onboard_time": 1689065856,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 366035,
       "num": 366035,
       "word": "LPL季后赛落地西安",
@@ -2307,14 +2347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362779,
-      "num": 329826,
-      "word": "迪丽热巴龚俊安乐传情头",
-      "onboard_time": 1689065737,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 362211,
       "num": 362211,
       "word": "长安三万里",
@@ -2329,6 +2361,14 @@
       "onboard_time": 1689048517,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 360378,
+      "num": 315241,
+      "word": "女团成员听到划水的反应",
+      "onboard_time": 1689067834,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 360136,
@@ -2523,12 +2563,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 328064,
-      "num": 285631,
-      "word": "本以为殉情只是古老的传言",
-      "onboard_time": 1689066755,
+      "raw_hot": 327570,
+      "num": 310452,
+      "word": "福宝只是个不到三岁的宝宝啊",
+      "onboard_time": 1689067174,
       "rank": 32,
-      "category": "情感"
+      "category": "幽默"
     },
     {
       "raw_hot": 326778,
@@ -2553,6 +2593,14 @@
       "onboard_time": 1688941275,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 321898,
+      "num": 321898,
+      "word": "孟宴臣根本不这样说话",
+      "onboard_time": 1689066695,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 318977,
@@ -2723,14 +2771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298966,
-      "num": 298966,
-      "word": "我这种女生大概快绝版了吧",
-      "onboard_time": 1689066273,
-      "rank": 28,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 297953,
       "num": 281696,
       "word": "导游带团2小时步行1.5公里后中暑身亡",
@@ -2875,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284850,
+      "num": 284850,
+      "word": "宝格丽谁会第一个解约",
+      "onboard_time": 1689067655,
+      "rank": 34,
+      "category": "社会议题,艺人"
+    },
+    {
       "raw_hot": 284192,
       "num": 284192,
       "word": "不设限毕业礼共唱歌单",
@@ -3017,14 +3065,6 @@
       "onboard_time": 1688958329,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 265862,
-      "num": 265862,
-      "word": "孟宴臣根本不这样说话",
-      "onboard_time": 1689066695,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 265783,
@@ -3187,14 +3227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252206,
-      "num": 252206,
-      "word": "警方回应网传拆浮桥后十余人溺亡",
-      "onboard_time": 1689066454,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251243,
       "num": 251243,
       "word": "永远年轻永远有人正在办公",
@@ -3291,12 +3323,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 243212,
+      "num": 243212,
+      "word": "领导根本不懂什么叫请假",
+      "onboard_time": 1689067295,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242217,
       "num": 242217,
       "word": "暗夜与黎明首批阵容官宣",
       "onboard_time": 1688960191,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242184,
+      "num": 242184,
+      "word": "互关文学1.0",
+      "onboard_time": 1689063697,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 241692,
@@ -3321,14 +3369,6 @@
       "onboard_time": 1689034172,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239755,
-      "num": 239755,
-      "word": "互关文学1.0",
-      "onboard_time": 1689063697,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 235186,
@@ -3361,6 +3401,14 @@
       "onboard_time": 1688993851,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233773,
+      "num": 233773,
+      "word": "你们结婚的话会迁户口吗",
+      "onboard_time": 1689067535,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 231181,
@@ -3449,6 +3497,14 @@
       "onboard_time": 1689004829,
       "rank": 30,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 222967,
+      "num": 222967,
+      "word": "黑豹突袭熟睡的狮子",
+      "onboard_time": 1689066755,
+      "rank": 44,
+      "category": "自然"
     },
     {
       "raw_hot": 222904,
@@ -3593,14 +3649,6 @@
       "onboard_time": 1689039693,
       "rank": 45,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 209960,
-      "num": 209960,
-      "word": "黑豹突袭熟睡的狮子",
-      "onboard_time": 1689066755,
-      "rank": 44,
-      "category": "自然"
     },
     {
       "raw_hot": 209649,
@@ -4369,6 +4417,14 @@
       "onboard_time": 1688964459,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57334,
+      "num": 1308523,
+      "word": "今天是第19个中国航海日",
+      "onboard_time": 1689067776,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49865,

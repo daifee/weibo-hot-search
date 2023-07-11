@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689067141368,
+  "endTime": 1689068076678,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1796316,
+      "num": 1796316,
+      "word": "吴昕录湖南卫视新综艺",
+      "onboard_time": 1689065673,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1589963,
       "num": 1589963,
       "word": "姜爷爷脸都笑烂了",
@@ -187,14 +195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1239102,
-      "num": 1239102,
-      "word": "吴昕录湖南卫视新综艺",
-      "onboard_time": 1689065673,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1224819,
       "num": 1224819,
       "word": "CA1524 颠簸",
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1076478,
+      "num": 1076478,
+      "word": "宝格丽现有代言人",
+      "onboard_time": 1689067897,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1055114,
       "num": 1055114,
       "word": "老板劝顾客别买了实在夸不下去了",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 999681,
-      "num": 681931,
+      "num": 702958,
       "word": "娱乐圈的真夫妻",
       "onboard_time": 1689059432,
       "rank": 30,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 937698,
-      "num": 738679,
+      "num": 820649,
       "word": "肖战新剧妆造",
       "onboard_time": 1689065496,
       "rank": 11,
@@ -377,6 +385,14 @@
       "onboard_time": 1689037417,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 796315,
+      "num": 321375,
+      "word": "本以为殉情只是古老的传言",
+      "onboard_time": 1689066755,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 782845,
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611806,
+      "num": 528860,
+      "word": "IU接受冰桶挑战",
+      "onboard_time": 1689066516,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604803,
       "num": 604803,
       "word": "警方回应网传男子性侵15岁少女被当众鞭打",
@@ -521,6 +545,14 @@
       "onboard_time": 1689045755,
       "rank": 47,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 569205,
+      "num": 528607,
+      "word": "李木戈回应PPT转场",
+      "onboard_time": 1689065795,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 565296,
@@ -691,6 +723,22 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 469878,
+      "num": 469878,
+      "word": "芈月宝格丽皮肤CG",
+      "onboard_time": 1689049419,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 467734,
+      "num": 467734,
+      "word": "去拉萨第一天到第二天就回去了",
+      "onboard_time": 1689065856,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 467554,
       "num": 467554,
       "word": "自闭症儿子无学上妈妈辞职办学校",
@@ -779,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438688,
-      "num": 438688,
-      "word": "芈月宝格丽皮肤CG",
-      "onboard_time": 1689049419,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 440507,
+      "num": 440507,
+      "word": "范丞丞一个人的韩剧",
+      "onboard_time": 1689065737,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 434003,
@@ -851,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414943,
+      "num": 414943,
+      "word": "我这种女生大概快绝版了吧",
+      "onboard_time": 1689066273,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 413359,
       "num": 413359,
       "word": "入伏",
@@ -867,28 +923,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 405825,
-      "num": 405825,
-      "word": "李木戈回应PPT转场",
-      "onboard_time": 1689065795,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 400864,
-      "num": 400864,
-      "word": "范丞丞一个人的韩剧",
-      "onboard_time": 1689065737,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 396709,
       "num": 396709,
       "word": "女孩高考超一本线35分却报专科",
       "onboard_time": 1688990072,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 394268,
+      "num": 394268,
+      "word": "黄子韬带旗下艺人团建",
+      "onboard_time": 1689065014,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 392835,
@@ -905,6 +953,14 @@
       "onboard_time": 1689036517,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389471,
+      "num": 389471,
+      "word": "迪丽热巴龚俊安乐传情头",
+      "onboard_time": 1689065737,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 384894,
@@ -939,14 +995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 381745,
-      "num": 286580,
-      "word": "IU接受冰桶挑战",
-      "onboard_time": 1689066516,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 379529,
       "num": 379529,
       "word": "迪丽热巴大开口破洞裤",
@@ -963,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376890,
-      "num": 376890,
-      "word": "黄子韬带旗下艺人团建",
-      "onboard_time": 1689065014,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 377739,
+      "num": 377739,
+      "word": "警方回应网传拆浮桥后十余人溺亡",
+      "onboard_time": 1689066454,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370895,
@@ -979,27 +1027,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366307,
-      "num": 286339,
-      "word": "去拉萨第一天到第二天就回去了",
-      "onboard_time": 1689065856,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 363085,
       "num": 363085,
       "word": "关晓彤范丞丞新剧吻戏",
       "onboard_time": 1688997214,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 362779,
-      "num": 329826,
-      "word": "迪丽热巴龚俊安乐传情头",
-      "onboard_time": 1689065737,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -1017,6 +1049,14 @@
       "onboard_time": 1689048517,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 360378,
+      "num": 315241,
+      "word": "女团成员听到划水的反应",
+      "onboard_time": 1689067834,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 360136,
@@ -1107,12 +1147,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 328064,
-      "num": 285631,
-      "word": "本以为殉情只是古老的传言",
-      "onboard_time": 1689066755,
+      "raw_hot": 327570,
+      "num": 310452,
+      "word": "福宝只是个不到三岁的宝宝啊",
+      "onboard_time": 1689067174,
       "rank": 32,
-      "category": "情感"
+      "category": "幽默"
     },
     {
       "raw_hot": 326367,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1689034833,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321898,
+      "num": 321898,
+      "word": "孟宴臣根本不这样说话",
+      "onboard_time": 1689066695,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 318977,
@@ -1219,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298966,
-      "num": 298966,
-      "word": "我这种女生大概快绝版了吧",
-      "onboard_time": 1689066273,
-      "rank": 28,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 297377,
       "num": 297377,
       "word": "林宥嘉 抢票",
@@ -1299,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284850,
+      "num": 284850,
+      "word": "宝格丽谁会第一个解约",
+      "onboard_time": 1689067655,
+      "rank": 34,
+      "category": "社会议题,艺人"
+    },
+    {
       "raw_hot": 283256,
       "num": 283256,
       "word": "人设比颜值更重要吗",
@@ -1347,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265862,
-      "num": 265862,
-      "word": "孟宴臣根本不这样说话",
-      "onboard_time": 1689066695,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263100,
       "num": 263100,
       "word": "段嘉许颁奖礼公开示爱桑稚",
@@ -1393,14 +1433,6 @@
       "onboard_time": 1689053674,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252206,
-      "num": 252206,
-      "word": "警方回应网传拆浮桥后十余人溺亡",
-      "onboard_time": 1689066454,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250914,
@@ -1467,6 +1499,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 243212,
+      "num": 243212,
+      "word": "领导根本不懂什么叫请假",
+      "onboard_time": 1689067295,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 242184,
+      "num": 242184,
+      "word": "互关文学1.0",
+      "onboard_time": 1689063697,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 241692,
       "num": 182189,
       "word": "中3250万英镑的英国夫妻分手各结新欢",
@@ -1483,14 +1531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239755,
-      "num": 239755,
-      "word": "互关文学1.0",
-      "onboard_time": 1689063697,
-      "rank": 49,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 235186,
       "num": 235186,
       "word": "如何看待村书记称浮桥搭建者说假话",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1689045515,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233773,
+      "num": 233773,
+      "word": "你们结婚的话会迁户口吗",
+      "onboard_time": 1689067535,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 231181,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1689004829,
       "rank": 30,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 222967,
+      "num": 222967,
+      "word": "黑豹突袭熟睡的狮子",
+      "onboard_time": 1689066755,
+      "rank": 44,
+      "category": "自然"
     },
     {
       "raw_hot": 216405,
@@ -1577,14 +1633,6 @@
       "onboard_time": 1688993312,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209960,
-      "num": 209960,
-      "word": "黑豹突袭熟睡的狮子",
-      "onboard_time": 1689066755,
-      "rank": 44,
-      "category": "自然"
     },
     {
       "raw_hot": 206426,
@@ -1953,6 +2001,14 @@
       "onboard_time": 1688985513,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57334,
+      "num": 1308523,
+      "word": "今天是第19个中国航海日",
+      "onboard_time": 1689067776,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54324,
