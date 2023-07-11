@@ -1,12 +1,20 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689075250945,
+  "endTime": 1689079183092,
   "band_list": [
     {
       "raw_hot": 9828472,
       "num": 9828472,
       "word": "宝格丽官网疑将台湾列为国家",
       "onboard_time": 1689068255,
+      "rank": 0,
+      "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 7504189,
+      "num": 8211135,
+      "word": "宝格丽致歉",
+      "onboard_time": 1689076054,
       "rank": 0,
       "category": "社会新闻,时尚"
     },
@@ -203,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1305506,
+      "num": 1305506,
+      "word": "警方通报无锡3岁女童事件调查结果",
+      "onboard_time": 1689073897,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1292644,
       "num": 1292644,
       "word": "魏大勋只是特别出演",
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1029520,
+      "num": 1029520,
+      "word": "曾黎晒桑家全家福",
+      "onboard_time": 1689075995,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1022920,
       "num": 1022920,
       "word": "LPL比赛延期",
@@ -355,14 +379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 987481,
-      "num": 987481,
-      "word": "警方通报无锡3岁女童事件调查结果",
-      "onboard_time": 1689073897,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 974092,
       "num": 974092,
       "word": "三伏天是一年当中补阳气的最好时间",
@@ -393,6 +409,14 @@
       "onboard_time": 1689065496,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 911326,
+      "num": 911326,
+      "word": "当同事是我前男友的现任时",
+      "onboard_time": 1689076114,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 884507,
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 597951,
-      "num": 232028,
+      "num": 249459,
       "word": "爸爸带16岁女儿做医美改善眼睑下垂",
       "onboard_time": 1689073833,
       "rank": 36,
@@ -609,6 +633,14 @@
       "onboard_time": 1689036159,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584139,
+      "num": 584139,
+      "word": "白敬亭宋轶魏大勋梦幻联动",
+      "onboard_time": 1689078156,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 579065,
@@ -739,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 525228,
+      "num": 525228,
+      "word": "网友总结杨洋的演技",
+      "onboard_time": 1689074854,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 520449,
       "num": 520449,
       "word": "王一博骗小海吃东西搞笑程度",
@@ -851,6 +891,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 462079,
+      "num": 462079,
+      "word": "青旅回应不接待35岁以上人群",
+      "onboard_time": 1689074015,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 461140,
       "num": 461140,
       "word": "茶百道未定事件簿联名",
@@ -864,6 +912,14 @@
       "word": "长大后我变成拆散主角的妈",
       "onboard_time": 1689041913,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 460162,
+      "num": 460162,
+      "word": "安乐传",
+      "onboard_time": 1689075214,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -961,6 +1017,14 @@
       "onboard_time": 1689045213,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 421346,
+      "num": 308758,
+      "word": "天蝎座的感情真的离不开陪伴",
+      "onboard_time": 1689077313,
+      "rank": 20,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 421048,
@@ -1291,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324453,
+      "num": 308533,
+      "word": "李沁的发量",
+      "onboard_time": 1689078156,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 318977,
       "num": 284827,
       "word": "没想到相个亲也会遇上霸总",
@@ -1337,6 +1409,22 @@
       "onboard_time": 1689043113,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308875,
+      "num": 308875,
+      "word": "导演看一下姜之南",
+      "onboard_time": 1689075574,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 307563,
+      "num": 307563,
+      "word": "这才是导师想看的开题报告",
+      "onboard_time": 1689074616,
+      "rank": 33,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 305901,
@@ -1387,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298469,
+      "num": 265617,
+      "word": "一只虾暴露了广东的温度",
+      "onboard_time": 1689078816,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297377,
       "num": 297377,
       "word": "林宥嘉 抢票",
@@ -1401,6 +1497,22 @@
       "onboard_time": 1689047916,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295455,
+      "num": 295455,
+      "word": "BLACKPINK创KPOP女团新纪录",
+      "onboard_time": 1689076832,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 294834,
+      "num": 294834,
+      "word": "段嘉许和桑稚的22岁",
+      "onboard_time": 1689074794,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 293590,
@@ -1451,6 +1563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290250,
+      "num": 265612,
+      "word": "大树被刮倒后换了棵小树",
+      "onboard_time": 1689076893,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287215,
       "num": 287215,
       "word": "买雪糕老板跟我说一块的在那边",
@@ -1465,6 +1585,22 @@
       "onboard_time": 1689060454,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285585,
+      "num": 285585,
+      "word": "福宝和两个妹妹都是巨蟹座",
+      "onboard_time": 1689076295,
+      "rank": 26,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 285513,
+      "num": 285513,
+      "word": "孙女看到爷爷瘦成皮包骨心疼哽咽",
+      "onboard_time": 1689075873,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284850,
@@ -1523,20 +1659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267552,
+      "num": 267552,
+      "word": "宝格丽称因管理疏忽致标识误注",
+      "onboard_time": 1689078454,
+      "rank": 28,
+      "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 265710,
+      "num": 265710,
+      "word": "金珉奎泳池照",
+      "onboard_time": 1689076114,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 263100,
       "num": 263100,
       "word": "段嘉许颁奖礼公开示爱桑稚",
       "onboard_time": 1689065856,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 262724,
-      "num": 262724,
-      "word": "青旅回应不接待35岁以上人群",
-      "onboard_time": 1689074015,
-      "rank": 44,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 259469,
@@ -1609,14 +1753,6 @@
       "onboard_time": 1689039455,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247606,
-      "num": 227586,
-      "word": "这才是导师想看的开题报告",
-      "onboard_time": 1689074616,
-      "rank": 33,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 246785,
@@ -1739,20 +1875,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 226882,
-      "num": 226882,
-      "word": "网友总结杨洋的演技",
-      "onboard_time": 1689074854,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223726,
       "num": 191273,
       "word": "4招识破真假护肤品",
       "onboard_time": 1689004829,
       "rank": 30,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 223600,
+      "num": 223600,
+      "word": "八角笼中票房破10亿",
+      "onboard_time": 1689078756,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 222967,
@@ -1784,6 +1920,14 @@
       "word": "三伏天晒背最佳时间表",
       "onboard_time": 1689053912,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215064,
+      "num": 215064,
+      "word": "天价寻狗系自媒体杜撰",
+      "onboard_time": 1689076357,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1825,14 +1969,6 @@
       "onboard_time": 1688993312,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210260,
-      "num": 210260,
-      "word": "段嘉许和桑稚的22岁",
-      "onboard_time": 1689074794,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 206426,
@@ -1889,6 +2025,14 @@
       "onboard_time": 1689043232,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194070,
+      "num": 194070,
+      "word": "WE对战JDG",
+      "onboard_time": 1689078396,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 191280,
@@ -1995,6 +2139,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 173606,
+      "num": 173606,
+      "word": "会用屁股抢位置的狗子",
+      "onboard_time": 1689078098,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172492,
       "num": 172492,
       "word": "幸亏小狗不会说话",
@@ -2057,14 +2209,6 @@
       "onboard_time": 1689003695,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161251,
-      "num": 161251,
-      "word": "安乐传",
-      "onboard_time": 1689075214,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 160765,
