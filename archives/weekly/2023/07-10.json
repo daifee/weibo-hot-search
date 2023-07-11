@@ -1,7 +1,15 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689032050329,
+  "endTime": 1689039810646,
   "band_list": [
+    {
+      "raw_hot": 6825757,
+      "num": 6825757,
+      "word": "爱宝诞下双胞胎",
+      "onboard_time": 1689033630,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4776127,
       "num": 4776127,
@@ -139,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1882209,
+      "num": 1882209,
+      "word": "她的骨灰装进了周恩来用过的骨灰盒里",
+      "onboard_time": 1689037894,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1872410,
       "num": 1872410,
       "word": "宋轶白敬亭 阳神",
@@ -201,6 +217,14 @@
       "onboard_time": 1688983233,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1498759,
+      "num": 1498759,
+      "word": "上海飞北京航班遭遇严重颠簸",
+      "onboard_time": 1689030863,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1496601,
@@ -297,6 +321,22 @@
       "onboard_time": 1688952451,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1190560,
+      "num": 1190560,
+      "word": "三伏天养生6大禁忌",
+      "onboard_time": 1689033210,
+      "rank": 4,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1164487,
+      "num": 1164487,
+      "word": "内娱最炸的组合",
+      "onboard_time": 1689035797,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1157870,
@@ -579,12 +619,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 834464,
+      "num": 834464,
+      "word": "三伏天是一年当中补阳气的最好时间",
+      "onboard_time": 1689037117,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816891,
       "num": 816891,
       "word": "专家预计今年全球还将多次打破高温纪录",
       "onboard_time": 1688948854,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814578,
+      "num": 814578,
+      "word": "香港小姐",
+      "onboard_time": 1689037417,
+      "rank": 7,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 806184,
@@ -641,6 +697,14 @@
       "onboard_time": 1688973692,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 754011,
+      "num": 754011,
+      "word": "谭松韵工作室回应受伤",
+      "onboard_time": 1689036458,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 752290,
@@ -763,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 667302,
+      "num": 667302,
+      "word": "三伏天",
+      "onboard_time": 1689039331,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661325,
       "num": 579065,
       "word": "许沁改姓",
@@ -835,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 590479,
+      "num": 590479,
+      "word": "古人没有空调怎么过夏天",
+      "onboard_time": 1689036159,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589871,
       "num": 286118,
       "word": "新版妲己 猫咪纹",
@@ -881,6 +961,14 @@
       "onboard_time": 1688967336,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565296,
+      "num": 565296,
+      "word": "5女子以女厕难等为由进餐厅男厕",
+      "onboard_time": 1689031947,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563579,
@@ -931,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 543928,
+      "num": 543928,
+      "word": "乐宝",
+      "onboard_time": 1689039154,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538596,
       "num": 538596,
       "word": "我爱我家杭州公司高管全部被停职",
@@ -945,6 +1041,22 @@
       "onboard_time": 1688921246,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 529387,
+      "num": 529387,
+      "word": "肖燕再现小娘惹经典造型",
+      "onboard_time": 1689036936,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 527656,
+      "num": 527656,
+      "word": "爱宝女儿出生照",
+      "onboard_time": 1689038074,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522149,
@@ -977,6 +1089,14 @@
       "onboard_time": 1688906431,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 502512,
+      "num": 502512,
+      "word": "猴痘",
+      "onboard_time": 1689036634,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502160,
@@ -1083,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473553,
+      "num": 293071,
+      "word": "男子隐瞒婚育和同事生子拒付抚养费",
+      "onboard_time": 1689039092,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472877,
       "num": 472877,
       "word": "不知火传说皮肤",
@@ -1097,6 +1225,14 @@
       "onboard_time": 1688987911,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 467554,
+      "num": 467554,
+      "word": "自闭症儿子无学上妈妈辞职办学校",
+      "onboard_time": 1689037117,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 466981,
@@ -1144,6 +1280,14 @@
       "word": "林俊杰晒与lesserafim合照",
       "onboard_time": 1688989950,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 450513,
+      "num": 450513,
+      "word": "曝朴彩英与YG续约",
+      "onboard_time": 1689034413,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1224,14 +1368,6 @@
       "word": "网信办发文加强自媒体管理",
       "onboard_time": 1688976270,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430701,
-      "num": 306719,
-      "word": "上海飞北京航班遭遇严重颠簸",
-      "onboard_time": 1689030863,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1523,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390217,
+      "num": 390217,
+      "word": "婚礼前老公打篮球把脚摔骨折了",
+      "onboard_time": 1689036517,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 388466,
+      "num": 292851,
+      "word": "福宝两个妹妹叫啥名字好",
+      "onboard_time": 1689039092,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386769,
       "num": 302069,
       "word": "TMEA导播叫尹净汉最漂亮的那个",
@@ -1433,6 +1585,14 @@
       "onboard_time": 1688970630,
       "rank": 33,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 379529,
+      "num": 379529,
+      "word": "迪丽热巴大开口破洞裤",
+      "onboard_time": 1689033690,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 378104,
@@ -1497,6 +1657,14 @@
       "onboard_time": 1688985152,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364511,
+      "num": 364511,
+      "word": "三伏天省着点用自己",
+      "onboard_time": 1689036218,
+      "rank": 23,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 362211,
@@ -1571,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336585,
+      "num": 336585,
+      "word": "村书记回应私搭浮桥",
+      "onboard_time": 1689038195,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336127,
       "num": 336127,
       "word": "白敬亭张昊唯没白来极限挑战",
@@ -1619,12 +1795,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326367,
+      "num": 326367,
+      "word": "旅韩大熊猫福宝当姐姐啦",
+      "onboard_time": 1689034833,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325985,
       "num": 213191,
       "word": "南大0001号录取通知书获得者",
       "onboard_time": 1688941275,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 322080,
+      "num": 322080,
+      "word": "CA1524航班乘客讲述颠簸经过",
+      "onboard_time": 1689037833,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316273,
@@ -1649,6 +1841,14 @@
       "onboard_time": 1689027796,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312754,
+      "num": 312754,
+      "word": "多位博主称被都美竹起诉侵犯肖像权",
+      "onboard_time": 1689032729,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 311694,
@@ -1779,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293590,
+      "num": 293590,
+      "word": "杨丞琳卡点祝李荣浩生日快乐",
+      "onboard_time": 1689034714,
+      "rank": 29,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 292439,
       "num": 265449,
       "word": "seventeen舞台",
@@ -1793,6 +2001,14 @@
       "onboard_time": 1688913275,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290989,
+      "num": 290989,
+      "word": "医生说这是他拍过最小的猫",
+      "onboard_time": 1689033511,
+      "rank": 32,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 290312,
@@ -1891,6 +2107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274698,
+      "num": 274698,
+      "word": "警方回应老人当街抛扔满月双胞胎女婴",
+      "onboard_time": 1689031525,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273156,
       "num": 211571,
       "word": "人间烟火的原著",
@@ -1987,6 +2211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259469,
+      "num": 259469,
+      "word": "在五月天演唱会散场后求婚",
+      "onboard_time": 1689036399,
+      "rank": 36,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 258092,
       "num": 258092,
       "word": "快乐的大人",
@@ -2067,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251595,
+      "num": 251595,
+      "word": "爱宝隔壁瀑布要保不住了",
+      "onboard_time": 1689039513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251243,
       "num": 251243,
       "word": "永远年轻永远有人正在办公",
@@ -2091,12 +2331,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246785,
+      "num": 246785,
+      "word": "大鹏拍的王一博",
+      "onboard_time": 1689034895,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245993,
       "num": 224005,
       "word": "全圆佑顺毛黑框",
       "onboard_time": 1688983472,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245792,
+      "num": 245792,
+      "word": "公共场合看到情侣vs看到很要好的女生",
+      "onboard_time": 1689037417,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 242217,
@@ -2123,6 +2379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240538,
+      "num": 240538,
+      "word": "熊猫泡澡小手一直在水里扑腾",
+      "onboard_time": 1689034172,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234771,
       "num": 234771,
       "word": "成都街头玫瑰冰豆浆1块1袋",
@@ -2137,6 +2401,14 @@
       "onboard_time": 1688993851,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231181,
+      "num": 231181,
+      "word": "抑郁的反面不是快乐而是活力",
+      "onboard_time": 1689034652,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 231114,
@@ -2299,6 +2571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217063,
+      "num": 217063,
+      "word": "姜爷爷宋爷爷不用抢了",
+      "onboard_time": 1689039755,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216286,
       "num": 216141,
       "word": "史彭元身材",
@@ -2313,6 +2593,14 @@
       "onboard_time": 1688949572,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212158,
+      "num": 212158,
+      "word": "大熊猫爱宝新宝宝名字",
+      "onboard_time": 1689039693,
+      "rank": 45,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 209649,
@@ -2409,6 +2697,14 @@
       "onboard_time": 1688915856,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202519,
+      "num": 202519,
+      "word": "王楚然还有3部待播剧",
+      "onboard_time": 1689035740,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 201682,
@@ -2547,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189480,
+      "num": 201765,
+      "word": "颜心记女主得了怪病会变身",
+      "onboard_time": 1689035856,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189241,
       "num": 189241,
       "word": "白敬亭从所有案发现场路过",
@@ -2617,14 +2921,6 @@
       "onboard_time": 1688953229,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176130,
-      "num": 138749,
-      "word": "警方回应老人当街抛扔满月双胞胎女婴",
-      "onboard_time": 1689031525,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174958,
@@ -2705,6 +3001,14 @@
       "onboard_time": 1688977173,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 163117,
+      "num": 201345,
+      "word": "间谍过家家",
+      "onboard_time": 1689032187,
+      "rank": 48,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 162192,
@@ -2851,14 +3155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 111965,
-      "num": 111965,
-      "word": "5女子以女厕难等为由进餐厅男厕",
-      "onboard_time": 1689031947,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108750,
       "num": 108750,
       "word": "藏海戏麟",
@@ -2889,6 +3185,14 @@
       "onboard_time": 1689006748,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103053,
+      "num": 200549,
+      "word": "韩国霸榜彩妆分享",
+      "onboard_time": 1689039455,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 100587,
@@ -2924,7 +3228,7 @@
     },
     {
       "raw_hot": 95178,
-      "num": 1486587,
+      "num": 1617970,
       "word": "盛世中华何以中国",
       "onboard_time": 1688992051,
       "rank": 2,

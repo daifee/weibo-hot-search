@@ -1,7 +1,15 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689032050329,
+  "endTime": 1689039810646,
   "band_list": [
+    {
+      "raw_hot": 6825757,
+      "num": 6825757,
+      "word": "爱宝诞下双胞胎",
+      "onboard_time": 1689033630,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2688567,
       "num": 2688567,
@@ -9,6 +17,22 @@
       "onboard_time": 1689002617,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1882209,
+      "num": 1882209,
+      "word": "她的骨灰装进了周恩来用过的骨灰盒里",
+      "onboard_time": 1689037894,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1498759,
+      "num": 1498759,
+      "word": "上海飞北京航班遭遇严重颠簸",
+      "onboard_time": 1689030863,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1282388,
@@ -33,6 +57,22 @@
       "onboard_time": 1689000158,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1190560,
+      "num": 1190560,
+      "word": "三伏天养生6大禁忌",
+      "onboard_time": 1689033210,
+      "rank": 4,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1164487,
+      "num": 1164487,
+      "word": "内娱最炸的组合",
+      "onboard_time": 1689035797,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 996559,
@@ -67,6 +107,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 834464,
+      "num": 834464,
+      "word": "三伏天是一年当中补阳气的最好时间",
+      "onboard_time": 1689037117,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814578,
+      "num": 814578,
+      "word": "香港小姐",
+      "onboard_time": 1689037417,
+      "rank": 7,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 754011,
+      "num": 754011,
+      "word": "谭松韵工作室回应受伤",
+      "onboard_time": 1689036458,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 667302,
+      "num": 667302,
+      "word": "三伏天",
+      "onboard_time": 1689039331,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639104,
       "num": 639104,
       "word": "孟子义算命",
@@ -83,12 +155,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590479,
+      "num": 590479,
+      "word": "古人没有空调怎么过夏天",
+      "onboard_time": 1689036159,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579065,
       "num": 579065,
       "word": "许沁改姓",
       "onboard_time": 1689002075,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 565296,
+      "num": 565296,
+      "word": "5女子以女厕难等为由进餐厅男厕",
+      "onboard_time": 1689031947,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543928,
+      "num": 543928,
+      "word": "乐宝",
+      "onboard_time": 1689039154,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529387,
+      "num": 529387,
+      "word": "肖燕再现小娘惹经典造型",
+      "onboard_time": 1689036936,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 527656,
+      "num": 527656,
+      "word": "爱宝女儿出生照",
+      "onboard_time": 1689038074,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526878,
@@ -99,6 +211,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502512,
+      "num": 502512,
+      "word": "猴痘",
+      "onboard_time": 1689036634,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473553,
+      "num": 293071,
+      "word": "男子隐瞒婚育和同事生子拒付抚养费",
+      "onboard_time": 1689039092,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472804,
       "num": 472804,
       "word": "Prada这次找对人了",
@@ -107,12 +235,28 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 467554,
+      "num": 467554,
+      "word": "自闭症儿子无学上妈妈辞职办学校",
+      "onboard_time": 1689037117,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 461140,
       "num": 461140,
       "word": "茶百道未定事件簿联名",
       "onboard_time": 1689004052,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 450513,
+      "num": 450513,
+      "word": "曝朴彩英与YG续约",
+      "onboard_time": 1689034413,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 448213,
@@ -128,14 +272,6 @@
       "word": "吉林私搭浮桥多名过桥者发声",
       "onboard_time": 1689014595,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430701,
-      "num": 306719,
-      "word": "上海飞北京航班遭遇严重颠簸",
-      "onboard_time": 1689030863,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -171,12 +307,44 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 390217,
+      "num": 390217,
+      "word": "婚礼前老公打篮球把脚摔骨折了",
+      "onboard_time": 1689036517,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 388466,
+      "num": 292851,
+      "word": "福宝两个妹妹叫啥名字好",
+      "onboard_time": 1689039092,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384894,
       "num": 384894,
       "word": "李昊 人齐了啊",
       "onboard_time": 1689002075,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379529,
+      "num": 379529,
+      "word": "迪丽热巴大开口破洞裤",
+      "onboard_time": 1689033690,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 364511,
+      "num": 364511,
+      "word": "三伏天省着点用自己",
+      "onboard_time": 1689036218,
+      "rank": 23,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 363085,
@@ -195,12 +363,44 @@
       "category": "情感,影视"
     },
     {
+      "raw_hot": 336585,
+      "num": 336585,
+      "word": "村书记回应私搭浮桥",
+      "onboard_time": 1689038195,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326367,
+      "num": 326367,
+      "word": "旅韩大熊猫福宝当姐姐啦",
+      "onboard_time": 1689034833,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322080,
+      "num": 322080,
+      "word": "CA1524航班乘客讲述颠簸经过",
+      "onboard_time": 1689037833,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315794,
       "num": 306664,
       "word": "为小朋友提供杯子分饮料后续暖哭",
       "onboard_time": 1689027796,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312754,
+      "num": 312754,
+      "word": "多位博主称被都美竹起诉侵犯肖像权",
+      "onboard_time": 1689032729,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 305794,
@@ -243,12 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293590,
+      "num": 293590,
+      "word": "杨丞琳卡点祝李荣浩生日快乐",
+      "onboard_time": 1689034714,
+      "rank": 29,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 292619,
       "num": 273471,
       "word": "孙珍妮又演狐狸",
       "onboard_time": 1689000576,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290989,
+      "num": 290989,
+      "word": "医生说这是他拍过最小的猫",
+      "onboard_time": 1689033511,
+      "rank": 32,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 290312,
@@ -259,12 +475,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 274698,
+      "num": 274698,
+      "word": "警方回应老人当街抛扔满月双胞胎女婴",
+      "onboard_time": 1689031525,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273392,
       "num": 273392,
       "word": "冉莹颖让两个儿子独自出国",
       "onboard_time": 1688987071,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259469,
+      "num": 259469,
+      "word": "在五月天演唱会散场后求婚",
+      "onboard_time": 1689036399,
+      "rank": 36,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 256498,
@@ -275,6 +507,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251595,
+      "num": 251595,
+      "word": "爱宝隔壁瀑布要保不住了",
+      "onboard_time": 1689039513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246785,
+      "num": 246785,
+      "word": "大鹏拍的王一博",
+      "onboard_time": 1689034895,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245792,
+      "num": 245792,
+      "word": "公共场合看到情侣vs看到很要好的女生",
+      "onboard_time": 1689037417,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 241692,
       "num": 182189,
       "word": "中3250万英镑的英国夫妻分手各结新欢",
@@ -283,12 +539,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240538,
+      "num": 240538,
+      "word": "熊猫泡澡小手一直在水里扑腾",
+      "onboard_time": 1689034172,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231181,
+      "num": 231181,
+      "word": "抑郁的反面不是快乐而是活力",
+      "onboard_time": 1689034652,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 223726,
       "num": 191273,
       "word": "4招识破真假护肤品",
       "onboard_time": 1689004829,
       "rank": 30,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 217063,
+      "num": 217063,
+      "word": "姜爷爷宋爷爷不用抢了",
+      "onboard_time": 1689039755,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212158,
+      "num": 212158,
+      "word": "大熊猫爱宝新宝宝名字",
+      "onboard_time": 1689039693,
+      "rank": 45,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 210266,
@@ -315,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202519,
+      "num": 202519,
+      "word": "王楚然还有3部待播剧",
+      "onboard_time": 1689035740,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201290,
       "num": 201290,
       "word": "7旬老人运500斤大石缸为孙女种荷花",
@@ -337,6 +633,14 @@
       "onboard_time": 1688989890,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189480,
+      "num": 201765,
+      "word": "颜心记女主得了怪病会变身",
+      "onboard_time": 1689035856,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 187108,
@@ -371,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176130,
-      "num": 138749,
-      "word": "警方回应老人当街抛扔满月双胞胎女婴",
-      "onboard_time": 1689031525,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172492,
       "num": 172492,
       "word": "幸亏小狗不会说话",
@@ -409,6 +705,14 @@
       "onboard_time": 1689005370,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 163117,
+      "num": 201345,
+      "word": "间谍过家家",
+      "onboard_time": 1689032187,
+      "rank": 48,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 162192,
@@ -547,20 +851,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111965,
-      "num": 111965,
-      "word": "5女子以女厕难等为由进餐厅男厕",
-      "onboard_time": 1689031947,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105367,
       "num": 121366,
       "word": "有人看乐子 有人照镜子",
       "onboard_time": 1689006748,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103053,
+      "num": 200549,
+      "word": "韩国霸榜彩妆分享",
+      "onboard_time": 1689039455,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 97746,
@@ -596,7 +900,7 @@
     },
     {
       "raw_hot": 54324,
-      "num": 1077383,
+      "num": 1617970,
       "word": "盛世中华何以中国",
       "onboard_time": 1688992051,
       "rank": 2,
