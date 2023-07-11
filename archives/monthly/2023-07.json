@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689059887460,
+  "endTime": 1689060857182,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -699,6 +699,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 2813121,
+      "num": 501616,
+      "word": "关晓彤七年换来一句嫂子",
+      "onboard_time": 1689058230,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2807356,
       "num": 1290229,
       "word": "肖战再提陈情令",
@@ -825,14 +833,6 @@
       "onboard_time": 1688976696,
       "rank": 15,
       "category": "时尚,体育"
-    },
-    {
-      "raw_hot": 2646785,
-      "num": 501616,
-      "word": "关晓彤七年换来一句嫂子",
-      "onboard_time": 1689058230,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2621776,
@@ -4193,6 +4193,14 @@
       "onboard_time": 1688820032,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 988151,
+      "num": 431089,
+      "word": "娱乐圈的真夫妻",
+      "onboard_time": 1689059432,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 987433,
@@ -9891,6 +9899,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 496175,
+      "num": 420750,
+      "word": "高叶工作室解散后援会",
+      "onboard_time": 1689060093,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
@@ -10529,6 +10545,14 @@
       "onboard_time": 1688736224,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467912,
+      "num": 244755,
+      "word": "微信可以购买苹果产品了",
+      "onboard_time": 1689059733,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 467554,
@@ -12747,6 +12771,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 385213,
+      "num": 385213,
+      "word": "xmm",
+      "onboard_time": 1689059194,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 384656,
       "num": 384656,
       "word": "CA1524航班颠簸致1旅客1乘务员受伤",
@@ -13225,6 +13257,14 @@
       "onboard_time": 1688464238,
       "rank": 4,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 372314,
+      "num": 372314,
+      "word": "爱宝诞下双胞胎韩网评论",
+      "onboard_time": 1689059076,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372016,
@@ -13825,14 +13865,6 @@
       "onboard_time": 1688918251,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 356324,
-      "num": 264102,
-      "word": "娱乐圈的真夫妻",
-      "onboard_time": 1689059432,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 356269,
@@ -16507,14 +16539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290087,
-      "num": 290087,
-      "word": "爱宝诞下双胞胎韩网评论",
-      "onboard_time": 1689059076,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289947,
       "num": 318845,
       "word": "乌克兰承认曾对克里米亚大桥实施袭击",
@@ -18347,6 +18371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253413,
+      "num": 244142,
+      "word": "大张伟说杨幂有鲁豫的感觉",
+      "onboard_time": 1689060454,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253380,
       "num": 253380,
       "word": "不联系就是不喜欢吗",
@@ -18441,6 +18473,14 @@
       "onboard_time": 1688994630,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252477,
+      "num": 252477,
+      "word": "1米58男子苦练绣花一幅卖到6万8",
+      "onboard_time": 1689060693,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252456,
@@ -18713,6 +18753,14 @@
       "onboard_time": 1688266049,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248153,
+      "num": 243814,
+      "word": "第一次在骆驼眼中看到了无语",
+      "onboard_time": 1689059854,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 247959,
@@ -19193,6 +19241,14 @@
       "onboard_time": 1688562871,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 240850,
+      "num": 240850,
+      "word": "如果我的人间烟火是韩剧",
+      "onboard_time": 1689060335,
+      "rank": 35,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 240756,
@@ -20003,6 +20059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225458,
+      "num": 225458,
+      "word": "叫我综艺咖可以叫我演员也可以",
+      "onboard_time": 1689060454,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225401,
       "num": 189395,
       "word": "没人点赞朋友圈是人缘不好吗",
@@ -20777,14 +20841,6 @@
       "onboard_time": 1688695354,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215024,
-      "num": 215024,
-      "word": "xmm",
-      "onboard_time": 1689059194,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 214742,
@@ -21865,14 +21921,6 @@
       "onboard_time": 1688881292,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201068,
-      "num": 201068,
-      "word": "微信可以购买苹果产品了",
-      "onboard_time": 1689059733,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 201039,
@@ -23177,14 +23225,6 @@
       "onboard_time": 1688477315,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 181576,
-      "num": 181576,
-      "word": "第一次在骆驼眼中看到了无语",
-      "onboard_time": 1689059854,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 181509,

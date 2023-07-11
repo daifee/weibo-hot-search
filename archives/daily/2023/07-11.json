@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689059887460,
+  "endTime": 1689060857182,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -27,20 +27,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2813121,
+      "num": 501616,
+      "word": "关晓彤七年换来一句嫂子",
+      "onboard_time": 1689058230,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2688567,
       "num": 2688567,
       "word": "死臀综合征",
       "onboard_time": 1689002617,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2646785,
-      "num": 501616,
-      "word": "关晓彤七年换来一句嫂子",
-      "onboard_time": 1689058230,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2507376,
@@ -249,6 +249,14 @@
       "onboard_time": 1689042514,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 988151,
+      "num": 431089,
+      "word": "娱乐圈的真夫妻",
+      "onboard_time": 1689059432,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 974092,
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496175,
+      "num": 420750,
+      "word": "高叶工作室解散后援会",
+      "onboard_time": 1689060093,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492543,
       "num": 492543,
       "word": "朱一龙文咏珊沙滩戏全是心眼",
@@ -561,6 +577,14 @@
       "onboard_time": 1688976696,
       "rank": 8,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 467912,
+      "num": 244755,
+      "word": "微信可以购买苹果产品了",
+      "onboard_time": 1689059733,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 467554,
@@ -747,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 385213,
+      "num": 385213,
+      "word": "xmm",
+      "onboard_time": 1689059194,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 384894,
       "num": 384894,
       "word": "李昊 人齐了啊",
@@ -795,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372314,
+      "num": 372314,
+      "word": "爱宝诞下双胞胎韩网评论",
+      "onboard_time": 1689059076,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363085,
       "num": 363085,
       "word": "关晓彤范丞丞新剧吻戏",
@@ -825,14 +865,6 @@
       "onboard_time": 1689046775,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 356324,
-      "num": 264102,
-      "word": "娱乐圈的真夫妻",
-      "onboard_time": 1689059432,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 350793,
@@ -1059,14 +1091,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 290087,
-      "num": 290087,
-      "word": "爱宝诞下双胞胎韩网评论",
-      "onboard_time": 1689059076,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283256,
       "num": 283256,
       "word": "人设比颜值更重要吗",
@@ -1139,6 +1163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253413,
+      "num": 244142,
+      "word": "大张伟说杨幂有鲁豫的感觉",
+      "onboard_time": 1689060454,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252477,
+      "num": 252477,
+      "word": "1米58男子苦练绣花一幅卖到6万8",
+      "onboard_time": 1689060693,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250914,
       "num": 250914,
       "word": "原来被蒙眼睛的是王楚然",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1689049898,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248153,
+      "num": 243814,
+      "word": "第一次在骆驼眼中看到了无语",
+      "onboard_time": 1689059854,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 247959,
@@ -1195,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240850,
+      "num": 240850,
+      "word": "如果我的人间烟火是韩剧",
+      "onboard_time": 1689060335,
+      "rank": 35,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 240538,
       "num": 240538,
       "word": "熊猫泡澡小手一直在水里扑腾",
@@ -1235,6 +1291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 225458,
+      "num": 225458,
+      "word": "叫我综艺咖可以叫我演员也可以",
+      "onboard_time": 1689060454,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223726,
       "num": 191273,
       "word": "4招识破真假护肤品",
@@ -1257,14 +1321,6 @@
       "onboard_time": 1689053912,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215024,
-      "num": 215024,
-      "word": "xmm",
-      "onboard_time": 1689059194,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 213843,
@@ -1331,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201068,
-      "num": 201068,
-      "word": "微信可以购买苹果产品了",
-      "onboard_time": 1689059733,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 196097,
       "num": 196097,
       "word": "杨洋吊威亚4楼速降",
@@ -1387,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184580,
+      "num": 184580,
+      "word": "密室大逃脱",
+      "onboard_time": 1689057452,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184402,
       "num": 184402,
       "word": "肖战时影内啡肽穿搭",
@@ -1403,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181576,
-      "num": 181576,
-      "word": "第一次在骆驼眼中看到了无语",
-      "onboard_time": 1689059854,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 180596,
       "num": 239462,
       "word": "千户苗寨火灾致2死6伤",
@@ -1425,14 +1473,6 @@
       "onboard_time": 1689040829,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 174130,
-      "num": 174130,
-      "word": "密室大逃脱",
-      "onboard_time": 1689057452,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 172492,

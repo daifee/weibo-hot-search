@@ -1,0 +1,410 @@
+{
+  "runTime": 1689060857182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1691943,
+        "num": 1691943,
+        "word": "三伏天为啥是减肥的好时候",
+        "onboard_time": 1689051037,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480734,
+        "num": 1480734,
+        "word": "宝格丽",
+        "onboard_time": 1689053496,
+        "rank": 1,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 65272,
+        "num": 772931,
+        "word": "年过80的她这件事干了60年",
+        "onboard_time": 1689042514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3241731,
+        "num": 769472,
+        "word": "张若昀唐艺昕 性张力",
+        "onboard_time": 1689055714,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 764706,
+        "num": 764706,
+        "word": "姜爷爷脸都笑烂了",
+        "onboard_time": 1689050020,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633715,
+        "num": 633715,
+        "word": "张若昀唐艺昕双人杂志",
+        "onboard_time": 1689053856,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 587486,
+        "num": 587486,
+        "word": "学区房是凶宅你会买吗",
+        "onboard_time": 1689055414,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476129,
+        "num": 476129,
+        "word": "EDG起诉Scout",
+        "onboard_time": 1689049062,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 440862,
+        "num": 440862,
+        "word": "孟宴臣许沁 好可怕又美味的30S",
+        "onboard_time": 1689050318,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440173,
+        "num": 440173,
+        "word": "福宝知道自己当姐姐了吗",
+        "onboard_time": 1689056552,
+        "rank": 9,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 2813121,
+        "num": 436231,
+        "word": "关晓彤七年换来一句嫂子",
+        "onboard_time": 1689058230,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 988151,
+        "num": 431089,
+        "word": "娱乐圈的真夫妻",
+        "onboard_time": 1689059432,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 866650,
+        "num": 422722,
+        "word": "李靓蕾谈陈建州性骚扰事件",
+        "onboard_time": 1689053674,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496175,
+        "num": 420750,
+        "word": "高叶工作室解散后援会",
+        "onboard_time": 1689060093,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415015,
+        "num": 415015,
+        "word": "优衣库门店回应大学生发文吐槽",
+        "onboard_time": 1689044858,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410442,
+        "num": 410442,
+        "word": "山航三年亏损110亿元",
+        "onboard_time": 1689053072,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 401591,
+        "num": 401591,
+        "word": "张歆艺被叫成张艺兴",
+        "onboard_time": 1689056073,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400905,
+        "num": 400905,
+        "word": "老板劝顾客别买了实在夸不下去了",
+        "onboard_time": 1689045333,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393762,
+        "num": 393762,
+        "word": "吉克隽逸建议大家多吃蓝莓",
+        "onboard_time": 1689056854,
+        "rank": 18,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 385213,
+        "num": 385213,
+        "word": "xmm",
+        "onboard_time": 1689059194,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 372314,
+        "num": 372314,
+        "word": "爱宝诞下双胞胎韩网评论",
+        "onboard_time": 1689059076,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356537,
+        "num": 356537,
+        "word": "魏大勋只是特别出演",
+        "onboard_time": 1689041432,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344204,
+        "num": 344204,
+        "word": "老人因病痛跳河轻生女儿岸边苦苦哀求",
+        "onboard_time": 1689054274,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337216,
+        "num": 337216,
+        "word": "她的骨灰装进了周恩来用过的骨灰盒里",
+        "onboard_time": 1689037894,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336182,
+        "num": 336182,
+        "word": "杨迪把王鹤棣鬓角扯肿了",
+        "onboard_time": 1689058114,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320439,
+        "num": 320439,
+        "word": "妻子怀孕让中医老公把脉",
+        "onboard_time": 1689043714,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 311636,
+        "num": 311636,
+        "word": "芈月宝格丽皮肤CG",
+        "onboard_time": 1689049419,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269461,
+        "num": 269461,
+        "word": "福宝",
+        "onboard_time": 1689057396,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252477,
+        "num": 252477,
+        "word": "1米58男子苦练绣花一幅卖到6万8",
+        "onboard_time": 1689060693,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244776,
+        "num": 244776,
+        "word": "林宥嘉 抢票",
+        "onboard_time": 1689057151,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467912,
+        "num": 244755,
+        "word": "微信可以购买苹果产品了",
+        "onboard_time": 1689059733,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 388235,
+        "num": 244412,
+        "word": "北京一外卖骑手违法超车致人死亡",
+        "onboard_time": 1689049476,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253413,
+        "num": 244142,
+        "word": "大张伟说杨幂有鲁豫的感觉",
+        "onboard_time": 1689060454,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248153,
+        "num": 243814,
+        "word": "第一次在骆驼眼中看到了无语",
+        "onboard_time": 1689059854,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243724,
+        "num": 243724,
+        "word": "28岁女子被高空抛下砖头砸中离世",
+        "onboard_time": 1689041494,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240850,
+        "num": 240850,
+        "word": "如果我的人间烟火是韩剧",
+        "onboard_time": 1689060335,
+        "rank": 35,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 239128,
+        "num": 239128,
+        "word": "大学生优衣库兼职薪资一小时16元",
+        "onboard_time": 1689046054,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238117,
+        "num": 238117,
+        "word": "秋瓷炫于晓光同床异梦2预告",
+        "onboard_time": 1689047434,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235284,
+        "num": 235284,
+        "word": "虞书欣粉色火烈鸟高跟鞋",
+        "onboard_time": 1689054274,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 234512,
+        "num": 234512,
+        "word": "王者荣耀",
+        "onboard_time": 1689052177,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225458,
+        "num": 225458,
+        "word": "叫我综艺咖可以叫我演员也可以",
+        "onboard_time": 1689060454,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211884,
+        "num": 211884,
+        "word": "2023年大学毕业生向往的职业",
+        "onboard_time": 1689058172,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203989,
+        "num": 203989,
+        "word": "陈立农留存离世粉丝遗物",
+        "onboard_time": 1689050618,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194900,
+        "num": 194900,
+        "word": "三大平台接档剧",
+        "onboard_time": 1689048821,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190809,
+        "num": 190809,
+        "word": "毛晓慧是新神雕侠侣的小龙女",
+        "onboard_time": 1689055053,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188771,
+        "num": 188771,
+        "word": "猴痘病例为何突然增多",
+        "onboard_time": 1689044494,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184580,
+        "num": 184580,
+        "word": "密室大逃脱",
+        "onboard_time": 1689057452,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182340,
+        "num": 182340,
+        "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
+        "onboard_time": 1689044136,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179573,
+        "num": 179573,
+        "word": "周笔畅悼念李玟头七",
+        "onboard_time": 1689045815,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175424,
+        "num": 175424,
+        "word": "桑延是段嘉许最开始的救赎",
+        "onboard_time": 1689050981,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#盛世中华何以中国#"
+    }
+  }
+}
