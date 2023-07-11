@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689045814212,
+  "endTime": 1689046588398,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1683002,
-      "num": 696040,
+      "raw_hot": 2021096,
+      "num": 1462757,
       "word": "妻子怀孕让中医老公把脉",
       "onboard_time": 1689043714,
       "rank": 30,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1038037,
+      "num": 844188,
+      "word": "优衣库门店回应大学生发文吐槽",
+      "onboard_time": 1689044858,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996559,
       "num": 996559,
       "word": "金奎彬晕倒",
@@ -195,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697493,
+      "num": 697493,
+      "word": "猴痘病例为何突然增多",
+      "onboard_time": 1689044494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693251,
+      "num": 693251,
+      "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
+      "onboard_time": 1689044136,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667302,
       "num": 667302,
       "word": "三伏天",
@@ -219,14 +243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 614294,
-      "num": 614294,
-      "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
-      "onboard_time": 1689044136,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 604803,
       "num": 604803,
       "word": "警方回应网传男子性侵15岁少女被当众鞭打",
@@ -243,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588553,
+      "num": 262981,
+      "word": "周笔畅悼念李玟头七",
+      "onboard_time": 1689045815,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579065,
       "num": 579065,
       "word": "许沁改姓",
       "onboard_time": 1689002075,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 578106,
-      "num": 282239,
-      "word": "优衣库门店回应大学生发文吐槽",
-      "onboard_time": 1689044858,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565296,
@@ -307,28 +323,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 520449,
+      "num": 520449,
+      "word": "王一博骗小海吃东西搞笑程度",
+      "onboard_time": 1689044136,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 502512,
       "num": 502512,
       "word": "猴痘",
       "onboard_time": 1689036634,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489635,
-      "num": 489635,
-      "word": "猴痘病例为何突然增多",
-      "onboard_time": 1689044494,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482818,
-      "num": 482818,
-      "word": "王一博骗小海吃东西搞笑程度",
-      "onboard_time": 1689044136,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 479942,
@@ -371,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452858,
+      "num": 452858,
+      "word": "老板劝顾客别买了实在夸不下去了",
+      "onboard_time": 1689045333,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450513,
       "num": 450513,
       "word": "曝朴彩英与YG续约",
@@ -401,6 +417,14 @@
       "onboard_time": 1689041432,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422732,
+      "num": 422732,
+      "word": "杨紫现场观看MLB全明星赛",
+      "onboard_time": 1689045213,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 415704,
@@ -467,6 +491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 363610,
+      "num": 260835,
+      "word": "这是西游记哪一集",
+      "onboard_time": 1689045755,
+      "rank": 47,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 363085,
       "num": 363085,
       "word": "关晓彤范丞丞新剧吻戏",
@@ -489,6 +521,14 @@
       "onboard_time": 1689042033,
       "rank": 23,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 349606,
+      "num": 259565,
+      "word": "大学生优衣库兼职薪资一小时16元",
+      "onboard_time": 1689046054,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346132,
@@ -521,14 +561,6 @@
       "onboard_time": 1689034833,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321816,
-      "num": 321816,
-      "word": "杨紫现场观看MLB全明星赛",
-      "onboard_time": 1689045213,
-      "rank": 23,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 315794,
@@ -627,12 +659,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 283009,
-      "num": 283009,
-      "word": "老板劝顾客别买了实在夸不下去了",
-      "onboard_time": 1689045333,
-      "rank": 29,
+      "raw_hot": 289372,
+      "num": 289372,
+      "word": "国航回应飞机颠簸",
+      "onboard_time": 1689045815,
+      "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281171,
+      "num": 258784,
+      "word": "无骨鸡爪就是我的底线",
+      "onboard_time": 1689045632,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 274698,
@@ -673,6 +713,14 @@
       "onboard_time": 1689036399,
       "rank": 36,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 257544,
+      "num": 257544,
+      "word": "孟许时分",
+      "onboard_time": 1689045935,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 256498,
@@ -723,12 +771,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236299,
+      "num": 236299,
+      "word": "CA1524航班颠簸致1旅客1乘务员受伤",
+      "onboard_time": 1689046293,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235186,
       "num": 235186,
       "word": "如何看待村书记称浮桥搭建者说假话",
       "onboard_time": 1689044494,
       "rank": 40,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 234154,
+      "num": 234154,
+      "word": "三伏贴",
+      "onboard_time": 1689045515,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233340,
+      "num": 233340,
+      "word": "偷偷藏不住今日会员收官",
+      "onboard_time": 1689046353,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 231181,
@@ -745,6 +817,14 @@
       "onboard_time": 1689004829,
       "rank": 30,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 219842,
+      "num": 219842,
+      "word": "朱一龙文咏珊沙滩戏全是心眼",
+      "onboard_time": 1689046114,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 216405,
@@ -779,14 +859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210243,
-      "num": 210243,
-      "word": "无骨鸡爪就是我的底线",
-      "onboard_time": 1689045632,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 206426,
       "num": 239575,
       "word": "陕西省发现一例猴痘病例",
@@ -809,14 +881,6 @@
       "onboard_time": 1689035740,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201473,
-      "num": 201473,
-      "word": "三伏贴",
-      "onboard_time": 1689045515,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201290,
@@ -899,16 +963,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178398,
-      "num": 178398,
-      "word": "这是西游记哪一集",
-      "onboard_time": 1689045755,
-      "rank": 47,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 177713,
-      "num": 185834,
+      "num": 200486,
       "word": "游客不慎坠河被冲走众人合力相救",
       "onboard_time": 1689040829,
       "rank": 49,

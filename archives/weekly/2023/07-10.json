@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689045814212,
+  "endTime": 1689046588398,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -147,6 +147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2021096,
+      "num": 1462757,
+      "word": "妻子怀孕让中医老公把脉",
+      "onboard_time": 1689043714,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1964594,
       "num": 1939092,
       "word": "女孩高考超一本线35分却报专科",
@@ -201,14 +209,6 @@
       "onboard_time": 1688986230,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1683002,
-      "num": 696040,
-      "word": "妻子怀孕让中医老公把脉",
-      "onboard_time": 1689043714,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1659793,
@@ -425,6 +425,14 @@
       "onboard_time": 1688977231,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1038037,
+      "num": 844188,
+      "word": "优衣库门店回应大学生发文吐槽",
+      "onboard_time": 1689044858,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1014571,
@@ -835,6 +843,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697493,
+      "num": 697493,
+      "word": "猴痘病例为何突然增多",
+      "onboard_time": 1689044494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693251,
+      "num": 693251,
+      "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
+      "onboard_time": 1689044136,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690425,
       "num": 655624,
       "word": "偷偷藏不住算爆剧吗",
@@ -971,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614294,
-      "num": 614294,
-      "word": "福宝妈第一次带俩娃有点儿手忙脚乱",
-      "onboard_time": 1689044136,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 598722,
       "num": 357200,
       "word": "冉莹颖让两个儿子独自出国",
@@ -1019,20 +1035,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588553,
+      "num": 262981,
+      "word": "周笔畅悼念李玟头七",
+      "onboard_time": 1689045815,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578424,
       "num": 499757,
       "word": "孟宴臣 蝴蝶",
       "onboard_time": 1688907511,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 578106,
-      "num": 282239,
-      "word": "优衣库门店回应大学生发文吐槽",
-      "onboard_time": 1689044858,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 570653,
@@ -1163,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520449,
+      "num": 520449,
+      "word": "王一博骗小海吃东西搞笑程度",
+      "onboard_time": 1689044136,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519407,
       "num": 519407,
       "word": "杨幂摩登猫眼妆",
@@ -1219,14 +1243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 489635,
-      "num": 489635,
-      "word": "猴痘病例为何突然增多",
-      "onboard_time": 1689044494,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 489295,
       "num": 489295,
       "word": "普京6月29日在克宫会见普里戈任",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1688959414,
       "rank": 39,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 482818,
-      "num": 482818,
-      "word": "王一博骗小海吃东西搞笑程度",
-      "onboard_time": 1689044136,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 479942,
@@ -1393,6 +1401,14 @@
       "onboard_time": 1688945365,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 452858,
+      "num": 452858,
+      "word": "老板劝顾客别买了实在夸不下去了",
+      "onboard_time": 1689045333,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451878,
@@ -1545,6 +1561,14 @@
       "onboard_time": 1688966614,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422732,
+      "num": 422732,
+      "word": "杨紫现场观看MLB全明星赛",
+      "onboard_time": 1689045213,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 420629,
@@ -1787,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363610,
+      "num": 260835,
+      "word": "这是西游记哪一集",
+      "onboard_time": 1689045755,
+      "rank": 47,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 362211,
       "num": 362211,
       "word": "长安三万里",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1688986290,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 349606,
+      "num": 259565,
+      "word": "大学生优衣库兼职薪资一小时16元",
+      "onboard_time": 1689046054,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348638,
@@ -1953,14 +1993,6 @@
       "onboard_time": 1688941275,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 321816,
-      "num": 321816,
-      "word": "杨紫现场观看MLB全明星赛",
-      "onboard_time": 1689045213,
-      "rank": 23,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 316273,
@@ -2187,6 +2219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289372,
+      "num": 289372,
+      "word": "国航回应飞机颠簸",
+      "onboard_time": 1689045815,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287401,
       "num": 287401,
       "word": "清融妖刀",
@@ -2211,14 +2251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283009,
-      "num": 283009,
-      "word": "老板劝顾客别买了实在夸不下去了",
-      "onboard_time": 1689045333,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281468,
       "num": 281468,
       "word": "一个不会离职的办公桌长啥样",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1688952212,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281171,
+      "num": 258784,
+      "word": "无骨鸡爪就是我的底线",
+      "onboard_time": 1689045632,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 280090,
@@ -2403,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257544,
+      "num": 257544,
+      "word": "孟许时分",
+      "onboard_time": 1689045935,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257493,
       "num": 257493,
       "word": "暗夜与黎明",
@@ -2563,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236299,
+      "num": 236299,
+      "word": "CA1524航班颠簸致1旅客1乘务员受伤",
+      "onboard_time": 1689046293,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235186,
       "num": 235186,
       "word": "如何看待村书记称浮桥搭建者说假话",
@@ -2579,12 +2635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234154,
+      "num": 234154,
+      "word": "三伏贴",
+      "onboard_time": 1689045515,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233960,
       "num": 256218,
       "word": "林俊杰演唱会北京加场",
       "onboard_time": 1688993851,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233340,
+      "num": 233340,
+      "word": "偷偷藏不住今日会员收官",
+      "onboard_time": 1689046353,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 231181,
@@ -2707,6 +2779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219842,
+      "num": 219842,
+      "word": "朱一龙文咏珊沙滩戏全是心眼",
+      "onboard_time": 1689046114,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "曾少年今日开播",
@@ -2793,14 +2873,6 @@
       "onboard_time": 1689039693,
       "rank": 45,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 210243,
-      "num": 210243,
-      "word": "无骨鸡爪就是我的底线",
-      "onboard_time": 1689045632,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 209649,
@@ -2921,14 +2993,6 @@
       "onboard_time": 1688965596,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 201473,
-      "num": 201473,
-      "word": "三伏贴",
-      "onboard_time": 1689045515,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201380,
@@ -3147,16 +3211,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178398,
-      "num": 178398,
-      "word": "这是西游记哪一集",
-      "onboard_time": 1689045755,
-      "rank": 47,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 177713,
-      "num": 185834,
+      "num": 200486,
       "word": "游客不慎坠河被冲走众人合力相救",
       "onboard_time": 1689040829,
       "rank": 49,
