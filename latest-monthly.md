@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/12 06:36:04
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/12 07:18:34
 </p>
 </blockquote>
 <p>
@@ -1517,6 +1517,12 @@ Lisa无刘海vs蒋雯丽（热度：1810361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E7%9A%84%E4%B8%AD%E6%96%87%E9%A2%98%23" target="weibo">
 越南高考的中文题（热度：1733326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23" target="weibo">
+如果微信显示已读的话（热度：1726082）
 </a>
 </li>
 
@@ -3143,12 +3149,6 @@ LPL比赛延期（热度：1022920）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%B8%83%E5%90%8D%E8%AA%89%E7%BB%B4%E6%9D%83%E6%A1%88%E8%BF%9B%E5%B1%95%23" target="weibo">
 杨紫工作室公布名誉维权案进展（热度：1014571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23" target="weibo">
-如果微信显示已读的话（热度：1014527）
 </a>
 </li>
 
@@ -5379,6 +5379,12 @@ Seventeen孙悟空首舞台在中国（热度：698334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23" target="weibo">
+父亲开家长会睡觉和儿子同一姿势（热度：691618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%A4%E9%86%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB%E5%90%8E%E5%A5%B9%E9%80%80%E8%BF%9818%E4%B8%87%E5%85%83%E5%96%84%E6%AC%BE%23" target="weibo">
 唤醒植物人丈夫后她退还18万元善款（热度：691291）
 </a>
@@ -5963,12 +5969,6 @@ EXO回归直播（热度：639919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E4%B9%9F%E9%9C%80%E8%A6%81%E5%88%AB%E4%BA%BA%E6%BC%94%E4%BB%96%E5%B0%8F%E6%97%B6%E5%80%99%E4%BA%86%23" target="weibo">
 张一山也需要别人演他小时候了（热度：638185）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23" target="weibo">
-父亲开家长会睡觉和儿子同一姿势（热度：637916）
 </a>
 </li>
 

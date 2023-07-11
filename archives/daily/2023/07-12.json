@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689114964888,
+  "endTime": 1689117514658,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -17,6 +17,14 @@
       "onboard_time": 1689081698,
       "rank": 1,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1726082,
+      "num": 1726082,
+      "word": "如果微信显示已读的话",
+      "onboard_time": 1689084101,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 912103,
@@ -43,14 +51,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 768154,
-      "num": 768154,
-      "word": "如果微信显示已读的话",
-      "onboard_time": 1689084101,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
       "raw_hot": 705119,
       "num": 598611,
       "word": "姐姐30万赎弟弟没出缅甸又遭转卖",
@@ -59,8 +59,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 637916,
-      "num": 637916,
+      "raw_hot": 691618,
+      "num": 691618,
       "word": "父亲开家长会睡觉和儿子同一姿势",
       "onboard_time": 1689091472,
       "rank": 16,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469837,
+      "num": 469837,
+      "word": "凉山女孩考上浙大保研清华存下16万",
+      "onboard_time": 1689091590,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451225,
       "num": 451225,
       "word": "易梦玲要开始演戏了",
@@ -123,27 +131,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417143,
+      "num": 417143,
+      "word": "韩幽灵儿童案677名孩子生死不明",
+      "onboard_time": 1689082595,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414728,
       "num": 414728,
       "word": "一只虾暴露了广东的温度",
       "onboard_time": 1689078816,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 413111,
-      "num": 413111,
-      "word": "凉山女孩考上浙大保研清华存下16万",
-      "onboard_time": 1689091590,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381893,
-      "num": 381893,
-      "word": "韩幽灵儿童案677名孩子生死不明",
-      "onboard_time": 1689082595,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331402,
+      "num": 331402,
+      "word": "当同事是我前男友的现任时",
+      "onboard_time": 1689076114,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313425,
       "num": 313425,
       "word": "玖月晞告读者案一审结果",
@@ -185,14 +193,6 @@
       "onboard_time": 1689068132,
       "rank": 23,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 302408,
-      "num": 302408,
-      "word": "当同事是我前男友的现任时",
-      "onboard_time": 1689076114,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 291603,
@@ -259,12 +259,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239406,
+      "num": 239406,
+      "word": "闫桉终于来演偶像剧了",
+      "onboard_time": 1689110413,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228074,
       "num": 228074,
       "word": "天蝎座的感情真的离不开陪伴",
       "onboard_time": 1689077313,
       "rank": 32,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 227971,
+      "num": 227971,
+      "word": "骑手捂住宝宝耳朵进KTV给顾客送餐",
+      "onboard_time": 1689116661,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223316,
@@ -339,6 +355,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163515,
+      "num": 163515,
+      "word": "西安的雨没有100斤寸步难行",
+      "onboard_time": 1689113656,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163343,
+      "num": 163343,
+      "word": "成都暴雨",
+      "onboard_time": 1689116961,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160091,
       "num": 160091,
       "word": "青旅回应不接待35岁以上人群",
@@ -379,14 +411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 149766,
-      "num": 149766,
-      "word": "闫桉终于来演偶像剧了",
-      "onboard_time": 1689110413,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149525,
       "num": 149525,
       "word": "玉骨遥",
@@ -419,6 +443,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124689,
+      "num": 124689,
+      "word": "费翔老师我妈爱你",
+      "onboard_time": 1689114556,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 111623,
+      "num": 111623,
+      "word": "王一博晒分层",
+      "onboard_time": 1689112153,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 107007,
+      "num": 107007,
+      "word": "黑猩猩喝绿豆汤真的好像人",
+      "onboard_time": 1689116661,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105701,
       "num": 105701,
       "word": "宝格丽",
@@ -427,12 +475,12 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 82346,
-      "num": 82346,
-      "word": "西安的雨没有100斤寸步难行",
-      "onboard_time": 1689113656,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 77338,
+      "num": 77338,
+      "word": "肖战大漠vlog",
+      "onboard_time": 1689104652,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 75309,
@@ -451,36 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57910,
-      "num": 57910,
-      "word": "王一博晒分层",
-      "onboard_time": 1689112153,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 46567,
-      "num": 47964,
-      "word": "肖战大漠vlog",
-      "onboard_time": 1689104652,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 45928,
       "num": 51938,
       "word": "UP对战TES",
       "onboard_time": 1689099078,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36476,
-      "num": 47927,
-      "word": "费翔老师我妈爱你",
-      "onboard_time": 1689114556,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 32944,

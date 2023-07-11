@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689114964888,
+  "endTime": 1689117514658,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2009,6 +2009,14 @@
       "onboard_time": 1688342309,
       "rank": 0,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 1726082,
+      "num": 1726082,
+      "word": "如果微信显示已读的话",
+      "onboard_time": 1689084101,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 1719252,
@@ -4177,14 +4185,6 @@
       "onboard_time": 1688975671,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1014527,
-      "num": 768154,
-      "word": "如果微信显示已读的话",
-      "onboard_time": 1689084101,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 1011726,
@@ -7155,6 +7155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 691618,
+      "num": 691618,
+      "word": "父亲开家长会睡觉和儿子同一姿势",
+      "onboard_time": 1689091472,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 691291,
       "num": 1554712,
       "word": "唤醒植物人丈夫后她退还18万元善款",
@@ -7937,14 +7945,6 @@
       "onboard_time": 1688966256,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 637916,
-      "num": 637916,
-      "word": "父亲开家长会睡觉和儿子同一姿势",
-      "onboard_time": 1689091472,
-      "rank": 16,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 637584,
@@ -10955,6 +10955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 469837,
+      "num": 469837,
+      "word": "凉山女孩考上浙大保研清华存下16万",
+      "onboard_time": 1689091590,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469240,
       "num": 469240,
       "word": "苹果公众号文章被批毁三观",
@@ -12537,14 +12545,6 @@
       "onboard_time": 1689030322,
       "rank": 8,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 413111,
-      "num": 413111,
-      "word": "凉山女孩考上浙大保研清华存下16万",
-      "onboard_time": 1689091590,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412510,
@@ -20171,6 +20171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239406,
+      "num": 239406,
+      "word": "闫桉终于来演偶像剧了",
+      "onboard_time": 1689110413,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239341,
       "num": 239341,
       "word": "你们结婚的话会迁户口吗",
@@ -20777,6 +20785,14 @@
       "onboard_time": 1688790690,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227971,
+      "num": 227971,
+      "word": "骑手捂住宝宝耳朵进KTV给顾客送餐",
+      "onboard_time": 1689116661,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227965,
@@ -25251,12 +25267,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 163515,
+      "num": 163515,
+      "word": "西安的雨没有100斤寸步难行",
+      "onboard_time": 1689113656,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163377,
       "num": 163377,
       "word": "为了带猫咪做绝育有多拼",
       "onboard_time": 1688977173,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 163343,
+      "num": 163343,
+      "word": "成都暴雨",
+      "onboard_time": 1689116961,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163232,
@@ -25763,14 +25795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149766,
-      "num": 149766,
-      "word": "闫桉终于来演偶像剧了",
-      "onboard_time": 1689110413,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149143,
       "num": 149143,
       "word": "中邑故一 我主要画中国的隐士幻想",
@@ -26275,6 +26299,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 124689,
+      "num": 124689,
+      "word": "费翔老师我妈爱你",
+      "onboard_time": 1689114556,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124244,
       "num": 124244,
       "word": "警校毕业生教院长比心",
@@ -26443,6 +26475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 111623,
+      "num": 111623,
+      "word": "王一博晒分层",
+      "onboard_time": 1689112153,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110593,
       "num": 128812,
       "word": "我们还是应该有脆弱衰老的权利",
@@ -26513,6 +26553,14 @@
       "onboard_time": 1688512884,
       "rank": 43,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 107007,
+      "num": 107007,
+      "word": "黑猩猩喝绿豆汤真的好像人",
+      "onboard_time": 1689116661,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106315,
@@ -27027,14 +27075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82346,
-      "num": 82346,
-      "word": "西安的雨没有100斤寸步难行",
-      "onboard_time": 1689113656,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82182,
       "num": 82182,
       "word": "和朋友吃烤肉想到安陵容",
@@ -27113,6 +27153,14 @@
       "onboard_time": 1688875230,
       "rank": 14,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 77338,
+      "num": 77338,
+      "word": "肖战大漠vlog",
+      "onboard_time": 1689104652,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 77121,
@@ -27403,14 +27451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57910,
-      "num": 57910,
-      "word": "王一博晒分层",
-      "onboard_time": 1689112153,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 57864,
       "num": 35832,
       "word": "李玟是首位献唱奥斯卡的华人歌手",
@@ -27547,14 +27587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46567,
-      "num": 47964,
-      "word": "肖战大漠vlog",
-      "onboard_time": 1689104652,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 45928,
       "num": 51938,
       "word": "UP对战TES",
@@ -27689,14 +27721,6 @@
       "onboard_time": 1688495835,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36476,
-      "num": 47927,
-      "word": "费翔老师我妈爱你",
-      "onboard_time": 1689114556,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 35631,
