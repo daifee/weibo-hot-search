@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689070837970,
+  "endTime": 1689071911595,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -48,6 +48,14 @@
       "word": "无锡女童",
       "onboard_time": 1688988094,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3132517,
+      "num": 3132517,
+      "word": "宝格丽客服回应",
+      "onboard_time": 1689069940,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1688976696,
       "rank": 15,
       "category": "时尚,体育"
-    },
-    {
-      "raw_hot": 2644369,
-      "num": 2644369,
-      "word": "宝格丽客服回应",
-      "onboard_time": 1689069940,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2507376,
@@ -307,20 +307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1701609,
+      "num": 1701609,
+      "word": "为什么中国不禁止人名重复",
+      "onboard_time": 1689068132,
+      "rank": 7,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1659793,
       "num": 1659793,
       "word": "花店老板接33700元订单被利用参与洗钱",
       "onboard_time": 1688974054,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1636412,
-      "num": 1636412,
-      "word": "为什么中国不禁止人名重复",
-      "onboard_time": 1689068132,
-      "rank": 7,
-      "category": "社会议题"
     },
     {
       "raw_hot": 1612033,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 1101075,
-      "num": 3600633,
+      "num": 4505184,
       "word": "1米58男子苦练绣花一幅卖到6万8",
       "onboard_time": 1689060693,
       "rank": 28,
@@ -1299,20 +1299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612396,
+      "num": 612396,
+      "word": "那是62岁费翔的手",
+      "onboard_time": 1689069218,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611806,
       "num": 607908,
       "word": "IU接受冰桶挑战",
       "onboard_time": 1689066516,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 599852,
-      "num": 599852,
-      "word": "那是62岁费翔的手",
-      "onboard_time": 1689069218,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 598722,
@@ -1523,6 +1523,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 532628,
+      "num": 2276078,
+      "word": "杭州超过40℃全天免费停车",
+      "onboard_time": 1689069035,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529387,
       "num": 529387,
       "word": "肖燕再现小娘惹经典造型",
@@ -1635,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 492695,
+      "num": 429469,
+      "word": "因为公司冰箱太满同事买了个小的",
+      "onboard_time": 1689070119,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 492543,
       "num": 492543,
       "word": "朱一龙文咏珊沙滩戏全是心眼",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1688988212,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 485626,
-      "num": 1745748,
-      "word": "杭州超过40℃全天免费停车",
-      "onboard_time": 1689069035,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485594,
@@ -1899,6 +1907,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 443851,
+      "num": 228492,
+      "word": "地铁的空气有多脏",
+      "onboard_time": 1689071437,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 442976,
       "num": 309954,
       "word": "吉林私搭浮桥多名过桥者发声",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1689052177,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 429469,
-      "num": 429469,
-      "word": "因为公司冰箱太满同事买了个小的",
-      "onboard_time": 1689070119,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 428281,
@@ -2243,6 +2251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385851,
+      "num": 385851,
+      "word": "福宝只是个不到三岁的宝宝啊",
+      "onboard_time": 1689067174,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 384656,
       "num": 384656,
       "word": "CA1524航班颠簸致1旅客1乘务员受伤",
@@ -2379,6 +2395,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 368080,
+      "num": 298658,
+      "word": "姥姥一直用着十年前我给她做的面挖子",
+      "onboard_time": 1689068856,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366035,
       "num": 366035,
       "word": "LPL季后赛落地西安",
@@ -2465,22 +2489,6 @@
       "onboard_time": 1688964817,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 354172,
-      "num": 298658,
-      "word": "姥姥一直用着十年前我给她做的面挖子",
-      "onboard_time": 1689068856,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 353589,
-      "num": 353589,
-      "word": "福宝只是个不到三岁的宝宝啊",
-      "onboard_time": 1689067174,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 350793,
@@ -2627,6 +2635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330132,
+      "num": 330132,
+      "word": "孟宴臣根本不这样说话",
+      "onboard_time": 1689066695,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328842,
       "num": 328842,
       "word": "原神",
@@ -2657,14 +2673,6 @@
       "onboard_time": 1688941275,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 321898,
-      "num": 321898,
-      "word": "孟宴臣根本不这样说话",
-      "onboard_time": 1689066695,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 318977,
@@ -3131,6 +3139,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 265966,
+      "num": 265966,
+      "word": "迪丽热巴在粉丝心中的地位",
+      "onboard_time": 1689071261,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265783,
       "num": 265783,
       "word": "女子打多份工养育去世哥哥孩子",
@@ -3371,6 +3387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246436,
+      "num": 246436,
+      "word": "袁弘说他老婆是张艺兴",
+      "onboard_time": 1689069341,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245993,
       "num": 224005,
       "word": "全圆佑顺毛黑框",
@@ -3443,20 +3467,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235684,
-      "num": 235684,
-      "word": "袁弘说他老婆是张艺兴",
-      "onboard_time": 1689069341,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235186,
       "num": 235186,
       "word": "如何看待村书记称浮桥搭建者说假话",
       "onboard_time": 1689044494,
       "rank": 40,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 235147,
+      "num": 225108,
+      "word": "GALA乐队音乐节现场摔提词器",
+      "onboard_time": 1689071319,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 234771,
@@ -3617,6 +3641,14 @@
       "onboard_time": 1688960973,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220015,
+      "num": 220015,
+      "word": "粉红兔子",
+      "onboard_time": 1689069878,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 218431,
@@ -3803,14 +3835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203406,
-      "num": 203406,
-      "word": "粉红兔子",
-      "onboard_time": 1689069878,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 203359,
       "num": 203359,
       "word": "ZB1出道发布会",
@@ -3929,6 +3953,14 @@
       "onboard_time": 1688948251,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196673,
+      "num": 196673,
+      "word": "烧香的不一定是善人",
+      "onboard_time": 1689071377,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 196634,
@@ -4051,6 +4083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184512,
+      "num": 184512,
+      "word": "熊猫演上班摸鱼的你",
+      "onboard_time": 1689071739,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184402,
       "num": 184402,
       "word": "肖战时影内啡肽穿搭",
@@ -4153,6 +4193,14 @@
       "onboard_time": 1689002316,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169106,
+      "num": 182913,
+      "word": "所有的妈妈都曾热烈过",
+      "onboard_time": 1689070961,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 168468,
@@ -4516,7 +4564,7 @@
     },
     {
       "raw_hot": 57334,
-      "num": 2960436,
+      "num": 3257789,
       "word": "今天是第19个中国航海日",
       "onboard_time": 1689067776,
       "rank": 2,

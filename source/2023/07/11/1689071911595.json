@@ -1,0 +1,410 @@
+{
+  "runTime": 1689071911595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9704648,
+        "num": 9704648,
+        "word": "宝格丽官网疑将台湾列为国家",
+        "onboard_time": 1689068255,
+        "rank": 0,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 590277,
+        "num": 4505184,
+        "word": "1米58男子苦练绣花一幅卖到6万8",
+        "onboard_time": 1689060693,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45846,
+        "num": 3257789,
+        "word": "今天是第19个中国航海日",
+        "onboard_time": 1689067776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3132517,
+        "num": 3132517,
+        "word": "宝格丽客服回应",
+        "onboard_time": 1689069940,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532628,
+        "num": 2276078,
+        "word": "杭州超过40℃全天免费停车",
+        "onboard_time": 1689069035,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1701609,
+        "num": 1701609,
+        "word": "为什么中国不禁止人名重复",
+        "onboard_time": 1689068132,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 308817,
+        "num": 1395822,
+        "word": "中方回应福宝当姐姐",
+        "onboard_time": 1689063754,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1375032,
+        "num": 1375032,
+        "word": "宝格丽",
+        "onboard_time": 1689053496,
+        "rank": 7,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 1160335,
+        "num": 1160335,
+        "word": "张若昀唐艺昕 性张力",
+        "onboard_time": 1689055714,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1157455,
+        "num": 1157455,
+        "word": "本以为殉情只是古老的传言",
+        "onboard_time": 1689066755,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1270793,
+        "num": 1010608,
+        "word": "关晓彤七年换来一句嫂子",
+        "onboard_time": 1689058230,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745360,
+        "num": 745360,
+        "word": "肖战下次不许穿黑色短裤",
+        "onboard_time": 1689068977,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 612396,
+        "num": 612396,
+        "word": "那是62岁费翔的手",
+        "onboard_time": 1689069218,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606336,
+        "num": 606336,
+        "word": "芈月宝格丽皮肤CG",
+        "onboard_time": 1689049419,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 600988,
+        "num": 600988,
+        "word": "吴昕录湖南卫视新综艺",
+        "onboard_time": 1689065673,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535583,
+        "num": 535583,
+        "word": "魏大勋演出了乌木沉香",
+        "onboard_time": 1689064115,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527700,
+        "num": 527700,
+        "word": "娱乐圈的真夫妻",
+        "onboard_time": 1689059432,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 503616,
+        "num": 503616,
+        "word": "IU接受冰桶挑战",
+        "onboard_time": 1689066516,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467000,
+        "num": 467000,
+        "word": "高叶工作室解散后援会",
+        "onboard_time": 1689060093,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385851,
+        "num": 385851,
+        "word": "福宝只是个不到三岁的宝宝啊",
+        "onboard_time": 1689067174,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 492695,
+        "num": 380192,
+        "word": "因为公司冰箱太满同事买了个小的",
+        "onboard_time": 1689070119,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372844,
+        "num": 372844,
+        "word": "肖战新剧妆造",
+        "onboard_time": 1689065496,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331221,
+        "num": 331221,
+        "word": "我这种女生大概快绝版了吧",
+        "onboard_time": 1689066273,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 330132,
+        "num": 330132,
+        "word": "孟宴臣根本不这样说话",
+        "onboard_time": 1689066695,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274267,
+        "num": 274267,
+        "word": "范丞丞一个人的韩剧",
+        "onboard_time": 1689065737,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273313,
+        "num": 273313,
+        "word": "三伏天为啥是减肥的好时候",
+        "onboard_time": 1689051037,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269807,
+        "num": 269807,
+        "word": "去拉萨第一天到第二天就回去了",
+        "onboard_time": 1689065856,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265966,
+        "num": 265966,
+        "word": "迪丽热巴在粉丝心中的地位",
+        "onboard_time": 1689071261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246436,
+        "num": 246436,
+        "word": "袁弘说他老婆是张艺兴",
+        "onboard_time": 1689069341,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229913,
+        "num": 229913,
+        "word": "迪丽热巴龚俊安乐传情头",
+        "onboard_time": 1689065737,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2829842,
+        "num": 229152,
+        "word": "宝格丽现有代言人",
+        "onboard_time": 1689067897,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 443851,
+        "num": 228492,
+        "word": "地铁的空气有多脏",
+        "onboard_time": 1689071437,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383715,
+        "num": 226654,
+        "word": "王者荣耀",
+        "onboard_time": 1689052177,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 368080,
+        "num": 225859,
+        "word": "姥姥一直用着十年前我给她做的面挖子",
+        "onboard_time": 1689068856,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235147,
+        "num": 225108,
+        "word": "GALA乐队音乐节现场摔提词器",
+        "onboard_time": 1689071319,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224178,
+        "num": 224178,
+        "word": "黄子韬带旗下艺人团建",
+        "onboard_time": 1689065014,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222556,
+        "num": 222556,
+        "word": "你们结婚的话会迁户口吗",
+        "onboard_time": 1689067535,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222020,
+        "num": 222020,
+        "word": "领导根本不懂什么叫请假",
+        "onboard_time": 1689067295,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220015,
+        "num": 220015,
+        "word": "粉红兔子",
+        "onboard_time": 1689069878,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 219518,
+        "num": 219518,
+        "word": "女团成员听到划水的反应",
+        "onboard_time": 1689067834,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 218915,
+        "num": 218915,
+        "word": "李木戈回应PPT转场",
+        "onboard_time": 1689065795,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213187,
+        "num": 213187,
+        "word": "关晓彤这真的是你吗",
+        "onboard_time": 1689061833,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211977,
+        "num": 211977,
+        "word": "微信可以购买苹果产品了",
+        "onboard_time": 1689059733,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203998,
+        "num": 203998,
+        "word": "警方回应网传拆浮桥后十余人溺亡",
+        "onboard_time": 1689066454,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196673,
+        "num": 196673,
+        "word": "烧香的不一定是善人",
+        "onboard_time": 1689071377,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189612,
+        "num": 189612,
+        "word": "陈思诚选朱一龙和倪妮的原因",
+        "onboard_time": 1689062076,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186725,
+        "num": 186725,
+        "word": "段嘉许颁奖礼公开示爱桑稚",
+        "onboard_time": 1689065856,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184512,
+        "num": 184512,
+        "word": "熊猫演上班摸鱼的你",
+        "onboard_time": 1689071739,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175650,
+        "num": 182913,
+        "word": "NMIXX回归新歌PartyOClock",
+        "onboard_time": 1689068737,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169106,
+        "num": 182913,
+        "word": "所有的妈妈都曾热烈过",
+        "onboard_time": 1689070961,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#星辰大海里的中国名字#"
+    }
+  }
+}
