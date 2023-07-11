@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689050264513,
+  "endTime": 1689052696619,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -48,6 +48,14 @@
       "word": "优衣库门店回应大学生发文吐槽",
       "onboard_time": 1689044858,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1589963,
+      "num": 1589963,
+      "word": "姜爷爷脸都笑烂了",
+      "onboard_time": 1689050020,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1035744,
+      "num": 1035744,
+      "word": "北京一外卖骑手违法超车致人死亡",
+      "onboard_time": 1689049476,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996559,
       "num": 996559,
       "word": "金奎彬晕倒",
@@ -200,6 +216,14 @@
       "word": "杨洋 方头明",
       "onboard_time": 1689001598,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 890758,
+      "num": 890758,
+      "word": "孟宴臣许沁 好可怕又美味的30S",
+      "onboard_time": 1689050318,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709610,
+      "num": 709610,
+      "word": "三伏天为啥是减肥的好时候",
+      "onboard_time": 1689051037,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667302,
       "num": 667302,
       "word": "三伏天",
@@ -289,6 +321,14 @@
       "onboard_time": 1689004173,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 628766,
+      "num": 507402,
+      "word": "陈立农留存离世粉丝遗物",
+      "onboard_time": 1689050618,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 614190,
@@ -379,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 527570,
+      "num": 527570,
+      "word": "大奉打更人",
+      "onboard_time": 1689050803,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526878,
       "num": 472580,
       "word": "魏大勋隐忍式哭戏",
@@ -459,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448642,
+      "num": 448642,
+      "word": "林孝埈中文接受采访",
+      "onboard_time": 1689050499,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 448213,
       "num": 448213,
       "word": "她脱下雨衣的那一刻真美",
@@ -480,6 +536,14 @@
       "word": "任敏玉骨遥专访",
       "onboard_time": 1689048275,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 433792,
+      "num": 433792,
+      "word": "桑延是段嘉许最开始的救赎",
+      "onboard_time": 1689050981,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -563,28 +627,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 392033,
-      "num": 369516,
-      "word": "北京一外卖骑手违法超车致人死亡",
-      "onboard_time": 1689049476,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390217,
       "num": 390217,
       "word": "婚礼前老公打篮球把脚摔骨折了",
       "onboard_time": 1689036517,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389706,
-      "num": 364872,
-      "word": "姜爷爷脸都笑烂了",
-      "onboard_time": 1689050020,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384894,
@@ -612,7 +660,7 @@
     },
     {
       "raw_hot": 383262,
-      "num": 363892,
+      "num": 367580,
       "word": "中层领导在公司的地位",
       "onboard_time": 1689049182,
       "rank": 38,
@@ -667,6 +715,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 349795,
+      "num": 349795,
+      "word": "芈月宝格丽皮肤CG",
+      "onboard_time": 1689049419,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 346132,
       "num": 346132,
       "word": "CA1524航班乘客讲述颠簸经过",
@@ -681,6 +737,14 @@
       "onboard_time": 1689040535,
       "rank": 33,
       "category": "幽默,动漫"
+    },
+    {
+      "raw_hot": 337291,
+      "num": 337291,
+      "word": "农民宰杀家养猪分售700元被罚款5万",
+      "onboard_time": 1689051159,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336585,
@@ -699,11 +763,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328737,
-      "num": 328737,
-      "word": "芈月宝格丽皮肤CG",
-      "onboard_time": 1689049419,
-      "rank": 37,
+      "raw_hot": 328842,
+      "num": 328842,
+      "word": "原神",
+      "onboard_time": 1689052298,
+      "rank": 34,
       "category": "游戏"
     },
     {
@@ -851,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269581,
+      "num": 269581,
+      "word": "助理回应黄子佼近况",
+      "onboard_time": 1689052356,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259469,
       "num": 259469,
       "word": "在五月天演唱会散场后求婚",
@@ -899,6 +971,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246719,
+      "num": 246719,
+      "word": "陈哲远晒段嘉许日记",
+      "onboard_time": 1689049961,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246268,
+      "num": 246268,
+      "word": "韩国福宝爷爷说太开心了",
+      "onboard_time": 1689052654,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245792,
       "num": 245792,
       "word": "公共场合看到情侣vs看到很要好的女生",
@@ -921,14 +1009,6 @@
       "onboard_time": 1689034172,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240211,
-      "num": 240211,
-      "word": "陈哲远晒段嘉许日记",
-      "onboard_time": 1689049961,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 235186,
