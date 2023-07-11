@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689110196513,
+  "endTime": 1689111251503,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33316,
+      "num": 33316,
+      "word": "闫桉终于来演偶像剧了",
+      "onboard_time": 1689110413,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32944,
       "num": 32944,
       "word": "德约科维奇晋级温网8强",
@@ -467,8 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25383,
-      "num": 26316,
+      "raw_hot": 26575,
+      "num": 26575,
       "word": "肖战大漠vlog",
       "onboard_time": 1689104652,
       "rank": 45,
