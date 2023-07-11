@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689106787087,
+  "endTime": 1689107648841,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -27803,6 +27803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 22252,
+      "num": 26316,
+      "word": "肖战大漠vlog",
+      "onboard_time": 1689104652,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21998,
       "num": 197620,
       "word": "崇礼168无痕山野有我在",
@@ -27817,14 +27825,6 @@
       "onboard_time": 1688446840,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21332,
-      "num": 26316,
-      "word": "肖战大漠vlog",
-      "onboard_time": 1689104652,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 21314,
