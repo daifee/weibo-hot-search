@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689060857182,
+  "endTime": 1689063871993,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2813121,
-      "num": 501616,
+      "num": 604858,
       "word": "关晓彤七年换来一句嫂子",
       "onboard_time": 1689058230,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2205992,
+      "num": 2205992,
+      "word": "宝格丽",
+      "onboard_time": 1689053496,
+      "rank": 19,
+      "category": "时尚,社会新闻"
+    },
+    {
       "raw_hot": 2205263,
       "num": 2205263,
       "word": "李咏女儿将出道",
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1783395,
+      "num": 1294013,
+      "word": "高叶工作室解散后援会",
+      "onboard_time": 1689060093,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1740683,
       "num": 1740683,
       "word": "杨洋大大方方营业",
@@ -289,14 +305,6 @@
       "onboard_time": 1688983233,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1561309,
-      "num": 1561309,
-      "word": "宝格丽",
-      "onboard_time": 1689053496,
-      "rank": 19,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1554791,
@@ -375,6 +383,14 @@
       "num": 1334758,
       "word": "黄渤一把拉走袁泉",
       "onboard_time": 1688996793,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1331643,
+      "num": 1331643,
+      "word": "陈思诚选朱一龙和倪妮的原因",
+      "onboard_time": 1689062076,
       "rank": 1,
       "category": "影视"
     },
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1101075,
+      "num": 1101075,
+      "word": "1米58男子苦练绣花一幅卖到6万8",
+      "onboard_time": 1689060693,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1098853,
       "num": 766779,
       "word": "日男子照顾瘫痪妻子40年将其推入大海",
@@ -547,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 999681,
+      "num": 603241,
+      "word": "娱乐圈的真夫妻",
+      "onboard_time": 1689059432,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 996559,
       "num": 996559,
       "word": "金奎彬晕倒",
@@ -585,14 +617,6 @@
       "onboard_time": 1688971532,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 988151,
-      "num": 431089,
-      "word": "娱乐圈的真夫妻",
-      "onboard_time": 1689059432,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 978720,
@@ -819,6 +843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 822578,
+      "num": 822578,
+      "word": "xmm",
+      "onboard_time": 1689059194,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 816891,
       "num": 816891,
       "word": "专家预计今年全球还将多次打破高温纪录",
@@ -857,6 +889,14 @@
       "onboard_time": 1688996555,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794910,
+      "num": 794910,
+      "word": "关晓彤这真的是你吗",
+      "onboard_time": 1689061833,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 783437,
@@ -1075,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 661828,
+      "num": 586642,
+      "word": "微信可以购买苹果产品了",
+      "onboard_time": 1689059733,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 661325,
       "num": 579065,
       "word": "许沁改姓",
@@ -1251,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562413,
+      "num": 562413,
+      "word": "爱宝诞下双胞胎韩网评论",
+      "onboard_time": 1689059076,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561558,
       "num": 499598,
       "word": "三大平台接档剧",
@@ -1280,6 +1336,14 @@
       "word": "孙珍妮又演狐狸",
       "onboard_time": 1689000576,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 558793,
+      "num": 558793,
+      "word": "叫我综艺咖可以叫我演员也可以",
+      "onboard_time": 1689060454,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1435,14 +1499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 496175,
-      "num": 420750,
-      "word": "高叶工作室解散后援会",
-      "onboard_time": 1689060093,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 494149,
       "num": 494149,
       "word": "鹿晗打不过就加入",
@@ -1571,14 +1627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 467912,
-      "num": 244755,
-      "word": "微信可以购买苹果产品了",
-      "onboard_time": 1689059733,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 467554,
       "num": 467554,
       "word": "自闭症儿子无学上妈妈辞职办学校",
@@ -1643,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452878,
+      "num": 452878,
+      "word": "吉克隽逸建议大家多吃蓝莓",
+      "onboard_time": 1689056854,
+      "rank": 29,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 451878,
       "num": 451878,
       "word": "林俊杰晒与lesserafim合照",
@@ -1657,6 +1713,14 @@
       "onboard_time": 1689034413,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450063,
+      "num": 361110,
+      "word": "伪骨科代餐",
+      "onboard_time": 1689061232,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 449038,
@@ -1713,6 +1777,14 @@
       "onboard_time": 1688960428,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438688,
+      "num": 438688,
+      "word": "芈月宝格丽皮肤CG",
+      "onboard_time": 1689049419,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 436577,
@@ -1875,14 +1947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 419276,
-      "num": 419276,
-      "word": "吉克隽逸建议大家多吃蓝莓",
-      "onboard_time": 1689056854,
-      "rank": 29,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 417636,
       "num": 381439,
       "word": "毛晓慧是曾少年的肖千喜",
@@ -1993,14 +2057,6 @@
       "onboard_time": 1688970096,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 385213,
-      "num": 385213,
-      "word": "xmm",
-      "onboard_time": 1689059194,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 384656,
@@ -2115,11 +2171,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 372314,
-      "num": 372314,
-      "word": "爱宝诞下双胞胎韩网评论",
-      "onboard_time": 1689059076,
-      "rank": 27,
+      "raw_hot": 370807,
+      "num": 370807,
+      "word": "心理有问题的人半夜是睡不着的",
+      "onboard_time": 1689062735,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2195,6 +2251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356200,
+      "num": 356200,
+      "word": "如果我的人间烟火是韩剧",
+      "onboard_time": 1689060335,
+      "rank": 35,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 355357,
       "num": 355357,
       "word": "密室大逃脱绝命医院",
@@ -2217,14 +2281,6 @@
       "onboard_time": 1689042033,
       "rank": 23,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 349795,
-      "num": 349795,
-      "word": "芈月宝格丽皮肤CG",
-      "onboard_time": 1689049419,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 349621,
@@ -2667,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285648,
+      "num": 270178,
+      "word": "大张伟说杨幂有鲁豫的感觉",
+      "onboard_time": 1689060454,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284192,
       "num": 284192,
       "word": "不设限毕业礼共唱歌单",
@@ -2753,6 +2817,14 @@
       "onboard_time": 1688978971,
       "rank": 38,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 272357,
+      "num": 272357,
+      "word": "四川熊猫撤回了一个哈喽",
+      "onboard_time": 1689061717,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 271762,
@@ -2931,14 +3003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253413,
-      "num": 244142,
-      "word": "大张伟说杨幂有鲁豫的感觉",
-      "onboard_time": 1689060454,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252957,
       "num": 260532,
       "word": "中国女足",
@@ -2961,14 +3025,6 @@
       "onboard_time": 1688994630,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252477,
-      "num": 252477,
-      "word": "1米58男子苦练绣花一幅卖到6万8",
-      "onboard_time": 1689060693,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251243,
@@ -3000,6 +3056,14 @@
       "word": "亲历者称飞机颠簸比文字描述可怕得多",
       "onboard_time": 1689049898,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249880,
+      "num": 249880,
+      "word": "谁觉得核污染水可以喝就供给谁",
+      "onboard_time": 1689062614,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3083,20 +3147,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240850,
-      "num": 240850,
-      "word": "如果我的人间烟火是韩剧",
-      "onboard_time": 1689060335,
-      "rank": 35,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 240538,
       "num": 240538,
       "word": "熊猫泡澡小手一直在水里扑腾",
       "onboard_time": 1689034172,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239461,
+      "num": 239461,
+      "word": "找出真正的工藤新一",
+      "onboard_time": 1689062796,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 235186,
@@ -3185,14 +3249,6 @@
       "onboard_time": 1688950593,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225458,
-      "num": 225458,
-      "word": "叫我综艺咖可以叫我演员也可以",
-      "onboard_time": 1689060454,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 224942,
@@ -3803,6 +3859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163824,
+      "num": 163824,
+      "word": "中方回应福宝当姐姐",
+      "onboard_time": 1689063754,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163377,
       "num": 163377,
       "word": "为了带猫咪做绝育有多拼",
@@ -3817,6 +3881,14 @@
       "onboard_time": 1689032187,
       "rank": 48,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 162249,
+      "num": 162249,
+      "word": "互关文学1.0",
+      "onboard_time": 1689063697,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 162192,
