@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689111251503,
+  "endTime": 1689113872036,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -26771,6 +26771,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 95829,
+      "num": 95829,
+      "word": "闫桉终于来演偶像剧了",
+      "onboard_time": 1689110413,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95355,
       "num": 95355,
       "word": "最近浙江人烧葫芦前最好先舔一舔",
@@ -27563,6 +27571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39943,
+      "num": 39943,
+      "word": "王一博晒分层",
+      "onboard_time": 1689112153,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 39476,
       "num": 51090,
       "word": "Angelababy尘缘一滴泪镜头",
@@ -27608,6 +27624,14 @@
       "word": "周翊然6月全平台涨粉第一",
       "onboard_time": 1688585714,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38182,
+      "num": 38182,
+      "word": "肖战大漠vlog",
+      "onboard_time": 1689104652,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -27681,14 +27705,6 @@
       "onboard_time": 1688411054,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 33316,
-      "num": 33316,
-      "word": "闫桉终于来演偶像剧了",
-      "onboard_time": 1689110413,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 33266,
@@ -27803,20 +27819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26575,
-      "num": 26575,
-      "word": "肖战大漠vlog",
-      "onboard_time": 1689104652,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25563,
       "num": 48822,
       "word": "GEN战胜T1",
       "onboard_time": 1688845036,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25344,
+      "num": 38084,
+      "word": "西安的雨没有100斤寸步难行",
+      "onboard_time": 1689113656,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21998,

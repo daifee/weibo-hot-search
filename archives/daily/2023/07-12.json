@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689111251503,
+  "endTime": 1689113872036,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -419,6 +419,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 95829,
+      "num": 95829,
+      "word": "闫桉终于来演偶像剧了",
+      "onboard_time": 1689110413,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75309,
       "num": 75309,
       "word": "5岁娃心疼爷奶夜里捡瓶子补贴家用",
@@ -443,12 +451,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33316,
-      "num": 33316,
-      "word": "闫桉终于来演偶像剧了",
-      "onboard_time": 1689110413,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 39943,
+      "num": 39943,
+      "word": "王一博晒分层",
+      "onboard_time": 1689112153,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 38182,
+      "num": 38182,
+      "word": "肖战大漠vlog",
+      "onboard_time": 1689104652,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 32944,
@@ -475,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26575,
-      "num": 26575,
-      "word": "肖战大漠vlog",
-      "onboard_time": 1689104652,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 25344,
+      "num": 38084,
+      "word": "西安的雨没有100斤寸步难行",
+      "onboard_time": 1689113656,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
