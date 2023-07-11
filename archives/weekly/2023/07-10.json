@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689117514658,
+  "endTime": 1689118459021,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -227,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2184548,
+      "num": 2184548,
+      "word": "如果微信显示已读的话",
+      "onboard_time": 1689084101,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2157597,
       "num": 654704,
       "word": "Selina怀孕8个月状态",
@@ -345,14 +353,6 @@
       "onboard_time": 1689000158,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1726082,
-      "num": 1726082,
-      "word": "如果微信显示已读的话",
-      "onboard_time": 1689084101,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 1711007,
@@ -1147,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782486,
+      "num": 782486,
+      "word": "骑手捂住宝宝耳朵进KTV给顾客送餐",
+      "onboard_time": 1689116661,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766760,
       "num": 766760,
       "word": "父亲淡定晒相处25年的姐弟俩打架",
@@ -1259,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706934,
+      "num": 706934,
+      "word": "父亲开家长会睡觉和儿子同一姿势",
+      "onboard_time": 1689091472,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 704676,
       "num": 704676,
       "word": "李玟",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1689053072,
       "rank": 31,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 691618,
-      "num": 691618,
-      "word": "父亲开家长会睡觉和儿子同一姿势",
-      "onboard_time": 1689091472,
-      "rank": 16,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 690425,
@@ -3115,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313181,
+      "num": 313181,
+      "word": "成都暴雨",
+      "onboard_time": 1689116961,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312874,
       "num": 312874,
       "word": "毛晓慧是新神雕侠侣的小龙女",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1689057151,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 297332,
+      "num": 297332,
+      "word": "查理和巧克力工厂前传预告",
+      "onboard_time": 1689117685,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 296452,
@@ -3755,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254939,
+      "num": 254939,
+      "word": "闫桉终于来演偶像剧了",
+      "onboard_time": 1689110413,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254435,
       "num": 199643,
       "word": "徐穗珍更新ins",
@@ -3979,14 +4011,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 239406,
-      "num": 239406,
-      "word": "闫桉终于来演偶像剧了",
-      "onboard_time": 1689110413,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239341,
       "num": 239341,
       "word": "你们结婚的话会迁户口吗",
@@ -4067,12 +4091,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227971,
-      "num": 227971,
-      "word": "骑手捂住宝宝耳朵进KTV给顾客送餐",
-      "onboard_time": 1689116661,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 228907,
+      "num": 146784,
+      "word": "肖战分享时影同款火烧云",
+      "onboard_time": 1689118106,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 227965,
@@ -4243,6 +4267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216963,
+      "num": 216963,
+      "word": "西安的雨没有100斤寸步难行",
+      "onboard_time": 1689113656,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216405,
       "num": 216405,
       "word": "关于橘猫的传闻是真的",
@@ -4297,6 +4329,14 @@
       "onboard_time": 1689044977,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213802,
+      "num": 213802,
+      "word": "黑猩猩喝绿豆汤真的好像人",
+      "onboard_time": 1689116661,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213736,
@@ -4883,28 +4923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163515,
-      "num": 163515,
-      "word": "西安的雨没有100斤寸步难行",
-      "onboard_time": 1689113656,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163377,
       "num": 163377,
       "word": "为了带猫咪做绝育有多拼",
       "onboard_time": 1688977173,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 163343,
-      "num": 163343,
-      "word": "成都暴雨",
-      "onboard_time": 1689116961,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163117,
@@ -5027,6 +5051,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 140569,
+      "num": 140569,
+      "word": "费翔老师我妈爱你",
+      "onboard_time": 1689114556,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135640,
       "num": 230713,
       "word": "淘宝为毕业生新增60000岗位",
@@ -5067,12 +5099,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 124689,
-      "num": 124689,
-      "word": "费翔老师我妈爱你",
-      "onboard_time": 1689114556,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 124951,
+      "num": 124951,
+      "word": "我心中的种地吧和十个勤天",
+      "onboard_time": 1689118166,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 121509,
@@ -5083,8 +5115,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 111623,
-      "num": 111623,
+      "raw_hot": 117287,
+      "num": 117287,
       "word": "王一博晒分层",
       "onboard_time": 1689112153,
       "rank": 39,
@@ -5105,14 +5137,6 @@
       "onboard_time": 1688945425,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107007,
-      "num": 107007,
-      "word": "黑猩猩喝绿豆汤真的好像人",
-      "onboard_time": 1689116661,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105917,

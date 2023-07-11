@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689117514658,
+  "endTime": 1689118459021,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2184548,
+      "num": 2184548,
+      "word": "如果微信显示已读的话",
+      "onboard_time": 1689084101,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2085822,
       "num": 2085822,
       "word": "宝格丽道歉别弄成专供中国大陆",
       "onboard_time": 1689081698,
       "rank": 1,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1726082,
-      "num": 1726082,
-      "word": "如果微信显示已读的话",
-      "onboard_time": 1689084101,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 912103,
@@ -51,20 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 782486,
+      "num": 782486,
+      "word": "骑手捂住宝宝耳朵进KTV给顾客送餐",
+      "onboard_time": 1689116661,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706934,
+      "num": 706934,
+      "word": "父亲开家长会睡觉和儿子同一姿势",
+      "onboard_time": 1689091472,
+      "rank": 16,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 705119,
       "num": 598611,
       "word": "姐姐30万赎弟弟没出缅甸又遭转卖",
       "onboard_time": 1689081157,
       "rank": 7,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 691618,
-      "num": 691618,
-      "word": "父亲开家长会睡觉和儿子同一姿势",
-      "onboard_time": 1689091472,
-      "rank": 16,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 623294,
@@ -131,8 +139,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 417143,
-      "num": 417143,
+      "raw_hot": 426517,
+      "num": 426517,
       "word": "韩幽灵儿童案677名孩子生死不明",
       "onboard_time": 1689082595,
       "rank": 15,
@@ -187,12 +195,28 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 313181,
+      "num": 313181,
+      "word": "成都暴雨",
+      "onboard_time": 1689116961,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306548,
       "num": 306548,
       "word": "为什么中国不禁止人名重复",
       "onboard_time": 1689068132,
       "rank": 23,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 297332,
+      "num": 297332,
+      "word": "查理和巧克力工厂前传预告",
+      "onboard_time": 1689117685,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 291603,
@@ -251,6 +275,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 254939,
+      "num": 254939,
+      "word": "闫桉终于来演偶像剧了",
+      "onboard_time": 1689110413,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240866,
       "num": 225541,
       "word": "肖战下次不许穿黑色短裤",
@@ -259,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239406,
-      "num": 239406,
-      "word": "闫桉终于来演偶像剧了",
-      "onboard_time": 1689110413,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 228907,
+      "num": 146784,
+      "word": "肖战分享时影同款火烧云",
+      "onboard_time": 1689118106,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 228074,
@@ -275,20 +307,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 227971,
-      "num": 227971,
-      "word": "骑手捂住宝宝耳朵进KTV给顾客送餐",
-      "onboard_time": 1689116661,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223316,
       "num": 223316,
       "word": "本以为殉情只是古老的传言",
       "onboard_time": 1689066755,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216963,
+      "num": 216963,
+      "word": "西安的雨没有100斤寸步难行",
+      "onboard_time": 1689113656,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214420,
@@ -305,6 +337,14 @@
       "onboard_time": 1689083500,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213802,
+      "num": 213802,
+      "word": "黑猩猩喝绿豆汤真的好像人",
+      "onboard_time": 1689116661,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208953,
@@ -339,8 +379,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168021,
-      "num": 168021,
+      "raw_hot": 181588,
+      "num": 181588,
       "word": "卢昱晓演的皇甫珊",
       "onboard_time": 1689082057,
       "rank": 41,
@@ -353,22 +393,6 @@
       "onboard_time": 1689089135,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163515,
-      "num": 163515,
-      "word": "西安的雨没有100斤寸步难行",
-      "onboard_time": 1689113656,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163343,
-      "num": 163343,
-      "word": "成都暴雨",
-      "onboard_time": 1689116961,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160091,
@@ -427,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140569,
+      "num": 140569,
+      "word": "费翔老师我妈爱你",
+      "onboard_time": 1689114556,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137684,
       "num": 137684,
       "word": "女子被拐26年后回家父母已身亡",
@@ -443,28 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124689,
-      "num": 124689,
-      "word": "费翔老师我妈爱你",
-      "onboard_time": 1689114556,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 124951,
+      "num": 124951,
+      "word": "我心中的种地吧和十个勤天",
+      "onboard_time": 1689118166,
+      "rank": 38,
+      "category": "综艺"
     },
     {
-      "raw_hot": 111623,
-      "num": 111623,
+      "raw_hot": 117287,
+      "num": 117287,
       "word": "王一博晒分层",
       "onboard_time": 1689112153,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 107007,
-      "num": 107007,
-      "word": "黑猩猩喝绿豆汤真的好像人",
-      "onboard_time": 1689116661,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105701,
