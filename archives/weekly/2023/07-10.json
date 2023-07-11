@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689074141097,
+  "endTime": 1689075250945,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1022920,
+      "num": 1022920,
+      "word": "LPL比赛延期",
+      "onboard_time": 1689073598,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1014571,
       "num": 1014571,
       "word": "杨紫工作室公布名誉维权案进展",
@@ -681,6 +689,14 @@
       "onboard_time": 1688971532,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 987481,
+      "num": 987481,
+      "word": "警方通报无锡3岁女童事件调查结果",
+      "onboard_time": 1689073897,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 978720,
@@ -857,14 +873,6 @@
       "onboard_time": 1688914774,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 878531,
-      "num": 878531,
-      "word": "LPL比赛延期",
-      "onboard_time": 1689073598,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 875309,
@@ -1339,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 597951,
+      "num": 232028,
+      "word": "爸爸带16岁女儿做医美改善眼睑下垂",
+      "onboard_time": 1689073833,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590479,
       "num": 590479,
       "word": "古人没有空调怎么过夏天",
@@ -1475,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557575,
+      "num": 3112706,
+      "word": "杭州超过40℃全天免费停车",
+      "onboard_time": 1689069035,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556901,
       "num": 1659262,
       "word": "中方回应福宝当姐姐",
@@ -1537,14 +1561,6 @@
       "onboard_time": 1688921246,
       "rank": 18,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 532628,
-      "num": 2276078,
-      "word": "杭州超过40℃全天免费停车",
-      "onboard_time": 1689069035,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 529387,
@@ -2419,14 +2435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 366491,
-      "num": 366491,
-      "word": "警方通报无锡3岁女童事件调查结果",
-      "onboard_time": 1689073897,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366035,
       "num": 366035,
       "word": "LPL季后赛落地西安",
@@ -3227,6 +3235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262724,
+      "num": 262724,
+      "word": "青旅回应不接待35岁以上人群",
+      "onboard_time": 1689074015,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 261805,
       "num": 261805,
       "word": "赵露思济南",
@@ -3401,6 +3417,14 @@
       "onboard_time": 1689039455,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247606,
+      "num": 227586,
+      "word": "这才是导师想看的开题报告",
+      "onboard_time": 1689074616,
+      "rank": 33,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 247073,
@@ -3603,20 +3627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226882,
+      "num": 226882,
+      "word": "网友总结杨洋的演技",
+      "onboard_time": 1689074854,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225834,
       "num": 225834,
       "word": "周一综合症",
       "onboard_time": 1688950593,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225282,
-      "num": 225282,
-      "word": "爸爸带16岁女儿做医美改善眼睑下垂",
-      "onboard_time": 1689073833,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224942,
@@ -3817,6 +3841,14 @@
       "onboard_time": 1689039693,
       "rank": 45,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 210260,
+      "num": 210260,
+      "word": "段嘉许和桑稚的22岁",
+      "onboard_time": 1689074794,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 209649,
@@ -4307,14 +4339,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 163306,
-      "num": 163306,
-      "word": "青旅回应不接待35岁以上人群",
-      "onboard_time": 1689074015,
-      "rank": 44,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 163117,
       "num": 201345,
       "word": "间谍过家家",
@@ -4329,6 +4353,14 @@
       "onboard_time": 1689003695,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161251,
+      "num": 161251,
+      "word": "安乐传",
+      "onboard_time": 1689075214,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 160765,
