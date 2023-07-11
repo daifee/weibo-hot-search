@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689056705657,
+  "endTime": 1689057552512,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2901542,
+      "num": 2901542,
+      "word": "张若昀唐艺昕双人杂志",
+      "onboard_time": 1689053856,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2867069,
       "num": 874314,
       "word": "李玟唯一一部主演电影",
@@ -681,14 +689,6 @@
       "onboard_time": 1688551893,
       "rank": 25,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 2832936,
-      "num": 2832936,
-      "word": "张若昀唐艺昕双人杂志",
-      "onboard_time": 1689053856,
-      "rank": 0,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2807356,
@@ -881,6 +881,14 @@
       "onboard_time": 1688884049,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2499299,
+      "num": 1564563,
+      "word": "张若昀唐艺昕 性张力",
+      "onboard_time": 1689055714,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2474381,
@@ -1763,6 +1771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1797958,
+      "num": 1797958,
+      "word": "三伏天为啥是减肥的好时候",
+      "onboard_time": 1689051037,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1796740,
       "num": 1796740,
       "word": "章泽天回应拒绝张艺谋演戏",
@@ -2131,14 +2147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1584524,
-      "num": 1584524,
-      "word": "三伏天为啥是减肥的好时候",
-      "onboard_time": 1689051037,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1571453,
       "num": 1571453,
       "word": "在孙权墓前放中科大录取通知书",
@@ -2153,6 +2161,14 @@
       "onboard_time": 1688347113,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1561309,
+      "num": 1561309,
+      "word": "宝格丽",
+      "onboard_time": 1689053496,
+      "rank": 19,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1559386,
@@ -2377,14 +2393,6 @@
       "onboard_time": 1688994153,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1454493,
-      "num": 1454493,
-      "word": "宝格丽",
-      "onboard_time": 1689053496,
-      "rank": 19,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1451655,
@@ -3281,14 +3289,6 @@
       "onboard_time": 1688487449,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1159528,
-      "num": 305131,
-      "word": "张若昀唐艺昕 性张力",
-      "onboard_time": 1689055714,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1159263,
@@ -6699,6 +6699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 703473,
+      "num": 703473,
+      "word": "学区房是凶宅你会买吗",
+      "onboard_time": 1689055414,
+      "rank": 15,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 703406,
       "num": 703406,
       "word": "seventeen官宣TMEA",
@@ -6777,6 +6785,14 @@
       "onboard_time": 1688348429,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 695484,
+      "num": 695484,
+      "word": "山航三年亏损110亿元",
+      "onboard_time": 1689053072,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 695176,
@@ -7315,14 +7331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 660957,
-      "num": 660957,
-      "word": "山航三年亏损110亿元",
-      "onboard_time": 1689053072,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 660807,
       "num": 660807,
       "word": "当村门口路过一个年轻陌生人时",
@@ -7841,6 +7849,14 @@
       "onboard_time": 1688902352,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 625858,
+      "num": 625858,
+      "word": "张歆艺被叫成张艺兴",
+      "onboard_time": 1689056073,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 625610,
@@ -9811,14 +9827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 499737,
-      "num": 499737,
-      "word": "学区房是凶宅你会买吗",
-      "onboard_time": 1689055414,
-      "rank": 15,
-      "category": "影视,社会新闻"
-    },
-    {
       "raw_hot": 499563,
       "num": 499563,
       "word": "iG好牛",
@@ -11395,14 +11403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436024,
-      "num": 436024,
-      "word": "张歆艺被叫成张艺兴",
-      "onboard_time": 1689056073,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 435881,
       "num": 435881,
       "word": "中方回应越南因南海九段线禁映芭比",
@@ -11537,6 +11537,14 @@
       "onboard_time": 1688951130,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 430333,
+      "num": 408709,
+      "word": "王者荣耀",
+      "onboard_time": 1688279192,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 430171,
@@ -12073,14 +12081,6 @@
       "onboard_time": 1688640094,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 408709,
-      "num": 408709,
-      "word": "王者荣耀",
-      "onboard_time": 1688279192,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 408289,
@@ -14731,6 +14731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329134,
+      "num": 329134,
+      "word": "福宝",
+      "onboard_time": 1689057396,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329045,
       "num": 250124,
       "word": "朱一龙路演哭了",
@@ -17299,6 +17307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271998,
+      "num": 271998,
+      "word": "吉克隽逸建议大家多吃蓝莓",
+      "onboard_time": 1689056854,
+      "rank": 29,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 271640,
       "num": 271640,
       "word": "存钱是真的会上瘾",
@@ -17384,6 +17400,14 @@
       "word": "毛不易唱不染",
       "onboard_time": 1688262751,
       "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 269580,
+      "num": 269580,
+      "word": "林宥嘉 抢票",
+      "onboard_time": 1689057151,
+      "rank": 32,
       "category": "音乐"
     },
     {
@@ -17569,6 +17593,14 @@
       "onboard_time": 1688402013,
       "rank": 32,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 265613,
+      "num": 265613,
+      "word": "福宝知道自己当姐姐了吗",
+      "onboard_time": 1689056552,
+      "rank": 40,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 265476,
@@ -20433,14 +20465,6 @@
       "onboard_time": 1688711317,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218790,
-      "num": 218790,
-      "word": "福宝知道自己当姐姐了吗",
-      "onboard_time": 1689056552,
-      "rank": 40,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 218742,

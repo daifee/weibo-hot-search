@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689056705657,
+  "endTime": 1689057552512,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2832936,
-      "num": 2832936,
+      "raw_hot": 2901542,
+      "num": 2901542,
       "word": "张若昀唐艺昕双人杂志",
       "onboard_time": 1689053856,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1689039755,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2499299,
+      "num": 1564563,
+      "word": "张若昀唐艺昕 性张力",
+      "onboard_time": 1689055714,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2282291,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1797958,
+      "num": 1797958,
+      "word": "三伏天为啥是减肥的好时候",
+      "onboard_time": 1689051037,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1589963,
       "num": 1589963,
       "word": "姜爷爷脸都笑烂了",
@@ -75,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1584524,
-      "num": 1584524,
-      "word": "三伏天为啥是减肥的好时候",
-      "onboard_time": 1689051037,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 1561309,
+      "num": 1561309,
+      "word": "宝格丽",
+      "onboard_time": 1689053496,
+      "rank": 19,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1554791,
@@ -97,14 +113,6 @@
       "onboard_time": 1689030863,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1454493,
-      "num": 1454493,
-      "word": "宝格丽",
-      "onboard_time": 1689053496,
-      "rank": 19,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1410075,
@@ -193,14 +201,6 @@
       "onboard_time": 1689049476,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1159528,
-      "num": 305131,
-      "word": "张若昀唐艺昕 性张力",
-      "onboard_time": 1689055714,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1087454,
@@ -323,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703473,
+      "num": 703473,
+      "word": "学区房是凶宅你会买吗",
+      "onboard_time": 1689055414,
+      "rank": 15,
+      "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 695484,
+      "num": 695484,
+      "word": "山航三年亏损110亿元",
+      "onboard_time": 1689053072,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 667302,
       "num": 667302,
       "word": "三伏天",
@@ -347,14 +363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 660957,
-      "num": 660957,
-      "word": "山航三年亏损110亿元",
-      "onboard_time": 1689053072,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 639468,
       "num": 507402,
       "word": "陈立农留存离世粉丝遗物",
@@ -368,6 +376,14 @@
       "word": "孟子义算命",
       "onboard_time": 1689004173,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 625858,
+      "num": 625858,
+      "word": "张歆艺被叫成张艺兴",
+      "onboard_time": 1689056073,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -507,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499737,
-      "num": 499737,
-      "word": "学区房是凶宅你会买吗",
-      "onboard_time": 1689055414,
-      "rank": 15,
-      "category": "影视,社会新闻"
-    },
-    {
       "raw_hot": 492543,
       "num": 492543,
       "word": "朱一龙文咏珊沙滩戏全是心眼",
@@ -611,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436024,
-      "num": 436024,
-      "word": "张歆艺被叫成张艺兴",
-      "onboard_time": 1689056073,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 434003,
       "num": 381618,
       "word": "任敏玉骨遥专访",
@@ -633,6 +633,14 @@
       "onboard_time": 1689041432,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430333,
+      "num": 408709,
+      "word": "王者荣耀",
+      "onboard_time": 1689052177,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 428252,
@@ -681,14 +689,6 @@
       "onboard_time": 1689030322,
       "rank": 8,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 408709,
-      "num": 408709,
-      "word": "王者荣耀",
-      "onboard_time": 1689052177,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 406740,
@@ -856,6 +856,14 @@
       "word": "国航回应飞机颠簸",
       "onboard_time": 1689045815,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329134,
+      "num": 329134,
+      "word": "福宝",
+      "onboard_time": 1689057396,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271998,
+      "num": 271998,
+      "word": "吉克隽逸建议大家多吃蓝莓",
+      "onboard_time": 1689056854,
+      "rank": 29,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 271467,
       "num": 271467,
       "word": "权顺荣用中文问有T吗",
@@ -1041,6 +1057,22 @@
       "onboard_time": 1689044254,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269580,
+      "num": 269580,
+      "word": "林宥嘉 抢票",
+      "onboard_time": 1689057151,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 265613,
+      "num": 265613,
+      "word": "福宝知道自己当姐姐了吗",
+      "onboard_time": 1689056552,
+      "rank": 40,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 259469,
@@ -1169,14 +1201,6 @@
       "onboard_time": 1689004829,
       "rank": 30,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 218790,
-      "num": 218790,
-      "word": "福宝知道自己当姐姐了吗",
-      "onboard_time": 1689056552,
-      "rank": 40,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 216405,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1689040829,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 174130,
+      "num": 174130,
+      "word": "密室大逃脱",
+      "onboard_time": 1689057452,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 172492,

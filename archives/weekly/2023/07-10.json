@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689056705657,
+  "endTime": 1689057552512,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2832936,
-      "num": 2832936,
+      "raw_hot": 2901542,
+      "num": 2901542,
       "word": "张若昀唐艺昕双人杂志",
       "onboard_time": 1689053856,
       "rank": 0,
@@ -97,6 +97,14 @@
       "onboard_time": 1688961514,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2499299,
+      "num": 1564563,
+      "word": "张若昀唐艺昕 性张力",
+      "onboard_time": 1689055714,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2474381,
@@ -211,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1797958,
+      "num": 1797958,
+      "word": "三伏天为啥是减肥的好时候",
+      "onboard_time": 1689051037,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1740683,
       "num": 1740683,
       "word": "杨洋大大方方营业",
@@ -259,20 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1584524,
-      "num": 1584524,
-      "word": "三伏天为啥是减肥的好时候",
-      "onboard_time": 1689051037,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1571453,
       "num": 1571453,
       "word": "在孙权墓前放中科大录取通知书",
       "onboard_time": 1688983233,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1561309,
+      "num": 1561309,
+      "word": "宝格丽",
+      "onboard_time": 1689053496,
+      "rank": 19,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1554791,
@@ -305,14 +321,6 @@
       "onboard_time": 1688994153,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1454493,
-      "num": 1454493,
-      "word": "宝格丽",
-      "onboard_time": 1689053496,
-      "rank": 19,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1417629,
@@ -457,14 +465,6 @@
       "onboard_time": 1689049476,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1159528,
-      "num": 305131,
-      "word": "张若昀唐艺昕 性张力",
-      "onboard_time": 1689055714,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1157870,
@@ -963,6 +963,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703473,
+      "num": 703473,
+      "word": "学区房是凶宅你会买吗",
+      "onboard_time": 1689055414,
+      "rank": 15,
+      "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 695484,
+      "num": 695484,
+      "word": "山航三年亏损110亿元",
+      "onboard_time": 1689053072,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 690425,
       "num": 655624,
       "word": "偷偷藏不住算爆剧吗",
@@ -1051,14 +1067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 660957,
-      "num": 660957,
-      "word": "山航三年亏损110亿元",
-      "onboard_time": 1689053072,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 659765,
       "num": 467239,
       "word": "赵丽颖蝴蝶结白裙",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1688916453,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 625858,
+      "num": 625858,
+      "word": "张歆艺被叫成张艺兴",
+      "onboard_time": 1689056073,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 619843,
@@ -1403,14 +1419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 499737,
-      "num": 499737,
-      "word": "学区房是凶宅你会买吗",
-      "onboard_time": 1689055414,
-      "rank": 15,
-      "category": "影视,社会新闻"
-    },
-    {
       "raw_hot": 494149,
       "num": 494149,
       "word": "鹿晗打不过就加入",
@@ -1675,14 +1683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 436024,
-      "num": 436024,
-      "word": "张歆艺被叫成张艺兴",
-      "onboard_time": 1689056073,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 434902,
       "num": 434902,
       "word": "章昊solo曲",
@@ -1737,6 +1737,14 @@
       "onboard_time": 1688951130,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 430333,
+      "num": 408709,
+      "word": "王者荣耀",
+      "onboard_time": 1689052177,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 428281,
@@ -1865,14 +1873,6 @@
       "onboard_time": 1688999556,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408709,
-      "num": 408709,
-      "word": "王者荣耀",
-      "onboard_time": 1689052177,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 406740,
@@ -2275,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329134,
+      "num": 329134,
+      "word": "福宝",
+      "onboard_time": 1689057396,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328842,
       "num": 328842,
       "word": "原神",
@@ -2667,6 +2675,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 271998,
+      "num": 271998,
+      "word": "吉克隽逸建议大家多吃蓝莓",
+      "onboard_time": 1689056854,
+      "rank": 29,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 271762,
       "num": 214920,
       "word": "郑州狗主悬赏1000万人民币寻狗",
@@ -2689,6 +2705,14 @@
       "onboard_time": 1689044254,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269580,
+      "num": 269580,
+      "word": "林宥嘉 抢票",
+      "onboard_time": 1689057151,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 269519,
@@ -2729,6 +2753,14 @@
       "onboard_time": 1688975072,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 265613,
+      "num": 265613,
+      "word": "福宝知道自己当姐姐了吗",
+      "onboard_time": 1689056552,
+      "rank": 40,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 264683,
@@ -3129,14 +3161,6 @@
       "onboard_time": 1688960973,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218790,
-      "num": 218790,
-      "word": "福宝知道自己当姐姐了吗",
-      "onboard_time": 1689056552,
-      "rank": 40,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 218431,
@@ -3585,6 +3609,14 @@
       "onboard_time": 1688983653,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174130,
+      "num": 174130,
+      "word": "密室大逃脱",
+      "onboard_time": 1689057452,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 172492,
