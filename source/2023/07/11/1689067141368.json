@@ -1,0 +1,410 @@
+{
+  "runTime": 1689067141368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1239102,
+        "num": 1239102,
+        "word": "吴昕录湖南卫视新综艺",
+        "onboard_time": 1689065673,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1660346,
+        "num": 1231759,
+        "word": "宝格丽",
+        "onboard_time": 1689053496,
+        "rank": 1,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 36020,
+        "num": 1224816,
+        "word": "年过80的她这件事干了60年",
+        "onboard_time": 1689042514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2021063,
+        "num": 1223334,
+        "word": "张若昀唐艺昕 性张力",
+        "onboard_time": 1689055714,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1221389,
+        "num": 1221389,
+        "word": "陈思诚选朱一龙和倪妮的原因",
+        "onboard_time": 1689062076,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1282837,
+        "num": 1216013,
+        "word": "高叶工作室解散后援会",
+        "onboard_time": 1689060093,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1078032,
+        "num": 1078032,
+        "word": "魏大勋演出了乌木沉香",
+        "onboard_time": 1689064115,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 798724,
+        "num": 798724,
+        "word": "1米58男子苦练绣花一幅卖到6万8",
+        "onboard_time": 1689060693,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779925,
+        "num": 779925,
+        "word": "三伏天为啥是减肥的好时候",
+        "onboard_time": 1689051037,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744944,
+        "num": 744944,
+        "word": "微信可以购买苹果产品了",
+        "onboard_time": 1689059733,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2393734,
+        "num": 741146,
+        "word": "关晓彤七年换来一句嫂子",
+        "onboard_time": 1689058230,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 937698,
+        "num": 738679,
+        "word": "肖战新剧妆造",
+        "onboard_time": 1689065496,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 697537,
+        "num": 697537,
+        "word": "心理有问题的人半夜是睡不着的",
+        "onboard_time": 1689062735,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648679,
+        "num": 648679,
+        "word": "娱乐圈的真夫妻",
+        "onboard_time": 1689059432,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 556901,
+        "num": 556901,
+        "word": "中方回应福宝当姐姐",
+        "onboard_time": 1689063754,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510700,
+        "num": 510700,
+        "word": "买大了的拖鞋不要急着丢",
+        "onboard_time": 1689064115,
+        "rank": 15,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 465002,
+        "num": 465002,
+        "word": "警方回应女子在鬼屋扮NPC遭男子袭胸",
+        "onboard_time": 1689064355,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429496,
+        "num": 429496,
+        "word": "芈月宝格丽皮肤CG",
+        "onboard_time": 1689049419,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 417636,
+        "num": 417636,
+        "word": "关晓彤这真的是你吗",
+        "onboard_time": 1689061833,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405825,
+        "num": 405825,
+        "word": "李木戈回应PPT转场",
+        "onboard_time": 1689065795,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400864,
+        "num": 400864,
+        "word": "范丞丞一个人的韩剧",
+        "onboard_time": 1689065737,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383091,
+        "num": 383091,
+        "word": "姜爷爷脸都笑烂了",
+        "onboard_time": 1689050020,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376890,
+        "num": 376890,
+        "word": "黄子韬带旗下艺人团建",
+        "onboard_time": 1689065014,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352718,
+        "num": 352718,
+        "word": "xmm",
+        "onboard_time": 1689059194,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337094,
+        "num": 337094,
+        "word": "爱宝诞下双胞胎韩网评论",
+        "onboard_time": 1689059076,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362779,
+        "num": 329826,
+        "word": "迪丽热巴龚俊安乐传情头",
+        "onboard_time": 1689065737,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321755,
+        "num": 321755,
+        "word": "伪骨科代餐",
+        "onboard_time": 1689061232,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314954,
+        "num": 314954,
+        "word": "叫我综艺咖可以叫我演员也可以",
+        "onboard_time": 1689060454,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298966,
+        "num": 298966,
+        "word": "我这种女生大概快绝版了吧",
+        "onboard_time": 1689066273,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 287215,
+        "num": 287215,
+        "word": "买雪糕老板跟我说一块的在那边",
+        "onboard_time": 1689065976,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381745,
+        "num": 286580,
+        "word": "IU接受冰桶挑战",
+        "onboard_time": 1689066516,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366307,
+        "num": 286339,
+        "word": "去拉萨第一天到第二天就回去了",
+        "onboard_time": 1689065856,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328064,
+        "num": 285631,
+        "word": "本以为殉情只是古老的传言",
+        "onboard_time": 1689066755,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318977,
+        "num": 284827,
+        "word": "没想到相个亲也会遇上霸总",
+        "onboard_time": 1689065496,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287911,
+        "num": 283922,
+        "word": "吉克隽逸建议大家多吃蓝莓",
+        "onboard_time": 1689056854,
+        "rank": 34,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 283715,
+        "num": 283715,
+        "word": "找出真正的工藤新一",
+        "onboard_time": 1689062796,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 265862,
+        "num": 265862,
+        "word": "孟宴臣根本不这样说话",
+        "onboard_time": 1689066695,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263100,
+        "num": 263100,
+        "word": "段嘉许颁奖礼公开示爱桑稚",
+        "onboard_time": 1689065856,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252206,
+        "num": 252206,
+        "word": "警方回应网传拆浮桥后十余人溺亡",
+        "onboard_time": 1689066454,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244609,
+        "num": 244609,
+        "word": "EDG起诉Scout",
+        "onboard_time": 1689049062,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241200,
+        "num": 241200,
+        "word": "妻子怀孕让中医老公把脉",
+        "onboard_time": 1689043714,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 239755,
+        "num": 239755,
+        "word": "互关文学1.0",
+        "onboard_time": 1689063697,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 232838,
+        "num": 232838,
+        "word": "王者荣耀",
+        "onboard_time": 1689052177,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231808,
+        "num": 231808,
+        "word": "大学生优衣库兼职薪资一小时16元",
+        "onboard_time": 1689046054,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209960,
+        "num": 209960,
+        "word": "黑豹突袭熟睡的狮子",
+        "onboard_time": 1689066755,
+        "rank": 44,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 198971,
+        "num": 198971,
+        "word": "四川熊猫撤回了一个哈喽",
+        "onboard_time": 1689061717,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189179,
+        "num": 189179,
+        "word": "熊猫吃着手里的看着碗里的",
+        "onboard_time": 1689066630,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178256,
+        "num": 178256,
+        "word": "如果我的人间烟火是韩剧",
+        "onboard_time": 1689060335,
+        "rank": 47,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 177819,
+        "num": 177819,
+        "word": "自己花钱流放边疆",
+        "onboard_time": 1689066154,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164585,
+        "num": 164585,
+        "word": "秋瓷炫于晓光同床异梦2预告",
+        "onboard_time": 1689047434,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#星辰大海里的中国名字#"
+    }
+  }
+}

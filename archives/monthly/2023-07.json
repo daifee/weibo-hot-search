@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689064714166,
+  "endTime": 1689067141368,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 2813121,
-      "num": 683693,
+      "num": 741146,
       "word": "关晓彤七年换来一句嫂子",
       "onboard_time": 1689058230,
       "rank": 10,
@@ -3027,6 +3027,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1239102,
+      "num": 1239102,
+      "word": "吴昕录湖南卫视新综艺",
+      "onboard_time": 1689065673,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1234685,
       "num": 1092375,
       "word": "韩红 你没走就在我们身边",
@@ -3672,6 +3680,14 @@
       "word": "玉骨遥取景地梦回陈情令",
       "onboard_time": 1688303141,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1078032,
+      "num": 1078032,
+      "word": "魏大勋演出了乌木沉香",
+      "onboard_time": 1689064115,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -4545,6 +4561,14 @@
       "onboard_time": 1688604281,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 937698,
+      "num": 738679,
+      "word": "肖战新剧妆造",
+      "onboard_time": 1689065496,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 937489,
@@ -6347,6 +6371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744944,
+      "num": 744944,
+      "word": "微信可以购买苹果产品了",
+      "onboard_time": 1689059733,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 744276,
       "num": 621786,
       "word": "被蚊子吸走了我的淤血",
@@ -6545,14 +6577,6 @@
       "onboard_time": 1688605840,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 724701,
-      "num": 660912,
-      "word": "微信可以购买苹果产品了",
-      "onboard_time": 1689059733,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 723355,
@@ -6835,6 +6859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 697537,
+      "num": 697537,
+      "word": "心理有问题的人半夜是睡不着的",
+      "onboard_time": 1689062735,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696939,
       "num": 696939,
       "word": "舞台2023歌手阵容官宣",
@@ -6897,14 +6929,6 @@
       "onboard_time": 1688547813,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 691899,
-      "num": 691899,
-      "word": "心理有问题的人半夜是睡不着的",
-      "onboard_time": 1689062735,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 691748,
@@ -8907,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556901,
+      "num": 556901,
+      "word": "中方回应福宝当姐姐",
+      "onboard_time": 1689063754,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556360,
       "num": 556360,
       "word": "马龙止步男单16强",
@@ -9737,6 +9769,14 @@
       "onboard_time": 1688539831,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 510700,
+      "num": 510700,
+      "word": "买大了的拖鞋不要急着丢",
+      "onboard_time": 1689064115,
+      "rank": 36,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 510602,
@@ -10675,6 +10715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465002,
+      "num": 465002,
+      "word": "警方回应女子在鬼屋扮NPC遭男子袭胸",
+      "onboard_time": 1689064355,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464380,
       "num": 464380,
       "word": "福宝知道自己当姐姐了吗",
@@ -10905,14 +10953,6 @@
       "onboard_time": 1688543496,
       "rank": 19,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 455152,
-      "num": 455152,
-      "word": "魏大勋演出了乌木沉香",
-      "onboard_time": 1689064115,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 455101,
@@ -12243,6 +12283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405825,
+      "num": 405825,
+      "word": "李木戈回应PPT转场",
+      "onboard_time": 1689065795,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404930,
       "num": 404930,
       "word": "白敬亭这次不心疼他的鞋了",
@@ -12409,6 +12457,14 @@
       "onboard_time": 1688471252,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 400864,
+      "num": 400864,
+      "word": "范丞丞一个人的韩剧",
+      "onboard_time": 1689065737,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 400637,
@@ -12979,6 +13035,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 381745,
+      "num": 286580,
+      "word": "IU接受冰桶挑战",
+      "onboard_time": 1689066516,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381550,
       "num": 381550,
       "word": "兼职生好像不知道我是老板",
@@ -13161,6 +13225,14 @@
       "onboard_time": 1688870551,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 376890,
+      "num": 376890,
+      "word": "黄子韬带旗下艺人团建",
+      "onboard_time": 1689065014,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 376530,
@@ -13547,6 +13619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366307,
+      "num": 286339,
+      "word": "去拉萨第一天到第二天就回去了",
+      "onboard_time": 1689065856,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 366248,
       "num": 366248,
       "word": "被辞退后发现新人还不如我",
@@ -13665,6 +13745,14 @@
       "onboard_time": 1688211872,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362779,
+      "num": 329826,
+      "word": "迪丽热巴龚俊安乐传情头",
+      "onboard_time": 1689065737,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 362211,
@@ -14931,6 +15019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 328064,
+      "num": 285631,
+      "word": "本以为殉情只是古老的传言",
+      "onboard_time": 1689066755,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327931,
       "num": 284287,
       "word": "女子找手机全飞机乘客干等3小时",
@@ -15281,6 +15377,14 @@
       "onboard_time": 1688214754,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318977,
+      "num": 284827,
+      "word": "没想到相个亲也会遇上霸总",
+      "onboard_time": 1689065496,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 318837,
@@ -16083,14 +16187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 299713,
-      "num": 299713,
-      "word": "中方回应福宝当姐姐",
-      "onboard_time": 1689063754,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299326,
       "num": 299326,
       "word": "BLG",
@@ -16129,6 +16225,14 @@
       "onboard_time": 1688481520,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298966,
+      "num": 298966,
+      "word": "我这种女生大概快绝版了吧",
+      "onboard_time": 1689066273,
+      "rank": 28,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 298838,
@@ -16777,6 +16881,14 @@
       "onboard_time": 1688950113,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287215,
+      "num": 287215,
+      "word": "买雪糕老板跟我说一块的在那边",
+      "onboard_time": 1689065976,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 286854,
@@ -17723,6 +17835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265862,
+      "num": 265862,
+      "word": "孟宴臣根本不这样说话",
+      "onboard_time": 1689066695,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265853,
       "num": 265853,
       "word": "女子出游回家后洗面奶被灌尿液",
@@ -17857,6 +17977,14 @@
       "onboard_time": 1688180492,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263100,
+      "num": 263100,
+      "word": "段嘉许颁奖礼公开示爱桑稚",
+      "onboard_time": 1689065856,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 263040,
@@ -18585,6 +18713,14 @@
       "onboard_time": 1688825433,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 252206,
+      "num": 252206,
+      "word": "警方回应网传拆浮桥后十余人溺亡",
+      "onboard_time": 1689066454,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252070,
@@ -19385,6 +19521,14 @@
       "onboard_time": 1688795909,
       "rank": 36,
       "category": "自然"
+    },
+    {
+      "raw_hot": 239755,
+      "num": 239755,
+      "word": "互关文学1.0",
+      "onboard_time": 1689063697,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 239609,
@@ -21267,6 +21411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209960,
+      "num": 209960,
+      "word": "黑豹突袭熟睡的狮子",
+      "onboard_time": 1689066755,
+      "rank": 44,
+      "category": "自然"
+    },
+    {
       "raw_hot": 209904,
       "num": 209904,
       "word": "导游因游客发视频表扬涨粉百万",
@@ -21449,14 +21601,6 @@
       "onboard_time": 1688969074,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207943,
-      "num": 207943,
-      "word": "互关文学1.0",
-      "onboard_time": 1689063697,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 207843,
@@ -21721,14 +21865,6 @@
       "onboard_time": 1688909612,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204119,
-      "num": 204119,
-      "word": "买大了的拖鞋不要急着丢",
-      "onboard_time": 1689064115,
-      "rank": 36,
-      "category": "幽默,时尚"
     },
     {
       "raw_hot": 203856,
@@ -22707,14 +22843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191931,
-      "num": 191931,
-      "word": "警方回应女子在鬼屋扮NPC遭男子袭胸",
-      "onboard_time": 1689064355,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191896,
       "num": 191896,
       "word": "男排",
@@ -22968,6 +23096,14 @@
       "word": "夏天晒后背真的去寒吗",
       "onboard_time": 1688267130,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 189179,
+      "num": 189179,
+      "word": "熊猫吃着手里的看着碗里的",
+      "onboard_time": 1689066630,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -23489,6 +23625,14 @@
       "onboard_time": 1688556872,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177819,
+      "num": 177819,
+      "word": "自己花钱流放边疆",
+      "onboard_time": 1689066154,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 177816,
