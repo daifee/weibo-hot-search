@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689096884438,
+  "endTime": 1689099826302,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 1014527,
-      "num": 577860,
+      "num": 768154,
       "word": "如果微信显示已读的话",
       "onboard_time": 1689084101,
       "rank": 20,
@@ -5187,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63310,
+      "num": 63310,
+      "word": "李雪琴痛失两个名字",
+      "onboard_time": 1689099135,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59011,
       "num": 188431,
       "word": "6月份CPI同比持平",
@@ -5217,6 +5225,14 @@
       "onboard_time": 1688908231,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 45928,
+      "num": 51938,
+      "word": "UP对战TES",
+      "onboard_time": 1689099078,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 37867,
