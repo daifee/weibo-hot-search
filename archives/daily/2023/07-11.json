@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689057552512,
+  "endTime": 1689059887460,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -9,6 +9,14 @@
       "onboard_time": 1689033630,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3313165,
+      "num": 1564563,
+      "word": "张若昀唐艺昕 性张力",
+      "onboard_time": 1689055714,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2901542,
@@ -27,20 +35,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2646785,
+      "num": 501616,
+      "word": "关晓彤七年换来一句嫂子",
+      "onboard_time": 1689058230,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2507376,
       "num": 2507376,
       "word": "姜爷爷宋爷爷不用抢了",
       "onboard_time": 1689039755,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2499299,
-      "num": 1564563,
-      "word": "张若昀唐艺昕 性张力",
-      "onboard_time": 1689055714,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2282291,
@@ -563,6 +571,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 464380,
+      "num": 464380,
+      "word": "福宝知道自己当姐姐了吗",
+      "onboard_time": 1689056552,
+      "rank": 40,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 461140,
       "num": 461140,
       "word": "茶百道未定事件簿联名",
@@ -667,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419276,
+      "num": 419276,
+      "word": "吉克隽逸建议大家多吃蓝莓",
+      "onboard_time": 1689056854,
+      "rank": 29,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 417636,
       "num": 381439,
       "word": "毛晓慧是曾少年的肖千喜",
@@ -763,6 +787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 379127,
+      "num": 379127,
+      "word": "杨迪把王鹤棣鬓角扯肿了",
+      "onboard_time": 1689058114,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363085,
       "num": 363085,
       "word": "关晓彤范丞丞新剧吻戏",
@@ -793,6 +825,22 @@
       "onboard_time": 1689046775,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356324,
+      "num": 264102,
+      "word": "娱乐圈的真夫妻",
+      "onboard_time": 1689059432,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 350793,
+      "num": 350793,
+      "word": "福宝",
+      "onboard_time": 1689057396,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349945,
@@ -859,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329134,
-      "num": 329134,
-      "word": "福宝",
-      "onboard_time": 1689057396,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328842,
       "num": 328842,
       "word": "原神",
@@ -881,6 +921,14 @@
       "onboard_time": 1689034833,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318806,
+      "num": 318806,
+      "word": "虞书欣粉色火烈鸟高跟鞋",
+      "onboard_time": 1689054274,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 315794,
@@ -913,14 +961,6 @@
       "onboard_time": 1689043113,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306359,
-      "num": 306359,
-      "word": "虞书欣粉色火烈鸟高跟鞋",
-      "onboard_time": 1689054274,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 305901,
@@ -971,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297377,
+      "num": 297377,
+      "word": "林宥嘉 抢票",
+      "onboard_time": 1689057151,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 296452,
       "num": 296452,
       "word": "不晒太阳竟然是减肥的天敌",
@@ -1011,6 +1059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290087,
+      "num": 290087,
+      "word": "爱宝诞下双胞胎韩网评论",
+      "onboard_time": 1689059076,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283256,
       "num": 283256,
       "word": "人设比颜值更重要吗",
@@ -1035,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271998,
-      "num": 271998,
-      "word": "吉克隽逸建议大家多吃蓝莓",
-      "onboard_time": 1689056854,
-      "rank": 29,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 271467,
       "num": 271467,
       "word": "权顺荣用中文问有T吗",
@@ -1057,22 +1105,6 @@
       "onboard_time": 1689044254,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269580,
-      "num": 269580,
-      "word": "林宥嘉 抢票",
-      "onboard_time": 1689057151,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 265613,
-      "num": 265613,
-      "word": "福宝知道自己当姐姐了吗",
-      "onboard_time": 1689056552,
-      "rank": 40,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 259469,
@@ -1195,6 +1227,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 227965,
+      "num": 227965,
+      "word": "2023年大学毕业生向往的职业",
+      "onboard_time": 1689058172,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 223726,
       "num": 191273,
       "word": "4招识破真假护肤品",
@@ -1219,12 +1259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215024,
+      "num": 215024,
+      "word": "xmm",
+      "onboard_time": 1689059194,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213843,
       "num": 213843,
       "word": "孟宴臣蝴蝶墙来源",
       "onboard_time": 1689044977,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213736,
+      "num": 213736,
+      "word": "如何把生日那一天过成48小时",
+      "onboard_time": 1689057571,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 212158,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1689026714,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201068,
+      "num": 201068,
+      "word": "微信可以购买苹果产品了",
+      "onboard_time": 1689059733,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 196097,
@@ -1337,6 +1401,14 @@
       "onboard_time": 1688983653,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181576,
+      "num": 181576,
+      "word": "第一次在骆驼眼中看到了无语",
+      "onboard_time": 1689059854,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 180596,
