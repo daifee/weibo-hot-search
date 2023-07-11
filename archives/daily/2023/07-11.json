@@ -1,6 +1,6 @@
 {
   "startTime": 1689006412071,
-  "endTime": 1689039810646,
+  "endTime": 1689041078936,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -19,8 +19,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1882209,
-      "num": 1882209,
+      "raw_hot": 2507376,
+      "num": 2507376,
+      "word": "姜爷爷宋爷爷不用抢了",
+      "onboard_time": 1689039755,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2282291,
+      "num": 2282291,
       "word": "她的骨灰装进了周恩来用过的骨灰盒里",
       "onboard_time": 1689037894,
       "rank": 1,
@@ -67,8 +75,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 1164487,
-      "num": 1164487,
+      "raw_hot": 1190358,
+      "num": 1190358,
       "word": "内娱最炸的组合",
       "onboard_time": 1689035797,
       "rank": 5,
@@ -91,6 +99,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 974092,
+      "num": 974092,
+      "word": "三伏天是一年当中补阳气的最好时间",
+      "onboard_time": 1689037117,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 956336,
       "num": 210163,
       "word": "杨洋 方头明",
@@ -99,20 +115,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 884507,
+      "num": 692480,
+      "word": "男子隐瞒婚育和同事生子拒付抚养费",
+      "onboard_time": 1689039092,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 858838,
       "num": 858838,
       "word": "终于有狗子愿意理肖战了",
       "onboard_time": 1689008961,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 834464,
-      "num": 834464,
-      "word": "三伏天是一年当中补阳气的最好时间",
-      "onboard_time": 1689037117,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 814578,
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547477,
+      "num": 547477,
+      "word": "爱宝女儿出生照",
+      "onboard_time": 1689038074,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543928,
       "num": 543928,
       "word": "乐宝",
@@ -195,11 +219,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 527656,
-      "num": 527656,
-      "word": "爱宝女儿出生照",
-      "onboard_time": 1689038074,
-      "rank": 15,
+      "raw_hot": 528736,
+      "num": 528736,
+      "word": "爱宝隔壁瀑布要保不住了",
+      "onboard_time": 1689039513,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -216,14 +240,6 @@
       "word": "猴痘",
       "onboard_time": 1689036634,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473553,
-      "num": 293071,
-      "word": "男子隐瞒婚育和同事生子拒付抚养费",
-      "onboard_time": 1689039092,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -249,6 +265,14 @@
       "onboard_time": 1689004052,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 460942,
+      "num": 460942,
+      "word": "福宝两个妹妹叫啥名字好",
+      "onboard_time": 1689039092,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450513,
@@ -315,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 388466,
-      "num": 292851,
-      "word": "福宝两个妹妹叫啥名字好",
-      "onboard_time": 1689039092,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384894,
       "num": 384894,
       "word": "李昊 人齐了啊",
@@ -331,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384592,
+      "num": 384592,
+      "word": "三伏天省着点用自己",
+      "onboard_time": 1689036218,
+      "rank": 23,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 379529,
       "num": 379529,
       "word": "迪丽热巴大开口破洞裤",
       "onboard_time": 1689033690,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 364511,
-      "num": 364511,
-      "word": "三伏天省着点用自己",
-      "onboard_time": 1689036218,
-      "rank": 23,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 363085,
@@ -361,6 +377,14 @@
       "onboard_time": 1689002376,
       "rank": 15,
       "category": "情感,影视"
+    },
+    {
+      "raw_hot": 358900,
+      "num": 276727,
+      "word": "你不用变得很外向 但要发言时一定要勇敢",
+      "onboard_time": 1689040654,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 336585,
@@ -401,6 +425,14 @@
       "onboard_time": 1689032729,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 308508,
+      "num": 308508,
+      "word": "黄子韬说不喜欢员工这两个字",
+      "onboard_time": 1689040891,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 305794,
@@ -507,12 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251595,
-      "num": 251595,
-      "word": "爱宝隔壁瀑布要保不住了",
-      "onboard_time": 1689039513,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 254231,
+      "num": 254231,
+      "word": "质疑章鱼哥理解章鱼哥成为章鱼哥",
+      "onboard_time": 1689040535,
+      "rank": 33,
+      "category": "幽默,动漫"
+    },
+    {
+      "raw_hot": 247959,
+      "num": 247959,
+      "word": "谢娜画完妆迫不及待和姐姐们贴贴",
+      "onboard_time": 1689039455,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 246785,
@@ -561,14 +601,6 @@
       "onboard_time": 1689004829,
       "rank": 30,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 217063,
-      "num": 217063,
-      "word": "姜爷爷宋爷爷不用抢了",
-      "onboard_time": 1689039755,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212158,
@@ -640,6 +672,14 @@
       "word": "颜心记女主得了怪病会变身",
       "onboard_time": 1689035856,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188853,
+      "num": 188853,
+      "word": "艾伦沈腾新片预售开启",
+      "onboard_time": 1689036399,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -875,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81786,
+      "num": 185834,
+      "word": "游客不慎坠河被冲走众人合力相救",
+      "onboard_time": 1689040829,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 72128,
       "num": 82184,
       "word": "曾少年",
@@ -900,7 +948,7 @@
     },
     {
       "raw_hot": 54324,
-      "num": 1617970,
+      "num": 2308334,
       "word": "盛世中华何以中国",
       "onboard_time": 1688992051,
       "rank": 2,

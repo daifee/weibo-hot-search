@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689039810646,
+  "endTime": 1689041078936,
   "band_list": [
     {
       "raw_hot": 6825757,
@@ -75,6 +75,14 @@
       "category": "时尚,体育"
     },
     {
+      "raw_hot": 2507376,
+      "num": 2507376,
+      "word": "姜爷爷宋爷爷不用抢了",
+      "onboard_time": 1689039755,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2505184,
       "num": 2505184,
       "word": "曝Jennie将与YG解约",
@@ -105,6 +113,14 @@
       "onboard_time": 1688960794,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2282291,
+      "num": 2282291,
+      "word": "她的骨灰装进了周恩来用过的骨灰盒里",
+      "onboard_time": 1689037894,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2220146,
@@ -145,14 +161,6 @@
       "onboard_time": 1688955270,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1882209,
-      "num": 1882209,
-      "word": "她的骨灰装进了周恩来用过的骨灰盒里",
-      "onboard_time": 1689037894,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1872410,
@@ -331,8 +339,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 1164487,
-      "num": 1164487,
+      "raw_hot": 1190358,
+      "num": 1190358,
       "word": "内娱最炸的组合",
       "onboard_time": 1689035797,
       "rank": 5,
@@ -441,6 +449,14 @@
       "onboard_time": 1688999917,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 974092,
+      "num": 974092,
+      "word": "三伏天是一年当中补阳气的最好时间",
+      "onboard_time": 1689037117,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 967789,
@@ -563,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884507,
+      "num": 692480,
+      "word": "男子隐瞒婚育和同事生子拒付抚养费",
+      "onboard_time": 1689039092,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 879766,
       "num": 879766,
       "word": "入职要填微博名该怎么办",
@@ -617,14 +641,6 @@
       "onboard_time": 1688980112,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 834464,
-      "num": 834464,
-      "word": "三伏天是一年当中补阳气的最好时间",
-      "onboard_time": 1689037117,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 816891,
@@ -1019,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 547477,
+      "num": 547477,
+      "word": "爱宝女儿出生照",
+      "onboard_time": 1689038074,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543928,
       "num": 543928,
       "word": "乐宝",
@@ -1051,11 +1075,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 527656,
-      "num": 527656,
-      "word": "爱宝女儿出生照",
-      "onboard_time": 1689038074,
-      "rank": 15,
+      "raw_hot": 528736,
+      "num": 528736,
+      "word": "爱宝隔壁瀑布要保不住了",
+      "onboard_time": 1689039513,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1203,14 +1227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 473553,
-      "num": 293071,
-      "word": "男子隐瞒婚育和同事生子拒付抚养费",
-      "onboard_time": 1689039092,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472877,
       "num": 472877,
       "word": "不知火传说皮肤",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1689004052,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 460942,
+      "num": 460942,
+      "word": "福宝两个妹妹叫啥名字好",
+      "onboard_time": 1689039092,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456266,
@@ -1531,20 +1555,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 388466,
-      "num": 292851,
-      "word": "福宝两个妹妹叫啥名字好",
-      "onboard_time": 1689039092,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386769,
       "num": 302069,
       "word": "TMEA导播叫尹净汉最漂亮的那个",
       "onboard_time": 1688970096,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 384592,
+      "num": 384592,
+      "word": "三伏天省着点用自己",
+      "onboard_time": 1689036218,
+      "rank": 23,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 381473,
@@ -1659,20 +1683,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364511,
-      "num": 364511,
-      "word": "三伏天省着点用自己",
-      "onboard_time": 1689036218,
-      "rank": 23,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 362211,
       "num": 362211,
       "word": "长安三万里",
       "onboard_time": 1688997996,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358900,
+      "num": 276727,
+      "word": "你不用变得很外向 但要发言时一定要勇敢",
+      "onboard_time": 1689040654,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 357512,
@@ -1873,6 +1897,14 @@
       "onboard_time": 1688976454,
       "rank": 32,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 308508,
+      "num": 308508,
+      "word": "黄子韬说不喜欢员工这两个字",
+      "onboard_time": 1689040891,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 308100,
@@ -2267,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254231,
+      "num": 254231,
+      "word": "质疑章鱼哥理解章鱼哥成为章鱼哥",
+      "onboard_time": 1689040535,
+      "rank": 33,
+      "category": "幽默,动漫"
+    },
+    {
       "raw_hot": 253842,
       "num": 211035,
       "word": "林俊杰演唱会",
@@ -2299,14 +2339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251595,
-      "num": 251595,
-      "word": "爱宝隔壁瀑布要保不住了",
-      "onboard_time": 1689039513,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251243,
       "num": 251243,
       "word": "永远年轻永远有人正在办公",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1688948131,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247959,
+      "num": 247959,
+      "word": "谢娜画完妆迫不及待和姐姐们贴贴",
+      "onboard_time": 1689039455,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 247073,
@@ -2569,14 +2609,6 @@
       "onboard_time": 1688954969,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217063,
-      "num": 217063,
-      "word": "姜爷爷宋爷爷不用抢了",
-      "onboard_time": 1689039755,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216286,
@@ -2865,6 +2897,14 @@
       "onboard_time": 1688893051,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 188853,
+      "num": 188853,
+      "word": "艾伦沈腾新片预售开启",
+      "onboard_time": 1689036399,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 187698,
@@ -3228,7 +3268,7 @@
     },
     {
       "raw_hot": 95178,
-      "num": 1617970,
+      "num": 2308334,
       "word": "盛世中华何以中国",
       "onboard_time": 1688992051,
       "rank": 2,
@@ -3265,6 +3305,14 @@
       "onboard_time": 1688935512,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 81786,
+      "num": 185834,
+      "word": "游客不慎坠河被冲走众人合力相救",
+      "onboard_time": 1689040829,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 78055,
