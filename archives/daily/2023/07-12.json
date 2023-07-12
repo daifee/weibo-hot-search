@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689161648064,
+  "endTime": 1689165581569,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -83,6 +83,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2157700,
+      "num": 2157700,
+      "word": "魏大勋是JYP第一个中国演员",
+      "onboard_time": 1689163051,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2085822,
       "num": 2085822,
       "word": "宝格丽道歉别弄成专供中国大陆",
@@ -115,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1896488,
+      "num": 1587849,
+      "word": "男子办离婚在民政局大厅打老婆",
+      "onboard_time": 1689158913,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1794243,
       "num": 1794243,
       "word": "宝格丽CEO曾称中国市场比本土还重要",
       "onboard_time": 1689122973,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1780838,
+      "num": 1169082,
+      "word": "迪丽热巴花裙子",
+      "onboard_time": 1689163832,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1732184,
@@ -137,14 +161,6 @@
       "onboard_time": 1689141695,
       "rank": 21,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1587849,
-      "num": 1587849,
-      "word": "男子办离婚在民政局大厅打老婆",
-      "onboard_time": 1689158913,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1551367,
@@ -193,6 +209,14 @@
       "onboard_time": 1689149194,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1419635,
+      "num": 1419635,
+      "word": "中方不接受不承认立场得到100多国支持",
+      "onboard_time": 1689162512,
+      "rank": 1,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1378721,
@@ -259,11 +283,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1140125,
+      "num": 1140125,
+      "word": "奚安娜葛沛豪回应",
+      "onboard_time": 1689160712,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1111725,
       "num": 1111725,
       "word": "优酷",
       "onboard_time": 1689157173,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1103625,
+      "num": 1103625,
+      "word": "关晓彤上下班亲的都是我爱的男人",
+      "onboard_time": 1689163772,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -363,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 910422,
-      "num": 910422,
-      "word": "奚安娜葛沛豪回应",
-      "onboard_time": 1689160712,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 905644,
       "num": 905644,
       "word": "孙俪时隔20年再演女刑警",
@@ -385,6 +417,14 @@
       "onboard_time": 1689091292,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889216,
+      "num": 889216,
+      "word": "Angelababy宋轶早期同框",
+      "onboard_time": 1689161912,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 887233,
@@ -417,6 +457,14 @@
       "onboard_time": 1689145831,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 863736,
+      "num": 863736,
+      "word": "榜一大哥诈骗女主播12万",
+      "onboard_time": 1689159934,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827644,
@@ -499,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 767024,
+      "num": 528122,
+      "word": "杨澄好渣",
+      "onboard_time": 1689162872,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 752766,
       "num": 752766,
       "word": "李梦 张隆每个月都有按时付钱",
@@ -577,14 +633,6 @@
       "onboard_time": 1689121293,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 676470,
-      "num": 676470,
-      "word": "榜一大哥诈骗女主播12万",
-      "onboard_time": 1689159934,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 669141,
@@ -811,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541069,
+      "num": 541069,
+      "word": "小区惊现40厘米陆龟散步",
+      "onboard_time": 1689164193,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539762,
       "num": 392212,
       "word": "王心凌演唱会官宣23站",
@@ -891,12 +947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502787,
+      "num": 502787,
+      "word": "黄牛招985学生抢林俊杰演唱会门票",
+      "onboard_time": 1689161253,
+      "rank": 47,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 497248,
       "num": 356016,
       "word": "夏雪结婚的话刘星应该也会这样吧",
       "onboard_time": 1689130472,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493694,
+      "num": 382385,
+      "word": "周也粉色芭比",
+      "onboard_time": 1689162993,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 493069,
@@ -945,6 +1017,14 @@
       "onboard_time": 1689091590,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469064,
+      "num": 469064,
+      "word": "这是扎到烤肠的大动脉上了",
+      "onboard_time": 1689162572,
+      "rank": 16,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 467330,
@@ -1251,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336776,
+      "num": 336776,
+      "word": "DIOR大秀",
+      "onboard_time": 1689154656,
+      "rank": 34,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 331635,
       "num": 321338,
       "word": "孟宴臣的100种死法",
@@ -1289,6 +1377,22 @@
       "onboard_time": 1689132874,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319121,
+      "num": 319121,
+      "word": "女孩偶像屠呦呦高考631分报药学专业",
+      "onboard_time": 1689164193,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 314211,
+      "num": 314211,
+      "word": "求婚没必要让所有人都知道",
+      "onboard_time": 1689161372,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 313425,
@@ -1331,14 +1435,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 305634,
-      "num": 305634,
-      "word": "DIOR大秀",
-      "onboard_time": 1689154656,
-      "rank": 34,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 303694,
       "num": 303694,
       "word": "杨幂侧边麻花辫",
@@ -1360,6 +1456,14 @@
       "word": "查理和巧克力工厂前传预告",
       "onboard_time": 1689117685,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 295404,
+      "num": 295404,
+      "word": "肖战任敏对戏看哭导演",
+      "onboard_time": 1689161131,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1459,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276193,
+      "num": 276193,
+      "word": "古相思曲",
+      "onboard_time": 1689161852,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271005,
       "num": 271005,
       "word": "李玟姐姐现身香港殡仪馆",
@@ -1521,6 +1633,14 @@
       "onboard_time": 1689080673,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265323,
+      "num": 265323,
+      "word": "怎么忍住不捡回家的",
+      "onboard_time": 1689163532,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 264823,
@@ -1595,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256183,
+      "num": 256183,
+      "word": "没有边界感的亲戚",
+      "onboard_time": 1689164972,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 254939,
       "num": 254939,
       "word": "闫桉终于来演偶像剧了",
@@ -1619,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246604,
+      "num": 246604,
+      "word": "马宁",
+      "onboard_time": 1689165273,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246317,
       "num": 246317,
       "word": "王一博跳舞的松弛感",
@@ -1632,14 +1768,6 @@
       "word": "王楚然校服怼脸照",
       "onboard_time": 1689125792,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 243819,
-      "num": 243819,
-      "word": "肖战任敏对戏看哭导演",
-      "onboard_time": 1689161131,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1659,12 +1787,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 237653,
+      "num": 237653,
+      "word": "主人花千元从狗嘴下救回宠物鸡",
+      "onboard_time": 1689160830,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235248,
+      "num": 235248,
+      "word": "BLG对战RNG",
+      "onboard_time": 1689164313,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232708,
       "num": 202955,
       "word": "任敏玉骨遥见面会生图",
       "onboard_time": 1689146733,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232229,
+      "num": 232229,
+      "word": "火影忍者 水门传",
+      "onboard_time": 1689164193,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 231670,
@@ -1779,28 +1931,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207156,
-      "num": 207156,
-      "word": "求婚没必要让所有人都知道",
-      "onboard_time": 1689161372,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 204229,
-      "num": 204229,
-      "word": "主人花千元从狗嘴下救回宠物鸡",
-      "onboard_time": 1689160830,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202686,
       "num": 301444,
       "word": "黄德义儿子说家里收了30万过路费",
       "onboard_time": 1689150455,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201352,
+      "num": 201352,
+      "word": "这才是猛男该撑的伞",
+      "onboard_time": 1689162450,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 201203,
@@ -1857,14 +2001,6 @@
       "onboard_time": 1689150936,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195199,
-      "num": 195199,
-      "word": "黄牛招985学生抢林俊杰演唱会门票",
-      "onboard_time": 1689161253,
-      "rank": 47,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 194290,
@@ -2128,6 +2264,22 @@
       "word": "王一博晒分层",
       "onboard_time": 1689112153,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 106567,
+      "num": 398531,
+      "word": "赵明称折叠手机进入毫米级时代",
+      "onboard_time": 1689164432,
+      "rank": 18,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 92520,
+      "num": 316197,
+      "word": "荣耀青海湖电池跟身份证一样薄",
+      "onboard_time": 1689163592,
+      "rank": 27,
       "category": "影视"
     },
     {

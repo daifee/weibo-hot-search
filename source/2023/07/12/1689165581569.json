@@ -1,0 +1,410 @@
+{
+  "runTime": 1689165581569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2157700,
+        "num": 2157700,
+        "word": "魏大勋是JYP第一个中国演员",
+        "onboard_time": 1689163051,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1419635,
+        "num": 1419635,
+        "word": "中方不接受不承认立场得到100多国支持",
+        "onboard_time": 1689162512,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 85919,
+        "num": 1187913,
+        "word": "成都大运会中国大学生体育代表团成立",
+        "onboard_time": 1689150756,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1780838,
+        "num": 1169082,
+        "word": "迪丽热巴花裙子",
+        "onboard_time": 1689163832,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1140125,
+        "num": 1140125,
+        "word": "奚安娜葛沛豪回应",
+        "onboard_time": 1689160712,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1103625,
+        "num": 1103625,
+        "word": "关晓彤上下班亲的都是我爱的男人",
+        "onboard_time": 1689163772,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1014799,
+        "num": 1014799,
+        "word": "米兰昆德拉去世",
+        "onboard_time": 1689153697,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 889216,
+        "num": 889216,
+        "word": "Angelababy宋轶早期同框",
+        "onboard_time": 1689161912,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 863736,
+        "num": 863736,
+        "word": "榜一大哥诈骗女主播12万",
+        "onboard_time": 1689159934,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541069,
+        "num": 541069,
+        "word": "小区惊现40厘米陆龟散步",
+        "onboard_time": 1689164193,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1896488,
+        "num": 536369,
+        "word": "男子办离婚在民政局大厅打老婆",
+        "onboard_time": 1689158913,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767024,
+        "num": 528122,
+        "word": "杨澄好渣",
+        "onboard_time": 1689162872,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 758343,
+        "num": 516889,
+        "word": "内娱最邪门的一张合照",
+        "onboard_time": 1689146915,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1333551,
+        "num": 507040,
+        "word": "Jennie发了和金泰亨被拍到的造型照片",
+        "onboard_time": 1689158374,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 502787,
+        "num": 502787,
+        "word": "黄牛招985学生抢林俊杰演唱会门票",
+        "onboard_time": 1689161253,
+        "rank": 14,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 726798,
+        "num": 496784,
+        "word": "安乐传",
+        "onboard_time": 1689156573,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469064,
+        "num": 469064,
+        "word": "这是扎到烤肠的大动脉上了",
+        "onboard_time": 1689162572,
+        "rank": 16,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 726081,
+        "num": 461684,
+        "word": "优酷",
+        "onboard_time": 1689157173,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106567,
+        "num": 398531,
+        "word": "赵明称折叠手机进入毫米级时代",
+        "onboard_time": 1689164432,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 386190,
+        "num": 386190,
+        "word": "养小孩后才知道挑食是天生的",
+        "onboard_time": 1689158672,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 564707,
+        "num": 383839,
+        "word": "12306回应女子卧铺出行被上铺男子凝视",
+        "onboard_time": 1689150815,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493694,
+        "num": 382385,
+        "word": "周也粉色芭比",
+        "onboard_time": 1689162993,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 379591,
+        "num": 379591,
+        "word": "无锡3岁女童母亲疑募捐百万",
+        "onboard_time": 1689156871,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337342,
+        "num": 337342,
+        "word": "事业单位上班后失去了本名",
+        "onboard_time": 1689147454,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336776,
+        "num": 336776,
+        "word": "DIOR大秀",
+        "onboard_time": 1689154656,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 329583,
+        "num": 329583,
+        "word": "35岁以上的人都可以做什么工作",
+        "onboard_time": 1689157055,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319121,
+        "num": 319121,
+        "word": "女孩偶像屠呦呦高考631分报药学专业",
+        "onboard_time": 1689164193,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 92520,
+        "num": 316197,
+        "word": "荣耀青海湖电池跟身份证一样薄",
+        "onboard_time": 1689163592,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314211,
+        "num": 314211,
+        "word": "求婚没必要让所有人都知道",
+        "onboard_time": 1689161372,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295404,
+        "num": 295404,
+        "word": "肖战任敏对戏看哭导演",
+        "onboard_time": 1689161131,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287785,
+        "num": 287785,
+        "word": "比嘉龙二去世",
+        "onboard_time": 1689157653,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276193,
+        "num": 276193,
+        "word": "古相思曲",
+        "onboard_time": 1689161852,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272500,
+        "num": 272500,
+        "word": "韩国综艺人李智秀去世",
+        "onboard_time": 1689149916,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265323,
+        "num": 265323,
+        "word": "怎么忍住不捡回家的",
+        "onboard_time": 1689163532,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 262723,
+        "num": 262723,
+        "word": "宝格丽海外账号仍未道歉",
+        "onboard_time": 1689156336,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258652,
+        "num": 258652,
+        "word": "女子来月经店员帮买卫生巾拿新裤子",
+        "onboard_time": 1689152676,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257852,
+        "num": 257852,
+        "word": "黑龙江省的简称叫啥",
+        "onboard_time": 1689153636,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256183,
+        "num": 256183,
+        "word": "没有边界感的亲戚",
+        "onboard_time": 1689164972,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 246604,
+        "num": 246604,
+        "word": "马宁",
+        "onboard_time": 1689165273,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245413,
+        "num": 245413,
+        "word": "给魏大勋吹头发的是李沁",
+        "onboard_time": 1689147032,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237653,
+        "num": 237653,
+        "word": "主人花千元从狗嘴下救回宠物鸡",
+        "onboard_time": 1689160830,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235248,
+        "num": 235248,
+        "word": "BLG对战RNG",
+        "onboard_time": 1689164313,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232229,
+        "num": 232229,
+        "word": "火影忍者 水门传",
+        "onboard_time": 1689164193,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 226863,
+        "num": 226863,
+        "word": "姜爷爷对熊猫的爱都在细节里",
+        "onboard_time": 1689155498,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220673,
+        "num": 220673,
+        "word": "体重很轻但是肚子很大",
+        "onboard_time": 1689151834,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218859,
+        "num": 218859,
+        "word": "教从不玩游戏的女生玩什么",
+        "onboard_time": 1689159993,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214255,
+        "num": 214255,
+        "word": "江疏影 素颜或妆后各有各的美好或不足",
+        "onboard_time": 1689154235,
+        "rank": 46,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 201903,
+        "num": 201903,
+        "word": "杨超越带爸爸游北京",
+        "onboard_time": 1689159454,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201352,
+        "num": 201352,
+        "word": "这才是猛男该撑的伞",
+        "onboard_time": 1689162450,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184884,
+        "num": 184884,
+        "word": "葛沛豪评论",
+        "onboard_time": 1689133775,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动能耗双控逐步转向碳排放双控#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689161648064,
+  "endTime": 1689165581569,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -299,6 +299,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2157700,
+      "num": 2157700,
+      "word": "魏大勋是JYP第一个中国演员",
+      "onboard_time": 1689163051,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2157597,
       "num": 654704,
       "word": "Selina怀孕8个月状态",
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1896488,
+      "num": 1587849,
+      "word": "男子办离婚在民政局大厅打老婆",
+      "onboard_time": 1689158913,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1872410,
       "num": 1872410,
       "word": "宋轶白敬亭 阳神",
@@ -441,6 +457,14 @@
       "onboard_time": 1689122973,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1780838,
+      "num": 1169082,
+      "word": "迪丽热巴花裙子",
+      "onboard_time": 1689163832,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1740683,
@@ -504,14 +528,6 @@
       "word": "姜爷爷脸都笑烂了",
       "onboard_time": 1689050020,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1587849,
-      "num": 1587849,
-      "word": "男子办离婚在民政局大厅打老婆",
-      "onboard_time": 1689158913,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -617,6 +633,14 @@
       "onboard_time": 1689149194,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1419635,
+      "num": 1419635,
+      "word": "中方不接受不承认立场得到100多国支持",
+      "onboard_time": 1689162512,
+      "rank": 1,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1417629,
@@ -875,11 +899,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1140125,
+      "num": 1140125,
+      "word": "奚安娜葛沛豪回应",
+      "onboard_time": 1689160712,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1111725,
       "num": 1111725,
       "word": "优酷",
       "onboard_time": 1689157173,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1103625,
+      "num": 1103625,
+      "word": "关晓彤上下班亲的都是我爱的男人",
+      "onboard_time": 1689163772,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -1259,14 +1299,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 910422,
-      "num": 910422,
-      "word": "奚安娜葛沛豪回应",
-      "onboard_time": 1689160712,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 906369,
       "num": 906369,
       "word": "穷的时候真的特别敏感",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1688905529,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 889216,
+      "num": 889216,
+      "word": "Angelababy宋轶早期同框",
+      "onboard_time": 1689161912,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 888659,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1689145831,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 863736,
+      "num": 863736,
+      "word": "榜一大哥诈骗女主播12万",
+      "onboard_time": 1689159934,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 862902,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1689126091,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 767024,
+      "num": 528122,
+      "word": "杨澄好渣",
+      "onboard_time": 1689162872,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 766760,
@@ -1833,14 +1889,6 @@
       "onboard_time": 1689121293,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 676470,
-      "num": 676470,
-      "word": "榜一大哥诈骗女主播12万",
-      "onboard_time": 1689159934,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675298,
@@ -2451,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541069,
+      "num": 541069,
+      "word": "小区惊现40厘米陆龟散步",
+      "onboard_time": 1689164193,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539762,
       "num": 392212,
       "word": "王心凌演唱会官宣23站",
@@ -2635,6 +2691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502787,
+      "num": 502787,
+      "word": "黄牛招985学生抢林俊杰演唱会门票",
+      "onboard_time": 1689161253,
+      "rank": 47,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 502512,
       "num": 502512,
       "word": "猴痘",
@@ -2673,6 +2737,14 @@
       "onboard_time": 1688950593,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 493694,
+      "num": 382385,
+      "word": "周也粉色芭比",
+      "onboard_time": 1689162993,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 493069,
@@ -2857,6 +2929,14 @@
       "onboard_time": 1689091590,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469064,
+      "num": 469064,
+      "word": "这是扎到烤肠的大动脉上了",
+      "onboard_time": 1689162572,
+      "rank": 16,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 469035,
@@ -3987,6 +4067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336776,
+      "num": 336776,
+      "word": "DIOR大秀",
+      "onboard_time": 1689154656,
+      "rank": 34,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 336585,
       "num": 336585,
       "word": "村书记回应私搭浮桥",
@@ -4163,6 +4251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319121,
+      "num": 319121,
+      "word": "女孩偶像屠呦呦高考631分报药学专业",
+      "onboard_time": 1689164193,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 318977,
       "num": 284827,
       "word": "没想到相个亲也会遇上霸总",
@@ -4209,6 +4305,14 @@
       "onboard_time": 1689083077,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314211,
+      "num": 314211,
+      "word": "求婚没必要让所有人都知道",
+      "onboard_time": 1689161372,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 313181,
@@ -4339,14 +4443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305634,
-      "num": 305634,
-      "word": "DIOR大秀",
-      "onboard_time": 1689154656,
-      "rank": 34,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 305396,
       "num": 305396,
       "word": "王一博热烈惊喜派对跳舞太燃了",
@@ -4473,6 +4569,14 @@
       "onboard_time": 1689076832,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295404,
+      "num": 295404,
+      "word": "肖战任敏对戏看哭导演",
+      "onboard_time": 1689161131,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 295125,
@@ -4755,6 +4859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276193,
+      "num": 276193,
+      "word": "古相思曲",
+      "onboard_time": 1689161852,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274698,
       "num": 274698,
       "word": "警方回应老人当街抛扔满月双胞胎女婴",
@@ -4907,6 +5019,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 265323,
+      "num": 265323,
+      "word": "怎么忍住不捡回家的",
+      "onboard_time": 1689163532,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 264823,
       "num": 256492,
       "word": "当所有人都在遗忘 这个孩子在与你相识",
@@ -5049,6 +5169,14 @@
       "onboard_time": 1689149194,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256183,
+      "num": 256183,
+      "word": "没有边界感的亲戚",
+      "onboard_time": 1689164972,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 255970,
@@ -5235,6 +5363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246604,
+      "num": 246604,
+      "word": "马宁",
+      "onboard_time": 1689165273,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246436,
       "num": 246436,
       "word": "袁弘说他老婆是张艺兴",
@@ -5281,14 +5417,6 @@
       "onboard_time": 1689073538,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243819,
-      "num": 243819,
-      "word": "肖战任敏对戏看哭导演",
-      "onboard_time": 1689161131,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 243212,
@@ -5363,6 +5491,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 237653,
+      "num": 237653,
+      "word": "主人花千元从狗嘴下救回宠物鸡",
+      "onboard_time": 1689160830,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235248,
+      "num": 235248,
+      "word": "BLG对战RNG",
+      "onboard_time": 1689164313,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235186,
       "num": 235186,
       "word": "如何看待村书记称浮桥搭建者说假话",
@@ -5409,6 +5553,14 @@
       "onboard_time": 1689146733,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232229,
+      "num": 232229,
+      "word": "火影忍者 水门传",
+      "onboard_time": 1689164193,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 231670,
@@ -5803,14 +5955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207156,
-      "num": 207156,
-      "word": "求婚没必要让所有人都知道",
-      "onboard_time": 1689161372,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206906,
       "num": 206906,
       "word": "工作一会儿就不自觉拿起手机",
@@ -5841,14 +5985,6 @@
       "onboard_time": 1688951493,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204229,
-      "num": 204229,
-      "word": "主人花千元从狗嘴下救回宠物鸡",
-      "onboard_time": 1689160830,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203359,
@@ -5921,6 +6057,14 @@
       "onboard_time": 1688904212,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201352,
+      "num": 201352,
+      "word": "这才是猛男该撑的伞",
+      "onboard_time": 1689162450,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 201290,
@@ -6073,14 +6217,6 @@
       "onboard_time": 1688950472,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195199,
-      "num": 195199,
-      "word": "黄牛招985学生抢林俊杰演唱会门票",
-      "onboard_time": 1689161253,
-      "rank": 47,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 194070,
@@ -6747,6 +6883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106567,
+      "num": 398531,
+      "word": "赵明称折叠手机进入毫米级时代",
+      "onboard_time": 1689164432,
+      "rank": 18,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 105917,
       "num": 105917,
       "word": "头车司机等待对向车流两分钟引众怒",
@@ -6817,6 +6961,14 @@
       "onboard_time": 1688939236,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92520,
+      "num": 316197,
+      "word": "荣耀青海湖电池跟身份证一样薄",
+      "onboard_time": 1689163592,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 89014,
