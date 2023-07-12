@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689171483829,
+  "endTime": 1689172589727,
   "band_list": [
     {
       "raw_hot": 9779465,
@@ -25,6 +25,14 @@
       "onboard_time": 1689137681,
       "rank": 1,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 3085763,
+      "num": 3085763,
+      "word": "杨洋微博艾特了王楚然",
+      "onboard_time": 1689169659,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3021092,
@@ -57,14 +65,6 @@
       "onboard_time": 1689131192,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2760427,
-      "num": 2760427,
-      "word": "杨洋微博艾特了王楚然",
-      "onboard_time": 1689169659,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2504032,
@@ -355,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1078358,
+      "num": 1078358,
+      "word": "游客爬华山不慎踩空跌落",
+      "onboard_time": 1689167736,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1060758,
       "num": 763483,
       "word": "马里奥和三喜",
       "onboard_time": 1689133835,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1060224,
+      "num": 1060224,
+      "word": "龚俊演技",
+      "onboard_time": 1689169719,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1057163,
@@ -377,14 +393,6 @@
       "onboard_time": 1689151116,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1030939,
-      "num": 1030939,
-      "word": "游客爬华山不慎踩空跌落",
-      "onboard_time": 1689167736,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1023863,
@@ -425,14 +433,6 @@
       "onboard_time": 1689151834,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 946875,
-      "num": 612587,
-      "word": "龚俊演技",
-      "onboard_time": 1689169719,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 935199,
@@ -535,6 +535,14 @@
       "num": 863736,
       "word": "榜一大哥诈骗女主播12万",
       "onboard_time": 1689159934,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854640,
+      "num": 551984,
+      "word": "三胎爸爸用老婆孩子生日组号中7710万",
+      "onboard_time": 1689170859,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -643,6 +651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 743062,
+      "num": 743062,
+      "word": "为什么现在厨房越来越小了",
+      "onboard_time": 1689167254,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 726324,
       "num": 726324,
       "word": "魏大勋杨洋早期同框",
@@ -684,10 +700,18 @@
     },
     {
       "raw_hot": 702245,
-      "num": 497445,
+      "num": 544128,
       "word": "安乐传就更一集够干啥",
       "onboard_time": 1689168818,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 693526,
+      "num": 547847,
+      "word": "孟宴臣身体状况伏笔",
+      "onboard_time": 1689170496,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -755,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 658046,
+      "num": 545467,
+      "word": "赵露思演我车窗照镜子",
+      "onboard_time": 1689170738,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 647518,
       "num": 647518,
       "word": "十个勤天",
@@ -777,14 +809,6 @@
       "onboard_time": 1689162572,
       "rank": 16,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 628267,
-      "num": 628267,
-      "word": "为什么现在厨房越来越小了",
-      "onboard_time": 1689167254,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 623294,
@@ -865,14 +889,6 @@
       "onboard_time": 1689166354,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 583074,
-      "num": 356894,
-      "word": "孟宴臣身体状况伏笔",
-      "onboard_time": 1689170496,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 578392,
@@ -1131,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468611,
-      "num": 281067,
-      "word": "三胎爸爸用老婆孩子生日组号中7710万",
-      "onboard_time": 1689170859,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 467330,
       "num": 419717,
       "word": "爱奇艺2023暑假片单",
@@ -1147,7 +1155,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 457502,
+      "raw_hot": 464860,
       "num": 313101,
       "word": "彭昱畅怎么还敢来",
       "onboard_time": 1689169357,
@@ -1379,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368045,
-      "num": 279338,
-      "word": "赵露思演我车窗照镜子",
-      "onboard_time": 1689170738,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 363582,
       "num": 363582,
       "word": "刘亦菲玫瑰故事下班路透",
@@ -1500,7 +1500,7 @@
     },
     {
       "raw_hot": 336199,
-      "num": 273881,
+      "num": 299088,
       "word": "密室大逃脱大神版",
       "onboard_time": 1689169659,
       "rank": 33,
@@ -1627,12 +1627,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297387,
+      "num": 297387,
+      "word": "工人皮肤病办离职领导捂脸说恶心",
+      "onboard_time": 1689172418,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297332,
       "num": 297332,
       "word": "查理和巧克力工厂前传预告",
       "onboard_time": 1689117685,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296694,
+      "num": 296694,
+      "word": "DIOR大秀谁赢了",
+      "onboard_time": 1689171158,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 295404,
@@ -1683,6 +1699,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 290462,
+      "num": 290462,
+      "word": "八角笼中",
+      "onboard_time": 1689171456,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289944,
       "num": 276824,
       "word": "孟宴臣单手摘眼镜",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1689087580,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286637,
+      "num": 297407,
+      "word": "压缩行李后我的猪变2D了",
+      "onboard_time": 1689171941,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 285706,
@@ -1780,7 +1812,7 @@
     },
     {
       "raw_hot": 273840,
-      "num": 273840,
+      "num": 291645,
       "word": "奶奶带娃游乐场玩怕亏本玩足12小时",
       "onboard_time": 1689170800,
       "rank": 34,
@@ -2003,14 +2035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236890,
-      "num": 236890,
-      "word": "DIOR大秀谁赢了",
-      "onboard_time": 1689171158,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 235248,
       "num": 235248,
       "word": "BLG对战RNG",
@@ -2107,14 +2131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215189,
-      "num": 215189,
-      "word": "八角笼中",
-      "onboard_time": 1689171456,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214420,
       "num": 214420,
       "word": "TF三代自己的小时代",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1689150455,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201884,
+      "num": 201884,
+      "word": "沈腾马丽版孟许时分",
+      "onboard_time": 1689172477,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201352,
