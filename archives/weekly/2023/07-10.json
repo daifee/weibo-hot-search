@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689197637816,
+  "endTime": 1689200268320,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -2228,7 +2228,7 @@
     },
     {
       "raw_hot": 628896,
-      "num": 323302,
+      "num": 399405,
       "word": "直系亲属有案底影响考公吗",
       "onboard_time": 1689177690,
       "rank": 21,
@@ -7603,6 +7603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 48874,
+      "num": 48874,
+      "word": "李娜重返温网参赛",
+      "onboard_time": 1689195852,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45928,
       "num": 51938,
       "word": "UP对战TES",
@@ -7635,8 +7643,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 37022,
-      "num": 37022,
+      "raw_hot": 37539,
+      "num": 40939,
       "word": "刘宇宁原声台词",
       "onboard_time": 1689193513,
       "rank": 21,
@@ -7659,14 +7667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32101,
-      "num": 32101,
-      "word": "李娜重返温网参赛",
-      "onboard_time": 1689195852,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 30270,
       "num": 501659,
       "word": "吴易昺赞李娜是传奇",
@@ -7684,7 +7684,7 @@
     },
     {
       "raw_hot": 29797,
-      "num": 29797,
+      "num": 40836,
       "word": "微博毕业派对",
       "onboard_time": 1689161672,
       "rank": 39,
@@ -7697,6 +7697,14 @@
       "onboard_time": 1689101775,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27919,
+      "num": 40859,
+      "word": "汪苏泷唱什么都很容易",
+      "onboard_time": 1689196152,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 27838,
@@ -7729,14 +7737,6 @@
       "onboard_time": 1688963741,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19877,
-      "num": 21965,
-      "word": "汪苏泷唱什么都很容易",
-      "onboard_time": 1689196152,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 15098,
