@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689133177790,
+  "endTime": 1689135773280,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -17,6 +17,14 @@
       "onboard_time": 1689129271,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2767968,
+      "num": 2767968,
+      "word": "原来大家讨厌的不是月薪三千",
+      "onboard_time": 1689131192,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 2356855,
@@ -67,20 +75,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1801627,
-      "num": 1801627,
-      "word": "原来大家讨厌的不是月薪三千",
-      "onboard_time": 1689131192,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1794243,
       "num": 1794243,
       "word": "宝格丽CEO曾称中国市场比本土还重要",
       "onboard_time": 1689122973,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1551367,
+      "num": 1551367,
+      "word": "微信称不会显示已读",
+      "onboard_time": 1689132395,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 1336958,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1261924,
+      "num": 1261924,
+      "word": "葛沛豪评论",
+      "onboard_time": 1689133775,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1175309,
       "num": 1175309,
       "word": "男子在被卖到缅甸途中跳车报警",
@@ -113,6 +129,14 @@
       "onboard_time": 1689131255,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1060758,
+      "num": 763483,
+      "word": "马里奥和三喜",
+      "onboard_time": 1689133835,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1057163,
@@ -131,12 +155,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 981741,
-      "num": 981741,
+      "raw_hot": 995414,
+      "num": 995414,
       "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
       "onboard_time": 1689130412,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939036,
+      "num": 939036,
+      "word": "魏大勋文咏珊居然演过情侣",
+      "onboard_time": 1689134559,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 935199,
+      "num": 935199,
+      "word": "刘涛生日连发30张照片",
+      "onboard_time": 1689133597,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 912103,
@@ -211,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 710950,
+      "num": 710950,
+      "word": "美国新婚夫妻上演真人版消失的她",
+      "onboard_time": 1689133835,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706934,
       "num": 706934,
       "word": "父亲开家长会睡觉和儿子同一姿势",
@@ -241,6 +289,14 @@
       "onboard_time": 1689121293,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 653718,
+      "num": 653718,
+      "word": "脖子挂大饼饿死可能是抑郁症",
+      "onboard_time": 1689132454,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647369,
@@ -324,7 +380,7 @@
     },
     {
       "raw_hot": 497248,
-      "num": 283820,
+      "num": 356016,
       "word": "夏雪结婚的话刘星应该也会这样吧",
       "onboard_time": 1689130472,
       "rank": 36,
@@ -363,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 465164,
-      "num": 465164,
-      "word": "微信称不会显示已读",
-      "onboard_time": 1689132395,
-      "rank": 43,
-      "category": "科技"
+      "raw_hot": 458460,
+      "num": 458460,
+      "word": "黄子佼被立案调查",
+      "onboard_time": 1689134016,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 454860,
@@ -403,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436961,
+      "num": 436961,
+      "word": "每天上班很累的原因找到了",
+      "onboard_time": 1689134139,
+      "rank": 22,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 432204,
       "num": 432204,
       "word": "刘浩存七根凶简造型",
       "onboard_time": 1689088659,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430104,
+      "num": 430104,
+      "word": "中国驻加拿大大使馆安利玉骨遥",
+      "onboard_time": 1689132573,
+      "rank": 28,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 428124,
@@ -433,6 +505,14 @@
       "onboard_time": 1689078816,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413822,
+      "num": 413822,
+      "word": "关晓彤范丞丞床咚吻戏",
+      "onboard_time": 1689135037,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 384645,
@@ -467,12 +547,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356429,
+      "num": 356429,
+      "word": "你好星期六",
+      "onboard_time": 1689131857,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 354847,
+      "num": 354847,
+      "word": "电影票只改不退合理吗",
+      "onboard_time": 1689133894,
+      "rank": 30,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 342569,
       "num": 342569,
       "word": "警方通报无锡3岁女童事件调查结果",
       "onboard_time": 1689073897,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339181,
+      "num": 339181,
+      "word": "逼疯宋焰只需一个蒋裕",
+      "onboard_time": 1689132213,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 331402,
@@ -483,11 +587,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 329563,
-      "num": 274349,
-      "word": "脖子挂大饼饿死可能是抑郁症",
-      "onboard_time": 1689132454,
-      "rank": 44,
+      "raw_hot": 326299,
+      "num": 326299,
+      "word": "62岁德国地产大亨在泰国被肢解",
+      "onboard_time": 1689135519,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -496,6 +600,14 @@
       "word": "封神终极预告燃起来了",
       "onboard_time": 1689132874,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 316250,
+      "num": 316250,
+      "word": "杨洋和宋轶合作过",
+      "onboard_time": 1689135276,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -513,6 +625,22 @@
       "onboard_time": 1689116961,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309478,
+      "num": 309478,
+      "word": "上午毕业下午就收到了offer",
+      "onboard_time": 1689135459,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 309090,
+      "num": 309090,
+      "word": "刘亦菲玫瑰故事下班路透",
+      "onboard_time": 1689135459,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 308191,
@@ -555,6 +683,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 289944,
+      "num": 275284,
+      "word": "孟宴臣单手摘眼镜",
+      "onboard_time": 1689132813,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288917,
       "num": 288917,
       "word": "张一山关晓彤北京话互怼",
@@ -569,14 +705,6 @@
       "onboard_time": 1689121535,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281149,
-      "num": 281149,
-      "word": "中国驻加拿大大使馆安利玉骨遥",
-      "onboard_time": 1689132573,
-      "rank": 28,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 278227,
@@ -600,14 +728,6 @@
       "word": "偷偷藏不住是懂首尾呼应的",
       "onboard_time": 1689129271,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 271646,
-      "num": 271646,
-      "word": "逼疯宋焰只需一个蒋裕",
-      "onboard_time": 1689132213,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -657,6 +777,14 @@
       "onboard_time": 1689068255,
       "rank": 30,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 261325,
+      "num": 261325,
+      "word": "海南警方真的没有创作瓶颈吗",
+      "onboard_time": 1689133718,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257618,
@@ -747,12 +875,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217107,
-      "num": 217107,
-      "word": "你好星期六",
-      "onboard_time": 1689131857,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 222661,
+      "num": 222661,
+      "word": "美国78岁爷爷求婚高中时暗恋对象",
+      "onboard_time": 1689134978,
+      "rank": 47,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 216963,
@@ -843,12 +971,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188906,
-      "num": 188906,
-      "word": "孟宴臣单手摘眼镜",
-      "onboard_time": 1689132813,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 189807,
+      "num": 210051,
+      "word": "载人登月初步方案公布",
+      "onboard_time": 1689135341,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 188181,
@@ -995,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139631,
+      "num": 1320128,
+      "word": "要实实在在为户外劳动者撑好遮阳伞",
+      "onboard_time": 1689131491,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137684,
       "num": 137684,
       "word": "女子被拐26年后回家父母已身亡",
@@ -1025,14 +1161,6 @@
       "onboard_time": 1689112153,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98952,
-      "num": 1308856,
-      "word": "要实实在在为户外劳动者撑好遮阳伞",
-      "onboard_time": 1689131491,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77338,
@@ -1072,6 +1200,14 @@
       "word": "长江文物宝藏画卷",
       "onboard_time": 1689085121,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39002,
+      "num": 275883,
+      "word": "三伏天哪些城市超过36度了",
+      "onboard_time": 1689134436,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
