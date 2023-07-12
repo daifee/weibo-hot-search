@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689143934105,
+  "endTime": 1689146272017,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2563,6 +2563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1472711,
+      "num": 1357241,
+      "word": "葛沛豪评论",
+      "onboard_time": 1689133775,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1470492,
       "num": 1470492,
       "word": "刘昊然胡子",
@@ -2609,14 +2617,6 @@
       "onboard_time": 1688994153,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1454321,
-      "num": 1357241,
-      "word": "葛沛豪评论",
-      "onboard_time": 1689133775,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1451655,
@@ -2953,6 +2953,14 @@
       "onboard_time": 1688434776,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1336233,
+      "num": 1336233,
+      "word": "充值700元仍看不完一部网文",
+      "onboard_time": 1689141695,
+      "rank": 21,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1335823,
@@ -3465,6 +3473,14 @@
       "onboard_time": 1688222138,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1185579,
+      "num": 503474,
+      "word": "武大回应北大学生转学至武大",
+      "onboard_time": 1689143372,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1181280,
@@ -6811,6 +6827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 746459,
+      "num": 746459,
+      "word": "A股",
+      "onboard_time": 1688716594,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 746391,
       "num": 746391,
       "word": "赵丽颖张睿演过新还珠格格",
@@ -7321,6 +7345,14 @@
       "onboard_time": 1688342672,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 700125,
+      "num": 700125,
+      "word": "易梦玲喝奶茶",
+      "onboard_time": 1689144632,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 698961,
@@ -8731,6 +8763,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 609429,
+      "num": 509959,
+      "word": "孟宴臣许沁cp粉出手了",
+      "onboard_time": 1689141273,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 609256,
       "num": 462130,
       "word": "62岁德国地产大亨在泰国被肢解",
@@ -9561,14 +9601,6 @@
       "onboard_time": 1689000576,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 558543,
-      "num": 558543,
-      "word": "充值700元仍看不完一部网文",
-      "onboard_time": 1689141695,
-      "rank": 21,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 557685,
@@ -10491,6 +10523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510886,
+      "num": 360831,
+      "word": "张元英HelloKitty眼妆",
+      "onboard_time": 1689144392,
+      "rank": 20,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 510721,
       "num": 510721,
       "word": "精神离职",
@@ -10513,14 +10553,6 @@
       "onboard_time": 1688537074,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 509959,
-      "num": 509959,
-      "word": "孟宴臣许沁cp粉出手了",
-      "onboard_time": 1689141273,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 509956,
@@ -12523,6 +12555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432813,
+      "num": 348524,
+      "word": "李明德夸肖战是神仙本仙",
+      "onboard_time": 1689143912,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432548,
       "num": 432548,
       "word": "金地雄晕倒",
@@ -13137,14 +13177,6 @@
       "onboard_time": 1688465738,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 411018,
-      "num": 411018,
-      "word": "A股",
-      "onboard_time": 1688716594,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 410666,
@@ -15203,6 +15235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 351272,
+      "num": 232931,
+      "word": "王心凌演唱会官宣23站",
+      "onboard_time": 1689145531,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350793,
       "num": 350793,
       "word": "福宝",
@@ -16313,14 +16353,6 @@
       "onboard_time": 1688307761,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 323164,
-      "num": 250454,
-      "word": "武大回应北大学生转学至武大",
-      "onboard_time": 1689143372,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 323055,
@@ -18163,6 +18195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286256,
+      "num": 231920,
+      "word": "减肥人的绝配是快乐减肥操",
+      "onboard_time": 1689145292,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286139,
       "num": 286139,
       "word": "5亿不如生娃大妈喊话去幼儿园看看",
@@ -19843,6 +19883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254752,
+      "num": 254752,
+      "word": "已读不回属于社交默契还是冷暴力",
+      "onboard_time": 1689145831,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254742,
       "num": 262436,
       "word": "体感上延长周末的神奇方法",
@@ -21219,6 +21267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234168,
+      "num": 234168,
+      "word": "浙江大学第一封录取通知书",
+      "onboard_time": 1689145771,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 234154,
       "num": 234154,
       "word": "三伏贴",
@@ -22107,6 +22163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221292,
+      "num": 221292,
+      "word": "玉骨遥主演剧透大结局",
+      "onboard_time": 1689145955,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221104,
       "num": 221104,
       "word": "没想到保洁大叔家里有房有车",
@@ -22417,6 +22481,14 @@
       "onboard_time": 1688182353,
       "rank": 43,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 216673,
+      "num": 216673,
+      "word": "李梦 张隆每个月都有按时付钱",
+      "onboard_time": 1689145893,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 216662,
@@ -24123,14 +24195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194848,
-      "num": 194848,
-      "word": "李明德夸肖战是神仙本仙",
-      "onboard_time": 1689143912,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194837,
       "num": 194837,
       "word": "追光的日子",
@@ -24233,6 +24297,14 @@
       "onboard_time": 1688574991,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193820,
+      "num": 200766,
+      "word": "实习生离职后换了电脑桌面",
+      "onboard_time": 1689146013,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 193530,
@@ -25155,6 +25227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180886,
+      "num": 180886,
+      "word": "熊猫宝宝剪脐带瞬间",
+      "onboard_time": 1689142113,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180711,
       "num": 180711,
       "word": "看完腿软系列",
@@ -25849,14 +25929,6 @@
       "onboard_time": 1688433695,
       "rank": 44,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 169902,
-      "num": 169902,
-      "word": "熊猫宝宝剪脐带瞬间",
-      "onboard_time": 1689142113,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169784,
@@ -28849,6 +28921,14 @@
       "onboard_time": 1688500931,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13237,
+      "num": 501659,
+      "word": "吴易昺赞李娜是传奇",
+      "onboard_time": 1689146130,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 11854,

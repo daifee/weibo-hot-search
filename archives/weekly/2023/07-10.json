@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689143934105,
+  "endTime": 1689146272017,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -531,20 +531,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1472711,
+      "num": 1357241,
+      "word": "葛沛豪评论",
+      "onboard_time": 1689133775,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1454687,
       "num": 1454687,
       "word": "陕西省发现一例猴痘病例",
       "onboard_time": 1688994153,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1454321,
-      "num": 1357241,
-      "word": "葛沛豪评论",
-      "onboard_time": 1689133775,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1417629,
@@ -593,6 +593,14 @@
       "onboard_time": 1689120874,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1336233,
+      "num": 1336233,
+      "word": "充值700元仍看不完一部网文",
+      "onboard_time": 1689141695,
+      "rank": 21,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1334758,
@@ -729,6 +737,14 @@
       "onboard_time": 1689035797,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1185579,
+      "num": 503474,
+      "word": "武大回应北大学生转学至武大",
+      "onboard_time": 1689143372,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1175309,
@@ -1443,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 746459,
+      "num": 746459,
+      "word": "A股",
+      "onboard_time": 1689144632,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 744944,
       "num": 744944,
       "word": "微信可以购买苹果产品了",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1689055414,
       "rank": 15,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 700125,
+      "num": 700125,
+      "word": "易梦玲喝奶茶",
+      "onboard_time": 1689144632,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 697537,
@@ -1827,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609429,
+      "num": 509959,
+      "word": "孟宴臣许沁cp粉出手了",
+      "onboard_time": 1689141273,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 609256,
       "num": 462130,
       "word": "62岁德国地产大亨在泰国被肢解",
@@ -2017,14 +2057,6 @@
       "onboard_time": 1689000576,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 558543,
-      "num": 558543,
-      "word": "充值700元仍看不完一部网文",
-      "onboard_time": 1689141695,
-      "rank": 21,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 557575,
@@ -2227,20 +2259,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 510886,
+      "num": 360831,
+      "word": "张元英HelloKitty眼妆",
+      "onboard_time": 1689144392,
+      "rank": 20,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 510700,
       "num": 510700,
       "word": "买大了的拖鞋不要急着丢",
       "onboard_time": 1689064115,
       "rank": 36,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 509959,
-      "num": 509959,
-      "word": "孟宴臣许沁cp粉出手了",
-      "onboard_time": 1689141273,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 508414,
@@ -2777,6 +2809,14 @@
       "onboard_time": 1688944161,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432813,
+      "num": 348524,
+      "word": "李明德夸肖战是神仙本仙",
+      "onboard_time": 1689143912,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 432428,
@@ -3419,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351272,
+      "num": 232931,
+      "word": "王心凌演唱会官宣23站",
+      "onboard_time": 1689145531,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350793,
       "num": 350793,
       "word": "福宝",
@@ -3647,14 +3695,6 @@
       "num": 213191,
       "word": "南大0001号录取通知书获得者",
       "onboard_time": 1688941275,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 323164,
-      "num": 250454,
-      "word": "武大回应北大学生转学至武大",
-      "onboard_time": 1689143372,
       "rank": 30,
       "category": "教育,社会新闻"
     },
@@ -4115,6 +4155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286256,
+      "num": 231920,
+      "word": "减肥人的绝配是快乐减肥操",
+      "onboard_time": 1689145292,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285648,
       "num": 270178,
       "word": "大张伟说杨幂有鲁豫的感觉",
@@ -4523,6 +4571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254752,
+      "num": 254752,
+      "word": "已读不回属于社交默契还是冷暴力",
+      "onboard_time": 1689145831,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254435,
       "num": 199643,
       "word": "徐穗珍更新ins",
@@ -4803,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234168,
+      "num": 234168,
+      "word": "浙江大学第一封录取通知书",
+      "onboard_time": 1689145771,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 234154,
       "num": 234154,
       "word": "三伏贴",
@@ -4963,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221292,
+      "num": 221292,
+      "word": "玉骨遥主演剧透大结局",
+      "onboard_time": 1689145955,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221179,
       "num": 190839,
       "word": "杨紫棕色系穿搭",
@@ -5041,6 +5113,14 @@
       "onboard_time": 1689113656,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216673,
+      "num": 216673,
+      "word": "李梦 张隆每个月都有按时付钱",
+      "onboard_time": 1689145893,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 216405,
@@ -5419,20 +5499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194848,
-      "num": 194848,
-      "word": "李明德夸肖战是神仙本仙",
-      "onboard_time": 1689143912,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194070,
       "num": 194070,
       "word": "WE对战JDG",
       "onboard_time": 1689078396,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193820,
+      "num": 200766,
+      "word": "实习生离职后换了电脑桌面",
+      "onboard_time": 1689146013,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 193404,
@@ -5643,6 +5723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180886,
+      "num": 180886,
+      "word": "熊猫宝宝剪脐带瞬间",
+      "onboard_time": 1689142113,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180637,
       "num": 180637,
       "word": "永远在一起这事离我越来越远",
@@ -5713,14 +5801,6 @@
       "onboard_time": 1689031104,
       "rank": 47,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 169902,
-      "num": 169902,
-      "word": "熊猫宝宝剪脐带瞬间",
-      "onboard_time": 1689142113,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169537,
@@ -6321,6 +6401,14 @@
       "onboard_time": 1688963741,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13237,
+      "num": 501659,
+      "word": "吴易昺赞李娜是传奇",
+      "onboard_time": 1689146130,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 5238,

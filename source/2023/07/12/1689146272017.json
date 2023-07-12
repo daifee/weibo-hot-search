@@ -1,0 +1,410 @@
+{
+  "runTime": 1689146272017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1336233,
+        "num": 1336233,
+        "word": "充值700元仍看不完一部网文",
+        "onboard_time": 1689141695,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1081834,
+        "num": 1081834,
+        "word": "复旦十八驴",
+        "onboard_time": 1689139594,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100740,
+        "num": 872816,
+        "word": "要实实在在为户外劳动者撑好遮阳伞",
+        "onboard_time": 1689131491,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1472711,
+        "num": 872771,
+        "word": "葛沛豪评论",
+        "onboard_time": 1689133775,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854027,
+        "num": 854027,
+        "word": "爸爸当家",
+        "onboard_time": 1689141513,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 814844,
+        "num": 814844,
+        "word": "微信称不会显示已读",
+        "onboard_time": 1689132395,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 746459,
+        "num": 746459,
+        "word": "A股",
+        "onboard_time": 1689144632,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 700125,
+        "num": 700125,
+        "word": "易梦玲喝奶茶",
+        "onboard_time": 1689144632,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683592,
+        "num": 683592,
+        "word": "关晓彤范丞丞床咚吻戏",
+        "onboard_time": 1689135037,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503501,
+        "num": 503501,
+        "word": "民警因公牺牲2年后女儿考上公安大学",
+        "onboard_time": 1689140975,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1185579,
+        "num": 503474,
+        "word": "武大回应北大学生转学至武大",
+        "onboard_time": 1689143372,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 824211,
+        "num": 503004,
+        "word": "米米",
+        "onboard_time": 1689122973,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729233,
+        "num": 502687,
+        "word": "被指猥亵女童的蛋糕店主妻子发声",
+        "onboard_time": 1689129271,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609429,
+        "num": 502069,
+        "word": "孟宴臣许沁cp粉出手了",
+        "onboard_time": 1689141273,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13237,
+        "num": 501659,
+        "word": "吴易昺赞李娜是传奇",
+        "onboard_time": 1689146130,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501571,
+        "num": 501571,
+        "word": "每天上班很累的原因找到了",
+        "onboard_time": 1689134139,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 465015,
+        "num": 465015,
+        "word": "孙俪时隔20年再演女刑警",
+        "onboard_time": 1689137561,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459069,
+        "num": 459069,
+        "word": "马立奥和三喜",
+        "onboard_time": 1689133835,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446396,
+        "num": 446396,
+        "word": "BLACKPINK除Lisa外续约进展顺利",
+        "onboard_time": 1689126751,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418400,
+        "num": 418400,
+        "word": "Uzi发文感谢队友",
+        "onboard_time": 1689137619,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 510886,
+        "num": 360831,
+        "word": "张元英HelloKitty眼妆",
+        "onboard_time": 1689144392,
+        "rank": 20,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 432813,
+        "num": 348524,
+        "word": "李明德夸肖战是神仙本仙",
+        "onboard_time": 1689143912,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283444,
+        "num": 283444,
+        "word": "办案民警称私搭浮桥当事人收了30万",
+        "onboard_time": 1689137920,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264132,
+        "num": 264132,
+        "word": "62岁德国地产大亨在泰国被肢解",
+        "onboard_time": 1689135519,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254752,
+        "num": 254752,
+        "word": "已读不回属于社交默契还是冷暴力",
+        "onboard_time": 1689145831,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420453,
+        "num": 254641,
+        "word": "易烊千玺趴在地上画画",
+        "onboard_time": 1689141156,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363395,
+        "num": 254502,
+        "word": "黄景瑜他从火光中走来",
+        "onboard_time": 1689141033,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358323,
+        "num": 254432,
+        "word": "魏大勋文咏珊居然演过情侣",
+        "onboard_time": 1689134559,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254281,
+        "num": 254281,
+        "word": "脖子挂大饼饿死可能是抑郁症",
+        "onboard_time": 1689132454,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234168,
+        "num": 234168,
+        "word": "浙江大学第一封录取通知书",
+        "onboard_time": 1689145771,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 351272,
+        "num": 232931,
+        "word": "王心凌演唱会官宣23站",
+        "onboard_time": 1689145531,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286256,
+        "num": 231920,
+        "word": "减肥人的绝配是快乐减肥操",
+        "onboard_time": 1689145292,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252891,
+        "num": 231131,
+        "word": "彭昱畅许凯凑不齐一个胆",
+        "onboard_time": 1689139538,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230215,
+        "num": 230215,
+        "word": "长期喝咖啡会导致皮质醇过高",
+        "onboard_time": 1689119968,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227914,
+        "num": 227914,
+        "word": "美国新婚夫妻上演真人版消失的她",
+        "onboard_time": 1689133835,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221292,
+        "num": 221292,
+        "word": "玉骨遥主演剧透大结局",
+        "onboard_time": 1689145955,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216673,
+        "num": 216673,
+        "word": "李梦 张隆每个月都有按时付钱",
+        "onboard_time": 1689145893,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209107,
+        "num": 209107,
+        "word": "迪丽热巴旷野鎏金芭莎预告",
+        "onboard_time": 1689138576,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204507,
+        "num": 204507,
+        "word": "YG回应Lisa续约情况",
+        "onboard_time": 1689131255,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193820,
+        "num": 200766,
+        "word": "实习生离职后换了电脑桌面",
+        "onboard_time": 1689146013,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 198222,
+        "num": 198222,
+        "word": "王栎鑫前妻说不想再照顾男人",
+        "onboard_time": 1689128853,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195399,
+        "num": 195399,
+        "word": "黄明昊左手彭昱畅右手许凯",
+        "onboard_time": 1689143372,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 186674,
+        "num": 186674,
+        "word": "美国78岁爷爷求婚高中时暗恋对象",
+        "onboard_time": 1689134978,
+        "rank": 42,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 180886,
+        "num": 180886,
+        "word": "熊猫宝宝剪脐带瞬间",
+        "onboard_time": 1689142113,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178830,
+        "num": 178830,
+        "word": "费玉清",
+        "onboard_time": 1689138100,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171776,
+        "num": 171776,
+        "word": "沈月套了个麻袋",
+        "onboard_time": 1689142652,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170395,
+        "num": 170395,
+        "word": "宝格丽CEO曾称中国市场比本土还重要",
+        "onboard_time": 1689122973,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 153305,
+        "num": 153305,
+        "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
+        "onboard_time": 1689130412,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164286,
+        "num": 152980,
+        "word": "黄子佼被立案调查",
+        "onboard_time": 1689134016,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152039,
+        "num": 152039,
+        "word": "人贩子余华英卖亲生子后开始拐卖儿童",
+        "onboard_time": 1689136479,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023中国新媒体大会#"
+    }
+  }
+}
