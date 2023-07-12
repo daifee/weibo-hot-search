@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689118459021,
+  "endTime": 1689126724690,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2356855,
+      "num": 2356855,
+      "word": "长期喝咖啡会导致皮质醇过高",
+      "onboard_time": 1689119968,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2307405,
       "num": 2307405,
       "word": "华莎被告发涉嫌演出淫乱罪",
@@ -249,6 +257,14 @@
       "onboard_time": 1689082775,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2079684,
+      "num": 2079684,
+      "word": "400万粉丝网红发布擦边视频被封",
+      "onboard_time": 1689120690,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2073375,
@@ -345,6 +361,14 @@
       "onboard_time": 1689065673,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1794243,
+      "num": 1794243,
+      "word": "宝格丽CEO曾称中国市场比本土还重要",
+      "onboard_time": 1689122973,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1740683,
@@ -491,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1336958,
+      "num": 1336958,
+      "word": "美性侵上百人队医狱中被刺10刀",
+      "onboard_time": 1689120874,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1334758,
       "num": 1334758,
       "word": "黄渤一把拉走袁泉",
@@ -537,6 +569,14 @@
       "onboard_time": 1688991452,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1244695,
+      "num": 642070,
+      "word": "米米",
+      "onboard_time": 1689122973,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1242648,
@@ -609,6 +649,14 @@
       "onboard_time": 1689035797,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1175309,
+      "num": 1175309,
+      "word": "男子在被卖到缅甸途中跳车报警",
+      "onboard_time": 1689121594,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1164405,
@@ -881,6 +929,14 @@
       "onboard_time": 1688900433,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938922,
+      "num": 938922,
+      "word": "欧文签约安踏",
+      "onboard_time": 1689125553,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 937698,
@@ -1171,6 +1227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 759441,
+      "num": 759441,
+      "word": "大勋拜托你以孟宴臣的人设参加",
+      "onboard_time": 1689121894,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758850,
       "num": 758850,
       "word": "杨幂采访谈离嘉",
@@ -1329,6 +1393,14 @@
       "onboard_time": 1688981493,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 678256,
+      "num": 361416,
+      "word": "飞机上我女儿被空姐喂饭了",
+      "onboard_time": 1689121293,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 675298,
@@ -1699,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553942,
+      "num": 350131,
+      "word": "哇唧唧哇新艺人cos天官赐福",
+      "onboard_time": 1689122556,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551881,
       "num": 426748,
       "word": "偷偷藏不住 删减",
@@ -1825,6 +1905,14 @@
       "onboard_time": 1688961936,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 512278,
+      "num": 512278,
+      "word": "无锡警方通报3岁女童事件",
+      "onboard_time": 1689120630,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512119,
@@ -2027,6 +2115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 471065,
+      "num": 471065,
+      "word": "我的人间烟火之你们到底认不认识",
+      "onboard_time": 1689122375,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 469837,
       "num": 469837,
       "word": "凉山女孩考上浙大保研清华存下16万",
@@ -2139,6 +2235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454860,
+      "num": 454860,
+      "word": "电影票还能这样退",
+      "onboard_time": 1689120513,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 452878,
       "num": 452878,
       "word": "吉克隽逸建议大家多吃蓝莓",
@@ -2201,6 +2305,14 @@
       "onboard_time": 1689088896,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442982,
+      "num": 442982,
+      "word": "邮储回应招牌中国被拼成CIHNA",
+      "onboard_time": 1689125553,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442976,
@@ -2353,6 +2465,14 @@
       "onboard_time": 1689048702,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 428124,
+      "num": 186331,
+      "word": "小雪",
+      "onboard_time": 1689119306,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 427016,
@@ -2561,6 +2681,14 @@
       "onboard_time": 1689036517,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 390044,
+      "num": 390044,
+      "word": "张远说真爱都没什么好下场",
+      "onboard_time": 1689126091,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 389471,
@@ -3371,6 +3499,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 292983,
+      "num": 292983,
+      "word": "冷漠型人格形成的原因",
+      "onboard_time": 1689126271,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292746,
       "num": 292746,
       "word": "金智秀黑色美甲",
@@ -3481,6 +3617,14 @@
       "onboard_time": 1689075873,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284860,
+      "num": 284860,
+      "word": "李木戈的舒适区",
+      "onboard_time": 1689121535,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284850,
@@ -3995,6 +4139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241083,
+      "num": 241083,
+      "word": "魏大勋杨洋早期同框",
+      "onboard_time": 1689126451,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240538,
       "num": 240538,
       "word": "熊猫泡澡小手一直在水里扑腾",
@@ -4092,7 +4244,7 @@
     },
     {
       "raw_hot": 228907,
-      "num": 146784,
+      "num": 163903,
       "word": "肖战分享时影同款火烧云",
       "onboard_time": 1689118106,
       "rank": 31,
@@ -4105,6 +4257,14 @@
       "onboard_time": 1689058172,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 227611,
+      "num": 227611,
+      "word": "王楚然校服怼脸照",
+      "onboard_time": 1689125792,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 227116,
@@ -4235,6 +4395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217837,
+      "num": 217837,
+      "word": "差点忘了黄渤还是青岛舞王",
+      "onboard_time": 1689126332,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217817,
       "num": 2017425,
       "word": "明天才入伏",
@@ -4355,12 +4523,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212833,
+      "num": 212833,
+      "word": "无畏契约正式上线",
+      "onboard_time": 1689126451,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 212444,
+      "num": 212444,
+      "word": "积水倒灌被困老人开门瞬间仿佛看到了光",
+      "onboard_time": 1689122856,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212158,
       "num": 212158,
       "word": "大熊猫爱宝新宝宝名字",
       "onboard_time": 1689039693,
       "rank": 45,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 209686,
+      "num": 209686,
+      "word": "爱宝双胞胎诞生的背后故事",
+      "onboard_time": 1689126152,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209649,
@@ -4539,6 +4731,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 198181,
+      "num": 198181,
+      "word": "当i狗遇到e狗",
+      "onboard_time": 1689123933,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198141,
       "num": 216198,
       "word": "碟中谍7",
@@ -4553,6 +4753,14 @@
       "onboard_time": 1688996917,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197229,
+      "num": 197229,
+      "word": "朱雀二号遥二运载火箭成功发射",
+      "onboard_time": 1689126332,
+      "rank": 39,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 196811,
@@ -4707,6 +4915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187420,
+      "num": 187420,
+      "word": "北京大雨",
+      "onboard_time": 1689119068,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186020,
       "num": 186020,
       "word": "北方的白猪到南方中暑变粉猪啦",
@@ -4745,6 +4961,14 @@
       "onboard_time": 1689079295,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184017,
+      "num": 184017,
+      "word": "i型小猫要不到一点零食",
+      "onboard_time": 1689124593,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 183995,
@@ -4793,6 +5017,14 @@
       "onboard_time": 1688953229,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179251,
+      "num": 179251,
+      "word": "ITZY造型师",
+      "onboard_time": 1689123271,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177819,
@@ -4929,6 +5161,14 @@
       "onboard_time": 1688977173,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 163324,
+      "num": 163324,
+      "word": "小镇理发店28年坚持只收5元",
+      "onboard_time": 1689124832,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163117,
@@ -5323,6 +5563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39664,
+      "num": 1905864,
+      "word": "长江文物宝藏画卷",
+      "onboard_time": 1689085121,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37867,
       "num": 519223,
       "word": "朱琳组合VS张帅组合",
@@ -5337,14 +5585,6 @@
       "onboard_time": 1688924777,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 36766,
-      "num": 1742894,
-      "word": "长江文物宝藏画卷",
-      "onboard_time": 1689085121,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33266,
