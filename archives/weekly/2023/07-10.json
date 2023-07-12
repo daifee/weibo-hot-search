@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689182207110,
+  "endTime": 1689183285951,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -7385,6 +7385,14 @@
       "onboard_time": 1689180384,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101707,
+      "num": 101707,
+      "word": "郭麒麟眼里的蒋依依",
+      "onboard_time": 1689182240,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 100587,
