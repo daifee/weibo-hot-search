@@ -1,0 +1,411 @@
+{
+  "startTime": 1689179109495,
+  "endTime": 1689179109495,
+  "band_list": [
+    {
+      "raw_hot": 1858292,
+      "num": 1037628,
+      "word": "男子在缅甸被砍掉脚趾向哥哥求救",
+      "onboard_time": 1689173435,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1402193,
+      "num": 1402193,
+      "word": "杨洋微博艾特了王楚然",
+      "onboard_time": 1689169659,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1107255,
+      "num": 1107255,
+      "word": "广州迪士尼",
+      "onboard_time": 1689174455,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010158,
+      "num": 1010158,
+      "word": "李咏女儿法图麦露背身材",
+      "onboard_time": 1689173317,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 841229,
+      "num": 587038,
+      "word": "安乐传空降了",
+      "onboard_time": 1689165814,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 644384,
+      "num": 644384,
+      "word": "奚安娜葛沛豪回应",
+      "onboard_time": 1689160712,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 590848,
+      "num": 590848,
+      "word": "余华真的很懂年轻人",
+      "onboard_time": 1689174814,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 583201,
+      "num": 583201,
+      "word": "魏大勋是JYP第一个中国演员",
+      "onboard_time": 1689163051,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 541436,
+      "num": 529355,
+      "word": "杨紫是张一山永远的人脉",
+      "onboard_time": 1689174997,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 529497,
+      "num": 529497,
+      "word": "中方不接受不承认立场得到100多国支持",
+      "onboard_time": 1689162512,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 507342,
+      "num": 328540,
+      "word": "男朋友做的两周年纪念礼物",
+      "onboard_time": 1689175535,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 460890,
+      "num": 460890,
+      "word": "小区惊现40厘米陆龟散步",
+      "onboard_time": 1689164193,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425837,
+      "num": 425837,
+      "word": "孟宴臣身体状况伏笔",
+      "onboard_time": 1689170496,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 418135,
+      "num": 418135,
+      "word": "关晓彤上下班亲的都是我爱的男人",
+      "onboard_time": 1689163772,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 412177,
+      "num": 397470,
+      "word": "创造营2023 女团",
+      "onboard_time": 1689166594,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 399264,
+      "num": 323302,
+      "word": "直系亲属有案底影响考公吗",
+      "onboard_time": 1689177690,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 398235,
+      "num": 398235,
+      "word": "男子办离婚在民政局大厅打老婆",
+      "onboard_time": 1689158913,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395746,
+      "num": 395746,
+      "word": "迪丽热巴工作室换头像背景",
+      "onboard_time": 1689168577,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 350280,
+      "num": 350280,
+      "word": "偷看奶奶给妹妹发微信",
+      "onboard_time": 1689173917,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 339377,
+      "num": 339377,
+      "word": "长相思",
+      "onboard_time": 1689176612,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332128,
+      "num": 332128,
+      "word": "游客爬华山不慎踩空跌落",
+      "onboard_time": 1689167736,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310844,
+      "num": 310844,
+      "word": "安乐传首播反馈",
+      "onboard_time": 1689174098,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 310309,
+      "num": 310309,
+      "word": "工人皮肤病办离职领导捂脸说恶心",
+      "onboard_time": 1689172418,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304113,
+      "num": 223601,
+      "word": "茉酸奶新品问卷价格选项最低68元",
+      "onboard_time": 1689176554,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 279480,
+      "num": 279480,
+      "word": "为什么现在厨房越来越小了",
+      "onboard_time": 1689167254,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 277079,
+      "num": 277079,
+      "word": "迪丽热巴花裙子",
+      "onboard_time": 1689163832,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 254620,
+      "num": 254620,
+      "word": "三胎爸爸用老婆孩子生日组号中7710万",
+      "onboard_time": 1689170859,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248874,
+      "num": 248874,
+      "word": "肖战祝毕业快乐前程似锦",
+      "onboard_time": 1689174156,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 230074,
+      "num": 230074,
+      "word": "华晨宇雨中告别大喊鸟巢见",
+      "onboard_time": 1689174395,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 224805,
+      "num": 224805,
+      "word": "这是扎到烤肠的大动脉上了",
+      "onboard_time": 1689162572,
+      "rank": 29,
+      "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 221830,
+      "num": 221830,
+      "word": "龚俊演技",
+      "onboard_time": 1689169719,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221603,
+      "num": 221603,
+      "word": "Jennie发了和金泰亨被拍到的造型照片",
+      "onboard_time": 1689158374,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 194117,
+      "num": 194117,
+      "word": "35岁以上的人都可以做什么工作",
+      "onboard_time": 1689157055,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189504,
+      "num": 189504,
+      "word": "安乐传山水映世海报",
+      "onboard_time": 1689166116,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188802,
+      "num": 188802,
+      "word": "38度高温下特警一句话让人破防",
+      "onboard_time": 1689178649,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187015,
+      "num": 187015,
+      "word": "赵露思演我车窗照镜子",
+      "onboard_time": 1689170738,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182624,
+      "num": 182624,
+      "word": "女孩偶像屠呦呦高考631分报药学专业",
+      "onboard_time": 1689164193,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 177194,
+      "num": 177194,
+      "word": "狗狗被电动车踏板打了一路屁股",
+      "onboard_time": 1689174696,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172827,
+      "num": 172827,
+      "word": "Angelababy宋轶早期同框",
+      "onboard_time": 1689161912,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163474,
+      "num": 163474,
+      "word": "彭昱畅怎么还敢来",
+      "onboard_time": 1689169357,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160361,
+      "num": 160361,
+      "word": "DIOR大秀谁赢了",
+      "onboard_time": 1689171158,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157857,
+      "num": 157857,
+      "word": "黑龙江省的简称叫啥",
+      "onboard_time": 1689153636,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154148,
+      "num": 154148,
+      "word": "无锡3岁女童母亲疑募捐百万",
+      "onboard_time": 1689156871,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148858,
+      "num": 148858,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1689169659,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140073,
+      "num": 140073,
+      "word": "黄牛招985学生抢林俊杰演唱会门票",
+      "onboard_time": 1689161253,
+      "rank": 45,
+      "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 139979,
+      "num": 139979,
+      "word": "王源你的名字送给毕业生",
+      "onboard_time": 1689173917,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 98969,
+      "num": 1056893,
+      "word": "中国人到月球详细步骤曝光",
+      "onboard_time": 1689169297,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73678,
+      "num": 138424,
+      "word": "BLG对战RNG",
+      "onboard_time": 1689164313,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 68473,
+      "num": 136557,
+      "word": "LGD对战TES",
+      "onboard_time": 1689172776,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 59934,
+      "num": 134865,
+      "word": "婚礼西装",
+      "onboard_time": 1689175535,
+      "rank": 49,
+      "category": "时尚"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平签署通令给2个单位2名个人记功#"
+    }
+  ]
+}
