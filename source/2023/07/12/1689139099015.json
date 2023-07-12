@@ -1,0 +1,410 @@
+{
+  "runTime": 1689139099015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2264185,
+        "num": 2264185,
+        "word": "原来大家讨厌的不是月薪三千",
+        "onboard_time": 1689131192,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1568828,
+        "num": 1568828,
+        "word": "仅1%年轻人月收入超过5万",
+        "onboard_time": 1689137681,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 110915,
+        "num": 1496300,
+        "word": "要实实在在为户外劳动者撑好遮阳伞",
+        "onboard_time": 1689131491,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1472945,
+        "num": 1472945,
+        "word": "魏大勋文咏珊居然演过情侣",
+        "onboard_time": 1689134559,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1357241,
+        "num": 1357241,
+        "word": "葛沛豪评论",
+        "onboard_time": 1689133775,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1287981,
+        "num": 1287981,
+        "word": "微信称不会显示已读",
+        "onboard_time": 1689132395,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1205856,
+        "num": 1205856,
+        "word": "关晓彤范丞丞床咚吻戏",
+        "onboard_time": 1689135037,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 888929,
+        "num": 888929,
+        "word": "BLACKPINK除Lisa外续约进展顺利",
+        "onboard_time": 1689126751,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 877259,
+        "num": 877259,
+        "word": "孙俪时隔20年再演女刑警",
+        "onboard_time": 1689137561,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 769174,
+        "num": 769174,
+        "word": "美国新婚夫妻上演真人版消失的她",
+        "onboard_time": 1689133835,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1383821,
+        "num": 757581,
+        "word": "被指猥亵女童的蛋糕店主妻子发声",
+        "onboard_time": 1689129271,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935356,
+        "num": 751937,
+        "word": "马里奥和三喜",
+        "onboard_time": 1689133835,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 873778,
+        "num": 736204,
+        "word": "Uzi发文感谢队友",
+        "onboard_time": 1689137619,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 810012,
+        "num": 726286,
+        "word": "米米",
+        "onboard_time": 1689122973,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 793424,
+        "num": 714229,
+        "word": "王栎鑫前妻说不想再照顾男人",
+        "onboard_time": 1689128853,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706633,
+        "num": 706633,
+        "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
+        "onboard_time": 1689130412,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684527,
+        "num": 684527,
+        "word": "宝格丽CEO曾称中国市场比本土还重要",
+        "onboard_time": 1689122973,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 622229,
+        "num": 622229,
+        "word": "刘涛生日连发30张照片",
+        "onboard_time": 1689133597,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557708,
+        "num": 557708,
+        "word": "我的人间烟火 复旦十八驴",
+        "onboard_time": 1689136661,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545899,
+        "num": 545899,
+        "word": "每天上班很累的原因找到了",
+        "onboard_time": 1689134139,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 541095,
+        "num": 541095,
+        "word": "黄子佼被立案调查",
+        "onboard_time": 1689134016,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526799,
+        "num": 526799,
+        "word": "迪丽热巴旷野鎏金芭莎预告",
+        "onboard_time": 1689138576,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 508414,
+        "num": 508414,
+        "word": "上午毕业下午就收到了offer",
+        "onboard_time": 1689135459,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471892,
+        "num": 471892,
+        "word": "长期喝咖啡会导致皮质醇过高",
+        "onboard_time": 1689119968,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462130,
+        "num": 462130,
+        "word": "62岁德国地产大亨在泰国被肢解",
+        "onboard_time": 1689135519,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448134,
+        "num": 448134,
+        "word": "费玉清",
+        "onboard_time": 1689138100,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442250,
+        "num": 442250,
+        "word": "脖子挂大饼饿死可能是抑郁症",
+        "onboard_time": 1689132454,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436581,
+        "num": 436581,
+        "word": "YG回应Lisa续约情况",
+        "onboard_time": 1689131255,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430341,
+        "num": 430341,
+        "word": "人贩子余华英卖亲生子后开始拐卖儿童",
+        "onboard_time": 1689136479,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289512,
+        "num": 398951,
+        "word": "办案民警称私搭浮桥当事人收了30万",
+        "onboard_time": 1689137920,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398309,
+        "num": 398309,
+        "word": "唐艺昕张若昀情头",
+        "onboard_time": 1689129811,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 386477,
+        "num": 386477,
+        "word": "杨洋和宋轶合作过",
+        "onboard_time": 1689135276,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377742,
+        "num": 377742,
+        "word": "胡锡进 宝格丽致歉已是正义的胜利",
+        "onboard_time": 1689128969,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330479,
+        "num": 330479,
+        "word": "400万粉丝网红发布擦边视频被封",
+        "onboard_time": 1689120690,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 314651,
+        "num": 314651,
+        "word": "女子因被让座在高铁大吵抹泪说委屈",
+        "onboard_time": 1689137859,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312455,
+        "num": 312455,
+        "word": "电影票只改不退合理吗",
+        "onboard_time": 1689133894,
+        "rank": 35,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 303694,
+        "num": 303694,
+        "word": "杨幂侧边麻花辫",
+        "onboard_time": 1689137020,
+        "rank": 36,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 301891,
+        "num": 301891,
+        "word": "中国驻加拿大大使馆安利玉骨遥",
+        "onboard_time": 1689132573,
+        "rank": 37,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 275431,
+        "num": 275431,
+        "word": "郑欣宜久违露面",
+        "onboard_time": 1689138400,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271781,
+        "num": 271781,
+        "word": "刘亦菲玫瑰故事下班路透",
+        "onboard_time": 1689135459,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270133,
+        "num": 270133,
+        "word": "怦然心动20岁",
+        "onboard_time": 1689137439,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266938,
+        "num": 266938,
+        "word": "孟宴臣单手摘眼镜",
+        "onboard_time": 1689132813,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259669,
+        "num": 259669,
+        "word": "无畏契约正式上线",
+        "onboard_time": 1689126451,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249266,
+        "num": 249266,
+        "word": "宝格丽",
+        "onboard_time": 1689123033,
+        "rank": 43,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 245429,
+        "num": 245429,
+        "word": "7月开始准备考研来得及吗",
+        "onboard_time": 1689138163,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 242687,
+        "num": 242687,
+        "word": "美国78岁爷爷求婚高中时暗恋对象",
+        "onboard_time": 1689134978,
+        "rank": 45,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 218387,
+        "num": 218387,
+        "word": "快递员用12个包裹向妻子补求婚",
+        "onboard_time": 1689127053,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 217556,
+        "num": 217556,
+        "word": "公司的下午茶一人半个西瓜",
+        "onboard_time": 1689130892,
+        "rank": 47,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 215634,
+        "num": 215634,
+        "word": "飞机上我女儿被空姐喂饭了",
+        "onboard_time": 1689121293,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191113,
+        "num": 205320,
+        "word": "夏雪结婚的话刘星应该也会这样吧",
+        "onboard_time": 1689130472,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动能耗双控逐步转向碳排放双控#"
+    }
+  }
+}

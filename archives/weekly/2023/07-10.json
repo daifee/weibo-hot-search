@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689136662639,
+  "endTime": 1689139099015,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1568828,
+      "num": 1568828,
+      "word": "仅1%年轻人月收入超过5万",
+      "onboard_time": 1689137681,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1562074,
       "num": 1562074,
       "word": "易梦玲要开始演戏了",
@@ -507,8 +515,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1458117,
-      "num": 1458117,
+      "raw_hot": 1472945,
+      "num": 1472945,
       "word": "魏大勋文咏珊居然演过情侣",
       "onboard_time": 1689134559,
       "rank": 6,
@@ -561,6 +569,14 @@
       "onboard_time": 1688997937,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1357241,
+      "num": 1357241,
+      "word": "葛沛豪评论",
+      "onboard_time": 1689133775,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1336958,
@@ -627,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1261924,
-      "num": 1261924,
-      "word": "葛沛豪评论",
-      "onboard_time": 1689133775,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1242648,
       "num": 1242648,
       "word": "你不用变得很外向 但要发言时一定要勇敢",
@@ -681,6 +689,14 @@
       "onboard_time": 1688952451,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1205856,
+      "num": 1205856,
+      "word": "关晓彤范丞丞床咚吻戏",
+      "onboard_time": 1689135037,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 1194946,
@@ -1163,12 +1179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 877259,
+      "num": 877259,
+      "word": "孙俪时隔20年再演女刑警",
+      "onboard_time": 1689137561,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 875309,
       "num": 875309,
       "word": "宣传部回应男子幼儿园行凶致6死1伤",
       "onboard_time": 1688964040,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873778,
+      "num": 736204,
+      "word": "Uzi发文感谢队友",
+      "onboard_time": 1689137619,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 862902,
@@ -1267,14 +1299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 809664,
-      "num": 436771,
-      "word": "关晓彤范丞丞床咚吻戏",
-      "onboard_time": 1689135037,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 806184,
       "num": 806184,
       "word": "上万韩国人竞聘福宝一日饲养员助理",
@@ -1339,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769174,
+      "num": 769174,
+      "word": "美国新婚夫妻上演真人版消失的她",
+      "onboard_time": 1689133835,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767908,
       "num": 767908,
       "word": "张远说真爱都没什么好下场",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1688957309,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 751992,
-      "num": 751992,
-      "word": "美国新婚夫妻上演真人版消失的她",
-      "onboard_time": 1689133835,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 744944,
@@ -1772,7 +1796,7 @@
     },
     {
       "raw_hot": 609256,
-      "num": 363632,
+      "num": 462130,
       "word": "62岁德国地产大亨在泰国被肢解",
       "onboard_time": 1689135519,
       "rank": 33,
@@ -1947,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557708,
+      "num": 557708,
+      "word": "我的人间烟火 复旦十八驴",
+      "onboard_time": 1689136661,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 557575,
       "num": 3112706,
       "word": "杭州超过40℃全天免费停车",
@@ -2003,12 +2035,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545899,
+      "num": 545899,
+      "word": "每天上班很累的原因找到了",
+      "onboard_time": 1689134139,
+      "rank": 22,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 543928,
       "num": 543928,
       "word": "乐宝",
       "onboard_time": 1689039154,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541095,
+      "num": 541095,
+      "word": "黄子佼被立案调查",
+      "onboard_time": 1689134016,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 538596,
@@ -2057,6 +2105,14 @@
       "onboard_time": 1689050803,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526799,
+      "num": 526799,
+      "word": "迪丽热巴旷野鎏金芭莎预告",
+      "onboard_time": 1689138576,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 525228,
@@ -2121,6 +2177,14 @@
       "onboard_time": 1689064115,
       "rank": 36,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 508414,
+      "num": 508414,
+      "word": "上午毕业下午就收到了offer",
+      "onboard_time": 1689135459,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 508375,
@@ -2443,28 +2507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 458460,
-      "num": 458460,
-      "word": "黄子佼被立案调查",
-      "onboard_time": 1689134016,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 456266,
       "num": 456266,
       "word": "肖战回应火烧云",
       "onboard_time": 1688945365,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 456130,
-      "num": 435668,
-      "word": "上午毕业下午就收到了offer",
-      "onboard_time": 1689135459,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 454860,
@@ -2539,6 +2587,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 448134,
+      "num": 448134,
+      "word": "费玉清",
+      "onboard_time": 1689138100,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444699,
       "num": 409787,
       "word": "杨洋最近风评",
@@ -2608,14 +2664,6 @@
       "word": "天蝎座的感情真的离不开陪伴",
       "onboard_time": 1689077313,
       "rank": 20,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 436961,
-      "num": 436961,
-      "word": "每天上班很累的原因找到了",
-      "onboard_time": 1689134139,
-      "rank": 22,
       "category": "情感,幽默"
     },
     {
@@ -2697,6 +2745,14 @@
       "onboard_time": 1688951130,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 430341,
+      "num": 430341,
+      "word": "人贩子余华英卖亲生子后开始拐卖儿童",
+      "onboard_time": 1689136479,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430333,
@@ -3563,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314651,
+      "num": 314651,
+      "word": "女子因被让座在高铁大吵抹泪说委屈",
+      "onboard_time": 1689137859,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313181,
       "num": 313181,
       "word": "成都暴雨",
@@ -3697,6 +3761,14 @@
       "onboard_time": 1689005073,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303694,
+      "num": 303694,
+      "word": "杨幂侧边麻花辫",
+      "onboard_time": 1689137020,
+      "rank": 36,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 303598,
@@ -3915,6 +3987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289512,
+      "num": 398951,
+      "word": "办案民警称私搭浮桥当事人收了30万",
+      "onboard_time": 1689137920,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287401,
       "num": 287401,
       "word": "清融妖刀",
@@ -4051,20 +4131,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276746,
-      "num": 276746,
-      "word": "人贩子余华英卖亲生子后开始拐卖儿童",
-      "onboard_time": 1689136479,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276367,
       "num": 276367,
       "word": "偷偷藏不住是懂首尾呼应的",
       "onboard_time": 1689129271,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275431,
+      "num": 275431,
+      "word": "郑欣宜久违露面",
+      "onboard_time": 1689138400,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 274698,
@@ -4121,6 +4201,14 @@
       "onboard_time": 1689044254,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270133,
+      "num": 270133,
+      "word": "怦然心动20岁",
+      "onboard_time": 1689137439,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 269519,
@@ -4249,6 +4337,14 @@
       "onboard_time": 1688973273,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259669,
+      "num": 259669,
+      "word": "无畏契约正式上线",
+      "onboard_time": 1689126451,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 259469,
@@ -4499,6 +4595,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 245429,
+      "num": 245429,
+      "word": "7月开始准备考研来得及吗",
+      "onboard_time": 1689138163,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244748,
       "num": 244748,
       "word": "王楚然校服怼脸照",
@@ -4625,14 +4729,6 @@
       "onboard_time": 1688993851,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233590,
-      "num": 233590,
-      "word": "无畏契约正式上线",
-      "onboard_time": 1689126451,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 231181,
@@ -5700,7 +5796,7 @@
     },
     {
       "raw_hot": 142861,
-      "num": 1464767,
+      "num": 1496300,
       "word": "要实实在在为户外劳动者撑好遮阳伞",
       "onboard_time": 1689131491,
       "rank": 2,
