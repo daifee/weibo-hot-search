@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689168515030,
+  "endTime": 1689169126994,
   "band_list": [
     {
       "raw_hot": 9779465,
@@ -227,8 +227,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1398341,
-      "num": 1398341,
+      "raw_hot": 1419371,
+      "num": 1419371,
       "word": "创造营2023 女团",
       "onboard_time": 1689166594,
       "rank": 38,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 900538,
+      "num": 900538,
+      "word": "董云虎被查",
+      "onboard_time": 1689167857,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 889216,
       "num": 889216,
       "word": "Angelababy宋轶早期同框",
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708011,
+      "num": 708011,
+      "word": "游客爬华山不慎踩空跌落",
+      "onboard_time": 1689167736,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706934,
       "num": 706934,
       "word": "父亲开家长会睡觉和儿子同一姿势",
@@ -643,6 +659,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 689452,
+      "num": 557480,
+      "word": "迪丽热巴工作室换头像背景",
+      "onboard_time": 1689168577,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 688392,
       "num": 501545,
       "word": "35岁以上的人都可以做什么工作",
@@ -657,14 +681,6 @@
       "onboard_time": 1689126332,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 679737,
-      "num": 603988,
-      "word": "董云虎被查",
-      "onboard_time": 1689167857,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 678256,
@@ -1163,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 428844,
-      "num": 428844,
-      "word": "游客爬华山不慎踩空跌落",
-      "onboard_time": 1689167736,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428124,
       "num": 186331,
       "word": "小雪",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1689139538,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424630,
+      "num": 424630,
+      "word": "为什么现在厨房越来越小了",
+      "onboard_time": 1689167254,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 422980,
@@ -1291,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376064,
+      "num": 356306,
+      "word": "安乐传就更一集够干啥",
+      "onboard_time": 1689168818,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372462,
       "num": 372462,
       "word": "陈哲远回应待爆小生称号",
@@ -1331,12 +1355,20 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 360092,
-      "num": 360092,
+      "raw_hot": 360677,
+      "num": 360677,
       "word": "女孩偶像屠呦呦高考631分报药学专业",
       "onboard_time": 1689164193,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 360395,
+      "num": 336416,
+      "word": "宋焰许沁暧昧",
+      "onboard_time": 1689168340,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 359013,
@@ -1427,12 +1459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331198,
-      "num": 331198,
-      "word": "为什么现在厨房越来越小了",
-      "onboard_time": 1689167254,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 326817,
+      "num": 326817,
+      "word": "陈飞宇告黑",
+      "onboard_time": 1689168459,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 324540,
@@ -1523,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296148,
+      "num": 255907,
+      "word": "安乐传特效",
+      "onboard_time": 1689168702,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295404,
       "num": 295404,
       "word": "肖战任敏对戏看哭导演",
@@ -1584,6 +1624,14 @@
       "word": "张一山关晓彤北京话互怼",
       "onboard_time": 1689087580,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285706,
+      "num": 249285,
+      "word": "安乐传快出追剧日历",
+      "onboard_time": 1689168758,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1931,14 +1979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219678,
-      "num": 219678,
-      "word": "宋焰许沁暧昧",
-      "onboard_time": 1689168340,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 217384,
       "num": 217384,
       "word": "韦世豪红牌",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1689153816,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212029,
-      "num": 212029,
-      "word": "陈飞宇告黑",
-      "onboard_time": 1689168459,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 208953,
@@ -2137,6 +2169,14 @@
       "onboard_time": 1689075995,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187852,
+      "num": 187852,
+      "word": "会钓鱼和不会钓鱼的人都沉默了",
+      "onboard_time": 1689168996,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 187420,
@@ -2387,6 +2427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 82821,
+      "num": 235350,
+      "word": "荣耀发布裸耳3D空间音频平板",
+      "onboard_time": 1689168818,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 77338,
       "num": 77338,
       "word": "肖战大漠vlog",
@@ -2465,6 +2513,14 @@
       "onboard_time": 1689128853,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11421,
+      "num": 1568451,
+      "word": "十四冬举办时间定了",
+      "onboard_time": 1689169116,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
