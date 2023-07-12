@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689150254309,
+  "endTime": 1689151088500,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2775891,
+      "num": 658348,
+      "word": "内娱最邪门的一张合照",
+      "onboard_time": 1689146915,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2770503,
       "num": 2770503,
       "word": "Prada成为中国国家女子足球队官方合作伙伴",
@@ -171,14 +179,6 @@
       "category": "时尚,体育"
     },
     {
-      "raw_hot": 2589208,
-      "num": 625814,
-      "word": "内娱最邪门的一张合照",
-      "onboard_time": 1689146915,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 2507376,
       "num": 2507376,
       "word": "姜爷爷宋爷爷不用抢了",
@@ -201,6 +201,14 @@
       "onboard_time": 1688955090,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2455908,
+      "num": 2455908,
+      "word": "事业单位上班后失去了本名",
+      "onboard_time": 1689147454,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 2366930,
@@ -233,14 +241,6 @@
       "onboard_time": 1689037894,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2281390,
-      "num": 2281390,
-      "word": "事业单位上班后失去了本名",
-      "onboard_time": 1689147454,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 2220146,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1452442,
+      "num": 912087,
+      "word": "黄子佼首发声",
+      "onboard_time": 1689149194,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1417629,
       "num": 1417629,
       "word": "警方通报网传济南大学留学生月补3万元",
@@ -635,11 +643,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1331198,
-      "num": 912087,
-      "word": "黄子佼首发声",
-      "onboard_time": 1689149194,
-      "rank": 3,
+      "raw_hot": 1326723,
+      "num": 654957,
+      "word": "韩国综艺人李智秀去世",
+      "onboard_time": 1689149916,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -649,6 +657,14 @@
       "onboard_time": 1688950052,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1301908,
+      "num": 836882,
+      "word": "给魏大勋吹头发的是李沁",
+      "onboard_time": 1689147032,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 1293634,
@@ -843,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1083754,
-      "num": 836882,
-      "word": "给魏大勋吹头发的是李沁",
-      "onboard_time": 1689147032,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1079040,
       "num": 1079040,
       "word": "YG回应Lisa续约情况",
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 991832,
-      "num": 768427,
+      "num": 787629,
       "word": "小雪回应",
       "onboard_time": 1689148293,
       "rank": 6,
@@ -1273,6 +1281,14 @@
       "onboard_time": 1689137619,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 869745,
+      "num": 869745,
+      "word": "已读不回属于社交默契还是冷暴力",
+      "onboard_time": 1689145831,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 862902,
@@ -1763,6 +1779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 662649,
+      "num": 662649,
+      "word": "蔡少芬想和贾静雯演母女",
+      "onboard_time": 1689147454,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 661325,
       "num": 579065,
       "word": "许沁改姓",
@@ -1779,20 +1803,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 647518,
+      "num": 647518,
+      "word": "十个勤天",
+      "onboard_time": 1689148594,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 647369,
       "num": 647369,
       "word": "邮储回应招牌中国被拼成CIHNA",
       "onboard_time": 1689125553,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 642106,
-      "num": 642106,
-      "word": "已读不回属于社交默契还是冷暴力",
-      "onboard_time": 1689145831,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 639919,
@@ -1937,14 +1961,6 @@
       "onboard_time": 1689135519,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601044,
-      "num": 601044,
-      "word": "蔡少芬想和贾静雯演母女",
-      "onboard_time": 1689147454,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 598722,
@@ -2179,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551342,
+      "num": 551342,
+      "word": "逛无印良品说的最多的一句话",
+      "onboard_time": 1689149374,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 547852,
       "num": 547852,
       "word": "减肥人的绝配是快乐减肥操",
@@ -2204,7 +2228,7 @@
     },
     {
       "raw_hot": 547373,
-      "num": 397471,
+      "num": 407648,
       "word": "实习生离职后换了电脑桌面",
       "onboard_time": 1689146013,
       "rank": 39,
@@ -2273,14 +2297,6 @@
       "onboard_time": 1689146431,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 532364,
-      "num": 532364,
-      "word": "十个勤天",
-      "onboard_time": 1689148594,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 529387,
@@ -3179,14 +3195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400423,
-      "num": 322836,
-      "word": "韩国综艺人李智秀去世",
-      "onboard_time": 1689149916,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400027,
       "num": 400027,
       "word": "商洛2岁男童走失6天在山顶被找到",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1689150033,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 387027,
+      "num": 387027,
+      "word": "无畏契约",
+      "onboard_time": 1689148955,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 386769,
@@ -3379,14 +3395,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 379528,
-      "num": 379528,
-      "word": "无畏契约",
-      "onboard_time": 1689148955,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 379127,
       "num": 379127,
       "word": "杨迪把王鹤棣鬓角扯肿了",
@@ -3433,6 +3441,14 @@
       "onboard_time": 1688980112,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373268,
+      "num": 373268,
+      "word": "我很难被PUA的原因",
+      "onboard_time": 1689150096,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 370970,
@@ -3643,19 +3659,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346607,
-      "num": 322047,
-      "word": "逛无印良品说的最多的一句话",
-      "onboard_time": 1689149374,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 346132,
       "num": 346132,
       "word": "CA1524航班乘客讲述颠簸经过",
       "onboard_time": 1689037833,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340590,
+      "num": 340590,
+      "word": "美科技大亨与17岁儿子换血葆青春失败",
+      "onboard_time": 1689147212,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3817,14 +3833,6 @@
       "onboard_time": 1689052298,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 328626,
-      "num": 328626,
-      "word": "美科技大亨与17岁儿子换血葆青春失败",
-      "onboard_time": 1689147212,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326778,
@@ -4307,6 +4315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286831,
+      "num": 286831,
+      "word": "12306回应女子卧铺出行被上铺男子凝视",
+      "onboard_time": 1689150815,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286552,
       "num": 378646,
       "word": "我承认以前对拼多多太大声了",
@@ -4465,6 +4481,14 @@
       "onboard_time": 1688978971,
       "rank": 38,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 272585,
+      "num": 272585,
+      "word": "离职后这几样东西一定要带走",
+      "onboard_time": 1689150756,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 272357,
@@ -4665,6 +4689,14 @@
       "onboard_time": 1689036399,
       "rank": 36,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 259227,
+      "num": 259227,
+      "word": "电影院的监控能有多清晰",
+      "onboard_time": 1689146852,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 258092,
@@ -4993,14 +5025,6 @@
       "onboard_time": 1689067535,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 238456,
-      "num": 238456,
-      "word": "电影院的监控能有多清晰",
-      "onboard_time": 1689146852,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 238287,
@@ -5395,14 +5419,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 209405,
-      "num": 209405,
-      "word": "我很难被PUA的原因",
-      "onboard_time": 1689150096,
-      "rank": 44,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 209205,
       "num": 209205,
       "word": "消防员休假途中暴雨里救了个人",
@@ -5633,6 +5649,14 @@
       "onboard_time": 1688913335,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196526,
+      "num": 196526,
+      "word": "女孩打不到车交警直接带过来一辆",
+      "onboard_time": 1689150936,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196311,
@@ -6139,6 +6163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150942,
+      "num": 247196,
+      "word": "黄德义儿子说家里收了30万过路费",
+      "onboard_time": 1689150455,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150865,
       "num": 150865,
       "word": "下辈子先预定一下这张脸",
@@ -6521,6 +6553,14 @@
       "onboard_time": 1688924777,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 37494,
+      "num": 861957,
+      "word": "成都大运会中国大学生体育代表团成立",
+      "onboard_time": 1689150756,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 33266,
