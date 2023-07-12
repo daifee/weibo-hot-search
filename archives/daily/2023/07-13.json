@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689187073134,
+  "endTime": 1689189318708,
   "band_list": [
     {
       "raw_hot": 1858292,
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73151,
+      "num": 59613,
+      "word": "哇唧唧哇说难哄还没定主演",
+      "onboard_time": 1689187455,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 68473,
       "num": 136557,
       "word": "LGD对战TES",
@@ -465,6 +473,14 @@
       "onboard_time": 1689183439,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34964,
+      "num": 34964,
+      "word": "安乐传",
+      "onboard_time": 1689156573,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 15098,

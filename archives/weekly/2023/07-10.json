@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689187073134,
+  "endTime": 1689189318708,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -7513,6 +7513,14 @@
       "onboard_time": 1689095781,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73151,
+      "num": 59613,
+      "word": "哇唧唧哇说难哄还没定主演",
+      "onboard_time": 1689187455,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 70311,
