@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689200268320,
+  "endTime": 1689201354394,
   "band_list": [
     {
       "raw_hot": 1858292,
@@ -35,6 +35,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 856920,
+      "num": 856920,
+      "word": "直系亲属有案底影响考公吗",
+      "onboard_time": 1689177690,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 841229,
       "num": 587038,
       "word": "安乐传空降了",
@@ -57,14 +65,6 @@
       "onboard_time": 1689160712,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 628896,
-      "num": 399405,
-      "word": "直系亲属有案底影响考公吗",
-      "onboard_time": 1689177690,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 590848,
@@ -467,6 +467,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 59589,
+      "num": 59589,
+      "word": "李娜重返温网参赛",
+      "onboard_time": 1689195852,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51683,
       "num": 51683,
       "word": "杨紫回国路透",
@@ -475,20 +483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48874,
-      "num": 48874,
-      "word": "李娜重返温网参赛",
-      "onboard_time": 1689195852,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 37539,
-      "num": 40939,
+      "raw_hot": 41220,
+      "num": 41220,
       "word": "刘宇宁原声台词",
       "onboard_time": 1689193513,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 38932,
+      "num": 40859,
+      "word": "汪苏泷唱什么都很容易",
+      "onboard_time": 1689196152,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 34964,
@@ -507,14 +515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 27919,
-      "num": 40859,
-      "word": "汪苏泷唱什么都很容易",
-      "onboard_time": 1689196152,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 27167,
       "num": 27167,
       "word": "宋焰什么时候可以直面许沁",
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 15098,
-      "num": 228412,
+      "num": 323969,
       "word": "十四冬举办时间定了",
       "onboard_time": 1689169116,
       "rank": 2,

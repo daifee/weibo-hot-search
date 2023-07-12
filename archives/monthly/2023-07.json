@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689200268320,
+  "endTime": 1689201354394,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5907,6 +5907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 856920,
+      "num": 856920,
+      "word": "直系亲属有案底影响考公吗",
+      "onboard_time": 1689177690,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 856188,
       "num": 856188,
       "word": "八角笼中",
@@ -8889,14 +8897,6 @@
       "onboard_time": 1688824114,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 628896,
-      "num": 399405,
-      "word": "直系亲属有案底影响考公吗",
-      "onboard_time": 1689177690,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 628430,
@@ -29675,6 +29675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59589,
+      "num": 59589,
+      "word": "李娜重返温网参赛",
+      "onboard_time": 1689195852,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59011,
       "num": 188431,
       "word": "6月份CPI同比持平",
@@ -29803,14 +29811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48874,
-      "num": 48874,
-      "word": "李娜重返温网参赛",
-      "onboard_time": 1689195852,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48784,
       "num": 52875,
       "word": "王源去看汪苏泷演唱会",
@@ -29899,6 +29899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41220,
+      "num": 41220,
+      "word": "刘宇宁原声台词",
+      "onboard_time": 1689193513,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 39664,
       "num": 1905864,
       "word": "长江文物宝藏画卷",
@@ -29937,6 +29945,14 @@
       "onboard_time": 1688786070,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38932,
+      "num": 40859,
+      "word": "汪苏泷唱什么都很容易",
+      "onboard_time": 1689196152,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 38587,
@@ -29985,14 +30001,6 @@
       "onboard_time": 1688924777,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 37539,
-      "num": 40939,
-      "word": "刘宇宁原声台词",
-      "onboard_time": 1689193513,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 36661,
@@ -30113,14 +30121,6 @@
       "onboard_time": 1689101775,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27919,
-      "num": 40859,
-      "word": "汪苏泷唱什么都很容易",
-      "onboard_time": 1689196152,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 27838,
