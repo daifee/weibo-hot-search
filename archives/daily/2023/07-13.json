@@ -1,7 +1,15 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689203930536,
+  "endTime": 1689204841595,
   "band_list": [
+    {
+      "raw_hot": 2008325,
+      "num": 337004,
+      "word": "谢霆锋否认和王菲分手",
+      "onboard_time": 1689203544,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1858292,
       "num": 1037628,
@@ -35,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1059110,
+      "num": 333217,
+      "word": "猪场因断电死亡462头猪损失近百万",
+      "onboard_time": 1689202880,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1010158,
       "num": 1010158,
       "word": "李咏女儿法图麦露背身材",
       "onboard_time": 1689173317,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 871433,
+      "num": 326488,
+      "word": "美国45岁富豪用17岁儿子血浆换血失败",
+      "onboard_time": 1689202820,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841229,
@@ -75,14 +99,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 589276,
-      "num": 269911,
-      "word": "谢霆锋否认和王菲分手",
-      "onboard_time": 1689203544,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 583201,
       "num": 583201,
       "word": "魏大勋是JYP第一个中国演员",
@@ -115,27 +131,11 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 494893,
-      "num": 269885,
-      "word": "美国45岁富豪用17岁儿子血浆换血失败",
-      "onboard_time": 1689202820,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460890,
       "num": 460890,
       "word": "小区惊现40厘米陆龟散步",
       "onboard_time": 1689164193,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441904,
-      "num": 269871,
-      "word": "猪场因断电死亡462头猪损失近百万",
-      "onboard_time": 1689202880,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -179,12 +179,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382104,
+      "num": 349046,
+      "word": "宋焰给了孟宴臣10年机会",
+      "onboard_time": 1689203905,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350280,
       "num": 350280,
       "word": "偷看奶奶给妹妹发微信",
       "onboard_time": 1689173917,
       "rank": 17,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 349898,
+      "num": 325205,
+      "word": "无锡女童妈妈去派出所说明转款问题",
+      "onboard_time": 1689203122,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339713,
+      "num": 339713,
+      "word": "为什么现在厨房越来越小了",
+      "onboard_time": 1689167254,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 339377,
@@ -201,14 +225,6 @@
       "onboard_time": 1689167736,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311886,
-      "num": 311886,
-      "word": "为什么现在厨房越来越小了",
-      "onboard_time": 1689167254,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 310844,
@@ -291,6 +307,30 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 214015,
+      "num": 182360,
+      "word": "马丽的孩子确实叫沈腾舅舅",
+      "onboard_time": 1689204747,
+      "rank": 30,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 201356,
+      "num": 182125,
+      "word": "辽宁一男子疑杀害妻子岳母及小孩",
+      "onboard_time": 1689204326,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 198402,
+      "num": 192252,
+      "word": "安乐传运镜",
+      "onboard_time": 1689201859,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194117,
       "num": 194117,
       "word": "35岁以上的人都可以做什么工作",
@@ -305,14 +345,6 @@
       "onboard_time": 1689153636,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190258,
-      "num": 190258,
-      "word": "安乐传运镜",
-      "onboard_time": 1689201859,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 189504,
@@ -339,6 +371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 181796,
+      "num": 181796,
+      "word": "上海市人大常委会主任董云虎被查",
+      "onboard_time": 1689204025,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177194,
       "num": 177194,
       "word": "狗狗被电动车踏板打了一路屁股",
@@ -353,6 +393,14 @@
       "onboard_time": 1689161912,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169420,
+      "num": 169420,
+      "word": "消防喷水20分钟解救3000只中暑鸭",
+      "onboard_time": 1689203422,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163474,
@@ -376,14 +424,6 @@
       "word": "无锡3岁女童母亲疑募捐百万",
       "onboard_time": 1689156871,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153564,
-      "num": 153564,
-      "word": "无锡女童妈妈去派出所说明转款问题",
-      "onboard_time": 1689203122,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -427,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129069,
+      "num": 129069,
+      "word": "王一博刘敏涛设计专属暗号",
+      "onboard_time": 1689203302,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114335,
       "num": 114335,
       "word": "女子戒指卡手看到消防剪切钳吓到结巴",
@@ -441,6 +489,14 @@
       "onboard_time": 1689166354,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112026,
+      "num": 112026,
+      "word": "风月变开播",
+      "onboard_time": 1689202159,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 102452,
@@ -459,44 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100437,
-      "num": 100437,
-      "word": "王一博刘敏涛设计专属暗号",
-      "onboard_time": 1689203302,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 98969,
       "num": 1056893,
       "word": "中国人到月球详细步骤曝光",
       "onboard_time": 1689169297,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97194,
-      "num": 97194,
-      "word": "风月变开播",
-      "onboard_time": 1689202159,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 93999,
-      "num": 93999,
-      "word": "消防喷水20分钟解救3000只中暑鸭",
-      "onboard_time": 1689203422,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89778,
-      "num": 89778,
-      "word": "宋焰给了孟宴臣10年机会",
-      "onboard_time": 1689203905,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 81750,
@@ -513,6 +537,14 @@
       "onboard_time": 1689180503,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76036,
+      "num": 94653,
+      "word": "手机厂商为什么卷相机水印",
+      "onboard_time": 1689203603,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 74521,
@@ -539,8 +571,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 65991,
-      "num": 78927,
+      "raw_hot": 66640,
+      "num": 93260,
       "word": "李娜重返温网参赛",
       "onboard_time": 1689195852,
       "rank": 46,
@@ -563,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41880,
-      "num": 78695,
-      "word": "手机厂商为什么卷相机水印",
-      "onboard_time": 1689203603,
-      "rank": 49,
-      "category": "科技"
+      "raw_hot": 41519,
+      "num": 539703,
+      "word": "十四冬举办时间定了",
+      "onboard_time": 1689169116,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 41220,
@@ -593,14 +625,6 @@
       "onboard_time": 1689156573,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 33258,
-      "num": 539703,
-      "word": "十四冬举办时间定了",
-      "onboard_time": 1689169116,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 29797,
