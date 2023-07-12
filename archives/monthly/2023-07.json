@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689180075032,
+  "endTime": 1689182207110,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -11219,6 +11219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 505385,
+      "num": 505385,
+      "word": "38度高温下特警一句话让人破防",
+      "onboard_time": 1689178649,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505071,
       "num": 476625,
       "word": "7旬老人为救17岁女孩当场遇害",
@@ -18809,14 +18817,6 @@
       "onboard_time": 1688383542,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 291156,
-      "num": 291156,
-      "word": "38度高温下特警一句话让人破防",
-      "onboard_time": 1689178649,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291071,
@@ -28867,6 +28867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102452,
+      "num": 102452,
+      "word": "TangoZ被认成派克特",
+      "onboard_time": 1689180384,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102389,
       "num": 133625,
       "word": "好像懂了仙居为什么叫仙居",
@@ -29345,6 +29353,14 @@
       "onboard_time": 1688796030,
       "rank": 14,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 77534,
+      "num": 77534,
+      "word": "曼联",
+      "onboard_time": 1689180503,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 77495,

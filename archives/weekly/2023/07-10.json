@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689180075032,
+  "endTime": 1689182207110,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -2875,6 +2875,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 505385,
+      "num": 505385,
+      "word": "38度高温下特警一句话让人破防",
+      "onboard_time": 1689178649,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502787,
       "num": 502787,
       "word": "黄牛招985学生抢林俊杰演唱会门票",
@@ -4961,14 +4969,6 @@
       "onboard_time": 1688913275,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291156,
-      "num": 291156,
-      "word": "38度高温下特警一句话让人破防",
-      "onboard_time": 1689178649,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290989,
@@ -7379,6 +7379,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 102452,
+      "num": 102452,
+      "word": "TangoZ被认成派克特",
+      "onboard_time": 1689180384,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100587,
       "num": 566733,
       "word": "张靓颖 我的伤就是我的光",
@@ -7465,6 +7473,14 @@
       "onboard_time": 1689168818,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 77534,
+      "num": 77534,
+      "word": "曼联",
+      "onboard_time": 1689180503,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 77338,

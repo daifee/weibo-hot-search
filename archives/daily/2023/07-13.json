@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689180075032,
+  "endTime": 1689182207110,
   "band_list": [
     {
       "raw_hot": 1858292,
@@ -97,6 +97,14 @@
       "onboard_time": 1689175535,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 505385,
+      "num": 505385,
+      "word": "38度高温下特警一句话让人破防",
+      "onboard_time": 1689178649,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460890,
@@ -201,14 +209,6 @@
       "onboard_time": 1689176554,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 291156,
-      "num": 291156,
-      "word": "38度高温下特警一句话让人破防",
-      "onboard_time": 1689178649,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277079,
@@ -395,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102452,
+      "num": 102452,
+      "word": "TangoZ被认成派克特",
+      "onboard_time": 1689180384,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98969,
       "num": 1056893,
       "word": "中国人到月球详细步骤曝光",
       "onboard_time": 1689169297,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77534,
+      "num": 77534,
+      "word": "曼联",
+      "onboard_time": 1689180503,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 73678,
@@ -430,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#习近平签署通令给2个单位2名个人记功#"
+    },
+    {
+      "word": "#物质文明和精神文明相协调的现代化#"
     }
   ]
 }
