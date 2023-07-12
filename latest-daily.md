@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/13 00:25:09 ~ 2023/07/13 04:19:41
+本榜单时间：2023/07/13 00:25:09 ~ 2023/07/13 04:34:03
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ LGD对战TES（热度：68473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%9B%BD%E8%B7%AF%E9%80%8F%23" target="weibo">
 杨紫回国路透（热度：51683）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%23" target="weibo">
+刘宇宁原声台词（热度：37022）
 </a>
 </li>
 

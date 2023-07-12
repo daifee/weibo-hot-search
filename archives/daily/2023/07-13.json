@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689193181087,
+  "endTime": 1689194043205,
   "band_list": [
     {
       "raw_hot": 1858292,
@@ -473,6 +473,14 @@
       "onboard_time": 1689183439,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37022,
+      "num": 37022,
+      "word": "刘宇宁原声台词",
+      "onboard_time": 1689193513,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 34964,
