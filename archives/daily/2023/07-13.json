@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689196587775,
+  "endTime": 1689197637816,
   "band_list": [
     {
       "raw_hot": 1858292,
@@ -491,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32101,
+      "num": 32101,
+      "word": "李娜重返温网参赛",
+      "onboard_time": 1689195852,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29797,
       "num": 29797,
       "word": "微博毕业派对",
@@ -507,16 +515,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18519,
-      "num": 21953,
-      "word": "李娜重返温网参赛",
-      "onboard_time": 1689195852,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 18194,
-      "num": 21948,
+      "raw_hot": 19877,
+      "num": 21965,
       "word": "汪苏泷唱什么都很容易",
       "onboard_time": 1689196152,
       "rank": 47,
