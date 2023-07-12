@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689139099015,
+  "endTime": 1689140123518,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -105,6 +105,14 @@
       "onboard_time": 1689058230,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2807042,
+      "num": 2807042,
+      "word": "仅1%年轻人月收入超过5万",
+      "onboard_time": 1689137681,
+      "rank": 1,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2770503,
@@ -459,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1568828,
-      "num": 1568828,
-      "word": "仅1%年轻人月收入超过5万",
-      "onboard_time": 1689137681,
-      "rank": 1,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1562074,
       "num": 1562074,
       "word": "易梦玲要开始演戏了",
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1454321,
+      "num": 1357241,
+      "word": "葛沛豪评论",
+      "onboard_time": 1689133775,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1417629,
       "num": 1417629,
       "word": "警方通报网传济南大学留学生月补3万元",
@@ -569,14 +577,6 @@
       "onboard_time": 1688997937,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1357241,
-      "num": 1357241,
-      "word": "葛沛豪评论",
-      "onboard_time": 1689133775,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1336958,
@@ -683,20 +683,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1213521,
+      "num": 1213521,
+      "word": "关晓彤范丞丞床咚吻戏",
+      "onboard_time": 1689135037,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1211217,
       "num": 1211217,
       "word": "父亲称蹲守杀害女儿者非前任而是追求者",
       "onboard_time": 1688952451,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1205856,
-      "num": 1205856,
-      "word": "关晓彤范丞丞床咚吻戏",
-      "onboard_time": 1689135037,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 1194946,
@@ -1107,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 905644,
+      "num": 905644,
+      "word": "孙俪时隔20年再演女刑警",
+      "onboard_time": 1689137561,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 902649,
       "num": 902649,
       "word": "B组签售",
@@ -1179,14 +1187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 877259,
-      "num": 877259,
-      "word": "孙俪时隔20年再演女刑警",
-      "onboard_time": 1689137561,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 875309,
       "num": 875309,
       "word": "宣传部回应男子幼儿园行凶致6死1伤",
@@ -1196,7 +1196,7 @@
     },
     {
       "raw_hot": 873778,
-      "num": 736204,
+      "num": 872489,
       "word": "Uzi发文感谢队友",
       "onboard_time": 1689137619,
       "rank": 12,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1689068977,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 792885,
+      "num": 581652,
+      "word": "马立奥和三喜",
+      "onboard_time": 1689133835,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 791194,
@@ -1547,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 688617,
+      "num": 566854,
+      "word": "复旦十八驴",
+      "onboard_time": 1689139594,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 688357,
       "num": 688357,
       "word": "眼镜是显眼包最好的封印",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1689047376,
       "rank": 13,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 663931,
+      "num": 557708,
+      "word": "我的人间烟火 复旦十八驴",
+      "onboard_time": 1689136661,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 662658,
@@ -1851,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588668,
+      "num": 448134,
+      "word": "费玉清",
+      "onboard_time": 1689138100,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578424,
       "num": 499757,
       "word": "孟宴臣 蝴蝶",
@@ -1931,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562428,
+      "num": 562428,
+      "word": "每天上班很累的原因找到了",
+      "onboard_time": 1689134139,
+      "rank": 22,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 562413,
       "num": 562413,
       "word": "爱宝诞下双胞胎韩网评论",
@@ -1968,14 +2008,6 @@
       "word": "孙珍妮又演狐狸",
       "onboard_time": 1689000576,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 557708,
-      "num": 557708,
-      "word": "我的人间烟火 复旦十八驴",
-      "onboard_time": 1689136661,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -2033,14 +2065,6 @@
       "onboard_time": 1689038074,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545899,
-      "num": 545899,
-      "word": "每天上班很累的原因找到了",
-      "onboard_time": 1689134139,
-      "rank": 22,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 543928,
@@ -2587,14 +2611,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 448134,
-      "num": 448134,
-      "word": "费玉清",
-      "onboard_time": 1689138100,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 444699,
       "num": 409787,
       "word": "杨洋最近风评",
@@ -3019,6 +3035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 386418,
+      "num": 386418,
+      "word": "无畏契约正式上线",
+      "onboard_time": 1689126451,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 385851,
       "num": 385851,
       "word": "福宝只是个不到三岁的宝宝啊",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1688980112,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 370970,
+      "num": 370970,
+      "word": "女子因被让座在高铁大吵抹泪说委屈",
+      "onboard_time": 1689137859,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370895,
@@ -3619,14 +3651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314651,
-      "num": 314651,
-      "word": "女子因被让座在高铁大吵抹泪说委屈",
-      "onboard_time": 1689137859,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313181,
       "num": 313181,
       "word": "成都暴雨",
@@ -3873,6 +3897,14 @@
       "onboard_time": 1689076832,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295125,
+      "num": 295125,
+      "word": "宝格丽致歉是对中国市场的服膺",
+      "onboard_time": 1689128969,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294834,
@@ -4139,8 +4171,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275431,
-      "num": 275431,
+      "raw_hot": 276281,
+      "num": 276281,
       "word": "郑欣宜久违露面",
       "onboard_time": 1689138400,
       "rank": 38,
@@ -4208,6 +4240,14 @@
       "word": "怦然心动20岁",
       "onboard_time": 1689137439,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270004,
+      "num": 270004,
+      "word": "彭昱畅许凯凑不齐一个胆",
+      "onboard_time": 1689139538,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -4337,14 +4377,6 @@
       "onboard_time": 1688973273,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 259669,
-      "num": 259669,
-      "word": "无畏契约正式上线",
-      "onboard_time": 1689126451,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 259469,
@@ -4491,6 +4523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252768,
+      "num": 252768,
+      "word": "7月开始准备考研来得及吗",
+      "onboard_time": 1689138163,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 251243,
       "num": 251243,
       "word": "永远年轻永远有人正在办公",
@@ -4593,14 +4633,6 @@
       "onboard_time": 1689037417,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 245429,
-      "num": 245429,
-      "word": "7月开始准备考研来得及吗",
-      "onboard_time": 1689138163,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 244748,

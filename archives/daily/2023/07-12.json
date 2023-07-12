@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689139099015,
+  "endTime": 1689140123518,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -17,6 +17,14 @@
       "onboard_time": 1689129271,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2807042,
+      "num": 2807042,
+      "word": "仅1%年轻人月收入超过5万",
+      "onboard_time": 1689137681,
+      "rank": 1,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2767968,
@@ -83,14 +91,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1568828,
-      "num": 1568828,
-      "word": "仅1%年轻人月收入超过5万",
-      "onboard_time": 1689137681,
-      "rank": 1,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1551367,
       "num": 1551367,
       "word": "微信称不会显示已读",
@@ -107,7 +107,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1357241,
+      "raw_hot": 1454321,
       "num": 1357241,
       "word": "葛沛豪评论",
       "onboard_time": 1689133775,
@@ -131,8 +131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1205856,
-      "num": 1205856,
+      "raw_hot": 1213521,
+      "num": 1213521,
       "word": "关晓彤范丞丞床咚吻戏",
       "onboard_time": 1689135037,
       "rank": 24,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 905644,
+      "num": 905644,
+      "word": "孙俪时隔20年再演女刑警",
+      "onboard_time": 1689137561,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 900839,
       "num": 900839,
       "word": "郑州暴雨",
@@ -219,16 +227,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 877259,
-      "num": 877259,
-      "word": "孙俪时隔20年再演女刑警",
-      "onboard_time": 1689137561,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 873778,
-      "num": 736204,
+      "num": 872489,
       "word": "Uzi发文感谢队友",
       "onboard_time": 1689137619,
       "rank": 12,
@@ -241,6 +241,14 @@
       "onboard_time": 1689128969,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792885,
+      "num": 581652,
+      "word": "马立奥和三喜",
+      "onboard_time": 1689133835,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 791194,
@@ -307,6 +315,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 688617,
+      "num": 566854,
+      "word": "复旦十八驴",
+      "onboard_time": 1689139594,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 687876,
       "num": 687876,
       "word": "差点忘了黄渤还是青岛舞王",
@@ -329,6 +345,14 @@
       "onboard_time": 1689132454,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663931,
+      "num": 557708,
+      "word": "我的人间烟火 复旦十八驴",
+      "onboard_time": 1689136661,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 647369,
@@ -379,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588668,
+      "num": 448134,
+      "word": "费玉清",
+      "onboard_time": 1689138100,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574431,
       "num": 418535,
       "word": "为什么酒店只有一把椅子",
@@ -387,12 +419,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 557708,
-      "num": 557708,
-      "word": "我的人间烟火 复旦十八驴",
-      "onboard_time": 1689136661,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 562428,
+      "num": 562428,
+      "word": "每天上班很累的原因找到了",
+      "onboard_time": 1689134139,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 553942,
@@ -401,14 +433,6 @@
       "onboard_time": 1689122556,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 545899,
-      "num": 545899,
-      "word": "每天上班很累的原因找到了",
-      "onboard_time": 1689134139,
-      "rank": 22,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 541095,
@@ -523,14 +547,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 448134,
-      "num": 448134,
-      "word": "费玉清",
-      "onboard_time": 1689138100,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439064,
       "num": 439064,
       "word": "中国驻加拿大大使馆安利玉骨遥",
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386418,
+      "num": 386418,
+      "word": "无畏契约正式上线",
+      "onboard_time": 1689126451,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 384645,
       "num": 384645,
       "word": "爱宝双胞胎诞生的背后故事",
@@ -609,6 +633,14 @@
       "onboard_time": 1689126271,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 370970,
+      "num": 370970,
+      "word": "女子因被让座在高铁大吵抹泪说委屈",
+      "onboard_time": 1689137859,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363582,
@@ -683,14 +715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314651,
-      "num": 314651,
-      "word": "女子因被让座在高铁大吵抹泪说委屈",
-      "onboard_time": 1689137859,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313425,
       "num": 313425,
       "word": "玖月晞告读者案一审结果",
@@ -745,6 +769,14 @@
       "onboard_time": 1689117685,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295125,
+      "num": 295125,
+      "word": "宝格丽致歉是对中国市场的服膺",
+      "onboard_time": 1689128969,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294491,
@@ -827,8 +859,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275431,
-      "num": 275431,
+      "raw_hot": 276281,
+      "num": 276281,
       "word": "郑欣宜久违露面",
       "onboard_time": 1689138400,
       "rank": 38,
@@ -848,6 +880,14 @@
       "word": "怦然心动20岁",
       "onboard_time": 1689137439,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270004,
+      "num": 270004,
+      "word": "彭昱畅许凯凑不齐一个胆",
+      "onboard_time": 1689139538,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -899,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259669,
-      "num": 259669,
-      "word": "无畏契约正式上线",
-      "onboard_time": 1689126451,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 257618,
       "num": 257618,
       "word": "消防员从文物真迹旁救出个好奇宝宝",
@@ -939,8 +971,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245429,
-      "num": 245429,
+      "raw_hot": 252768,
+      "num": 252768,
       "word": "7月开始准备考研来得及吗",
       "onboard_time": 1689138163,
       "rank": 44,
