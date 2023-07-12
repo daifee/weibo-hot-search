@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689143091964,
+  "endTime": 1689143934105,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -515,6 +515,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1479410,
+      "num": 1479410,
+      "word": "复旦十八驴",
+      "onboard_time": 1689139594,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1472945,
       "num": 1472945,
       "word": "魏大勋文咏珊居然演过情侣",
@@ -649,14 +657,6 @@
       "onboard_time": 1689040654,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1241593,
-      "num": 1241593,
-      "word": "复旦十八驴",
-      "onboard_time": 1689139594,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1241490,
@@ -945,6 +945,14 @@
       "onboard_time": 1689130412,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 994080,
+      "num": 994080,
+      "word": "爸爸当家",
+      "onboard_time": 1688969074,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 991519,
@@ -1473,14 +1481,6 @@
       "onboard_time": 1689126451,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 725816,
-      "num": 725816,
-      "word": "爸爸当家",
-      "onboard_time": 1688969074,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 721691,
@@ -2019,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 558543,
+      "num": 558543,
+      "word": "充值700元仍看不完一部网文",
+      "onboard_time": 1689141695,
+      "rank": 21,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 557575,
       "num": 3112706,
       "word": "杭州超过40℃全天免费停车",
@@ -2089,6 +2097,14 @@
       "onboard_time": 1689039154,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541638,
+      "num": 541638,
+      "word": "民警因公牺牲2年后女儿考上公安大学",
+      "onboard_time": 1689140975,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 541095,
@@ -2217,6 +2233,14 @@
       "onboard_time": 1689064115,
       "rank": 36,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 509959,
+      "num": 509959,
+      "word": "孟宴臣许沁cp粉出手了",
+      "onboard_time": 1689141273,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 508414,
@@ -2499,14 +2523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464495,
-      "num": 450588,
-      "word": "孟宴臣许沁cp粉出手了",
-      "onboard_time": 1689141273,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 464380,
       "num": 464380,
       "word": "福宝知道自己当姐姐了吗",
@@ -2553,14 +2569,6 @@
       "onboard_time": 1689041913,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 456788,
-      "num": 456788,
-      "word": "民警因公牺牲2年后女儿考上公安大学",
-      "onboard_time": 1689140975,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 456266,
@@ -2707,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437236,
+      "num": 298402,
+      "word": "黄景瑜他从火光中走来",
+      "onboard_time": 1689141033,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437181,
       "num": 437181,
       "word": "天蝎座的感情真的离不开陪伴",
@@ -2843,6 +2859,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 425889,
+      "num": 282056,
+      "word": "彭昱畅许凯凑不齐一个胆",
+      "onboard_time": 1689139538,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424200,
       "num": 424200,
       "word": "警方通报北京政法职业学院学生纠纷",
@@ -2897,14 +2921,6 @@
       "onboard_time": 1689046353,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 420736,
-      "num": 349653,
-      "word": "充值700元仍看不完一部网文",
-      "onboard_time": 1689141695,
-      "rank": 21,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 420629,
@@ -2977,14 +2993,6 @@
       "onboard_time": 1688999556,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410161,
-      "num": 282056,
-      "word": "彭昱畅许凯凑不齐一个胆",
-      "onboard_time": 1689139538,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 406740,
@@ -3279,14 +3287,6 @@
       "num": 369532,
       "word": "起猛了以为孟宴臣许沁有吻戏了",
       "onboard_time": 1689085238,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 368597,
-      "num": 275207,
-      "word": "黄景瑜他从火光中走来",
-      "onboard_time": 1689141033,
       "rank": 27,
       "category": "影视"
     },
@@ -3647,6 +3647,14 @@
       "num": 213191,
       "word": "南大0001号录取通知书获得者",
       "onboard_time": 1688941275,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 323164,
+      "num": 250454,
+      "word": "武大回应北大学生转学至武大",
+      "onboard_time": 1689143372,
       "rank": 30,
       "category": "教育,社会新闻"
     },
@@ -4811,6 +4819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231670,
+      "num": 231670,
+      "word": "沈月套了个麻袋",
+      "onboard_time": 1689142652,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231181,
       "num": 231181,
       "word": "抑郁的反面不是快乐而是活力",
@@ -5123,6 +5139,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 210104,
+      "num": 210104,
+      "word": "黄明昊左手彭昱畅右手许凯",
+      "onboard_time": 1689143372,
+      "rank": 38,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 209649,
       "num": 209649,
       "word": "女子努力十年实现带父母全国旅行梦",
@@ -5225,14 +5249,6 @@
       "onboard_time": 1688915856,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 202605,
-      "num": 202605,
-      "word": "沈月套了个麻袋",
-      "onboard_time": 1689142652,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 202519,
@@ -5339,6 +5355,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 197177,
+      "num": 197177,
+      "word": "Lauv佛山演唱会",
+      "onboard_time": 1689143312,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196811,
       "num": 196811,
       "word": "东北味含量过高的路牌",
@@ -5395,12 +5419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194848,
+      "num": 194848,
+      "word": "李明德夸肖战是神仙本仙",
+      "onboard_time": 1689143912,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194070,
       "num": 194070,
       "word": "WE对战JDG",
       "onboard_time": 1689078396,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193404,
+      "num": 193404,
+      "word": "男子因拾荒奶奶喝自己剩水自责痛哭",
+      "onboard_time": 1689142053,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192398,
@@ -5507,6 +5547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184799,
+      "num": 184799,
+      "word": "森林进化论定档",
+      "onboard_time": 1689140257,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184580,
       "num": 184580,
       "word": "密室大逃脱",
@@ -5569,14 +5617,6 @@
       "onboard_time": 1689128253,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182943,
-      "num": 182943,
-      "word": "森林进化论定档",
-      "onboard_time": 1689140257,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 182816,
@@ -5675,6 +5715,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 169902,
+      "num": 169902,
+      "word": "熊猫宝宝剪脐带瞬间",
+      "onboard_time": 1689142113,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169537,
       "num": 169537,
       "word": "撸猫时人类视角vs猫猫视角",
@@ -5729,14 +5777,6 @@
       "onboard_time": 1689005370,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 164646,
-      "num": 164646,
-      "word": "男子因拾荒奶奶喝自己剩水自责痛哭",
-      "onboard_time": 1689142053,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164282,
@@ -5809,6 +5849,14 @@
       "onboard_time": 1689031044,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159771,
+      "num": 159771,
+      "word": "谁家正经小狗这么游泳啊",
+      "onboard_time": 1689142652,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 156744,
@@ -5953,14 +6001,6 @@
       "onboard_time": 1688901572,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128745,
-      "num": 141410,
-      "word": "熊猫宝宝剪脐带瞬间",
-      "onboard_time": 1689142113,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127275,
