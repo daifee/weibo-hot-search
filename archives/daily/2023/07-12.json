@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689126724690,
+  "endTime": 1689128001047,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -43,6 +43,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1914490,
+      "num": 1914490,
+      "word": "BLACKPINK除Lisa外续约进展顺利",
+      "onboard_time": 1689126751,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1794243,
       "num": 1794243,
       "word": "宝格丽CEO曾称中国市场比本土还重要",
@@ -59,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1244695,
-      "num": 642070,
+      "raw_hot": 1269150,
+      "num": 788840,
       "word": "米米",
       "onboard_time": 1689122973,
       "rank": 10,
@@ -75,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 938922,
-      "num": 938922,
+      "raw_hot": 1023863,
+      "num": 1023863,
       "word": "欧文签约安踏",
       "onboard_time": 1689125553,
       "rank": 7,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791194,
+      "num": 791194,
+      "word": "大勋拜托你以孟宴臣的人设参加",
+      "onboard_time": 1689121894,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 790160,
       "num": 790160,
       "word": "李维嘉官宣加盟优酷新综艺",
@@ -115,11 +131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 759441,
-      "num": 759441,
-      "word": "大勋拜托你以孟宴臣的人设参加",
-      "onboard_time": 1689121894,
-      "rank": 8,
+      "raw_hot": 767908,
+      "num": 767908,
+      "word": "张远说真爱都没什么好下场",
+      "onboard_time": 1689126091,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -139,12 +155,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 683931,
+      "num": 683931,
+      "word": "魏大勋杨洋早期同框",
+      "onboard_time": 1689126451,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 678256,
-      "num": 361416,
+      "num": 370428,
       "word": "飞机上我女儿被空姐喂饭了",
       "onboard_time": 1689121293,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 649178,
+      "num": 649178,
+      "word": "差点忘了黄渤还是青岛舞王",
+      "onboard_time": 1689126332,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 647369,
+      "num": 647369,
+      "word": "邮储回应招牌中国被拼成CIHNA",
+      "onboard_time": 1689125553,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 623294,
@@ -171,8 +211,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588836,
+      "num": 588836,
+      "word": "快递员用12个包裹向妻子补求婚",
+      "onboard_time": 1689127053,
+      "rank": 15,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 553942,
-      "num": 350131,
+      "num": 369541,
       "word": "哇唧唧哇新艺人cos天官赐福",
       "onboard_time": 1689122556,
       "rank": 21,
@@ -235,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 442982,
-      "num": 442982,
-      "word": "邮储回应招牌中国被拼成CIHNA",
-      "onboard_time": 1689125553,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432204,
       "num": 432204,
       "word": "刘浩存七根凶简造型",
@@ -275,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390044,
-      "num": 390044,
-      "word": "张远说真爱都没什么好下场",
-      "onboard_time": 1689126091,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 381316,
+      "num": 369330,
+      "word": "冷漠型人格形成的原因",
+      "onboard_time": 1689126271,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 361584,
@@ -347,12 +387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292983,
-      "num": 292983,
-      "word": "冷漠型人格形成的原因",
-      "onboard_time": 1689126271,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 295250,
+      "num": 295250,
+      "word": "爱宝双胞胎诞生的背后故事",
+      "onboard_time": 1689126152,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291603,
@@ -363,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291435,
+      "num": 291435,
+      "word": "宝格丽",
+      "onboard_time": 1689053496,
+      "rank": 49,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 288917,
       "num": 288917,
       "word": "张一山关晓彤北京话互怼",
       "onboard_time": 1689087580,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288792,
-      "num": 288792,
-      "word": "宝格丽",
-      "onboard_time": 1689053496,
-      "rank": 49,
-      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 284860,
@@ -419,6 +459,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264823,
+      "num": 256492,
+      "word": "当所有人都在遗忘 这个孩子在与你相识",
+      "onboard_time": 1689127352,
+      "rank": 30,
+      "category": "情感,情感"
+    },
+    {
+      "raw_hot": 264675,
+      "num": 264675,
+      "word": "长安三万里主角",
+      "onboard_time": 1689127053,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263642,
       "num": 263642,
       "word": "宝格丽官网疑将台湾列为国家",
@@ -435,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241083,
-      "num": 241083,
-      "word": "魏大勋杨洋早期同框",
-      "onboard_time": 1689126451,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 244748,
+      "num": 244748,
+      "word": "王楚然校服怼脸照",
+      "onboard_time": 1689125792,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 240866,
@@ -449,6 +505,14 @@
       "onboard_time": 1689068977,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233590,
+      "num": 233590,
+      "word": "无畏契约正式上线",
+      "onboard_time": 1689126451,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 228907,
@@ -467,28 +531,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 227611,
-      "num": 227611,
-      "word": "王楚然校服怼脸照",
-      "onboard_time": 1689125792,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223316,
       "num": 223316,
       "word": "本以为殉情只是古老的传言",
       "onboard_time": 1689066755,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217837,
-      "num": 217837,
-      "word": "差点忘了黄渤还是青岛舞王",
-      "onboard_time": 1689126332,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 216963,
@@ -523,27 +571,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212833,
-      "num": 212833,
-      "word": "无畏契约正式上线",
-      "onboard_time": 1689126451,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212444,
       "num": 212444,
       "word": "积水倒灌被困老人开门瞬间仿佛看到了光",
       "onboard_time": 1689122856,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209686,
-      "num": 209686,
-      "word": "爱宝双胞胎诞生的背后故事",
-      "onboard_time": 1689126152,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -689,6 +721,14 @@
       "onboard_time": 1689089613,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140990,
+      "num": 140990,
+      "word": "蓝箭",
+      "onboard_time": 1689126811,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 140812,

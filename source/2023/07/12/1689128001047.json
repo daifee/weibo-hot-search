@@ -1,0 +1,410 @@
+{
+  "runTime": 1689128001047,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2085748,
+        "num": 2085748,
+        "word": "长期喝咖啡会导致皮质醇过高",
+        "onboard_time": 1689119968,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1914490,
+        "num": 1914490,
+        "word": "BLACKPINK除Lisa外续约进展顺利",
+        "onboard_time": 1689126751,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34411,
+        "num": 1847284,
+        "word": "长江文物宝藏画卷",
+        "onboard_time": 1689085121,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1805013,
+        "num": 1805013,
+        "word": "400万粉丝网红发布擦边视频被封",
+        "onboard_time": 1689120690,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1669359,
+        "num": 1669359,
+        "word": "宝格丽CEO曾称中国市场比本土还重要",
+        "onboard_time": 1689122973,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1023863,
+        "num": 1023863,
+        "word": "欧文签约安踏",
+        "onboard_time": 1689125553,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1021771,
+        "num": 1021771,
+        "word": "男子在被卖到缅甸途中跳车报警",
+        "onboard_time": 1689121594,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971282,
+        "num": 971282,
+        "word": "美性侵上百人队医狱中被刺10刀",
+        "onboard_time": 1689120874,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807056,
+        "num": 807056,
+        "word": "如果微信显示已读的话",
+        "onboard_time": 1689084101,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 791194,
+        "num": 791194,
+        "word": "大勋拜托你以孟宴臣的人设参加",
+        "onboard_time": 1689121894,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1269150,
+        "num": 788840,
+        "word": "米米",
+        "onboard_time": 1689122973,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767908,
+        "num": 767908,
+        "word": "张远说真爱都没什么好下场",
+        "onboard_time": 1689126091,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683931,
+        "num": 683931,
+        "word": "魏大勋杨洋早期同框",
+        "onboard_time": 1689126451,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 649178,
+        "num": 649178,
+        "word": "差点忘了黄渤还是青岛舞王",
+        "onboard_time": 1689126332,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 647369,
+        "num": 647369,
+        "word": "邮储回应招牌中国被拼成CIHNA",
+        "onboard_time": 1689125553,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588836,
+        "num": 588836,
+        "word": "快递员用12个包裹向妻子补求婚",
+        "onboard_time": 1689127053,
+        "rank": 15,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 487422,
+        "num": 487422,
+        "word": "宝格丽道歉别弄成专供中国大陆",
+        "onboard_time": 1689081698,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 387813,
+        "num": 387813,
+        "word": "Selina怀孕8个月状态",
+        "onboard_time": 1689082658,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385437,
+        "num": 385437,
+        "word": "无锡警方通报3岁女童事件",
+        "onboard_time": 1689120630,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372459,
+        "num": 372459,
+        "word": "唐艺昕错位礼服",
+        "onboard_time": 1689086676,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 584317,
+        "num": 370428,
+        "word": "飞机上我女儿被空姐喂饭了",
+        "onboard_time": 1689121293,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530351,
+        "num": 369541,
+        "word": "哇唧唧哇新艺人cos天官赐福",
+        "onboard_time": 1689122556,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381316,
+        "num": 369330,
+        "word": "冷漠型人格形成的原因",
+        "onboard_time": 1689126271,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367430,
+        "num": 367430,
+        "word": "我的人间烟火之你们到底认不认识",
+        "onboard_time": 1689122375,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298718,
+        "num": 298718,
+        "word": "电影票还能这样退",
+        "onboard_time": 1689120513,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295250,
+        "num": 295250,
+        "word": "爱宝双胞胎诞生的背后故事",
+        "onboard_time": 1689126152,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291435,
+        "num": 291435,
+        "word": "宝格丽",
+        "onboard_time": 1689123033,
+        "rank": 26,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 278117,
+        "num": 278117,
+        "word": "骑手捂住宝宝耳朵进KTV给顾客送餐",
+        "onboard_time": 1689116661,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268442,
+        "num": 268442,
+        "word": "孟宴臣原著结局",
+        "onboard_time": 1689085361,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264675,
+        "num": 264675,
+        "word": "长安三万里主角",
+        "onboard_time": 1689127053,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264823,
+        "num": 256492,
+        "word": "当所有人都在遗忘 这个孩子在与你相识",
+        "onboard_time": 1689127352,
+        "rank": 30,
+        "category": "情感,情感"
+      },
+      {
+        "raw_hot": 244748,
+        "num": 244748,
+        "word": "王楚然校服怼脸照",
+        "onboard_time": 1689125792,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233590,
+        "num": 233590,
+        "word": "无畏契约正式上线",
+        "onboard_time": 1689126451,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227514,
+        "num": 227514,
+        "word": "被徐梦洁的袁湘琴可爱到了",
+        "onboard_time": 1689080733,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224478,
+        "num": 224478,
+        "word": "凉山女孩考上浙大保研清华存下16万",
+        "onboard_time": 1689091590,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213199,
+        "num": 213199,
+        "word": "李木戈的舒适区",
+        "onboard_time": 1689121535,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197357,
+        "num": 197357,
+        "word": "积水倒灌被困老人开门瞬间仿佛看到了光",
+        "onboard_time": 1689122856,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186256,
+        "num": 186256,
+        "word": "李维嘉官宣加盟优酷新综艺",
+        "onboard_time": 1689082775,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182904,
+        "num": 182904,
+        "word": "宝格丽致歉",
+        "onboard_time": 1689076054,
+        "rank": 38,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 181422,
+        "num": 181422,
+        "word": "当i狗遇到e狗",
+        "onboard_time": 1689123933,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177617,
+        "num": 177617,
+        "word": "父亲开家长会睡觉和儿子同一姿势",
+        "onboard_time": 1689091472,
+        "rank": 40,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 456021,
+        "num": 176471,
+        "word": "缅甸",
+        "onboard_time": 1689090095,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169322,
+        "num": 169322,
+        "word": "ITZY造型师",
+        "onboard_time": 1689123271,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167914,
+        "num": 167914,
+        "word": "用鹿晗心率打开关晓彤范丞丞",
+        "onboard_time": 1689090395,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164944,
+        "num": 164944,
+        "word": "查理和巧克力工厂前传预告",
+        "onboard_time": 1689117685,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144516,
+        "num": 144516,
+        "word": "肖战分享时影同款火烧云",
+        "onboard_time": 1689118106,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143818,
+        "num": 143818,
+        "word": "李玟姐姐现身香港殡仪馆",
+        "onboard_time": 1689085180,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 140990,
+        "num": 140990,
+        "word": "蓝箭",
+        "onboard_time": 1689126811,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138937,
+        "num": 138937,
+        "word": "许沁和她的三个男人",
+        "onboard_time": 1689088057,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137077,
+        "num": 137077,
+        "word": "一只虾暴露了广东的温度",
+        "onboard_time": 1689078816,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#星辰大海里的中国名字#"
+    }
+  }
+}
