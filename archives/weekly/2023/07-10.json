@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689132539521,
+  "endTime": 1689133177790,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -339,7 +339,7 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 1873597,
+      "raw_hot": 1918077,
       "num": 824798,
       "word": "王栎鑫前妻说不想再照顾男人",
       "onboard_time": 1689128853,
@@ -369,6 +369,14 @@
       "onboard_time": 1689001598,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1801627,
+      "num": 1801627,
+      "word": "原来大家讨厌的不是月薪三千",
+      "onboard_time": 1689131192,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1797958,
@@ -683,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1170965,
-      "num": 1170965,
-      "word": "原来大家讨厌的不是月薪三千",
-      "onboard_time": 1689131192,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1164405,
       "num": 1164405,
       "word": "北京一外卖骑手违法超车致人死亡",
@@ -752,6 +752,14 @@
       "word": "周笔畅悼念李玟头七",
       "onboard_time": 1689045815,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1079040,
+      "num": 1079040,
+      "word": "YG回应Lisa续约情况",
+      "onboard_time": 1689131255,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -889,6 +897,14 @@
       "onboard_time": 1688971532,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 981741,
+      "num": 981741,
+      "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
+      "onboard_time": 1689130412,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979751,
@@ -1083,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 886418,
-      "num": 886418,
-      "word": "YG回应Lisa续约情况",
-      "onboard_time": 1689131255,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 885963,
       "num": 885963,
       "word": "首尔街头采访韩国人加班",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1688983233,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 862652,
-      "num": 862652,
-      "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
-      "onboard_time": 1689130412,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 858838,
@@ -2203,6 +2203,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 477581,
+      "num": 477581,
+      "word": "孟宴臣vs傅慎行",
+      "onboard_time": 1689130892,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 476855,
       "num": 401648,
       "word": "伪骨科代餐",
@@ -2305,6 +2313,14 @@
       "onboard_time": 1689075214,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465164,
+      "num": 465164,
+      "word": "微信称不会显示已读",
+      "onboard_time": 1689132395,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 465002,
@@ -2411,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449877,
+      "num": 449877,
+      "word": "公司的下午茶一人半个西瓜",
+      "onboard_time": 1689130892,
+      "rank": 37,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 449038,
       "num": 449038,
       "word": "宋轶用柳玉茹手机壳",
@@ -2472,14 +2496,6 @@
       "word": "范丞丞一个人的韩剧",
       "onboard_time": 1689065737,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 440162,
-      "num": 440162,
-      "word": "孟宴臣vs傅慎行",
-      "onboard_time": 1689130892,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -2729,14 +2745,6 @@
       "onboard_time": 1689066273,
       "rank": 28,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 414114,
-      "num": 414114,
-      "word": "公司的下午茶一人半个西瓜",
-      "onboard_time": 1689130892,
-      "rank": 37,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 413359,
@@ -3323,6 +3331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 329563,
+      "num": 274349,
+      "word": "脖子挂大饼饿死可能是抑郁症",
+      "onboard_time": 1689132454,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328842,
       "num": 328842,
       "word": "原神",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1688941275,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 323055,
+      "num": 323055,
+      "word": "封神终极预告燃起来了",
+      "onboard_time": 1689132874,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 322288,
@@ -3827,6 +3851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281149,
+      "num": 281149,
+      "word": "中国驻加拿大大使馆安利玉骨遥",
+      "onboard_time": 1689132573,
+      "rank": 28,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 280090,
       "num": 280090,
       "word": "妈妈被小朋友的数学惊呆了",
@@ -3921,6 +3953,14 @@
       "onboard_time": 1688900131,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271646,
+      "num": 271646,
+      "word": "逼疯宋焰只需一个蒋裕",
+      "onboard_time": 1689132213,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 271467,
@@ -4169,6 +4209,14 @@
       "onboard_time": 1689085121,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253489,
+      "num": 253489,
+      "word": "Angelababy尘缘九尾狐名场面",
+      "onboard_time": 1689131915,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 252957,
@@ -4571,14 +4619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221730,
-      "num": 221730,
-      "word": "Angelababy尘缘九尾狐名场面",
-      "onboard_time": 1689131915,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221179,
       "num": 190839,
       "word": "杨紫棕色系穿搭",
@@ -4915,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201180,
+      "num": 201180,
+      "word": "父子俩第二张合影是永别",
+      "onboard_time": 1689132335,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200903,
       "num": 188303,
       "word": "李硕珉胸肌",
@@ -4969,14 +5017,6 @@
       "onboard_time": 1689126332,
       "rank": 39,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 197225,
-      "num": 197225,
-      "word": "逼疯宋焰只需一个蒋裕",
-      "onboard_time": 1689132213,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 196811,
@@ -5115,6 +5155,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 188906,
+      "num": 188906,
+      "word": "孟宴臣单手摘眼镜",
+      "onboard_time": 1689132813,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188853,
       "num": 188853,
       "word": "艾伦沈腾新片预售开启",
@@ -5137,14 +5185,6 @@
       "onboard_time": 1689119068,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187181,
-      "num": 187181,
-      "word": "微信称不会显示已读",
-      "onboard_time": 1689132395,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 186020,
@@ -5235,14 +5275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182539,
-      "num": 182539,
-      "word": "脖子挂大饼饿死可能是抑郁症",
-      "onboard_time": 1689132454,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180964,
       "num": 180964,
       "word": "给钓鱼佬一点小小的震撼",
@@ -5313,14 +5345,6 @@
       "onboard_time": 1689004473,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170964,
-      "num": 170964,
-      "word": "父子俩第二张合影是永别",
-      "onboard_time": 1689132335,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170713,
@@ -5675,6 +5699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98952,
+      "num": 1308856,
+      "word": "要实实在在为户外劳动者撑好遮阳伞",
+      "onboard_time": 1689131491,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97746,
       "num": 97746,
       "word": "还以为小狗在修仙",
@@ -5745,14 +5777,6 @@
       "onboard_time": 1689104652,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76161,
-      "num": 1174527,
-      "word": "要实实在在为户外劳动者撑好遮阳伞",
-      "onboard_time": 1689131491,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75655,

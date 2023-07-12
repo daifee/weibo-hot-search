@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689132539521,
+  "endTime": 1689133177790,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1651,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1918077,
+      "num": 824798,
+      "word": "王栎鑫前妻说不想再照顾男人",
+      "onboard_time": 1689128853,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1914110,
       "num": 1914110,
       "word": "海口三子大闹周杰伦演唱会",
@@ -1704,14 +1712,6 @@
       "word": "李玟姐姐呼吁大家不要作任何揣测",
       "onboard_time": 1688692715,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1873597,
-      "num": 824798,
-      "word": "王栎鑫前妻说不想再照顾男人",
-      "onboard_time": 1689128853,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1921,6 +1921,14 @@
       "onboard_time": 1688617243,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1801627,
+      "num": 1801627,
+      "word": "原来大家讨厌的不是月薪三千",
+      "onboard_time": 1689131192,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1797958,
@@ -3435,14 +3443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1170965,
-      "num": 1170965,
-      "word": "原来大家讨厌的不是月薪三千",
-      "onboard_time": 1689131192,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1170335,
       "num": 386099,
       "word": "港媒曝李玟轻生细节",
@@ -3897,6 +3897,14 @@
       "onboard_time": 1688303141,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1079040,
+      "num": 1079040,
+      "word": "YG回应Lisa续约情况",
+      "onboard_time": 1689131255,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1078032,
@@ -4529,6 +4537,14 @@
       "onboard_time": 1688309143,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 981741,
+      "num": 981741,
+      "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
+      "onboard_time": 1689130412,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979751,
@@ -5243,14 +5259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 886418,
-      "num": 886418,
-      "word": "YG回应Lisa续约情况",
-      "onboard_time": 1689131255,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 885963,
       "num": 885963,
       "word": "首尔街头采访韩国人加班",
@@ -5433,14 +5441,6 @@
       "onboard_time": 1688983233,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 862652,
-      "num": 862652,
-      "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
-      "onboard_time": 1689130412,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 861682,
@@ -10979,6 +10979,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 477581,
+      "num": 477581,
+      "word": "孟宴臣vs傅慎行",
+      "onboard_time": 1689130892,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477329,
       "num": 477329,
       "word": "富豪为长生不老上午11点后断食",
@@ -11305,6 +11313,14 @@
       "onboard_time": 1688447322,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465164,
+      "num": 465164,
+      "word": "微信称不会显示已读",
+      "onboard_time": 1689132395,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 465020,
@@ -11771,6 +11787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449877,
+      "num": 449877,
+      "word": "公司的下午茶一人半个西瓜",
+      "onboard_time": 1689130892,
+      "rank": 37,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 449261,
       "num": 449261,
       "word": "填个志愿都快要把家填散了",
@@ -12032,14 +12056,6 @@
       "word": "范丞丞一个人的韩剧",
       "onboard_time": 1689065737,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 440162,
-      "num": 440162,
-      "word": "孟宴臣vs傅慎行",
-      "onboard_time": 1689130892,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -12793,14 +12809,6 @@
       "onboard_time": 1688405540,
       "rank": 48,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 414114,
-      "num": 414114,
-      "word": "公司的下午茶一人半个西瓜",
-      "onboard_time": 1689130892,
-      "rank": 37,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 413894,
@@ -15755,6 +15763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329563,
+      "num": 274349,
+      "word": "脖子挂大饼饿死可能是抑郁症",
+      "onboard_time": 1689132454,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329545,
       "num": 321816,
       "word": "刘芸看郑钧演唱会拍了10个G",
@@ -16025,6 +16041,14 @@
       "onboard_time": 1688307761,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 323055,
+      "num": 323055,
+      "word": "封神终极预告燃起来了",
+      "onboard_time": 1689132874,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 322659,
@@ -18059,6 +18083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281149,
+      "num": 281149,
+      "word": "中国驻加拿大大使馆安利玉骨遥",
+      "onboard_time": 1689132573,
+      "rank": 28,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 280520,
       "num": 1771208,
       "word": "巨型海底盲盒开出超18万件文物",
@@ -18536,6 +18568,14 @@
       "word": "偷偷藏不住泰国预告",
       "onboard_time": 1688176532,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271646,
+      "num": 271646,
+      "word": "逼疯宋焰只需一个蒋裕",
+      "onboard_time": 1689132213,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -19577,6 +19617,14 @@
       "onboard_time": 1688801253,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253489,
+      "num": 253489,
+      "word": "Angelababy尘缘九尾狐名场面",
+      "onboard_time": 1689131915,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 253442,
@@ -21707,14 +21755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221730,
-      "num": 221730,
-      "word": "Angelababy尘缘九尾狐名场面",
-      "onboard_time": 1689131915,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221437,
       "num": 221437,
       "word": "许佳琪孔雪儿聚餐合照",
@@ -23291,6 +23331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201180,
+      "num": 201180,
+      "word": "父子俩第二张合影是永别",
+      "onboard_time": 1689132335,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201177,
       "num": 271729,
       "word": "中国队提前锁定混双男双冠军",
@@ -23553,14 +23601,6 @@
       "onboard_time": 1689126332,
       "rank": 39,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 197225,
-      "num": 197225,
-      "word": "逼疯宋焰只需一个蒋裕",
-      "onboard_time": 1689132213,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 197201,
@@ -24331,6 +24371,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 188906,
+      "num": 188906,
+      "word": "孟宴臣单手摘眼镜",
+      "onboard_time": 1689132813,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188853,
       "num": 188853,
       "word": "艾伦沈腾新片预售开启",
@@ -24417,14 +24465,6 @@
       "onboard_time": 1689119068,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187181,
-      "num": 187181,
-      "word": "微信称不会显示已读",
-      "onboard_time": 1689132395,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 187154,
@@ -24681,14 +24721,6 @@
       "onboard_time": 1688926036,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182539,
-      "num": 182539,
-      "word": "脖子挂大饼饿死可能是抑郁症",
-      "onboard_time": 1689132454,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182505,
@@ -25401,14 +25433,6 @@
       "onboard_time": 1688817692,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170964,
-      "num": 170964,
-      "word": "父子俩第二张合影是永别",
-      "onboard_time": 1689132335,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170898,
@@ -27259,6 +27283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 98952,
+      "num": 1308856,
+      "word": "要实实在在为户外劳动者撑好遮阳伞",
+      "onboard_time": 1689131491,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "健身房被淹教练无奈抱蛋白粉出来",
@@ -27721,14 +27753,6 @@
       "onboard_time": 1688318122,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76161,
-      "num": 1174527,
-      "word": "要实实在在为户外劳动者撑好遮阳伞",
-      "onboard_time": 1689131491,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76033,
