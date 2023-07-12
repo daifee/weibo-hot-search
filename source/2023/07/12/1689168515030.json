@@ -1,0 +1,410 @@
+{
+  "runTime": 1689168515030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9779465,
+        "num": 9779465,
+        "word": "安乐传空降了",
+        "onboard_time": 1689165814,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1948472,
+        "num": 1948472,
+        "word": "魏大勋是JYP第一个中国演员",
+        "onboard_time": 1689163051,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71323,
+        "num": 1766278,
+        "word": "成都大运会中国大学生体育代表团成立",
+        "onboard_time": 1689150756,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1665023,
+        "num": 1665023,
+        "word": "中方不接受不承认立场得到100多国支持",
+        "onboard_time": 1689162512,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1398341,
+        "num": 1398341,
+        "word": "创造营2023 女团",
+        "onboard_time": 1689166594,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1095922,
+        "num": 1095922,
+        "word": "迪丽热巴花裙子",
+        "onboard_time": 1689163832,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 951399,
+        "num": 951399,
+        "word": "关晓彤上下班亲的都是我爱的男人",
+        "onboard_time": 1689163772,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 835002,
+        "num": 835002,
+        "word": "小区惊现40厘米陆龟散步",
+        "onboard_time": 1689164193,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645078,
+        "num": 645078,
+        "word": "米兰昆德拉去世",
+        "onboard_time": 1689153697,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 614125,
+        "num": 614125,
+        "word": "这是扎到烤肠的大动脉上了",
+        "onboard_time": 1689162572,
+        "rank": 9,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 1375278,
+        "num": 609668,
+        "word": "男子办离婚在民政局大厅打老婆",
+        "onboard_time": 1689158913,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906630,
+        "num": 609005,
+        "word": "安乐传",
+        "onboard_time": 1689156573,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679737,
+        "num": 603988,
+        "word": "董云虎被查",
+        "onboard_time": 1689167857,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853144,
+        "num": 594483,
+        "word": "Jennie发了和金泰亨被拍到的造型照片",
+        "onboard_time": 1689158374,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 785325,
+        "num": 592744,
+        "word": "安乐传山水映世海报",
+        "onboard_time": 1689166116,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 773601,
+        "num": 587901,
+        "word": "奚安娜葛沛豪回应",
+        "onboard_time": 1689160712,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583875,
+        "num": 583875,
+        "word": "马立奥",
+        "onboard_time": 1689166354,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430522,
+        "num": 430522,
+        "word": "黑龙江省的简称叫啥",
+        "onboard_time": 1689153636,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428844,
+        "num": 428844,
+        "word": "游客爬华山不慎踩空跌落",
+        "onboard_time": 1689167736,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420501,
+        "num": 420501,
+        "word": "榜一大哥诈骗女主播12万",
+        "onboard_time": 1689159934,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498089,
+        "num": 413226,
+        "word": "Angelababy宋轶早期同框",
+        "onboard_time": 1689161912,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 474282,
+        "num": 410874,
+        "word": "杨澄好渣",
+        "onboard_time": 1689162872,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395221,
+        "num": 395221,
+        "word": "无锡3岁女童母亲疑募捐百万",
+        "onboard_time": 1689156871,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391974,
+        "num": 391974,
+        "word": "马宁",
+        "onboard_time": 1689165273,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367179,
+        "num": 390057,
+        "word": "35岁以上的人都可以做什么工作",
+        "onboard_time": 1689157055,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389904,
+        "num": 389904,
+        "word": "周也粉色芭比",
+        "onboard_time": 1689162993,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371579,
+        "num": 371579,
+        "word": "内娱最邪门的一张合照",
+        "onboard_time": 1689146915,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367466,
+        "num": 367466,
+        "word": "优酷",
+        "onboard_time": 1689157173,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364656,
+        "num": 364656,
+        "word": "女子来月经店员帮买卫生巾拿新裤子",
+        "onboard_time": 1689152676,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360092,
+        "num": 360092,
+        "word": "女孩偶像屠呦呦高考631分报药学专业",
+        "onboard_time": 1689164193,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 331198,
+        "num": 331198,
+        "word": "为什么现在厨房越来越小了",
+        "onboard_time": 1689167254,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294092,
+        "num": 294092,
+        "word": "第一次体验印度大学食堂",
+        "onboard_time": 1689166956,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 285409,
+        "num": 285409,
+        "word": "体重很轻但是肚子很大",
+        "onboard_time": 1689151834,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280627,
+        "num": 280627,
+        "word": "黄牛招985学生抢林俊杰演唱会门票",
+        "onboard_time": 1689161253,
+        "rank": 33,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 277287,
+        "num": 277287,
+        "word": "丁程鑫赵今麦节目录制路透",
+        "onboard_time": 1689165697,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236336,
+        "num": 236336,
+        "word": "12306回应女子卧铺出行被上铺男子凝视",
+        "onboard_time": 1689150815,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236239,
+        "num": 236239,
+        "word": "事业单位上班后失去了本名",
+        "onboard_time": 1689147454,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233183,
+        "num": 233183,
+        "word": "古相思曲",
+        "onboard_time": 1689161852,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219678,
+        "num": 219678,
+        "word": "宋焰许沁暧昧",
+        "onboard_time": 1689168340,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215946,
+        "num": 215946,
+        "word": "火影忍者 水门传",
+        "onboard_time": 1689164193,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 212029,
+        "num": 212029,
+        "word": "陈飞宇告黑",
+        "onboard_time": 1689168459,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205020,
+        "num": 205020,
+        "word": "宝格丽海外账号仍未道歉",
+        "onboard_time": 1689156336,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203070,
+        "num": 203070,
+        "word": "怎么忍住不捡回家的",
+        "onboard_time": 1689163532,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 193748,
+        "num": 193748,
+        "word": "养小孩后才知道挑食是天生的",
+        "onboard_time": 1689158672,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191003,
+        "num": 191003,
+        "word": "韩国综艺人李智秀去世",
+        "onboard_time": 1689149916,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187011,
+        "num": 187011,
+        "word": "韦世豪红牌",
+        "onboard_time": 1689166415,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186682,
+        "num": 186682,
+        "word": "这个家没重明得散",
+        "onboard_time": 1689168276,
+        "rank": 46,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 177840,
+        "num": 177840,
+        "word": "DIOR大秀",
+        "onboard_time": 1689154656,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176916,
+        "num": 176916,
+        "word": "肖战任敏对戏看哭导演",
+        "onboard_time": 1689161131,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174509,
+        "num": 174509,
+        "word": "江疏影 素颜或妆后各有各的美好或不足",
+        "onboard_time": 1689154235,
+        "rank": 49,
+        "category": "艺人,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#物质文明和精神文明相协调的现代化#"
+    }
+  }
+}
