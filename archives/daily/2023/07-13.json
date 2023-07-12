@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689189318708,
+  "endTime": 1689190434497,
   "band_list": [
     {
       "raw_hot": 1858292,
@@ -427,20 +427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74521,
+      "num": 59613,
+      "word": "哇唧唧哇说难哄还没定主演",
+      "onboard_time": 1689187455,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 73678,
       "num": 138424,
       "word": "BLG对战RNG",
       "onboard_time": 1689164313,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 73151,
-      "num": 59613,
-      "word": "哇唧唧哇说难哄还没定主演",
-      "onboard_time": 1689187455,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 68473,
@@ -480,6 +480,22 @@
       "word": "安乐传",
       "onboard_time": 1689156573,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 29797,
+      "num": 29797,
+      "word": "微博毕业派对",
+      "onboard_time": 1689161672,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 27167,
+      "num": 27167,
+      "word": "宋焰什么时候可以直面许沁",
+      "onboard_time": 1689187873,
+      "rank": 42,
       "category": "影视"
     },
     {
