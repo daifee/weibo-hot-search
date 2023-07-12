@@ -1,0 +1,410 @@
+{
+  "runTime": 1689147281960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612800,
+        "num": 1612800,
+        "word": "充值700元仍看不完一部网文",
+        "onboard_time": 1689141695,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 771861,
+        "num": 771861,
+        "word": "爸爸当家",
+        "onboard_time": 1689141513,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84072,
+        "num": 719701,
+        "word": "要实实在在为户外劳动者撑好遮阳伞",
+        "onboard_time": 1689131491,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394372,
+        "num": 719588,
+        "word": "葛沛豪评论",
+        "onboard_time": 1689133775,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717686,
+        "num": 717686,
+        "word": "微信称不会显示已读",
+        "onboard_time": 1689132395,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 695172,
+        "num": 695172,
+        "word": "A股",
+        "onboard_time": 1689144632,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 678435,
+        "num": 678435,
+        "word": "武大回应北大学生转学至武大",
+        "onboard_time": 1689143372,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 610273,
+        "num": 610273,
+        "word": "关晓彤范丞丞床咚吻戏",
+        "onboard_time": 1689135037,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503108,
+        "num": 503108,
+        "word": "孙俪时隔20年再演女刑警",
+        "onboard_time": 1689137561,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438035,
+        "num": 438035,
+        "word": "BLACKPINK除Lisa外续约进展顺利",
+        "onboard_time": 1689126751,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835375,
+        "num": 437982,
+        "word": "复旦十八驴",
+        "onboard_time": 1689139594,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 788384,
+        "num": 437233,
+        "word": "被指猥亵女童的蛋糕店主妻子发声",
+        "onboard_time": 1689129271,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762416,
+        "num": 436151,
+        "word": "米米",
+        "onboard_time": 1689122973,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571421,
+        "num": 435846,
+        "word": "孟宴臣许沁cp粉出手了",
+        "onboard_time": 1689141273,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30270,
+        "num": 434866,
+        "word": "吴易昺赞李娜是传奇",
+        "onboard_time": 1689146130,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434709,
+        "num": 434709,
+        "word": "每天上班很累的原因找到了",
+        "onboard_time": 1689134139,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 499147,
+        "num": 409294,
+        "word": "减肥人的绝配是快乐减肥操",
+        "onboard_time": 1689145292,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440201,
+        "num": 386909,
+        "word": "马立奥和三喜",
+        "onboard_time": 1689133835,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437801,
+        "num": 377600,
+        "word": "李木戈发长文谈宋焰许沁",
+        "onboard_time": 1689146431,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358065,
+        "num": 358065,
+        "word": "民警因公牺牲2年后女儿考上公安大学",
+        "onboard_time": 1689140975,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 723911,
+        "num": 358052,
+        "word": "易梦玲喝奶茶",
+        "onboard_time": 1689144632,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539762,
+        "num": 357929,
+        "word": "王心凌演唱会官宣23站",
+        "onboard_time": 1689145531,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 535331,
+        "num": 357856,
+        "word": "实习生离职后换了电脑桌面",
+        "onboard_time": 1689146013,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 398901,
+        "num": 357797,
+        "word": "已读不回属于社交默契还是冷暴力",
+        "onboard_time": 1689145831,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357771,
+        "num": 357771,
+        "word": "Uzi发文感谢队友",
+        "onboard_time": 1689137619,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 474523,
+        "num": 347365,
+        "word": "张元英HelloKitty眼妆",
+        "onboard_time": 1689144392,
+        "rank": 25,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 427804,
+        "num": 311403,
+        "word": "内娱最邪门的一张合照",
+        "onboard_time": 1689146915,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379605,
+        "num": 295016,
+        "word": "李明德夸肖战是神仙本仙",
+        "onboard_time": 1689143912,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265925,
+        "num": 265925,
+        "word": "浙江大学第一封录取通知书",
+        "onboard_time": 1689145771,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 211904,
+        "num": 260457,
+        "word": "办案民警称私搭浮桥当事人收了30万",
+        "onboard_time": 1689137920,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623320,
+        "num": 259363,
+        "word": "李梦 张隆每个月都有按时付钱",
+        "onboard_time": 1689145893,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325817,
+        "num": 252232,
+        "word": "易烊千玺趴在地上画画",
+        "onboard_time": 1689141156,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324192,
+        "num": 249110,
+        "word": "哈妮克孜被蚊子咬成香肠嘴",
+        "onboard_time": 1689146613,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303332,
+        "num": 238847,
+        "word": "玉骨遥主演剧透大结局",
+        "onboard_time": 1689145955,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238456,
+        "num": 238456,
+        "word": "电影院的监控能有多清晰",
+        "onboard_time": 1689146852,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298975,
+        "num": 235603,
+        "word": "黄景瑜他从火光中走来",
+        "onboard_time": 1689141033,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284307,
+        "num": 231773,
+        "word": "魏大勋文咏珊居然演过情侣",
+        "onboard_time": 1689134559,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226561,
+        "num": 226561,
+        "word": "62岁德国地产大亨在泰国被肢解",
+        "onboard_time": 1689135519,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215573,
+        "num": 215573,
+        "word": "长期喝咖啡会导致皮质醇过高",
+        "onboard_time": 1689119968,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206555,
+        "num": 206555,
+        "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
+        "onboard_time": 1689130412,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250086,
+        "num": 205136,
+        "word": "给魏大勋吹头发的是李沁",
+        "onboard_time": 1689147032,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236894,
+        "num": 204266,
+        "word": "王栎鑫前妻说不想再照顾男人",
+        "onboard_time": 1689128853,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232708,
+        "num": 202955,
+        "word": "任敏玉骨遥见面会生图",
+        "onboard_time": 1689146733,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227571,
+        "num": 201606,
+        "word": "黄明昊左手彭昱畅右手许凯",
+        "onboard_time": 1689143372,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 200428,
+        "num": 200428,
+        "word": "脖子挂大饼饿死可能是抑郁症",
+        "onboard_time": 1689132454,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198197,
+        "num": 198197,
+        "word": "彭昱畅许凯凑不齐一个胆",
+        "onboard_time": 1689139538,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188660,
+        "num": 188660,
+        "word": "美国新婚夫妻上演真人版消失的她",
+        "onboard_time": 1689133835,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188413,
+        "num": 188413,
+        "word": "YG回应Lisa续约情况",
+        "onboard_time": 1689131255,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177158,
+        "num": 177158,
+        "word": "美科技大亨与17岁儿子换血葆青春失败",
+        "onboard_time": 1689147212,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174512,
+        "num": 174512,
+        "word": "美国78岁爷爷求婚高中时暗恋对象",
+        "onboard_time": 1689134978,
+        "rank": 49,
+        "category": "情感,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023中国新媒体大会#"
+    }
+  }
+}

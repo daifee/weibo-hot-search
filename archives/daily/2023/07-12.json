@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689146272017,
+  "endTime": 1689147281960,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -91,6 +91,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1612800,
+      "num": 1612800,
+      "word": "充值700元仍看不完一部网文",
+      "onboard_time": 1689141695,
+      "rank": 21,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1551367,
       "num": 1551367,
       "word": "微信称不会显示已读",
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1336233,
-      "num": 1336233,
-      "word": "充值700元仍看不完一部网文",
-      "onboard_time": 1689141695,
-      "rank": 21,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 1269150,
       "num": 822676,
       "word": "米米",
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1185579,
-      "num": 503474,
+      "num": 678435,
       "word": "武大回应北大学生转学至武大",
       "onboard_time": 1689143372,
       "rank": 30,
@@ -339,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 723911,
+      "num": 700125,
+      "word": "易梦玲喝奶茶",
+      "onboard_time": 1689144632,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706934,
       "num": 706934,
       "word": "父亲开家长会睡觉和儿子同一姿势",
@@ -353,14 +361,6 @@
       "onboard_time": 1689081157,
       "rank": 7,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 700125,
-      "num": 700125,
-      "word": "易梦玲喝奶茶",
-      "onboard_time": 1689144632,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 687876,
@@ -401,6 +401,14 @@
       "onboard_time": 1689125553,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623320,
+      "num": 259363,
+      "word": "李梦 张隆每个月都有按时付钱",
+      "onboard_time": 1689145893,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 623294,
@@ -507,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539762,
+      "num": 357929,
+      "word": "王心凌演唱会官宣23站",
+      "onboard_time": 1689145531,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 535331,
+      "num": 357856,
+      "word": "实习生离职后换了电脑桌面",
+      "onboard_time": 1689146013,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 532375,
       "num": 532375,
       "word": "唐艺昕错位礼服",
@@ -553,6 +577,14 @@
       "onboard_time": 1689058230,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499147,
+      "num": 409294,
+      "word": "减肥人的绝配是快乐减肥操",
+      "onboard_time": 1689145292,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 497248,
@@ -627,6 +659,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 437801,
+      "num": 377600,
+      "word": "李木戈发长文谈宋焰许沁",
+      "onboard_time": 1689146431,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437524,
       "num": 437524,
       "word": "老人疑因拒绝邻居开排水口到自家遭上门殴打",
@@ -675,6 +715,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 427804,
+      "num": 311403,
+      "word": "内娱最邪门的一张合照",
+      "onboard_time": 1689146915,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 426517,
       "num": 426517,
       "word": "韩幽灵儿童案677名孩子生死不明",
@@ -713,6 +761,14 @@
       "onboard_time": 1689135276,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 398901,
+      "num": 357797,
+      "word": "已读不回属于社交默契还是冷暴力",
+      "onboard_time": 1689145831,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 386418,
@@ -787,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351272,
-      "num": 232931,
-      "word": "王心凌演唱会官宣23站",
-      "onboard_time": 1689145531,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 342569,
       "num": 342569,
       "word": "警方通报无锡3岁女童事件调查结果",
@@ -817,6 +865,14 @@
       "onboard_time": 1689076114,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 324192,
+      "num": 249110,
+      "word": "哈妮克孜被蚊子咬成香肠嘴",
+      "onboard_time": 1689146613,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 323055,
@@ -875,6 +931,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 303332,
+      "num": 238847,
+      "word": "玉骨遥主演剧透大结局",
+      "onboard_time": 1689145955,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297332,
       "num": 297332,
       "word": "查理和巧克力工厂前传预告",
@@ -929,14 +993,6 @@
       "onboard_time": 1689087580,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 286256,
-      "num": 231920,
-      "word": "减肥人的绝配是快乐减肥操",
-      "onboard_time": 1689145292,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 284860,
@@ -1011,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265925,
+      "num": 265925,
+      "word": "浙江大学第一封录取通知书",
+      "onboard_time": 1689145771,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 265710,
       "num": 265710,
       "word": "孟宴臣说冷战一个星期我都快疯了",
@@ -1075,20 +1139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254752,
-      "num": 254752,
-      "word": "已读不回属于社交默契还是冷暴力",
-      "onboard_time": 1689145831,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253489,
       "num": 253489,
       "word": "Angelababy尘缘九尾狐名场面",
       "onboard_time": 1689131915,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250086,
+      "num": 205136,
+      "word": "给魏大勋吹头发的是李沁",
+      "onboard_time": 1689147032,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 244748,
@@ -1107,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238456,
+      "num": 238456,
+      "word": "电影院的监控能有多清晰",
+      "onboard_time": 1689146852,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238287,
       "num": 238287,
       "word": "所有的职场PUA都可以反着用",
@@ -1115,12 +1187,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 234168,
-      "num": 234168,
-      "word": "浙江大学第一封录取通知书",
-      "onboard_time": 1689145771,
-      "rank": 29,
-      "category": "教育,社会新闻"
+      "raw_hot": 232708,
+      "num": 202955,
+      "word": "任敏玉骨遥见面会生图",
+      "onboard_time": 1689146733,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 231670,
@@ -1147,6 +1219,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 227571,
+      "num": 210104,
+      "word": "黄明昊左手彭昱畅右手许凯",
+      "onboard_time": 1689143372,
+      "rank": 38,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 223316,
       "num": 223316,
       "word": "本以为殉情只是古老的传言",
@@ -1155,28 +1235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221292,
-      "num": 221292,
-      "word": "玉骨遥主演剧透大结局",
-      "onboard_time": 1689145955,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216963,
       "num": 216963,
       "word": "西安的雨没有100斤寸步难行",
       "onboard_time": 1689113656,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216673,
-      "num": 216673,
-      "word": "李梦 张隆每个月都有按时付钱",
-      "onboard_time": 1689145893,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 214420,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1689122856,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210104,
-      "num": 210104,
-      "word": "黄明昊左手彭昱畅右手许凯",
-      "onboard_time": 1689143372,
-      "rank": 38,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 208953,
@@ -1273,14 +1329,6 @@
       "onboard_time": 1689073833,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193820,
-      "num": 200766,
-      "word": "实习生离职后换了电脑桌面",
-      "onboard_time": 1689146013,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 193404,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1689123271,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177158,
+      "num": 177158,
+      "word": "美科技大亨与17岁儿子换血葆青春失败",
+      "onboard_time": 1689147212,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165011,
@@ -1555,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30270,
+      "num": 501659,
+      "word": "吴易昺赞李娜是传奇",
+      "onboard_time": 1689146130,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29104,
       "num": 29104,
       "word": "在数模上打破了性别的壁垒",
@@ -1569,14 +1633,6 @@
       "onboard_time": 1689128853,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13237,
-      "num": 501659,
-      "word": "吴易昺赞李娜是传奇",
-      "onboard_time": 1689146130,
-      "rank": 14,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
