@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689147281960,
+  "endTime": 1689150254309,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -35,10 +35,26 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2589208,
+      "num": 625814,
+      "word": "内娱最邪门的一张合照",
+      "onboard_time": 1689146915,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2356855,
       "num": 2356855,
       "word": "长期喝咖啡会导致皮质醇过高",
       "onboard_time": 1689119968,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 2281390,
+      "num": 2281390,
+      "word": "事业单位上班后失去了本名",
+      "onboard_time": 1689147454,
       "rank": 0,
       "category": "情感"
     },
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1331198,
+      "num": 912087,
+      "word": "黄子佼首发声",
+      "onboard_time": 1689149194,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1269150,
       "num": 822676,
       "word": "米米",
@@ -169,6 +193,14 @@
       "onboard_time": 1689121594,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1083754,
+      "num": 836882,
+      "word": "给魏大勋吹头发的是李沁",
+      "onboard_time": 1689147032,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 1079040,
@@ -217,6 +249,14 @@
       "onboard_time": 1689141513,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 991832,
+      "num": 768427,
+      "word": "小雪回应",
+      "onboard_time": 1689148293,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 935199,
@@ -323,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752766,
+      "num": 752766,
+      "word": "李梦 张隆每个月都有按时付钱",
+      "onboard_time": 1689145893,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 746459,
       "num": 746459,
       "word": "A股",
@@ -387,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665504,
+      "num": 665504,
+      "word": "哈妮克孜被蚊子咬成香肠嘴",
+      "onboard_time": 1689146613,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663931,
       "num": 557708,
       "word": "我的人间烟火 复旦十八驴",
@@ -403,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623320,
-      "num": 259363,
-      "word": "李梦 张隆每个月都有按时付钱",
-      "onboard_time": 1689145893,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 642106,
+      "num": 642106,
+      "word": "已读不回属于社交默契还是冷暴力",
+      "onboard_time": 1689145831,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 623294,
@@ -449,6 +505,14 @@
       "onboard_time": 1689087877,
       "rank": 5,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 601044,
+      "num": 601044,
+      "word": "蔡少芬想和贾静雯演母女",
+      "onboard_time": 1689147454,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 593592,
@@ -499,6 +563,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547852,
+      "num": 547852,
+      "word": "减肥人的绝配是快乐减肥操",
+      "onboard_time": 1689145292,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 547373,
+      "num": 397471,
+      "word": "实习生离职后换了电脑桌面",
+      "onboard_time": 1689146013,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 541638,
       "num": 541638,
       "word": "民警因公牺牲2年后女儿考上公安大学",
@@ -516,19 +596,19 @@
     },
     {
       "raw_hot": 539762,
-      "num": 357929,
+      "num": 392212,
       "word": "王心凌演唱会官宣23站",
       "onboard_time": 1689145531,
       "rank": 30,
       "category": "音乐"
     },
     {
-      "raw_hot": 535331,
-      "num": 357856,
-      "word": "实习生离职后换了电脑桌面",
-      "onboard_time": 1689146013,
-      "rank": 39,
-      "category": "情感,幽默"
+      "raw_hot": 533389,
+      "num": 533389,
+      "word": "李木戈发长文谈宋焰许沁",
+      "onboard_time": 1689146431,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 532375,
@@ -537,6 +617,14 @@
       "onboard_time": 1689086676,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 532364,
+      "num": 532364,
+      "word": "十个勤天",
+      "onboard_time": 1689148594,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 526799,
@@ -577,14 +665,6 @@
       "onboard_time": 1689058230,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499147,
-      "num": 409294,
-      "word": "减肥人的绝配是快乐减肥操",
-      "onboard_time": 1689145292,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 497248,
@@ -659,14 +739,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 437801,
-      "num": 377600,
-      "word": "李木戈发长文谈宋焰许沁",
-      "onboard_time": 1689146431,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 437524,
       "num": 437524,
       "word": "老人疑因拒绝邻居开排水口到自家遭上门殴打",
@@ -715,14 +787,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 427804,
-      "num": 311403,
-      "word": "内娱最邪门的一张合照",
-      "onboard_time": 1689146915,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 426517,
       "num": 426517,
       "word": "韩幽灵儿童案677名孩子生死不明",
@@ -763,12 +827,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 398901,
-      "num": 357797,
-      "word": "已读不回属于社交默契还是冷暴力",
-      "onboard_time": 1689145831,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 400423,
+      "num": 322836,
+      "word": "韩国综艺人李智秀去世",
+      "onboard_time": 1689149916,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388889,
+      "num": 328346,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1689150033,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 386418,
@@ -793,6 +865,14 @@
       "onboard_time": 1689126271,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 379528,
+      "num": 379528,
+      "word": "无畏契约",
+      "onboard_time": 1689148955,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 370970,
@@ -843,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346607,
+      "num": 322047,
+      "word": "逛无印良品说的最多的一句话",
+      "onboard_time": 1689149374,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 342569,
       "num": 342569,
       "word": "警方通报无锡3岁女童事件调查结果",
@@ -859,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331635,
+      "num": 321338,
+      "word": "孟宴臣的100种死法",
+      "onboard_time": 1689148054,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331402,
       "num": 331402,
       "word": "当同事是我前男友的现任时",
@@ -867,12 +963,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324192,
-      "num": 249110,
-      "word": "哈妮克孜被蚊子咬成香肠嘴",
-      "onboard_time": 1689146613,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 328626,
+      "num": 328626,
+      "word": "美科技大亨与17岁儿子换血葆青春失败",
+      "onboard_time": 1689147212,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323055,
@@ -1043,6 +1139,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 270684,
+      "num": 270684,
+      "word": "人的朋友圈不断迭代是正常的",
+      "onboard_time": 1689147694,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270133,
       "num": 270133,
       "word": "怦然心动20岁",
@@ -1131,6 +1235,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 256859,
+      "num": 256859,
+      "word": "一起种地吧",
+      "onboard_time": 1689149194,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254939,
       "num": 254939,
       "word": "闫桉终于来演偶像剧了",
@@ -1145,14 +1257,6 @@
       "onboard_time": 1689131915,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250086,
-      "num": 205136,
-      "word": "给魏大勋吹头发的是李沁",
-      "onboard_time": 1689147032,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 244748,
@@ -1273,6 +1377,14 @@
       "onboard_time": 1689122856,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209405,
+      "num": 209405,
+      "word": "我很难被PUA的原因",
+      "onboard_time": 1689150096,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 208953,
@@ -1403,11 +1515,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177158,
-      "num": 177158,
-      "word": "美科技大亨与17岁儿子换血葆青春失败",
-      "onboard_time": 1689147212,
-      "rank": 48,
+      "raw_hot": 169106,
+      "num": 169106,
+      "word": "你觉得工作人员应该道歉吗",
+      "onboard_time": 1689148894,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1425,6 +1537,14 @@
       "onboard_time": 1689124832,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162589,
+      "num": 162589,
+      "word": "当各国语言的自称碰到中文",
+      "onboard_time": 1689148054,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 160091,
