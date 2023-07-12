@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689183285951,
+  "endTime": 1689186253882,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -29563,6 +29563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67357,
+      "num": 67357,
+      "word": "女子戒指卡手看到消防剪切钳吓到结巴",
+      "onboard_time": 1689184157,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66878,
       "num": 944157,
       "word": "打卡2023世界人工智能大会",
@@ -29753,6 +29761,14 @@
       "onboard_time": 1688670435,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51683,
+      "num": 51683,
+      "word": "杨紫回国路透",
+      "onboard_time": 1689183439,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 51538,
@@ -30171,20 +30187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15098,
+      "num": 1568451,
+      "word": "十四冬举办时间定了",
+      "onboard_time": 1689169116,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11854,
       "num": 343410,
       "word": "复兴号正式在青藏铁路投入运行",
       "onboard_time": 1688185173,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11421,
-      "num": 1568451,
-      "word": "十四冬举办时间定了",
-      "onboard_time": 1689169116,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 7808,

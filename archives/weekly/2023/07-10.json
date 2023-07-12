@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689183285951,
+  "endTime": 1689186253882,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -7531,6 +7531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67357,
+      "num": 67357,
+      "word": "女子戒指卡手看到消防剪切钳吓到结巴",
+      "onboard_time": 1689184157,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63310,
       "num": 63310,
       "word": "李雪琴痛失两个名字",
@@ -7569,6 +7577,14 @@
       "onboard_time": 1689067776,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51683,
+      "num": 51683,
+      "word": "杨紫回国路透",
+      "onboard_time": 1689183439,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 49865,
@@ -7675,7 +7691,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11421,
+      "raw_hot": 15098,
       "num": 1568451,
       "word": "十四冬举办时间定了",
       "onboard_time": 1689169116,
