@@ -1,0 +1,410 @@
+{
+  "runTime": 1689153530423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2079344,
+        "num": 2079344,
+        "word": "事业单位上班后失去了本名",
+        "onboard_time": 1689147454,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1927506,
+        "num": 1927506,
+        "word": "韩国综艺人李智秀去世",
+        "onboard_time": 1689149916,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177101,
+        "num": 1555470,
+        "word": "成都大运会中国大学生体育代表团成立",
+        "onboard_time": 1689150756,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1378721,
+        "num": 1378721,
+        "word": "12306回应女子卧铺出行被上铺男子凝视",
+        "onboard_time": 1689150815,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176313,
+        "num": 1176313,
+        "word": "黄子佼首发声",
+        "onboard_time": 1689149194,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1033549,
+        "num": 1033549,
+        "word": "高帮洞洞鞋",
+        "onboard_time": 1689151116,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 951249,
+        "num": 951249,
+        "word": "给魏大勋吹头发的是李沁",
+        "onboard_time": 1689147032,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769369,
+        "num": 769369,
+        "word": "女子来月经店员帮买卫生巾拿新裤子",
+        "onboard_time": 1689152676,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758628,
+        "num": 758628,
+        "word": "葛沛豪评论",
+        "onboard_time": 1689133775,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605734,
+        "num": 605734,
+        "word": "逛无印良品说的最多的一句话",
+        "onboard_time": 1689149374,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2308205,
+        "num": 588093,
+        "word": "内娱最邪门的一张合照",
+        "onboard_time": 1689146915,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 850433,
+        "num": 579433,
+        "word": "小雪回应",
+        "onboard_time": 1689148293,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 709544,
+        "num": 578407,
+        "word": "女子买临期食品因2小时后过期索赔",
+        "onboard_time": 1689151834,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570434,
+        "num": 570434,
+        "word": "我很难被PUA的原因",
+        "onboard_time": 1689150096,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 566033,
+        "num": 566033,
+        "word": "米米",
+        "onboard_time": 1689122973,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534553,
+        "num": 534553,
+        "word": "哈妮克孜被蚊子咬成香肠嘴",
+        "onboard_time": 1689146613,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505613,
+        "num": 505613,
+        "word": "十个勤天",
+        "onboard_time": 1689148594,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497347,
+        "num": 497347,
+        "word": "已读不回属于社交默契还是冷暴力",
+        "onboard_time": 1689145831,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431295,
+        "num": 431295,
+        "word": "你好十个勤天官宣",
+        "onboard_time": 1689151598,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425444,
+        "num": 425444,
+        "word": "充值700元仍看不完一部网文",
+        "onboard_time": 1689141695,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 949608,
+        "num": 419944,
+        "word": "体重很轻但是肚子很大",
+        "onboard_time": 1689151834,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401207,
+        "num": 401207,
+        "word": "蔡少芬想和贾静雯演母女",
+        "onboard_time": 1689147454,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398577,
+        "num": 398577,
+        "word": "早期唐嫣",
+        "onboard_time": 1689152676,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395264,
+        "num": 395264,
+        "word": "离职后这几样东西一定要带走",
+        "onboard_time": 1689150756,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330784,
+        "num": 330784,
+        "word": "实习生离职后换了电脑桌面",
+        "onboard_time": 1689146013,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 327706,
+        "num": 327706,
+        "word": "李梦 张隆每个月都有按时付钱",
+        "onboard_time": 1689145893,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319664,
+        "num": 319664,
+        "word": "哇唧唧哇发布会信息量巨大",
+        "onboard_time": 1689153517,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304158,
+        "num": 304158,
+        "word": "马立奥和三喜",
+        "onboard_time": 1689133835,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303827,
+        "num": 303827,
+        "word": "被指猥亵女童的蛋糕店主妻子发声",
+        "onboard_time": 1689129271,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202686,
+        "num": 301444,
+        "word": "黄德义儿子说家里收了30万过路费",
+        "onboard_time": 1689150455,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301027,
+        "num": 301027,
+        "word": "美科技大亨与17岁儿子换血葆青春失败",
+        "onboard_time": 1689147212,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300176,
+        "num": 300176,
+        "word": "武大回应北大学生转学至武大",
+        "onboard_time": 1689143372,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 297155,
+        "num": 297155,
+        "word": "李木戈发长文谈宋焰许沁",
+        "onboard_time": 1689146431,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286886,
+        "num": 286886,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1689150033,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276580,
+        "num": 276580,
+        "word": "张元英HelloKitty眼妆",
+        "onboard_time": 1689144392,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 266497,
+        "num": 266497,
+        "word": "孟宴臣许沁cp粉出手了",
+        "onboard_time": 1689141273,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251271,
+        "num": 251271,
+        "word": "关晓彤范丞丞床咚吻戏",
+        "onboard_time": 1689135037,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247446,
+        "num": 247446,
+        "word": "一头牛放的屁可供汽车开一天",
+        "onboard_time": 1689153274,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246317,
+        "num": 246317,
+        "word": "王一博跳舞的松弛感",
+        "onboard_time": 1689152256,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242678,
+        "num": 242678,
+        "word": "BLACKPINK除Lisa外续约进展顺利",
+        "onboard_time": 1689126751,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238494,
+        "num": 238494,
+        "word": "爸爸当家",
+        "onboard_time": 1689141513,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235401,
+        "num": 235401,
+        "word": "孟宴臣的100种死法",
+        "onboard_time": 1689148054,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225421,
+        "num": 225421,
+        "word": "民警因公牺牲2年后女儿考上公安大学",
+        "onboard_time": 1689140975,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 207916,
+        "num": 207916,
+        "word": "电影院的监控能有多清晰",
+        "onboard_time": 1689146852,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206892,
+        "num": 206892,
+        "word": "一起种地吧",
+        "onboard_time": 1689149194,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206238,
+        "num": 206238,
+        "word": "人的朋友圈不断迭代是正常的",
+        "onboard_time": 1689147694,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202662,
+        "num": 202662,
+        "word": "Uzi发文感谢队友",
+        "onboard_time": 1689137619,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201203,
+        "num": 201203,
+        "word": "LNG对战TT",
+        "onboard_time": 1689152494,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200784,
+        "num": 200784,
+        "word": "孙俪时隔20年再演女刑警",
+        "onboard_time": 1689137561,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195981,
+        "num": 195981,
+        "word": "王心凌演唱会官宣23站",
+        "onboard_time": 1689145531,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023中国新媒体大会#"
+    }
+  }
+}

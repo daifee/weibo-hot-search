@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689151088500,
+  "endTime": 1689153530423,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -91,6 +91,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1927506,
+      "num": 1927506,
+      "word": "韩国综艺人李智秀去世",
+      "onboard_time": 1689149916,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1918077,
       "num": 824798,
       "word": "王栎鑫前妻说不想再照顾男人",
@@ -148,11 +156,19 @@
     },
     {
       "raw_hot": 1452442,
-      "num": 912087,
+      "num": 1176313,
       "word": "黄子佼首发声",
       "onboard_time": 1689149194,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1378721,
+      "num": 1378721,
+      "word": "12306回应女子卧铺出行被上铺男子凝视",
+      "onboard_time": 1689150815,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1336958,
@@ -163,16 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1326723,
-      "num": 654957,
-      "word": "韩国综艺人李智秀去世",
-      "onboard_time": 1689149916,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1301908,
-      "num": 836882,
+      "num": 951249,
       "word": "给魏大勋吹头发的是李沁",
       "onboard_time": 1689147032,
       "rank": 40,
@@ -235,6 +243,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1033549,
+      "num": 1033549,
+      "word": "高帮洞洞鞋",
+      "onboard_time": 1689151116,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1023863,
       "num": 1023863,
       "word": "欧文签约安踏",
@@ -265,6 +281,14 @@
       "onboard_time": 1689148293,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 949608,
+      "num": 419944,
+      "word": "体重很轻但是肚子很大",
+      "onboard_time": 1689151834,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 935199,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769369,
+      "num": 769369,
+      "word": "女子来月经店员帮买卫生巾拿新裤子",
+      "onboard_time": 1689152676,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769174,
       "num": 769174,
       "word": "美国新婚夫妻上演真人版消失的她",
@@ -409,6 +441,14 @@
       "onboard_time": 1689144632,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 709544,
+      "num": 578407,
+      "word": "女子买临期食品因2小时后过期索赔",
+      "onboard_time": 1689151834,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 706934,
@@ -531,6 +571,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 605734,
+      "num": 605734,
+      "word": "逛无印良品说的最多的一句话",
+      "onboard_time": 1689149374,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 593592,
       "num": 593592,
       "word": "孟宴臣原著结局",
@@ -555,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 570434,
+      "num": 570434,
+      "word": "我很难被PUA的原因",
+      "onboard_time": 1689150096,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 562428,
       "num": 562428,
       "word": "每天上班很累的原因找到了",
@@ -577,14 +633,6 @@
       "onboard_time": 1689122556,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 551342,
-      "num": 551342,
-      "word": "逛无印良品说的最多的一句话",
-      "onboard_time": 1689149374,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 547852,
@@ -787,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 431295,
+      "num": 431295,
+      "word": "你好十个勤天官宣",
+      "onboard_time": 1689151598,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430341,
       "num": 430341,
       "word": "人贩子余华英卖亲生子后开始拐卖儿童",
@@ -843,6 +899,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398577,
+      "num": 398577,
+      "word": "早期唐嫣",
+      "onboard_time": 1689152676,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 395264,
+      "num": 395264,
+      "word": "离职后这几样东西一定要带走",
+      "onboard_time": 1689150756,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388889,
       "num": 328346,
       "word": "时代少年团演唱会",
@@ -881,14 +953,6 @@
       "onboard_time": 1689126271,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 373268,
-      "num": 373268,
-      "word": "我很难被PUA的原因",
-      "onboard_time": 1689150096,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 370970,
@@ -985,6 +1049,14 @@
       "onboard_time": 1689132874,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319664,
+      "num": 319664,
+      "word": "哇唧唧哇发布会信息量巨大",
+      "onboard_time": 1689153517,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 313425,
@@ -1099,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286831,
-      "num": 286831,
-      "word": "12306回应女子卧铺出行被上铺男子凝视",
-      "onboard_time": 1689150815,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284860,
       "num": 284860,
       "word": "李木戈的舒适区",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1689138400,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272585,
-      "num": 272585,
-      "word": "离职后这几样东西一定要带走",
-      "onboard_time": 1689150756,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 271005,
@@ -1291,6 +1347,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247446,
+      "num": 247446,
+      "word": "一头牛放的屁可供汽车开一天",
+      "onboard_time": 1689153274,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246317,
+      "num": 246317,
+      "word": "王一博跳舞的松弛感",
+      "onboard_time": 1689152256,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244748,
       "num": 244748,
       "word": "王楚然校服怼脸照",
@@ -1409,6 +1481,22 @@
       "onboard_time": 1689079413,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202686,
+      "num": 301444,
+      "word": "黄德义儿子说家里收了30万过路费",
+      "onboard_time": 1689150455,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201203,
+      "num": 201203,
+      "word": "LNG对战TT",
+      "onboard_time": 1689152494,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 201180,
@@ -1539,6 +1627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177101,
+      "num": 1555470,
+      "word": "成都大运会中国大学生体育代表团成立",
+      "onboard_time": 1689150756,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169106,
       "num": 169106,
       "word": "你觉得工作人员应该道歉吗",
@@ -1617,14 +1713,6 @@
       "onboard_time": 1689073598,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150942,
-      "num": 247196,
-      "word": "黄德义儿子说家里收了30万过路费",
-      "onboard_time": 1689150455,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149525,
@@ -1753,14 +1841,6 @@
       "onboard_time": 1689085121,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37494,
-      "num": 861957,
-      "word": "成都大运会中国大学生体育代表团成立",
-      "onboard_time": 1689150756,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 32944,
