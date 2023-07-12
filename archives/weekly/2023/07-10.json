@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689201354394,
+  "endTime": 1689203930536,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -609,6 +609,14 @@
       "onboard_time": 1689075214,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1504616,
+      "num": 1504616,
+      "word": "直系亲属有案底影响考公吗",
+      "onboard_time": 1689177690,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1498759,
@@ -1555,14 +1563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 856920,
-      "num": 856920,
-      "word": "直系亲属有案底影响考公吗",
-      "onboard_time": 1689177690,
-      "rank": 21,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 854879,
       "num": 854879,
       "word": "大学生优衣库兼职薪资一小时16元",
@@ -2387,6 +2387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589276,
+      "num": 269911,
+      "word": "谢霆锋否认和王菲分手",
+      "onboard_time": 1689203544,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589139,
       "num": 554810,
       "word": "欧阳娜娜猫咪纹",
@@ -2584,6 +2592,14 @@
       "word": "中方回应福宝当姐姐",
       "onboard_time": 1689063754,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556681,
+      "num": 556681,
+      "word": "38度高温下特警一句话让人破防",
+      "onboard_time": 1689178649,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -2875,14 +2891,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 505385,
-      "num": 505385,
-      "word": "38度高温下特警一句话让人破防",
-      "onboard_time": 1689178649,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502787,
       "num": 502787,
       "word": "黄牛招985学生抢林俊杰演唱会门票",
@@ -2921,6 +2929,14 @@
       "onboard_time": 1689130472,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 494893,
+      "num": 269885,
+      "word": "美国45岁富豪用17岁儿子血浆换血失败",
+      "onboard_time": 1689202820,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494149,
@@ -3337,6 +3353,14 @@
       "onboard_time": 1689174156,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 441904,
+      "num": 269871,
+      "word": "猪场因断电死亡462头猪损失近百万",
+      "onboard_time": 1689202880,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441900,
@@ -6683,6 +6707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190258,
+      "num": 190258,
+      "word": "安乐传运镜",
+      "onboard_time": 1689201859,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189773,
       "num": 189773,
       "word": "妥妥的暴力美学",
@@ -7139,6 +7171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153564,
+      "num": 153564,
+      "word": "无锡女童妈妈去派出所说明转款问题",
+      "onboard_time": 1689203122,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153158,
       "num": 216148,
       "word": "外出你还会戴口罩吗",
@@ -7331,6 +7371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114335,
+      "num": 114335,
+      "word": "女子戒指卡手看到消防剪切钳吓到结巴",
+      "onboard_time": 1689184157,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110164,
       "num": 188380,
       "word": "温网",
@@ -7403,12 +7451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 100437,
+      "num": 100437,
+      "word": "王一博刘敏涛设计专属暗号",
+      "onboard_time": 1689203302,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97746,
       "num": 97746,
       "word": "还以为小狗在修仙",
       "onboard_time": 1689028638,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97194,
+      "num": 97194,
+      "word": "风月变开播",
+      "onboard_time": 1689202159,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 97182,
@@ -7443,11 +7507,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93999,
+      "num": 93999,
+      "word": "消防喷水20分钟解救3000只中暑鸭",
+      "onboard_time": 1689203422,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92520,
       "num": 316197,
       "word": "荣耀青海湖电池跟身份证一样薄",
       "onboard_time": 1689163592,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 89778,
+      "num": 89778,
+      "word": "宋焰给了孟宴臣10年机会",
+      "onboard_time": 1689203905,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -7481,6 +7561,14 @@
       "onboard_time": 1689168818,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 81750,
+      "num": 81750,
+      "word": "老人怕味大影响乘客高铁上干吃泡面",
+      "onboard_time": 1689203905,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77534,
@@ -7539,12 +7627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67357,
-      "num": 67357,
-      "word": "女子戒指卡手看到消防剪切钳吓到结巴",
-      "onboard_time": 1689184157,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 65991,
+      "num": 78927,
+      "word": "李娜重返温网参赛",
+      "onboard_time": 1689195852,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 63310,
@@ -7561,14 +7649,6 @@
       "onboard_time": 1689134436,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59589,
-      "num": 59589,
-      "word": "李娜重返温网参赛",
-      "onboard_time": 1689195852,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 59011,
@@ -7619,6 +7699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41880,
+      "num": 78695,
+      "word": "手机厂商为什么卷相机水印",
+      "onboard_time": 1689203603,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 41220,
       "num": 41220,
       "word": "刘宇宁原声台词",
@@ -7665,6 +7753,14 @@
       "onboard_time": 1688930053,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33258,
+      "num": 1568451,
+      "word": "十四冬举办时间定了",
+      "onboard_time": 1689169116,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 32944,
@@ -7737,14 +7833,6 @@
       "onboard_time": 1688963741,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15098,
-      "num": 1568451,
-      "word": "十四冬举办时间定了",
-      "onboard_time": 1689169116,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 5238,
