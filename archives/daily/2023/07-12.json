@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689130714394,
+  "endTime": 1689131235135,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2459715,
+      "raw_hot": 2924450,
       "num": 1333832,
       "word": "被指猥亵女童的蛋糕店主妻子发声",
       "onboard_time": 1689129271,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1574922,
-      "num": 625398,
+      "num": 631784,
       "word": "王栎鑫前妻说不想再照顾男人",
       "onboard_time": 1689128853,
       "rank": 10,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827644,
+      "num": 827644,
+      "word": "胡锡进 宝格丽致歉已是正义的胜利",
+      "onboard_time": 1689128969,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791194,
       "num": 791194,
       "word": "大勋拜托你以孟宴臣的人设参加",
@@ -163,20 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 754274,
-      "num": 754274,
-      "word": "胡锡进 宝格丽致歉已是正义的胜利",
-      "onboard_time": 1689128969,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 726324,
       "num": 726324,
       "word": "魏大勋杨洋早期同框",
       "onboard_time": 1689126451,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 712978,
+      "num": 611447,
+      "word": "唐艺昕张若昀情头",
+      "onboard_time": 1689129811,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 706934,
@@ -195,20 +203,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 678256,
-      "num": 384966,
-      "word": "飞机上我女儿被空姐喂饭了",
-      "onboard_time": 1689121293,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 649178,
-      "num": 649178,
+      "raw_hot": 687876,
+      "num": 687876,
       "word": "差点忘了黄渤还是青岛舞王",
       "onboard_time": 1689126332,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 678256,
+      "num": 385069,
+      "word": "飞机上我女儿被空姐喂饭了",
+      "onboard_time": 1689121293,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 647369,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 574431,
-      "num": 385209,
+      "num": 388107,
       "word": "为什么酒店只有一把椅子",
       "onboard_time": 1689128792,
       "rank": 20,
@@ -299,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466974,
-      "num": 466974,
-      "word": "唐艺昕张若昀情头",
-      "onboard_time": 1689129811,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 454860,
       "num": 454860,
       "word": "电影票还能这样退",
@@ -321,6 +321,14 @@
       "onboard_time": 1689079175,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447477,
+      "num": 447477,
+      "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
+      "onboard_time": 1689130412,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432204,
@@ -355,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410820,
+      "num": 410820,
+      "word": "老人疑因拒绝邻居开排水口到自家遭上门殴打",
+      "onboard_time": 1689129454,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404994,
+      "num": 283820,
+      "word": "夏雪结婚的话刘星应该也会这样吧",
+      "onboard_time": 1689130472,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384645,
       "num": 384645,
       "word": "爱宝双胞胎诞生的背后故事",
@@ -387,20 +411,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345131,
-      "num": 345131,
-      "word": "老人疑因拒绝邻居开排水口到自家遭上门殴打",
-      "onboard_time": 1689129454,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342569,
       "num": 342569,
       "word": "警方通报无锡3岁女童事件调查结果",
       "onboard_time": 1689073897,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339314,
+      "num": 339314,
+      "word": "爱奇艺2023暑假片单",
+      "onboard_time": 1689130412,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 331402,
@@ -427,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308191,
+      "num": 308191,
+      "word": "黄子韬说马伯骞私下怼他毫不留情",
+      "onboard_time": 1689129332,
+      "rank": 26,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 306548,
       "num": 306548,
       "word": "为什么中国不禁止人名重复",
       "onboard_time": 1689068132,
       "rank": 23,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 303716,
-      "num": 303716,
-      "word": "黄子韬说马伯骞私下怼他毫不留情",
-      "onboard_time": 1689129332,
-      "rank": 26,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 297332,
@@ -483,11 +507,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 282299,
+      "num": 282299,
+      "word": "原来大家讨厌的不是月薪三千",
+      "onboard_time": 1689131192,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 278227,
+      "num": 278227,
+      "word": "新娘听到弟弟喊话嘱咐姐夫瞬间破防",
+      "onboard_time": 1689130232,
+      "rank": 41,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 277810,
       "num": 277810,
       "word": "玉骨遥评价",
       "onboard_time": 1689091828,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276367,
+      "num": 276367,
+      "word": "偷偷藏不住是懂首尾呼应的",
+      "onboard_time": 1689129271,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -497,14 +545,6 @@
       "onboard_time": 1689085180,
       "rank": 27,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 269653,
-      "num": 269653,
-      "word": "偷偷藏不住是懂首尾呼应的",
-      "onboard_time": 1689129271,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 266175,
@@ -547,11 +587,19 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 261634,
-      "num": 261634,
-      "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
-      "onboard_time": 1689130412,
-      "rank": 31,
+      "raw_hot": 258848,
+      "num": 258848,
+      "word": "公司的下午茶一人半个西瓜",
+      "onboard_time": 1689130892,
+      "rank": 37,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 257618,
+      "num": 257618,
+      "word": "消防员从文物真迹旁救出个好奇宝宝",
+      "onboard_time": 1689129631,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -569,22 +617,6 @@
       "onboard_time": 1689110413,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249951,
-      "num": 249951,
-      "word": "消防员从文物真迹旁救出个好奇宝宝",
-      "onboard_time": 1689129631,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245342,
-      "num": 245342,
-      "word": "夏雪结婚的话刘星应该也会这样吧",
-      "onboard_time": 1689130472,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 244748,
@@ -635,20 +667,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 224192,
+      "num": 224192,
+      "word": "孟宴臣vs傅慎行",
+      "onboard_time": 1689130892,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223316,
       "num": 223316,
       "word": "本以为殉情只是古老的传言",
       "onboard_time": 1689066755,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219457,
-      "num": 219457,
-      "word": "爱奇艺2023暑假片单",
-      "onboard_time": 1689130412,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 216963,
@@ -699,12 +731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204728,
-      "num": 204728,
-      "word": "新娘听到弟弟喊话嘱咐姐夫瞬间破防",
-      "onboard_time": 1689130232,
-      "rank": 41,
-      "category": "社会新闻,幽默"
+      "raw_hot": 208851,
+      "num": 208851,
+      "word": "宋轶20岁以后的荧幕变化",
+      "onboard_time": 1689130953,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200367,
