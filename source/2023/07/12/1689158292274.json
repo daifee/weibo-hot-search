@@ -1,0 +1,410 @@
+{
+  "runTime": 1689158292274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2540008,
+        "num": 2540008,
+        "word": "米兰昆德拉去世",
+        "onboard_time": 1689153697,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 493530,
+        "num": 1900879,
+        "word": "姜爷爷对熊猫的爱都在细节里",
+        "onboard_time": 1689155498,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122348,
+        "num": 1645700,
+        "word": "成都大运会中国大学生体育代表团成立",
+        "onboard_time": 1689150756,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1527981,
+        "num": 1527981,
+        "word": "安乐传",
+        "onboard_time": 1689156573,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534405,
+        "num": 1351483,
+        "word": "女子来月经店员帮买卫生巾拿新裤子",
+        "onboard_time": 1689152676,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286969,
+        "num": 1286969,
+        "word": "韩国综艺人李智秀去世",
+        "onboard_time": 1689149916,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266434,
+        "num": 1238784,
+        "word": "乡村教师患白血病13年仍坚持上课",
+        "onboard_time": 1689156336,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1203752,
+        "num": 1203752,
+        "word": "12306回应女子卧铺出行被上铺男子凝视",
+        "onboard_time": 1689150815,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123042,
+        "num": 1123042,
+        "word": "事业单位上班后失去了本名",
+        "onboard_time": 1689147454,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1036015,
+        "num": 1036015,
+        "word": "优酷",
+        "onboard_time": 1689157173,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1921866,
+        "num": 1018979,
+        "word": "内娱最邪门的一张合照",
+        "onboard_time": 1689146915,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 826584,
+        "num": 826584,
+        "word": "女孩被砸离世当天两次现高空抛物",
+        "onboard_time": 1689154119,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736400,
+        "num": 736400,
+        "word": "江疏影 素颜或妆后各有各的美好或不足",
+        "onboard_time": 1689154235,
+        "rank": 12,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 687125,
+        "num": 687125,
+        "word": "给魏大勋吹头发的是李沁",
+        "onboard_time": 1689147032,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685792,
+        "num": 685792,
+        "word": "宝格丽海外账号仍未道歉",
+        "onboard_time": 1689156336,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647566,
+        "num": 647566,
+        "word": "小雪回应",
+        "onboard_time": 1689148293,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 631668,
+        "num": 631668,
+        "word": "高帮洞洞鞋",
+        "onboard_time": 1689151116,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 579890,
+        "num": 579890,
+        "word": "肖战曾黎同框旧照",
+        "onboard_time": 1689153937,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 568688,
+        "num": 568688,
+        "word": "比嘉龙二去世",
+        "onboard_time": 1689157653,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535883,
+        "num": 535883,
+        "word": "葛沛豪评论",
+        "onboard_time": 1689133775,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614651,
+        "num": 534457,
+        "word": "体重很轻但是肚子很大",
+        "onboard_time": 1689151834,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 526122,
+        "num": 526122,
+        "word": "黑龙江省的简称叫啥",
+        "onboard_time": 1689153636,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502283,
+        "num": 502283,
+        "word": "黄子佼首发声",
+        "onboard_time": 1689149194,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493069,
+        "num": 493069,
+        "word": "我的人间烟火能不能学学克拉恋人",
+        "onboard_time": 1689154656,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474898,
+        "num": 474898,
+        "word": "35岁以上的人都可以做什么工作",
+        "onboard_time": 1689157055,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 465594,
+        "num": 465594,
+        "word": "哇唧唧哇发布会信息量巨大",
+        "onboard_time": 1689153517,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433101,
+        "num": 433101,
+        "word": "日本是不是对世界各国恩将仇报",
+        "onboard_time": 1689156033,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423053,
+        "num": 423053,
+        "word": "你好十个勤天官宣",
+        "onboard_time": 1689151598,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422199,
+        "num": 422199,
+        "word": "无锡3岁女童母亲疑募捐百万",
+        "onboard_time": 1689156871,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406939,
+        "num": 406939,
+        "word": "时代峰峻的演唱会没有一场在重庆",
+        "onboard_time": 1689154897,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402655,
+        "num": 402655,
+        "word": "早期唐嫣",
+        "onboard_time": 1689152676,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396072,
+        "num": 396072,
+        "word": "DIOR大秀嘉宾",
+        "onboard_time": 1689157173,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 365267,
+        "num": 365267,
+        "word": "陈哲远回应待爆小生称号",
+        "onboard_time": 1689156756,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360793,
+        "num": 360793,
+        "word": "离职后这几样东西一定要带走",
+        "onboard_time": 1689150756,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337578,
+        "num": 337578,
+        "word": "米米",
+        "onboard_time": 1689122973,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291029,
+        "num": 291029,
+        "word": "女子买临期食品因2小时后过期索赔",
+        "onboard_time": 1689151834,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285754,
+        "num": 285754,
+        "word": "我很难被PUA的原因",
+        "onboard_time": 1689150096,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 270001,
+        "num": 270001,
+        "word": "丽江通报女子跟团旅游车上睡觉被叫停",
+        "onboard_time": 1689153576,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255720,
+        "num": 255720,
+        "word": "DIOR大秀",
+        "onboard_time": 1689154656,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 235715,
+        "num": 235715,
+        "word": "逛无印良品说的最多的一句话",
+        "onboard_time": 1689149374,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233178,
+        "num": 233178,
+        "word": "美科技大亨与17岁儿子换血葆青春失败",
+        "onboard_time": 1689147212,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223447,
+        "num": 223447,
+        "word": "一起种地吧",
+        "onboard_time": 1689149194,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215582,
+        "num": 215582,
+        "word": "周翊然炸毛小狗",
+        "onboard_time": 1689154235,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212920,
+        "num": 212920,
+        "word": "当你发现家里孩子偷钱",
+        "onboard_time": 1689154235,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212849,
+        "num": 212849,
+        "word": "哥哥扮服务员现身妹妹升学宴",
+        "onboard_time": 1689158134,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206202,
+        "num": 206202,
+        "word": "哈妮克孜被蚊子咬成香肠嘴",
+        "onboard_time": 1689146613,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200488,
+        "num": 200488,
+        "word": "孟宴臣许沁cp粉出手了",
+        "onboard_time": 1689141273,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196846,
+        "num": 196846,
+        "word": "张元英HelloKitty眼妆",
+        "onboard_time": 1689144392,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 190786,
+        "num": 190786,
+        "word": "胡锡进辟谣炒股亏2万",
+        "onboard_time": 1689157896,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 189273,
+        "num": 189273,
+        "word": "蔡少芬想和贾静雯演母女",
+        "onboard_time": 1689147454,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#没有网络安全就没有国家安全#"
+    }
+  }
+}
