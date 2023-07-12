@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689128001047,
+  "endTime": 1689130714394,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2459715,
+      "num": 1333832,
+      "word": "被指猥亵女童的蛋糕店主妻子发声",
+      "onboard_time": 1689129271,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2366930,
       "num": 2366930,
       "word": "结婚登记须提供户口簿被指违背婚姻自由",
@@ -208,6 +216,14 @@
       "word": "乔任梁父亲自曝住院",
       "onboard_time": 1688961514,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2216961,
+      "num": 2216961,
+      "word": "BLACKPINK除Lisa外续约进展顺利",
+      "onboard_time": 1689126751,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -323,14 +339,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 1914490,
-      "num": 1914490,
-      "word": "BLACKPINK除Lisa外续约进展顺利",
-      "onboard_time": 1689126751,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1872410,
       "num": 1872410,
       "word": "宋轶白敬亭 阳神",
@@ -425,6 +433,14 @@
       "onboard_time": 1689050020,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1574922,
+      "num": 625398,
+      "word": "王栎鑫前妻说不想再照顾男人",
+      "onboard_time": 1689128853,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1571453,
@@ -745,6 +761,14 @@
       "onboard_time": 1688979871,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057163,
+      "num": 1057163,
+      "word": "快递员用12个包裹向妻子补求婚",
+      "onboard_time": 1689127053,
+      "rank": 15,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1055322,
@@ -1259,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 754274,
+      "num": 754274,
+      "word": "胡锡进 宝格丽致歉已是正义的胜利",
+      "onboard_time": 1689128969,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754011,
       "num": 754011,
       "word": "谭松韵工作室回应受伤",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1688924359,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 726324,
+      "num": 726324,
+      "word": "魏大勋杨洋早期同框",
+      "onboard_time": 1689126451,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 721691,
@@ -1411,16 +1451,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 683931,
-      "num": 683931,
-      "word": "魏大勋杨洋早期同框",
-      "onboard_time": 1689126451,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 678256,
-      "num": 370428,
+      "num": 384966,
       "word": "飞机上我女儿被空姐喂饭了",
       "onboard_time": 1689121293,
       "rank": 20,
@@ -1683,14 +1715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 588836,
-      "num": 588836,
-      "word": "快递员用12个包裹向妻子补求婚",
-      "onboard_time": 1689127053,
-      "rank": 15,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 578424,
       "num": 499757,
       "word": "孟宴臣 蝴蝶",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1689045755,
       "rank": 47,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 574431,
+      "num": 385209,
+      "word": "为什么酒店只有一把椅子",
+      "onboard_time": 1689128792,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 570653,
@@ -2209,6 +2241,14 @@
       "onboard_time": 1688999674,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 466974,
+      "num": 466974,
+      "word": "唐艺昕张若昀情头",
+      "onboard_time": 1689129811,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 466737,
@@ -2755,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384645,
+      "num": 384645,
+      "word": "爱宝双胞胎诞生的背后故事",
+      "onboard_time": 1689126152,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384592,
       "num": 384592,
       "word": "三伏天省着点用自己",
@@ -3064,6 +3112,14 @@
       "word": "CA1524航班乘客讲述颠簸经过",
       "onboard_time": 1689037833,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345131,
+      "num": 345131,
+      "word": "老人疑因拒绝邻居开排水口到自家遭上门殴打",
+      "onboard_time": 1689129454,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3411,6 +3467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303716,
+      "num": 303716,
+      "word": "黄子韬说马伯骞私下怼他毫不留情",
+      "onboard_time": 1689129332,
+      "rank": 26,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 303598,
       "num": 303598,
       "word": "租房就是不想多花一分钱",
@@ -3513,14 +3577,6 @@
       "onboard_time": 1689076832,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 295250,
-      "num": 295250,
-      "word": "爱宝双胞胎诞生的背后故事",
-      "onboard_time": 1689126152,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294834,
@@ -3803,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269653,
+      "num": 269653,
+      "word": "偷偷藏不住是懂首尾呼应的",
+      "onboard_time": 1689129271,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269519,
       "num": 269519,
       "word": "吉林违建浮桥举报者受访",
@@ -3915,6 +3979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261634,
+      "num": 261634,
+      "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
+      "onboard_time": 1689130412,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260106,
       "num": 260106,
       "word": "郑润泽 抢票",
@@ -3953,6 +4025,14 @@
       "onboard_time": 1688960371,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257343,
+      "num": 257343,
+      "word": "朱雀二号",
+      "onboard_time": 1689129631,
+      "rank": 32,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 255970,
@@ -4075,6 +4155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249951,
+      "num": 249951,
+      "word": "消防员从文物真迹旁救出个好奇宝宝",
+      "onboard_time": 1689129631,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249880,
       "num": 249880,
       "word": "谁觉得核污染水可以喝就供给谁",
@@ -4145,6 +4233,14 @@
       "onboard_time": 1689037417,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 245342,
+      "num": 245342,
+      "word": "夏雪结婚的话刘星应该也会这样吧",
+      "onboard_time": 1689130472,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 244748,
@@ -4225,6 +4321,14 @@
       "onboard_time": 1689067535,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238287,
+      "num": 238287,
+      "word": "所有的职场PUA都可以反着用",
+      "onboard_time": 1689129152,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 235186,
@@ -4433,6 +4537,14 @@
       "onboard_time": 1689069878,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 219457,
+      "num": 219457,
+      "word": "爱奇艺2023暑假片单",
+      "onboard_time": 1689130412,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 218431,
@@ -4665,6 +4777,14 @@
       "onboard_time": 1688951493,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204728,
+      "num": 204728,
+      "word": "新娘听到弟弟喊话嘱咐姐夫瞬间破防",
+      "onboard_time": 1689130232,
+      "rank": 41,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 203359,
@@ -5019,6 +5139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183577,
+      "num": 183577,
+      "word": "医学面前少扯唯心主义",
+      "onboard_time": 1689128253,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182816,
       "num": 196921,
       "word": "没想到喝个水得用扛的",
@@ -5313,6 +5441,14 @@
       "onboard_time": 1688946507,
       "rank": 46,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 143825,
+      "num": 143825,
+      "word": "成都大运会中国代表团今日正式成立",
+      "onboard_time": 1689129811,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 141454,
@@ -5664,6 +5800,14 @@
       "word": "遇到离岸流有多危险",
       "onboard_time": 1688930353,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22069,
+      "num": 385761,
+      "word": "汽车奏乐活久见",
+      "onboard_time": 1689128853,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1689092713558,
-  "endTime": 1689128001047,
+  "endTime": 1689130714394,
   "band_list": [
     {
       "raw_hot": 3241664,
@@ -11,12 +11,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2459715,
+      "num": 1333832,
+      "word": "被指猥亵女童的蛋糕店主妻子发声",
+      "onboard_time": 1689129271,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2356855,
       "num": 2356855,
       "word": "长期喝咖啡会导致皮质醇过高",
       "onboard_time": 1689119968,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2216961,
+      "num": 2216961,
+      "word": "BLACKPINK除Lisa外续约进展顺利",
+      "onboard_time": 1689126751,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2184548,
@@ -43,20 +59,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1914490,
-      "num": 1914490,
-      "word": "BLACKPINK除Lisa外续约进展顺利",
-      "onboard_time": 1689126751,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1794243,
       "num": 1794243,
       "word": "宝格丽CEO曾称中国市场比本土还重要",
       "onboard_time": 1689122973,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1574922,
+      "num": 625398,
+      "word": "王栎鑫前妻说不想再照顾男人",
+      "onboard_time": 1689128853,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1336958,
@@ -81,6 +97,14 @@
       "onboard_time": 1689121594,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057163,
+      "num": 1057163,
+      "word": "快递员用12个包裹向妻子补求婚",
+      "onboard_time": 1689127053,
+      "rank": 15,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1023863,
@@ -139,6 +163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 754274,
+      "num": 754274,
+      "word": "胡锡进 宝格丽致歉已是正义的胜利",
+      "onboard_time": 1689128969,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 726324,
+      "num": 726324,
+      "word": "魏大勋杨洋早期同框",
+      "onboard_time": 1689126451,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 706934,
       "num": 706934,
       "word": "父亲开家长会睡觉和儿子同一姿势",
@@ -155,16 +195,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 683931,
-      "num": 683931,
-      "word": "魏大勋杨洋早期同框",
-      "onboard_time": 1689126451,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 678256,
-      "num": 370428,
+      "num": 384966,
       "word": "飞机上我女儿被空姐喂饭了",
       "onboard_time": 1689121293,
       "rank": 20,
@@ -211,12 +243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 588836,
-      "num": 588836,
-      "word": "快递员用12个包裹向妻子补求婚",
-      "onboard_time": 1689127053,
-      "rank": 15,
-      "category": "社会新闻,情感"
+      "raw_hot": 574431,
+      "num": 385209,
+      "word": "为什么酒店只有一把椅子",
+      "onboard_time": 1689128792,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 553942,
@@ -267,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466974,
+      "num": 466974,
+      "word": "唐艺昕张若昀情头",
+      "onboard_time": 1689129811,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 454860,
       "num": 454860,
       "word": "电影票还能这样退",
@@ -315,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384645,
+      "num": 384645,
+      "word": "爱宝双胞胎诞生的背后故事",
+      "onboard_time": 1689126152,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381316,
       "num": 369330,
       "word": "冷漠型人格形成的原因",
@@ -337,6 +385,14 @@
       "onboard_time": 1689088057,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345131,
+      "num": 345131,
+      "word": "老人疑因拒绝邻居开排水口到自家遭上门殴打",
+      "onboard_time": 1689129454,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342569,
@@ -379,20 +435,20 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 303716,
+      "num": 303716,
+      "word": "黄子韬说马伯骞私下怼他毫不留情",
+      "onboard_time": 1689129332,
+      "rank": 26,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 297332,
       "num": 297332,
       "word": "查理和巧克力工厂前传预告",
       "onboard_time": 1689117685,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295250,
-      "num": 295250,
-      "word": "爱宝双胞胎诞生的背后故事",
-      "onboard_time": 1689126152,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291603,
@@ -443,6 +499,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 269653,
+      "num": 269653,
+      "word": "偷偷藏不住是懂首尾呼应的",
+      "onboard_time": 1689129271,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266175,
       "num": 266175,
       "word": "被徐梦洁的袁湘琴可爱到了",
@@ -483,12 +547,44 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 261634,
+      "num": 261634,
+      "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
+      "onboard_time": 1689130412,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257343,
+      "num": 257343,
+      "word": "朱雀二号",
+      "onboard_time": 1689129631,
+      "rank": 32,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 254939,
       "num": 254939,
       "word": "闫桉终于来演偶像剧了",
       "onboard_time": 1689110413,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249951,
+      "num": 249951,
+      "word": "消防员从文物真迹旁救出个好奇宝宝",
+      "onboard_time": 1689129631,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245342,
+      "num": 245342,
+      "word": "夏雪结婚的话刘星应该也会这样吧",
+      "onboard_time": 1689130472,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 244748,
@@ -505,6 +601,14 @@
       "onboard_time": 1689068977,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238287,
+      "num": 238287,
+      "word": "所有的职场PUA都可以反着用",
+      "onboard_time": 1689129152,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 233590,
@@ -537,6 +641,14 @@
       "onboard_time": 1689066755,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219457,
+      "num": 219457,
+      "word": "爱奇艺2023暑假片单",
+      "onboard_time": 1689130412,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 216963,
@@ -585,6 +697,14 @@
       "onboard_time": 1689079413,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204728,
+      "num": 204728,
+      "word": "新娘听到弟弟喊话嘱咐姐夫瞬间破防",
+      "onboard_time": 1689130232,
+      "rank": 41,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 200367,
@@ -641,6 +761,14 @@
       "onboard_time": 1689124593,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 183577,
+      "num": 183577,
+      "word": "医学面前少扯唯心主义",
+      "onboard_time": 1689128253,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181588,
@@ -721,6 +849,14 @@
       "onboard_time": 1689089613,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143825,
+      "num": 143825,
+      "word": "成都大运会中国代表团今日正式成立",
+      "onboard_time": 1689129811,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 140990,
@@ -832,6 +968,14 @@
       "word": "在数模上打破了性别的壁垒",
       "onboard_time": 1689101775,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22069,
+      "num": 385761,
+      "word": "汽车奏乐活久见",
+      "onboard_time": 1689128853,
+      "rank": 19,
       "category": "社会新闻"
     }
   ],
