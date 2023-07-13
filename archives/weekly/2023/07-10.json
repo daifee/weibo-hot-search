@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689213253602,
+  "endTime": 1689214594561,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -105,6 +105,14 @@
       "onboard_time": 1689169659,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3052648,
+      "num": 3052648,
+      "word": "恭喜他们结婚了",
+      "onboard_time": 1689210993,
+      "rank": 0,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 3021092,
@@ -257,14 +265,6 @@
       "onboard_time": 1689119968,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2338475,
-      "num": 2338475,
-      "word": "恭喜他们结婚了",
-      "onboard_time": 1689210993,
-      "rank": 0,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 2307405,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1593127,
+      "num": 1567980,
+      "word": "鹿晗现身医院做康复治疗",
+      "onboard_time": 1689209975,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1589963,
       "num": 1589963,
       "word": "姜爷爷脸都笑烂了",
@@ -601,14 +609,6 @@
       "onboard_time": 1688983233,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1567980,
-      "num": 1567980,
-      "word": "鹿晗现身医院做康复治疗",
-      "onboard_time": 1689209975,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1562074,
@@ -907,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1209658,
+      "num": 674710,
+      "word": "被首尔的出租车震惊到了",
+      "onboard_time": 1689208836,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1194946,
       "num": 1194946,
       "word": "本以为殉情只是古老的传言",
@@ -1043,19 +1051,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1095064,
+      "num": 1095064,
+      "word": "考公考编是否是人生退路",
+      "onboard_time": 1689212374,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1092715,
       "num": 1092715,
       "word": "七月辞职 狼多肉少",
       "onboard_time": 1688910754,
       "rank": 8,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1088690,
-      "num": 674710,
-      "word": "被首尔的出租车震惊到了",
-      "onboard_time": 1689208836,
-      "rank": 10,
       "category": "幽默"
     },
     {
@@ -1379,20 +1387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 944830,
+      "num": 944830,
+      "word": "迪丽热巴好土我好喜欢",
+      "onboard_time": 1689207691,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 942568,
       "num": 942568,
       "word": "海南警方回应陪女友看演唱会男孩溺亡",
       "onboard_time": 1688900433,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 941661,
-      "num": 941661,
-      "word": "迪丽热巴好土我好喜欢",
-      "onboard_time": 1689207691,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 937698,
@@ -1441,6 +1449,14 @@
       "onboard_time": 1688993312,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 922602,
+      "num": 669530,
+      "word": "井川里予回应近照",
+      "onboard_time": 1689210755,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 921880,
@@ -1611,12 +1627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 867376,
-      "num": 669530,
-      "word": "井川里予回应近照",
-      "onboard_time": 1689210755,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 866389,
+      "num": 866389,
+      "word": "9岁男孩被17楼坠下男子砸入ICU",
+      "onboard_time": 1689210512,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 863736,
@@ -1771,14 +1787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 805055,
-      "num": 805055,
-      "word": "9岁男孩被17楼坠下男子砸入ICU",
-      "onboard_time": 1689210512,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 804131,
       "num": 804131,
       "word": "村民以为挖到废铁玩着玩着发现是国宝",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1689116661,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777697,
+      "num": 777697,
+      "word": "宋焰给了孟宴臣10年机会",
+      "onboard_time": 1689203905,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 769174,
@@ -1945,14 +1961,6 @@
       "onboard_time": 1688948854,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 737896,
-      "num": 737896,
-      "word": "宋焰给了孟宴臣10年机会",
-      "onboard_time": 1689203905,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 737349,
@@ -2064,6 +2072,14 @@
       "word": "安乐传就更一集够干啥",
       "onboard_time": 1689168818,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 702230,
+      "num": 597297,
+      "word": "魏大勋老来得粉",
+      "onboard_time": 1689210815,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -2521,14 +2537,6 @@
       "onboard_time": 1689166354,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 580591,
-      "num": 580591,
-      "word": "魏大勋老来得粉",
-      "onboard_time": 1689210815,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 578424,
@@ -3283,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469258,
+      "num": 469258,
+      "word": "独自生长的玉米粒是圆的",
+      "onboard_time": 1689212013,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469035,
       "num": 469035,
       "word": "李硕珉脸链",
@@ -3779,6 +3795,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 421502,
+      "num": 421502,
+      "word": "起猛了看成杨洋王楚然官宣了",
+      "onboard_time": 1689212732,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421151,
       "num": 421151,
       "word": "宋茜王鹤棣或将演凤来栖",
@@ -3915,12 +3939,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401900,
+      "num": 401900,
+      "word": "安乐传片头是谁做的",
+      "onboard_time": 1689212913,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400903,
       "num": 1041542,
       "word": "哥哥扮服务员现身妹妹升学宴",
       "onboard_time": 1689158134,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400547,
+      "num": 400547,
+      "word": "田柾国韩素希MV吵架镜头",
+      "onboard_time": 1689213094,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 400027,
@@ -4043,14 +4083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 385510,
-      "num": 287105,
-      "word": "独自生长的玉米粒是圆的",
-      "onboard_time": 1689212013,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384656,
       "num": 384656,
       "word": "CA1524航班颠簸致1旅客1乘务员受伤",
@@ -4081,6 +4113,14 @@
       "onboard_time": 1689049182,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 382626,
+      "num": 382626,
+      "word": "你最希望中国第三座迪士尼在哪",
+      "onboard_time": 1689212374,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381473,
@@ -4188,7 +4228,7 @@
     },
     {
       "raw_hot": 374444,
-      "num": 286747,
+      "num": 309890,
       "word": "爷爷把我的水晶宝宝照顾的很好",
       "onboard_time": 1689211894,
       "rank": 32,
@@ -4369,14 +4409,6 @@
       "onboard_time": 1689159993,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 357636,
-      "num": 357636,
-      "word": "你最希望中国第三座迪士尼在哪",
-      "onboard_time": 1689212374,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357512,
@@ -4739,6 +4771,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 325357,
+      "num": 325357,
+      "word": "揭秘茉酸奶背后公司",
+      "onboard_time": 1689214114,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 324540,
       "num": 324540,
       "word": "丽江通报女子跟团旅游车上睡觉被叫停",
@@ -4857,6 +4897,14 @@
       "onboard_time": 1689032729,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 312042,
+      "num": 312042,
+      "word": "对方撤回了一个孟宴臣",
+      "onboard_time": 1689214114,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 311694,
@@ -5187,6 +5235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292387,
+      "num": 292387,
+      "word": "90后落户常州三天收到15万",
+      "onboard_time": 1689213993,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 291929,
       "num": 291929,
       "word": "找出真正的工藤新一",
@@ -5339,6 +5395,14 @@
       "category": "社会议题,艺人"
     },
     {
+      "raw_hot": 284336,
+      "num": 284336,
+      "word": "黄子韬被男生叫宝贝的反应",
+      "onboard_time": 1689213932,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284192,
       "num": 284192,
       "word": "不设限毕业礼共唱歌单",
@@ -5449,14 +5513,6 @@
       "onboard_time": 1689165697,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276799,
-      "num": 276799,
-      "word": "考公考编是否是人生退路",
-      "onboard_time": 1689212374,
-      "rank": 35,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 276367,
@@ -5603,20 +5659,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 267591,
+      "num": 267591,
+      "word": "你能否接受高铁上有乘客吃东西",
+      "onboard_time": 1689212793,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267552,
       "num": 267552,
       "word": "宝格丽称因管理疏忽致标识误注",
       "onboard_time": 1689078454,
       "rank": 28,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 267321,
-      "num": 267321,
-      "word": "起猛了看成杨洋王楚然官宣了",
-      "onboard_time": 1689212732,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 266434,
@@ -5792,14 +5848,6 @@
       "word": "暗夜与黎明",
       "onboard_time": 1688960371,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 257386,
-      "num": 257386,
-      "word": "安乐传片头是谁做的",
-      "onboard_time": 1689212913,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -6283,6 +6331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228117,
+      "num": 228117,
+      "word": "千万别信小时候胖点好",
+      "onboard_time": 1689214356,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 227965,
       "num": 227965,
       "word": "2023年大学毕业生向往的职业",
@@ -6377,6 +6433,14 @@
       "onboard_time": 1688958450,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222197,
+      "num": 222197,
+      "word": "完达山一号壮了不少",
+      "onboard_time": 1689213272,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222047,
@@ -6579,14 +6643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212874,
-      "num": 212874,
-      "word": "你能否接受高铁上有乘客吃东西",
-      "onboard_time": 1689212793,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212444,
       "num": 212444,
       "word": "积水倒灌被困老人开门瞬间仿佛看到了光",
@@ -6609,14 +6665,6 @@
       "onboard_time": 1689039693,
       "rank": 45,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 211006,
-      "num": 211006,
-      "word": "田柾国韩素希MV吵架镜头",
-      "onboard_time": 1689213094,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 209859,
@@ -6713,6 +6761,14 @@
       "onboard_time": 1688951493,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204394,
+      "num": 204394,
+      "word": "国产动画中的东方审美",
+      "onboard_time": 1689213813,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 203359,
@@ -6993,6 +7049,14 @@
       "onboard_time": 1689089135,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191243,
+      "num": 191243,
+      "word": "豆瓣把帐号改为账号",
+      "onboard_time": 1689214472,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 190786,
