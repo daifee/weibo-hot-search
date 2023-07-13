@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689251987779,
+  "endTime": 1689253111598,
   "band_list": [
     {
       "raw_hot": 3052648,
@@ -17,6 +17,22 @@
       "onboard_time": 1689216571,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2551970,
+      "num": 1351186,
+      "word": "魏大勋连夜买了个黑衬衫穿上",
+      "onboard_time": 1689251013,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2395356,
+      "num": 2395356,
+      "word": "魏大勋直播",
+      "onboard_time": 1689250952,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2388687,
@@ -107,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1654537,
+      "num": 1654537,
+      "word": "张元英胳膊缝了七针",
+      "onboard_time": 1689251013,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1651004,
       "num": 1651004,
       "word": "容易导致眼睛度数上涨的原因",
@@ -137,14 +161,6 @@
       "onboard_time": 1689232471,
       "rank": 34,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1530511,
-      "num": 1530511,
-      "word": "魏大勋直播",
-      "onboard_time": 1689250952,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1519782,
@@ -195,14 +211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1267095,
-      "num": 1267095,
-      "word": "张元英胳膊缝了七针",
-      "onboard_time": 1689251013,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1251334,
       "num": 1251334,
       "word": "奔跑吧",
@@ -219,11 +227,11 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1174998,
-      "num": 368141,
-      "word": "魏大勋连夜买了个黑衬衫穿上",
-      "onboard_time": 1689251013,
-      "rank": 10,
+      "raw_hot": 1168547,
+      "num": 1168547,
+      "word": "长风渡魔改",
+      "onboard_time": 1689249452,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -280,14 +288,6 @@
       "word": "迪丽热巴好土我好喜欢",
       "onboard_time": 1689207691,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1093712,
-      "num": 1093712,
-      "word": "长风渡魔改",
-      "onboard_time": 1689249452,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 891320,
-      "num": 364962,
+      "num": 651097,
       "word": "中医",
       "onboard_time": 1689248611,
       "rank": 12,
@@ -499,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 747268,
+      "num": 589956,
+      "word": "49岁何炅唱跳水平",
+      "onboard_time": 1689251376,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 731433,
       "num": 692648,
       "word": "易梦玲不像是第一次演戏",
@@ -545,6 +553,22 @@
       "onboard_time": 1689242314,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698052,
+      "num": 543154,
+      "word": "魏大勋是真听劝",
+      "onboard_time": 1689251672,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 680752,
+      "num": 680752,
+      "word": "为什么大家不愿意去泰国旅游了",
+      "onboard_time": 1689251497,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 680412,
@@ -652,7 +676,7 @@
     },
     {
       "raw_hot": 600159,
-      "num": 340467,
+      "num": 424832,
       "word": "永劫无间",
       "onboard_time": 1689251915,
       "rank": 20,
@@ -803,20 +827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496970,
+      "num": 496970,
+      "word": "魏大勋说跟杨洋的眼神戏没赢过",
+      "onboard_time": 1689252214,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494947,
       "num": 494947,
       "word": "录取通知书里藏了一片银杏树林",
       "onboard_time": 1689210335,
       "rank": 17,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 492636,
-      "num": 354528,
-      "word": "49岁何炅唱跳水平",
-      "onboard_time": 1689251376,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 488815,
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 486042,
-      "num": 486042,
+      "num": 658385,
       "word": "上海报业集团程峰被查",
       "onboard_time": 1689249211,
       "rank": 8,
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 434682,
-      "num": 339475,
+      "num": 388115,
       "word": "男子猥亵未成年不足10秒被判无罪",
       "onboard_time": 1689246391,
       "rank": 30,
@@ -1035,12 +1059,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425934,
+      "num": 425934,
+      "word": "花23万布置户外婚礼变成了闹剧",
+      "onboard_time": 1689251013,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 425910,
+      "num": 425910,
+      "word": "洛子商坏死了",
+      "onboard_time": 1689252214,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 425837,
       "num": 425837,
       "word": "孟宴臣身体状况伏笔",
       "onboard_time": 1689170496,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424556,
+      "num": 424556,
+      "word": "网传花儿与少年5拟邀迪丽热巴刘耀文",
+      "onboard_time": 1689251497,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 424200,
@@ -1083,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 412596,
-      "num": 334244,
-      "word": "魏大勋是真听劝",
-      "onboard_time": 1689251672,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 412177,
       "num": 397470,
       "word": "创造营2023 女团",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1689228452,
       "rank": 21,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 405200,
+      "num": 281055,
+      "word": "张杰LESSERAFIM合照",
+      "onboard_time": 1689252456,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 402791,
@@ -1283,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348152,
-      "num": 289149,
-      "word": "花23万布置户外婚礼变成了闹剧",
-      "onboard_time": 1689251013,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 345864,
       "num": 345864,
       "word": "代号鸢",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1689215495,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 322973,
+      "num": 240537,
+      "word": "女子称在购买3年服装店被杀熟70元",
+      "onboard_time": 1689252273,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322860,
@@ -1443,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304300,
-      "num": 304300,
-      "word": "网传花儿与少年5拟邀迪丽热巴刘耀文",
-      "onboard_time": 1689251497,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302048,
       "num": 302048,
       "word": "EXO又打歌了",
@@ -1459,20 +1499,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298549,
+      "num": 297683,
+      "word": "敖子逸回应嘴硬",
+      "onboard_time": 1689249390,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297982,
       "num": 297982,
       "word": "张一山的鞋",
       "onboard_time": 1689220774,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297683,
-      "num": 297683,
-      "word": "敖子逸回应嘴硬",
-      "onboard_time": 1689249390,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 294390,
@@ -1489,14 +1529,6 @@
       "onboard_time": 1689209796,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287739,
-      "num": 287739,
-      "word": "为什么大家不愿意去泰国旅游了",
-      "onboard_time": 1689251497,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 285368,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1689204326,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 282506,
+      "num": 282506,
+      "word": "EDG胜者组对阵BLG",
+      "onboard_time": 1689251978,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 282215,
@@ -1683,6 +1723,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 261753,
+      "num": 261753,
+      "word": "国际薯条日",
+      "onboard_time": 1689252577,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260658,
       "num": 255712,
       "word": "吉克隽逸素颜健身状态",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1689249211,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239077,
+      "num": 239077,
+      "word": "蔡依林照片中的两个女孩都长大了",
+      "onboard_time": 1689252816,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 236919,
@@ -2011,12 +2067,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204559,
+      "num": 204559,
+      "word": "AG对战DYG",
+      "onboard_time": 1689251978,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204394,
       "num": 204394,
       "word": "国产动画中的东方审美",
       "onboard_time": 1689213813,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203630,
+      "num": 203630,
+      "word": "奇亚籽在我杯子内壁发芽了",
+      "onboard_time": 1689252635,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 203209,
@@ -2136,6 +2208,14 @@
       "word": "JDG对战RA",
       "onboard_time": 1689236372,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 192422,
+      "num": 192422,
+      "word": "AG破三高翻盘",
+      "onboard_time": 1689252695,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -2339,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152816,
-      "num": 152816,
-      "word": "AG对战DYG",
-      "onboard_time": 1689251978,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151523,
       "num": 151523,
       "word": "一个女生做过最勇敢的事是什么",
@@ -2377,14 +2449,6 @@
       "onboard_time": 1689248072,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147468,
-      "num": 147468,
-      "word": "EDG胜者组对阵BLG",
-      "onboard_time": 1689251978,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 144817,
@@ -2611,20 +2675,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 27422,
+      "num": 1376554,
+      "word": "大国之大也有大国之重",
+      "onboard_time": 1689237335,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27167,
       "num": 27167,
       "word": "宋焰什么时候可以直面许沁",
       "onboard_time": 1689187873,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 10789,
-      "num": 1342403,
-      "word": "大国之大也有大国之重",
-      "onboard_time": 1689237335,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

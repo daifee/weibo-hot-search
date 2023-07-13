@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689251987779,
+  "endTime": 1689253111598,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -971,6 +971,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2551970,
+      "num": 1351186,
+      "word": "魏大勋连夜买了个黑衬衫穿上",
+      "onboard_time": 1689251013,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2522401,
       "num": 2522401,
       "word": "当老公知道前男友随礼5000",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1688172210,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2395356,
+      "num": 2395356,
+      "word": "魏大勋直播",
+      "onboard_time": 1689250952,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2393359,
@@ -2427,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1654537,
+      "num": 1654537,
+      "word": "张元英胳膊缝了七针",
+      "onboard_time": 1689251013,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1651004,
       "num": 1651004,
       "word": "容易导致眼睛度数上涨的原因",
@@ -2664,14 +2688,6 @@
       "word": "一鹿彤行偷偷藏不住版",
       "onboard_time": 1688888731,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1530511,
-      "num": 1530511,
-      "word": "魏大勋直播",
-      "onboard_time": 1689250952,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -3467,14 +3483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1267095,
-      "num": 1267095,
-      "word": "张元英胳膊缝了七针",
-      "onboard_time": 1689251013,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1265214,
       "num": 1265214,
       "word": "魏大勋马伯骞赢麻了",
@@ -3851,14 +3859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1174998,
-      "num": 368141,
-      "word": "魏大勋连夜买了个黑衬衫穿上",
-      "onboard_time": 1689251013,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1173599,
       "num": 1053977,
       "word": "谢娜自己淘汰自己",
@@ -3881,6 +3881,14 @@
       "onboard_time": 1688470414,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1168547,
+      "num": 1168547,
+      "word": "长风渡魔改",
+      "onboard_time": 1689249452,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1166889,
@@ -4329,14 +4337,6 @@
       "onboard_time": 1688439817,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1093712,
-      "num": 1093712,
-      "word": "长风渡魔改",
-      "onboard_time": 1689249452,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1092715,
@@ -5916,7 +5916,7 @@
     },
     {
       "raw_hot": 891320,
-      "num": 364962,
+      "num": 651097,
       "word": "中医",
       "onboard_time": 1689248611,
       "rank": 12,
@@ -7619,6 +7619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 747268,
+      "num": 589956,
+      "word": "49岁何炅唱跳水平",
+      "onboard_time": 1689251376,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 746459,
       "num": 746459,
       "word": "A股",
@@ -8227,6 +8235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 698052,
+      "num": 543154,
+      "word": "魏大勋是真听劝",
+      "onboard_time": 1689251672,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 697545,
       "num": 693755,
       "word": "肖战赵露思V榜最快破9男女演员",
@@ -8481,6 +8497,14 @@
       "onboard_time": 1688219315,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 680752,
+      "num": 680752,
+      "word": "为什么大家不愿意去泰国旅游了",
+      "onboard_time": 1689251497,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 680601,
@@ -9924,7 +9948,7 @@
     },
     {
       "raw_hot": 600159,
-      "num": 340467,
+      "num": 424832,
       "word": "永劫无间",
       "onboard_time": 1689251915,
       "rank": 20,
@@ -12043,6 +12067,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 496970,
+      "num": 496970,
+      "word": "魏大勋说跟杨洋的眼神戏没赢过",
+      "onboard_time": 1689252214,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
@@ -12137,14 +12169,6 @@
       "onboard_time": 1689070119,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 492636,
-      "num": 354528,
-      "word": "49岁何炅唱跳水平",
-      "onboard_time": 1689251376,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 492543,
@@ -12404,7 +12428,7 @@
     },
     {
       "raw_hot": 486042,
-      "num": 486042,
+      "num": 658385,
       "word": "上海报业集团程峰被查",
       "onboard_time": 1689249211,
       "rank": 8,
@@ -14012,7 +14036,7 @@
     },
     {
       "raw_hot": 434682,
-      "num": 339475,
+      "num": 388115,
       "word": "男子猥亵未成年不足10秒被判无罪",
       "onboard_time": 1689246391,
       "rank": 30,
@@ -14315,6 +14339,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 425934,
+      "num": 425934,
+      "word": "花23万布置户外婚礼变成了闹剧",
+      "onboard_time": 1689251013,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 425910,
+      "num": 425910,
+      "word": "洛子商坏死了",
+      "onboard_time": 1689252214,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 425889,
       "num": 282056,
       "word": "彭昱畅许凯凑不齐一个胆",
@@ -14361,6 +14401,14 @@
       "onboard_time": 1688703820,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424556,
+      "num": 424556,
+      "word": "网传花儿与少年5拟邀迪丽热巴刘耀文",
+      "onboard_time": 1689251497,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 424531,
@@ -14691,14 +14739,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 412596,
-      "num": 334244,
-      "word": "魏大勋是真听劝",
-      "onboard_time": 1689251672,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 412510,
       "num": 412510,
       "word": "螺蛳粉雪糕",
@@ -14873,6 +14913,14 @@
       "onboard_time": 1688714499,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405200,
+      "num": 281055,
+      "word": "张杰LESSERAFIM合照",
+      "onboard_time": 1689252456,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 404930,
@@ -17267,14 +17315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348152,
-      "num": 289149,
-      "word": "花23万布置户外婚礼变成了闹剧",
-      "onboard_time": 1689251013,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 347728,
       "num": 297103,
       "word": "张杰演唱会",
@@ -18331,6 +18371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322973,
+      "num": 240537,
+      "word": "女子称在购买3年服装店被杀熟70元",
+      "onboard_time": 1689252273,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322860,
       "num": 322860,
       "word": "这一声BEIJING让整个中国沸腾了",
@@ -19219,14 +19267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 304300,
-      "num": 304300,
-      "word": "网传花儿与少年5拟邀迪丽热巴刘耀文",
-      "onboard_time": 1689251497,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 303694,
       "num": 303694,
       "word": "杨幂侧边麻花辫",
@@ -19531,6 +19571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298549,
+      "num": 297683,
+      "word": "敖子逸回应嘴硬",
+      "onboard_time": 1689249390,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298441,
       "num": 298441,
       "word": "花花在大运会宣传片里出镜了",
@@ -19577,14 +19625,6 @@
       "onboard_time": 1688960011,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297683,
-      "num": 297683,
-      "word": "敖子逸回应嘴硬",
-      "onboard_time": 1689249390,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 297571,
@@ -20259,14 +20299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287739,
-      "num": 287739,
-      "word": "为什么大家不愿意去泰国旅游了",
-      "onboard_time": 1689251497,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 287726,
       "num": 287726,
       "word": "杨洋张彬彬连手都有体型差",
@@ -20553,6 +20585,14 @@
       "onboard_time": 1688203832,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282506,
+      "num": 282506,
+      "word": "EDG胜者组对阵BLG",
+      "onboard_time": 1689251978,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 282215,
@@ -21784,6 +21824,14 @@
       "word": "没想到养狗还有这作用",
       "onboard_time": 1688311959,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 261753,
+      "num": 261753,
+      "word": "国际薯条日",
+      "onboard_time": 1689252577,
+      "rank": 28,
       "category": "幽默"
     },
     {
@@ -23505,6 +23553,14 @@
       "onboard_time": 1689067535,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239077,
+      "num": 239077,
+      "word": "蔡依林照片中的两个女孩都长大了",
+      "onboard_time": 1689252816,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 238877,
@@ -26211,6 +26267,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 204559,
+      "num": 204559,
+      "word": "AG对战DYG",
+      "onboard_time": 1689251978,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204480,
       "num": 204480,
       "word": "威神V澳门音乐节舞台",
@@ -26241,6 +26305,14 @@
       "onboard_time": 1688826875,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203630,
+      "num": 203630,
+      "word": "奇亚籽在我杯子内壁发芽了",
+      "onboard_time": 1689252635,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 203617,
@@ -27305,6 +27377,14 @@
       "onboard_time": 1689175355,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192422,
+      "num": 192422,
+      "word": "AG破三高翻盘",
+      "onboard_time": 1689252695,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 192417,
@@ -29731,14 +29811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152816,
-      "num": 152816,
-      "word": "AG对战DYG",
-      "onboard_time": 1689251978,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 152244,
       "num": 152244,
       "word": "当大学生找学习搭子遇见小学生",
@@ -29929,14 +30001,6 @@
       "onboard_time": 1688978193,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147468,
-      "num": 147468,
-      "word": "EDG胜者组对阵BLG",
-      "onboard_time": 1689251978,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 147179,
@@ -32163,6 +32227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27422,
+      "num": 1376554,
+      "word": "大国之大也有大国之重",
+      "onboard_time": 1689237335,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27214,
       "num": 32478,
       "word": "中国夫妇讲述在法遇袭经历",
@@ -32256,14 +32328,6 @@
       "word": "复兴号正式在青藏铁路投入运行",
       "onboard_time": 1688185173,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10789,
-      "num": 1342403,
-      "word": "大国之大也有大国之重",
-      "onboard_time": 1689237335,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
