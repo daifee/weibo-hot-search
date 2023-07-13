@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689283005853,
+  "endTime": 1689284055646,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -10091,6 +10091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59905,
+      "num": 34111,
+      "word": "爱奇艺副总裁说赵丽颖敢想敢拼",
+      "onboard_time": 1689281052,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59011,
       "num": 188431,
       "word": "6月份CPI同比持平",
@@ -10129,14 +10137,6 @@
       "onboard_time": 1689169116,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52392,
-      "num": 29825,
-      "word": "爱奇艺副总裁说赵丽颖敢想敢拼",
-      "onboard_time": 1689281052,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 51683,
@@ -10291,6 +10291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 23500,
+      "num": 32525,
+      "word": "王一博别说话但请跳舞",
+      "onboard_time": 1689278773,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 22069,
       "num": 385761,
       "word": "汽车奏乐活久见",
@@ -10315,20 +10323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20536,
-      "num": 25750,
-      "word": "王一博别说话但请跳舞",
-      "onboard_time": 1689278773,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 15157,
-      "num": 25737,
+      "raw_hot": 18802,
+      "num": 32509,
       "word": "当我免签玩够日本9城",
       "onboard_time": 1689282253,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 14506,
+      "num": 32498,
+      "word": "云南网友看北京网友炒见手青急崩溃",
+      "onboard_time": 1689283993,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5238,
