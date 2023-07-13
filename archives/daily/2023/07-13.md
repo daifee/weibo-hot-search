@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/13 00:25:09 ~ 2023/07/13 18:37:09
+本榜单时间：2023/07/13 00:25:09 ~ 2023/07/13 19:16:18
 </p>
 </blockquote>
 <p>
@@ -111,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%89%AB%E6%A5%BC%23" target="weibo">
+魏大勋扫楼（热度：1516862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E6%9C%89%E6%A1%88%E5%BA%95%E5%BD%B1%E5%93%8D%E8%80%83%E5%85%AC%E5%90%97%23" target="weibo">
 直系亲属有案底影响考公吗（热度：1504616）
 </a>
@@ -155,6 +161,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AE%9D%23" target="weibo">
 爱宝（热度：1154543）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%82%9A%E5%AD%90%23" target="weibo">
+王鹤棣肚子（热度：1135416）
 </a>
 </li>
 
@@ -221,6 +233,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B9%E4%B8%80%E6%9D%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%82%B9%E8%B5%9E%E4%BA%BA%E6%95%B0%23" target="weibo">
 我爹一条朋友圈点赞人数（热度：1024555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%89%AB%E6%A5%BC%23" target="weibo">
+杨洋王楚然扫楼（热度：1017390）
 </a>
 </li>
 
@@ -429,6 +447,12 @@ JDG换人（热度：641851）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%AF%9B%E5%9B%8A%E4%B9%9F%E6%8C%BA%E5%A5%BD%E7%9A%84%23" target="weibo">
+你毛囊也挺好的（热度：611944）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%AE%B4%E6%89%93%E9%98%9F%E9%95%BF%E8%87%B4%E6%AD%BB%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%B7%B2%E8%A2%AB%E6%8D%95%23" target="weibo">
 山西殴打队长致死环卫工已被捕（热度：606113）
 </a>
@@ -483,12 +507,6 @@ JDG换人（热度：641851）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%AF%9B%E5%9B%8A%E4%B9%9F%E6%8C%BA%E5%A5%BD%E7%9A%84%23" target="weibo">
-你毛囊也挺好的（热度：553236）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E4%B8%80%E6%8A%8A%E6%8E%A5%E8%BF%8760%E6%96%A4%E7%94%B7%E7%AB%A5%E9%A3%9E%E5%A5%94%E5%88%B0%E6%8A%A2%E6%95%91%E5%AE%A4%23" target="weibo">
 护士一把接过60斤男童飞奔到抢救室（热度：552345）
 </a>
@@ -513,6 +531,18 @@ JDG换人（热度：641851）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B9%E6%98%93%E5%AF%BC%E8%87%B4%E7%9C%BC%E7%9D%9B%E5%BA%A6%E6%95%B0%E4%B8%8A%E6%B6%A8%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+容易导致眼睛度数上涨的原因（热度：526170）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AE%9D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E5%96%9D%E5%A5%B6%E7%94%BB%E9%9D%A2%23" target="weibo">
+爱宝双胞胎女儿喝奶画面（热度：523128）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9C%89%E5%90%8E%E7%BE%BF%E7%9A%84%E7%94%B5%E8%AF%9D%23" target="weibo">
 谁有后羿的电话（热度：507474）
 </a>
@@ -527,12 +557,6 @@ JDG换人（热度：641851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AE%9D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%B9%BC%E5%B4%BD%E5%90%83%E5%A5%B6%23" target="weibo">
 爱宝双胞胎幼崽吃奶（热度：504059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%82%9A%E5%AD%90%23" target="weibo">
-王鹤棣肚子（热度：504029）
 </a>
 </li>
 
@@ -603,6 +627,12 @@ JDG换人（热度：641851）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E7%9B%B8%E4%BF%A1%E7%9A%84cp%E5%90%8E%E6%9D%A5%E9%83%BD%E6%88%90%E4%B8%80%E5%AF%B9%E4%BA%86%23" target="weibo">
+吴昕相信的cp后来都成一对了（热度：465511）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E6%83%8A%E7%8E%B040%E5%8E%98%E7%B1%B3%E9%99%86%E9%BE%9F%E6%95%A3%E6%AD%A5%23" target="weibo">
 小区惊现40厘米陆龟散步（热度：460890）
 </a>
@@ -641,6 +671,12 @@ AG官宣更名（热度：444464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%9B%9E%E5%BA%94%E4%BF%AE%E6%9D%B0%E6%A5%B7pick%E7%A7%8B%E7%93%B7%E7%82%AB%23" target="weibo">
 贾静雯回应修杰楷pick秋瓷炫（热度：441167）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iG%23" target="weibo">
+iG（热度：437207）
 </a>
 </li>
 
@@ -723,6 +759,12 @@ AG官宣更名（热度：444464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E8%BF%99%E6%89%80%E4%B8%AD%E5%AD%A6%E5%BD%95%E5%8F%96%E6%A6%9C%E6%9C%80%E5%89%8D%E9%9D%A2%E7%9A%84%E4%B8%8D%E6%98%AF%E6%B8%85%E5%8C%97%23" target="weibo">
+安徽这所中学录取榜最前面的不是清北（热度：400272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Knight%23" target="weibo">
 Knight（热度：398778）
 </a>
@@ -735,8 +777,8 @@ Knight（热度：398778）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%AE%9D%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E5%96%9D%E5%A5%B6%E7%94%BB%E9%9D%A2%23" target="weibo">
-爱宝双胞胎女儿喝奶画面（热度：396373）
+<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%83%AD%E6%90%9C%E7%88%86%E4%BA%86167%E6%AC%A1%23" target="weibo">
+2023年上半年热搜爆了167次（热度：396230）
 </a>
 </li>
 
@@ -753,8 +795,8 @@ Knight（热度：398778）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%83%AD%E6%90%9C%E7%88%86%E4%BA%86167%E6%AC%A1%23" target="weibo">
-2023年上半年热搜爆了167次（热度：387173）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%9C%8B%E4%BA%86%E9%83%BD%E5%BE%97%E6%84%A3%E4%B8%80%E4%B8%8B%23" target="weibo">
+刘诗诗看了都得愣一下（热度：385158）
 </a>
 </li>
 
@@ -773,6 +815,12 @@ Knight（热度：398778）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%8E%AB%E7%91%B0%E6%95%85%E4%BA%8B%E5%8F%8C%E9%BA%BB%E8%8A%B1%E8%BE%AB%E9%80%A0%E5%9E%8B%23" target="weibo">
 刘亦菲玫瑰故事双麻花辫造型（热度：377791）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E6%81%A9%E8%A7%92%E8%89%B2%E6%AF%94%E4%BA%BA%E7%BA%A2%23" target="weibo">
+余承恩角色比人红（热度：374907）
 </a>
 </li>
 
@@ -987,6 +1035,12 @@ iG对战WBG（热度：334534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%AF%B7%E4%BF%9D%E6%8C%81%E8%BF%99%E4%B8%AA%E6%B0%B4%E5%B9%B3%23" target="weibo">
+时代峰峻请保持这个水平（热度：282782）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E4%BD%A0%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%9F%E6%B0%94%23" target="weibo">
 魏大勋说你应该知道我为什么生气（热度：282215）
 </a>
@@ -1041,20 +1095,14 @@ iG对战WBG（热度：334534）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%89%AB%E6%A5%BC%23" target="weibo">
-魏大勋扫楼（热度：274135）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%91%A8%E5%A5%94%E8%B7%91%E5%90%A7%E8%BF%98%E6%92%AD%E5%90%97%23" target="weibo">
 这周奔跑吧还播吗（热度：273703）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E8%BF%99%E6%89%80%E4%B8%AD%E5%AD%A6%E5%BD%95%E5%8F%96%E6%A6%9C%E6%9C%80%E5%89%8D%E9%9D%A2%E7%9A%84%E4%B8%8D%E6%98%AF%E6%B8%85%E5%8C%97%23" target="weibo">
-安徽这所中学录取榜最前面的不是清北（热度：270873）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86e%E4%BA%BA%E5%92%8Ci%E4%BA%BA%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
+发现了e人和i人的区别（热度：271516）
 </a>
 </li>
 
@@ -1203,12 +1251,6 @@ EXO麦克风高度（热度：236919）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86e%E4%BA%BA%E5%92%8Ci%E4%BA%BA%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
-发现了e人和i人的区别（热度：229765）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E5%BC%A0%E6%85%A7%E9%9B%AF%E5%AF%B9%E6%89%8B%E6%88%8F%23" target="weibo">
 张一山张慧雯对手戏（热度：228460）
 </a>
@@ -1229,6 +1271,12 @@ EXO麦克风高度（热度：236919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%B0%91%E5%B9%B4%E6%8A%8A%E8%AF%BE%E6%96%87%E6%94%B9%E7%BC%96%E6%88%90%E6%AD%8C%E5%90%B8%E7%B2%89%E7%99%BE%E4%B8%87%23" target="weibo">
 13岁少年把课文改编成歌吸粉百万（热度：227674）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B9%90%E4%BC%A0%E4%BB%8A%E5%A4%A9%E8%BF%9E%E6%9B%B4%E4%BA%86%E4%B8%89%E9%9B%86%23" target="weibo">
+安乐传今天连更了三集（热度：226452）
 </a>
 </li>
 
@@ -1305,6 +1353,12 @@ Jennie发了和金泰亨被拍到的造型照片（热度：221603）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E8%AE%B8%E6%97%B6%E5%88%86%20%E6%88%91%E5%8F%AA%E8%A6%81%E6%88%91%E7%9A%84%E8%9D%B4%E8%9D%B6%23" target="weibo">
+孟许时分 我只要我的蝴蝶（热度：215055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E7%89%8C%E9%BB%91%E8%8A%9D%E9%BA%BB%E6%B1%A4%E5%9C%86%23" target="weibo">
 熊猫牌黑芝麻汤圆（热度：214552）
 </a>
@@ -1343,6 +1397,12 @@ Jennie发了和金泰亨被拍到的造型照片（热度：221603）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8A%9B%E5%AA%9A%E7%9C%BC%23" target="weibo">
 迪丽热巴抛媚眼（热度：203209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E7%8E%8B%E6%BA%90%E5%93%A5%E5%93%A5%23" target="weibo">
+如果魏大勋演王源哥哥（热度：202762）
 </a>
 </li>
 
@@ -1425,8 +1485,8 @@ JDG对战RA（热度：193900）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%BC%94%E7%8E%8B%E6%BA%90%E5%93%A5%E5%93%A5%23" target="weibo">
-如果魏大勋演王源哥哥（热度：189340）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8B%8D%E5%8D%B3%E5%90%88%E7%9A%84%E6%88%91%E4%BB%AC%23" target="weibo">
+一拍即合的我们（热度：188799）
 </a>
 </li>
 
@@ -1533,12 +1593,6 @@ DIOR大秀谁赢了（热度：160361）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%9C%8B%E4%BA%86%E9%83%BD%E5%BE%97%E6%84%A3%E4%B8%80%E4%B8%8B%23" target="weibo">
-刘诗诗看了都得愣一下（热度：159315）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E6%9C%89%E7%82%B9%E6%99%BA%E5%95%86%E4%BD%86%E6%98%AF%E4%B8%8D%E5%A4%9A%23" target="weibo">
 小猫咪有点智商但是不多（热度：158854）
 </a>
@@ -1569,6 +1623,12 @@ DIOR大秀谁赢了（热度：160361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%9F%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%AF%B4%E4%BD%A0%E6%9C%89%E5%86%B0%E6%B7%87%E6%B7%8B%E5%90%8E%23" target="weibo">
+跟小朋友说你有冰淇淋后（热度：144817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%AD%90%E7%9A%84%E8%A1%A8%E8%BE%BE%E8%83%BD%E5%8A%9B%20%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%23" target="weibo">
 小孩子的表达能力 网络用语（热度：142704）
 </a>
@@ -1589,6 +1649,12 @@ DIOR大秀谁赢了（热度：160361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E9%80%81%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%23" target="weibo">
 王源你的名字送给毕业生（热度：139979）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CWBG%23" target="weibo">
+iG战胜WBG（热度：139763）
 </a>
 </li>
 
@@ -1719,6 +1785,12 @@ LGD对战TES（热度：68473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%BA%BA%E8%83%BD%E6%8B%92%E7%BB%9D%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7%23" target="weibo">
+没人能拒绝纵横四海（热度：34351）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%AF%95%E4%B8%9A%E6%B4%BE%E5%AF%B9%23" target="weibo">
 微博毕业派对（热度：29797）
 </a>
@@ -1769,6 +1841,12 @@ LGD对战TES（热度：68473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%238%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E6%88%91%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E6%88%90%E5%B0%B1%23%23" target="weibo">
 #8个数字看我国网络强国建设成就#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%232023%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E9%BB%91%E9%BE%99%E6%B1%9F%E8%A1%8C%23%23" target="weibo">
+#2023网络名人黑龙江行#
 </a>
 </li>
 
