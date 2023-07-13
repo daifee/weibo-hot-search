@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689261548257,
+  "endTime": 1689262452676,
   "band_list": [
     {
       "raw_hot": 3119402,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1433916,
-      "num": 791223,
+      "num": 881345,
       "word": "皓衣行",
       "onboard_time": 1689259475,
       "rank": 10,
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 935827,
+      "num": 935827,
+      "word": "还记得2008年发生了什么吗",
+      "onboard_time": 1689257736,
+      "rank": 38,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 935375,
       "num": 935375,
       "word": "王源任敏新剧收视率",
@@ -435,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 924467,
-      "num": 924467,
-      "word": "还记得2008年发生了什么吗",
-      "onboard_time": 1689257736,
-      "rank": 38,
-      "category": "情感,社会新闻"
+      "raw_hot": 923176,
+      "num": 923176,
+      "word": "Cat",
+      "onboard_time": 1689260016,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 919286,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 763235,
-      "num": 843282,
+      "num": 881756,
       "word": "电梯下坠积水渗入全家险被淹死",
       "onboard_time": 1689256117,
       "rank": 12,
@@ -739,14 +747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 642069,
-      "num": 642069,
-      "word": "Cat",
-      "onboard_time": 1689260016,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 641851,
       "num": 527362,
       "word": "JDG换人",
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 609373,
-      "num": 796108,
+      "num": 881358,
       "word": "高考钉子户唐尚珺公布高考志愿",
       "onboard_time": 1689257616,
       "rank": 41,
@@ -929,6 +929,14 @@
       "onboard_time": 1689255578,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 507965,
+      "num": 507965,
+      "word": "杨澄妈妈不承认谢乔是女朋友",
+      "onboard_time": 1689261034,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 507474,
@@ -1587,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331357,
+      "num": 279683,
+      "word": "德国公布首个中国战略",
+      "onboard_time": 1689261578,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323492,
       "num": 323492,
       "word": "试用期内有必要装饰工位吗",
@@ -1624,14 +1640,6 @@
       "word": "惜花芷慢镜头官宣",
       "onboard_time": 1689217232,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 316959,
-      "num": 316959,
-      "word": "杨澄妈妈不承认谢乔是女朋友",
-      "onboard_time": 1689261034,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1873,6 +1881,14 @@
       "onboard_time": 1689258635,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268882,
+      "num": 268882,
+      "word": "人类总是用离开来试探爱",
+      "onboard_time": 1689261873,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 267833,
@@ -2251,12 +2267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216591,
+      "num": 216591,
+      "word": "中医十大名方",
+      "onboard_time": 1689260978,
+      "rank": 42,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 214552,
       "num": 214552,
       "word": "熊猫牌黑芝麻汤圆",
       "onboard_time": 1689232894,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214154,
+      "num": 214154,
+      "word": "小朋友练习街舞时突然展现了神来之笔",
+      "onboard_time": 1689262054,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 213985,
@@ -2275,6 +2307,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 210352,
+      "num": 210352,
+      "word": "火烧蛋糕",
+      "onboard_time": 1689261935,
+      "rank": 44,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 210232,
       "num": 210232,
       "word": "敖子逸你在嘴硬什么",
@@ -2289,14 +2329,6 @@
       "onboard_time": 1689250952,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209513,
-      "num": 209513,
-      "word": "中医十大名方",
-      "onboard_time": 1689260978,
-      "rank": 42,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 208691,
@@ -2539,6 +2571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185362,
+      "num": 185362,
+      "word": "这养的是厨余垃圾处理器吧",
+      "onboard_time": 1689262413,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183211,
       "num": 183211,
       "word": "安乐传回应片头制作",
@@ -2616,6 +2656,14 @@
       "word": "京城大师赛",
       "onboard_time": 1689254554,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 172011,
+      "num": 172011,
+      "word": "yskm",
+      "onboard_time": 1689261814,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -2971,6 +3019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36148,
+      "num": 1126597,
+      "word": "一刻钟便民生活圈建设真是细节控",
+      "onboard_time": 1689261398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32939,
       "num": 1458763,
       "word": "大国之大也有大国之重",
@@ -2993,14 +3049,6 @@
       "onboard_time": 1689187873,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 8439,
-      "num": 1126597,
-      "word": "一刻钟便民生活圈建设真是细节控",
-      "onboard_time": 1689261398,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1689262452676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1836445,
+        "num": 1836445,
+        "word": "魏大勋直播",
+        "onboard_time": 1689250952,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1312686,
+        "num": 1312686,
+        "word": "为什么大家不愿意去泰国旅游了",
+        "onboard_time": 1689251497,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 36148,
+        "num": 1097608,
+        "word": "一刻钟便民生活圈建设真是细节控",
+        "onboard_time": 1689261398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1663267,
+        "num": 1067253,
+        "word": "魏大勋连夜买了个黑衬衫穿上",
+        "onboard_time": 1689251013,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 994316,
+        "num": 994316,
+        "word": "双职工独立带娃的解决方案",
+        "onboard_time": 1689259237,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 935827,
+        "num": 935827,
+        "word": "还记得2008年发生了什么吗",
+        "onboard_time": 1689257736,
+        "rank": 5,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 923176,
+        "num": 923176,
+        "word": "Cat",
+        "onboard_time": 1689260016,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 916363,
+        "num": 916363,
+        "word": "王源任敏新剧收视率",
+        "onboard_time": 1689257797,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634017,
+        "num": 881756,
+        "word": "电梯下坠积水渗入全家险被淹死",
+        "onboard_time": 1689256117,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581240,
+        "num": 881358,
+        "word": "高考钉子户唐尚珺公布高考志愿",
+        "onboard_time": 1689257616,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413009,
+        "num": 881345,
+        "word": "皓衣行",
+        "onboard_time": 1689259475,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 881324,
+        "num": 881324,
+        "word": "杨洋王楚然好像婚礼迎宾",
+        "onboard_time": 1689253235,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640462,
+        "num": 640462,
+        "word": "安乐传口碑",
+        "onboard_time": 1689257859,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571554,
+        "num": 571554,
+        "word": "杨澄出车祸昏迷",
+        "onboard_time": 1689255158,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534702,
+        "num": 534702,
+        "word": "张元英胳膊缝了七针",
+        "onboard_time": 1689251013,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507965,
+        "num": 507965,
+        "word": "杨澄妈妈不承认谢乔是女朋友",
+        "onboard_time": 1689261034,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498793,
+        "num": 498793,
+        "word": "郑州一小学强制家长轮流站岗",
+        "onboard_time": 1689254856,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 487173,
+        "num": 487173,
+        "word": "王鹤棣肚子",
+        "onboard_time": 1689243993,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380231,
+        "num": 380231,
+        "word": "容易导致眼睛度数上涨的原因",
+        "onboard_time": 1689245134,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 293556,
+        "num": 293556,
+        "word": "女子称在购买3年服装店被杀熟70元",
+        "onboard_time": 1689252273,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442536,
+        "num": 292417,
+        "word": "长风渡魔改",
+        "onboard_time": 1689249452,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438984,
+        "num": 288930,
+        "word": "宋焰许沁结婚了",
+        "onboard_time": 1689240394,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384523,
+        "num": 285452,
+        "word": "旅游时发朋友圈会让人反感吗",
+        "onboard_time": 1689255578,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344729,
+        "num": 282380,
+        "word": "茉酸奶应该叫茉奶昔",
+        "onboard_time": 1689258037,
+        "rank": 23,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 279851,
+        "num": 279851,
+        "word": "DYG是怎么猝死的",
+        "onboard_time": 1689253474,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415354,
+        "num": 279830,
+        "word": "央八上半年收视TOP10",
+        "onboard_time": 1689256717,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345723,
+        "num": 279801,
+        "word": "魏大勋说跟杨洋的眼神戏没赢过",
+        "onboard_time": 1689252214,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254990,
+        "num": 279773,
+        "word": "中医",
+        "onboard_time": 1689248611,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247254,
+        "num": 279754,
+        "word": "蔡依林照片中的两个女孩都长大了",
+        "onboard_time": 1689252816,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 167329,
+        "num": 279726,
+        "word": "爱宝双胞胎女儿喝奶画面",
+        "onboard_time": 1689238891,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331357,
+        "num": 279683,
+        "word": "德国公布首个中国战略",
+        "onboard_time": 1689261578,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324285,
+        "num": 279646,
+        "word": "肖战方逸伦打戏好帅",
+        "onboard_time": 1689260075,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279645,
+        "num": 279645,
+        "word": "49岁何炅唱跳水平",
+        "onboard_time": 1689251376,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319752,
+        "num": 278606,
+        "word": "玉骨遥",
+        "onboard_time": 1689258817,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272855,
+        "num": 272855,
+        "word": "李斯丹妮给王宝强连发20条信息",
+        "onboard_time": 1689249331,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269243,
+        "num": 269243,
+        "word": "为什么魏大勋外号叫大勋花",
+        "onboard_time": 1689258635,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268882,
+        "num": 268882,
+        "word": "人类总是用离开来试探爱",
+        "onboard_time": 1689261873,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 257281,
+        "num": 257281,
+        "word": "我爹一条朋友圈点赞人数",
+        "onboard_time": 1689240934,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241295,
+        "num": 241295,
+        "word": "EXO再跳生命之树",
+        "onboard_time": 1689254616,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238942,
+        "num": 238942,
+        "word": "花23万布置户外婚礼变成了闹剧",
+        "onboard_time": 1689251013,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227110,
+        "num": 227110,
+        "word": "男子猥亵未成年不足10秒被判无罪",
+        "onboard_time": 1689246391,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219006,
+        "num": 219006,
+        "word": "OMG战胜EDG",
+        "onboard_time": 1689256657,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216591,
+        "num": 216591,
+        "word": "中医十大名方",
+        "onboard_time": 1689260978,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 214154,
+        "num": 214154,
+        "word": "小朋友练习街舞时突然展现了神来之笔",
+        "onboard_time": 1689262054,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210352,
+        "num": 210352,
+        "word": "火烧蛋糕",
+        "onboard_time": 1689261935,
+        "rank": 44,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 202244,
+        "num": 202244,
+        "word": "萌兰萌二拆完萌大也开始拆了",
+        "onboard_time": 1689256417,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185362,
+        "num": 185362,
+        "word": "这养的是厨余垃圾处理器吧",
+        "onboard_time": 1689262413,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177605,
+        "num": 177605,
+        "word": "AI的方向是不是搞错了",
+        "onboard_time": 1689260556,
+        "rank": 47,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 175920,
+        "num": 175920,
+        "word": "人际关系中最伤人的五个字",
+        "onboard_time": 1689242673,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172011,
+        "num": 172011,
+        "word": "yskm",
+        "onboard_time": 1689261814,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代成就巡礼#"
+    }
+  }
+}
