@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689229521138,
+  "endTime": 1689230357169,
   "band_list": [
     {
       "raw_hot": 3052648,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2317758,
-      "num": 2317758,
+      "raw_hot": 2388687,
+      "num": 2388687,
       "word": "女子被砸死亡当晚嫌疑人共抛物3次",
       "onboard_time": 1689224676,
       "rank": 27,
@@ -195,6 +195,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1029316,
+      "num": 1029316,
+      "word": "阿娇网名是永不让你失望的脸",
+      "onboard_time": 1689227430,
+      "rank": 5,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 1028425,
+      "num": 1028425,
+      "word": "茉酸奶回应高价酸奶",
+      "onboard_time": 1689228030,
+      "rank": 6,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1010158,
       "num": 1010158,
       "word": "李咏女儿法图麦露背身材",
@@ -225,14 +241,6 @@
       "onboard_time": 1689226292,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 931227,
-      "num": 931227,
-      "word": "阿娇网名是永不让你失望的脸",
-      "onboard_time": 1689227430,
-      "rank": 5,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 889203,
@@ -291,12 +299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 754766,
-      "num": 754766,
-      "word": "茉酸奶回应高价酸奶",
-      "onboard_time": 1689228030,
-      "rank": 6,
-      "category": "财经,社会新闻"
+      "raw_hot": 766259,
+      "num": 766259,
+      "word": "李白",
+      "onboard_time": 1689228273,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 731433,
+      "num": 692648,
+      "word": "易梦玲不像是第一次演戏",
+      "onboard_time": 1689226292,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 704373,
@@ -313,14 +329,6 @@
       "onboard_time": 1689210815,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 692648,
-      "num": 692648,
-      "word": "易梦玲不像是第一次演戏",
-      "onboard_time": 1689226292,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 680412,
@@ -352,14 +360,6 @@
       "word": "惜花芷",
       "onboard_time": 1689219154,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 657140,
-      "num": 484680,
-      "word": "李白",
-      "onboard_time": 1689228273,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -412,11 +412,19 @@
     },
     {
       "raw_hot": 566073,
-      "num": 480618,
+      "num": 531162,
       "word": "长相思排播",
       "onboard_time": 1689226712,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 558106,
+      "num": 558106,
+      "word": "君有疾否",
+      "onboard_time": 1689227850,
+      "rank": 16,
+      "category": "其它"
     },
     {
       "raw_hot": 556681,
@@ -459,19 +467,19 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 504059,
+      "num": 504059,
+      "word": "爱宝双胞胎幼崽吃奶",
+      "onboard_time": 1689225097,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498815,
       "num": 498815,
       "word": "定价高昂的茉酸奶为何还会突然爆火",
       "onboard_time": 1689205050,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 496697,
-      "num": 496697,
-      "word": "爱宝双胞胎幼崽吃奶",
-      "onboard_time": 1689225097,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -513,14 +521,6 @@
       "onboard_time": 1689223773,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 477656,
-      "num": 477656,
-      "word": "君有疾否",
-      "onboard_time": 1689227850,
-      "rank": 16,
-      "category": "其它"
     },
     {
       "raw_hot": 472261,
@@ -635,6 +635,30 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 407607,
+      "num": 401138,
+      "word": "女子请婚假被辞退老板说还得请产假",
+      "onboard_time": 1689228394,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403810,
+      "num": 281985,
+      "word": "江苏镇江一飞机坠落泥地中",
+      "onboard_time": 1689229594,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403304,
+      "num": 403304,
+      "word": "迪丽热巴吉娜爱丽丝热聊",
+      "onboard_time": 1689229470,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400547,
       "num": 400547,
       "word": "田柾国韩素希MV吵架镜头",
@@ -664,14 +688,6 @@
       "word": "你最希望中国第三座迪士尼在哪",
       "onboard_time": 1689212374,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379479,
-      "num": 379479,
-      "word": "女子请婚假被辞退老板说还得请产假",
-      "onboard_time": 1689228394,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -720,6 +736,22 @@
       "word": "张一山说拍家有儿女不背词一条过",
       "onboard_time": 1689226953,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 357100,
+      "num": 281966,
+      "word": "江苏盐城轿车撞人事故致2死6伤",
+      "onboard_time": 1689230313,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 355946,
+      "num": 355946,
+      "word": "谢娜看三国半夜给陆毅打电话",
+      "onboard_time": 1689226535,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -777,14 +809,6 @@
       "onboard_time": 1689214472,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 332527,
-      "num": 332527,
-      "word": "谢娜看三国半夜给陆毅打电话",
-      "onboard_time": 1689226535,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 332128,
@@ -961,6 +985,14 @@
       "onboard_time": 1689222035,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270539,
+      "num": 270539,
+      "word": "4岁宠物鸡被咬伤兽医缝40针救活",
+      "onboard_time": 1689229772,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267591,
@@ -1211,14 +1243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205948,
-      "num": 205948,
-      "word": "迪丽热巴吉娜爱丽丝热聊",
-      "onboard_time": 1689229470,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205947,
       "num": 205947,
       "word": "一段中英混杂的简单表达",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1689213813,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203502,
+      "num": 203502,
+      "word": "护士一把接过60斤男童飞奔到抢救室",
+      "onboard_time": 1689230134,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199453,
@@ -1267,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190139,
+      "num": 190139,
+      "word": "在家族群里发录取通知书照片",
+      "onboard_time": 1689230313,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 189504,
       "num": 189504,
       "word": "安乐传山水映世海报",
@@ -1289,6 +1329,22 @@
       "onboard_time": 1689170738,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184938,
+      "num": 184938,
+      "word": "周杰伦福州演唱会审批通过",
+      "onboard_time": 1689230313,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 183211,
+      "num": 183211,
+      "word": "安乐传回应片头制作",
+      "onboard_time": 1689230191,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 182624,

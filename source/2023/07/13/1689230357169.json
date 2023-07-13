@@ -1,0 +1,410 @@
+{
+  "runTime": 1689230357169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2388687,
+        "num": 2388687,
+        "word": "女子被砸死亡当晚嫌疑人共抛物3次",
+        "onboard_time": 1689224676,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160216,
+        "num": 1160216,
+        "word": "魏大勋为了背影像杨洋使劲减肥",
+        "onboard_time": 1689220475,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8112,
+        "num": 1030151,
+        "word": "十四冬举办时间定了",
+        "onboard_time": 1689169116,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1029316,
+        "num": 1029316,
+        "word": "阿娇网名是永不让你失望的脸",
+        "onboard_time": 1689227430,
+        "rank": 3,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 1028425,
+        "num": 1028425,
+        "word": "茉酸奶回应高价酸奶",
+        "onboard_time": 1689228030,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 985247,
+        "num": 985247,
+        "word": "于正回应吴谨言两年没戏拍",
+        "onboard_time": 1689221435,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 901214,
+        "num": 901214,
+        "word": "赵露思陈芊芊时期体重",
+        "onboard_time": 1689226292,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766259,
+        "num": 766259,
+        "word": "李白",
+        "onboard_time": 1689228273,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643098,
+        "num": 643098,
+        "word": "邓伦再成被执行人",
+        "onboard_time": 1689219453,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 558106,
+        "num": 558106,
+        "word": "君有疾否",
+        "onboard_time": 1689227850,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1338224,
+        "num": 558032,
+        "word": "腐烂在床上正在流行",
+        "onboard_time": 1689216571,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731433,
+        "num": 557042,
+        "word": "易梦玲不像是第一次演戏",
+        "onboard_time": 1689226292,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554460,
+        "num": 554460,
+        "word": "阿沙 性教育四季的变化",
+        "onboard_time": 1689222877,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531162,
+        "num": 531162,
+        "word": "长相思排播",
+        "onboard_time": 1689226712,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504059,
+        "num": 504059,
+        "word": "爱宝双胞胎幼崽吃奶",
+        "onboard_time": 1689225097,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496723,
+        "num": 496723,
+        "word": "井川里予回应近照",
+        "onboard_time": 1689210755,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436217,
+        "num": 436217,
+        "word": "AG官宣更名",
+        "onboard_time": 1689226773,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433692,
+        "num": 433692,
+        "word": "清华博士花1月自制极光向女友求婚",
+        "onboard_time": 1689219212,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430185,
+        "num": 430185,
+        "word": "北京平均月薪13438元",
+        "onboard_time": 1689220715,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 403304,
+        "num": 403304,
+        "word": "迪丽热巴吉娜爱丽丝热聊",
+        "onboard_time": 1689229470,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800120,
+        "num": 401270,
+        "word": "高温天妈妈将电扇让给孩子被热死",
+        "onboard_time": 1689221734,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407607,
+        "num": 401138,
+        "word": "女子请婚假被辞退老板说还得请产假",
+        "onboard_time": 1689228394,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396841,
+        "num": 396841,
+        "word": "2岁女孩见爸爸双胞胎兄弟当场懵了",
+        "onboard_time": 1689228452,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 394880,
+        "num": 394880,
+        "word": "奔跑吧",
+        "onboard_time": 1689219693,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355946,
+        "num": 355946,
+        "word": "谢娜看三国半夜给陆毅打电话",
+        "onboard_time": 1689226535,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332034,
+        "num": 332034,
+        "word": "魏大勋机场生图",
+        "onboard_time": 1689222460,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352481,
+        "num": 331972,
+        "word": "张一山说拍家有儿女不背词一条过",
+        "onboard_time": 1689226953,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331592,
+        "num": 331592,
+        "word": "经常看书和不看书有什么区别",
+        "onboard_time": 1689223536,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285871,
+        "num": 285871,
+        "word": "重度自闭症男孩靠吹气球成网红",
+        "onboard_time": 1689219092,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272286,
+        "num": 282833,
+        "word": "宋代古莲开花了",
+        "onboard_time": 1689222637,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403810,
+        "num": 281985,
+        "word": "江苏镇江一飞机坠落泥地中",
+        "onboard_time": 1689229594,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357100,
+        "num": 281966,
+        "word": "江苏盐城轿车撞人事故致2死6伤",
+        "onboard_time": 1689230313,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 279954,
+        "num": 279954,
+        "word": "被首尔的出租车震惊到了",
+        "onboard_time": 1689208836,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270539,
+        "num": 270539,
+        "word": "4岁宠物鸡被咬伤兽医缝40针救活",
+        "onboard_time": 1689229772,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261634,
+        "num": 261634,
+        "word": "刘诗诗孔雀蓝眼妆",
+        "onboard_time": 1689225992,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260566,
+        "num": 260566,
+        "word": "杨洋魏大勋你好星期六上班路透",
+        "onboard_time": 1689225216,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237618,
+        "num": 237618,
+        "word": "谢霆锋否认和王菲分手",
+        "onboard_time": 1689203544,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233858,
+        "num": 233858,
+        "word": "吴俊霆徐梦洁吻戏",
+        "onboard_time": 1689223773,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226833,
+        "num": 226833,
+        "word": "龚俊说任安乐别乱搞",
+        "onboard_time": 1689226832,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223406,
+        "num": 223406,
+        "word": "莲花楼",
+        "onboard_time": 1689223238,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218146,
+        "num": 218146,
+        "word": "揭秘茉酸奶背后公司",
+        "onboard_time": 1689214114,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 203502,
+        "num": 203502,
+        "word": "护士一把接过60斤男童飞奔到抢救室",
+        "onboard_time": 1689230134,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198388,
+        "num": 198388,
+        "word": "淄博烧烤小饼机器开工一周被甩卖",
+        "onboard_time": 1689226414,
+        "rank": 42,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 192531,
+        "num": 192531,
+        "word": "鹿晗工作室回应停电",
+        "onboard_time": 1689225932,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190139,
+        "num": 190139,
+        "word": "在家族群里发录取通知书照片",
+        "onboard_time": 1689230313,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 185642,
+        "num": 185642,
+        "word": "考公考编是否是人生退路",
+        "onboard_time": 1689212374,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 184938,
+        "num": 184938,
+        "word": "周杰伦福州演唱会审批通过",
+        "onboard_time": 1689230313,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183211,
+        "num": 183211,
+        "word": "安乐传回应片头制作",
+        "onboard_time": 1689230191,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177287,
+        "num": 177287,
+        "word": "恭喜他们结婚了",
+        "onboard_time": 1689210993,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 177279,
+        "num": 177279,
+        "word": "玉骨遥名场面是肖战设计讨论的",
+        "onboard_time": 1689222217,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#千年古都京彩焕新#"
+    }
+  }
+}
