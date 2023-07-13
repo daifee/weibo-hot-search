@@ -1,0 +1,410 @@
+{
+  "runTime": 1689217830506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2041441,
+        "num": 2041441,
+        "word": "考公考编是否是人生退路",
+        "onboard_time": 1689212374,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1513814,
+        "num": 1513814,
+        "word": "被首尔的出租车震惊到了",
+        "onboard_time": 1689208836,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26414,
+        "num": 1183868,
+        "word": "十四冬举办时间定了",
+        "onboard_time": 1689169116,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1151468,
+        "num": 1151468,
+        "word": "鹿晗现身医院做康复治疗",
+        "onboard_time": 1689209975,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1120317,
+        "num": 1120317,
+        "word": "揭秘茉酸奶背后公司",
+        "onboard_time": 1689214114,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1106955,
+        "num": 1106955,
+        "word": "迪丽热巴好土我好喜欢",
+        "onboard_time": 1689207691,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 840424,
+        "num": 840424,
+        "word": "原来基围虾只是一种养殖方式",
+        "onboard_time": 1689215495,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 787410,
+        "num": 787410,
+        "word": "马丽的孩子确实叫沈腾舅舅",
+        "onboard_time": 1689204747,
+        "rank": 7,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 621891,
+        "num": 621891,
+        "word": "9岁男孩被17楼坠下男子砸入ICU",
+        "onboard_time": 1689210512,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722517,
+        "num": 621456,
+        "word": "宋焰给了孟宴臣10年机会",
+        "onboard_time": 1689203905,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1524119,
+        "num": 620804,
+        "word": "腐烂在床上正在流行",
+        "onboard_time": 1689216571,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2642979,
+        "num": 620198,
+        "word": "恭喜他们结婚了",
+        "onboard_time": 1689210993,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1000622,
+        "num": 619213,
+        "word": "井川里予回应近照",
+        "onboard_time": 1689210755,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618917,
+        "num": 618917,
+        "word": "对方撤回了一个孟宴臣",
+        "onboard_time": 1689214114,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514168,
+        "num": 514168,
+        "word": "90后落户常州三天收到15万",
+        "onboard_time": 1689213993,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 553727,
+        "num": 498916,
+        "word": "魏大勋老来得粉",
+        "onboard_time": 1689210815,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460180,
+        "num": 460180,
+        "word": "肖战任敏无效比心",
+        "onboard_time": 1689216335,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481065,
+        "num": 457056,
+        "word": "起猛了看成杨洋王楚然官宣了",
+        "onboard_time": 1689212732,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416525,
+        "num": 416525,
+        "word": "江西 悬崖套房",
+        "onboard_time": 1689208836,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 411120,
+        "num": 411120,
+        "word": "安乐传片头是谁做的",
+        "onboard_time": 1689212913,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375268,
+        "num": 375268,
+        "word": "美国45岁富豪用17岁儿子血浆换血失败",
+        "onboard_time": 1689202820,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365948,
+        "num": 365948,
+        "word": "田柾国韩素希MV吵架镜头",
+        "onboard_time": 1689213094,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351133,
+        "num": 351133,
+        "word": "张一山靠在关晓彤后背哭",
+        "onboard_time": 1689206914,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333551,
+        "num": 333551,
+        "word": "豆瓣把帐号改为账号",
+        "onboard_time": 1689214472,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 296678,
+        "num": 324228,
+        "word": "猪场因断电死亡462头猪损失近百万",
+        "onboard_time": 1689202880,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317603,
+        "num": 317603,
+        "word": "惜花芷慢镜头官宣",
+        "onboard_time": 1689217232,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301300,
+        "num": 301300,
+        "word": "刘亦菲玫瑰故事双麻花辫造型",
+        "onboard_time": 1689217112,
+        "rank": 26,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 283086,
+        "num": 283086,
+        "word": "录取通知书里藏了一片银杏树林",
+        "onboard_time": 1689210335,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 280594,
+        "num": 280594,
+        "word": "杨紫是张一山永远的人脉",
+        "onboard_time": 1689174997,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275645,
+        "num": 275645,
+        "word": "试用期内有必要装饰工位吗",
+        "onboard_time": 1689215495,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1106338,
+        "num": 275346,
+        "word": "谢霆锋否认和王菲分手",
+        "onboard_time": 1689203544,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274747,
+        "num": 274747,
+        "word": "白敬亭王鹤棣侯明昊打篮球路透",
+        "onboard_time": 1689217172,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262353,
+        "num": 262353,
+        "word": "哈基米大哥独自打针",
+        "onboard_time": 1689217353,
+        "rank": 32,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 262153,
+        "num": 262153,
+        "word": "黄子韬被男生叫宝贝的反应",
+        "onboard_time": 1689213932,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258500,
+        "num": 258500,
+        "word": "爷爷把我的水晶宝宝照顾的很好",
+        "onboard_time": 1689211894,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260658,
+        "num": 255712,
+        "word": "吉克隽逸素颜健身状态",
+        "onboard_time": 1689216813,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246007,
+        "num": 246007,
+        "word": "老人怕味大影响乘客高铁上干吃泡面",
+        "onboard_time": 1689203905,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241407,
+        "num": 241407,
+        "word": "班主任回应牺牲民警女儿考上公安大学",
+        "onboard_time": 1689207754,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 240727,
+        "num": 240727,
+        "word": "人一旦有了感情就会变的很贪心",
+        "onboard_time": 1689214892,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 234095,
+        "num": 234095,
+        "word": "时代少年团演唱会选在青岛的原因",
+        "onboard_time": 1689216152,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232380,
+        "num": 232380,
+        "word": "独自生长的玉米粒是圆的",
+        "onboard_time": 1689212013,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220009,
+        "num": 220009,
+        "word": "黄晓明闫妮对手戏",
+        "onboard_time": 1689217232,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218572,
+        "num": 218572,
+        "word": "你最希望中国第三座迪士尼在哪",
+        "onboard_time": 1689212374,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217069,
+        "num": 217069,
+        "word": "女子半夜回酒店发现床上睡着陌生男子",
+        "onboard_time": 1689212073,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216631,
+        "num": 216631,
+        "word": "爸爸开家长会主打有其父必有其子",
+        "onboard_time": 1689216091,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210658,
+        "num": 210658,
+        "word": "第一次见猫用香肠洗手的",
+        "onboard_time": 1689217592,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210309,
+        "num": 210309,
+        "word": "米米",
+        "onboard_time": 1689207093,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208349,
+        "num": 208349,
+        "word": "千万别信小时候胖点好",
+        "onboard_time": 1689214356,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 205349,
+        "num": 205349,
+        "word": "广州平均月薪10883元",
+        "onboard_time": 1689217772,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 92216,
+        "num": 200775,
+        "word": "厨房做饭居然会中暑",
+        "onboard_time": 1689217710,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#物质文明和精神文明相协调的现代化#"
+    }
+  }
+}

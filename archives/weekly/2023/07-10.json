@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689217317690,
+  "endTime": 1689217830506,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2041441,
+      "num": 2041441,
+      "word": "考公考编是否是人生退路",
+      "onboard_time": 1689212374,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 2021096,
       "num": 1462757,
       "word": "妻子怀孕让中医老公把脉",
@@ -571,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1653820,
-      "num": 1653820,
-      "word": "考公考编是否是人生退路",
-      "onboard_time": 1689212374,
-      "rank": 35,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1612800,
       "num": 1612800,
       "word": "充值700元仍看不完一部网文",
@@ -649,6 +649,22 @@
       "onboard_time": 1689075214,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1524119,
+      "num": 663987,
+      "word": "腐烂在床上正在流行",
+      "onboard_time": 1689216571,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1513814,
+      "num": 1513814,
+      "word": "被首尔的出租车震惊到了",
+      "onboard_time": 1689208836,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1504616,
@@ -809,14 +825,6 @@
       "onboard_time": 1688950052,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1316597,
-      "num": 1316597,
-      "word": "被首尔的出租车震惊到了",
-      "onboard_time": 1689208836,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 1301908,
@@ -1027,11 +1035,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1120317,
+      "num": 1120317,
+      "word": "揭秘茉酸奶背后公司",
+      "onboard_time": 1689214114,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1111725,
       "num": 1111725,
       "word": "优酷",
       "onboard_time": 1689157173,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1106955,
+      "num": 1106955,
+      "word": "迪丽热巴好土我好喜欢",
+      "onboard_time": 1689207691,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -1107,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1073296,
-      "num": 1073296,
-      "word": "迪丽热巴好土我好喜欢",
-      "onboard_time": 1689207691,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1060758,
       "num": 763483,
       "word": "马里奥和三喜",
@@ -1179,14 +1195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1033418,
-      "num": 1033418,
-      "word": "揭秘茉酸奶背后公司",
-      "onboard_time": 1689214114,
-      "rank": 29,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1023863,
       "num": 1023863,
       "word": "欧文签约安踏",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1689208836,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1000622,
+      "num": 679660,
+      "word": "井川里予回应近照",
+      "onboard_time": 1689210755,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 999681,
@@ -1345,14 +1361,6 @@
       "onboard_time": 1689037117,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 969129,
-      "num": 679660,
-      "word": "井川里予回应近照",
-      "onboard_time": 1689210755,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 967789,
@@ -1707,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 840424,
+      "num": 840424,
+      "word": "原来基围虾只是一种养殖方式",
+      "onboard_time": 1689215495,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 827644,
       "num": 827644,
       "word": "胡锡进 宝格丽致歉已是正义的胜利",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1689037417,
       "rank": 7,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 814420,
-      "num": 663987,
-      "word": "腐烂在床上正在流行",
-      "onboard_time": 1689216571,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 811872,
@@ -1921,14 +1929,6 @@
       "onboard_time": 1688973692,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 755232,
-      "num": 755232,
-      "word": "原来基围虾只是一种养殖方式",
-      "onboard_time": 1689215495,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 754011,
@@ -2427,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 618917,
+      "num": 618917,
+      "word": "对方撤回了一个孟宴臣",
+      "onboard_time": 1689214114,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 616884,
       "num": 589523,
       "word": "张一山关晓彤北京话互怼",
@@ -2505,14 +2513,6 @@
       "onboard_time": 1689151598,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 593767,
-      "num": 450574,
-      "word": "对方撤回了一个孟宴臣",
-      "onboard_time": 1689214114,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 590848,
@@ -2987,6 +2987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 514168,
+      "num": 514168,
+      "word": "90后落户常州三天收到15万",
+      "onboard_time": 1689213993,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 512278,
       "num": 512278,
       "word": "无锡警方通报3岁女童事件",
@@ -3220,7 +3228,7 @@
     },
     {
       "raw_hot": 484730,
-      "num": 432548,
+      "num": 457056,
       "word": "起猛了看成杨洋王楚然官宣了",
       "onboard_time": 1689212732,
       "rank": 37,
@@ -3443,6 +3451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460180,
+      "num": 460180,
+      "word": "肖战任敏无效比心",
+      "onboard_time": 1689216335,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456266,
       "num": 456266,
       "word": "肖战回应火烧云",
@@ -3561,14 +3577,6 @@
       "onboard_time": 1688971290,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441266,
-      "num": 441266,
-      "word": "肖战任敏无效比心",
-      "onboard_time": 1689216335,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 440601,
@@ -3905,14 +3913,6 @@
       "onboard_time": 1688920465,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 417172,
-      "num": 417172,
-      "word": "90后落户常州三天收到15万",
-      "onboard_time": 1689213993,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 415704,
@@ -4707,6 +4707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333551,
+      "num": 333551,
+      "word": "豆瓣把帐号改为账号",
+      "onboard_time": 1689214472,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 333102,
       "num": 333102,
       "word": "国航回应飞机颠簸",
@@ -4729,14 +4737,6 @@
       "onboard_time": 1688972612,
       "rank": 32,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 331708,
-      "num": 331708,
-      "word": "豆瓣把帐号改为账号",
-      "onboard_time": 1689214472,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 331635,
@@ -4881,6 +4881,14 @@
       "onboard_time": 1689054274,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 317603,
+      "num": 317603,
+      "word": "惜花芷慢镜头官宣",
+      "onboard_time": 1689217232,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 316273,
@@ -5113,6 +5121,14 @@
       "onboard_time": 1688972070,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301300,
+      "num": 301300,
+      "word": "刘亦菲玫瑰故事双麻花辫造型",
+      "onboard_time": 1689217112,
+      "rank": 34,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 301084,
@@ -5579,6 +5595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274747,
+      "num": 274747,
+      "word": "白敬亭王鹤棣侯明昊打篮球路透",
+      "onboard_time": 1689217172,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274698,
       "num": 274698,
       "word": "警方回应老人当街抛扔满月双胞胎女婴",
@@ -5803,6 +5827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262353,
+      "num": 262353,
+      "word": "哈基米大哥独自打针",
+      "onboard_time": 1689217353,
+      "rank": 32,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 262339,
       "num": 262339,
       "word": "玉骨遥",
@@ -5825,6 +5857,14 @@
       "onboard_time": 1689133718,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260658,
+      "num": 255712,
+      "word": "吉克隽逸素颜健身状态",
+      "onboard_time": 1689216813,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 260106,
@@ -6307,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234095,
+      "num": 234095,
+      "word": "时代少年团演唱会选在青岛的原因",
+      "onboard_time": 1689216152,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233960,
       "num": 256218,
       "word": "林俊杰演唱会北京加场",
@@ -6353,14 +6401,6 @@
       "onboard_time": 1688991512,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230849,
-      "num": 230849,
-      "word": "刘亦菲玫瑰故事双麻花辫造型",
-      "onboard_time": 1689217112,
-      "rank": 34,
-      "category": "影视,时尚"
     },
     {
       "raw_hot": 229854,
@@ -6539,6 +6579,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 220009,
+      "num": 220009,
+      "word": "黄晓明闫妮对手戏",
+      "onboard_time": 1689217232,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218431,
       "num": 218431,
       "word": "曾少年今日开播",
@@ -6611,20 +6659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216631,
+      "num": 216631,
+      "word": "爸爸开家长会主打有其父必有其子",
+      "onboard_time": 1689216091,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216431,
       "num": 216431,
       "word": "生命不能承受之轻",
       "onboard_time": 1689154473,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216429,
-      "num": 216429,
-      "word": "吉克隽逸素颜健身状态",
-      "onboard_time": 1689216813,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 216405,
@@ -6739,12 +6787,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 211905,
-      "num": 211905,
-      "word": "时代少年团演唱会选在青岛的原因",
-      "onboard_time": 1689216152,
-      "rank": 42,
-      "category": "音乐"
+      "raw_hot": 210658,
+      "num": 210658,
+      "word": "第一次见猫用香肠洗手的",
+      "onboard_time": 1689217592,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 209859,
@@ -6784,22 +6832,6 @@
       "word": "安乐传首播战报",
       "onboard_time": 1689208716,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208436,
-      "num": 212775,
-      "word": "惜花芷慢镜头官宣",
-      "onboard_time": 1689217232,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208351,
-      "num": 208351,
-      "word": "黄晓明闫妮对手戏",
-      "onboard_time": 1689217232,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -6851,20 +6883,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205349,
+      "num": 205349,
+      "word": "广州平均月薪10883元",
+      "onboard_time": 1689217772,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 205059,
       "num": 205059,
       "word": "顾九思劫法场救叶世安",
       "onboard_time": 1688951493,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204998,
-      "num": 204998,
-      "word": "白敬亭王鹤棣侯明昊打篮球路透",
-      "onboard_time": 1689217172,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 204394,
@@ -7089,14 +7121,6 @@
       "onboard_time": 1688951312,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196229,
-      "num": 196229,
-      "word": "爸爸开家长会主打有其父必有其子",
-      "onboard_time": 1689216091,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196097,
@@ -8009,6 +8033,14 @@
       "onboard_time": 1689163592,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92216,
+      "num": 200775,
+      "word": "厨房做饭居然会中暑",
+      "onboard_time": 1689217710,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89014,
