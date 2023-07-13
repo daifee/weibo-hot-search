@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689217830506,
+  "endTime": 1689219679649,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -184,6 +184,14 @@
       "word": "被困缅北男子手脚被打断母亲崩溃",
       "onboard_time": 1688997815,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2712676,
+      "num": 663987,
+      "word": "腐烂在床上正在流行",
+      "onboard_time": 1689216571,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -491,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1838513,
+      "num": 1838513,
+      "word": "被首尔的出租车震惊到了",
+      "onboard_time": 1689208836,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1812197,
       "num": 1812197,
       "word": "中方不接受不承认立场得到100多国支持",
@@ -649,22 +665,6 @@
       "onboard_time": 1689075214,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1524119,
-      "num": 663987,
-      "word": "腐烂在床上正在流行",
-      "onboard_time": 1689216571,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1513814,
-      "num": 1513814,
-      "word": "被首尔的出租车震惊到了",
-      "onboard_time": 1689208836,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 1504616,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1689157173,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1110502,
+      "num": 354880,
+      "word": "淘宝变蓝了",
+      "onboard_time": 1689217954,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 1106955,
@@ -1625,6 +1633,14 @@
       "onboard_time": 1689202820,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870352,
+      "num": 870352,
+      "word": "广州平均月薪10883元",
+      "onboard_time": 1689217772,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 869745,
@@ -2763,6 +2779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555331,
+      "num": 555331,
+      "word": "90后落户常州三天收到15万",
+      "onboard_time": 1689213993,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 553942,
       "num": 369541,
       "word": "哇唧唧哇新艺人cos天官赐福",
@@ -2985,14 +3009,6 @@
       "onboard_time": 1689152676,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 514168,
-      "num": 514168,
-      "word": "90后落户常州三天收到15万",
-      "onboard_time": 1689213993,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 512278,
@@ -3465,6 +3481,14 @@
       "onboard_time": 1688945365,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 455272,
+      "num": 455272,
+      "word": "第一次见猫用香肠洗手的",
+      "onboard_time": 1689217592,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 454860,
@@ -4251,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377791,
+      "num": 345581,
+      "word": "刘亦菲玫瑰故事双麻花辫造型",
+      "onboard_time": 1689217112,
+      "rank": 34,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 377739,
       "num": 377739,
       "word": "警方回应网传拆浮桥后十余人溺亡",
@@ -4337,6 +4369,14 @@
       "onboard_time": 1689085238,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369313,
+      "num": 369313,
+      "word": "邓伦再成被执行人",
+      "onboard_time": 1689219453,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 368080,
@@ -4585,6 +4625,14 @@
       "onboard_time": 1689211053,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 342798,
+      "num": 342798,
+      "word": "安乐传追剧日历",
+      "onboard_time": 1689218493,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 340590,
@@ -4891,6 +4939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316509,
+      "num": 316509,
+      "word": "一直以为一罐奶粉能吃很久",
+      "onboard_time": 1689218134,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 316273,
       "num": 276937,
       "word": "许沁 恋爱脑",
@@ -4961,6 +5017,14 @@
       "onboard_time": 1689032729,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 311754,
+      "num": 311754,
+      "word": "惜花芷",
+      "onboard_time": 1689219154,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 311694,
@@ -5121,14 +5185,6 @@
       "onboard_time": 1688972070,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301300,
-      "num": 301300,
-      "word": "刘亦菲玫瑰故事双麻花辫造型",
-      "onboard_time": 1689217112,
-      "rank": 34,
-      "category": "影视,时尚"
     },
     {
       "raw_hot": 301084,
@@ -5491,6 +5547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282004,
+      "num": 282004,
+      "word": "白敬亭王鹤棣侯明昊打篮球路透",
+      "onboard_time": 1689217172,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281468,
       "num": 281468,
       "word": "一个不会离职的办公桌长啥样",
@@ -5547,6 +5611,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 278066,
+      "num": 278066,
+      "word": "清华博士花1月自制极光向女友求婚",
+      "onboard_time": 1689219212,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277810,
       "num": 277810,
       "word": "玉骨遥评价",
@@ -5593,14 +5665,6 @@
       "onboard_time": 1689161852,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274747,
-      "num": 274747,
-      "word": "白敬亭王鹤棣侯明昊打篮球路透",
-      "onboard_time": 1689217172,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 274698,
@@ -5777,6 +5841,14 @@
       "onboard_time": 1689076114,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 265631,
+      "num": 265631,
+      "word": "女生称合租男室友用管道内窥镜偷拍",
+      "onboard_time": 1689219453,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265323,
@@ -6121,6 +6193,14 @@
       "onboard_time": 1689039455,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247189,
+      "num": 247189,
+      "word": "重度自闭症男孩靠吹气球成网红",
+      "onboard_time": 1689219092,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247073,
@@ -6659,6 +6739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216668,
+      "num": 216668,
+      "word": "给猪备食 解压",
+      "onboard_time": 1689218854,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216631,
       "num": 216631,
       "word": "爸爸开家长会主打有其父必有其子",
@@ -6787,14 +6875,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 210658,
-      "num": 210658,
-      "word": "第一次见猫用香肠洗手的",
-      "onboard_time": 1689217592,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 209859,
       "num": 209859,
       "word": "大爷碰瓷小伙要五千被路过男子追着骂",
@@ -6883,14 +6963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205349,
-      "num": 205349,
-      "word": "广州平均月薪10883元",
-      "onboard_time": 1689217772,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 205059,
       "num": 205059,
       "word": "顾九思劫法场救叶世安",
@@ -6905,6 +6977,14 @@
       "onboard_time": 1689213813,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 204293,
+      "num": 204293,
+      "word": "EXO麦克风高度",
+      "onboard_time": 1689219515,
+      "rank": 48,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 203359,
@@ -7025,6 +7105,14 @@
       "onboard_time": 1688914234,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200105,
+      "num": 200105,
+      "word": "爱宝真的很相信姜爸爸",
+      "onboard_time": 1689219631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199743,
@@ -7883,6 +7971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123771,
+      "num": 503585,
+      "word": "厨房做饭居然会中暑",
+      "onboard_time": 1689217710,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121509,
       "num": 121509,
       "word": "张萌泳装照",
@@ -8033,14 +8129,6 @@
       "onboard_time": 1689163592,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 92216,
-      "num": 200775,
-      "word": "厨房做饭居然会中暑",
-      "onboard_time": 1689217710,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89014,
