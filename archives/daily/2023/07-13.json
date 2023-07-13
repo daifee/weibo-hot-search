@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689232652839,
+  "endTime": 1689233660940,
   "band_list": [
     {
       "raw_hot": 3052648,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1115310,
-      "num": 448611,
+      "num": 473310,
       "word": "江苏镇江一飞机坠落泥地中",
       "onboard_time": 1689229594,
       "rank": 30,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 919286,
+      "num": 462789,
+      "word": "贾静雯和高圆圆每年都会见几次",
+      "onboard_time": 1689230499,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 889203,
       "num": 889203,
       "word": "清华博士花1月自制极光向女友求婚",
@@ -299,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 831744,
+      "num": 831744,
+      "word": "在家族群里发录取通知书照片",
+      "onboard_time": 1689230313,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 827133,
       "num": 827133,
       "word": "马嘉祺电梯显示18楼",
@@ -331,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 718317,
-      "num": 236490,
-      "word": "贾静雯和高圆圆每年都会见几次",
-      "onboard_time": 1689230499,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 726653,
+      "num": 726653,
+      "word": "女子请婚假被辞退老板说还得请产假",
+      "onboard_time": 1689228394,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 704373,
@@ -427,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 572833,
-      "num": 431753,
-      "word": "在家族群里发录取通知书照片",
-      "onboard_time": 1689230313,
-      "rank": 44,
-      "category": "社会新闻,教育"
+      "raw_hot": 574710,
+      "num": 390302,
+      "word": "女子买69平公寓37平是公摊",
+      "onboard_time": 1689232471,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 571911,
@@ -464,14 +480,6 @@
       "word": "38度高温下特警一句话让人破防",
       "onboard_time": 1689178649,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556566,
-      "num": 556566,
-      "word": "女子请婚假被辞退老板说还得请产假",
-      "onboard_time": 1689228394,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -635,6 +643,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 433971,
+      "num": 433971,
+      "word": "迪丽热巴吉娜爱丽丝热聊",
+      "onboard_time": 1689229470,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 428325,
+      "num": 428325,
+      "word": "欢颜",
+      "onboard_time": 1689231512,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 425837,
       "num": 425837,
       "word": "孟宴臣身体状况伏笔",
@@ -665,14 +689,6 @@
       "onboard_time": 1689163772,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 413345,
-      "num": 413345,
-      "word": "迪丽热巴吉娜爱丽丝热聊",
-      "onboard_time": 1689229470,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 412177,
@@ -824,14 +840,6 @@
       "word": "长相思",
       "onboard_time": 1689176612,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 337076,
-      "num": 337076,
-      "word": "欢颜",
-      "onboard_time": 1689231512,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -995,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279219,
+      "num": 257084,
+      "word": "贾静雯回应修杰楷pick秋瓷炫",
+      "onboard_time": 1689233372,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277079,
       "num": 277079,
       "word": "迪丽热巴花裙子",
@@ -1017,6 +1033,22 @@
       "onboard_time": 1689225453,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276599,
+      "num": 276599,
+      "word": "王心凌回复徐梦桃",
+      "onboard_time": 1689232771,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 275821,
+      "num": 275821,
+      "word": "医生建议空调最好调到26℃",
+      "onboard_time": 1689233312,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274164,
@@ -1059,6 +1091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 263729,
+      "num": 263729,
+      "word": "徐梦洁刘宇演陈小希江辰",
+      "onboard_time": 1689232354,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262353,
       "num": 262353,
       "word": "哈基米大哥独自打针",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1689220894,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256084,
+      "num": 256084,
+      "word": "这周奔跑吧还播吗",
+      "onboard_time": 1689232593,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 254620,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1689219515,
       "rank": 48,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 235237,
+      "num": 235237,
+      "word": "老人寻亲75年终于找到烈士哥哥",
+      "onboard_time": 1689233192,
+      "rank": 33,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 234095,
@@ -1219,14 +1275,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 222775,
-      "num": 222775,
-      "word": "女子买69平公寓37平是公摊",
-      "onboard_time": 1689232471,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 222197,
       "num": 222197,
       "word": "完达山一号壮了不少",
@@ -1259,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218449,
+      "num": 218449,
+      "word": "白血病患儿父亲求助5名武警捐血小板",
+      "onboard_time": 1689232711,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217035,
       "num": 217035,
       "word": "鹿晗知道关晓彤支持德国队吗",
@@ -1281,6 +1337,30 @@
       "onboard_time": 1689216091,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214963,
+      "num": 214963,
+      "word": "三国杀赚的钱",
+      "onboard_time": 1689233133,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 214552,
+      "num": 214552,
+      "word": "熊猫牌黑芝麻汤圆",
+      "onboard_time": 1689232894,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213985,
+      "num": 213985,
+      "word": "张百乔老婆回应被造黄谣",
+      "onboard_time": 1689232290,
+      "rank": 44,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 208691,
@@ -1315,6 +1395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 200291,
+      "num": 200291,
+      "word": "父亲留给女儿的最后一份礼物",
+      "onboard_time": 1689232894,
+      "rank": 45,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 199453,
       "num": 199453,
       "word": "这就是许沁要的自由",
@@ -1329,6 +1417,14 @@
       "onboard_time": 1689201859,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197722,
+      "num": 197722,
+      "word": "张百乔老婆付费进吃瓜群保留证据",
+      "onboard_time": 1689233552,
+      "rank": 46,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 194117,
@@ -1347,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189926,
+      "num": 189926,
+      "word": "舍得让你爱的人受苦",
+      "onboard_time": 1689232711,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189504,
       "num": 189504,
       "word": "安乐传山水映世海报",
@@ -1361,14 +1465,6 @@
       "onboard_time": 1689226953,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187587,
-      "num": 187587,
-      "word": "徐梦洁刘宇演陈小希江辰",
-      "onboard_time": 1689232354,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 187015,
@@ -1427,14 +1523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171326,
-      "num": 171326,
-      "word": "张百乔老婆回应被造黄谣",
-      "onboard_time": 1689232290,
-      "rank": 44,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 169631,
       "num": 169631,
       "word": "突然发现我不舍得爱自己",
@@ -1481,14 +1569,6 @@
       "onboard_time": 1689156871,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150969,
-      "num": 150969,
-      "word": "这周奔跑吧还播吗",
-      "onboard_time": 1689232593,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 149892,
@@ -1665,6 +1745,14 @@
       "onboard_time": 1689183439,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44444,
+      "num": 849451,
+      "word": "高温下坚守的人",
+      "onboard_time": 1689232833,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41220,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1689233660940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1417358,
+        "num": 1417358,
+        "word": "阿娇网名是永不让你失望的脸",
+        "onboard_time": 1689227430,
+        "rank": 0,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 908354,
+        "num": 908354,
+        "word": "魏大勋为了背影像杨洋使劲减肥",
+        "onboard_time": 1689220475,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44444,
+        "num": 849451,
+        "word": "高温下坚守的人",
+        "onboard_time": 1689232833,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836444,
+        "num": 836444,
+        "word": "茉酸奶回应高价酸奶",
+        "onboard_time": 1689228030,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 831744,
+        "num": 831744,
+        "word": "在家族群里发录取通知书照片",
+        "onboard_time": 1689230313,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 726653,
+        "num": 726653,
+        "word": "女子请婚假被辞退老板说还得请产假",
+        "onboard_time": 1689228394,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665705,
+        "num": 665705,
+        "word": "李白",
+        "onboard_time": 1689228273,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 664959,
+        "num": 664959,
+        "word": "赵露思陈芊芊时期体重",
+        "onboard_time": 1689226292,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493421,
+        "num": 493421,
+        "word": "护士一把接过60斤男童飞奔到抢救室",
+        "onboard_time": 1689230134,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488109,
+        "num": 488109,
+        "word": "易梦玲不像是第一次演戏",
+        "onboard_time": 1689226292,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1522855,
+        "num": 483179,
+        "word": "女子被砸死亡当晚嫌疑人共抛物3次",
+        "onboard_time": 1689224676,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071268,
+        "num": 473310,
+        "word": "江苏镇江一飞机坠落泥地中",
+        "onboard_time": 1689229594,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919286,
+        "num": 462789,
+        "word": "贾静雯和高圆圆每年都会见几次",
+        "onboard_time": 1689230499,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913284,
+        "num": 458242,
+        "word": "腐烂在床上正在流行",
+        "onboard_time": 1689216571,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451751,
+        "num": 451751,
+        "word": "邓伦再成被执行人",
+        "onboard_time": 1689219453,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 444965,
+        "num": 444965,
+        "word": "于正回应吴谨言两年没戏拍",
+        "onboard_time": 1689221435,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433971,
+        "num": 433971,
+        "word": "迪丽热巴吉娜爱丽丝热聊",
+        "onboard_time": 1689229470,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428325,
+        "num": 428325,
+        "word": "欢颜",
+        "onboard_time": 1689231512,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400980,
+        "num": 400980,
+        "word": "君有疾否",
+        "onboard_time": 1689227850,
+        "rank": 18,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 398036,
+        "num": 398036,
+        "word": "井川里予回应近照",
+        "onboard_time": 1689210755,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574710,
+        "num": 390302,
+        "word": "女子买69平公寓37平是公摊",
+        "onboard_time": 1689232471,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 502517,
+        "num": 371641,
+        "word": "高温天妈妈将电扇让给孩子被热死",
+        "onboard_time": 1689221734,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286032,
+        "num": 286032,
+        "word": "长相思排播",
+        "onboard_time": 1689226712,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276599,
+        "num": 276599,
+        "word": "王心凌回复徐梦桃",
+        "onboard_time": 1689232771,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275821,
+        "num": 275821,
+        "word": "医生建议空调最好调到26℃",
+        "onboard_time": 1689233312,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269759,
+        "num": 269759,
+        "word": "周杰伦福州演唱会审批通过",
+        "onboard_time": 1689230313,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264411,
+        "num": 264411,
+        "word": "奔跑吧",
+        "onboard_time": 1689219693,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263729,
+        "num": 263729,
+        "word": "徐梦洁刘宇演陈小希江辰",
+        "onboard_time": 1689232354,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259988,
+        "num": 259988,
+        "word": "爱宝双胞胎幼崽吃奶",
+        "onboard_time": 1689225097,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257228,
+        "num": 257228,
+        "word": "4岁宠物鸡被咬伤兽医缝40针救活",
+        "onboard_time": 1689229772,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279219,
+        "num": 257084,
+        "word": "贾静雯回应修杰楷pick秋瓷炫",
+        "onboard_time": 1689233372,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256084,
+        "num": 256084,
+        "word": "这周奔跑吧还播吗",
+        "onboard_time": 1689232593,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237377,
+        "num": 237377,
+        "word": "经常看书和不看书有什么区别",
+        "onboard_time": 1689223536,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235237,
+        "num": 235237,
+        "word": "老人寻亲75年终于找到烈士哥哥",
+        "onboard_time": 1689233192,
+        "rank": 33,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 231773,
+        "num": 231773,
+        "word": "谢娜看三国半夜给陆毅打电话",
+        "onboard_time": 1689226535,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224313,
+        "num": 224313,
+        "word": "阿沙 性教育四季的变化",
+        "onboard_time": 1689222877,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224086,
+        "num": 224086,
+        "word": "北京平均月薪13438元",
+        "onboard_time": 1689220715,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 218449,
+        "num": 218449,
+        "word": "白血病患儿父亲求助5名武警捐血小板",
+        "onboard_time": 1689232711,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214963,
+        "num": 214963,
+        "word": "三国杀赚的钱",
+        "onboard_time": 1689233133,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214552,
+        "num": 214552,
+        "word": "熊猫牌黑芝麻汤圆",
+        "onboard_time": 1689232894,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213985,
+        "num": 213985,
+        "word": "张百乔老婆回应被造黄谣",
+        "onboard_time": 1689232290,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1392591,
+        "num": 213747,
+        "word": "江苏盐城轿车撞人事故致2死6伤",
+        "onboard_time": 1689230313,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 211805,
+        "num": 211805,
+        "word": "张一山说拍家有儿女不背词一条过",
+        "onboard_time": 1689226953,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203155,
+        "num": 203155,
+        "word": "恭喜他们结婚了",
+        "onboard_time": 1689210993,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 202262,
+        "num": 202262,
+        "word": "宋代古莲开花了",
+        "onboard_time": 1689222637,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200291,
+        "num": 200291,
+        "word": "父亲留给女儿的最后一份礼物",
+        "onboard_time": 1689232894,
+        "rank": 45,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 197722,
+        "num": 197722,
+        "word": "张百乔老婆付费进吃瓜群保留证据",
+        "onboard_time": 1689233552,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 195707,
+        "num": 195707,
+        "word": "刘诗诗孔雀蓝眼妆",
+        "onboard_time": 1689225992,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192300,
+        "num": 192300,
+        "word": "广汽三菱全员信宣布停产裁员",
+        "onboard_time": 1689231631,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189926,
+        "num": 189926,
+        "word": "舍得让你爱的人受苦",
+        "onboard_time": 1689232711,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#千年古都京彩焕新#"
+    }
+  }
+}
