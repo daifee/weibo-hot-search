@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689248038059,
+  "endTime": 1689251987779,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1651004,
+      "num": 1651004,
+      "word": "容易导致眼睛度数上涨的原因",
+      "onboard_time": 1689245134,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1643898,
       "num": 281966,
       "word": "江苏盐城轿车撞人事故致2死6伤",
@@ -721,6 +729,14 @@
       "onboard_time": 1689132395,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1530511,
+      "num": 1530511,
+      "word": "魏大勋直播",
+      "onboard_time": 1689250952,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1527981,
@@ -963,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1267095,
+      "num": 1267095,
+      "word": "张元英胳膊缝了七针",
+      "onboard_time": 1689251013,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1251334,
       "num": 1251334,
       "word": "奔跑吧",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1689121594,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1174998,
+      "num": 368141,
+      "word": "魏大勋连夜买了个黑衬衫穿上",
+      "onboard_time": 1689251013,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1164405,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1688983653,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1093712,
+      "num": 1093712,
+      "word": "长风渡魔改",
+      "onboard_time": 1689249452,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1092715,
@@ -1395,8 +1435,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1017390,
-      "num": 1017390,
+      "raw_hot": 1017987,
+      "num": 1017987,
       "word": "杨洋王楚然扫楼",
       "onboard_time": 1689245794,
       "rank": 5,
@@ -1747,12 +1787,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 897509,
+      "num": 897509,
+      "word": "李斯丹妮给王宝强连发20条信息",
+      "onboard_time": 1689249331,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 896825,
       "num": 896825,
       "word": "因为我男朋友开了家螺蛳粉店",
       "onboard_time": 1688905529,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 891320,
+      "num": 364962,
+      "word": "中医",
+      "onboard_time": 1689248611,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 889216,
@@ -1841,14 +1897,6 @@
       "onboard_time": 1689137619,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 872986,
-      "num": 872986,
-      "word": "容易导致眼睛度数上涨的原因",
-      "onboard_time": 1689245134,
-      "rank": 13,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 871433,
@@ -2851,6 +2899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 600159,
+      "num": 340467,
+      "word": "永劫无间",
+      "onboard_time": 1689251915,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 598722,
       "num": 357200,
       "word": "冉莹颖让两个儿子独自出国",
@@ -3491,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503986,
+      "num": 361625,
+      "word": "魏大勋没去扫楼",
+      "onboard_time": 1689248310,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 502787,
       "num": 502787,
       "word": "黄牛招985学生抢林俊杰演唱会门票",
@@ -3579,6 +3643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 492636,
+      "num": 354528,
+      "word": "49岁何炅唱跳水平",
+      "onboard_time": 1689251376,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 492543,
       "num": 492543,
       "word": "朱一龙文咏珊沙滩戏全是心眼",
@@ -3611,6 +3683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 488815,
+      "num": 352132,
+      "word": "签售姐林林疑似卷款跑路",
+      "onboard_time": 1689247950,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488427,
       "num": 389283,
       "word": "BLACKPINK会不会解散",
@@ -3641,6 +3721,14 @@
       "onboard_time": 1689222217,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486042,
+      "num": 486042,
+      "word": "上海报业集团程峰被查",
+      "onboard_time": 1689249211,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485594,
@@ -4211,6 +4299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 434682,
+      "num": 339475,
+      "word": "男子猥亵未成年不足10秒被判无罪",
+      "onboard_time": 1689246391,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434517,
       "num": 355679,
       "word": "重庆虐猫大学生已做精神鉴定",
@@ -4529,6 +4625,14 @@
       "onboard_time": 1689030322,
       "rank": 8,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 412596,
+      "num": 334244,
+      "word": "魏大勋是真听劝",
+      "onboard_time": 1689251672,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 411306,
@@ -5283,6 +5387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 348152,
+      "num": 289149,
+      "word": "花23万布置户外婚礼变成了闹剧",
+      "onboard_time": 1689251013,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346132,
       "num": 346132,
       "word": "CA1524航班乘客讲述颠簸经过",
@@ -5859,6 +5971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304300,
+      "num": 304300,
+      "word": "网传花儿与少年5拟邀迪丽热巴刘耀文",
+      "onboard_time": 1689251497,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303694,
       "num": 303694,
       "word": "杨幂侧边麻花辫",
@@ -5889,6 +6009,14 @@
       "onboard_time": 1688972070,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302048,
+      "num": 302048,
+      "word": "EXO又打歌了",
+      "onboard_time": 1689248791,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 301084,
@@ -5937,6 +6065,14 @@
       "onboard_time": 1688960011,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297683,
+      "num": 297683,
+      "word": "敖子逸回应嘴硬",
+      "onboard_time": 1689249390,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 297377,
@@ -6153,6 +6289,14 @@
       "onboard_time": 1689209796,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287739,
+      "num": 287739,
+      "word": "为什么大家不愿意去泰国旅游了",
+      "onboard_time": 1689251497,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 287401,
@@ -6875,14 +7019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255396,
-      "num": 255396,
-      "word": "男子猥亵未成年不足10秒被判无罪",
-      "onboard_time": 1689246391,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255113,
       "num": 255113,
       "word": "被劝推拿才是出路的盲人女孩硕士毕业了",
@@ -7211,6 +7347,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 239835,
+      "num": 289688,
+      "word": "第一次见玉米头长满的玉米",
+      "onboard_time": 1689249211,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239341,
       "num": 239341,
       "word": "你们结婚的话会迁户口吗",
@@ -7313,6 +7457,14 @@
       "onboard_time": 1688993851,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233440,
+      "num": 233440,
+      "word": "dino认证dino汉堡",
+      "onboard_time": 1689248252,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 232708,
@@ -7857,6 +8009,14 @@
       "onboard_time": 1688970812,
       "rank": 38,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 209586,
+      "num": 209586,
+      "word": "鹿晗工作室称只是临时故障",
+      "onboard_time": 1689250952,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 209205,
@@ -8739,6 +8899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168787,
+      "num": 215799,
+      "word": "被低估的平价老国货",
+      "onboard_time": 1689250173,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 168559,
       "num": 168559,
       "word": "EXO歌曲串烧",
@@ -8891,14 +9059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157376,
-      "num": 157376,
-      "word": "签售姐林林疑似卷款跑路",
-      "onboard_time": 1689247950,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157224,
       "num": 157224,
       "word": "雨滴的形状更像汉堡包",
@@ -8929,6 +9089,14 @@
       "onboard_time": 1689001116,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152816,
+      "num": 152816,
+      "word": "AG对战DYG",
+      "onboard_time": 1689251978,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 151523,
@@ -8979,12 +9147,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147644,
+      "num": 147644,
+      "word": "迪丽热巴螺旋式灭蚊",
+      "onboard_time": 1689248072,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147491,
       "num": 163243,
       "word": "司机斑马线前礼让一家人整齐鞠躬致谢",
       "onboard_time": 1688978193,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147468,
+      "num": 147468,
+      "word": "EDG胜者组对阵BLG",
+      "onboard_time": 1689251978,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 145878,
@@ -9611,8 +9795,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5865,
-      "num": 898800,
+      "raw_hot": 10789,
+      "num": 1342403,
       "word": "大国之大也有大国之重",
       "onboard_time": 1689237335,
       "rank": 2,

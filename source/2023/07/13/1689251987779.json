@@ -1,0 +1,410 @@
+{
+  "runTime": 1689251987779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651004,
+        "num": 1651004,
+        "word": "容易导致眼睛度数上涨的原因",
+        "onboard_time": 1689245134,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1530511,
+        "num": 1530511,
+        "word": "魏大勋直播",
+        "onboard_time": 1689250952,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10789,
+        "num": 1342403,
+        "word": "大国之大也有大国之重",
+        "onboard_time": 1689237335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267095,
+        "num": 1267095,
+        "word": "张元英胳膊缝了七针",
+        "onboard_time": 1689251013,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1093712,
+        "num": 1093712,
+        "word": "长风渡魔改",
+        "onboard_time": 1689249452,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1017987,
+        "num": 1017987,
+        "word": "杨洋王楚然扫楼",
+        "onboard_time": 1689245794,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 897509,
+        "num": 897509,
+        "word": "李斯丹妮给王宝强连发20条信息",
+        "onboard_time": 1689249331,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668356,
+        "num": 668356,
+        "word": "我爹一条朋友圈点赞人数",
+        "onboard_time": 1689240934,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 486042,
+        "num": 486042,
+        "word": "上海报业集团程峰被查",
+        "onboard_time": 1689249211,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369325,
+        "num": 369325,
+        "word": "爱宝双胞胎女儿喝奶画面",
+        "onboard_time": 1689238891,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174998,
+        "num": 368141,
+        "word": "魏大勋连夜买了个黑衬衫穿上",
+        "onboard_time": 1689251013,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 935418,
+        "num": 366841,
+        "word": "王鹤棣肚子",
+        "onboard_time": 1689243993,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891320,
+        "num": 364962,
+        "word": "中医",
+        "onboard_time": 1689248611,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503986,
+        "num": 361625,
+        "word": "魏大勋没去扫楼",
+        "onboard_time": 1689248310,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361519,
+        "num": 361519,
+        "word": "女子买69平公寓37平是公摊",
+        "onboard_time": 1689232471,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 492636,
+        "num": 354528,
+        "word": "49岁何炅唱跳水平",
+        "onboard_time": 1689251376,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488815,
+        "num": 352132,
+        "word": "签售姐林林疑似卷款跑路",
+        "onboard_time": 1689247950,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344099,
+        "num": 344099,
+        "word": "夫妻俩吃菌中毒报警称家里全是飞虫",
+        "onboard_time": 1689242795,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268815,
+        "num": 343475,
+        "word": "长期吹空调不能吹到的部位",
+        "onboard_time": 1689240394,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255485,
+        "num": 342572,
+        "word": "安徽这所中学录取榜最前面的不是清北",
+        "onboard_time": 1689243577,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 600159,
+        "num": 340467,
+        "word": "永劫无间",
+        "onboard_time": 1689251915,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 434682,
+        "num": 339475,
+        "word": "男子猥亵未成年不足10秒被判无罪",
+        "onboard_time": 1689246391,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429441,
+        "num": 337723,
+        "word": "宋焰许沁结婚了",
+        "onboard_time": 1689240394,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244571,
+        "num": 336364,
+        "word": "男子嫖娼前被抓不服被处罚要求撤销",
+        "onboard_time": 1689242314,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412596,
+        "num": 334244,
+        "word": "魏大勋是真听劝",
+        "onboard_time": 1689251672,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333445,
+        "num": 333445,
+        "word": "安乐传今天连更了三集",
+        "onboard_time": 1689246332,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304300,
+        "num": 304300,
+        "word": "网传花儿与少年5拟邀迪丽热巴刘耀文",
+        "onboard_time": 1689251497,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302048,
+        "num": 302048,
+        "word": "EXO又打歌了",
+        "onboard_time": 1689248791,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297683,
+        "num": 297683,
+        "word": "敖子逸回应嘴硬",
+        "onboard_time": 1689249390,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239835,
+        "num": 289688,
+        "word": "第一次见玉米头长满的玉米",
+        "onboard_time": 1689249211,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348152,
+        "num": 289149,
+        "word": "花23万布置户外婚礼变成了闹剧",
+        "onboard_time": 1689251013,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287739,
+        "num": 287739,
+        "word": "为什么大家不愿意去泰国旅游了",
+        "onboard_time": 1689251497,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 67880,
+        "num": 285172,
+        "word": "这些录取通知书里满是骄傲和期许",
+        "onboard_time": 1689237573,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284601,
+        "num": 284601,
+        "word": "余承恩角色比人红",
+        "onboard_time": 1689246151,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262295,
+        "num": 262295,
+        "word": "刘诗诗看了都得愣一下",
+        "onboard_time": 1689244534,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242153,
+        "num": 242153,
+        "word": "你毛囊也挺好的",
+        "onboard_time": 1689242553,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233440,
+        "num": 233440,
+        "word": "dino认证dino汉堡",
+        "onboard_time": 1689248252,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223560,
+        "num": 223560,
+        "word": "人际关系中最伤人的五个字",
+        "onboard_time": 1689242673,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168787,
+        "num": 215799,
+        "word": "被低估的平价老国货",
+        "onboard_time": 1689250173,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 168252,
+        "num": 211375,
+        "word": "微博发布热搜半年报",
+        "onboard_time": 1689247710,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 233121,
+        "num": 210523,
+        "word": "时代峰峻请保持这个水平",
+        "onboard_time": 1689245612,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209586,
+        "num": 209586,
+        "word": "鹿晗工作室称只是临时故障",
+        "onboard_time": 1689250952,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199917,
+        "num": 199917,
+        "word": "曾少年",
+        "onboard_time": 1689250774,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179175,
+        "num": 179175,
+        "word": "蒋依依敖子逸真的好嗑",
+        "onboard_time": 1689235113,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170065,
+        "num": 170065,
+        "word": "刘耀文到达广州",
+        "onboard_time": 1689247470,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167282,
+        "num": 167282,
+        "word": "江苏镇江一飞机坠落泥地中",
+        "onboard_time": 1689229594,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152816,
+        "num": 152816,
+        "word": "AG对战DYG",
+        "onboard_time": 1689251978,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147644,
+        "num": 147644,
+        "word": "迪丽热巴螺旋式灭蚊",
+        "onboard_time": 1689248072,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147468,
+        "num": 147468,
+        "word": "EDG胜者组对阵BLG",
+        "onboard_time": 1689251978,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147206,
+        "num": 147206,
+        "word": "高温天妈妈将电扇让给孩子被热死",
+        "onboard_time": 1689221734,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#8个数字看我国网络强国建设成就#"
+    }
+  }
+}
