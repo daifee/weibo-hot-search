@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689257865997,
+  "endTime": 1689258948081,
   "band_list": [
     {
       "raw_hot": 3119402,
@@ -195,20 +195,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1376156,
+      "num": 1376156,
+      "word": "杨洋王楚然好像婚礼迎宾",
+      "onboard_time": 1689253235,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1332796,
       "num": 1332796,
       "word": "江苏镇江一飞机坠落泥地中",
       "onboard_time": 1689229594,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1303601,
-      "num": 1062259,
-      "word": "杨洋王楚然好像婚礼迎宾",
-      "onboard_time": 1689253235,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1289490,
@@ -491,6 +491,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 844951,
+      "num": 844951,
+      "word": "王源任敏新剧收视率",
+      "onboard_time": 1689257797,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 841229,
       "num": 587038,
       "word": "安乐传空降了",
@@ -539,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 763235,
+      "num": 763235,
+      "word": "电梯下坠积水渗入全家险被淹死",
+      "onboard_time": 1689256117,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747268,
       "num": 620934,
       "word": "49岁何炅唱跳水平",
@@ -561,6 +577,14 @@
       "onboard_time": 1689228394,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 722515,
+      "num": 722515,
+      "word": "郑州一小学强制家长轮流站岗",
+      "onboard_time": 1689254856,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 720389,
@@ -707,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 617634,
+      "num": 617634,
+      "word": "孟宴臣你认识林萧吗",
+      "onboard_time": 1689257918,
+      "rank": 12,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 611944,
       "num": 611944,
       "word": "你毛囊也挺好的",
@@ -731,14 +763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 598956,
-      "num": 598956,
-      "word": "电梯下坠积水渗入全家险被淹死",
-      "onboard_time": 1689256117,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 590848,
       "num": 590848,
       "word": "余华真的很懂年轻人",
@@ -761,6 +785,14 @@
       "onboard_time": 1689234873,
       "rank": 7,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 578746,
+      "num": 474808,
+      "word": "安乐传口碑",
+      "onboard_time": 1689257859,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 571911,
@@ -851,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511975,
+      "num": 415419,
+      "word": "旅游时发朋友圈会让人反感吗",
+      "onboard_time": 1689255578,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 507474,
       "num": 507474,
       "word": "谁有后羿的电话",
@@ -896,14 +936,6 @@
       "word": "录取通知书里藏了一片银杏树林",
       "onboard_time": 1689210335,
       "rank": 17,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 493781,
-      "num": 613062,
-      "word": "郑州一小学强制家长轮流站岗",
-      "onboard_time": 1689254856,
-      "rank": 49,
       "category": "教育,社会新闻"
     },
     {
@@ -961,6 +993,14 @@
       "onboard_time": 1689223773,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478352,
+      "num": 478352,
+      "word": "高考钉子户唐尚珺公布高考志愿",
+      "onboard_time": 1689257616,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472261,
@@ -1203,12 +1243,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 416524,
-      "num": 378752,
-      "word": "旅游时发朋友圈会让人反感吗",
-      "onboard_time": 1689255578,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 416707,
+      "num": 416707,
+      "word": "还记得2008年发生了什么吗",
+      "onboard_time": 1689257736,
+      "rank": 38,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 412769,
+      "num": 411488,
+      "word": "OMG战胜EDG",
+      "onboard_time": 1689256657,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 412177,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1689228452,
       "rank": 21,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 410976,
+      "num": 410976,
+      "word": "央八上半年收视TOP10",
+      "onboard_time": 1689256717,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 402791,
@@ -1483,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328381,
-      "num": 328381,
-      "word": "央八上半年收视TOP10",
-      "onboard_time": 1689256717,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323492,
       "num": 323492,
       "word": "试用期内有必要装饰工位吗",
@@ -1747,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271376,
+      "num": 271376,
+      "word": "萌兰萌二拆完萌大也开始拆了",
+      "onboard_time": 1689256417,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270539,
       "num": 270539,
       "word": "4岁宠物鸡被咬伤兽医缝40针救活",
@@ -1787,14 +1843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266591,
-      "num": 266591,
-      "word": "OMG战胜EDG",
-      "onboard_time": 1689256657,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 264929,
       "num": 264929,
       "word": "于正评价陈哲远",
@@ -1803,20 +1851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264774,
+      "num": 264774,
+      "word": "茉酸奶应该叫茉奶昔",
+      "onboard_time": 1689258037,
+      "rank": 35,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 264632,
       "num": 264632,
       "word": "刘诗诗孔雀蓝眼妆",
       "onboard_time": 1689225992,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 263895,
-      "num": 263895,
-      "word": "萌兰萌二拆完萌大也开始拆了",
-      "onboard_time": 1689256417,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262353,
@@ -1833,6 +1881,14 @@
       "onboard_time": 1689252577,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261057,
+      "num": 261057,
+      "word": "玉骨遥",
+      "onboard_time": 1689258817,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 260658,
@@ -1963,20 +2019,20 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 234421,
+      "num": 234421,
+      "word": "为什么魏大勋外号叫大勋花",
+      "onboard_time": 1689258635,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234095,
       "num": 234095,
       "word": "时代少年团演唱会选在青岛的原因",
       "onboard_time": 1689216152,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233483,
-      "num": 233483,
-      "word": "还记得2008年发生了什么吗",
-      "onboard_time": 1689257736,
-      "rank": 38,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 233440,
@@ -2001,6 +2057,14 @@
       "onboard_time": 1689219934,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231518,
+      "num": 231518,
+      "word": "腊肠犬一生都在做平板支撑",
+      "onboard_time": 1689258218,
+      "rank": 42,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 230074,
@@ -2067,6 +2131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223405,
+      "num": 223405,
+      "word": "坐下去的时候眼里的光都消失了",
+      "onboard_time": 1689258701,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222197,
       "num": 222197,
       "word": "完达山一号壮了不少",
@@ -2089,14 +2161,6 @@
       "onboard_time": 1689158374,
       "rank": 32,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 220104,
-      "num": 220104,
-      "word": "高考钉子户唐尚珺公布高考志愿",
-      "onboard_time": 1689257616,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220009,
@@ -2291,14 +2355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198648,
-      "num": 198648,
-      "word": "王源任敏新剧收视率",
-      "onboard_time": 1689257797,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198402,
       "num": 192252,
       "word": "安乐传运镜",
@@ -2321,6 +2377,14 @@
       "onboard_time": 1689236973,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194926,
+      "num": 194926,
+      "word": "Newjeans可乐曲vsIVE可乐曲",
+      "onboard_time": 1689257674,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 194457,
@@ -2377,6 +2441,14 @@
       "onboard_time": 1689166116,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189343,
+      "num": 189343,
+      "word": "1岁宝宝被锁车内消防破窗救出帮吹脚丫",
+      "onboard_time": 1689258817,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188799,

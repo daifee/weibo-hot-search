@@ -1,0 +1,410 @@
+{
+  "runTime": 1689258948081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1770606,
+        "num": 1770606,
+        "word": "为什么大家不愿意去泰国旅游了",
+        "onboard_time": 1689251497,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1376156,
+        "num": 1376156,
+        "word": "杨洋王楚然好像婚礼迎宾",
+        "onboard_time": 1689253235,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28412,
+        "num": 1137351,
+        "word": "大国之大也有大国之重",
+        "onboard_time": 1689237335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2384275,
+        "num": 1136127,
+        "word": "魏大勋连夜买了个黑衬衫穿上",
+        "onboard_time": 1689251013,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1132158,
+        "num": 1132158,
+        "word": "杨澄出车祸昏迷",
+        "onboard_time": 1689255158,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1164251,
+        "num": 1059345,
+        "word": "魏大勋直播",
+        "onboard_time": 1689250952,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 871464,
+        "num": 871464,
+        "word": "DYG是怎么猝死的",
+        "onboard_time": 1689253474,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 844951,
+        "num": 844951,
+        "word": "王源任敏新剧收视率",
+        "onboard_time": 1689257797,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763235,
+        "num": 763235,
+        "word": "电梯下坠积水渗入全家险被淹死",
+        "onboard_time": 1689256117,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722515,
+        "num": 722515,
+        "word": "郑州一小学强制家长轮流站岗",
+        "onboard_time": 1689254856,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 766808,
+        "num": 707607,
+        "word": "张元英胳膊缝了七针",
+        "onboard_time": 1689251013,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618341,
+        "num": 618341,
+        "word": "长风渡魔改",
+        "onboard_time": 1689249452,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617634,
+        "num": 617634,
+        "word": "孟宴臣你认识林萧吗",
+        "onboard_time": 1689257918,
+        "rank": 12,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 588405,
+        "num": 588405,
+        "word": "女子称在购买3年服装店被杀熟70元",
+        "onboard_time": 1689252273,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478352,
+        "num": 478352,
+        "word": "高考钉子户唐尚珺公布高考志愿",
+        "onboard_time": 1689257616,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581974,
+        "num": 477158,
+        "word": "魏大勋说跟杨洋的眼神戏没赢过",
+        "onboard_time": 1689252214,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578746,
+        "num": 474808,
+        "word": "安乐传口碑",
+        "onboard_time": 1689257859,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466533,
+        "num": 466533,
+        "word": "容易导致眼睛度数上涨的原因",
+        "onboard_time": 1689245134,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 439541,
+        "num": 439541,
+        "word": "EXO再跳生命之树",
+        "onboard_time": 1689254616,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416707,
+        "num": 416707,
+        "word": "还记得2008年发生了什么吗",
+        "onboard_time": 1689257736,
+        "rank": 19,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 511975,
+        "num": 415419,
+        "word": "旅游时发朋友圈会让人反感吗",
+        "onboard_time": 1689255578,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434911,
+        "num": 415027,
+        "word": "王鹤棣肚子",
+        "onboard_time": 1689243993,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411510,
+        "num": 411510,
+        "word": "我爹一条朋友圈点赞人数",
+        "onboard_time": 1689240934,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412769,
+        "num": 411488,
+        "word": "OMG战胜EDG",
+        "onboard_time": 1689256657,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 380383,
+        "num": 411121,
+        "word": "中医",
+        "onboard_time": 1689248611,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410976,
+        "num": 410976,
+        "word": "央八上半年收视TOP10",
+        "onboard_time": 1689256717,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393027,
+        "num": 393027,
+        "word": "49岁何炅唱跳水平",
+        "onboard_time": 1689251376,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350724,
+        "num": 350724,
+        "word": "李斯丹妮给王宝强连发20条信息",
+        "onboard_time": 1689249331,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309878,
+        "num": 340846,
+        "word": "蔡依林照片中的两个女孩都长大了",
+        "onboard_time": 1689252816,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 267526,
+        "num": 340632,
+        "word": "爱宝双胞胎女儿喝奶画面",
+        "onboard_time": 1689238891,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340464,
+        "num": 340464,
+        "word": "花23万布置户外婚礼变成了闹剧",
+        "onboard_time": 1689251013,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289508,
+        "num": 289508,
+        "word": "张杰LESSERAFIM合照",
+        "onboard_time": 1689252456,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273714,
+        "num": 273714,
+        "word": "网传花儿与少年5拟邀迪丽热巴刘耀文",
+        "onboard_time": 1689251497,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271376,
+        "num": 271376,
+        "word": "萌兰萌二拆完萌大也开始拆了",
+        "onboard_time": 1689256417,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267484,
+        "num": 267484,
+        "word": "男子猥亵未成年不足10秒被判无罪",
+        "onboard_time": 1689246391,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264774,
+        "num": 264774,
+        "word": "茉酸奶应该叫茉奶昔",
+        "onboard_time": 1689258037,
+        "rank": 35,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 261057,
+        "num": 261057,
+        "word": "玉骨遥",
+        "onboard_time": 1689258817,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258073,
+        "num": 258073,
+        "word": "女子买69平公寓37平是公摊",
+        "onboard_time": 1689232471,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 257523,
+        "num": 257523,
+        "word": "长期吹空调不能吹到的部位",
+        "onboard_time": 1689240394,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240022,
+        "num": 240022,
+        "word": "男子嫖娼前被抓不服被处罚要求撤销",
+        "onboard_time": 1689242314,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239905,
+        "num": 239905,
+        "word": "种地吧第二季是要进厂了吗",
+        "onboard_time": 1689254735,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234421,
+        "num": 234421,
+        "word": "为什么魏大勋外号叫大勋花",
+        "onboard_time": 1689258635,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231518,
+        "num": 231518,
+        "word": "腊肠犬一生都在做平板支撑",
+        "onboard_time": 1689258218,
+        "rank": 42,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 223405,
+        "num": 223405,
+        "word": "坐下去的时候眼里的光都消失了",
+        "onboard_time": 1689258701,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210609,
+        "num": 210609,
+        "word": "人际关系中最伤人的五个字",
+        "onboard_time": 1689242673,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194926,
+        "num": 194926,
+        "word": "Newjeans可乐曲vsIVE可乐曲",
+        "onboard_time": 1689257674,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189343,
+        "num": 189343,
+        "word": "1岁宝宝被锁车内消防破窗救出帮吹脚丫",
+        "onboard_time": 1689258817,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189040,
+        "num": 189040,
+        "word": "安乐传",
+        "onboard_time": 1689244472,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188851,
+        "num": 188851,
+        "word": "LPL",
+        "onboard_time": 1689256957,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188067,
+        "num": 188067,
+        "word": "敖子逸回应嘴硬",
+        "onboard_time": 1689249390,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代成就巡礼#"
+    }
+  }
+}
