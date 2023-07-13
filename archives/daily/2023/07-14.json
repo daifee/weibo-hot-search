@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689275647768,
+  "endTime": 1689276845111,
   "band_list": [
     {
       "raw_hot": 2061854,
@@ -457,6 +457,14 @@
       "onboard_time": 1689273734,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 4973,
+      "num": 178257,
+      "word": "这些录取通知书里满是骄傲和期许",
+      "onboard_time": 1689237573,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
