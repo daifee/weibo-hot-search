@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689243614779,
+  "endTime": 1689244629095,
   "band_list": [
     {
       "raw_hot": 3052648,
@@ -235,8 +235,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1080154,
+      "num": 1080154,
+      "word": "王鹤棣的微博像朋友圈",
+      "onboard_time": 1689242974,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1076525,
-      "num": 1076525,
+      "num": 1312872,
       "word": "复旦现场领录取通知书名额20秒抢空",
       "onboard_time": 1689239495,
       "rank": 18,
@@ -267,6 +275,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1024555,
+      "num": 1024555,
+      "word": "我爹一条朋友圈点赞人数",
+      "onboard_time": 1689240934,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1010158,
       "num": 1010158,
       "word": "李咏女儿法图麦露背身材",
@@ -289,14 +305,6 @@
       "onboard_time": 1689210755,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 993543,
-      "num": 993543,
-      "word": "我爹一条朋友圈点赞人数",
-      "onboard_time": 1689240934,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 948078,
@@ -451,11 +459,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 699726,
+      "num": 439483,
+      "word": "男子嫖娼前被抓不服被处罚要求撤销",
+      "onboard_time": 1689242314,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680412,
       "num": 680412,
       "word": "张一山靠在关晓彤后背哭",
       "onboard_time": 1689206914,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 676889,
+      "num": 676889,
+      "word": "安乐传",
+      "onboard_time": 1689156573,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -473,14 +497,6 @@
       "onboard_time": 1689219092,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 663690,
-      "num": 663690,
-      "word": "王鹤棣的微博像朋友圈",
-      "onboard_time": 1689242974,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 660807,
@@ -611,6 +627,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 553236,
+      "num": 553236,
+      "word": "你毛囊也挺好的",
+      "onboard_time": 1689242553,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 552345,
       "num": 552345,
       "word": "护士一把接过60斤男童飞奔到抢救室",
@@ -625,14 +649,6 @@
       "onboard_time": 1689207995,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 533783,
-      "num": 439483,
-      "word": "男子嫖娼前被抓不服被处罚要求撤销",
-      "onboard_time": 1689242314,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533689,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504029,
+      "num": 504029,
+      "word": "王鹤棣肚子",
+      "onboard_time": 1689243993,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498815,
       "num": 498815,
       "word": "定价高昂的茉酸奶为何还会突然爆火",
@@ -705,6 +729,14 @@
       "onboard_time": 1689212732,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 483913,
+      "num": 483913,
+      "word": "人际关系中最伤人的五个字",
+      "onboard_time": 1689242673,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 480998,
@@ -899,6 +931,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 402791,
+      "num": 402791,
+      "word": "侵权易烊千玺小吃店被强执",
+      "onboard_time": 1689241413,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 400547,
       "num": 400547,
       "word": "田柾国韩素希MV吵架镜头",
@@ -907,11 +947,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 398778,
+      "num": 398778,
+      "word": "Knight",
+      "onboard_time": 1689242136,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 398235,
       "num": 398235,
       "word": "男子办离婚在民政局大厅打老婆",
       "onboard_time": 1689158913,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396373,
+      "num": 1036375,
+      "word": "爱宝双胞胎女儿喝奶画面",
+      "onboard_time": 1689238891,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -931,12 +987,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 386771,
-      "num": 386771,
-      "word": "你毛囊也挺好的",
-      "onboard_time": 1689242553,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 387173,
+      "num": 387173,
+      "word": "2023年上半年热搜爆了167次",
+      "onboard_time": 1689242974,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382626,
@@ -955,28 +1011,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 379834,
-      "num": 870125,
-      "word": "爱宝双胞胎女儿喝奶画面",
-      "onboard_time": 1689238891,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377791,
       "num": 345581,
       "word": "刘亦菲玫瑰故事双麻花辫造型",
       "onboard_time": 1689217112,
       "rank": 34,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 374803,
-      "num": 374803,
-      "word": "侵权易烊千玺小吃店被强执",
-      "onboard_time": 1689241413,
-      "rank": 17,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 374444,
@@ -1003,20 +1043,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368279,
+      "num": 341100,
+      "word": "夫妻俩吃菌中毒报警称家里全是飞虫",
+      "onboard_time": 1689242795,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363072,
       "num": 363072,
       "word": "许允真ins里的金珉奎",
       "onboard_time": 1689233792,
       "rank": 18,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 362778,
-      "num": 362778,
-      "word": "Knight",
-      "onboard_time": 1689242136,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 359764,
@@ -1163,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316906,
-      "num": 316906,
-      "word": "人际关系中最伤人的五个字",
-      "onboard_time": 1689242673,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 316509,
       "num": 316509,
       "word": "一直以为一罐奶粉能吃很久",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1689209796,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287225,
-      "num": 287225,
-      "word": "夫妻俩吃菌中毒报警称家里全是飞虫",
-      "onboard_time": 1689242795,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285368,
@@ -1347,12 +1371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274135,
+      "num": 274135,
+      "word": "魏大勋扫楼",
+      "onboard_time": 1689244472,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273703,
       "num": 273703,
       "word": "这周奔跑吧还播吗",
       "onboard_time": 1689232593,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270873,
+      "num": 902435,
+      "word": "安徽这所中学录取榜最前面的不是清北",
+      "onboard_time": 1689243577,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 270539,
@@ -1547,6 +1587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229765,
+      "num": 229765,
+      "word": "发现了e人和i人的区别",
+      "onboard_time": 1689243455,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228460,
       "num": 228460,
       "word": "张一山张慧雯对手戏",
@@ -1601,14 +1649,6 @@
       "onboard_time": 1689237214,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222342,
-      "num": 222342,
-      "word": "2023年上半年热搜爆了167次",
-      "onboard_time": 1689242974,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222197,
@@ -1699,6 +1739,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 210232,
+      "num": 210232,
+      "word": "敖子逸你在嘴硬什么",
+      "onboard_time": 1689241054,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208691,
       "num": 208691,
       "word": "安乐传首播战报",
@@ -1771,14 +1819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198462,
-      "num": 198462,
-      "word": "敖子逸你在嘴硬什么",
-      "onboard_time": 1689241054,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198402,
       "num": 192252,
       "word": "安乐传运镜",
@@ -1843,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189340,
+      "num": 189340,
+      "word": "如果魏大勋演王源哥哥",
+      "onboard_time": 1689244232,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188360,
       "num": 188360,
       "word": "未定事件簿",
@@ -1883,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180885,
+      "num": 180885,
+      "word": "咱老祖宗的脑子就是好使啊",
+      "onboard_time": 1689244292,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180354,
       "num": 180354,
       "word": "一到夏天我的手机belike",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1689174696,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175974,
+      "num": 175974,
+      "word": "买东西真不能太爽快",
+      "onboard_time": 1689244414,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 175850,
@@ -1940,7 +2004,7 @@
     },
     {
       "raw_hot": 163966,
-      "num": 1013725,
+      "num": 1095019,
       "word": "这些录取通知书里满是骄傲和期许",
       "onboard_time": 1689237573,
       "rank": 2,
@@ -1961,6 +2025,14 @@
       "onboard_time": 1689171158,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 159315,
+      "num": 159315,
+      "word": "刘诗诗看了都得愣一下",
+      "onboard_time": 1689244534,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158854,
@@ -2033,14 +2105,6 @@
       "onboard_time": 1689173917,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134452,
-      "num": 134452,
-      "word": "安徽这所中学录取榜最前面的不是清北",
-      "onboard_time": 1689243577,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 131244,
@@ -2209,14 +2273,6 @@
       "onboard_time": 1689196152,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34964,
-      "num": 34964,
-      "word": "安乐传",
-      "onboard_time": 1689156573,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 29797,
