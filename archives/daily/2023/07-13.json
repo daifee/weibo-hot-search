@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689255800663,
+  "endTime": 1689257865997,
   "band_list": [
     {
       "raw_hot": 3119402,
@@ -41,6 +41,14 @@
       "onboard_time": 1689224676,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2227794,
+      "num": 2227794,
+      "word": "为什么大家不愿意去泰国旅游了",
+      "onboard_time": 1689251497,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 2167364,
@@ -89,14 +97,6 @@
       "onboard_time": 1689173435,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1853997,
-      "num": 1853997,
-      "word": "为什么大家不愿意去泰国旅游了",
-      "onboard_time": 1689251497,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 1838513,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1303601,
+      "num": 1062259,
+      "word": "杨洋王楚然好像婚礼迎宾",
+      "onboard_time": 1689253235,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1289490,
       "num": 486347,
       "word": "张百乔老婆付费进吃瓜群保留证据",
@@ -249,6 +257,14 @@
       "onboard_time": 1689235954,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144182,
+      "num": 1144182,
+      "word": "杨澄出车祸昏迷",
+      "onboard_time": 1689255158,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 1135416,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 891189,
+      "num": 891189,
+      "word": "DYG是怎么猝死的",
+      "onboard_time": 1689253474,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 889203,
       "num": 889203,
       "word": "清华博士花1月自制极光向女友求婚",
@@ -499,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 791399,
-      "num": 791399,
-      "word": "DYG是怎么猝死的",
-      "onboard_time": 1689253474,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 777697,
       "num": 777697,
       "word": "宋焰给了孟宴臣10年机会",
@@ -520,14 +536,6 @@
       "word": "李白",
       "onboard_time": 1689228273,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 753981,
-      "num": 753981,
-      "word": "杨洋王楚然好像婚礼迎宾",
-      "onboard_time": 1689253235,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -723,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 598956,
+      "num": 598956,
+      "word": "电梯下坠积水渗入全家险被淹死",
+      "onboard_time": 1689256117,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590848,
       "num": 590848,
       "word": "余华真的很懂年轻人",
@@ -827,6 +843,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 513904,
+      "num": 513904,
+      "word": "EXO再跳生命之树",
+      "onboard_time": 1689254616,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507474,
       "num": 507474,
       "word": "谁有后羿的电话",
@@ -867,19 +891,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498658,
-      "num": 417429,
-      "word": "EXO再跳生命之树",
-      "onboard_time": 1689254616,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 494947,
       "num": 494947,
       "word": "录取通知书里藏了一片银杏树林",
       "onboard_time": 1689210335,
       "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 493781,
+      "num": 613062,
+      "word": "郑州一小学强制家长轮流站岗",
+      "onboard_time": 1689254856,
+      "rank": 49,
       "category": "教育,社会新闻"
     },
     {
@@ -963,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468459,
-      "num": 408714,
-      "word": "杨澄出车祸昏迷",
-      "onboard_time": 1689255158,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 465658,
       "num": 916016,
       "word": "朋友邀约玩上车却直奔缅甸",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1689216571,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456482,
+      "num": 409683,
+      "word": "这俩人在玩一种很新的游戏",
+      "onboard_time": 1689257436,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 455272,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1689163772,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416524,
+      "num": 378752,
+      "word": "旅游时发朋友圈会让人反感吗",
+      "onboard_time": 1689255578,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 412177,
@@ -1451,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328381,
+      "num": 328381,
+      "word": "央八上半年收视TOP10",
+      "onboard_time": 1689256717,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323492,
       "num": 323492,
       "word": "试用期内有必要装饰工位吗",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1689233133,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288484,
+      "num": 288484,
+      "word": "种地吧第二季是要进厂了吗",
+      "onboard_time": 1689254735,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 288393,
@@ -1739,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266591,
+      "num": 266591,
+      "word": "OMG战胜EDG",
+      "onboard_time": 1689256657,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264929,
       "num": 264929,
       "word": "于正评价陈哲远",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1689225992,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 263895,
+      "num": 263895,
+      "word": "萌兰萌二拆完萌大也开始拆了",
+      "onboard_time": 1689256417,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262353,
@@ -1827,6 +1891,14 @@
       "category": "综艺,影视"
     },
     {
+      "raw_hot": 249683,
+      "num": 249683,
+      "word": "LPL",
+      "onboard_time": 1689256957,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248874,
       "num": 248874,
       "word": "肖战祝毕业快乐前程似锦",
@@ -1897,6 +1969,14 @@
       "onboard_time": 1689216152,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233483,
+      "num": 233483,
+      "word": "还记得2008年发生了什么吗",
+      "onboard_time": 1689257736,
+      "rank": 38,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 233440,
@@ -2011,12 +2091,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 220219,
-      "num": 220219,
-      "word": "郑州一小学强制家长轮流站岗",
-      "onboard_time": 1689254856,
-      "rank": 49,
-      "category": "教育,社会新闻"
+      "raw_hot": 220104,
+      "num": 220104,
+      "word": "高考钉子户唐尚珺公布高考志愿",
+      "onboard_time": 1689257616,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220009,
@@ -2075,20 +2155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214371,
-      "num": 214371,
-      "word": "种地吧第二季是要进厂了吗",
-      "onboard_time": 1689254735,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213985,
       "num": 213985,
       "word": "张百乔老婆回应被造黄谣",
       "onboard_time": 1689232290,
       "rank": 44,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 213298,
+      "num": 213298,
+      "word": "来自祖国的奶爸照顾爱宝和幼崽",
+      "onboard_time": 1689256778,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 210232,
@@ -2208,6 +2288,14 @@
       "word": "这就是许沁要的自由",
       "onboard_time": 1689224796,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198648,
+      "num": 198648,
+      "word": "王源任敏新剧收视率",
+      "onboard_time": 1689257797,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -2435,6 +2523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 168010,
+      "num": 168010,
+      "word": "功夫熊猫对自己有高要求",
+      "onboard_time": 1689257137,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164426,
       "num": 164426,
       "word": "iG战胜WBG",
@@ -2561,14 +2657,6 @@
       "onboard_time": 1689173917,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 137573,
-      "num": 180532,
-      "word": "旅游时发朋友圈会让人反感吗",
-      "onboard_time": 1689255578,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 131244,
@@ -2747,7 +2835,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 32907,
+      "raw_hot": 32939,
       "num": 1458763,
       "word": "大国之大也有大国之重",
       "onboard_time": 1689237335,

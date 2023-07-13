@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689255800663,
+  "endTime": 1689257865997,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2227794,
+      "num": 2227794,
+      "word": "为什么大家不愿意去泰国旅游了",
+      "onboard_time": 1689251497,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 2220146,
       "num": 2220146,
       "word": "乔任梁父亲自曝住院",
@@ -529,14 +537,6 @@
       "onboard_time": 1689173435,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1853997,
-      "num": 1853997,
-      "word": "为什么大家不愿意去泰国旅游了",
-      "onboard_time": 1689251497,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 1839688,
@@ -947,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1303601,
+      "num": 1062259,
+      "word": "杨洋王楚然好像婚礼迎宾",
+      "onboard_time": 1689253235,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1301908,
       "num": 951249,
       "word": "给魏大勋吹头发的是李沁",
@@ -1176,6 +1184,14 @@
       "word": "孟宴臣原著结局",
       "onboard_time": 1689085361,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1144182,
+      "num": 1144182,
+      "word": "杨澄出车祸昏迷",
+      "onboard_time": 1689255158,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1827,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 891189,
+      "num": 891189,
+      "word": "DYG是怎么猝死的",
+      "onboard_time": 1689253474,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 889216,
       "num": 889216,
       "word": "Angelababy宋轶早期同框",
@@ -2171,14 +2195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 791399,
-      "num": 791399,
-      "word": "DYG是怎么猝死的",
-      "onboard_time": 1689253474,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 791194,
       "num": 791194,
       "word": "大勋拜托你以孟宴臣的人设参加",
@@ -2273,14 +2289,6 @@
       "onboard_time": 1689036458,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 753981,
-      "num": 753981,
-      "word": "杨洋王楚然好像婚礼迎宾",
-      "onboard_time": 1689253235,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 752766,
@@ -2971,6 +2979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 598956,
+      "num": 598956,
+      "word": "电梯下坠积水渗入全家险被淹死",
+      "onboard_time": 1689256117,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598722,
       "num": 357200,
       "word": "冉莹颖让两个儿子独自出国",
@@ -3531,6 +3547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 513904,
+      "num": 513904,
+      "word": "EXO再跳生命之树",
+      "onboard_time": 1689254616,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512278,
       "num": 512278,
       "word": "无锡警方通报3岁女童事件",
@@ -3659,14 +3683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498658,
-      "num": 417429,
-      "word": "EXO再跳生命之树",
-      "onboard_time": 1689254616,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 497248,
       "num": 356016,
       "word": "夏雪结婚的话刘星应该也会这样吧",
@@ -3689,6 +3705,14 @@
       "onboard_time": 1688950593,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 493781,
+      "num": 613062,
+      "word": "郑州一小学强制家长轮流站岗",
+      "onboard_time": 1689254856,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 493694,
@@ -3979,14 +4003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 468459,
-      "num": 408714,
-      "word": "杨澄出车祸昏迷",
-      "onboard_time": 1689255158,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 467734,
       "num": 467734,
       "word": "去拉萨第一天到第二天就回去了",
@@ -4113,6 +4129,14 @@
       "onboard_time": 1689216571,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456482,
+      "num": 409683,
+      "word": "这俩人在玩一种很新的游戏",
+      "onboard_time": 1689257436,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 456266,
@@ -4697,6 +4721,14 @@
       "onboard_time": 1688920465,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416524,
+      "num": 378752,
+      "word": "旅游时发朋友圈会让人反感吗",
+      "onboard_time": 1689255578,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 415704,
@@ -5739,6 +5771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 328381,
+      "num": 328381,
+      "word": "央八上半年收视TOP10",
+      "onboard_time": 1689256717,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326817,
       "num": 326817,
       "word": "陈飞宇告黑",
@@ -6371,6 +6411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288484,
+      "num": 288484,
+      "word": "种地吧第二季是要进厂了吗",
+      "onboard_time": 1689254735,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288393,
       "num": 288393,
       "word": "难怪安乐传又名安乐转",
@@ -6843,6 +6891,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 266591,
+      "num": 266591,
+      "word": "OMG战胜EDG",
+      "onboard_time": 1689256657,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266434,
       "num": 1238784,
       "word": "乡村教师患白血病13年仍坚持上课",
@@ -6929,6 +6985,14 @@
       "onboard_time": 1689225992,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 263895,
+      "num": 263895,
+      "word": "萌兰萌二拆完萌大也开始拆了",
+      "onboard_time": 1689256417,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263325,
@@ -7267,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249683,
+      "num": 249683,
+      "word": "LPL",
+      "onboard_time": 1689256957,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248153,
       "num": 243814,
       "word": "第一次在骆驼眼中看到了无语",
@@ -7555,6 +7627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233483,
+      "num": 233483,
+      "word": "还记得2008年发生了什么吗",
+      "onboard_time": 1689257736,
+      "rank": 38,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 233440,
       "num": 233440,
       "word": "dino认证dino汉堡",
@@ -7819,12 +7899,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220219,
-      "num": 220219,
-      "word": "郑州一小学强制家长轮流站岗",
-      "onboard_time": 1689254856,
-      "rank": 49,
-      "category": "教育,社会新闻"
+      "raw_hot": 220104,
+      "num": 220104,
+      "word": "高考钉子户唐尚珺公布高考志愿",
+      "onboard_time": 1689257616,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220015,
@@ -8011,14 +8091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214371,
-      "num": 214371,
-      "word": "种地吧第二季是要进厂了吗",
-      "onboard_time": 1689254735,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214005,
       "num": 214005,
       "word": "配角cut粉",
@@ -8065,6 +8137,14 @@
       "onboard_time": 1688949572,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213298,
+      "num": 213298,
+      "word": "来自祖国的奶爸照顾爱宝和幼崽",
+      "onboard_time": 1689256778,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 212444,
@@ -8416,6 +8496,14 @@
       "word": "这就是许沁要的自由",
       "onboard_time": 1689224796,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198648,
+      "num": 198648,
+      "word": "王源任敏新剧收视率",
+      "onboard_time": 1689257797,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -9075,6 +9163,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 168010,
+      "num": 168010,
+      "word": "功夫熊猫对自己有高要求",
+      "onboard_time": 1689257137,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167023,
       "num": 167023,
       "word": "干了3年宠物护理后",
@@ -9393,14 +9489,6 @@
       "onboard_time": 1689172776,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137573,
-      "num": 180532,
-      "word": "旅游时发朋友圈会让人反感吗",
-      "onboard_time": 1689255578,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 135640,
@@ -9875,7 +9963,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32907,
+      "raw_hot": 32939,
       "num": 1458763,
       "word": "大国之大也有大国之重",
       "onboard_time": 1689237335,
