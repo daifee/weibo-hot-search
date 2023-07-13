@@ -1,0 +1,410 @@
+{
+  "runTime": 1689243614779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1824675,
+        "num": 1824675,
+        "word": "宋焰许沁结婚了",
+        "onboard_time": 1689240394,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1076525,
+        "num": 1076525,
+        "word": "复旦现场领录取通知书名额20秒抢空",
+        "onboard_time": 1689239495,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 90587,
+        "num": 1013725,
+        "word": "这些录取通知书里满是骄傲和期许",
+        "onboard_time": 1689237573,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993543,
+        "num": 993543,
+        "word": "我爹一条朋友圈点赞人数",
+        "onboard_time": 1689240934,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 465658,
+        "num": 916016,
+        "word": "朋友邀约玩上车却直奔缅甸",
+        "onboard_time": 1689239794,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898249,
+        "num": 898249,
+        "word": "长期吹空调不能吹到的部位",
+        "onboard_time": 1689240394,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379834,
+        "num": 870125,
+        "word": "爱宝双胞胎女儿喝奶画面",
+        "onboard_time": 1689238891,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857367,
+        "num": 857367,
+        "word": "女子买69平公寓37平是公摊",
+        "onboard_time": 1689232471,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 663690,
+        "num": 663690,
+        "word": "王鹤棣的微博像朋友圈",
+        "onboard_time": 1689242974,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440708,
+        "num": 440708,
+        "word": "蒋依依敖子逸真的好嗑",
+        "onboard_time": 1689235113,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533783,
+        "num": 439483,
+        "word": "男子嫖娼前被抓不服被处罚要求撤销",
+        "onboard_time": 1689242314,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503857,
+        "num": 438169,
+        "word": "李维嘉吴昕比水浓一点但又没超过血",
+        "onboard_time": 1689239315,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475272,
+        "num": 437783,
+        "word": "张百乔老婆付费进吃瓜群保留证据",
+        "onboard_time": 1689233552,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 436675,
+        "num": 436675,
+        "word": "爱宝",
+        "onboard_time": 1689235954,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406896,
+        "num": 406896,
+        "word": "山西殴打队长致死环卫工已被捕",
+        "onboard_time": 1689236496,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386771,
+        "num": 386771,
+        "word": "你毛囊也挺好的",
+        "onboard_time": 1689242553,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381886,
+        "num": 381886,
+        "word": "28岁小姨哄娃10天崩溃哀嚎",
+        "onboard_time": 1689241233,
+        "rank": 16,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 374803,
+        "num": 374803,
+        "word": "侵权易烊千玺小吃店被强执",
+        "onboard_time": 1689241413,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 362778,
+        "num": 362778,
+        "word": "Knight",
+        "onboard_time": 1689242136,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 334755,
+        "num": 334755,
+        "word": "江苏镇江一飞机坠落泥地中",
+        "onboard_time": 1689229594,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395413,
+        "num": 334676,
+        "word": "我弟不要命了这么会写",
+        "onboard_time": 1689242074,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363549,
+        "num": 334611,
+        "word": "素颜的谭松韵",
+        "onboard_time": 1689239735,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334534,
+        "num": 334534,
+        "word": "iG对战WBG",
+        "onboard_time": 1689242495,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 330958,
+        "num": 330958,
+        "word": "高温天妈妈将电扇让给孩子被热死",
+        "onboard_time": 1689221734,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318425,
+        "num": 318425,
+        "word": "JDG换人",
+        "onboard_time": 1689237932,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316906,
+        "num": 316906,
+        "word": "人际关系中最伤人的五个字",
+        "onboard_time": 1689242673,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295880,
+        "num": 295880,
+        "word": "姜爷爷一口一口喂爱宝吃饭",
+        "onboard_time": 1689237451,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295785,
+        "num": 295785,
+        "word": "迪丽热巴三万水师原来是三万水狮",
+        "onboard_time": 1689234873,
+        "rank": 27,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 287225,
+        "num": 287225,
+        "word": "夫妻俩吃菌中毒报警称家里全是飞虫",
+        "onboard_time": 1689242795,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276877,
+        "num": 276877,
+        "word": "茉酸奶回应高价酸奶",
+        "onboard_time": 1689228030,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 227457,
+        "num": 227457,
+        "word": "魏大勋的手可以单独出道",
+        "onboard_time": 1689238353,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222342,
+        "num": 222342,
+        "word": "2023年上半年热搜爆了167次",
+        "onboard_time": 1689242974,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219478,
+        "num": 219478,
+        "word": "贾静雯和高圆圆每年都会见几次",
+        "onboard_time": 1689230499,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219428,
+        "num": 219428,
+        "word": "赵露思陈芊芊时期体重",
+        "onboard_time": 1689226292,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215835,
+        "num": 215835,
+        "word": "于正评价陈哲远",
+        "onboard_time": 1689238763,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208686,
+        "num": 208686,
+        "word": "易梦玲不像是第一次演戏",
+        "onboard_time": 1689226292,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206372,
+        "num": 206372,
+        "word": "医生建议空调最好调到26℃",
+        "onboard_time": 1689233312,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202979,
+        "num": 202979,
+        "word": "魏大勋为了背影像杨洋使劲减肥",
+        "onboard_time": 1689220475,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199798,
+        "num": 199798,
+        "word": "好想被打入冷宫",
+        "onboard_time": 1689236372,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199118,
+        "num": 199118,
+        "word": "刘惜君演我出门",
+        "onboard_time": 1689239975,
+        "rank": 39,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 198462,
+        "num": 198462,
+        "word": "敖子逸你在嘴硬什么",
+        "onboard_time": 1689241054,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193741,
+        "num": 193741,
+        "word": "邓伦再成被执行人",
+        "onboard_time": 1689219453,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 187373,
+        "num": 187373,
+        "word": "母亲患癌19岁儿子急赚钱被骗缅甸",
+        "onboard_time": 1689234090,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181434,
+        "num": 181434,
+        "word": "女子被砸死亡当晚嫌疑人共抛物3次",
+        "onboard_time": 1689224676,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174983,
+        "num": 174983,
+        "word": "阿娇网名是永不让你失望的脸",
+        "onboard_time": 1689227430,
+        "rank": 44,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 161841,
+        "num": 161841,
+        "word": "这周奔跑吧还播吗",
+        "onboard_time": 1689232593,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159619,
+        "num": 159619,
+        "word": "护士一把接过60斤男童飞奔到抢救室",
+        "onboard_time": 1689230134,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142704,
+        "num": 142704,
+        "word": "小孩子的表达能力 网络用语",
+        "onboard_time": 1689241413,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142148,
+        "num": 142148,
+        "word": "碟中谍7有多敢拍",
+        "onboard_time": 1689243275,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134452,
+        "num": 134452,
+        "word": "安徽这所中学录取榜最前面的不是清北",
+        "onboard_time": 1689243577,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#8个数字看我国网络强国建设成就#"
+    }
+  }
+}
