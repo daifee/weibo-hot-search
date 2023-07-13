@@ -1,0 +1,410 @@
+{
+  "runTime": 1689217317690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3031809,
+        "num": 3031809,
+        "word": "恭喜他们结婚了",
+        "onboard_time": 1689210993,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1653820,
+        "num": 1653820,
+        "word": "考公考编是否是人生退路",
+        "onboard_time": 1689212374,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 28258,
+        "num": 1404571,
+        "word": "十四冬举办时间定了",
+        "onboard_time": 1689169116,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1316597,
+        "num": 1316597,
+        "word": "被首尔的出租车震惊到了",
+        "onboard_time": 1689208836,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1110330,
+        "num": 1110330,
+        "word": "鹿晗现身医院做康复治疗",
+        "onboard_time": 1689209975,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1073296,
+        "num": 1073296,
+        "word": "迪丽热巴好土我好喜欢",
+        "onboard_time": 1689207691,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1033418,
+        "num": 1033418,
+        "word": "揭秘茉酸奶背后公司",
+        "onboard_time": 1689214114,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 828360,
+        "num": 828360,
+        "word": "马丽的孩子确实叫沈腾舅舅",
+        "onboard_time": 1689204747,
+        "rank": 7,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 755232,
+        "num": 755232,
+        "word": "原来基围虾只是一种养殖方式",
+        "onboard_time": 1689215495,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 770831,
+        "num": 705102,
+        "word": "宋焰给了孟宴臣10年机会",
+        "onboard_time": 1689203905,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 969129,
+        "num": 679660,
+        "word": "井川里予回应近照",
+        "onboard_time": 1689210755,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 814420,
+        "num": 663987,
+        "word": "腐烂在床上正在流行",
+        "onboard_time": 1689216571,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639710,
+        "num": 639710,
+        "word": "9岁男孩被17楼坠下男子砸入ICU",
+        "onboard_time": 1689210512,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617243,
+        "num": 617243,
+        "word": "魏大勋老来得粉",
+        "onboard_time": 1689210815,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459257,
+        "num": 459257,
+        "word": "江西 悬崖套房",
+        "onboard_time": 1689208836,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 593767,
+        "num": 450574,
+        "word": "对方撤回了一个孟宴臣",
+        "onboard_time": 1689214114,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441266,
+        "num": 441266,
+        "word": "肖战任敏无效比心",
+        "onboard_time": 1689216335,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484730,
+        "num": 432548,
+        "word": "起猛了看成杨洋王楚然官宣了",
+        "onboard_time": 1689212732,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419630,
+        "num": 419630,
+        "word": "安乐传片头是谁做的",
+        "onboard_time": 1689212913,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417172,
+        "num": 417172,
+        "word": "90后落户常州三天收到15万",
+        "onboard_time": 1689213993,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 392374,
+        "num": 392374,
+        "word": "美国45岁富豪用17岁儿子血浆换血失败",
+        "onboard_time": 1689202820,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373619,
+        "num": 373619,
+        "word": "田柾国韩素希MV吵架镜头",
+        "onboard_time": 1689213094,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344930,
+        "num": 344930,
+        "word": "张一山靠在关晓彤后背哭",
+        "onboard_time": 1689206914,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331708,
+        "num": 331708,
+        "word": "豆瓣把帐号改为账号",
+        "onboard_time": 1689214472,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 328690,
+        "num": 328690,
+        "word": "猪场因断电死亡462头猪损失近百万",
+        "onboard_time": 1689202880,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323492,
+        "num": 323492,
+        "word": "试用期内有必要装饰工位吗",
+        "onboard_time": 1689215495,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303609,
+        "num": 303609,
+        "word": "录取通知书里藏了一片银杏树林",
+        "onboard_time": 1689210335,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 292627,
+        "num": 292627,
+        "word": "杨紫是张一山永远的人脉",
+        "onboard_time": 1689174997,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284801,
+        "num": 284801,
+        "word": "老人怕味大影响乘客高铁上干吃泡面",
+        "onboard_time": 1689203905,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280820,
+        "num": 280820,
+        "word": "独自生长的玉米粒是圆的",
+        "onboard_time": 1689212013,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118039,
+        "num": 280795,
+        "word": "谢霆锋否认和王菲分手",
+        "onboard_time": 1689203544,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279019,
+        "num": 279019,
+        "word": "爷爷把我的水晶宝宝照顾的很好",
+        "onboard_time": 1689211894,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245353,
+        "num": 245353,
+        "word": "人一旦有了感情就会变的很贪心",
+        "onboard_time": 1689214892,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 231235,
+        "num": 231235,
+        "word": "黄子韬被男生叫宝贝的反应",
+        "onboard_time": 1689213932,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230849,
+        "num": 230849,
+        "word": "刘亦菲玫瑰故事双麻花辫造型",
+        "onboard_time": 1689217112,
+        "rank": 34,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 227674,
+        "num": 227674,
+        "word": "13岁少年把课文改编成歌吸粉百万",
+        "onboard_time": 1689215852,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224802,
+        "num": 224802,
+        "word": "代号鸢",
+        "onboard_time": 1689211053,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219991,
+        "num": 219991,
+        "word": "班主任回应牺牲民警女儿考上公安大学",
+        "onboard_time": 1689207754,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 216429,
+        "num": 216429,
+        "word": "吉克隽逸素颜健身状态",
+        "onboard_time": 1689216813,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215888,
+        "num": 215888,
+        "word": "你最希望中国第三座迪士尼在哪",
+        "onboard_time": 1689212374,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214870,
+        "num": 214870,
+        "word": "千万别信小时候胖点好",
+        "onboard_time": 1689214356,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 208436,
+        "num": 212775,
+        "word": "惜花芷慢镜头官宣",
+        "onboard_time": 1689217232,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211905,
+        "num": 211905,
+        "word": "时代少年团演唱会选在青岛的原因",
+        "onboard_time": 1689216152,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210111,
+        "num": 210111,
+        "word": "通过改变睡姿养体态的方法",
+        "onboard_time": 1689209856,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 208351,
+        "num": 208351,
+        "word": "黄晓明闫妮对手戏",
+        "onboard_time": 1689217232,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207070,
+        "num": 207070,
+        "word": "辽宁一男子疑杀害妻子岳母及小孩",
+        "onboard_time": 1689204326,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 204998,
+        "num": 204998,
+        "word": "白敬亭王鹤棣侯明昊打篮球路透",
+        "onboard_time": 1689217172,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202268,
+        "num": 202268,
+        "word": "女子半夜回酒店发现床上睡着陌生男子",
+        "onboard_time": 1689212073,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196229,
+        "num": 196229,
+        "word": "爸爸开家长会主打有其父必有其子",
+        "onboard_time": 1689216091,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191754,
+        "num": 191754,
+        "word": "李咏女儿法图麦露背身材",
+        "onboard_time": 1689173317,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#物质文明和精神文明相协调的现代化#"
+    }
+  }
+}
