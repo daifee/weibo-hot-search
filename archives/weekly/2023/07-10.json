@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689237457777,
+  "endTime": 1689239948263,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1586485,
+      "num": 1586485,
+      "word": "女子买69平公寓37平是公摊",
+      "onboard_time": 1689232471,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1571453,
       "num": 1571453,
       "word": "在孙权墓前放中科大录取通知书",
@@ -713,14 +721,6 @@
       "onboard_time": 1689227430,
       "rank": 5,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 1505100,
-      "num": 1505100,
-      "word": "女子买69平公寓37平是公摊",
-      "onboard_time": 1689232471,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1504616,
@@ -923,6 +923,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1289490,
+      "num": 486347,
+      "word": "张百乔老婆付费进吃瓜群保留证据",
+      "onboard_time": 1689233552,
+      "rank": 46,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1287271,
       "num": 665285,
       "word": "阿沙 性教育四季的变化",
@@ -937,14 +945,6 @@
       "onboard_time": 1689122973,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1253687,
-      "num": 486347,
-      "word": "张百乔老婆付费进吃瓜群保留证据",
-      "onboard_time": 1689233552,
-      "rank": 46,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1251334,
@@ -1088,6 +1088,14 @@
       "word": "悬赏1000万找的狗找到了",
       "onboard_time": 1688945545,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1154543,
+      "num": 1154543,
+      "word": "爱宝",
+      "onboard_time": 1689235954,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1836,7 +1844,7 @@
     },
     {
       "raw_hot": 856556,
-      "num": 281058,
+      "num": 327986,
       "word": "上海大叔煮丝袜奶茶曾拒绝百万买断费",
       "onboard_time": 1689234453,
       "rank": 30,
@@ -2227,14 +2235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 721008,
-      "num": 721008,
-      "word": "爱宝",
-      "onboard_time": 1689235954,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 720389,
       "num": 629394,
       "word": "母亲患癌19岁儿子急赚钱被骗缅甸",
@@ -2571,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641851,
+      "num": 413199,
+      "word": "JDG换人",
+      "onboard_time": 1689237932,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 639919,
       "num": 639919,
       "word": "EXO回归直播",
@@ -2745,6 +2753,14 @@
       "onboard_time": 1688987071,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 597973,
+      "num": 597973,
+      "word": "山西殴打队长致死环卫工已被捕",
+      "onboard_time": 1689236496,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597951,
@@ -3283,6 +3299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 515260,
+      "num": 515260,
+      "word": "好想被打入冷宫",
+      "onboard_time": 1689236372,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 512278,
       "num": 512278,
       "word": "无锡警方通报3岁女童事件",
@@ -3795,14 +3819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460113,
-      "num": 460113,
-      "word": "好想被打入冷宫",
-      "onboard_time": 1689236372,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 460063,
       "num": 460063,
       "word": "赖在床上正在流行",
@@ -4187,6 +4203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 427866,
+      "num": 427866,
+      "word": "姜爷爷一口一口喂爱宝吃饭",
+      "onboard_time": 1689237451,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427016,
       "num": 333863,
       "word": "TF家族官方账号在掉粉",
@@ -4433,6 +4457,14 @@
       "onboard_time": 1688947469,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399557,
+      "num": 254644,
+      "word": "李维嘉吴昕比水浓一点但又没超过血",
+      "onboard_time": 1689239315,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 397659,
@@ -5179,6 +5211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333757,
+      "num": 333757,
+      "word": "复旦现场领录取通知书名额20秒抢空",
+      "onboard_time": 1689239495,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 333551,
       "num": 333551,
       "word": "豆瓣把帐号改为账号",
@@ -5337,6 +5377,14 @@
       "onboard_time": 1689084943,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321842,
+      "num": 321842,
+      "word": "魏大勋的手可以单独出道",
+      "onboard_time": 1689238353,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 319246,
@@ -5577,14 +5625,6 @@
       "onboard_time": 1689005073,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 304099,
-      "num": 304099,
-      "word": "山西殴打队长致死环卫工已被捕",
-      "onboard_time": 1689236496,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303694,
@@ -6563,6 +6603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256828,
+      "num": 256828,
+      "word": "于正评价陈哲远",
+      "onboard_time": 1689238763,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256183,
       "num": 256183,
       "word": "没有边界感的亲戚",
@@ -6883,6 +6931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240591,
+      "num": 333744,
+      "word": "爱宝双胞胎女儿喝奶画面",
+      "onboard_time": 1689238891,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240538,
       "num": 240538,
       "word": "熊猫泡澡小手一直在水里扑腾",
@@ -7163,6 +7219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224959,
+      "num": 224959,
+      "word": "素颜的谭松韵",
+      "onboard_time": 1689239735,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224942,
       "num": 224942,
       "word": "果然青蛙人从来没让我失望过",
@@ -7193,6 +7257,14 @@
       "onboard_time": 1689004829,
       "rank": 30,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 223412,
+      "num": 223412,
+      "word": "欢颜有11个主演",
+      "onboard_time": 1689237214,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 222967,
@@ -7587,6 +7659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206090,
+      "num": 206090,
+      "word": "朋友邀约玩上车却直奔缅甸",
+      "onboard_time": 1689239794,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205947,
       "num": 205947,
       "word": "一段中英混杂的简单表达",
@@ -7691,6 +7771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 202145,
+      "num": 202145,
+      "word": "林俊杰演唱会将更换题库",
+      "onboard_time": 1689236072,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201682,
       "num": 218025,
       "word": "iG爆冷战胜JDG",
@@ -7713,6 +7801,14 @@
       "onboard_time": 1688904212,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201364,
+      "num": 201364,
+      "word": "花亦山无间梦境联动",
+      "onboard_time": 1689239375,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 201352,
@@ -7753,14 +7849,6 @@
       "onboard_time": 1688914234,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200676,
-      "num": 200676,
-      "word": "欢颜有11个主演",
-      "onboard_time": 1689237214,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 200291,
@@ -7859,6 +7947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196580,
+      "num": 201518,
+      "word": "JDG战胜RA",
+      "onboard_time": 1689239014,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196526,
       "num": 196526,
       "word": "女孩打不到车交警直接带过来一辆",
@@ -7889,14 +7985,6 @@
       "onboard_time": 1689043232,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195782,
-      "num": 195782,
-      "word": "林俊杰演唱会将更换题库",
-      "onboard_time": 1689236072,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 195729,
@@ -8235,6 +8323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180354,
+      "num": 180354,
+      "word": "一到夏天我的手机belike",
+      "onboard_time": 1689238651,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179251,
       "num": 179251,
       "word": "ITZY造型师",
@@ -8313,6 +8409,14 @@
       "onboard_time": 1689031104,
       "rank": 47,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 169668,
+      "num": 169668,
+      "word": "它叫向日葵是有道理的",
+      "onboard_time": 1689239554,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 169631,
@@ -8481,6 +8585,14 @@
       "onboard_time": 1689142652,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157519,
+      "num": 950406,
+      "word": "这些录取通知书里满是骄傲和期许",
+      "onboard_time": 1689237573,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157224,

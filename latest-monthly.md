@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/13 16:37:37
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/13 17:19:08
 </p>
 </blockquote>
 <p>
@@ -1917,6 +1917,12 @@ TFBOYS演唱会的票价（热度：1711127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B069%E5%B9%B3%E5%85%AC%E5%AF%9337%E5%B9%B3%E6%98%AF%E5%85%AC%E6%91%8A%23" target="weibo">
+女子买69平公寓37平是公摊（热度：1586485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%AD%99%E6%9D%83%E5%A2%93%E5%89%8D%E6%94%BE%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23" target="weibo">
 在孙权墓前放中科大录取通知书（热度：1571453）
 </a>
@@ -2033,12 +2039,6 @@ jiejie（热度：1558005）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E7%9A%84%E5%AE%89%E6%85%95%E5%B8%8C%23" target="weibo">
 奔跑的安慕希（热度：1518074）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B069%E5%B9%B3%E5%85%AC%E5%AF%9337%E5%B9%B3%E6%98%AF%E5%85%AC%E6%91%8A%23" target="weibo">
-女子买69平公寓37平是公摊（热度：1505100）
 </a>
 </li>
 
@@ -2553,6 +2553,12 @@ TT战胜EDG（热度：1323237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%99%BE%E4%B9%94%E8%80%81%E5%A9%86%E4%BB%98%E8%B4%B9%E8%BF%9B%E5%90%83%E7%93%9C%E7%BE%A4%E4%BF%9D%E7%95%99%E8%AF%81%E6%8D%AE%23" target="weibo">
+张百乔老婆付费进吃瓜群保留证据（热度：1289490）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%B2%99%20%E6%80%A7%E6%95%99%E8%82%B2%E5%9B%9B%E5%AD%A3%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
 阿沙 性教育四季的变化（热度：1287271）
 </a>
@@ -2609,12 +2615,6 @@ TT战胜EDG（热度：1323237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%23" target="weibo">
 倪妮在干什么（热度：1257780）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%99%BE%E4%B9%94%E8%80%81%E5%A9%86%E4%BB%98%E8%B4%B9%E8%BF%9B%E5%90%83%E7%93%9C%E7%BE%A4%E4%BF%9D%E7%95%99%E8%AF%81%E6%8D%AE%23" target="weibo">
-张百乔老婆付费进吃瓜群保留证据（热度：1253687）
 </a>
 </li>
 
