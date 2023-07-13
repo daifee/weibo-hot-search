@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689284055646,
+  "endTime": 1689286680282,
   "band_list": [
     {
       "raw_hot": 2061854,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76284,
+      "num": 48996,
+      "word": "云南网友看北京网友炒见手青急崩溃",
+      "onboard_time": 1689283993,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69984,
       "num": 69984,
       "word": "班长别扇了一会儿感冒了",
@@ -436,11 +444,19 @@
     },
     {
       "raw_hot": 59905,
-      "num": 34111,
+      "num": 49009,
       "word": "爱奇艺副总裁说赵丽颖敢想敢拼",
       "onboard_time": 1689281052,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53165,
+      "num": 53165,
+      "word": "陈哲远说小鱼儿是推开表演大门的角色",
+      "onboard_time": 1689285194,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 49671,
@@ -451,6 +467,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31919,
+      "num": 48948,
+      "word": "王一博别说话但请跳舞",
+      "onboard_time": 1689278773,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 30329,
+      "num": 48929,
+      "word": "高考后你有复读的打算吗",
+      "onboard_time": 1689273734,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 30307,
+      "num": 48924,
+      "word": "当我免签玩够日本9城",
+      "onboard_time": 1689282253,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28124,
       "num": 36638,
       "word": "李玟何炅早期同框",
@@ -459,40 +499,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23500,
-      "num": 32525,
-      "word": "王一博别说话但请跳舞",
-      "onboard_time": 1689278773,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 21664,
-      "num": 36621,
-      "word": "高考后你有复读的打算吗",
-      "onboard_time": 1689273734,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 18802,
-      "num": 32509,
-      "word": "当我免签玩够日本9城",
-      "onboard_time": 1689282253,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 14506,
-      "num": 32498,
-      "word": "云南网友看北京网友炒见手青急崩溃",
-      "onboard_time": 1689283993,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5870,
-      "num": 178257,
+      "raw_hot": 8450,
+      "num": 203332,
       "word": "这些录取通知书里满是骄傲和期许",
       "onboard_time": 1689237573,
       "rank": 2,
