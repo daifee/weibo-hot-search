@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689276845111,
+  "endTime": 1689279617597,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -32737,6 +32737,14 @@
       "onboard_time": 1688245453,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19106,
+      "num": 23471,
+      "word": "王一博别说话但请跳舞",
+      "onboard_time": 1689278773,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 17448,
