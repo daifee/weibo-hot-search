@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689226501163,
+  "endTime": 1689229521138,
   "band_list": [
     {
       "raw_hot": 3052648,
@@ -16,6 +16,14 @@
       "word": "腐烂在床上正在流行",
       "onboard_time": 1689216571,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2317758,
+      "num": 2317758,
+      "word": "女子被砸死亡当晚嫌疑人共抛物3次",
+      "onboard_time": 1689224676,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -211,6 +219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 948078,
+      "num": 948078,
+      "word": "赵露思陈芊芊时期体重",
+      "onboard_time": 1689226292,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 931227,
+      "num": 931227,
+      "word": "阿娇网名是永不让你失望的脸",
+      "onboard_time": 1689227430,
+      "rank": 5,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 889203,
       "num": 889203,
       "word": "清华博士花1月自制极光向女友求婚",
@@ -267,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 736239,
-      "num": 563903,
-      "word": "女子被砸死亡当晚嫌疑人共抛物3次",
-      "onboard_time": 1689224676,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 754766,
+      "num": 754766,
+      "word": "茉酸奶回应高价酸奶",
+      "onboard_time": 1689228030,
+      "rank": 6,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 704373,
@@ -289,6 +313,14 @@
       "onboard_time": 1689210815,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 692648,
+      "num": 692648,
+      "word": "易梦玲不像是第一次演戏",
+      "onboard_time": 1689226292,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 680412,
@@ -320,6 +352,14 @@
       "word": "惜花芷",
       "onboard_time": 1689219154,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 657140,
+      "num": 484680,
+      "word": "李白",
+      "onboard_time": 1689228273,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -371,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566073,
+      "num": 480618,
+      "word": "长相思排播",
+      "onboard_time": 1689226712,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 556681,
       "num": 556681,
       "word": "38度高温下特警一句话让人破防",
@@ -419,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496697,
+      "num": 496697,
+      "word": "爱宝双胞胎幼崽吃奶",
+      "onboard_time": 1689225097,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494947,
       "num": 494947,
       "word": "录取通知书里藏了一片银杏树林",
@@ -457,6 +513,14 @@
       "onboard_time": 1689223773,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477656,
+      "num": 477656,
+      "word": "君有疾否",
+      "onboard_time": 1689227850,
+      "rank": 16,
+      "category": "其它"
     },
     {
       "raw_hot": 472261,
@@ -515,12 +579,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 437780,
-      "num": 437780,
-      "word": "爱宝双胞胎幼崽吃奶",
-      "onboard_time": 1689225097,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 444464,
+      "num": 444464,
+      "word": "AG官宣更名",
+      "onboard_time": 1689226773,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 425837,
@@ -563,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411306,
+      "num": 411306,
+      "word": "2岁女孩见爸爸双胞胎兄弟当场懵了",
+      "onboard_time": 1689228452,
+      "rank": 21,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 400547,
       "num": 400547,
       "word": "田柾国韩素希MV吵架镜头",
@@ -592,6 +664,14 @@
       "word": "你最希望中国第三座迪士尼在哪",
       "onboard_time": 1689212374,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379479,
+      "num": 379479,
+      "word": "女子请婚假被辞退老板说还得请产假",
+      "onboard_time": 1689228394,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -633,6 +713,14 @@
       "onboard_time": 1689218493,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359214,
+      "num": 359214,
+      "word": "张一山说拍家有儿女不背词一条过",
+      "onboard_time": 1689226953,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 350280,
@@ -691,20 +779,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 332527,
+      "num": 332527,
+      "word": "谢娜看三国半夜给陆毅打电话",
+      "onboard_time": 1689226535,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332128,
       "num": 332128,
       "word": "游客爬华山不慎踩空跌落",
       "onboard_time": 1689167736,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331989,
-      "num": 331989,
-      "word": "赵露思陈芊芊时期体重",
-      "onboard_time": 1689226292,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 323492,
@@ -795,14 +883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286159,
-      "num": 286159,
-      "word": "易梦玲不像是第一次演戏",
-      "onboard_time": 1689226292,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 285368,
       "num": 285368,
       "word": "鹿晗工作室回应停电",
@@ -843,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280192,
+      "num": 328384,
+      "word": "宋代古莲开花了",
+      "onboard_time": 1689222637,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277079,
       "num": 277079,
       "word": "迪丽热巴花裙子",
@@ -875,14 +963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 273308,
-      "num": 328384,
-      "word": "宋代古莲开花了",
-      "onboard_time": 1689222637,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267591,
       "num": 267591,
       "word": "你能否接受高铁上有乘客吃东西",
@@ -897,6 +977,14 @@
       "onboard_time": 1689207093,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264632,
+      "num": 264632,
+      "word": "刘诗诗孔雀蓝眼妆",
+      "onboard_time": 1689225992,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 262353,
@@ -939,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252305,
-      "num": 252305,
-      "word": "刘诗诗孔雀蓝眼妆",
-      "onboard_time": 1689225992,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 248874,
       "num": 248874,
       "word": "肖战祝毕业快乐前程似锦",
@@ -969,6 +1049,14 @@
       "onboard_time": 1689214892,
       "rank": 32,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 244744,
+      "num": 244744,
+      "word": "龚俊说任安乐别乱搞",
+      "onboard_time": 1689226832,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 244120,
@@ -995,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232460,
+      "num": 232460,
+      "word": "淄博烧烤小饼机器开工一周被甩卖",
+      "onboard_time": 1689226414,
+      "rank": 45,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 231954,
       "num": 231954,
       "word": "建议孟宴臣录好六不带魏大勋",
@@ -1009,6 +1105,14 @@
       "onboard_time": 1689174395,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228460,
+      "num": 228460,
+      "word": "张一山张慧雯对手戏",
+      "onboard_time": 1689228933,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 228117,
@@ -1099,20 +1203,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209242,
-      "num": 209242,
-      "word": "淄博烧烤小饼机器开工一周被甩卖",
-      "onboard_time": 1689226414,
-      "rank": 45,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 208691,
       "num": 208691,
       "word": "安乐传首播战报",
       "onboard_time": 1689208716,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205948,
+      "num": 205948,
+      "word": "迪丽热巴吉娜爱丽丝热聊",
+      "onboard_time": 1689229470,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205947,
+      "num": 205947,
+      "word": "一段中英混杂的简单表达",
+      "onboard_time": 1689227553,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 204394,
@@ -1161,6 +1273,14 @@
       "onboard_time": 1689166116,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188360,
+      "num": 188360,
+      "word": "未定事件簿",
+      "onboard_time": 1689226953,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 187015,
@@ -1476,6 +1596,9 @@
     },
     {
       "word": "#千年古都京彩焕新#"
+    },
+    {
+      "word": "#新时代成就巡礼#"
     }
   ]
 }
