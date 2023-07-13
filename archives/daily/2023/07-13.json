@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689246978594,
+  "endTime": 1689248038059,
   "band_list": [
     {
       "raw_hot": 3052648,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1745341,
+      "num": 1745341,
+      "word": "魏大勋扫楼",
+      "onboard_time": 1689244472,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1643898,
       "num": 281966,
       "word": "江苏盐城轿车撞人事故致2死6伤",
@@ -129,14 +137,6 @@
       "onboard_time": 1689227430,
       "rank": 5,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 1516862,
-      "num": 1516862,
-      "word": "魏大勋扫楼",
-      "onboard_time": 1689244472,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 1504616,
@@ -361,6 +361,14 @@
       "onboard_time": 1689219212,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 872986,
+      "num": 872986,
+      "word": "容易导致眼睛度数上涨的原因",
+      "onboard_time": 1689245134,
+      "rank": 13,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 871433,
@@ -635,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 561266,
+      "num": 1243825,
+      "word": "爱宝双胞胎女儿喝奶画面",
+      "onboard_time": 1689238891,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558106,
       "num": 558106,
       "word": "君有疾否",
@@ -689,22 +705,6 @@
       "onboard_time": 1689162512,
       "rank": 9,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 526170,
-      "num": 526170,
-      "word": "容易导致眼睛度数上涨的原因",
-      "onboard_time": 1689245134,
-      "rank": 13,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 523128,
-      "num": 1243825,
-      "word": "爱宝双胞胎女儿喝奶画面",
-      "onboard_time": 1689238891,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 507474,
@@ -859,12 +859,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 454134,
+      "num": 454134,
+      "word": "刘诗诗看了都得愣一下",
+      "onboard_time": 1689244534,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 448020,
       "num": 448020,
       "word": "通过改变睡姿养体态的方法",
       "onboard_time": 1689209856,
       "rank": 18,
       "category": "其它"
+    },
+    {
+      "raw_hot": 444520,
+      "num": 444520,
+      "word": "余承恩角色比人红",
+      "onboard_time": 1689246151,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 444464,
@@ -955,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418223,
+      "num": 958583,
+      "word": "安徽这所中学录取榜最前面的不是清北",
+      "onboard_time": 1689243577,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 418135,
       "num": 418135,
       "word": "关晓彤上下班亲的都是我爱的男人",
@@ -993,14 +1017,6 @@
       "onboard_time": 1689213094,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 400272,
-      "num": 958583,
-      "word": "安徽这所中学录取榜最前面的不是清北",
-      "onboard_time": 1689243577,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 398778,
@@ -1043,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 385158,
-      "num": 385158,
-      "word": "刘诗诗看了都得愣一下",
-      "onboard_time": 1689244534,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 382626,
       "num": 382626,
       "word": "你最希望中国第三座迪士尼在哪",
@@ -1075,14 +1083,6 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 374907,
-      "num": 374907,
-      "word": "余承恩角色比人红",
-      "onboard_time": 1689246151,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 374444,
       "num": 309890,
       "word": "爷爷把我的水晶宝宝照顾的很好",
@@ -1099,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 370463,
+      "num": 370463,
+      "word": "时代峰峻请保持这个水平",
+      "onboard_time": 1689245612,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368524,
       "num": 368524,
       "word": "女生称合租男室友用管道内窥镜偷拍",
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 368279,
-      "num": 341100,
+      "num": 369530,
       "word": "夫妻俩吃菌中毒报警称家里全是飞虫",
       "onboard_time": 1689242795,
       "rank": 28,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1689226535,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354205,
+      "num": 354205,
+      "word": "安乐传今天连更了三集",
+      "onboard_time": 1689246332,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 350280,
@@ -1275,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314043,
+      "num": 314043,
+      "word": "微博发布热搜半年报",
+      "onboard_time": 1689247710,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 310844,
       "num": 310844,
       "word": "安乐传首播反馈",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1689204326,
       "rank": 31,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 282782,
-      "num": 282782,
-      "word": "时代峰峻请保持这个水平",
-      "onboard_time": 1689245612,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 282215,
@@ -1539,6 +1555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258007,
+      "num": 215055,
+      "word": "孟许时分 我只要我的蝴蝶",
+      "onboard_time": 1689245914,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255396,
+      "num": 255396,
+      "word": "男子猥亵未成年不足10秒被判无罪",
+      "onboard_time": 1689246391,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254620,
       "num": 254620,
       "word": "三胎爸爸用老婆孩子生日组号中7710万",
@@ -1683,14 +1715,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 226452,
-      "num": 226452,
-      "word": "安乐传今天连更了三集",
-      "onboard_time": 1689246332,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225873,
       "num": 225873,
       "word": "全员加速中",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1689216091,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215055,
-      "num": 215055,
-      "word": "孟许时分 我只要我的蝴蝶",
-      "onboard_time": 1689245914,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 214552,
@@ -1921,6 +1937,14 @@
       "onboard_time": 1689236973,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194457,
+      "num": 194457,
+      "word": "刘耀文到达广州",
+      "onboard_time": 1689247470,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194117,
@@ -2083,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164426,
+      "num": 164426,
+      "word": "iG战胜WBG",
+      "onboard_time": 1689246932,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163966,
       "num": 1195548,
       "word": "这些录取通知书里满是骄傲和期许",
@@ -2115,6 +2147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157376,
+      "num": 157376,
+      "word": "签售姐林林疑似卷款跑路",
+      "onboard_time": 1689247950,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157224,
       "num": 157224,
       "word": "雨滴的形状更像汉堡包",
@@ -2129,6 +2169,14 @@
       "onboard_time": 1689156871,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151523,
+      "num": 151523,
+      "word": "一个女生做过最勇敢的事是什么",
+      "onboard_time": 1689247950,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 149892,
@@ -2185,14 +2233,6 @@
       "onboard_time": 1689173917,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 139763,
-      "num": 160514,
-      "word": "iG战胜WBG",
-      "onboard_time": 1689246932,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 131244,
@@ -2331,6 +2371,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 58661,
+      "num": 469289,
+      "word": "没人能拒绝纵横四海",
+      "onboard_time": 1689246032,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 52935,
       "num": 1695787,
       "word": "十四冬举办时间定了",
@@ -2361,14 +2409,6 @@
       "onboard_time": 1689196152,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34351,
-      "num": 469289,
-      "word": "没人能拒绝纵横四海",
-      "onboard_time": 1689246032,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 29797,
