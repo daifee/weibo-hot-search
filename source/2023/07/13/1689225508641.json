@@ -1,0 +1,410 @@
+{
+  "runTime": 1689225508641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1938452,
+        "num": 1938452,
+        "word": "于正回应吴谨言两年没戏拍",
+        "onboard_time": 1689221435,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1711753,
+        "num": 1711753,
+        "word": "魏大勋为了背影像杨洋使劲减肥",
+        "onboard_time": 1689220475,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9962,
+        "num": 1568108,
+        "word": "十四冬举办时间定了",
+        "onboard_time": 1689169116,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1433290,
+        "num": 1433290,
+        "word": "邓伦再成被执行人",
+        "onboard_time": 1689219453,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1034209,
+        "num": 1034209,
+        "word": "被首尔的出租车震惊到了",
+        "onboard_time": 1689208836,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1013086,
+        "num": 1013086,
+        "word": "北京平均月薪13438元",
+        "onboard_time": 1689220715,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 827133,
+        "num": 827133,
+        "word": "马嘉祺电梯显示18楼",
+        "onboard_time": 1689221556,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805400,
+        "num": 805400,
+        "word": "奔跑吧",
+        "onboard_time": 1689219693,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735961,
+        "num": 735961,
+        "word": "考公考编是否是人生退路",
+        "onboard_time": 1689212374,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 669007,
+        "num": 669007,
+        "word": "爱宝真的很相信姜爸爸",
+        "onboard_time": 1689219631,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2183938,
+        "num": 667487,
+        "word": "腐烂在床上正在流行",
+        "onboard_time": 1689216571,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104067,
+        "num": 665285,
+        "word": "阿沙 性教育四季的变化",
+        "onboard_time": 1689222877,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 775862,
+        "num": 664617,
+        "word": "井川里予回应近照",
+        "onboard_time": 1689210755,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661948,
+        "num": 661948,
+        "word": "清华博士花1月自制极光向女友求婚",
+        "onboard_time": 1689219212,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574196,
+        "num": 574196,
+        "word": "揭秘茉酸奶背后公司",
+        "onboard_time": 1689214114,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 486313,
+        "num": 486313,
+        "word": "玉骨遥名场面是肖战设计讨论的",
+        "onboard_time": 1689222217,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467657,
+        "num": 467657,
+        "word": "莲花楼",
+        "onboard_time": 1689223238,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446127,
+        "num": 446127,
+        "word": "鹿晗现身医院做康复治疗",
+        "onboard_time": 1689209975,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411603,
+        "num": 411603,
+        "word": "广州平均月薪10883元",
+        "onboard_time": 1689217772,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 407717,
+        "num": 407717,
+        "word": "重度自闭症男孩靠吹气球成网红",
+        "onboard_time": 1689219092,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117840,
+        "num": 406954,
+        "word": "高温天妈妈将电扇让给孩子被热死",
+        "onboard_time": 1689221734,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478858,
+        "num": 405668,
+        "word": "吴俊霆徐梦洁吻戏",
+        "onboard_time": 1689223773,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470109,
+        "num": 403968,
+        "word": "经常看书和不看书有什么区别",
+        "onboard_time": 1689223536,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440505,
+        "num": 403462,
+        "word": "恭喜他们结婚了",
+        "onboard_time": 1689210993,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 402108,
+        "num": 402108,
+        "word": "魏大勋机场生图",
+        "onboard_time": 1689222460,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392366,
+        "num": 392366,
+        "word": "惜花芷",
+        "onboard_time": 1689219154,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385858,
+        "num": 385858,
+        "word": "马丽的孩子确实叫沈腾舅舅",
+        "onboard_time": 1689204747,
+        "rank": 26,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 376790,
+        "num": 376790,
+        "word": "女子被砸死亡当晚嫌疑人共抛物3次",
+        "onboard_time": 1689224676,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340199,
+        "num": 340199,
+        "word": "时代少年团换风格了",
+        "onboard_time": 1689222939,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231635,
+        "num": 328384,
+        "word": "宋代古莲开花了",
+        "onboard_time": 1689222637,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513445,
+        "num": 324595,
+        "word": "谢霆锋否认和王菲分手",
+        "onboard_time": 1689203544,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320534,
+        "num": 320534,
+        "word": "淘宝变蓝了",
+        "onboard_time": 1689217954,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 273810,
+        "num": 273810,
+        "word": "女生称合租男室友用管道内窥镜偷拍",
+        "onboard_time": 1689219453,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270731,
+        "num": 270731,
+        "word": "宋焰给了孟宴臣10年机会",
+        "onboard_time": 1689203905,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264914,
+        "num": 264914,
+        "word": "爱宝双胞胎幼崽吃奶",
+        "onboard_time": 1689225097,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263736,
+        "num": 263736,
+        "word": "和朋友吃火锅从分享制到责任制",
+        "onboard_time": 1689222035,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262901,
+        "num": 262901,
+        "word": "原来基围虾只是一种养殖方式",
+        "onboard_time": 1689215495,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259914,
+        "num": 259914,
+        "word": "刘亦菲玫瑰故事双麻花辫造型",
+        "onboard_time": 1689217112,
+        "rank": 37,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 259324,
+        "num": 259324,
+        "word": "9岁男孩被17楼坠下男子砸入ICU",
+        "onboard_time": 1689210512,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258138,
+        "num": 258138,
+        "word": "杨洋魏大勋你好星期六上班路透",
+        "onboard_time": 1689225216,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242178,
+        "num": 242178,
+        "word": "张一山的鞋",
+        "onboard_time": 1689220774,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243356,
+        "num": 239936,
+        "word": "魏大勋老来得粉",
+        "onboard_time": 1689210815,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236491,
+        "num": 236491,
+        "word": "迪丽热巴你带我走吧",
+        "onboard_time": 1689224559,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234595,
+        "num": 234595,
+        "word": "江西 悬崖套房",
+        "onboard_time": 1689208836,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 233084,
+        "num": 233084,
+        "word": "美国45岁富豪用17岁儿子血浆换血失败",
+        "onboard_time": 1689202820,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231954,
+        "num": 231954,
+        "word": "建议孟宴臣录好六不带魏大勋",
+        "onboard_time": 1689219934,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229290,
+        "num": 229290,
+        "word": "安乐传追剧日历",
+        "onboard_time": 1689218493,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228980,
+        "num": 228980,
+        "word": "第一次见猫用香肠洗手的",
+        "onboard_time": 1689217592,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 227687,
+        "num": 227687,
+        "word": "古巨基晒全家福庆结婚9周年",
+        "onboard_time": 1689223956,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211604,
+        "num": 211604,
+        "word": "王者荣耀",
+        "onboard_time": 1689225453,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署通令给2个单位2名个人记功#"
+    }
+  }
+}

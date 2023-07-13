@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689223052336,
+  "endTime": 1689225508641,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1723,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1938452,
+      "num": 1938452,
+      "word": "于正回应吴谨言两年没戏拍",
+      "onboard_time": 1689221435,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1933070,
       "num": 1294013,
       "word": "高叶工作室解散后援会",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1688208391,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1711753,
+      "num": 1711753,
+      "word": "魏大勋为了背影像杨洋使劲减肥",
+      "onboard_time": 1689220475,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1711127,
@@ -3155,14 +3171,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1339672,
-      "num": 1339672,
-      "word": "魏大勋为了背影像杨洋使劲减肥",
-      "onboard_time": 1689220475,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1336958,
       "num": 1336958,
       "word": "美性侵上百人队医狱中被刺10刀",
@@ -3569,14 +3577,6 @@
       "onboard_time": 1689217772,
       "rank": 48,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1221680,
-      "num": 1221680,
-      "word": "于正回应吴谨言两年没戏拍",
-      "onboard_time": 1689221435,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 1218665,
@@ -4091,6 +4091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1117840,
+      "num": 414325,
+      "word": "高温天妈妈将电扇让给孩子被热死",
+      "onboard_time": 1689221734,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1115700,
       "num": 1115700,
       "word": "日本札幌一酒店惊现无头男尸",
@@ -4161,6 +4169,14 @@
       "onboard_time": 1688353050,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1104067,
+      "num": 665285,
+      "word": "阿沙 性教育四季的变化",
+      "onboard_time": 1689222877,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1103625,
@@ -4651,14 +4667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1024873,
-      "num": 414325,
-      "word": "高温天妈妈将电扇让给孩子被热死",
-      "onboard_time": 1689221734,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1023863,
       "num": 1023863,
       "word": "欧文签约安踏",
@@ -4721,6 +4729,14 @@
       "onboard_time": 1688975671,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1013086,
+      "num": 1013086,
+      "word": "北京平均月薪13438元",
+      "onboard_time": 1689220715,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1011726,
@@ -6427,6 +6443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827133,
+      "num": 827133,
+      "word": "马嘉祺电梯显示18楼",
+      "onboard_time": 1689221556,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 826693,
       "num": 687231,
       "word": "我的人间烟火第8集不敢看",
@@ -6769,14 +6793,6 @@
       "onboard_time": 1688616523,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 795869,
-      "num": 795869,
-      "word": "北京平均月薪13438元",
-      "onboard_time": 1689220715,
-      "rank": 18,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 795189,
@@ -7851,14 +7867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705104,
-      "num": 705104,
-      "word": "马嘉祺电梯显示18楼",
-      "onboard_time": 1689221556,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 704801,
       "num": 704801,
       "word": "茶百道未定联名",
@@ -8384,6 +8392,14 @@
       "word": "脖子挂大饼饿死可能是抑郁症",
       "onboard_time": 1689132454,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669007,
+      "num": 669007,
+      "word": "爱宝真的很相信姜爸爸",
+      "onboard_time": 1689219631,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -9160,14 +9176,6 @@
       "word": "北京动物园",
       "onboard_time": 1688385161,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 627196,
-      "num": 627196,
-      "word": "爱宝真的很相信姜爸爸",
-      "onboard_time": 1689219631,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -11995,6 +12003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486313,
+      "num": 486313,
+      "word": "玉骨遥名场面是肖战设计讨论的",
+      "onboard_time": 1689222217,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485963,
       "num": 485963,
       "word": "Minnie普通话比叉烧芬标准",
@@ -12105,6 +12121,14 @@
       "onboard_time": 1688455232,
       "rank": 26,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 478858,
+      "num": 405668,
+      "word": "吴俊霆徐梦洁吻戏",
+      "onboard_time": 1689223773,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 478696,
@@ -12344,6 +12368,14 @@
       "word": "公司的冰箱太累了",
       "onboard_time": 1688645431,
       "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 470109,
+      "num": 403968,
+      "word": "经常看书和不看书有什么区别",
+      "onboard_time": 1689223536,
+      "rank": 22,
       "category": "幽默"
     },
     {
@@ -14403,6 +14435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402108,
+      "num": 402108,
+      "word": "魏大勋机场生图",
+      "onboard_time": 1689222460,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402045,
       "num": 402045,
       "word": "为seventeen点播一首hot",
@@ -14425,14 +14465,6 @@
       "onboard_time": 1688382821,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401658,
-      "num": 401658,
-      "word": "玉骨遥名场面是肖战设计讨论的",
-      "onboard_time": 1689222217,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 401403,
@@ -15147,14 +15179,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 381758,
-      "num": 381758,
-      "word": "魏大勋机场生图",
-      "onboard_time": 1689222460,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 381550,
       "num": 381550,
       "word": "兼职生好像不知道我是老板",
@@ -15369,6 +15393,14 @@
       "onboard_time": 1688870551,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 376790,
+      "num": 376790,
+      "word": "女子被砸死亡当晚嫌疑人共抛物3次",
+      "onboard_time": 1689224676,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376530,
@@ -16857,6 +16889,14 @@
       "onboard_time": 1689073718,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 340199,
+      "num": 340199,
+      "word": "时代少年团换风格了",
+      "onboard_time": 1689222939,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 340187,
@@ -20499,14 +20539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270343,
-      "num": 270343,
-      "word": "时代少年团换风格了",
-      "onboard_time": 1689222939,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270312,
       "num": 270312,
       "word": "毛不易唱不染",
@@ -20801,6 +20833,14 @@
       "onboard_time": 1688528074,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264914,
+      "num": 264914,
+      "word": "爱宝双胞胎幼崽吃奶",
+      "onboard_time": 1689225097,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264823,
@@ -21251,6 +21291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258138,
+      "num": 258138,
+      "word": "杨洋魏大勋你好星期六上班路透",
+      "onboard_time": 1689225216,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257894,
       "num": 257894,
       "word": "当你发现家里孩子偷钱",
@@ -21473,14 +21521,6 @@
       "onboard_time": 1688823634,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 254685,
-      "num": 254685,
-      "word": "阿沙 性教育四季的变化",
-      "onboard_time": 1689222877,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 254678,
@@ -22811,6 +22851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236491,
+      "num": 236491,
+      "word": "迪丽热巴你带我走吧",
+      "onboard_time": 1689224559,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236452,
       "num": 236452,
       "word": "爸爸你为什么不爱我啦",
@@ -23083,6 +23131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231954,
+      "num": 231954,
+      "word": "建议孟宴臣录好六不带魏大勋",
+      "onboard_time": 1689219934,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231670,
       "num": 231670,
       "word": "沈月套了个麻袋",
@@ -23097,6 +23153,14 @@
       "onboard_time": 1688228072,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231635,
+      "num": 328384,
+      "word": "宋代古莲开花了",
+      "onboard_time": 1689222637,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231348,
@@ -23217,14 +23281,6 @@
       "onboard_time": 1688430337,
       "rank": 35,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 229407,
-      "num": 229407,
-      "word": "建议孟宴臣录好六不带魏大勋",
-      "onboard_time": 1689219934,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 229386,
@@ -23353,6 +23409,14 @@
       "onboard_time": 1688772082,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227687,
+      "num": 227687,
+      "word": "古巨基晒全家福庆结婚9周年",
+      "onboard_time": 1689223956,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 227674,
@@ -28001,14 +28065,6 @@
       "onboard_time": 1689081757,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 166447,
-      "num": 302109,
-      "word": "宋代古莲开花了",
-      "onboard_time": 1689222637,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166438,
