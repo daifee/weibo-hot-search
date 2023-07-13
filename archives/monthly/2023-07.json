@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689253111598,
+  "endTime": 1689255168755,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3119402,
+      "num": 1442634,
+      "word": "魏大勋连夜买了个黑衬衫穿上",
+      "onboard_time": 1689251013,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3118420,
       "num": 768871,
       "word": "被3名未成年逼吃粪便男童父亲发声",
@@ -969,14 +977,6 @@
       "onboard_time": 1688271629,
       "rank": 35,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2551970,
-      "num": 1351186,
-      "word": "魏大勋连夜买了个黑衬衫穿上",
-      "onboard_time": 1689251013,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 2522401,
@@ -2473,6 +2473,14 @@
       "onboard_time": 1689230313,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1641586,
+      "num": 1641586,
+      "word": "为什么大家不愿意去泰国旅游了",
+      "onboard_time": 1689251497,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 1630521,
@@ -5779,6 +5787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 904546,
+      "num": 904546,
+      "word": "魏大勋说跟杨洋的眼神戏没赢过",
+      "onboard_time": 1689252214,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 903801,
       "num": 903801,
       "word": "姆巴佩",
@@ -7619,8 +7635,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 747738,
+      "num": 449337,
+      "word": "杨洋王楚然好像婚礼迎宾",
+      "onboard_time": 1689253235,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 747268,
-      "num": 589956,
+      "num": 620934,
       "word": "49岁何炅唱跳水平",
       "onboard_time": 1689251376,
       "rank": 15,
@@ -8499,14 +8523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 680752,
-      "num": 680752,
-      "word": "为什么大家不愿意去泰国旅游了",
-      "onboard_time": 1689251497,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 680601,
       "num": 680601,
       "word": "陈梦",
@@ -8723,6 +8739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667127,
+      "num": 667127,
+      "word": "DYG是怎么猝死的",
+      "onboard_time": 1689253474,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 667107,
       "num": 491569,
       "word": "荣宅",
@@ -8929,6 +8953,14 @@
       "onboard_time": 1689219154,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 660575,
+      "num": 660575,
+      "word": "张杰LESSERAFIM合照",
+      "onboard_time": 1689252456,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 660067,
@@ -10153,6 +10185,14 @@
       "onboard_time": 1689138100,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 587910,
+      "num": 587910,
+      "word": "女子称在购买3年服装店被杀熟70元",
+      "onboard_time": 1689252273,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587856,
@@ -12067,14 +12107,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 496970,
-      "num": 496970,
-      "word": "魏大勋说跟杨洋的眼神戏没赢过",
-      "onboard_time": 1689252214,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
@@ -12428,7 +12460,7 @@
     },
     {
       "raw_hot": 486042,
-      "num": 658385,
+      "num": 671127,
       "word": "上海报业集团程峰被查",
       "onboard_time": 1689249211,
       "rank": 8,
@@ -13411,6 +13443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 451630,
+      "num": 451630,
+      "word": "花23万布置户外婚礼变成了闹剧",
+      "onboard_time": 1689251013,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 451487,
       "num": 451487,
       "word": "newjeans新歌",
@@ -14339,14 +14379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 425934,
-      "num": 425934,
-      "word": "花23万布置户外婚礼变成了闹剧",
-      "onboard_time": 1689251013,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 425910,
       "num": 425910,
       "word": "洛子商坏死了",
@@ -14819,6 +14851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410919,
+      "num": 294759,
+      "word": "EXO再跳生命之树",
+      "onboard_time": 1689254616,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410666,
       "num": 293697,
       "word": "亮警证让查酒驾交警放行男子系民警",
@@ -14913,14 +14953,6 @@
       "onboard_time": 1688714499,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405200,
-      "num": 281055,
-      "word": "张杰LESSERAFIM合照",
-      "onboard_time": 1689252456,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 404930,
@@ -16121,6 +16153,14 @@
       "onboard_time": 1688822675,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374527,
+      "num": 374527,
+      "word": "蔡依林照片中的两个女孩都长大了",
+      "onboard_time": 1689252816,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 374455,
@@ -18371,14 +18411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322973,
-      "num": 240537,
-      "word": "女子称在购买3年服装店被杀熟70元",
-      "onboard_time": 1689252273,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322860,
       "num": 322860,
       "word": "这一声BEIJING让整个中国沸腾了",
@@ -20219,6 +20251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289180,
+      "num": 289180,
+      "word": "EDG胜者组对阵BLG",
+      "onboard_time": 1689251978,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289084,
       "num": 289084,
       "word": "WBG夏季赛周冠军",
@@ -20585,14 +20625,6 @@
       "onboard_time": 1688203832,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282506,
-      "num": 282506,
-      "word": "EDG胜者组对阵BLG",
-      "onboard_time": 1689251978,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 282215,
@@ -23555,14 +23587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 239077,
-      "num": 239077,
-      "word": "蔡依林照片中的两个女孩都长大了",
-      "onboard_time": 1689252816,
-      "rank": 32,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 238877,
       "num": 308333,
       "word": "F1",
@@ -23673,6 +23697,14 @@
       "onboard_time": 1688522011,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237470,
+      "num": 237470,
+      "word": "奇亚籽在我杯子内壁发芽了",
+      "onboard_time": 1689252635,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 237430,
@@ -24465,6 +24497,14 @@
       "onboard_time": 1688392183,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225634,
+      "num": 225634,
+      "word": "杨澄出车祸昏迷",
+      "onboard_time": 1689255158,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 225599,
@@ -26051,6 +26091,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 206981,
+      "num": 206981,
+      "word": "种地吧第二季是要进厂了吗",
+      "onboard_time": 1689254735,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206960,
       "num": 206960,
       "word": "因为不吃鱼籽和男朋友吵架了",
@@ -26305,14 +26353,6 @@
       "onboard_time": 1688826875,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203630,
-      "num": 203630,
-      "word": "奇亚籽在我杯子内壁发芽了",
-      "onboard_time": 1689252635,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 203617,
@@ -28011,6 +28051,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 185693,
+      "num": 185693,
+      "word": "张杰LESSERAFIM一起跳舞了",
+      "onboard_time": 1689253178,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185589,
       "num": 185589,
       "word": "偷偷藏不住今晚全糖轰炸",
@@ -28913,6 +28961,14 @@
       "onboard_time": 1688127336,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172163,
+      "num": 172163,
+      "word": "京城大师赛",
+      "onboard_time": 1689254554,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 171985,
@@ -30265,6 +30321,14 @@
       "onboard_time": 1688523031,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140108,
+      "num": 172099,
+      "word": "郑州一小学强制家长轮流站岗",
+      "onboard_time": 1689254856,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 139856,
@@ -32131,6 +32195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32907,
+      "num": 1458763,
+      "word": "大国之大也有大国之重",
+      "onboard_time": 1689237335,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32420,
       "num": 32420,
       "word": "看种地吧我学到了什么",
@@ -32223,14 +32295,6 @@
       "num": 1628514,
       "word": "一图了解中华文明探源工程主要成果",
       "onboard_time": 1688874932,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27422,
-      "num": 1376554,
-      "word": "大国之大也有大国之重",
-      "onboard_time": 1689237335,
       "rank": 2,
       "category": "社会新闻"
     },

@@ -1,7 +1,15 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689253111598,
+  "endTime": 1689255168755,
   "band_list": [
+    {
+      "raw_hot": 3119402,
+      "num": 1442634,
+      "word": "魏大勋连夜买了个黑衬衫穿上",
+      "onboard_time": 1689251013,
+      "rank": 10,
+      "category": "影视"
+    },
     {
       "raw_hot": 3052648,
       "num": 3052648,
@@ -17,14 +25,6 @@
       "onboard_time": 1689216571,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2551970,
-      "num": 1351186,
-      "word": "魏大勋连夜买了个黑衬衫穿上",
-      "onboard_time": 1689251013,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 2395356,
@@ -145,6 +145,14 @@
       "onboard_time": 1689230313,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1641586,
+      "num": 1641586,
+      "word": "为什么大家不愿意去泰国旅游了",
+      "onboard_time": 1689251497,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 1593127,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 904546,
+      "num": 904546,
+      "word": "魏大勋说跟杨洋的眼神戏没赢过",
+      "onboard_time": 1689252214,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 898249,
       "num": 898249,
       "word": "长期吹空调不能吹到的部位",
@@ -499,8 +515,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 747738,
+      "num": 449337,
+      "word": "杨洋王楚然好像婚礼迎宾",
+      "onboard_time": 1689253235,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 747268,
-      "num": 589956,
+      "num": 620934,
       "word": "49岁何炅唱跳水平",
       "onboard_time": 1689251376,
       "rank": 15,
@@ -563,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 680752,
-      "num": 680752,
-      "word": "为什么大家不愿意去泰国旅游了",
-      "onboard_time": 1689251497,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 680412,
       "num": 680412,
       "word": "张一山靠在关晓彤后背哭",
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667127,
+      "num": 667127,
+      "word": "DYG是怎么猝死的",
+      "onboard_time": 1689253474,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 664434,
       "num": 664434,
       "word": "重度自闭症男孩靠吹气球成网红",
@@ -609,6 +633,14 @@
       "onboard_time": 1689219154,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 660575,
+      "num": 660575,
+      "word": "张杰LESSERAFIM合照",
+      "onboard_time": 1689252456,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 656441,
@@ -689,6 +721,14 @@
       "onboard_time": 1689174814,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 587910,
+      "num": 587910,
+      "word": "女子称在购买3年服装店被杀熟70元",
+      "onboard_time": 1689252273,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583201,
@@ -827,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 496970,
-      "num": 496970,
-      "word": "魏大勋说跟杨洋的眼神戏没赢过",
-      "onboard_time": 1689252214,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 494947,
       "num": 494947,
       "word": "录取通知书里藏了一片银杏树林",
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 486042,
-      "num": 658385,
+      "num": 671127,
       "word": "上海报业集团程峰被查",
       "onboard_time": 1689249211,
       "rank": 8,
@@ -979,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 451630,
+      "num": 451630,
+      "word": "花23万布置户外婚礼变成了闹剧",
+      "onboard_time": 1689251013,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 448020,
       "num": 448020,
       "word": "通过改变睡姿养体态的方法",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1689237451,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425934,
-      "num": 425934,
-      "word": "花23万布置户外婚礼变成了闹剧",
-      "onboard_time": 1689251013,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 425910,
@@ -1147,12 +1179,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 405200,
-      "num": 281055,
-      "word": "张杰LESSERAFIM合照",
-      "onboard_time": 1689252456,
+      "raw_hot": 410919,
+      "num": 294759,
+      "word": "EXO再跳生命之树",
+      "onboard_time": 1689254616,
       "rank": 25,
-      "category": "音乐"
+      "category": "综艺"
     },
     {
       "raw_hot": 402791,
@@ -1233,6 +1265,14 @@
       "onboard_time": 1689217112,
       "rank": 34,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 374527,
+      "num": 374527,
+      "word": "蔡依林照片中的两个女孩都长大了",
+      "onboard_time": 1689252816,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 374444,
@@ -1403,14 +1443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 322973,
-      "num": 240537,
-      "word": "女子称在购买3年服装店被杀熟70元",
-      "onboard_time": 1689252273,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322860,
       "num": 322860,
       "word": "这一声BEIJING让整个中国沸腾了",
@@ -1523,6 +1555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289180,
+      "num": 289180,
+      "word": "EDG胜者组对阵BLG",
+      "onboard_time": 1689251978,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288393,
       "num": 288393,
       "word": "难怪安乐传又名安乐转",
@@ -1561,14 +1601,6 @@
       "onboard_time": 1689204326,
       "rank": 31,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 282506,
-      "num": 282506,
-      "word": "EDG胜者组对阵BLG",
-      "onboard_time": 1689251978,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 282215,
@@ -1827,12 +1859,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 239077,
-      "num": 239077,
-      "word": "蔡依林照片中的两个女孩都长大了",
-      "onboard_time": 1689252816,
-      "rank": 32,
-      "category": "社会新闻,艺人"
+      "raw_hot": 237470,
+      "num": 237470,
+      "word": "奇亚籽在我杯子内壁发芽了",
+      "onboard_time": 1689252635,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 236919,
@@ -1929,6 +1961,14 @@
       "onboard_time": 1689235710,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225634,
+      "num": 225634,
+      "word": "杨澄出车祸昏迷",
+      "onboard_time": 1689255158,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 224805,
@@ -2059,6 +2099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206981,
+      "num": 206981,
+      "word": "种地吧第二季是要进厂了吗",
+      "onboard_time": 1689254735,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205947,
       "num": 205947,
       "word": "一段中英混杂的简单表达",
@@ -2081,14 +2129,6 @@
       "onboard_time": 1689213813,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 203630,
-      "num": 203630,
-      "word": "奇亚籽在我杯子内壁发芽了",
-      "onboard_time": 1689252635,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 203209,
@@ -2259,6 +2299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185693,
+      "num": 185693,
+      "word": "张杰LESSERAFIM一起跳舞了",
+      "onboard_time": 1689253178,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183211,
       "num": 183211,
       "word": "安乐传回应片头制作",
@@ -2329,6 +2377,14 @@
       "onboard_time": 1689161912,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172163,
+      "num": 172163,
+      "word": "京城大师赛",
+      "onboard_time": 1689254554,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 169668,
@@ -2473,6 +2529,14 @@
       "onboard_time": 1689243275,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140108,
+      "num": 172099,
+      "word": "郑州一小学强制家长轮流站岗",
+      "onboard_time": 1689254856,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 140073,
@@ -2667,20 +2731,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32907,
+      "num": 1458763,
+      "word": "大国之大也有大国之重",
+      "onboard_time": 1689237335,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29797,
       "num": 40836,
       "word": "微博毕业派对",
       "onboard_time": 1689161672,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27422,
-      "num": 1376554,
-      "word": "大国之大也有大国之重",
-      "onboard_time": 1689237335,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27167,
