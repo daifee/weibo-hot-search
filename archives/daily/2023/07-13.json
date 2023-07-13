@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689239948263,
+  "endTime": 1689240864555,
   "band_list": [
     {
       "raw_hot": 3052648,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 856556,
-      "num": 327986,
+      "num": 377230,
       "word": "上海大叔煮丝袜奶茶曾拒绝百万买断费",
       "onboard_time": 1689234453,
       "rank": 30,
@@ -377,6 +377,14 @@
       "onboard_time": 1689228273,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 733780,
+      "num": 733780,
+      "word": "复旦现场领录取通知书名额20秒抢空",
+      "onboard_time": 1689239495,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 731433,
@@ -476,11 +484,19 @@
     },
     {
       "raw_hot": 641851,
-      "num": 413199,
+      "num": 527362,
       "word": "JDG换人",
       "onboard_time": 1689237932,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 641563,
+      "num": 446656,
+      "word": "李维嘉吴昕比水浓一点但又没超过血",
+      "onboard_time": 1689239315,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 618917,
@@ -491,8 +507,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 597973,
-      "num": 597973,
+      "raw_hot": 606113,
+      "num": 606113,
       "word": "山西殴打队长致死环卫工已被捕",
       "onboard_time": 1689236496,
       "rank": 44,
@@ -505,6 +521,14 @@
       "onboard_time": 1689174814,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 583282,
+      "num": 435611,
+      "word": "宋焰许沁结婚了",
+      "onboard_time": 1689240394,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 583201,
@@ -579,20 +603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533689,
+      "num": 533689,
+      "word": "好想被打入冷宫",
+      "onboard_time": 1689236372,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529497,
       "num": 529497,
       "word": "中方不接受不承认立场得到100多国支持",
       "onboard_time": 1689162512,
       "rank": 9,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 515260,
-      "num": 515260,
-      "word": "好想被打入冷宫",
-      "onboard_time": 1689236372,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 507474,
@@ -787,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424200,
+      "num": 350956,
+      "word": "素颜的谭松韵",
+      "onboard_time": 1689239735,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423799,
       "num": 423799,
       "word": "班主任回应牺牲民警女儿考上公安大学",
@@ -833,14 +865,6 @@
       "onboard_time": 1689213094,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 399557,
-      "num": 254644,
-      "word": "李维嘉吴昕比水浓一点但又没超过血",
-      "onboard_time": 1689239315,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 398235,
@@ -907,6 +931,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 359866,
+      "num": 359866,
+      "word": "朋友邀约玩上车却直奔缅甸",
+      "onboard_time": 1689239794,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359764,
       "num": 359764,
       "word": "安乐传追剧日历",
@@ -963,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340652,
+      "num": 340652,
+      "word": "长期吹空调不能吹到的部位",
+      "onboard_time": 1689240394,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 340199,
       "num": 340199,
       "word": "时代少年团换风格了",
@@ -985,14 +1025,6 @@
       "onboard_time": 1689176612,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333757,
-      "num": 333757,
-      "word": "复旦现场领录取通知书名额20秒抢空",
-      "onboard_time": 1689239495,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 333551,
@@ -1179,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277193,
+      "num": 333744,
+      "word": "爱宝双胞胎女儿喝奶画面",
+      "onboard_time": 1689238891,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277079,
       "num": 277079,
       "word": "迪丽热巴花裙子",
@@ -1267,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264929,
+      "num": 264929,
+      "word": "于正评价陈哲远",
+      "onboard_time": 1689238763,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264632,
       "num": 264632,
       "word": "刘诗诗孔雀蓝眼妆",
@@ -1299,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256828,
-      "num": 256828,
-      "word": "于正评价陈哲远",
-      "onboard_time": 1689238763,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254620,
       "num": 254620,
       "word": "三胎爸爸用老婆孩子生日组号中7710万",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1689212913,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251427,
+      "num": 251427,
+      "word": "刘惜君演我出门",
+      "onboard_time": 1689239975,
+      "rank": 34,
+      "category": "综艺,影视"
     },
     {
       "raw_hot": 248874,
@@ -1361,14 +1409,6 @@
       "onboard_time": 1689207514,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 240591,
-      "num": 333744,
-      "word": "爱宝双胞胎女儿喝奶画面",
-      "onboard_time": 1689238891,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236919,
@@ -1456,14 +1496,6 @@
       "word": "全员加速中",
       "onboard_time": 1689235710,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 224959,
-      "num": 224959,
-      "word": "素颜的谭松韵",
-      "onboard_time": 1689239735,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1577,14 +1609,6 @@
       "onboard_time": 1689208716,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206090,
-      "num": 206090,
-      "word": "朋友邀约玩上车却直奔缅甸",
-      "onboard_time": 1689239794,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205947,
@@ -1811,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163966,
+      "num": 950406,
+      "word": "这些录取通知书里满是骄傲和期许",
+      "onboard_time": 1689237573,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163474,
       "num": 163474,
       "word": "彭昱畅怎么还敢来",
@@ -1827,12 +1859,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 157519,
-      "num": 950406,
-      "word": "这些录取通知书里满是骄傲和期许",
-      "onboard_time": 1689237573,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 158854,
+      "num": 158854,
+      "word": "小猫咪有点智商但是不多",
+      "onboard_time": 1689240633,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 157224,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/13 17:19:08
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/13 17:34:24
 </p>
 </blockquote>
 <p>
@@ -5763,6 +5763,12 @@ EDG战胜WE（热度：734905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E7%8E%B0%E5%9C%BA%E9%A2%86%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%8D%E9%A2%9D20%E7%A7%92%E6%8A%A2%E7%A9%BA%23" target="weibo">
+复旦现场领录取通知书名额20秒抢空（热度：733780）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%AB%A5%E5%B9%B4%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%93%E5%88%B0%E9%BC%BB%E5%AD%90%E5%87%BA%E8%A1%80%23" target="weibo">
 杨迪童年被父亲打到鼻子出血（热度：732081）
 </a>
@@ -6005,12 +6011,6 @@ iPhone15系列8月将量产（热度：712352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%E4%B8%9C%E4%BA%AC17%E4%B8%AA%E5%9C%B0%E5%8C%BA%E5%9C%B0%E4%B8%8B%E6%B0%B4%E7%96%91%E5%8F%97%E6%B1%A1%E6%9F%93%23" target="weibo">
 驻日美军承认东京17个地区地下水疑受污染（热度：706134）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E6%9C%AA%E5%AE%9A%E8%81%94%E5%90%8D%23" target="weibo">
-茶百道未定联名（热度：704801）
 </a>
 </li>
 
