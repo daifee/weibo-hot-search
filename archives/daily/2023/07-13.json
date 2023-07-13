@@ -1,6 +1,6 @@
 {
   "startTime": 1689179109495,
-  "endTime": 1689222178498,
+  "endTime": 1689223052336,
   "band_list": [
     {
       "raw_hot": 3052648,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 2748726,
-      "num": 678360,
+      "num": 793893,
       "word": "腐烂在床上正在流行",
       "onboard_time": 1689216571,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2130868,
-      "num": 2130868,
+      "raw_hot": 2167364,
+      "num": 2167364,
       "word": "邓伦再成被执行人",
       "onboard_time": 1689219453,
       "rank": 18,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1339672,
+      "num": 1339672,
+      "word": "魏大勋为了背影像杨洋使劲减肥",
+      "onboard_time": 1689220475,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1251334,
       "num": 1251334,
       "word": "奔跑吧",
@@ -105,6 +113,14 @@
       "onboard_time": 1689217772,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1221680,
+      "num": 1221680,
+      "word": "于正回应吴谨言两年没戏拍",
+      "onboard_time": 1689221435,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 1120317,
@@ -139,19 +155,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1063593,
-      "num": 1063593,
-      "word": "魏大勋为了背影像杨洋使劲减肥",
-      "onboard_time": 1689220475,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1059110,
       "num": 858015,
       "word": "猪场因断电死亡462头猪损失近百万",
       "onboard_time": 1689202880,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1024873,
+      "num": 414325,
+      "word": "高温天妈妈将电扇让给孩子被热死",
+      "onboard_time": 1689221734,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -172,11 +188,19 @@
     },
     {
       "raw_hot": 1000622,
-      "num": 679660,
+      "num": 687523,
       "word": "井川里予回应近照",
       "onboard_time": 1689210755,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 889203,
+      "num": 889203,
+      "word": "清华博士花1月自制极光向女友求婚",
+      "onboard_time": 1689219212,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 871433,
@@ -211,12 +235,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 795869,
+      "num": 795869,
+      "word": "北京平均月薪13438元",
+      "onboard_time": 1689220715,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 777697,
       "num": 777697,
       "word": "宋焰给了孟宴臣10年机会",
       "onboard_time": 1689203905,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 705104,
+      "num": 705104,
+      "word": "马嘉祺电梯显示18楼",
+      "onboard_time": 1689221556,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 704373,
@@ -235,20 +275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 685405,
-      "num": 685405,
-      "word": "清华博士花1月自制极光向女友求婚",
-      "onboard_time": 1689219212,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 680412,
       "num": 680412,
       "word": "张一山靠在关晓彤后背哭",
       "onboard_time": 1689206914,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 664434,
+      "num": 664434,
+      "word": "重度自闭症男孩靠吹气球成网红",
+      "onboard_time": 1689219092,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660807,
@@ -275,18 +315,18 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 627196,
+      "num": 627196,
+      "word": "爱宝真的很相信姜爸爸",
+      "onboard_time": 1689219631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618917,
       "num": 618917,
       "word": "对方撤回了一个孟宴臣",
       "onboard_time": 1689214114,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 613524,
-      "num": 339712,
-      "word": "于正回应吴谨言两年没戏拍",
-      "onboard_time": 1689221435,
       "rank": 31,
       "category": "影视"
     },
@@ -331,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540016,
-      "num": 540016,
-      "word": "重度自闭症男孩靠吹气球成网红",
-      "onboard_time": 1689219092,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 529497,
       "num": 529497,
       "word": "中方不接受不承认立场得到100多国支持",
@@ -371,14 +403,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 490079,
-      "num": 414325,
-      "word": "高温天妈妈将电扇让给孩子被热死",
-      "onboard_time": 1689221734,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484730,
       "num": 457056,
       "word": "起猛了看成杨洋王楚然官宣了",
@@ -392,14 +416,6 @@
       "word": "女子半夜回酒店发现床上睡着陌生男子",
       "onboard_time": 1689212073,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469503,
-      "num": 469503,
-      "word": "爱宝真的很相信姜爸爸",
-      "onboard_time": 1689219631,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -475,28 +491,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 417783,
-      "num": 417783,
-      "word": "北京平均月薪13438元",
-      "onboard_time": 1689220715,
-      "rank": 18,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 415558,
-      "num": 415558,
-      "word": "马嘉祺电梯显示18楼",
-      "onboard_time": 1689221556,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 412177,
       "num": 397470,
       "word": "创造营2023 女团",
       "onboard_time": 1689166594,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401658,
+      "num": 401658,
+      "word": "玉骨遥名场面是肖战设计讨论的",
+      "onboard_time": 1689222217,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 400547,
@@ -529,6 +537,14 @@
       "onboard_time": 1689212374,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381758,
+      "num": 381758,
+      "word": "魏大勋机场生图",
+      "onboard_time": 1689222460,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 377791,
@@ -691,8 +707,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294285,
-      "num": 294285,
+      "raw_hot": 297982,
+      "num": 297982,
       "word": "张一山的鞋",
       "onboard_time": 1689220774,
       "rank": 34,
@@ -705,6 +721,14 @@
       "onboard_time": 1689209796,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284625,
+      "num": 284625,
+      "word": "白敬亭王鹤棣侯明昊打篮球路透",
+      "onboard_time": 1689217172,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 284336,
@@ -731,20 +755,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282004,
-      "num": 282004,
-      "word": "白敬亭王鹤棣侯明昊打篮球路透",
-      "onboard_time": 1689217172,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277079,
       "num": 277079,
       "word": "迪丽热巴花裙子",
       "onboard_time": 1689163832,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 274164,
+      "num": 274164,
+      "word": "和朋友吃火锅从分享制到责任制",
+      "onboard_time": 1689222035,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 270343,
+      "num": 270343,
+      "word": "时代少年团换风格了",
+      "onboard_time": 1689222939,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 267591,
@@ -785,6 +817,14 @@
       "onboard_time": 1689220894,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254685,
+      "num": 254685,
+      "word": "阿沙 性教育四季的变化",
+      "onboard_time": 1689222877,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 254620,
@@ -947,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214719,
-      "num": 214719,
-      "word": "和朋友吃火锅从分享制到责任制",
-      "onboard_time": 1689222035,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 208691,
       "num": 208691,
       "word": "安乐传首播战报",
@@ -1064,6 +1096,14 @@
       "word": "消防喷水20分钟解救3000只中暑鸭",
       "onboard_time": 1689203422,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166447,
+      "num": 302109,
+      "word": "宋代古莲开花了",
+      "onboard_time": 1689222637,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
