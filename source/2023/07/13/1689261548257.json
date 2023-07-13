@@ -1,0 +1,410 @@
+{
+  "runTime": 1689261548257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1886822,
+        "num": 1886822,
+        "word": "魏大勋直播",
+        "onboard_time": 1689250952,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1290195,
+        "num": 1290195,
+        "word": "为什么大家不愿意去泰国旅游了",
+        "onboard_time": 1689251497,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 8439,
+        "num": 1126597,
+        "word": "一刻钟便民生活圈建设真是细节控",
+        "onboard_time": 1689261398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1885785,
+        "num": 1087618,
+        "word": "魏大勋连夜买了个黑衬衫穿上",
+        "onboard_time": 1689251013,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1030631,
+        "num": 1030631,
+        "word": "双职工独立带娃的解决方案",
+        "onboard_time": 1689259237,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1010924,
+        "num": 1010924,
+        "word": "杨洋王楚然好像婚礼迎宾",
+        "onboard_time": 1689253235,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 935375,
+        "num": 935375,
+        "word": "王源任敏新剧收视率",
+        "onboard_time": 1689257797,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 924467,
+        "num": 924467,
+        "word": "还记得2008年发生了什么吗",
+        "onboard_time": 1689257736,
+        "rank": 7,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 711384,
+        "num": 843282,
+        "word": "电梯下坠积水渗入全家险被淹死",
+        "onboard_time": 1689256117,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609373,
+        "num": 796108,
+        "word": "高考钉子户唐尚珺公布高考志愿",
+        "onboard_time": 1689257616,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433916,
+        "num": 791223,
+        "word": "皓衣行",
+        "onboard_time": 1689259475,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 767631,
+        "num": 767631,
+        "word": "杨澄出车祸昏迷",
+        "onboard_time": 1689255158,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 707252,
+        "num": 707252,
+        "word": "安乐传口碑",
+        "onboard_time": 1689257859,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642069,
+        "num": 642069,
+        "word": "Cat",
+        "onboard_time": 1689260016,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 561626,
+        "num": 561626,
+        "word": "张元英胳膊缝了七针",
+        "onboard_time": 1689251013,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560083,
+        "num": 560083,
+        "word": "郑州一小学强制家长轮流站岗",
+        "onboard_time": 1689254856,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 524054,
+        "num": 524054,
+        "word": "长风渡魔改",
+        "onboard_time": 1689249452,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499994,
+        "num": 499994,
+        "word": "王鹤棣肚子",
+        "onboard_time": 1689243993,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392272,
+        "num": 392272,
+        "word": "容易导致眼睛度数上涨的原因",
+        "onboard_time": 1689245134,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 367089,
+        "num": 392027,
+        "word": "女子称在购买3年服装店被杀熟70元",
+        "onboard_time": 1689252273,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452228,
+        "num": 391961,
+        "word": "央八上半年收视TOP10",
+        "onboard_time": 1689256717,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438080,
+        "num": 391626,
+        "word": "宋焰许沁结婚了",
+        "onboard_time": 1689240394,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431296,
+        "num": 391204,
+        "word": "旅游时发朋友圈会让人反感吗",
+        "onboard_time": 1689255578,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 416238,
+        "num": 391005,
+        "word": "茉酸奶应该叫茉奶昔",
+        "onboard_time": 1689258037,
+        "rank": 23,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 390873,
+        "num": 390873,
+        "word": "DYG是怎么猝死的",
+        "onboard_time": 1689253474,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 406742,
+        "num": 390039,
+        "word": "玉骨遥",
+        "onboard_time": 1689258817,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170325,
+        "num": 383545,
+        "word": "爱宝双胞胎女儿喝奶画面",
+        "onboard_time": 1689238891,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311226,
+        "num": 379428,
+        "word": "中医",
+        "onboard_time": 1689248611,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262735,
+        "num": 377145,
+        "word": "蔡依林照片中的两个女孩都长大了",
+        "onboard_time": 1689252816,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 374909,
+        "num": 374909,
+        "word": "魏大勋说跟杨洋的眼神戏没赢过",
+        "onboard_time": 1689252214,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338566,
+        "num": 338566,
+        "word": "肖战方逸伦打戏好帅",
+        "onboard_time": 1689260075,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316959,
+        "num": 316959,
+        "word": "杨澄妈妈不承认谢乔是女朋友",
+        "onboard_time": 1689261034,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312085,
+        "num": 312085,
+        "word": "我爹一条朋友圈点赞人数",
+        "onboard_time": 1689240934,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9616,
+        "num": 309505,
+        "word": "这些录取通知书里满是骄傲和期许",
+        "onboard_time": 1689237573,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308914,
+        "num": 308914,
+        "word": "49岁何炅唱跳水平",
+        "onboard_time": 1689251376,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298232,
+        "num": 298232,
+        "word": "李斯丹妮给王宝强连发20条信息",
+        "onboard_time": 1689249331,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282492,
+        "num": 282492,
+        "word": "EXO再跳生命之树",
+        "onboard_time": 1689254616,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269684,
+        "num": 269684,
+        "word": "为什么魏大勋外号叫大勋花",
+        "onboard_time": 1689258635,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263002,
+        "num": 263002,
+        "word": "OMG战胜EDG",
+        "onboard_time": 1689256657,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239855,
+        "num": 239855,
+        "word": "萌兰萌二拆完萌大也开始拆了",
+        "onboard_time": 1689256417,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224039,
+        "num": 224039,
+        "word": "花23万布置户外婚礼变成了闹剧",
+        "onboard_time": 1689251013,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218817,
+        "num": 218817,
+        "word": "男子猥亵未成年不足10秒被判无罪",
+        "onboard_time": 1689246391,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209513,
+        "num": 209513,
+        "word": "中医十大名方",
+        "onboard_time": 1689260978,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 195281,
+        "num": 195281,
+        "word": "人际关系中最伤人的五个字",
+        "onboard_time": 1689242673,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194429,
+        "num": 194429,
+        "word": "AI的方向是不是搞错了",
+        "onboard_time": 1689260556,
+        "rank": 44,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 103053,
+        "num": 192907,
+        "word": "来自祖国的奶爸照顾爱宝和幼崽",
+        "onboard_time": 1689256778,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 192029,
+        "num": 192029,
+        "word": "男子嫖娼前被抓不服被处罚要求撤销",
+        "onboard_time": 1689242314,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185660,
+        "num": 185660,
+        "word": "网传花儿与少年5拟邀迪丽热巴刘耀文",
+        "onboard_time": 1689251497,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181139,
+        "num": 181139,
+        "word": "Newjeans可乐曲vsIVE可乐曲",
+        "onboard_time": 1689257674,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160545,
+        "num": 160545,
+        "word": "消失的她",
+        "onboard_time": 1689260739,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#阔步迈向网络强国#"
+    }
+  }
+}
