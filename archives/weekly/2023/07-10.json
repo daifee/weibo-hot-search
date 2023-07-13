@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689255168755,
+  "endTime": 1689255800663,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1853997,
+      "num": 1853997,
+      "word": "为什么大家不愿意去泰国旅游了",
+      "onboard_time": 1689251497,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1839688,
       "num": 1218433,
       "word": "杨洋 方头明",
@@ -681,14 +689,6 @@
       "onboard_time": 1689230313,
       "rank": 31,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1641586,
-      "num": 1641586,
-      "word": "为什么大家不愿意去泰国旅游了",
-      "onboard_time": 1689251497,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 1612800,
@@ -1675,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941796,
+      "num": 941796,
+      "word": "魏大勋说跟杨洋的眼神戏没赢过",
+      "onboard_time": 1689252214,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 937698,
       "num": 820649,
       "word": "肖战新剧妆造",
@@ -1760,14 +1768,6 @@
       "word": "孙俪时隔20年再演女刑警",
       "onboard_time": 1689137561,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 904546,
-      "num": 904546,
-      "word": "魏大勋说跟杨洋的眼神戏没赢过",
-      "onboard_time": 1689252214,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -2171,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 791399,
+      "num": 791399,
+      "word": "DYG是怎么猝死的",
+      "onboard_time": 1689253474,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 791194,
       "num": 791194,
       "word": "大勋拜托你以孟宴臣的人设参加",
@@ -2267,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753981,
+      "num": 753981,
+      "word": "杨洋王楚然好像婚礼迎宾",
+      "onboard_time": 1689253235,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 752766,
       "num": 752766,
       "word": "李梦 张隆每个月都有按时付钱",
@@ -2281,14 +2297,6 @@
       "onboard_time": 1688957309,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 747738,
-      "num": 449337,
-      "word": "杨洋王楚然好像婚礼迎宾",
-      "onboard_time": 1689253235,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 747268,
@@ -2400,6 +2408,14 @@
       "word": "千户苗寨火灾致2死6伤",
       "onboard_time": 1688982272,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714452,
+      "num": 714452,
+      "word": "女子称在购买3年服装店被杀熟70元",
+      "onboard_time": 1689252273,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2617,14 +2633,6 @@
       "onboard_time": 1689039331,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 667127,
-      "num": 667127,
-      "word": "DYG是怎么猝死的",
-      "onboard_time": 1689253474,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 665504,
@@ -3033,14 +3041,6 @@
       "onboard_time": 1689138100,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 587910,
-      "num": 587910,
-      "word": "女子称在购买3年服装店被杀熟70元",
-      "onboard_time": 1689252273,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583875,
@@ -3659,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498658,
+      "num": 417429,
+      "word": "EXO再跳生命之树",
+      "onboard_time": 1689254616,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497248,
       "num": 356016,
       "word": "夏雪结婚的话刘星应该也会这样吧",
@@ -3780,7 +3788,7 @@
     },
     {
       "raw_hot": 486042,
-      "num": 671127,
+      "num": 758556,
       "word": "上海报业集团程峰被查",
       "onboard_time": 1689249211,
       "rank": 8,
@@ -3969,6 +3977,14 @@
       "onboard_time": 1688987911,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 468459,
+      "num": 408714,
+      "word": "杨澄出车祸昏迷",
+      "onboard_time": 1689255158,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 467734,
@@ -4723,14 +4739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410919,
-      "num": 294759,
-      "word": "EXO再跳生命之树",
-      "onboard_time": 1689254616,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 409408,
       "num": 409408,
       "word": "偷看奶奶给妹妹发微信",
@@ -4795,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400671,
+      "num": 400671,
+      "word": "EDG胜者组对阵BLG",
+      "onboard_time": 1689251978,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 400547,
       "num": 400547,
       "word": "田柾国韩素希MV吵架镜头",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1688946567,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397618,
+      "num": 397618,
+      "word": "蔡依林照片中的两个女孩都长大了",
+      "onboard_time": 1689252816,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 396230,
@@ -5105,14 +5129,6 @@
       "onboard_time": 1688964577,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374527,
-      "num": 374527,
-      "word": "蔡依林照片中的两个女孩都长大了",
-      "onboard_time": 1689252816,
-      "rank": 32,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 374444,
@@ -6355,14 +6371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289180,
-      "num": 289180,
-      "word": "EDG胜者组对阵BLG",
-      "onboard_time": 1689251978,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 288393,
       "num": 288393,
       "word": "难怪安乐传又名安乐转",
@@ -7195,6 +7203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252663,
+      "num": 252663,
+      "word": "奇亚籽在我杯子内壁发芽了",
+      "onboard_time": 1689252635,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251427,
       "num": 251427,
       "word": "刘惜君演我出门",
@@ -7459,14 +7475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237470,
-      "num": 237470,
-      "word": "奇亚籽在我杯子内壁发芽了",
-      "onboard_time": 1689252635,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237430,
       "num": 213571,
       "word": "王源你的名字送给毕业生",
@@ -7715,14 +7723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225634,
-      "num": 225634,
-      "word": "杨澄出车祸昏迷",
-      "onboard_time": 1689255158,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224942,
       "num": 224942,
       "word": "果然青蛙人从来没让我失望过",
@@ -7817,6 +7817,14 @@
       "onboard_time": 1688960973,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220219,
+      "num": 220219,
+      "word": "郑州一小学强制家长轮流站岗",
+      "onboard_time": 1689254856,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 220015,
@@ -8003,6 +8011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214371,
+      "num": 214371,
+      "word": "种地吧第二季是要进厂了吗",
+      "onboard_time": 1689254735,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214005,
       "num": 214005,
       "word": "配角cut粉",
@@ -8153,14 +8169,6 @@
       "onboard_time": 1688954070,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206981,
-      "num": 206981,
-      "word": "种地吧第二季是要进厂了吗",
-      "onboard_time": 1689254735,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 206906,
@@ -8369,6 +8377,14 @@
       "onboard_time": 1689132335,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201103,
+      "num": 201103,
+      "word": "OMG对战EDG",
+      "onboard_time": 1689255514,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 200903,
@@ -8964,7 +8980,7 @@
     },
     {
       "raw_hot": 172163,
-      "num": 172163,
+      "num": 180870,
       "word": "京城大师赛",
       "onboard_time": 1689254554,
       "rank": 44,
@@ -9371,20 +9387,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140108,
-      "num": 172099,
-      "word": "郑州一小学强制家长轮流站岗",
-      "onboard_time": 1689254856,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 139268,
       "num": 189898,
       "word": "LGD对战TES",
       "onboard_time": 1689172776,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137573,
+      "num": 180532,
+      "word": "旅游时发朋友圈会让人反感吗",
+      "onboard_time": 1689255578,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 135640,
