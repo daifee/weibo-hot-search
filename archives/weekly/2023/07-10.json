@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689273467264,
+  "endTime": 1689275647768,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -10259,6 +10259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28124,
+      "num": 36638,
+      "word": "李玟何炅早期同框",
+      "onboard_time": 1689274155,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27838,
       "num": 53906,
       "word": "遇到离岸流有多危险",
@@ -10281,6 +10289,14 @@
       "onboard_time": 1689128853,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21664,
+      "num": 36621,
+      "word": "高考后你有复读的打算吗",
+      "onboard_time": 1689273734,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 20936,
