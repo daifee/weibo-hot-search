@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689268626957,
+  "endTime": 1689269680338,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -14939,6 +14939,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 412985,
+      "num": 412985,
+      "word": "王楚然的表情变化",
+      "onboard_time": 1689267565,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412769,
       "num": 411488,
       "word": "OMG战胜EDG",
@@ -26603,6 +26611,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 203788,
+      "num": 203788,
+      "word": "帮妈妈关灶烧伤女孩首次植皮成功",
+      "onboard_time": 1689266605,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203726,
       "num": 254376,
       "word": "WBG积分榜",
@@ -26617,14 +26633,6 @@
       "onboard_time": 1688791114,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203534,
-      "num": 203534,
-      "word": "王楚然的表情变化",
-      "onboard_time": 1689267565,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 203493,
@@ -27337,14 +27345,6 @@
       "onboard_time": 1689236973,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196110,
-      "num": 196110,
-      "word": "帮妈妈关灶烧伤女孩首次植皮成功",
-      "onboard_time": 1689266605,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196097,
@@ -31979,6 +31979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69984,
+      "num": 69984,
+      "word": "班长别扇了一会儿感冒了",
+      "onboard_time": 1689268221,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69448,
       "num": 65243,
       "word": "想在布达佩斯偶遇许光汉",
@@ -32041,6 +32049,14 @@
       "onboard_time": 1688200595,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66832,
+      "num": 66832,
+      "word": "刘宇你是来演小品的吗",
+      "onboard_time": 1689269480,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 66640,
