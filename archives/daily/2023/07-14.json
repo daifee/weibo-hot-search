@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689341776849,
+  "endTime": 1689344250869,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -65,6 +65,14 @@
       "onboard_time": 1689305252,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2914622,
+      "num": 753194,
+      "word": "奔跑吧收视率",
+      "onboard_time": 1689342942,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2613914,
@@ -171,12 +179,28 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1599893,
+      "num": 707998,
+      "word": "李在真 好你妈",
+      "onboard_time": 1689341863,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1562478,
       "num": 1562478,
       "word": "谢娜挡着车不让大家离开",
       "onboard_time": 1689314380,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1459150,
+      "num": 700654,
+      "word": "本轮猴痘疫情主要通过男男传播",
+      "onboard_time": 1689340723,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1433009,
@@ -233,6 +257,14 @@
       "onboard_time": 1689316115,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1218106,
+      "num": 775128,
+      "word": "米妮中文",
+      "onboard_time": 1689340661,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1215006,
@@ -361,6 +393,14 @@
       "onboard_time": 1689308376,
       "rank": 28,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 902070,
+      "num": 657525,
+      "word": "欢颜官宣定档",
+      "onboard_time": 1689341744,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 882344,
@@ -651,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609683,
+      "num": 609683,
+      "word": "黄渤大鹏五月天演唱会嘉宾",
+      "onboard_time": 1689343120,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 608189,
       "num": 330217,
       "word": "封神第一部美术场景特辑",
@@ -747,14 +795,6 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 572443,
-      "num": 403979,
-      "word": "本轮猴痘疫情主要通过男男传播",
-      "onboard_time": 1689340723,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 569713,
       "num": 569713,
       "word": "陶喆首场线上演唱会",
@@ -827,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543689,
+      "num": 760837,
+      "word": "女子切野生菌时嗦手指致中毒",
+      "onboard_time": 1689340240,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540161,
       "num": 424167,
       "word": "丫丫",
@@ -867,8 +915,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520877,
+      "num": 520877,
+      "word": "蔡依林出道24年首次liveband",
+      "onboard_time": 1689340183,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 520607,
-      "num": 458722,
+      "num": 587660,
       "word": "为什么戴眼镜比不戴好看",
       "onboard_time": 1689330695,
       "rank": 32,
@@ -955,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475624,
-      "num": 402995,
-      "word": "米妮中文",
-      "onboard_time": 1689340661,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 469932,
       "num": 361206,
       "word": "用一句话激怒所有大学生",
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 446490,
-      "num": 660725,
+      "num": 732950,
       "word": "北大首封录取通知书送到14岁少年手中",
       "onboard_time": 1689337660,
       "rank": 46,
@@ -1115,28 +1163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 402016,
-      "num": 402016,
-      "word": "欢颜官宣定档",
-      "onboard_time": 1689341744,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 400849,
       "num": 308741,
       "word": "工作一年后面相都变了",
       "onboard_time": 1689303451,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 399283,
-      "num": 399283,
-      "word": "蔡依林出道24年首次liveband",
-      "onboard_time": 1689340183,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 397602,
@@ -1315,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 335623,
+      "num": 610177,
+      "word": "WBG第一局零封RNG",
+      "onboard_time": 1689343243,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 335488,
       "num": 335488,
       "word": "奥运冠军张家齐参赛大运会",
@@ -1336,6 +1376,14 @@
       "word": "大江大河3杀青",
       "onboard_time": 1689331834,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327563,
+      "num": 327563,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1689343964,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1579,6 +1627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275874,
+      "num": 586946,
+      "word": "那时候把书堆的高高 其实是挡住了自己的未来",
+      "onboard_time": 1689339882,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 272470,
       "num": 271496,
       "word": "婚礼结束可以带回家做酸菜",
@@ -1593,14 +1649,6 @@
       "onboard_time": 1689257859,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 267024,
-      "num": 402413,
-      "word": "女子切野生菌时嗦手指致中毒",
-      "onboard_time": 1689340240,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266956,
@@ -1683,6 +1731,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 248091,
+      "num": 418827,
+      "word": "RNG对战WBG",
+      "onboard_time": 1689342703,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247730,
       "num": 247730,
       "word": "花23万布置户外婚礼变成了闹剧",
@@ -1721,14 +1777,6 @@
       "onboard_time": 1689295954,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 239597,
-      "num": 399472,
-      "word": "那时候把书堆的高高 其实是挡住了自己的未来",
-      "onboard_time": 1689339882,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 239525,
@@ -1875,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218016,
+      "num": 337613,
+      "word": "德约科维奇 裁判",
+      "onboard_time": 1689343663,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216968,
       "num": 216968,
       "word": "微波炉竟当上了外卖的大厨",
@@ -2011,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196753,
+      "num": 2916738,
+      "word": "我国成功研制新型光学晶体",
+      "onboard_time": 1689340003,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195452,
       "num": 188275,
       "word": "肖战咬风扇",
@@ -2065,14 +2129,6 @@
       "onboard_time": 1689252816,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 186743,
-      "num": 2916738,
-      "word": "我国成功研制新型光学晶体",
-      "onboard_time": 1689340003,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184567,
@@ -2392,6 +2448,14 @@
       "word": "医生旅游途中抢回一条人命",
       "onboard_time": 1689290183,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101964,
+      "num": 253413,
+      "word": "萌娃掀衣角露出圆鼓鼓的小肚子",
+      "onboard_time": 1689344203,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689341776849,
+  "endTime": 1689344250869,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -809,6 +809,14 @@
       "onboard_time": 1689129271,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2914622,
+      "num": 753194,
+      "word": "奔跑吧收视率",
+      "onboard_time": 1689342942,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2901542,
@@ -2723,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1599893,
+      "num": 707998,
+      "word": "李在真 好你妈",
+      "onboard_time": 1689341863,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1597778,
       "num": 1021064,
       "word": "狗头萝莉 美丽并不可耻",
@@ -3081,6 +3097,14 @@
       "onboard_time": 1688913874,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1459150,
+      "num": 700654,
+      "word": "本轮猴痘疫情主要通过男男传播",
+      "onboard_time": 1689340723,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1454687,
@@ -3929,6 +3953,14 @@
       "onboard_time": 1689071437,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1218106,
+      "num": 775128,
+      "word": "米妮中文",
+      "onboard_time": 1689340661,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1216616,
@@ -6209,6 +6241,14 @@
       "onboard_time": 1688713415,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 902070,
+      "num": 657525,
+      "word": "欢颜官宣定档",
+      "onboard_time": 1689341744,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 901903,
@@ -10491,6 +10531,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 609683,
+      "num": 609683,
+      "word": "黄渤大鹏五月天演唱会嘉宾",
+      "onboard_time": 1689343120,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 609429,
       "num": 509959,
       "word": "孟宴臣许沁cp粉出手了",
@@ -11193,14 +11241,6 @@
       "onboard_time": 1688742820,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 572443,
-      "num": 403979,
-      "word": "本轮猴痘疫情主要通过男男传播",
-      "onboard_time": 1689340723,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571983,
@@ -11971,6 +12011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 543689,
+      "num": 760837,
+      "word": "女子切野生菌时嗦手指致中毒",
+      "onboard_time": 1689340240,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543681,
       "num": 543681,
       "word": "中南大学一校友向母校捐赠6亿",
@@ -12475,8 +12523,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 520877,
+      "num": 520877,
+      "word": "蔡依林出道24年首次liveband",
+      "onboard_time": 1689340183,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 520607,
-      "num": 458722,
+      "num": 587660,
       "word": "为什么戴眼镜比不戴好看",
       "onboard_time": 1689330695,
       "rank": 32,
@@ -13675,14 +13731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475624,
-      "num": 402995,
-      "word": "米妮中文",
-      "onboard_time": 1689340661,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 475417,
       "num": 449873,
       "word": "肖战为了玉骨遥剧宣好努力",
@@ -14660,7 +14708,7 @@
     },
     {
       "raw_hot": 446490,
-      "num": 660725,
+      "num": 732950,
       "word": "北大首封录取通知书送到14岁少年手中",
       "onboard_time": 1689337660,
       "rank": 46,
@@ -16235,14 +16283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 402016,
-      "num": 402016,
-      "word": "欢颜官宣定档",
-      "onboard_time": 1689341744,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 401980,
       "num": 401980,
       "word": "女子过生日闺蜜送10万元刮刮乐",
@@ -16417,14 +16457,6 @@
       "onboard_time": 1688737540,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399283,
-      "num": 399283,
-      "word": "蔡依林出道24年首次liveband",
-      "onboard_time": 1689340183,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 398778,
@@ -19137,6 +19169,14 @@
       "onboard_time": 1688918429,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335623,
+      "num": 610177,
+      "word": "WBG第一局零封RNG",
+      "onboard_time": 1689343243,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 335488,
@@ -22587,6 +22627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275874,
+      "num": 586946,
+      "word": "那时候把书堆的高高 其实是挡住了自己的未来",
+      "onboard_time": 1689339882,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 275858,
       "num": 275858,
       "word": "少年推理社",
@@ -23153,14 +23201,6 @@
       "onboard_time": 1688867850,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 267024,
-      "num": 402413,
-      "word": "女子切野生菌时嗦手指致中毒",
-      "onboard_time": 1689340240,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266615,
@@ -24611,6 +24651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248091,
+      "num": 418827,
+      "word": "RNG对战WBG",
+      "onboard_time": 1689342703,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247959,
       "num": 247959,
       "word": "谢娜画完妆迫不及待和姐姐们贴贴",
@@ -25265,14 +25313,6 @@
       "onboard_time": 1688211930,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 239597,
-      "num": 399472,
-      "word": "那时候把书堆的高高 其实是挡住了自己的未来",
-      "onboard_time": 1689339882,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 239525,
@@ -26945,6 +26985,14 @@
       "onboard_time": 1689296313,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218016,
+      "num": 337613,
+      "word": "德约科维奇 裁判",
+      "onboard_time": 1689343663,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 217817,
@@ -28979,6 +29027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196753,
+      "num": 2916738,
+      "word": "我国成功研制新型光学晶体",
+      "onboard_time": 1689340003,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196673,
       "num": 196673,
       "word": "烧香的不一定是善人",
@@ -29985,14 +30041,6 @@
       "onboard_time": 1688387503,
       "rank": 41,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 186743,
-      "num": 2916738,
-      "word": "我国成功研制新型光学晶体",
-      "onboard_time": 1689340003,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186682,
@@ -33273,6 +33321,14 @@
       "onboard_time": 1688598146,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 101964,
+      "num": 253413,
+      "word": "萌娃掀衣角露出圆鼓鼓的小肚子",
+      "onboard_time": 1689344203,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101707,
