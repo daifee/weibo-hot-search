@@ -1,0 +1,410 @@
+{
+  "runTime": 1689339370276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13895730,
+        "num": 13895730,
+        "word": "奔跑吧",
+        "onboard_time": 1689335312,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1606087,
+        "num": 1606087,
+        "word": "她是不是没忘干净",
+        "onboard_time": 1689332796,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23150,
+        "num": 1013700,
+        "word": "中国式现代化是走和平发展道路的现代化",
+        "onboard_time": 1689322714,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8329808,
+        "num": 952279,
+        "word": "奔跑吧 原地消失术",
+        "onboard_time": 1689338621,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705499,
+        "num": 705499,
+        "word": "xiaohao尽力了",
+        "onboard_time": 1689337539,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1936997,
+        "num": 703204,
+        "word": "奔跑吧后期好牛",
+        "onboard_time": 1689338804,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1475801,
+        "num": 699499,
+        "word": "中国内地新增报告106例猴痘确诊病例",
+        "onboard_time": 1689336217,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923321,
+        "num": 692823,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724827,
+        "num": 690261,
+        "word": "邓超 看谁今晚还敢拿我的丑照做灯牌",
+        "onboard_time": 1689330273,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449049,
+        "num": 682793,
+        "word": "医院回应误给孩子用麻醉剂死亡",
+        "onboard_time": 1689329915,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1557041,
+        "num": 681853,
+        "word": "费曼 家庭有点奇怪因为我有两个妈妈",
+        "onboard_time": 1689330095,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1382713,
+        "num": 676418,
+        "word": "肖战警告肖战工作室",
+        "onboard_time": 1689325236,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1294802,
+        "num": 669126,
+        "word": "猴痘",
+        "onboard_time": 1689336456,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912195,
+        "num": 665080,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333966,
+        "num": 660725,
+        "word": "北大首封录取通知书送到14岁少年手中",
+        "onboard_time": 1689337660,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 765015,
+        "num": 653983,
+        "word": "范丞丞说魏大勋最近挺火的",
+        "onboard_time": 1689332492,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 653670,
+        "num": 653670,
+        "word": "杨洋说夸我时王楚然的反应",
+        "onboard_time": 1689335973,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292825,
+        "num": 652609,
+        "word": "小学已无00后",
+        "onboard_time": 1689325772,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 274284,
+        "num": 649822,
+        "word": "丫丫小尖脸变成小圆脸了",
+        "onboard_time": 1689316115,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235729,
+        "num": 648077,
+        "word": "中国政府部门几乎每天遭受海量网络攻击",
+        "onboard_time": 1689327460,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516334,
+        "num": 646402,
+        "word": "ChatGPT正式被美国调查",
+        "onboard_time": 1689335439,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 645455,
+        "num": 645455,
+        "word": "男子结扎1年妻子怀孕医院赔1万4",
+        "onboard_time": 1689331716,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597880,
+        "num": 597880,
+        "word": "他从火光中走来",
+        "onboard_time": 1689330155,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574584,
+        "num": 574584,
+        "word": "韩素希红丝袜",
+        "onboard_time": 1689334892,
+        "rank": 23,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 434404,
+        "num": 541570,
+        "word": "当我带着两个西瓜过安检",
+        "onboard_time": 1689339043,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 525215,
+        "num": 525215,
+        "word": "陶喆首场线上演唱会",
+        "onboard_time": 1689337903,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 460757,
+        "num": 460757,
+        "word": "到底是谁在捧魏大勋",
+        "onboard_time": 1689320135,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 421516,
+        "num": 421516,
+        "word": "文咏珊说李木子茶里茶气",
+        "onboard_time": 1689335613,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251478,
+        "num": 420126,
+        "word": "为什么戴眼镜比不戴好看",
+        "onboard_time": 1689330695,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245678,
+        "num": 419014,
+        "word": "淀粉肠里是淀粉还是肉",
+        "onboard_time": 1689332913,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350285,
+        "num": 417359,
+        "word": "TFBOYS十周年演唱会或将7月25日官宣",
+        "onboard_time": 1689329555,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273661,
+        "num": 416410,
+        "word": "宁艺卓ins发了爱宝的双胞胎",
+        "onboard_time": 1689333574,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225219,
+        "num": 415572,
+        "word": "中国好声音",
+        "onboard_time": 1689337964,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217574,
+        "num": 413890,
+        "word": "给小动物都加上了手手之后",
+        "onboard_time": 1689335795,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205638,
+        "num": 411769,
+        "word": "鱼鳞云",
+        "onboard_time": 1689337721,
+        "rank": 34,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 209382,
+        "num": 411106,
+        "word": "白鹿和周深说什么了",
+        "onboard_time": 1689323791,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204743,
+        "num": 409589,
+        "word": "范丞丞扫楼穿真空西装",
+        "onboard_time": 1689327160,
+        "rank": 36,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 198113,
+        "num": 408721,
+        "word": "马伯骞谈与赵露思合作",
+        "onboard_time": 1689334892,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192804,
+        "num": 406593,
+        "word": "女生考上华科大曾就读幼儿园拉横幅庆祝",
+        "onboard_time": 1689337297,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 186701,
+        "num": 405560,
+        "word": "这榴莲要不是怕脏都不长皮了",
+        "onboard_time": 1689322235,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178273,
+        "num": 404433,
+        "word": "找那种有傲骨的男的 吃亏的绝对不是咱",
+        "onboard_time": 1689336575,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170325,
+        "num": 402512,
+        "word": "TFBOYS十周年演唱会通过审批",
+        "onboard_time": 1689332254,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168506,
+        "num": 400859,
+        "word": "虎鲸为什么喜欢亲近人类",
+        "onboard_time": 1689334054,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160646,
+        "num": 400273,
+        "word": "正式确诊为那英",
+        "onboard_time": 1689308436,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 152833,
+        "num": 398899,
+        "word": "seven",
+        "onboard_time": 1689331116,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152466,
+        "num": 396893,
+        "word": "关晓彤竟然也演过家有儿女",
+        "onboard_time": 1689318455,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146712,
+        "num": 394977,
+        "word": "薛之谦衡阳",
+        "onboard_time": 1689339347,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143534,
+        "num": 394570,
+        "word": "毕业不设限",
+        "onboard_time": 1689338565,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 142467,
+        "num": 393405,
+        "word": "未定事件簿三周年",
+        "onboard_time": 1689336633,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139359,
+        "num": 391685,
+        "word": "动物园为丫丫开启喷淋模式",
+        "onboard_time": 1689325412,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共绘网上网下同心圆#"
+    }
+  }
+}
