@@ -1,0 +1,410 @@
+{
+  "runTime": 1689311904486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4259646,
+        "num": 4259646,
+        "word": "正式确诊为那英",
+        "onboard_time": 1689308436,
+        "rank": 0,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1633024,
+        "num": 1633024,
+        "word": "家属确认旅行博主姜野在新疆遇难",
+        "onboard_time": 1689308013,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78089,
+        "num": 1512039,
+        "word": "成都大运会收看指南",
+        "onboard_time": 1689303751,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1391078,
+        "num": 1391078,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1211525,
+        "num": 1211525,
+        "word": "田柾国韩素希水中镜头",
+        "onboard_time": 1689310001,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1142936,
+        "num": 1142936,
+        "word": "王珞丹是怎么选到魏大勋的",
+        "onboard_time": 1689303691,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 909606,
+        "num": 909606,
+        "word": "迪丽热巴想回新疆吃水果",
+        "onboard_time": 1689308376,
+        "rank": 6,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 877978,
+        "num": 877978,
+        "word": "六公主发了魏大勋",
+        "onboard_time": 1689298529,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679018,
+        "num": 679018,
+        "word": "原来爱宝的双胞胎女儿是这么来的",
+        "onboard_time": 1689309219,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676557,
+        "num": 676557,
+        "word": "丫丫胖了吃笋嘎嘎香",
+        "onboard_time": 1689303992,
+        "rank": 9,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 2080667,
+        "num": 633757,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 806256,
+        "num": 632812,
+        "word": "曹格说还是爱吴速玲",
+        "onboard_time": 1689308136,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716740,
+        "num": 622498,
+        "word": "Angelababy穿泳装",
+        "onboard_time": 1689303451,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 578156,
+        "num": 578156,
+        "word": "小鸟落身上不走大学生找警察求助",
+        "onboard_time": 1689309400,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562578,
+        "num": 562578,
+        "word": "制伏上海地铁辱华女当事人质疑警方通告",
+        "onboard_time": 1689309040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545413,
+        "num": 545413,
+        "word": "女儿模特妈妈客服售假一年卖了30万",
+        "onboard_time": 1689303212,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 527499,
+        "num": 527499,
+        "word": "田柾国solo出道曲seven",
+        "onboard_time": 1689307956,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 523814,
+        "num": 523814,
+        "word": "迪丽热巴金世佳新剧对手戏",
+        "onboard_time": 1689307353,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433978,
+        "num": 433978,
+        "word": "bw",
+        "onboard_time": 1689308013,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 426932,
+        "num": 426932,
+        "word": "公公贴心给儿媳在草原修了一个马桶",
+        "onboard_time": 1689299430,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532619,
+        "num": 426675,
+        "word": "旺仔发孟宴臣",
+        "onboard_time": 1689311021,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459710,
+        "num": 425595,
+        "word": "女童因乱小便被爸爸倒挂窗外责罚",
+        "onboard_time": 1689306332,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452733,
+        "num": 425287,
+        "word": "SuperJunior续约",
+        "onboard_time": 1689308619,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437399,
+        "num": 424167,
+        "word": "丫丫",
+        "onboard_time": 1689310843,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423898,
+        "num": 423898,
+        "word": "校长回应亲嘴事件是错位实属误伤",
+        "onboard_time": 1689305433,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450590,
+        "num": 406667,
+        "word": "玖月晞谈宋焰许沁",
+        "onboard_time": 1689303870,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388692,
+        "num": 388692,
+        "word": "绝交吧爸爸官宣改名定档",
+        "onboard_time": 1689309219,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386088,
+        "num": 386088,
+        "word": "爱吃雪糕和螺蛳粉的都沉默了",
+        "onboard_time": 1689308978,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381323,
+        "num": 381323,
+        "word": "女子孕期自备570个面食当月子餐",
+        "onboard_time": 1689295771,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356102,
+        "num": 356102,
+        "word": "王俊凯 五月天嘉宾",
+        "onboard_time": 1689304891,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 355596,
+        "num": 355596,
+        "word": "EXO时隔6年中文采访",
+        "onboard_time": 1689307475,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 354469,
+        "num": 354469,
+        "word": "李白为什么写下轻舟已过万重山",
+        "onboard_time": 1689298770,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335488,
+        "num": 335488,
+        "word": "奥运冠军张家齐参赛大运会",
+        "onboard_time": 1689310179,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331138,
+        "num": 331138,
+        "word": "录取通知书里拆出了隐藏款胸章",
+        "onboard_time": 1689300271,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 315662,
+        "num": 315662,
+        "word": "不让开空调的同事又出现了",
+        "onboard_time": 1689311021,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309046,
+        "num": 309046,
+        "word": "我与易烊千玺的十年",
+        "onboard_time": 1689309462,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308741,
+        "num": 308741,
+        "word": "工作一年后面相都变了",
+        "onboard_time": 1689303451,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294192,
+        "num": 294192,
+        "word": "姜野",
+        "onboard_time": 1689306459,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281300,
+        "num": 281300,
+        "word": "没迪丽热巴龚俊这样的鼻子可不行",
+        "onboard_time": 1689311499,
+        "rank": 38,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 280431,
+        "num": 280431,
+        "word": "拜登称普京已输掉战争",
+        "onboard_time": 1689310962,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 277525,
+        "num": 277525,
+        "word": "男子疑将已刮刮刮乐重新覆膜",
+        "onboard_time": 1689298587,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275922,
+        "num": 275922,
+        "word": "不求人汤圆分手",
+        "onboard_time": 1689291807,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266991,
+        "num": 266991,
+        "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
+        "onboard_time": 1689297150,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228928,
+        "num": 228928,
+        "word": "鲨鱼疑似噎住潜水员海姆立克法急救",
+        "onboard_time": 1689311380,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227639,
+        "num": 227639,
+        "word": "许沁好像觉醒了的纸片人",
+        "onboard_time": 1689311678,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223693,
+        "num": 223693,
+        "word": "宫崎骏 你想活出怎样的人生",
+        "onboard_time": 1689305733,
+        "rank": 45,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 190002,
+        "num": 223689,
+        "word": "消失的她密钥延期",
+        "onboard_time": 1689306935,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183631,
+        "num": 223686,
+        "word": "孟宴臣的角色号呢",
+        "onboard_time": 1689303751,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177807,
+        "num": 223679,
+        "word": "熊猫宝宝越粉证明妈妈爱得越深",
+        "onboard_time": 1689302669,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146334,
+        "num": 223676,
+        "word": "公司的下午茶得配一碗米饭",
+        "onboard_time": 1689302131,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#共绘网上网下同心圆#"
+    }
+  }
+}
