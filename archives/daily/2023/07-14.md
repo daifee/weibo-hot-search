@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/14 00:25:06 ~ 2023/07/14 12:22:55
+本榜单时间：2023/07/14 00:25:06 ~ 2023/07/14 12:37:30
 </p>
 </blockquote>
 <p>
@@ -21,14 +21,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%8A%95%E6%AF%92%E8%87%B425%E5%B9%BC%E5%84%BF%E4%B8%AD%E6%AF%92%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-老师投毒致25幼儿中毒被执行死刑（热度：3087922）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E5%B7%9D%E9%87%8C%E4%BA%88%20%E6%88%91%E5%B0%B1%E6%98%AF%E8%A7%89%E5%BE%97%E5%BE%88%E6%BC%82%E4%BA%AE%E5%95%8A%23" target="weibo">
+井川里予 我就是觉得很漂亮啊（热度：3146010）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E5%B7%9D%E9%87%8C%E4%BA%88%20%E6%88%91%E5%B0%B1%E6%98%AF%E8%A7%89%E5%BE%97%E5%BE%88%E6%BC%82%E4%BA%AE%E5%95%8A%23" target="weibo">
-井川里予 我就是觉得很漂亮啊（热度：2983894）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%8A%95%E6%AF%92%E8%87%B425%E5%B9%BC%E5%84%BF%E4%B8%AD%E6%AF%92%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+老师投毒致25幼儿中毒被执行死刑（热度：3087922）
 </a>
 </li>
 
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%93%B6%E8%A1%8C%E9%AB%98%E7%AE%A1%E5%A8%B6%E5%9B%9B%E4%B8%AA%E8%80%81%E5%A9%86%E8%8E%B7%E5%88%91%23" target="weibo">
 上海银行高管娶四个老婆获刑（热度：2061854）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%82%A3%E8%8B%B1%23" target="weibo">
+正式确诊为那英（热度：2058343）
 </a>
 </li>
 
@@ -87,6 +93,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A1%AE%E8%AE%A4%E6%97%85%E8%A1%8C%E5%8D%9A%E4%B8%BB%E5%A7%9C%E9%87%8E%E5%9C%A8%E6%96%B0%E7%96%86%E9%81%87%E9%9A%BE%23" target="weibo">
+家属确认旅行博主姜野在新疆遇难（热度：1206130）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%83%96%E4%BA%86%E5%90%83%E7%AC%8B%E5%98%8E%E5%98%8E%E9%A6%99%23" target="weibo">
 丫丫胖了吃笋嘎嘎香（热度：1197964）
 </a>
@@ -106,7 +118,13 @@ Angelababy穿泳装（热度：1127237）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BDsolo%E5%87%BA%E9%81%93%E6%9B%B2seven%23" target="weibo">
-田柾国solo出道曲seven（热度：890892）
+田柾国solo出道曲seven（热度：938910）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%87%91%E4%B8%96%E4%BD%B3%E6%96%B0%E5%89%A7%E5%AF%B9%E6%89%8B%E6%88%8F%23" target="weibo">
+迪丽热巴金世佳新剧对手戏（热度：917772）
 </a>
 </li>
 
@@ -123,8 +141,8 @@ Angelababy穿泳装（热度：1127237）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%87%91%E4%B8%96%E4%BD%B3%E6%96%B0%E5%89%A7%E5%AF%B9%E6%89%8B%E6%88%8F%23" target="weibo">
-迪丽热巴金世佳新剧对手戏（热度：825643）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%83%B3%E5%9B%9E%E6%96%B0%E7%96%86%E5%90%83%E6%B0%B4%E6%9E%9C%23" target="weibo">
+迪丽热巴想回新疆吃水果（热度：839558）
 </a>
 </li>
 
@@ -153,6 +171,12 @@ Angelababy穿泳装（热度：1127237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%A0%BC%E8%AF%B4%E8%BF%98%E6%98%AF%E7%88%B1%E5%90%B4%E9%80%9F%E7%8E%B2%23" target="weibo">
+曹格说还是爱吴速玲（热度：726133）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E9%A5%BC%E5%AD%9F%E9%B9%A4%E5%A0%82%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%8D%8A%E5%A4%9C%E6%88%BF%E5%AD%90%E5%A1%8C%E4%BA%86%23" target="weibo">
 烧饼孟鹤堂秦霄贤半夜房子塌了（热度：719897）
 </a>
@@ -173,6 +197,12 @@ Angelababy穿泳装（热度：1127237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%91%E7%8E%B0%E6%B1%89%E5%A0%A1%E5%B0%91%E4%B8%80%E5%8D%8A%23" target="weibo">
 男子吃肯德基发现汉堡少一半（热度：709106）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E5%9B%A0%E4%B9%B1%E5%B0%8F%E4%BE%BF%E8%A2%AB%E7%88%B8%E7%88%B8%E5%80%92%E6%8C%82%E7%AA%97%E5%A4%96%E8%B4%A3%E7%BD%9A%23" target="weibo">
+女童因乱小便被爸爸倒挂窗外责罚（热度：675157）
 </a>
 </li>
 
@@ -225,6 +255,12 @@ Angelababy穿泳装（热度：1127237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23bw%23" target="weibo">
+bw（热度：601269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%87%8C%E6%8B%86%E5%87%BA%E4%BA%86%E9%9A%90%E8%97%8F%E6%AC%BE%E8%83%B8%E7%AB%A0%23" target="weibo">
 录取通知书里拆出了隐藏款胸章（热度：600222）
 </a>
@@ -249,12 +285,6 @@ Cat（热度：589147）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E5%9B%A0%E4%B9%B1%E5%B0%8F%E4%BE%BF%E8%A2%AB%E7%88%B8%E7%88%B8%E5%80%92%E6%8C%82%E7%AA%97%E5%A4%96%E8%B4%A3%E7%BD%9A%23" target="weibo">
-女童因乱小便被爸爸倒挂窗外责罚（热度：576513）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E4%B8%89%E5%9F%8E%23" target="weibo">
 王心凌演唱会官宣三城（热度：558756）
 </a>
@@ -275,12 +305,6 @@ Cat（热度：589147）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%97%E8%A6%811%E5%85%83%E5%BA%97%E5%AE%B6%E8%B5%A0%E5%A4%A7%E7%A2%97%E9%A5%AD%E5%85%A8%E5%90%83%E5%85%89%23" target="weibo">
 老人进店要1元店家赠大碗饭全吃光（热度：525566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A1%AE%E8%AE%A4%E6%97%85%E8%A1%8C%E5%8D%9A%E4%B8%BB%E5%A7%9C%E9%87%8E%E5%9C%A8%E6%96%B0%E7%96%86%E9%81%87%E9%9A%BE%23" target="weibo">
-家属确认旅行博主姜野在新疆遇难（热度：510856）
 </a>
 </li>
 
@@ -327,12 +351,6 @@ EXO时隔6年中文采访（热度：483898）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%A0%BC%E8%AF%B4%E8%BF%98%E6%98%AF%E7%88%B1%E5%90%B4%E9%80%9F%E7%8E%B2%23" target="weibo">
-曹格说还是爱吴速玲（热度：432801）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B77%E6%9C%88%E7%89%87%E5%8D%95%23" target="weibo">
 优酷7月片单（热度：432282）
 </a>
@@ -346,7 +364,7 @@ EXO时隔6年中文采访（热度：483898）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%B8%80%E5%B9%B4%E5%90%8E%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86%23" target="weibo">
-工作一年后面相都变了（热度：400260）
+工作一年后面相都变了（热度：400849）
 </a>
 </li>
 
@@ -371,12 +389,6 @@ EXO时隔6年中文采访（热度：483898）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B1%B1%E4%BA%91%E6%A2%AF%E5%B7%B2%E5%85%B3%E9%97%AD%23" target="weibo">
 华山云梯已关闭（热度：390772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23bw%23" target="weibo">
-bw（热度：390347）
 </a>
 </li>
 
@@ -417,18 +429,6 @@ yskm（热度：381914）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%83%B3%E5%9B%9E%E6%96%B0%E7%96%86%E5%90%83%E6%B0%B4%E6%9E%9C%23" target="weibo">
-迪丽热巴想回新疆吃水果（热度：371466）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%82%A3%E8%8B%B1%23" target="weibo">
-正式确诊为那英（热度：360624）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E6%80%BB%E6%98%AF%E7%94%A8%E7%A6%BB%E5%BC%80%E6%9D%A5%E8%AF%95%E6%8E%A2%E7%88%B1%23" target="weibo">
 人类总是用离开来试探爱（热度：353872）
 </a>
@@ -437,6 +437,12 @@ yskm（热度：381914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E6%A2%AF%E4%B8%8B%E5%9D%A0%E7%A7%AF%E6%B0%B4%E6%B8%97%E5%85%A5%E5%85%A8%E5%AE%B6%E9%99%A9%E8%A2%AB%E6%B7%B9%E6%AD%BB%23" target="weibo">
 电梯下坠积水渗入全家险被淹死（热度：347100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23SuperJunior%E7%BB%AD%E7%BA%A6%23" target="weibo">
+SuperJunior续约（热度：341985）
 </a>
 </li>
 
@@ -455,6 +461,12 @@ yskm（热度：381914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%AE%E5%A6%88%E5%A6%88%E5%85%B3%E7%81%B6%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E9%A6%96%E6%AC%A1%E6%A4%8D%E7%9A%AE%E6%88%90%E5%8A%9F%23" target="weibo">
 帮妈妈关灶烧伤女孩首次植皮成功（热度：335026）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E9%9B%AA%E7%B3%95%E5%92%8C%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
+爱吃雪糕和螺蛳粉的都沉默了（热度：328385）
 </a>
 </li>
 
@@ -508,7 +520,13 @@ yskm（热度：381914）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B2%E8%8A%B1%E4%B8%8D%E7%9F%A5%E9%81%93%E9%BB%84%E5%AD%90%E9%9F%AC%E6%98%AFrapper%23" target="weibo">
-玲花不知道黄子韬是rapper（热度：276633）
+玲花不知道黄子韬是rapper（热度：276913）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%9D%E4%BA%A4%E5%90%A7%E7%88%B8%E7%88%B8%E5%AE%98%E5%AE%A3%E6%94%B9%E5%90%8D%E5%AE%9A%E6%A1%A3%23" target="weibo">
+绝交吧爸爸官宣改名定档（热度：272819）
 </a>
 </li>
 
@@ -533,6 +551,12 @@ yskm（热度：381914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E7%BB%99%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%BF%9E%E5%8F%9120%E6%9D%A1%E4%BF%A1%E6%81%AF%23" target="weibo">
 李斯丹妮给王宝强连发20条信息（热度：264963）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%B6%E4%BC%8F%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%BE%B1%E5%8D%8E%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B4%A8%E7%96%91%E8%AD%A6%E6%96%B9%E9%80%9A%E5%91%8A%23" target="weibo">
+制伏上海地铁辱华女当事人质疑警方通告（热度：260584）
 </a>
 </li>
 
@@ -573,6 +597,12 @@ yskm（热度：381914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%9A%84%E8%A7%92%E8%89%B2%E5%8F%B7%E5%91%A2%23" target="weibo">
+孟宴臣的角色号呢（热度：239525）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23gidle%E9%A6%96%E6%94%AF%E8%8B%B1%E6%96%87%E5%8D%95%E6%9B%B2ido%E4%B8%8A%E7%BA%BF%23" target="weibo">
 gidle首支英文单曲ido上线（热度：233335）
 </a>
@@ -587,12 +617,6 @@ gidle首支英文单曲ido上线（热度：233335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%89%8B%E6%9C%BA%E5%BD%B1%E5%83%8F%E5%B9%B4%23" target="weibo">
 微博手机影像年（热度：229936）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%9A%84%E8%A7%92%E8%89%B2%E5%8F%B7%E5%91%A2%23" target="weibo">
-孟宴臣的角色号呢（热度：225412）
 </a>
 </li>
 
@@ -640,7 +664,7 @@ gidle首支英文单曲ido上线（热度：233335）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E6%B3%A2%E7%82%89%E7%AB%9F%E5%BD%93%E4%B8%8A%E4%BA%86%E5%A4%96%E5%8D%96%E7%9A%84%E5%A4%A7%E5%8E%A8%23" target="weibo">
-微波炉竟当上了外卖的大厨（热度：216218）
+微波炉竟当上了外卖的大厨（热度：216968）
 </a>
 </li>
 
@@ -693,6 +717,12 @@ gidle首支英文单曲ido上线（热度：233335）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B8%9F%E8%90%BD%E8%BA%AB%E4%B8%8A%E4%B8%8D%E8%B5%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%BE%E8%AD%A6%E5%AF%9F%E6%B1%82%E5%8A%A9%23" target="weibo">
+小鸟落身上不走大学生找警察求助（热度：201544）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E8%AF%B4%E5%B0%8F%E9%B1%BC%E5%84%BF%E6%98%AF%E6%8E%A8%E5%BC%80%E8%A1%A8%E6%BC%94%E5%A4%A7%E9%97%A8%E7%9A%84%E8%A7%92%E8%89%B2%23" target="weibo">
 陈哲远说小鱼儿是推开表演大门的角色（热度：198284）
 </a>
@@ -719,6 +749,12 @@ gidle首支英文单曲ido上线（热度：233335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%93%A5%E7%88%AC%E7%AA%97%E6%95%91%E4%B8%8B%E5%AD%A9%E5%AD%90%E5%90%8E%E5%B1%8B%E5%86%85%E7%9E%AC%E7%87%83%23" target="weibo">
 山东大哥爬窗救下孩子后屋内瞬燃（热度：191323）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%B8%AB%E4%B8%AB%E5%A4%A7%E5%8F%A3%E5%90%83%E7%AC%8B%E5%A5%BD%E6%B2%BB%E6%84%88%23" target="weibo">
+看丫丫大口吃笋好治愈（热度：190372）
 </a>
 </li>
 

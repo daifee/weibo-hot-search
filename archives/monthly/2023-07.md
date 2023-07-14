@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/14 12:22:55
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/14 12:37:30
 </p>
 </blockquote>
 <p>
@@ -483,6 +483,12 @@ ALin 金曲歌后（热度：3526747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E5%B7%9D%E9%87%8C%E4%BA%88%20%E6%88%91%E5%B0%B1%E6%98%AF%E8%A7%89%E5%BE%97%E5%BE%88%E6%BC%82%E4%BA%AE%E5%95%8A%23" target="weibo">
+井川里予 我就是觉得很漂亮啊（热度：3146010）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%23" target="weibo">
 宝格丽客服回应（热度：3132517）
 </a>
@@ -569,12 +575,6 @@ ALin 金曲歌后（热度：3526747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E5%A4%A7%E8%AF%B4%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E6%98%AF%E7%9C%9F%E7%9A%84%E5%B0%B1%E7%A5%9D%E7%A6%8F%23" target="weibo">
 张大大说白敬亭宋轶是真的就祝福（热度：2992464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E5%B7%9D%E9%87%8C%E4%BA%88%20%E6%88%91%E5%B0%B1%E6%98%AF%E8%A7%89%E5%BE%97%E5%BE%88%E6%BC%82%E4%BA%AE%E5%95%8A%23" target="weibo">
-井川里予 我就是觉得很漂亮啊（热度：2983894）
 </a>
 </li>
 
@@ -1199,6 +1199,12 @@ JackeyLove退出亚运会名单（热度：2146090）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%93%B6%E8%A1%8C%E9%AB%98%E7%AE%A1%E5%A8%B6%E5%9B%9B%E4%B8%AA%E8%80%81%E5%A9%86%E8%8E%B7%E5%88%91%23" target="weibo">
 上海银行高管娶四个老婆获刑（热度：2061854）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%82%A3%E8%8B%B1%23" target="weibo">
+正式确诊为那英（热度：2058343）
 </a>
 </li>
 
@@ -2883,6 +2889,12 @@ CA1524 颠簸（热度：1224819）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A1%AE%E8%AE%A4%E6%97%85%E8%A1%8C%E5%8D%9A%E4%B8%BB%E5%A7%9C%E9%87%8E%E5%9C%A8%E6%96%B0%E7%96%86%E9%81%87%E9%9A%BE%23" target="weibo">
+家属确认旅行博主姜野在新疆遇难（热度：1206130）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%A5%B3%E5%AD%90%E4%B8%8E%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%91%98%E5%B7%A5%E8%B5%B7%E5%86%B2%E7%AA%81%23" target="weibo">
 2女子与蜜雪冰城员工起冲突（热度：1205466）
 </a>
@@ -4233,6 +4245,12 @@ TES（热度：1010809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BDsolo%E5%87%BA%E9%81%93%E6%9B%B2seven%23" target="weibo">
+田柾国solo出道曲seven（热度：938910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%97%A9%E5%87%A0%E5%B9%B4%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23" target="weibo">
 魏大勋早几年干嘛去了（热度：938070）
 </a>
@@ -4373,6 +4391,12 @@ Cat（热度：923176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%92%8C%E9%AB%98%E5%9C%86%E5%9C%86%E6%AF%8F%E5%B9%B4%E9%83%BD%E4%BC%9A%E8%A7%81%E5%87%A0%E6%AC%A1%23" target="weibo">
 贾静雯和高圆圆每年都会见几次（热度：919286）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%87%91%E4%B8%96%E4%BD%B3%E6%96%B0%E5%89%A7%E5%AF%B9%E6%89%8B%E6%88%8F%23" target="weibo">
+迪丽热巴金世佳新剧对手戏（热度：917772）
 </a>
 </li>
 
@@ -4589,12 +4613,6 @@ B组签售（热度：902649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23DYG%E6%98%AF%E6%80%8E%E4%B9%88%E7%8C%9D%E6%AD%BB%E7%9A%84%23" target="weibo">
 DYG是怎么猝死的（热度：891189）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BDsolo%E5%87%BA%E9%81%93%E6%9B%B2seven%23" target="weibo">
-田柾国solo出道曲seven（热度：890892）
 </a>
 </li>
 
@@ -5043,6 +5061,12 @@ EXO回归新歌CreamSoda（热度：843735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%83%B3%E5%9B%9E%E6%96%B0%E7%96%86%E5%90%83%E6%B0%B4%E6%9E%9C%23" target="weibo">
+迪丽热巴想回新疆吃水果（热度：839558）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%BE%B3%E6%B4%B2%E6%89%93%E5%B7%A54%E5%B9%B4%E8%B5%9A%E4%BA%86163%E4%B8%87%23" target="weibo">
 在澳洲打工4年赚了163万（热度：838860）
 </a>
@@ -5183,12 +5207,6 @@ EDG战胜LGD（热度：831162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E4%BC%8F%E7%AC%94%23" target="weibo">
 孟宴臣身体状况伏笔（热度：825685）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%87%91%E4%B8%96%E4%BD%B3%E6%96%B0%E5%89%A7%E5%AF%B9%E6%89%8B%E6%88%8F%23" target="weibo">
-迪丽热巴金世佳新剧对手戏（热度：825643）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ A股（热度：746459）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E5%85%B0%E5%A6%AE%E5%B8%8C%E6%9C%9BNBA%E7%8A%B6%E5%85%83%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
 布兰妮希望NBA状元公开道歉（热度：737376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E7%94%9C%E5%93%81%E5%8F%AA%E5%90%83%E4%B8%80%E5%8F%A3%E7%9A%84%23" target="weibo">
-李现是怎么忍住甜品只吃一口的（热度：737349）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE%23" target="weibo">
-中国女篮vs日本女篮（热度：737202）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%84%E9%95%BF%E9%A3%8E%E6%B8%A1%23" target="weibo">
-六公主评长风渡（热度：737162）
 </a>
 </li>
 

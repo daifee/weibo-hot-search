@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689308575003,
+  "endTime": 1689309450551,
   "band_list": [
     {
       "raw_hot": 6846624,
@@ -11,20 +11,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3146010,
+      "num": 588846,
+      "word": "井川里予 我就是觉得很漂亮啊",
+      "onboard_time": 1689300449,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3087922,
       "num": 482423,
       "word": "老师投毒致25幼儿中毒被执行死刑",
       "onboard_time": 1689305252,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2983894,
-      "num": 554268,
-      "word": "井川里予 我就是觉得很漂亮啊",
-      "onboard_time": 1689300449,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 2165898,
@@ -49,6 +49,14 @@
       "onboard_time": 1689263373,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2058343,
+      "num": 2058343,
+      "word": "正式确诊为那英",
+      "onboard_time": 1689308436,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1686578,
@@ -99,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1206130,
+      "num": 543168,
+      "word": "家属确认旅行博主姜野在新疆遇难",
+      "onboard_time": 1689308013,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1197964,
       "num": 1197964,
       "word": "丫丫胖了吃笋嘎嘎香",
@@ -116,19 +132,27 @@
     },
     {
       "raw_hot": 1127237,
-      "num": 482440,
+      "num": 530907,
       "word": "Angelababy穿泳装",
       "onboard_time": 1689303451,
       "rank": 37,
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 890892,
-      "num": 890892,
+      "raw_hot": 938910,
+      "num": 938910,
       "word": "田柾国solo出道曲seven",
       "onboard_time": 1689307956,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 917772,
+      "num": 917772,
+      "word": "迪丽热巴金世佳新剧对手戏",
+      "onboard_time": 1689307353,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 882344,
@@ -147,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 825643,
-      "num": 825643,
-      "word": "迪丽热巴金世佳新剧对手戏",
-      "onboard_time": 1689307353,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 839558,
+      "num": 471792,
+      "word": "迪丽热巴想回新疆吃水果",
+      "onboard_time": 1689308376,
+      "rank": 28,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 808344,
@@ -187,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 726133,
+      "num": 441044,
+      "word": "曹格说还是爱吴速玲",
+      "onboard_time": 1689308136,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 719897,
       "num": 719897,
       "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
@@ -216,6 +248,14 @@
       "word": "男子吃肯德基发现汉堡少一半",
       "onboard_time": 1689302612,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675157,
+      "num": 303244,
+      "word": "女童因乱小便被爸爸倒挂窗外责罚",
+      "onboard_time": 1689306332,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 631514,
-      "num": 281405,
+      "num": 301661,
       "word": "校长回应亲嘴事件是错位实属误伤",
       "onboard_time": 1689305433,
       "rank": 31,
@@ -281,6 +321,14 @@
       "onboard_time": 1689303870,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 601269,
+      "num": 601269,
+      "word": "bw",
+      "onboard_time": 1689308013,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 600222,
@@ -312,14 +360,6 @@
       "word": "美国一妈妈喂9个月男婴掺了芬太尼的奶粉",
       "onboard_time": 1689263252,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576513,
-      "num": 281248,
-      "word": "女童因乱小便被爸爸倒挂窗外责罚",
-      "onboard_time": 1689306332,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -355,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510856,
-      "num": 259945,
-      "word": "家属确认旅行博主姜野在新疆遇难",
-      "onboard_time": 1689308013,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 503330,
       "num": 503330,
       "word": "王楚然的表情变化",
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 483898,
-      "num": 275549,
+      "num": 296662,
       "word": "EXO时隔6年中文采访",
       "onboard_time": 1689307475,
       "rank": 23,
@@ -419,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 432801,
-      "num": 272356,
-      "word": "曹格说还是爱吴速玲",
-      "onboard_time": 1689308136,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 432282,
       "num": 277701,
       "word": "优酷7月片单",
@@ -443,8 +467,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400260,
-      "num": 269162,
+      "raw_hot": 400849,
+      "num": 292112,
       "word": "工作一年后面相都变了",
       "onboard_time": 1689303451,
       "rank": 38,
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 393499,
-      "num": 270108,
+      "num": 285958,
       "word": "宫崎骏 你想活出怎样的人生",
       "onboard_time": 1689305733,
       "rank": 31,
@@ -481,14 +505,6 @@
       "onboard_time": 1689286515,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390347,
-      "num": 390347,
-      "word": "bw",
-      "onboard_time": 1689308013,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 387578,
@@ -539,22 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371466,
-      "num": 264493,
-      "word": "迪丽热巴想回新疆吃水果",
-      "onboard_time": 1689308376,
-      "rank": 28,
-      "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 360624,
-      "num": 256594,
-      "word": "正式确诊为那英",
-      "onboard_time": 1689308436,
-      "rank": 31,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 353872,
       "num": 353872,
       "word": "人类总是用离开来试探爱",
@@ -571,8 +571,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341985,
+      "num": 289058,
+      "word": "SuperJunior续约",
+      "onboard_time": 1689308619,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338623,
-      "num": 254926,
+      "num": 261983,
       "word": "消失的她密钥延期",
       "onboard_time": 1689306935,
       "rank": 32,
@@ -593,6 +601,14 @@
       "onboard_time": 1689266605,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328385,
+      "num": 287068,
+      "word": "爱吃雪糕和螺蛳粉的都沉默了",
+      "onboard_time": 1689308978,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 314819,
@@ -659,11 +675,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276633,
-      "num": 267732,
+      "raw_hot": 276913,
+      "num": 276913,
       "word": "玲花不知道黄子韬是rapper",
       "onboard_time": 1689304112,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 272819,
+      "num": 272819,
+      "word": "绝交吧爸爸官宣改名定档",
+      "onboard_time": 1689309219,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -697,6 +721,14 @@
       "onboard_time": 1689249331,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260584,
+      "num": 260584,
+      "word": "制伏上海地铁辱华女当事人质疑警方通告",
+      "onboard_time": 1689309040,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257785,
@@ -747,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239525,
+      "num": 224045,
+      "word": "孟宴臣的角色号呢",
+      "onboard_time": 1689303751,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233335,
       "num": 233335,
       "word": "gidle首支英文单曲ido上线",
@@ -769,14 +809,6 @@
       "onboard_time": 1689302793,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 225412,
-      "num": 224045,
-      "word": "孟宴臣的角色号呢",
-      "onboard_time": 1689303751,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 224881,
@@ -835,8 +867,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216218,
-      "num": 216218,
+      "raw_hot": 216968,
+      "num": 216968,
       "word": "微波炉竟当上了外卖的大厨",
       "onboard_time": 1689295954,
       "rank": 47,
@@ -907,6 +939,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 201544,
+      "num": 201544,
+      "word": "小鸟落身上不走大学生找警察求助",
+      "onboard_time": 1689309400,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198284,
       "num": 198284,
       "word": "陈哲远说小鱼儿是推开表演大门的角色",
@@ -945,6 +985,14 @@
       "onboard_time": 1689306632,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190372,
+      "num": 190372,
+      "word": "看丫丫大口吃笋好治愈",
+      "onboard_time": 1689309338,
+      "rank": 47,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 189105,
@@ -1164,7 +1212,7 @@
     },
     {
       "raw_hot": 92720,
-      "num": 1625263,
+      "num": 1986569,
       "word": "成都大运会收看指南",
       "onboard_time": 1689303751,
       "rank": 2,

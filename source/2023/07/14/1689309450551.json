@@ -1,0 +1,410 @@
+{
+  "runTime": 1689309450551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2432786,
+        "num": 2432786,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2058343,
+        "num": 2058343,
+        "word": "正式确诊为那英",
+        "onboard_time": 1689308436,
+        "rank": 1,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 83180,
+        "num": 1986569,
+        "word": "成都大运会收看指南",
+        "onboard_time": 1689303751,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1954495,
+        "num": 1954495,
+        "word": "王珞丹是怎么选到魏大勋的",
+        "onboard_time": 1689303691,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 938910,
+        "num": 938910,
+        "word": "田柾国solo出道曲seven",
+        "onboard_time": 1689307956,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1078177,
+        "num": 936420,
+        "word": "六公主发了魏大勋",
+        "onboard_time": 1689298529,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 917772,
+        "num": 917772,
+        "word": "迪丽热巴金世佳新剧对手戏",
+        "onboard_time": 1689307353,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 842792,
+        "num": 842792,
+        "word": "丫丫胖了吃笋嘎嘎香",
+        "onboard_time": 1689303992,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 745707,
+        "num": 745707,
+        "word": "女儿模特妈妈客服售假一年卖了30万",
+        "onboard_time": 1689303212,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 601269,
+        "num": 601269,
+        "word": "bw",
+        "onboard_time": 1689308013,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3146010,
+        "num": 588846,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1206130,
+        "num": 543168,
+        "word": "家属确认旅行博主姜野在新疆遇难",
+        "onboard_time": 1689308013,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059890,
+        "num": 530907,
+        "word": "Angelababy穿泳装",
+        "onboard_time": 1689303451,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 839558,
+        "num": 471792,
+        "word": "迪丽热巴想回新疆吃水果",
+        "onboard_time": 1689308376,
+        "rank": 13,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 460647,
+        "num": 460647,
+        "word": "公公贴心给儿媳在草原修了一个马桶",
+        "onboard_time": 1689299430,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726133,
+        "num": 441044,
+        "word": "曹格说还是爱吴速玲",
+        "onboard_time": 1689308136,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584497,
+        "num": 439388,
+        "word": "王俊凯 五月天嘉宾",
+        "onboard_time": 1689304891,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 412612,
+        "num": 412612,
+        "word": "录取通知书里拆出了隐藏款胸章",
+        "onboard_time": 1689300271,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 346086,
+        "num": 346086,
+        "word": "男子疑将已刮刮刮乐重新覆膜",
+        "onboard_time": 1689298587,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304180,
+        "num": 304180,
+        "word": "熊猫宝宝越粉证明妈妈爱得越深",
+        "onboard_time": 1689302669,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675157,
+        "num": 303244,
+        "word": "女童因乱小便被爸爸倒挂窗外责罚",
+        "onboard_time": 1689306332,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601397,
+        "num": 301661,
+        "word": "校长回应亲嘴事件是错位实属误伤",
+        "onboard_time": 1689305433,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565996,
+        "num": 299550,
+        "word": "玖月晞谈宋焰许沁",
+        "onboard_time": 1689303870,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3045328,
+        "num": 298240,
+        "word": "老师投毒致25幼儿中毒被执行死刑",
+        "onboard_time": 1689305252,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472012,
+        "num": 296662,
+        "word": "EXO时隔6年中文采访",
+        "onboard_time": 1689307475,
+        "rank": 24,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 455322,
+        "num": 295506,
+        "word": "李白为什么写下轻舟已过万重山",
+        "onboard_time": 1689298770,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449643,
+        "num": 293023,
+        "word": "女子孕期自备570个面食当月子餐",
+        "onboard_time": 1689295771,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400849,
+        "num": 292112,
+        "word": "工作一年后面相都变了",
+        "onboard_time": 1689303451,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352302,
+        "num": 290943,
+        "word": "不求人汤圆分手",
+        "onboard_time": 1689291807,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 341985,
+        "num": 289058,
+        "word": "SuperJunior续约",
+        "onboard_time": 1689308619,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328385,
+        "num": 287068,
+        "word": "爱吃雪糕和螺蛳粉的都沉默了",
+        "onboard_time": 1689308978,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286622,
+        "num": 286622,
+        "word": "姜野",
+        "onboard_time": 1689306459,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325993,
+        "num": 285958,
+        "word": "宫崎骏 你想活出怎样的人生",
+        "onboard_time": 1689305733,
+        "rank": 32,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 294326,
+        "num": 281660,
+        "word": "银赫东海圭贤不续约SMTOWN",
+        "onboard_time": 1689300688,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276913,
+        "num": 276913,
+        "word": "玲花不知道黄子韬是rapper",
+        "onboard_time": 1689304112,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272819,
+        "num": 272819,
+        "word": "绝交吧爸爸官宣改名定档",
+        "onboard_time": 1689309219,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268681,
+        "num": 268681,
+        "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
+        "onboard_time": 1689297150,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261983,
+        "num": 261983,
+        "word": "消失的她密钥延期",
+        "onboard_time": 1689306935,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260584,
+        "num": 260584,
+        "word": "制伏上海地铁辱华女当事人质疑警方通告",
+        "onboard_time": 1689309040,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216968,
+        "num": 216968,
+        "word": "微波炉竟当上了外卖的大厨",
+        "onboard_time": 1689295954,
+        "rank": 39,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 239525,
+        "num": 216397,
+        "word": "孟宴臣的角色号呢",
+        "onboard_time": 1689303751,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226236,
+        "num": 213161,
+        "word": "优酷7月片单",
+        "onboard_time": 1689300628,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208673,
+        "num": 208673,
+        "word": "11岁女孩和爷爷进山捡菌险坠崖",
+        "onboard_time": 1689303931,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201592,
+        "num": 201592,
+        "word": "毛不易演唱会抢票",
+        "onboard_time": 1689305072,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201544,
+        "num": 201544,
+        "word": "小鸟落身上不走大学生找警察求助",
+        "onboard_time": 1689309400,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197365,
+        "num": 197365,
+        "word": "喝妈妈初乳的双胞胎熊猫宝宝的反应",
+        "onboard_time": 1689298048,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193384,
+        "num": 193384,
+        "word": "封神第一部美术场景特辑",
+        "onboard_time": 1689307353,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190372,
+        "num": 190372,
+        "word": "看丫丫大口吃笋好治愈",
+        "onboard_time": 1689309338,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 187369,
+        "num": 187369,
+        "word": "公司的下午茶得配一碗米饭",
+        "onboard_time": 1689302131,
+        "rank": 48,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 135778,
+        "num": 185198,
+        "word": "时光代理人2开播",
+        "onboard_time": 1689304832,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#共绘网上网下同心圆#"
+    }
+  }
+}
