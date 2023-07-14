@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689323019983,
+  "endTime": 1689323839292,
   "band_list": [
     {
       "raw_hot": 6846624,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2176380,
+      "raw_hot": 2613914,
       "num": 911445,
       "word": "到底是谁在捧魏大勋",
       "onboard_time": 1689320135,
@@ -97,6 +97,14 @@
       "onboard_time": 1689314380,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1433009,
+      "num": 1433009,
+      "word": "阿米尔汗和王宝强竟然是好朋友",
+      "onboard_time": 1689321274,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1415514,
@@ -187,20 +195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1049081,
-      "num": 1049081,
-      "word": "阿米尔汗和王宝强竟然是好朋友",
-      "onboard_time": 1689321274,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1035255,
       "num": 1035255,
       "word": "公摊面积为何不能取消",
       "onboard_time": 1689314499,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 975960,
+      "num": 462180,
+      "word": "警方回应90岁老人刚下葬尸体被偷",
+      "onboard_time": 1689320974,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 938910,
@@ -225,14 +233,6 @@
       "onboard_time": 1689308376,
       "rank": 28,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 890577,
-      "num": 462180,
-      "word": "警方回应90岁老人刚下葬尸体被偷",
-      "onboard_time": 1689320974,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882344,
@@ -323,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 728466,
+      "num": 728466,
+      "word": "黄晓明说程潇不能刷碗就别来了",
+      "onboard_time": 1689320376,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 719897,
       "num": 719897,
       "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
@@ -355,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707055,
-      "num": 707055,
-      "word": "黄晓明说程潇不能刷碗就别来了",
-      "onboard_time": 1689320376,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 685635,
       "num": 685635,
       "word": "制伏上海地铁辱华女当事人质疑警方通告",
@@ -377,6 +377,14 @@
       "onboard_time": 1689306332,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672684,
+      "num": 672684,
+      "word": "安乐传 花魁",
+      "onboard_time": 1689322235,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 667599,
@@ -491,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 600812,
+      "num": 364966,
+      "word": "就没有练不细的腰",
+      "onboard_time": 1689321453,
+      "rank": 21,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 600222,
       "num": 600222,
       "word": "录取通知书里拆出了隐藏款胸章",
@@ -537,14 +553,6 @@
       "onboard_time": 1689309400,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 571828,
-      "num": 364966,
-      "word": "就没有练不细的腰",
-      "onboard_time": 1689321453,
-      "rank": 21,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 558756,
@@ -899,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 377315,
-      "num": 377315,
-      "word": "安乐传 花魁",
-      "onboard_time": 1689322235,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 373176,
       "num": 373176,
       "word": "王源任敏新剧收视率",
@@ -987,8 +987,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 315732,
-      "num": 311375,
+      "raw_hot": 321429,
+      "num": 316076,
+      "word": "空调开一整夜口鼻干燥怎么办",
+      "onboard_time": 1689321756,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 318444,
+      "num": 318444,
       "word": "东北虎园两虎相争一虎被咬死",
       "onboard_time": 1689318035,
       "rank": 33,
@@ -1025,6 +1033,22 @@
       "onboard_time": 1689292768,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302338,
+      "num": 302338,
+      "word": "段嘉许宋焰一个哥哥文学一个老子文学",
+      "onboard_time": 1689323375,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 299333,
+      "num": 299333,
+      "word": "男子为减肥每天一顿半年暴瘦30斤",
+      "onboard_time": 1689322594,
+      "rank": 32,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 296480,
@@ -1073,6 +1097,22 @@
       "onboard_time": 1689303154,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292406,
+      "num": 292406,
+      "word": "李玟告别式日期",
+      "onboard_time": 1689323193,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291293,
+      "num": 291293,
+      "word": "张大大戏称熬走了杨幂还有杨颖",
+      "onboard_time": 1689322175,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 290357,
@@ -1147,22 +1187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 270683,
-      "num": 270683,
-      "word": "男子为减肥每天一顿半年暴瘦30斤",
-      "onboard_time": 1689322594,
-      "rank": 32,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 269308,
-      "num": 269308,
-      "word": "空调开一整夜口鼻干燥怎么办",
-      "onboard_time": 1689321756,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 268824,
       "num": 265423,
       "word": "安乐传口碑",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1689258037,
       "rank": 27,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 249635,
-      "num": 249635,
-      "word": "张大大戏称熬走了杨幂还有杨颖",
-      "onboard_time": 1689322175,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 249564,
@@ -1475,6 +1491,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 199111,
+      "num": 199111,
+      "word": "Amber你在干嘛",
+      "onboard_time": 1689322775,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198284,
       "num": 198284,
       "word": "陈哲远说小鱼儿是推开表演大门的角色",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1689252816,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 185412,
+      "num": 185412,
+      "word": "魏大勋王楚然杨洋回答同一个问题",
+      "onboard_time": 1689323671,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 184567,
@@ -1619,20 +1651,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164276,
-      "num": 164276,
-      "word": "Amber你在干嘛",
-      "onboard_time": 1689322775,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161110,
       "num": 161110,
       "word": "胖蛇吞鹦鹉吃太饱把自己困鸟笼里了",
       "onboard_time": 1689298411,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157647,
+      "num": 157647,
+      "word": "这是国际玩笑吗",
+      "onboard_time": 1689323616,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 157029,
@@ -1691,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144960,
+      "num": 144960,
+      "word": "白鹿和周深说什么了",
+      "onboard_time": 1689323791,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142305,
       "num": 142305,
       "word": "查理苏满愿之约倒计时",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1689249390,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134530,
+      "num": 932684,
+      "word": "最新国家安全主题宣传片",
+      "onboard_time": 1689322835,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130203,
@@ -1851,14 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49638,
-      "num": 932684,
-      "word": "最新国家安全主题宣传片",
-      "onboard_time": 1689322835,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43211,
       "num": 1095942,
       "word": "3个词总结2023中国外贸期中成绩单",
@@ -1930,6 +1970,9 @@
     },
     {
       "word": "#全国广电新媒体集结发光#"
+    },
+    {
+      "word": "#守护亿万民众共同的精神家园#"
     }
   ]
 }

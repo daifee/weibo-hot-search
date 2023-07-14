@@ -1,0 +1,410 @@
+{
+  "runTime": 1689323839292,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1433009,
+        "num": 1433009,
+        "word": "阿米尔汗和王宝强竟然是好朋友",
+        "onboard_time": 1689321274,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1155772,
+        "num": 1155772,
+        "word": "关晓彤竟然也演过家有儿女",
+        "onboard_time": 1689318455,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134530,
+        "num": 865077,
+        "word": "最新国家安全主题宣传片",
+        "onboard_time": 1689322835,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2613914,
+        "num": 814920,
+        "word": "到底是谁在捧魏大勋",
+        "onboard_time": 1689320135,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 730696,
+        "num": 730696,
+        "word": "丫丫小尖脸变成小圆脸了",
+        "onboard_time": 1689316115,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728466,
+        "num": 728466,
+        "word": "黄晓明说程潇不能刷碗就别来了",
+        "onboard_time": 1689320376,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672684,
+        "num": 672684,
+        "word": "安乐传 花魁",
+        "onboard_time": 1689322235,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 627843,
+        "num": 627843,
+        "word": "1TB的手机比128GB的重",
+        "onboard_time": 1689317554,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 460162,
+        "num": 460162,
+        "word": "带状疱疹国产疫苗在杭开打",
+        "onboard_time": 1689316597,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454280,
+        "num": 454280,
+        "word": "公摊面积为何不能取消",
+        "onboard_time": 1689314499,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 2023480,
+        "num": 453480,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1200116,
+        "num": 452964,
+        "word": "正式确诊为那英",
+        "onboard_time": 1689308436,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 975960,
+        "num": 451521,
+        "word": "警方回应90岁老人刚下葬尸体被偷",
+        "onboard_time": 1689320974,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598958,
+        "num": 450782,
+        "word": "光明日报评玉骨遥",
+        "onboard_time": 1689319656,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450443,
+        "num": 450443,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413020,
+        "num": 413020,
+        "word": "家属确认旅行博主姜野在新疆遇难",
+        "onboard_time": 1689308013,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392979,
+        "num": 392979,
+        "word": "秋瓷炫淘汰后和于晓光连喝四天酒",
+        "onboard_time": 1689316839,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360108,
+        "num": 360108,
+        "word": "谢娜挡着车不让大家离开",
+        "onboard_time": 1689314380,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341849,
+        "num": 341849,
+        "word": "制伏上海地铁辱华女当事人质疑警方通告",
+        "onboard_time": 1689309040,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318444,
+        "num": 318444,
+        "word": "东北虎园两虎相争一虎被咬死",
+        "onboard_time": 1689318035,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612688,
+        "num": 318066,
+        "word": "这榴莲要不是怕脏都不长皮了",
+        "onboard_time": 1689322235,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600812,
+        "num": 317945,
+        "word": "就没有练不细的腰",
+        "onboard_time": 1689321453,
+        "rank": 21,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 386863,
+        "num": 317256,
+        "word": "用一句话激怒所有大学生",
+        "onboard_time": 1689322175,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 380415,
+        "num": 316990,
+        "word": "打工人买彩票中千万等工作不忙才来领奖",
+        "onboard_time": 1689318515,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 355917,
+        "num": 316425,
+        "word": "朴彩英发量回来了",
+        "onboard_time": 1689319597,
+        "rank": 24,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 321429,
+        "num": 316076,
+        "word": "空调开一整夜口鼻干燥怎么办",
+        "onboard_time": 1689321756,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316018,
+        "num": 316018,
+        "word": "终于等到minnie",
+        "onboard_time": 1689316115,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302338,
+        "num": 302338,
+        "word": "段嘉许宋焰一个哥哥文学一个老子文学",
+        "onboard_time": 1689323375,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299333,
+        "num": 299333,
+        "word": "男子为减肥每天一顿半年暴瘦30斤",
+        "onboard_time": 1689322594,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292406,
+        "num": 292406,
+        "word": "李玟告别式日期",
+        "onboard_time": 1689323193,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291293,
+        "num": 291293,
+        "word": "张大大戏称熬走了杨幂还有杨颖",
+        "onboard_time": 1689322175,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261802,
+        "num": 261802,
+        "word": "王珞丹是怎么选到魏大勋的",
+        "onboard_time": 1689303691,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256698,
+        "num": 256698,
+        "word": "监考不能玩手机的无聊",
+        "onboard_time": 1689319114,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251379,
+        "num": 251379,
+        "word": "告五人 抢票",
+        "onboard_time": 1689319775,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239114,
+        "num": 239114,
+        "word": "长安三万里为什么火了",
+        "onboard_time": 1689315757,
+        "rank": 34,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 230113,
+        "num": 230113,
+        "word": "南宁多名公职人员被免去现职",
+        "onboard_time": 1689318756,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218684,
+        "num": 218684,
+        "word": "Angelababy穿泳装",
+        "onboard_time": 1689303451,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 207169,
+        "num": 207169,
+        "word": "迪丽热巴想回新疆吃水果",
+        "onboard_time": 1689308376,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204915,
+        "num": 204915,
+        "word": "我爸把我的粉扑换成了饼干",
+        "onboard_time": 1689317913,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199111,
+        "num": 199111,
+        "word": "Amber你在干嘛",
+        "onboard_time": 1689322775,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198002,
+        "num": 198002,
+        "word": "田柾国韩素希水中镜头",
+        "onboard_time": 1689310001,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186837,
+        "num": 186837,
+        "word": "原来爱宝的双胞胎女儿是这么来的",
+        "onboard_time": 1689309219,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185412,
+        "num": 185412,
+        "word": "魏大勋王楚然杨洋回答同一个问题",
+        "onboard_time": 1689323671,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180535,
+        "num": 180535,
+        "word": "广东一女子耳膜被男朋友吻裂",
+        "onboard_time": 1689313119,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170100,
+        "num": 170100,
+        "word": "罗云熙杜莎双蜡像揭幕",
+        "onboard_time": 1689316475,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166011,
+        "num": 166011,
+        "word": "电竞国家集训队集体亮相",
+        "onboard_time": 1689312275,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158416,
+        "num": 158416,
+        "word": "投简历投到了自己公司",
+        "onboard_time": 1689314259,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 157647,
+        "num": 157647,
+        "word": "这是国际玩笑吗",
+        "onboard_time": 1689323616,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150128,
+        "num": 150128,
+        "word": "放在单位的西瓜被老鼠咬了",
+        "onboard_time": 1689318395,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144960,
+        "num": 144960,
+        "word": "白鹿和周深说什么了",
+        "onboard_time": 1689323791,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护亿万民众共同的精神家园#"
+    }
+  }
+}
