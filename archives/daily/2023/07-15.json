@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689373047682,
+  "endTime": 1689374157018,
   "band_list": [
     {
       "raw_hot": 3088863,
@@ -267,6 +267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 270577,
+      "num": 270577,
+      "word": "9000元补贴能缓解独子养老焦虑吗",
+      "onboard_time": 1689366313,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269511,
       "num": 269511,
       "word": "范丞丞发奔跑吧花絮照了",
@@ -336,14 +344,6 @@
       "word": "医院回应误给孩子用麻醉剂死亡",
       "onboard_time": 1689329915,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192203,
-      "num": 192203,
-      "word": "9000元补贴能缓解独子养老焦虑吗",
-      "onboard_time": 1689366313,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -419,12 +419,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 108655,
+      "num": 92365,
+      "word": "孟宴臣原台词",
+      "onboard_time": 1689370934,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 101623,
       "num": 135117,
       "word": "束缚女性的七个观念",
       "onboard_time": 1689353786,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 101224,
+      "num": 91366,
+      "word": "李若彤李白造型",
+      "onboard_time": 1689362894,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 99972,
@@ -436,27 +452,19 @@
     },
     {
       "raw_hot": 88565,
-      "num": 59322,
+      "num": 59796,
       "word": "宜古宜今的明星",
       "onboard_time": 1689361574,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 84885,
-      "num": 84885,
-      "word": "李若彤李白造型",
-      "onboard_time": 1689362894,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 72772,
-      "num": 72772,
-      "word": "孟宴臣原台词",
-      "onboard_time": 1689370934,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 68056,
+      "num": 68056,
+      "word": "要勇敢结束消耗自己的任何关系",
+      "onboard_time": 1689361695,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 67414,
@@ -467,12 +475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 56236,
-      "num": 56236,
-      "word": "要勇敢结束消耗自己的任何关系",
-      "onboard_time": 1689361695,
-      "rank": 49,
-      "category": "情感,幽默"
+      "raw_hot": 61915,
+      "num": 61915,
+      "word": "在浙江农村盖大别墅要花多少钱",
+      "onboard_time": 1689371413,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31660,
@@ -483,11 +491,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 30938,
-      "num": 51666,
-      "word": "在浙江农村盖大别墅要花多少钱",
-      "onboard_time": 1689371413,
-      "rank": 48,
+      "raw_hot": 27414,
+      "num": 59765,
+      "word": "区委为火场爬窗救人男子申报见义勇为",
+      "onboard_time": 1689373336,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
