@@ -1,0 +1,410 @@
+{
+  "runTime": 1689300930974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904740,
+        "num": 1904740,
+        "word": "六公主发了魏大勋",
+        "onboard_time": 1689298529,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1392279,
+        "num": 1392279,
+        "word": "阿斯巴甜",
+        "onboard_time": 1689298828,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25414,
+        "num": 1268584,
+        "word": "这些录取通知书里满是骄傲和期许",
+        "onboard_time": 1689237573,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190388,
+        "num": 1190388,
+        "word": "公公贴心给儿媳在草原修了一个马桶",
+        "onboard_time": 1689299430,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732785,
+        "num": 732785,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1114772,
+        "num": 715557,
+        "word": "肖战工作室这是可以发的吗",
+        "onboard_time": 1689293190,
+        "rank": 5,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 1055517,
+        "num": 710849,
+        "word": "传媒女硕士辞职开办社区食堂",
+        "onboard_time": 1689295294,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663865,
+        "num": 663865,
+        "word": "一等奖显眼包高调拎奖金牌乘地铁",
+        "onboard_time": 1689293429,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656214,
+        "num": 656214,
+        "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
+        "onboard_time": 1689297150,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561561,
+        "num": 561561,
+        "word": "吴京谢楠特种兵式带娃",
+        "onboard_time": 1689297698,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1285594,
+        "num": 559075,
+        "word": "不求人汤圆分手",
+        "onboard_time": 1689291807,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 607456,
+        "num": 554268,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 525566,
+        "num": 525566,
+        "word": "老人进店要1元店家赠大碗饭全吃光",
+        "onboard_time": 1689293371,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455894,
+        "num": 455894,
+        "word": "不死鸟",
+        "onboard_time": 1689292406,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438930,
+        "num": 438930,
+        "word": "魏大勋没演过古装剧",
+        "onboard_time": 1689296373,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394677,
+        "num": 394677,
+        "word": "何洁刁磊带娃与黄雅莉聚会",
+        "onboard_time": 1689290725,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389965,
+        "num": 389965,
+        "word": "爱宝幼崽吸奶吸累了中场休息画面",
+        "onboard_time": 1689289341,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380264,
+        "num": 380264,
+        "word": "3岁男童被困下降电梯爸爸边打119边跟着跑",
+        "onboard_time": 1689294753,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332953,
+        "num": 332953,
+        "word": "喝妈妈初乳的双胞胎熊猫宝宝的反应",
+        "onboard_time": 1689298048,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329706,
+        "num": 329706,
+        "word": "为什么大家不愿意去泰国旅游了",
+        "onboard_time": 1689251497,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 456408,
+        "num": 326718,
+        "word": "李白为什么写下轻舟已过万重山",
+        "onboard_time": 1689298770,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442203,
+        "num": 325654,
+        "word": "男子疑将已刮刮刮乐重新覆膜",
+        "onboard_time": 1689298587,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404675,
+        "num": 323696,
+        "word": "女子孕期自备570个面食当月子餐",
+        "onboard_time": 1689295771,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314604,
+        "num": 314604,
+        "word": "银赫东海圭贤不续约SMTOWN",
+        "onboard_time": 1689300688,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310875,
+        "num": 310875,
+        "word": "奔跑吧官博近半个月没更新了",
+        "onboard_time": 1689264031,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298503,
+        "num": 298503,
+        "word": "魏大勋直播",
+        "onboard_time": 1689250952,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266123,
+        "num": 266123,
+        "word": "显微镜下池塘死水和流动溪水",
+        "onboard_time": 1689296193,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 247356,
+        "num": 247356,
+        "word": "山东一县签三方协议督促子女赡养父母",
+        "onboard_time": 1689294452,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242770,
+        "num": 242770,
+        "word": "魏大勋连夜买了个黑衬衫穿上",
+        "onboard_time": 1689251013,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221514,
+        "num": 221514,
+        "word": "医学生暑假送外卖顺便救了个人",
+        "onboard_time": 1689298349,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217056,
+        "num": 217056,
+        "word": "王楚然的表情变化",
+        "onboard_time": 1689267565,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216770,
+        "num": 216770,
+        "word": "娜扎眉间雪眼妆",
+        "onboard_time": 1689295954,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214520,
+        "num": 214520,
+        "word": "优酷7月片单",
+        "onboard_time": 1689300628,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210403,
+        "num": 210403,
+        "word": "袁姗姗红色气球鞋",
+        "onboard_time": 1689297450,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 185916,
+        "num": 205114,
+        "word": "微波炉竟当上了外卖的大厨",
+        "onboard_time": 1689295954,
+        "rank": 34,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 204342,
+        "num": 204342,
+        "word": "爱奇艺副总裁说赵丽颖敢想敢拼",
+        "onboard_time": 1689281052,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192755,
+        "num": 192755,
+        "word": "杨澄妈妈不承认谢乔是女朋友",
+        "onboard_time": 1689261034,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181846,
+        "num": 181846,
+        "word": "竟然会羡慕一只狗的房间",
+        "onboard_time": 1689296313,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176286,
+        "num": 176286,
+        "word": "双职工独立带娃的解决方案",
+        "onboard_time": 1689259237,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174966,
+        "num": 174966,
+        "word": "班长别扇了一会儿感冒了",
+        "onboard_time": 1689268221,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173702,
+        "num": 173702,
+        "word": "放了半个月的小橘子发芽了",
+        "onboard_time": 1689296010,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171591,
+        "num": 171591,
+        "word": "邢菲刘美含同框录制全员加速中",
+        "onboard_time": 1689296072,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163896,
+        "num": 163896,
+        "word": "世卫报告称阿斯巴甜可能致癌",
+        "onboard_time": 1689292768,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161110,
+        "num": 161110,
+        "word": "胖蛇吞鹦鹉吃太饱把自己困鸟笼里了",
+        "onboard_time": 1689298411,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155720,
+        "num": 155720,
+        "word": "皓衣行",
+        "onboard_time": 1689259475,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149282,
+        "num": 149282,
+        "word": "肖战咬风扇",
+        "onboard_time": 1689290243,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148452,
+        "num": 148452,
+        "word": "yskm",
+        "onboard_time": 1689261814,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145406,
+        "num": 145406,
+        "word": "录取通知书里拆出了隐藏款胸章",
+        "onboard_time": 1689300271,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 145279,
+        "num": 145279,
+        "word": "中国队夺得男女链球金牌",
+        "onboard_time": 1689298951,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144311,
+        "num": 144311,
+        "word": "流浪狗进店躲雨老板拿大骨头招待",
+        "onboard_time": 1689297273,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#千年古都京彩焕新#"
+    }
+  }
+}
