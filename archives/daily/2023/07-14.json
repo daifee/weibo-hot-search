@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689323839292,
+  "endTime": 1689326317905,
   "band_list": [
     {
       "raw_hot": 6846624,
@@ -9,6 +9,14 @@
       "onboard_time": 1689300688,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4862089,
+      "num": 4862089,
+      "word": "肖战警告肖战工作室",
+      "onboard_time": 1689325236,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 4259646,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2613914,
-      "num": 911445,
+      "num": 1042996,
       "word": "到底是谁在捧魏大勋",
       "onboard_time": 1689320135,
       "rank": 3,
@@ -201,6 +209,14 @@
       "onboard_time": 1689314499,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1003635,
+      "num": 1003635,
+      "word": "安乐传 花魁",
+      "onboard_time": 1689322235,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 975960,
@@ -379,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 672684,
-      "num": 672684,
-      "word": "安乐传 花魁",
-      "onboard_time": 1689322235,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 667599,
       "num": 667599,
       "word": "不死鸟",
@@ -467,11 +475,27 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 621535,
+      "num": 398149,
+      "word": "吴镇宇喊费曼故宫的公公",
+      "onboard_time": 1689325291,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 615420,
       "num": 426675,
       "word": "旺仔发孟宴臣",
       "onboard_time": 1689311021,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 614774,
+      "num": 388846,
+      "word": "魏大勋王楚然杨洋回答同一个问题",
+      "onboard_time": 1689323671,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -537,6 +561,14 @@
       "onboard_time": 1689260016,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 583678,
+      "num": 377478,
+      "word": "段嘉许宋焰一个哥哥文学一个老子文学",
+      "onboard_time": 1689323375,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 579603,
@@ -633,6 +665,14 @@
       "onboard_time": 1689293371,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518384,
+      "num": 366921,
+      "word": "李玟告别式日期",
+      "onboard_time": 1689323193,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 512852,
@@ -915,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364580,
+      "num": 364580,
+      "word": "小学已无00后",
+      "onboard_time": 1689325772,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 356470,
       "num": 266808,
       "word": "rush",
@@ -945,6 +993,14 @@
       "onboard_time": 1689317913,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343478,
+      "num": 280290,
+      "word": "白鹿和周深说什么了",
+      "onboard_time": 1689323791,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 338623,
@@ -1027,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303899,
+      "num": 296480,
+      "word": "南宁多名公职人员被免去现职",
+      "onboard_time": 1689318756,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303174,
       "num": 303174,
       "word": "世卫报告称阿斯巴甜可能致癌",
@@ -1035,28 +1099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302338,
-      "num": 302338,
-      "word": "段嘉许宋焰一个哥哥文学一个老子文学",
-      "onboard_time": 1689323375,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 299333,
       "num": 299333,
       "word": "男子为减肥每天一顿半年暴瘦30斤",
       "onboard_time": 1689322594,
       "rank": 32,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 296480,
-      "num": 296480,
-      "word": "南宁多名公职人员被免去现职",
-      "onboard_time": 1689318756,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296161,
@@ -1097,14 +1145,6 @@
       "onboard_time": 1689303154,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 292406,
-      "num": 292406,
-      "word": "李玟告别式日期",
-      "onboard_time": 1689323193,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 291293,
@@ -1339,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223780,
+      "num": 223780,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1689325291,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223532,
       "num": 223532,
       "word": "我爹一条朋友圈点赞人数",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1689296010,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212804,
+      "num": 212804,
+      "word": "动物园为丫丫开启喷淋模式",
+      "onboard_time": 1689325412,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212614,
@@ -1523,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193656,
+      "num": 193656,
+      "word": "魏大勋粉丝写的小作文",
+      "onboard_time": 1689325894,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193133,
       "num": 226501,
       "word": "中医十大名方",
@@ -1553,14 +1617,6 @@
       "onboard_time": 1689252816,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 185412,
-      "num": 185412,
-      "word": "魏大勋王楚然杨洋回答同一个问题",
-      "onboard_time": 1689323671,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 184567,
@@ -1723,14 +1779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144960,
-      "num": 144960,
-      "word": "白鹿和周深说什么了",
-      "onboard_time": 1689323791,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142305,
       "num": 142305,
       "word": "查理苏满愿之约倒计时",
@@ -1780,7 +1828,7 @@
     },
     {
       "raw_hot": 134530,
-      "num": 932684,
+      "num": 1066703,
       "word": "最新国家安全主题宣传片",
       "onboard_time": 1689322835,
       "rank": 2,
