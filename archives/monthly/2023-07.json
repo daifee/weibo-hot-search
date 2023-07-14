@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689303669607,
+  "endTime": 1689304168022,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -235,6 +235,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 6846624,
+      "num": 6846624,
+      "word": "奔跑吧今晚播出",
+      "onboard_time": 1689300688,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6846023,
       "num": 7805091,
       "word": "江西一化工厂爆炸",
@@ -249,14 +257,6 @@
       "onboard_time": 1689033630,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6601391,
-      "num": 6601391,
-      "word": "奔跑吧今晚播出",
-      "onboard_time": 1689300688,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 5712927,
@@ -811,6 +811,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 2823337,
+      "num": 554268,
+      "word": "井川里予 我就是觉得很漂亮啊",
+      "onboard_time": 1689300449,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2813121,
       "num": 1173500,
       "word": "关晓彤七年换来一句嫂子",
@@ -825,14 +833,6 @@
       "onboard_time": 1688616342,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2798451,
-      "num": 554268,
-      "word": "井川里予 我就是觉得很漂亮啊",
-      "onboard_time": 1689300449,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 2778111,
@@ -6651,6 +6651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 840431,
+      "num": 840431,
+      "word": "王珞丹是怎么选到魏大勋的",
+      "onboard_time": 1689303691,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 840424,
       "num": 840424,
       "word": "原来基围虾只是一种养殖方式",
@@ -10531,6 +10539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582944,
+      "num": 428309,
+      "word": "女儿模特妈妈客服售假一年卖了30万",
+      "onboard_time": 1689303212,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 582127,
       "num": 582127,
       "word": "邓佳鑫 北京",
@@ -12931,6 +12947,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 477657,
+      "num": 406469,
+      "word": "李白为什么写下轻舟已过万重山",
+      "onboard_time": 1689298770,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477581,
       "num": 477581,
       "word": "孟宴臣vs傅慎行",
@@ -13577,14 +13601,6 @@
       "onboard_time": 1689257436,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 456408,
-      "num": 406469,
-      "word": "李白为什么写下轻舟已过万重山",
-      "onboard_time": 1689298770,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 456266,
@@ -16307,6 +16323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 381099,
+      "num": 267701,
+      "word": "Angelababy穿泳装",
+      "onboard_time": 1689303451,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 380756,
       "num": 294396,
       "word": "顾九思为柳玉茹抗旨拒婚",
@@ -16649,14 +16673,6 @@
       "onboard_time": 1688861424,
       "rank": 17,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 373481,
-      "num": 214360,
-      "word": "女儿模特妈妈客服售假一年卖了30万",
-      "onboard_time": 1689303212,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 373378,
@@ -19275,6 +19291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313620,
+      "num": 313620,
+      "word": "熊猫宝宝越粉证明妈妈爱得越深",
+      "onboard_time": 1689302669,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313589,
       "num": 313589,
       "word": "张元英穿拖鞋的腿长",
@@ -20531,6 +20555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292629,
+      "num": 266589,
+      "word": "我躺在床上打卡成功了",
+      "onboard_time": 1689303154,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292594,
       "num": 292594,
       "word": "魏大勋演技",
@@ -21576,14 +21608,6 @@
       "word": "奶奶带娃游乐场玩怕亏本玩足12小时",
       "onboard_time": 1689170800,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273810,
-      "num": 273810,
-      "word": "熊猫宝宝越粉证明妈妈爱得越深",
-      "onboard_time": 1689302669,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -22691,6 +22715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257785,
+      "num": 257785,
+      "word": "宋妍霏30秒无台词哭戏",
+      "onboard_time": 1689302371,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257618,
       "num": 257618,
       "word": "消防员从文物真迹旁救出个好奇宝宝",
@@ -23211,6 +23243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251482,
+      "num": 266035,
+      "word": "工作一年后面相都变了",
+      "onboard_time": 1689303451,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251427,
       "num": 251427,
       "word": "刘惜君演我出门",
@@ -23673,14 +23713,6 @@
       "onboard_time": 1689214892,
       "rank": 32,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 245156,
-      "num": 245156,
-      "word": "我躺在床上打卡成功了",
-      "onboard_time": 1689303154,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 245118,
@@ -24371,14 +24403,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 235190,
-      "num": 235190,
-      "word": "宋妍霏30秒无台词哭戏",
-      "onboard_time": 1689302371,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235186,
       "num": 235186,
       "word": "如何看待村书记称浮桥搭建者说假话",
@@ -24473,6 +24497,14 @@
       "onboard_time": 1689248252,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233335,
+      "num": 233335,
+      "word": "gidle首支英文单曲ido上线",
+      "onboard_time": 1689303154,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 233303,
@@ -24777,6 +24809,14 @@
       "onboard_time": 1688650595,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229078,
+      "num": 212330,
+      "word": "丫丫胖了吃笋嘎嘎香",
+      "onboard_time": 1689303992,
+      "rank": 30,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 228943,
@@ -26003,14 +26043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214828,
-      "num": 214828,
-      "word": "gidle首支英文单曲ido上线",
-      "onboard_time": 1689303154,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214742,
       "num": 214742,
       "word": "吉克隽逸镶钻半遮面头纱",
@@ -26987,14 +27019,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 203946,
-      "num": 203946,
-      "word": "Angelababy穿泳装",
-      "onboard_time": 1689303451,
-      "rank": 37,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 203856,
       "num": 203856,
       "word": "沈月陈小希造型",
@@ -27089,6 +27113,14 @@
       "onboard_time": 1688609018,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202774,
+      "num": 202774,
+      "word": "玖月晞谈宋焰许沁",
+      "onboard_time": 1689303870,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 202769,
@@ -27907,14 +27939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194674,
-      "num": 194674,
-      "word": "工作一年后面相都变了",
-      "onboard_time": 1689303451,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194672,
       "num": 194672,
       "word": "迪奥二零二三秋冬高订秀",
@@ -27985,6 +28009,14 @@
       "onboard_time": 1689078396,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194017,
+      "num": 194017,
+      "word": "孟宴臣的角色号呢",
+      "onboard_time": 1689303751,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 193995,
@@ -29419,6 +29451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176604,
+      "num": 176604,
+      "word": "玲花不知道黄子韬是rapper",
+      "onboard_time": 1689304112,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176489,
       "num": 176489,
       "word": "单亲妈妈晕倒3岁女儿暖心照顾",
@@ -29721,6 +29761,14 @@
       "onboard_time": 1688185653,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171686,
+      "num": 171686,
+      "word": "11岁女孩和爷爷进山捡菌险坠崖",
+      "onboard_time": 1689303931,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171658,
@@ -32291,6 +32339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81128,
+      "num": 211375,
+      "word": "顺滑是治疗焦虑的良药",
+      "onboard_time": 1689300989,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80427,
       "num": 80427,
       "word": "产妇羊水破裂交警开道护送就医",
@@ -32305,14 +32361,6 @@
       "onboard_time": 1688232801,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80274,
-      "num": 211375,
-      "word": "顺滑是治疗焦虑的良药",
-      "onboard_time": 1689300989,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 79928,
@@ -32905,6 +32953,14 @@
       "onboard_time": 1688143647,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 42560,
+      "num": 1074093,
+      "word": "成都大运会收看指南",
+      "onboard_time": 1689303751,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41977,
