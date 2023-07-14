@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689347982987,
+  "endTime": 1689348852771,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1689075995,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1049489,
+      "num": 565659,
+      "word": "奔跑吧下期预告呢",
+      "onboard_time": 1689347981,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1035255,
@@ -4003,6 +4011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 567180,
+      "num": 567180,
+      "word": "陆景和",
+      "onboard_time": 1689347261,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 566723,
       "num": 566723,
       "word": "陈坤晒照为张婧仪庆生",
@@ -4315,6 +4331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543618,
+      "num": 417464,
+      "word": "毕业生自述大一时遭辅导员性侵",
+      "onboard_time": 1689346961,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 543214,
       "num": 543214,
       "word": "养小孩后才知道挑食是天生的",
@@ -4433,6 +4457,14 @@
       "onboard_time": 1689146431,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 532935,
+      "num": 532935,
+      "word": "中国官方回应阿斯巴甜评估结果",
+      "onboard_time": 1689344863,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531605,
@@ -4729,6 +4761,14 @@
       "onboard_time": 1689205050,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497751,
+      "num": 356267,
+      "word": "费曼才是香港顶流吧",
+      "onboard_time": 1689347801,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 497248,
@@ -5059,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472152,
+      "num": 381855,
+      "word": "朱正廷要海外开演唱会被粉丝吐槽",
+      "onboard_time": 1689347021,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 471336,
       "num": 471336,
       "word": "离职后这几样东西一定要带走",
@@ -5299,14 +5347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 454351,
-      "num": 454351,
-      "word": "中国官方回应阿斯巴甜评估结果",
-      "onboard_time": 1689344863,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454134,
       "num": 454134,
       "word": "刘诗诗看了都得愣一下",
@@ -5505,6 +5545,14 @@
       "onboard_time": 1688960428,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439131,
+      "num": 346375,
+      "word": "李玟二姐公布葬礼时间",
+      "onboard_time": 1689348100,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 439064,
@@ -5971,14 +6019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417464,
-      "num": 417464,
-      "word": "毕业生自述大一时遭辅导员性侵",
-      "onboard_time": 1689346961,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 417428,
       "num": 417428,
       "word": "文韬发脾气是这样的吗",
@@ -6033,6 +6073,14 @@
       "onboard_time": 1689256657,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 412763,
+      "num": 386706,
+      "word": "谭松韵杀青后第一件事就是找何炅",
+      "onboard_time": 1689347560,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 411306,
@@ -6347,14 +6395,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 386706,
-      "num": 386706,
-      "word": "谭松韵杀青后第一件事就是找何炅",
-      "onboard_time": 1689347560,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386418,
       "num": 386418,
       "word": "无畏契约正式上线",
@@ -6433,14 +6473,6 @@
       "onboard_time": 1689241233,
       "rank": 16,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 381855,
-      "num": 381855,
-      "word": "朱正廷要海外开演唱会被粉丝吐槽",
-      "onboard_time": 1689347021,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 381473,
@@ -6843,14 +6875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 356267,
-      "num": 356267,
-      "word": "费曼才是香港顶流吧",
-      "onboard_time": 1689347801,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 356200,
       "num": 356200,
       "word": "如果我的人间烟火是韩剧",
@@ -6945,6 +6969,14 @@
       "onboard_time": 1689174395,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 348688,
+      "num": 424152,
+      "word": "德约科维奇 裁判",
+      "onboard_time": 1689343663,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 348638,
@@ -7211,6 +7243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332986,
+      "num": 332986,
+      "word": "心动2全员录心动6",
+      "onboard_time": 1689347078,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332831,
       "num": 320146,
       "word": "头像真的会影响聊天欲望",
@@ -7475,14 +7515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314533,
-      "num": 314533,
-      "word": "心动2全员录心动6",
-      "onboard_time": 1689347078,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 314211,
       "num": 314211,
       "word": "求婚没必要让所有人都知道",
@@ -7729,14 +7761,6 @@
       "onboard_time": 1689292768,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302784,
-      "num": 424152,
-      "word": "德约科维奇 裁判",
-      "onboard_time": 1689343663,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 302262,
@@ -8819,14 +8843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261549,
-      "num": 356294,
-      "word": "陆景和",
-      "onboard_time": 1689347261,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 261325,
       "num": 261325,
       "word": "海南警方真的没有创作瓶颈吗",
@@ -9171,6 +9187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247790,
+      "num": 345213,
+      "word": "看完后100%的人试了一下",
+      "onboard_time": 1689348159,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247073,
       "num": 247073,
       "word": "养娃后衣服码数变大的原因",
@@ -9409,6 +9433,14 @@
       "onboard_time": 1689219515,
       "rank": 48,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 235601,
+      "num": 313072,
+      "word": "Xiaohu 永恩封印",
+      "onboard_time": 1689347920,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 235248,
@@ -11275,6 +11307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175643,
+      "num": 296581,
+      "word": "左然",
+      "onboard_time": 1689348520,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174958,
       "num": 1393677,
       "word": "立志要进杂技圈的大熊猫",
@@ -11899,14 +11939,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 133506,
-      "num": 311257,
-      "word": "Xiaohu 永恩封印",
-      "onboard_time": 1689347920,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 132432,
       "num": 683256,
       "word": "打工人的命是止痛药给的",
@@ -11963,6 +11995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125330,
+      "num": 289069,
+      "word": "设计师被吃货老公拐回农村种葡萄",
+      "onboard_time": 1689348340,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124951,
       "num": 124951,
       "word": "我心中的种地吧和十个勤天",
@@ -12001,6 +12041,14 @@
       "onboard_time": 1689112153,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115842,
+      "num": 1213894,
+      "word": "国家队跳绳速度快到重影",
+      "onboard_time": 1689339882,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 115635,
@@ -12179,20 +12227,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90886,
+      "num": 430773,
+      "word": "现在的父母都这么卷吗",
+      "onboard_time": 1689346843,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89014,
       "num": 583789,
       "word": "全球变暖或加剧皮肤问题",
       "onboard_time": 1688976513,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88627,
-      "num": 1209297,
-      "word": "国家队跳绳速度快到重影",
-      "onboard_time": 1689339882,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 85353,
@@ -12401,14 +12449,6 @@
       "onboard_time": 1689183439,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51047,
-      "num": 430773,
-      "word": "现在的父母都这么卷吗",
-      "onboard_time": 1689346843,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 49891,
