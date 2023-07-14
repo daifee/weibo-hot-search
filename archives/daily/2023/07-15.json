@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689351821747,
+  "endTime": 1689352835360,
   "band_list": [
     {
       "raw_hot": 3088863,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 669699,
-      "num": 669699,
+      "raw_hot": 670922,
+      "num": 670922,
       "word": "费曼才是香港顶流吧",
       "onboard_time": 1689347801,
       "rank": 5,
@@ -107,7 +107,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 553989,
+      "raw_hot": 572851,
       "num": 309201,
       "word": "著名导演贝聿娍去世",
       "onboard_time": 1689350376,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236058,
+      "num": 268255,
+      "word": "护士掏出新买的手机壳惊呆网友",
+      "onboard_time": 1689344921,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234043,
       "num": 269293,
       "word": "刘若英广州演唱会嘉宾王宝强",
@@ -305,6 +313,14 @@
       "onboard_time": 1689340183,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222924,
+      "num": 222924,
+      "word": "六公主采访肖战",
+      "onboard_time": 1689352530,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 218984,
@@ -355,6 +371,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 181818,
+      "num": 208462,
+      "word": "TFBOYS十周年演唱会通过审批",
+      "onboard_time": 1689332254,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174277,
       "num": 266407,
       "word": "为什么戴眼镜比不戴好看",
@@ -376,14 +400,6 @@
       "word": "设计师被吃货老公拐回农村种葡萄",
       "onboard_time": 1689348340,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143246,
-      "num": 264074,
-      "word": "护士掏出新买的手机壳惊呆网友",
-      "onboard_time": 1689344921,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

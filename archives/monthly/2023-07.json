@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689351821747,
+  "endTime": 1689352835360,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -9299,6 +9299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 670922,
+      "num": 670922,
+      "word": "费曼才是香港顶流吧",
+      "onboard_time": 1689347801,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670699,
       "num": 550819,
       "word": "马景涛 边牧波泥小pony",
@@ -9353,14 +9361,6 @@
       "onboard_time": 1688194290,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 669699,
-      "num": 669699,
-      "word": "费曼才是香港顶流吧",
-      "onboard_time": 1689347801,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 669141,
@@ -11307,6 +11307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572851,
+      "num": 309201,
+      "word": "著名导演贝聿娍去世",
+      "onboard_time": 1689350376,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572582,
       "num": 572582,
       "word": "何洁希望张靓颖越来越好",
@@ -11776,14 +11784,6 @@
       "word": "前崔秀彬大吧爆料",
       "onboard_time": 1688795310,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 553989,
-      "num": 309201,
-      "word": "著名导演贝聿娍去世",
-      "onboard_time": 1689350376,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -26848,6 +26848,14 @@
       "word": "远赴相思",
       "onboard_time": 1688281355,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 222924,
+      "num": 222924,
+      "word": "六公主采访肖战",
+      "onboard_time": 1689352530,
+      "rank": 36,
       "category": "影视"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689351821747,
+  "endTime": 1689352835360,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -3259,8 +3259,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 669699,
-      "num": 669699,
+      "raw_hot": 670922,
+      "num": 670922,
       "word": "费曼才是香港顶流吧",
       "onboard_time": 1689347801,
       "rank": 40,
@@ -3987,6 +3987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 572851,
+      "num": 309201,
+      "word": "著名导演贝聿娍去世",
+      "onboard_time": 1689350376,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571911,
       "num": 571911,
       "word": "莲花楼",
@@ -4225,14 +4233,6 @@
       "onboard_time": 1689315757,
       "rank": 18,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 553989,
-      "num": 309201,
-      "word": "著名导演贝聿娍去世",
-      "onboard_time": 1689350376,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 553942,
@@ -9849,6 +9849,14 @@
       "onboard_time": 1689066755,
       "rank": 44,
       "category": "自然"
+    },
+    {
+      "raw_hot": 222924,
+      "num": 222924,
+      "word": "六公主采访肖战",
+      "onboard_time": 1689352530,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 222904,
