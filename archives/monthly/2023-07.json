@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689339370276,
+  "endTime": 1689341145711,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -89,6 +89,14 @@
       "onboard_time": 1688299053,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10349851,
+      "num": 970255,
+      "word": "奔跑吧 原地消失术",
+      "onboard_time": 1689338621,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 10204768,
@@ -185,14 +193,6 @@
       "onboard_time": 1688637342,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8329808,
-      "num": 952279,
-      "word": "奔跑吧 原地消失术",
-      "onboard_time": 1689338621,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 7958830,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3245504,
+      "num": 787982,
+      "word": "奔跑吧后期好牛",
+      "onboard_time": 1689338804,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3241664,
       "num": 3241664,
       "word": "缅甸",
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 3146010,
-      "num": 666733,
+      "num": 701157,
       "word": "井川里予 我就是觉得很漂亮啊",
       "onboard_time": 1689300449,
       "rank": 11,
@@ -1116,7 +1124,7 @@
     },
     {
       "raw_hot": 2458606,
-      "num": 681853,
+      "num": 716762,
       "word": "费曼 家庭有点奇怪因为我有两个妈妈",
       "onboard_time": 1689330095,
       "rank": 30,
@@ -1857,14 +1865,6 @@
       "onboard_time": 1689221435,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1936997,
-      "num": 703204,
-      "word": "奔跑吧后期好牛",
-      "onboard_time": 1689338804,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1933070,
@@ -3761,6 +3761,14 @@
       "onboard_time": 1688476114,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1249828,
+      "num": 730711,
+      "word": "范丞丞发奔跑吧花絮照了",
+      "onboard_time": 1689339461,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1248353,
@@ -7147,6 +7155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 822540,
+      "num": 822540,
+      "word": "xiaohao尽力了",
+      "onboard_time": 1689337539,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 822314,
       "num": 822314,
       "word": "关晓彤这真的是你吗",
@@ -8675,14 +8691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705499,
-      "num": 705499,
-      "word": "xiaohao尽力了",
-      "onboard_time": 1689337539,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 704801,
       "num": 704801,
       "word": "茶百道未定联名",
@@ -8825,6 +8833,14 @@
       "onboard_time": 1688525434,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696927,
+      "num": 696927,
+      "word": "杨洋说夸我时王楚然的反应",
+      "onboard_time": 1689335973,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 696108,
@@ -9697,14 +9713,6 @@
       "onboard_time": 1688523814,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653670,
-      "num": 653670,
-      "word": "杨洋说夸我时王楚然的反应",
-      "onboard_time": 1689335973,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 653390,
@@ -11835,6 +11843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545871,
+      "num": 545871,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1689340484,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 545776,
       "num": 545776,
       "word": "i人和e人的区别不在于是否社恐",
@@ -12452,7 +12468,7 @@
     },
     {
       "raw_hot": 520607,
-      "num": 420126,
+      "num": 458722,
       "word": "为什么戴眼镜比不戴好看",
       "onboard_time": 1689330695,
       "rank": 32,
@@ -14251,6 +14267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 456274,
+      "num": 456274,
+      "word": "安乐传禁忌感",
+      "onboard_time": 1689339583,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456266,
       "num": 456266,
       "word": "肖战回应火烧云",
@@ -14617,6 +14641,14 @@
       "onboard_time": 1688293054,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 446490,
+      "num": 660725,
+      "word": "北大首封录取通知书送到14岁少年手中",
+      "onboard_time": 1689337660,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 445955,
@@ -16443,6 +16475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 396613,
+      "num": 396613,
+      "word": "蔡依林出道24年首次liveband",
+      "onboard_time": 1689340183,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 396586,
       "num": 396586,
       "word": "杨洋纯正bg味",
@@ -16857,6 +16897,14 @@
       "onboard_time": 1689067174,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 385814,
+      "num": 385814,
+      "word": "米妮中文",
+      "onboard_time": 1689340661,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 385713,
@@ -19171,14 +19219,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 333966,
-      "num": 660725,
-      "word": "北大首封录取通知书送到14岁少年手中",
-      "onboard_time": 1689337660,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 333796,
       "num": 1064533,
       "word": "民警接过一支烟救下一条命",
@@ -20987,6 +21027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298699,
+      "num": 369526,
+      "word": "本轮猴痘疫情主要通过男男传播",
+      "onboard_time": 1689340723,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298666,
       "num": 298666,
       "word": "媒体评因搭浮桥判18人有罪",
@@ -21865,6 +21913,14 @@
       "onboard_time": 1688953831,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286407,
+      "num": 367362,
+      "word": "田柾国rap",
+      "onboard_time": 1689339763,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 286377,
@@ -23571,6 +23627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260139,
+      "num": 552268,
+      "word": "鱼鳞云",
+      "onboard_time": 1689337721,
+      "rank": 34,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 260106,
       "num": 260106,
       "word": "郑润泽 抢票",
@@ -24137,6 +24201,14 @@
       "onboard_time": 1688297194,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253079,
+      "num": 546445,
+      "word": "给小动物都加上了手手之后",
+      "onboard_time": 1689335795,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 252968,
@@ -26747,6 +26819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218748,
+      "num": 394977,
+      "word": "薛之谦衡阳",
+      "onboard_time": 1689339347,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218742,
       "num": 218742,
       "word": "美财政部部长抵达北京",
@@ -26851,19 +26931,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217712,
+      "num": 369121,
+      "word": "那时候把书堆的高高 其实是挡住了自己的未来",
+      "onboard_time": 1689339882,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 217708,
       "num": 217708,
       "word": "树懒妈妈 刚刚好险啊",
       "onboard_time": 1688880092,
       "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 217574,
-      "num": 413890,
-      "word": "给小动物都加上了手手之后",
-      "onboard_time": 1689335795,
-      "rank": 38,
       "category": "幽默"
     },
     {
@@ -28035,14 +28115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205638,
-      "num": 411769,
-      "word": "鱼鳞云",
-      "onboard_time": 1689337721,
-      "rank": 34,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 205608,
       "num": 205608,
       "word": "NMIXX回归新歌PartyOClock",
@@ -28169,6 +28241,14 @@
       "onboard_time": 1688826875,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203707,
+      "num": 404433,
+      "word": "找那种有傲骨的男的 吃亏的绝对不是咱",
+      "onboard_time": 1689336575,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 203673,
@@ -29827,6 +29907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188038,
+      "num": 366255,
+      "word": "女子切野生菌时嗦手指致中毒",
+      "onboard_time": 1689340240,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187987,
       "num": 187987,
       "word": "妈妈的士会一直开直到女孩平安长大",
@@ -30401,14 +30489,6 @@
       "onboard_time": 1689304592,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178273,
-      "num": 404433,
-      "word": "找那种有傲骨的男的 吃亏的绝对不是咱",
-      "onboard_time": 1689336575,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 178234,
@@ -32163,14 +32243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146712,
-      "num": 394977,
-      "word": "薛之谦衡阳",
-      "onboard_time": 1689339347,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 145878,
       "num": 178751,
       "word": "西瓜还可以这样切",
@@ -32392,6 +32464,14 @@
       "word": "消防蓝朋友",
       "onboard_time": 1689299551,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141144,
+      "num": 1052548,
+      "word": "我国成功研制新型光学晶体",
+      "onboard_time": 1689340003,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -34866,6 +34946,9 @@
     },
     {
       "word": "#守护亿万民众共同的精神家园#"
+    },
+    {
+      "word": "#网络空间命运共同体#"
     }
   ]
 }
