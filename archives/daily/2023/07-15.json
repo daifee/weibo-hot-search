@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689359841035,
+  "endTime": 1689362115651,
   "band_list": [
     {
       "raw_hot": 3088863,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88565,
+      "num": 54350,
+      "word": "宜古宜今的明星",
+      "onboard_time": 1689361574,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67414,
       "num": 80150,
       "word": "黄渤大鹏五月天演唱会嘉宾",
@@ -441,6 +449,14 @@
       "onboard_time": 1689359776,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 26125,
+      "num": 53892,
+      "word": "要勇敢结束消耗自己的任何关系",
+      "onboard_time": 1689361695,
+      "rank": 49,
+      "category": "情感,幽默"
     }
   ],
   "hotgov_list": [
