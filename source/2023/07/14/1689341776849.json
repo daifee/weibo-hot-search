@@ -1,0 +1,410 @@
+{
+  "runTime": 1689341776849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11613152,
+        "num": 11613152,
+        "word": "奔跑吧 原地消失术",
+        "onboard_time": 1689338621,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9150917,
+        "num": 9150917,
+        "word": "奔跑吧",
+        "onboard_time": 1689335312,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186743,
+        "num": 2916738,
+        "word": "我国成功研制新型光学晶体",
+        "onboard_time": 1689340003,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2238751,
+        "num": 2238751,
+        "word": "奔跑吧后期好牛",
+        "onboard_time": 1689338804,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1285316,
+        "num": 1285316,
+        "word": "她是不是没忘干净",
+        "onboard_time": 1689332796,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1246177,
+        "num": 1246177,
+        "word": "范丞丞发奔跑吧花絮照了",
+        "onboard_time": 1689339461,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709276,
+        "num": 709276,
+        "word": "邓超 看谁今晚还敢拿我的丑照做灯牌",
+        "onboard_time": 1689330273,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 499100,
+        "num": 499100,
+        "word": "医院回应误给孩子用麻醉剂死亡",
+        "onboard_time": 1689329915,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417140,
+        "num": 417140,
+        "word": "xiaohao尽力了",
+        "onboard_time": 1689337539,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 404828,
+        "num": 404828,
+        "word": "北大首封录取通知书送到14岁少年手中",
+        "onboard_time": 1689337660,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1358286,
+        "num": 404717,
+        "word": "中国内地新增报告106例猴痘确诊病例",
+        "onboard_time": 1689336217,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188056,
+        "num": 404562,
+        "word": "费曼 家庭有点奇怪因为我有两个妈妈",
+        "onboard_time": 1689330095,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1057430,
+        "num": 404401,
+        "word": "肖战警告肖战工作室",
+        "onboard_time": 1689325236,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 820655,
+        "num": 404280,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 814166,
+        "num": 404099,
+        "word": "猴痘",
+        "onboard_time": 1689336456,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572443,
+        "num": 403979,
+        "word": "本轮猴痘疫情主要通过男男传播",
+        "onboard_time": 1689340723,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543996,
+        "num": 403775,
+        "word": "范丞丞说魏大勋最近挺火的",
+        "onboard_time": 1689332492,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540906,
+        "num": 403644,
+        "word": "杨洋说夸我时王楚然的反应",
+        "onboard_time": 1689335973,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314067,
+        "num": 403432,
+        "word": "丫丫小尖脸变成小圆脸了",
+        "onboard_time": 1689316115,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279324,
+        "num": 403207,
+        "word": "鱼鳞云",
+        "onboard_time": 1689337721,
+        "rank": 19,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 517582,
+        "num": 403139,
+        "word": "男子结扎1年妻子怀孕医院赔1万4",
+        "onboard_time": 1689331716,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475624,
+        "num": 402995,
+        "word": "米妮中文",
+        "onboard_time": 1689340661,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468612,
+        "num": 402832,
+        "word": "安乐传禁忌感",
+        "onboard_time": 1689339583,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274775,
+        "num": 402623,
+        "word": "当我带着两个西瓜过安检",
+        "onboard_time": 1689339043,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267024,
+        "num": 402413,
+        "word": "女子切野生菌时嗦手指致中毒",
+        "onboard_time": 1689340240,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466084,
+        "num": 402346,
+        "word": "韩素希红丝袜",
+        "onboard_time": 1689334892,
+        "rank": 25,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 418479,
+        "num": 402041,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1689340484,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402016,
+        "num": 402016,
+        "word": "欢颜官宣定档",
+        "onboard_time": 1689341744,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239597,
+        "num": 399472,
+        "word": "那时候把书堆的高高 其实是挡住了自己的未来",
+        "onboard_time": 1689339882,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 216254,
+        "num": 399317,
+        "word": "为什么戴眼镜比不戴好看",
+        "onboard_time": 1689330695,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399283,
+        "num": 399283,
+        "word": "蔡依林出道24年首次liveband",
+        "onboard_time": 1689340183,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 393356,
+        "num": 393356,
+        "word": "他从火光中走来",
+        "onboard_time": 1689330155,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368114,
+        "num": 368114,
+        "word": "到底是谁在捧魏大勋",
+        "onboard_time": 1689320135,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339568,
+        "num": 339568,
+        "word": "陶喆首场线上演唱会",
+        "onboard_time": 1689337903,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330426,
+        "num": 330426,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215023,
+        "num": 327854,
+        "word": "小学已无00后",
+        "onboard_time": 1689325772,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 208404,
+        "num": 318375,
+        "word": "给小动物都加上了手手之后",
+        "onboard_time": 1689335795,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170458,
+        "num": 314879,
+        "word": "这榴莲要不是怕脏都不长皮了",
+        "onboard_time": 1689322235,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166002,
+        "num": 302702,
+        "word": "找那种有傲骨的男的 吃亏的绝对不是咱",
+        "onboard_time": 1689336575,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153049,
+        "num": 301121,
+        "word": "女生考上华科大曾就读幼儿园拉横幅庆祝",
+        "onboard_time": 1689337297,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 293960,
+        "num": 293960,
+        "word": "TFBOYS十周年演唱会或将7月25日官宣",
+        "onboard_time": 1689329555,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278484,
+        "num": 278484,
+        "word": "文咏珊说李木子茶里茶气",
+        "onboard_time": 1689335613,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264569,
+        "num": 264569,
+        "word": "田柾国rap",
+        "onboard_time": 1689339763,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257329,
+        "num": 257329,
+        "word": "宁艺卓ins发了爱宝的双胞胎",
+        "onboard_time": 1689333574,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211590,
+        "num": 257232,
+        "word": "TFBOYS十周年演唱会通过审批",
+        "onboard_time": 1689332254,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204781,
+        "num": 257178,
+        "word": "范丞丞扫楼穿真空西装",
+        "onboard_time": 1689327160,
+        "rank": 45,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 144213,
+        "num": 257042,
+        "word": "中国政府部门几乎每天遭受海量网络攻击",
+        "onboard_time": 1689327460,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127536,
+        "num": 256988,
+        "word": "淀粉肠里是淀粉还是肉",
+        "onboard_time": 1689332913,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119140,
+        "num": 256804,
+        "word": "正式确诊为那英",
+        "onboard_time": 1689308436,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 106149,
+        "num": 256714,
+        "word": "未定事件簿三周年",
+        "onboard_time": 1689336633,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络空间命运共同体#"
+    }
+  }
+}
