@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689369379658,
+  "endTime": 1689370442004,
   "band_list": [
     {
       "raw_hot": 3088863,
@@ -443,8 +443,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 60323,
-      "num": 60323,
+      "raw_hot": 61008,
+      "num": 61008,
       "word": "李若彤李白造型",
       "onboard_time": 1689362894,
       "rank": 33,
@@ -457,6 +457,14 @@
       "onboard_time": 1689361695,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 42405,
+      "num": 42405,
+      "word": "9000元补贴能缓解独子养老焦虑吗",
+      "onboard_time": 1689366313,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31660,
@@ -472,14 +480,6 @@
       "word": "家属控诉医院用麻醉剂致儿童死亡",
       "onboard_time": 1689360616,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21992,
-      "num": 34822,
-      "word": "9000元补贴能缓解独子养老焦虑吗",
-      "onboard_time": 1689366313,
-      "rank": 46,
       "category": "社会新闻"
     }
   ],
