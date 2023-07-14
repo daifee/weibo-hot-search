@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689320067542,
+  "endTime": 1689323019983,
   "band_list": [
     {
       "raw_hot": 6846624,
@@ -33,6 +33,14 @@
       "onboard_time": 1689305252,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2176380,
+      "num": 911445,
+      "word": "到底是谁在捧魏大勋",
+      "onboard_time": 1689320135,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2165898,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1327623,
+      "num": 1327623,
+      "word": "关晓彤竟然也演过家有儿女",
+      "onboard_time": 1689318455,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1226980,
       "num": 1226980,
       "word": "丫丫小尖脸变成小圆脸了",
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1049081,
+      "num": 1049081,
+      "word": "阿米尔汗和王宝强竟然是好朋友",
+      "onboard_time": 1689321274,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1035255,
       "num": 1035255,
       "word": "公摊面积为何不能取消",
@@ -203,6 +227,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 890577,
+      "num": 462180,
+      "word": "警方回应90岁老人刚下葬尸体被偷",
+      "onboard_time": 1689320974,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882344,
       "num": 882344,
       "word": "德国公布首个中国战略",
@@ -217,14 +249,6 @@
       "onboard_time": 1689264031,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 858613,
-      "num": 858613,
-      "word": "关晓彤竟然也演过家有儿女",
-      "onboard_time": 1689318455,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 808344,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 760469,
-      "num": 433222,
+      "num": 743643,
       "word": "1TB的手机比128GB的重",
       "onboard_time": 1689317554,
       "rank": 12,
@@ -280,6 +304,14 @@
       "word": "原来爱宝的双胞胎女儿是这么来的",
       "onboard_time": 1689309219,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733444,
+      "num": 374345,
+      "word": "这榴莲要不是怕脏都不长皮了",
+      "onboard_time": 1689322235,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -321,6 +353,14 @@
       "onboard_time": 1689302612,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707055,
+      "num": 707055,
+      "word": "黄晓明说程潇不能刷碗就别来了",
+      "onboard_time": 1689320376,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 685635,
@@ -401,6 +441,14 @@
       "onboard_time": 1689305433,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626953,
+      "num": 626953,
+      "word": "光明日报评玉骨遥",
+      "onboard_time": 1689319656,
+      "rank": 40,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 625902,
@@ -491,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571828,
+      "num": 364966,
+      "word": "就没有练不细的腰",
+      "onboard_time": 1689321453,
+      "rank": 21,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 558756,
       "num": 558756,
       "word": "王心凌演唱会官宣三城",
@@ -513,6 +569,14 @@
       "onboard_time": 1689316839,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544579,
+      "num": 544579,
+      "word": "带状疱疹国产疫苗在杭开打",
+      "onboard_time": 1689316597,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544474,
@@ -619,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469932,
+      "num": 361206,
+      "word": "用一句话激怒所有大学生",
+      "onboard_time": 1689322175,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 468811,
       "num": 396355,
       "word": "张一山关晓彤在新剧里看家有儿女",
@@ -675,19 +747,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 433583,
-      "num": 433583,
-      "word": "带状疱疹国产疫苗在杭开打",
-      "onboard_time": 1689316597,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432282,
       "num": 277701,
       "word": "优酷7月片单",
       "onboard_time": 1689300628,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430346,
+      "num": 430346,
+      "word": "不完美受害人官宣定档",
+      "onboard_time": 1689321934,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -705,6 +777,14 @@
       "onboard_time": 1689313477,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415017,
+      "num": 343753,
+      "word": "朴彩英发量回来了",
+      "onboard_time": 1689319597,
+      "rank": 44,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 409659,
@@ -819,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377315,
+      "num": 377315,
+      "word": "安乐传 花魁",
+      "onboard_time": 1689322235,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373176,
       "num": 373176,
       "word": "王源任敏新剧收视率",
@@ -891,8 +979,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325656,
+      "num": 325656,
+      "word": "告五人 抢票",
+      "onboard_time": 1689319775,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 315732,
-      "num": 292849,
+      "num": 311375,
       "word": "东北虎园两虎相争一虎被咬死",
       "onboard_time": 1689318035,
       "rank": 33,
@@ -1035,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275960,
+      "num": 275960,
+      "word": "监考不能玩手机的无聊",
+      "onboard_time": 1689319114,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272470,
       "num": 271496,
       "word": "婚礼结束可以带回家做酸菜",
@@ -1043,12 +1147,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271575,
-      "num": 271575,
-      "word": "告五人 抢票",
-      "onboard_time": 1689319775,
-      "rank": 29,
-      "category": "音乐"
+      "raw_hot": 270683,
+      "num": 270683,
+      "word": "男子为减肥每天一顿半年暴瘦30斤",
+      "onboard_time": 1689322594,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 269308,
+      "num": 269308,
+      "word": "空调开一整夜口鼻干燥怎么办",
+      "onboard_time": 1689321756,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 268824,
@@ -1115,6 +1227,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 249635,
+      "num": 249635,
+      "word": "张大大戏称熬走了杨幂还有杨颖",
+      "onboard_time": 1689322175,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249564,
       "num": 322908,
       "word": "郑州一小学强制家长轮流站岗",
@@ -1153,14 +1273,6 @@
       "onboard_time": 1689303751,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233592,
-      "num": 233592,
-      "word": "光明日报评玉骨遥",
-      "onboard_time": 1689319656,
-      "rank": 40,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 233335,
@@ -1363,14 +1475,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 201213,
-      "num": 201213,
-      "word": "朴彩英发量回来了",
-      "onboard_time": 1689319597,
-      "rank": 44,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 198284,
       "num": 198284,
       "word": "陈哲远说小鱼儿是推开表演大门的角色",
@@ -1513,6 +1617,14 @@
       "onboard_time": 1689255158,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164276,
+      "num": 164276,
+      "word": "Amber你在干嘛",
+      "onboard_time": 1689322775,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 161110,
@@ -1739,6 +1851,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49638,
+      "num": 932684,
+      "word": "最新国家安全主题宣传片",
+      "onboard_time": 1689322835,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43211,
+      "num": 1095942,
+      "word": "3个词总结2023中国外贸期中成绩单",
+      "onboard_time": 1689303631,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38569,
       "num": 51234,
       "word": "当我免签玩够日本9城",
@@ -1752,14 +1880,6 @@
       "word": "饿了么举办盲人电竞比赛",
       "onboard_time": 1689314440,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37266,
-      "num": 1095942,
-      "word": "3个词总结2023中国外贸期中成绩单",
-      "onboard_time": 1689303631,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1785,6 +1905,14 @@
       "onboard_time": 1689274155,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14785,
+      "num": 214149,
+      "word": "中国式现代化是走和平发展道路的现代化",
+      "onboard_time": 1689322714,
+      "rank": 41,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
