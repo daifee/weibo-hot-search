@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689358986450,
+  "endTime": 1689359841035,
   "band_list": [
     {
       "raw_hot": 3088863,
@@ -428,11 +428,19 @@
     },
     {
       "raw_hot": 67414,
-      "num": 71973,
+      "num": 80150,
       "word": "黄渤大鹏五月天演唱会嘉宾",
       "onboard_time": 1689343120,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 31660,
+      "num": 80021,
+      "word": "毕业青春就结束了吗",
+      "onboard_time": 1689359776,
+      "rank": 49,
+      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [

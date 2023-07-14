@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689358986450,
+  "endTime": 1689359841035,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -12641,6 +12641,14 @@
       "onboard_time": 1689237335,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31660,
+      "num": 80021,
+      "word": "毕业青春就结束了吗",
+      "onboard_time": 1689359776,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 31114,
