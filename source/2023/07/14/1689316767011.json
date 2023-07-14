@@ -1,0 +1,410 @@
+{
+  "runTime": 1689316767011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2204828,
+        "num": 2204828,
+        "word": "正式确诊为那英",
+        "onboard_time": 1689308436,
+        "rank": 0,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1562478,
+        "num": 1562478,
+        "word": "谢娜挡着车不让大家离开",
+        "onboard_time": 1689314380,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57405,
+        "num": 1210894,
+        "word": "成都大运会收看指南",
+        "onboard_time": 1689303751,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126748,
+        "num": 1126748,
+        "word": "家属确认旅行博主姜野在新疆遇难",
+        "onboard_time": 1689308013,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835889,
+        "num": 835889,
+        "word": "公摊面积为何不能取消",
+        "onboard_time": 1689314499,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 659447,
+        "num": 659447,
+        "word": "王珞丹是怎么选到魏大勋的",
+        "onboard_time": 1689303691,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631633,
+        "num": 631633,
+        "word": "电竞国家集训队集体亮相",
+        "onboard_time": 1689312275,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 595384,
+        "num": 595384,
+        "word": "迪丽热巴想回新疆吃水果",
+        "onboard_time": 1689308376,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 588052,
+        "num": 588052,
+        "word": "杨洋皱眉",
+        "onboard_time": 1689315400,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578212,
+        "num": 578212,
+        "word": "拜登称普京已输掉战争",
+        "onboard_time": 1689310962,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1588639,
+        "num": 568409,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 554658,
+        "num": 554658,
+        "word": "长安三万里为什么火了",
+        "onboard_time": 1689315757,
+        "rank": 11,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 543039,
+        "num": 543039,
+        "word": "丫丫小尖脸变成小圆脸了",
+        "onboard_time": 1689316115,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529521,
+        "num": 529521,
+        "word": "没迪丽热巴龚俊这样的鼻子可不行",
+        "onboard_time": 1689311499,
+        "rank": 13,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 519042,
+        "num": 519042,
+        "word": "田柾国韩素希水中镜头",
+        "onboard_time": 1689310001,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510674,
+        "num": 510674,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494762,
+        "num": 494762,
+        "word": "这都是王霏霏的私服吧",
+        "onboard_time": 1689315456,
+        "rank": 16,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 488516,
+        "num": 488516,
+        "word": "制伏上海地铁辱华女当事人质疑警方通告",
+        "onboard_time": 1689309040,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477651,
+        "num": 477651,
+        "word": "刘若英说八角笼中是纪录是真",
+        "onboard_time": 1689313599,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463224,
+        "num": 463224,
+        "word": "原来爱宝的双胞胎女儿是这么来的",
+        "onboard_time": 1689309219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494581,
+        "num": 449957,
+        "word": "广东一女子耳膜被男朋友吻裂",
+        "onboard_time": 1689313119,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473459,
+        "num": 434711,
+        "word": "Angelababy穿泳装",
+        "onboard_time": 1689303451,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 473376,
+        "num": 418736,
+        "word": "投简历投到了自己公司",
+        "onboard_time": 1689314259,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 468811,
+        "num": 396355,
+        "word": "张一山关晓彤在新剧里看家有儿女",
+        "onboard_time": 1689314139,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388855,
+        "num": 388855,
+        "word": "小鸟落身上不走大学生找警察求助",
+        "onboard_time": 1689309400,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467184,
+        "num": 377722,
+        "word": "终于等到minnie",
+        "onboard_time": 1689316115,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421704,
+        "num": 373425,
+        "word": "卡捷琳娜制作人是老公不是老龚",
+        "onboard_time": 1689313477,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354270,
+        "num": 354270,
+        "word": "曹格说还是爱吴速玲",
+        "onboard_time": 1689308136,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326441,
+        "num": 326441,
+        "word": "六公主发了魏大勋",
+        "onboard_time": 1689298529,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277527,
+        "num": 277527,
+        "word": "吹空调时你最注意保护哪个部位",
+        "onboard_time": 1689315698,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 283699,
+        "num": 277494,
+        "word": "罗云熙杜莎双蜡像揭幕",
+        "onboard_time": 1689316475,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276677,
+        "num": 276677,
+        "word": "女儿模特妈妈客服售假一年卖了30万",
+        "onboard_time": 1689303212,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 269680,
+        "num": 269680,
+        "word": "时代少年团玩尬的",
+        "onboard_time": 1689313179,
+        "rank": 32,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 265036,
+        "num": 265036,
+        "word": "徒手爬窗救孩子的好邻居曾是一名武警战士",
+        "onboard_time": 1689315400,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261729,
+        "num": 261729,
+        "word": "印度男子做午饭加2番茄妻子出走",
+        "onboard_time": 1689313779,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260676,
+        "num": 260676,
+        "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
+        "onboard_time": 1689297150,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256122,
+        "num": 256122,
+        "word": "丫丫",
+        "onboard_time": 1689310843,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247725,
+        "num": 247725,
+        "word": "女童因乱小便被爸爸倒挂窗外责罚",
+        "onboard_time": 1689306332,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245745,
+        "num": 245745,
+        "word": "丫丫胖了吃笋嘎嘎香",
+        "onboard_time": 1689303992,
+        "rank": 38,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 37427,
+        "num": 241006,
+        "word": "饿了么举办盲人电竞比赛",
+        "onboard_time": 1689314440,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237485,
+        "num": 237485,
+        "word": "玖月晞谈宋焰许沁",
+        "onboard_time": 1689303870,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221475,
+        "num": 221475,
+        "word": "不让开空调的同事又出现了",
+        "onboard_time": 1689311021,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197221,
+        "num": 197221,
+        "word": "王俊凯 五月天嘉宾",
+        "onboard_time": 1689304891,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195986,
+        "num": 195986,
+        "word": "绝交吧爸爸官宣改名定档",
+        "onboard_time": 1689309219,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195791,
+        "num": 195791,
+        "word": "茶啊二中",
+        "onboard_time": 1689313240,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190365,
+        "num": 190365,
+        "word": "迪丽热巴金世佳新剧对手戏",
+        "onboard_time": 1689307353,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173838,
+        "num": 173838,
+        "word": "田柾国solo出道曲seven",
+        "onboard_time": 1689307956,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148003,
+        "num": 173690,
+        "word": "带状疱疹国产疫苗在杭开打",
+        "onboard_time": 1689316597,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141357,
+        "num": 173564,
+        "word": "亚运电竞国家队首次集结宣誓",
+        "onboard_time": 1689315219,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129630,
+        "num": 173196,
+        "word": "公公贴心给儿媳在草原修了一个马桶",
+        "onboard_time": 1689299430,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国广电新媒体集结发光#"
+    }
+  }
+}

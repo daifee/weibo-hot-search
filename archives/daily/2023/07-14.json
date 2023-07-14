@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689315939650,
+  "endTime": 1689316767011,
   "band_list": [
     {
       "raw_hot": 6846624,
@@ -83,6 +83,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1562478,
+      "num": 1562478,
+      "word": "谢娜挡着车不让大家离开",
+      "onboard_time": 1689314380,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1415514,
       "num": 559075,
       "word": "不求人汤圆分手",
@@ -155,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1043678,
-      "num": 592068,
-      "word": "谢娜挡着车不让大家离开",
-      "onboard_time": 1689314380,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 938910,
       "num": 938910,
       "word": "田柾国solo出道曲seven",
@@ -201,6 +201,14 @@
       "onboard_time": 1689264031,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 835889,
+      "num": 835889,
+      "word": "公摊面积为何不能取消",
+      "onboard_time": 1689314499,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 808344,
@@ -427,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 588052,
+      "num": 588052,
+      "word": "杨洋皱眉",
+      "onboard_time": 1689315400,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 579603,
       "num": 226049,
       "word": "美国一妈妈喂9个月男婴掺了芬太尼的奶粉",
@@ -443,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563493,
-      "num": 563493,
-      "word": "公摊面积为何不能取消",
-      "onboard_time": 1689314499,
-      "rank": 13,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 558756,
       "num": 558756,
       "word": "王心凌演唱会官宣三城",
@@ -459,12 +467,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 554658,
+      "num": 554658,
+      "word": "长安三万里为什么火了",
+      "onboard_time": 1689315757,
+      "rank": 18,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 544474,
       "num": 544474,
       "word": "银赫东海圭贤不续约SMTOWN",
       "onboard_time": 1689300688,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543039,
+      "num": 543039,
+      "word": "丫丫小尖脸变成小圆脸了",
+      "onboard_time": 1689316115,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540161,
@@ -515,8 +539,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 494438,
-      "num": 420461,
+      "raw_hot": 494762,
+      "num": 494762,
+      "word": "这都是王霏霏的私服吧",
+      "onboard_time": 1689315456,
+      "rank": 27,
+      "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 494581,
+      "num": 449957,
       "word": "广东一女子耳膜被男朋友吻裂",
       "onboard_time": 1689313119,
       "rank": 21,
@@ -539,12 +571,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468811,
+      "num": 396355,
+      "word": "张一山关晓彤在新剧里看家有儿女",
+      "onboard_time": 1689314139,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467466,
       "num": 395145,
       "word": "男子疑将已刮刮刮乐重新覆膜",
       "onboard_time": 1689298587,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467184,
+      "num": 377722,
+      "word": "终于等到minnie",
+      "onboard_time": 1689316115,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 459775,
@@ -571,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441996,
-      "num": 441996,
-      "word": "长安三万里为什么火了",
-      "onboard_time": 1689315757,
-      "rank": 18,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 438930,
       "num": 438930,
       "word": "魏大勋没演过古装剧",
@@ -603,7 +643,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 412492,
+      "raw_hot": 421704,
       "num": 412492,
       "word": "卡捷琳娜制作人是老公不是老龚",
       "onboard_time": 1689313477,
@@ -747,22 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344062,
-      "num": 344062,
-      "word": "杨洋皱眉",
-      "onboard_time": 1689315400,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 339747,
-      "num": 339747,
-      "word": "这都是王霏霏的私服吧",
-      "onboard_time": 1689315456,
-      "rank": 27,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 338623,
       "num": 261983,
       "word": "消失的她密钥延期",
@@ -867,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283699,
+      "num": 277494,
+      "word": "罗云熙杜莎双蜡像揭幕",
+      "onboard_time": 1689316475,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280449,
       "num": 280449,
       "word": "鲨鱼疑似噎住潜水员海姆立克法急救",
@@ -889,6 +921,14 @@
       "onboard_time": 1689313779,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277527,
+      "num": 277527,
+      "word": "吹空调时你最注意保护哪个部位",
+      "onboard_time": 1689315698,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 276913,
@@ -1043,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224187,
-      "num": 224187,
-      "word": "张一山关晓彤在新剧里看家有儿女",
-      "onboard_time": 1689314139,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223532,
       "num": 223532,
       "word": "我爹一条朋友圈点赞人数",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1689315400,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206302,
-      "num": 206302,
-      "word": "吹空调时你最注意保护哪个部位",
-      "onboard_time": 1689315698,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 205900,
@@ -1403,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148003,
+      "num": 173690,
+      "word": "带状疱疹国产疫苗在杭开打",
+      "onboard_time": 1689316597,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145279,
       "num": 145279,
       "word": "中国队夺得男女链球金牌",
@@ -1555,6 +1587,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 37427,
+      "num": 241006,
+      "word": "饿了么举办盲人电竞比赛",
+      "onboard_time": 1689314440,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31312,
       "num": 1268584,
       "word": "这些录取通知书里满是骄傲和期许",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1689273734,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 29788,
-      "num": 224340,
-      "word": "饿了么举办盲人电竞比赛",
-      "onboard_time": 1689314440,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28124,
