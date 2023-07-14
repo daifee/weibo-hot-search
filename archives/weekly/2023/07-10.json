@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689354933428,
+  "endTime": 1689356029728,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -12275,6 +12275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92907,
+      "num": 135117,
+      "word": "束缚女性的七个观念",
+      "onboard_time": 1689353786,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 92720,
       "num": 1986569,
       "word": "成都大运会收看指南",
@@ -12449,14 +12457,6 @@
       "onboard_time": 1689195852,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64466,
-      "num": 135117,
-      "word": "束缚女性的七个观念",
-      "onboard_time": 1689353786,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 63310,
