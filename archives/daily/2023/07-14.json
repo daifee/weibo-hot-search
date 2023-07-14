@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689331045171,
+  "endTime": 1689333329273,
   "band_list": [
     {
       "raw_hot": 8964429,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2348623,
+      "num": 626286,
+      "word": "费曼 家庭有点奇怪因为我有两个妈妈",
+      "onboard_time": 1689330095,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2165898,
       "num": 2165898,
       "word": "六公主发了魏大勋",
@@ -73,6 +81,14 @@
       "onboard_time": 1689263373,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1860642,
+      "num": 1860642,
+      "word": "邓超 看谁今晚还敢拿我的丑照做灯牌",
+      "onboard_time": 1689330273,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 1746259,
@@ -105,14 +121,6 @@
       "onboard_time": 1689293190,
       "rank": 5,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 1590093,
-      "num": 216776,
-      "word": "费曼 家庭有点奇怪因为我有两个妈妈",
-      "onboard_time": 1689330095,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1562478,
@@ -219,6 +227,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1098630,
+      "num": 277940,
+      "word": "男子结扎1年妻子怀孕医院赔1万4",
+      "onboard_time": 1689331716,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1069557,
       "num": 1069557,
       "word": "中国好声音祝奔跑吧播出顺利",
@@ -308,19 +324,11 @@
     },
     {
       "raw_hot": 835039,
-      "num": 440004,
+      "num": 735552,
       "word": "医院回应误给孩子用麻醉剂死亡",
       "onboard_time": 1689329915,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 812501,
-      "num": 215066,
-      "word": "邓超 看谁今晚还敢拿我的丑照做灯牌",
-      "onboard_time": 1689330273,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 808344,
@@ -433,6 +441,14 @@
       "onboard_time": 1689302612,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696108,
+      "num": 696108,
+      "word": "他从火光中走来",
+      "onboard_time": 1689330155,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 685635,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571822,
+      "num": 294127,
+      "word": "范丞丞说魏大勋最近挺火的",
+      "onboard_time": 1689332492,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558756,
       "num": 558756,
       "word": "王心凌演唱会官宣三城",
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 520607,
-      "num": 213145,
+      "num": 277010,
       "word": "为什么戴眼镜比不戴好看",
       "onboard_time": 1689330695,
       "rank": 32,
@@ -827,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465995,
+      "num": 465995,
+      "word": "seven",
+      "onboard_time": 1689331116,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 459775,
       "num": 459775,
       "word": "宋焰许沁结婚了",
@@ -864,14 +896,6 @@
       "word": "许沁好像觉醒了的纸片人",
       "onboard_time": 1689311678,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 432896,
-      "num": 432896,
-      "word": "他从火光中走来",
-      "onboard_time": 1689330155,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -1083,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339480,
+      "num": 272511,
+      "word": "TFBOYS十周年演唱会通过审批",
+      "onboard_time": 1689332254,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 338623,
       "num": 261983,
       "word": "消失的她密钥延期",
@@ -1115,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330070,
+      "num": 271096,
+      "word": "大江大河3杀青",
+      "onboard_time": 1689331834,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325656,
       "num": 325656,
       "word": "告五人 抢票",
@@ -1128,6 +1168,14 @@
       "word": "空调开一整夜口鼻干燥怎么办",
       "onboard_time": 1689321756,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 321143,
+      "num": 268389,
+      "word": "她是不是没忘干净",
+      "onboard_time": 1689332796,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -1153,6 +1201,14 @@
       "onboard_time": 1689302669,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312640,
+      "num": 270671,
+      "word": "NewJeans回归初舞台",
+      "onboard_time": 1689330455,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 309046,
@@ -1196,7 +1252,7 @@
     },
     {
       "raw_hot": 302262,
-      "num": 257929,
+      "num": 265421,
       "word": "魏大勋粉丝写的小作文",
       "onboard_time": 1689325894,
       "rank": 38,
@@ -1273,14 +1329,6 @@
       "onboard_time": 1689316475,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281925,
-      "num": 221938,
-      "word": "NewJeans回归初舞台",
-      "onboard_time": 1689330455,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 280449,
@@ -1644,7 +1692,7 @@
     },
     {
       "raw_hot": 207237,
-      "num": 257370,
+      "num": 265357,
       "word": "印度发射月船3号月球探测器",
       "onboard_time": 1689329674,
       "rank": 39,
@@ -1756,7 +1804,7 @@
     },
     {
       "raw_hot": 184319,
-      "num": 257356,
+      "num": 265380,
       "word": "江南百景图",
       "onboard_time": 1689329135,
       "rank": 43,
@@ -1793,6 +1841,14 @@
       "onboard_time": 1689317258,
       "rank": 18,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 176110,
+      "num": 266370,
+      "word": "淀粉肠里是淀粉还是肉",
+      "onboard_time": 1689332913,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 175848,
@@ -2009,6 +2065,14 @@
       "onboard_time": 1689283993,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115635,
+      "num": 265329,
+      "word": "人为修饰过的宠物",
+      "onboard_time": 1689332376,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 105451,
