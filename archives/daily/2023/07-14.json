@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689319064404,
+  "endTime": 1689320067542,
   "band_list": [
     {
       "raw_hot": 6846624,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 858613,
+      "num": 858613,
+      "word": "关晓彤竟然也演过家有儿女",
+      "onboard_time": 1689318455,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 808344,
       "num": 808344,
       "word": "女儿模特妈妈客服售假一年卖了30万",
@@ -257,6 +265,14 @@
       "onboard_time": 1689259237,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 760469,
+      "num": 433222,
+      "word": "1TB的手机比128GB的重",
+      "onboard_time": 1689317554,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 757800,
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533794,
+      "num": 307365,
+      "word": "魏大勋在装了杨洋你再装",
+      "onboard_time": 1689318696,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 531605,
       "num": 422969,
       "word": "投简历投到了自己公司",
@@ -545,14 +569,6 @@
       "onboard_time": 1689313599,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 512706,
-      "num": 397236,
-      "word": "1TB的手机比128GB的重",
-      "onboard_time": 1689317554,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 503330,
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484700,
+      "num": 358129,
+      "word": "打工人买彩票中千万等工作不忙才来领奖",
+      "onboard_time": 1689318515,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 483898,
       "num": 355596,
       "word": "EXO时隔6年中文采访",
@@ -592,14 +616,6 @@
       "word": "李白为什么写下轻舟已过万重山",
       "onboard_time": 1689298770,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 472478,
-      "num": 359448,
-      "word": "关晓彤竟然也演过家有儿女",
-      "onboard_time": 1689318455,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -659,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433583,
+      "num": 433583,
+      "word": "带状疱疹国产疫苗在杭开打",
+      "onboard_time": 1689316597,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432282,
       "num": 277701,
       "word": "优酷7月片单",
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 429873,
-      "num": 266786,
+      "num": 301951,
       "word": "我爸把我的粉扑换成了饼干",
       "onboard_time": 1689317913,
       "rank": 30,
@@ -689,14 +713,6 @@
       "onboard_time": 1689251013,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407612,
-      "num": 358129,
-      "word": "打工人买彩票中千万等工作不忙才来领奖",
-      "onboard_time": 1689318515,
-      "rank": 21,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 400849,
@@ -811,12 +827,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360387,
-      "num": 360387,
-      "word": "带状疱疹国产疫苗在杭开打",
-      "onboard_time": 1689316597,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 356470,
+      "num": 266808,
+      "word": "rush",
+      "onboard_time": 1689319175,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 353872,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 346254,
-      "num": 266634,
+      "num": 345873,
       "word": "公司称曹格在疗伤中",
       "onboard_time": 1689317913,
       "rank": 32,
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 315732,
-      "num": 266536,
+      "num": 292849,
       "word": "东北虎园两虎相争一虎被咬死",
       "onboard_time": 1689318035,
       "rank": 33,
@@ -915,12 +931,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301911,
-      "num": 301911,
-      "word": "魏大勋在装了杨洋你再装",
-      "onboard_time": 1689318696,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 296480,
+      "num": 296480,
+      "word": "南宁多名公职人员被免去现职",
+      "onboard_time": 1689318756,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296161,
@@ -1019,12 +1035,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270194,
-      "num": 266358,
+      "raw_hot": 272470,
+      "num": 271496,
       "word": "婚礼结束可以带回家做酸菜",
       "onboard_time": 1689318098,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271575,
+      "num": 271575,
+      "word": "告五人 抢票",
+      "onboard_time": 1689319775,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 268824,
@@ -1107,14 +1131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245354,
-      "num": 245354,
-      "word": "南宁多名公职人员被免去现职",
-      "onboard_time": 1689318756,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244870,
       "num": 244870,
       "word": "高考钉子户唐尚珺公布高考志愿",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1689303751,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233592,
+      "num": 233592,
+      "word": "光明日报评玉骨遥",
+      "onboard_time": 1689319656,
+      "rank": 40,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 233335,
@@ -1339,6 +1363,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 201213,
+      "num": 201213,
+      "word": "朴彩英发量回来了",
+      "onboard_time": 1689319597,
+      "rank": 44,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 198284,
       "num": 198284,
       "word": "陈哲远说小鱼儿是推开表演大门的角色",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1689304592,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176326,
+      "num": 363701,
+      "word": "跟三星一起折来折趣",
+      "onboard_time": 1689317258,
+      "rank": 18,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 175848,
@@ -1587,20 +1627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130203,
+      "num": 198894,
+      "word": "低丸子头教程",
+      "onboard_time": 1689317074,
+      "rank": 48,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 128127,
       "num": 128127,
       "word": "熊猫界的显眼包们",
       "onboard_time": 1689263611,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126752,
-      "num": 198894,
-      "word": "低丸子头教程",
-      "onboard_time": 1689317074,
-      "rank": 48,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 126068,
@@ -1611,12 +1651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106084,
-      "num": 363701,
-      "word": "跟三星一起折来折趣",
-      "onboard_time": 1689317258,
-      "rank": 18,
-      "category": "社会新闻,科技"
+      "raw_hot": 105451,
+      "num": 189763,
+      "word": "2023年你的手机折叠了吗",
+      "onboard_time": 1689319715,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104894,
@@ -1715,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37266,
+      "num": 1095942,
+      "word": "3个词总结2023中国外贸期中成绩单",
+      "onboard_time": 1689303631,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31312,
       "num": 1268584,
       "word": "这些录取通知书里满是骄傲和期许",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1689274155,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26310,
-      "num": 1095942,
-      "word": "3个词总结2023中国外贸期中成绩单",
-      "onboard_time": 1689303631,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
