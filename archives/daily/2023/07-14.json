@@ -1,7 +1,31 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689300930974,
+  "endTime": 1689303669607,
   "band_list": [
+    {
+      "raw_hot": 6601391,
+      "num": 6601391,
+      "word": "奔跑吧今晚播出",
+      "onboard_time": 1689300688,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2798451,
+      "num": 554268,
+      "word": "井川里予 我就是觉得很漂亮啊",
+      "onboard_time": 1689300449,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 2165898,
+      "num": 2165898,
+      "word": "六公主发了魏大勋",
+      "onboard_time": 1689298529,
+      "rank": 7,
+      "category": "影视"
+    },
     {
       "raw_hot": 2061854,
       "num": 2061854,
@@ -9,14 +33,6 @@
       "onboard_time": 1689263373,
       "rank": 0,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1904740,
-      "num": 1904740,
-      "word": "六公主发了魏大勋",
-      "onboard_time": 1689298529,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1686578,
@@ -115,14 +131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 732785,
-      "num": 732785,
-      "word": "奔跑吧今晚播出",
-      "onboard_time": 1689300688,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 719897,
       "num": 719897,
       "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
@@ -145,6 +153,14 @@
       "onboard_time": 1689259475,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 709106,
+      "num": 473836,
+      "word": "男子吃肯德基发现汉堡少一半",
+      "onboard_time": 1689302612,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 667599,
@@ -179,12 +195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 607456,
-      "num": 554268,
-      "word": "井川里予 我就是觉得很漂亮啊",
-      "onboard_time": 1689300449,
-      "rank": 11,
-      "category": "网红"
+      "raw_hot": 600222,
+      "num": 600222,
+      "word": "录取通知书里拆出了隐藏款胸章",
+      "onboard_time": 1689300271,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 589147,
@@ -201,6 +217,22 @@
       "onboard_time": 1689263252,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558756,
+      "num": 558756,
+      "word": "王心凌演唱会官宣三城",
+      "onboard_time": 1689301892,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 544474,
+      "num": 544474,
+      "word": "银赫东海圭贤不续约SMTOWN",
+      "onboard_time": 1689300688,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 537683,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 467466,
-      "num": 325654,
+      "num": 395145,
       "word": "男子疑将已刮刮刮乐重新覆膜",
       "onboard_time": 1689298587,
       "rank": 30,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 456408,
-      "num": 331402,
+      "num": 406469,
       "word": "李白为什么写下轻舟已过万重山",
       "onboard_time": 1689298770,
       "rank": 21,
@@ -264,6 +296,14 @@
       "word": "魏大勋没演过古装剧",
       "onboard_time": 1689296373,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 432282,
+      "num": 277701,
+      "word": "优酷7月片单",
+      "onboard_time": 1689300628,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -300,7 +340,7 @@
     },
     {
       "raw_hot": 387578,
-      "num": 332953,
+      "num": 385093,
       "word": "喝妈妈初乳的双胞胎熊猫宝宝的反应",
       "onboard_time": 1689298048,
       "rank": 31,
@@ -337,6 +377,14 @@
       "onboard_time": 1689243993,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373481,
+      "num": 214360,
+      "word": "女儿模特妈妈客服售假一年卖了30万",
+      "onboard_time": 1689303212,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 373176,
@@ -379,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314604,
-      "num": 314604,
-      "word": "银赫东海圭贤不续约SMTOWN",
-      "onboard_time": 1689300688,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303174,
       "num": 303174,
       "word": "世卫报告称阿斯巴甜可能致癌",
@@ -409,6 +449,14 @@
       "onboard_time": 1689252214,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273810,
+      "num": 273810,
+      "word": "熊猫宝宝越粉证明妈妈爱得越深",
+      "onboard_time": 1689302669,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268824,
@@ -467,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245156,
+      "num": 245156,
+      "word": "我躺在床上打卡成功了",
+      "onboard_time": 1689303154,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244870,
       "num": 244870,
       "word": "高考钉子户唐尚珺公布高考志愿",
@@ -483,12 +539,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235190,
+      "num": 235190,
+      "word": "宋妍霏30秒无台词哭戏",
+      "onboard_time": 1689302371,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232901,
       "num": 232901,
       "word": "爱奇艺副总裁说赵丽颖敢想敢拼",
       "onboard_time": 1689281052,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229936,
+      "num": 229936,
+      "word": "微博手机影像年",
+      "onboard_time": 1689302793,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 224881,
@@ -539,12 +611,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214520,
-      "num": 214520,
-      "word": "优酷7月片单",
-      "onboard_time": 1689300628,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 214828,
+      "num": 214828,
+      "word": "gidle首支英文单曲ido上线",
+      "onboard_time": 1689303154,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 213187,
@@ -553,6 +625,22 @@
       "onboard_time": 1689296010,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212614,
+      "num": 212614,
+      "word": "公司的下午茶得配一碗米饭",
+      "onboard_time": 1689302131,
+      "rank": 32,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 211369,
+      "num": 211369,
+      "word": "62岁大爷跳河救人小孙子崇拜一路",
+      "onboard_time": 1689302728,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210403,
@@ -587,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203946,
+      "num": 203946,
+      "word": "Angelababy穿泳装",
+      "onboard_time": 1689303451,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 201899,
       "num": 201899,
       "word": "火烧蛋糕",
@@ -617,6 +713,14 @@
       "onboard_time": 1689268221,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194674,
+      "num": 194674,
+      "word": "工作一年后面相都变了",
+      "onboard_time": 1689303451,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 193133,
@@ -715,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157029,
+      "num": 157029,
+      "word": "吉克隽逸多巴胺美甲",
+      "onboard_time": 1689301168,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156967,
       "num": 156967,
       "word": "女子称在购买3年服装店被杀熟70元",
@@ -739,20 +851,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149996,
+      "num": 149996,
+      "word": "半熟网友",
+      "onboard_time": 1689302728,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 149074,
       "num": 149074,
       "word": "网传花儿与少年5拟邀迪丽热巴刘耀文",
       "onboard_time": 1689251497,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145406,
-      "num": 145406,
-      "word": "录取通知书里拆出了隐藏款胸章",
-      "onboard_time": 1689300271,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 145279,
@@ -835,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80274,
+      "num": 211375,
+      "word": "顺滑是治疗焦虑的良药",
+      "onboard_time": 1689300989,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79133,
       "num": 79133,
       "word": "这个房子设计好适合好朋友一起住",
@@ -897,6 +1017,14 @@
       "onboard_time": 1689274155,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5265,
+      "num": 1095942,
+      "word": "3个词总结2023中国外贸期中成绩单",
+      "onboard_time": 1689303631,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
