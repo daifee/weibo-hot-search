@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689363226659,
+  "endTime": 1689365980197,
   "band_list": [
     {
       "raw_hot": 3088863,
@@ -443,20 +443,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 43924,
-      "num": 53892,
-      "word": "要勇敢结束消耗自己的任何关系",
-      "onboard_time": 1689361695,
-      "rank": 49,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 37870,
+      "raw_hot": 54940,
       "num": 43747,
       "word": "李若彤李白造型",
       "onboard_time": 1689362894,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 51739,
+      "num": 53892,
+      "word": "要勇敢结束消耗自己的任何关系",
+      "onboard_time": 1689361695,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 31660,
@@ -465,6 +465,14 @@
       "onboard_time": 1689359776,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 21729,
+      "num": 38395,
+      "word": "家属控诉医院用麻醉剂致儿童死亡",
+      "onboard_time": 1689360616,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
