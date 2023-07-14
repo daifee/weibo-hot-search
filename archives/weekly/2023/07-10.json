@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689326317905,
+  "endTime": 1689327255417,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -17,6 +17,14 @@
       "onboard_time": 1689165814,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 8964429,
+      "num": 8964429,
+      "word": "肖战警告肖战工作室",
+      "onboard_time": 1689325236,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 7606953,
@@ -49,14 +57,6 @@
       "onboard_time": 1689033630,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4862089,
-      "num": 4862089,
-      "word": "肖战警告肖战工作室",
-      "onboard_time": 1689325236,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 4776127,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 2613914,
-      "num": 1042996,
+      "num": 1044957,
       "word": "到底是谁在捧魏大勋",
       "onboard_time": 1689320135,
       "rank": 3,
@@ -1451,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1104073,
+      "num": 1104073,
+      "word": "小学已无00后",
+      "onboard_time": 1689325772,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1103625,
       "num": 1103625,
       "word": "关晓彤上下班亲的都是我爱的男人",
@@ -2329,6 +2337,14 @@
       "onboard_time": 1688913154,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844084,
+      "num": 844084,
+      "word": "吴镇宇喊费曼故宫的公公",
+      "onboard_time": 1689325291,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 843735,
@@ -3369,14 +3385,6 @@
       "onboard_time": 1689130953,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 621535,
-      "num": 398149,
-      "word": "吴镇宇喊费曼故宫的公公",
-      "onboard_time": 1689325291,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 619843,
@@ -6243,12 +6251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364580,
-      "num": 364580,
-      "word": "小学已无00后",
-      "onboard_time": 1689325772,
-      "rank": 17,
-      "category": "教育,社会新闻"
+      "raw_hot": 364148,
+      "num": 281118,
+      "word": "白鹿和周深说什么了",
+      "onboard_time": 1689323791,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 363582,
@@ -6521,14 +6529,6 @@
       "onboard_time": 1689211053,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 343478,
-      "num": 280290,
-      "word": "白鹿和周深说什么了",
-      "onboard_time": 1689323791,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 341257,
@@ -7169,6 +7169,14 @@
       "onboard_time": 1689005073,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304049,
+      "num": 280234,
+      "word": "范丞丞新浪扫楼",
+      "onboard_time": 1689326735,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 303899,
@@ -7827,6 +7835,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 277484,
+      "num": 247277,
+      "word": "范丞丞扫楼穿真空西装",
+      "onboard_time": 1689327160,
+      "rank": 31,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 277342,
       "num": 262369,
       "word": "姥姥说要看我的结婚证",
@@ -8171,6 +8187,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 265067,
+      "num": 284000,
+      "word": "动物园为丫丫开启喷淋模式",
+      "onboard_time": 1689325412,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264929,
       "num": 264929,
       "word": "于正评价陈哲远",
@@ -8427,6 +8451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254133,
+      "num": 246367,
+      "word": "魏大勋粉丝写的小作文",
+      "onboard_time": 1689325894,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253842,
       "num": 211035,
       "word": "林俊杰演唱会",
@@ -8489,6 +8521,14 @@
       "onboard_time": 1689252635,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252281,
+      "num": 252281,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1689325291,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 251427,
@@ -9099,14 +9139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223780,
-      "num": 223780,
-      "word": "塞尔达传说王国之泪",
-      "onboard_time": 1689325291,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 223740,
       "num": 223740,
       "word": "汪苏泷北京演唱会",
@@ -9523,14 +9555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212804,
-      "num": 212804,
-      "word": "动物园为丫丫开启喷淋模式",
-      "onboard_time": 1689325412,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212614,
       "num": 223676,
       "word": "公司的下午茶得配一碗米饭",
@@ -9737,6 +9761,14 @@
       "onboard_time": 1689213813,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203673,
+      "num": 203673,
+      "word": "公交车窗边黑点的作用是什么",
+      "onboard_time": 1689326493,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 203359,
@@ -10131,14 +10163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193656,
-      "num": 193656,
-      "word": "魏大勋粉丝写的小作文",
-      "onboard_time": 1689325894,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193404,
       "num": 193404,
       "word": "男子因拾荒奶奶喝自己剩水自责痛哭",
@@ -10459,6 +10483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182242,
+      "num": 182242,
+      "word": "汪小敏唐伯虎复活",
+      "onboard_time": 1689326316,
+      "rank": 43,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 181796,
       "num": 181796,
       "word": "上海市人大常委会主任董云虎被查",
@@ -10528,6 +10560,14 @@
       "word": "外卖小哥4年帮93名走失者回家",
       "onboard_time": 1689304592,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178300,
+      "num": 178300,
+      "word": "台风",
+      "onboard_time": 1689326919,
+      "rank": 44,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1689327255417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8964429,
+        "num": 8964429,
+        "word": "肖战警告肖战工作室",
+        "onboard_time": 1689325236,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1104073,
+        "num": 1104073,
+        "word": "小学已无00后",
+        "onboard_time": 1689325772,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 106299,
+        "num": 1047914,
+        "word": "最新国家安全主题宣传片",
+        "onboard_time": 1689322835,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1832694,
+        "num": 1044957,
+        "word": "到底是谁在捧魏大勋",
+        "onboard_time": 1689320135,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1026298,
+        "num": 1026298,
+        "word": "阿米尔汗和王宝强竟然是好朋友",
+        "onboard_time": 1689321274,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 844084,
+        "num": 844084,
+        "word": "吴镇宇喊费曼故宫的公公",
+        "onboard_time": 1689325291,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805116,
+        "num": 805116,
+        "word": "安乐传 花魁",
+        "onboard_time": 1689322235,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 630915,
+        "num": 630915,
+        "word": "丫丫小尖脸变成小圆脸了",
+        "onboard_time": 1689316115,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462149,
+        "num": 462149,
+        "word": "1TB的手机比128GB的重",
+        "onboard_time": 1689317554,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385506,
+        "num": 385506,
+        "word": "公摊面积为何不能取消",
+        "onboard_time": 1689314499,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1770474,
+        "num": 382649,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 733268,
+        "num": 366114,
+        "word": "关晓彤竟然也演过家有儿女",
+        "onboard_time": 1689318455,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550702,
+        "num": 359981,
+        "word": "魏大勋王楚然杨洋回答同一个问题",
+        "onboard_time": 1689323671,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520832,
+        "num": 350282,
+        "word": "正式确诊为那英",
+        "onboard_time": 1689308436,
+        "rank": 13,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 340668,
+        "num": 340668,
+        "word": "带状疱疹国产疫苗在杭开打",
+        "onboard_time": 1689316597,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485934,
+        "num": 331995,
+        "word": "段嘉许宋焰一个哥哥文学一个老子文学",
+        "onboard_time": 1689323375,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432979,
+        "num": 327782,
+        "word": "李玟告别式日期",
+        "onboard_time": 1689323193,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321306,
+        "num": 321306,
+        "word": "家属确认旅行博主姜野在新疆遇难",
+        "onboard_time": 1689308013,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284480,
+        "num": 284480,
+        "word": "东北虎园两虎相争一虎被咬死",
+        "onboard_time": 1689318035,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265067,
+        "num": 284000,
+        "word": "动物园为丫丫开启喷淋模式",
+        "onboard_time": 1689325412,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424995,
+        "num": 283619,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398249,
+        "num": 283048,
+        "word": "黄晓明说程潇不能刷碗就别来了",
+        "onboard_time": 1689320376,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383011,
+        "num": 282423,
+        "word": "就没有练不细的腰",
+        "onboard_time": 1689321453,
+        "rank": 22,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 353145,
+        "num": 281885,
+        "word": "这榴莲要不是怕脏都不长皮了",
+        "onboard_time": 1689322235,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292900,
+        "num": 281350,
+        "word": "男子为减肥每天一顿半年暴瘦30斤",
+        "onboard_time": 1689322594,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364148,
+        "num": 281118,
+        "word": "白鹿和周深说什么了",
+        "onboard_time": 1689323791,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304049,
+        "num": 280234,
+        "word": "范丞丞新浪扫楼",
+        "onboard_time": 1689326735,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280020,
+        "num": 280020,
+        "word": "朴彩英发量回来了",
+        "onboard_time": 1689319597,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 266374,
+        "num": 266374,
+        "word": "打工人买彩票中千万等工作不忙才来领奖",
+        "onboard_time": 1689318515,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 252281,
+        "num": 252281,
+        "word": "塞尔达传说王国之泪",
+        "onboard_time": 1689325291,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281765,
+        "num": 248650,
+        "word": "南宁多名公职人员被免去现职",
+        "onboard_time": 1689318756,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277484,
+        "num": 247277,
+        "word": "范丞丞扫楼穿真空西装",
+        "onboard_time": 1689327160,
+        "rank": 31,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 254133,
+        "num": 246367,
+        "word": "魏大勋粉丝写的小作文",
+        "onboard_time": 1689325894,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244971,
+        "num": 244971,
+        "word": "用一句话激怒所有大学生",
+        "onboard_time": 1689322175,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 227126,
+        "num": 227126,
+        "word": "空调开一整夜口鼻干燥怎么办",
+        "onboard_time": 1689321756,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211527,
+        "num": 211527,
+        "word": "广东一女子耳膜被男朋友吻裂",
+        "onboard_time": 1689313119,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206913,
+        "num": 206913,
+        "word": "制伏上海地铁辱华女当事人质疑警方通告",
+        "onboard_time": 1689309040,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226374,
+        "num": 205433,
+        "word": "光明日报评玉骨遥",
+        "onboard_time": 1689319656,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203673,
+        "num": 203673,
+        "word": "公交车窗边黑点的作用是什么",
+        "onboard_time": 1689326493,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196027,
+        "num": 196027,
+        "word": "Angelababy穿泳装",
+        "onboard_time": 1689303451,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 193226,
+        "num": 193226,
+        "word": "Amber你在干嘛",
+        "onboard_time": 1689322775,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190792,
+        "num": 190792,
+        "word": "谢娜挡着车不让大家离开",
+        "onboard_time": 1689314380,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185268,
+        "num": 185268,
+        "word": "田柾国韩素希水中镜头",
+        "onboard_time": 1689310001,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182242,
+        "num": 182242,
+        "word": "汪小敏唐伯虎复活",
+        "onboard_time": 1689326316,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 178300,
+        "num": 178300,
+        "word": "台风",
+        "onboard_time": 1689326919,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176443,
+        "num": 176443,
+        "word": "长安三万里为什么火了",
+        "onboard_time": 1689315757,
+        "rank": 45,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 171135,
+        "num": 171135,
+        "word": "张大大戏称熬走了杨幂还有杨颖",
+        "onboard_time": 1689322175,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170125,
+        "num": 170125,
+        "word": "原来爱宝的双胞胎女儿是这么来的",
+        "onboard_time": 1689309219,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163726,
+        "num": 163726,
+        "word": "终于等到minnie",
+        "onboard_time": 1689316115,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160485,
+        "num": 160485,
+        "word": "刘若英说八角笼中是纪录是真",
+        "onboard_time": 1689313599,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国广电新媒体集结发光#"
+    }
+  }
+}
