@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689291245261,
+  "endTime": 1689299657790,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -659,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1686578,
+      "num": 1686578,
+      "word": "传媒女硕士辞职开办社区食堂",
+      "onboard_time": 1689295294,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1683022,
       "num": 1683022,
       "word": "李咏女儿法图麦露背身材",
@@ -713,6 +721,14 @@
       "onboard_time": 1688959532,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1601207,
+      "num": 632569,
+      "word": "肖战工作室这是可以发的吗",
+      "onboard_time": 1689293190,
+      "rank": 5,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 1593127,
@@ -881,6 +897,14 @@
       "onboard_time": 1688982514,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1415514,
+      "num": 463776,
+      "word": "不求人汤圆分手",
+      "onboard_time": 1689291807,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1410075,
@@ -2251,12 +2275,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 798385,
+      "num": 452008,
+      "word": "吴京谢楠特种兵式带娃",
+      "onboard_time": 1689297698,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 792885,
       "num": 581652,
       "word": "马立奥和三喜",
       "onboard_time": 1689133835,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 791256,
+      "num": 331405,
+      "word": "女子孕期自备570个面食当月子餐",
+      "onboard_time": 1689295771,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 791194,
@@ -2491,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719897,
+      "num": 719897,
+      "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
+      "onboard_time": 1689297150,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 717637,
       "num": 717637,
       "word": "千户苗寨火灾致2死6伤",
@@ -2715,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 667599,
+      "num": 667599,
+      "word": "不死鸟",
+      "onboard_time": 1689292406,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 667429,
       "num": 549896,
       "word": "我爸在卫生间装上了空调",
@@ -2923,6 +2979,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 634195,
+      "num": 634195,
+      "word": "何洁刁磊带娃与黄雅莉聚会",
+      "onboard_time": 1689290725,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633728,
       "num": 633728,
       "word": "西安交大博士生毕业后希望回到母校工作",
@@ -3113,6 +3177,22 @@
       "onboard_time": 1689151598,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594274,
+      "num": 594274,
+      "word": "阿斯巴甜",
+      "onboard_time": 1689298828,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593975,
+      "num": 593975,
+      "word": "六公主发了魏大勋",
+      "onboard_time": 1689298529,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 590848,
@@ -3739,6 +3819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508165,
+      "num": 508165,
+      "word": "一等奖显眼包高调拎奖金牌乘地铁",
+      "onboard_time": 1689293429,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507474,
       "num": 507474,
       "word": "谁有后羿的电话",
@@ -4145,6 +4233,14 @@
       "onboard_time": 1689037117,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 467466,
+      "num": 221824,
+      "word": "男子疑将已刮刮刮乐重新覆膜",
+      "onboard_time": 1689298587,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467330,
@@ -4979,6 +5075,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 401398,
+      "num": 331402,
+      "word": "李白为什么写下轻舟已过万重山",
+      "onboard_time": 1689298770,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400917,
+      "num": 400917,
+      "word": "老人进店要1元店家赠大碗饭全吃光",
+      "onboard_time": 1689293371,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400903,
       "num": 1041542,
       "word": "哥哥扮服务员现身妹妹升学宴",
@@ -5041,6 +5153,14 @@
       "onboard_time": 1689252816,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 397116,
+      "num": 397116,
+      "word": "山东一县签三方协议督促子女赡养父母",
+      "onboard_time": 1689294452,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396230,
@@ -5137,6 +5257,14 @@
       "onboard_time": 1689153274,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387578,
+      "num": 221104,
+      "word": "喝妈妈初乳的双胞胎熊猫宝宝的反应",
+      "onboard_time": 1689298048,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 387027,
@@ -5369,6 +5497,14 @@
       "onboard_time": 1689156756,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371783,
+      "num": 371783,
+      "word": "3岁男童被困下降电梯爸爸边打119边跟着跑",
+      "onboard_time": 1689294753,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370970,
@@ -5915,6 +6051,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 331706,
+      "num": 331706,
+      "word": "魏大勋没演过古装剧",
+      "onboard_time": 1689296373,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331635,
       "num": 321338,
       "word": "孟宴臣的100种死法",
@@ -6163,6 +6307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312872,
+      "num": 312872,
+      "word": "公公贴心给儿媳在草原修了一个马桶",
+      "onboard_time": 1689299430,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312754,
       "num": 312754,
       "word": "多位博主称被都美竹起诉侵犯肖像权",
@@ -6323,6 +6475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303174,
+      "num": 303174,
+      "word": "世卫报告称阿斯巴甜可能致癌",
+      "onboard_time": 1689292768,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302216,
       "num": 302216,
       "word": "网友都给爱宝二胎起了啥名",
@@ -6425,6 +6585,14 @@
       "onboard_time": 1689047916,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296161,
+      "num": 220826,
+      "word": "显微镜下池塘死水和流动溪水",
+      "onboard_time": 1689296193,
+      "rank": 32,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 296143,
@@ -7699,6 +7867,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 239916,
+      "num": 239916,
+      "word": "娜扎眉间雪眼妆",
+      "onboard_time": 1689295954,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239835,
       "num": 289688,
       "word": "第一次见玉米头长满的玉米",
@@ -7816,6 +7992,14 @@
       "word": "dino认证dino汉堡",
       "onboard_time": 1689248252,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232901,
+      "num": 232901,
+      "word": "爱奇艺副总裁说赵丽颖敢想敢拼",
+      "onboard_time": 1689281052,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -7995,6 +8179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224881,
+      "num": 224881,
+      "word": "医学生暑假送外卖顺便救了个人",
+      "onboard_time": 1689298349,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223909,
       "num": 223909,
       "word": "无聊行为怎么做到全球统一的",
@@ -8153,6 +8345,14 @@
       "onboard_time": 1689289341,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218110,
+      "num": 218110,
+      "word": "竟然会羡慕一只狗的房间",
+      "onboard_time": 1689296313,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 217817,
@@ -8363,6 +8563,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 213187,
+      "num": 213187,
+      "word": "放了半个月的小橘子发芽了",
+      "onboard_time": 1689296010,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212444,
       "num": 212444,
       "word": "积水倒灌被困老人开门瞬间仿佛看到了光",
@@ -8499,12 +8707,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205947,
-      "num": 128488,
-      "word": "何洁刁磊带娃与黄雅莉聚会",
-      "onboard_time": 1689290725,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 205900,
+      "num": 205900,
+      "word": "邢菲刘美含同框录制全员加速中",
+      "onboard_time": 1689296072,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 205608,
@@ -8577,6 +8785,14 @@
       "onboard_time": 1689233914,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203168,
+      "num": 203168,
+      "word": "袁姗姗红色气球鞋",
+      "onboard_time": 1689297450,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 202762,
@@ -8872,6 +9088,14 @@
       "word": "400米巨轮海上倒车入库有多丝滑",
       "onboard_time": 1688950472,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195044,
+      "num": 195044,
+      "word": "班长别扇了一会儿感冒了",
+      "onboard_time": 1689268221,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -9323,20 +9547,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174268,
+      "num": 174268,
+      "word": "吴京巨齿鲨2里的角色名含义",
+      "onboard_time": 1689294269,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173606,
       "num": 173606,
       "word": "会用屁股抢位置的狗子",
       "onboard_time": 1689078098,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172753,
-      "num": 172753,
-      "word": "班长别扇了一会儿感冒了",
-      "onboard_time": 1689268221,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172492,
@@ -9361,6 +9585,14 @@
       "onboard_time": 1689004473,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171642,
+      "num": 171642,
+      "word": "流浪狗进店躲雨老板拿大骨头招待",
+      "onboard_time": 1689297273,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170713,
@@ -9627,12 +9859,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152832,
+      "num": 152832,
+      "word": "理发师 你这个得加钱",
+      "onboard_time": 1689296732,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151523,
       "num": 151523,
       "word": "一个女生做过最勇敢的事是什么",
       "onboard_time": 1689247950,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151440,
+      "num": 151440,
+      "word": "熊猫演你周五上班状态",
+      "onboard_time": 1689296373,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 150997,
+      "num": 150997,
+      "word": "微波炉竟当上了外卖的大厨",
+      "onboard_time": 1689295954,
+      "rank": 47,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 150865,
@@ -9763,6 +10019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 141253,
+      "num": 141253,
+      "word": "消防蓝朋友",
+      "onboard_time": 1689299551,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140990,
       "num": 140990,
       "word": "蓝箭",
@@ -9883,6 +10147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120170,
+      "num": 120170,
+      "word": "中国队夺得男女链球金牌",
+      "onboard_time": 1689298951,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117287,
       "num": 117287,
       "word": "王一博晒分层",
@@ -9913,14 +10185,6 @@
       "onboard_time": 1689174036,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110118,
-      "num": 110118,
-      "word": "爱奇艺副总裁说赵丽颖敢想敢拼",
-      "onboard_time": 1689281052,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 108750,
