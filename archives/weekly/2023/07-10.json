@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689345342282,
+  "endTime": 1689347982987,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3971210,
-      "num": 861759,
+      "num": 1189966,
       "word": "奔跑吧收视率",
       "onboard_time": 1689342942,
       "rank": 6,
@@ -931,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1567625,
+      "num": 1567625,
+      "word": "建议迪丽热巴别看",
+      "onboard_time": 1689345101,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1562478,
       "num": 1562478,
       "word": "谢娜挡着车不让大家离开",
@@ -1475,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1146263,
+      "num": 594312,
+      "word": "奔跑吧卧底",
+      "onboard_time": 1689345825,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1144965,
       "num": 1144965,
       "word": "孟宴臣原著结局",
@@ -1512,6 +1528,14 @@
       "word": "王鹤棣肚子",
       "onboard_time": 1689243993,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1131958,
+      "num": 1131958,
+      "word": "易烊千玺发了好多心",
+      "onboard_time": 1689344921,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -2161,6 +2185,14 @@
       "onboard_time": 1689307353,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 915767,
+      "num": 434690,
+      "word": "曝迪丽热巴与嘉行已续约",
+      "onboard_time": 1689345522,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 913360,
@@ -3555,14 +3587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 624274,
-      "num": 624274,
-      "word": "易烊千玺发了好多心",
-      "onboard_time": 1689344921,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 621637,
       "num": 621637,
       "word": "宋轶20岁以后的荧幕变化",
@@ -3875,14 +3899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578833,
-      "num": 316036,
-      "word": "建议迪丽热巴别看",
-      "onboard_time": 1689345101,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 578424,
       "num": 499757,
       "word": "孟宴臣 蝴蝶",
@@ -3905,6 +3921,14 @@
       "onboard_time": 1689309400,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576637,
+      "num": 422849,
+      "word": "杨颖MINNIE跳了queencard",
+      "onboard_time": 1689346365,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 574584,
@@ -4276,7 +4300,7 @@
     },
     {
       "raw_hot": 543731,
-      "num": 309640,
+      "num": 421134,
       "word": "向往的生活",
       "onboard_time": 1689344680,
       "rank": 27,
@@ -4337,6 +4361,14 @@
       "onboard_time": 1689145531,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 539306,
+      "num": 626373,
+      "word": "护士掏出新买的手机壳惊呆网友",
+      "onboard_time": 1689344921,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538596,
@@ -4521,14 +4553,6 @@
       "onboard_time": 1689323193,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 515817,
-      "num": 626373,
-      "word": "护士掏出新买的手机壳惊呆网友",
-      "onboard_time": 1689344921,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 515648,
@@ -4716,7 +4740,7 @@
     },
     {
       "raw_hot": 495223,
-      "num": 327563,
+      "num": 347129,
       "word": "韩剧恶鬼",
       "onboard_time": 1689343964,
       "rank": 35,
@@ -4793,6 +4817,14 @@
       "onboard_time": 1689080733,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 489538,
+      "num": 489538,
+      "word": "XYG战胜KSG",
+      "onboard_time": 1689346302,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 489295,
@@ -4929,6 +4961,14 @@
       "onboard_time": 1689168702,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480534,
+      "num": 418493,
+      "word": "宋雨琦cueMINNIE空翻",
+      "onboard_time": 1689345643,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 479942,
@@ -5259,6 +5299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 454351,
+      "num": 454351,
+      "word": "中国官方回应阿斯巴甜评估结果",
+      "onboard_time": 1689344863,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454134,
       "num": 454134,
       "word": "刘诗诗看了都得愣一下",
@@ -5297,6 +5345,14 @@
       "onboard_time": 1689088057,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 452037,
+      "num": 423656,
+      "word": "00后好像被分成了很多批",
+      "onboard_time": 1689345464,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 451878,
@@ -5795,6 +5851,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 423298,
+      "num": 423298,
+      "word": "女子坐公交被18岁男子摸臀猥亵",
+      "onboard_time": 1689344680,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422980,
       "num": 422980,
       "word": "办案民警称私搭浮桥当事人收了30万",
@@ -5905,6 +5969,14 @@
       "onboard_time": 1689325412,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417464,
+      "num": 417464,
+      "word": "毕业生自述大一时遭辅导员性侵",
+      "onboard_time": 1689346961,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 417428,
@@ -6275,6 +6347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 386706,
+      "num": 386706,
+      "word": "谭松韵杀青后第一件事就是找何炅",
+      "onboard_time": 1689347560,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386418,
       "num": 386418,
       "word": "无畏契约正式上线",
@@ -6353,6 +6433,14 @@
       "onboard_time": 1689241233,
       "rank": 16,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 381855,
+      "num": 381855,
+      "word": "朱正廷要海外开演唱会被粉丝吐槽",
+      "onboard_time": 1689347021,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 381473,
@@ -6755,6 +6843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356267,
+      "num": 356267,
+      "word": "费曼才是香港顶流吧",
+      "onboard_time": 1689347801,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356200,
       "num": 356200,
       "word": "如果我的人间烟火是韩剧",
@@ -6851,14 +6947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 349122,
-      "num": 274092,
-      "word": "女子坐公交被18岁男子摸臀猥亵",
-      "onboard_time": 1689344680,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348638,
       "num": 348638,
       "word": "亲密关系突然破裂",
@@ -6929,6 +7017,14 @@
       "onboard_time": 1689222939,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340185,
+      "num": 340185,
+      "word": "张艺凡敖子逸都没认出王俊凯",
+      "onboard_time": 1689345043,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 339986,
@@ -7379,6 +7475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314533,
+      "num": 314533,
+      "word": "心动2全员录心动6",
+      "onboard_time": 1689347078,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314211,
       "num": 314211,
       "word": "求婚没必要让所有人都知道",
@@ -7628,7 +7732,7 @@
     },
     {
       "raw_hot": 302784,
-      "num": 337613,
+      "num": 424152,
       "word": "德约科维奇 裁判",
       "onboard_time": 1689343663,
       "rank": 32,
@@ -7689,6 +7793,14 @@
       "onboard_time": 1689021191,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300251,
+      "num": 361042,
+      "word": "红楼梦最著名的茄子到底多好吃",
+      "onboard_time": 1689345766,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299333,
@@ -7920,14 +8032,6 @@
       "word": "张大大戏称熬走了杨幂还有杨颖",
       "onboard_time": 1689322175,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 291037,
-      "num": 273198,
-      "word": "张艺凡敖子逸都没认出王俊凯",
-      "onboard_time": 1689345043,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -8715,6 +8819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261549,
+      "num": 356294,
+      "word": "陆景和",
+      "onboard_time": 1689347261,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261325,
       "num": 261325,
       "word": "海南警方真的没有创作瓶颈吗",
@@ -9451,14 +9563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231040,
-      "num": 297729,
-      "word": "中国官方回应阿斯巴甜评估结果",
-      "onboard_time": 1689344863,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229936,
       "num": 229936,
       "word": "微博手机影像年",
@@ -9953,6 +10057,14 @@
       "onboard_time": 1688953051,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216276,
+      "num": 313566,
+      "word": "你搁这和老板玩套娃呢",
+      "onboard_time": 1689346062,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 215222,
@@ -10764,7 +10876,7 @@
     },
     {
       "raw_hot": 190422,
-      "num": 273018,
+      "num": 312188,
       "word": "第一次刷到香港的熊猫",
       "onboard_time": 1689344563,
       "rank": 43,
@@ -11787,6 +11899,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 133506,
+      "num": 311257,
+      "word": "Xiaohu 永恩封印",
+      "onboard_time": 1689347920,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132432,
       "num": 683256,
       "word": "打工人的命是止痛药给的",
@@ -12067,6 +12187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88627,
+      "num": 1209297,
+      "word": "国家队跳绳速度快到重影",
+      "onboard_time": 1689339882,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85353,
       "num": 762404,
       "word": "为中国女足加油",
@@ -12273,6 +12401,14 @@
       "onboard_time": 1689183439,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51047,
+      "num": 430773,
+      "word": "现在的父母都这么卷吗",
+      "onboard_time": 1689346843,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 49891,
