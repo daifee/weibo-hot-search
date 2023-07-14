@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689305515869,
+  "endTime": 1689306032247,
   "band_list": [
     {
       "raw_hot": 6846624,
@@ -11,7 +11,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2880631,
+      "raw_hot": 2906169,
       "num": 554268,
       "word": "井川里予 我就是觉得很漂亮啊",
       "onboard_time": 1689300449,
@@ -35,20 +35,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1894437,
+      "num": 1894437,
+      "word": "王珞丹是怎么选到魏大勋的",
+      "onboard_time": 1689303691,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1686578,
       "num": 1686578,
       "word": "传媒女硕士辞职开办社区食堂",
       "onboard_time": 1689295294,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1617466,
-      "num": 1617466,
-      "word": "王珞丹是怎么选到魏大勋的",
-      "onboard_time": 1689303691,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1601207,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 975409,
-      "num": 347931,
+      "num": 482440,
       "word": "Angelababy穿泳装",
       "onboard_time": 1689303451,
       "rank": 37,
@@ -123,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 829843,
+      "num": 482423,
+      "word": "老师投毒致25幼儿中毒被执行死刑",
+      "onboard_time": 1689305252,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798385,
       "num": 561561,
       "word": "吴京谢楠特种兵式带娃",
       "onboard_time": 1689297698,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798380,
+      "num": 798380,
+      "word": "丫丫胖了吃笋嘎嘎香",
+      "onboard_time": 1689303992,
+      "rank": 30,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 791256,
@@ -139,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 776023,
+      "num": 776023,
+      "word": "女儿模特妈妈客服售假一年卖了30万",
+      "onboard_time": 1689303212,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 770659,
       "num": 770659,
       "word": "双职工独立带娃的解决方案",
       "onboard_time": 1689259237,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 763834,
-      "num": 247456,
-      "word": "丫丫胖了吃笋嘎嘎香",
-      "onboard_time": 1689303992,
-      "rank": 30,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 719897,
@@ -169,14 +185,6 @@
       "onboard_time": 1689251497,
       "rank": 6,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 713947,
-      "num": 713947,
-      "word": "女儿模特妈妈客服售假一年卖了30万",
-      "onboard_time": 1689303212,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 713633,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646330,
+      "num": 646330,
+      "word": "王俊凯 五月天嘉宾",
+      "onboard_time": 1689304891,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 634195,
       "num": 634195,
       "word": "何洁刁磊带娃与黄雅莉聚会",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 594606,
-      "num": 247278,
+      "num": 268267,
       "word": "时光代理人2开播",
       "onboard_time": 1689304832,
       "rank": 21,
@@ -299,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 499434,
-      "num": 499434,
-      "word": "王俊凯 五月天嘉宾",
-      "onboard_time": 1689304891,
-      "rank": 7,
-      "category": "音乐"
+      "raw_hot": 482393,
+      "num": 482393,
+      "word": "玖月晞谈宋焰许沁",
+      "onboard_time": 1689303870,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 477657,
@@ -339,20 +355,20 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 456686,
-      "num": 346744,
-      "word": "玖月晞谈宋焰许沁",
-      "onboard_time": 1689303870,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 438930,
       "num": 438930,
       "word": "魏大勋没演过古装剧",
       "onboard_time": 1689296373,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 436629,
+      "num": 270189,
+      "word": "校长回应亲嘴事件是错位实属误伤",
+      "onboard_time": 1689305433,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432282,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 400260,
-      "num": 266035,
+      "num": 269162,
       "word": "工作一年后面相都变了",
       "onboard_time": 1689303451,
       "rank": 38,
@@ -443,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375201,
-      "num": 233584,
-      "word": "老师投毒致25幼儿中毒被执行死刑",
-      "onboard_time": 1689305252,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373176,
       "num": 373176,
       "word": "王源任敏新剧收视率",
@@ -473,6 +481,14 @@
       "onboard_time": 1689256117,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336814,
+      "num": 268612,
+      "word": "毛不易演唱会抢票",
+      "onboard_time": 1689305072,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 335026,
@@ -540,19 +556,11 @@
     },
     {
       "raw_hot": 276633,
-      "num": 235927,
+      "num": 267732,
       "word": "玲花不知道黄子韬是rapper",
       "onboard_time": 1689304112,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275148,
-      "num": 234409,
-      "word": "毛不易演唱会抢票",
-      "onboard_time": 1689305072,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 268824,
@@ -627,20 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241158,
-      "num": 232913,
-      "word": "校长回应亲嘴事件是错位实属误伤",
-      "onboard_time": 1689305433,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239916,
       "num": 239916,
       "word": "娜扎眉间雪眼妆",
       "onboard_time": 1689295954,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236249,
+      "num": 236249,
+      "word": "宫崎骏 你想活出怎样的人生",
+      "onboard_time": 1689305733,
+      "rank": 31,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 233335,
@@ -843,8 +851,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177299,
-      "num": 177299,
+      "raw_hot": 178336,
+      "num": 178336,
       "word": "外卖小哥4年帮93名走失者回家",
       "onboard_time": 1689304592,
       "rank": 39,
@@ -979,6 +987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142227,
+      "num": 142227,
+      "word": "i社停运",
+      "onboard_time": 1689304170,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141286,
       "num": 141286,
       "word": "中医",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1689249390,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129152,
-      "num": 138741,
-      "word": "i社停运",
-      "onboard_time": 1689304170,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 128127,
@@ -1035,20 +1043,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92720,
+      "num": 1625263,
+      "word": "成都大运会收看指南",
+      "onboard_time": 1689303751,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87180,
       "num": 87180,
       "word": "杨洋王楚然扫楼",
       "onboard_time": 1689245794,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 85960,
-      "num": 1625263,
-      "word": "成都大运会收看指南",
-      "onboard_time": 1689303751,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85330,
