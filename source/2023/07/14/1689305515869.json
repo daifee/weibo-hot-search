@@ -1,0 +1,410 @@
+{
+  "runTime": 1689305515869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6413750,
+        "num": 6413750,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1638273,
+        "num": 1638273,
+        "word": "六公主发了魏大勋",
+        "onboard_time": 1689298529,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85960,
+        "num": 1625263,
+        "word": "成都大运会收看指南",
+        "onboard_time": 1689303751,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1617466,
+        "num": 1617466,
+        "word": "王珞丹是怎么选到魏大勋的",
+        "onboard_time": 1689303691,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713947,
+        "num": 713947,
+        "word": "女儿模特妈妈客服售假一年卖了30万",
+        "onboard_time": 1689303212,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 560461,
+        "num": 560461,
+        "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
+        "onboard_time": 1689297150,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534659,
+        "num": 534659,
+        "word": "公公贴心给儿媳在草原修了一个马桶",
+        "onboard_time": 1689299430,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499434,
+        "num": 499434,
+        "word": "王俊凯 五月天嘉宾",
+        "onboard_time": 1689304891,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 373752,
+        "num": 373752,
+        "word": "录取通知书里拆出了隐藏款胸章",
+        "onboard_time": 1689300271,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 364596,
+        "num": 364596,
+        "word": "传媒女硕士辞职开办社区食堂",
+        "onboard_time": 1689295294,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2880631,
+        "num": 353829,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 975409,
+        "num": 347931,
+        "word": "Angelababy穿泳装",
+        "onboard_time": 1689303451,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 456686,
+        "num": 346744,
+        "word": "玖月晞谈宋焰许沁",
+        "onboard_time": 1689303870,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327164,
+        "num": 327164,
+        "word": "阿斯巴甜",
+        "onboard_time": 1689298828,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308575,
+        "num": 308575,
+        "word": "男子疑将已刮刮刮乐重新覆膜",
+        "onboard_time": 1689298587,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438535,
+        "num": 303722,
+        "word": "不求人汤圆分手",
+        "onboard_time": 1689291807,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 434950,
+        "num": 300009,
+        "word": "银赫东海圭贤不续约SMTOWN",
+        "onboard_time": 1689300688,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290357,
+        "num": 290357,
+        "word": "11岁女孩和爷爷进山捡菌险坠崖",
+        "onboard_time": 1689303931,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262737,
+        "num": 262737,
+        "word": "熊猫宝宝越粉证明妈妈爱得越深",
+        "onboard_time": 1689302669,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249112,
+        "num": 249112,
+        "word": "喝妈妈初乳的双胞胎熊猫宝宝的反应",
+        "onboard_time": 1689298048,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 763834,
+        "num": 247456,
+        "word": "丫丫胖了吃笋嘎嘎香",
+        "onboard_time": 1689303992,
+        "rank": 20,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 594606,
+        "num": 247278,
+        "word": "时光代理人2开播",
+        "onboard_time": 1689304832,
+        "rank": 21,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 419953,
+        "num": 244259,
+        "word": "李白为什么写下轻舟已过万重山",
+        "onboard_time": 1689298770,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441579,
+        "num": 242885,
+        "word": "女子孕期自备570个面食当月子餐",
+        "onboard_time": 1689295771,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367965,
+        "num": 241468,
+        "word": "王心凌演唱会官宣三城",
+        "onboard_time": 1689301892,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400260,
+        "num": 239476,
+        "word": "工作一年后面相都变了",
+        "onboard_time": 1689303451,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312013,
+        "num": 238688,
+        "word": "优酷7月片单",
+        "onboard_time": 1689300628,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276633,
+        "num": 235927,
+        "word": "玲花不知道黄子韬是rapper",
+        "onboard_time": 1689304112,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275148,
+        "num": 234409,
+        "word": "毛不易演唱会抢票",
+        "onboard_time": 1689305072,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233989,
+        "num": 233989,
+        "word": "吴京谢楠特种兵式带娃",
+        "onboard_time": 1689297698,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375201,
+        "num": 233584,
+        "word": "老师投毒致25幼儿中毒被执行死刑",
+        "onboard_time": 1689305252,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241158,
+        "num": 232913,
+        "word": "校长回应亲嘴事件是错位实属误伤",
+        "onboard_time": 1689305433,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232066,
+        "num": 232066,
+        "word": "我躺在床上打卡成功了",
+        "onboard_time": 1689303154,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226473,
+        "num": 226473,
+        "word": "宋妍霏30秒无台词哭戏",
+        "onboard_time": 1689302371,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224045,
+        "num": 224045,
+        "word": "孟宴臣的角色号呢",
+        "onboard_time": 1689303751,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201405,
+        "num": 201405,
+        "word": "3岁男童被困下降电梯爸爸边打119边跟着跑",
+        "onboard_time": 1689294753,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195286,
+        "num": 195286,
+        "word": "魏大勋没演过古装剧",
+        "onboard_time": 1689296373,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190845,
+        "num": 190845,
+        "word": "公司的下午茶得配一碗米饭",
+        "onboard_time": 1689302131,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 181239,
+        "num": 181239,
+        "word": "62岁大爷跳河救人小孙子崇拜一路",
+        "onboard_time": 1689302728,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177299,
+        "num": 177299,
+        "word": "外卖小哥4年帮93名走失者回家",
+        "onboard_time": 1689304592,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168161,
+        "num": 168161,
+        "word": "gidle首支英文单曲ido上线",
+        "onboard_time": 1689303154,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157458,
+        "num": 157458,
+        "word": "医学生暑假送外卖顺便救了个人",
+        "onboard_time": 1689298349,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151721,
+        "num": 151721,
+        "word": "一等奖显眼包高调拎奖金牌乘地铁",
+        "onboard_time": 1689293429,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151312,
+        "num": 151312,
+        "word": "何洁刁磊带娃与黄雅莉聚会",
+        "onboard_time": 1689290725,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150959,
+        "num": 150959,
+        "word": "爱宝幼崽吸奶吸累了中场休息画面",
+        "onboard_time": 1689289341,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147478,
+        "num": 147478,
+        "word": "魏大勋直播",
+        "onboard_time": 1689250952,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144289,
+        "num": 144289,
+        "word": "微波炉竟当上了外卖的大厨",
+        "onboard_time": 1689295954,
+        "rank": 46,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 142489,
+        "num": 142489,
+        "word": "娜扎眉间雪眼妆",
+        "onboard_time": 1689295954,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139385,
+        "num": 139385,
+        "word": "吴京巨齿鲨2里的角色名含义",
+        "onboard_time": 1689294269,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129152,
+        "num": 138741,
+        "word": "i社停运",
+        "onboard_time": 1689304170,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共绘网上网下同心圆#"
+    }
+  }
+}
