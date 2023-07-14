@@ -1,6 +1,6 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689316767011,
+  "endTime": 1689319064404,
   "band_list": [
     {
       "raw_hot": 6846624,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1226980,
+      "num": 1226980,
+      "word": "丫丫小尖脸变成小圆脸了",
+      "onboard_time": 1689316115,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1215006,
       "num": 1018739,
       "word": "魏大勋连夜买了个黑衬衫穿上",
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1035255,
+      "num": 1035255,
+      "word": "公摊面积为何不能取消",
+      "onboard_time": 1689314499,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 938910,
       "num": 938910,
       "word": "田柾国solo出道曲seven",
@@ -201,14 +217,6 @@
       "onboard_time": 1689264031,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 835889,
-      "num": 835889,
-      "word": "公摊面积为何不能取消",
-      "onboard_time": 1689314499,
-      "rank": 13,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 808344,
@@ -257,6 +265,14 @@
       "onboard_time": 1689309219,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731183,
+      "num": 731183,
+      "word": "杨洋皱眉",
+      "onboard_time": 1689315400,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 719897,
@@ -427,20 +443,20 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 591868,
+      "num": 591868,
+      "word": "终于等到minnie",
+      "onboard_time": 1689316115,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589147,
       "num": 589147,
       "word": "Cat",
       "onboard_time": 1689260016,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 588052,
-      "num": 588052,
-      "word": "杨洋皱眉",
-      "onboard_time": 1689315400,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 579603,
@@ -475,20 +491,20 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 550164,
+      "num": 397996,
+      "word": "秋瓷炫淘汰后和于晓光连喝四天酒",
+      "onboard_time": 1689316839,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544474,
       "num": 544474,
       "word": "银赫东海圭贤不续约SMTOWN",
       "onboard_time": 1689300688,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543039,
-      "num": 543039,
-      "word": "丫丫小尖脸变成小圆脸了",
-      "onboard_time": 1689316115,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 540161,
@@ -531,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 512706,
+      "num": 397236,
+      "word": "1TB的手机比128GB的重",
+      "onboard_time": 1689317554,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 503330,
       "num": 503330,
       "word": "王楚然的表情变化",
@@ -571,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472478,
+      "num": 359448,
+      "word": "关晓彤竟然也演过家有儿女",
+      "onboard_time": 1689318455,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468811,
       "num": 396355,
       "word": "张一山关晓彤在新剧里看家有儿女",
@@ -585,14 +617,6 @@
       "onboard_time": 1689298587,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467184,
-      "num": 377722,
-      "word": "终于等到minnie",
-      "onboard_time": 1689316115,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 459775,
@@ -643,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429873,
+      "num": 266786,
+      "word": "我爸把我的粉扑换成了饼干",
+      "onboard_time": 1689317913,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421704,
       "num": 412492,
       "word": "卡捷琳娜制作人是老公不是老龚",
@@ -657,6 +689,14 @@
       "onboard_time": 1689251013,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407612,
+      "num": 358129,
+      "word": "打工人买彩票中千万等工作不忙才来领奖",
+      "onboard_time": 1689318515,
+      "rank": 21,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 400849,
@@ -771,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360387,
+      "num": 360387,
+      "word": "带状疱疹国产疫苗在杭开打",
+      "onboard_time": 1689316597,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353872,
       "num": 353872,
       "word": "人类总是用离开来试探爱",
@@ -785,6 +833,14 @@
       "onboard_time": 1689256117,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346254,
+      "num": 266634,
+      "word": "公司称曹格在疗伤中",
+      "onboard_time": 1689317913,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 338623,
@@ -816,6 +872,14 @@
       "word": "帮妈妈关灶烧伤女孩首次植皮成功",
       "onboard_time": 1689266605,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315732,
+      "num": 266536,
+      "word": "东北虎园两虎相争一虎被咬死",
+      "onboard_time": 1689318035,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -851,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301911,
+      "num": 301911,
+      "word": "魏大勋在装了杨洋你再装",
+      "onboard_time": 1689318696,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296161,
       "num": 266123,
       "word": "显微镜下池塘死水和流动溪水",
@@ -873,6 +945,14 @@
       "onboard_time": 1689313179,
       "rank": 30,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 292638,
+      "num": 292638,
+      "word": "鹿晗重庆演唱会",
+      "onboard_time": 1689318155,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 292629,
@@ -939,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270194,
+      "num": 266358,
+      "word": "婚礼结束可以带回家做酸菜",
+      "onboard_time": 1689318098,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268824,
       "num": 265423,
       "word": "安乐传口碑",
@@ -953,6 +1041,14 @@
       "onboard_time": 1689245134,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 266322,
+      "num": 266322,
+      "word": "放在单位的西瓜被老鼠咬了",
+      "onboard_time": 1689318395,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 265655,
@@ -1009,6 +1105,14 @@
       "onboard_time": 1689251013,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245354,
+      "num": 245354,
+      "word": "南宁多名公职人员被免去现职",
+      "onboard_time": 1689318756,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244870,
@@ -1427,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148003,
-      "num": 173690,
-      "word": "带状疱疹国产疫苗在杭开打",
-      "onboard_time": 1689316597,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145279,
       "num": 145279,
       "word": "中国队夺得男女链球金牌",
@@ -1499,12 +1595,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126752,
+      "num": 198894,
+      "word": "低丸子头教程",
+      "onboard_time": 1689317074,
+      "rank": 48,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 126068,
       "num": 126068,
       "word": "云南网友看北京网友炒见手青急崩溃",
       "onboard_time": 1689283993,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106084,
+      "num": 363701,
+      "word": "跟三星一起折来折趣",
+      "onboard_time": 1689317258,
+      "rank": 18,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 104894,
@@ -1571,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49891,
+      "num": 215699,
+      "word": "你买车有选择困难症吗",
+      "onboard_time": 1689316839,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49671,
       "num": 1020072,
       "word": "一刻钟便民生活圈建设真是细节控",
@@ -1619,7 +1739,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5265,
+      "raw_hot": 26310,
       "num": 1095942,
       "word": "3个词总结2023中国外贸期中成绩单",
       "onboard_time": 1689303631,

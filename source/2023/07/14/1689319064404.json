@@ -1,0 +1,410 @@
+{
+  "runTime": 1689319064404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2228266,
+        "num": 2228266,
+        "word": "正式确诊为那英",
+        "onboard_time": 1689308436,
+        "rank": 0,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1226980,
+        "num": 1226980,
+        "word": "丫丫小尖脸变成小圆脸了",
+        "onboard_time": 1689316115,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26310,
+        "num": 1068972,
+        "word": "3个词总结2023中国外贸期中成绩单",
+        "onboard_time": 1689303631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035255,
+        "num": 1035255,
+        "word": "公摊面积为何不能取消",
+        "onboard_time": 1689314499,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 949155,
+        "num": 949155,
+        "word": "谢娜挡着车不让大家离开",
+        "onboard_time": 1689314380,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 747210,
+        "num": 747210,
+        "word": "家属确认旅行博主姜野在新疆遇难",
+        "onboard_time": 1689308013,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731183,
+        "num": 731183,
+        "word": "杨洋皱眉",
+        "onboard_time": 1689315400,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674871,
+        "num": 674871,
+        "word": "迪丽热巴想回新疆吃水果",
+        "onboard_time": 1689308376,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591868,
+        "num": 591868,
+        "word": "终于等到minnie",
+        "onboard_time": 1689316115,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399288,
+        "num": 399288,
+        "word": "电竞国家集训队集体亮相",
+        "onboard_time": 1689312275,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1446499,
+        "num": 398597,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 550164,
+        "num": 397996,
+        "word": "秋瓷炫淘汰后和于晓光连喝四天酒",
+        "onboard_time": 1689316839,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512706,
+        "num": 397236,
+        "word": "1TB的手机比128GB的重",
+        "onboard_time": 1689317554,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 474713,
+        "num": 396539,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440415,
+        "num": 396099,
+        "word": "王珞丹是怎么选到魏大勋的",
+        "onboard_time": 1689303691,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395304,
+        "num": 395304,
+        "word": "长安三万里为什么火了",
+        "onboard_time": 1689315757,
+        "rank": 15,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 376709,
+        "num": 376709,
+        "word": "制伏上海地铁辱华女当事人质疑警方通告",
+        "onboard_time": 1689309040,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375686,
+        "num": 375686,
+        "word": "没迪丽热巴龚俊这样的鼻子可不行",
+        "onboard_time": 1689311499,
+        "rank": 17,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 106084,
+        "num": 363701,
+        "word": "跟三星一起折来折趣",
+        "onboard_time": 1689317258,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 360387,
+        "num": 360387,
+        "word": "带状疱疹国产疫苗在杭开打",
+        "onboard_time": 1689316597,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472478,
+        "num": 359448,
+        "word": "关晓彤竟然也演过家有儿女",
+        "onboard_time": 1689318455,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407612,
+        "num": 358129,
+        "word": "打工人买彩票中千万等工作不忙才来领奖",
+        "onboard_time": 1689318515,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 370942,
+        "num": 357356,
+        "word": "投简历投到了自己公司",
+        "onboard_time": 1689314259,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 349970,
+        "num": 349970,
+        "word": "这都是王霏霏的私服吧",
+        "onboard_time": 1689315456,
+        "rank": 23,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 329029,
+        "num": 329029,
+        "word": "广东一女子耳膜被男朋友吻裂",
+        "onboard_time": 1689313119,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301911,
+        "num": 301911,
+        "word": "魏大勋在装了杨洋你再装",
+        "onboard_time": 1689318696,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294166,
+        "num": 294166,
+        "word": "田柾国韩素希水中镜头",
+        "onboard_time": 1689310001,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292638,
+        "num": 292638,
+        "word": "鹿晗重庆演唱会",
+        "onboard_time": 1689318155,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290314,
+        "num": 290314,
+        "word": "张一山关晓彤在新剧里看家有儿女",
+        "onboard_time": 1689314139,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266810,
+        "num": 266810,
+        "word": "原来爱宝的双胞胎女儿是这么来的",
+        "onboard_time": 1689309219,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429873,
+        "num": 266786,
+        "word": "我爸把我的粉扑换成了饼干",
+        "onboard_time": 1689317913,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287951,
+        "num": 266695,
+        "word": "Angelababy穿泳装",
+        "onboard_time": 1689303451,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 346254,
+        "num": 266634,
+        "word": "公司称曹格在疗伤中",
+        "onboard_time": 1689317913,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315732,
+        "num": 266536,
+        "word": "东北虎园两虎相争一虎被咬死",
+        "onboard_time": 1689318035,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277848,
+        "num": 266475,
+        "word": "刘若英说八角笼中是纪录是真",
+        "onboard_time": 1689313599,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272584,
+        "num": 266419,
+        "word": "卡捷琳娜制作人是老公不是老龚",
+        "onboard_time": 1689313477,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270194,
+        "num": 266358,
+        "word": "婚礼结束可以带回家做酸菜",
+        "onboard_time": 1689318098,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266322,
+        "num": 266322,
+        "word": "放在单位的西瓜被老鼠咬了",
+        "onboard_time": 1689318395,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263716,
+        "num": 263716,
+        "word": "罗云熙杜莎双蜡像揭幕",
+        "onboard_time": 1689316475,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251071,
+        "num": 251071,
+        "word": "女童因乱小便被爸爸倒挂窗外责罚",
+        "onboard_time": 1689306332,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259776,
+        "num": 249238,
+        "word": "六公主发了魏大勋",
+        "onboard_time": 1689298529,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245354,
+        "num": 245354,
+        "word": "南宁多名公职人员被免去现职",
+        "onboard_time": 1689318756,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241585,
+        "num": 241585,
+        "word": "拜登称普京已输掉战争",
+        "onboard_time": 1689310962,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 223792,
+        "num": 223792,
+        "word": "曹格说还是爱吴速玲",
+        "onboard_time": 1689308136,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49891,
+        "num": 215699,
+        "word": "你买车有选择困难症吗",
+        "onboard_time": 1689316839,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213021,
+        "num": 213021,
+        "word": "烧饼孟鹤堂秦霄贤半夜房子塌了",
+        "onboard_time": 1689297150,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208267,
+        "num": 208267,
+        "word": "女儿模特妈妈客服售假一年卖了30万",
+        "onboard_time": 1689303212,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 203752,
+        "num": 203752,
+        "word": "玖月晞谈宋焰许沁",
+        "onboard_time": 1689303870,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126752,
+        "num": 198894,
+        "word": "低丸子头教程",
+        "onboard_time": 1689317074,
+        "rank": 48,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 197689,
+        "num": 197689,
+        "word": "小鸟落身上不走大学生找警察求助",
+        "onboard_time": 1689309400,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国广电新媒体集结发光#"
+    }
+  }
+}
