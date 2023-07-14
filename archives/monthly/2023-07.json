@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689334443676,
+  "endTime": 1689338311696,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -81,6 +81,14 @@
       "onboard_time": 1688299053,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11586938,
+      "num": 11586938,
+      "word": "奔跑吧",
+      "onboard_time": 1688175268,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 10204768,
@@ -1867,6 +1875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1923621,
+      "num": 1923621,
+      "word": "她是不是没忘干净",
+      "onboard_time": 1689332796,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1921571,
       "num": 1921571,
       "word": "为什么中国不禁止人名重复",
@@ -2259,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1782982,
+      "num": 1401669,
+      "word": "中国内地新增报告106例猴痘确诊病例",
+      "onboard_time": 1689336217,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1780838,
       "num": 1684378,
       "word": "迪丽热巴花裙子",
@@ -2640,6 +2664,14 @@
       "word": "廉江回应有人持刀在幼儿园行凶",
       "onboard_time": 1688959532,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1609817,
+      "num": 1412725,
+      "word": "猴痘",
+      "onboard_time": 1688449059,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -3179,14 +3211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1412725,
-      "num": 1412725,
-      "word": "猴痘",
-      "onboard_time": 1688449059,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1410075,
       "num": 1410075,
       "word": "秋瓷炫于晓光同床异梦2预告",
@@ -3721,14 +3745,6 @@
       "onboard_time": 1688476114,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1251334,
-      "num": 1251334,
-      "word": "奔跑吧",
-      "onboard_time": 1688175268,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 1248353,
@@ -7105,14 +7121,6 @@
       "onboard_time": 1688137303,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 822707,
-      "num": 565477,
-      "word": "她是不是没忘干净",
-      "onboard_time": 1689332796,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 822578,
@@ -11195,6 +11203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569713,
+      "num": 569713,
+      "word": "陶喆首场线上演唱会",
+      "onboard_time": 1689337903,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 569205,
       "num": 528607,
       "word": "李木戈回应PPT转场",
@@ -11441,6 +11457,14 @@
       "onboard_time": 1688187092,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560161,
+      "num": 560161,
+      "word": "ChatGPT正式被美国调查",
+      "onboard_time": 1689335439,
+      "rank": 8,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 559909,
@@ -12083,6 +12107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535576,
+      "num": 327256,
+      "word": "韩素希红丝袜",
+      "onboard_time": 1689334892,
+      "rank": 16,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 535193,
       "num": 535193,
       "word": "张兰上诉被驳回",
@@ -12539,6 +12571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 513316,
+      "num": 327246,
+      "word": "杨洋说夸我时王楚然的反应",
+      "onboard_time": 1689335973,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512852,
       "num": 512852,
       "word": "刘若英说八角笼中是纪录是真",
@@ -12873,6 +12913,14 @@
       "onboard_time": 1688302599,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 501103,
+      "num": 311862,
+      "word": "宁艺卓ins发了爱宝的双胞胎",
+      "onboard_time": 1689333574,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 501098,
@@ -14867,14 +14915,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 438561,
-      "num": 311862,
-      "word": "宁艺卓ins发了爱宝的双胞胎",
-      "onboard_time": 1689333574,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 438431,
       "num": 335652,
       "word": "顾九思柳玉茹诀别吻",
@@ -15977,6 +16017,14 @@
       "onboard_time": 1688714499,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405881,
+      "num": 261187,
+      "word": "文咏珊说李木子茶里茶气",
+      "onboard_time": 1689335613,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 404930,
@@ -19787,6 +19835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319490,
+      "num": 319490,
+      "word": "xiaohao尽力了",
+      "onboard_time": 1689337539,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319308,
       "num": 319308,
       "word": "Angelababy王鹤棣传唱挖呀挖呀挖",
@@ -21633,6 +21689,14 @@
       "onboard_time": 1688527060,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288676,
+      "num": 253135,
+      "word": "马伯骞谈与赵露思合作",
+      "onboard_time": 1689334892,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 288560,
@@ -24667,6 +24731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244866,
+      "num": 244866,
+      "word": "碟中谍",
+      "onboard_time": 1689337116,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244841,
       "num": 244841,
       "word": "段嘉许也被行车记录仪骗了",
@@ -26185,6 +26257,14 @@
       "onboard_time": 1688728954,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 224190,
+      "num": 244860,
+      "word": "女生考上华科大曾就读幼儿园拉横幅庆祝",
+      "onboard_time": 1689337297,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 224176,
@@ -28467,6 +28547,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 200059,
+      "num": 244847,
+      "word": "未定事件簿三周年",
+      "onboard_time": 1689336633,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200053,
       "num": 200053,
       "word": "3只小赤狐晃悠着小脑袋走出洞口",
@@ -29489,6 +29577,14 @@
       "onboard_time": 1688439934,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189785,
+      "num": 244809,
+      "word": "给小动物都加上了手手之后",
+      "onboard_time": 1689335795,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 189773,
@@ -30867,6 +30963,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 170646,
+      "num": 244777,
+      "word": "找那种有傲骨的男的 吃亏的绝对不是咱",
+      "onboard_time": 1689336575,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170554,
       "num": 170554,
       "word": "很少劝朋友离开让她难过的关系",
@@ -31121,6 +31225,14 @@
       "onboard_time": 1688253140,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166365,
+      "num": 311691,
+      "word": "虎鲸为什么喜欢亲近人类",
+      "onboard_time": 1689334054,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 166141,
@@ -31979,6 +32091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147131,
+      "num": 244750,
+      "word": "北大首封录取通知书送到14岁少年手中",
+      "onboard_time": 1689337660,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 146876,
       "num": 197015,
       "word": "eStar战胜DYG",
@@ -32387,14 +32507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133532,
-      "num": 311691,
-      "word": "虎鲸为什么喜欢亲近人类",
-      "onboard_time": 1689334054,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132566,
       "num": 132566,
       "word": "19370707永不敢忘",
@@ -32607,6 +32719,14 @@
       "num": 503585,
       "word": "厨房做饭居然会中暑",
       "onboard_time": 1689217710,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122771,
+      "num": 244724,
+      "word": "王登峰贪污受贿案一审开庭",
+      "onboard_time": 1689335914,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -34507,8 +34627,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14785,
-      "num": 214149,
+      "raw_hot": 16683,
+      "num": 1752498,
       "word": "中国式现代化是走和平发展道路的现代化",
       "onboard_time": 1689322714,
       "rank": 41,

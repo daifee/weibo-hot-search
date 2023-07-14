@@ -1,7 +1,15 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689334443676,
+  "endTime": 1689338311696,
   "band_list": [
+    {
+      "raw_hot": 11586938,
+      "num": 11586938,
+      "word": "奔跑吧",
+      "onboard_time": 1688967454,
+      "rank": 9,
+      "category": "综艺"
+    },
     {
       "raw_hot": 9828472,
       "num": 9828472,
@@ -563,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1923621,
+      "num": 1923621,
+      "word": "她是不是没忘干净",
+      "onboard_time": 1689332796,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1921571,
       "num": 1921571,
       "word": "为什么中国不禁止人名重复",
@@ -681,6 +697,14 @@
       "onboard_time": 1689122973,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1782982,
+      "num": 1401669,
+      "word": "中国内地新增报告106例猴痘确诊病例",
+      "onboard_time": 1689336217,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1780838,
@@ -808,6 +832,14 @@
       "word": "廉江回应有人持刀在幼儿园行凶",
       "onboard_time": 1688959532,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1609817,
+      "num": 502512,
+      "word": "猴痘",
+      "onboard_time": 1689036634,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1184,14 +1216,6 @@
       "word": "米米",
       "onboard_time": 1689122973,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1251334,
-      "num": 1251334,
-      "word": "奔跑吧",
-      "onboard_time": 1688967454,
-      "rank": 9,
       "category": "综艺"
     },
     {
@@ -2457,14 +2481,6 @@
       "onboard_time": 1689170496,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 822707,
-      "num": 565477,
-      "word": "她是不是没忘干净",
-      "onboard_time": 1689332796,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 822578,
@@ -3827,6 +3843,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 569713,
+      "num": 569713,
+      "word": "陶喆首场线上演唱会",
+      "onboard_time": 1689337903,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 569205,
       "num": 528607,
       "word": "李木戈回应PPT转场",
@@ -3929,6 +3953,14 @@
       "onboard_time": 1688956290,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560161,
+      "num": 560161,
+      "word": "ChatGPT正式被美国调查",
+      "onboard_time": 1689335439,
+      "rank": 8,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 559909,
@@ -4195,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535576,
+      "num": 327256,
+      "word": "韩素希红丝袜",
+      "onboard_time": 1689334892,
+      "rank": 16,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 535193,
       "num": 535193,
       "word": "张兰上诉被驳回",
@@ -4355,6 +4395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513316,
+      "num": 327246,
+      "word": "杨洋说夸我时王楚然的反应",
+      "onboard_time": 1689335973,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512852,
       "num": 512852,
       "word": "刘若英说八角笼中是纪录是真",
@@ -4483,20 +4531,20 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 502512,
-      "num": 502512,
-      "word": "猴痘",
-      "onboard_time": 1689036634,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502160,
       "num": 502160,
       "word": "我的人间烟火",
       "onboard_time": 1688922862,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 501103,
+      "num": 311862,
+      "word": "宁艺卓ins发了爱宝的双胞胎",
+      "onboard_time": 1689333574,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 501098,
@@ -5259,14 +5307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 438561,
-      "num": 311862,
-      "word": "宁艺卓ins发了爱宝的双胞胎",
-      "onboard_time": 1689333574,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437524,
       "num": 437524,
       "word": "老人疑因拒绝邻居开排水口到自家遭上门殴打",
@@ -5784,6 +5824,14 @@
       "word": "把玉骨遥第八集搬进了婚礼现场",
       "onboard_time": 1689015313,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 405881,
+      "num": 261187,
+      "word": "文咏珊说李木子茶里茶气",
+      "onboard_time": 1689335613,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -7043,6 +7091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319490,
+      "num": 319490,
+      "word": "xiaohao尽力了",
+      "onboard_time": 1689337539,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319246,
       "num": 319246,
       "word": "杨洋魏大勋你好星期六上班路透",
@@ -7728,6 +7784,14 @@
       "word": "倪妮发了30张自拍",
       "onboard_time": 1688896592,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288676,
+      "num": 253135,
+      "word": "马伯骞谈与赵露思合作",
+      "onboard_time": 1689334892,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -8827,6 +8891,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 244866,
+      "num": 244866,
+      "word": "碟中谍",
+      "onboard_time": 1689337116,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244748,
       "num": 244748,
       "word": "王楚然校服怼脸照",
@@ -9281,6 +9353,14 @@
       "onboard_time": 1689298349,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224190,
+      "num": 244860,
+      "word": "女生考上华科大曾就读幼儿园拉横幅庆祝",
+      "onboard_time": 1689337297,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 223909,
@@ -9971,6 +10051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202992,
+      "num": 244835,
+      "word": "中国好声音",
+      "onboard_time": 1689337964,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202762,
       "num": 202762,
       "word": "如果魏大勋演王源哥哥",
@@ -10105,6 +10193,14 @@
       "onboard_time": 1689232894,
       "rank": 45,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 200059,
+      "num": 244847,
+      "word": "未定事件簿三周年",
+      "onboard_time": 1689336633,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 199743,
@@ -10417,6 +10513,14 @@
       "onboard_time": 1689232711,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189785,
+      "num": 244809,
+      "word": "给小动物都加上了手手之后",
+      "onboard_time": 1689335795,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 189773,
@@ -10851,6 +10955,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 170646,
+      "num": 244777,
+      "word": "找那种有傲骨的男的 吃亏的绝对不是咱",
+      "onboard_time": 1689336575,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169668,
       "num": 169668,
       "word": "它叫向日葵是有道理的",
@@ -10945,6 +11057,14 @@
       "onboard_time": 1689081757,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 166365,
+      "num": 311691,
+      "word": "虎鲸为什么喜欢亲近人类",
+      "onboard_time": 1689334054,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 165326,
@@ -11235,6 +11355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147131,
+      "num": 244750,
+      "word": "北大首封录取通知书送到14岁少年手中",
+      "onboard_time": 1689337660,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 145878,
       "num": 178751,
       "word": "西瓜还可以这样切",
@@ -11395,14 +11523,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 133532,
-      "num": 311691,
-      "word": "虎鲸为什么喜欢亲近人类",
-      "onboard_time": 1689334054,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132432,
       "num": 683256,
       "word": "打工人的命是止痛药给的",
@@ -11471,6 +11591,14 @@
       "num": 503585,
       "word": "厨房做饭居然会中暑",
       "onboard_time": 1689217710,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122771,
+      "num": 244724,
+      "word": "王登峰贪污受贿案一审开庭",
+      "onboard_time": 1689335914,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -12083,8 +12211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14785,
-      "num": 214149,
+      "raw_hot": 16683,
+      "num": 1752498,
       "word": "中国式现代化是走和平发展道路的现代化",
       "onboard_time": 1689322714,
       "rank": 41,

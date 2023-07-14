@@ -1,7 +1,15 @@
 {
   "startTime": 1689265506991,
-  "endTime": 1689334443676,
+  "endTime": 1689338311696,
   "band_list": [
+    {
+      "raw_hot": 11586938,
+      "num": 11586938,
+      "word": "奔跑吧",
+      "onboard_time": 1689335312,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 8964429,
       "num": 8964429,
@@ -83,12 +91,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1923621,
+      "num": 1923621,
+      "word": "她是不是没忘干净",
+      "onboard_time": 1689332796,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1860642,
       "num": 1860642,
       "word": "邓超 看谁今晚还敢拿我的丑照做灯牌",
       "onboard_time": 1689330273,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1782982,
+      "num": 1401669,
+      "word": "中国内地新增报告106例猴痘确诊病例",
+      "onboard_time": 1689336217,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1746259,
@@ -104,6 +128,14 @@
       "word": "传媒女硕士辞职开办社区食堂",
       "onboard_time": 1689295294,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1609817,
+      "num": 449091,
+      "word": "猴痘",
+      "onboard_time": 1689336456,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -337,14 +369,6 @@
       "onboard_time": 1689329915,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 822707,
-      "num": 565477,
-      "word": "她是不是没忘干净",
-      "onboard_time": 1689332796,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 808344,
@@ -675,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569713,
+      "num": 569713,
+      "word": "陶喆首场线上演唱会",
+      "onboard_time": 1689337903,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 560161,
+      "num": 560161,
+      "word": "ChatGPT正式被美国调查",
+      "onboard_time": 1689335439,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 559909,
       "num": 465995,
       "word": "seven",
@@ -739,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535576,
+      "num": 327256,
+      "word": "韩素希红丝袜",
+      "onboard_time": 1689334892,
+      "rank": 16,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 533794,
       "num": 307365,
       "word": "魏大勋在装了杨洋你再装",
@@ -779,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513316,
+      "num": 327246,
+      "word": "杨洋说夸我时王楚然的反应",
+      "onboard_time": 1689335973,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512852,
       "num": 512852,
       "word": "刘若英说八角笼中是纪录是真",
@@ -801,6 +857,14 @@
       "onboard_time": 1689267565,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 501103,
+      "num": 311862,
+      "word": "宁艺卓ins发了爱宝的双胞胎",
+      "onboard_time": 1689333574,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 494762,
@@ -899,14 +963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 438561,
-      "num": 311862,
-      "word": "宁艺卓ins发了爱宝的双胞胎",
-      "onboard_time": 1689333574,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 434309,
       "num": 434309,
       "word": "许沁好像觉醒了的纸片人",
@@ -969,6 +1025,14 @@
       "onboard_time": 1689251013,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405881,
+      "num": 261187,
+      "word": "文咏珊说李木子茶里茶气",
+      "onboard_time": 1689335613,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 400849,
@@ -1195,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319490,
+      "num": 319490,
+      "word": "xiaohao尽力了",
+      "onboard_time": 1689337539,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 318444,
       "num": 318444,
       "word": "东北虎园两虎相争一虎被咬死",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1689303931,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288676,
+      "num": 253135,
+      "word": "马伯骞谈与赵露思合作",
+      "onboard_time": 1689334892,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 283699,
@@ -1499,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244866,
+      "num": 244866,
+      "word": "碟中谍",
+      "onboard_time": 1689337116,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243992,
       "num": 257387,
       "word": "宋妍霏玩偶服下的身材",
@@ -1569,6 +1657,14 @@
       "onboard_time": 1689298349,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224190,
+      "num": 244860,
+      "word": "女生考上华科大曾就读幼儿园拉横幅庆祝",
+      "onboard_time": 1689337297,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 223532,
@@ -1731,12 +1827,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202992,
+      "num": 244835,
+      "word": "中国好声音",
+      "onboard_time": 1689337964,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201899,
       "num": 201899,
       "word": "火烧蛋糕",
       "onboard_time": 1689261935,
       "rank": 34,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 200059,
+      "num": 244847,
+      "word": "未定事件簿三周年",
+      "onboard_time": 1689336633,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 199111,
@@ -1801,6 +1913,14 @@
       "onboard_time": 1689309338,
       "rank": 47,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 189785,
+      "num": 244809,
+      "word": "给小动物都加上了手手之后",
+      "onboard_time": 1689335795,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 189105,
@@ -1899,12 +2019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170646,
+      "num": 244777,
+      "word": "找那种有傲骨的男的 吃亏的绝对不是咱",
+      "onboard_time": 1689336575,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168777,
       "num": 168777,
       "word": "DYG是怎么猝死的",
       "onboard_time": 1689253474,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166365,
+      "num": 311691,
+      "word": "虎鲸为什么喜欢亲近人类",
+      "onboard_time": 1689334054,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 165885,
@@ -1995,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147131,
+      "num": 244750,
+      "word": "北大首封录取通知书送到14岁少年手中",
+      "onboard_time": 1689337660,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 145279,
       "num": 145279,
       "word": "中国队夺得男女链球金牌",
@@ -2059,14 +2203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133532,
-      "num": 311691,
-      "word": "虎鲸为什么喜欢亲近人类",
-      "onboard_time": 1689334054,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130203,
       "num": 198894,
       "word": "低丸子头教程",
@@ -2087,6 +2223,14 @@
       "num": 126068,
       "word": "云南网友看北京网友炒见手青急崩溃",
       "onboard_time": 1689283993,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122771,
+      "num": 244724,
+      "word": "王登峰贪污受贿案一审开庭",
+      "onboard_time": 1689335914,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -2251,8 +2395,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14785,
-      "num": 214149,
+      "raw_hot": 16683,
+      "num": 1752498,
       "word": "中国式现代化是走和平发展道路的现代化",
       "onboard_time": 1689322714,
       "rank": 41,
