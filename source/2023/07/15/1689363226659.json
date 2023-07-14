@@ -1,0 +1,410 @@
+{
+  "runTime": 1689363226659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 306251,
+        "num": 306251,
+        "word": "奔跑吧 原地消失术",
+        "onboard_time": 1689338621,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114337,
+        "num": 114337,
+        "word": "建议迪丽热巴别看",
+        "onboard_time": 1689345101,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17151,
+        "num": 104856,
+        "word": "国家队跳绳速度快到重影",
+        "onboard_time": 1689339882,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143169,
+        "num": 104428,
+        "word": "奔跑吧收视率",
+        "onboard_time": 1689342942,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96441,
+        "num": 96441,
+        "word": "看完后100%的人试了一下",
+        "onboard_time": 1689348159,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86224,
+        "num": 86224,
+        "word": "费曼才是香港顶流吧",
+        "onboard_time": 1689347801,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76519,
+        "num": 76519,
+        "word": "奔跑吧下期预告呢",
+        "onboard_time": 1689347981,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71368,
+        "num": 71368,
+        "word": "她是不是没忘干净",
+        "onboard_time": 1689332796,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62014,
+        "num": 62014,
+        "word": "医院回应误给孩子用麻醉剂死亡",
+        "onboard_time": 1689329915,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59391,
+        "num": 59391,
+        "word": "陆景和",
+        "onboard_time": 1689347261,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129990,
+        "num": 59391,
+        "word": "本轮猴痘疫情主要通过男男传播",
+        "onboard_time": 1689340723,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127687,
+        "num": 59380,
+        "word": "李在真 好你妈",
+        "onboard_time": 1689341863,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123533,
+        "num": 59377,
+        "word": "费曼 家庭有点奇怪因为我有两个妈妈",
+        "onboard_time": 1689330095,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94301,
+        "num": 59365,
+        "word": "中国内地新增报告106例猴痘确诊病例",
+        "onboard_time": 1689336217,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88375,
+        "num": 59363,
+        "word": "毕业生自述大一时遭辅导员性侵",
+        "onboard_time": 1689346961,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 78681,
+        "num": 59352,
+        "word": "肖战警告肖战工作室",
+        "onboard_time": 1689325236,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61609,
+        "num": 59346,
+        "word": "著名导演贝聿娍去世",
+        "onboard_time": 1689350376,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60975,
+        "num": 59339,
+        "word": "范丞丞发奔跑吧花絮照了",
+        "onboard_time": 1689339461,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44020,
+        "num": 59334,
+        "word": "Xiaohu 永恩封印",
+        "onboard_time": 1689347920,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34008,
+        "num": 59323,
+        "word": "中国官方回应阿斯巴甜评估结果",
+        "onboard_time": 1689344863,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59323,
+        "num": 59322,
+        "word": "宜古宜今的明星",
+        "onboard_time": 1689361574,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54821,
+        "num": 54821,
+        "word": "00后好像被分成了很多批",
+        "onboard_time": 1689345464,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 53041,
+        "num": 53041,
+        "word": "男子结扎1年妻子怀孕医院赔1万4",
+        "onboard_time": 1689331716,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47759,
+        "num": 47759,
+        "word": "范丞丞说魏大勋最近挺火的",
+        "onboard_time": 1689332492,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46837,
+        "num": 47289,
+        "word": "护士掏出新买的手机壳惊呆网友",
+        "onboard_time": 1689344921,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47215,
+        "num": 47215,
+        "word": "曝迪丽热巴与嘉行已续约",
+        "onboard_time": 1689345522,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46917,
+        "num": 46917,
+        "word": "易烊千玺发了好多心",
+        "onboard_time": 1689344921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46364,
+        "num": 46364,
+        "word": "邓超 看谁今晚还敢拿我的丑照做灯牌",
+        "onboard_time": 1689330273,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44454,
+        "num": 44454,
+        "word": "女子坐公交被18岁男子摸臀猥亵",
+        "onboard_time": 1689344680,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43924,
+        "num": 43924,
+        "word": "要勇敢结束消耗自己的任何关系",
+        "onboard_time": 1689361695,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 45878,
+        "num": 43885,
+        "word": "朱正廷要海外开演唱会被粉丝吐槽",
+        "onboard_time": 1689347021,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43755,
+        "num": 43755,
+        "word": "奔跑吧",
+        "onboard_time": 1689335312,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38417,
+        "num": 43754,
+        "word": "花22元买鸡丝凉面仅能吃三口",
+        "onboard_time": 1689344382,
+        "rank": 32,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 37870,
+        "num": 43747,
+        "word": "李若彤李白造型",
+        "onboard_time": 1689362894,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41993,
+        "num": 43742,
+        "word": "杨颖MINNIE跳了queencard",
+        "onboard_time": 1689346365,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37187,
+        "num": 43734,
+        "word": "保洁阿姨是一眼地都没看啊",
+        "onboard_time": 1689349596,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35777,
+        "num": 43727,
+        "word": "蔡依林出道24年首次liveband",
+        "onboard_time": 1689340183,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33101,
+        "num": 43725,
+        "word": "束缚女性的七个观念",
+        "onboard_time": 1689353786,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 32615,
+        "num": 43715,
+        "word": "这贴纸毁了我的童年",
+        "onboard_time": 1689349899,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 30971,
+        "num": 43710,
+        "word": "为什么戴眼镜比不戴好看",
+        "onboard_time": 1689330695,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35385,
+        "num": 43702,
+        "word": "TFBOYS十周年演唱会通过审批",
+        "onboard_time": 1689332254,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35287,
+        "num": 43698,
+        "word": "黄渤大鹏五月天演唱会嘉宾",
+        "onboard_time": 1689343120,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33738,
+        "num": 43695,
+        "word": "杨洋说夸我时王楚然的反应",
+        "onboard_time": 1689335973,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32746,
+        "num": 43686,
+        "word": "奔跑吧卧底",
+        "onboard_time": 1689345825,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31694,
+        "num": 43683,
+        "word": "六公主采访肖战",
+        "onboard_time": 1689352530,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28169,
+        "num": 43674,
+        "word": "那时候把书堆的高高 其实是挡住了自己的未来",
+        "onboard_time": 1689339882,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 26098,
+        "num": 43668,
+        "word": "莫弈",
+        "onboard_time": 1689350854,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24966,
+        "num": 43662,
+        "word": "夏彦",
+        "onboard_time": 1689350256,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23365,
+        "num": 43657,
+        "word": "红楼梦最著名的茄子到底多好吃",
+        "onboard_time": 1689345766,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20776,
+        "num": 43647,
+        "word": "毕业青春就结束了吗",
+        "onboard_time": 1689359776,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护亿万民众共同的精神家园#"
+    }
+  }
+}
