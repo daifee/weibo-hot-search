@@ -1,0 +1,410 @@
+{
+  "runTime": 1689331045171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1346036,
+        "num": 1346036,
+        "word": "小学已无00后",
+        "onboard_time": 1689325772,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 338343,
+        "num": 1312683,
+        "word": "动物园为丫丫开启喷淋模式",
+        "onboard_time": 1689325412,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53133,
+        "num": 1304130,
+        "word": "最新国家安全主题宣传片",
+        "onboard_time": 1689322835,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303244,
+        "num": 1303244,
+        "word": "中国政府部门几乎每天遭受海量网络攻击",
+        "onboard_time": 1689327460,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260159,
+        "num": 1236721,
+        "word": "带状疱疹国产疫苗在杭开打",
+        "onboard_time": 1689316597,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216647,
+        "num": 1216647,
+        "word": "到底是谁在捧魏大勋",
+        "onboard_time": 1689320135,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253699,
+        "num": 993047,
+        "word": "长安三万里为什么火了",
+        "onboard_time": 1689315757,
+        "rank": 6,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 913360,
+        "num": 913360,
+        "word": "TFBOYS十周年演唱会或将7月25日官宣",
+        "onboard_time": 1689329555,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 555665,
+        "num": 555665,
+        "word": "吴镇宇喊费曼故宫的公公",
+        "onboard_time": 1689325291,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450497,
+        "num": 450497,
+        "word": "关晓彤竟然也演过家有儿女",
+        "onboard_time": 1689318455,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 7102155,
+        "num": 444564,
+        "word": "肖战警告肖战工作室",
+        "onboard_time": 1689325236,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1683904,
+        "num": 442722,
+        "word": "井川里予 我就是觉得很漂亮啊",
+        "onboard_time": 1689300449,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 835039,
+        "num": 440004,
+        "word": "医院回应误给孩子用麻醉剂死亡",
+        "onboard_time": 1689329915,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432896,
+        "num": 432896,
+        "word": "他从火光中走来",
+        "onboard_time": 1689330155,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416805,
+        "num": 416805,
+        "word": "花间令杀青",
+        "onboard_time": 1689327460,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410011,
+        "num": 410011,
+        "word": "奔跑吧今晚播出",
+        "onboard_time": 1689300688,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380842,
+        "num": 380842,
+        "word": "正式确诊为那英",
+        "onboard_time": 1689308436,
+        "rank": 16,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 329891,
+        "num": 329891,
+        "word": "阿米尔汗和王宝强竟然是好朋友",
+        "onboard_time": 1689321274,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326729,
+        "num": 326729,
+        "word": "丫丫小尖脸变成小圆脸了",
+        "onboard_time": 1689316115,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306623,
+        "num": 306623,
+        "word": "台风",
+        "onboard_time": 1689326919,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564309,
+        "num": 303458,
+        "word": "范丞丞扫楼穿真空西装",
+        "onboard_time": 1689327160,
+        "rank": 20,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 334683,
+        "num": 303012,
+        "word": "这榴莲要不是怕脏都不长皮了",
+        "onboard_time": 1689322235,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289444,
+        "num": 289444,
+        "word": "安乐传 花魁",
+        "onboard_time": 1689322235,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273941,
+        "num": 273941,
+        "word": "1TB的手机比128GB的重",
+        "onboard_time": 1689317554,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 222126,
+        "num": 222126,
+        "word": "就没有练不细的腰",
+        "onboard_time": 1689321453,
+        "rank": 24,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 284925,
+        "num": 222051,
+        "word": "魏大勋粉丝写的小作文",
+        "onboard_time": 1689325894,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281925,
+        "num": 221938,
+        "word": "NewJeans回归初舞台",
+        "onboard_time": 1689330455,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265287,
+        "num": 221866,
+        "word": "魏大勋王楚然杨洋回答同一个问题",
+        "onboard_time": 1689323671,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221351,
+        "num": 221351,
+        "word": "打工人买彩票中千万等工作不忙才来领奖",
+        "onboard_time": 1689318515,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 218048,
+        "num": 218048,
+        "word": "公摊面积为何不能取消",
+        "onboard_time": 1689314499,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1590093,
+        "num": 216776,
+        "word": "费曼 家庭有点奇怪因为我有两个妈妈",
+        "onboard_time": 1689330095,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812501,
+        "num": 215066,
+        "word": "邓超 看谁今晚还敢拿我的丑照做灯牌",
+        "onboard_time": 1689330273,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 520607,
+        "num": 213145,
+        "word": "为什么戴眼镜比不戴好看",
+        "onboard_time": 1689330695,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239694,
+        "num": 212620,
+        "word": "李玟告别式日期",
+        "onboard_time": 1689323193,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221651,
+        "num": 210819,
+        "word": "段嘉许宋焰一个哥哥文学一个老子文学",
+        "onboard_time": 1689323375,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193776,
+        "num": 207493,
+        "word": "风凉话的温度分一点给上海",
+        "onboard_time": 1689330818,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207237,
+        "num": 207237,
+        "word": "印度发射月船3号月球探测器",
+        "onboard_time": 1689329674,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 206658,
+        "num": 206658,
+        "word": "宋妍霏玩偶服下的身材",
+        "onboard_time": 1689328300,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 197954,
+        "num": 205581,
+        "word": "男子为减肥每天一顿半年暴瘦30斤",
+        "onboard_time": 1689322594,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190939,
+        "num": 205443,
+        "word": "家属确认旅行博主姜野在新疆遇难",
+        "onboard_time": 1689308013,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205325,
+        "num": 205325,
+        "word": "朴彩英发量回来了",
+        "onboard_time": 1689319597,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 204365,
+        "num": 204365,
+        "word": "白鹿和周深说什么了",
+        "onboard_time": 1689323791,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203160,
+        "num": 203160,
+        "word": "谢娜挡着车不让大家离开",
+        "onboard_time": 1689314380,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189742,
+        "num": 203159,
+        "word": "范丞丞新浪扫楼",
+        "onboard_time": 1689326735,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184319,
+        "num": 203155,
+        "word": "江南百景图",
+        "onboard_time": 1689329135,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183004,
+        "num": 203154,
+        "word": "广东一女子耳膜被男朋友吻裂",
+        "onboard_time": 1689313119,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170097,
+        "num": 203151,
+        "word": "田柾国韩素希水中镜头",
+        "onboard_time": 1689310001,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164457,
+        "num": 203147,
+        "word": "塞尔达传说王国之泪",
+        "onboard_time": 1689325291,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153474,
+        "num": 203146,
+        "word": "东北虎园两虎相争一虎被咬死",
+        "onboard_time": 1689318035,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150194,
+        "num": 203145,
+        "word": "用一句话激怒所有大学生",
+        "onboard_time": 1689322175,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国广电新媒体集结发光#"
+    }
+  }
+}

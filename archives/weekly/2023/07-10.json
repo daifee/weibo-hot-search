@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689330001177,
+  "endTime": 1689331045171,
   "band_list": [
     {
       "raw_hot": 9828472,
@@ -816,6 +816,14 @@
       "word": "鹿晗现身医院做康复治疗",
       "onboard_time": 1689209975,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1590093,
+      "num": 216776,
+      "word": "费曼 家庭有点奇怪因为我有两个妈妈",
+      "onboard_time": 1689330095,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2051,6 +2059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 913360,
+      "num": 913360,
+      "word": "TFBOYS十周年演唱会或将7月25日官宣",
+      "onboard_time": 1689329555,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 909606,
       "num": 909606,
       "word": "迪丽热巴想回新疆吃水果",
@@ -2371,6 +2387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 835039,
+      "num": 440004,
+      "word": "医院回应误给孩子用麻醉剂死亡",
+      "onboard_time": 1689329915,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 831744,
       "num": 831744,
       "word": "在家族群里发录取通知书照片",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1689037417,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 812501,
+      "num": 215066,
+      "word": "邓超 看谁今晚还敢拿我的丑照做灯牌",
+      "onboard_time": 1689330273,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 811872,
@@ -3948,7 +3980,7 @@
     },
     {
       "raw_hot": 554658,
-      "num": 871991,
+      "num": 993047,
       "word": "长安三万里为什么火了",
       "onboard_time": 1689315757,
       "rank": 18,
@@ -4235,6 +4267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520607,
+      "num": 213145,
+      "word": "为什么戴眼镜比不戴好看",
+      "onboard_time": 1689330695,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 520449,
       "num": 520449,
       "word": "王一博骗小海吃东西搞笑程度",
@@ -4265,14 +4305,6 @@
       "onboard_time": 1689152676,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 514701,
-      "num": 514701,
-      "word": "TFBOYS十周年演唱会或将7月25日官宣",
-      "onboard_time": 1689329555,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 513904,
@@ -5305,6 +5337,14 @@
       "onboard_time": 1689156033,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432896,
+      "num": 432896,
+      "word": "他从火光中走来",
+      "onboard_time": 1689330155,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 432813,
@@ -7043,14 +7083,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 313708,
-      "num": 313708,
-      "word": "医院回应误给孩子用麻醉剂死亡",
-      "onboard_time": 1689329915,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313620,
       "num": 313620,
       "word": "熊猫宝宝越粉证明妈妈爱得越深",
@@ -7201,6 +7233,14 @@
       "onboard_time": 1688992472,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306623,
+      "num": 306623,
+      "word": "台风",
+      "onboard_time": 1689326919,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305901,
@@ -7779,6 +7819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281925,
+      "num": 221938,
+      "word": "NewJeans回归初舞台",
+      "onboard_time": 1689330455,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 281468,
       "num": 281468,
       "word": "一个不会离职的办公桌长啥样",
@@ -7937,14 +7985,6 @@
       "onboard_time": 1689129271,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 276325,
-      "num": 276325,
-      "word": "台风",
-      "onboard_time": 1689326919,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276281,
@@ -9747,6 +9787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207237,
+      "num": 257370,
+      "word": "印度发射月船3号月球探测器",
+      "onboard_time": 1689329674,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 206906,
       "num": 206906,
       "word": "工作一会儿就不自觉拿起手机",
@@ -10043,14 +10091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198252,
-      "num": 257370,
-      "word": "印度发射月船3号月球探测器",
-      "onboard_time": 1689329674,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 198181,
       "num": 198181,
       "word": "当i狗遇到e狗",
@@ -10217,6 +10257,14 @@
       "onboard_time": 1689236372,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193776,
+      "num": 207493,
+      "word": "风凉话的温度分一点给上海",
+      "onboard_time": 1689330818,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193404,
@@ -10475,6 +10523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184319,
+      "num": 257356,
+      "word": "江南百景图",
+      "onboard_time": 1689329135,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184307,
       "num": 184307,
       "word": "申花",
@@ -10521,14 +10577,6 @@
       "onboard_time": 1689230191,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183047,
-      "num": 257356,
-      "word": "江南百景图",
-      "onboard_time": 1689329135,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 182816,
