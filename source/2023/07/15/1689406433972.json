@@ -1,0 +1,410 @@
+{
+  "runTime": 1689406433972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2786832,
+        "num": 2786832,
+        "word": "奔跑吧后期回应",
+        "onboard_time": 1689400351,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1292412,
+        "num": 1292412,
+        "word": "刘诗诗堕仙妆",
+        "onboard_time": 1689399210,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14762,
+        "num": 1010940,
+        "word": "探访杭州亚残运会场馆",
+        "onboard_time": 1689384029,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883047,
+        "num": 883047,
+        "word": "蒋敦豪 一定要再见啊晴天",
+        "onboard_time": 1689398250,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 810356,
+        "num": 810356,
+        "word": "Jennie称舞台没有划水",
+        "onboard_time": 1689399330,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 810229,
+        "num": 810229,
+        "word": "福宝吃醋了",
+        "onboard_time": 1689398072,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744235,
+        "num": 744235,
+        "word": "当初对猫眼是大声了点",
+        "onboard_time": 1689401431,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472783,
+        "num": 472783,
+        "word": "多地烟草局要求直系三代血脉不得应聘",
+        "onboard_time": 1689384629,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425030,
+        "num": 425030,
+        "word": "父亲想让被救女儿认邻居干爸",
+        "onboard_time": 1689393751,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343692,
+        "num": 343692,
+        "word": "苹果回应iPhone高温季发烫",
+        "onboard_time": 1689388293,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 681670,
+        "num": 342865,
+        "word": "杨洋王楚然啥时候才能演到这里",
+        "onboard_time": 1689404251,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560380,
+        "num": 342720,
+        "word": "蔡依林42岁身材管理",
+        "onboard_time": 1689404789,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 501179,
+        "num": 340978,
+        "word": "暑假影视综已经有三爆了",
+        "onboard_time": 1689404428,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411150,
+        "num": 340902,
+        "word": "北京报告45例猴痘确诊病例",
+        "onboard_time": 1689387270,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389317,
+        "num": 339108,
+        "word": "论牙齿对颜值的影响",
+        "onboard_time": 1689404490,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 448115,
+        "num": 338722,
+        "word": "张一山怀疑杨紫瞒着自己上节目",
+        "onboard_time": 1689393095,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353777,
+        "num": 337579,
+        "word": "官方回应女子吃凉皮中毒身亡",
+        "onboard_time": 1689385470,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337205,
+        "num": 337205,
+        "word": "迪丽热巴西安",
+        "onboard_time": 1689405511,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314743,
+        "num": 314743,
+        "word": "上海00后为纸片人吃席",
+        "onboard_time": 1689390033,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251519,
+        "num": 251519,
+        "word": "小区高层养7头牛邻居苦不堪言",
+        "onboard_time": 1689391170,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 937561,
+        "num": 251315,
+        "word": "35岁已婚对25岁未婚的建议",
+        "onboard_time": 1689399031,
+        "rank": 20,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 333035,
+        "num": 251252,
+        "word": "莲花楼",
+        "onboard_time": 1689400230,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567697,
+        "num": 251051,
+        "word": "喝茉酸奶5天胖了6斤",
+        "onboard_time": 1689399031,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 462535,
+        "num": 250643,
+        "word": "猴痘传播有多快",
+        "onboard_time": 1689402031,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421687,
+        "num": 250477,
+        "word": "同事离职了还有东西没带走",
+        "onboard_time": 1689404251,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307050,
+        "num": 250207,
+        "word": "刘学义拿杯的手",
+        "onboard_time": 1689402691,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299277,
+        "num": 250036,
+        "word": "创造营2023报名",
+        "onboard_time": 1689399630,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271740,
+        "num": 249783,
+        "word": "种地团小羊晴天",
+        "onboard_time": 1689395071,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262876,
+        "num": 249504,
+        "word": "宋亚轩嘴碎",
+        "onboard_time": 1689404251,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53526,
+        "num": 249421,
+        "word": "王飞龙张家齐混双十米台夺冠",
+        "onboard_time": 1689399091,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290944,
+        "num": 249024,
+        "word": "12岁男孩内蒙古乘三角翼遇难",
+        "onboard_time": 1689405029,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259901,
+        "num": 248888,
+        "word": "婚纱照一下子就更生动了",
+        "onboard_time": 1689403891,
+        "rank": 31,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 255074,
+        "num": 248586,
+        "word": "白鹿钻出车顶录粉丝第一视角",
+        "onboard_time": 1689402511,
+        "rank": 32,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 248542,
+        "num": 248542,
+        "word": "看不出来我在蹭魏大勋吗",
+        "onboard_time": 1689400652,
+        "rank": 33,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 245878,
+        "num": 245878,
+        "word": "长安三万里",
+        "onboard_time": 1689406410,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243404,
+        "num": 243404,
+        "word": "种地吧送别小羊晴天",
+        "onboard_time": 1689398008,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236762,
+        "num": 236762,
+        "word": "EXO粉丝全场大合唱growl",
+        "onboard_time": 1689404010,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233924,
+        "num": 233924,
+        "word": "奔跑吧 原地消失术",
+        "onboard_time": 1689338621,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220144,
+        "num": 220144,
+        "word": "日本男子活活烫死女友3岁孩子",
+        "onboard_time": 1689381209,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207695,
+        "num": 207695,
+        "word": "女子应聘小学行政跟岗10多天被辞退",
+        "onboard_time": 1689389426,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 199335,
+        "num": 199335,
+        "word": "时代少年团全员加速中下班路透",
+        "onboard_time": 1689402991,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197885,
+        "num": 197885,
+        "word": "麻辣烫现在也太卷了",
+        "onboard_time": 1689406231,
+        "rank": 41,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 196696,
+        "num": 196696,
+        "word": "微信好友上限约1万个",
+        "onboard_time": 1689406410,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 174196,
+        "num": 174196,
+        "word": "江苏报告8例猴痘病例",
+        "onboard_time": 1689392492,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178613,
+        "num": 174160,
+        "word": "朱珠美得不顾Alin死活",
+        "onboard_time": 1689392970,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172016,
+        "num": 172016,
+        "word": "周深郑恺是有心事吗",
+        "onboard_time": 1689396631,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169711,
+        "num": 169711,
+        "word": "花35元买半个西瓜果切拼完没有心",
+        "onboard_time": 1689395252,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166376,
+        "num": 166376,
+        "word": "放弃为了取悦他人而做的努力",
+        "onboard_time": 1689405213,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162722,
+        "num": 162722,
+        "word": "军训鞋子非穿不可吗",
+        "onboard_time": 1689402991,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143785,
+        "num": 162718,
+        "word": "鹿晗上海站禁止携带灯牌",
+        "onboard_time": 1689394412,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#主题教育最新学习笔记#"
+    }
+  }
+}

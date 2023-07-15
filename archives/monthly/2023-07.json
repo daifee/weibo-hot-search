@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689405415219,
+  "endTime": 1689406433972,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -8491,6 +8491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 744235,
+      "num": 744235,
+      "word": "当初对猫眼是大声了点",
+      "onboard_time": 1689401431,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 743062,
       "num": 743062,
       "word": "为什么现在厨房越来越小了",
@@ -8729,14 +8737,6 @@
       "onboard_time": 1688468674,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 728108,
-      "num": 728108,
-      "word": "当初对猫眼是大声了点",
-      "onboard_time": 1689401431,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 727220,
@@ -9443,6 +9443,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 681670,
+      "num": 342865,
+      "word": "杨洋王楚然啥时候才能演到这里",
+      "onboard_time": 1689404251,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 681135,
       "num": 681135,
       "word": "沈月说到杨迪就哭了",
@@ -9777,14 +9785,6 @@
       "onboard_time": 1688698113,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 664471,
-      "num": 321957,
-      "word": "杨洋王楚然啥时候才能演到这里",
-      "onboard_time": 1689404251,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 664434,
@@ -11963,6 +11963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 560380,
+      "num": 342720,
+      "word": "蔡依林42岁身材管理",
+      "onboard_time": 1689404789,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 560161,
       "num": 646402,
       "word": "ChatGPT正式被美国调查",
@@ -13481,6 +13489,14 @@
       "onboard_time": 1688302599,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 501179,
+      "num": 340978,
+      "word": "暑假影视综已经有三爆了",
+      "onboard_time": 1689404428,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 501103,
@@ -16355,6 +16371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421687,
+      "num": 257904,
+      "word": "同事离职了还有东西没带走",
+      "onboard_time": 1689404251,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421621,
       "num": 421621,
       "word": "super shy",
@@ -17505,6 +17529,14 @@
       "onboard_time": 1689065737,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389317,
+      "num": 339108,
+      "word": "论牙齿对颜值的影响",
+      "onboard_time": 1689404490,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 389246,
@@ -19619,14 +19651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343843,
-      "num": 257904,
-      "word": "同事离职了还有东西没带走",
-      "onboard_time": 1689404251,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 343765,
       "num": 272754,
       "word": "罗正跳eiei",
@@ -19931,6 +19955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337205,
+      "num": 337205,
+      "word": "迪丽热巴西安",
+      "onboard_time": 1689405511,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337006,
       "num": 337006,
       "word": "高远二姨怎么了",
@@ -20089,14 +20121,6 @@
       "onboard_time": 1689055594,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 334274,
-      "num": 259243,
-      "word": "暑假影视综已经有三爆了",
-      "onboard_time": 1689404428,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 334236,
@@ -20361,14 +20385,6 @@
       "onboard_time": 1688379282,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329482,
-      "num": 259106,
-      "word": "蔡依林42岁身材管理",
-      "onboard_time": 1689404789,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 329045,
@@ -22691,6 +22707,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 290944,
+      "num": 257438,
+      "word": "12岁男孩内蒙古乘三角翼遇难",
+      "onboard_time": 1689405029,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290357,
       "num": 290357,
       "word": "11岁女孩和爷爷进山捡菌险坠崖",
@@ -24195,14 +24219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267862,
-      "num": 257438,
-      "word": "12岁男孩内蒙古乘三角翼遇难",
-      "onboard_time": 1689405029,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267833,
       "num": 267833,
       "word": "徐梦洁刘宇演陈小希江辰",
@@ -24545,6 +24561,14 @@
       "onboard_time": 1688911054,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262876,
+      "num": 249504,
+      "word": "宋亚轩嘴碎",
+      "onboard_time": 1689404251,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 262400,
@@ -24993,14 +25017,6 @@
       "onboard_time": 1689129631,
       "rank": 32,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 257298,
-      "num": 257298,
-      "word": "论牙齿对颜值的影响",
-      "onboard_time": 1689404490,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 257296,
@@ -26603,6 +26619,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 236762,
+      "num": 236762,
+      "word": "EXO粉丝全场大合唱growl",
+      "onboard_time": 1689404010,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 236700,
       "num": 236700,
       "word": "女子让外卖员摘面罩看脸否则差评",
@@ -27547,14 +27571,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 224539,
-      "num": 224539,
-      "word": "EXO粉丝全场大合唱growl",
-      "onboard_time": 1689404010,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 224510,
       "num": 224510,
       "word": "驻乌使馆要求在乌中国公民立即完成备案登记",
@@ -27968,14 +27984,6 @@
       "word": "乘风2023",
       "onboard_time": 1689312039,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 220476,
-      "num": 220476,
-      "word": "宋亚轩嘴碎",
-      "onboard_time": 1689404251,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -30179,6 +30187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197885,
+      "num": 197885,
+      "word": "麻辣烫现在也太卷了",
+      "onboard_time": 1689406231,
+      "rank": 41,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 197805,
       "num": 168974,
       "word": "放在恋爱脑界也是相当炸裂的",
@@ -30297,6 +30313,14 @@
       "onboard_time": 1688639977,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196696,
+      "num": 196696,
+      "word": "微信好友上限约1万个",
+      "onboard_time": 1689406410,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 196673,
@@ -32779,6 +32803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166376,
+      "num": 166991,
+      "word": "放弃为了取悦他人而做的努力",
+      "onboard_time": 1689405213,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166141,
       "num": 173664,
       "word": "BLG零封TES",
@@ -34169,14 +34201,6 @@
       "onboard_time": 1688550633,
       "rank": 6,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 128250,
-      "num": 166991,
-      "word": "放弃为了取悦他人而做的努力",
-      "onboard_time": 1689405213,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 128127,
