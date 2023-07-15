@@ -1,0 +1,410 @@
+{
+  "runTime": 1689419698493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334553,
+        "num": 1334553,
+        "word": "魏大勋孟宴臣独爆",
+        "onboard_time": 1689413250,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463912,
+        "num": 1317952,
+        "word": "福宝吃醋了",
+        "onboard_time": 1689398072,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67325,
+        "num": 1309283,
+        "word": "中国式现代化县域实践大调研",
+        "onboard_time": 1689414450,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306802,
+        "num": 1306802,
+        "word": "茉酸奶",
+        "onboard_time": 1689415051,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329989,
+        "num": 888212,
+        "word": "村庄靠养知了猴年入超400万元",
+        "onboard_time": 1689414628,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824975,
+        "num": 824975,
+        "word": "不雅信息事件单位称系因病毒入侵",
+        "onboard_time": 1689416671,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809422,
+        "num": 809422,
+        "word": "Minnie只说了三个字",
+        "onboard_time": 1689417569,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 789780,
+        "num": 789780,
+        "word": "奔跑吧后期回应",
+        "onboard_time": 1689400351,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578022,
+        "num": 578022,
+        "word": "开始担心TFBOYS演唱会门票了",
+        "onboard_time": 1689412290,
+        "rank": 8,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 525979,
+        "num": 525979,
+        "word": "将门嫡女",
+        "onboard_time": 1689419130,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1333847,
+        "num": 521931,
+        "word": "魏大勋爸爸给猪打针打到魏大勋屁股上了",
+        "onboard_time": 1689412049,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 248122,
+        "num": 516737,
+        "word": "父亲想让被救女儿认邻居干爸",
+        "onboard_time": 1689393751,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717669,
+        "num": 516160,
+        "word": "Makiyo小金离婚",
+        "onboard_time": 1689414092,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515422,
+        "num": 515422,
+        "word": "TFBOYS演唱会票价已被炒到四万多",
+        "onboard_time": 1689418951,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 487214,
+        "num": 487214,
+        "word": "女子称高铁上进入餐车被要求交100元",
+        "onboard_time": 1689414030,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510141,
+        "num": 486082,
+        "word": "暑假影视综已经有三爆了",
+        "onboard_time": 1689404428,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403825,
+        "num": 403825,
+        "word": "晴天很短但很好的一生",
+        "onboard_time": 1689411869,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324555,
+        "num": 324555,
+        "word": "Jennie称舞台没有划水",
+        "onboard_time": 1689399330,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305112,
+        "num": 305112,
+        "word": "老人买门票回自己家忍不住落泪",
+        "onboard_time": 1689409531,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 229976,
+        "num": 299878,
+        "word": "婚纱照一下子就更生动了",
+        "onboard_time": 1689403891,
+        "rank": 19,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 648549,
+        "num": 293230,
+        "word": "男孩车祸被撞断头后接回头部",
+        "onboard_time": 1689417751,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544312,
+        "num": 288533,
+        "word": "最近可以先暂时关闭朋友圈",
+        "onboard_time": 1689418773,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490207,
+        "num": 283408,
+        "word": "35岁已婚对25岁未婚的建议",
+        "onboard_time": 1689399031,
+        "rank": 22,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 420509,
+        "num": 279177,
+        "word": "黄子韬徐艺洋互相串门",
+        "onboard_time": 1689414571,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211391,
+        "num": 270173,
+        "word": "布朗将签NBA历史最大合同",
+        "onboard_time": 1689409110,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 420120,
+        "num": 266020,
+        "word": "暑假22个孙子外孙一天吃25斤大米",
+        "onboard_time": 1689417751,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323342,
+        "num": 258344,
+        "word": "刘诗诗堕仙妆",
+        "onboard_time": 1689399210,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256868,
+        "num": 256868,
+        "word": "猴痘感染后会留下永久疤痕吗",
+        "onboard_time": 1689410430,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239026,
+        "num": 239026,
+        "word": "看数字就知道自己是散光还是近视",
+        "onboard_time": 1689417332,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31315,
+        "num": 237584,
+        "word": "想看福宝跟两个妹妹见面吗",
+        "onboard_time": 1689419671,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237090,
+        "num": 237090,
+        "word": "挂不到专家号可以挂新医生的号",
+        "onboard_time": 1689413370,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234117,
+        "num": 234117,
+        "word": "工作室能不能给肖战P真点",
+        "onboard_time": 1689408989,
+        "rank": 31,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 230017,
+        "num": 230017,
+        "word": "印度夫妻因欠网贷杀子后自杀",
+        "onboard_time": 1689419191,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226311,
+        "num": 226311,
+        "word": "金晨发了个二维码",
+        "onboard_time": 1689419011,
+        "rank": 33,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 213138,
+        "num": 213138,
+        "word": "如何看待井川里予多次回应",
+        "onboard_time": 1689414691,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 213014,
+        "num": 213014,
+        "word": "张杰演唱会",
+        "onboard_time": 1689416553,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203514,
+        "num": 213013,
+        "word": "消失的十一层",
+        "onboard_time": 1689416553,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197816,
+        "num": 213013,
+        "word": "喝茉酸奶5天胖了6斤",
+        "onboard_time": 1689399031,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191715,
+        "num": 213012,
+        "word": "被天气热到狗里狗气的猫咪",
+        "onboard_time": 1689419610,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189513,
+        "num": 213011,
+        "word": "台风",
+        "onboard_time": 1689407490,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188732,
+        "num": 213010,
+        "word": "王鹤棣 长安三万里值得一看",
+        "onboard_time": 1689412649,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163946,
+        "num": 213009,
+        "word": "老板电器股东李天责出道",
+        "onboard_time": 1689417391,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168614,
+        "num": 213008,
+        "word": "王鹤棣西安",
+        "onboard_time": 1689417450,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158456,
+        "num": 213008,
+        "word": "迪丽热巴西安",
+        "onboard_time": 1689405511,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157477,
+        "num": 213006,
+        "word": "原来酒店取电不一定要房卡",
+        "onboard_time": 1689407967,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154451,
+        "num": 213006,
+        "word": "种地吧送别小羊晴天",
+        "onboard_time": 1689398008,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146052,
+        "num": 213005,
+        "word": "90后男子国企辞职摆摊收入涨3倍",
+        "onboard_time": 1689410370,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 144630,
+        "num": 213003,
+        "word": "觉得生活太顺的人可以去学车",
+        "onboard_time": 1689413730,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 140788,
+        "num": 213003,
+        "word": "范丞丞这是个人战",
+        "onboard_time": 1689412349,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122309,
+        "num": 213003,
+        "word": "到底是哪个剧组在卷许凯",
+        "onboard_time": 1689413429,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#主题教育最新学习笔记#"
+    }
+  }
+}
