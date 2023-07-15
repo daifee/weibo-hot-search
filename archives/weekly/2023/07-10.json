@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689398288076,
+  "endTime": 1689399325899,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -3635,6 +3635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 658016,
+      "num": 658016,
+      "word": "父亲想让被救女儿认邻居干爸",
+      "onboard_time": 1689393751,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656441,
       "num": 358096,
       "word": "医生建议空调最好调到26℃",
@@ -3979,6 +3987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608751,
+      "num": 301143,
+      "word": "35岁已婚对25岁未婚的建议",
+      "onboard_time": 1689399031,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 608189,
       "num": 330217,
       "word": "封神第一部美术场景特辑",
@@ -4009,14 +4025,6 @@
       "onboard_time": 1689149374,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 602417,
-      "num": 602417,
-      "word": "父亲想让被救女儿认邻居干爸",
-      "onboard_time": 1689393751,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601269,
@@ -4851,6 +4859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 518541,
+      "num": 507284,
+      "word": "种地吧送别小羊晴天",
+      "onboard_time": 1689398008,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518384,
       "num": 366921,
       "word": "李玟告别式日期",
@@ -5099,6 +5115,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 494694,
+      "num": 494694,
+      "word": "魏大勋分生日蛋糕",
+      "onboard_time": 1689395795,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 494581,
       "num": 449957,
       "word": "广东一女子耳膜被男朋友吻裂",
@@ -5168,6 +5192,14 @@
       "word": "杨紫把长相思加入代表作",
       "onboard_time": 1689383611,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 489724,
+      "num": 489724,
+      "word": "花间令",
+      "onboard_time": 1689397592,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -5297,6 +5329,14 @@
       "onboard_time": 1689307475,
       "rank": 23,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 482670,
+      "num": 482670,
+      "word": "蒋敦豪 一定要再见啊晴天",
+      "onboard_time": 1689398250,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 480998,
@@ -5531,6 +5571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 465744,
+      "num": 465744,
+      "word": "奔跑吧泰国篇好看吗",
+      "onboard_time": 1689396870,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465658,
       "num": 916016,
       "word": "朋友邀约玩上车却直奔缅甸",
@@ -5571,6 +5619,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 464299,
+      "num": 463276,
+      "word": "迪丽热巴21岁到31岁荧幕变化",
+      "onboard_time": 1689396032,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 464068,
       "num": 464068,
       "word": "徐明浩直播",
@@ -5585,14 +5641,6 @@
       "onboard_time": 1688946928,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 463276,
-      "num": 463276,
-      "word": "迪丽热巴21岁到31岁荧幕变化",
-      "onboard_time": 1689396032,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 462079,
@@ -5819,12 +5867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 443411,
-      "num": 303814,
-      "word": "种地吧送别小羊晴天",
-      "onboard_time": 1689398008,
+      "raw_hot": 444140,
+      "num": 375304,
+      "word": "花35元买半个西瓜果切拼完没有心",
+      "onboard_time": 1689395252,
       "rank": 30,
-      "category": "综艺"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442976,
@@ -5921,6 +5969,14 @@
       "onboard_time": 1689174098,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 437909,
+      "num": 348382,
+      "word": "最好不要把工作当成天大的事",
+      "onboard_time": 1689397112,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 437524,
@@ -6195,14 +6251,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 426569,
-      "num": 426569,
-      "word": "魏大勋分生日蛋糕",
-      "onboard_time": 1689395795,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 425910,
       "num": 425910,
       "word": "洛子商坏死了",
@@ -6377,14 +6425,6 @@
       "onboard_time": 1689048577,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 417545,
-      "num": 375304,
-      "word": "花35元买半个西瓜果切拼完没有心",
-      "onboard_time": 1689395252,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417528,
@@ -6907,6 +6947,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 383282,
+      "num": 348070,
+      "word": "喝茉酸奶5天胖了6斤",
+      "onboard_time": 1689399031,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 383262,
       "num": 367580,
       "word": "中层领导在公司的地位",
@@ -7033,14 +7081,6 @@
       "onboard_time": 1688967395,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378063,
-      "num": 372687,
-      "word": "花间令",
-      "onboard_time": 1689397592,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 377791,
@@ -7219,6 +7259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365021,
+      "num": 365021,
+      "word": "福宝吃醋了",
+      "onboard_time": 1689398072,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364686,
       "num": 364686,
       "word": "热烈",
@@ -7368,14 +7416,6 @@
       "word": "你好星期六",
       "onboard_time": 1689131857,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 356426,
-      "num": 356426,
-      "word": "奔跑吧泰国篇好看吗",
-      "onboard_time": 1689396870,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -8259,14 +8299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307688,
-      "num": 307688,
-      "word": "最好不要把工作当成天大的事",
-      "onboard_time": 1689397112,
-      "rank": 28,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 307563,
       "num": 307563,
       "word": "这才是导师想看的开题报告",
@@ -8459,6 +8491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299878,
+      "num": 299878,
+      "word": "无期迷途",
+      "onboard_time": 1689398371,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299333,
       "num": 311700,
       "word": "男子为减肥每天一顿半年暴瘦30斤",
@@ -8513,6 +8553,14 @@
       "onboard_time": 1689117685,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296843,
+      "num": 296843,
+      "word": "周深郑恺是有心事吗",
+      "onboard_time": 1689396631,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 296694,
@@ -8777,14 +8825,6 @@
       "onboard_time": 1688896592,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289805,
-      "num": 289805,
-      "word": "周深郑恺是有心事吗",
-      "onboard_time": 1689396631,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 289637,
@@ -9187,6 +9227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273952,
+      "num": 273952,
+      "word": "杨洋演过的大IP",
+      "onboard_time": 1689396032,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273840,
       "num": 291645,
       "word": "奶奶带娃游乐场玩怕亏本玩足12小时",
@@ -9289,14 +9337,6 @@
       "onboard_time": 1689044254,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270898,
-      "num": 257514,
-      "word": "杨洋演过的大IP",
-      "onboard_time": 1689396032,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 270874,
@@ -10123,6 +10163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238672,
+      "num": 238672,
+      "word": "范丞丞跟空气玩儿",
+      "onboard_time": 1689397410,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238287,
       "num": 238287,
       "word": "所有的职场PUA都可以反着用",
@@ -10579,14 +10627,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 222262,
-      "num": 222262,
-      "word": "范丞丞跟空气玩儿",
-      "onboard_time": 1689397410,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222208,
       "num": 222208,
       "word": "芒禾音乐节开售",
@@ -11017,6 +11057,14 @@
       "onboard_time": 1689395490,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212245,
+      "num": 212245,
+      "word": "刘诗诗堕仙妆",
+      "onboard_time": 1689399210,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212158,
@@ -11875,6 +11923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188355,
+      "num": 188355,
+      "word": "王飞龙张家齐混双十米台夺冠",
+      "onboard_time": 1689399091,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188310,
       "num": 188310,
       "word": "订书针的正确收纳方式",
@@ -12081,14 +12137,6 @@
       "onboard_time": 1688926036,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182624,
-      "num": 197264,
-      "word": "蒋敦豪 一定要再见啊晴天",
-      "onboard_time": 1689398250,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 182242,
