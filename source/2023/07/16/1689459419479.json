@@ -1,0 +1,410 @@
+{
+  "runTime": 1689459419479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 157802,
+        "num": 157802,
+        "word": "杨澄出轨",
+        "onboard_time": 1689431199,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156625,
+        "num": 156625,
+        "word": "抓知了卖260元一斤10天赚万元",
+        "onboard_time": 1689433178,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 12969,
+        "num": 132455,
+        "word": "回顾2023那些振奋人心的科技新突破",
+        "onboard_time": 1689426875,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 120056,
+        "num": 120056,
+        "word": "银行副行长旷工补贴家用被开除",
+        "onboard_time": 1689431438,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 102985,
+        "num": 102985,
+        "word": "学生被罚站中暑去世实为吃早餐晕倒",
+        "onboard_time": 1689423331,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102110,
+        "num": 102110,
+        "word": "杨洋王楚然手贴手戳酒窝",
+        "onboard_time": 1689437132,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88727,
+        "num": 88727,
+        "word": "新娘回应0彩礼用52辆轮椅迎亲",
+        "onboard_time": 1689427056,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93699,
+        "num": 88579,
+        "word": "孟宴臣录完开场舞就走了",
+        "onboard_time": 1689433477,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88360,
+        "num": 88360,
+        "word": "魏大勋曾想帮尼坤澄清争议",
+        "onboard_time": 1689431075,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87040,
+        "num": 87040,
+        "word": "谢娜上一次是回归这次是告别",
+        "onboard_time": 1689432276,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237949,
+        "num": 81802,
+        "word": "致死率90%的猫冠状病毒或已扩散",
+        "onboard_time": 1689423871,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133430,
+        "num": 76066,
+        "word": "谢霆锋带大儿子澳洲度假",
+        "onboard_time": 1689429874,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70105,
+        "num": 70105,
+        "word": "迪丽热巴又露背了",
+        "onboard_time": 1689436113,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66473,
+        "num": 66473,
+        "word": "茉酸奶回应被改名",
+        "onboard_time": 1689429214,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62801,
+        "num": 62801,
+        "word": "何炅谢娜哭着拥抱",
+        "onboard_time": 1689426033,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62585,
+        "num": 62585,
+        "word": "小男孩一本正经对毛巾说话绷不住了",
+        "onboard_time": 1689435514,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60901,
+        "num": 60901,
+        "word": "杨超越去了张杰的演唱会",
+        "onboard_time": 1689436294,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60259,
+        "num": 60259,
+        "word": "演技好的待爆演员",
+        "onboard_time": 1689458353,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56045,
+        "num": 56045,
+        "word": "女子买鲍师傅糕点吃出黑毛",
+        "onboard_time": 1689422193,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51251,
+        "num": 51251,
+        "word": "小鸟站荷花上屁帘还一动一动的",
+        "onboard_time": 1689455832,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139603,
+        "num": 51012,
+        "word": "吃凉皮中毒身亡当事人家属发声",
+        "onboard_time": 1689436537,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85577,
+        "num": 50780,
+        "word": "3人造谣女大学生游西藏被割舌性侵",
+        "onboard_time": 1689432040,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77925,
+        "num": 50085,
+        "word": "拍身份证最好不要戴隐形眼镜",
+        "onboard_time": 1689422193,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73499,
+        "num": 49919,
+        "word": "女童内裤印拼音被质疑擦边",
+        "onboard_time": 1689425973,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58066,
+        "num": 49423,
+        "word": "孟美岐认为自己没有火过",
+        "onboard_time": 1689420630,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54960,
+        "num": 49070,
+        "word": "35岁已婚对25岁未婚的建议",
+        "onboard_time": 1689399031,
+        "rank": 25,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 48882,
+        "num": 48882,
+        "word": "安乐传和山河令是一个导演",
+        "onboard_time": 1689431199,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45876,
+        "num": 45876,
+        "word": "同事的营养全被头发吸收了",
+        "onboard_time": 1689420572,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45530,
+        "num": 45530,
+        "word": "时影失忆了",
+        "onboard_time": 1689448094,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43180,
+        "num": 43180,
+        "word": "宋轶为什么这么有底气",
+        "onboard_time": 1689431917,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38479,
+        "num": 38479,
+        "word": "新能源老太太",
+        "onboard_time": 1689432276,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37228,
+        "num": 37228,
+        "word": "最近可以先暂时关闭朋友圈",
+        "onboard_time": 1689418773,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36150,
+        "num": 36150,
+        "word": "男孩车祸被撞断头后接回头部",
+        "onboard_time": 1689417751,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36109,
+        "num": 36109,
+        "word": "小爱去看鹿晗演唱会",
+        "onboard_time": 1689442760,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33947,
+        "num": 36107,
+        "word": "魏大勋那鱼完了名场面",
+        "onboard_time": 1689424173,
+        "rank": 34,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 32929,
+        "num": 36104,
+        "word": "迪丽热巴龚俊认证安居乐烨",
+        "onboard_time": 1689430779,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30940,
+        "num": 36103,
+        "word": "当我把头部比例调成刘亦菲",
+        "onboard_time": 1689422193,
+        "rank": 36,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 30193,
+        "num": 36101,
+        "word": "女生宿舍一般不会老是聊男生",
+        "onboard_time": 1689422372,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 29526,
+        "num": 36098,
+        "word": "鹿晗说芦苇天下第一好",
+        "onboard_time": 1689428496,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29026,
+        "num": 36095,
+        "word": "张杰演唱会还有多少惊喜",
+        "onboard_time": 1689434739,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28138,
+        "num": 36092,
+        "word": "魏大勋爸爸给猪打针打到魏大勋屁股上了",
+        "onboard_time": 1689412049,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 27864,
+        "num": 36090,
+        "word": "贾巴尔",
+        "onboard_time": 1689434017,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26755,
+        "num": 36086,
+        "word": "赵磊 爱的消亡史不涉及对任何人的侵犯",
+        "onboard_time": 1689426516,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26112,
+        "num": 36085,
+        "word": "敖子逸张艺凡还能回去公司吗",
+        "onboard_time": 1689444020,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25506,
+        "num": 36079,
+        "word": "李白 郑云龙",
+        "onboard_time": 1689438449,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25460,
+        "num": 36079,
+        "word": "深入贯彻党中央关于网络强国的重要思想",
+        "onboard_time": 1689437671,
+        "rank": 45,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 22826,
+        "num": 36076,
+        "word": "奔跑吧后期回应",
+        "onboard_time": 1689400351,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20647,
+        "num": 36073,
+        "word": "茉酸奶",
+        "onboard_time": 1689415051,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19808,
+        "num": 36070,
+        "word": "陈绮贞是刘若英今晚演唱会嘉宾",
+        "onboard_time": 1689440724,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16689,
+        "num": 36066,
+        "word": "重庆茉莉冰豆浆",
+        "onboard_time": 1689426875,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推动网信事业高质量发展#"
+    }
+  }
+}
