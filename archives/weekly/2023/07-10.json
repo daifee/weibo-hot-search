@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689435233320,
+  "endTime": 1689438184744,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -2763,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867264,
+      "num": 272135,
+      "word": "吃凉皮中毒身亡当事人家属发声",
+      "onboard_time": 1689436537,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 866389,
       "num": 866389,
       "word": "9岁男孩被17楼坠下男子砸入ICU",
@@ -3169,6 +3177,14 @@
       "onboard_time": 1689116661,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780880,
+      "num": 780880,
+      "word": "孟宴臣录完开场舞就走了",
+      "onboard_time": 1689433477,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 777697,
@@ -4051,6 +4067,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 642000,
+      "num": 411232,
+      "word": "迪丽热巴又露背了",
+      "onboard_time": 1689436113,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641851,
       "num": 527362,
       "word": "JDG换人",
@@ -4115,6 +4139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638218,
+      "num": 638218,
+      "word": "茉酸奶回应被改名",
+      "onboard_time": 1689429214,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638185,
       "num": 638185,
       "word": "张一山也需要别人演他小时候了",
@@ -4137,6 +4169,14 @@
       "onboard_time": 1689432276,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 634723,
+      "num": 634723,
+      "word": "抓知了卖260元一斤10天赚万元",
+      "onboard_time": 1689433178,
+      "rank": 28,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 634195,
@@ -4339,6 +4379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611627,
+      "num": 408162,
+      "word": "杨洋王楚然手贴手戳酒窝",
+      "onboard_time": 1689437132,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 609683,
       "num": 609683,
       "word": "黄渤大鹏五月天演唱会嘉宾",
@@ -4473,14 +4521,6 @@
       "onboard_time": 1689073833,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 595448,
-      "num": 321455,
-      "word": "抓知了卖260元一斤10天赚万元",
-      "onboard_time": 1689433178,
-      "rank": 28,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 594801,
@@ -5291,14 +5331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 519436,
-      "num": 340030,
-      "word": "孟宴臣录完开场舞就走了",
-      "onboard_time": 1689433477,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 519407,
       "num": 519407,
       "word": "杨幂摩登猫眼妆",
@@ -5337,14 +5369,6 @@
       "onboard_time": 1689254616,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 513764,
-      "num": 513764,
-      "word": "茉酸奶回应被改名",
-      "onboard_time": 1689429214,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 512852,
@@ -5569,6 +5593,14 @@
       "onboard_time": 1689315456,
       "rank": 27,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 494751,
+      "num": 270750,
+      "word": "杨超越去了张杰的演唱会",
+      "onboard_time": 1689436294,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 494694,
@@ -7155,6 +7187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405332,
+      "num": 405332,
+      "word": "新能源老太太",
+      "onboard_time": 1689432276,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 404930,
       "num": 404930,
       "word": "白敬亭这次不心疼他的鞋了",
@@ -8691,14 +8731,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 322320,
-      "num": 322320,
-      "word": "新能源老太太",
-      "onboard_time": 1689432276,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 322288,
       "num": 322288,
       "word": "王鹤棣跳舞是F班",
@@ -9099,6 +9131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304352,
+      "num": 304352,
+      "word": "贾巴尔",
+      "onboard_time": 1689434017,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304049,
       "num": 280234,
       "word": "范丞丞新浪扫楼",
@@ -9121,14 +9161,6 @@
       "onboard_time": 1689318756,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303761,
-      "num": 303761,
-      "word": "贾巴尔",
-      "onboard_time": 1689434017,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 303694,
@@ -9345,6 +9377,14 @@
       "onboard_time": 1689396631,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296719,
+      "num": 267079,
+      "word": "张杰演唱会还有多少惊喜",
+      "onboard_time": 1689434739,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 296694,
@@ -11185,14 +11225,6 @@
       "onboard_time": 1688968533,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234316,
-      "num": 234316,
-      "word": "张杰演唱会还有多少惊喜",
-      "onboard_time": 1689434739,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 234154,
@@ -13787,6 +13819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154697,
+      "num": 154697,
+      "word": "小男孩一本正经对毛巾说话绷不住了",
+      "onboard_time": 1689435514,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154291,
       "num": 311669,
       "word": "文咏珊说演疯批美人太爽了",
@@ -14579,6 +14619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69522,
+      "num": 154531,
+      "word": "深入贯彻党中央关于网络强国的重要思想",
+      "onboard_time": 1689437671,
+      "rank": 49,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 69040,
       "num": 1018286,
       "word": "高温下坚守的人",
@@ -14897,6 +14945,14 @@
       "onboard_time": 1689360616,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23582,
+      "num": 814881,
+      "word": "回顾2023那些振奋人心的科技新突破",
+      "onboard_time": 1689426875,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 23150,
