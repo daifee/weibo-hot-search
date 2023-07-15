@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689419698493,
+  "endTime": 1689420827377,
   "band_list": [
     {
       "raw_hot": 3115262,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 2085707,
-      "num": 545214,
+      "num": 798498,
       "word": "魏大勋爸爸给猪打针打到魏大勋屁股上了",
       "onboard_time": 1689412049,
       "rank": 10,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1796376,
+      "num": 1796376,
+      "word": "茉酸奶",
+      "onboard_time": 1689415051,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1780184,
@@ -83,8 +91,16 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 1516731,
+      "num": 1516731,
+      "word": "将门嫡女",
+      "onboard_time": 1689419130,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1440949,
-      "num": 538576,
+      "num": 669003,
       "word": "Makiyo小金离婚",
       "onboard_time": 1689414092,
       "rank": 11,
@@ -121,14 +137,6 @@
       "onboard_time": 1689404428,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1306802,
-      "num": 1306802,
-      "word": "茉酸奶",
-      "onboard_time": 1689415051,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1238213,
@@ -219,6 +227,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 945670,
+      "num": 945670,
+      "word": "TFBOYS演唱会票价已被炒到四万多",
+      "onboard_time": 1689418951,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 928116,
+      "num": 928116,
+      "word": "不雅信息事件单位称系因病毒入侵",
+      "onboard_time": 1689416671,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 914805,
       "num": 283211,
       "word": "男子爆料岳母总和妻子一起睡主卧",
@@ -305,14 +329,6 @@
       "onboard_time": 1689389496,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 824975,
-      "num": 824975,
-      "word": "不雅信息事件单位称系因病毒入侵",
-      "onboard_time": 1689416671,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 823020,
@@ -603,16 +619,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 525979,
-      "num": 525979,
-      "word": "将门嫡女",
-      "onboard_time": 1689419130,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 524413,
-      "num": 279177,
+      "num": 281432,
       "word": "黄子韬徐艺洋互相串门",
       "onboard_time": 1689414571,
       "rank": 22,
@@ -625,14 +633,6 @@
       "onboard_time": 1689398008,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 515422,
-      "num": 515422,
-      "word": "TFBOYS演唱会票价已被炒到四万多",
-      "onboard_time": 1689418951,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 511563,
@@ -836,7 +836,7 @@
     },
     {
       "raw_hot": 420120,
-      "num": 266020,
+      "num": 282327,
       "word": "暑假22个孙子外孙一天吃25斤大米",
       "onboard_time": 1689417751,
       "rank": 25,
@@ -873,6 +873,14 @@
       "onboard_time": 1689380246,
       "rank": 8,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 415678,
+      "num": 254721,
+      "word": "同事的营养全被头发吸收了",
+      "onboard_time": 1689420572,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 413863,
@@ -1131,12 +1139,28 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 327616,
+      "num": 253372,
+      "word": "印度夫妻因欠网贷杀子后自杀",
+      "onboard_time": 1689419191,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325678,
       "num": 325678,
       "word": "河南特岗",
       "onboard_time": 1689393451,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 322668,
+      "num": 282095,
+      "word": "金晨发了个二维码",
+      "onboard_time": 1689419011,
+      "rank": 33,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 321098,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1689347920,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 310729,
+      "num": 281594,
+      "word": "EXO还是分K和m两队",
+      "onboard_time": 1689420392,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 308250,
@@ -1483,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239956,
+      "num": 239956,
+      "word": "当猫咪第一次发现尾巴的存在",
+      "onboard_time": 1689419970,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239026,
       "num": 239026,
       "word": "看数字就知道自己是散光还是近视",
@@ -1579,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230017,
-      "num": 230017,
-      "word": "印度夫妻因欠网贷杀子后自杀",
-      "onboard_time": 1689419191,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228394,
       "num": 228394,
       "word": "湖南婆婆的催生方式有多绝",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1689389791,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226311,
-      "num": 226311,
-      "word": "金晨发了个二维码",
-      "onboard_time": 1689419011,
-      "rank": 33,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 226192,
@@ -1707,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214633,
+      "num": 214633,
+      "word": "孟美岐认为自己没有火过",
+      "onboard_time": 1689420630,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212786,
       "num": 228628,
       "word": "南京同曦 李云开",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1689379225,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195423,
+      "num": 213008,
+      "word": "王鹤棣西安",
+      "onboard_time": 1689417450,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 195197,
@@ -1971,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168614,
-      "num": 213008,
-      "word": "王鹤棣西安",
-      "onboard_time": 1689417450,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168572,
       "num": 168572,
       "word": "小朋友幼儿园放学见到妈妈的第一句话",
@@ -2003,7 +2035,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163946,
+      "raw_hot": 164833,
       "num": 213009,
       "word": "老板电器股东李天责出道",
       "onboard_time": 1689417391,
@@ -2035,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140303,
+      "num": 177922,
+      "word": "马龙3比2莫雷高德",
+      "onboard_time": 1689420811,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139948,
       "num": 263655,
       "word": "那时候把书堆的高高 其实是挡住了自己的未来",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1689410131,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130848,
+      "num": 930354,
+      "word": "想看福宝跟两个妹妹见面吗",
+      "onboard_time": 1689419671,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121501,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1689359776,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 31315,
-      "num": 237584,
-      "word": "想看福宝跟两个妹妹见面吗",
-      "onboard_time": 1689419671,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27414,

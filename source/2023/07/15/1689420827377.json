@@ -1,0 +1,410 @@
+{
+  "runTime": 1689420827377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796376,
+        "num": 1796376,
+        "word": "茉酸奶",
+        "onboard_time": 1689415051,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538139,
+        "num": 1617556,
+        "word": "福宝吃醋了",
+        "onboard_time": 1689398072,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56257,
+        "num": 1541389,
+        "word": "中国式现代化县域实践大调研",
+        "onboard_time": 1689414450,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1516731,
+        "num": 1516731,
+        "word": "将门嫡女",
+        "onboard_time": 1689419130,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346508,
+        "num": 996715,
+        "word": "村庄靠养知了猴年入超400万元",
+        "onboard_time": 1689414628,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945670,
+        "num": 945670,
+        "word": "TFBOYS演唱会票价已被炒到四万多",
+        "onboard_time": 1689418951,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130848,
+        "num": 930354,
+        "word": "想看福宝跟两个妹妹见面吗",
+        "onboard_time": 1689419671,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928116,
+        "num": 928116,
+        "word": "不雅信息事件单位称系因病毒入侵",
+        "onboard_time": 1689416671,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888508,
+        "num": 888508,
+        "word": "魏大勋孟宴臣独爆",
+        "onboard_time": 1689413250,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 798566,
+        "num": 798566,
+        "word": "Minnie只说了三个字",
+        "onboard_time": 1689417569,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1204834,
+        "num": 798498,
+        "word": "魏大勋爸爸给猪打针打到魏大勋屁股上了",
+        "onboard_time": 1689412049,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 669003,
+        "num": 669003,
+        "word": "Makiyo小金离婚",
+        "onboard_time": 1689414092,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658874,
+        "num": 658874,
+        "word": "奔跑吧后期回应",
+        "onboard_time": 1689400351,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463088,
+        "num": 463088,
+        "word": "晴天很短但很好的一生",
+        "onboard_time": 1689411869,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348464,
+        "num": 348464,
+        "word": "女子称高铁上进入餐车被要求交100元",
+        "onboard_time": 1689414030,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439987,
+        "num": 332078,
+        "word": "暑假影视综已经有三爆了",
+        "onboard_time": 1689404428,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403319,
+        "num": 311756,
+        "word": "开始担心TFBOYS演唱会门票了",
+        "onboard_time": 1689412290,
+        "rank": 16,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 284418,
+        "num": 284418,
+        "word": "老人买门票回自己家忍不住落泪",
+        "onboard_time": 1689409531,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 221520,
+        "num": 284087,
+        "word": "婚纱照一下子就更生动了",
+        "onboard_time": 1689403891,
+        "rank": 18,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 196290,
+        "num": 283940,
+        "word": "父亲想让被救女儿认邻居干爸",
+        "onboard_time": 1689393751,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611513,
+        "num": 283580,
+        "word": "男孩车祸被撞断头后接回头部",
+        "onboard_time": 1689417751,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502866,
+        "num": 283276,
+        "word": "35岁已婚对25岁未婚的建议",
+        "onboard_time": 1689399031,
+        "rank": 21,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 289045,
+        "num": 282935,
+        "word": "刘诗诗堕仙妆",
+        "onboard_time": 1689399210,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 445133,
+        "num": 282478,
+        "word": "最近可以先暂时关闭朋友圈",
+        "onboard_time": 1689418773,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385370,
+        "num": 282327,
+        "word": "暑假22个孙子外孙一天吃25斤大米",
+        "onboard_time": 1689417751,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322668,
+        "num": 282095,
+        "word": "金晨发了个二维码",
+        "onboard_time": 1689419011,
+        "rank": 25,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 310729,
+        "num": 281594,
+        "word": "EXO还是分K和m两队",
+        "onboard_time": 1689420392,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281432,
+        "num": 281432,
+        "word": "黄子韬徐艺洋互相串门",
+        "onboard_time": 1689414571,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258386,
+        "num": 258386,
+        "word": "Jennie称舞台没有划水",
+        "onboard_time": 1689399330,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256480,
+        "num": 256480,
+        "word": "猴痘感染后会留下永久疤痕吗",
+        "onboard_time": 1689410430,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415678,
+        "num": 254721,
+        "word": "同事的营养全被头发吸收了",
+        "onboard_time": 1689420572,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327616,
+        "num": 253372,
+        "word": "印度夫妻因欠网贷杀子后自杀",
+        "onboard_time": 1689419191,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239956,
+        "num": 239956,
+        "word": "当猫咪第一次发现尾巴的存在",
+        "onboard_time": 1689419970,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218201,
+        "num": 218201,
+        "word": "迪丽热巴西安",
+        "onboard_time": 1689405511,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216856,
+        "num": 216856,
+        "word": "张杰演唱会",
+        "onboard_time": 1689416553,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214633,
+        "num": 214633,
+        "word": "孟美岐认为自己没有火过",
+        "onboard_time": 1689420630,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195423,
+        "num": 195423,
+        "word": "王鹤棣西安",
+        "onboard_time": 1689417450,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191661,
+        "num": 191661,
+        "word": "喝茉酸奶5天胖了6斤",
+        "onboard_time": 1689399031,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191555,
+        "num": 191555,
+        "word": "台风",
+        "onboard_time": 1689407490,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187677,
+        "num": 187677,
+        "word": "工作室能不能给肖战P真点",
+        "onboard_time": 1689408989,
+        "rank": 39,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 187386,
+        "num": 187386,
+        "word": "消失的十一层",
+        "onboard_time": 1689416553,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186996,
+        "num": 186996,
+        "word": "如何看待井川里予多次回应",
+        "onboard_time": 1689414691,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 186169,
+        "num": 186169,
+        "word": "看数字就知道自己是散光还是近视",
+        "onboard_time": 1689417332,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185982,
+        "num": 185982,
+        "word": "挂不到专家号可以挂新医生的号",
+        "onboard_time": 1689413370,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180293,
+        "num": 180293,
+        "word": "布朗将签NBA历史最大合同",
+        "onboard_time": 1689409110,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 177945,
+        "num": 177945,
+        "word": "被天气热到狗里狗气的猫咪",
+        "onboard_time": 1689419610,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164833,
+        "num": 177940,
+        "word": "老板电器股东李天责出道",
+        "onboard_time": 1689417391,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161766,
+        "num": 177933,
+        "word": "王鹤棣 长安三万里值得一看",
+        "onboard_time": 1689412649,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147556,
+        "num": 177932,
+        "word": "原来酒店取电不一定要房卡",
+        "onboard_time": 1689407967,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140303,
+        "num": 177922,
+        "word": "马龙3比2莫雷高德",
+        "onboard_time": 1689420811,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络空间命运共同体#"
+    }
+  }
+}
