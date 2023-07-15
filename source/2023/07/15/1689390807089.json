@@ -1,0 +1,410 @@
+{
+  "runTime": 1689390807089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2822312,
+        "num": 2822312,
+        "word": "多地烟草局要求直系三代血脉不得应聘",
+        "onboard_time": 1689384629,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1194976,
+        "num": 1194976,
+        "word": "北京报告45例猴痘确诊病例",
+        "onboard_time": 1689387270,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29250,
+        "num": 1152011,
+        "word": "探访杭州亚残运会场馆",
+        "onboard_time": 1689384029,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117423,
+        "num": 1117423,
+        "word": "官方回应女子吃凉皮中毒身亡",
+        "onboard_time": 1689385470,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960374,
+        "num": 960374,
+        "word": "李莎旻子居然写了20首歌",
+        "onboard_time": 1689387210,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 773604,
+        "num": 773604,
+        "word": "小说写245章却被盗版网站更新1369章",
+        "onboard_time": 1689381326,
+        "rank": 5,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 700595,
+        "num": 700595,
+        "word": "陈国豪当选状元",
+        "onboard_time": 1689389496,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681718,
+        "num": 681718,
+        "word": "降温后淄博烧烤行业现状",
+        "onboard_time": 1689384571,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 598246,
+        "num": 598246,
+        "word": "你会付费买喜欢的小说吗",
+        "onboard_time": 1689385470,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 582382,
+        "num": 582382,
+        "word": "音银取消EXO粉丝录制资格",
+        "onboard_time": 1689386070,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560743,
+        "num": 560743,
+        "word": "18岁男孩被同学骗缅甸剃光头眼角缝针",
+        "onboard_time": 1689387389,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540900,
+        "num": 540900,
+        "word": "奔跑吧 原地消失术",
+        "onboard_time": 1689338621,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476187,
+        "num": 476187,
+        "word": "向佐郭碧婷带娃日记vlog",
+        "onboard_time": 1689384629,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470805,
+        "num": 470805,
+        "word": "代拍三年前就拍魏大勋",
+        "onboard_time": 1689376521,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407777,
+        "num": 407777,
+        "word": "CBA",
+        "onboard_time": 1689387452,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386357,
+        "num": 386357,
+        "word": "肖战表演无实物吃羊腿",
+        "onboard_time": 1689386070,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336486,
+        "num": 336486,
+        "word": "米卡cos白展堂",
+        "onboard_time": 1689385711,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323831,
+        "num": 323831,
+        "word": "奔跑吧没范丞丞不行",
+        "onboard_time": 1689383970,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317530,
+        "num": 317530,
+        "word": "CBA选秀",
+        "onboard_time": 1689389669,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304109,
+        "num": 304109,
+        "word": "杨紫把长相思加入代表作",
+        "onboard_time": 1689383611,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 594770,
+        "num": 304033,
+        "word": "上海00后为纸片人吃席",
+        "onboard_time": 1689390033,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590884,
+        "num": 303975,
+        "word": "苹果回应iPhone高温季发烫",
+        "onboard_time": 1689388293,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 544489,
+        "num": 303962,
+        "word": "日本男子活活烫死女友3岁孩子",
+        "onboard_time": 1689381209,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303918,
+        "num": 303918,
+        "word": "韩烨为什么一定要帝梓元做太子妃",
+        "onboard_time": 1689390094,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364082,
+        "num": 302389,
+        "word": "猴痘",
+        "onboard_time": 1689389669,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290535,
+        "num": 290535,
+        "word": "郑钧对生活已经厌弃了",
+        "onboard_time": 1689387571,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282639,
+        "num": 282639,
+        "word": "魏大勋对霸总的理解",
+        "onboard_time": 1689390094,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281513,
+        "num": 281513,
+        "word": "迪丽热巴机场露背了",
+        "onboard_time": 1689381629,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 281034,
+        "num": 281034,
+        "word": "长相思",
+        "onboard_time": 1689389011,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221708,
+        "num": 277098,
+        "word": "被拐26年她一直记得人贩子的脸",
+        "onboard_time": 1689388531,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518930,
+        "num": 273359,
+        "word": "男子爆料岳母总和妻子一起睡主卧",
+        "onboard_time": 1689385229,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 685209,
+        "num": 261987,
+        "word": "孟宴臣这条线居然埋这么深",
+        "onboard_time": 1689379345,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503695,
+        "num": 257278,
+        "word": "女子应聘小学行政跟岗10多天被辞退",
+        "onboard_time": 1689389426,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 255212,
+        "num": 255212,
+        "word": "龚俊最有cp感的女主",
+        "onboard_time": 1689390452,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253079,
+        "num": 253079,
+        "word": "实习生的工位vs我的工位",
+        "onboard_time": 1689387030,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252643,
+        "num": 252643,
+        "word": "魏大勋可以把校服布条摘下来了",
+        "onboard_time": 1689379464,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251953,
+        "num": 251953,
+        "word": "李白唯一存世真迹原产地在河南",
+        "onboard_time": 1689384210,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227875,
+        "num": 227875,
+        "word": "属于易烊千玺和粉丝的浪漫",
+        "onboard_time": 1689384809,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222548,
+        "num": 222548,
+        "word": "王鹤棣撕名牌毫无体验感",
+        "onboard_time": 1689383551,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215189,
+        "num": 215189,
+        "word": "双鱼座很容易被困在回忆里",
+        "onboard_time": 1689380246,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 212219,
+        "num": 212219,
+        "word": "谭松韵问何炅身边有靠谱的男士吗",
+        "onboard_time": 1689378264,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211273,
+        "num": 211273,
+        "word": "福建男篮选中邹阳",
+        "onboard_time": 1689389791,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211011,
+        "num": 211011,
+        "word": "蔡依林说我要保护一下我的孩子们",
+        "onboard_time": 1689378988,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204020,
+        "num": 204020,
+        "word": "Loopy 名创优品",
+        "onboard_time": 1689390751,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 201848,
+        "num": 201848,
+        "word": "河南永城疑禁售凉皮",
+        "onboard_time": 1689384692,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 191875,
+        "num": 201840,
+        "word": "奔跑吧收视率",
+        "onboard_time": 1689342942,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190490,
+        "num": 201823,
+        "word": "男子求爱被拒拼女子不雅照片发群",
+        "onboard_time": 1689386670,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 183320,
+        "num": 201802,
+        "word": "孟宴臣下楼动图",
+        "onboard_time": 1689382949,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181100,
+        "num": 201792,
+        "word": "宋雨琦米妮奔跑吧镜头好少",
+        "onboard_time": 1689378746,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171268,
+        "num": 201775,
+        "word": "唐双宁被查",
+        "onboard_time": 1689385592,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护亿万民众共同的精神家园#"
+    }
+  }
+}
