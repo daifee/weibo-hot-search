@@ -1,0 +1,410 @@
+{
+  "runTime": 1689387280335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1865257,
+        "num": 1865257,
+        "word": "多地烟草局要求直系三代血脉不得应聘",
+        "onboard_time": 1689384629,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1602387,
+        "num": 1602387,
+        "word": "小说写245章却被盗版网站更新1369章",
+        "onboard_time": 1689381326,
+        "rank": 1,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 29736,
+        "num": 1119588,
+        "word": "探访杭州亚残运会场馆",
+        "onboard_time": 1689384029,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847365,
+        "num": 847365,
+        "word": "向佐郭碧婷带娃日记vlog",
+        "onboard_time": 1689384629,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808792,
+        "num": 808792,
+        "word": "孟宴臣这条线居然埋这么深",
+        "onboard_time": 1689379345,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650673,
+        "num": 650673,
+        "word": "奔跑吧 原地消失术",
+        "onboard_time": 1689338621,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3115262,
+        "num": 639370,
+        "word": "蔡徐坤演唱会",
+        "onboard_time": 1689385409,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 595440,
+        "num": 595440,
+        "word": "王鹤棣撕名牌毫无体验感",
+        "onboard_time": 1689383551,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558119,
+        "num": 558119,
+        "word": "音银取消EXO粉丝录制资格",
+        "onboard_time": 1689386070,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435000,
+        "num": 435000,
+        "word": "河南永城疑禁售凉皮",
+        "onboard_time": 1689384692,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 988676,
+        "num": 434371,
+        "word": "代拍三年前就拍魏大勋",
+        "onboard_time": 1689376521,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 909215,
+        "num": 433755,
+        "word": "官方回应女子吃凉皮中毒身亡",
+        "onboard_time": 1689385470,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613849,
+        "num": 431709,
+        "word": "降温后淄博烧烤行业现状",
+        "onboard_time": 1689384571,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 563177,
+        "num": 430938,
+        "word": "迪丽热巴机场露背了",
+        "onboard_time": 1689381629,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 491197,
+        "num": 429558,
+        "word": "杨紫把长相思加入代表作",
+        "onboard_time": 1689383611,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429311,
+        "num": 429311,
+        "word": "奔跑吧没范丞丞不行",
+        "onboard_time": 1689383970,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413863,
+        "num": 413863,
+        "word": "蔡依林说我要保护一下我的孩子们",
+        "onboard_time": 1689378988,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307409,
+        "num": 307409,
+        "word": "男生因姐姐喜欢上跳绳打破世界纪录",
+        "onboard_time": 1689382347,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 306765,
+        "num": 306765,
+        "word": "双鱼座很容易被困在回忆里",
+        "onboard_time": 1689380246,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 287286,
+        "num": 287286,
+        "word": "网红存钱罐打不开女子无奈求助消防",
+        "onboard_time": 1689383191,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713662,
+        "num": 286808,
+        "word": "日本男子活活烫死女友3岁孩子",
+        "onboard_time": 1689381209,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400551,
+        "num": 282546,
+        "word": "校方回应教师被树砸中身亡",
+        "onboard_time": 1689377845,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390308,
+        "num": 280084,
+        "word": "米卡cos白展堂",
+        "onboard_time": 1689385711,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374443,
+        "num": 277245,
+        "word": "奔跑吧收视率",
+        "onboard_time": 1689342942,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372191,
+        "num": 275871,
+        "word": "男子求爱被拒拼女子不雅照片发群",
+        "onboard_time": 1689386670,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 357382,
+        "num": 274406,
+        "word": "魏大勋可以把校服布条摘下来了",
+        "onboard_time": 1689379464,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327655,
+        "num": 270538,
+        "word": "李白唯一存世真迹原产地在河南",
+        "onboard_time": 1689384210,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914805,
+        "num": 269406,
+        "word": "男子爆料岳母总和妻子一起睡主卧",
+        "onboard_time": 1689385229,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 325799,
+        "num": 265848,
+        "word": "肖战表演无实物吃羊腿",
+        "onboard_time": 1689386070,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264682,
+        "num": 264682,
+        "word": "这种感觉的照片还有吗",
+        "onboard_time": 1689385711,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348986,
+        "num": 264678,
+        "word": "实习生的工位vs我的工位",
+        "onboard_time": 1689387030,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321523,
+        "num": 264452,
+        "word": "肖战贾樟柯互关",
+        "onboard_time": 1689382288,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311028,
+        "num": 264325,
+        "word": "曾黎中女穿衣模板",
+        "onboard_time": 1689383551,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 289637,
+        "num": 264170,
+        "word": "属于易烊千玺和粉丝的浪漫",
+        "onboard_time": 1689384809,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274243,
+        "num": 264027,
+        "word": "孟宴臣下楼动图",
+        "onboard_time": 1689382949,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263955,
+        "num": 263955,
+        "word": "李莎旻子居然写了20首歌",
+        "onboard_time": 1689387210,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236566,
+        "num": 236566,
+        "word": "唐双宁被查",
+        "onboard_time": 1689385592,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235050,
+        "num": 235050,
+        "word": "谭松韵问何炅身边有靠谱的男士吗",
+        "onboard_time": 1689378264,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233701,
+        "num": 233701,
+        "word": "男子把小孩放进超市红枣堆玩耍",
+        "onboard_time": 1689387093,
+        "rank": 38,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 217303,
+        "num": 217303,
+        "word": "宋雨琦米妮奔跑吧镜头好少",
+        "onboard_time": 1689378746,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195311,
+        "num": 195311,
+        "word": "你会付费买喜欢的小说吗",
+        "onboard_time": 1689385470,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194608,
+        "num": 194608,
+        "word": "本轮猴痘疫情主要通过男男传播",
+        "onboard_time": 1689340723,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187979,
+        "num": 187979,
+        "word": "鹿晗翻牌邓超灯牌",
+        "onboard_time": 1689379225,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186139,
+        "num": 186139,
+        "word": "女子让外卖员摘面罩看脸否则差评",
+        "onboard_time": 1689381689,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179951,
+        "num": 179951,
+        "word": "9000元补贴能缓解独子养老焦虑吗",
+        "onboard_time": 1689366313,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178697,
+        "num": 178697,
+        "word": "00后也到了血脉觉醒的年纪",
+        "onboard_time": 1689376159,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176138,
+        "num": 176138,
+        "word": "毕业生自述大一时遭辅导员性侵",
+        "onboard_time": 1689346961,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169635,
+        "num": 169635,
+        "word": "北京报告45例猴痘确诊病例",
+        "onboard_time": 1689387270,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109834,
+        "num": 169321,
+        "word": "未定事件簿",
+        "onboard_time": 1689380187,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89226,
+        "num": 169189,
+        "word": "Xiaohu 永恩封印",
+        "onboard_time": 1689347920,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护亿万民众共同的精神家园#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689385946062,
+  "endTime": 1689387280335,
   "band_list": [
+    {
+      "raw_hot": 3115262,
+      "num": 1139378,
+      "word": "蔡徐坤演唱会",
+      "onboard_time": 1689385409,
+      "rank": 1,
+      "category": "音乐"
+    },
     {
       "raw_hot": 3088863,
       "num": 3088863,
@@ -9,6 +17,22 @@
       "onboard_time": 1689338621,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1865257,
+      "num": 1865257,
+      "word": "多地烟草局要求直系三代血脉不得应聘",
+      "onboard_time": 1689384629,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1602387,
+      "num": 1602387,
+      "word": "小说写245章却被盗版网站更新1369章",
+      "onboard_time": 1689381326,
+      "rank": 0,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 1431879,
@@ -19,28 +43,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1262590,
-      "num": 1262590,
-      "word": "小说写245章却被盗版网站更新1369章",
-      "onboard_time": 1689381326,
-      "rank": 0,
-      "category": "社会新闻,作品衍生"
-    },
-    {
       "raw_hot": 1238213,
-      "num": 368095,
+      "num": 434371,
       "word": "代拍三年前就拍魏大勋",
       "onboard_time": 1689376521,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1139378,
-      "num": 1139378,
-      "word": "蔡徐坤演唱会",
-      "onboard_time": 1689385409,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1093513,
@@ -59,20 +67,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 993107,
-      "num": 993107,
-      "word": "多地烟草局要求直系三代血脉不得应聘",
-      "onboard_time": 1689384629,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 982291,
       "num": 982291,
       "word": "孟宴臣这条线居然埋这么深",
       "onboard_time": 1689379345,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 914805,
+      "num": 277670,
+      "word": "男子爆料岳母总和妻子一起睡主卧",
+      "onboard_time": 1689385229,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 909215,
+      "num": 433755,
+      "word": "官方回应女子吃凉皮中毒身亡",
+      "onboard_time": 1689385470,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 903846,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 851704,
-      "num": 367342,
+      "num": 430938,
       "word": "迪丽热巴机场露背了",
       "onboard_time": 1689381629,
       "rank": 11,
@@ -129,14 +145,6 @@
       "onboard_time": 1689340723,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 725717,
-      "num": 277670,
-      "word": "男子爆料岳母总和妻子一起睡主卧",
-      "onboard_time": 1689385229,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 695908,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613849,
+      "num": 431709,
+      "word": "降温后淄博烧烤行业现状",
+      "onboard_time": 1689384571,
+      "rank": 31,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 585732,
       "num": 331722,
       "word": "肖战警告肖战工作室",
@@ -211,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503651,
-      "num": 276785,
-      "word": "降温后淄博烧烤行业现状",
-      "onboard_time": 1689384571,
-      "rank": 31,
-      "category": "社会新闻,美食"
+      "raw_hot": 558119,
+      "num": 558119,
+      "word": "音银取消EXO粉丝录制资格",
+      "onboard_time": 1689386070,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 499326,
@@ -224,6 +240,14 @@
       "word": "魏大勋可以把校服布条摘下来了",
       "onboard_time": 1689379464,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 491197,
+      "num": 429558,
+      "word": "杨紫把长相思加入代表作",
+      "onboard_time": 1689383611,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -244,19 +268,19 @@
     },
     {
       "raw_hot": 441181,
-      "num": 365366,
+      "num": 435000,
       "word": "河南永城疑禁售凉皮",
       "onboard_time": 1689384692,
       "rank": 13,
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 432806,
-      "num": 361908,
-      "word": "杨紫把长相思加入代表作",
-      "onboard_time": 1689383611,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 429311,
+      "num": 429311,
+      "word": "奔跑吧没范丞丞不行",
+      "onboard_time": 1689383970,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 421557,
@@ -283,6 +307,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 413863,
+      "num": 413863,
+      "word": "蔡依林说我要保护一下我的孩子们",
+      "onboard_time": 1689378988,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 413348,
       "num": 358163,
       "word": "肖战贾樟柯互关",
@@ -305,14 +337,6 @@
       "onboard_time": 1689336217,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 403331,
-      "num": 357884,
-      "word": "蔡依林说我要保护一下我的孩子们",
-      "onboard_time": 1689378988,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 399735,
@@ -339,12 +363,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 384047,
-      "num": 361428,
-      "word": "官方回应女子吃凉皮中毒身亡",
-      "onboard_time": 1689385470,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 390308,
+      "num": 280084,
+      "word": "米卡cos白展堂",
+      "onboard_time": 1689385711,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 377781,
@@ -355,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369693,
-      "num": 301443,
-      "word": "奔跑吧没范丞丞不行",
-      "onboard_time": 1689383970,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 372191,
+      "num": 275871,
+      "word": "男子求爱被拒拼女子不雅照片发群",
+      "onboard_time": 1689386670,
+      "rank": 24,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 368639,
@@ -401,6 +425,22 @@
       "onboard_time": 1689341863,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348986,
+      "num": 264678,
+      "word": "实习生的工位vs我的工位",
+      "onboard_time": 1689387030,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 325799,
+      "num": 265848,
+      "word": "肖战表演无实物吃羊腿",
+      "onboard_time": 1689386070,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 321098,
@@ -491,28 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289637,
+      "num": 274053,
+      "word": "属于易烊千玺和粉丝的浪漫",
+      "onboard_time": 1689384809,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281451,
       "num": 309690,
       "word": "左然",
       "onboard_time": 1689348520,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278393,
-      "num": 278393,
-      "word": "米卡cos白展堂",
-      "onboard_time": 1689385711,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 274053,
-      "num": 274053,
-      "word": "属于易烊千玺和粉丝的浪漫",
-      "onboard_time": 1689384809,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 272722,
@@ -536,6 +568,14 @@
       "word": "范丞丞发奔跑吧花絮照了",
       "onboard_time": 1689339461,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 263955,
+      "num": 263955,
+      "word": "李莎旻子居然写了20首歌",
+      "onboard_time": 1689387210,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -585,6 +625,14 @@
       "onboard_time": 1689350796,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233701,
+      "num": 233701,
+      "word": "男子把小孩放进超市红枣堆玩耍",
+      "onboard_time": 1689387093,
+      "rank": 38,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 233280,
@@ -739,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169635,
+      "num": 169635,
+      "word": "北京报告45例猴痘确诊病例",
+      "onboard_time": 1689387270,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163380,
       "num": 265912,
       "word": "红楼梦最著名的茄子到底多好吃",
@@ -844,7 +900,7 @@
     },
     {
       "raw_hot": 32612,
-      "num": 1057221,
+      "num": 1119588,
       "word": "探访杭州亚残运会场馆",
       "onboard_time": 1689384029,
       "rank": 2,
