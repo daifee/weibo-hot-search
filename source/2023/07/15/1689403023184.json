@@ -1,0 +1,410 @@
+{
+  "runTime": 1689403023184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2755675,
+        "num": 2755675,
+        "word": "奔跑吧后期回应",
+        "onboard_time": 1689400351,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1627037,
+        "num": 1627037,
+        "word": "刘诗诗堕仙妆",
+        "onboard_time": 1689399210,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20977,
+        "num": 1172698,
+        "word": "探访杭州亚残运会场馆",
+        "onboard_time": 1689384029,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107269,
+        "num": 1107269,
+        "word": "Jennie称舞台没有划水",
+        "onboard_time": 1689399330,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 854750,
+        "num": 854750,
+        "word": "张一山怀疑杨紫瞒着自己上节目",
+        "onboard_time": 1689393095,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822432,
+        "num": 822432,
+        "word": "蒋敦豪 一定要再见啊晴天",
+        "onboard_time": 1689398250,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775186,
+        "num": 775186,
+        "word": "福宝吃醋了",
+        "onboard_time": 1689398072,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766663,
+        "num": 766663,
+        "word": "多地烟草局要求直系三代血脉不得应聘",
+        "onboard_time": 1689384629,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625305,
+        "num": 625305,
+        "word": "当初对猫眼是大声了点",
+        "onboard_time": 1689401431,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431980,
+        "num": 431980,
+        "word": "父亲想让被救女儿认邻居干爸",
+        "onboard_time": 1689393751,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435213,
+        "num": 431855,
+        "word": "莲花楼",
+        "onboard_time": 1689400230,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429645,
+        "num": 429645,
+        "word": "种地团小羊晴天",
+        "onboard_time": 1689395071,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411651,
+        "num": 411651,
+        "word": "创造营2023报名",
+        "onboard_time": 1689399630,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394887,
+        "num": 394887,
+        "word": "苹果回应iPhone高温季发烫",
+        "onboard_time": 1689388293,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 374639,
+        "num": 374639,
+        "word": "上海00后为纸片人吃席",
+        "onboard_time": 1689390033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363342,
+        "num": 363342,
+        "word": "北京报告45例猴痘确诊病例",
+        "onboard_time": 1689387270,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344481,
+        "num": 344481,
+        "word": "朱珠美得不顾Alin死活",
+        "onboard_time": 1689392970,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339017,
+        "num": 339017,
+        "word": "鹿晗上海站禁止携带灯牌",
+        "onboard_time": 1689394412,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312521,
+        "num": 312521,
+        "word": "官方回应女子吃凉皮中毒身亡",
+        "onboard_time": 1689385470,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274050,
+        "num": 274050,
+        "word": "小区高层养7头牛邻居苦不堪言",
+        "onboard_time": 1689391170,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1177317,
+        "num": 272710,
+        "word": "35岁已婚对25岁未婚的建议",
+        "onboard_time": 1689399031,
+        "rank": 20,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 823020,
+        "num": 271063,
+        "word": "喝茉酸奶5天胖了6斤",
+        "onboard_time": 1689399031,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 383336,
+        "num": 267871,
+        "word": "猴痘传播有多快",
+        "onboard_time": 1689402031,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304822,
+        "num": 265677,
+        "word": "最好不要把工作当成天大的事",
+        "onboard_time": 1689397112,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 288746,
+        "num": 263793,
+        "word": "魏大勋分生日蛋糕",
+        "onboard_time": 1689395795,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286786,
+        "num": 261633,
+        "word": "种地吧送别小羊晴天",
+        "onboard_time": 1689398008,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261202,
+        "num": 261202,
+        "word": "日本男子活活烫死女友3岁孩子",
+        "onboard_time": 1689381209,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256982,
+        "num": 256982,
+        "word": "奔跑吧 原地消失术",
+        "onboard_time": 1689338621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240290,
+        "num": 240290,
+        "word": "花间令",
+        "onboard_time": 1689397592,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99678,
+        "num": 233113,
+        "word": "王飞龙张家齐混双十米台夺冠",
+        "onboard_time": 1689399091,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267891,
+        "num": 232710,
+        "word": "军训鞋子非穿不可吗",
+        "onboard_time": 1689402991,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230954,
+        "num": 230954,
+        "word": "魏大勋一秒变脸",
+        "onboard_time": 1689393329,
+        "rank": 31,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 230567,
+        "num": 230567,
+        "word": "白鹿钻出车顶录粉丝第一视角",
+        "onboard_time": 1689402511,
+        "rank": 32,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 221130,
+        "num": 221130,
+        "word": "周深郑恺是有心事吗",
+        "onboard_time": 1689396631,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220652,
+        "num": 220652,
+        "word": "宁艺卓ins更新infp生活碎片",
+        "onboard_time": 1689400411,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194895,
+        "num": 194895,
+        "word": "玉骨遥大结局点映礼",
+        "onboard_time": 1689395011,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194070,
+        "num": 194070,
+        "word": "江苏报告8例猴痘病例",
+        "onboard_time": 1689392492,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194023,
+        "num": 194023,
+        "word": "看不出来我在蹭魏大勋吗",
+        "onboard_time": 1689400652,
+        "rank": 37,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 190334,
+        "num": 190334,
+        "word": "女子应聘小学行政跟岗10多天被辞退",
+        "onboard_time": 1689389426,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 63285,
+        "num": 190156,
+        "word": "我的城市太热被饿了么免单了",
+        "onboard_time": 1689400831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190065,
+        "num": 190065,
+        "word": "迪丽热巴21岁到31岁荧幕变化",
+        "onboard_time": 1689396032,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188335,
+        "num": 188335,
+        "word": "刘学义拿杯的手",
+        "onboard_time": 1689402691,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174370,
+        "num": 174370,
+        "word": "喝完中药在里面挑出来好多小石头",
+        "onboard_time": 1689400291,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181100,
+        "num": 173715,
+        "word": "奔跑吧泰国篇好看吗",
+        "onboard_time": 1689396870,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170445,
+        "num": 170445,
+        "word": "时代少年团全员加速中下班路透",
+        "onboard_time": 1689402991,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165940,
+        "num": 165940,
+        "word": "Loopy 名创优品",
+        "onboard_time": 1689390751,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 163523,
+        "num": 163523,
+        "word": "男子爆料岳母总和妻子一起睡主卧",
+        "onboard_time": 1689385229,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 162603,
+        "num": 162603,
+        "word": "范丞丞跟空气玩儿",
+        "onboard_time": 1689397410,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153127,
+        "num": 157980,
+        "word": "花35元买半个西瓜果切拼完没有心",
+        "onboard_time": 1689395252,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137846,
+        "num": 157902,
+        "word": "学生疑被老师罚站太阳下中暑去世",
+        "onboard_time": 1689393510,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为加快推进网络强国建设指明方向#"
+    }
+  }
+}
