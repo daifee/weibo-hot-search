@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689459419479,
+  "endTime": 1689460480422,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -14251,6 +14251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122438,
+      "num": 122438,
+      "word": "演技好的待爆演员",
+      "onboard_time": 1689458353,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121509,
       "num": 121509,
       "word": "张萌泳装照",
@@ -14465,6 +14473,14 @@
       "onboard_time": 1688952749,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96083,
+      "num": 96083,
+      "word": "小鸟站荷花上屁帘还一动一动的",
+      "onboard_time": 1689455832,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95990,
@@ -14723,14 +14739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60259,
-      "num": 60259,
-      "word": "演技好的待爆演员",
-      "onboard_time": 1689458353,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59011,
       "num": 188431,
       "word": "6月份CPI同比持平",
@@ -14763,6 +14771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56483,
+      "num": 56483,
+      "word": "时影失忆了",
+      "onboard_time": 1689448094,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 52935,
       "num": 1695787,
       "word": "十四冬举办时间定了",
@@ -14777,14 +14793,6 @@
       "onboard_time": 1689183439,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51251,
-      "num": 51251,
-      "word": "小鸟站荷花上屁帘还一动一动的",
-      "onboard_time": 1689455832,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49891,
@@ -14817,14 +14825,6 @@
       "onboard_time": 1689099078,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 45530,
-      "num": 45530,
-      "word": "时影失忆了",
-      "onboard_time": 1689448094,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 43211,
@@ -15025,6 +15025,14 @@
       "onboard_time": 1689187873,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 24002,
+      "num": 33041,
+      "word": "女子救助小燕子后收获惊喜",
+      "onboard_time": 1689460156,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23875,

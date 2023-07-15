@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689459419479,
+  "endTime": 1689460480422,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -35339,6 +35339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122438,
+      "num": 122438,
+      "word": "演技好的待爆演员",
+      "onboard_time": 1689458353,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122187,
       "num": 113401,
       "word": "郁可唯上海演唱会",
@@ -35961,6 +35969,14 @@
       "onboard_time": 1688166077,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 96083,
+      "num": 96083,
+      "word": "小鸟站荷花上屁帘还一动一动的",
+      "onboard_time": 1689455832,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95355,
@@ -36699,14 +36715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60259,
-      "num": 60259,
-      "word": "演技好的待爆演员",
-      "onboard_time": 1689458353,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59735,
       "num": 59735,
       "word": "有没有人考虑吴磊的感受",
@@ -36787,6 +36795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56483,
+      "num": 56483,
+      "word": "时影失忆了",
+      "onboard_time": 1689448094,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54812,
       "num": 484837,
       "word": "山东省委书记揭秘乡村振兴经验",
@@ -36841,14 +36857,6 @@
       "onboard_time": 1688671874,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51251,
-      "num": 51251,
-      "word": "小鸟站荷花上屁帘还一动一动的",
-      "onboard_time": 1689455832,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49891,
@@ -36937,14 +36945,6 @@
       "onboard_time": 1689099078,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 45530,
-      "num": 45530,
-      "word": "时影失忆了",
-      "onboard_time": 1689448094,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 45499,
@@ -37353,6 +37353,14 @@
       "onboard_time": 1688845036,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24002,
+      "num": 33041,
+      "word": "女子救助小燕子后收获惊喜",
+      "onboard_time": 1689460156,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23875,
