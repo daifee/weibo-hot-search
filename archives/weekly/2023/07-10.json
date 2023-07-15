@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689460480422,
+  "endTime": 1689463077692,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -2620,7 +2620,7 @@
     },
     {
       "raw_hot": 891796,
-      "num": 272135,
+      "num": 401447,
       "word": "吃凉皮中毒身亡当事人家属发声",
       "onboard_time": 1689436537,
       "rank": 20,
@@ -5875,6 +5875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479578,
+      "num": 479578,
+      "word": "世界女排联赛",
+      "onboard_time": 1689462500,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 478858,
       "num": 405668,
       "word": "吴俊霆徐梦洁吻戏",
@@ -7171,6 +7179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 407414,
+      "num": 407414,
+      "word": "中国女排3比0波兰女排",
+      "onboard_time": 1689462379,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406939,
       "num": 406939,
       "word": "时代峰峻的演唱会没有一场在重庆",
@@ -7201,6 +7217,14 @@
       "onboard_time": 1689432276,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 405278,
+      "num": 405278,
+      "word": "演技好的待爆演员",
+      "onboard_time": 1689458353,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 404930,
@@ -9001,6 +9025,14 @@
       "onboard_time": 1688979334,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 309527,
+      "num": 309527,
+      "word": "中国女排晋级世联赛决赛",
+      "onboard_time": 1689462439,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 309522,
@@ -12235,6 +12267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207386,
+      "num": 149594,
+      "word": "2023年世界女排联赛",
+      "onboard_time": 1689462861,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207385,
       "num": 207385,
       "word": "时代少年团直播",
@@ -13739,6 +13779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162171,
+      "num": 162171,
+      "word": "小鸟站荷花上屁帘还一动一动的",
+      "onboard_time": 1689455832,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161110,
       "num": 161110,
       "word": "胖蛇吞鹦鹉吃太饱把自己困鸟笼里了",
@@ -13873,6 +13921,14 @@
       "onboard_time": 1689296732,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151577,
+      "num": 151577,
+      "word": "上海外滩一橱窗窗台成游客垃圾桶",
+      "onboard_time": 1689462197,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151523,
@@ -14251,14 +14307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122438,
-      "num": 122438,
-      "word": "演技好的待爆演员",
-      "onboard_time": 1689458353,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121509,
       "num": 121509,
       "word": "张萌泳装照",
@@ -14459,6 +14507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98471,
+      "num": 98471,
+      "word": "时影失忆了",
+      "onboard_time": 1689448094,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97746,
       "num": 97746,
       "word": "还以为小狗在修仙",
@@ -14473,14 +14529,6 @@
       "onboard_time": 1688952749,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96083,
-      "num": 96083,
-      "word": "小鸟站荷花上屁帘还一动一动的",
-      "onboard_time": 1689455832,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95990,
@@ -14627,12 +14675,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 75749,
+      "num": 75749,
+      "word": "新郎接亲见到新娘瞬间眼含热泪",
+      "onboard_time": 1689462500,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 75655,
       "num": 75655,
       "word": "乒超",
       "onboard_time": 1688928793,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75630,
+      "num": 75630,
+      "word": "敖子逸张艺凡还能回去公司吗",
+      "onboard_time": 1689444020,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 75309,
@@ -14649,14 +14713,6 @@
       "onboard_time": 1689187455,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 72168,
-      "num": 72168,
-      "word": "敖子逸张艺凡还能回去公司吗",
-      "onboard_time": 1689444020,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 71492,
@@ -14688,6 +14744,14 @@
       "word": "高温下坚守的人",
       "onboard_time": 1689232833,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68788,
+      "num": 68788,
+      "word": "女子救助小燕子后收获惊喜",
+      "onboard_time": 1689460156,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -14739,6 +14803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61677,
+      "num": 61677,
+      "word": "贾静雯忘了倚天屠龙记角色名",
+      "onboard_time": 1689462798,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59011,
       "num": 188431,
       "word": "6月份CPI同比持平",
@@ -14769,14 +14841,6 @@
       "onboard_time": 1689067776,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56483,
-      "num": 56483,
-      "word": "时影失忆了",
-      "onboard_time": 1689448094,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 52935,
@@ -15025,14 +15089,6 @@
       "onboard_time": 1689187873,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24002,
-      "num": 33041,
-      "word": "女子救助小燕子后收获惊喜",
-      "onboard_time": 1689460156,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23875,

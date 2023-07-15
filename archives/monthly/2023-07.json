@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689460480422,
+  "endTime": 1689463077692,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -6724,7 +6724,7 @@
     },
     {
       "raw_hot": 891796,
-      "num": 272135,
+      "num": 401447,
       "word": "吃凉皮中毒身亡当事人家属发声",
       "onboard_time": 1689436537,
       "rank": 20,
@@ -14603,6 +14603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479578,
+      "num": 479578,
+      "word": "世界女排联赛",
+      "onboard_time": 1689462500,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 479082,
       "num": 459369,
       "word": "大姨出500元让我把电脑给表妹",
@@ -17339,6 +17347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407414,
+      "num": 407414,
+      "word": "中国女排3比0波兰女排",
+      "onboard_time": 1689462379,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407159,
       "num": 292862,
       "word": "周杰伦开演唱会为海口增近10亿旅游收入",
@@ -17377,6 +17393,14 @@
       "onboard_time": 1689432276,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 405278,
+      "num": 405278,
+      "word": "演技好的待爆演员",
+      "onboard_time": 1689458353,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 404930,
@@ -22041,6 +22065,14 @@
       "onboard_time": 1688526519,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 309527,
+      "num": 309527,
+      "word": "中国女排晋级世联赛决赛",
+      "onboard_time": 1689462439,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 309522,
@@ -30083,6 +30115,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 207386,
+      "num": 149594,
+      "word": "2023年世界女排联赛",
+      "onboard_time": 1689462861,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207385,
       "num": 207385,
       "word": "时代少年团直播",
@@ -33979,6 +34019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162171,
+      "num": 162171,
+      "word": "小鸟站荷花上屁帘还一动一动的",
+      "onboard_time": 1689455832,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161661,
       "num": 161661,
       "word": "AL对战WBG",
@@ -34433,6 +34481,14 @@
       "onboard_time": 1688659411,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151577,
+      "num": 151577,
+      "word": "上海外滩一橱窗窗台成游客垃圾桶",
+      "onboard_time": 1689462197,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151530,
@@ -35339,14 +35395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122438,
-      "num": 122438,
-      "word": "演技好的待爆演员",
-      "onboard_time": 1689458353,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122187,
       "num": 113401,
       "word": "郁可唯上海演唱会",
@@ -35907,6 +35955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98471,
+      "num": 98471,
+      "word": "时影失忆了",
+      "onboard_time": 1689448094,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98254,
       "num": 148599,
       "word": "旅游了解兵马俑有啥意义",
@@ -35969,14 +36025,6 @@
       "onboard_time": 1688166077,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 96083,
-      "num": 96083,
-      "word": "小鸟站荷花上屁帘还一动一动的",
-      "onboard_time": 1689455832,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95355,
@@ -36451,12 +36499,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 75749,
+      "num": 75749,
+      "word": "新郎接亲见到新娘瞬间眼含热泪",
+      "onboard_time": 1689462500,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 75655,
       "num": 75655,
       "word": "乒超",
       "onboard_time": 1688928793,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75630,
+      "num": 75630,
+      "word": "敖子逸张艺凡还能回去公司吗",
+      "onboard_time": 1689444020,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 75309,
@@ -36497,14 +36561,6 @@
       "onboard_time": 1688680216,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 72168,
-      "num": 72168,
-      "word": "敖子逸张艺凡还能回去公司吗",
-      "onboard_time": 1689444020,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 71492,
@@ -36577,6 +36633,14 @@
       "onboard_time": 1688664500,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68788,
+      "num": 68788,
+      "word": "女子救助小燕子后收获惊喜",
+      "onboard_time": 1689460156,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67496,
@@ -36715,6 +36779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61677,
+      "num": 61677,
+      "word": "贾静雯忘了倚天屠龙记角色名",
+      "onboard_time": 1689462798,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59735,
       "num": 59735,
       "word": "有没有人考虑吴磊的感受",
@@ -36793,14 +36865,6 @@
       "onboard_time": 1688488224,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56483,
-      "num": 56483,
-      "word": "时影失忆了",
-      "onboard_time": 1689448094,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 54812,
@@ -37353,14 +37417,6 @@
       "onboard_time": 1688845036,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 24002,
-      "num": 33041,
-      "word": "女子救助小燕子后收获惊喜",
-      "onboard_time": 1689460156,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23875,
