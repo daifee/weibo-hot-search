@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689410161316,
+  "endTime": 1689412635760,
   "band_list": [
     {
       "raw_hot": 3115262,
@@ -68,15 +68,23 @@
     },
     {
       "raw_hot": 1430814,
-      "num": 301143,
+      "num": 306989,
       "word": "35岁已婚对25岁未婚的建议",
       "onboard_time": 1689399031,
       "rank": 30,
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 1299254,
-      "num": 1299254,
+      "raw_hot": 1357836,
+      "num": 827250,
+      "word": "工作室能不能给肖战P真点",
+      "onboard_time": 1689408989,
+      "rank": 16,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1335516,
+      "num": 1335516,
       "word": "暑假影视综已经有三爆了",
       "onboard_time": 1689404428,
       "rank": 23,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855818,
+      "num": 423140,
+      "word": "魏大勋爸爸给猪打针打到魏大勋屁股上了",
+      "onboard_time": 1689412049,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 851704,
       "num": 430938,
       "word": "迪丽热巴机场露背了",
@@ -249,14 +265,6 @@
       "onboard_time": 1689389496,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 827250,
-      "num": 827250,
-      "word": "工作室能不能给肖战P真点",
-      "onboard_time": 1689408989,
-      "rank": 16,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 823020,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659561,
+      "num": 659561,
+      "word": "猴痘传播有多快",
+      "onboard_time": 1689402031,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659305,
       "num": 659305,
       "word": "12岁男孩内蒙古乘三角翼遇难",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 618433,
-      "num": 292291,
+      "num": 304809,
       "word": "原来酒店取电不一定要房卡",
       "onboard_time": 1689407967,
       "rank": 21,
@@ -433,6 +449,14 @@
       "onboard_time": 1689383551,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609570,
+      "num": 422595,
+      "word": "王力宏方称对谣言已取证",
+      "onboard_time": 1689410068,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 598246,
@@ -497,14 +521,6 @@
       "onboard_time": 1689398008,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 515555,
-      "num": 515555,
-      "word": "猴痘传播有多快",
-      "onboard_time": 1689402031,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 511563,
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 486345,
-      "num": 290272,
+      "num": 302373,
       "word": "微信好友上限约1万个",
       "onboard_time": 1689406410,
       "rank": 42,
@@ -657,6 +673,22 @@
       "onboard_time": 1689383970,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426508,
+      "num": 426508,
+      "word": "我们玩手机其实也很累的",
+      "onboard_time": 1689408568,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 424818,
+      "num": 424818,
+      "word": "布朗将签NBA历史最大合同",
+      "onboard_time": 1689409110,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 421687,
@@ -844,7 +876,7 @@
     },
     {
       "raw_hot": 367882,
-      "num": 289309,
+      "num": 300716,
       "word": "台风",
       "onboard_time": 1689407490,
       "rank": 26,
@@ -857,6 +889,14 @@
       "onboard_time": 1689345464,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 359741,
+      "num": 359741,
+      "word": "张译佟丽娅新剧演夫妻",
+      "onboard_time": 1689409891,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 357222,
@@ -891,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349709,
+      "num": 303453,
+      "word": "猴痘感染后会留下永久疤痕吗",
+      "onboard_time": 1689410430,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348986,
       "num": 285454,
       "word": "实习生的工位vs我的工位",
@@ -907,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337605,
+      "num": 337605,
+      "word": "婚纱照一下子就更生动了",
+      "onboard_time": 1689403891,
+      "rank": 31,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 332482,
       "num": 274859,
       "word": "全圆佑跳女团舞",
@@ -915,12 +971,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328128,
-      "num": 257646,
-      "word": "婚纱照一下子就更生动了",
-      "onboard_time": 1689403891,
-      "rank": 31,
-      "category": "时尚,幽默"
+      "raw_hot": 329717,
+      "num": 283594,
+      "word": "用一个梗揭开考研生的伤疤",
+      "onboard_time": 1689411691,
+      "rank": 30,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 325678,
@@ -977,6 +1033,14 @@
       "onboard_time": 1689347560,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313353,
+      "num": 301133,
+      "word": "FPX战胜WE",
+      "onboard_time": 1689412530,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 313225,
@@ -1091,14 +1155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294500,
-      "num": 294500,
-      "word": "布朗将签NBA历史最大合同",
-      "onboard_time": 1689409110,
-      "rank": 46,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 291998,
       "num": 291998,
       "word": "奔跑吧",
@@ -1115,12 +1171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290663,
+      "num": 290663,
+      "word": "老人买门票回自己家忍不住落泪",
+      "onboard_time": 1689409531,
+      "rank": 31,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 289637,
       "num": 274053,
       "word": "属于易烊千玺和粉丝的浪漫",
       "onboard_time": 1689384809,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284790,
+      "num": 284790,
+      "word": "开始担心TFBOYS演唱会门票了",
+      "onboard_time": 1689412290,
+      "rank": 29,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 282537,
@@ -1137,14 +1209,6 @@
       "onboard_time": 1689348520,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281394,
-      "num": 240849,
-      "word": "老人买门票回自己家忍不住落泪",
-      "onboard_time": 1689409531,
-      "rank": 31,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 281034,
@@ -1211,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262438,
+      "num": 262438,
+      "word": "90后男子国企辞职摆摊收入涨3倍",
+      "onboard_time": 1689410370,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 261171,
       "num": 261171,
       "word": "00后也到了血脉觉醒的年纪",
@@ -1243,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241613,
+      "num": 241613,
+      "word": "我的人间烟火",
+      "onboard_time": 1689410549,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238672,
       "num": 238672,
       "word": "范丞丞跟空气玩儿",
@@ -1265,6 +1345,14 @@
       "onboard_time": 1689404010,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236724,
+      "num": 236724,
+      "word": "3岁孩子去水上乐园后患脓疱疮",
+      "onboard_time": 1689410249,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 236700,
@@ -1419,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211724,
-      "num": 211724,
-      "word": "我们玩手机其实也很累的",
-      "onboard_time": 1689408568,
-      "rank": 41,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 209333,
       "num": 209333,
       "word": "没睡好觉是怎样弄垮健康的",
@@ -1459,12 +1539,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204356,
-      "num": 204356,
-      "word": "张译佟丽娅新剧演夫妻",
-      "onboard_time": 1689409891,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 203519,
+      "num": 199256,
+      "word": "晴天很短但很好的一生",
+      "onboard_time": 1689411869,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201492,
+      "num": 201492,
+      "word": "范丞丞这是个人战",
+      "onboard_time": 1689412349,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 200833,
@@ -1595,14 +1683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179779,
-      "num": 197059,
-      "word": "王力宏方称对谣言已取证",
-      "onboard_time": 1689410068,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179230,
       "num": 159586,
       "word": "孟宴臣原台词",
@@ -1627,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176170,
+      "num": 176170,
+      "word": "张一山说这一屋子都是熟客",
+      "onboard_time": 1689411990,
+      "rank": 44,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 174277,
       "num": 266407,
       "word": "为什么戴眼镜比不戴好看",
@@ -1635,12 +1723,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173754,
+      "num": 173754,
+      "word": "欢颜",
+      "onboard_time": 1689412231,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172886,
       "num": 197041,
       "word": "放弃为了取悦他人而做的努力",
       "onboard_time": 1689405213,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168948,
+      "num": 168948,
+      "word": "加速队员全员剧透多重宇宙",
+      "onboard_time": 1689411269,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168572,
+      "num": 168572,
+      "word": "小朋友幼儿园放学见到妈妈的第一句话",
+      "onboard_time": 1689411091,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 165647,
