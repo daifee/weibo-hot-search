@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689387280335,
+  "endTime": 1689390252196,
   "band_list": [
     {
       "raw_hot": 3115262,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1865257,
-      "num": 1865257,
+      "raw_hot": 2974315,
+      "num": 2974315,
       "word": "多地烟草局要求直系三代血脉不得应聘",
       "onboard_time": 1689384629,
       "rank": 3,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 1238213,
-      "num": 434371,
+      "num": 499577,
       "word": "代拍三年前就拍魏大勋",
       "onboard_time": 1689376521,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1202990,
+      "num": 1202990,
+      "word": "北京报告45例猴痘确诊病例",
+      "onboard_time": 1689387270,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1093513,
@@ -57,6 +65,14 @@
       "onboard_time": 1689347981,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1040532,
+      "num": 1040532,
+      "word": "官方回应女子吃凉皮中毒身亡",
+      "onboard_time": 1689385470,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1003046,
@@ -76,19 +92,11 @@
     },
     {
       "raw_hot": 914805,
-      "num": 277670,
+      "num": 283211,
       "word": "男子爆料岳母总和妻子一起睡主卧",
       "onboard_time": 1689385229,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 909215,
-      "num": 433755,
-      "word": "官方回应女子吃凉皮中毒身亡",
-      "onboard_time": 1689385470,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 903846,
@@ -131,6 +139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 829276,
+      "num": 293090,
+      "word": "陈国豪当选状元",
+      "onboard_time": 1689389496,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 818056,
       "num": 818056,
       "word": "9000元补贴能缓解独子养老焦虑吗",
@@ -145,6 +161,22 @@
       "onboard_time": 1689340723,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 783412,
+      "num": 783412,
+      "word": "李莎旻子居然写了20首歌",
+      "onboard_time": 1689387210,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 734143,
+      "num": 734143,
+      "word": "降温后淄博烧烤行业现状",
+      "onboard_time": 1689384571,
+      "rank": 31,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 695908,
@@ -195,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 613849,
-      "num": 431709,
-      "word": "降温后淄博烧烤行业现状",
-      "onboard_time": 1689384571,
-      "rank": 31,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 585732,
       "num": 331722,
       "word": "肖战警告肖战工作室",
@@ -219,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574299,
+      "num": 574299,
+      "word": "音银取消EXO粉丝录制资格",
+      "onboard_time": 1689386070,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572851,
       "num": 309201,
       "word": "著名导演贝聿娍去世",
@@ -227,12 +259,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 558119,
-      "num": 558119,
-      "word": "音银取消EXO粉丝录制资格",
-      "onboard_time": 1689386070,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 556930,
+      "num": 290740,
+      "word": "苹果回应iPhone高温季发烫",
+      "onboard_time": 1689388293,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 514531,
+      "num": 514531,
+      "word": "你会付费买喜欢的小说吗",
+      "onboard_time": 1689385470,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 511563,
+      "num": 511563,
+      "word": "CBA",
+      "onboard_time": 1689387452,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 499326,
@@ -241,6 +289,14 @@
       "onboard_time": 1689379464,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 498184,
+      "num": 281877,
+      "word": "女子应聘小学行政跟岗10多天被辞退",
+      "onboard_time": 1689389426,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 491197,
@@ -275,6 +331,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 438323,
+      "num": 438323,
+      "word": "18岁男孩被同学骗缅甸剃光头眼角缝针",
+      "onboard_time": 1689387389,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429311,
       "num": 429311,
       "word": "奔跑吧没范丞丞不行",
@@ -288,6 +352,14 @@
       "word": "看完后100%的人试了一下",
       "onboard_time": 1689348159,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418930,
+      "num": 289519,
+      "word": "猴痘",
+      "onboard_time": 1689389669,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -347,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396885,
+      "num": 396885,
+      "word": "肖战表演无实物吃羊腿",
+      "onboard_time": 1689386070,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395578,
       "num": 301538,
       "word": "曾黎中女穿衣模板",
@@ -364,11 +444,19 @@
     },
     {
       "raw_hot": 390308,
-      "num": 280084,
+      "num": 309025,
       "word": "米卡cos白展堂",
       "onboard_time": 1689385711,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388505,
+      "num": 288725,
+      "word": "上海00后为纸片人吃席",
+      "onboard_time": 1689390033,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377781,
@@ -428,19 +516,11 @@
     },
     {
       "raw_hot": 348986,
-      "num": 264678,
+      "num": 285454,
       "word": "实习生的工位vs我的工位",
       "onboard_time": 1689387030,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 325799,
-      "num": 265848,
-      "word": "肖战表演无实物吃羊腿",
-      "onboard_time": 1689386070,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 321098,
@@ -483,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 303587,
+      "num": 286854,
+      "word": "郑钧对生活已经厌弃了",
+      "onboard_time": 1689387571,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301690,
       "num": 301690,
       "word": "这种感觉的照片还有吗",
@@ -513,6 +601,14 @@
       "onboard_time": 1689382949,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293131,
+      "num": 293131,
+      "word": "CBA选秀",
+      "onboard_time": 1689389669,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 291998,
@@ -547,8 +643,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277494,
+      "num": 277494,
+      "word": "长相思",
+      "onboard_time": 1689389011,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272722,
-      "num": 272722,
+      "num": 274495,
       "word": "唐双宁被查",
       "onboard_time": 1689385592,
       "rank": 33,
@@ -571,12 +675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263955,
-      "num": 263955,
-      "word": "李莎旻子居然写了20首歌",
-      "onboard_time": 1689387210,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 266607,
+      "num": 284504,
+      "word": "韩烨为什么一定要帝梓元做太子妃",
+      "onboard_time": 1689390094,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 261171,
@@ -587,12 +691,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 258337,
-      "num": 258337,
-      "word": "你会付费买喜欢的小说吗",
-      "onboard_time": 1689385470,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 258994,
+      "num": 258994,
+      "word": "被拐26年她一直记得人贩子的脸",
+      "onboard_time": 1689388531,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247557,
@@ -643,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226355,
+      "num": 226355,
+      "word": "福建男篮选中邹阳",
+      "onboard_time": 1689389791,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224544,
       "num": 268089,
       "word": "杨洋说夸我时王楚然的反应",
@@ -664,6 +776,14 @@
       "word": "六公主采访肖战",
       "onboard_time": 1689352530,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220809,
+      "num": 220809,
+      "word": "欢颜今日开播",
+      "onboard_time": 1689388109,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -697,6 +817,14 @@
       "onboard_time": 1689383069,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200554,
+      "num": 205741,
+      "word": "魏大勋对霸总的理解",
+      "onboard_time": 1689390094,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 196119,
@@ -785,14 +913,6 @@
       "onboard_time": 1689330695,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169635,
-      "num": 169635,
-      "word": "北京报告45例猴痘确诊病例",
-      "onboard_time": 1689387270,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163380,
@@ -940,6 +1060,9 @@
     },
     {
       "word": "#总书记为加快推进网络强国建设指明方向#"
+    },
+    {
+      "word": "#主题教育最新学习笔记#"
     }
   ]
 }
