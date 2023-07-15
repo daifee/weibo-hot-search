@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689431621678,
+  "endTime": 1689434296445,
   "band_list": [
     {
       "raw_hot": 3468029,
@@ -9,6 +9,14 @@
       "onboard_time": 1689423871,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3139044,
+      "num": 3139044,
+      "word": "杨澄出轨",
+      "onboard_time": 1689431199,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 3115262,
@@ -171,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1233939,
+      "num": 1233939,
+      "word": "魏大勋曾想帮尼坤澄清争议",
+      "onboard_time": 1689431075,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1224705,
       "num": 1224705,
       "word": "孟美岐认为自己没有火过",
@@ -241,6 +257,14 @@
       "onboard_time": 1689345101,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1002637,
+      "num": 1002637,
+      "word": "宋轶为什么这么有底气",
+      "onboard_time": 1689431917,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 994816,
@@ -459,6 +483,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 750791,
+      "num": 750791,
+      "word": "迪丽热巴龚俊认证安居乐烨",
+      "onboard_time": 1689430779,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 744235,
       "num": 744235,
       "word": "当初对猫眼是大声了点",
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 670099,
+      "num": 441954,
+      "word": "安乐传和山河令是一个导演",
+      "onboard_time": 1689431199,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 661213,
       "num": 661213,
       "word": "猴痘传播有多快",
@@ -619,12 +659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639086,
+      "num": 335315,
+      "word": "3人造谣女大学生游西藏被割舌性侵",
+      "onboard_time": 1689432040,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628700,
       "num": 628700,
       "word": "重庆茉莉冰豆浆",
       "onboard_time": 1689426875,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 628632,
+      "num": 435989,
+      "word": "谢娜上一次是回归这次是告别",
+      "onboard_time": 1689432276,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 618765,
@@ -732,7 +788,7 @@
     },
     {
       "raw_hot": 544312,
-      "num": 306608,
+      "num": 321154,
       "word": "最近可以先暂时关闭朋友圈",
       "onboard_time": 1689418773,
       "rank": 21,
@@ -771,27 +827,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 510639,
-      "num": 510639,
-      "word": "杨澄出轨",
-      "onboard_time": 1689431199,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 504374,
       "num": 504374,
       "word": "玉骨遥大结局点映礼",
       "onboard_time": 1689395011,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 501728,
-      "num": 501728,
-      "word": "迪丽热巴龚俊认证安居乐烨",
-      "onboard_time": 1689430779,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -907,14 +947,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 451197,
-      "num": 354315,
-      "word": "魏大勋曾想帮尼坤澄清争议",
-      "onboard_time": 1689431075,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 450572,
       "num": 312793,
       "word": "易烊千玺发了好多心",
@@ -1003,6 +1035,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 422726,
+      "num": 332893,
+      "word": "银行副行长旷工补贴家用被开除",
+      "onboard_time": 1689431438,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 421687,
       "num": 287628,
       "word": "同事离职了还有东西没带走",
@@ -1027,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419828,
+      "num": 416765,
+      "word": "茉酸奶回应被改名",
+      "onboard_time": 1689429214,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418930,
       "num": 302389,
       "word": "猴痘",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1689332796,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 416765,
-      "num": 416765,
-      "word": "茉酸奶回应被改名",
-      "onboard_time": 1689429214,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416450,
@@ -1211,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385167,
+      "num": 327533,
+      "word": "陈粒演唱会",
+      "onboard_time": 1689433837,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 377781,
       "num": 377781,
       "word": "中国官方回应阿斯巴甜评估结果",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1689410430,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376140,
+      "num": 321455,
+      "word": "抓知了卖260元一斤10天赚万元",
+      "onboard_time": 1689433178,
+      "rank": 28,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 375011,
@@ -1371,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 342938,
+      "num": 318826,
+      "word": "孟宴臣录完开场舞就走了",
+      "onboard_time": 1689433477,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337605,
       "num": 337605,
       "word": "婚纱照一下子就更生动了",
@@ -1393,14 +1457,6 @@
       "onboard_time": 1689407789,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330644,
-      "num": 330644,
-      "word": "安乐传和山河令是一个导演",
-      "onboard_time": 1689431199,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 329717,
@@ -1715,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276747,
+      "num": 276747,
+      "word": "新能源老太太",
+      "onboard_time": 1689432276,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273952,
       "num": 273952,
       "word": "杨洋演过的大IP",
@@ -1779,20 +1843,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262426,
+      "num": 262426,
+      "word": "王嘉尔澳门演唱会",
+      "onboard_time": 1689432637,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 261171,
       "num": 261171,
       "word": "00后也到了血脉觉醒的年纪",
       "onboard_time": 1689376159,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 260683,
-      "num": 260683,
-      "word": "银行副行长旷工补贴家用被开除",
-      "onboard_time": 1689431438,
-      "rank": 38,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 259698,
@@ -1840,6 +1904,14 @@
       "word": "长安三万里",
       "onboard_time": 1689406410,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245855,
+      "num": 245855,
+      "word": "消失的她",
+      "onboard_time": 1689432458,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -2083,6 +2155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212801,
+      "num": 212801,
+      "word": "八角笼中",
+      "onboard_time": 1689433958,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212786,
       "num": 228628,
       "word": "南京同曦 李云开",
@@ -2113,6 +2193,14 @@
       "onboard_time": 1689417450,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211458,
+      "num": 211458,
+      "word": "看起来就很凉爽的视频",
+      "onboard_time": 1689433778,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 209333,
@@ -2153,6 +2241,14 @@
       "onboard_time": 1689392970,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202620,
+      "num": 202620,
+      "word": "贾巴尔",
+      "onboard_time": 1689434017,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 200833,
@@ -2241,6 +2337,14 @@
       "onboard_time": 1689350256,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189299,
+      "num": 340228,
+      "word": "万卓索娃夺温网女单冠军",
+      "onboard_time": 1689432938,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 188355,
