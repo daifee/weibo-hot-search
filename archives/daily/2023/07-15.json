@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689420827377,
+  "endTime": 1689424507489,
   "band_list": [
     {
       "raw_hot": 3115262,
@@ -41,6 +41,14 @@
       "onboard_time": 1689400351,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2178727,
+      "num": 2178727,
+      "word": "将门嫡女",
+      "onboard_time": 1689419130,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2085707,
@@ -91,14 +99,6 @@
       "category": "社会新闻,作品衍生"
     },
     {
-      "raw_hot": 1516731,
-      "num": 1516731,
-      "word": "将门嫡女",
-      "onboard_time": 1689419130,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1440949,
       "num": 669003,
       "word": "Makiyo小金离婚",
@@ -145,6 +145,14 @@
       "onboard_time": 1689376521,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1224705,
+      "num": 1224705,
+      "word": "孟美岐认为自己没有火过",
+      "onboard_time": 1689420630,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 1207356,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 804981,
+      "num": 402699,
+      "word": "女子买鲍师傅糕点吃出黑毛",
+      "onboard_time": 1689422193,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801777,
       "num": 801777,
       "word": "苹果回应iPhone高温季发烫",
@@ -475,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650714,
+      "num": 279342,
+      "word": "拍身份证最好不要戴隐形眼镜",
+      "onboard_time": 1689422193,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 650064,
       "num": 650064,
       "word": "魏大勋一秒变脸",
@@ -553,6 +577,14 @@
       "onboard_time": 1689390452,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 586145,
+      "num": 278243,
+      "word": "致死率90%的猫冠状病毒或已扩散",
+      "onboard_time": 1689423871,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585732,
@@ -713,6 +745,14 @@
       "onboard_time": 1689406410,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 478132,
+      "num": 276674,
+      "word": "难哄",
+      "onboard_time": 1689423273,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 477905,
@@ -899,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409876,
+      "num": 281594,
+      "word": "EXO还是分K和m两队",
+      "onboard_time": 1689420392,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 409511,
       "num": 310973,
       "word": "朱正廷要海外开演唱会被粉丝吐槽",
@@ -971,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395053,
+      "num": 273447,
+      "word": "女生宿舍一般不会老是聊男生",
+      "onboard_time": 1689422372,
+      "rank": 25,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 394750,
       "num": 364608,
       "word": "男生因姐姐喜欢上跳绳打破世界纪录",
@@ -987,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384157,
+      "num": 384157,
+      "word": "封神",
+      "onboard_time": 1689422009,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377781,
       "num": 377781,
       "word": "中国官方回应阿斯巴甜评估结果",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1689410430,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375011,
+      "num": 271654,
+      "word": "当我把头部比例调成刘亦菲",
+      "onboard_time": 1689422193,
+      "rank": 26,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 372191,
@@ -1041,6 +1113,14 @@
       "onboard_time": 1689345464,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 361107,
+      "num": 266778,
+      "word": "王楚钦周启豪3比1李艺杰林高远",
+      "onboard_time": 1689423629,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 359741,
@@ -1115,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345368,
+      "num": 265773,
+      "word": "学生被罚站中暑去世实为吃早餐晕倒",
+      "onboard_time": 1689423331,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337605,
       "num": 337605,
       "word": "婚纱照一下子就更生动了",
@@ -1140,7 +1228,7 @@
     },
     {
       "raw_hot": 327616,
-      "num": 253372,
+      "num": 260968,
       "word": "印度夫妻因欠网贷杀子后自杀",
       "onboard_time": 1689419191,
       "rank": 32,
@@ -1227,12 +1315,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 310729,
-      "num": 281594,
-      "word": "EXO还是分K和m两队",
-      "onboard_time": 1689420392,
-      "rank": 26,
-      "category": "音乐"
+      "raw_hot": 312320,
+      "num": 312320,
+      "word": "赖斯正式加盟阿森纳",
+      "onboard_time": 1689423331,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 308250,
@@ -1379,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282623,
+      "num": 263548,
+      "word": "魏大勋那鱼完了名场面",
+      "onboard_time": 1689424173,
+      "rank": 32,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 282537,
       "num": 258625,
       "word": "白鹿钻出车顶录粉丝第一视角",
@@ -1451,6 +1547,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 263432,
+      "num": 263432,
+      "word": "龚俊醉酒戏",
+      "onboard_time": 1689423273,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262876,
       "num": 249504,
       "word": "宋亚轩嘴碎",
@@ -1507,12 +1611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241989,
+      "num": 241989,
+      "word": "韩版偷偷蚌埠住",
+      "onboard_time": 1689421409,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241613,
       "num": 241613,
       "word": "我的人间烟火",
       "onboard_time": 1689410549,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240206,
+      "num": 240206,
+      "word": "小孩游戏充千元姑姑买生活用品教育",
+      "onboard_time": 1689424231,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239956,
@@ -1731,14 +1851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214633,
-      "num": 214633,
-      "word": "孟美岐认为自己没有火过",
-      "onboard_time": 1689420630,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212786,
       "num": 228628,
       "word": "南京同曦 李云开",
@@ -1761,6 +1873,22 @@
       "onboard_time": 1689413429,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212172,
+      "num": 213008,
+      "word": "王鹤棣西安",
+      "onboard_time": 1689417450,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210716,
+      "num": 210716,
+      "word": "消失的评论席",
+      "onboard_time": 1689422612,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 209333,
@@ -1803,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200546,
+      "num": 200546,
+      "word": "白敬亭又跳女团舞了",
+      "onboard_time": 1689424293,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198261,
       "num": 198261,
       "word": "广西的芒果告诉你这天有多热",
@@ -1833,14 +1969,6 @@
       "onboard_time": 1689379225,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195423,
-      "num": 213008,
-      "word": "王鹤棣西安",
-      "onboard_time": 1689417450,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 195197,
@@ -1939,6 +2067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 183358,
+      "num": 183358,
+      "word": "医院袋子上有错别字怎么办",
+      "onboard_time": 1689422071,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182608,
       "num": 197086,
       "word": "曾少年",
@@ -1953,6 +2089,14 @@
       "onboard_time": 1689332254,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180393,
+      "num": 180393,
+      "word": "舞台2023",
+      "onboard_time": 1689422132,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 179230,
@@ -2161,6 +2305,14 @@
       "onboard_time": 1689339882,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98797,
+      "num": 385561,
+      "word": "国产新能源车起飞了",
+      "onboard_time": 1689422429,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88565,
