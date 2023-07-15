@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689439165737,
+  "endTime": 1689441333398,
   "band_list": [
     {
       "raw_hot": 2064215,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 894783,
+      "num": 894783,
+      "word": "杨洋王楚然手贴手戳酒窝",
+      "onboard_time": 1689437132,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 891796,
       "num": 272135,
       "word": "吃凉皮中毒身亡当事人家属发声",
       "onboard_time": 1689436537,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 882933,
-      "num": 882933,
-      "word": "杨洋王楚然手贴手戳酒窝",
-      "onboard_time": 1689437132,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 780880,
@@ -97,6 +97,14 @@
       "onboard_time": 1689429874,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553740,
+      "num": 553740,
+      "word": "李白 郑云龙",
+      "onboard_time": 1689438449,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 550849,
@@ -177,14 +185,6 @@
       "onboard_time": 1689425973,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301816,
-      "num": 227162,
-      "word": "李白 郑云龙",
-      "onboard_time": 1689438449,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 296719,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173932,
+      "num": 173932,
+      "word": "陈绮贞是刘若英今晚演唱会嘉宾",
+      "onboard_time": 1689440724,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173917,
       "num": 173917,
       "word": "消失的她",
@@ -395,6 +403,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128549,
+      "num": 128549,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1689428374,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 116180,
+      "num": 116180,
+      "word": "Minnie只说了三个字",
+      "onboard_time": 1689417569,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112571,
       "num": 154589,
       "word": "重庆茉莉冰豆浆",
@@ -403,7 +427,15 @@
       "category": "美食"
     },
     {
-      "raw_hot": 85532,
+      "raw_hot": 107008,
+      "num": 107008,
+      "word": "魏大勋那鱼完了名场面",
+      "onboard_time": 1689424173,
+      "rank": 43,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 101137,
       "num": 154531,
       "word": "深入贯彻党中央关于网络强国的重要思想",
       "onboard_time": 1689437671,
