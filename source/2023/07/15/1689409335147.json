@@ -1,0 +1,410 @@
+{
+  "runTime": 1689409335147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1207356,
+        "num": 1207356,
+        "word": "蒋敦豪 一定要再见啊晴天",
+        "onboard_time": 1689398250,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1066951,
+        "num": 1066951,
+        "word": "暑假影视综已经有三爆了",
+        "onboard_time": 1689404428,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 8093,
+        "num": 1018163,
+        "word": "探访杭州亚残运会场馆",
+        "onboard_time": 1689384029,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2082753,
+        "num": 1013483,
+        "word": "奔跑吧后期回应",
+        "onboard_time": 1689400351,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1004913,
+        "num": 1004913,
+        "word": "刘诗诗堕仙妆",
+        "onboard_time": 1689399210,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 708938,
+        "num": 708938,
+        "word": "Jennie称舞台没有划水",
+        "onboard_time": 1689399330,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 642535,
+        "num": 642535,
+        "word": "论牙齿对颜值的影响",
+        "onboard_time": 1689404490,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 584046,
+        "num": 584046,
+        "word": "12岁男孩内蒙古乘三角翼遇难",
+        "onboard_time": 1689405029,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508699,
+        "num": 508699,
+        "word": "猴痘传播有多快",
+        "onboard_time": 1689402031,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487871,
+        "num": 487871,
+        "word": "福宝吃醋了",
+        "onboard_time": 1689398072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516468,
+        "num": 487290,
+        "word": "杨洋王楚然啥时候才能演到这里",
+        "onboard_time": 1689404251,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485087,
+        "num": 485087,
+        "word": "当初对猫眼是大声了点",
+        "onboard_time": 1689401431,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443234,
+        "num": 443234,
+        "word": "蔡依林42岁身材管理",
+        "onboard_time": 1689404789,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 441170,
+        "num": 441170,
+        "word": "多地烟草局要求直系三代血脉不得应聘",
+        "onboard_time": 1689384629,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354896,
+        "num": 354896,
+        "word": "父亲想让被救女儿认邻居干爸",
+        "onboard_time": 1689393751,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386448,
+        "num": 351720,
+        "word": "迪丽热巴西安",
+        "onboard_time": 1689405511,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339771,
+        "num": 339771,
+        "word": "工作室能不能给肖战P真点",
+        "onboard_time": 1689408989,
+        "rank": 16,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 321799,
+        "num": 321799,
+        "word": "苹果回应iPhone高温季发烫",
+        "onboard_time": 1689388293,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 299039,
+        "num": 299039,
+        "word": "官方回应女子吃凉皮中毒身亡",
+        "onboard_time": 1689385470,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288802,
+        "num": 288802,
+        "word": "北京报告45例猴痘确诊病例",
+        "onboard_time": 1689387270,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763983,
+        "num": 287914,
+        "word": "35岁已婚对25岁未婚的建议",
+        "onboard_time": 1689399031,
+        "rank": 20,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 618433,
+        "num": 281400,
+        "word": "原来酒店取电不一定要房卡",
+        "onboard_time": 1689407967,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332482,
+        "num": 274859,
+        "word": "全圆佑跳女团舞",
+        "onboard_time": 1689407789,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508889,
+        "num": 269586,
+        "word": "喝茉酸奶5天胖了6斤",
+        "onboard_time": 1689399031,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 486345,
+        "num": 266199,
+        "word": "微信好友上限约1万个",
+        "onboard_time": 1689406410,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 370239,
+        "num": 263696,
+        "word": "同事离职了还有东西没带走",
+        "onboard_time": 1689404251,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367882,
+        "num": 257119,
+        "word": "台风",
+        "onboard_time": 1689407490,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318185,
+        "num": 253602,
+        "word": "张一山怀疑杨紫瞒着自己上节目",
+        "onboard_time": 1689393095,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249805,
+        "num": 249805,
+        "word": "种地吧送别小羊晴天",
+        "onboard_time": 1689398008,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193894,
+        "num": 243564,
+        "word": "女子1米板中国包揽金银牌",
+        "onboard_time": 1689409051,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328128,
+        "num": 240890,
+        "word": "婚纱照一下子就更生动了",
+        "onboard_time": 1689403891,
+        "rank": 30,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 238208,
+        "num": 238208,
+        "word": "麻辣烫现在也太卷了",
+        "onboard_time": 1689406231,
+        "rank": 31,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 229253,
+        "num": 229253,
+        "word": "EXO粉丝全场大合唱growl",
+        "onboard_time": 1689404010,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207792,
+        "num": 207792,
+        "word": "宋亚轩嘴碎",
+        "onboard_time": 1689404251,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206384,
+        "num": 206384,
+        "word": "猫师傅忙装修",
+        "onboard_time": 1689407610,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 204602,
+        "num": 204602,
+        "word": "看不出来我在蹭魏大勋吗",
+        "onboard_time": 1689400652,
+        "rank": 35,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 192113,
+        "num": 192113,
+        "word": "阴阳师",
+        "onboard_time": 1689408989,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186919,
+        "num": 186919,
+        "word": "上海00后为纸片人吃席",
+        "onboard_time": 1689390033,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185696,
+        "num": 185696,
+        "word": "种地团小羊晴天",
+        "onboard_time": 1689395071,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174624,
+        "num": 174624,
+        "word": "周深郑恺是有心事吗",
+        "onboard_time": 1689396631,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172886,
+        "num": 172886,
+        "word": "放弃为了取悦他人而做的努力",
+        "onboard_time": 1689405213,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168975,
+        "num": 168975,
+        "word": "我们玩手机其实也很累的",
+        "onboard_time": 1689408568,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 168805,
+        "num": 168805,
+        "word": "刘学义拿杯的手",
+        "onboard_time": 1689402691,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165647,
+        "num": 165647,
+        "word": "WE对战FPX",
+        "onboard_time": 1689409110,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161794,
+        "num": 161794,
+        "word": "花35元买半个西瓜果切拼完没有心",
+        "onboard_time": 1689395252,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160658,
+        "num": 160658,
+        "word": "白鹿钻出车顶录粉丝第一视角",
+        "onboard_time": 1689402511,
+        "rank": 45,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 156709,
+        "num": 156709,
+        "word": "布朗将签NBA历史最大合同",
+        "onboard_time": 1689409110,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 151091,
+        "num": 151091,
+        "word": "创造营2023报名",
+        "onboard_time": 1689399630,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149359,
+        "num": 149359,
+        "word": "日本男子活活烫死女友3岁孩子",
+        "onboard_time": 1689381209,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143586,
+        "num": 143586,
+        "word": "长安三万里",
+        "onboard_time": 1689406410,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为加快推进网络强国建设指明方向#"
+    }
+  }
+}
