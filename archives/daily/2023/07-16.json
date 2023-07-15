@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689441333398,
+  "endTime": 1689442429715,
   "band_list": [
     {
       "raw_hot": 2064215,
@@ -355,20 +355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180684,
+      "num": 173932,
+      "word": "陈绮贞是刘若英今晚演唱会嘉宾",
+      "onboard_time": 1689440724,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178822,
       "num": 178822,
       "word": "奔跑吧后期回应",
       "onboard_time": 1689400351,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173932,
-      "num": 173932,
-      "word": "陈绮贞是刘若英今晚演唱会嘉宾",
-      "onboard_time": 1689440724,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 173917,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117750,
+      "num": 117750,
+      "word": "魏大勋那鱼完了名场面",
+      "onboard_time": 1689424173,
+      "rank": 43,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 116180,
       "num": 116180,
       "word": "Minnie只说了三个字",
@@ -427,12 +435,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 107008,
-      "num": 107008,
-      "word": "魏大勋那鱼完了名场面",
-      "onboard_time": 1689424173,
-      "rank": 43,
-      "category": "艺人,幽默"
+      "raw_hot": 101449,
+      "num": 101449,
+      "word": "许嵩武汉欢乐谷",
+      "onboard_time": 1689441682,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 101137,
