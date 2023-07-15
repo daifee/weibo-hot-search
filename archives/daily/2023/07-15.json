@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689392494425,
+  "endTime": 1689394915818,
   "band_list": [
     {
       "raw_hot": 3115262,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1233794,
+      "num": 1233794,
+      "word": "张一山怀疑杨紫瞒着自己上节目",
+      "onboard_time": 1689393095,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1202990,
       "num": 1202990,
       "word": "北京报告45例猴痘确诊病例",
@@ -83,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 994816,
+      "num": 994816,
+      "word": "上海00后为纸片人吃席",
+      "onboard_time": 1689390033,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994669,
       "num": 994669,
       "word": "李莎旻子居然写了20首歌",
@@ -107,6 +123,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 907081,
+      "num": 907081,
+      "word": "18岁男孩被同学骗缅甸剃光头眼角缝针",
+      "onboard_time": 1689387389,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 903846,
       "num": 903846,
       "word": "向佐郭碧婷带娃日记vlog",
@@ -115,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 874191,
-      "num": 874191,
-      "word": "上海00后为纸片人吃席",
-      "onboard_time": 1689390033,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 877527,
+      "num": 877527,
+      "word": "朱珠美得不顾Alin死活",
+      "onboard_time": 1689392970,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 864062,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 856235,
-      "num": 359060,
+      "num": 381442,
       "word": "日本男子活活烫死女友3岁孩子",
       "onboard_time": 1689381209,
       "rank": 20,
@@ -171,19 +195,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801777,
+      "num": 801777,
+      "word": "苹果回应iPhone高温季发烫",
+      "onboard_time": 1689388293,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 785334,
       "num": 362162,
       "word": "本轮猴痘疫情主要通过男男传播",
       "onboard_time": 1689340723,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 773313,
-      "num": 773313,
-      "word": "18岁男孩被同学骗缅甸剃光头眼角缝针",
-      "onboard_time": 1689387389,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1689384571,
       "rank": 31,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 710745,
+      "num": 710745,
+      "word": "还有人吃玉米吐皮",
+      "onboard_time": 1689391531,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 695908,
@@ -267,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 590884,
-      "num": 572529,
-      "word": "苹果回应iPhone高温季发烫",
-      "onboard_time": 1689388293,
-      "rank": 22,
-      "category": "科技"
-    },
-    {
       "raw_hot": 585732,
       "num": 331722,
       "word": "肖战警告肖战工作室",
@@ -291,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584532,
+      "num": 584532,
+      "word": "女子应聘小学行政跟岗10多天被辞退",
+      "onboard_time": 1689389426,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 582382,
       "num": 582382,
       "word": "音银取消EXO粉丝录制资格",
@@ -305,14 +337,6 @@
       "onboard_time": 1689350376,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 531819,
-      "num": 462089,
-      "word": "女子应聘小学行政跟岗10多天被辞退",
-      "onboard_time": 1689389426,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 511563,
@@ -339,12 +363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481164,
+      "num": 481164,
+      "word": "江苏报告8例猴痘病例",
+      "onboard_time": 1689392492,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450572,
       "num": 312793,
       "word": "易烊千玺发了好多心",
       "onboard_time": 1689344921,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450468,
+      "num": 450468,
+      "word": "魏大勋一秒变脸",
+      "onboard_time": 1689393329,
+      "rank": 17,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 444788,
@@ -385,6 +425,14 @@
       "onboard_time": 1689389669,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417074,
+      "num": 417074,
+      "word": "鹿晗上海站禁止携带灯牌",
+      "onboard_time": 1689394412,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 416883,
@@ -467,6 +515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 395273,
+      "num": 395273,
+      "word": "杨颖对郑恺说我是你妈妈",
+      "onboard_time": 1689390990,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394750,
       "num": 364608,
       "word": "男生因姐姐喜欢上跳绳打破世界纪录",
@@ -497,6 +553,14 @@
       "onboard_time": 1689386670,
       "rank": 24,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 371952,
+      "num": 371952,
+      "word": "学生疑被老师罚站太阳下中暑去世",
+      "onboard_time": 1689393510,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 368639,
@@ -531,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353108,
+      "num": 353108,
+      "word": "周扬青晒韩国夜店照",
+      "onboard_time": 1689392010,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352029,
       "num": 308952,
       "word": "李在真 好你妈",
@@ -555,12 +627,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325678,
+      "num": 325678,
+      "word": "河南特岗",
+      "onboard_time": 1689393451,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 321098,
       "num": 311644,
       "word": "男子结扎1年妻子怀孕医院赔1万4",
       "onboard_time": 1689331716,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317590,
+      "num": 317590,
+      "word": "何炅谢娜再同框",
+      "onboard_time": 1689393391,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 317530,
@@ -595,12 +683,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 308095,
+      "num": 308095,
+      "word": "全员加速中",
+      "onboard_time": 1689394653,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306619,
       "num": 306619,
       "word": "保洁阿姨是一眼地都没看啊",
       "onboard_time": 1689349596,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306284,
+      "num": 306284,
+      "word": "贾静雯额前编发",
+      "onboard_time": 1689393870,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 303918,
@@ -667,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289703,
+      "num": 289703,
+      "word": "父亲想让被救女儿认邻居干爸",
+      "onboard_time": 1689393751,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289637,
       "num": 274053,
       "word": "属于易烊千玺和粉丝的浪漫",
@@ -699,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272677,
+      "num": 272677,
+      "word": "小区高层养7头牛邻居苦不堪言",
+      "onboard_time": 1689391170,
+      "rank": 44,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 271598,
       "num": 263158,
       "word": "宋雨琦米妮奔跑吧镜头好少",
@@ -724,19 +844,11 @@
     },
     {
       "raw_hot": 258994,
-      "num": 277098,
+      "num": 310270,
       "word": "被拐26年她一直记得人贩子的脸",
       "onboard_time": 1689388531,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249766,
-      "num": 249766,
-      "word": "还有人吃玉米吐皮",
-      "onboard_time": 1689391531,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 247557,
@@ -785,6 +897,14 @@
       "onboard_time": 1689332492,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228394,
+      "num": 228394,
+      "word": "湖南婆婆的催生方式有多绝",
+      "onboard_time": 1689394354,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226355,
@@ -883,6 +1003,30 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 205952,
+      "num": 205952,
+      "word": "真的很喜欢以前的办公桌",
+      "onboard_time": 1689392970,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 203510,
+      "num": 203510,
+      "word": "当五月天的倔强遇上热烈",
+      "onboard_time": 1689394293,
+      "rank": 43,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 198261,
+      "num": 198261,
+      "word": "广西的芒果告诉你这天有多热",
+      "onboard_time": 1689392852,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197295,
       "num": 197295,
       "word": "于正 少年权臣vs妖孽太妃",
@@ -891,28 +1035,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196293,
-      "num": 196293,
-      "word": "小区高层养7头牛邻居苦不堪言",
-      "onboard_time": 1689391170,
-      "rank": 44,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 196119,
       "num": 196119,
       "word": "鹿晗翻牌邓超灯牌",
       "onboard_time": 1689379225,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195513,
-      "num": 198774,
-      "word": "周扬青晒韩国夜店照",
-      "onboard_time": 1689392010,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 195197,
