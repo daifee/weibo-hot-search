@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689403023184,
+  "endTime": 1689405415219,
   "band_list": [
     {
       "raw_hot": 3115262,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2816041,
-      "num": 2816041,
+      "raw_hot": 2849660,
+      "num": 2849660,
       "word": "奔跑吧后期回应",
       "onboard_time": 1689400351,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 927162,
+      "num": 927162,
+      "word": "蒋敦豪 一定要再见啊晴天",
+      "onboard_time": 1689398250,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 914805,
       "num": 283211,
       "word": "男子爆料岳母总和妻子一起睡主卧",
@@ -243,14 +251,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 822432,
-      "num": 822432,
-      "word": "蒋敦豪 一定要再见啊晴天",
-      "onboard_time": 1689398250,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 818056,
       "num": 818056,
       "word": "9000元补贴能缓解独子养老焦虑吗",
@@ -299,6 +299,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 728108,
+      "num": 728108,
+      "word": "当初对猫眼是大声了点",
+      "onboard_time": 1689401431,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 710745,
       "num": 710745,
       "word": "还有人吃玉米吐皮",
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664471,
+      "num": 321957,
+      "word": "杨洋王楚然啥时候才能演到这里",
+      "onboard_time": 1689404251,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 658016,
       "num": 658016,
       "word": "父亲想让被救女儿认邻居干爸",
@@ -361,14 +377,6 @@
       "onboard_time": 1689390751,
       "rank": 43,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 625305,
-      "num": 625305,
-      "word": "当初对猫眼是大声了点",
-      "onboard_time": 1689401431,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 618765,
@@ -505,6 +513,14 @@
       "onboard_time": 1689397592,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471344,
+      "num": 267871,
+      "word": "猴痘传播有多快",
+      "onboard_time": 1689402031,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465744,
@@ -723,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383336,
-      "num": 267871,
-      "word": "猴痘传播有多快",
-      "onboard_time": 1689402031,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377781,
       "num": 377781,
       "word": "中国官方回应阿斯巴甜评估结果",
@@ -787,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354039,
+      "num": 282252,
+      "word": "刘学义拿杯的手",
+      "onboard_time": 1689402691,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352029,
       "num": 308952,
       "word": "李在真 好你妈",
@@ -809,6 +825,30 @@
       "onboard_time": 1689390094,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343843,
+      "num": 257904,
+      "word": "同事离职了还有东西没带走",
+      "onboard_time": 1689404251,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 334274,
+      "num": 259243,
+      "word": "暑假影视综已经有三爆了",
+      "onboard_time": 1689404428,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329482,
+      "num": 259106,
+      "word": "蔡依林42岁身材管理",
+      "onboard_time": 1689404789,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 325678,
@@ -923,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302774,
+      "num": 257646,
+      "word": "婚纱照一下子就更生动了",
+      "onboard_time": 1689403891,
+      "rank": 31,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 301690,
       "num": 301690,
       "word": "这种感觉的照片还有吗",
@@ -995,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282537,
+      "num": 258625,
+      "word": "白鹿钻出车顶录粉丝第一视角",
+      "onboard_time": 1689402511,
+      "rank": 32,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 281451,
       "num": 309690,
       "word": "左然",
@@ -1051,6 +1107,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267862,
+      "num": 257438,
+      "word": "12岁男孩内蒙古乘三角翼遇难",
+      "onboard_time": 1689405029,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266147,
+      "num": 258552,
+      "word": "看不出来我在蹭魏大勋吗",
+      "onboard_time": 1689400652,
+      "rank": 41,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 261171,
       "num": 261171,
       "word": "00后也到了血脉觉醒的年纪",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1689388531,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257298,
+      "num": 257298,
+      "word": "论牙齿对颜值的影响",
+      "onboard_time": 1689404490,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 247557,
@@ -1123,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230567,
-      "num": 230567,
-      "word": "白鹿钻出车顶录粉丝第一视角",
-      "onboard_time": 1689402511,
-      "rank": 32,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 228394,
       "num": 228394,
       "word": "湖南婆婆的催生方式有多绝",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1689335973,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224539,
+      "num": 224539,
+      "word": "EXO粉丝全场大合唱growl",
+      "onboard_time": 1689404010,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 224105,
@@ -1201,6 +1281,14 @@
       "onboard_time": 1689400411,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220476,
+      "num": 220476,
+      "word": "宋亚轩嘴碎",
+      "onboard_time": 1689404251,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 218984,
@@ -1267,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200833,
+      "num": 200833,
+      "word": "时代少年团全员加速中下班路透",
+      "onboard_time": 1689402991,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198261,
       "num": 198261,
       "word": "广西的芒果告诉你这天有多热",
@@ -1299,14 +1395,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195015,
-      "num": 195015,
-      "word": "看不出来我在蹭魏大勋吗",
-      "onboard_time": 1689400652,
-      "rank": 41,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 194829,
       "num": 194829,
       "word": "司机还纳闷车倒一半咋不动啦",
@@ -1329,14 +1417,6 @@
       "onboard_time": 1689399091,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188335,
-      "num": 188335,
-      "word": "刘学义拿杯的手",
-      "onboard_time": 1689402691,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 188248,
@@ -1395,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177928,
+      "num": 177928,
+      "word": "刘惜君朱珠一对视就笑场",
+      "onboard_time": 1689403711,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176323,
       "num": 183391,
       "word": "李若彤李白造型",
@@ -1409,14 +1497,6 @@
       "onboard_time": 1689330695,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170445,
-      "num": 170445,
-      "word": "时代少年团全员加速中下班路透",
-      "onboard_time": 1689402991,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 163380,
@@ -1449,6 +1529,14 @@
       "onboard_time": 1689376400,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128250,
+      "num": 166991,
+      "word": "放弃为了取悦他人而做的努力",
+      "onboard_time": 1689405213,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 121501,
