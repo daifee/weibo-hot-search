@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689442429715,
+  "endTime": 1689445326280,
   "band_list": [
     {
       "raw_hot": 2064215,
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168047,
+      "num": 135190,
+      "word": "小爱去看鹿晗演唱会",
+      "onboard_time": 1689442760,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154697,
       "num": 154697,
       "word": "小男孩一本正经对毛巾说话绷不住了",
@@ -449,6 +457,14 @@
       "onboard_time": 1689437671,
       "rank": 49,
       "category": "国内要闻,科技"
+    },
+    {
+      "raw_hot": 66019,
+      "num": 66019,
+      "word": "敖子逸张艺凡还能回去公司吗",
+      "onboard_time": 1689444020,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 29964,
