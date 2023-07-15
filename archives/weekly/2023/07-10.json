@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689427348140,
+  "endTime": 1689428026999,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -97,6 +97,14 @@
       "onboard_time": 1689342942,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3468029,
+      "num": 3468029,
+      "word": "致死率90%的猫冠状病毒或已扩散",
+      "onboard_time": 1689423871,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3313165,
@@ -208,14 +216,6 @@
       "word": "米兰昆德拉去世",
       "onboard_time": 1689153697,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3020224,
-      "num": 3020224,
-      "word": "致死率90%的猫冠状病毒或已扩散",
-      "onboard_time": 1689423871,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -723,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1858371,
+      "num": 1858371,
+      "word": "何炅谢娜哭着拥抱",
+      "onboard_time": 1689426033,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1839688,
       "num": 1218433,
       "word": "杨洋 方头明",
@@ -1216,14 +1224,6 @@
       "word": "秋瓷炫于晓光同床异梦2预告",
       "onboard_time": 1689047434,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1406259,
-      "num": 1406259,
-      "word": "何炅谢娜哭着拥抱",
-      "onboard_time": 1689426033,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -2947,6 +2947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 818359,
+      "num": 818359,
+      "word": "一半魏大勋一半范丞丞",
+      "onboard_time": 1689426155,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 818056,
       "num": 818056,
       "word": "9000元补贴能缓解独子养老焦虑吗",
@@ -3249,6 +3257,14 @@
       "onboard_time": 1689059733,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 744689,
+      "num": 345360,
+      "word": "女童内裤印拼音被质疑擦边",
+      "onboard_time": 1689425973,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 744235,
@@ -3577,14 +3593,6 @@
       "onboard_time": 1688976094,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 689705,
-      "num": 345360,
-      "word": "女童内裤印拼音被质疑擦边",
-      "onboard_time": 1689425973,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 688923,
@@ -5043,12 +5051,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 529633,
-      "num": 529633,
-      "word": "一半魏大勋一半范丞丞",
-      "onboard_time": 1689426155,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 531223,
+      "num": 531223,
+      "word": "赵磊 爱的消亡史不涉及对任何人的侵犯",
+      "onboard_time": 1689426516,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 529387,
@@ -7371,6 +7379,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 383319,
+      "num": 312781,
+      "word": "重庆茉莉冰豆浆",
+      "onboard_time": 1689426875,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 383262,
       "num": 367580,
       "word": "中层领导在公司的地位",
@@ -7521,6 +7537,14 @@
       "onboard_time": 1689410430,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375734,
+      "num": 325333,
+      "word": "张婧仪纯素颜",
+      "onboard_time": 1689426455,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 375708,
@@ -8091,14 +8115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342845,
-      "num": 342845,
-      "word": "赵磊 爱的消亡史不涉及对任何人的侵犯",
-      "onboard_time": 1689426516,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341257,
       "num": 341257,
       "word": "张鲁一演五年没出门宅男",
@@ -8249,6 +8265,14 @@
       "onboard_time": 1689169659,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336135,
+      "num": 305281,
+      "word": "杨紫现身MLB选秀体验现场",
+      "onboard_time": 1689426155,
+      "rank": 32,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 336127,
@@ -8427,14 +8451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 327936,
-      "num": 312781,
-      "word": "重庆茉莉冰豆浆",
-      "onboard_time": 1689426875,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 327616,
       "num": 260968,
       "word": "印度夫妻因欠网贷杀子后自杀",
@@ -8489,14 +8505,6 @@
       "onboard_time": 1689319775,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 325333,
-      "num": 325333,
-      "word": "张婧仪纯素颜",
-      "onboard_time": 1689426455,
-      "rank": 28,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 324540,
@@ -8779,6 +8787,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 310658,
+      "num": 310658,
+      "word": "新娘回应0彩礼用52辆轮椅迎亲",
+      "onboard_time": 1689427056,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310571,
       "num": 310571,
       "word": "八角笼中票房破10亿",
@@ -8929,14 +8945,6 @@
       "onboard_time": 1689005073,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305281,
-      "num": 305281,
-      "word": "杨紫现身MLB选秀体验现场",
-      "onboard_time": 1689426155,
-      "rank": 32,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 304049,
@@ -9107,6 +9115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298096,
+      "num": 287151,
+      "word": "宋亚轩问可以绑银行卡吗",
+      "onboard_time": 1689426935,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297982,
       "num": 297982,
       "word": "张一山的鞋",
@@ -9185,6 +9201,14 @@
       "onboard_time": 1689047916,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296363,
+      "num": 346740,
+      "word": "狼队对战DYG",
+      "onboard_time": 1689426633,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 296274,
@@ -9571,6 +9595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284215,
+      "num": 284215,
+      "word": "杨洋追杨迪摔了一跤",
+      "onboard_time": 1689427596,
+      "rank": 35,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 284192,
       "num": 284192,
       "word": "不设限毕业礼共唱歌单",
@@ -9841,14 +9873,6 @@
       "onboard_time": 1689031525,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274385,
-      "num": 274385,
-      "word": "宋亚轩问可以绑银行卡吗",
-      "onboard_time": 1689426935,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 274164,
@@ -10945,14 +10969,6 @@
       "onboard_time": 1689381689,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235274,
-      "num": 346740,
-      "word": "狼队对战DYG",
-      "onboard_time": 1689426633,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 235248,
@@ -12603,14 +12619,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 192333,
-      "num": 270964,
-      "word": "新娘回应0彩礼用52辆轮椅迎亲",
-      "onboard_time": 1689427056,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191890,
       "num": 191890,
       "word": "无毛猫夏天真的好惨啊",
@@ -13409,6 +13417,14 @@
       "onboard_time": 1689237573,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163631,
+      "num": 258928,
+      "word": "张拿铁 汉语英语全废了",
+      "onboard_time": 1689427896,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 163377,
