@@ -1,6 +1,6 @@
 {
   "startTime": 1689351821747,
-  "endTime": 1689395810696,
+  "endTime": 1689398288076,
   "band_list": [
     {
       "raw_hot": 3115262,
@@ -179,6 +179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 836465,
+      "num": 836465,
+      "word": "种地团小羊晴天",
+      "onboard_time": 1689395071,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 829276,
       "num": 776838,
       "word": "陈国豪当选状元",
@@ -219,6 +227,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 734281,
+      "num": 734281,
+      "word": "鹿晗上海站禁止携带灯牌",
+      "onboard_time": 1689394412,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 734143,
       "num": 734143,
       "word": "降温后淄博烧烤行业现状",
@@ -251,22 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 681406,
-      "num": 681406,
-      "word": "种地团小羊晴天",
-      "onboard_time": 1689395071,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 676476,
-      "num": 676476,
-      "word": "鹿晗上海站禁止携带灯牌",
-      "onboard_time": 1689394412,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 673792,
       "num": 347182,
       "word": "曝迪丽热巴与嘉行已续约",
@@ -281,6 +281,14 @@
       "onboard_time": 1689347801,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 650064,
+      "num": 650064,
+      "word": "魏大勋一秒变脸",
+      "onboard_time": 1689393329,
+      "rank": 17,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 642030,
@@ -305,6 +313,14 @@
       "onboard_time": 1689383551,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 602417,
+      "num": 602417,
+      "word": "父亲想让被救女儿认邻居干爸",
+      "onboard_time": 1689393751,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598246,
@@ -347,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 579281,
-      "num": 579281,
-      "word": "魏大勋一秒变脸",
-      "onboard_time": 1689393329,
-      "rank": 17,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 572851,
       "num": 309201,
       "word": "著名导演贝聿娍去世",
@@ -369,6 +377,14 @@
       "onboard_time": 1689387452,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 504374,
+      "num": 504374,
+      "word": "玉骨遥大结局点映礼",
+      "onboard_time": 1689395011,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 499326,
@@ -403,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463276,
+      "num": 463276,
+      "word": "迪丽热巴21岁到31岁荧幕变化",
+      "onboard_time": 1689396032,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 450572,
       "num": 312793,
       "word": "易烊千玺发了好多心",
@@ -416,6 +440,14 @@
       "word": "Angelababy鸡蛋花头饰",
       "onboard_time": 1689349119,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 443411,
+      "num": 303814,
+      "word": "种地吧送别小羊晴天",
+      "onboard_time": 1689398008,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -435,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426569,
+      "num": 426569,
+      "word": "魏大勋分生日蛋糕",
+      "onboard_time": 1689395795,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421557,
       "num": 421557,
       "word": "看完后100%的人试了一下",
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 417545,
-      "num": 318197,
+      "num": 375304,
       "word": "花35元买半个西瓜果切拼完没有心",
       "onboard_time": 1689395252,
       "rank": 30,
@@ -467,20 +507,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 416450,
+      "num": 416450,
+      "word": "周扬青晒韩国夜店照",
+      "onboard_time": 1689392010,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415692,
       "num": 415692,
       "word": "双鱼座很容易被困在回忆里",
       "onboard_time": 1689380246,
       "rank": 8,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 415015,
-      "num": 415015,
-      "word": "玉骨遥大结局点映礼",
-      "onboard_time": 1689395011,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 413863,
@@ -499,19 +539,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410393,
-      "num": 410393,
-      "word": "父亲想让被救女儿认邻居干爸",
-      "onboard_time": 1689393751,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409511,
       "num": 310973,
       "word": "朱正廷要海外开演唱会被粉丝吐槽",
       "onboard_time": 1689347021,
       "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 409230,
+      "num": 409230,
+      "word": "王宝强在刘若英演唱会上说永远爱姐姐",
+      "onboard_time": 1689395191,
+      "rank": 22,
       "category": "音乐"
     },
     {
@@ -571,20 +611,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 393303,
-      "num": 393303,
-      "word": "王宝强在刘若英演唱会上说永远爱姐姐",
-      "onboard_time": 1689395191,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 390308,
       "num": 336486,
       "word": "米卡cos白展堂",
       "onboard_time": 1689385711,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378063,
+      "num": 372687,
+      "word": "花间令",
+      "onboard_time": 1689397592,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 377781,
@@ -635,20 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356426,
+      "num": 356426,
+      "word": "奔跑吧泰国篇好看吗",
+      "onboard_time": 1689396870,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355580,
       "num": 310029,
       "word": "心动2全员录心动6",
       "onboard_time": 1689347078,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 353108,
-      "num": 353108,
-      "word": "周扬青晒韩国夜店照",
-      "onboard_time": 1689392010,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 352029,
@@ -689,6 +729,14 @@
       "onboard_time": 1689331716,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320574,
+      "num": 308892,
+      "word": "森林进化论",
+      "onboard_time": 1689398250,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 320232,
@@ -745,6 +793,14 @@
       "onboard_time": 1689394653,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307688,
+      "num": 307688,
+      "word": "最好不要把工作当成天大的事",
+      "onboard_time": 1689397112,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 306619,
@@ -827,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289805,
+      "num": 289805,
+      "word": "周深郑恺是有心事吗",
+      "onboard_time": 1689396631,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289637,
       "num": 274053,
       "word": "属于易烊千玺和粉丝的浪漫",
@@ -865,6 +929,14 @@
       "onboard_time": 1689378746,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270898,
+      "num": 257514,
+      "word": "杨洋演过的大IP",
+      "onboard_time": 1689396032,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 269511,
@@ -987,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222262,
+      "num": 222262,
+      "word": "范丞丞跟空气玩儿",
+      "onboard_time": 1689397410,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222051,
       "num": 222051,
       "word": "北控男篮选中矣进宏",
@@ -1027,6 +1107,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 212414,
+      "num": 228662,
+      "word": "黄磊学刘芸骂郑钧",
+      "onboard_time": 1689395490,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209333,
       "num": 209333,
       "word": "没睡好觉是怎样弄垮健康的",
@@ -1057,14 +1145,6 @@
       "onboard_time": 1689392852,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198019,
-      "num": 228662,
-      "word": "黄磊学刘芸骂郑钧",
-      "onboard_time": 1689395490,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 197295,
@@ -1107,14 +1187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188707,
-      "num": 228654,
-      "word": "魏大勋分生日蛋糕",
-      "onboard_time": 1689395795,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 188248,
       "num": 293244,
       "word": "德约科维奇 裁判",
@@ -1153,6 +1225,14 @@
       "onboard_time": 1689349899,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 182624,
+      "num": 197264,
+      "word": "蒋敦豪 一定要再见啊晴天",
+      "onboard_time": 1689398250,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 181818,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689395810696,
+  "endTime": 1689398288076,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -7179,6 +7179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 836465,
+      "num": 836465,
+      "word": "种地团小羊晴天",
+      "onboard_time": 1689395071,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 835318,
       "num": 835318,
       "word": "火锅店买8000斤滞销瓜送顾客",
@@ -8539,6 +8547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 734281,
+      "num": 734281,
+      "word": "鹿晗上海站禁止携带灯牌",
+      "onboard_time": 1689394412,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 734143,
       "num": 734143,
       "word": "降温后淄博烧烤行业现状",
@@ -9363,14 +9379,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 681406,
-      "num": 681406,
-      "word": "种地团小羊晴天",
-      "onboard_time": 1689395071,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 681135,
       "num": 681135,
       "word": "沈月说到杨迪就哭了",
@@ -9457,14 +9465,6 @@
       "onboard_time": 1688269410,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 676476,
-      "num": 676476,
-      "word": "鹿晗上海站禁止携带灯牌",
-      "onboard_time": 1689394412,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 675298,
@@ -10057,6 +10057,14 @@
       "onboard_time": 1688347713,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 650064,
+      "num": 650064,
+      "word": "魏大勋一秒变脸",
+      "onboard_time": 1689393329,
+      "rank": 17,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 649899,
@@ -10963,6 +10971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 602417,
+      "num": 602417,
+      "word": "父亲想让被救女儿认邻居干爸",
+      "onboard_time": 1689393751,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601948,
       "num": 350010,
       "word": "她好厉害她一定会是我",
@@ -11417,14 +11433,6 @@
       "onboard_time": 1689263252,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579281,
-      "num": 579281,
-      "word": "魏大勋一秒变脸",
-      "onboard_time": 1689393329,
-      "rank": 17,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 578592,
@@ -13307,6 +13315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 504374,
+      "num": 504374,
+      "word": "玉骨遥大结局点映礼",
+      "onboard_time": 1689395011,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 504059,
       "num": 504059,
       "word": "爱宝双胞胎幼崽吃奶",
@@ -14571,6 +14587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 463276,
+      "num": 463276,
+      "word": "迪丽热巴21岁到31岁荧幕变化",
+      "onboard_time": 1689396032,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 462976,
       "num": 462976,
       "word": "年轻人为什么不买快时尚的账了",
@@ -15265,6 +15289,14 @@
       "onboard_time": 1688886450,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 443411,
+      "num": 303814,
+      "word": "种地吧送别小羊晴天",
+      "onboard_time": 1689398008,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 443264,
@@ -16003,6 +16035,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 426569,
+      "num": 426569,
+      "word": "魏大勋分生日蛋糕",
+      "onboard_time": 1689395795,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 425989,
       "num": 425989,
       "word": "JDG对战iG",
@@ -16316,7 +16356,7 @@
     },
     {
       "raw_hot": 417545,
-      "num": 318197,
+      "num": 375304,
       "word": "花35元买半个西瓜果切拼完没有心",
       "onboard_time": 1689395252,
       "rank": 30,
@@ -16369,6 +16409,14 @@
       "onboard_time": 1688195130,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 416450,
+      "num": 416450,
+      "word": "周扬青晒韩国夜店照",
+      "onboard_time": 1689392010,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 416419,
@@ -16433,14 +16481,6 @@
       "onboard_time": 1689319597,
       "rank": 44,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 415015,
-      "num": 415015,
-      "word": "玉骨遥大结局点映礼",
-      "onboard_time": 1689395011,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 414943,
@@ -16603,14 +16643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410393,
-      "num": 410393,
-      "word": "父亲想让被救女儿认邻居干爸",
-      "onboard_time": 1689393751,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410019,
       "num": 410019,
       "word": "bilibiliworld",
@@ -16657,6 +16689,14 @@
       "onboard_time": 1689173917,
       "rank": 18,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 409230,
+      "num": 409230,
+      "word": "王宝强在刘若英演唱会上说永远爱姐姐",
+      "onboard_time": 1689395191,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 408289,
@@ -17249,14 +17289,6 @@
       "onboard_time": 1689305733,
       "rank": 31,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 393303,
-      "num": 393303,
-      "word": "王宝强在刘若英演唱会上说永远爱姐姐",
-      "onboard_time": 1689395191,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 392960,
@@ -17937,6 +17969,14 @@
       "onboard_time": 1688967395,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378063,
+      "num": 372687,
+      "word": "花间令",
+      "onboard_time": 1689397592,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 377870,
@@ -18947,6 +18987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356426,
+      "num": 356426,
+      "word": "奔跑吧泰国篇好看吗",
+      "onboard_time": 1689396870,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356389,
       "num": 253337,
       "word": "电影燃冬定档七夕",
@@ -19057,14 +19105,6 @@
       "onboard_time": 1689261873,
       "rank": 36,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 353108,
-      "num": 353108,
-      "word": "周扬青晒韩国夜店照",
-      "onboard_time": 1689392010,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 352430,
@@ -20611,6 +20651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320574,
+      "num": 308892,
+      "word": "森林进化论",
+      "onboard_time": 1689398250,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320327,
       "num": 320327,
       "word": "INFP 命运会让我们相遇",
@@ -21337,6 +21385,14 @@
       "onboard_time": 1688275291,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307688,
+      "num": 307688,
+      "word": "最好不要把工作当成天大的事",
+      "onboard_time": 1689397112,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 307563,
@@ -22553,6 +22609,14 @@
       "onboard_time": 1688899473,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289805,
+      "num": 289805,
+      "word": "周深郑恺是有心事吗",
+      "onboard_time": 1689396631,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 289637,
@@ -23825,6 +23889,14 @@
       "onboard_time": 1689044254,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270898,
+      "num": 257514,
+      "word": "杨洋演过的大IP",
+      "onboard_time": 1689396032,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 270874,
@@ -27523,6 +27595,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 222262,
+      "num": 222262,
+      "word": "范丞丞跟空气玩儿",
+      "onboard_time": 1689397410,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222208,
       "num": 222208,
       "word": "芒禾音乐节开售",
@@ -28456,6 +28536,14 @@
       "word": "杨幂本期密逃铁坦",
       "onboard_time": 1689153816,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212414,
+      "num": 228662,
+      "word": "黄磊学刘芸骂郑钧",
+      "onboard_time": 1689395490,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -29867,14 +29955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198019,
-      "num": 228662,
-      "word": "黄磊学刘芸骂郑钧",
-      "onboard_time": 1689395490,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198014,
       "num": 198014,
       "word": "久哲直播",
@@ -30931,14 +31011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188707,
-      "num": 228654,
-      "word": "魏大勋分生日蛋糕",
-      "onboard_time": 1689395795,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 188376,
       "num": 188376,
       "word": "星光派对",
@@ -31361,6 +31433,14 @@
       "onboard_time": 1688926036,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182624,
+      "num": 197264,
+      "word": "蒋敦豪 一定要再见啊晴天",
+      "onboard_time": 1689398250,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 182505,
