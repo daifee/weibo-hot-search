@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689446142164,
+  "endTime": 1689448465540,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -36971,6 +36971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40576,
+      "num": 42492,
+      "word": "时影失忆了",
+      "onboard_time": 1689448094,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 39664,
       "num": 1905864,
       "word": "长江文物宝藏画卷",
@@ -37217,6 +37225,14 @@
       "onboard_time": 1689426875,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 29890,
+      "num": 42469,
+      "word": "食品中吃出异物你会选择维权吗",
+      "onboard_time": 1689445697,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29797,
