@@ -1,0 +1,410 @@
+{
+  "runTime": 1689430550401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3221017,
+        "num": 3221017,
+        "word": "致死率90%的猫冠状病毒或已扩散",
+        "onboard_time": 1689423871,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1615472,
+        "num": 1615472,
+        "word": "何炅谢娜哭着拥抱",
+        "onboard_time": 1689426033,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59953,
+        "num": 1217751,
+        "word": "中国式现代化县域实践大调研",
+        "onboard_time": 1689414450,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144080,
+        "num": 1144080,
+        "word": "鹿晗说芦苇天下第一好",
+        "onboard_time": 1689428496,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 903925,
+        "num": 903925,
+        "word": "杨洋追杨迪摔了一跤",
+        "onboard_time": 1689427596,
+        "rank": 4,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 719592,
+        "num": 719592,
+        "word": "新娘回应0彩礼用52辆轮椅迎亲",
+        "onboard_time": 1689427056,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651014,
+        "num": 651014,
+        "word": "女子买鲍师傅糕点吃出黑毛",
+        "onboard_time": 1689422193,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640491,
+        "num": 640491,
+        "word": "将门嫡女",
+        "onboard_time": 1689419130,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 639964,
+        "num": 639964,
+        "word": "赵磊 爱的消亡史不涉及对任何人的侵犯",
+        "onboard_time": 1689426516,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618196,
+        "num": 618196,
+        "word": "学生被罚站中暑去世实为吃早餐晕倒",
+        "onboard_time": 1689423331,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645919,
+        "num": 617712,
+        "word": "难哄",
+        "onboard_time": 1689423273,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640853,
+        "num": 617252,
+        "word": "谢霆锋带大儿子澳洲度假",
+        "onboard_time": 1689429874,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609376,
+        "num": 609376,
+        "word": "重庆茉莉冰豆浆",
+        "onboard_time": 1689426875,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 517951,
+        "num": 517951,
+        "word": "魏大勋爸爸给猪打针打到魏大勋屁股上了",
+        "onboard_time": 1689412049,
+        "rank": 13,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 502881,
+        "num": 502881,
+        "word": "张拿铁 汉语英语全废了",
+        "onboard_time": 1689427896,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 457382,
+        "num": 457382,
+        "word": "孟美岐认为自己没有火过",
+        "onboard_time": 1689420630,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451102,
+        "num": 451102,
+        "word": "奔跑吧后期回应",
+        "onboard_time": 1689400351,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442705,
+        "num": 442705,
+        "word": "茉酸奶",
+        "onboard_time": 1689415051,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271210,
+        "num": 441694,
+        "word": "老人买门票回自己家忍不住落泪",
+        "onboard_time": 1689409531,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 192148,
+        "num": 432442,
+        "word": "福宝吃醋了",
+        "onboard_time": 1689398072,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972893,
+        "num": 421393,
+        "word": "女童内裤印拼音被质疑擦边",
+        "onboard_time": 1689425973,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507438,
+        "num": 413040,
+        "word": "35岁已婚对25岁未婚的建议",
+        "onboard_time": 1689399031,
+        "rank": 21,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 408807,
+        "num": 408807,
+        "word": "韩剧恶鬼",
+        "onboard_time": 1689428374,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422523,
+        "num": 407588,
+        "word": "张婧仪纯素颜",
+        "onboard_time": 1689426455,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 405403,
+        "num": 405403,
+        "word": "茉酸奶回应被改名",
+        "onboard_time": 1689429214,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401966,
+        "num": 401966,
+        "word": "曾少年秦茜殉情太虐了",
+        "onboard_time": 1689425914,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353172,
+        "num": 353172,
+        "word": "拍身份证最好不要戴隐形眼镜",
+        "onboard_time": 1689422193,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332912,
+        "num": 332912,
+        "word": "男孩车祸被撞断头后接回头部",
+        "onboard_time": 1689417751,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311751,
+        "num": 311751,
+        "word": "Minnie只说了三个字",
+        "onboard_time": 1689417569,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309476,
+        "num": 309476,
+        "word": "iG战胜UP",
+        "onboard_time": 1689429938,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306608,
+        "num": 306608,
+        "word": "最近可以先暂时关闭朋友圈",
+        "onboard_time": 1689418773,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303232,
+        "num": 303232,
+        "word": "Angelababy视频比精修图还美",
+        "onboard_time": 1689429276,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301718,
+        "num": 301718,
+        "word": "封神",
+        "onboard_time": 1689422009,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 796799,
+        "num": 298911,
+        "word": "一半魏大勋一半范丞丞",
+        "onboard_time": 1689426155,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292974,
+        "num": 292974,
+        "word": "Makiyo小金离婚",
+        "onboard_time": 1689414092,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283609,
+        "num": 283609,
+        "word": "魏大勋那鱼完了名场面",
+        "onboard_time": 1689424173,
+        "rank": 35,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 262314,
+        "num": 262314,
+        "word": "宋亚轩问可以绑银行卡吗",
+        "onboard_time": 1689426935,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257241,
+        "num": 257241,
+        "word": "安乐传 正经中带着好笑",
+        "onboard_time": 1689428197,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232789,
+        "num": 255497,
+        "word": "女生宿舍一般不会老是聊男生",
+        "onboard_time": 1689422372,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 228916,
+        "num": 254482,
+        "word": "当我把头部比例调成刘亦菲",
+        "onboard_time": 1689422193,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 254246,
+        "num": 254246,
+        "word": "白敬亭又跳女团舞了",
+        "onboard_time": 1689424293,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239957,
+        "num": 239957,
+        "word": "开始担心TFBOYS演唱会门票了",
+        "onboard_time": 1689412290,
+        "rank": 41,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 231381,
+        "num": 231381,
+        "word": "杨紫现身MLB选秀体验现场",
+        "onboard_time": 1689426155,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 225624,
+        "num": 225624,
+        "word": "魏大勋孟宴臣独爆",
+        "onboard_time": 1689413250,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223593,
+        "num": 223593,
+        "word": "EXO还是分K和m两队",
+        "onboard_time": 1689420392,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201616,
+        "num": 201616,
+        "word": "同事的营养全被头发吸收了",
+        "onboard_time": 1689420572,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197530,
+        "num": 197530,
+        "word": "斯诺克时尚之夜",
+        "onboard_time": 1689429396,
+        "rank": 46,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 176607,
+        "num": 176607,
+        "word": "连鞋都有一室一厅和小复式了",
+        "onboard_time": 1689425432,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171585,
+        "num": 171585,
+        "word": "台风",
+        "onboard_time": 1689407490,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166971,
+        "num": 171578,
+        "word": "晴天很短但很好的一生",
+        "onboard_time": 1689411869,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络强国建设迈出新步伐#"
+    }
+  }
+}
