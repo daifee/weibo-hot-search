@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689434296445,
+  "endTime": 1689435233320,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -4035,19 +4035,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1235609,
+      "num": 1233939,
+      "word": "魏大勋曾想帮尼坤澄清争议",
+      "onboard_time": 1689431075,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1234685,
       "num": 1092375,
       "word": "韩红 你没走就在我们身边",
       "onboard_time": 1688630372,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1233939,
-      "num": 1233939,
-      "word": "魏大勋曾想帮尼坤澄清争议",
-      "onboard_time": 1689431075,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -4321,6 +4321,14 @@
       "onboard_time": 1688222138,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1186013,
+      "num": 1186013,
+      "word": "宋轶为什么这么有底气",
+      "onboard_time": 1689431917,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1185579,
@@ -5585,14 +5593,6 @@
       "onboard_time": 1688801192,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1002637,
-      "num": 1002637,
-      "word": "宋轶为什么这么有底气",
-      "onboard_time": 1689431917,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1002633,
@@ -9795,6 +9795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 671151,
+      "num": 487971,
+      "word": "安乐传和山河令是一个导演",
+      "onboard_time": 1689431199,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 670922,
       "num": 670922,
       "word": "费曼才是香港顶流吧",
@@ -9825,14 +9833,6 @@
       "onboard_time": 1688698471,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670099,
-      "num": 441954,
-      "word": "安乐传和山河令是一个导演",
-      "onboard_time": 1689431199,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 670078,
@@ -10635,6 +10635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 636409,
+      "num": 483085,
+      "word": "谢娜上一次是回归这次是告别",
+      "onboard_time": 1689432276,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636322,
       "num": 636322,
       "word": "偷偷藏不住直通大结局",
@@ -10817,14 +10825,6 @@
       "onboard_time": 1689426875,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 628632,
-      "num": 435989,
-      "word": "谢娜上一次是回归这次是告别",
-      "onboard_time": 1689432276,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 628430,
@@ -11537,6 +11537,14 @@
       "onboard_time": 1688445825,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 595448,
+      "num": 321455,
+      "word": "抓知了卖260元一斤10天赚万元",
+      "onboard_time": 1689433178,
+      "rank": 28,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 595287,
@@ -13363,6 +13371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 519436,
+      "num": 340030,
+      "word": "孟宴臣录完开场舞就走了",
+      "onboard_time": 1689433477,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519407,
       "num": 519407,
       "word": "杨幂摩登猫眼妆",
@@ -13473,6 +13489,14 @@
       "onboard_time": 1689254616,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513764,
+      "num": 513764,
+      "word": "茉酸奶回应被改名",
+      "onboard_time": 1689429214,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513579,
@@ -16883,14 +16907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 419828,
-      "num": 416765,
-      "word": "茉酸奶回应被改名",
-      "onboard_time": 1689429214,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419630,
       "num": 419630,
       "word": "安乐传片头是谁做的",
@@ -18155,6 +18171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386200,
+      "num": 327533,
+      "word": "陈粒演唱会",
+      "onboard_time": 1689433837,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 386088,
       "num": 386088,
       "word": "爱吃雪糕和螺蛳粉的都沉默了",
@@ -18209,14 +18233,6 @@
       "onboard_time": 1688793092,
       "rank": 31,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 385167,
-      "num": 327533,
-      "word": "陈粒演唱会",
-      "onboard_time": 1689433837,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 384656,
@@ -18625,14 +18641,6 @@
       "onboard_time": 1689410430,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376140,
-      "num": 321455,
-      "word": "抓知了卖260元一斤10天赚万元",
-      "onboard_time": 1689433178,
-      "rank": 28,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 375995,
@@ -20211,14 +20219,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 342938,
-      "num": 318826,
-      "word": "孟宴臣录完开场舞就走了",
-      "onboard_time": 1689433477,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 342840,
       "num": 310134,
       "word": "玉骨遥梦中的那片海顶峰相见",
@@ -21307,6 +21307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322320,
+      "num": 322320,
+      "word": "新能源老太太",
+      "onboard_time": 1689432276,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322288,
       "num": 322288,
       "word": "王鹤棣跳舞是F班",
@@ -22329,6 +22337,14 @@
       "onboard_time": 1689318756,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303761,
+      "num": 303761,
+      "word": "贾巴尔",
+      "onboard_time": 1689434017,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 303694,
@@ -24249,14 +24265,6 @@
       "onboard_time": 1689304112,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276747,
-      "num": 276747,
-      "word": "新能源老太太",
-      "onboard_time": 1689432276,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 276599,
@@ -27507,6 +27515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234316,
+      "num": 234316,
+      "word": "张杰演唱会还有多少惊喜",
+      "onboard_time": 1689434739,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 234154,
       "num": 234154,
       "word": "三伏贴",
@@ -29515,6 +29531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212378,
+      "num": 212378,
+      "word": "毛不易演唱会",
+      "onboard_time": 1688270549,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212346,
       "num": 212399,
       "word": "4AM",
@@ -30491,14 +30515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202620,
-      "num": 202620,
-      "word": "贾巴尔",
-      "onboard_time": 1689434017,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202571,
       "num": 269380,
       "word": "抑郁症患者一多半是女性",
@@ -30529,14 +30545,6 @@
       "onboard_time": 1689174696,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202302,
-      "num": 202302,
-      "word": "毛不易演唱会",
-      "onboard_time": 1688270549,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 202265,
