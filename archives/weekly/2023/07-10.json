@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689507219717,
+  "endTime": 1689510876695,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1684263,
+      "num": 1063043,
+      "word": "宋轶手机壳是鸡哔你表情包",
+      "onboard_time": 1689504152,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1683022,
       "num": 1683022,
       "word": "李咏女儿法图麦露背身材",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1689399210,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1618584,
-      "num": 1063043,
-      "word": "宋轶手机壳是鸡哔你表情包",
-      "onboard_time": 1689504152,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1613873,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1689133775,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1462828,
+      "num": 1462828,
+      "word": "敷衍爸妈报的学校结果录取了",
+      "onboard_time": 1689505472,
+      "rank": 30,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 1458105,
@@ -1723,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1206193,
+      "num": 1206193,
+      "word": "龚俊叫迪丽热巴小丫头",
+      "onboard_time": 1689508711,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1202990,
       "num": 1202990,
       "word": "北京报告45例猴痘确诊病例",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1689399330,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1170776,
+      "num": 857785,
+      "word": "穿衣自由和擦边的标准",
+      "onboard_time": 1689504630,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 1168547,
@@ -2691,6 +2715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 922095,
+      "num": 922095,
+      "word": "时代少年团内部爆料",
+      "onboard_time": 1689509070,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 921880,
       "num": 921880,
       "word": "比嘉龙二去世",
@@ -2971,14 +3003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 880271,
-      "num": 623674,
-      "word": "敷衍爸妈报的学校结果录取了",
-      "onboard_time": 1689505472,
-      "rank": 30,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 879766,
       "num": 879766,
       "word": "入职要填微博名该怎么办",
@@ -3105,14 +3129,6 @@
       "onboard_time": 1689008961,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 857785,
-      "num": 857785,
-      "word": "穿衣自由和擦边的标准",
-      "onboard_time": 1689504630,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 856871,
@@ -3953,6 +3969,14 @@
       "onboard_time": 1689055414,
       "rank": 15,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 703304,
+      "num": 703304,
+      "word": "周恺支棱",
+      "onboard_time": 1689509731,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 702245,
@@ -5363,6 +5387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 560225,
+      "num": 560225,
+      "word": "英专毕业生的就业现状belike",
+      "onboard_time": 1689509192,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 560161,
       "num": 646402,
       "word": "ChatGPT正式被美国调查",
@@ -5729,6 +5761,14 @@
       "onboard_time": 1688921246,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 534445,
+      "num": 534445,
+      "word": "不设限毕业礼",
+      "onboard_time": 1689506910,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 533794,
@@ -6161,6 +6201,14 @@
       "onboard_time": 1688982334,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 499478,
+      "num": 561277,
+      "word": "水库免费开放给市民做天然泳池",
+      "onboard_time": 1689507690,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499326,
@@ -7025,6 +7073,14 @@
       "onboard_time": 1689130892,
       "rank": 37,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 449850,
+      "num": 449850,
+      "word": "任安乐竟是帝梓元",
+      "onboard_time": 1689508412,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 449038,
@@ -9019,6 +9075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354525,
+      "num": 354525,
+      "word": "周恺3比2王楚钦",
+      "onboard_time": 1689509553,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354205,
       "num": 354205,
       "word": "安乐传今天连更了三集",
@@ -9883,6 +9947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 313949,
+      "num": 313949,
+      "word": "我在惊悚游戏里封神漫画化",
+      "onboard_time": 1689510453,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 313620,
       "num": 313620,
       "word": "熊猫宝宝越粉证明妈妈爱得越深",
@@ -9929,6 +10001,14 @@
       "onboard_time": 1689055053,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312786,
+      "num": 257153,
+      "word": "这就是已婚男人的三字真经吧",
+      "onboard_time": 1689506069,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 312754,
@@ -11075,6 +11155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278706,
+      "num": 278706,
+      "word": "EXO和ZB1梦幻联动",
+      "onboard_time": 1689507752,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278689,
       "num": 278689,
       "word": "六公主拍的汪苏泷",
@@ -11483,6 +11571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266191,
+      "num": 266191,
+      "word": "海员真的赚这么多吗",
+      "onboard_time": 1689509612,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266147,
       "num": 258552,
       "word": "看不出来我在蹭魏大勋吗",
@@ -11755,6 +11851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258895,
+      "num": 258895,
+      "word": "为什么猫喜欢睡在人的头顶上",
+      "onboard_time": 1689508231,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258608,
       "num": 231794,
       "word": "告五人抢票",
@@ -11904,14 +12008,6 @@
       "word": "秦霄贤钓鱼把鱼喂饱了",
       "onboard_time": 1689212913,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 253909,
-      "num": 253909,
-      "word": "不设限毕业礼",
-      "onboard_time": 1689506910,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -12305,6 +12401,14 @@
       "onboard_time": 1689067295,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243149,
+      "num": 243149,
+      "word": "你好生活",
+      "onboard_time": 1689508652,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 242217,
@@ -12723,14 +12827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229463,
-      "num": 229463,
-      "word": "这就是已婚男人的三字真经吧",
-      "onboard_time": 1689506069,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 229386,
       "num": 229386,
       "word": "部落冲突",
@@ -13041,6 +13137,14 @@
       "onboard_time": 1688977831,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221322,
+      "num": 221322,
+      "word": "七岁就找到了适合自己的发型",
+      "onboard_time": 1689508471,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 221179,
@@ -13459,6 +13563,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 213271,
+      "num": 213271,
+      "word": "陈牧驰胸肌好大",
+      "onboard_time": 1689507331,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213187,
       "num": 213187,
       "word": "放了半个月的小橘子发芽了",
@@ -13748,7 +13860,7 @@
     },
     {
       "raw_hot": 205993,
-      "num": 205993,
+      "num": 528913,
       "word": "盘点毕业超燃名场面",
       "onboard_time": 1689499232,
       "rank": 29,
@@ -14177,6 +14289,14 @@
       "onboard_time": 1689143312,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196968,
+      "num": 196968,
+      "word": "小落回城",
+      "onboard_time": 1689510212,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 196811,
@@ -14683,6 +14803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185250,
+      "num": 185250,
+      "word": "KPL",
+      "onboard_time": 1689510090,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184799,
       "num": 184799,
       "word": "森林进化论定档",
@@ -14705,6 +14833,14 @@
       "onboard_time": 1689057452,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184576,
+      "num": 184576,
+      "word": "LGD终结连败",
+      "onboard_time": 1689508591,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 184512,

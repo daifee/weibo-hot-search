@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689507219717,
+  "endTime": 1689510876695,
   "band_list": [
     {
       "raw_hot": 3758613,
@@ -59,7 +59,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1618584,
+      "raw_hot": 1684263,
       "num": 1063043,
       "word": "宋轶手机壳是鸡哔你表情包",
       "onboard_time": 1689504152,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1462828,
+      "num": 1462828,
+      "word": "敷衍爸妈报的学校结果录取了",
+      "onboard_time": 1689505472,
+      "rank": 30,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 1458105,
       "num": 1458105,
       "word": "魏大勋户外综艺被要求黑西装戴眼镜",
@@ -185,6 +193,22 @@
       "onboard_time": 1689479253,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1206193,
+      "num": 1206193,
+      "word": "龚俊叫迪丽热巴小丫头",
+      "onboard_time": 1689508711,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1170776,
+      "num": 857785,
+      "word": "穿衣自由和擦边的标准",
+      "onboard_time": 1689504630,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 1134058,
@@ -259,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922095,
+      "num": 922095,
+      "word": "时代少年团内部爆料",
+      "onboard_time": 1689509070,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 918478,
       "num": 918478,
       "word": "杨洋一口气发了八条动态",
@@ -299,28 +331,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 880271,
-      "num": 623674,
-      "word": "敷衍爸妈报的学校结果录取了",
-      "onboard_time": 1689505472,
-      "rank": 30,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 873190,
       "num": 873190,
       "word": "曾举报拍黄瓜父子买人民币花束后投诉",
       "onboard_time": 1689470190,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857785,
-      "num": 857785,
-      "word": "穿衣自由和擦边的标准",
-      "onboard_time": 1689504630,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 856847,
@@ -401,6 +417,14 @@
       "onboard_time": 1689478472,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703304,
+      "num": 703304,
+      "word": "周恺支棱",
+      "onboard_time": 1689509731,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 699854,
@@ -611,6 +635,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 560225,
+      "num": 560225,
+      "word": "英专毕业生的就业现状belike",
+      "onboard_time": 1689509192,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 557521,
       "num": 438995,
       "word": "为什么人很瘦小腿却很胖",
@@ -657,6 +689,14 @@
       "onboard_time": 1689423331,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534445,
+      "num": 534445,
+      "word": "不设限毕业礼",
+      "onboard_time": 1689506910,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 526054,
@@ -729,6 +769,14 @@
       "onboard_time": 1689493231,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 499478,
+      "num": 561277,
+      "word": "水库免费开放给市民做天然泳池",
+      "onboard_time": 1689507690,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496783,
@@ -833,6 +881,14 @@
       "onboard_time": 1689467068,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 449850,
+      "num": 449850,
+      "word": "任安乐竟是帝梓元",
+      "onboard_time": 1689508412,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 445409,
@@ -1051,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 354525,
+      "num": 354525,
+      "word": "周恺3比2王楚钦",
+      "onboard_time": 1689509553,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353814,
       "num": 353814,
       "word": "女网红拳击比赛获胜撩衣露胸庆祝",
@@ -1179,12 +1243,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313949,
+      "num": 313949,
+      "word": "我在惊悚游戏里封神漫画化",
+      "onboard_time": 1689510453,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 313059,
       "num": 233846,
       "word": "孟子义说我很爱你龙羽翎",
       "onboard_time": 1689491554,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312786,
+      "num": 257153,
+      "word": "这就是已婚男人的三字真经吧",
+      "onboard_time": 1689506069,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 312689,
@@ -1371,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278706,
+      "num": 278706,
+      "word": "EXO和ZB1梦幻联动",
+      "onboard_time": 1689507752,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277520,
       "num": 277520,
       "word": "五月天沈阳演唱会说谢谢深圳",
@@ -1443,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266191,
+      "num": 266191,
+      "word": "海员真的赚这么多吗",
+      "onboard_time": 1689509612,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264355,
       "num": 243468,
       "word": "重庆地铁",
@@ -1483,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258895,
+      "num": 258895,
+      "word": "为什么猫喜欢睡在人的头顶上",
+      "onboard_time": 1689508231,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258608,
       "num": 231794,
       "word": "告五人抢票",
@@ -1497,14 +1601,6 @@
       "onboard_time": 1689483214,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253909,
-      "num": 253909,
-      "word": "不设限毕业礼",
-      "onboard_time": 1689506910,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 253472,
@@ -1587,6 +1683,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 243149,
+      "num": 243149,
+      "word": "你好生活",
+      "onboard_time": 1689508652,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239947,
       "num": 239947,
       "word": "警方回应女子疑当街强抱小孩",
@@ -1625,14 +1729,6 @@
       "onboard_time": 1689492935,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229463,
-      "num": 229463,
-      "word": "这就是已婚男人的三字真经吧",
-      "onboard_time": 1689506069,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 229255,
@@ -1707,6 +1803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 221322,
+      "num": 221322,
+      "word": "七岁就找到了适合自己的发型",
+      "onboard_time": 1689508471,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221176,
       "num": 221176,
       "word": "努力但又没完全努力",
@@ -1763,6 +1867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213479,
+      "num": 213479,
+      "word": "曾少年",
+      "onboard_time": 1689509012,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213271,
+      "num": 213271,
+      "word": "陈牧驰胸肌好大",
+      "onboard_time": 1689507331,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213142,
       "num": 213142,
       "word": "吴京巨齿鲨2人设",
@@ -1804,7 +1924,7 @@
     },
     {
       "raw_hot": 205993,
-      "num": 205993,
+      "num": 528913,
       "word": "盘点毕业超燃名场面",
       "onboard_time": 1689499232,
       "rank": 29,
@@ -1883,6 +2003,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 196968,
+      "num": 196968,
+      "word": "小落回城",
+      "onboard_time": 1689510212,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196822,
       "num": 196822,
       "word": "魏大勋爸爸给猪打针打到魏大勋屁股上了",
@@ -1955,12 +2083,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185250,
+      "num": 185250,
+      "word": "KPL",
+      "onboard_time": 1689510090,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184893,
       "num": 184893,
       "word": "Makiyo小金离婚",
       "onboard_time": 1689414092,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184576,
+      "num": 184576,
+      "word": "LGD终结连败",
+      "onboard_time": 1689508591,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 184201,
