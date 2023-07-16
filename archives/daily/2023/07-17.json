@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689543236668,
+  "endTime": 1689545819588,
   "band_list": [
     {
       "raw_hot": 1689781,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1111458,
-      "num": 238002,
+      "num": 645692,
       "word": "拜登政府宣布取消390亿美元学生贷款债务",
       "onboard_time": 1689523711,
       "rank": 30,
@@ -403,6 +403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 139484,
+      "num": 139484,
+      "word": "消防员就应该拍成这样",
+      "onboard_time": 1689541873,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118956,
       "num": 138750,
       "word": "以为永远不会分开的朋友不再交谈了",
@@ -475,19 +483,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38272,
-      "num": 38272,
-      "word": "新版妲己封神首映弹古琴",
-      "onboard_time": 1689533594,
-      "rank": 33,
+      "raw_hot": 49992,
+      "num": 49992,
+      "word": "肖战片场逗兔子",
+      "onboard_time": 1689538511,
+      "rank": 47,
       "category": "影视"
     },
     {
-      "raw_hot": 36410,
-      "num": 36410,
-      "word": "消防员就应该拍成这样",
-      "onboard_time": 1689541873,
-      "rank": 42,
+      "raw_hot": 38272,
+      "num": 45571,
+      "word": "新版妲己封神首映弹古琴",
+      "onboard_time": 1689533594,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -499,20 +507,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 34465,
-      "num": 34465,
+      "raw_hot": 34529,
+      "num": 45577,
       "word": "武大靖回应网友说他像高适",
       "onboard_time": 1689534672,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32874,
-      "num": 32874,
-      "word": "肖战片场逗兔子",
-      "onboard_time": 1689538511,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 20995,
