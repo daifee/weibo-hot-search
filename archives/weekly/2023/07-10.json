@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689499037104,
+  "endTime": 1689500042090,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -1035,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1607865,
+      "num": 1607865,
+      "word": "最不想解散的内娱组合",
+      "onboard_time": 1689494913,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1604198,
       "num": 1604198,
       "word": "小学已无00后",
@@ -1288,14 +1296,6 @@
       "word": "Makiyo小金离婚",
       "onboard_time": 1689414092,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1438603,
-      "num": 1438603,
-      "word": "最不想解散的内娱组合",
-      "onboard_time": 1689494913,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2512,6 +2512,14 @@
       "word": "关晓彤范丞丞新剧吻戏",
       "onboard_time": 1688997214,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 955404,
+      "num": 955404,
+      "word": "八角笼中开拍前投资全撤了",
+      "onboard_time": 1689496831,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -4107,6 +4115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674404,
+      "num": 339505,
+      "word": "网友偶遇易烊千玺看展",
+      "onboard_time": 1689497313,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672928,
       "num": 672928,
       "word": "张元英露腰",
@@ -4128,14 +4144,6 @@
       "word": "费曼才是香港顶流吧",
       "onboard_time": 1689347801,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 669312,
-      "num": 339505,
-      "word": "网友偶遇易烊千玺看展",
-      "onboard_time": 1689497313,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -4913,14 +4921,6 @@
       "onboard_time": 1689304832,
       "rank": 21,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 593015,
-      "num": 316949,
-      "word": "八角笼中开拍前投资全撤了",
-      "onboard_time": 1689496831,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 591868,
@@ -6275,6 +6275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488341,
+      "num": 205464,
+      "word": "日本唯一的破产城市",
+      "onboard_time": 1689498991,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 487259,
       "num": 487259,
       "word": "无锡3岁女童母亲疑募捐百万",
@@ -6961,6 +6969,14 @@
       "onboard_time": 1689337660,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 444836,
+      "num": 261287,
+      "word": "刘耀文剪短发了",
+      "onboard_time": 1689498452,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 444788,
@@ -8115,6 +8131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390460,
+      "num": 212605,
+      "word": "水豚 不吃别乱夹",
+      "onboard_time": 1689498273,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 390308,
       "num": 336486,
       "word": "米卡cos白展堂",
@@ -8243,6 +8267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 385491,
+      "num": 204812,
+      "word": "不是衣服不好看是你不会搭",
+      "onboard_time": 1689498153,
+      "rank": 34,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 384656,
       "num": 384656,
       "word": "CA1524航班颠簸致1旅客1乘务员受伤",
@@ -8273,14 +8305,6 @@
       "onboard_time": 1689049182,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 383149,
-      "num": 254861,
-      "word": "刘耀文剪短发了",
-      "onboard_time": 1689498452,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 382626,
@@ -10452,7 +10476,7 @@
     },
     {
       "raw_hot": 292693,
-      "num": 217860,
+      "num": 220923,
       "word": "宋丹丹向汪苏泷李雪琴道歉",
       "onboard_time": 1689497252,
       "rank": 28,
@@ -10595,6 +10619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288877,
+      "num": 288877,
+      "word": "弟弟背起失散18年哥哥飞奔回家",
+      "onboard_time": 1689494734,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 288676,
       "num": 408721,
       "word": "马伯骞谈与赵露思合作",
@@ -10641,14 +10673,6 @@
       "onboard_time": 1689473669,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286714,
-      "num": 212605,
-      "word": "水豚 不吃别乱夹",
-      "onboard_time": 1689498273,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 286637,
@@ -10793,6 +10817,14 @@
       "onboard_time": 1689402511,
       "rank": 32,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 282500,
+      "num": 276193,
+      "word": "古相思曲",
+      "onboard_time": 1689161852,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 282215,
@@ -11001,14 +11033,6 @@
       "onboard_time": 1689138400,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276193,
-      "num": 276193,
-      "word": "古相思曲",
-      "onboard_time": 1689161852,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 275960,
@@ -11401,6 +11425,14 @@
       "onboard_time": 1689463642,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263879,
+      "num": 235366,
+      "word": "BLG锁定常规赛第一",
+      "onboard_time": 1689499952,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 263432,
@@ -12283,14 +12315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236800,
-      "num": 236800,
-      "word": "弟弟背起失散18年哥哥飞奔回家",
-      "onboard_time": 1689494734,
-      "rank": 49,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 236762,
       "num": 236762,
       "word": "EXO粉丝全场大合唱growl",
@@ -12497,14 +12521,6 @@
       "onboard_time": 1689258218,
       "rank": 42,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 231325,
-      "num": 204812,
-      "word": "不是衣服不好看是你不会搭",
-      "onboard_time": 1689498153,
-      "rank": 34,
-      "category": "时尚,幽默"
     },
     {
       "raw_hot": 231181,
@@ -13529,6 +13545,14 @@
       "onboard_time": 1688959712,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205993,
+      "num": 205993,
+      "word": "盘点毕业超燃名场面",
+      "onboard_time": 1689499232,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 205952,
@@ -14627,6 +14651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180892,
+      "num": 180892,
+      "word": "宋茜晒与李雪琴合影",
+      "onboard_time": 1689499593,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180886,
       "num": 180886,
       "word": "熊猫宝宝剪脐带瞬间",
@@ -14915,20 +14947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171114,
+      "num": 171114,
+      "word": "恋爱真的会让人暂时忘掉年龄",
+      "onboard_time": 1689499470,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170713,
       "num": 170713,
       "word": "今年入伏后还会更热吗",
       "onboard_time": 1689031104,
       "rank": 47,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 170363,
-      "num": 170363,
-      "word": "日本唯一的破产城市",
-      "onboard_time": 1689498991,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 169668,

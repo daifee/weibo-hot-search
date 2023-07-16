@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689499037104,
+  "endTime": 1689500042090,
   "band_list": [
     {
       "raw_hot": 3758613,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1607865,
+      "num": 1607865,
+      "word": "最不想解散的内娱组合",
+      "onboard_time": 1689494913,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1582696,
       "num": 1582696,
       "word": "Jennie称作为Kpop艺人出道被限制发展",
@@ -121,14 +129,6 @@
       "onboard_time": 1689477032,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1438603,
-      "num": 1438603,
-      "word": "最不想解散的内娱组合",
-      "onboard_time": 1689494913,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1372736,
@@ -225,6 +225,14 @@
       "onboard_time": 1689480933,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955404,
+      "num": 955404,
+      "word": "八角笼中开拍前投资全撤了",
+      "onboard_time": 1689496831,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 936719,
@@ -387,7 +395,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 669312,
+      "raw_hot": 674404,
       "num": 339505,
       "word": "网友偶遇易烊千玺看展",
       "onboard_time": 1689497313,
@@ -464,14 +472,6 @@
       "word": "王宝强说我和陈思诚都非常爱对方",
       "onboard_time": 1689489272,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 593015,
-      "num": 316949,
-      "word": "八角笼中开拍前投资全撤了",
-      "onboard_time": 1689496831,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -651,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 488341,
+      "num": 205464,
+      "word": "日本唯一的破产城市",
+      "onboard_time": 1689498991,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 479960,
       "num": 269767,
       "word": "3人造谣女大学生游西藏被割舌性侵",
@@ -729,6 +737,14 @@
       "onboard_time": 1689467068,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 444836,
+      "num": 261287,
+      "word": "刘耀文剪短发了",
+      "onboard_time": 1689498452,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 438227,
@@ -819,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 390460,
+      "num": 212605,
+      "word": "水豚 不吃别乱夹",
+      "onboard_time": 1689498273,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 386477,
       "num": 386477,
       "word": "梅西正式加盟迈阿密国际",
@@ -835,12 +859,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 383149,
-      "num": 254861,
-      "word": "刘耀文剪短发了",
-      "onboard_time": 1689498452,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 385491,
+      "num": 204812,
+      "word": "不是衣服不好看是你不会搭",
+      "onboard_time": 1689498153,
+      "rank": 34,
+      "category": "时尚,幽默"
     },
     {
       "raw_hot": 373939,
@@ -1116,7 +1140,7 @@
     },
     {
       "raw_hot": 292693,
-      "num": 217860,
+      "num": 220923,
       "word": "宋丹丹向汪苏泷李雪琴道歉",
       "onboard_time": 1689497252,
       "rank": 28,
@@ -1139,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288877,
+      "num": 288877,
+      "word": "弟弟背起失散18年哥哥飞奔回家",
+      "onboard_time": 1689494734,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 287190,
       "num": 287190,
       "word": "女子疑公园内抢小孩被家长按压在地",
@@ -1147,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286714,
-      "num": 212605,
-      "word": "水豚 不吃别乱夹",
-      "onboard_time": 1689498273,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 285253,
       "num": 269291,
       "word": "纸片人一年只上四天班",
       "onboard_time": 1689479973,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282500,
+      "num": 211425,
+      "word": "古相思曲",
+      "onboard_time": 1689496473,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 281933,
@@ -1243,14 +1275,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 270962,
-      "num": 211425,
-      "word": "古相思曲",
-      "onboard_time": 1689496473,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 267258,
       "num": 267258,
       "word": "台风泰利",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1689463642,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263879,
+      "num": 235366,
+      "word": "BLG锁定常规赛第一",
+      "onboard_time": 1689499952,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 263040,
@@ -1339,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250592,
+      "num": 202611,
+      "word": "八角笼中",
+      "onboard_time": 1689433958,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250453,
       "num": 250453,
       "word": "五十公里桃花坞",
@@ -1395,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236800,
-      "num": 236800,
-      "word": "弟弟背起失散18年哥哥飞奔回家",
-      "onboard_time": 1689494734,
-      "rank": 49,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 236019,
       "num": 236019,
       "word": "斗破苍穹",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1689492935,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231325,
-      "num": 204812,
-      "word": "不是衣服不好看是你不会搭",
-      "onboard_time": 1689498153,
-      "rank": 34,
-      "category": "时尚,幽默"
     },
     {
       "raw_hot": 229255,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1689462861,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205993,
+      "num": 205993,
+      "word": "盘点毕业超燃名场面",
+      "onboard_time": 1689499232,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 205172,
@@ -1739,6 +1771,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 180892,
+      "num": 180892,
+      "word": "宋茜晒与李雪琴合影",
+      "onboard_time": 1689499593,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180684,
       "num": 173932,
       "word": "陈绮贞是刘若英今晚演唱会嘉宾",
@@ -1843,12 +1883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170363,
-      "num": 170363,
-      "word": "日本唯一的破产城市",
-      "onboard_time": 1689498991,
-      "rank": 46,
-      "category": "财经,社会新闻"
+      "raw_hot": 171114,
+      "num": 171114,
+      "word": "恋爱真的会让人暂时忘掉年龄",
+      "onboard_time": 1689499470,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 169915,
@@ -1913,14 +1953,6 @@
       "onboard_time": 1689435514,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140719,
-      "num": 140719,
-      "word": "八角笼中",
-      "onboard_time": 1689433958,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 130229,
