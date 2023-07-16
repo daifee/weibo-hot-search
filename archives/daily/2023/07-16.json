@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689478988104,
+  "endTime": 1689481319424,
   "band_list": [
     {
       "raw_hot": 2064215,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1484400,
+      "num": 1268777,
+      "word": "因为一个发夹被同事说不吉利",
+      "onboard_time": 1689476374,
+      "rank": 9,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1463653,
       "num": 473945,
       "word": "致死率90%的猫冠状病毒或已扩散",
@@ -75,12 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1149901,
-      "num": 806139,
+      "raw_hot": 1264283,
+      "num": 1264283,
       "word": "千万别碰荔枝树上的臭虫",
       "onboard_time": 1689477032,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1157596,
+      "num": 1157596,
+      "word": "骄阳似我",
+      "onboard_time": 1689479253,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1134058,
@@ -97,14 +113,6 @@
       "onboard_time": 1689474812,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1086981,
-      "num": 1086981,
-      "word": "因为一个发夹被同事说不吉利",
-      "onboard_time": 1689476374,
-      "rank": 9,
-      "category": "时尚"
     },
     {
       "raw_hot": 996491,
@@ -187,6 +195,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 717223,
+      "num": 717223,
+      "word": "老板睡着3岁宝宝接单后续",
+      "onboard_time": 1689478472,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699854,
       "num": 839582,
       "word": "家政阿姨带女儿来我家里住",
@@ -235,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640098,
+      "num": 640098,
+      "word": "一张图诠释魏大勋现状",
+      "onboard_time": 1689476133,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638218,
       "num": 638218,
       "word": "茉酸奶回应被改名",
@@ -249,6 +273,14 @@
       "onboard_time": 1689426033,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 626321,
+      "num": 626321,
+      "word": "骄阳似我和似锦都找了赵露思",
+      "onboard_time": 1689477513,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 586935,
@@ -299,28 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535100,
-      "num": 480551,
-      "word": "一张图诠释魏大勋现状",
-      "onboard_time": 1689476133,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 528435,
-      "num": 479566,
-      "word": "骄阳似我和似锦都找了赵露思",
-      "onboard_time": 1689477513,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 526054,
       "num": 526054,
       "word": "中国女排3比0波兰女排",
       "onboard_time": 1689462379,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520734,
+      "num": 359949,
+      "word": "离婚冷静期内找新欢算出轨吗",
+      "onboard_time": 1689477932,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519179,
@@ -353,6 +377,22 @@
       "onboard_time": 1689472772,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 496783,
+      "num": 486283,
+      "word": "迪丽热巴在大唐芙蓉园热舞",
+      "onboard_time": 1689478412,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 484716,
+      "num": 484716,
+      "word": "张子豪龙韬娱乐",
+      "onboard_time": 1689480334,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 479960,
@@ -419,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 429963,
-      "num": 359949,
-      "word": "离婚冷静期内找新欢算出轨吗",
-      "onboard_time": 1689477932,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415402,
       "num": 415402,
       "word": "女子买鲍师傅糕点吃出黑毛",
@@ -483,12 +515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 363971,
-      "num": 363971,
-      "word": "老板睡着3岁宝宝接单后续",
-      "onboard_time": 1689478472,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 364824,
+      "num": 269779,
+      "word": "张真源考驾照的原因",
+      "onboard_time": 1689479852,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 360453,
@@ -545,14 +577,6 @@
       "onboard_time": 1689471872,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 328742,
-      "num": 328742,
-      "word": "迪丽热巴在大唐芙蓉园热舞",
-      "onboard_time": 1689478412,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 319436,
@@ -643,12 +667,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290224,
+      "num": 265189,
+      "word": "医院回应大楼外观被质疑像娱乐会所",
+      "onboard_time": 1689480994,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287190,
       "num": 287190,
       "word": "女子疑公园内抢小孩被家长按压在地",
       "onboard_time": 1689473669,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285253,
+      "num": 269291,
+      "word": "纸片人一年只上四天班",
+      "onboard_time": 1689479973,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 281933,
@@ -691,12 +731,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 272244,
+      "num": 268270,
+      "word": "张雨绮点赞任敏相关微博",
+      "onboard_time": 1689481112,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270964,
       "num": 270964,
       "word": "张颜齐打游戏偶遇王一博",
       "onboard_time": 1689468990,
       "rank": 29,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 268016,
+      "num": 268016,
+      "word": "中国男篮6后卫18中1",
+      "onboard_time": 1689478714,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 267258,
@@ -707,12 +763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267189,
+      "num": 268941,
+      "word": "重庆地铁被打女孩将走司法程序",
+      "onboard_time": 1689480933,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264355,
       "num": 243468,
       "word": "重庆地铁",
       "onboard_time": 1689463642,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263040,
+      "num": 263040,
+      "word": "第二架国产C919正式入列",
+      "onboard_time": 1689477932,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 263022,
@@ -803,14 +875,6 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 225332,
-      "num": 225332,
-      "word": "中国男篮6后卫18中1",
-      "onboard_time": 1689478714,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225117,
       "num": 225117,
       "word": "孟美岐认为自己没有火过",
@@ -819,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223223,
-      "num": 223223,
-      "word": "第二架国产C919正式入列",
-      "onboard_time": 1689477932,
-      "rank": 47,
-      "category": "科技,社会新闻"
+      "raw_hot": 220514,
+      "num": 220514,
+      "word": "00后大学生创业卖烧饼年入百万",
+      "onboard_time": 1689479372,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218101,
@@ -841,6 +905,14 @@
       "onboard_time": 1689463461,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214805,
+      "num": 214805,
+      "word": "刘思鉴作词作曲",
+      "onboard_time": 1689480693,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 208770,
@@ -931,6 +1003,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 195960,
+      "num": 195960,
+      "word": "似锦",
+      "onboard_time": 1689479792,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194303,
       "num": 194303,
       "word": "万鹏第一次演反派",
@@ -953,6 +1033,14 @@
       "onboard_time": 1689428496,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188539,
+      "num": 188539,
+      "word": "重庆地铁回应女孩被疑偷拍遭打伤",
+      "onboard_time": 1689480693,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188031,
@@ -1083,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159035,
+      "num": 181701,
+      "word": "孟宴臣和他的猫",
+      "onboard_time": 1689481292,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154697,
       "num": 154697,
       "word": "小男孩一本正经对毛巾说话绷不住了",
@@ -1179,6 +1275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 60402,
+      "num": 1271094,
+      "word": "藏在高校里的宝藏博物馆",
+      "onboard_time": 1689480693,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34685,
       "num": 1435181,
       "word": "回顾2023那些振奋人心的科技新突破",
@@ -1201,6 +1305,9 @@
     },
     {
       "word": "#网络强国建设迈出新步伐#"
+    },
+    {
+      "word": "#阔步迈向网络强国#"
     }
   ]
 }
