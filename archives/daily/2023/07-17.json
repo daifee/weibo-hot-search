@@ -1,10 +1,10 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689549491874,
+  "endTime": 1689550459204,
   "band_list": [
     {
-      "raw_hot": 1843145,
-      "num": 1843145,
+      "raw_hot": 1908118,
+      "num": 1908118,
       "word": "拜登政府宣布取消390亿美元学生贷款债务",
       "onboard_time": 1689523711,
       "rank": 30,
@@ -33,6 +33,14 @@
       "onboard_time": 1689513632,
       "rank": 10,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 1062385,
+      "num": 1062385,
+      "word": "中国女排vs土耳其女排",
+      "onboard_time": 1689548962,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 958220,
@@ -67,20 +75,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 586481,
-      "num": 586481,
-      "word": "中国女排vs土耳其女排",
-      "onboard_time": 1689548962,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 579872,
       "num": 287305,
       "word": "秒睡技巧",
       "onboard_time": 1689522155,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 577569,
+      "num": 577569,
+      "word": "台风",
+      "onboard_time": 1689549563,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562547,
@@ -113,6 +121,22 @@
       "onboard_time": 1689522214,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524523,
+      "num": 230477,
+      "word": "对冷暴力最好的回应方式",
+      "onboard_time": 1689548600,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 523112,
+      "num": 523112,
+      "word": "爸爸捐献儿子器官救8人一句话让人破防",
+      "onboard_time": 1689541752,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473122,
@@ -163,19 +187,19 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 407619,
-      "num": 407619,
-      "word": "爸爸捐献儿子器官救8人一句话让人破防",
-      "onboard_time": 1689541752,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405904,
       "num": 283094,
       "word": "八角笼中票房",
       "onboard_time": 1689518502,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 396337,
+      "num": 396337,
+      "word": "玖月晞",
+      "onboard_time": 1689550045,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -195,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335128,
-      "num": 165669,
-      "word": "对冷暴力最好的回应方式",
-      "onboard_time": 1689548600,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 336300,
+      "num": 336300,
+      "word": "消防员就应该拍成这样",
+      "onboard_time": 1689541873,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 313363,
@@ -219,19 +243,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302166,
-      "num": 302166,
-      "word": "消防员就应该拍成这样",
-      "onboard_time": 1689541873,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 289853,
       "num": 289853,
       "word": "德约",
       "onboard_time": 1689520956,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282277,
+      "num": 282277,
+      "word": "女排",
+      "onboard_time": 1689549201,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256285,
+      "num": 229596,
+      "word": "很难想象在一起很久后必须分开的情况",
+      "onboard_time": 1689548541,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249549,
       "num": 249549,
       "word": "肖战一滴泪镜头",
@@ -283,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244646,
-      "num": 244646,
-      "word": "女排",
-      "onboard_time": 1689549201,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 248804,
+      "num": 248804,
+      "word": "长得像王鹤棣的猴子",
+      "onboard_time": 1689549622,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 241606,
@@ -307,6 +339,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 225810,
+      "num": 225810,
+      "word": "温网",
+      "onboard_time": 1689549563,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222927,
       "num": 222927,
       "word": "易烊千玺帮我扛下了所有压力",
@@ -321,6 +361,14 @@
       "onboard_time": 1689486630,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212048,
+      "num": 169964,
+      "word": "婚礼酒席被妈妈发朋友圈吐槽了",
+      "onboard_time": 1689550283,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 210350,
@@ -339,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198571,
+      "num": 198571,
+      "word": "阿尔卡拉斯夺温网男单冠军",
+      "onboard_time": 1689549683,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196654,
       "num": 196654,
       "word": "张杰南京唱又到梧桐吐绿时",
@@ -353,14 +409,6 @@
       "onboard_time": 1689522931,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186504,
-      "num": 130520,
-      "word": "很难想象在一起很久后必须分开的情况",
-      "onboard_time": 1689548541,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 185432,
@@ -379,12 +427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176652,
+      "num": 176652,
+      "word": "我只害怕我爱你作者发文",
+      "onboard_time": 1689549803,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174782,
       "num": 174782,
       "word": "温网2023",
       "onboard_time": 1689524368,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171256,
+      "num": 171256,
+      "word": "斗破决战云岚开播",
+      "onboard_time": 1689549322,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 168999,
@@ -403,12 +467,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167201,
+      "num": 167201,
+      "word": "喝了一周的绿豆汤竟然上火了",
+      "onboard_time": 1689550283,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160811,
       "num": 160811,
       "word": "这画得比我还像个人",
       "onboard_time": 1689522996,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157430,
+      "num": 157430,
+      "word": "第一次见带滑盖的眼睛",
+      "onboard_time": 1689549263,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154194,
+      "num": 164521,
+      "word": "小伙凌晨买水拿硬币对监控展示支付",
+      "onboard_time": 1689549263,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154120,
@@ -451,20 +539,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 134502,
-      "num": 134502,
-      "word": "斗破决战云岚开播",
-      "onboard_time": 1689549322,
-      "rank": 28,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 129909,
-      "num": 129909,
-      "word": "小伙凌晨买水拿硬币对监控展示支付",
-      "onboard_time": 1689549263,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 130387,
+      "num": 130387,
+      "word": "德约科维奇",
+      "onboard_time": 1689549865,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 118956,
@@ -483,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115231,
+      "num": 115231,
+      "word": "肖战片场逗兔子",
+      "onboard_time": 1689538511,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114240,
       "num": 138788,
       "word": "真心对时影好的人又少两个",
@@ -491,28 +579,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114125,
+      "num": 114125,
+      "word": "广东人期盼居家办公的天气",
+      "onboard_time": 1689550283,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105913,
       "num": 85318,
       "word": "2男子卖薛之谦演唱会假门票被抓",
       "onboard_time": 1689529937,
       "rank": 22,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 105074,
-      "num": 105074,
-      "word": "肖战片场逗兔子",
-      "onboard_time": 1689538511,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 100336,
-      "num": 100336,
-      "word": "第一次见带滑盖的眼睛",
-      "onboard_time": 1689549263,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 86738,
@@ -555,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61702,
+      "num": 1062579,
+      "word": "第2架国产C919入列",
+      "onboard_time": 1689512914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54764,
       "num": 802518,
       "word": "成都大运会开幕式有哪些亮点",
       "onboard_time": 1689513213,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50722,
-      "num": 749261,
-      "word": "第2架国产C919入列",
-      "onboard_time": 1689512914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42119,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/17 07:18:11
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/17 07:34:19
 </p>
 </blockquote>
 <p>
@@ -1575,6 +1575,12 @@ JackeyLove退出亚运会名单（热度：2146090）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88390%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%80%BA%E5%8A%A1%23" target="weibo">
+拜登政府宣布取消390亿美元学生贷款债务（热度：1908118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%81%AD8%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%B7%E5%A5%B3%E6%AE%B4%E6%89%93%E8%84%B1%E8%A1%A3%23" target="weibo">
 女生遭8名未成年男女殴打脱衣（热度：1907332）
 </a>
@@ -1709,12 +1715,6 @@ JackeyLove退出亚运会名单（热度：2146090）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%88%92%E5%8D%8E%20%E7%83%A7%E7%BB%99%E4%BD%A0%23" target="weibo">
 叶舒华 烧给你（热度：1844383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88390%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%80%BA%E5%8A%A1%23" target="weibo">
-拜登政府宣布取消390亿美元学生贷款债务（热度：1843145）
 </a>
 </li>
 
@@ -4113,6 +4113,12 @@ YG回应Lisa续约情况（热度：1079040）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A5%B3%E6%8E%92%23" target="weibo">
+中国女排vs土耳其女排（热度：1062385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%92%8C%E4%B8%89%E5%96%9C%23" target="weibo">
 马里奥和三喜（热度：1060758）
 </a>
@@ -6005,12 +6011,6 @@ EDG战胜LGD（热度：831162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%B9%A6%E4%B8%8E%E4%B8%8D%E7%9C%8B%E4%B9%A6%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
 看书与不看书的区别（热度：827845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%87%B4%E6%AD%89%E5%B7%B2%E6%98%AF%E6%AD%A3%E4%B9%89%E7%9A%84%E8%83%9C%E5%88%A9%23" target="weibo">
-胡锡进 宝格丽致歉已是正义的胜利（热度：827644）
 </a>
 </li>
 
