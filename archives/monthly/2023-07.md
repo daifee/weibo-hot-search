@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/16 10:03:54
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/16 10:27:09
 </p>
 </blockquote>
 <p>
@@ -2331,6 +2331,12 @@ jiejie（热度：1558005）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E7%94%A8%E6%B0%B4%E5%A3%B6%E6%8B%8D%E6%89%93%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%8A%A5%E8%AD%A6%23" target="weibo">
+被男孩母亲用水壶拍打女生已报警（热度：1517445）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E7%B3%BB%E4%BA%B2%E5%B1%9E%E6%9C%89%E6%A1%88%E5%BA%95%E5%BD%B1%E5%93%8D%E8%80%83%E5%85%AC%E5%90%97%23" target="weibo">
 直系亲属有案底影响考公吗（热度：1504616）
 </a>
@@ -2417,6 +2423,12 @@ jiejie（热度：1558005）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E6%88%91%E8%A2%AB%E5%8E%A6%E9%97%A8%E5%85%AC%E5%AE%89%E5%B8%A6%E8%B5%B0%E8%BF%99%E4%BB%B6%E4%BA%8B%23" target="weibo">
 关于我被厦门公安带走这件事（热度：1467484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E8%AF%AF%E5%B0%8619%E4%BB%B6%E9%BB%84%E9%87%91%E8%80%B3%E9%A5%B0%E5%BD%93%E5%BA%9F%E5%93%81%E8%B5%A0%E9%80%81%23" target="weibo">
+店员误将19件黄金耳饰当废品赠送（热度：1466105）
 </a>
 </li>
 
@@ -3395,12 +3407,6 @@ Jennie称舞台没有划水（热度：1173717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%AF%B4%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9C%80%E8%BF%91%E6%8C%BA%E7%81%AB%E7%9A%84%23" target="weibo">
 范丞丞说魏大勋最近挺火的（热度：1157461）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E8%AF%AF%E5%B0%8619%E4%BB%B6%E9%BB%84%E9%87%91%E8%80%B3%E9%A5%B0%E5%BD%93%E5%BA%9F%E5%93%81%E8%B5%A0%E9%80%81%23" target="weibo">
-店员误将19件黄金耳饰当废品赠送（热度：1157108）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TFBOYS十周年演唱会还不官宣吗（热度：805840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%BB%84%E8%93%9D%E6%97%A9%E6%95%99%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E8%99%90%E7%AB%A5%23" target="weibo">
 红黄蓝早教中心回应被指虐童（热度：801318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E7%9A%84%E7%AE%80%E7%A7%B0%E5%8F%AB%E5%95%A5%23" target="weibo">
-黑龙江省的简称叫啥（热度：801241）
 </a>
 </li>
 

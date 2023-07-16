@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689473034855,
+  "endTime": 1689474429227,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3091,6 +3091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1517445,
+      "num": 1517445,
+      "word": "被男孩母亲用水壶拍打女生已报警",
+      "onboard_time": 1689472589,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1504616,
       "num": 1504616,
       "word": "直系亲属有案底影响考公吗",
@@ -3209,6 +3217,14 @@
       "onboard_time": 1688719535,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1466105,
+      "num": 1466105,
+      "word": "店员误将19件黄金耳饰当废品赠送",
+      "onboard_time": 1689471271,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1462994,
@@ -3564,7 +3580,7 @@
     },
     {
       "raw_hot": 1372736,
-      "num": 551817,
+      "num": 568008,
       "word": "马伯骞弟弟结婚了",
       "onboard_time": 1689466829,
       "rank": 10,
@@ -4513,14 +4529,6 @@
       "onboard_time": 1689332492,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1157108,
-      "num": 1157108,
-      "word": "店员误将19件黄金耳饰当废品赠送",
-      "onboard_time": 1689471271,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1156708,
@@ -8148,7 +8156,7 @@
     },
     {
       "raw_hot": 788440,
-      "num": 549775,
+      "num": 561629,
       "word": "Amber划水",
       "onboard_time": 1689466407,
       "rank": 11,
@@ -11835,6 +11843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 586935,
+      "num": 586935,
+      "word": "女生的这种小包包能装什么",
+      "onboard_time": 1689471093,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 585697,
       "num": 585697,
       "word": "禁毒烈士妹妹追着毒贩跃入深沟",
@@ -12739,14 +12755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 547633,
-      "num": 547633,
-      "word": "女生的这种小包包能装什么",
-      "onboard_time": 1689471093,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 547477,
       "num": 547477,
       "word": "爱宝女儿出生照",
@@ -13531,6 +13539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 519179,
+      "num": 519179,
+      "word": "straykids青岛",
+      "onboard_time": 1689472111,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518541,
       "num": 507284,
       "word": "种地吧送别小羊晴天",
@@ -13945,6 +13961,14 @@
       "onboard_time": 1689248310,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 503383,
+      "num": 503383,
+      "word": "我发现我是没有闺蜜的女生",
+      "onboard_time": 1689472772,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 503330,
@@ -14715,6 +14739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 479242,
+      "num": 479242,
+      "word": "黄子韬说韩庚比自己早一个时代",
+      "onboard_time": 1689473252,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479082,
       "num": 459369,
       "word": "大姨出500元让我把电脑给表妹",
@@ -15113,6 +15145,14 @@
       "onboard_time": 1688736224,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468049,
+      "num": 468049,
+      "word": "花花身高揭秘",
+      "onboard_time": 1689466407,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467734,
@@ -16177,14 +16217,6 @@
       "onboard_time": 1688730932,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 439218,
-      "num": 439218,
-      "word": "花花身高揭秘",
-      "onboard_time": 1689466407,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439131,
@@ -17883,14 +17915,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 397612,
-      "num": 397612,
-      "word": "straykids青岛",
-      "onboard_time": 1689472111,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397602,
       "num": 419014,
       "word": "淀粉肠里是淀粉还是肉",
@@ -18363,6 +18387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 386477,
+      "num": 386477,
+      "word": "梅西正式加盟迈阿密国际",
+      "onboard_time": 1689470370,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386418,
       "num": 386418,
       "word": "无畏契约正式上线",
@@ -18472,14 +18504,6 @@
       "word": "林高远萨格勒布站夺冠",
       "onboard_time": 1688310703,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 383956,
-      "num": 383956,
-      "word": "梅西正式加盟迈阿密国际",
-      "onboard_time": 1689470370,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -19651,6 +19675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360453,
+      "num": 360453,
+      "word": "詹姆斯将穿回23号",
+      "onboard_time": 1689471872,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360395,
       "num": 336416,
       "word": "宋焰许沁暧昧",
@@ -19857,14 +19889,6 @@
       "onboard_time": 1689384210,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356965,
-      "num": 356965,
-      "word": "詹姆斯将穿回23号",
-      "onboard_time": 1689471872,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 356639,
@@ -21283,14 +21307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327637,
-      "num": 327637,
-      "word": "我发现我是没有闺蜜的女生",
-      "onboard_time": 1689472772,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 327616,
       "num": 260968,
       "word": "印度夫妻因欠网贷杀子后自杀",
@@ -22385,14 +22401,6 @@
       "onboard_time": 1688810733,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308345,
-      "num": 308345,
-      "word": "被男孩母亲用水壶拍打女生已报警",
-      "onboard_time": 1689472589,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308238,
@@ -23515,6 +23523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292978,
+      "num": 292978,
+      "word": "为什么我天天防晒还是黑了",
+      "onboard_time": 1689472830,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292972,
       "num": 292972,
       "word": "社交头像出卖了你的性格",
@@ -23905,6 +23921,14 @@
       "onboard_time": 1689065976,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287190,
+      "num": 287190,
+      "word": "女子疑公园内抢小孩被家长按压在地",
+      "onboard_time": 1689473669,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286854,
@@ -26883,6 +26907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246497,
+      "num": 246497,
+      "word": "当中国人的反断舍离血脉觉醒",
+      "onboard_time": 1689472712,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246495,
       "num": 246495,
       "word": "女子每日孕吐近十次抱妈妈嚎啕大哭",
@@ -29451,6 +29483,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 216532,
+      "num": 216532,
+      "word": "Minnie说范丞丞王鹤棣好帅",
+      "onboard_time": 1689463461,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216499,
       "num": 216499,
       "word": "浙BL02S5你做的好事藏不住了",
@@ -29891,14 +29931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212255,
-      "num": 212255,
-      "word": "为什么我天天防晒还是黑了",
-      "onboard_time": 1689472830,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 212225,
       "num": 213003,
       "word": "到底是哪个剧组在卷许凯",
@@ -30033,6 +30065,14 @@
       "onboard_time": 1688306922,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210929,
+      "num": 210929,
+      "word": "陈芋汐全红婵出战女双10米台",
+      "onboard_time": 1689473612,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 210799,
@@ -30313,14 +30353,6 @@
       "onboard_time": 1688821172,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208296,
-      "num": 208296,
-      "word": "Minnie说范丞丞王鹤棣好帅",
-      "onboard_time": 1689463461,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 208264,
@@ -30609,6 +30641,14 @@
       "onboard_time": 1689296072,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205860,
+      "num": 205860,
+      "word": "土耳其女排",
+      "onboard_time": 1689473848,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 205608,
@@ -31203,14 +31243,6 @@
       "category": "美妆,时尚"
     },
     {
-      "raw_hot": 199806,
-      "num": 199806,
-      "word": "当中国人的反断舍离血脉觉醒",
-      "onboard_time": 1689472712,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199743,
       "num": 199743,
       "word": "WTT球星挑战赛卢布尔雅那站2023",
@@ -31273,6 +31305,14 @@
       "onboard_time": 1688348131,
       "rank": 36,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 198652,
+      "num": 198652,
+      "word": "范丞丞路人盘",
+      "onboard_time": 1689469470,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 198623,
@@ -31369,14 +31409,6 @@
       "onboard_time": 1688223818,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197888,
-      "num": 197888,
-      "word": "范丞丞路人盘",
-      "onboard_time": 1689469470,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 197805,
@@ -32875,6 +32907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183456,
+      "num": 183456,
+      "word": "TTG首发",
+      "onboard_time": 1689474274,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183358,
       "num": 183358,
       "word": "医院袋子上有错别字怎么办",
@@ -33145,6 +33185,14 @@
       "onboard_time": 1689370934,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178850,
+      "num": 178850,
+      "word": "Jennie采访",
+      "onboard_time": 1689464903,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178731,
@@ -33547,6 +33595,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 175561,
+      "num": 175561,
+      "word": "你遇到过薪酬延期发放吗",
+      "onboard_time": 1689467068,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175535,
       "num": 204116,
       "word": "民警一句话机智救下醉酒男子",
@@ -33819,14 +33875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171450,
-      "num": 171450,
-      "word": "你遇到过薪酬延期发放吗",
-      "onboard_time": 1689467068,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170898,
       "num": 170898,
       "word": "WBG战胜AL",
@@ -33969,6 +34017,14 @@
       "onboard_time": 1688907872,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169270,
+      "num": 169270,
+      "word": "天价升学讲座真的有用吗",
+      "onboard_time": 1689474210,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 169106,
@@ -34449,14 +34505,6 @@
       "onboard_time": 1688563773,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160415,
-      "num": 160415,
-      "word": "Jennie采访",
-      "onboard_time": 1689464903,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 160159,
@@ -37540,7 +37588,7 @@
     },
     {
       "raw_hot": 34685,
-      "num": 1012798,
+      "num": 1275860,
       "word": "回顾2023那些振奋人心的科技新突破",
       "onboard_time": 1689426875,
       "rank": 2,

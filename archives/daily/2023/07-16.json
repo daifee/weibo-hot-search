@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689473034855,
+  "endTime": 1689474429227,
   "band_list": [
     {
       "raw_hot": 2064215,
@@ -19,6 +19,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1517445,
+      "num": 1517445,
+      "word": "被男孩母亲用水壶拍打女生已报警",
+      "onboard_time": 1689472589,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1466105,
+      "num": 1466105,
+      "word": "店员误将19件黄金耳饰当废品赠送",
+      "onboard_time": 1689471271,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1463653,
       "num": 473945,
       "word": "致死率90%的猫冠状病毒或已扩散",
@@ -28,19 +44,11 @@
     },
     {
       "raw_hot": 1372736,
-      "num": 551817,
+      "num": 568008,
       "word": "马伯骞弟弟结婚了",
       "onboard_time": 1689466829,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1157108,
-      "num": 1157108,
-      "word": "店员误将19件黄金耳饰当废品赠送",
-      "onboard_time": 1689471271,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980803,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 788440,
-      "num": 549775,
+      "num": 561629,
       "word": "Amber划水",
       "onboard_time": 1689466407,
       "rank": 11,
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 586935,
+      "num": 586935,
+      "word": "女生的这种小包包能装什么",
+      "onboard_time": 1689471093,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 585697,
       "num": 585697,
       "word": "禁毒烈士妹妹追着毒贩跃入深沟",
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547633,
-      "num": 547633,
-      "word": "女生的这种小包包能装什么",
-      "onboard_time": 1689471093,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 526054,
       "num": 526054,
       "word": "中国女排3比0波兰女排",
@@ -219,12 +227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 519179,
+      "num": 519179,
+      "word": "straykids青岛",
+      "onboard_time": 1689472111,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507922,
       "num": 270750,
       "word": "杨超越去了张杰的演唱会",
       "onboard_time": 1689436294,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 503383,
+      "num": 503383,
+      "word": "我发现我是没有闺蜜的女生",
+      "onboard_time": 1689472772,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 479960,
@@ -243,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 479242,
+      "num": 479242,
+      "word": "黄子韬说韩庚比自己早一个时代",
+      "onboard_time": 1689473252,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474594,
       "num": 369737,
       "word": "谢娜上一次是回归这次是告别",
@@ -259,20 +291,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 468049,
+      "num": 468049,
+      "word": "花花身高揭秘",
+      "onboard_time": 1689466407,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451401,
       "num": 451401,
       "word": "好莱坞大罢工抵制AI入侵",
       "onboard_time": 1689467068,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 439218,
-      "num": 439218,
-      "word": "花花身高揭秘",
-      "onboard_time": 1689466407,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438227,
@@ -307,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397612,
-      "num": 397612,
-      "word": "straykids青岛",
-      "onboard_time": 1689472111,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 390977,
       "num": 390977,
       "word": "肖战片场背着任敏做深蹲",
@@ -323,8 +347,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383956,
-      "num": 383956,
+      "raw_hot": 386477,
+      "num": 386477,
       "word": "梅西正式加盟迈阿密国际",
       "onboard_time": 1689470370,
       "rank": 19,
@@ -339,20 +363,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 360453,
+      "num": 360453,
+      "word": "詹姆斯将穿回23号",
+      "onboard_time": 1689471872,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358189,
       "num": 268974,
       "word": "拍身份证最好不要戴隐形眼镜",
       "onboard_time": 1689422193,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 356965,
-      "num": 356965,
-      "word": "詹姆斯将穿回23号",
-      "onboard_time": 1689471872,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 341631,
@@ -379,14 +403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 327637,
-      "num": 327637,
-      "word": "我发现我是没有闺蜜的女生",
-      "onboard_time": 1689472772,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 319176,
       "num": 319176,
       "word": "厌童症厌的到底是什么",
@@ -409,14 +425,6 @@
       "onboard_time": 1689462439,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308345,
-      "num": 308345,
-      "word": "被男孩母亲用水壶拍打女生已报警",
-      "onboard_time": 1689472589,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304352,
@@ -449,6 +457,22 @@
       "onboard_time": 1689418773,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292978,
+      "num": 292978,
+      "word": "为什么我天天防晒还是黑了",
+      "onboard_time": 1689472830,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 287190,
+      "num": 287190,
+      "word": "女子疑公园内抢小孩被家长按压在地",
+      "onboard_time": 1689473669,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281933,
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246497,
+      "num": 246497,
+      "word": "当中国人的反断舍离血脉觉醒",
+      "onboard_time": 1689472712,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245090,
       "num": 245090,
       "word": "突然共情了高适李白的人生",
@@ -571,12 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212255,
-      "num": 212255,
-      "word": "为什么我天天防晒还是黑了",
-      "onboard_time": 1689472830,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 216532,
+      "num": 216532,
+      "word": "Minnie说范丞丞王鹤棣好帅",
+      "onboard_time": 1689463461,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210929,
+      "num": 210929,
+      "word": "陈芋汐全红婵出战女双10米台",
+      "onboard_time": 1689473612,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 208770,
@@ -595,19 +635,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 208296,
-      "num": 208296,
-      "word": "Minnie说范丞丞王鹤棣好帅",
-      "onboard_time": 1689463461,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207386,
       "num": 151357,
       "word": "2023年世界女排联赛",
       "onboard_time": 1689462861,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205860,
+      "num": 205860,
+      "word": "土耳其女排",
+      "onboard_time": 1689473848,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -627,12 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199806,
-      "num": 199806,
-      "word": "当中国人的反断舍离血脉觉醒",
-      "onboard_time": 1689472712,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 198652,
+      "num": 198652,
+      "word": "范丞丞路人盘",
+      "onboard_time": 1689469470,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 198310,
@@ -641,14 +681,6 @@
       "onboard_time": 1689426516,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197888,
-      "num": 197888,
-      "word": "范丞丞路人盘",
-      "onboard_time": 1689469470,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 197115,
@@ -707,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183456,
+      "num": 183456,
+      "word": "TTG首发",
+      "onboard_time": 1689474274,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182005,
       "num": 182005,
       "word": "要在东北冻发烧了",
@@ -731,12 +771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178850,
+      "num": 178850,
+      "word": "Jennie采访",
+      "onboard_time": 1689464903,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178822,
       "num": 178822,
       "word": "奔跑吧后期回应",
       "onboard_time": 1689400351,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175561,
+      "num": 175561,
+      "word": "你遇到过薪酬延期发放吗",
+      "onboard_time": 1689467068,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174508,
@@ -755,20 +811,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171450,
-      "num": 171450,
-      "word": "你遇到过薪酬延期发放吗",
-      "onboard_time": 1689467068,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169915,
       "num": 169915,
       "word": "同事的营养全被头发吸收了",
       "onboard_time": 1689420572,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169270,
+      "num": 169270,
+      "word": "天价升学讲座真的有用吗",
+      "onboard_time": 1689474210,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 164361,
@@ -793,14 +849,6 @@
       "onboard_time": 1689455832,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160415,
-      "num": 160415,
-      "word": "Jennie采访",
-      "onboard_time": 1689464903,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 154697,
@@ -900,7 +948,7 @@
     },
     {
       "raw_hot": 34685,
-      "num": 1012798,
+      "num": 1275860,
       "word": "回顾2023那些振奋人心的科技新突破",
       "onboard_time": 1689426875,
       "rank": 2,
