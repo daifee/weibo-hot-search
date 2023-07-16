@@ -1,0 +1,410 @@
+{
+  "runTime": 1689482191086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1506659,
+        "num": 1506659,
+        "word": "店员误将19件黄金耳饰当废品赠送",
+        "onboard_time": 1689471271,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1445444,
+        "num": 1445444,
+        "word": "千万别碰荔枝树上的臭虫",
+        "onboard_time": 1689477032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99836,
+        "num": 1319232,
+        "word": "藏在高校里的宝藏博物馆",
+        "onboard_time": 1689480693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1448928,
+        "num": 1314595,
+        "word": "因为一个发夹被同事说不吉利",
+        "onboard_time": 1689476374,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1228849,
+        "num": 1228849,
+        "word": "骄阳似我",
+        "onboard_time": 1689479253,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1112126,
+        "num": 1112126,
+        "word": "Jennie称作为Kpop艺人出道被限制发展",
+        "onboard_time": 1689474570,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 970279,
+        "num": 970279,
+        "word": "迪丽热巴真的去看猴了",
+        "onboard_time": 1689476672,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 844369,
+        "num": 844369,
+        "word": "肖战未来可能尝试幕后工作",
+        "onboard_time": 1689474812,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 675764,
+        "num": 675764,
+        "word": "张子豪龙韬娱乐",
+        "onboard_time": 1689480334,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675733,
+        "num": 675733,
+        "word": "老板睡着3岁宝宝接单后续",
+        "onboard_time": 1689478472,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759818,
+        "num": 664793,
+        "word": "张雨绮点赞任敏相关微博",
+        "onboard_time": 1689481112,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643522,
+        "num": 643522,
+        "word": "一张图诠释魏大勋现状",
+        "onboard_time": 1689476133,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626442,
+        "num": 626442,
+        "word": "马伯骞弟弟结婚了",
+        "onboard_time": 1689466829,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609461,
+        "num": 609461,
+        "word": "男子开小饭桌15元一顿4天赚44元",
+        "onboard_time": 1689476614,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 510650,
+        "num": 510650,
+        "word": "警方回应女子怀疑儿子被偷拍打伤女孩",
+        "onboard_time": 1689477454,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611582,
+        "num": 507244,
+        "word": "迪丽热巴一周涨粉14万",
+        "onboard_time": 1689476553,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529311,
+        "num": 501460,
+        "word": "骄阳似我和似锦都找了赵露思",
+        "onboard_time": 1689477513,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488826,
+        "num": 488826,
+        "word": "重庆地铁被打女孩将走司法程序",
+        "onboard_time": 1689480933,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442425,
+        "num": 442425,
+        "word": "家政阿姨带女儿来我家里住",
+        "onboard_time": 1689474451,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328259,
+        "num": 328259,
+        "word": "退休大妈偷车一辆只卖20元",
+        "onboard_time": 1689477215,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788927,
+        "num": 322615,
+        "word": "母亲怀疑女孩偷拍儿子将其头砸流血",
+        "onboard_time": 1689475115,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485744,
+        "num": 313440,
+        "word": "离婚冷静期内找新欢算出轨吗",
+        "onboard_time": 1689477932,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447862,
+        "num": 310534,
+        "word": "迪丽热巴在大唐芙蓉园热舞",
+        "onboard_time": 1689478412,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396746,
+        "num": 303210,
+        "word": "孟宴臣和他的猫",
+        "onboard_time": 1689481292,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295566,
+        "num": 295566,
+        "word": "为什么可以一整天在家里",
+        "onboard_time": 1689481413,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388779,
+        "num": 295391,
+        "word": "杨洋一口气发了八条动态",
+        "onboard_time": 1689463281,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357825,
+        "num": 294213,
+        "word": "张真源考驾照的原因",
+        "onboard_time": 1689479852,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291222,
+        "num": 291222,
+        "word": "中国男篮6后卫18中1",
+        "onboard_time": 1689478714,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274584,
+        "num": 274584,
+        "word": "Amber划水",
+        "onboard_time": 1689466407,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262963,
+        "num": 262963,
+        "word": "许沁地震中为去世孕妇接生",
+        "onboard_time": 1689471389,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312689,
+        "num": 262131,
+        "word": "医院回应大楼外观被质疑像娱乐会所",
+        "onboard_time": 1689480994,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275910,
+        "num": 261991,
+        "word": "谢乔和杨澄分手",
+        "onboard_time": 1689481772,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261249,
+        "num": 261249,
+        "word": "第二架国产C919正式入列",
+        "onboard_time": 1689477932,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 252406,
+        "num": 252406,
+        "word": "重庆地铁回应女孩被疑偷拍遭打伤",
+        "onboard_time": 1689480693,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239485,
+        "num": 239485,
+        "word": "黄子韬说韩庚比自己早一个时代",
+        "onboard_time": 1689473252,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237877,
+        "num": 237877,
+        "word": "喜欢睡觉的时候把手举过头顶",
+        "onboard_time": 1689466106,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228921,
+        "num": 228921,
+        "word": "杨晓培回复赵露思粉丝",
+        "onboard_time": 1689476733,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226509,
+        "num": 226509,
+        "word": "张杰回复杨超越",
+        "onboard_time": 1689466167,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222989,
+        "num": 222989,
+        "word": "花花身高揭秘",
+        "onboard_time": 1689466407,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222163,
+        "num": 222163,
+        "word": "纸片人一年只上四天班",
+        "onboard_time": 1689479973,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222788,
+        "num": 222050,
+        "word": "刘思鉴作词作曲",
+        "onboard_time": 1689480693,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221176,
+        "num": 221176,
+        "word": "努力但又没完全努力",
+        "onboard_time": 1689481890,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218754,
+        "num": 218754,
+        "word": "男朋友在父母面前失去了本名",
+        "onboard_time": 1689475413,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206699,
+        "num": 206699,
+        "word": "杨澄出轨",
+        "onboard_time": 1689431199,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200286,
+        "num": 200286,
+        "word": "straykids青岛",
+        "onboard_time": 1689472111,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200247,
+        "num": 200247,
+        "word": "何炅是预言家吧",
+        "onboard_time": 1689463281,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197076,
+        "num": 197076,
+        "word": "北京的天气给我鞋底烫掉了",
+        "onboard_time": 1689481772,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193017,
+        "num": 193017,
+        "word": "没人会想碰电路板式的爱情",
+        "onboard_time": 1689481772,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 188336,
+        "num": 188336,
+        "word": "致死率90%的猫冠状病毒或已扩散",
+        "onboard_time": 1689423871,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181577,
+        "num": 181577,
+        "word": "00后大学生创业卖烧饼年入百万",
+        "onboard_time": 1689479372,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动网信事业高质量发展#"
+    }
+  }
+}
