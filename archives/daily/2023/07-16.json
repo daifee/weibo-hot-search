@@ -1,21 +1,29 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689484654325,
+  "endTime": 1689485643792,
   "band_list": [
+    {
+      "raw_hot": 2171318,
+      "num": 691494,
+      "word": "张雨绮点赞任敏相关微博",
+      "onboard_time": 1689481112,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2093201,
+      "num": 691107,
+      "word": "为什么要在小便池里放冰块",
+      "onboard_time": 1689483272,
+      "rank": 11,
+      "category": "幽默"
+    },
     {
       "raw_hot": 2064215,
       "num": 2064215,
       "word": "杨澄出轨",
       "onboard_time": 1689431199,
       "rank": 0,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2017930,
-      "num": 691494,
-      "word": "张雨绮点赞任敏相关微博",
-      "onboard_time": 1689481112,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1689476672,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1294715,
-      "num": 691107,
-      "word": "为什么要在小便池里放冰块",
-      "onboard_time": 1689483272,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 1228849,
@@ -193,6 +193,14 @@
       "onboard_time": 1689470190,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810518,
+      "num": 442059,
+      "word": "孙怡因叛逆错过爷爷66岁大寿",
+      "onboard_time": 1689484653,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 788440,
@@ -363,6 +371,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 566116,
+      "num": 566116,
+      "word": "有一个不太健康的习惯叫穷思竭虑",
+      "onboard_time": 1689482252,
+      "rank": 15,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 557521,
+      "num": 438995,
+      "word": "为什么人很瘦小腿却很胖",
+      "onboard_time": 1689484533,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 554742,
       "num": 406527,
       "word": "谢霆锋带大儿子澳洲度假",
@@ -395,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537973,
-      "num": 537973,
-      "word": "有一个不太健康的习惯叫穷思竭虑",
-      "onboard_time": 1689482252,
-      "rank": 15,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 526054,
       "num": 526054,
       "word": "中国女排3比0波兰女排",
@@ -424,6 +440,14 @@
       "word": "straykids青岛",
       "onboard_time": 1689472111,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 518421,
+      "num": 432881,
+      "word": "张艺兴娜扎去了天马国际旅游节",
+      "onboard_time": 1689484712,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -457,6 +481,14 @@
       "onboard_time": 1689478412,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486316,
+      "num": 486316,
+      "word": "王鹤棣带宋伊人来桃花坞的原因",
+      "onboard_time": 1689484471,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 479960,
@@ -531,20 +563,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 442730,
+      "num": 442730,
+      "word": "任敏素颜状态",
+      "onboard_time": 1689483393,
+      "rank": 23,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 438227,
       "num": 358277,
       "word": "安乐传和山河令是一个导演",
       "onboard_time": 1689431199,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427048,
-      "num": 280135,
-      "word": "为什么人很瘦小腿却很胖",
-      "onboard_time": 1689484533,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 415402,
@@ -595,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373863,
+      "num": 296227,
+      "word": "我现在只在乎三件事",
+      "onboard_time": 1689484113,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 368046,
       "num": 368046,
       "word": "她会成为健身房草莓粉红洞洞鞋传说",
@@ -625,14 +665,6 @@
       "onboard_time": 1689422193,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349865,
-      "num": 349865,
-      "word": "任敏素颜状态",
-      "onboard_time": 1689483393,
-      "rank": 23,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 349139,
@@ -883,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263253,
+      "num": 263253,
+      "word": "王鹤棣有歉当场就道了",
+      "onboard_time": 1689485492,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263040,
       "num": 263040,
       "word": "第二架国产C919正式入列",
@@ -899,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262104,
+      "num": 262104,
+      "word": "电瓶车侧翻母女俩无助站在大雨中",
+      "onboard_time": 1689485014,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256323,
       "num": 256323,
       "word": "山东鲁能",
@@ -907,12 +955,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252795,
-      "num": 252795,
-      "word": "我现在只在乎三件事",
-      "onboard_time": 1689484113,
-      "rank": 37,
-      "category": "幽默,情感"
+      "raw_hot": 253472,
+      "num": 253472,
+      "word": "孟子义向自己的PD说对不起",
+      "onboard_time": 1689485073,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252784,
+      "num": 252784,
+      "word": "北京的天气给我鞋底烫掉了",
+      "onboard_time": 1689481772,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252406,
@@ -963,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239069,
+      "num": 239069,
+      "word": "徐志胜抱着汪苏泷哭",
+      "onboard_time": 1689485613,
+      "rank": 41,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 236850,
       "num": 236850,
       "word": "封神里竟然有冯绍峰",
@@ -992,14 +1056,6 @@
       "word": "男孩车祸被撞断头后接回头部",
       "onboard_time": 1689417751,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228168,
-      "num": 228168,
-      "word": "北京的天气给我鞋底烫掉了",
-      "onboard_time": 1689481772,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1113,14 +1169,6 @@
       "onboard_time": 1689477153,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201993,
-      "num": 201993,
-      "word": "王鹤棣带宋伊人来桃花坞的原因",
-      "onboard_time": 1689484471,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 201427,
@@ -1355,7 +1403,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130011,
+      "raw_hot": 130229,
       "num": 1319232,
       "word": "藏在高校里的宝藏博物馆",
       "onboard_time": 1689480693,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1689445697,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39879,
+      "num": 534307,
+      "word": "19度的夏天",
+      "onboard_time": 1689484831,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34685,
