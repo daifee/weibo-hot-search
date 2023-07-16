@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689532567117,
+  "endTime": 1689534870872,
   "band_list": [
     {
       "raw_hot": 1689781,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69578,
+      "num": 62698,
+      "word": "蜘蛛在男子睡梦时钻入耳道结网",
+      "onboard_time": 1689532095,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54764,
       "num": 802518,
       "word": "成都大运会开幕式有哪些亮点",
@@ -467,7 +475,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29748,
+      "raw_hot": 38272,
+      "num": 38272,
+      "word": "新版妲己封神首映弹古琴",
+      "onboard_time": 1689533594,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 36383,
       "num": 62699,
       "word": "张杰演唱会",
       "onboard_time": 1689416553,
@@ -475,12 +491,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24805,
-      "num": 62698,
-      "word": "蜘蛛在男子睡梦时钻入耳道结网",
-      "onboard_time": 1689532095,
+      "raw_hot": 22381,
+      "num": 30938,
+      "word": "武大靖回应网友说他像高适",
+      "onboard_time": 1689534672,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 20114,
