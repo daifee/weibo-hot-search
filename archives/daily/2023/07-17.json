@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689542151334,
+  "endTime": 1689543236668,
   "band_list": [
     {
       "raw_hot": 1689781,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 36410,
+      "num": 36410,
+      "word": "消防员就应该拍成这样",
+      "onboard_time": 1689541873,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 36383,
       "num": 62699,
       "word": "张杰演唱会",
@@ -499,8 +507,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26499,
-      "num": 26499,
+      "raw_hot": 32874,
+      "num": 32874,
       "word": "肖战片场逗兔子",
       "onboard_time": 1689538511,
       "rank": 47,
@@ -513,14 +521,6 @@
       "onboard_time": 1689513819,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20667,
-      "num": 20667,
-      "word": "消防员就应该拍成这样",
-      "onboard_time": 1689541873,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 20114,
