@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689539639833,
+  "endTime": 1689542151334,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -39835,6 +39835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26499,
+      "num": 26499,
+      "word": "肖战片场逗兔子",
+      "onboard_time": 1689538511,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25563,
       "num": 48822,
       "word": "GEN战胜T1",
@@ -39899,20 +39907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20667,
+      "num": 20667,
+      "word": "消防员就应该拍成这样",
+      "onboard_time": 1689541873,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 19992,
       "num": 22303,
       "word": "当事游客回应发视频表扬导游",
       "onboard_time": 1688245453,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18413,
-      "num": 22399,
-      "word": "肖战片场逗兔子",
-      "onboard_time": 1689538511,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 17448,
