@@ -1,0 +1,410 @@
+{
+  "runTime": 1689502730333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234799,
+        "num": 1234799,
+        "word": "魏大勋户外综艺被要求黑西装戴眼镜",
+        "onboard_time": 1689500253,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 621682,
+        "num": 1226512,
+        "word": "一颗水蜜桃就能挤出一杯桃汁",
+        "onboard_time": 1689495934,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26126,
+        "num": 1144850,
+        "word": "没有信息化就没有现代化",
+        "onboard_time": 1689480572,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1981689,
+        "num": 1131729,
+        "word": "张艺兴 我有一个特大的爆炸消息马上发布",
+        "onboard_time": 1689486630,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391112,
+        "num": 1065302,
+        "word": "弟弟背起失散18年哥哥飞奔回家",
+        "onboard_time": 1689494734,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1030967,
+        "num": 1030967,
+        "word": "最不想解散的内娱组合",
+        "onboard_time": 1689494913,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377063,
+        "num": 961302,
+        "word": "姐姐被困厨房弟弟拍下社死瞬间",
+        "onboard_time": 1689501573,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955981,
+        "num": 955981,
+        "word": "八角笼中开拍前投资全撤了",
+        "onboard_time": 1689496831,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 702419,
+        "num": 702419,
+        "word": "关晓彤的狗不让张一山摸",
+        "onboard_time": 1689490411,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547298,
+        "num": 547298,
+        "word": "不是衣服不好看是你不会搭",
+        "onboard_time": 1689498153,
+        "rank": 9,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 1667238,
+        "num": 518629,
+        "word": "大学生约嫖后拒绝发生关系仍被拘",
+        "onboard_time": 1689486873,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842964,
+        "num": 499498,
+        "word": "日本唯一的破产城市",
+        "onboard_time": 1689498991,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 741009,
+        "num": 489611,
+        "word": "谁给迪丽热巴做的妆发",
+        "onboard_time": 1689485972,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 465917,
+        "num": 465917,
+        "word": "孟子义边哭边道歉",
+        "onboard_time": 1689485972,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445409,
+        "num": 445409,
+        "word": "刘耀文剪短发了",
+        "onboard_time": 1689498452,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439680,
+        "num": 439680,
+        "word": "网友偶遇易烊千玺看展",
+        "onboard_time": 1689497313,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436991,
+        "num": 436991,
+        "word": "魏大勋进入JYP的原因",
+        "onboard_time": 1689485672,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324269,
+        "num": 433736,
+        "word": "为什么要在小便池里放冰块",
+        "onboard_time": 1689483272,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324055,
+        "num": 414099,
+        "word": "BLG锁定常规赛第一",
+        "onboard_time": 1689499952,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259363,
+        "num": 395070,
+        "word": "重庆地铁被打女孩将走司法程序",
+        "onboard_time": 1689480933,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454802,
+        "num": 364085,
+        "word": "蟑螂滑梯",
+        "onboard_time": 1689500853,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353814,
+        "num": 353814,
+        "word": "女网红拳击比赛获胜撩衣露胸庆祝",
+        "onboard_time": 1689500192,
+        "rank": 21,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 337107,
+        "num": 337107,
+        "word": "宋茜想说对不起的人已经不在了",
+        "onboard_time": 1689486093,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332475,
+        "num": 332475,
+        "word": "魏大勋耳钉配寸头",
+        "onboard_time": 1689501872,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310701,
+        "num": 310701,
+        "word": "单位里过得最舒服的一种人",
+        "onboard_time": 1689497195,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331924,
+        "num": 310436,
+        "word": "长安三万里",
+        "onboard_time": 1689497313,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308609,
+        "num": 308609,
+        "word": "TFBOYS我们的时光MV开头",
+        "onboard_time": 1689501573,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294236,
+        "num": 294236,
+        "word": "全红婵陈芋汐水花消失术又来了",
+        "onboard_time": 1689501933,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273776,
+        "num": 273776,
+        "word": "水豚 不吃别乱夹",
+        "onboard_time": 1689498273,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268088,
+        "num": 268088,
+        "word": "恋爱真的会让人暂时忘掉年龄",
+        "onboard_time": 1689499470,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265428,
+        "num": 265428,
+        "word": "撒贝宁果然是央视显眼包",
+        "onboard_time": 1689491432,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260167,
+        "num": 260167,
+        "word": "古相思曲",
+        "onboard_time": 1689496473,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253773,
+        "num": 253773,
+        "word": "宋丹丹向汪苏泷李雪琴道歉",
+        "onboard_time": 1689497252,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242412,
+        "num": 242412,
+        "word": "王宝强说肖战是个好弟弟",
+        "onboard_time": 1689488973,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223320,
+        "num": 223320,
+        "word": "当猫猫被蜜蜂蛰了一下后",
+        "onboard_time": 1689500731,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237875,
+        "num": 222904,
+        "word": "王鹤棣说江疏影衣服像抹布",
+        "onboard_time": 1689494312,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210322,
+        "num": 210322,
+        "word": "四川一面包车从山崖坠江致5死",
+        "onboard_time": 1689502232,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203232,
+        "num": 203232,
+        "word": "因为一个发夹被同事说不吉利",
+        "onboard_time": 1689476374,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 202863,
+        "num": 202863,
+        "word": "徐志胜不敢停下来系鞋带的青春",
+        "onboard_time": 1689486033,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202257,
+        "num": 202257,
+        "word": "考完驾照后就爱看这个",
+        "onboard_time": 1689501331,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187368,
+        "num": 187368,
+        "word": "任敏素颜状态",
+        "onboard_time": 1689483393,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 174981,
+        "num": 174981,
+        "word": "台风",
+        "onboard_time": 1689489216,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173088,
+        "num": 173088,
+        "word": "Jennie称作为Kpop艺人出道被限制发展",
+        "onboard_time": 1689474570,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166814,
+        "num": 166814,
+        "word": "王宝强说我和陈思诚都非常爱对方",
+        "onboard_time": 1689489272,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163106,
+        "num": 163106,
+        "word": "李木戈你到底埋了多少细节",
+        "onboard_time": 1689485852,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162973,
+        "num": 162973,
+        "word": "狗狗脚底烫伤在姐弟面前情绪截然不同",
+        "onboard_time": 1689495812,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154959,
+        "num": 154959,
+        "word": "陆虎把嘘嘘藏在和声里",
+        "onboard_time": 1689494430,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145640,
+        "num": 145640,
+        "word": "上海中考",
+        "onboard_time": 1689494973,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130709,
+        "num": 145204,
+        "word": "炸鸡两吃配可乐堪称一绝",
+        "onboard_time": 1689502652,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120847,
+        "num": 145036,
+        "word": "36岁小伙花6万6订婚半月新娘变大妈",
+        "onboard_time": 1689487953,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动网信事业高质量发展#"
+    }
+  }
+}
