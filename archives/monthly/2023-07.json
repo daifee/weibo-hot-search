@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689531736551,
+  "endTime": 1689532567117,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -39817,6 +39817,14 @@
       "onboard_time": 1688845036,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24805,
+      "num": 62698,
+      "word": "蜘蛛在男子睡梦时钻入耳道结网",
+      "onboard_time": 1689532095,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23875,
