@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689496519926,
+  "endTime": 1689499037104,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3392,6 +3392,14 @@
       "word": "Makiyo小金离婚",
       "onboard_time": 1689414092,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1438603,
+      "num": 1438603,
+      "word": "最不想解散的内娱组合",
+      "onboard_time": 1689494913,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -8779,6 +8787,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 760390,
+      "num": 760390,
+      "word": "王鹤棣说江疏影衣服像抹布",
+      "onboard_time": 1689494312,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758916,
       "num": 669888,
       "word": "白敬亭真不瘦",
@@ -8953,14 +8969,6 @@
       "onboard_time": 1688172990,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 746098,
-      "num": 402751,
-      "word": "最不想解散的内娱组合",
-      "onboard_time": 1689494913,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 745861,
@@ -10099,14 +10107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 676353,
-      "num": 401275,
-      "word": "王鹤棣说江疏影衣服像抹布",
-      "onboard_time": 1689494312,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 675764,
       "num": 675764,
       "word": "张子豪龙韬娱乐",
@@ -10217,6 +10217,14 @@
       "onboard_time": 1688194290,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669312,
+      "num": 339505,
+      "word": "网友偶遇易烊千玺看展",
+      "onboard_time": 1689497313,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 669141,
@@ -11993,6 +12001,14 @@
       "onboard_time": 1688284833,
       "rank": 7,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 593015,
+      "num": 316949,
+      "word": "八角笼中开拍前投资全撤了",
+      "onboard_time": 1689496831,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 591868,
@@ -17091,6 +17107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429390,
+      "num": 429390,
+      "word": "一颗水蜜桃就能挤出一杯桃汁",
+      "onboard_time": 1689495934,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429311,
       "num": 429311,
       "word": "奔跑吧没范丞丞不行",
@@ -18899,6 +18923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385618,
+      "num": 258855,
+      "word": "单位里过得最舒服的一种人",
+      "onboard_time": 1689497195,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385617,
       "num": 385617,
       "word": "国产剧你真的别太过分",
@@ -18993,6 +19025,14 @@
       "onboard_time": 1688368786,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383149,
+      "num": 254861,
+      "word": "刘耀文剪短发了",
+      "onboard_time": 1689498452,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 382973,
@@ -21452,7 +21492,7 @@
     },
     {
       "raw_hot": 334441,
-      "num": 242072,
+      "num": 247541,
       "word": "狗狗脚底烫伤在姐弟面前情绪截然不同",
       "onboard_time": 1689495812,
       "rank": 30,
@@ -24147,6 +24187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 292693,
+      "num": 217860,
+      "word": "宋丹丹向汪苏泷李雪琴道歉",
+      "onboard_time": 1689497252,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292663,
       "num": 292663,
       "word": "大方承认我们都是普通人",
@@ -24545,6 +24593,14 @@
       "onboard_time": 1688801253,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 286714,
+      "num": 212605,
+      "word": "水豚 不吃别乱夹",
+      "onboard_time": 1689498273,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 286651,
@@ -28443,6 +28499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236800,
+      "num": 236800,
+      "word": "弟弟背起失散18年哥哥飞奔回家",
+      "onboard_time": 1689494734,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 236762,
       "num": 236762,
       "word": "EXO粉丝全场大合唱growl",
@@ -28865,6 +28929,14 @@
       "onboard_time": 1688180190,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231325,
+      "num": 204812,
+      "word": "不是衣服不好看是你不会搭",
+      "onboard_time": 1689498153,
+      "rank": 34,
+      "category": "时尚,幽默"
     },
     {
       "raw_hot": 231318,
@@ -29939,6 +30011,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 219787,
+      "num": 194397,
+      "word": "杨紫西雅图vlog",
+      "onboard_time": 1689497672,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "NIP让一追二RNG",
@@ -30633,6 +30713,14 @@
       "onboard_time": 1689489694,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213111,
+      "num": 213111,
+      "word": "老板是真敢让你去玩啊",
+      "onboard_time": 1689497731,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 213081,
@@ -34691,6 +34779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172292,
+      "num": 176140,
+      "word": "台风泰利17日登陆海南广东",
+      "onboard_time": 1689496894,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172163,
       "num": 180870,
       "word": "京城大师赛",
@@ -34793,6 +34889,14 @@
       "onboard_time": 1688300378,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170363,
+      "num": 170363,
+      "word": "日本唯一的破产城市",
+      "onboard_time": 1689498991,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 170343,
@@ -35081,6 +35185,14 @@
       "onboard_time": 1688644713,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165981,
+      "num": 165981,
+      "word": "汪晓龙同志被追授中国青年五四奖章",
+      "onboard_time": 1689498095,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165774,
@@ -35673,14 +35785,6 @@
       "onboard_time": 1688320338,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155285,
-      "num": 180082,
-      "word": "弟弟背起失散18年哥哥飞奔回家",
-      "onboard_time": 1689494734,
-      "rank": 49,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 155212,
@@ -38435,6 +38539,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 37959,
+      "num": 921415,
+      "word": "没有信息化就没有现代化",
+      "onboard_time": 1689480572,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37867,
       "num": 519223,
       "word": "朱琳组合VS张帅组合",
@@ -38553,14 +38665,6 @@
       "onboard_time": 1689359776,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 31132,
-      "num": 921415,
-      "word": "没有信息化就没有现代化",
-      "onboard_time": 1689480572,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31114,
