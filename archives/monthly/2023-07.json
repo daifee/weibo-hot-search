@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689492832389,
+  "endTime": 1689495722468,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3156,7 +3156,7 @@
     },
     {
       "raw_hot": 1517719,
-      "num": 669859,
+      "num": 921278,
       "word": "关晓彤的狗不让张一山摸",
       "onboard_time": 1689490411,
       "rank": 12,
@@ -5137,6 +5137,14 @@
       "onboard_time": 1689242974,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1079734,
+      "num": 1079734,
+      "word": "撒贝宁果然是央视显眼包",
+      "onboard_time": 1689491432,
+      "rank": 38,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1079475,
@@ -11539,14 +11547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 612850,
-      "num": 612850,
-      "word": "撒贝宁果然是央视显眼包",
-      "onboard_time": 1689491432,
-      "rank": 38,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 612396,
       "num": 612396,
       "word": "那是62岁费翔的手",
@@ -13049,6 +13049,14 @@
       "onboard_time": 1688550633,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548504,
+      "num": 401275,
+      "word": "王鹤棣说江疏影衣服像抹布",
+      "onboard_time": 1689494312,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 547852,
@@ -15043,6 +15051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 481941,
+      "num": 383173,
+      "word": "最不想解散的内娱组合",
+      "onboard_time": 1689494913,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481727,
       "num": 481727,
       "word": "芝芙杀疯了",
@@ -15889,6 +15905,14 @@
       "onboard_time": 1688288013,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 456833,
+      "num": 456833,
+      "word": "原来中医还可以治疗近视",
+      "onboard_time": 1689491013,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456482,
@@ -17681,14 +17705,6 @@
       "onboard_time": 1688405540,
       "rank": 48,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 413903,
-      "num": 413903,
-      "word": "原来中医还可以治疗近视",
-      "onboard_time": 1689491013,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413894,
@@ -19587,6 +19603,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 370976,
+      "num": 370976,
+      "word": "新疆的店名都是机翻的吗",
+      "onboard_time": 1689490594,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 370970,
       "num": 370970,
       "word": "女子因被让座在高铁大吵抹泪说委屈",
@@ -20543,6 +20567,14 @@
       "num": 338892,
       "word": "张杰回应巡演脱衣服",
       "onboard_time": 1688344830,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 351181,
+      "num": 276804,
+      "word": "陆虎把嘘嘘藏在和声里",
+      "onboard_time": 1689494430,
       "rank": 26,
       "category": "音乐"
     },
@@ -22603,6 +22635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312467,
+      "num": 282416,
+      "word": "夏天男生穿搭都一个样",
+      "onboard_time": 1689493590,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 312338,
       "num": 291109,
       "word": "曾少年是ceng还是zeng",
@@ -23523,6 +23563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298259,
+      "num": 270930,
+      "word": "Angelababy擦玻璃舞",
+      "onboard_time": 1689492754,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298170,
       "num": 298170,
       "word": "两口子吵架冷战到了饭点各吃各的",
@@ -23777,6 +23825,14 @@
       "onboard_time": 1688992893,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295867,
+      "num": 281212,
+      "word": "网上很火但你却听不懂的梗",
+      "onboard_time": 1689494133,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 295861,
@@ -24201,6 +24257,14 @@
       "onboard_time": 1689033511,
       "rank": 32,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 290659,
+      "num": 290659,
+      "word": "上海中考",
+      "onboard_time": 1689494973,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 290357,
@@ -27675,14 +27739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 245096,
-      "num": 266246,
-      "word": "新疆的店名都是机翻的吗",
-      "onboard_time": 1689490594,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245090,
       "num": 245090,
       "word": "突然共情了高适李白的人生",
@@ -28536,6 +28592,14 @@
       "word": "爸爸焦急盼到女儿通知书第一时间开箱",
       "onboard_time": 1688187155,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234404,
+      "num": 234404,
+      "word": "女子为测试宠物狗是否会救人跳河后溺亡",
+      "onboard_time": 1689492935,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -29529,6 +29593,14 @@
       "onboard_time": 1688474916,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223105,
+      "num": 223105,
+      "word": "EDG决赛对阵BLG",
+      "onboard_time": 1689494133,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 223069,
@@ -30969,6 +31041,14 @@
       "onboard_time": 1688797768,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 208797,
+      "num": 208797,
+      "word": "小蘑菇漫画末世感",
+      "onboard_time": 1689495212,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 208707,
@@ -32619,6 +32699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193391,
+      "num": 193391,
+      "word": "谢乔杨澄彻底be",
+      "onboard_time": 1689495570,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193164,
       "num": 193164,
       "word": "被西安交大校长的临场发挥震撼到",
@@ -33315,6 +33403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187450,
+      "num": 187450,
+      "word": "老人为哄娃抱来一车小动物",
+      "onboard_time": 1689495330,
+      "rank": 45,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 187420,
       "num": 187420,
       "word": "北京大雨",
@@ -33433,6 +33529,14 @@
       "onboard_time": 1688291670,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186080,
+      "num": 186080,
+      "word": "VG对战WE",
+      "onboard_time": 1689494973,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 186020,
@@ -34729,14 +34833,6 @@
       "onboard_time": 1688718031,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169562,
-      "num": 207727,
-      "word": "Angelababy擦玻璃舞",
-      "onboard_time": 1689492754,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 169537,
@@ -38647,6 +38743,14 @@
       "num": 2326971,
       "word": "黄河之水天上来有画面了",
       "onboard_time": 1688963741,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20584,
+      "num": 921415,
+      "word": "没有信息化就没有现代化",
+      "onboard_time": 1689480572,
       "rank": 2,
       "category": "社会新闻"
     },
