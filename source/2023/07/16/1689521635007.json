@@ -1,0 +1,410 @@
+{
+  "runTime": 1689521635007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510100,
+        "num": 1510100,
+        "word": "五月天录播",
+        "onboard_time": 1689518203,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1502059,
+        "num": 1502059,
+        "word": "原来魏大勋说的都是真的",
+        "onboard_time": 1689518203,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83692,
+        "num": 1102756,
+        "word": "成都大运会开幕式有哪些亮点",
+        "onboard_time": 1689513213,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2834693,
+        "num": 1086341,
+        "word": "假唱",
+        "onboard_time": 1689517778,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1025248,
+        "num": 1025248,
+        "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
+        "onboard_time": 1689519578,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869385,
+        "num": 869385,
+        "word": "G社拍的宋轶",
+        "onboard_time": 1689519158,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 795207,
+        "num": 795207,
+        "word": "胖人和瘦人吃东西的区别",
+        "onboard_time": 1689517957,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 774882,
+        "num": 774882,
+        "word": "王心凌千万别看黄渤版honey",
+        "onboard_time": 1689515978,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605211,
+        "num": 605211,
+        "word": "敷衍爸妈报的学校结果录取了",
+        "onboard_time": 1689505472,
+        "rank": 8,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 621623,
+        "num": 603849,
+        "word": "湖南通报微信群不雅信息事件",
+        "onboard_time": 1689511772,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1677646,
+        "num": 586972,
+        "word": "赵今麦的妆是谁画的",
+        "onboard_time": 1689513632,
+        "rank": 10,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 1135594,
+        "num": 556607,
+        "word": "央视镜头下的王楚然",
+        "onboard_time": 1689512733,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 698124,
+        "num": 538974,
+        "word": "印度网红AK哥被深圳震撼的语无伦次",
+        "onboard_time": 1689518203,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669127,
+        "num": 531928,
+        "word": "赵丽颖魏大勋一起拍过MV",
+        "onboard_time": 1689519996,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 616523,
+        "num": 510729,
+        "word": "穿衣自由和擦边的标准",
+        "onboard_time": 1689504630,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 635646,
+        "num": 490244,
+        "word": "八角笼中票房",
+        "onboard_time": 1689518502,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488136,
+        "num": 488136,
+        "word": "王传君抱了好大一个棉花娃娃",
+        "onboard_time": 1689512733,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427036,
+        "num": 427036,
+        "word": "EDG击败BLG夺冠",
+        "onboard_time": 1689513213,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323217,
+        "num": 426453,
+        "word": "易烊千玺帮我扛下了所有压力",
+        "onboard_time": 1689503611,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 263050,
+        "num": 421621,
+        "word": "嘉善暴雨",
+        "onboard_time": 1689519996,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473624,
+        "num": 416527,
+        "word": "张杰南京唱又到梧桐吐绿时",
+        "onboard_time": 1689521618,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 457264,
+        "num": 410479,
+        "word": "小S二女儿跳舞健身视频",
+        "onboard_time": 1689520658,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454822,
+        "num": 401149,
+        "word": "吃芒果真的很需要一个私人空间",
+        "onboard_time": 1689512914,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430831,
+        "num": 397016,
+        "word": "时代少年团舞台真的燃起来了",
+        "onboard_time": 1689517175,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302354,
+        "num": 394881,
+        "word": "北方女孩在广州被蟑螂折磨崩溃辞职",
+        "onboard_time": 1689505891,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390376,
+        "num": 390376,
+        "word": "沈腾模仿孟宴臣名台词",
+        "onboard_time": 1689517477,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388467,
+        "num": 388467,
+        "word": "韩庚当年到底有多火",
+        "onboard_time": 1689510991,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247358,
+        "num": 355647,
+        "word": "自习室有偷知识的贼",
+        "onboard_time": 1689517115,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236566,
+        "num": 353057,
+        "word": "普京称乌军反攻没有成功",
+        "onboard_time": 1689520835,
+        "rank": 28,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 214659,
+        "num": 351547,
+        "word": "清清又肉又扭",
+        "onboard_time": 1689518858,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351521,
+        "num": 351521,
+        "word": "美依礼芽后来全场大合唱",
+        "onboard_time": 1689514235,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337475,
+        "num": 337475,
+        "word": "薛之谦衡阳",
+        "onboard_time": 1689520716,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318746,
+        "num": 318746,
+        "word": "汪苏泷唱错词",
+        "onboard_time": 1689512491,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274830,
+        "num": 274830,
+        "word": "肖战王楚然好有cp感",
+        "onboard_time": 1689520357,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207485,
+        "num": 207485,
+        "word": "水库免费开放给市民做天然泳池",
+        "onboard_time": 1689507690,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247678,
+        "num": 206664,
+        "word": "张艺兴 我有一个特大的爆炸消息马上发布",
+        "onboard_time": 1689486630,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231421,
+        "num": 206422,
+        "word": "薛之谦新歌念",
+        "onboard_time": 1689503253,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205332,
+        "num": 205332,
+        "word": "00后警校生照片被人拿去相亲",
+        "onboard_time": 1689516757,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195645,
+        "num": 195645,
+        "word": "德约",
+        "onboard_time": 1689520956,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194243,
+        "num": 194243,
+        "word": "英专毕业生的就业现状belike",
+        "onboard_time": 1689509192,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220110,
+        "num": 194088,
+        "word": "肖战方逸伦联盟一天就破裂",
+        "onboard_time": 1689513096,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207028,
+        "num": 193834,
+        "word": "八角笼中开拍前投资全撤了",
+        "onboard_time": 1689496831,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194624,
+        "num": 193311,
+        "word": "曾少年",
+        "onboard_time": 1689509012,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339575,
+        "num": 193085,
+        "word": "杭州上空疑似出现马斯克的星链卫星",
+        "onboard_time": 1689515018,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192920,
+        "num": 192920,
+        "word": "温网决赛",
+        "onboard_time": 1689516455,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182285,
+        "num": 182285,
+        "word": "阿尔卡拉斯vs德约科维奇",
+        "onboard_time": 1689515856,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178335,
+        "num": 178335,
+        "word": "爬完泰山真的能瘦几斤吗",
+        "onboard_time": 1689515916,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176895,
+        "num": 176895,
+        "word": "男子吃见手青中毒以为自己是奥特曼",
+        "onboard_time": 1689520779,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197611,
+        "num": 176746,
+        "word": "芒果是懂我们想看什么的",
+        "onboard_time": 1689516820,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176270,
+        "num": 176270,
+        "word": "这就是已婚男人的三字真经吧",
+        "onboard_time": 1689506069,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#阔步迈向网络强国#"
+    }
+  }
+}
