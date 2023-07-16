@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689477612259,
+  "endTime": 1689478367915,
   "band_list": [
     {
       "raw_hot": 2064215,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1372736,
-      "num": 691113,
+      "num": 813538,
       "word": "马伯骞弟弟结婚了",
       "onboard_time": 1689466829,
       "rank": 10,
@@ -67,12 +67,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1016651,
-      "num": 1016651,
+      "raw_hot": 1251147,
+      "num": 1251147,
+      "word": "迪丽热巴真的去看猴了",
+      "onboard_time": 1689476672,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1108918,
+      "num": 1108918,
       "word": "肖战未来可能尝试幕后工作",
       "onboard_time": 1689474812,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1027309,
+      "num": 1027309,
+      "word": "TFBOYS演唱会二三代可能都会去",
+      "onboard_time": 1689475712,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1023917,
+      "num": 1023917,
+      "word": "因为一个发夹被同事说不吉利",
+      "onboard_time": 1689476374,
+      "rank": 9,
+      "category": "时尚"
     },
     {
       "raw_hot": 980803,
@@ -88,6 +112,14 @@
       "word": "宋轶为什么这么有底气",
       "onboard_time": 1689431917,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 924997,
+      "num": 924997,
+      "word": "迪丽热巴一周涨粉14万",
+      "onboard_time": 1689476553,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -123,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 807142,
-      "num": 807142,
-      "word": "迪丽热巴真的去看猴了",
-      "onboard_time": 1689476672,
-      "rank": 5,
-      "category": "艺人"
+      "raw_hot": 806139,
+      "num": 806139,
+      "word": "千万别碰荔枝树上的臭虫",
+      "onboard_time": 1689477032,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 788440,
@@ -147,28 +179,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 747207,
-      "num": 747207,
-      "word": "TFBOYS演唱会二三代可能都会去",
-      "onboard_time": 1689475712,
-      "rank": 6,
-      "category": "音乐"
+      "raw_hot": 718475,
+      "num": 718475,
+      "word": "男子开小饭桌15元一顿4天赚44元",
+      "onboard_time": 1689476614,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 729981,
-      "num": 729981,
-      "word": "迪丽热巴一周涨粉14万",
-      "onboard_time": 1689476553,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 697125,
-      "num": 697125,
-      "word": "因为一个发夹被同事说不吉利",
-      "onboard_time": 1689476374,
-      "rank": 9,
-      "category": "时尚"
+      "raw_hot": 699854,
+      "num": 839582,
+      "word": "家政阿姨带女儿来我家里住",
+      "onboard_time": 1689474451,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695036,
@@ -201,14 +225,6 @@
       "onboard_time": 1689433178,
       "rank": 7,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 642844,
-      "num": 642844,
-      "word": "家政阿姨带女儿来我家里住",
-      "onboard_time": 1689474451,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 642000,
@@ -249,14 +265,6 @@
       "onboard_time": 1689467490,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 574027,
-      "num": 281826,
-      "word": "男子开小饭桌15元一顿4天赚44元",
-      "onboard_time": 1689476614,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 554742,
@@ -379,12 +387,36 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 450037,
+      "num": 450037,
+      "word": "警方回应女子怀疑儿子被偷拍打伤女孩",
+      "onboard_time": 1689477454,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438227,
       "num": 358277,
       "word": "安乐传和山河令是一个导演",
       "onboard_time": 1689431199,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 432109,
+      "num": 432109,
+      "word": "骄阳似我和似锦都找了赵露思",
+      "onboard_time": 1689477513,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 429757,
+      "num": 429757,
+      "word": "一张图诠释魏大勋现状",
+      "onboard_time": 1689476133,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 415402,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 390557,
-      "num": 278601,
+      "num": 301550,
       "word": "男朋友在父母面前失去了本名",
       "onboard_time": 1689475413,
       "rank": 31,
@@ -443,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 366555,
-      "num": 272894,
-      "word": "千万别碰荔枝树上的臭虫",
-      "onboard_time": 1689477032,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360453,
       "num": 360453,
       "word": "詹姆斯将穿回23号",
@@ -465,6 +489,14 @@
       "onboard_time": 1689422193,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345037,
+      "num": 303748,
+      "word": "杨晓培回复赵露思粉丝",
+      "onboard_time": 1689476733,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 341631,
@@ -491,12 +523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 330276,
-      "num": 292277,
-      "word": "杨晓培回复赵露思粉丝",
-      "onboard_time": 1689476733,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 319436,
+      "num": 302239,
+      "word": "毛不易演唱会抢票",
+      "onboard_time": 1689478232,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 319176,
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 315979,
-      "num": 289890,
+      "num": 300632,
       "word": "龚俊笑这么开心不像演的",
       "onboard_time": 1689476614,
       "rank": 28,
@@ -552,6 +584,22 @@
       "word": "女童内裤印拼音被质疑擦边",
       "onboard_time": 1689425973,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304219,
+      "num": 304219,
+      "word": "退休大妈偷车一辆只卖20元",
+      "onboard_time": 1689477215,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298970,
+      "num": 298970,
+      "word": "离婚冷静期内找新欢算出轨吗",
+      "onboard_time": 1689477932,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -651,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263528,
-      "num": 263528,
-      "word": "一张图诠释魏大勋现状",
-      "onboard_time": 1689476133,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263022,
       "num": 284638,
       "word": "TTG",
@@ -683,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240343,
-      "num": 240343,
-      "word": "退休大妈偷车一辆只卖20元",
-      "onboard_time": 1689477215,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239947,
       "num": 239947,
       "word": "警方回应女子疑当街强抱小孩",
@@ -707,14 +739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236553,
-      "num": 236553,
-      "word": "警方回应女子怀疑儿子被偷拍打伤女孩",
-      "onboard_time": 1689477454,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236019,
       "num": 236019,
       "word": "斗破苍穹",
@@ -729,6 +753,14 @@
       "onboard_time": 1689473848,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230506,
+      "num": 230506,
+      "word": "自行车中间这个洞是干嘛用的",
+      "onboard_time": 1689477695,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 229255,
@@ -779,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213405,
-      "num": 213405,
-      "word": "骄阳似我和似锦都找了赵露思",
-      "onboard_time": 1689477513,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208770,
       "num": 208770,
       "word": "女生宿舍一般不会老是聊男生",
@@ -819,6 +843,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 204661,
+      "num": 204661,
+      "word": "TTG首发",
+      "onboard_time": 1689474274,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202098,
       "num": 202098,
       "word": "现在的儿童科普书有多直观",
@@ -833,14 +865,6 @@
       "onboard_time": 1689433837,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200940,
-      "num": 200940,
-      "word": "TTG首发",
-      "onboard_time": 1689474274,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 198652,
@@ -905,6 +929,14 @@
       "onboard_time": 1689427896,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 187098,
+      "num": 187098,
+      "word": "第二架国产C919正式入列",
+      "onboard_time": 1689477932,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 184893,
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 34685,
-      "num": 1275860,
+      "num": 1336182,
       "word": "回顾2023那些振奋人心的科技新突破",
       "onboard_time": 1689426875,
       "rank": 2,
