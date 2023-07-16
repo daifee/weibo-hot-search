@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/17 06:34:58
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/17 07:18:11
 </p>
 </blockquote>
 <p>
@@ -1709,6 +1709,12 @@ JackeyLove退出亚运会名单（热度：2146090）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%88%92%E5%8D%8E%20%E7%83%A7%E7%BB%99%E4%BD%A0%23" target="weibo">
 叶舒华 烧给你（热度：1844383）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88390%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%80%BA%E5%8A%A1%23" target="weibo">
+拜登政府宣布取消390亿美元学生贷款债务（热度：1843145）
 </a>
 </li>
 
@@ -3821,12 +3827,6 @@ Angelababy穿泳装（热度：1127237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%23" target="weibo">
 优酷（热度：1111725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88390%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%80%BA%E5%8A%A1%23" target="weibo">
-拜登政府宣布取消390亿美元学生贷款债务（热度：1111458）
 </a>
 </li>
 

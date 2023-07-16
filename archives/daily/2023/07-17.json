@@ -1,7 +1,15 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689546898591,
+  "endTime": 1689549491874,
   "band_list": [
+    {
+      "raw_hot": 1843145,
+      "num": 1843145,
+      "word": "拜登政府宣布取消390亿美元学生贷款债务",
+      "onboard_time": 1689523711,
+      "rank": 30,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 1689781,
       "num": 800941,
@@ -17,14 +25,6 @@
       "onboard_time": 1689518203,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1111458,
-      "num": 954184,
-      "word": "拜登政府宣布取消390亿美元学生贷款债务",
-      "onboard_time": 1689523711,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1097042,
@@ -65,6 +65,14 @@
       "onboard_time": 1689503253,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 586481,
+      "num": 586481,
+      "word": "中国女排vs土耳其女排",
+      "onboard_time": 1689548962,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 579872,
@@ -155,6 +163,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 407619,
+      "num": 407619,
+      "word": "爸爸捐献儿子器官救8人一句话让人破防",
+      "onboard_time": 1689541752,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405904,
       "num": 283094,
       "word": "八角笼中票房",
@@ -179,12 +195,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335128,
+      "num": 165669,
+      "word": "对冷暴力最好的回应方式",
+      "onboard_time": 1689548600,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313363,
       "num": 313363,
       "word": "EDG击败BLG夺冠",
       "onboard_time": 1689513213,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 312874,
+      "num": 312874,
+      "word": "老人暑假回老家24名亲人打地铺相聚",
+      "onboard_time": 1689522334,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302166,
+      "num": 302166,
+      "word": "消防员就应该拍成这样",
+      "onboard_time": 1689541873,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 289853,
@@ -241,6 +281,14 @@
       "onboard_time": 1689523889,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244646,
+      "num": 244646,
+      "word": "女排",
+      "onboard_time": 1689549201,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 241606,
@@ -307,20 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187338,
-      "num": 187338,
-      "word": "消防员就应该拍成这样",
-      "onboard_time": 1689541873,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 185458,
-      "num": 185458,
-      "word": "老人暑假回老家24名亲人打地铺相聚",
-      "onboard_time": 1689522334,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 186504,
+      "num": 130520,
+      "word": "很难想象在一起很久后必须分开的情况",
+      "onboard_time": 1689548541,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 185432,
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 144185,
-      "num": 95535,
+      "num": 97269,
       "word": "爱是无法降级处理的",
       "onboard_time": 1689528440,
       "rank": 34,
@@ -409,6 +449,22 @@
       "onboard_time": 1689506069,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 134502,
+      "num": 134502,
+      "word": "斗破决战云岚开播",
+      "onboard_time": 1689549322,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 129909,
+      "num": 129909,
+      "word": "小伙凌晨买水拿硬币对监控展示支付",
+      "onboard_time": 1689549263,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118956,
@@ -443,12 +499,44 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 84970,
-      "num": 84970,
+      "raw_hot": 105074,
+      "num": 105074,
+      "word": "肖战片场逗兔子",
+      "onboard_time": 1689538511,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 100336,
+      "num": 100336,
+      "word": "第一次见带滑盖的眼睛",
+      "onboard_time": 1689549263,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86738,
+      "num": 96632,
+      "word": "导演周国栋因病去世",
+      "onboard_time": 1689513516,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85926,
+      "num": 85926,
       "word": "刘亦菲开箱vlog",
       "onboard_time": 1689528678,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85108,
+      "num": 85108,
+      "word": "武大靖回应网友说他像高适",
+      "onboard_time": 1689534672,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80553,
@@ -467,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79600,
-      "num": 96632,
-      "word": "导演周国栋因病去世",
-      "onboard_time": 1689513516,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54764,
       "num": 802518,
       "word": "成都大运会开幕式有哪些亮点",
@@ -483,20 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51661,
-      "num": 51661,
-      "word": "肖战片场逗兔子",
-      "onboard_time": 1689538511,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 46444,
-      "num": 46444,
-      "word": "武大靖回应网友说他像高适",
-      "onboard_time": 1689534672,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 50722,
+      "num": 749261,
+      "word": "第2架国产C919入列",
+      "onboard_time": 1689512914,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42119,
@@ -513,22 +585,6 @@
       "onboard_time": 1689416553,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34667,
-      "num": 42033,
-      "word": "爸爸捐献儿子器官救8人一句话让人破防",
-      "onboard_time": 1689541752,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24339,
-      "num": 423937,
-      "word": "第2架国产C919入列",
-      "onboard_time": 1689512914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20995,

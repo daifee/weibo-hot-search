@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689546898591,
+  "endTime": 1689549491874,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2265,6 +2265,14 @@
       "onboard_time": 1688687368,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1843145,
+      "num": 1843145,
+      "word": "拜登政府宣布取消390亿美元学生贷款债务",
+      "onboard_time": 1689523711,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1842324,
@@ -5081,14 +5089,6 @@
       "onboard_time": 1689157173,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1111458,
-      "num": 954184,
-      "word": "拜登政府宣布取消390亿美元学生贷款债务",
-      "onboard_time": 1689523711,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1110502,
@@ -12483,6 +12483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 586481,
+      "num": 586481,
+      "word": "中国女排vs土耳其女排",
+      "onboard_time": 1689548962,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 585697,
       "num": 585697,
       "word": "禁毒烈士妹妹追着毒贩跃入深沟",
@@ -18427,6 +18435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407619,
+      "num": 407619,
+      "word": "爸爸捐献儿子器官救8人一句话让人破防",
+      "onboard_time": 1689541752,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407159,
       "num": 292862,
       "word": "周杰伦开演唱会为海口增近10亿旅游收入",
@@ -22059,6 +22075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335128,
+      "num": 165669,
+      "word": "对冷暴力最好的回应方式",
+      "onboard_time": 1689548600,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335072,
       "num": 320214,
       "word": "家里的狗被牵扯进了诈骗",
@@ -23299,6 +23323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312874,
+      "num": 312874,
+      "word": "老人暑假回老家24名亲人打地铺相聚",
+      "onboard_time": 1689522334,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312857,
       "num": 259958,
       "word": "消失的她朋友圈文案",
@@ -24001,6 +24033,14 @@
       "onboard_time": 1688972070,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302166,
+      "num": 302166,
+      "word": "消防员就应该拍成这样",
+      "onboard_time": 1689541873,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 302048,
@@ -28633,6 +28673,14 @@
       "onboard_time": 1689073538,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244646,
+      "num": 244646,
+      "word": "女排",
+      "onboard_time": 1689488856,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 244379,
@@ -34347,14 +34395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187338,
-      "num": 187338,
-      "word": "消防员就应该拍成这样",
-      "onboard_time": 1689541873,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187154,
       "num": 187154,
       "word": "披荆斩棘的哥哥",
@@ -34417,6 +34457,14 @@
       "onboard_time": 1689411990,
       "rank": 44,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 186504,
+      "num": 130520,
+      "word": "很难想象在一起很久后必须分开的情况",
+      "onboard_time": 1689548541,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 186481,
@@ -34521,14 +34569,6 @@
       "onboard_time": 1688308300,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 185458,
-      "num": 185458,
-      "word": "老人暑假回老家24名亲人打地铺相聚",
-      "onboard_time": 1689522334,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185362,
@@ -35425,14 +35465,6 @@
       "onboard_time": 1688407577,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 175607,
-      "num": 207734,
-      "word": "女排",
-      "onboard_time": 1689488856,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 175561,
@@ -37156,7 +37188,7 @@
     },
     {
       "raw_hot": 144185,
-      "num": 95535,
+      "num": 97269,
       "word": "爱是无法降级处理的",
       "onboard_time": 1689528440,
       "rank": 34,
@@ -37491,6 +37523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134502,
+      "num": 134502,
+      "word": "斗破决战云岚开播",
+      "onboard_time": 1689549322,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 134106,
       "num": 129337,
       "word": "TMEA",
@@ -37609,6 +37649,14 @@
       "onboard_time": 1688769797,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129909,
+      "num": 129909,
+      "word": "小伙凌晨买水拿硬币对监控展示支付",
+      "onboard_time": 1689549263,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129190,
@@ -38139,6 +38187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105074,
+      "num": 105074,
+      "word": "肖战片场逗兔子",
+      "onboard_time": 1689538511,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 104938,
       "num": 165178,
       "word": "杭州亚运会最便宜门票20元",
@@ -38329,6 +38385,14 @@
       "onboard_time": 1688356817,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 100336,
+      "num": 100336,
+      "word": "第一次见带滑盖的眼睛",
+      "onboard_time": 1689549263,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 100240,
@@ -38635,6 +38699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85926,
+      "num": 85926,
+      "word": "刘亦菲开箱vlog",
+      "onboard_time": 1689528678,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85729,
       "num": 2379218,
       "word": "西汉青铜灯人性化设计太妙了",
@@ -38667,12 +38739,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 84970,
-      "num": 84970,
-      "word": "刘亦菲开箱vlog",
-      "onboard_time": 1689528678,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 85108,
+      "num": 85108,
+      "word": "武大靖回应网友说他像高适",
+      "onboard_time": 1689534672,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84762,
@@ -39292,7 +39364,7 @@
     },
     {
       "raw_hot": 52317,
-      "num": 423937,
+      "num": 749261,
       "word": "第2架国产C919入列",
       "onboard_time": 1689512914,
       "rank": 47,
@@ -39321,14 +39393,6 @@
       "onboard_time": 1689183439,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51661,
-      "num": 51661,
-      "word": "肖战片场逗兔子",
-      "onboard_time": 1689538511,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 51538,
@@ -39417,14 +39481,6 @@
       "onboard_time": 1688721155,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46444,
-      "num": 46444,
-      "word": "武大靖回应网友说他像高适",
-      "onboard_time": 1689534672,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 45928,
@@ -39649,14 +39705,6 @@
       "onboard_time": 1689426875,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 34667,
-      "num": 42033,
-      "word": "爸爸捐献儿子器官救8人一句话让人破防",
-      "onboard_time": 1689541752,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33266,
