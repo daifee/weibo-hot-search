@@ -1,0 +1,410 @@
+{
+  "runTime": 1689473034855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1545965,
+        "num": 1545965,
+        "word": "喜欢睡觉的时候把手举过头顶",
+        "onboard_time": 1689466106,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1157108,
+        "num": 1157108,
+        "word": "店员误将19件黄金耳饰当废品赠送",
+        "onboard_time": 1689471271,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32187,
+        "num": 1012798,
+        "word": "回顾2023那些振奋人心的科技新突破",
+        "onboard_time": 1689426875,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 980803,
+        "num": 980803,
+        "word": "何炅是预言家吧",
+        "onboard_time": 1689463281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 918478,
+        "num": 918478,
+        "word": "杨洋一口气发了八条动态",
+        "onboard_time": 1689463281,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873190,
+        "num": 873190,
+        "word": "曾举报拍黄瓜父子买人民币花束后投诉",
+        "onboard_time": 1689470190,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688121,
+        "num": 688121,
+        "word": "到底都是什么人在外面旅游啊",
+        "onboard_time": 1689471152,
+        "rank": 6,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 680570,
+        "num": 680570,
+        "word": "许沁地震中为去世孕妇接生",
+        "onboard_time": 1689471389,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585697,
+        "num": 585697,
+        "word": "禁毒烈士妹妹追着毒贩跃入深沟",
+        "onboard_time": 1689467490,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552501,
+        "num": 552501,
+        "word": "周杰伦日",
+        "onboard_time": 1689469952,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1372736,
+        "num": 551817,
+        "word": "马伯骞弟弟结婚了",
+        "onboard_time": 1689466829,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 788440,
+        "num": 549775,
+        "word": "Amber划水",
+        "onboard_time": 1689466407,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547633,
+        "num": 547633,
+        "word": "女生的这种小包包能装什么",
+        "onboard_time": 1689471093,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473945,
+        "num": 473945,
+        "word": "致死率90%的猫冠状病毒或已扩散",
+        "onboard_time": 1689423871,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470017,
+        "num": 470017,
+        "word": "张杰回复杨超越",
+        "onboard_time": 1689466167,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 451401,
+        "num": 451401,
+        "word": "好莱坞大罢工抵制AI入侵",
+        "onboard_time": 1689467068,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 439218,
+        "num": 439218,
+        "word": "花花身高揭秘",
+        "onboard_time": 1689466407,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397612,
+        "num": 397612,
+        "word": "straykids青岛",
+        "onboard_time": 1689472111,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390977,
+        "num": 390977,
+        "word": "肖战片场背着任敏做深蹲",
+        "onboard_time": 1689466287,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383956,
+        "num": 383956,
+        "word": "梅西正式加盟迈阿密国际",
+        "onboard_time": 1689470370,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530467,
+        "num": 383355,
+        "word": "杨澄出轨",
+        "onboard_time": 1689431199,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368046,
+        "num": 368046,
+        "word": "她会成为健身房草莓粉红洞洞鞋传说",
+        "onboard_time": 1689468212,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356965,
+        "num": 356965,
+        "word": "詹姆斯将穿回23号",
+        "onboard_time": 1689471872,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340085,
+        "num": 340085,
+        "word": "贾静雯忘了倚天屠龙记角色名",
+        "onboard_time": 1689462798,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331925,
+        "num": 331925,
+        "word": "买一盘鸡蛋送一只小鸡",
+        "onboard_time": 1689471872,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327637,
+        "num": 327637,
+        "word": "我发现我是没有闺蜜的女生",
+        "onboard_time": 1689472772,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319176,
+        "num": 319176,
+        "word": "厌童症厌的到底是什么",
+        "onboard_time": 1689471872,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311219,
+        "num": 311219,
+        "word": "减脂餐就是鸡和鸡饲料一起吃",
+        "onboard_time": 1689466046,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308345,
+        "num": 308345,
+        "word": "被男孩母亲用水壶拍打女生已报警",
+        "onboard_time": 1689472589,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270964,
+        "num": 270964,
+        "word": "张颜齐打游戏偶遇王一博",
+        "onboard_time": 1689468990,
+        "rank": 29,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 267258,
+        "num": 267258,
+        "word": "台风泰利",
+        "onboard_time": 1689466167,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245090,
+        "num": 245090,
+        "word": "突然共情了高适李白的人生",
+        "onboard_time": 1689470370,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264355,
+        "num": 243468,
+        "word": "重庆地铁",
+        "onboard_time": 1689463642,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236850,
+        "num": 236850,
+        "word": "封神里竟然有冯绍峰",
+        "onboard_time": 1689467611,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236530,
+        "num": 236530,
+        "word": "3人造谣女大学生游西藏被割舌性侵",
+        "onboard_time": 1689432040,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226794,
+        "num": 226794,
+        "word": "吉克隽逸贴头皮刘海",
+        "onboard_time": 1689470432,
+        "rank": 35,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 212255,
+        "num": 212255,
+        "word": "为什么我天天防晒还是黑了",
+        "onboard_time": 1689472830,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210553,
+        "num": 210553,
+        "word": "中国女排3比0波兰女排",
+        "onboard_time": 1689462379,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208647,
+        "num": 208647,
+        "word": "鹿晗晒照告别重庆演唱会",
+        "onboard_time": 1689467789,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208296,
+        "num": 208296,
+        "word": "Minnie说范丞丞王鹤棣好帅",
+        "onboard_time": 1689463461,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199806,
+        "num": 199806,
+        "word": "当中国人的反断舍离血脉觉醒",
+        "onboard_time": 1689472712,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197888,
+        "num": 197888,
+        "word": "范丞丞路人盘",
+        "onboard_time": 1689469470,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193869,
+        "num": 193869,
+        "word": "谢霆锋带大儿子澳洲度假",
+        "onboard_time": 1689429874,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184201,
+        "num": 184201,
+        "word": "官方通报两女子吃凉皮1人死亡",
+        "onboard_time": 1689465566,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182852,
+        "num": 182852,
+        "word": "孟宴臣录完开场舞就走了",
+        "onboard_time": 1689433477,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182005,
+        "num": 182005,
+        "word": "要在东北冻发烧了",
+        "onboard_time": 1689465144,
+        "rank": 45,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 180392,
+        "num": 180392,
+        "word": "女子演17年诸葛亮一开口震全场",
+        "onboard_time": 1689468811,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171450,
+        "num": 171450,
+        "word": "你遇到过薪酬延期发放吗",
+        "onboard_time": 1689467068,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164361,
+        "num": 164361,
+        "word": "杨澄你要感谢范丞丞",
+        "onboard_time": 1689468271,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160415,
+        "num": 160415,
+        "word": "Jennie采访",
+        "onboard_time": 1689464903,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络强国建设迈出新步伐#"
+    }
+  }
+}
