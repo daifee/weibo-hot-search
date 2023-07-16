@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/16 10:27:09
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/16 11:20:12
 </p>
 </blockquote>
 <p>
@@ -1431,6 +1431,12 @@ JackeyLove退出亚运会名单（热度：2146090）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E8%AF%AF%E5%B0%8619%E4%BB%B6%E9%BB%84%E9%87%91%E8%80%B3%E9%A5%B0%E5%BD%93%E5%BA%9F%E5%93%81%E8%B5%A0%E9%80%81%23" target="weibo">
+店员误将19件黄金耳饰当废品赠送（热度：1959307）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E9%A9%BB%E4%B9%8C%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%88%87%E5%8B%BF%E6%9D%A5%E4%B9%8C%23" target="weibo">
 我驻乌使馆提醒中国公民切勿来乌（热度：1958465）
 </a>
@@ -2223,6 +2229,12 @@ TFBOYS演唱会的票价（热度：1711127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E7%A7%B0%E4%BD%9C%E4%B8%BAKpop%E8%89%BA%E4%BA%BA%E5%87%BA%E9%81%93%E8%A2%AB%E9%99%90%E5%88%B6%E5%8F%91%E5%B1%95%23" target="weibo">
+Jennie称作为Kpop艺人出道被限制发展（热度：1560594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%83%AD%E4%BE%9D%E6%89%8E%E8%B0%88%E6%8A%91%E9%83%81%E7%97%87%23" target="weibo">
 演员热依扎谈抑郁症（热度：1559386）
 </a>
@@ -2423,12 +2435,6 @@ jiejie（热度：1558005）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E6%88%91%E8%A2%AB%E5%8E%A6%E9%97%A8%E5%85%AC%E5%AE%89%E5%B8%A6%E8%B5%B0%E8%BF%99%E4%BB%B6%E4%BA%8B%23" target="weibo">
 关于我被厦门公安带走这件事（热度：1467484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E8%AF%AF%E5%B0%8619%E4%BB%B6%E9%BB%84%E9%87%91%E8%80%B3%E9%A5%B0%E5%BD%93%E5%BA%9F%E5%93%81%E8%B5%A0%E9%80%81%23" target="weibo">
-店员误将19件黄金耳饰当废品赠送（热度：1466105）
 </a>
 </li>
 
@@ -2855,6 +2861,12 @@ xxs（热度：1347939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TT%E6%88%98%E8%83%9CEDG%23" target="weibo">
 TT战胜EDG（热度：1323237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%80%80%E7%96%91%E5%A5%B3%E5%AD%A9%E5%81%B7%E6%8B%8D%E5%84%BF%E5%AD%90%E5%B0%86%E5%85%B6%E5%A4%B4%E7%A0%B8%E6%B5%81%E8%A1%80%23" target="weibo">
+母亲怀疑女孩偷拍儿子将其头砸流血（热度：1314411）
 </a>
 </li>
 
@@ -4145,6 +4157,12 @@ LPL比赛延期（热度：1022920）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E7%94%9F%E6%B4%BB%E8%A1%A5%E5%8A%A9%E6%AF%8F%E6%9C%883%E4%B8%87%23" target="weibo">
 济南大学回应留学生生活补助每月3万（热度：1017038）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E5%B0%9D%E8%AF%95%E5%B9%95%E5%90%8E%E5%B7%A5%E4%BD%9C%23" target="weibo">
+肖战未来可能尝试幕后工作（热度：1016651）
 </a>
 </li>
 
@@ -5937,6 +5955,12 @@ Minnie只说了三个字（热度：809422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E7%9A%84%E5%8E%BB%E7%9C%8B%E7%8C%B4%E4%BA%86%23" target="weibo">
+迪丽热巴真的去看猴了（热度：807142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E4%BA%86%E4%B8%80%E5%A4%A9%E5%8D%9A%E4%BA%86%23" target="weibo">
 读了一天博了（热度：806660）
 </a>
@@ -5987,30 +6011,6 @@ TFBOYS十周年演唱会还不官宣吗（热度：805840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A0Angelababy%E7%9A%84%E8%84%B8%E5%9C%A8%E6%92%91%23" target="weibo">
 全靠Angelababy的脸在撑（热度：803908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%23" target="weibo">
-马龙（热度：802037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone%E9%AB%98%E6%B8%A9%E5%AD%A3%E5%8F%91%E7%83%AB%23" target="weibo">
-苹果回应iPhone高温季发烫（热度：801777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E5%AE%81%E9%9D%99%E9%82%A3%E8%8B%B1%E6%B2%A1%E4%B8%80%E4%B8%AA%E8%83%BD%E5%8E%8B%E5%BE%97%E4%BD%8F%E8%87%AA%E5%B7%B1%23" target="weibo">
-黄子韬说宁静那英没一个能压得住自己（热度：801430）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%BB%84%E8%93%9D%E6%97%A9%E6%95%99%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E8%99%90%E7%AB%A5%23" target="weibo">
-红黄蓝早教中心回应被指虐童（热度：801318）
 </a>
 </li>
 
