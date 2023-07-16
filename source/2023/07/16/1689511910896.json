@@ -1,0 +1,410 @@
+{
+  "runTime": 1689511910896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1811006,
+        "num": 1811006,
+        "word": "敷衍爸妈报的学校结果录取了",
+        "onboard_time": 1689505472,
+        "rank": 0,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 1293897,
+        "num": 1293897,
+        "word": "龚俊叫迪丽热巴小丫头",
+        "onboard_time": 1689508711,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10205,
+        "num": 1050129,
+        "word": "没有信息化就没有现代化",
+        "onboard_time": 1689480572,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1537186,
+        "num": 1043760,
+        "word": "宋轶手机壳是鸡哔你表情包",
+        "onboard_time": 1689504152,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953763,
+        "num": 953763,
+        "word": "时代少年团内部爆料",
+        "onboard_time": 1689509070,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893136,
+        "num": 893136,
+        "word": "张艺兴 我有一个特大的爆炸消息马上发布",
+        "onboard_time": 1689486630,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 849822,
+        "num": 849822,
+        "word": "英专毕业生的就业现状belike",
+        "onboard_time": 1689509192,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 627623,
+        "num": 627623,
+        "word": "水库免费开放给市民做天然泳池",
+        "onboard_time": 1689507690,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598019,
+        "num": 598019,
+        "word": "八角笼中开拍前投资全撤了",
+        "onboard_time": 1689496831,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354787,
+        "num": 537482,
+        "word": "日本唯一的破产城市",
+        "onboard_time": 1689498991,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1129570,
+        "num": 527758,
+        "word": "穿衣自由和擦边的标准",
+        "onboard_time": 1689504630,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 507389,
+        "num": 507389,
+        "word": "不设限毕业礼",
+        "onboard_time": 1689506910,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481609,
+        "num": 481609,
+        "word": "关晓彤的狗不让张一山摸",
+        "onboard_time": 1689490411,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474470,
+        "num": 474470,
+        "word": "魏大勋户外综艺被要求黑西装戴眼镜",
+        "onboard_time": 1689500253,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82033,
+        "num": 472165,
+        "word": "盘点毕业超燃名场面",
+        "onboard_time": 1689508829,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 471963,
+        "num": 471963,
+        "word": "易烊千玺帮我扛下了所有压力",
+        "onboard_time": 1689503611,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 463156,
+        "num": 463156,
+        "word": "八三夭想见你",
+        "onboard_time": 1689510871,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 450970,
+        "num": 450970,
+        "word": "任安乐竟是帝梓元",
+        "onboard_time": 1689508412,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377947,
+        "num": 377947,
+        "word": "我在惊悚游戏里封神漫画化",
+        "onboard_time": 1689510453,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 310082,
+        "num": 367405,
+        "word": "周恺3比2王楚钦",
+        "onboard_time": 1689509553,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433348,
+        "num": 365835,
+        "word": "北方女孩在广州被蟑螂折磨崩溃辞职",
+        "onboard_time": 1689505891,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362398,
+        "num": 362398,
+        "word": "小落回城",
+        "onboard_time": 1689510212,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 361932,
+        "num": 361932,
+        "word": "韩庚当年到底有多火",
+        "onboard_time": 1689510991,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296503,
+        "num": 296503,
+        "word": "Bin 告诉我谁是一阵上单",
+        "onboard_time": 1689503551,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291404,
+        "num": 291404,
+        "word": "刘诗雯",
+        "onboard_time": 1689511472,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278264,
+        "num": 278264,
+        "word": "魏大勋耳钉配寸头",
+        "onboard_time": 1689501872,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271300,
+        "num": 271300,
+        "word": "为什么猫喜欢睡在人的头顶上",
+        "onboard_time": 1689508231,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250667,
+        "num": 250667,
+        "word": "最不想解散的内娱组合",
+        "onboard_time": 1689494913,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249889,
+        "num": 249889,
+        "word": "谁给迪丽热巴做的妆发",
+        "onboard_time": 1689485972,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219775,
+        "num": 247382,
+        "word": "一颗水蜜桃就能挤出一杯桃汁",
+        "onboard_time": 1689495934,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306691,
+        "num": 247022,
+        "word": "这就是已婚男人的三字真经吧",
+        "onboard_time": 1689506069,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 474322,
+        "num": 246934,
+        "word": "大学生约嫖后拒绝发生关系仍被拘",
+        "onboard_time": 1689486873,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246579,
+        "num": 246579,
+        "word": "EXO和ZB1梦幻联动",
+        "onboard_time": 1689507752,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240061,
+        "num": 240061,
+        "word": "时尚芭莎回应迪丽热巴内页偷跑",
+        "onboard_time": 1689504031,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225662,
+        "num": 225662,
+        "word": "湖南通报微信群不雅信息事件",
+        "onboard_time": 1689511772,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221798,
+        "num": 221798,
+        "word": "海员真的赚这么多吗",
+        "onboard_time": 1689509612,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212451,
+        "num": 212451,
+        "word": "七岁就找到了适合自己的发型",
+        "onboard_time": 1689508471,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211199,
+        "num": 211199,
+        "word": "陈牧驰胸肌好大",
+        "onboard_time": 1689507331,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207296,
+        "num": 207296,
+        "word": "不是衣服不好看是你不会搭",
+        "onboard_time": 1689498153,
+        "rank": 38,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 206814,
+        "num": 206814,
+        "word": "孟子义边哭边道歉",
+        "onboard_time": 1689485972,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206449,
+        "num": 206449,
+        "word": "你好生活",
+        "onboard_time": 1689508652,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202398,
+        "num": 202398,
+        "word": "王鹤棣说江疏影衣服像抹布",
+        "onboard_time": 1689494312,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201789,
+        "num": 201789,
+        "word": "陈都灵坐着跳舞",
+        "onboard_time": 1689511830,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195781,
+        "num": 195781,
+        "word": "戴萌回应与丝芭传媒诉讼问题",
+        "onboard_time": 1689506731,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186902,
+        "num": 186902,
+        "word": "eStar对战TTG",
+        "onboard_time": 1689511651,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193686,
+        "num": 182925,
+        "word": "曾少年",
+        "onboard_time": 1689509012,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178459,
+        "num": 178459,
+        "word": "王宝强说肖战是个好弟弟",
+        "onboard_time": 1689488973,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178053,
+        "num": 178053,
+        "word": "单位里过得最舒服的一种人",
+        "onboard_time": 1689497195,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172245,
+        "num": 172245,
+        "word": "TFBOYS我们的时光MV开头",
+        "onboard_time": 1689501573,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163460,
+        "num": 163460,
+        "word": "周恺支棱",
+        "onboard_time": 1689509731,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动网信事业高质量发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689510876695,
+  "endTime": 1689511910896,
   "band_list": [
     {
       "raw_hot": 3758613,
@@ -49,6 +49,14 @@
       "onboard_time": 1689471271,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1811006,
+      "num": 1811006,
+      "word": "敷衍爸妈报的学校结果录取了",
+      "onboard_time": 1689505472,
+      "rank": 30,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 1796631,
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1462828,
-      "num": 1462828,
-      "word": "敷衍爸妈报的学校结果录取了",
-      "onboard_time": 1689505472,
-      "rank": 30,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 1458105,
       "num": 1458105,
       "word": "魏大勋户外综艺被要求黑西装戴眼镜",
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1293897,
+      "num": 1293897,
+      "word": "龚俊叫迪丽热巴小丫头",
+      "onboard_time": 1689508711,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1293150,
       "num": 1293150,
       "word": "宋茜想说对不起的人已经不在了",
@@ -192,14 +200,6 @@
       "word": "骄阳似我",
       "onboard_time": 1689479253,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1206193,
-      "num": 1206193,
-      "word": "龚俊叫迪丽热巴小丫头",
-      "onboard_time": 1689508711,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -275,19 +275,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 953763,
+      "num": 953763,
+      "word": "时代少年团内部爆料",
+      "onboard_time": 1689509070,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936719,
       "num": 936719,
       "word": "宋轶为什么这么有底气",
       "onboard_time": 1689431917,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 922095,
-      "num": 922095,
-      "word": "时代少年团内部爆料",
-      "onboard_time": 1689509070,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -345,6 +345,14 @@
       "onboard_time": 1689487953,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849822,
+      "num": 849822,
+      "word": "英专毕业生的就业现状belike",
+      "onboard_time": 1689509192,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 819380,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627623,
+      "num": 627623,
+      "word": "水库免费开放给市民做天然泳池",
+      "onboard_time": 1689507690,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626321,
       "num": 626321,
       "word": "骄阳似我和似锦都找了赵露思",
@@ -633,14 +649,6 @@
       "onboard_time": 1689482252,
       "rank": 15,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 560225,
-      "num": 560225,
-      "word": "英专毕业生的就业现状belike",
-      "onboard_time": 1689509192,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 557521,
@@ -771,14 +779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 499478,
-      "num": 561277,
-      "word": "水库免费开放给市民做天然泳池",
-      "onboard_time": 1689507690,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496783,
       "num": 486283,
       "word": "迪丽热巴在大唐芙蓉园热舞",
@@ -859,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463156,
+      "num": 463156,
+      "word": "八三夭想见你",
+      "onboard_time": 1689510871,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 454802,
       "num": 364085,
       "word": "蟑螂滑梯",
@@ -883,8 +891,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 449850,
-      "num": 449850,
+      "raw_hot": 450970,
+      "num": 450970,
       "word": "任安乐竟是帝梓元",
       "onboard_time": 1689508412,
       "rank": 17,
@@ -1035,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 377947,
+      "num": 377947,
+      "word": "我在惊悚游戏里封神漫画化",
+      "onboard_time": 1689510453,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 373939,
       "num": 300291,
       "word": "李嘉琦就卖专辑事件跟尹浩宇道歉",
@@ -1091,6 +1107,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 362398,
+      "num": 362398,
+      "word": "小落回城",
+      "onboard_time": 1689510212,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 361932,
+      "num": 361932,
+      "word": "韩庚当年到底有多火",
+      "onboard_time": 1689510991,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360453,
       "num": 360453,
       "word": "詹姆斯将穿回23号",
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 354525,
-      "num": 354525,
+      "num": 367405,
       "word": "周恺3比2王楚钦",
       "onboard_time": 1689509553,
       "rank": 19,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1689476614,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 313949,
-      "num": 313949,
-      "word": "我在惊悚游戏里封神漫画化",
-      "onboard_time": 1689510453,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 313059,
@@ -1395,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291404,
+      "num": 291404,
+      "word": "刘诗雯",
+      "onboard_time": 1689511472,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291222,
       "num": 291222,
       "word": "中国男篮6后卫18中1",
@@ -1499,6 +1531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 271300,
+      "num": 271300,
+      "word": "为什么猫喜欢睡在人的头顶上",
+      "onboard_time": 1689508231,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270964,
       "num": 270964,
       "word": "张颜齐打游戏偶遇王一博",
@@ -1577,14 +1617,6 @@
       "onboard_time": 1689485014,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258895,
-      "num": 258895,
-      "word": "为什么猫喜欢睡在人的头顶上",
-      "onboard_time": 1689508231,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 258608,
@@ -1761,6 +1793,14 @@
       "onboard_time": 1689470432,
       "rank": 35,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 225662,
+      "num": 225662,
+      "word": "湖南通报微信群不雅信息事件",
+      "onboard_time": 1689511772,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225339,
@@ -1971,6 +2011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201789,
+      "num": 201789,
+      "word": "陈都灵坐着跳舞",
+      "onboard_time": 1689511830,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201427,
       "num": 201427,
       "word": "玉骨遥",
@@ -2001,14 +2049,6 @@
       "onboard_time": 1689422193,
       "rank": 38,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 196968,
-      "num": 196968,
-      "word": "小落回城",
-      "onboard_time": 1689510212,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 196822,
@@ -2073,6 +2113,14 @@
       "onboard_time": 1689495330,
       "rank": 45,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 186902,
+      "num": 186902,
+      "word": "eStar对战TTG",
+      "onboard_time": 1689511651,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 186080,
