@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/17 00:39:28
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/17 01:16:05
 </p>
 </blockquote>
 <p>
@@ -3825,6 +3825,12 @@ Angelababy穿泳装（热度：1127237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88390%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AD%A6%E7%94%9F%E8%B4%B7%E6%AC%BE%E5%80%BA%E5%8A%A1%23" target="weibo">
+拜登政府宣布取消390亿美元学生贷款债务（热度：1111458）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%98%E8%93%9D%E4%BA%86%23" target="weibo">
 淘宝变蓝了（热度：1110502）
 </a>
@@ -6005,12 +6011,6 @@ EDG战胜LGD（热度：831162）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%87%B4%E6%AD%89%E5%B7%B2%E6%98%AF%E6%AD%A3%E4%B9%89%E7%9A%84%E8%83%9C%E5%88%A9%23" target="weibo">
 胡锡进 宝格丽致歉已是正义的胜利（热度：827644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E7%94%B5%E6%A2%AF%E6%98%BE%E7%A4%BA18%E6%A5%BC%23" target="weibo">
-马嘉祺电梯显示18楼（热度：827133）
 </a>
 </li>
 

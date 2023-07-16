@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689525568754,
+  "endTime": 1689527765747,
   "band_list": [
     {
       "raw_hot": 1689781,
@@ -19,6 +19,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1111458,
+      "num": 238002,
+      "word": "拜登政府宣布取消390亿美元学生贷款债务",
+      "onboard_time": 1689523711,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1097042,
       "num": 425791,
       "word": "赵今麦的妆是谁画的",
@@ -33,14 +41,6 @@
       "onboard_time": 1689519578,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 710353,
-      "num": 238002,
-      "word": "拜登政府宣布取消390亿美元学生贷款债务",
-      "onboard_time": 1689523711,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 666594,
@@ -347,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167337,
+      "num": 167337,
+      "word": "不齐男团终于齐了",
+      "onboard_time": 1689516276,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160811,
       "num": 160811,
       "word": "这画得比我还像个人",
@@ -387,6 +395,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 118956,
+      "num": 138750,
+      "word": "以为永远不会分开的朋友不再交谈了",
+      "onboard_time": 1689521974,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118390,
       "num": 139284,
       "word": "自习室有偷知识的贼",
@@ -403,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107299,
-      "num": 138750,
-      "word": "以为永远不会分开的朋友不再交谈了",
-      "onboard_time": 1689521974,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 79600,
+      "num": 96632,
+      "word": "导演周国栋因病去世",
+      "onboard_time": 1689513516,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 54764,
@@ -417,6 +433,14 @@
       "onboard_time": 1689513213,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13575,
+      "num": 423937,
+      "word": "第2架国产C919入列",
+      "onboard_time": 1689512914,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1689527765747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 885259,
+        "num": 885259,
+        "word": "原来魏大勋说的都是真的",
+        "onboard_time": 1689518203,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 559835,
+        "num": 559835,
+        "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
+        "onboard_time": 1689519578,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13575,
+        "num": 423937,
+        "word": "第2架国产C919入列",
+        "onboard_time": 1689512914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830247,
+        "num": 407740,
+        "word": "假唱",
+        "onboard_time": 1689517778,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322189,
+        "num": 322189,
+        "word": "印度网红AK哥被深圳震撼的语无伦次",
+        "onboard_time": 1689518203,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294629,
+        "num": 294629,
+        "word": "范丞丞替杨澄向谢乔道歉",
+        "onboard_time": 1689522390,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261808,
+        "num": 261808,
+        "word": "赵丽颖魏大勋一起拍过MV",
+        "onboard_time": 1689519996,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241752,
+        "num": 241752,
+        "word": "男子吃见手青中毒以为自己是奥特曼",
+        "onboard_time": 1689520779,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228387,
+        "num": 228387,
+        "word": "薛之谦新歌念",
+        "onboard_time": 1689503253,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221005,
+        "num": 221005,
+        "word": "敷衍爸妈报的学校结果录取了",
+        "onboard_time": 1689505472,
+        "rank": 9,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 1111458,
+        "num": 221003,
+        "word": "拜登政府宣布取消390亿美元学生贷款债务",
+        "onboard_time": 1689523711,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 543700,
+        "num": 219977,
+        "word": "赵今麦的妆是谁画的",
+        "onboard_time": 1689513632,
+        "rank": 11,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 373707,
+        "num": 219682,
+        "word": "穿衣自由和擦边的标准",
+        "onboard_time": 1689504630,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275007,
+        "num": 219105,
+        "word": "央视镜头下的王楚然",
+        "onboard_time": 1689512733,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218720,
+        "num": 218720,
+        "word": "G社拍的宋轶",
+        "onboard_time": 1689519158,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213723,
+        "num": 213723,
+        "word": "湖南通报微信群不雅信息事件",
+        "onboard_time": 1689511772,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208388,
+        "num": 208388,
+        "word": "胖人和瘦人吃东西的区别",
+        "onboard_time": 1689517957,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192944,
+        "num": 192944,
+        "word": "肖战一滴泪镜头",
+        "onboard_time": 1689523889,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180479,
+        "num": 180479,
+        "word": "小S二女儿跳舞健身视频",
+        "onboard_time": 1689520658,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179481,
+        "num": 179481,
+        "word": "EDG击败BLG夺冠",
+        "onboard_time": 1689513213,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 445047,
+        "num": 179345,
+        "word": "秒睡技巧",
+        "onboard_time": 1689522155,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329433,
+        "num": 177459,
+        "word": "在飞机上看下雨",
+        "onboard_time": 1689522214,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239554,
+        "num": 176903,
+        "word": "吃芒果真的很需要一个私人空间",
+        "onboard_time": 1689512914,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175205,
+        "num": 175205,
+        "word": "韩庚当年到底有多火",
+        "onboard_time": 1689510991,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171691,
+        "num": 171691,
+        "word": "德约",
+        "onboard_time": 1689520956,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167337,
+        "num": 167337,
+        "word": "不齐男团终于齐了",
+        "onboard_time": 1689516276,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158211,
+        "num": 158211,
+        "word": "北方女孩在广州被蟑螂折磨崩溃辞职",
+        "onboard_time": 1689505891,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155616,
+        "num": 155616,
+        "word": "五月天录播",
+        "onboard_time": 1689518203,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147046,
+        "num": 147046,
+        "word": "八角笼中票房",
+        "onboard_time": 1689518502,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138831,
+        "num": 138831,
+        "word": "王传君抱了好大一个棉花娃娃",
+        "onboard_time": 1689512733,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27137,
+        "num": 133260,
+        "word": "成都大运会开幕式有哪些亮点",
+        "onboard_time": 1689513213,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133150,
+        "num": 133150,
+        "word": "阿尔卡拉斯vs德约科维奇",
+        "onboard_time": 1689515856,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122037,
+        "num": 122037,
+        "word": "王心凌千万别看黄渤版honey",
+        "onboard_time": 1689515978,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120877,
+        "num": 120877,
+        "word": "张艺兴 我有一个特大的爆炸消息马上发布",
+        "onboard_time": 1689486630,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 118956,
+        "word": "以为永远不会分开的朋友不再交谈了",
+        "onboard_time": 1689521974,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113208,
+        "num": 113208,
+        "word": "Angelababy英伦风裤装",
+        "onboard_time": 1689522931,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112880,
+        "num": 112880,
+        "word": "易烊千玺帮我扛下了所有压力",
+        "onboard_time": 1689503611,
+        "rank": 36,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 112615,
+        "num": 112615,
+        "word": "沈腾模仿孟宴臣名台词",
+        "onboard_time": 1689517477,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105756,
+        "num": 105756,
+        "word": "美依礼芽后来全场大合唱",
+        "onboard_time": 1689514235,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103504,
+        "num": 103504,
+        "word": "老人暑假回老家24名亲人打地铺相聚",
+        "onboard_time": 1689522334,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102866,
+        "num": 102866,
+        "word": "时代少年团舞台真的燃起来了",
+        "onboard_time": 1689517175,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97641,
+        "num": 97641,
+        "word": "英专毕业生的就业现状belike",
+        "onboard_time": 1689509192,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96660,
+        "num": 96660,
+        "word": "张杰南京唱又到梧桐吐绿时",
+        "onboard_time": 1689521618,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90117,
+        "num": 96659,
+        "word": "这就是已婚男人的三字真经吧",
+        "onboard_time": 1689506069,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 83037,
+        "num": 96648,
+        "word": "普京称乌军反攻没有成功",
+        "onboard_time": 1689520835,
+        "rank": 44,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 81933,
+        "num": 96643,
+        "word": "温网2023",
+        "onboard_time": 1689524368,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81619,
+        "num": 96640,
+        "word": "真心对时影好的人又少两个",
+        "onboard_time": 1689525207,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79600,
+        "num": 96632,
+        "word": "导演周国栋因病去世",
+        "onboard_time": 1689513516,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77687,
+        "num": 96625,
+        "word": "这画得比我还像个人",
+        "onboard_time": 1689522996,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74754,
+        "num": 96618,
+        "word": "谢娜搂着何炅转圈",
+        "onboard_time": 1689522871,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#阔步迈向网络强国#"
+    }
+  }
+}
