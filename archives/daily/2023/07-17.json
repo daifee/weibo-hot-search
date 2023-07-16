@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689536034015,
+  "endTime": 1689538734343,
   "band_list": [
     {
       "raw_hot": 1689781,
@@ -491,12 +491,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22381,
+      "raw_hot": 28853,
       "num": 30938,
       "word": "武大靖回应网友说他像高适",
       "onboard_time": 1689534672,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20995,
+      "num": 24943,
+      "word": "Amber芝芙风吹一夏好甜",
+      "onboard_time": 1689513819,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 20114,
