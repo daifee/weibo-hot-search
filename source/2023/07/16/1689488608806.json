@@ -1,0 +1,410 @@
+{
+  "runTime": 1689488608806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3758613,
+        "num": 3758613,
+        "word": "张艺兴 我有一个特大的爆炸消息马上发布",
+        "onboard_time": 1689486630,
+        "rank": 0,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1613873,
+        "num": 1613873,
+        "word": "魏大勋进入JYP的原因",
+        "onboard_time": 1689485672,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90287,
+        "num": 1602720,
+        "word": "藏在高校里的宝藏博物馆",
+        "onboard_time": 1689480693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2041332,
+        "num": 1600774,
+        "word": "大学生约嫖后拒绝发生关系仍被拘",
+        "onboard_time": 1689486873,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1595863,
+        "num": 1595863,
+        "word": "孟子义边哭边道歉",
+        "onboard_time": 1689485972,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1216857,
+        "num": 1216857,
+        "word": "宋茜想说对不起的人已经不在了",
+        "onboard_time": 1689486093,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 987858,
+        "num": 987858,
+        "word": "谁给迪丽热巴做的妆发",
+        "onboard_time": 1689485972,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 714518,
+        "num": 714518,
+        "word": "因为一个发夹被同事说不吉利",
+        "onboard_time": 1689476374,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 560290,
+        "num": 560290,
+        "word": "有一个不太健康的习惯叫穷思竭虑",
+        "onboard_time": 1689482252,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 492961,
+        "num": 492961,
+        "word": "重庆地铁被打女孩将走司法程序",
+        "onboard_time": 1689480933,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1803977,
+        "num": 478273,
+        "word": "为什么要在小便池里放冰块",
+        "onboard_time": 1689483272,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1134821,
+        "num": 470833,
+        "word": "张雨绮点赞任敏相关微博",
+        "onboard_time": 1689481112,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575415,
+        "num": 457410,
+        "word": "王鹤棣带宋伊人来桃花坞的原因",
+        "onboard_time": 1689484471,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542683,
+        "num": 426262,
+        "word": "任敏素颜状态",
+        "onboard_time": 1689483393,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 426259,
+        "num": 426259,
+        "word": "店员误将19件黄金耳饰当废品赠送",
+        "onboard_time": 1689471271,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481816,
+        "num": 424430,
+        "word": "骄阳似我",
+        "onboard_time": 1689479253,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465249,
+        "num": 423975,
+        "word": "Jennie称作为Kpop艺人出道被限制发展",
+        "onboard_time": 1689474570,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418564,
+        "num": 418564,
+        "word": "火车上大妈将脚放小伙口鼻处睡觉",
+        "onboard_time": 1689486873,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390089,
+        "num": 390089,
+        "word": "在理发店洗头时不玩手机的客人",
+        "onboard_time": 1689482193,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386986,
+        "num": 386986,
+        "word": "漫展浴缸人鱼",
+        "onboard_time": 1689482731,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 467148,
+        "num": 383042,
+        "word": "孙怡因叛逆错过爷爷66岁大寿",
+        "onboard_time": 1689484653,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449351,
+        "num": 382282,
+        "word": "张艺兴娜扎去了天马国际旅游节",
+        "onboard_time": 1689484712,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432859,
+        "num": 380563,
+        "word": "母亲怀疑女孩偷拍儿子将其头砸流血",
+        "onboard_time": 1689475115,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372433,
+        "num": 372433,
+        "word": "为什么人很瘦小腿却很胖",
+        "onboard_time": 1689484533,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348731,
+        "num": 348731,
+        "word": "广西女子在泰国用壮语买榴莲",
+        "onboard_time": 1689482372,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 399404,
+        "num": 344820,
+        "word": "肖战未来可能尝试幕后工作",
+        "onboard_time": 1689474812,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396815,
+        "num": 344752,
+        "word": "王鹤棣有歉当场就道了",
+        "onboard_time": 1689485492,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338481,
+        "num": 338481,
+        "word": "李木戈你到底埋了多少细节",
+        "onboard_time": 1689485852,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297388,
+        "num": 297388,
+        "word": "徐志胜抱着汪苏泷哭",
+        "onboard_time": 1689485613,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 218857,
+        "num": 292522,
+        "word": "离婚冷静期内找新欢算出轨吗",
+        "onboard_time": 1689477932,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506511,
+        "num": 292425,
+        "word": "36岁小伙花6万6订婚半月新娘变大妈",
+        "onboard_time": 1689487953,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291183,
+        "num": 291183,
+        "word": "孟宴臣和他的猫",
+        "onboard_time": 1689481292,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286992,
+        "num": 286992,
+        "word": "老板睡着3岁宝宝接单后续",
+        "onboard_time": 1689478472,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269866,
+        "num": 269866,
+        "word": "一张图诠释魏大勋现状",
+        "onboard_time": 1689476133,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243360,
+        "num": 264090,
+        "word": "杭州高架桥上长出了个西瓜",
+        "onboard_time": 1689486692,
+        "rank": 34,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 262544,
+        "num": 262544,
+        "word": "徐志胜不敢停下来系鞋带的青春",
+        "onboard_time": 1689486033,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249473,
+        "num": 249473,
+        "word": "谢乔和杨澄分手",
+        "onboard_time": 1689481772,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234603,
+        "num": 234603,
+        "word": "三年被蚊子咬到过嘴唇两次",
+        "onboard_time": 1689487172,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223407,
+        "num": 223407,
+        "word": "男子吐槽停车1小时收费1679元",
+        "onboard_time": 1689482554,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204258,
+        "num": 219938,
+        "word": "电瓶车侧翻母女俩无助站在大雨中",
+        "onboard_time": 1689485014,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219782,
+        "num": 219782,
+        "word": "张子豪龙韬娱乐",
+        "onboard_time": 1689480334,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213455,
+        "num": 213455,
+        "word": "马伯骞弟弟结婚了",
+        "onboard_time": 1689466829,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207941,
+        "num": 207941,
+        "word": "迪丽热巴真的去看猴了",
+        "onboard_time": 1689476672,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207172,
+        "num": 207172,
+        "word": "五月天沈阳演唱会说谢谢深圳",
+        "onboard_time": 1689483214,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180681,
+        "num": 180681,
+        "word": "北京的天气给我鞋底烫掉了",
+        "onboard_time": 1689481772,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179498,
+        "num": 179498,
+        "word": "宠物医生为生病宠物蛇做B超",
+        "onboard_time": 1689486153,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173639,
+        "num": 173639,
+        "word": "狐狸妈妈向人类寻求帮助",
+        "onboard_time": 1689487594,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173339,
+        "num": 173339,
+        "word": "现在医院的锦旗有多别致",
+        "onboard_time": 1689485852,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157573,
+        "num": 157573,
+        "word": "迪丽热巴在大唐芙蓉园热舞",
+        "onboard_time": 1689478412,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145646,
+        "num": 150392,
+        "word": "山东鲁能",
+        "onboard_time": 1689483214,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#阔步迈向网络强国#"
+    }
+  }
+}
