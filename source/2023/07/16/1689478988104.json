@@ -1,0 +1,410 @@
+{
+  "runTime": 1689478988104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1754201,
+        "num": 1754201,
+        "word": "店员误将19件黄金耳饰当废品赠送",
+        "onboard_time": 1689471271,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1582696,
+        "num": 1582696,
+        "word": "Jennie称作为Kpop艺人出道被限制发展",
+        "onboard_time": 1689474570,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10842,
+        "num": 1435181,
+        "word": "回顾2023那些振奋人心的科技新突破",
+        "onboard_time": 1689426875,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1307922,
+        "num": 1307922,
+        "word": "迪丽热巴真的去看猴了",
+        "onboard_time": 1689476672,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1134058,
+        "num": 1134058,
+        "word": "TFBOYS演唱会二三代可能都会去",
+        "onboard_time": 1689475712,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1086981,
+        "num": 1086981,
+        "word": "因为一个发夹被同事说不吉利",
+        "onboard_time": 1689476374,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 996491,
+        "num": 996491,
+        "word": "迪丽热巴一周涨粉14万",
+        "onboard_time": 1689476553,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 961096,
+        "num": 961096,
+        "word": "肖战未来可能尝试幕后工作",
+        "onboard_time": 1689474812,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672946,
+        "num": 672946,
+        "word": "家政阿姨带女儿来我家里住",
+        "onboard_time": 1689474451,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510006,
+        "num": 510006,
+        "word": "警方回应女子怀疑儿子被偷拍打伤女孩",
+        "onboard_time": 1689477454,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1149901,
+        "num": 508042,
+        "word": "千万别碰荔枝树上的臭虫",
+        "onboard_time": 1689477032,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782474,
+        "num": 506226,
+        "word": "马伯骞弟弟结婚了",
+        "onboard_time": 1689466829,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743165,
+        "num": 505245,
+        "word": "男子开小饭桌15元一顿4天赚44元",
+        "onboard_time": 1689476614,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 503639,
+        "num": 503639,
+        "word": "被男孩母亲用水壶拍打女生已报警",
+        "onboard_time": 1689472589,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592891,
+        "num": 492515,
+        "word": "杨洋一口气发了八条动态",
+        "onboard_time": 1689463281,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535100,
+        "num": 480551,
+        "word": "一张图诠释魏大勋现状",
+        "onboard_time": 1689476133,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528435,
+        "num": 479566,
+        "word": "骄阳似我和似锦都找了赵露思",
+        "onboard_time": 1689477513,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427998,
+        "num": 427998,
+        "word": "喜欢睡觉的时候把手举过头顶",
+        "onboard_time": 1689466106,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 393794,
+        "num": 393794,
+        "word": "Amber划水",
+        "onboard_time": 1689466407,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363971,
+        "num": 363971,
+        "word": "老板睡着3岁宝宝接单后续",
+        "onboard_time": 1689478472,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142304,
+        "num": 363720,
+        "word": "母亲怀疑女孩偷拍儿子将其头砸流血",
+        "onboard_time": 1689475115,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429963,
+        "num": 359949,
+        "word": "离婚冷静期内找新欢算出轨吗",
+        "onboard_time": 1689477932,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349139,
+        "num": 349139,
+        "word": "退休大妈偷车一辆只卖20元",
+        "onboard_time": 1689477215,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339530,
+        "num": 339530,
+        "word": "张杰回复杨超越",
+        "onboard_time": 1689466167,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 329395,
+        "num": 329395,
+        "word": "黄子韬说韩庚比自己早一个时代",
+        "onboard_time": 1689473252,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328742,
+        "num": 328742,
+        "word": "迪丽热巴在大唐芙蓉园热舞",
+        "onboard_time": 1689478412,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326833,
+        "num": 326833,
+        "word": "杨晓培回复赵露思粉丝",
+        "onboard_time": 1689476733,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315989,
+        "num": 315989,
+        "word": "许沁地震中为去世孕妇接生",
+        "onboard_time": 1689471389,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302853,
+        "num": 302853,
+        "word": "致死率90%的猫冠状病毒或已扩散",
+        "onboard_time": 1689423871,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297908,
+        "num": 297908,
+        "word": "男朋友在父母面前失去了本名",
+        "onboard_time": 1689475413,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306853,
+        "num": 294478,
+        "word": "何炅是预言家吧",
+        "onboard_time": 1689463281,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289091,
+        "num": 289091,
+        "word": "杨澄出轨",
+        "onboard_time": 1689431199,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285358,
+        "num": 285358,
+        "word": "女生的这种小包包能装什么",
+        "onboard_time": 1689471093,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274538,
+        "num": 274538,
+        "word": "毛不易演唱会抢票",
+        "onboard_time": 1689478232,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259123,
+        "num": 259123,
+        "word": "花花身高揭秘",
+        "onboard_time": 1689466407,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258071,
+        "num": 258071,
+        "word": "straykids青岛",
+        "onboard_time": 1689472111,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247588,
+        "num": 247588,
+        "word": "龚俊笑这么开心不像演的",
+        "onboard_time": 1689476614,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244769,
+        "num": 244769,
+        "word": "自行车中间这个洞是干嘛用的",
+        "onboard_time": 1689477695,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239196,
+        "num": 239196,
+        "word": "陈芋汐全红婵出战女双10米台",
+        "onboard_time": 1689473612,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238934,
+        "num": 238934,
+        "word": "到底都是什么人在外面旅游啊",
+        "onboard_time": 1689471152,
+        "rank": 39,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 225332,
+        "num": 225332,
+        "word": "中国男篮6后卫18中1",
+        "onboard_time": 1689478714,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223223,
+        "num": 223223,
+        "word": "第二架国产C919正式入列",
+        "onboard_time": 1689477932,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 209217,
+        "num": 209217,
+        "word": "我发现我是没有闺蜜的女生",
+        "onboard_time": 1689472772,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206297,
+        "num": 206297,
+        "word": "土耳其女排",
+        "onboard_time": 1689473848,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205092,
+        "num": 205092,
+        "word": "詹姆斯将穿回23号",
+        "onboard_time": 1689471872,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202768,
+        "num": 202768,
+        "word": "周杰伦日",
+        "onboard_time": 1689469952,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189439,
+        "num": 189439,
+        "word": "厌童症厌的到底是什么",
+        "onboard_time": 1689471872,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187010,
+        "num": 187010,
+        "word": "TTG首发",
+        "onboard_time": 1689474274,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177844,
+        "num": 177844,
+        "word": "斗破苍穹",
+        "onboard_time": 1689474570,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168015,
+        "num": 177056,
+        "word": "警方回应女子疑当街强抱小孩",
+        "onboard_time": 1689476311,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络强国建设迈出新步伐#"
+    }
+  }
+}
