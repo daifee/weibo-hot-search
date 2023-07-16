@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689538734343,
+  "endTime": 1689539639833,
   "band_list": [
     {
       "raw_hot": 1689781,
@@ -491,8 +491,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 28853,
-      "num": 30938,
+      "raw_hot": 34465,
+      "num": 34465,
       "word": "武大靖回应网友说他像高适",
       "onboard_time": 1689534672,
       "rank": 49,
@@ -513,6 +513,14 @@
       "onboard_time": 1689512914,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18413,
+      "num": 22399,
+      "word": "肖战片场逗兔子",
+      "onboard_time": 1689538511,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
