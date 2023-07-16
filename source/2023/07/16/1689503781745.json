@@ -1,0 +1,410 @@
+{
+  "runTime": 1689503781745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458105,
+        "num": 1458105,
+        "word": "魏大勋户外综艺被要求黑西装戴眼镜",
+        "onboard_time": 1689500253,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 650775,
+        "num": 1374052,
+        "word": "姐姐被困厨房弟弟拍下社死瞬间",
+        "onboard_time": 1689501573,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23477,
+        "num": 1300980,
+        "word": "没有信息化就没有现代化",
+        "onboard_time": 1689480572,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1988978,
+        "num": 1086892,
+        "word": "张艺兴 我有一个特大的爆炸消息马上发布",
+        "onboard_time": 1689486630,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632729,
+        "num": 924239,
+        "word": "一颗水蜜桃就能挤出一杯桃汁",
+        "onboard_time": 1689495934,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896490,
+        "num": 896490,
+        "word": "八角笼中开拍前投资全撤了",
+        "onboard_time": 1689496831,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308841,
+        "num": 892728,
+        "word": "弟弟背起失散18年哥哥飞奔回家",
+        "onboard_time": 1689494734,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 889865,
+        "num": 889865,
+        "word": "日本唯一的破产城市",
+        "onboard_time": 1689498991,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 705607,
+        "num": 705607,
+        "word": "最不想解散的内娱组合",
+        "onboard_time": 1689494913,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628463,
+        "num": 628463,
+        "word": "关晓彤的狗不让张一山摸",
+        "onboard_time": 1689490411,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1502155,
+        "num": 622248,
+        "word": "大学生约嫖后拒绝发生关系仍被拘",
+        "onboard_time": 1689486873,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609859,
+        "num": 609859,
+        "word": "谁给迪丽热巴做的妆发",
+        "onboard_time": 1689485972,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 602663,
+        "num": 602663,
+        "word": "不是衣服不好看是你不会搭",
+        "onboard_time": 1689498153,
+        "rank": 12,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 415765,
+        "num": 415765,
+        "word": "孟子义边哭边道歉",
+        "onboard_time": 1689485972,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412440,
+        "num": 412440,
+        "word": "魏大勋进入JYP的原因",
+        "onboard_time": 1689485672,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407709,
+        "num": 407709,
+        "word": "全红婵陈芋汐水花消失术又来了",
+        "onboard_time": 1689501933,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393519,
+        "num": 393519,
+        "word": "四川一面包车从山崖坠江致5死",
+        "onboard_time": 1689502232,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369990,
+        "num": 369990,
+        "word": "TFBOYS我们的时光MV开头",
+        "onboard_time": 1689501573,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353666,
+        "num": 353666,
+        "word": "网友偶遇易烊千玺看展",
+        "onboard_time": 1689497313,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286713,
+        "num": 286713,
+        "word": "BLG锁定常规赛第一",
+        "onboard_time": 1689499952,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 471428,
+        "num": 284188,
+        "word": "易烊千玺帮我扛下了所有压力",
+        "onboard_time": 1689503611,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 436569,
+        "num": 282442,
+        "word": "魏大勋耳钉配寸头",
+        "onboard_time": 1689501872,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 413338,
+        "num": 280647,
+        "word": "蟑螂滑梯",
+        "onboard_time": 1689500853,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317574,
+        "num": 277385,
+        "word": "女网红拳击比赛获胜撩衣露胸庆祝",
+        "onboard_time": 1689500192,
+        "rank": 23,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 305807,
+        "num": 273495,
+        "word": "宋茜想说对不起的人已经不在了",
+        "onboard_time": 1689486093,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292897,
+        "num": 271324,
+        "word": "长安三万里",
+        "onboard_time": 1689497313,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269077,
+        "num": 269077,
+        "word": "薛之谦新歌念",
+        "onboard_time": 1689503253,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264825,
+        "num": 264825,
+        "word": "单位里过得最舒服的一种人",
+        "onboard_time": 1689497195,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261907,
+        "num": 261907,
+        "word": "恋爱真的会让人暂时忘掉年龄",
+        "onboard_time": 1689499470,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258092,
+        "num": 258092,
+        "word": "撒贝宁果然是央视显眼包",
+        "onboard_time": 1689491432,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297524,
+        "num": 256342,
+        "word": "Bin 告诉我谁是一阵上单",
+        "onboard_time": 1689503551,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248817,
+        "num": 248817,
+        "word": "王宝强说肖战是个好弟弟",
+        "onboard_time": 1689488973,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238264,
+        "num": 238264,
+        "word": "水豚 不吃别乱夹",
+        "onboard_time": 1689498273,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230371,
+        "num": 230371,
+        "word": "为什么要在小便池里放冰块",
+        "onboard_time": 1689483272,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211881,
+        "num": 211881,
+        "word": "古相思曲",
+        "onboard_time": 1689496473,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199177,
+        "num": 199177,
+        "word": "考完驾照后就爱看这个",
+        "onboard_time": 1689501331,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192361,
+        "num": 192361,
+        "word": "宋丹丹向汪苏泷李雪琴道歉",
+        "onboard_time": 1689497252,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191923,
+        "num": 191923,
+        "word": "重庆地铁被打女孩将走司法程序",
+        "onboard_time": 1689480933,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192344,
+        "num": 190901,
+        "word": "王鹤棣说江疏影衣服像抹布",
+        "onboard_time": 1689494312,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189187,
+        "num": 189187,
+        "word": "张淼怡回应互联网女儿",
+        "onboard_time": 1689503431,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182465,
+        "num": 182465,
+        "word": "炸鸡两吃配可乐堪称一绝",
+        "onboard_time": 1689502652,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174998,
+        "num": 174998,
+        "word": "当猫猫被蜜蜂蛰了一下后",
+        "onboard_time": 1689500731,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171224,
+        "num": 171224,
+        "word": "王宝强说我和陈思诚都非常爱对方",
+        "onboard_time": 1689489272,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164709,
+        "num": 164709,
+        "word": "鹿晗一场演唱会一个发色",
+        "onboard_time": 1689491192,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164057,
+        "num": 164057,
+        "word": "因为一个发夹被同事说不吉利",
+        "onboard_time": 1689476374,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 163597,
+        "num": 163597,
+        "word": "任敏素颜状态",
+        "onboard_time": 1689483393,
+        "rank": 45,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 155456,
+        "num": 155456,
+        "word": "徐志胜不敢停下来系鞋带的青春",
+        "onboard_time": 1689486033,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148401,
+        "num": 151967,
+        "word": "台风",
+        "onboard_time": 1689489216,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150631,
+        "num": 150631,
+        "word": "宋茜晒与李雪琴合影",
+        "onboard_time": 1689499593,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135406,
+        "num": 150254,
+        "word": "狗狗脚底烫伤在姐弟面前情绪截然不同",
+        "onboard_time": 1689495812,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动网信事业高质量发展#"
+    }
+  }
+}
