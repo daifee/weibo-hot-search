@@ -1,0 +1,410 @@
+{
+  "runTime": 1689518033096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1338517,
+        "num": 1338517,
+        "word": "王传君抱了好大一个棉花娃娃",
+        "onboard_time": 1689512733,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1041951,
+        "num": 1041951,
+        "word": "敷衍爸妈报的学校结果录取了",
+        "onboard_time": 1689505472,
+        "rank": 1,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 103335,
+        "num": 1023569,
+        "word": "成都大运会开幕式有哪些亮点",
+        "onboard_time": 1689513213,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2757554,
+        "num": 995949,
+        "word": "赵今麦的妆是谁画的",
+        "onboard_time": 1689513632,
+        "rank": 3,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 1977702,
+        "num": 986835,
+        "word": "央视镜头下的王楚然",
+        "onboard_time": 1689512733,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1108191,
+        "num": 953395,
+        "word": "湖南通报微信群不雅信息事件",
+        "onboard_time": 1689511772,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934490,
+        "num": 934490,
+        "word": "王心凌千万别看黄渤版honey",
+        "onboard_time": 1689515978,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 764296,
+        "num": 764296,
+        "word": "汪苏泷唱错词",
+        "onboard_time": 1689512491,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565144,
+        "num": 565144,
+        "word": "EDG击败BLG夺冠",
+        "onboard_time": 1689513213,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 390808,
+        "num": 446778,
+        "word": "水库免费开放给市民做天然泳池",
+        "onboard_time": 1689507690,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201552,
+        "num": 441537,
+        "word": "穿衣自由和擦边的标准",
+        "onboard_time": 1689504630,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 678843,
+        "num": 441400,
+        "word": "南波万男团",
+        "onboard_time": 1689512132,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430118,
+        "num": 430118,
+        "word": "英专毕业生的就业现状belike",
+        "onboard_time": 1689509192,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 595783,
+        "num": 429426,
+        "word": "林俊杰大合唱",
+        "onboard_time": 1689515856,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411582,
+        "num": 411582,
+        "word": "易烊千玺帮我扛下了所有压力",
+        "onboard_time": 1689503611,
+        "rank": 14,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 579451,
+        "num": 408877,
+        "word": "时代少年团舞台真的燃起来了",
+        "onboard_time": 1689517175,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500165,
+        "num": 405323,
+        "word": "导演周国栋因病去世",
+        "onboard_time": 1689513516,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352019,
+        "num": 404900,
+        "word": "刘诗雯",
+        "onboard_time": 1689511472,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 579287,
+        "num": 399744,
+        "word": "美依礼芽后来全场大合唱",
+        "onboard_time": 1689514235,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266542,
+        "num": 396096,
+        "word": "温网决赛",
+        "onboard_time": 1689516455,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748804,
+        "num": 394345,
+        "word": "吃芒果真的很需要一个私人空间",
+        "onboard_time": 1689512914,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 526584,
+        "num": 390518,
+        "word": "韩庚当年到底有多火",
+        "onboard_time": 1689510991,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465018,
+        "num": 387381,
+        "word": "肖战方逸伦联盟一天就破裂",
+        "onboard_time": 1689513096,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521324,
+        "num": 384825,
+        "word": "杭州上空疑似出现马斯克的星链卫星",
+        "onboard_time": 1689515018,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468137,
+        "num": 380085,
+        "word": "假唱",
+        "onboard_time": 1689517778,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418313,
+        "num": 378172,
+        "word": "八角笼中开拍前投资全撤了",
+        "onboard_time": 1689496831,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375198,
+        "num": 375198,
+        "word": "沈腾模仿孟宴臣名台词",
+        "onboard_time": 1689517477,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357974,
+        "num": 357974,
+        "word": "北方女孩在广州被蟑螂折磨崩溃辞职",
+        "onboard_time": 1689505891,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263320,
+        "num": 348072,
+        "word": "爬完泰山真的能瘦几斤吗",
+        "onboard_time": 1689515916,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108312,
+        "num": 343838,
+        "word": "一颗水蜜桃就能挤出一杯桃汁",
+        "onboard_time": 1689495934,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342886,
+        "num": 342886,
+        "word": "张艺兴 我有一个特大的爆炸消息马上发布",
+        "onboard_time": 1689486630,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341010,
+        "num": 341010,
+        "word": "00后警校生照片被人拿去相亲",
+        "onboard_time": 1689516757,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333091,
+        "num": 333091,
+        "word": "魏大勋耳钉配寸头",
+        "onboard_time": 1689501872,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 307207,
+        "num": 307207,
+        "word": "胖人和瘦人吃东西的区别",
+        "onboard_time": 1689517957,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293887,
+        "num": 293887,
+        "word": "龚俊叫迪丽热巴小丫头",
+        "onboard_time": 1689508711,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335279,
+        "num": 287940,
+        "word": "刘宇宁现场稳",
+        "onboard_time": 1689517356,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272736,
+        "num": 272736,
+        "word": "时代少年团内部爆料",
+        "onboard_time": 1689509070,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252388,
+        "num": 252388,
+        "word": "这就是已婚男人的三字真经吧",
+        "onboard_time": 1689506069,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 244830,
+        "num": 244830,
+        "word": "我这个蚊子包是变异了吧",
+        "onboard_time": 1689515916,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239325,
+        "num": 239325,
+        "word": "自习室有偷知识的贼",
+        "onboard_time": 1689517115,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243746,
+        "num": 238498,
+        "word": "魏大勋户外综艺被要求黑西装戴眼镜",
+        "onboard_time": 1689500253,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234969,
+        "num": 234969,
+        "word": "陈都灵坐着跳舞",
+        "onboard_time": 1689511830,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234776,
+        "num": 234776,
+        "word": "曾少年",
+        "onboard_time": 1689509012,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225117,
+        "num": 234693,
+        "word": "时代少年团三专试听",
+        "onboard_time": 1689514179,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213705,
+        "num": 234530,
+        "word": "乒超",
+        "onboard_time": 1689516701,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197202,
+        "num": 234474,
+        "word": "周日晚上是最难过的时间段",
+        "onboard_time": 1689514116,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192999,
+        "num": 234267,
+        "word": "vivant",
+        "onboard_time": 1689517477,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183140,
+        "num": 234053,
+        "word": "阿尔卡拉斯vs德约科维奇",
+        "onboard_time": 1689515856,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141685,
+        "num": 233922,
+        "word": "魏桥团魂炸裂",
+        "onboard_time": 1689515137,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138508,
+        "num": 233848,
+        "word": "周启豪3比2樊振东",
+        "onboard_time": 1689512371,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记为网络强国建设提出新的使命任务#"
+    }
+  }
+}
