@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689545819588,
+  "endTime": 1689546898591,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5084,7 +5084,7 @@
     },
     {
       "raw_hot": 1111458,
-      "num": 645692,
+      "num": 954184,
       "word": "拜登政府宣布取消390亿美元学生贷款债务",
       "onboard_time": 1689523711,
       "rank": 30,
@@ -34347,6 +34347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187338,
+      "num": 187338,
+      "word": "消防员就应该拍成这样",
+      "onboard_time": 1689541873,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187154,
       "num": 187154,
       "word": "披荆斩棘的哥哥",
@@ -37379,14 +37387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139484,
-      "num": 139484,
-      "word": "消防员就应该拍成这样",
-      "onboard_time": 1689541873,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 139268,
       "num": 189898,
       "word": "LGD对战TES",
@@ -39323,20 +39323,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51661,
+      "num": 51661,
+      "word": "肖战片场逗兔子",
+      "onboard_time": 1689538511,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 51538,
       "num": 51538,
       "word": "陈妍希柳岩走在吃瓜第一线",
       "onboard_time": 1688671874,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49992,
-      "num": 49992,
-      "word": "肖战片场逗兔子",
-      "onboard_time": 1689538511,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 49891,
@@ -39419,6 +39419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46444,
+      "num": 46444,
+      "word": "武大靖回应网友说他像高适",
+      "onboard_time": 1689534672,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45928,
       "num": 51938,
       "word": "UP对战TES",
@@ -39457,6 +39465,14 @@
       "onboard_time": 1688143647,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 42119,
+      "num": 45571,
+      "word": "新版妲己封神首映弹古琴",
+      "onboard_time": 1689533594,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 41977,
@@ -39555,14 +39571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38272,
-      "num": 45571,
-      "word": "新版妲己封神首映弹古琴",
-      "onboard_time": 1689533594,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 38073,
       "num": 60784,
       "word": "新时代赶考路",
@@ -39643,12 +39651,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 34529,
-      "num": 45577,
-      "word": "武大靖回应网友说他像高适",
-      "onboard_time": 1689534672,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 34667,
+      "num": 42033,
+      "word": "爸爸捐献儿子器官救8人一句话让人破防",
+      "onboard_time": 1689541752,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33266,
