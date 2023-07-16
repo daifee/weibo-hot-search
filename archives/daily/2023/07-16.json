@@ -1,6 +1,6 @@
 {
   "startTime": 1689438184744,
-  "endTime": 1689488608806,
+  "endTime": 1689489430119,
   "band_list": [
     {
       "raw_hot": 3758613,
@@ -9,6 +9,14 @@
       "onboard_time": 1689486630,
       "rank": 0,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2452353,
+      "num": 1600774,
+      "word": "大学生约嫖后拒绝发生关系仍被拘",
+      "onboard_time": 1689486873,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2171318,
@@ -35,14 +43,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2041332,
-      "num": 1600774,
-      "word": "大学生约嫖后拒绝发生关系仍被拘",
-      "onboard_time": 1689486873,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1959307,
       "num": 1959307,
       "word": "店员误将19件黄金耳饰当废品赠送",
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1726961,
+      "num": 1726961,
+      "word": "孟子义边哭边道歉",
+      "onboard_time": 1689485972,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1613873,
       "num": 1613873,
       "word": "魏大勋进入JYP的原因",
       "onboard_time": 1689485672,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1595863,
-      "num": 1595863,
-      "word": "孟子义边哭边道歉",
-      "onboard_time": 1689485972,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1582696,
@@ -139,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1235014,
+      "num": 1235014,
+      "word": "宋茜想说对不起的人已经不在了",
+      "onboard_time": 1689486093,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1228849,
       "num": 1228849,
       "word": "骄阳似我",
       "onboard_time": 1689479253,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1216857,
-      "num": 1216857,
-      "word": "宋茜想说对不起的人已经不在了",
-      "onboard_time": 1689486093,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1134058,
@@ -171,20 +171,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1048605,
+      "num": 1048605,
+      "word": "谁给迪丽热巴做的妆发",
+      "onboard_time": 1689485972,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 996491,
       "num": 996491,
       "word": "迪丽热巴一周涨粉14万",
       "onboard_time": 1689476553,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 987858,
-      "num": 987858,
-      "word": "谁给迪丽热巴做的妆发",
-      "onboard_time": 1689485972,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 980803,
@@ -240,6 +240,14 @@
       "word": "曾举报拍黄瓜父子买人民币花束后投诉",
       "onboard_time": 1689470190,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 856847,
+      "num": 292425,
+      "word": "36岁小伙花6万6订婚半月新娘变大妈",
+      "onboard_time": 1689487953,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -467,20 +475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551925,
+      "num": 442730,
+      "word": "任敏素颜状态",
+      "onboard_time": 1689483393,
+      "rank": 23,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 550849,
       "num": 550849,
       "word": "学生被罚站中暑去世实为吃早餐晕倒",
       "onboard_time": 1689423331,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542683,
-      "num": 442730,
-      "word": "任敏素颜状态",
-      "onboard_time": 1689483393,
-      "rank": 23,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 526054,
@@ -529,14 +537,6 @@
       "onboard_time": 1689436294,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 506511,
-      "num": 292425,
-      "word": "36岁小伙花6万6订婚半月新娘变大妈",
-      "onboard_time": 1689487953,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503383,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 418564,
-      "num": 418564,
+      "num": 426372,
       "word": "火车上大妈将脚放小伙口鼻处睡觉",
       "onboard_time": 1689486873,
       "rank": 17,
@@ -729,6 +729,14 @@
       "onboard_time": 1689471872,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360033,
+      "num": 257380,
+      "word": "王宝强说肖战是个好弟弟",
+      "onboard_time": 1689488973,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 358189,
@@ -1203,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220482,
+      "num": 220482,
+      "word": "台风",
+      "onboard_time": 1689489216,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218101,
       "num": 272872,
       "word": "茉酸奶",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1689463461,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216502,
+      "num": 216502,
+      "word": "王宝强说我和陈思诚都非常爱对方",
+      "onboard_time": 1689489272,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 208770,
@@ -1427,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175607,
+      "num": 175607,
+      "word": "女排",
+      "onboard_time": 1689488856,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175561,
       "num": 175561,
       "word": "你遇到过薪酬延期发放吗",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1689432458,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173654,
+      "num": 173654,
+      "word": "李嘉琦就卖专辑事件跟尹浩宇道歉",
+      "onboard_time": 1689489394,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 173639,
