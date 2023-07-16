@@ -1,6 +1,6 @@
 {
   "startTime": 1688919790541,
-  "endTime": 1689489430119,
+  "endTime": 1689491800322,
   "band_list": [
     {
       "raw_hot": 13895730,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2766407,
+      "num": 1600774,
+      "word": "大学生约嫖后拒绝发生关系仍被拘",
+      "onboard_time": 1689486873,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2748726,
       "num": 793893,
       "word": "腐烂在床上正在流行",
@@ -409,14 +417,6 @@
       "onboard_time": 1689147454,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2452353,
-      "num": 1600774,
-      "word": "大学生约嫖后拒绝发生关系仍被拘",
-      "onboard_time": 1689486873,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2395356,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1796631,
+      "num": 1726961,
+      "word": "孟子义边哭边道歉",
+      "onboard_time": 1689485972,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1796376,
       "num": 1796376,
       "word": "茉酸奶",
@@ -913,14 +921,6 @@
       "onboard_time": 1689158374,
       "rank": 11,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1726961,
-      "num": 1726961,
-      "word": "孟子义边哭边道歉",
-      "onboard_time": 1689485972,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1711007,
@@ -1499,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1293150,
+      "num": 1293150,
+      "word": "宋茜想说对不起的人已经不在了",
+      "onboard_time": 1689486093,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1292644,
       "num": 1292644,
       "word": "魏大勋只是特别出演",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1689431075,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1235014,
-      "num": 1235014,
-      "word": "宋茜想说对不起的人已经不在了",
-      "onboard_time": 1689486093,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1228849,
@@ -2499,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950894,
+      "num": 342145,
+      "word": "关晓彤的狗不让张一山摸",
+      "onboard_time": 1689490411,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 949608,
       "num": 534457,
       "word": "体重很轻但是肚子很大",
@@ -3044,7 +3052,7 @@
     },
     {
       "raw_hot": 856847,
-      "num": 292425,
+      "num": 301940,
       "word": "36岁小伙花6万6订婚半月新娘变大妈",
       "onboard_time": 1689487953,
       "rank": 30,
@@ -3224,6 +3232,14 @@
       "word": "关晓彤这真的是你吗",
       "onboard_time": 1689061833,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 819380,
+      "num": 819380,
+      "word": "王宝强说肖战是个好弟弟",
+      "onboard_time": 1689488973,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -4755,6 +4771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 606608,
+      "num": 606608,
+      "word": "台风",
+      "onboard_time": 1689326919,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606113,
       "num": 606113,
       "word": "山西殴打队长致死环卫工已被捕",
@@ -4769,6 +4793,14 @@
       "onboard_time": 1689149374,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 605111,
+      "num": 322517,
+      "word": "王宝强说我和陈思诚都非常爱对方",
+      "onboard_time": 1689489272,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 601269,
@@ -5089,6 +5121,14 @@
       "onboard_time": 1688966794,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 567729,
+      "num": 255436,
+      "word": "宋伊人说对不起王鹤棣",
+      "onboard_time": 1689490533,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 566723,
@@ -6329,6 +6369,14 @@
       "onboard_time": 1689223773,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478522,
+      "num": 312800,
+      "word": "中国移动时代少年团直播",
+      "onboard_time": 1689491073,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 478270,
@@ -8331,6 +8379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 373939,
+      "num": 300291,
+      "word": "李嘉琦就卖专辑事件跟尹浩宇道歉",
+      "onboard_time": 1689489394,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373863,
       "num": 296227,
       "word": "我现在只在乎三件事",
@@ -8441,14 +8497,6 @@
       "onboard_time": 1689468212,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 367882,
-      "num": 345922,
-      "word": "台风",
-      "onboard_time": 1689326919,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366035,
@@ -8600,14 +8648,6 @@
       "word": "关晓彤范丞丞吻戏评论区",
       "onboard_time": 1689046775,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 360033,
-      "num": 257380,
-      "word": "王宝强说肖战是个好弟弟",
-      "onboard_time": 1689488973,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -9809,6 +9849,14 @@
       "onboard_time": 1689005073,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304726,
+      "num": 304726,
+      "word": "三年被蚊子咬到过嘴唇两次",
+      "onboard_time": 1689487172,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 304352,
@@ -11619,6 +11667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250776,
+      "num": 250776,
+      "word": "鹿晗一场演唱会一个发色",
+      "onboard_time": 1689491192,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 250774,
       "num": 250774,
       "word": "周翊然炸毛小狗",
@@ -11747,6 +11803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246210,
+      "num": 246210,
+      "word": "原来中医还可以治疗近视",
+      "onboard_time": 1689491013,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245993,
       "num": 224005,
       "word": "全圆佑顺毛黑框",
@@ -11785,6 +11849,14 @@
       "onboard_time": 1689214892,
       "rank": 32,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 245096,
+      "num": 266246,
+      "word": "新疆的店名都是机翻的吗",
+      "onboard_time": 1689490594,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 245090,
@@ -12123,14 +12195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234603,
-      "num": 234603,
-      "word": "三年被蚊子咬到过嘴唇两次",
-      "onboard_time": 1689487172,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 234154,
       "num": 234154,
       "word": "三伏贴",
@@ -12417,6 +12481,14 @@
       "onboard_time": 1688950593,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225624,
+      "num": 217890,
+      "word": "撒贝宁果然是央视显眼包",
+      "onboard_time": 1689491432,
+      "rank": 38,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 225219,
@@ -12819,14 +12891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216502,
-      "num": 216502,
-      "word": "王宝强说我和陈思诚都非常爱对方",
-      "onboard_time": 1689489272,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216431,
       "num": 216431,
       "word": "生命不能承受之轻",
@@ -12977,6 +13041,14 @@
       "onboard_time": 1689296010,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213142,
+      "num": 213142,
+      "word": "吴京巨齿鲨2人设",
+      "onboard_time": 1689489694,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 212786,
@@ -13416,6 +13488,14 @@
       "word": "现在的儿童科普书有多直观",
       "onboard_time": 1689477153,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201843,
+      "num": 201843,
+      "word": "我在公司健身的一天",
+      "onboard_time": 1689490115,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -13955,6 +14035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189890,
+      "num": 189890,
+      "word": "郑州曾是全球最大城市",
+      "onboard_time": 1689491192,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189773,
       "num": 189773,
       "word": "妥妥的暴力美学",
@@ -14137,6 +14225,14 @@
       "onboard_time": 1689262413,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185144,
+      "num": 185144,
+      "word": "孟子义说我很爱你龙羽翎",
+      "onboard_time": 1689491554,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 184799,
@@ -14529,14 +14625,6 @@
       "onboard_time": 1689294269,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173654,
-      "num": 173654,
-      "word": "李嘉琦就卖专辑事件跟尹浩宇道歉",
-      "onboard_time": 1689489394,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 173639,
