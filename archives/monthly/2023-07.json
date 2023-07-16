@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689527765747,
+  "endTime": 1689528820292,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -38593,6 +38593,14 @@
       "onboard_time": 1688356400,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88058,
+      "num": 95535,
+      "word": "爱是无法降级处理的",
+      "onboard_time": 1689528440,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 86967,

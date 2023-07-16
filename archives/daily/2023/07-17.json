@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689527765747,
+  "endTime": 1689528820292,
   "band_list": [
     {
       "raw_hot": 1689781,
@@ -347,8 +347,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167337,
-      "num": 167337,
+      "raw_hot": 168210,
+      "num": 168210,
       "word": "不齐男团终于齐了",
       "onboard_time": 1689516276,
       "rank": 25,
@@ -419,6 +419,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88058,
+      "num": 95535,
+      "word": "爱是无法降级处理的",
+      "onboard_time": 1689528440,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 80471,
+      "num": 95504,
+      "word": "芒果是懂我们想看什么的",
+      "onboard_time": 1689516820,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79600,
       "num": 96632,
       "word": "导演周国栋因病去世",
@@ -435,7 +451,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13575,
+      "raw_hot": 20114,
       "num": 423937,
       "word": "第2架国产C919入列",
       "onboard_time": 1689512914,
