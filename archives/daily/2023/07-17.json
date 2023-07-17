@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689575163695,
+  "endTime": 1689575996054,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -11,16 +11,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3037184,
-      "num": 2167291,
+      "raw_hot": 3060228,
+      "num": 2693110,
       "word": "韩国幽灵儿童事件",
       "onboard_time": 1689570396,
       "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2837478,
-      "num": 2837478,
+      "raw_hot": 2867505,
+      "num": 2867505,
       "word": "深圳已做好停工停课准备",
       "onboard_time": 1689573089,
       "rank": 0,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 798763,
+      "num": 798763,
+      "word": "清北学霸怒斥研学内幕",
+      "onboard_time": 1689569735,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 791288,
       "num": 791288,
       "word": "邓超Angelababy同框合影",
@@ -275,20 +283,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 696726,
+      "num": 696726,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1689572671,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 666594,
       "num": 666594,
       "word": "赵丽颖魏大勋一起拍过MV",
       "onboard_time": 1689519996,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 664017,
-      "num": 664017,
-      "word": "清北学霸怒斥研学内幕",
-      "onboard_time": 1689569735,
-      "rank": 15,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 645556,
@@ -395,12 +403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 551106,
-      "num": 551106,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1689572671,
-      "rank": 11,
-      "category": "情感"
+      "raw_hot": 551319,
+      "num": 551319,
+      "word": "腾讯客服回应微信号回收",
+      "onboard_time": 1689573209,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 546974,
@@ -499,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 473217,
-      "num": 473217,
-      "word": "腾讯客服回应微信号回收",
-      "onboard_time": 1689573209,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 473122,
       "num": 394557,
       "word": "G社拍的宋轶",
@@ -528,6 +528,14 @@
       "word": "女子海滩游玩捡到带针头针管",
       "onboard_time": 1689555571,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468421,
+      "num": 468421,
+      "word": "韩网热帖 福宝熊设",
+      "onboard_time": 1689574290,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -635,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428362,
+      "num": 428362,
+      "word": "马立奥可爱",
+      "onboard_time": 1689572011,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421933,
       "num": 421933,
       "word": "上半年我国GDP593034亿元",
@@ -649,14 +665,6 @@
       "onboard_time": 1689561268,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 418135,
-      "num": 418135,
-      "word": "马立奥可爱",
-      "onboard_time": 1689572011,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 412187,
@@ -707,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 397701,
+      "num": 397701,
+      "word": "男子家暴成瘾反问民警打老婆犯法吗",
+      "onboard_time": 1689570692,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
@@ -737,14 +753,6 @@
       "onboard_time": 1689570100,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 368080,
-      "num": 368080,
-      "word": "男子家暴成瘾反问民警打老婆犯法吗",
-      "onboard_time": 1689570692,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364022,
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350732,
+      "num": 350732,
+      "word": "张杰说长沙要玩个大的",
+      "onboard_time": 1689575976,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350092,
       "num": 350092,
       "word": "迪丽热巴怼脸视频",
@@ -843,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324534,
+      "num": 324534,
+      "word": "杨澄清醒了",
+      "onboard_time": 1689574231,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320107,
       "num": 320107,
       "word": "古天乐张智霖吴镇宇追捕疯批反派",
@@ -873,14 +897,6 @@
       "onboard_time": 1689550283,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 316131,
-      "num": 266550,
-      "word": "韩网热帖 福宝熊设",
-      "onboard_time": 1689574290,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313363,
@@ -923,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289107,
+      "num": 266746,
+      "word": "鹿晗欧阳娜娜早期同框",
+      "onboard_time": 1689575673,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289095,
       "num": 289095,
       "word": "现代社会最惨绝人寰的酷刑",
@@ -945,6 +969,14 @@
       "onboard_time": 1689557489,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288052,
+      "num": 288052,
+      "word": "田曦薇无袖连衣裙",
+      "onboard_time": 1689572431,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 286142,
@@ -1009,22 +1041,6 @@
       "onboard_time": 1689565650,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274946,
-      "num": 274946,
-      "word": "杨澄清醒了",
-      "onboard_time": 1689574231,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 267238,
-      "num": 267238,
-      "word": "田曦薇无袖连衣裙",
-      "onboard_time": 1689572431,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 267077,
@@ -1112,6 +1128,14 @@
       "word": "肖战一滴泪镜头",
       "onboard_time": 1689523889,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248214,
+      "num": 248214,
+      "word": "迪丽热巴龚俊今晚直播",
+      "onboard_time": 1689574470,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1219,6 +1243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 217328,
+      "num": 217328,
+      "word": "一旦大熊猫帅而自知",
+      "onboard_time": 1689575732,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216166,
       "num": 216166,
       "word": "张艺兴 我有一个特大的爆炸消息马上发布",
@@ -1307,20 +1339,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200421,
+      "num": 209607,
+      "word": "你们两支持的不是同一方啊",
+      "onboard_time": 1689575130,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198571,
       "num": 198571,
       "word": "阿尔卡拉斯夺温网男单冠军",
       "onboard_time": 1689549683,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197955,
-      "num": 209654,
-      "word": "迪丽热巴龚俊今晚直播",
-      "onboard_time": 1689574470,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 196654,
@@ -1499,14 +1531,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 134721,
-      "num": 209607,
-      "word": "你们两支持的不是同一方啊",
-      "onboard_time": 1689575130,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130387,
       "num": 130387,
       "word": "德约科维奇",
@@ -1635,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 37556,
+      "num": 243653,
+      "word": "新疆草原万马奔腾大片既视感",
+      "onboard_time": 1689575490,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36383,
       "num": 62699,
       "word": "张杰演唱会",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1689513819,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15790,
+      "num": 1522768,
+      "word": "2023中国网络文明大会",
+      "onboard_time": 1689575790,
+      "rank": 2,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
