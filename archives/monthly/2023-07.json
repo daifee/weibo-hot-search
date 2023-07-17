@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689625205692,
+  "endTime": 1689626041523,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -41843,6 +41843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41539,
+      "num": 41539,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41220,
       "num": 41220,
       "word": "刘宇宁原声台词",
@@ -41985,14 +41993,6 @@
       "onboard_time": 1688495835,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36056,
-      "num": 36056,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 35631,
