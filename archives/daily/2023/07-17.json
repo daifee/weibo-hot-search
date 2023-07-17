@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689579240091,
+  "endTime": 1689582310085,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -67,6 +67,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1815579,
+      "num": 559564,
+      "word": "公公杀害儿媳抛尸二审维持死刑",
+      "onboard_time": 1689577892,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1766067,
       "num": 1766067,
       "word": "杨澄让小三怀孕了",
@@ -123,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1175415,
+      "num": 1175415,
+      "word": "刘宇宁第一部现代男主剧",
+      "onboard_time": 1689579452,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1133832,
       "num": 1133832,
       "word": "共用一张脸的明星",
@@ -163,20 +179,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1005235,
-      "num": 559564,
-      "word": "公公杀害儿媳抛尸二审维持死刑",
-      "onboard_time": 1689577892,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 998198,
       "num": 998198,
       "word": "微信号长期没有使用",
       "onboard_time": 1689569433,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 989853,
+      "num": 989853,
+      "word": "睡觉姿势引起的耻骨肌发炎",
+      "onboard_time": 1689577230,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 980169,
@@ -233,6 +249,14 @@
       "onboard_time": 1689565590,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 832260,
+      "num": 832260,
+      "word": "回不去的奔跑吧兄弟",
+      "onboard_time": 1689580653,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 824243,
@@ -297,6 +321,22 @@
       "onboard_time": 1689575673,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 736885,
+      "num": 282050,
+      "word": "姚笛最新状态",
+      "onboard_time": 1689581371,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 733823,
+      "num": 370728,
+      "word": "伊能静回应媒体对儿子的报道",
+      "onboard_time": 1689579210,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 722977,
@@ -371,19 +411,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 608022,
+      "num": 369947,
+      "word": "这才是中国最没存在感的省",
+      "onboard_time": 1689581191,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 596378,
       "num": 596378,
       "word": "原来天生白更不容易晒黑",
       "onboard_time": 1689553653,
       "rank": 7,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 595049,
-      "num": 552471,
-      "word": "睡觉姿势引起的耻骨肌发炎",
-      "onboard_time": 1689577230,
-      "rank": 30,
       "category": "情感"
     },
     {
@@ -899,6 +939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 338687,
+      "num": 279822,
+      "word": "12岁男孩为捡鞋子不慎落水溺亡",
+      "onboard_time": 1689579930,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337623,
       "num": 337623,
       "word": "陈伟霆练的肌肉被急性肠胃炎搞没了",
@@ -929,6 +977,14 @@
       "onboard_time": 1689574231,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324086,
+      "num": 277763,
+      "word": "洗手台被我的护肤品砸破了",
+      "onboard_time": 1689581492,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 320107,
@@ -1115,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277271,
+      "num": 277271,
+      "word": "杨澄醋了他醋了",
+      "onboard_time": 1689579452,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276529,
       "num": 264874,
       "word": "沈月晒野猪一家长沙plog",
@@ -1267,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240139,
+      "num": 240139,
+      "word": "赵丽颖拍的风景",
+      "onboard_time": 1689581132,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239406,
       "num": 239406,
       "word": "普京称乌军反攻没有成功",
@@ -1387,10 +1459,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209952,
+      "num": 242508,
+      "word": "克里米亚大桥铁路交通已恢复",
+      "onboard_time": 1689581672,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209430,
       "num": 209430,
       "word": "时代少年团舞台真的燃起来了",
       "onboard_time": 1689517175,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209132,
+      "num": 209132,
+      "word": "EXO新团综要来了",
+      "onboard_time": 1689580293,
       "rank": 35,
       "category": "综艺"
     },
@@ -1467,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191642,
+      "num": 191642,
+      "word": "颖儿不完美受害人演技",
+      "onboard_time": 1689581252,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191077,
       "num": 191077,
       "word": "大学女生对高中女生的建议",
@@ -1481,6 +1577,14 @@
       "onboard_time": 1689522931,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187040,
+      "num": 187040,
+      "word": "泰国广告你别太离谱",
+      "onboard_time": 1689581793,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 185432,
@@ -1499,20 +1603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181839,
+      "num": 197871,
+      "word": "时影一命换一命",
+      "onboard_time": 1689576810,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178292,
       "num": 178292,
       "word": "男子走4公里帮走失男孩找妈妈",
       "onboard_time": 1689558927,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 176130,
-      "num": 197871,
-      "word": "时影一命换一命",
-      "onboard_time": 1689576810,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 174782,
@@ -1555,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165533,
+      "num": 165533,
+      "word": "关晓彤多拍现代剧",
+      "onboard_time": 1689579809,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160811,
       "num": 160811,
       "word": "这画得比我还像个人",
@@ -1593,14 +1705,6 @@
       "onboard_time": 1689509192,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151529,
-      "num": 151529,
-      "word": "伊能静回应媒体对儿子的报道",
-      "onboard_time": 1689579210,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 147461,
