@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/17 18:38:55
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/17 19:16:05
 </p>
 </blockquote>
 <p>
@@ -3201,6 +3201,12 @@ TT战胜EDG（热度：1323237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E7%8F%A0%E5%AE%9D%E5%95%86%E9%80%80%E8%B4%A7%E7%8E%8790%25%23" target="weibo">
+抖音珠宝商退货率90%（热度：1282181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E7%A0%8D%E4%B8%8B84%E5%B2%81%E6%AF%8D%E4%BA%B2%E5%A4%B4%E9%A2%85%23" target="weibo">
 台湾一男子持刀砍下84岁母亲头颅（热度：1280880）
 </a>
@@ -4379,6 +4385,12 @@ papi酱 如果看剧也是一门课（热度：1041376）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%98%AF%E7%94%A8%E9%92%A2%E5%81%9A%E7%9A%84%23" target="weibo">
 北科大录取通知书是用钢做的（热度：1040332）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B710%E5%8F%AA%E6%B4%BB%E4%BD%93%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3%23" target="weibo">
+海关查获10只活体巨人蜈蚣（热度：1038130）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ melon（热度：862902）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E6%98%AF%E5%AE%B6%E9%87%8C%E4%B8%80%E9%A1%BF%E9%A5%AD%E9%92%B1%23" target="weibo">
 才知道一杯奶茶是家里一顿饭钱（热度：849127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%AE%B9%E6%98%93%E8%BF%91%E8%A7%86%E7%9A%84%E4%BA%BA%20%E7%9D%AB%E7%8A%B6%E8%82%8C%23" target="weibo">
-不容易近视的人 睫状肌（热度：848763）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E4%BA%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%89%AB%E6%A5%BC%E7%9A%84%23" target="weibo">
-第一次见男二一个人扫楼的（热度：847858）
 </a>
 </li>
 
