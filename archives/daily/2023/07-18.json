@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689618257623,
+  "endTime": 1689619019238,
   "band_list": [
     {
       "raw_hot": 1681615,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88239,
+      "num": 53236,
+      "word": "李雪琴 她太懂内心敏感的人的痛",
+      "onboard_time": 1689618255,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64010,
       "num": 125893,
       "word": "姚笛最新状态",
@@ -443,16 +451,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42691,
-      "num": 42691,
+      "raw_hot": 43412,
+      "num": 43412,
       "word": "选高司令来演芭比的原因",
       "onboard_time": 1689616396,
       "rank": 39,
       "category": "影视"
     },
     {
-      "raw_hot": 33700,
-      "num": 36582,
+      "raw_hot": 35405,
+      "num": 42627,
       "word": "无聊时可以做的DIY玩具",
       "onboard_time": 1689617356,
       "rank": 48,
@@ -473,6 +481,14 @@
       "onboard_time": 1689600512,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23385,
+      "num": 42615,
+      "word": "责任感是和喜爱一起出现的",
+      "onboard_time": 1689618975,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689618257623,
+  "endTime": 1689619019238,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -40923,6 +40923,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 88239,
+      "num": 53236,
+      "word": "李雪琴 她太懂内心敏感的人的痛",
+      "onboard_time": 1689618255,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88198,
       "num": 251146,
       "word": "比亚迪6月销量破25万",
@@ -41787,6 +41795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43412,
+      "num": 43412,
+      "word": "选高司令来演芭比的原因",
+      "onboard_time": 1689616396,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43211,
       "num": 1095942,
       "word": "3个词总结2023中国外贸期中成绩单",
@@ -41801,14 +41817,6 @@
       "onboard_time": 1688143647,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 42691,
-      "num": 42691,
-      "word": "选高司令来演芭比的原因",
-      "onboard_time": 1689616396,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 42119,
@@ -41979,6 +41987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35405,
+      "num": 42627,
+      "word": "无聊时可以做的DIY玩具",
+      "onboard_time": 1689617356,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 34696,
       "num": 36590,
       "word": "方兰生是谁",
@@ -41993,14 +42009,6 @@
       "onboard_time": 1689426875,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 33700,
-      "num": 36582,
-      "word": "无聊时可以做的DIY玩具",
-      "onboard_time": 1689617356,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 33266,
@@ -42233,6 +42241,14 @@
       "onboard_time": 1689360616,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23385,
+      "num": 42615,
+      "word": "责任感是和喜爱一起出现的",
+      "onboard_time": 1689618975,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 23150,

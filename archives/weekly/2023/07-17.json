@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689618257623,
+  "endTime": 1689619019238,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -2891,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88239,
+      "num": 53236,
+      "word": "李雪琴 她太懂内心敏感的人的痛",
+      "onboard_time": 1689618255,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86738,
       "num": 96632,
       "word": "导演周国栋因病去世",
@@ -2979,8 +2987,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42691,
-      "num": 42691,
+      "raw_hot": 43412,
+      "num": 43412,
       "word": "选高司令来演芭比的原因",
       "onboard_time": 1689616396,
       "rank": 39,
@@ -3003,8 +3011,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 33700,
-      "num": 36582,
+      "raw_hot": 35405,
+      "num": 42627,
       "word": "无聊时可以做的DIY玩具",
       "onboard_time": 1689617356,
       "rank": 48,
@@ -3025,6 +3033,14 @@
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 23385,
+      "num": 42615,
+      "word": "责任感是和喜爱一起出现的",
+      "onboard_time": 1689618975,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 20995,
