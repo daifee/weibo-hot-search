@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689603488294,
+  "endTime": 1689604604011,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -17,6 +17,14 @@
       "onboard_time": 1689570396,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2946807,
+      "num": 498096,
+      "word": "迪丽热巴回应撞脸弼马温",
+      "onboard_time": 1689603338,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 2939850,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1801449,
+      "num": 682605,
+      "word": "微信群发不雅信息3个群内文字不同",
+      "onboard_time": 1689599252,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1766067,
       "num": 1766067,
       "word": "杨澄让小三怀孕了",
@@ -121,14 +137,6 @@
       "onboard_time": 1689517778,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1645451,
-      "num": 667144,
-      "word": "微信群发不雅信息3个群内文字不同",
-      "onboard_time": 1689599252,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1489873,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1195277,
+      "num": 492965,
+      "word": "魏大勋从真情侣的全世界路过",
+      "onboard_time": 1689602434,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1175415,
       "num": 1175415,
       "word": "刘宇宁第一部现代男主剧",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 1157789,
-      "num": 352741,
+      "num": 376729,
       "word": "文咏珊上身下身两种季节",
       "onboard_time": 1689598774,
       "rank": 20,
@@ -225,14 +241,6 @@
       "onboard_time": 1689564570,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1130820,
-      "num": 498096,
-      "word": "迪丽热巴回应撞脸弼马温",
-      "onboard_time": 1689603338,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1128627,
@@ -331,14 +339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 959022,
-      "num": 492965,
-      "word": "魏大勋从真情侣的全世界路过",
-      "onboard_time": 1689602434,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 958220,
       "num": 958220,
       "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
@@ -425,6 +425,14 @@
       "onboard_time": 1689595953,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 831292,
+      "num": 374955,
+      "word": "发朋友圈习惯私密几天再公开",
+      "onboard_time": 1689603275,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 824243,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 702964,
-      "num": 345615,
+      "num": 425843,
       "word": "刘诗诗蓝色长裙好优雅",
       "onboard_time": 1689599072,
       "rank": 21,
@@ -577,6 +585,14 @@
       "onboard_time": 1689572671,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 679493,
+      "num": 445097,
+      "word": "中国科学院简称中国科学院",
+      "onboard_time": 1689602195,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675908,
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 565974,
-      "num": 340480,
+      "num": 373140,
       "word": "冷冻西瓜",
       "onboard_time": 1689599374,
       "rank": 25,
@@ -745,14 +761,6 @@
       "onboard_time": 1689512733,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 559503,
-      "num": 335623,
-      "word": "发朋友圈习惯私密几天再公开",
-      "onboard_time": 1689603275,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 558478,
@@ -787,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 551371,
+      "num": 281775,
+      "word": "女子连续三年感染同一型HPV",
+      "onboard_time": 1689604235,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551319,
       "num": 551319,
       "word": "腾讯客服回应微信号回收",
@@ -811,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 543111,
+      "num": 421749,
+      "word": "迪丽热巴开工前先健身",
+      "onboard_time": 1689603632,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 537575,
       "num": 537575,
       "word": "WBG对战EDG",
@@ -833,6 +857,14 @@
       "onboard_time": 1689522214,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 528281,
+      "num": 528281,
+      "word": "湛江台风",
+      "onboard_time": 1689599494,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524523,
@@ -897,6 +929,14 @@
       "onboard_time": 1689559108,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 489163,
+      "num": 281506,
+      "word": "榴莲价格跌至全年最低",
+      "onboard_time": 1689604115,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 488182,
@@ -993,14 +1033,6 @@
       "onboard_time": 1689549803,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 446983,
-      "num": 446983,
-      "word": "湛江台风",
-      "onboard_time": 1689599494,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443859,
@@ -1187,20 +1219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396939,
+      "num": 396939,
+      "word": "运动员吐槽东京奥运会奖牌2年成废铁",
+      "onboard_time": 1689602555,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395843,
       "num": 535972,
       "word": "王宝强说我尊重观众尊重电影",
       "onboard_time": 1689592949,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 386188,
-      "num": 386188,
-      "word": "中国科学院简称中国科学院",
-      "onboard_time": 1689602195,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380966,
@@ -1233,14 +1265,6 @@
       "onboard_time": 1689570100,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 365498,
-      "num": 271170,
-      "word": "运动员吐槽东京奥运会奖牌2年成废铁",
-      "onboard_time": 1689602555,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 364022,
@@ -1635,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284469,
+      "num": 284469,
+      "word": "jiejie状态",
+      "onboard_time": 1689603453,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283404,
       "num": 283404,
       "word": "买甲片不小心买错型号了",
@@ -1827,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249958,
+      "num": 249958,
+      "word": "魏大勋的心态",
+      "onboard_time": 1689604357,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249711,
       "num": 249711,
       "word": "家暴题材电影我经过风暴定档",
@@ -1955,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228808,
+      "num": 228808,
+      "word": "肖战说到做到的自拍",
+      "onboard_time": 1689604235,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228801,
       "num": 329097,
       "word": "NCTDREAM新歌空降",
@@ -2012,7 +2060,7 @@
     },
     {
       "raw_hot": 221316,
-      "num": 221316,
+      "num": 228791,
       "word": "杭州馄饨汤如白开水被吐槽",
       "onboard_time": 1689602253,
       "rank": 39,
@@ -2164,7 +2212,7 @@
     },
     {
       "raw_hot": 205774,
-      "num": 221290,
+      "num": 228801,
       "word": "不能早睡的原因找到了",
       "onboard_time": 1689602134,
       "rank": 42,
@@ -2297,6 +2345,14 @@
       "onboard_time": 1689557848,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194610,
+      "num": 228793,
+      "word": "妈见打的叠被子方式",
+      "onboard_time": 1689604173,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 191077,
@@ -2505,14 +2561,6 @@
       "onboard_time": 1689559228,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145240,
-      "num": 221224,
-      "word": "jiejie状态",
-      "onboard_time": 1689603453,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 144185,
