@@ -1,0 +1,410 @@
+{
+  "runTime": 1689593651112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1223654,
+        "num": 1223654,
+        "word": "小红书崩了",
+        "onboard_time": 1689584492,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 568940,
+        "num": 1200697,
+        "word": "丫丫吃的笋笋套着竹篓",
+        "onboard_time": 1689587192,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61728,
+        "num": 1125077,
+        "word": "新疆草原万马奔腾大片既视感",
+        "onboard_time": 1689575490,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400433,
+        "num": 1064021,
+        "word": "海关查获10只活体巨人蜈蚣",
+        "onboard_time": 1689590429,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169201,
+        "num": 1020365,
+        "word": "2游客驾车掉进水库民警7分钟救出",
+        "onboard_time": 1689587431,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 996651,
+        "num": 996651,
+        "word": "玉骨遥大结局",
+        "onboard_time": 1689592292,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71448,
+        "num": 752379,
+        "word": "杭州城市新中心规划出新地标新高度",
+        "onboard_time": 1689587431,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741057,
+        "num": 741057,
+        "word": "这才是中国最没存在感的省",
+        "onboard_time": 1689581191,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467877,
+        "num": 467877,
+        "word": "王子奇看自己和王楚然镜头的反应",
+        "onboard_time": 1689592529,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415038,
+        "num": 415038,
+        "word": "回不去的奔跑吧兄弟",
+        "onboard_time": 1689580653,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1456587,
+        "num": 404894,
+        "word": "抖音珠宝商退货率90%",
+        "onboard_time": 1689590189,
+        "rank": 10,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1010523,
+        "num": 391673,
+        "word": "女子因家中陌生手环发现床下藏摄像头",
+        "onboard_time": 1689589830,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560655,
+        "num": 384814,
+        "word": "深圳已做好停工停课准备",
+        "onboard_time": 1689573089,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 545895,
+        "num": 376814,
+        "word": "宛瑜要的自由vs许沁要的自由",
+        "onboard_time": 1689587374,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493751,
+        "num": 356365,
+        "word": "姚笛最新状态",
+        "onboard_time": 1689581371,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354380,
+        "num": 354380,
+        "word": "小朋友在张杰演唱会上睡着了",
+        "onboard_time": 1689590674,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352845,
+        "num": 352845,
+        "word": "难听",
+        "onboard_time": 1689586951,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350013,
+        "num": 350013,
+        "word": "雪王又又又黑了",
+        "onboard_time": 1689584853,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336949,
+        "num": 336949,
+        "word": "狗头萝莉回应卖煎饼数次被举报",
+        "onboard_time": 1689582753,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 336388,
+        "num": 336388,
+        "word": "韩国幽灵儿童事件",
+        "onboard_time": 1689570396,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629589,
+        "num": 335621,
+        "word": "茉酸奶又一次劝退了我",
+        "onboard_time": 1689588151,
+        "rank": 20,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 590857,
+        "num": 334760,
+        "word": "优酷第六部热度全天破万剧集",
+        "onboard_time": 1689590850,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374747,
+        "num": 328401,
+        "word": "公公杀害儿媳抛尸二审维持死刑",
+        "onboard_time": 1689577892,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320539,
+        "num": 320539,
+        "word": "连霍高速发生车祸已致8死6重伤",
+        "onboard_time": 1689584673,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286630,
+        "num": 320538,
+        "word": "原来任思羽没怀孕",
+        "onboard_time": 1689589771,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254796,
+        "num": 320520,
+        "word": "他的健身卡应该明天到期吧",
+        "onboard_time": 1689583898,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254236,
+        "num": 320510,
+        "word": "女子看监控发现男友虐狗果断分手",
+        "onboard_time": 1689590253,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237338,
+        "num": 320495,
+        "word": "肖战出席玉骨遥大结局点映礼",
+        "onboard_time": 1689583593,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235727,
+        "num": 320484,
+        "word": "玖月晞 我没抄袭",
+        "onboard_time": 1689563371,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234517,
+        "num": 320473,
+        "word": "王宝强说我尊重观众尊重电影",
+        "onboard_time": 1689592949,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364203,
+        "num": 320467,
+        "word": "杜江给嗯哼剪的头",
+        "onboard_time": 1689591271,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225074,
+        "num": 320460,
+        "word": "女子拍照被大爷误认直播喊话拉低衣服",
+        "onboard_time": 1689593133,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216690,
+        "num": 320443,
+        "word": "张一山戴眼镜vs范丞丞戴眼镜",
+        "onboard_time": 1689592892,
+        "rank": 32,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 200343,
+        "num": 320429,
+        "word": "WBG对战EDG",
+        "onboard_time": 1689593430,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184333,
+        "num": 320422,
+        "word": "台风天符合条件员工可拒绝上班",
+        "onboard_time": 1689576091,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167811,
+        "num": 320411,
+        "word": "男子在银行1次存1元占用窗口2小时",
+        "onboard_time": 1689592892,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166238,
+        "num": 320405,
+        "word": "普通人住别墅的真实感受",
+        "onboard_time": 1689585331,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162382,
+        "num": 320387,
+        "word": "刘宇宁第一部现代男主剧",
+        "onboard_time": 1689579452,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156905,
+        "num": 320374,
+        "word": "长大才知道打碎盘子不是大事",
+        "onboard_time": 1689583172,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 50756,
+        "num": 320373,
+        "word": "马保国给饿了么免单出题",
+        "onboard_time": 1689591632,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148884,
+        "num": 320362,
+        "word": "12岁男孩为捡鞋子不慎落水溺亡",
+        "onboard_time": 1689579930,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148726,
+        "num": 320344,
+        "word": "玉骨遥点映礼",
+        "onboard_time": 1689584311,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146460,
+        "num": 320334,
+        "word": "程靖淇上恋综",
+        "onboard_time": 1689584133,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140566,
+        "num": 320330,
+        "word": "去漂流一定记得要穿黑衣服",
+        "onboard_time": 1689578312,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139313,
+        "num": 320310,
+        "word": "朴灿烈金珉锡边伯贤洪恩採一起跳舞",
+        "onboard_time": 1689593372,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133229,
+        "num": 320302,
+        "word": "伊能静回应媒体对儿子的报道",
+        "onboard_time": 1689579210,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129726,
+        "num": 320288,
+        "word": "给猫咪做了个房子",
+        "onboard_time": 1689590309,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124558,
+        "num": 320286,
+        "word": "离职了给下一任留一点线索",
+        "onboard_time": 1689593430,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124328,
+        "num": 320266,
+        "word": "睡觉姿势引起的耻骨肌发炎",
+        "onboard_time": 1689577230,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120426,
+        "num": 320255,
+        "word": "NCTDREAM新歌空降",
+        "onboard_time": 1689591512,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记为网络强国建设提出新的使命任务#"
+    }
+  }
+}
