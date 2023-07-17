@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689612139895,
+  "endTime": 1689614216273,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -39225,6 +39225,14 @@
       "onboard_time": 1688140658,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147136,
+      "num": 147136,
+      "word": "刘宇宁穿保安服直播",
+      "onboard_time": 1689613343,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 146876,
