@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689619019238,
+  "endTime": 1689621335115,
   "band_list": [
     {
       "raw_hot": 1681615,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301804,
+      "num": 301804,
+      "word": "台风",
+      "onboard_time": 1689607055,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301502,
       "num": 301502,
       "word": "刘诗诗蓝色长裙好优雅",
@@ -227,14 +235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230485,
-      "num": 230485,
-      "word": "台风",
-      "onboard_time": 1689607055,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227107,
       "num": 227107,
       "word": "作者在淘宝买到自己的盗版书",
@@ -305,6 +305,14 @@
       "onboard_time": 1689604235,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159242,
+      "num": 60579,
+      "word": "李雪琴 她太懂内心敏感的人的痛",
+      "onboard_time": 1689618255,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 153213,
@@ -435,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88239,
-      "num": 53236,
-      "word": "李雪琴 她太懂内心敏感的人的痛",
-      "onboard_time": 1689618255,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 64010,
       "num": 125893,
       "word": "姚笛最新状态",
       "onboard_time": 1689581371,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61576,
+      "num": 58791,
+      "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
+      "onboard_time": 1689619515,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 43412,
