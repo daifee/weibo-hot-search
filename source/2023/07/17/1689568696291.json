@@ -1,0 +1,410 @@
+{
+  "runTime": 1689568696291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3896008,
+        "num": 3896008,
+        "word": "玖月晞 我没抄袭",
+        "onboard_time": 1689563371,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2283653,
+        "num": 2283653,
+        "word": "现在的小区名越来越敢起了",
+        "onboard_time": 1689561331,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14505,
+        "num": 1949445,
+        "word": "第2架国产C919入列",
+        "onboard_time": 1689512914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1910552,
+        "num": 1910552,
+        "word": "玖月晞说有个女孩喜欢孟宴臣十年",
+        "onboard_time": 1689566375,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1410378,
+        "num": 1410378,
+        "word": "中学新生缴4千元买30件校服",
+        "onboard_time": 1689565230,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1133832,
+        "num": 1133832,
+        "word": "共用一张脸的明星",
+        "onboard_time": 1689564570,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829138,
+        "num": 829138,
+        "word": "孟宴臣存在过的证据",
+        "onboard_time": 1689565590,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 667444,
+        "num": 667444,
+        "word": "国内多个城市在TikTok爆火",
+        "onboard_time": 1689551006,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 664445,
+        "num": 664445,
+        "word": "普通家庭的家长不用刻意让孩子吃苦",
+        "onboard_time": 1689566851,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607090,
+        "num": 607090,
+        "word": "邓超Angelababy同框合影",
+        "onboard_time": 1689550468,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1033253,
+        "num": 589661,
+        "word": "刘恺威带小糯米外出",
+        "onboard_time": 1689557789,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762679,
+        "num": 573945,
+        "word": "健身房回应女子更衣室换衣10岁男孩两次闯入",
+        "onboard_time": 1689560308,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734595,
+        "num": 572611,
+        "word": "玖月晞破防的原因",
+        "onboard_time": 1689555571,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 552028,
+        "num": 552028,
+        "word": "范丞丞预判了导演的预判",
+        "onboard_time": 1689566975,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478798,
+        "num": 478798,
+        "word": "广西一17岁少年发现新物种",
+        "onboard_time": 1689559411,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522667,
+        "num": 420520,
+        "word": "丁墨",
+        "onboard_time": 1689557968,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514938,
+        "num": 399447,
+        "word": "被鸟鸟徐志胜李雪琴哭死",
+        "onboard_time": 1689563252,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360970,
+        "num": 360970,
+        "word": "喂小鸟千万不要穿洞洞鞋",
+        "onboard_time": 1689553772,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332317,
+        "num": 332317,
+        "word": "读书多的女生可以多有气质",
+        "onboard_time": 1689555392,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329283,
+        "num": 329283,
+        "word": "盐城市建湖县一烧烤店发生爆炸",
+        "onboard_time": 1689563252,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512996,
+        "num": 328806,
+        "word": "外卖员可免费上四川三所大学",
+        "onboard_time": 1689567995,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 507584,
+        "num": 327677,
+        "word": "薛之谦演唱会烟花放了7分17秒",
+        "onboard_time": 1689561990,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 496096,
+        "num": 325388,
+        "word": "魏大勋还有曾用名",
+        "onboard_time": 1689567756,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378885,
+        "num": 324962,
+        "word": "心动的信号6素人官宣",
+        "onboard_time": 1689564570,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323838,
+        "num": 323838,
+        "word": "A股",
+        "onboard_time": 1689561268,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 340111,
+        "num": 322770,
+        "word": "迪丽热巴怼脸视频",
+        "onboard_time": 1689566074,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320107,
+        "num": 320107,
+        "word": "古天乐张智霖吴镇宇追捕疯批反派",
+        "onboard_time": 1689567995,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319806,
+        "num": 319806,
+        "word": "豆角是东北孩子的噩梦",
+        "onboard_time": 1689565051,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239105,
+        "num": 319056,
+        "word": "上半年我国GDP593034亿元",
+        "onboard_time": 1689560728,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 32525,
+        "num": 319004,
+        "word": "祝福玫瑰好状态",
+        "onboard_time": 1689567936,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 802372,
+        "num": 319002,
+        "word": "身份证被狗吃了",
+        "onboard_time": 1689567456,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319001,
+        "num": 319001,
+        "word": "魏大勋跑赢过猎人",
+        "onboard_time": 1689568115,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298429,
+        "num": 298429,
+        "word": "为何提前还房贷不是想还就还",
+        "onboard_time": 1689556587,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 293320,
+        "num": 293320,
+        "word": "楼外楼",
+        "onboard_time": 1689560969,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290292,
+        "num": 290292,
+        "word": "seventeen公司换美工了",
+        "onboard_time": 1689557848,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284850,
+        "num": 284850,
+        "word": "融梗",
+        "onboard_time": 1689565830,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275375,
+        "num": 275375,
+        "word": "长相思",
+        "onboard_time": 1689561931,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262725,
+        "num": 262725,
+        "word": "孔刘徐玄振确定出演网飞新剧",
+        "onboard_time": 1689564392,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249643,
+        "num": 249643,
+        "word": "2女子江边露营点餐外卖员找到崩溃",
+        "onboard_time": 1689564450,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228144,
+        "num": 245170,
+        "word": "小鸟在女子马尾辫后睡了2小时",
+        "onboard_time": 1689565711,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243455,
+        "num": 243455,
+        "word": "沈月晒野猪一家长沙plog",
+        "onboard_time": 1689565650,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237235,
+        "num": 237235,
+        "word": "玖月晞",
+        "onboard_time": 1689550045,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224862,
+        "num": 224862,
+        "word": "魏大勋爸爸对魏大勋青春期的要求",
+        "onboard_time": 1689556949,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223191,
+        "num": 223191,
+        "word": "女子被压车底路人拼命抬车救人",
+        "onboard_time": 1689563789,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 217560,
+        "num": 217560,
+        "word": "EDG更换首发中单",
+        "onboard_time": 1689552090,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212963,
+        "num": 212963,
+        "word": "现代社会最惨绝人寰的酷刑",
+        "onboard_time": 1689562891,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212092,
+        "num": 212092,
+        "word": "台风",
+        "onboard_time": 1689549563,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211818,
+        "num": 211818,
+        "word": "家暴题材电影我经过风暴定档",
+        "onboard_time": 1689566674,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207201,
+        "num": 207201,
+        "word": "喝了一周的绿豆汤竟然上火了",
+        "onboard_time": 1689550283,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196282,
+        "num": 206057,
+        "word": "家暴男的心理机制",
+        "onboard_time": 1689566011,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国制造未来将继续奔跑起飞#"
+    }
+  }
+}
