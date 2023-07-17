@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689568696291,
+  "endTime": 1689571130508,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2170887,
-      "num": 589661,
+      "num": 766626,
       "word": "刘恺威带小糯米外出",
       "onboard_time": 1689557789,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1689523711,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1762756,
+      "num": 1014960,
+      "word": "韩国首尔地铁里的催生广告",
+      "onboard_time": 1689568774,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1689781,
@@ -123,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 980169,
+      "num": 980169,
+      "word": "鹿晗演唱会上海",
+      "onboard_time": 1689570153,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 958220,
       "num": 958220,
       "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
@@ -147,6 +163,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 874231,
+      "num": 874231,
+      "word": "普通家庭的家长不用刻意让孩子吃苦",
+      "onboard_time": 1689566851,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 870241,
+      "num": 870241,
+      "word": "身份证被狗吃了",
+      "onboard_time": 1689567456,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 852259,
       "num": 852259,
       "word": "孟宴臣存在过的证据",
@@ -163,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 818289,
+      "num": 766877,
+      "word": "魏大勋杂志好像出国疗养的孟宴臣",
+      "onboard_time": 1689569494,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 812307,
       "num": 573945,
       "word": "健身房回应女子更衣室换衣10岁男孩两次闯入",
@@ -171,20 +211,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 802372,
-      "num": 319002,
-      "word": "身份证被狗吃了",
-      "onboard_time": 1689567456,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 791288,
       "num": 791288,
       "word": "邓超Angelababy同框合影",
       "onboard_time": 1689550468,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 767007,
+      "num": 767007,
+      "word": "外卖员可免费上四川三所大学",
+      "onboard_time": 1689567995,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 764395,
+      "num": 764395,
+      "word": "微信号长期没有使用",
+      "onboard_time": 1689569433,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 759640,
+      "num": 339368,
+      "word": "韩国幽灵儿童事件",
+      "onboard_time": 1689570396,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745448,
@@ -211,14 +267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 664445,
-      "num": 664445,
-      "word": "普通家庭的家长不用刻意让孩子吃苦",
-      "onboard_time": 1689566851,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 645556,
       "num": 645556,
       "word": "印度网红AK哥被深圳震撼的语无伦次",
@@ -241,6 +289,14 @@
       "onboard_time": 1689503253,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 607889,
+      "num": 607889,
+      "word": "清北学霸怒斥研学内幕",
+      "onboard_time": 1689569735,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 596378,
@@ -331,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533097,
+      "num": 804693,
+      "word": "福宝等比例长大了",
+      "onboard_time": 1689568774,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532745,
       "num": 285169,
       "word": "在飞机上看下雨",
@@ -363,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521238,
+      "num": 521238,
+      "word": "令人不适的异性称呼",
+      "onboard_time": 1689569376,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 518041,
       "num": 518041,
       "word": "长相思",
@@ -371,16 +443,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 512996,
-      "num": 328806,
-      "word": "外卖员可免费上四川三所大学",
-      "onboard_time": 1689567995,
+      "raw_hot": 499927,
+      "num": 458343,
+      "word": "楼间距小的还是放弃百叶窗吧",
+      "onboard_time": 1689570100,
       "rank": 20,
-      "category": "社会新闻,教育"
+      "category": "幽默"
     },
     {
       "raw_hot": 496096,
-      "num": 325388,
+      "num": 326538,
       "word": "魏大勋还有曾用名",
       "onboard_time": 1689567756,
       "rank": 45,
@@ -417,6 +489,14 @@
       "onboard_time": 1689555571,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464681,
+      "num": 464681,
+      "word": "爸爸当家",
+      "onboard_time": 1689569314,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 462033,
@@ -523,6 +603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 412187,
+      "num": 412187,
+      "word": "审计到底有多累",
+      "onboard_time": 1689569137,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411248,
       "num": 411248,
       "word": "敷衍爸妈报的学校结果录取了",
@@ -587,6 +675,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 357940,
+      "num": 357940,
+      "word": "秦岚的少女感",
+      "onboard_time": 1689569676,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 356082,
+      "num": 356082,
+      "word": "魏大勋跑赢过猎人",
+      "onboard_time": 1689568115,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353203,
       "num": 353203,
       "word": "迪丽热巴灵动的演技",
@@ -611,12 +715,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 344543,
+      "num": 344543,
+      "word": "杨澄王莹烂人真心",
+      "onboard_time": 1689569855,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 340244,
+      "num": 340244,
+      "word": "顾漫简介加入骄阳似我下",
+      "onboard_time": 1689570100,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338704,
       "num": 338704,
       "word": "Angelababy金宇彬A妹加菲抖森同框",
       "onboard_time": 1689551006,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 337623,
+      "num": 337623,
+      "word": "陈伟霆练的肌肉被急性肠胃炎搞没了",
+      "onboard_time": 1689569912,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 336300,
@@ -627,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329653,
+      "num": 329653,
+      "word": "湿气和汗水的区别",
+      "onboard_time": 1689569795,
+      "rank": 33,
+      "category": "其它"
+    },
+    {
       "raw_hot": 329079,
       "num": 284850,
       "word": "融梗",
@@ -635,20 +771,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328666,
+      "num": 328666,
+      "word": "小朋友尴尬的撤回了一条消息",
+      "onboard_time": 1689569553,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 320107,
       "num": 320107,
       "word": "古天乐张智霖吴镇宇追捕疯批反派",
       "onboard_time": 1689567995,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319001,
-      "num": 319001,
-      "word": "魏大勋跑赢过猎人",
-      "onboard_time": 1689568115,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 318565,
@@ -803,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269828,
+      "num": 269828,
+      "word": "男子家暴成瘾反问民警打老婆犯法吗",
+      "onboard_time": 1689570692,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267077,
       "num": 267077,
       "word": "韩庚当年到底有多火",
@@ -947,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229775,
+      "num": 229775,
+      "word": "克里米亚大桥铁路交通完全中断",
+      "onboard_time": 1689570930,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225810,
       "num": 225810,
       "word": "温网",
@@ -1057,6 +1209,14 @@
       "onboard_time": 1689521618,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195775,
+      "num": 195775,
+      "word": "中学回应收新生4千元校服费",
+      "onboard_time": 1689570630,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 194801,
@@ -1273,6 +1433,14 @@
       "onboard_time": 1689529937,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 103457,
+      "num": 198098,
+      "word": "藿香味小雪糕有多上头",
+      "onboard_time": 1689569553,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 86738,
