@@ -1,0 +1,410 @@
+{
+  "runTime": 1689618257623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 270617,
+        "num": 270617,
+        "word": "玉骨遥为什么没爆",
+        "onboard_time": 1689596791,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150009,
+        "num": 150009,
+        "word": "B太和市场局局长一起逛市场",
+        "onboard_time": 1689607713,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10754,
+        "num": 147967,
+        "word": "沉湖湿地生态修复变身鸟类天堂",
+        "onboard_time": 1689600512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664218,
+        "num": 147225,
+        "word": "觉得infp很可怕",
+        "onboard_time": 1689609152,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 146462,
+        "num": 146462,
+        "word": "29岁女生入职3年月薪涨200元裸辞",
+        "onboard_time": 1689608672,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119316,
+        "num": 119316,
+        "word": "海关查获10只活体巨人蜈蚣",
+        "onboard_time": 1689590429,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110972,
+        "num": 110972,
+        "word": "十年果粉首次换到安卓是种什么体验",
+        "onboard_time": 1689605796,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 100999,
+        "num": 100999,
+        "word": "父辈仇恨射下的箭 十年后正中他的眉心",
+        "onboard_time": 1689608911,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100929,
+        "num": 100929,
+        "word": "台风",
+        "onboard_time": 1689607055,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100811,
+        "num": 100811,
+        "word": "李木戈希望对得起真正看剧的观众",
+        "onboard_time": 1689595953,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218394,
+        "num": 100783,
+        "word": "迪丽热巴回应撞脸弼马温",
+        "onboard_time": 1689603338,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416516,
+        "num": 100547,
+        "word": "我的人间烟火 缺德文学",
+        "onboard_time": 1689607591,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162020,
+        "num": 100325,
+        "word": "人民文娱评蔡依林线上首唱会",
+        "onboard_time": 1689606033,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133182,
+        "num": 100204,
+        "word": "当和你合租的是一群狗狗",
+        "onboard_time": 1689608911,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100164,
+        "num": 100164,
+        "word": "玉骨遥点映礼没有王楚然",
+        "onboard_time": 1689607831,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96817,
+        "num": 96817,
+        "word": "乘风成团夜",
+        "onboard_time": 1689598172,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88585,
+        "num": 88585,
+        "word": "Uzi不交闪现",
+        "onboard_time": 1689595531,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84506,
+        "num": 84506,
+        "word": "运动员吐槽东京奥运会奖牌2年成废铁",
+        "onboard_time": 1689602555,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79580,
+        "num": 79580,
+        "word": "外国人说这就是吴京",
+        "onboard_time": 1689606156,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76300,
+        "num": 76300,
+        "word": "女子因家中陌生手环发现床下藏摄像头",
+        "onboard_time": 1689589830,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100127,
+        "num": 75383,
+        "word": "发朋友圈习惯私密几天再公开",
+        "onboard_time": 1689603275,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77644,
+        "num": 75033,
+        "word": "文咏珊上身下身两种季节",
+        "onboard_time": 1689598774,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73610,
+        "num": 73610,
+        "word": "永远不要觉得尴尬和丢脸",
+        "onboard_time": 1689606513,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68492,
+        "num": 68492,
+        "word": "榴莲价格跌至全年最低",
+        "onboard_time": 1689604115,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 67262,
+        "num": 67262,
+        "word": "女子连续三年感染同一型HPV",
+        "onboard_time": 1689604235,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65034,
+        "num": 65034,
+        "word": "魏大勋从真情侣的全世界路过",
+        "onboard_time": 1689602434,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64947,
+        "num": 64947,
+        "word": "我的人间烟火",
+        "onboard_time": 1689608731,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62023,
+        "num": 62023,
+        "word": "刘宇宁穿保安服直播",
+        "onboard_time": 1689613343,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58790,
+        "num": 58790,
+        "word": "刘诗诗蓝色长裙好优雅",
+        "onboard_time": 1689599072,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 58551,
+        "num": 58551,
+        "word": "玉骨遥大结局",
+        "onboard_time": 1689592292,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55371,
+        "num": 55371,
+        "word": "广东中山10块一盘的活海鲜宵夜",
+        "onboard_time": 1689608371,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47600,
+        "num": 47600,
+        "word": "肖战说到做到的自拍",
+        "onboard_time": 1689604235,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47493,
+        "num": 47493,
+        "word": "女子跳绳致肾结石掉下卡在输尿管",
+        "onboard_time": 1689595234,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47051,
+        "num": 47051,
+        "word": "魏大勋的心态",
+        "onboard_time": 1689604357,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45685,
+        "num": 45685,
+        "word": "当家里的猫喜欢喝流动的水",
+        "onboard_time": 1689610347,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44484,
+        "num": 44484,
+        "word": "优酷第六部热度全天破万剧集",
+        "onboard_time": 1689590850,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43615,
+        "num": 43615,
+        "word": "王子奇看自己和王楚然镜头的反应",
+        "onboard_time": 1689592529,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43294,
+        "num": 43294,
+        "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
+        "onboard_time": 1689595831,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42827,
+        "num": 42827,
+        "word": "作者在淘宝买到自己的盗版书",
+        "onboard_time": 1689607831,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42691,
+        "num": 42691,
+        "word": "选高司令来演芭比的原因",
+        "onboard_time": 1689616396,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41735,
+        "num": 41735,
+        "word": "成都大运会",
+        "onboard_time": 1689611184,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40434,
+        "num": 40434,
+        "word": "公公杀害儿媳抛尸二审维持死刑",
+        "onboard_time": 1689577892,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38709,
+        "num": 38709,
+        "word": "黄仁俊中输",
+        "onboard_time": 1689607294,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37376,
+        "num": 37376,
+        "word": "沈月再现非主流拍照",
+        "onboard_time": 1689606273,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37262,
+        "num": 37262,
+        "word": "秦川家破产",
+        "onboard_time": 1689598172,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36962,
+        "num": 36962,
+        "word": "seventeen演唱会彩排照",
+        "onboard_time": 1689610531,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36634,
+        "num": 36634,
+        "word": "肠胃真的是情绪器官",
+        "onboard_time": 1689597874,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36583,
+        "num": 36583,
+        "word": "做自己的光",
+        "onboard_time": 1689614479,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33700,
+        "num": 36582,
+        "word": "无聊时可以做的DIY玩具",
+        "onboard_time": 1689617356,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 29527,
+        "num": 36578,
+        "word": "怎么做到的自信",
+        "onboard_time": 1689618195,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#年中经济面面观#"
+    }
+  }
+}
