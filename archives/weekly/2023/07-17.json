@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689582310085,
+  "endTime": 1689583128711,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -123,12 +123,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1327872,
+      "num": 433315,
+      "word": "姚笛最新状态",
+      "onboard_time": 1689581371,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1255870,
       "num": 1255870,
       "word": "玖月晞破防的原因",
       "onboard_time": 1689555571,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1210563,
+      "num": 1210563,
+      "word": "这才是中国最没存在感的省",
+      "onboard_time": 1689581191,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1175415,
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950411,
+      "num": 950411,
+      "word": "回不去的奔跑吧兄弟",
+      "onboard_time": 1689580653,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 941058,
       "num": 941058,
       "word": "广西一17岁少年发现新物种",
@@ -251,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 832260,
-      "num": 832260,
-      "word": "回不去的奔跑吧兄弟",
-      "onboard_time": 1689580653,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 824243,
       "num": 824243,
       "word": "丁墨",
@@ -281,6 +297,14 @@
       "onboard_time": 1689560308,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808502,
+      "num": 370728,
+      "word": "伊能静回应媒体对儿子的报道",
+      "onboard_time": 1689579210,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 798763,
@@ -321,22 +345,6 @@
       "onboard_time": 1689575673,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 736885,
-      "num": 282050,
-      "word": "姚笛最新状态",
-      "onboard_time": 1689581371,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 733823,
-      "num": 370728,
-      "word": "伊能静回应媒体对儿子的报道",
-      "onboard_time": 1689579210,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 722977,
@@ -409,14 +417,6 @@
       "onboard_time": 1689503253,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 608022,
-      "num": 369947,
-      "word": "这才是中国最没存在感的省",
-      "onboard_time": 1689581191,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 596378,
@@ -915,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351447,
+      "num": 279822,
+      "word": "12岁男孩为捡鞋子不慎落水溺亡",
+      "onboard_time": 1689579930,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350092,
       "num": 350092,
       "word": "迪丽热巴怼脸视频",
@@ -931,20 +939,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340837,
+      "num": 240245,
+      "word": "坐网约车看到有根针插在车座上",
+      "onboard_time": 1689582630,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338704,
       "num": 338704,
       "word": "Angelababy金宇彬A妹加菲抖森同框",
       "onboard_time": 1689551006,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 338687,
-      "num": 279822,
-      "word": "12岁男孩为捡鞋子不慎落水溺亡",
-      "onboard_time": 1689579930,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337623,
@@ -961,6 +969,14 @@
       "onboard_time": 1689541873,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332915,
+      "num": 231149,
+      "word": "狗头萝莉回应卖煎饼数次被举报",
+      "onboard_time": 1689582753,
+      "rank": 31,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 329079,
@@ -1115,6 +1131,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 286204,
+      "num": 238740,
+      "word": "张子豪正式官宣签约龙韬娱乐",
+      "onboard_time": 1689582332,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286142,
       "num": 286142,
       "word": "尘缘海外评分9.3",
@@ -1147,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281808,
+      "num": 277271,
+      "word": "杨澄醋了他醋了",
+      "onboard_time": 1689579452,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280653,
       "num": 280653,
       "word": "2女子江边露营点餐外卖员找到崩溃",
@@ -1169,14 +1201,6 @@
       "onboard_time": 1689515856,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277271,
-      "num": 277271,
-      "word": "杨澄醋了他醋了",
-      "onboard_time": 1689579452,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 276529,
@@ -1499,6 +1523,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 202767,
+      "num": 202767,
+      "word": "深圳台风",
+      "onboard_time": 1689582571,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201604,
       "num": 201604,
       "word": "谢乔杨澄说话最多的一次",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1689520716,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153675,
+      "num": 153675,
+      "word": "手机品牌为何扎堆绿色",
+      "onboard_time": 1689582992,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 152420,

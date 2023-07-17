@@ -1,0 +1,410 @@
+{
+  "runTime": 1689583128711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2064730,
+        "num": 2064730,
+        "word": "深圳已做好停工停课准备",
+        "onboard_time": 1689573089,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1210563,
+        "num": 1210563,
+        "word": "这才是中国最没存在感的省",
+        "onboard_time": 1689581191,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41728,
+        "num": 1181490,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1689575790,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1165735,
+        "num": 1165735,
+        "word": "韩国幽灵儿童事件",
+        "onboard_time": 1689570396,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074649,
+        "num": 1074649,
+        "word": "刘宇宁第一部现代男主剧",
+        "onboard_time": 1689579452,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 950411,
+        "num": 950411,
+        "word": "回不去的奔跑吧兄弟",
+        "onboard_time": 1689580653,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 843048,
+        "num": 843048,
+        "word": "睡觉姿势引起的耻骨肌发炎",
+        "onboard_time": 1689577230,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 666364,
+        "num": 666364,
+        "word": "玖月晞 我没抄袭",
+        "onboard_time": 1689563371,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604539,
+        "num": 604539,
+        "word": "肖战迪丽热巴或将合作",
+        "onboard_time": 1689571530,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444521,
+        "num": 444521,
+        "word": "微信号长期没有使用",
+        "onboard_time": 1689569433,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1327872,
+        "num": 433315,
+        "word": "姚笛最新状态",
+        "onboard_time": 1689581371,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412546,
+        "num": 412546,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1689572671,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393146,
+        "num": 393146,
+        "word": "韩国首尔地铁里的催生广告",
+        "onboard_time": 1689568774,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335156,
+        "num": 335156,
+        "word": "玖月晞知道自己在反驳什么吗",
+        "onboard_time": 1689571230,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321457,
+        "num": 321457,
+        "word": "清北学霸怒斥研学内幕",
+        "onboard_time": 1689569735,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 314063,
+        "num": 314063,
+        "word": "鹿晗欧阳娜娜早期同框",
+        "onboard_time": 1689575673,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288855,
+        "num": 288855,
+        "word": "玖月晞说有个女孩喜欢孟宴臣十年",
+        "onboard_time": 1689566375,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260394,
+        "num": 260394,
+        "word": "爸爸捧小儿脚丫痛哭道别后捐其器官",
+        "onboard_time": 1689576571,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246795,
+        "num": 246795,
+        "word": "范丞丞啃手",
+        "onboard_time": 1689576691,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242739,
+        "num": 242739,
+        "word": "韩网热帖 福宝熊设",
+        "onboard_time": 1689574290,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1755712,
+        "num": 242156,
+        "word": "公公杀害儿媳抛尸二审维持死刑",
+        "onboard_time": 1689577892,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420011,
+        "num": 241733,
+        "word": "去漂流一定记得要穿黑衣服",
+        "onboard_time": 1689578312,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351447,
+        "num": 241403,
+        "word": "12岁男孩为捡鞋子不慎落水溺亡",
+        "onboard_time": 1689579930,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340837,
+        "num": 240245,
+        "word": "坐网约车看到有根针插在车座上",
+        "onboard_time": 1689582630,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293534,
+        "num": 239442,
+        "word": "洗手台被我的护肤品砸破了",
+        "onboard_time": 1689581492,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 808502,
+        "num": 239329,
+        "word": "伊能静回应媒体对儿子的报道",
+        "onboard_time": 1689579210,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286204,
+        "num": 238740,
+        "word": "张子豪正式官宣签约龙韬娱乐",
+        "onboard_time": 1689582332,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281808,
+        "num": 238086,
+        "word": "杨澄醋了他醋了",
+        "onboard_time": 1689579452,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237437,
+        "num": 237437,
+        "word": "赵丽颖拍的风景",
+        "onboard_time": 1689581132,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193306,
+        "num": 237284,
+        "word": "克里米亚大桥铁路交通已恢复",
+        "onboard_time": 1689581672,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237171,
+        "num": 237171,
+        "word": "小朋友尴尬的撤回了一条消息",
+        "onboard_time": 1689569553,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 332915,
+        "num": 231149,
+        "word": "狗头萝莉回应卖煎饼数次被举报",
+        "onboard_time": 1689582753,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 224155,
+        "num": 224155,
+        "word": "台风天符合条件员工可拒绝上班",
+        "onboard_time": 1689576091,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220529,
+        "num": 220529,
+        "word": "逆水寒",
+        "onboard_time": 1689579210,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216916,
+        "num": 216916,
+        "word": "现在的小区名越来越敢起了",
+        "onboard_time": 1689561331,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202767,
+        "num": 202767,
+        "word": "深圳台风",
+        "onboard_time": 1689582571,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202608,
+        "num": 202608,
+        "word": "EXO新团综要来了",
+        "onboard_time": 1689580293,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202329,
+        "num": 202329,
+        "word": "张杰说长沙要玩个大的",
+        "onboard_time": 1689575976,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198213,
+        "num": 198213,
+        "word": "令人不适的异性称呼",
+        "onboard_time": 1689569376,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196571,
+        "num": 196571,
+        "word": "魏大勋杂志好像出国疗养的孟宴臣",
+        "onboard_time": 1689569494,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196452,
+        "num": 196452,
+        "word": "林俊杰晒与何炅合照",
+        "onboard_time": 1689577770,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183230,
+        "num": 183230,
+        "word": "颖儿不完美受害人演技",
+        "onboard_time": 1689581252,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179573,
+        "num": 179573,
+        "word": "2娃到上海看爸爸出租房里打地铺",
+        "onboard_time": 1689577651,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172901,
+        "num": 172901,
+        "word": "男子家暴成瘾反问民警打老婆犯法吗",
+        "onboard_time": 1689570692,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168023,
+        "num": 168023,
+        "word": "顾漫简介加入骄阳似我下",
+        "onboard_time": 1689570100,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165865,
+        "num": 165865,
+        "word": "河森堡 愿长安三万里以后也无法触动你们",
+        "onboard_time": 1689576873,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165329,
+        "num": 165329,
+        "word": "福宝等比例长大了",
+        "onboard_time": 1689568774,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164691,
+        "num": 164691,
+        "word": "共用一张脸的明星",
+        "onboard_time": 1689564570,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155242,
+        "num": 155242,
+        "word": "马立奥可爱",
+        "onboard_time": 1689572011,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153675,
+        "num": 153675,
+        "word": "手机品牌为何扎堆绿色",
+        "onboard_time": 1689582992,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国制造未来将继续奔跑起飞#"
+    }
+  }
+}
