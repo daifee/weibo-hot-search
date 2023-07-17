@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689629630498,
+  "endTime": 1689632210731,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -2668,7 +2668,7 @@
     },
     {
       "raw_hot": 159242,
-      "num": 84409,
+      "num": 102006,
       "word": "李雪琴 她太懂内心敏感的人的痛",
       "onboard_time": 1689618255,
       "rank": 30,
@@ -2891,6 +2891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 91589,
+      "num": 102352,
+      "word": "杨彤我的人间烟火演技",
+      "onboard_time": 1689627432,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 90638,
       "num": 126348,
       "word": "广东今年首个台风",
@@ -2947,8 +2955,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68554,
+      "num": 101662,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 63015,
-      "num": 63015,
+      "num": 101036,
       "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
       "onboard_time": 1689619515,
       "rank": 15,
@@ -2995,12 +3011,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48426,
-      "num": 57707,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 48430,
+      "num": 100503,
+      "word": "这个学校不能没有李主任",
+      "onboard_time": 1689628511,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 43766,
+      "num": 100315,
+      "word": "雨后杭州出现巨型彩虹",
+      "onboard_time": 1689626892,
+      "rank": 45,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 43412,
@@ -3016,14 +3040,6 @@
       "word": "新版妲己封神首映弹古琴",
       "onboard_time": 1689533594,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 39718,
-      "num": 57700,
-      "word": "杨彤我的人间烟火演技",
-      "onboard_time": 1689627432,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -3059,14 +3075,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 25533,
-      "num": 57619,
-      "word": "这个学校不能没有李主任",
-      "onboard_time": 1689628511,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 23385,
       "num": 42615,
       "word": "责任感是和喜爱一起出现的",
@@ -3083,12 +3091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20460,
-      "num": 57597,
-      "word": "雨后杭州出现巨型彩虹",
-      "onboard_time": 1689626892,
-      "rank": 45,
-      "category": "自然,社会新闻"
+      "raw_hot": 15188,
+      "num": 99140,
+      "word": "南北方饮食差异真的很大",
+      "onboard_time": 1689626771,
+      "rank": 49,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
