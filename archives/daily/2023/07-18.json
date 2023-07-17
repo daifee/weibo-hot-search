@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689632210731,
+  "endTime": 1689633239794,
   "band_list": [
     {
       "raw_hot": 1681615,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438413,
+      "num": 438413,
+      "word": "台风",
+      "onboard_time": 1689607055,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366989,
       "num": 366989,
       "word": "外国人说这就是吴京",
@@ -137,14 +145,6 @@
       "onboard_time": 1689604115,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 332409,
-      "num": 332409,
-      "word": "台风",
-      "onboard_time": 1689607055,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325163,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 159242,
-      "num": 102006,
+      "num": 104261,
       "word": "李雪琴 她太懂内心敏感的人的痛",
       "onboard_time": 1689618255,
       "rank": 30,
@@ -427,19 +427,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115902,
+      "num": 115902,
+      "word": "杨彤我的人间烟火演技",
+      "onboard_time": 1689627432,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 101066,
+      "num": 101662,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97962,
       "num": 218531,
       "word": "迪丽热巴开工前先健身",
       "onboard_time": 1689603632,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 91589,
-      "num": 102352,
-      "word": "杨彤我的人间烟火演技",
-      "onboard_time": 1689627432,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -451,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68554,
-      "num": 101662,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 67718,
+      "num": 100346,
+      "word": "雨后杭州出现巨型彩虹",
+      "onboard_time": 1689626892,
+      "rank": 45,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 64010,
@@ -475,20 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 48430,
+      "raw_hot": 58343,
       "num": 100503,
       "word": "这个学校不能没有李主任",
       "onboard_time": 1689628511,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 43766,
-      "num": 100315,
-      "word": "雨后杭州出现巨型彩虹",
-      "onboard_time": 1689626892,
-      "rank": 45,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 43412,
@@ -513,6 +513,14 @@
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 27314,
+      "num": 98914,
+      "word": "谢乔承认喜欢秦川",
+      "onboard_time": 1689633137,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 27275,

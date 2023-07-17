@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689632210731,
+  "endTime": 1689633239794,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -2668,7 +2668,7 @@
     },
     {
       "raw_hot": 159242,
-      "num": 102006,
+      "num": 104261,
       "word": "李雪琴 她太懂内心敏感的人的痛",
       "onboard_time": 1689618255,
       "rank": 30,
@@ -2827,6 +2827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115902,
+      "num": 115902,
+      "word": "杨彤我的人间烟火演技",
+      "onboard_time": 1689627432,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115897,
       "num": 328911,
       "word": "放在整个香港租房界都是炸裂的",
@@ -2891,12 +2899,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 91589,
-      "num": 102352,
-      "word": "杨彤我的人间烟火演技",
-      "onboard_time": 1689627432,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 101066,
+      "num": 101662,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90638,
@@ -2955,12 +2963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68554,
-      "num": 101662,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 67718,
+      "num": 100346,
+      "word": "雨后杭州出现巨型彩虹",
+      "onboard_time": 1689626892,
+      "rank": 45,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 63015,
@@ -2987,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58343,
+      "num": 100503,
+      "word": "这个学校不能没有李主任",
+      "onboard_time": 1689628511,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54764,
       "num": 802518,
       "word": "成都大运会开幕式有哪些亮点",
@@ -3009,22 +3025,6 @@
       "onboard_time": 1689591632,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48430,
-      "num": 100503,
-      "word": "这个学校不能没有李主任",
-      "onboard_time": 1689628511,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 43766,
-      "num": 100315,
-      "word": "雨后杭州出现巨型彩虹",
-      "onboard_time": 1689626892,
-      "rank": 45,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 43412,
@@ -3073,6 +3073,14 @@
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 27314,
+      "num": 98914,
+      "word": "谢乔承认喜欢秦川",
+      "onboard_time": 1689633137,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 23385,
