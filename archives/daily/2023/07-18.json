@@ -1,9 +1,9 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689611139945,
+  "endTime": 1689612139895,
   "band_list": [
     {
-      "raw_hot": 1399266,
+      "raw_hot": 1681615,
       "num": 886938,
       "word": "觉得infp很可怕",
       "onboard_time": 1689609152,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359160,
+      "num": 359160,
+      "word": "父辈仇恨射下的箭 十年后正中他的眉心",
+      "onboard_time": 1689608911,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352359,
       "num": 352359,
       "word": "海关查获10只活体巨人蜈蚣",
@@ -131,12 +139,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 327812,
-      "num": 327812,
-      "word": "父辈仇恨射下的箭 十年后正中他的眉心",
+      "raw_hot": 325163,
+      "num": 223379,
+      "word": "当和你合租的是一群狗狗",
       "onboard_time": 1689608911,
-      "rank": 15,
-      "category": "影视"
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 309209,
@@ -145,14 +153,6 @@
       "onboard_time": 1689603275,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 303137,
-      "num": 223379,
-      "word": "当和你合租的是一群狗狗",
-      "onboard_time": 1689608911,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 301502,
@@ -363,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132603,
+      "num": 218552,
+      "word": "当家里的猫喜欢喝流动的水",
+      "onboard_time": 1689610347,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132008,
       "num": 218557,
       "word": "jiejie状态",
@@ -371,12 +379,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126818,
-      "num": 218552,
-      "word": "当家里的猫喜欢喝流动的水",
-      "onboard_time": 1689610347,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 128833,
+      "num": 128833,
+      "word": "成都大运会",
+      "onboard_time": 1689611184,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123373,
+      "num": 126385,
+      "word": "台风泰利六点须知",
+      "onboard_time": 1689611903,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121068,
@@ -393,6 +409,14 @@
       "onboard_time": 1689603632,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90638,
+      "num": 126348,
+      "word": "广东今年首个台风",
+      "onboard_time": 1689611545,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27275,

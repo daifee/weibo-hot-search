@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/18 00:25:39
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/18 00:42:19
 </p>
 </blockquote>
 <p>
@@ -2163,6 +2163,12 @@ TFBOYS演唱会的票价（热度：1711127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95%23" target="weibo">
+觉得infp很可怕（热度：1681615）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%23" target="weibo">
 天津发现一例猴痘（热度：1680460）
 </a>
@@ -2849,12 +2855,6 @@ EDG起诉Scout（热度：1401485）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B710%E5%8F%AA%E6%B4%BB%E4%BD%93%E5%B7%A8%E4%BA%BA%E8%9C%88%E8%9A%A3%23" target="weibo">
 海关查获10只活体巨人蜈蚣（热度：1400433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%89%E5%BE%97infp%E5%BE%88%E5%8F%AF%E6%80%95%23" target="weibo">
-觉得infp很可怕（热度：1399266）
 </a>
 </li>
 

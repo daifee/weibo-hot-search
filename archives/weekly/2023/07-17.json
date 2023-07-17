@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689611139945,
+  "endTime": 1689612139895,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1681615,
+      "num": 886938,
+      "word": "觉得infp很可怕",
+      "onboard_time": 1689609152,
+      "rank": 3,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1489873,
       "num": 1489873,
       "word": "这才是中国最没存在感的省",
@@ -185,14 +193,6 @@
       "onboard_time": 1689590429,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1399266,
-      "num": 886938,
-      "word": "觉得infp很可怕",
-      "onboard_time": 1689609152,
-      "rank": 3,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1337972,
@@ -1411,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 359160,
+      "num": 359160,
+      "word": "父辈仇恨射下的箭 十年后正中他的眉心",
+      "onboard_time": 1689608911,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357940,
       "num": 357940,
       "word": "秦岚的少女感",
@@ -1571,12 +1579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327812,
-      "num": 327812,
-      "word": "父辈仇恨射下的箭 十年后正中他的眉心",
+      "raw_hot": 325163,
+      "num": 223379,
+      "word": "当和你合租的是一群狗狗",
       "onboard_time": 1689608911,
-      "rank": 15,
-      "category": "影视"
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 324534,
@@ -1713,14 +1721,6 @@
       "onboard_time": 1689583172,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 303137,
-      "num": 223379,
-      "word": "当和你合租的是一群狗狗",
-      "onboard_time": 1689608911,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 294963,
@@ -2747,6 +2747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132603,
+      "num": 218552,
+      "word": "当家里的猫喜欢喝流动的水",
+      "onboard_time": 1689610347,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130540,
       "num": 328942,
       "word": "杨昊练俊杰跳水男双十米台冠军",
@@ -2763,12 +2771,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126818,
-      "num": 218552,
-      "word": "当家里的猫喜欢喝流动的水",
-      "onboard_time": 1689610347,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 128833,
+      "num": 128833,
+      "word": "成都大运会",
+      "onboard_time": 1689611184,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123373,
+      "num": 126385,
+      "word": "台风泰利六点须知",
+      "onboard_time": 1689611903,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118956,
@@ -2849,6 +2865,14 @@
       "onboard_time": 1689569553,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90638,
+      "num": 126348,
+      "word": "广东今年首个台风",
+      "onboard_time": 1689611545,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86738,
