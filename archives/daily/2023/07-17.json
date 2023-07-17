@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689583128711,
+  "endTime": 1689585580629,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -48,6 +48,14 @@
       "word": "刘恺威带小糯米外出",
       "onboard_time": 1689557789,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1942504,
+      "num": 636221,
+      "word": "姚笛最新状态",
+      "onboard_time": 1689581371,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1489873,
+      "num": 1489873,
+      "word": "这才是中国最没存在感的省",
+      "onboard_time": 1689581191,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1463864,
       "num": 1463864,
       "word": "喂小鸟千万不要穿洞洞鞋",
@@ -123,28 +139,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1327872,
-      "num": 433315,
-      "word": "姚笛最新状态",
-      "onboard_time": 1689581371,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1255870,
       "num": 1255870,
       "word": "玖月晞破防的原因",
       "onboard_time": 1689555571,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1210563,
-      "num": 1210563,
-      "word": "这才是中国最没存在感的省",
-      "onboard_time": 1689581191,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 1175415,
@@ -203,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 995743,
+      "num": 995743,
+      "word": "小红书崩了",
+      "onboard_time": 1689584492,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 989853,
       "num": 989853,
       "word": "睡觉姿势引起的耻骨肌发炎",
@@ -225,6 +233,14 @@
       "onboard_time": 1689519578,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951996,
+      "num": 632461,
+      "word": "狗头萝莉回应卖煎饼数次被举报",
+      "onboard_time": 1689582753,
+      "rank": 31,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 950411,
@@ -355,12 +371,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 720686,
+      "num": 720686,
+      "word": "连霍高速发生车祸已致8死6重伤",
+      "onboard_time": 1689584673,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704413,
       "num": 653046,
       "word": "爸爸捧小儿脚丫痛哭道别后捐其器官",
       "onboard_time": 1689576571,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697108,
+      "num": 697108,
+      "word": "肖战出席玉骨遥大结局点映礼",
+      "onboard_time": 1689583593,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 696726,
@@ -377,6 +409,14 @@
       "onboard_time": 1689519996,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 652336,
+      "num": 652336,
+      "word": "程靖淇上恋综",
+      "onboard_time": 1689584133,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 645556,
@@ -425,6 +465,14 @@
       "onboard_time": 1689553653,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 594868,
+      "num": 241785,
+      "word": "他的健身卡应该明天到期吧",
+      "onboard_time": 1689583898,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 582448,
@@ -513,6 +561,14 @@
       "onboard_time": 1689563252,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537972,
+      "num": 537972,
+      "word": "雪王又又又黑了",
+      "onboard_time": 1689584853,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 534637,
@@ -827,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396733,
+      "num": 292593,
+      "word": "普通人住别墅的真实感受",
+      "onboard_time": 1689585331,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
@@ -931,6 +995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 342502,
+      "num": 342502,
+      "word": "这真的不是那英吗",
+      "onboard_time": 1689583352,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341428,
       "num": 341428,
       "word": "台风天符合条件员工可拒绝上班",
@@ -971,12 +1043,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332915,
-      "num": 231149,
-      "word": "狗头萝莉回应卖煎饼数次被举报",
-      "onboard_time": 1689582753,
-      "rank": 31,
-      "category": "社会新闻,网红"
+      "raw_hot": 335326,
+      "num": 288057,
+      "word": "张子豪正式官宣签约龙韬娱乐",
+      "onboard_time": 1689582332,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333868,
+      "num": 333868,
+      "word": "郑润泽加场投票",
+      "onboard_time": 1689584311,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 329079,
@@ -1075,6 +1155,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 304544,
+      "num": 286473,
+      "word": "长大才知道打碎盘子不是大事",
+      "onboard_time": 1689583172,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 294963,
       "num": 294963,
       "word": "2娃到上海看爸爸出租房里打地铺",
@@ -1129,14 +1217,6 @@
       "onboard_time": 1689572431,
       "rank": 29,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 286204,
-      "num": 238740,
-      "word": "张子豪正式官宣签约龙韬娱乐",
-      "onboard_time": 1689582332,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 286142,
@@ -1323,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244983,
+      "num": 244983,
+      "word": "玉骨遥点映礼",
+      "onboard_time": 1689584311,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243005,
       "num": 243005,
       "word": "中国女排世联赛亚军",
@@ -1353,6 +1441,14 @@
       "onboard_time": 1689555093,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241266,
+      "num": 241266,
+      "word": "手机品牌为何扎堆绿色",
+      "onboard_time": 1689582992,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 240139,
@@ -1523,8 +1619,8 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 202767,
-      "num": 202767,
+      "raw_hot": 203376,
+      "num": 203376,
       "word": "深圳台风",
       "onboard_time": 1689582571,
       "rank": 35,
@@ -1579,20 +1675,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 195391,
+      "num": 195391,
+      "word": "颖儿不完美受害人演技",
+      "onboard_time": 1689581252,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194801,
       "num": 194801,
       "word": "瓦尔加斯",
       "onboard_time": 1689557848,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191642,
-      "num": 191642,
-      "word": "颖儿不完美受害人演技",
-      "onboard_time": 1689581252,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 191077,
@@ -1657,6 +1753,14 @@
       "onboard_time": 1689524368,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174143,
+      "num": 174143,
+      "word": "丫丫vlog上新",
+      "onboard_time": 1689585331,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171800,
@@ -1729,14 +1833,6 @@
       "onboard_time": 1689520716,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153675,
-      "num": 153675,
-      "word": "手机品牌为何扎堆绿色",
-      "onboard_time": 1689582992,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 152420,
