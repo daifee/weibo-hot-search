@@ -1,0 +1,410 @@
+{
+  "runTime": 1689578297023,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2939850,
+        "num": 2939850,
+        "word": "深圳已做好停工停课准备",
+        "onboard_time": 1689573089,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2279054,
+        "num": 2279054,
+        "word": "韩国幽灵儿童事件",
+        "onboard_time": 1689570396,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49969,
+        "num": 1715327,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1689575790,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1557827,
+        "num": 1557827,
+        "word": "杨澄让小三怀孕了",
+        "onboard_time": 1689577173,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 917624,
+        "num": 917624,
+        "word": "肖战迪丽热巴或将合作",
+        "onboard_time": 1689571530,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 881676,
+        "num": 881676,
+        "word": "玖月晞 我没抄袭",
+        "onboard_time": 1689563371,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 782499,
+        "num": 782499,
+        "word": "微信号长期没有使用",
+        "onboard_time": 1689569433,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 745061,
+        "num": 745061,
+        "word": "鹿晗欧阳娜娜早期同框",
+        "onboard_time": 1689575673,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720236,
+        "num": 720236,
+        "word": "韩国首尔地铁里的催生广告",
+        "onboard_time": 1689568774,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 668809,
+        "num": 668809,
+        "word": "清北学霸怒斥研学内幕",
+        "onboard_time": 1689569735,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 704413,
+        "num": 653046,
+        "word": "爸爸捧小儿脚丫痛哭道别后捐其器官",
+        "onboard_time": 1689576571,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629499,
+        "num": 629499,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1689572671,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 578151,
+        "num": 578151,
+        "word": "玖月晞说有个女孩喜欢孟宴臣十年",
+        "onboard_time": 1689566375,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 577072,
+        "num": 577072,
+        "word": "韩网热帖 福宝熊设",
+        "onboard_time": 1689574290,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500243,
+        "num": 500243,
+        "word": "腾讯客服回应微信号回收",
+        "onboard_time": 1689573209,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 417146,
+        "num": 417146,
+        "word": "共用一张脸的明星",
+        "onboard_time": 1689564570,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411000,
+        "num": 411000,
+        "word": "现在的小区名越来越敢起了",
+        "onboard_time": 1689561331,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390777,
+        "num": 390777,
+        "word": "范丞丞啃手",
+        "onboard_time": 1689576691,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365879,
+        "num": 365879,
+        "word": "玖月晞知道自己在反驳什么吗",
+        "onboard_time": 1689571230,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356688,
+        "num": 356688,
+        "word": "马立奥可爱",
+        "onboard_time": 1689572011,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419173,
+        "num": 355139,
+        "word": "张杰说长沙要玩个大的",
+        "onboard_time": 1689575976,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 341428,
+        "num": 341428,
+        "word": "台风天符合条件员工可拒绝上班",
+        "onboard_time": 1689576091,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333813,
+        "num": 333813,
+        "word": "刘恺威带小糯米外出",
+        "onboard_time": 1689557789,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322799,
+        "num": 322799,
+        "word": "魏大勋杂志好像出国疗养的孟宴臣",
+        "onboard_time": 1689569494,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303077,
+        "num": 303077,
+        "word": "中学新生缴4千元买30件校服",
+        "onboard_time": 1689565230,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 295446,
+        "num": 295446,
+        "word": "小朋友尴尬的撤回了一条消息",
+        "onboard_time": 1689569553,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 283181,
+        "num": 283181,
+        "word": "男子家暴成瘾反问民警打老婆犯法吗",
+        "onboard_time": 1689570692,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275301,
+        "num": 275301,
+        "word": "杨澄王莹烂人真心",
+        "onboard_time": 1689569855,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265307,
+        "num": 265307,
+        "word": "湿气和汗水的区别",
+        "onboard_time": 1689569795,
+        "rank": 28,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 243589,
+        "num": 243589,
+        "word": "福宝等比例长大了",
+        "onboard_time": 1689568774,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422187,
+        "num": 243471,
+        "word": "睡觉姿势引起的耻骨肌发炎",
+        "onboard_time": 1689577230,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379615,
+        "num": 243435,
+        "word": "公公杀害儿媳抛尸二审维持死刑",
+        "onboard_time": 1689577892,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292324,
+        "num": 243433,
+        "word": "河森堡 愿长安三万里以后也无法触动你们",
+        "onboard_time": 1689576873,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243243,
+        "num": 243243,
+        "word": "杨澄清醒了",
+        "onboard_time": 1689574231,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238906,
+        "num": 238906,
+        "word": "2娃到上海看爸爸出租房里打地铺",
+        "onboard_time": 1689577651,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238544,
+        "num": 238544,
+        "word": "林俊杰晒与何炅合照",
+        "onboard_time": 1689577770,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235549,
+        "num": 235549,
+        "word": "令人不适的异性称呼",
+        "onboard_time": 1689569376,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231029,
+        "num": 231029,
+        "word": "田曦薇无袖连衣裙",
+        "onboard_time": 1689572431,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 230607,
+        "num": 230607,
+        "word": "迪丽热巴龚俊今晚直播",
+        "onboard_time": 1689574470,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212866,
+        "num": 212866,
+        "word": "莲花楼",
+        "onboard_time": 1689571172,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204238,
+        "num": 204238,
+        "word": "普通家庭的家长不用刻意让孩子吃苦",
+        "onboard_time": 1689566851,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198143,
+        "num": 198143,
+        "word": "魏大勋跑赢过猎人",
+        "onboard_time": 1689568115,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188410,
+        "num": 198122,
+        "word": "一旦大熊猫帅而自知",
+        "onboard_time": 1689575732,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187624,
+        "num": 198037,
+        "word": "顾漫简介加入骄阳似我下",
+        "onboard_time": 1689570100,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176130,
+        "num": 197871,
+        "word": "时影一命换一命",
+        "onboard_time": 1689576810,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172108,
+        "num": 197767,
+        "word": "外卖员可免费上四川三所大学",
+        "onboard_time": 1689567995,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 159346,
+        "num": 197744,
+        "word": "孙怡剥蒜全靠牙咬",
+        "onboard_time": 1689573630,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151800,
+        "num": 197592,
+        "word": "迪丽热巴读仲夏夜之梦",
+        "onboard_time": 1689573269,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148520,
+        "num": 197522,
+        "word": "心动的信号6素人官宣",
+        "onboard_time": 1689564570,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111574,
+        "num": 197417,
+        "word": "武汉最拿得出手的特产是什么",
+        "onboard_time": 1689577711,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记为网络强国建设提出新的使命任务#"
+    }
+  }
+}
