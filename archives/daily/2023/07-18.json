@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689622448049,
+  "endTime": 1689625205692,
   "band_list": [
     {
       "raw_hot": 1681615,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 159242,
-      "num": 60579,
+      "num": 84409,
       "word": "李雪琴 她太懂内心敏感的人的痛",
       "onboard_time": 1689618255,
       "rank": 30,
@@ -465,6 +465,14 @@
       "onboard_time": 1689616396,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 36056,
+      "num": 36056,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 35405,
