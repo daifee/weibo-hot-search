@@ -1,7 +1,23 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689550459204,
+  "endTime": 1689559028042,
   "band_list": [
+    {
+      "raw_hot": 2732474,
+      "num": 2732474,
+      "word": "玖月晞",
+      "onboard_time": 1689550045,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1946998,
+      "num": 468682,
+      "word": "刘恺威带小糯米外出",
+      "onboard_time": 1689557789,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1908118,
       "num": 1908118,
@@ -17,6 +33,14 @@
       "onboard_time": 1689517778,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1463864,
+      "num": 1463864,
+      "word": "喂小鸟千万不要穿洞洞鞋",
+      "onboard_time": 1689553772,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1401648,
@@ -43,12 +67,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1055114,
+      "num": 1055114,
+      "word": "读书多的女生可以多有气质",
+      "onboard_time": 1689555392,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 958220,
       "num": 958220,
       "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
       "onboard_time": 1689519578,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899077,
+      "num": 805694,
+      "word": "国内多个城市在TikTok爆火",
+      "onboard_time": 1689551006,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 808225,
+      "num": 808225,
+      "word": "玖月晞破防的原因",
+      "onboard_time": 1689555571,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 791288,
+      "num": 791288,
+      "word": "邓超Angelababy同框合影",
+      "onboard_time": 1689550468,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 745448,
+      "num": 330205,
+      "word": "长得像王鹤棣的猴子",
+      "onboard_time": 1689549622,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 666594,
@@ -73,6 +137,14 @@
       "onboard_time": 1689503253,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 596378,
+      "num": 596378,
+      "word": "原来天生白更不容易晒黑",
+      "onboard_time": 1689553653,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 579872,
@@ -115,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534637,
+      "num": 534637,
+      "word": "陈妍希首档乡村振兴综艺",
+      "onboard_time": 1689553772,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532745,
       "num": 285169,
       "word": "在飞机上看下雨",
@@ -124,7 +204,7 @@
     },
     {
       "raw_hot": 524523,
-      "num": 230477,
+      "num": 316725,
       "word": "对冷暴力最好的回应方式",
       "onboard_time": 1689548600,
       "rank": 20,
@@ -139,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512128,
+      "num": 328432,
+      "word": "丁墨",
+      "onboard_time": 1689557968,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473122,
       "num": 394557,
       "word": "G社拍的宋轶",
       "onboard_time": 1689519158,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 468527,
+      "num": 468527,
+      "word": "女子海滩游玩捡到带针头针管",
+      "onboard_time": 1689555571,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456010,
@@ -171,12 +267,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443028,
+      "num": 443028,
+      "word": "当代大学生是懂晒被子的",
+      "onboard_time": 1689555449,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 439536,
       "num": 439536,
       "word": "男子吃见手青中毒以为自己是奥特曼",
       "onboard_time": 1689520779,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433129,
+      "num": 326885,
+      "word": "为何提前还房贷不是想还就还",
+      "onboard_time": 1689556587,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 430740,
+      "num": 324721,
+      "word": "魏大勋爸爸对魏大勋青春期的要求",
+      "onboard_time": 1689556949,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 429973,
+      "num": 322351,
+      "word": "喝了一周的绿豆汤竟然上火了",
+      "onboard_time": 1689550283,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 411248,
@@ -195,12 +323,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396337,
-      "num": 396337,
-      "word": "玖月晞",
-      "onboard_time": 1689550045,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 400604,
+      "num": 400604,
+      "word": "EDG更换首发中单",
+      "onboard_time": 1689552090,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 397940,
+      "num": 320126,
+      "word": "seventeen公司换美工了",
+      "onboard_time": 1689557848,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 380966,
+      "num": 318641,
+      "word": "月薪一万在福建够花吗",
+      "onboard_time": 1689554972,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 379196,
+      "num": 379196,
+      "word": "我只害怕我爱你作者发文",
+      "onboard_time": 1689549803,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359698,
@@ -219,12 +371,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348942,
+      "num": 348942,
+      "word": "中国女排3人入围世联赛最佳阵容",
+      "onboard_time": 1689556051,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336300,
       "num": 336300,
       "word": "消防员就应该拍成这样",
       "onboard_time": 1689541873,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330605,
+      "num": 330605,
+      "word": "Angelababy金宇彬A妹加菲抖森同框",
+      "onboard_time": 1689551006,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 316324,
+      "num": 316324,
+      "word": "婚礼酒席被妈妈发朋友圈吐槽了",
+      "onboard_time": 1689550283,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 313363,
@@ -249,6 +425,30 @@
       "onboard_time": 1689520956,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288322,
+      "num": 288322,
+      "word": "泰利",
+      "onboard_time": 1689557489,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286142,
+      "num": 286142,
+      "word": "尘缘海外评分9.3",
+      "onboard_time": 1689557251,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 283404,
+      "num": 283404,
+      "word": "买甲片不小心买错型号了",
+      "onboard_time": 1689551488,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 282277,
@@ -315,12 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248804,
-      "num": 248804,
-      "word": "长得像王鹤棣的猴子",
-      "onboard_time": 1689549622,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 243005,
+      "num": 243005,
+      "word": "中国女排世联赛亚军",
+      "onboard_time": 1689553410,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 241606,
@@ -331,12 +531,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241526,
+      "num": 241526,
+      "word": "迪丽热巴灵动的演技",
+      "onboard_time": 1689558328,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241348,
+      "num": 241348,
+      "word": "Angelababy最新外网生图",
+      "onboard_time": 1689555093,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239406,
       "num": 239406,
       "word": "普京称乌军反攻没有成功",
       "onboard_time": 1689520835,
       "rank": 29,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 230459,
+      "num": 230459,
+      "word": "折了一只我的猫陪我上班",
+      "onboard_time": 1689553712,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 225810,
@@ -363,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212048,
-      "num": 169964,
-      "word": "婚礼酒席被妈妈发朋友圈吐槽了",
-      "onboard_time": 1689550283,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210350,
       "num": 210350,
       "word": "沈腾模仿孟宴臣名台词",
@@ -387,6 +603,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207410,
+      "num": 207410,
+      "word": "崔智秀李彩领申有娜人呢",
+      "onboard_time": 1689558269,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 201515,
+      "num": 201515,
+      "word": "三只熊猫打架现场有多混乱",
+      "onboard_time": 1689552452,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 199414,
+      "num": 199414,
+      "word": "台风泰利影响深圳",
+      "onboard_time": 1689554611,
+      "rank": 43,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 198571,
       "num": 198571,
       "word": "阿尔卡拉斯夺温网男单冠军",
@@ -401,6 +641,30 @@
       "onboard_time": 1689521618,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194801,
+      "num": 194801,
+      "word": "瓦尔加斯",
+      "onboard_time": 1689557848,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191950,
+      "num": 191950,
+      "word": "原来童话里的家庭真的存在",
+      "onboard_time": 1689558811,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 191077,
+      "num": 191077,
+      "word": "大学女生对高中女生的建议",
+      "onboard_time": 1689554792,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 190571,
@@ -427,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176652,
-      "num": 176652,
-      "word": "我只害怕我爱你作者发文",
-      "onboard_time": 1689549803,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 178292,
+      "num": 178292,
+      "word": "男子走4公里帮走失男孩找妈妈",
+      "onboard_time": 1689558927,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 174782,
@@ -443,12 +707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171800,
+      "num": 171800,
+      "word": "原来一会也可以是10800年",
+      "onboard_time": 1689553712,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171256,
       "num": 171256,
       "word": "斗破决战云岚开播",
       "onboard_time": 1689549322,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 169993,
+      "num": 169993,
+      "word": "薛之谦说承蒙关照新歌念",
+      "onboard_time": 1689555331,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 168999,
@@ -465,14 +745,6 @@
       "onboard_time": 1689516276,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167201,
-      "num": 167201,
-      "word": "喝了一周的绿豆汤竟然上火了",
-      "onboard_time": 1689550283,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 160811,
@@ -635,8 +907,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61702,
-      "num": 1062579,
+      "raw_hot": 71274,
+      "num": 1085309,
       "word": "第2架国产C919入列",
       "onboard_time": 1689512914,
       "rank": 2,
