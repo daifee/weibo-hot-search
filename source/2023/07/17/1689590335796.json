@@ -1,0 +1,410 @@
+{
+  "runTime": 1689590335796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1713144,
+        "num": 1713144,
+        "word": "小红书崩了",
+        "onboard_time": 1689584492,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 708407,
+        "num": 1331233,
+        "word": "丫丫吃的笋笋套着竹篓",
+        "onboard_time": 1689587192,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26010,
+        "num": 1057798,
+        "word": "新疆草原万马奔腾大片既视感",
+        "onboard_time": 1689575490,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998205,
+        "num": 998205,
+        "word": "这才是中国最没存在感的省",
+        "onboard_time": 1689581191,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268778,
+        "num": 786399,
+        "word": "2游客驾车掉进水库民警7分钟救出",
+        "onboard_time": 1689587431,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 735943,
+        "num": 735943,
+        "word": "雪王又又又黑了",
+        "onboard_time": 1689584853,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173102,
+        "num": 711451,
+        "word": "杭州城市新中心规划出新地标新高度",
+        "onboard_time": 1689587431,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704819,
+        "num": 704819,
+        "word": "连霍高速发生车祸已致8死6重伤",
+        "onboard_time": 1689584673,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473955,
+        "num": 473955,
+        "word": "韩国幽灵儿童事件",
+        "onboard_time": 1689570396,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402614,
+        "num": 402614,
+        "word": "肖战出席玉骨遥大结局点映礼",
+        "onboard_time": 1689583593,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1218309,
+        "num": 402600,
+        "word": "深圳已做好停工停课准备",
+        "onboard_time": 1689573089,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1030293,
+        "num": 402569,
+        "word": "宛瑜要的自由vs许沁要的自由",
+        "onboard_time": 1689587374,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 905006,
+        "num": 402562,
+        "word": "姚笛最新状态",
+        "onboard_time": 1689581371,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765045,
+        "num": 402529,
+        "word": "难听",
+        "onboard_time": 1689586951,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400635,
+        "num": 402501,
+        "word": "做自己的光吃瓜大会",
+        "onboard_time": 1689588451,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650200,
+        "num": 402498,
+        "word": "狗头萝莉回应卖煎饼数次被举报",
+        "onboard_time": 1689582753,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 402477,
+        "num": 402477,
+        "word": "回不去的奔跑吧兄弟",
+        "onboard_time": 1689580653,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374548,
+        "num": 374548,
+        "word": "抖音珠宝商退货率90%",
+        "onboard_time": 1689590189,
+        "rank": 17,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 374492,
+        "num": 374492,
+        "word": "程靖淇上恋综",
+        "onboard_time": 1689584133,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360759,
+        "num": 360759,
+        "word": "玖月晞 我没抄袭",
+        "onboard_time": 1689563371,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 810798,
+        "num": 360498,
+        "word": "茉酸奶又一次劝退了我",
+        "onboard_time": 1689588151,
+        "rank": 20,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 755750,
+        "num": 360327,
+        "word": "公公杀害儿媳抛尸二审维持死刑",
+        "onboard_time": 1689577892,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359764,
+        "num": 359764,
+        "word": "普通人住别墅的真实感受",
+        "onboard_time": 1689585331,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352280,
+        "num": 352280,
+        "word": "他的健身卡应该明天到期吧",
+        "onboard_time": 1689583898,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304730,
+        "num": 304730,
+        "word": "刘宇宁第一部现代男主剧",
+        "onboard_time": 1689579452,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266331,
+        "num": 266331,
+        "word": "长大才知道打碎盘子不是大事",
+        "onboard_time": 1689583172,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 243043,
+        "num": 243043,
+        "word": "超能一家人",
+        "onboard_time": 1689589291,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221747,
+        "num": 221747,
+        "word": "睡觉姿势引起的耻骨肌发炎",
+        "onboard_time": 1689577230,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220386,
+        "num": 220386,
+        "word": "台风天符合条件员工可拒绝上班",
+        "onboard_time": 1689576091,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219132,
+        "num": 219132,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1689572671,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355235,
+        "num": 218971,
+        "word": "女子因家中陌生手环发现床下藏摄像头",
+        "onboard_time": 1689589830,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273796,
+        "num": 218842,
+        "word": "原来任思雨没怀孕",
+        "onboard_time": 1689589771,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217418,
+        "num": 217418,
+        "word": "玉骨遥点映礼",
+        "onboard_time": 1689584311,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214247,
+        "num": 214247,
+        "word": "去漂流一定记得要穿黑衣服",
+        "onboard_time": 1689578312,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211122,
+        "num": 211122,
+        "word": "NCTDREAM回归新歌ISTJ",
+        "onboard_time": 1689586353,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205724,
+        "num": 205724,
+        "word": "12岁男孩为捡鞋子不慎落水溺亡",
+        "onboard_time": 1689579930,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194051,
+        "num": 203544,
+        "word": "肖战迪丽热巴或将合作",
+        "onboard_time": 1689571530,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168715,
+        "num": 200199,
+        "word": "丫丫vlog上新",
+        "onboard_time": 1689585331,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166203,
+        "num": 198767,
+        "word": "起猛了看见奥特曼穿袈裟",
+        "onboard_time": 1689585874,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163128,
+        "num": 195334,
+        "word": "手机品牌为何扎堆绿色",
+        "onboard_time": 1689582992,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162388,
+        "num": 193383,
+        "word": "这真的不是那英吗",
+        "onboard_time": 1689583352,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161717,
+        "num": 189278,
+        "word": "深圳台风",
+        "onboard_time": 1689582571,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157742,
+        "num": 187546,
+        "word": "女子看监控发现男友虐狗果断分手",
+        "onboard_time": 1689590253,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148872,
+        "num": 184133,
+        "word": "给猫咪做了个房子",
+        "onboard_time": 1689590309,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147482,
+        "num": 182418,
+        "word": "张子豪正式官宣签约龙韬娱乐",
+        "onboard_time": 1689582332,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147466,
+        "num": 179799,
+        "word": "杨澄醋了他醋了",
+        "onboard_time": 1689579452,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147409,
+        "num": 177652,
+        "word": "王宝强cue陈永胜史彭元回应cp感",
+        "onboard_time": 1689587553,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143108,
+        "num": 174313,
+        "word": "夏日蒜汁排骨",
+        "onboard_time": 1689588692,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140847,
+        "num": 169947,
+        "word": "玖月晞知道自己在反驳什么吗",
+        "onboard_time": 1689571230,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137768,
+        "num": 167974,
+        "word": "伊能静回应媒体对儿子的报道",
+        "onboard_time": 1689579210,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国制造未来将继续奔跑起飞#"
+    }
+  }
+}
