@@ -1,0 +1,410 @@
+{
+  "runTime": 1689563192450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1537455,
+        "num": 1537455,
+        "word": "现在的小区名越来越敢起了",
+        "onboard_time": 1689561331,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1255870,
+        "num": 1255870,
+        "word": "玖月晞破防的原因",
+        "onboard_time": 1689555571,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34337,
+        "num": 1083267,
+        "word": "第2架国产C919入列",
+        "onboard_time": 1689512914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044854,
+        "num": 1044854,
+        "word": "喂小鸟千万不要穿洞洞鞋",
+        "onboard_time": 1689553772,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 941058,
+        "num": 941058,
+        "word": "广西一17岁少年发现新物种",
+        "onboard_time": 1689559411,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824243,
+        "num": 824243,
+        "word": "丁墨",
+        "onboard_time": 1689557968,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 722977,
+        "num": 722977,
+        "word": "楼外楼",
+        "onboard_time": 1689560969,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 718554,
+        "num": 718554,
+        "word": "国内多个城市在TikTok爆火",
+        "onboard_time": 1689551006,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 635924,
+        "num": 635924,
+        "word": "读书多的女生可以多有气质",
+        "onboard_time": 1689555392,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559190,
+        "num": 559190,
+        "word": "邓超Angelababy同框合影",
+        "onboard_time": 1689550468,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1853823,
+        "num": 557581,
+        "word": "刘恺威带小糯米外出",
+        "onboard_time": 1689557789,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1491516,
+        "num": 546980,
+        "word": "玖月晞",
+        "onboard_time": 1689550045,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 591795,
+        "num": 544639,
+        "word": "健身房回应女子更衣室换衣10岁男孩两次闯入",
+        "onboard_time": 1689560308,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524295,
+        "num": 524295,
+        "word": "A股",
+        "onboard_time": 1689561268,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 438188,
+        "num": 438188,
+        "word": "长相思",
+        "onboard_time": 1689561931,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421933,
+        "num": 421933,
+        "word": "上半年我国GDP593034亿元",
+        "onboard_time": 1689560728,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 420001,
+        "num": 420001,
+        "word": "薛之谦演唱会烟花放了7分17秒",
+        "onboard_time": 1689561990,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 385289,
+        "num": 385289,
+        "word": "原来魏大勋说的都是真的",
+        "onboard_time": 1689518203,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348402,
+        "num": 348402,
+        "word": "迪丽热巴灵动的演技",
+        "onboard_time": 1689558328,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325882,
+        "num": 325882,
+        "word": "为何提前还房贷不是想还就还",
+        "onboard_time": 1689556587,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 436822,
+        "num": 325661,
+        "word": "男子深夜回家发现小区门禁在自己输密码",
+        "onboard_time": 1689561449,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427095,
+        "num": 323529,
+        "word": "高速事故后妻子怒吼劝离犹豫丈夫",
+        "onboard_time": 1689562228,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419237,
+        "num": 322402,
+        "word": "茉莉美式",
+        "onboard_time": 1689561268,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390830,
+        "num": 321751,
+        "word": "18到26岁是个混乱的年龄段",
+        "onboard_time": 1689559108,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336818,
+        "num": 320714,
+        "word": "魏大勋爸爸对魏大勋青春期的要求",
+        "onboard_time": 1689556949,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330671,
+        "num": 319436,
+        "word": "seventeen公司换美工了",
+        "onboard_time": 1689557848,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318203,
+        "num": 318203,
+        "word": "当代大学生是懂晒被子的",
+        "onboard_time": 1689555449,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314502,
+        "num": 314502,
+        "word": "秦川暴扣杨澄",
+        "onboard_time": 1689560790,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300397,
+        "num": 300397,
+        "word": "Angelababy金宇彬A妹加菲抖森同框",
+        "onboard_time": 1689551006,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 295183,
+        "num": 295183,
+        "word": "我只害怕我爱你作者发文",
+        "onboard_time": 1689549803,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291064,
+        "num": 291064,
+        "word": "喝了一周的绿豆汤竟然上火了",
+        "onboard_time": 1689550283,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272799,
+        "num": 272799,
+        "word": "EDG更换首发中单",
+        "onboard_time": 1689552090,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270880,
+        "num": 270880,
+        "word": "湖北一男子众目睽睽下强吻女子",
+        "onboard_time": 1689559529,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264475,
+        "num": 264475,
+        "word": "崔智秀李彩领申有娜人呢",
+        "onboard_time": 1689558269,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259398,
+        "num": 259398,
+        "word": "宋焰许沁废墟额头吻",
+        "onboard_time": 1689560427,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246896,
+        "num": 246896,
+        "word": "乌媒称克里米亚大桥传出爆炸声",
+        "onboard_time": 1689560548,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230199,
+        "num": 230199,
+        "word": "对冷暴力最好的回应方式",
+        "onboard_time": 1689548600,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219962,
+        "num": 219962,
+        "word": "薛之谦念写给陪自己重生的人",
+        "onboard_time": 1689559349,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218182,
+        "num": 218182,
+        "word": "嘴巴很紧的人们的特征",
+        "onboard_time": 1689563010,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207354,
+        "num": 207354,
+        "word": "拜登政府宣布取消390亿美元学生贷款债务",
+        "onboard_time": 1689523711,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 207241,
+        "num": 207241,
+        "word": "原来童话里的家庭真的存在",
+        "onboard_time": 1689558811,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147461,
+        "num": 207186,
+        "word": "世界表情包日",
+        "onboard_time": 1689559228,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207167,
+        "num": 207167,
+        "word": "台风",
+        "onboard_time": 1689549563,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207161,
+        "num": 207161,
+        "word": "我只害怕我爱你",
+        "onboard_time": 1689562651,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206905,
+        "num": 206905,
+        "word": "中国女排3人入围世联赛最佳阵容",
+        "onboard_time": 1689556051,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201604,
+        "num": 201604,
+        "word": "谢乔杨澄说话最多的一次",
+        "onboard_time": 1689562531,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200949,
+        "num": 200949,
+        "word": "现代社会最惨绝人寰的酷刑",
+        "onboard_time": 1689562891,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196740,
+        "num": 196740,
+        "word": "女子海滩游玩捡到带针头针管",
+        "onboard_time": 1689555571,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196445,
+        "num": 196445,
+        "word": "2023上半年经济数据",
+        "onboard_time": 1689560009,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 192351,
+        "num": 192351,
+        "word": "王鹤棣工作室是懂我们想看什么的",
+        "onboard_time": 1689560129,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动网信事业高质量发展#"
+    }
+  }
+}

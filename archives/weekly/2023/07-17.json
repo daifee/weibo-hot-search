@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689560380640,
+  "endTime": 1689563192450,
   "band_list": [
     {
       "raw_hot": 2732474,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2170887,
-      "num": 468682,
+      "num": 557581,
       "word": "刘恺威带小糯米外出",
       "onboard_time": 1689557789,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1537455,
+      "num": 1537455,
+      "word": "现在的小区名越来越敢起了",
+      "onboard_time": 1689561331,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1463864,
       "num": 1463864,
       "word": "喂小鸟千万不要穿洞洞鞋",
@@ -49,6 +57,14 @@
       "onboard_time": 1689518203,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1255870,
+      "num": 1255870,
+      "word": "玖月晞破防的原因",
+      "onboard_time": 1689555571,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1097042,
@@ -75,19 +91,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 966945,
-      "num": 966945,
-      "word": "玖月晞破防的原因",
-      "onboard_time": 1689555571,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 958220,
       "num": 958220,
       "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
       "onboard_time": 1689519578,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 941058,
+      "num": 941058,
+      "word": "广西一17岁少年发现新物种",
+      "onboard_time": 1689559411,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -97,6 +113,14 @@
       "onboard_time": 1689551006,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 824243,
+      "num": 824243,
+      "word": "丁墨",
+      "onboard_time": 1689557968,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 791288,
@@ -115,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 722977,
+      "num": 722977,
+      "word": "楼外楼",
+      "onboard_time": 1689560969,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 666594,
       "num": 666594,
       "word": "赵丽颖魏大勋一起拍过MV",
@@ -131,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 641678,
-      "num": 328432,
-      "word": "丁墨",
-      "onboard_time": 1689557968,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 625905,
       "num": 625905,
       "word": "薛之谦新歌念",
@@ -153,6 +177,14 @@
       "onboard_time": 1689553653,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 591795,
+      "num": 544639,
+      "word": "健身房回应女子更衣室换衣10岁男孩两次闯入",
+      "onboard_time": 1689560308,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579872,
@@ -225,6 +257,14 @@
       "onboard_time": 1689548600,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524295,
+      "num": 524295,
+      "word": "A股",
+      "onboard_time": 1689561268,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 523112,
@@ -307,11 +347,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434992,
-      "num": 366839,
-      "word": "广西一17岁少年发现新物种",
-      "onboard_time": 1689559411,
-      "rank": 13,
+      "raw_hot": 438188,
+      "num": 438188,
+      "word": "长相思",
+      "onboard_time": 1689561931,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 436822,
+      "num": 325661,
+      "word": "男子深夜回家发现小区门禁在自己输密码",
+      "onboard_time": 1689561449,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -337,6 +385,38 @@
       "onboard_time": 1689550283,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 427095,
+      "num": 323529,
+      "word": "高速事故后妻子怒吼劝离犹豫丈夫",
+      "onboard_time": 1689562228,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421933,
+      "num": 421933,
+      "word": "上半年我国GDP593034亿元",
+      "onboard_time": 1689560728,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 420001,
+      "num": 420001,
+      "word": "薛之谦演唱会烟花放了7分17秒",
+      "onboard_time": 1689561990,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 419237,
+      "num": 322402,
+      "word": "茉莉美式",
+      "onboard_time": 1689561268,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 411248,
@@ -403,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348402,
+      "num": 348402,
+      "word": "迪丽热巴灵动的演技",
+      "onboard_time": 1689558328,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338704,
       "num": 338704,
       "word": "Angelababy金宇彬A妹加菲抖森同框",
@@ -427,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314502,
+      "num": 314502,
+      "word": "秦川暴扣杨澄",
+      "onboard_time": 1689560790,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313363,
       "num": 313363,
       "word": "EDG击败BLG夺冠",
@@ -441,14 +537,6 @@
       "onboard_time": 1689522334,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306777,
-      "num": 306777,
-      "word": "迪丽热巴灵动的演技",
-      "onboard_time": 1689558328,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 289853,
@@ -539,6 +627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264475,
+      "num": 264475,
+      "word": "崔智秀李彩领申有娜人呢",
+      "onboard_time": 1689558269,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 259398,
+      "num": 259398,
+      "word": "宋焰许沁废墟额头吻",
+      "onboard_time": 1689560427,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256687,
       "num": 256687,
       "word": "嘉善暴雨",
@@ -555,20 +659,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249746,
-      "num": 249746,
-      "word": "崔智秀李彩领申有娜人呢",
-      "onboard_time": 1689558269,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 249549,
       "num": 249549,
       "word": "肖战一滴泪镜头",
       "onboard_time": 1689523889,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246896,
+      "num": 246896,
+      "word": "乌媒称克里米亚大桥传出爆炸声",
+      "onboard_time": 1689560548,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243005,
@@ -627,6 +731,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 218182,
+      "num": 218182,
+      "word": "嘴巴很紧的人们的特征",
+      "onboard_time": 1689563010,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 216166,
       "num": 216166,
       "word": "张艺兴 我有一个特大的爆炸消息马上发布",
@@ -667,20 +779,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207161,
+      "num": 207161,
+      "word": "我只害怕我爱你",
+      "onboard_time": 1689562651,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205064,
       "num": 205064,
       "word": "薛之谦说承蒙关照新歌念",
       "onboard_time": 1689555331,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204150,
-      "num": 204150,
-      "word": "健身房回应女子更衣室换衣10岁男孩两次闯入",
-      "onboard_time": 1689560308,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203581,
@@ -691,12 +803,28 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 201604,
+      "num": 201604,
+      "word": "谢乔杨澄说话最多的一次",
+      "onboard_time": 1689562531,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201515,
       "num": 201515,
       "word": "三只熊猫打架现场有多混乱",
       "onboard_time": 1689552452,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200949,
+      "num": 200949,
+      "word": "现代社会最惨绝人寰的酷刑",
+      "onboard_time": 1689562891,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 198571,
@@ -843,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147461,
+      "num": 364809,
+      "word": "世界表情包日",
+      "onboard_time": 1689559228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144185,
       "num": 97269,
       "word": "爱是无法降级处理的",
@@ -921,14 +1057,6 @@
       "onboard_time": 1689529937,
       "rank": 22,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 101528,
-      "num": 364809,
-      "word": "世界表情包日",
-      "onboard_time": 1689559228,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86738,
