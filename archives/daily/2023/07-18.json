@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689633239794,
+  "endTime": 1689635879364,
   "band_list": [
     {
       "raw_hot": 1681615,
@@ -9,6 +9,14 @@
       "onboard_time": 1689609152,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1457778,
+      "num": 250358,
+      "word": "人民文娱评蔡依林线上首唱会",
+      "onboard_time": 1689606033,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1218568,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 907811,
+      "num": 907811,
+      "word": "台风",
+      "onboard_time": 1689607055,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880352,
       "num": 880352,
       "word": "B太和市场局局长一起逛市场",
@@ -67,20 +83,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 564440,
-      "num": 250358,
-      "word": "人民文娱评蔡依林线上首唱会",
-      "onboard_time": 1689606033,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 563316,
       "num": 563316,
       "word": "十年果粉首次换到安卓是种什么体验",
       "onboard_time": 1689605796,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 546111,
+      "num": 546111,
+      "word": "恒大集团负债总额2.58万亿",
+      "onboard_time": 1689634940,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 518787,
@@ -105,14 +121,6 @@
       "onboard_time": 1689598172,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 438413,
-      "num": 438413,
-      "word": "台风",
-      "onboard_time": 1689607055,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366989,
@@ -227,12 +235,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250010,
+      "num": 218644,
+      "word": "文咏珊上身下身两种季节",
+      "onboard_time": 1689598774,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 246912,
       "num": 246912,
       "word": "黄仁俊中输",
       "onboard_time": 1689607294,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236979,
+      "num": 123770,
+      "word": "女子无痕撤回一坨冰淇淋",
+      "onboard_time": 1689634940,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229474,
+      "num": 229474,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 227107,
@@ -249,6 +281,14 @@
       "onboard_time": 1689595953,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224196,
+      "num": 224196,
+      "word": "李雪琴 她太懂内心敏感的人的痛",
+      "onboard_time": 1689618255,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 219303,
@@ -275,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179380,
-      "num": 218644,
-      "word": "文咏珊上身下身两种季节",
-      "onboard_time": 1689598774,
-      "rank": 35,
-      "category": "作品衍生,时尚"
+      "raw_hot": 174178,
+      "num": 218620,
+      "word": "女子跳绳致肾结石掉下卡在输尿管",
+      "onboard_time": 1689595234,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173924,
@@ -305,22 +345,6 @@
       "onboard_time": 1689604235,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159242,
-      "num": 104261,
-      "word": "李雪琴 她太懂内心敏感的人的痛",
-      "onboard_time": 1689618255,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 153213,
-      "num": 218620,
-      "word": "女子跳绳致肾结石掉下卡在输尿管",
-      "onboard_time": 1689595234,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150588,
@@ -379,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135943,
+      "num": 135943,
+      "word": "杨彤我的人间烟火演技",
+      "onboard_time": 1689627432,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132603,
       "num": 218552,
       "word": "当家里的猫喜欢喝流动的水",
@@ -403,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124148,
+      "num": 124148,
+      "word": "谢乔承认喜欢秦川",
+      "onboard_time": 1689633137,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123373,
       "num": 126385,
       "word": "台风泰利六点须知",
@@ -411,7 +451,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121068,
+      "raw_hot": 123242,
       "num": 218545,
       "word": "肠胃真的是情绪器官",
       "onboard_time": 1689597874,
@@ -427,20 +467,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115902,
-      "num": 115902,
-      "word": "杨彤我的人间烟火演技",
-      "onboard_time": 1689627432,
-      "rank": 35,
+      "raw_hot": 116450,
+      "num": 116450,
+      "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
+      "onboard_time": 1689619515,
+      "rank": 15,
       "category": "影视"
     },
     {
-      "raw_hot": 101066,
-      "num": 101662,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 115369,
+      "num": 115369,
+      "word": "这条高速变西瓜味了",
+      "onboard_time": 1689634639,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108425,
+      "num": 108425,
+      "word": "雨后杭州出现巨型彩虹",
+      "onboard_time": 1689626892,
+      "rank": 45,
+      "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 105621,
+      "num": 105621,
+      "word": "乘风成团名单",
+      "onboard_time": 1689635723,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 97962,
@@ -459,36 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67718,
-      "num": 100346,
-      "word": "雨后杭州出现巨型彩虹",
-      "onboard_time": 1689626892,
-      "rank": 45,
-      "category": "自然,社会新闻"
+      "raw_hot": 80574,
+      "num": 102225,
+      "word": "这个学校不能没有李主任",
+      "onboard_time": 1689628511,
+      "rank": 47,
+      "category": "影视"
     },
     {
-      "raw_hot": 64010,
+      "raw_hot": 69387,
       "num": 125893,
       "word": "姚笛最新状态",
       "onboard_time": 1689581371,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63015,
-      "num": 101036,
-      "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
-      "onboard_time": 1689619515,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 58343,
-      "num": 100503,
-      "word": "这个学校不能没有李主任",
-      "onboard_time": 1689628511,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 43412,
@@ -507,28 +547,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 31199,
+      "num": 889147,
+      "word": "沉湖湿地生态修复变身鸟类天堂",
+      "onboard_time": 1689600512,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29527,
       "num": 36578,
       "word": "怎么做到的自信",
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 27314,
-      "num": 98914,
-      "word": "谢乔承认喜欢秦川",
-      "onboard_time": 1689633137,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 27275,
-      "num": 889147,
-      "word": "沉湖湿地生态修复变身鸟类天堂",
-      "onboard_time": 1689600512,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23385,

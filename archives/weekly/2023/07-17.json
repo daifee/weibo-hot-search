@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689633239794,
+  "endTime": 1689635879364,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -161,6 +161,14 @@
       "onboard_time": 1689553772,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1457778,
+      "num": 331040,
+      "word": "人民文娱评蔡依林线上首唱会",
+      "onboard_time": 1689606033,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1456587,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 907811,
+      "num": 907811,
+      "word": "台风",
+      "onboard_time": 1689549563,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 899077,
       "num": 805694,
       "word": "国内多个城市在TikTok爆火",
@@ -579,14 +595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 729674,
-      "num": 577569,
-      "word": "台风",
-      "onboard_time": 1689549563,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 727554,
       "num": 445097,
       "word": "中国科学院简称中国科学院",
@@ -625,14 +633,6 @@
       "onboard_time": 1689599072,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 700901,
-      "num": 331040,
-      "word": "人民文娱评蔡依林线上首唱会",
-      "onboard_time": 1689606033,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 697108,
@@ -889,6 +889,14 @@
       "onboard_time": 1689563252,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546111,
+      "num": 546111,
+      "word": "恒大集团负债总额2.58万亿",
+      "onboard_time": 1689634940,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 543645,
@@ -2099,6 +2107,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 236979,
+      "num": 123770,
+      "word": "女子无痕撤回一坨冰淇淋",
+      "onboard_time": 1689634940,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235277,
       "num": 235277,
       "word": "王鹤棣网络侵权案进展说明",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1689553712,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229474,
+      "num": 229474,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228801,
@@ -2177,6 +2201,14 @@
       "onboard_time": 1689593430,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224196,
+      "num": 224196,
+      "word": "李雪琴 她太懂内心敏感的人的痛",
+      "onboard_time": 1689618255,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 222927,
@@ -2667,14 +2699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159242,
-      "num": 104261,
-      "word": "李雪琴 她太懂内心敏感的人的痛",
-      "onboard_time": 1689618255,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157430,
       "num": 157430,
       "word": "第一次见带滑盖的眼睛",
@@ -2763,6 +2787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135943,
+      "num": 135943,
+      "word": "杨彤我的人间烟火演技",
+      "onboard_time": 1689627432,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132603,
       "num": 218552,
       "word": "当家里的猫喜欢喝流动的水",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1689611184,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124148,
+      "num": 124148,
+      "word": "谢乔承认喜欢秦川",
+      "onboard_time": 1689633137,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 123373,
@@ -2827,11 +2867,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115902,
-      "num": 115902,
-      "word": "杨彤我的人间烟火演技",
-      "onboard_time": 1689627432,
-      "rank": 35,
+      "raw_hot": 116450,
+      "num": 116450,
+      "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
+      "onboard_time": 1689619515,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -2841,6 +2881,14 @@
       "onboard_time": 1689590850,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115369,
+      "num": 115369,
+      "word": "这条高速变西瓜味了",
+      "onboard_time": 1689634639,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115231,
@@ -2875,6 +2923,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 108425,
+      "num": 108425,
+      "word": "雨后杭州出现巨型彩虹",
+      "onboard_time": 1689626892,
+      "rank": 45,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 107446,
       "num": 268856,
       "word": "夜淘宝正式上线",
@@ -2891,20 +2947,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 105621,
+      "num": 105621,
+      "word": "乘风成团名单",
+      "onboard_time": 1689635723,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103457,
       "num": 482265,
       "word": "藿香味小雪糕有多上头",
       "onboard_time": 1689569553,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 101066,
-      "num": 101662,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 90638,
@@ -2939,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80574,
+      "num": 102225,
+      "word": "这个学校不能没有李主任",
+      "onboard_time": 1689628511,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 80553,
       "num": 62698,
       "word": "蜘蛛在男子睡梦时钻入耳道结网",
@@ -2963,22 +3027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67718,
-      "num": 100346,
-      "word": "雨后杭州出现巨型彩虹",
-      "onboard_time": 1689626892,
-      "rank": 45,
-      "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 63015,
-      "num": 101036,
-      "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
-      "onboard_time": 1689619515,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 62250,
       "num": 929467,
       "word": "沉湖湿地生态修复变身鸟类天堂",
@@ -2993,14 +3041,6 @@
       "onboard_time": 1689575490,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58343,
-      "num": 100503,
-      "word": "这个学校不能没有李主任",
-      "onboard_time": 1689628511,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 54764,
@@ -3073,14 +3113,6 @@
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 27314,
-      "num": 98914,
-      "word": "谢乔承认喜欢秦川",
-      "onboard_time": 1689633137,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 23385,
