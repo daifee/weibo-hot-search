@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689601174758,
+  "endTime": 1689603488294,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1645451,
+      "num": 667144,
+      "word": "微信群发不雅信息3个群内文字不同",
+      "onboard_time": 1689599252,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1489873,
       "num": 1489873,
       "word": "这才是中国最没存在感的省",
@@ -217,6 +225,14 @@
       "onboard_time": 1689564570,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1130820,
+      "num": 498096,
+      "word": "迪丽热巴回应撞脸弼马温",
+      "onboard_time": 1689603338,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1128627,
@@ -315,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 959022,
+      "num": 492965,
+      "word": "魏大勋从真情侣的全世界路过",
+      "onboard_time": 1689602434,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 958220,
       "num": 958220,
       "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
@@ -377,6 +401,14 @@
       "onboard_time": 1689567456,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 857782,
+      "num": 857782,
+      "word": "乘风成团夜",
+      "onboard_time": 1689598172,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 852259,
@@ -451,14 +483,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 778764,
-      "num": 457503,
-      "word": "微信群发不雅信息3个群内文字不同",
-      "onboard_time": 1689599252,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 769461,
       "num": 769461,
       "word": "程靖淇上恋综",
@@ -513,14 +537,6 @@
       "onboard_time": 1689560969,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 715690,
-      "num": 715690,
-      "word": "乘风成团夜",
-      "onboard_time": 1689598172,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 708407,
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 590857,
-      "num": 536712,
+      "num": 565314,
       "word": "优酷第六部热度全天破万剧集",
       "onboard_time": 1689590850,
       "rank": 21,
@@ -683,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 579154,
+      "num": 579154,
+      "word": "安乐传直播",
+      "onboard_time": 1689598774,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 577569,
       "num": 577569,
       "word": "台风",
@@ -707,12 +731,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 565974,
+      "num": 340480,
+      "word": "冷冻西瓜",
+      "onboard_time": 1689599374,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 562547,
       "num": 404935,
       "word": "央视镜头下的王楚然",
       "onboard_time": 1689512733,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 559503,
+      "num": 335623,
+      "word": "发朋友圈习惯私密几天再公开",
+      "onboard_time": 1689603275,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 558478,
@@ -851,28 +891,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 495921,
-      "num": 340480,
-      "word": "冷冻西瓜",
-      "onboard_time": 1689599374,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 495600,
-      "num": 495600,
-      "word": "安乐传直播",
-      "onboard_time": 1689598774,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 493688,
       "num": 333098,
       "word": "18到26岁是个混乱的年龄段",
       "onboard_time": 1689559108,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 488182,
+      "num": 488182,
+      "word": "关晓彤范丞丞请二搭",
+      "onboard_time": 1689600394,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 481599,
@@ -961,6 +993,14 @@
       "onboard_time": 1689549803,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 446983,
+      "num": 446983,
+      "word": "湛江台风",
+      "onboard_time": 1689599494,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443859,
@@ -1155,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386188,
+      "num": 386188,
+      "word": "中国科学院简称中国科学院",
+      "onboard_time": 1689602195,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
@@ -1187,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365498,
+      "num": 271170,
+      "word": "运动员吐槽东京奥运会奖牌2年成废铁",
+      "onboard_time": 1689602555,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364022,
       "num": 332585,
       "word": "小朋友尴尬的撤回了一条消息",
@@ -1217,14 +1273,6 @@
       "onboard_time": 1689512914,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 358263,
-      "num": 358263,
-      "word": "湛江台风",
-      "onboard_time": 1689599494,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357940,
@@ -1299,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350397,
+      "num": 535864,
+      "word": "肠胃真的是情绪器官",
+      "onboard_time": 1689597874,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350092,
       "num": 350092,
       "word": "迪丽热巴怼脸视频",
@@ -1347,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335096,
+      "num": 335096,
+      "word": "安乐传",
+      "onboard_time": 1689598833,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334635,
       "num": 334635,
       "word": "NCTDREAM正规三辑记者会",
@@ -1377,14 +1441,6 @@
       "onboard_time": 1689581492,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 320278,
-      "num": 320278,
-      "word": "关晓彤范丞丞请二搭",
-      "onboard_time": 1689600394,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 320107,
@@ -1451,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312664,
-      "num": 312664,
-      "word": "安乐传",
-      "onboard_time": 1689598833,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 309878,
       "num": 274293,
       "word": "嘴巴很紧的人们的特征",
@@ -1505,14 +1553,6 @@
       "onboard_time": 1689583172,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 302212,
-      "num": 535864,
-      "word": "肠胃真的是情绪器官",
-      "onboard_time": 1689597874,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 294963,
@@ -1779,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251607,
+      "num": 268785,
+      "word": "任贤齐去看兵马俑没挤到跟前",
+      "onboard_time": 1689599193,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249711,
       "num": 249711,
       "word": "家暴题材电影我经过风暴定档",
@@ -1923,14 +1971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227270,
-      "num": 268785,
-      "word": "任贤齐去看兵马俑没挤到跟前",
-      "onboard_time": 1689599193,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225810,
       "num": 225810,
       "word": "温网",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1689595234,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221316,
+      "num": 221316,
+      "word": "杭州馄饨汤如白开水被吐槽",
+      "onboard_time": 1689602253,
+      "rank": 39,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 217588,
@@ -2113,6 +2161,14 @@
       "onboard_time": 1689585331,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205774,
+      "num": 221290,
+      "word": "不能早睡的原因找到了",
+      "onboard_time": 1689602134,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 205488,
@@ -2451,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145240,
+      "num": 221224,
+      "word": "jiejie状态",
+      "onboard_time": 1689603453,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144185,
       "num": 97269,
       "word": "爱是无法降级处理的",
@@ -2619,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62250,
+      "num": 929467,
+      "word": "沉湖湿地生态修复变身鸟类天堂",
+      "onboard_time": 1689600512,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61728,
       "num": 1125077,
       "word": "新疆草原万马奔腾大片既视感",
@@ -2665,14 +2737,6 @@
       "onboard_time": 1689416553,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34085,
-      "num": 929467,
-      "word": "沉湖湿地生态修复变身鸟类天堂",
-      "onboard_time": 1689600512,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32525,
