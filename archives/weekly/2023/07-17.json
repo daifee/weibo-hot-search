@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689635879364,
+  "endTime": 1689636857894,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -147,6 +147,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1494779,
+      "num": 331040,
+      "word": "人民文娱评蔡依林线上首唱会",
+      "onboard_time": 1689606033,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1489873,
       "num": 1489873,
       "word": "这才是中国最没存在感的省",
@@ -163,20 +171,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1457778,
-      "num": 331040,
-      "word": "人民文娱评蔡依林线上首唱会",
-      "onboard_time": 1689606033,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1456587,
       "num": 537414,
       "word": "抖音珠宝商退货率90%",
       "onboard_time": 1689590189,
       "rank": 17,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 1411595,
+      "num": 1411595,
+      "word": "恒大集团负债总额2.58万亿",
+      "onboard_time": 1689634940,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1410378,
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 943995,
+      "num": 943995,
+      "word": "台风",
+      "onboard_time": 1689549563,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942609,
       "num": 942609,
       "word": "29岁女生入职3年月薪涨200元裸辞",
@@ -408,14 +424,6 @@
       "word": "广西一17岁少年发现新物种",
       "onboard_time": 1689559411,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 907811,
-      "num": 907811,
-      "word": "台风",
-      "onboard_time": 1689549563,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -731,6 +739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 625653,
+      "num": 625653,
+      "word": "乘风成团名单",
+      "onboard_time": 1689635723,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624953,
       "num": 624953,
       "word": "王源高远的告白",
@@ -891,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546111,
-      "num": 546111,
-      "word": "恒大集团负债总额2.58万亿",
-      "onboard_time": 1689634940,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
       "raw_hot": 543645,
       "num": 543645,
       "word": "WBG战胜EDG",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1689571230,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 481053,
+      "num": 275849,
+      "word": "女子无痕撤回一坨冰淇淋",
+      "onboard_time": 1689634940,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473563,
@@ -1611,6 +1627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322699,
+      "num": 265000,
+      "word": "22岁女孩体内竟有上千颗肿瘤",
+      "onboard_time": 1689636565,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320107,
       "num": 320107,
       "word": "古天乐张智霖吴镇宇追捕疯批反派",
@@ -2011,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251300,
+      "num": 251300,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249711,
       "num": 249711,
       "word": "家暴题材电影我经过风暴定档",
@@ -2107,14 +2139,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 236979,
-      "num": 123770,
-      "word": "女子无痕撤回一坨冰淇淋",
-      "onboard_time": 1689634940,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235277,
       "num": 235277,
       "word": "王鹤棣网络侵权案进展说明",
@@ -2147,14 +2171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229474,
-      "num": 229474,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 228801,
       "num": 329097,
       "word": "NCTDREAM新歌空降",
@@ -2169,6 +2185,14 @@
       "onboard_time": 1689594031,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227255,
+      "num": 227255,
+      "word": "李雪琴 她太懂内心敏感的人的痛",
+      "onboard_time": 1689618255,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 227107,
@@ -2201,14 +2225,6 @@
       "onboard_time": 1689593430,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224196,
-      "num": 224196,
-      "word": "李雪琴 她太懂内心敏感的人的痛",
-      "onboard_time": 1689618255,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 222927,
@@ -2683,6 +2699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164583,
+      "num": 137677,
+      "word": "这条高速变西瓜味了",
+      "onboard_time": 1689634639,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164079,
       "num": 329011,
       "word": "朴志晟镜头好少",
@@ -2859,20 +2883,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118695,
+      "num": 118695,
+      "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
+      "onboard_time": 1689619515,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118390,
       "num": 139284,
       "word": "自习室有偷知识的贼",
       "onboard_time": 1689517115,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116450,
-      "num": 116450,
-      "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
-      "onboard_time": 1689619515,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 115897,
@@ -2883,12 +2907,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115369,
-      "num": 115369,
-      "word": "这条高速变西瓜味了",
-      "onboard_time": 1689634639,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 115516,
+      "num": 115516,
+      "word": "雨后杭州出现巨型彩虹",
+      "onboard_time": 1689626892,
+      "rank": 45,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 115231,
@@ -2923,14 +2947,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 108425,
-      "num": 108425,
-      "word": "雨后杭州出现巨型彩虹",
-      "onboard_time": 1689626892,
-      "rank": 45,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 107446,
       "num": 268856,
       "word": "夜淘宝正式上线",
@@ -2947,20 +2963,28 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 105621,
-      "num": 105621,
-      "word": "乘风成团名单",
-      "onboard_time": 1689635723,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103457,
       "num": 482265,
       "word": "藿香味小雪糕有多上头",
       "onboard_time": 1689569553,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 101636,
+      "num": 101636,
+      "word": "八角笼中的姐姐是王宝强的亲姐姐",
+      "onboard_time": 1689636445,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 91894,
+      "num": 100025,
+      "word": "浪姐4成团夜青花瓷造型",
+      "onboard_time": 1689636506,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 90638,

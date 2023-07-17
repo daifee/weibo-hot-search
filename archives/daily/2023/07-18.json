@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689635879364,
+  "endTime": 1689636857894,
   "band_list": [
     {
       "raw_hot": 1681615,
@@ -11,12 +11,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 1457778,
-      "num": 250358,
+      "raw_hot": 1494779,
+      "num": 314395,
       "word": "人民文娱评蔡依林线上首唱会",
       "onboard_time": 1689606033,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1411595,
+      "num": 1411595,
+      "word": "恒大集团负债总额2.58万亿",
+      "onboard_time": 1689634940,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1218568,
@@ -51,19 +59,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 943995,
+      "num": 943995,
+      "word": "台风",
+      "onboard_time": 1689607055,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942609,
       "num": 942609,
       "word": "29岁女生入职3年月薪涨200元裸辞",
       "onboard_time": 1689608672,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 907811,
-      "num": 907811,
-      "word": "台风",
-      "onboard_time": 1689607055,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1689607713,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625653,
+      "num": 625653,
+      "word": "乘风成团名单",
+      "onboard_time": 1689635723,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 611605,
@@ -91,14 +107,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 546111,
-      "num": 546111,
-      "word": "恒大集团负债总额2.58万亿",
-      "onboard_time": 1689634940,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
       "raw_hot": 518787,
       "num": 518787,
       "word": "玉骨遥点映礼没有王楚然",
@@ -113,6 +121,14 @@
       "onboard_time": 1689602555,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 481053,
+      "num": 275849,
+      "word": "女子无痕撤回一坨冰淇淋",
+      "onboard_time": 1689634940,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442883,
@@ -163,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322699,
+      "num": 265000,
+      "word": "22岁女孩体内竟有上千颗肿瘤",
+      "onboard_time": 1689636565,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309209,
       "num": 248530,
       "word": "发朋友圈习惯私密几天再公开",
@@ -211,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274015,
+      "num": 218644,
+      "word": "文咏珊上身下身两种季节",
+      "onboard_time": 1689598774,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 270262,
       "num": 270262,
       "word": "林允演技",
@@ -227,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251300,
+      "num": 251300,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 250815,
       "num": 250815,
       "word": "女子因家中陌生手环发现床下藏摄像头",
       "onboard_time": 1689589830,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250010,
-      "num": 218644,
-      "word": "文咏珊上身下身两种季节",
-      "onboard_time": 1689598774,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246912,
@@ -251,20 +283,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 236979,
-      "num": 123770,
-      "word": "女子无痕撤回一坨冰淇淋",
-      "onboard_time": 1689634940,
+      "raw_hot": 227255,
+      "num": 227255,
+      "word": "李雪琴 她太懂内心敏感的人的痛",
+      "onboard_time": 1689618255,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229474,
-      "num": 229474,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
+      "category": "综艺"
     },
     {
       "raw_hot": 227107,
@@ -281,14 +305,6 @@
       "onboard_time": 1689595953,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224196,
-      "num": 224196,
-      "word": "李雪琴 她太懂内心敏感的人的痛",
-      "onboard_time": 1689618255,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 219303,
@@ -315,7 +331,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174178,
+      "raw_hot": 178896,
       "num": 218620,
       "word": "女子跳绳致肾结石掉下卡在输尿管",
       "onboard_time": 1689595234,
@@ -345,6 +361,14 @@
       "onboard_time": 1689604235,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164583,
+      "num": 137677,
+      "word": "这条高速变西瓜味了",
+      "onboard_time": 1689634639,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150588,
@@ -467,36 +491,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116450,
-      "num": 116450,
+      "raw_hot": 118695,
+      "num": 118695,
       "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
       "onboard_time": 1689619515,
       "rank": 15,
       "category": "影视"
     },
     {
-      "raw_hot": 115369,
-      "num": 115369,
-      "word": "这条高速变西瓜味了",
-      "onboard_time": 1689634639,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108425,
-      "num": 108425,
+      "raw_hot": 115516,
+      "num": 115516,
       "word": "雨后杭州出现巨型彩虹",
       "onboard_time": 1689626892,
       "rank": 45,
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 105621,
-      "num": 105621,
-      "word": "乘风成团名单",
-      "onboard_time": 1689635723,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 101636,
+      "num": 101636,
+      "word": "八角笼中的姐姐是王宝强的亲姐姐",
+      "onboard_time": 1689636445,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 97962,
@@ -505,6 +521,14 @@
       "onboard_time": 1689603632,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91894,
+      "num": 100025,
+      "word": "浪姐4成团夜青花瓷造型",
+      "onboard_time": 1689636506,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 90638,
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44593,
+      "num": 889147,
+      "word": "沉湖湿地生态修复变身鸟类天堂",
+      "onboard_time": 1689600512,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43412,
       "num": 43412,
       "word": "选高司令来演芭比的原因",
@@ -545,14 +577,6 @@
       "onboard_time": 1689617356,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 31199,
-      "num": 889147,
-      "word": "沉湖湿地生态修复变身鸟类天堂",
-      "onboard_time": 1689600512,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29527,

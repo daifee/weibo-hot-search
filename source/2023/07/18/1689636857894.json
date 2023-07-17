@@ -1,0 +1,410 @@
+{
+  "runTime": 1689636857894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1411595,
+        "num": 1411595,
+        "word": "恒大集团负债总额2.58万亿",
+        "onboard_time": 1689634940,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 943995,
+        "num": 943995,
+        "word": "台风",
+        "onboard_time": 1689607055,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44593,
+        "num": 807831,
+        "word": "沉湖湿地生态修复变身鸟类天堂",
+        "onboard_time": 1689600512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785141,
+        "num": 785141,
+        "word": "29岁女生入职3年月薪涨200元裸辞",
+        "onboard_time": 1689608672,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625653,
+        "num": 625653,
+        "word": "乘风成团名单",
+        "onboard_time": 1689635723,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463826,
+        "num": 463826,
+        "word": "玉骨遥为什么没爆",
+        "onboard_time": 1689596791,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442780,
+        "num": 442780,
+        "word": "B太和市场局局长一起逛市场",
+        "onboard_time": 1689607713,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390375,
+        "num": 390375,
+        "word": "十年果粉首次换到安卓是种什么体验",
+        "onboard_time": 1689605796,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 341846,
+        "num": 341846,
+        "word": "觉得infp很可怕",
+        "onboard_time": 1689609152,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 322571,
+        "num": 322571,
+        "word": "运动员吐槽东京奥运会奖牌2年成废铁",
+        "onboard_time": 1689602555,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1494779,
+        "num": 314395,
+        "word": "人民文娱评蔡依林线上首唱会",
+        "onboard_time": 1689606033,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729640,
+        "num": 305492,
+        "word": "我的人间烟火 缺德文学",
+        "onboard_time": 1689607591,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 673098,
+        "num": 282201,
+        "word": "迪丽热巴回应撞脸弼马温",
+        "onboard_time": 1689603338,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481053,
+        "num": 275849,
+        "word": "女子无痕撤回一坨冰淇淋",
+        "onboard_time": 1689634940,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322699,
+        "num": 265000,
+        "word": "22岁女孩体内竟有上千颗肿瘤",
+        "onboard_time": 1689636565,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251949,
+        "num": 251949,
+        "word": "外国人说这就是吴京",
+        "onboard_time": 1689606156,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251300,
+        "num": 251300,
+        "word": "张嘉元只看车不看吉娜",
+        "onboard_time": 1689622633,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245076,
+        "num": 245076,
+        "word": "玉骨遥点映礼没有王楚然",
+        "onboard_time": 1689607831,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227255,
+        "num": 227255,
+        "word": "李雪琴 她太懂内心敏感的人的痛",
+        "onboard_time": 1689618255,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204509,
+        "num": 204509,
+        "word": "海关查获10只活体巨人蜈蚣",
+        "onboard_time": 1689590429,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274015,
+        "num": 200614,
+        "word": "文咏珊上身下身两种季节",
+        "onboard_time": 1689598774,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269415,
+        "num": 197111,
+        "word": "榴莲价格跌至全年最低",
+        "onboard_time": 1689604115,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 235600,
+        "num": 188298,
+        "word": "女子连续三年感染同一型HPV",
+        "onboard_time": 1689604235,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208188,
+        "num": 180542,
+        "word": "永远不要觉得尴尬和丢脸",
+        "onboard_time": 1689606513,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178896,
+        "num": 178896,
+        "word": "女子跳绳致肾结石掉下卡在输尿管",
+        "onboard_time": 1689595234,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167100,
+        "num": 167100,
+        "word": "女子因家中陌生手环发现床下藏摄像头",
+        "onboard_time": 1689589830,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152759,
+        "num": 152759,
+        "word": "发朋友圈习惯私密几天再公开",
+        "onboard_time": 1689603275,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142244,
+        "num": 142244,
+        "word": "魏大勋从真情侣的全世界路过",
+        "onboard_time": 1689602434,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141743,
+        "num": 141743,
+        "word": "作者在淘宝买到自己的盗版书",
+        "onboard_time": 1689607831,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139708,
+        "num": 139708,
+        "word": "父辈仇恨射下的箭 十年后正中他的眉心",
+        "onboard_time": 1689608911,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164583,
+        "num": 137677,
+        "word": "这条高速变西瓜味了",
+        "onboard_time": 1689634639,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134781,
+        "num": 134781,
+        "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
+        "onboard_time": 1689595831,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132572,
+        "num": 132572,
+        "word": "刘宇宁穿保安服直播",
+        "onboard_time": 1689613343,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123085,
+        "num": 123085,
+        "word": "肠胃真的是情绪器官",
+        "onboard_time": 1689597874,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118695,
+        "num": 118695,
+        "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
+        "onboard_time": 1689619515,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115516,
+        "num": 115516,
+        "word": "雨后杭州出现巨型彩虹",
+        "onboard_time": 1689626892,
+        "rank": 35,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 114599,
+        "num": 114599,
+        "word": "杨彤我的人间烟火演技",
+        "onboard_time": 1689627432,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113960,
+        "num": 113960,
+        "word": "Uzi不交闪现",
+        "onboard_time": 1689595531,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106097,
+        "num": 106097,
+        "word": "当和你合租的是一群狗狗",
+        "onboard_time": 1689608911,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106057,
+        "num": 106057,
+        "word": "肖战说到做到的自拍",
+        "onboard_time": 1689604235,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101636,
+        "num": 101636,
+        "word": "八角笼中的姐姐是王宝强的亲姐姐",
+        "onboard_time": 1689636445,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100798,
+        "num": 100798,
+        "word": "刘诗诗蓝色长裙好优雅",
+        "onboard_time": 1689599072,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100041,
+        "num": 100041,
+        "word": "公公杀害儿媳抛尸二审维持死刑",
+        "onboard_time": 1689577892,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98130,
+        "num": 100041,
+        "word": "谢乔承认喜欢秦川",
+        "onboard_time": 1689633137,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91894,
+        "num": 100025,
+        "word": "浪姐4成团夜青花瓷造型",
+        "onboard_time": 1689636506,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90283,
+        "num": 100006,
+        "word": "乘风成团夜",
+        "onboard_time": 1689598172,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83767,
+        "num": 100002,
+        "word": "李木戈希望对得起真正看剧的观众",
+        "onboard_time": 1689595953,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78553,
+        "num": 99987,
+        "word": "这个学校不能没有李主任",
+        "onboard_time": 1689628511,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77968,
+        "num": 99973,
+        "word": "玉骨遥大结局",
+        "onboard_time": 1689592292,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76912,
+        "num": 99958,
+        "word": "秦川家破产",
+        "onboard_time": 1689598172,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#东风英名墙让先辈再次看到火箭升空#"
+    }
+  }
+}
