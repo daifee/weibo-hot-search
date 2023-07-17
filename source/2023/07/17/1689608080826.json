@@ -1,0 +1,410 @@
+{
+  "runTime": 1689608080826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449747,
+        "num": 1449747,
+        "word": "玉骨遥为什么没爆",
+        "onboard_time": 1689596791,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1183554,
+        "num": 1183554,
+        "word": "运动员吐槽东京奥运会奖牌2年成废铁",
+        "onboard_time": 1689602555,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41654,
+        "num": 768414,
+        "word": "沉湖湿地生态修复变身鸟类天堂",
+        "onboard_time": 1689600512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1646909,
+        "num": 754647,
+        "word": "微信群发不雅信息3个群内文字不同",
+        "onboard_time": 1689599252,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710220,
+        "num": 710220,
+        "word": "乘风成团夜",
+        "onboard_time": 1689598172,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661649,
+        "num": 661649,
+        "word": "外国人说这就是吴京",
+        "onboard_time": 1689606156,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515250,
+        "num": 515250,
+        "word": "海关查获10只活体巨人蜈蚣",
+        "onboard_time": 1689590429,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434862,
+        "num": 434862,
+        "word": "这才是中国最没存在感的省",
+        "onboard_time": 1689581191,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383421,
+        "num": 383421,
+        "word": "沈月再现非主流拍照",
+        "onboard_time": 1689606273,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367237,
+        "num": 367237,
+        "word": "Uzi不交闪现",
+        "onboard_time": 1689595531,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1700309,
+        "num": 366902,
+        "word": "迪丽热巴回应撞脸弼马温",
+        "onboard_time": 1689603338,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1019293,
+        "num": 364397,
+        "word": "魏大勋从真情侣的全世界路过",
+        "onboard_time": 1689602434,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 602801,
+        "num": 362732,
+        "word": "十年果粉首次换到安卓是种什么体验",
+        "onboard_time": 1689605796,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 587940,
+        "num": 360075,
+        "word": "中国科学院简称中国科学院",
+        "onboard_time": 1689602195,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522352,
+        "num": 356736,
+        "word": "刘诗诗蓝色长裙好优雅",
+        "onboard_time": 1689599072,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 459471,
+        "num": 354787,
+        "word": "魏大勋的心态",
+        "onboard_time": 1689604357,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353940,
+        "num": 353940,
+        "word": "jiejie状态",
+        "onboard_time": 1689603453,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341910,
+        "num": 341910,
+        "word": "林允演技",
+        "onboard_time": 1689606815,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339545,
+        "num": 339545,
+        "word": "女子因家中陌生手环发现床下藏摄像头",
+        "onboard_time": 1689589830,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297009,
+        "num": 335778,
+        "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
+        "onboard_time": 1689595831,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700901,
+        "num": 331040,
+        "word": "人民文娱评蔡依林线上首唱会",
+        "onboard_time": 1689606033,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686998,
+        "num": 326670,
+        "word": "发朋友圈习惯私密几天再公开",
+        "onboard_time": 1689603275,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 660211,
+        "num": 324339,
+        "word": "榴莲价格跌至全年最低",
+        "onboard_time": 1689604115,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 464851,
+        "num": 317220,
+        "word": "永远不要觉得尴尬和丢脸",
+        "onboard_time": 1689606513,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 443079,
+        "num": 313777,
+        "word": "女子连续三年感染同一型HPV",
+        "onboard_time": 1689604235,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439754,
+        "num": 307734,
+        "word": "台风",
+        "onboard_time": 1689607055,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373688,
+        "num": 301890,
+        "word": "黄仁俊中输",
+        "onboard_time": 1689607294,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301125,
+        "num": 301125,
+        "word": "文咏珊上身下身两种季节",
+        "onboard_time": 1689598774,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 299140,
+        "num": 299140,
+        "word": "肖战说到做到的自拍",
+        "onboard_time": 1689604235,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296400,
+        "num": 296400,
+        "word": "优酷第六部热度全天破万剧集",
+        "onboard_time": 1689590850,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238532,
+        "num": 238532,
+        "word": "女子跳绳致肾结石掉下卡在输尿管",
+        "onboard_time": 1689595234,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237001,
+        "num": 237001,
+        "word": "李木戈希望对得起真正看剧的观众",
+        "onboard_time": 1689595953,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236608,
+        "num": 236608,
+        "word": "B太和市场局局长一起逛市场",
+        "onboard_time": 1689607713,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226320,
+        "num": 226320,
+        "word": "公公杀害儿媳抛尸二审维持死刑",
+        "onboard_time": 1689577892,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216313,
+        "num": 216313,
+        "word": "迪丽热巴开工前先健身",
+        "onboard_time": 1689603632,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210634,
+        "num": 210634,
+        "word": "我的人间烟火 缺德文学",
+        "onboard_time": 1689607591,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210179,
+        "num": 210179,
+        "word": "关晓彤范丞丞请二搭",
+        "onboard_time": 1689600394,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206875,
+        "num": 206875,
+        "word": "玉骨遥大结局",
+        "onboard_time": 1689592292,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207359,
+        "num": 206178,
+        "word": "秦川家破产",
+        "onboard_time": 1689598172,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201889,
+        "num": 201889,
+        "word": "茉酸奶又一次劝退了我",
+        "onboard_time": 1689588151,
+        "rank": 39,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 206068,
+        "num": 201624,
+        "word": "王子奇看自己和王楚然镜头的反应",
+        "onboard_time": 1689592529,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200039,
+        "num": 200039,
+        "word": "作者在淘宝买到自己的盗版书",
+        "onboard_time": 1689607831,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199880,
+        "num": 199880,
+        "word": "姚笛最新状态",
+        "onboard_time": 1689581371,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198684,
+        "num": 198684,
+        "word": "玉骨遥",
+        "onboard_time": 1689605558,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194384,
+        "num": 194384,
+        "word": "湛江台风",
+        "onboard_time": 1689599494,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176265,
+        "num": 176265,
+        "word": "肠胃真的是情绪器官",
+        "onboard_time": 1689597874,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167745,
+        "num": 167745,
+        "word": "冷冻西瓜",
+        "onboard_time": 1689599374,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165407,
+        "num": 165407,
+        "word": "抖音珠宝商退货率90%",
+        "onboard_time": 1689590189,
+        "rank": 47,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 160871,
+        "num": 165406,
+        "word": "玉骨遥点映礼没有王楚然",
+        "onboard_time": 1689607831,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151979,
+        "num": 165391,
+        "word": "种地吧开门大吉",
+        "onboard_time": 1689594751,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国制造未来将继续奔跑起飞#"
+    }
+  }
+}

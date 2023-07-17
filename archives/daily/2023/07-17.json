@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689607215347,
+  "endTime": 1689608080826,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -219,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1183554,
+      "num": 1183554,
+      "word": "运动员吐槽东京奥运会奖牌2年成废铁",
+      "onboard_time": 1689602555,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1175415,
       "num": 1175415,
       "word": "刘宇宁第一部现代男主剧",
@@ -273,14 +281,6 @@
       "onboard_time": 1689555392,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1052367,
-      "num": 1052367,
-      "word": "运动员吐槽东京奥运会奖牌2年成废铁",
-      "onboard_time": 1689602555,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1051701,
@@ -595,6 +595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 700901,
+      "num": 331040,
+      "word": "人民文娱评蔡依林线上首唱会",
+      "onboard_time": 1689606033,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697108,
       "num": 697108,
       "word": "肖战出席玉骨遥大结局点映礼",
@@ -609,14 +617,6 @@
       "onboard_time": 1689572671,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 690441,
-      "num": 298223,
-      "word": "人民文娱评蔡依林线上首唱会",
-      "onboard_time": 1689606033,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 675908,
@@ -643,6 +643,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 661649,
+      "num": 661649,
+      "word": "外国人说这就是吴京",
+      "onboard_time": 1689606156,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 660211,
+      "num": 324339,
+      "word": "榴莲价格跌至全年最低",
+      "onboard_time": 1689604115,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 645556,
       "num": 645556,
       "word": "印度网红AK哥被深圳震撼的语无伦次",
@@ -667,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 626527,
-      "num": 290641,
-      "word": "榴莲价格跌至全年最低",
-      "onboard_time": 1689604115,
-      "rank": 31,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 626321,
       "num": 365657,
       "word": "去漂流一定记得要穿黑衣服",
@@ -697,6 +705,14 @@
       "onboard_time": 1689597331,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 602801,
+      "num": 362732,
+      "word": "十年果粉首次换到安卓是种什么体验",
+      "onboard_time": 1689605796,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 596378,
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 560048,
-      "num": 285890,
+      "num": 313777,
       "word": "女子连续三年感染同一型HPV",
       "onboard_time": 1689604235,
       "rank": 30,
@@ -979,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 478779,
-      "num": 478779,
-      "word": "外国人说这就是吴京",
-      "onboard_time": 1689606156,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 473563,
       "num": 536545,
       "word": "女子跳绳致肾结石掉下卡在输尿管",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1689555571,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464851,
+      "num": 317220,
+      "word": "永远不要觉得尴尬和丢脸",
+      "onboard_time": 1689606513,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 464681,
@@ -1267,20 +1283,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383421,
+      "num": 383421,
+      "word": "沈月再现非主流拍照",
+      "onboard_time": 1689606273,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
       "onboard_time": 1689554972,
       "rank": 26,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 376322,
-      "num": 250781,
-      "word": "十年果粉首次换到安卓是种什么体验",
-      "onboard_time": 1689605796,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 375490,
@@ -1297,6 +1313,14 @@
       "onboard_time": 1689565051,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373688,
+      "num": 301890,
+      "word": "黄仁俊中输",
+      "onboard_time": 1689607294,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 368266,
@@ -1435,6 +1459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 341910,
+      "num": 341910,
+      "word": "林允演技",
+      "onboard_time": 1689606815,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341428,
       "num": 341428,
       "word": "台风天符合条件员工可拒绝上班",
@@ -1540,7 +1572,7 @@
     },
     {
       "raw_hot": 317272,
-      "num": 282043,
+      "num": 299140,
       "word": "肖战说到做到的自拍",
       "onboard_time": 1689604235,
       "rank": 38,
@@ -1625,14 +1657,6 @@
       "onboard_time": 1689596431,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 307128,
-      "num": 307128,
-      "word": "沈月再现非主流拍照",
-      "onboard_time": 1689606273,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 304544,
@@ -1793,14 +1817,6 @@
       "onboard_time": 1689565650,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275633,
-      "num": 250537,
-      "word": "永远不要觉得尴尬和丢脸",
-      "onboard_time": 1689606513,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 272355,
@@ -2019,6 +2035,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 236608,
+      "num": 236608,
+      "word": "B太和市场局局长一起逛市场",
+      "onboard_time": 1689607713,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235277,
       "num": 235277,
       "word": "王鹤棣网络侵权案进展说明",
@@ -2139,14 +2163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216830,
-      "num": 216830,
-      "word": "林允演技",
-      "onboard_time": 1689606815,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216588,
       "num": 216588,
       "word": "不完美受害人",
@@ -2217,6 +2233,14 @@
       "onboard_time": 1689600753,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210634,
+      "num": 210634,
+      "word": "我的人间烟火 缺德文学",
+      "onboard_time": 1689607591,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 210350,
@@ -2345,6 +2369,14 @@
       "onboard_time": 1689575130,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200039,
+      "num": 200039,
+      "word": "作者在淘宝买到自己的盗版书",
+      "onboard_time": 1689607831,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200022,
@@ -2569,6 +2601,14 @@
       "onboard_time": 1689591210,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160871,
+      "num": 165406,
+      "word": "玉骨遥点映礼没有王楚然",
+      "onboard_time": 1689607831,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 160811,
