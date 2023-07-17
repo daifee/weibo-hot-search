@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689585580629,
+  "endTime": 1689586458333,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3123,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1575255,
+      "num": 1575255,
+      "word": "小红书崩了",
+      "onboard_time": 1689584492,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1571453,
       "num": 1571453,
       "word": "在孙权墓前放中科大录取通知书",
@@ -4313,6 +4321,14 @@
       "onboard_time": 1689555571,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1252983,
+      "num": 1252983,
+      "word": "连霍高速发生车祸已致8死6重伤",
+      "onboard_time": 1689584673,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1251948,
@@ -6179,14 +6195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 995743,
-      "num": 995743,
-      "word": "小红书崩了",
-      "onboard_time": 1689584492,
-      "rank": 3,
-      "category": "科技"
-    },
-    {
       "raw_hot": 995414,
       "num": 995414,
       "word": "男子被朋友约酒吧醉酒醒来已到缅甸",
@@ -7473,6 +7481,14 @@
       "onboard_time": 1689156336,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 880578,
+      "num": 880578,
+      "word": "雪王又又又黑了",
+      "onboard_time": 1689584853,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 879934,
@@ -9147,6 +9163,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 769461,
+      "num": 769461,
+      "word": "程靖淇上恋综",
+      "onboard_time": 1689584133,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 769174,
       "num": 769174,
       "word": "美国新婚夫妻上演真人版消失的她",
@@ -9337,6 +9361,14 @@
       "onboard_time": 1689309219,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757761,
+      "num": 237091,
+      "word": "NCTDREAM回归新歌ISTJ",
+      "onboard_time": 1689586353,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 756805,
@@ -9865,14 +9897,6 @@
       "onboard_time": 1688572432,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 720686,
-      "num": 720686,
-      "word": "连霍高速发生车祸已致8死6重伤",
-      "onboard_time": 1689584673,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 720389,
@@ -11371,14 +11395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 652336,
-      "num": 652336,
-      "word": "程靖淇上恋综",
-      "onboard_time": 1689584133,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 652152,
       "num": 652152,
       "word": "电竞国家集训队集体亮相",
@@ -12708,7 +12724,7 @@
     },
     {
       "raw_hot": 594868,
-      "num": 241785,
+      "num": 320627,
       "word": "他的健身卡应该明天到期吧",
       "onboard_time": 1689583898,
       "rank": 30,
@@ -14265,14 +14281,6 @@
       "onboard_time": 1688913335,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537972,
-      "num": 537972,
-      "word": "雪王又又又黑了",
-      "onboard_time": 1689584853,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 537683,
@@ -16931,6 +16939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 456036,
+      "num": 314524,
+      "word": "普通人住别墅的真实感受",
+      "onboard_time": 1689585331,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455272,
       "num": 455272,
       "word": "第一次见猫用香肠洗手的",
@@ -19587,14 +19603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396733,
-      "num": 292593,
-      "word": "普通人住别墅的真实感受",
-      "onboard_time": 1689585331,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 396651,
       "num": 396651,
       "word": "二房东才是装修界的鬼才",
@@ -21483,6 +21491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360584,
+      "num": 309576,
+      "word": "张子豪正式官宣签约龙韬娱乐",
+      "onboard_time": 1689582332,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360453,
       "num": 360453,
       "word": "詹姆斯将穿回23号",
@@ -21705,6 +21721,14 @@
       "onboard_time": 1689384210,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357126,
+      "num": 357126,
+      "word": "郑润泽加场投票",
+      "onboard_time": 1689584311,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 356639,
@@ -21937,6 +21961,14 @@
       "onboard_time": 1688928793,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352099,
+      "num": 352099,
+      "word": "这真的不是那英吗",
+      "onboard_time": 1689583352,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 351957,
@@ -22384,14 +22416,6 @@
       "word": "TF家族合照",
       "onboard_time": 1688253199,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 342502,
-      "num": 342502,
-      "word": "这真的不是那英吗",
-      "onboard_time": 1689583352,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -22867,14 +22891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 335326,
-      "num": 288057,
-      "word": "张子豪正式官宣签约龙韬娱乐",
-      "onboard_time": 1689582332,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335279,
       "num": 287940,
       "word": "刘宇宁现场稳",
@@ -22923,6 +22939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334635,
+      "num": 334635,
+      "word": "NCTDREAM正规三辑记者会",
+      "onboard_time": 1689585750,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334534,
       "num": 334534,
       "word": "iG对战WBG",
@@ -22969,14 +22993,6 @@
       "onboard_time": 1688547871,
       "rank": 31,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 333868,
-      "num": 333868,
-      "word": "郑润泽加场投票",
-      "onboard_time": 1689584311,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 333796,
@@ -24772,7 +24788,7 @@
     },
     {
       "raw_hot": 304544,
-      "num": 286473,
+      "num": 301180,
       "word": "长大才知道打碎盘子不是大事",
       "onboard_time": 1689583172,
       "rank": 23,
@@ -28763,6 +28779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254940,
+      "num": 254940,
+      "word": "手机品牌为何扎堆绿色",
+      "onboard_time": 1689582992,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 254939,
       "num": 254939,
       "word": "闫桉终于来演偶像剧了",
@@ -30041,14 +30065,6 @@
       "onboard_time": 1689555093,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 241266,
-      "num": 241266,
-      "word": "手机品牌为何扎堆绿色",
-      "onboard_time": 1689582992,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 241106,
@@ -33459,6 +33475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206778,
+      "num": 237479,
+      "word": "丫丫vlog上新",
+      "onboard_time": 1689585331,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206723,
       "num": 206723,
       "word": "这段宝宝学走路视频爸爸拍了3年",
@@ -34403,6 +34427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198160,
+      "num": 198160,
+      "word": "颖儿不完美受害人演技",
+      "onboard_time": 1689581252,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198141,
       "num": 216198,
       "word": "碟中谍7",
@@ -34691,14 +34723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195391,
-      "num": 195391,
-      "word": "颖儿不完美受害人演技",
-      "onboard_time": 1689581252,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195337,
       "num": 227897,
       "word": "多大V呼吁公共场所宽容幼童",
@@ -34729,6 +34753,14 @@
       "onboard_time": 1688950472,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195223,
+      "num": 195223,
+      "word": "起猛了看见奥特曼穿袈裟",
+      "onboard_time": 1689585874,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 195171,
@@ -36339,6 +36371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179406,
+      "num": 179406,
+      "word": "用千元纸币做蛋糕1月未管致钱发霉",
+      "onboard_time": 1689586411,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179251,
       "num": 179251,
       "word": "ITZY造型师",
@@ -36873,14 +36913,6 @@
       "onboard_time": 1688166139,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 174143,
-      "num": 174143,
-      "word": "丫丫vlog上新",
-      "onboard_time": 1689585331,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173885,

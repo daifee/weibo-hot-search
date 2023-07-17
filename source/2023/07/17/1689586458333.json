@@ -1,0 +1,410 @@
+{
+  "runTime": 1689586458333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1908459,
+        "num": 1908459,
+        "word": "深圳已做好停工停课准备",
+        "onboard_time": 1689573089,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1575255,
+        "num": 1575255,
+        "word": "小红书崩了",
+        "onboard_time": 1689584492,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 41192,
+        "num": 1424548,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1689575790,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1375238,
+        "num": 1375238,
+        "word": "这才是中国最没存在感的省",
+        "onboard_time": 1689581191,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1252983,
+        "num": 1252983,
+        "word": "连霍高速发生车祸已致8死6重伤",
+        "onboard_time": 1689584673,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880578,
+        "num": 880578,
+        "word": "雪王又又又黑了",
+        "onboard_time": 1689584853,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 769461,
+        "num": 769461,
+        "word": "程靖淇上恋综",
+        "onboard_time": 1689584133,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 768170,
+        "num": 768170,
+        "word": "回不去的奔跑吧兄弟",
+        "onboard_time": 1689580653,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664116,
+        "num": 664116,
+        "word": "韩国幽灵儿童事件",
+        "onboard_time": 1689570396,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652555,
+        "num": 652555,
+        "word": "肖战出席玉骨遥大结局点映礼",
+        "onboard_time": 1689583593,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1762066,
+        "num": 623345,
+        "word": "姚笛最新状态",
+        "onboard_time": 1689581371,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 942652,
+        "num": 555104,
+        "word": "狗头萝莉回应卖煎饼数次被举报",
+        "onboard_time": 1689582753,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 481500,
+        "num": 481500,
+        "word": "刘宇宁第一部现代男主剧",
+        "onboard_time": 1689579452,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470185,
+        "num": 470185,
+        "word": "玖月晞 我没抄袭",
+        "onboard_time": 1689563371,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410552,
+        "num": 410552,
+        "word": "睡觉姿势引起的耻骨肌发炎",
+        "onboard_time": 1689577230,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375690,
+        "num": 375690,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1689572671,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357126,
+        "num": 357126,
+        "word": "郑润泽加场投票",
+        "onboard_time": 1689584311,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352099,
+        "num": 352099,
+        "word": "这真的不是那英吗",
+        "onboard_time": 1689583352,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334635,
+        "num": 334635,
+        "word": "NCTDREAM正规三辑记者会",
+        "onboard_time": 1689585750,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298342,
+        "num": 331817,
+        "word": "肖战迪丽热巴或将合作",
+        "onboard_time": 1689571530,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1050719,
+        "num": 327621,
+        "word": "公公杀害儿媳抛尸二审维持死刑",
+        "onboard_time": 1689577892,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528285,
+        "num": 320627,
+        "word": "他的健身卡应该明天到期吧",
+        "onboard_time": 1689583898,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 456036,
+        "num": 314524,
+        "word": "普通人住别墅的真实感受",
+        "onboard_time": 1689585331,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360584,
+        "num": 309576,
+        "word": "张子豪正式官宣签约龙韬娱乐",
+        "onboard_time": 1689582332,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309204,
+        "num": 309204,
+        "word": "去漂流一定记得要穿黑衣服",
+        "onboard_time": 1689578312,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301180,
+        "num": 301180,
+        "word": "长大才知道打碎盘子不是大事",
+        "onboard_time": 1689583172,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254940,
+        "num": 254940,
+        "word": "手机品牌为何扎堆绿色",
+        "onboard_time": 1689582992,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 244300,
+        "num": 244300,
+        "word": "12岁男孩为捡鞋子不慎落水溺亡",
+        "onboard_time": 1689579930,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242640,
+        "num": 242640,
+        "word": "微信号长期没有使用",
+        "onboard_time": 1689569433,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206778,
+        "num": 237479,
+        "word": "丫丫vlog上新",
+        "onboard_time": 1689585331,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757761,
+        "num": 237091,
+        "word": "NCTDREAM回归新歌ISTJ",
+        "onboard_time": 1689586353,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294343,
+        "num": 236686,
+        "word": "伊能静回应媒体对儿子的报道",
+        "onboard_time": 1689579210,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235903,
+        "num": 235903,
+        "word": "玉骨遥点映礼",
+        "onboard_time": 1689584311,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231587,
+        "num": 231587,
+        "word": "韩国首尔地铁里的催生广告",
+        "onboard_time": 1689568774,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209768,
+        "num": 209768,
+        "word": "赵丽颖拍的风景",
+        "onboard_time": 1689581132,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208414,
+        "num": 208414,
+        "word": "清北学霸怒斥研学内幕",
+        "onboard_time": 1689569735,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 198528,
+        "num": 198528,
+        "word": "台风天符合条件员工可拒绝上班",
+        "onboard_time": 1689576091,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198160,
+        "num": 198160,
+        "word": "颖儿不完美受害人演技",
+        "onboard_time": 1689581252,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195699,
+        "num": 195699,
+        "word": "玖月晞知道自己在反驳什么吗",
+        "onboard_time": 1689571230,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195223,
+        "num": 195223,
+        "word": "起猛了看见奥特曼穿袈裟",
+        "onboard_time": 1689585874,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188927,
+        "num": 188927,
+        "word": "深圳台风",
+        "onboard_time": 1689582571,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188508,
+        "num": 188508,
+        "word": "杨澄醋了他醋了",
+        "onboard_time": 1689579452,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185119,
+        "num": 185119,
+        "word": "小朋友尴尬的撤回了一条消息",
+        "onboard_time": 1689569553,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 181014,
+        "num": 181014,
+        "word": "男子家暴成瘾反问民警打老婆犯法吗",
+        "onboard_time": 1689570692,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179406,
+        "num": 179406,
+        "word": "用千元纸币做蛋糕1月未管致钱发霉",
+        "onboard_time": 1689586411,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173739,
+        "num": 179108,
+        "word": "爸爸捧小儿脚丫痛哭道别后捐其器官",
+        "onboard_time": 1689576571,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179017,
+        "num": 179017,
+        "word": "顾漫简介加入骄阳似我下",
+        "onboard_time": 1689570100,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174943,
+        "num": 174943,
+        "word": "鹿晗欧阳娜娜早期同框",
+        "onboard_time": 1689575673,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173126,
+        "num": 173126,
+        "word": "韩网热帖 福宝熊设",
+        "onboard_time": 1689574290,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167159,
+        "num": 167159,
+        "word": "玖月晞说有个女孩喜欢孟宴臣十年",
+        "onboard_time": 1689566375,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记为网络强国建设提出新的使命任务#"
+    }
+  }
+}
