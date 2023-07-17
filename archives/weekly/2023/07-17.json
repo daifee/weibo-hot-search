@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689559028042,
+  "endTime": 1689560380640,
   "band_list": [
     {
       "raw_hot": 2732474,
@@ -11,7 +11,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1946998,
+      "raw_hot": 2170887,
       "num": 468682,
       "word": "刘恺威带小糯米外出",
       "onboard_time": 1689557789,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 966945,
+      "num": 966945,
+      "word": "玖月晞破防的原因",
+      "onboard_time": 1689555571,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 958220,
       "num": 958220,
       "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
@@ -89,14 +97,6 @@
       "onboard_time": 1689551006,
       "rank": 5,
       "category": "科技"
-    },
-    {
-      "raw_hot": 808225,
-      "num": 808225,
-      "word": "玖月晞破防的原因",
-      "onboard_time": 1689555571,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 791288,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641678,
+      "num": 328432,
+      "word": "丁墨",
+      "onboard_time": 1689557968,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 625905,
       "num": 625905,
       "word": "薛之谦新歌念",
@@ -161,6 +169,14 @@
       "onboard_time": 1689549563,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569334,
+      "num": 569334,
+      "word": "当代大学生是懂晒被子的",
+      "onboard_time": 1689555449,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 562547,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 524523,
-      "num": 316725,
+      "num": 321576,
       "word": "对冷暴力最好的回应方式",
       "onboard_time": 1689548600,
       "rank": 20,
@@ -219,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512128,
-      "num": 328432,
-      "word": "丁墨",
-      "onboard_time": 1689557968,
+      "raw_hot": 493688,
+      "num": 323266,
+      "word": "18到26岁是个混乱的年龄段",
+      "onboard_time": 1689559108,
       "rank": 21,
-      "category": "影视"
+      "category": "情感"
     },
     {
       "raw_hot": 473122,
@@ -243,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462033,
+      "num": 322746,
+      "word": "湖北一男子众目睽睽下强吻女子",
+      "onboard_time": 1689559529,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456010,
       "num": 456010,
       "word": "胖人和瘦人吃东西的区别",
       "onboard_time": 1689517957,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 448775,
+      "num": 379196,
+      "word": "我只害怕我爱你作者发文",
+      "onboard_time": 1689549803,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 443859,
@@ -267,19 +299,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443028,
-      "num": 443028,
-      "word": "当代大学生是懂晒被子的",
-      "onboard_time": 1689555449,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 439536,
       "num": 439536,
       "word": "男子吃见手青中毒以为自己是奥特曼",
       "onboard_time": 1689520779,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434992,
+      "num": 366839,
+      "word": "广西一17岁少年发现新物种",
+      "onboard_time": 1689559411,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -315,6 +347,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 409865,
+      "num": 322584,
+      "word": "seventeen公司换美工了",
+      "onboard_time": 1689557848,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 405904,
       "num": 283094,
       "word": "八角笼中票房",
@@ -331,14 +371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 397940,
-      "num": 320126,
-      "word": "seventeen公司换美工了",
-      "onboard_time": 1689557848,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
@@ -347,12 +379,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 379196,
-      "num": 379196,
-      "word": "我只害怕我爱你作者发文",
-      "onboard_time": 1689549803,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 375490,
+      "num": 375490,
+      "word": "中国女排3人入围世联赛最佳阵容",
+      "onboard_time": 1689556051,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 359698,
@@ -371,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348942,
-      "num": 348942,
-      "word": "中国女排3人入围世联赛最佳阵容",
-      "onboard_time": 1689556051,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 338704,
+      "num": 338704,
+      "word": "Angelababy金宇彬A妹加菲抖森同框",
+      "onboard_time": 1689551006,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 336300,
@@ -385,14 +417,6 @@
       "onboard_time": 1689541873,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330605,
-      "num": 330605,
-      "word": "Angelababy金宇彬A妹加菲抖森同框",
-      "onboard_time": 1689551006,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 316324,
@@ -419,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306777,
+      "num": 306777,
+      "word": "迪丽热巴灵动的演技",
+      "onboard_time": 1689558328,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289853,
       "num": 289853,
       "word": "德约",
       "onboard_time": 1689520956,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288838,
+      "num": 288838,
+      "word": "原来童话里的家庭真的存在",
+      "onboard_time": 1689558811,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 288322,
@@ -457,6 +497,14 @@
       "onboard_time": 1689549201,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282074,
+      "num": 282074,
+      "word": "薛之谦念写给陪自己重生的人",
+      "onboard_time": 1689559349,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 280594,
@@ -507,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249746,
+      "num": 249746,
+      "word": "崔智秀李彩领申有娜人呢",
+      "onboard_time": 1689558269,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249549,
       "num": 249549,
       "word": "肖战一滴泪镜头",
@@ -529,14 +585,6 @@
       "onboard_time": 1689505891,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241526,
-      "num": 241526,
-      "word": "迪丽热巴灵动的演技",
-      "onboard_time": 1689558328,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 241348,
@@ -587,6 +635,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213468,
+      "num": 211006,
+      "word": "王鹤棣工作室是懂我们想看什么的",
+      "onboard_time": 1689560129,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212942,
+      "num": 212942,
+      "word": "2023上半年经济数据",
+      "onboard_time": 1689560009,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 210350,
       "num": 210350,
       "word": "沈腾模仿孟宴臣名台词",
@@ -603,12 +667,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207410,
-      "num": 207410,
-      "word": "崔智秀李彩领申有娜人呢",
-      "onboard_time": 1689558269,
-      "rank": 40,
+      "raw_hot": 205064,
+      "num": 205064,
+      "word": "薛之谦说承蒙关照新歌念",
+      "onboard_time": 1689555331,
+      "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204150,
+      "num": 204150,
+      "word": "健身房回应女子更衣室换衣10岁男孩两次闯入",
+      "onboard_time": 1689560308,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203581,
+      "num": 203581,
+      "word": "台风泰利影响深圳",
+      "onboard_time": 1689554611,
+      "rank": 43,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 201515,
@@ -617,14 +697,6 @@
       "onboard_time": 1689552452,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199414,
-      "num": 199414,
-      "word": "台风泰利影响深圳",
-      "onboard_time": 1689554611,
-      "rank": 43,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 198571,
@@ -649,14 +721,6 @@
       "onboard_time": 1689557848,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191950,
-      "num": 191950,
-      "word": "原来童话里的家庭真的存在",
-      "onboard_time": 1689558811,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 191077,
@@ -721,14 +785,6 @@
       "onboard_time": 1689549322,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 169993,
-      "num": 169993,
-      "word": "薛之谦说承蒙关照新歌念",
-      "onboard_time": 1689555331,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 168999,
@@ -865,6 +921,14 @@
       "onboard_time": 1689529937,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 101528,
+      "num": 364809,
+      "word": "世界表情包日",
+      "onboard_time": 1689559228,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86738,
