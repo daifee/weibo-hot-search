@@ -1,10 +1,10 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689565324328,
+  "endTime": 1689567803062,
   "band_list": [
     {
-      "raw_hot": 4666458,
-      "num": 4666458,
+      "raw_hot": 4831101,
+      "num": 4831101,
       "word": "玖月晞 我没抄袭",
       "onboard_time": 1689563371,
       "rank": 16,
@@ -19,8 +19,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2172858,
-      "num": 2172858,
+      "raw_hot": 2226276,
+      "num": 2226276,
       "word": "现在的小区名越来越敢起了",
       "onboard_time": 1689561331,
       "rank": 0,
@@ -75,12 +75,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1208937,
+      "num": 1208937,
+      "word": "中学新生缴4千元买30件校服",
+      "onboard_time": 1689565230,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1118399,
+      "num": 1118399,
+      "word": "玖月晞说有个女孩喜欢孟宴臣十年",
+      "onboard_time": 1689566375,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1097042,
       "num": 425791,
       "word": "赵今麦的妆是谁画的",
       "onboard_time": 1689513632,
       "rank": 10,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 1081008,
+      "num": 1081008,
+      "word": "共用一张脸的明星",
+      "onboard_time": 1689564570,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1062385,
@@ -121,6 +145,14 @@
       "onboard_time": 1689551006,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 852259,
+      "num": 852259,
+      "word": "孟宴臣存在过的证据",
+      "onboard_time": 1689565590,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 824243,
@@ -201,6 +233,14 @@
       "onboard_time": 1689553653,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 582448,
+      "num": 518127,
+      "word": "被鸟鸟徐志胜李雪琴哭死",
+      "onboard_time": 1689563252,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 579872,
@@ -299,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 518127,
-      "num": 518127,
-      "word": "被鸟鸟徐志胜李雪琴哭死",
-      "onboard_time": 1689563252,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 518041,
       "num": 518041,
       "word": "长相思",
@@ -353,6 +385,14 @@
       "onboard_time": 1689559529,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457036,
+      "num": 370517,
+      "word": "心动的信号6素人官宣",
+      "onboard_time": 1689564570,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 456010,
@@ -475,12 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 397015,
-      "num": 397015,
-      "word": "共用一张脸的明星",
-      "onboard_time": 1689564570,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 394453,
+      "num": 352994,
+      "word": "范丞丞预判了导演的预判",
+      "onboard_time": 1689566975,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 380966,
@@ -499,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370517,
-      "num": 370517,
-      "word": "心动的信号6素人官宣",
-      "onboard_time": 1689564570,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 374409,
+      "num": 351415,
+      "word": "豆角是东北孩子的噩梦",
+      "onboard_time": 1689565051,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 359698,
@@ -531,6 +571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350492,
+      "num": 350492,
+      "word": "普通家庭的家长不用刻意让孩子吃苦",
+      "onboard_time": 1689566851,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 350092,
+      "num": 350092,
+      "word": "迪丽热巴怼脸视频",
+      "onboard_time": 1689566074,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 338704,
       "num": 338704,
       "word": "Angelababy金宇彬A妹加菲抖森同框",
@@ -547,6 +603,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329079,
+      "num": 280039,
+      "word": "融梗",
+      "onboard_time": 1689565830,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 318565,
+      "num": 318565,
+      "word": "小鸟在女子马尾辫后睡了2小时",
+      "onboard_time": 1689565711,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316576,
       "num": 316576,
       "word": "秦川暴扣杨澄",
@@ -560,6 +632,14 @@
       "word": "婚礼酒席被妈妈发朋友圈吐槽了",
       "onboard_time": 1689550283,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 314535,
+      "num": 279753,
+      "word": "身份证被狗吃了",
+      "onboard_time": 1689567456,
+      "rank": 31,
       "category": "幽默"
     },
     {
@@ -601,14 +681,6 @@
       "onboard_time": 1689520956,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 289142,
-      "num": 289142,
-      "word": "豆角是东北孩子的噩梦",
-      "onboard_time": 1689565051,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 289095,
@@ -667,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280653,
+      "num": 280653,
+      "word": "2女子江边露营点餐外卖员找到崩溃",
+      "onboard_time": 1689564450,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280594,
       "num": 280594,
       "word": "王传君抱了好大一个棉花娃娃",
@@ -681,6 +761,14 @@
       "onboard_time": 1689515856,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276529,
+      "num": 264874,
+      "word": "沈月晒野猪一家长沙plog",
+      "onboard_time": 1689565650,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 267077,
@@ -739,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249711,
+      "num": 249711,
+      "word": "家暴题材电影我经过风暴定档",
+      "onboard_time": 1689566674,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249549,
       "num": 249549,
       "word": "肖战一滴泪镜头",
@@ -787,14 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 240114,
-      "num": 240114,
-      "word": "中学新生缴4千元买30件校服",
-      "onboard_time": 1689565230,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 239406,
       "num": 239406,
       "word": "普京称乌军反攻没有成功",
@@ -827,12 +915,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230128,
-      "num": 230128,
-      "word": "2女子江边露营点餐外卖员找到崩溃",
-      "onboard_time": 1689564450,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 226296,
+      "num": 226296,
+      "word": "魏大勋还有曾用名",
+      "onboard_time": 1689567756,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225810,
@@ -857,6 +945,14 @@
       "onboard_time": 1689486630,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215130,
+      "num": 215130,
+      "word": "家暴男的心理机制",
+      "onboard_time": 1689566011,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 213468,
@@ -1196,7 +1292,7 @@
     },
     {
       "raw_hot": 71274,
-      "num": 1310865,
+      "num": 1510856,
       "word": "第2架国产C919入列",
       "onboard_time": 1689512914,
       "rank": 2,
