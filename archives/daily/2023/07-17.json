@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689593651112,
+  "endTime": 1689597634474,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -41,6 +41,14 @@
       "onboard_time": 1689561331,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2278213,
+      "num": 2278213,
+      "word": "玉骨遥为什么没爆",
+      "onboard_time": 1689596791,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2170887,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1456587,
-      "num": 426919,
+      "num": 488891,
       "word": "抖音珠宝商退货率90%",
       "onboard_time": 1689590189,
       "rank": 17,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1010523,
-      "num": 413999,
+      "num": 492928,
       "word": "女子因家中陌生手环发现床下藏摄像头",
       "onboard_time": 1689589830,
       "rank": 30,
@@ -321,6 +329,14 @@
       "onboard_time": 1689551006,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 895149,
+      "num": 895149,
+      "word": "Uzi不交闪现",
+      "onboard_time": 1689595531,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 880578,
@@ -451,6 +467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 744491,
+      "num": 744491,
+      "word": "李木戈希望对得起真正看剧的观众",
+      "onboard_time": 1689595953,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 742245,
+      "num": 742245,
+      "word": "王子奇看自己和王楚然镜头的反应",
+      "onboard_time": 1689592529,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 722977,
       "num": 722977,
       "word": "楼外楼",
@@ -556,7 +588,7 @@
     },
     {
       "raw_hot": 590857,
-      "num": 344324,
+      "num": 414557,
       "word": "优酷第六部热度全天破万剧集",
       "onboard_time": 1689590850,
       "rank": 21,
@@ -609,6 +641,14 @@
       "onboard_time": 1689512733,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 558478,
+      "num": 487930,
+      "word": "刘夜泊",
+      "onboard_time": 1689596073,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 558056,
@@ -691,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522859,
+      "num": 522859,
+      "word": "种地吧开门大吉",
+      "onboard_time": 1689594751,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521238,
       "num": 521238,
       "word": "令人不适的异性称呼",
@@ -739,12 +787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 478508,
-      "num": 467877,
-      "word": "王子奇看自己和王楚然镜头的反应",
-      "onboard_time": 1689592529,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 480279,
+      "num": 480279,
+      "word": "这个录取通知书真大",
+      "onboard_time": 1689594570,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 473122,
@@ -865,6 +913,14 @@
       "onboard_time": 1689556587,
       "rank": 22,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 430814,
+      "num": 313541,
+      "word": "女子跳绳致肾结石掉下卡在输尿管",
+      "onboard_time": 1689595234,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430740,
@@ -995,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395843,
+      "num": 395843,
+      "word": "王宝强说我尊重观众尊重电影",
+      "onboard_time": 1689592949,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1689589771,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355080,
+      "num": 355080,
+      "word": "WBG对战EDG",
+      "onboard_time": 1689593430,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 354380,
@@ -1243,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 313786,
+      "num": 320443,
+      "word": "张一山戴眼镜vs范丞丞戴眼镜",
+      "onboard_time": 1689592892,
+      "rank": 32,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 313363,
       "num": 313363,
       "word": "EDG击败BLG夺冠",
@@ -1281,6 +1361,14 @@
       "onboard_time": 1689563789,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 307362,
+      "num": 307362,
+      "word": "迪丽热巴版宝贝在干嘛",
+      "onboard_time": 1689596431,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304544,
@@ -1419,12 +1507,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277992,
+      "num": 320411,
+      "word": "男子在银行1次存1元占用窗口2小时",
+      "onboard_time": 1689592892,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276529,
       "num": 264874,
       "word": "沈月晒野猪一家长沙plog",
       "onboard_time": 1689565650,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273451,
+      "num": 273451,
+      "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
+      "onboard_time": 1689595831,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272355,
+      "num": 242393,
+      "word": "终于压过闺蜜一头",
+      "onboard_time": 1689595411,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 268778,
@@ -1611,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240602,
+      "num": 240602,
+      "word": "十个勤天",
+      "onboard_time": 1689596972,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240139,
       "num": 240139,
       "word": "赵丽颖拍的风景",
@@ -1633,14 +1753,6 @@
       "onboard_time": 1689564096,
       "rank": 38,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 234517,
-      "num": 320473,
-      "word": "王宝强说我尊重观众尊重电影",
-      "onboard_time": 1689592949,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 233705,
@@ -1675,6 +1787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228692,
+      "num": 228692,
+      "word": "服务员是怎么忍住不笑的",
+      "onboard_time": 1689594031,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225810,
       "num": 225810,
       "word": "温网",
@@ -1691,12 +1811,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224895,
+      "num": 320286,
+      "word": "离职了给下一任留一点线索",
+      "onboard_time": 1689593430,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222927,
       "num": 222927,
       "word": "易烊千玺帮我扛下了所有压力",
       "onboard_time": 1689503611,
       "rank": 31,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 221354,
+      "num": 221354,
+      "word": "牛冠凯3比1王楚钦",
+      "onboard_time": 1689595234,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220298,
+      "num": 220298,
+      "word": "封神",
+      "onboard_time": 1689595291,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 217588,
@@ -1715,12 +1859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216690,
-      "num": 320443,
-      "word": "张一山戴眼镜vs范丞丞戴眼镜",
-      "onboard_time": 1689592892,
-      "rank": 32,
-      "category": "影视,幽默"
+      "raw_hot": 217141,
+      "num": 217141,
+      "word": "乘风2023",
+      "onboard_time": 1689595291,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 216166,
@@ -1753,6 +1897,22 @@
       "onboard_time": 1689560129,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213234,
+      "num": 213234,
+      "word": "中国花游队集体技巧自选金牌",
+      "onboard_time": 1689597331,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213030,
+      "num": 320310,
+      "word": "朴灿烈金珉锡边伯贤洪恩採一起跳舞",
+      "onboard_time": 1689593372,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 212942,
@@ -1795,12 +1955,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207485,
+      "num": 207485,
+      "word": "王源高远的告白",
+      "onboard_time": 1689597331,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206941,
       "num": 237479,
       "word": "丫丫vlog上新",
       "onboard_time": 1689585331,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205488,
+      "num": 205488,
+      "word": "钟汉良演唱会抢票",
+      "onboard_time": 1689595531,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 205064,
@@ -1843,20 +2019,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201102,
+      "num": 202844,
+      "word": "高校为应届毕业生提供月租350元住宿",
+      "onboard_time": 1689594931,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 200421,
       "num": 209607,
       "word": "你们两支持的不是同一方啊",
       "onboard_time": 1689575130,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200343,
-      "num": 320429,
-      "word": "WBG对战EDG",
-      "onboard_time": 1689593430,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 200022,
@@ -1929,6 +2105,14 @@
       "onboard_time": 1689522931,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189101,
+      "num": 202830,
+      "word": "林高远3比2马龙",
+      "onboard_time": 1689594692,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 187040,
@@ -2043,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167811,
-      "num": 320411,
-      "word": "男子在银行1次存1元占用窗口2小时",
-      "onboard_time": 1689592892,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165533,
       "num": 165533,
       "word": "关晓彤多拍现代剧",
@@ -2147,14 +2323,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 139313,
-      "num": 320310,
-      "word": "朴灿烈金珉锡边伯贤洪恩採一起跳舞",
-      "onboard_time": 1689593372,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 130540,
       "num": 328942,
       "word": "杨昊练俊杰跳水男双十米台冠军",
@@ -2169,14 +2337,6 @@
       "onboard_time": 1689549865,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124558,
-      "num": 320286,
-      "word": "离职了给下一任留一点线索",
-      "onboard_time": 1689593430,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 118956,
