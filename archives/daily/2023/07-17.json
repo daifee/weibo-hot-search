@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689604604011,
+  "endTime": 1689607215347,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1801449,
-      "num": 682605,
+      "num": 805451,
       "word": "微信群发不雅信息3个群内文字不同",
       "onboard_time": 1689599252,
       "rank": 30,
@@ -273,6 +273,14 @@
       "onboard_time": 1689555392,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1052367,
+      "num": 1052367,
+      "word": "运动员吐槽东京奥运会奖牌2年成废铁",
+      "onboard_time": 1689602555,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1051701,
@@ -539,6 +547,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 729674,
+      "num": 577569,
+      "word": "台风",
+      "onboard_time": 1689549563,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727554,
+      "num": 445097,
+      "word": "中国科学院简称中国科学院",
+      "onboard_time": 1689602195,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722977,
       "num": 722977,
       "word": "楼外楼",
@@ -587,12 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 679493,
-      "num": 445097,
-      "word": "中国科学院简称中国科学院",
-      "onboard_time": 1689602195,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 690441,
+      "num": 298223,
+      "word": "人民文娱评蔡依林线上首唱会",
+      "onboard_time": 1689606033,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 675908,
@@ -641,6 +665,14 @@
       "onboard_time": 1689568774,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626527,
+      "num": 290641,
+      "word": "榴莲价格跌至全年最低",
+      "onboard_time": 1689604115,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 626321,
@@ -723,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 577569,
-      "num": 577569,
-      "word": "台风",
-      "onboard_time": 1689549563,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577072,
       "num": 577072,
       "word": "韩网热帖 福宝熊设",
@@ -763,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 560048,
+      "num": 285890,
+      "word": "女子连续三年感染同一型HPV",
+      "onboard_time": 1689604235,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558478,
       "num": 536919,
       "word": "刘夜泊",
@@ -793,14 +825,6 @@
       "onboard_time": 1689566975,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 551371,
-      "num": 281775,
-      "word": "女子连续三年感染同一型HPV",
-      "onboard_time": 1689604235,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 551319,
@@ -907,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 511753,
+      "num": 389309,
+      "word": "魏大勋的心态",
+      "onboard_time": 1689604357,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 499927,
       "num": 458343,
       "word": "楼间距小的还是放弃百叶窗吧",
@@ -931,14 +963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 489163,
-      "num": 281506,
-      "word": "榴莲价格跌至全年最低",
-      "onboard_time": 1689604115,
-      "rank": 31,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 488182,
       "num": 488182,
       "word": "关晓彤范丞丞请二搭",
@@ -952,6 +976,14 @@
       "word": "玖月晞知道自己在反驳什么吗",
       "onboard_time": 1689571230,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 478779,
+      "num": 478779,
+      "word": "外国人说这就是吴京",
+      "onboard_time": 1689606156,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -1049,6 +1081,14 @@
       "onboard_time": 1689520658,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442266,
+      "num": 442266,
+      "word": "玉骨遥",
+      "onboard_time": 1689605558,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 440833,
@@ -1219,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396939,
-      "num": 396939,
-      "word": "运动员吐槽东京奥运会奖牌2年成废铁",
-      "onboard_time": 1689602555,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 395843,
       "num": 535972,
       "word": "王宝强说我尊重观众尊重电影",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1689554972,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 376322,
+      "num": 250781,
+      "word": "十年果粉首次换到安卓是种什么体验",
+      "onboard_time": 1689605796,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 375490,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1689570100,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 367936,
+      "num": 367936,
+      "word": "jiejie状态",
+      "onboard_time": 1689603453,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 364022,
@@ -1491,6 +1539,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 317272,
+      "num": 282043,
+      "word": "肖战说到做到的自拍",
+      "onboard_time": 1689604235,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316576,
       "num": 316576,
       "word": "秦川暴扣杨澄",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1689596431,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 307128,
+      "num": 307128,
+      "word": "沈月再现非主流拍照",
+      "onboard_time": 1689606273,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 304544,
@@ -1659,14 +1723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284469,
-      "num": 284469,
-      "word": "jiejie状态",
-      "onboard_time": 1689603453,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 283404,
       "num": 283404,
       "word": "买甲片不小心买错型号了",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1689565650,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275633,
+      "num": 250537,
+      "word": "永远不要觉得尴尬和丢脸",
+      "onboard_time": 1689606513,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 272355,
@@ -1857,14 +1921,6 @@
       "onboard_time": 1689599193,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249958,
-      "num": 249958,
-      "word": "魏大勋的心态",
-      "onboard_time": 1689604357,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 249711,
@@ -1995,14 +2051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228808,
-      "num": 228808,
-      "word": "肖战说到做到的自拍",
-      "onboard_time": 1689604235,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 228801,
       "num": 329097,
       "word": "NCTDREAM新歌空降",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1689595291,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216830,
+      "num": 216830,
+      "word": "林允演技",
+      "onboard_time": 1689606815,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 216588,
@@ -2305,6 +2361,14 @@
       "onboard_time": 1689549683,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198324,
+      "num": 213710,
+      "word": "京都最可笑寺院",
+      "onboard_time": 1689606098,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 198160,
