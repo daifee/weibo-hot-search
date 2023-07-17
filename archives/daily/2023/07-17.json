@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689571130508,
+  "endTime": 1689572131871,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -57,6 +57,14 @@
       "onboard_time": 1689568774,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1734928,
+      "num": 947004,
+      "word": "韩国幽灵儿童事件",
+      "onboard_time": 1689570396,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1689781,
@@ -131,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 998198,
+      "num": 998198,
+      "word": "微信号长期没有使用",
+      "onboard_time": 1689569433,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 980169,
       "num": 980169,
       "word": "鹿晗演唱会上海",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 818289,
-      "num": 766877,
+      "num": 773325,
       "word": "魏大勋杂志好像出国疗养的孟宴臣",
       "onboard_time": 1689569494,
       "rank": 12,
@@ -225,22 +241,6 @@
       "onboard_time": 1689567995,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 764395,
-      "num": 764395,
-      "word": "微信号长期没有使用",
-      "onboard_time": 1689569433,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 759640,
-      "num": 339368,
-      "word": "韩国幽灵儿童事件",
-      "onboard_time": 1689570396,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 745448,
@@ -281,6 +281,14 @@
       "onboard_time": 1689561990,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 627068,
+      "num": 804693,
+      "word": "福宝等比例长大了",
+      "onboard_time": 1689568774,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625905,
@@ -387,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 533097,
-      "num": 804693,
-      "word": "福宝等比例长大了",
-      "onboard_time": 1689568774,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 532745,
       "num": 285169,
       "word": "在飞机上看下雨",
@@ -417,6 +417,14 @@
       "onboard_time": 1689561268,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 523749,
+      "num": 523749,
+      "word": "肖战迪丽热巴或将合作",
+      "onboard_time": 1689571530,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 523112,
@@ -603,6 +611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 418166,
+      "num": 418166,
+      "word": "莲花楼",
+      "onboard_time": 1689571172,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412187,
       "num": 412187,
       "word": "审计到底有多累",
@@ -643,6 +659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 394351,
+      "num": 394351,
+      "word": "湿气和汗水的区别",
+      "onboard_time": 1689569795,
+      "rank": 33,
+      "category": "其它"
+    },
+    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
@@ -665,6 +689,38 @@
       "onboard_time": 1689565051,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 368390,
+      "num": 368390,
+      "word": "玖月晞知道自己在反驳什么吗",
+      "onboard_time": 1689571230,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 368266,
+      "num": 368266,
+      "word": "顾漫简介加入骄阳似我下",
+      "onboard_time": 1689570100,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 364022,
+      "num": 328666,
+      "word": "小朋友尴尬的撤回了一条消息",
+      "onboard_time": 1689569553,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 361907,
+      "num": 361907,
+      "word": "杨澄王莹烂人真心",
+      "onboard_time": 1689569855,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 359698,
@@ -715,22 +771,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 344543,
-      "num": 344543,
-      "word": "杨澄王莹烂人真心",
-      "onboard_time": 1689569855,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 340244,
-      "num": 340244,
-      "word": "顾漫简介加入骄阳似我下",
-      "onboard_time": 1689570100,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338704,
       "num": 338704,
       "word": "Angelababy金宇彬A妹加菲抖森同框",
@@ -755,12 +795,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 329653,
-      "num": 329653,
-      "word": "湿气和汗水的区别",
-      "onboard_time": 1689569795,
-      "rank": 33,
-      "category": "其它"
+      "raw_hot": 330197,
+      "num": 330197,
+      "word": "男子家暴成瘾反问民警打老婆犯法吗",
+      "onboard_time": 1689570692,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329079,
@@ -769,14 +809,6 @@
       "onboard_time": 1689565830,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 328666,
-      "num": 328666,
-      "word": "小朋友尴尬的撤回了一条消息",
-      "onboard_time": 1689569553,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 320107,
@@ -939,20 +971,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269828,
-      "num": 269828,
-      "word": "男子家暴成瘾反问民警打老婆犯法吗",
-      "onboard_time": 1689570692,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267077,
       "num": 267077,
       "word": "韩庚当年到底有多火",
       "onboard_time": 1689510991,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264717,
+      "num": 313343,
+      "word": "克里米亚大桥紧急事件致2死1伤",
+      "onboard_time": 1689571649,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264478,
@@ -985,6 +1017,14 @@
       "onboard_time": 1689564392,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257653,
+      "num": 313185,
+      "word": "克里米亚大桥铁路交通完全中断",
+      "onboard_time": 1689570930,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256687,
@@ -1091,14 +1131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229775,
-      "num": 229775,
-      "word": "克里米亚大桥铁路交通完全中断",
-      "onboard_time": 1689570930,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225810,
       "num": 225810,
       "word": "温网",
@@ -1131,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214034,
+      "num": 312854,
+      "word": "西安上次这么热闹还在唐朝",
+      "onboard_time": 1689571291,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213468,
       "num": 211006,
       "word": "王鹤棣工作室是懂我们想看什么的",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1689560009,
       "rank": 42,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 210800,
+      "num": 312667,
+      "word": "马立奥可爱",
+      "onboard_time": 1689572011,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 210350,

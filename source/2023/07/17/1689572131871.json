@@ -1,0 +1,410 @@
+{
+  "runTime": 1689572131871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1698470,
+        "num": 1698470,
+        "word": "现在的小区名越来越敢起了",
+        "onboard_time": 1689561331,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 998198,
+        "num": 998198,
+        "word": "微信号长期没有使用",
+        "onboard_time": 1689569433,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11027,
+        "num": 990503,
+        "word": "第2架国产C919入列",
+        "onboard_time": 1689512914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1734928,
+        "num": 947004,
+        "word": "韩国幽灵儿童事件",
+        "onboard_time": 1689570396,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1727132,
+        "num": 913785,
+        "word": "韩国首尔地铁里的催生广告",
+        "onboard_time": 1689568774,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1698218,
+        "num": 890443,
+        "word": "玖月晞 我没抄袭",
+        "onboard_time": 1689563371,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 874779,
+        "num": 874779,
+        "word": "中学新生缴4千元买30件校服",
+        "onboard_time": 1689565230,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 832641,
+        "num": 832641,
+        "word": "共用一张脸的明星",
+        "onboard_time": 1689564570,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773325,
+        "num": 773325,
+        "word": "魏大勋杂志好像出国疗养的孟宴臣",
+        "onboard_time": 1689569494,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738153,
+        "num": 738153,
+        "word": "鹿晗演唱会上海",
+        "onboard_time": 1689570153,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1537447,
+        "num": 735006,
+        "word": "玖月晞说有个女孩喜欢孟宴臣十年",
+        "onboard_time": 1689566375,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 660716,
+        "num": 660716,
+        "word": "普通家庭的家长不用刻意让孩子吃苦",
+        "onboard_time": 1689566851,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 627068,
+        "num": 627068,
+        "word": "福宝等比例长大了",
+        "onboard_time": 1689568774,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625981,
+        "num": 625981,
+        "word": "刘恺威带小糯米外出",
+        "onboard_time": 1689557789,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545410,
+        "num": 545410,
+        "word": "身份证被狗吃了",
+        "onboard_time": 1689567456,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523749,
+        "num": 523749,
+        "word": "肖战迪丽热巴或将合作",
+        "onboard_time": 1689571530,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487569,
+        "num": 487569,
+        "word": "令人不适的异性称呼",
+        "onboard_time": 1689569376,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446581,
+        "num": 446581,
+        "word": "清北学霸怒斥研学内幕",
+        "onboard_time": 1689569735,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 432048,
+        "num": 432048,
+        "word": "爸爸当家",
+        "onboard_time": 1689569314,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418166,
+        "num": 418166,
+        "word": "莲花楼",
+        "onboard_time": 1689571172,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394351,
+        "num": 394351,
+        "word": "湿气和汗水的区别",
+        "onboard_time": 1689569795,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 392182,
+        "num": 392182,
+        "word": "孟宴臣存在过的证据",
+        "onboard_time": 1689565590,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368390,
+        "num": 368390,
+        "word": "玖月晞知道自己在反驳什么吗",
+        "onboard_time": 1689571230,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368266,
+        "num": 368266,
+        "word": "顾漫简介加入骄阳似我下",
+        "onboard_time": 1689570100,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334650,
+        "num": 364377,
+        "word": "国内多个城市在TikTok爆火",
+        "onboard_time": 1689551006,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 361907,
+        "num": 361907,
+        "word": "杨澄王莹烂人真心",
+        "onboard_time": 1689569855,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359402,
+        "num": 359402,
+        "word": "玖月晞破防的原因",
+        "onboard_time": 1689555571,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339569,
+        "num": 339569,
+        "word": "范丞丞预判了导演的预判",
+        "onboard_time": 1689566975,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330197,
+        "num": 330197,
+        "word": "男子家暴成瘾反问民警打老婆犯法吗",
+        "onboard_time": 1689570692,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319583,
+        "num": 319583,
+        "word": "楼间距小的还是放弃百叶窗吧",
+        "onboard_time": 1689570100,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364022,
+        "num": 318660,
+        "word": "小朋友尴尬的撤回了一条消息",
+        "onboard_time": 1689569553,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 333881,
+        "num": 318544,
+        "word": "魏大勋跑赢过猎人",
+        "onboard_time": 1689568115,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321877,
+        "num": 318057,
+        "word": "陈伟霆练的肌肉被急性肠胃炎搞没了",
+        "onboard_time": 1689569912,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316069,
+        "num": 316069,
+        "word": "审计到底有多累",
+        "onboard_time": 1689569137,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301325,
+        "num": 315931,
+        "word": "外卖员可免费上四川三所大学",
+        "onboard_time": 1689567995,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 315822,
+        "num": 315822,
+        "word": "丁墨",
+        "onboard_time": 1689557968,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313536,
+        "num": 313536,
+        "word": "秦岚的少女感",
+        "onboard_time": 1689569676,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272882,
+        "num": 313443,
+        "word": "健身房回应女子更衣室换衣10岁男孩两次闯入",
+        "onboard_time": 1689560308,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264717,
+        "num": 313343,
+        "word": "克里米亚大桥紧急事件致2死1伤",
+        "onboard_time": 1689571649,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257653,
+        "num": 313185,
+        "word": "克里米亚大桥铁路交通完全中断",
+        "onboard_time": 1689570930,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252127,
+        "num": 313101,
+        "word": "邓超Angelababy同框合影",
+        "onboard_time": 1689550468,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247373,
+        "num": 312988,
+        "word": "魏大勋还有曾用名",
+        "onboard_time": 1689567756,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214034,
+        "num": 312854,
+        "word": "西安上次这么热闹还在唐朝",
+        "onboard_time": 1689571291,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210800,
+        "num": 312667,
+        "word": "马立奥可爱",
+        "onboard_time": 1689572011,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201265,
+        "num": 312552,
+        "word": "心动的信号6素人官宣",
+        "onboard_time": 1689564570,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199980,
+        "num": 312394,
+        "word": "迪丽热巴怼脸视频",
+        "onboard_time": 1689566074,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195306,
+        "num": 312356,
+        "word": "被鸟鸟徐志胜李雪琴哭死",
+        "onboard_time": 1689563252,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192576,
+        "num": 312222,
+        "word": "广西一17岁少年发现新物种",
+        "onboard_time": 1689559411,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142716,
+        "num": 312070,
+        "word": "为何提前还房贷不是想还就还",
+        "onboard_time": 1689556587,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 130008,
+        "num": 311952,
+        "word": "A股",
+        "onboard_time": 1689561268,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记为网络强国建设提出新的使命任务#"
+    }
+  }
+}
