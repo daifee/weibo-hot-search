@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689628561845,
+  "endTime": 1689629630498,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -2996,7 +2996,7 @@
     },
     {
       "raw_hot": 48426,
-      "num": 48426,
+      "num": 57707,
       "word": "张嘉元只看车不看吉娜",
       "onboard_time": 1689622633,
       "rank": 23,
@@ -3016,6 +3016,14 @@
       "word": "新版妲己封神首映弹古琴",
       "onboard_time": 1689533594,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 39718,
+      "num": 57700,
+      "word": "杨彤我的人间烟火演技",
+      "onboard_time": 1689627432,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -3051,11 +3059,11 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 25651,
-      "num": 25651,
-      "word": "杨彤我的人间烟火演技",
-      "onboard_time": 1689627432,
-      "rank": 35,
+      "raw_hot": 25533,
+      "num": 57619,
+      "word": "这个学校不能没有李主任",
+      "onboard_time": 1689628511,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -3075,12 +3083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16876,
-      "num": 22699,
-      "word": "这个学校不能没有李主任",
-      "onboard_time": 1689628511,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 20460,
+      "num": 57597,
+      "word": "雨后杭州出现巨型彩虹",
+      "onboard_time": 1689626892,
+      "rank": 45,
+      "category": "自然,社会新闻"
     }
   ],
   "hotgov_list": [

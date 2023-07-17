@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689628561845,
+  "endTime": 1689629630498,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -41748,7 +41748,7 @@
     },
     {
       "raw_hot": 48426,
-      "num": 48426,
+      "num": 57707,
       "word": "张嘉元只看车不看吉娜",
       "onboard_time": 1689622633,
       "rank": 23,
@@ -41865,6 +41865,14 @@
       "onboard_time": 1689484831,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39718,
+      "num": 57700,
+      "word": "杨彤我的人间烟火演技",
+      "onboard_time": 1689627432,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 39664,
@@ -42243,20 +42251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25651,
-      "num": 25651,
-      "word": "杨彤我的人间烟火演技",
-      "onboard_time": 1689627432,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 25563,
       "num": 48822,
       "word": "GEN战胜T1",
       "onboard_time": 1688845036,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25533,
+      "num": 57619,
+      "word": "这个学校不能没有李主任",
+      "onboard_time": 1689628511,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 23875,
@@ -42323,6 +42331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20460,
+      "num": 57597,
+      "word": "雨后杭州出现巨型彩虹",
+      "onboard_time": 1689626892,
+      "rank": 45,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 19992,
       "num": 22303,
       "word": "当事游客回应发视频表扬导游",
@@ -42337,14 +42353,6 @@
       "onboard_time": 1688500931,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16876,
-      "num": 22699,
-      "word": "这个学校不能没有李主任",
-      "onboard_time": 1689628511,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 11854,
