@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689572131871,
+  "endTime": 1689575163695,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -9,6 +9,22 @@
       "onboard_time": 1689563371,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3037184,
+      "num": 2167291,
+      "word": "韩国幽灵儿童事件",
+      "onboard_time": 1689570396,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2837478,
+      "num": 2837478,
+      "word": "深圳已做好停工停课准备",
+      "onboard_time": 1689573089,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2732474,
@@ -52,19 +68,11 @@
     },
     {
       "raw_hot": 1762756,
-      "num": 1014960,
+      "num": 1210774,
       "word": "韩国首尔地铁里的催生广告",
       "onboard_time": 1689568774,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1734928,
-      "num": 947004,
-      "word": "韩国幽灵儿童事件",
-      "onboard_time": 1689570396,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1689781,
@@ -137,6 +145,14 @@
       "onboard_time": 1689555392,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1017055,
+      "num": 1017055,
+      "word": "肖战迪丽热巴或将合作",
+      "onboard_time": 1689571530,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 998198,
@@ -267,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 664017,
+      "num": 664017,
+      "word": "清北学霸怒斥研学内幕",
+      "onboard_time": 1689569735,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 645556,
       "num": 645556,
       "word": "印度网红AK哥被深圳震撼的语无伦次",
@@ -297,14 +321,6 @@
       "onboard_time": 1689503253,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 607889,
-      "num": 607889,
-      "word": "清北学霸怒斥研学内幕",
-      "onboard_time": 1689569735,
-      "rank": 15,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 596378,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 551106,
+      "num": 551106,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1689572671,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 546974,
       "num": 546974,
       "word": "盐城市建湖县一烧烤店发生爆炸",
@@ -417,14 +441,6 @@
       "onboard_time": 1689561268,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 523749,
-      "num": 523749,
-      "word": "肖战迪丽热巴或将合作",
-      "onboard_time": 1689571530,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 523112,
@@ -473,6 +489,22 @@
       "onboard_time": 1689559108,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 481599,
+      "num": 481599,
+      "word": "玖月晞知道自己在反驳什么吗",
+      "onboard_time": 1689571230,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 473217,
+      "num": 473217,
+      "word": "腾讯客服回应微信号回收",
+      "onboard_time": 1689573209,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 473122,
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440833,
+      "num": 440833,
+      "word": "莲花楼",
+      "onboard_time": 1689571172,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439536,
       "num": 439536,
       "word": "男子吃见手青中毒以为自己是奥特曼",
@@ -611,12 +651,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 418166,
-      "num": 418166,
-      "word": "莲花楼",
-      "onboard_time": 1689571172,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 418135,
+      "num": 418135,
+      "word": "马立奥可爱",
+      "onboard_time": 1689572011,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 412187,
@@ -625,6 +665,14 @@
       "onboard_time": 1689569137,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 412107,
+      "num": 412107,
+      "word": "湿气和汗水的区别",
+      "onboard_time": 1689569795,
+      "rank": 33,
+      "category": "其它"
     },
     {
       "raw_hot": 411248,
@@ -659,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 394351,
-      "num": 394351,
-      "word": "湿气和汗水的区别",
-      "onboard_time": 1689569795,
-      "rank": 33,
-      "category": "其它"
-    },
-    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
@@ -691,14 +731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 368390,
-      "num": 368390,
-      "word": "玖月晞知道自己在反驳什么吗",
-      "onboard_time": 1689571230,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 368266,
       "num": 368266,
       "word": "顾漫简介加入骄阳似我下",
@@ -707,8 +739,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368080,
+      "num": 368080,
+      "word": "男子家暴成瘾反问民警打老婆犯法吗",
+      "onboard_time": 1689570692,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364022,
-      "num": 328666,
+      "num": 332585,
       "word": "小朋友尴尬的撤回了一条消息",
       "onboard_time": 1689569553,
       "rank": 34,
@@ -795,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330197,
-      "num": 330197,
-      "word": "男子家暴成瘾反问民警打老婆犯法吗",
-      "onboard_time": 1689570692,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329079,
       "num": 284850,
       "word": "融梗",
@@ -841,6 +873,14 @@
       "onboard_time": 1689550283,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316131,
+      "num": 266550,
+      "word": "韩网热帖 福宝熊设",
+      "onboard_time": 1689574290,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313363,
@@ -969,6 +1009,22 @@
       "onboard_time": 1689565650,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274946,
+      "num": 274946,
+      "word": "杨澄清醒了",
+      "onboard_time": 1689574231,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 267238,
+      "num": 267238,
+      "word": "田曦薇无袖连衣裙",
+      "onboard_time": 1689572431,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 267077,
@@ -1115,6 +1171,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 233705,
+      "num": 233705,
+      "word": "孙怡剥蒜全靠牙咬",
+      "onboard_time": 1689573630,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233094,
       "num": 233094,
       "word": "我只害怕我爱你",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1689503611,
       "rank": 31,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 217588,
+      "num": 217588,
+      "word": "迪丽热巴读仲夏夜之梦",
+      "onboard_time": 1689573269,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216166,
@@ -1185,14 +1257,6 @@
       "onboard_time": 1689560009,
       "rank": 42,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 210800,
-      "num": 312667,
-      "word": "马立奥可爱",
-      "onboard_time": 1689572011,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 210350,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1689549683,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197955,
+      "num": 209654,
+      "word": "迪丽热巴龚俊今晚直播",
+      "onboard_time": 1689574470,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 196654,
@@ -1427,6 +1499,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 134721,
+      "num": 209607,
+      "word": "你们两支持的不是同一方啊",
+      "onboard_time": 1689575130,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130387,
       "num": 130387,
       "word": "德约科维奇",
@@ -1484,7 +1564,7 @@
     },
     {
       "raw_hot": 103457,
-      "num": 198098,
+      "num": 482265,
       "word": "藿香味小雪糕有多上头",
       "onboard_time": 1689569553,
       "rank": 47,
