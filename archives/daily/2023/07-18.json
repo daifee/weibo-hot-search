@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689626041523,
+  "endTime": 1689628561845,
   "band_list": [
     {
       "raw_hot": 1681615,
@@ -459,20 +459,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 48426,
+      "num": 48426,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43412,
       "num": 43412,
       "word": "选高司令来演芭比的原因",
       "onboard_time": 1689616396,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 41539,
-      "num": 41539,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 35405,
@@ -499,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25651,
+      "num": 25651,
+      "word": "杨彤我的人间烟火演技",
+      "onboard_time": 1689627432,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23385,
       "num": 42615,
       "word": "责任感是和喜爱一起出现的",
       "onboard_time": 1689618975,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16876,
+      "num": 22699,
+      "word": "这个学校不能没有李主任",
+      "onboard_time": 1689628511,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

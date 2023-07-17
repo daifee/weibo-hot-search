@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689626041523,
+  "endTime": 1689628561845,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -41747,6 +41747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48426,
+      "num": 48426,
+      "word": "张嘉元只看车不看吉娜",
+      "onboard_time": 1689622633,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 48190,
       "num": 1530553,
       "word": "102年中的变与不变",
@@ -41841,14 +41849,6 @@
       "onboard_time": 1688706044,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41539,
-      "num": 41539,
-      "word": "张嘉元只看车不看吉娜",
-      "onboard_time": 1689622633,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 41220,
@@ -42243,6 +42243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25651,
+      "num": 25651,
+      "word": "杨彤我的人间烟火演技",
+      "onboard_time": 1689627432,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25563,
       "num": 48822,
       "word": "GEN战胜T1",
@@ -42329,6 +42337,14 @@
       "onboard_time": 1688500931,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16876,
+      "num": 22699,
+      "word": "这个学校不能没有李主任",
+      "onboard_time": 1689628511,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 11854,

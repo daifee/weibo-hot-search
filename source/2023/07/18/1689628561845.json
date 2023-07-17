@@ -1,0 +1,410 @@
+{
+  "runTime": 1689628561845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 182240,
+        "num": 182240,
+        "word": "台风",
+        "onboard_time": 1689607055,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90806,
+        "num": 90806,
+        "word": "玉骨遥为什么没爆",
+        "onboard_time": 1689596791,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9248,
+        "num": 81596,
+        "word": "沉湖湿地生态修复变身鸟类天堂",
+        "onboard_time": 1689600512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95869,
+        "num": 80425,
+        "word": "觉得infp很可怕",
+        "onboard_time": 1689609152,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 78832,
+        "num": 78832,
+        "word": "29岁女生入职3年月薪涨200元裸辞",
+        "onboard_time": 1689608672,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63934,
+        "num": 63934,
+        "word": "B太和市场局局长一起逛市场",
+        "onboard_time": 1689607713,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55019,
+        "num": 55019,
+        "word": "十年果粉首次换到安卓是种什么体验",
+        "onboard_time": 1689605796,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 52014,
+        "num": 52014,
+        "word": "李雪琴 她太懂内心敏感的人的痛",
+        "onboard_time": 1689618255,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48426,
+        "num": 48426,
+        "word": "张嘉元只看车不看吉娜",
+        "onboard_time": 1689622633,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45468,
+        "num": 45468,
+        "word": "运动员吐槽东京奥运会奖牌2年成废铁",
+        "onboard_time": 1689602555,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135964,
+        "num": 44980,
+        "word": "人民文娱评蔡依林线上首唱会",
+        "onboard_time": 1689606033,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134736,
+        "num": 44577,
+        "word": "我的人间烟火 缺德文学",
+        "onboard_time": 1689607591,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113400,
+        "num": 44343,
+        "word": "迪丽热巴回应撞脸弼马温",
+        "onboard_time": 1689603338,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43911,
+        "num": 43911,
+        "word": "外国人说这就是吴京",
+        "onboard_time": 1689606156,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43644,
+        "num": 43644,
+        "word": "海关查获10只活体巨人蜈蚣",
+        "onboard_time": 1689590429,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42152,
+        "num": 42152,
+        "word": "当和你合租的是一群狗狗",
+        "onboard_time": 1689608911,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38300,
+        "num": 38300,
+        "word": "龚俊跟周杰伦合唱能炫耀一辈子吧",
+        "onboard_time": 1689619515,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35107,
+        "num": 35107,
+        "word": "我的人间烟火",
+        "onboard_time": 1689608731,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34674,
+        "num": 34674,
+        "word": "乘风成团夜",
+        "onboard_time": 1689598172,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32128,
+        "num": 32128,
+        "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
+        "onboard_time": 1689595831,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43365,
+        "num": 32104,
+        "word": "榴莲价格跌至全年最低",
+        "onboard_time": 1689604115,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 42432,
+        "num": 31984,
+        "word": "女子连续三年感染同一型HPV",
+        "onboard_time": 1689604235,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37279,
+        "num": 31772,
+        "word": "永远不要觉得尴尬和丢脸",
+        "onboard_time": 1689606513,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37267,
+        "num": 31681,
+        "word": "文咏珊上身下身两种季节",
+        "onboard_time": 1689598774,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32336,
+        "num": 31549,
+        "word": "发朋友圈习惯私密几天再公开",
+        "onboard_time": 1689603275,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31511,
+        "num": 31511,
+        "word": "玉骨遥点映礼没有王楚然",
+        "onboard_time": 1689607831,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30989,
+        "num": 30989,
+        "word": "李木戈希望对得起真正看剧的观众",
+        "onboard_time": 1689595953,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30361,
+        "num": 30361,
+        "word": "女子因家中陌生手环发现床下藏摄像头",
+        "onboard_time": 1689589830,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30160,
+        "num": 30160,
+        "word": "魏大勋从真情侣的全世界路过",
+        "onboard_time": 1689602434,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30158,
+        "num": 30158,
+        "word": "做自己的光",
+        "onboard_time": 1689614479,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29734,
+        "num": 29734,
+        "word": "父辈仇恨射下的箭 十年后正中他的眉心",
+        "onboard_time": 1689608911,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28187,
+        "num": 28187,
+        "word": "Uzi不交闪现",
+        "onboard_time": 1689595531,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27813,
+        "num": 27813,
+        "word": "作者在淘宝买到自己的盗版书",
+        "onboard_time": 1689607831,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26112,
+        "num": 26112,
+        "word": "女子跳绳致肾结石掉下卡在输尿管",
+        "onboard_time": 1689595234,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25916,
+        "num": 25916,
+        "word": "刘宇宁穿保安服直播",
+        "onboard_time": 1689613343,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25651,
+        "num": 25651,
+        "word": "杨彤我的人间烟火演技",
+        "onboard_time": 1689627432,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25503,
+        "num": 25503,
+        "word": "肖战说到做到的自拍",
+        "onboard_time": 1689604235,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25385,
+        "num": 25385,
+        "word": "广东中山10块一盘的活海鲜宵夜",
+        "onboard_time": 1689608371,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24854,
+        "num": 24854,
+        "word": "魏大勋的心态",
+        "onboard_time": 1689604357,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24338,
+        "num": 24338,
+        "word": "公公杀害儿媳抛尸二审维持死刑",
+        "onboard_time": 1689577892,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23859,
+        "num": 23859,
+        "word": "肠胃真的是情绪器官",
+        "onboard_time": 1689597874,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23691,
+        "num": 23691,
+        "word": "当家里的猫喜欢喝流动的水",
+        "onboard_time": 1689610347,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23070,
+        "num": 23070,
+        "word": "台风泰利六点须知",
+        "onboard_time": 1689611903,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21858,
+        "num": 23023,
+        "word": "秦川家破产",
+        "onboard_time": 1689598172,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21108,
+        "num": 22927,
+        "word": "玉骨遥大结局",
+        "onboard_time": 1689592292,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18339,
+        "num": 22840,
+        "word": "姚笛最新状态",
+        "onboard_time": 1689581371,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17133,
+        "num": 22784,
+        "word": "刘诗诗蓝色长裙好优雅",
+        "onboard_time": 1689599072,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16876,
+        "num": 22699,
+        "word": "这个学校不能没有李主任",
+        "onboard_time": 1689628511,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16034,
+        "num": 22567,
+        "word": "成都大运会",
+        "onboard_time": 1689611184,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12192,
+        "num": 22542,
+        "word": "无聊时可以做的DIY玩具",
+        "onboard_time": 1689617356,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国制造未来将继续奔跑起飞#"
+    }
+  }
+}
