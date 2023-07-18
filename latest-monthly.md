@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/18 19:15:09
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/18 19:33:42
 </p>
 </blockquote>
 <p>
@@ -1455,6 +1455,12 @@ Ella 乘风总冠军（热度：2098977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%92%95%E6%8E%89%E4%BA%86%23" target="weibo">
+演唱会门票被弟弟撕掉了（热度：2019217）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E7%A9%BF%E5%87%A0%E5%8D%81%E6%96%A4%E9%87%8D%E9%94%81%E9%93%BE%E8%A3%99%E8%B5%B0%E7%A7%80%23" target="weibo">
 刘雯穿几十斤重锁链裙走秀（热度：2013096）
 </a>
@@ -2141,12 +2147,6 @@ Jennie发了和金泰亨被拍到的造型照片（热度：1732184）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%9B%B2%E5%A5%96%23" target="weibo">
 金曲奖（热度：1716141）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%92%95%E6%8E%89%E4%BA%86%23" target="weibo">
-演唱会门票被弟弟撕掉了（热度：1713990）
 </a>
 </li>
 
@@ -5133,6 +5133,12 @@ TES（热度：1010809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%BC%94%E6%A2%A6%E5%8D%8E%E5%BD%95%E4%BA%86%23" target="weibo">
+刘诗诗什么时候演梦华录了（热度：968845）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E4%B8%8D%E6%84%BF%E4%BB%9870%E5%85%83%E6%89%8B%E6%9C%BA%E7%BB%B4%E4%BF%AE%E8%B4%B9%E6%89%87%E5%A6%BB%E5%AD%90%E8%80%B3%E5%85%89%23" target="weibo">
 丈夫不愿付70元手机维修费扇妻子耳光（热度：968804）
 </a>
@@ -6005,12 +6011,6 @@ iPhone15Pro系列将采用深蓝色（热度：878985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%B2%89%E8%89%B2%E6%89%8B%E9%93%BE%E6%98%AF%E8%87%AA%E5%B7%B1%E4%B8%B2%E7%9A%84%23" target="weibo">
 易烊千玺粉色手链是自己串的（热度：877522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E6%89%8D%E7%9C%8B%E4%BA%86%E6%9D%8E%E7%8E%9F%E5%88%98%E8%81%AA%E7%9A%84%E8%88%9E%E5%8F%B0%23" target="weibo">
-感觉才看了李玟刘聪的舞台（热度：877038）
 </a>
 </li>
 
