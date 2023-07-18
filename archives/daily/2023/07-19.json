@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689707664989,
+  "endTime": 1689708821732,
   "band_list": [
     {
       "raw_hot": 2024991,
@@ -459,12 +459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 31287,
-      "num": 36748,
+      "raw_hot": 33633,
+      "num": 55879,
       "word": "ZB1初一位",
       "onboard_time": 1689706816,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28810,
+      "num": 55818,
+      "word": "男子在沙滩徒手挖出1.5米深大坑",
+      "onboard_time": 1689707114,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19615,

@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689707664989,
+  "endTime": 1689708821732,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -5379,6 +5379,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 33633,
+      "num": 55879,
+      "word": "ZB1初一位",
+      "onboard_time": 1689706816,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32525,
       "num": 319004,
       "word": "祝福玫瑰好状态",
@@ -5387,20 +5395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31287,
-      "num": 36748,
-      "word": "ZB1初一位",
-      "onboard_time": 1689706816,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 29527,
       "num": 36578,
       "word": "怎么做到的自信",
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 28810,
+      "num": 55818,
+      "word": "男子在沙滩徒手挖出1.5米深大坑",
+      "onboard_time": 1689707114,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23385,
