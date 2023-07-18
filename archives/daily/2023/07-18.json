@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689690923176,
+  "endTime": 1689693533878,
   "band_list": [
     {
       "raw_hot": 4544886,
@@ -73,6 +73,14 @@
       "onboard_time": 1689639871,
       "rank": 0,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 2041402,
+      "num": 2041402,
+      "word": "何欢出车祸",
+      "onboard_time": 1689692071,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2019217,
@@ -265,6 +273,14 @@
       "onboard_time": 1689599252,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1150830,
+      "num": 1150830,
+      "word": "翟潇闻 桑延",
+      "onboard_time": 1689692196,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1121010,
@@ -481,6 +497,14 @@
       "onboard_time": 1689650971,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 791376,
+      "num": 791376,
+      "word": "李木戈你是不是当成两部剧拍的",
+      "onboard_time": 1689690634,
+      "rank": 27,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 790140,
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545864,
+      "num": 468353,
+      "word": "宋焰把自己啃过的骨头给许沁吃",
+      "onboard_time": 1689691537,
+      "rank": 14,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 530294,
       "num": 349918,
       "word": "黄渤王一博新海报",
@@ -889,6 +921,14 @@
       "onboard_time": 1689653193,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 499310,
+      "num": 499310,
+      "word": "越南一载中国游客大巴侧翻致4死8伤",
+      "onboard_time": 1689689855,
+      "rank": 23,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 495096,
@@ -1091,8 +1131,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 403255,
+      "num": 389075,
+      "word": "为什么不让马伯骞来演",
+      "onboard_time": 1689688596,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400233,
-      "num": 303367,
+      "num": 355196,
       "word": "本科生应聘工厂遭爽约",
       "onboard_time": 1689689796,
       "rank": 30,
@@ -1107,11 +1155,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 389075,
-      "num": 389075,
-      "word": "为什么不让马伯骞来演",
-      "onboard_time": 1689688596,
-      "rank": 26,
+      "raw_hot": 398517,
+      "num": 345790,
+      "word": "三十而已2官宣启动",
+      "onboard_time": 1689693398,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1137,14 +1185,6 @@
       "onboard_time": 1689689616,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 381387,
-      "num": 381387,
-      "word": "越南一载中国游客大巴侧翻致4死8伤",
-      "onboard_time": 1689689855,
-      "rank": 23,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 377928,
@@ -1427,14 +1467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 306361,
-      "num": 306361,
-      "word": "李木戈你是不是当成两部剧拍的",
-      "onboard_time": 1689690634,
-      "rank": 27,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 304098,
       "num": 161589,
       "word": "李木戈的潜台词",
@@ -1611,6 +1643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 273556,
+      "num": 273556,
+      "word": "本宫带着博士学位回来了",
+      "onboard_time": 1689693216,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273459,
       "num": 273459,
       "word": "乘风2023成团夜合影",
@@ -1656,6 +1696,22 @@
       "word": "因为Tony剪头太烂他先报警了",
       "onboard_time": 1689685830,
       "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 268366,
+      "num": 268366,
+      "word": "空调使用3到5小时后要开窗通风",
+      "onboard_time": 1689692496,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267812,
+      "num": 267812,
+      "word": "确认这是我们省的省饭",
+      "onboard_time": 1689691474,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -1907,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220141,
+      "num": 263415,
+      "word": "在川渝地区容易脱单吗",
+      "onboard_time": 1689693216,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219710,
       "num": 219710,
       "word": "方块咖啡回应员工衣着暴露被指营销",
@@ -1953,6 +2017,14 @@
       "onboard_time": 1689681814,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212157,
+      "num": 263283,
+      "word": "差点以为我的人间烟火结局了",
+      "onboard_time": 1689691714,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 211814,
@@ -2083,6 +2155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198425,
+      "num": 263410,
+      "word": "东北人是多信任东北人",
+      "onboard_time": 1689691415,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 194416,
       "num": 194416,
       "word": "余嘉诚被中戏录取",
@@ -2105,6 +2185,14 @@
       "onboard_time": 1689648570,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190657,
+      "num": 263364,
+      "word": "王者荣耀",
+      "onboard_time": 1689692798,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 187037,
@@ -2161,6 +2249,14 @@
       "onboard_time": 1689640592,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177667,
+      "num": 263318,
+      "word": "子阳东皇FMVP灼幽烈阳",
+      "onboard_time": 1689691537,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 176260,
@@ -2696,6 +2792,9 @@
     },
     {
       "word": "#推动中阿全面战略伙伴关系行稳致远#"
+    },
+    {
+      "word": "#生态画卷这样绘就#"
     }
   ]
 }
