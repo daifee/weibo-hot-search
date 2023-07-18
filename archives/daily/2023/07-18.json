@@ -1,10 +1,10 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689649629991,
+  "endTime": 1689650713094,
   "band_list": [
     {
-      "raw_hot": 2388985,
-      "num": 2388985,
+      "raw_hot": 2904245,
+      "num": 2904245,
       "word": "演员本人无法超越的角色",
       "onboard_time": 1689644487,
       "rank": 16,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1530211,
-      "num": 387809,
+      "num": 423112,
       "word": "秋瓷炫于晓光儿子近照",
       "onboard_time": 1689643711,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1689606033,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1429341,
+      "num": 1429341,
+      "word": "女子不听劝暴雨后骑车过涵洞溺亡",
+      "onboard_time": 1689647009,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1411595,
@@ -75,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1083749,
-      "num": 1083749,
-      "word": "女子不听劝暴雨后骑车过涵洞溺亡",
-      "onboard_time": 1689647009,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1096614,
+      "num": 290247,
+      "word": "王源 BALLY",
+      "onboard_time": 1689650372,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1072011,
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1014293,
+      "num": 1014293,
+      "word": "宋雨琦因说了中国台湾被韩网热议",
+      "onboard_time": 1689649830,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1010365,
       "num": 1010365,
       "word": "玉骨遥为什么没爆",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 963815,
-      "num": 382699,
+      "num": 420443,
       "word": "14岁体校生跑13圈突发猝死",
       "onboard_time": 1689644010,
       "rank": 11,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 889931,
-      "num": 374908,
+      "num": 405222,
       "word": "男孩在环球影城室外垫纸上厕所引争议",
       "onboard_time": 1689644069,
       "rank": 19,
@@ -163,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 839377,
+      "num": 839377,
+      "word": "全红婵跳出全场首个10分",
+      "onboard_time": 1689648690,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 820038,
       "num": 327520,
       "word": "22岁女孩体内竟有上千颗肿瘤",
       "onboard_time": 1689636565,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744182,
+      "num": 744182,
+      "word": "刘奕君演的渣男",
+      "onboard_time": 1689647369,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 699609,
@@ -179,16 +211,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 673350,
-      "num": 673350,
-      "word": "刘奕君演的渣男",
-      "onboard_time": 1689647369,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 669391,
-      "num": 360666,
+      "num": 391081,
       "word": "吴宇恒不敢裸穿",
       "onboard_time": 1689647428,
       "rank": 13,
@@ -201,6 +225,22 @@
       "onboard_time": 1689639931,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 648418,
+      "num": 289845,
+      "word": "张杰晒蓉宝",
+      "onboard_time": 1689649230,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 637084,
+      "num": 410461,
+      "word": "李帝努part",
+      "onboard_time": 1689650491,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 625653,
@@ -227,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 608470,
+      "num": 399870,
+      "word": "NCTDREAM全员开通微博",
+      "onboard_time": 1689650671,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563316,
       "num": 563316,
       "word": "十年果粉首次换到安卓是种什么体验",
@@ -235,12 +283,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 556026,
-      "num": 556026,
-      "word": "全红婵跳出全场首个10分",
-      "onboard_time": 1689648690,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 535651,
+      "num": 383723,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1689649350,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 518787,
@@ -283,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464941,
+      "num": 464941,
+      "word": "男子车胎被服务区人员塞异物险出意外",
+      "onboard_time": 1689646950,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456377,
       "num": 456377,
       "word": "恒大为什么负债这么多",
@@ -305,22 +361,6 @@
       "onboard_time": 1689642271,
       "rank": 18,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 380667,
-      "num": 234369,
-      "word": "张杰晒蓉宝",
-      "onboard_time": 1689649230,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 379938,
-      "num": 379938,
-      "word": "男子车胎被服务区人员塞异物险出意外",
-      "onboard_time": 1689646950,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376166,
@@ -443,6 +483,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290391,
+      "num": 290391,
+      "word": "日本老人海边游泳时遭海豚猛撞",
+      "onboard_time": 1689648150,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288404,
+      "num": 288404,
+      "word": "环球影城回应男孩室外垫纸上厕所",
+      "onboard_time": 1689648330,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285632,
       "num": 243416,
       "word": "这才是中国最没存在感的省",
@@ -531,12 +587,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243392,
+      "num": 243392,
+      "word": "蔡依林南宁演唱会预售",
+      "onboard_time": 1689649230,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240965,
       "num": 240965,
       "word": "戴萌微博被强制修改密码",
       "onboard_time": 1689642627,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237160,
+      "num": 237160,
+      "word": "心动的信号",
+      "onboard_time": 1689647249,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 235713,
@@ -547,20 +619,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233829,
-      "num": 233829,
-      "word": "日本老人海边游泳时遭海豚猛撞",
-      "onboard_time": 1689648150,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231327,
       "num": 231327,
       "word": "孟宴臣你顺着点自己吧",
       "onboard_time": 1689638913,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229731,
+      "num": 240840,
+      "word": "我成了外甥女记仇日记的主角",
+      "onboard_time": 1689650312,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 227255,
@@ -595,20 +667,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218973,
+      "num": 218973,
+      "word": "分手别把电饭煲带走行不行",
+      "onboard_time": 1689646769,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 218660,
       "num": 218660,
       "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
       "onboard_time": 1689595831,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214736,
-      "num": 214736,
-      "word": "分手别把电饭煲带走行不行",
-      "onboard_time": 1689646769,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 211230,
@@ -635,28 +707,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 209295,
-      "num": 209295,
-      "word": "周杰伦演唱会抢票",
-      "onboard_time": 1689649350,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202446,
       "num": 202446,
       "word": "翻到了小学画的甄嬛传",
       "onboard_time": 1689645447,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199082,
-      "num": 199082,
-      "word": "蔡依林南宁演唱会预售",
-      "onboard_time": 1689649230,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 199069,
@@ -667,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198774,
-      "num": 198774,
-      "word": "心动的信号",
-      "onboard_time": 1689647249,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194416,
       "num": 194416,
       "word": "余嘉诚被中戏录取",
@@ -683,12 +731,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187237,
-      "num": 187237,
-      "word": "环球影城回应男孩室外垫纸上厕所",
-      "onboard_time": 1689648330,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 194204,
+      "num": 194204,
+      "word": "封神第一部",
+      "onboard_time": 1689650251,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192630,
+      "num": 192630,
+      "word": "迪丽热巴说维吾尔语",
+      "onboard_time": 1689648570,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 186970,
@@ -739,8 +795,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 167162,
-      "num": 167162,
+      "raw_hot": 167775,
+      "num": 185022,
       "word": "成都大运会熊猫代表团",
       "onboard_time": 1689648088,
       "rank": 44,
@@ -777,14 +833,6 @@
       "onboard_time": 1689634639,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161092,
-      "num": 161092,
-      "word": "迪丽热巴说维吾尔语",
-      "onboard_time": 1689648570,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 159801,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1689618975,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22344,
+      "num": 1280364,
+      "word": "致敬高温里的平凡英雄",
+      "onboard_time": 1689650192,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15188,
