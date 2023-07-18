@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689701613549,
+  "endTime": 1689704594912,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -42987,6 +42987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94498,
+      "num": 77817,
+      "word": "林允选剧本的眼光",
+      "onboard_time": 1689701959,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 94445,
       "num": 94445,
       "word": "学学李白找工作",
@@ -43737,6 +43745,14 @@
       "onboard_time": 1688459136,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62629,
+      "num": 58114,
+      "word": "健身房的灯等于服装店的镜子",
+      "onboard_time": 1689700641,
+      "rank": 30,
+      "category": "幽默,体育"
     },
     {
       "raw_hot": 62250,
@@ -44561,6 +44577,14 @@
       "onboard_time": 1688500931,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17249,
+      "num": 280251,
+      "word": "成都大运会熊猫代表团出动",
+      "onboard_time": 1689688357,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15188,

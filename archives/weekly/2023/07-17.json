@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689701613549,
+  "endTime": 1689704594912,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -5203,6 +5203,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 94498,
+      "num": 77817,
+      "word": "林允选剧本的眼光",
+      "onboard_time": 1689701959,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91894,
       "num": 100025,
       "word": "浪姐4成团夜青花瓷造型",
@@ -5273,6 +5281,14 @@
       "onboard_time": 1689512914,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62629,
+      "num": 58114,
+      "word": "健身房的灯等于服装店的镜子",
+      "onboard_time": 1689700641,
+      "rank": 30,
+      "category": "幽默,体育"
     },
     {
       "raw_hot": 62250,
@@ -5393,6 +5409,14 @@
       "onboard_time": 1689513819,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17249,
+      "num": 280251,
+      "word": "成都大运会熊猫代表团出动",
+      "onboard_time": 1689688357,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15188,
