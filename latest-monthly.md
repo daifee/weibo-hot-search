@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/18 12:21:21
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/18 12:35:34
 </p>
 </blockquote>
 <p>
@@ -5331,6 +5331,12 @@ TFBOYS演唱会票价已被炒到四万多（热度：945670）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9A%8A%E5%AD%90%E6%8A%8A%E6%88%91%E8%85%BF%E4%B8%8A%E7%9A%84%E6%B7%A4%E8%A1%80%E5%90%B8%E8%B5%B0%E4%BA%86%23" target="weibo">
+蚊子把我腿上的淤血吸走了（热度：936193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E8%AE%B0%E5%BE%972008%E5%B9%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%E5%90%97%23" target="weibo">
 还记得2008年发生了什么吗（热度：935827）
 </a>
@@ -6005,12 +6011,6 @@ G社拍的宋轶（热度：869385）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%89%E5%85%B4%E5%A5%B3%E4%BC%9A%E8%AE%A1%E8%BD%AC%E5%85%89%E5%90%8C%E4%BA%8B%E5%8D%A1%E9%87%8C%E7%9A%84%E9%92%B1%E5%8F%8D%E8%80%8C%E8%A2%AB%E6%84%9F%E8%B0%A2%23" target="weibo">
 嘉兴女会计转光同事卡里的钱反而被感谢（热度：866445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB17%E6%A5%BC%E5%9D%A0%E4%B8%8B%E7%94%B7%E5%AD%90%E7%A0%B8%E5%85%A5ICU%23" target="weibo">
-9岁男孩被17楼坠下男子砸入ICU（热度：866389）
 </a>
 </li>
 
