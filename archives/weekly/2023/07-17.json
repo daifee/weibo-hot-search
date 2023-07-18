@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689718592986,
+  "endTime": 1689719628944,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -5027,6 +5027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132525,
+      "num": 132525,
+      "word": "基辛格",
+      "onboard_time": 1689717674,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131513,
       "num": 131513,
       "word": "人民海军版轻舟已过万重山",
@@ -5121,6 +5129,14 @@
       "onboard_time": 1689517115,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117593,
+      "num": 117593,
+      "word": "孟宴臣角色号发的照片",
+      "onboard_time": 1689714493,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 115897,
@@ -5275,14 +5291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77413,
-      "num": 77413,
-      "word": "孟宴臣角色号发的照片",
-      "onboard_time": 1689714493,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 71274,
       "num": 1949445,
       "word": "第2架国产C919入列",
@@ -5331,14 +5339,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 53033,
-      "num": 53033,
-      "word": "基辛格",
-      "onboard_time": 1689717674,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50756,
       "num": 329003,
       "word": "马保国给饿了么免单出题",
@@ -5371,6 +5371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 42504,
+      "num": 55818,
+      "word": "男子在沙滩徒手挖出1.5米深大坑",
+      "onboard_time": 1689707114,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42119,
       "num": 45571,
       "word": "新版妲己封神首映弹古琴",
@@ -5395,14 +5403,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 35151,
-      "num": 55818,
-      "word": "男子在沙滩徒手挖出1.5米深大坑",
-      "onboard_time": 1689707114,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33633,
       "num": 55879,
       "word": "ZB1初一位",
@@ -5419,20 +5419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29936,
+      "num": 293025,
+      "word": "成都大运会熊猫代表团出动",
+      "onboard_time": 1689688357,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29527,
       "num": 36578,
       "word": "怎么做到的自信",
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 24407,
-      "num": 280251,
-      "word": "成都大运会熊猫代表团出动",
-      "onboard_time": 1689688357,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23385,

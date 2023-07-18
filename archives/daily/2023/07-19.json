@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689718592986,
+  "endTime": 1689719628944,
   "band_list": [
     {
       "raw_hot": 2024991,
@@ -339,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132525,
+      "num": 132525,
+      "word": "基辛格",
+      "onboard_time": 1689717674,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131822,
       "num": 131822,
       "word": "越南一载中国游客大巴侧翻致4死8伤",
@@ -361,6 +369,14 @@
       "onboard_time": 1689682173,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117593,
+      "num": 117593,
+      "word": "孟宴臣角色号发的照片",
+      "onboard_time": 1689714493,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 117038,
@@ -419,14 +435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 77413,
-      "num": 77413,
-      "word": "孟宴臣角色号发的照片",
-      "onboard_time": 1689714493,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 62629,
       "num": 103244,
       "word": "健身房的灯等于服装店的镜子",
@@ -435,7 +443,7 @@
       "category": "幽默,体育"
     },
     {
-      "raw_hot": 53558,
+      "raw_hot": 60381,
       "num": 103130,
       "word": "许沁把房子车子还回去了",
       "onboard_time": 1689685594,
@@ -449,14 +457,6 @@
       "onboard_time": 1689691714,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 53033,
-      "num": 53033,
-      "word": "基辛格",
-      "onboard_time": 1689717674,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47694,
@@ -475,7 +475,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35151,
+      "raw_hot": 42504,
       "num": 55818,
       "word": "男子在沙滩徒手挖出1.5米深大坑",
       "onboard_time": 1689707114,
@@ -491,8 +491,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24407,
-      "num": 280251,
+      "raw_hot": 29936,
+      "num": 293025,
       "word": "成都大运会熊猫代表团出动",
       "onboard_time": 1689688357,
       "rank": 2,
