@@ -1,0 +1,410 @@
+{
+  "runTime": 1689658439939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3034800,
+        "num": 3034800,
+        "word": "宋雨琦因说了中国台湾被韩网热议",
+        "onboard_time": 1689649830,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1886566,
+        "num": 1886566,
+        "word": "苏醒说混内娱好不好的标志是见到杨迪",
+        "onboard_time": 1689656135,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19398,
+        "num": 1421433,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1689575790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215184,
+        "num": 1215184,
+        "word": "演员本人无法超越的角色",
+        "onboard_time": 1689644487,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 953326,
+        "num": 953326,
+        "word": "女子不听劝暴雨后骑车过涵洞溺亡",
+        "onboard_time": 1689647009,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906406,
+        "num": 906406,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1689649350,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 855254,
+        "num": 855254,
+        "word": "大麦",
+        "onboard_time": 1689653073,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 819288,
+        "num": 819288,
+        "word": "许沁被偷改的人生",
+        "onboard_time": 1689655833,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610707,
+        "num": 610707,
+        "word": "成都现双太阳",
+        "onboard_time": 1689653255,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562343,
+        "num": 562343,
+        "word": "特斯拉上海工人季度奖金突增至1.5倍月薪",
+        "onboard_time": 1689654576,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 711173,
+        "num": 561149,
+        "word": "苏醒曾因为榴莲跟女友分手",
+        "onboard_time": 1689657391,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615732,
+        "num": 557846,
+        "word": "Ella 乘风总冠军",
+        "onboard_time": 1689639871,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546202,
+        "num": 546202,
+        "word": "孟宴臣送个车子宋焰送个锤子",
+        "onboard_time": 1689650011,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529325,
+        "num": 529325,
+        "word": "张杰晒蓉宝",
+        "onboard_time": 1689649230,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 489219,
+        "num": 489219,
+        "word": "豚门",
+        "onboard_time": 1689653193,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 429615,
+        "num": 429615,
+        "word": "韩国版消失的她",
+        "onboard_time": 1689642211,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336531,
+        "num": 336531,
+        "word": "秋瓷炫于晓光儿子近照",
+        "onboard_time": 1689643711,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318038,
+        "num": 318038,
+        "word": "觉得infp很可怕",
+        "onboard_time": 1689609152,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 305789,
+        "num": 305789,
+        "word": "查理苏",
+        "onboard_time": 1689653975,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 304946,
+        "num": 304946,
+        "word": "英雄联盟",
+        "onboard_time": 1689657751,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 683493,
+        "num": 304189,
+        "word": "蚊子把我腿上的淤血吸走了",
+        "onboard_time": 1689654156,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 552183,
+        "num": 303126,
+        "word": "22岁女孩体内竟有上千颗肿瘤",
+        "onboard_time": 1689636565,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448076,
+        "num": 301570,
+        "word": "偷偷藏不住豆瓣开分6.7分",
+        "onboard_time": 1689657272,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436071,
+        "num": 299164,
+        "word": "兵马俑的脸上竟然有只蚊子",
+        "onboard_time": 1689658051,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 398034,
+        "num": 297693,
+        "word": "C盘真的一下子就不红了",
+        "onboard_time": 1689639693,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 394228,
+        "num": 296138,
+        "word": "深圳海滩惊现一大堆生蚝",
+        "onboard_time": 1689654634,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 388892,
+        "num": 295022,
+        "word": "小猫咪是懂端水的",
+        "onboard_time": 1689657570,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310936,
+        "num": 293153,
+        "word": "体内断头少年罕见幸存",
+        "onboard_time": 1689654875,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292703,
+        "num": 292703,
+        "word": "薛之谦演唱会后浙江小城菜市场火了",
+        "onboard_time": 1689657093,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285609,
+        "num": 285609,
+        "word": "许沁抱宋焰胳肢窝",
+        "onboard_time": 1689656853,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 616426,
+        "num": 284032,
+        "word": "EXO专访",
+        "onboard_time": 1689657873,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407053,
+        "num": 283708,
+        "word": "恋爱七年分手的感觉",
+        "onboard_time": 1689657452,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347628,
+        "num": 283364,
+        "word": "为什么日漫角色长得不像日本人",
+        "onboard_time": 1689656553,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 280880,
+        "num": 280880,
+        "word": "刘奕君演的渣男",
+        "onboard_time": 1689647369,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279492,
+        "num": 279492,
+        "word": "全红婵跳出全场首个10分",
+        "onboard_time": 1689648690,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232095,
+        "num": 273185,
+        "word": "养父母给了很多爱所以不怨恨亲生父母",
+        "onboard_time": 1689655595,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269171,
+        "num": 269171,
+        "word": "孟宴臣一个眼神就让观众懂了",
+        "onboard_time": 1689658170,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262520,
+        "num": 262520,
+        "word": "NCTDREAM全员开通微博",
+        "onboard_time": 1689650671,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253463,
+        "num": 253463,
+        "word": "环球影城回应男孩室外垫纸上厕所",
+        "onboard_time": 1689648330,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241690,
+        "num": 241690,
+        "word": "男子婚后多次出轨妻子离婚获赔1万",
+        "onboard_time": 1689641430,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241484,
+        "num": 241484,
+        "word": "2岁迷路萌娃告诉民警自己8岁",
+        "onboard_time": 1689655535,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238462,
+        "num": 238462,
+        "word": "肖战谈受刑名场面",
+        "onboard_time": 1689657093,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227683,
+        "num": 238456,
+        "word": "袁姗姗珍珠国风凤冠头饰",
+        "onboard_time": 1689657570,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 206756,
+        "num": 238452,
+        "word": "我的人间烟火 缺德文学",
+        "onboard_time": 1689607591,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203860,
+        "num": 238443,
+        "word": "Whatever I am NoFear",
+        "onboard_time": 1689656314,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196824,
+        "num": 238436,
+        "word": "从初中包里翻出一千块",
+        "onboard_time": 1689655114,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193276,
+        "num": 238429,
+        "word": "乘风2023成团夜合影",
+        "onboard_time": 1689654454,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185734,
+        "num": 238428,
+        "word": "范丞丞说可以和沈腾艾伦演三角恋",
+        "onboard_time": 1689653193,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182146,
+        "num": 238416,
+        "word": "大伯的社交 安静低头吃饭的饭局",
+        "onboard_time": 1689658350,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 176971,
+        "num": 238414,
+        "word": "学校回应食堂异物是鸭子眼球膜",
+        "onboard_time": 1689639693,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见菲律宾前总统杜特尔特#"
+    }
+  }
+}

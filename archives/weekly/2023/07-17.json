@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689657434699,
+  "endTime": 1689658439939,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -115,6 +115,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1886566,
+      "num": 1886566,
+      "word": "苏醒说混内娱好不好的标志是见到杨迪",
+      "onboard_time": 1689656135,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1815579,
       "num": 559564,
       "word": "公公杀害儿媳抛尸二审维持死刑",
@@ -161,14 +169,6 @@
       "onboard_time": 1689584492,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1706927,
-      "num": 1706927,
-      "word": "苏醒说混内娱好不好的标志是见到杨迪",
-      "onboard_time": 1689656135,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1689781,
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 819288,
+      "num": 819288,
+      "word": "许沁被偷改的人生",
+      "onboard_time": 1689655833,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 818289,
       "num": 773325,
       "word": "魏大勋杂志好像出国疗养的孟宴臣",
@@ -795,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 733772,
-      "num": 572391,
-      "word": "许沁被偷改的人生",
-      "onboard_time": 1689655833,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 727554,
       "num": 445097,
       "word": "中国科学院简称中国科学院",
@@ -817,6 +817,14 @@
       "onboard_time": 1689560969,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 711173,
+      "num": 561149,
+      "word": "苏醒曾因为榴莲跟女友分手",
+      "onboard_time": 1689657391,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 708407,
@@ -995,20 +1003,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 616426,
+      "num": 284032,
+      "word": "EXO专访",
+      "onboard_time": 1689657873,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 610707,
+      "num": 610707,
+      "word": "成都现双太阳",
+      "onboard_time": 1689653255,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608970,
       "num": 608970,
       "word": "郎君不如意官宣定档",
       "onboard_time": 1689644310,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 608341,
-      "num": 608341,
-      "word": "成都现双太阳",
-      "onboard_time": 1689653255,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604955,
@@ -1115,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 562343,
+      "num": 562343,
+      "word": "特斯拉上海工人季度奖金突增至1.5倍月薪",
+      "onboard_time": 1689654576,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 560048,
       "num": 313777,
       "word": "女子连续三年感染同一型HPV",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1689593430,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 537140,
-      "num": 537140,
-      "word": "特斯拉上海工人季度奖金突增至1.5倍月薪",
-      "onboard_time": 1689654576,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 534637,
@@ -1475,6 +1491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 448076,
+      "num": 301570,
+      "word": "偷偷藏不住豆瓣开分6.7分",
+      "onboard_time": 1689657272,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443859,
       "num": 439700,
       "word": "范丞丞替杨澄向谢乔道歉",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1689561449,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436071,
+      "num": 299164,
+      "word": "兵马俑的脸上竟然有只蚊子",
+      "onboard_time": 1689658051,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 433832,
@@ -1627,6 +1659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 407053,
+      "num": 283708,
+      "word": "恋爱七年分手的感觉",
+      "onboard_time": 1689657452,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 405904,
       "num": 283094,
       "word": "八角笼中票房",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1689592949,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 388892,
+      "num": 295022,
+      "word": "小猫咪是懂端水的",
+      "onboard_time": 1689657570,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 383779,
@@ -1923,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347628,
+      "num": 283364,
+      "word": "为什么日漫角色长得不像日本人",
+      "onboard_time": 1689656553,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 345228,
       "num": 345228,
       "word": "全红婵第一晋级",
@@ -2017,14 +2073,6 @@
       "onboard_time": 1689585750,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 331932,
-      "num": 331932,
-      "word": "苏醒曾因为榴莲跟女友分手",
-      "onboard_time": 1689657391,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 329079,
@@ -2203,6 +2251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304946,
+      "num": 304946,
+      "word": "英雄联盟",
+      "onboard_time": 1689657751,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304544,
       "num": 329033,
       "word": "长大才知道打碎盘子不是大事",
@@ -2233,6 +2289,14 @@
       "onboard_time": 1689577651,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292703,
+      "num": 292703,
+      "word": "薛之谦演唱会后浙江小城菜市场火了",
+      "onboard_time": 1689657093,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 292324,
@@ -2347,14 +2411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281175,
-      "num": 281175,
-      "word": "偷偷藏不住豆瓣开分6.7分",
-      "onboard_time": 1689657272,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280653,
       "num": 280653,
       "word": "2女子江边露营点餐外卖员找到崩溃",
@@ -2395,14 +2451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274491,
-      "num": 274491,
-      "word": "为什么日漫角色长得不像日本人",
-      "onboard_time": 1689656553,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 273459,
       "num": 273459,
       "word": "乘风2023成团夜合影",
@@ -2431,6 +2479,14 @@
       "num": 270003,
       "word": "范丞丞说可以和沈腾艾伦演三角恋",
       "onboard_time": 1689653193,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 269171,
+      "num": 269171,
+      "word": "孟宴臣一个眼神就让观众懂了",
+      "onboard_time": 1689658170,
       "rank": 36,
       "category": "影视"
     },
@@ -2691,6 +2747,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 238462,
+      "num": 249007,
+      "word": "肖战谈受刑名场面",
+      "onboard_time": 1689657093,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237160,
       "num": 237160,
       "word": "心动的信号",
@@ -2771,12 +2835,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227467,
-      "num": 249007,
-      "word": "肖战谈受刑名场面",
-      "onboard_time": 1689657093,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 227683,
+      "num": 238456,
+      "word": "袁姗姗珍珠国风凤冠头饰",
+      "onboard_time": 1689657570,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 227255,
@@ -2793,14 +2857,6 @@
       "onboard_time": 1689607831,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227038,
-      "num": 248995,
-      "word": "薛之谦演唱会后浙江小城菜市场火了",
-      "onboard_time": 1689657093,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 225810,
@@ -3297,6 +3353,14 @@
       "onboard_time": 1689586411,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182146,
+      "num": 238416,
+      "word": "大伯的社交 安静低头吃饭的饭局",
+      "onboard_time": 1689658350,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 181839,
