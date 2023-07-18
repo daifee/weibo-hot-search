@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689712422511,
+  "endTime": 1689714853689,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -44601,6 +44601,14 @@
       "onboard_time": 1688500931,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15212,
+      "num": 30332,
+      "word": "孟宴臣角色号发的照片",
+      "onboard_time": 1689714493,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 15188,
