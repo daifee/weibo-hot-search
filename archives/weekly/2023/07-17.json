@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689661395553,
+  "endTime": 1689662215021,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -91,6 +91,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1968507,
+      "num": 1968507,
+      "word": "苏醒说混内娱好不好的标志是见到杨迪",
+      "onboard_time": 1689656135,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1942504,
       "num": 636221,
       "word": "姚笛最新状态",
@@ -113,14 +121,6 @@
       "onboard_time": 1689523711,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1887703,
-      "num": 1887703,
-      "word": "苏醒说混内娱好不好的标志是见到杨迪",
-      "onboard_time": 1689656135,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1815579,
@@ -185,6 +185,14 @@
       "onboard_time": 1689609152,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1646386,
+      "num": 1646386,
+      "word": "A67773航班紧急备降昆明",
+      "onboard_time": 1689660150,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1530211,
@@ -635,14 +643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 862743,
-      "num": 862743,
-      "word": "A67773航班紧急备降昆明",
-      "onboard_time": 1689660150,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 857782,
       "num": 857782,
       "word": "乘风成团夜",
@@ -771,6 +771,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 764937,
+      "num": 267723,
+      "word": "男子机场猥亵熟睡女子被行拘",
+      "onboard_time": 1689659670,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757761,
       "num": 252752,
       "word": "NCTDREAM回归新歌ISTJ",
@@ -809,14 +817,6 @@
       "onboard_time": 1689592529,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 734233,
-      "num": 267723,
-      "word": "男子机场猥亵熟睡女子被行拘",
-      "onboard_time": 1689659670,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 727554,
@@ -995,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 636193,
+      "num": 636193,
+      "word": "肖战说最近在上课",
+      "onboard_time": 1689659189,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 627068,
       "num": 804693,
       "word": "福宝等比例长大了",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1689605796,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 601436,
-      "num": 601436,
-      "word": "肖战说最近在上课",
-      "onboard_time": 1689659189,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 596378,
@@ -1787,6 +1787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392559,
+      "num": 387948,
+      "word": "美国芯片业集体呼吁美政府停止对华限制",
+      "onboard_time": 1689660690,
+      "rank": 33,
+      "category": "财经,国内要闻"
+    },
+    {
       "raw_hot": 388892,
       "num": 295022,
       "word": "小猫咪是懂端水的",
@@ -1843,8 +1851,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 370762,
-      "num": 370762,
+      "raw_hot": 371117,
+      "num": 371117,
       "word": "为什么日漫角色长得不像日本人",
       "onboard_time": 1689656553,
       "rank": 33,
@@ -2027,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347524,
+      "num": 246440,
+      "word": "网传男子怒扇婴儿脸几十次",
+      "onboard_time": 1689661710,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345228,
       "num": 345228,
       "word": "全红婵第一晋级",
@@ -2163,7 +2179,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 323036,
+      "raw_hot": 323198,
       "num": 244911,
       "word": "大伯的社交 安静低头吃饭的饭局",
       "onboard_time": 1689658350,
@@ -2499,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277059,
+      "num": 277059,
+      "word": "灌篮高手 三延",
+      "onboard_time": 1689658593,
+      "rank": 19,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 276529,
       "num": 264874,
       "word": "沈月晒野猪一家长沙plog",
@@ -2537,14 +2561,6 @@
       "onboard_time": 1689653193,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268988,
-      "num": 268988,
-      "word": "灌篮高手 三延",
-      "onboard_time": 1689658593,
-      "rank": 19,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 268778,
@@ -2625,6 +2641,14 @@
       "onboard_time": 1689570930,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256842,
+      "num": 256842,
+      "word": "袁姗姗珍珠国风凤冠头饰",
+      "onboard_time": 1689657570,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 256687,
@@ -2713,14 +2737,6 @@
       "onboard_time": 1689560548,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245955,
-      "num": 245955,
-      "word": "袁姗姗珍珠国风凤冠头饰",
-      "onboard_time": 1689657570,
-      "rank": 42,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 244983,
@@ -2841,6 +2857,14 @@
       "onboard_time": 1689564096,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 234806,
+      "num": 234806,
+      "word": "何超莲官宣心动6",
+      "onboard_time": 1689659610,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 233705,
@@ -2977,14 +3001,6 @@
       "onboard_time": 1689646769,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 218633,
-      "num": 218633,
-      "word": "美国芯片业集体呼吁美政府停止对华限制",
-      "onboard_time": 1689660690,
-      "rank": 33,
-      "category": "财经,国内要闻"
     },
     {
       "raw_hot": 217588,
@@ -3211,14 +3227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201567,
-      "num": 201567,
-      "word": "何超莲官宣心动6",
-      "onboard_time": 1689659610,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201515,
       "num": 201515,
       "word": "三只熊猫打架现场有多混乱",
@@ -3408,6 +3416,14 @@
       "word": "2023乒超联赛",
       "onboard_time": 1689591332,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184200,
+      "num": 184200,
+      "word": "陈芋汐",
+      "onboard_time": 1689661650,
+      "rank": 37,
       "category": "体育"
     },
     {

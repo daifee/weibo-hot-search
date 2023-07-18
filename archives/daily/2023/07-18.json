@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689661395553,
+  "endTime": 1689662215021,
   "band_list": [
     {
       "raw_hot": 4544886,
@@ -27,8 +27,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 1887703,
-      "num": 1887703,
+      "raw_hot": 1968507,
+      "num": 1968507,
       "word": "苏醒说混内娱好不好的标志是见到杨迪",
       "onboard_time": 1689656135,
       "rank": 3,
@@ -49,6 +49,14 @@
       "onboard_time": 1689609152,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1646386,
+      "num": 1646386,
+      "word": "A67773航班紧急备降昆明",
+      "onboard_time": 1689660150,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1530211,
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 862743,
-      "num": 862743,
-      "word": "A67773航班紧急备降昆明",
-      "onboard_time": 1689660150,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 820038,
       "num": 386478,
       "word": "22岁女孩体内竟有上千颗肿瘤",
@@ -283,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 764937,
+      "num": 267723,
+      "word": "男子机场猥亵熟睡女子被行拘",
+      "onboard_time": 1689659670,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744182,
       "num": 744182,
       "word": "刘奕君演的渣男",
       "onboard_time": 1689647369,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 734233,
-      "num": 267723,
-      "word": "男子机场猥亵熟睡女子被行拘",
-      "onboard_time": 1689659670,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 716717,
@@ -363,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 636193,
+      "num": 636193,
+      "word": "肖战说最近在上课",
+      "onboard_time": 1689659189,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 625653,
       "num": 625653,
       "word": "乘风成团名单",
@@ -409,14 +417,6 @@
       "onboard_time": 1689654634,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 601436,
-      "num": 601436,
-      "word": "肖战说最近在上课",
-      "onboard_time": 1689659189,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 591596,
@@ -579,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 392559,
+      "num": 387948,
+      "word": "美国芯片业集体呼吁美政府停止对华限制",
+      "onboard_time": 1689660690,
+      "rank": 33,
+      "category": "财经,国内要闻"
+    },
+    {
       "raw_hot": 388892,
       "num": 295022,
       "word": "小猫咪是懂端水的",
@@ -595,8 +603,8 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 370762,
-      "num": 370762,
+      "raw_hot": 371117,
+      "num": 371117,
       "word": "为什么日漫角色长得不像日本人",
       "onboard_time": 1689656553,
       "rank": 33,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347524,
+      "num": 246440,
+      "word": "网传男子怒扇婴儿脸几十次",
+      "onboard_time": 1689661710,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345228,
       "num": 345228,
       "word": "全红婵第一晋级",
@@ -715,7 +731,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 323036,
+      "raw_hot": 323198,
       "num": 244911,
       "word": "大伯的社交 安静低头吃饭的饭局",
       "onboard_time": 1689658350,
@@ -827,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277059,
+      "num": 277059,
+      "word": "灌篮高手 三延",
+      "onboard_time": 1689658593,
+      "rank": 19,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 274153,
       "num": 247684,
       "word": "女子连续三年感染同一型HPV",
@@ -875,20 +899,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268988,
-      "num": 268988,
-      "word": "灌篮高手 三延",
-      "onboard_time": 1689658593,
-      "rank": 19,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 258777,
       "num": 222683,
       "word": "广东中山10块一盘的活海鲜宵夜",
       "onboard_time": 1689608371,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256842,
+      "num": 256842,
+      "word": "袁姗姗珍珠国风凤冠头饰",
+      "onboard_time": 1689657570,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 253578,
@@ -921,14 +945,6 @@
       "onboard_time": 1689607294,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 245955,
-      "num": 245955,
-      "word": "袁姗姗珍珠国风凤冠头饰",
-      "onboard_time": 1689657570,
-      "rank": 42,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 243392,
@@ -977,6 +993,14 @@
       "onboard_time": 1689638553,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234806,
+      "num": 234806,
+      "word": "何超莲官宣心动6",
+      "onboard_time": 1689659610,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 231327,
@@ -1051,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218633,
-      "num": 218633,
-      "word": "美国芯片业集体呼吁美政府停止对华限制",
-      "onboard_time": 1689660690,
-      "rank": 33,
-      "category": "财经,国内要闻"
-    },
-    {
       "raw_hot": 211230,
       "num": 166076,
       "word": "中国恒大还有多少资产",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1689645447,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201567,
-      "num": 201567,
-      "word": "何超莲官宣心动6",
-      "onboard_time": 1689659610,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 200095,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1689638429,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184200,
+      "num": 184200,
+      "word": "陈芋汐",
+      "onboard_time": 1689661650,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 178896,
