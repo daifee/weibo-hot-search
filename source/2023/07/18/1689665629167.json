@@ -1,0 +1,410 @@
+{
+  "runTime": 1689665629167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2368727,
+        "num": 2368727,
+        "word": "A67773航班紧急备降昆明",
+        "onboard_time": 1689660150,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1746278,
+        "num": 1746278,
+        "word": "宋雨琦因说了中国台湾被韩网热议",
+        "onboard_time": 1689649830,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 13726,
+        "num": 1275539,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1689575790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969013,
+        "num": 969013,
+        "word": "苏醒说混内娱好不好的标志是见到杨迪",
+        "onboard_time": 1689656135,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755704,
+        "num": 755704,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1689649350,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 716936,
+        "num": 716936,
+        "word": "陈芋汐",
+        "onboard_time": 1689661650,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679626,
+        "num": 679626,
+        "word": "美国芯片业集体呼吁美政府停止对华限制",
+        "onboard_time": 1689660690,
+        "rank": 6,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 536156,
+        "num": 536156,
+        "word": "孟宴臣一个眼神就让观众懂了",
+        "onboard_time": 1689658170,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501934,
+        "num": 501934,
+        "word": "肖战说最近在上课",
+        "onboard_time": 1689659189,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386791,
+        "num": 386791,
+        "word": "偷偷藏不住豆瓣开分6.7分",
+        "onboard_time": 1689657272,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401450,
+        "num": 383156,
+        "word": "西安中考外地回流生",
+        "onboard_time": 1689663152,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 377354,
+        "num": 377354,
+        "word": "麻辣烫里不能没有什么",
+        "onboard_time": 1689664591,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347170,
+        "num": 347170,
+        "word": "英雄联盟",
+        "onboard_time": 1689657751,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325660,
+        "num": 325660,
+        "word": "大伯的社交 安静低头吃饭的饭局",
+        "onboard_time": 1689658350,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 315732,
+        "num": 315732,
+        "word": "Ella 乘风总冠军",
+        "onboard_time": 1689639871,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311035,
+        "num": 311035,
+        "word": "女子不听劝暴雨后骑车过涵洞溺亡",
+        "onboard_time": 1689647009,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298221,
+        "num": 298221,
+        "word": "袁姗姗珍珠国风凤冠头饰",
+        "onboard_time": 1689657570,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 295916,
+        "num": 295916,
+        "word": "种地吧",
+        "onboard_time": 1689664649,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278466,
+        "num": 278466,
+        "word": "2岁迷路萌娃告诉民警自己8岁",
+        "onboard_time": 1689655535,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255046,
+        "num": 255046,
+        "word": "为什么日漫角色长得不像日本人",
+        "onboard_time": 1689656553,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 641879,
+        "num": 254545,
+        "word": "男子机场猥亵熟睡女子被行拘",
+        "onboard_time": 1689659670,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627997,
+        "num": 250875,
+        "word": "肖战说火锅店偶遇他的几率大",
+        "onboard_time": 1689662431,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 505235,
+        "num": 248369,
+        "word": "网传男子怒扇婴儿脸几十次",
+        "onboard_time": 1689661710,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478870,
+        "num": 243970,
+        "word": "儿童穿着奶辣风老师提醒更换家长拒绝",
+        "onboard_time": 1689663209,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 446433,
+        "num": 242480,
+        "word": "22岁女孩体内竟有上千颗肿瘤",
+        "onboard_time": 1689636565,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432057,
+        "num": 239047,
+        "word": "许沁被偷改的人生",
+        "onboard_time": 1689655833,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380477,
+        "num": 236366,
+        "word": "白敬亭范丞丞到达乌兰浩特",
+        "onboard_time": 1689659732,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327242,
+        "num": 233650,
+        "word": "恋爱七年分手的感觉",
+        "onboard_time": 1689657452,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284144,
+        "num": 228906,
+        "word": "蚊子把我腿上的淤血吸走了",
+        "onboard_time": 1689654156,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228102,
+        "num": 228102,
+        "word": "薛之谦演唱会后浙江小城菜市场火了",
+        "onboard_time": 1689657093,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 578551,
+        "num": 224648,
+        "word": "办个婚礼把一个月工作KPI都完成了",
+        "onboard_time": 1689664352,
+        "rank": 30,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 418605,
+        "num": 220828,
+        "word": "电子屎壳郎",
+        "onboard_time": 1689664050,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215790,
+        "num": 215790,
+        "word": "南航回应空姐撑伞蹚水送乘客上摆渡车",
+        "onboard_time": 1689664891,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213868,
+        "num": 213868,
+        "word": "藏不住爆火的男二女二",
+        "onboard_time": 1689665192,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211464,
+        "num": 211464,
+        "word": "不扯头皮还持久的高马尾",
+        "onboard_time": 1689663453,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 204585,
+        "num": 204585,
+        "word": "李荣浩大连演唱会官宣",
+        "onboard_time": 1689664110,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199048,
+        "num": 199048,
+        "word": "王一博岳云鹏喂药花絮",
+        "onboard_time": 1689665071,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197450,
+        "num": 197450,
+        "word": "为种地吧五号田搬有机肥",
+        "onboard_time": 1689665012,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189893,
+        "num": 189893,
+        "word": "大麦",
+        "onboard_time": 1689653073,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186400,
+        "num": 186400,
+        "word": "兵马俑的脸上竟然有只蚊子",
+        "onboard_time": 1689658051,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 182656,
+        "num": 182656,
+        "word": "演员本人无法超越的角色",
+        "onboard_time": 1689644487,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181457,
+        "num": 181457,
+        "word": "南航将奖励为乘客撑伞的空姐",
+        "onboard_time": 1689665312,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168051,
+        "num": 168051,
+        "word": "九尾这波玩的是抽象",
+        "onboard_time": 1689664952,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167417,
+        "num": 167417,
+        "word": "养父母给了很多爱所以不怨恨亲生父母",
+        "onboard_time": 1689655595,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154254,
+        "num": 154254,
+        "word": "特斯拉上海工人季度奖金突增至1.5倍月薪",
+        "onboard_time": 1689654576,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148457,
+        "num": 148457,
+        "word": "成都现双太阳",
+        "onboard_time": 1689653255,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146440,
+        "num": 146440,
+        "word": "张杰晒蓉宝",
+        "onboard_time": 1689649230,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 145896,
+        "num": 145896,
+        "word": "傍晚的杭州是另一个世界",
+        "onboard_time": 1689665132,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 128891,
+        "num": 145895,
+        "word": "灌篮高手 三延",
+        "onboard_time": 1689658593,
+        "rank": 48,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 128773,
+        "num": 145893,
+        "word": "男子婚后多次出轨妻子离婚获赔1万",
+        "onboard_time": 1689641430,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#东风英名墙让先辈再次看到火箭升空#"
+    }
+  }
+}

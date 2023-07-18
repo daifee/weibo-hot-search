@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689664642942,
+  "endTime": 1689665629167,
   "band_list": [
     {
       "raw_hot": 4544886,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 716936,
+      "num": 716936,
+      "word": "陈芋汐",
+      "onboard_time": 1689661650,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 716717,
       "num": 716717,
       "word": "孟宴臣一个眼神就让观众懂了",
@@ -337,14 +345,6 @@
       "onboard_time": 1689660690,
       "rank": 33,
       "category": "财经,国内要闻"
-    },
-    {
-      "raw_hot": 678239,
-      "num": 678239,
-      "word": "陈芋汐",
-      "onboard_time": 1689661650,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 677819,
@@ -457,6 +457,14 @@
       "onboard_time": 1689661710,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578551,
+      "num": 240695,
+      "word": "办个婚礼把一个月工作KPI都完成了",
+      "onboard_time": 1689664352,
+      "rank": 30,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 570279,
@@ -611,12 +619,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 418605,
+      "num": 240202,
+      "word": "电子屎壳郎",
+      "onboard_time": 1689664050,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405642,
       "num": 380560,
       "word": "张学友演唱会",
       "onboard_time": 1689651272,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 401450,
+      "num": 383156,
+      "word": "西安中考外地回流生",
+      "onboard_time": 1689663152,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 388892,
@@ -627,20 +651,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 385930,
-      "num": 240695,
-      "word": "办个婚礼把一个月工作KPI都完成了",
-      "onboard_time": 1689664352,
-      "rank": 30,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 383779,
       "num": 383779,
       "word": "台风将鲸鱼冲上岸引人围观",
       "onboard_time": 1689642271,
       "rank": 18,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 377354,
+      "num": 377354,
+      "word": "麻辣烫里不能没有什么",
+      "onboard_time": 1689664591,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 371117,
@@ -739,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338450,
-      "num": 240202,
-      "word": "电子屎壳郎",
-      "onboard_time": 1689664050,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 337407,
       "num": 337407,
       "word": "志晟 我是你们的星星",
@@ -819,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 302293,
-      "num": 239811,
-      "word": "麻辣烫里不能没有什么",
-      "onboard_time": 1689664591,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 301502,
       "num": 301502,
       "word": "刘诗诗蓝色长裙好优雅",
@@ -865,6 +873,14 @@
       "onboard_time": 1689657093,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295916,
+      "num": 295916,
+      "word": "种地吧",
+      "onboard_time": 1689664649,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 285632,
@@ -1027,14 +1043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238387,
-      "num": 238387,
-      "word": "西安中考外地回流生",
-      "onboard_time": 1689663152,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 237160,
       "num": 237160,
       "word": "心动的信号",
@@ -1139,6 +1147,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215790,
+      "num": 215790,
+      "word": "南航回应空姐撑伞蹚水送乘客上摆渡车",
+      "onboard_time": 1689664891,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213868,
+      "num": 213868,
+      "word": "藏不住爆火的男二女二",
+      "onboard_time": 1689665192,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211464,
+      "num": 211464,
+      "word": "不扯头皮还持久的高马尾",
+      "onboard_time": 1689663453,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 211230,
       "num": 166076,
       "word": "中国恒大还有多少资产",
@@ -1187,12 +1219,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197630,
-      "num": 197630,
-      "word": "不扯头皮还持久的高马尾",
-      "onboard_time": 1689663453,
+      "raw_hot": 199048,
+      "num": 199048,
+      "word": "王一博岳云鹏喂药花絮",
+      "onboard_time": 1689665071,
       "rank": 36,
-      "category": "时尚"
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197450,
+      "num": 197450,
+      "word": "为种地吧五号田搬有机肥",
+      "onboard_time": 1689665012,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 194416,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1689638429,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181457,
+      "num": 181457,
+      "word": "南航将奖励为乘客撑伞的空姐",
+      "onboard_time": 1689665312,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178896,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1689642932,
       "rank": 43,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 168051,
+      "num": 168051,
+      "word": "九尾这波玩的是抽象",
+      "onboard_time": 1689664952,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 167775,
@@ -1345,6 +1401,14 @@
       "onboard_time": 1689613343,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145896,
+      "num": 145896,
+      "word": "傍晚的杭州是另一个世界",
+      "onboard_time": 1689665132,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 142470,
