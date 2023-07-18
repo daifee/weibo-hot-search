@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689672854420,
+  "endTime": 1689675564960,
   "band_list": [
     {
       "raw_hot": 4544886,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2475996,
-      "num": 2475996,
+      "raw_hot": 2951105,
+      "num": 2951105,
       "word": "韩国网友让宋雨琦回国",
       "onboard_time": 1689669993,
       "rank": 1,
@@ -89,6 +89,14 @@
       "onboard_time": 1689642211,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1511383,
+      "num": 1511383,
+      "word": "六点和六点半下班真的很不一样",
+      "onboard_time": 1689671435,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1500169,
@@ -468,11 +476,19 @@
     },
     {
       "raw_hot": 652703,
-      "num": 355027,
+      "num": 415368,
       "word": "政审家访被妈妈气晕了",
       "onboard_time": 1689671735,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 652553,
+      "num": 652553,
+      "word": "护士在孟宴臣进来前把男女主的床分开了",
+      "onboard_time": 1689673716,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 650789,
@@ -499,20 +515,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 629792,
-      "num": 518740,
-      "word": "六点和六点半下班真的很不一样",
-      "onboard_time": 1689671435,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 625653,
       "num": 625653,
       "word": "乘风成团名单",
       "onboard_time": 1689635723,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 625514,
+      "num": 625514,
+      "word": "腾讯视频",
+      "onboard_time": 1689674615,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 616426,
@@ -555,6 +571,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 603783,
+      "num": 603783,
+      "word": "公司厕所 监控",
+      "onboard_time": 1689670957,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 598578,
+      "num": 598578,
+      "word": "人民网评奶辣风流行",
+      "onboard_time": 1689670535,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596865,
       "num": 372778,
       "word": "事业单位面试通过后被公司裁员",
@@ -571,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 582259,
+      "num": 582259,
+      "word": "西安公安回复TFBOYS演唱会灯牌问题",
+      "onboard_time": 1689671855,
+      "rank": 46,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 582149,
       "num": 267915,
       "word": "网传男子怒扇婴儿脸几十次",
@@ -579,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 574628,
-      "num": 574628,
-      "word": "人民网评奶辣风流行",
-      "onboard_time": 1689670535,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 581225,
+      "num": 581225,
+      "word": "王鹤棣田曦薇或将二搭",
+      "onboard_time": 1689672214,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 570279,
@@ -644,7 +684,7 @@
     },
     {
       "raw_hot": 512974,
-      "num": 366121,
+      "num": 399878,
       "word": "小狗偷亲了给自己换药的主人",
       "onboard_time": 1689670175,
       "rank": 21,
@@ -657,14 +697,6 @@
       "onboard_time": 1689644851,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 510476,
-      "num": 510476,
-      "word": "公司厕所 监控",
-      "onboard_time": 1689670957,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 501607,
@@ -715,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 481081,
+      "num": 481081,
+      "word": "演唱会门票被弟弟撕掉了",
+      "onboard_time": 1689675516,
+      "rank": 15,
+      "category": "情感,音乐"
+    },
+    {
       "raw_hot": 481053,
       "num": 275849,
       "word": "女子无痕撤回一坨冰淇淋",
@@ -755,6 +795,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 448802,
+      "num": 413517,
+      "word": "美男子家藏40颗头骨称都是我朋友",
+      "onboard_time": 1689674073,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448076,
       "num": 434400,
       "word": "偷偷藏不住豆瓣开分6.7分",
@@ -769,6 +817,14 @@
       "onboard_time": 1689598172,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441340,
+      "num": 441340,
+      "word": "西安关于TFBOYS灯牌的态度",
+      "onboard_time": 1689672934,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 436071,
@@ -803,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418797,
-      "num": 418797,
-      "word": "王鹤棣田曦薇或将二搭",
-      "onboard_time": 1689672214,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 418605,
       "num": 240202,
       "word": "电子屎壳郎",
@@ -843,20 +891,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 388372,
+      "num": 295062,
+      "word": "为什么蜘蛛不能踩死",
+      "onboard_time": 1689675393,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 383779,
       "num": 383779,
       "word": "台风将鲸鱼冲上岸引人围观",
       "onboard_time": 1689642271,
       "rank": 18,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 374287,
-      "num": 374287,
-      "word": "西安公安回复TFBOYS演唱会灯牌问题",
-      "onboard_time": 1689671855,
-      "rank": 46,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 371117,
@@ -905,6 +953,14 @@
       "onboard_time": 1689664649,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360885,
+      "num": 424987,
+      "word": "孩子我求求你别跳",
+      "onboard_time": 1689669334,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360010,
@@ -1075,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308345,
+      "num": 308345,
+      "word": "三伏天泡脚",
+      "onboard_time": 1689672396,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304098,
       "num": 161589,
       "word": "李木戈的潜台词",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1689657093,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295592,
+      "num": 295592,
+      "word": "莲花楼",
+      "onboard_time": 1689675454,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 285632,
@@ -1203,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271484,
-      "num": 271484,
-      "word": "三伏天泡脚",
-      "onboard_time": 1689672396,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 270626,
       "num": 270626,
       "word": "杭州的暴雨刚落地就烫成了烟雾",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1689653193,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264609,
+      "num": 264609,
+      "word": "薛之谦巡演官宣海外场",
+      "onboard_time": 1689675454,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 258777,
@@ -1419,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219710,
+      "num": 219710,
+      "word": "方块咖啡回应员工衣着暴露被指营销",
+      "onboard_time": 1689672034,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 219303,
       "num": 219303,
       "word": "魏大勋的心态",
@@ -1440,6 +1520,14 @@
       "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
       "onboard_time": 1689595831,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215654,
+      "num": 1596818,
+      "word": "男子车流中多次往返清障",
+      "onboard_time": 1689672873,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1481,6 +1569,14 @@
       "onboard_time": 1689644550,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 205303,
+      "num": 205303,
+      "word": "还没找工作就听到我被背调了",
+      "onboard_time": 1689673656,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 202727,
@@ -1531,28 +1627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197550,
-      "num": 197550,
-      "word": "方块咖啡回应员工衣着暴露被指营销",
-      "onboard_time": 1689672034,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 194416,
       "num": 194416,
       "word": "余嘉诚被中戏录取",
       "onboard_time": 1689639871,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192999,
-      "num": 192999,
-      "word": "孩子我求求你别跳",
-      "onboard_time": 1689669334,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192630,
@@ -1577,6 +1657,14 @@
       "onboard_time": 1689666571,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 181466,
+      "num": 203819,
+      "word": "丫丫也是卡顿小熊了",
+      "onboard_time": 1689675032,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178896,
@@ -1939,6 +2027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72063,
+      "num": 389365,
+      "word": "女子丢手机被捡拾者开价2500元归还",
+      "onboard_time": 1689675454,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69387,
       "num": 125893,
       "word": "姚笛最新状态",
@@ -1980,7 +2076,7 @@
     },
     {
       "raw_hot": 30396,
-      "num": 1930146,
+      "num": 2206723,
       "word": "2023中国网络文明大会",
       "onboard_time": 1689575790,
       "rank": 2,
