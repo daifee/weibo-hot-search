@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689693533878,
+  "endTime": 1689694437542,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -25,6 +25,14 @@
       "onboard_time": 1689570396,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3007431,
+      "num": 3007431,
+      "word": "何欢出车祸",
+      "onboard_time": 1689692071,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2983177,
@@ -137,14 +145,6 @@
       "onboard_time": 1689639871,
       "rank": 0,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 2041402,
-      "num": 2041402,
-      "word": "何欢出车祸",
-      "onboard_time": 1689692071,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2019217,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1598709,
-      "num": 382946,
+      "num": 395533,
       "word": "9岁女生胃里取出1斤多头发",
       "onboard_time": 1689677159,
       "rank": 20,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1361785,
+      "num": 1361785,
+      "word": "翟潇闻 桑延",
+      "onboard_time": 1689692196,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1337972,
       "num": 537340,
       "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 1277553,
-      "num": 383024,
+      "num": 395742,
       "word": "男子将妻子割喉被判1年6个月",
       "onboard_time": 1689686499,
       "rank": 31,
@@ -505,14 +513,6 @@
       "onboard_time": 1689598774,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1150830,
-      "num": 1150830,
-      "word": "翟潇闻 桑延",
-      "onboard_time": 1689692196,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1133832,
@@ -867,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 838222,
+      "num": 838222,
+      "word": "李木戈你是不是当成两部剧拍的",
+      "onboard_time": 1689690634,
+      "rank": 27,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 835651,
       "num": 488620,
       "word": "办个婚礼把一个月工作KPI都完成了",
@@ -963,14 +971,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 791376,
-      "num": 791376,
-      "word": "李木戈你是不是当成两部剧拍的",
-      "onboard_time": 1689690634,
-      "rank": 27,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 791288,
       "num": 791288,
       "word": "邓超Angelababy同框合影",
@@ -985,6 +985,14 @@
       "onboard_time": 1689675393,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 788821,
+      "num": 635232,
+      "word": "宋焰把自己啃过的骨头给许沁吃",
+      "onboard_time": 1689691537,
+      "rank": 14,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 774633,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1689657751,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 676903,
+      "num": 400422,
+      "word": "三十而已2官宣启动",
+      "onboard_time": 1689693398,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 675908,
@@ -1619,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552969,
+      "num": 399848,
+      "word": "空调使用3到5小时后要开窗通风",
+      "onboard_time": 1689692496,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552028,
       "num": 552028,
       "word": "范丞丞预判了导演的预判",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1689563252,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545864,
-      "num": 468353,
-      "word": "宋焰把自己啃过的骨头给许沁吃",
-      "onboard_time": 1689691537,
-      "rank": 14,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 543645,
@@ -2308,7 +2324,7 @@
     },
     {
       "raw_hot": 400233,
-      "num": 355196,
+      "num": 395082,
       "word": "本科生应聘工厂遭爽约",
       "onboard_time": 1689689796,
       "rank": 30,
@@ -2328,14 +2344,6 @@
       "word": "难哄",
       "onboard_time": 1689679651,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 398517,
-      "num": 345790,
-      "word": "三十而已2官宣启动",
-      "onboard_time": 1689693398,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -2361,6 +2369,14 @@
       "onboard_time": 1689592949,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393947,
+      "num": 273556,
+      "word": "本宫带着博士学位回来了",
+      "onboard_time": 1689693216,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 388892,
@@ -3179,6 +3195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284434,
+      "num": 284434,
+      "word": "王者荣耀",
+      "onboard_time": 1689692798,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283404,
       "num": 283404,
       "word": "买甲片不小心买错型号了",
@@ -3299,14 +3323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273556,
-      "num": 273556,
-      "word": "本宫带着博士学位回来了",
-      "onboard_time": 1689693216,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273459,
       "num": 273459,
       "word": "乘风2023成团夜合影",
@@ -3361,14 +3377,6 @@
       "onboard_time": 1689587431,
       "rank": 4,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 268366,
-      "num": 268366,
-      "word": "空调使用3到5小时后要开窗通风",
-      "onboard_time": 1689692496,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267812,
@@ -3651,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241438,
+      "num": 241438,
+      "word": "爱啃手指的人得好好看看",
+      "onboard_time": 1689693935,
+      "rank": 33,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 241348,
       "num": 241348,
       "word": "Angelababy最新外网生图",
@@ -3704,6 +3720,14 @@
       "word": "心动的信号",
       "onboard_time": 1689647249,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236120,
+      "num": 236120,
+      "word": "杨丞琳对所有浪漫过敏除了李荣浩",
+      "onboard_time": 1689693633,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -3961,6 +3985,14 @@
       "onboard_time": 1689600634,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216256,
+      "num": 216256,
+      "word": "24岁清华女博士将任西工大准聘副教授",
+      "onboard_time": 1689693758,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 216166,
@@ -4339,6 +4371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196188,
+      "num": 196188,
+      "word": "许沁你对得起谁",
+      "onboard_time": 1689694296,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195775,
       "num": 195775,
       "word": "中学回应收新生4千元校服费",
@@ -4401,14 +4441,6 @@
       "onboard_time": 1689554792,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190657,
-      "num": 263364,
-      "word": "王者荣耀",
-      "onboard_time": 1689692798,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 190571,
@@ -4835,6 +4867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147878,
+      "num": 196174,
+      "word": "学会阴阳怪气聊天",
+      "onboard_time": 1689694234,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 147461,
       "num": 364809,
       "word": "世界表情包日",
@@ -4865,6 +4905,14 @@
       "onboard_time": 1689665132,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 145116,
+      "num": 196170,
+      "word": "14天全身塑形",
+      "onboard_time": 1689694356,
+      "rank": 48,
+      "category": "时尚,美妆"
     },
     {
       "raw_hot": 144185,
