@@ -1,0 +1,410 @@
+{
+  "runTime": 1689705404709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 258997,
+        "num": 258997,
+        "word": "微信注销了是这样子",
+        "onboard_time": 1689676949,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251899,
+        "num": 251899,
+        "word": "何欢出车祸",
+        "onboard_time": 1689692071,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19615,
+        "num": 232737,
+        "word": "成都大运会熊猫代表团出动",
+        "onboard_time": 1689688357,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225461,
+        "num": 225461,
+        "word": "宋焰把自己啃过的骨头给许沁吃",
+        "onboard_time": 1689691537,
+        "rank": 3,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 183044,
+        "num": 183044,
+        "word": "翟潇闻 桑延",
+        "onboard_time": 1689692196,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176976,
+        "num": 176976,
+        "word": "韩国网友让宋雨琦回国",
+        "onboard_time": 1689669993,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 156614,
+        "num": 156614,
+        "word": "我怀疑大麦根本就没有票",
+        "onboard_time": 1689689376,
+        "rank": 6,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 144191,
+        "num": 144191,
+        "word": "空调使用3到5小时后要开窗通风",
+        "onboard_time": 1689692496,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117764,
+        "num": 117764,
+        "word": "杨洋 送得很好下次可以再挑挑",
+        "onboard_time": 1689684936,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91467,
+        "num": 112689,
+        "word": "15岁少女被困缅甸受虐痛哭求救",
+        "onboard_time": 1689677912,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220536,
+        "num": 112240,
+        "word": "何超莲说婚后没和窦骁见过面",
+        "onboard_time": 1689685297,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197326,
+        "num": 112089,
+        "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
+        "onboard_time": 1689666812,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110973,
+        "num": 110973,
+        "word": "周杰伦演唱会 不实名",
+        "onboard_time": 1689687996,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109668,
+        "num": 109668,
+        "word": "酒店双床房为什么只能住两人",
+        "onboard_time": 1689667952,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107950,
+        "num": 107950,
+        "word": "玖月晞 改文",
+        "onboard_time": 1689682594,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91626,
+        "num": 107480,
+        "word": "肖战黑伞狙击",
+        "onboard_time": 1689699862,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80367,
+        "num": 106803,
+        "word": "张学友15分钟封神现场",
+        "onboard_time": 1689696989,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78453,
+        "num": 106284,
+        "word": "警方通报75岁男子按摩店内死亡",
+        "onboard_time": 1689686071,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55007,
+        "num": 105081,
+        "word": "24岁清华女博士将任西工大准聘副教授",
+        "onboard_time": 1689693758,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 52408,
+        "num": 104683,
+        "word": "人民网评奶辣风流行",
+        "onboard_time": 1689670535,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110109,
+        "num": 103793,
+        "word": "9岁女生胃里取出1斤多头发",
+        "onboard_time": 1689677159,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103492,
+        "num": 103492,
+        "word": "男子将妻子割喉被判1年6个月",
+        "onboard_time": 1689686499,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79458,
+        "num": 103475,
+        "word": "林允选剧本的眼光",
+        "onboard_time": 1689701959,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66806,
+        "num": 103453,
+        "word": "爱啃手指的人得好好看看",
+        "onboard_time": 1689693935,
+        "rank": 23,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 63814,
+        "num": 103416,
+        "word": "许沁你对得起谁",
+        "onboard_time": 1689694296,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57394,
+        "num": 103381,
+        "word": "赵寻是被侵犯了吗",
+        "onboard_time": 1689695016,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61619,
+        "num": 103343,
+        "word": "李木戈你是不是当成两部剧拍的",
+        "onboard_time": 1689690634,
+        "rank": 26,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 56756,
+        "num": 103316,
+        "word": "优酷爱奇艺都来了",
+        "onboard_time": 1689681452,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52269,
+        "num": 103309,
+        "word": "为什么蜘蛛不能踩死",
+        "onboard_time": 1689675393,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49727,
+        "num": 103273,
+        "word": "郑州市教育局道歉",
+        "onboard_time": 1689669873,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 57447,
+        "num": 103244,
+        "word": "健身房的灯等于服装店的镜子",
+        "onboard_time": 1689700641,
+        "rank": 30,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 56220,
+        "num": 103215,
+        "word": "三十而已2官宣启动",
+        "onboard_time": 1689693398,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46837,
+        "num": 103169,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1689697765,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45721,
+        "num": 103130,
+        "word": "许沁把房子车子还回去了",
+        "onboard_time": 1689685594,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45117,
+        "num": 103118,
+        "word": "刘诗诗什么时候演梦华录了",
+        "onboard_time": 1689677195,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44707,
+        "num": 103088,
+        "word": "结婚登报最低只需180元",
+        "onboard_time": 1689697409,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 43626,
+        "num": 103042,
+        "word": "为什么拉萨很多车后面要挂鞋",
+        "onboard_time": 1689682355,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41949,
+        "num": 103008,
+        "word": "圆肩驼背的正确矫正方式",
+        "onboard_time": 1689683690,
+        "rank": 37,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 41749,
+        "num": 102983,
+        "word": "六点和六点半下班真的很不一样",
+        "onboard_time": 1689671435,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41009,
+        "num": 102952,
+        "word": "王者荣耀",
+        "onboard_time": 1689692798,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39978,
+        "num": 102938,
+        "word": "本宫带着博士学位回来了",
+        "onboard_time": 1689693216,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39556,
+        "num": 102909,
+        "word": "大陆配偶亲属可经小三通赴台探亲",
+        "onboard_time": 1689682173,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38698,
+        "num": 102880,
+        "word": "在川渝地区容易脱单吗",
+        "onboard_time": 1689693216,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36866,
+        "num": 102824,
+        "word": "本科生应聘工厂遭爽约",
+        "onboard_time": 1689689796,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 36581,
+        "num": 102805,
+        "word": "IU演我精神状态",
+        "onboard_time": 1689680431,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36374,
+        "num": 102765,
+        "word": "起猛了看见肖战赵丽颖演师徒了",
+        "onboard_time": 1689678574,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36109,
+        "num": 102756,
+        "word": "第一次听到这么可爱的粤语",
+        "onboard_time": 1689689855,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35172,
+        "num": 102711,
+        "word": "14天全身塑形",
+        "onboard_time": 1689694356,
+        "rank": 47,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 31298,
+        "num": 102686,
+        "word": "越南一载中国游客大巴侧翻致4死8伤",
+        "onboard_time": 1689689855,
+        "rank": 48,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 30790,
+        "num": 102661,
+        "word": "欢颜平均四集死一个影帝级别的老头",
+        "onboard_time": 1689684635,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中阿全面战略伙伴关系行稳致远#"
+    }
+  }
+}
