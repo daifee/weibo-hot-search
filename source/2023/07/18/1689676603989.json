@@ -1,0 +1,410 @@
+{
+  "runTime": 1689676603989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2802750,
+        "num": 2802750,
+        "word": "韩国网友让宋雨琦回国",
+        "onboard_time": 1689669993,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 266552,
+        "num": 2167183,
+        "word": "男子车流中多次往返清障",
+        "onboard_time": 1689672873,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11562,
+        "num": 2065519,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1689575790,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2009670,
+        "num": 2009670,
+        "word": "酒店双床房为什么只能住两人",
+        "onboard_time": 1689667952,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249067,
+        "num": 1515602,
+        "word": "女子丢手机被捡拾者开价2500元归还",
+        "onboard_time": 1689675454,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1308700,
+        "num": 1308700,
+        "word": "六点和六点半下班真的很不一样",
+        "onboard_time": 1689671435,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151282,
+        "num": 1237217,
+        "word": "青岛的哥发明面朝大海向左走攻略",
+        "onboard_time": 1689675873,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1234502,
+        "num": 1234502,
+        "word": "腾讯视频",
+        "onboard_time": 1689674615,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1225883,
+        "num": 1225883,
+        "word": "郑州市教育局道歉",
+        "onboard_time": 1689669873,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 967248,
+        "num": 967248,
+        "word": "演唱会门票被弟弟撕掉了",
+        "onboard_time": 1689675516,
+        "rank": 9,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 717934,
+        "num": 717934,
+        "word": "为什么蜘蛛不能踩死",
+        "onboard_time": 1689675393,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 694966,
+        "num": 694966,
+        "word": "护士在孟宴臣进来前把男女主的床分开了",
+        "onboard_time": 1689673716,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 691460,
+        "num": 691460,
+        "word": "莲花楼",
+        "onboard_time": 1689675454,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 662683,
+        "num": 662683,
+        "word": "人民网评奶辣风流行",
+        "onboard_time": 1689670535,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652643,
+        "num": 652643,
+        "word": "藏不住爆火的男二女二",
+        "onboard_time": 1689665192,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646331,
+        "num": 646331,
+        "word": "西安关于TFBOYS灯牌的态度",
+        "onboard_time": 1689672934,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 553532,
+        "num": 553532,
+        "word": "王鹤棣田曦薇或将二搭",
+        "onboard_time": 1689672214,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531804,
+        "num": 531804,
+        "word": "公司厕所 监控",
+        "onboard_time": 1689670957,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 450197,
+        "num": 450197,
+        "word": "许沁摔全家福",
+        "onboard_time": 1689669813,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420428,
+        "num": 443922,
+        "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
+        "onboard_time": 1689666812,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438150,
+        "num": 438150,
+        "word": "政审家访被妈妈气晕了",
+        "onboard_time": 1689671735,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 425039,
+        "num": 425039,
+        "word": "美男子家藏40颗头骨称都是我朋友",
+        "onboard_time": 1689674073,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412071,
+        "num": 412071,
+        "word": "跟哪个星座恋爱最累",
+        "onboard_time": 1689670957,
+        "rank": 22,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 369401,
+        "num": 369401,
+        "word": "为了不吵架买了25.5度的空调",
+        "onboard_time": 1689667952,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360623,
+        "num": 360623,
+        "word": "小狗偷亲了给自己换药的主人",
+        "onboard_time": 1689670175,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 334664,
+        "num": 334664,
+        "word": "宋雨琦因说了中国台湾被韩网热议",
+        "onboard_time": 1689649830,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 332497,
+        "num": 332497,
+        "word": "A67773航班紧急备降昆明",
+        "onboard_time": 1689660150,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312954,
+        "num": 312954,
+        "word": "为啥玉龙雪山上的烤肠特别好吃",
+        "onboard_time": 1689672274,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297130,
+        "num": 297130,
+        "word": "薛之谦巡演官宣海外场",
+        "onboard_time": 1689675454,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279289,
+        "num": 279289,
+        "word": "看表演记得要鼓掌",
+        "onboard_time": 1689675813,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277242,
+        "num": 277242,
+        "word": "警方回应男子怒扇婴儿脸几十次",
+        "onboard_time": 1689669513,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277196,
+        "num": 277196,
+        "word": "丫丫也是卡顿小熊了",
+        "onboard_time": 1689675032,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254615,
+        "num": 254615,
+        "word": "网传难哄改名",
+        "onboard_time": 1689676113,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248050,
+        "num": 248050,
+        "word": "肖战说火锅店偶遇他的几率大",
+        "onboard_time": 1689662431,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246979,
+        "num": 246979,
+        "word": "三伏天泡脚",
+        "onboard_time": 1689672396,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246922,
+        "num": 246922,
+        "word": "事业单位面试通过后被公司裁员",
+        "onboard_time": 1689668374,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244392,
+        "num": 244392,
+        "word": "关晓彤晒手帐",
+        "onboard_time": 1689671074,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225918,
+        "num": 225918,
+        "word": "粥底火锅",
+        "onboard_time": 1689668671,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218868,
+        "num": 218868,
+        "word": "孩子我求求你别跳",
+        "onboard_time": 1689669334,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415037,
+        "num": 218866,
+        "word": "西安公安回复TFBOYS演唱会灯牌问题",
+        "onboard_time": 1689671855,
+        "rank": 39,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 214129,
+        "num": 218859,
+        "word": "吴磊星汉灿烂的长尾效应",
+        "onboard_time": 1689676414,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209023,
+        "num": 218853,
+        "word": "Angelababy在跑男的十年",
+        "onboard_time": 1689666933,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 205065,
+        "num": 218846,
+        "word": "方块咖啡回应员工衣着暴露被指营销",
+        "onboard_time": 1689672034,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 203103,
+        "num": 218841,
+        "word": "范丞丞张一山情头",
+        "onboard_time": 1689669154,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190725,
+        "num": 218838,
+        "word": "杨洋从若白走到宋焰用了八年",
+        "onboard_time": 1689666452,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179260,
+        "num": 218828,
+        "word": "苏醒说混内娱好不好的标志是见到杨迪",
+        "onboard_time": 1689656135,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178670,
+        "num": 218821,
+        "word": "办个婚礼把一个月工作KPI都完成了",
+        "onboard_time": 1689664352,
+        "rank": 46,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 174311,
+        "num": 218820,
+        "word": "内娱不能塌房的明星",
+        "onboard_time": 1689665854,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147774,
+        "num": 218808,
+        "word": "全红婵陈芋汐断层式碾压晋级",
+        "onboard_time": 1689667232,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135584,
+        "num": 218804,
+        "word": "全红婵跳出满分",
+        "onboard_time": 1689667355,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络文明之夜#"
+    }
+  }
+}

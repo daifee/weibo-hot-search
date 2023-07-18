@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689675564960,
+  "endTime": 1689676603989,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234502,
+      "num": 1234502,
+      "word": "腾讯视频",
+      "onboard_time": 1689674615,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1218568,
       "num": 415243,
       "word": "我的人间烟火 缺德文学",
@@ -561,6 +569,14 @@
       "onboard_time": 1689570153,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 967248,
+      "num": 967248,
+      "word": "演唱会门票被弟弟撕掉了",
+      "onboard_time": 1689675516,
+      "rank": 15,
+      "category": "情感,音乐"
     },
     {
       "raw_hot": 966844,
@@ -923,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 717934,
+      "num": 717934,
+      "word": "为什么蜘蛛不能踩死",
+      "onboard_time": 1689675393,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 716936,
       "num": 716936,
       "word": "陈芋汐",
@@ -1011,6 +1035,22 @@
       "category": "财经,国内要闻"
     },
     {
+      "raw_hot": 694966,
+      "num": 694966,
+      "word": "护士在孟宴臣进来前把男女主的床分开了",
+      "onboard_time": 1689673716,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 691460,
+      "num": 691460,
+      "word": "莲花楼",
+      "onboard_time": 1689571172,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 689985,
       "num": 689985,
       "word": "杨洋从若白走到宋焰用了八年",
@@ -1075,6 +1115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 662683,
+      "num": 662683,
+      "word": "人民网评奶辣风流行",
+      "onboard_time": 1689670535,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661649,
       "num": 661649,
       "word": "外国人说这就是吴京",
@@ -1092,19 +1140,11 @@
     },
     {
       "raw_hot": 652703,
-      "num": 415368,
+      "num": 438150,
       "word": "政审家访被妈妈气晕了",
       "onboard_time": 1689671735,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 652553,
-      "num": 652553,
-      "word": "护士在孟宴臣进来前把男女主的床分开了",
-      "onboard_time": 1689673716,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 650789,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1689639931,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 646331,
+      "num": 646331,
+      "word": "西安关于TFBOYS灯牌的态度",
+      "onboard_time": 1689672934,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 645556,
@@ -1179,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 625514,
-      "num": 625514,
-      "word": "腾讯视频",
-      "onboard_time": 1689674615,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 624953,
       "num": 624953,
       "word": "王源高远的告白",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1689605796,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 598578,
-      "num": 598578,
-      "word": "人民网评奶辣风流行",
-      "onboard_time": 1689670535,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596865,
@@ -1675,14 +1707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 481081,
-      "num": 481081,
-      "word": "演唱会门票被弟弟撕掉了",
-      "onboard_time": 1689675516,
-      "rank": 15,
-      "category": "情感,音乐"
-    },
-    {
       "raw_hot": 481053,
       "num": 275849,
       "word": "女子无痕撤回一坨冰淇淋",
@@ -1804,7 +1828,7 @@
     },
     {
       "raw_hot": 448802,
-      "num": 413517,
+      "num": 425039,
       "word": "美男子家藏40颗头骨称都是我朋友",
       "onboard_time": 1689674073,
       "rank": 21,
@@ -1848,22 +1872,6 @@
       "word": "玉骨遥",
       "onboard_time": 1689605558,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 441340,
-      "num": 441340,
-      "word": "西安关于TFBOYS灯牌的态度",
-      "onboard_time": 1689672934,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 440833,
-      "num": 440833,
-      "word": "莲花楼",
-      "onboard_time": 1689571172,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -1995,6 +2003,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 412071,
+      "num": 412071,
+      "word": "跟哪个星座恋爱最累",
+      "onboard_time": 1689670957,
+      "rank": 22,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 411248,
       "num": 411248,
       "word": "敷衍爸妈报的学校结果录取了",
@@ -2099,14 +2115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 388372,
-      "num": 295062,
-      "word": "为什么蜘蛛不能踩死",
-      "onboard_time": 1689675393,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 383779,
       "num": 383779,
       "word": "台风将鲸鱼冲上岸引人围观",
@@ -2185,14 +2193,6 @@
       "onboard_time": 1689639151,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 364571,
-      "num": 364571,
-      "word": "跟哪个星座恋爱最累",
-      "onboard_time": 1689670957,
-      "rank": 22,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 364022,
@@ -2739,6 +2739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297130,
+      "num": 297130,
+      "word": "薛之谦巡演官宣海外场",
+      "onboard_time": 1689675454,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294963,
       "num": 294963,
       "word": "2娃到上海看爸爸出租房里打地铺",
@@ -2883,6 +2891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279289,
+      "num": 279289,
+      "word": "看表演记得要鼓掌",
+      "onboard_time": 1689675813,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279051,
       "num": 279051,
       "word": "浙江罕见睡莲一半浓艳一半清雅",
@@ -2904,6 +2920,14 @@
       "word": "男子在银行1次存1元占用窗口2小时",
       "onboard_time": 1689592892,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277196,
+      "num": 277196,
+      "word": "丫丫也是卡顿小熊了",
+      "onboard_time": 1689675032,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2971,20 +2995,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266552,
+      "num": 2167183,
+      "word": "男子车流中多次往返清障",
+      "onboard_time": 1689672873,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264717,
       "num": 313343,
       "word": "克里米亚大桥紧急事件致2死1伤",
       "onboard_time": 1689571649,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264609,
-      "num": 264609,
-      "word": "薛之谦巡演官宣海外场",
-      "onboard_time": 1689675454,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 264478,
@@ -3075,6 +3099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 254615,
+      "num": 254615,
+      "word": "网传难哄改名",
+      "onboard_time": 1689676113,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254236,
       "num": 533828,
       "word": "女子看监控发现男友虐狗果断分手",
@@ -3129,6 +3161,14 @@
       "onboard_time": 1689523889,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249067,
+      "num": 1515602,
+      "word": "女子丢手机被捡拾者开价2500元归还",
+      "onboard_time": 1689675454,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248214,
@@ -3483,20 +3523,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215654,
-      "num": 1596818,
-      "word": "男子车流中多次往返清障",
-      "onboard_time": 1689672873,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215130,
       "num": 215130,
       "word": "家暴男的心理机制",
       "onboard_time": 1689566011,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214129,
+      "num": 218859,
+      "word": "吴磊星汉灿烂的长尾效应",
+      "onboard_time": 1689676414,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 214034,
@@ -3939,14 +3979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181466,
-      "num": 203819,
-      "word": "丫丫也是卡顿小熊了",
-      "onboard_time": 1689675032,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178746,
       "num": 178746,
       "word": "可以说是恐怖片照进现实了",
@@ -4201,6 +4233,14 @@
       "onboard_time": 1689509192,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151282,
+      "num": 1237217,
+      "word": "青岛的哥发明面朝大海向左走攻略",
+      "onboard_time": 1689675873,
+      "rank": 6,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 148872,
@@ -4513,14 +4553,6 @@
       "onboard_time": 1689516820,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72063,
-      "num": 389365,
-      "word": "女子丢手机被捡拾者开价2500元归还",
-      "onboard_time": 1689675454,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71274,

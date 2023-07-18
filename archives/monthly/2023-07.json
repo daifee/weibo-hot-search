@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689675564960,
+  "endTime": 1689676603989,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -4635,6 +4635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1234502,
+      "num": 1234502,
+      "word": "腾讯视频",
+      "onboard_time": 1689674615,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1229167,
       "num": 696171,
       "word": "ITZY",
@@ -6825,6 +6833,14 @@
       "onboard_time": 1688996254,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 967248,
+      "num": 967248,
+      "word": "演唱会门票被弟弟撕掉了",
+      "onboard_time": 1689675516,
+      "rank": 15,
+      "category": "情感,音乐"
     },
     {
       "raw_hot": 966844,
@@ -10443,6 +10459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717934,
+      "num": 717934,
+      "word": "为什么蜘蛛不能踩死",
+      "onboard_time": 1689675393,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 717637,
       "num": 717637,
       "word": "千户苗寨火灾致2死6伤",
@@ -10985,6 +11009,14 @@
       "onboard_time": 1689660690,
       "rank": 33,
       "category": "财经,国内要闻"
+    },
+    {
+      "raw_hot": 694966,
+      "num": 694966,
+      "word": "护士在孟宴臣进来前把男女主的床分开了",
+      "onboard_time": 1689673716,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 694823,
@@ -11723,6 +11755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 662683,
+      "num": 662683,
+      "word": "人民网评奶辣风流行",
+      "onboard_time": 1689670535,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662658,
       "num": 662658,
       "word": "TFBOYS十周年三人合体舞台多吗",
@@ -12028,19 +12068,11 @@
     },
     {
       "raw_hot": 652703,
-      "num": 415368,
+      "num": 438150,
       "word": "政审家访被妈妈气晕了",
       "onboard_time": 1689671735,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 652553,
-      "num": 652553,
-      "word": "护士在孟宴臣进来前把男女主的床分开了",
-      "onboard_time": 1689673716,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 652493,
@@ -12177,6 +12209,14 @@
       "onboard_time": 1689125553,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646331,
+      "num": 646331,
+      "word": "西安关于TFBOYS灯牌的态度",
+      "onboard_time": 1689672934,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 645052,
@@ -12752,14 +12792,6 @@
       "word": "肖战谈任敏角色",
       "onboard_time": 1688714196,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 625514,
-      "num": 625514,
-      "word": "腾讯视频",
-      "onboard_time": 1689674615,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -13401,14 +13433,6 @@
       "onboard_time": 1688987071,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 598578,
-      "num": 598578,
-      "word": "人民网评奶辣风流行",
-      "onboard_time": 1689670535,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598246,
@@ -17019,14 +17043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 481081,
-      "num": 481081,
-      "word": "演唱会门票被弟弟撕掉了",
-      "onboard_time": 1689675516,
-      "rank": 15,
-      "category": "情感,音乐"
-    },
-    {
       "raw_hot": 481053,
       "num": 275849,
       "word": "女子无痕撤回一坨冰淇淋",
@@ -18340,7 +18356,7 @@
     },
     {
       "raw_hot": 448802,
-      "num": 413517,
+      "num": 425039,
       "word": "美男子家藏40颗头骨称都是我朋友",
       "onboard_time": 1689674073,
       "rank": 21,
@@ -18657,14 +18673,6 @@
       "onboard_time": 1688971290,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441340,
-      "num": 441340,
-      "word": "西安关于TFBOYS灯牌的态度",
-      "onboard_time": 1689672934,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 441181,
@@ -20099,6 +20107,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 412071,
+      "num": 412071,
+      "word": "跟哪个星座恋爱最累",
+      "onboard_time": 1689670957,
+      "rank": 22,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 411872,
       "num": 411872,
       "word": "汪东城音乐节",
@@ -21145,14 +21161,6 @@
       "onboard_time": 1688538995,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 388372,
-      "num": 295062,
-      "word": "为什么蜘蛛不能踩死",
-      "onboard_time": 1689675393,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 388343,
@@ -22497,14 +22505,6 @@
       "onboard_time": 1688896053,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 364571,
-      "num": 364571,
-      "word": "跟哪个星座恋爱最累",
-      "onboard_time": 1689670957,
-      "rank": 22,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 364148,
@@ -26867,6 +26867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297130,
+      "num": 297130,
+      "word": "薛之谦巡演官宣海外场",
+      "onboard_time": 1689675454,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 296954,
       "num": 255784,
       "word": "姜贞羽现偶适配度",
@@ -28363,6 +28371,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 279289,
+      "num": 279289,
+      "word": "看表演记得要鼓掌",
+      "onboard_time": 1689675813,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279150,
       "num": 279150,
       "word": "安崎新综艺宣发",
@@ -28529,6 +28545,14 @@
       "onboard_time": 1689165697,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277196,
+      "num": 277196,
+      "word": "丫丫也是卡顿小熊了",
+      "onboard_time": 1689675032,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277164,
@@ -29331,6 +29355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266552,
+      "num": 2167183,
+      "word": "男子车流中多次往返清障",
+      "onboard_time": 1689672873,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266542,
       "num": 396096,
       "word": "温网决赛",
@@ -29577,14 +29609,6 @@
       "onboard_time": 1689225992,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 264609,
-      "num": 264609,
-      "word": "薛之谦巡演官宣海外场",
-      "onboard_time": 1689675454,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 264592,
@@ -30443,6 +30467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 254615,
+      "num": 254615,
+      "word": "网传难哄改名",
+      "onboard_time": 1689676113,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254470,
       "num": 254470,
       "word": "饶雪漫电影沙漏开机",
@@ -31009,6 +31041,14 @@
       "onboard_time": 1688916214,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 249067,
+      "num": 1515602,
+      "word": "女子丢手机被捡拾者开价2500元归还",
+      "onboard_time": 1689675454,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248973,
@@ -34331,14 +34371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215654,
-      "num": 1596818,
-      "word": "男子车流中多次往返清障",
-      "onboard_time": 1689672873,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215451,
       "num": 215451,
       "word": "原来猫咪也有舍不得揍的人",
@@ -34457,6 +34489,14 @@
       "onboard_time": 1688636977,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214129,
+      "num": 218859,
+      "word": "吴磊星汉灿烂的长尾效应",
+      "onboard_time": 1689676414,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 214098,
@@ -38283,14 +38323,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 181466,
-      "num": 203819,
-      "word": "丫丫也是卡顿小熊了",
-      "onboard_time": 1689675032,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181311,
       "num": 181311,
       "word": "中国跳水梦之队已摘5金",
@@ -40489,6 +40521,14 @@
       "onboard_time": 1688825135,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151282,
+      "num": 1237217,
+      "word": "青岛的哥发明面朝大海向左走攻略",
+      "onboard_time": 1689675873,
+      "rank": 6,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 151184,
@@ -42833,14 +42873,6 @@
       "onboard_time": 1688680216,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 72063,
-      "num": 389365,
-      "word": "女子丢手机被捡拾者开价2500元归还",
-      "onboard_time": 1689675454,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71492,
