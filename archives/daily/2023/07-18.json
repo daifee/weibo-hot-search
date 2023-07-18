@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689671877299,
+  "endTime": 1689672854420,
   "band_list": [
     {
       "raw_hot": 4544886,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2983177,
+      "num": 2983177,
+      "word": "酒店双床房为什么只能住两人",
+      "onboard_time": 1689667952,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2953222,
       "num": 2953222,
       "word": "演员本人无法超越的角色",
@@ -19,12 +27,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2856625,
-      "num": 2856625,
-      "word": "酒店双床房为什么只能住两人",
-      "onboard_time": 1689667952,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 2475996,
+      "num": 2475996,
+      "word": "韩国网友让宋雨琦回国",
+      "onboard_time": 1689669993,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2460061,
@@ -33,14 +41,6 @@
       "onboard_time": 1689660150,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2233100,
-      "num": 2233100,
-      "word": "韩国网友让宋雨琦回国",
-      "onboard_time": 1689669993,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2098977,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 681491,
+      "num": 681491,
+      "word": "许沁摔全家福",
+      "onboard_time": 1689669813,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 677819,
       "num": 677819,
       "word": "英雄联盟",
@@ -457,6 +465,14 @@
       "onboard_time": 1689648330,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652703,
+      "num": 355027,
+      "word": "政审家访被妈妈气晕了",
+      "onboard_time": 1689671735,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 650789,
@@ -483,20 +499,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629792,
+      "num": 518740,
+      "word": "六点和六点半下班真的很不一样",
+      "onboard_time": 1689671435,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 625653,
       "num": 625653,
       "word": "乘风成团名单",
       "onboard_time": 1689635723,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 619141,
-      "num": 619141,
-      "word": "许沁摔全家福",
-      "onboard_time": 1689669813,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 616426,
@@ -563,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574628,
+      "num": 574628,
+      "word": "人民网评奶辣风流行",
+      "onboard_time": 1689670535,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570279,
       "num": 268048,
       "word": "白敬亭范丞丞到达乌兰浩特",
@@ -595,12 +619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 529904,
-      "num": 529904,
-      "word": "人民网评奶辣风流行",
-      "onboard_time": 1689670535,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 521609,
+      "num": 521609,
+      "word": "粥底火锅",
+      "onboard_time": 1689668671,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 518787,
@@ -619,12 +643,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 512974,
+      "num": 366121,
+      "word": "小狗偷亲了给自己换药的主人",
+      "onboard_time": 1689670175,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 512646,
       "num": 322913,
       "word": "郎君不如意",
       "onboard_time": 1689644851,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 510476,
+      "num": 510476,
+      "word": "公司厕所 监控",
+      "onboard_time": 1689670957,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 501607,
@@ -683,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478090,
-      "num": 366121,
-      "word": "小狗偷亲了给自己换药的主人",
-      "onboard_time": 1689670175,
-      "rank": 21,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 472510,
       "num": 378964,
       "word": "曾可妮乘风卡位",
@@ -704,6 +736,14 @@
       "word": "男子车胎被服务区人员塞异物险出意外",
       "onboard_time": 1689646950,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458347,
+      "num": 458347,
+      "word": "警方回应男子怒扇婴儿脸几十次",
+      "onboard_time": 1689669513,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -721,14 +761,6 @@
       "onboard_time": 1689657272,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444631,
-      "num": 444631,
-      "word": "粥底火锅",
-      "onboard_time": 1689668671,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 442883,
@@ -771,20 +803,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418797,
+      "num": 418797,
+      "word": "王鹤棣田曦薇或将二搭",
+      "onboard_time": 1689672214,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418605,
       "num": 240202,
       "word": "电子屎壳郎",
       "onboard_time": 1689664050,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 413208,
-      "num": 413208,
-      "word": "警方回应男子怒扇婴儿脸几十次",
-      "onboard_time": 1689669513,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406685,
@@ -803,14 +835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 404404,
-      "num": 231321,
-      "word": "政审家访被妈妈气晕了",
-      "onboard_time": 1689671735,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 388892,
       "num": 295022,
       "word": "小猫咪是懂端水的",
@@ -825,6 +849,14 @@
       "onboard_time": 1689642271,
       "rank": 18,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 374287,
+      "num": 374287,
+      "word": "西安公安回复TFBOYS演唱会灯牌问题",
+      "onboard_time": 1689671855,
+      "rank": 46,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 371117,
@@ -888,6 +920,14 @@
       "word": "父辈仇恨射下的箭 十年后正中他的眉心",
       "onboard_time": 1689608911,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 357990,
+      "num": 347655,
+      "word": "关晓彤晒手帐",
+      "onboard_time": 1689671074,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -979,22 +1019,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 329226,
-      "num": 378752,
-      "word": "公司厕所 监控",
-      "onboard_time": 1689670957,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 326264,
-      "num": 326264,
-      "word": "关晓彤晒手帐",
-      "onboard_time": 1689671074,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325163,
       "num": 223379,
       "word": "当和你合租的是一群狗狗",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1689655595,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318187,
+      "num": 318187,
+      "word": "为啥玉龙雪山上的烤肠特别好吃",
+      "onboard_time": 1689672274,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 317391,
@@ -1171,11 +1203,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271551,
-      "num": 230578,
-      "word": "六点和六点半下班真的很不一样",
-      "onboard_time": 1689671435,
-      "rank": 31,
+      "raw_hot": 271484,
+      "num": 271484,
+      "word": "三伏天泡脚",
+      "onboard_time": 1689672396,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -1315,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232140,
+      "num": 232140,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1689672334,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231327,
       "num": 231327,
       "word": "孟宴臣你顺着点自己吧",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1689595953,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223811,
+      "num": 209346,
+      "word": "薛之谦成都",
+      "onboard_time": 1689672095,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 223664,
@@ -1475,6 +1523,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198787,
+      "num": 198787,
+      "word": "为什么要用城市做路名",
+      "onboard_time": 1689668012,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 197550,
+      "num": 197550,
+      "word": "方块咖啡回应员工衣着暴露被指营销",
+      "onboard_time": 1689672034,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 194416,
       "num": 194416,
       "word": "余嘉诚被中戏录取",
@@ -1497,14 +1561,6 @@
       "onboard_time": 1689648570,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192001,
-      "num": 192001,
-      "word": "为什么要用城市做路名",
-      "onboard_time": 1689668012,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 186970,
@@ -1641,14 +1697,6 @@
       "onboard_time": 1689634639,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161443,
-      "num": 161443,
-      "word": "西安公安回复TFBOYS演唱会灯牌问题",
-      "onboard_time": 1689671855,
-      "rank": 46,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 159801,
@@ -1932,7 +1980,7 @@
     },
     {
       "raw_hot": 30396,
-      "num": 1840283,
+      "num": 1930146,
       "word": "2023中国网络文明大会",
       "onboard_time": 1689575790,
       "rank": 2,
@@ -1978,6 +2026,9 @@
     },
     {
       "word": "#网络文明之夜#"
+    },
+    {
+      "word": "#卫星视角看祖国各地生态之变#"
     }
   ]
 }
