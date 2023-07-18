@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689697507005,
+  "endTime": 1689698491989,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -2155,6 +2155,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 433005,
+      "num": 433005,
+      "word": "赵寻是被侵犯了吗",
+      "onboard_time": 1689695016,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430740,
       "num": 324721,
       "word": "魏大勋爸爸对魏大勋青春期的要求",
@@ -2353,14 +2361,6 @@
       "onboard_time": 1689596972,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399628,
-      "num": 399628,
-      "word": "赵寻是被侵犯了吗",
-      "onboard_time": 1689695016,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 399518,
@@ -3363,6 +3363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272599,
+      "num": 272599,
+      "word": "在川渝地区容易脱单吗",
+      "onboard_time": 1689693216,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272355,
       "num": 535252,
       "word": "终于压过闺蜜一头",
@@ -3603,6 +3611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250921,
+      "num": 250921,
+      "word": "张学友15分钟封神现场",
+      "onboard_time": 1689696989,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249711,
       "num": 249711,
       "word": "家暴题材电影我经过风暴定档",
@@ -3641,14 +3657,6 @@
       "onboard_time": 1689685297,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 245019,
-      "num": 263415,
-      "word": "在川渝地区容易脱单吗",
-      "onboard_time": 1689693216,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 244983,
@@ -4979,6 +4987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136280,
+      "num": 136280,
+      "word": "结婚登报最低只需180元",
+      "onboard_time": 1689697409,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 135943,
       "num": 135943,
       "word": "杨彤我的人间烟火演技",
@@ -5147,20 +5163,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 107119,
+      "num": 115642,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1689697765,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105913,
       "num": 85318,
       "word": "2男子卖薛之谦演唱会假门票被抓",
       "onboard_time": 1689529937,
       "rank": 22,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 105320,
-      "num": 131807,
-      "word": "张学友15分钟封神现场",
-      "onboard_time": 1689696989,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 103457,
@@ -5193,14 +5209,6 @@
       "onboard_time": 1689611545,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90303,
-      "num": 131796,
-      "word": "结婚登报最低只需180元",
-      "onboard_time": 1689697409,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 86738,

@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689697507005,
+  "endTime": 1689698491989,
   "band_list": [
     {
       "raw_hot": 2024991,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433005,
+      "num": 433005,
+      "word": "赵寻是被侵犯了吗",
+      "onboard_time": 1689695016,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431648,
       "num": 431648,
       "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
@@ -104,14 +112,6 @@
       "word": "许沁你对得起谁",
       "onboard_time": 1689694296,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 399628,
-      "num": 399628,
-      "word": "赵寻是被侵犯了吗",
-      "onboard_time": 1689695016,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 339958,
-      "num": 261143,
+      "num": 292693,
       "word": "杨洋 送得很好下次可以再挑挑",
       "onboard_time": 1689684936,
       "rank": 23,
@@ -187,12 +187,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280798,
+      "num": 280798,
+      "word": "15岁少女被困缅甸受虐痛哭求救",
+      "onboard_time": 1689677912,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274466,
       "num": 274466,
       "word": "警方通报75岁男子按摩店内死亡",
       "onboard_time": 1689686071,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272599,
+      "num": 272599,
+      "word": "在川渝地区容易脱单吗",
+      "onboard_time": 1689693216,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 261217,
@@ -219,20 +235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245019,
-      "num": 245019,
-      "word": "在川渝地区容易脱单吗",
-      "onboard_time": 1689693216,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 237091,
-      "num": 237091,
-      "word": "15岁少女被困缅甸受虐痛哭求救",
-      "onboard_time": 1689677912,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 250921,
+      "num": 250921,
+      "word": "张学友15分钟封神现场",
+      "onboard_time": 1689696989,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 216336,
@@ -267,20 +275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178774,
+      "num": 178774,
+      "word": "人民网评奶辣风流行",
+      "onboard_time": 1689670535,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154480,
       "num": 154480,
       "word": "本科生应聘工厂遭爽约",
       "onboard_time": 1689689796,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 146738,
-      "num": 146738,
-      "word": "人民网评奶辣风流行",
-      "onboard_time": 1689670535,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143982,
@@ -297,6 +305,14 @@
       "onboard_time": 1689683690,
       "rank": 37,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 136280,
+      "num": 136280,
+      "word": "结婚登报最低只需180元",
+      "onboard_time": 1689697409,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 133703,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107119,
+      "num": 115642,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1689697765,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106286,
       "num": 131811,
       "word": "欢颜平均四集死一个影帝级别的老头",
@@ -363,14 +387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105320,
-      "num": 131807,
-      "word": "张学友15分钟封神现场",
-      "onboard_time": 1689696989,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 103375,
       "num": 131804,
       "word": "为什么不让马伯骞来演",
@@ -385,14 +401,6 @@
       "onboard_time": 1689672934,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 90303,
-      "num": 131796,
-      "word": "结婚登报最低只需180元",
-      "onboard_time": 1689697409,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 5868,
