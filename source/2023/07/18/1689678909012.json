@@ -1,0 +1,410 @@
+{
+  "runTime": 1689678909012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2331005,
+        "num": 2331005,
+        "word": "韩国网友让宋雨琦回国",
+        "onboard_time": 1689669993,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 207618,
+        "num": 2004615,
+        "word": "男子车流中多次往返清障",
+        "onboard_time": 1689672873,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11575,
+        "num": 1720643,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1689575790,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1713990,
+        "num": 1713990,
+        "word": "演唱会门票被弟弟撕掉了",
+        "onboard_time": 1689675516,
+        "rank": 3,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 137914,
+        "num": 1617510,
+        "word": "民警请一群阿姨进派出所午睡",
+        "onboard_time": 1689678215,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1546148,
+        "num": 1546148,
+        "word": "酒店双床房为什么只能住两人",
+        "onboard_time": 1689667952,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61725,
+        "num": 1074444,
+        "word": "清华爸爸拍短视频做儿童知识科普",
+        "onboard_time": 1689678513,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 944788,
+        "num": 944788,
+        "word": "腾讯视频",
+        "onboard_time": 1689674615,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 914639,
+        "num": 914639,
+        "word": "六点和六点半下班真的很不一样",
+        "onboard_time": 1689671435,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 821162,
+        "num": 821162,
+        "word": "刘诗诗什么时候演梦华录了",
+        "onboard_time": 1689677195,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 790140,
+        "num": 790140,
+        "word": "为什么蜘蛛不能踩死",
+        "onboard_time": 1689675393,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 643342,
+        "num": 643342,
+        "word": "莲花楼",
+        "onboard_time": 1689675454,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629359,
+        "num": 629359,
+        "word": "郑州市教育局道歉",
+        "onboard_time": 1689669873,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 621157,
+        "num": 621157,
+        "word": "西安关于TFBOYS灯牌的态度",
+        "onboard_time": 1689672934,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 522261,
+        "num": 522261,
+        "word": "护士在孟宴臣进来前把男女主的床分开了",
+        "onboard_time": 1689673716,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513135,
+        "num": 513135,
+        "word": "藏不住爆火的男二女二",
+        "onboard_time": 1689665192,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440475,
+        "num": 440475,
+        "word": "女子丢手机被捡拾者开价2500元归还",
+        "onboard_time": 1689675454,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420714,
+        "num": 420714,
+        "word": "人民网评奶辣风流行",
+        "onboard_time": 1689670535,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413426,
+        "num": 413426,
+        "word": "吴磊星汉灿烂的长尾效应",
+        "onboard_time": 1689676414,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298792,
+        "num": 370154,
+        "word": "起猛了看见肖战赵丽颖演师徒了",
+        "onboard_time": 1689678574,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1598709,
+        "num": 365529,
+        "word": "9岁女生胃里取出1斤多头发",
+        "onboard_time": 1689677159,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014110,
+        "num": 364271,
+        "word": "微信注销了是这样子",
+        "onboard_time": 1689676949,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359959,
+        "num": 359959,
+        "word": "美国男子家藏40颗头骨称都是我朋友",
+        "onboard_time": 1689674073,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354764,
+        "num": 354764,
+        "word": "政审家访被妈妈气晕了",
+        "onboard_time": 1689671735,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331159,
+        "num": 331159,
+        "word": "曾黎金丝眼镜",
+        "onboard_time": 1689678153,
+        "rank": 24,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 296232,
+        "num": 296232,
+        "word": "为了不吵架买了25.5度的空调",
+        "onboard_time": 1689667952,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306912,
+        "num": 295532,
+        "word": "15岁少女被困缅甸受虐痛哭求救",
+        "onboard_time": 1689677912,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287307,
+        "num": 287307,
+        "word": "高温天气什么果蔬对人体最有益",
+        "onboard_time": 1689678215,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286027,
+        "num": 286027,
+        "word": "网传难哄改名",
+        "onboard_time": 1689676113,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281926,
+        "num": 281926,
+        "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
+        "onboard_time": 1689666812,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276826,
+        "num": 276826,
+        "word": "许沁摔全家福",
+        "onboard_time": 1689669813,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271089,
+        "num": 271089,
+        "word": "丫丫也是卡顿小熊了",
+        "onboard_time": 1689675032,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257872,
+        "num": 257872,
+        "word": "宋雨琦因说了中国台湾被韩网热议",
+        "onboard_time": 1689649830,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 241250,
+        "num": 241250,
+        "word": "薛之谦巡演官宣海外场",
+        "onboard_time": 1689675454,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237631,
+        "num": 237631,
+        "word": "公司厕所 监控",
+        "onboard_time": 1689670957,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234439,
+        "num": 234439,
+        "word": "西安市教育局回应中考回流生问题",
+        "onboard_time": 1689678271,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 226657,
+        "num": 226657,
+        "word": "为啥玉龙雪山上的烤肠特别好吃",
+        "onboard_time": 1689672274,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212787,
+        "num": 212787,
+        "word": "跟哪个星座恋爱最累",
+        "onboard_time": 1689670957,
+        "rank": 37,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 210390,
+        "num": 210390,
+        "word": "小狗偷亲了给自己换药的主人",
+        "onboard_time": 1689670175,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 200695,
+        "num": 200695,
+        "word": "方块咖啡回应员工衣着暴露被指营销",
+        "onboard_time": 1689672034,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 199152,
+        "num": 199152,
+        "word": "肖战说火锅店偶遇他的几率大",
+        "onboard_time": 1689662431,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194604,
+        "num": 199145,
+        "word": "事业单位面试通过后被公司裁员",
+        "onboard_time": 1689668374,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136497,
+        "num": 199136,
+        "word": "青岛的哥发明面朝大海向左走攻略",
+        "onboard_time": 1689675873,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 182339,
+        "num": 199133,
+        "word": "关晓彤晒手帐",
+        "onboard_time": 1689671074,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181831,
+        "num": 199129,
+        "word": "三伏天泡脚",
+        "onboard_time": 1689672396,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177892,
+        "num": 199120,
+        "word": "彭昱畅不吃饭是怕被吓吐了",
+        "onboard_time": 1689677792,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177497,
+        "num": 199108,
+        "word": "内娱不能塌房的明星",
+        "onboard_time": 1689665854,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140950,
+        "num": 199099,
+        "word": "全红婵跳出满分",
+        "onboard_time": 1689667355,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135953,
+        "num": 199094,
+        "word": "全红婵陈芋汐断层式碾压晋级",
+        "onboard_time": 1689667232,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166687,
+        "num": 199085,
+        "word": "苏醒说混内娱好不好的标志是见到杨迪",
+        "onboard_time": 1689656135,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#卫星视角看祖国各地生态之变#"
+    }
+  }
+}

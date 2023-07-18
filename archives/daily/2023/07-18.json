@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689676603989,
+  "endTime": 1689678909012,
   "band_list": [
     {
       "raw_hot": 4544886,
@@ -67,12 +67,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1713990,
+      "num": 1713990,
+      "word": "演唱会门票被弟弟撕掉了",
+      "onboard_time": 1689675516,
+      "rank": 15,
+      "category": "情感,音乐"
+    },
+    {
       "raw_hot": 1681615,
       "num": 886938,
       "word": "觉得infp很可怕",
       "onboard_time": 1689609152,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1598709,
+      "num": 365529,
+      "word": "9岁女生胃里取出1斤多头发",
+      "onboard_time": 1689677159,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1530211,
@@ -235,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1014110,
+      "num": 364271,
+      "word": "微信注销了是这样子",
+      "onboard_time": 1689676949,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1010365,
       "num": 1010365,
       "word": "玉骨遥为什么没爆",
@@ -249,14 +273,6 @@
       "onboard_time": 1689665192,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 967248,
-      "num": 967248,
-      "word": "演唱会门票被弟弟撕掉了",
-      "onboard_time": 1689675516,
-      "rank": 15,
-      "category": "情感,音乐"
     },
     {
       "raw_hot": 966844,
@@ -355,6 +371,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 821162,
+      "num": 821162,
+      "word": "刘诗诗什么时候演梦华录了",
+      "onboard_time": 1689677195,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 820038,
       "num": 386478,
       "word": "22岁女孩体内竟有上千颗肿瘤",
@@ -379,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790140,
+      "num": 790140,
+      "word": "为什么蜘蛛不能踩死",
+      "onboard_time": 1689675393,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 764937,
       "num": 319068,
       "word": "男子机场猥亵熟睡女子被行拘",
@@ -401,14 +433,6 @@
       "onboard_time": 1689666933,
       "rank": 6,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 717934,
-      "num": 717934,
-      "word": "为什么蜘蛛不能踩死",
-      "onboard_time": 1689675393,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 716936,
@@ -843,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440475,
+      "num": 1515602,
+      "word": "女子丢手机被捡拾者开价2500元归还",
+      "onboard_time": 1689675454,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436071,
       "num": 299164,
       "word": "兵马俑的脸上竟然有只蚊子",
@@ -881,6 +913,14 @@
       "onboard_time": 1689664050,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 413426,
+      "num": 413426,
+      "word": "吴磊星汉灿烂的长尾效应",
+      "onboard_time": 1689676414,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 412071,
@@ -977,6 +1017,14 @@
       "onboard_time": 1689647972,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 359959,
+      "num": 359959,
+      "word": "美国男子家藏40颗头骨称都是我朋友",
+      "onboard_time": 1689674073,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359160,
@@ -1083,6 +1131,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 331159,
+      "num": 331159,
+      "word": "曾黎金丝眼镜",
+      "onboard_time": 1689678153,
+      "rank": 24,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 325163,
       "num": 223379,
       "word": "当和你合租的是一群狗狗",
@@ -1147,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306912,
+      "num": 295532,
+      "word": "15岁少女被困缅甸受虐痛哭求救",
+      "onboard_time": 1689677912,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304098,
       "num": 161589,
       "word": "李木戈的潜台词",
@@ -1187,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298792,
+      "num": 370154,
+      "word": "起猛了看见肖战赵丽颖演师徒了",
+      "onboard_time": 1689678574,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298462,
       "num": 281195,
       "word": "范丞丞张一山情头",
@@ -1209,6 +1281,22 @@
       "onboard_time": 1689675454,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287307,
+      "num": 287307,
+      "word": "高温天气什么果蔬对人体最有益",
+      "onboard_time": 1689678215,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286027,
+      "num": 286027,
+      "word": "网传难哄改名",
+      "onboard_time": 1689676113,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 285632,
@@ -1347,14 +1435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254615,
-      "num": 254615,
-      "word": "网传难哄改名",
-      "onboard_time": 1689676113,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 253578,
       "num": 253578,
       "word": "安乐传直播不能错过的48S",
@@ -1384,14 +1464,6 @@
       "word": "女子因家中陌生手环发现床下藏摄像头",
       "onboard_time": 1689589830,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249067,
-      "num": 1515602,
-      "word": "女子丢手机被捡拾者开价2500元归还",
-      "onboard_time": 1689675454,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1457,6 +1529,14 @@
       "onboard_time": 1689659610,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234439,
+      "num": 234439,
+      "word": "西安市教育局回应中考回流生问题",
+      "onboard_time": 1689678271,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 232140,
@@ -1561,14 +1641,6 @@
       "onboard_time": 1689595831,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214129,
-      "num": 218859,
-      "word": "吴磊星汉灿烂的长尾效应",
-      "onboard_time": 1689676414,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 211814,
@@ -1713,6 +1785,14 @@
       "onboard_time": 1689640592,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177892,
+      "num": 199120,
+      "word": "彭昱畅不吃饭是怕被吓吐了",
+      "onboard_time": 1689677792,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 176260,
@@ -1907,6 +1987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 137914,
+      "num": 1617510,
+      "word": "民警请一群阿姨进派出所午睡",
+      "onboard_time": 1689678215,
+      "rank": 4,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 137820,
       "num": 218599,
       "word": "玉骨遥大结局",
@@ -2073,6 +2161,14 @@
       "onboard_time": 1689581371,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61725,
+      "num": 1074444,
+      "word": "清华爸爸拍短视频做儿童知识科普",
+      "onboard_time": 1689678513,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 48930,
