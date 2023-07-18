@@ -1,0 +1,410 @@
+{
+  "runTime": 1689668579312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1854647,
+        "num": 1854647,
+        "word": "A67773航班紧急备降昆明",
+        "onboard_time": 1689660150,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392861,
+        "num": 1392861,
+        "word": "麻辣烫里不能没有什么",
+        "onboard_time": 1689664591,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14687,
+        "num": 1181227,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1689575790,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1071453,
+        "num": 1071453,
+        "word": "宋雨琦因说了中国台湾被韩网热议",
+        "onboard_time": 1689649830,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 941936,
+        "num": 941936,
+        "word": "全红婵陈芋汐断层式碾压晋级",
+        "onboard_time": 1689667232,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817540,
+        "num": 817540,
+        "word": "藏不住爆火的男二女二",
+        "onboard_time": 1689665192,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736393,
+        "num": 736393,
+        "word": "Angelababy在跑男的十年",
+        "onboard_time": 1689666933,
+        "rank": 6,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 682546,
+        "num": 682546,
+        "word": "杨洋从若白走到宋焰用了八年",
+        "onboard_time": 1689666452,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518052,
+        "num": 518052,
+        "word": "苏醒说混内娱好不好的标志是见到杨迪",
+        "onboard_time": 1689656135,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490051,
+        "num": 490051,
+        "word": "南航回应空姐撑伞蹚水送乘客上摆渡车",
+        "onboard_time": 1689664891,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1193680,
+        "num": 489667,
+        "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
+        "onboard_time": 1689666812,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540734,
+        "num": 488620,
+        "word": "办个婚礼把一个月工作KPI都完成了",
+        "onboard_time": 1689664352,
+        "rank": 11,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 481347,
+        "num": 481347,
+        "word": "全红婵跳出满分",
+        "onboard_time": 1689667355,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421669,
+        "num": 421669,
+        "word": "南航将奖励为乘客撑伞的空姐",
+        "onboard_time": 1689665312,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406685,
+        "num": 406685,
+        "word": "西安中考外地回流生",
+        "onboard_time": 1689663152,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 404583,
+        "num": 404583,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1689649350,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384922,
+        "num": 384922,
+        "word": "陈芋汐",
+        "onboard_time": 1689661650,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374089,
+        "num": 374089,
+        "word": "孟宴臣一个眼神就让观众懂了",
+        "onboard_time": 1689658170,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361320,
+        "num": 361320,
+        "word": "种地吧",
+        "onboard_time": 1689664649,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235453,
+        "num": 361150,
+        "word": "Ella 乘风总冠军",
+        "onboard_time": 1689639871,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486494,
+        "num": 361141,
+        "word": "内娱不能塌房的明星",
+        "onboard_time": 1689665854,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366223,
+        "num": 361113,
+        "word": "肖战说火锅店偶遇他的几率大",
+        "onboard_time": 1689662431,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361037,
+        "num": 361037,
+        "word": "儿童穿着奶辣风老师提醒更换家长拒绝",
+        "onboard_time": 1689663209,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 341321,
+        "num": 341321,
+        "word": "22岁女孩体内竟有上千颗肿瘤",
+        "onboard_time": 1689636565,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319068,
+        "num": 319068,
+        "word": "男子机场猥亵熟睡女子被行拘",
+        "onboard_time": 1689659670,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318742,
+        "num": 318742,
+        "word": "许沁被偷改的人生",
+        "onboard_time": 1689655833,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307969,
+        "num": 307969,
+        "word": "睡姿出卖了你内心的恐惧",
+        "onboard_time": 1689668133,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268048,
+        "num": 268048,
+        "word": "白敬亭范丞丞到达乌兰浩特",
+        "onboard_time": 1689659732,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267915,
+        "num": 267915,
+        "word": "网传男子怒扇婴儿脸几十次",
+        "onboard_time": 1689661710,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232902,
+        "num": 232902,
+        "word": "美国芯片业集体呼吁美政府停止对华限制",
+        "onboard_time": 1689660690,
+        "rank": 29,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 476057,
+        "num": 232861,
+        "word": "为了不吵架买了25.5度的空调",
+        "onboard_time": 1689667952,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 475321,
+        "num": 232473,
+        "word": "酒店双床房为什么只能住两人",
+        "onboard_time": 1689667952,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440404,
+        "num": 232365,
+        "word": "事业单位面试通过后被公司裁员",
+        "onboard_time": 1689668374,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342091,
+        "num": 232105,
+        "word": "肖战说最近在上课",
+        "onboard_time": 1689659189,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231978,
+        "num": 231978,
+        "word": "恋爱七年分手的感觉",
+        "onboard_time": 1689657452,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225491,
+        "num": 225491,
+        "word": "英雄联盟",
+        "onboard_time": 1689657751,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217256,
+        "num": 217256,
+        "word": "偷偷藏不住豆瓣开分6.7分",
+        "onboard_time": 1689657272,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211814,
+        "num": 211814,
+        "word": "大爷住院请假回家了",
+        "onboard_time": 1689665971,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202727,
+        "num": 202727,
+        "word": "王一博岳云鹏喂药花絮",
+        "onboard_time": 1689665071,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201746,
+        "num": 201746,
+        "word": "为种地吧五号田搬有机肥",
+        "onboard_time": 1689665012,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199266,
+        "num": 199266,
+        "word": "袁姗姗珍珠国风凤冠头饰",
+        "onboard_time": 1689657570,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 192432,
+        "num": 192432,
+        "word": "蚊子把我腿上的淤血吸走了",
+        "onboard_time": 1689654156,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192001,
+        "num": 192001,
+        "word": "为什么要用城市做路名",
+        "onboard_time": 1689668012,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188847,
+        "num": 188847,
+        "word": "2岁迷路萌娃告诉民警自己8岁",
+        "onboard_time": 1689655535,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183956,
+        "num": 183956,
+        "word": "谁说同事不能成为好朋友的",
+        "onboard_time": 1689666571,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 172559,
+        "num": 172559,
+        "word": "时代少年团群宴海报",
+        "onboard_time": 1689666393,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172339,
+        "num": 172339,
+        "word": "不扯头皮还持久的高马尾",
+        "onboard_time": 1689663453,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 170665,
+        "num": 170665,
+        "word": "无人机凌晨悬停女子卧室窗外",
+        "onboard_time": 1689668374,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166972,
+        "num": 170660,
+        "word": "女子不听劝暴雨后骑车过涵洞溺亡",
+        "onboard_time": 1689647009,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155849,
+        "num": 170651,
+        "word": "放假后的大学生兜比脸还干净",
+        "onboard_time": 1689667831,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络文明之夜#"
+    }
+  }
+}
