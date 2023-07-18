@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689705404709,
+  "endTime": 1689707664989,
   "band_list": [
     {
       "raw_hot": 2024991,
@@ -457,6 +457,14 @@
       "onboard_time": 1689676414,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31287,
+      "num": 36748,
+      "word": "ZB1初一位",
+      "onboard_time": 1689706816,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 19615,
