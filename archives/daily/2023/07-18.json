@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689687289169,
+  "endTime": 1689689827069,
   "band_list": [
     {
       "raw_hot": 4544886,
@@ -115,6 +115,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1667248,
+      "num": 1667248,
+      "word": "周杰伦演唱会 不实名",
+      "onboard_time": 1689687996,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1598709,
       "num": 365529,
       "word": "9岁女生胃里取出1斤多头发",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1469800,
+      "num": 1469800,
+      "word": "宋焰许沁接吻为什么要开水",
+      "onboard_time": 1689688297,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1436077,
       "num": 1436077,
       "word": "孟宴臣送个车子宋焰送个锤子",
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1277553,
+      "num": 365111,
+      "word": "男子将妻子割喉被判1年6个月",
+      "onboard_time": 1689686499,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1234502,
       "num": 1234502,
       "word": "腾讯视频",
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121010,
+      "num": 699176,
+      "word": "警方通报75岁男子按摩店内死亡",
+      "onboard_time": 1689686071,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096614,
       "num": 307247,
       "word": "王源 BALLY",
@@ -265,6 +297,14 @@
       "onboard_time": 1689639271,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1071325,
+      "num": 820730,
+      "word": "许沁把房子车子还回去了",
+      "onboard_time": 1689685594,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1066114,
@@ -419,14 +459,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 820730,
-      "num": 820730,
-      "word": "许沁把房子车子还回去了",
-      "onboard_time": 1689685594,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 820038,
       "num": 386478,
       "word": "22岁女孩体内竟有上千颗肿瘤",
@@ -539,14 +571,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 699176,
-      "num": 699176,
-      "word": "警方通报75岁男子按摩店内死亡",
-      "onboard_time": 1689686071,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 695117,
       "num": 695117,
       "word": "美国芯片业集体呼吁美政府停止对华限制",
@@ -601,14 +625,6 @@
       "onboard_time": 1689647428,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 664752,
-      "num": 351531,
-      "word": "男子将妻子割喉被判1年6个月",
-      "onboard_time": 1689686499,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 664082,
@@ -849,6 +865,14 @@
       "onboard_time": 1689644851,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 502968,
+      "num": 502968,
+      "word": "圆肩驼背的正确矫正方式",
+      "onboard_time": 1689683690,
+      "rank": 47,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 501607,
@@ -1099,6 +1123,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 370865,
+      "num": 366408,
+      "word": "任嘉伦直播",
+      "onboard_time": 1689688596,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368264,
       "num": 359959,
       "word": "美国男子家藏40颗头骨称都是我朋友",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1689606156,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 364856,
-      "num": 364856,
-      "word": "圆肩驼背的正确矫正方式",
-      "onboard_time": 1689683690,
-      "rank": 47,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 364653,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1689608911,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358328,
+      "num": 358328,
+      "word": "我怀疑大麦根本就没有票",
+      "onboard_time": 1689689376,
+      "rank": 24,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 357990,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1689678153,
       "rank": 24,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 330502,
+      "num": 330502,
+      "word": "为什么不让马伯骞来演",
+      "onboard_time": 1689688596,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 325163,
@@ -1419,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 291963,
+      "num": 269923,
+      "word": "本科生应聘工厂遭爽约",
+      "onboard_time": 1689689796,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 289852,
       "num": 289852,
       "word": "一直娱",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1689654454,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272003,
+      "num": 272003,
+      "word": "徐海东",
+      "onboard_time": 1689688115,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 270626,
@@ -1907,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202888,
+      "num": 255517,
+      "word": "小男孩去买甜甜圈店员姐姐不要太宠了",
+      "onboard_time": 1689688836,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202727,
       "num": 202727,
       "word": "王一博岳云鹏喂药花絮",
@@ -1921,6 +1985,14 @@
       "onboard_time": 1689645447,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202215,
+      "num": 255375,
+      "word": "谢乔相亲了",
+      "onboard_time": 1689687159,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 201746,
@@ -1963,12 +2035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194408,
+      "num": 255211,
+      "word": "适合中国宝宝的一周减脂餐",
+      "onboard_time": 1689686918,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192630,
       "num": 231132,
       "word": "迪丽热巴说维吾尔语",
       "onboard_time": 1689648570,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187037,
+      "num": 255075,
+      "word": "温岭",
+      "onboard_time": 1689687033,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186970,
@@ -1985,14 +2073,6 @@
       "onboard_time": 1689666571,
       "rank": 44,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 183676,
-      "num": 197900,
-      "word": "温岭",
-      "onboard_time": 1689687033,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182623,
@@ -2036,7 +2116,7 @@
     },
     {
       "raw_hot": 174828,
-      "num": 205325,
+      "num": 254575,
       "word": "薛之谦成都演唱会门票不到40秒售罄",
       "onboard_time": 1689684635,
       "rank": 40,
@@ -2171,6 +2251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159716,
+      "num": 254222,
+      "word": "孟宴臣的西装内衬也是蝴蝶",
+      "onboard_time": 1689689616,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159646,
       "num": 159646,
       "word": "马立奥我的互联网松子",
@@ -2224,14 +2312,6 @@
       "word": "王子奇看自己和王楚然镜头的反应",
       "onboard_time": 1689592529,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 148408,
-      "num": 197849,
-      "word": "谢乔相亲了",
-      "onboard_time": 1689687159,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -2433,6 +2513,14 @@
       "onboard_time": 1689603632,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 96221,
+      "num": 254160,
+      "word": "如何画毛孩的小教程",
+      "onboard_time": 1689689673,
+      "rank": 49,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 91894,
