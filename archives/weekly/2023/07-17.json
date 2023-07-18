@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689662215021,
+  "endTime": 1689664642942,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -65,6 +65,14 @@
       "onboard_time": 1689596791,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2460061,
+      "num": 2460061,
+      "word": "A67773航班紧急备降昆明",
+      "onboard_time": 1689660150,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2283653,
@@ -185,14 +193,6 @@
       "onboard_time": 1689609152,
       "rank": 3,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 1646386,
-      "num": 1646386,
-      "word": "A67773航班紧急备降昆明",
-      "onboard_time": 1689660150,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1530211,
@@ -875,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 700069,
+      "num": 251280,
+      "word": "肖战说火锅店偶遇他的几率大",
+      "onboard_time": 1689662431,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 699609,
       "num": 386161,
       "word": "C盘真的一下子就不红了",
@@ -897,6 +905,22 @@
       "onboard_time": 1689572671,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 695117,
+      "num": 695117,
+      "word": "美国芯片业集体呼吁美政府停止对华限制",
+      "onboard_time": 1689660690,
+      "rank": 33,
+      "category": "财经,国内要闻"
+    },
+    {
+      "raw_hot": 678239,
+      "num": 678239,
+      "word": "陈芋汐",
+      "onboard_time": 1689661650,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 677819,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1689563252,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 582149,
+      "num": 250310,
+      "word": "网传男子怒扇婴儿脸几十次",
+      "onboard_time": 1689661710,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579872,
@@ -1371,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 501607,
+      "num": 245653,
+      "word": "儿童穿着奶辣风老师提醒更换家长拒绝",
+      "onboard_time": 1689663209,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 501302,
       "num": 501302,
       "word": "豚门",
@@ -1548,7 +1588,7 @@
     },
     {
       "raw_hot": 448076,
-      "num": 301570,
+      "num": 434400,
       "word": "偷偷藏不住豆瓣开分6.7分",
       "onboard_time": 1689657272,
       "rank": 32,
@@ -1787,20 +1827,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 392559,
-      "num": 387948,
-      "word": "美国芯片业集体呼吁美政府停止对华限制",
-      "onboard_time": 1689660690,
-      "rank": 33,
-      "category": "财经,国内要闻"
-    },
-    {
       "raw_hot": 388892,
       "num": 295022,
       "word": "小猫咪是懂端水的",
       "onboard_time": 1689657570,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 385930,
+      "num": 240695,
+      "word": "办个婚礼把一个月工作KPI都完成了",
+      "onboard_time": 1689664352,
+      "rank": 30,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 383779,
@@ -1947,6 +1987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 356711,
+      "num": 356711,
+      "word": "袁姗姗珍珠国风凤冠头饰",
+      "onboard_time": 1689657570,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 356082,
       "num": 356082,
       "word": "魏大勋跑赢过猎人",
@@ -2011,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351275,
+      "num": 351275,
+      "word": "大伯的社交 安静低头吃饭的饭局",
+      "onboard_time": 1689658350,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 350397,
       "num": 535864,
       "word": "肠胃真的是情绪器官",
@@ -2032,14 +2088,6 @@
       "word": "体内断头少年罕见幸存",
       "onboard_time": 1689654875,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347524,
-      "num": 246440,
-      "word": "网传男子怒扇婴儿脸几十次",
-      "onboard_time": 1689661710,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2089,6 +2137,14 @@
       "onboard_time": 1689551006,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 338450,
+      "num": 240202,
+      "word": "电子屎壳郎",
+      "onboard_time": 1689664050,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 337623,
@@ -2177,14 +2233,6 @@
       "onboard_time": 1689655595,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 323198,
-      "num": 244911,
-      "word": "大伯的社交 安静低头吃饭的饭局",
-      "onboard_time": 1689658350,
-      "rank": 48,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 320107,
@@ -2329,6 +2377,14 @@
       "onboard_time": 1689583172,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 302293,
+      "num": 239811,
+      "word": "麻辣烫里不能没有什么",
+      "onboard_time": 1689664591,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 300654,
@@ -2643,14 +2699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256842,
-      "num": 256842,
-      "word": "袁姗姗珍珠国风凤冠头饰",
-      "onboard_time": 1689657570,
-      "rank": 42,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 256687,
       "num": 256687,
       "word": "嘉善暴雨",
@@ -2835,6 +2883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238387,
+      "num": 238387,
+      "word": "西安中考外地回流生",
+      "onboard_time": 1689663152,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 237160,
       "num": 237160,
       "word": "心动的信号",
@@ -2961,6 +3017,14 @@
       "onboard_time": 1689593430,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223664,
+      "num": 223664,
+      "word": "李荣浩大连演唱会官宣",
+      "onboard_time": 1689664110,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 222927,
@@ -3299,6 +3363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197630,
+      "num": 197630,
+      "word": "不扯头皮还持久的高马尾",
+      "onboard_time": 1689663453,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 196654,
       "num": 196654,
       "word": "张杰南京唱又到梧桐吐绿时",
@@ -3416,14 +3488,6 @@
       "word": "2023乒超联赛",
       "onboard_time": 1689591332,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 184200,
-      "num": 184200,
-      "word": "陈芋汐",
-      "onboard_time": 1689661650,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -3604,7 +3668,7 @@
     },
     {
       "raw_hot": 158958,
-      "num": 158958,
+      "num": 181194,
       "word": "孟子义红裙wink",
       "onboard_time": 1689659009,
       "rank": 41,
