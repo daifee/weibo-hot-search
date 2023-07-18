@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689680022972,
+  "endTime": 1689683778772,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -81,6 +81,14 @@
       "onboard_time": 1689596791,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2506042,
+      "num": 2506042,
+      "word": "微信注销了是这样子",
+      "onboard_time": 1689676949,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 2460061,
@@ -427,6 +435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1143745,
+      "num": 547900,
+      "word": "温岭跳轨男子已身亡",
+      "onboard_time": 1689682713,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1133832,
       "num": 1133832,
       "word": "共用一张脸的明星",
@@ -473,6 +489,14 @@
       "onboard_time": 1689639271,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1063608,
+      "num": 1063608,
+      "word": "玖月晞 改文",
+      "onboard_time": 1689682594,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1062385,
@@ -539,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1014110,
-      "num": 364271,
-      "word": "微信注销了是这样子",
-      "onboard_time": 1689676949,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1010523,
       "num": 537488,
       "word": "女子因家中陌生手环发现床下藏摄像头",
@@ -585,6 +601,14 @@
       "onboard_time": 1689577230,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 989508,
+      "num": 989508,
+      "word": "优酷爱奇艺都来了",
+      "onboard_time": 1689681452,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 980169,
@@ -883,8 +907,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 772064,
-      "num": 772064,
+      "raw_hot": 774633,
+      "num": 774633,
       "word": "起猛了看见肖战赵丽颖演师徒了",
       "onboard_time": 1689678574,
       "rank": 19,
@@ -1491,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553956,
+      "num": 553956,
+      "word": "15岁少女被困缅甸受虐痛哭求救",
+      "onboard_time": 1689677912,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552028,
       "num": 552028,
       "word": "范丞丞预判了导演的预判",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1689555571,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465844,
+      "num": 465844,
+      "word": "IU演我精神状态",
+      "onboard_time": 1689680431,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 464941,
@@ -2091,6 +2131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405775,
+      "num": 214836,
+      "word": "为什么拉萨很多车后面要挂鞋",
+      "onboard_time": 1689682355,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405642,
       "num": 380560,
       "word": "张学友演唱会",
@@ -2129,6 +2177,14 @@
       "onboard_time": 1689596972,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399518,
+      "num": 399518,
+      "word": "难哄",
+      "onboard_time": 1689679651,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 398308,
@@ -2185,6 +2241,14 @@
       "onboard_time": 1689554972,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 377928,
+      "num": 377928,
+      "word": "西安市教育局回应中考回流生问题",
+      "onboard_time": 1689678271,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 375490,
@@ -2555,6 +2619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 333535,
+      "num": 333535,
+      "word": "大陆配偶亲属可经小三通赴台探亲",
+      "onboard_time": 1689682173,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331159,
       "num": 331159,
       "word": "曾黎金丝眼镜",
@@ -2601,14 +2673,6 @@
       "onboard_time": 1689655595,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 321247,
-      "num": 295532,
-      "word": "15岁少女被困缅甸受虐痛哭求救",
-      "onboard_time": 1689677912,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320107,
@@ -2811,14 +2875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 297327,
-      "num": 297327,
-      "word": "西安市教育局回应中考回流生问题",
-      "onboard_time": 1689678271,
-      "rank": 35,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 297130,
       "num": 297130,
       "word": "薛之谦巡演官宣海外场",
@@ -2851,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289852,
+      "num": 289852,
+      "word": "一直娱",
+      "onboard_time": 1689679231,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 289552,
       "num": 289552,
       "word": "好像有些猫真的不会翻正反射",
@@ -2865,6 +2929,14 @@
       "onboard_time": 1689562891,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288871,
+      "num": 288871,
+      "word": "孟宴臣新中式总裁",
+      "onboard_time": 1689682776,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 288838,
@@ -3227,14 +3299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253442,
-      "num": 253442,
-      "word": "难哄",
-      "onboard_time": 1689679651,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 253346,
       "num": 253346,
       "word": "实习第11天在厕所睡着了",
@@ -3289,14 +3353,6 @@
       "onboard_time": 1689574470,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 248209,
-      "num": 248209,
-      "word": "一直娱",
-      "onboard_time": 1689679231,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 246896,
@@ -3433,6 +3489,14 @@
       "onboard_time": 1689659610,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234610,
+      "num": 234610,
+      "word": "温岭列车进站瞬间一人突然跳轨",
+      "onboard_time": 1689680971,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233705,
@@ -3649,6 +3713,14 @@
       "onboard_time": 1689566011,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214982,
+      "num": 214982,
+      "word": "警方通报温岭火车站男子跳轨",
+      "onboard_time": 1689681814,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214034,
@@ -3955,6 +4027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196468,
+      "num": 207732,
+      "word": "杨迪一个月碰到王栎鑫三次",
+      "onboard_time": 1689682112,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195775,
       "num": 195775,
       "word": "中学回应收新生4千元校服费",
@@ -4089,6 +4169,14 @@
       "onboard_time": 1689677792,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182040,
+      "num": 207706,
+      "word": "李尚福会见美国前国务卿基辛格",
+      "onboard_time": 1689681452,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 181839,
@@ -4347,6 +4435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154309,
+      "num": 207690,
+      "word": "有趣的切西瓜方法",
+      "onboard_time": 1689682232,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 154194,
       "num": 164521,
       "word": "小伙凌晨买水拿硬币对监控展示支付",
@@ -4435,6 +4531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141847,
+      "num": 207657,
+      "word": "EXO打歌一位汇总",
+      "onboard_time": 1689680133,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140418,
       "num": 140418,
       "word": "这就是已婚男人的三字真经吧",
@@ -4449,6 +4553,14 @@
       "onboard_time": 1689649049,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137561,
+      "num": 207626,
+      "word": "爱不爱吃锅包肉的都沉默了",
+      "onboard_time": 1689682832,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 136579,
@@ -4507,12 +4619,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 129038,
+      "num": 207597,
+      "word": "圆肩驼背的正确矫正方式",
+      "onboard_time": 1689683690,
+      "rank": 47,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 128833,
       "num": 128833,
       "word": "成都大运会",
       "onboard_time": 1689611184,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125611,
+      "num": 207588,
+      "word": "垮着脸来换班的搜爆犬",
+      "onboard_time": 1689683735,
+      "rank": 48,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 124148,
@@ -4801,6 +4929,14 @@
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 29154,
+      "num": 1223015,
+      "word": "网络文明就在身边",
+      "onboard_time": 1689667113,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 23385,

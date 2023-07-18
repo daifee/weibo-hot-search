@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689680022972,
+  "endTime": 1689683778772,
   "band_list": [
     {
       "raw_hot": 4544886,
@@ -33,6 +33,14 @@
       "onboard_time": 1689669993,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2506042,
+      "num": 2506042,
+      "word": "微信注销了是这样子",
+      "onboard_time": 1689676949,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 2460061,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1143745,
+      "num": 547900,
+      "word": "温岭跳轨男子已身亡",
+      "onboard_time": 1689682713,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096614,
       "num": 307247,
       "word": "王源 BALLY",
@@ -227,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1063608,
+      "num": 1063608,
+      "word": "玖月晞 改文",
+      "onboard_time": 1689682594,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1051495,
       "num": 373593,
       "word": "男子婚后多次出轨妻子离婚获赔1万",
@@ -251,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1014110,
-      "num": 364271,
-      "word": "微信注销了是这样子",
-      "onboard_time": 1689676949,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1010365,
       "num": 1010365,
       "word": "玉骨遥为什么没爆",
@@ -273,6 +289,14 @@
       "onboard_time": 1689665192,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 989508,
+      "num": 989508,
+      "word": "优酷爱奇艺都来了",
+      "onboard_time": 1689681452,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 968845,
@@ -411,8 +435,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 772064,
-      "num": 772064,
+      "raw_hot": 774633,
+      "num": 774633,
       "word": "起猛了看见肖战赵丽颖演师徒了",
       "onboard_time": 1689678574,
       "rank": 19,
@@ -715,6 +739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 553956,
+      "num": 553956,
+      "word": "15岁少女被困缅甸受虐痛哭求救",
+      "onboard_time": 1689677912,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530294,
       "num": 349918,
       "word": "黄渤王一博新海报",
@@ -825,6 +857,14 @@
       "onboard_time": 1689641193,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465844,
+      "num": 465844,
+      "word": "IU演我精神状态",
+      "onboard_time": 1689680431,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 464941,
@@ -947,12 +987,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 405775,
+      "num": 214836,
+      "word": "为什么拉萨很多车后面要挂鞋",
+      "onboard_time": 1689682355,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405642,
       "num": 380560,
       "word": "张学友演唱会",
       "onboard_time": 1689651272,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 399518,
+      "num": 399518,
+      "word": "难哄",
+      "onboard_time": 1689679651,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 388892,
@@ -969,6 +1025,14 @@
       "onboard_time": 1689642271,
       "rank": 18,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 377928,
+      "num": 377928,
+      "word": "西安市教育局回应中考回流生问题",
+      "onboard_time": 1689678271,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 371117,
@@ -1139,6 +1203,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 333535,
+      "num": 333535,
+      "word": "大陆配偶亲属可经小三通赴台探亲",
+      "onboard_time": 1689682173,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331159,
       "num": 331159,
       "word": "曾黎金丝眼镜",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1689655595,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 321247,
-      "num": 295532,
-      "word": "15岁少女被困缅甸受虐痛哭求救",
-      "onboard_time": 1689677912,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318187,
@@ -1275,20 +1339,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 297327,
-      "num": 297327,
-      "word": "西安市教育局回应中考回流生问题",
-      "onboard_time": 1689678271,
-      "rank": 35,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 297130,
       "num": 297130,
       "word": "薛之谦巡演官宣海外场",
       "onboard_time": 1689675454,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289852,
+      "num": 289852,
+      "word": "一直娱",
+      "onboard_time": 1689679231,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288871,
+      "num": 288871,
+      "word": "孟宴臣新中式总裁",
+      "onboard_time": 1689682776,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 287307,
@@ -1467,14 +1539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253442,
-      "num": 253442,
-      "word": "难哄",
-      "onboard_time": 1689679651,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 253346,
       "num": 253346,
       "word": "实习第11天在厕所睡着了",
@@ -1505,14 +1569,6 @@
       "onboard_time": 1689589830,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248209,
-      "num": 248209,
-      "word": "一直娱",
-      "onboard_time": 1689679231,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 246912,
@@ -1577,6 +1633,14 @@
       "onboard_time": 1689659610,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234610,
+      "num": 234610,
+      "word": "温岭列车进站瞬间一人突然跳轨",
+      "onboard_time": 1689680971,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232140,
@@ -1683,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214982,
+      "num": 214982,
+      "word": "警方通报温岭火车站男子跳轨",
+      "onboard_time": 1689681814,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211814,
       "num": 211814,
       "word": "大爷住院请假回家了",
@@ -1779,6 +1851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196468,
+      "num": 207732,
+      "word": "杨迪一个月碰到王栎鑫三次",
+      "onboard_time": 1689682112,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194416,
       "num": 194416,
       "word": "余嘉诚被中戏录取",
@@ -1817,6 +1897,14 @@
       "onboard_time": 1689677792,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182040,
+      "num": 207706,
+      "word": "李尚福会见美国前国务卿基辛格",
+      "onboard_time": 1689681452,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 178896,
@@ -1995,6 +2083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154309,
+      "num": 207690,
+      "word": "有趣的切西瓜方法",
+      "onboard_time": 1689682232,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 151282,
       "num": 1237217,
       "word": "青岛的哥发明面朝大海向左走攻略",
@@ -2043,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141847,
+      "num": 207657,
+      "word": "EXO打歌一位汇总",
+      "onboard_time": 1689680133,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139824,
       "num": 157277,
       "word": "芒果崽地球实习生动画开播",
@@ -2057,6 +2161,14 @@
       "onboard_time": 1689592292,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137561,
+      "num": 207626,
+      "word": "爱不爱吃锅包肉的都沉默了",
+      "onboard_time": 1689682832,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 136960,
@@ -2123,12 +2235,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 129038,
+      "num": 207597,
+      "word": "圆肩驼背的正确矫正方式",
+      "onboard_time": 1689683690,
+      "rank": 47,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 128833,
       "num": 128833,
       "word": "成都大运会",
       "onboard_time": 1689611184,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125611,
+      "num": 207588,
+      "word": "垮着脸来换班的搜爆犬",
+      "onboard_time": 1689683735,
+      "rank": 48,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 124148,
@@ -2265,6 +2393,14 @@
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 29154,
+      "num": 1223015,
+      "word": "网络文明就在身边",
+      "onboard_time": 1689667113,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 23385,
