@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689658439939,
+  "endTime": 1689661395553,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -115,8 +115,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1886566,
-      "num": 1886566,
+      "raw_hot": 1887703,
+      "num": 1887703,
       "word": "苏醒说混内娱好不好的标志是见到杨迪",
       "onboard_time": 1689656135,
       "rank": 3,
@@ -571,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 919392,
+      "num": 819288,
+      "word": "许沁被偷改的人生",
+      "onboard_time": 1689655833,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 915897,
       "num": 915897,
       "word": "全红婵跳出全场首个10分",
@@ -627,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 862743,
+      "num": 862743,
+      "word": "A67773航班紧急备降昆明",
+      "onboard_time": 1689660150,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857782,
       "num": 857782,
       "word": "乘风成团夜",
@@ -673,14 +689,6 @@
       "onboard_time": 1689636565,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 819288,
-      "num": 819288,
-      "word": "许沁被偷改的人生",
-      "onboard_time": 1689655833,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 818289,
@@ -803,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 734233,
+      "num": 267723,
+      "word": "男子机场猥亵熟睡女子被行拘",
+      "onboard_time": 1689659670,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727554,
       "num": 445097,
       "word": "中国科学院简称中国科学院",
@@ -817,6 +833,14 @@
       "onboard_time": 1689560969,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 716717,
+      "num": 716717,
+      "word": "孟宴臣一个眼神就让观众懂了",
+      "onboard_time": 1689658170,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 711173,
@@ -873,6 +897,14 @@
       "onboard_time": 1689572671,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 677819,
+      "num": 677819,
+      "word": "英雄联盟",
+      "onboard_time": 1689657751,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 675908,
@@ -1043,6 +1075,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 601436,
+      "num": 601436,
+      "word": "肖战说最近在上课",
+      "onboard_time": 1689659189,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 596378,
       "num": 596378,
       "word": "原来天生白更不容易晒黑",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1689583898,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 591596,
+      "num": 283708,
+      "word": "恋爱七年分手的感觉",
+      "onboard_time": 1689657452,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 590857,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1689574290,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570279,
+      "num": 262932,
+      "word": "白敬亭范丞丞到达乌兰浩特",
+      "onboard_time": 1689659732,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 569334,
@@ -1659,14 +1715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 407053,
-      "num": 283708,
-      "word": "恋爱七年分手的感觉",
-      "onboard_time": 1689657452,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 405904,
       "num": 283094,
       "word": "八角笼中票房",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1689607294,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 370762,
+      "num": 370762,
+      "word": "为什么日漫角色长得不像日本人",
+      "onboard_time": 1689656553,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 368266,
@@ -1971,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347628,
-      "num": 283364,
-      "word": "为什么日漫角色长得不像日本人",
-      "onboard_time": 1689656553,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 345228,
       "num": 345228,
       "word": "全红婵第一晋级",
@@ -2113,6 +2161,14 @@
       "onboard_time": 1689655595,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 323036,
+      "num": 244911,
+      "word": "大伯的社交 安静低头吃饭的饭局",
+      "onboard_time": 1689658350,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 320107,
@@ -2251,14 +2307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304946,
-      "num": 304946,
-      "word": "英雄联盟",
-      "onboard_time": 1689657751,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 304544,
       "num": 329033,
       "word": "长大才知道打碎盘子不是大事",
@@ -2283,20 +2331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297542,
+      "num": 297542,
+      "word": "薛之谦演唱会后浙江小城菜市场火了",
+      "onboard_time": 1689657093,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294963,
       "num": 294963,
       "word": "2娃到上海看爸爸出租房里打地铺",
       "onboard_time": 1689577651,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292703,
-      "num": 292703,
-      "word": "薛之谦演唱会后浙江小城菜市场火了",
-      "onboard_time": 1689657093,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 292324,
@@ -2411,6 +2459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281309,
+      "num": 281309,
+      "word": "Whatever I am NoFear",
+      "onboard_time": 1689656314,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280653,
       "num": 280653,
       "word": "2女子江边露营点餐外卖员找到崩溃",
@@ -2483,12 +2539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269171,
-      "num": 269171,
-      "word": "孟宴臣一个眼神就让观众懂了",
-      "onboard_time": 1689658170,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 268988,
+      "num": 268988,
+      "word": "灌篮高手 三延",
+      "onboard_time": 1689658593,
+      "rank": 19,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 268778,
@@ -2657,6 +2713,14 @@
       "onboard_time": 1689560548,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245955,
+      "num": 245955,
+      "word": "袁姗姗珍珠国风凤冠头饰",
+      "onboard_time": 1689657570,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 244983,
@@ -2835,14 +2899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227683,
-      "num": 238456,
-      "word": "袁姗姗珍珠国风凤冠头饰",
-      "onboard_time": 1689657570,
-      "rank": 42,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 227255,
       "num": 227255,
       "word": "李雪琴 她太懂内心敏感的人的痛",
@@ -2915,20 +2971,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 219737,
-      "num": 248990,
-      "word": "Whatever I am NoFear",
-      "onboard_time": 1689656314,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 218973,
       "num": 238539,
       "word": "分手别把电饭煲带走行不行",
       "onboard_time": 1689646769,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 218633,
+      "num": 218633,
+      "word": "美国芯片业集体呼吁美政府停止对华限制",
+      "onboard_time": 1689660690,
+      "rank": 33,
+      "category": "财经,国内要闻"
     },
     {
       "raw_hot": 217588,
@@ -3155,6 +3211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201567,
+      "num": 201567,
+      "word": "何超莲官宣心动6",
+      "onboard_time": 1689659610,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201515,
       "num": 201515,
       "word": "三只熊猫打架现场有多混乱",
@@ -3355,14 +3419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182146,
-      "num": 238416,
-      "word": "大伯的社交 安静低头吃饭的饭局",
-      "onboard_time": 1689658350,
-      "rank": 48,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 181839,
       "num": 197871,
       "word": "时影一命换一命",
@@ -3529,6 +3585,14 @@
       "onboard_time": 1689642932,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158958,
+      "num": 158958,
+      "word": "孟子义红裙wink",
+      "onboard_time": 1689659009,
+      "rank": 41,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 157430,
