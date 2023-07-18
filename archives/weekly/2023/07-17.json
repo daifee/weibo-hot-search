@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689683778772,
+  "endTime": 1689684837280,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -67,6 +67,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2805040,
+      "num": 2805040,
+      "word": "微信注销了是这样子",
+      "onboard_time": 1689676949,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2732474,
       "num": 2732474,
       "word": "玖月晞",
@@ -81,14 +89,6 @@
       "onboard_time": 1689596791,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2506042,
-      "num": 2506042,
-      "word": "微信注销了是这样子",
-      "onboard_time": 1689676949,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 2460061,
@@ -113,6 +113,14 @@
       "onboard_time": 1689557789,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2149932,
+      "num": 1133830,
+      "word": "温岭跳轨男子已身亡",
+      "onboard_time": 1689682713,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2098977,
@@ -355,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1367273,
+      "num": 1367273,
+      "word": "玖月晞 改文",
+      "onboard_time": 1689682594,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1337972,
       "num": 537340,
       "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
@@ -435,14 +451,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1143745,
-      "num": 547900,
-      "word": "温岭跳轨男子已身亡",
-      "onboard_time": 1689682713,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1133832,
       "num": 1133832,
       "word": "共用一张脸的明星",
@@ -483,20 +491,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1075374,
+      "num": 1075374,
+      "word": "优酷爱奇艺都来了",
+      "onboard_time": 1689681452,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1072011,
       "num": 505088,
       "word": "直到狗过来问他才惊醒自己中毒了",
       "onboard_time": 1689639271,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1063608,
-      "num": 1063608,
-      "word": "玖月晞 改文",
-      "onboard_time": 1689682594,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1062385,
@@ -601,14 +609,6 @@
       "onboard_time": 1689577230,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 989508,
-      "num": 989508,
-      "word": "优酷爱奇艺都来了",
-      "onboard_time": 1689681452,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 980169,
@@ -1483,6 +1483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 561425,
+      "num": 683313,
+      "word": "大陆配偶亲属可经小三通赴台探亲",
+      "onboard_time": 1689682173,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560048,
       "num": 313777,
       "word": "女子连续三年感染同一型HPV",
@@ -1899,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 452044,
+      "num": 221590,
+      "word": "为什么拉萨很多车后面要挂鞋",
+      "onboard_time": 1689682355,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 448802,
       "num": 425039,
       "word": "美男子家藏40颗头骨称都是我朋友",
@@ -2129,14 +2145,6 @@
       "onboard_time": 1689518502,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 405775,
-      "num": 214836,
-      "word": "为什么拉萨很多车后面要挂鞋",
-      "onboard_time": 1689682355,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 405642,
@@ -2619,14 +2627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 333535,
-      "num": 333535,
-      "word": "大陆配偶亲属可经小三通赴台探亲",
-      "onboard_time": 1689682173,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331159,
       "num": 331159,
       "word": "曾黎金丝眼镜",
@@ -2745,6 +2745,14 @@
       "onboard_time": 1689636989,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314281,
+      "num": 314281,
+      "word": "孟宴臣新中式总裁",
+      "onboard_time": 1689682776,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 313786,
@@ -2929,14 +2937,6 @@
       "onboard_time": 1689562891,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 288871,
-      "num": 288871,
-      "word": "孟宴臣新中式总裁",
-      "onboard_time": 1689682776,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 288838,
@@ -3443,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239896,
+      "num": 220851,
+      "word": "秋瓷炫同床异梦介绍乘风",
+      "onboard_time": 1689684155,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239406,
       "num": 239406,
       "word": "普京称乌军反攻没有成功",
@@ -3633,6 +3641,14 @@
       "onboard_time": 1689651753,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222047,
+      "num": 222047,
+      "word": "欢颜平均四集死一个影帝级别的老头",
+      "onboard_time": 1689684635,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 221354,
@@ -3851,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206039,
+      "num": 207732,
+      "word": "杨迪一个月碰到王栎鑫三次",
+      "onboard_time": 1689682112,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205774,
       "num": 228801,
       "word": "不能早睡的原因找到了",
@@ -4027,14 +4051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196468,
-      "num": 207732,
-      "word": "杨迪一个月碰到王栎鑫三次",
-      "onboard_time": 1689682112,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195775,
       "num": 195775,
       "word": "中学回应收新生4千元校服费",
@@ -4075,12 +4091,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193530,
+      "num": 200420,
+      "word": "欢颜 民国公路片",
+      "onboard_time": 1689684635,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192630,
       "num": 231132,
       "word": "迪丽热巴说维吾尔语",
       "onboard_time": 1689648570,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191290,
+      "num": 207597,
+      "word": "圆肩驼背的正确矫正方式",
+      "onboard_time": 1689683690,
+      "rank": 47,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 191077,
@@ -4235,6 +4267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172160,
+      "num": 200414,
+      "word": "薛之谦成都演唱会门票不到40秒售罄",
+      "onboard_time": 1689684635,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172135,
       "num": 172135,
       "word": "160斤的记者说自己在台风中像纸片",
@@ -4257,6 +4297,14 @@
       "onboard_time": 1689549322,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 170805,
+      "num": 200413,
+      "word": "曾少年",
+      "onboard_time": 1689684335,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 170665,
@@ -4411,6 +4459,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 157585,
+      "num": 200408,
+      "word": "大奉打更人",
+      "onboard_time": 1689684698,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157430,
       "num": 157430,
       "word": "第一次见带滑盖的眼睛",
@@ -4531,6 +4587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142614,
+      "num": 207626,
+      "word": "爱不爱吃锅包肉的都沉默了",
+      "onboard_time": 1689682832,
+      "rank": 45,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 141847,
       "num": 207657,
       "word": "EXO打歌一位汇总",
@@ -4553,14 +4617,6 @@
       "onboard_time": 1689649049,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 137561,
-      "num": 207626,
-      "word": "爱不爱吃锅包肉的都沉默了",
-      "onboard_time": 1689682832,
-      "rank": 45,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 136579,
@@ -4617,14 +4673,6 @@
       "onboard_time": 1689650852,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 129038,
-      "num": 207597,
-      "word": "圆肩驼背的正确矫正方式",
-      "onboard_time": 1689683690,
-      "rank": 47,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 128833,
@@ -4899,6 +4947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39841,
+      "num": 1223015,
+      "word": "网络文明就在身边",
+      "onboard_time": 1689667113,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 36383,
       "num": 62699,
       "word": "张杰演唱会",
@@ -4929,14 +4985,6 @@
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 29154,
-      "num": 1223015,
-      "word": "网络文明就在身边",
-      "onboard_time": 1689667113,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 23385,
