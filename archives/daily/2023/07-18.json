@@ -1,6 +1,6 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689668579312,
+  "endTime": 1689669381200,
   "band_list": [
     {
       "raw_hot": 4544886,
@@ -115,20 +115,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1301429,
+      "num": 398203,
+      "word": "酒店双床房为什么只能住两人",
+      "onboard_time": 1689667952,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1285275,
+      "num": 489667,
+      "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
+      "onboard_time": 1689666812,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1218568,
       "num": 415243,
       "word": "我的人间烟火 缺德文学",
       "onboard_time": 1689607591,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1193680,
-      "num": 489667,
-      "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
-      "onboard_time": 1689666812,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1186226,
@@ -203,6 +211,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 992454,
+      "num": 992454,
+      "word": "藏不住爆火的男二女二",
+      "onboard_time": 1689665192,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 966844,
+      "num": 966844,
+      "word": "全红婵陈芋汐断层式碾压晋级",
+      "onboard_time": 1689667232,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 963930,
       "num": 963930,
       "word": "张杰晒蓉宝",
@@ -233,14 +257,6 @@
       "onboard_time": 1689608672,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 941936,
-      "num": 941936,
-      "word": "全红婵陈芋汐断层式碾压晋级",
-      "onboard_time": 1689667232,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 936193,
@@ -283,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835651,
+      "num": 488620,
+      "word": "办个婚礼把一个月工作KPI都完成了",
+      "onboard_time": 1689664352,
+      "rank": 30,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 820038,
       "num": 386478,
       "word": "22岁女孩体内竟有上千颗肿瘤",
       "onboard_time": 1689636565,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 817540,
-      "num": 817540,
-      "word": "藏不住爆火的男二女二",
-      "onboard_time": 1689665192,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 808757,
@@ -321,6 +337,14 @@
       "onboard_time": 1689659670,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764449,
+      "num": 395668,
+      "word": "为了不吵架买了25.5度的空调",
+      "onboard_time": 1689667952,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 744182,
@@ -387,8 +411,8 @@
       "category": "财经,国内要闻"
     },
     {
-      "raw_hot": 682546,
-      "num": 682546,
+      "raw_hot": 689985,
+      "num": 689985,
       "word": "杨洋从若白走到宋焰用了八年",
       "onboard_time": 1689666452,
       "rank": 7,
@@ -491,6 +515,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 596865,
+      "num": 267191,
+      "word": "事业单位面试通过后被公司裁员",
+      "onboard_time": 1689668374,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 591596,
       "num": 283708,
       "word": "恋爱七年分手的感觉",
@@ -505,14 +537,6 @@
       "onboard_time": 1689661710,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578551,
-      "num": 488620,
-      "word": "办个婚礼把一个月工作KPI都完成了",
-      "onboard_time": 1689664352,
-      "rank": 30,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 570279,
@@ -587,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 495096,
+      "num": 361141,
+      "word": "内娱不能塌房的明星",
+      "onboard_time": 1689665854,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 490265,
       "num": 490265,
       "word": "光与夜之恋",
@@ -603,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486494,
-      "num": 361141,
-      "word": "内娱不能塌房的明星",
-      "onboard_time": 1689665854,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 481347,
       "num": 481347,
       "word": "全红婵跳出满分",
@@ -625,22 +649,6 @@
       "onboard_time": 1689634940,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476057,
-      "num": 232861,
-      "word": "为了不吵架买了25.5度的空调",
-      "onboard_time": 1689667952,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 475321,
-      "num": 232473,
-      "word": "酒店双床房为什么只能住两人",
-      "onboard_time": 1689667952,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 472510,
@@ -681,14 +689,6 @@
       "onboard_time": 1689598172,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 440404,
-      "num": 232365,
-      "word": "事业单位面试通过后被公司裁员",
-      "onboard_time": 1689668374,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 436071,
@@ -859,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344997,
+      "num": 307969,
+      "word": "睡姿出卖了你内心的恐惧",
+      "onboard_time": 1689668133,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338934,
       "num": 292218,
       "word": "综艺同床异梦",
@@ -939,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 307969,
-      "num": 307969,
-      "word": "睡姿出卖了你内心的恐惧",
-      "onboard_time": 1689668133,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 301502,
       "num": 301502,
       "word": "刘诗诗蓝色长裙好优雅",
@@ -1009,6 +1009,14 @@
       "onboard_time": 1689656314,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278536,
+      "num": 217614,
+      "word": "全国的高耗能空调全被房东买走了",
+      "onboard_time": 1689669213,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278024,
@@ -1091,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253163,
+      "num": 213984,
+      "word": "护士抱新生儿出产房爸爸第一句先问妻子",
+      "onboard_time": 1689668734,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251300,
       "num": 251300,
       "word": "张嘉元只看车不看吉娜",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1689607294,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 243779,
+      "num": 210282,
+      "word": "粥底火锅",
+      "onboard_time": 1689668671,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 243392,
@@ -1371,6 +1395,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 179752,
+      "num": 179752,
+      "word": "范丞丞张一山情头",
+      "onboard_time": 1689669154,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178896,
       "num": 218620,
       "word": "女子跳绳致肾结石掉下卡在输尿管",
@@ -1384,6 +1416,14 @@
       "word": "可以说是恐怖片照进现实了",
       "onboard_time": 1689640592,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176260,
+      "num": 176260,
+      "word": "社牛狗子带回家一只小浣熊",
+      "onboard_time": 1689668973,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -1513,6 +1553,14 @@
       "onboard_time": 1689667831,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154890,
+      "num": 154890,
+      "word": "孩子我求求你别跳",
+      "onboard_time": 1689669334,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150588,
