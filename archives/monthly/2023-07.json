@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689716038613,
+  "endTime": 1689718592986,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -43435,6 +43435,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 77413,
+      "num": 77413,
+      "word": "孟宴臣角色号发的照片",
+      "onboard_time": 1689714493,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 77338,
       "num": 77338,
       "word": "肖战大漠vlog",
@@ -43891,6 +43899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 53033,
+      "num": 53033,
+      "word": "基辛格",
+      "onboard_time": 1689717674,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52935,
       "num": 1695787,
       "word": "十四冬举办时间定了",
@@ -44259,6 +44275,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 35151,
+      "num": 55818,
+      "word": "男子在沙滩徒手挖出1.5米深大坑",
+      "onboard_time": 1689707114,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34696,
       "num": 36590,
       "word": "方兰生是谁",
@@ -44435,14 +44459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28810,
-      "num": 55818,
-      "word": "男子在沙滩徒手挖出1.5米深大坑",
-      "onboard_time": 1689707114,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28124,
       "num": 36638,
       "word": "李玟何炅早期同框",
@@ -44507,20 +44523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25946,
-      "num": 36680,
-      "word": "孟宴臣角色号发的照片",
-      "onboard_time": 1689714493,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 25563,
       "num": 48822,
       "word": "GEN战胜T1",
       "onboard_time": 1688845036,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24407,
+      "num": 280251,
+      "word": "成都大运会熊猫代表团出动",
+      "onboard_time": 1689688357,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23875,
@@ -44592,14 +44608,6 @@
       "word": "当事游客回应发视频表扬导游",
       "onboard_time": 1688245453,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19615,
-      "num": 280251,
-      "word": "成都大运会熊猫代表团出动",
-      "onboard_time": 1689688357,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

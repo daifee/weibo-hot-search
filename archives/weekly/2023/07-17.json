@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689716038613,
+  "endTime": 1689718592986,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -5275,6 +5275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77413,
+      "num": 77413,
+      "word": "孟宴臣角色号发的照片",
+      "onboard_time": 1689714493,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 71274,
       "num": 1949445,
       "word": "第2架国产C919入列",
@@ -5321,6 +5329,14 @@
       "onboard_time": 1689575790,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 53033,
+      "num": 53033,
+      "word": "基辛格",
+      "onboard_time": 1689717674,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50756,
@@ -5379,6 +5395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 35151,
+      "num": 55818,
+      "word": "男子在沙滩徒手挖出1.5米深大坑",
+      "onboard_time": 1689707114,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33633,
       "num": 55879,
       "word": "ZB1初一位",
@@ -5403,20 +5427,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 28810,
-      "num": 55818,
-      "word": "男子在沙滩徒手挖出1.5米深大坑",
-      "onboard_time": 1689707114,
-      "rank": 36,
+      "raw_hot": 24407,
+      "num": 280251,
+      "word": "成都大运会熊猫代表团出动",
+      "onboard_time": 1689688357,
+      "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25946,
-      "num": 36680,
-      "word": "孟宴臣角色号发的照片",
-      "onboard_time": 1689714493,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 23385,
@@ -5433,14 +5449,6 @@
       "onboard_time": 1689513819,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19615,
-      "num": 280251,
-      "word": "成都大运会熊猫代表团出动",
-      "onboard_time": 1689688357,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15188,
