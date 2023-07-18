@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689646928102,
+  "endTime": 1689649629991,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -49,6 +49,14 @@
       "onboard_time": 1689596791,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2388985,
+      "num": 2388985,
+      "word": "演员本人无法超越的角色",
+      "onboard_time": 1689644487,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2283653,
@@ -155,6 +163,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1530211,
+      "num": 387809,
+      "word": "秋瓷炫于晓光儿子近照",
+      "onboard_time": 1689643711,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1527683,
       "num": 1527683,
       "word": "韩国版消失的她",
@@ -225,14 +241,6 @@
       "onboard_time": 1689590429,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1359176,
-      "num": 387809,
-      "word": "秋瓷炫于晓光儿子近照",
-      "onboard_time": 1689643711,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1337972,
@@ -321,6 +329,14 @@
       "onboard_time": 1689513632,
       "rank": 10,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 1083749,
+      "num": 1083749,
+      "word": "女子不听劝暴雨后骑车过涵洞溺亡",
+      "onboard_time": 1689647009,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1072011,
@@ -427,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 963815,
+      "num": 382699,
+      "word": "14岁体校生跑13圈突发猝死",
+      "onboard_time": 1689644010,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 958220,
       "num": 958220,
       "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
@@ -483,6 +507,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 889931,
+      "num": 374908,
+      "word": "男孩在环球影城室外垫纸上厕所引争议",
+      "onboard_time": 1689644069,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880578,
       "num": 880578,
       "word": "雪王又又又黑了",
@@ -515,14 +547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 861586,
-      "num": 861586,
-      "word": "演员本人无法超越的角色",
-      "onboard_time": 1689644487,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 857782,
       "num": 857782,
       "word": "乘风成团夜",
@@ -537,14 +561,6 @@
       "onboard_time": 1689565590,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 832089,
-      "num": 382699,
-      "word": "14岁体校生跑13圈突发猝死",
-      "onboard_time": 1689644010,
-      "rank": 11,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 831656,
@@ -745,6 +761,22 @@
       "onboard_time": 1689598172,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 673350,
+      "num": 673350,
+      "word": "刘奕君演的渣男",
+      "onboard_time": 1689647369,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 669391,
+      "num": 360666,
+      "word": "吴宇恒不敢裸穿",
+      "onboard_time": 1689647428,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 666594,
@@ -979,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556026,
+      "num": 556026,
+      "word": "全红婵跳出全场首个10分",
+      "onboard_time": 1689648690,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552028,
       "num": 552028,
       "word": "范丞丞预判了导演的预判",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1689559108,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 491258,
-      "num": 374908,
-      "word": "男孩在环球影城室外垫纸上厕所引争议",
-      "onboard_time": 1689644069,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488182,
@@ -1499,6 +1531,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 380667,
+      "num": 234369,
+      "word": "张杰晒蓉宝",
+      "onboard_time": 1689649230,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 379938,
+      "num": 379938,
+      "word": "男子车胎被服务区人员塞异物险出意外",
+      "onboard_time": 1689646950,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376166,
       "num": 376166,
       "word": "学校回应食堂异物是鸭子眼球膜",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1689582332,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360010,
+      "num": 289391,
+      "word": "三伏天晒背晒出来个新皮肤",
+      "onboard_time": 1689647972,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 359698,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1689582630,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 338934,
+      "num": 292218,
+      "word": "综艺同床异梦",
+      "onboard_time": 1689647132,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 338704,
@@ -2017,6 +2081,14 @@
       "onboard_time": 1689549201,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282172,
+      "num": 282172,
+      "word": "乘风",
+      "onboard_time": 1689648809,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 282074,
@@ -2339,6 +2411,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 233829,
+      "num": 233829,
+      "word": "日本老人海边游泳时遭海豚猛撞",
+      "onboard_time": 1689648150,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233705,
       "num": 233705,
       "word": "孙怡剥蒜全靠牙咬",
@@ -2499,6 +2579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214736,
+      "num": 214736,
+      "word": "分手别把电饭煲带走行不行",
+      "onboard_time": 1689646769,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 214034,
       "num": 312854,
       "word": "西安上次这么热闹还在唐朝",
@@ -2593,6 +2681,14 @@
       "onboard_time": 1689517175,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209295,
+      "num": 209295,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1689649350,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 209132,
@@ -2707,12 +2803,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 199082,
+      "num": 199082,
+      "word": "蔡依林南宁演唱会预售",
+      "onboard_time": 1689649230,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199069,
       "num": 199069,
       "word": "宋知许日记",
       "onboard_time": 1689640534,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198774,
+      "num": 198774,
+      "word": "心动的信号",
+      "onboard_time": 1689647249,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 198571,
@@ -2809,6 +2921,14 @@
       "onboard_time": 1689594692,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187237,
+      "num": 187237,
+      "word": "环球影城回应男孩室外垫纸上厕所",
+      "onboard_time": 1689648330,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187040,
@@ -2955,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167162,
+      "num": 167162,
+      "word": "成都大运会熊猫代表团",
+      "onboard_time": 1689648088,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 166622,
       "num": 218637,
       "word": "我的人间烟火",
@@ -2993,6 +3121,14 @@
       "onboard_time": 1689591210,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161092,
+      "num": 161092,
+      "word": "迪丽热巴说维吾尔语",
+      "onboard_time": 1689648570,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 160811,
@@ -3051,14 +3187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153161,
-      "num": 153161,
-      "word": "分手别把电饭煲带走行不行",
-      "onboard_time": 1689646769,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 152420,
       "num": 152420,
       "word": "英专毕业生的就业现状belike",
@@ -3113,6 +3241,14 @@
       "onboard_time": 1689506069,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 139824,
+      "num": 157277,
+      "word": "芒果崽地球实习生动画开播",
+      "onboard_time": 1689649049,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 136579,
@@ -3364,7 +3500,7 @@
     },
     {
       "raw_hot": 62250,
-      "num": 1125688,
+      "num": 1246790,
       "word": "沉湖湿地生态修复变身鸟类天堂",
       "onboard_time": 1689600512,
       "rank": 2,

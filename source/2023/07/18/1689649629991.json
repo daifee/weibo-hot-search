@@ -1,0 +1,410 @@
+{
+  "runTime": 1689649629991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2388985,
+        "num": 2388985,
+        "word": "演员本人无法超越的角色",
+        "onboard_time": 1689644487,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1360471,
+        "num": 1360471,
+        "word": "Ella 乘风总冠军",
+        "onboard_time": 1689639871,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24410,
+        "num": 1246790,
+        "word": "沉湖湿地生态修复变身鸟类天堂",
+        "onboard_time": 1689600512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216104,
+        "num": 1216104,
+        "word": "韩国版消失的她",
+        "onboard_time": 1689642211,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1083749,
+        "num": 1083749,
+        "word": "女子不听劝暴雨后骑车过涵洞溺亡",
+        "onboard_time": 1689647009,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673350,
+        "num": 673350,
+        "word": "刘奕君演的渣男",
+        "onboard_time": 1689647369,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556026,
+        "num": 556026,
+        "word": "全红婵跳出全场首个10分",
+        "onboard_time": 1689648690,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453776,
+        "num": 453776,
+        "word": "孟宴臣有了新皮肤",
+        "onboard_time": 1689639931,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437481,
+        "num": 437481,
+        "word": "觉得infp很可怕",
+        "onboard_time": 1689609152,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 379938,
+        "num": 379938,
+        "word": "男子车胎被服务区人员塞异物险出意外",
+        "onboard_time": 1689646950,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1530211,
+        "num": 376566,
+        "word": "秋瓷炫于晓光儿子近照",
+        "onboard_time": 1689643711,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 963815,
+        "num": 370228,
+        "word": "14岁体校生跑13圈突发猝死",
+        "onboard_time": 1689644010,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 889931,
+        "num": 367358,
+        "word": "男孩在环球影城室外垫纸上厕所引争议",
+        "onboard_time": 1689644069,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669391,
+        "num": 360666,
+        "word": "吴宇恒不敢裸穿",
+        "onboard_time": 1689647428,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428594,
+        "num": 355020,
+        "word": "八角笼中的姐姐是王宝强的亲姐姐",
+        "onboard_time": 1689636445,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383350,
+        "num": 354333,
+        "word": "郎君不如意官宣定档",
+        "onboard_time": 1689644310,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349827,
+        "num": 349827,
+        "word": "我的人间烟火 缺德文学",
+        "onboard_time": 1689607591,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340848,
+        "num": 340848,
+        "word": "台风将鲸鱼冲上岸引人围观",
+        "onboard_time": 1689642271,
+        "rank": 17,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 338734,
+        "num": 338734,
+        "word": "台风",
+        "onboard_time": 1689607055,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297608,
+        "num": 297608,
+        "word": "学校回应食堂异物是鸭子眼球膜",
+        "onboard_time": 1689639693,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804334,
+        "num": 296371,
+        "word": "22岁女孩体内竟有上千颗肿瘤",
+        "onboard_time": 1689636565,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484373,
+        "num": 294387,
+        "word": "C盘真的一下子就不红了",
+        "onboard_time": 1689639693,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 338934,
+        "num": 292218,
+        "word": "综艺同床异梦",
+        "onboard_time": 1689647132,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374443,
+        "num": 291852,
+        "word": "男子婚后多次出轨妻子离婚获赔1万",
+        "onboard_time": 1689641430,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360010,
+        "num": 289391,
+        "word": "三伏天晒背晒出来个新皮肤",
+        "onboard_time": 1689647972,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334180,
+        "num": 287382,
+        "word": "谢娜成团感言",
+        "onboard_time": 1689644550,
+        "rank": 25,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 286308,
+        "num": 286308,
+        "word": "人民文娱评蔡依林线上首唱会",
+        "onboard_time": 1689606033,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282172,
+        "num": 282172,
+        "word": "乘风",
+        "onboard_time": 1689648809,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267251,
+        "num": 267251,
+        "word": "迪丽热巴回应撞脸弼马温",
+        "onboard_time": 1689603338,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234370,
+        "num": 234370,
+        "word": "杭州的暴雨刚落地就烫成了烟雾",
+        "onboard_time": 1689642211,
+        "rank": 29,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 380667,
+        "num": 234369,
+        "word": "张杰晒蓉宝",
+        "onboard_time": 1689649230,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 233829,
+        "num": 233829,
+        "word": "日本老人海边游泳时遭海豚猛撞",
+        "onboard_time": 1689648150,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227611,
+        "num": 227611,
+        "word": "乘风成团名单",
+        "onboard_time": 1689635723,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222921,
+        "num": 222921,
+        "word": "火车软卧怎么才能四个人买一间",
+        "onboard_time": 1689639990,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214736,
+        "num": 214736,
+        "word": "分手别把电饭煲带走行不行",
+        "onboard_time": 1689646769,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 209295,
+        "num": 209295,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1689649350,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199082,
+        "num": 199082,
+        "word": "蔡依林南宁演唱会预售",
+        "onboard_time": 1689649230,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198774,
+        "num": 198774,
+        "word": "心动的信号",
+        "onboard_time": 1689647249,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189211,
+        "num": 189211,
+        "word": "曾可妮乘风卡位",
+        "onboard_time": 1689641193,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187237,
+        "num": 187237,
+        "word": "环球影城回应男孩室外垫纸上厕所",
+        "onboard_time": 1689648330,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180655,
+        "num": 180655,
+        "word": "宋知许日记",
+        "onboard_time": 1689640534,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176233,
+        "num": 176233,
+        "word": "29岁女生入职3年月薪涨200元裸辞",
+        "onboard_time": 1689608672,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173960,
+        "num": 173960,
+        "word": "B太和市场局局长一起逛市场",
+        "onboard_time": 1689607713,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170470,
+        "num": 170470,
+        "word": "戴萌微博被强制修改密码",
+        "onboard_time": 1689642627,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167162,
+        "num": 167162,
+        "word": "成都大运会熊猫代表团",
+        "onboard_time": 1689648088,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 161092,
+        "num": 161092,
+        "word": "迪丽热巴说维吾尔语",
+        "onboard_time": 1689648570,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158928,
+        "num": 158928,
+        "word": "妈妈用蕾丝给我补的鞋子",
+        "onboard_time": 1689638553,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157282,
+        "num": 157282,
+        "word": "杨洋发宋焰表情包",
+        "onboard_time": 1689638429,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139824,
+        "num": 157277,
+        "word": "芒果崽地球实习生动画开播",
+        "onboard_time": 1689649049,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136626,
+        "num": 157257,
+        "word": "吃这样卖的食物要注意肠胃健康",
+        "onboard_time": 1689642932,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#东风英名墙让先辈再次看到火箭升空#"
+    }
+  }
+}

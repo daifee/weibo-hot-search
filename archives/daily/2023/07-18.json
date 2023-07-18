@@ -1,7 +1,15 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689646928102,
+  "endTime": 1689649629991,
   "band_list": [
+    {
+      "raw_hot": 2388985,
+      "num": 2388985,
+      "word": "演员本人无法超越的角色",
+      "onboard_time": 1689644487,
+      "rank": 16,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 2098977,
       "num": 2098977,
@@ -17,6 +25,14 @@
       "onboard_time": 1689609152,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1530211,
+      "num": 387809,
+      "word": "秋瓷炫于晓光儿子近照",
+      "onboard_time": 1689643711,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1527683,
@@ -43,14 +59,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1359176,
-      "num": 387809,
-      "word": "秋瓷炫于晓光儿子近照",
-      "onboard_time": 1689643711,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1218568,
       "num": 415243,
       "word": "我的人间烟火 缺德文学",
@@ -63,6 +71,14 @@
       "num": 885788,
       "word": "微信群发不雅信息3个群内文字不同",
       "onboard_time": 1689599252,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1083749,
+      "num": 1083749,
+      "word": "女子不听劝暴雨后骑车过涵洞溺亡",
+      "onboard_time": 1689647009,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -107,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 963815,
+      "num": 382699,
+      "word": "14岁体校生跑13圈突发猝死",
+      "onboard_time": 1689644010,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 943995,
       "num": 943995,
       "word": "台风",
@@ -123,28 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889931,
+      "num": 374908,
+      "word": "男孩在环球影城室外垫纸上厕所引争议",
+      "onboard_time": 1689644069,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880352,
       "num": 880352,
       "word": "B太和市场局局长一起逛市场",
       "onboard_time": 1689607713,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 861586,
-      "num": 861586,
-      "word": "演员本人无法超越的角色",
-      "onboard_time": 1689644487,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 832089,
-      "num": 382699,
-      "word": "14岁体校生跑13圈突发猝死",
-      "onboard_time": 1689644010,
-      "rank": 11,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 820038,
@@ -161,6 +177,22 @@
       "onboard_time": 1689639693,
       "rank": 21,
       "category": "其它"
+    },
+    {
+      "raw_hot": 673350,
+      "num": 673350,
+      "word": "刘奕君演的渣男",
+      "onboard_time": 1689647369,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 669391,
+      "num": 360666,
+      "word": "吴宇恒不敢裸穿",
+      "onboard_time": 1689647428,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 650789,
@@ -203,6 +235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 556026,
+      "num": 556026,
+      "word": "全红婵跳出全场首个10分",
+      "onboard_time": 1689648690,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 518787,
       "num": 518787,
       "word": "玉骨遥点映礼没有王楚然",
@@ -225,14 +265,6 @@
       "onboard_time": 1689644851,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 491258,
-      "num": 374908,
-      "word": "男孩在环球影城室外垫纸上厕所引争议",
-      "onboard_time": 1689644069,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481053,
@@ -275,6 +307,22 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 380667,
+      "num": 234369,
+      "word": "张杰晒蓉宝",
+      "onboard_time": 1689649230,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 379938,
+      "num": 379938,
+      "word": "男子车胎被服务区人员塞异物险出意外",
+      "onboard_time": 1689646950,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376166,
       "num": 376166,
       "word": "学校回应食堂异物是鸭子眼球膜",
@@ -299,6 +347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 360010,
+      "num": 289391,
+      "word": "三伏天晒背晒出来个新皮肤",
+      "onboard_time": 1689647972,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 359160,
       "num": 359160,
       "word": "父辈仇恨射下的箭 十年后正中他的眉心",
@@ -321,6 +377,14 @@
       "onboard_time": 1689644550,
       "rank": 28,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 338934,
+      "num": 292218,
+      "word": "综艺同床异梦",
+      "onboard_time": 1689647132,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 335908,
@@ -385,6 +449,14 @@
       "onboard_time": 1689581191,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282172,
+      "num": 282172,
+      "word": "乘风",
+      "onboard_time": 1689648809,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 278024,
@@ -475,6 +547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233829,
+      "num": 233829,
+      "word": "日本老人海边游泳时遭海豚猛撞",
+      "onboard_time": 1689648150,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231327,
       "num": 231327,
       "word": "孟宴臣你顺着点自己吧",
@@ -523,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214736,
+      "num": 214736,
+      "word": "分手别把电饭煲带走行不行",
+      "onboard_time": 1689646769,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 211230,
       "num": 166076,
       "word": "中国恒大还有多少资产",
@@ -547,12 +635,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 209295,
+      "num": 209295,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1689649350,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202446,
       "num": 202446,
       "word": "翻到了小学画的甄嬛传",
       "onboard_time": 1689645447,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199082,
+      "num": 199082,
+      "word": "蔡依林南宁演唱会预售",
+      "onboard_time": 1689649230,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 199069,
@@ -563,12 +667,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198774,
+      "num": 198774,
+      "word": "心动的信号",
+      "onboard_time": 1689647249,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194416,
       "num": 194416,
       "word": "余嘉诚被中戏录取",
       "onboard_time": 1689639871,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187237,
+      "num": 187237,
+      "word": "环球影城回应男孩室外垫纸上厕所",
+      "onboard_time": 1689648330,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186970,
@@ -619,6 +739,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 167162,
+      "num": 167162,
+      "word": "成都大运会熊猫代表团",
+      "onboard_time": 1689648088,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 166622,
       "num": 218637,
       "word": "我的人间烟火",
@@ -651,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161092,
+      "num": 161092,
+      "word": "迪丽热巴说维吾尔语",
+      "onboard_time": 1689648570,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159801,
       "num": 159801,
       "word": "王宝强父亲对电影八角笼中的评价",
@@ -675,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153161,
-      "num": 153161,
-      "word": "分手别把电饭煲带走行不行",
-      "onboard_time": 1689646769,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 150588,
       "num": 218614,
       "word": "王子奇看自己和王楚然镜头的反应",
@@ -705,6 +833,14 @@
       "onboard_time": 1689590850,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139824,
+      "num": 157277,
+      "word": "芒果崽地球实习生动画开播",
+      "onboard_time": 1689649049,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 137820,
@@ -868,7 +1004,7 @@
     },
     {
       "raw_hot": 48930,
-      "num": 1125688,
+      "num": 1246790,
       "word": "沉湖湿地生态修复变身鸟类天堂",
       "onboard_time": 1689600512,
       "rank": 2,
