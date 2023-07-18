@@ -1,10 +1,10 @@
 {
   "startTime": 1689611139945,
-  "endTime": 1689645731384,
+  "endTime": 1689646928102,
   "band_list": [
     {
-      "raw_hot": 1719273,
-      "num": 1719273,
+      "raw_hot": 2098977,
+      "num": 2098977,
       "word": "Ella 乘风总冠军",
       "onboard_time": 1689639871,
       "rank": 0,
@@ -19,6 +19,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1527683,
+      "num": 1527683,
+      "word": "韩国版消失的她",
+      "onboard_time": 1689642211,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1494779,
       "num": 380372,
       "word": "人民文娱评蔡依林线上首唱会",
@@ -27,20 +35,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1429731,
-      "num": 1429731,
-      "word": "韩国版消失的她",
-      "onboard_time": 1689642211,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1411595,
       "num": 1411595,
       "word": "恒大集团负债总额2.58万亿",
       "onboard_time": 1689634940,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1359176,
+      "num": 387809,
+      "word": "秋瓷炫于晓光儿子近照",
+      "onboard_time": 1689643711,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1218568,
@@ -57,14 +65,6 @@
       "onboard_time": 1689599252,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1163085,
-      "num": 387809,
-      "word": "秋瓷炫于晓光儿子近照",
-      "onboard_time": 1689643711,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1072011,
@@ -131,6 +131,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861586,
+      "num": 861586,
+      "word": "演员本人无法超越的角色",
+      "onboard_time": 1689644487,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 832089,
+      "num": 382699,
+      "word": "14岁体校生跑13圈突发猝死",
+      "onboard_time": 1689644010,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 820038,
+      "num": 327520,
+      "word": "22岁女孩体内竟有上千颗肿瘤",
+      "onboard_time": 1689636565,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699609,
       "num": 329760,
       "word": "C盘真的一下子就不红了",
@@ -139,28 +163,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 676053,
-      "num": 327520,
-      "word": "22岁女孩体内竟有上千颗肿瘤",
-      "onboard_time": 1689636565,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 650789,
       "num": 650789,
       "word": "孟宴臣有了新皮肤",
       "onboard_time": 1689639931,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 633010,
-      "num": 382699,
-      "word": "14岁体校生跑13圈突发猝死",
-      "onboard_time": 1689644010,
-      "rank": 11,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 625653,
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491258,
+      "num": 374908,
+      "word": "男孩在环球影城室外垫纸上厕所引争议",
+      "onboard_time": 1689644069,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481053,
       "num": 275849,
       "word": "女子无痕撤回一坨冰淇淋",
@@ -251,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378488,
-      "num": 370935,
-      "word": "演员本人无法超越的角色",
-      "onboard_time": 1689644487,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 383779,
+      "num": 383779,
+      "word": "台风将鲸鱼冲上岸引人围观",
+      "onboard_time": 1689642271,
+      "rank": 18,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 376166,
@@ -299,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344316,
-      "num": 344316,
-      "word": "台风将鲸鱼冲上岸引人围观",
-      "onboard_time": 1689642271,
-      "rank": 18,
-      "category": "自然,社会新闻"
+      "raw_hot": 351635,
+      "num": 351635,
+      "word": "谢娜成团感言",
+      "onboard_time": 1689644550,
+      "rank": 28,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 335908,
@@ -313,14 +329,6 @@
       "onboard_time": 1689604115,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 335712,
-      "num": 335712,
-      "word": "男孩在环球影城室外垫纸上厕所引争议",
-      "onboard_time": 1689644069,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325163,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 315435,
-      "num": 315435,
+      "num": 382356,
       "word": "福州暴雨市民窗边漂过一冰柜冰淇淋",
       "onboard_time": 1689636989,
       "rank": 26,
@@ -379,14 +387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 284028,
-      "num": 284028,
-      "word": "谢娜成团感言",
-      "onboard_time": 1689644550,
-      "rank": 28,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 278024,
       "num": 278024,
       "word": "Uzi不交闪现",
@@ -411,20 +411,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 270626,
+      "num": 270626,
+      "word": "杭州的暴雨刚落地就烫成了烟雾",
+      "onboard_time": 1689642211,
+      "rank": 30,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 270262,
       "num": 270262,
       "word": "林允演技",
       "onboard_time": 1689606815,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261044,
-      "num": 261044,
-      "word": "杭州的暴雨刚落地就烫成了烟雾",
-      "onboard_time": 1689642211,
-      "rank": 30,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 258777,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211230,
+      "num": 166076,
+      "word": "中国恒大还有多少资产",
+      "onboard_time": 1689645508,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210789,
       "num": 218659,
       "word": "沈月再现非主流拍照",
@@ -547,8 +555,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196030,
-      "num": 196030,
+      "raw_hot": 199069,
+      "num": 199069,
       "word": "宋知许日记",
       "onboard_time": 1689640534,
       "rank": 38,
@@ -659,12 +667,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157135,
-      "num": 157135,
-      "word": "中国恒大还有多少资产",
-      "onboard_time": 1689645508,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 155914,
+      "num": 155914,
+      "word": "沈月小名叫微微",
+      "onboard_time": 1689641734,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153161,
+      "num": 153161,
+      "word": "分手别把电饭煲带走行不行",
+      "onboard_time": 1689646769,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 150588,
@@ -745,6 +761,14 @@
       "onboard_time": 1689603453,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131513,
+      "num": 131513,
+      "word": "人民海军版轻舟已过万重山",
+      "onboard_time": 1689646530,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 128833,

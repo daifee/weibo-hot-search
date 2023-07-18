@@ -1,0 +1,410 @@
+{
+  "runTime": 1689646928102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2098977,
+        "num": 2098977,
+        "word": "Ella 乘风总冠军",
+        "onboard_time": 1689639871,
+        "rank": 0,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 1527683,
+        "num": 1527683,
+        "word": "韩国版消失的她",
+        "onboard_time": 1689642211,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42758,
+        "num": 1100232,
+        "word": "沉湖湿地生态修复变身鸟类天堂",
+        "onboard_time": 1689600512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861586,
+        "num": 861586,
+        "word": "演员本人无法超越的角色",
+        "onboard_time": 1689644487,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 645670,
+        "num": 645670,
+        "word": "八角笼中的姐姐是王宝强的亲姐姐",
+        "onboard_time": 1689636445,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553296,
+        "num": 553296,
+        "word": "郎君不如意官宣定档",
+        "onboard_time": 1689644310,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454310,
+        "num": 454310,
+        "word": "台风",
+        "onboard_time": 1689607055,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453082,
+        "num": 453082,
+        "word": "觉得infp很可怕",
+        "onboard_time": 1689609152,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 383779,
+        "num": 383779,
+        "word": "台风将鲸鱼冲上岸引人围观",
+        "onboard_time": 1689642271,
+        "rank": 8,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 290007,
+        "num": 382356,
+        "word": "福州暴雨市民窗边漂过一冰柜冰淇淋",
+        "onboard_time": 1689636989,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359176,
+        "num": 380803,
+        "word": "秋瓷炫于晓光儿子近照",
+        "onboard_time": 1689643711,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 832089,
+        "num": 379317,
+        "word": "14岁体校生跑13圈突发猝死",
+        "onboard_time": 1689644010,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 519935,
+        "num": 377357,
+        "word": "孟宴臣有了新皮肤",
+        "onboard_time": 1689639931,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 491258,
+        "num": 374908,
+        "word": "男孩在环球影城室外垫纸上厕所引争议",
+        "onboard_time": 1689644069,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435042,
+        "num": 373332,
+        "word": "人民文娱评蔡依林线上首唱会",
+        "onboard_time": 1689606033,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 423164,
+        "num": 370788,
+        "word": "我的人间烟火 缺德文学",
+        "onboard_time": 1689607591,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370269,
+        "num": 370269,
+        "word": "曾可妮乘风卡位",
+        "onboard_time": 1689641193,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351635,
+        "num": 351635,
+        "word": "谢娜成团感言",
+        "onboard_time": 1689644550,
+        "rank": 17,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 344389,
+        "num": 344389,
+        "word": "学校回应食堂异物是鸭子眼球膜",
+        "onboard_time": 1689639693,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270626,
+        "num": 270626,
+        "word": "杭州的暴雨刚落地就烫成了烟雾",
+        "onboard_time": 1689642211,
+        "rank": 19,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 820038,
+        "num": 265783,
+        "word": "22岁女孩体内竟有上千颗肿瘤",
+        "onboard_time": 1689636565,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753832,
+        "num": 262970,
+        "word": "男子婚后多次出轨妻子离婚获赔1万",
+        "onboard_time": 1689641430,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407252,
+        "num": 256851,
+        "word": "C盘真的一下子就不红了",
+        "onboard_time": 1689639693,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 345642,
+        "num": 250855,
+        "word": "乘风成团名单",
+        "onboard_time": 1689635723,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244631,
+        "num": 244631,
+        "word": "29岁女生入职3年月薪涨200元裸辞",
+        "onboard_time": 1689608672,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358775,
+        "num": 243976,
+        "word": "恒大为什么负债这么多",
+        "onboard_time": 1689639570,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 960861,
+        "num": 242238,
+        "word": "直到狗过来问他才惊醒自己中毒了",
+        "onboard_time": 1689639271,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311607,
+        "num": 241180,
+        "word": "迪丽热巴回应撞脸弼马温",
+        "onboard_time": 1689603338,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295771,
+        "num": 238641,
+        "word": "火车软卧怎么才能四个人买一间",
+        "onboard_time": 1689639990,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237853,
+        "num": 237853,
+        "word": "B太和市场局局长一起逛市场",
+        "onboard_time": 1689607713,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214733,
+        "num": 214733,
+        "word": "戴萌微博被强制修改密码",
+        "onboard_time": 1689642627,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211724,
+        "num": 211724,
+        "word": "曝一学校食堂吃出胶制异物",
+        "onboard_time": 1689639151,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 199069,
+        "num": 199069,
+        "word": "宋知许日记",
+        "onboard_time": 1689640534,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193673,
+        "num": 193673,
+        "word": "妈妈用蕾丝给我补的鞋子",
+        "onboard_time": 1689638553,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174153,
+        "num": 174153,
+        "word": "杨洋发宋焰表情包",
+        "onboard_time": 1689638429,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171536,
+        "num": 171536,
+        "word": "160斤的记者说自己在台风中像纸片",
+        "onboard_time": 1689643168,
+        "rank": 35,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 167618,
+        "num": 167618,
+        "word": "榴莲价格跌至全年最低",
+        "onboard_time": 1689604115,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 166664,
+        "num": 166664,
+        "word": "余嘉诚被中戏录取",
+        "onboard_time": 1689639871,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211230,
+        "num": 166076,
+        "word": "中国恒大还有多少资产",
+        "onboard_time": 1689645508,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165021,
+        "num": 165021,
+        "word": "吃这样卖的食物要注意肠胃健康",
+        "onboard_time": 1689642932,
+        "rank": 39,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 164478,
+        "num": 164478,
+        "word": "永远不要觉得尴尬和丢脸",
+        "onboard_time": 1689606513,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163873,
+        "num": 163873,
+        "word": "孟宴臣你顺着点自己吧",
+        "onboard_time": 1689638913,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155914,
+        "num": 155914,
+        "word": "沈月小名叫微微",
+        "onboard_time": 1689641734,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154606,
+        "num": 154606,
+        "word": "最让你难以接受的地方小吃",
+        "onboard_time": 1689644550,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153161,
+        "num": 153161,
+        "word": "分手别把电饭煲带走行不行",
+        "onboard_time": 1689646769,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 151074,
+        "num": 151074,
+        "word": "翻到了小学画的甄嬛传",
+        "onboard_time": 1689645447,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144894,
+        "num": 144894,
+        "word": "马立奥我的互联网松子",
+        "onboard_time": 1689642932,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141752,
+        "num": 141752,
+        "word": "十年果粉首次换到安卓是种什么体验",
+        "onboard_time": 1689605796,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139923,
+        "num": 139923,
+        "word": "台风泰利风力有多强",
+        "onboard_time": 1689640230,
+        "rank": 48,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 131513,
+        "num": 131513,
+        "word": "人民海军版轻舟已过万重山",
+        "onboard_time": 1689646530,
+        "rank": 49,
+        "category": "军事,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#年中经济面面观#"
+    }
+  }
+}
