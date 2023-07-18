@@ -1,0 +1,410 @@
+{
+  "runTime": 1689671877299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2856625,
+        "num": 2856625,
+        "word": "酒店双床房为什么只能住两人",
+        "onboard_time": 1689667952,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2233100,
+        "num": 2233100,
+        "word": "韩国网友让宋雨琦回国",
+        "onboard_time": 1689669993,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 13126,
+        "num": 1840283,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1689575790,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1500169,
+        "num": 1500169,
+        "word": "郑州市教育局道歉",
+        "onboard_time": 1689669873,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 943491,
+        "num": 943491,
+        "word": "藏不住爆火的男二女二",
+        "onboard_time": 1689665192,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889907,
+        "num": 889907,
+        "word": "为了不吵架买了25.5度的空调",
+        "onboard_time": 1689667952,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 736028,
+        "num": 736028,
+        "word": "宋雨琦因说了中国台湾被韩网热议",
+        "onboard_time": 1689649830,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 656496,
+        "num": 656496,
+        "word": "A67773航班紧急备降昆明",
+        "onboard_time": 1689660150,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619141,
+        "num": 619141,
+        "word": "许沁摔全家福",
+        "onboard_time": 1689669813,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534605,
+        "num": 534605,
+        "word": "麻辣烫里不能没有什么",
+        "onboard_time": 1689664591,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 919472,
+        "num": 533167,
+        "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
+        "onboard_time": 1689666812,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529904,
+        "num": 529904,
+        "word": "人民网评奶辣风流行",
+        "onboard_time": 1689670535,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523505,
+        "num": 523505,
+        "word": "全红婵陈芋汐断层式碾压晋级",
+        "onboard_time": 1689667232,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498670,
+        "num": 498670,
+        "word": "杨洋从若白走到宋焰用了八年",
+        "onboard_time": 1689666452,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444631,
+        "num": 444631,
+        "word": "粥底火锅",
+        "onboard_time": 1689668671,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 421018,
+        "num": 421018,
+        "word": "Angelababy在跑男的十年",
+        "onboard_time": 1689666933,
+        "rank": 15,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 413208,
+        "num": 413208,
+        "word": "警方回应男子怒扇婴儿脸几十次",
+        "onboard_time": 1689669513,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381887,
+        "num": 381887,
+        "word": "办个婚礼把一个月工作KPI都完成了",
+        "onboard_time": 1689664352,
+        "rank": 17,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 329226,
+        "num": 378752,
+        "word": "公司厕所 监控",
+        "onboard_time": 1689670957,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267563,
+        "num": 373456,
+        "word": "苏醒说混内娱好不好的标志是见到杨迪",
+        "onboard_time": 1689656135,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495552,
+        "num": 372778,
+        "word": "事业单位面试通过后被公司裁员",
+        "onboard_time": 1689668374,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 478090,
+        "num": 366121,
+        "word": "小狗偷亲了给自己换药的主人",
+        "onboard_time": 1689670175,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 364571,
+        "num": 364571,
+        "word": "跟哪个星座恋爱最累",
+        "onboard_time": 1689670957,
+        "rank": 22,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 363338,
+        "num": 363338,
+        "word": "全国的高耗能空调全被房东买走了",
+        "onboard_time": 1689669213,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326264,
+        "num": 326264,
+        "word": "关晓彤晒手帐",
+        "onboard_time": 1689671074,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282974,
+        "num": 282974,
+        "word": "内娱不能塌房的明星",
+        "onboard_time": 1689665854,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298462,
+        "num": 281195,
+        "word": "范丞丞张一山情头",
+        "onboard_time": 1689669154,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279051,
+        "num": 279051,
+        "word": "浙江罕见睡莲一半浓艳一半清雅",
+        "onboard_time": 1689670414,
+        "rank": 27,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 276251,
+        "num": 276251,
+        "word": "肖战说火锅店偶遇他的几率大",
+        "onboard_time": 1689662431,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233152,
+        "num": 233152,
+        "word": "全红婵跳出满分",
+        "onboard_time": 1689667355,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404404,
+        "num": 231321,
+        "word": "政审家访被妈妈气晕了",
+        "onboard_time": 1689671735,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271551,
+        "num": 230578,
+        "word": "六点和六点半下班真的很不一样",
+        "onboard_time": 1689671435,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255850,
+        "num": 228806,
+        "word": "同事在电梯里教我上班打卡技巧",
+        "onboard_time": 1689670354,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226238,
+        "num": 226238,
+        "word": "儿童穿着奶辣风老师提醒更换家长拒绝",
+        "onboard_time": 1689663209,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 211537,
+        "num": 211537,
+        "word": "孟宴臣一个眼神就让观众懂了",
+        "onboard_time": 1689658170,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202195,
+        "num": 202195,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1689649350,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198713,
+        "num": 198713,
+        "word": "恋爱七年分手的感觉",
+        "onboard_time": 1689657452,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192999,
+        "num": 192999,
+        "word": "孩子我求求你别跳",
+        "onboard_time": 1689669334,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185797,
+        "num": 185797,
+        "word": "为什么要用城市做路名",
+        "onboard_time": 1689668012,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184024,
+        "num": 184024,
+        "word": "许沁被偷改的人生",
+        "onboard_time": 1689655833,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179369,
+        "num": 179369,
+        "word": "22岁女孩体内竟有上千颗肿瘤",
+        "onboard_time": 1689636565,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178308,
+        "num": 178308,
+        "word": "南航回应空姐撑伞蹚水送乘客上摆渡车",
+        "onboard_time": 1689664891,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168478,
+        "num": 168478,
+        "word": "种地吧",
+        "onboard_time": 1689664649,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168061,
+        "num": 168061,
+        "word": "4位邻居讲述火场连救3命过程",
+        "onboard_time": 1689670895,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161668,
+        "num": 161668,
+        "word": "睡姿出卖了你内心的恐惧",
+        "onboard_time": 1689668133,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304098,
+        "num": 161589,
+        "word": "李木戈的潜台词",
+        "onboard_time": 1689669993,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161443,
+        "num": 161443,
+        "word": "西安公安回复TFBOYS演唱会灯牌问题",
+        "onboard_time": 1689671855,
+        "rank": 46,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 160737,
+        "num": 160737,
+        "word": "白敬亭范丞丞到达乌兰浩特",
+        "onboard_time": 1689659732,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159433,
+        "num": 159433,
+        "word": "英雄联盟",
+        "onboard_time": 1689657751,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153032,
+        "num": 153032,
+        "word": "南航将奖励为乘客撑伞的空姐",
+        "onboard_time": 1689665312,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#年中经济面面观#"
+    }
+  }
+}

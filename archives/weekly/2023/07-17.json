@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689669381200,
+  "endTime": 1689671877299,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -51,6 +51,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2856625,
+      "num": 2856625,
+      "word": "酒店双床房为什么只能住两人",
+      "onboard_time": 1689667952,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2732474,
       "num": 2732474,
       "word": "玖月晞",
@@ -81,6 +89,14 @@
       "onboard_time": 1689561331,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2233100,
+      "num": 2233100,
+      "word": "韩国网友让宋雨琦回国",
+      "onboard_time": 1689669993,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2170887,
@@ -211,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1500169,
+      "num": 1500169,
+      "word": "郑州市教育局道歉",
+      "onboard_time": 1689669873,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1494779,
       "num": 380372,
       "word": "人民文娱评蔡依林线上首唱会",
@@ -307,16 +331,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1301429,
-      "num": 398203,
-      "word": "酒店双床房为什么只能住两人",
-      "onboard_time": 1689667952,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1285275,
-      "num": 489667,
+      "num": 533167,
       "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
       "onboard_time": 1689666812,
       "rank": 10,
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889907,
+      "num": 889907,
+      "word": "为了不吵架买了25.5度的空调",
+      "onboard_time": 1689667952,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 880578,
       "num": 880578,
       "word": "雪王又又又黑了",
@@ -825,14 +849,6 @@
       "onboard_time": 1689659670,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 764449,
-      "num": 395668,
-      "word": "为了不吵架买了25.5度的空调",
-      "onboard_time": 1689667952,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 757761,
@@ -1139,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 619141,
+      "num": 619141,
+      "word": "许沁摔全家福",
+      "onboard_time": 1689669813,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 616426,
       "num": 284032,
       "word": "EXO专访",
@@ -1180,7 +1204,7 @@
     },
     {
       "raw_hot": 596865,
-      "num": 267191,
+      "num": 372778,
       "word": "事业单位面试通过后被公司裁员",
       "onboard_time": 1689668374,
       "rank": 32,
@@ -1411,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 529904,
+      "num": 529904,
+      "word": "人民网评奶辣风流行",
+      "onboard_time": 1689670535,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528281,
       "num": 528281,
       "word": "湛江台风",
@@ -1579,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478090,
+      "num": 366121,
+      "word": "小狗偷亲了给自己换药的主人",
+      "onboard_time": 1689670175,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 473563,
       "num": 536545,
       "word": "女子跳绳致肾结石掉下卡在输尿管",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1689657272,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444631,
+      "num": 444631,
+      "word": "粥底火锅",
+      "onboard_time": 1689668671,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 443859,
@@ -1843,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 413208,
+      "num": 413208,
+      "word": "警方回应男子怒扇婴儿脸几十次",
+      "onboard_time": 1689669513,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412187,
       "num": 412187,
       "word": "审计到底有多累",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1689651272,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 404404,
+      "num": 231321,
+      "word": "政审家访被妈妈气晕了",
+      "onboard_time": 1689671735,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 400635,
@@ -2043,12 +2107,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 364571,
+      "num": 364571,
+      "word": "跟哪个星座恋爱最累",
+      "onboard_time": 1689670957,
+      "rank": 22,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 364022,
       "num": 332585,
       "word": "小朋友尴尬的撤回了一条消息",
       "onboard_time": 1689569553,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 363338,
+      "num": 363338,
+      "word": "全国的高耗能空调全被房东买走了",
+      "onboard_time": 1689669213,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361907,
@@ -2323,11 +2403,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 329226,
+      "num": 378752,
+      "word": "公司厕所 监控",
+      "onboard_time": 1689670957,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329079,
       "num": 284850,
       "word": "融梗",
       "onboard_time": 1689565830,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 326264,
+      "num": 326264,
+      "word": "关晓彤晒手帐",
+      "onboard_time": 1689671074,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -2507,6 +2603,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 304098,
+      "num": 161589,
+      "word": "李木戈的潜台词",
+      "onboard_time": 1689669993,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300654,
       "num": 300654,
       "word": "许沁抱宋焰胳肢窝",
@@ -2521,6 +2625,14 @@
       "onboard_time": 1689648150,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298462,
+      "num": 281195,
+      "word": "范丞丞张一山情头",
+      "onboard_time": 1689669154,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 297542,
@@ -2675,20 +2787,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279051,
+      "num": 279051,
+      "word": "浙江罕见睡莲一半浓艳一半清雅",
+      "onboard_time": 1689670414,
+      "rank": 27,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 279009,
       "num": 279009,
       "word": "阿尔卡拉斯vs德约科维奇",
       "onboard_time": 1689515856,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 278536,
-      "num": 217614,
-      "word": "全国的高耗能空调全被房东买走了",
-      "onboard_time": 1689669213,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277992,
@@ -2729,6 +2841,14 @@
       "onboard_time": 1689595411,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 271551,
+      "num": 230578,
+      "word": "六点和六点半下班真的很不一样",
+      "onboard_time": 1689671435,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 270626,
@@ -2843,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255850,
+      "num": 228806,
+      "word": "同事在电梯里教我上班打卡技巧",
+      "onboard_time": 1689670354,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254940,
       "num": 254940,
       "word": "手机品牌为何扎堆绿色",
@@ -2929,14 +3057,6 @@
       "onboard_time": 1689584311,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243779,
-      "num": 210282,
-      "word": "粥底火锅",
-      "onboard_time": 1689668671,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 243392,
@@ -3579,6 +3699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192999,
+      "num": 192999,
+      "word": "孩子我求求你别跳",
+      "onboard_time": 1689669334,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192630,
       "num": 231132,
       "word": "迪丽热巴说维吾尔语",
@@ -3680,14 +3808,6 @@
       "word": "时影一命换一命",
       "onboard_time": 1689576810,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 179752,
-      "num": 179752,
-      "word": "范丞丞张一山情头",
-      "onboard_time": 1689669154,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -3803,6 +3923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168061,
+      "num": 168061,
+      "word": "4位邻居讲述火场连救3命过程",
+      "onboard_time": 1689670895,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168051,
       "num": 168051,
       "word": "九尾这波玩的是抽象",
@@ -3859,6 +3987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161443,
+      "num": 161443,
+      "word": "西安公安回复TFBOYS演唱会灯牌问题",
+      "onboard_time": 1689671855,
+      "rank": 46,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 160811,
       "num": 160811,
       "word": "这画得比我还像个人",
@@ -3913,14 +4049,6 @@
       "onboard_time": 1689667831,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154890,
-      "num": 154890,
-      "word": "孩子我求求你别跳",
-      "onboard_time": 1689669334,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154194,
