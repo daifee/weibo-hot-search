@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689698491989,
+  "endTime": 1689700581879,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -2307,6 +2307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405356,
+      "num": 284198,
+      "word": "张学友15分钟封神现场",
+      "onboard_time": 1689696989,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404388,
       "num": 404388,
       "word": "许沁你对得起谁",
@@ -3611,14 +3619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 250921,
-      "num": 250921,
-      "word": "张学友15分钟封神现场",
-      "onboard_time": 1689696989,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249711,
       "num": 249711,
       "word": "家暴题材电影我经过风暴定档",
@@ -3753,6 +3753,14 @@
       "onboard_time": 1689520835,
       "rank": 29,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 238583,
+      "num": 238583,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1689697765,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 238462,
@@ -3929,6 +3937,14 @@
       "onboard_time": 1689672095,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223750,
+      "num": 223750,
+      "word": "肖战黑伞狙击",
+      "onboard_time": 1689699862,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 223664,
@@ -4707,6 +4723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168303,
+      "num": 168303,
+      "word": "结婚登报最低只需180元",
+      "onboard_time": 1689697409,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 168210,
       "num": 168210,
       "word": "不齐男团终于齐了",
@@ -4987,14 +5011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136280,
-      "num": 136280,
-      "word": "结婚登报最低只需180元",
-      "onboard_time": 1689697409,
-      "rank": 49,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 135943,
       "num": 135943,
       "word": "杨彤我的人间烟火演技",
@@ -5161,14 +5177,6 @@
       "onboard_time": 1689598833,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 107119,
-      "num": 115642,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1689697765,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 105913,
