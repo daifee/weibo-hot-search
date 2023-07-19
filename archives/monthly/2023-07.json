@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689744830096,
+  "endTime": 1689747751591,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1953,6 +1953,14 @@
       "onboard_time": 1688820753,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2043198,
+      "num": 2043198,
+      "word": "韩国真的没人生小孩了吗",
+      "onboard_time": 1689743914,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2042045,
@@ -5067,6 +5075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1191499,
+      "num": 1191499,
+      "word": "白敬亭向涵之 仙台有树",
+      "onboard_time": 1689743195,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1191132,
       "num": 415703,
       "word": "孙红雷 李玟走好",
@@ -5264,14 +5280,6 @@
       "word": "我姓彭 土豆丝彭",
       "onboard_time": 1688655638,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1162169,
-      "num": 1162169,
-      "word": "白敬亭向涵之 仙台有树",
-      "onboard_time": 1689743195,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -7987,6 +7995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 891358,
+      "num": 891358,
+      "word": "宋焰许沁去吃饭只点一个菜",
+      "onboard_time": 1689741159,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 891320,
       "num": 651097,
       "word": "中医",
@@ -10331,14 +10347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 749438,
-      "num": 749438,
-      "word": "宋焰许沁去吃饭只点一个菜",
-      "onboard_time": 1689741159,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 749345,
       "num": 749345,
       "word": "买香水客服竟然是高中同学",
@@ -11803,12 +11811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 674438,
-      "num": 713883,
-      "word": "韩国真的没人生小孩了吗",
-      "onboard_time": 1689743914,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 675047,
+      "num": 675047,
+      "word": "30岁没结婚但过得快乐也是一种成功",
+      "onboard_time": 1689742536,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 674404,
@@ -12497,6 +12505,14 @@
       "onboard_time": 1689312275,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 652082,
+      "num": 284329,
+      "word": "年薪20万你会考虑外派非洲吗",
+      "onboard_time": 1689746132,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 650789,
@@ -14473,6 +14489,14 @@
       "onboard_time": 1688817576,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 574082,
+      "num": 574082,
+      "word": "比亚迪",
+      "onboard_time": 1689744513,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 573673,
@@ -19091,6 +19115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444699,
+      "num": 444699,
+      "word": "女子坐飞机被机长老公隔空比心",
+      "onboard_time": 1689744995,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444539,
       "num": 270156,
       "word": "张若昀李沁庆余年2路透",
@@ -19913,6 +19945,14 @@
       "onboard_time": 1689317913,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 429838,
+      "num": 429838,
+      "word": "为什么经常收不到微信消息",
+      "onboard_time": 1689743255,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 429759,
@@ -21321,6 +21361,14 @@
       "onboard_time": 1688738380,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400053,
+      "num": 274234,
+      "word": "杨紫MLB现场被人送炸蚂蚱",
+      "onboard_time": 1689745353,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 400027,
@@ -23691,14 +23739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358797,
-      "num": 358797,
-      "word": "30岁没结婚但过得快乐也是一种成功",
-      "onboard_time": 1689742536,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 358556,
       "num": 1456615,
       "word": "村庄靠养知了猴年入超400万元",
@@ -24409,14 +24449,6 @@
       "onboard_time": 1688195373,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346699,
-      "num": 346699,
-      "word": "为什么经常收不到微信消息",
-      "onboard_time": 1689743255,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 346254,
@@ -26027,6 +26059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319572,
+      "num": 269393,
+      "word": "许沁对宋焰说你也太宠我了",
+      "onboard_time": 1689746132,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319308,
       "num": 319308,
       "word": "Angelababy王鹤棣传唱挖呀挖呀挖",
@@ -26361,6 +26401,14 @@
       "onboard_time": 1689161372,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 314182,
+      "num": 215217,
+      "word": "职场水母",
+      "onboard_time": 1689746311,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 314129,
@@ -36003,6 +36051,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 210264,
+      "num": 210264,
+      "word": "杨幂密逃上班花絮",
+      "onboard_time": 1689746970,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210232,
       "num": 210232,
       "word": "敖子逸你在嘴硬什么",
@@ -37099,6 +37155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201560,
+      "num": 279856,
+      "word": "风月变",
+      "onboard_time": 1689743255,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201515,
       "num": 201515,
       "word": "三只熊猫打架现场有多混乱",
@@ -37441,14 +37505,6 @@
       "onboard_time": 1688945306,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 198606,
-      "num": 279856,
-      "word": "风月变",
-      "onboard_time": 1689743255,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 198585,
@@ -40435,14 +40491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171656,
-      "num": 235099,
-      "word": "比亚迪",
-      "onboard_time": 1689744513,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 171644,
       "num": 171644,
       "word": "卓沅的vlog",
@@ -42592,6 +42640,14 @@
       "word": "利拉德申请交易",
       "onboard_time": 1688256745,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131786,
+      "num": 191314,
+      "word": "张帅回应遭遇不公正判罚",
+      "onboard_time": 1689747512,
+      "rank": 47,
       "category": "体育"
     },
     {

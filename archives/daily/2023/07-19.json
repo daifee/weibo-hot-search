@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689744830096,
+  "endTime": 1689747751591,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -33,6 +33,14 @@
       "onboard_time": 1689731193,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2043198,
+      "num": 2043198,
+      "word": "韩国真的没人生小孩了吗",
+      "onboard_time": 1689743914,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2024991,
@@ -75,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1191499,
+      "num": 1191499,
+      "word": "白敬亭向涵之 仙台有树",
+      "onboard_time": 1689743195,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1188696,
       "num": 1188696,
       "word": "郭启刚回国投案",
       "onboard_time": 1689737612,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1162169,
-      "num": 1162169,
-      "word": "白敬亭向涵之 仙台有树",
-      "onboard_time": 1689743195,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1161594,
@@ -161,6 +169,14 @@
       "onboard_time": 1689693758,
       "rank": 5,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 891358,
+      "num": 891358,
+      "word": "宋焰许沁去吃饭只点一个菜",
+      "onboard_time": 1689741159,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 875008,
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 749438,
-      "num": 749438,
-      "word": "宋焰许沁去吃饭只点一个菜",
-      "onboard_time": 1689741159,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 731662,
       "num": 731662,
       "word": "孟宴臣换个人来演都能火吗",
@@ -275,12 +283,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 674438,
-      "num": 713883,
-      "word": "韩国真的没人生小孩了吗",
-      "onboard_time": 1689743914,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 675047,
+      "num": 675047,
+      "word": "30岁没结婚但过得快乐也是一种成功",
+      "onboard_time": 1689742536,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 668881,
@@ -297,6 +305,14 @@
       "onboard_time": 1689733291,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 652082,
+      "num": 284329,
+      "word": "年薪20万你会考虑外派非洲吗",
+      "onboard_time": 1689746132,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593471,
@@ -321,6 +337,14 @@
       "onboard_time": 1689731369,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 574082,
+      "num": 574082,
+      "word": "比亚迪",
+      "onboard_time": 1689744513,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 571477,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444699,
+      "num": 444699,
+      "word": "女子坐飞机被机长老公隔空比心",
+      "onboard_time": 1689744995,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440586,
       "num": 408190,
       "word": "密室大逃脱",
@@ -489,6 +521,14 @@
       "onboard_time": 1689695016,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429838,
+      "num": 429838,
+      "word": "为什么经常收不到微信消息",
+      "onboard_time": 1689743255,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 424575,
@@ -539,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400053,
+      "num": 274234,
+      "word": "杨紫MLB现场被人送炸蚂蚱",
+      "onboard_time": 1689745353,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397911,
       "num": 414512,
       "word": "广州再通报职校食堂饭菜发现异物",
@@ -561,6 +609,14 @@
       "onboard_time": 1689667952,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 390926,
+      "num": 390926,
+      "word": "A股",
+      "onboard_time": 1689744812,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 389253,
@@ -611,28 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358797,
-      "num": 358797,
-      "word": "30岁没结婚但过得快乐也是一种成功",
-      "onboard_time": 1689742536,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 358231,
       "num": 415230,
       "word": "男子将妻子割喉被判1年6个月",
       "onboard_time": 1689686499,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346699,
-      "num": 346699,
-      "word": "为什么经常收不到微信消息",
-      "onboard_time": 1689743255,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 341010,
@@ -656,6 +696,22 @@
       "word": "为什么拉萨很多车后面要挂鞋",
       "onboard_time": 1689682355,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 319572,
+      "num": 269393,
+      "word": "许沁对宋焰说你也太宠我了",
+      "onboard_time": 1689746132,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314182,
+      "num": 215217,
+      "word": "职场水母",
+      "onboard_time": 1689746311,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -835,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210264,
+      "num": 210264,
+      "word": "杨幂密逃上班花絮",
+      "onboard_time": 1689746970,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207386,
       "num": 207386,
       "word": "刘诗诗什么时候演梦华录了",
@@ -859,19 +923,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201560,
+      "num": 279856,
+      "word": "风月变",
+      "onboard_time": 1689743255,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200924,
       "num": 414183,
       "word": "关晓彤当着范丞丞面再提个人战",
       "onboard_time": 1689729451,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 198606,
-      "num": 279856,
-      "word": "风月变",
-      "onboard_time": 1689743255,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -963,14 +1027,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 171656,
-      "num": 235099,
-      "word": "比亚迪",
-      "onboard_time": 1689744513,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 169060,
       "num": 414586,
       "word": "这就是e人i人小时候吧",
@@ -985,14 +1041,6 @@
       "onboard_time": 1689697409,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 164941,
-      "num": 235075,
-      "word": "A股",
-      "onboard_time": 1689744812,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 159702,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1689689855,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 131786,
+      "num": 191314,
+      "word": "张帅回应遭遇不公正判罚",
+      "onboard_time": 1689747512,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 128911,
