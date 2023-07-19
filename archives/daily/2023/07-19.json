@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689762926982,
+  "endTime": 1689765258025,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1818871,
+      "num": 716149,
+      "word": "英子骂得好超前",
+      "onboard_time": 1689760653,
+      "rank": 11,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1683580,
       "num": 716466,
       "word": "杨威否认与杨云离婚",
@@ -105,14 +113,6 @@
       "onboard_time": 1689741996,
       "rank": 0,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 1443978,
-      "num": 716149,
-      "word": "英子骂得好超前",
-      "onboard_time": 1689760653,
-      "rank": 11,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 1275935,
@@ -203,12 +203,28 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 1067814,
+      "num": 1067814,
+      "word": "四川大学回应网传视频",
+      "onboard_time": 1689762932,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1039845,
       "num": 1039845,
       "word": "黄山为什么不提倡冲方便面",
       "onboard_time": 1689737551,
       "rank": 18,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1039014,
+      "num": 1039014,
+      "word": "女子举报丈夫与公职人员生女",
+      "onboard_time": 1689763290,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1016430,
@@ -323,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 854312,
+      "num": 353086,
+      "word": "张雨绮初中因为颜值被全校围观",
+      "onboard_time": 1689764311,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 850960,
       "num": 432309,
       "word": "室友六天赚了一千四百多",
@@ -401,6 +425,14 @@
       "onboard_time": 1689666812,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754825,
+      "num": 754825,
+      "word": "魏大勋101舞台",
+      "onboard_time": 1689761431,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 737118,
@@ -497,6 +529,14 @@
       "onboard_time": 1689757354,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 605262,
+      "num": 1048928,
+      "word": "男子突然倒地大小便失禁消防员紧急救助",
+      "onboard_time": 1689763592,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593471,
@@ -875,20 +915,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400969,
+      "num": 400969,
+      "word": "张踩铃替我说出了结婚的意义",
+      "onboard_time": 1689762631,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400053,
       "num": 367031,
       "word": "杨紫MLB现场被人送炸蚂蚱",
       "onboard_time": 1689745353,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 398299,
-      "num": 398299,
-      "word": "魏大勋101舞台",
-      "onboard_time": 1689761431,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 397911,
@@ -1027,12 +1067,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357591,
+      "num": 239219,
+      "word": "4岁女孩被开水烫伤独自大哭1小时",
+      "onboard_time": 1689765029,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353960,
       "num": 353960,
       "word": "玉骨遥镜头好高清",
       "onboard_time": 1689759754,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353920,
+      "num": 353920,
+      "word": "何非你怎么敢来吴京剧组",
+      "onboard_time": 1689763170,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 351210,
+      "num": 351210,
+      "word": "上海年轻人为啥都开始上夜校了",
+      "onboard_time": 1689761852,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 350363,
@@ -1097,6 +1161,22 @@
       "onboard_time": 1689682355,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316517,
+      "num": 1001283,
+      "word": "在飞机上偶遇了一场音乐会",
+      "onboard_time": 1689761794,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 315975,
+      "num": 789368,
+      "word": "环卫工被疑偷手机民警翻垃圾证清白",
+      "onboard_time": 1689763651,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312907,
@@ -1275,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261832,
+      "num": 261832,
+      "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
+      "onboard_time": 1689764670,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261217,
       "num": 215416,
       "word": "14天全身塑形",
@@ -1355,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244662,
-      "num": 244662,
-      "word": "上海年轻人为啥都开始上夜校了",
-      "onboard_time": 1689761852,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 244391,
       "num": 244391,
       "word": "刘涛刘宇宁新浪扫楼",
@@ -1377,6 +1457,14 @@
       "onboard_time": 1689722244,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239300,
+      "num": 239300,
+      "word": "原来challenge起源是EXO",
+      "onboard_time": 1689764011,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 238583,
@@ -1401,6 +1489,14 @@
       "onboard_time": 1689751531,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231226,
+      "num": 231226,
+      "word": "原来水豚私下里是这样的",
+      "onboard_time": 1689763290,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 225895,
@@ -1449,6 +1545,14 @@
       "onboard_time": 1689734129,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211580,
+      "num": 211580,
+      "word": "大量雌激素产品",
+      "onboard_time": 1689765090,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211451,
@@ -1523,12 +1627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198877,
-      "num": 198877,
-      "word": "张踩铃替我说出了结婚的意义",
-      "onboard_time": 1689762631,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 195368,
+      "num": 195368,
+      "word": "误入e人堆的i人王一博",
+      "onboard_time": 1689764609,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 193187,
@@ -1713,14 +1817,6 @@
       "onboard_time": 1689685594,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136305,
-      "num": 891142,
-      "word": "在飞机上偶遇了一场音乐会",
-      "onboard_time": 1689761794,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 133703,
@@ -1973,6 +2069,9 @@
     },
     {
       "word": "#中国互联网大会#"
+    },
+    {
+      "word": "#倡导尊重自然爱护自然的绿色价值观念#"
     }
   ]
 }

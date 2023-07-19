@@ -1,0 +1,410 @@
+{
+  "runTime": 1689765258025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1067814,
+        "num": 1067814,
+        "word": "四川大学回应网传视频",
+        "onboard_time": 1689762932,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 605262,
+        "num": 1048928,
+        "word": "男子突然倒地大小便失禁消防员紧急救助",
+        "onboard_time": 1689763592,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67876,
+        "num": 1039983,
+        "word": "我国累计建成5G基站超293万个",
+        "onboard_time": 1689758734,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1039014,
+        "num": 1039014,
+        "word": "女子举报丈夫与公职人员生女",
+        "onboard_time": 1689763290,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316517,
+        "num": 1001283,
+        "word": "在飞机上偶遇了一场音乐会",
+        "onboard_time": 1689761794,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 982305,
+        "num": 982305,
+        "word": "刘雯井柏然相拥大片",
+        "onboard_time": 1689760413,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 315975,
+        "num": 789368,
+        "word": "环卫工被疑偷手机民警翻垃圾证清白",
+        "onboard_time": 1689763651,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754825,
+        "num": 754825,
+        "word": "魏大勋101舞台",
+        "onboard_time": 1689761431,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675329,
+        "num": 675329,
+        "word": "陈芋汐全红婵又包揽冠亚军了",
+        "onboard_time": 1689762031,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567843,
+        "num": 567843,
+        "word": "陈芋汐女子10米跳台夺金",
+        "onboard_time": 1689761554,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1818871,
+        "num": 535877,
+        "word": "英子骂得好超前",
+        "onboard_time": 1689760653,
+        "rank": 10,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 1647678,
+        "num": 528218,
+        "word": "韩国幽灵婴儿已确认249人死亡",
+        "onboard_time": 1689751411,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777591,
+        "num": 517243,
+        "word": "研究称最后一个孩出生越晚妈妈寿命越长",
+        "onboard_time": 1689749070,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498211,
+        "num": 498211,
+        "word": "小钰道歉",
+        "onboard_time": 1689753512,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 444942,
+        "num": 444942,
+        "word": "李木戈谈选角没提魏大勋",
+        "onboard_time": 1689756395,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433866,
+        "num": 433866,
+        "word": "山东一女子放弃编制随父从军",
+        "onboard_time": 1689760353,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427129,
+        "num": 427129,
+        "word": "TFBOYS演唱会开票时间",
+        "onboard_time": 1689752192,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400969,
+        "num": 400969,
+        "word": "张踩铃替我说出了结婚的意义",
+        "onboard_time": 1689762631,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399964,
+        "num": 399964,
+        "word": "全红婵的16岁",
+        "onboard_time": 1689759572,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353920,
+        "num": 353920,
+        "word": "何非你怎么敢来吴京剧组",
+        "onboard_time": 1689763170,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 854312,
+        "num": 353086,
+        "word": "张雨绮初中因为颜值被全校围观",
+        "onboard_time": 1689764311,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359873,
+        "num": 352291,
+        "word": "李木戈回应选杨洋王楚然",
+        "onboard_time": 1689751353,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351210,
+        "num": 351210,
+        "word": "上海年轻人为啥都开始上夜校了",
+        "onboard_time": 1689761852,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 308709,
+        "num": 308709,
+        "word": "医院非法采血致患者感染艾滋病",
+        "onboard_time": 1689750390,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300423,
+        "num": 300423,
+        "word": "朴山多拉因为权志龙被社长收走手机",
+        "onboard_time": 1689759031,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285243,
+        "num": 285243,
+        "word": "王一博学跳惊鸿舞",
+        "onboard_time": 1689757354,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261832,
+        "num": 261832,
+        "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
+        "onboard_time": 1689764670,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248475,
+        "num": 248475,
+        "word": "infp向上管理真的很差",
+        "onboard_time": 1689759572,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245351,
+        "num": 245351,
+        "word": "杨紫长相思或将7月24日播出",
+        "onboard_time": 1689758734,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239300,
+        "num": 239300,
+        "word": "原来challenge起源是EXO",
+        "onboard_time": 1689764011,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357591,
+        "num": 239219,
+        "word": "4岁女孩被开水烫伤独自大哭1小时",
+        "onboard_time": 1689765029,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238817,
+        "num": 238817,
+        "word": "玉骨遥镜头好高清",
+        "onboard_time": 1689759754,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231226,
+        "num": 231226,
+        "word": "原来水豚私下里是这样的",
+        "onboard_time": 1689763290,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237972,
+        "num": 229923,
+        "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
+        "onboard_time": 1689755614,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224459,
+        "num": 224459,
+        "word": "吃了半个月轻食一斤没瘦",
+        "onboard_time": 1689754174,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221115,
+        "num": 221115,
+        "word": "成年母猫是懂体态管理的",
+        "onboard_time": 1689762151,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215614,
+        "num": 215614,
+        "word": "奥本海默",
+        "onboard_time": 1689735988,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214409,
+        "num": 214409,
+        "word": "王楚然孟子义有一个小团体",
+        "onboard_time": 1689761071,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211580,
+        "num": 211580,
+        "word": "大量雌激素产品",
+        "onboard_time": 1689765090,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206175,
+        "num": 206175,
+        "word": "年薪20万你会考虑外派非洲吗",
+        "onboard_time": 1689746132,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195368,
+        "num": 195368,
+        "word": "误入e人堆的i人王一博",
+        "onboard_time": 1689764609,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195011,
+        "num": 195011,
+        "word": "Rookie",
+        "onboard_time": 1689758913,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183953,
+        "num": 183953,
+        "word": "树上掉知了一晚上能捡2000元",
+        "onboard_time": 1689755672,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182819,
+        "num": 182819,
+        "word": "民警在夜市一晚上捡到七八个走丢娃",
+        "onboard_time": 1689760232,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182679,
+        "num": 182679,
+        "word": "张艺兴到达敦煌",
+        "onboard_time": 1689759572,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176918,
+        "num": 176918,
+        "word": "韩国真的没人生小孩了吗",
+        "onboard_time": 1689743914,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164530,
+        "num": 164530,
+        "word": "现在还戴口罩的一半是社恐",
+        "onboard_time": 1689755914,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156551,
+        "num": 156551,
+        "word": "南京暴雨",
+        "onboard_time": 1689756813,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146774,
+        "num": 146774,
+        "word": "Doinb有比赛打了",
+        "onboard_time": 1689755914,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138353,
+        "num": 138353,
+        "word": "古偶大婚必大虐",
+        "onboard_time": 1689757592,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#倡导尊重自然爱护自然的绿色价值观念#"
+    }
+  }
+}
