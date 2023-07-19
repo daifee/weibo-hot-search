@@ -1,7 +1,23 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689723221659,
+  "endTime": 1689735050964,
   "band_list": [
+    {
+      "raw_hot": 3334222,
+      "num": 380216,
+      "word": "产后会阴裂伤真的像那个芒果吗",
+      "onboard_time": 1689730112,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 2591149,
+      "num": 1674705,
+      "word": "人间烟火 没有共情到女主的窒息",
+      "onboard_time": 1689728491,
+      "rank": 1,
+      "category": "影视"
+    },
     {
       "raw_hot": 2024991,
       "num": 2024991,
@@ -11,12 +27,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1882580,
+      "num": 1882580,
+      "word": "周杰伦演唱会2张连座票黄牛叫价15万",
+      "onboard_time": 1689731193,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1212102,
       "num": 1212102,
       "word": "我怀疑大麦根本就没有票",
       "onboard_time": 1689689376,
       "rank": 9,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 1161594,
+      "num": 1161594,
+      "word": "公司1.2亿租楼300每月租给员工住",
+      "onboard_time": 1689728914,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1136065,
@@ -51,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 918993,
+      "num": 369004,
+      "word": "38岁女子误将先兆流产当经期排出",
+      "onboard_time": 1689733291,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 899196,
       "num": 899196,
       "word": "24岁清华女博士将任西工大准聘副教授",
@@ -67,12 +107,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807782,
+      "num": 807782,
+      "word": "刘奕君这身材都怕输在年轻",
+      "onboard_time": 1689725309,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 797983,
+      "num": 797983,
+      "word": "宋焰这是在PUA孟宴臣吧",
+      "onboard_time": 1689731250,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 794764,
       "num": 431648,
       "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
       "onboard_time": 1689666812,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780524,
+      "num": 368929,
+      "word": "室友六天赚了一千四百多",
+      "onboard_time": 1689726633,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 680077,
+      "num": 680077,
+      "word": "金泰亨 卡地亚",
+      "onboard_time": 1689733829,
+      "rank": 6,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 668881,
@@ -83,12 +155,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 576422,
+      "num": 377920,
+      "word": "大奉打更人开机",
+      "onboard_time": 1689731369,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 571477,
+      "num": 571477,
+      "word": "食堂异物高度可能为鸭眼球巩膜",
+      "onboard_time": 1689732512,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529669,
       "num": 529669,
       "word": "韩国网友让宋雨琦回国",
       "onboard_time": 1689669993,
       "rank": 8,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 473617,
+      "num": 376112,
+      "word": "现在再看杨洋王楚然李木戈翻答案之书",
+      "onboard_time": 1689732930,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 465630,
@@ -99,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456259,
+      "num": 368885,
+      "word": "结帐时发现买到贵货怎么办",
+      "onboard_time": 1689733410,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 449945,
       "num": 449945,
       "word": "基辛格",
       "onboard_time": 1689717674,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433804,
+      "num": 433804,
+      "word": "教育局通报考生质疑成绩被偷",
+      "onboard_time": 1689727594,
+      "rank": 8,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 433005,
@@ -120,6 +232,14 @@
       "word": "肖战黑伞狙击",
       "onboard_time": 1689699862,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 419912,
+      "num": 372465,
+      "word": "人民文娱评我的人间烟火",
+      "onboard_time": 1689734428,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -139,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397911,
+      "num": 368301,
+      "word": "广州再通报职校食堂饭菜发现异物",
+      "onboard_time": 1689734010,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 391152,
       "num": 391152,
       "word": "酒店双床房为什么只能住两人",
@@ -153,6 +281,14 @@
       "onboard_time": 1689693935,
       "rank": 21,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 388480,
+      "num": 370409,
+      "word": "看到谢允救时影",
+      "onboard_time": 1689733110,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 386185,
@@ -171,16 +307,48 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 380587,
+      "num": 380587,
+      "word": "音乐节一元瓶装水分杯卖十元违法吗",
+      "onboard_time": 1689728371,
+      "rank": 9,
+      "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 369295,
+      "num": 369295,
+      "word": "芭比",
+      "onboard_time": 1689729211,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358231,
-      "num": 264716,
+      "num": 367679,
       "word": "男子将妻子割喉被判1年6个月",
       "onboard_time": 1689686499,
       "rank": 22,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353359,
+      "num": 374578,
+      "word": "广州每走一步就有一个蔡文姬",
+      "onboard_time": 1689734670,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 341010,
+      "num": 368771,
+      "word": "结婚当天最添堵的一件事",
+      "onboard_time": 1689731010,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339958,
-      "num": 292693,
+      "num": 367192,
       "word": "杨洋 送得很好下次可以再挑挑",
       "onboard_time": 1689684936,
       "rank": 23,
@@ -201,6 +369,22 @@
       "onboard_time": 1689681452,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 296410,
+      "num": 368666,
+      "word": "西安发的TFBOYS演唱会观演指南",
+      "onboard_time": 1689726395,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 295321,
+      "num": 368221,
+      "word": "纠正骨盆后倾才是翘臀必杀技",
+      "onboard_time": 1689733291,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 288337,
@@ -243,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274077,
+      "num": 368501,
+      "word": "孟宴臣换个人来演都能火吗",
+      "onboard_time": 1689727469,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272599,
       "num": 272599,
       "word": "在川渝地区容易脱单吗",
@@ -276,15 +468,23 @@
     },
     {
       "raw_hot": 250806,
-      "num": 143192,
+      "num": 369087,
       "word": "考生中考分数大跌怀疑成绩被偷",
       "onboard_time": 1689722906,
       "rank": 30,
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 248745,
+      "num": 367767,
+      "word": "基辛格100岁还能飞来北京出差",
+      "onboard_time": 1689725970,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240570,
-      "num": 240570,
+      "num": 367557,
       "word": "张帅退赛",
       "onboard_time": 1689722244,
       "rank": 16,
@@ -299,12 +499,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224427,
+      "num": 369204,
+      "word": "爆料食堂吃出异物学生再发声",
+      "onboard_time": 1689734551,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 216336,
       "num": 216336,
       "word": "王者荣耀",
       "onboard_time": 1689692798,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212629,
+      "num": 368416,
+      "word": "人间烟火",
+      "onboard_time": 1689734129,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210575,
+      "num": 368403,
+      "word": "男朋友睡着女生会偷偷做什么",
+      "onboard_time": 1689724889,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 207386,
@@ -323,12 +547,44 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 192741,
+      "num": 368149,
+      "word": "长安三万里",
+      "onboard_time": 1689733771,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189309,
       "num": 189309,
       "word": "杨丞琳对所有浪漫过敏除了李荣浩",
       "onboard_time": 1689693633,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186802,
+      "num": 368068,
+      "word": "乐华演唱会孟美岐舞台疑被取消",
+      "onboard_time": 1689725193,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186757,
+      "num": 367980,
+      "word": "山东大饺子一个就一碗",
+      "onboard_time": 1689732450,
+      "rank": 34,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 185904,
+      "num": 367962,
+      "word": "原来油纸伞不可以带上地铁",
+      "onboard_time": 1689726571,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 178774,
@@ -339,12 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176361,
+      "num": 367889,
+      "word": "关晓彤当着范丞丞面再提个人战",
+      "onboard_time": 1689729451,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168303,
       "num": 168303,
       "word": "结婚登报最低只需180元",
       "onboard_time": 1689697409,
       "rank": 49,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 165444,
+      "num": 367704,
+      "word": "这就是e人i人小时候吧",
+      "onboard_time": 1689727531,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 159702,
@@ -369,6 +641,30 @@
       "onboard_time": 1689689796,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 151187,
+      "num": 367502,
+      "word": "看长安三万里很多人都哭了",
+      "onboard_time": 1689730710,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150296,
+      "num": 367431,
+      "word": "朱一龙消失的她破34亿海报",
+      "onboard_time": 1689725368,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146168,
+      "num": 367251,
+      "word": "内娱男二教科书",
+      "onboard_time": 1689727411,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 145685,
@@ -404,7 +700,7 @@
     },
     {
       "raw_hot": 126139,
-      "num": 126139,
+      "num": 367053,
       "word": "丈母娘寄果蔬打开已被捂坏妻子掉眼泪",
       "onboard_time": 1689723086,
       "rank": 36,
@@ -417,6 +713,14 @@
       "onboard_time": 1689675393,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120454,
+      "num": 366985,
+      "word": "芭比排片好少",
+      "onboard_time": 1689728012,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 117038,
@@ -529,6 +833,14 @@
       "onboard_time": 1689706816,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31569,
+      "num": 1230425,
+      "word": "生态保护硬核成绩单",
+      "onboard_time": 1689734610,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5868,
