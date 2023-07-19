@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689752021962,
+  "endTime": 1689754872907,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -785,6 +785,14 @@
       "onboard_time": 1688527658,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3109402,
+      "num": 3109402,
+      "word": "韩国幽灵婴儿已确认249人死亡",
+      "onboard_time": 1689751411,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3087922,
@@ -2259,6 +2267,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1921099,
+      "num": 1921099,
+      "word": "研究称最后一个孩出生越晚妈妈寿命越长",
+      "onboard_time": 1689749070,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1918395,
       "num": 563107,
       "word": "李玟手术",
@@ -2552,14 +2568,6 @@
       "word": "人大 学生信息",
       "onboard_time": 1688221059,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1840221,
-      "num": 1840221,
-      "word": "研究称最后一个孩出生越晚妈妈寿命越长",
-      "onboard_time": 1689749070,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -5075,6 +5083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1194803,
+      "num": 1194803,
+      "word": "小钰道歉",
+      "onboard_time": 1689753512,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1193098,
       "num": 1193098,
       "word": "优酷爱奇艺都来了",
@@ -5153,6 +5169,14 @@
       "onboard_time": 1688222138,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1187385,
+      "num": 1187385,
+      "word": "李木戈回应选杨洋王楚然",
+      "onboard_time": 1689751353,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1186013,
@@ -7075,6 +7099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968390,
+      "num": 968390,
+      "word": "TFBOYS演唱会开票时间",
+      "onboard_time": 1689752192,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 968082,
       "num": 968082,
       "word": "宁安如梦",
@@ -8144,14 +8176,6 @@
       "word": "男子隐瞒婚育和同事生子拒付抚养费",
       "onboard_time": 1689039092,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 884071,
-      "num": 884071,
-      "word": "韩国幽灵婴儿已确认249人死亡",
-      "onboard_time": 1689751411,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -12227,14 +12251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 662612,
-      "num": 384233,
-      "word": "李木戈回应选杨洋王楚然",
-      "onboard_time": 1689751353,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 662489,
       "num": 662489,
       "word": "男子钓鱼在一帐篷内发现男尸",
@@ -12969,6 +12985,14 @@
       "onboard_time": 1689087877,
       "rank": 22,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 633204,
+      "num": 633204,
+      "word": "许沁看灭火器vs王宝钏看野菜",
+      "onboard_time": 1689751052,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 632980,
@@ -16179,6 +16203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521630,
+      "num": 521630,
+      "word": "上海警方抓获假靳东团伙8人",
+      "onboard_time": 1689753392,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 521609,
       "num": 521609,
       "word": "粥底火锅",
@@ -17275,6 +17307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 490723,
+      "num": 490723,
+      "word": "面试官问我mbti",
+      "onboard_time": 1689752374,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 490618,
       "num": 490618,
       "word": "陈建州风波后首露面",
@@ -17545,6 +17585,14 @@
       "onboard_time": 1688992113,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485033,
+      "num": 485033,
+      "word": "羊 讨厌一些没有边界感的狼",
+      "onboard_time": 1689753031,
+      "rank": 12,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 484995,
@@ -22323,6 +22371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382940,
+      "num": 341680,
+      "word": "吃了半个月轻食一斤没瘦",
+      "onboard_time": 1689754174,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 382746,
       "num": 343092,
       "word": "王一博核心力量",
@@ -22561,6 +22617,14 @@
       "onboard_time": 1689058114,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379004,
+      "num": 379004,
+      "word": "溥仪眼镜诉雍正眼镜商标侵权",
+      "onboard_time": 1689750750,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378919,
@@ -23169,6 +23233,14 @@
       "onboard_time": 1688438795,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 368963,
+      "num": 368963,
+      "word": "黄渤一个头像宣传三部电影",
+      "onboard_time": 1689754111,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 368664,
@@ -24291,6 +24363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 350363,
+      "num": 245897,
+      "word": "帮送丢垃圾",
+      "onboard_time": 1689754415,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350168,
       "num": 350168,
       "word": "杨颖王楚然任敏连播两部剧",
@@ -24393,14 +24473,6 @@
       "onboard_time": 1689477215,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349079,
-      "num": 330451,
-      "word": "许沁看灭火器vs王宝钏看野菜",
-      "onboard_time": 1689751052,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 349031,
@@ -24665,6 +24737,14 @@
       "onboard_time": 1688726555,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 343020,
+      "num": 343020,
+      "word": "黄薇审美",
+      "onboard_time": 1689751772,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 342840,
@@ -27675,6 +27755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298592,
+      "num": 298592,
+      "word": "十大餐桌酷刑",
+      "onboard_time": 1689752374,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298549,
       "num": 297683,
       "word": "敖子逸回应嘴硬",
@@ -29091,14 +29179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 283186,
-      "num": 283186,
-      "word": "溥仪眼镜诉雍正眼镜商标侵权",
-      "onboard_time": 1689750750,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282762,
       "num": 326521,
       "word": "和熊猫对上眼了是什么体验",
@@ -29312,6 +29392,14 @@
       "word": "鲨鱼疑似噎住潜水员海姆立克法急救",
       "onboard_time": 1689311380,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280333,
+      "num": 280333,
+      "word": "我们的panda",
+      "onboard_time": 1689753573,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -31355,6 +31443,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 256960,
+      "num": 256960,
+      "word": "跟老板有六百多个微信群",
+      "onboard_time": 1689752852,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256944,
       "num": 256944,
       "word": "生活中结果和过程哪个更重要",
@@ -31537,6 +31633,14 @@
       "onboard_time": 1688650057,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254848,
+      "num": 245871,
+      "word": "巨型水龙卷",
+      "onboard_time": 1689754291,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 254742,
@@ -31961,6 +32065,14 @@
       "onboard_time": 1688166077,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251141,
+      "num": 251141,
+      "word": "这就是我坚持运动的原因",
+      "onboard_time": 1689752431,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 251140,
@@ -32585,6 +32697,14 @@
       "onboard_time": 1689073538,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244391,
+      "num": 244391,
+      "word": "刘涛刘宇宁新浪扫楼",
+      "onboard_time": 1689751113,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 244379,
@@ -33484,7 +33604,7 @@
     },
     {
       "raw_hot": 235124,
-      "num": 235124,
+      "num": 244385,
       "word": "张艺兴深圳演唱会二次开票",
       "onboard_time": 1689751531,
       "rank": 32,
@@ -33673,14 +33793,6 @@
       "onboard_time": 1688822434,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 232823,
-      "num": 232823,
-      "word": "刘涛刘宇宁新浪扫楼",
-      "onboard_time": 1689751113,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 232746,
@@ -38099,6 +38211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195015,
+      "num": 244365,
+      "word": "马嘉祺好敢说",
+      "onboard_time": 1689754592,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194942,
       "num": 496490,
       "word": "时空中的绘旅人",
@@ -38611,14 +38731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191273,
-      "num": 230758,
-      "word": "黄薇审美",
-      "onboard_time": 1689751772,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191087,
       "num": 191087,
       "word": "妈妈为女儿演示胯下扣篮动作",
@@ -38753,6 +38865,14 @@
       "onboard_time": 1688290896,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 190154,
+      "num": 244359,
+      "word": "成年后养的第一个孩子是自己",
+      "onboard_time": 1689754652,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 190097,
