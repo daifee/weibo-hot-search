@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689759243879,
+  "endTime": 1689761926655,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3017,6 +3017,14 @@
       "onboard_time": 1688811872,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1694041,
+      "num": 568940,
+      "word": "魏大勋七天涨粉67万多",
+      "onboard_time": 1689757354,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1693557,
@@ -6955,6 +6963,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 986608,
+      "num": 555886,
+      "word": "英子骂得好超前",
+      "onboard_time": 1689760653,
+      "rank": 11,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 985884,
       "num": 720668,
       "word": "内娱绝交大全",
@@ -7179,6 +7195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964845,
+      "num": 964845,
+      "word": "刘雯井柏然相拥大片",
+      "onboard_time": 1689760413,
+      "rank": 5,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 963930,
       "num": 963930,
       "word": "张杰晒蓉宝",
@@ -7321,6 +7345,14 @@
       "onboard_time": 1689582753,
       "rank": 31,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 951445,
+      "num": 951445,
+      "word": "全红婵的16岁",
+      "onboard_time": 1689759572,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 950411,
@@ -7588,7 +7620,7 @@
     },
     {
       "raw_hot": 929155,
-      "num": 304702,
+      "num": 410774,
       "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
       "onboard_time": 1689755614,
       "rank": 48,
@@ -13603,6 +13635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611632,
+      "num": 611632,
+      "word": "李木戈谈选角没提魏大勋",
+      "onboard_time": 1689756395,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611097,
       "num": 611097,
       "word": "张杰超话 答题",
@@ -14107,14 +14147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 592384,
-      "num": 285211,
-      "word": "魏大勋七天涨粉67万多",
-      "onboard_time": 1689757354,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 591868,
       "num": 591868,
       "word": "终于等到minnie",
@@ -14353,14 +14385,6 @@
       "onboard_time": 1689166354,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 583682,
-      "num": 583682,
-      "word": "李木戈谈选角没提魏大勋",
-      "onboard_time": 1689756395,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 583678,
@@ -15505,6 +15529,22 @@
       "onboard_time": 1688864549,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546424,
+      "num": 546424,
+      "word": "跳水",
+      "onboard_time": 1689760353,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 546009,
+      "num": 546009,
+      "word": "陈芋汐女子10米跳台夺金",
+      "onboard_time": 1689761554,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 545871,
@@ -17987,6 +18027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475736,
+      "num": 1200996,
+      "word": "山东一女子放弃编制随父从军",
+      "onboard_time": 1689760353,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475417,
       "num": 449873,
       "word": "肖战为了玉骨遥剧宣好努力",
@@ -18883,6 +18931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 454676,
+      "num": 454676,
+      "word": "杨紫长相思或将7月24日播出",
+      "onboard_time": 1689758734,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454535,
       "num": 454535,
       "word": "复旦附中回应上海交大博士应聘保健员",
@@ -19403,6 +19459,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 443599,
+      "num": 443599,
+      "word": "朴山多拉因为权志龙被社长收走手机",
+      "onboard_time": 1689759031,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443569,
       "num": 290436,
       "word": "为什么上班后大家就爱发云彩了",
@@ -19553,6 +19617,14 @@
       "onboard_time": 1689675454,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440224,
+      "num": 440224,
+      "word": "Rookie",
+      "onboard_time": 1689758913,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 440038,
@@ -20187,6 +20259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 429204,
+      "num": 977803,
+      "word": "民警在夜市一晚上捡到七八个走丢娃",
+      "onboard_time": 1689760232,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428821,
       "num": 428821,
       "word": "林俊杰TMEA",
@@ -20417,6 +20497,14 @@
       "onboard_time": 1689207754,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 423790,
+      "num": 458237,
+      "word": "我们的panda",
+      "onboard_time": 1689753573,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423757,
@@ -22563,6 +22651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381265,
+      "num": 313479,
+      "word": "Loopy演我上班",
+      "onboard_time": 1689760892,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 381230,
       "num": 381230,
       "word": "Jennie音乐节彩排视频",
@@ -23401,14 +23497,6 @@
       "onboard_time": 1689603453,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 367870,
-      "num": 367870,
-      "word": "杨紫长相思或将7月24日播出",
-      "onboard_time": 1689758734,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 367452,
@@ -24257,6 +24345,14 @@
       "onboard_time": 1688870791,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353960,
+      "num": 353960,
+      "word": "玉骨遥镜头好高清",
+      "onboard_time": 1689759754,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 353902,
@@ -26955,14 +27051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 310919,
-      "num": 310919,
-      "word": "我们的panda",
-      "onboard_time": 1689753573,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310778,
       "num": 310778,
       "word": "中国共产党成立102周年",
@@ -27817,6 +27905,14 @@
       "onboard_time": 1689398371,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299573,
+      "num": 299573,
+      "word": "王楚然孟子义有一个小团体",
+      "onboard_time": 1689761071,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 299333,
@@ -28691,6 +28787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291153,
+      "num": 291153,
+      "word": "魏大勋101舞台",
+      "onboard_time": 1689761431,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291071,
       "num": 261521,
       "word": "试衣间死亡顶光",
@@ -28737,6 +28841,14 @@
       "onboard_time": 1688813371,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290194,
+      "num": 290194,
+      "word": "infp向上管理真的很差",
+      "onboard_time": 1689759572,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 290167,
@@ -29593,6 +29705,14 @@
       "onboard_time": 1688259085,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279543,
+      "num": 279543,
+      "word": "张艺兴到达敦煌",
+      "onboard_time": 1689759572,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 279491,
@@ -33627,6 +33747,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 236382,
+      "num": 236382,
+      "word": "热烈首映礼口碑",
+      "onboard_time": 1689760653,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236329,
       "num": 236329,
       "word": "坐飞机遇到了很哇塞的父母",
@@ -35339,14 +35467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219256,
-      "num": 219256,
-      "word": "Rookie",
-      "onboard_time": 1689758913,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219056,
       "num": 219056,
       "word": "谢乔杨澄彻底be",
@@ -36369,6 +36489,14 @@
       "onboard_time": 1688480022,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211451,
+      "num": 211451,
+      "word": "大鹏感谢黄渤王一博选择自己",
+      "onboard_time": 1689760173,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 211438,
@@ -39283,6 +39411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188393,
+      "num": 202802,
+      "word": "KPL",
+      "onboard_time": 1688295516,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188376,
       "num": 188376,
       "word": "星光派对",
@@ -39611,14 +39747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185250,
-      "num": 185250,
-      "word": "KPL",
-      "onboard_time": 1688295516,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 185243,
       "num": 185243,
       "word": "蔡依林全开麦真唱",
@@ -39801,14 +39929,6 @@
       "onboard_time": 1689586411,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183506,
-      "num": 203497,
-      "word": "朴山多拉因为权志龙被社长收走手机",
-      "onboard_time": 1689759031,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 183358,
@@ -41673,6 +41793,14 @@
       "onboard_time": 1689679593,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161127,
+      "num": 202774,
+      "word": "上海年轻人为啥都开始上夜校了",
+      "onboard_time": 1689761852,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 161110,
@@ -44011,6 +44139,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 101469,
+      "num": 1337653,
+      "word": "我国累计建成5G基站超293万个",
+      "onboard_time": 1689758734,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 101449,
       "num": 101449,
       "word": "许嵩武汉欢乐谷",
@@ -44907,6 +45043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65510,
+      "num": 413749,
+      "word": "在飞机上偶遇了一场音乐会",
+      "onboard_time": 1689761794,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64831,
       "num": 64831,
       "word": "七旬老人凌晨迷失深山无人机热成像找人",
@@ -45233,14 +45377,6 @@
       "onboard_time": 1688751620,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 48627,
-      "num": 1337653,
-      "word": "我国累计建成5G基站超293万个",
-      "onboard_time": 1689758734,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 48251,
