@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689783751575,
+  "endTime": 1689784688661,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -51,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 815666,
+      "num": 815666,
+      "word": "原来许沁的作用是警示大家",
+      "onboard_time": 1689781471,
+      "rank": 6,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 806907,
       "num": 806907,
       "word": "我的人间烟火收视创新高",
       "onboard_time": 1689779435,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 705792,
-      "num": 669658,
-      "word": "原来许沁的作用是警示大家",
-      "onboard_time": 1689781471,
-      "rank": 6,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 685503,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 526237,
-      "num": 526237,
+      "num": 530754,
       "word": "韩国整容中心门口的鼻子墙",
       "onboard_time": 1689768634,
       "rank": 7,
@@ -107,27 +107,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469121,
-      "num": 399108,
-      "word": "黄渤感谢30多位妲己盛装前来",
-      "onboard_time": 1689774577,
-      "rank": 21,
+      "raw_hot": 481013,
+      "num": 351873,
+      "word": "成功承认出轨",
+      "onboard_time": 1689775539,
+      "rank": 25,
       "category": "影视"
     },
     {
-      "raw_hot": 454272,
-      "num": 454272,
+      "raw_hot": 469479,
+      "num": 469479,
       "word": "美总统候选人称美正收集中国人DNA",
       "onboard_time": 1689780934,
       "rank": 14,
       "category": "国外要闻"
     },
     {
-      "raw_hot": 448422,
-      "num": 351873,
-      "word": "成功承认出轨",
-      "onboard_time": 1689775539,
-      "rank": 25,
+      "raw_hot": 469121,
+      "num": 399108,
+      "word": "黄渤感谢30多位妲己盛装前来",
+      "onboard_time": 1689774577,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -143,6 +143,22 @@
       "num": 525495,
       "word": "花花被游客喊胖子愣了1秒钟",
       "onboard_time": 1689772356,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425748,
+      "num": 425748,
+      "word": "记者解剖鸭头剥出巩膜",
+      "onboard_time": 1689781712,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421734,
+      "num": 518675,
+      "word": "罗森",
+      "onboard_time": 1689784410,
       "rank": 8,
       "category": "社会新闻"
     },
@@ -163,14 +179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 403363,
-      "num": 403363,
-      "word": "记者解剖鸭头剥出巩膜",
-      "onboard_time": 1689781712,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399078,
       "num": 399078,
       "word": "产后排便能有多可怕",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 391747,
-      "num": 286692,
+      "num": 368314,
       "word": "孟宴臣哭的我心都碎了",
       "onboard_time": 1689780874,
       "rank": 41,
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306144,
+      "num": 306144,
+      "word": "浙江一对母女双双确诊卵巢癌晚期",
+      "onboard_time": 1689772655,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303704,
       "num": 303704,
       "word": "为什么车祸之后不要喝水",
@@ -243,20 +259,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 286757,
-      "num": 286757,
-      "word": "浙江一对母女双双确诊卵巢癌晚期",
-      "onboard_time": 1689772655,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248489,
       "num": 286756,
       "word": "活死人 网络村晚",
       "onboard_time": 1689774758,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241428,
+      "num": 286699,
+      "word": "海恩贤圭同框",
+      "onboard_time": 1689783631,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 229120,
@@ -323,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179905,
-      "num": 286699,
-      "word": "海恩贤圭同框",
-      "onboard_time": 1689783631,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 178057,
       "num": 286683,
       "word": "左航被救护车接走",
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145902,
+      "num": 180057,
+      "word": "关晓彤竟然是i人",
+      "onboard_time": 1689773797,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133703,
       "num": 286645,
       "word": "四川大学回应网传视频",
@@ -379,12 +395,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 133207,
+      "num": 180052,
+      "word": "刘雯井柏然相拥大片",
+      "onboard_time": 1689760413,
+      "rank": 45,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 119256,
       "num": 286643,
       "word": "杭州暴雨",
       "onboard_time": 1689768091,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111514,
+      "num": 180045,
+      "word": "宋慧乔黑色美甲",
+      "onboard_time": 1689767732,
+      "rank": 48,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 82791,

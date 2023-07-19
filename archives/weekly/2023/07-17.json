@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689783751575,
+  "endTime": 1689784688661,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -1451,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 815666,
+      "num": 815666,
+      "word": "原来许沁的作用是警示大家",
+      "onboard_time": 1689781471,
+      "rank": 6,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 812307,
       "num": 573945,
       "word": "健身房回应女子更衣室换衣10岁男孩两次闯入",
@@ -1721,14 +1729,6 @@
       "onboard_time": 1689587192,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 705792,
-      "num": 669658,
-      "word": "原来许沁的作用是警示大家",
-      "onboard_time": 1689781471,
-      "rank": 6,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 704413,
@@ -2963,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469479,
+      "num": 469479,
+      "word": "美总统候选人称美正收集中国人DNA",
+      "onboard_time": 1689780934,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 469464,
       "num": 832665,
       "word": "密室大逃脱大神版",
@@ -3089,14 +3097,6 @@
       "onboard_time": 1689758734,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 454272,
-      "num": 454272,
-      "word": "美总统候选人称美正收集中国人DNA",
-      "onboard_time": 1689780934,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 453393,
@@ -3315,6 +3315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425748,
+      "num": 425748,
+      "word": "记者解剖鸭头剥出巩膜",
+      "onboard_time": 1689781712,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424575,
       "num": 424575,
       "word": "肖战黑伞狙击",
@@ -3353,6 +3361,14 @@
       "onboard_time": 1689560728,
       "rank": 15,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 421734,
+      "num": 518675,
+      "word": "罗森",
+      "onboard_time": 1689784410,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421669,
@@ -3523,14 +3539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 403363,
-      "num": 403363,
-      "word": "记者解剖鸭头剥出巩膜",
-      "onboard_time": 1689781712,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403255,
       "num": 389075,
       "word": "为什么不让马伯骞来演",
@@ -3684,7 +3692,7 @@
     },
     {
       "raw_hot": 391747,
-      "num": 286692,
+      "num": 368314,
       "word": "孟宴臣哭的我心都碎了",
       "onboard_time": 1689780874,
       "rank": 41,
@@ -5435,6 +5443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241428,
+      "num": 286699,
+      "word": "海恩贤圭同框",
+      "onboard_time": 1689783631,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241348,
       "num": 241348,
       "word": "Angelababy最新外网生图",
@@ -6537,14 +6553,6 @@
       "onboard_time": 1689750030,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179905,
-      "num": 286699,
-      "word": "海恩贤圭同框",
-      "onboard_time": 1689783631,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 178746,
