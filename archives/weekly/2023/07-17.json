@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689773617668,
+  "endTime": 1689776176266,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3381825,
-      "num": 1196569,
+      "num": 1512538,
       "word": "张雨绮初中因为颜值被全校围观",
       "onboard_time": 1689764311,
       "rank": 20,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2832171,
-      "num": 1182098,
+      "num": 1220149,
       "word": "北京广告协会删除对蔡某某的风险把控提示",
       "onboard_time": 1689769233,
       "rank": 5,
@@ -187,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2208511,
+      "num": 2208511,
+      "word": "方川导演 孟宴臣",
+      "onboard_time": 1689772835,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2170887,
       "num": 766626,
       "word": "刘恺威带小糯米外出",
@@ -235,6 +243,14 @@
       "category": "情感,音乐"
     },
     {
+      "raw_hot": 2018397,
+      "num": 1168267,
+      "word": "四个显眼包都营业了",
+      "onboard_time": 1689771272,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1968507,
       "num": 1968507,
       "word": "苏醒说混内娱好不好的标志是见到杨迪",
@@ -273,6 +289,14 @@
       "onboard_time": 1689688297,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1911699,
+      "num": 892321,
+      "word": "女主播大面积裸露推荐隆胸产品被罚60万",
+      "onboard_time": 1689767791,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1910552,
@@ -379,12 +403,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1733892,
-      "num": 1165218,
-      "word": "四个显眼包都营业了",
-      "onboard_time": 1689771272,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 1699253,
+      "num": 1699253,
+      "word": "黄渤感谢30多位妲己盛装前来",
+      "onboard_time": 1689774577,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1689781,
@@ -424,14 +448,6 @@
       "word": "指套为鸭事件被开除的厨师怎么办",
       "onboard_time": 1689766531,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1601006,
-      "num": 892321,
-      "word": "女主播大面积裸露推荐隆胸产品被罚60万",
-      "onboard_time": 1689767791,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -819,14 +835,6 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 1105894,
-      "num": 1105894,
-      "word": "方川导演 孟宴臣",
-      "onboard_time": 1689772835,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1097042,
       "num": 425791,
       "word": "赵今麦的妆是谁画的",
@@ -905,6 +913,14 @@
       "onboard_time": 1689737551,
       "rank": 18,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1036264,
+      "num": 1036264,
+      "word": "裴秀智青龙视后",
+      "onboard_time": 1689775476,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1031406,
@@ -1123,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 928821,
+      "num": 839931,
+      "word": "林允儿的背",
+      "onboard_time": 1689772233,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 919392,
       "num": 819288,
       "word": "许沁被偷改的人生",
@@ -1227,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 872814,
+      "num": 872814,
+      "word": "自动辞职",
+      "onboard_time": 1689771033,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 870241,
       "num": 870241,
       "word": "身份证被狗吃了",
@@ -1267,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 846491,
+      "num": 617886,
+      "word": "成功承认出轨",
+      "onboard_time": 1689775539,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 845705,
       "num": 751446,
       "word": "调查显示女性结婚意愿比男性更低",
@@ -1281,14 +1321,6 @@
       "onboard_time": 1689740136,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 839931,
-      "num": 839931,
-      "word": "林允儿的背",
-      "onboard_time": 1689772233,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 838222,
@@ -1931,14 +1963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 625737,
-      "num": 834624,
-      "word": "自动辞职",
-      "onboard_time": 1689771033,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 625653,
       "num": 625653,
       "word": "乘风成团名单",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1689644310,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 607732,
+      "num": 607732,
+      "word": "浙江一对母女双双确诊卵巢癌晚期",
+      "onboard_time": 1689772655,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605262,
@@ -2403,12 +2435,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 532131,
+      "num": 532131,
+      "word": "真的不要过度的去省钱",
+      "onboard_time": 1689774097,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 530651,
+      "num": 530651,
+      "word": "追光的日子",
+      "onboard_time": 1689774939,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 530294,
       "num": 349918,
       "word": "黄渤王一博新海报",
       "onboard_time": 1689650792,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 529242,
+      "num": 656375,
+      "word": "活死人 网络村晚",
+      "onboard_time": 1689774758,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 528519,
@@ -3131,14 +3187,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 429795,
-      "num": 429795,
-      "word": "浙江一对母女双双确诊卵巢癌晚期",
-      "onboard_time": 1689772655,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429204,
       "num": 977803,
       "word": "民警在夜市一晚上捡到七八个走丢娃",
@@ -3153,6 +3201,14 @@
       "onboard_time": 1689572011,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426181,
+      "num": 450111,
+      "word": "秀智礼服好闪",
+      "onboard_time": 1689768872,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 424575,
@@ -3601,6 +3657,14 @@
       "onboard_time": 1689607294,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 372181,
+      "num": 372181,
+      "word": "关晓彤竟然是i人",
+      "onboard_time": 1689773797,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 371117,
@@ -4067,14 +4131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333213,
-      "num": 450111,
-      "word": "秀智礼服好闪",
-      "onboard_time": 1689768872,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 331159,
       "num": 331159,
       "word": "曾黎金丝眼镜",
@@ -4257,6 +4313,14 @@
       "onboard_time": 1689755914,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312543,
+      "num": 312543,
+      "word": "孟宴臣扔钥匙极致十秒",
+      "onboard_time": 1689775961,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 312464,
@@ -4457,6 +4521,14 @@
       "onboard_time": 1689577651,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293963,
+      "num": 299154,
+      "word": "山东人人都怕的生物",
+      "onboard_time": 1689774219,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 292788,
@@ -5603,6 +5675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213190,
+      "num": 636294,
+      "word": "DRG零封KSG",
+      "onboard_time": 1689774875,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213030,
       "num": 533697,
       "word": "朴灿烈金珉锡边伯贤洪恩採一起跳舞",
@@ -5745,6 +5825,14 @@
       "onboard_time": 1689756214,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 207303,
+      "num": 296746,
+      "word": "宋慧乔青龙红毯",
+      "onboard_time": 1689775961,
+      "rank": 42,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 207151,
@@ -6267,6 +6355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178732,
+      "num": 330820,
+      "word": "蒯曼",
+      "onboard_time": 1689773497,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178292,
       "num": 178292,
       "word": "男子走4公里帮走失男孩找妈妈",
@@ -6411,6 +6507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168790,
+      "num": 295643,
+      "word": "台风天深圳海滩上出现大量海鲜",
+      "onboard_time": 1689774697,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168530,
       "num": 328956,
       "word": "王宝强cue陈永胜史彭元回应cp感",
@@ -6481,6 +6585,14 @@
       "onboard_time": 1689579809,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165015,
+      "num": 295332,
+      "word": "币姜一百",
+      "onboard_time": 1689774035,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 164583,
@@ -6801,14 +6913,6 @@
       "onboard_time": 1689646530,
       "rank": 49,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 131006,
-      "num": 330820,
-      "word": "蒯曼",
-      "onboard_time": 1689773497,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 130540,
@@ -7289,6 +7393,14 @@
       "onboard_time": 1689618975,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23105,
+      "num": 1633904,
+      "word": "新时代中国调研行长江篇",
+      "onboard_time": 1689773137,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20995,
