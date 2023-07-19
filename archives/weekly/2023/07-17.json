@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689798832611,
+  "endTime": 1689801307996,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -7659,6 +7659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29875,
+      "num": 42680,
+      "word": "时代峰峻回应左航健康问题",
+      "onboard_time": 1689797713,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29527,
       "num": 36578,
       "word": "怎么做到的自信",
@@ -7675,12 +7683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26481,
-      "num": 42680,
-      "word": "时代峰峻回应左航健康问题",
-      "onboard_time": 1689797713,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 24957,
+      "num": 27046,
+      "word": "沉浸式体验肖战片场的一天",
+      "onboard_time": 1689799091,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 23385,
