@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689739407111,
+  "endTime": 1689740700445,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3334222,
-      "num": 515521,
+      "num": 549048,
       "word": "产后会阴裂伤真的像那个芒果吗",
       "onboard_time": 1689730112,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 1100941,
+      "num": 1100941,
+      "word": "白敬亭魏大勋刘昊然同框路透",
+      "onboard_time": 1689738873,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 979318,
       "num": 979318,
       "word": "翟潇闻 桑延",
@@ -105,6 +113,14 @@
       "onboard_time": 1689693758,
       "rank": 5,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 891541,
+      "num": 891541,
+      "word": "郭启刚回国投案",
+      "onboard_time": 1689737612,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 875008,
@@ -163,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780367,
+      "num": 780367,
+      "word": "黄山为什么不提倡冲方便面",
+      "onboard_time": 1689737551,
+      "rank": 18,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 679740,
+      "num": 679740,
+      "word": "孟宴臣换个人来演都能火吗",
+      "onboard_time": 1689727469,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 668881,
       "num": 668881,
       "word": "周杰伦演唱会 不实名",
@@ -177,14 +209,6 @@
       "onboard_time": 1689733291,
       "rank": 31,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 634937,
-      "num": 415375,
-      "word": "郭启刚回国投案",
-      "onboard_time": 1689737612,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 593471,
@@ -211,20 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536599,
-      "num": 512051,
+      "raw_hot": 566870,
+      "num": 566870,
       "word": "出租车司机偷瞄乘客密码取走19000元",
       "onboard_time": 1689737071,
       "rank": 15,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 532608,
-      "num": 509661,
-      "word": "黄山为什么不提倡冲方便面",
-      "onboard_time": 1689737551,
-      "rank": 18,
-      "category": "社会新闻,旅游"
+      "raw_hot": 550133,
+      "num": 491505,
+      "word": "如果付闻樱收养的是叶冰裳",
+      "onboard_time": 1689737010,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 529669,
@@ -233,14 +257,6 @@
       "onboard_time": 1689669993,
       "rank": 8,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 521478,
-      "num": 521478,
-      "word": "孟宴臣换个人来演都能火吗",
-      "onboard_time": 1689727469,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 502938,
@@ -273,6 +289,14 @@
       "onboard_time": 1689738033,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 473936,
+      "num": 473936,
+      "word": "调查显示女性结婚意愿比男性更低",
+      "onboard_time": 1689739594,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473617,
@@ -347,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415604,
-      "num": 415604,
-      "word": "如果付闻樱收养的是叶冰裳",
-      "onboard_time": 1689737010,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 405356,
       "num": 349067,
       "word": "张学友15分钟封神现场",
@@ -387,6 +403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 391588,
+      "num": 415321,
+      "word": "3608名回流生参加西安中考为何引众怒",
+      "onboard_time": 1689737612,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 391152,
       "num": 391152,
       "word": "酒店双床房为什么只能住两人",
@@ -401,6 +425,14 @@
       "onboard_time": 1689693935,
       "rank": 21,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 388881,
+      "num": 388881,
+      "word": "李飞你不官宣是有什么顾虑吗",
+      "onboard_time": 1689740136,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 386185,
@@ -443,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354005,
-      "num": 415321,
-      "word": "3608名回流生参加西安中考为何引众怒",
-      "onboard_time": 1689737612,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 341010,
       "num": 414939,
       "word": "结婚当天最添堵的一件事",
@@ -467,20 +491,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332092,
-      "num": 415513,
-      "word": "白敬亭魏大勋刘昊然同框路透",
-      "onboard_time": 1689738873,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 320701,
       "num": 320701,
       "word": "为什么拉萨很多车后面要挂鞋",
       "onboard_time": 1689682355,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 318818,
+      "num": 246473,
+      "word": "真正通便的食物是这14种",
+      "onboard_time": 1689740012,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 316805,
+      "num": 316805,
+      "word": "发现书被盗版但一本没卖掉",
+      "onboard_time": 1689739655,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 307343,
+      "num": 414833,
+      "word": "浙江高考",
+      "onboard_time": 1689738632,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 297746,
@@ -563,6 +603,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 258776,
+      "num": 415004,
+      "word": "男朋友睡着女生会偷偷做什么",
+      "onboard_time": 1689724889,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256246,
       "num": 256246,
       "word": "玖月晞 改文",
@@ -593,14 +641,6 @@
       "onboard_time": 1689725970,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245703,
-      "num": 415004,
-      "word": "男朋友睡着女生会偷偷做什么",
-      "onboard_time": 1689724889,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 240570,
@@ -635,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207560,
-      "num": 414833,
-      "word": "浙江高考",
-      "onboard_time": 1689738632,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 207386,
       "num": 207386,
       "word": "刘诗诗什么时候演梦华录了",
@@ -659,6 +691,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 204189,
+      "num": 222628,
+      "word": "密室大逃脱",
+      "onboard_time": 1689740434,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202696,
+      "num": 414728,
+      "word": "原来油纸伞不可以带上地铁",
+      "onboard_time": 1689726571,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200924,
       "num": 414183,
       "word": "关晓彤当着范丞丞面再提个人战",
@@ -667,19 +715,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199546,
-      "num": 414728,
-      "word": "原来油纸伞不可以带上地铁",
-      "onboard_time": 1689726571,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192741,
       "num": 414131,
       "word": "长安三万里",
       "onboard_time": 1689733771,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189341,
+      "num": 414643,
+      "word": "流水迢迢",
+      "onboard_time": 1689737010,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -707,12 +755,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 181930,
-      "num": 414643,
-      "word": "流水迢迢",
-      "onboard_time": 1689737010,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 186353,
+      "num": 222594,
+      "word": "现在就出发",
+      "onboard_time": 1689740012,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 178774,
@@ -721,6 +769,14 @@
       "onboard_time": 1689670535,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171461,
+      "num": 414253,
+      "word": "看长安三万里很多人都哭了",
+      "onboard_time": 1689730710,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 169060,
@@ -761,14 +817,6 @@
       "onboard_time": 1689689796,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 151187,
-      "num": 414253,
-      "word": "看长安三万里很多人都哭了",
-      "onboard_time": 1689730710,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 150296,
@@ -932,10 +980,18 @@
     },
     {
       "raw_hot": 69161,
-      "num": 1230425,
+      "num": 1363824,
       "word": "生态保护硬核成绩单",
       "onboard_time": 1689734610,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68647,
+      "num": 222507,
+      "word": "胶原蛋白只认A型",
+      "onboard_time": 1689740496,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
