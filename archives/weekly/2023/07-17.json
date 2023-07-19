@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689790875478,
+  "endTime": 1689791676010,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -7651,20 +7651,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 28525,
+      "num": 131820,
+      "word": "两意大利解说员歧视中国人被停职",
+      "onboard_time": 1689790336,
+      "rank": 49,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 26806,
       "num": 1633904,
       "word": "新时代中国调研行长江篇",
       "onboard_time": 1689773137,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25178,
-      "num": 131820,
-      "word": "两意大利解说员歧视中国人被停职",
-      "onboard_time": 1689790336,
-      "rank": 49,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 23385,
