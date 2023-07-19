@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689747751591,
+  "endTime": 1689748521126,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -99,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2736599,
+      "num": 2736599,
+      "word": "韩国真的没人生小孩了吗",
+      "onboard_time": 1689743914,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2732474,
       "num": 2732474,
       "word": "玖月晞",
@@ -177,14 +185,6 @@
       "onboard_time": 1689639871,
       "rank": 0,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 2043198,
-      "num": 2043198,
-      "word": "韩国真的没人生小孩了吗",
-      "onboard_time": 1689743914,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2019217,
@@ -1443,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 682245,
+      "num": 682245,
+      "word": "年薪20万你会考虑外派非洲吗",
+      "onboard_time": 1689746132,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681491,
       "num": 681491,
       "word": "许沁摔全家福",
@@ -1547,20 +1555,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 653913,
+      "num": 574082,
+      "word": "比亚迪",
+      "onboard_time": 1689744513,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 652703,
       "num": 438150,
       "word": "政审家访被妈妈气晕了",
       "onboard_time": 1689671735,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 652082,
-      "num": 284329,
-      "word": "年薪20万你会考虑外派非洲吗",
-      "onboard_time": 1689746132,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 650789,
@@ -1607,6 +1615,14 @@
       "num": 636193,
       "word": "肖战说最近在上课",
       "onboard_time": 1689659189,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 629314,
+      "num": 629314,
+      "word": "肖战预告九嶷山大雨",
+      "onboard_time": 1689748350,
       "rank": 7,
       "category": "影视"
     },
@@ -1835,14 +1851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 574082,
-      "num": 574082,
-      "word": "比亚迪",
-      "onboard_time": 1689744513,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 571477,
       "num": 571477,
       "word": "食堂异物高度可能为鸭眼球巩膜",
@@ -2067,6 +2075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 520155,
+      "num": 520155,
+      "word": "唐尚珺高考志愿被退档",
+      "onboard_time": 1689742837,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 518787,
       "num": 518787,
       "word": "玉骨遥点映礼没有王楚然",
@@ -2243,12 +2259,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 484375,
-      "num": 484375,
-      "word": "唐尚珺高考志愿被退档",
-      "onboard_time": 1689742837,
-      "rank": 29,
-      "category": "教育"
+      "raw_hot": 483050,
+      "num": 483050,
+      "word": "女子坐飞机被机长老公隔空比心",
+      "onboard_time": 1689744995,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481599,
@@ -2473,14 +2489,6 @@
       "onboard_time": 1689657272,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444699,
-      "num": 444699,
-      "word": "女子坐飞机被机长老公隔空比心",
-      "onboard_time": 1689744995,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443859,
@@ -2820,7 +2828,7 @@
     },
     {
       "raw_hot": 400053,
-      "num": 274234,
+      "num": 367031,
       "word": "杨紫MLB现场被人送炸蚂蚱",
       "onboard_time": 1689745353,
       "rank": 22,
@@ -2865,6 +2873,14 @@
       "onboard_time": 1689570692,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396554,
+      "num": 396554,
+      "word": "成毅复工",
+      "onboard_time": 1689747810,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 395843,
@@ -3339,6 +3355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336690,
+      "num": 231410,
+      "word": "职场水母",
+      "onboard_time": 1689746311,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 336300,
       "num": 336300,
       "word": "消防员就应该拍成这样",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1689565830,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325991,
+      "num": 325991,
+      "word": "李荣浩青岛演唱会抢票",
+      "onboard_time": 1689747810,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 325163,
@@ -3420,7 +3452,7 @@
     },
     {
       "raw_hot": 319572,
-      "num": 269393,
+      "num": 291487,
       "word": "许沁对宋焰说你也太宠我了",
       "onboard_time": 1689746132,
       "rank": 23,
@@ -3497,14 +3529,6 @@
       "onboard_time": 1689682776,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314182,
-      "num": 215217,
-      "word": "职场水母",
-      "onboard_time": 1689746311,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 313786,
@@ -4515,6 +4539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225144,
+      "num": 225144,
+      "word": "迪丽热巴状告黑粉胜诉",
+      "onboard_time": 1689747929,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225074,
       "num": 320460,
       "word": "女子拍照被大爷误认直播喊话拉低衣服",
@@ -4803,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207151,
+      "num": 279856,
+      "word": "风月变",
+      "onboard_time": 1689743255,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206941,
       "num": 237479,
       "word": "丫丫vlog上新",
@@ -4928,14 +4968,6 @@
       "word": "谢乔杨澄说话最多的一次",
       "onboard_time": 1689562531,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 201560,
-      "num": 279856,
-      "word": "风月变",
-      "onboard_time": 1689743255,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -5232,6 +5264,14 @@
       "word": "2023乒超联赛",
       "onboard_time": 1689591332,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184601,
+      "num": 191314,
+      "word": "张帅回应遭遇不公正判罚",
+      "onboard_time": 1689747512,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -5769,14 +5809,6 @@
       "onboard_time": 1689610347,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131786,
-      "num": 191314,
-      "word": "张帅回应遭遇不公正判罚",
-      "onboard_time": 1689747512,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 131513,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1689748521126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2736599,
+        "num": 2736599,
+        "word": "韩国真的没人生小孩了吗",
+        "onboard_time": 1689743914,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146084,
+        "num": 1146084,
+        "word": "白敬亭向涵之 仙台有树",
+        "onboard_time": 1689743195,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47395,
+        "num": 891454,
+        "word": "生态保护硬核成绩单",
+        "onboard_time": 1689734610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877775,
+        "num": 877775,
+        "word": "辣条在韩国火了",
+        "onboard_time": 1689741996,
+        "rank": 3,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 872804,
+        "num": 872804,
+        "word": "宋焰许沁去吃饭只点一个菜",
+        "onboard_time": 1689741159,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 682245,
+        "num": 682245,
+        "word": "年薪20万你会考虑外派非洲吗",
+        "onboard_time": 1689746132,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665509,
+        "num": 665509,
+        "word": "30岁没结婚但过得快乐也是一种成功",
+        "onboard_time": 1689742536,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 629314,
+        "num": 629314,
+        "word": "肖战预告九嶷山大雨",
+        "onboard_time": 1689748350,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601611,
+        "num": 601611,
+        "word": "丁程鑫说719这个日子都敢选",
+        "onboard_time": 1689743853,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 520606,
+        "num": 520606,
+        "word": "人民文娱评我的人间烟火",
+        "onboard_time": 1689734428,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1631116,
+        "num": 520598,
+        "word": "产后会阴裂伤真的像那个芒果吗",
+        "onboard_time": 1689730112,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1097358,
+        "num": 520378,
+        "word": "杨威否认与杨云离婚",
+        "onboard_time": 1689740856,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520155,
+        "num": 520155,
+        "word": "唐尚珺高考志愿被退档",
+        "onboard_time": 1689742837,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 483050,
+        "num": 483050,
+        "word": "女子坐飞机被机长老公隔空比心",
+        "onboard_time": 1689744995,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435918,
+        "num": 435918,
+        "word": "周杰伦演唱会2张连座票黄牛叫价15万",
+        "onboard_time": 1689731193,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 431450,
+        "num": 431450,
+        "word": "人间烟火 没有共情到女主的窒息",
+        "onboard_time": 1689728491,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429834,
+        "num": 429834,
+        "word": "为什么经常收不到微信消息",
+        "onboard_time": 1689743255,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 653913,
+        "num": 425970,
+        "word": "比亚迪",
+        "onboard_time": 1689744513,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 404293,
+        "num": 404293,
+        "word": "真正通便的食物是这14种",
+        "onboard_time": 1689740012,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 396554,
+        "num": 396554,
+        "word": "成毅复工",
+        "onboard_time": 1689747810,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458344,
+        "num": 381130,
+        "word": "室友六天赚了一千四百多",
+        "onboard_time": 1689726633,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399887,
+        "num": 367031,
+        "word": "杨紫MLB现场被人送炸蚂蚱",
+        "onboard_time": 1689745353,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351551,
+        "num": 351551,
+        "word": "38岁女子误将先兆流产当经期排出",
+        "onboard_time": 1689733291,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346783,
+        "num": 346783,
+        "word": "李飞你不官宣是有什么顾虑吗",
+        "onboard_time": 1689740136,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339982,
+        "num": 339982,
+        "word": "A股",
+        "onboard_time": 1689744812,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 325991,
+        "num": 325991,
+        "word": "李荣浩青岛演唱会抢票",
+        "onboard_time": 1689747810,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291487,
+        "num": 291487,
+        "word": "许沁对宋焰说你也太宠我了",
+        "onboard_time": 1689746132,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236850,
+        "num": 236850,
+        "word": "白敬亭魏大勋刘昊然同框路透",
+        "onboard_time": 1689738873,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283673,
+        "num": 234959,
+        "word": "如果那英来演许沁",
+        "onboard_time": 1689741578,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202446,
+        "num": 231823,
+        "word": "郭启刚回国投案",
+        "onboard_time": 1689737612,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336690,
+        "num": 231410,
+        "word": "职场水母",
+        "onboard_time": 1689746311,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228962,
+        "num": 228962,
+        "word": "喝奶茶最讨厌的小料是什么",
+        "onboard_time": 1689740976,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228646,
+        "num": 228646,
+        "word": "开10天的空调要了325块钱",
+        "onboard_time": 1689740917,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227862,
+        "num": 227862,
+        "word": "纠正骨盆后倾才是翘臀必杀技",
+        "onboard_time": 1689733291,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 225144,
+        "num": 225144,
+        "word": "迪丽热巴状告黑粉胜诉",
+        "onboard_time": 1689747929,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214296,
+        "num": 214296,
+        "word": "电影白蛇浮生官宣",
+        "onboard_time": 1689741336,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207151,
+        "num": 207151,
+        "word": "风月变",
+        "onboard_time": 1689743255,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194135,
+        "num": 194135,
+        "word": "杨幂密逃上班花絮",
+        "onboard_time": 1689746970,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192331,
+        "num": 192331,
+        "word": "公司1.2亿租楼300每月租给员工住",
+        "onboard_time": 1689728914,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190083,
+        "num": 190083,
+        "word": "刘奕君这身材都怕输在年轻",
+        "onboard_time": 1689725309,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184601,
+        "num": 184601,
+        "word": "张帅回应遭遇不公正判罚",
+        "onboard_time": 1689747512,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183368,
+        "num": 183368,
+        "word": "结账时发现买到贵货怎么办",
+        "onboard_time": 1689733410,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181032,
+        "num": 181032,
+        "word": "福宝真是从小可爱到大",
+        "onboard_time": 1689738033,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167552,
+        "num": 181015,
+        "word": "3608名回流生参加西安中考为何引众怒",
+        "onboard_time": 1689737612,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166554,
+        "num": 180989,
+        "word": "怦然心动20岁",
+        "onboard_time": 1689742477,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157769,
+        "num": 180968,
+        "word": "密室大逃脱",
+        "onboard_time": 1689740434,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153508,
+        "num": 180917,
+        "word": "二十岁和三十岁的亲密关系",
+        "onboard_time": 1689741874,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 145102,
+        "num": 180914,
+        "word": "热烈",
+        "onboard_time": 1689743914,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142192,
+        "num": 180876,
+        "word": "潜水照丑到不敢发朋友圈",
+        "onboard_time": 1689744033,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140883,
+        "num": 180843,
+        "word": "金泰亨 卡地亚",
+        "onboard_time": 1689733829,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿尔及利亚总统特本会谈#"
+    }
+  }
+}
