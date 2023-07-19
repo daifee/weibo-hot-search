@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689755657827,
+  "endTime": 1689758215645,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1689682713,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2149698,
+      "num": 2149698,
+      "word": "小钰道歉",
+      "onboard_time": 1689753512,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 2146090,
@@ -3969,14 +3977,6 @@
       "onboard_time": 1688370823,
       "rank": 4,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1421043,
-      "num": 1421043,
-      "word": "小钰道歉",
-      "onboard_time": 1689753512,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1419371,
@@ -6811,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 994853,
+      "num": 620498,
+      "word": "羊 讨厌一些没有边界感的狼",
+      "onboard_time": 1689753031,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 994816,
       "num": 994816,
       "word": "上海00后为纸片人吃席",
@@ -7561,6 +7569,14 @@
       "onboard_time": 1688370464,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 929155,
+      "num": 304702,
+      "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
+      "onboard_time": 1689755614,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 928753,
@@ -10193,6 +10209,14 @@
       "onboard_time": 1688970153,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 764705,
+      "num": 764705,
+      "word": "怀疑杨洋捡到了张颂文的错题本",
+      "onboard_time": 1689755972,
+      "rank": 4,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 764202,
@@ -13363,14 +13387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 620498,
-      "num": 620498,
-      "word": "羊 讨厌一些没有边界感的狼",
-      "onboard_time": 1689753031,
-      "rank": 12,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 619843,
       "num": 490241,
       "word": "宝妈买3斤干冰降温家中秒变仙境",
@@ -13609,6 +13625,14 @@
       "onboard_time": 1688442276,
       "rank": 12,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 610014,
+      "num": 610014,
+      "word": "树上掉知了一晚上能捡2000元",
+      "onboard_time": 1689755672,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609683,
@@ -15979,6 +16003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530205,
+      "num": 279843,
+      "word": "dirty talk",
+      "onboard_time": 1689757293,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529963,
       "num": 404102,
       "word": "不要给孩子吃太多水果了",
@@ -16201,6 +16233,14 @@
       "onboard_time": 1689082717,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522243,
+      "num": 522243,
+      "word": "王一博学跳惊鸿舞",
+      "onboard_time": 1689757354,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 522149,
@@ -16699,6 +16739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507714,
+      "num": 507714,
+      "word": "李木戈谈选角没提魏大勋",
+      "onboard_time": 1689756395,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507474,
       "num": 507474,
       "word": "谁有后羿的电话",
@@ -16913,6 +16961,14 @@
       "onboard_time": 1689663209,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 501431,
+      "num": 501431,
+      "word": "黄渤一个头像宣传三部电影",
+      "onboard_time": 1689754111,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 501302,
@@ -18491,14 +18547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462289,
-      "num": 462289,
-      "word": "黄渤一个头像宣传三部电影",
-      "onboard_time": 1689754111,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 462079,
       "num": 462079,
       "word": "青旅回应不接待35岁以上人群",
@@ -19665,6 +19713,14 @@
       "onboard_time": 1689129454,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437402,
+      "num": 437402,
+      "word": "古偶大婚必大虐",
+      "onboard_time": 1689757592,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 437236,
@@ -22275,6 +22331,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 385085,
+      "num": 301292,
+      "word": "买西瓜时听到的母子对话",
+      "onboard_time": 1689758013,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384656,
       "num": 384656,
       "word": "CA1524航班颠簸致1旅客1乘务员受伤",
@@ -23320,6 +23384,14 @@
       "word": "jiejie状态",
       "onboard_time": 1689603453,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 367452,
+      "num": 367452,
+      "word": "Doinb有比赛打了",
+      "onboard_time": 1689755914,
+      "rank": 16,
       "category": "游戏"
     },
     {
@@ -24697,6 +24769,14 @@
       "onboard_time": 1689668133,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 344899,
+      "num": 344899,
+      "word": "成年后养的第一个孩子是自己",
+      "onboard_time": 1689754652,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 344617,
@@ -26755,6 +26835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312577,
+      "num": 298767,
+      "word": "现在还戴口罩的一半是社恐",
+      "onboard_time": 1689755914,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312467,
       "num": 282416,
       "word": "夏天男生穿搭都一个样",
@@ -27169,6 +27257,14 @@
       "onboard_time": 1689074616,
       "rank": 33,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 307529,
+      "num": 307529,
+      "word": "南京暴雨",
+      "onboard_time": 1689756813,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307362,
@@ -27792,6 +27888,14 @@
       "word": "敖子逸回应嘴硬",
       "onboard_time": 1689249390,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 298480,
+      "num": 298480,
+      "word": "易梦玲高颅顶盘发",
+      "onboard_time": 1689756632,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -31099,6 +31203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260662,
+      "num": 260662,
+      "word": "魏大勋七天涨粉67万多",
+      "onboard_time": 1689757354,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260658,
       "num": 255712,
       "word": "吉克隽逸素颜健身状态",
@@ -33707,14 +33819,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233997,
-      "num": 244359,
-      "word": "成年后养的第一个孩子是自己",
-      "onboard_time": 1689754652,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233966,
       "num": 233966,
       "word": "父母做过什么让你忽然寒心",
@@ -34449,6 +34553,14 @@
       "onboard_time": 1688286872,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 225895,
+      "num": 206226,
+      "word": "孟宴臣表演细节是魏大勋设计的",
+      "onboard_time": 1689756994,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 225834,
@@ -35497,6 +35609,14 @@
       "onboard_time": 1689218854,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216663,
+      "num": 204479,
+      "word": "我的人间烟火工作人员谈魏大勋爆火",
+      "onboard_time": 1689757772,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 216662,
@@ -36625,6 +36745,14 @@
       "onboard_time": 1688954070,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207764,
+      "num": 207764,
+      "word": "记忆中的西红柿就长这样",
+      "onboard_time": 1689756214,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 207687,
@@ -42043,14 +42171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152781,
-      "num": 211414,
-      "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
-      "onboard_time": 1689755614,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 152244,
       "num": 152244,
       "word": "当大学生找学习搭子遇见小学生",
@@ -44939,12 +45059,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 54116,
+      "num": 211403,
+      "word": "米哈游还我停云",
+      "onboard_time": 1689755614,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54022,
       "num": 2206723,
       "word": "2023中国网络文明大会",
       "onboard_time": 1689575790,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 53423,
+      "num": 203368,
+      "word": "45岁退伍老兵低代码大赛获第一",
+      "onboard_time": 1689757230,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52935,
@@ -45459,6 +45595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 29697,
+      "num": 199527,
+      "word": "星穹铁道饮月",
+      "onboard_time": 1689758071,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 29562,
       "num": 36081,
       "word": "太爱又美又飒的事业批了",
@@ -45649,14 +45793,6 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 13533,
-      "num": 211403,
-      "word": "米哈游还我停云",
-      "onboard_time": 1689755614,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 11854,

@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689755657827,
+  "endTime": 1689758215645,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2149698,
+      "num": 2149698,
+      "word": "小钰道歉",
+      "onboard_time": 1689753512,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2024991,
       "num": 2024991,
       "word": "何欢出车祸",
@@ -89,14 +97,6 @@
       "onboard_time": 1689741996,
       "rank": 0,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 1421043,
-      "num": 1421043,
-      "word": "小钰道歉",
-      "onboard_time": 1689753512,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1275935,
@@ -179,6 +179,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 994853,
+      "num": 620498,
+      "word": "羊 讨厌一些没有边界感的狼",
+      "onboard_time": 1689753031,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 979318,
       "num": 979318,
       "word": "翟潇闻 桑延",
@@ -209,6 +217,14 @@
       "onboard_time": 1689685297,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 929155,
+      "num": 304702,
+      "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
+      "onboard_time": 1689755614,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 918993,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764705,
+      "num": 764705,
+      "word": "怀疑杨洋捡到了张颂文的错题本",
+      "onboard_time": 1689755972,
+      "rank": 4,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 737118,
       "num": 737118,
       "word": "奶奶催孙女结婚被反问后沉默了",
@@ -395,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 620498,
-      "num": 620498,
-      "word": "羊 讨厌一些没有边界感的狼",
-      "onboard_time": 1689753031,
-      "rank": 12,
-      "category": "幽默,情感"
+      "raw_hot": 610014,
+      "num": 610014,
+      "word": "树上掉知了一晚上能捡2000元",
+      "onboard_time": 1689755672,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593471,
@@ -467,12 +491,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 530205,
+      "num": 279843,
+      "word": "dirty talk",
+      "onboard_time": 1689757293,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529669,
       "num": 529669,
       "word": "韩国网友让宋雨琦回国",
       "onboard_time": 1689669993,
       "rank": 8,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 522243,
+      "num": 522243,
+      "word": "王一博学跳惊鸿舞",
+      "onboard_time": 1689757354,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 520155,
@@ -489,6 +529,14 @@
       "onboard_time": 1689740976,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 507714,
+      "num": 507714,
+      "word": "李木戈谈选角没提魏大勋",
+      "onboard_time": 1689756395,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 505537,
@@ -512,6 +560,14 @@
       "word": "奥本海默",
       "onboard_time": 1689735988,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 501431,
+      "num": 501431,
+      "word": "黄渤一个头像宣传三部电影",
+      "onboard_time": 1689754111,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -611,14 +667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462289,
-      "num": 462289,
-      "word": "黄渤一个头像宣传三部电影",
-      "onboard_time": 1689754111,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 456259,
       "num": 368885,
       "word": "结帐时发现买到贵货怎么办",
@@ -641,6 +689,14 @@
       "onboard_time": 1689740434,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437402,
+      "num": 437402,
+      "word": "古偶大婚必大虐",
+      "onboard_time": 1689757592,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 433804,
@@ -771,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385085,
+      "num": 301292,
+      "word": "买西瓜时听到的母子对话",
+      "onboard_time": 1689758013,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 383317,
       "num": 383317,
       "word": "李木戈你是不是当成两部剧拍的",
@@ -811,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367452,
+      "num": 367452,
+      "word": "Doinb有比赛打了",
+      "onboard_time": 1689755914,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 358231,
       "num": 415230,
       "word": "男子将妻子割喉被判1年6个月",
@@ -833,6 +905,14 @@
       "onboard_time": 1689754592,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 344899,
+      "num": 344899,
+      "word": "成年后养的第一个孩子是自己",
+      "onboard_time": 1689754652,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 343020,
@@ -883,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312577,
+      "num": 298767,
+      "word": "现在还戴口罩的一半是社恐",
+      "onboard_time": 1689755914,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312464,
       "num": 290777,
       "word": "原来满地找牙是真的",
@@ -896,6 +984,14 @@
       "word": "我们的panda",
       "onboard_time": 1689753573,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307529,
+      "num": 307529,
+      "word": "南京暴雨",
+      "onboard_time": 1689756813,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -913,6 +1009,14 @@
       "onboard_time": 1689752374,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 298480,
+      "num": 298480,
+      "word": "易梦玲高颅顶盘发",
+      "onboard_time": 1689756632,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 297746,
@@ -1019,6 +1123,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 260662,
+      "num": 260662,
+      "word": "魏大勋七天涨粉67万多",
+      "onboard_time": 1689757354,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258776,
       "num": 415004,
       "word": "男朋友睡着女生会偷偷做什么",
@@ -1123,12 +1235,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233997,
-      "num": 244359,
-      "word": "成年后养的第一个孩子是自己",
-      "onboard_time": 1689754652,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 225895,
+      "num": 206226,
+      "word": "孟宴臣表演细节是魏大勋设计的",
+      "onboard_time": 1689756994,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216663,
+      "num": 204479,
+      "word": "我的人间烟火工作人员谈魏大勋爆火",
+      "onboard_time": 1689757772,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 216336,
@@ -1161,6 +1281,14 @@
       "onboard_time": 1689746970,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207764,
+      "num": 207764,
+      "word": "记忆中的西红柿就长这样",
+      "onboard_time": 1689756214,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 207386,
@@ -1337,14 +1465,6 @@
       "onboard_time": 1689689796,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 152781,
-      "num": 211414,
-      "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
-      "onboard_time": 1689755614,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 150296,
@@ -1539,6 +1659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54116,
+      "num": 211403,
+      "word": "米哈游还我停云",
+      "onboard_time": 1689755614,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 53423,
+      "num": 203368,
+      "word": "45岁退伍老兵低代码大赛获第一",
+      "onboard_time": 1689757230,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53383,
       "num": 96582,
       "word": "差点以为我的人间烟火结局了",
@@ -1571,11 +1707,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13533,
-      "num": 211403,
-      "word": "米哈游还我停云",
-      "onboard_time": 1689755614,
-      "rank": 49,
+      "raw_hot": 29697,
+      "num": 199527,
+      "word": "星穹铁道饮月",
+      "onboard_time": 1689758071,
+      "rank": 44,
       "category": "游戏"
     },
     {
