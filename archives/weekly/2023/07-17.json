@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689754872907,
+  "endTime": 1689755657827,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1421043,
+      "num": 1421043,
+      "word": "小钰道歉",
+      "onboard_time": 1689753512,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1411595,
       "num": 1411595,
       "word": "恒大集团负债总额2.58万亿",
@@ -523,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1275935,
+      "num": 1275935,
+      "word": "李木戈回应选杨洋王楚然",
+      "onboard_time": 1689751353,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1255870,
       "num": 1255870,
       "word": "玖月晞破防的原因",
@@ -579,14 +595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1194803,
-      "num": 1194803,
-      "word": "小钰道歉",
-      "onboard_time": 1689753512,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1193098,
       "num": 1193098,
       "word": "优酷爱奇艺都来了",
@@ -609,14 +617,6 @@
       "onboard_time": 1689737612,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1187385,
-      "num": 1187385,
-      "word": "李木戈回应选杨洋王楚然",
-      "onboard_time": 1689751353,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1183554,
@@ -657,6 +657,14 @@
       "onboard_time": 1689564570,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1131936,
+      "num": 1131936,
+      "word": "TFBOYS演唱会开票时间",
+      "onboard_time": 1689752192,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1128627,
@@ -857,14 +865,6 @@
       "onboard_time": 1689677195,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 968390,
-      "num": 968390,
-      "word": "TFBOYS演唱会开票时间",
-      "onboard_time": 1689752192,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 966844,
@@ -1731,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 620498,
+      "num": 620498,
+      "word": "羊 讨厌一些没有边界感的狼",
+      "onboard_time": 1689753031,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 616426,
       "num": 284032,
       "word": "EXO专访",
@@ -2019,6 +2027,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 553984,
+      "num": 553984,
+      "word": "上海警方抓获假靳东团伙8人",
+      "onboard_time": 1689753392,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 553956,
       "num": 553956,
       "word": "15岁少女被困缅甸受虐痛哭求救",
@@ -2129,14 +2145,6 @@
       "onboard_time": 1689541752,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521630,
-      "num": 521630,
-      "word": "上海警方抓获假靳东团伙8人",
-      "onboard_time": 1689753392,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 521609,
@@ -2299,6 +2307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495939,
+      "num": 341680,
+      "word": "吃了半个月轻食一斤没瘦",
+      "onboard_time": 1689754174,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 495096,
       "num": 361141,
       "word": "内娱不能塌房的明星",
@@ -2353,14 +2369,6 @@
       "onboard_time": 1689600394,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 485033,
-      "num": 485033,
-      "word": "羊 讨厌一些没有边界感的狼",
-      "onboard_time": 1689753031,
-      "rank": 12,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 483050,
@@ -2505,6 +2513,14 @@
       "onboard_time": 1689569314,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 462289,
+      "num": 462289,
+      "word": "黄渤一个头像宣传三部电影",
+      "onboard_time": 1689754111,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 462033,
@@ -3051,14 +3067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382940,
-      "num": 341680,
-      "word": "吃了半个月轻食一斤没瘦",
-      "onboard_time": 1689754174,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
@@ -3144,14 +3152,6 @@
       "word": "芭比",
       "onboard_time": 1689729211,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 368963,
-      "num": 368963,
-      "word": "黄渤一个头像宣传三部电影",
-      "onboard_time": 1689754111,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -3372,7 +3372,7 @@
     },
     {
       "raw_hot": 350363,
-      "num": 245897,
+      "num": 252667,
       "word": "帮送丢垃圾",
       "onboard_time": 1689754415,
       "rank": 30,
@@ -3393,6 +3393,14 @@
       "onboard_time": 1689654875,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346610,
+      "num": 346610,
+      "word": "马嘉祺好敢说",
+      "onboard_time": 1689754592,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 345228,
@@ -3691,12 +3699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312464,
+      "num": 290777,
+      "word": "原来满地找牙是真的",
+      "onboard_time": 1689755191,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311471,
       "num": 303299,
       "word": "第一次听到这么可爱的粤语",
       "onboard_time": 1689689855,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310919,
+      "num": 310919,
+      "word": "我们的panda",
+      "onboard_time": 1689753573,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309878,
@@ -4043,14 +4067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280333,
-      "num": 280333,
-      "word": "我们的panda",
-      "onboard_time": 1689753573,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279289,
       "num": 279289,
       "word": "看表演记得要鼓掌",
@@ -4243,6 +4259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261986,
+      "num": 261986,
+      "word": "跟老板有六百多个微信群",
+      "onboard_time": 1689752852,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261217,
       "num": 215416,
       "word": "14天全身塑形",
@@ -4281,14 +4305,6 @@
       "onboard_time": 1689570930,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256960,
-      "num": 256960,
-      "word": "跟老板有六百多个微信群",
-      "onboard_time": 1689752852,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 256944,
@@ -4649,6 +4665,14 @@
       "onboard_time": 1689680971,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233997,
+      "num": 244359,
+      "word": "成年后养的第一个孩子是自己",
+      "onboard_time": 1689754652,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 233705,
@@ -5307,14 +5331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195015,
-      "num": 244365,
-      "word": "马嘉祺好敢说",
-      "onboard_time": 1689754592,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 194801,
       "num": 194801,
       "word": "瓦尔加斯",
@@ -5385,14 +5401,6 @@
       "onboard_time": 1689522931,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190154,
-      "num": 244359,
-      "word": "成年后养的第一个孩子是自己",
-      "onboard_time": 1689754652,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 189920,
@@ -5873,6 +5881,14 @@
       "onboard_time": 1689520716,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152781,
+      "num": 211414,
+      "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
+      "onboard_time": 1689755614,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 152420,
@@ -6505,6 +6521,14 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 13533,
+      "num": 211403,
+      "word": "米哈游还我停云",
+      "onboard_time": 1689755614,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

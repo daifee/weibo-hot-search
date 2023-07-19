@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689754872907,
+  "endTime": 1689755657827,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3971,6 +3971,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1421043,
+      "num": 1421043,
+      "word": "小钰道歉",
+      "onboard_time": 1689753512,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1419371,
       "num": 1419371,
       "word": "创造营2023 女团",
@@ -4635,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1275935,
+      "num": 1275935,
+      "word": "李木戈回应选杨洋王楚然",
+      "onboard_time": 1689751353,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1269150,
       "num": 822676,
       "word": "米米",
@@ -5083,14 +5099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1194803,
-      "num": 1194803,
-      "word": "小钰道歉",
-      "onboard_time": 1689753512,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1193098,
       "num": 1193098,
       "word": "优酷爱奇艺都来了",
@@ -5169,14 +5177,6 @@
       "onboard_time": 1688222138,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1187385,
-      "num": 1187385,
-      "word": "李木戈回应选杨洋王楚然",
-      "onboard_time": 1689751353,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1186013,
@@ -5601,6 +5601,14 @@
       "onboard_time": 1689344921,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1131936,
+      "num": 1131936,
+      "word": "TFBOYS演唱会开票时间",
+      "onboard_time": 1689752192,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1131631,
@@ -7097,14 +7105,6 @@
       "onboard_time": 1688717432,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 968390,
-      "num": 968390,
-      "word": "TFBOYS演唱会开票时间",
-      "onboard_time": 1689752192,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 968082,
@@ -13363,6 +13363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 620498,
+      "num": 620498,
+      "word": "羊 讨厌一些没有边界感的狼",
+      "onboard_time": 1689753031,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 619843,
       "num": 490241,
       "word": "宝妈买3斤干冰降温家中秒变仙境",
@@ -15179,6 +15187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553984,
+      "num": 553984,
+      "word": "上海警方抓获假靳东团伙8人",
+      "onboard_time": 1689753392,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 553956,
       "num": 553956,
       "word": "15岁少女被困缅甸受虐痛哭求救",
@@ -16203,14 +16219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 521630,
-      "num": 521630,
-      "word": "上海警方抓获假靳东团伙8人",
-      "onboard_time": 1689753392,
-      "rank": 10,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 521609,
       "num": 521609,
       "word": "粥底火锅",
@@ -17075,6 +17083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495939,
+      "num": 341680,
+      "word": "吃了半个月轻食一斤没瘦",
+      "onboard_time": 1689754174,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 495843,
       "num": 495843,
       "word": "嬛球影城",
@@ -17585,14 +17601,6 @@
       "onboard_time": 1688992113,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485033,
-      "num": 485033,
-      "word": "羊 讨厌一些没有边界感的狼",
-      "onboard_time": 1689753031,
-      "rank": 12,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 484995,
@@ -18481,6 +18489,14 @@
       "onboard_time": 1688788951,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462289,
+      "num": 462289,
+      "word": "黄渤一个头像宣传三部电影",
+      "onboard_time": 1689754111,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 462079,
@@ -22371,14 +22387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382940,
-      "num": 341680,
-      "word": "吃了半个月轻食一斤没瘦",
-      "onboard_time": 1689754174,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 382746,
       "num": 343092,
       "word": "王一博核心力量",
@@ -23233,14 +23241,6 @@
       "onboard_time": 1688438795,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 368963,
-      "num": 368963,
-      "word": "黄渤一个头像宣传三部电影",
-      "onboard_time": 1689754111,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 368664,
@@ -24364,7 +24364,7 @@
     },
     {
       "raw_hot": 350363,
-      "num": 245897,
+      "num": 252667,
       "word": "帮送丢垃圾",
       "onboard_time": 1689754415,
       "rank": 30,
@@ -24601,6 +24601,14 @@
       "onboard_time": 1688195373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346610,
+      "num": 346610,
+      "word": "马嘉祺好敢说",
+      "onboard_time": 1689754592,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 346254,
@@ -26755,6 +26763,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 312464,
+      "num": 290777,
+      "word": "原来满地找牙是真的",
+      "onboard_time": 1689755191,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312338,
       "num": 291109,
       "word": "曾少年是ceng还是zeng",
@@ -26825,6 +26841,14 @@
       "onboard_time": 1689466046,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310919,
+      "num": 310919,
+      "word": "我们的panda",
+      "onboard_time": 1689753573,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310778,
@@ -29395,14 +29419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280333,
-      "num": 280333,
-      "word": "我们的panda",
-      "onboard_time": 1689753573,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280328,
       "num": 280328,
       "word": "罗翔谈村民私造浮桥收费被判刑",
@@ -30931,6 +30947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261986,
+      "num": 261986,
+      "word": "跟老板有六百多个微信群",
+      "onboard_time": 1689752852,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261974,
       "num": 248981,
       "word": "长安三万里 将进酒",
@@ -31441,14 +31465,6 @@
       "onboard_time": 1688790274,
       "rank": 35,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 256960,
-      "num": 256960,
-      "word": "跟老板有六百多个微信群",
-      "onboard_time": 1689752852,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 256944,
@@ -33689,6 +33705,14 @@
       "onboard_time": 1689350796,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233997,
+      "num": 244359,
+      "word": "成年后养的第一个孩子是自己",
+      "onboard_time": 1689754652,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 233966,
@@ -38211,14 +38235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195015,
-      "num": 244365,
-      "word": "马嘉祺好敢说",
-      "onboard_time": 1689754592,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 194942,
       "num": 496490,
       "word": "时空中的绘旅人",
@@ -38865,14 +38881,6 @@
       "onboard_time": 1688290896,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 190154,
-      "num": 244359,
-      "word": "成年后养的第一个孩子是自己",
-      "onboard_time": 1689754652,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 190097,
@@ -42033,6 +42041,14 @@
       "onboard_time": 1689296732,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152781,
+      "num": 211414,
+      "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
+      "onboard_time": 1689755614,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 152244,
@@ -45633,6 +45649,14 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 13533,
+      "num": 211403,
+      "word": "米哈游还我停云",
+      "onboard_time": 1689755614,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 11854,

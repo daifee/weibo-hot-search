@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689754872907,
+  "endTime": 1689755657827,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -91,6 +91,22 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1421043,
+      "num": 1421043,
+      "word": "小钰道歉",
+      "onboard_time": 1689753512,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1275935,
+      "num": 1275935,
+      "word": "李木戈回应选杨洋王楚然",
+      "onboard_time": 1689751353,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1212102,
       "num": 1212102,
       "word": "我怀疑大麦根本就没有票",
@@ -105,14 +121,6 @@
       "onboard_time": 1689738873,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1194803,
-      "num": 1194803,
-      "word": "小钰道歉",
-      "onboard_time": 1689753512,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1191499,
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1187385,
-      "num": 1187385,
-      "word": "李木戈回应选杨洋王楚然",
-      "onboard_time": 1689751353,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1161594,
       "num": 1161594,
       "word": "公司1.2亿租楼300每月租给员工住",
@@ -153,6 +153,14 @@
       "onboard_time": 1689676949,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1131936,
+      "num": 1131936,
+      "word": "TFBOYS演唱会开票时间",
+      "onboard_time": 1689752192,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1117630,
@@ -185,14 +193,6 @@
       "onboard_time": 1689740012,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 968390,
-      "num": 968390,
-      "word": "TFBOYS演唱会开票时间",
-      "onboard_time": 1689752192,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 959405,
@@ -395,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 620498,
+      "num": 620498,
+      "word": "羊 讨厌一些没有边界感的狼",
+      "onboard_time": 1689753031,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 593471,
       "num": 593471,
       "word": "广州每走一步就有一个蔡文姬",
@@ -451,19 +459,19 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 553984,
+      "num": 553984,
+      "word": "上海警方抓获假靳东团伙8人",
+      "onboard_time": 1689753392,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 529669,
       "num": 529669,
       "word": "韩国网友让宋雨琦回国",
       "onboard_time": 1689669993,
       "rank": 8,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 521630,
-      "num": 521630,
-      "word": "上海警方抓获假靳东团伙8人",
-      "onboard_time": 1689753392,
-      "rank": 10,
       "category": "社会新闻,艺人"
     },
     {
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495939,
+      "num": 341680,
+      "word": "吃了半个月轻食一斤没瘦",
+      "onboard_time": 1689754174,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 492951,
       "num": 416724,
       "word": "开10天的空调要了325块钱",
@@ -537,14 +553,6 @@
       "onboard_time": 1689752374,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 485033,
-      "num": 485033,
-      "word": "羊 讨厌一些没有边界感的狼",
-      "onboard_time": 1689753031,
-      "rank": 12,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 483050,
@@ -601,6 +609,14 @@
       "onboard_time": 1689736111,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 462289,
+      "num": 462289,
+      "word": "黄渤一个头像宣传三部电影",
+      "onboard_time": 1689754111,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 456259,
@@ -763,14 +779,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 382940,
-      "num": 341680,
-      "word": "吃了半个月轻食一斤没瘦",
-      "onboard_time": 1689754174,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 380587,
       "num": 414555,
       "word": "音乐节一元瓶装水分杯卖十元违法吗",
@@ -803,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368963,
-      "num": 368963,
-      "word": "黄渤一个头像宣传三部电影",
-      "onboard_time": 1689754111,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 358231,
       "num": 415230,
       "word": "男子将妻子割喉被判1年6个月",
@@ -820,11 +820,19 @@
     },
     {
       "raw_hot": 350363,
-      "num": 245897,
+      "num": 252667,
       "word": "帮送丢垃圾",
       "onboard_time": 1689754415,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346610,
+      "num": 346610,
+      "word": "马嘉祺好敢说",
+      "onboard_time": 1689754592,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 343020,
@@ -873,6 +881,22 @@
       "onboard_time": 1689747929,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312464,
+      "num": 290777,
+      "word": "原来满地找牙是真的",
+      "onboard_time": 1689755191,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 310919,
+      "num": 310919,
+      "word": "我们的panda",
+      "onboard_time": 1689753573,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307343,
@@ -963,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280333,
-      "num": 280333,
-      "word": "我们的panda",
-      "onboard_time": 1689753573,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274466,
       "num": 274466,
       "word": "警方通报75岁男子按摩店内死亡",
@@ -987,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261986,
+      "num": 261986,
+      "word": "跟老板有六百多个微信群",
+      "onboard_time": 1689752852,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261217,
       "num": 215416,
       "word": "14天全身塑形",
@@ -1000,14 +1024,6 @@
       "word": "男朋友睡着女生会偷偷做什么",
       "onboard_time": 1689724889,
       "rank": 29,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 256960,
-      "num": 256960,
-      "word": "跟老板有六百多个微信群",
-      "onboard_time": 1689752852,
-      "rank": 27,
       "category": "幽默"
     },
     {
@@ -1107,6 +1123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233997,
+      "num": 244359,
+      "word": "成年后养的第一个孩子是自己",
+      "onboard_time": 1689754652,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216336,
       "num": 216336,
       "word": "王者荣耀",
@@ -1179,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195015,
-      "num": 244365,
-      "word": "马嘉祺好敢说",
-      "onboard_time": 1689754592,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 193187,
       "num": 235158,
       "word": "潜水照丑到不敢发朋友圈",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1689733771,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190154,
-      "num": 244359,
-      "word": "成年后养的第一个孩子是自己",
-      "onboard_time": 1689754652,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 189920,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1689689796,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 152781,
+      "num": 211414,
+      "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
+      "onboard_time": 1689755614,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 150296,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1689706816,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13533,
+      "num": 211403,
+      "word": "米哈游还我停云",
+      "onboard_time": 1689755614,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 5868,
