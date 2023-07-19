@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689761926655,
+  "endTime": 1689762926982,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -75,20 +75,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1936518,
+      "num": 568940,
+      "word": "魏大勋七天涨粉67万多",
+      "onboard_time": 1689757354,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1921099,
       "num": 1921099,
       "word": "研究称最后一个孩出生越晚妈妈寿命越长",
       "onboard_time": 1689749070,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1694041,
-      "num": 568940,
-      "word": "魏大勋七天涨粉67万多",
-      "onboard_time": 1689757354,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 1683580,
@@ -105,6 +105,14 @@
       "onboard_time": 1689741996,
       "rank": 0,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1443978,
+      "num": 716149,
+      "word": "英子骂得好超前",
+      "onboard_time": 1689760653,
+      "rank": 11,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 1275935,
@@ -203,20 +211,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1016430,
+      "num": 1016430,
+      "word": "刘雯井柏然相拥大片",
+      "onboard_time": 1689760413,
+      "rank": 5,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 994853,
       "num": 620498,
       "word": "羊 讨厌一些没有边界感的狼",
       "onboard_time": 1689753031,
       "rank": 12,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 986608,
-      "num": 555886,
-      "word": "英子骂得好超前",
-      "onboard_time": 1689760653,
-      "rank": 11,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 979318,
@@ -233,14 +241,6 @@
       "onboard_time": 1689740012,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 964845,
-      "num": 964845,
-      "word": "刘雯井柏然相拥大片",
-      "onboard_time": 1689760413,
-      "rank": 5,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 959405,
@@ -281,6 +281,14 @@
       "onboard_time": 1689733291,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905510,
+      "num": 905510,
+      "word": "陈芋汐女子10米跳台夺金",
+      "onboard_time": 1689761554,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 899196,
@@ -337,6 +345,14 @@
       "onboard_time": 1689740136,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 830693,
+      "num": 830693,
+      "word": "陈芋汐全红婵又包揽冠亚军了",
+      "onboard_time": 1689762031,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 829973,
@@ -459,8 +475,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 611632,
-      "num": 611632,
+      "raw_hot": 615555,
+      "num": 615555,
       "word": "李木戈谈选角没提魏大勋",
       "onboard_time": 1689756395,
       "rank": 11,
@@ -531,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557298,
+      "num": 1200996,
+      "word": "山东一女子放弃编制随父从军",
+      "onboard_time": 1689760353,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555756,
       "num": 555756,
       "word": "3608名回流生参加西安中考为何引众怒",
@@ -552,14 +576,6 @@
       "word": "跳水",
       "onboard_time": 1689760353,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 546009,
-      "num": 546009,
-      "word": "陈芋汐女子10米跳台夺金",
-      "onboard_time": 1689761554,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -675,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475736,
-      "num": 1200996,
-      "word": "山东一女子放弃编制随父从军",
-      "onboard_time": 1689760353,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473617,
       "num": 415158,
       "word": "现在再看杨洋王楚然李木戈翻答案之书",
@@ -755,8 +763,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 443599,
-      "num": 443599,
+      "raw_hot": 446720,
+      "num": 446720,
       "word": "朴山多拉因为权志龙被社长收走手机",
       "onboard_time": 1689759031,
       "rank": 44,
@@ -873,6 +881,14 @@
       "onboard_time": 1689745353,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398299,
+      "num": 398299,
+      "word": "魏大勋101舞台",
+      "onboard_time": 1689761431,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 397911,
@@ -1059,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333396,
+      "num": 333396,
+      "word": "成年母猫是懂体态管理的",
+      "onboard_time": 1689762151,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 325991,
       "num": 325991,
       "word": "李荣浩青岛演唱会抢票",
@@ -1099,20 +1123,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 307891,
+      "num": 307891,
+      "word": "王楚然孟子义有一个小团体",
+      "onboard_time": 1689761071,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307343,
       "num": 414833,
       "word": "浙江高考",
       "onboard_time": 1689738632,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 299573,
-      "num": 299573,
-      "word": "王楚然孟子义有一个小团体",
-      "onboard_time": 1689761071,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 298592,
@@ -1161,14 +1185,6 @@
       "onboard_time": 1689733410,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 291153,
-      "num": 291153,
-      "word": "魏大勋101舞台",
-      "onboard_time": 1689761431,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 290194,
@@ -1339,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244662,
+      "num": 244662,
+      "word": "上海年轻人为啥都开始上夜校了",
+      "onboard_time": 1689761852,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 244391,
       "num": 244391,
       "word": "刘涛刘宇宁新浪扫楼",
@@ -1443,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208031,
+      "num": 208031,
+      "word": "全红婵又跳出满分了",
+      "onboard_time": 1689762212,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207764,
       "num": 207764,
       "word": "记忆中的西红柿就长这样",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1689729451,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198877,
+      "num": 198877,
+      "word": "张踩铃替我说出了结婚的意义",
+      "onboard_time": 1689762631,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 193187,
@@ -1611,14 +1651,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 161127,
-      "num": 202774,
-      "word": "上海年轻人为啥都开始上夜校了",
-      "onboard_time": 1689761852,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 159702,
       "num": 159702,
       "word": "孟宴臣角色号发的照片",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1689685594,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136305,
+      "num": 891142,
+      "word": "在飞机上偶遇了一场音乐会",
+      "onboard_time": 1689761794,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 133703,
@@ -1849,14 +1889,6 @@
       "onboard_time": 1689734610,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65510,
-      "num": 413749,
-      "word": "在飞机上偶遇了一场音乐会",
-      "onboard_time": 1689761794,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 54116,
