@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689741461500,
+  "endTime": 1689743782824,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3334222,
-      "num": 620926,
+      "num": 658605,
       "word": "产后会阴裂伤真的像那个芒果吗",
       "onboard_time": 1689730112,
       "rank": 10,
@@ -41,6 +41,22 @@
       "onboard_time": 1689692071,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1683580,
+      "num": 631800,
+      "word": "杨威否认与杨云离婚",
+      "onboard_time": 1689740856,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1410905,
+      "num": 1410905,
+      "word": "辣条在韩国火了",
+      "onboard_time": 1689741996,
+      "rank": 0,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1212102,
@@ -107,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 970724,
+      "num": 970724,
+      "word": "真正通便的食物是这14种",
+      "onboard_time": 1689740012,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 934205,
       "num": 506339,
       "word": "何超莲说婚后没和窦骁见过面",
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 918993,
-      "num": 423802,
+      "num": 424373,
       "word": "38岁女子误将先兆流产当经期排出",
       "onboard_time": 1689733291,
       "rank": 20,
@@ -148,11 +172,27 @@
     },
     {
       "raw_hot": 850960,
-      "num": 425801,
+      "num": 432309,
       "word": "室友六天赚了一千四百多",
       "onboard_time": 1689726633,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 845705,
+      "num": 751446,
+      "word": "调查显示女性结婚意愿比男性更低",
+      "onboard_time": 1689739594,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844744,
+      "num": 844744,
+      "word": "李飞你不官宣是有什么顾虑吗",
+      "onboard_time": 1689740136,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 829973,
@@ -179,19 +219,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 797925,
+      "num": 797925,
+      "word": "我的人间烟火 灭火器",
+      "onboard_time": 1689740736,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 794764,
       "num": 431648,
       "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
       "onboard_time": 1689666812,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751446,
-      "num": 751446,
-      "word": "调查显示女性结婚意愿比男性更低",
-      "onboard_time": 1689739594,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -211,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 668453,
+      "num": 560288,
+      "word": "宋焰许沁去吃饭只点一个菜",
+      "onboard_time": 1689741159,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 664401,
       "num": 664401,
       "word": "纠正骨盆后倾才是翘臀必杀技",
@@ -219,28 +267,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 657089,
-      "num": 597798,
-      "word": "真正通便的食物是这14种",
-      "onboard_time": 1689740012,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 623132,
-      "num": 623132,
-      "word": "李飞你不官宣是有什么顾虑吗",
-      "onboard_time": 1689740136,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 593471,
       "num": 593471,
       "word": "广州每走一步就有一个蔡文姬",
       "onboard_time": 1689734670,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 585288,
+      "num": 585288,
+      "word": "白敬亭向涵之 仙台有树",
+      "onboard_time": 1689743195,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 576826,
@@ -291,6 +331,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 508879,
+      "num": 428900,
+      "word": "喝奶茶最讨厌的小料是什么",
+      "onboard_time": 1689740976,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 505537,
       "num": 505537,
       "word": "福宝真是从小可爱到大",
@@ -299,20 +347,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 505510,
-      "num": 294004,
-      "word": "杨威否认与杨云离婚",
-      "onboard_time": 1689740856,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 502938,
       "num": 414297,
       "word": "被喜欢的学科背刺是啥体验",
       "onboard_time": 1689735930,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 502281,
+      "num": 502281,
+      "word": "上海迪士尼 BilibiliWorld",
+      "onboard_time": 1689742358,
+      "rank": 15,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 501900,
@@ -347,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472371,
+      "num": 472371,
+      "word": "如果那英来演许沁",
+      "onboard_time": 1689741578,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465660,
       "num": 415565,
       "word": "看到谢允救时影",
@@ -369,14 +425,6 @@
       "onboard_time": 1689736111,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 457844,
-      "num": 457844,
-      "word": "我的人间烟火 灭火器",
-      "onboard_time": 1689740736,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 456259,
@@ -427,12 +475,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 406800,
-      "num": 406800,
-      "word": "喝奶茶最讨厌的小料是什么",
-      "onboard_time": 1689740976,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 417563,
+      "num": 417563,
+      "word": "电影白蛇浮生官宣",
+      "onboard_time": 1689741336,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 410249,
+      "num": 310114,
+      "word": "二十岁和三十岁的亲密关系",
+      "onboard_time": 1689741874,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 405356,
@@ -555,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 310499,
+      "num": 310499,
+      "word": "唐尚珺高考志愿被退档",
+      "onboard_time": 1689742837,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 307343,
       "num": 414833,
       "word": "浙江高考",
@@ -667,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250936,
+      "num": 285392,
+      "word": "怦然心动20岁",
+      "onboard_time": 1689742477,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250806,
       "num": 369087,
       "word": "考生中考分数大跌怀疑成绩被偷",
@@ -683,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241023,
-      "num": 241023,
-      "word": "宋焰许沁去吃饭只点一个菜",
-      "onboard_time": 1689741159,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 243139,
+      "num": 284880,
+      "word": "30岁没结婚但过得快乐也是一种成功",
+      "onboard_time": 1689742536,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 240570,
@@ -713,6 +785,14 @@
       "onboard_time": 1689692798,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214480,
+      "num": 281899,
+      "word": "为什么经常收不到微信消息",
+      "onboard_time": 1689743255,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 212629,
@@ -761,6 +841,22 @@
       "onboard_time": 1689733771,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191065,
+      "num": 279856,
+      "word": "风月变",
+      "onboard_time": 1689743255,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189920,
+      "num": 279611,
+      "word": "中华体育精神颂",
+      "onboard_time": 1689743375,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 189341,
@@ -819,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172223,
+      "num": 277730,
+      "word": "关于我爸去找工作面试的情况",
+      "onboard_time": 1689742894,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 169060,
       "num": 414586,
       "word": "这就是e人i人小时候吧",
@@ -840,14 +944,6 @@
       "word": "孟宴臣角色号发的照片",
       "onboard_time": 1689714493,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 158324,
-      "num": 233774,
-      "word": "电影白蛇浮生官宣",
-      "onboard_time": 1689741336,
-      "rank": 47,
       "category": "影视"
     },
     {
