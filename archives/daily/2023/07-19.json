@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689735050964,
+  "endTime": 1689736287490,
   "band_list": [
     {
       "raw_hot": 3334222,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2299833,
+      "num": 2299833,
+      "word": "周杰伦演唱会2张连座票黄牛叫价15万",
+      "onboard_time": 1689731193,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2024991,
       "num": 2024991,
       "word": "何欢出车祸",
@@ -27,12 +35,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1882580,
-      "num": 1882580,
-      "word": "周杰伦演唱会2张连座票黄牛叫价15万",
-      "onboard_time": 1689731193,
-      "rank": 0,
-      "category": "音乐"
+      "raw_hot": 1336911,
+      "num": 1336911,
+      "word": "人民文娱评我的人间烟火",
+      "onboard_time": 1689734428,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1212102,
@@ -99,6 +107,38 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 875008,
+      "num": 875008,
+      "word": "金泰亨 卡地亚",
+      "onboard_time": 1689733829,
+      "rank": 6,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 855821,
+      "num": 855821,
+      "word": "朱一龙钢琴弹唱版笼",
+      "onboard_time": 1689735689,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 835883,
+      "num": 368929,
+      "word": "室友六天赚了一千四百多",
+      "onboard_time": 1689726633,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 829973,
+      "num": 797983,
+      "word": "宋焰这是在PUA孟宴臣吧",
+      "onboard_time": 1689731250,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 824468,
       "num": 824468,
       "word": "空调使用3到5小时后要开窗通风",
@@ -115,36 +155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 797983,
-      "num": 797983,
-      "word": "宋焰这是在PUA孟宴臣吧",
-      "onboard_time": 1689731250,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 794764,
       "num": 431648,
       "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
       "onboard_time": 1689666812,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 780524,
-      "num": 368929,
-      "word": "室友六天赚了一千四百多",
-      "onboard_time": 1689726633,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 680077,
-      "num": 680077,
-      "word": "金泰亨 卡地亚",
-      "onboard_time": 1689733829,
-      "rank": 6,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 668881,
@@ -171,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532752,
+      "num": 374578,
+      "word": "广州每走一步就有一个蔡文姬",
+      "onboard_time": 1689734670,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529669,
       "num": 529669,
       "word": "韩国网友让宋雨琦回国",
       "onboard_time": 1689669993,
       "rank": 8,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 502938,
+      "num": 251819,
+      "word": "被喜欢的学科背刺是啥体验",
+      "onboard_time": 1689735930,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 473617,
@@ -187,12 +219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465660,
+      "num": 370409,
+      "word": "看到谢允救时影",
+      "onboard_time": 1689733110,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465630,
       "num": 270908,
       "word": "9岁女生胃里取出1斤多头发",
       "onboard_time": 1689677159,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465617,
+      "num": 251815,
+      "word": "原来强者是不分场合的",
+      "onboard_time": 1689736111,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 456259,
@@ -232,14 +280,6 @@
       "word": "肖战黑伞狙击",
       "onboard_time": 1689699862,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 419912,
-      "num": 372465,
-      "word": "人民文娱评我的人间烟火",
-      "onboard_time": 1689734428,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -283,14 +323,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 388480,
-      "num": 370409,
-      "word": "看到谢允救时影",
-      "onboard_time": 1689733110,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 386185,
       "num": 386185,
       "word": "三十而已2官宣启动",
@@ -315,6 +347,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 379777,
+      "num": 368221,
+      "word": "纠正骨盆后倾才是翘臀必杀技",
+      "onboard_time": 1689733291,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 369295,
       "num": 369295,
       "word": "芭比",
@@ -323,20 +363,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368775,
+      "num": 369204,
+      "word": "爆料食堂吃出异物学生再发声",
+      "onboard_time": 1689734551,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 358231,
       "num": 367679,
       "word": "男子将妻子割喉被判1年6个月",
       "onboard_time": 1689686499,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353359,
-      "num": 374578,
-      "word": "广州每走一步就有一个蔡文姬",
-      "onboard_time": 1689734670,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 341010,
@@ -377,14 +417,6 @@
       "onboard_time": 1689726395,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 295321,
-      "num": 368221,
-      "word": "纠正骨盆后倾才是翘臀必杀技",
-      "onboard_time": 1689733291,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 288337,
@@ -467,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253590,
+      "num": 253590,
+      "word": "奥本海默",
+      "onboard_time": 1689735988,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250806,
       "num": 369087,
       "word": "考生中考分数大跌怀疑成绩被偷",
@@ -499,12 +539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224427,
-      "num": 369204,
-      "word": "爆料食堂吃出异物学生再发声",
-      "onboard_time": 1689734551,
-      "rank": 18,
-      "category": "社会新闻,教育"
+      "raw_hot": 222787,
+      "num": 368403,
+      "word": "男朋友睡着女生会偷偷做什么",
+      "onboard_time": 1689724889,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 216336,
@@ -523,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210575,
-      "num": 368403,
-      "word": "男朋友睡着女生会偷偷做什么",
-      "onboard_time": 1689724889,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207386,
       "num": 207386,
       "word": "刘诗诗什么时候演梦华录了",
@@ -545,6 +577,14 @@
       "onboard_time": 1689669873,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200924,
+      "num": 367889,
+      "word": "关晓彤当着范丞丞面再提个人战",
+      "onboard_time": 1689729451,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 192741,
@@ -593,14 +633,6 @@
       "onboard_time": 1689670535,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176361,
-      "num": 367889,
-      "word": "关晓彤当着范丞丞面再提个人战",
-      "onboard_time": 1689729451,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 168303,
@@ -699,7 +731,7 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 126139,
+      "raw_hot": 128911,
       "num": 367053,
       "word": "丈母娘寄果蔬打开已被捂坏妻子掉眼泪",
       "onboard_time": 1689723086,
@@ -713,6 +745,14 @@
       "onboard_time": 1689675393,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125220,
+      "num": 251755,
+      "word": "拥抱是最棒的充电方式",
+      "onboard_time": 1689736172,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 120454,
@@ -803,6 +843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55909,
+      "num": 1230425,
+      "word": "生态保护硬核成绩单",
+      "onboard_time": 1689734610,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53383,
       "num": 96582,
       "word": "差点以为我的人间烟火结局了",
@@ -833,14 +881,6 @@
       "onboard_time": 1689706816,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31569,
-      "num": 1230425,
-      "word": "生态保护硬核成绩单",
-      "onboard_time": 1689734610,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5868,
