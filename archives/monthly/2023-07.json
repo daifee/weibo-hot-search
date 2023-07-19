@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689784688661,
+  "endTime": 1689786926365,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5441,6 +5441,14 @@
       "onboard_time": 1688477257,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1165532,
+      "num": 1165532,
+      "word": "罗森",
+      "onboard_time": 1689784410,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1165079,
@@ -16507,6 +16515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 527597,
+      "num": 527597,
+      "word": "美总统候选人称美正收集中国人DNA",
+      "onboard_time": 1689780934,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 527570,
       "num": 527570,
       "word": "大奉打更人",
@@ -18689,14 +18705,6 @@
       "onboard_time": 1689091590,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469479,
-      "num": 469479,
-      "word": "美总统候选人称美正收集中国人DNA",
-      "onboard_time": 1689780934,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 469464,
@@ -21041,14 +21049,6 @@
       "onboard_time": 1688639854,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 421734,
-      "num": 518675,
-      "word": "罗森",
-      "onboard_time": 1689784410,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421704,
@@ -36659,6 +36659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214894,
+      "num": 173845,
+      "word": "广州大学 分数线",
+      "onboard_time": 1689785846,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214742,
       "num": 214742,
       "word": "吉克隽逸镶钻半遮面头纱",
@@ -40977,6 +40985,14 @@
       "onboard_time": 1689515675,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178635,
+      "num": 178635,
+      "word": "玉骨遥单集时长",
+      "onboard_time": 1689785186,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 178528,

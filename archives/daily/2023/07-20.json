@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689784688661,
+  "endTime": 1689786926365,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -25,6 +25,14 @@
       "onboard_time": 1689777638,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1165532,
+      "num": 1165532,
+      "word": "罗森",
+      "onboard_time": 1689784410,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1129706,
@@ -91,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 527597,
+      "num": 527597,
+      "word": "美总统候选人称美正收集中国人DNA",
+      "onboard_time": 1689780934,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 526237,
       "num": 530754,
       "word": "韩国整容中心门口的鼻子墙",
@@ -113,14 +129,6 @@
       "onboard_time": 1689775539,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 469479,
-      "num": 469479,
-      "word": "美总统候选人称美正收集中国人DNA",
-      "onboard_time": 1689780934,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 469121,
@@ -152,14 +160,6 @@
       "word": "记者解剖鸭头剥出巩膜",
       "onboard_time": 1689781712,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421734,
-      "num": 518675,
-      "word": "罗森",
-      "onboard_time": 1689784410,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -299,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214894,
+      "num": 173845,
+      "word": "广州大学 分数线",
+      "onboard_time": 1689785846,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214609,
       "num": 286727,
       "word": "沈腾一出脚就笑了",
@@ -337,6 +345,14 @@
       "onboard_time": 1689780457,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178635,
+      "num": 178635,
+      "word": "玉骨遥单集时长",
+      "onboard_time": 1689785186,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 178057,
@@ -403,20 +419,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 123992,
+      "num": 180045,
+      "word": "宋慧乔黑色美甲",
+      "onboard_time": 1689767732,
+      "rank": 48,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 119256,
       "num": 286643,
       "word": "杭州暴雨",
       "onboard_time": 1689768091,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111514,
-      "num": 180045,
-      "word": "宋慧乔黑色美甲",
-      "onboard_time": 1689767732,
-      "rank": 48,
-      "category": "影视,时尚"
     },
     {
       "raw_hot": 82791,
@@ -438,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#中华体育精神颂#"
+    },
+    {
+      "word": "#全面推进美丽中国建设#"
     }
   ]
 }
