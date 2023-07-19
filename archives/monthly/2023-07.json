@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689743782824,
+  "endTime": 1689744830096,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 3334222,
-      "num": 658605,
+      "num": 716496,
       "word": "产后会阴裂伤真的像那个芒果吗",
       "onboard_time": 1689730112,
       "rank": 10,
@@ -3004,7 +3004,7 @@
     },
     {
       "raw_hot": 1683580,
-      "num": 631800,
+      "num": 716466,
       "word": "杨威否认与杨云离婚",
       "onboard_time": 1689740856,
       "rank": 30,
@@ -3177,6 +3177,14 @@
       "onboard_time": 1689518203,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1613916,
+      "num": 1613916,
+      "word": "辣条在韩国火了",
+      "onboard_time": 1689741996,
+      "rank": 0,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1613873,
@@ -3977,14 +3985,6 @@
       "onboard_time": 1689634940,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1410905,
-      "num": 1410905,
-      "word": "辣条在韩国火了",
-      "onboard_time": 1689741996,
-      "rank": 0,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1410378,
@@ -5264,6 +5264,14 @@
       "word": "我姓彭 土豆丝彭",
       "onboard_time": 1688655638,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1162169,
+      "num": 1162169,
+      "word": "白敬亭向涵之 仙台有树",
+      "onboard_time": 1689743195,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -9019,6 +9027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827532,
+      "num": 827532,
+      "word": "丁程鑫说719这个日子都敢选",
+      "onboard_time": 1689743853,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 827133,
       "num": 827133,
       "word": "马嘉祺电梯显示18楼",
@@ -10315,6 +10331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749438,
+      "num": 749438,
+      "word": "宋焰许沁去吃饭只点一个菜",
+      "onboard_time": 1689741159,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 749345,
       "num": 749345,
       "word": "买香水客服竟然是高中同学",
@@ -10849,6 +10873,14 @@
       "onboard_time": 1689661650,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 716780,
+      "num": 716780,
+      "word": "上海迪士尼 BilibiliWorld",
+      "onboard_time": 1689742358,
+      "rank": 15,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 716717,
@@ -11771,6 +11803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674438,
+      "num": 713883,
+      "word": "韩国真的没人生小孩了吗",
+      "onboard_time": 1689743914,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674404,
       "num": 439680,
       "word": "网友偶遇易烊千玺看展",
@@ -11905,14 +11945,6 @@
       "onboard_time": 1688440477,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 668453,
-      "num": 560288,
-      "word": "宋焰许沁去吃饭只点一个菜",
-      "onboard_time": 1689741159,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 668297,
@@ -14113,14 +14145,6 @@
       "onboard_time": 1689467490,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585288,
-      "num": 585288,
-      "word": "白敬亭向涵之 仙台有树",
-      "onboard_time": 1689743195,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 585263,
@@ -16739,14 +16763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 502281,
-      "num": 502281,
-      "word": "上海迪士尼 BilibiliWorld",
-      "onboard_time": 1689742358,
-      "rank": 15,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 502160,
       "num": 502160,
       "word": "我的人间烟火",
@@ -17489,6 +17505,14 @@
       "onboard_time": 1688357057,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 484375,
+      "num": 484375,
+      "word": "唐尚珺高考志愿被退档",
+      "onboard_time": 1689742837,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 484179,
@@ -20619,6 +20643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 413810,
+      "num": 413810,
+      "word": "热烈",
+      "onboard_time": 1688985152,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413426,
       "num": 413426,
       "word": "吴磊星汉灿烂的长尾效应",
@@ -23235,14 +23267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364686,
-      "num": 364686,
-      "word": "热烈",
-      "onboard_time": 1688985152,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 364653,
       "num": 364653,
       "word": "曝一学校食堂吃出胶制异物",
@@ -23665,6 +23689,14 @@
       "onboard_time": 1689608911,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358797,
+      "num": 358797,
+      "word": "30岁没结婚但过得快乐也是一种成功",
+      "onboard_time": 1689742536,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 358556,
@@ -24377,6 +24409,14 @@
       "onboard_time": 1688195373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346699,
+      "num": 346699,
+      "word": "为什么经常收不到微信消息",
+      "onboard_time": 1689743255,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 346254,
@@ -26625,14 +26665,6 @@
       "onboard_time": 1689473612,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310499,
-      "num": 310499,
-      "word": "唐尚珺高考志愿被退档",
-      "onboard_time": 1689742837,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 310305,
@@ -31883,6 +31915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249820,
+      "num": 249820,
+      "word": "三伏天我在公司过冬",
+      "onboard_time": 1689744754,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249761,
       "num": 249761,
       "word": "熊猫解暑主要靠大冰坨子",
@@ -32521,14 +32561,6 @@
       "onboard_time": 1689508652,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243139,
-      "num": 284880,
-      "word": "30岁没结婚但过得快乐也是一种成功",
-      "onboard_time": 1689742536,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 243043,
@@ -35427,14 +35459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214480,
-      "num": 281899,
-      "word": "为什么经常收不到微信消息",
-      "onboard_time": 1689743255,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 214435,
       "num": 214435,
       "word": "女大学生向男生泼热水致二度烧伤",
@@ -37419,6 +37443,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 198606,
+      "num": 279856,
+      "word": "风月变",
+      "onboard_time": 1689743255,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198585,
       "num": 326513,
       "word": "河南升级发布暴雨黄色预警",
@@ -38099,6 +38131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193187,
+      "num": 235158,
+      "word": "潜水照丑到不敢发朋友圈",
+      "onboard_time": 1689744033,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193164,
       "num": 193164,
       "word": "被西安交大校长的临场发挥震撼到",
@@ -38401,14 +38441,6 @@
       "onboard_time": 1689554792,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191065,
-      "num": 279856,
-      "word": "风月变",
-      "onboard_time": 1689743255,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 190954,
@@ -40401,6 +40433,14 @@
       "onboard_time": 1688624433,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171656,
+      "num": 235099,
+      "word": "比亚迪",
+      "onboard_time": 1689744513,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 171644,
@@ -45498,6 +45538,9 @@
     },
     {
       "word": "#习近平同阿尔及利亚总统特本会谈#"
+    },
+    {
+      "word": "#中华体育精神颂#"
     }
   ]
 }

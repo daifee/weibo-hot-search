@@ -1,0 +1,410 @@
+{
+  "runTime": 1689744830096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613916,
+        "num": 1613916,
+        "word": "辣条在韩国火了",
+        "onboard_time": 1689741996,
+        "rank": 0,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1162169,
+        "num": 1162169,
+        "word": "白敬亭向涵之 仙台有树",
+        "onboard_time": 1689743195,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42383,
+        "num": 1142232,
+        "word": "生态保护硬核成绩单",
+        "onboard_time": 1689734610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125721,
+        "num": 1125721,
+        "word": "人民文娱评我的人间烟火",
+        "onboard_time": 1689734428,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1063679,
+        "num": 1063679,
+        "word": "周杰伦演唱会2张连座票黄牛叫价15万",
+        "onboard_time": 1689731193,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 841291,
+        "num": 841291,
+        "word": "真正通便的食物是这14种",
+        "onboard_time": 1689740012,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 827532,
+        "num": 827532,
+        "word": "丁程鑫说719这个日子都敢选",
+        "onboard_time": 1689743853,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 794115,
+        "num": 794115,
+        "word": "郭启刚回国投案",
+        "onboard_time": 1689737612,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749438,
+        "num": 749438,
+        "word": "宋焰许沁去吃饭只点一个菜",
+        "onboard_time": 1689741159,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 716780,
+        "num": 716780,
+        "word": "上海迪士尼 BilibiliWorld",
+        "onboard_time": 1689742358,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 2126973,
+        "num": 716496,
+        "word": "产后会阴裂伤真的像那个芒果吗",
+        "onboard_time": 1689730112,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1658690,
+        "num": 716466,
+        "word": "杨威否认与杨云离婚",
+        "onboard_time": 1689740856,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715718,
+        "num": 715718,
+        "word": "人间烟火 没有共情到女主的窒息",
+        "onboard_time": 1689728491,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507857,
+        "num": 714095,
+        "word": "黄山为什么不提倡冲方便面",
+        "onboard_time": 1689737551,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 674438,
+        "num": 713883,
+        "word": "韩国真的没人生小孩了吗",
+        "onboard_time": 1689743914,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713755,
+        "num": 713755,
+        "word": "白敬亭魏大勋刘昊然同框路透",
+        "onboard_time": 1689738873,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701874,
+        "num": 701874,
+        "word": "李飞你不官宣是有什么顾虑吗",
+        "onboard_time": 1689740136,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 609377,
+        "num": 609377,
+        "word": "我的人间烟火 灭火器",
+        "onboard_time": 1689740736,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484375,
+        "num": 484375,
+        "word": "唐尚珺高考志愿被退档",
+        "onboard_time": 1689742837,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419775,
+        "num": 419775,
+        "word": "公司1.2亿租楼300每月租给员工住",
+        "onboard_time": 1689728914,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566597,
+        "num": 419589,
+        "word": "室友六天赚了一千四百多",
+        "onboard_time": 1689726633,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416143,
+        "num": 416143,
+        "word": "38岁女子误将先兆流产当经期排出",
+        "onboard_time": 1689733291,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413810,
+        "num": 413810,
+        "word": "热烈",
+        "onboard_time": 1689743914,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403328,
+        "num": 403328,
+        "word": "喝奶茶最讨厌的小料是什么",
+        "onboard_time": 1689740976,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384566,
+        "num": 384566,
+        "word": "如果那英来演许沁",
+        "onboard_time": 1689741578,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360253,
+        "num": 360253,
+        "word": "开10天的空调要了325块钱",
+        "onboard_time": 1689740917,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358797,
+        "num": 358797,
+        "word": "30岁没结婚但过得快乐也是一种成功",
+        "onboard_time": 1689742536,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346912,
+        "num": 346912,
+        "word": "密室大逃脱",
+        "onboard_time": 1689740434,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346699,
+        "num": 346699,
+        "word": "为什么经常收不到微信消息",
+        "onboard_time": 1689743255,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 340174,
+        "num": 340174,
+        "word": "3608名回流生参加西安中考为何引众怒",
+        "onboard_time": 1689737612,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 333889,
+        "num": 333889,
+        "word": "纠正骨盆后倾才是翘臀必杀技",
+        "onboard_time": 1689733291,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 332910,
+        "num": 332910,
+        "word": "电影白蛇浮生官宣",
+        "onboard_time": 1689741336,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288546,
+        "num": 288546,
+        "word": "二十岁和三十岁的亲密关系",
+        "onboard_time": 1689741874,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 629118,
+        "num": 271823,
+        "word": "调查显示女性结婚意愿比男性更低",
+        "onboard_time": 1689739594,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252419,
+        "num": 252419,
+        "word": "刘奕君这身材都怕输在年轻",
+        "onboard_time": 1689725309,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249820,
+        "num": 249820,
+        "word": "三伏天我在公司过冬",
+        "onboard_time": 1689744754,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249142,
+        "num": 249142,
+        "word": "福宝真是从小可爱到大",
+        "onboard_time": 1689738033,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242492,
+        "num": 242492,
+        "word": "结账时发现买到贵货怎么办",
+        "onboard_time": 1689733410,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235191,
+        "num": 235191,
+        "word": "金泰亨 卡地亚",
+        "onboard_time": 1689733829,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 225250,
+        "num": 235185,
+        "word": "怦然心动20岁",
+        "onboard_time": 1689742477,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198606,
+        "num": 235177,
+        "word": "风月变",
+        "onboard_time": 1689743255,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193187,
+        "num": 235158,
+        "word": "潜水照丑到不敢发朋友圈",
+        "onboard_time": 1689744033,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181092,
+        "num": 235148,
+        "word": "浙江高考",
+        "onboard_time": 1689738632,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178668,
+        "num": 235137,
+        "word": "看到谢允救时影",
+        "onboard_time": 1689733110,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178403,
+        "num": 235114,
+        "word": "中华体育精神颂",
+        "onboard_time": 1689743375,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171656,
+        "num": 235099,
+        "word": "比亚迪",
+        "onboard_time": 1689744513,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170739,
+        "num": 235090,
+        "word": "广州每走一步就有一个蔡文姬",
+        "onboard_time": 1689734670,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164941,
+        "num": 235075,
+        "word": "A股",
+        "onboard_time": 1689744812,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162439,
+        "num": 235066,
+        "word": "发现书被盗版但一本没卖掉",
+        "onboard_time": 1689739655,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158331,
+        "num": 235054,
+        "word": "大奉打更人开机",
+        "onboard_time": 1689731369,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华体育精神颂#"
+    }
+  }
+}
