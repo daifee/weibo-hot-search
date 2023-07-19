@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689771045625,
+  "endTime": 1689772910897,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -27,20 +27,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3381825,
+      "num": 1196569,
+      "word": "张雨绮初中因为颜值被全校围观",
+      "onboard_time": 1689764311,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3334222,
       "num": 716496,
       "word": "产后会阴裂伤真的像那个芒果吗",
       "onboard_time": 1689730112,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 3258916,
-      "num": 1167162,
-      "word": "张雨绮初中因为颜值被全校围观",
-      "onboard_time": 1689764311,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 3109402,
@@ -105,6 +105,14 @@
       "onboard_time": 1689573089,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2832171,
+      "num": 1182098,
+      "word": "北京广告协会删除对蔡某某的风险把控提示",
+      "onboard_time": 1689769233,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2805040,
@@ -177,14 +185,6 @@
       "onboard_time": 1689561331,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2212639,
-      "num": 1155653,
-      "word": "北京广告协会删除对蔡某某的风险把控提示",
-      "onboard_time": 1689769233,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2170887,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1769551,
-      "num": 1142031,
+      "num": 1180711,
       "word": "左航被救护车接走",
       "onboard_time": 1689769055,
       "rank": 4,
@@ -424,6 +424,14 @@
       "word": "9岁女生胃里取出1斤多头发",
       "onboard_time": 1689677159,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1589007,
+      "num": 505392,
+      "word": "女主播大面积裸露推荐隆胸产品被罚60万",
+      "onboard_time": 1689767791,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -579,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1336276,
-      "num": 505392,
-      "word": "女主播大面积裸露推荐隆胸产品被罚60万",
-      "onboard_time": 1689767791,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 1333193,
+      "num": 1165218,
+      "word": "四个显眼包都营业了",
+      "onboard_time": 1689771272,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1285275,
@@ -657,6 +665,14 @@
       "onboard_time": 1689689376,
       "rank": 24,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 1209445,
+      "num": 1209445,
+      "word": "孟宴臣喝醉",
+      "onboard_time": 1689770194,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 1205961,
@@ -1307,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 828973,
+      "num": 391967,
+      "word": "产后排便能有多可怕",
+      "onboard_time": 1689769055,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 827532,
       "num": 827532,
       "word": "丁程鑫说719这个日子都敢选",
@@ -1915,14 +1939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 612622,
-      "num": 343791,
-      "word": "产后排便能有多可怕",
-      "onboard_time": 1689769055,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 610707,
       "num": 610707,
       "word": "成都现双太阳",
@@ -1952,6 +1968,14 @@
       "word": "郎君不如意官宣定档",
       "onboard_time": 1689644310,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 605271,
+      "num": 292511,
+      "word": "方川导演 孟宴臣",
+      "onboard_time": 1689772835,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1985,6 +2009,14 @@
       "onboard_time": 1689605796,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 599016,
+      "num": 539949,
+      "word": "宋焰许沁同居了",
+      "onboard_time": 1689768993,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 596865,
@@ -2299,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546777,
+      "num": 430898,
+      "word": "林允儿的背",
+      "onboard_time": 1689772233,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 546424,
       "num": 546424,
       "word": "跳水",
@@ -2323,14 +2363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 539949,
-      "num": 539949,
-      "word": "宋焰许沁同居了",
-      "onboard_time": 1689768993,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 537575,
       "num": 537575,
       "word": "WBG对战EDG",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1689553772,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533252,
+      "num": 430855,
+      "word": "自动辞职",
+      "onboard_time": 1689771033,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 532745,
@@ -2675,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475813,
+      "num": 390773,
+      "word": "耳东兔子关注了魏大勋",
+      "onboard_time": 1689769895,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473617,
       "num": 415158,
       "word": "现在再看杨洋王楚然李木戈翻答案之书",
@@ -2859,14 +2907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 455515,
-      "num": 342370,
-      "word": "耳东兔子关注了魏大勋",
-      "onboard_time": 1689769895,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 454676,
       "num": 454676,
       "word": "杨紫长相思或将7月24日播出",
@@ -3033,6 +3073,22 @@
       "onboard_time": 1689695016,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 431020,
+      "num": 431020,
+      "word": "杭州暴雨",
+      "onboard_time": 1689768091,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430796,
+      "num": 430796,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1689768091,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 430740,
@@ -3339,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398039,
+      "num": 398039,
+      "word": "孟宴臣另开一本高干文吧",
+      "onboard_time": 1689767252,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397911,
       "num": 414512,
       "word": "广州再通报职校食堂饭菜发现异物",
@@ -3435,14 +3499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382677,
-      "num": 382677,
-      "word": "孟宴臣喝醉",
-      "onboard_time": 1689770194,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 381265,
       "num": 313479,
       "word": "Loopy演我上班",
@@ -3513,14 +3569,6 @@
       "onboard_time": 1689565051,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 373864,
-      "num": 373864,
-      "word": "密室大逃脱大神版",
-      "onboard_time": 1689768091,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 373688,
@@ -3595,6 +3643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 365212,
+      "num": 365212,
+      "word": "花花被游客喊胖子愣了1秒钟",
+      "onboard_time": 1689772356,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364653,
       "num": 364653,
       "word": "曝一学校食堂吃出胶制异物",
@@ -3617,14 +3673,6 @@
       "onboard_time": 1689569553,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 363506,
-      "num": 339910,
-      "word": "孟宴臣另开一本高干文吧",
-      "onboard_time": 1689767252,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 363338,
@@ -3865,14 +3913,6 @@
       "onboard_time": 1689754592,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 345477,
-      "num": 345477,
-      "word": "杭州暴雨",
-      "onboard_time": 1689768091,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345228,
@@ -6059,6 +6099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189681,
+      "num": 292458,
+      "word": "浙江一对母女双双确诊卵巢癌晚期",
+      "onboard_time": 1689772655,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189341,
       "num": 414643,
       "word": "流水迢迢",
@@ -6499,6 +6547,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 157916,
+      "num": 292405,
+      "word": "关空调前后猫咪的反应",
+      "onboard_time": 1689772599,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 157430,
       "num": 157430,
       "word": "第一次见带滑盖的眼睛",
@@ -6577,14 +6633,6 @@
       "onboard_time": 1689725368,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149697,
-      "num": 310607,
-      "word": "自动辞职",
-      "onboard_time": 1689771033,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 148872,
@@ -7241,6 +7289,14 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 7112,
+      "num": 1205145,
+      "word": "绿色低碳从我做起",
+      "onboard_time": 1689758494,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -7291,6 +7347,9 @@
     },
     {
       "word": "#倡导尊重自然爱护自然的绿色价值观念#"
+    },
+    {
+      "word": "#今后5年是美丽中国建设的重要时期#"
     }
   ]
 }
