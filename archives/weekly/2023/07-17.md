@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/17 00:23:22 ~ 2023/07/20 03:14:04
+本榜单时间：2023/07/17 00:23:22 ~ 2023/07/20 03:33:41
 </p>
 </blockquote>
 <p>
@@ -5619,6 +5619,12 @@ seventeen演唱会彩排照（热度：136579）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A7%A3%E8%AF%B4%E5%91%98%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
+两意大利解说员歧视中国人被停职（热度：81588）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%AD%A6%E6%A0%A1%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E6%9D%8E%E4%B8%BB%E4%BB%BB%23" target="weibo">
 这个学校不能没有李主任（热度：80574）
 </a>
@@ -5651,12 +5657,6 @@ seventeen演唱会彩排照（热度：136579）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4%E7%A1%AC%E6%A0%B8%E6%88%90%E7%BB%A9%E5%8D%95%23" target="weibo">
 生态保护硬核成绩单（热度：69161）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A7%A3%E8%AF%B4%E5%91%98%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
-两意大利解说员歧视中国人被停职（热度：68333）
 </a>
 </li>
 
