@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689801307996,
+  "endTime": 1689802416739,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -7675,20 +7675,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 28298,
+      "num": 28298,
+      "word": "沉浸式体验肖战片场的一天",
+      "onboard_time": 1689799091,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 26806,
       "num": 1633904,
       "word": "新时代中国调研行长江篇",
       "onboard_time": 1689773137,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24957,
-      "num": 27046,
-      "word": "沉浸式体验肖战片场的一天",
-      "onboard_time": 1689799091,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 23385,
@@ -7705,6 +7705,14 @@
       "onboard_time": 1689513819,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19875,
+      "num": 25131,
+      "word": "王一博被大鹏翻跟头惊呆了",
+      "onboard_time": 1689802272,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 15188,
