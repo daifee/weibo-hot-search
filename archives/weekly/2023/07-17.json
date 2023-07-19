@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689795221334,
+  "endTime": 1689797850901,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -7681,6 +7681,14 @@
       "onboard_time": 1689618975,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21079,
+      "num": 42680,
+      "word": "时代峰峻回应左航健康问题",
+      "onboard_time": 1689797713,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 20995,
