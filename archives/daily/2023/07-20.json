@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689788046395,
+  "endTime": 1689790875478,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341386,
+      "num": 341386,
+      "word": "广州大学 分数线",
+      "onboard_time": 1689785846,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340458,
       "num": 340458,
       "word": "宋慧乔青龙奖大赏",
@@ -257,14 +265,6 @@
       "onboard_time": 1689779800,
       "rank": 29,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 294820,
-      "num": 173845,
-      "word": "广州大学 分数线",
-      "onboard_time": 1689785846,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248489,
@@ -312,6 +312,14 @@
       "word": "沈腾一出脚就笑了",
       "onboard_time": 1689776377,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193084,
+      "num": 139894,
+      "word": "网友画的漫画版孟宴臣",
+      "onboard_time": 1689787042,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -403,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140373,
-      "num": 105604,
-      "word": "网友画的漫画版孟宴臣",
-      "onboard_time": 1689787042,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 133703,
       "num": 286645,
       "word": "四川大学回应网传视频",
@@ -443,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88864,
+      "num": 132335,
+      "word": "王鹤棣赞助大奉打更人组服",
+      "onboard_time": 1689789138,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 82791,
       "num": 286635,
       "word": "千金感侧分低盘发",
       "onboard_time": 1689782134,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 25178,
+      "num": 131820,
+      "word": "两意大利解说员歧视中国人被停职",
+      "onboard_time": 1689790336,
+      "rank": 49,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 18357,
