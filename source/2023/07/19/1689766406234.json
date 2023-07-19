@@ -1,0 +1,410 @@
+{
+  "runTime": 1689766406234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1150436,
+        "num": 1150436,
+        "word": "四川大学回应网传视频",
+        "onboard_time": 1689762932,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 534138,
+        "num": 1071157,
+        "word": "男子突然倒地大小便失禁消防员紧急救助",
+        "onboard_time": 1689763592,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58081,
+        "num": 1002263,
+        "word": "我国累计建成5G基站超293万个",
+        "onboard_time": 1689758734,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1251859,
+        "num": 912799,
+        "word": "女子举报丈夫与公职人员生女",
+        "onboard_time": 1689763290,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356147,
+        "num": 806872,
+        "word": "环卫工被疑偷手机民警翻垃圾证清白",
+        "onboard_time": 1689763651,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771942,
+        "num": 771942,
+        "word": "魏大勋101舞台",
+        "onboard_time": 1689761431,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303094,
+        "num": 595828,
+        "word": "在飞机上偶遇了一场音乐会",
+        "onboard_time": 1689761794,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 577298,
+        "num": 577298,
+        "word": "奥本海默确认引进",
+        "onboard_time": 1689765270,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523281,
+        "num": 523281,
+        "word": "陈芋汐全红婵又包揽冠亚军了",
+        "onboard_time": 1689762031,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 852545,
+        "num": 520101,
+        "word": "刘雯井柏然相拥大片",
+        "onboard_time": 1689760413,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1642151,
+        "num": 506329,
+        "word": "英子骂得好超前",
+        "onboard_time": 1689760653,
+        "rank": 10,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 1490113,
+        "num": 497105,
+        "word": "韩国幽灵婴儿已确认249人死亡",
+        "onboard_time": 1689751411,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556353,
+        "num": 480262,
+        "word": "研究称最后一个孩出生越晚妈妈寿命越长",
+        "onboard_time": 1689749070,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471998,
+        "num": 471998,
+        "word": "何非你怎么敢来吴京剧组",
+        "onboard_time": 1689763170,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449737,
+        "num": 449737,
+        "word": "陈芋汐女子10米跳台夺金",
+        "onboard_time": 1689761554,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397160,
+        "num": 397160,
+        "word": "TFBOYS演唱会开票时间",
+        "onboard_time": 1689752192,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396867,
+        "num": 396867,
+        "word": "小钰道歉",
+        "onboard_time": 1689753512,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394693,
+        "num": 394693,
+        "word": "张踩铃替我说出了结婚的意义",
+        "onboard_time": 1689762631,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393147,
+        "num": 393147,
+        "word": "李木戈谈选角没提魏大勋",
+        "onboard_time": 1689756395,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338011,
+        "num": 338011,
+        "word": "上海年轻人为啥都开始上夜校了",
+        "onboard_time": 1689761852,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1067943,
+        "num": 332963,
+        "word": "张雨绮初中因为颜值被全校围观",
+        "onboard_time": 1689764311,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343262,
+        "num": 331561,
+        "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
+        "onboard_time": 1689764670,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323468,
+        "num": 323468,
+        "word": "杨洋新剧蓝衣路透",
+        "onboard_time": 1689765513,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322245,
+        "num": 322245,
+        "word": "4岁女孩被开水烫伤独自大哭1小时",
+        "onboard_time": 1689765029,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338615,
+        "num": 312107,
+        "word": "李木戈回应选杨洋王楚然",
+        "onboard_time": 1689751353,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291993,
+        "num": 291993,
+        "word": "山东一女子放弃编制随父从军",
+        "onboard_time": 1689760353,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272750,
+        "num": 272750,
+        "word": "朴山多拉因为权志龙被社长收走手机",
+        "onboard_time": 1689759031,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271376,
+        "num": 271376,
+        "word": "原来challenge起源是EXO",
+        "onboard_time": 1689764011,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262358,
+        "num": 262358,
+        "word": "王一博学跳惊鸿舞",
+        "onboard_time": 1689757354,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249825,
+        "num": 249825,
+        "word": "医院非法采血致患者感染艾滋病",
+        "onboard_time": 1689750390,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576683,
+        "num": 247442,
+        "word": "大量雌激素产品",
+        "onboard_time": 1689765090,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280083,
+        "num": 244392,
+        "word": "穿朋友送的衣服坐地铁",
+        "onboard_time": 1689765869,
+        "rank": 31,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 239736,
+        "num": 239736,
+        "word": "全红婵的16岁",
+        "onboard_time": 1689759572,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221199,
+        "num": 221199,
+        "word": "玉骨遥镜头好高清",
+        "onboard_time": 1689759754,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218624,
+        "num": 218624,
+        "word": "王楚然孟子义有一个小团体",
+        "onboard_time": 1689761071,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206169,
+        "num": 218296,
+        "word": "杨紫长相思或将7月24日播出",
+        "onboard_time": 1689758734,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200155,
+        "num": 217769,
+        "word": "吃了半个月轻食一斤没瘦",
+        "onboard_time": 1689754174,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196317,
+        "num": 216913,
+        "word": "infp向上管理真的很差",
+        "onboard_time": 1689759572,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182795,
+        "num": 216179,
+        "word": "腾讯说王楚然王子奇清爽不油好嗑上头",
+        "onboard_time": 1689755614,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178746,
+        "num": 215167,
+        "word": "原来水豚私下里是这样的",
+        "onboard_time": 1689763290,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176910,
+        "num": 214158,
+        "word": "误入e人堆的i人王一博",
+        "onboard_time": 1689764609,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176196,
+        "num": 213652,
+        "word": "成年母猫是懂体态管理的",
+        "onboard_time": 1689762151,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170647,
+        "num": 212938,
+        "word": "现在还戴口罩的一半是社恐",
+        "onboard_time": 1689755914,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155820,
+        "num": 212020,
+        "word": "奥本海默",
+        "onboard_time": 1689735988,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154387,
+        "num": 211039,
+        "word": "Rookie",
+        "onboard_time": 1689758913,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152587,
+        "num": 210611,
+        "word": "幽灵婴儿",
+        "onboard_time": 1689766050,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148234,
+        "num": 209748,
+        "word": "韩国真的没人生小孩了吗",
+        "onboard_time": 1689743914,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147596,
+        "num": 208863,
+        "word": "张艺兴到达敦煌",
+        "onboard_time": 1689759572,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146767,
+        "num": 207893,
+        "word": "黄渤希望中国电影好起来",
+        "onboard_time": 1689764311,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139801,
+        "num": 207226,
+        "word": "年薪20万你会考虑外派非洲吗",
+        "onboard_time": 1689746132,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面推进美丽中国建设#"
+    }
+  }
+}

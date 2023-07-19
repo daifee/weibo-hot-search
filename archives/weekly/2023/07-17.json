@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689765258025,
+  "endTime": 1689766406234,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251859,
+      "num": 1039014,
+      "word": "女子举报丈夫与公职人员生女",
+      "onboard_time": 1689763290,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1234502,
       "num": 1234502,
       "word": "腾讯视频",
@@ -675,6 +683,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1150436,
+      "num": 1150436,
+      "word": "四川大学回应网传视频",
+      "onboard_time": 1689762932,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1137382,
       "num": 279843,
       "word": "dirty talk",
@@ -763,12 +779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1067814,
-      "num": 1067814,
-      "word": "四川大学回应网传视频",
-      "onboard_time": 1689762932,
-      "rank": 0,
-      "category": "社会新闻,教育"
+      "raw_hot": 1067943,
+      "num": 353086,
+      "word": "张雨绮初中因为颜值被全校围观",
+      "onboard_time": 1689764311,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1062385,
@@ -809,14 +825,6 @@
       "onboard_time": 1689737551,
       "rank": 18,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1039014,
-      "num": 1039014,
-      "word": "女子举报丈夫与公职人员生女",
-      "onboard_time": 1689763290,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1031406,
@@ -1163,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 854312,
-      "num": 353086,
-      "word": "张雨绮初中因为颜值被全校围观",
-      "onboard_time": 1689764311,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 852259,
       "num": 852259,
       "word": "孟宴臣存在过的证据",
@@ -1379,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 771942,
+      "num": 771942,
+      "word": "魏大勋101舞台",
+      "onboard_time": 1689761431,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 769461,
       "num": 769461,
       "word": "程靖淇上恋综",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1689586353,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 754825,
-      "num": 754825,
-      "word": "魏大勋101舞台",
-      "onboard_time": 1689761431,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 745448,
@@ -1892,7 +1892,7 @@
     },
     {
       "raw_hot": 605262,
-      "num": 1048928,
+      "num": 1071157,
       "word": "男子突然倒地大小便失禁消防员紧急救助",
       "onboard_time": 1689763592,
       "rank": 1,
@@ -2035,6 +2035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577298,
+      "num": 577298,
+      "word": "奥本海默确认引进",
+      "onboard_time": 1689765270,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 577072,
       "num": 577072,
       "word": "韩网热帖 福宝熊设",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1689737010,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 576683,
+      "num": 247442,
+      "word": "大量雌激素产品",
+      "onboard_time": 1689765090,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576422,
@@ -2624,6 +2640,14 @@
       "word": "如果那英来演许沁",
       "onboard_time": 1689741578,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 471998,
+      "num": 471998,
+      "word": "何非你怎么敢来吴京剧组",
+      "onboard_time": 1689763170,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -3524,7 +3548,7 @@
     },
     {
       "raw_hot": 357591,
-      "num": 239219,
+      "num": 322245,
       "word": "4岁女孩被开水烫伤独自大哭1小时",
       "onboard_time": 1689765029,
       "rank": 30,
@@ -3545,6 +3569,14 @@
       "onboard_time": 1689657570,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 356147,
+      "num": 806872,
+      "word": "环卫工被疑偷手机民警翻垃圾证清白",
+      "onboard_time": 1689763651,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356082,
@@ -3576,14 +3608,6 @@
       "word": "玉骨遥镜头好高清",
       "onboard_time": 1689759754,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 353920,
-      "num": 353920,
-      "word": "何非你怎么敢来吴京剧组",
-      "onboard_time": 1689763170,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -3697,6 +3721,14 @@
       "onboard_time": 1689668133,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343262,
+      "num": 331561,
+      "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
+      "onboard_time": 1689764670,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 343064,
@@ -3867,6 +3899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323468,
+      "num": 323468,
+      "word": "杨洋新剧蓝衣路透",
+      "onboard_time": 1689765513,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323245,
       "num": 323245,
       "word": "养父母给了很多爱所以不怨恨亲生父母",
@@ -3945,14 +3985,6 @@
       "onboard_time": 1689550283,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315975,
-      "num": 789368,
-      "word": "环卫工被疑偷手机民警翻垃圾证清白",
-      "onboard_time": 1689763651,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315435,
@@ -4395,6 +4427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280083,
+      "num": 244392,
+      "word": "穿朋友送的衣服坐地铁",
+      "onboard_time": 1689765869,
+      "rank": 31,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 279543,
       "num": 279543,
       "word": "张艺兴到达敦煌",
@@ -4489,6 +4529,14 @@
       "onboard_time": 1689688115,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271376,
+      "num": 271376,
+      "word": "原来challenge起源是EXO",
+      "onboard_time": 1689764011,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 270626,
@@ -4609,14 +4657,6 @@
       "onboard_time": 1689752852,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 261832,
-      "num": 261832,
-      "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
-      "onboard_time": 1689764670,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 261217,
@@ -4945,14 +4985,6 @@
       "onboard_time": 1689520835,
       "rank": 29,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 239300,
-      "num": 239300,
-      "word": "原来challenge起源是EXO",
-      "onboard_time": 1689764011,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 238583,
@@ -5387,14 +5419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211580,
-      "num": 211580,
-      "word": "大量雌激素产品",
-      "onboard_time": 1689765090,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211464,
       "num": 211464,
       "word": "不扯头皮还持久的高马尾",
@@ -5748,7 +5772,7 @@
     },
     {
       "raw_hot": 195368,
-      "num": 195368,
+      "num": 214158,
       "word": "误入e人堆的i人王一博",
       "onboard_time": 1689764609,
       "rank": 40,
@@ -6323,6 +6347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152587,
+      "num": 210611,
+      "word": "幽灵婴儿",
+      "onboard_time": 1689766050,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152420,
       "num": 152420,
       "word": "英专毕业生的就业现状belike",
@@ -6392,6 +6424,14 @@
       "word": "刘宇宁穿保安服直播",
       "onboard_time": 1689613343,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146767,
+      "num": 207893,
+      "word": "黄渤希望中国电影好起来",
+      "onboard_time": 1689764311,
+      "rank": 48,
       "category": "影视"
     },
     {
