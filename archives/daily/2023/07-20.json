@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689802416739,
+  "endTime": 1689804971628,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -459,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87185,
+      "num": 131820,
+      "word": "两意大利解说员歧视中国人被停职",
+      "onboard_time": 1689790336,
+      "rank": 49,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 82791,
       "num": 286635,
       "word": "千金感侧分低盘发",
@@ -467,12 +475,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 81588,
-      "num": 131820,
-      "word": "两意大利解说员歧视中国人被停职",
-      "onboard_time": 1689790336,
-      "rank": 49,
-      "category": "社会新闻,体育"
+      "raw_hot": 54883,
+      "num": 54883,
+      "word": "王一博被大鹏翻跟头惊呆了",
+      "onboard_time": 1689802272,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 41486,
+      "num": 41486,
+      "word": "沉浸式体验肖战片场的一天",
+      "onboard_time": 1689799091,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 38381,
@@ -483,7 +499,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29875,
+      "raw_hot": 36419,
       "num": 42680,
       "word": "时代峰峻回应左航健康问题",
       "onboard_time": 1689797713,
@@ -491,20 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28298,
-      "num": 28298,
-      "word": "沉浸式体验肖战片场的一天",
-      "onboard_time": 1689799091,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 19875,
-      "num": 25131,
-      "word": "王一博被大鹏翻跟头惊呆了",
-      "onboard_time": 1689802272,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 34806,
+      "num": 34806,
+      "word": "说真的赶海可以但别往滩涂去啊",
+      "onboard_time": 1689801191,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18357,
