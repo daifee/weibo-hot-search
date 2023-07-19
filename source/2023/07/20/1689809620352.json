@@ -1,0 +1,410 @@
+{
+  "runTime": 1689809620352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2195692,
+        "num": 2195692,
+        "word": "梁朝伟",
+        "onboard_time": 1689780994,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1784266,
+        "num": 1784266,
+        "word": "杨洋",
+        "onboard_time": 1689808042,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21258,
+        "num": 1231296,
+        "word": "新时代中国调研行长江篇",
+        "onboard_time": 1689773137,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159621,
+        "num": 1159621,
+        "word": "我的人间烟火收视创新高",
+        "onboard_time": 1689779435,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 704362,
+        "num": 704362,
+        "word": "美总统候选人称美正收集中国人DNA",
+        "onboard_time": 1689780934,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 546821,
+        "num": 546821,
+        "word": "罗森",
+        "onboard_time": 1689784410,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489619,
+        "num": 489619,
+        "word": "原来许沁的作用是警示大家",
+        "onboard_time": 1689781471,
+        "rank": 6,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 488115,
+        "num": 488115,
+        "word": "奶奶把草鱼当宠物养到40来斤",
+        "onboard_time": 1689807800,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451192,
+        "num": 451192,
+        "word": "张雨绮初中因为颜值被全校围观",
+        "onboard_time": 1689764311,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368175,
+        "num": 368175,
+        "word": "记者解剖鸭头剥出巩膜",
+        "onboard_time": 1689781712,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549444,
+        "num": 366213,
+        "word": "北京广告协会删除对蔡某某的风险把控提示",
+        "onboard_time": 1689769233,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 322857,
+        "num": 322857,
+        "word": "孟宴臣哭的我心都碎了",
+        "onboard_time": 1689780874,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319585,
+        "num": 319585,
+        "word": "韩国整容中心门口的鼻子墙",
+        "onboard_time": 1689768634,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298039,
+        "num": 298039,
+        "word": "福宝三岁啦",
+        "onboard_time": 1689808944,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290177,
+        "num": 290177,
+        "word": "金晨 这几位哥哥真帅啊",
+        "onboard_time": 1689776801,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287164,
+        "num": 287164,
+        "word": "女主播大面积裸露推荐隆胸产品被罚60万",
+        "onboard_time": 1689767791,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283386,
+        "num": 283386,
+        "word": "沈腾一出脚就笑了",
+        "onboard_time": 1689776377,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272080,
+        "num": 272080,
+        "word": "女子欲轻生邻居穿睡裙跑来劝解",
+        "onboard_time": 1689807861,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271292,
+        "num": 271292,
+        "word": "两意大利解说员歧视中国人被停职",
+        "onboard_time": 1689790336,
+        "rank": 18,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 242321,
+        "num": 242321,
+        "word": "花花被游客喊胖子愣了1秒钟",
+        "onboard_time": 1689772356,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235119,
+        "num": 235119,
+        "word": "NewJeans新歌MV出现梁朝伟",
+        "onboard_time": 1689808645,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214358,
+        "num": 214358,
+        "word": "方川导演 孟宴臣",
+        "onboard_time": 1689772835,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210147,
+        "num": 210147,
+        "word": "成功承认出轨",
+        "onboard_time": 1689775539,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202486,
+        "num": 202486,
+        "word": "拜把子拜了60个小孩",
+        "onboard_time": 1689780457,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197019,
+        "num": 197019,
+        "word": "韩国幽灵婴儿已确认249人死亡",
+        "onboard_time": 1689751411,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196788,
+        "num": 196788,
+        "word": "产后排便能有多可怕",
+        "onboard_time": 1689769055,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 187283,
+        "num": 187283,
+        "word": "浙江一对母女双双确诊卵巢癌晚期",
+        "onboard_time": 1689772655,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180869,
+        "num": 180869,
+        "word": "白敬亭魏大勋你们不要再打了",
+        "onboard_time": 1689768753,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164607,
+        "num": 164607,
+        "word": "放假微信一天都没有消息",
+        "onboard_time": 1689778899,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161428,
+        "num": 161428,
+        "word": "指套为鸭事件被开除的厨师怎么办",
+        "onboard_time": 1689766531,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161405,
+        "num": 161405,
+        "word": "真正的情绪稳定不是忍耐",
+        "onboard_time": 1689808645,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 160870,
+        "num": 160870,
+        "word": "为什么车祸之后不要喝水",
+        "onboard_time": 1689778837,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146869,
+        "num": 146869,
+        "word": "孟宴臣扔钥匙极致十秒",
+        "onboard_time": 1689775961,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143163,
+        "num": 143163,
+        "word": "肖战回复韩栋",
+        "onboard_time": 1689769713,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139097,
+        "num": 139097,
+        "word": "广州大学 分数线",
+        "onboard_time": 1689785846,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "山东人人都怕的生物",
+        "onboard_time": 1689774219,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135641,
+        "num": 135641,
+        "word": "真的不要过度的去省钱",
+        "onboard_time": 1689774097,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134849,
+        "num": 134849,
+        "word": "王一博被大鹏翻跟头惊呆了",
+        "onboard_time": 1689802272,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124809,
+        "num": 124809,
+        "word": "玉骨遥单集时长",
+        "onboard_time": 1689785186,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119294,
+        "num": 119294,
+        "word": "SMTOWN全公司艺人一起奶新团",
+        "onboard_time": 1689779558,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115660,
+        "num": 115660,
+        "word": "王鹤棣赞助大奉打更人组服",
+        "onboard_time": 1689789138,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113234,
+        "num": 113234,
+        "word": "第一次见鱼是这样睡觉的",
+        "onboard_time": 1689779800,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 112663,
+        "num": 112663,
+        "word": "宋慧乔青龙奖大赏",
+        "onboard_time": 1689779675,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109097,
+        "num": 109097,
+        "word": "黑马情侣娱乐圈版",
+        "onboard_time": 1689776501,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102172,
+        "num": 109093,
+        "word": "裴秀智青龙视后",
+        "onboard_time": 1689775476,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82759,
+        "num": 109092,
+        "word": "时代峰峻回应左航健康问题",
+        "onboard_time": 1689797713,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86636,
+        "num": 109082,
+        "word": "海恩贤圭同框",
+        "onboard_time": 1689783631,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81195,
+        "num": 109079,
+        "word": "小胖 下次必须拿捏你",
+        "onboard_time": 1689779800,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53162,
+        "num": 109072,
+        "word": "金木",
+        "onboard_time": 1689779260,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 33491,
+        "num": 109064,
+        "word": "千金感侧分低盘发",
+        "onboard_time": 1689782134,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#今后5年是美丽中国建设的重要时期#"
+    }
+  }
+}

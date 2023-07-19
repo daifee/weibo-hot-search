@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689808600740,
+  "endTime": 1689809620352,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -385,6 +385,14 @@
       "onboard_time": 1689684936,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1784266,
+      "num": 1784266,
+      "word": "杨洋",
+      "onboard_time": 1689808042,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1781192,
@@ -1667,14 +1675,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 732532,
-      "num": 732532,
-      "word": "杨洋",
-      "onboard_time": 1689808042,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 731662,
       "num": 731662,
       "word": "孟宴臣换个人来演都能火吗",
@@ -1753,6 +1753,14 @@
       "onboard_time": 1689576571,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704362,
+      "num": 704362,
+      "word": "美总统候选人称美正收集中国人DNA",
+      "onboard_time": 1689780934,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 702964,
@@ -2587,14 +2595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527597,
-      "num": 527597,
-      "word": "美总统候选人称美正收集中国人DNA",
-      "onboard_time": 1689780934,
-      "rank": 14,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 524523,
       "num": 321576,
       "word": "对冷暴力最好的回应方式",
@@ -2873,6 +2873,14 @@
       "onboard_time": 1689600394,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 488115,
+      "num": 488115,
+      "word": "奶奶把草鱼当宠物养到40来斤",
+      "onboard_time": 1689807800,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483050,
@@ -4667,6 +4675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298039,
+      "num": 298039,
+      "word": "福宝三岁啦",
+      "onboard_time": 1689808944,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297542,
       "num": 297542,
       "word": "薛之谦演唱会后浙江小城菜市场火了",
@@ -5027,6 +5043,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 272080,
+      "num": 272080,
+      "word": "女子欲轻生邻居穿睡裙跑来劝解",
+      "onboard_time": 1689807861,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272003,
       "num": 272003,
       "word": "徐海东",
@@ -5041,6 +5065,14 @@
       "onboard_time": 1689764011,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 271292,
+      "num": 271292,
+      "word": "两意大利解说员歧视中国人被停职",
+      "onboard_time": 1689790336,
+      "rank": 49,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 270626,
@@ -5579,6 +5611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235119,
+      "num": 235119,
+      "word": "NewJeans新歌MV出现梁朝伟",
+      "onboard_time": 1689808645,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 234806,
       "num": 234806,
       "word": "何超莲官宣心动6",
@@ -5625,14 +5665,6 @@
       "onboard_time": 1689672334,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 232043,
-      "num": 232043,
-      "word": "两意大利解说员歧视中国人被停职",
-      "onboard_time": 1689790336,
-      "rank": 49,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 231327,
@@ -6467,14 +6499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188258,
-      "num": 188258,
-      "word": "奶奶把草鱼当宠物养到40来斤",
-      "onboard_time": 1689807800,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187040,
       "num": 187040,
       "word": "泰国广告你别太离谱",
@@ -6889,6 +6913,14 @@
       "onboard_time": 1689591210,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161405,
+      "num": 161405,
+      "word": "真正的情绪稳定不是忍耐",
+      "onboard_time": 1689808645,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 161285,
@@ -7323,6 +7355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115660,
+      "num": 132335,
+      "word": "王鹤棣赞助大奉打更人组服",
+      "onboard_time": 1689789138,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115516,
       "num": 115516,
       "word": "雨后杭州出现巨型彩虹",
@@ -7377,14 +7417,6 @@
       "onboard_time": 1689577711,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 109251,
-      "num": 109251,
-      "word": "女子欲轻生邻居穿睡裙跑来劝解",
-      "onboard_time": 1689807861,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108829,
@@ -7467,14 +7499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88864,
-      "num": 132335,
-      "word": "王鹤棣赞助大奉打更人组服",
-      "onboard_time": 1689789138,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 86738,
       "num": 96632,
       "word": "导演周国栋因病去世",
@@ -7515,8 +7539,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 82032,
-      "num": 101695,
+      "raw_hot": 82759,
+      "num": 109092,
       "word": "时代峰峻回应左航健康问题",
       "onboard_time": 1689797713,
       "rank": 44,
