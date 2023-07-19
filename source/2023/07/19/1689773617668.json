@@ -1,0 +1,410 @@
+{
+  "runTime": 1689773617668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1427513,
+        "num": 1427513,
+        "word": "孟宴臣喝醉",
+        "onboard_time": 1689770194,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509513,
+        "num": 1121933,
+        "word": "杭州暴雨",
+        "onboard_time": 1689768091,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105894,
+        "num": 1105894,
+        "word": "方川导演 孟宴臣",
+        "onboard_time": 1689772835,
+        "rank": 2,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3372398,
+        "num": 1042558,
+        "word": "张雨绮初中因为颜值被全校围观",
+        "onboard_time": 1689764311,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2707058,
+        "num": 1023912,
+        "word": "北京广告协会删除对蔡某某的风险把控提示",
+        "onboard_time": 1689769233,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1733892,
+        "num": 1005277,
+        "word": "四个显眼包都营业了",
+        "onboard_time": 1689771272,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 966838,
+        "num": 966838,
+        "word": "韩国整容中心门口的鼻子墙",
+        "onboard_time": 1689768634,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 591023,
+        "num": 956678,
+        "word": "宋焰许沁同居了",
+        "onboard_time": 1689768993,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415868,
+        "num": 938746,
+        "word": "孙颖莎 刘炜珊",
+        "onboard_time": 1689768393,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310226,
+        "num": 904722,
+        "word": "四川大学回应网传视频",
+        "onboard_time": 1689762932,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1601006,
+        "num": 892321,
+        "word": "女主播大面积裸露推荐隆胸产品被罚60万",
+        "onboard_time": 1689767791,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185020,
+        "num": 874681,
+        "word": "左航被救护车接走",
+        "onboard_time": 1689769055,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1142657,
+        "num": 858358,
+        "word": "肖战回复韩栋",
+        "onboard_time": 1689769713,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 839931,
+        "num": 839931,
+        "word": "林允儿的背",
+        "onboard_time": 1689772233,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 717177,
+        "num": 837437,
+        "word": "韩国幽灵婴儿已确认249人死亡",
+        "onboard_time": 1689751411,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625737,
+        "num": 834624,
+        "word": "自动辞职",
+        "onboard_time": 1689771033,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469464,
+        "num": 832665,
+        "word": "密室大逃脱大神版",
+        "onboard_time": 1689768091,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230351,
+        "num": 829131,
+        "word": "官方通报男子虐待婴儿事件",
+        "onboard_time": 1689766470,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190393,
+        "num": 826989,
+        "word": "陈芋汐女子10米跳台夺金",
+        "onboard_time": 1689761554,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1513460,
+        "num": 823136,
+        "word": "白敬亭魏大勋你们不要再打了",
+        "onboard_time": 1689768753,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 822122,
+        "num": 822122,
+        "word": "产后排便能有多可怕",
+        "onboard_time": 1689769055,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 747555,
+        "num": 747555,
+        "word": "电影热烈全国点映开启",
+        "onboard_time": 1689773256,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701199,
+        "num": 701199,
+        "word": "指套为鸭事件被开除的厨师怎么办",
+        "onboard_time": 1689766531,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496544,
+        "num": 496544,
+        "word": "花花被游客喊胖子愣了1秒钟",
+        "onboard_time": 1689772356,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459273,
+        "num": 459273,
+        "word": "耳东兔子关注了魏大勋",
+        "onboard_time": 1689769895,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311446,
+        "num": 455338,
+        "word": "宋慧乔黑色美甲",
+        "onboard_time": 1689767732,
+        "rank": 25,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 310149,
+        "num": 450111,
+        "word": "秀智礼服好闪",
+        "onboard_time": 1689768872,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295149,
+        "num": 444854,
+        "word": "孟宴臣另开一本高干文吧",
+        "onboard_time": 1689767252,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291658,
+        "num": 444417,
+        "word": "女子举报丈夫与公职人员生女",
+        "onboard_time": 1689763290,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217904,
+        "num": 438558,
+        "word": "4岁女孩被开水烫伤独自大哭1小时",
+        "onboard_time": 1689765029,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13876,
+        "num": 431837,
+        "word": "你平时有哪些环保好习惯",
+        "onboard_time": 1689773377,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429795,
+        "num": 429795,
+        "word": "浙江一对母女双双确诊卵巢癌晚期",
+        "onboard_time": 1689772655,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290334,
+        "num": 429517,
+        "word": "凡人修仙传",
+        "onboard_time": 1689769536,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281805,
+        "num": 422385,
+        "word": "刘雯井柏然相拥大片",
+        "onboard_time": 1689760413,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 270574,
+        "num": 417898,
+        "word": "TFBOYS演唱会开票时间",
+        "onboard_time": 1689752192,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235433,
+        "num": 409888,
+        "word": "英子骂得好超前",
+        "onboard_time": 1689760653,
+        "rank": 35,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 185993,
+        "num": 407349,
+        "word": "杨洋新剧蓝衣路透",
+        "onboard_time": 1689765513,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177879,
+        "num": 398905,
+        "word": "刘诗雯比赛",
+        "onboard_time": 1689768272,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160836,
+        "num": 393807,
+        "word": "典韦KPL",
+        "onboard_time": 1689767791,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158331,
+        "num": 386446,
+        "word": "关空调前后猫咪的反应",
+        "onboard_time": 1689772599,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 180035,
+        "num": 382566,
+        "word": "奥本海默确认引进",
+        "onboard_time": 1689765270,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169675,
+        "num": 377476,
+        "word": "王一博学跳惊鸿舞",
+        "onboard_time": 1689757354,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159205,
+        "num": 372676,
+        "word": "张踩铃替我说出了结婚的意义",
+        "onboard_time": 1689762631,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158217,
+        "num": 367794,
+        "word": "上海年轻人为啥都开始上夜校了",
+        "onboard_time": 1689761852,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148929,
+        "num": 360098,
+        "word": "魏大勋101舞台",
+        "onboard_time": 1689761431,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145134,
+        "num": 355970,
+        "word": "大量雌激素产品",
+        "onboard_time": 1689765090,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143211,
+        "num": 347504,
+        "word": "原来challenge起源是EXO",
+        "onboard_time": 1689764011,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138163,
+        "num": 341018,
+        "word": "韩国人进化掉睡眠的真相",
+        "onboard_time": 1689767851,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135692,
+        "num": 336671,
+        "word": "小钰道歉",
+        "onboard_time": 1689753512,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131006,
+        "num": 330820,
+        "word": "蒯曼",
+        "onboard_time": 1689773497,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#倡导尊重自然爱护自然的绿色价值观念#"
+    }
+  }
+}
