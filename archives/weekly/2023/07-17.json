@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689804971628,
+  "endTime": 1689806030150,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -7283,6 +7283,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 116400,
+      "num": 131820,
+      "word": "两意大利解说员歧视中国人被停职",
+      "onboard_time": 1689790336,
+      "rank": 49,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 115897,
       "num": 328911,
       "word": "放在整个香港租房界都是炸裂的",
@@ -7324,7 +7332,7 @@
     },
     {
       "raw_hot": 114224,
-      "num": 83439,
+      "num": 99473,
       "word": "王楚然哭戏",
       "onboard_time": 1689793395,
       "rank": 11,
@@ -7435,14 +7443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87185,
-      "num": 131820,
-      "word": "两意大利解说员歧视中国人被停职",
-      "onboard_time": 1689790336,
-      "rank": 49,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 86738,
       "num": 96632,
       "word": "导演周国栋因病去世",
@@ -7481,6 +7481,14 @@
       "onboard_time": 1689782134,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 80933,
+      "num": 101207,
+      "word": "王一博被大鹏翻跟头惊呆了",
+      "onboard_time": 1689802272,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 80574,
@@ -7547,14 +7555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54883,
-      "num": 54883,
-      "word": "王一博被大鹏翻跟头惊呆了",
-      "onboard_time": 1689802272,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 54764,
       "num": 802518,
       "word": "成都大运会开幕式有哪些亮点",
@@ -7611,12 +7611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43644,
+      "num": 99786,
+      "word": "沉浸式体验肖战片场的一天",
+      "onboard_time": 1689799091,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43412,
       "num": 43412,
       "word": "选高司令来演芭比的原因",
       "onboard_time": 1689616396,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 43251,
+      "num": 99674,
+      "word": "时代峰峻回应左航健康问题",
+      "onboard_time": 1689797713,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 43040,
@@ -7635,20 +7651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 41486,
-      "num": 41486,
-      "word": "沉浸式体验肖战片场的一天",
-      "onboard_time": 1689799091,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 36419,
-      "num": 42680,
-      "word": "时代峰峻回应左航健康问题",
-      "onboard_time": 1689797713,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 41481,
+      "num": 99540,
+      "word": "说真的赶海可以但别往滩涂去啊",
+      "onboard_time": 1689801191,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36383,
@@ -7665,14 +7673,6 @@
       "onboard_time": 1689617356,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 34806,
-      "num": 34806,
-      "word": "说真的赶海可以但别往滩涂去啊",
-      "onboard_time": 1689801191,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33633,
