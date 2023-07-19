@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689777220581,
+  "endTime": 1689779903399,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -91,6 +91,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2052638,
+      "num": 2052638,
+      "word": "黄渤感谢30多位妲己盛装前来",
+      "onboard_time": 1689774577,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2024991,
       "num": 2024991,
       "word": "何欢出车祸",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1911699,
-      "num": 892321,
+      "num": 1027925,
       "word": "女主播大面积裸露推荐隆胸产品被罚60万",
       "onboard_time": 1689767791,
       "rank": 12,
@@ -139,12 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1878066,
-      "num": 1878066,
-      "word": "黄渤感谢30多位妲己盛装前来",
-      "onboard_time": 1689774577,
+      "raw_hot": 1858087,
+      "num": 1858087,
+      "word": "魏大勋录综艺穿西装了",
+      "onboard_time": 1689777638,
       "rank": 1,
-      "category": "影视"
+      "category": "综艺"
     },
     {
       "raw_hot": 1818871,
@@ -323,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1125494,
+      "num": 1125494,
+      "word": "金晨 这几位哥哥真帅啊",
+      "onboard_time": 1689776801,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1117630,
       "num": 1117630,
       "word": "宋焰把自己啃过的骨头给许沁吃",
@@ -345,6 +361,14 @@
       "onboard_time": 1689760413,
       "rank": 5,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 998916,
+      "num": 998916,
+      "word": "孟宴臣扔钥匙极致十秒",
+      "onboard_time": 1689775961,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 994853,
@@ -491,14 +515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 834061,
-      "num": 663499,
-      "word": "孟宴臣扔钥匙极致十秒",
-      "onboard_time": 1689775961,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 830693,
       "num": 830693,
       "word": "陈芋汐全红婵又包揽冠亚军了",
@@ -595,12 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 725939,
+      "num": 725939,
+      "word": "黑马情侣娱乐圈版",
+      "onboard_time": 1689776501,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716780,
       "num": 716780,
       "word": "上海迪士尼 BilibiliWorld",
       "onboard_time": 1689742358,
       "rank": 15,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 682270,
+      "num": 682270,
+      "word": "孟宴臣给清洁工道歉",
+      "onboard_time": 1689778538,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 675047,
@@ -811,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 541253,
+      "num": 1088089,
+      "word": "花花被游客喊胖子愣了1秒钟",
+      "onboard_time": 1689772356,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532131,
       "num": 532131,
       "word": "真的不要过度的去省钱",
@@ -921,14 +961,6 @@
       "onboard_time": 1689738272,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496544,
-      "num": 496544,
-      "word": "花花被游客喊胖子愣了1秒钟",
-      "onboard_time": 1689772356,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495939,
@@ -1043,12 +1075,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 456922,
-      "num": 602812,
-      "word": "黑马情侣娱乐圈版",
-      "onboard_time": 1689776501,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 465560,
+      "num": 465560,
+      "word": "放假微信一天都没有消息",
+      "onboard_time": 1689778899,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 456259,
@@ -1123,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430365,
+      "num": 430365,
+      "word": "沈腾一出脚就笑了",
+      "onboard_time": 1689776377,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429838,
       "num": 429838,
       "word": "为什么经常收不到微信消息",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1689760232,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427604,
-      "num": 427604,
-      "word": "沈腾一出脚就笑了",
-      "onboard_time": 1689776377,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 426181,
@@ -1259,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 394602,
+      "num": 394602,
+      "word": "我的人间烟火",
+      "onboard_time": 1689778899,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392179,
       "num": 415092,
       "word": "爆料食堂吃出异物学生再发声",
@@ -1363,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371279,
+      "num": 371279,
+      "word": "SMTOWN全公司艺人一起奶新团",
+      "onboard_time": 1689779558,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369937,
       "num": 369937,
       "word": "发现书被盗版但一本没卖掉",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1689729211,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368566,
+      "num": 368566,
+      "word": "为什么车祸之后不要喝水",
+      "onboard_time": 1689778837,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 367452,
@@ -1456,6 +1512,14 @@
       "word": "黄薇审美",
       "onboard_time": 1689751772,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 341276,
+      "num": 423692,
+      "word": "魏大勋工作室花絮",
+      "onboard_time": 1689777037,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1595,16 +1659,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 294189,
-      "num": 425818,
-      "word": "金晨 这几位哥哥真帅啊",
-      "onboard_time": 1689776801,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293963,
-      "num": 426560,
+      "num": 569536,
       "word": "山东人人都怕的生物",
       "onboard_time": 1689774219,
       "rank": 32,
@@ -1689,6 +1745,14 @@
       "onboard_time": 1689768272,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274515,
+      "num": 425056,
+      "word": "最近想要谈恋爱和想前任了的人",
+      "onboard_time": 1689776618,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 274466,
@@ -1803,6 +1867,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 250090,
+      "num": 250090,
+      "word": "宋慧乔青龙奖大赏",
+      "onboard_time": 1689779675,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249820,
       "num": 249820,
       "word": "三伏天我在公司过冬",
@@ -1817,6 +1889,14 @@
       "onboard_time": 1689725970,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244807,
+      "num": 217339,
+      "word": "徐云流浪中国",
+      "onboard_time": 1689777578,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 244391,
@@ -1867,14 +1947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227165,
-      "num": 425056,
-      "word": "最近想要谈恋爱和想前任了的人",
-      "onboard_time": 1689776618,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 225895,
       "num": 206517,
       "word": "孟宴臣表演细节是魏大勋设计的",
@@ -1897,6 +1969,14 @@
       "onboard_time": 1689757772,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217791,
+      "num": 217791,
+      "word": "金木",
+      "onboard_time": 1689779260,
+      "rank": 39,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 216336,
@@ -1945,14 +2025,6 @@
       "onboard_time": 1689746970,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208062,
-      "num": 423692,
-      "word": "魏大勋工作室花絮",
-      "onboard_time": 1689777037,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 208031,
@@ -2027,6 +2099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195841,
+      "num": 213982,
+      "word": "第一次见鱼是这样睡觉的",
+      "onboard_time": 1689779800,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 195368,
       "num": 214158,
       "word": "误入e人堆的i人王一博",
@@ -2080,6 +2160,14 @@
       "word": "KPL",
       "onboard_time": 1689761554,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 187051,
+      "num": 213975,
+      "word": "小胖 下次必须拿捏你",
+      "onboard_time": 1689779800,
+      "rank": 48,
       "category": "游戏"
     },
     {
