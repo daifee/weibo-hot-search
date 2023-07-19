@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689779903399,
+  "endTime": 1689780852125,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047594,
+      "num": 1047594,
+      "word": "孟宴臣扔钥匙极致十秒",
+      "onboard_time": 1689775961,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1039845,
       "num": 1039845,
       "word": "黄山为什么不提倡冲方便面",
@@ -993,14 +1001,6 @@
       "onboard_time": 1689589830,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 998916,
-      "num": 998916,
-      "word": "孟宴臣扔钥匙极致十秒",
-      "onboard_time": 1689775961,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 998198,
@@ -1891,12 +1891,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 661289,
+      "num": 1371358,
+      "word": "花花被游客喊胖子愣了1秒钟",
+      "onboard_time": 1689772356,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660211,
       "num": 324339,
       "word": "榴莲价格跌至全年最低",
       "onboard_time": 1689604115,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 656102,
+      "num": 574261,
+      "word": "SMTOWN全公司艺人一起奶新团",
+      "onboard_time": 1689779558,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 653913,
@@ -1977,6 +1993,14 @@
       "onboard_time": 1689751052,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 630672,
+      "num": 630672,
+      "word": "金木",
+      "onboard_time": 1689779260,
+      "rank": 39,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 629314,
@@ -2275,6 +2299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 574179,
+      "num": 574179,
+      "word": "我的人间烟火收视创新高",
+      "onboard_time": 1689779435,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571477,
       "num": 571477,
       "word": "食堂异物高度可能为鸭眼球巩膜",
@@ -2457,14 +2489,6 @@
       "onboard_time": 1689603632,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 541253,
-      "num": 1088089,
-      "word": "花花被游客喊胖子愣了1秒钟",
-      "onboard_time": 1689772356,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537575,
@@ -2673,6 +2697,14 @@
       "onboard_time": 1689735988,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 501738,
+      "num": 501738,
+      "word": "放假微信一天都没有消息",
+      "onboard_time": 1689778899,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 501607,
@@ -2953,14 +2985,6 @@
       "onboard_time": 1689736111,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 465560,
-      "num": 465560,
-      "word": "放假微信一天都没有消息",
-      "onboard_time": 1689778899,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 464941,
@@ -3275,6 +3299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423816,
+      "num": 423816,
+      "word": "宋慧乔青龙奖大赏",
+      "onboard_time": 1689779675,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423790,
       "num": 458237,
       "word": "我们的panda",
@@ -3457,6 +3489,14 @@
       "onboard_time": 1689688596,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403149,
+      "num": 403149,
+      "word": "为什么车祸之后不要喝水",
+      "onboard_time": 1689778837,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 400969,
@@ -3699,6 +3739,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 375729,
+      "num": 375729,
+      "word": "小胖 下次必须拿捏你",
+      "onboard_time": 1689779800,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 375490,
       "num": 375490,
       "word": "中国女排3人入围世联赛最佳阵容",
@@ -3731,14 +3779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371279,
-      "num": 371279,
-      "word": "SMTOWN全公司艺人一起奶新团",
-      "onboard_time": 1689779558,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 371117,
       "num": 371117,
       "word": "为什么日漫角色长得不像日本人",
@@ -3769,14 +3809,6 @@
       "onboard_time": 1689729211,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 368566,
-      "num": 368566,
-      "word": "为什么车祸之后不要喝水",
-      "onboard_time": 1689778837,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 368266,
@@ -4931,6 +4963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270777,
+      "num": 316222,
+      "word": "第一次见鱼是这样睡觉的",
+      "onboard_time": 1689779800,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 270626,
       "num": 270626,
       "word": "杭州的暴雨刚落地就烫成了烟雾",
@@ -5123,6 +5163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255278,
+      "num": 315175,
+      "word": "能不能听听孟爸付妈的话啊",
+      "onboard_time": 1689780574,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254940,
       "num": 254940,
       "word": "手机品牌为何扎堆绿色",
@@ -5219,14 +5267,6 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 250090,
-      "num": 250090,
-      "word": "宋慧乔青龙奖大赏",
-      "onboard_time": 1689779675,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249820,
       "num": 249820,
       "word": "三伏天我在公司过冬",
@@ -5292,7 +5332,7 @@
     },
     {
       "raw_hot": 244807,
-      "num": 217339,
+      "num": 314758,
       "word": "徐云流浪中国",
       "onboard_time": 1689777578,
       "rank": 40,
@@ -5691,14 +5731,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 217791,
-      "num": 217791,
-      "word": "金木",
-      "onboard_time": 1689779260,
-      "rank": 39,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 217588,
       "num": 217588,
       "word": "迪丽热巴读仲夏夜之梦",
@@ -5921,6 +5953,14 @@
       "onboard_time": 1689517175,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209370,
+      "num": 314053,
+      "word": "拜把子拜了60个小孩",
+      "onboard_time": 1689780457,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 209132,
@@ -6211,14 +6251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195841,
-      "num": 213982,
-      "word": "第一次见鱼是这样睡觉的",
-      "onboard_time": 1689779800,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 195775,
       "num": 195775,
       "word": "中学回应收新生4千元校服费",
@@ -6344,14 +6376,6 @@
       "word": "KPL",
       "onboard_time": 1689761554,
       "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 187051,
-      "num": 213975,
-      "word": "小胖 下次必须拿捏你",
-      "onboard_time": 1689779800,
-      "rank": 48,
       "category": "游戏"
     },
     {
