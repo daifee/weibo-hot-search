@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689791676010,
+  "endTime": 1689794044499,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114224,
+      "num": 83439,
+      "word": "王楚然哭戏",
+      "onboard_time": 1689793395,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 88864,
       "num": 132335,
       "word": "王鹤棣赞助大奉打更人组服",
@@ -459,20 +467,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 68333,
+      "num": 131820,
+      "word": "两意大利解说员歧视中国人被停职",
+      "onboard_time": 1689790336,
+      "rank": 49,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 38381,
       "num": 106581,
       "word": "密室大逃脱大神版",
       "onboard_time": 1689768091,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28525,
-      "num": 131820,
-      "word": "两意大利解说员歧视中国人被停职",
-      "onboard_time": 1689790336,
-      "rank": 49,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 18357,
