@@ -1,0 +1,411 @@
+{
+  "startTime": 1689783751575,
+  "endTime": 1689783751575,
+  "band_list": [
+    {
+      "raw_hot": 8049620,
+      "num": 8049620,
+      "word": "梁朝伟",
+      "onboard_time": 1689780994,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1329637,
+      "num": 1329637,
+      "word": "方川导演 孟宴臣",
+      "onboard_time": 1689772835,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1191389,
+      "num": 292752,
+      "word": "魏大勋录综艺穿西装了",
+      "onboard_time": 1689777638,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1129706,
+      "num": 520800,
+      "word": "女主播大面积裸露推荐隆胸产品被罚60万",
+      "onboard_time": 1689767791,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 981399,
+      "num": 517609,
+      "word": "北京广告协会删除对蔡某某的风险把控提示",
+      "onboard_time": 1689769233,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 830917,
+      "num": 830917,
+      "word": "张雨绮初中因为颜值被全校围观",
+      "onboard_time": 1689764311,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 806907,
+      "num": 806907,
+      "word": "我的人间烟火收视创新高",
+      "onboard_time": 1689779435,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 705792,
+      "num": 669658,
+      "word": "原来许沁的作用是警示大家",
+      "onboard_time": 1689781471,
+      "rank": 6,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 685503,
+      "num": 685503,
+      "word": "金木",
+      "onboard_time": 1689779260,
+      "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 572317,
+      "num": 515660,
+      "word": "孟宴臣扔钥匙极致十秒",
+      "onboard_time": 1689775961,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 530474,
+      "num": 399136,
+      "word": "白敬亭魏大勋你们不要再打了",
+      "onboard_time": 1689768753,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 526237,
+      "num": 526237,
+      "word": "韩国整容中心门口的鼻子墙",
+      "onboard_time": 1689768634,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 515181,
+      "num": 515181,
+      "word": "金晨 这几位哥哥真帅啊",
+      "onboard_time": 1689776801,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 469121,
+      "num": 399108,
+      "word": "黄渤感谢30多位妲己盛装前来",
+      "onboard_time": 1689774577,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 454272,
+      "num": 454272,
+      "word": "美总统候选人称美正收集中国人DNA",
+      "onboard_time": 1689780934,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 448422,
+      "num": 351873,
+      "word": "成功承认出轨",
+      "onboard_time": 1689775539,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 432450,
+      "num": 432450,
+      "word": "SMTOWN全公司艺人一起奶新团",
+      "onboard_time": 1689779558,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 431272,
+      "num": 525495,
+      "word": "花花被游客喊胖子愣了1秒钟",
+      "onboard_time": 1689772356,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415188,
+      "num": 415188,
+      "word": "能不能听听孟爸付妈的话啊",
+      "onboard_time": 1689780574,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 403906,
+      "num": 403906,
+      "word": "小胖 下次必须拿捏你",
+      "onboard_time": 1689779800,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 403363,
+      "num": 403363,
+      "word": "记者解剖鸭头剥出巩膜",
+      "onboard_time": 1689781712,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399078,
+      "num": 399078,
+      "word": "产后排便能有多可怕",
+      "onboard_time": 1689769055,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 396272,
+      "num": 396272,
+      "word": "放假微信一天都没有消息",
+      "onboard_time": 1689778899,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 391747,
+      "num": 286692,
+      "word": "孟宴臣哭的我心都碎了",
+      "onboard_time": 1689780874,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 370805,
+      "num": 399137,
+      "word": "裴秀智青龙视后",
+      "onboard_time": 1689775476,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 354715,
+      "num": 354715,
+      "word": "韩国幽灵婴儿已确认249人死亡",
+      "onboard_time": 1689751411,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340458,
+      "num": 340458,
+      "word": "宋慧乔青龙奖大赏",
+      "onboard_time": 1689779675,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 331506,
+      "num": 331506,
+      "word": "黑马情侣娱乐圈版",
+      "onboard_time": 1689776501,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303704,
+      "num": 303704,
+      "word": "为什么车祸之后不要喝水",
+      "onboard_time": 1689778837,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 295534,
+      "num": 295534,
+      "word": "第一次见鱼是这样睡觉的",
+      "onboard_time": 1689779800,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 286757,
+      "num": 286757,
+      "word": "浙江一对母女双双确诊卵巢癌晚期",
+      "onboard_time": 1689772655,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248489,
+      "num": 286756,
+      "word": "活死人 网络村晚",
+      "onboard_time": 1689774758,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229120,
+      "num": 286747,
+      "word": "林允儿的背",
+      "onboard_time": 1689772233,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 227992,
+      "num": 286740,
+      "word": "肖战回复韩栋",
+      "onboard_time": 1689769713,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218945,
+      "num": 286729,
+      "word": "真的不要过度的去省钱",
+      "onboard_time": 1689774097,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 214609,
+      "num": 286727,
+      "word": "沈腾一出脚就笑了",
+      "onboard_time": 1689776377,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192588,
+      "num": 523951,
+      "word": "上海年轻人为啥都开始上夜校了",
+      "onboard_time": 1689761852,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 192465,
+      "num": 286717,
+      "word": "山东人人都怕的生物",
+      "onboard_time": 1689774219,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 192417,
+      "num": 286708,
+      "word": "耳东兔子关注了魏大勋",
+      "onboard_time": 1689769895,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182143,
+      "num": 286702,
+      "word": "拜把子拜了60个小孩",
+      "onboard_time": 1689780457,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 179905,
+      "num": 286699,
+      "word": "海恩贤圭同框",
+      "onboard_time": 1689783631,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 178057,
+      "num": 286683,
+      "word": "左航被救护车接走",
+      "onboard_time": 1689769055,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171966,
+      "num": 286678,
+      "word": "刘雅瑟跳入画江南全靠演技",
+      "onboard_time": 1689782015,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168278,
+      "num": 286669,
+      "word": "欢颜",
+      "onboard_time": 1689783213,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 158644,
+      "num": 286660,
+      "word": "最近想要谈恋爱和想前任了的人",
+      "onboard_time": 1689776618,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 152392,
+      "num": 286651,
+      "word": "指套为鸭事件被开除的厨师怎么办",
+      "onboard_time": 1689766531,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133703,
+      "num": 286645,
+      "word": "四川大学回应网传视频",
+      "onboard_time": 1689762932,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 119256,
+      "num": 286643,
+      "word": "杭州暴雨",
+      "onboard_time": 1689768091,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82791,
+      "num": 286635,
+      "word": "千金感侧分低盘发",
+      "onboard_time": 1689782134,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 18357,
+      "num": 1010214,
+      "word": "新时代中国调研行长江篇",
+      "onboard_time": 1689773137,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中华体育精神颂#"
+    }
+  ]
+}

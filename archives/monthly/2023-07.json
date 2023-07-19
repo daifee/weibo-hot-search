@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689780852125,
+  "endTime": 1689783751575,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -193,6 +193,14 @@
       "onboard_time": 1688637342,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8049620,
+      "num": 8049620,
+      "word": "梁朝伟",
+      "onboard_time": 1689780994,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 7958830,
@@ -9723,6 +9731,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 806907,
+      "num": 806907,
+      "word": "我的人间烟火收视创新高",
+      "onboard_time": 1689779435,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 806660,
       "num": 806660,
       "word": "读了一天博了",
@@ -11451,6 +11467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705792,
+      "num": 669658,
+      "word": "原来许沁的作用是警示大家",
+      "onboard_time": 1689781471,
+      "rank": 6,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 704801,
       "num": 704801,
       "word": "茶百道未定联名",
@@ -11921,6 +11945,14 @@
       "onboard_time": 1689309040,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685503,
+      "num": 685503,
+      "word": "金木",
+      "onboard_time": 1689779260,
+      "rank": 39,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 684945,
@@ -13377,14 +13409,6 @@
       "onboard_time": 1688464603,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 630672,
-      "num": 630672,
-      "word": "金木",
-      "onboard_time": 1689779260,
-      "rank": 39,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 630530,
@@ -14945,14 +14969,6 @@
       "onboard_time": 1689128792,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 574179,
-      "num": 574179,
-      "word": "我的人间烟火收视创新高",
-      "onboard_time": 1689779435,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 574124,
@@ -19323,6 +19339,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 454272,
+      "num": 454272,
+      "word": "美总统候选人称美正收集中国人DNA",
+      "onboard_time": 1689780934,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 454268,
       "num": 454268,
       "word": "姚译添对郑恺的嘱咐",
@@ -21339,6 +21363,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 415188,
+      "num": 415188,
+      "word": "能不能听听孟爸付妈的话啊",
+      "onboard_time": 1689780574,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415017,
       "num": 343753,
       "word": "朴彩英发量回来了",
@@ -21803,12 +21835,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403906,
+      "num": 403906,
+      "word": "小胖 下次必须拿捏你",
+      "onboard_time": 1689779800,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 403666,
       "num": 403666,
       "word": "内娱圆脸女明星",
       "onboard_time": 1688381625,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 403363,
+      "num": 403363,
+      "word": "记者解剖鸭头剥出巩膜",
+      "onboard_time": 1689781712,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403351,
@@ -22489,6 +22537,14 @@
       "onboard_time": 1689734551,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 391747,
+      "num": 286692,
+      "word": "孟宴臣哭的我心都碎了",
+      "onboard_time": 1689780874,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 391594,
@@ -23408,14 +23464,6 @@
       "word": "紫幻的命",
       "onboard_time": 1688742280,
       "rank": 28,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 375729,
-      "num": 375729,
-      "word": "小胖 下次必须拿捏你",
-      "onboard_time": 1689779800,
-      "rank": 48,
       "category": "游戏"
     },
     {
@@ -28915,6 +28963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295534,
+      "num": 316222,
+      "word": "第一次见鱼是这样睡觉的",
+      "onboard_time": 1689779800,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 295516,
       "num": 295516,
       "word": "死神2豆瓣开分9.5",
@@ -31051,14 +31107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270777,
-      "num": 316222,
-      "word": "第一次见鱼是这样睡觉的",
-      "onboard_time": 1689779800,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 270684,
       "num": 270684,
       "word": "人的朋友圈不断迭代是正常的",
@@ -32401,14 +32449,6 @@
       "onboard_time": 1688788471,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 255278,
-      "num": 315175,
-      "word": "能不能听听孟爸付妈的话啊",
-      "onboard_time": 1689780574,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 255227,
@@ -40851,6 +40891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179905,
+      "num": 286699,
+      "word": "海恩贤圭同框",
+      "onboard_time": 1689783631,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179831,
       "num": 179831,
       "word": "近距离观察日本对虾产卵",
@@ -41665,6 +41713,14 @@
       "onboard_time": 1688869171,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 171966,
+      "num": 286678,
+      "word": "刘雅瑟跳入画江南全靠演技",
+      "onboard_time": 1689782015,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 171872,
@@ -45329,6 +45385,14 @@
       "onboard_time": 1689168818,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 82791,
+      "num": 286635,
+      "word": "千金感侧分低盘发",
+      "onboard_time": 1689782134,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 82724,
