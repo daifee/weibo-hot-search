@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/20 06:33:50
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/20 07:16:40
 </p>
 </blockquote>
 <p>
@@ -3279,6 +3279,12 @@ EDG起诉Scout（热度：1401485）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E6%94%B6%E8%A7%86%E5%88%9B%E6%96%B0%E9%AB%98%23" target="weibo">
+我的人间烟火收视创新高（热度：1370702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E9%9D%9E%E7%9F%A5%E9%81%93%E6%9D%8E%E6%9C%A8%E5%AD%90%E6%97%A0%E8%AE%BA%E5%A6%82%E4%BD%95%E9%83%BD%E6%B4%BB%E4%B8%8D%E4%BA%86%23" target="weibo">
 何非知道李木子无论如何都活不了（热度：1368367）
 </a>
@@ -6005,12 +6011,6 @@ Cat（热度：923176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%B7%E5%A5%B8%E5%A4%9A%E5%A5%B3%E5%AD%90%E5%90%8E%E5%A4%9A%E6%AC%A1%E6%9F%A5%E8%AF%A2%E6%B3%95%E5%BE%8B%E5%90%8E%E6%9E%9C%23" target="weibo">
 男子迷奸多女子后多次查询法律后果（热度：914835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%88%86%E6%96%99%E5%B2%B3%E6%AF%8D%E6%80%BB%E5%92%8C%E5%A6%BB%E5%AD%90%E4%B8%80%E8%B5%B7%E7%9D%A1%E4%B8%BB%E5%8D%A7%23" target="weibo">
-男子爆料岳母总和妻子一起睡主卧（热度：914805）
 </a>
 </li>
 
