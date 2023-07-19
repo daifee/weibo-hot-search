@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689766406234,
+  "endTime": 1689770053755,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -121,6 +121,14 @@
       "onboard_time": 1689550045,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2680399,
+      "num": 631326,
+      "word": "张雨绮初中因为颜值被全校围观",
+      "onboard_time": 1689764311,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2608686,
@@ -323,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1769551,
+      "num": 619471,
+      "word": "左航被救护车接走",
+      "onboard_time": 1689769055,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1766067,
       "num": 1766067,
       "word": "杨澄让小三怀孕了",
@@ -377,6 +393,14 @@
       "onboard_time": 1689741996,
       "rank": 0,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1606164,
+      "num": 1606164,
+      "word": "指套为鸭事件被开除的厨师怎么办",
+      "onboard_time": 1689766531,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1598709,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1296586,
+      "num": 479688,
+      "word": "白敬亭魏大勋你们不要再打了",
+      "onboard_time": 1689768753,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1285275,
       "num": 533167,
       "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
@@ -640,6 +672,14 @@
       "word": "郭启刚回国投案",
       "onboard_time": 1689737612,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188386,
+      "num": 477948,
+      "word": "女主播大面积裸露推荐隆胸产品被罚60万",
+      "onboard_time": 1689767791,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -779,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1067943,
-      "num": 353086,
-      "word": "张雨绮初中因为颜值被全校围观",
-      "onboard_time": 1689764311,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1062385,
       "num": 1062385,
       "word": "中国女排vs土耳其女排",
@@ -921,6 +953,14 @@
       "onboard_time": 1689570153,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 978261,
+      "num": 475775,
+      "word": "韩国整容中心门口的鼻子墙",
+      "onboard_time": 1689768634,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 970724,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1689567456,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 864103,
+      "num": 592051,
+      "word": "北京广告协会删除对蔡某某的风险把控提示",
+      "onboard_time": 1689769233,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 857782,
@@ -1627,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 678682,
+      "num": 471833,
+      "word": "肖战回复韩栋",
+      "onboard_time": 1689769713,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 677819,
       "num": 677819,
       "word": "英雄联盟",
@@ -2060,7 +2116,7 @@
     },
     {
       "raw_hot": 576683,
-      "num": 247442,
+      "num": 357362,
       "word": "大量雌激素产品",
       "onboard_time": 1689765090,
       "rank": 38,
@@ -2121,6 +2177,14 @@
       "onboard_time": 1689512733,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 562433,
+      "num": 562433,
+      "word": "孙颖莎 刘炜珊",
+      "onboard_time": 1689768393,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 562343,
@@ -2352,6 +2416,14 @@
       "word": "玉骨遥点映礼没有王楚然",
       "onboard_time": 1689607831,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 518607,
+      "num": 518607,
+      "word": "杨洋新剧蓝衣路透",
+      "onboard_time": 1689765513,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -2651,6 +2723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470222,
+      "num": 470222,
+      "word": "官方通报男子虐待婴儿事件",
+      "onboard_time": 1689766470,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468527,
       "num": 468527,
       "word": "女子海滩游玩捡到带针头针管",
@@ -2768,6 +2848,14 @@
       "word": "杨紫长相思或将7月24日播出",
       "onboard_time": 1689758734,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 453393,
+      "num": 453393,
+      "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
+      "onboard_time": 1689764670,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -3123,6 +3211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405491,
+      "num": 371403,
+      "word": "青龙电视剧大赏",
+      "onboard_time": 1689768571,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405356,
       "num": 349067,
       "word": "张学友15分钟封神现场",
@@ -3137,6 +3233,14 @@
       "onboard_time": 1689694296,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404173,
+      "num": 279119,
+      "word": "产后排便能有多可怕",
+      "onboard_time": 1689769055,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 403255,
@@ -3243,6 +3347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394972,
+      "num": 394972,
+      "word": "典韦KPL",
+      "onboard_time": 1689767791,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 393947,
       "num": 288337,
       "word": "本宫带着博士学位回来了",
@@ -3296,6 +3408,14 @@
       "word": "孟宴臣的西装内衬也是蝴蝶",
       "onboard_time": 1689689616,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383527,
+      "num": 383527,
+      "word": "宋焰许沁同居了",
+      "onboard_time": 1689768993,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -3353,6 +3473,14 @@
       "onboard_time": 1689678271,
       "rank": 35,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 377467,
+      "num": 343452,
+      "word": "宋慧乔黑色美甲",
+      "onboard_time": 1689767732,
+      "rank": 23,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 375490,
@@ -3465,6 +3593,14 @@
       "onboard_time": 1689569553,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 363506,
+      "num": 296585,
+      "word": "孟宴臣另开一本高干文吧",
+      "onboard_time": 1689767252,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 363338,
@@ -3723,14 +3859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 343262,
-      "num": 331561,
-      "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
-      "onboard_time": 1689764670,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 343064,
       "num": 343064,
       "word": "大奉打更人",
@@ -3851,6 +3979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 333009,
+      "num": 293893,
+      "word": "秀智礼服好闪",
+      "onboard_time": 1689768872,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331159,
       "num": 331159,
       "word": "曾黎金丝眼镜",
@@ -3897,14 +4033,6 @@
       "onboard_time": 1689581492,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 323468,
-      "num": 323468,
-      "word": "杨洋新剧蓝衣路透",
-      "onboard_time": 1689765513,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 323245,
@@ -4235,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294829,
+      "num": 258961,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1689768091,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292788,
       "num": 292788,
       "word": "结账时发现买到贵货怎么办",
@@ -4411,6 +4547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280841,
+      "num": 280841,
+      "word": "杭州暴雨",
+      "onboard_time": 1689768091,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280653,
       "num": 280653,
       "word": "2女子江边露营点餐外卖员找到崩溃",
@@ -4449,6 +4593,14 @@
       "onboard_time": 1689675813,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279233,
+      "num": 279233,
+      "word": "刘诗雯比赛",
+      "onboard_time": 1689768272,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 279051,
@@ -5491,6 +5643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209258,
+      "num": 204622,
+      "word": "凡人修仙传",
+      "onboard_time": 1689769536,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209132,
       "num": 209132,
       "word": "EXO新团综要来了",
@@ -5571,6 +5731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204624,
+      "num": 204624,
+      "word": "TTG战胜狼队",
+      "onboard_time": 1689767791,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204254,
       "num": 534428,
       "word": "LPL",
@@ -5641,6 +5809,14 @@
       "onboard_time": 1689665012,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201724,
+      "num": 204607,
+      "word": "韩国人进化掉睡眠的真相",
+      "onboard_time": 1689767851,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 201604,
@@ -6009,6 +6185,14 @@
       "onboard_time": 1689750030,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179666,
+      "num": 204569,
+      "word": "耳东兔子关注了魏大勋",
+      "onboard_time": 1689769895,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 178746,

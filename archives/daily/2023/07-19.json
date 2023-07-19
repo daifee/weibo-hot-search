@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689766406234,
+  "endTime": 1689770053755,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -33,6 +33,14 @@
       "onboard_time": 1689743914,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2680399,
+      "num": 631326,
+      "word": "张雨绮初中因为颜值被全校围观",
+      "onboard_time": 1689764311,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2591149,
@@ -99,6 +107,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1769551,
+      "num": 619471,
+      "word": "左航被救护车接走",
+      "onboard_time": 1689769055,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1683580,
       "num": 716466,
       "word": "杨威否认与杨云离婚",
@@ -113,6 +129,22 @@
       "onboard_time": 1689741996,
       "rank": 0,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1606164,
+      "num": 1606164,
+      "word": "指套为鸭事件被开除的厨师怎么办",
+      "onboard_time": 1689766531,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1296586,
+      "num": 479688,
+      "word": "白敬亭魏大勋你们不要再打了",
+      "onboard_time": 1689768753,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1275935,
@@ -160,6 +192,14 @@
       "word": "郭启刚回国投案",
       "onboard_time": 1689737612,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188386,
+      "num": 477948,
+      "word": "女主播大面积裸露推荐隆胸产品被罚60万",
+      "onboard_time": 1689767791,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -219,14 +259,6 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 1067943,
-      "num": 353086,
-      "word": "张雨绮初中因为颜值被全校围观",
-      "onboard_time": 1689764311,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1039845,
       "num": 1039845,
       "word": "黄山为什么不提倡冲方便面",
@@ -257,6 +289,14 @@
       "onboard_time": 1689692196,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 978261,
+      "num": 475775,
+      "word": "韩国整容中心门口的鼻子墙",
+      "onboard_time": 1689768634,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 970724,
@@ -337,6 +377,14 @@
       "onboard_time": 1689733829,
       "rank": 6,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 864103,
+      "num": 592051,
+      "word": "北京广告协会删除对蔡某某的风险把控提示",
+      "onboard_time": 1689769233,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 855821,
@@ -459,6 +507,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 678682,
+      "num": 471833,
+      "word": "肖战回复韩栋",
+      "onboard_time": 1689769713,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675047,
       "num": 675047,
       "word": "30岁没结婚但过得快乐也是一种成功",
@@ -564,7 +620,7 @@
     },
     {
       "raw_hot": 576683,
-      "num": 247442,
+      "num": 357362,
       "word": "大量雌激素产品",
       "onboard_time": 1689765090,
       "rank": 38,
@@ -593,6 +649,14 @@
       "onboard_time": 1689737071,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562433,
+      "num": 562433,
+      "word": "孙颖莎 刘炜珊",
+      "onboard_time": 1689768393,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 562316,
@@ -657,6 +721,14 @@
       "onboard_time": 1689742837,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 518607,
+      "num": 518607,
+      "word": "杨洋新剧蓝衣路透",
+      "onboard_time": 1689765513,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 508879,
@@ -779,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470222,
+      "num": 470222,
+      "word": "官方通报男子虐待婴儿事件",
+      "onboard_time": 1689766470,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465660,
       "num": 415565,
       "word": "看到谢允救时影",
@@ -816,6 +896,14 @@
       "word": "杨紫长相思或将7月24日播出",
       "onboard_time": 1689758734,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 453393,
+      "num": 453393,
+      "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
+      "onboard_time": 1689764670,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -923,6 +1011,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 405491,
+      "num": 371403,
+      "word": "青龙电视剧大赏",
+      "onboard_time": 1689768571,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405356,
       "num": 349067,
       "word": "张学友15分钟封神现场",
@@ -937,6 +1033,14 @@
       "onboard_time": 1689694296,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404173,
+      "num": 279119,
+      "word": "产后排便能有多可怕",
+      "onboard_time": 1689769055,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 400969,
@@ -961,6 +1065,14 @@
       "onboard_time": 1689734010,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 394972,
+      "num": 394972,
+      "word": "典韦KPL",
+      "onboard_time": 1689767791,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 392179,
@@ -1011,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 383527,
+      "num": 383527,
+      "word": "宋焰许沁同居了",
+      "onboard_time": 1689768993,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383317,
       "num": 383317,
       "word": "李木戈你是不是当成两部剧拍的",
@@ -1051,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377467,
+      "num": 343452,
+      "word": "宋慧乔黑色美甲",
+      "onboard_time": 1689767732,
+      "rank": 23,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 369937,
       "num": 369937,
       "word": "发现书被盗版但一本没卖掉",
@@ -1081,6 +1209,14 @@
       "onboard_time": 1689754652,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 363506,
+      "num": 296585,
+      "word": "孟宴臣另开一本高干文吧",
+      "onboard_time": 1689767252,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 358231,
@@ -1139,14 +1275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 343262,
-      "num": 331561,
-      "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
-      "onboard_time": 1689764670,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 343020,
       "num": 343020,
       "word": "黄薇审美",
@@ -1179,20 +1307,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 333009,
+      "num": 293893,
+      "word": "秀智礼服好闪",
+      "onboard_time": 1689768872,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325991,
       "num": 325991,
       "word": "李荣浩青岛演唱会抢票",
       "onboard_time": 1689747810,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 323468,
-      "num": 323468,
-      "word": "杨洋新剧蓝衣路透",
-      "onboard_time": 1689765513,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 320701,
@@ -1291,6 +1419,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 294829,
+      "num": 258961,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1689768091,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292788,
       "num": 292788,
       "word": "结账时发现买到贵货怎么办",
@@ -1339,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280841,
+      "num": 280841,
+      "word": "杭州暴雨",
+      "onboard_time": 1689768091,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280798,
       "num": 280798,
       "word": "15岁少女被困缅甸受虐痛哭求救",
@@ -1361,6 +1505,14 @@
       "onboard_time": 1689759572,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279233,
+      "num": 279233,
+      "word": "刘诗雯比赛",
+      "onboard_time": 1689768272,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 274466,
@@ -1595,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209258,
+      "num": 204622,
+      "word": "凡人修仙传",
+      "onboard_time": 1689769536,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208031,
       "num": 208031,
       "word": "全红婵又跳出满分了",
@@ -1635,11 +1795,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 204624,
+      "num": 204624,
+      "word": "TTG战胜狼队",
+      "onboard_time": 1689767791,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204240,
       "num": 414728,
       "word": "原来油纸伞不可以带上地铁",
       "onboard_time": 1689726571,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 201724,
+      "num": 204607,
+      "word": "韩国人进化掉睡眠的真相",
+      "onboard_time": 1689767851,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -1737,6 +1913,14 @@
       "onboard_time": 1689750030,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179666,
+      "num": 204569,
+      "word": "耳东兔子关注了魏大勋",
+      "onboard_time": 1689769895,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 178774,
