@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689758215645,
+  "endTime": 1689759243879,
   "band_list": [
     {
       "raw_hot": 4831101,
@@ -649,6 +649,22 @@
       "onboard_time": 1689598774,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1150832,
+      "num": 1150832,
+      "word": "怀疑杨洋捡到了张颂文的错题本",
+      "onboard_time": 1689755972,
+      "rank": 4,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 1137382,
+      "num": 279843,
+      "word": "dirty talk",
+      "onboard_time": 1689757293,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1133832,
@@ -1315,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 764705,
-      "num": 764705,
-      "word": "怀疑杨洋捡到了张颂文的错题本",
-      "onboard_time": 1689755972,
-      "rank": 4,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 758205,
       "num": 758205,
       "word": "大陆配偶亲属可经小三通赴台探亲",
@@ -1779,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609222,
+      "num": 609222,
+      "word": "王一博学跳惊鸿舞",
+      "onboard_time": 1689757354,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 608970,
       "num": 608970,
       "word": "郎君不如意官宣定档",
@@ -1843,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 592384,
+      "num": 285211,
+      "word": "魏大勋七天涨粉67万多",
+      "onboard_time": 1689757354,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591596,
       "num": 283708,
       "word": "恋爱七年分手的感觉",
@@ -1872,6 +1896,14 @@
       "word": "欢颜平均四集死一个影帝级别的老头",
       "onboard_time": 1689684635,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 583682,
+      "num": 583682,
+      "word": "李木戈谈选角没提魏大勋",
+      "onboard_time": 1689756395,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -2139,12 +2171,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 530205,
-      "num": 279843,
-      "word": "dirty talk",
-      "onboard_time": 1689757293,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 528519,
+      "num": 528519,
+      "word": "古偶大婚必大虐",
+      "onboard_time": 1689757592,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 528281,
@@ -2177,14 +2209,6 @@
       "onboard_time": 1689541752,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522243,
-      "num": 522243,
-      "word": "王一博学跳惊鸿舞",
-      "onboard_time": 1689757354,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 521609,
@@ -2257,14 +2281,6 @@
       "onboard_time": 1689740976,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 507714,
-      "num": 507714,
-      "word": "李木戈谈选角没提魏大勋",
-      "onboard_time": 1689756395,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 505537,
@@ -2715,14 +2731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437402,
-      "num": 437402,
-      "word": "古偶大婚必大虐",
-      "onboard_time": 1689757592,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 436822,
       "num": 350528,
       "word": "男子深夜回家发现小区门禁在自己输密码",
@@ -3131,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381006,
+      "num": 381006,
+      "word": "南京暴雨",
+      "onboard_time": 1689756813,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380966,
       "num": 318641,
       "word": "月薪一万在福建够花吗",
@@ -3243,6 +3259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 367870,
+      "num": 367870,
+      "word": "杨紫长相思或将7月24日播出",
+      "onboard_time": 1689758734,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 367452,
       "num": 367452,
       "word": "Doinb有比赛打了",
@@ -3257,6 +3281,14 @@
       "onboard_time": 1689639151,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 364454,
+      "num": 364454,
+      "word": "成年后养的第一个孩子是自己",
+      "onboard_time": 1689754652,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 364022,
@@ -3489,14 +3521,6 @@
       "onboard_time": 1689668133,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 344899,
-      "num": 344899,
-      "word": "成年后养的第一个孩子是自己",
-      "onboard_time": 1689754652,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 343064,
@@ -3857,14 +3881,6 @@
       "onboard_time": 1689672396,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 307529,
-      "num": 307529,
-      "word": "南京暴雨",
-      "onboard_time": 1689756813,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307362,
@@ -4323,6 +4339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266328,
+      "num": 266328,
+      "word": "TTG对战狼队",
+      "onboard_time": 1689759213,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264717,
       "num": 313343,
       "word": "克里米亚大桥紧急事件致2死1伤",
@@ -4385,14 +4409,6 @@
       "onboard_time": 1689579210,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 260662,
-      "num": 260662,
-      "word": "魏大勋七天涨粉67万多",
-      "onboard_time": 1689757354,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 258777,
@@ -4868,7 +4884,7 @@
     },
     {
       "raw_hot": 225895,
-      "num": 206226,
+      "num": 206517,
       "word": "孟宴臣表演细节是魏大勋设计的",
       "onboard_time": 1689756994,
       "rank": 36,
@@ -4915,6 +4931,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223664,
+      "num": 223664,
+      "word": "电影热烈北京首映礼",
+      "onboard_time": 1689758794,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 223631,
+      "num": 223631,
+      "word": "我的人间烟火工作人员谈魏大勋爆火",
+      "onboard_time": 1689757772,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222927,
       "num": 222927,
       "word": "易烊千玺帮我扛下了所有压力",
@@ -4955,6 +4987,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 219256,
+      "num": 219256,
+      "word": "Rookie",
+      "onboard_time": 1689758913,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218973,
       "num": 238539,
       "word": "分手别把电饭煲带走行不行",
@@ -4993,14 +5033,6 @@
       "onboard_time": 1689595291,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216663,
-      "num": 204479,
-      "word": "我的人间烟火工作人员谈魏大勋爆火",
-      "onboard_time": 1689757772,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 216588,
@@ -5641,6 +5673,14 @@
       "onboard_time": 1689586411,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183506,
+      "num": 203497,
+      "word": "朴山多拉因为权志龙被社长收走手机",
+      "onboard_time": 1689759031,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 182623,
@@ -6459,6 +6499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84076,
+      "num": 194221,
+      "word": "米哈游动画公司",
+      "onboard_time": 1689758494,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80574,
       "num": 102225,
       "word": "这个学校不能没有李主任",
@@ -6548,7 +6596,7 @@
     },
     {
       "raw_hot": 53423,
-      "num": 203368,
+      "num": 205551,
       "word": "45岁退伍老兵低代码大赛获第一",
       "onboard_time": 1689757230,
       "rank": 39,
@@ -6561,6 +6609,22 @@
       "onboard_time": 1689591632,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49254,
+      "num": 204526,
+      "word": "星穹铁道饮月",
+      "onboard_time": 1689758071,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 48627,
+      "num": 1337653,
+      "word": "我国累计建成5G基站超293万个",
+      "onboard_time": 1689758734,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 48251,
@@ -6625,14 +6689,6 @@
       "onboard_time": 1689567936,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29697,
-      "num": 199527,
-      "word": "星穹铁道饮月",
-      "onboard_time": 1689758071,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 29527,

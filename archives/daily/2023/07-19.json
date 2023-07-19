@@ -1,6 +1,6 @@
 {
   "startTime": 1689697507005,
-  "endTime": 1689758215645,
+  "endTime": 1689759243879,
   "band_list": [
     {
       "raw_hot": 3406820,
@@ -145,6 +145,22 @@
       "onboard_time": 1689728914,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1150832,
+      "num": 1150832,
+      "word": "怀疑杨洋捡到了张颂文的错题本",
+      "onboard_time": 1689755972,
+      "rank": 4,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 1137382,
+      "num": 279843,
+      "word": "dirty talk",
+      "onboard_time": 1689757293,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1136065,
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 764705,
-      "num": 764705,
-      "word": "怀疑杨洋捡到了张颂文的错题本",
-      "onboard_time": 1689755972,
-      "rank": 4,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 737118,
       "num": 737118,
       "word": "奶奶催孙女结婚被反问后沉默了",
@@ -427,12 +435,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609222,
+      "num": 609222,
+      "word": "王一博学跳惊鸿舞",
+      "onboard_time": 1689757354,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593471,
       "num": 593471,
       "word": "广州每走一步就有一个蔡文姬",
       "onboard_time": 1689734670,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 592384,
+      "num": 285211,
+      "word": "魏大勋七天涨粉67万多",
+      "onboard_time": 1689757354,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 583682,
+      "num": 583682,
+      "word": "李木戈谈选角没提魏大勋",
+      "onboard_time": 1689756395,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 576826,
@@ -491,14 +523,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 530205,
-      "num": 279843,
-      "word": "dirty talk",
-      "onboard_time": 1689757293,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 529669,
       "num": 529669,
       "word": "韩国网友让宋雨琦回国",
@@ -507,11 +531,11 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 522243,
-      "num": 522243,
-      "word": "王一博学跳惊鸿舞",
-      "onboard_time": 1689757354,
-      "rank": 9,
+      "raw_hot": 528519,
+      "num": 528519,
+      "word": "古偶大婚必大虐",
+      "onboard_time": 1689757592,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -529,14 +553,6 @@
       "onboard_time": 1689740976,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 507714,
-      "num": 507714,
-      "word": "李木戈谈选角没提魏大勋",
-      "onboard_time": 1689756395,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 505537,
@@ -691,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 437402,
-      "num": 437402,
-      "word": "古偶大婚必大虐",
-      "onboard_time": 1689757592,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 433804,
       "num": 518449,
       "word": "教育局通报考生质疑成绩被偷",
@@ -843,6 +851,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 381006,
+      "num": 381006,
+      "word": "南京暴雨",
+      "onboard_time": 1689756813,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380587,
       "num": 414555,
       "word": "音乐节一元瓶装水分杯卖十元违法吗",
@@ -875,12 +891,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367870,
+      "num": 367870,
+      "word": "杨紫长相思或将7月24日播出",
+      "onboard_time": 1689758734,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 367452,
       "num": 367452,
       "word": "Doinb有比赛打了",
       "onboard_time": 1689755914,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 364454,
+      "num": 364454,
+      "word": "成年后养的第一个孩子是自己",
+      "onboard_time": 1689754652,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 358231,
@@ -905,14 +937,6 @@
       "onboard_time": 1689754592,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 344899,
-      "num": 344899,
-      "word": "成年后养的第一个孩子是自己",
-      "onboard_time": 1689754652,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 343020,
@@ -984,14 +1008,6 @@
       "word": "我们的panda",
       "onboard_time": 1689753573,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307529,
-      "num": 307529,
-      "word": "南京暴雨",
-      "onboard_time": 1689756813,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266328,
+      "num": 266328,
+      "word": "TTG对战狼队",
+      "onboard_time": 1689759213,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261986,
       "num": 261986,
       "word": "跟老板有六百多个微信群",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1689694356,
       "rank": 30,
       "category": "时尚,美妆"
-    },
-    {
-      "raw_hot": 260662,
-      "num": 260662,
-      "word": "魏大勋七天涨粉67万多",
-      "onboard_time": 1689757354,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 258776,
@@ -1236,19 +1252,35 @@
     },
     {
       "raw_hot": 225895,
-      "num": 206226,
+      "num": 206517,
       "word": "孟宴臣表演细节是魏大勋设计的",
       "onboard_time": 1689756994,
       "rank": 36,
       "category": "影视"
     },
     {
-      "raw_hot": 216663,
-      "num": 204479,
+      "raw_hot": 223664,
+      "num": 223664,
+      "word": "电影热烈北京首映礼",
+      "onboard_time": 1689758794,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 223631,
+      "num": 223631,
       "word": "我的人间烟火工作人员谈魏大勋爆火",
       "onboard_time": 1689757772,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219256,
+      "num": 219256,
+      "word": "Rookie",
+      "onboard_time": 1689758913,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 216336,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1689740012,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183506,
+      "num": 203497,
+      "word": "朴山多拉因为权志龙被社长收走手机",
+      "onboard_time": 1689759031,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 181217,
@@ -1643,6 +1683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 84076,
+      "num": 194221,
+      "word": "米哈游动画公司",
+      "onboard_time": 1689758494,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 70421,
       "num": 311250,
       "word": "胶原蛋白只认A型",
@@ -1668,7 +1716,7 @@
     },
     {
       "raw_hot": 53423,
-      "num": 203368,
+      "num": 205551,
       "word": "45岁退伍老兵低代码大赛获第一",
       "onboard_time": 1689757230,
       "rank": 39,
@@ -1681,6 +1729,22 @@
       "onboard_time": 1689691714,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 49254,
+      "num": 204526,
+      "word": "星穹铁道饮月",
+      "onboard_time": 1689758071,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 48627,
+      "num": 1337653,
+      "word": "我国累计建成5G基站超293万个",
+      "onboard_time": 1689758734,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 47694,
@@ -1705,14 +1769,6 @@
       "onboard_time": 1689706816,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29697,
-      "num": 199527,
-      "word": "星穹铁道饮月",
-      "onboard_time": 1689758071,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 5868,
