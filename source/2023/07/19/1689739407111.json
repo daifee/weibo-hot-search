@@ -1,0 +1,410 @@
+{
+  "runTime": 1689739407111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3406820,
+        "num": 3406820,
+        "word": "人民文娱评我的人间烟火",
+        "onboard_time": 1689734428,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2238816,
+        "num": 2238816,
+        "word": "周杰伦演唱会2张连座票黄牛叫价15万",
+        "onboard_time": 1689731193,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68092,
+        "num": 1117462,
+        "word": "生态保护硬核成绩单",
+        "onboard_time": 1689734610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865019,
+        "num": 865019,
+        "word": "公司1.2亿租楼300每月租给员工住",
+        "onboard_time": 1689728914,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704802,
+        "num": 704802,
+        "word": "金泰亨 卡地亚",
+        "onboard_time": 1689733829,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1509542,
+        "num": 688533,
+        "word": "人间烟火 没有共情到女主的窒息",
+        "onboard_time": 1689728491,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 664401,
+        "num": 664401,
+        "word": "纠正骨盆后倾才是翘臀必杀技",
+        "onboard_time": 1689733291,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 573843,
+        "num": 573843,
+        "word": "广州每走一步就有一个蔡文姬",
+        "onboard_time": 1689734670,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 521478,
+        "num": 521478,
+        "word": "孟宴臣换个人来演都能火吗",
+        "onboard_time": 1689727469,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286158,
+        "num": 518449,
+        "word": "教育局通报考生质疑成绩被偷",
+        "onboard_time": 1689727594,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2495051,
+        "num": 515521,
+        "word": "产后会阴裂伤真的像那个芒果吗",
+        "onboard_time": 1689730112,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 536599,
+        "num": 512051,
+        "word": "出租车司机偷瞄乘客密码取走19000元",
+        "onboard_time": 1689737071,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532608,
+        "num": 509661,
+        "word": "黄山为什么不提倡冲方便面",
+        "onboard_time": 1689737551,
+        "rank": 12,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 493294,
+        "num": 503191,
+        "word": "蔡依林福州",
+        "onboard_time": 1689738272,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501900,
+        "num": 501900,
+        "word": "奥本海默",
+        "onboard_time": 1689735988,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494753,
+        "num": 494753,
+        "word": "福宝真是从小可爱到大",
+        "onboard_time": 1689738033,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455656,
+        "num": 455656,
+        "word": "刘奕君这身材都怕输在年轻",
+        "onboard_time": 1689725309,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415604,
+        "num": 415604,
+        "word": "如果付闻樱收养的是叶冰裳",
+        "onboard_time": 1689737010,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355316,
+        "num": 415565,
+        "word": "看到谢允救时影",
+        "onboard_time": 1689733110,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332092,
+        "num": 415513,
+        "word": "白敬亭魏大勋刘昊然同框路透",
+        "onboard_time": 1689738873,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 850960,
+        "num": 415476,
+        "word": "室友六天赚了一千四百多",
+        "onboard_time": 1689726633,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 710970,
+        "num": 415408,
+        "word": "38岁女子误将先兆流产当经期排出",
+        "onboard_time": 1689733291,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634937,
+        "num": 415375,
+        "word": "郭启刚回国投案",
+        "onboard_time": 1689737612,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354005,
+        "num": 415321,
+        "word": "3608名回流生参加西安中考为何引众怒",
+        "onboard_time": 1689737612,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 222960,
+        "num": 415293,
+        "word": "食堂异物高度可能为鸭眼球巩膜",
+        "onboard_time": 1689732512,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349642,
+        "num": 415230,
+        "word": "男子将妻子割喉被判1年6个月",
+        "onboard_time": 1689686499,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279813,
+        "num": 415183,
+        "word": "大奉打更人开机",
+        "onboard_time": 1689731369,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276411,
+        "num": 415158,
+        "word": "现在再看杨洋王楚然李木戈翻答案之书",
+        "onboard_time": 1689732930,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392179,
+        "num": 415092,
+        "word": "爆料食堂吃出异物学生再发声",
+        "onboard_time": 1689734551,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 249886,
+        "num": 415024,
+        "word": "我怀疑大麦根本就没有票",
+        "onboard_time": 1689689376,
+        "rank": 29,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 245703,
+        "num": 415004,
+        "word": "男朋友睡着女生会偷偷做什么",
+        "onboard_time": 1689724889,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245437,
+        "num": 414939,
+        "word": "结婚当天最添堵的一件事",
+        "onboard_time": 1689731010,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237935,
+        "num": 414886,
+        "word": "西安发的TFBOYS演唱会观演指南",
+        "onboard_time": 1689726395,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207560,
+        "num": 414833,
+        "word": "浙江高考",
+        "onboard_time": 1689738632,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204255,
+        "num": 414807,
+        "word": "何超莲说婚后没和窦骁见过面",
+        "onboard_time": 1689685297,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199546,
+        "num": 414728,
+        "word": "原来油纸伞不可以带上地铁",
+        "onboard_time": 1689726571,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184641,
+        "num": 414678,
+        "word": "朱一龙钢琴弹唱版笼",
+        "onboard_time": 1689735689,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181930,
+        "num": 414643,
+        "word": "流水迢迢",
+        "onboard_time": 1689737010,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169060,
+        "num": 414586,
+        "word": "这就是e人i人小时候吧",
+        "onboard_time": 1689727531,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156770,
+        "num": 414555,
+        "word": "音乐节一元瓶装水分杯卖十元违法吗",
+        "onboard_time": 1689728371,
+        "rank": 39,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 151993,
+        "num": 414512,
+        "word": "广州再通报职校食堂饭菜发现异物",
+        "onboard_time": 1689734010,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148909,
+        "num": 414457,
+        "word": "山东大饺子一个就一碗",
+        "onboard_time": 1689732450,
+        "rank": 41,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 147969,
+        "num": 414428,
+        "word": "空调使用3到5小时后要开窗通风",
+        "onboard_time": 1689692496,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147715,
+        "num": 414374,
+        "word": "张帅退赛",
+        "onboard_time": 1689722244,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147132,
+        "num": 414297,
+        "word": "被喜欢的学科背刺是啥体验",
+        "onboard_time": 1689735930,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137150,
+        "num": 414253,
+        "word": "看长安三万里很多人都哭了",
+        "onboard_time": 1689730710,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134196,
+        "num": 414187,
+        "word": "芭比",
+        "onboard_time": 1689729211,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133638,
+        "num": 414183,
+        "word": "关晓彤当着范丞丞面再提个人战",
+        "onboard_time": 1689729451,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123477,
+        "num": 414131,
+        "word": "长安三万里",
+        "onboard_time": 1689733771,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120627,
+        "num": 414051,
+        "word": "周杰伦演唱会 不实名",
+        "onboard_time": 1689687996,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#生态画卷这样绘就#"
+    }
+  }
+}
