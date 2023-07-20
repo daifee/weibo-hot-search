@@ -1,0 +1,410 @@
+{
+  "runTime": 1689896047679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1093474,
+        "num": 1093474,
+        "word": "刘奕君林允新剧侵犯案真相",
+        "onboard_time": 1689870149,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678377,
+        "num": 678377,
+        "word": "重庆暴雨",
+        "onboard_time": 1689894800,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30089,
+        "num": 566324,
+        "word": "要促进民营经济做大做优做强",
+        "onboard_time": 1689860616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864051,
+        "num": 554364,
+        "word": "剧是一集没看气是一点没少生",
+        "onboard_time": 1689894320,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471655,
+        "num": 471655,
+        "word": "地球连续35年收到神秘规律性信号",
+        "onboard_time": 1689864218,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 464469,
+        "num": 464469,
+        "word": "王一博说自己是不会说话的人",
+        "onboard_time": 1689883093,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445590,
+        "num": 445590,
+        "word": "孟宴臣 叶子",
+        "onboard_time": 1689868173,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437477,
+        "num": 437477,
+        "word": "迪丽热巴你山药拿反了",
+        "onboard_time": 1689866434,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292784,
+        "num": 292784,
+        "word": "中建八局回应山东莱荣高铁事件",
+        "onboard_time": 1689850891,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203898,
+        "num": 203898,
+        "word": "俞敏洪称儿子实习每天工作18小时",
+        "onboard_time": 1689853830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994650,
+        "num": 203790,
+        "word": "中建八局谁给你的胆",
+        "onboard_time": 1689859413,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881695,
+        "num": 202802,
+        "word": "魏大勋人在内蒙也要西装加身",
+        "onboard_time": 1689872841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859088,
+        "num": 202149,
+        "word": "张颂文考科目二被围观",
+        "onboard_time": 1689864818,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594389,
+        "num": 201923,
+        "word": "街道办回应狗头萝莉卖煎饼遭举报",
+        "onboard_time": 1689867097,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 395241,
+        "num": 201085,
+        "word": "大杨哥回应老婆与王嘉尔牵手合照",
+        "onboard_time": 1689855512,
+        "rank": 14,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 308047,
+        "num": 200428,
+        "word": "宋焰总算大方了一次",
+        "onboard_time": 1689895103,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261587,
+        "num": 199545,
+        "word": "31岁宝妈持续3年订牛奶弥补童年遗憾",
+        "onboard_time": 1689894385,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199509,
+        "num": 199509,
+        "word": "西安暴雨",
+        "onboard_time": 1689868476,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239750,
+        "num": 197138,
+        "word": "新东方10亿成立文旅公司",
+        "onboard_time": 1689881771,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210229,
+        "num": 196431,
+        "word": "肖战玉骨遥绝美换装秀",
+        "onboard_time": 1689887772,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422634,
+        "num": 192204,
+        "word": "新婚妻子车祸昏迷7天丈夫忍痛拔管",
+        "onboard_time": 1689861996,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258259,
+        "num": 189157,
+        "word": "男子自曝想加女生微信误碰大腿被拘",
+        "onboard_time": 1689863918,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187546,
+        "num": 187546,
+        "word": "使人变胖的是糖分还是脂肪",
+        "onboard_time": 1689861215,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187505,
+        "num": 187505,
+        "word": "BW2023",
+        "onboard_time": 1689894982,
+        "rank": 23,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 187234,
+        "num": 187234,
+        "word": "牛仔裤上的牌子是干嘛用的",
+        "onboard_time": 1689859172,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163314,
+        "num": 163314,
+        "word": "淄博海鲜交易市场统一使用智慧秤",
+        "onboard_time": 1689868891,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162422,
+        "num": 162422,
+        "word": "6个月无诈骗业绩将被处死或卖器官",
+        "onboard_time": 1689857491,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161646,
+        "num": 161646,
+        "word": "鹿晗演唱会到底送了多少福利",
+        "onboard_time": 1689869071,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159751,
+        "num": 159751,
+        "word": "杨幂涂山红红",
+        "onboard_time": 1689866136,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158688,
+        "num": 158688,
+        "word": "封神新妲己出场镜头",
+        "onboard_time": 1689856293,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153216,
+        "num": 153216,
+        "word": "男孩在家烧书引起失火从18楼跳下",
+        "onboard_time": 1689895945,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144270,
+        "num": 144270,
+        "word": "井柏然拍刘雯走秀",
+        "onboard_time": 1689859533,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138594,
+        "num": 138594,
+        "word": "成都开始流行围炉冰茶了",
+        "onboard_time": 1689858272,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132708,
+        "num": 136367,
+        "word": "如果难哄是关晓彤来演",
+        "onboard_time": 1689868593,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134677,
+        "num": 134677,
+        "word": "孙女带爷爷奶奶旅游出发前先宣誓",
+        "onboard_time": 1689893899,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129185,
+        "num": 129185,
+        "word": "孟宴臣 你谈恋爱谈得脑子里全是泡泡吗",
+        "onboard_time": 1689859955,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126265,
+        "num": 126265,
+        "word": "这就是封神想要的狐狸感吧",
+        "onboard_time": 1689880993,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120661,
+        "num": 120661,
+        "word": "魏大勋 奔跑吧特别季",
+        "onboard_time": 1689858874,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118622,
+        "num": 118622,
+        "word": "姬发好帅",
+        "onboard_time": 1689864936,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116971,
+        "num": 116971,
+        "word": "邓超鹿晗陈赫范志毅王勉祝老舅生辰快乐",
+        "onboard_time": 1689853589,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116855,
+        "num": 116855,
+        "word": "杨紫白月光妆",
+        "onboard_time": 1689865717,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 110269,
+        "num": 110269,
+        "word": "得亏是教练要是一般人她真鲨成了",
+        "onboard_time": 1689886813,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109128,
+        "num": 109128,
+        "word": "杨紫说长相思即将播出",
+        "onboard_time": 1689872243,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102194,
+        "num": 102194,
+        "word": "长沙一男子当街杀害妻子被刑拘",
+        "onboard_time": 1689848313,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102174,
+        "num": 102174,
+        "word": "玖月晞 土",
+        "onboard_time": 1689855453,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97007,
+        "num": 97007,
+        "word": "杨紫怼脸花絮视频",
+        "onboard_time": 1689894262,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96240,
+        "num": 96240,
+        "word": "中国女足",
+        "onboard_time": 1689869430,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93742,
+        "num": 96229,
+        "word": "况三喜直播",
+        "onboard_time": 1689869550,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87002,
+        "num": 96215,
+        "word": "PDD美依礼芽直播",
+        "onboard_time": 1689871883,
+        "rank": 48,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 76722,
+        "num": 96195,
+        "word": "都暻秀看华莎vs王嘉尔看JYP",
+        "onboard_time": 1689866319,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在高质量发展的路上厚植绿色底色#"
+    }
+  }
+}
