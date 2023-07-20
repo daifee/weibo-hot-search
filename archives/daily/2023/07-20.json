@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689844612748,
+  "endTime": 1689845626485,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -251,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1017037,
+      "num": 505701,
+      "word": "南航回应机票近4万元只有1瓶水",
+      "onboard_time": 1689843272,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1009967,
       "num": 457580,
       "word": "以为女朋友出轨结果发现是郑在玹",
@@ -385,6 +393,14 @@
       "onboard_time": 1689781471,
       "rank": 6,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 804476,
+      "num": 804476,
+      "word": "嘴和胃对了一晚上的账",
+      "onboard_time": 1689840695,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 804205,
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594706,
+      "num": 594706,
+      "word": "陈哲远古装",
+      "onboard_time": 1689840994,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 591112,
       "num": 613090,
       "word": "孙杨张豆豆情史",
@@ -619,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 571449,
-      "num": 571449,
-      "word": "陈哲远古装",
-      "onboard_time": 1689840994,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 560946,
       "num": 458912,
       "word": "向佐模仿郭碧婷小时代台词",
@@ -640,6 +656,14 @@
       "word": "丁真参演饶雪漫新电影",
       "onboard_time": 1689826116,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 539593,
+      "num": 346903,
+      "word": "难哄桑延选角",
+      "onboard_time": 1689843815,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -673,14 +697,6 @@
       "onboard_time": 1689776801,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 505701,
-      "num": 505701,
-      "word": "南航回应机票近4万元只有1瓶水",
-      "onboard_time": 1689843272,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495839,
@@ -753,6 +769,14 @@
       "onboard_time": 1689840994,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457618,
+      "num": 346756,
+      "word": "鹿晗 武汉",
+      "onboard_time": 1689843453,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 450591,
@@ -867,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415015,
-      "num": 340475,
-      "word": "鹿晗 武汉",
-      "onboard_time": 1689843453,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 414790,
       "num": 414790,
       "word": "福宝",
@@ -984,14 +1000,6 @@
       "word": "裴秀智青龙视后",
       "onboard_time": 1689775476,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 369903,
-      "num": 301026,
-      "word": "难哄桑延选角",
-      "onboard_time": 1689843815,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -1107,6 +1115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 337489,
+      "num": 337489,
+      "word": "当小爱同学帮我接了爸爸的电话",
+      "onboard_time": 1689842975,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 336218,
       "num": 336218,
       "word": "山东莱荣高铁偷工减料被举报",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1689817652,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320967,
-      "num": 287090,
-      "word": "当小爱同学帮我接了爸爸的电话",
-      "onboard_time": 1689842975,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 308504,
@@ -1307,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282672,
+      "num": 282672,
+      "word": "有个可爱的老婆是什么体验",
+      "onboard_time": 1689842555,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 281353,
       "num": 281353,
       "word": "你是我的女儿不是我的作品",
@@ -1347,12 +1363,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 265427,
-      "num": 265427,
-      "word": "有个可爱的老婆是什么体验",
-      "onboard_time": 1689842555,
-      "rank": 35,
-      "category": "情感,幽默"
+      "raw_hot": 269625,
+      "num": 269625,
+      "word": "王一博出发澳门",
+      "onboard_time": 1689845253,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264543,
@@ -1363,12 +1379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263375,
+      "num": 263375,
+      "word": "想你的风吹到了厕所",
+      "onboard_time": 1689841114,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259396,
       "num": 259396,
       "word": "舒淇素颜照片",
       "onboard_time": 1689819757,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259099,
+      "num": 259099,
+      "word": "四川人近期快吃吐了的菜",
+      "onboard_time": 1689844353,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 255632,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1689783631,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240345,
-      "num": 240345,
-      "word": "想你的风吹到了厕所",
-      "onboard_time": 1689841114,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 239557,
@@ -1507,12 +1531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222661,
-      "num": 222661,
-      "word": "四川人近期快吃吐了的菜",
-      "onboard_time": 1689844353,
-      "rank": 39,
-      "category": "美食"
+      "raw_hot": 224846,
+      "num": 224846,
+      "word": "缉毒警退休警嫂朋友圈破防了",
+      "onboard_time": 1689845067,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218945,
@@ -1604,7 +1628,7 @@
     },
     {
       "raw_hot": 199423,
-      "num": 195350,
+      "num": 198055,
       "word": "钱塘江鱼鳞潮像极了万马奔腾",
       "onboard_time": 1689844471,
       "rank": 45,
@@ -1769,6 +1793,14 @@
       "onboard_time": 1689783213,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162900,
+      "num": 198036,
+      "word": "四个显眼包身材",
+      "onboard_time": 1689845553,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 161428,
@@ -1939,19 +1971,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54012,
+      "num": 1177280,
+      "word": "天目一号气象星座07-10星成功发射",
+      "onboard_time": 1689844293,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41481,
       "num": 99540,
       "word": "说真的赶海可以但别往滩涂去啊",
       "onboard_time": 1689801191,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38476,
-      "num": 1177280,
-      "word": "天目一号气象星座07-10星成功发射",
-      "onboard_time": 1689844293,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
