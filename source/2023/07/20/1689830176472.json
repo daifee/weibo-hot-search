@@ -1,0 +1,410 @@
+{
+  "runTime": 1689830176472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10255430,
+        "num": 10255430,
+        "word": "杨洋回应近期争议",
+        "onboard_time": 1689826721,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2963689,
+        "num": 2963689,
+        "word": "孙杨张豆豆官宣结婚",
+        "onboard_time": 1689819576,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 20000,
+        "num": 2112663,
+        "word": "民营经济是推进中国式现代化的生力军",
+        "onboard_time": 1689766711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2063366,
+        "num": 2063366,
+        "word": "刘晓庆71岁演少女",
+        "onboard_time": 1689821977,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1231702,
+        "num": 1231702,
+        "word": "范丞丞说孟宴臣就位了该你了顾九思",
+        "onboard_time": 1689824317,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2959937,
+        "num": 1188453,
+        "word": "杨洋",
+        "onboard_time": 1689808042,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1099311,
+        "num": 1099311,
+        "word": "孙杨张豆豆婚纱大片",
+        "onboard_time": 1689825814,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1004721,
+        "num": 1004721,
+        "word": "官方回应高考453分上广州大学",
+        "onboard_time": 1689826116,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 804205,
+        "num": 804205,
+        "word": "谁能看出来宋焰许沁是在接吻",
+        "onboard_time": 1689824434,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 706563,
+        "num": 706563,
+        "word": "90后女生攒20万裸辞回村生活",
+        "onboard_time": 1689827261,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873077,
+        "num": 706371,
+        "word": "顾客面包店充值200元发现被备注穷",
+        "onboard_time": 1689828820,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705652,
+        "num": 705652,
+        "word": "创造营2023导师阵容",
+        "onboard_time": 1689819332,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648887,
+        "num": 648887,
+        "word": "泰国评选十大最美中国女演员",
+        "onboard_time": 1689812914,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621853,
+        "num": 621853,
+        "word": "宋焰帮许沁搬家把蚝油也拿走了",
+        "onboard_time": 1689818311,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 591112,
+        "num": 613090,
+        "word": "孙杨张豆豆情史",
+        "onboard_time": 1689825158,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 609648,
+        "num": 609648,
+        "word": "王楚然与难哄制片人聚餐",
+        "onboard_time": 1689829540,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604743,
+        "num": 604743,
+        "word": "张艺兴谈EXO新歌",
+        "onboard_time": 1689826239,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 580029,
+        "num": 580029,
+        "word": "因共享单车全程无脏话交流两分钟以上",
+        "onboard_time": 1689828459,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 571748,
+        "num": 571748,
+        "word": "日媒称中国拦截日本水产品对核污水排海施压",
+        "onboard_time": 1689825336,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 459967,
+        "num": 459967,
+        "word": "男子上8天班辞职要公司赔偿100万",
+        "onboard_time": 1689818732,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009967,
+        "num": 457139,
+        "word": "以为女朋友出轨结果发现是郑在玹",
+        "onboard_time": 1689827800,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 706510,
+        "num": 456176,
+        "word": "丈夫给妻子10元认为能买很多菜",
+        "onboard_time": 1689820659,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598986,
+        "num": 452820,
+        "word": "孟家到底做了什么对不起许沁的事",
+        "onboard_time": 1689829241,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446600,
+        "num": 446600,
+        "word": "男子奶茶店众目睽睽下强吻女孩",
+        "onboard_time": 1689829002,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434810,
+        "num": 434810,
+        "word": "你知道什么是当当当当吗",
+        "onboard_time": 1689827921,
+        "rank": 24,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 428813,
+        "num": 428813,
+        "word": "丁真参演饶雪漫新电影",
+        "onboard_time": 1689826116,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411532,
+        "num": 411532,
+        "word": "奔跑吧本周预告",
+        "onboard_time": 1689829838,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404412,
+        "num": 404412,
+        "word": "这样睡觉真能改善圆肩驼背",
+        "onboard_time": 1689821558,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388840,
+        "num": 388840,
+        "word": "在华山失联男子确认遇难",
+        "onboard_time": 1689824255,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383643,
+        "num": 383643,
+        "word": "失眠的人可以试试吉祥卧",
+        "onboard_time": 1689828220,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 794790,
+        "num": 383076,
+        "word": "渐冻症患者因施工断电去世",
+        "onboard_time": 1689829123,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371163,
+        "num": 371163,
+        "word": "西安教育局工作人员回应河南回流生",
+        "onboard_time": 1689827800,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342635,
+        "num": 342635,
+        "word": "孟母再生气也要偷看许沁",
+        "onboard_time": 1689819696,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324061,
+        "num": 324061,
+        "word": "capper",
+        "onboard_time": 1689825158,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323320,
+        "num": 323320,
+        "word": "EDG预测",
+        "onboard_time": 1689824797,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305477,
+        "num": 305477,
+        "word": "奈雪联名玉骨遥",
+        "onboard_time": 1689824920,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299579,
+        "num": 299579,
+        "word": "麦门人和肯门人都沉默了",
+        "onboard_time": 1689827982,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288579,
+        "num": 288579,
+        "word": "多地共青团发文声援宋雨琦",
+        "onboard_time": 1689829540,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282890,
+        "num": 282890,
+        "word": "如果孟宴臣遇见的是薛杉杉",
+        "onboard_time": 1689819696,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267043,
+        "num": 267043,
+        "word": "追星人的手机壳越来越离谱了",
+        "onboard_time": 1689820177,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 258787,
+        "num": 258787,
+        "word": "向佐模仿郭碧婷小时代台词",
+        "onboard_time": 1689819634,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251185,
+        "num": 251185,
+        "word": "潮州消防 灭火器不是玩具",
+        "onboard_time": 1689813515,
+        "rank": 41,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 240559,
+        "num": 240559,
+        "word": "妈妈说从没听说过我的职业",
+        "onboard_time": 1689827500,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239557,
+        "num": 239557,
+        "word": "白敬亭宋轶相遇剧说现场",
+        "onboard_time": 1689829838,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232617,
+        "num": 232617,
+        "word": "女足世界杯",
+        "onboard_time": 1689829479,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222189,
+        "num": 222189,
+        "word": "福宝生日直播",
+        "onboard_time": 1689816872,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200401,
+        "num": 222189,
+        "word": "女子爆料在HM试衣被3岁男童趴地偷窥",
+        "onboard_time": 1689811891,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200306,
+        "num": 222176,
+        "word": "秦川谢乔终于亲了",
+        "onboard_time": 1689823897,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198866,
+        "num": 222169,
+        "word": "爸爸让女儿捡垃圾被怼脑子进水",
+        "onboard_time": 1689812497,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196506,
+        "num": 222165,
+        "word": "道英开通微博",
+        "onboard_time": 1689823360,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在高质量发展的路上厚植绿色底色#"
+    }
+  }
+}
