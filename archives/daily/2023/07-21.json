@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689877341547,
+  "endTime": 1689878099758,
   "band_list": [
     {
       "raw_hot": 1500736,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263765,
+      "num": 263765,
+      "word": "陆沉",
+      "onboard_time": 1689874340,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263714,
       "num": 452458,
       "word": "成都开始流行围炉冰茶了",
@@ -273,14 +281,6 @@
       "onboard_time": 1689862656,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 253898,
-      "num": 253898,
-      "word": "陆沉",
-      "onboard_time": 1689874340,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 253201,
@@ -475,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41711,
+      "num": 71844,
+      "word": "王源打小就机灵",
+      "onboard_time": 1689878055,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37461,
       "num": 868234,
       "word": "大运会城市志愿服务小站有急救包",
@@ -483,7 +491,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10224,
+      "raw_hot": 10398,
       "num": 254347,
       "word": "要促进民营经济做大做优做强",
       "onboard_time": 1689860616,
