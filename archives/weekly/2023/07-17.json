@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689834145707,
+  "endTime": 1689834929792,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2038435,
+      "num": 713879,
+      "word": "王楚然与难哄制片人聚餐",
+      "onboard_time": 1689829540,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2019217,
       "num": 2019217,
       "word": "演唱会门票被弟弟撕掉了",
@@ -329,14 +337,6 @@
       "onboard_time": 1689656135,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1968332,
-      "num": 713879,
-      "word": "王楚然与难哄制片人聚餐",
-      "onboard_time": 1689829540,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 1949325,
@@ -715,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1390517,
+      "num": 1390517,
+      "word": "钟欣潼cos黎苏苏",
+      "onboard_time": 1689831516,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1370702,
       "num": 1370702,
       "word": "我的人间烟火收视创新高",
@@ -761,14 +769,6 @@
       "onboard_time": 1689686499,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1277292,
-      "num": 1277292,
-      "word": "钟欣潼cos黎苏苏",
-      "onboard_time": 1689831516,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1275935,
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 1001509,
-      "num": 888676,
+      "num": 919855,
       "word": "渐冻症患者因施工断电去世",
       "onboard_time": 1689829123,
       "rank": 30,
@@ -1451,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 886136,
+      "num": 886136,
+      "word": "因共享单车全程无脏话交流两分钟以上",
+      "onboard_time": 1689828459,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 880578,
       "num": 880578,
       "word": "雪王又又又黑了",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1689567456,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 868934,
+      "num": 411609,
+      "word": "女孩地铁晕倒大便失禁一女子帮清理",
+      "onboard_time": 1689832353,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 866531,
@@ -1763,14 +1779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 791781,
-      "num": 791781,
-      "word": "因共享单车全程无脏话交流两分钟以上",
-      "onboard_time": 1689828459,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 791288,
       "num": 791288,
       "word": "邓超Angelababy同框合影",
@@ -1896,14 +1904,6 @@
       "word": "在华山失联男子确认遇难",
       "onboard_time": 1689824255,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 738550,
-      "num": 394078,
-      "word": "女孩地铁晕倒大便失禁一女子帮清理",
-      "onboard_time": 1689832353,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2131,6 +2131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686930,
+      "num": 686930,
+      "word": "奔跑吧本周预告",
+      "onboard_time": 1689829838,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 685503,
       "num": 685503,
       "word": "金木",
@@ -2323,20 +2331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644079,
+      "num": 644079,
+      "word": "张予曦 温以凡",
+      "onboard_time": 1689834214,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 643615,
       "num": 614251,
       "word": "日媒称中国拦截日本水产品对核污水排海施压",
       "onboard_time": 1689825336,
       "rank": 21,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 641083,
-      "num": 641083,
-      "word": "奔跑吧本周预告",
-      "onboard_time": 1689829838,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 637872,
@@ -2441,6 +2449,14 @@
       "onboard_time": 1689815252,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616982,
+      "num": 616982,
+      "word": "我的人间烟火火了好多人啊",
+      "onboard_time": 1689832353,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 616426,
@@ -2577,6 +2593,14 @@
       "onboard_time": 1689583898,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 594069,
+      "num": 594069,
+      "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
+      "onboard_time": 1689830495,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 593471,
@@ -3299,14 +3323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485902,
-      "num": 485902,
-      "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
-      "onboard_time": 1689830495,
-      "rank": 34,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 483050,
       "num": 483050,
       "word": "女子坐飞机被机长老公隔空比心",
@@ -3371,6 +3387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 473049,
+      "num": 408130,
+      "word": "吴宣仪圈内人缘",
+      "onboard_time": 1689834392,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472987,
       "num": 472987,
       "word": "职场水母",
@@ -3425,14 +3449,6 @@
       "onboard_time": 1689766470,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469837,
-      "num": 469837,
-      "word": "我的人间烟火火了好多人啊",
-      "onboard_time": 1689832353,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 469464,
@@ -3707,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436966,
+      "num": 405090,
+      "word": "孟母的这滴泪",
+      "onboard_time": 1689833192,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 436962,
       "num": 436962,
       "word": "徐云流浪中国停止流浪",
@@ -3953,6 +3977,14 @@
       "onboard_time": 1689780574,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 414790,
+      "num": 414790,
+      "word": "福宝",
+      "onboard_time": 1689831395,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413810,
@@ -4379,14 +4411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 372555,
-      "num": 372555,
-      "word": "福宝",
-      "onboard_time": 1689831395,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372181,
       "num": 427436,
       "word": "关晓彤竟然是i人",
@@ -4635,6 +4659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355717,
+      "num": 355717,
+      "word": "番位好像也没那么重要",
+      "onboard_time": 1689832054,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355643,
       "num": 355643,
       "word": "原来任思雨没怀孕",
@@ -4785,14 +4817,6 @@
       "onboard_time": 1689668133,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 343172,
-      "num": 343172,
-      "word": "番位好像也没那么重要",
-      "onboard_time": 1689832054,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 343064,
@@ -5003,12 +5027,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324744,
-      "num": 324744,
-      "word": "孟母的这滴泪",
-      "onboard_time": 1689833192,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 324576,
+      "num": 324576,
+      "word": "井川里予晒海边照",
+      "onboard_time": 1689834272,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 324534,
@@ -6051,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252345,
+      "num": 252345,
+      "word": "护士小哥腾空跃上病床抢救",
+      "onboard_time": 1689834153,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251607,
       "num": 268785,
       "word": "任贤齐去看兵马俑没挤到跟前",
@@ -6521,6 +6553,14 @@
       "onboard_time": 1689618255,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227196,
+      "num": 227196,
+      "word": "正式确诊为仙人掌",
+      "onboard_time": 1689834094,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 227107,
@@ -7107,14 +7147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201418,
-      "num": 221369,
-      "word": "正式确诊为仙人掌",
-      "onboard_time": 1689834094,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200924,
       "num": 414183,
       "word": "关晓彤当着范丞丞面再提个人战",
@@ -7241,6 +7273,14 @@
       "onboard_time": 1689823655,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196174,
+      "num": 196174,
+      "word": "时代少年团青岛演唱会开票时间",
+      "onboard_time": 1689834631,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 195775,
@@ -8027,6 +8067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 147622,
+      "num": 546426,
+      "word": "水龙吟",
+      "onboard_time": 1689832836,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147461,
       "num": 364809,
       "word": "世界表情包日",
@@ -8041,14 +8089,6 @@
       "onboard_time": 1689678513,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 147295,
-      "num": 534704,
-      "word": "水龙吟",
-      "onboard_time": 1689832836,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 147226,

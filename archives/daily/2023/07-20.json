@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689834145707,
+  "endTime": 1689834929792,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -67,7 +67,7 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1968332,
+      "raw_hot": 2038435,
       "num": 713879,
       "word": "王楚然与难哄制片人聚餐",
       "onboard_time": 1689829540,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1390517,
+      "num": 1390517,
+      "word": "钟欣潼cos黎苏苏",
+      "onboard_time": 1689831516,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1370702,
       "num": 1370702,
       "word": "我的人间烟火收视创新高",
@@ -121,14 +129,6 @@
       "onboard_time": 1689772835,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1277292,
-      "num": 1277292,
-      "word": "钟欣潼cos黎苏苏",
-      "onboard_time": 1689831516,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1234808,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1001509,
-      "num": 888676,
+      "num": 919855,
       "word": "渐冻症患者因施工断电去世",
       "onboard_time": 1689829123,
       "rank": 30,
@@ -232,6 +232,22 @@
       "word": "顾客面包店充值200元发现被备注穷",
       "onboard_time": 1689828820,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 886136,
+      "num": 886136,
+      "word": "因共享单车全程无脏话交流两分钟以上",
+      "onboard_time": 1689828459,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 868934,
+      "num": 411609,
+      "word": "女孩地铁晕倒大便失禁一女子帮清理",
+      "onboard_time": 1689832353,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 791781,
-      "num": 791781,
-      "word": "因共享单车全程无脏话交流两分钟以上",
-      "onboard_time": 1689828459,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 763547,
       "num": 755563,
       "word": "如果孟宴臣遇见的是薛杉杉",
@@ -320,14 +328,6 @@
       "word": "在华山失联男子确认遇难",
       "onboard_time": 1689824255,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 738550,
-      "num": 394078,
-      "word": "女孩地铁晕倒大便失禁一女子帮清理",
-      "onboard_time": 1689832353,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686930,
+      "num": 686930,
+      "word": "奔跑吧本周预告",
+      "onboard_time": 1689829838,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 685503,
       "num": 685503,
       "word": "金木",
@@ -411,20 +419,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 644079,
+      "num": 644079,
+      "word": "张予曦 温以凡",
+      "onboard_time": 1689834214,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 643615,
       "num": 614251,
       "word": "日媒称中国拦截日本水产品对核污水排海施压",
       "onboard_time": 1689825336,
       "rank": 21,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 641083,
-      "num": 641083,
-      "word": "奔跑吧本周预告",
-      "onboard_time": 1689829838,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 626446,
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616982,
+      "num": 616982,
+      "word": "我的人间烟火火了好多人啊",
+      "onboard_time": 1689832353,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614828,
       "num": 529088,
       "word": "张天爱被搭讪的反应",
@@ -457,6 +473,14 @@
       "onboard_time": 1689826239,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 594069,
+      "num": 594069,
+      "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
+      "onboard_time": 1689830495,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 591112,
@@ -555,19 +579,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485902,
-      "num": 485902,
-      "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
-      "onboard_time": 1689830495,
-      "rank": 34,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 481013,
       "num": 449780,
       "word": "成功承认出轨",
       "onboard_time": 1689775539,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 473049,
+      "num": 408130,
+      "word": "吴宣仪圈内人缘",
+      "onboard_time": 1689834392,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -577,14 +601,6 @@
       "onboard_time": 1689824797,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 469837,
-      "num": 469837,
-      "word": "我的人间烟火火了好多人啊",
-      "onboard_time": 1689832353,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 469121,
@@ -625,6 +641,14 @@
       "onboard_time": 1689829002,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436966,
+      "num": 405090,
+      "word": "孟母的这滴泪",
+      "onboard_time": 1689833192,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 436962,
@@ -707,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414790,
+      "num": 414790,
+      "word": "福宝",
+      "onboard_time": 1689831395,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403906,
       "num": 403906,
       "word": "小胖 下次必须拿捏你",
@@ -755,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 372555,
-      "num": 372555,
-      "word": "福宝",
-      "onboard_time": 1689831395,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371163,
       "num": 371163,
       "word": "西安教育局工作人员回应河南回流生",
@@ -803,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355717,
+      "num": 355717,
+      "word": "番位好像也没那么重要",
+      "onboard_time": 1689832054,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354715,
       "num": 354715,
       "word": "韩国幽灵婴儿已确认249人死亡",
@@ -824,14 +856,6 @@
       "word": "潘粤明打球没有技巧全是运气",
       "onboard_time": 1689814175,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 343172,
-      "num": 343172,
-      "word": "番位好像也没那么重要",
-      "onboard_time": 1689832054,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -899,12 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324744,
-      "num": 324744,
-      "word": "孟母的这滴泪",
-      "onboard_time": 1689833192,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 324576,
+      "num": 324576,
+      "word": "井川里予晒海边照",
+      "onboard_time": 1689834272,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 306144,
@@ -1059,6 +1083,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252345,
+      "num": 252345,
+      "word": "护士小哥腾空跃上病床抢救",
+      "onboard_time": 1689834153,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250403,
+      "num": 250403,
+      "word": "基辛格",
+      "onboard_time": 1689831816,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 248489,
       "num": 286756,
       "word": "活死人 网络村晚",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1689783631,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 241335,
-      "num": 241335,
-      "word": "基辛格",
-      "onboard_time": 1689831816,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 239557,
@@ -1171,6 +1203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227196,
+      "num": 227196,
+      "word": "正式确诊为仙人掌",
+      "onboard_time": 1689834094,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 223542,
+      "num": 223542,
+      "word": "A股",
+      "onboard_time": 1689834753,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218945,
       "num": 286729,
       "word": "真的不要过度的去省钱",
@@ -1235,14 +1283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201418,
-      "num": 221369,
-      "word": "正式确诊为仙人掌",
-      "onboard_time": 1689834094,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200191,
       "num": 200191,
       "word": "TF三代演唱会联排照",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1689823655,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196174,
+      "num": 196174,
+      "word": "时代少年团青岛演唱会开票时间",
+      "onboard_time": 1689834631,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 195517,
@@ -1427,8 +1475,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147295,
-      "num": 534704,
+      "raw_hot": 147622,
+      "num": 546426,
       "word": "水龙吟",
       "onboard_time": 1689832836,
       "rank": 14,
