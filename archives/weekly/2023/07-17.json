@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689892416277,
+  "endTime": 1689895013219,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -1435,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 992337,
+      "num": 992337,
+      "word": "刘奕君林允新剧侵犯案真相",
+      "onboard_time": 1689870149,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 989853,
       "num": 989853,
       "word": "睡觉姿势引起的耻骨肌发炎",
@@ -2089,6 +2097,14 @@
       "onboard_time": 1689834392,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 791952,
+      "num": 192185,
+      "word": "魏大勋人在内蒙也要西装加身",
+      "onboard_time": 1689872841,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 791288,
@@ -3787,20 +3803,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 492600,
-      "num": 492600,
-      "word": "刘奕君林允新剧侵犯案真相",
-      "onboard_time": 1689870149,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 490723,
       "num": 490723,
       "word": "面试官问我mbti",
       "onboard_time": 1689752374,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 490688,
+      "num": 490688,
+      "word": "剧是一集没看气是一点没少生",
+      "onboard_time": 1689894320,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 490265,
@@ -5363,6 +5379,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 357172,
+      "num": 357172,
+      "word": "王一博说自己是不会说话的人",
+      "onboard_time": 1689883093,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357126,
       "num": 357126,
       "word": "郑润泽加场投票",
@@ -5561,14 +5585,6 @@
       "onboard_time": 1689861215,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 346672,
-      "num": 191736,
-      "word": "魏大勋人在内蒙也要西装加身",
-      "onboard_time": 1689872841,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 346610,
@@ -7739,6 +7755,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 222554,
+      "num": 187810,
+      "word": "新东方10亿成立文旅公司",
+      "onboard_time": 1689881771,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222374,
       "num": 222374,
       "word": "不良人要求逆水寒手游公开道歉",
@@ -8129,6 +8153,14 @@
       "onboard_time": 1689682112,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205965,
+      "num": 185986,
+      "word": "肖战玉骨遥绝美换装秀",
+      "onboard_time": 1689887772,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 205774,
@@ -9347,6 +9379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149207,
+      "num": 149207,
+      "word": "重庆暴雨",
+      "onboard_time": 1689894800,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148872,
       "num": 328917,
       "word": "给猫咪做了个房子",
@@ -9523,22 +9563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133976,
-      "num": 133976,
-      "word": "肖战玉骨遥绝美换装秀",
-      "onboard_time": 1689887772,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 132821,
-      "num": 132821,
-      "word": "王一博说自己是不会说话的人",
-      "onboard_time": 1689883093,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 132640,
       "num": 212676,
       "word": "京城大师赛 梦幻狼队",
@@ -9699,6 +9723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118161,
+      "num": 118161,
+      "word": "这就是封神想要的狐狸感吧",
+      "onboard_time": 1689880993,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117702,
       "num": 215014,
       "word": "正在吹干的狗狗看到主人的那一刻",
@@ -9769,14 +9801,6 @@
       "onboard_time": 1689550283,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113774,
-      "num": 95657,
-      "word": "新东方10亿成立文旅公司",
-      "onboard_time": 1689881771,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111574,
@@ -9859,6 +9883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96496,
+      "num": 114167,
+      "word": "得亏是教练要是一般人她真鲨成了",
+      "onboard_time": 1689886813,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96221,
       "num": 254160,
       "word": "如何画毛孩的小教程",
@@ -9905,6 +9937,14 @@
       "onboard_time": 1689528678,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85194,
+      "num": 114076,
+      "word": "31岁宝妈持续3年订牛奶弥补童年遗憾",
+      "onboard_time": 1689894385,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85108,
@@ -9963,6 +10003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78766,
+      "num": 113991,
+      "word": "杨紫怼脸花絮视频",
+      "onboard_time": 1689894262,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71274,
       "num": 1949445,
       "word": "第2架国产C919入列",
@@ -9984,6 +10032,14 @@
       "word": "生态保护硬核成绩单",
       "onboard_time": 1689734610,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68642,
+      "num": 113932,
+      "word": "孙女带爷爷奶奶旅游出发前先宣誓",
+      "onboard_time": 1689893899,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -10035,14 +10091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54782,
-      "num": 62295,
-      "word": "这就是封神想要的狐狸感吧",
-      "onboard_time": 1689880993,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 54764,
       "num": 802518,
       "word": "成都大运会开幕式有哪些亮点",
@@ -10083,20 +10131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51251,
-      "num": 62267,
-      "word": "得亏是教练要是一般人她真鲨成了",
-      "onboard_time": 1689886813,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 50756,
       "num": 329003,
       "word": "马保国给饿了么免单出题",
       "onboard_time": 1689591632,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49899,
+      "num": 113855,
+      "word": "BW2023",
+      "onboard_time": 1689894982,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 49254,
@@ -10219,6 +10267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23535,
+      "num": 500331,
+      "word": "要促进民营经济做大做优做强",
+      "onboard_time": 1689860616,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23385,
       "num": 42615,
       "word": "责任感是和喜爱一起出现的",
@@ -10241,14 +10297,6 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 13272,
-      "num": 254347,
-      "word": "要促进民营经济做大做优做强",
-      "onboard_time": 1689860616,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7112,
