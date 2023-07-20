@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689848314922,
+  "endTime": 1689849290397,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1474321,
+      "num": 612888,
+      "word": "四个显眼包身材",
+      "onboard_time": 1689845553,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1390517,
       "num": 1390517,
       "word": "钟欣潼cos黎苏苏",
@@ -193,14 +201,6 @@
       "onboard_time": 1689828459,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1214889,
-      "num": 612888,
-      "word": "四个显眼包身材",
-      "onboard_time": 1689845553,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 1191389,
@@ -329,6 +329,14 @@
       "onboard_time": 1689828820,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889943,
+      "num": 889943,
+      "word": "三观巨正的国产剧男女主",
+      "onboard_time": 1689846755,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 868934,
@@ -563,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 657398,
-      "num": 657398,
-      "word": "三观巨正的国产剧男女主",
-      "onboard_time": 1689846755,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 653272,
       "num": 653272,
       "word": "鹿晗上海演唱会",
@@ -587,20 +587,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 643321,
+      "num": 368970,
+      "word": "魏大勋宋轶你们不要再吵了",
+      "onboard_time": 1689846270,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 626446,
       "num": 431725,
       "word": "capper",
       "onboard_time": 1689825158,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 625048,
-      "num": 368970,
-      "word": "魏大勋宋轶你们不要再吵了",
-      "onboard_time": 1689846270,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 621376,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505002,
+      "num": 505002,
+      "word": "他从火光中走来",
+      "onboard_time": 1689848370,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 495839,
       "num": 386860,
       "word": "奈雪联名玉骨遥",
@@ -795,8 +803,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460075,
-      "num": 244866,
+      "raw_hot": 460567,
+      "num": 333020,
       "word": "警方回应上饶一河中惊现碎尸",
       "onboard_time": 1689847230,
       "rank": 30,
@@ -825,6 +833,14 @@
       "onboard_time": 1689843453,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 450938,
+      "num": 450938,
+      "word": "刘嘉玲宣传Newjeans新歌",
+      "onboard_time": 1689846992,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 450591,
@@ -912,6 +928,14 @@
       "word": "记者解剖鸭头剥出巩膜",
       "onboard_time": 1689781712,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424499,
+      "num": 329833,
+      "word": "长沙一男子当街杀害妻子被刑拘",
+      "onboard_time": 1689848313,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1011,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391778,
-      "num": 391778,
-      "word": "刘嘉玲宣传Newjeans新歌",
-      "onboard_time": 1689846992,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 391747,
       "num": 368314,
       "word": "孟宴臣哭的我心都碎了",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1689836431,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382744,
+      "num": 382744,
+      "word": "时代少年团或将全员录制你好星期六",
+      "onboard_time": 1689846032,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 376307,
@@ -1113,14 +1137,6 @@
       "onboard_time": 1689751411,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353489,
-      "num": 353489,
-      "word": "时代少年团或将全员录制你好星期六",
-      "onboard_time": 1689846032,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 350995,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1689827982,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327797,
+      "num": 327797,
+      "word": "辞职后应该怎么退微信群",
+      "onboard_time": 1689848370,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 327225,
@@ -1427,12 +1451,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280556,
+      "num": 280556,
+      "word": "一句话让外卖小哥愧疚一辈子",
+      "onboard_time": 1689847892,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276718,
       "num": 276718,
       "word": "上班需要带的东西",
       "onboard_time": 1689833254,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 274296,
+      "num": 274296,
+      "word": "MCD",
+      "onboard_time": 1689847053,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 273840,
@@ -1611,14 +1651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227659,
-      "num": 227659,
-      "word": "一句话让外卖小哥愧疚一辈子",
-      "onboard_time": 1689847892,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 227656,
       "num": 294596,
       "word": "大熊猫福宝过生日",
@@ -1627,12 +1659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221371,
-      "num": 221371,
-      "word": "MCD",
-      "onboard_time": 1689847053,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 226699,
+      "num": 226699,
+      "word": "Uzi霞MVP",
+      "onboard_time": 1689848915,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 218945,
@@ -1843,12 +1875,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 186180,
+      "num": 186180,
+      "word": "乒超",
+      "onboard_time": 1689849089,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184601,
       "num": 184601,
       "word": "北京中轴线好多显眼包啊",
       "onboard_time": 1689838414,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182272,
+      "num": 182272,
+      "word": "韩女选择韩男的最佳体重",
+      "onboard_time": 1689849211,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 179806,

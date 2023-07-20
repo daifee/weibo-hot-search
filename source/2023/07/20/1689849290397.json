@@ -1,0 +1,410 @@
+{
+  "runTime": 1689849290397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1733327,
+        "num": 1733327,
+        "word": "南航回应机票近4万元只有1瓶水",
+        "onboard_time": 1689843272,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963665,
+        "num": 1219077,
+        "word": "缉毒警退休警嫂朋友圈破防了",
+        "onboard_time": 1689845067,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44010,
+        "num": 1091930,
+        "word": "天目一号气象星座07-10星成功发射",
+        "onboard_time": 1689844293,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036329,
+        "num": 1036329,
+        "word": "张予曦 温以凡",
+        "onboard_time": 1689834214,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429855,
+        "num": 913017,
+        "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
+        "onboard_time": 1689830495,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1961337,
+        "num": 910377,
+        "word": "中建八局被实名举报",
+        "onboard_time": 1689837690,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335321,
+        "num": 900827,
+        "word": "为了33只羊民警浑身是伤",
+        "onboard_time": 1689846633,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 893242,
+        "num": 893242,
+        "word": "宋慧乔 我想第一次称赞我自己",
+        "onboard_time": 1689839373,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889943,
+        "num": 889943,
+        "word": "三观巨正的国产剧男女主",
+        "onboard_time": 1689846755,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505002,
+        "num": 505002,
+        "word": "他从火光中走来",
+        "onboard_time": 1689848370,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1474321,
+        "num": 499736,
+        "word": "四个显眼包身材",
+        "onboard_time": 1689845553,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493436,
+        "num": 493436,
+        "word": "嘴和胃对了一晚上的账",
+        "onboard_time": 1689840695,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 463262,
+        "num": 463262,
+        "word": "EDG对战WE",
+        "onboard_time": 1689846516,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 451586,
+        "num": 451586,
+        "word": "刘晓庆71岁演少女",
+        "onboard_time": 1689821977,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450938,
+        "num": 450938,
+        "word": "刘嘉玲宣传Newjeans新歌",
+        "onboard_time": 1689846992,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444343,
+        "num": 444343,
+        "word": "我的人间烟火火了好多人啊",
+        "onboard_time": 1689832353,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410370,
+        "num": 410370,
+        "word": "女生刚下山得知丢失的身份证在山顶",
+        "onboard_time": 1689838232,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382744,
+        "num": 382744,
+        "word": "时代少年团或将全员录制你好星期六",
+        "onboard_time": 1689846032,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377280,
+        "num": 377280,
+        "word": "贾士凯为灭火器情节道歉",
+        "onboard_time": 1689835052,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335776,
+        "num": 335776,
+        "word": "孙杨张豆豆官宣结婚",
+        "onboard_time": 1689819576,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 643321,
+        "num": 334517,
+        "word": "魏大勋宋轶你们不要再吵了",
+        "onboard_time": 1689846270,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460567,
+        "num": 333020,
+        "word": "警方回应上饶一河中惊现碎尸",
+        "onboard_time": 1689847230,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424499,
+        "num": 329833,
+        "word": "长沙一男子当街杀害妻子被刑拘",
+        "onboard_time": 1689848313,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409368,
+        "num": 328477,
+        "word": "难哄桑延选角",
+        "onboard_time": 1689843815,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327797,
+        "num": 327797,
+        "word": "辞职后应该怎么退微信群",
+        "onboard_time": 1689848370,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344857,
+        "num": 327794,
+        "word": "杨洋",
+        "onboard_time": 1689808042,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337357,
+        "num": 327260,
+        "word": "鹿晗 武汉",
+        "onboard_time": 1689843453,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323908,
+        "num": 323908,
+        "word": "安乐传微博追剧团",
+        "onboard_time": 1689847172,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292373,
+        "num": 292373,
+        "word": "j人和p人的旅行计划",
+        "onboard_time": 1689846393,
+        "rank": 28,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 283716,
+        "num": 283716,
+        "word": "官方回应莱荣高铁事件",
+        "onboard_time": 1689844471,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320471,
+        "num": 283705,
+        "word": "钟欣潼cos黎苏苏",
+        "onboard_time": 1689831516,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295048,
+        "num": 283621,
+        "word": "梁朝伟无片酬出演NewJeans新歌MV",
+        "onboard_time": 1689837754,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283525,
+        "num": 283525,
+        "word": "亚运会把杭州人逼成啥样了",
+        "onboard_time": 1689838232,
+        "rank": 32,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 280556,
+        "num": 280556,
+        "word": "一句话让外卖小哥愧疚一辈子",
+        "onboard_time": 1689847892,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274296,
+        "num": 274296,
+        "word": "MCD",
+        "onboard_time": 1689847053,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246962,
+        "num": 246962,
+        "word": "四川人近期快吃吐了的菜",
+        "onboard_time": 1689844353,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 241467,
+        "num": 241467,
+        "word": "王一博李沁 金色征途",
+        "onboard_time": 1689837994,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235432,
+        "num": 235432,
+        "word": "陈哲远古装",
+        "onboard_time": 1689840994,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232155,
+        "num": 232155,
+        "word": "渐冻症患者因施工断电去世",
+        "onboard_time": 1689829123,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226699,
+        "num": 226699,
+        "word": "Uzi霞MVP",
+        "onboard_time": 1689848915,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222337,
+        "num": 222337,
+        "word": "王一博出发澳门",
+        "onboard_time": 1689845253,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221129,
+        "num": 221129,
+        "word": "井川里予晒海边照",
+        "onboard_time": 1689834272,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216513,
+        "num": 216513,
+        "word": "你是我的女儿不是我的作品",
+        "onboard_time": 1689843334,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197376,
+        "num": 197376,
+        "word": "王楚然与难哄制片人聚餐",
+        "onboard_time": 1689829540,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196621,
+        "num": 196621,
+        "word": "有个可爱的老婆是什么体验",
+        "onboard_time": 1689842555,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 194185,
+        "num": 194185,
+        "word": "肖战许凯罗一舟今日营业照",
+        "onboard_time": 1689841653,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193845,
+        "num": 193845,
+        "word": "当小爱同学帮我接了爸爸的电话",
+        "onboard_time": 1689842975,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186180,
+        "num": 186180,
+        "word": "乒超",
+        "onboard_time": 1689849089,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183647,
+        "num": 183647,
+        "word": "封神第一部",
+        "onboard_time": 1689847953,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182272,
+        "num": 182272,
+        "word": "韩女选择韩男的最佳体重",
+        "onboard_time": 1689849211,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#在高质量发展的路上厚植绿色底色#"
+    }
+  }
+}
