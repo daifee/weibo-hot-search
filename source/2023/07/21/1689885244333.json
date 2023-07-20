@@ -1,0 +1,410 @@
+{
+  "runTime": 1689885244333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 122379,
+        "num": 122379,
+        "word": "刘奕君林允新剧侵犯案真相",
+        "onboard_time": 1689870149,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91415,
+        "num": 91415,
+        "word": "孟宴臣 叶子",
+        "onboard_time": 1689868173,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 7229,
+        "num": 84458,
+        "word": "要促进民营经济做大做优做强",
+        "onboard_time": 1689860616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83268,
+        "num": 83268,
+        "word": "孟宴臣 你谈恋爱谈得脑子里全是泡泡吗",
+        "onboard_time": 1689859955,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73065,
+        "num": 73065,
+        "word": "地球连续35年收到神秘规律性信号",
+        "onboard_time": 1689864218,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 61476,
+        "num": 61476,
+        "word": "迪丽热巴你山药拿反了",
+        "onboard_time": 1689866434,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51515,
+        "num": 51515,
+        "word": "玖月晞 土",
+        "onboard_time": 1689855453,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47626,
+        "num": 47626,
+        "word": "陆沉",
+        "onboard_time": 1689874340,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42262,
+        "num": 42262,
+        "word": "西安暴雨",
+        "onboard_time": 1689868476,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35494,
+        "num": 35494,
+        "word": "成都开始流行围炉冰茶了",
+        "onboard_time": 1689858272,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 112550,
+        "num": 35287,
+        "word": "张颂文考科目二被围观",
+        "onboard_time": 1689864818,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100254,
+        "num": 35169,
+        "word": "魏大勋人在内蒙也要西装加身",
+        "onboard_time": 1689872841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86240,
+        "num": 34781,
+        "word": "街道办回应狗头萝莉卖煎饼遭举报",
+        "onboard_time": 1689867097,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 66723,
+        "num": 34660,
+        "word": "中建八局谁给你的胆",
+        "onboard_time": 1689859413,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66468,
+        "num": 34335,
+        "word": "大杨哥回应老婆与王嘉尔牵手合照",
+        "onboard_time": 1689855512,
+        "rank": 14,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 44112,
+        "num": 33927,
+        "word": "王一博说自己是不会说话的人",
+        "onboard_time": 1689883093,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33912,
+        "num": 33912,
+        "word": "杨幂涂山红红",
+        "onboard_time": 1689866136,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33340,
+        "num": 33340,
+        "word": "淄博海鲜交易市场统一使用智慧秤",
+        "onboard_time": 1689868891,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33050,
+        "num": 33050,
+        "word": "俞敏洪称儿子实习每天工作18小时",
+        "onboard_time": 1689853830,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22681,
+        "num": 33046,
+        "word": "PDD美依礼芽直播",
+        "onboard_time": 1689871883,
+        "rank": 19,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 49236,
+        "num": 33037,
+        "word": "新婚妻子车祸昏迷7天丈夫忍痛拔管",
+        "onboard_time": 1689861996,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37278,
+        "num": 33032,
+        "word": "男子自曝想加女生微信误碰大腿被拘",
+        "onboard_time": 1689863918,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34692,
+        "num": 33028,
+        "word": "牛仔裤上的牌子是干嘛用的",
+        "onboard_time": 1689859172,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33700,
+        "num": 33018,
+        "word": "魏大勋 奔跑吧特别季",
+        "onboard_time": 1689858874,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29748,
+        "num": 33005,
+        "word": "封神新妲己出场镜头",
+        "onboard_time": 1689856293,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27591,
+        "num": 33004,
+        "word": "6个月无诈骗业绩将被处死或卖器官",
+        "onboard_time": 1689857491,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25094,
+        "num": 32993,
+        "word": "王楚然对许沁的评价",
+        "onboard_time": 1689868828,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24940,
+        "num": 32989,
+        "word": "Angelababy羊毛卷点痣妆",
+        "onboard_time": 1689867394,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 24230,
+        "num": 32977,
+        "word": "杨紫说长相思即将播出",
+        "onboard_time": 1689872243,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21870,
+        "num": 32968,
+        "word": "中建八局回应山东莱荣高铁事件",
+        "onboard_time": 1689850891,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53757,
+        "num": 32966,
+        "word": "新东方10亿成立文旅公司",
+        "onboard_time": 1689881771,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29780,
+        "num": 32956,
+        "word": "这就是封神想要的狐狸感吧",
+        "onboard_time": 1689880993,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23278,
+        "num": 32951,
+        "word": "长沙一男子当街杀害妻子被刑拘",
+        "onboard_time": 1689848313,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22236,
+        "num": 32945,
+        "word": "使人变胖的是糖分还是脂肪",
+        "onboard_time": 1689861215,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21955,
+        "num": 32937,
+        "word": "娜然 妲己",
+        "onboard_time": 1689869310,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19637,
+        "num": 32927,
+        "word": "EDG战胜WE",
+        "onboard_time": 1689858154,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21692,
+        "num": 32922,
+        "word": "邓超鹿晗陈赫范志毅王勉祝老舅生辰快乐",
+        "onboard_time": 1689853589,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21400,
+        "num": 32915,
+        "word": "付闻樱给许沁买了一整墙的名牌包",
+        "onboard_time": 1689850051,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20732,
+        "num": 32909,
+        "word": "上门做菜上门美甲火了",
+        "onboard_time": 1689867574,
+        "rank": 38,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 20425,
+        "num": 32896,
+        "word": "如果难哄是关晓彤来演",
+        "onboard_time": 1689868593,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20357,
+        "num": 32888,
+        "word": "况三喜直播",
+        "onboard_time": 1689869550,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20114,
+        "num": 32883,
+        "word": "鹿晗演唱会到底送了多少福利",
+        "onboard_time": 1689869071,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19402,
+        "num": 32874,
+        "word": "人间烟火",
+        "onboard_time": 1689734129,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19070,
+        "num": 32868,
+        "word": "姬发好帅",
+        "onboard_time": 1689864936,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18994,
+        "num": 32861,
+        "word": "都暻秀看华莎vs王嘉尔看JYP",
+        "onboard_time": 1689866319,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18838,
+        "num": 32854,
+        "word": "杨紫白月光妆",
+        "onboard_time": 1689865717,
+        "rank": 45,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 18671,
+        "num": 32843,
+        "word": "临时抱Fo脚",
+        "onboard_time": 1689862835,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17686,
+        "num": 32838,
+        "word": "中建八局被实名举报",
+        "onboard_time": 1689837690,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16798,
+        "num": 32832,
+        "word": "中国女足",
+        "onboard_time": 1689869430,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16758,
+        "num": 32820,
+        "word": "对方撤回了一百块",
+        "onboard_time": 1689859655,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国有约#"
+    }
+  }
+}

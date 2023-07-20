@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689884275310,
+  "endTime": 1689885244333,
   "band_list": [
     {
       "raw_hot": 1500736,
@@ -475,12 +475,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52716,
-      "num": 29705,
+      "raw_hot": 53757,
+      "num": 32966,
       "word": "新东方10亿成立文旅公司",
       "onboard_time": 1689881771,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44112,
+      "num": 35201,
+      "word": "王一博说自己是不会说话的人",
+      "onboard_time": 1689883093,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 41711,
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35201,
-      "num": 35201,
-      "word": "王一博说自己是不会说话的人",
-      "onboard_time": 1689883093,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 30691,
       "num": 39825,
       "word": "人间烟火",
@@ -515,8 +515,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27692,
-      "num": 29704,
+      "raw_hot": 29780,
+      "num": 32956,
       "word": "这就是封神想要的狐狸感吧",
       "onboard_time": 1689880993,
       "rank": 32,
