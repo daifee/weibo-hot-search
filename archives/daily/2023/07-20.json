@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689845626485,
+  "endTime": 1689848314922,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1868820,
+      "num": 1868820,
+      "word": "南航回应机票近4万元只有1瓶水",
+      "onboard_time": 1689843272,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1623209,
       "num": 1623209,
       "word": "女生刚下山得知丢失的身份证在山顶",
@@ -187,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1214889,
+      "num": 612888,
+      "word": "四个显眼包身材",
+      "onboard_time": 1689845553,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1191389,
       "num": 292752,
       "word": "魏大勋录综艺穿西装了",
@@ -216,6 +232,14 @@
       "word": "罗森",
       "onboard_time": 1689784410,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144928,
+      "num": 1273932,
+      "word": "缉毒警退休警嫂朋友圈破防了",
+      "onboard_time": 1689845067,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -249,14 +273,6 @@
       "onboard_time": 1689816211,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1017037,
-      "num": 505701,
-      "word": "南航回应机票近4万元只有1瓶水",
-      "onboard_time": 1689843272,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1009967,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 702229,
-      "num": 702229,
+      "num": 967257,
       "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
       "onboard_time": 1689830495,
       "rank": 34,
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657398,
+      "num": 657398,
+      "word": "三观巨正的国产剧男女主",
+      "onboard_time": 1689846755,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 653272,
       "num": 653272,
       "word": "鹿晗上海演唱会",
@@ -569,6 +593,14 @@
       "onboard_time": 1689825158,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 625048,
+      "num": 368970,
+      "word": "魏大勋宋轶你们不要再吵了",
+      "onboard_time": 1689846270,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 621376,
@@ -627,6 +659,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 585610,
+      "num": 585610,
+      "word": "EDG对战WE",
+      "onboard_time": 1689846516,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 572965,
       "num": 335527,
       "word": "女子爆料在HM试衣被3岁男童趴地偷窥",
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 539593,
-      "num": 346903,
+      "num": 364388,
       "word": "难哄桑延选角",
       "onboard_time": 1689843815,
       "rank": 25,
@@ -755,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460075,
+      "num": 244866,
+      "word": "警方回应上饶一河中惊现碎尸",
+      "onboard_time": 1689847230,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459672,
       "num": 408923,
       "word": "井川里予晒海边照",
@@ -772,7 +820,7 @@
     },
     {
       "raw_hot": 457618,
-      "num": 346756,
+      "num": 347933,
       "word": "鹿晗 武汉",
       "onboard_time": 1689843453,
       "rank": 22,
@@ -955,6 +1003,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394367,
+      "num": 394367,
+      "word": "官方回应莱荣高铁事件",
+      "onboard_time": 1689844471,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391778,
+      "num": 391778,
+      "word": "刘嘉玲宣传Newjeans新歌",
+      "onboard_time": 1689846992,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 391747,
       "num": 368314,
       "word": "孟宴臣哭的我心都碎了",
@@ -979,12 +1043,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 378891,
-      "num": 378891,
-      "word": "官方回应莱荣高铁事件",
-      "onboard_time": 1689844471,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 376307,
+      "num": 974053,
+      "word": "为了33只羊民警浑身是伤",
+      "onboard_time": 1689846633,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 371163,
@@ -1051,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353489,
+      "num": 353489,
+      "word": "时代少年团或将全员录制你好星期六",
+      "onboard_time": 1689846032,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350995,
       "num": 316235,
       "word": "中国好声音发布会直播",
       "onboard_time": 1689836793,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349522,
+      "num": 349522,
+      "word": "j人和p人的旅行计划",
+      "onboard_time": 1689846393,
+      "rank": 24,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 348964,
@@ -1081,6 +1161,14 @@
       "onboard_time": 1689839252,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343755,
+      "num": 343755,
+      "word": "安乐传微博追剧团",
+      "onboard_time": 1689847172,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 341386,
@@ -1291,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285717,
+      "num": 285717,
+      "word": "四川人近期快吃吐了的菜",
+      "onboard_time": 1689844353,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 285302,
       "num": 285302,
       "word": "敖子逸主动找蒋依依",
@@ -1393,14 +1489,6 @@
       "onboard_time": 1689819757,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259099,
-      "num": 259099,
-      "word": "四川人近期快吃吐了的菜",
-      "onboard_time": 1689844353,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 255632,
@@ -1523,6 +1611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227659,
+      "num": 227659,
+      "word": "一句话让外卖小哥愧疚一辈子",
+      "onboard_time": 1689847892,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227656,
       "num": 294596,
       "word": "大熊猫福宝过生日",
@@ -1531,12 +1627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224846,
-      "num": 224846,
-      "word": "缉毒警退休警嫂朋友圈破防了",
-      "onboard_time": 1689845067,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 221371,
+      "num": 221371,
+      "word": "MCD",
+      "onboard_time": 1689847053,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 218945,
@@ -1675,6 +1771,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193625,
+      "num": 215910,
+      "word": "封神第一部",
+      "onboard_time": 1689847953,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193243,
+      "num": 215843,
+      "word": "LPL",
+      "onboard_time": 1689847655,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193084,
       "num": 139894,
       "word": "网友画的漫画版孟宴臣",
@@ -1793,14 +1905,6 @@
       "onboard_time": 1689783213,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162900,
-      "num": 198036,
-      "word": "四个显眼包身材",
-      "onboard_time": 1689845553,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 161428,
@@ -1972,7 +2076,7 @@
     },
     {
       "raw_hot": 54012,
-      "num": 1177280,
+      "num": 1190418,
       "word": "天目一号气象星座07-10星成功发射",
       "onboard_time": 1689844293,
       "rank": 2,
