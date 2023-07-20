@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689859578286,
+  "endTime": 1689860223580,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1643,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2310065,
+      "num": 555319,
+      "word": "大杨哥回应老婆与王嘉尔牵手合照",
+      "onboard_time": 1689855512,
+      "rank": 12,
+      "category": "网红,艺人"
+    },
+    {
       "raw_hot": 2307405,
       "num": 2307405,
       "word": "华莎被告发涉嫌演出淫乱罪",
@@ -1753,14 +1761,6 @@
       "onboard_time": 1688910934,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2224996,
-      "num": 450891,
-      "word": "大杨哥回应老婆与王嘉尔牵手合照",
-      "onboard_time": 1689855512,
-      "rank": 12,
-      "category": "网红,艺人"
     },
     {
       "raw_hot": 2221394,
@@ -2041,6 +2041,14 @@
       "onboard_time": 1688797351,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2095845,
+      "num": 2095845,
+      "word": "魏大勋 奔跑吧特别季",
+      "onboard_time": 1689858874,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2093201,
@@ -3641,14 +3649,6 @@
       "onboard_time": 1689050020,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1586545,
-      "num": 1586545,
-      "word": "魏大勋 奔跑吧特别季",
-      "onboard_time": 1689858874,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1586485,
@@ -6059,6 +6059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1130111,
+      "num": 1130111,
+      "word": "封神新妲己出场镜头",
+      "onboard_time": 1689856293,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1128627,
       "num": 1128627,
       "word": "Uzi不交闪现",
@@ -6387,14 +6395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1088433,
-      "num": 1088433,
-      "word": "封神新妲己出场镜头",
-      "onboard_time": 1689856293,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1087691,
       "num": 1064674,
       "word": "谁给杨幂做的发型",
@@ -6692,7 +6692,7 @@
     },
     {
       "raw_hot": 1058741,
-      "num": 287138,
+      "num": 315264,
       "word": "邓超鹿晗陈赫范志毅王勉祝老舅生辰快乐",
       "onboard_time": 1689853589,
       "rank": 20,
@@ -7737,6 +7737,14 @@
       "onboard_time": 1688168905,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960268,
+      "num": 960268,
+      "word": "EDG战胜WE",
+      "onboard_time": 1688219376,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 959703,
@@ -8785,14 +8793,6 @@
       "onboard_time": 1689039092,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 884311,
-      "num": 884311,
-      "word": "EDG战胜WE",
-      "onboard_time": 1688219376,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 883769,
@@ -12180,7 +12180,7 @@
     },
     {
       "raw_hot": 699315,
-      "num": 447219,
+      "num": 553038,
       "word": "起猛了还以为孟宴臣破产了",
       "onboard_time": 1689852930,
       "rank": 13,
@@ -16500,7 +16500,7 @@
     },
     {
       "raw_hot": 550072,
-      "num": 223982,
+      "num": 305412,
       "word": "牛仔裤上的牌子是干嘛用的",
       "onboard_time": 1689859172,
       "rank": 30,
@@ -16601,6 +16601,14 @@
       "onboard_time": 1689563252,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546950,
+      "num": 546950,
+      "word": "成都开始流行围炉冰茶了",
+      "onboard_time": 1689858272,
+      "rank": 17,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 546529,
@@ -17729,6 +17737,14 @@
       "onboard_time": 1688178090,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 512371,
+      "num": 512371,
+      "word": "井柏然拍刘雯走秀",
+      "onboard_time": 1689859533,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 512278,
@@ -19793,6 +19809,14 @@
       "onboard_time": 1688946928,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 463615,
+      "num": 463615,
+      "word": "万妮达吃三碗方便面",
+      "onboard_time": 1689858874,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 462976,
@@ -25219,14 +25243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 364429,
-      "num": 364429,
-      "word": "成都开始流行围炉冰茶了",
-      "onboard_time": 1689858272,
-      "rank": 17,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 364148,
       "num": 411106,
       "word": "白鹿和周深说什么了",
@@ -28235,6 +28251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319341,
+      "num": 319341,
+      "word": "中建八局谁给你的胆",
+      "onboard_time": 1689859413,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319308,
       "num": 319308,
       "word": "Angelababy王鹤棣传唱挖呀挖呀挖",
@@ -31139,6 +31163,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 286082,
+      "num": 559623,
+      "word": "央广网评补习机构包装中考回流生",
+      "onboard_time": 1689853530,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 286027,
       "num": 286027,
       "word": "网传难哄改名",
@@ -31185,14 +31217,6 @@
       "onboard_time": 1689075873,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285433,
-      "num": 285433,
-      "word": "央广网评补习机构包装中考回流生",
-      "onboard_time": 1689853530,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 285368,
@@ -32881,14 +32905,6 @@
       "onboard_time": 1689318395,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 266322,
-      "num": 222941,
-      "word": "万妮达吃三碗方便面",
-      "onboard_time": 1689858874,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 266191,
@@ -34672,6 +34688,14 @@
       "word": "段嘉许桑稚处处吻",
       "onboard_time": 1688286393,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248297,
+      "num": 248297,
+      "word": "张译喝水",
+      "onboard_time": 1689860075,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -37619,6 +37643,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 220028,
+      "num": 240140,
+      "word": "对方撤回了一百块",
+      "onboard_time": 1689859655,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220015,
       "num": 220015,
       "word": "粉红兔子",
@@ -37897,6 +37929,14 @@
       "onboard_time": 1689166415,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217384,
+      "num": 500983,
+      "word": "毛不易的小船划进了我心里",
+      "onboard_time": 1689858032,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 217335,
@@ -40259,6 +40299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200049,
+      "num": 209482,
+      "word": "孟宴臣 你谈恋爱谈得脑子里全是泡泡吗",
+      "onboard_time": 1689859955,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200022,
       "num": 200022,
       "word": "夏日蒜汁排骨",
@@ -40601,6 +40649,14 @@
       "onboard_time": 1688542114,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 197310,
+      "num": 209466,
+      "word": "在法国可以只带手机出门吗",
+      "onboard_time": 1689860075,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197295,
@@ -41129,6 +41185,14 @@
       "onboard_time": 1688631271,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193434,
+      "num": 209462,
+      "word": "BV大秀",
+      "onboard_time": 1689860017,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193404,
@@ -42283,14 +42347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184405,
-      "num": 209465,
-      "word": "井柏然拍刘雯走秀",
-      "onboard_time": 1689859533,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 184402,
       "num": 184402,
       "word": "肖战时影内啡肽穿搭",
@@ -43299,14 +43355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174260,
-      "num": 421942,
-      "word": "毛不易的小船划进了我心里",
-      "onboard_time": 1689858032,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "如果让亲妈做你婆婆",
@@ -43897,14 +43945,6 @@
       "onboard_time": 1689697409,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 168213,
-      "num": 209721,
-      "word": "中建八局谁给你的胆",
-      "onboard_time": 1689859413,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168061,
@@ -48467,6 +48507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32238,
+      "num": 1792440,
+      "word": "边防官兵硬核版山河图",
+      "onboard_time": 1689844175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31660,
       "num": 80021,
       "word": "毕业青春就结束了吗",
@@ -48632,14 +48680,6 @@
       "word": "你求职遇过哪些歧视",
       "onboard_time": 1688324533,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26391,
-      "num": 1596343,
-      "word": "边防官兵硬核版山河图",
-      "onboard_time": 1689844175,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

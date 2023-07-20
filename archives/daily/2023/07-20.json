@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689859578286,
+  "endTime": 1689860223580,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2310065,
+      "num": 555319,
+      "word": "大杨哥回应老婆与王嘉尔牵手合照",
+      "onboard_time": 1689855512,
+      "rank": 12,
+      "category": "网红,艺人"
+    },
+    {
       "raw_hot": 2265344,
       "num": 1099311,
       "word": "孙杨张豆豆婚纱大片",
@@ -99,12 +107,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 2224996,
-      "num": 450891,
-      "word": "大杨哥回应老婆与王嘉尔牵手合照",
-      "onboard_time": 1689855512,
-      "rank": 12,
-      "category": "网红,艺人"
+      "raw_hot": 2095845,
+      "num": 2095845,
+      "word": "魏大勋 奔跑吧特别季",
+      "onboard_time": 1689858874,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2054615,
@@ -177,14 +185,6 @@
       "onboard_time": 1689818311,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1586545,
-      "num": 1586545,
-      "word": "魏大勋 奔跑吧特别季",
-      "onboard_time": 1689858874,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1474769,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1130111,
+      "num": 1130111,
+      "word": "封神新妲己出场镜头",
+      "onboard_time": 1689856293,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1129706,
       "num": 520800,
       "word": "女主播大面积裸露推荐隆胸产品被罚60万",
@@ -315,14 +323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1088433,
-      "num": 1088433,
-      "word": "封神新妲己出场镜头",
-      "onboard_time": 1689856293,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1061208,
       "num": 1061208,
       "word": "男生收到北大录取通知书前还在割猪草",
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1058741,
-      "num": 287138,
+      "num": 315264,
       "word": "邓超鹿晗陈赫范志毅王勉祝老舅生辰快乐",
       "onboard_time": 1689853589,
       "rank": 20,
@@ -387,6 +387,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 960268,
+      "num": 960268,
+      "word": "EDG战胜WE",
+      "onboard_time": 1689858154,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 905976,
       "num": 590751,
       "word": "孟母再生气也要偷看许沁",
@@ -409,14 +417,6 @@
       "onboard_time": 1689850290,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 884311,
-      "num": 884311,
-      "word": "EDG战胜WE",
-      "onboard_time": 1689858154,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 868934,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 699315,
-      "num": 447219,
+      "num": 553038,
       "word": "起猛了还以为孟宴臣破产了",
       "onboard_time": 1689852930,
       "rank": 13,
@@ -844,11 +844,19 @@
     },
     {
       "raw_hot": 550072,
-      "num": 223982,
+      "num": 305412,
       "word": "牛仔裤上的牌子是干嘛用的",
       "onboard_time": 1689859172,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 546950,
+      "num": 546950,
+      "word": "成都开始流行围炉冰茶了",
+      "onboard_time": 1689858272,
+      "rank": 17,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 544141,
@@ -897,6 +905,14 @@
       "onboard_time": 1689776801,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 512371,
+      "num": 512371,
+      "word": "井柏然拍刘雯走秀",
+      "onboard_time": 1689859533,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 495839,
@@ -961,6 +977,14 @@
       "onboard_time": 1689774577,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463615,
+      "num": 463615,
+      "word": "万妮达吃三碗方便面",
+      "onboard_time": 1689858874,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 460567,
@@ -1267,14 +1291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364429,
-      "num": 364429,
-      "word": "成都开始流行围炉冰茶了",
-      "onboard_time": 1689858272,
-      "rank": 17,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 362410,
       "num": 300278,
       "word": "邢菲增肥六斤八两",
@@ -1515,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319341,
+      "num": 319341,
+      "word": "中建八局谁给你的胆",
+      "onboard_time": 1689859413,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308504,
       "num": 290196,
       "word": "海姆立克急救法的清晰演示",
@@ -1659,20 +1683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286082,
+      "num": 559623,
+      "word": "央广网评补习机构包装中考回流生",
+      "onboard_time": 1689853530,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 285717,
       "num": 285717,
       "word": "四川人近期快吃吐了的菜",
       "onboard_time": 1689844353,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 285433,
-      "num": 285433,
-      "word": "央广网评补习机构包装中考回流生",
-      "onboard_time": 1689853530,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 285302,
@@ -1771,14 +1795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 266322,
-      "num": 222941,
-      "word": "万妮达吃三碗方便面",
-      "onboard_time": 1689858874,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264543,
       "num": 264543,
       "word": "感觉余华的书走进现实了",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1689774758,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248297,
+      "num": 248297,
+      "word": "张译喝水",
+      "onboard_time": 1689860075,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 241836,
@@ -1963,12 +1987,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220028,
+      "num": 240140,
+      "word": "对方撤回了一百块",
+      "onboard_time": 1689859655,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 219165,
+      "num": 219165,
+      "word": "英雄联盟",
+      "onboard_time": 1689859774,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218945,
       "num": 286729,
       "word": "真的不要过度的去省钱",
       "onboard_time": 1689774097,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217384,
+      "num": 500983,
+      "word": "毛不易的小船划进了我心里",
+      "onboard_time": 1689858032,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 214838,
@@ -2043,6 +2091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200049,
+      "num": 209482,
+      "word": "孟宴臣 你谈恋爱谈得脑子里全是泡泡吗",
+      "onboard_time": 1689859955,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199949,
       "num": 199949,
       "word": "我不是很敢和他聊",
@@ -2064,6 +2120,14 @@
       "word": "钱塘江鱼鳞潮像极了万马奔腾",
       "onboard_time": 1689844471,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197310,
+      "num": 209466,
+      "word": "在法国可以只带手机出门吗",
+      "onboard_time": 1689860075,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2121,6 +2185,14 @@
       "onboard_time": 1689847953,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193434,
+      "num": 209462,
+      "word": "BV大秀",
+      "onboard_time": 1689860017,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193243,
@@ -2219,14 +2291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184405,
-      "num": 209465,
-      "word": "井柏然拍刘雯走秀",
-      "onboard_time": 1689859533,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 179806,
       "num": 214723,
       "word": "一直游到海水变蓝",
@@ -2267,14 +2331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174260,
-      "num": 421942,
-      "word": "毛不易的小船划进了我心里",
-      "onboard_time": 1689858032,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 171966,
       "num": 286678,
       "word": "刘雅瑟跳入画江南全靠演技",
@@ -2297,14 +2353,6 @@
       "onboard_time": 1689783213,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168213,
-      "num": 209721,
-      "word": "中建八局谁给你的胆",
-      "onboard_time": 1689859413,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161428,
@@ -2539,8 +2587,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26391,
-      "num": 1596343,
+      "raw_hot": 32238,
+      "num": 1792440,
       "word": "边防官兵硬核版山河图",
       "onboard_time": 1689844175,
       "rank": 2,

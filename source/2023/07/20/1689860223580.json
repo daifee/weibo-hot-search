@@ -1,0 +1,410 @@
+{
+  "runTime": 1689860223580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3099036,
+        "num": 3099036,
+        "word": "玖月晞 土",
+        "onboard_time": 1689855453,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2095845,
+        "num": 2095845,
+        "word": "魏大勋 奔跑吧特别季",
+        "onboard_time": 1689858874,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32238,
+        "num": 1792440,
+        "word": "边防官兵硬核版山河图",
+        "onboard_time": 1689844175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1625321,
+        "num": 1625321,
+        "word": "俞敏洪称儿子实习每天工作18小时",
+        "onboard_time": 1689853830,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130111,
+        "num": 1130111,
+        "word": "封神新妲己出场镜头",
+        "onboard_time": 1689856293,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 999668,
+        "num": 999668,
+        "word": "付闻樱给许沁买了一整墙的名牌包",
+        "onboard_time": 1689850051,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 960268,
+        "num": 960268,
+        "word": "EDG战胜WE",
+        "onboard_time": 1689858154,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 812452,
+        "num": 812452,
+        "word": "苏明玉 天选孟家女",
+        "onboard_time": 1689850891,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 572878,
+        "num": 572878,
+        "word": "中建八局被实名举报",
+        "onboard_time": 1689837690,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286082,
+        "num": 559623,
+        "word": "央广网评补习机构包装中考回流生",
+        "onboard_time": 1689853530,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2310065,
+        "num": 555319,
+        "word": "大杨哥回应老婆与王嘉尔牵手合照",
+        "onboard_time": 1689855512,
+        "rank": 10,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 603161,
+        "num": 553038,
+        "word": "起猛了还以为孟宴臣破产了",
+        "onboard_time": 1689852930,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546950,
+        "num": 546950,
+        "word": "成都开始流行围炉冰茶了",
+        "onboard_time": 1689858272,
+        "rank": 12,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 512371,
+        "num": 512371,
+        "word": "井柏然拍刘雯走秀",
+        "onboard_time": 1689859533,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217384,
+        "num": 500983,
+        "word": "毛不易的小船划进了我心里",
+        "onboard_time": 1689858032,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 490097,
+        "num": 490097,
+        "word": "迪丽热巴刘宇宁穿黑衣服不告诉龚俊",
+        "onboard_time": 1689851672,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463615,
+        "num": 463615,
+        "word": "万妮达吃三碗方便面",
+        "onboard_time": 1689858874,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407644,
+        "num": 407644,
+        "word": "EDG对战WE",
+        "onboard_time": 1689846516,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 400414,
+        "num": 400414,
+        "word": "烧伤女孩拍婚纱照店老板主动充当新郎",
+        "onboard_time": 1689851129,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319341,
+        "num": 319341,
+        "word": "中建八局谁给你的胆",
+        "onboard_time": 1689859413,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644667,
+        "num": 315264,
+        "word": "邓超鹿晗陈赫范志毅王勉祝老舅生辰快乐",
+        "onboard_time": 1689853589,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 568553,
+        "num": 311459,
+        "word": "6个月无诈骗业绩将被处死或卖器官",
+        "onboard_time": 1689857491,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305847,
+        "num": 305847,
+        "word": "农民发明家耗时3个月研发辣条机器",
+        "onboard_time": 1689854911,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517534,
+        "num": 305412,
+        "word": "牛仔裤上的牌子是干嘛用的",
+        "onboard_time": 1689859172,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323560,
+        "num": 300935,
+        "word": "长沙一男子当街杀害妻子被刑拘",
+        "onboard_time": 1689848313,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439590,
+        "num": 299092,
+        "word": "活死人网络村晚",
+        "onboard_time": 1689854009,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 380429,
+        "num": 294851,
+        "word": "宋焰 服从性测试",
+        "onboard_time": 1689852151,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325315,
+        "num": 292089,
+        "word": "四个显眼包身材",
+        "onboard_time": 1689845553,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290035,
+        "num": 290035,
+        "word": "魏大勋宋轶你们不要再吵了",
+        "onboard_time": 1689846270,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90981,
+        "num": 265119,
+        "word": "中建八局回应山东莱荣高铁事件",
+        "onboard_time": 1689850891,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225283,
+        "num": 259143,
+        "word": "缉毒警退休警嫂朋友圈破防了",
+        "onboard_time": 1689845067,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257194,
+        "num": 257194,
+        "word": "还以为蒋依依长痘了",
+        "onboard_time": 1689854312,
+        "rank": 31,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 253982,
+        "num": 253982,
+        "word": "南航回应机票近4万元只有1瓶水",
+        "onboard_time": 1689843272,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248297,
+        "num": 248297,
+        "word": "张译喝水",
+        "onboard_time": 1689860075,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220028,
+        "num": 240140,
+        "word": "对方撤回了一百块",
+        "onboard_time": 1689859655,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237876,
+        "num": 237876,
+        "word": "龚俊生图",
+        "onboard_time": 1689853410,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224180,
+        "num": 224180,
+        "word": "宋慧乔 我想第一次称赞我自己",
+        "onboard_time": 1689839373,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219165,
+        "num": 219165,
+        "word": "英雄联盟",
+        "onboard_time": 1689859774,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216061,
+        "num": 216061,
+        "word": "第一次在狗脸上看到为难",
+        "onboard_time": 1689849753,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 213159,
+        "num": 213159,
+        "word": "王曼昱3比1孙颖莎",
+        "onboard_time": 1689854371,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209485,
+        "num": 209485,
+        "word": "敖子逸你想选她就敲门啊",
+        "onboard_time": 1689853950,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200049,
+        "num": 209482,
+        "word": "孟宴臣 你谈恋爱谈得脑子里全是泡泡吗",
+        "onboard_time": 1689859955,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199379,
+        "num": 209477,
+        "word": "迪丽热巴好像女特工",
+        "onboard_time": 1689850290,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215577,
+        "num": 209473,
+        "word": "张予曦 温以凡",
+        "onboard_time": 1689834214,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197310,
+        "num": 209466,
+        "word": "在法国可以只带手机出门吗",
+        "onboard_time": 1689860075,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193434,
+        "num": 209462,
+        "word": "BV大秀",
+        "onboard_time": 1689860017,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168544,
+        "num": 209458,
+        "word": "辞职后应该怎么退微信群",
+        "onboard_time": 1689848370,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159370,
+        "num": 209451,
+        "word": "警方回应上饶一河中惊现碎尸",
+        "onboard_time": 1689847230,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149336,
+        "num": 209448,
+        "word": "不良人要求逆水寒手游公开道歉",
+        "onboard_time": 1689850051,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148599,
+        "num": 209439,
+        "word": "爸爸用胶带把手机绑孩子眼上帮戒网瘾",
+        "onboard_time": 1689855150,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在高质量发展的路上厚植绿色底色#"
+    }
+  }
+}
