@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689841279823,
+  "endTime": 1689842075887,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 3143164,
+      "num": 3143164,
+      "word": "黄晓明的回应vs杨洋的回应",
+      "onboard_time": 1689837453,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3109402,
       "num": 3109402,
       "word": "韩国幽灵婴儿已确认249人死亡",
@@ -155,20 +163,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2816100,
-      "num": 2816100,
-      "word": "黄晓明的回应vs杨洋的回应",
-      "onboard_time": 1689837453,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2805040,
       "num": 2805040,
       "word": "微信注销了是这样子",
       "onboard_time": 1689676949,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2784024,
+      "num": 2717243,
+      "word": "中建八局被实名举报",
+      "onboard_time": 1689837690,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2736599,
@@ -185,14 +193,6 @@
       "onboard_time": 1689550045,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2717243,
-      "num": 2717243,
-      "word": "中建八局被实名举报",
-      "onboard_time": 1689837690,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2608686,
@@ -1075,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1097553,
+      "num": 1097553,
+      "word": "女生刚下山得知丢失的身份证在山顶",
+      "onboard_time": 1689838232,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1097042,
       "num": 425791,
       "word": "赵今麦的妆是谁画的",
@@ -1564,7 +1572,7 @@
     },
     {
       "raw_hot": 868874,
-      "num": 441925,
+      "num": 635799,
       "word": "王一博李沁 金色征途",
       "onboard_time": 1689837994,
       "rank": 31,
@@ -1713,14 +1721,6 @@
       "onboard_time": 1689743853,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 826517,
-      "num": 826517,
-      "word": "女生刚下山得知丢失的身份证在山顶",
-      "onboard_time": 1689838232,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 824468,
@@ -2443,6 +2443,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 638799,
+      "num": 638799,
+      "word": "亚运会把杭州人逼成啥样了",
+      "onboard_time": 1689838232,
+      "rank": 34,
+      "category": "幽默,体育"
+    },
+    {
       "raw_hot": 637872,
       "num": 637872,
       "word": "薛之谦演唱会烟花放了7分17秒",
@@ -2745,6 +2753,14 @@
       "onboard_time": 1689684635,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 585681,
+      "num": 288311,
+      "word": "嘴和胃对了一晚上的帐",
+      "onboard_time": 1689840695,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 582448,
@@ -3147,6 +3163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 519004,
+      "num": 315579,
+      "word": "讨坏型人格",
+      "onboard_time": 1689838414,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 518787,
       "num": 518787,
       "word": "玉骨遥点映礼没有王楚然",
@@ -3169,14 +3193,6 @@
       "onboard_time": 1689561931,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 516975,
-      "num": 315579,
-      "word": "讨坏型人格",
-      "onboard_time": 1689838414,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 512974,
@@ -3763,14 +3779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445827,
-      "num": 445827,
-      "word": "亚运会把杭州人逼成啥样了",
-      "onboard_time": 1689838232,
-      "rank": 34,
-      "category": "幽默,体育"
-    },
-    {
       "raw_hot": 443859,
       "num": 439700,
       "word": "范丞丞替杨澄向谢乔道歉",
@@ -4212,7 +4220,7 @@
     },
     {
       "raw_hot": 403283,
-      "num": 285899,
+      "num": 294961,
       "word": "入职后发现自己不是应届生",
       "onboard_time": 1689839734,
       "rank": 22,
@@ -4748,7 +4756,7 @@
     },
     {
       "raw_hot": 357447,
-      "num": 285164,
+      "num": 285315,
       "word": "美议员听证会现场掏拜登儿子色情裸照",
       "onboard_time": 1689838292,
       "rank": 35,
@@ -5067,6 +5075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337496,
+      "num": 291134,
+      "word": "陈哲远古装",
+      "onboard_time": 1689840994,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 337407,
       "num": 337407,
       "word": "志晟 我是你们的星星",
@@ -5147,14 +5163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 329767,
-      "num": 284833,
-      "word": "嘴和胃对了一晚上的帐",
-      "onboard_time": 1689840695,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 329079,
       "num": 284850,
       "word": "融梗",
@@ -5209,6 +5217,14 @@
       "onboard_time": 1689655595,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320135,
+      "num": 289854,
+      "word": "肖战许凯罗一舟今日营业照",
+      "onboard_time": 1689841653,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 320107,
@@ -5497,6 +5513,14 @@
       "onboard_time": 1689752374,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 298499,
+      "num": 298499,
+      "word": "中建八局",
+      "onboard_time": 1689840994,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298480,
@@ -5843,14 +5867,6 @@
       "category": "幽默,时尚"
     },
     {
-      "raw_hot": 279607,
-      "num": 286171,
-      "word": "中建八局",
-      "onboard_time": 1689840994,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279543,
       "num": 279543,
       "word": "张艺兴到达敦煌",
@@ -6136,6 +6152,14 @@
       "word": "逆水寒",
       "onboard_time": 1689579210,
       "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 260549,
+      "num": 260549,
+      "word": "星穹铁道",
+      "onboard_time": 1689841894,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -6481,6 +6505,14 @@
       "onboard_time": 1689722244,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240345,
+      "num": 240345,
+      "word": "想你的风吹到了厕所",
+      "onboard_time": 1689841114,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 240139,
@@ -6963,14 +6995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213737,
-      "num": 213737,
-      "word": "想你的风吹到了厕所",
-      "onboard_time": 1689841114,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 213468,
       "num": 211006,
       "word": "王鹤棣工作室是懂我们想看什么的",
@@ -7081,6 +7105,14 @@
       "onboard_time": 1689517477,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210323,
+      "num": 210323,
+      "word": "感觉余华的书走进现实了",
+      "onboard_time": 1689841415,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210264,
@@ -7241,14 +7273,6 @@
       "onboard_time": 1689767791,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204450,
-      "num": 204450,
-      "word": "陈哲远古装",
-      "onboard_time": 1689840994,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 204254,
@@ -8403,6 +8427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138311,
+      "num": 289364,
+      "word": "刘语熙体验移动式办公",
+      "onboard_time": 1689840275,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136579,
       "num": 218563,
       "word": "seventeen演唱会彩排照",
@@ -8417,14 +8449,6 @@
       "onboard_time": 1689627432,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133712,
-      "num": 285215,
-      "word": "刘语熙体验移动式办公",
-      "onboard_time": 1689840275,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 132603,

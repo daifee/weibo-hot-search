@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689841279823,
+  "endTime": 1689842075887,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -43,15 +43,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2816100,
-      "num": 2816100,
+      "raw_hot": 3143164,
+      "num": 3143164,
       "word": "黄晓明的回应vs杨洋的回应",
       "onboard_time": 1689837453,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 2717243,
+      "raw_hot": 2784024,
       "num": 2717243,
       "word": "中建八局被实名举报",
       "onboard_time": 1689837690,
@@ -235,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1097553,
+      "num": 1097553,
+      "word": "女生刚下山得知丢失的身份证在山顶",
+      "onboard_time": 1689838232,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1061208,
       "num": 1061208,
       "word": "男生收到北大录取通知书前还在割猪草",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 868874,
-      "num": 441925,
+      "num": 635799,
       "word": "王一博李沁 金色征途",
       "onboard_time": 1689837994,
       "rank": 31,
@@ -345,14 +353,6 @@
       "onboard_time": 1689764311,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 826517,
-      "num": 826517,
-      "word": "女生刚下山得知丢失的身份证在山顶",
-      "onboard_time": 1689838232,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 823823,
@@ -531,6 +531,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 638799,
+      "num": 638799,
+      "word": "亚运会把杭州人逼成啥样了",
+      "onboard_time": 1689838232,
+      "rank": 34,
+      "category": "幽默,体育"
+    },
+    {
       "raw_hot": 626446,
       "num": 431725,
       "word": "capper",
@@ -587,6 +595,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 585681,
+      "num": 288311,
+      "word": "嘴和胃对了一晚上的帐",
+      "onboard_time": 1689840695,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 572965,
       "num": 335527,
       "word": "女子爆料在HM试衣被3岁男童趴地偷窥",
@@ -635,7 +651,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 516975,
+      "raw_hot": 519004,
       "num": 315579,
       "word": "讨坏型人格",
       "onboard_time": 1689838414,
@@ -747,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445827,
-      "num": 445827,
-      "word": "亚运会把杭州人逼成啥样了",
-      "onboard_time": 1689838232,
-      "rank": 34,
-      "category": "幽默,体育"
-    },
-    {
       "raw_hot": 436962,
       "num": 436962,
       "word": "徐云流浪中国停止流浪",
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 403283,
-      "num": 285899,
+      "num": 294961,
       "word": "入职后发现自己不是应届生",
       "onboard_time": 1689839734,
       "rank": 22,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 357447,
-      "num": 285164,
+      "num": 285315,
       "word": "美议员听证会现场掏拜登儿子色情裸照",
       "onboard_time": 1689838292,
       "rank": 35,
@@ -1043,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 337496,
+      "num": 291134,
+      "word": "陈哲远古装",
+      "onboard_time": 1689840994,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336218,
       "num": 336218,
       "word": "山东莱荣高铁偷工减料被举报",
@@ -1075,19 +1091,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 329767,
-      "num": 284833,
-      "word": "嘴和胃对了一晚上的帐",
-      "onboard_time": 1689840695,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 327225,
       "num": 327225,
       "word": "张艺兴说刚跟成龙拍完电影",
       "onboard_time": 1689817652,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320135,
+      "num": 289854,
+      "word": "肖战许凯罗一舟今日营业照",
+      "onboard_time": 1689841653,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1129,6 +1145,14 @@
       "onboard_time": 1689811832,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298499,
+      "num": 298499,
+      "word": "中建八局",
+      "onboard_time": 1689840994,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297372,
@@ -1235,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279607,
-      "num": 286171,
-      "word": "中建八局",
-      "onboard_time": 1689840994,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276718,
       "num": 276718,
       "word": "上班需要带的东西",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1689790336,
       "rank": 49,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 260549,
+      "num": 260549,
+      "word": "星穹铁道",
+      "onboard_time": 1689841894,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 259396,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1689783631,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240345,
+      "num": 240345,
+      "word": "想你的风吹到了厕所",
+      "onboard_time": 1689841114,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 239557,
@@ -1435,20 +1467,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 213737,
-      "num": 213737,
-      "word": "想你的风吹到了厕所",
-      "onboard_time": 1689841114,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 213421,
       "num": 213421,
       "word": "奥本海默开分",
       "onboard_time": 1689821919,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210323,
+      "num": 210323,
+      "word": "感觉余华的书走进现实了",
+      "onboard_time": 1689841415,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210177,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1689814714,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204450,
-      "num": 204450,
-      "word": "陈哲远古装",
-      "onboard_time": 1689840994,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202486,
@@ -1723,8 +1747,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133712,
-      "num": 285215,
+      "raw_hot": 138311,
+      "num": 289364,
       "word": "刘语熙体验移动式办公",
       "onboard_time": 1689840275,
       "rank": 29,
