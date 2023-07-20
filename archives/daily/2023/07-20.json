@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689826831047,
+  "endTime": 1689827638352,
   "band_list": [
     {
       "raw_hot": 9852392,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 5549322,
-      "num": 1784266,
+      "num": 1898359,
       "word": "杨洋",
       "onboard_time": 1689808042,
       "rank": 3,
@@ -33,6 +33,14 @@
       "onboard_time": 1689821977,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3100531,
+      "num": 3100531,
+      "word": "杨洋回应近期争议",
+      "onboard_time": 1689826721,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 2536528,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 2265344,
-      "num": 341350,
+      "num": 459402,
       "word": "孙杨张豆豆婚纱大片",
       "onboard_time": 1689825814,
       "rank": 30,
@@ -75,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1908946,
+      "num": 1908946,
+      "word": "范丞丞说孟宴臣就位了该你了顾九思",
+      "onboard_time": 1689824317,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1601069,
       "num": 1601069,
       "word": "宋焰帮许沁搬家把蚝油也拿走了",
       "onboard_time": 1689818311,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1504345,
-      "num": 1504345,
-      "word": "范丞丞说孟宴臣就位了该你了顾九思",
-      "onboard_time": 1689824317,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1370702,
@@ -161,14 +169,6 @@
       "onboard_time": 1689816211,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1004010,
-      "num": 337849,
-      "word": "杨洋回应近期争议",
-      "onboard_time": 1689826721,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 981399,
@@ -251,6 +251,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 760043,
+      "num": 462014,
+      "word": "谁能看出来宋焰许沁是在接吻",
+      "onboard_time": 1689824434,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 746954,
+      "num": 418079,
+      "word": "官方回应高考453分上广州大学",
+      "onboard_time": 1689826116,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 739898,
+      "num": 739898,
+      "word": "在华山失联男子确认遇难",
+      "onboard_time": 1689824255,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732403,
       "num": 395894,
       "word": "这样睡觉真能改善圆肩驼背",
@@ -267,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 706284,
-      "num": 462014,
-      "word": "谁能看出来宋焰许沁是在接吻",
-      "onboard_time": 1689824434,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 715179,
+      "num": 715179,
+      "word": "男子上8天班辞职要公司赔偿100万",
+      "onboard_time": 1689818732,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 704362,
@@ -281,14 +305,6 @@
       "onboard_time": 1689780934,
       "rank": 14,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 698992,
-      "num": 698992,
-      "word": "男子上8天班辞职要公司赔偿100万",
-      "onboard_time": 1689818732,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 693913,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643615,
+      "num": 391300,
+      "word": "日媒称中国拦截日本水产品对核污水排海施压",
+      "onboard_time": 1689825336,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 626446,
       "num": 431725,
       "word": "capper",
@@ -337,14 +361,6 @@
       "onboard_time": 1689820117,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 613690,
-      "num": 613690,
-      "word": "在华山失联男子确认遇难",
-      "onboard_time": 1689824255,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 572965,
@@ -371,20 +387,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 555064,
-      "num": 348160,
-      "word": "日媒称中国拦截日本水产品对核污水排海施压",
-      "onboard_time": 1689825336,
-      "rank": 21,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 546962,
-      "num": 331683,
+      "raw_hot": 559450,
+      "num": 405528,
       "word": "孙杨张豆豆情史",
       "onboard_time": 1689825158,
       "rank": 33,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 556018,
+      "num": 390013,
+      "word": "张艺兴谈EXO新歌",
+      "onboard_time": 1689826239,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 544141,
+      "num": 389607,
+      "word": "丁真参演饶雪漫新电影",
+      "onboard_time": 1689826116,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 530474,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 495839,
-      "num": 346911,
+      "num": 386860,
       "word": "奈雪联名玉骨遥",
       "onboard_time": 1689824920,
       "rank": 22,
@@ -465,6 +489,14 @@
       "onboard_time": 1689774577,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 449497,
+      "num": 343893,
+      "word": "妈妈说从没听说过我的职业",
+      "onboard_time": 1689827500,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 447560,
@@ -531,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421622,
-      "num": 344689,
-      "word": "张艺兴谈EXO新歌",
-      "onboard_time": 1689826239,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 419212,
       "num": 419212,
       "word": "孟宴臣20S的眼泪谁来心疼",
@@ -603,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368195,
-      "num": 343202,
-      "word": "丁真参演饶雪漫新电影",
-      "onboard_time": 1689826116,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 361426,
       "num": 305070,
       "word": "边牧寄养不愿意回家了 天天放羊",
@@ -659,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342647,
-      "num": 342647,
-      "word": "官方回应高考453分上广州大学",
-      "onboard_time": 1689826116,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 341386,
       "num": 341386,
       "word": "广州大学 分数线",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336218,
+      "num": 336218,
+      "word": "山东莱荣高铁偷工减料被举报",
+      "onboard_time": 1689823417,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331506,
       "num": 331506,
       "word": "黑马情侣娱乐圈版",
@@ -705,14 +721,6 @@
       "onboard_time": 1689817652,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320972,
-      "num": 320972,
-      "word": "山东莱荣高铁偷工减料被举报",
-      "onboard_time": 1689823417,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306144,
@@ -763,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292543,
+      "num": 292543,
+      "word": "秦川谢乔终于亲了",
+      "onboard_time": 1689823897,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291548,
       "num": 291548,
       "word": "八角笼中王宝强演技",
@@ -792,14 +808,6 @@
       "word": "沈腾一出脚就笑了",
       "onboard_time": 1689776377,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 274782,
-      "num": 274782,
-      "word": "秦川谢乔终于亲了",
-      "onboard_time": 1689823897,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -883,12 +891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235149,
+      "num": 235149,
+      "word": "原神",
+      "onboard_time": 1689827621,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235119,
       "num": 235119,
       "word": "NewJeans新歌MV出现梁朝伟",
       "onboard_time": 1689808645,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234471,
+      "num": 234471,
+      "word": "90后女生攒20万裸辞回村生活",
+      "onboard_time": 1689827261,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234080,
@@ -1268,7 +1292,7 @@
     },
     {
       "raw_hot": 28399,
-      "num": 2280095,
+      "num": 3204084,
       "word": "民营经济是推进中国式现代化的生力军",
       "onboard_time": 1689766711,
       "rank": 2,
@@ -1295,6 +1319,9 @@
     },
     {
       "word": "#今后5年是美丽中国建设的重要时期#"
+    },
+    {
+      "word": "#在高质量发展的路上厚植绿色底色#"
     }
   ]
 }
