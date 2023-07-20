@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689809620352,
+  "endTime": 1689816444365,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -305,6 +305,14 @@
       "onboard_time": 1688400456,
       "rank": 0,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 5549322,
+      "num": 1784266,
+      "word": "杨洋",
+      "onboard_time": 1689808042,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 5487239,
@@ -2371,6 +2379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1914103,
+      "num": 783785,
+      "word": "泰国评选十大最美中国女演员",
+      "onboard_time": 1689812914,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1911699,
       "num": 1027925,
       "word": "女主播大面积裸露推荐隆胸产品被罚60万",
@@ -2835,14 +2851,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1784266,
-      "num": 1784266,
-      "word": "杨洋",
-      "onboard_time": 1689808042,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1783739,
       "num": 1783739,
       "word": "港媒曝郑欣宜患抑郁症",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1688342309,
       "rank": 0,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 1732984,
+      "num": 1732984,
+      "word": "潮州消防 灭火器不是玩具",
+      "onboard_time": 1689813515,
+      "rank": 0,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 1732184,
@@ -5849,6 +5865,14 @@
       "onboard_time": 1689776801,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1121943,
+      "num": 527148,
+      "word": "爸爸让女儿捡垃圾被怼脑子进水",
+      "onboard_time": 1689812497,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1121392,
@@ -8715,6 +8739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 866531,
+      "num": 496009,
+      "word": "日本一家公司不加班生育率增长了",
+      "onboard_time": 1689811594,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 866445,
       "num": 866445,
       "word": "嘉兴女会计转光同事卡里的钱反而被感谢",
@@ -8905,6 +8937,14 @@
       "onboard_time": 1688712455,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 855600,
+      "num": 295196,
+      "word": "试婚纱真的没必要带老公",
+      "onboard_time": 1689810808,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 854879,
@@ -10611,6 +10651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756605,
+      "num": 756605,
+      "word": "美国正在针对中俄研发生化武器",
+      "onboard_time": 1689813515,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 756003,
       "num": 756003,
       "word": "美方称坚决反对中国对镓和锗出口管制",
@@ -11089,6 +11137,14 @@
       "onboard_time": 1688468674,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 727894,
+      "num": 727894,
+      "word": "福宝福猪猪隔了个爷爷滤镜",
+      "onboard_time": 1689813634,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 727554,
@@ -12729,6 +12785,14 @@
       "onboard_time": 1688958629,
       "rank": 44,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 659647,
+      "num": 659647,
+      "word": "福宝三岁啦",
+      "onboard_time": 1689808944,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659305,
@@ -15009,6 +15073,14 @@
       "onboard_time": 1688281414,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 572965,
+      "num": 295086,
+      "word": "女子爆料在HM试衣被3岁男童趴地偷窥",
+      "onboard_time": 1689811891,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572851,
@@ -19035,6 +19107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462111,
+      "num": 462111,
+      "word": "原来整牙不一定能变美",
+      "onboard_time": 1689813874,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 462079,
       "num": 462079,
       "word": "青旅回应不接待35岁以上人群",
@@ -19721,6 +19801,14 @@
       "onboard_time": 1689209856,
       "rank": 18,
       "category": "其它"
+    },
+    {
+      "raw_hot": 447560,
+      "num": 447560,
+      "word": "hybe",
+      "onboard_time": 1689813757,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 447528,
@@ -21203,6 +21291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 419212,
+      "num": 419212,
+      "word": "孟宴臣20S的眼泪谁来心疼",
+      "onboard_time": 1689810148,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419173,
       "num": 355139,
       "word": "张杰说长沙要玩个大的",
@@ -22387,6 +22483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 396021,
+      "num": 396021,
+      "word": "苏可问朱时茂为什么不喜欢陈佩斯",
+      "onboard_time": 1689813158,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395843,
       "num": 535972,
       "word": "王宝强说我尊重观众尊重电影",
@@ -23321,6 +23425,14 @@
       "onboard_time": 1689033690,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 379312,
+      "num": 295069,
+      "word": "徐云流浪中国停止流浪",
+      "onboard_time": 1689815073,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 379127,
@@ -24507,6 +24619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360255,
+      "num": 294893,
+      "word": "边牧寄养不愿意回家了 天天放羊",
+      "onboard_time": 1689811651,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 360189,
       "num": 360189,
       "word": "王一博新电影叫小沈阳谢哥",
@@ -24745,6 +24865,14 @@
       "onboard_time": 1688557652,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356507,
+      "num": 294836,
+      "word": "刘耀文尚未前往医院治疗",
+      "onboard_time": 1689815252,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 356470,
@@ -25281,6 +25409,14 @@
       "onboard_time": 1689343663,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348661,
+      "num": 294723,
+      "word": "潘粤明打球没有技巧全是运气",
+      "onboard_time": 1689814175,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 348638,
@@ -28443,6 +28579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300546,
+      "num": 294540,
+      "word": "宋焰许沁是不是逃票了",
+      "onboard_time": 1689815734,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300521,
       "num": 375638,
       "word": "录取通知书里的中国式浪漫",
@@ -28465,6 +28609,14 @@
       "onboard_time": 1688548172,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300339,
+      "num": 294523,
+      "word": "相亲对象把我一人丢在外地了",
+      "onboard_time": 1689811832,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 300251,
@@ -28657,14 +28809,6 @@
       "onboard_time": 1689426935,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298039,
-      "num": 298039,
-      "word": "福宝三岁啦",
-      "onboard_time": 1689808944,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298003,
@@ -28977,6 +29121,14 @@
       "onboard_time": 1688196630,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295685,
+      "num": 294342,
+      "word": "NewJeans策划",
+      "onboard_time": 1689813634,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 295588,
@@ -29505,6 +29657,14 @@
       "onboard_time": 1689520956,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289804,
+      "num": 289804,
+      "word": "扫把的设计师是不是不干家务",
+      "onboard_time": 1689814656,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 289637,
@@ -34547,6 +34707,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 235228,
+      "num": 235228,
+      "word": "蒋依依珍珠吊带裙",
+      "onboard_time": 1689812855,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235186,
       "num": 235186,
       "word": "如何看待村书记称浮桥搭建者说假话",
@@ -34649,6 +34817,14 @@
       "onboard_time": 1689216152,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234080,
+      "num": 234080,
+      "word": "宋慧乔林智妍再同框",
+      "onboard_time": 1689814357,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 234043,
@@ -35257,6 +35433,14 @@
       "onboard_time": 1688621198,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 227656,
+      "num": 227656,
+      "word": "大熊猫福宝过生日",
+      "onboard_time": 1689812434,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227641,
@@ -36715,6 +36899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214764,
+      "num": 214764,
+      "word": "真正的情绪稳定不是忍耐",
+      "onboard_time": 1689808645,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 214742,
       "num": 214742,
       "word": "吉克隽逸镶钻半遮面头纱",
@@ -37681,6 +37873,14 @@
       "onboard_time": 1689315400,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207327,
+      "num": 207327,
+      "word": "get up",
+      "onboard_time": 1689810749,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 207237,
@@ -38651,6 +38851,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 200191,
+      "num": 200191,
+      "word": "TF三代演唱会联排照",
+      "onboard_time": 1689810929,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200095,
       "num": 200095,
       "word": "官方通报食堂饭菜发现异物",
@@ -39171,6 +39379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195503,
+      "num": 195503,
+      "word": "cool with you",
+      "onboard_time": 1689816155,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195479,
       "num": 203354,
       "word": "鹿晗演唱会",
@@ -39377,6 +39593,14 @@
       "onboard_time": 1688191113,
       "rank": 49,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 194435,
+      "num": 194435,
+      "word": "消失的搭子去哪儿了",
+      "onboard_time": 1689816394,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 194429,
@@ -39905,6 +40129,14 @@
       "onboard_time": 1688570598,
       "rank": 46,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 190293,
+      "num": 190293,
+      "word": "听说每个东北小孩都离不开它",
+      "onboard_time": 1689814232,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 190221,
@@ -40539,6 +40771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184633,
+      "num": 184633,
+      "word": "守望先锋2登录Steam",
+      "onboard_time": 1689813337,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184576,
       "num": 184576,
       "word": "LGD终结连败",
@@ -40977,6 +41217,14 @@
       "onboard_time": 1688564261,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179702,
+      "num": 179702,
+      "word": "男生收到北大录取通知书前还在割猪草",
+      "onboard_time": 1689816211,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 179498,
@@ -42515,6 +42763,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 163485,
+      "num": 163485,
+      "word": "张帅",
+      "onboard_time": 1689814714,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163377,
       "num": 163377,
       "word": "为了带猫咪做绝育有多拼",
@@ -42593,14 +42849,6 @@
       "onboard_time": 1688890592,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161405,
-      "num": 161405,
-      "word": "真正的情绪稳定不是忍耐",
-      "onboard_time": 1689808645,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 161285,
@@ -45867,6 +46115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68429,
+      "num": 791889,
+      "word": "你平时有哪些环保好习惯",
+      "onboard_time": 1689773377,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67496,
       "num": 67496,
       "word": "你会为了省钱放弃喜欢的东西吗",
@@ -46873,14 +47129,6 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 13876,
-      "num": 431837,
-      "word": "你平时有哪些环保好习惯",
-      "onboard_time": 1689773377,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11854,

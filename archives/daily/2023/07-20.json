@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689809620352,
+  "endTime": 1689816444365,
   "band_list": [
     {
       "raw_hot": 8049620,
@@ -11,12 +11,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1784266,
+      "raw_hot": 5549322,
       "num": 1784266,
       "word": "杨洋",
       "onboard_time": 1689808042,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1914103,
+      "num": 783785,
+      "word": "泰国评选十大最美中国女演员",
+      "onboard_time": 1689812914,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1732984,
+      "num": 1732984,
+      "word": "潮州消防 灭火器不是玩具",
+      "onboard_time": 1689813515,
+      "rank": 0,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 1370702,
@@ -59,12 +75,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121943,
+      "num": 527148,
+      "word": "爸爸让女儿捡垃圾被怼脑子进水",
+      "onboard_time": 1689812497,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 981399,
       "num": 517609,
       "word": "北京广告协会删除对蔡某某的风险把控提示",
       "onboard_time": 1689769233,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 866531,
+      "num": 496009,
+      "word": "日本一家公司不加班生育率增长了",
+      "onboard_time": 1689811594,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 855600,
+      "num": 295196,
+      "word": "试婚纱真的没必要带老公",
+      "onboard_time": 1689810808,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 830917,
@@ -83,6 +123,22 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 756605,
+      "num": 756605,
+      "word": "美国正在针对中俄研发生化武器",
+      "onboard_time": 1689813515,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 727894,
+      "num": 727894,
+      "word": "福宝福猪猪隔了个爷爷滤镜",
+      "onboard_time": 1689813634,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704362,
       "num": 704362,
       "word": "美总统候选人称美正收集中国人DNA",
@@ -97,6 +153,22 @@
       "onboard_time": 1689779260,
       "rank": 5,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 659647,
+      "num": 659647,
+      "word": "福宝三岁啦",
+      "onboard_time": 1689808944,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572965,
+      "num": 295086,
+      "word": "女子爆料在HM试衣被3岁男童趴地偷窥",
+      "onboard_time": 1689811891,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572317,
@@ -155,6 +227,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462111,
+      "num": 462111,
+      "word": "原来整牙不一定能变美",
+      "onboard_time": 1689813874,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 447560,
+      "num": 447560,
+      "word": "hybe",
+      "onboard_time": 1689813757,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432450,
       "num": 432450,
       "word": "SMTOWN全公司艺人一起奶新团",
@@ -177,6 +265,14 @@
       "onboard_time": 1689781712,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419212,
+      "num": 419212,
+      "word": "孟宴臣20S的眼泪谁来心疼",
+      "onboard_time": 1689810148,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 415188,
@@ -211,12 +307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 396021,
+      "num": 396021,
+      "word": "苏可问朱时茂为什么不喜欢陈佩斯",
+      "onboard_time": 1689813158,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391747,
       "num": 368314,
       "word": "孟宴臣哭的我心都碎了",
       "onboard_time": 1689780874,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379312,
+      "num": 295069,
+      "word": "徐云流浪中国停止流浪",
+      "onboard_time": 1689815073,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 370805,
@@ -227,12 +339,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360255,
+      "num": 294893,
+      "word": "边牧寄养不愿意回家了 天天放羊",
+      "onboard_time": 1689811651,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 356507,
+      "num": 294836,
+      "word": "刘耀文尚未前往医院治疗",
+      "onboard_time": 1689815252,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354715,
       "num": 354715,
       "word": "韩国幽灵婴儿已确认249人死亡",
       "onboard_time": 1689751411,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348661,
+      "num": 294723,
+      "word": "潘粤明打球没有技巧全是运气",
+      "onboard_time": 1689814175,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 341386,
@@ -275,12 +411,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 298039,
-      "num": 298039,
-      "word": "福宝三岁啦",
-      "onboard_time": 1689808944,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 300546,
+      "num": 294540,
+      "word": "宋焰许沁是不是逃票了",
+      "onboard_time": 1689815734,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 300339,
+      "num": 294523,
+      "word": "相亲对象把我一人丢在外地了",
+      "onboard_time": 1689811832,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 295685,
+      "num": 294342,
+      "word": "NewJeans策划",
+      "onboard_time": 1689813634,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 295534,
@@ -289,6 +441,14 @@
       "onboard_time": 1689779800,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 289804,
+      "num": 289804,
+      "word": "扫把的设计师是不是不干家务",
+      "onboard_time": 1689814656,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 283386,
@@ -331,12 +491,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235228,
+      "num": 235228,
+      "word": "蒋依依珍珠吊带裙",
+      "onboard_time": 1689812855,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235119,
       "num": 235119,
       "word": "NewJeans新歌MV出现梁朝伟",
       "onboard_time": 1689808645,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234080,
+      "num": 234080,
+      "word": "宋慧乔林智妍再同框",
+      "onboard_time": 1689814357,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 229120,
@@ -355,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227656,
+      "num": 227656,
+      "word": "大熊猫福宝过生日",
+      "onboard_time": 1689812434,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218945,
       "num": 286729,
       "word": "真的不要过度的去省钱",
@@ -363,12 +547,52 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214764,
+      "num": 214764,
+      "word": "真正的情绪稳定不是忍耐",
+      "onboard_time": 1689808645,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 207327,
+      "num": 207327,
+      "word": "get up",
+      "onboard_time": 1689810749,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202486,
       "num": 286702,
       "word": "拜把子拜了60个小孩",
       "onboard_time": 1689780457,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200191,
+      "num": 200191,
+      "word": "TF三代演唱会联排照",
+      "onboard_time": 1689810929,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195503,
+      "num": 195503,
+      "word": "cool with you",
+      "onboard_time": 1689816155,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 194435,
+      "num": 194435,
+      "word": "消失的搭子去哪儿了",
+      "onboard_time": 1689816394,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 193084,
@@ -401,6 +625,30 @@
       "onboard_time": 1689769895,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190293,
+      "num": 190293,
+      "word": "听说每个东北小孩都离不开它",
+      "onboard_time": 1689814232,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 184633,
+      "num": 184633,
+      "word": "守望先锋2登录Steam",
+      "onboard_time": 1689813337,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 179702,
+      "num": 179702,
+      "word": "男生收到北大录取通知书前还在割猪草",
+      "onboard_time": 1689816211,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 178635,
@@ -443,20 +691,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163485,
+      "num": 163485,
+      "word": "张帅",
+      "onboard_time": 1689814714,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161428,
       "num": 286651,
       "word": "指套为鸭事件被开除的厨师怎么办",
       "onboard_time": 1689766531,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161405,
-      "num": 161405,
-      "word": "真正的情绪稳定不是忍耐",
-      "onboard_time": 1689808645,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 158644,
@@ -537,6 +785,14 @@
       "onboard_time": 1689797713,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68429,
+      "num": 791889,
+      "word": "你平时有哪些环保好习惯",
+      "onboard_time": 1689773377,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61943,
