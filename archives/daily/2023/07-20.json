@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689842075887,
+  "endTime": 1689844612748,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1623209,
+      "num": 1623209,
+      "word": "女生刚下山得知丢失的身份证在山顶",
+      "onboard_time": 1689838232,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1601069,
       "num": 1601069,
       "word": "宋焰帮许沁搬家把蚝油也拿走了",
@@ -235,14 +243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1097553,
-      "num": 1097553,
-      "word": "女生刚下山得知丢失的身份证在山顶",
-      "onboard_time": 1689838232,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1061208,
       "num": 1061208,
       "word": "男生收到北大录取通知书前还在割猪草",
@@ -273,6 +273,14 @@
       "onboard_time": 1689829123,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 983163,
+      "num": 983163,
+      "word": "嘴和胃对了一晚上的帐",
+      "onboard_time": 1689840695,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 981399,
@@ -427,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 724148,
+      "num": 638799,
+      "word": "亚运会把杭州人逼成啥样了",
+      "onboard_time": 1689838232,
+      "rank": 34,
+      "category": "幽默,体育"
+    },
+    {
       "raw_hot": 715534,
       "num": 715534,
       "word": "黄子韬对马伯骞说不要塌台",
@@ -531,14 +547,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 638799,
-      "num": 638799,
-      "word": "亚运会把杭州人逼成啥样了",
-      "onboard_time": 1689838232,
-      "rank": 34,
-      "category": "幽默,体育"
-    },
-    {
       "raw_hot": 626446,
       "num": 431725,
       "word": "capper",
@@ -595,14 +603,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 585681,
-      "num": 288311,
-      "word": "嘴和胃对了一晚上的帐",
-      "onboard_time": 1689840695,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 572965,
       "num": 335527,
       "word": "女子爆料在HM试衣被3岁男童趴地偷窥",
@@ -617,6 +617,14 @@
       "onboard_time": 1689775961,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 571449,
+      "num": 571449,
+      "word": "陈哲远古装",
+      "onboard_time": 1689840994,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 560946,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 519004,
-      "num": 315579,
+      "num": 355209,
       "word": "讨坏型人格",
       "onboard_time": 1689838414,
       "rank": 30,
@@ -665,6 +673,14 @@
       "onboard_time": 1689776801,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505701,
+      "num": 505701,
+      "word": "南航回应机票近4万元只有1瓶水",
+      "onboard_time": 1689843272,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495839,
@@ -729,6 +745,14 @@
       "onboard_time": 1689834272,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 458249,
+      "num": 458249,
+      "word": "中建八局",
+      "onboard_time": 1689840994,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450591,
@@ -843,12 +867,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415015,
+      "num": 340475,
+      "word": "鹿晗 武汉",
+      "onboard_time": 1689843453,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 414790,
       "num": 414790,
       "word": "福宝",
       "onboard_time": 1689831395,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409457,
+      "num": 323298,
+      "word": "肖战许凯罗一舟今日营业照",
+      "onboard_time": 1689841653,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 407481,
@@ -923,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378891,
+      "num": 378891,
+      "word": "官方回应莱荣高铁事件",
+      "onboard_time": 1689844471,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371163,
       "num": 371163,
       "word": "西安教育局工作人员回应河南回流生",
@@ -936,6 +984,14 @@
       "word": "裴秀智青龙视后",
       "onboard_time": 1689775476,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 369903,
+      "num": 301026,
+      "word": "难哄桑延选角",
+      "onboard_time": 1689843815,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1051,14 +1107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 337496,
-      "num": 291134,
-      "word": "陈哲远古装",
-      "onboard_time": 1689840994,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 336218,
       "num": 336218,
       "word": "山东莱荣高铁偷工减料被举报",
@@ -1099,12 +1147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320135,
-      "num": 289854,
-      "word": "肖战许凯罗一舟今日营业照",
-      "onboard_time": 1689841653,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 320967,
+      "num": 287090,
+      "word": "当小爱同学帮我接了爸爸的电话",
+      "onboard_time": 1689842975,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 308504,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1689811832,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 298499,
-      "num": 298499,
-      "word": "中建八局",
-      "onboard_time": 1689840994,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297372,
@@ -1211,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290769,
+      "num": 290769,
+      "word": "星穹铁道",
+      "onboard_time": 1689841894,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289804,
       "num": 289804,
       "word": "扫把的设计师是不是不干家务",
@@ -1223,6 +1271,14 @@
       "num": 288579,
       "word": "多地共青团发文声援宋雨琦",
       "onboard_time": 1689829540,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287554,
+      "num": 287554,
+      "word": "19岁小伙辞职抓知了月入三四万",
+      "onboard_time": 1689838173,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -1251,12 +1307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280907,
-      "num": 280907,
-      "word": "19岁小伙辞职抓知了月入三四万",
-      "onboard_time": 1689838173,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 281353,
+      "num": 281353,
+      "word": "你是我的女儿不是我的作品",
+      "onboard_time": 1689843334,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 276718,
@@ -1291,12 +1347,20 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 260549,
-      "num": 260549,
-      "word": "星穹铁道",
-      "onboard_time": 1689841894,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 265427,
+      "num": 265427,
+      "word": "有个可爱的老婆是什么体验",
+      "onboard_time": 1689842555,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 264543,
+      "num": 264543,
+      "word": "感觉余华的书走进现实了",
+      "onboard_time": 1689841415,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259396,
@@ -1443,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222661,
+      "num": 222661,
+      "word": "四川人近期快吃吐了的菜",
+      "onboard_time": 1689844353,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 218945,
       "num": 286729,
       "word": "真的不要过度的去省钱",
@@ -1473,14 +1545,6 @@
       "onboard_time": 1689821919,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210323,
-      "num": 210323,
-      "word": "感觉余华的书走进现实了",
-      "onboard_time": 1689841415,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210177,
@@ -1539,12 +1603,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 199423,
+      "num": 195350,
+      "word": "钱塘江鱼鳞潮像极了万马奔腾",
+      "onboard_time": 1689844471,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196222,
       "num": 215949,
       "word": "麻将一下子变得简单了起来",
       "onboard_time": 1689823655,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195938,
+      "num": 195938,
+      "word": "莱荣高铁",
+      "onboard_time": 1689843933,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195747,
@@ -1867,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38476,
+      "num": 1177280,
+      "word": "天目一号气象星座07-10星成功发射",
+      "onboard_time": 1689844293,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38381,
       "num": 106581,
       "word": "密室大逃脱大神版",
@@ -1909,6 +1997,9 @@
     },
     {
       "word": "#中国人重情讲义不会忘记老朋友#"
+    },
+    {
+      "word": "#发现最美铁路#"
     }
   ]
 }

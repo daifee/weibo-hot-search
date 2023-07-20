@@ -1,0 +1,410 @@
+{
+  "runTime": 1689844612748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1623209,
+        "num": 1623209,
+        "word": "女生刚下山得知丢失的身份证在山顶",
+        "onboard_time": 1689838232,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1365950,
+        "num": 1365950,
+        "word": "张予曦 温以凡",
+        "onboard_time": 1689834214,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38476,
+        "num": 1177280,
+        "word": "天目一号气象星座07-10星成功发射",
+        "onboard_time": 1689844293,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057279,
+        "num": 1057279,
+        "word": "宋慧乔 我想第一次称赞我自己",
+        "onboard_time": 1689839373,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 983163,
+        "num": 983163,
+        "word": "嘴和胃对了一晚上的帐",
+        "onboard_time": 1689840695,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2729313,
+        "num": 883019,
+        "word": "中建八局被实名举报",
+        "onboard_time": 1689837690,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683645,
+        "num": 683645,
+        "word": "孙杨张豆豆官宣结婚",
+        "onboard_time": 1689819576,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 638604,
+        "num": 638604,
+        "word": "贾士凯为灭火器情节道歉",
+        "onboard_time": 1689835052,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 590351,
+        "num": 590351,
+        "word": "梁朝伟无片酬出演NewJeans新歌MV",
+        "onboard_time": 1689837754,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 571449,
+        "num": 571449,
+        "word": "陈哲远古装",
+        "onboard_time": 1689840994,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 528142,
+        "num": 528142,
+        "word": "刘晓庆71岁演少女",
+        "onboard_time": 1689821977,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505701,
+        "num": 505701,
+        "word": "南航回应机票近4万元只有1瓶水",
+        "onboard_time": 1689843272,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477665,
+        "num": 477665,
+        "word": "钟欣潼cos黎苏苏",
+        "onboard_time": 1689831516,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458249,
+        "num": 458249,
+        "word": "中建八局",
+        "onboard_time": 1689840994,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456168,
+        "num": 456168,
+        "word": "渐冻症患者因施工断电去世",
+        "onboard_time": 1689829123,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449302,
+        "num": 449302,
+        "word": "王一博李沁 金色征途",
+        "onboard_time": 1689837994,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417717,
+        "num": 417717,
+        "word": "我的人间烟火火了好多人啊",
+        "onboard_time": 1689832353,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416631,
+        "num": 416631,
+        "word": "杨洋",
+        "onboard_time": 1689808042,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378891,
+        "num": 378891,
+        "word": "官方回应莱荣高铁事件",
+        "onboard_time": 1689844471,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373378,
+        "num": 373378,
+        "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
+        "onboard_time": 1689830495,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 724148,
+        "num": 372471,
+        "word": "亚运会把杭州人逼成啥样了",
+        "onboard_time": 1689838232,
+        "rank": 20,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 421517,
+        "num": 355209,
+        "word": "讨坏型人格",
+        "onboard_time": 1689838414,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415015,
+        "num": 340475,
+        "word": "鹿晗 武汉",
+        "onboard_time": 1689843453,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409457,
+        "num": 323298,
+        "word": "肖战许凯罗一舟今日营业照",
+        "onboard_time": 1689841653,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309133,
+        "num": 309133,
+        "word": "顾客面包店充值200元发现被备注穷",
+        "onboard_time": 1689828820,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369903,
+        "num": 301026,
+        "word": "难哄桑延选角",
+        "onboard_time": 1689843815,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339979,
+        "num": 296580,
+        "word": "井川里予晒海边照",
+        "onboard_time": 1689834272,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 344066,
+        "num": 295830,
+        "word": "王楚然与难哄制片人聚餐",
+        "onboard_time": 1689829540,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290769,
+        "num": 290769,
+        "word": "星穹铁道",
+        "onboard_time": 1689841894,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287554,
+        "num": 287554,
+        "word": "19岁小伙辞职抓知了月入三四万",
+        "onboard_time": 1689838173,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320967,
+        "num": 287090,
+        "word": "当小爱同学帮我接了爸爸的电话",
+        "onboard_time": 1689842975,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281353,
+        "num": 281353,
+        "word": "你是我的女儿不是我的作品",
+        "onboard_time": 1689843334,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275276,
+        "num": 275276,
+        "word": "美议员听证会现场掏拜登儿子色情裸照",
+        "onboard_time": 1689838292,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 270709,
+        "num": 270709,
+        "word": "范丞丞说孟宴臣就位了该你了顾九思",
+        "onboard_time": 1689824317,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266775,
+        "num": 266775,
+        "word": "吴宣仪圈内人缘",
+        "onboard_time": 1689834392,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265427,
+        "num": 265427,
+        "word": "有个可爱的老婆是什么体验",
+        "onboard_time": 1689842555,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 264543,
+        "num": 264543,
+        "word": "感觉余华的书走进现实了",
+        "onboard_time": 1689841415,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258088,
+        "num": 258088,
+        "word": "入职后发现自己不是应届生",
+        "onboard_time": 1689839734,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241346,
+        "num": 241346,
+        "word": "奔跑吧本周预告",
+        "onboard_time": 1689829838,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222661,
+        "num": 222661,
+        "word": "四川人近期快吃吐了的菜",
+        "onboard_time": 1689844353,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217142,
+        "num": 217142,
+        "word": "日媒称中国拦截日本水产品对核污水排海施压",
+        "onboard_time": 1689825336,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 209635,
+        "num": 209635,
+        "word": "谢娜陈乔恩为敖子逸操碎了心",
+        "onboard_time": 1689839917,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208919,
+        "num": 208919,
+        "word": "想你的风吹到了厕所",
+        "onboard_time": 1689841114,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208163,
+        "num": 208163,
+        "word": "第一次见这么局部的雨",
+        "onboard_time": 1689836552,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 195938,
+        "num": 195938,
+        "word": "莱荣高铁",
+        "onboard_time": 1689843933,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199423,
+        "num": 195350,
+        "word": "钱塘江鱼鳞潮像极了万马奔腾",
+        "onboard_time": 1689844471,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193095,
+        "num": 193095,
+        "word": "女孩地铁晕倒大便失禁一女子帮清理",
+        "onboard_time": 1689832353,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191124,
+        "num": 191124,
+        "word": "福宝",
+        "onboard_time": 1689831395,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178573,
+        "num": 178573,
+        "word": "孙杨张豆豆婚纱大片",
+        "onboard_time": 1689825814,
+        "rank": 48,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 159409,
+        "num": 159409,
+        "word": "番位好像也没那么重要",
+        "onboard_time": 1689832054,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#发现最美铁路#"
+    }
+  }
+}

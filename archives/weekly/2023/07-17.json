@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689842075887,
+  "endTime": 1689844612748,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -563,6 +563,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1623209,
+      "num": 1623209,
+      "word": "女生刚下山得知丢失的身份证在山顶",
+      "onboard_time": 1689838232,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1613916,
       "num": 1613916,
       "word": "辣条在韩国火了",
@@ -1075,14 +1083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1097553,
-      "num": 1097553,
-      "word": "女生刚下山得知丢失的身份证在山顶",
-      "onboard_time": 1689838232,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1097042,
       "num": 425791,
       "word": "赵今麦的妆是谁画的",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1689577230,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 983163,
+      "num": 983163,
+      "word": "嘴和胃对了一晚上的帐",
+      "onboard_time": 1689840695,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 980169,
@@ -2043,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 724148,
+      "num": 638799,
+      "word": "亚运会把杭州人逼成啥样了",
+      "onboard_time": 1689838232,
+      "rank": 34,
+      "category": "幽默,体育"
+    },
+    {
       "raw_hot": 722977,
       "num": 722977,
       "word": "楼外楼",
@@ -2443,14 +2459,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 638799,
-      "num": 638799,
-      "word": "亚运会把杭州人逼成啥样了",
-      "onboard_time": 1689838232,
-      "rank": 34,
-      "category": "幽默,体育"
-    },
-    {
       "raw_hot": 637872,
       "num": 637872,
       "word": "薛之谦演唱会烟花放了7分17秒",
@@ -2755,14 +2763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 585681,
-      "num": 288311,
-      "word": "嘴和胃对了一晚上的帐",
-      "onboard_time": 1689840695,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 582448,
       "num": 518127,
       "word": "被鸟鸟徐志胜李雪琴哭死",
@@ -2865,6 +2865,14 @@
       "onboard_time": 1689732512,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571449,
+      "num": 571449,
+      "word": "陈哲远古装",
+      "onboard_time": 1689840994,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 570279,
@@ -3164,7 +3172,7 @@
     },
     {
       "raw_hot": 519004,
-      "num": 315579,
+      "num": 355209,
       "word": "讨坏型人格",
       "onboard_time": 1689838414,
       "rank": 30,
@@ -3233,6 +3241,14 @@
       "onboard_time": 1689740976,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 505701,
+      "num": 505701,
+      "word": "南航回应机票近4万元只有1瓶水",
+      "onboard_time": 1689843272,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505537,
@@ -3640,6 +3656,14 @@
       "word": "警方回应男子怒扇婴儿脸几十次",
       "onboard_time": 1689669513,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458249,
+      "num": 458249,
+      "word": "中建八局",
+      "onboard_time": 1689840994,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4083,6 +4107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415015,
+      "num": 340475,
+      "word": "鹿晗 武汉",
+      "onboard_time": 1689843453,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 414790,
       "num": 414790,
       "word": "福宝",
@@ -4153,6 +4185,14 @@
       "onboard_time": 1689557848,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 409457,
+      "num": 323298,
+      "word": "肖战许凯罗一舟今日营业照",
+      "onboard_time": 1689841653,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 407481,
@@ -4499,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378891,
+      "num": 378891,
+      "word": "官方回应莱荣高铁事件",
+      "onboard_time": 1689844471,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377928,
       "num": 377928,
       "word": "西安市教育局回应中考回流生问题",
@@ -4577,6 +4625,14 @@
       "onboard_time": 1689739655,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 369903,
+      "num": 301026,
+      "word": "难哄桑延选角",
+      "onboard_time": 1689843815,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 369295,
@@ -5075,14 +5131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337496,
-      "num": 291134,
-      "word": "陈哲远古装",
-      "onboard_time": 1689840994,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 337407,
       "num": 337407,
       "word": "志晟 我是你们的星星",
@@ -5219,12 +5267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320135,
-      "num": 289854,
-      "word": "肖战许凯罗一舟今日营业照",
-      "onboard_time": 1689841653,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 320967,
+      "num": 287090,
+      "word": "当小爱同学帮我接了爸爸的电话",
+      "onboard_time": 1689842975,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 320107,
@@ -5515,14 +5563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 298499,
-      "num": 298499,
-      "word": "中建八局",
-      "onboard_time": 1689840994,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298480,
       "num": 298480,
       "word": "易梦玲高颅顶盘发",
@@ -5651,6 +5691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290769,
+      "num": 290769,
+      "word": "星穹铁道",
+      "onboard_time": 1689841894,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290194,
       "num": 290194,
       "word": "infp向上管理真的很差",
@@ -5729,6 +5777,14 @@
       "onboard_time": 1689572431,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 287554,
+      "num": 287554,
+      "word": "19岁小伙辞职抓知了月入三四万",
+      "onboard_time": 1689838173,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287307,
@@ -5827,20 +5883,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281353,
+      "num": 281353,
+      "word": "你是我的女儿不是我的作品",
+      "onboard_time": 1689843334,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281309,
       "num": 281309,
       "word": "Whatever I am NoFear",
       "onboard_time": 1689656314,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280907,
-      "num": 280907,
-      "word": "19岁小伙辞职抓知了月入三四万",
-      "onboard_time": 1689838173,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280653,
@@ -6091,11 +6147,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265427,
+      "num": 265427,
+      "word": "有个可爱的老婆是什么体验",
+      "onboard_time": 1689842555,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 264717,
       "num": 313343,
       "word": "克里米亚大桥紧急事件致2死1伤",
       "onboard_time": 1689571649,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264543,
+      "num": 264543,
+      "word": "感觉余华的书走进现实了",
+      "onboard_time": 1689841415,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -6152,14 +6224,6 @@
       "word": "逆水寒",
       "onboard_time": 1689579210,
       "rank": 32,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 260549,
-      "num": 260549,
-      "word": "星穹铁道",
-      "onboard_time": 1689841894,
-      "rank": 38,
       "category": "游戏"
     },
     {
@@ -6859,6 +6923,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 222661,
+      "num": 222661,
+      "word": "四川人近期快吃吐了的菜",
+      "onboard_time": 1689844353,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 222150,
       "num": 222150,
       "word": "李帝努 我们多多见面吧",
@@ -7105,14 +7177,6 @@
       "onboard_time": 1689517477,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210323,
-      "num": 210323,
-      "word": "感觉余华的书走进现实了",
-      "onboard_time": 1689841415,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210264,
@@ -7443,6 +7507,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 199423,
+      "num": 195350,
+      "word": "钱塘江鱼鳞潮像极了万马奔腾",
+      "onboard_time": 1689844471,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199069,
       "num": 199069,
       "word": "宋知许日记",
@@ -7505,6 +7577,14 @@
       "onboard_time": 1689823655,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195938,
+      "num": 195938,
+      "word": "莱荣高铁",
+      "onboard_time": 1689843933,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195775,
@@ -8979,6 +9059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38476,
+      "num": 1177280,
+      "word": "天目一号气象星座07-10星成功发射",
+      "onboard_time": 1689844293,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36383,
       "num": 62699,
       "word": "张杰演唱会",
@@ -9124,6 +9212,9 @@
     },
     {
       "word": "#中国人重情讲义不会忘记老朋友#"
+    },
+    {
+      "word": "#发现最美铁路#"
     }
   ]
 }
