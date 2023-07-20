@@ -1,0 +1,410 @@
+{
+  "runTime": 1689837357529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3077559,
+        "num": 3077559,
+        "word": "杨洋回应近期争议",
+        "onboard_time": 1689826721,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2340816,
+        "num": 2340816,
+        "word": "张予曦 温以凡",
+        "onboard_time": 1689834214,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34859,
+        "num": 1498343,
+        "word": "民营经济是推进中国式现代化的生力军",
+        "onboard_time": 1689766711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1474769,
+        "num": 1474769,
+        "word": "贾士凯为灭火器情节道歉",
+        "onboard_time": 1689835052,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1185729,
+        "num": 1185729,
+        "word": "因共享单车全程无脏话交流两分钟以上",
+        "onboard_time": 1689828459,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1135650,
+        "num": 1135650,
+        "word": "钟欣潼cos黎苏苏",
+        "onboard_time": 1689831516,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1041844,
+        "num": 1041844,
+        "word": "刘晓庆71岁演少女",
+        "onboard_time": 1689821977,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1020913,
+        "num": 1020913,
+        "word": "孙杨张豆豆官宣结婚",
+        "onboard_time": 1689819576,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 823823,
+        "num": 823823,
+        "word": "A股",
+        "onboard_time": 1689834753,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 758627,
+        "num": 758627,
+        "word": "渐冻症患者因施工断电去世",
+        "onboard_time": 1689829123,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1576286,
+        "num": 758120,
+        "word": "王楚然与难哄制片人聚餐",
+        "onboard_time": 1689829540,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 792347,
+        "num": 752771,
+        "word": "吴宣仪圈内人缘",
+        "onboard_time": 1689834392,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 740902,
+        "num": 740902,
+        "word": "8名大学生办暑期班被举报",
+        "onboard_time": 1689834990,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702229,
+        "num": 702229,
+        "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
+        "onboard_time": 1689830495,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 593543,
+        "num": 593543,
+        "word": "孟母的这滴泪",
+        "onboard_time": 1689833192,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570044,
+        "num": 570044,
+        "word": "顾客面包店充值200元发现被备注穷",
+        "onboard_time": 1689828820,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586031,
+        "num": 563158,
+        "word": "我的人间烟火火了好多人啊",
+        "onboard_time": 1689832353,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512935,
+        "num": 512935,
+        "word": "杨洋",
+        "onboard_time": 1689808042,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440857,
+        "num": 440857,
+        "word": "日媒称中国拦截日本水产品对核污水排海施压",
+        "onboard_time": 1689825336,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 409328,
+        "num": 409328,
+        "word": "福宝",
+        "onboard_time": 1689831395,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485472,
+        "num": 409064,
+        "word": "奔跑吧本周预告",
+        "onboard_time": 1689829838,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455397,
+        "num": 408923,
+        "word": "井川里予晒海边照",
+        "onboard_time": 1689834272,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 407481,
+        "num": 407481,
+        "word": "努比亚",
+        "onboard_time": 1689836852,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 386235,
+        "num": 386235,
+        "word": "女孩地铁晕倒大便失禁一女子帮清理",
+        "onboard_time": 1689832353,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358901,
+        "num": 358901,
+        "word": "丈夫给妻子10元认为能买很多菜",
+        "onboard_time": 1689820659,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349987,
+        "num": 349987,
+        "word": "孙杨张豆豆婚纱大片",
+        "onboard_time": 1689825814,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 343480,
+        "num": 343480,
+        "word": "陈瑾演技",
+        "onboard_time": 1689836431,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336788,
+        "num": 336788,
+        "word": "范丞丞说孟宴臣就位了该你了顾九思",
+        "onboard_time": 1689824317,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307120,
+        "num": 307120,
+        "word": "基辛格",
+        "onboard_time": 1689831816,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 297372,
+        "num": 297372,
+        "word": "正式确诊为仙人掌",
+        "onboard_time": 1689834094,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 638297,
+        "num": 293837,
+        "word": "第一次见这么局部的雨",
+        "onboard_time": 1689836552,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 308504,
+        "num": 290196,
+        "word": "海姆立克急救法的清晰演示",
+        "onboard_time": 1689836372,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279731,
+        "num": 279731,
+        "word": "中国好声音发布会直播",
+        "onboard_time": 1689836793,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272877,
+        "num": 272877,
+        "word": "这样睡觉真能改善圆肩驼背",
+        "onboard_time": 1689821558,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270102,
+        "num": 270102,
+        "word": "官方回应高考453分上广州大学",
+        "onboard_time": 1689826116,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 269479,
+        "num": 269479,
+        "word": "敖子逸主动找蒋依依",
+        "onboard_time": 1689832836,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260102,
+        "num": 260102,
+        "word": "番位好像也没那么重要",
+        "onboard_time": 1689832054,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232657,
+        "num": 232657,
+        "word": "时代少年团青岛演唱会开票时间",
+        "onboard_time": 1689834631,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223650,
+        "num": 223650,
+        "word": "以为女朋友出轨结果发现是郑在玹",
+        "onboard_time": 1689827800,
+        "rank": 38,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 217309,
+        "num": 217309,
+        "word": "张艺兴谈EXO新歌",
+        "onboard_time": 1689826239,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213586,
+        "num": 213586,
+        "word": "EDG预测",
+        "onboard_time": 1689824797,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206968,
+        "num": 206968,
+        "word": "创造营2023导师阵容",
+        "onboard_time": 1689819332,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200859,
+        "num": 200859,
+        "word": "鹿晗上海演唱会",
+        "onboard_time": 1689832775,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200476,
+        "num": 200476,
+        "word": "多地共青团发文声援宋雨琦",
+        "onboard_time": 1689829540,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197934,
+        "num": 197934,
+        "word": "孙杨张豆豆情史",
+        "onboard_time": 1689825158,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 191356,
+        "num": 197919,
+        "word": "吴俊霆蒋依依演李峋朱韵",
+        "onboard_time": 1689830258,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191034,
+        "num": 197914,
+        "word": "西安教育局工作人员回应河南回流生",
+        "onboard_time": 1689827800,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182871,
+        "num": 197894,
+        "word": "麦门人和肯门人都沉默了",
+        "onboard_time": 1689827982,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178219,
+        "num": 197877,
+        "word": "泰国评选十大最美中国女演员",
+        "onboard_time": 1689812914,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176039,
+        "num": 197857,
+        "word": "现在就出发",
+        "onboard_time": 1689835473,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#今后5年是美丽中国建设的重要时期#"
+    }
+  }
+}

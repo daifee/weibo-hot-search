@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689834929792,
+  "endTime": 1689837357529,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2340816,
+      "num": 2340816,
+      "word": "张予曦 温以凡",
+      "onboard_time": 1689834214,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2265344,
       "num": 1099311,
       "word": "孙杨张豆豆婚纱大片",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 2038435,
-      "num": 713879,
+      "num": 758120,
       "word": "王楚然与难哄制片人聚餐",
       "onboard_time": 1689829540,
       "rank": 15,
@@ -104,6 +112,14 @@
       "word": "宋焰帮许沁搬家把蚝油也拿走了",
       "onboard_time": 1689818311,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1474769,
+      "num": 1474769,
+      "word": "贾士凯为灭火器情节道歉",
+      "onboard_time": 1689835052,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -145,6 +161,14 @@
       "onboard_time": 1689777638,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1185729,
+      "num": 1185729,
+      "word": "因共享单车全程无脏话交流两分钟以上",
+      "onboard_time": 1689828459,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 1165532,
@@ -235,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 886136,
-      "num": 886136,
-      "word": "因共享单车全程无脏话交流两分钟以上",
-      "onboard_time": 1689828459,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 868934,
       "num": 411609,
       "word": "女孩地铁晕倒大便失禁一女子帮清理",
@@ -283,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 823823,
+      "num": 823823,
+      "word": "A股",
+      "onboard_time": 1689834753,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 822431,
       "num": 822431,
       "word": "美国正在针对中俄研发生化武器",
@@ -315,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792347,
+      "num": 752771,
+      "word": "吴宣仪圈内人缘",
+      "onboard_time": 1689834392,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 763547,
       "num": 755563,
       "word": "如果孟宴臣遇见的是薛杉杉",
       "onboard_time": 1689819696,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 740902,
+      "num": 740902,
+      "word": "8名大学生办暑期班被举报",
+      "onboard_time": 1689834990,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739898,
@@ -371,6 +411,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 702229,
+      "num": 702229,
+      "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
+      "onboard_time": 1689830495,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 696135,
       "num": 696135,
       "word": "孟家到底做了什么对不起许沁的事",
@@ -419,20 +467,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 644079,
-      "num": 644079,
-      "word": "张予曦 温以凡",
-      "onboard_time": 1689834214,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 643615,
       "num": 614251,
       "word": "日媒称中国拦截日本水产品对核污水排海施压",
       "onboard_time": 1689825336,
       "rank": 21,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 638297,
+      "num": 293837,
+      "word": "第一次见这么局部的雨",
+      "onboard_time": 1689836552,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 626446,
@@ -475,12 +523,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 594069,
-      "num": 594069,
-      "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
-      "onboard_time": 1689830495,
-      "rank": 34,
-      "category": "社会新闻,教育"
+      "raw_hot": 593543,
+      "num": 593543,
+      "word": "孟母的这滴泪",
+      "onboard_time": 1689833192,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 591112,
@@ -587,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 473049,
-      "num": 408130,
-      "word": "吴宣仪圈内人缘",
-      "onboard_time": 1689834392,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 472415,
       "num": 472415,
       "word": "EDG预测",
@@ -609,6 +649,14 @@
       "onboard_time": 1689774577,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 455397,
+      "num": 408923,
+      "word": "井川里予晒海边照",
+      "onboard_time": 1689834272,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 450591,
@@ -641,14 +689,6 @@
       "onboard_time": 1689829002,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436966,
-      "num": 405090,
-      "word": "孟母的这滴泪",
-      "onboard_time": 1689833192,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 436962,
@@ -737,6 +777,14 @@
       "onboard_time": 1689831395,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407481,
+      "num": 407481,
+      "word": "努比亚",
+      "onboard_time": 1689836852,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 403906,
@@ -859,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343480,
+      "num": 343480,
+      "word": "陈瑾演技",
+      "onboard_time": 1689836431,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341386,
       "num": 341386,
       "word": "广州大学 分数线",
@@ -923,12 +979,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324576,
-      "num": 324576,
-      "word": "井川里予晒海边照",
-      "onboard_time": 1689834272,
-      "rank": 26,
-      "category": "网红"
+      "raw_hot": 308504,
+      "num": 290196,
+      "word": "海姆立克急救法的清晰演示",
+      "onboard_time": 1689836372,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 307120,
+      "num": 307120,
+      "word": "基辛格",
+      "onboard_time": 1689831816,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 306144,
@@ -953,6 +1017,14 @@
       "onboard_time": 1689811832,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 297372,
+      "num": 297372,
+      "word": "正式确诊为仙人掌",
+      "onboard_time": 1689834094,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 295685,
@@ -1035,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279731,
+      "num": 279731,
+      "word": "中国好声音发布会直播",
+      "onboard_time": 1689836793,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276718,
       "num": 276718,
       "word": "上班需要带的东西",
@@ -1089,14 +1169,6 @@
       "onboard_time": 1689834153,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250403,
-      "num": 250403,
-      "word": "基辛格",
-      "onboard_time": 1689831816,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 248489,
@@ -1171,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232657,
+      "num": 232657,
+      "word": "时代少年团青岛演唱会开票时间",
+      "onboard_time": 1689834631,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232617,
       "num": 232617,
       "word": "女足世界杯",
@@ -1201,22 +1281,6 @@
       "onboard_time": 1689812434,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227196,
-      "num": 227196,
-      "word": "正式确诊为仙人掌",
-      "onboard_time": 1689834094,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 223542,
-      "num": 223542,
-      "word": "A股",
-      "onboard_time": 1689834753,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 218945,
@@ -1305,14 +1369,6 @@
       "onboard_time": 1689823655,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196174,
-      "num": 196174,
-      "word": "时代少年团青岛演唱会开票时间",
-      "onboard_time": 1689834631,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 195517,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1689769055,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176039,
+      "num": 197857,
+      "word": "现在就出发",
+      "onboard_time": 1689835473,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 171966,
@@ -1603,7 +1667,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28399,
+      "raw_hot": 34859,
       "num": 3204084,
       "word": "民营经济是推进中国式现代化的生力军",
       "onboard_time": 1689766711,
