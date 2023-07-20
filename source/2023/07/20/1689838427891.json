@@ -1,0 +1,410 @@
+{
+  "runTime": 1689838427891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3077449,
+        "num": 3077449,
+        "word": "杨洋回应近期争议",
+        "onboard_time": 1689826721,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2543931,
+        "num": 2543931,
+        "word": "张予曦 温以凡",
+        "onboard_time": 1689834214,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40432,
+        "num": 1859951,
+        "word": "成都大运会开幕式烟花彩排好壮观",
+        "onboard_time": 1689823360,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1406409,
+        "num": 1406409,
+        "word": "贾士凯为灭火器情节道歉",
+        "onboard_time": 1689835052,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1218865,
+        "num": 1218865,
+        "word": "因共享单车全程无脏话交流两分钟以上",
+        "onboard_time": 1689828459,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 929000,
+        "num": 929000,
+        "word": "刘晓庆71岁演少女",
+        "onboard_time": 1689821977,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 926469,
+        "num": 926469,
+        "word": "钟欣潼cos黎苏苏",
+        "onboard_time": 1689831516,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868017,
+        "num": 868017,
+        "word": "8名大学生办暑期班被举报",
+        "onboard_time": 1689834990,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857427,
+        "num": 857427,
+        "word": "孙杨张豆豆官宣结婚",
+        "onboard_time": 1689819576,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 694098,
+        "num": 694098,
+        "word": "渐冻症患者因施工断电去世",
+        "onboard_time": 1689829123,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143046,
+        "num": 688680,
+        "word": "王楚然与难哄制片人聚餐",
+        "onboard_time": 1689829540,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 923021,
+        "num": 684555,
+        "word": "黄晓明的回应vs杨洋的回应",
+        "onboard_time": 1689837453,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670912,
+        "num": 670912,
+        "word": "吴宣仪圈内人缘",
+        "onboard_time": 1689834392,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 653678,
+        "num": 653678,
+        "word": "A股",
+        "onboard_time": 1689834753,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 637237,
+        "num": 637237,
+        "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
+        "onboard_time": 1689830495,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 666633,
+        "num": 626184,
+        "word": "杨洋",
+        "onboard_time": 1689808042,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599417,
+        "num": 599417,
+        "word": "孟母的这滴泪",
+        "onboard_time": 1689833192,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470945,
+        "num": 470945,
+        "word": "顾客面包店充值200元发现被备注穷",
+        "onboard_time": 1689828820,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420775,
+        "num": 420775,
+        "word": "日媒称中国拦截日本水产品对核污水排海施压",
+        "onboard_time": 1689825336,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 318899,
+        "num": 318899,
+        "word": "福宝",
+        "onboard_time": 1689831395,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697265,
+        "num": 318642,
+        "word": "第一次见这么局部的雨",
+        "onboard_time": 1689836552,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 529477,
+        "num": 318409,
+        "word": "我的人间烟火火了好多人啊",
+        "onboard_time": 1689832353,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459672,
+        "num": 318011,
+        "word": "井川里予晒海边照",
+        "onboard_time": 1689834272,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 430477,
+        "num": 317969,
+        "word": "中建八局被实名举报",
+        "onboard_time": 1689837690,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386120,
+        "num": 317564,
+        "word": "女孩地铁晕倒大便失禁一女子帮清理",
+        "onboard_time": 1689832353,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383601,
+        "num": 317177,
+        "word": "陈瑾演技",
+        "onboard_time": 1689836431,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367467,
+        "num": 317010,
+        "word": "奔跑吧本周预告",
+        "onboard_time": 1689829838,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360719,
+        "num": 316481,
+        "word": "梁朝伟无片酬出演NewJeans新歌MV",
+        "onboard_time": 1689837754,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350995,
+        "num": 316235,
+        "word": "中国好声音发布会直播",
+        "onboard_time": 1689836793,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316163,
+        "num": 316163,
+        "word": "孙杨张豆豆婚纱大片",
+        "onboard_time": 1689825814,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 470029,
+        "num": 315579,
+        "word": "讨坏型人格",
+        "onboard_time": 1689838414,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324216,
+        "num": 314735,
+        "word": "王一博李沁 金色征途",
+        "onboard_time": 1689837994,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317505,
+        "num": 313740,
+        "word": "范丞丞说孟宴臣就位了该你了顾九思",
+        "onboard_time": 1689824317,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312686,
+        "num": 312686,
+        "word": "丈夫给妻子10元认为能买很多菜",
+        "onboard_time": 1689820659,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266546,
+        "num": 266546,
+        "word": "亚运会把杭州人逼成啥样了",
+        "onboard_time": 1689838232,
+        "rank": 34,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 262970,
+        "num": 262970,
+        "word": "美议员听证会现场掏拜登儿子色情裸照",
+        "onboard_time": 1689838292,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 254418,
+        "num": 254418,
+        "word": "敖子逸主动找蒋依依",
+        "onboard_time": 1689832836,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253576,
+        "num": 253576,
+        "word": "正式确诊为仙人掌",
+        "onboard_time": 1689834094,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243249,
+        "num": 243249,
+        "word": "官方回应高考453分上广州大学",
+        "onboard_time": 1689826116,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 232885,
+        "num": 232885,
+        "word": "基辛格",
+        "onboard_time": 1689831816,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 227398,
+        "num": 227398,
+        "word": "女生刚下山得知丢失的身份证在山顶",
+        "onboard_time": 1689838232,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218084,
+        "num": 218084,
+        "word": "番位好像也没那么重要",
+        "onboard_time": 1689832054,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215035,
+        "num": 215035,
+        "word": "以为女朋友出轨结果发现是郑在玹",
+        "onboard_time": 1689827800,
+        "rank": 42,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 192301,
+        "num": 206597,
+        "word": "努比亚",
+        "onboard_time": 1689836852,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204628,
+        "num": 204628,
+        "word": "张艺兴谈EXO新歌",
+        "onboard_time": 1689826239,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201765,
+        "num": 201765,
+        "word": "这样睡觉真能改善圆肩驼背",
+        "onboard_time": 1689821558,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197336,
+        "num": 197336,
+        "word": "时代少年团青岛演唱会开票时间",
+        "onboard_time": 1689834631,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186235,
+        "num": 186235,
+        "word": "EDG预测",
+        "onboard_time": 1689824797,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184601,
+        "num": 184601,
+        "word": "北京中轴线好多显眼包啊",
+        "onboard_time": 1689838414,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182954,
+        "num": 182954,
+        "word": "创造营2023导师阵容",
+        "onboard_time": 1689819332,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人重情讲义不会忘记老朋友#"
+    }
+  }
+}
