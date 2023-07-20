@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689838427891,
+  "endTime": 1689841279823,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -155,6 +155,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2816100,
+      "num": 2816100,
+      "word": "黄晓明的回应vs杨洋的回应",
+      "onboard_time": 1689837453,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2805040,
       "num": 2805040,
       "word": "微信注销了是这样子",
@@ -177,6 +185,14 @@
       "onboard_time": 1689550045,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2717243,
+      "num": 2717243,
+      "word": "中建八局被实名举报",
+      "onboard_time": 1689837690,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2608686,
@@ -931,6 +947,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1175231,
+      "num": 1175231,
+      "word": "梁朝伟无片酬出演NewJeans新歌MV",
+      "onboard_time": 1689837754,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1171473,
+      "num": 1171473,
+      "word": "宋慧乔 我想第一次称赞我自己",
+      "onboard_time": 1689839373,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1165532,
       "num": 1165532,
       "word": "罗森",
@@ -1387,14 +1419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 923021,
-      "num": 684555,
-      "word": "黄晓明的回应vs杨洋的回应",
-      "onboard_time": 1689837453,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 919392,
       "num": 819288,
       "word": "许沁被偷改的人生",
@@ -1539,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868874,
+      "num": 441925,
+      "word": "王一博李沁 金色征途",
+      "onboard_time": 1689837994,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 868017,
       "num": 868017,
       "word": "8名大学生办暑期班被举报",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1689743853,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 826517,
+      "num": 826517,
+      "word": "女生刚下山得知丢失的身份证在山顶",
+      "onboard_time": 1689838232,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 824468,
@@ -3131,6 +3171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 516975,
+      "num": 315579,
+      "word": "讨坏型人格",
+      "onboard_time": 1689838414,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 512974,
       "num": 399878,
       "word": "小狗偷亲了给自己换药的主人",
@@ -3491,14 +3539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470029,
-      "num": 315579,
-      "word": "讨坏型人格",
-      "onboard_time": 1689838414,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 469464,
       "num": 832665,
       "word": "密室大逃脱大神版",
@@ -3723,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445827,
+      "num": 445827,
+      "word": "亚运会把杭州人逼成啥样了",
+      "onboard_time": 1689838232,
+      "rank": 34,
+      "category": "幽默,体育"
+    },
+    {
       "raw_hot": 443859,
       "num": 439700,
       "word": "范丞丞替杨澄向谢乔道歉",
@@ -3857,14 +3905,6 @@
       "onboard_time": 1689556949,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 430477,
-      "num": 317969,
-      "word": "中建八局被实名举报",
-      "onboard_time": 1689837690,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430365,
@@ -4169,6 +4209,14 @@
       "onboard_time": 1689779800,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 403283,
+      "num": 285899,
+      "word": "入职后发现自己不是应届生",
+      "onboard_time": 1689839734,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 403255,
@@ -4635,14 +4683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360719,
-      "num": 316481,
-      "word": "梁朝伟无片酬出演NewJeans新歌MV",
-      "onboard_time": 1689837754,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 360584,
       "num": 328939,
       "word": "张子豪正式官宣签约龙韬娱乐",
@@ -4705,6 +4745,14 @@
       "onboard_time": 1689823057,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 357447,
+      "num": 285164,
+      "word": "美议员听证会现场掏拜登儿子色情裸照",
+      "onboard_time": 1689838292,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 357126,
@@ -4881,6 +4929,14 @@
       "onboard_time": 1689814175,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347115,
+      "num": 285513,
+      "word": "挂不到专家号就找实习医生",
+      "onboard_time": 1689839252,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 346610,
@@ -5067,6 +5123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331584,
+      "num": 284954,
+      "word": "谢娜陈乔恩为敖子逸操碎了心",
+      "onboard_time": 1689839917,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331159,
       "num": 331159,
       "word": "曾黎金丝眼镜",
@@ -5080,6 +5144,14 @@
       "word": "麦门人和肯门人都沉默了",
       "onboard_time": 1689827982,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 329767,
+      "num": 284833,
+      "word": "嘴和胃对了一晚上的帐",
+      "onboard_time": 1689840695,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -5120,14 +5192,6 @@
       "word": "杨澄清醒了",
       "onboard_time": 1689574231,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 324216,
-      "num": 314735,
-      "word": "王一博李沁 金色征途",
-      "onboard_time": 1689837994,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -5747,6 +5811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280907,
+      "num": 280907,
+      "word": "19岁小伙辞职抓知了月入三四万",
+      "onboard_time": 1689838173,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280653,
       "num": 280653,
       "word": "2女子江边露营点餐外卖员找到崩溃",
@@ -5769,6 +5841,14 @@
       "onboard_time": 1689765869,
       "rank": 31,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 279607,
+      "num": 286171,
+      "word": "中建八局",
+      "onboard_time": 1689840994,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279543,
@@ -5987,14 +6067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266546,
-      "num": 266546,
-      "word": "亚运会把杭州人逼成啥样了",
-      "onboard_time": 1689838232,
-      "rank": 34,
-      "category": "幽默,体育"
-    },
-    {
       "raw_hot": 266328,
       "num": 266328,
       "word": "TTG对战狼队",
@@ -6033,14 +6105,6 @@
       "onboard_time": 1689560427,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 262970,
-      "num": 262970,
-      "word": "美议员听证会现场掏拜登儿子色情裸照",
-      "onboard_time": 1689838292,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 262725,
@@ -6675,14 +6739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227398,
-      "num": 227398,
-      "word": "女生刚下山得知丢失的身份证在山顶",
-      "onboard_time": 1689838232,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227255,
       "num": 227255,
       "word": "李雪琴 她太懂内心敏感的人的痛",
@@ -6903,6 +6959,14 @@
       "num": 312854,
       "word": "西安上次这么热闹还在唐朝",
       "onboard_time": 1689571291,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 213737,
+      "num": 213737,
+      "word": "想你的风吹到了厕所",
+      "onboard_time": 1689841114,
       "rank": 42,
       "category": "幽默"
     },
@@ -7179,6 +7243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204450,
+      "num": 204450,
+      "word": "陈哲远古装",
+      "onboard_time": 1689840994,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204254,
       "num": 534428,
       "word": "LPL",
@@ -7323,6 +7395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 199949,
+      "num": 199949,
+      "word": "我不是很敢和他聊",
+      "onboard_time": 1689838891,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 199714,
       "num": 223316,
       "word": "三根金条的故事",
@@ -7409,6 +7489,14 @@
       "onboard_time": 1689570630,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 195747,
+      "num": 195747,
+      "word": "论鼻子修容的影响有多大",
+      "onboard_time": 1689839554,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 195517,
@@ -8331,6 +8419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133712,
+      "num": 285215,
+      "word": "刘语熙体验移动式办公",
+      "onboard_time": 1689840275,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132603,
       "num": 218552,
       "word": "当家里的猫喜欢喝流动的水",
@@ -8611,6 +8707,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 94039,
+      "num": 1891357,
+      "word": "成都大运会开幕式烟花彩排好壮观",
+      "onboard_time": 1689823360,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91894,
       "num": 100025,
       "word": "浪姐4成团夜青花瓷造型",
@@ -8849,14 +8953,6 @@
       "onboard_time": 1689801191,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40432,
-      "num": 1859951,
-      "word": "成都大运会开幕式烟花彩排好壮观",
-      "onboard_time": 1689823360,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 36383,
