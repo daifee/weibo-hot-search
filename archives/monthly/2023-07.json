@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689873299239,
+  "endTime": 1689874416356,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -26731,6 +26731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346672,
+      "num": 191736,
+      "word": "魏大勋人在内蒙也要西装加身",
+      "onboard_time": 1689872841,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346610,
       "num": 346610,
       "word": "马嘉祺好敢说",
@@ -41835,14 +41843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191736,
-      "num": 191736,
-      "word": "魏大勋人在内蒙也要西装加身",
-      "onboard_time": 1689872841,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191715,
       "num": 213012,
       "word": "被天气热到狗里狗气的猫咪",
@@ -44267,6 +44267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168939,
+      "num": 185053,
+      "word": "杨紫说长相思即将播出",
+      "onboard_time": 1689872243,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168790,
       "num": 422606,
       "word": "台风天深圳海滩上出现大量海鲜",
@@ -44761,14 +44769,6 @@
       "onboard_time": 1688890592,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161550,
-      "num": 185053,
-      "word": "杨紫说长相思即将播出",
-      "onboard_time": 1689872243,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 161285,
@@ -46499,6 +46499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127226,
+      "num": 184499,
+      "word": "PDD美依礼芽直播",
+      "onboard_time": 1689871883,
+      "rank": 34,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 127060,
       "num": 1731559,
       "word": "中国人首次荣获护理界国际成就奖",
@@ -46929,14 +46937,6 @@
       "onboard_time": 1689577711,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 111179,
-      "num": 184499,
-      "word": "PDD美依礼芽直播",
-      "onboard_time": 1689871883,
-      "rank": 34,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 110593,
@@ -48505,6 +48505,14 @@
       "onboard_time": 1688671874,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50870,
+      "num": 131322,
+      "word": "陆沉",
+      "onboard_time": 1689874340,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 50756,

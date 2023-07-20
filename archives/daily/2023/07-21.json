@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689873299239,
+  "endTime": 1689874416356,
   "band_list": [
     {
       "raw_hot": 1500736,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346672,
+      "num": 191736,
+      "word": "魏大勋人在内蒙也要西装加身",
+      "onboard_time": 1689872841,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336061,
       "num": 259693,
       "word": "况三喜直播",
@@ -307,14 +315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191736,
-      "num": 191736,
-      "word": "魏大勋人在内蒙也要西装加身",
-      "onboard_time": 1689872841,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169188,
       "num": 262121,
       "word": "中建八局回应山东莱荣高铁事件",
@@ -323,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168939,
+      "num": 185053,
+      "word": "杨紫说长相思即将播出",
+      "onboard_time": 1689872243,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165808,
       "num": 257990,
       "word": "长沙一男子当街杀害妻子被刑拘",
       "onboard_time": 1689848313,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161550,
-      "num": 185053,
-      "word": "杨紫说长相思即将播出",
-      "onboard_time": 1689872243,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 158729,
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127226,
+      "num": 184499,
+      "word": "PDD美依礼芽直播",
+      "onboard_time": 1689871883,
+      "rank": 34,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 123179,
       "num": 210533,
       "word": "中国女足",
@@ -427,14 +435,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 111179,
-      "num": 184499,
-      "word": "PDD美依礼芽直播",
-      "onboard_time": 1689871883,
-      "rank": 34,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 105254,
       "num": 210459,
       "word": "女童被麦当劳鸡块烫伤法院判赔80万美元",
@@ -443,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81584,
+      "raw_hot": 84491,
       "num": 182666,
       "word": "6个月无诈骗业绩将被处死或卖器官",
       "onboard_time": 1689857491,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71837,
+      "num": 131386,
+      "word": "牛仔裤上的牌子是干嘛用的",
+      "onboard_time": 1689859172,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 64579,
@@ -457,6 +465,14 @@
       "onboard_time": 1689859655,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 50870,
+      "num": 131322,
+      "word": "陆沉",
+      "onboard_time": 1689874340,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 37461,

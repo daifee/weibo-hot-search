@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689873299239,
+  "endTime": 1689874416356,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -5563,6 +5563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346672,
+      "num": 191736,
+      "word": "魏大勋人在内蒙也要西装加身",
+      "onboard_time": 1689872841,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346610,
       "num": 346610,
       "word": "马嘉祺好敢说",
@@ -8603,14 +8611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191736,
-      "num": 191736,
-      "word": "魏大勋人在内蒙也要西装加身",
-      "onboard_time": 1689872841,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191077,
       "num": 191077,
       "word": "大学女生对高中女生的建议",
@@ -9035,6 +9035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168939,
+      "num": 185053,
+      "word": "杨紫说长相思即将播出",
+      "onboard_time": 1689872243,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168790,
       "num": 422606,
       "word": "台风天深圳海滩上出现大量海鲜",
@@ -9145,14 +9153,6 @@
       "onboard_time": 1689591210,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161550,
-      "num": 185053,
-      "word": "杨紫说长相思即将播出",
-      "onboard_time": 1689872243,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 161285,
@@ -9587,6 +9587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127226,
+      "num": 184499,
+      "word": "PDD美依礼芽直播",
+      "onboard_time": 1689871883,
+      "rank": 34,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 125611,
       "num": 207588,
       "word": "垮着脸来换班的搜爆犬",
@@ -9745,14 +9753,6 @@
       "onboard_time": 1689577711,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 111179,
-      "num": 184499,
-      "word": "PDD美依礼芽直播",
-      "onboard_time": 1689871883,
-      "rank": 34,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 108829,
@@ -10041,6 +10041,14 @@
       "onboard_time": 1689757230,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50870,
+      "num": 131322,
+      "word": "陆沉",
+      "onboard_time": 1689874340,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 50756,
