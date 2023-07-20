@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689849290397,
+  "endTime": 1689851661432,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1474321,
-      "num": 612888,
+      "num": 659493,
       "word": "四个显眼包身材",
       "onboard_time": 1689845553,
       "rank": 49,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1141904,
+      "num": 1141904,
+      "word": "付闻樱给许沁买了一整墙的名牌包",
+      "onboard_time": 1689850051,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1129706,
       "num": 520800,
       "word": "女主播大面积裸露推荐隆胸产品被罚60万",
@@ -273,6 +281,14 @@
       "onboard_time": 1689816211,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1058720,
+      "num": 1058720,
+      "word": "三观巨正的国产剧男女主",
+      "onboard_time": 1689846755,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1009967,
@@ -331,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 889943,
-      "num": 889943,
-      "word": "三观巨正的国产剧男女主",
-      "onboard_time": 1689846755,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 888300,
+      "num": 646914,
+      "word": "迪丽热巴好像女特工",
+      "onboard_time": 1689850290,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 868934,
@@ -459,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 742589,
+      "num": 368330,
+      "word": "长沙一男子当街杀害妻子被刑拘",
+      "onboard_time": 1689848313,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739898,
       "num": 739898,
       "word": "在华山失联男子确认遇难",
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 702229,
-      "num": 967257,
+      "num": 1070928,
       "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
       "onboard_time": 1689830495,
       "rank": 34,
@@ -563,6 +587,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 661510,
+      "num": 661510,
+      "word": "EDG对战WE",
+      "onboard_time": 1689846516,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 659647,
       "num": 659647,
       "word": "福宝三岁啦",
@@ -592,6 +624,14 @@
       "word": "魏大勋宋轶你们不要再吵了",
       "onboard_time": 1689846270,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 631953,
+      "num": 631953,
+      "word": "他从火光中走来",
+      "onboard_time": 1689848370,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -635,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 601752,
+      "num": 601752,
+      "word": "苏明玉 天选孟家女",
+      "onboard_time": 1689850891,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 599417,
       "num": 599417,
       "word": "孟母的这滴泪",
@@ -657,14 +705,6 @@
       "onboard_time": 1689825158,
       "rank": 33,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 585610,
-      "num": 585610,
-      "word": "EDG对战WE",
-      "onboard_time": 1689846516,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 572965,
@@ -739,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 505002,
-      "num": 505002,
-      "word": "他从火光中走来",
-      "onboard_time": 1689848370,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495839,
       "num": 386860,
       "word": "奈雪联名玉骨遥",
@@ -793,6 +825,14 @@
       "onboard_time": 1689824797,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 471791,
+      "num": 471791,
+      "word": "韩女选择韩男的最佳体重",
+      "onboard_time": 1689849211,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 469121,
@@ -931,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424499,
-      "num": 329833,
-      "word": "长沙一男子当街杀害妻子被刑拘",
-      "onboard_time": 1689848313,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422939,
       "num": 422939,
       "word": "什么是新中产四件套",
@@ -1035,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391978,
+      "num": 391978,
+      "word": "Uzi霞MVP",
+      "onboard_time": 1689848915,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 391747,
       "num": 368314,
       "word": "孟宴臣哭的我心都碎了",
@@ -1067,8 +1107,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381255,
+      "num": 381255,
+      "word": "如果孟宴臣遇见的是蔡敏敏",
+      "onboard_time": 1689850051,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376307,
-      "num": 974053,
+      "num": 1061957,
       "word": "为了33只羊民警浑身是伤",
       "onboard_time": 1689846633,
       "rank": 4,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1689775476,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362410,
+      "num": 300278,
+      "word": "邢菲增肥六斤八两",
+      "onboard_time": 1689849871,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 361426,
@@ -1235,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334217,
+      "num": 334217,
+      "word": "辞职后应该怎么退微信群",
+      "onboard_time": 1689848370,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331584,
       "num": 284954,
       "word": "谢娜陈乔恩为敖子逸操碎了心",
@@ -1259,20 +1323,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 327797,
-      "num": 327797,
-      "word": "辞职后应该怎么退微信群",
-      "onboard_time": 1689848370,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 327225,
       "num": 327225,
       "word": "张艺兴说刚跟成龙拍完电影",
       "onboard_time": 1689817652,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309744,
+      "num": 309744,
+      "word": "中建八局回应山东莱荣高铁事件",
+      "onboard_time": 1689850891,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308504,
@@ -1393,6 +1457,14 @@
       "onboard_time": 1689829540,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288145,
+      "num": 288145,
+      "word": "为什么上班没有寒暑假",
+      "onboard_time": 1689849571,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 287554,
@@ -1659,12 +1731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226699,
-      "num": 226699,
-      "word": "Uzi霞MVP",
-      "onboard_time": 1689848915,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 223797,
+      "num": 223797,
+      "word": "第一次在狗脸上看到为难",
+      "onboard_time": 1689849753,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 218945,
@@ -1689,6 +1761,14 @@
       "onboard_time": 1689808645,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 213998,
+      "num": 213998,
+      "word": "不良人要求逆水寒手游公开道歉",
+      "onboard_time": 1689850051,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 213421,
@@ -1891,14 +1971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182272,
-      "num": 182272,
-      "word": "韩女选择韩男的最佳体重",
-      "onboard_time": 1689849211,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 179806,
       "num": 214723,
       "word": "一直游到海水变蓝",
@@ -1953,6 +2025,14 @@
       "onboard_time": 1689783213,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163454,
+      "num": 212635,
+      "word": "烧伤女孩拍婚纱照店老板主动充当新郎",
+      "onboard_time": 1689851129,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161428,
@@ -2011,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139381,
+      "num": 212577,
+      "word": "北京倡导21日错峰上下班",
+      "onboard_time": 1689850713,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138311,
       "num": 289364,
       "word": "刘语熙体验移动式办公",
@@ -2033,6 +2121,14 @@
       "onboard_time": 1689760413,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 127714,
+      "num": 278705,
+      "word": "王宗源男子3米板冠军",
+      "onboard_time": 1689849451,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 123992,
