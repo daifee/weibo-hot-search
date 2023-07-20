@@ -1,0 +1,410 @@
+{
+  "runTime": 1689823078073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8826533,
+        "num": 8826533,
+        "word": "孙杨张豆豆官宣结婚",
+        "onboard_time": 1689819576,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 2438863,
+        "num": 2438863,
+        "word": "创造营2023导师阵容",
+        "onboard_time": 1689819332,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48720,
+        "num": 2108292,
+        "word": "你平时有哪些环保好习惯",
+        "onboard_time": 1689773377,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1995276,
+        "num": 1995276,
+        "word": "刘晓庆71岁演少女",
+        "onboard_time": 1689821977,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1373786,
+        "num": 1373786,
+        "word": "宋焰帮许沁搬家把蚝油也拿走了",
+        "onboard_time": 1689818311,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2963701,
+        "num": 1237270,
+        "word": "杨洋",
+        "onboard_time": 1689808042,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1009147,
+        "num": 1009147,
+        "word": "泰国评选十大最美中国女演员",
+        "onboard_time": 1689812914,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789599,
+        "num": 789599,
+        "word": "局长带B太逛市场遇店家使用过期原料",
+        "onboard_time": 1689817711,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630239,
+        "num": 630239,
+        "word": "潮州消防 灭火器不是玩具",
+        "onboard_time": 1689813515,
+        "rank": 8,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 547097,
+        "num": 547097,
+        "word": "男生收到北大录取通知书前还在割猪草",
+        "onboard_time": 1689816211,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 905976,
+        "num": 535367,
+        "word": "孟母再生气也要偷看许沁",
+        "onboard_time": 1689819696,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 614828,
+        "num": 529088,
+        "word": "张天爱被搭讪的反应",
+        "onboard_time": 1689820117,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763547,
+        "num": 525133,
+        "word": "如果孟宴臣遇见的是薛杉杉",
+        "onboard_time": 1689819696,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518017,
+        "num": 518017,
+        "word": "男子上8天班辞职要公司赔偿100万",
+        "onboard_time": 1689818732,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48039,
+        "num": 494576,
+        "word": "命运方舟不限号",
+        "onboard_time": 1689822036,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 493116,
+        "num": 493116,
+        "word": "原来整牙不一定能变美",
+        "onboard_time": 1689813874,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 448467,
+        "num": 448467,
+        "word": "追星人的手机壳越来越离谱了",
+        "onboard_time": 1689820177,
+        "rank": 16,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 148139,
+        "num": 448001,
+        "word": "预算超8000选折叠屏还是iPhone",
+        "onboard_time": 1689821617,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 447656,
+        "num": 447656,
+        "word": "爸爸让女儿捡垃圾被怼脑子进水",
+        "onboard_time": 1689812497,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422939,
+        "num": 422939,
+        "word": "什么是新中产四件套",
+        "onboard_time": 1689820418,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234808,
+        "num": 413418,
+        "word": "丈夫给妻子10元认为能买很多菜",
+        "onboard_time": 1689820659,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053200,
+        "num": 409597,
+        "word": "杨洋身高",
+        "onboard_time": 1689821737,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732403,
+        "num": 395894,
+        "word": "这样睡觉真能改善圆肩驼背",
+        "onboard_time": 1689821558,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 489820,
+        "num": 386468,
+        "word": "这方水土好像不想养我",
+        "onboard_time": 1689822036,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 453468,
+        "num": 378314,
+        "word": "向佐模仿郭碧婷小时代台词",
+        "onboard_time": 1689819634,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370530,
+        "num": 370530,
+        "word": "黄子韬对马伯骞说不要塌台",
+        "onboard_time": 1689817770,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345336,
+        "num": 345336,
+        "word": "梁朝伟",
+        "onboard_time": 1689780994,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332082,
+        "num": 332082,
+        "word": "成功承认出轨",
+        "onboard_time": 1689775539,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270248,
+        "num": 318297,
+        "word": "福宝生日直播",
+        "onboard_time": 1689816872,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87810,
+        "num": 317671,
+        "word": "年轻人在玩一种很新的AIGC",
+        "onboard_time": 1689821439,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317529,
+        "num": 317529,
+        "word": "福宝福猪猪隔了个爷爷滤镜",
+        "onboard_time": 1689813634,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304957,
+        "num": 304957,
+        "word": "张艺兴说刚跟成龙拍完电影",
+        "onboard_time": 1689817652,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301018,
+        "num": 301018,
+        "word": "电影热烈预售全面开启",
+        "onboard_time": 1689823057,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292492,
+        "num": 292492,
+        "word": "刘耀文尚未前往医院治疗",
+        "onboard_time": 1689815252,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291365,
+        "num": 291365,
+        "word": "封神第一部今日上映",
+        "onboard_time": 1689822757,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283540,
+        "num": 283540,
+        "word": "方川导演 孟宴臣",
+        "onboard_time": 1689772835,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278320,
+        "num": 278320,
+        "word": "女子爆料在HM试衣被3岁男童趴地偷窥",
+        "onboard_time": 1689811891,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267163,
+        "num": 267163,
+        "word": "美国正在针对中俄研发生化武器",
+        "onboard_time": 1689813515,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 259396,
+        "num": 259396,
+        "word": "舒淇素颜照片",
+        "onboard_time": 1689819757,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258583,
+        "num": 258583,
+        "word": "边牧寄养不愿意回家了 天天放羊",
+        "onboard_time": 1689811651,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241515,
+        "num": 241515,
+        "word": "女子提枪进派出所看呆民警",
+        "onboard_time": 1689821558,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239169,
+        "num": 239169,
+        "word": "试婚纱真的没必要带老公",
+        "onboard_time": 1689810808,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225321,
+        "num": 225321,
+        "word": "妻子拍老公洗碗拍到都是男士在洗",
+        "onboard_time": 1689823057,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213421,
+        "num": 213421,
+        "word": "奥本海默开分",
+        "onboard_time": 1689821919,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213141,
+        "num": 213141,
+        "word": "马天宇说和杨颖搭戏颠覆了对她的认知",
+        "onboard_time": 1689821321,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194073,
+        "num": 194073,
+        "word": "日本一家公司不加班生育率增长了",
+        "onboard_time": 1689811594,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193055,
+        "num": 193055,
+        "word": "福宝三岁啦",
+        "onboard_time": 1689808944,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190561,
+        "num": 190561,
+        "word": "尘白禁区",
+        "onboard_time": 1689823057,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184778,
+        "num": 184778,
+        "word": "封神",
+        "onboard_time": 1689819093,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177682,
+        "num": 177682,
+        "word": "NewJeans新歌MV出现梁朝伟",
+        "onboard_time": 1689808645,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#倡导尊重自然爱护自然的绿色价值观念#"
+    }
+  }
+}

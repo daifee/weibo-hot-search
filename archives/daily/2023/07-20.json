@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689821047603,
+  "endTime": 1689823078073,
   "band_list": [
     {
       "raw_hot": 9852392,
@@ -27,12 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2070719,
-      "num": 2070719,
+      "raw_hot": 2438863,
+      "num": 2438863,
       "word": "创造营2023导师阵容",
       "onboard_time": 1689819332,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1995276,
+      "num": 1995276,
+      "word": "刘晓庆71岁演少女",
+      "onboard_time": 1689821977,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1949325,
@@ -73,6 +81,14 @@
       "onboard_time": 1689772835,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1234808,
+      "num": 413418,
+      "word": "丈夫给妻子10元认为能买很多菜",
+      "onboard_time": 1689820659,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1191389,
@@ -123,12 +139,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1053200,
+      "num": 409597,
+      "word": "杨洋身高",
+      "onboard_time": 1689821737,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 981399,
       "num": 517609,
       "word": "北京广告协会删除对蔡某某的风险把控提示",
       "onboard_time": 1689769233,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 905976,
+      "num": 590751,
+      "word": "孟母再生气也要偷看许沁",
+      "onboard_time": 1689819696,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 866531,
@@ -187,12 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 755563,
+      "raw_hot": 763547,
       "num": 755563,
       "word": "如果孟宴臣遇见的是薛杉杉",
       "onboard_time": 1689819696,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 732403,
+      "num": 395894,
+      "word": "这样睡觉真能改善圆肩驼背",
+      "onboard_time": 1689821558,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 715534,
@@ -235,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 590751,
-      "num": 590751,
-      "word": "孟母再生气也要偷看许沁",
-      "onboard_time": 1689819696,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 614828,
+      "num": 529088,
+      "word": "张天爱被搭讪的反应",
+      "onboard_time": 1689820117,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 572965,
@@ -291,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 521776,
-      "num": 521776,
-      "word": "张天爱被搭讪的反应",
-      "onboard_time": 1689820117,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 515181,
       "num": 515181,
       "word": "金晨 这几位哥哥真帅啊",
@@ -307,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 514632,
-      "num": 276269,
-      "word": "丈夫给妻子10元认为能买很多菜",
-      "onboard_time": 1689820659,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 489820,
+      "num": 386468,
+      "word": "这方水土好像不想养我",
+      "onboard_time": 1689822036,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 488115,
@@ -337,6 +369,14 @@
       "onboard_time": 1689774577,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 448467,
+      "num": 448467,
+      "word": "追星人的手机壳越来越离谱了",
+      "onboard_time": 1689820177,
+      "rank": 33,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 447560,
@@ -376,6 +416,14 @@
       "word": "记者解剖鸭头剥出巩膜",
       "onboard_time": 1689781712,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422939,
+      "num": 422939,
+      "word": "什么是新中产四件套",
+      "onboard_time": 1689820418,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -441,14 +489,6 @@
       "onboard_time": 1689775476,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366888,
-      "num": 366888,
-      "word": "追星人的手机壳越来越离谱了",
-      "onboard_time": 1689820177,
-      "rank": 33,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 361426,
@@ -539,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301018,
+      "num": 301018,
+      "word": "电影热烈预售全面开启",
+      "onboard_time": 1689823057,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300339,
       "num": 294523,
       "word": "相亲对象把我一人丢在外地了",
@@ -568,6 +616,14 @@
       "word": "封神",
       "onboard_time": 1689819093,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 291365,
+      "num": 291365,
+      "word": "封神第一部今日上映",
+      "onboard_time": 1689822757,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -611,12 +667,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 263457,
-      "num": 263457,
-      "word": "什么是新中产四件套",
-      "onboard_time": 1689820418,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 259396,
+      "num": 259396,
+      "word": "舒淇素颜照片",
+      "onboard_time": 1689819757,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 255632,
@@ -641,6 +697,14 @@
       "onboard_time": 1689819817,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 241515,
+      "num": 241515,
+      "word": "女子提枪进派出所看呆民警",
+      "onboard_time": 1689821558,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241428,
@@ -699,20 +763,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225321,
+      "num": 225321,
+      "word": "妻子拍老公洗碗拍到都是男士在洗",
+      "onboard_time": 1689823057,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218945,
       "num": 286729,
       "word": "真的不要过度的去省钱",
       "onboard_time": 1689774097,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216783,
-      "num": 216783,
-      "word": "舒淇素颜照片",
-      "onboard_time": 1689819757,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 214838,
@@ -729,6 +793,22 @@
       "onboard_time": 1689808645,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 213421,
+      "num": 213421,
+      "word": "奥本海默开分",
+      "onboard_time": 1689821919,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213141,
+      "num": 213141,
+      "word": "马天宇说和杨颖搭戏颠覆了对她的认知",
+      "onboard_time": 1689821321,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 210177,
@@ -827,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190561,
+      "num": 190561,
+      "word": "尘白禁区",
+      "onboard_time": 1689823057,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190293,
       "num": 190293,
       "word": "听说每个东北小孩都离不开它",
@@ -899,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148139,
+      "num": 448001,
+      "word": "预算超8000选折叠屏还是iPhone",
+      "onboard_time": 1689821617,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 145902,
       "num": 180057,
       "word": "关晓彤竟然是i人",
@@ -955,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87810,
+      "num": 317671,
+      "word": "年轻人在玩一种很新的AIGC",
+      "onboard_time": 1689821439,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82791,
       "num": 286635,
       "word": "千金感侧分低盘发",
@@ -972,7 +1076,7 @@
     },
     {
       "raw_hot": 68429,
-      "num": 1784108,
+      "num": 2108292,
       "word": "你平时有哪些环保好习惯",
       "onboard_time": 1689773377,
       "rank": 2,
@@ -985,6 +1089,14 @@
       "onboard_time": 1689799091,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 48039,
+      "num": 494576,
+      "word": "命运方舟不限号",
+      "onboard_time": 1689822036,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 41481,
