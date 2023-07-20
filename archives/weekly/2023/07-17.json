@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689874416356,
+  "endTime": 1689877341547,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -7115,6 +7115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253898,
+      "num": 253898,
+      "word": "陆沉",
+      "onboard_time": 1689874340,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253578,
       "num": 253578,
       "word": "安乐传直播不能错过的48S",
@@ -10043,14 +10051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50870,
-      "num": 131322,
-      "word": "陆沉",
-      "onboard_time": 1689874340,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 50756,
       "num": 329003,
       "word": "马保国给饿了么免单出题",
@@ -10193,6 +10193,14 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 10224,
+      "num": 254347,
+      "word": "要促进民营经济做大做优做强",
+      "onboard_time": 1689860616,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7112,

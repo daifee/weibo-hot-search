@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689874416356,
+  "endTime": 1689877341547,
   "band_list": [
     {
       "raw_hot": 1500736,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253898,
+      "num": 253898,
+      "word": "陆沉",
+      "onboard_time": 1689874340,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253201,
       "num": 253201,
       "word": "付闻樱给许沁买了一整墙的名牌包",
@@ -443,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85473,
+      "num": 131386,
+      "word": "牛仔裤上的牌子是干嘛用的",
+      "onboard_time": 1689859172,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84491,
       "num": 182666,
       "word": "6个月无诈骗业绩将被处死或卖器官",
       "onboard_time": 1689857491,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71837,
-      "num": 131386,
-      "word": "牛仔裤上的牌子是干嘛用的",
-      "onboard_time": 1689859172,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 64579,
@@ -467,18 +475,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 50870,
-      "num": 131322,
-      "word": "陆沉",
-      "onboard_time": 1689874340,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 37461,
       "num": 868234,
       "word": "大运会城市志愿服务小站有急救包",
       "onboard_time": 1689860855,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10224,
+      "num": 254347,
+      "word": "要促进民营经济做大做优做强",
+      "onboard_time": 1689860616,
       "rank": 2,
       "category": "社会新闻"
     }
