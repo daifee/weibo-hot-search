@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689831227709,
+  "endTime": 1689834145707,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -67,6 +67,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1968332,
+      "num": 713879,
+      "word": "王楚然与难哄制片人聚餐",
+      "onboard_time": 1689829540,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1949325,
       "num": 1949325,
       "word": "潮州消防 灭火器不是玩具",
@@ -99,14 +107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1546330,
-      "num": 713879,
-      "word": "王楚然与难哄制片人聚餐",
-      "onboard_time": 1689829540,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1370702,
       "num": 1370702,
       "word": "我的人间烟火收视创新高",
@@ -121,6 +121,14 @@
       "onboard_time": 1689772835,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1277292,
+      "num": 1277292,
+      "word": "钟欣潼cos黎苏苏",
+      "onboard_time": 1689831516,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1234808,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1001509,
-      "num": 705488,
+      "num": 888676,
       "word": "渐冻症患者因施工断电去世",
       "onboard_time": 1689829123,
       "rank": 30,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791781,
+      "num": 791781,
+      "word": "因共享单车全程无脏话交流两分钟以上",
+      "onboard_time": 1689828459,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 763547,
       "num": 755563,
       "word": "如果孟宴臣遇见的是薛杉杉",
@@ -304,6 +320,14 @@
       "word": "在华山失联男子确认遇难",
       "onboard_time": 1689824255,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738550,
+      "num": 394078,
+      "word": "女孩地铁晕倒大便失禁一女子帮清理",
+      "onboard_time": 1689832353,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -379,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 656693,
-      "num": 656693,
-      "word": "因共享单车全程无脏话交流两分钟以上",
-      "onboard_time": 1689828459,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 653272,
+      "num": 653272,
+      "word": "鹿晗上海演唱会",
+      "onboard_time": 1689832775,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 643615,
@@ -395,8 +419,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 634313,
-      "num": 634313,
+      "raw_hot": 641083,
+      "num": 641083,
       "word": "奔跑吧本周预告",
       "onboard_time": 1689829838,
       "rank": 26,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485902,
+      "num": 485902,
+      "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
+      "onboard_time": 1689830495,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 481013,
       "num": 449780,
       "word": "成功承认出轨",
@@ -545,6 +577,14 @@
       "onboard_time": 1689824797,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 469837,
+      "num": 469837,
+      "word": "我的人间烟火火了好多人啊",
+      "onboard_time": 1689832353,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 469121,
@@ -715,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 372555,
+      "num": 372555,
+      "word": "福宝",
+      "onboard_time": 1689831395,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371163,
       "num": 371163,
       "word": "西安教育局工作人员回应河南回流生",
@@ -776,6 +824,14 @@
       "word": "潘粤明打球没有技巧全是运气",
       "onboard_time": 1689814175,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 343172,
+      "num": 343172,
+      "word": "番位好像也没那么重要",
+      "onboard_time": 1689832054,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -841,6 +897,14 @@
       "onboard_time": 1689817652,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324744,
+      "num": 324744,
+      "word": "孟母的这滴泪",
+      "onboard_time": 1689833192,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 306144,
@@ -931,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285302,
+      "num": 285302,
+      "word": "敖子逸主动找蒋依依",
+      "onboard_time": 1689832836,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283386,
       "num": 286727,
       "word": "沈腾一出脚就笑了",
@@ -939,12 +1011,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276753,
-      "num": 276753,
-      "word": "清华录取通知书寄到全家乐开花男生一脸淡定",
-      "onboard_time": 1689830495,
-      "rank": 34,
-      "category": "社会新闻,教育"
+      "raw_hot": 276718,
+      "num": 276718,
+      "word": "上班需要带的东西",
+      "onboard_time": 1689833254,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 273840,
@@ -1009,6 +1081,14 @@
       "onboard_time": 1689783631,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241335,
+      "num": 241335,
+      "word": "基辛格",
+      "onboard_time": 1689831816,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 239557,
@@ -1155,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201418,
+      "num": 221369,
+      "word": "正式确诊为仙人掌",
+      "onboard_time": 1689834094,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200191,
       "num": 200191,
       "word": "TF三代演唱会联排照",
@@ -1236,7 +1324,7 @@
     },
     {
       "raw_hot": 190467,
-      "num": 218256,
+      "num": 219895,
       "word": "来自FMVP的压迫感",
       "onboard_time": 1689830077,
       "rank": 44,
@@ -1337,6 +1425,14 @@
       "onboard_time": 1689827740,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147295,
+      "num": 534704,
+      "word": "水龙吟",
+      "onboard_time": 1689832836,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 145902,
