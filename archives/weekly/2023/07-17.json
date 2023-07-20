@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689823078073,
+  "endTime": 1689824038375,
   "band_list": [
     {
       "raw_hot": 9852392,
@@ -97,6 +97,14 @@
       "onboard_time": 1689667952,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2974019,
+      "num": 2974019,
+      "word": "刘晓庆71岁演少女",
+      "onboard_time": 1689821977,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2953222,
@@ -289,14 +297,6 @@
       "onboard_time": 1689771272,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1995276,
-      "num": 1995276,
-      "word": "刘晓庆71岁演少女",
-      "onboard_time": 1689821977,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1968507,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1295825,
+      "num": 409597,
+      "word": "杨洋身高",
+      "onboard_time": 1689821737,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1285275,
       "num": 533167,
       "word": "上海地铁内男女穿带脏字衣服倒挂扶手",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1689555392,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1053200,
-      "num": 409597,
-      "word": "杨洋身高",
-      "onboard_time": 1689821737,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1051701,
@@ -1947,6 +1947,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 698992,
+      "num": 698992,
+      "word": "男子上8天班辞职要公司赔偿100万",
+      "onboard_time": 1689818732,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 697108,
       "num": 697108,
       "word": "肖战出席玉骨遥大结局点映礼",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1689673716,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 693913,
+      "num": 501762,
+      "word": "道英开通微博",
+      "onboard_time": 1689823360,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 691460,
@@ -2699,14 +2715,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 548190,
-      "num": 548190,
-      "word": "男子上8天班辞职要公司赔偿100万",
-      "onboard_time": 1689818732,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 546974,
       "num": 546974,
       "word": "盐城市建湖县一烧烤店发生爆炸",
@@ -3075,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490034,
+      "num": 490034,
+      "word": "追星人的手机壳越来越离谱了",
+      "onboard_time": 1689820177,
+      "rank": 33,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 489820,
       "num": 386468,
       "word": "这方水土好像不想养我",
@@ -3379,14 +3395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 448467,
-      "num": 448467,
-      "word": "追星人的手机壳越来越离谱了",
-      "onboard_time": 1689820177,
-      "rank": 33,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 448076,
       "num": 434400,
       "word": "偷偷藏不住豆瓣开分6.7分",
@@ -3489,6 +3497,14 @@
       "onboard_time": 1689658051,
       "rank": 23,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 434266,
+      "num": 357013,
+      "word": "妻子拍老公洗碗拍到都是男士在洗",
+      "onboard_time": 1689823057,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433832,
@@ -4307,6 +4323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357546,
+      "num": 357546,
+      "word": "电影热烈预售全面开启",
+      "onboard_time": 1689823057,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357126,
       "num": 357126,
       "word": "郑润泽加场投票",
@@ -4449,6 +4473,14 @@
       "onboard_time": 1689654875,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348964,
+      "num": 348964,
+      "word": "高群书转发杨洋拿张颂文错题本微博",
+      "onboard_time": 1689823236,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 348661,
@@ -4649,6 +4681,14 @@
       "onboard_time": 1689817652,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326458,
+      "num": 326458,
+      "word": "女子提枪进派出所看呆民警",
+      "onboard_time": 1689821558,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325991,
@@ -4936,14 +4976,6 @@
       "word": "属于孟宴臣艺术性的47秒",
       "onboard_time": 1689690335,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 301018,
-      "num": 301018,
-      "word": "电影热烈预售全面开启",
-      "onboard_time": 1689823057,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -5859,14 +5891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241515,
-      "num": 241515,
-      "word": "女子提枪进派出所看呆民警",
-      "onboard_time": 1689821558,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241428,
       "num": 286699,
       "word": "海恩贤圭同框",
@@ -6131,6 +6155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226041,
+      "num": 226041,
+      "word": "八角笼中王宝强演技",
+      "onboard_time": 1689823776,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225895,
       "num": 206517,
       "word": "孟宴臣表演细节是魏大勋设计的",
@@ -6145,14 +6177,6 @@
       "onboard_time": 1689549563,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225321,
-      "num": 225321,
-      "word": "妻子拍老公洗碗拍到都是男士在洗",
-      "onboard_time": 1689823057,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225074,
@@ -6251,6 +6275,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 217849,
+      "num": 217849,
+      "word": "马天宇说和杨颖搭戏颠覆了对她的认知",
+      "onboard_time": 1689821321,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217671,
+      "num": 217671,
+      "word": "秦川谢乔终于亲了",
+      "onboard_time": 1689823897,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217588,
       "num": 217588,
       "word": "迪丽热巴读仲夏夜之梦",
@@ -6297,6 +6337,14 @@
       "onboard_time": 1689486630,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215950,
+      "num": 215950,
+      "word": "山东莱荣高铁偷工减料被举报",
+      "onboard_time": 1689823417,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215153,
@@ -6377,14 +6425,6 @@
       "onboard_time": 1689774875,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213141,
-      "num": 213141,
-      "word": "马天宇说和杨颖搭戏颠覆了对她的认知",
-      "onboard_time": 1689821321,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 213030,
@@ -6843,12 +6883,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196222,
+      "num": 215949,
+      "word": "麻将一下子变得简单了起来",
+      "onboard_time": 1689823655,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195775,
       "num": 195775,
       "word": "中学回应收新生4千元校服费",
       "onboard_time": 1689570630,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 195517,
+      "num": 215948,
+      "word": "尘白禁区",
+      "onboard_time": 1689823057,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 195503,
@@ -6961,14 +7017,6 @@
       "onboard_time": 1689522931,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190561,
-      "num": 190561,
-      "word": "尘白禁区",
-      "onboard_time": 1689823057,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 190293,
@@ -7523,6 +7571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155597,
+      "num": 448001,
+      "word": "预算超8000选折叠屏还是iPhone",
+      "onboard_time": 1689821617,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 154309,
       "num": 207690,
       "word": "有趣的切西瓜方法",
@@ -7585,14 +7641,6 @@
       "onboard_time": 1689590309,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148139,
-      "num": 448001,
-      "word": "预算超8000选折叠屏还是iPhone",
-      "onboard_time": 1689821617,
-      "rank": 17,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 147878,
@@ -8131,6 +8179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62940,
+      "num": 494576,
+      "word": "命运方舟不限号",
+      "onboard_time": 1689822036,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62250,
       "num": 1246790,
       "word": "沉湖湿地生态修复变身鸟类天堂",
@@ -8211,14 +8267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48039,
-      "num": 494576,
-      "word": "命运方舟不限号",
-      "onboard_time": 1689822036,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 43412,
       "num": 43412,
       "word": "选高司令来演芭比的原因",
@@ -8289,6 +8337,14 @@
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 28399,
+      "num": 2280095,
+      "word": "民营经济是推进中国式现代化的生力军",
+      "onboard_time": 1689766711,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26806,
