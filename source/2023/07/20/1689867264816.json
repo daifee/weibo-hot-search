@@ -1,0 +1,410 @@
+{
+  "runTime": 1689867264816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1986957,
+        "num": 1986957,
+        "word": "孟宴臣 你谈恋爱谈得脑子里全是泡泡吗",
+        "onboard_time": 1689859955,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1069498,
+        "num": 1069498,
+        "word": "地球连续35年收到神秘规律性信号",
+        "onboard_time": 1689864218,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 53465,
+        "num": 1016628,
+        "word": "大运会城市志愿服务小站有急救包",
+        "onboard_time": 1689860855,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967371,
+        "num": 967371,
+        "word": "玖月晞 土",
+        "onboard_time": 1689855453,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 840676,
+        "num": 840676,
+        "word": "杨幂涂山红红",
+        "onboard_time": 1689866136,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 811789,
+        "num": 811789,
+        "word": "魏大勋 奔跑吧特别季",
+        "onboard_time": 1689858874,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770847,
+        "num": 770847,
+        "word": "迪丽热巴你山药拿反了",
+        "onboard_time": 1689866434,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 765008,
+        "num": 765008,
+        "word": "中建八局被实名举报",
+        "onboard_time": 1689837690,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481622,
+        "num": 481622,
+        "word": "临时抱Fo脚",
+        "onboard_time": 1689862835,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 406917,
+        "num": 406917,
+        "word": "俞敏洪称儿子实习每天工作18小时",
+        "onboard_time": 1689853830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1975322,
+        "num": 402683,
+        "word": "张颂文考科目二被围观",
+        "onboard_time": 1689864818,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1658486,
+        "num": 396748,
+        "word": "中建八局谁给你的胆",
+        "onboard_time": 1689859413,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1374631,
+        "num": 388151,
+        "word": "大杨哥回应老婆与王嘉尔牵手合照",
+        "onboard_time": 1689855512,
+        "rank": 12,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 719526,
+        "num": 382704,
+        "word": "西安教育局",
+        "onboard_time": 1689866496,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 657329,
+        "num": 375179,
+        "word": "封神新妲己出场镜头",
+        "onboard_time": 1689856293,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 636405,
+        "num": 368933,
+        "word": "杨紫白月光妆",
+        "onboard_time": 1689865717,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 608793,
+        "num": 363440,
+        "word": "李佳琦 meland票",
+        "onboard_time": 1689862901,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 361379,
+        "num": 361379,
+        "word": "成都开始流行围炉冰茶了",
+        "onboard_time": 1689858272,
+        "rank": 17,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 281598,
+        "num": 281598,
+        "word": "缉毒警退休警嫂朋友圈破防了",
+        "onboard_time": 1689845067,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279730,
+        "num": 279730,
+        "word": "钱天一3比2孙颖莎",
+        "onboard_time": 1689864576,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 974587,
+        "num": 278383,
+        "word": "新婚妻子车祸昏迷7天丈夫忍痛拔管",
+        "onboard_time": 1689861996,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604582,
+        "num": 276576,
+        "word": "姬发好帅",
+        "onboard_time": 1689864936,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 596479,
+        "num": 275812,
+        "word": "长相思",
+        "onboard_time": 1689861935,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559823,
+        "num": 273376,
+        "word": "王俊凯王源刘亦菲今日开屏",
+        "onboard_time": 1689862656,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522172,
+        "num": 272376,
+        "word": "男子自曝想加女生微信误碰大腿被拘",
+        "onboard_time": 1689863918,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482642,
+        "num": 268994,
+        "word": "井柏然拍刘雯走秀",
+        "onboard_time": 1689859533,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367021,
+        "num": 268043,
+        "word": "付闻樱给许沁买了一整墙的名牌包",
+        "onboard_time": 1689850051,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342127,
+        "num": 265938,
+        "word": "女童被麦当劳鸡块烫伤法院判赔80万美元",
+        "onboard_time": 1689861215,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265087,
+        "num": 265087,
+        "word": "这粽子只有云南才有吗",
+        "onboard_time": 1689866737,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122822,
+        "num": 265024,
+        "word": "中建八局回应山东莱荣高铁事件",
+        "onboard_time": 1689850891,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359706,
+        "num": 264556,
+        "word": "周雨彤的T恤竟然是皮的",
+        "onboard_time": 1689864997,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 354388,
+        "num": 264347,
+        "word": "孙燕姿好忙",
+        "onboard_time": 1689863136,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336333,
+        "num": 264025,
+        "word": "欢颜播后口碑",
+        "onboard_time": 1689863741,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263903,
+        "num": 263903,
+        "word": "使人变胖的是糖分还是脂肪",
+        "onboard_time": 1689861215,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215785,
+        "num": 215785,
+        "word": "烧伤女孩拍婚纱照店老板主动充当新郎",
+        "onboard_time": 1689851129,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328031,
+        "num": 214436,
+        "word": "陈哲远新剧扮女装",
+        "onboard_time": 1689864337,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327436,
+        "num": 212289,
+        "word": "都暻秀看华莎vs王嘉尔看JYP",
+        "onboard_time": 1689866319,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208807,
+        "num": 208807,
+        "word": "长沙一男子当街杀害妻子被刑拘",
+        "onboard_time": 1689848313,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208779,
+        "num": 208779,
+        "word": "盛情款待了小时候的自己",
+        "onboard_time": 1689866319,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 204294,
+        "num": 204294,
+        "word": "AG战胜WB",
+        "onboard_time": 1689865474,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314757,
+        "num": 204289,
+        "word": "邓超鹿晗陈赫范志毅王勉祝老舅生辰快乐",
+        "onboard_time": 1689853589,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299960,
+        "num": 204283,
+        "word": "封神",
+        "onboard_time": 1689864756,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289605,
+        "num": 204275,
+        "word": "白鹿跳Tomboy",
+        "onboard_time": 1689860916,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258565,
+        "num": 204275,
+        "word": "张译喝水",
+        "onboard_time": 1689860075,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248908,
+        "num": 204264,
+        "word": "苏明玉 天选孟家女",
+        "onboard_time": 1689850891,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231912,
+        "num": 204261,
+        "word": "迪丽热巴刘宇宁穿黑衣服不告诉龚俊",
+        "onboard_time": 1689851672,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169224,
+        "num": 204256,
+        "word": "EDG战胜WE",
+        "onboard_time": 1689858154,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168827,
+        "num": 204245,
+        "word": "街道办回应狗头萝莉卖煎饼遭举报",
+        "onboard_time": 1689867097,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 154710,
+        "num": 204238,
+        "word": "Cat就是开团的God",
+        "onboard_time": 1689865357,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153971,
+        "num": 204237,
+        "word": "当我得知自己一年换头像次数时",
+        "onboard_time": 1689860318,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国有约#"
+    }
+  }
+}

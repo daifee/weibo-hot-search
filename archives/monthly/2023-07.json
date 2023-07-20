@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689866276808,
+  "endTime": 1689867264816,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2323,6 +2323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1975322,
+      "num": 426657,
+      "word": "张颂文考科目二被围观",
+      "onboard_time": 1689864818,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1973298,
       "num": 1973298,
       "word": "原副市长妻子打人耳光成习惯",
@@ -3761,14 +3769,6 @@
       "onboard_time": 1688282852,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1552517,
-      "num": 426657,
-      "word": "张颂文考科目二被围观",
-      "onboard_time": 1689864818,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1551367,
@@ -6625,6 +6625,14 @@
       "onboard_time": 1689313299,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1069498,
+      "num": 1069498,
+      "word": "地球连续35年收到神秘规律性信号",
+      "onboard_time": 1689864218,
+      "rank": 4,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1069132,
@@ -9579,6 +9587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 840676,
+      "num": 840676,
+      "word": "杨幂涂山红红",
+      "onboard_time": 1689866136,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 840424,
       "num": 840424,
       "word": "原来基围虾只是一种养殖方式",
@@ -10891,6 +10907,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 770847,
+      "num": 770847,
+      "word": "迪丽热巴你山药拿反了",
+      "onboard_time": 1689866434,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 770837,
       "num": 538347,
       "word": "弟弟考上高中我却不能上学了",
@@ -11257,14 +11281,6 @@
       "onboard_time": 1689251376,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 746832,
-      "num": 746832,
-      "word": "地球连续35年收到神秘规律性信号",
-      "onboard_time": 1689864218,
-      "rank": 4,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 746391,
@@ -11769,6 +11785,14 @@
       "onboard_time": 1689427056,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719526,
+      "num": 382704,
+      "word": "西安教育局",
+      "onboard_time": 1689866496,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 719323,
@@ -13979,6 +14003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636405,
+      "num": 368933,
+      "word": "杨紫白月光妆",
+      "onboard_time": 1689865717,
+      "rank": 41,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 636322,
       "num": 636322,
       "word": "偷偷藏不住直通大结局",
@@ -14889,6 +14921,14 @@
       "onboard_time": 1689826239,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 604582,
+      "num": 286897,
+      "word": "姬发好帅",
+      "onboard_time": 1689864936,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 603952,
@@ -17529,14 +17569,6 @@
       "onboard_time": 1688992951,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521786,
-      "num": 287867,
-      "word": "杨幂涂山红红",
-      "onboard_time": 1689866136,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 521781,
@@ -21569,14 +21601,6 @@
       "onboard_time": 1689850891,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430928,
-      "num": 286897,
-      "word": "姬发好帅",
-      "onboard_time": 1689864936,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 430760,
@@ -27323,6 +27347,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 336333,
+      "num": 264025,
+      "word": "欢颜播后口碑",
+      "onboard_time": 1689863741,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336300,
       "num": 336300,
       "word": "消防员就应该拍成这样",
@@ -27369,14 +27401,6 @@
       "onboard_time": 1689853410,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 335974,
-      "num": 215652,
-      "word": "欢颜播后口碑",
-      "onboard_time": 1689863741,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 335623,
@@ -27921,6 +27945,14 @@
       "onboard_time": 1688449958,
       "rank": 27,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 327436,
+      "num": 212289,
+      "word": "都暻秀看华莎vs王嘉尔看JYP",
+      "onboard_time": 1689866319,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 327225,
@@ -29649,14 +29681,6 @@
       "onboard_time": 1688555614,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 303428,
-      "num": 200178,
-      "word": "杨紫白月光妆",
-      "onboard_time": 1689865717,
-      "rank": 41,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 303332,
@@ -33233,6 +33257,14 @@
       "onboard_time": 1688899651,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 265087,
+      "num": 265087,
+      "word": "这粽子只有云南才有吗",
+      "onboard_time": 1689866737,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 264982,
@@ -39291,6 +39323,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 208779,
+      "num": 208779,
+      "word": "盛情款待了小时候的自己",
+      "onboard_time": 1689866319,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 208707,
       "num": 163570,
       "word": "宋亚轩提醒杨迪猎人来了",
@@ -40076,7 +40116,7 @@
     },
     {
       "raw_hot": 202532,
-      "num": 202532,
+      "num": 204238,
       "word": "Cat就是开团的God",
       "onboard_time": 1689865357,
       "rank": 38,
@@ -44121,6 +44161,14 @@
       "onboard_time": 1689411269,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168827,
+      "num": 204245,
+      "word": "街道办回应狗头萝莉卖煎饼遭举报",
+      "onboard_time": 1689867097,
+      "rank": 47,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 168790,
@@ -49298,6 +49346,9 @@
     },
     {
       "word": "#发现最美铁路#"
+    },
+    {
+      "word": "#中国有约#"
     }
   ]
 }

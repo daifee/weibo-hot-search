@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689866276808,
+  "endTime": 1689867264816,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1975322,
+      "num": 426657,
+      "word": "张颂文考科目二被围观",
+      "onboard_time": 1689864818,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1949325,
       "num": 1949325,
       "word": "潮州消防 灭火器不是玩具",
@@ -201,14 +209,6 @@
       "onboard_time": 1689818311,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1552517,
-      "num": 426657,
-      "word": "张颂文考科目二被围观",
-      "onboard_time": 1689864818,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1474769,
@@ -353,6 +353,14 @@
       "onboard_time": 1689861996,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1069498,
+      "num": 1069498,
+      "word": "地球连续35年收到神秘规律性信号",
+      "onboard_time": 1689864218,
+      "rank": 4,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1061208,
@@ -515,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 840676,
+      "num": 840676,
+      "word": "杨幂涂山红红",
+      "onboard_time": 1689866136,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 834031,
       "num": 834031,
       "word": "迪丽热巴刘宇宁穿黑衣服不告诉龚俊",
@@ -603,20 +619,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 770847,
+      "num": 770847,
+      "word": "迪丽热巴你山药拿反了",
+      "onboard_time": 1689866434,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 763547,
       "num": 755563,
       "word": "如果孟宴臣遇见的是薛杉杉",
       "onboard_time": 1689819696,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 746832,
-      "num": 746832,
-      "word": "地球连续35年收到神秘规律性信号",
-      "onboard_time": 1689864218,
-      "rank": 4,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 742589,
@@ -649,6 +665,14 @@
       "onboard_time": 1689838232,
       "rank": 34,
       "category": "幽默,体育"
+    },
+    {
+      "raw_hot": 719526,
+      "num": 382704,
+      "word": "西安教育局",
+      "onboard_time": 1689866496,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 715534,
@@ -803,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 636405,
+      "num": 368933,
+      "word": "杨紫白月光妆",
+      "onboard_time": 1689865717,
+      "rank": 41,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 631953,
       "num": 631953,
       "word": "他从火光中走来",
@@ -849,6 +881,14 @@
       "onboard_time": 1689826239,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 604582,
+      "num": 286897,
+      "word": "姬发好帅",
+      "onboard_time": 1689864936,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 599417,
@@ -1001,14 +1041,6 @@
       "onboard_time": 1689768634,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 521786,
-      "num": 287867,
-      "word": "杨幂涂山红红",
-      "onboard_time": 1689866136,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 519004,
@@ -1225,14 +1257,6 @@
       "onboard_time": 1689850891,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430928,
-      "num": 286897,
-      "word": "姬发好帅",
-      "onboard_time": 1689864936,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 426287,
@@ -1619,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336333,
+      "num": 264025,
+      "word": "欢颜播后口碑",
+      "onboard_time": 1689863741,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336218,
       "num": 336218,
       "word": "山东莱荣高铁偷工减料被举报",
@@ -1633,14 +1665,6 @@
       "onboard_time": 1689853410,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 335974,
-      "num": 215652,
-      "word": "欢颜播后口碑",
-      "onboard_time": 1689863741,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 334217,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1689827982,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327436,
+      "num": 212289,
+      "word": "都暻秀看华莎vs王嘉尔看JYP",
+      "onboard_time": 1689866319,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 327225,
@@ -1747,14 +1779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303428,
-      "num": 200178,
-      "word": "杨紫白月光妆",
-      "onboard_time": 1689865717,
-      "rank": 41,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 302738,
       "num": 302738,
       "word": "西安对回流生等问题成立联合调查组",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1689811832,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299960,
+      "num": 294082,
+      "word": "封神",
+      "onboard_time": 1689819093,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 297372,
@@ -1793,14 +1825,6 @@
       "onboard_time": 1689779800,
       "rank": 29,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 294082,
-      "num": 294082,
-      "word": "封神",
-      "onboard_time": 1689819093,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 292543,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1689845253,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265087,
+      "num": 265087,
+      "word": "这粽子只有云南才有吗",
+      "onboard_time": 1689866737,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 264543,
@@ -2251,6 +2283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208779,
+      "num": 208779,
+      "word": "盛情款待了小时候的自己",
+      "onboard_time": 1689866319,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 207327,
       "num": 207327,
       "word": "get up",
@@ -2268,7 +2308,7 @@
     },
     {
       "raw_hot": 202532,
-      "num": 202532,
+      "num": 204238,
       "word": "Cat就是开团的God",
       "onboard_time": 1689865357,
       "rank": 38,
@@ -2595,6 +2635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168827,
+      "num": 204245,
+      "word": "街道办回应狗头萝莉卖煎饼遭举报",
+      "onboard_time": 1689867097,
+      "rank": 47,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 168278,
       "num": 286669,
       "word": "欢颜",
@@ -2888,6 +2936,9 @@
     },
     {
       "word": "#发现最美铁路#"
+    },
+    {
+      "word": "#中国有约#"
     }
   ]
 }
