@@ -1,6 +1,6 @@
 {
   "startTime": 1689783751575,
-  "endTime": 1689863621876,
+  "endTime": 1689866276808,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1552517,
+      "num": 426657,
+      "word": "张颂文考科目二被围观",
+      "onboard_time": 1689864818,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1474769,
       "num": 1474769,
       "word": "贾士凯为灭火器情节道歉",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 1075060,
-      "num": 270512,
+      "num": 288297,
       "word": "新婚妻子车祸昏迷7天丈夫忍痛拔管",
       "onboard_time": 1689861996,
       "rank": 30,
@@ -603,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 746832,
+      "num": 746832,
+      "word": "地球连续35年收到神秘规律性信号",
+      "onboard_time": 1689864218,
+      "rank": 4,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 742589,
       "num": 368330,
       "word": "长沙一男子当街杀害妻子被刑拘",
@@ -739,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655106,
+      "num": 405800,
+      "word": "王俊凯王源刘亦菲今日开屏",
+      "onboard_time": 1689862656,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 653272,
       "num": 653272,
       "word": "鹿晗上海演唱会",
       "onboard_time": 1689832775,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 647422,
+      "num": 401087,
+      "word": "李佳琦 meland票",
+      "onboard_time": 1689862901,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 643912,
@@ -883,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 571916,
+      "num": 571916,
+      "word": "临时抱Fo脚",
+      "onboard_time": 1689862835,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 569663,
       "num": 569663,
       "word": "烧伤女孩拍婚纱照店老板主动充当新郎",
@@ -924,7 +964,7 @@
     },
     {
       "raw_hot": 541713,
-      "num": 270494,
+      "num": 287428,
       "word": "女童被麦当劳鸡块烫伤法院判赔80万美元",
       "onboard_time": 1689861215,
       "rank": 31,
@@ -937,6 +977,14 @@
       "onboard_time": 1689843815,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 531901,
+      "num": 288151,
+      "word": "男子自曝想加女生微信误碰大腿被拘",
+      "onboard_time": 1689863918,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530474,
@@ -953,6 +1001,14 @@
       "onboard_time": 1689768634,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 521786,
+      "num": 287867,
+      "word": "杨幂涂山红红",
+      "onboard_time": 1689866136,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 519004,
@@ -993,14 +1049,6 @@
       "onboard_time": 1689822036,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 488704,
-      "num": 270507,
-      "word": "王俊凯王源刘亦菲今日开屏",
-      "onboard_time": 1689862656,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 488115,
@@ -1155,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432176,
+      "num": 287170,
+      "word": "孙燕姿好忙",
+      "onboard_time": 1689863136,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 431272,
       "num": 525495,
       "word": "花花被游客喊胖子愣了1秒钟",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1689850891,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430928,
+      "num": 286897,
+      "word": "姬发好帅",
+      "onboard_time": 1689864936,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 426287,
@@ -1219,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411545,
+      "num": 286852,
+      "word": "周雨彤的T恤竟然是皮的",
+      "onboard_time": 1689864997,
+      "rank": 27,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 409457,
       "num": 323298,
       "word": "肖战许凯罗一舟今日营业照",
@@ -1249,6 +1321,14 @@
       "onboard_time": 1689839734,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 401467,
+      "num": 401467,
+      "word": "钱天一3比2孙颖莎",
+      "onboard_time": 1689864576,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 399078,
@@ -1304,6 +1384,14 @@
       "word": "孟宴臣哭的我心都碎了",
       "onboard_time": 1689780874,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 387356,
+      "num": 286135,
+      "word": "陈哲远新剧扮女装",
+      "onboard_time": 1689864337,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1467,6 +1555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347020,
+      "num": 286408,
+      "word": "使人变胖的是糖分还是脂肪",
+      "onboard_time": 1689861215,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343755,
       "num": 343755,
       "word": "安乐传微博追剧团",
@@ -1537,6 +1633,14 @@
       "onboard_time": 1689853410,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335974,
+      "num": 215652,
+      "word": "欢颜播后口碑",
+      "onboard_time": 1689863741,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 334217,
@@ -1643,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303428,
+      "num": 200178,
+      "word": "杨紫白月光妆",
+      "onboard_time": 1689865717,
+      "rank": 41,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 302738,
       "num": 302738,
       "word": "西安对回流生等问题成立联合调查组",
@@ -1656,14 +1768,6 @@
       "word": "相亲对象把我一人丢在外地了",
       "onboard_time": 1689811832,
       "rank": 27,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 299431,
-      "num": 270467,
-      "word": "使人变胖的是糖分还是脂肪",
-      "onboard_time": 1689861215,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -1689,14 +1793,6 @@
       "onboard_time": 1689779800,
       "rank": 29,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 294998,
-      "num": 270457,
-      "word": "李佳琦 meland票",
-      "onboard_time": 1689862901,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 294082,
@@ -1755,20 +1851,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 288991,
-      "num": 270456,
-      "word": "孙燕姿好忙",
-      "onboard_time": 1689863136,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 288579,
       "num": 288579,
       "word": "多地共青团发文声援宋雨琦",
       "onboard_time": 1689829540,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288463,
+      "num": 288463,
+      "word": "AG战胜WB",
+      "onboard_time": 1689865474,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 288145,
@@ -1897,14 +1993,6 @@
       "onboard_time": 1689845253,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 264920,
-      "num": 264920,
-      "word": "临时抱Fo脚",
-      "onboard_time": 1689862835,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 264543,
@@ -2179,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202532,
+      "num": 202532,
+      "word": "Cat就是开团的God",
+      "onboard_time": 1689865357,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202486,
       "num": 286702,
       "word": "拜把子拜了60个小孩",
@@ -2307,6 +2403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194417,
+      "num": 199288,
+      "word": "山东鲁能3比2深圳大学",
+      "onboard_time": 1689865655,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193625,
       "num": 215910,
       "word": "封神第一部",
@@ -2377,6 +2481,14 @@
       "onboard_time": 1689769895,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190956,
+      "num": 199020,
+      "word": "陈梦3比2陈幸同",
+      "onboard_time": 1689865655,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 190467,
@@ -2635,6 +2747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97913,
+      "num": 286212,
+      "word": "神十六航天员也要漫步太空了",
+      "onboard_time": 1689865119,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 97375,
       "num": 433971,
       "word": "年轻人在玩一种很新的AIGC",
@@ -2691,18 +2811,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 54012,
-      "num": 1405146,
-      "word": "天目一号气象星座07-10星成功发射",
-      "onboard_time": 1689844293,
+      "raw_hot": 54924,
+      "num": 1918565,
+      "word": "大运会城市志愿服务小站有急救包",
+      "onboard_time": 1689860855,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52833,
-      "num": 1918565,
-      "word": "大运会城市志愿服务小站有急救包",
-      "onboard_time": 1689860855,
+      "raw_hot": 54012,
+      "num": 1405146,
+      "word": "天目一号气象星座07-10星成功发射",
+      "onboard_time": 1689844293,
       "rank": 2,
       "category": "社会新闻"
     },
