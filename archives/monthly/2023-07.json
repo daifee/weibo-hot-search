@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689950061345,
+  "endTime": 1689952657731,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1688964218,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2362162,
+      "num": 2362162,
+      "word": "Angelababy告别奔跑吧",
+      "onboard_time": 1689941798,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 2361513,
@@ -3435,6 +3443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1709645,
+      "num": 1709645,
+      "word": "她自己叫林徽因就够了",
+      "onboard_time": 1689948641,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1701475,
       "num": 1701475,
       "word": "中考满分760我考了753",
@@ -3651,6 +3667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1624115,
+      "num": 1624115,
+      "word": "莲花楼定档",
+      "onboard_time": 1689950141,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1623289,
       "num": 1232875,
       "word": "药水哥两年没回向佐微信",
@@ -3672,14 +3696,6 @@
       "word": "王鹤棣圈内最好的朋友是宋伊人",
       "onboard_time": 1688276495,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1615718,
-      "num": 1615718,
-      "word": "Angelababy告别奔跑吧",
-      "onboard_time": 1689941798,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -5688,6 +5704,14 @@
       "word": "2女子与蜜雪冰城员工起冲突",
       "onboard_time": 1688913154,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1203842,
+      "num": 1203842,
+      "word": "男子被骗缅北回国后狂扇耳光",
+      "onboard_time": 1689945703,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -7835,6 +7859,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 991137,
+      "num": 991137,
+      "word": "跑男后期 游泳圈",
+      "onboard_time": 1689951701,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 991041,
       "num": 921472,
       "word": "何炅王嘉尔曾预言白敬亭宋轶",
@@ -8139,6 +8171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964842,
+      "num": 964842,
+      "word": "强实名",
+      "onboard_time": 1689946782,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 964627,
       "num": 521411,
       "word": "TFBOYS十周年 优酷直播",
@@ -8355,6 +8395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 944221,
+      "num": 944221,
+      "word": "宋焰吻戏endingpose",
+      "onboard_time": 1689950801,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 943995,
       "num": 943995,
       "word": "台风",
@@ -8369,14 +8417,6 @@
       "onboard_time": 1688533779,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 943684,
-      "num": 943684,
-      "word": "男子被骗缅北回国后狂扇耳光",
-      "onboard_time": 1689945703,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 942609,
@@ -8417,14 +8457,6 @@
       "onboard_time": 1688205575,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 941207,
-      "num": 386031,
-      "word": "强实名",
-      "onboard_time": 1689946782,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 941058,
@@ -11796,7 +11828,7 @@
     },
     {
       "raw_hot": 753407,
-      "num": 753407,
+      "num": 1000621,
       "word": "中建五局一项目经理工作群辱骂员工",
       "onboard_time": 1689936756,
       "rank": 15,
@@ -12344,6 +12376,14 @@
       "word": "EDG击败BLG夺冠",
       "onboard_time": 1689513213,
       "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 724819,
+      "num": 724819,
+      "word": "台下闹麻了 台上软脚虾",
+      "onboard_time": 1689947501,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -13563,6 +13603,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 674042,
+      "num": 244790,
+      "word": "许沁离开宋焰的原因",
+      "onboard_time": 1689951639,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673753,
       "num": 673753,
       "word": "做手工的要小心甲醛中毒",
@@ -13737,6 +13785,14 @@
       "onboard_time": 1688312137,
       "rank": 12,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 666981,
+      "num": 268733,
+      "word": "Sunnee个人战",
+      "onboard_time": 1689949840,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 666567,
@@ -14801,6 +14857,14 @@
       "onboard_time": 1689087877,
       "rank": 22,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 633551,
+      "num": 242223,
+      "word": "宋焰接许沁下班巷子都没出",
+      "onboard_time": 1689951219,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 633204,
@@ -15947,6 +16011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 596822,
+      "num": 240926,
+      "word": "乘风排名",
+      "onboard_time": 1689951460,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 596796,
       "num": 591004,
       "word": "小姨为了抱认生的孩子用奇招",
@@ -16715,14 +16787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571166,
-      "num": 387884,
-      "word": "台下闹麻了 台上软脚虾",
-      "onboard_time": 1689947501,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 570653,
       "num": 379503,
       "word": "我爸帮我妈追星的一个月",
@@ -17281,6 +17345,14 @@
       "onboard_time": 1689141156,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555560,
+      "num": 239311,
+      "word": "朱珠刘惜君Say So",
+      "onboard_time": 1689951159,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 555331,
@@ -18233,14 +18305,6 @@
       "onboard_time": 1688735568,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 529532,
-      "num": 387380,
-      "word": "她自己叫林徽因就够了",
-      "onboard_time": 1689948641,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 529387,
@@ -20184,14 +20248,6 @@
       "word": "宋雨琦cueMINNIE空翻",
       "onboard_time": 1689345643,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 480255,
-      "num": 268733,
-      "word": "Sunnee个人战",
-      "onboard_time": 1689949840,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -22291,6 +22347,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 438100,
+      "num": 236661,
+      "word": "杨颖问儿子在学校有没有人追你",
+      "onboard_time": 1689952178,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438015,
       "num": 438015,
       "word": "钱流向不缺钱的人苦留给能吃苦的人",
@@ -22475,6 +22539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 434884,
+      "num": 244547,
+      "word": "乘风2023年度乘风席位",
+      "onboard_time": 1689949780,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434810,
       "num": 434810,
       "word": "你知道什么是当当当当吗",
@@ -22649,6 +22721,14 @@
       "onboard_time": 1688976270,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432390,
+      "num": 1027341,
+      "word": "我爱床 我要跟床结婚",
+      "onboard_time": 1689951460,
+      "rank": 8,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 432309,
@@ -29211,14 +29291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 328309,
-      "num": 244547,
-      "word": "乘风2023年度乘风席位",
-      "onboard_time": 1689949780,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327931,
       "num": 284287,
       "word": "女子找手机全飞机乘客干等3小时",
@@ -31177,6 +31249,14 @@
       "onboard_time": 1689248791,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302005,
+      "num": 236475,
+      "word": "给女孩",
+      "onboard_time": 1689951701,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 301973,
@@ -37811,6 +37891,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 236724,
+      "num": 236724,
+      "word": "下个月的8号就立秋了",
+      "onboard_time": 1689951102,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236723,
       "num": 236723,
       "word": "巨齿鲨2官宣北京全球首映礼",
@@ -39089,6 +39177,14 @@
       "onboard_time": 1688532940,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224317,
+      "num": 243711,
+      "word": "精神院查房时遇到可爱的灵魂",
+      "onboard_time": 1689949418,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 224313,
@@ -45635,6 +45731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174598,
+      "num": 236613,
+      "word": "机器人给头颅8厘米早产儿做脑手术",
+      "onboard_time": 1689951876,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 174508,
       "num": 174508,
       "word": "小爱去看鹿晗演唱会",
@@ -47379,6 +47483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151637,
+      "num": 236433,
+      "word": "狼队战胜eStar",
+      "onboard_time": 1689952478,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151530,
       "num": 180263,
       "word": "老人海边游泳漂入深海",
@@ -47593,6 +47705,14 @@
       "onboard_time": 1688921365,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148455,
+      "num": 236407,
+      "word": "真正的好朋友只会互相哭穷",
+      "onboard_time": 1689952119,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 147878,
@@ -47977,14 +48097,6 @@
       "onboard_time": 1689164432,
       "rank": 18,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 141904,
-      "num": 243711,
-      "word": "精神院查房时遇到可爱的灵魂",
-      "onboard_time": 1689949418,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 141847,
@@ -50948,7 +51060,7 @@
     },
     {
       "raw_hot": 35302,
-      "num": 1735551,
+      "num": 1807673,
       "word": "成都大运会倒计时1周",
       "onboard_time": 1689902431,
       "rank": 2,

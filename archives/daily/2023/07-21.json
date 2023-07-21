@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689950061345,
+  "endTime": 1689952657731,
   "band_list": [
     {
       "raw_hot": 9361784,
@@ -49,6 +49,14 @@
       "onboard_time": 1689929073,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2362162,
+      "num": 2362162,
+      "word": "Angelababy告别奔跑吧",
+      "onboard_time": 1689941798,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 2359745,
@@ -155,6 +163,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1709645,
+      "num": 1709645,
+      "word": "她自己叫林徽因就够了",
+      "onboard_time": 1689948641,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1684604,
       "num": 1419138,
       "word": "陈妍希忘了删文案",
@@ -179,12 +195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1615718,
-      "num": 1615718,
-      "word": "Angelababy告别奔跑吧",
-      "onboard_time": 1689941798,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 1624115,
+      "num": 1624115,
+      "word": "莲花楼定档",
+      "onboard_time": 1689950141,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1560182,
@@ -291,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1203842,
+      "num": 1203842,
+      "word": "男子被骗缅北回国后狂扇耳光",
+      "onboard_time": 1689945703,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1160930,
       "num": 375730,
       "word": "蔡卓宜 我真的没在哭",
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 991137,
+      "num": 991137,
+      "word": "跑男后期 游泳圈",
+      "onboard_time": 1689951701,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 982391,
       "num": 982391,
       "word": "刘奕君儿子看父亲的剧ptsd了",
@@ -411,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 964842,
+      "num": 964842,
+      "word": "强实名",
+      "onboard_time": 1689946782,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 964627,
       "num": 521411,
       "word": "TFBOYS十周年 优酷直播",
@@ -419,20 +459,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 943684,
-      "num": 943684,
-      "word": "男子被骗缅北回国后狂扇耳光",
-      "onboard_time": 1689945703,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 941207,
-      "num": 386031,
-      "word": "强实名",
-      "onboard_time": 1689946782,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 944221,
+      "num": 944221,
+      "word": "宋焰吻戏endingpose",
+      "onboard_time": 1689950801,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 919435,
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 753407,
-      "num": 753407,
+      "num": 1000621,
       "word": "中建五局一项目经理工作群辱骂员工",
       "onboard_time": 1689936756,
       "rank": 15,
@@ -707,6 +739,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 724819,
+      "num": 724819,
+      "word": "台下闹麻了 台上软脚虾",
+      "onboard_time": 1689947501,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 724215,
       "num": 723020,
       "word": "台湾一女大学生被高坠空调外机砸死",
@@ -747,12 +787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 674042,
+      "num": 244790,
+      "word": "许沁离开宋焰的原因",
+      "onboard_time": 1689951639,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673753,
       "num": 673753,
       "word": "做手工的要小心甲醛中毒",
       "onboard_time": 1689925291,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666981,
+      "num": 268733,
+      "word": "Sunnee个人战",
+      "onboard_time": 1689949840,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 665925,
@@ -801,6 +857,14 @@
       "onboard_time": 1689905191,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633551,
+      "num": 242223,
+      "word": "宋焰接许沁下班巷子都没出",
+      "onboard_time": 1689951219,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 623863,
@@ -875,6 +939,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 596822,
+      "num": 240926,
+      "word": "乘风排名",
+      "onboard_time": 1689951460,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592945,
       "num": 592945,
       "word": "封神第一部票房破亿",
@@ -939,14 +1011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 571166,
-      "num": 387884,
-      "word": "台下闹麻了 台上软脚虾",
-      "onboard_time": 1689947501,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 568935,
       "num": 556458,
       "word": "杨颖见到了花钱买自拍照的人",
@@ -969,6 +1033,14 @@
       "onboard_time": 1689911554,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 555560,
+      "num": 239311,
+      "word": "朱珠刘惜君Say So",
+      "onboard_time": 1689951159,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 554663,
@@ -1009,14 +1081,6 @@
       "onboard_time": 1689917192,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 529532,
-      "num": 387380,
-      "word": "她自己叫林徽因就够了",
-      "onboard_time": 1689948641,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 522316,
@@ -1131,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 480255,
-      "num": 268733,
-      "word": "Sunnee个人战",
-      "onboard_time": 1689949840,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 477968,
       "num": 477968,
       "word": "卡琳娜cos刃",
@@ -1243,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438100,
+      "num": 236661,
+      "word": "杨颖问儿子在学校有没有人追你",
+      "onboard_time": 1689952178,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437358,
       "num": 277277,
       "word": "封神新妲己出场镜头",
@@ -1251,12 +1315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434884,
+      "num": 244547,
+      "word": "乘风2023年度乘风席位",
+      "onboard_time": 1689949780,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433273,
       "num": 319569,
       "word": "这是许沁本来该过的生活吧",
       "onboard_time": 1689900813,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 432390,
+      "num": 1027341,
+      "word": "我爱床 我要跟床结婚",
+      "onboard_time": 1689951460,
+      "rank": 8,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 426525,
@@ -1499,14 +1579,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 328309,
-      "num": 244547,
-      "word": "乘风2023年度乘风席位",
-      "onboard_time": 1689949780,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325083,
       "num": 258848,
       "word": "鹿晗演唱会到底送了多少福利",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1689930216,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 302005,
+      "num": 236475,
+      "word": "给女孩",
+      "onboard_time": 1689951701,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 301413,
@@ -2011,6 +2091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236724,
+      "num": 236724,
+      "word": "下个月的8号就立秋了",
+      "onboard_time": 1689951102,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236723,
       "num": 236723,
       "word": "巨齿鲨2官宣北京全球首映礼",
@@ -2081,6 +2169,14 @@
       "onboard_time": 1689934535,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224317,
+      "num": 243711,
+      "word": "精神院查房时遇到可爱的灵魂",
+      "onboard_time": 1689949418,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 221709,
@@ -2435,6 +2531,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 174598,
+      "num": 236613,
+      "word": "机器人给头颅8厘米早产儿做脑手术",
+      "onboard_time": 1689951876,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 173683,
       "num": 173683,
       "word": "热烈路演",
@@ -2531,6 +2635,14 @@
       "category": "旅游,自然"
     },
     {
+      "raw_hot": 151637,
+      "num": 236433,
+      "word": "狼队战胜eStar",
+      "onboard_time": 1689952478,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149690,
       "num": 259937,
       "word": "这粽子只有云南才有吗",
@@ -2545,6 +2657,14 @@
       "onboard_time": 1689947260,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148455,
+      "num": 236407,
+      "word": "真正的好朋友只会互相哭穷",
+      "onboard_time": 1689952119,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 146169,
@@ -2569,14 +2689,6 @@
       "onboard_time": 1689921631,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141904,
-      "num": 243711,
-      "word": "精神院查房时遇到可爱的灵魂",
-      "onboard_time": 1689949418,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 139226,
@@ -2756,7 +2868,7 @@
     },
     {
       "raw_hot": 35302,
-      "num": 1735551,
+      "num": 1807673,
       "word": "成都大运会倒计时1周",
       "onboard_time": 1689902431,
       "rank": 2,
