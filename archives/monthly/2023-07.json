@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689948948423,
+  "endTime": 1689950061345,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2419,6 +2419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1975518,
+      "num": 1975518,
+      "word": "谢娜 谢娜是一个很有争议的名字",
+      "onboard_time": 1689946120,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1975322,
       "num": 452051,
       "word": "张颂文考科目二被围观",
@@ -2721,14 +2729,6 @@
       "onboard_time": 1689158913,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1890973,
-      "num": 1890973,
-      "word": "谢娜 谢娜是一个很有争议的名字",
-      "onboard_time": 1689946120,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 1880704,
@@ -3672,6 +3672,14 @@
       "word": "王鹤棣圈内最好的朋友是宋伊人",
       "onboard_time": 1688276495,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1615718,
+      "num": 1615718,
+      "word": "Angelababy告别奔跑吧",
+      "onboard_time": 1689941798,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -5475,14 +5483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1232077,
-      "num": 464116,
-      "word": "Angelababy告别奔跑吧",
-      "onboard_time": 1689941798,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1229167,
       "num": 696171,
       "word": "ITZY",
@@ -6241,6 +6241,14 @@
       "onboard_time": 1688910452,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1140383,
+      "num": 389130,
+      "word": "还得是你们TFBOYS粉丝",
+      "onboard_time": 1689947802,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 1140125,
@@ -8363,6 +8371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 943684,
+      "num": 943684,
+      "word": "男子被骗缅北回国后狂扇耳光",
+      "onboard_time": 1689945703,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942609,
       "num": 942609,
       "word": "29岁女生入职3年月薪涨200元裸辞",
@@ -8401,6 +8417,14 @@
       "onboard_time": 1688205575,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 941207,
+      "num": 386031,
+      "word": "强实名",
+      "onboard_time": 1689946782,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 941058,
@@ -8897,14 +8921,6 @@
       "onboard_time": 1689761554,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 905339,
-      "num": 379700,
-      "word": "还得是你们TFBOYS粉丝",
-      "onboard_time": 1689947802,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 905186,
@@ -9489,14 +9505,6 @@
       "onboard_time": 1688271391,
       "rank": 32,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 873266,
-      "num": 369874,
-      "word": "强实名",
-      "onboard_time": 1689946782,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 873190,
@@ -10892,7 +10900,7 @@
     },
     {
       "raw_hot": 801634,
-      "num": 319096,
+      "num": 333431,
       "word": "TFBOYS回归内娱开门",
       "onboard_time": 1689947802,
       "rank": 20,
@@ -12121,6 +12129,14 @@
       "onboard_time": 1688924359,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 734341,
+      "num": 350100,
+      "word": "马天宇晒鹿晗to签",
+      "onboard_time": 1689946360,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 734281,
@@ -13931,14 +13947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 661961,
-      "num": 661961,
-      "word": "男子被骗缅北回国后狂扇耳光",
-      "onboard_time": 1689945703,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 661649,
       "num": 661649,
       "word": "外国人说这就是吴京",
@@ -14265,14 +14273,6 @@
       "onboard_time": 1689744513,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 653537,
-      "num": 292233,
-      "word": "马天宇晒鹿晗to签",
-      "onboard_time": 1689946360,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 653390,
@@ -16715,6 +16715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571166,
+      "num": 387884,
+      "word": "台下闹麻了 台上软脚虾",
+      "onboard_time": 1689947501,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 570653,
       "num": 379503,
       "word": "我爸帮我妈追星的一个月",
@@ -18225,6 +18233,14 @@
       "onboard_time": 1688735568,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 529532,
+      "num": 387380,
+      "word": "她自己叫林徽因就够了",
+      "onboard_time": 1689948641,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 529387,
@@ -20171,6 +20187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480255,
+      "num": 268733,
+      "word": "Sunnee个人战",
+      "onboard_time": 1689949840,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479942,
       "num": 479942,
       "word": "福宝两个妹妹叫啥名字好",
@@ -21715,6 +21739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 448643,
+      "num": 262263,
+      "word": "赵寻被侵犯前想过自救",
+      "onboard_time": 1689945759,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448642,
       "num": 448642,
       "word": "林孝埈中文接受采访",
@@ -22233,6 +22265,14 @@
       "onboard_time": 1688897252,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 438552,
+      "num": 417934,
+      "word": "我妈刮痧两天把我痘痘刮没了",
+      "onboard_time": 1689939933,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 438431,
@@ -23417,14 +23457,6 @@
       "onboard_time": 1689243577,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 417934,
-      "num": 417934,
-      "word": "我妈刮痧两天把我痘痘刮没了",
-      "onboard_time": 1689939933,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 417636,
@@ -25515,14 +25547,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 381814,
-      "num": 212108,
-      "word": "赵寻被侵犯前想过自救",
-      "onboard_time": 1689945759,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 381550,
       "num": 381550,
       "word": "兼职生好像不知道我是老板",
@@ -27483,6 +27507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352251,
+      "num": 352251,
+      "word": "越捷航空被指将中国地图区别对待",
+      "onboard_time": 1689948460,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352163,
       "num": 342328,
       "word": "祝福香港祝福祖国",
@@ -29179,6 +29211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 328309,
+      "num": 244547,
+      "word": "乘风2023年度乘风席位",
+      "onboard_time": 1689949780,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327931,
       "num": 284287,
       "word": "女子找手机全飞机乘客干等3小时",
@@ -29641,14 +29681,6 @@
       "onboard_time": 1689321756,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 321232,
-      "num": 321232,
-      "word": "台下闹麻了 台上软脚虾",
-      "onboard_time": 1689947501,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 320766,
@@ -39259,14 +39291,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 223266,
-      "num": 223266,
-      "word": "越捷航空被指将中国地图区别对待",
-      "onboard_time": 1689948460,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223223,
       "num": 223223,
       "word": "Hero限定雀斑证件照",
@@ -40740,7 +40764,7 @@
     },
     {
       "raw_hot": 212144,
-      "num": 212144,
+      "num": 244117,
       "word": "狗狗遛弯结果停在这里了",
       "onboard_time": 1689944142,
       "rank": 49,
@@ -45388,7 +45412,7 @@
     },
     {
       "raw_hot": 176709,
-      "num": 211760,
+      "num": 243859,
       "word": "女足",
       "onboard_time": 1689947021,
       "rank": 46,
@@ -46385,14 +46409,6 @@
       "onboard_time": 1688319441,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166412,
-      "num": 211685,
-      "word": "她自己叫林徽因就够了",
-      "onboard_time": 1689948641,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 166410,
@@ -47961,6 +47977,14 @@
       "onboard_time": 1689164432,
       "rank": 18,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 141904,
+      "num": 243711,
+      "word": "精神院查房时遇到可爱的灵魂",
+      "onboard_time": 1689949418,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 141847,
@@ -50924,7 +50948,7 @@
     },
     {
       "raw_hot": 35302,
-      "num": 1731326,
+      "num": 1735551,
       "word": "成都大运会倒计时1周",
       "onboard_time": 1689902431,
       "rank": 2,
