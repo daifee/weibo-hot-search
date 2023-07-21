@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689939224932,
+  "endTime": 1689942792872,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -17,6 +17,14 @@
       "onboard_time": 1689819576,
       "rank": 0,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 9361784,
+      "num": 9361784,
+      "word": "TFBOYS演唱会官宣",
+      "onboard_time": 1689942032,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 8049620,
@@ -281,6 +289,14 @@
       "onboard_time": 1689819332,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2373781,
+      "num": 1217365,
+      "word": "TFBOYS官博在线",
+      "onboard_time": 1689929073,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 2359745,
@@ -1179,6 +1195,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1210040,
+      "num": 1210040,
+      "word": "上海暴雨",
+      "onboard_time": 1689930630,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1208854,
       "num": 1208854,
       "word": "TFBOYS十周年演唱会座位图",
@@ -1275,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1162677,
-      "num": 1162677,
-      "word": "上海暴雨",
-      "onboard_time": 1689930630,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1161594,
       "num": 1161594,
       "word": "公司1.2亿租楼300每月租给员工住",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1689598774,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1155965,
+      "num": 604025,
+      "word": "杨洋新剧别名",
+      "onboard_time": 1689939333,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1150832,
@@ -1579,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1027369,
+      "num": 1027369,
+      "word": "男孩痛哭跪谢回收空调师傅多给1000元",
+      "onboard_time": 1689938855,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021773,
       "num": 1021773,
       "word": "八角笼中的姐姐是王宝强的亲姐姐",
@@ -1628,7 +1660,7 @@
     },
     {
       "raw_hot": 1009704,
-      "num": 360978,
+      "num": 387073,
       "word": "领导退群我成单位群主了",
       "onboard_time": 1689933632,
       "rank": 21,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1689859533,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 973495,
+      "num": 973495,
+      "word": "王一博渔网卫衣",
+      "onboard_time": 1689940233,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 970724,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1689566851,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 873779,
+      "num": 873779,
+      "word": "奔跑吧收官",
+      "onboard_time": 1689940957,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 872814,
@@ -2835,14 +2883,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 703737,
-      "num": 703737,
-      "word": "TFBOYS官博在线",
-      "onboard_time": 1689929073,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 702964,
       "num": 425843,
       "word": "刘诗诗蓝色长裙好优雅",
@@ -3179,6 +3219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 652927,
+      "num": 400063,
+      "word": "粉丝对王俊凯王源易烊千玺合体的热情",
+      "onboard_time": 1689941798,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 652703,
       "num": 438150,
       "word": "政审家访被妈妈气晕了",
@@ -3464,6 +3512,14 @@
       "word": "树上掉知了一晚上能捡2000元",
       "onboard_time": 1689755672,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609897,
+      "num": 609897,
+      "word": "老人将15万现金当废品卖了8元",
+      "onboard_time": 1689940771,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4011,6 +4067,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 551092,
+      "num": 551092,
+      "word": "日本的西瓜为什么那么贵",
+      "onboard_time": 1689938251,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 550072,
       "num": 305412,
       "word": "牛仔裤上的牌子是干嘛用的",
@@ -4177,6 +4241,14 @@
       "onboard_time": 1689548600,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524346,
+      "num": 395813,
+      "word": "Angelababy告别奔跑吧",
+      "onboard_time": 1689941798,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 523112,
@@ -5068,11 +5140,19 @@
     },
     {
       "raw_hot": 438787,
-      "num": 357065,
+      "num": 364196,
       "word": "搬家时才发现小狗留下的惊喜",
       "onboard_time": 1689932015,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 438207,
+      "num": 392181,
+      "word": "澳大利亚男子怒杀恋童癖狱友",
+      "onboard_time": 1689940714,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436962,
@@ -5217,6 +5297,14 @@
       "onboard_time": 1689572011,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426525,
+      "num": 426525,
+      "word": "封神超出预期",
+      "onboard_time": 1689939810,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 426287,
@@ -5379,6 +5467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415058,
+      "num": 415058,
+      "word": "白粥的绝配到底是什么",
+      "onboard_time": 1689940714,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 414790,
       "num": 414790,
       "word": "福宝",
@@ -5401,6 +5497,14 @@
       "onboard_time": 1689676414,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 413237,
+      "num": 413237,
+      "word": "中国队花游集体自由自选摘金",
+      "onboard_time": 1689941976,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 412187,
@@ -5803,6 +5907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385168,
+      "num": 385168,
+      "word": "TFBOYS还发新歌吗",
+      "onboard_time": 1689932134,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385085,
       "num": 301292,
       "word": "买西瓜时听到的母子对话",
@@ -5848,6 +5960,14 @@
       "word": "沈月再现非主流拍照",
       "onboard_time": 1689606273,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383229,
+      "num": 383229,
+      "word": "乘风",
+      "onboard_time": 1689648809,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -6051,6 +6171,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 364625,
+      "num": 389649,
+      "word": "我妈刮痧两天把我痘痘刮没了",
+      "onboard_time": 1689939933,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 364454,
       "num": 364454,
       "word": "成年后养的第一个孩子是自己",
@@ -6065,6 +6193,14 @@
       "onboard_time": 1689569553,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 363759,
+      "num": 363759,
+      "word": "乐华家族年会红毯",
+      "onboard_time": 1689940714,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 363338,
@@ -7299,6 +7435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294668,
+      "num": 294668,
+      "word": "范丞丞我该怎么和你解释个人站",
+      "onboard_time": 1689940413,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294429,
       "num": 294429,
       "word": "EXO新歌初一位",
@@ -7337,6 +7481,14 @@
       "onboard_time": 1689576873,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292023,
+      "num": 403436,
+      "word": "年轻人开始给芒果核梳毛了",
+      "onboard_time": 1689941196,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291548,
@@ -7417,6 +7569,14 @@
       "onboard_time": 1689598774,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289224,
+      "num": 289224,
+      "word": "超能一家人",
+      "onboard_time": 1689589291,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 289095,
@@ -7609,14 +7769,6 @@
       "onboard_time": 1689549201,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282172,
-      "num": 282172,
-      "word": "乘风",
-      "onboard_time": 1689648809,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 282074,
@@ -7905,6 +8057,14 @@
       "onboard_time": 1689642211,
       "rank": 30,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 270547,
+      "num": 270547,
+      "word": "中餐厅",
+      "onboard_time": 1689941196,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 270429,
@@ -8371,14 +8531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248890,
-      "num": 248890,
-      "word": "日本的西瓜为什么那么贵",
-      "onboard_time": 1689938251,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248745,
       "num": 367767,
       "word": "基辛格100岁还能飞来北京出差",
@@ -8449,14 +8601,6 @@
       "onboard_time": 1689649230,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 243043,
-      "num": 243043,
-      "word": "超能一家人",
-      "onboard_time": 1689589291,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 243005,
@@ -8843,14 +8987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228959,
-      "num": 225327,
-      "word": "TFBOYS还发新歌吗",
-      "onboard_time": 1689932134,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 228801,
       "num": 329097,
       "word": "NCTDREAM新歌空降",
@@ -9027,6 +9163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221709,
+      "num": 289248,
+      "word": "夏凌",
+      "onboard_time": 1689941617,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 221420,
+      "num": 221420,
+      "word": "南京Hero久竞",
+      "onboard_time": 1689939273,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221354,
       "num": 534164,
       "word": "牛冠凯3比1王楚钦",
@@ -9065,6 +9217,14 @@
       "onboard_time": 1689646769,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 218785,
+      "num": 218785,
+      "word": "犬夜叉老版画风里的美人",
+      "onboard_time": 1689941134,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 217588,
@@ -9193,6 +9353,14 @@
       "onboard_time": 1689922593,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213662,
+      "num": 213662,
+      "word": "拜访我的朋友",
+      "onboard_time": 1689942398,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 213468,
@@ -10075,6 +10243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191589,
+      "num": 214261,
+      "word": "巴特勒中国行",
+      "onboard_time": 1689942275,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191077,
       "num": 191077,
       "word": "大学女生对高中女生的建议",
@@ -10252,7 +10428,7 @@
     },
     {
       "raw_hot": 184766,
-      "num": 202974,
+      "num": 209427,
       "word": "Hero对战XYG",
       "onboard_time": 1689929675,
       "rank": 48,
@@ -10305,14 +10481,6 @@
       "onboard_time": 1689677792,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182115,
-      "num": 202972,
-      "word": "男孩痛哭跪谢回收空调师傅多给1000元",
-      "onboard_time": 1689938855,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182040,
@@ -10505,6 +10673,14 @@
       "onboard_time": 1689643168,
       "rank": 42,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 172058,
+      "num": 204685,
+      "word": "她一定是好起来了",
+      "onboard_time": 1689942761,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 171966,
@@ -10737,6 +10913,14 @@
       "onboard_time": 1689591210,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164048,
+      "num": 200247,
+      "word": "猫傻不傻看眼神就知道了",
+      "onboard_time": 1689941916,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 162052,
