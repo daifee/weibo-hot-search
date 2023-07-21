@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689934691364,
+  "endTime": 1689935668928,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2747,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1868271,
+      "num": 1868271,
+      "word": "浙FDL3988闯红灯违章已撤销",
+      "onboard_time": 1689930630,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1863205,
       "num": 1863205,
       "word": "男子在缅甸被砍掉脚趾向哥哥求救",
@@ -3329,14 +3337,6 @@
       "onboard_time": 1689158374,
       "rank": 11,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1728187,
-      "num": 1728187,
-      "word": "浙FDL3988闯红灯违章已撤销",
-      "onboard_time": 1689930630,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1719252,
@@ -5675,6 +5675,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1196621,
+      "num": 1196621,
+      "word": "沙溢告别奔跑吧",
+      "onboard_time": 1689933994,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1196303,
       "num": 1196303,
       "word": "白敬亭这真的是你吗",
@@ -7459,6 +7467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1009704,
+      "num": 360978,
+      "word": "领导退群我成单位群主了",
+      "onboard_time": 1689933632,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1008415,
       "num": 1008415,
       "word": "深圳一工程师被迫辞职讨薪时坠亡",
@@ -8153,6 +8169,14 @@
       "onboard_time": 1688780553,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 952147,
+      "num": 952147,
+      "word": "上海暴雨",
+      "onboard_time": 1689930630,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 951996,
@@ -9291,14 +9315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 876215,
-      "num": 299489,
-      "word": "领导退群我成单位群主了",
-      "onboard_time": 1689933632,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 875309,
       "num": 875309,
       "word": "宣传部回应男子幼儿园行凶致6死1伤",
@@ -10049,14 +10065,6 @@
       "onboard_time": 1688865568,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 833990,
-      "num": 833990,
-      "word": "上海暴雨",
-      "onboard_time": 1689930630,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 833489,
@@ -13875,14 +13883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658635,
-      "num": 658635,
-      "word": "沙溢告别奔跑吧",
-      "onboard_time": 1689933994,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 658581,
       "num": 658581,
       "word": "玉骨遥塌房文学",
@@ -16097,6 +16097,14 @@
       "onboard_time": 1689857491,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583316,
+      "num": 583316,
+      "word": "董宇辉回应江郎才尽",
+      "onboard_time": 1689933456,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 582448,
@@ -19907,14 +19915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 478571,
-      "num": 478571,
-      "word": "董宇辉回应江郎才尽",
-      "onboard_time": 1689933456,
-      "rank": 17,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 478270,
       "num": 386404,
       "word": "肖战工作室太皮了",
@@ -21900,7 +21900,7 @@
     },
     {
       "raw_hot": 438787,
-      "num": 292909,
+      "num": 357065,
       "word": "搬家时才发现小狗留下的惊喜",
       "onboard_time": 1689932015,
       "rank": 48,
@@ -22353,6 +22353,14 @@
       "onboard_time": 1689850891,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431056,
+      "num": 357818,
+      "word": "内娱妈生脸美女",
+      "onboard_time": 1689934053,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 430760,
@@ -24588,7 +24596,7 @@
     },
     {
       "raw_hot": 390305,
-      "num": 287871,
+      "num": 354409,
       "word": "许沁vs朱锁锁",
       "onboard_time": 1689930216,
       "rank": 30,
@@ -24769,6 +24777,14 @@
       "onboard_time": 1689298048,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 387431,
+      "num": 356466,
+      "word": "许沁第一反应不是该生气吗",
+      "onboard_time": 1689930154,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 387356,
@@ -25724,7 +25740,7 @@
     },
     {
       "raw_hot": 371885,
-      "num": 285174,
+      "num": 353501,
       "word": "seventeen演唱会",
       "onboard_time": 1689931655,
       "rank": 41,
@@ -26385,6 +26401,14 @@
       "onboard_time": 1688481461,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361532,
+      "num": 361532,
+      "word": "不要有任何分享欲",
+      "onboard_time": 1689930574,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 361428,
@@ -27539,14 +27563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 345676,
-      "num": 285949,
-      "word": "许沁第一反应不是该生气吗",
-      "onboard_time": 1689930154,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 345417,
       "num": 328505,
       "word": "伊能静一回台北就发胖",
@@ -27673,6 +27689,14 @@
       "onboard_time": 1688253199,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342558,
+      "num": 286454,
+      "word": "没想到荷包蛋竟然也能速冻",
+      "onboard_time": 1689935134,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 342267,
@@ -30524,7 +30548,7 @@
     },
     {
       "raw_hot": 304087,
-      "num": 273224,
+      "num": 285999,
       "word": "陈都灵朋克造型",
       "onboard_time": 1689930216,
       "rank": 36,
@@ -30745,6 +30769,14 @@
       "onboard_time": 1688964520,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300959,
+      "num": 285328,
+      "word": "迪丽热巴刘宇宁的身高差",
+      "onboard_time": 1689933335,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 300896,
@@ -31857,14 +31889,6 @@
       "onboard_time": 1689902793,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 291129,
-      "num": 281492,
-      "word": "不要有任何分享欲",
-      "onboard_time": 1689930574,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 291071,
@@ -33955,14 +33979,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 268646,
-      "num": 268646,
-      "word": "迪丽热巴刘宇宁的身高差",
-      "onboard_time": 1689933335,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268338,
       "num": 221781,
       "word": "张睿遥吻空吻",
@@ -34723,14 +34739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261003,
-      "num": 235758,
-      "word": "内娱妈生脸美女",
-      "onboard_time": 1689934053,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260951,
       "num": 260951,
       "word": "韩旭压哨三分",
@@ -35163,6 +35171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256885,
+      "num": 1208492,
+      "word": "挺身而出后她说不知道哪来的勇气",
+      "onboard_time": 1689932977,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256875,
       "num": 256875,
       "word": "自驾游夫妻高速上被黑熊撞翻车",
@@ -35443,6 +35459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253654,
+      "num": 284905,
+      "word": "西安成立调查组对回流生报名资格逐一核查",
+      "onboard_time": 1689930272,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 253626,
       "num": 253626,
       "word": "人和人的核心区别就是主动",
@@ -35640,14 +35664,6 @@
       "word": "北京的天气给我鞋底烫掉了",
       "onboard_time": 1689481772,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252709,
-      "num": 922266,
-      "word": "挺身而出后她说不知道哪来的勇气",
-      "onboard_time": 1689932977,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -36633,6 +36649,14 @@
       "onboard_time": 1688809295,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242663,
+      "num": 1053268,
+      "word": "这么实诚的服装店老板可不多见了",
+      "onboard_time": 1689934111,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242654,
@@ -37683,14 +37707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232822,
-      "num": 245983,
-      "word": "西安成立调查组对回流生报名资格逐一核查",
-      "onboard_time": 1689930272,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 232746,
       "num": 232746,
       "word": "伯远笑吐了",
@@ -38033,6 +38049,14 @@
       "onboard_time": 1688650595,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228959,
+      "num": 225327,
+      "word": "TFBOYS还发新歌吗",
+      "onboard_time": 1689932134,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 228943,
@@ -38433,6 +38457,14 @@
       "onboard_time": 1688700632,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225498,
+      "num": 225498,
+      "word": "KPL",
+      "onboard_time": 1688295516,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 225401,
@@ -39105,14 +39137,6 @@
       "onboard_time": 1689312039,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220365,
-      "num": 193937,
-      "word": "TFBOYS还发新歌吗",
-      "onboard_time": 1689932134,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 220235,
@@ -40068,7 +40092,7 @@
     },
     {
       "raw_hot": 212880,
-      "num": 197648,
+      "num": 200042,
       "word": "美依礼芽bw现场六连唱跳",
       "onboard_time": 1689929794,
       "rank": 43,
@@ -41467,6 +41491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202338,
+      "num": 202338,
+      "word": "傲寒",
+      "onboard_time": 1689934954,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202265,
       "num": 202265,
       "word": "成都蓉城0比1北京国安",
@@ -41745,6 +41777,14 @@
       "onboard_time": 1688881292,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201050,
+      "num": 201050,
+      "word": "芭比台词 提神醒脑",
+      "onboard_time": 1689932431,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 201039,
@@ -43579,14 +43619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188570,
-      "num": 202802,
-      "word": "KPL",
-      "onboard_time": 1688295516,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188376,
       "num": 188376,
       "word": "星光派对",
@@ -45203,6 +45235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172658,
+      "num": 172658,
+      "word": "柳州到底能有多少种螺蛳粉",
+      "onboard_time": 1689935194,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 172626,
       "num": 182064,
       "word": "如何自查是否患有抑郁症",
@@ -45569,6 +45609,14 @@
       "onboard_time": 1689474210,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 169247,
+      "num": 169247,
+      "word": "bw入场实况",
+      "onboard_time": 1689935434,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 169106,
@@ -47953,14 +48001,6 @@
       "onboard_time": 1688174852,
       "rank": 49,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 125617,
-      "num": 796036,
-      "word": "这么实诚的服装店老板可不多见了",
-      "onboard_time": 1689934111,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125611,

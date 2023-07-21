@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689934691364,
+  "endTime": 1689935668928,
   "band_list": [
     {
       "raw_hot": 2881259,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1868271,
+      "num": 1868271,
+      "word": "浙FDL3988闯红灯违章已撤销",
+      "onboard_time": 1689930630,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1788928,
       "num": 1788928,
       "word": "张一山不跟张俪演戏的原因",
@@ -105,14 +113,6 @@
       "onboard_time": 1689924151,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1728187,
-      "num": 1728187,
-      "word": "浙FDL3988闯红灯违章已撤销",
-      "onboard_time": 1689930630,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1711132,
@@ -219,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1196621,
+      "num": 1196621,
+      "word": "沙溢告别奔跑吧",
+      "onboard_time": 1689933994,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1160930,
       "num": 375730,
       "word": "蔡卓宜 我真的没在哭",
@@ -259,6 +267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1009704,
+      "num": 360978,
+      "word": "领导退群我成单位群主了",
+      "onboard_time": 1689933632,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1008415,
       "num": 1008415,
       "word": "深圳一工程师被迫辞职讨薪时坠亡",
@@ -281,6 +297,14 @@
       "onboard_time": 1689918632,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 952147,
+      "num": 952147,
+      "word": "上海暴雨",
+      "onboard_time": 1689930630,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 919435,
@@ -347,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 876215,
-      "num": 299489,
-      "word": "领导退群我成单位群主了",
-      "onboard_time": 1689933632,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 867832,
       "num": 867832,
       "word": "迪丽热巴你山药拿反了",
@@ -377,14 +393,6 @@
       "onboard_time": 1689927214,
       "rank": 18,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 833990,
-      "num": 833990,
-      "word": "上海暴雨",
-      "onboard_time": 1689930630,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830347,
@@ -539,14 +547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 658635,
-      "num": 658635,
-      "word": "沙溢告别奔跑吧",
-      "onboard_time": 1689933994,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 657629,
       "num": 657629,
       "word": "1664迪丽热巴直播",
@@ -584,6 +584,14 @@
       "word": "仙剑三豆瓣评分涨至9.0分",
       "onboard_time": 1689917251,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 621578,
+      "num": 621578,
+      "word": "莲花楼",
+      "onboard_time": 1689933395,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 583316,
+      "num": 583316,
+      "word": "董宇辉回应江郎才尽",
+      "onboard_time": 1689933456,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 574784,
       "num": 263585,
       "word": "新婚妻子车祸昏迷7天丈夫忍痛拔管",
@@ -713,14 +729,6 @@
       "onboard_time": 1689896185,
       "rank": 5,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 539637,
-      "num": 539637,
-      "word": "莲花楼",
-      "onboard_time": 1689933395,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 535477,
@@ -795,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 478571,
-      "num": 478571,
-      "word": "董宇辉回应江郎才尽",
-      "onboard_time": 1689933456,
-      "rank": 17,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 477968,
       "num": 477968,
       "word": "卡琳娜cos刃",
@@ -868,7 +868,7 @@
     },
     {
       "raw_hot": 438787,
-      "num": 292909,
+      "num": 357065,
       "word": "搬家时才发现小狗留下的惊喜",
       "onboard_time": 1689932015,
       "rank": 48,
@@ -889,6 +889,14 @@
       "onboard_time": 1689900813,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 431056,
+      "num": 357818,
+      "word": "内娱妈生脸美女",
+      "onboard_time": 1689934053,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 425778,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 390305,
-      "num": 287871,
+      "num": 354409,
       "word": "许沁vs朱锁锁",
       "onboard_time": 1689930216,
       "rank": 30,
@@ -937,6 +945,14 @@
       "onboard_time": 1689865717,
       "rank": 21,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 387431,
+      "num": 356466,
+      "word": "许沁第一反应不是该生气吗",
+      "onboard_time": 1689930154,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 376474,
@@ -956,7 +972,7 @@
     },
     {
       "raw_hot": 371885,
-      "num": 285174,
+      "num": 353501,
       "word": "seventeen演唱会",
       "onboard_time": 1689931655,
       "rank": 41,
@@ -969,6 +985,14 @@
       "onboard_time": 1689863918,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361532,
+      "num": 361532,
+      "word": "不要有任何分享欲",
+      "onboard_time": 1689930574,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 358431,
@@ -995,12 +1019,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345676,
-      "num": 285949,
-      "word": "许沁第一反应不是该生气吗",
-      "onboard_time": 1689930154,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 342558,
+      "num": 286454,
+      "word": "没想到荷包蛋竟然也能速冻",
+      "onboard_time": 1689935134,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 336061,
@@ -1084,11 +1108,19 @@
     },
     {
       "raw_hot": 304087,
-      "num": 273224,
+      "num": 285999,
       "word": "陈都灵朋克造型",
       "onboard_time": 1689930216,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 300959,
+      "num": 285328,
+      "word": "迪丽热巴刘宇宁的身高差",
+      "onboard_time": 1689933335,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 300078,
@@ -1139,14 +1171,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 291129,
-      "num": 281492,
-      "word": "不要有任何分享欲",
-      "onboard_time": 1689930574,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 287572,
       "num": 287572,
       "word": "淄博海鲜交易市场统一使用智慧秤",
@@ -1195,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276880,
+      "num": 276880,
+      "word": "十个勤天",
+      "onboard_time": 1689933694,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276714,
       "num": 274355,
       "word": "范丞丞想和关晓彤演双海王互渣",
@@ -1240,14 +1272,6 @@
       "word": "何蓝逗曹煜辰吻戏",
       "onboard_time": 1689899192,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 268646,
-      "num": 268646,
-      "word": "迪丽热巴刘宇宁的身高差",
-      "onboard_time": 1689933335,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1307,14 +1331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261003,
-      "num": 235758,
-      "word": "内娱妈生脸美女",
-      "onboard_time": 1689934053,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259276,
       "num": 259276,
       "word": "合肥暴雨",
@@ -1347,20 +1363,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256885,
+      "num": 1208492,
+      "word": "挺身而出后她说不知道哪来的勇气",
+      "onboard_time": 1689932977,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253654,
+      "num": 284905,
+      "word": "西安成立调查组对回流生报名资格逐一核查",
+      "onboard_time": 1689930272,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 253201,
       "num": 253201,
       "word": "付闻樱给许沁买了一整墙的名牌包",
       "onboard_time": 1689850051,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252709,
-      "num": 922266,
-      "word": "挺身而出后她说不知道哪来的勇气",
-      "onboard_time": 1689932977,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251090,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1689923551,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242663,
+      "num": 1053268,
+      "word": "这么实诚的服装店老板可不多见了",
+      "onboard_time": 1689934111,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241888,
@@ -1467,12 +1499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 232822,
-      "num": 245983,
-      "word": "西安成立调查组对回流生报名资格逐一核查",
-      "onboard_time": 1689930272,
+      "raw_hot": 228959,
+      "num": 225327,
+      "word": "TFBOYS还发新歌吗",
+      "onboard_time": 1689932134,
       "rank": 41,
-      "category": "教育"
+      "category": "音乐"
     },
     {
       "raw_hot": 228539,
@@ -1515,12 +1547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225879,
-      "num": 195985,
-      "word": "十个勤天",
-      "onboard_time": 1689933694,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 225498,
+      "num": 225498,
+      "word": "KPL",
+      "onboard_time": 1689934535,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 220500,
@@ -1528,14 +1560,6 @@
       "word": "泡泡岛音乐节",
       "onboard_time": 1689909510,
       "rank": 33,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 220365,
-      "num": 193937,
-      "word": "TFBOYS还发新歌吗",
-      "onboard_time": 1689932134,
-      "rank": 41,
       "category": "音乐"
     },
     {
@@ -1572,7 +1596,7 @@
     },
     {
       "raw_hot": 212880,
-      "num": 197648,
+      "num": 200042,
       "word": "美依礼芽bw现场六连唱跳",
       "onboard_time": 1689929794,
       "rank": 43,
@@ -1627,6 +1651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202338,
+      "num": 202338,
+      "word": "傲寒",
+      "onboard_time": 1689934954,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201829,
       "num": 223744,
       "word": "BW2023",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1689921094,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201050,
+      "num": 201050,
+      "word": "芭比台词 提神醒脑",
+      "onboard_time": 1689932431,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 200251,
@@ -1731,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188570,
-      "num": 188570,
-      "word": "KPL",
-      "onboard_time": 1689934535,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 187546,
       "num": 260415,
       "word": "使人变胖的是糖分还是脂肪",
@@ -1811,6 +1843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172658,
+      "num": 172658,
+      "word": "柳州到底能有多少种螺蛳粉",
+      "onboard_time": 1689935194,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 172368,
       "num": 172368,
       "word": "Hero对战XYG",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1689915577,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169247,
+      "num": 169247,
+      "word": "bw入场实况",
+      "onboard_time": 1689935434,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 168939,
@@ -1969,14 +2017,6 @@
       "onboard_time": 1689880993,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125617,
-      "num": 796036,
-      "word": "这么实诚的服装店老板可不多见了",
-      "onboard_time": 1689934111,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123179,
