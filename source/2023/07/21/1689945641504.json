@@ -1,0 +1,410 @@
+{
+  "runTime": 1689945641504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8951470,
+        "num": 8951470,
+        "word": "TFBOYS演唱会官宣",
+        "onboard_time": 1689942032,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1632690,
+        "num": 1632690,
+        "word": "杨洋新剧别名",
+        "onboard_time": 1689939333,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11098,
+        "num": 1213450,
+        "word": "成都大运会倒计时1周",
+        "onboard_time": 1689902431,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3654725,
+        "num": 1131101,
+        "word": "TFBOYS演唱会今天官宣的原因",
+        "onboard_time": 1689944502,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1029546,
+        "num": 1029546,
+        "word": "玉骨遥造型师回应任敏妆造",
+        "onboard_time": 1689944200,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1052260,
+        "num": 904065,
+        "word": "TFBOYS官博改小尾巴",
+        "onboard_time": 1689942941,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 774437,
+        "num": 774437,
+        "word": "男孩痛哭跪谢回收空调师傅多给1000元",
+        "onboard_time": 1689938855,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695507,
+        "num": 695507,
+        "word": "老人将15万现金当废品卖了8元",
+        "onboard_time": 1689940771,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632756,
+        "num": 632756,
+        "word": "浙FDL3988闯红灯违章已撤销",
+        "onboard_time": 1689930630,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622660,
+        "num": 622660,
+        "word": "上海暴雨",
+        "onboard_time": 1689930630,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865593,
+        "num": 607588,
+        "word": "白鹿发了和跑男家族每个人的合照",
+        "onboard_time": 1689943903,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 829405,
+        "num": 595173,
+        "word": "Ella乘风年度总冠军感言",
+        "onboard_time": 1689943780,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730102,
+        "num": 585635,
+        "word": "TFBOYS官博评论区泪目了",
+        "onboard_time": 1689945578,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 576071,
+        "num": 576071,
+        "word": "RNG对战NIP",
+        "onboard_time": 1689933994,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80626,
+        "num": 563989,
+        "word": "巴特勒村BA首秀",
+        "onboard_time": 1689944437,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 716871,
+        "num": 551985,
+        "word": "张元英蝴蝶芭比",
+        "onboard_time": 1689942821,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 699812,
+        "num": 521411,
+        "word": "TFBOYS十周年 优酷直播",
+        "onboard_time": 1689945578,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 631305,
+        "num": 492022,
+        "word": "王一博渔网卫衣",
+        "onboard_time": 1689940233,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486064,
+        "num": 486064,
+        "word": "白粥的绝配到底是什么",
+        "onboard_time": 1689940714,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 363835,
+        "num": 363835,
+        "word": "中建五局一项目经理工作群辱骂员工",
+        "onboard_time": 1689936756,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476106,
+        "num": 359353,
+        "word": "奔跑吧收官",
+        "onboard_time": 1689940957,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854090,
+        "num": 353908,
+        "word": "妻子已生产男方消失不见",
+        "onboard_time": 1689942880,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598748,
+        "num": 353766,
+        "word": "Angelababy告别奔跑吧",
+        "onboard_time": 1689941798,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339158,
+        "num": 339158,
+        "word": "猫咪不小心舔到驱虫药后失明",
+        "onboard_time": 1689944259,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447109,
+        "num": 337630,
+        "word": "澳大利亚男子怒杀恋童癖狱友",
+        "onboard_time": 1689940714,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466481,
+        "num": 335423,
+        "word": "女主扁平化",
+        "onboard_time": 1689928954,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416755,
+        "num": 330943,
+        "word": "减肥姐弟水煮菜吃成涮火锅",
+        "onboard_time": 1689943903,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396974,
+        "num": 329004,
+        "word": "长相思定档",
+        "onboard_time": 1689930875,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355027,
+        "num": 327158,
+        "word": "我妈刮痧两天把我痘痘刮没了",
+        "onboard_time": 1689939933,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325073,
+        "num": 325073,
+        "word": "乐华家族年会红毯",
+        "onboard_time": 1689940714,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 321948,
+        "num": 321948,
+        "word": "封神超出预期",
+        "onboard_time": 1689939810,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314562,
+        "num": 314562,
+        "word": "沙溢告别奔跑吧",
+        "onboard_time": 1689933994,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304008,
+        "num": 304008,
+        "word": "中国队花游集体自由自选摘金",
+        "onboard_time": 1689941976,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257958,
+        "num": 257958,
+        "word": "她一定是好起来了",
+        "onboard_time": 1689942761,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 236003,
+        "num": 236003,
+        "word": "日本的西瓜为什么那么贵",
+        "onboard_time": 1689938251,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297783,
+        "num": 235213,
+        "word": "封神自来水",
+        "onboard_time": 1689944319,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262602,
+        "num": 234271,
+        "word": "超能一家人",
+        "onboard_time": 1689942096,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250740,
+        "num": 234201,
+        "word": "贺峻霖蹭到食堂了",
+        "onboard_time": 1689944980,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227613,
+        "num": 227613,
+        "word": "T1",
+        "onboard_time": 1689945162,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 631273,
+        "num": 225283,
+        "word": "粉丝对王俊凯王源易烊千玺合体的热情",
+        "onboard_time": 1689941798,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249371,
+        "num": 223968,
+        "word": "中餐厅",
+        "onboard_time": 1689941196,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221587,
+        "num": 221587,
+        "word": "年轻人开始给芒果核梳毛了",
+        "onboard_time": 1689941196,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214287,
+        "num": 214287,
+        "word": "搬家时才发现小狗留下的惊喜",
+        "onboard_time": 1689932015,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 237240,
+        "num": 214128,
+        "word": "肖战说假瓜吃多了拉肚子",
+        "onboard_time": 1689929200,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227820,
+        "num": 213801,
+        "word": "乘风",
+        "onboard_time": 1689940594,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211215,
+        "num": 211215,
+        "word": "乐华年会直播",
+        "onboard_time": 1689935794,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197952,
+        "num": 197952,
+        "word": "犬夜叉老版画风里的美人",
+        "onboard_time": 1689941134,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191081,
+        "num": 191081,
+        "word": "傲寒",
+        "onboard_time": 1689934954,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175076,
+        "num": 191076,
+        "word": "台湾一女大学生被高坠空调外机砸死",
+        "onboard_time": 1689928652,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172596,
+        "num": 191066,
+        "word": "狗狗遛弯结果停在这里了",
+        "onboard_time": 1689944142,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们党始终高度重视耕地保护问题#"
+    }
+  }
+}

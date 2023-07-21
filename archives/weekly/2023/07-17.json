@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689943782193,
+  "endTime": 1689945641504,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -57,6 +57,14 @@
       "onboard_time": 1689649830,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3654725,
+      "num": 1131101,
+      "word": "TFBOYS演唱会今天官宣的原因",
+      "onboard_time": 1689944502,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 3489974,
@@ -787,6 +795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1632690,
+      "num": 1632690,
+      "word": "杨洋新剧别名",
+      "onboard_time": 1689939333,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1623209,
       "num": 1623209,
       "word": "女生刚下山得知丢失的身份证在山顶",
@@ -912,14 +928,6 @@
       "word": "肖战回复韩栋",
       "onboard_time": 1689769713,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1465853,
-      "num": 1465853,
-      "word": "杨洋新剧别名",
-      "onboard_time": 1689939333,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -1547,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1052260,
+      "num": 904065,
+      "word": "TFBOYS官博改小尾巴",
+      "onboard_time": 1689942941,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1051701,
       "num": 512280,
       "word": "难听",
@@ -1600,6 +1616,14 @@
       "word": "宛瑜要的自由vs许沁要的自由",
       "onboard_time": 1689587374,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1029546,
+      "num": 1029546,
+      "word": "玉骨遥造型师回应任敏妆造",
+      "onboard_time": 1689944200,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -2171,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865593,
+      "num": 607588,
+      "word": "白鹿发了和跑男家族每个人的合照",
+      "onboard_time": 1689943903,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 864051,
       "num": 644937,
       "word": "剧是一集没看气是一点没少生",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1689810808,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 854090,
+      "num": 505521,
+      "word": "妻子已生产男方消失不见",
+      "onboard_time": 1689942880,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 852259,
@@ -2315,12 +2355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 829090,
-      "num": 829090,
-      "word": "TFBOYS官博改小尾巴",
-      "onboard_time": 1689942941,
-      "rank": 7,
-      "category": "音乐"
+      "raw_hot": 829405,
+      "num": 595173,
+      "word": "Ella乘风年度总冠军感言",
+      "onboard_time": 1689943780,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 828973,
@@ -2771,6 +2811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 730102,
+      "num": 585635,
+      "word": "TFBOYS官博评论区泪目了",
+      "onboard_time": 1689945578,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 727554,
       "num": 445097,
       "word": "中国科学院简称中国科学院",
@@ -2825,6 +2873,14 @@
       "onboard_time": 1689661650,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 716871,
+      "num": 551985,
+      "word": "张元英蝴蝶芭比",
+      "onboard_time": 1689942821,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 716780,
@@ -2923,6 +2979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 699812,
+      "num": 521411,
+      "word": "TFBOYS十周年 优酷直播",
+      "onboard_time": 1689945578,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 699609,
       "num": 386161,
       "word": "C盘真的一下子就不红了",
@@ -2969,6 +3033,14 @@
       "onboard_time": 1689829241,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 695507,
+      "num": 695507,
+      "word": "老人将15万现金当废品卖了8元",
+      "onboard_time": 1689940771,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695117,
@@ -3088,14 +3160,6 @@
       "word": "做手工的要小心甲醛中毒",
       "onboard_time": 1689925291,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670204,
-      "num": 609897,
-      "word": "老人将15万现金当废品卖了8元",
-      "onboard_time": 1689940771,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3755,14 +3819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 583723,
-      "num": 505927,
-      "word": "张元英蝴蝶芭比",
-      "onboard_time": 1689942821,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 583518,
       "num": 428499,
       "word": "6个月无诈骗业绩将被处死或卖器官",
@@ -3865,6 +3921,14 @@
       "onboard_time": 1689860916,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 576071,
+      "num": 576071,
+      "word": "RNG对战NIP",
+      "onboard_time": 1689933994,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 573029,
@@ -4401,14 +4465,6 @@
       "onboard_time": 1689738033,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 505521,
-      "num": 505521,
-      "word": "妻子已生产男方消失不见",
-      "onboard_time": 1689942880,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505071,
@@ -5043,14 +5099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 450381,
-      "num": 450381,
-      "word": "RNG对战NIP",
-      "onboard_time": 1689933994,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 450060,
       "num": 450060,
       "word": "王楚然对许沁的评价",
@@ -5505,6 +5553,14 @@
       "onboard_time": 1689741336,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416755,
+      "num": 330943,
+      "word": "减肥姐弟水煮菜吃成涮火锅",
+      "onboard_time": 1689943903,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 415223,
@@ -6731,6 +6787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 339158,
+      "num": 339158,
+      "word": "猫咪不小心舔到驱虫药后失明",
+      "onboard_time": 1689944259,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338934,
       "num": 292218,
       "word": "综艺同床异梦",
@@ -7400,6 +7464,14 @@
       "word": "范丞丞张一山情头",
       "onboard_time": 1689669154,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 297783,
+      "num": 235213,
+      "word": "封神自来水",
+      "onboard_time": 1689944319,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -8347,6 +8419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257958,
+      "num": 257958,
+      "word": "她一定是好起来了",
+      "onboard_time": 1689942761,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 257653,
       "num": 313185,
       "word": "克里米亚大桥铁路交通完全中断",
@@ -8529,6 +8609,14 @@
       "onboard_time": 1689722906,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 250740,
+      "num": 234201,
+      "word": "贺峻霖蹭到食堂了",
+      "onboard_time": 1689944980,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 250153,
@@ -9057,6 +9145,14 @@
       "onboard_time": 1689812434,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227613,
+      "num": 227613,
+      "word": "T1",
+      "onboard_time": 1689945162,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 227345,
@@ -9857,14 +9953,6 @@
       "onboard_time": 1689921094,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201074,
-      "num": 204685,
-      "word": "她一定是好起来了",
-      "onboard_time": 1689942761,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 201050,
@@ -10689,6 +10777,14 @@
       "onboard_time": 1689935194,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172596,
+      "num": 191066,
+      "word": "狗狗遛弯结果停在这里了",
+      "onboard_time": 1689944142,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 172559,
@@ -11761,6 +11857,14 @@
       "onboard_time": 1689797713,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80626,
+      "num": 563989,
+      "word": "巴特勒村BA首秀",
+      "onboard_time": 1689944437,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 80574,
