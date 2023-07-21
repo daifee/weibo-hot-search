@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689913228575,
+  "endTime": 1689914036686,
   "band_list": [
     {
       "raw_hot": 2605723,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2234065,
+      "num": 1293579,
+      "word": "00后以抑郁想自杀为由拒服兵役被罚",
+      "onboard_time": 1689910295,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2196054,
       "num": 2196054,
       "word": "孟宴臣叫孟沁了",
       "onboard_time": 1689903452,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2139187,
-      "num": 1293579,
-      "word": "00后以抑郁想自杀为由拒服兵役被罚",
-      "onboard_time": 1689910295,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2015550,
@@ -137,6 +137,14 @@
       "onboard_time": 1689896484,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1126233,
+      "num": 1126233,
+      "word": "许沁不敢向同事坦诚没车了",
+      "onboard_time": 1689912815,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 1109705,
@@ -283,8 +291,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669784,
+      "num": 412343,
+      "word": "宁静对李若彤说我就是要打断你",
+      "onboard_time": 1689912874,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665925,
-      "num": 281353,
+      "num": 325712,
       "word": "社交冷漠症",
       "onboard_time": 1689909632,
       "rank": 26,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573029,
+      "num": 397603,
+      "word": "周杰伦天津演唱会抢票",
+      "onboard_time": 1689913232,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 564775,
       "num": 564775,
       "word": "玖月晞 土",
@@ -345,14 +369,6 @@
       "onboard_time": 1689896185,
       "rank": 5,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 540531,
-      "num": 405383,
-      "word": "许沁不敢向同事坦诚没车了",
-      "onboard_time": 1689912815,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 522316,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 508564,
-      "num": 297952,
+      "num": 308235,
       "word": "Angelababy迪丽热巴芭比造型",
       "onboard_time": 1689908131,
       "rank": 20,
@@ -401,6 +417,14 @@
       "onboard_time": 1689895945,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465044,
+      "num": 465044,
+      "word": "王者峡谷出现手机",
+      "onboard_time": 1689911554,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 464469,
@@ -459,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415629,
+      "num": 318050,
+      "word": "asap",
+      "onboard_time": 1689913898,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 412500,
       "num": 453055,
       "word": "中建八局被实名举报",
@@ -515,14 +547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 344879,
-      "num": 274721,
-      "word": "王者峡谷出现手机",
-      "onboard_time": 1689911554,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 336061,
       "num": 259693,
       "word": "况三喜直播",
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 299652,
-      "num": 270916,
+      "num": 288097,
       "word": "漫威蜘蛛侠2",
       "onboard_time": 1689912334,
       "rank": 28,
@@ -819,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226905,
-      "num": 226905,
-      "word": "宁静对李若彤说我就是要打断你",
-      "onboard_time": 1689912874,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226248,
       "num": 226248,
       "word": "邓超鹿晗陈赫范志毅王勉祝老舅生辰快乐",
@@ -915,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197674,
+      "num": 206781,
+      "word": "丝芭家族十周年演唱会阵容官宣",
+      "onboard_time": 1689913536,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196984,
       "num": 226890,
       "word": "云台山音乐节",
@@ -971,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185013,
+      "num": 224276,
+      "word": "小孩子的童年多了个寄居蟹侠",
+      "onboard_time": 1689913598,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 181565,
       "num": 226869,
       "word": "风月变",
@@ -985,6 +1017,14 @@
       "onboard_time": 1689903273,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179343,
+      "num": 417826,
+      "word": "外国人两步用上支付宝",
+      "onboard_time": 1689912034,
+      "rank": 14,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 168939,
@@ -1123,14 +1163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114587,
-      "num": 412983,
-      "word": "外国人两步用上支付宝",
-      "onboard_time": 1689912034,
-      "rank": 14,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 113692,
       "num": 210591,
       "word": "盛情款待了小时候的自己",
@@ -1163,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66984,
+      "num": 227289,
+      "word": "饿了么免单不再限制答题时间",
+      "onboard_time": 1689912034,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 64579,
       "num": 179044,
       "word": "对方撤回了一百块",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1689909690,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 50794,
-      "num": 227289,
-      "word": "饿了么免单不再限制答题时间",
-      "onboard_time": 1689912034,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 41711,

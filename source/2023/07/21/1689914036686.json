@@ -1,0 +1,410 @@
+{
+  "runTime": 1689914036686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2227895,
+        "num": 2227895,
+        "word": "李玟讣闻",
+        "onboard_time": 1689908973,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1517003,
+        "num": 1517003,
+        "word": "孟宴臣叫孟沁了",
+        "onboard_time": 1689903452,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8228,
+        "num": 1282835,
+        "word": "要促进民营经济做大做优做强",
+        "onboard_time": 1689860616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2234065,
+        "num": 1266316,
+        "word": "00后以抑郁想自杀为由拒服兵役被罚",
+        "onboard_time": 1689910295,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212694,
+        "num": 1212694,
+        "word": "中餐厅7变了",
+        "onboard_time": 1689911193,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1181674,
+        "num": 1181674,
+        "word": "TFBOYS十周年演唱会座位图",
+        "onboard_time": 1689910894,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1131654,
+        "num": 1131654,
+        "word": "陈妍希忘了删文案",
+        "onboard_time": 1689900574,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1126233,
+        "num": 1126233,
+        "word": "许沁不敢向同事坦诚没车了",
+        "onboard_time": 1689912815,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633560,
+        "num": 633560,
+        "word": "丈夫为鼓励妻子产后恢复走一步发100",
+        "onboard_time": 1689899555,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 465044,
+        "num": 465044,
+        "word": "王者峡谷出现手机",
+        "onboard_time": 1689911554,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 933678,
+        "num": 457618,
+        "word": "周杰伦演唱会 猫眼",
+        "onboard_time": 1689911854,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 913791,
+        "num": 452895,
+        "word": "杨洋王楚然杨超越版恶作剧之吻",
+        "onboard_time": 1689901294,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 779132,
+        "num": 442806,
+        "word": "敦煌骆驼疑似被人骑死了",
+        "onboard_time": 1689898889,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678101,
+        "num": 434606,
+        "word": "宋焰总算大方了一次",
+        "onboard_time": 1689895103,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179343,
+        "num": 417826,
+        "word": "外国人两步用上支付宝",
+        "onboard_time": 1689912034,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 669784,
+        "num": 412343,
+        "word": "宁静对李若彤说我就是要打断你",
+        "onboard_time": 1689912874,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573029,
+        "num": 397603,
+        "word": "周杰伦天津演唱会抢票",
+        "onboard_time": 1689913232,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 394933,
+        "num": 394933,
+        "word": "飞机延误6小时工作人员发现金补贴",
+        "onboard_time": 1689905191,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337017,
+        "num": 337017,
+        "word": "被北大录取女生分享经验强调没手机",
+        "onboard_time": 1689896484,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 330906,
+        "num": 330906,
+        "word": "杀不死的石家庄",
+        "onboard_time": 1689903691,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049447,
+        "num": 330109,
+        "word": "印2女子被强迫裸体游街还遭侵犯",
+        "onboard_time": 1689905431,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621251,
+        "num": 325712,
+        "word": "社交冷漠症",
+        "onboard_time": 1689909632,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421631,
+        "num": 319922,
+        "word": "张一山不跟张俪演戏的原因",
+        "onboard_time": 1689900395,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415629,
+        "num": 318050,
+        "word": "asap",
+        "onboard_time": 1689913898,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383661,
+        "num": 313787,
+        "word": "成年人早醒是衰老的表现",
+        "onboard_time": 1689899192,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401668,
+        "num": 308235,
+        "word": "Angelababy迪丽热巴芭比造型",
+        "onboard_time": 1689908131,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 400008,
+        "num": 304875,
+        "word": "狗头萝莉",
+        "onboard_time": 1689900453,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 348478,
+        "num": 301137,
+        "word": "陈数演女老板自掏5000万给员工",
+        "onboard_time": 1689907711,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298000,
+        "num": 298000,
+        "word": "这是许沁本来该过的生活吧",
+        "onboard_time": 1689900813,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193222,
+        "num": 289688,
+        "word": "男孩利用杠杆原理帮建筑工父亲铺瓷砖",
+        "onboard_time": 1689906870,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 288097,
+        "num": 288097,
+        "word": "漫威蜘蛛侠2",
+        "onboard_time": 1689912334,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285493,
+        "num": 285493,
+        "word": "HR教我怎么骗公司",
+        "onboard_time": 1689900336,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277183,
+        "num": 277183,
+        "word": "你的身体到底有多爱你",
+        "onboard_time": 1689897088,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 519323,
+        "num": 268553,
+        "word": "警方回应老人持斧头入室追砍两女孩",
+        "onboard_time": 1689908912,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257364,
+        "num": 257364,
+        "word": "芭比",
+        "onboard_time": 1689896666,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238318,
+        "num": 238318,
+        "word": "张颂文考科目二被围观",
+        "onboard_time": 1689864818,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232630,
+        "num": 232630,
+        "word": "韦神揭秘4AM新基地",
+        "onboard_time": 1689910714,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225811,
+        "num": 225811,
+        "word": "郭京飞微博后缀连起来是圆周率",
+        "onboard_time": 1689903394,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185013,
+        "num": 224276,
+        "word": "小孩子的童年多了个寄居蟹侠",
+        "onboard_time": 1689913598,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 66984,
+        "num": 224158,
+        "word": "饿了么免单不再限制答题时间",
+        "onboard_time": 1689912034,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 224115,
+        "num": 224115,
+        "word": "邓亚萍通过儿子了解电竞",
+        "onboard_time": 1689903630,
+        "rank": 40,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 217070,
+        "num": 217070,
+        "word": "巨齿鲨2官宣北京全球首映礼",
+        "onboard_time": 1689910714,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217046,
+        "num": 217046,
+        "word": "Angelababy小水同框合影",
+        "onboard_time": 1689898950,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208817,
+        "num": 208817,
+        "word": "蔡卓宜 我真的没在哭",
+        "onboard_time": 1689896484,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206783,
+        "num": 206783,
+        "word": "封神特效",
+        "onboard_time": 1689908012,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197674,
+        "num": 206781,
+        "word": "丝芭家族十周年演唱会阵容官宣",
+        "onboard_time": 1689913536,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168448,
+        "num": 206777,
+        "word": "无畏回归首发",
+        "onboard_time": 1689912514,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160882,
+        "num": 206770,
+        "word": "打工人减肥每天爬21层楼月瘦13斤",
+        "onboard_time": 1689900755,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151736,
+        "num": 206766,
+        "word": "中方回应俄对乌空袭波及中国总领馆",
+        "onboard_time": 1689896185,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 148349,
+        "num": 206759,
+        "word": "男孩在家烧书引起失火从18楼跳下",
+        "onboard_time": 1689895945,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人重情讲义不会忘记老朋友#"
+    }
+  }
+}
