@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689946433798,
+  "endTime": 1689948948423,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 3654725,
-      "num": 1229240,
+      "num": 1704398,
       "word": "TFBOYS演唱会今天官宣的原因",
       "onboard_time": 1689944502,
       "rank": 3,
@@ -2723,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1890973,
+      "num": 1890973,
+      "word": "谢娜 谢娜是一个很有争议的名字",
+      "onboard_time": 1689946120,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1880704,
       "num": 1128536,
       "word": "李玟姐姐呼吁大家不要作任何揣测",
@@ -4275,6 +4283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1470517,
+      "num": 1470517,
+      "word": "玉骨遥造型师回应任敏妆造",
+      "onboard_time": 1689944200,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1470492,
       "num": 1470492,
       "word": "刘昊然胡子",
@@ -5459,6 +5475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1232077,
+      "num": 464116,
+      "word": "Angelababy告别奔跑吧",
+      "onboard_time": 1689941798,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1229167,
       "num": 696171,
       "word": "ITZY",
@@ -5592,14 +5616,6 @@
       "word": "关晓彤范丞丞床咚吻戏",
       "onboard_time": 1689135037,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1212416,
-      "num": 1212416,
-      "word": "玉骨遥造型师回应任敏妆造",
-      "onboard_time": 1689944200,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -7123,6 +7139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051463,
+      "num": 395639,
+      "word": "王俊凯王源易烊千玺转发十周年官宣微博",
+      "onboard_time": 1689946721,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1050183,
       "num": 1050183,
       "word": "曾黎晒桑家全家福",
@@ -7257,6 +7281,14 @@
       "onboard_time": 1688462737,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1034347,
+      "num": 994336,
+      "word": "白鹿发了和跑男家族每个人的合照",
+      "onboard_time": 1689943903,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1033549,
@@ -7745,14 +7777,6 @@
       "onboard_time": 1689174997,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 994336,
-      "num": 994336,
-      "word": "白鹿发了和跑男家族每个人的合照",
-      "onboard_time": 1689943903,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 994080,
@@ -8875,6 +8899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 905339,
+      "num": 379700,
+      "word": "还得是你们TFBOYS粉丝",
+      "onboard_time": 1689947802,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 905186,
       "num": 586483,
       "word": "徐明浩澳门",
@@ -9457,6 +9489,14 @@
       "onboard_time": 1688271391,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 873266,
+      "num": 369874,
+      "word": "强实名",
+      "onboard_time": 1689946782,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 873190,
@@ -10851,6 +10891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 801634,
+      "num": 319096,
+      "word": "TFBOYS回归内娱开门",
+      "onboard_time": 1689947802,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 801443,
       "num": 385916,
       "word": "李马克 我有重要的话说",
@@ -12152,6 +12200,14 @@
       "word": "易梦玲不像是第一次演戏",
       "onboard_time": 1689226292,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 731403,
+      "num": 383602,
+      "word": "曾可妮第12名",
+      "onboard_time": 1689945519,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -13835,14 +13891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 662805,
-      "num": 383602,
-      "word": "曾可妮第12名",
-      "onboard_time": 1689945519,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 662683,
       "num": 662683,
       "word": "人民网评奶辣风流行",
@@ -13881,6 +13929,14 @@
       "onboard_time": 1688182411,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 661961,
+      "num": 661961,
+      "word": "男子被骗缅北回国后狂扇耳光",
+      "onboard_time": 1689945703,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661649,
@@ -14211,6 +14267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 653537,
+      "num": 292233,
+      "word": "马天宇晒鹿晗to签",
+      "onboard_time": 1689946360,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 653390,
       "num": 653390,
       "word": "一个要离职的电脑屏幕长啥样",
@@ -14337,14 +14401,6 @@
       "onboard_time": 1689417751,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 648538,
-      "num": 464116,
-      "word": "Angelababy告别奔跑吧",
-      "onboard_time": 1689941798,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 648276,
@@ -15667,6 +15723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 603598,
+      "num": 603598,
+      "word": "猫咪不小心舔到驱虫药后失明",
+      "onboard_time": 1689944259,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603332,
       "num": 603332,
       "word": "薛之谦腿怎么了",
@@ -16337,6 +16401,14 @@
       "onboard_time": 1689234873,
       "rank": 7,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 579943,
+      "num": 282234,
+      "word": "时代峰峻",
+      "onboard_time": 1689948165,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 579872,
@@ -19771,14 +19843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 488380,
-      "num": 364627,
-      "word": "谢娜 谢娜是一个很有争议的名字",
-      "onboard_time": 1689946120,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 488182,
       "num": 488182,
       "word": "关晓彤范丞丞请二搭",
@@ -19993,6 +20057,14 @@
       "onboard_time": 1688357057,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 484414,
+      "num": 304661,
+      "word": "ALin参加乘风瘦了30斤",
+      "onboard_time": 1689946120,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 484179,
@@ -21249,14 +21321,6 @@
       "onboard_time": 1688358201,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 454996,
-      "num": 454996,
-      "word": "猫咪不小心舔到驱虫药后失明",
-      "onboard_time": 1689944259,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454860,
@@ -24115,6 +24179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402346,
+      "num": 402346,
+      "word": "她一定是好起来了",
+      "onboard_time": 1689942761,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 402315,
       "num": 402315,
       "word": "云之羽过审",
@@ -25441,6 +25513,14 @@
       "onboard_time": 1689241233,
       "rank": 16,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 381814,
+      "num": 212108,
+      "word": "赵寻被侵犯前想过自救",
+      "onboard_time": 1689945759,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 381550,
@@ -29563,6 +29643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321232,
+      "num": 321232,
+      "word": "台下闹麻了 台上软脚虾",
+      "onboard_time": 1689947501,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 320766,
       "num": 305126,
       "word": "男子钓鱼不慎把鱼钩甩女友鼻子上",
@@ -30787,6 +30875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305691,
+      "num": 305691,
+      "word": "久哲直播",
+      "onboard_time": 1688223818,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305635,
       "num": 305635,
       "word": "speak now",
@@ -30825,14 +30921,6 @@
       "onboard_time": 1688449836,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 304661,
-      "num": 304661,
-      "word": "ALin参加乘风瘦了30斤",
-      "onboard_time": 1689946120,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 304639,
@@ -34355,14 +34443,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 268903,
-      "num": 268903,
-      "word": "她一定是好起来了",
-      "onboard_time": 1689942761,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 268778,
       "num": 1020365,
       "word": "2游客驾车掉进水库民警7分钟救出",
@@ -37035,14 +37115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 242797,
-      "num": 198382,
-      "word": "马天宇晒鹿晗to签",
-      "onboard_time": 1689946360,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242750,
       "num": 242750,
       "word": "数辆私家车齐刷刷闯红灯45度让行",
@@ -39187,6 +39259,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 223266,
+      "num": 223266,
+      "word": "越捷航空被指将中国地图区别对待",
+      "onboard_time": 1689948460,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223223,
       "num": 223223,
       "word": "Hero限定雀斑证件照",
@@ -40657,6 +40737,14 @@
       "onboard_time": 1689691714,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212144,
+      "num": 212144,
+      "word": "狗狗遛弯结果停在这里了",
+      "onboard_time": 1689944142,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 211859,
@@ -42219,14 +42307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200941,
-      "num": 200941,
-      "word": "男子被骗缅北回国后狂扇耳光",
-      "onboard_time": 1689945703,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200924,
       "num": 414183,
       "word": "关晓彤当着范丞丞面再提个人战",
@@ -42633,14 +42713,6 @@
       "onboard_time": 1688429676,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198014,
-      "num": 198014,
-      "word": "久哲直播",
-      "onboard_time": 1688223818,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 197805,
@@ -43313,14 +43385,6 @@
       "onboard_time": 1689142053,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193399,
-      "num": 197394,
-      "word": "狗狗遛弯结果停在这里了",
-      "onboard_time": 1689944142,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 193265,
@@ -45323,6 +45387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176709,
+      "num": 211760,
+      "word": "女足",
+      "onboard_time": 1689947021,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176657,
       "num": 176657,
       "word": "警惕叶黄素危害",
@@ -46313,6 +46385,14 @@
       "onboard_time": 1688319441,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166412,
+      "num": 211685,
+      "word": "她自己叫林徽因就够了",
+      "onboard_time": 1689948641,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 166410,
@@ -47473,6 +47553,14 @@
       "onboard_time": 1688425404,
       "rank": 45,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 148920,
+      "num": 211586,
+      "word": "津门虎",
+      "onboard_time": 1689947260,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 148872,
@@ -50836,7 +50924,7 @@
     },
     {
       "raw_hot": 35302,
-      "num": 1599812,
+      "num": 1731326,
       "word": "成都大运会倒计时1周",
       "onboard_time": 1689902431,
       "rank": 2,
