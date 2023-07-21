@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689971638289,
+  "endTime": 1689974068614,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -50571,6 +50571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65727,
+      "num": 61384,
+      "word": "迪丽热巴的身材管理",
+      "onboard_time": 1689968653,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 64831,
       "num": 64831,
       "word": "七旬老人凌晨迷失深山无人机热成像找人",
@@ -50697,14 +50705,6 @@
       "onboard_time": 1689575490,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61384,
-      "num": 61384,
-      "word": "迪丽热巴的身材管理",
-      "onboard_time": 1689968653,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 59735,
