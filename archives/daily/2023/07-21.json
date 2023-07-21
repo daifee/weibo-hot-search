@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689927669753,
+  "endTime": 1689928457715,
   "band_list": [
     {
       "raw_hot": 2605723,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1923277,
+      "num": 1923277,
+      "word": "黄子韬徐艺洋难哄",
+      "onboard_time": 1689925174,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1788928,
       "num": 1788928,
       "word": "张一山不跟张俪演戏的原因",
@@ -75,12 +83,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1732598,
-      "num": 1732598,
-      "word": "黄子韬徐艺洋难哄",
-      "onboard_time": 1689925174,
-      "rank": 1,
-      "category": "综艺"
+      "raw_hot": 1741268,
+      "num": 1458086,
+      "word": "外媒评魏大勋",
+      "onboard_time": 1689925353,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1711132,
@@ -112,14 +120,6 @@
       "word": "张颂文考科目二被围观",
       "onboard_time": 1689864818,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1458086,
-      "num": 1458086,
-      "word": "外媒评魏大勋",
-      "onboard_time": 1689925353,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 857271,
+      "num": 525089,
+      "word": "起猛了看见高铁进地铁站了",
+      "onboard_time": 1689926493,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 830347,
       "num": 830347,
       "word": "杨幂涂山红红",
@@ -329,6 +337,14 @@
       "onboard_time": 1689903630,
       "rank": 35,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 782206,
+      "num": 314321,
+      "word": "一直以为头油就要天天洗",
+      "onboard_time": 1689927154,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 776043,
@@ -387,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 677338,
-      "num": 268418,
-      "word": "起猛了看见高铁进地铁站了",
-      "onboard_time": 1689926493,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 673753,
+      "num": 673753,
+      "word": "做手工的要小心甲醛中毒",
+      "onboard_time": 1689925291,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665925,
@@ -411,14 +427,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 655097,
-      "num": 655097,
-      "word": "做手工的要小心甲醛中毒",
-      "onboard_time": 1689925291,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 639672,
       "num": 357118,
       "word": "白敬亭魏大勋情头",
@@ -435,19 +443,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 634728,
-      "num": 314321,
-      "word": "一直以为头油就要天天洗",
-      "onboard_time": 1689927154,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 623863,
       "num": 348138,
       "word": "仙剑三豆瓣评分涨至9.0分",
       "onboard_time": 1689917251,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 619860,
+      "num": 569999,
+      "word": "于正对魏大勋评价的变化",
+      "onboard_time": 1689926733,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -531,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 568935,
+      "num": 556458,
+      "word": "杨颖见到了花钱买自拍照的人",
+      "onboard_time": 1689926073,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564775,
       "num": 564775,
       "word": "玖月晞 土",
@@ -539,20 +555,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559045,
+      "num": 559045,
+      "word": "山东一面包店推出知了猴面包",
+      "onboard_time": 1689927214,
+      "rank": 18,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 558911,
       "num": 558911,
       "word": "王者峡谷出现手机",
       "onboard_time": 1689911554,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 556458,
-      "num": 556458,
-      "word": "杨颖见到了花钱买自拍照的人",
-      "onboard_time": 1689926073,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 554663,
@@ -683,14 +699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 446003,
-      "num": 347826,
-      "word": "于正对魏大勋评价的变化",
-      "onboard_time": 1689926733,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 437358,
       "num": 277277,
       "word": "封神新妲己出场镜头",
@@ -713,6 +721,14 @@
       "onboard_time": 1689924271,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 421606,
+      "num": 421606,
+      "word": "人间烟火vs致命女人",
+      "onboard_time": 1689927394,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 418400,
@@ -811,14 +827,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 332395,
-      "num": 332395,
-      "word": "山东一面包店推出知了猴面包",
-      "onboard_time": 1689927214,
-      "rank": 18,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 325083,
       "num": 258848,
       "word": "鹿晗演唱会到底送了多少福利",
@@ -833,6 +841,14 @@
       "onboard_time": 1689914736,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320766,
+      "num": 305126,
+      "word": "男子钓鱼不慎把鱼钩甩女友鼻子上",
+      "onboard_time": 1689926613,
+      "rank": 27,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 311946,
@@ -867,8 +883,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303803,
-      "num": 303803,
+      "raw_hot": 304398,
+      "num": 304398,
       "word": "命运的齿轮开始转动",
       "onboard_time": 1689926193,
       "rank": 25,
@@ -897,6 +913,14 @@
       "onboard_time": 1689899131,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296441,
+      "num": 296441,
+      "word": "五月天泉州西安南京演唱会",
+      "onboard_time": 1689928113,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 292784,
@@ -977,14 +1001,6 @@
       "onboard_time": 1689853830,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275624,
-      "num": 275624,
-      "word": "男子钓鱼不慎把鱼钩甩女友鼻子上",
-      "onboard_time": 1689926613,
-      "rank": 27,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 273536,
@@ -1075,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257534,
+      "num": 257534,
+      "word": "当卡琳娜的保镖是种什么体验",
+      "onboard_time": 1689926613,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 257505,
       "num": 257505,
       "word": "王俊凯王源刘亦菲今日开屏",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1689850051,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252506,
-      "num": 252506,
-      "word": "当卡琳娜的保镖是种什么体验",
-      "onboard_time": 1689926613,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 251090,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1689923551,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241888,
+      "num": 241888,
+      "word": "用洗脸巾的人是因为懒吗",
+      "onboard_time": 1689927574,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 241725,
@@ -1195,6 +1219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227860,
+      "num": 227860,
+      "word": "盗墓笔记是纪实文学",
+      "onboard_time": 1689926193,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227345,
       "num": 227345,
       "word": "小孩穿尿不湿街头找妈妈遇特警",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1689853589,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 221812,
-      "num": 221812,
-      "word": "盗墓笔记是纪实文学",
-      "onboard_time": 1689926193,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 220500,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1689906393,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211866,
-      "num": 211866,
-      "word": "用洗脸巾的人是因为懒吗",
-      "onboard_time": 1689927574,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 210750,
@@ -1395,19 +1411,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191039,
-      "num": 191039,
-      "word": "人间烟火vs致命女人",
-      "onboard_time": 1689927394,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190150,
       "num": 223888,
       "word": "电影燃冬角色特辑三人三面",
       "onboard_time": 1689908190,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188995,
+      "num": 188995,
+      "word": "芭比 女性主义",
+      "onboard_time": 1689928414,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1515,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165257,
+      "num": 165257,
+      "word": "听说这是福建省省饭",
+      "onboard_time": 1689928113,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 162422,
       "num": 182666,
       "word": "6个月无诈骗业绩将被处死或卖器官",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1689920612,
       "rank": 46,
       "category": "旅游,自然"
+    },
+    {
+      "raw_hot": 158263,
+      "num": 158263,
+      "word": "大家都是工作多久开始存钱的",
+      "onboard_time": 1689928113,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 149690,
@@ -1778,6 +1810,9 @@
     },
     {
       "word": "#我们党始终高度重视耕地保护问题#"
+    },
+    {
+      "word": "#切实加强耕地保护全力提升耕地质量#"
     }
   ]
 }
