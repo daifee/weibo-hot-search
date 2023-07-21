@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689952657731,
+  "endTime": 1689953653646,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2723,6 +2723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1903581,
+      "num": 1903581,
+      "word": "她自己叫林徽因就够了",
+      "onboard_time": 1689948641,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1897135,
       "num": 1897135,
       "word": "西安忍不住根本忍不住",
@@ -3443,14 +3451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1709645,
-      "num": 1709645,
-      "word": "她自己叫林徽因就够了",
-      "onboard_time": 1689948641,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1701475,
       "num": 1701475,
       "word": "中考满分760我考了753",
@@ -3977,6 +3977,14 @@
       "onboard_time": 1688282852,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1552458,
+      "num": 1552458,
+      "word": "跑男后期 游泳圈",
+      "onboard_time": 1689951701,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1551367,
@@ -7859,14 +7867,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 991137,
-      "num": 991137,
-      "word": "跑男后期 游泳圈",
-      "onboard_time": 1689951701,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 991041,
       "num": 921472,
       "word": "何炅王嘉尔曾预言白敬亭宋轶",
@@ -8017,6 +8017,14 @@
       "onboard_time": 1688962717,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 976889,
+      "num": 398435,
+      "word": "许沁离开宋焰的原因",
+      "onboard_time": 1689951639,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 975960,
@@ -9419,6 +9427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 879437,
+      "num": 373180,
+      "word": "杨颖问儿子在学校有没有人追你",
+      "onboard_time": 1689952178,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 878985,
       "num": 878985,
       "word": "iPhone15Pro系列将采用深蓝色",
@@ -10105,6 +10121,14 @@
       "onboard_time": 1688885727,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 843372,
+      "num": 1027341,
+      "word": "我爱床 我要跟床结婚",
+      "onboard_time": 1689951460,
+      "rank": 8,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 842953,
@@ -12563,6 +12587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 715917,
+      "num": 352561,
+      "word": "乘风排名",
+      "onboard_time": 1689951460,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715534,
       "num": 715534,
       "word": "黄子韬对马伯骞说不要塌台",
@@ -13601,14 +13633,6 @@
       "onboard_time": 1688202575,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 674042,
-      "num": 244790,
-      "word": "许沁离开宋焰的原因",
-      "onboard_time": 1689951639,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 673753,
@@ -14860,7 +14884,7 @@
     },
     {
       "raw_hot": 633551,
-      "num": 242223,
+      "num": 260345,
       "word": "宋焰接许沁下班巷子都没出",
       "onboard_time": 1689951219,
       "rank": 27,
@@ -16009,14 +16033,6 @@
       "onboard_time": 1689668374,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 596822,
-      "num": 240926,
-      "word": "乘风排名",
-      "onboard_time": 1689951460,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 596796,
@@ -22059,6 +22075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443175,
+      "num": 232780,
+      "word": "TFBOYS下辈子再糊",
+      "onboard_time": 1689952777,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442976,
       "num": 309954,
       "word": "吉林私搭浮桥多名过桥者发声",
@@ -22345,14 +22369,6 @@
       "onboard_time": 1688914956,
       "rank": 37,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 438100,
-      "num": 236661,
-      "word": "杨颖问儿子在学校有没有人追你",
-      "onboard_time": 1689952178,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 438015,
@@ -22721,14 +22737,6 @@
       "onboard_time": 1688976270,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432390,
-      "num": 1027341,
-      "word": "我爱床 我要跟床结婚",
-      "onboard_time": 1689951460,
-      "rank": 8,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 432309,
@@ -25603,6 +25611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382011,
+      "num": 233386,
+      "word": "00后小伙大便带血确诊肠癌晚期",
+      "onboard_time": 1689953435,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381914,
       "num": 381914,
       "word": "yskm",
@@ -26369,6 +26385,14 @@
       "onboard_time": 1688562092,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 370493,
+      "num": 229867,
+      "word": "长相思人物剧照",
+      "onboard_time": 1689952660,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 370463,
@@ -27545,6 +27569,14 @@
       "onboard_time": 1689558328,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353003,
+      "num": 353003,
+      "word": "机器人给头颅8厘米早产儿做脑手术",
+      "onboard_time": 1689951876,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 352681,
@@ -29713,6 +29745,14 @@
       "onboard_time": 1689238353,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 321765,
+      "num": 321765,
+      "word": "下个月的8号就立秋了",
+      "onboard_time": 1689951102,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 321749,
@@ -37891,14 +37931,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 236724,
-      "num": 236724,
-      "word": "下个月的8号就立秋了",
-      "onboard_time": 1689951102,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 236723,
       "num": 236723,
       "word": "巨齿鲨2官宣北京全球首映礼",
@@ -38089,6 +38121,14 @@
       "onboard_time": 1689808645,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235017,
+      "num": 236407,
+      "word": "真正的好朋友只会互相哭穷",
+      "onboard_time": 1689952119,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 234806,
@@ -41889,6 +41929,14 @@
       "onboard_time": 1688208571,
       "rank": 36,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 203805,
+      "num": 236433,
+      "word": "狼队战胜eStar",
+      "onboard_time": 1689952478,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 203726,
@@ -45731,14 +45779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174598,
-      "num": 236613,
-      "word": "机器人给头颅8厘米早产儿做脑手术",
-      "onboard_time": 1689951876,
-      "rank": 38,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 174508,
       "num": 174508,
       "word": "小爱去看鹿晗演唱会",
@@ -46611,6 +46651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165423,
+      "num": 227294,
+      "word": "白羊座经历得越多越享受孤独",
+      "onboard_time": 1689952777,
+      "rank": 47,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 165326,
       "num": 165326,
       "word": "饭后整齐洗脸的可爱猫猫",
@@ -46897,6 +46945,14 @@
       "onboard_time": 1688630435,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160821,
+      "num": 226696,
+      "word": "广东人开始靠龙眼续命了",
+      "onboard_time": 1689953142,
+      "rank": 48,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 160818,
@@ -47331,6 +47387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155761,
+      "num": 226419,
+      "word": "江苏浙江连发85条预警",
+      "onboard_time": 1689953616,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155597,
       "num": 448001,
       "word": "预算超8000选折叠屏还是iPhone",
@@ -47481,14 +47545,6 @@
       "onboard_time": 1688659411,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151637,
-      "num": 236433,
-      "word": "狼队战胜eStar",
-      "onboard_time": 1689952478,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 151530,
@@ -47705,14 +47761,6 @@
       "onboard_time": 1688921365,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 148455,
-      "num": 236407,
-      "word": "真正的好朋友只会互相哭穷",
-      "onboard_time": 1689952119,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 147878,
