@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689975231806,
+  "endTime": 1689977750655,
   "band_list": [
     {
       "raw_hot": 1465854,
@@ -451,6 +451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 98570,
+      "num": 65195,
+      "word": "肖战任敏玉骨遥收官战报",
+      "onboard_time": 1689976393,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96731,
       "num": 147096,
       "word": "杭州高职小伙一毕业被开18万年薪",
@@ -475,12 +483,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73457,
+      "num": 73457,
+      "word": "祖孙3人穿越警戒深水区洗澡遇险",
+      "onboard_time": 1689966673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69995,
+      "num": 62386,
+      "word": "肖战删了一句台词",
+      "onboard_time": 1689967574,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65727,
-      "num": 61384,
+      "num": 62255,
       "word": "迪丽热巴的身材管理",
       "onboard_time": 1689968653,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 60719,
+      "num": 60719,
+      "word": "陈佩斯朱时茂神预言我的人间烟火",
+      "onboard_time": 1689969313,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 54201,
+      "num": 54201,
+      "word": "黄宗泽张嘉元cos青蛇白蛇",
+      "onboard_time": 1689974893,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 52828,
@@ -499,36 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44739,
-      "num": 67274,
-      "word": "祖孙3人穿越警戒深水区洗澡遇险",
-      "onboard_time": 1689966673,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44514,
-      "num": 44514,
-      "word": "肖战删了一句台词",
-      "onboard_time": 1689967574,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 44025,
-      "num": 44025,
-      "word": "陈佩斯朱时茂神预言我的人间烟火",
-      "onboard_time": 1689969313,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 28880,
-      "num": 38263,
+      "raw_hot": 39130,
+      "num": 39130,
       "word": "乘客突发心脏病公交抄近路开进医院",
       "onboard_time": 1689966195,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37887,
+      "num": 37887,
+      "word": "中国好声音",
+      "onboard_time": 1689975493,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 27623,

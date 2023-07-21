@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689975231806,
+  "endTime": 1689977750655,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -49683,6 +49683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98570,
+      "num": 65195,
+      "word": "肖战任敏玉骨遥收官战报",
+      "onboard_time": 1689976393,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98254,
       "num": 148599,
       "word": "旅游了解兵马俑有啥意义",
@@ -50387,6 +50395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 73457,
+      "num": 73457,
+      "word": "祖孙3人穿越警戒深水区洗澡遇险",
+      "onboard_time": 1689966673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73118,
       "num": 93044,
       "word": "LGD新首发阵容",
@@ -50465,6 +50481,14 @@
       "onboard_time": 1688943921,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69995,
+      "num": 62386,
+      "word": "肖战删了一句台词",
+      "onboard_time": 1689967574,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 69448,
@@ -50572,7 +50596,7 @@
     },
     {
       "raw_hot": 65727,
-      "num": 61384,
+      "num": 62255,
       "word": "迪丽热巴的身材管理",
       "onboard_time": 1689968653,
       "rank": 16,
@@ -50707,6 +50731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60719,
+      "num": 60719,
+      "word": "陈佩斯朱时茂神预言我的人间烟火",
+      "onboard_time": 1689969313,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 59735,
       "num": 59735,
       "word": "有没有人考虑吴磊的感受",
@@ -50809,6 +50841,14 @@
       "onboard_time": 1688371483,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 54201,
+      "num": 54201,
+      "word": "黄宗泽张嘉元cos青蛇白蛇",
+      "onboard_time": 1689974893,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 54116,
@@ -51003,36 +51043,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44739,
-      "num": 67274,
-      "word": "祖孙3人穿越警戒深水区洗澡遇险",
-      "onboard_time": 1689966673,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44514,
-      "num": 44514,
-      "word": "肖战删了一句台词",
-      "onboard_time": 1689967574,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 44058,
       "num": 100311,
       "word": "是时候见识钓鱼佬的真正实力了",
       "onboard_time": 1688834724,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44025,
-      "num": 44025,
-      "word": "陈佩斯朱时茂神预言我的人间烟火",
-      "onboard_time": 1689969313,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 43412,
@@ -51152,6 +51168,14 @@
       "word": "这些名字曾被炮火蒙尘",
       "onboard_time": 1688703278,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39130,
+      "num": 39130,
+      "word": "乘客突发心脏病公交抄近路开进医院",
+      "onboard_time": 1689966195,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -51472,14 +51496,6 @@
       "word": "在数模上打破了性别的壁垒",
       "onboard_time": 1689101775,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28880,
-      "num": 38263,
-      "word": "乘客突发心脏病公交抄近路开进医院",
-      "onboard_time": 1689966195,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

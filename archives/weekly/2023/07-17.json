@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689975231806,
+  "endTime": 1689977750655,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -12219,6 +12219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 98570,
+      "num": 65195,
+      "word": "肖战任敏玉骨遥收官战报",
+      "onboard_time": 1689976393,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97913,
       "num": 286212,
       "word": "神十六航天员也要漫步太空了",
@@ -12371,6 +12379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73457,
+      "num": 73457,
+      "word": "祖孙3人穿越警戒深水区洗澡遇险",
+      "onboard_time": 1689966673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71274,
       "num": 1949445,
       "word": "第2架国产C919入列",
@@ -12385,6 +12401,14 @@
       "onboard_time": 1689740496,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69995,
+      "num": 62386,
+      "word": "肖战删了一句台词",
+      "onboard_time": 1689967574,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 69161,
@@ -12412,7 +12436,7 @@
     },
     {
       "raw_hot": 65727,
-      "num": 61384,
+      "num": 62255,
       "word": "迪丽热巴的身材管理",
       "onboard_time": 1689968653,
       "rank": 16,
@@ -12459,6 +12483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60719,
+      "num": 60719,
+      "word": "陈佩斯朱时茂神预言我的人间烟火",
+      "onboard_time": 1689969313,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54924,
       "num": 1918565,
       "word": "大运会城市志愿服务小站有急救包",
@@ -12473,6 +12505,14 @@
       "onboard_time": 1689513213,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54201,
+      "num": 54201,
+      "word": "黄宗泽张嘉元cos青蛇白蛇",
+      "onboard_time": 1689974893,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 54116,
@@ -12531,30 +12571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44739,
-      "num": 67274,
-      "word": "祖孙3人穿越警戒深水区洗澡遇险",
-      "onboard_time": 1689966673,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44514,
-      "num": 44514,
-      "word": "肖战删了一句台词",
-      "onboard_time": 1689967574,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 44025,
-      "num": 44025,
-      "word": "陈佩斯朱时茂神预言我的人间烟火",
-      "onboard_time": 1689969313,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 43412,
       "num": 43412,
       "word": "选高司令来演芭比的原因",
@@ -12601,6 +12617,22 @@
       "onboard_time": 1689860616,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39130,
+      "num": 39130,
+      "word": "乘客突发心脏病公交抄近路开进医院",
+      "onboard_time": 1689966195,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37887,
+      "num": 37887,
+      "word": "中国好声音",
+      "onboard_time": 1689975493,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 36383,
@@ -12673,14 +12705,6 @@
       "onboard_time": 1689618195,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 28880,
-      "num": 38263,
-      "word": "乘客突发心脏病公交抄近路开进医院",
-      "onboard_time": 1689966195,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27623,
