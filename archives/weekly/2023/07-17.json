@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689964485790,
+  "endTime": 1689966818073,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -12011,6 +12011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123001,
+      "num": 80220,
+      "word": "影帝届四大社恐",
+      "onboard_time": 1689964155,
+      "rank": 49,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 120454,
       "num": 366985,
       "word": "芭比排片好少",
@@ -12137,6 +12145,14 @@
       "onboard_time": 1689886813,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110063,
+      "num": 84272,
+      "word": "孟宴臣开始创飞全世界",
+      "onboard_time": 1689963137,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 108829,
@@ -12289,14 +12305,6 @@
       "onboard_time": 1689534672,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84272,
-      "num": 84272,
-      "word": "孟宴臣开始创飞全世界",
-      "onboard_time": 1689963137,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 84076,
@@ -12571,6 +12579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36149,
+      "num": 44935,
+      "word": "祖孙3人穿越警戒深水区洗澡遇险",
+      "onboard_time": 1689966673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35405,
       "num": 42627,
       "word": "无聊时可以做的DIY玩具",
@@ -12609,14 +12625,6 @@
       "onboard_time": 1689706816,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32531,
-      "num": 68446,
-      "word": "影帝届四大社恐",
-      "onboard_time": 1689964155,
-      "rank": 49,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 32525,

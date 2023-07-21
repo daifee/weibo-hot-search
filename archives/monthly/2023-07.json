@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689964485790,
+  "endTime": 1689966818073,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -48891,6 +48891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123001,
+      "num": 80220,
+      "word": "影帝届四大社恐",
+      "onboard_time": 1689964155,
+      "rank": 49,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 122771,
       "num": 244724,
       "word": "王登峰贪污受贿案一审开庭",
@@ -49257,6 +49265,14 @@
       "onboard_time": 1688803952,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 110063,
+      "num": 84272,
+      "word": "孟宴臣开始创飞全世界",
+      "onboard_time": 1689963137,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 109373,
@@ -50057,14 +50073,6 @@
       "onboard_time": 1688858000,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84272,
-      "num": 84272,
-      "word": "孟宴臣开始创飞全世界",
-      "onboard_time": 1689963137,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 84076,
@@ -51211,6 +51219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36149,
+      "num": 44935,
+      "word": "祖孙3人穿越警戒深水区洗澡遇险",
+      "onboard_time": 1689966673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35631,
       "num": 203342,
       "word": "王鹤棣导航太上头了",
@@ -51305,14 +51321,6 @@
       "onboard_time": 1689384029,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32531,
-      "num": 68446,
-      "word": "影帝届四大社恐",
-      "onboard_time": 1689964155,
-      "rank": 49,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 32525,
