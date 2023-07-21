@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689920527939,
+  "endTime": 1689921309758,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -675,6 +675,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1711132,
+      "num": 1711132,
+      "word": "李佳琦与母亲合开新公司",
+      "onboard_time": 1689917912,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1689781,
       "num": 800941,
       "word": "假唱",
@@ -753,14 +761,6 @@
       "onboard_time": 1689896484,
       "rank": 1,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1535086,
-      "num": 1535086,
-      "word": "李佳琦与母亲合开新公司",
-      "onboard_time": 1689917912,
-      "rank": 1,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1530211,
@@ -1819,6 +1819,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 898234,
+      "num": 898234,
+      "word": "刘奕君儿子看父亲的剧ptsd了",
+      "onboard_time": 1689918632,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 897579,
       "num": 897579,
       "word": "许沁的虎扑评分",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1689903691,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 886620,
-      "num": 443235,
-      "word": "刘奕君儿子看父亲的剧ptsd了",
-      "onboard_time": 1689918632,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 881695,
@@ -2595,8 +2595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 711579,
-      "num": 711579,
+      "raw_hot": 713730,
+      "num": 713730,
       "word": "男孩收到研究生录取通知书时正在工地和水泥",
       "onboard_time": 1689918393,
       "rank": 6,
@@ -2931,6 +2931,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 657396,
+      "num": 657396,
+      "word": "原来许沁原著更疯批",
+      "onboard_time": 1689918512,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 656102,
       "num": 574261,
       "word": "SMTOWN全公司艺人一起奶新团",
@@ -3148,7 +3156,7 @@
     },
     {
       "raw_hot": 623863,
-      "num": 297960,
+      "num": 348138,
       "word": "仙剑三豆瓣评分涨至9.0分",
       "onboard_time": 1689917251,
       "rank": 28,
@@ -3812,7 +3820,7 @@
     },
     {
       "raw_hot": 535477,
-      "num": 423749,
+      "num": 512864,
       "word": "只有白敬亭觉得虐吧",
       "onboard_time": 1689917192,
       "rank": 30,
@@ -4105,6 +4113,14 @@
       "onboard_time": 1689738272,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496534,
+      "num": 496534,
+      "word": "bw",
+      "onboard_time": 1689917433,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 496096,
@@ -4539,14 +4555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 453958,
-      "num": 453958,
-      "word": "bw",
-      "onboard_time": 1689917433,
-      "rank": 38,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 453393,
       "num": 453393,
       "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
@@ -4939,6 +4947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419242,
+      "num": 381400,
+      "word": "封神第一部票房破亿",
+      "onboard_time": 1689920252,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419237,
       "num": 399999,
       "word": "茉莉美式",
@@ -5081,6 +5097,22 @@
       "onboard_time": 1689841653,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408942,
+      "num": 408942,
+      "word": "原来花花的闹钟是小鸟做的",
+      "onboard_time": 1689919111,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 408928,
+      "num": 265881,
+      "word": "白敬亭魏大勋情头",
+      "onboard_time": 1689920552,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 407481,
@@ -5707,6 +5739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360275,
+      "num": 360275,
+      "word": "卡琳娜cos刃",
+      "onboard_time": 1689919533,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 360010,
       "num": 289391,
       "word": "三伏天晒背晒出来个新皮肤",
@@ -6252,7 +6292,7 @@
     },
     {
       "raw_hot": 332489,
-      "num": 295919,
+      "num": 322295,
       "word": "为什么河南家长会选择高考移民",
       "onboard_time": 1689917313,
       "rank": 47,
@@ -6619,6 +6659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307487,
+      "num": 290547,
+      "word": "芭比剧本是如何通过的",
+      "onboard_time": 1689919173,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307362,
       "num": 307362,
       "word": "迪丽热巴版宝贝在干嘛",
@@ -6635,6 +6683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 306033,
+      "num": 306033,
+      "word": "男子穿漏洞鞋开车被扣3分罚100",
+      "onboard_time": 1689917794,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304544,
       "num": 329033,
       "word": "长大才知道打碎盘子不是大事",
@@ -6643,28 +6699,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 304140,
-      "num": 290547,
-      "word": "芭比剧本是如何通过的",
-      "onboard_time": 1689919173,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 304098,
       "num": 161589,
       "word": "李木戈的潜台词",
       "onboard_time": 1689669993,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 303776,
-      "num": 303776,
-      "word": "原来花花的闹钟是小鸟做的",
-      "onboard_time": 1689919111,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 303703,
@@ -6875,14 +6915,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 290982,
-      "num": 290982,
-      "word": "男子穿漏洞鞋开车被扣3分罚100",
-      "onboard_time": 1689917794,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290779,
       "num": 216125,
       "word": "封神第一部评分",
@@ -6993,14 +7025,6 @@
       "onboard_time": 1689572431,
       "rank": 29,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 287772,
-      "num": 301380,
-      "word": "卡琳娜cos刃",
-      "onboard_time": 1689919533,
-      "rank": 19,
-      "category": "动漫"
     },
     {
       "raw_hot": 287572,
@@ -7755,6 +7779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251090,
+      "num": 251090,
+      "word": "口腔科并不是拔鱼刺的科室",
+      "onboard_time": 1689916895,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250936,
       "num": 285392,
       "word": "怦然心动20岁",
@@ -7993,6 +8025,14 @@
       "onboard_time": 1689520835,
       "rank": 29,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 238853,
+      "num": 238853,
+      "word": "孩子躺游戏车前遭亲戚家孩子碾压",
+      "onboard_time": 1689920915,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238583,
@@ -8257,14 +8297,6 @@
       "onboard_time": 1689917732,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 228398,
-      "num": 228398,
-      "word": "口腔科并不是拔鱼刺的科室",
-      "onboard_time": 1689916895,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 227656,
@@ -9211,14 +9243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195989,
-      "num": 203526,
-      "word": "封神第一部票房破亿",
-      "onboard_time": 1689920252,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195938,
       "num": 195938,
       "word": "莱荣高铁",
@@ -9393,6 +9417,14 @@
       "onboard_time": 1689554792,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190986,
+      "num": 190986,
+      "word": "LPL最佳新秀Tangyuan",
+      "onboard_time": 1689921094,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 190956,
@@ -9593,6 +9625,14 @@
       "onboard_time": 1689666571,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 183729,
+      "num": 203472,
+      "word": "惊奇队长2正式预告",
+      "onboard_time": 1689920252,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 183537,
@@ -9995,6 +10035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162052,
+      "num": 162052,
+      "word": "潮水退去钱塘江露出大地之树",
+      "onboard_time": 1689920612,
+      "rank": 46,
+      "category": "旅游,自然"
+    },
+    {
       "raw_hot": 161285,
       "num": 161285,
       "word": "骑马一定要穿马靴",
@@ -10265,14 +10313,6 @@
       "onboard_time": 1689665132,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 145803,
-      "num": 203472,
-      "word": "惊奇队长2正式预告",
-      "onboard_time": 1689920252,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 145685,
@@ -11178,6 +11218,9 @@
     },
     {
       "word": "#中国有约#"
+    },
+    {
+      "word": "#成都大运会倒计时1周#"
     }
   ]
 }
