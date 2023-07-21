@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689974068614,
+  "endTime": 1689975231806,
   "band_list": [
     {
       "raw_hot": 1465854,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44739,
+      "num": 67274,
+      "word": "祖孙3人穿越警戒深水区洗澡遇险",
+      "onboard_time": 1689966673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44514,
       "num": 44514,
       "word": "肖战删了一句台词",
@@ -515,11 +523,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 42066,
-      "num": 67274,
-      "word": "祖孙3人穿越警戒深水区洗澡遇险",
-      "onboard_time": 1689966673,
-      "rank": 39,
+      "raw_hot": 28880,
+      "num": 38263,
+      "word": "乘客突发心脏病公交抄近路开进医院",
+      "onboard_time": 1689966195,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -539,12 +547,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 25383,
-      "num": 38263,
-      "word": "乘客突发心脏病公交抄近路开进医院",
-      "onboard_time": 1689966195,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 14670,
+      "num": 24388,
+      "word": "微博公开课",
+      "onboard_time": 1689975191,
+      "rank": 49,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
