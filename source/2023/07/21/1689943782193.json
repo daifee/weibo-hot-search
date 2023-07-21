@@ -1,0 +1,410 @@
+{
+  "runTime": 1689943782193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9035384,
+        "num": 9035384,
+        "word": "TFBOYS演唱会官宣",
+        "onboard_time": 1689942032,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1465853,
+        "num": 1465853,
+        "word": "杨洋新剧别名",
+        "onboard_time": 1689939333,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13657,
+        "num": 1432188,
+        "word": "成都大运会倒计时1周",
+        "onboard_time": 1689902431,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1403535,
+        "num": 1403535,
+        "word": "TFBOYS官博在线",
+        "onboard_time": 1689929073,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1089605,
+        "num": 1089605,
+        "word": "浙FDL3988闯红灯违章已撤销",
+        "onboard_time": 1689930630,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987968,
+        "num": 987968,
+        "word": "上海暴雨",
+        "onboard_time": 1689930630,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892957,
+        "num": 892957,
+        "word": "王一博渔网卫衣",
+        "onboard_time": 1689940233,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 829090,
+        "num": 829090,
+        "word": "TFBOYS官博改小尾巴",
+        "onboard_time": 1689942941,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 511836,
+        "num": 511836,
+        "word": "中国队花游集体自由自选摘金",
+        "onboard_time": 1689941976,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506719,
+        "num": 506719,
+        "word": "男孩痛哭跪谢回收空调师傅多给1000元",
+        "onboard_time": 1689938855,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783392,
+        "num": 506587,
+        "word": "奔跑吧收官",
+        "onboard_time": 1689940957,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670204,
+        "num": 506403,
+        "word": "老人将15万现金当废品卖了8元",
+        "onboard_time": 1689940771,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656337,
+        "num": 506311,
+        "word": "女主扁平化",
+        "onboard_time": 1689928954,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 583723,
+        "num": 505927,
+        "word": "张元英蝴蝶芭比",
+        "onboard_time": 1689942821,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 531698,
+        "num": 505795,
+        "word": "长相思定档",
+        "onboard_time": 1689930875,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524373,
+        "num": 505630,
+        "word": "沙溢告别奔跑吧",
+        "onboard_time": 1689933994,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505521,
+        "num": 505521,
+        "word": "妻子已生产男方消失不见",
+        "onboard_time": 1689942880,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497803,
+        "num": 497803,
+        "word": "中建五局一项目经理工作群辱骂员工",
+        "onboard_time": 1689936756,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495974,
+        "num": 495974,
+        "word": "白粥的绝配到底是什么",
+        "onboard_time": 1689940714,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 470115,
+        "num": 470115,
+        "word": "日本的西瓜为什么那么贵",
+        "onboard_time": 1689938251,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 842197,
+        "num": 466728,
+        "word": "粉丝对王俊凯王源易烊千玺合体的热情",
+        "onboard_time": 1689941798,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 648538,
+        "num": 464116,
+        "word": "Angelababy告别奔跑吧",
+        "onboard_time": 1689941798,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499673,
+        "num": 459573,
+        "word": "澳大利亚男子怒杀恋童癖狱友",
+        "onboard_time": 1689940714,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450381,
+        "num": 450381,
+        "word": "RNG对战NIP",
+        "onboard_time": 1689933994,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 417934,
+        "num": 417934,
+        "word": "我妈刮痧两天把我痘痘刮没了",
+        "onboard_time": 1689939933,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371025,
+        "num": 371025,
+        "word": "封神超出预期",
+        "onboard_time": 1689939810,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357355,
+        "num": 357355,
+        "word": "乐华家族年会红毯",
+        "onboard_time": 1689940714,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 355745,
+        "num": 355745,
+        "word": "年轻人开始给芒果核梳毛了",
+        "onboard_time": 1689941196,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346145,
+        "num": 346145,
+        "word": "TFBOYS还发新歌吗",
+        "onboard_time": 1689932134,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297429,
+        "num": 344826,
+        "word": "搬家时才发现小狗留下的惊喜",
+        "onboard_time": 1689932015,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 344640,
+        "num": 344640,
+        "word": "乘风",
+        "onboard_time": 1689940594,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332636,
+        "num": 332636,
+        "word": "肖战说假瓜吃多了拉肚子",
+        "onboard_time": 1689929200,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294168,
+        "num": 294168,
+        "word": "傲寒",
+        "onboard_time": 1689934954,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288279,
+        "num": 288279,
+        "word": "超能一家人",
+        "onboard_time": 1689942096,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102647,
+        "num": 278366,
+        "word": "西安成立调查组对回流生报名资格逐一核查",
+        "onboard_time": 1689930272,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275213,
+        "num": 275213,
+        "word": "范丞丞我该怎么和你解释个人站",
+        "onboard_time": 1689940413,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271350,
+        "num": 271350,
+        "word": "乐华年会直播",
+        "onboard_time": 1689935794,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252609,
+        "num": 252609,
+        "word": "犬夜叉老版画风里的美人",
+        "onboard_time": 1689941134,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 230855,
+        "num": 230855,
+        "word": "台湾一女大学生被高坠空调外机砸死",
+        "onboard_time": 1689928652,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218224,
+        "num": 218224,
+        "word": "夏凌",
+        "onboard_time": 1689941617,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252222,
+        "num": 216235,
+        "word": "中餐厅",
+        "onboard_time": 1689941196,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248091,
+        "num": 215671,
+        "word": "黄子韬徐艺洋难哄",
+        "onboard_time": 1689925174,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242000,
+        "num": 214750,
+        "word": "黄晓明和小海绵现身机场",
+        "onboard_time": 1689929433,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213781,
+        "num": 213781,
+        "word": "领导退群我成单位群主了",
+        "onboard_time": 1689933632,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229474,
+        "num": 212869,
+        "word": "EXO新歌初一位",
+        "onboard_time": 1689938251,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210543,
+        "num": 210543,
+        "word": "许沁纸片人觉醒",
+        "onboard_time": 1689936214,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208371,
+        "num": 208371,
+        "word": "不要有任何分享欲",
+        "onboard_time": 1689930574,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201074,
+        "num": 201074,
+        "word": "她一定是好起来了",
+        "onboard_time": 1689942761,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 197738,
+        "num": 197738,
+        "word": "魏大勋回答为什么魏大勋这么帅",
+        "onboard_time": 1689936933,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195940,
+        "num": 195940,
+        "word": "4K修复志愿军俘获美军画面",
+        "onboard_time": 1689942880,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们党始终高度重视耕地保护问题#"
+    }
+  }
+}

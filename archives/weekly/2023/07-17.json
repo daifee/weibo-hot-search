@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689942792872,
+  "endTime": 1689943782193,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 2373781,
-      "num": 1217365,
+      "num": 1403535,
       "word": "TFBOYS官博在线",
       "onboard_time": 1689929073,
       "rank": 9,
@@ -915,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1465853,
+      "num": 1465853,
+      "word": "杨洋新剧别名",
+      "onboard_time": 1689939333,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1465032,
       "num": 617886,
       "word": "成功承认出轨",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1689598774,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1155965,
-      "num": 604025,
-      "word": "杨洋新剧别名",
-      "onboard_time": 1689939333,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1150832,
@@ -2235,6 +2235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 842197,
+      "num": 466728,
+      "word": "粉丝对王俊凯王源易烊千玺合体的热情",
+      "onboard_time": 1689941798,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 840676,
       "num": 840676,
       "word": "杨幂涂山红红",
@@ -2305,6 +2313,14 @@
       "onboard_time": 1689731250,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 829090,
+      "num": 829090,
+      "word": "TFBOYS官博改小尾巴",
+      "onboard_time": 1689942941,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 828973,
@@ -3075,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670204,
+      "num": 609897,
+      "word": "老人将15万现金当废品卖了8元",
+      "onboard_time": 1689940771,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669391,
       "num": 391081,
       "word": "吴宇恒不敢裸穿",
@@ -3219,14 +3243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 652927,
-      "num": 400063,
-      "word": "粉丝对王俊凯王源易烊千玺合体的热情",
-      "onboard_time": 1689941798,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 652703,
       "num": 438150,
       "word": "政审家访被妈妈气晕了",
@@ -3249,6 +3265,14 @@
       "onboard_time": 1689933456,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 648538,
+      "num": 464116,
+      "word": "Angelababy告别奔跑吧",
+      "onboard_time": 1689941798,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 647422,
@@ -3515,14 +3539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 609897,
-      "num": 609897,
-      "word": "老人将15万现金当废品卖了8元",
-      "onboard_time": 1689940771,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 609222,
       "num": 609222,
       "word": "王一博学跳惊鸿舞",
@@ -3737,6 +3753,14 @@
       "onboard_time": 1689914918,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 583723,
+      "num": 505927,
+      "word": "张元英蝴蝶芭比",
+      "onboard_time": 1689942821,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 583518,
@@ -4243,14 +4267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 524346,
-      "num": 395813,
-      "word": "Angelababy告别奔跑吧",
-      "onboard_time": 1689941798,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 523112,
       "num": 523112,
       "word": "爸爸捐献儿子器官救8人一句话让人破防",
@@ -4339,6 +4355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 511836,
+      "num": 511836,
+      "word": "中国队花游集体自由自选摘金",
+      "onboard_time": 1689941976,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511753,
       "num": 389309,
       "word": "魏大勋的心态",
@@ -4377,6 +4401,14 @@
       "onboard_time": 1689738033,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 505521,
+      "num": 505521,
+      "word": "妻子已生产男方消失不见",
+      "onboard_time": 1689942880,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505071,
@@ -4467,6 +4499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 499673,
+      "num": 459573,
+      "word": "澳大利亚男子怒杀恋童癖狱友",
+      "onboard_time": 1689940714,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499310,
       "num": 499310,
       "word": "越南一载中国游客大巴侧翻致4死8伤",
@@ -4497,6 +4537,14 @@
       "onboard_time": 1689567756,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 495974,
+      "num": 495974,
+      "word": "白粥的绝配到底是什么",
+      "onboard_time": 1689940714,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 495939,
@@ -4995,6 +5043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450381,
+      "num": 450381,
+      "word": "RNG对战NIP",
+      "onboard_time": 1689933994,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 450060,
       "num": 450060,
       "word": "王楚然对许沁的评价",
@@ -5145,14 +5201,6 @@
       "onboard_time": 1689932015,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 438207,
-      "num": 392181,
-      "word": "澳大利亚男子怒杀恋童癖狱友",
-      "onboard_time": 1689940714,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436962,
@@ -5443,6 +5491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417934,
+      "num": 417934,
+      "word": "我妈刮痧两天把我痘痘刮没了",
+      "onboard_time": 1689939933,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 417563,
       "num": 417563,
       "word": "电影白蛇浮生官宣",
@@ -5467,14 +5523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415058,
-      "num": 415058,
-      "word": "白粥的绝配到底是什么",
-      "onboard_time": 1689940714,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 414790,
       "num": 414790,
       "word": "福宝",
@@ -5497,14 +5545,6 @@
       "onboard_time": 1689676414,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 413237,
-      "num": 413237,
-      "word": "中国队花游集体自由自选摘金",
-      "onboard_time": 1689941976,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 412187,
@@ -6171,14 +6211,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 364625,
-      "num": 389649,
-      "word": "我妈刮痧两天把我痘痘刮没了",
-      "onboard_time": 1689939933,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 364454,
       "num": 364454,
       "word": "成年后养的第一个孩子是自己",
@@ -6393,6 +6425,14 @@
       "onboard_time": 1689568115,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355745,
+      "num": 403436,
+      "word": "年轻人开始给芒果核梳毛了",
+      "onboard_time": 1689941196,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355717,
@@ -7483,14 +7523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292023,
-      "num": 403436,
-      "word": "年轻人开始给芒果核梳毛了",
-      "onboard_time": 1689941196,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291548,
       "num": 291548,
       "word": "八角笼中王宝强演技",
@@ -7649,14 +7681,6 @@
       "onboard_time": 1689868891,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287565,
-      "num": 287565,
-      "word": "RNG对战NIP",
-      "onboard_time": 1689933994,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 287554,
@@ -8443,6 +8467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252609,
+      "num": 252609,
+      "word": "犬夜叉老版画风里的美人",
+      "onboard_time": 1689941134,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 252345,
       "num": 252345,
       "word": "护士小哥腾空跃上病床抢救",
@@ -9219,14 +9251,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 218785,
-      "num": 218785,
-      "word": "犬夜叉老版画风里的美人",
-      "onboard_time": 1689941134,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 217588,
       "num": 217588,
       "word": "迪丽热巴读仲夏夜之梦",
@@ -9835,6 +9859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201074,
+      "num": 204685,
+      "word": "她一定是好起来了",
+      "onboard_time": 1689942761,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 201050,
       "num": 201050,
       "word": "芭比台词 提神醒脑",
@@ -10065,6 +10097,14 @@
       "onboard_time": 1689823655,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195940,
+      "num": 195940,
+      "word": "4K修复志愿军俘获美军画面",
+      "onboard_time": 1689942880,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 195938,
@@ -10673,14 +10713,6 @@
       "onboard_time": 1689643168,
       "rank": 42,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 172058,
-      "num": 204685,
-      "word": "她一定是好起来了",
-      "onboard_time": 1689942761,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 171966,
