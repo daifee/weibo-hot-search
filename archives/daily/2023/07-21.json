@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689924821341,
+  "endTime": 1689927669753,
   "band_list": [
     {
       "raw_hot": 2605723,
@@ -67,6 +67,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1767691,
+      "num": 1767691,
+      "word": "范丞丞也在劝魏大勋",
+      "onboard_time": 1689924151,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1732598,
+      "num": 1732598,
+      "word": "黄子韬徐艺洋难哄",
+      "onboard_time": 1689925174,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1711132,
       "num": 1711132,
       "word": "李佳琦与母亲合开新公司",
@@ -96,6 +112,14 @@
       "word": "张颂文考科目二被围观",
       "onboard_time": 1689864818,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1458086,
+      "num": 1458086,
+      "word": "外媒评魏大勋",
+      "onboard_time": 1689925353,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -363,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 668430,
-      "num": 483607,
-      "word": "范丞丞也在劝魏大勋",
-      "onboard_time": 1689924151,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 677338,
+      "num": 268418,
+      "word": "起猛了看见高铁进地铁站了",
+      "onboard_time": 1689926493,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 665925,
@@ -387,6 +411,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 655097,
+      "num": 655097,
+      "word": "做手工的要小心甲醛中毒",
+      "onboard_time": 1689925291,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639672,
       "num": 357118,
       "word": "白敬亭魏大勋情头",
@@ -401,6 +433,14 @@
       "onboard_time": 1689905191,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634728,
+      "num": 314321,
+      "word": "一直以为头油就要天天洗",
+      "onboard_time": 1689927154,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 623863,
@@ -433,6 +473,14 @@
       "onboard_time": 1689923013,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 604351,
+      "num": 604351,
+      "word": "孙悦发了好多图",
+      "onboard_time": 1689924512,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 603202,
@@ -497,6 +545,14 @@
       "onboard_time": 1689911554,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 556458,
+      "num": 556458,
+      "word": "杨颖见到了花钱买自拍照的人",
+      "onboard_time": 1689926073,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 554663,
@@ -627,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 446003,
+      "num": 347826,
+      "word": "于正对魏大勋评价的变化",
+      "onboard_time": 1689926733,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437358,
       "num": 277277,
       "word": "封神新妲己出场镜头",
@@ -643,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425778,
+      "num": 311671,
+      "word": "孃孃这是体检不是考试",
+      "onboard_time": 1689924271,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 418400,
       "num": 418400,
       "word": "娜然 妲己",
@@ -656,6 +728,14 @@
       "word": "中建八局被实名举报",
       "onboard_time": 1689837690,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397316,
+      "num": 397316,
+      "word": "西安暴雨地铁为乘客免费送雨衣",
+      "onboard_time": 1689922952,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -681,14 +761,6 @@
       "onboard_time": 1689902020,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 369103,
-      "num": 369103,
-      "word": "西安暴雨地铁为乘客免费送雨衣",
-      "onboard_time": 1689922952,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365537,
@@ -739,6 +811,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 332395,
+      "num": 332395,
+      "word": "山东一面包店推出知了猴面包",
+      "onboard_time": 1689927214,
+      "rank": 18,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 325083,
       "num": 258848,
       "word": "鹿晗演唱会到底送了多少福利",
@@ -785,6 +865,14 @@
       "onboard_time": 1689917794,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303803,
+      "num": 303803,
+      "word": "命运的齿轮开始转动",
+      "onboard_time": 1689926193,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 300078,
@@ -867,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276714,
+      "num": 274355,
+      "word": "范丞丞想和关晓彤演双海王互渣",
+      "onboard_time": 1689924871,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276062,
       "num": 276062,
       "word": "谢娜嗑到张俪闫桉了",
@@ -881,6 +977,14 @@
       "onboard_time": 1689853830,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275624,
+      "num": 275624,
+      "word": "男子钓鱼不慎把鱼钩甩女友鼻子上",
+      "onboard_time": 1689926613,
+      "rank": 27,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 273536,
@@ -955,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259276,
+      "num": 259276,
+      "word": "合肥暴雨",
+      "onboard_time": 1689926251,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258797,
       "num": 258797,
       "word": "芭比",
@@ -979,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252506,
+      "num": 252506,
+      "word": "当卡琳娜的保镖是种什么体验",
+      "onboard_time": 1689926613,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 251090,
       "num": 251090,
       "word": "口腔科并不是拔鱼刺的科室",
@@ -995,7 +1115,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 242458,
+      "raw_hot": 246840,
       "num": 354519,
       "word": "与首个辅助FMVP双向奔赴",
       "onboard_time": 1689923551,
@@ -1051,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234715,
-      "num": 234715,
-      "word": "孃孃这是体检不是考试",
-      "onboard_time": 1689924271,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 234628,
       "num": 234628,
       "word": "韦神揭秘4AM新基地",
@@ -1099,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221812,
+      "num": 221812,
+      "word": "盗墓笔记是纪实文学",
+      "onboard_time": 1689926193,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220500,
       "num": 220500,
       "word": "泡泡岛音乐节",
@@ -1137,6 +1257,14 @@
       "onboard_time": 1689906393,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211866,
+      "num": 211866,
+      "word": "用洗脸巾的人是因为懒吗",
+      "onboard_time": 1689927574,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 210750,
@@ -1259,12 +1387,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194751,
-      "num": 204991,
-      "word": "孙悦发了好多图",
-      "onboard_time": 1689924512,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 193265,
+      "num": 193265,
+      "word": "有公司招不到人是很正常的",
+      "onboard_time": 1689925052,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 191039,
+      "num": 191039,
+      "word": "人间烟火vs致命女人",
+      "onboard_time": 1689927394,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 190150,
@@ -1595,20 +1731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35302,
+      "num": 1530792,
+      "word": "成都大运会倒计时1周",
+      "onboard_time": 1689902431,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34529,
+      "num": 162221,
+      "word": "点外卖不小心暴露文化水平",
+      "onboard_time": 1689926134,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30691,
       "num": 39825,
       "word": "人间烟火",
       "onboard_time": 1689734129,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 29698,
-      "num": 1044605,
-      "word": "成都大运会倒计时1周",
-      "onboard_time": 1689902431,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 24070,

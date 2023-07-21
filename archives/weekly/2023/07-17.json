@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689924821341,
+  "endTime": 1689927669753,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1767691,
+      "num": 1767691,
+      "word": "范丞丞也在劝魏大勋",
+      "onboard_time": 1689924151,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1766067,
       "num": 1766067,
       "word": "杨澄让小三怀孕了",
@@ -673,6 +681,14 @@
       "onboard_time": 1689584492,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1732598,
+      "num": 1732598,
+      "word": "黄子韬徐艺洋难哄",
+      "onboard_time": 1689925174,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1711132,
@@ -857,6 +873,14 @@
       "onboard_time": 1689553772,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1458086,
+      "num": 1458086,
+      "word": "外媒评魏大勋",
+      "onboard_time": 1689925353,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1456587,
@@ -2827,6 +2851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 677338,
+      "num": 268418,
+      "word": "起猛了看见高铁进地铁站了",
+      "onboard_time": 1689926493,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 676903,
       "num": 400422,
       "word": "三十而已2官宣启动",
@@ -2857,14 +2889,6 @@
       "onboard_time": 1689647428,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 668430,
-      "num": 483607,
-      "word": "范丞丞也在劝魏大勋",
-      "onboard_time": 1689924151,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 666594,
@@ -2977,6 +3001,14 @@
       "onboard_time": 1689862656,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 655097,
+      "num": 655097,
+      "word": "做手工的要小心甲醛中毒",
+      "onboard_time": 1689925291,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653913,
@@ -3105,6 +3137,14 @@
       "onboard_time": 1689905191,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634728,
+      "num": 314321,
+      "word": "一直以为头油就要天天洗",
+      "onboard_time": 1689927154,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 634098,
@@ -3329,6 +3369,14 @@
       "onboard_time": 1689864936,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 604351,
+      "num": 604351,
+      "word": "孙悦发了好多图",
+      "onboard_time": 1689924512,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 603783,
@@ -3736,6 +3784,14 @@
       "word": "五月天录播",
       "onboard_time": 1689518203,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 556458,
+      "num": 556458,
+      "word": "杨颖见到了花钱买自拍照的人",
+      "onboard_time": 1689926073,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -4739,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446003,
+      "num": 347826,
+      "word": "于正对魏大勋评价的变化",
+      "onboard_time": 1689926733,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443859,
       "num": 439700,
       "word": "范丞丞替杨澄向谢乔道歉",
@@ -4953,6 +5017,14 @@
       "onboard_time": 1689768872,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425778,
+      "num": 311671,
+      "word": "孃孃这是体检不是考试",
+      "onboard_time": 1689924271,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 425748,
@@ -5355,6 +5427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397316,
+      "num": 397316,
+      "word": "西安暴雨地铁为乘客免费送雨衣",
+      "onboard_time": 1689922952,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396021,
       "num": 396021,
       "word": "苏可问朱时茂为什么不喜欢陈佩斯",
@@ -5657,14 +5737,6 @@
       "onboard_time": 1689729211,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 369103,
-      "num": 369103,
-      "word": "西安暴雨地铁为乘客免费送雨衣",
-      "onboard_time": 1689922952,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368266,
@@ -6347,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332395,
+      "num": 332395,
+      "word": "山东一面包店推出知了猴面包",
+      "onboard_time": 1689927214,
+      "rank": 18,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 331584,
       "num": 284954,
       "word": "谢娜陈乔恩为敖子逸操碎了心",
@@ -6752,6 +6832,14 @@
       "word": "李木戈的潜台词",
       "onboard_time": 1689669993,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303803,
+      "num": 303803,
+      "word": "命运的齿轮开始转动",
+      "onboard_time": 1689926193,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -7347,6 +7435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 276714,
+      "num": 274355,
+      "word": "范丞丞想和关晓彤演双海王互渣",
+      "onboard_time": 1689924871,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276529,
       "num": 264874,
       "word": "沈月晒野猪一家长沙plog",
@@ -7361,6 +7457,14 @@
       "onboard_time": 1689899373,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275624,
+      "num": 275624,
+      "word": "男子钓鱼不慎把鱼钩甩女友鼻子上",
+      "onboard_time": 1689926613,
+      "rank": 27,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 274515,
@@ -7691,6 +7795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259276,
+      "num": 259276,
+      "word": "合肥暴雨",
+      "onboard_time": 1689926251,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258777,
       "num": 222683,
       "word": "广东中山10块一盘的活海鲜宵夜",
@@ -7801,6 +7913,14 @@
       "onboard_time": 1689668734,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252506,
+      "num": 252506,
+      "word": "当卡琳娜的保镖是种什么体验",
+      "onboard_time": 1689926613,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 252345,
@@ -7915,6 +8035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246840,
+      "num": 354519,
+      "word": "与首个辅助FMVP双向奔赴",
+      "onboard_time": 1689923551,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245590,
       "num": 245590,
       "word": "广东人是住在洗衣机里吗",
@@ -7985,14 +8113,6 @@
       "onboard_time": 1689655114,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242458,
-      "num": 354519,
-      "word": "与首个辅助FMVP双向奔赴",
-      "onboard_time": 1689923551,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 241836,
@@ -8217,14 +8337,6 @@
       "onboard_time": 1689659610,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234715,
-      "num": 234715,
-      "word": "孃孃这是体检不是考试",
-      "onboard_time": 1689924271,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 234628,
@@ -8507,6 +8619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221812,
+      "num": 221812,
+      "word": "盗墓笔记是纪实文学",
+      "onboard_time": 1689926193,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221354,
       "num": 534164,
       "word": "牛冠凯3比1王楚钦",
@@ -8745,6 +8865,14 @@
       "onboard_time": 1689691714,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211866,
+      "num": 211866,
+      "word": "用洗脸巾的人是因为懒吗",
+      "onboard_time": 1689927574,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 211814,
@@ -9419,14 +9547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194751,
-      "num": 204991,
-      "word": "孙悦发了好多图",
-      "onboard_time": 1689924512,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194610,
       "num": 228793,
       "word": "妈见打的叠被子方式",
@@ -9465,6 +9585,14 @@
       "onboard_time": 1689860017,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193265,
+      "num": 193265,
+      "word": "有公司招不到人是很正常的",
+      "onboard_time": 1689925052,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 193187,
@@ -9521,6 +9649,14 @@
       "onboard_time": 1689554792,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191039,
+      "num": 191039,
+      "word": "人间烟火vs致命女人",
+      "onboard_time": 1689927394,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 190956,
@@ -11187,12 +11323,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 35302,
+      "num": 1530792,
+      "word": "成都大运会倒计时1周",
+      "onboard_time": 1689902431,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34859,
       "num": 3204084,
       "word": "民营经济是推进中国式现代化的生力军",
       "onboard_time": 1689766711,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34529,
+      "num": 162221,
+      "word": "点外卖不小心暴露文化水平",
+      "onboard_time": 1689926134,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 33633,
@@ -11217,14 +11369,6 @@
       "onboard_time": 1689844175,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29698,
-      "num": 1044605,
-      "word": "成都大运会倒计时1周",
-      "onboard_time": 1689902431,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 29527,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1689927669753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1767691,
+        "num": 1767691,
+        "word": "范丞丞也在劝魏大勋",
+        "onboard_time": 1689924151,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1732598,
+        "num": 1732598,
+        "word": "黄子韬徐艺洋难哄",
+        "onboard_time": 1689925174,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35302,
+        "num": 1530792,
+        "word": "成都大运会倒计时1周",
+        "onboard_time": 1689902431,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1458086,
+        "num": 1458086,
+        "word": "外媒评魏大勋",
+        "onboard_time": 1689925353,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 816981,
+        "num": 816981,
+        "word": "李佳琦与母亲合开新公司",
+        "onboard_time": 1689917912,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 655097,
+        "num": 655097,
+        "word": "做手工的要小心甲醛中毒",
+        "onboard_time": 1689925291,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604351,
+        "num": 604351,
+        "word": "孙悦发了好多图",
+        "onboard_time": 1689924512,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585734,
+        "num": 585734,
+        "word": "男孩收到研究生录取通知书时正在工地和水泥",
+        "onboard_time": 1689918393,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 583124,
+        "num": 583124,
+        "word": "这期奔跑吧收官有好多大实话",
+        "onboard_time": 1689922593,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437196,
+        "num": 571784,
+        "word": "00后以抑郁想自杀为由拒服兵役被罚",
+        "onboard_time": 1689910295,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047055,
+        "num": 570137,
+        "word": "原来许沁原著更疯批",
+        "onboard_time": 1689918512,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 568153,
+        "num": 568153,
+        "word": "许沁不敢向同事坦诚没车了",
+        "onboard_time": 1689912815,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556458,
+        "num": 556458,
+        "word": "杨颖见到了花钱买自拍照的人",
+        "onboard_time": 1689926073,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397316,
+        "num": 397316,
+        "word": "西安暴雨地铁为乘客免费送雨衣",
+        "onboard_time": 1689922952,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352207,
+        "num": 352207,
+        "word": "LPL夏季常规赛最佳阵容",
+        "onboard_time": 1689921932,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 487166,
+        "num": 351496,
+        "word": "玖月晞",
+        "onboard_time": 1689923790,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446003,
+        "num": 347826,
+        "word": "于正对魏大勋评价的变化",
+        "onboard_time": 1689926733,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342885,
+        "num": 342885,
+        "word": "卡琳娜cos刃",
+        "onboard_time": 1689919533,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332395,
+        "num": 332395,
+        "word": "山东一面包店推出知了猴面包",
+        "onboard_time": 1689927214,
+        "rank": 18,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 269638,
+        "num": 331928,
+        "word": "为什么河南家长会选择高考移民",
+        "onboard_time": 1689917313,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 642447,
+        "num": 323109,
+        "word": "iPhone羡慕安卓的功能",
+        "onboard_time": 1689922710,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 399027,
+        "num": 321262,
+        "word": "刘奕君儿子看父亲的剧ptsd了",
+        "onboard_time": 1689918632,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634728,
+        "num": 314321,
+        "word": "一直以为头油就要天天洗",
+        "onboard_time": 1689927154,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425778,
+        "num": 311671,
+        "word": "孃孃这是体检不是考试",
+        "onboard_time": 1689924271,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369685,
+        "num": 304548,
+        "word": "印2女子被强迫裸体游街还遭侵犯",
+        "onboard_time": 1689905431,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303803,
+        "num": 303803,
+        "word": "命运的齿轮开始转动",
+        "onboard_time": 1689926193,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303437,
+        "num": 303437,
+        "word": "白敬亭魏大勋情头",
+        "onboard_time": 1689920552,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275624,
+        "num": 275624,
+        "word": "男子钓鱼不慎把鱼钩甩女友鼻子上",
+        "onboard_time": 1689926613,
+        "rank": 27,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 276714,
+        "num": 274355,
+        "word": "范丞丞想和关晓彤演双海王互渣",
+        "onboard_time": 1689924871,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271078,
+        "num": 271078,
+        "word": "黄礼志录音时被朴振英骂哭",
+        "onboard_time": 1689924031,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 677338,
+        "num": 268418,
+        "word": "起猛了看见高铁进地铁站了",
+        "onboard_time": 1689926493,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259276,
+        "num": 259276,
+        "word": "合肥暴雨",
+        "onboard_time": 1689926251,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252506,
+        "num": 252506,
+        "word": "当卡琳娜的保镖是种什么体验",
+        "onboard_time": 1689926613,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 248182,
+        "num": 248182,
+        "word": "封神第一部票房破亿",
+        "onboard_time": 1689920252,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246840,
+        "num": 246840,
+        "word": "与首个辅助FMVP双向奔赴",
+        "onboard_time": 1689923551,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245656,
+        "num": 245656,
+        "word": "TFBOYS十周年演唱会座位图",
+        "onboard_time": 1689910894,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229977,
+        "num": 229977,
+        "word": "仙剑三豆瓣评分涨至9.0分",
+        "onboard_time": 1689917251,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228322,
+        "num": 228322,
+        "word": "杨洋王楚然杨超越版恶作剧之吻",
+        "onboard_time": 1689901294,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221812,
+        "num": 221812,
+        "word": "盗墓笔记是纪实文学",
+        "onboard_time": 1689926193,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213076,
+        "num": 213076,
+        "word": "原来花花的闹钟是小鸟做的",
+        "onboard_time": 1689919111,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225899,
+        "num": 212731,
+        "word": "李玟讣闻",
+        "onboard_time": 1689908973,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211866,
+        "num": 211866,
+        "word": "用洗脸巾的人是因为懒吗",
+        "onboard_time": 1689927574,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208390,
+        "num": 208390,
+        "word": "孟宴臣叫孟沁了",
+        "onboard_time": 1689903452,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206406,
+        "num": 206406,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1689923013,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193265,
+        "num": 193265,
+        "word": "有公司招不到人是很正常的",
+        "onboard_time": 1689925052,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191039,
+        "num": 191039,
+        "word": "人间烟火vs致命女人",
+        "onboard_time": 1689927394,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165067,
+        "num": 165067,
+        "word": "bw",
+        "onboard_time": 1689917433,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 156636,
+        "num": 164438,
+        "word": "张真源音乐剧",
+        "onboard_time": 1689922593,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149365,
+        "num": 163493,
+        "word": "小姨帮忙带娃喂奶一脸生无可恋",
+        "onboard_time": 1689923609,
+        "rank": 48,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 34529,
+        "num": 162221,
+        "word": "点外卖不小心暴露文化水平",
+        "onboard_time": 1689926134,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们党始终高度重视耕地保护问题#"
+    }
+  }
+}
