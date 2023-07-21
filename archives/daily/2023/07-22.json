@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689966818073,
+  "endTime": 1689968015642,
   "band_list": [
     {
       "raw_hot": 1465854,
@@ -403,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131229,
+      "num": 131229,
+      "word": "影帝届四大社恐",
+      "onboard_time": 1689964155,
+      "rank": 49,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 126390,
       "num": 183079,
       "word": "感受一下萨摩耶的含绒量",
       "onboard_time": 1689958825,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 123001,
-      "num": 80220,
-      "word": "影帝届四大社恐",
-      "onboard_time": 1689964155,
-      "rank": 49,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 116451,
@@ -491,8 +491,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42604,
+      "num": 42604,
+      "word": "肖战删了一句台词",
+      "onboard_time": 1689967574,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 36149,
-      "num": 44935,
+      "num": 48851,
       "word": "祖孙3人穿越警戒深水区洗澡遇险",
       "onboard_time": 1689966673,
       "rank": 39,
@@ -505,6 +513,14 @@
       "onboard_time": 1689939333,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 25383,
+      "num": 38263,
+      "word": "乘客突发心脏病公交抄近路开进医院",
+      "onboard_time": 1689966195,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
