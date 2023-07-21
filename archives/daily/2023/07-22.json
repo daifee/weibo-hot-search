@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689956534966,
+  "endTime": 1689957462837,
   "band_list": [
     {
       "raw_hot": 1465854,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 837569,
-      "num": 314925,
+      "num": 713615,
       "word": "TFBOYS演唱会官宣",
       "onboard_time": 1689942032,
       "rank": 10,
@@ -68,15 +68,15 @@
     },
     {
       "raw_hot": 714118,
-      "num": 314222,
+      "num": 619182,
       "word": "玉骨遥造型师回应任敏妆造",
       "onboard_time": 1689944200,
       "rank": 11,
       "category": "影视"
     },
     {
-      "raw_hot": 664551,
-      "num": 309129,
+      "raw_hot": 692167,
+      "num": 636793,
       "word": "跑男回应打错Angelababy范丞丞名字",
       "onboard_time": 1689954214,
       "rank": 12,
@@ -89,6 +89,14 @@
       "onboard_time": 1689945703,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635607,
+      "num": 635607,
+      "word": "他给四岁的女儿买了个冰淇淋",
+      "onboard_time": 1689954159,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 630710,
@@ -107,20 +115,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 574779,
+      "num": 291310,
+      "word": "亲生的阿瑟都不能上桌许沁凭什么窒息",
+      "onboard_time": 1689956551,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 566161,
       "num": 292128,
       "word": "莲花楼定档",
       "onboard_time": 1689950141,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 549570,
-      "num": 282100,
-      "word": "他给四岁的女儿买了个冰淇淋",
-      "onboard_time": 1689954159,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 523775,
@@ -163,7 +171,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 370643,
+      "raw_hot": 399637,
       "num": 282992,
       "word": "王俊凯王源易烊千玺转发十周年官宣微博",
       "onboard_time": 1689946721,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 261121,
-      "num": 300189,
+      "num": 637151,
       "word": "机器人给头颅8厘米早产儿做脑手术",
       "onboard_time": 1689951876,
       "rank": 15,
@@ -257,6 +265,22 @@
       "onboard_time": 1689952660,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241680,
+      "num": 211296,
+      "word": "娜然",
+      "onboard_time": 1689956427,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237741,
+      "num": 284795,
+      "word": "江苏浙江连发85条预警",
+      "onboard_time": 1689953616,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235054,
@@ -275,12 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233715,
-      "num": 284795,
-      "word": "江苏浙江连发85条预警",
-      "onboard_time": 1689953616,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 231586,
+      "num": 277271,
+      "word": "终于明白啥叫我们那时候可没你这条件",
+      "onboard_time": 1689954695,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 222423,
@@ -305,14 +329,6 @@
       "onboard_time": 1689946360,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206419,
-      "num": 277271,
-      "word": "终于明白啥叫我们那时候可没你这条件",
-      "onboard_time": 1689954695,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 202165,
@@ -395,7 +411,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21373,
+      "raw_hot": 26432,
       "num": 1177060,
       "word": "航天员出舱所有任务都是一次完成",
       "onboard_time": 1689939333,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#我们党始终高度重视耕地保护问题#"
+    },
+    {
+      "word": "#切实加强耕地保护全力提升耕地质量#"
     }
   ]
 }

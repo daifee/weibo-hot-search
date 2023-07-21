@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689956534966,
+  "endTime": 1689957462837,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -13211,6 +13211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692167,
+      "num": 636793,
+      "word": "跑男回应打错Angelababy范丞丞名字",
+      "onboard_time": 1689954214,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691748,
       "num": 691748,
       "word": "朱颜假死",
@@ -13913,14 +13921,6 @@
       "onboard_time": 1688698113,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 664551,
-      "num": 309129,
-      "word": "跑男回应打错Angelababy范丞丞名字",
-      "onboard_time": 1689954214,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 664434,
@@ -14849,6 +14849,14 @@
       "onboard_time": 1688636256,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 635607,
+      "num": 635607,
+      "word": "他给四岁的女儿买了个冰淇淋",
+      "onboard_time": 1689954159,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 635541,
@@ -16691,6 +16699,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 574779,
+      "num": 291310,
+      "word": "亲生的阿瑟都不能上桌许沁凭什么窒息",
+      "onboard_time": 1689956551,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 574599,
       "num": 378491,
       "word": "赵露思她超爱",
@@ -17633,14 +17649,6 @@
       "onboard_time": 1688876492,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549570,
-      "num": 282100,
-      "word": "他给四岁的女儿买了个冰淇淋",
-      "onboard_time": 1689954159,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 549241,
@@ -27604,7 +27612,7 @@
     },
     {
       "raw_hot": 353003,
-      "num": 353003,
+      "num": 637151,
       "word": "机器人给头颅8厘米早产儿做脑手术",
       "onboard_time": 1689951876,
       "rank": 38,
@@ -37435,6 +37443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241680,
+      "num": 211296,
+      "word": "娜然",
+      "onboard_time": 1689956427,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241620,
       "num": 241620,
       "word": "刚到公司vs工作一小时后",
@@ -37841,6 +37857,14 @@
       "onboard_time": 1688289331,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237741,
+      "num": 284795,
+      "word": "江苏浙江连发85条预警",
+      "onboard_time": 1689953616,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237707,
@@ -38299,14 +38323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233715,
-      "num": 284795,
-      "word": "江苏浙江连发85条预警",
-      "onboard_time": 1689953616,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233708,
       "num": 233708,
       "word": "白鹿粉色背带裤",
@@ -38544,6 +38560,14 @@
       "word": "这真的不是妲己吗",
       "onboard_time": 1689861095,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 231586,
+      "num": 277271,
+      "word": "终于明白啥叫我们那时候可没你这条件",
+      "onboard_time": 1689954695,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -41713,14 +41737,6 @@
       "onboard_time": 1688167523,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206419,
-      "num": 277271,
-      "word": "终于明白啥叫我们那时候可没你这条件",
-      "onboard_time": 1689954695,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 206384,
@@ -51435,6 +51451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26432,
+      "num": 1177060,
+      "word": "航天员出舱所有任务都是一次完成",
+      "onboard_time": 1689939333,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 25563,
       "num": 48822,
       "word": "GEN战胜T1",
@@ -51497,14 +51521,6 @@
       "onboard_time": 1688446840,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21373,
-      "num": 1177060,
-      "word": "航天员出舱所有任务都是一次完成",
-      "onboard_time": 1689939333,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 21314,
