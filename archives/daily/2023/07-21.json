@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689928457715,
+  "endTime": 1689930993541,
   "band_list": [
     {
       "raw_hot": 2605723,
@@ -75,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1783885,
+      "num": 1458086,
+      "word": "外媒评魏大勋",
+      "onboard_time": 1689925353,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1767691,
       "num": 1767691,
       "word": "范丞丞也在劝魏大勋",
       "onboard_time": 1689924151,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1741268,
-      "num": 1458086,
-      "word": "外媒评魏大勋",
-      "onboard_time": 1689925353,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1711132,
@@ -107,6 +107,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1667440,
+      "num": 1667440,
+      "word": "女主扁平化",
+      "onboard_time": 1689928954,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1654833,
+      "num": 700032,
+      "word": "肖战说假瓜吃多了拉肚子",
+      "onboard_time": 1689929200,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1560182,
       "num": 1560182,
       "word": "被北大录取女生分享经验强调没手机",
@@ -121,6 +137,14 @@
       "onboard_time": 1689864818,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1456942,
+      "num": 1456942,
+      "word": "起猛了看见高铁进地铁站了",
+      "onboard_time": 1689926493,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1290274,
@@ -243,11 +267,27 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 906577,
+      "num": 906577,
+      "word": "深圳一工程师被迫辞职讨薪时坠亡",
+      "onboard_time": 1689928593,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897579,
       "num": 897579,
       "word": "许沁的虎扑评分",
       "onboard_time": 1689914257,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 893531,
+      "num": 893531,
+      "word": "魏大勋刘亦菲合作过南烟斋笔录",
+      "onboard_time": 1689929073,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -307,12 +347,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 857271,
-      "num": 525089,
-      "word": "起猛了看见高铁进地铁站了",
-      "onboard_time": 1689926493,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 835499,
+      "num": 835499,
+      "word": "山东一面包店推出知了猴面包",
+      "onboard_time": 1689927214,
+      "rank": 18,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 830347,
@@ -393,6 +433,22 @@
       "onboard_time": 1689900453,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 721083,
+      "num": 721083,
+      "word": "台湾一女大学生被高坠空调外机砸死",
+      "onboard_time": 1689928652,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703737,
+      "num": 703737,
+      "word": "TFBOYS官博在线",
+      "onboard_time": 1689929073,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 678377,
@@ -515,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575112,
+      "num": 575112,
+      "word": "黄晓明和小海绵现身机场",
+      "onboard_time": 1689929433,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574784,
       "num": 263585,
       "word": "新婚妻子车祸昏迷7天丈夫忍痛拔管",
@@ -553,14 +617,6 @@
       "onboard_time": 1689855453,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 559045,
-      "num": 559045,
-      "word": "山东一面包店推出知了猴面包",
-      "onboard_time": 1689927214,
-      "rank": 18,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 558911,
@@ -625,6 +681,30 @@
       "onboard_time": 1689908131,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 505071,
+      "num": 421606,
+      "word": "人间烟火vs致命女人",
+      "onboard_time": 1689927394,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 499919,
+      "num": 347764,
+      "word": "长相思定档",
+      "onboard_time": 1689930875,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 495393,
+      "num": 495393,
+      "word": "上海暴雨",
+      "onboard_time": 1689930630,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495136,
@@ -699,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 442761,
+      "num": 286223,
+      "word": "芭比 女性主义",
+      "onboard_time": 1689928414,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437358,
       "num": 277277,
       "word": "封神新妲己出场镜头",
@@ -721,14 +809,6 @@
       "onboard_time": 1689924271,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 421606,
-      "num": 421606,
-      "word": "人间烟火vs致命女人",
-      "onboard_time": 1689927394,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 418400,
@@ -849,6 +929,14 @@
       "onboard_time": 1689926613,
       "rank": 27,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 313772,
+      "num": 285949,
+      "word": "许沁第一反应不是该生气吗",
+      "onboard_time": 1689930154,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 311946,
@@ -1075,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261276,
+      "num": 261276,
+      "word": "蔡依林的开场大面具减肥成功",
+      "onboard_time": 1689929735,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259276,
       "num": 259276,
       "word": "合肥暴雨",
@@ -1115,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251225,
+      "num": 251225,
+      "word": "许沁vs朱锁锁",
+      "onboard_time": 1689930216,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251090,
       "num": 251090,
       "word": "口腔科并不是拔鱼刺的科室",
@@ -1137,6 +1241,14 @@
       "onboard_time": 1689923551,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244508,
+      "num": 252384,
+      "word": "警方通报一老人持斧追砍两小孩",
+      "onboard_time": 1689930754,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241888,
@@ -1179,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238860,
+      "num": 238860,
+      "word": "大家都是工作多久开始存钱的",
+      "onboard_time": 1689928113,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236732,
       "num": 257900,
       "word": "纸嫁衣5无间梦境",
@@ -1208,6 +1328,14 @@
       "word": "榴莲壳上白色的肉也很好吃",
       "onboard_time": 1689900336,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 231995,
+      "num": 231995,
+      "word": "不要有任何分享欲",
+      "onboard_time": 1689930574,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -1299,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210012,
+      "num": 210012,
+      "word": "陈都灵朋克造型",
+      "onboard_time": 1689930216,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209802,
       "num": 209802,
       "word": "西瓜可乐泡饭",
@@ -1329,6 +1465,22 @@
       "onboard_time": 1689913536,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205410,
+      "num": 205410,
+      "word": "浙FDL3988闯红灯违章已撤销",
+      "onboard_time": 1689930630,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201889,
+      "num": 201889,
+      "word": "西安成立调查组对回流生报名资格逐一核查",
+      "onboard_time": 1689930272,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 201829,
@@ -1379,6 +1531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197648,
+      "num": 197648,
+      "word": "美依礼芽bw现场六连唱跳",
+      "onboard_time": 1689929794,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196984,
       "num": 226890,
       "word": "云台山音乐节",
@@ -1416,14 +1576,6 @@
       "word": "电影燃冬角色特辑三人三面",
       "onboard_time": 1689908190,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 188995,
-      "num": 188995,
-      "word": "芭比 女性主义",
-      "onboard_time": 1689928414,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -1499,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172368,
+      "num": 172368,
+      "word": "Hero对战XYG",
+      "onboard_time": 1689929675,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170300,
       "num": 205370,
       "word": "陕西吴堡通报清廉餐有关问题",
@@ -1553,14 +1713,6 @@
       "onboard_time": 1689920612,
       "rank": 46,
       "category": "旅游,自然"
-    },
-    {
-      "raw_hot": 158263,
-      "num": 158263,
-      "word": "大家都是工作多久开始存钱的",
-      "onboard_time": 1689928113,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 149690,
