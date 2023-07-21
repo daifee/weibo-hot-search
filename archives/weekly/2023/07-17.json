@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689938044912,
+  "endTime": 1689939224932,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -1035,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1306693,
+      "num": 1306693,
+      "word": "沙溢告别奔跑吧",
+      "onboard_time": 1689933994,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1290274,
       "num": 980051,
       "word": "原来许沁原著更疯批",
@@ -1187,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1196621,
-      "num": 1196621,
-      "word": "沙溢告别奔跑吧",
-      "onboard_time": 1689933994,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1195788,
       "num": 1195788,
       "word": "韩国整容中心门口的鼻子墙",
@@ -1272,6 +1272,14 @@
       "word": "罗森",
       "onboard_time": 1689784410,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1162677,
+      "num": 1162677,
+      "word": "上海暴雨",
+      "onboard_time": 1689930630,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1784,14 +1792,6 @@
       "word": "虹桥火车站每天捡1袋子遗失的蓝牙耳机",
       "onboard_time": 1689519578,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 952147,
-      "num": 952147,
-      "word": "上海暴雨",
-      "onboard_time": 1689930630,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2587,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753407,
+      "num": 753407,
+      "word": "中建五局一项目经理工作群辱骂员工",
+      "onboard_time": 1689936756,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751123,
       "num": 751123,
       "word": "这期奔跑吧收官有好多大实话",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1689824255,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739490,
+      "num": 739490,
+      "word": "迪丽热巴海洋公主",
+      "onboard_time": 1689937774,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 737118,
@@ -4579,6 +4595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474808,
+      "num": 474808,
+      "word": "傲寒",
+      "onboard_time": 1689934954,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 473617,
       "num": 415158,
       "word": "现在再看杨洋王楚然李木戈翻答案之书",
@@ -4881,6 +4905,14 @@
       "onboard_time": 1689846992,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 450650,
+      "num": 450650,
+      "word": "NIP战胜RNG",
+      "onboard_time": 1689937472,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 450591,
@@ -5355,14 +5387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414618,
-      "num": 414618,
-      "word": "NIP战胜RNG",
-      "onboard_time": 1689937472,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 413810,
       "num": 413810,
       "word": "热烈",
@@ -5675,19 +5699,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394505,
+      "num": 394505,
+      "word": "许沁纸片人觉醒",
+      "onboard_time": 1689936214,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394367,
       "num": 394367,
       "word": "官方回应莱荣高铁事件",
       "onboard_time": 1689844471,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394332,
-      "num": 394332,
-      "word": "中建五局一项目经理工作群辱骂员工",
-      "onboard_time": 1689936756,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -5771,6 +5795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385621,
+      "num": 340325,
+      "word": "魏大勋回答为什么魏大勋这么帅",
+      "onboard_time": 1689936933,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385085,
       "num": 301292,
       "word": "买西瓜时听到的母子对话",
@@ -5819,14 +5851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383087,
-      "num": 340325,
-      "word": "魏大勋回答为什么魏大勋这么帅",
-      "onboard_time": 1689936933,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382744,
       "num": 382744,
       "word": "时代少年团或将全员录制你好星期六",
@@ -5873,14 +5897,6 @@
       "onboard_time": 1689750750,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378829,
-      "num": 378829,
-      "word": "傲寒",
-      "onboard_time": 1689934954,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 377928,
@@ -6480,14 +6496,6 @@
       "word": "林允演技",
       "onboard_time": 1689606815,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 341644,
-      "num": 328617,
-      "word": "许沁纸片人觉醒",
-      "onboard_time": 1689936214,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -7291,6 +7299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294429,
+      "num": 294429,
+      "word": "EXO新歌初一位",
+      "onboard_time": 1689938251,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293963,
       "num": 569536,
       "word": "山东人人都怕的生物",
@@ -7427,6 +7443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288501,
+      "num": 284803,
+      "word": "郑恺拖白鹿好像牛耕地",
+      "onboard_time": 1689936575,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288463,
       "num": 288463,
       "word": "AG战胜WB",
@@ -7545,6 +7569,14 @@
       "onboard_time": 1689832836,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284800,
+      "num": 284800,
+      "word": "迪丽热巴丝带马尾造型",
+      "onboard_time": 1689938492,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284434,
@@ -7811,14 +7843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273101,
-      "num": 273101,
-      "word": "郑恺拖白鹿好像牛耕地",
-      "onboard_time": 1689936575,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272599,
       "num": 272599,
       "word": "在川渝地区容易脱单吗",
@@ -8041,14 +8065,6 @@
       "onboard_time": 1689841114,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 262882,
-      "num": 262882,
-      "word": "迪丽热巴海洋公主",
-      "onboard_time": 1689937774,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 262725,
@@ -8353,6 +8369,14 @@
       "onboard_time": 1689523889,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248890,
+      "num": 248890,
+      "word": "日本的西瓜为什么那么贵",
+      "onboard_time": 1689938251,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 248745,
@@ -9491,6 +9515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204665,
+      "num": 202970,
+      "word": "芭比 高司令",
+      "onboard_time": 1689935734,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204624,
       "num": 310611,
       "word": "TTG战胜狼队",
@@ -9668,7 +9700,7 @@
     },
     {
       "raw_hot": 200492,
-      "num": 200492,
+      "num": 202975,
       "word": "武汉七彩祥云",
       "onboard_time": 1689936874,
       "rank": 44,
@@ -9817,6 +9849,14 @@
       "onboard_time": 1689581252,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197160,
+      "num": 202968,
+      "word": "天津泡泡岛音乐节",
+      "onboard_time": 1689938553,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 196984,
@@ -10091,14 +10131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189581,
-      "num": 199128,
-      "word": "芭比 高司令",
-      "onboard_time": 1689935734,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189341,
       "num": 414643,
       "word": "流水迢迢",
@@ -10219,6 +10251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184766,
+      "num": 202974,
+      "word": "Hero对战XYG",
+      "onboard_time": 1689929675,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184757,
       "num": 329037,
       "word": "2023乒超联赛",
@@ -10265,6 +10305,14 @@
       "onboard_time": 1689677792,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182115,
+      "num": 202972,
+      "word": "男孩痛哭跪谢回收空调师傅多给1000元",
+      "onboard_time": 1689938855,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182040,
@@ -10441,14 +10489,6 @@
       "onboard_time": 1689666393,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 172368,
-      "num": 172368,
-      "word": "Hero对战XYG",
-      "onboard_time": 1689929675,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 172223,

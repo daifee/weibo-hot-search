@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1689938044912,
+  "endTime": 1689939224932,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5027,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1306693,
+      "num": 1306693,
+      "word": "沙溢告别奔跑吧",
+      "onboard_time": 1689933994,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1304953,
       "num": 1304953,
       "word": "刘诗雯",
@@ -5675,14 +5683,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1196621,
-      "num": 1196621,
-      "word": "沙溢告别奔跑吧",
-      "onboard_time": 1689933994,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1196303,
       "num": 1196303,
       "word": "白敬亭这真的是你吗",
@@ -5961,6 +5961,14 @@
       "onboard_time": 1688655638,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1162677,
+      "num": 1162677,
+      "word": "上海暴雨",
+      "onboard_time": 1689930630,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1161869,
@@ -8169,14 +8177,6 @@
       "onboard_time": 1688780553,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 952147,
-      "num": 952147,
-      "word": "上海暴雨",
-      "onboard_time": 1689930630,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 951996,
@@ -11619,6 +11619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753407,
+      "num": 753407,
+      "word": "中建五局一项目经理工作群辱骂员工",
+      "onboard_time": 1689936756,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753015,
       "num": 753015,
       "word": "哥们你小说男主啊",
@@ -11857,6 +11865,14 @@
       "onboard_time": 1688443903,
       "rank": 32,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 739490,
+      "num": 739490,
+      "word": "迪丽热巴海洋公主",
+      "onboard_time": 1689937774,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 738000,
@@ -20083,6 +20099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474808,
+      "num": 474808,
+      "word": "傲寒",
+      "onboard_time": 1689934954,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 474009,
       "num": 474009,
       "word": "上海网红瑞士卷店员磨洋工引争议",
@@ -21321,6 +21345,14 @@
       "onboard_time": 1688304521,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450650,
+      "num": 450650,
+      "word": "NIP战胜RNG",
+      "onboard_time": 1689937472,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 450591,
@@ -23307,14 +23339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414618,
-      "num": 414618,
-      "word": "NIP战胜RNG",
-      "onboard_time": 1689937472,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 413894,
       "num": 413894,
       "word": "玉骨遥直接跳到第8集",
@@ -24435,6 +24459,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 394505,
+      "num": 394505,
+      "word": "许沁纸片人觉醒",
+      "onboard_time": 1689936214,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394492,
       "num": 394492,
       "word": "韩旭我的神",
@@ -24448,14 +24480,6 @@
       "word": "官方回应莱荣高铁事件",
       "onboard_time": 1689844471,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394332,
-      "num": 394332,
-      "word": "中建五局一项目经理工作群辱骂员工",
-      "onboard_time": 1689936756,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -24931,6 +24955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385621,
+      "num": 340325,
+      "word": "魏大勋回答为什么魏大勋这么帅",
+      "onboard_time": 1689936933,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385618,
       "num": 310701,
       "word": "单位里过得最舒服的一种人",
@@ -25081,14 +25113,6 @@
       "onboard_time": 1688368786,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383087,
-      "num": 340325,
-      "word": "魏大勋回答为什么魏大勋这么帅",
-      "onboard_time": 1689936933,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 382973,
@@ -25377,14 +25401,6 @@
       "onboard_time": 1689339882,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 378829,
-      "num": 378829,
-      "word": "傲寒",
-      "onboard_time": 1689934954,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 378759,
@@ -27801,14 +27817,6 @@
       "onboard_time": 1688718634,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 341644,
-      "num": 328617,
-      "word": "许沁纸片人觉醒",
-      "onboard_time": 1689936214,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 341641,
@@ -31627,6 +31635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294429,
+      "num": 294429,
+      "word": "EXO新歌初一位",
+      "onboard_time": 1689938251,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294408,
       "num": 294408,
       "word": "工人高温修空调女子留吃饭多给200元",
@@ -32195,6 +32211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288501,
+      "num": 284803,
+      "word": "郑恺拖白鹿好像牛耕地",
+      "onboard_time": 1689936575,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288484,
       "num": 288484,
       "word": "种地吧第二季是要进厂了吗",
@@ -32553,6 +32577,14 @@
       "onboard_time": 1689067655,
       "rank": 34,
       "category": "社会议题,艺人"
+    },
+    {
+      "raw_hot": 284800,
+      "num": 284800,
+      "word": "迪丽热巴丝带马尾造型",
+      "onboard_time": 1689938492,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284738,
@@ -33611,14 +33643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 273101,
-      "num": 273101,
-      "word": "郑恺拖白鹿好像牛耕地",
-      "onboard_time": 1689936575,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273057,
       "num": 273057,
       "word": "江西于都一男子杀害3儿童",
@@ -34601,14 +34625,6 @@
       "onboard_time": 1689477454,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 262882,
-      "num": 262882,
-      "word": "迪丽热巴海洋公主",
-      "onboard_time": 1689937774,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 262876,
@@ -36105,6 +36121,14 @@
       "onboard_time": 1688291133,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248890,
+      "num": 248890,
+      "word": "日本的西瓜为什么那么贵",
+      "onboard_time": 1689938251,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 248848,
@@ -41275,6 +41299,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 204665,
+      "num": 202970,
+      "word": "芭比 高司令",
+      "onboard_time": 1689935734,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204661,
       "num": 204661,
       "word": "TTG首发",
@@ -41908,7 +41940,7 @@
     },
     {
       "raw_hot": 200492,
-      "num": 200492,
+      "num": 202975,
       "word": "武汉七彩祥云",
       "onboard_time": 1689936874,
       "rank": 44,
@@ -42392,6 +42424,14 @@
       "word": "Lauv佛山演唱会",
       "onboard_time": 1689143312,
       "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 197160,
+      "num": 202968,
+      "word": "天津泡泡岛音乐节",
+      "onboard_time": 1689938553,
+      "rank": 42,
       "category": "音乐"
     },
     {
@@ -43539,14 +43579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189581,
-      "num": 199128,
-      "word": "芭比 高司令",
-      "onboard_time": 1689935734,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189480,
       "num": 201765,
       "word": "颜心记女主得了怪病会变身",
@@ -44336,6 +44368,14 @@
       "word": "寿光菜农外出教人种菜月入过万",
       "onboard_time": 1688275893,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182115,
+      "num": 202972,
+      "word": "男孩痛哭跪谢回收空调师傅多给1000元",
+      "onboard_time": 1689938855,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
