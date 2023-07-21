@@ -1,22 +1,30 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689906989080,
+  "endTime": 1689907514759,
   "band_list": [
     {
       "raw_hot": 2359745,
-      "num": 383311,
+      "num": 467134,
       "word": "敦煌骆驼疑似被人骑死了",
       "onboard_time": 1689898889,
       "rank": 10,
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 2017780,
-      "num": 2017780,
+      "raw_hot": 2196054,
+      "num": 2196054,
       "word": "孟宴臣叫孟沁了",
       "onboard_time": 1689903452,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2104587,
+      "num": 471837,
+      "word": "印2女子被强迫裸体游街还遭侵犯",
+      "onboard_time": 1689905431,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1788928,
@@ -33,14 +41,6 @@
       "onboard_time": 1689900574,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1590185,
-      "num": 341354,
-      "word": "印2女子被强迫裸体游街还遭侵犯",
-      "onboard_time": 1689905431,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1560182,
@@ -196,15 +196,23 @@
     },
     {
       "raw_hot": 757062,
-      "num": 354279,
+      "num": 430175,
       "word": "Angelababy小水同框合影",
       "onboard_time": 1689898950,
       "rank": 15,
       "category": "艺人"
     },
     {
+      "raw_hot": 753780,
+      "num": 753780,
+      "word": "杀不死的石家庄",
+      "onboard_time": 1689903691,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725439,
-      "num": 353430,
+      "num": 455672,
       "word": "狗头萝莉",
       "onboard_time": 1689900453,
       "rank": 16,
@@ -219,20 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 646626,
-      "num": 646626,
-      "word": "杀不死的石家庄",
-      "onboard_time": 1689903691,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603202,
       "num": 450287,
       "word": "街道办回应狗头萝莉卖煎饼遭举报",
       "onboard_time": 1689867097,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 581597,
+      "num": 457560,
+      "word": "邓亚萍通过儿子了解电竞",
+      "onboard_time": 1689903630,
+      "rank": 35,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 574784,
@@ -283,24 +291,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 481291,
-      "num": 429890,
+      "raw_hot": 487033,
+      "num": 449048,
       "word": "郭京飞微博后缀连起来是圆周率",
       "onboard_time": 1689903394,
       "rank": 7,
       "category": "影视"
     },
     {
-      "raw_hot": 476957,
-      "num": 329264,
-      "word": "邓亚萍通过儿子了解电竞",
-      "onboard_time": 1689903630,
-      "rank": 35,
-      "category": "综艺,游戏"
+      "raw_hot": 477891,
+      "num": 477891,
+      "word": "飞机延误6小时工作人员发现金补贴",
+      "onboard_time": 1689905191,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473254,
-      "num": 338543,
+      "num": 357265,
       "word": "男孩在家烧书引起失火从18楼跳下",
       "onboard_time": 1689895945,
       "rank": 30,
@@ -419,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 343025,
-      "num": 343025,
-      "word": "飞机延误6小时工作人员发现金补贴",
-      "onboard_time": 1689905191,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336061,
       "num": 259693,
       "word": "况三喜直播",
@@ -449,6 +449,14 @@
       "onboard_time": 1689869071,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311946,
+      "num": 293116,
+      "word": "夏阳 钟嘉诚",
+      "onboard_time": 1689903273,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 307941,
@@ -505,14 +513,6 @@
       "onboard_time": 1689862835,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283137,
-      "num": 249745,
-      "word": "夏阳 钟嘉诚",
-      "onboard_time": 1689903273,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 281411,
@@ -593,6 +593,14 @@
       "onboard_time": 1689894385,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257909,
+      "num": 257909,
+      "word": "种地吧",
+      "onboard_time": 1689906030,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 257505,
@@ -707,14 +715,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 207357,
-      "num": 186044,
-      "word": "种地吧",
-      "onboard_time": 1689906030,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201829,
       "num": 201829,
       "word": "BW2023",
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 167376,
-      "num": 167376,
+      "num": 190037,
       "word": "俄军打击敖德萨和尼古拉耶夫附近军事设施",
       "onboard_time": 1689898830,
       "rank": 42,
@@ -811,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161416,
+      "num": 190037,
+      "word": "男孩利用杠杆原理帮建筑工父亲铺瓷砖",
+      "onboard_time": 1689906870,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 149690,
       "num": 259937,
       "word": "这粽子只有云南才有吗",
@@ -825,6 +833,14 @@
       "onboard_time": 1689899612,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146082,
+      "num": 190034,
+      "word": "椰树总部外观",
+      "onboard_time": 1689907353,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143177,

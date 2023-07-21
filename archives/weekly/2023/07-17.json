@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689906989080,
+  "endTime": 1689907514759,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 2359745,
-      "num": 383311,
+      "num": 467134,
       "word": "敦煌骆驼疑似被人骑死了",
       "onboard_time": 1689898889,
       "rank": 10,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2196054,
+      "num": 2196054,
+      "word": "孟宴臣叫孟沁了",
+      "onboard_time": 1689903452,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2170887,
       "num": 766626,
       "word": "刘恺威带小糯米外出",
@@ -345,6 +353,14 @@
       "onboard_time": 1689753512,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2104587,
+      "num": 471837,
+      "word": "印2女子被强迫裸体游街还遭侵犯",
+      "onboard_time": 1689905431,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2098977,
@@ -409,14 +425,6 @@
       "onboard_time": 1689771272,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2017780,
-      "num": 2017780,
-      "word": "孟宴臣叫孟沁了",
-      "onboard_time": 1689903452,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1975322,
@@ -704,14 +712,6 @@
       "word": "9岁女生胃里取出1斤多头发",
       "onboard_time": 1689677159,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1590185,
-      "num": 341354,
-      "word": "印2女子被强迫裸体游街还遭侵犯",
-      "onboard_time": 1689905431,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2308,11 +2308,19 @@
     },
     {
       "raw_hot": 757062,
-      "num": 354279,
+      "num": 430175,
       "word": "Angelababy小水同框合影",
       "onboard_time": 1689898950,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 753780,
+      "num": 753780,
+      "word": "杀不死的石家庄",
+      "onboard_time": 1689903691,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 747555,
@@ -2420,7 +2428,7 @@
     },
     {
       "raw_hot": 725439,
-      "num": 353430,
+      "num": 455672,
       "word": "狗头萝莉",
       "onboard_time": 1689900453,
       "rank": 16,
@@ -2851,14 +2859,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 646626,
-      "num": 646626,
-      "word": "杀不死的石家庄",
-      "onboard_time": 1689903691,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 646331,
       "num": 646331,
       "word": "西安关于TFBOYS灯牌的态度",
@@ -3281,6 +3281,14 @@
       "onboard_time": 1689661710,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581597,
+      "num": 457560,
+      "word": "邓亚萍通过儿子了解电竞",
+      "onboard_time": 1689903630,
+      "rank": 35,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 581225,
@@ -4011,6 +4019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487033,
+      "num": 449048,
+      "word": "郭京飞微博后缀连起来是圆周率",
+      "onboard_time": 1689903394,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486332,
       "num": 400638,
       "word": "法老直播",
@@ -4043,14 +4059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 481291,
-      "num": 429890,
-      "word": "郭京飞微博后缀连起来是圆周率",
-      "onboard_time": 1689903394,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 481053,
       "num": 275849,
       "word": "女子无痕撤回一坨冰淇淋",
@@ -4059,12 +4067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476957,
-      "num": 329264,
-      "word": "邓亚萍通过儿子了解电竞",
-      "onboard_time": 1689903630,
-      "rank": 35,
-      "category": "综艺,游戏"
+      "raw_hot": 477891,
+      "num": 477891,
+      "word": "飞机延误6小时工作人员发现金补贴",
+      "onboard_time": 1689905191,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475813,
@@ -4092,7 +4100,7 @@
     },
     {
       "raw_hot": 473254,
-      "num": 338543,
+      "num": 357265,
       "word": "男孩在家烧书引起失火从18楼跳下",
       "onboard_time": 1689895945,
       "rank": 30,
@@ -5835,14 +5843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 343025,
-      "num": 343025,
-      "word": "飞机延误6小时工作人员发现金补贴",
-      "onboard_time": 1689905191,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343020,
       "num": 343020,
       "word": "黄薇审美",
@@ -6313,6 +6313,14 @@
       "onboard_time": 1689755191,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311946,
+      "num": 293116,
+      "word": "夏阳 钟嘉诚",
+      "onboard_time": 1689903273,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 311471,
@@ -6833,14 +6841,6 @@
       "onboard_time": 1689551488,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 283137,
-      "num": 249745,
-      "word": "夏阳 钟嘉诚",
-      "onboard_time": 1689903273,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 282672,
@@ -9532,7 +9532,7 @@
     },
     {
       "raw_hot": 167376,
-      "num": 167376,
+      "num": 190037,
       "word": "俄军打击敖德萨和尼古拉耶夫附近军事设施",
       "onboard_time": 1689898830,
       "rank": 42,
@@ -9585,6 +9585,14 @@
       "onboard_time": 1689591210,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161416,
+      "num": 190037,
+      "word": "男孩利用杠杆原理帮建筑工父亲铺瓷砖",
+      "onboard_time": 1689906870,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 161285,
@@ -9849,6 +9857,14 @@
       "onboard_time": 1689727411,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146082,
+      "num": 190034,
+      "word": "椰树总部外观",
+      "onboard_time": 1689907353,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145896,
