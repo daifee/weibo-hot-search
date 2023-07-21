@@ -1,0 +1,410 @@
+{
+  "runTime": 1689923745320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1656476,
+        "num": 1656476,
+        "word": "李佳琦与母亲合开新公司",
+        "onboard_time": 1689917912,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1480182,
+        "num": 1480182,
+        "word": "许沁不敢向同事坦诚没车了",
+        "onboard_time": 1689912815,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24376,
+        "num": 1044605,
+        "word": "成都大运会倒计时1周",
+        "onboard_time": 1689902431,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 982391,
+        "num": 982391,
+        "word": "刘奕君儿子看父亲的剧ptsd了",
+        "onboard_time": 1689918632,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1289886,
+        "num": 980051,
+        "word": "原来许沁原著更疯批",
+        "onboard_time": 1689918512,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 881915,
+        "num": 881915,
+        "word": "男孩收到研究生录取通知书时正在工地和水泥",
+        "onboard_time": 1689918393,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 734599,
+        "num": 734599,
+        "word": "00后以抑郁想自杀为由拒服兵役被罚",
+        "onboard_time": 1689910295,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614945,
+        "num": 614945,
+        "word": "bw",
+        "onboard_time": 1689917433,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 592945,
+        "num": 592945,
+        "word": "封神第一部票房破亿",
+        "onboard_time": 1689920252,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532744,
+        "num": 532744,
+        "word": "这期奔跑吧收官有好多大实话",
+        "onboard_time": 1689922593,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495136,
+        "num": 495136,
+        "word": "LPL夏季常规赛最佳阵容",
+        "onboard_time": 1689921932,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 494376,
+        "num": 494376,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1689923013,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477968,
+        "num": 477968,
+        "word": "卡琳娜cos刃",
+        "onboard_time": 1689919533,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 448433,
+        "num": 448433,
+        "word": "原来花花的闹钟是小鸟做的",
+        "onboard_time": 1689919111,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436671,
+        "num": 436671,
+        "word": "孟宴臣叫孟沁了",
+        "onboard_time": 1689903452,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404905,
+        "num": 404905,
+        "word": "李玟讣闻",
+        "onboard_time": 1689908973,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399679,
+        "num": 399679,
+        "word": "TFBOYS十周年演唱会座位图",
+        "onboard_time": 1689910894,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379509,
+        "num": 379509,
+        "word": "杨洋王楚然杨超越版恶作剧之吻",
+        "onboard_time": 1689901294,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341492,
+        "num": 341492,
+        "word": "为什么河南家长会选择高考移民",
+        "onboard_time": 1689917313,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 233869,
+        "num": 341298,
+        "word": "敦煌骆驼疑似被人骑死了",
+        "onboard_time": 1689898889,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636653,
+        "num": 340344,
+        "word": "白敬亭魏大勋情头",
+        "onboard_time": 1689920552,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529797,
+        "num": 339544,
+        "word": "印2女子被强迫裸体游街还遭侵犯",
+        "onboard_time": 1689905431,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511164,
+        "num": 338890,
+        "word": "iPhone羡慕安卓的功能",
+        "onboard_time": 1689922710,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385297,
+        "num": 338526,
+        "word": "仙剑三豆瓣评分涨至9.0分",
+        "onboard_time": 1689917251,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252087,
+        "num": 337171,
+        "word": "男子穿漏洞鞋开车被扣3分罚100",
+        "onboard_time": 1689917794,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337111,
+        "num": 337111,
+        "word": "许沁的虎扑评分",
+        "onboard_time": 1689914257,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272595,
+        "num": 272595,
+        "word": "周杰伦演唱会 猫眼",
+        "onboard_time": 1689911854,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269592,
+        "num": 269592,
+        "word": "芭比剧本是如何通过的",
+        "onboard_time": 1689919173,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241725,
+        "num": 241725,
+        "word": "孩子躺游戏车前遭亲戚家孩子碾压",
+        "onboard_time": 1689920915,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221700,
+        "num": 221700,
+        "word": "口腔科并不是拔鱼刺的科室",
+        "onboard_time": 1689916895,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260947,
+        "num": 221442,
+        "word": "中餐厅7变了",
+        "onboard_time": 1689911193,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215238,
+        "num": 215238,
+        "word": "小姨帮忙带娃喂奶一脸生无可恋",
+        "onboard_time": 1689923609,
+        "rank": 31,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 201297,
+        "num": 201297,
+        "word": "LPL最佳新秀Tangyuan",
+        "onboard_time": 1689921094,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198834,
+        "num": 198834,
+        "word": "张真源音乐剧",
+        "onboard_time": 1689922593,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198538,
+        "num": 198538,
+        "word": "asap",
+        "onboard_time": 1689913898,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198031,
+        "num": 198031,
+        "word": "与首个辅助FMVP双向奔赴",
+        "onboard_time": 1689923551,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5026,
+        "num": 190912,
+        "word": "要促进民营经济做大做优做强",
+        "onboard_time": 1689860616,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187212,
+        "num": 187212,
+        "word": "张一山不跟张俪演戏的原因",
+        "onboard_time": 1689900395,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184468,
+        "num": 184468,
+        "word": "刘昊然是不是该刮胡子了",
+        "onboard_time": 1689914918,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177618,
+        "num": 177618,
+        "word": "王者峡谷出现手机",
+        "onboard_time": 1689911554,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183130,
+        "num": 177543,
+        "word": "周杰伦天津演唱会抢票",
+        "onboard_time": 1689913232,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177080,
+        "num": 177080,
+        "word": "Angelababy迪丽热巴芭比造型",
+        "onboard_time": 1689908131,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 175349,
+        "num": 175349,
+        "word": "乘风之夜芭莎收官大片",
+        "onboard_time": 1689919473,
+        "rank": 42,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 173683,
+        "num": 173683,
+        "word": "热烈路演",
+        "onboard_time": 1689923072,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165126,
+        "num": 165126,
+        "word": "邓亚萍通过儿子了解电竞",
+        "onboard_time": 1689903630,
+        "rank": 44,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 159814,
+        "num": 159814,
+        "word": "潮水退去钱塘江露出大地之树",
+        "onboard_time": 1689920612,
+        "rank": 45,
+        "category": "旅游,自然"
+      },
+      {
+        "raw_hot": 159528,
+        "num": 159528,
+        "word": "6个月宝宝为逃避抽血顽强装睡",
+        "onboard_time": 1689914558,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 143344,
+        "num": 159367,
+        "word": "成年人早醒是衰老的表现",
+        "onboard_time": 1689899192,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24070,
+        "num": 158841,
+        "word": "暴雨天如何避险自救",
+        "onboard_time": 1689923428,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142864,
+        "num": 158408,
+        "word": "西安暴雨地铁为乘客免费送雨衣",
+        "onboard_time": 1689922952,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们党始终高度重视耕地保护问题#"
+    }
+  }
+}

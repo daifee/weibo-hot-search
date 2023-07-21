@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689921309758,
+  "endTime": 1689923745320,
   "band_list": [
     {
       "raw_hot": 2605723,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1289886,
+      "num": 980051,
+      "word": "原来许沁原著更疯批",
+      "onboard_time": 1689918512,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1287037,
       "num": 1287037,
       "word": "孟宴臣 叶子",
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 982391,
+      "num": 982391,
+      "word": "刘奕君儿子看父亲的剧ptsd了",
+      "onboard_time": 1689918632,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 919435,
       "num": 919435,
       "word": "地球连续35年收到神秘规律性信号",
       "onboard_time": 1689864218,
       "rank": 1,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 898234,
-      "num": 898234,
-      "word": "刘奕君儿子看父亲的剧ptsd了",
-      "onboard_time": 1689918632,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 897579,
@@ -241,6 +249,14 @@
       "onboard_time": 1689903691,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881915,
+      "num": 881915,
+      "word": "男孩收到研究生录取通知书时正在工地和水泥",
+      "onboard_time": 1689918393,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 881695,
@@ -323,14 +339,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 713730,
-      "num": 713730,
-      "word": "男孩收到研究生录取通知书时正在工地和水泥",
-      "onboard_time": 1689918393,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 678377,
       "num": 678377,
       "word": "重庆暴雨",
@@ -355,12 +363,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 657396,
-      "num": 657396,
-      "word": "原来许沁原著更疯批",
-      "onboard_time": 1689918512,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 636653,
+      "num": 340344,
+      "word": "白敬亭魏大勋情头",
+      "onboard_time": 1689920552,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 634762,
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614945,
+      "num": 614945,
+      "word": "bw",
+      "onboard_time": 1689917433,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 614419,
       "num": 342799,
       "word": "警方回应老人持斧头入室追砍两女孩",
@@ -393,6 +409,14 @@
       "onboard_time": 1689867097,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 592945,
+      "num": 592945,
+      "word": "封神第一部票房破亿",
+      "onboard_time": 1689920252,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 585310,
@@ -459,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 532744,
+      "num": 532744,
+      "word": "这期奔跑吧收官有好多大实话",
+      "onboard_time": 1689922593,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522316,
       "num": 344992,
       "word": "警方通报男子将妻子捅伤致死",
@@ -483,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 511164,
+      "num": 338890,
+      "word": "iPhone羡慕安卓的功能",
+      "onboard_time": 1689922710,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 508564,
       "num": 308235,
       "word": "Angelababy迪丽热巴芭比造型",
@@ -491,12 +531,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 496534,
-      "num": 496534,
-      "word": "bw",
-      "onboard_time": 1689917433,
-      "rank": 38,
-      "category": "动漫"
+      "raw_hot": 495136,
+      "num": 495136,
+      "word": "LPL夏季常规赛最佳阵容",
+      "onboard_time": 1689921932,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 494376,
+      "num": 494376,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1689923013,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 487033,
@@ -505,6 +553,14 @@
       "onboard_time": 1689903394,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 477968,
+      "num": 477968,
+      "word": "卡琳娜cos刃",
+      "onboard_time": 1689919533,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 473254,
@@ -547,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448433,
+      "num": 448433,
+      "word": "原来花花的闹钟是小鸟做的",
+      "onboard_time": 1689919111,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 437358,
       "num": 277277,
       "word": "封神新妲己出场镜头",
@@ -560,14 +624,6 @@
       "word": "这是许沁本来该过的生活吧",
       "onboard_time": 1689900813,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 419242,
-      "num": 381400,
-      "word": "封神第一部票房破亿",
-      "onboard_time": 1689920252,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -585,22 +641,6 @@
       "onboard_time": 1689837690,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408942,
-      "num": 408942,
-      "word": "原来花花的闹钟是小鸟做的",
-      "onboard_time": 1689919111,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 408928,
-      "num": 265881,
-      "word": "白敬亭魏大勋情头",
-      "onboard_time": 1689920552,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 390102,
@@ -635,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360275,
-      "num": 360275,
-      "word": "卡琳娜cos刃",
-      "onboard_time": 1689919533,
-      "rank": 19,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 358431,
       "num": 315712,
       "word": "打工人减肥每天爬21层楼月瘦13斤",
@@ -659,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 341492,
+      "num": 341492,
+      "word": "为什么河南家长会选择高考移民",
+      "onboard_time": 1689917313,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 336061,
       "num": 259693,
       "word": "况三喜直播",
@@ -673,14 +713,6 @@
       "onboard_time": 1689898830,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 332489,
-      "num": 322295,
-      "word": "为什么河南家长会选择高考移民",
-      "onboard_time": 1689917313,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 325083,
@@ -724,7 +756,7 @@
     },
     {
       "raw_hot": 306033,
-      "num": 306033,
+      "num": 337171,
       "word": "男子穿漏洞鞋开车被扣3分罚100",
       "onboard_time": 1689917794,
       "rank": 24,
@@ -931,6 +963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 241725,
+      "num": 241725,
+      "word": "孩子躺游戏车前遭亲戚家孩子碾压",
+      "onboard_time": 1689920915,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240475,
       "num": 240475,
       "word": "西安通报中考回流生事件",
@@ -951,14 +991,6 @@
       "num": 197138,
       "word": "新东方10亿成立文旅公司",
       "onboard_time": 1689881771,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238853,
-      "num": 238853,
-      "word": "孩子躺游戏车前遭亲戚家孩子碾压",
-      "onboard_time": 1689920915,
       "rank": 31,
       "category": "社会新闻"
     },
@@ -1033,6 +1065,14 @@
       "onboard_time": 1689898711,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 215238,
+      "num": 215238,
+      "word": "小姨帮忙带娃喂奶一脸生无可恋",
+      "onboard_time": 1689923609,
+      "rank": 31,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 213033,
@@ -1115,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201297,
+      "num": 201297,
+      "word": "LPL最佳新秀Tangyuan",
+      "onboard_time": 1689921094,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200251,
       "num": 226869,
       "word": "风月变",
@@ -1123,11 +1171,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198834,
+      "num": 198834,
+      "word": "张真源音乐剧",
+      "onboard_time": 1689922593,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198801,
       "num": 198801,
       "word": "无期迷途",
       "onboard_time": 1689906150,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 198031,
+      "num": 198031,
+      "word": "与首个辅助FMVP双向奔赴",
+      "onboard_time": 1689923551,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -1153,14 +1217,6 @@
       "onboard_time": 1689896846,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190986,
-      "num": 190986,
-      "word": "LPL最佳新秀Tangyuan",
-      "onboard_time": 1689921094,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 190150,
@@ -1227,12 +1283,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 172324,
+      "raw_hot": 175349,
       "num": 203478,
       "word": "乘风之夜芭莎收官大片",
       "onboard_time": 1689919473,
       "rank": 40,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 173683,
+      "num": 173683,
+      "word": "热烈路演",
+      "onboard_time": 1689923072,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 170300,
@@ -1305,6 +1369,14 @@
       "onboard_time": 1689867574,
       "rank": 39,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 142864,
+      "num": 158408,
+      "word": "西安暴雨地铁为乘客免费送雨衣",
+      "onboard_time": 1689922952,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139226,
@@ -1473,6 +1545,22 @@
       "onboard_time": 1689734129,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 24376,
+      "num": 1044605,
+      "word": "成都大运会倒计时1周",
+      "onboard_time": 1689902431,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24070,
+      "num": 158841,
+      "word": "暴雨天如何避险自救",
+      "onboard_time": 1689923428,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1487,6 +1575,9 @@
     },
     {
       "word": "#成都大运会倒计时1周#"
+    },
+    {
+      "word": "#我们党始终高度重视耕地保护问题#"
     }
   ]
 }
