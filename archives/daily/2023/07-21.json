@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689923745320,
+  "endTime": 1689924821341,
   "band_list": [
     {
       "raw_hot": 2605723,
@@ -99,7 +99,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1289886,
+      "raw_hot": 1290274,
       "num": 980051,
       "word": "原来许沁原著更疯批",
       "onboard_time": 1689918512,
@@ -315,12 +315,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 767832,
+      "num": 357124,
+      "word": "iPhone羡慕安卓的功能",
+      "onboard_time": 1689922710,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 757062,
       "num": 430175,
       "word": "Angelababy小水同框合影",
       "onboard_time": 1689898950,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 751123,
+      "num": 751123,
+      "word": "这期奔跑吧收官有好多大实话",
+      "onboard_time": 1689922593,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 741685,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668430,
+      "num": 483607,
+      "word": "范丞丞也在劝魏大勋",
+      "onboard_time": 1689924151,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 665925,
       "num": 325712,
       "word": "社交冷漠症",
@@ -363,8 +387,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 636653,
-      "num": 340344,
+      "raw_hot": 639672,
+      "num": 357118,
       "word": "白敬亭魏大勋情头",
       "onboard_time": 1689920552,
       "rank": 26,
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609160,
+      "num": 609160,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1689923013,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 603202,
       "num": 450287,
       "word": "街道办回应狗头萝莉卖煎饼遭举报",
@@ -433,6 +465,14 @@
       "onboard_time": 1689861996,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574240,
+      "num": 574240,
+      "word": "玖月晞",
+      "onboard_time": 1689923790,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 573029,
@@ -483,14 +523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 532744,
-      "num": 532744,
-      "word": "这期奔跑吧收官有好多大实话",
-      "onboard_time": 1689922593,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 522316,
       "num": 344992,
       "word": "警方通报男子将妻子捅伤致死",
@@ -515,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 511164,
-      "num": 338890,
-      "word": "iPhone羡慕安卓的功能",
-      "onboard_time": 1689922710,
-      "rank": 22,
-      "category": "科技"
-    },
-    {
       "raw_hot": 508564,
       "num": 308235,
       "word": "Angelababy迪丽热巴芭比造型",
@@ -537,14 +561,6 @@
       "onboard_time": 1689921932,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 494376,
-      "num": 494376,
-      "word": "蔡依林演唱会",
-      "onboard_time": 1689923013,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 487033,
@@ -667,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369103,
+      "num": 369103,
+      "word": "西安暴雨地铁为乘客免费送雨衣",
+      "onboard_time": 1689922952,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365537,
       "num": 262481,
       "word": "男子自曝想加女生微信误碰大腿被拘",
@@ -683,20 +707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357124,
+      "num": 357124,
+      "word": "为什么河南家长会选择高考移民",
+      "onboard_time": 1689917313,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 355616,
       "num": 312950,
       "word": "你的身体到底有多爱你",
       "onboard_time": 1689897088,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 341492,
-      "num": 341492,
-      "word": "为什么河南家长会选择高考移民",
-      "onboard_time": 1689917313,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 336061,
@@ -867,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272065,
+      "num": 272065,
+      "word": "黄礼志录音时被朴振英骂哭",
+      "onboard_time": 1689924031,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270429,
       "num": 270429,
       "word": "何蓝逗曹煜辰吻戏",
@@ -963,6 +995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 242458,
+      "num": 354519,
+      "word": "与首个辅助FMVP双向奔赴",
+      "onboard_time": 1689923551,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241725,
       "num": 241725,
       "word": "孩子躺游戏车前遭亲戚家孩子碾压",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1689910714,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234715,
+      "num": 234715,
+      "word": "孃孃这是体检不是考试",
+      "onboard_time": 1689924271,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 234628,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1689923609,
       "rank": 31,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 213710,
+      "num": 213710,
+      "word": "张真源音乐剧",
+      "onboard_time": 1689922593,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 213033,
@@ -1156,7 +1212,7 @@
     },
     {
       "raw_hot": 201297,
-      "num": 201297,
+      "num": 204904,
       "word": "LPL最佳新秀Tangyuan",
       "onboard_time": 1689921094,
       "rank": 38,
@@ -1171,27 +1227,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198834,
-      "num": 198834,
-      "word": "张真源音乐剧",
-      "onboard_time": 1689922593,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 198801,
       "num": 198801,
       "word": "无期迷途",
       "onboard_time": 1689906150,
       "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 198031,
-      "num": 198031,
-      "word": "与首个辅助FMVP双向奔赴",
-      "onboard_time": 1689923551,
-      "rank": 35,
       "category": "游戏"
     },
     {
@@ -1217,6 +1257,14 @@
       "onboard_time": 1689896846,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194751,
+      "num": 204991,
+      "word": "孙悦发了好多图",
+      "onboard_time": 1689924512,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 190150,
@@ -1284,7 +1332,7 @@
     },
     {
       "raw_hot": 175349,
-      "num": 203478,
+      "num": 204820,
       "word": "乘风之夜芭莎收官大片",
       "onboard_time": 1689919473,
       "rank": 40,
@@ -1340,7 +1388,7 @@
     },
     {
       "raw_hot": 162052,
-      "num": 162052,
+      "num": 204665,
       "word": "潮水退去钱塘江露出大地之树",
       "onboard_time": 1689920612,
       "rank": 46,
@@ -1371,12 +1419,12 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 142864,
-      "num": 158408,
-      "word": "西安暴雨地铁为乘客免费送雨衣",
-      "onboard_time": 1689922952,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 141916,
+      "num": 204758,
+      "word": "热烈",
+      "onboard_time": 1689921631,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 139226,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1689870207,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132508,
+      "num": 204700,
+      "word": "领导夹菜我伸碗",
+      "onboard_time": 1689923849,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 131172,
@@ -1547,7 +1603,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24376,
+      "raw_hot": 29698,
       "num": 1044605,
       "word": "成都大运会倒计时1周",
       "onboard_time": 1689902431,

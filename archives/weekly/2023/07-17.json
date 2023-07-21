@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689923745320,
+  "endTime": 1689924821341,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -971,7 +971,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1289886,
+      "raw_hot": 1290274,
       "num": 980051,
       "word": "原来许沁原著更疯批",
       "onboard_time": 1689918512,
@@ -2387,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 767832,
+      "num": 357124,
+      "word": "iPhone羡慕安卓的功能",
+      "onboard_time": 1689922710,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 767007,
       "num": 767007,
       "word": "外卖员可免费上四川三所大学",
@@ -2433,6 +2441,14 @@
       "onboard_time": 1689898950,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 751123,
+      "num": 751123,
+      "word": "这期奔跑吧收官有好多大实话",
+      "onboard_time": 1689922593,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 747555,
@@ -2843,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 668430,
+      "num": 483607,
+      "word": "范丞丞也在劝魏大勋",
+      "onboard_time": 1689924151,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 666594,
       "num": 666594,
       "word": "赵丽颖魏大勋一起拍过MV",
@@ -3035,6 +3059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639672,
+      "num": 357118,
+      "word": "白敬亭魏大勋情头",
+      "onboard_time": 1689920552,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 637872,
       "num": 637872,
       "word": "薛之谦演唱会烟花放了7分17秒",
@@ -3049,14 +3081,6 @@
       "onboard_time": 1689650491,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 636653,
-      "num": 340344,
-      "word": "白敬亭魏大勋情头",
-      "onboard_time": 1689920552,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 636405,
@@ -3249,6 +3273,14 @@
       "onboard_time": 1689757354,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 609160,
+      "num": 609160,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1689923013,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 608970,
@@ -3867,14 +3899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 532744,
-      "num": 532744,
-      "word": "这期奔跑吧收官有好多大实话",
-      "onboard_time": 1689922593,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 532131,
       "num": 532131,
       "word": "真的不要过度的去省钱",
@@ -4025,14 +4049,6 @@
       "onboard_time": 1689604357,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 511164,
-      "num": 338890,
-      "word": "iPhone羡慕安卓的功能",
-      "onboard_time": 1689922710,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 509513,
@@ -4193,14 +4209,6 @@
       "onboard_time": 1689665854,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 494376,
-      "num": 494376,
-      "word": "蔡依林演唱会",
-      "onboard_time": 1689923013,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 493688,
@@ -5651,6 +5659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369103,
+      "num": 369103,
+      "word": "西安暴雨地铁为乘客免费送雨衣",
+      "onboard_time": 1689922952,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368266,
       "num": 368266,
       "word": "顾漫简介加入骄阳似我下",
@@ -5865,6 +5881,14 @@
       "onboard_time": 1689584311,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 357124,
+      "num": 357124,
+      "word": "为什么河南家长会选择高考移民",
+      "onboard_time": 1689917313,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 356711,
@@ -6121,14 +6145,6 @@
       "onboard_time": 1689606815,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 341492,
-      "num": 341492,
-      "word": "为什么河南家长会选择高考移民",
-      "onboard_time": 1689917313,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 341428,
@@ -7411,6 +7427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272065,
+      "num": 272065,
+      "word": "黄礼志录音时被朴振英骂哭",
+      "onboard_time": 1689924031,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272003,
       "num": 272003,
       "word": "徐海东",
@@ -7963,6 +7987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242458,
+      "num": 354519,
+      "word": "与首个辅助FMVP双向奔赴",
+      "onboard_time": 1689923551,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241836,
       "num": 241836,
       "word": "马尾女孩会懂的烦恼",
@@ -8185,6 +8217,14 @@
       "onboard_time": 1689659610,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234715,
+      "num": 234715,
+      "word": "孃孃这是体检不是考试",
+      "onboard_time": 1689924271,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 234628,
@@ -8625,6 +8665,14 @@
       "onboard_time": 1689571291,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213710,
+      "num": 213710,
+      "word": "张真源音乐剧",
+      "onboard_time": 1689922593,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 213468,
@@ -9076,7 +9124,7 @@
     },
     {
       "raw_hot": 201297,
-      "num": 201297,
+      "num": 204904,
       "word": "LPL最佳新秀Tangyuan",
       "onboard_time": 1689921094,
       "rank": 38,
@@ -9195,14 +9243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198834,
-      "num": 198834,
-      "word": "张真源音乐剧",
-      "onboard_time": 1689922593,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 198801,
       "num": 198801,
       "word": "无期迷途",
@@ -9257,14 +9297,6 @@
       "onboard_time": 1689581252,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198031,
-      "num": 198031,
-      "word": "与首个辅助FMVP双向奔赴",
-      "onboard_time": 1689923551,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 196984,
@@ -9385,6 +9417,14 @@
       "onboard_time": 1689557848,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194751,
+      "num": 204991,
+      "word": "孙悦发了好多图",
+      "onboard_time": 1689924512,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 194610,
@@ -9812,7 +9852,7 @@
     },
     {
       "raw_hot": 175349,
-      "num": 203478,
+      "num": 204820,
       "word": "乘风之夜芭莎收官大片",
       "onboard_time": 1689919473,
       "rank": 40,
@@ -10100,7 +10140,7 @@
     },
     {
       "raw_hot": 162052,
-      "num": 162052,
+      "num": 204665,
       "word": "潮水退去钱塘江露出大地之树",
       "onboard_time": 1689920612,
       "rank": 46,
@@ -10411,14 +10451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142864,
-      "num": 158408,
-      "word": "西安暴雨地铁为乘客免费送雨衣",
-      "onboard_time": 1689922952,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142614,
       "num": 207626,
       "word": "爱不爱吃锅包肉的都沉默了",
@@ -10504,6 +10536,14 @@
       "word": "当家里的猫喜欢喝流动的水",
       "onboard_time": 1689610347,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 132508,
+      "num": 204700,
+      "word": "领导夹菜我伸碗",
+      "onboard_time": 1689923849,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -11179,6 +11219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29698,
+      "num": 1044605,
+      "word": "成都大运会倒计时1周",
+      "onboard_time": 1689902431,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29527,
       "num": 36578,
       "word": "怎么做到的自信",
@@ -11193,14 +11241,6 @@
       "onboard_time": 1689773137,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24376,
-      "num": 1044605,
-      "word": "成都大运会倒计时1周",
-      "onboard_time": 1689902431,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 24070,
