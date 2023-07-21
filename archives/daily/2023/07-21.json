@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689902926464,
+  "endTime": 1689904284341,
   "band_list": [
     {
       "raw_hot": 2359745,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1297307,
-      "num": 379025,
+      "num": 852640,
       "word": "陈妍希忘了删文案",
       "onboard_time": 1689900574,
       "rank": 11,
@@ -140,10 +140,18 @@
     },
     {
       "raw_hot": 864051,
-      "num": 554364,
+      "num": 644937,
       "word": "剧是一集没看气是一点没少生",
       "onboard_time": 1689894320,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 838408,
+      "num": 342158,
+      "word": "孟宴臣叫孟沁了",
+      "onboard_time": 1689903452,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 581526,
-      "num": 330039,
+      "num": 335632,
       "word": "杨洋王楚然杨超越版恶作剧之吻",
       "onboard_time": 1689901294,
       "rank": 22,
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463355,
+      "num": 322596,
+      "word": "HR教我怎么骗公司",
+      "onboard_time": 1689900336,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 453375,
       "num": 453375,
       "word": "西安暴雨",
@@ -307,20 +323,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429890,
+      "num": 429890,
+      "word": "郭京飞微博后缀连起来是圆周率",
+      "onboard_time": 1689903394,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418400,
       "num": 418400,
       "word": "娜然 妲己",
       "onboard_time": 1689869310,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 418152,
-      "num": 322596,
-      "word": "HR教我怎么骗公司",
-      "onboard_time": 1689900336,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 412500,
@@ -427,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297981,
+      "num": 297981,
+      "word": "杀不死的石家庄",
+      "onboard_time": 1689903691,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292784,
       "num": 292784,
       "word": "中建八局回应山东莱荣高铁事件",
@@ -449,6 +473,14 @@
       "onboard_time": 1689862835,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283137,
+      "num": 232768,
+      "word": "夏阳 钟嘉诚",
+      "onboard_time": 1689903273,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 281411,
@@ -579,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236632,
+      "num": 217302,
+      "word": "邓亚萍通过儿子了解电竞",
+      "onboard_time": 1689903630,
+      "rank": 35,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 233891,
       "num": 233891,
       "word": "榴莲壳上白色的肉也很好吃",
       "onboard_time": 1689900336,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227345,
+      "num": 227345,
+      "word": "小孩穿尿不湿街头找妈妈遇特警",
+      "onboard_time": 1689902491,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226248,
@@ -619,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209802,
+      "num": 209802,
+      "word": "西瓜可乐泡饭",
+      "onboard_time": 1689903630,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201829,
       "num": 201829,
       "word": "BW2023",
@@ -635,12 +691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197557,
+      "num": 197557,
+      "word": "西安成立调查组核查回流生报名资格",
+      "onboard_time": 1689902793,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 195195,
       "num": 195195,
       "word": "六公主评长安三万里",
       "onboard_time": 1689896846,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188929,
+      "num": 188929,
+      "word": "女子嫌狗狗小便将其倒挂窗外5分钟",
+      "onboard_time": 1689903032,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187546,
@@ -657,22 +729,6 @@
       "onboard_time": 1689859172,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179184,
-      "num": 179184,
-      "word": "西安成立调查组核查回流生报名资格",
-      "onboard_time": 1689902793,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 173520,
-      "num": 173520,
-      "word": "小孩穿尿不湿街头找妈妈遇特警",
-      "onboard_time": 1689902491,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172087,
@@ -713,6 +769,14 @@
       "onboard_time": 1689866737,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 146169,
+      "num": 146169,
+      "word": "艾伦沈腾新片今日上映",
+      "onboard_time": 1689899612,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 143177,
@@ -851,7 +915,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38914,
+      "raw_hot": 40431,
       "num": 1289520,
       "word": "要促进民营经济做大做优做强",
       "onboard_time": 1689860616,
