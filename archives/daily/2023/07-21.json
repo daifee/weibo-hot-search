@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689916572384,
+  "endTime": 1689917627075,
   "band_list": [
     {
       "raw_hot": 2605723,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2368360,
-      "num": 2368360,
+      "raw_hot": 2555884,
+      "num": 2555884,
       "word": "许沁不敢向同事坦诚没车了",
       "onboard_time": 1689912815,
       "rank": 15,
@@ -163,20 +163,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1043174,
+      "num": 1043174,
+      "word": "杨洋王楚然杨超越版恶作剧之吻",
+      "onboard_time": 1689901294,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1010215,
       "num": 451759,
       "word": "西安教育局",
       "onboard_time": 1689866496,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1004928,
-      "num": 1004928,
-      "word": "杨洋王楚然杨超越版恶作剧之吻",
-      "onboard_time": 1689901294,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 994650,
@@ -195,8 +195,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 897367,
-      "num": 897367,
+      "raw_hot": 897579,
+      "num": 897579,
       "word": "许沁的虎扑评分",
       "onboard_time": 1689914257,
       "rank": 6,
@@ -323,7 +323,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 648196,
+      "raw_hot": 657473,
       "num": 648196,
       "word": "6个月宝宝为逃避抽血顽强装睡",
       "onboard_time": 1689914558,
@@ -355,6 +355,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 585310,
+      "num": 345912,
+      "word": "刘昊然是不是该刮胡子了",
+      "onboard_time": 1689914918,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574784,
       "num": 263585,
       "word": "新婚妻子车祸昏迷7天丈夫忍痛拔管",
@@ -379,12 +387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 555245,
-      "num": 240669,
-      "word": "刘昊然是不是该刮胡子了",
-      "onboard_time": 1689914918,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 558911,
+      "num": 558911,
+      "word": "王者峡谷出现手机",
+      "onboard_time": 1689911554,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 554663,
@@ -449,14 +457,6 @@
       "onboard_time": 1689895945,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465044,
-      "num": 465044,
-      "word": "王者峡谷出现手机",
-      "onboard_time": 1689911554,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 464469,
@@ -595,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 323459,
+      "num": 323459,
+      "word": "重庆暴雨开车如开船",
+      "onboard_time": 1689914736,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311946,
       "num": 293116,
       "word": "夏阳 钟嘉诚",
@@ -609,6 +617,14 @@
       "onboard_time": 1689899796,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 307054,
+      "num": 213188,
+      "word": "只有白敬亭觉得虐吧",
+      "onboard_time": 1689917192,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 300078,
@@ -689,6 +705,14 @@
       "onboard_time": 1689866319,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279665,
+      "num": 217574,
+      "word": "仙剑三豆瓣评分涨至9.0分",
+      "onboard_time": 1689917251,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 276062,
@@ -875,14 +899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221507,
-      "num": 221507,
-      "word": "重庆暴雨开车如开船",
-      "onboard_time": 1689914736,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220500,
       "num": 220500,
       "word": "泡泡岛音乐节",
@@ -929,6 +945,14 @@
       "onboard_time": 1689903630,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 209103,
+      "num": 209103,
+      "word": "乘风2023",
+      "onboard_time": 1689915815,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 208257,
@@ -995,7 +1019,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195661,
+      "raw_hot": 196240,
       "num": 224276,
       "word": "小孩子的童年多了个寄居蟹侠",
       "onboard_time": 1689913598,
@@ -1009,14 +1033,6 @@
       "onboard_time": 1689896846,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191612,
-      "num": 198036,
-      "word": "乘风2023",
-      "onboard_time": 1689915815,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 190150,
@@ -1075,8 +1091,8 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 169938,
-      "num": 198144,
+      "raw_hot": 170300,
+      "num": 205370,
       "word": "陕西吴堡通报清廉餐有关问题",
       "onboard_time": 1689915577,
       "rank": 39,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1689848313,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165153,
+      "num": 205069,
+      "word": "bw",
+      "onboard_time": 1689917433,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 162422,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1689880993,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125301,
+      "num": 202725,
+      "word": "为什么河南家长会选择高考移民",
+      "onboard_time": 1689917313,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 123179,
