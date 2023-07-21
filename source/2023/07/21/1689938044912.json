@@ -1,0 +1,410 @@
+{
+  "runTime": 1689938044912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820412,
+        "num": 1820412,
+        "word": "浙FDL3988闯红灯违章已撤销",
+        "onboard_time": 1689930630,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1194091,
+        "num": 1194091,
+        "word": "沙溢告别奔跑吧",
+        "onboard_time": 1689933994,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1981612,
+        "num": 1140870,
+        "word": "女主扁平化",
+        "onboard_time": 1689928954,
+        "rank": 2,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1021284,
+        "num": 1021284,
+        "word": "长相思定档",
+        "onboard_time": 1689930875,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301413,
+        "num": 935989,
+        "word": "这么实诚的服装店老板可不多见了",
+        "onboard_time": 1689934111,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888921,
+        "num": 888921,
+        "word": "上海暴雨",
+        "onboard_time": 1689930630,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217611,
+        "num": 665741,
+        "word": "挺身而出后她说不知道哪来的勇气",
+        "onboard_time": 1689932977,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650639,
+        "num": 650639,
+        "word": "董宇辉回应江郎才尽",
+        "onboard_time": 1689933456,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 547120,
+        "num": 547120,
+        "word": "乐华年会直播",
+        "onboard_time": 1689935794,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515378,
+        "num": 515378,
+        "word": "莲花楼",
+        "onboard_time": 1689933395,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608198,
+        "num": 502240,
+        "word": "黄晓明和小海绵现身机场",
+        "onboard_time": 1689929433,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587648,
+        "num": 464326,
+        "word": "肖战说假瓜吃多了拉肚子",
+        "onboard_time": 1689929200,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425794,
+        "num": 425794,
+        "word": "不要有任何分享欲",
+        "onboard_time": 1689930574,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415223,
+        "num": 415223,
+        "word": "迪丽热巴刘宇宁的身高差",
+        "onboard_time": 1689933335,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414618,
+        "num": 414618,
+        "word": "NIP战胜RNG",
+        "onboard_time": 1689937472,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394332,
+        "num": 394332,
+        "word": "中建五局一项目经理工作群辱骂员工",
+        "onboard_time": 1689936756,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380762,
+        "num": 380762,
+        "word": "原来许沁原著更疯批",
+        "onboard_time": 1689918512,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378829,
+        "num": 378829,
+        "word": "傲寒",
+        "onboard_time": 1689934954,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 374757,
+        "num": 374757,
+        "word": "黄子韬徐艺洋难哄",
+        "onboard_time": 1689925174,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348508,
+        "num": 348508,
+        "word": "起猛了看见高铁进地铁站了",
+        "onboard_time": 1689926493,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 949127,
+        "num": 347582,
+        "word": "领导退群我成单位群主了",
+        "onboard_time": 1689933632,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 504385,
+        "num": 346146,
+        "word": "内娱妈生脸美女",
+        "onboard_time": 1689934053,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 758025,
+        "num": 343275,
+        "word": "深圳一工程师被迫辞职讨薪时坠亡",
+        "onboard_time": 1689928593,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383087,
+        "num": 340325,
+        "word": "魏大勋回答为什么魏大勋这么帅",
+        "onboard_time": 1689936933,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339916,
+        "num": 339916,
+        "word": "搬家时才发现小狗留下的惊喜",
+        "onboard_time": 1689932015,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 341644,
+        "num": 328617,
+        "word": "许沁纸片人觉醒",
+        "onboard_time": 1689936214,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304561,
+        "num": 304561,
+        "word": "台湾一女大学生被高坠空调外机砸死",
+        "onboard_time": 1689928652,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300373,
+        "num": 300373,
+        "word": "没想到荷包蛋竟然也能速冻",
+        "onboard_time": 1689935134,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296213,
+        "num": 296213,
+        "word": "暴雨",
+        "onboard_time": 1689931114,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150816,
+        "num": 291644,
+        "word": "西安成立调查组对回流生报名资格逐一核查",
+        "onboard_time": 1689930272,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291000,
+        "num": 291000,
+        "word": "TFBOYS官博在线",
+        "onboard_time": 1689929073,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 9326,
+        "num": 288734,
+        "word": "暴雨天如何避险自救",
+        "onboard_time": 1689923428,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287565,
+        "num": 287565,
+        "word": "RNG对战NIP",
+        "onboard_time": 1689933994,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273101,
+        "num": 273101,
+        "word": "郑恺拖白鹿好像牛耕地",
+        "onboard_time": 1689936575,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11700,
+        "num": 263708,
+        "word": "成都大运会倒计时1周",
+        "onboard_time": 1689902431,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262956,
+        "num": 262956,
+        "word": "许沁第一反应不是该生气吗",
+        "onboard_time": 1689930154,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262882,
+        "num": 262882,
+        "word": "迪丽热巴海洋公主",
+        "onboard_time": 1689937774,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260285,
+        "num": 260285,
+        "word": "许沁vs朱锁锁",
+        "onboard_time": 1689930216,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243695,
+        "num": 243695,
+        "word": "seventeen演唱会",
+        "onboard_time": 1689931655,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223199,
+        "num": 223199,
+        "word": "魏大勋刘亦菲合作过南烟斋笔录",
+        "onboard_time": 1689929073,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211766,
+        "num": 211766,
+        "word": "陈都灵朋克造型",
+        "onboard_time": 1689930216,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210086,
+        "num": 210086,
+        "word": "警方通报一老人持斧追砍两小孩",
+        "onboard_time": 1689930754,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206657,
+        "num": 206657,
+        "word": "长相思山海为盟海报",
+        "onboard_time": 1689931894,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205036,
+        "num": 205036,
+        "word": "十个勤天",
+        "onboard_time": 1689933694,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200492,
+        "num": 200492,
+        "word": "武汉七彩祥云",
+        "onboard_time": 1689936874,
+        "rank": 44,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 199153,
+        "num": 199153,
+        "word": "山东一面包店推出知了猴面包",
+        "onboard_time": 1689927214,
+        "rank": 45,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 194788,
+        "num": 199146,
+        "word": "iPhone羡慕安卓的功能",
+        "onboard_time": 1689922710,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189581,
+        "num": 199128,
+        "word": "芭比 高司令",
+        "onboard_time": 1689935734,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178675,
+        "num": 199119,
+        "word": "TFBOYS还发新歌吗",
+        "onboard_time": 1689932134,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174308,
+        "num": 199100,
+        "word": "印2女子被强迫裸体游街还遭侵犯",
+        "onboard_time": 1689905431,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强耕地保护全力提升耕地质量#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689935668928,
+  "endTime": 1689938044912,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -3179,6 +3179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 650639,
+      "num": 650639,
+      "word": "董宇辉回应江郎才尽",
+      "onboard_time": 1689933456,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 647422,
       "num": 401087,
       "word": "李佳琦 meland票",
@@ -3667,14 +3675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 583316,
-      "num": 583316,
-      "word": "董宇辉回应江郎才尽",
-      "onboard_time": 1689933456,
-      "rank": 17,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 582448,
       "num": 518127,
       "word": "被鸟鸟徐志胜李雪琴哭死",
@@ -4003,6 +4003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 547120,
+      "num": 547120,
+      "word": "乐华年会直播",
+      "onboard_time": 1689935794,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 546974,
       "num": 546974,
       "word": "盐城市建湖县一烧烤店发生爆炸",
@@ -4289,6 +4297,14 @@
       "onboard_time": 1689927394,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 504385,
+      "num": 357818,
+      "word": "内娱妈生脸美女",
+      "onboard_time": 1689934053,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 502968,
@@ -5123,14 +5139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431056,
-      "num": 357818,
-      "word": "内娱妈生脸美女",
-      "onboard_time": 1689934053,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430740,
       "num": 324721,
       "word": "魏大勋爸爸对魏大勋青春期的要求",
@@ -5193,6 +5201,14 @@
       "onboard_time": 1689768872,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425794,
+      "num": 425794,
+      "word": "不要有任何分享欲",
+      "onboard_time": 1689930574,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 425778,
@@ -5315,6 +5331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415223,
+      "num": 415223,
+      "word": "迪丽热巴刘宇宁的身高差",
+      "onboard_time": 1689933335,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415188,
       "num": 415188,
       "word": "能不能听听孟爸付妈的话啊",
@@ -5329,6 +5353,14 @@
       "onboard_time": 1689831395,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414618,
+      "num": 414618,
+      "word": "NIP战胜RNG",
+      "onboard_time": 1689937472,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 413810,
@@ -5651,6 +5683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394332,
+      "num": 394332,
+      "word": "中建五局一项目经理工作群辱骂员工",
+      "onboard_time": 1689936756,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393947,
       "num": 288337,
       "word": "本宫带着博士学位回来了",
@@ -5779,6 +5819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383087,
+      "num": 340325,
+      "word": "魏大勋回答为什么魏大勋这么帅",
+      "onboard_time": 1689936933,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382744,
       "num": 382744,
       "word": "时代少年团或将全员录制你好星期六",
@@ -5825,6 +5873,14 @@
       "onboard_time": 1689750750,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378829,
+      "num": 378829,
+      "word": "傲寒",
+      "onboard_time": 1689934954,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 377928,
@@ -6017,14 +6073,6 @@
       "onboard_time": 1689569855,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 361532,
-      "num": 361532,
-      "word": "不要有任何分享欲",
-      "onboard_time": 1689930574,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 361426,
@@ -6420,7 +6468,7 @@
     },
     {
       "raw_hot": 342558,
-      "num": 286454,
+      "num": 300373,
       "word": "没想到荷包蛋竟然也能速冻",
       "onboard_time": 1689935134,
       "rank": 30,
@@ -6432,6 +6480,14 @@
       "word": "林允演技",
       "onboard_time": 1689606815,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 341644,
+      "num": 328617,
+      "word": "许沁纸片人觉醒",
+      "onboard_time": 1689936214,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -7083,12 +7139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300959,
-      "num": 285328,
-      "word": "迪丽热巴刘宇宁的身高差",
-      "onboard_time": 1689933335,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 301413,
+      "num": 1053268,
+      "word": "这么实诚的服装店老板可不多见了",
+      "onboard_time": 1689934111,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300654,
@@ -7409,6 +7465,14 @@
       "onboard_time": 1689868891,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287565,
+      "num": 287565,
+      "word": "RNG对战NIP",
+      "onboard_time": 1689933994,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 287554,
@@ -7747,6 +7811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273101,
+      "num": 273101,
+      "word": "郑恺拖白鹿好像牛耕地",
+      "onboard_time": 1689936575,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272599,
       "num": 272599,
       "word": "在川渝地区容易脱单吗",
@@ -7971,6 +8043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262882,
+      "num": 262882,
+      "word": "迪丽热巴海洋公主",
+      "onboard_time": 1689937774,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262725,
       "num": 262725,
       "word": "孔刘徐玄振确定出演网飞新剧",
@@ -8156,7 +8236,7 @@
     },
     {
       "raw_hot": 253654,
-      "num": 284905,
+      "num": 291644,
       "word": "西安成立调查组对回流生报名资格逐一核查",
       "onboard_time": 1689930272,
       "rank": 41,
@@ -8377,14 +8457,6 @@
       "onboard_time": 1689655114,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242663,
-      "num": 1053268,
-      "word": "这么实诚的服装店老板可不多见了",
-      "onboard_time": 1689934111,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241888,
@@ -9491,14 +9563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202338,
-      "num": 202338,
-      "word": "傲寒",
-      "onboard_time": 1689934954,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 202215,
       "num": 255375,
       "word": "谢乔相亲了",
@@ -9601,6 +9665,14 @@
       "onboard_time": 1689600272,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200492,
+      "num": 200492,
+      "word": "武汉七彩祥云",
+      "onboard_time": 1689936874,
+      "rank": 44,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 200421,
@@ -9769,14 +9841,6 @@
       "onboard_time": 1689862177,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196420,
-      "num": 196420,
-      "word": "RNG对战NIP",
-      "onboard_time": 1689933994,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 196240,
@@ -10025,6 +10089,14 @@
       "onboard_time": 1689743375,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189581,
+      "num": 199128,
+      "word": "芭比 高司令",
+      "onboard_time": 1689935734,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 189341,
@@ -11740,7 +11812,7 @@
     },
     {
       "raw_hot": 24070,
-      "num": 158841,
+      "num": 288734,
       "word": "暴雨天如何避险自救",
       "onboard_time": 1689923428,
       "rank": 48,
