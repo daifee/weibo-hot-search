@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689896047679,
+  "endTime": 1689902926464,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -257,6 +257,14 @@
       "onboard_time": 1689819332,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2359745,
+      "num": 383311,
+      "word": "敦煌骆驼疑似被人骑死了",
+      "onboard_time": 1689898889,
+      "rank": 10,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 2313677,
@@ -571,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1788928,
+      "num": 1788928,
+      "word": "张一山不跟张俪演戏的原因",
+      "onboard_time": 1689900395,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1781192,
       "num": 1781192,
       "word": "周杰伦演唱会抢票",
@@ -673,6 +689,14 @@
       "onboard_time": 1689677159,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1560182,
+      "num": 1560182,
+      "word": "被北大录取女生分享经验强调没手机",
+      "onboard_time": 1689896484,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1530211,
@@ -883,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1297307,
+      "num": 379025,
+      "word": "陈妍希忘了删文案",
+      "onboard_time": 1689900574,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1287037,
       "num": 1287037,
       "word": "孟宴臣 叶子",
@@ -921,6 +953,14 @@
       "onboard_time": 1689775476,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1258651,
+      "num": 1258651,
+      "word": "丈夫为鼓励妻子产后恢复走一步发100",
+      "onboard_time": 1689899555,
+      "rank": 3,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1255870,
@@ -1083,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1160930,
+      "num": 375730,
+      "word": "蔡卓宜 我真的没在哭",
+      "onboard_time": 1689896484,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1157789,
       "num": 376729,
       "word": "文咏珊上身下身两种季节",
@@ -1185,6 +1233,14 @@
       "onboard_time": 1689691537,
       "rank": 14,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 1109705,
+      "num": 1109705,
+      "word": "宋焰总算大方了一次",
+      "onboard_time": 1689895103,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 1099269,
@@ -1715,8 +1771,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 887989,
+      "num": 335413,
+      "word": "成年人早醒是衰老的表现",
+      "onboard_time": 1689899192,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 881695,
-      "num": 202802,
+      "num": 324851,
       "word": "魏大勋人在内蒙也要西装加身",
       "onboard_time": 1689872841,
       "rank": 26,
@@ -2147,6 +2211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 776043,
+      "num": 365252,
+      "word": "老舅晒图回击了",
+      "onboard_time": 1689899072,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 774633,
       "num": 774633,
       "word": "起猛了看见肖战赵丽颖演师徒了",
@@ -2209,6 +2281,14 @@
       "onboard_time": 1689586353,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 757062,
+      "num": 354279,
+      "word": "Angelababy小水同框合影",
+      "onboard_time": 1689898950,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 747555,
@@ -2313,6 +2393,14 @@
       "onboard_time": 1689776501,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 725439,
+      "num": 353430,
+      "word": "狗头萝莉",
+      "onboard_time": 1689900453,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 724148,
@@ -3163,6 +3251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581526,
+      "num": 330039,
+      "word": "杨洋王楚然杨超越版恶作剧之吻",
+      "onboard_time": 1689901294,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 581225,
       "num": 581225,
       "word": "王鹤棣田曦薇或将二搭",
@@ -3395,6 +3491,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 554347,
+      "num": 554347,
+      "word": "中方回应俄对乌空袭波及中国总领馆",
+      "onboard_time": 1689896185,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 553984,
       "num": 553984,
       "word": "上海警方抓获假靳东团伙8人",
@@ -3584,6 +3688,14 @@
       "word": "爸爸捐献儿子器官救8人一句话让人破防",
       "onboard_time": 1689541752,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522316,
+      "num": 344992,
+      "word": "警方通报男子将妻子捅伤致死",
+      "onboard_time": 1689901233,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -3936,6 +4048,14 @@
       "word": "女子跳绳致肾结石掉下卡在输尿管",
       "onboard_time": 1689595234,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473254,
+      "num": 338543,
+      "word": "男孩在家烧书引起失火从18楼跳下",
+      "onboard_time": 1689895945,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4403,6 +4523,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 433273,
+      "num": 319569,
+      "word": "这是许沁本来该过的生活吧",
+      "onboard_time": 1689900813,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433129,
       "num": 351672,
       "word": "为何提前还房贷不是想还就还",
@@ -4601,6 +4729,14 @@
       "onboard_time": 1689869310,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418152,
+      "num": 322596,
+      "word": "HR教我怎么骗公司",
+      "onboard_time": 1689900336,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 417563,
@@ -5147,6 +5283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 372920,
+      "num": 318987,
+      "word": "吴宣仪演技",
+      "onboard_time": 1689902020,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372181,
       "num": 427436,
       "word": "关晓彤竟然是i人",
@@ -5355,6 +5499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358431,
+      "num": 315712,
+      "word": "打工人减肥每天爬21层楼月瘦13斤",
+      "onboard_time": 1689900755,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357990,
       "num": 347655,
       "word": "关晓彤晒手帐",
@@ -5441,6 +5593,14 @@
       "onboard_time": 1689589771,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355616,
+      "num": 312950,
+      "word": "你的身体到底有多爱你",
+      "onboard_time": 1689897088,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 354380,
@@ -5801,6 +5961,14 @@
       "onboard_time": 1689853410,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335774,
+      "num": 335774,
+      "word": "敖德萨",
+      "onboard_time": 1689898830,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 335096,
@@ -6171,12 +6339,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 308047,
-      "num": 200428,
-      "word": "宋焰总算大方了一次",
-      "onboard_time": 1689895103,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 307941,
+      "num": 307941,
+      "word": "宋祖儿直角鼻",
+      "onboard_time": 1689899796,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 307891,
@@ -6265,6 +6433,14 @@
       "onboard_time": 1689648150,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299159,
+      "num": 299159,
+      "word": "孟宴臣喜欢许沁什么",
+      "onboard_time": 1689899131,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 298592,
@@ -6651,6 +6827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281411,
+      "num": 309245,
+      "word": "在地铁站遇到两个女孩让我帮忙打车",
+      "onboard_time": 1689900273,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281353,
       "num": 281353,
       "word": "你是我的女儿不是我的作品",
@@ -6779,6 +6963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276062,
+      "num": 276062,
+      "word": "谢娜嗑到张俪闫桉了",
+      "onboard_time": 1689899373,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274515,
       "num": 425056,
       "word": "最近想要谈恋爱和想前任了的人",
@@ -6867,6 +7059,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 270429,
+      "num": 270429,
+      "word": "何蓝逗曹煜辰吻戏",
+      "onboard_time": 1689899192,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270003,
       "num": 270003,
       "word": "范丞丞说可以和沈腾艾伦演三角恋",
@@ -6905,6 +7105,14 @@
       "onboard_time": 1689691474,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267677,
+      "num": 267677,
+      "word": "因一句承诺男子为亡妻守墓五年",
+      "onboard_time": 1689901536,
+      "rank": 35,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 267077,
@@ -7411,6 +7619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240475,
+      "num": 240475,
+      "word": "西安通报中考回流生事件",
+      "onboard_time": 1689898111,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 240139,
       "num": 240139,
       "word": "赵丽颖拍的风景",
@@ -7569,6 +7785,14 @@
       "onboard_time": 1689814357,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233891,
+      "num": 233891,
+      "word": "榴莲壳上白色的肉也很好吃",
+      "onboard_time": 1689900336,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 233705,
@@ -7865,6 +8089,14 @@
       "onboard_time": 1689575732,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217227,
+      "num": 217227,
+      "word": "韩国女团妆容",
+      "onboard_time": 1689898711,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 217141,
@@ -8299,6 +8531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201829,
+      "num": 201829,
+      "word": "BW2023",
+      "onboard_time": 1689894982,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201746,
       "num": 201746,
       "word": "为种地吧五号田搬有机肥",
@@ -8329,6 +8569,14 @@
       "onboard_time": 1689552452,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201428,
+      "num": 201428,
+      "word": "爸爸给不睡觉的宝宝讲解高中数学",
+      "onboard_time": 1689896367,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200924,
@@ -8579,6 +8827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195195,
+      "num": 195195,
+      "word": "六公主评长安三万里",
+      "onboard_time": 1689896846,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194801,
       "num": 194801,
       "word": "瓦尔加斯",
@@ -8747,14 +9003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187505,
-      "num": 187505,
-      "word": "BW2023",
-      "onboard_time": 1689894982,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 187040,
       "num": 187040,
       "word": "泰国广告你别太离谱",
@@ -8915,6 +9163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179184,
+      "num": 179184,
+      "word": "西安成立调查组核查回流生报名资格",
+      "onboard_time": 1689902793,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 178746,
       "num": 178746,
       "word": "可以说是恐怖片照进现实了",
@@ -8993,6 +9249,14 @@
       "onboard_time": 1689524368,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173520,
+      "num": 173520,
+      "word": "小孩穿尿不湿街头找妈妈遇特警",
+      "onboard_time": 1689902491,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173102,
@@ -9377,14 +9641,6 @@
       "onboard_time": 1689520716,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153216,
-      "num": 153216,
-      "word": "男孩在家烧书引起失火从18楼跳下",
-      "onboard_time": 1689895945,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152587,
@@ -10219,6 +10475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38914,
+      "num": 1289520,
+      "word": "要促进民营经济做大做优做强",
+      "onboard_time": 1689860616,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36383,
       "num": 62699,
       "word": "张杰演唱会",
@@ -10263,14 +10527,6 @@
       "num": 1792440,
       "word": "边防官兵硬核版山河图",
       "onboard_time": 1689844175,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30089,
-      "num": 566324,
-      "word": "要促进民营经济做大做优做强",
-      "onboard_time": 1689860616,
       "rank": 2,
       "category": "社会新闻"
     },
