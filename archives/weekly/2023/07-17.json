@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689953653646,
+  "endTime": 1689956534966,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -979,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1465854,
+      "num": 1465854,
+      "word": "Ella把C位让给了谢娜",
+      "onboard_time": 1689953915,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1465032,
       "num": 617886,
       "word": "成功承认出轨",
@@ -1507,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1103182,
+      "num": 1103182,
+      "word": "杨颖问儿子在学校有没有人追你",
+      "onboard_time": 1689952178,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1099269,
       "num": 1099269,
       "word": "原来整牙不一定能变美",
@@ -1860,7 +1876,7 @@
     },
     {
       "raw_hot": 976889,
-      "num": 398435,
+      "num": 906379,
       "word": "许沁离开宋焰的原因",
       "onboard_time": 1689951639,
       "rank": 25,
@@ -2209,14 +2225,6 @@
       "onboard_time": 1689607713,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 879437,
-      "num": 373180,
-      "word": "杨颖问儿子在学校有没有人追你",
-      "onboard_time": 1689952178,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 875008,
@@ -3339,6 +3347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 664551,
+      "num": 309129,
+      "word": "跑男回应打错Angelababy范丞丞名字",
+      "onboard_time": 1689954214,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664401,
       "num": 664401,
       "word": "纠正骨盆后倾才是翘臀必杀技",
@@ -3588,7 +3604,7 @@
     },
     {
       "raw_hot": 633551,
-      "num": 260345,
+      "num": 294160,
       "word": "宋焰接许沁下班巷子都没出",
       "onboard_time": 1689951219,
       "rank": 27,
@@ -3609,6 +3625,14 @@
       "onboard_time": 1689848370,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 630710,
+      "num": 286741,
+      "word": "00后小伙大便带血确诊肠癌晚期",
+      "onboard_time": 1689953435,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629314,
@@ -4276,7 +4300,7 @@
     },
     {
       "raw_hot": 555560,
-      "num": 239311,
+      "num": 276433,
       "word": "朱珠刘惜君Say So",
       "onboard_time": 1689951159,
       "rank": 30,
@@ -4345,6 +4369,14 @@
       "onboard_time": 1689859172,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 549570,
+      "num": 282100,
+      "word": "他给四岁的女儿买了个冰淇淋",
+      "onboard_time": 1689954159,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 547120,
@@ -4505,6 +4537,14 @@
       "onboard_time": 1689548600,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 523775,
+      "num": 285921,
+      "word": "王鹤棣白鹿多了一组跟拍",
+      "onboard_time": 1689953856,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 523112,
@@ -4971,6 +5011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 473954,
+      "num": 284238,
+      "word": "TFBOYS下辈子再糊",
+      "onboard_time": 1689952777,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473617,
       "num": 415158,
       "word": "现在再看杨洋王楚然李木戈翻答案之书",
@@ -5392,14 +5440,6 @@
       "word": "小S二女儿跳舞健身视频",
       "onboard_time": 1689520658,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 443175,
-      "num": 232780,
-      "word": "TFBOYS下辈子再糊",
-      "onboard_time": 1689952777,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -6299,14 +6339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382011,
-      "num": 233386,
-      "word": "00后小伙大便带血确诊肠癌晚期",
-      "onboard_time": 1689953435,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381265,
       "num": 313479,
       "word": "Loopy演我上班",
@@ -6444,7 +6476,7 @@
     },
     {
       "raw_hot": 370493,
-      "num": 229867,
+      "num": 253620,
       "word": "长相思人物剧照",
       "onboard_time": 1689952660,
       "rank": 40,
@@ -7500,7 +7532,7 @@
     },
     {
       "raw_hot": 311871,
-      "num": 228710,
+      "num": 281256,
       "word": "向往的生活",
       "onboard_time": 1689953558,
       "rank": 43,
@@ -8065,6 +8097,14 @@
       "onboard_time": 1689678215,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286806,
+      "num": 286806,
+      "word": "白羊座经历得越多越享受孤独",
+      "onboard_time": 1689952777,
+      "rank": 47,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 286630,
@@ -9267,8 +9307,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 235017,
-      "num": 236407,
+      "raw_hot": 235054,
+      "num": 285388,
       "word": "真正的好朋友只会互相哭穷",
       "onboard_time": 1689952119,
       "rank": 48,
@@ -9313,6 +9353,14 @@
       "onboard_time": 1689900336,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233715,
+      "num": 284795,
+      "word": "江苏浙江连发85条预警",
+      "onboard_time": 1689953616,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233705,
@@ -10065,6 +10113,14 @@
       "onboard_time": 1689585331,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206419,
+      "num": 277271,
+      "word": "终于明白啥叫我们那时候可没你这条件",
+      "onboard_time": 1689954695,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 206039,
@@ -11323,14 +11379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165423,
-      "num": 227294,
-      "word": "白羊座经历得越多越享受孤独",
-      "onboard_time": 1689952777,
-      "rank": 47,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 165257,
       "num": 165257,
       "word": "听说这是福建省省饭",
@@ -11505,14 +11553,6 @@
       "onboard_time": 1689667831,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155761,
-      "num": 226419,
-      "word": "江苏浙江连发85条预警",
-      "onboard_time": 1689953616,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155597,
@@ -12091,6 +12131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103859,
+      "num": 207841,
+      "word": "意大利撒丁岛的夏天",
+      "onboard_time": 1689955773,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 103457,
       "num": 482265,
       "word": "藿香味小雪糕有多上头",
@@ -12537,6 +12585,14 @@
       "onboard_time": 1689618975,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21373,
+      "num": 1177060,
+      "word": "航天员出舱所有任务都是一次完成",
+      "onboard_time": 1689939333,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 20995,
