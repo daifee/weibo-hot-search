@@ -1,7 +1,15 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689932044413,
+  "endTime": 1689934691364,
   "band_list": [
+    {
+      "raw_hot": 2881259,
+      "num": 2881259,
+      "word": "女主扁平化",
+      "onboard_time": 1689928954,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 2605723,
       "num": 471837,
@@ -33,14 +41,6 @@
       "onboard_time": 1689908973,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2325986,
-      "num": 2325986,
-      "word": "女主扁平化",
-      "onboard_time": 1689928954,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2302258,
@@ -105,6 +105,14 @@
       "onboard_time": 1689924151,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1728187,
+      "num": 1728187,
+      "word": "浙FDL3988闯红灯违章已撤销",
+      "onboard_time": 1689930630,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1711132,
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 876215,
+      "num": 299489,
+      "word": "领导退群我成单位群主了",
+      "onboard_time": 1689933632,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 867832,
       "num": 867832,
       "word": "迪丽热巴你山药拿反了",
@@ -361,6 +377,14 @@
       "onboard_time": 1689927214,
       "rank": 18,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 833990,
+      "num": 833990,
+      "word": "上海暴雨",
+      "onboard_time": 1689930630,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 830347,
@@ -395,6 +419,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 792921,
+      "num": 701001,
+      "word": "黄晓明和小海绵现身机场",
+      "onboard_time": 1689929433,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782206,
       "num": 314321,
       "word": "一直以为头油就要天天洗",
@@ -409,6 +441,14 @@
       "onboard_time": 1689899072,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 770496,
+      "num": 770496,
+      "word": "暴雨",
+      "onboard_time": 1689931114,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 767832,
@@ -443,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 734458,
-      "num": 701001,
-      "word": "黄晓明和小海绵现身机场",
-      "onboard_time": 1689929433,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 725439,
       "num": 455672,
       "word": "狗头萝莉",
@@ -459,19 +491,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 723020,
+      "raw_hot": 724215,
       "num": 723020,
       "word": "台湾一女大学生被高坠空调外机砸死",
       "onboard_time": 1689928652,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714576,
-      "num": 714576,
-      "word": "上海暴雨",
-      "onboard_time": 1689930630,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -513,6 +537,22 @@
       "onboard_time": 1689909632,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 658635,
+      "num": 658635,
+      "word": "沙溢告别奔跑吧",
+      "onboard_time": 1689933994,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 657629,
+      "num": 657629,
+      "word": "1664迪丽热巴直播",
+      "onboard_time": 1689931776,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 657473,
@@ -675,12 +715,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 552795,
-      "num": 552795,
-      "word": "1664迪丽热巴直播",
-      "onboard_time": 1689931776,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 539637,
+      "num": 539637,
+      "word": "莲花楼",
+      "onboard_time": 1689933395,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 535477,
@@ -713,14 +753,6 @@
       "onboard_time": 1689907711,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 510484,
-      "num": 510484,
-      "word": "浙FDL3988闯红灯违章已撤销",
-      "onboard_time": 1689930630,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508564,
@@ -761,6 +793,14 @@
       "onboard_time": 1689903394,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 478571,
+      "num": 478571,
+      "word": "董宇辉回应江郎才尽",
+      "onboard_time": 1689933456,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 477968,
@@ -827,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438787,
+      "num": 292909,
+      "word": "搬家时才发现小狗留下的惊喜",
+      "onboard_time": 1689932015,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 437358,
       "num": 277277,
       "word": "封神新妲己出场镜头",
@@ -875,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390305,
+      "num": 287871,
+      "word": "许沁vs朱锁锁",
+      "onboard_time": 1689930216,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390102,
       "num": 263158,
       "word": "杨紫白月光妆",
@@ -897,6 +953,14 @@
       "onboard_time": 1689902020,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371885,
+      "num": 285174,
+      "word": "seventeen演唱会",
+      "onboard_time": 1689931655,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 365537,
@@ -963,14 +1027,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 323954,
-      "num": 251225,
-      "word": "许沁vs朱锁锁",
-      "onboard_time": 1689930216,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323459,
       "num": 323459,
       "word": "重庆暴雨开车如开船",
@@ -1027,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304087,
+      "num": 273224,
+      "word": "陈都灵朋克造型",
+      "onboard_time": 1689930216,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 300078,
       "num": 260806,
       "word": "如果难哄是关晓彤来演",
@@ -1057,14 +1121,6 @@
       "onboard_time": 1689928113,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 296189,
-      "num": 243824,
-      "word": "陈都灵朋克造型",
-      "onboard_time": 1689930216,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 292784,
@@ -1131,11 +1187,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280675,
-      "num": 280675,
-      "word": "暴雨",
-      "onboard_time": 1689931114,
-      "rank": 28,
+      "raw_hot": 278794,
+      "num": 278794,
+      "word": "云南人真的好像小精灵啊",
+      "onboard_time": 1689933035,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1184,6 +1240,14 @@
       "word": "何蓝逗曹煜辰吻戏",
       "onboard_time": 1689899192,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268646,
+      "num": 268646,
+      "word": "迪丽热巴刘宇宁的身高差",
+      "onboard_time": 1689933335,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1243,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261003,
+      "num": 235758,
+      "word": "内娱妈生脸美女",
+      "onboard_time": 1689934053,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259276,
       "num": 259276,
       "word": "合肥暴雨",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1689850051,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252709,
+      "num": 922266,
+      "word": "挺身而出后她说不知道哪来的勇气",
+      "onboard_time": 1689932977,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251090,
@@ -1387,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232822,
+      "num": 245983,
+      "word": "西安成立调查组对回流生报名资格逐一核查",
+      "onboard_time": 1689930272,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 228539,
       "num": 220078,
       "word": "薛之谦演唱会",
@@ -1427,11 +1515,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225879,
+      "num": 195985,
+      "word": "十个勤天",
+      "onboard_time": 1689933694,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220500,
       "num": 220500,
       "word": "泡泡岛音乐节",
       "onboard_time": 1689909510,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 220365,
+      "num": 193937,
+      "word": "TFBOYS还发新歌吗",
+      "onboard_time": 1689932134,
+      "rank": 41,
       "category": "音乐"
     },
     {
@@ -1465,6 +1569,14 @@
       "onboard_time": 1689906393,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212880,
+      "num": 197648,
+      "word": "美依礼芽bw现场六连唱跳",
+      "onboard_time": 1689929794,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 210750,
@@ -1515,14 +1627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201941,
-      "num": 245983,
-      "word": "西安成立调查组对回流生报名资格逐一核查",
-      "onboard_time": 1689930272,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 201829,
       "num": 223744,
       "word": "BW2023",
@@ -1571,28 +1675,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198239,
-      "num": 198239,
-      "word": "seventeen演唱会",
-      "onboard_time": 1689931655,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 197648,
-      "num": 197648,
-      "word": "美依礼芽bw现场六连唱跳",
-      "onboard_time": 1689929794,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 196984,
       "num": 226890,
       "word": "云台山音乐节",
       "onboard_time": 1689912815,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196420,
+      "num": 196420,
+      "word": "RNG对战NIP",
+      "onboard_time": 1689933994,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 196240,
@@ -1633,6 +1729,14 @@
       "onboard_time": 1689903032,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188570,
+      "num": 188570,
+      "word": "KPL",
+      "onboard_time": 1689934535,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 187546,
@@ -1681,6 +1785,14 @@
       "onboard_time": 1689912034,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 176328,
+      "num": 176328,
+      "word": "薛之谦兰州",
+      "onboard_time": 1689932794,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 175349,
@@ -1745,14 +1857,6 @@
       "onboard_time": 1689928113,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 164060,
-      "num": 164060,
-      "word": "搬家时才发现小狗留下的惊喜",
-      "onboard_time": 1689932015,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 162422,
@@ -1867,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125617,
+      "num": 796036,
+      "word": "这么实诚的服装店老板可不多见了",
+      "onboard_time": 1689934111,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123179,
       "num": 210533,
       "word": "中国女足",
@@ -1972,7 +2084,7 @@
     },
     {
       "raw_hot": 35302,
-      "num": 1587667,
+      "num": 1599812,
       "word": "成都大运会倒计时1周",
       "onboard_time": 1689902431,
       "rank": 2,
