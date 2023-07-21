@@ -1,7 +1,15 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689907514759,
+  "endTime": 1689909444529,
   "band_list": [
+    {
+      "raw_hot": 2605723,
+      "num": 471837,
+      "word": "印2女子被强迫裸体游街还遭侵犯",
+      "onboard_time": 1689905431,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2359745,
       "num": 467134,
@@ -17,14 +25,6 @@
       "onboard_time": 1689903452,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2104587,
-      "num": 471837,
-      "word": "印2女子被强迫裸体游街还遭侵犯",
-      "onboard_time": 1689905431,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1788928,
@@ -49,6 +49,14 @@
       "onboard_time": 1689896484,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1517622,
+      "num": 1517622,
+      "word": "椰树总部外观",
+      "onboard_time": 1689907353,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1500736,
@@ -147,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 887192,
+      "num": 753780,
+      "word": "杀不死的石家庄",
+      "onboard_time": 1689903691,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881695,
       "num": 324851,
       "word": "魏大勋人在内蒙也要西装加身",
@@ -187,6 +203,14 @@
       "category": "网红,艺人"
     },
     {
+      "raw_hot": 806643,
+      "num": 806643,
+      "word": "邓亚萍通过儿子了解电竞",
+      "onboard_time": 1689903630,
+      "rank": 35,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 776043,
       "num": 365252,
       "word": "老舅晒图回击了",
@@ -203,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 753780,
-      "num": 753780,
-      "word": "杀不死的石家庄",
-      "onboard_time": 1689903691,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 749935,
+      "num": 749935,
+      "word": "李玟讣闻",
+      "onboard_time": 1689908973,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 725439,
@@ -235,12 +259,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 581597,
-      "num": 457560,
-      "word": "邓亚萍通过儿子了解电竞",
-      "onboard_time": 1689903630,
-      "rank": 35,
-      "category": "综艺,游戏"
+      "raw_hot": 586789,
+      "num": 586789,
+      "word": "飞机延误6小时工作人员发现金补贴",
+      "onboard_time": 1689905191,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 574784,
@@ -299,20 +323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 477891,
-      "num": 477891,
-      "word": "飞机延误6小时工作人员发现金补贴",
-      "onboard_time": 1689905191,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473254,
       "num": 357265,
       "word": "男孩在家烧书引起失火从18楼跳下",
       "onboard_time": 1689895945,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472222,
+      "num": 254398,
+      "word": "Angelababy迪丽热巴芭比造型",
+      "onboard_time": 1689908131,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 464469,
@@ -360,6 +384,14 @@
       "word": "这是许沁本来该过的生活吧",
       "onboard_time": 1689900813,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 427854,
+      "num": 364630,
+      "word": "陈数演女老板自掏5000万给员工",
+      "onboard_time": 1689907711,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -547,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273536,
+      "num": 233726,
+      "word": "封神特效",
+      "onboard_time": 1689908012,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270429,
       "num": 270429,
       "word": "何蓝逗曹煜辰吻戏",
@@ -587,20 +627,20 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 263345,
+      "num": 257909,
+      "word": "种地吧",
+      "onboard_time": 1689906030,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261587,
       "num": 199545,
       "word": "31岁宝妈持续3年订牛奶弥补童年遗憾",
       "onboard_time": 1689894385,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257909,
-      "num": 257909,
-      "word": "种地吧",
-      "onboard_time": 1689906030,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 257505,
@@ -651,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235371,
+      "num": 235371,
+      "word": "纸嫁衣5无间梦境",
+      "onboard_time": 1689908492,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233891,
       "num": 233891,
       "word": "榴莲壳上白色的肉也很好吃",
@@ -684,7 +732,7 @@
     },
     {
       "raw_hot": 213033,
-      "num": 191564,
+      "num": 223815,
       "word": "种地吧普通话课直播",
       "onboard_time": 1689906393,
       "rank": 35,
@@ -715,8 +763,24 @@
       "category": "美食"
     },
     {
+      "raw_hot": 208257,
+      "num": 228117,
+      "word": "你是剖腹产还是顺产",
+      "onboard_time": 1689908311,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207548,
+      "num": 232374,
+      "word": "男孩利用杠杆原理帮建筑工父亲铺瓷砖",
+      "onboard_time": 1689906870,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 201829,
-      "num": 201829,
+      "num": 223744,
       "word": "BW2023",
       "onboard_time": 1689894982,
       "rank": 49,
@@ -747,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190150,
+      "num": 223888,
+      "word": "电影燃冬角色特辑三人三面",
+      "onboard_time": 1689908190,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188929,
       "num": 188929,
       "word": "女子嫌狗狗小便将其倒挂窗外5分钟",
@@ -771,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179857,
+      "num": 223842,
+      "word": "夏阳钟嘉诚道歉",
+      "onboard_time": 1689903273,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172087,
       "num": 172087,
       "word": "芭比",
@@ -787,8 +867,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168099,
+      "num": 224778,
+      "word": "警方回应老人持斧头入室追砍两女孩",
+      "onboard_time": 1689908912,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167376,
-      "num": 190037,
+      "num": 223801,
       "word": "俄军打击敖德萨和尼古拉耶夫附近军事设施",
       "onboard_time": 1689898830,
       "rank": 42,
@@ -811,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161416,
-      "num": 190037,
-      "word": "男孩利用杠杆原理帮建筑工父亲铺瓷砖",
-      "onboard_time": 1689906870,
-      "rank": 38,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 149690,
       "num": 259937,
       "word": "这粽子只有云南才有吗",
@@ -833,14 +913,6 @@
       "onboard_time": 1689899612,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146082,
-      "num": 190034,
-      "word": "椰树总部外观",
-      "onboard_time": 1689907353,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143177,
