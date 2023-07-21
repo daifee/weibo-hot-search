@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689977750655,
+  "endTime": 1689978811039,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -11539,6 +11539,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 159444,
+      "num": 97839,
+      "word": "肖战任敏玉骨遥收官战报",
+      "onboard_time": 1689976393,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159059,
       "num": 218225,
       "word": "民警超市买东西直接帮店员省了1万多",
@@ -12211,20 +12219,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103382,
+      "num": 147096,
+      "word": "杭州高职小伙一毕业被开18万年薪",
+      "onboard_time": 1689958765,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 101469,
       "num": 1337653,
       "word": "我国累计建成5G基站超293万个",
       "onboard_time": 1689758734,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 98570,
-      "num": 65195,
-      "word": "肖战任敏玉骨遥收官战报",
-      "onboard_time": 1689976393,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 97913,
@@ -12251,14 +12259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 96731,
-      "num": 147096,
-      "word": "杭州高职小伙一毕业被开18万年薪",
-      "onboard_time": 1689958765,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 96221,
       "num": 254160,
       "word": "如何画毛孩的小教程",
@@ -12281,6 +12281,14 @@
       "onboard_time": 1689636506,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91715,
+      "num": 91715,
+      "word": "祖孙3人穿越警戒深水区洗澡遇险",
+      "onboard_time": 1689966673,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90638,
@@ -12315,6 +12323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84995,
+      "num": 75769,
+      "word": "迪丽热巴的身材管理",
+      "onboard_time": 1689968653,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 84076,
       "num": 194221,
       "word": "米哈游动画公司",
@@ -12337,6 +12353,14 @@
       "onboard_time": 1689797713,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81760,
+      "num": 74402,
+      "word": "肖战删了一句台词",
+      "onboard_time": 1689967574,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 80922,
@@ -12379,14 +12403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73457,
-      "num": 73457,
-      "word": "祖孙3人穿越警戒深水区洗澡遇险",
-      "onboard_time": 1689966673,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71274,
       "num": 1949445,
       "word": "第2架国产C919入列",
@@ -12403,20 +12419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69995,
-      "num": 62386,
-      "word": "肖战删了一句台词",
-      "onboard_time": 1689967574,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 69161,
       "num": 1903763,
       "word": "生态保护硬核成绩单",
       "onboard_time": 1689734610,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68835,
+      "num": 54201,
+      "word": "黄宗泽张嘉元cos青蛇白蛇",
+      "onboard_time": 1689974893,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 68429,
@@ -12427,20 +12443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67592,
+      "num": 60719,
+      "word": "陈佩斯朱时茂神预言我的人间烟火",
+      "onboard_time": 1689969313,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 66984,
       "num": 227289,
       "word": "饿了么免单不再限制答题时间",
       "onboard_time": 1689912034,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 65727,
-      "num": 62255,
-      "word": "迪丽热巴的身材管理",
-      "onboard_time": 1689968653,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 62940,
@@ -12483,14 +12499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60719,
-      "num": 60719,
-      "word": "陈佩斯朱时茂神预言我的人间烟火",
-      "onboard_time": 1689969313,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 54924,
       "num": 1918565,
       "word": "大运会城市志愿服务小站有急救包",
@@ -12505,14 +12513,6 @@
       "onboard_time": 1689513213,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54201,
-      "num": 54201,
-      "word": "黄宗泽张嘉元cos青蛇白蛇",
-      "onboard_time": 1689974893,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 54116,
@@ -12563,12 +12563,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48410,
+      "num": 48410,
+      "word": "乘客突发心脏病公交抄近路开进医院",
+      "onboard_time": 1689966195,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48251,
       "num": 1542785,
       "word": "致敬高温里的平凡英雄",
       "onboard_time": 1689650192,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44123,
+      "num": 41901,
+      "word": "中国好声音",
+      "onboard_time": 1689975493,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 43412,
@@ -12617,22 +12633,6 @@
       "onboard_time": 1689860616,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39130,
-      "num": 39130,
-      "word": "乘客突发心脏病公交抄近路开进医院",
-      "onboard_time": 1689966195,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37887,
-      "num": 37887,
-      "word": "中国好声音",
-      "onboard_time": 1689975493,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 36383,
@@ -12699,6 +12699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31301,
+      "num": 41398,
+      "word": "小学生为什么喜欢盘手串",
+      "onboard_time": 1689977233,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29527,
       "num": 36578,
       "word": "怎么做到的自信",
@@ -12713,6 +12721,14 @@
       "onboard_time": 1689968594,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26854,
+      "num": 41372,
+      "word": "微博公开课",
+      "onboard_time": 1689975191,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 26806,
@@ -12761,14 +12777,6 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 14670,
-      "num": 24388,
-      "word": "微博公开课",
-      "onboard_time": 1689975191,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 7112,
