@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689914036686,
+  "endTime": 1689916572384,
   "band_list": [
     {
       "raw_hot": 2605723,
@@ -9,6 +9,14 @@
       "onboard_time": 1689905431,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2368360,
+      "num": 2368360,
+      "word": "许沁不敢向同事坦诚没车了",
+      "onboard_time": 1689912815,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 2359745,
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1126233,
-      "num": 1126233,
-      "word": "许沁不敢向同事坦诚没车了",
-      "onboard_time": 1689912815,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1109705,
       "num": 1109705,
       "word": "宋焰总算大方了一次",
@@ -193,6 +193,22 @@
       "onboard_time": 1689864218,
       "rank": 1,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 897367,
+      "num": 897367,
+      "word": "许沁的虎扑评分",
+      "onboard_time": 1689914257,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 888501,
+      "num": 888501,
+      "word": "asap",
+      "onboard_time": 1689913898,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 887989,
@@ -275,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 741685,
+      "num": 431063,
+      "word": "宁静对李若彤说我就是要打断你",
+      "onboard_time": 1689912874,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 725439,
       "num": 455672,
       "word": "狗头萝莉",
@@ -291,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 669784,
-      "num": 412343,
-      "word": "宁静对李若彤说我就是要打断你",
-      "onboard_time": 1689912874,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 665925,
       "num": 325712,
       "word": "社交冷漠症",
       "onboard_time": 1689909632,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 648196,
+      "num": 648196,
+      "word": "6个月宝宝为逃避抽血顽强装睡",
+      "onboard_time": 1689914558,
+      "rank": 8,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 634762,
@@ -353,6 +377,14 @@
       "onboard_time": 1689855453,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555245,
+      "num": 240669,
+      "word": "刘昊然是不是该刮胡子了",
+      "onboard_time": 1689914918,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 554663,
@@ -481,14 +513,6 @@
       "onboard_time": 1689869310,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 415629,
-      "num": 318050,
-      "word": "asap",
-      "onboard_time": 1689913898,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 412500,
@@ -851,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221507,
+      "num": 221507,
+      "word": "重庆暴雨开车如开船",
+      "onboard_time": 1689914736,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220500,
       "num": 220500,
       "word": "泡泡岛音乐节",
@@ -907,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208131,
+      "num": 208131,
+      "word": "丝芭家族十周年演唱会阵容官宣",
+      "onboard_time": 1689913536,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201829,
       "num": 223744,
       "word": "BW2023",
       "onboard_time": 1689894982,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 201671,
+      "num": 201671,
+      "word": "艾伦沈腾演的醉酒主打一个真实",
+      "onboard_time": 1689914199,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 201428,
@@ -923,20 +971,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200251,
+      "num": 226869,
+      "word": "风月变",
+      "onboard_time": 1689911915,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198801,
       "num": 198801,
       "word": "无期迷途",
       "onboard_time": 1689906150,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197674,
-      "num": 206781,
-      "word": "丝芭家族十周年演唱会阵容官宣",
-      "onboard_time": 1689913536,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 196984,
@@ -947,12 +995,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195661,
+      "num": 224276,
+      "word": "小孩子的童年多了个寄居蟹侠",
+      "onboard_time": 1689913598,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 195195,
       "num": 195195,
       "word": "六公主评长安三万里",
       "onboard_time": 1689896846,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191612,
+      "num": 198036,
+      "word": "乘风2023",
+      "onboard_time": 1689915815,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 190150,
@@ -995,22 +1059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185013,
-      "num": 224276,
-      "word": "小孩子的童年多了个寄居蟹侠",
-      "onboard_time": 1689913598,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 181565,
-      "num": 226869,
-      "word": "风月变",
-      "onboard_time": 1689911915,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 179857,
       "num": 223842,
       "word": "夏阳钟嘉诚道歉",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1689912034,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 169938,
+      "num": 198144,
+      "word": "陕西吴堡通报清廉餐有关问题",
+      "onboard_time": 1689915577,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168939,
