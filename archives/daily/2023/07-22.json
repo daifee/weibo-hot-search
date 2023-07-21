@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689959715167,
+  "endTime": 1689960822037,
   "band_list": [
     {
       "raw_hot": 1465854,
@@ -211,6 +211,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 285631,
+      "num": 220221,
+      "word": "郑恺发了跑男11季剧照",
+      "onboard_time": 1689958945,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283113,
       "num": 306088,
       "word": "男孩痛哭跪谢回收空调师傅多给1000元",
@@ -323,14 +331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 220221,
-      "num": 220221,
-      "word": "郑恺发了跑男11季剧照",
-      "onboard_time": 1689958945,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208164,
       "num": 208164,
       "word": "马天宇晒鹿晗to签",
@@ -395,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126390,
+      "num": 183079,
+      "word": "感受一下萨摩耶的含绒量",
+      "onboard_time": 1689958825,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 116451,
       "num": 207968,
       "word": "NIP战胜RNG",
       "onboard_time": 1689937472,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110220,
-      "num": 183079,
-      "word": "感受一下萨摩耶的含绒量",
-      "onboard_time": 1689958825,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 104101,
@@ -441,6 +441,14 @@
       "onboard_time": 1689943903,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46561,
+      "num": 147096,
+      "word": "杭州高职小伙一毕业被开18万年薪",
+      "onboard_time": 1689958765,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 44775,
