@@ -1,0 +1,410 @@
+{
+  "runTime": 1689910449951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1994792,
+        "num": 1994792,
+        "word": "李玟讣闻",
+        "onboard_time": 1689908973,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1800389,
+        "num": 1800389,
+        "word": "孟宴臣叫孟沁了",
+        "onboard_time": 1689903452,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18981,
+        "num": 1461066,
+        "word": "要促进民营经济做大做优做强",
+        "onboard_time": 1689860616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1419138,
+        "num": 1419138,
+        "word": "陈妍希忘了删文案",
+        "onboard_time": 1689900574,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744571,
+        "num": 744571,
+        "word": "杨洋王楚然杨超越版恶作剧之吻",
+        "onboard_time": 1689901294,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639233,
+        "num": 639233,
+        "word": "邓亚萍通过儿子了解电竞",
+        "onboard_time": 1689903630,
+        "rank": 5,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 634762,
+        "num": 634762,
+        "word": "飞机延误6小时工作人员发现金补贴",
+        "onboard_time": 1689905191,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549215,
+        "num": 549215,
+        "word": "丈夫为鼓励妻子产后恢复走一步发100",
+        "onboard_time": 1689899555,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 368322,
+        "num": 368322,
+        "word": "被北大录取女生分享经验强调没手机",
+        "onboard_time": 1689896484,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 262108,
+        "num": 366178,
+        "word": "男孩利用杠杆原理帮建筑工父亲铺瓷砖",
+        "onboard_time": 1689906870,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 844370,
+        "num": 362443,
+        "word": "敦煌骆驼疑似被人骑死了",
+        "onboard_time": 1689898889,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632436,
+        "num": 356646,
+        "word": "杀不死的石家庄",
+        "onboard_time": 1689903691,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574854,
+        "num": 352564,
+        "word": "宋焰总算大方了一次",
+        "onboard_time": 1689895103,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557029,
+        "num": 349984,
+        "word": "张一山不跟张俪演戏的原因",
+        "onboard_time": 1689900395,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521008,
+        "num": 345154,
+        "word": "陈数演女老板自掏5000万给员工",
+        "onboard_time": 1689907711,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430216,
+        "num": 342799,
+        "word": "警方回应老人持斧头入室追砍两女孩",
+        "onboard_time": 1689908912,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372241,
+        "num": 337356,
+        "word": "狗头萝莉",
+        "onboard_time": 1689900453,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 334909,
+        "num": 334909,
+        "word": "Angelababy小水同框合影",
+        "onboard_time": 1689898950,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251523,
+        "num": 332077,
+        "word": "男孩在家烧书引起失火从18楼跳下",
+        "onboard_time": 1689895945,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212486,
+        "num": 316846,
+        "word": "中方回应俄对乌空袭波及中国总领馆",
+        "onboard_time": 1689896185,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1914340,
+        "num": 305050,
+        "word": "印2女子被强迫裸体游街还遭侵犯",
+        "onboard_time": 1689905431,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508564,
+        "num": 297952,
+        "word": "Angelababy迪丽热巴芭比造型",
+        "onboard_time": 1689908131,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 391491,
+        "num": 292565,
+        "word": "成年人早醒是衰老的表现",
+        "onboard_time": 1689899192,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284198,
+        "num": 284198,
+        "word": "郭京飞微博后缀连起来是圆周率",
+        "onboard_time": 1689903394,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278298,
+        "num": 278298,
+        "word": "你的身体到底有多爱你",
+        "onboard_time": 1689897088,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275231,
+        "num": 275231,
+        "word": "蔡卓宜 我真的没在哭",
+        "onboard_time": 1689896484,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263201,
+        "num": 263201,
+        "word": "社交冷漠症",
+        "onboard_time": 1689909632,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259596,
+        "num": 259596,
+        "word": "封神特效",
+        "onboard_time": 1689908012,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258678,
+        "num": 258678,
+        "word": "张颂文考科目二被围观",
+        "onboard_time": 1689864818,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236732,
+        "num": 257900,
+        "word": "纸嫁衣5无间梦境",
+        "onboard_time": 1689908492,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257277,
+        "num": 257277,
+        "word": "剧是一集没看气是一点没少生",
+        "onboard_time": 1689894320,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244536,
+        "num": 244536,
+        "word": "种地吧",
+        "onboard_time": 1689906030,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239291,
+        "num": 239291,
+        "word": "老舅晒图回击了",
+        "onboard_time": 1689899072,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220500,
+        "num": 220500,
+        "word": "泡泡岛音乐节",
+        "onboard_time": 1689909510,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207295,
+        "num": 219255,
+        "word": "HR教我怎么骗公司",
+        "onboard_time": 1689900336,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219110,
+        "num": 219110,
+        "word": "这是许沁本来该过的生活吧",
+        "onboard_time": 1689900813,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186262,
+        "num": 219068,
+        "word": "打工人减肥每天爬21层楼月瘦13斤",
+        "onboard_time": 1689900755,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2015550,
+        "num": 218948,
+        "word": "椰树总部外观",
+        "onboard_time": 1689907353,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173580,
+        "num": 218771,
+        "word": "警方通报男子将妻子捅伤致死",
+        "onboard_time": 1689901233,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158859,
+        "num": 218624,
+        "word": "西安成立调查组核查回流生报名资格",
+        "onboard_time": 1689902793,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 206391,
+        "num": 218552,
+        "word": "吴宣仪演技",
+        "onboard_time": 1689902020,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176196,
+        "num": 218396,
+        "word": "宋祖儿直角鼻",
+        "onboard_time": 1689899796,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 175035,
+        "num": 218346,
+        "word": "芭比",
+        "onboard_time": 1689896666,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173469,
+        "num": 218212,
+        "word": "种地吧普通话课直播",
+        "onboard_time": 1689906393,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172739,
+        "num": 217998,
+        "word": "魏大勋人在内蒙也要西装加身",
+        "onboard_time": 1689872841,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144768,
+        "num": 217965,
+        "word": "00后以抑郁想自杀为由拒服兵役被罚",
+        "onboard_time": 1689910295,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142313,
+        "num": 217728,
+        "word": "重庆暴雨",
+        "onboard_time": 1689894800,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130379,
+        "num": 217645,
+        "word": "俄军打击敖德萨和尼古拉耶夫附近军事设施",
+        "onboard_time": 1689898830,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 99359,
+        "num": 217514,
+        "word": "BW2023",
+        "onboard_time": 1689894982,
+        "rank": 48,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 62681,
+        "num": 217397,
+        "word": "网友称细节控的我更爱杭州了",
+        "onboard_time": 1689909690,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人重情讲义不会忘记老朋友#"
+    }
+  }
+}
