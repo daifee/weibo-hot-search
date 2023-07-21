@@ -1,6 +1,6 @@
 {
   "startTime": 1689870157912,
-  "endTime": 1689910449951,
+  "endTime": 1689913228575,
   "band_list": [
     {
       "raw_hot": 2605723,
@@ -19,6 +19,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 2359704,
+      "num": 2359704,
+      "word": "李玟讣闻",
+      "onboard_time": 1689908973,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2196054,
       "num": 2196054,
       "word": "孟宴臣叫孟沁了",
@@ -27,20 +35,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2139187,
+      "num": 1293579,
+      "word": "00后以抑郁想自杀为由拒服兵役被罚",
+      "onboard_time": 1689910295,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2015550,
       "num": 1517622,
       "word": "椰树总部外观",
       "onboard_time": 1689907353,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1994792,
-      "num": 1994792,
-      "word": "李玟讣闻",
-      "onboard_time": 1689908973,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1788928,
@@ -83,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1260763,
+      "num": 1260763,
+      "word": "中餐厅7变了",
+      "onboard_time": 1689911193,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1258651,
       "num": 1258651,
       "word": "丈夫为鼓励妻子产后恢复走一步发100",
@@ -91,12 +107,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1250819,
+      "num": 1250819,
+      "word": "周杰伦演唱会 猫眼",
+      "onboard_time": 1689911854,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1219047,
       "num": 1219047,
       "word": "孟宴臣 你谈恋爱谈得脑子里全是泡泡吗",
       "onboard_time": 1689859955,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1208854,
+      "num": 1208854,
+      "word": "TFBOYS十周年演唱会座位图",
+      "onboard_time": 1689910894,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1160930,
@@ -251,11 +283,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665925,
+      "num": 281353,
+      "word": "社交冷漠症",
+      "onboard_time": 1689909632,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 634762,
       "num": 634762,
       "word": "飞机延误6小时工作人员发现金补贴",
       "onboard_time": 1689905191,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614419,
+      "num": 342799,
+      "word": "警方回应老人持斧头入室追砍两女孩",
+      "onboard_time": 1689908912,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -299,6 +347,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 540531,
+      "num": 405383,
+      "word": "许沁不敢向同事坦诚没车了",
+      "onboard_time": 1689912815,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 522316,
       "num": 344992,
       "word": "警方通报男子将妻子捅伤致死",
@@ -316,7 +372,7 @@
     },
     {
       "raw_hot": 521008,
-      "num": 364630,
+      "num": 398013,
       "word": "陈数演女老板自掏5000万给员工",
       "onboard_time": 1689907711,
       "rank": 15,
@@ -395,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430216,
-      "num": 342799,
-      "word": "警方回应老人持斧头入室追砍两女孩",
-      "onboard_time": 1689908912,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418400,
       "num": 418400,
       "word": "娜然 妲己",
@@ -467,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344879,
+      "num": 274721,
+      "word": "王者峡谷出现手机",
+      "onboard_time": 1689911554,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 336061,
       "num": 259693,
       "word": "况三喜直播",
@@ -515,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299652,
+      "num": 270916,
+      "word": "漫威蜘蛛侠2",
+      "onboard_time": 1689912334,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299159,
       "num": 299159,
       "word": "孟宴臣喜欢许沁什么",
@@ -553,6 +617,14 @@
       "onboard_time": 1689862835,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285649,
+      "num": 366178,
+      "word": "男孩利用杠杆原理帮建筑工父亲铺瓷砖",
+      "onboard_time": 1689906870,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 281411,
@@ -643,28 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263201,
-      "num": 263201,
-      "word": "社交冷漠症",
-      "onboard_time": 1689909632,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 262108,
-      "num": 366178,
-      "word": "男孩利用杠杆原理帮建筑工父亲铺瓷砖",
-      "onboard_time": 1689906870,
-      "rank": 38,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 261587,
       "num": 199545,
       "word": "31岁宝妈持续3年订牛奶弥补童年遗憾",
       "onboard_time": 1689894385,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258797,
+      "num": 258797,
+      "word": "芭比",
+      "onboard_time": 1689896666,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 257505,
@@ -723,6 +787,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236723,
+      "num": 236723,
+      "word": "巨齿鲨2官宣北京全球首映礼",
+      "onboard_time": 1689910714,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234628,
+      "num": 234628,
+      "word": "韦神揭秘4AM新基地",
+      "onboard_time": 1689910714,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233891,
       "num": 233891,
       "word": "榴莲壳上白色的肉也很好吃",
@@ -737,6 +817,14 @@
       "onboard_time": 1689902491,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226905,
+      "num": 226905,
+      "word": "宁静对李若彤说我就是要打断你",
+      "onboard_time": 1689912874,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 226248,
@@ -827,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196984,
+      "num": 226890,
+      "word": "云台山音乐节",
+      "onboard_time": 1689912815,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195195,
       "num": 195195,
       "word": "六公主评长安三万里",
@@ -867,20 +963,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185614,
+      "num": 227446,
+      "word": "无畏回归首发",
+      "onboard_time": 1689912514,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 181565,
+      "num": 226869,
+      "word": "风月变",
+      "onboard_time": 1689911915,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179857,
       "num": 223842,
       "word": "夏阳钟嘉诚道歉",
       "onboard_time": 1689903273,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175035,
-      "num": 218346,
-      "word": "芭比",
-      "onboard_time": 1689896666,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 168939,
@@ -892,7 +996,7 @@
     },
     {
       "raw_hot": 167376,
-      "num": 223801,
+      "num": 226829,
       "word": "俄军打击敖德萨和尼古拉耶夫附近军事设施",
       "onboard_time": 1689898830,
       "rank": 42,
@@ -929,14 +1033,6 @@
       "onboard_time": 1689899612,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144768,
-      "num": 217965,
-      "word": "00后以抑郁想自杀为由拒服兵役被罚",
-      "onboard_time": 1689910295,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143177,
@@ -1027,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114587,
+      "num": 412983,
+      "word": "外国人两步用上支付宝",
+      "onboard_time": 1689912034,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 113692,
       "num": 210591,
       "word": "盛情款待了小时候的自己",
@@ -1073,6 +1177,14 @@
       "onboard_time": 1689909690,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 50794,
+      "num": 227289,
+      "word": "饿了么免单不再限制答题时间",
+      "onboard_time": 1689912034,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 41711,

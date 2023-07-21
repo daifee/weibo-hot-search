@@ -1,0 +1,410 @@
+{
+  "runTime": 1689913228575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2359704,
+        "num": 2359704,
+        "word": "李玟讣闻",
+        "onboard_time": 1689908973,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1551633,
+        "num": 1551633,
+        "word": "孟宴臣叫孟沁了",
+        "onboard_time": 1689903452,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9766,
+        "num": 1303193,
+        "word": "要促进民营经济做大做优做强",
+        "onboard_time": 1689860616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2139187,
+        "num": 1293579,
+        "word": "00后以抑郁想自杀为由拒服兵役被罚",
+        "onboard_time": 1689910295,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1260763,
+        "num": 1260763,
+        "word": "中餐厅7变了",
+        "onboard_time": 1689911193,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1250819,
+        "num": 1250819,
+        "word": "周杰伦演唱会 猫眼",
+        "onboard_time": 1689911854,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1208854,
+        "num": 1208854,
+        "word": "TFBOYS十周年演唱会座位图",
+        "onboard_time": 1689910894,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 899016,
+        "num": 899016,
+        "word": "杨洋王楚然杨超越版恶作剧之吻",
+        "onboard_time": 1689901294,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 621395,
+        "num": 621395,
+        "word": "丈夫为鼓励妻子产后恢复走一步发100",
+        "onboard_time": 1689899555,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 451477,
+        "num": 451477,
+        "word": "飞机延误6小时工作人员发现金补贴",
+        "onboard_time": 1689905191,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870251,
+        "num": 444376,
+        "word": "敦煌骆驼疑似被人骑死了",
+        "onboard_time": 1689898889,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856125,
+        "num": 436813,
+        "word": "陈妍希忘了删文案",
+        "onboard_time": 1689900574,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632464,
+        "num": 428700,
+        "word": "宋焰总算大方了一次",
+        "onboard_time": 1689895103,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523342,
+        "num": 423802,
+        "word": "张一山不跟张俪演戏的原因",
+        "onboard_time": 1689900395,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114587,
+        "num": 412983,
+        "word": "外国人两步用上支付宝",
+        "onboard_time": 1689912034,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 540531,
+        "num": 405383,
+        "word": "许沁不敢向同事坦诚没车了",
+        "onboard_time": 1689912815,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469592,
+        "num": 398013,
+        "word": "陈数演女老板自掏5000万给员工",
+        "onboard_time": 1689907711,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392207,
+        "num": 392207,
+        "word": "杀不死的石家庄",
+        "onboard_time": 1689903691,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340105,
+        "num": 340105,
+        "word": "被北大录取女生分享经验强调没手机",
+        "onboard_time": 1689896484,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 285649,
+        "num": 285649,
+        "word": "男孩利用杠杆原理帮建筑工父亲铺瓷砖",
+        "onboard_time": 1689906870,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 404072,
+        "num": 284140,
+        "word": "狗头萝莉",
+        "onboard_time": 1689900453,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1134567,
+        "num": 282707,
+        "word": "印2女子被强迫裸体游街还遭侵犯",
+        "onboard_time": 1689905431,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665925,
+        "num": 281353,
+        "word": "社交冷漠症",
+        "onboard_time": 1689909632,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 614419,
+        "num": 280033,
+        "word": "警方回应老人持斧头入室追砍两女孩",
+        "onboard_time": 1689908912,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431992,
+        "num": 277515,
+        "word": "Angelababy迪丽热巴芭比造型",
+        "onboard_time": 1689908131,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 403038,
+        "num": 276245,
+        "word": "成年人早醒是衰老的表现",
+        "onboard_time": 1689899192,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344879,
+        "num": 274721,
+        "word": "王者峡谷出现手机",
+        "onboard_time": 1689911554,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327270,
+        "num": 272954,
+        "word": "这是许沁本来该过的生活吧",
+        "onboard_time": 1689900813,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299652,
+        "num": 270916,
+        "word": "漫威蜘蛛侠2",
+        "onboard_time": 1689912334,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293448,
+        "num": 268255,
+        "word": "你的身体到底有多爱你",
+        "onboard_time": 1689897088,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287769,
+        "num": 266383,
+        "word": "HR教我怎么骗公司",
+        "onboard_time": 1689900336,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266094,
+        "num": 266094,
+        "word": "张颂文考科目二被围观",
+        "onboard_time": 1689864818,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258797,
+        "num": 258797,
+        "word": "芭比",
+        "onboard_time": 1689896666,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257617,
+        "num": 257617,
+        "word": "邓亚萍通过儿子了解电竞",
+        "onboard_time": 1689903630,
+        "rank": 33,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 236723,
+        "num": 236723,
+        "word": "巨齿鲨2官宣北京全球首映礼",
+        "onboard_time": 1689910714,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234628,
+        "num": 234628,
+        "word": "韦神揭秘4AM新基地",
+        "onboard_time": 1689910714,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232805,
+        "num": 232805,
+        "word": "Angelababy小水同框合影",
+        "onboard_time": 1689898950,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228379,
+        "num": 228379,
+        "word": "郭京飞微博后缀连起来是圆周率",
+        "onboard_time": 1689903394,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185614,
+        "num": 227446,
+        "word": "无畏回归首发",
+        "onboard_time": 1689912514,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50794,
+        "num": 227289,
+        "word": "饿了么免单不再限制答题时间",
+        "onboard_time": 1689912034,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 227174,
+        "num": 227174,
+        "word": "封神特效",
+        "onboard_time": 1689908012,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227776,
+        "num": 227120,
+        "word": "蔡卓宜 我真的没在哭",
+        "onboard_time": 1689896484,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226905,
+        "num": 226905,
+        "word": "宁静对李若彤说我就是要打断你",
+        "onboard_time": 1689912874,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196984,
+        "num": 226890,
+        "word": "云台山音乐节",
+        "onboard_time": 1689912815,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193779,
+        "num": 226880,
+        "word": "老舅晒图回击了",
+        "onboard_time": 1689899072,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181565,
+        "num": 226869,
+        "word": "风月变",
+        "onboard_time": 1689911915,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165174,
+        "num": 226847,
+        "word": "男孩在家烧书引起失火从18楼跳下",
+        "onboard_time": 1689895945,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164861,
+        "num": 226830,
+        "word": "中方回应俄对乌空袭波及中国总领馆",
+        "onboard_time": 1689896185,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159723,
+        "num": 226829,
+        "word": "俄军打击敖德萨和尼古拉耶夫附近军事设施",
+        "onboard_time": 1689898830,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139762,
+        "num": 226803,
+        "word": "打工人减肥每天爬21层楼月瘦13斤",
+        "onboard_time": 1689900755,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国人重情讲义不会忘记老朋友#"
+    }
+  }
+}
