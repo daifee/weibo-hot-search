@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690031915620,
+  "endTime": 1690032823523,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2511348,
+      "num": 2511348,
+      "word": "EDG战胜OMG",
+      "onboard_time": 1690031975,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2486346,
       "num": 2486346,
       "word": "孟宴臣 你谈恋爱谈得脑子里全是泡泡吗",
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2232468,
+      "num": 2232468,
+      "word": "杨迪说魏大勋老来得粉",
+      "onboard_time": 1690028613,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2208511,
       "num": 2208511,
       "word": "方川导演 孟宴臣",
@@ -497,14 +513,6 @@
       "onboard_time": 1689774577,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2041000,
-      "num": 2041000,
-      "word": "杨迪说魏大勋老来得粉",
-      "onboard_time": 1690028613,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 2038435,
@@ -908,7 +916,7 @@
     },
     {
       "raw_hot": 1635424,
-      "num": 1196535,
+      "num": 1541549,
       "word": "你好星期六你是来看谁的",
       "onboard_time": 1690029093,
       "rank": 9,
@@ -999,6 +1007,14 @@
       "num": 1552458,
       "word": "跑男后期 游泳圈",
       "onboard_time": 1689951701,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1537372,
+      "num": 766106,
+      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
+      "onboard_time": 1690031072,
       "rank": 10,
       "category": "综艺"
     },
@@ -1291,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1325379,
+      "num": 1325379,
+      "word": "OMG对战EDG",
+      "onboard_time": 1690019492,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1321609,
       "num": 1321609,
       "word": "苏明玉 天选孟家女",
@@ -1451,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1209532,
+      "num": 1209532,
+      "word": "中山一骑车女子遇开门杀不幸身亡",
+      "onboard_time": 1690030294,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1208854,
       "num": 1208854,
       "word": "TFBOYS十周年演唱会座位图",
@@ -1561,14 +1593,6 @@
       "onboard_time": 1689987271,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1162732,
-      "num": 1162732,
-      "word": "中山一骑车女子遇开门杀不幸身亡",
-      "onboard_time": 1690030294,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1161594,
@@ -2500,7 +2524,7 @@
     },
     {
       "raw_hot": 882946,
-      "num": 403114,
+      "num": 438855,
       "word": "外卖员自拍2次裤裆拔毛放入餐食",
       "onboard_time": 1690023930,
       "rank": 20,
@@ -2545,14 +2569,6 @@
       "onboard_time": 1689607713,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 877143,
-      "num": 689358,
-      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
-      "onboard_time": 1690031072,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 876023,
@@ -3145,6 +3161,14 @@
       "onboard_time": 1690003292,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 775186,
+      "num": 775186,
+      "word": "Uzi状态",
+      "onboard_time": 1690022611,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 774633,
@@ -4163,6 +4187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 633477,
+      "num": 633477,
+      "word": "王霜",
+      "onboard_time": 1690029513,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 633204,
       "num": 633204,
       "word": "许沁看灭火器vs王宝钏看野菜",
@@ -4193,6 +4225,14 @@
       "onboard_time": 1689748350,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 628851,
+      "num": 628851,
+      "word": "起猛了全班17人考上了清华",
+      "onboard_time": 1690028731,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 627068,
@@ -4659,6 +4699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577962,
+      "num": 577962,
+      "word": "九尾",
+      "onboard_time": 1690031014,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 577298,
       "num": 577298,
       "word": "奥本海默确认引进",
@@ -4995,6 +5043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 548318,
+      "num": 548318,
+      "word": "乐华娱乐退票",
+      "onboard_time": 1690032517,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 547483,
       "num": 547483,
       "word": "梅西替补",
@@ -5131,14 +5187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 532656,
-      "num": 532656,
-      "word": "王霜",
-      "onboard_time": 1690029513,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 532131,
       "num": 532131,
       "word": "真的不要过度的去省钱",
@@ -5193,6 +5241,14 @@
       "onboard_time": 1689599494,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528198,
+      "num": 528198,
+      "word": "小奶油这能飞啊",
+      "onboard_time": 1690031734,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 526336,
@@ -5283,14 +5339,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 519646,
-      "num": 519646,
-      "word": "Uzi状态",
-      "onboard_time": 1690022611,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 519004,
       "num": 355209,
       "word": "讨坏型人格",
@@ -5321,6 +5369,14 @@
       "onboard_time": 1690011092,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 513404,
+      "num": 513404,
+      "word": "OMG和EDG决胜局",
+      "onboard_time": 1690030053,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 512974,
@@ -5537,14 +5593,6 @@
       "onboard_time": 1689738272,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497298,
-      "num": 497298,
-      "word": "OMG对战EDG",
-      "onboard_time": 1690019492,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 497262,
@@ -6107,14 +6155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 453506,
-      "num": 453506,
-      "word": "九尾",
-      "onboard_time": 1690031014,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 453393,
       "num": 453393,
       "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
@@ -6153,14 +6193,6 @@
       "onboard_time": 1689830258,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 450548,
-      "num": 402782,
-      "word": "起猛了全班17人考上了清华",
-      "onboard_time": 1690028731,
-      "rank": 35,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 450060,
@@ -6779,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413725,
+      "num": 413725,
+      "word": "女子担心首饰被偷花180存银行保险柜",
+      "onboard_time": 1690030413,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 413426,
       "num": 413426,
       "word": "吴磊星汉灿烂的长尾效应",
@@ -6939,6 +6979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 403838,
+      "num": 403838,
+      "word": "魏大勋在新剧里叫黄子诚",
+      "onboard_time": 1690032215,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403283,
       "num": 294961,
       "word": "入职后发现自己不是应届生",
@@ -6969,14 +7017,6 @@
       "onboard_time": 1689942761,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 401975,
-      "num": 401975,
-      "word": "女子担心首饰被偷花180存银行保险柜",
-      "onboard_time": 1690030413,
-      "rank": 19,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 401467,
@@ -7179,6 +7219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 392133,
+      "num": 392133,
+      "word": "还得是刘奕君演成功",
+      "onboard_time": 1690030714,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391978,
       "num": 391978,
       "word": "Uzi霞MVP",
@@ -7265,14 +7313,6 @@
       "onboard_time": 1689758013,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 384885,
-      "num": 384885,
-      "word": "还得是刘奕君演成功",
-      "onboard_time": 1690030714,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 383779,
@@ -7411,11 +7451,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 373708,
+      "num": 373708,
+      "word": "莲花楼的排播",
+      "onboard_time": 1690031311,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373688,
       "num": 301890,
       "word": "黄仁俊中输",
       "onboard_time": 1689607294,
       "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 372999,
+      "num": 372999,
+      "word": "汪苏泷南京演唱会",
+      "onboard_time": 1690028071,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -8683,6 +8739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309923,
+      "num": 309923,
+      "word": "减脂人的冰箱能有多清爽",
+      "onboard_time": 1690028311,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309878,
       "num": 274293,
       "word": "嘴巴很紧的人们的特征",
@@ -8697,14 +8761,6 @@
       "onboard_time": 1689577770,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309778,
-      "num": 309778,
-      "word": "减脂人的冰箱能有多清爽",
-      "onboard_time": 1690028311,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 309763,
@@ -8947,6 +9003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299340,
+      "num": 299340,
+      "word": "孟宴臣打网球好帅",
+      "onboard_time": 1690032393,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299159,
       "num": 299159,
       "word": "孟宴臣喜欢许沁什么",
@@ -9099,14 +9163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 292941,
-      "num": 292941,
-      "word": "莲花楼的排播",
-      "onboard_time": 1690031311,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292821,
       "num": 292821,
       "word": "在宿舍听到最劲爆的八卦",
@@ -9257,6 +9313,14 @@
       "onboard_time": 1689558811,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 288669,
+      "num": 288669,
+      "word": "孟美岐造型",
+      "onboard_time": 1690032634,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 288579,
@@ -9721,6 +9785,14 @@
       "onboard_time": 1689654454,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272850,
+      "num": 272850,
+      "word": "房东的猫胡夏 那些年",
+      "onboard_time": 1690031915,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 272599,
@@ -10971,6 +11043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230448,
+      "num": 230448,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1690032036,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230331,
       "num": 230331,
       "word": "肖战删了一句台词",
@@ -11177,14 +11257,6 @@
       "onboard_time": 1689757772,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223210,
-      "num": 223210,
-      "word": "汪苏泷南京演唱会",
-      "onboard_time": 1690028071,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 222927,
@@ -11819,6 +11891,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 204828,
+      "num": 204828,
+      "word": "王彦霖好好笑",
+      "onboard_time": 1690032215,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204665,
       "num": 202970,
       "word": "芭比 高司令",
@@ -11995,14 +12075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200967,
-      "num": 200967,
-      "word": "小奶油这能飞啊",
-      "onboard_time": 1690031734,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200924,
       "num": 414183,
       "word": "关晓彤当着范丞丞面再提个人战",
@@ -12073,6 +12145,14 @@
       "onboard_time": 1689838891,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 199796,
+      "num": 199796,
+      "word": "Creme卡莎",
+      "onboard_time": 1690032695,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 199714,
@@ -12603,6 +12683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188196,
+      "num": 1579756,
+      "word": "中国跳水队12金收官",
+      "onboard_time": 1690031793,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187702,
       "num": 187702,
       "word": "迈阿密国际2比1蓝十字",
@@ -12681,14 +12769,6 @@
       "onboard_time": 1689849089,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185949,
-      "num": 200318,
-      "word": "OMG和EDG决胜局",
-      "onboard_time": 1690030053,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 185614,
@@ -14505,14 +14585,6 @@
       "onboard_time": 1689650192,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45953,
-      "num": 1203739,
-      "word": "中国跳水队12金收官",
-      "onboard_time": 1690031793,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 45729,

@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690031915620,
+  "endTime": 1690032823523,
   "band_list": [
     {
       "raw_hot": 2741013,
@@ -27,20 +27,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2511348,
+      "num": 2511348,
+      "word": "EDG战胜OMG",
+      "onboard_time": 1690031975,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 2232468,
+      "num": 2232468,
+      "word": "杨迪说魏大勋老来得粉",
+      "onboard_time": 1690028613,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2069727,
       "num": 2069727,
       "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
       "onboard_time": 1689983186,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2041000,
-      "num": 2041000,
-      "word": "杨迪说魏大勋老来得粉",
-      "onboard_time": 1690028613,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 1912720,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1635424,
-      "num": 1196535,
+      "num": 1541549,
       "word": "你好星期六你是来看谁的",
       "onboard_time": 1690029093,
       "rank": 9,
@@ -112,6 +120,14 @@
       "word": "魏大勋爆火后播的第一个综艺",
       "onboard_time": 1690006711,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1537372,
+      "num": 766106,
+      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
+      "onboard_time": 1690031072,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -195,20 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1325379,
+      "num": 1325379,
+      "word": "OMG对战EDG",
+      "onboard_time": 1690019492,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1209532,
+      "num": 1209532,
+      "word": "中山一骑车女子遇开门杀不幸身亡",
+      "onboard_time": 1690030294,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1165331,
       "num": 1165331,
       "word": "黄磊对谭松韵说我们也没法说欢迎你再来",
       "onboard_time": 1689987271,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1162732,
-      "num": 1162732,
-      "word": "中山一骑车女子遇开门杀不幸身亡",
-      "onboard_time": 1690030294,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1103182,
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 882946,
-      "num": 403114,
+      "num": 438855,
       "word": "外卖员自拍2次裤裆拔毛放入餐食",
       "onboard_time": 1690023930,
       "rank": 20,
@@ -369,14 +393,6 @@
       "onboard_time": 1690024288,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 877143,
-      "num": 689358,
-      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
-      "onboard_time": 1690031072,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 876023,
@@ -465,6 +481,14 @@
       "onboard_time": 1690003292,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 775186,
+      "num": 775186,
+      "word": "Uzi状态",
+      "onboard_time": 1690022611,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 767728,
@@ -643,12 +667,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 633477,
+      "num": 633477,
+      "word": "王霜",
+      "onboard_time": 1690029513,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 630710,
       "num": 286741,
       "word": "00后小伙大便带血确诊肠癌晚期",
       "onboard_time": 1689953435,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628851,
+      "num": 628851,
+      "word": "起猛了全班17人考上了清华",
+      "onboard_time": 1690028731,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 619863,
@@ -699,6 +739,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 577962,
+      "num": 577962,
+      "word": "九尾",
+      "onboard_time": 1690031014,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 575581,
       "num": 575581,
       "word": "魏大勋沙发奖励么么哒的原因",
@@ -747,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 548318,
+      "num": 548318,
+      "word": "乐华娱乐退票",
+      "onboard_time": 1690032517,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 547483,
       "num": 547483,
       "word": "梅西替补",
@@ -779,20 +835,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 532656,
-      "num": 532656,
-      "word": "王霜",
-      "onboard_time": 1690029513,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 530891,
       "num": 493666,
       "word": "封神票房",
       "onboard_time": 1690004494,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 528198,
+      "num": 528198,
+      "word": "小奶油这能飞啊",
+      "onboard_time": 1690031734,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 526336,
@@ -827,20 +883,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 519646,
-      "num": 519646,
-      "word": "Uzi状态",
-      "onboard_time": 1690022611,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 518449,
       "num": 518449,
       "word": "大一下学期的奶茶费用",
       "onboard_time": 1690011092,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 513404,
+      "num": 513404,
+      "word": "OMG和EDG决胜局",
+      "onboard_time": 1690030053,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 512397,
@@ -865,14 +921,6 @@
       "onboard_time": 1690006952,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497298,
-      "num": 497298,
-      "word": "OMG对战EDG",
-      "onboard_time": 1690019492,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 497262,
@@ -961,22 +1009,6 @@
       "onboard_time": 1689985408,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 453506,
-      "num": 453506,
-      "word": "九尾",
-      "onboard_time": 1690031014,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 450548,
-      "num": 402782,
-      "word": "起猛了全班17人考上了清华",
-      "onboard_time": 1690028731,
-      "rank": 35,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 449778,
@@ -1099,6 +1131,14 @@
       "category": "国内要闻,财经"
     },
     {
+      "raw_hot": 413725,
+      "num": 413725,
+      "word": "女子担心首饰被偷花180存银行保险柜",
+      "onboard_time": 1690030413,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 410503,
       "num": 455211,
       "word": "在超大特大城市积极稳步推进城中村改造",
@@ -1123,12 +1163,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 401975,
-      "num": 401975,
-      "word": "女子担心首饰被偷花180存银行保险柜",
-      "onboard_time": 1690030413,
-      "rank": 19,
-      "category": "社会新闻,财经"
+      "raw_hot": 403838,
+      "num": 403838,
+      "word": "魏大勋在新剧里叫黄子诚",
+      "onboard_time": 1690032215,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 401542,
@@ -1163,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392133,
+      "num": 392133,
+      "word": "还得是刘奕君演成功",
+      "onboard_time": 1690030714,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389441,
       "num": 349606,
       "word": "花花公子",
@@ -1171,12 +1219,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 384885,
-      "num": 384885,
-      "word": "还得是刘奕君演成功",
-      "onboard_time": 1690030714,
-      "rank": 22,
+      "raw_hot": 373708,
+      "num": 373708,
+      "word": "莲花楼的排播",
+      "onboard_time": 1690031311,
+      "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 372999,
+      "num": 372999,
+      "word": "汪苏泷南京演唱会",
+      "onboard_time": 1690028071,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 371712,
@@ -1355,8 +1411,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309778,
-      "num": 309778,
+      "raw_hot": 309923,
+      "num": 309923,
       "word": "减脂人的冰箱能有多清爽",
       "onboard_time": 1690028311,
       "rank": 41,
@@ -1403,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299340,
+      "num": 299340,
+      "word": "孟宴臣打网球好帅",
+      "onboard_time": 1690032393,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298812,
       "num": 479049,
       "word": "坐高铁开导航是什么体验",
@@ -1427,14 +1491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 292941,
-      "num": 292941,
-      "word": "莲花楼的排播",
-      "onboard_time": 1690031311,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292821,
       "num": 292821,
       "word": "在宿舍听到最劲爆的八卦",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1689964155,
       "rank": 49,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 288669,
+      "num": 288669,
+      "word": "孟美岐造型",
+      "onboard_time": 1690032634,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287666,
@@ -1553,6 +1617,14 @@
       "onboard_time": 1689987032,
       "rank": 25,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 272850,
+      "num": 272850,
+      "word": "房东的猫胡夏 那些年",
+      "onboard_time": 1690031915,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 272571,
@@ -1875,6 +1947,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 230448,
+      "num": 230448,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1690032036,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230331,
       "num": 230331,
       "word": "肖战删了一句台词",
@@ -1913,14 +1993,6 @@
       "onboard_time": 1690031612,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 223210,
-      "num": 223210,
-      "word": "汪苏泷南京演唱会",
-      "onboard_time": 1690028071,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 222423,
@@ -2035,6 +2107,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 204828,
+      "num": 204828,
+      "word": "王彦霖好好笑",
+      "onboard_time": 1690032215,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204051,
       "num": 204051,
       "word": "热烈点映",
@@ -2059,20 +2139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200967,
-      "num": 200967,
-      "word": "小奶油这能飞啊",
-      "onboard_time": 1690031734,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200349,
       "num": 200349,
       "word": "莲花楼",
       "onboard_time": 1690031432,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199796,
+      "num": 199796,
+      "word": "Creme卡莎",
+      "onboard_time": 1690032695,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 198803,
@@ -2187,6 +2267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188196,
+      "num": 1579756,
+      "word": "中国跳水队12金收官",
+      "onboard_time": 1690031793,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187702,
       "num": 187702,
       "word": "迈阿密国际2比1蓝十字",
@@ -2201,14 +2289,6 @@
       "onboard_time": 1690004430,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185949,
-      "num": 200318,
-      "word": "OMG和EDG决胜局",
-      "onboard_time": 1690030053,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 185297,
@@ -2559,14 +2639,6 @@
       "num": 922138,
       "word": "成都大运村今天开村",
       "onboard_time": 1690013312,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 45953,
-      "num": 1203739,
-      "word": "中国跳水队12金收官",
-      "onboard_time": 1690031793,
       "rank": 2,
       "category": "体育"
     },
