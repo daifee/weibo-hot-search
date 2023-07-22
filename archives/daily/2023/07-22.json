@@ -1,7 +1,15 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690038958681,
+  "endTime": 1690040018278,
   "band_list": [
+    {
+      "raw_hot": 3248378,
+      "num": 3248378,
+      "word": "你好星期六收视创新高",
+      "onboard_time": 1690035995,
+      "rank": 16,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2741013,
       "num": 2741013,
@@ -17,14 +25,6 @@
       "onboard_time": 1690005089,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2693906,
-      "num": 2693906,
-      "word": "你好星期六收视创新高",
-      "onboard_time": 1690035995,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 2558221,
@@ -91,8 +91,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1950425,
-      "num": 1950425,
+      "raw_hot": 2025646,
+      "num": 2025646,
       "word": "孟宴臣蝴蝶墙没了",
       "onboard_time": 1690035995,
       "rank": 9,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1342774,
+      "num": 1342774,
+      "word": "演员最好的医美",
+      "onboard_time": 1690037677,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1325379,
       "num": 1325379,
       "word": "OMG对战EDG",
@@ -281,14 +289,6 @@
       "onboard_time": 1690030294,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1281628,
-      "num": 668479,
-      "word": "演员最好的医美",
-      "onboard_time": 1690037677,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1223485,
@@ -377,6 +377,14 @@
       "onboard_time": 1689956551,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 978822,
+      "num": 563880,
+      "word": "杨迪演我看杨洋王楚然",
+      "onboard_time": 1690037617,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 977378,
@@ -491,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 880896,
-      "num": 338612,
-      "word": "杨迪演我看杨洋王楚然",
-      "onboard_time": 1690037617,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 880446,
       "num": 880446,
       "word": "乐华家族演唱会",
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 796327,
+      "num": 322344,
+      "word": "男子颅内感染后突然魔怔称能看到鬼",
+      "onboard_time": 1690038639,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782679,
       "num": 576071,
       "word": "郭碧婷带儿女给向佐庆生",
@@ -673,6 +681,14 @@
       "onboard_time": 1690025672,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 715117,
+      "num": 359146,
+      "word": "王鹤棣首次参加音乐节",
+      "onboard_time": 1690038276,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 714118,
@@ -825,6 +841,14 @@
       "onboard_time": 1689954159,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 634731,
+      "num": 354743,
+      "word": "71岁丫头",
+      "onboard_time": 1690039300,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 633477,
@@ -1123,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497998,
+      "num": 314411,
+      "word": "海南师范大学回应录取唐尚珺",
+      "onboard_time": 1690039234,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 497262,
       "num": 497262,
       "word": "迪丽热巴出发长沙",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1690014871,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479008,
+      "num": 479008,
+      "word": "布加迪",
+      "onboard_time": 1690037677,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478912,
@@ -1219,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464429,
-      "num": 323055,
-      "word": "王鹤棣首次参加音乐节",
-      "onboard_time": 1690038276,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 449778,
       "num": 449778,
       "word": "微店",
@@ -1257,14 +1289,6 @@
       "onboard_time": 1690011632,
       "rank": 18,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 442410,
-      "num": 313988,
-      "word": "男子颅内感染后突然魔怔称能看到鬼",
-      "onboard_time": 1690038639,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441219,
@@ -1340,7 +1364,7 @@
     },
     {
       "raw_hot": 422627,
-      "num": 301514,
+      "num": 307921,
       "word": "封神",
       "onboard_time": 1689991891,
       "rank": 43,
@@ -1395,6 +1419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 403339,
+      "num": 293834,
+      "word": "魏大勋你到底还有多少名场面",
+      "onboard_time": 1690039475,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401542,
       "num": 283526,
       "word": "TFBOYS演唱会今天官宣的原因",
@@ -1427,20 +1459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391578,
-      "num": 391578,
-      "word": "布加迪",
-      "onboard_time": 1690037677,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389441,
       "num": 349606,
       "word": "花花公子",
       "onboard_time": 1690013731,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 381182,
+      "num": 301287,
+      "word": "网传一外籍男子踢倒藏区玛尼堆",
+      "onboard_time": 1690039418,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378125,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1690007312,
       "rank": 40,
       "category": "网红,时尚"
+    },
+    {
+      "raw_hot": 367258,
+      "num": 252574,
+      "word": "董子健新剧遭枪击重伤",
+      "onboard_time": 1690038219,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 365903,
@@ -1755,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287769,
-      "num": 252574,
-      "word": "董子健新剧遭枪击重伤",
-      "onboard_time": 1690038219,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 287666,
       "num": 287666,
       "word": "郑希怡被评S级",
@@ -1987,6 +2019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263645,
+      "num": 236710,
+      "word": "程潇新歌首舞台",
+      "onboard_time": 1690039774,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263060,
       "num": 263060,
       "word": "王彦霖好好笑",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1690003171,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 242591,
+      "num": 242591,
+      "word": "父母去世女生被上海音乐学院录取",
+      "onboard_time": 1690039300,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 241680,
@@ -2228,7 +2276,7 @@
     },
     {
       "raw_hot": 230147,
-      "num": 230147,
+      "num": 234931,
       "word": "原来小兔子是这样打嗝的",
       "onboard_time": 1690037857,
       "rank": 47,

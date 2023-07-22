@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690038958681,
+  "endTime": 1690040018278,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -105,6 +105,14 @@
       "onboard_time": 1689730112,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 3248378,
+      "num": 3248378,
+      "word": "你好星期六收视创新高",
+      "onboard_time": 1690035995,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 3143164,
@@ -241,14 +249,6 @@
       "onboard_time": 1689550045,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2693906,
-      "num": 2693906,
-      "word": "你好星期六收视创新高",
-      "onboard_time": 1690035995,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 2608686,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2025646,
+      "num": 2025646,
+      "word": "孟宴臣蝴蝶墙没了",
+      "onboard_time": 1690035995,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2019217,
       "num": 2019217,
       "word": "演唱会门票被弟弟撕掉了",
@@ -617,14 +625,6 @@
       "onboard_time": 1689656135,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1950425,
-      "num": 1950425,
-      "word": "孟宴臣蝴蝶墙没了",
-      "onboard_time": 1690035995,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 1949325,
@@ -1355,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1342774,
+      "num": 1342774,
+      "word": "演员最好的医美",
+      "onboard_time": 1690037677,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1337972,
       "num": 537340,
       "word": "17岁男孩喝水被迷晕遭持枪胁迫缅北",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1689666812,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1281628,
-      "num": 668479,
-      "word": "演员最好的医美",
-      "onboard_time": 1690037677,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1277553,
@@ -2227,6 +2227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 978822,
+      "num": 563880,
+      "word": "杨迪演我看杨洋王楚然",
+      "onboard_time": 1690037617,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 977378,
       "num": 346078,
       "word": "原来暗示分手的才不是那根断了的手链",
@@ -2649,14 +2657,6 @@
       "onboard_time": 1689872841,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 880896,
-      "num": 338612,
-      "word": "杨迪演我看杨洋王楚然",
-      "onboard_time": 1690037617,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 880578,
@@ -3219,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796327,
+      "num": 322344,
+      "word": "男子颅内感染后突然魔怔称能看到鬼",
+      "onboard_time": 1690038639,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792921,
       "num": 701001,
       "word": "黄晓明和小海绵现身机场",
@@ -3681,6 +3689,14 @@
       "onboard_time": 1689818732,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715117,
+      "num": 359146,
+      "word": "王鹤棣首次参加音乐节",
+      "onboard_time": 1690038276,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 711173,
@@ -4329,6 +4345,14 @@
       "onboard_time": 1689905191,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634731,
+      "num": 354743,
+      "word": "71岁丫头",
+      "onboard_time": 1690039300,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 634098,
@@ -5787,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497998,
+      "num": 314411,
+      "word": "海南师范大学回应录取唐尚珺",
+      "onboard_time": 1690039234,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 497886,
       "num": 503191,
       "word": "蔡依林福州",
@@ -5992,6 +6024,14 @@
       "word": "女子无痕撤回一坨冰淇淋",
       "onboard_time": 1689634940,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479008,
+      "num": 479008,
+      "word": "布加迪",
+      "onboard_time": 1690037677,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -6241,14 +6281,6 @@
       "onboard_time": 1689883093,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 464429,
-      "num": 323055,
-      "word": "王鹤棣首次参加音乐节",
-      "onboard_time": 1690038276,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 463615,
@@ -6545,14 +6577,6 @@
       "onboard_time": 1689928414,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 442410,
-      "num": 313988,
-      "word": "男子颅内感染后突然魔怔称能看到鬼",
-      "onboard_time": 1690038639,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442266,
@@ -7211,6 +7235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 403339,
+      "num": 293834,
+      "word": "魏大勋你到底还有多少名场面",
+      "onboard_time": 1690039475,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 403283,
       "num": 294961,
       "word": "入职后发现自己不是应届生",
@@ -7459,14 +7491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391578,
-      "num": 391578,
-      "word": "布加迪",
-      "onboard_time": 1690037677,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390305,
       "num": 354409,
       "word": "许沁vs朱锁锁",
@@ -7601,6 +7625,14 @@
       "onboard_time": 1689760892,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 381182,
+      "num": 301287,
+      "word": "网传一外籍男子踢倒藏区玛尼堆",
+      "onboard_time": 1690039418,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381006,
@@ -7817,6 +7849,14 @@
       "onboard_time": 1689755914,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 367258,
+      "num": 252574,
+      "word": "董子健新剧遭枪击重伤",
+      "onboard_time": 1690038219,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 365903,
@@ -9595,14 +9635,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 287769,
-      "num": 252574,
-      "word": "董子健新剧遭枪击重伤",
-      "onboard_time": 1690038219,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 287666,
       "num": 287666,
       "word": "郑希怡被评S级",
@@ -10347,6 +10379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263645,
+      "num": 236710,
+      "word": "程潇新歌首舞台",
+      "onboard_time": 1690039774,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263375,
       "num": 263375,
       "word": "想你的风吹到了厕所",
@@ -10833,6 +10873,14 @@
       "onboard_time": 1689655114,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242591,
+      "num": 242591,
+      "word": "父母去世女生被上海音乐学院录取",
+      "onboard_time": 1690039300,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 241888,
@@ -11324,7 +11372,7 @@
     },
     {
       "raw_hot": 230147,
-      "num": 230147,
+      "num": 234931,
       "word": "原来小兔子是这样打嗝的",
       "onboard_time": 1690037857,
       "rank": 47,
