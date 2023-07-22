@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1689999583528,
+  "endTime": 1690000419627,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -843,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1628206,
+      "num": 1628206,
+      "word": "杨紫林更新或将8月补拍青簪行",
+      "onboard_time": 1689996030,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1624115,
       "num": 1624115,
       "word": "莲花楼定档",
@@ -889,14 +897,6 @@
       "onboard_time": 1689677159,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1577248,
-      "num": 1577248,
-      "word": "杨紫林更新或将8月补拍青簪行",
-      "onboard_time": 1689996030,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1560182,
@@ -1148,7 +1148,7 @@
     },
     {
       "raw_hot": 1353769,
-      "num": 303217,
+      "num": 317186,
       "word": "受精卵出逃钻进女子腹腔",
       "onboard_time": 1689982461,
       "rank": 20,
@@ -1652,7 +1652,7 @@
     },
     {
       "raw_hot": 1069384,
-      "num": 270857,
+      "num": 322992,
       "word": "江西一初中女生遭男生强奸杀害",
       "onboard_time": 1689994952,
       "rank": 21,
@@ -2139,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 927029,
+      "num": 874362,
+      "word": "粉丝还是让TFBOYS贴贴了",
+      "onboard_time": 1689997771,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 919392,
       "num": 819288,
       "word": "许沁被偷改的人生",
@@ -2323,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876528,
+      "num": 876528,
+      "word": "芭比",
+      "onboard_time": 1689729211,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 875008,
       "num": 875008,
       "word": "金泰亨 卡地亚",
@@ -2411,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865463,
+      "num": 865463,
+      "word": "范丞丞姜珮瑶吻戏",
+      "onboard_time": 1689997352,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 864051,
       "num": 644937,
       "word": "剧是一集没看气是一点没少生",
@@ -2496,14 +2520,6 @@
       "word": "粉丝对王俊凯王源易烊千玺合体的热情",
       "onboard_time": 1689941798,
       "rank": 20,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 840828,
-      "num": 804653,
-      "word": "粉丝还是让TFBOYS贴贴了",
-      "onboard_time": 1689997771,
-      "rank": 5,
       "category": "音乐"
     },
     {
@@ -2609,14 +2625,6 @@
       "onboard_time": 1689945578,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 826064,
-      "num": 826064,
-      "word": "范丞丞姜珮瑶吻戏",
-      "onboard_time": 1689997352,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 824468,
@@ -3832,14 +3840,6 @@
       "word": "肖战预告九嶷山大雨",
       "onboard_time": 1689748350,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 629040,
-      "num": 629040,
-      "word": "芭比",
-      "onboard_time": 1689729211,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -5188,7 +5188,7 @@
     },
     {
       "raw_hot": 486074,
-      "num": 270568,
+      "num": 420875,
       "word": "迪丽热巴跑着赶高铁",
       "onboard_time": 1689996634,
       "rank": 36,
@@ -5297,6 +5297,14 @@
       "onboard_time": 1689595234,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473360,
+      "num": 466073,
+      "word": "在泌尿科时上班令我印象最深的一件事",
+      "onboard_time": 1689995911,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 473254,
@@ -5945,6 +5953,22 @@
       "onboard_time": 1689572011,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428080,
+      "num": 311479,
+      "word": "杨紫新剧荡秋千",
+      "onboard_time": 1689999031,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 427863,
+      "num": 427863,
+      "word": "美国女足3比0越南女足",
+      "onboard_time": 1689998191,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 426525,
@@ -6795,14 +6819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 370640,
-      "num": 250640,
-      "word": "在泌尿科时上班令我印象最深的一件事",
-      "onboard_time": 1689995911,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 370493,
       "num": 253620,
       "word": "长相思人物剧照",
@@ -6849,6 +6865,14 @@
       "onboard_time": 1689755914,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 365903,
+      "num": 309532,
+      "word": "这些袜子的受众到底是谁",
+      "onboard_time": 1689998490,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 364653,
@@ -7411,14 +7435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 340678,
-      "num": 270523,
-      "word": "这些袜子的受众到底是谁",
-      "onboard_time": 1689998490,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 340200,
       "num": 340200,
       "word": "福宝生日直播",
@@ -7681,14 +7697,6 @@
       "onboard_time": 1689581492,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 323862,
-      "num": 323862,
-      "word": "美国女足3比0越南女足",
-      "onboard_time": 1689998191,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 323459,
@@ -8052,7 +8060,7 @@
     },
     {
       "raw_hot": 305349,
-      "num": 270070,
+      "num": 292695,
       "word": "徐主任说许沁自负",
       "onboard_time": 1689997891,
       "rank": 26,
@@ -8193,6 +8201,14 @@
       "onboard_time": 1689669154,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298032,
+      "num": 298032,
+      "word": "赵今麦齐刘海vs无刘海",
+      "onboard_time": 1689999212,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297542,
@@ -9699,6 +9715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237496,
+      "num": 237496,
+      "word": "当你喝咖啡时偶遇张元英",
+      "onboard_time": 1689998971,
+      "rank": 43,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 237160,
       "num": 237160,
       "word": "心动的信号",
@@ -9971,6 +9995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229960,
+      "num": 229960,
+      "word": "安乐传太后撤回太子妃",
+      "onboard_time": 1689999992,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228801,
       "num": 329097,
       "word": "NCTDREAM新歌空降",
@@ -10049,14 +10081,6 @@
       "onboard_time": 1689989252,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225946,
-      "num": 225946,
-      "word": "杨紫新剧荡秋千",
-      "onboard_time": 1689999031,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 225895,
@@ -10692,7 +10716,7 @@
     },
     {
       "raw_hot": 206088,
-      "num": 206088,
+      "num": 211775,
       "word": "你能接受男士夏天打伞吗",
       "onboard_time": 1689996269,
       "rank": 46,
@@ -11089,14 +11113,6 @@
       "onboard_time": 1689581252,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198064,
-      "num": 198064,
-      "word": "赵今麦齐刘海vs无刘海",
-      "onboard_time": 1689999212,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197160,
@@ -11587,6 +11603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183342,
+      "num": 210927,
+      "word": "巨齿鲨2预售开启",
+      "onboard_time": 1689999633,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182623,
       "num": 199120,
       "word": "彭昱畅不吃饭是怕被吓吐了",
@@ -12035,20 +12059,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165282,
-      "num": 165282,
-      "word": "当你喝咖啡时偶遇张元英",
-      "onboard_time": 1689998971,
-      "rank": 43,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 165257,
       "num": 165257,
       "word": "听说这是福建省省饭",
       "onboard_time": 1689928113,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 165104,
+      "num": 210328,
+      "word": "河南三支一扶",
+      "onboard_time": 1689999512,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165015,
@@ -12313,14 +12337,6 @@
       "onboard_time": 1689590309,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148363,
-      "num": 148363,
-      "word": "河南三支一扶",
-      "onboard_time": 1689999512,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147878,
