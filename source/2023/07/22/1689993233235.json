@@ -1,0 +1,410 @@
+{
+  "runTime": 1689993233235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1819010,
+        "num": 1819010,
+        "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
+        "onboard_time": 1689983186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1647333,
+        "num": 1647333,
+        "word": "宋焰说挤地铁会受伤的",
+        "onboard_time": 1689985889,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18288,
+        "num": 1240044,
+        "word": "航天员出舱所有任务都是一次完成",
+        "onboard_time": 1689939333,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1035088,
+        "num": 1035088,
+        "word": "TFBOYS演唱会主视觉公开",
+        "onboard_time": 1689992131,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1016728,
+        "num": 1016728,
+        "word": "梅西任意球绝杀",
+        "onboard_time": 1689992491,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 882969,
+        "num": 882969,
+        "word": "张杰 喜欢你的人会很喜欢你就像我",
+        "onboard_time": 1689989971,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767728,
+        "num": 767728,
+        "word": "魏大勋张翰张彬彬爆笑两分半",
+        "onboard_time": 1689987752,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686798,
+        "num": 686798,
+        "word": "高铁坐过站可以免费坐回去",
+        "onboard_time": 1689984630,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647318,
+        "num": 647318,
+        "word": "梅西上场",
+        "onboard_time": 1689990453,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 633864,
+        "num": 633864,
+        "word": "沈梦辰把湘西腊肉挂到布达佩斯来了",
+        "onboard_time": 1689989791,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588808,
+        "num": 588808,
+        "word": "教科书里的女生原来是她",
+        "onboard_time": 1689990273,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 582794,
+        "num": 582794,
+        "word": "太阳系有多诡异",
+        "onboard_time": 1689987451,
+        "rank": 11,
+        "category": "自然,科技"
+      },
+      {
+        "raw_hot": 546002,
+        "num": 546002,
+        "word": "时代少年团不参与TFBOYS十周年演唱会",
+        "onboard_time": 1689982163,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 522763,
+        "num": 522763,
+        "word": "西安对造假中考生取消录取",
+        "onboard_time": 1689986732,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 426729,
+        "num": 426729,
+        "word": "李莎旻子邀请所有姐姐去她家吃饭",
+        "onboard_time": 1689990332,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421526,
+        "num": 421526,
+        "word": "梅西与詹姆斯拥抱",
+        "onboard_time": 1689988351,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359914,
+        "num": 359914,
+        "word": "杨颖问儿子在学校有没有人追你",
+        "onboard_time": 1689952178,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341216,
+        "num": 341216,
+        "word": "黄磊对谭松韵说我们也没法说欢迎你再来",
+        "onboard_time": 1689987271,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304542,
+        "num": 304542,
+        "word": "美方制裁1300多家中企",
+        "onboard_time": 1689983063,
+        "rank": 18,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 314952,
+        "num": 303553,
+        "word": "彭昱畅想见胡歌迪丽热巴",
+        "onboard_time": 1689987091,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1069621,
+        "num": 303217,
+        "word": "受精卵出逃钻进女子腹腔",
+        "onboard_time": 1689982461,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960106,
+        "num": 301427,
+        "word": "原来暗示分手的才不是那根断了的手链",
+        "onboard_time": 1689989371,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315168,
+        "num": 299991,
+        "word": "失手把狗狗照片发进工作群",
+        "onboard_time": 1689985408,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314304,
+        "num": 299690,
+        "word": "迪丽热巴出发长沙",
+        "onboard_time": 1689992791,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298620,
+        "num": 298620,
+        "word": "做网红真的需要勇气",
+        "onboard_time": 1689988831,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 295945,
+        "num": 295945,
+        "word": "Angelababy告别奔跑吧",
+        "onboard_time": 1689941798,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292652,
+        "num": 292652,
+        "word": "杨玏版伯邑考",
+        "onboard_time": 1689989011,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291704,
+        "num": 291704,
+        "word": "一口气煮了40多天的米饭",
+        "onboard_time": 1689985649,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 288298,
+        "num": 288298,
+        "word": "严浩翔高会",
+        "onboard_time": 1689987510,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276822,
+        "num": 276822,
+        "word": "西安警方控制13名为回流生提供服务人员",
+        "onboard_time": 1689981561,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281516,
+        "num": 275356,
+        "word": "回家看到水漫金山已经很头疼了",
+        "onboard_time": 1689991234,
+        "rank": 30,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 258463,
+        "num": 258463,
+        "word": "詹姆斯观战梅西迈阿密首秀",
+        "onboard_time": 1689992371,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255703,
+        "num": 255703,
+        "word": "酒吧违规接待致未成年人被性侵",
+        "onboard_time": 1689982883,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254287,
+        "num": 254287,
+        "word": "亲生的阿瑟都不能上桌许沁凭什么窒息",
+        "onboard_time": 1689956551,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234046,
+        "num": 234046,
+        "word": "安乐传追剧日历",
+        "onboard_time": 1689991593,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233949,
+        "num": 233949,
+        "word": "中国足协技术部部长谭海被查",
+        "onboard_time": 1689989011,
+        "rank": 35,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 213519,
+        "num": 213519,
+        "word": "张嘉倪独舞",
+        "onboard_time": 1689987032,
+        "rank": 36,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 203356,
+        "num": 203356,
+        "word": "出租屋7岁钢琴神童获省级金奖老师送钢琴",
+        "onboard_time": 1689986370,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 197266,
+        "num": 197266,
+        "word": "莲花楼定档",
+        "onboard_time": 1689950141,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195580,
+        "num": 195580,
+        "word": "宋焰接许沁下班巷子都没出",
+        "onboard_time": 1689951219,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192391,
+        "num": 192391,
+        "word": "爸爸给我买的玩具转动了十五年",
+        "onboard_time": 1689992791,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 190668,
+        "num": 190668,
+        "word": "肖战删了一句台词",
+        "onboard_time": 1689967574,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187599,
+        "num": 187599,
+        "word": "Ella把C位让给了谢娜",
+        "onboard_time": 1689953915,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184202,
+        "num": 184202,
+        "word": "封神",
+        "onboard_time": 1689991891,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179969,
+        "num": 183528,
+        "word": "梅西替补",
+        "onboard_time": 1689985889,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183210,
+        "num": 183210,
+        "word": "影帝届四大社恐",
+        "onboard_time": 1689964155,
+        "rank": 45,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 168532,
+        "num": 168532,
+        "word": "王俊凯王源易烊千玺转发十周年官宣微博",
+        "onboard_time": 1689946721,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166910,
+        "num": 166910,
+        "word": "00后小伙大便带血确诊肠癌晚期",
+        "onboard_time": 1689953435,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157547,
+        "num": 157547,
+        "word": "迪丽热巴的身材管理",
+        "onboard_time": 1689968653,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155459,
+        "num": 155459,
+        "word": "谢娜 谢娜是一个很有争议的名字",
+        "onboard_time": 1689946120,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强耕地保护全力提升耕地质量#"
+    }
+  }
+}
