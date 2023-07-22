@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/23 00:20:23 ~ 2023/07/23 02:19:57
+本榜单时间：2023/07/23 00:20:23 ~ 2023/07/23 02:33:54
 </p>
 </blockquote>
 <p>
@@ -370,7 +370,7 @@ OMG对战EDG（热度：103439）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Aimer%E7%8E%B0%E5%9C%BA%23" target="weibo">
-Aimer现场（热度：81218）
+Aimer现场（热度：83842）
 </a>
 </li>
 

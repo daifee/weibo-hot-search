@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690049997811,
+  "endTime": 1690050834095,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -52555,6 +52555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83842,
+      "num": 83842,
+      "word": "Aimer现场",
+      "onboard_time": 1690049596,
+      "rank": 40,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 83797,
       "num": 1692544,
       "word": "天问一号最新发现",
@@ -52649,14 +52657,6 @@
       "onboard_time": 1688664560,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81218,
-      "num": 71620,
-      "word": "Aimer现场",
-      "onboard_time": 1690049596,
-      "rank": 40,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 81128,
