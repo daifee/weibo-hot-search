@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690011220374,
+  "endTime": 1690013962795,
   "band_list": [
     {
       "raw_hot": 2736124,
@@ -17,6 +17,14 @@
       "onboard_time": 1689983186,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1963646,
+      "num": 1963646,
+      "word": "芭比",
+      "onboard_time": 1689998432,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1912720,
@@ -83,15 +91,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1409619,
-      "num": 1409619,
-      "word": "芭比",
-      "onboard_time": 1689998432,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1382176,
+      "raw_hot": 1427031,
       "num": 1382176,
       "word": "药店误卖禁用药致38岁产妇流产",
       "onboard_time": 1690008450,
@@ -267,12 +267,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 810197,
+      "num": 810197,
+      "word": "许沁这是我妈给我煮的粥",
+      "onboard_time": 1690009711,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 809690,
       "num": 809690,
       "word": "西安警方控制13名为回流生提供服务人员",
       "onboard_time": 1689981561,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785810,
+      "num": 480440,
+      "word": "韩国总统尹锡悦岳母被捕",
+      "onboard_time": 1690012592,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 782679,
@@ -323,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 698519,
+      "num": 474437,
+      "word": "全面暴涨魏大勋",
+      "onboard_time": 1690012772,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 692167,
       "num": 636793,
       "word": "跑男回应打错Angelababy范丞丞名字",
@@ -347,12 +371,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 654043,
-      "num": 403907,
-      "word": "许沁这是我妈给我煮的粥",
-      "onboard_time": 1690009711,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 676912,
+      "num": 676912,
+      "word": "33岁健身网红举重时遭杠铃压断脖子",
+      "onboard_time": 1690011753,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 659212,
+      "num": 659212,
+      "word": "谁在杭州机场落了结婚照暑假作业",
+      "onboard_time": 1690011213,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647318,
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 635934,
-      "num": 378293,
+      "num": 463579,
       "word": "芭比豆瓣差评大展",
       "onboard_time": 1690006711,
       "rank": 43,
@@ -451,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572197,
+      "num": 469824,
+      "word": "迪丽热巴给粉丝买水",
+      "onboard_time": 1690011812,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566161,
       "num": 292128,
       "word": "莲花楼定档",
@@ -497,6 +537,14 @@
       "onboard_time": 1690004494,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526336,
+      "num": 465291,
+      "word": "张峻豪好高",
+      "onboard_time": 1690010793,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 523775,
@@ -547,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485081,
+      "num": 485081,
+      "word": "大一下学期的奶茶费用",
+      "onboard_time": 1690011092,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 482480,
       "num": 285617,
       "word": "谢娜 谢娜是一个很有争议的名字",
@@ -593,6 +649,14 @@
       "onboard_time": 1689985408,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 448180,
+      "num": 278361,
+      "word": "王源发尾挑染",
+      "onboard_time": 1690012534,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 446480,
@@ -755,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345811,
+      "num": 346740,
+      "word": "西安警方抓获造假回流生嫌疑人10名",
+      "onboard_time": 1690010610,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344340,
       "num": 304948,
       "word": "台下闹麻了 台上软脚虾",
@@ -793,6 +865,14 @@
       "onboard_time": 1689983907,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326639,
+      "num": 326639,
+      "word": "我成了全村第一个开拖拉机的女生",
+      "onboard_time": 1690011632,
+      "rank": 18,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 320775,
@@ -859,6 +939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301421,
+      "num": 243711,
+      "word": "张杰献唱长相思主题曲",
+      "onboard_time": 1690013493,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298812,
+      "num": 298812,
+      "word": "坐高铁开导航是什么体验",
+      "onboard_time": 1690011092,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 298032,
       "num": 298032,
       "word": "赵今麦齐刘海vs无刘海",
@@ -889,6 +985,14 @@
       "onboard_time": 1690007551,
       "rank": 43,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 287583,
+      "num": 243416,
+      "word": "魏大勋P的图",
+      "onboard_time": 1690013673,
+      "rank": 30,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 286806,
@@ -995,12 +1099,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266849,
-      "num": 266849,
-      "word": "张峻豪好高",
+      "raw_hot": 265132,
+      "num": 250316,
+      "word": "张元英认出了视频通话的粉丝",
       "onboard_time": 1690010793,
-      "rank": 40,
-      "category": "作品衍生"
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 263868,
@@ -1027,14 +1131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 259776,
-      "num": 295710,
-      "word": "坐高铁开导航是什么体验",
-      "onboard_time": 1690011092,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 258463,
       "num": 258463,
       "word": "詹姆斯观战梅西迈阿密首秀",
@@ -1043,20 +1139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257419,
+      "num": 242932,
+      "word": "沈月蝴蝶眼妆",
+      "onboard_time": 1690013011,
+      "rank": 35,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 253620,
       "num": 253620,
       "word": "长相思人物剧照",
       "onboard_time": 1689952660,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250316,
-      "num": 250316,
-      "word": "张元英认出了视频通话的粉丝",
-      "onboard_time": 1690010793,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 248044,
@@ -1187,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223357,
-      "num": 346740,
-      "word": "西安警方抓获造假回流生嫌疑人10名",
-      "onboard_time": 1690010610,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222423,
       "num": 222423,
       "word": "韩剧恶鬼",
@@ -1227,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213627,
+      "num": 213627,
+      "word": "TF家族波斯猫",
+      "onboard_time": 1690011692,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211932,
       "num": 211932,
       "word": "张柏芝同款浓眉淡颜妆",
@@ -1241,6 +1337,14 @@
       "onboard_time": 1690006650,
       "rank": 46,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 208460,
+      "num": 208460,
+      "word": "花花公子",
+      "onboard_time": 1690013731,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 208164,
@@ -1315,6 +1419,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 190953,
+      "num": 243600,
+      "word": "WE战胜MTG",
+      "onboard_time": 1690013312,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189168,
       "num": 220728,
       "word": "海贼王真人版正式预告",
@@ -1345,14 +1457,6 @@
       "onboard_time": 1689999633,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183285,
-      "num": 346127,
-      "word": "大一下学期的奶茶费用",
-      "onboard_time": 1690011092,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 177870,
@@ -1425,6 +1529,14 @@
       "onboard_time": 1689997771,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162117,
+      "num": 242612,
+      "word": "喝杯咖啡都要拍照心眼子练习",
+      "onboard_time": 1690011572,
+      "rank": 38,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 156821,
@@ -1507,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128082,
+      "num": 202424,
+      "word": "日媒探店中国水产超市发现已无日货",
+      "onboard_time": 1690013731,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 127506,
       "num": 127506,
       "word": "奶奶数落妈妈9岁儿子霸气维护",
@@ -1529,6 +1649,14 @@
       "onboard_time": 1689974893,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123134,
+      "num": 201812,
+      "word": "KT战胜GEN",
+      "onboard_time": 1690013854,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 116451,
@@ -1577,6 +1705,14 @@
       "onboard_time": 1690006892,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95415,
+      "num": 200022,
+      "word": "小仓鼠吃意大利面",
+      "onboard_time": 1690013913,
+      "rank": 49,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 92981,
@@ -1659,6 +1795,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 30616,
+      "num": 1136696,
+      "word": "中国女足超燃瞬间",
+      "onboard_time": 1690013553,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27623,
       "num": 40268,
       "word": "芭比排片",
@@ -1684,6 +1828,9 @@
     },
     {
       "word": "#军强则国安#"
+    },
+    {
+      "word": "#要把长江文化保护好传承好弘扬好#"
     }
   ]
 }
