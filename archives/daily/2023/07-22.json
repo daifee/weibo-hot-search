@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690035242786,
+  "endTime": 1690036422927,
   "band_list": [
     {
       "raw_hot": 2741013,
@@ -59,12 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1950635,
-      "num": 1950635,
+      "raw_hot": 2064383,
+      "num": 2064383,
       "word": "魏大勋给杨洋王楚然示范爱的抱抱",
       "onboard_time": 1690031072,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2056417,
+      "num": 2056417,
+      "word": "孟宴臣扯领带",
+      "onboard_time": 1690035696,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1912720,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1482948,
+      "num": 1482948,
+      "word": "乐华家族演唱会王一博",
+      "onboard_time": 1690032815,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1465854,
       "num": 1465854,
       "word": "Ella把C位让给了谢娜",
@@ -227,14 +243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1312808,
-      "num": 1312808,
-      "word": "乐华家族演唱会王一博",
-      "onboard_time": 1690032815,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1297880,
       "num": 1297880,
       "word": "中山一骑车女子遇开门杀不幸身亡",
@@ -259,7 +267,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1077694,
+      "raw_hot": 1093462,
       "num": 814304,
       "word": "孟美岐造型",
       "onboard_time": 1690032634,
@@ -273,6 +281,14 @@
       "onboard_time": 1690012592,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1073907,
+      "num": 509636,
+      "word": "录取通知书被狗子咬得稀碎",
+      "onboard_time": 1690034738,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 1069384,
@@ -451,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 860296,
+      "num": 860296,
+      "word": "男子含着蟑螂下馆子敲诈商家被拘",
+      "onboard_time": 1690033777,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 847225,
       "num": 1380615,
       "word": "夫妻退潮时冒死跳海救溺水父女",
@@ -465,6 +489,14 @@
       "onboard_time": 1689942032,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 817769,
+      "num": 817769,
+      "word": "孟宴臣蝴蝶墙没了",
+      "onboard_time": 1690035995,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 817442,
@@ -587,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709128,
+      "num": 502190,
+      "word": "做指检的炸裂瞬间",
+      "onboard_time": 1690035938,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 708934,
       "num": 708934,
       "word": "别再用大蒜保存西瓜了",
@@ -681,6 +721,14 @@
       "onboard_time": 1689945703,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638997,
+      "num": 638997,
+      "word": "LPL资格赛四支队伍确定",
+      "onboard_time": 1690034500,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 635934,
@@ -795,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569937,
-      "num": 381823,
-      "word": "LPL资格赛四支队伍确定",
-      "onboard_time": 1690034500,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 566161,
       "num": 292128,
       "word": "莲花楼定档",
@@ -817,6 +857,22 @@
       "onboard_time": 1690007911,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 561807,
+      "num": 561807,
+      "word": "你好星期六收视创新高",
+      "onboard_time": 1690035995,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 552432,
+      "num": 552432,
+      "word": "房东的猫胡夏 那些年",
+      "onboard_time": 1690031915,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 549470,
@@ -899,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 523953,
-      "num": 523953,
-      "word": "男子含着蟑螂下馆子敲诈商家被拘",
-      "onboard_time": 1690033777,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523775,
       "num": 285921,
       "word": "王鹤棣白鹿多了一组跟拍",
@@ -947,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 513314,
+      "num": 500857,
+      "word": "乐华家族演唱会上座率",
+      "onboard_time": 1690034257,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 512397,
       "num": 362354,
       "word": "SMTOWN新男团叫RIIZE",
@@ -969,6 +1025,14 @@
       "onboard_time": 1690012534,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 504880,
+      "num": 502987,
+      "word": "胡嘉乐 又可以打冒泡了",
+      "onboard_time": 1690035579,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 503159,
@@ -1075,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460880,
-      "num": 460880,
-      "word": "房东的猫胡夏 那些年",
-      "onboard_time": 1690031915,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 449778,
       "num": 449778,
       "word": "微店",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1690011632,
       "rank": 18,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 443713,
-      "num": 443713,
-      "word": "乐华家族演唱会上座率",
-      "onboard_time": 1690034257,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 441219,
@@ -1235,14 +1283,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 405781,
-      "num": 405781,
-      "word": "录取通知书被狗子咬得稀碎",
-      "onboard_time": 1690034738,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 405375,
       "num": 373999,
       "word": "大勋你这拍的谁顶的住啊",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1690013731,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 378125,
+      "num": 378125,
+      "word": "因为长安三万里李白墓前摆满了美酒",
+      "onboard_time": 1690034074,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 373708,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1690015231,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347925,
-      "num": 347925,
-      "word": "因为长安三万里李白墓前摆满了美酒",
-      "onboard_time": 1690034074,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 345811,
@@ -1579,6 +1619,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 291285,
+      "num": 291285,
+      "word": "陶喆澳门",
+      "onboard_time": 1690035995,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290650,
       "num": 290650,
       "word": "影帝届四大社恐",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1690013011,
       "rank": 35,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 276595,
+      "num": 256321,
+      "word": "早安受伤",
+      "onboard_time": 1690034976,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 276433,
@@ -1915,14 +1971,6 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 239363,
-      "num": 239363,
-      "word": "早安受伤",
-      "onboard_time": 1690034976,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239270,
       "num": 346298,
       "word": "心疼这只大橘三十六次",
@@ -2028,7 +2076,7 @@
     },
     {
       "raw_hot": 230448,
-      "num": 230448,
+      "num": 233076,
       "word": "张韶涵演唱会",
       "onboard_time": 1690032036,
       "rank": 42,
@@ -2064,6 +2112,14 @@
       "word": "一个视频腿软了好几次",
       "onboard_time": 1689998072,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224749,
+      "num": 233430,
+      "word": "司机鸣笛后发现是盲人自责不已",
+      "onboard_time": 1690036358,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2195,6 +2251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202853,
+      "num": 233284,
+      "word": "阿乐状态",
+      "onboard_time": 1690035338,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202165,
       "num": 301472,
       "word": "猫咪不小心舔到驱虫药后失明",
@@ -2211,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201175,
+      "num": 232873,
+      "word": "越位",
+      "onboard_time": 1690035273,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200349,
       "num": 200349,
       "word": "莲花楼",
@@ -2223,6 +2295,14 @@
       "num": 228172,
       "word": "Creme卡莎",
       "onboard_time": 1690032695,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 198919,
+      "num": 232731,
+      "word": "2023LPL夏季赛",
+      "onboard_time": 1690036234,
       "rank": 49,
       "category": "游戏"
     },
@@ -2340,7 +2420,7 @@
     },
     {
       "raw_hot": 188196,
-      "num": 1579756,
+      "num": 1835184,
       "word": "中国跳水队12金收官",
       "onboard_time": 1690031793,
       "rank": 2,

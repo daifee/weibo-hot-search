@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690035242786,
+  "endTime": 1690036422927,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2259,12 +2259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2064383,
+      "num": 2064383,
+      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
+      "onboard_time": 1690031072,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2061854,
       "num": 2061854,
       "word": "上海银行高管娶四个老婆获刑",
       "onboard_time": 1689263373,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2056417,
+      "num": 2056417,
+      "word": "孟宴臣扯领带",
+      "onboard_time": 1690035696,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2054615,
@@ -2561,14 +2577,6 @@
       "onboard_time": 1688267371,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1950635,
-      "num": 1950635,
-      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
-      "onboard_time": 1690031072,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1949325,
@@ -4395,6 +4403,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1482948,
+      "num": 1482948,
+      "word": "乐华家族演唱会王一博",
+      "onboard_time": 1690032815,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1479410,
       "num": 1479410,
       "word": "复旦十八驴",
@@ -5289,14 +5305,6 @@
       "onboard_time": 1688271150,
       "rank": 29,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1312808,
-      "num": 1312808,
-      "word": "乐华家族演唱会王一博",
-      "onboard_time": 1690032815,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1310274,
@@ -6979,6 +6987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1093462,
+      "num": 814304,
+      "word": "孟美岐造型",
+      "onboard_time": 1690032634,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1092715,
       "num": 1092715,
       "word": "七月辞职 狼多肉少",
@@ -7091,14 +7107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1077694,
-      "num": 814304,
-      "word": "孟美岐造型",
-      "onboard_time": 1690032634,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1077195,
       "num": 561712,
       "word": "高铁上终于卖卫生巾了",
@@ -7169,6 +7177,14 @@
       "onboard_time": 1689861996,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1073907,
+      "num": 509636,
+      "word": "录取通知书被狗子咬得稀碎",
+      "onboard_time": 1690034738,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 1072505,
@@ -10195,6 +10211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860296,
+      "num": 860296,
+      "word": "男子含着蟑螂下馆子敲诈商家被拘",
+      "onboard_time": 1690033777,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860257,
       "num": 965441,
       "word": "顾客买到生瓜留言2年后收到回复",
@@ -11057,6 +11081,14 @@
       "onboard_time": 1689366313,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 817769,
+      "num": 817769,
+      "word": "孟宴臣蝴蝶墙没了",
+      "onboard_time": 1690035995,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 817442,
@@ -13259,6 +13291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709128,
+      "num": 502190,
+      "word": "做指检的炸裂瞬间",
+      "onboard_time": 1690035938,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 709106,
       "num": 473836,
       "word": "男子吃肯德基发现汉堡少一半",
@@ -15337,6 +15377,14 @@
       "onboard_time": 1689432040,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638997,
+      "num": 638997,
+      "word": "LPL资格赛四支队伍确定",
+      "onboard_time": 1690034500,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 638218,
@@ -17539,14 +17587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 569937,
-      "num": 381823,
-      "word": "LPL资格赛四支队伍确定",
-      "onboard_time": 1690034500,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 569918,
       "num": 569918,
       "word": "中暑导游去世前坚持将学生们送上车",
@@ -17865,6 +17905,14 @@
       "onboard_time": 1689746132,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 561807,
+      "num": 561807,
+      "word": "你好星期六收视创新高",
+      "onboard_time": 1690035995,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 561558,
@@ -18201,6 +18249,14 @@
       "onboard_time": 1689469952,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552432,
+      "num": 552432,
+      "word": "房东的猫胡夏 那些年",
+      "onboard_time": 1690031915,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 552345,
@@ -19283,14 +19339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 523953,
-      "num": 523953,
-      "word": "男子含着蟑螂下馆子敲诈商家被拘",
-      "onboard_time": 1690033777,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523857,
       "num": 523857,
       "word": "领导过于关心我的私生活",
@@ -19657,6 +19705,14 @@
       "onboard_time": 1690030053,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 513314,
+      "num": 500857,
+      "word": "乐华家族演唱会上座率",
+      "onboard_time": 1690034257,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 512974,
@@ -20033,6 +20089,14 @@
       "onboard_time": 1689491073,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504880,
+      "num": 502987,
+      "word": "胡嘉乐 又可以打冒泡了",
+      "onboard_time": 1690035579,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 504576,
@@ -22091,14 +22155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460880,
-      "num": 460880,
-      "word": "房东的猫胡夏 那些年",
-      "onboard_time": 1690031915,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 460683,
       "num": 460683,
       "word": "王楚然魏大勋cp感",
@@ -23041,14 +23097,6 @@
       "onboard_time": 1689522390,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443713,
-      "num": 443713,
-      "word": "乐华家族演唱会上座率",
-      "onboard_time": 1690034257,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 443696,
@@ -25203,14 +25251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 405781,
-      "num": 405781,
-      "word": "录取通知书被狗子咬得稀碎",
-      "onboard_time": 1690034738,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 405642,
       "num": 380560,
       "word": "张学友演唱会",
@@ -27001,6 +27041,14 @@
       "onboard_time": 1688171908,
       "rank": 27,
       "category": "美食,时尚"
+    },
+    {
+      "raw_hot": 378125,
+      "num": 378125,
+      "word": "因为长安三万里李白墓前摆满了美酒",
+      "onboard_time": 1690034074,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 378104,
@@ -29201,14 +29249,6 @@
       "onboard_time": 1688469934,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347925,
-      "num": 347925,
-      "word": "因为长安三万里李白墓前摆满了美酒",
-      "onboard_time": 1690034074,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 347728,
@@ -33843,6 +33883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 291285,
+      "num": 291285,
+      "word": "陶喆澳门",
+      "onboard_time": 1690035995,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 291246,
       "num": 291246,
       "word": "杭州西湖怎么那么萌",
@@ -35297,6 +35345,14 @@
       "onboard_time": 1689232771,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276595,
+      "num": 256321,
+      "word": "早安受伤",
+      "onboard_time": 1690034976,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 276529,
@@ -39299,14 +39355,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 239363,
-      "num": 239363,
-      "word": "早安受伤",
-      "onboard_time": 1690034976,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239341,
       "num": 239341,
       "word": "你们结婚的话会迁户口吗",
@@ -40292,7 +40340,7 @@
     },
     {
       "raw_hot": 230448,
-      "num": 230448,
+      "num": 233076,
       "word": "张韶涵演唱会",
       "onboard_time": 1690032036,
       "rank": 42,
@@ -40945,6 +40993,14 @@
       "onboard_time": 1688744978,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224749,
+      "num": 233430,
+      "word": "司机鸣笛后发现是盲人自责不已",
+      "onboard_time": 1690036358,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224731,
@@ -43915,6 +43971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202853,
+      "num": 233284,
+      "word": "阿乐状态",
+      "onboard_time": 1690035338,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202777,
       "num": 202777,
       "word": "这个夏天为啥这么热",
@@ -44291,6 +44355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201175,
+      "num": 232873,
+      "word": "越位",
+      "onboard_time": 1690035273,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201077,
       "num": 201077,
       "word": "阴阳师 缘结神",
@@ -44593,6 +44665,14 @@
       "onboard_time": 1688348131,
       "rank": 36,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 198919,
+      "num": 232731,
+      "word": "2023LPL夏季赛",
+      "onboard_time": 1690036234,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 198803,
@@ -46316,7 +46396,7 @@
     },
     {
       "raw_hot": 188196,
-      "num": 1579756,
+      "num": 1835184,
       "word": "中国跳水队12金收官",
       "onboard_time": 1690031793,
       "rank": 2,
