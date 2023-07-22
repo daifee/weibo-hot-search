@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690042823119,
+  "endTime": 1690043738517,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -4795,6 +4795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1417906,
+      "num": 1417906,
+      "word": "孟宴臣 叶子",
+      "onboard_time": 1689868173,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1417629,
       "num": 1417629,
       "word": "警方通报网传济南大学留学生月补3万元",
@@ -4969,6 +4977,14 @@
       "onboard_time": 1688705685,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1384589,
+      "num": 458066,
+      "word": "林志玲",
+      "onboard_time": 1690041394,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1382034,
@@ -5401,14 +5417,6 @@
       "onboard_time": 1689511472,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1304450,
-      "num": 1304450,
-      "word": "孟宴臣 叶子",
-      "onboard_time": 1689868173,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1301908,
@@ -11059,6 +11067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 822942,
+      "num": 444333,
+      "word": "TFBOYS演唱会笑话",
+      "onboard_time": 1690040556,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 822578,
       "num": 822578,
       "word": "xmm",
@@ -11089,14 +11105,6 @@
       "onboard_time": 1689061833,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 821550,
-      "num": 458066,
-      "word": "林志玲",
-      "onboard_time": 1690041394,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 820038,
@@ -11577,14 +11585,6 @@
       "onboard_time": 1688294734,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 800235,
-      "num": 444333,
-      "word": "TFBOYS演唱会笑话",
-      "onboard_time": 1690040556,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 800107,
@@ -30651,6 +30651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330266,
+      "num": 244184,
+      "word": "请不要在图书馆内吃东西",
+      "onboard_time": 1690041334,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 330163,
       "num": 330163,
       "word": "田曦薇被帅哭了",
@@ -31441,6 +31449,14 @@
       "onboard_time": 1689054274,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 318578,
+      "num": 225292,
+      "word": "杨洋王楚然撒糖镜头切魏大勋",
+      "onboard_time": 1690042296,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 318565,
@@ -33371,6 +33387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297104,
+      "num": 219509,
+      "word": "李帝努poppy",
+      "onboard_time": 1690042114,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 296954,
       "num": 255784,
       "word": "姜贞羽现偶适配度",
@@ -35281,6 +35305,14 @@
       "onboard_time": 1688528017,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279118,
+      "num": 279118,
+      "word": "原来静音车厢是靠人工静音",
+      "onboard_time": 1690040556,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279051,
@@ -38521,14 +38553,6 @@
       "onboard_time": 1689725970,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248720,
-      "num": 225292,
-      "word": "杨洋王楚然撒糖镜头切魏大勋",
-      "onboard_time": 1690042296,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 248610,
@@ -41907,14 +41931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219509,
-      "num": 219509,
-      "word": "李帝努poppy",
-      "onboard_time": 1690042114,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 219056,
       "num": 219056,
       "word": "谢乔杨澄彻底be",
@@ -42563,14 +42579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214357,
-      "num": 230153,
-      "word": "原来静音车厢是靠人工静音",
-      "onboard_time": 1690040556,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214244,
       "num": 214244,
       "word": "赵露思桑稚",
@@ -42779,6 +42787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213185,
+      "num": 197264,
+      "word": "苏醒这是我被收买费用最低的一次",
+      "onboard_time": 1690043129,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213142,
       "num": 213142,
       "word": "吴京巨齿鲨2人设",
@@ -42905,14 +42921,6 @@
       "onboard_time": 1688270549,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 212367,
-      "num": 227505,
-      "word": "请不要在图书馆内吃东西",
-      "onboard_time": 1690041334,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 212346,
@@ -46195,6 +46203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190708,
+      "num": 197263,
+      "word": "李汶翰全开麦",
+      "onboard_time": 1690043250,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190571,
       "num": 190571,
       "word": "Angelababy英伦风裤装",
@@ -46633,6 +46649,14 @@
       "onboard_time": 1690029152,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188229,
+      "num": 197267,
+      "word": "武大靖记忆只有7秒",
+      "onboard_time": 1690043190,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 188196,

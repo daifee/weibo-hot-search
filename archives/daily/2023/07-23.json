@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690042823119,
+  "endTime": 1690043738517,
   "band_list": [
     {
       "raw_hot": 2244387,
@@ -19,19 +19,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1417906,
+      "num": 1417906,
+      "word": "孟宴臣 叶子",
+      "onboard_time": 1690040496,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1384589,
+      "num": 458066,
+      "word": "林志玲",
+      "onboard_time": 1690041394,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1371480,
       "num": 1371480,
       "word": "孟宴臣蝴蝶墙没了",
       "onboard_time": 1690035995,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1304450,
-      "num": 1304450,
-      "word": "孟宴臣 叶子",
-      "onboard_time": 1690040496,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -59,15 +67,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 821550,
-      "num": 458066,
-      "word": "林志玲",
-      "onboard_time": 1690041394,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 800235,
+      "raw_hot": 822942,
       "num": 444333,
       "word": "TFBOYS演唱会笑话",
       "onboard_time": 1690040556,
@@ -251,12 +251,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330266,
+      "num": 244184,
+      "word": "请不要在图书馆内吃东西",
+      "onboard_time": 1690041334,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 318578,
+      "num": 225292,
+      "word": "杨洋王楚然撒糖镜头切魏大勋",
+      "onboard_time": 1690042296,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297104,
+      "num": 219509,
+      "word": "李帝努poppy",
+      "onboard_time": 1690042114,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290248,
       "num": 232209,
       "word": "封神",
       "onboard_time": 1690036416,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279118,
+      "num": 279118,
+      "word": "原来静音车厢是靠人工静音",
+      "onboard_time": 1690040556,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269048,
@@ -273,14 +305,6 @@
       "onboard_time": 1690034500,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248720,
-      "num": 225292,
-      "word": "杨洋王楚然撒糖镜头切魏大勋",
-      "onboard_time": 1690042296,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 240240,
@@ -307,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234869,
+      "num": 197265,
+      "word": "Angelababy点了三个痣",
+      "onboard_time": 1690017032,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224706,
       "num": 224706,
       "word": "TFBOYS来西安都没地方住",
@@ -315,11 +347,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 219509,
-      "num": 219509,
-      "word": "李帝努poppy",
-      "onboard_time": 1690042114,
-      "rank": 42,
+      "raw_hot": 217267,
+      "num": 197265,
+      "word": "TES",
+      "onboard_time": 1690040917,
+      "rank": 43,
       "category": "音乐"
     },
     {
@@ -331,20 +363,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214357,
-      "num": 230153,
-      "word": "原来静音车厢是靠人工静音",
-      "onboard_time": 1690040556,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212367,
-      "num": 227505,
-      "word": "请不要在图书馆内吃东西",
-      "onboard_time": 1690041334,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 213185,
+      "num": 197264,
+      "word": "苏醒这是我被收买费用最低的一次",
+      "onboard_time": 1690043129,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 211106,
@@ -369,6 +393,22 @@
       "onboard_time": 1690037139,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190708,
+      "num": 197263,
+      "word": "李汶翰全开麦",
+      "onboard_time": 1690043250,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 188229,
+      "num": 197267,
+      "word": "武大靖记忆只有7秒",
+      "onboard_time": 1690043190,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 171095,

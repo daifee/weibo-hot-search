@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690042823119,
+  "endTime": 1690043738517,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -1259,6 +1259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1417906,
+      "num": 1417906,
+      "word": "孟宴臣 叶子",
+      "onboard_time": 1689868173,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1411595,
       "num": 1411595,
       "word": "恒大集团负债总额2.58万亿",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1689831516,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1384589,
+      "num": 458066,
+      "word": "林志玲",
+      "onboard_time": 1690041394,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1382034,
@@ -1401,14 +1417,6 @@
       "onboard_time": 1689933994,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1304450,
-      "num": 1304450,
-      "word": "孟宴臣 叶子",
-      "onboard_time": 1689868173,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1297880,
@@ -3051,20 +3059,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 822942,
+      "num": 444333,
+      "word": "TFBOYS演唱会笑话",
+      "onboard_time": 1690040556,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 822431,
       "num": 822431,
       "word": "美国正在针对中俄研发生化武器",
       "onboard_time": 1689813515,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 821550,
-      "num": 458066,
-      "word": "林志玲",
-      "onboard_time": 1690041394,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 820038,
@@ -3217,14 +3225,6 @@
       "onboard_time": 1689650971,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 800235,
-      "num": 444333,
-      "word": "TFBOYS演唱会笑话",
-      "onboard_time": 1690040556,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 798763,
@@ -8707,6 +8707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 330266,
+      "num": 244184,
+      "word": "请不要在图书馆内吃东西",
+      "onboard_time": 1690041334,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329079,
       "num": 284850,
       "word": "融梗",
@@ -8841,6 +8849,14 @@
       "onboard_time": 1690007074,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318578,
+      "num": 225292,
+      "word": "杨洋王楚然撒糖镜头切魏大勋",
+      "onboard_time": 1690042296,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 318565,
@@ -9376,6 +9392,14 @@
       "word": "薛之谦巡演官宣海外场",
       "onboard_time": 1689675454,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 297104,
+      "num": 219509,
+      "word": "李帝努poppy",
+      "onboard_time": 1690042114,
+      "rank": 42,
       "category": "音乐"
     },
     {
@@ -9937,6 +9961,14 @@
       "onboard_time": 1689768272,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279118,
+      "num": 279118,
+      "word": "原来静音车厢是靠人工静音",
+      "onboard_time": 1690040556,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279051,
@@ -10793,14 +10825,6 @@
       "onboard_time": 1689725970,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248720,
-      "num": 225292,
-      "word": "杨洋王楚然撒糖镜头切魏大勋",
-      "onboard_time": 1690042296,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 248214,
@@ -11691,14 +11715,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 219509,
-      "num": 219509,
-      "word": "李帝努poppy",
-      "onboard_time": 1690042114,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 218973,
       "num": 238539,
       "word": "分手别把电饭煲带走行不行",
@@ -11753,6 +11769,14 @@
       "onboard_time": 1689575732,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217267,
+      "num": 197265,
+      "word": "TES",
+      "onboard_time": 1690040917,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 217227,
@@ -11843,14 +11867,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 214357,
-      "num": 230153,
-      "word": "原来静音车厢是靠人工静音",
-      "onboard_time": 1690040556,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214034,
       "num": 312854,
       "word": "西安上次这么热闹还在唐朝",
@@ -11915,6 +11931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213185,
+      "num": 197264,
+      "word": "苏醒这是我被收买费用最低的一次",
+      "onboard_time": 1690043129,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213033,
       "num": 223815,
       "word": "种地吧普通话课直播",
@@ -11953,14 +11977,6 @@
       "onboard_time": 1689734129,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212367,
-      "num": 227505,
-      "word": "请不要在图书馆内吃东西",
-      "onboard_time": 1690041334,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 212157,
@@ -12987,6 +13003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190708,
+      "num": 197263,
+      "word": "李汶翰全开麦",
+      "onboard_time": 1690043250,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190571,
       "num": 190571,
       "word": "Angelababy英伦风裤装",
@@ -13081,6 +13105,14 @@
       "onboard_time": 1690029152,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188229,
+      "num": 197267,
+      "word": "武大靖记忆只有7秒",
+      "onboard_time": 1690043190,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 188196,
