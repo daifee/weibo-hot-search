@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690029065089,
+  "endTime": 1690029994054,
   "band_list": [
     {
       "raw_hot": 2741013,
@@ -59,7 +59,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1771986,
+      "raw_hot": 1821768,
       "num": 900333,
       "word": "林靖恩",
       "onboard_time": 1690025970,
@@ -211,19 +211,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1037178,
+      "num": 899070,
+      "word": "封神终于不再甩锅女性",
+      "onboard_time": 1690026031,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1036197,
       "num": 1036197,
       "word": "亲生的阿瑟都不能上桌许沁凭什么窒息",
       "onboard_time": 1689956551,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 979686,
-      "num": 899070,
-      "word": "封神终于不再甩锅女性",
-      "onboard_time": 1690026031,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 949353,
+      "num": 949353,
+      "word": "杨迪说魏大勋老来得粉",
+      "onboard_time": 1690028613,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 927029,
       "num": 874362,
       "word": "粉丝还是让TFBOYS贴贴了",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 925867,
-      "num": 623369,
+      "num": 659472,
       "word": "张小斐白色丝绸吊带",
       "onboard_time": 1690024769,
       "rank": 17,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 876012,
-      "num": 622670,
+      "num": 659572,
       "word": "刘畊宏女儿近照",
       "onboard_time": 1690024350,
       "rank": 47,
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 691623,
+      "num": 691623,
+      "word": "确诊恐6症",
+      "onboard_time": 1690025672,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 688740,
       "num": 688740,
       "word": "教科书里的女生原来是她",
@@ -529,6 +545,14 @@
       "onboard_time": 1690024950,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 660112,
+      "num": 660112,
+      "word": "你好星期六你是来看谁的",
+      "onboard_time": 1690029093,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 659212,
@@ -731,14 +755,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 535865,
-      "num": 535865,
-      "word": "确诊恐6症",
-      "onboard_time": 1690025672,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 534486,
       "num": 429571,
       "word": "au道歉",
@@ -787,6 +803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 519646,
+      "num": 519646,
+      "word": "Uzi状态",
+      "onboard_time": 1690022611,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 518449,
       "num": 518449,
       "word": "大一下学期的奶茶费用",
@@ -819,20 +843,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497298,
+      "num": 497298,
+      "word": "OMG对战EDG",
+      "onboard_time": 1690019492,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 497262,
       "num": 497262,
       "word": "迪丽热巴出发长沙",
       "onboard_time": 1689992791,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 490270,
-      "num": 490270,
-      "word": "Uzi状态",
-      "onboard_time": 1690022611,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 488281,
@@ -1027,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419537,
+      "num": 402782,
+      "word": "起猛了全班17人考上了清华",
+      "onboard_time": 1690028731,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 415493,
       "num": 415493,
       "word": "美方制裁1300多家中企",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1689995550,
       "rank": 41,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 406761,
-      "num": 406761,
-      "word": "OMG对战EDG",
-      "onboard_time": 1690019492,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 406036,
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 396090,
-      "num": 396090,
+      "num": 402950,
       "word": "女足世界杯",
       "onboard_time": 1690027711,
       "rank": 22,
@@ -1203,6 +1227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 335794,
+      "num": 335794,
+      "word": "21岁小伙因撑伞羞耻被中度晒伤",
+      "onboard_time": 1690028493,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334937,
       "num": 334937,
       "word": "TFBOYS车站概念",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1689994952,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320212,
-      "num": 320212,
-      "word": "杨迪说魏大勋老来得粉",
-      "onboard_time": 1690028613,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 319709,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1690005270,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309778,
+      "num": 309778,
+      "word": "减脂人的冰箱能有多清爽",
+      "onboard_time": 1690028311,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 309763,
@@ -1483,14 +1515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 271009,
-      "num": 271009,
-      "word": "21岁小伙因撑伞羞耻被中度晒伤",
-      "onboard_time": 1690028493,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270945,
       "num": 270945,
       "word": "出租屋7岁钢琴神童获省级金奖老师送钢琴",
@@ -1547,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264500,
+      "num": 264500,
+      "word": "原神",
+      "onboard_time": 1690028851,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264315,
       "num": 264315,
       "word": "如果你脸上有一颗痣",
@@ -1563,8 +1595,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261997,
-      "num": 261997,
+      "raw_hot": 262172,
+      "num": 262172,
       "word": "在宿舍听到最劲爆的八卦",
       "onboard_time": 1690025910,
       "rank": 33,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1690003171,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 242658,
-      "num": 242658,
-      "word": "起猛了全班17人考上了清华",
-      "onboard_time": 1690028731,
-      "rank": 35,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 241680,
@@ -1803,6 +1827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 227223,
+      "num": 227223,
+      "word": "王霜",
+      "onboard_time": 1690029513,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226011,
       "num": 226011,
       "word": "宋轶再给自己配音完全对得上",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1689953077,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221218,
-      "num": 221218,
-      "word": "减脂人的冰箱能有多清爽",
-      "onboard_time": 1690028311,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 220885,
@@ -1881,14 +1905,6 @@
       "onboard_time": 1690011692,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 212916,
-      "num": 212916,
-      "word": "原神",
-      "onboard_time": 1690028851,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 211932,
@@ -2011,6 +2027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197117,
+      "num": 197117,
+      "word": "KSG战胜LGD",
+      "onboard_time": 1690029152,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195976,
       "num": 195976,
       "word": "陈绮贞唱了太聪明",
@@ -2073,6 +2097,14 @@
       "onboard_time": 1690016494,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188264,
+      "num": 188264,
+      "word": "原神fes",
+      "onboard_time": 1690029152,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 187702,
@@ -2427,8 +2459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45911,
-      "num": 915196,
+      "raw_hot": 54824,
+      "num": 922138,
       "word": "成都大运村今天开村",
       "onboard_time": 1690013312,
       "rank": 2,
@@ -2467,6 +2499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27344,
+      "num": 225287,
+      "word": "快手直播2023盛夏巅峰之夜燃爆了",
+      "onboard_time": 1690027229,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 26854,
       "num": 41372,
       "word": "微博公开课",
@@ -2475,12 +2515,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 20030,
-      "num": 225287,
-      "word": "快手直播2023盛夏巅峰之夜燃爆了",
-      "onboard_time": 1690027229,
-      "rank": 39,
-      "category": "科技"
+      "raw_hot": 7934,
+      "num": 174737,
+      "word": "今年世界杯中国队来了",
+      "onboard_time": 1690029873,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
