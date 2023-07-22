@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690022024336,
+  "endTime": 1690024425633,
   "band_list": [
     {
       "raw_hot": 2741013,
@@ -355,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 772084,
+      "num": 506630,
+      "word": "刘星没想到头发是这样绿的吧",
+      "onboard_time": 1690020395,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 767728,
       "num": 767728,
       "word": "魏大勋张翰张彬彬爆笑两分半",
@@ -387,12 +395,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 743763,
+      "num": 743763,
+      "word": "UNIQ合照",
+      "onboard_time": 1690020871,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714118,
       "num": 619182,
       "word": "玉骨遥造型师回应任敏妆造",
       "onboard_time": 1689944200,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 708934,
+      "num": 708934,
+      "word": "别再用大蒜保存西瓜了",
+      "onboard_time": 1690020753,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 692167,
@@ -521,14 +545,6 @@
       "onboard_time": 1689994110,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 597497,
-      "num": 287997,
-      "word": "刘星没想到头发是这样绿的吧",
-      "onboard_time": 1690020395,
-      "rank": 30,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 593295,
@@ -683,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 517768,
+      "num": 262148,
+      "word": "外卖员自拍2次裤裆拔毛放入餐食",
+      "onboard_time": 1690023930,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512397,
       "num": 362354,
       "word": "SMTOWN新男团叫RIIZE",
@@ -705,14 +729,6 @@
       "onboard_time": 1690006952,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 499201,
-      "num": 499201,
-      "word": "UNIQ合照",
-      "onboard_time": 1690020871,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 497262,
@@ -787,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 446550,
+      "num": 446550,
+      "word": "龚俊被刘宇宁的腿震惊",
+      "onboard_time": 1690020990,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446480,
       "num": 284010,
       "word": "乘风排名",
@@ -803,6 +827,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 441577,
+      "num": 441577,
+      "word": "Uzi状态",
+      "onboard_time": 1690022611,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 437635,
       "num": 346594,
       "word": "左航苏新皓邓佳鑫身骑白马合作舞台",
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 435464,
-      "num": 374411,
+      "num": 430110,
       "word": "魏大勋绑带背心",
       "onboard_time": 1690021470,
       "rank": 15,
@@ -865,6 +897,14 @@
       "onboard_time": 1690004671,
       "rank": 13,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 423522,
+      "num": 222317,
+      "word": "庾澄庆围观儿子直播",
+      "onboard_time": 1690023210,
+      "rank": 30,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 421526,
@@ -931,14 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 396276,
-      "num": 396276,
-      "word": "别再用大蒜保存西瓜了",
-      "onboard_time": 1690020753,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 389441,
       "num": 349606,
       "word": "花花公子",
@@ -971,14 +1003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 362594,
-      "num": 295821,
-      "word": "龚俊被刘宇宁的腿震惊",
-      "onboard_time": 1690020990,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 362327,
       "num": 362327,
       "word": "韩国500赛陈雨菲无缘决赛",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1689987510,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351845,
+      "num": 258451,
+      "word": "跳水",
+      "onboard_time": 1690023210,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 348855,
@@ -1323,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266118,
+      "num": 266118,
+      "word": "练俊杰杨昊",
+      "onboard_time": 1690023569,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266009,
       "num": 266009,
       "word": "现在的爸妈越来越会取名字了",
@@ -1411,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240699,
+      "num": 222281,
+      "word": "合租室友背着我跟房东续约",
+      "onboard_time": 1690022911,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240636,
       "num": 240636,
       "word": "KT战胜GEN",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1690001251,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232045,
+      "num": 232045,
+      "word": "广东潮汕的牛肉有多绝",
+      "onboard_time": 1690022971,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 231868,
@@ -1609,6 +1665,22 @@
       "onboard_time": 1690006650,
       "rank": 46,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 210188,
+      "num": 210188,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1690024288,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 209540,
+      "num": 209540,
+      "word": "原来学摄影真的能吃饱饭",
+      "onboard_time": 1690023451,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 208164,
@@ -1819,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171207,
+      "num": 193848,
+      "word": "中国队跳水男子10米台摘银",
+      "onboard_time": 1690024411,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169627,
       "num": 156595,
       "word": "TFBOYS那些官宣里的小细节",
@@ -1921,6 +2001,14 @@
       "onboard_time": 1690005871,
       "rank": 34,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 139947,
+      "num": 193831,
+      "word": "刘畊宏女儿近照",
+      "onboard_time": 1690024350,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 138688,
