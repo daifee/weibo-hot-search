@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690067751936,
+  "endTime": 1690068834138,
   "band_list": [
     {
       "raw_hot": 2244387,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401049,
+      "num": 266661,
+      "word": "大唐不夜城",
+      "onboard_time": 1690067418,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 400856,
       "num": 400856,
       "word": "父母去世女生被上海音乐学院录取",
@@ -315,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 249800,
+      "num": 249800,
+      "word": "Uzi后台哭了",
+      "onboard_time": 1690067239,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241903,
       "num": 225686,
       "word": "苏醒这是我被收买费用最低的一次",
@@ -329,6 +345,14 @@
       "onboard_time": 1690035579,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238707,
+      "num": 238707,
+      "word": "因为长安三万里李白墓前摆满了美酒",
+      "onboard_time": 1690034074,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 236971,
@@ -353,6 +377,14 @@
       "onboard_time": 1690017032,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228856,
+      "num": 228856,
+      "word": "徐海乔评论区",
+      "onboard_time": 1690068381,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 224706,
@@ -411,16 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194464,
-      "num": 194464,
-      "word": "因为长安三万里李白墓前摆满了美酒",
-      "onboard_time": 1690034074,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191484,
-      "num": 107071,
+      "num": 140180,
       "word": "芭比导演坚持反对剪掉老奶奶场景",
       "onboard_time": 1690051456,
       "rank": 12,
@@ -443,20 +467,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 185853,
+      "num": 185853,
+      "word": "大熊猫被羚牛追击一路狂跑",
+      "onboard_time": 1690066938,
+      "rank": 33,
+      "category": "幽默,自然"
+    },
+    {
+      "raw_hot": 178103,
+      "num": 178103,
+      "word": "陈天润 王妃",
+      "onboard_time": 1690063875,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171095,
       "num": 210242,
       "word": "中国女足0比1丹麦女足",
       "onboard_time": 1690034436,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158836,
-      "num": 158836,
-      "word": "陈天润 王妃",
-      "onboard_time": 1690063875,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 155832,
@@ -467,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145995,
-      "num": 145995,
-      "word": "Uzi后台哭了",
-      "onboard_time": 1690067239,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 148493,
+      "num": 148493,
+      "word": "古巨基希望儿子早婚早生",
+      "onboard_time": 1690063815,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 145250,
@@ -483,28 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141708,
-      "num": 108387,
-      "word": "古巨基希望儿子早婚早生",
-      "onboard_time": 1690063815,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104381,
       "num": 1318335,
       "word": "中国跳水队12金收官",
       "onboard_time": 1690031793,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103762,
-      "num": 103762,
-      "word": "大唐不夜城",
-      "onboard_time": 1690067418,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 103439,
@@ -515,12 +531,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92866,
-      "num": 92866,
-      "word": "大熊猫被羚牛追击一路狂跑",
-      "onboard_time": 1690066938,
-      "rank": 33,
-      "category": "幽默,自然"
+      "raw_hot": 93482,
+      "num": 85388,
+      "word": "纣王到底爱不爱妲己",
+      "onboard_time": 1690053914,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 92134,
+      "num": 85379,
+      "word": "吴宣仪千禧辣妹造型",
+      "onboard_time": 1690068682,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88137,
+      "num": 88137,
+      "word": "87岁老太翻窗上屋顶掉进天井",
+      "onboard_time": 1690065495,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87443,
@@ -531,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85395,
+      "num": 85395,
+      "word": "姐姐新婚妹妹养2000条蚕做手工扇",
+      "onboard_time": 1690068562,
+      "rank": 39,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 83842,
       "num": 83842,
       "word": "Aimer现场",
@@ -539,20 +579,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 80650,
-      "num": 80650,
-      "word": "纣王到底爱不爱妲己",
-      "onboard_time": 1690053914,
-      "rank": 32,
+      "raw_hot": 74199,
+      "num": 84013,
+      "word": "乌尔善不想把妲己拍得太风骚",
+      "onboard_time": 1690051216,
+      "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 74855,
-      "num": 74855,
-      "word": "87岁老太翻窗上屋顶掉进天井",
-      "onboard_time": 1690065495,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70318,
@@ -561,14 +593,6 @@
       "onboard_time": 1690049658,
       "rank": 43,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 65348,
-      "num": 57241,
-      "word": "乌尔善不想把妲己拍得太风骚",
-      "onboard_time": 1690051216,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 40300,
@@ -587,7 +611,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21834,
+      "raw_hot": 25217,
       "num": 1058451,
       "word": "2023年空军航空开放活动来了",
       "onboard_time": 1690031553,
