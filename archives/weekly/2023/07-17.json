@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690054410909,
+  "endTime": 1690056985131,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -14987,6 +14987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56102,
+      "num": 50303,
+      "word": "纣王到底爱不爱妲己",
+      "onboard_time": 1690053914,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54924,
       "num": 1918565,
       "word": "大运会城市志愿服务小站有急救包",
@@ -15073,14 +15081,6 @@
       "onboard_time": 1690002511,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44423,
-      "num": 44423,
-      "word": "纣王到底爱不爱妲己",
-      "onboard_time": 1690053914,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 43412,
