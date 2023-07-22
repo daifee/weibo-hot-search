@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690046038871,
+  "endTime": 1690047211234,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -4107,6 +4107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 661435,
+      "num": 661435,
+      "word": "seventeen宣布十月回归",
+      "onboard_time": 1690044029,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 661289,
       "num": 1371358,
       "word": "花花被游客喊胖子愣了1秒钟",
@@ -4369,14 +4377,6 @@
       "onboard_time": 1689954159,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 634798,
-      "num": 634798,
-      "word": "seventeen宣布十月回归",
-      "onboard_time": 1690044029,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 634762,
@@ -9803,6 +9803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284817,
+      "num": 284817,
+      "word": "原来静音车厢是靠人工静音",
+      "onboard_time": 1690040556,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284800,
       "num": 284800,
       "word": "迪丽热巴丝带马尾造型",
@@ -9969,14 +9977,6 @@
       "onboard_time": 1689768272,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279118,
-      "num": 279118,
-      "word": "原来静音车厢是靠人工静音",
-      "onboard_time": 1690040556,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279051,
@@ -14764,7 +14764,7 @@
     },
     {
       "raw_hot": 87443,
-      "num": 100338,
+      "num": 103757,
       "word": "偶像梦幻祭",
       "onboard_time": 1690045166,
       "rank": 48,
