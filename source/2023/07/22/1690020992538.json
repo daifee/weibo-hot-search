@@ -1,0 +1,410 @@
+{
+  "runTime": 1690020992538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2558221,
+        "num": 2558221,
+        "word": "央视网文娱评价我的人间烟火",
+        "onboard_time": 1690015591,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 847225,
+        "num": 1059938,
+        "word": "夫妻退潮时冒死跳海救溺水父女",
+        "onboard_time": 1690016911,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88889,
+        "num": 960523,
+        "word": "中国女足超燃瞬间",
+        "onboard_time": 1690013553,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 925030,
+        "num": 925030,
+        "word": "公关什么呀公开得了",
+        "onboard_time": 1690005089,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538646,
+        "num": 755701,
+        "word": "北京故宫的排水系统为何能抗住暴雨",
+        "onboard_time": 1690015954,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 712957,
+        "num": 712957,
+        "word": "全面暴涨魏大勋",
+        "onboard_time": 1690012772,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315082,
+        "num": 602604,
+        "word": "白猪中暑变粉猪119及时解救",
+        "onboard_time": 1690015231,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601707,
+        "num": 601707,
+        "word": "中介称20万就能买国企身份",
+        "onboard_time": 1690018473,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549463,
+        "num": 549463,
+        "word": "男儿歌",
+        "onboard_time": 1690017450,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 517971,
+        "num": 517971,
+        "word": "魏大勋他只是经过",
+        "onboard_time": 1690018473,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1422723,
+        "num": 514089,
+        "word": "TFBOYS来西安都没地方住",
+        "onboard_time": 1690019192,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1142867,
+        "num": 502549,
+        "word": "Angelababy点了三个痣",
+        "onboard_time": 1690017032,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1337204,
+        "num": 496784,
+        "word": "芭比",
+        "onboard_time": 1689998432,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479584,
+        "num": 479584,
+        "word": "电影票房",
+        "onboard_time": 1690019913,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146046,
+        "num": 460129,
+        "word": "那么多人都爱着熊猫七仔",
+        "onboard_time": 1690020032,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 444498,
+        "num": 444498,
+        "word": "热烈",
+        "onboard_time": 1690014209,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434618,
+        "num": 434618,
+        "word": "33岁健身网红举重时遭杠铃压断脖子",
+        "onboard_time": 1690011753,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 391980,
+        "num": 391980,
+        "word": "许沁这是我妈给我煮的粥",
+        "onboard_time": 1690009711,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384045,
+        "num": 384045,
+        "word": "韩国总统尹锡悦岳母被捕",
+        "onboard_time": 1690012592,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 315249,
+        "num": 315249,
+        "word": "TheShy 茶百道",
+        "onboard_time": 1690001733,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 371325,
+        "num": 304035,
+        "word": "魏大勋爆火后播的第一个综艺",
+        "onboard_time": 1690006711,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349237,
+        "num": 302674,
+        "word": "张嘉倪为Ella做成都冰粉",
+        "onboard_time": 1690018533,
+        "rank": 21,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 290570,
+        "num": 290570,
+        "word": "孩子考了702分爸爸喝高兴了醉驾",
+        "onboard_time": 1690003951,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279474,
+        "num": 279474,
+        "word": "付辛博降至B级",
+        "onboard_time": 1690014992,
+        "rank": 23,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 275190,
+        "num": 275190,
+        "word": "OMG对战EDG",
+        "onboard_time": 1690019492,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332631,
+        "num": 271818,
+        "word": "许沁没有去宋焰家洗碗",
+        "onboard_time": 1690014812,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344958,
+        "num": 268642,
+        "word": "魏大勋P的图",
+        "onboard_time": 1690013673,
+        "rank": 26,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 325724,
+        "num": 266143,
+        "word": "鞠婧祎换微博头像",
+        "onboard_time": 1690014871,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260836,
+        "num": 260836,
+        "word": "现在的爸妈越来越会取名字了",
+        "onboard_time": 1690018232,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247965,
+        "num": 247965,
+        "word": "问候离职的同事后背刺了我",
+        "onboard_time": 1690017332,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313920,
+        "num": 247381,
+        "word": "刘星没想到头发是这样绿的吧",
+        "onboard_time": 1690020395,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 301076,
+        "num": 246888,
+        "word": "盛一伦都演爹了",
+        "onboard_time": 1690003230,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99599,
+        "num": 245630,
+        "word": "大熊猫的顶流待遇我慕了",
+        "onboard_time": 1690020154,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298798,
+        "num": 244353,
+        "word": "关晓彤无袖黑裙",
+        "onboard_time": 1690018354,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252975,
+        "num": 243609,
+        "word": "宋亚轩吃汉堡",
+        "onboard_time": 1690017332,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242948,
+        "num": 242948,
+        "word": "沙利文称美国将不得不与中国无限期共存",
+        "onboard_time": 1690018354,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 223695,
+        "num": 223695,
+        "word": "王源发尾挑染",
+        "onboard_time": 1690012534,
+        "rank": 36,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 219633,
+        "num": 219633,
+        "word": "迪丽热巴给粉丝买水",
+        "onboard_time": 1690011812,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218081,
+        "num": 218081,
+        "word": "中国女足",
+        "onboard_time": 1690019253,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213222,
+        "num": 213222,
+        "word": "别再用大蒜保存西瓜了",
+        "onboard_time": 1690020753,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207494,
+        "num": 207494,
+        "word": "受精卵出逃钻进女子腹腔",
+        "onboard_time": 1689982461,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207479,
+        "num": 207479,
+        "word": "SMTOWN新男团叫RIIZE",
+        "onboard_time": 1690010191,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200238,
+        "num": 200238,
+        "word": "日媒探店中国水产超市发现已无日货",
+        "onboard_time": 1690013731,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 197349,
+        "num": 197349,
+        "word": "河北廊坊重现200年前红楼一梦",
+        "onboard_time": 1690019554,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 286238,
+        "num": 196684,
+        "word": "芭比豆瓣差评大展",
+        "onboard_time": 1690006711,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192499,
+        "num": 192499,
+        "word": "UNIQ合照",
+        "onboard_time": 1690020871,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186665,
+        "num": 186665,
+        "word": "我的人间烟火",
+        "onboard_time": 1690020692,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183105,
+        "num": 183105,
+        "word": "日本女足5比0赞比亚女足",
+        "onboard_time": 1690020032,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168654,
+        "num": 168654,
+        "word": "沈月蝴蝶眼妆",
+        "onboard_time": 1690013011,
+        "rank": 48,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 165615,
+        "num": 165615,
+        "word": "大一下学期的奶茶费用",
+        "onboard_time": 1690011092,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把长江文化保护好传承好弘扬好#"
+    }
+  }
+}

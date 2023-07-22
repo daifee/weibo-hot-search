@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690018435173,
+  "endTime": 1690020992538,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1688271629,
       "rank": 35,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2558221,
+      "num": 2558221,
+      "word": "央视网文娱评价我的人间烟火",
+      "onboard_time": 1690015591,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 2555884,
@@ -3308,7 +3316,7 @@
     },
     {
       "raw_hot": 1763849,
-      "num": 437721,
+      "num": 502549,
       "word": "Angelababy点了三个痣",
       "onboard_time": 1690017032,
       "rank": 30,
@@ -4443,14 +4451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1463310,
-      "num": 1463310,
-      "word": "央视网文娱评价我的人间烟火",
-      "onboard_time": 1690015591,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1462994,
       "num": 1462994,
       "word": "iPhone15及Plus新增青绿色",
@@ -4665,6 +4665,14 @@
       "onboard_time": 1688370823,
       "rank": 4,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1422723,
+      "num": 514089,
+      "word": "TFBOYS来西安都没地方住",
+      "onboard_time": 1690019192,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 1419371,
@@ -10289,6 +10297,14 @@
       "onboard_time": 1688899772,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 847225,
+      "num": 1059938,
+      "word": "夫妻退潮时冒死跳海救溺水父女",
+      "onboard_time": 1690016911,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 847221,
@@ -16275,6 +16291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 601707,
+      "num": 601707,
+      "word": "中介称20万就能买国企身份",
+      "onboard_time": 1690018473,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601571,
       "num": 601571,
       "word": "天经棣义",
@@ -18067,6 +18091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549463,
+      "num": 549463,
+      "word": "男儿歌",
+      "onboard_time": 1690017450,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 549241,
       "num": 2855437,
       "word": "成都一公园开出红黄对称双色睡莲",
@@ -18513,6 +18545,14 @@
       "onboard_time": 1688872229,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 538646,
+      "num": 755701,
+      "word": "北京故宫的排水系统为何能抗住暴雨",
+      "onboard_time": 1690015954,
+      "rank": 27,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 538596,
@@ -19241,6 +19281,14 @@
       "onboard_time": 1688177370,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 517971,
+      "num": 517971,
+      "word": "魏大勋他只是经过",
+      "onboard_time": 1690018473,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 517956,
@@ -20835,6 +20883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479584,
+      "num": 479584,
+      "word": "电影票房",
+      "onboard_time": 1690019913,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 479578,
       "num": 479578,
       "word": "世界女排联赛",
@@ -21979,14 +22035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 456259,
-      "num": 391335,
-      "word": "男儿歌",
-      "onboard_time": 1690017450,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 456253,
       "num": 398921,
       "word": "一句话总结seventeen澳门舞台",
@@ -22593,14 +22641,6 @@
       "onboard_time": 1689088896,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444554,
-      "num": 444554,
-      "word": "夫妻退潮时冒死跳海救溺水父女",
-      "onboard_time": 1690016911,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444539,
@@ -24921,14 +24961,6 @@
       "onboard_time": 1688381625,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 403381,
-      "num": 403381,
-      "word": "北京故宫的排水系统为何能抗住暴雨",
-      "onboard_time": 1690015954,
-      "rank": 27,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 403351,
@@ -28627,6 +28659,14 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 349237,
+      "num": 302674,
+      "word": "张嘉倪为Ella做成都冰粉",
+      "onboard_time": 1690018533,
+      "rank": 21,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 349155,
       "num": 240133,
       "word": "华晨宇雨中告别大喊鸟巢见",
@@ -28684,7 +28724,7 @@
     },
     {
       "raw_hot": 348855,
-      "num": 348855,
+      "num": 602604,
       "word": "白猪中暑变粉猪119及时解救",
       "onboard_time": 1690015231,
       "rank": 18,
@@ -31099,6 +31139,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 313920,
+      "num": 247381,
+      "word": "刘星没想到头发是这样绿的吧",
+      "onboard_time": 1690020395,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 313856,
       "num": 313856,
       "word": "孕妇大出血遇堵车铁骑大喊跟我走",
@@ -32449,6 +32497,14 @@
       "onboard_time": 1690011092,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 298798,
+      "num": 244353,
+      "word": "关晓彤无袖黑裙",
+      "onboard_time": 1690018354,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 298666,
@@ -34881,6 +34937,14 @@
       "onboard_time": 1688684482,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275190,
+      "num": 275190,
+      "word": "OMG对战EDG",
+      "onboard_time": 1689255514,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 274863,
@@ -37763,6 +37827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247965,
+      "num": 273229,
+      "word": "问候离职的同事后背刺了我",
+      "onboard_time": 1690017332,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247959,
       "num": 247959,
       "word": "谢娜画完妆迫不及待和姐姐们贴贴",
@@ -38281,6 +38353,14 @@
       "onboard_time": 1689553410,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242948,
+      "num": 242948,
+      "word": "沙利文称美国将不得不与中国无限期共存",
+      "onboard_time": 1690018354,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 242909,
@@ -41835,6 +41915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213222,
+      "num": 213222,
+      "word": "别再用大蒜保存西瓜了",
+      "onboard_time": 1690020753,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213221,
       "num": 238709,
       "word": "未来中国科普宣传员",
@@ -43195,14 +43283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203485,
-      "num": 273229,
-      "word": "问候离职的同事后背刺了我",
-      "onboard_time": 1690017332,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 203445,
       "num": 203445,
       "word": "耶伦召开记者会",
@@ -43649,14 +43729,6 @@
       "onboard_time": 1688858120,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201103,
-      "num": 201103,
-      "word": "OMG对战EDG",
-      "onboard_time": 1689255514,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 201077,
@@ -44169,6 +44241,14 @@
       "onboard_time": 1688542114,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 197349,
+      "num": 197349,
+      "word": "河北廊坊重现200年前红楼一梦",
+      "onboard_time": 1690019554,
+      "rank": 43,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 197295,
@@ -44913,6 +44993,14 @@
       "onboard_time": 1688471011,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192499,
+      "num": 192499,
+      "word": "UNIQ合照",
+      "onboard_time": 1690020871,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 192493,
@@ -46169,6 +46257,14 @@
       "onboard_time": 1689230191,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183105,
+      "num": 183105,
+      "word": "日本女足5比0赞比亚女足",
+      "onboard_time": 1690020032,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 182826,
@@ -48531,14 +48627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158586,
-      "num": 217792,
-      "word": "关晓彤无袖黑裙",
-      "onboard_time": 1690018354,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 158407,
       "num": 158407,
       "word": "女子外卖备注多放醋商家送1大袋",
@@ -48907,14 +48995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152360,
-      "num": 214443,
-      "word": "沙利文称美国将不得不与中国无限期共存",
-      "onboard_time": 1690018354,
-      "rank": 48,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 152244,
       "num": 152244,
       "word": "当大学生找学习搭子遇见小学生",
@@ -49281,6 +49361,14 @@
       "onboard_time": 1689727411,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146046,
+      "num": 460129,
+      "word": "那么多人都爱着熊猫七仔",
+      "onboard_time": 1690020032,
+      "rank": 14,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 145896,
@@ -51016,6 +51104,14 @@
       "word": "首只在台出生的大熊猫十岁啦",
       "onboard_time": 1688648673,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99599,
+      "num": 245630,
+      "word": "大熊猫的顶流待遇我慕了",
+      "onboard_time": 1690020154,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
