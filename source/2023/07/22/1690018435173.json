@@ -1,0 +1,410 @@
+{
+  "runTime": 1690018435173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2518898,
+        "num": 2518898,
+        "word": "芭比",
+        "onboard_time": 1689998432,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1463310,
+        "num": 1463310,
+        "word": "央视网文娱评价我的人间烟火",
+        "onboard_time": 1690015591,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111842,
+        "num": 1340872,
+        "word": "中国女足超燃瞬间",
+        "onboard_time": 1690013553,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1289267,
+        "num": 1289267,
+        "word": "全面暴涨魏大勋",
+        "onboard_time": 1690012772,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1118942,
+        "num": 1118942,
+        "word": "公关什么呀公开得了",
+        "onboard_time": 1690005089,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763990,
+        "num": 763990,
+        "word": "付辛博降至B级",
+        "onboard_time": 1690014992,
+        "rank": 5,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 755449,
+        "num": 755449,
+        "word": "韩国总统尹锡悦岳母被捕",
+        "onboard_time": 1690012592,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 611494,
+        "num": 611494,
+        "word": "33岁健身网红举重时遭杠铃压断脖子",
+        "onboard_time": 1690011753,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 571383,
+        "num": 571383,
+        "word": "热烈",
+        "onboard_time": 1690014209,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444554,
+        "num": 444554,
+        "word": "夫妻退潮时冒死跳海救溺水父女",
+        "onboard_time": 1690016911,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1763849,
+        "num": 437721,
+        "word": "Angelababy点了三个痣",
+        "onboard_time": 1690017032,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 553677,
+        "num": 435558,
+        "word": "魏大勋P的图",
+        "onboard_time": 1690013673,
+        "rank": 11,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 540524,
+        "num": 435270,
+        "word": "许沁这是我妈给我煮的粥",
+        "onboard_time": 1690009711,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429943,
+        "num": 429943,
+        "word": "日媒探店中国水产超市发现已无日货",
+        "onboard_time": 1690013731,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 403381,
+        "num": 403381,
+        "word": "北京故宫的排水系统为何能抗住暴雨",
+        "onboard_time": 1690015954,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 471492,
+        "num": 391963,
+        "word": "许沁没有去宋焰家洗碗",
+        "onboard_time": 1690014812,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456259,
+        "num": 391335,
+        "word": "男儿歌",
+        "onboard_time": 1690017450,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 375658,
+        "num": 375658,
+        "word": "TheShy 茶百道",
+        "onboard_time": 1690001733,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333889,
+        "num": 333889,
+        "word": "白猪中暑变粉猪119及时解救",
+        "onboard_time": 1690015231,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294078,
+        "num": 294078,
+        "word": "大一下学期的奶茶费用",
+        "onboard_time": 1690011092,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 577693,
+        "num": 290128,
+        "word": "魏大勋爆火后播的第一个综艺",
+        "onboard_time": 1690006711,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482369,
+        "num": 289926,
+        "word": "鞠婧祎换微博头像",
+        "onboard_time": 1690014871,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371627,
+        "num": 286985,
+        "word": "孩子考了702分爸爸喝高兴了醉驾",
+        "onboard_time": 1690003951,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283673,
+        "num": 283673,
+        "word": "受精卵出逃钻进女子腹腔",
+        "onboard_time": 1689982461,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277187,
+        "num": 277187,
+        "word": "我成了全村第一个开拖拉机的女生",
+        "onboard_time": 1690011632,
+        "rank": 24,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 370029,
+        "num": 277068,
+        "word": "盛一伦都演爹了",
+        "onboard_time": 1690003230,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354169,
+        "num": 276528,
+        "word": "花花公子",
+        "onboard_time": 1690013731,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 341557,
+        "num": 275919,
+        "word": "迪丽热巴给粉丝买水",
+        "onboard_time": 1690011812,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310084,
+        "num": 274947,
+        "word": "王源发尾挑染",
+        "onboard_time": 1690012534,
+        "rank": 28,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 161286,
+        "num": 274694,
+        "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
+        "onboard_time": 1689983186,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274189,
+        "num": 274189,
+        "word": "宋亚轩吃汉堡",
+        "onboard_time": 1690017332,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322577,
+        "num": 274177,
+        "word": "芭比豆瓣差评大展",
+        "onboard_time": 1690006711,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203485,
+        "num": 273229,
+        "word": "问候离职的同事后背刺了我",
+        "onboard_time": 1690017332,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272571,
+        "num": 272571,
+        "word": "长相思",
+        "onboard_time": 1690017692,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266009,
+        "num": 266009,
+        "word": "现在的爸妈越来越会取名字了",
+        "onboard_time": 1690018232,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235274,
+        "num": 235274,
+        "word": "SMTOWN新男团叫RIIZE",
+        "onboard_time": 1690010191,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210373,
+        "num": 234510,
+        "word": "外科医生的手有多稳",
+        "onboard_time": 1690015711,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197178,
+        "num": 233568,
+        "word": "蔡依林广州",
+        "onboard_time": 1690017510,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183596,
+        "num": 231491,
+        "word": "真的会有人不用洗发水洗头吗",
+        "onboard_time": 1690016494,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173601,
+        "num": 229440,
+        "word": "为什么有的人耳朵上有这个",
+        "onboard_time": 1690004311,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195831,
+        "num": 228391,
+        "word": "张杰献唱长相思主题曲",
+        "onboard_time": 1690013493,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157835,
+        "num": 226405,
+        "word": "谁在杭州机场落了结婚照暑假作业",
+        "onboard_time": 1690011213,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192627,
+        "num": 225415,
+        "word": "大勋你这拍的谁顶的住啊",
+        "onboard_time": 1690009231,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174397,
+        "num": 222979,
+        "word": "au道歉",
+        "onboard_time": 1690007792,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173241,
+        "num": 221436,
+        "word": "张峻豪好高",
+        "onboard_time": 1690010793,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163588,
+        "num": 220706,
+        "word": "球迷的快乐其实很简单",
+        "onboard_time": 1690017392,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158586,
+        "num": 217792,
+        "word": "关晓彤无袖黑裙",
+        "onboard_time": 1690018354,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158147,
+        "num": 217464,
+        "word": "坐高铁开导航是什么体验",
+        "onboard_time": 1690011092,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152360,
+        "num": 214443,
+        "word": "沙利文称美国将不得不与中国无限期共存",
+        "onboard_time": 1690018354,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 116550,
+        "num": 212929,
+        "word": "为啥女生裤子口袋越来越小",
+        "onboard_time": 1690003292,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把长江文化保护好传承好弘扬好#"
+    }
+  }
+}

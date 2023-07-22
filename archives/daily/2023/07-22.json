@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690017332220,
+  "endTime": 1690018435173,
   "band_list": [
     {
       "raw_hot": 2741013,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1763849,
+      "num": 437721,
+      "word": "Angelababy点了三个痣",
+      "onboard_time": 1690017032,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1749785,
       "num": 1749785,
       "word": "宋焰说挤地铁会受伤的",
@@ -81,6 +89,14 @@
       "onboard_time": 1689953915,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1463310,
+      "num": 1463310,
+      "word": "央视网文娱评价我的人间烟火",
+      "onboard_time": 1690015591,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1454964,
@@ -145,14 +161,6 @@
       "onboard_time": 1689987271,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1114586,
-      "num": 1036193,
-      "word": "央视网文娱评价我的人间烟火",
-      "onboard_time": 1690015591,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1103182,
@@ -393,14 +401,6 @@
       "onboard_time": 1689999992,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 660763,
-      "num": 206236,
-      "word": "Angelababy点了三个痣",
-      "onboard_time": 1690017032,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 659212,
@@ -659,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482369,
+      "num": 311936,
+      "word": "鞠婧祎换微博头像",
+      "onboard_time": 1690014871,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478912,
       "num": 287262,
       "word": "男朋友未成年之前的QQ空间",
@@ -707,12 +715,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 449727,
-      "num": 311936,
-      "word": "鞠婧祎换微博头像",
-      "onboard_time": 1690014871,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 456259,
+      "num": 391335,
+      "word": "男儿歌",
+      "onboard_time": 1690017450,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 446480,
@@ -729,6 +737,14 @@
       "onboard_time": 1690011632,
       "rank": 18,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 444554,
+      "num": 444554,
+      "word": "夫妻退潮时冒死跳海救溺水父女",
+      "onboard_time": 1690016911,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437635,
@@ -753,6 +769,14 @@
       "onboard_time": 1689990332,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429943,
+      "num": 429943,
+      "word": "日媒探店中国水产超市发现已无日货",
+      "onboard_time": 1690013731,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 428080,
@@ -811,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 403381,
+      "num": 403381,
+      "word": "北京故宫的排水系统为何能抗住暴雨",
+      "onboard_time": 1690015954,
+      "rank": 27,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 401542,
       "num": 283526,
       "word": "TFBOYS演唱会今天官宣的原因",
@@ -833,14 +865,6 @@
       "onboard_time": 1689946721,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 399121,
-      "num": 399121,
-      "word": "日媒探店中国水产超市发现已无日货",
-      "onboard_time": 1690013731,
-      "rank": 45,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 389441,
@@ -1131,12 +1155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274189,
+      "num": 274189,
+      "word": "宋亚轩吃汉堡",
+      "onboard_time": 1690017332,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274091,
       "num": 274091,
       "word": "张嘉倪独舞",
       "onboard_time": 1689987032,
       "rank": 25,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 272571,
+      "num": 272571,
+      "word": "长相思",
+      "onboard_time": 1690017692,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 271930,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1689996511,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266009,
+      "num": 266009,
+      "word": "现在的爸妈越来越会取名字了",
+      "onboard_time": 1690018232,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 265132,
@@ -1316,7 +1364,7 @@
     },
     {
       "raw_hot": 231868,
-      "num": 206066,
+      "num": 234510,
       "word": "外科医生的手有多稳",
       "onboard_time": 1690015711,
       "rank": 33,
@@ -1395,14 +1443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216522,
-      "num": 216522,
-      "word": "北京故宫的排水系统为何能抗住暴雨",
-      "onboard_time": 1690015954,
-      "rank": 27,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 216130,
       "num": 216130,
       "word": "刘雅瑟竟然没成团",
@@ -1475,6 +1515,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 203485,
+      "num": 273229,
+      "word": "问候离职的同事后背刺了我",
+      "onboard_time": 1690017332,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202165,
       "num": 301472,
       "word": "猫咪不小心舔到驱虫药后失明",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1689940714,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197178,
+      "num": 233568,
+      "word": "蔡依林广州",
+      "onboard_time": 1690017510,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 195976,
@@ -1532,7 +1588,7 @@
     },
     {
       "raw_hot": 188750,
-      "num": 205745,
+      "num": 231491,
       "word": "真的会有人不用洗发水洗头吗",
       "onboard_time": 1690016494,
       "rank": 38,
@@ -1635,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163588,
+      "num": 220706,
+      "word": "球迷的快乐其实很简单",
+      "onboard_time": 1690017392,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162117,
       "num": 242612,
       "word": "喝杯咖啡都要拍照心眼子练习",
@@ -1643,12 +1707,28 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 158586,
+      "num": 217792,
+      "word": "关晓彤无袖黑裙",
+      "onboard_time": 1690018354,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155554,
       "num": 245684,
       "word": "北京暴雨中的故宫",
       "onboard_time": 1690006294,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 152360,
+      "num": 214443,
+      "word": "沙利文称美国将不得不与中国无限期共存",
+      "onboard_time": 1690018354,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 150447,
@@ -1688,14 +1768,6 @@
       "word": "妻子已生产男方消失不见",
       "onboard_time": 1689942880,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138352,
-      "num": 205682,
-      "word": "夫妻退潮时冒死跳海救溺水父女",
-      "onboard_time": 1690016911,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1771,7 +1843,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106424,
+      "raw_hot": 111842,
       "num": 1486899,
       "word": "中国女足超燃瞬间",
       "onboard_time": 1690013553,
