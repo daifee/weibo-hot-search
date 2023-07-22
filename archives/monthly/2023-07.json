@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690056985131,
+  "endTime": 1690058018231,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -53131,6 +53131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62946,
+      "num": 50303,
+      "word": "纣王到底爱不爱妲己",
+      "onboard_time": 1690053914,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 62940,
       "num": 494576,
       "word": "命运方舟不限号",
@@ -53273,14 +53281,6 @@
       "onboard_time": 1688488224,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56102,
-      "num": 50303,
-      "word": "纣王到底爱不爱妲己",
-      "onboard_time": 1690053914,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 54924,
