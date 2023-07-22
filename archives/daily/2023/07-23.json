@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690043738517,
+  "endTime": 1690046038871,
   "band_list": [
     {
       "raw_hot": 2244387,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 822942,
-      "num": 444333,
+      "num": 681404,
       "word": "TFBOYS演唱会笑话",
       "onboard_time": 1690040556,
       "rank": 12,
@@ -113,6 +113,14 @@
       "onboard_time": 1690037139,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 634798,
+      "num": 634798,
+      "word": "seventeen宣布十月回归",
+      "onboard_time": 1690044029,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 623700,
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408463,
+      "num": 244184,
+      "word": "请不要在图书馆内吃东西",
+      "onboard_time": 1690041334,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406074,
       "num": 351869,
       "word": "外卖员自拍2次裤裆拔毛放入餐食",
@@ -251,16 +267,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330266,
-      "num": 244184,
-      "word": "请不要在图书馆内吃东西",
-      "onboard_time": 1690041334,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 318578,
-      "num": 225292,
+      "num": 226002,
       "word": "杨洋王楚然撒糖镜头切魏大勋",
       "onboard_time": 1690042296,
       "rank": 40,
@@ -305,6 +313,14 @@
       "onboard_time": 1690034500,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241903,
+      "num": 225686,
+      "word": "苏醒这是我被收买费用最低的一次",
+      "onboard_time": 1690043129,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 240240,
@@ -363,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 213185,
-      "num": 197264,
-      "word": "苏醒这是我被收买费用最低的一次",
-      "onboard_time": 1690043129,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211106,
       "num": 211106,
       "word": "做指检的炸裂瞬间",
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155832,
+      "num": 125953,
+      "word": "魏大勋在新剧里叫黄子诚",
+      "onboard_time": 1690032215,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145250,
       "num": 209608,
       "word": "九尾",
@@ -441,6 +457,22 @@
       "onboard_time": 1690019492,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87443,
+      "num": 100338,
+      "word": "偶像梦幻祭",
+      "onboard_time": 1690045166,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 6714,
+      "num": 1058451,
+      "word": "2023年空军航空开放活动来了",
+      "onboard_time": 1690031553,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
