@@ -1,0 +1,410 @@
+{
+  "runTime": 1690011220374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2557894,
+        "num": 2557894,
+        "word": "公关什么呀公开得了",
+        "onboard_time": 1690005089,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1494522,
+        "num": 1494522,
+        "word": "魏大勋爆火后播的第一个综艺",
+        "onboard_time": 1690006711,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31367,
+        "num": 1405839,
+        "word": "神十六出舱任务精彩回顾",
+        "onboard_time": 1690002511,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1382176,
+        "num": 1382176,
+        "word": "药店误卖禁用药致38岁产妇流产",
+        "onboard_time": 1690008450,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1376908,
+        "num": 1376908,
+        "word": "芭比",
+        "onboard_time": 1689998432,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 876023,
+        "num": 876023,
+        "word": "迪丽热巴在高铁上看书",
+        "onboard_time": 1690004550,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859499,
+        "num": 859499,
+        "word": "盛一伦都演爹了",
+        "onboard_time": 1690003230,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 760192,
+        "num": 760192,
+        "word": "TheShy 茶百道",
+        "onboard_time": 1690001733,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 451169,
+        "num": 451169,
+        "word": "为啥女生裤子口袋越来越小",
+        "onboard_time": 1690003292,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319709,
+        "num": 444319,
+        "word": "老人索降瞬间失手掉到二楼平台",
+        "onboard_time": 1690007074,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654043,
+        "num": 403907,
+        "word": "许沁这是我妈给我煮的粥",
+        "onboard_time": 1690009711,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635934,
+        "num": 378293,
+        "word": "芭比豆瓣差评大展",
+        "onboard_time": 1690006711,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512397,
+        "num": 355134,
+        "word": "SMTOWN新男团叫RIIZE",
+        "onboard_time": 1690010191,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346741,
+        "num": 346741,
+        "word": "故宫现九龙吐水",
+        "onboard_time": 1690004671,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 223357,
+        "num": 346740,
+        "word": "西安警方抓获造假回流生嫌疑人10名",
+        "onboard_time": 1690010610,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505733,
+        "num": 346677,
+        "word": "au道歉",
+        "onboard_time": 1690007792,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 442126,
+        "num": 346625,
+        "word": "朱志鑫红发",
+        "onboard_time": 1690007911,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 437635,
+        "num": 346594,
+        "word": "左航苏新皓邓佳鑫身骑白马合作舞台",
+        "onboard_time": 1690009892,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189006,
+        "num": 346552,
+        "word": "教科书里的女生原来是她",
+        "onboard_time": 1689990273,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150419,
+        "num": 346516,
+        "word": "梅西任意球绝杀",
+        "onboard_time": 1689992491,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630402,
+        "num": 346481,
+        "word": "受精卵出逃钻进女子腹腔",
+        "onboard_time": 1689982461,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426234,
+        "num": 346403,
+        "word": "长相思OST阵容",
+        "onboard_time": 1690006952,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280688,
+        "num": 346356,
+        "word": "孩子考了702分爸爸喝高兴了醉驾",
+        "onboard_time": 1690003951,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150761,
+        "num": 346318,
+        "word": "高铁坐过站可以免费坐回去",
+        "onboard_time": 1689984630,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206366,
+        "num": 346298,
+        "word": "心疼这只大橘三十六次",
+        "onboard_time": 1690008810,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405375,
+        "num": 346263,
+        "word": "大勋你这拍的谁顶的住啊",
+        "onboard_time": 1690009231,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377643,
+        "num": 346202,
+        "word": "封神票房",
+        "onboard_time": 1690004494,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348300,
+        "num": 346174,
+        "word": "TF家族三代演唱会",
+        "onboard_time": 1690007611,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183285,
+        "num": 346127,
+        "word": "大一下学期的奶茶费用",
+        "onboard_time": 1690011092,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172888,
+        "num": 346078,
+        "word": "原来暗示分手的才不是那根断了的手链",
+        "onboard_time": 1689989371,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346054,
+        "num": 346054,
+        "word": "卡琳娜cos卡芙卡",
+        "onboard_time": 1690007312,
+        "rank": 30,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 342043,
+        "num": 342043,
+        "word": "魏大勋沙发奖励么么哒的原因",
+        "onboard_time": 1690004730,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331446,
+        "num": 331446,
+        "word": "王一博公司年会花絮图",
+        "onboard_time": 1690005392,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259776,
+        "num": 295710,
+        "word": "坐高铁开导航是什么体验",
+        "onboard_time": 1690011092,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 205276,
+        "num": 290920,
+        "word": "第一次发现原来钓鱼需要戴头盔",
+        "onboard_time": 1690009772,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287666,
+        "num": 287666,
+        "word": "郑希怡被评S级",
+        "onboard_time": 1690007551,
+        "rank": 35,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 284141,
+        "num": 284141,
+        "word": "你好星期六人间烟火专场",
+        "onboard_time": 1690007973,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271681,
+        "num": 271681,
+        "word": "迪丽热巴跑着赶高铁",
+        "onboard_time": 1689996634,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154830,
+        "num": 268530,
+        "word": "给修空调的师傅煮了一碗饺子",
+        "onboard_time": 1690006650,
+        "rank": 38,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 117562,
+        "num": 267231,
+        "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
+        "onboard_time": 1689983186,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266849,
+        "num": 266849,
+        "word": "张峻豪好高",
+        "onboard_time": 1690010793,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265468,
+        "num": 265468,
+        "word": "TFBOYS车站概念",
+        "onboard_time": 1690003472,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250316,
+        "num": 250316,
+        "word": "张元英认出了视频通话的粉丝",
+        "onboard_time": 1690010793,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133780,
+        "num": 245684,
+        "word": "北京暴雨中的故宫",
+        "onboard_time": 1690006294,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 242647,
+        "num": 242647,
+        "word": "黄明昊连续两次被评S级",
+        "onboard_time": 1690005270,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109293,
+        "num": 238733,
+        "word": "我的老师28岁上大学48岁读博",
+        "onboard_time": 1689994952,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102420,
+        "num": 235206,
+        "word": "两人一狗可以这样打羽毛球",
+        "onboard_time": 1690004430,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88841,
+        "num": 230981,
+        "word": "为什么有的人耳朵上有这个",
+        "onboard_time": 1690004311,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88327,
+        "num": 225103,
+        "word": "在超大特大城市积极稳步推进城中村改造",
+        "onboard_time": 1689995550,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 85113,
+        "num": 224531,
+        "word": "90后妈妈带孩子去烈士陵园擦墓碑",
+        "onboard_time": 1690009352,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#军强则国安#"
+    }
+  }
+}
