@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690061629168,
+  "endTime": 1690064121092,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -53907,6 +53907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31074,
+      "num": 31074,
+      "word": "陈天润 王妃",
+      "onboard_time": 1690063875,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 30329,
       "num": 48929,
       "word": "高考后你有复读的打算吗",
@@ -54073,6 +54081,14 @@
       "onboard_time": 1688324533,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26693,
+      "num": 30650,
+      "word": "古巨基希望儿子早婚早生",
+      "onboard_time": 1690063815,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 25563,
