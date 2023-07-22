@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690007625561,
+  "endTime": 1690010093633,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1689743914,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2736124,
+      "num": 2736124,
+      "word": "公关什么呀公开得了",
+      "onboard_time": 1690005089,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2732474,
@@ -3323,14 +3331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1753951,
-      "num": 1753951,
-      "word": "公关什么呀公开得了",
-      "onboard_time": 1690005089,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1753601,
       "num": 1753601,
       "word": "魏大勋孟宴臣独爆",
@@ -3929,6 +3929,14 @@
       "onboard_time": 1689232471,
       "rank": 34,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1583160,
+      "num": 1583160,
+      "word": "魏大勋爆火后播的第一个综艺",
+      "onboard_time": 1690006711,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1582696,
@@ -4681,6 +4689,14 @@
       "onboard_time": 1689047434,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1409619,
+      "num": 1409619,
+      "word": "芭比",
+      "onboard_time": 1688465738,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 1408631,
@@ -5561,14 +5577,6 @@
       "onboard_time": 1689376521,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1236014,
-      "num": 1236014,
-      "word": "芭比",
-      "onboard_time": 1688465738,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 1235768,
@@ -8156,7 +8164,7 @@
     },
     {
       "raw_hot": 977378,
-      "num": 311456,
+      "num": 313824,
       "word": "原来暗示分手的才不是那根断了的手链",
       "onboard_time": 1689989371,
       "rank": 30,
@@ -8569,6 +8577,14 @@
       "onboard_time": 1688533779,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 943364,
+      "num": 437126,
+      "word": "药店误卖禁用药致38岁产妇流产",
+      "onboard_time": 1690008450,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 942609,
@@ -10251,6 +10267,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 846110,
+      "num": 846110,
+      "word": "迪丽热巴在高铁上看书",
+      "onboard_time": 1690004550,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 845705,
       "num": 751446,
       "word": "调查显示女性结婚意愿比男性更低",
@@ -10497,14 +10521,6 @@
       "onboard_time": 1688721215,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 831940,
-      "num": 831940,
-      "word": "魏大勋爆火后播的第一个综艺",
-      "onboard_time": 1690006711,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 831744,
@@ -14811,14 +14827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 646167,
-      "num": 646167,
-      "word": "迪丽热巴在高铁上看书",
-      "onboard_time": 1690004550,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 646154,
       "num": 633864,
       "word": "沈梦辰把湘西腊肉挂到布达佩斯来了",
@@ -17419,6 +17427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563252,
+      "num": 433541,
+      "word": "朱志鑫红发",
+      "onboard_time": 1690007911,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 563241,
       "num": 495723,
       "word": "台媒曝陈建州曾偷拍大牙照片",
@@ -18505,6 +18521,14 @@
       "onboard_time": 1689553772,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 534486,
+      "num": 429571,
+      "word": "au道歉",
+      "onboard_time": 1690007792,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 534445,
@@ -19608,6 +19632,14 @@
       "word": "杨洋张彬彬新浪扫楼",
       "onboard_time": 1688541098,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 503159,
+      "num": 426821,
+      "word": "长相思OST阵容",
+      "onboard_time": 1690006952,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -23603,6 +23635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 425103,
+      "num": 494234,
+      "word": "故宫现九龙吐水",
+      "onboard_time": 1690004671,
+      "rank": 13,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 425050,
       "num": 420931,
       "word": "为什么建议年轻时多谈恋爱",
@@ -24963,6 +25003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400391,
+      "num": 400391,
+      "word": "TF家族三代演唱会",
+      "onboard_time": 1690007611,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400233,
       "num": 395082,
       "word": "本科生应聘工厂遭爽约",
@@ -25827,14 +25875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 385824,
-      "num": 385824,
-      "word": "长相思OST阵容",
-      "onboard_time": 1690006952,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385713,
       "num": 385713,
       "word": "LESSERAFIM用中文打招呼",
@@ -26443,6 +26483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376137,
+      "num": 376137,
+      "word": "芭比豆瓣差评大展",
+      "onboard_time": 1690006711,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375995,
       "num": 361633,
       "word": "男生记录女友每天出门的穿搭",
@@ -27043,6 +27091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368025,
+      "num": 368025,
+      "word": "卡琳娜cos卡芙卡",
+      "onboard_time": 1690007312,
+      "rank": 40,
+      "category": "网红,时尚"
+    },
+    {
       "raw_hot": 367936,
       "num": 367936,
       "word": "jiejie状态",
@@ -27129,14 +27185,6 @@
       "onboard_time": 1688975315,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 366006,
-      "num": 494234,
-      "word": "故宫现九龙吐水",
-      "onboard_time": 1690004671,
-      "rank": 13,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 365903,
@@ -30340,7 +30388,7 @@
     },
     {
       "raw_hot": 320775,
-      "num": 268819,
+      "num": 313003,
       "word": "我的老师28岁上大学48岁读博",
       "onboard_time": 1689994952,
       "rank": 25,
@@ -30945,6 +30993,14 @@
       "onboard_time": 1689522334,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312860,
+      "num": 312860,
+      "word": "左航苏新皓邓佳鑫身骑白马合作舞台",
+      "onboard_time": 1690009892,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 312857,
@@ -31675,6 +31731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304454,
+      "num": 304454,
+      "word": "大勋你这拍的谁顶的住啊",
+      "onboard_time": 1690009231,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304398,
       "num": 304398,
       "word": "命运的齿轮开始转动",
@@ -31769,6 +31833,14 @@
       "onboard_time": 1688555614,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303336,
+      "num": 303336,
+      "word": "你好星期六人间烟火专场",
+      "onboard_time": 1690007973,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 303332,
@@ -32289,6 +32361,14 @@
       "onboard_time": 1689375800,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297803,
+      "num": 297803,
+      "word": "许沁这是我妈给我煮的粥",
+      "onboard_time": 1690009711,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 297571,
@@ -35257,6 +35337,14 @@
       "onboard_time": 1688990790,
       "rank": 36,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 269114,
+      "num": 444573,
+      "word": "老人索降瞬间失手掉到二楼平台",
+      "onboard_time": 1690007074,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269017,
@@ -38379,6 +38467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239270,
+      "num": 314843,
+      "word": "心疼这只大橘三十六次",
+      "onboard_time": 1690008810,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239026,
       "num": 239026,
       "word": "看数字就知道自己是散光还是近视",
@@ -38577,14 +38673,6 @@
       "onboard_time": 1689647249,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237158,
-      "num": 237158,
-      "word": "芭比豆瓣差评大展",
-      "onboard_time": 1690006711,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 237055,
@@ -40219,14 +40307,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 223293,
-      "num": 223293,
-      "word": "卡琳娜cos卡芙卡",
-      "onboard_time": 1690007312,
-      "rank": 40,
-      "category": "网红,时尚"
-    },
-    {
       "raw_hot": 223223,
       "num": 223223,
       "word": "Hero限定雀斑证件照",
@@ -40521,6 +40601,14 @@
       "onboard_time": 1688912135,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220675,
+      "num": 220675,
+      "word": "郑希怡被评S级",
+      "onboard_time": 1690007551,
+      "rank": 43,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 220658,
@@ -41852,7 +41940,7 @@
     },
     {
       "raw_hot": 210835,
-      "num": 256296,
+      "num": 300460,
       "word": "给修空调的师傅煮了一碗饺子",
       "onboard_time": 1690006650,
       "rank": 46,
@@ -42899,14 +42987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203099,
-      "num": 203099,
-      "word": "TF家族三代演唱会",
-      "onboard_time": 1690007611,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 203034,
       "num": 255222,
       "word": "古人用玻璃做了朵蓝莲花",
@@ -43417,14 +43497,6 @@
       "onboard_time": 1688128298,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200313,
-      "num": 200313,
-      "word": "郑希怡被评S级",
-      "onboard_time": 1690007551,
-      "rank": 43,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 200291,
@@ -45300,7 +45372,7 @@
     },
     {
       "raw_hot": 187470,
-      "num": 239402,
+      "num": 247180,
       "word": "两人一狗可以这样打羽毛球",
       "onboard_time": 1690004430,
       "rank": 29,
@@ -49427,6 +49499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134408,
+      "num": 298586,
+      "word": "第一次发现原来钓鱼需要戴头盔",
+      "onboard_time": 1690009772,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134106,
       "num": 129337,
       "word": "TMEA",
@@ -50451,6 +50531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103130,
+      "num": 212702,
+      "word": "我和四川撞色了",
+      "onboard_time": 1690009111,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103053,
       "num": 200549,
       "word": "韩国霸榜彩妆分享",
@@ -50465,14 +50553,6 @@
       "onboard_time": 1689361695,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 102675,
-      "num": 307125,
-      "word": "老人索降瞬间失手掉到二楼平台",
-      "onboard_time": 1690007074,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102562,
@@ -50841,6 +50921,14 @@
       "onboard_time": 1689636506,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91212,
+      "num": 208188,
+      "word": "以闪亮之名",
+      "onboard_time": 1690008152,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 90886,
@@ -51329,6 +51417,14 @@
       "onboard_time": 1688404344,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 75489,
+      "num": 202110,
+      "word": "90后妈妈带孩子去烈士陵园擦墓碑",
+      "onboard_time": 1690009352,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75309,

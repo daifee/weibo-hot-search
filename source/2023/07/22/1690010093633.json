@@ -1,0 +1,410 @@
+{
+  "runTime": 1690010093633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2736124,
+        "num": 2736124,
+        "word": "公关什么呀公开得了",
+        "onboard_time": 1690005089,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1583160,
+        "num": 1583160,
+        "word": "魏大勋爆火后播的第一个综艺",
+        "onboard_time": 1690006711,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40525,
+        "num": 1410901,
+        "word": "神十六出舱任务精彩回顾",
+        "onboard_time": 1690002511,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409619,
+        "num": 1409619,
+        "word": "芭比",
+        "onboard_time": 1689998432,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1020794,
+        "num": 1020794,
+        "word": "盛一伦都演爹了",
+        "onboard_time": 1690003230,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 846110,
+        "num": 846110,
+        "word": "迪丽热巴在高铁上看书",
+        "onboard_time": 1690004550,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793202,
+        "num": 793202,
+        "word": "TheShy 茶百道",
+        "onboard_time": 1690001733,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 448971,
+        "num": 448971,
+        "word": "为啥女生裤子口袋越来越小",
+        "onboard_time": 1690003292,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401285,
+        "num": 447217,
+        "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
+        "onboard_time": 1689983186,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269114,
+        "num": 444573,
+        "word": "老人索降瞬间失手掉到二楼平台",
+        "onboard_time": 1690007074,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943364,
+        "num": 437126,
+        "word": "药店误卖禁用药致38岁产妇流产",
+        "onboard_time": 1690008450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563252,
+        "num": 433541,
+        "word": "朱志鑫红发",
+        "onboard_time": 1690007911,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 534486,
+        "num": 429571,
+        "word": "au道歉",
+        "onboard_time": 1690007792,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 503159,
+        "num": 426821,
+        "word": "长相思OST阵容",
+        "onboard_time": 1690006952,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425103,
+        "num": 425103,
+        "word": "故宫现九龙吐水",
+        "onboard_time": 1690004671,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 468478,
+        "num": 416069,
+        "word": "魏大勋沙发奖励么么哒的原因",
+        "onboard_time": 1690004730,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400391,
+        "num": 400391,
+        "word": "TF家族三代演唱会",
+        "onboard_time": 1690007611,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182990,
+        "num": 400127,
+        "word": "教科书里的女生原来是她",
+        "onboard_time": 1689990273,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166821,
+        "num": 399824,
+        "word": "梅西任意球绝杀",
+        "onboard_time": 1689992491,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150114,
+        "num": 399506,
+        "word": "高铁坐过站可以免费坐回去",
+        "onboard_time": 1689984630,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 597703,
+        "num": 399148,
+        "word": "受精卵出逃钻进女子腹腔",
+        "onboard_time": 1689982461,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490779,
+        "num": 398850,
+        "word": "孩子考了702分爸爸喝高兴了醉驾",
+        "onboard_time": 1690003951,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398528,
+        "num": 398528,
+        "word": "王一博公司年会花絮图",
+        "onboard_time": 1690005392,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389680,
+        "num": 389680,
+        "word": "封神票房",
+        "onboard_time": 1690004494,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384349,
+        "num": 384349,
+        "word": "迪丽热巴跑着赶高铁",
+        "onboard_time": 1689996634,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376137,
+        "num": 376137,
+        "word": "芭比豆瓣差评大展",
+        "onboard_time": 1690006711,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368025,
+        "num": 368025,
+        "word": "卡琳娜cos卡芙卡",
+        "onboard_time": 1690007312,
+        "rank": 26,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 239270,
+        "num": 314843,
+        "word": "心疼这只大橘三十六次",
+        "onboard_time": 1690008810,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185944,
+        "num": 313824,
+        "word": "原来暗示分手的才不是那根断了的手链",
+        "onboard_time": 1689989371,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131614,
+        "num": 313003,
+        "word": "我的老师28岁上大学48岁读博",
+        "onboard_time": 1689994952,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312860,
+        "num": 312860,
+        "word": "左航苏新皓邓佳鑫身骑白马合作舞台",
+        "onboard_time": 1690009892,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304454,
+        "num": 304454,
+        "word": "大勋你这拍的谁顶的住啊",
+        "onboard_time": 1690009231,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303336,
+        "num": 303336,
+        "word": "你好星期六人间烟火专场",
+        "onboard_time": 1690007973,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176228,
+        "num": 300460,
+        "word": "给修空调的师傅煮了一碗饺子",
+        "onboard_time": 1690006650,
+        "rank": 33,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 134408,
+        "num": 298586,
+        "word": "第一次发现原来钓鱼需要戴头盔",
+        "onboard_time": 1690009772,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297803,
+        "num": 297803,
+        "word": "许沁这是我妈给我煮的粥",
+        "onboard_time": 1690009711,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292238,
+        "num": 292238,
+        "word": "TFBOYS车站概念",
+        "onboard_time": 1690003472,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265687,
+        "num": 265687,
+        "word": "黄明昊连续两次被评S级",
+        "onboard_time": 1690005270,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125467,
+        "num": 247180,
+        "word": "两人一狗可以这样打羽毛球",
+        "onboard_time": 1690004430,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111256,
+        "num": 244865,
+        "word": "在超大特大城市积极稳步推进城中村改造",
+        "onboard_time": 1689995550,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 243652,
+        "num": 243652,
+        "word": "许沁一点都不傻",
+        "onboard_time": 1689999752,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232178,
+        "num": 232178,
+        "word": "范丞丞姜珮瑶吻戏",
+        "onboard_time": 1689997352,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222505,
+        "num": 222505,
+        "word": "我的人间烟火结局走向",
+        "onboard_time": 1690000834,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220675,
+        "num": 220675,
+        "word": "郑希怡被评S级",
+        "onboard_time": 1690007551,
+        "rank": 43,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 435846,
+        "num": 217761,
+        "word": "江西一初中女生遭男生强奸杀害",
+        "onboard_time": 1689994952,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122467,
+        "num": 214905,
+        "word": "北京暴雨中的故宫",
+        "onboard_time": 1690006294,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 103130,
+        "num": 212702,
+        "word": "我和四川撞色了",
+        "onboard_time": 1690009111,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91212,
+        "num": 208188,
+        "word": "以闪亮之名",
+        "onboard_time": 1690008152,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86576,
+        "num": 206594,
+        "word": "西安对造假中考生取消录取",
+        "onboard_time": 1689986732,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 75489,
+        "num": 202110,
+        "word": "90后妈妈带孩子去烈士陵园擦墓碑",
+        "onboard_time": 1690009352,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强耕地保护全力提升耕地质量#"
+    }
+  }
+}

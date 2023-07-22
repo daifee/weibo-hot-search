@@ -1,7 +1,15 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690007625561,
+  "endTime": 1690010093633,
   "band_list": [
+    {
+      "raw_hot": 2736124,
+      "num": 2736124,
+      "word": "公关什么呀公开得了",
+      "onboard_time": 1690005089,
+      "rank": 3,
+      "category": "影视"
+    },
     {
       "raw_hot": 2069727,
       "num": 2069727,
@@ -27,14 +35,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1753951,
-      "num": 1753951,
-      "word": "公关什么呀公开得了",
-      "onboard_time": 1690005089,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1749785,
       "num": 1749785,
       "word": "宋焰说挤地铁会受伤的",
@@ -49,6 +49,14 @@
       "onboard_time": 1689996030,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1583160,
+      "num": 1583160,
+      "word": "魏大勋爆火后播的第一个综艺",
+      "onboard_time": 1690006711,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1533753,
@@ -73,6 +81,14 @@
       "onboard_time": 1689941798,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1409619,
+      "num": 1409619,
+      "word": "芭比",
+      "onboard_time": 1689998432,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1382034,
@@ -105,14 +121,6 @@
       "onboard_time": 1689982461,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1236014,
-      "num": 1236014,
-      "word": "芭比",
-      "onboard_time": 1689998432,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1165331,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 977378,
-      "num": 311456,
+      "num": 313824,
       "word": "原来暗示分手的才不是那根断了的手链",
       "onboard_time": 1689989371,
       "rank": 30,
@@ -161,6 +169,14 @@
       "onboard_time": 1689951701,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 943364,
+      "num": 437126,
+      "word": "药店误卖禁用药致38岁产妇流产",
+      "onboard_time": 1690008450,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927029,
@@ -227,20 +243,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 846110,
+      "num": 846110,
+      "word": "迪丽热巴在高铁上看书",
+      "onboard_time": 1690004550,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 837569,
       "num": 713615,
       "word": "TFBOYS演唱会官宣",
       "onboard_time": 1689942032,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 831940,
-      "num": 831940,
-      "word": "魏大勋爆火后播的第一个综艺",
-      "onboard_time": 1690006711,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 815941,
@@ -339,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 646167,
-      "num": 646167,
-      "word": "迪丽热巴在高铁上看书",
-      "onboard_time": 1690004550,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 646154,
       "num": 633864,
       "word": "沈梦辰把湘西腊肉挂到布达佩斯来了",
@@ -435,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563252,
+      "num": 433541,
+      "word": "朱志鑫红发",
+      "onboard_time": 1690007911,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 549470,
       "num": 500784,
       "word": "TFBOYS官博改小尾巴",
@@ -449,6 +465,14 @@
       "onboard_time": 1689985889,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 534486,
+      "num": 429571,
+      "word": "au道歉",
+      "onboard_time": 1690007792,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 530891,
@@ -481,6 +505,14 @@
       "onboard_time": 1689985649,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 503159,
+      "num": 426821,
+      "word": "长相思OST阵容",
+      "onboard_time": 1690006952,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 497262,
@@ -579,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425103,
+      "num": 494234,
+      "word": "故宫现九龙吐水",
+      "onboard_time": 1690004671,
+      "rank": 13,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 421526,
       "num": 421526,
       "word": "梅西与詹姆斯拥抱",
@@ -611,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400391,
+      "num": 400391,
+      "word": "TF家族三代演唱会",
+      "onboard_time": 1690007611,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 399637,
       "num": 301413,
       "word": "王俊凯王源易烊千玺转发十周年官宣微博",
@@ -619,11 +667,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 385824,
-      "num": 385824,
-      "word": "长相思OST阵容",
-      "onboard_time": 1690006952,
-      "rank": 24,
+      "raw_hot": 376137,
+      "num": 376137,
+      "word": "芭比豆瓣差评大展",
+      "onboard_time": 1690006711,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -635,12 +683,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 366006,
-      "num": 494234,
-      "word": "故宫现九龙吐水",
-      "onboard_time": 1690004671,
-      "rank": 13,
-      "category": "旅游,社会新闻"
+      "raw_hot": 368025,
+      "num": 368025,
+      "word": "卡琳娜cos卡芙卡",
+      "onboard_time": 1690007312,
+      "rank": 40,
+      "category": "网红,时尚"
     },
     {
       "raw_hot": 365903,
@@ -716,7 +764,7 @@
     },
     {
       "raw_hot": 320775,
-      "num": 268819,
+      "num": 313003,
       "word": "我的老师28岁上大学48岁读博",
       "onboard_time": 1689994952,
       "rank": 25,
@@ -737,6 +785,14 @@
       "onboard_time": 1689982883,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312860,
+      "num": 312860,
+      "word": "左航苏新皓邓佳鑫身骑白马合作舞台",
+      "onboard_time": 1690009892,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 311965,
@@ -763,12 +819,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304454,
+      "num": 304454,
+      "word": "大勋你这拍的谁顶的住啊",
+      "onboard_time": 1690009231,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303336,
+      "num": 303336,
+      "word": "你好星期六人间烟火专场",
+      "onboard_time": 1690007973,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298032,
       "num": 298032,
       "word": "赵今麦齐刘海vs无刘海",
       "onboard_time": 1689999212,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297803,
+      "num": 297803,
+      "word": "许沁这是我妈给我煮的粥",
+      "onboard_time": 1690009711,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 291801,
@@ -891,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269114,
+      "num": 444573,
+      "word": "老人索降瞬间失手掉到二楼平台",
+      "onboard_time": 1690007074,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263868,
       "num": 263868,
       "word": "封神",
@@ -955,20 +1043,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239270,
+      "num": 314843,
+      "word": "心疼这只大橘三十六次",
+      "onboard_time": 1690008810,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237741,
       "num": 284795,
       "word": "江苏浙江连发85条预警",
       "onboard_time": 1689953616,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237158,
-      "num": 237158,
-      "word": "芭比豆瓣差评大展",
-      "onboard_time": 1690006711,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 235674,
@@ -1059,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223293,
-      "num": 223293,
-      "word": "卡琳娜cos卡芙卡",
-      "onboard_time": 1690007312,
-      "rank": 40,
-      "category": "网红,时尚"
-    },
-    {
       "raw_hot": 222423,
       "num": 222423,
       "word": "韩剧恶鬼",
@@ -1091,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220675,
+      "num": 220675,
+      "word": "郑希怡被评S级",
+      "onboard_time": 1690007551,
+      "rank": 43,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 216130,
       "num": 216130,
       "word": "刘雅瑟竟然没成团",
@@ -1108,7 +1196,7 @@
     },
     {
       "raw_hot": 210835,
-      "num": 256296,
+      "num": 300460,
       "word": "给修空调的师傅煮了一碗饺子",
       "onboard_time": 1690006650,
       "rank": 46,
@@ -1147,14 +1235,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 203099,
-      "num": 203099,
-      "word": "TF家族三代演唱会",
-      "onboard_time": 1690007611,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202165,
       "num": 301472,
       "word": "猫咪不小心舔到驱虫药后失明",
@@ -1169,14 +1249,6 @@
       "onboard_time": 1689940714,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200313,
-      "num": 200313,
-      "word": "郑希怡被评S级",
-      "onboard_time": 1690007551,
-      "rank": 43,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 195976,
@@ -1212,7 +1284,7 @@
     },
     {
       "raw_hot": 187470,
-      "num": 239402,
+      "num": 247180,
       "word": "两人一狗可以这样打羽毛球",
       "onboard_time": 1690004430,
       "rank": 29,
@@ -1379,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134408,
+      "num": 298586,
+      "word": "第一次发现原来钓鱼需要戴头盔",
+      "onboard_time": 1690009772,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127506,
       "num": 127506,
       "word": "奶奶数落妈妈9岁儿子霸气维护",
@@ -1435,12 +1515,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 102675,
-      "num": 307125,
-      "word": "老人索降瞬间失手掉到二楼平台",
-      "onboard_time": 1690007074,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 103130,
+      "num": 212702,
+      "word": "我和四川撞色了",
+      "onboard_time": 1690009111,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 99479,
@@ -1459,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91212,
+      "num": 208188,
+      "word": "以闪亮之名",
+      "onboard_time": 1690008152,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86808,
       "num": 207783,
       "word": "精神院查房时遇到可爱的灵魂",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1689960921,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75489,
+      "num": 202110,
+      "word": "90后妈妈带孩子去烈士陵园擦墓碑",
+      "onboard_time": 1690009352,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69805,
