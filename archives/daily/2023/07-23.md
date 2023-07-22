@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/23 00:20:23 ~ 2023/07/23 03:12:47
+本榜单时间：2023/07/23 00:20:23 ~ 2023/07/23 03:33:30
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ WB（热度：207468）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E6%AF%94%E5%AF%BC%E6%BC%94%E5%9D%9A%E6%8C%81%E5%8F%8D%E5%AF%B9%E5%89%AA%E6%8E%89%E8%80%81%E5%A5%B6%E5%A5%B6%E5%9C%BA%E6%99%AF%23" target="weibo">
+芭比导演坚持反对剪掉老奶奶场景（热度：191484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B1%B6%E7%BF%B0%E5%85%A8%E5%BC%80%E9%BA%A6%23" target="weibo">
 李汶翰全开麦（热度：190708）
 </a>
@@ -335,12 +341,6 @@ WB（热度：207468）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%9C%A8%E6%96%B0%E5%89%A7%E9%87%8C%E5%8F%AB%E9%BB%84%E5%AD%90%E8%AF%9A%23" target="weibo">
 魏大勋在新剧里叫黄子诚（热度：155832）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E6%AF%94%E5%AF%BC%E6%BC%94%E5%9D%9A%E6%8C%81%E5%8F%8D%E5%AF%B9%E5%89%AA%E6%8E%89%E8%80%81%E5%A5%B6%E5%A5%B6%E5%9C%BA%E6%99%AF%23" target="weibo">
-芭比导演坚持反对剪掉老奶奶场景（热度：151248）
 </a>
 </li>
 
@@ -393,8 +393,14 @@ Aimer现场（热度：83842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A3%E7%8E%8B%E5%88%B0%E5%BA%95%E7%88%B1%E4%B8%8D%E7%88%B1%E5%A6%B2%E5%B7%B1%23" target="weibo">
+纣王到底爱不爱妲己（热度：44423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%8F%98%E9%A9%AC%E4%B8%81%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%23" target="weibo">
-百变马丁原来是国产动画（热度：35763）
+百变马丁原来是国产动画（热度：40300）
 </a>
 </li>
 

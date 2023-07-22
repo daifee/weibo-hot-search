@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/17 00:23:22 ~ 2023/07/23 03:12:47
+本榜单时间：2023/07/17 00:23:22 ~ 2023/07/23 03:33:30
 </p>
 </blockquote>
 <p>
@@ -9747,6 +9747,12 @@ BV大秀（热度：193434）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E6%AF%94%E5%AF%BC%E6%BC%94%E5%9D%9A%E6%8C%81%E5%8F%8D%E5%AF%B9%E5%89%AA%E6%8E%89%E8%80%81%E5%A5%B6%E5%A5%B6%E5%9C%BA%E6%99%AF%23" target="weibo">
+芭比导演坚持反对剪掉老奶奶场景（热度：191484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E7%9A%84%E4%BA%BA%E8%80%B3%E6%9C%B5%E4%B8%8A%E6%9C%89%E8%BF%99%E4%B8%AA%23" target="weibo">
 为什么有的人耳朵上有这个（热度：191452）
 </a>
@@ -10545,12 +10551,6 @@ bw入场实况（热度：169247）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E6%AF%94%E5%AF%BC%E6%BC%94%E5%9D%9A%E6%8C%81%E5%8F%8D%E5%AF%B9%E5%89%AA%E6%8E%89%E8%80%81%E5%A5%B6%E5%A5%B6%E5%9C%BA%E6%99%AF%23" target="weibo">
-芭比导演坚持反对剪掉老奶奶场景（热度：151248）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A0%B434%E4%BA%BF%E6%B5%B7%E6%8A%A5%23" target="weibo">
 朱一龙消失的她破34亿海报（热度：150296）
 </a>
@@ -11319,6 +11319,12 @@ Aimer现场（热度：83842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A3%E7%8E%8B%E5%88%B0%E5%BA%95%E7%88%B1%E4%B8%8D%E7%88%B1%E5%A6%B2%E5%B7%B1%23" target="weibo">
+纣王到底爱不爱妲己（热度：44423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E9%AB%98%E5%8F%B8%E4%BB%A4%E6%9D%A5%E6%BC%94%E8%8A%AD%E6%AF%94%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 选高司令来演芭比的原因（热度：43412）
 </a>
@@ -11355,14 +11361,14 @@ Aimer现场（热度：83842）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-张杰演唱会（热度：36383）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%8F%98%E9%A9%AC%E4%B8%81%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%23" target="weibo">
+百变马丁原来是国产动画（热度：40300）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%8F%98%E9%A9%AC%E4%B8%81%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%23" target="weibo">
-百变马丁原来是国产动画（热度：35763）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+张杰演唱会（热度：36383）
 </a>
 </li>
 

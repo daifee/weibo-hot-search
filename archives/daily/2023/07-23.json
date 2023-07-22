@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690053167993,
+  "endTime": 1690054410909,
   "band_list": [
     {
       "raw_hot": 2244387,
@@ -403,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191484,
+      "num": 86627,
+      "word": "芭比导演坚持反对剪掉老奶奶场景",
+      "onboard_time": 1690051456,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190708,
       "num": 197263,
       "word": "李汶翰全开麦",
@@ -432,14 +440,6 @@
       "word": "魏大勋在新剧里叫黄子诚",
       "onboard_time": 1690032215,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 151248,
-      "num": 86627,
-      "word": "芭比导演坚持反对剪掉老奶奶场景",
-      "onboard_time": 1690051456,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -507,7 +507,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35763,
+      "raw_hot": 44423,
+      "num": 44423,
+      "word": "纣王到底爱不爱妲己",
+      "onboard_time": 1690053914,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 40300,
       "num": 50207,
       "word": "百变马丁原来是国产动画",
       "onboard_time": 1690051216,
