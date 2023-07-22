@@ -1,7 +1,23 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689989238776,
+  "endTime": 1689990480324,
   "band_list": [
+    {
+      "raw_hot": 2069727,
+      "num": 2069727,
+      "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
+      "onboard_time": 1689983186,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1749785,
+      "num": 1749785,
+      "word": "宋焰说挤地铁会受伤的",
+      "onboard_time": 1689985889,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 1465854,
       "num": 1465854,
@@ -19,20 +35,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1427832,
-      "num": 1427832,
-      "word": "宋焰说挤地铁会受伤的",
-      "onboard_time": 1689985889,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1353769,
-      "num": 279850,
+      "num": 288054,
       "word": "受精卵出逃钻进女子腹腔",
       "onboard_time": 1689982461,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1165331,
+      "num": 1165331,
+      "word": "黄磊对谭松韵说我们也没法说欢迎你再来",
+      "onboard_time": 1689987271,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1103182,
@@ -99,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 780989,
-      "num": 780989,
-      "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
-      "onboard_time": 1689983186,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 750214,
+      "num": 750214,
+      "word": "魏大勋张瀚张彬彬爆笑两分半",
+      "onboard_time": 1689987752,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 749844,
@@ -129,6 +145,22 @@
       "onboard_time": 1689954214,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 690719,
+      "num": 249014,
+      "word": "原来暗示分手的才不是那根断了的手链",
+      "onboard_time": 1689989371,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 646143,
+      "num": 646143,
+      "word": "时代少年团不参与TFBOYS十周年演唱会",
+      "onboard_time": 1689982163,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 639413,
@@ -163,20 +195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 604609,
-      "num": 604609,
-      "word": "时代少年团不参与TFBOYS十周年演唱会",
-      "onboard_time": 1689982163,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 571491,
-      "num": 571491,
-      "word": "魏大勋张瀚张彬彬爆笑两分半",
-      "onboard_time": 1689987752,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 579171,
+      "num": 579171,
+      "word": "西安对造假中考生取消录取",
+      "onboard_time": 1689986732,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 566161,
@@ -187,20 +211,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 555904,
-      "num": 555904,
-      "word": "黄磊对谭松韵说我们也没法说欢迎你再来",
-      "onboard_time": 1689987271,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 549470,
       "num": 500784,
       "word": "TFBOYS官博改小尾巴",
       "onboard_time": 1689942941,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 547483,
+      "num": 547483,
+      "word": "梅西替补",
+      "onboard_time": 1689985889,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 546399,
+      "num": 546399,
+      "word": "太阳系有多诡异",
+      "onboard_time": 1689987451,
+      "rank": 30,
+      "category": "自然,科技"
     },
     {
       "raw_hot": 523775,
@@ -212,27 +244,11 @@
     },
     {
       "raw_hot": 520451,
-      "num": 278070,
+      "num": 287446,
       "word": "一口气煮了40多天的米饭",
       "onboard_time": 1689985649,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 503379,
-      "num": 503379,
-      "word": "梅西替补",
-      "onboard_time": 1689985889,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 487250,
-      "num": 487250,
-      "word": "西安对造假中考生取消录取",
-      "onboard_time": 1689986732,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 482480,
@@ -241,6 +257,14 @@
       "onboard_time": 1689946120,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478912,
+      "num": 287262,
+      "word": "男朋友未成年之前的QQ空间",
+      "onboard_time": 1689989433,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 476536,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 469898,
-      "num": 277508,
+      "num": 286780,
       "word": "失手把狗狗照片发进工作群",
       "onboard_time": 1689985408,
       "rank": 22,
@@ -283,8 +307,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404005,
-      "num": 404005,
+      "raw_hot": 415493,
+      "num": 415493,
       "word": "美方制裁1300多家中企",
       "onboard_time": 1689983063,
       "rank": 14,
@@ -307,12 +331,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 397742,
-      "num": 233601,
-      "word": "太阳系有多诡异",
-      "onboard_time": 1689987451,
-      "rank": 30,
-      "category": "自然,科技"
+      "raw_hot": 371712,
+      "num": 371712,
+      "word": "中国足协技术部部长谭海被查",
+      "onboard_time": 1689989011,
+      "rank": 37,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 357595,
@@ -339,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 342053,
+      "num": 248513,
+      "word": "做网红真的需要勇气",
+      "onboard_time": 1689988831,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 332136,
       "num": 332136,
       "word": "西安调查组对3608名回流生信息逐一甄别",
@@ -361,6 +393,14 @@
       "onboard_time": 1689982883,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305806,
+      "num": 286216,
+      "word": "杨玏版伯邑考",
+      "onboard_time": 1689989011,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 291801,
@@ -427,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275084,
+      "num": 246535,
+      "word": "教科书里的女生原来是她",
+      "onboard_time": 1689990273,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274091,
       "num": 274091,
       "word": "张嘉倪独舞",
@@ -449,6 +497,14 @@
       "onboard_time": 1689947802,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267316,
+      "num": 267316,
+      "word": "沈梦辰把湘西腊肉挂到布达佩斯来了",
+      "onboard_time": 1689989791,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 261121,
@@ -483,12 +539,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 244335,
+      "num": 244335,
+      "word": "梅西与詹姆斯拥抱",
+      "onboard_time": 1689988351,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241680,
       "num": 211296,
       "word": "娜然",
       "onboard_time": 1689956427,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 237825,
+      "num": 237825,
+      "word": "张杰 喜欢你的人会很喜欢你就像我",
+      "onboard_time": 1689989971,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 237741,
@@ -531,12 +603,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231260,
+      "num": 231260,
+      "word": "中国足协战略规划部部长戚军被查",
+      "onboard_time": 1689989312,
+      "rank": 37,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 230331,
       "num": 230331,
       "word": "肖战删了一句台词",
       "onboard_time": 1689967574,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226011,
+      "num": 226011,
+      "word": "宋轶再给自己配音完全对得上",
+      "onboard_time": 1689989252,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 222423,
@@ -563,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212565,
-      "num": 212565,
-      "word": "做网红真的需要勇气",
-      "onboard_time": 1689988831,
-      "rank": 35,
-      "category": "幽默,情感"
+      "raw_hot": 212511,
+      "num": 212511,
+      "word": "李莎旻子邀请所有姐姐去她家吃饭",
+      "onboard_time": 1689990332,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 211932,
@@ -585,14 +673,6 @@
       "onboard_time": 1689946360,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208108,
-      "num": 208108,
-      "word": "中国足协技术部部长谭海被查",
-      "onboard_time": 1689989011,
-      "rank": 37,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 207248,
@@ -643,19 +723,11 @@
       "category": "幽默,时尚"
     },
     {
-      "raw_hot": 188739,
-      "num": 188739,
-      "word": "杨玏版伯邑考",
-      "onboard_time": 1689989011,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 188575,
-      "num": 188575,
-      "word": "梅西与詹姆斯拥抱",
-      "onboard_time": 1689988351,
-      "rank": 46,
+      "raw_hot": 179374,
+      "num": 179374,
+      "word": "梅西上场",
+      "onboard_time": 1689990453,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -852,7 +924,7 @@
     },
     {
       "raw_hot": 34111,
-      "num": 1177060,
+      "num": 1328582,
       "word": "航天员出舱所有任务都是一次完成",
       "onboard_time": 1689939333,
       "rank": 2,
