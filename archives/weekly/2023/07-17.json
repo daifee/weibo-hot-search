@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690004020140,
+  "endTime": 1690006816846,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1846896,
+      "num": 1846896,
+      "word": "盛一伦都演爹了",
+      "onboard_time": 1690003230,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1818871,
       "num": 716149,
       "word": "英子骂得好超前",
@@ -1219,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1279820,
+      "num": 1279820,
+      "word": "公关什么呀公开得了",
+      "onboard_time": 1690005089,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1277553,
       "num": 415230,
       "word": "男子将妻子割喉被判1年6个月",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1689607591,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1212720,
+      "num": 1212720,
+      "word": "孩子考了702分爸爸喝高兴了醉驾",
+      "onboard_time": 1690003951,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1212102,
@@ -2291,14 +2315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 888910,
-      "num": 365962,
-      "word": "盛一伦都演爹了",
-      "onboard_time": 1690003230,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 888501,
       "num": 888501,
       "word": "asap",
@@ -2921,6 +2937,14 @@
       "onboard_time": 1689899072,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 775618,
+      "num": 775618,
+      "word": "为啥女生裤子口袋越来越小",
+      "onboard_time": 1690003292,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 774633,
@@ -3737,6 +3761,14 @@
       "onboard_time": 1689672934,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 646167,
+      "num": 646167,
+      "word": "迪丽热巴在高铁上看书",
+      "onboard_time": 1690004550,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 646154,
@@ -4611,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553193,
+      "num": 553193,
+      "word": "魏大勋沙发奖励么么哒的原因",
+      "onboard_time": 1690004730,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552028,
       "num": 552028,
       "word": "范丞丞预判了导演的预判",
@@ -4771,6 +4811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530891,
+      "num": 223115,
+      "word": "封神票房",
+      "onboard_time": 1690004494,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 530651,
       "num": 530651,
       "word": "追光的日子",
@@ -4857,6 +4905,14 @@
       "onboard_time": 1689907711,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520574,
+      "num": 222928,
+      "word": "王一博公司年会花絮图",
+      "onboard_time": 1690005392,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 520451,
@@ -5251,6 +5307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481962,
+      "num": 220889,
+      "word": "魏大勋爆火后播的第一个综艺",
+      "onboard_time": 1690006711,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481599,
       "num": 481599,
       "word": "玖月晞知道自己在反驳什么吗",
@@ -5608,14 +5672,6 @@
       "word": "胖人和瘦人吃东西的区别",
       "onboard_time": 1689517957,
       "rank": 8,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 455491,
-      "num": 350683,
-      "word": "为啥女生裤子口袋越来越小",
-      "onboard_time": 1690003292,
-      "rank": 13,
       "category": "幽默"
     },
     {
@@ -7691,6 +7747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 329505,
+      "num": 232818,
+      "word": "TFBOYS车站概念",
+      "onboard_time": 1690003472,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 329079,
       "num": 284850,
       "word": "融梗",
@@ -8185,6 +8249,14 @@
       "onboard_time": 1689951701,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301991,
+      "num": 301991,
+      "word": "故宫现九龙吐水",
+      "onboard_time": 1690004671,
+      "rank": 13,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 301413,
@@ -9083,6 +9155,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 267991,
+      "num": 218014,
+      "word": "黄明昊连续两次被评S级",
+      "onboard_time": 1690005270,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267812,
       "num": 267812,
       "word": "确认这是我们省的省饭",
@@ -9265,6 +9345,14 @@
       "onboard_time": 1689579210,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260552,
+      "num": 222884,
+      "word": "TFBOYS合体谁最开心",
+      "onboard_time": 1690002751,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 259396,
@@ -9723,14 +9811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239971,
-      "num": 239971,
-      "word": "孩子考了702分爸爸喝高兴了醉驾",
-      "onboard_time": 1690003951,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239896,
       "num": 221464,
       "word": "秋瓷炫同床异梦介绍乘风",
@@ -9979,12 +10059,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232818,
-      "num": 232818,
-      "word": "TFBOYS车站概念",
-      "onboard_time": 1690003472,
-      "rank": 33,
-      "category": "音乐"
+      "raw_hot": 232812,
+      "num": 220701,
+      "word": "战至巅峰2封神之战",
+      "onboard_time": 1690001251,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 232657,
@@ -10273,14 +10353,6 @@
       "onboard_time": 1689503611,
       "rank": 31,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 222884,
-      "num": 222884,
-      "word": "TFBOYS合体谁最开心",
-      "onboard_time": 1690002751,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 222374,
@@ -10633,14 +10705,6 @@
       "onboard_time": 1689760173,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211443,
-      "num": 220701,
-      "word": "战至巅峰2封神之战",
-      "onboard_time": 1690001251,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 211230,
@@ -11571,6 +11635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187470,
+      "num": 218173,
+      "word": "两人一狗可以这样打羽毛球",
+      "onboard_time": 1690004430,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187040,
       "num": 187040,
       "word": "泰国广告你别太离谱",
@@ -11713,6 +11785,14 @@
       "onboard_time": 1689586411,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183475,
+      "num": 210741,
+      "word": "芭比豆瓣差评大展",
+      "onboard_time": 1690006711,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 183342,
@@ -12451,6 +12531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148099,
+      "num": 216679,
+      "word": "北京暴雨中的故宫",
+      "onboard_time": 1690006294,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 147878,
       "num": 196174,
       "word": "学会阴阳怪气聊天",
@@ -12585,6 +12673,14 @@
       "onboard_time": 1689680133,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141090,
+      "num": 216294,
+      "word": "谷神星一号遥六运载火箭成功发射",
+      "onboard_time": 1690005871,
+      "rank": 34,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 140418,
@@ -12827,6 +12923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122658,
+      "num": 210631,
+      "word": "给修空调的师傅煮了一碗饺子",
+      "onboard_time": 1690006650,
+      "rank": 46,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 120454,
       "num": 366985,
       "word": "芭比排片好少",
@@ -12944,6 +13048,14 @@
       "word": "广东人期盼居家办公的天气",
       "onboard_time": 1689550283,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 113742,
+      "num": 210596,
+      "word": "为什么有的人耳朵上有这个",
+      "onboard_time": 1690004311,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -13379,18 +13491,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40431,
-      "num": 1461066,
-      "word": "要促进民营经济做大做优做强",
-      "onboard_time": 1689860616,
+      "raw_hot": 41116,
+      "num": 1288289,
+      "word": "神十六出舱任务精彩回顾",
+      "onboard_time": 1690002511,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36418,
-      "num": 1132002,
-      "word": "神十六出舱任务精彩回顾",
-      "onboard_time": 1690002511,
+      "raw_hot": 40431,
+      "num": 1461066,
+      "word": "要促进民营经济做大做优做强",
+      "onboard_time": 1689860616,
       "rank": 2,
       "category": "社会新闻"
     },
