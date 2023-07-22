@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690064121092,
+  "endTime": 1690065232037,
   "band_list": [
     {
       "raw_hot": 2244387,
@@ -499,6 +499,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 66447,
+      "num": 66447,
+      "word": "古巨基希望儿子早婚早生",
+      "onboard_time": 1690063815,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65348,
       "num": 57241,
       "word": "乌尔善不想把妲己拍得太风骚",
@@ -515,20 +523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 59294,
+      "num": 59294,
+      "word": "陈天润 王妃",
+      "onboard_time": 1690063875,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 40300,
       "num": 50207,
       "word": "百变马丁原来是国产动画",
       "onboard_time": 1690051216,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 31074,
-      "num": 31074,
-      "word": "陈天润 王妃",
-      "onboard_time": 1690063875,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 28270,
@@ -539,15 +547,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26693,
-      "num": 30650,
-      "word": "古巨基希望儿子早婚早生",
-      "onboard_time": 1690063815,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15009,
+      "raw_hot": 16828,
       "num": 1058451,
       "word": "2023年空军航空开放活动来了",
       "onboard_time": 1690031553,
