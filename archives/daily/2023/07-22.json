@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690002917482,
+  "endTime": 1690004020140,
   "band_list": [
     {
       "raw_hot": 2069727,
@@ -9,6 +9,14 @@
       "onboard_time": 1689983186,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1912720,
+      "num": 1912720,
+      "word": "TheShy 茶百道",
+      "onboard_time": 1690001733,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1749785,
@@ -59,8 +67,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1370251,
+      "num": 1093530,
+      "word": "迪丽热巴跑着赶高铁",
+      "onboard_time": 1689996634,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1353769,
-      "num": 317186,
+      "num": 339683,
       "word": "受精卵出逃钻进女子腹腔",
       "onboard_time": 1689982461,
       "rank": 20,
@@ -91,16 +107,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1093530,
-      "num": 1093530,
-      "word": "迪丽热巴跑着赶高铁",
-      "onboard_time": 1689996634,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1069384,
-      "num": 322992,
+      "num": 339694,
       "word": "江西一初中女生遭男生强奸杀害",
       "onboard_time": 1689994952,
       "rank": 21,
@@ -115,16 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1003599,
-      "num": 1003599,
-      "word": "TheShy 茶百道",
-      "onboard_time": 1690001733,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 977378,
-      "num": 301427,
+      "num": 311456,
       "word": "原来暗示分手的才不是那根断了的手链",
       "onboard_time": 1689989371,
       "rank": 30,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 917938,
+      "num": 917938,
+      "word": "许沁一点都不傻",
+      "onboard_time": 1689999752,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 907127,
       "num": 907127,
       "word": "高铁坐过站可以免费坐回去",
@@ -171,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 888910,
+      "num": 365962,
+      "word": "盛一伦都演爹了",
+      "onboard_time": 1690003230,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 882969,
       "num": 882969,
       "word": "张杰 喜欢你的人会很喜欢你就像我",
@@ -179,19 +195,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 870240,
+      "num": 870240,
+      "word": "我的人间烟火结局走向",
+      "onboard_time": 1690000834,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 865463,
       "num": 865463,
       "word": "范丞丞姜珮瑶吻戏",
       "onboard_time": 1689997352,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 843984,
-      "num": 843984,
-      "word": "我的人间烟火结局走向",
-      "onboard_time": 1690000834,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -217,14 +233,6 @@
       "onboard_time": 1689981561,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 800908,
-      "num": 439551,
-      "word": "许沁一点都不傻",
-      "onboard_time": 1689999752,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 782679,
@@ -283,7 +291,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 675233,
+      "raw_hot": 680818,
       "num": 427485,
       "word": "安乐传太后撤回太子妃",
       "onboard_time": 1689999992,
@@ -467,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 455491,
+      "num": 350683,
+      "word": "为啥女生裤子口袋越来越小",
+      "onboard_time": 1690003292,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 446480,
       "num": 284010,
       "word": "乘风排名",
@@ -593,6 +609,14 @@
       "onboard_time": 1689947501,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 343291,
+      "num": 339687,
+      "word": "李楷灿在医院治疗",
+      "onboard_time": 1690003050,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 342053,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 271930,
-      "num": 271930,
+      "num": 339695,
       "word": "当你喝咖啡时偶遇张元英",
       "onboard_time": 1689998971,
       "rank": 43,
@@ -827,6 +851,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239971,
+      "num": 239971,
+      "word": "孩子考了702分爸爸喝高兴了醉驾",
+      "onboard_time": 1690003951,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239872,
+      "num": 239872,
+      "word": "TFBOYS西安演唱会宣传力度",
+      "onboard_time": 1690003171,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237741,
       "num": 284795,
       "word": "江苏浙江连发85条预警",
@@ -865,6 +905,14 @@
       "onboard_time": 1689939810,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232818,
+      "num": 232818,
+      "word": "TFBOYS车站概念",
+      "onboard_time": 1690003472,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 231586,
@@ -915,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222884,
+      "num": 222884,
+      "word": "TFBOYS合体谁最开心",
+      "onboard_time": 1690002751,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222423,
       "num": 222423,
       "word": "韩剧恶鬼",
@@ -953,6 +1009,14 @@
       "onboard_time": 1689988654,
       "rank": 36,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 211443,
+      "num": 220701,
+      "word": "战至巅峰2封神之战",
+      "onboard_time": 1690001251,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 208164,
@@ -1043,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180874,
-      "num": 220701,
-      "word": "战至巅峰2封神之战",
-      "onboard_time": 1690001251,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177870,
       "num": 177870,
       "word": "回流生",
@@ -1073,14 +1129,6 @@
       "onboard_time": 1689985046,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 171128,
-      "num": 220664,
-      "word": "TFBOYS合体谁最开心",
-      "onboard_time": 1690002751,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 169627,
@@ -1291,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36418,
+      "num": 1132002,
+      "word": "神十六出舱任务精彩回顾",
+      "onboard_time": 1690002511,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34111,
       "num": 1406567,
       "word": "航天员出舱所有任务都是一次完成",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1689975191,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 17831,
-      "num": 1132002,
-      "word": "神十六出舱任务精彩回顾",
-      "onboard_time": 1690002511,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

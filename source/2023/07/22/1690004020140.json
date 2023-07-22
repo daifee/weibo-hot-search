@@ -1,0 +1,410 @@
+{
+  "runTime": 1690004020140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1912720,
+        "num": 1912720,
+        "word": "TheShy 茶百道",
+        "onboard_time": 1690001733,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1092250,
+        "num": 1092250,
+        "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
+        "onboard_time": 1689983186,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36418,
+        "num": 1012138,
+        "word": "神十六出舱任务精彩回顾",
+        "onboard_time": 1690002511,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1370251,
+        "num": 1010318,
+        "word": "迪丽热巴跑着赶高铁",
+        "onboard_time": 1689996634,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1007043,
+        "num": 1007043,
+        "word": "杨紫林更新或将8月补拍青簪行",
+        "onboard_time": 1689996030,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 917938,
+        "num": 917938,
+        "word": "许沁一点都不傻",
+        "onboard_time": 1689999752,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 906693,
+        "num": 906693,
+        "word": "芭比",
+        "onboard_time": 1689998432,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 870240,
+        "num": 870240,
+        "word": "我的人间烟火结局走向",
+        "onboard_time": 1690000834,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444951,
+        "num": 444951,
+        "word": "高铁坐过站可以免费坐回去",
+        "onboard_time": 1689984630,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369000,
+        "num": 369000,
+        "word": "梅西任意球绝杀",
+        "onboard_time": 1689992491,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 888910,
+        "num": 365962,
+        "word": "盛一伦都演爹了",
+        "onboard_time": 1690003230,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 680818,
+        "num": 363773,
+        "word": "安乐传太后撤回太子妃",
+        "onboard_time": 1689999992,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 641531,
+        "num": 357435,
+        "word": "范丞丞姜珮瑶吻戏",
+        "onboard_time": 1689997352,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455491,
+        "num": 350683,
+        "word": "为啥女生裤子口袋越来越小",
+        "onboard_time": 1690003292,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348798,
+        "num": 348798,
+        "word": "教科书里的女生原来是她",
+        "onboard_time": 1689990273,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 622820,
+        "num": 346924,
+        "word": "粉丝还是让TFBOYS贴贴了",
+        "onboard_time": 1689997771,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339704,
+        "num": 339704,
+        "word": "在超大特大城市积极稳步推进城中村改造",
+        "onboard_time": 1689995550,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 380211,
+        "num": 339704,
+        "word": "TFBOYS演唱会主视觉公开",
+        "onboard_time": 1689992131,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285119,
+        "num": 339701,
+        "word": "韩国500赛陈雨菲无缘决赛",
+        "onboard_time": 1690001132,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255171,
+        "num": 339695,
+        "word": "当你喝咖啡时偶遇张元英",
+        "onboard_time": 1689998971,
+        "rank": 19,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 792718,
+        "num": 339694,
+        "word": "江西一初中女生遭男生强奸杀害",
+        "onboard_time": 1689994952,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371532,
+        "num": 339688,
+        "word": "宋焰说挤地铁会受伤的",
+        "onboard_time": 1689985889,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343291,
+        "num": 339687,
+        "word": "李楷灿在医院治疗",
+        "onboard_time": 1690003050,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339683,
+        "num": 339683,
+        "word": "受精卵出逃钻进女子腹腔",
+        "onboard_time": 1689982461,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311456,
+        "num": 311456,
+        "word": "原来暗示分手的才不是那根断了的手链",
+        "onboard_time": 1689989371,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299749,
+        "num": 299749,
+        "word": "黄磊对谭松韵说我们也没法说欢迎你再来",
+        "onboard_time": 1689987271,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276594,
+        "num": 276594,
+        "word": "莲花楼全员上楼",
+        "onboard_time": 1689993389,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276348,
+        "num": 276348,
+        "word": "杨紫新剧荡秋千",
+        "onboard_time": 1689999031,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265833,
+        "num": 265833,
+        "word": "在泌尿科时上班令我印象最深的一件事",
+        "onboard_time": 1689995911,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217033,
+        "num": 251628,
+        "word": "这些袜子的受众到底是谁",
+        "onboard_time": 1689998490,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239971,
+        "num": 239971,
+        "word": "孩子考了702分爸爸喝高兴了醉驾",
+        "onboard_time": 1690003951,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239872,
+        "num": 239872,
+        "word": "TFBOYS西安演唱会宣传力度",
+        "onboard_time": 1690003171,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234868,
+        "num": 234868,
+        "word": "郭碧婷带儿女给向佐庆生",
+        "onboard_time": 1689993449,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232818,
+        "num": 232818,
+        "word": "TFBOYS车站概念",
+        "onboard_time": 1690003472,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174733,
+        "num": 227522,
+        "word": "失手把狗狗照片发进工作群",
+        "onboard_time": 1689985408,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222884,
+        "num": 222884,
+        "word": "TFBOYS合体谁最开心",
+        "onboard_time": 1690002751,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220498,
+        "num": 220498,
+        "word": "赵今麦齐刘海vs无刘海",
+        "onboard_time": 1689999212,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211443,
+        "num": 211443,
+        "word": "战至巅峰2封神之战",
+        "onboard_time": 1690001251,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166171,
+        "num": 211422,
+        "word": "美国女足3比0越南女足",
+        "onboard_time": 1689998191,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163517,
+        "num": 211397,
+        "word": "西安对造假中考生取消录取",
+        "onboard_time": 1689986732,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 176519,
+        "num": 211383,
+        "word": "张杰 喜欢你的人会很喜欢你就像我",
+        "onboard_time": 1689989971,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171836,
+        "num": 211353,
+        "word": "徐主任说许沁自负",
+        "onboard_time": 1689997891,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171489,
+        "num": 211332,
+        "word": "郭帆曾探班封神",
+        "onboard_time": 1690001973,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157936,
+        "num": 211319,
+        "word": "一口气煮了40多天的米饭",
+        "onboard_time": 1689985649,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160845,
+        "num": 211284,
+        "word": "封神",
+        "onboard_time": 1689991891,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149746,
+        "num": 211260,
+        "word": "我的老师28岁上大学48岁读博",
+        "onboard_time": 1689994952,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146481,
+        "num": 211253,
+        "word": "出租屋7岁钢琴神童获省级金奖老师送钢琴",
+        "onboard_time": 1689986370,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 125223,
+        "num": 211224,
+        "word": "海贼王真人版正式预告",
+        "onboard_time": 1690002153,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124452,
+        "num": 211200,
+        "word": "太阳系有多诡异",
+        "onboard_time": 1689987451,
+        "rank": 48,
+        "category": "自然,科技"
+      },
+      {
+        "raw_hot": 124195,
+        "num": 211180,
+        "word": "一个视频腿软了好几次",
+        "onboard_time": 1689998072,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强耕地保护全力提升耕地质量#"
+    }
+  }
+}
