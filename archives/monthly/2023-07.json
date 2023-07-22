@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690036422927,
+  "endTime": 1690038958681,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1299,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2693906,
+      "num": 2693906,
+      "word": "你好星期六收视创新高",
+      "onboard_time": 1690035995,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2688567,
       "num": 2688567,
       "word": "死臀综合征",
@@ -1856,6 +1864,14 @@
       "word": "TFBOYS演唱会审批",
       "onboard_time": 1688390921,
       "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2249846,
+      "num": 2249846,
+      "word": "这是王一博个人演唱会吧",
+      "onboard_time": 1690037435,
+      "rank": 1,
       "category": "音乐"
     },
     {
@@ -2576,6 +2592,14 @@
       "word": "杨洋王楚然我的人间烟火新预告",
       "onboard_time": 1688267371,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1950425,
+      "num": 1950425,
+      "word": "孟宴臣蝴蝶墙没了",
+      "onboard_time": 1690035995,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -4035,6 +4059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1581419,
+      "num": 1581419,
+      "word": "周冠宇第一",
+      "onboard_time": 1690037256,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1571453,
       "num": 1571453,
       "word": "在孙权墓前放中科大录取通知书",
@@ -5491,6 +5523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1281628,
+      "num": 668479,
+      "word": "演员最好的医美",
+      "onboard_time": 1690037677,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1280880,
       "num": 472338,
       "word": "台湾一男子持刀砍下84岁母亲头颅",
@@ -5825,6 +5865,14 @@
       "onboard_time": 1688477615,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1223485,
+      "num": 1223485,
+      "word": "男子含着蟑螂下馆子敲诈商家被拘",
+      "onboard_time": 1690033777,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1222761,
@@ -6649,6 +6697,14 @@
       "onboard_time": 1688710359,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1130962,
+      "num": 667179,
+      "word": "付闻樱认可宋焰",
+      "onboard_time": 1690037139,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1130111,
@@ -8723,6 +8779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 947596,
+      "num": 637292,
+      "word": "宋焰孟宴臣和解",
+      "onboard_time": 1690036775,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 945670,
       "num": 945670,
       "word": "TFBOYS演唱会票价已被炒到四万多",
@@ -9779,6 +9843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 880896,
+      "num": 338612,
+      "word": "杨迪演我看杨洋王楚然",
+      "onboard_time": 1690037617,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 880891,
       "num": 880891,
       "word": "宝格丽海外账号仍未道歉",
@@ -10051,6 +10123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 868841,
+      "num": 531841,
+      "word": "妲己",
+      "onboard_time": 1690036775,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 868210,
       "num": 868210,
       "word": "幼儿在公共场合哭闹 泰森原则",
@@ -10208,14 +10288,6 @@
       "word": "北极鲶鱼",
       "onboard_time": 1688283573,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860296,
-      "num": 860296,
-      "word": "男子含着蟑螂下馆子敲诈商家被拘",
-      "onboard_time": 1690033777,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -11081,14 +11153,6 @@
       "onboard_time": 1689366313,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 817769,
-      "num": 817769,
-      "word": "孟宴臣蝴蝶墙没了",
-      "onboard_time": 1690035995,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 817442,
@@ -14947,6 +15011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654818,
+      "num": 388812,
+      "word": "为什么石头成为了网红菜",
+      "onboard_time": 1690038339,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654200,
       "num": 654200,
       "word": "没迪丽热巴龚俊这样的鼻子可不行",
@@ -15755,6 +15827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 628236,
+      "num": 387377,
+      "word": "孟宴臣被诬陷戏份",
+      "onboard_time": 1690037857,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 627845,
       "num": 624269,
       "word": "陈哲远王玉雯 白色橄榄树",
@@ -15849,6 +15929,14 @@
       "onboard_time": 1689578312,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 625965,
+      "num": 389940,
+      "word": "王一博无袖",
+      "onboard_time": 1690036901,
+      "rank": 22,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 625905,
@@ -17905,14 +17993,6 @@
       "onboard_time": 1689746132,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 561807,
-      "num": 561807,
-      "word": "你好星期六收视创新高",
-      "onboard_time": 1690035995,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 561558,
@@ -22043,6 +22123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464429,
+      "num": 323055,
+      "word": "王鹤棣首次参加音乐节",
+      "onboard_time": 1690038276,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 464380,
       "num": 464380,
       "word": "福宝知道自己当姐姐了吗",
@@ -23193,6 +23281,14 @@
       "onboard_time": 1688441918,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442410,
+      "num": 313988,
+      "word": "男子颅内感染后突然魔怔称能看到鬼",
+      "onboard_time": 1690038639,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442340,
@@ -26161,6 +26257,14 @@
       "onboard_time": 1688523453,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 391578,
+      "num": 391578,
+      "word": "布加迪",
+      "onboard_time": 1690037677,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391364,
@@ -34091,6 +34195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289472,
+      "num": 289472,
+      "word": "司机鸣笛后发现是盲人自责不已",
+      "onboard_time": 1690036358,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289364,
       "num": 289364,
       "word": "徐怀钰谢欣淘汰",
@@ -34281,6 +34393,14 @@
       "onboard_time": 1689572431,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 287769,
+      "num": 252574,
+      "word": "董子健新剧遭枪击重伤",
+      "onboard_time": 1690038219,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 287726,
@@ -35857,6 +35977,14 @@
       "onboard_time": 1689243455,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271475,
+      "num": 308333,
+      "word": "F1",
+      "onboard_time": 1688829755,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 271467,
@@ -38123,6 +38251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250833,
+      "num": 250833,
+      "word": "WB",
+      "onboard_time": 1690037139,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250806,
       "num": 369087,
       "word": "考生中考分数大跌怀疑成绩被偷",
@@ -39379,14 +39515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 238877,
-      "num": 308333,
-      "word": "F1",
-      "onboard_time": 1688829755,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 238860,
       "num": 238860,
       "word": "大家都是工作多久开始存钱的",
@@ -40387,6 +40515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230147,
+      "num": 230147,
+      "word": "原来小兔子是这样打嗝的",
+      "onboard_time": 1690037857,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230013,
       "num": 230013,
       "word": "安溥最好的时光年度歌曲奖",
@@ -40993,14 +41129,6 @@
       "onboard_time": 1688744978,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224749,
-      "num": 233430,
-      "word": "司机鸣笛后发现是盲人自责不已",
-      "onboard_time": 1690036358,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224731,
@@ -41881,6 +42009,14 @@
       "onboard_time": 1688183731,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 217544,
+      "num": 229846,
+      "word": "jiejie采访",
+      "onboard_time": 1690035273,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 217420,
@@ -46396,7 +46532,7 @@
     },
     {
       "raw_hot": 188196,
-      "num": 1835184,
+      "num": 1956910,
       "word": "中国跳水队12金收官",
       "onboard_time": 1690031793,
       "rank": 2,

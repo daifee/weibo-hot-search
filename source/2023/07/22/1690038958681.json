@@ -1,0 +1,410 @@
+{
+  "runTime": 1690038958681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2693906,
+        "num": 2693906,
+        "word": "你好星期六收视创新高",
+        "onboard_time": 1690035995,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2249846,
+        "num": 2249846,
+        "word": "这是王一博个人演唱会吧",
+        "onboard_time": 1690037435,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131990,
+        "num": 1956910,
+        "word": "中国跳水队12金收官",
+        "onboard_time": 1690031793,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1950425,
+        "num": 1950425,
+        "word": "孟宴臣蝴蝶墙没了",
+        "onboard_time": 1690035995,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1581419,
+        "num": 1581419,
+        "word": "周冠宇第一",
+        "onboard_time": 1690037256,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1340745,
+        "num": 1340745,
+        "word": "魏大勋给杨洋王楚然示范爱的抱抱",
+        "onboard_time": 1690031072,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1647038,
+        "num": 1338962,
+        "word": "孟宴臣扯领带",
+        "onboard_time": 1690035696,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1223485,
+        "num": 1223485,
+        "word": "男子含着蟑螂下馆子敲诈商家被拘",
+        "onboard_time": 1690033777,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120400,
+        "num": 1120400,
+        "word": "中山一骑车女子遇开门杀不幸身亡",
+        "onboard_time": 1690030294,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671897,
+        "num": 671897,
+        "word": "Uzi状态",
+        "onboard_time": 1690022611,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1281628,
+        "num": 668479,
+        "word": "演员最好的医美",
+        "onboard_time": 1690037677,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1130962,
+        "num": 667179,
+        "word": "付闻樱认可宋焰",
+        "onboard_time": 1690037139,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 665019,
+        "num": 665019,
+        "word": "中国女足0比1丹麦女足",
+        "onboard_time": 1690034436,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 947596,
+        "num": 637292,
+        "word": "宋焰孟宴臣和解",
+        "onboard_time": 1690036775,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546358,
+        "num": 546358,
+        "word": "LPL资格赛四支队伍确定",
+        "onboard_time": 1690034500,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 933090,
+        "num": 532540,
+        "word": "乐华家族演唱会王一博",
+        "onboard_time": 1690032815,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 868841,
+        "num": 531841,
+        "word": "妲己",
+        "onboard_time": 1690036775,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507617,
+        "num": 507617,
+        "word": "起猛了全班17人考上了清华",
+        "onboard_time": 1690028731,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 437067,
+        "num": 437067,
+        "word": "胡嘉乐 又可以打冒泡了",
+        "onboard_time": 1690035579,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 391578,
+        "num": 391578,
+        "word": "布加迪",
+        "onboard_time": 1690037677,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826226,
+        "num": 390850,
+        "word": "录取通知书被狗子咬得稀碎",
+        "onboard_time": 1690034738,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 725191,
+        "num": 390266,
+        "word": "孟美岐造型",
+        "onboard_time": 1690032634,
+        "rank": 21,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 625965,
+        "num": 389940,
+        "word": "王一博无袖",
+        "onboard_time": 1690036901,
+        "rank": 22,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 654818,
+        "num": 388812,
+        "word": "为什么石头成为了网红菜",
+        "onboard_time": 1690038339,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448282,
+        "num": 388384,
+        "word": "外卖员自拍2次裤裆拔毛放入餐食",
+        "onboard_time": 1690023930,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628236,
+        "num": 387377,
+        "word": "孟宴臣被诬陷戏份",
+        "onboard_time": 1690037857,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593834,
+        "num": 386611,
+        "word": "封神终于不再甩锅女性",
+        "onboard_time": 1690026031,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402652,
+        "num": 385973,
+        "word": "做指检的炸裂瞬间",
+        "onboard_time": 1690035938,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385448,
+        "num": 385448,
+        "word": "EDG战胜OMG",
+        "onboard_time": 1690031975,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339631,
+        "num": 339631,
+        "word": "姐姐5千的学费他学了4千5",
+        "onboard_time": 1690025730,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 880896,
+        "num": 338612,
+        "word": "杨迪演我看杨洋王楚然",
+        "onboard_time": 1690037617,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477227,
+        "num": 327027,
+        "word": "乐华家族演唱会上座率",
+        "onboard_time": 1690034257,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 464429,
+        "num": 323055,
+        "word": "王鹤棣首次参加音乐节",
+        "onboard_time": 1690038276,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 442410,
+        "num": 313988,
+        "word": "男子颅内感染后突然魔怔称能看到鬼",
+        "onboard_time": 1690038639,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442268,
+        "num": 310519,
+        "word": "TFBOYS来西安都没地方住",
+        "onboard_time": 1690019192,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 422627,
+        "num": 301514,
+        "word": "封神",
+        "onboard_time": 1690036416,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297046,
+        "num": 297046,
+        "word": "九尾",
+        "onboard_time": 1690031014,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289472,
+        "num": 289472,
+        "word": "司机鸣笛后发现是盲人自责不已",
+        "onboard_time": 1690036358,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271475,
+        "num": 271475,
+        "word": "F1",
+        "onboard_time": 1690036958,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260145,
+        "num": 260145,
+        "word": "减脂人的冰箱能有多清爽",
+        "onboard_time": 1690028311,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404870,
+        "num": 259709,
+        "word": "杨迪说魏大勋老来得粉",
+        "onboard_time": 1690028613,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337205,
+        "num": 258112,
+        "word": "孟宴臣打网球好帅",
+        "onboard_time": 1690032393,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311911,
+        "num": 255625,
+        "word": "房东的猫胡夏 那些年",
+        "onboard_time": 1690031915,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298298,
+        "num": 254228,
+        "word": "因为长安三万里李白墓前摆满了美酒",
+        "onboard_time": 1690034074,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287769,
+        "num": 252574,
+        "word": "董子健新剧遭枪击重伤",
+        "onboard_time": 1690038219,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250833,
+        "num": 250833,
+        "word": "WB",
+        "onboard_time": 1690037139,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236028,
+        "num": 236028,
+        "word": "顺丰回应被指寄丢38万劳力士",
+        "onboard_time": 1690026271,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 230147,
+        "num": 230147,
+        "word": "原来小兔子是这样打嗝的",
+        "onboard_time": 1690037857,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217544,
+        "num": 229846,
+        "word": "jiejie采访",
+        "onboard_time": 1690035273,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208367,
+        "num": 229206,
+        "word": "21岁小伙因撑伞羞耻被中度晒伤",
+        "onboard_time": 1690028493,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把长江文化保护好传承好弘扬好#"
+    }
+  }
+}
