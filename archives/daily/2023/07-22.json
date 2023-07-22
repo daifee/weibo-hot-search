@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689993233235,
+  "endTime": 1689993758662,
   "band_list": [
     {
       "raw_hot": 2069727,
@@ -35,12 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1381882,
+      "num": 1381882,
+      "word": "梅西任意球绝杀",
+      "onboard_time": 1689992491,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1353769,
       "num": 303217,
       "word": "受精卵出逃钻进女子腹腔",
       "onboard_time": 1689982461,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1226878,
+      "num": 1226878,
+      "word": "TFBOYS演唱会主视觉公开",
+      "onboard_time": 1689992131,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1165331,
@@ -67,20 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1035088,
-      "num": 1035088,
-      "word": "TFBOYS演唱会主视觉公开",
-      "onboard_time": 1689992131,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 1016728,
-      "num": 1016728,
-      "word": "梅西任意球绝杀",
-      "onboard_time": 1689992491,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 977378,
+      "num": 301427,
+      "word": "原来暗示分手的才不是那根断了的手链",
+      "onboard_time": 1689989371,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 966505,
@@ -89,14 +97,6 @@
       "onboard_time": 1689951701,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 960106,
-      "num": 301427,
-      "word": "原来暗示分手的才不是那根断了的手链",
-      "onboard_time": 1689989371,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 920914,
@@ -187,12 +187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680446,
+      "num": 588808,
+      "word": "教科书里的女生原来是她",
+      "onboard_time": 1689990273,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 647318,
       "num": 647318,
       "word": "梅西上场",
       "onboard_time": 1689990453,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 646154,
+      "num": 633864,
+      "word": "沈梦辰把湘西腊肉挂到布达佩斯来了",
+      "onboard_time": 1689989791,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 646143,
@@ -219,14 +235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 633864,
-      "num": 633864,
-      "word": "沈梦辰把湘西腊肉挂到布达佩斯来了",
-      "onboard_time": 1689989791,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 630710,
       "num": 286741,
       "word": "00后小伙大便带血确诊肠癌晚期",
@@ -241,14 +249,6 @@
       "onboard_time": 1689951219,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 588808,
-      "num": 588808,
-      "word": "教科书里的女生原来是她",
-      "onboard_time": 1689990273,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 582794,
@@ -363,8 +363,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426729,
-      "num": 426729,
+      "raw_hot": 430435,
+      "num": 430435,
       "word": "李莎旻子邀请所有姐姐去她家吃饭",
       "onboard_time": 1689990332,
       "rank": 41,
@@ -385,6 +385,14 @@
       "onboard_time": 1689983063,
       "rank": 14,
       "category": "国内要闻,财经"
+    },
+    {
+      "raw_hot": 412254,
+      "num": 412254,
+      "word": "迪丽热巴出发长沙",
+      "onboard_time": 1689992791,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 401542,
@@ -465,14 +473,6 @@
       "onboard_time": 1689982883,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314304,
-      "num": 299690,
-      "word": "迪丽热巴出发长沙",
-      "onboard_time": 1689992791,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 305806,
@@ -579,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 264969,
+      "num": 264969,
+      "word": "莲花楼全员上楼",
+      "onboard_time": 1689993389,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261121,
       "num": 637151,
       "word": "机器人给头颅8厘米早产儿做脑手术",
@@ -601,6 +609,14 @@
       "onboard_time": 1689952660,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248955,
+      "num": 248955,
+      "word": "郭碧婷带儿女给向佐庆生",
+      "onboard_time": 1689993449,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 248044,
@@ -691,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228056,
+      "num": 228056,
+      "word": "爸爸给我买的玩具转动了十五年",
+      "onboard_time": 1689992791,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 226011,
       "num": 226011,
       "word": "宋轶再给自己配音完全对得上",
@@ -779,20 +803,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192391,
-      "num": 192391,
-      "word": "爸爸给我买的玩具转动了十五年",
-      "onboard_time": 1689992791,
-      "rank": 40,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 191703,
       "num": 191703,
       "word": "网购一定要记得看清尺寸",
       "onboard_time": 1689985709,
       "rank": 44,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 187702,
+      "num": 187702,
+      "word": "迈阿密国际2比1蓝十字",
+      "onboard_time": 1689993634,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 184202,
@@ -987,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61635,
+      "num": 156952,
+      "word": "拍照如何更出片",
+      "onboard_time": 1689993634,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44775,
       "num": 282469,
       "word": "中国队花游集体自由自选摘金",
@@ -996,7 +1028,7 @@
     },
     {
       "raw_hot": 34111,
-      "num": 1328582,
+      "num": 1396038,
       "word": "航天员出舱所有任务都是一次完成",
       "onboard_time": 1689939333,
       "rank": 2,
