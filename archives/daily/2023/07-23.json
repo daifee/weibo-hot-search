@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690050834095,
+  "endTime": 1690053167993,
   "band_list": [
     {
       "raw_hot": 2244387,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151248,
+      "num": 86627,
+      "word": "芭比导演坚持反对剪掉老奶奶场景",
+      "onboard_time": 1690051456,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145250,
       "num": 209608,
       "word": "九尾",
@@ -489,6 +497,30 @@
       "onboard_time": 1690049658,
       "rank": 43,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 65348,
+      "num": 57241,
+      "word": "乌尔善不想把妲己拍得太风骚",
+      "onboard_time": 1690051216,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 35763,
+      "num": 50207,
+      "word": "百变马丁原来是国产动画",
+      "onboard_time": 1690051216,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 28270,
+      "num": 50149,
+      "word": "京城大师赛",
+      "onboard_time": 1690052775,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 15009,
