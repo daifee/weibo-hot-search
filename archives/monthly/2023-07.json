@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690014827289,
+  "endTime": 1690017332220,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1235,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2741013,
+      "num": 2741013,
+      "word": "芭比",
+      "onboard_time": 1688465738,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2736599,
       "num": 2736599,
       "word": "韩国真的没人生小孩了吗",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1688561012,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 2012143,
-      "num": 2012143,
-      "word": "芭比",
-      "onboard_time": 1688465738,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 2008325,
@@ -4531,6 +4531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1445742,
+      "num": 1445742,
+      "word": "全面暴涨魏大勋",
+      "onboard_time": 1690012772,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1445444,
       "num": 1445444,
       "word": "千万别碰荔枝树上的臭虫",
@@ -6683,6 +6691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1114586,
+      "num": 1036193,
+      "word": "央视网文娱评价我的人间烟火",
+      "onboard_time": 1690015591,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1111725,
       "num": 1111725,
       "word": "优酷",
@@ -7385,14 +7401,6 @@
       "onboard_time": 1688896592,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1044406,
-      "num": 1044406,
-      "word": "全面暴涨魏大勋",
-      "onboard_time": 1690012772,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1043895,
@@ -9065,6 +9073,14 @@
       "onboard_time": 1688633673,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 912053,
+      "num": 912053,
+      "word": "付辛博降至B级",
+      "onboard_time": 1690014992,
+      "rank": 6,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 910518,
@@ -14435,6 +14451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660763,
+      "num": 206236,
+      "word": "Angelababy点了三个痣",
+      "onboard_time": 1690017032,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 660575,
       "num": 660575,
       "word": "张杰LESSERAFIM合照",
@@ -16505,6 +16529,14 @@
       "onboard_time": 1689734670,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 593295,
+      "num": 476934,
+      "word": "魏大勋P的图",
+      "onboard_time": 1690013673,
+      "rank": 30,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 592945,
@@ -20915,14 +20947,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 476934,
-      "num": 476934,
-      "word": "魏大勋P的图",
-      "onboard_time": 1690013673,
-      "rank": 30,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 476855,
       "num": 401648,
       "word": "伪骨科代餐",
@@ -21073,6 +21097,14 @@
       "onboard_time": 1689595234,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473422,
+      "num": 411352,
+      "word": "许沁没有去宋焰家洗碗",
+      "onboard_time": 1690014812,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 473410,
@@ -22331,6 +22363,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 449727,
+      "num": 311936,
+      "word": "鞠婧祎换微博头像",
+      "onboard_time": 1690014871,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449497,
       "num": 343893,
       "word": "妈妈说从没听说过我的职业",
@@ -22489,6 +22529,14 @@
       "onboard_time": 1689337660,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 446392,
+      "num": 501576,
+      "word": "我成了全村第一个开拖拉机的女生",
+      "onboard_time": 1690011632,
+      "rank": 18,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 445955,
@@ -23193,14 +23241,6 @@
       "onboard_time": 1689823057,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434080,
-      "num": 501576,
-      "word": "我成了全村第一个开拖拉机的女生",
-      "onboard_time": 1690011632,
-      "rank": 18,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 434003,
@@ -25219,6 +25259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399121,
+      "num": 399121,
+      "word": "日媒探店中国水产超市发现已无日货",
+      "onboard_time": 1690013731,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 398778,
       "num": 398778,
       "word": "Knight",
@@ -25761,6 +25809,14 @@
       "onboard_time": 1689065737,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389441,
+      "num": 349606,
+      "word": "花花公子",
+      "onboard_time": 1690013731,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 389253,
@@ -28531,14 +28587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 349606,
-      "num": 349606,
-      "word": "花花公子",
-      "onboard_time": 1690013731,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 349526,
       "num": 274147,
       "word": "李玟好友说她生前想要一个小孩",
@@ -28609,6 +28657,14 @@
       "onboard_time": 1689390094,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348855,
+      "num": 348855,
+      "word": "白猪中暑变粉猪119及时解救",
+      "onboard_time": 1690015231,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348688,
@@ -37699,14 +37755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 247593,
-      "num": 375670,
-      "word": "日媒探店中国水产超市发现已无日货",
-      "onboard_time": 1690013731,
-      "rank": 45,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 247557,
       "num": 247557,
       "word": "谭松韵问何炅身边有靠谱的男士吗",
@@ -39465,6 +39513,14 @@
       "onboard_time": 1689219934,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231868,
+      "num": 206066,
+      "word": "外科医生的手有多稳",
+      "onboard_time": 1690015711,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 231670,
@@ -41289,6 +41345,14 @@
       "onboard_time": 1689463461,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216522,
+      "num": 216522,
+      "word": "北京故宫的排水系统为何能抗住暴雨",
+      "onboard_time": 1690015954,
+      "rank": 27,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 216499,
@@ -44995,6 +45059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191452,
+      "num": 230981,
+      "word": "为什么有的人耳朵上有这个",
+      "onboard_time": 1690004311,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191421,
       "num": 191421,
       "word": "桑稚段嘉许多版本结局",
@@ -45441,6 +45513,14 @@
       "onboard_time": 1688810972,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188750,
+      "num": 205745,
+      "word": "真的会有人不用洗发水洗头吗",
+      "onboard_time": 1690016494,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 188718,
@@ -46169,14 +46249,6 @@
       "onboard_time": 1688477315,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 181522,
-      "num": 181522,
-      "word": "许沁没有去宋焰家洗碗",
-      "onboard_time": 1690014812,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 181509,
@@ -48563,14 +48635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156821,
-      "num": 230981,
-      "word": "为什么有的人耳朵上有这个",
-      "onboard_time": 1690004311,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156744,
       "num": 156744,
       "word": "张杰年度最佳内地男歌手",
@@ -49555,6 +49619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138352,
+      "num": 205682,
+      "word": "夫妻退潮时冒死跳海救溺水父女",
+      "onboard_time": 1690016911,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138311,
       "num": 289364,
       "word": "刘语熙体验移动式办公",
@@ -50188,7 +50260,7 @@
     },
     {
       "raw_hot": 119026,
-      "num": 200022,
+      "num": 205138,
       "word": "小仓鼠吃意大利面",
       "onboard_time": 1690013913,
       "rank": 49,
@@ -50567,6 +50639,14 @@
       "num": 1535625,
       "word": "成都大运会开幕式有哪些亮点",
       "onboard_time": 1689513213,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106424,
+      "num": 1486899,
+      "word": "中国女足超燃瞬间",
+      "onboard_time": 1690013553,
       "rank": 2,
       "category": "体育"
     },
@@ -52087,14 +52167,6 @@
       "num": 1695787,
       "word": "十四冬举办时间定了",
       "onboard_time": 1689169116,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 52837,
-      "num": 1136696,
-      "word": "中国女足超燃瞬间",
-      "onboard_time": 1690013553,
       "rank": 2,
       "category": "体育"
     },

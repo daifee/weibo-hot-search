@@ -1,7 +1,15 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690014827289,
+  "endTime": 1690017332220,
   "band_list": [
+    {
+      "raw_hot": 2741013,
+      "num": 2741013,
+      "word": "芭比",
+      "onboard_time": 1689998432,
+      "rank": 8,
+      "category": "影视"
+    },
     {
       "raw_hot": 2736124,
       "num": 2736124,
@@ -17,14 +25,6 @@
       "onboard_time": 1689983186,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2012143,
-      "num": 2012143,
-      "word": "芭比",
-      "onboard_time": 1689998432,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1912720,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1445742,
+      "num": 1445742,
+      "word": "全面暴涨魏大勋",
+      "onboard_time": 1690012772,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1427031,
       "num": 1382176,
       "word": "药店误卖禁用药致38岁产妇流产",
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1114586,
+      "num": 1036193,
+      "word": "央视网文娱评价我的人间烟火",
+      "onboard_time": 1690015591,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1103182,
       "num": 1103182,
       "word": "杨颖问儿子在学校有没有人追你",
@@ -161,14 +177,6 @@
       "onboard_time": 1689994952,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1044406,
-      "num": 1044406,
-      "word": "全面暴涨魏大勋",
-      "onboard_time": 1690012772,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1036197,
@@ -217,6 +225,14 @@
       "onboard_time": 1689999752,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 912053,
+      "num": 912053,
+      "word": "付辛博降至B级",
+      "onboard_time": 1690014992,
+      "rank": 6,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 907127,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660763,
+      "num": 206236,
+      "word": "Angelababy点了三个痣",
+      "onboard_time": 1690017032,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 659212,
       "num": 659212,
       "word": "谁在杭州机场落了结婚照暑假作业",
@@ -465,6 +489,14 @@
       "onboard_time": 1689994110,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 593295,
+      "num": 476934,
+      "word": "魏大勋P的图",
+      "onboard_time": 1690013673,
+      "rank": 30,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 582794,
@@ -635,14 +667,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 476934,
-      "num": 476934,
-      "word": "魏大勋P的图",
-      "onboard_time": 1690013673,
-      "rank": 30,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 476536,
       "num": 476536,
       "word": "6万个座位得有我一个吧",
@@ -657,6 +681,14 @@
       "onboard_time": 1689952777,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473422,
+      "num": 411352,
+      "word": "许沁没有去宋焰家洗碗",
+      "onboard_time": 1690014812,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 473360,
@@ -675,12 +707,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 449727,
+      "num": 311936,
+      "word": "鞠婧祎换微博头像",
+      "onboard_time": 1690014871,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446480,
       "num": 284010,
       "word": "乘风排名",
       "onboard_time": 1689951460,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446392,
+      "num": 501576,
+      "word": "我成了全村第一个开拖拉机的女生",
+      "onboard_time": 1690011632,
+      "rank": 18,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 437635,
@@ -697,14 +745,6 @@
       "onboard_time": 1689987091,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 434080,
-      "num": 501576,
-      "word": "我成了全村第一个开拖拉机的女生",
-      "onboard_time": 1690011632,
-      "rank": 18,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 430435,
@@ -795,6 +835,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 399121,
+      "num": 399121,
+      "word": "日媒探店中国水产超市发现已无日货",
+      "onboard_time": 1690013731,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 389441,
+      "num": 349606,
+      "word": "花花公子",
+      "onboard_time": 1690013731,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 371712,
       "num": 371712,
       "word": "中国足协技术部部长谭海被查",
@@ -843,12 +899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349606,
-      "num": 349606,
-      "word": "花花公子",
-      "onboard_time": 1690013731,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 348855,
+      "num": 348855,
+      "word": "白猪中暑变粉猪119及时解救",
+      "onboard_time": 1690015231,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345811,
@@ -1179,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247593,
-      "num": 375670,
-      "word": "日媒探店中国水产超市发现已无日货",
-      "onboard_time": 1690013731,
-      "rank": 45,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 245991,
       "num": 245991,
       "word": "TFBOYS西安演唱会宣传力度",
@@ -1267,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231868,
+      "num": 206066,
+      "word": "外科医生的手有多稳",
+      "onboard_time": 1690015711,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231586,
       "num": 277271,
       "word": "终于明白啥叫我们那时候可没你这条件",
@@ -1337,6 +1393,14 @@
       "onboard_time": 1690001973,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216522,
+      "num": 216522,
+      "word": "北京故宫的排水系统为何能抗住暴雨",
+      "onboard_time": 1690015954,
+      "rank": 27,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 216130,
@@ -1443,6 +1507,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 191452,
+      "num": 230981,
+      "word": "为什么有的人耳朵上有这个",
+      "onboard_time": 1690004311,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190953,
       "num": 243600,
       "word": "WE战胜MTG",
@@ -1457,6 +1529,14 @@
       "onboard_time": 1690002153,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 188750,
+      "num": 205745,
+      "word": "真的会有人不用洗发水洗头吗",
+      "onboard_time": 1690016494,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 187702,
@@ -1480,14 +1560,6 @@
       "word": "巨齿鲨2预售开启",
       "onboard_time": 1689999633,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 181522,
-      "num": 181522,
-      "word": "许沁没有去宋焰家洗碗",
-      "onboard_time": 1690014812,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -1571,14 +1643,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 156821,
-      "num": 230981,
-      "word": "为什么有的人耳朵上有这个",
-      "onboard_time": 1690004311,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155554,
       "num": 245684,
       "word": "北京暴雨中的故宫",
@@ -1624,6 +1688,14 @@
       "word": "妻子已生产男方消失不见",
       "onboard_time": 1689942880,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138352,
+      "num": 205682,
+      "word": "夫妻退潮时冒死跳海救溺水父女",
+      "onboard_time": 1690016911,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1676,7 +1748,7 @@
     },
     {
       "raw_hot": 119026,
-      "num": 200022,
+      "num": 205138,
       "word": "小仓鼠吃意大利面",
       "onboard_time": 1690013913,
       "rank": 49,
@@ -1697,6 +1769,14 @@
       "onboard_time": 1690002871,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106424,
+      "num": 1486899,
+      "word": "中国女足超燃瞬间",
+      "onboard_time": 1690013553,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 104101,
@@ -1785,14 +1865,6 @@
       "onboard_time": 1689975493,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52837,
-      "num": 1136696,
-      "word": "中国女足超燃瞬间",
-      "onboard_time": 1690013553,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 45729,
