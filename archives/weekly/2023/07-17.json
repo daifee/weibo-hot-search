@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690029994054,
+  "endTime": 1690031915620,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -499,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2041000,
+      "num": 2041000,
+      "word": "杨迪说魏大勋老来得粉",
+      "onboard_time": 1690028613,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2038435,
       "num": 758120,
       "word": "王楚然与难哄制片人聚餐",
@@ -897,6 +905,14 @@
       "onboard_time": 1689929200,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1635424,
+      "num": 1196535,
+      "word": "你好星期六你是来看谁的",
+      "onboard_time": 1690029093,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1632690,
@@ -1547,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1162732,
+      "num": 1162732,
+      "word": "中山一骑车女子遇开门杀不幸身亡",
+      "onboard_time": 1690030294,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1161594,
       "num": 1161594,
       "word": "公司1.2亿租楼300每月租给员工住",
@@ -2099,6 +2123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 972712,
+      "num": 972712,
+      "word": "顺丰回应被指寄丢38万劳力士",
+      "onboard_time": 1690026271,
+      "rank": 7,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 970724,
       "num": 970724,
       "word": "真正通便的食物是这14种",
@@ -2200,14 +2232,6 @@
       "word": "回不去的奔跑吧兄弟",
       "onboard_time": 1689580653,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 949353,
-      "num": 949353,
-      "word": "杨迪说魏大勋老来得粉",
-      "onboard_time": 1690028613,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -2523,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 877143,
+      "num": 689358,
+      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
+      "onboard_time": 1690031072,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 876023,
       "num": 876023,
       "word": "迪丽热巴在高铁上看书",
@@ -2532,7 +2564,7 @@
     },
     {
       "raw_hot": 876012,
-      "num": 659572,
+      "num": 667414,
       "word": "刘畊宏女儿近照",
       "onboard_time": 1690024350,
       "rank": 47,
@@ -3011,14 +3043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 799081,
-      "num": 799081,
-      "word": "顺丰回应被指寄丢38万劳力士",
-      "onboard_time": 1690026271,
-      "rank": 7,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 798763,
       "num": 798763,
       "word": "清北学霸怒斥研学内幕",
@@ -3435,6 +3459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 720470,
+      "num": 720470,
+      "word": "确诊恐6症",
+      "onboard_time": 1690025672,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 716936,
       "num": 716936,
       "word": "陈芋汐",
@@ -3649,14 +3681,6 @@
       "onboard_time": 1689954214,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 691623,
-      "num": 691623,
-      "word": "确诊恐6症",
-      "onboard_time": 1690025672,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 691460,
@@ -3881,14 +3905,6 @@
       "onboard_time": 1689604115,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 660112,
-      "num": 660112,
-      "word": "你好星期六你是来看谁的",
-      "onboard_time": 1690029093,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 659647,
@@ -5115,6 +5131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 532656,
+      "num": 532656,
+      "word": "王霜",
+      "onboard_time": 1690029513,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532131,
       "num": 532131,
       "word": "真的不要过度的去省钱",
@@ -6083,6 +6107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453506,
+      "num": 453506,
+      "word": "九尾",
+      "onboard_time": 1690031014,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 453393,
       "num": 453393,
       "word": "孟怀瑾孟宴臣付闻樱在演另一部剧",
@@ -6121,6 +6153,14 @@
       "onboard_time": 1689830258,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450548,
+      "num": 402782,
+      "word": "起猛了全班17人考上了清华",
+      "onboard_time": 1690028731,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 450060,
@@ -6651,14 +6691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419537,
-      "num": 402782,
-      "word": "起猛了全班17人考上了清华",
-      "onboard_time": 1690028731,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 419237,
       "num": 399999,
       "word": "茉莉美式",
@@ -6937,6 +6969,14 @@
       "onboard_time": 1689942761,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 401975,
+      "num": 401975,
+      "word": "女子担心首饰被偷花180存银行保险柜",
+      "onboard_time": 1690030413,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 401467,
@@ -7225,6 +7265,14 @@
       "onboard_time": 1689758013,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 384885,
+      "num": 384885,
+      "word": "还得是刘奕君演成功",
+      "onboard_time": 1690030714,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 383779,
@@ -8699,6 +8747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308400,
+      "num": 308400,
+      "word": "张琳艳丝滑过人",
+      "onboard_time": 1690030593,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308345,
       "num": 308345,
       "word": "三伏天泡脚",
@@ -9041,6 +9097,22 @@
       "onboard_time": 1689774219,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292941,
+      "num": 292941,
+      "word": "莲花楼的排播",
+      "onboard_time": 1690031311,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 292821,
+      "num": 292821,
+      "word": "在宿舍听到最劲爆的八卦",
+      "onboard_time": 1690025910,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 292788,
@@ -9969,14 +10041,6 @@
       "onboard_time": 1689564392,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 262172,
-      "num": 262172,
-      "word": "在宿舍听到最劲爆的八卦",
-      "onboard_time": 1690025910,
-      "rank": 33,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 261986,
@@ -10987,14 +11051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227223,
-      "num": 227223,
-      "word": "王霜",
-      "onboard_time": 1690029513,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 227107,
       "num": 227107,
       "word": "作者在淘宝买到自己的盗版书",
@@ -11057,6 +11113,14 @@
       "onboard_time": 1689593430,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224646,
+      "num": 224646,
+      "word": "道崽",
+      "onboard_time": 1690031612,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 224317,
@@ -11931,6 +11995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200967,
+      "num": 200967,
+      "word": "小奶油这能飞啊",
+      "onboard_time": 1690031734,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200924,
       "num": 414183,
       "word": "关晓彤当着范丞丞面再提个人战",
@@ -12609,6 +12681,14 @@
       "onboard_time": 1689849089,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185949,
+      "num": 200318,
+      "word": "OMG和EDG决胜局",
+      "onboard_time": 1690030053,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 185614,
@@ -14123,6 +14203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93565,
+      "num": 453526,
+      "word": "今年世界杯中国队来了",
+      "onboard_time": 1690029873,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92981,
       "num": 92981,
       "word": "乘客突发心脏病公交抄近路开进医院",
@@ -14419,6 +14507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45953,
+      "num": 1203739,
+      "word": "中国跳水队12金收官",
+      "onboard_time": 1690031793,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45729,
       "num": 1530648,
       "word": "神十六出舱任务精彩回顾",
@@ -14611,20 +14707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16159,
+      "num": 216067,
+      "word": "2023年空军航空开放活动来了",
+      "onboard_time": 1690031553,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15188,
       "num": 99140,
       "word": "南北方饮食差异真的很大",
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 7934,
-      "num": 174737,
-      "word": "今年世界杯中国队来了",
-      "onboard_time": 1690029873,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7112,
