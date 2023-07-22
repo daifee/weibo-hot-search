@@ -1,0 +1,410 @@
+{
+  "runTime": 1690049997811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 576486,
+        "num": 576486,
+        "word": "你好星期六收视创新高",
+        "onboard_time": 1690035995,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468873,
+        "num": 468873,
+        "word": "孟宴臣 叶子",
+        "onboard_time": 1690040496,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15009,
+        "num": 420814,
+        "word": "2023年空军航空开放活动来了",
+        "onboard_time": 1690031553,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410573,
+        "num": 410573,
+        "word": "71岁丫头",
+        "onboard_time": 1690039300,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402422,
+        "num": 402422,
+        "word": "TFBOYS演唱会笑话",
+        "onboard_time": 1690040556,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288482,
+        "num": 288482,
+        "word": "网传一外籍男子踢倒藏区玛尼堆",
+        "onboard_time": 1690039418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278278,
+        "num": 278278,
+        "word": "seventeen宣布十月回归",
+        "onboard_time": 1690044029,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259860,
+        "num": 259860,
+        "word": "中山一骑车女子遇开门杀不幸身亡",
+        "onboard_time": 1690030294,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182320,
+        "num": 182320,
+        "word": "原来静音车厢是靠人工静音",
+        "onboard_time": 1690040556,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146866,
+        "num": 181667,
+        "word": "男子含着蟑螂下馆子敲诈商家被拘",
+        "onboard_time": 1690033777,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238853,
+        "num": 181621,
+        "word": "孟宴臣扯领带",
+        "onboard_time": 1690035696,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222049,
+        "num": 181614,
+        "word": "杨迪演我看杨洋王楚然",
+        "onboard_time": 1690037617,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181553,
+        "num": 181553,
+        "word": "父母去世女生被上海音乐学院录取",
+        "onboard_time": 1690039300,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 164365,
+        "num": 164365,
+        "word": "海南师范大学回应录取唐尚珺",
+        "onboard_time": 1690039234,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 200025,
+        "num": 163133,
+        "word": "魏大勋给杨洋王楚然示范爱的抱抱",
+        "onboard_time": 1690031072,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195473,
+        "num": 158965,
+        "word": "林志玲",
+        "onboard_time": 1690041394,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182625,
+        "num": 149020,
+        "word": "封神终于不再甩锅女性",
+        "onboard_time": 1690026031,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171441,
+        "num": 144816,
+        "word": "这是王一博个人演唱会吧",
+        "onboard_time": 1690037435,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142978,
+        "num": 142978,
+        "word": "Uzi状态",
+        "onboard_time": 1690022611,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102659,
+        "num": 102659,
+        "word": "EDG战胜OMG",
+        "onboard_time": 1690031975,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192359,
+        "num": 100774,
+        "word": "男子颅内感染后突然魔怔称能看到鬼",
+        "onboard_time": 1690038639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170878,
+        "num": 99096,
+        "word": "外卖员自拍2次裤裆拔毛放入餐食",
+        "onboard_time": 1690023930,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96487,
+        "num": 96487,
+        "word": "LPL资格赛四支队伍确定",
+        "onboard_time": 1690034500,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83738,
+        "num": 96486,
+        "word": "胡嘉乐 又可以打冒泡了",
+        "onboard_time": 1690035579,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153394,
+        "num": 96212,
+        "word": "请不要在图书馆内吃东西",
+        "onboard_time": 1690041334,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138596,
+        "num": 96031,
+        "word": "因为长安三万里李白墓前摆满了美酒",
+        "onboard_time": 1690034074,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135080,
+        "num": 95975,
+        "word": "付闻樱认可宋焰",
+        "onboard_time": 1690037139,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132062,
+        "num": 95696,
+        "word": "录取通知书被狗子咬得稀碎",
+        "onboard_time": 1690034738,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117000,
+        "num": 95518,
+        "word": "杨洋王楚然撒糖镜头切魏大勋",
+        "onboard_time": 1690042296,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114191,
+        "num": 95455,
+        "word": "演员最好的医美",
+        "onboard_time": 1690037677,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105800,
+        "num": 95246,
+        "word": "做指检的炸裂瞬间",
+        "onboard_time": 1690035938,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103801,
+        "num": 95086,
+        "word": "封神",
+        "onboard_time": 1690036416,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94989,
+        "num": 94989,
+        "word": "王一博惊叹号舞台好热烈",
+        "onboard_time": 1690041035,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93213,
+        "num": 93213,
+        "word": "魏大勋在新剧里叫黄子诚",
+        "onboard_time": 1690032215,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84442,
+        "num": 84442,
+        "word": "减脂人的冰箱能有多清爽",
+        "onboard_time": 1690028311,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90063,
+        "num": 84057,
+        "word": "苏醒这是我被收买费用最低的一次",
+        "onboard_time": 1690043129,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82496,
+        "num": 82496,
+        "word": "魏大勋你到底还有多少名场面",
+        "onboard_time": 1690039475,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81808,
+        "num": 81808,
+        "word": "起猛了全班17人考上了清华",
+        "onboard_time": 1690028731,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 72304,
+        "num": 72304,
+        "word": "布加迪",
+        "onboard_time": 1690037677,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52944,
+        "num": 72250,
+        "word": "TES",
+        "onboard_time": 1690040917,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81218,
+        "num": 71620,
+        "word": "Aimer现场",
+        "onboard_time": 1690049596,
+        "rank": 40,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 80433,
+        "num": 71273,
+        "word": "妲己",
+        "onboard_time": 1690036775,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74070,
+        "num": 70610,
+        "word": "王鹤棣首次参加音乐节",
+        "onboard_time": 1690038276,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70318,
+        "num": 70318,
+        "word": "郑恺从年轻小伙子变成了父亲",
+        "onboard_time": 1690049658,
+        "rank": 43,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 66801,
+        "num": 66801,
+        "word": "李汶翰全开麦",
+        "onboard_time": 1690043250,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51930,
+        "num": 66764,
+        "word": "周冠宇第一",
+        "onboard_time": 1690037256,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48903,
+        "num": 66631,
+        "word": "姐姐5千的学费他学了4千5",
+        "onboard_time": 1690025730,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 48824,
+        "num": 66464,
+        "word": "OMG对战EDG",
+        "onboard_time": 1690019492,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48471,
+        "num": 66410,
+        "word": "中国女足0比1丹麦女足",
+        "onboard_time": 1690034436,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36013,
+        "num": 66272,
+        "word": "偶像梦幻祭",
+        "onboard_time": 1690045166,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把长江文化保护好传承好弘扬好#"
+    }
+  }
+}

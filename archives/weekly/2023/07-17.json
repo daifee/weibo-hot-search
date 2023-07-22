@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690047211234,
+  "endTime": 1690049997811,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -14827,6 +14827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81218,
+      "num": 71620,
+      "word": "Aimer现场",
+      "onboard_time": 1690049596,
+      "rank": 40,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 80922,
       "num": 563989,
       "word": "巴特勒村BA首秀",
@@ -14881,6 +14889,14 @@
       "onboard_time": 1689740496,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70318,
+      "num": 70318,
+      "word": "郑恺从年轻小伙子变成了父亲",
+      "onboard_time": 1690049658,
+      "rank": 43,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 69161,
