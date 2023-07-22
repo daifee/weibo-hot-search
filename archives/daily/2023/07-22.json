@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690020992538,
+  "endTime": 1690022024336,
   "band_list": [
     {
       "raw_hot": 2741013,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1763849,
-      "num": 502549,
+      "num": 536474,
       "word": "Angelababy点了三个痣",
       "onboard_time": 1690017032,
       "rank": 30,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1422723,
-      "num": 514089,
+      "num": 558844,
       "word": "TFBOYS来西安都没地方住",
       "onboard_time": 1690019192,
       "rank": 10,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 847225,
-      "num": 1059938,
+      "num": 1380615,
       "word": "夫妻退潮时冒死跳海救溺水父女",
       "onboard_time": 1690016911,
       "rank": 39,
@@ -411,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 683086,
+      "num": 683086,
+      "word": "中介称20万就能买国企身份",
+      "onboard_time": 1690018473,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680818,
       "num": 427485,
       "word": "安乐传太后撤回太子妃",
@@ -475,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 635839,
+      "num": 635839,
+      "word": "魏大勋他只是经过",
+      "onboard_time": 1690018473,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 635607,
       "num": 635607,
       "word": "他给四岁的女儿买了个冰淇淋",
@@ -507,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 601707,
-      "num": 601707,
-      "word": "中介称20万就能买国企身份",
-      "onboard_time": 1690018473,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 597497,
+      "num": 287997,
+      "word": "刘星没想到头发是这样绿的吧",
+      "onboard_time": 1690020395,
+      "rank": 30,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 593295,
@@ -521,6 +537,14 @@
       "onboard_time": 1690013673,
       "rank": 30,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 589036,
+      "num": 589036,
+      "word": "电影票房",
+      "onboard_time": 1690019913,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 582794,
@@ -659,14 +683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 517971,
-      "num": 517971,
-      "word": "魏大勋他只是经过",
-      "onboard_time": 1690018473,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 512397,
       "num": 362354,
       "word": "SMTOWN新男团叫RIIZE",
@@ -691,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 499201,
+      "num": 499201,
+      "word": "UNIQ合照",
+      "onboard_time": 1690020871,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497262,
       "num": 497262,
       "word": "迪丽热巴出发长沙",
@@ -713,14 +737,6 @@
       "onboard_time": 1690014871,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 479584,
-      "num": 479584,
-      "word": "电影票房",
-      "onboard_time": 1690019913,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 478912,
@@ -795,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 435464,
+      "num": 374411,
+      "word": "魏大勋绑带背心",
+      "onboard_time": 1690021470,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 435393,
       "num": 435393,
       "word": "彭昱畅想见胡歌迪丽热巴",
@@ -867,6 +891,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 406036,
+      "num": 317649,
+      "word": "张嘉倪为Ella做成都冰粉",
+      "onboard_time": 1690018533,
+      "rank": 21,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 405375,
       "num": 373999,
       "word": "大勋你这拍的谁顶的住啊",
@@ -897,6 +929,14 @@
       "onboard_time": 1689946721,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 396276,
+      "num": 396276,
+      "word": "别再用大蒜保存西瓜了",
+      "onboard_time": 1690020753,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 389441,
@@ -931,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 362594,
+      "num": 295821,
+      "word": "龚俊被刘宇宁的腿震惊",
+      "onboard_time": 1690020990,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362327,
       "num": 362327,
       "word": "韩国500赛陈雨菲无缘决赛",
@@ -955,16 +1003,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349237,
-      "num": 302674,
-      "word": "张嘉倪为Ella做成都冰粉",
-      "onboard_time": 1690018533,
-      "rank": 21,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 348855,
-      "num": 602604,
+      "num": 657771,
       "word": "白猪中暑变粉猪119及时解救",
       "onboard_time": 1690015231,
       "rank": 18,
@@ -1011,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332371,
+      "num": 332371,
+      "word": "沙利文称美国将不得不与中国无限期共存",
+      "onboard_time": 1690018354,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 332136,
       "num": 332136,
       "word": "西安调查组对3608名回流生信息逐一甄别",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1689982883,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313920,
-      "num": 247381,
-      "word": "刘星没想到头发是这样绿的吧",
-      "onboard_time": 1690020395,
-      "rank": 30,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 312464,
@@ -1108,7 +1148,7 @@
     },
     {
       "raw_hot": 298798,
-      "num": 244353,
+      "num": 265814,
       "word": "关晓彤无袖黑裙",
       "onboard_time": 1690018354,
       "rank": 46,
@@ -1363,14 +1403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 242948,
-      "num": 242948,
-      "word": "沙利文称美国将不得不与中国无限期共存",
-      "onboard_time": 1690018354,
-      "rank": 48,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 241680,
       "num": 211296,
       "word": "娜然",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1690013854,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239866,
+      "num": 239866,
+      "word": "乌尔善 u23",
+      "onboard_time": 1690021411,
+      "rank": 35,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 239270,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1689939810,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233689,
+      "num": 233689,
+      "word": "少年郎",
+      "onboard_time": 1690021171,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 232812,
@@ -1547,14 +1595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 213222,
-      "num": 213222,
-      "word": "别再用大蒜保存西瓜了",
-      "onboard_time": 1690020753,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211932,
       "num": 211932,
       "word": "张柏芝同款浓眉淡颜妆",
@@ -1611,6 +1651,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 204051,
+      "num": 204051,
+      "word": "热烈点映",
+      "onboard_time": 1690021953,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202165,
       "num": 301472,
       "word": "猫咪不小心舔到驱虫药后失明",
@@ -1627,8 +1675,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198231,
+      "num": 198231,
+      "word": "我的人间烟火",
+      "onboard_time": 1690020692,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197349,
-      "num": 197349,
+      "num": 228942,
       "word": "河北廊坊重现200年前红楼一梦",
       "onboard_time": 1690019554,
       "rank": 43,
@@ -1651,12 +1707,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192499,
-      "num": 192499,
-      "word": "UNIQ合照",
-      "onboard_time": 1690020871,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 191817,
+      "num": 191817,
+      "word": "日本女足5比0赞比亚女足",
+      "onboard_time": 1690020032,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 191703,
@@ -1715,12 +1771,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186665,
-      "num": 186665,
-      "word": "我的人间烟火",
-      "onboard_time": 1690020692,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 185297,
+      "num": 460129,
+      "word": "那么多人都爱着熊猫七仔",
+      "onboard_time": 1690020032,
+      "rank": 14,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 183342,
@@ -1731,12 +1787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183105,
-      "num": 183105,
-      "word": "日本女足5比0赞比亚女足",
-      "onboard_time": 1690020032,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 182252,
+      "num": 201171,
+      "word": "职场立人设",
+      "onboard_time": 1690021352,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 177870,
@@ -1851,14 +1907,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146046,
-      "num": 460129,
-      "word": "那么多人都爱着熊猫七仔",
-      "onboard_time": 1690020032,
-      "rank": 14,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 142316,
       "num": 134579,
       "word": "陈佩斯朱时茂神预言我的人间烟火",
@@ -1888,6 +1936,14 @@
       "word": "小学生为什么喜欢盘手串",
       "onboard_time": 1689977233,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137492,
+      "num": 301266,
+      "word": "大熊猫的顶流待遇我慕了",
+      "onboard_time": 1690020154,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1985,14 +2041,6 @@
       "onboard_time": 1690009111,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99599,
-      "num": 245630,
-      "word": "大熊猫的顶流待遇我慕了",
-      "onboard_time": 1690020154,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99479,
