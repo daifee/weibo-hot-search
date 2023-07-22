@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689982437195,
+  "endTime": 1689989238776,
   "band_list": [
     {
       "raw_hot": 1465854,
@@ -17,6 +17,22 @@
       "onboard_time": 1689941798,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1427832,
+      "num": 1427832,
+      "word": "宋焰说挤地铁会受伤的",
+      "onboard_time": 1689985889,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1353769,
+      "num": 279850,
+      "word": "受精卵出逃钻进女子腹腔",
+      "onboard_time": 1689982461,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1103182,
@@ -51,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 907127,
+      "num": 907127,
+      "word": "高铁坐过站可以免费坐回去",
+      "onboard_time": 1689984630,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 906379,
       "num": 906379,
       "word": "许沁离开宋焰的原因",
@@ -65,6 +89,22 @@
       "onboard_time": 1689942032,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 809690,
+      "num": 809690,
+      "word": "西安警方控制13名为回流生提供服务人员",
+      "onboard_time": 1689981561,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780989,
+      "num": 780989,
+      "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
+      "onboard_time": 1689983186,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 749844,
@@ -99,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 636400,
-      "num": 636400,
-      "word": "西安警方控制13名为回流生提供服务人员",
-      "onboard_time": 1689981561,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 635607,
       "num": 635607,
       "word": "他给四岁的女儿买了个冰淇淋",
@@ -131,6 +163,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 604609,
+      "num": 604609,
+      "word": "时代少年团不参与TFBOYS十周年演唱会",
+      "onboard_time": 1689982163,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 571491,
+      "num": 571491,
+      "word": "魏大勋张瀚张彬彬爆笑两分半",
+      "onboard_time": 1689987752,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566161,
       "num": 292128,
       "word": "莲花楼定档",
@@ -139,12 +187,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555904,
+      "num": 555904,
+      "word": "黄磊对谭松韵说我们也没法说欢迎你再来",
+      "onboard_time": 1689987271,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 549470,
+      "num": 500784,
+      "word": "TFBOYS官博改小尾巴",
+      "onboard_time": 1689942941,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 523775,
       "num": 285921,
       "word": "王鹤棣白鹿多了一组跟拍",
       "onboard_time": 1689953856,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520451,
+      "num": 278070,
+      "word": "一口气煮了40多天的米饭",
+      "onboard_time": 1689985649,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 503379,
+      "num": 503379,
+      "word": "梅西替补",
+      "onboard_time": 1689985889,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 487250,
+      "num": 487250,
+      "word": "西安对造假中考生取消录取",
+      "onboard_time": 1689986732,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 482480,
@@ -171,12 +259,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469898,
+      "num": 277508,
+      "word": "失手把狗狗照片发进工作群",
+      "onboard_time": 1689985408,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 446480,
       "num": 284010,
       "word": "乘风排名",
       "onboard_time": 1689951460,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435393,
+      "num": 435393,
+      "word": "彭昱畅想见胡歌迪丽热巴",
+      "onboard_time": 1689987091,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 404005,
+      "num": 404005,
+      "word": "美方制裁1300多家中企",
+      "onboard_time": 1689983063,
+      "rank": 14,
+      "category": "国内要闻,财经"
     },
     {
       "raw_hot": 401542,
@@ -195,12 +307,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 384502,
-      "num": 384502,
-      "word": "TFBOYS官博改小尾巴",
-      "onboard_time": 1689942941,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 397742,
+      "num": 233601,
+      "word": "太阳系有多诡异",
+      "onboard_time": 1689987451,
+      "rank": 30,
+      "category": "自然,科技"
     },
     {
       "raw_hot": 357595,
@@ -211,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353532,
+      "num": 353532,
+      "word": "严浩翔高会",
+      "onboard_time": 1689987510,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344340,
       "num": 304948,
       "word": "台下闹麻了 台上软脚虾",
@@ -219,12 +339,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332136,
+      "num": 332136,
+      "word": "西安调查组对3608名回流生信息逐一甄别",
+      "onboard_time": 1689983907,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318230,
       "num": 318230,
       "word": "下个月的8号就立秋了",
       "onboard_time": 1689951102,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316544,
+      "num": 276468,
+      "word": "酒吧违规接待致未成年人被性侵",
+      "onboard_time": 1689982883,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291801,
@@ -291,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274091,
+      "num": 274091,
+      "word": "张嘉倪独舞",
+      "onboard_time": 1689987032,
+      "rank": 25,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 271839,
       "num": 288127,
       "word": "中建五局一项目经理工作群辱骂员工",
@@ -323,6 +467,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248044,
+      "num": 248044,
+      "word": "河南一个村宛如活在武侠世界",
+      "onboard_time": 1689987153,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245444,
+      "num": 245444,
+      "word": "出租屋7岁钢琴神童获省级金奖老师送钢琴",
+      "onboard_time": 1689986370,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 241680,
       "num": 211296,
       "word": "娜然",
@@ -337,6 +497,14 @@
       "onboard_time": 1689953616,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235674,
+      "num": 235674,
+      "word": "圆明园幸存的古莲开花了",
+      "onboard_time": 1689984206,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 235054,
@@ -363,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230331,
+      "num": 230331,
+      "word": "肖战删了一句台词",
+      "onboard_time": 1689967574,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222423,
       "num": 222423,
       "word": "韩剧恶鬼",
@@ -379,12 +555,60 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216130,
+      "num": 216130,
+      "word": "刘雅瑟竟然没成团",
+      "onboard_time": 1689987153,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212565,
+      "num": 212565,
+      "word": "做网红真的需要勇气",
+      "onboard_time": 1689988831,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 211932,
+      "num": 211932,
+      "word": "张柏芝同款浓眉淡颜妆",
+      "onboard_time": 1689988654,
+      "rank": 36,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 208164,
       "num": 208164,
       "word": "马天宇晒鹿晗to签",
       "onboard_time": 1689946360,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208108,
+      "num": 208108,
+      "word": "中国足协技术部部长谭海被查",
+      "onboard_time": 1689989011,
+      "rank": 37,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 207248,
+      "num": 207248,
+      "word": "迪丽热巴的身材管理",
+      "onboard_time": 1689968653,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204849,
+      "num": 204849,
+      "word": "一种很新的家庭关系",
+      "onboard_time": 1689987869,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 202165,
@@ -411,6 +635,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191703,
+      "num": 191703,
+      "word": "网购一定要记得看清尺寸",
+      "onboard_time": 1689985709,
+      "rank": 44,
+      "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 188739,
+      "num": 188739,
+      "word": "杨玏版伯邑考",
+      "onboard_time": 1689989011,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188575,
+      "num": 188575,
+      "word": "梅西与詹姆斯拥抱",
+      "onboard_time": 1689988351,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177870,
       "num": 177870,
       "word": "回流生",
@@ -427,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176071,
-      "num": 160874,
-      "word": "迪丽热巴的身材管理",
-      "onboard_time": 1689968653,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 172787,
+      "num": 172787,
+      "word": "去新疆就连影子都长出了花",
+      "onboard_time": 1689985046,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 169627,
@@ -451,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167313,
+      "num": 167313,
+      "word": "孟宴臣开始创飞全世界",
+      "onboard_time": 1689963137,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150447,
       "num": 208141,
       "word": "广东人开始靠龙眼续命了",
@@ -465,14 +721,6 @@
       "onboard_time": 1689981982,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 146198,
-      "num": 136614,
-      "word": "肖战删了一句台词",
-      "onboard_time": 1689967574,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 142316,
@@ -513,22 +761,6 @@
       "onboard_time": 1689977775,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127414,
-      "num": 99804,
-      "word": "孟宴臣开始创飞全世界",
-      "onboard_time": 1689963137,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 127332,
-      "num": 99618,
-      "word": "时代少年团不参与TFBOYS十周年演唱会",
-      "onboard_time": 1689982163,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 126390,
@@ -619,7 +851,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29937,
+      "raw_hot": 34111,
       "num": 1177060,
       "word": "航天员出舱所有任务都是一次完成",
       "onboard_time": 1689939333,
