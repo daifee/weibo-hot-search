@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690006816846,
+  "endTime": 1690007625561,
   "band_list": [
     {
       "raw_hot": 2069727,
@@ -27,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1753951,
+      "num": 1753951,
+      "word": "公关什么呀公开得了",
+      "onboard_time": 1690005089,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1749785,
       "num": 1749785,
       "word": "宋焰说挤地铁会受伤的",
@@ -41,6 +49,14 @@
       "onboard_time": 1689996030,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1533753,
+      "num": 1212720,
+      "word": "孩子考了702分爸爸喝高兴了醉驾",
+      "onboard_time": 1690003951,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1465854,
@@ -84,19 +100,11 @@
     },
     {
       "raw_hot": 1353769,
-      "num": 339683,
+      "num": 433247,
       "word": "受精卵出逃钻进女子腹腔",
       "onboard_time": 1689982461,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1279820,
-      "num": 1279820,
-      "word": "公关什么呀公开得了",
-      "onboard_time": 1690005089,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1236014,
@@ -105,14 +113,6 @@
       "onboard_time": 1689998432,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1212720,
-      "num": 1212720,
-      "word": "孩子考了702分爸爸喝高兴了醉驾",
-      "onboard_time": 1690003951,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1165331,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1069384,
-      "num": 339694,
+      "num": 421449,
       "word": "江西一初中女生遭男生强奸杀害",
       "onboard_time": 1689994952,
       "rank": 21,
@@ -233,6 +233,14 @@
       "onboard_time": 1689942032,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 831940,
+      "num": 831940,
+      "word": "魏大勋爆火后播的第一个综艺",
+      "onboard_time": 1690006711,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 815941,
@@ -411,20 +419,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 575581,
+      "num": 575581,
+      "word": "魏大勋沙发奖励么么哒的原因",
+      "onboard_time": 1690004730,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566161,
       "num": 292128,
       "word": "莲花楼定档",
       "onboard_time": 1689950141,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 553193,
-      "num": 553193,
-      "word": "魏大勋沙发奖励么么哒的原因",
-      "onboard_time": 1690004730,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 549470,
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 530891,
-      "num": 223115,
+      "num": 493666,
       "word": "封神票房",
       "onboard_time": 1690004494,
       "rank": 15,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 520574,
-      "num": 222928,
+      "num": 498505,
       "word": "王一博公司年会花絮图",
       "onboard_time": 1690005392,
       "rank": 16,
@@ -487,14 +495,6 @@
       "num": 285617,
       "word": "谢娜 谢娜是一个很有争议的名字",
       "onboard_time": 1689946120,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 481962,
-      "num": 220889,
-      "word": "魏大勋爆火后播的第一个综艺",
-      "onboard_time": 1690006711,
       "rank": 22,
       "category": "综艺"
     },
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 410503,
-      "num": 410503,
+      "num": 455211,
       "word": "在超大特大城市积极稳步推进城中村改造",
       "onboard_time": 1689995550,
       "rank": 41,
@@ -619,12 +619,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385824,
+      "num": 385824,
+      "word": "长相思OST阵容",
+      "onboard_time": 1690006952,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371712,
       "num": 371712,
       "word": "中国足协技术部部长谭海被查",
       "onboard_time": 1689989011,
       "rank": 37,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 366006,
+      "num": 494234,
+      "word": "故宫现九龙吐水",
+      "onboard_time": 1690004671,
+      "rank": 13,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 365903,
@@ -683,20 +699,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 334937,
+      "num": 334937,
+      "word": "TFBOYS车站概念",
+      "onboard_time": 1690003472,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 332136,
       "num": 332136,
       "word": "西安调查组对3608名回流生信息逐一甄别",
       "onboard_time": 1689983907,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329505,
-      "num": 232818,
-      "word": "TFBOYS车站概念",
-      "onboard_time": 1690003472,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 320775,
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311965,
+      "num": 311965,
+      "word": "黄明昊连续两次被评S级",
+      "onboard_time": 1690005270,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305806,
       "num": 292652,
       "word": "杨玏版伯邑考",
@@ -737,14 +761,6 @@
       "onboard_time": 1689997891,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301991,
-      "num": 301991,
-      "word": "故宫现九龙吐水",
-      "onboard_time": 1690004671,
-      "rank": 13,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 298032,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 271930,
-      "num": 339695,
+      "num": 444055,
       "word": "当你喝咖啡时偶遇张元英",
       "onboard_time": 1689998971,
       "rank": 43,
@@ -871,14 +887,6 @@
       "num": 269873,
       "word": "彭昱畅在29岁多拍戏的原因",
       "onboard_time": 1689996511,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 267991,
-      "num": 218014,
-      "word": "黄明昊连续两次被评S级",
-      "onboard_time": 1690005270,
       "rank": 30,
       "category": "综艺"
     },
@@ -931,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245991,
+      "num": 245991,
+      "word": "TFBOYS西安演唱会宣传力度",
+      "onboard_time": 1690003171,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241680,
       "num": 211296,
       "word": "娜然",
@@ -939,20 +955,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239872,
-      "num": 239872,
-      "word": "TFBOYS西安演唱会宣传力度",
-      "onboard_time": 1690003171,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 237741,
       "num": 284795,
       "word": "江苏浙江连发85条预警",
       "onboard_time": 1689953616,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237158,
+      "num": 237158,
+      "word": "芭比豆瓣差评大展",
+      "onboard_time": 1690006711,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 235674,
@@ -1043,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223293,
+      "num": 223293,
+      "word": "卡琳娜cos卡芙卡",
+      "onboard_time": 1690007312,
+      "rank": 40,
+      "category": "网红,时尚"
+    },
+    {
       "raw_hot": 222423,
       "num": 222423,
       "word": "韩剧恶鬼",
@@ -1083,6 +1107,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 210835,
+      "num": 256296,
+      "word": "给修空调的师傅煮了一碗饺子",
+      "onboard_time": 1690006650,
+      "rank": 46,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 208164,
       "num": 208164,
       "word": "马天宇晒鹿晗to签",
@@ -1115,6 +1147,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 203099,
+      "num": 203099,
+      "word": "TF家族三代演唱会",
+      "onboard_time": 1690007611,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202165,
       "num": 301472,
       "word": "猫咪不小心舔到驱虫药后失明",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1689940714,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200313,
+      "num": 200313,
+      "word": "郑希怡被评S级",
+      "onboard_time": 1690007551,
+      "rank": 43,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 195976,
@@ -1164,19 +1212,11 @@
     },
     {
       "raw_hot": 187470,
-      "num": 218173,
+      "num": 239402,
       "word": "两人一狗可以这样打羽毛球",
       "onboard_time": 1690004430,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183475,
-      "num": 210741,
-      "word": "芭比豆瓣差评大展",
-      "onboard_time": 1690006711,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 183342,
@@ -1259,6 +1299,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156821,
+      "num": 223324,
+      "word": "为什么有的人耳朵上有这个",
+      "onboard_time": 1690004311,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 155554,
+      "num": 223296,
+      "word": "北京暴雨中的故宫",
+      "onboard_time": 1690006294,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 150447,
       "num": 208141,
       "word": "广东人开始靠龙眼续命了",
@@ -1273,14 +1329,6 @@
       "onboard_time": 1689981982,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 148099,
-      "num": 216679,
-      "word": "北京暴雨中的故宫",
-      "onboard_time": 1690006294,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 142316,
@@ -1355,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122658,
-      "num": 210631,
-      "word": "给修空调的师傅煮了一碗饺子",
-      "onboard_time": 1690006650,
-      "rank": 46,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 116451,
       "num": 207968,
       "word": "NIP战胜RNG",
@@ -1379,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113742,
-      "num": 210596,
-      "word": "为什么有的人耳朵上有这个",
-      "onboard_time": 1690004311,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104101,
       "num": 207922,
       "word": "老人将15万现金当废品卖了8元",
@@ -1401,6 +1433,22 @@
       "onboard_time": 1689955773,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 102675,
+      "num": 307125,
+      "word": "老人索降瞬间失手掉到二楼平台",
+      "onboard_time": 1690007074,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99479,
+      "num": 197612,
+      "word": "路飞五档动画",
+      "onboard_time": 1690006892,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 92981,
@@ -1443,20 +1491,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45729,
+      "num": 1530648,
+      "word": "神十六出舱任务精彩回顾",
+      "onboard_time": 1690002511,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44775,
       "num": 282469,
       "word": "中国队花游集体自由自选摘金",
       "onboard_time": 1689941976,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41116,
-      "num": 1288289,
-      "word": "神十六出舱任务精彩回顾",
-      "onboard_time": 1690002511,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34111,
