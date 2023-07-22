@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690025617855,
+  "endTime": 1690029065089,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2883,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1860423,
+      "num": 1860423,
+      "word": "姐姐5千的学费他学了4千5",
+      "onboard_time": 1690025730,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1858705,
       "num": 1858705,
       "word": "大鹏全麻前最后一瞬遭遇暴击",
@@ -3273,6 +3281,14 @@
       "onboard_time": 1688739165,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1771986,
+      "num": 900333,
+      "word": "林靖恩",
+      "onboard_time": 1690025970,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1769551,
@@ -4668,7 +4684,7 @@
     },
     {
       "raw_hot": 1422723,
-      "num": 558844,
+      "num": 616101,
       "word": "TFBOYS来西安都没地方住",
       "onboard_time": 1690019192,
       "rank": 10,
@@ -8187,6 +8203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 979686,
+      "num": 899070,
+      "word": "封神终于不再甩锅女性",
+      "onboard_time": 1690026031,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 979231,
       "num": 979231,
       "word": "杨洋追杨迪摔了一跤",
@@ -8891,6 +8915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 925867,
+      "num": 623369,
+      "word": "张小斐白色丝绸吊带",
+      "onboard_time": 1690024769,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 923895,
       "num": 923895,
       "word": "芈月宝格丽新皮肤",
@@ -8937,6 +8969,14 @@
       "onboard_time": 1688432674,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919842,
+      "num": 919842,
+      "word": "中国女足vs丹麦队",
+      "onboard_time": 1690025368,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 919392,
@@ -9604,7 +9644,7 @@
     },
     {
       "raw_hot": 882946,
-      "num": 352067,
+      "num": 403114,
       "word": "外卖员自拍2次裤裆拔毛放入餐食",
       "onboard_time": 1690023930,
       "rank": 20,
@@ -9657,6 +9697,14 @@
       "onboard_time": 1689584853,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 880446,
+      "num": 880446,
+      "word": "乐华家族演唱会",
+      "onboard_time": 1690024288,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 880352,
@@ -9744,6 +9792,14 @@
       "word": "迪丽热巴在高铁上看书",
       "onboard_time": 1690004550,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 876012,
+      "num": 622670,
+      "word": "刘畊宏女儿近照",
+      "onboard_time": 1690024350,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -11313,6 +11369,14 @@
       "onboard_time": 1689068977,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 799081,
+      "num": 799081,
+      "word": "顺丰回应被指寄丢38万劳力士",
+      "onboard_time": 1690026271,
+      "rank": 7,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 798902,
@@ -13985,6 +14049,14 @@
       "onboard_time": 1689480334,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 675748,
+      "num": 675748,
+      "word": "实习才是大学生的托管所",
+      "onboard_time": 1690024950,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 675298,
@@ -18675,6 +18747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535865,
+      "num": 535865,
+      "word": "确诊恐6症",
+      "onboard_time": 1690025672,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 535477,
       "num": 512864,
       "word": "只有白敬亭觉得虐吧",
@@ -19209,14 +19289,6 @@
       "onboard_time": 1689330695,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 520575,
-      "num": 496554,
-      "word": "刘畊宏女儿近照",
-      "onboard_time": 1690024350,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 520574,
@@ -20603,6 +20675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488281,
+      "num": 488281,
+      "word": "乐华 无感",
+      "onboard_time": 1690028731,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 488182,
       "num": 488182,
       "word": "关晓彤范丞丞请二搭",
@@ -21297,6 +21377,14 @@
       "onboard_time": 1689562228,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472549,
+      "num": 472549,
+      "word": "刘宇宁被迪丽热巴盯紧张了",
+      "onboard_time": 1690025130,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 472510,
@@ -22481,6 +22569,14 @@
       "onboard_time": 1689130892,
       "rank": 37,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 449778,
+      "num": 449778,
+      "word": "微店",
+      "onboard_time": 1690026271,
+      "rank": 17,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 449497,
@@ -24883,6 +24979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 406761,
+      "num": 406761,
+      "word": "OMG对战EDG",
+      "onboard_time": 1689255514,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 406740,
       "num": 406740,
       "word": "把玉骨遥第八集搬进了婚礼现场",
@@ -25587,6 +25691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396090,
+      "num": 396090,
+      "word": "女足世界杯",
+      "onboard_time": 1689829479,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 396072,
       "num": 396072,
       "word": "DIOR大秀嘉宾",
@@ -25697,14 +25809,6 @@
       "onboard_time": 1688518412,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394797,
-      "num": 394797,
-      "word": "张小斐白色丝绸吊带",
-      "onboard_time": 1690024769,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 394750,
@@ -26777,14 +26881,6 @@
       "onboard_time": 1689515916,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 377270,
-      "num": 352059,
-      "word": "乐华家族演唱会",
-      "onboard_time": 1690024288,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 377088,
@@ -28537,14 +28633,6 @@
       "onboard_time": 1689583352,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352071,
-      "num": 352071,
-      "word": "OMG对战EDG",
-      "onboard_time": 1689255514,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 351957,
@@ -30795,6 +30883,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 320212,
+      "num": 320212,
+      "word": "杨迪说魏大勋老来得粉",
+      "onboard_time": 1690028613,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320166,
       "num": 348247,
       "word": "温网",
@@ -31017,14 +31113,6 @@
       "onboard_time": 1688650835,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 316980,
-      "num": 267348,
-      "word": "刘宇宁被迪丽热巴盯紧张了",
-      "onboard_time": 1690025130,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 316861,
@@ -31641,6 +31729,14 @@
       "onboard_time": 1689577770,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309763,
+      "num": 309763,
+      "word": "大熊猫不配合擦药被奶爸弹脑袋",
+      "onboard_time": 1690024650,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309745,
@@ -34419,6 +34515,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 281878,
+      "num": 281878,
+      "word": "买了房亲戚家的孩子想挂在名下",
+      "onboard_time": 1690025791,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281861,
       "num": 281861,
       "word": "火影忍者新作动画",
@@ -35563,6 +35667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271009,
+      "num": 271009,
+      "word": "21岁小伙因撑伞羞耻被中度晒伤",
+      "onboard_time": 1690028493,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270964,
       "num": 270964,
       "word": "张颜齐打游戏偶遇王一博",
@@ -35633,6 +35745,14 @@
       "onboard_time": 1689229772,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270530,
+      "num": 270530,
+      "word": "大学同学的妈妈突然找我求助",
+      "onboard_time": 1690027471,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 270429,
@@ -36409,6 +36529,14 @@
       "onboard_time": 1689485014,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261997,
+      "num": 261997,
+      "word": "在宿舍听到最劲爆的八卦",
+      "onboard_time": 1690025910,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 261986,
@@ -38523,6 +38651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242658,
+      "num": 242658,
+      "word": "起猛了全班17人考上了清华",
+      "onboard_time": 1690028731,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 242654,
       "num": 213195,
       "word": "王勉送鹿晗的花篮",
@@ -38833,6 +38969,14 @@
       "onboard_time": 1689581132,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240127,
+      "num": 240127,
+      "word": "为什么身上总是有淤青",
+      "onboard_time": 1690026752,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 240078,
@@ -39587,6 +39731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233478,
+      "num": 233478,
+      "word": "杨紫有两首OST",
+      "onboard_time": 1690027172,
+      "rank": 37,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 233440,
       "num": 233440,
       "word": "dino认证dino汉堡",
@@ -39697,14 +39849,6 @@
       "onboard_time": 1688808692,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232617,
-      "num": 232617,
-      "word": "女足世界杯",
-      "onboard_time": 1689829479,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 232541,
@@ -40811,6 +40955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223210,
+      "num": 223210,
+      "word": "汪苏泷南京演唱会",
+      "onboard_time": 1690028071,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223203,
       "num": 223203,
       "word": "被香港的辣度细分惊了",
@@ -41033,6 +41185,14 @@
       "onboard_time": 1689602253,
       "rank": 39,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 221218,
+      "num": 221218,
+      "word": "减脂人的冰箱能有多清爽",
+      "onboard_time": 1690028311,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 221176,
@@ -43867,14 +44027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201234,
-      "num": 201234,
-      "word": "实习才是大学生的托管所",
-      "onboard_time": 1690024950,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201222,
       "num": 201222,
       "word": "特效鱼饵是真实存在的吗",
@@ -44201,6 +44353,14 @@
       "onboard_time": 1688348131,
       "rank": 36,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 198803,
+      "num": 198803,
+      "word": "绝意黄忠",
+      "onboard_time": 1690028552,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 198787,
@@ -45771,6 +45931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 189104,
+      "num": 189104,
+      "word": "中国女足vs丹麦女足首发",
+      "onboard_time": 1690026752,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189101,
       "num": 202830,
       "word": "林高远3比2马龙",
@@ -46225,14 +46393,6 @@
       "onboard_time": 1688884468,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185066,
-      "num": 185066,
-      "word": "中国女足vs丹麦队",
-      "onboard_time": 1690025368,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 185013,
@@ -47817,14 +47977,6 @@
       "onboard_time": 1688430998,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 169740,
-      "num": 169740,
-      "word": "大熊猫不配合擦药被奶爸弹脑袋",
-      "onboard_time": 1690024650,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169668,
@@ -52667,6 +52819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45911,
+      "num": 915196,
+      "word": "成都大运村今天开村",
+      "onboard_time": 1690013312,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45729,
       "num": 1530648,
       "word": "神十六出舱任务精彩回顾",
@@ -53305,6 +53465,14 @@
       "onboard_time": 1688963741,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20030,
+      "num": 225287,
+      "word": "快手直播2023盛夏巅峰之夜燃爆了",
+      "onboard_time": 1690027229,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 19992,
