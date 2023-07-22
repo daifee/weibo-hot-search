@@ -1,0 +1,410 @@
+{
+  "runTime": 1689995833103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1629429,
+        "num": 1629429,
+        "word": "妈妈拆开快递竟是女儿通知书心疼得哭了",
+        "onboard_time": 1689983186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1615585,
+        "num": 1615585,
+        "word": "宋焰说挤地铁会受伤的",
+        "onboard_time": 1689985889,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10385,
+        "num": 1406567,
+        "word": "航天员出舱所有任务都是一次完成",
+        "onboard_time": 1689939333,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1382034,
+        "num": 1382034,
+        "word": "TFBOYS演唱会主视觉公开",
+        "onboard_time": 1689992131,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 963852,
+        "num": 963852,
+        "word": "梅西任意球绝杀",
+        "onboard_time": 1689992491,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 815941,
+        "num": 815941,
+        "word": "莲花楼全员上楼",
+        "onboard_time": 1689993389,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 688740,
+        "num": 688740,
+        "word": "教科书里的女生原来是她",
+        "onboard_time": 1689990273,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 679690,
+        "num": 679690,
+        "word": "黄磊对谭松韵说我们也没法说欢迎你再来",
+        "onboard_time": 1689987271,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674314,
+        "num": 674314,
+        "word": "高铁坐过站可以免费坐回去",
+        "onboard_time": 1689984630,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 625455,
+        "num": 625455,
+        "word": "张杰 喜欢你的人会很喜欢你就像我",
+        "onboard_time": 1689989971,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776614,
+        "num": 576071,
+        "word": "郭碧婷带儿女给向佐庆生",
+        "onboard_time": 1689993449,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523361,
+        "num": 523361,
+        "word": "魏大勋张翰张彬彬爆笑两分半",
+        "onboard_time": 1689987752,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497262,
+        "num": 497262,
+        "word": "迪丽热巴出发长沙",
+        "onboard_time": 1689992791,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412244,
+        "num": 412244,
+        "word": "西安对造假中考生取消录取",
+        "onboard_time": 1689986732,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 357539,
+        "num": 357539,
+        "word": "太阳系有多诡异",
+        "onboard_time": 1689987451,
+        "rank": 14,
+        "category": "自然,科技"
+      },
+      {
+        "raw_hot": 486186,
+        "num": 353603,
+        "word": "美依礼芽告白刘惜君",
+        "onboard_time": 1689994110,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468482,
+        "num": 320912,
+        "word": "时代少年团不参与TFBOYS十周年演唱会",
+        "onboard_time": 1689982163,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287368,
+        "num": 287368,
+        "word": "美方制裁1300多家中企",
+        "onboard_time": 1689983063,
+        "rank": 17,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 253373,
+        "num": 253373,
+        "word": "梅西与詹姆斯拥抱",
+        "onboard_time": 1689988351,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194340,
+        "num": 252148,
+        "word": "出租屋7岁钢琴神童获省级金奖老师送钢琴",
+        "onboard_time": 1689986370,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 984998,
+        "num": 249598,
+        "word": "受精卵出逃钻进女子腹腔",
+        "onboard_time": 1689982461,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855967,
+        "num": 248682,
+        "word": "江西一初中女生遭男生强奸杀害",
+        "onboard_time": 1689994952,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795613,
+        "num": 245951,
+        "word": "原来暗示分手的才不是那根断了的手链",
+        "onboard_time": 1689989371,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135218,
+        "num": 244244,
+        "word": "拍照如何更出片",
+        "onboard_time": 1689993634,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397850,
+        "num": 242978,
+        "word": "沈梦辰把湘西腊肉挂到布达佩斯来了",
+        "onboard_time": 1689989791,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312367,
+        "num": 239032,
+        "word": "我的老师28岁上大学48岁读博",
+        "onboard_time": 1689994952,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294810,
+        "num": 238426,
+        "word": "李莎旻子邀请所有姐姐去她家吃饭",
+        "onboard_time": 1689990332,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272931,
+        "num": 234934,
+        "word": "失手把狗狗照片发进工作群",
+        "onboard_time": 1689985408,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234691,
+        "num": 234691,
+        "word": "回家看到水漫金山已经很头疼了",
+        "onboard_time": 1689991234,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 233648,
+        "num": 233648,
+        "word": "Angelababy告别奔跑吧",
+        "onboard_time": 1689941798,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230614,
+        "num": 230614,
+        "word": "一口气煮了40多天的米饭",
+        "onboard_time": 1689985649,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229901,
+        "num": 229901,
+        "word": "酒吧违规接待致未成年人被性侵",
+        "onboard_time": 1689982883,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228698,
+        "num": 228698,
+        "word": "杨颖问儿子在学校有没有人追你",
+        "onboard_time": 1689952178,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220316,
+        "num": 220316,
+        "word": "封神",
+        "onboard_time": 1689991891,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215049,
+        "num": 215049,
+        "word": "做网红真的需要勇气",
+        "onboard_time": 1689988831,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 200599,
+        "num": 200599,
+        "word": "彭昱畅想见胡歌迪丽热巴",
+        "onboard_time": 1689987091,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186843,
+        "num": 186843,
+        "word": "梅西上场",
+        "onboard_time": 1689990453,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184713,
+        "num": 184713,
+        "word": "严浩翔高会",
+        "onboard_time": 1689987510,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181635,
+        "num": 181635,
+        "word": "爸爸给我买的玩具转动了十五年",
+        "onboard_time": 1689992791,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 178072,
+        "num": 178072,
+        "word": "莲花楼定档",
+        "onboard_time": 1689950141,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172106,
+        "num": 172106,
+        "word": "杨玏版伯邑考",
+        "onboard_time": 1689989011,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171471,
+        "num": 171471,
+        "word": "在超大特大城市积极稳步推进城中村改造",
+        "onboard_time": 1689995550,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 169612,
+        "num": 169612,
+        "word": "西安警方控制13名为回流生提供服务人员",
+        "onboard_time": 1689981561,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168447,
+        "num": 168447,
+        "word": "Ella把C位让给了谢娜",
+        "onboard_time": 1689953915,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166988,
+        "num": 166988,
+        "word": "长安三万里",
+        "onboard_time": 1689994110,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161661,
+        "num": 161661,
+        "word": "安乐传追剧日历",
+        "onboard_time": 1689991593,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161653,
+        "num": 161653,
+        "word": "亲生的阿瑟都不能上桌许沁凭什么窒息",
+        "onboard_time": 1689956551,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147320,
+        "num": 147320,
+        "word": "詹姆斯观战梅西迈阿密首秀",
+        "onboard_time": 1689992371,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144784,
+        "num": 144784,
+        "word": "王俊凯王源易烊千玺转发十周年官宣微博",
+        "onboard_time": 1689946721,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140579,
+        "num": 140579,
+        "word": "谢娜 谢娜是一个很有争议的名字",
+        "onboard_time": 1689946120,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强耕地保护全力提升耕地质量#"
+    }
+  }
+}

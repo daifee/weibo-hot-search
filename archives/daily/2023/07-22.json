@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689993758662,
+  "endTime": 1689995833103,
   "band_list": [
     {
       "raw_hot": 2069727,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1382034,
+      "num": 1382034,
+      "word": "TFBOYS演唱会主视觉公开",
+      "onboard_time": 1689992131,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1381882,
       "num": 1381882,
       "word": "梅西任意球绝杀",
@@ -49,14 +57,6 @@
       "onboard_time": 1689982461,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1226878,
-      "num": 1226878,
-      "word": "TFBOYS演唱会主视觉公开",
-      "onboard_time": 1689992131,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 1165331,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 855967,
+      "num": 248682,
+      "word": "江西一初中女生遭男生强奸杀害",
+      "onboard_time": 1689994952,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837569,
       "num": 713615,
       "word": "TFBOYS演唱会官宣",
@@ -139,12 +147,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 815941,
+      "num": 815941,
+      "word": "莲花楼全员上楼",
+      "onboard_time": 1689993389,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 809690,
       "num": 809690,
       "word": "西安警方控制13名为回流生提供服务人员",
       "onboard_time": 1689981561,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776614,
+      "num": 576071,
+      "word": "郭碧婷带儿女给向佐庆生",
+      "onboard_time": 1689993449,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 767728,
@@ -187,8 +211,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 680446,
-      "num": 588808,
+      "raw_hot": 688740,
+      "num": 688740,
       "word": "教科书里的女生原来是她",
       "onboard_time": 1689990273,
       "rank": 32,
@@ -307,6 +331,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 497262,
+      "num": 497262,
+      "word": "迪丽热巴出发长沙",
+      "onboard_time": 1689992791,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 486186,
+      "num": 353603,
+      "word": "美依礼芽告白刘惜君",
+      "onboard_time": 1689994110,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482480,
       "num": 285617,
       "word": "谢娜 谢娜是一个很有争议的名字",
@@ -387,14 +427,6 @@
       "category": "国内要闻,财经"
     },
     {
-      "raw_hot": 412254,
-      "num": 412254,
-      "word": "迪丽热巴出发长沙",
-      "onboard_time": 1689992791,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 401542,
       "num": 283526,
       "word": "TFBOYS演唱会今天官宣的原因",
@@ -473,6 +505,14 @@
       "onboard_time": 1689982883,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312367,
+      "num": 239032,
+      "word": "我的老师28岁上大学48岁读博",
+      "onboard_time": 1689994952,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 305806,
@@ -579,14 +619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 264969,
-      "num": 264969,
-      "word": "莲花楼全员上楼",
-      "onboard_time": 1689993389,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261121,
       "num": 637151,
       "word": "机器人给头颅8厘米早产儿做脑手术",
@@ -611,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248955,
-      "num": 248955,
-      "word": "郭碧婷带儿女给向佐庆生",
-      "onboard_time": 1689993449,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248044,
       "num": 248044,
       "word": "河南一个村宛如活在武侠世界",
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 245444,
-      "num": 245444,
+      "num": 252148,
       "word": "出租屋7岁钢琴神童获省级金奖老师送钢琴",
       "onboard_time": 1689986370,
       "rank": 27,
@@ -739,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220316,
+      "num": 220316,
+      "word": "封神",
+      "onboard_time": 1689991891,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216130,
       "num": 216130,
       "word": "刘雅瑟竟然没成团",
@@ -819,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184202,
-      "num": 184202,
-      "word": "封神",
-      "onboard_time": 1689991891,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 177870,
       "num": 177870,
       "word": "回流生",
@@ -851,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171471,
+      "num": 171471,
+      "word": "在超大特大城市积极稳步推进城中村改造",
+      "onboard_time": 1689995550,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 169627,
       "num": 156595,
       "word": "TFBOYS那些官宣里的小细节",
@@ -872,6 +904,14 @@
       "word": "孟宴臣开始创飞全世界",
       "onboard_time": 1689963137,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 166988,
+      "num": 166988,
+      "word": "长安三万里",
+      "onboard_time": 1689994110,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -921,6 +961,14 @@
       "onboard_time": 1689980599,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135218,
+      "num": 244244,
+      "word": "拍照如何更出片",
+      "onboard_time": 1689993634,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127506,
@@ -1011,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61635,
-      "num": 156952,
-      "word": "拍照如何更出片",
-      "onboard_time": 1689993634,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44775,
       "num": 282469,
       "word": "中国队花游集体自由自选摘金",
@@ -1028,7 +1068,7 @@
     },
     {
       "raw_hot": 34111,
-      "num": 1396038,
+      "num": 1406567,
       "word": "航天员出舱所有任务都是一次完成",
       "onboard_time": 1689939333,
       "rank": 2,
