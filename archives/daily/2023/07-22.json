@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1689996836725,
+  "endTime": 1689999583528,
   "band_list": [
     {
       "raw_hot": 2069727,
@@ -16,6 +16,14 @@
       "word": "宋焰说挤地铁会受伤的",
       "onboard_time": 1689985889,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1577248,
+      "num": 1577248,
+      "word": "杨紫林更新或将8月补拍青簪行",
+      "onboard_time": 1689996030,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1069384,
-      "num": 268900,
+      "num": 270857,
       "word": "江西一初中女生遭男生强奸杀害",
       "onboard_time": 1689994952,
       "rank": 21,
@@ -139,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 840828,
+      "num": 804653,
+      "word": "粉丝还是让TFBOYS贴贴了",
+      "onboard_time": 1689997771,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 837569,
       "num": 713615,
       "word": "TFBOYS演唱会官宣",
       "onboard_time": 1689942032,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 826064,
+      "num": 826064,
+      "word": "范丞丞姜珮瑶吻戏",
+      "onboard_time": 1689997352,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 815941,
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629040,
+      "num": 629040,
+      "word": "芭比",
+      "onboard_time": 1689998432,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 619863,
       "num": 305161,
       "word": "宋焰接许沁下班巷子都没出",
@@ -307,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 564840,
-      "num": 564840,
-      "word": "杨紫林更新或将8月补拍青簪行",
-      "onboard_time": 1689996030,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 549470,
       "num": 500784,
       "word": "TFBOYS官博改小尾巴",
@@ -352,6 +376,14 @@
       "word": "迪丽热巴出发长沙",
       "onboard_time": 1689992791,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 486074,
+      "num": 270568,
+      "word": "迪丽热巴跑着赶高铁",
+      "onboard_time": 1689996634,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -435,6 +467,14 @@
       "category": "国内要闻,财经"
     },
     {
+      "raw_hot": 410503,
+      "num": 410503,
+      "word": "在超大特大城市积极稳步推进城中村改造",
+      "onboard_time": 1689995550,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 401542,
       "num": 283526,
       "word": "TFBOYS演唱会今天官宣的原因",
@@ -457,6 +497,14 @@
       "onboard_time": 1689989011,
       "rank": 37,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 370640,
+      "num": 250640,
+      "word": "在泌尿科时上班令我印象最深的一件事",
+      "onboard_time": 1689995911,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 357595,
@@ -491,12 +539,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 340678,
+      "num": 270523,
+      "word": "这些袜子的受众到底是谁",
+      "onboard_time": 1689998490,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 332136,
       "num": 332136,
       "word": "西安调查组对3608名回流生信息逐一甄别",
       "onboard_time": 1689983907,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323862,
+      "num": 323862,
+      "word": "美国女足3比0越南女足",
+      "onboard_time": 1689998191,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 320775,
@@ -528,6 +592,14 @@
       "word": "杨玏版伯邑考",
       "onboard_time": 1689989011,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 305349,
+      "num": 270070,
+      "word": "徐主任说许沁自负",
+      "onboard_time": 1689997891,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -627,12 +699,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 268917,
-      "num": 268917,
+      "raw_hot": 270945,
+      "num": 270945,
       "word": "出租屋7岁钢琴神童获省级金奖老师送钢琴",
       "onboard_time": 1689986370,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 269873,
+      "num": 269873,
+      "word": "彭昱畅在29岁多拍戏的原因",
+      "onboard_time": 1689996511,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 263868,
@@ -755,20 +835,28 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 227124,
-      "num": 214054,
-      "word": "彭昱畅在29岁多拍戏的原因",
-      "onboard_time": 1689996511,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226011,
       "num": 226011,
       "word": "宋轶再给自己配音完全对得上",
       "onboard_time": 1689989252,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225946,
+      "num": 225946,
+      "word": "杨紫新剧荡秋千",
+      "onboard_time": 1689999031,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224968,
+      "num": 224968,
+      "word": "一个视频腿软了好几次",
+      "onboard_time": 1689998072,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222423,
@@ -819,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206088,
+      "num": 206088,
+      "word": "你能接受男士夏天打伞吗",
+      "onboard_time": 1689996269,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 204849,
       "num": 204849,
       "word": "一种很新的家庭关系",
@@ -843,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196377,
-      "num": 196377,
-      "word": "在超大特大城市积极稳步推进城中村改造",
-      "onboard_time": 1689995550,
-      "rank": 41,
-      "category": "国内要闻"
+      "raw_hot": 198064,
+      "num": 198064,
+      "word": "赵今麦齐刘海vs无刘海",
+      "onboard_time": 1689999212,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195976,
@@ -873,14 +969,6 @@
       "onboard_time": 1689993634,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187276,
-      "num": 196368,
-      "word": "迪丽热巴跑着赶高铁",
-      "onboard_time": 1689996634,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 177870,
@@ -939,12 +1027,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165282,
+      "num": 165282,
+      "word": "当你喝咖啡时偶遇张元英",
+      "onboard_time": 1689998971,
+      "rank": 43,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 164379,
+      "num": 164379,
+      "word": "广东同事办公室白灼菜心",
+      "onboard_time": 1689997771,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150447,
       "num": 208141,
       "word": "广东人开始靠龙眼续命了",
       "onboard_time": 1689953142,
       "rank": 44,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 148363,
+      "num": 148363,
+      "word": "河南三支一扶",
+      "onboard_time": 1689999512,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148258,
@@ -985,14 +1097,6 @@
       "onboard_time": 1689980599,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135891,
-      "num": 196281,
-      "word": "你能接受男士夏天打伞吗",
-      "onboard_time": 1689996269,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 135218,
