@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690000419627,
+  "endTime": 1690002917482,
   "band_list": [
     {
       "raw_hot": 2069727,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1236014,
+      "num": 1236014,
+      "word": "芭比",
+      "onboard_time": 1689998432,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1165331,
       "num": 1165331,
       "word": "黄磊对谭松韵说我们也没法说欢迎你再来",
@@ -83,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1093530,
+      "num": 1093530,
+      "word": "迪丽热巴跑着赶高铁",
+      "onboard_time": 1689996634,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1069384,
       "num": 322992,
       "word": "江西一初中女生遭男生强奸杀害",
@@ -97,6 +113,14 @@
       "onboard_time": 1689956551,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1003599,
+      "num": 1003599,
+      "word": "TheShy 茶百道",
+      "onboard_time": 1690001733,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 977378,
@@ -155,19 +179,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 876528,
-      "num": 876528,
-      "word": "芭比",
-      "onboard_time": 1689998432,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 865463,
       "num": 865463,
       "word": "范丞丞姜珮瑶吻戏",
       "onboard_time": 1689997352,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 843984,
+      "num": 843984,
+      "word": "我的人间烟火结局走向",
+      "onboard_time": 1690000834,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1689981561,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800908,
+      "num": 439551,
+      "word": "许沁一点都不傻",
+      "onboard_time": 1689999752,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 782679,
@@ -249,6 +281,14 @@
       "onboard_time": 1689990273,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 675233,
+      "num": 427485,
+      "word": "安乐传太后撤回太子妃",
+      "onboard_time": 1689999992,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 647318,
@@ -376,14 +416,6 @@
       "word": "迪丽热巴出发长沙",
       "onboard_time": 1689992791,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 486074,
-      "num": 420875,
-      "word": "迪丽热巴跑着赶高铁",
-      "onboard_time": 1689996634,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -529,6 +561,14 @@
       "onboard_time": 1689998490,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 362327,
+      "num": 362327,
+      "word": "韩国500赛陈雨菲无缘决赛",
+      "onboard_time": 1690001132,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 357595,
@@ -699,6 +739,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 271930,
+      "num": 271930,
+      "word": "当你喝咖啡时偶遇张元英",
+      "onboard_time": 1689998971,
+      "rank": 43,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 271839,
       "num": 288127,
       "word": "中建五局一项目经理工作群辱骂员工",
@@ -787,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237496,
-      "num": 237496,
-      "word": "当你喝咖啡时偶遇张元英",
-      "onboard_time": 1689998971,
-      "rank": 43,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 235674,
       "num": 235674,
       "word": "圆明园幸存的古莲开花了",
@@ -851,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229960,
-      "num": 229960,
-      "word": "安乐传太后撤回太子妃",
-      "onboard_time": 1689999992,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 228056,
       "num": 228056,
       "word": "爸爸给我买的玩具转动了十五年",
@@ -897,6 +929,14 @@
       "onboard_time": 1689946782,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220744,
+      "num": 220744,
+      "word": "郭帆曾探班封神",
+      "onboard_time": 1690001973,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 216130,
@@ -979,6 +1019,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 189168,
+      "num": 220728,
+      "word": "海贼王真人版正式预告",
+      "onboard_time": 1690002153,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 187702,
       "num": 187702,
       "word": "迈阿密国际2比1蓝十字",
@@ -993,6 +1041,14 @@
       "onboard_time": 1689999633,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180874,
+      "num": 220701,
+      "word": "战至巅峰2封神之战",
+      "onboard_time": 1690001251,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 177870,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1689985046,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171128,
+      "num": 220664,
+      "word": "TFBOYS合体谁最开心",
+      "onboard_time": 1690002751,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 169627,
@@ -1155,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116199,
+      "num": 220590,
+      "word": "王者荣耀夏日妄想",
+      "onboard_time": 1690002871,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104101,
       "num": 207922,
       "word": "老人将15万现金当废品卖了8元",
@@ -1241,6 +1313,14 @@
       "onboard_time": 1689975191,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 17831,
+      "num": 1132002,
+      "word": "神十六出舱任务精彩回顾",
+      "onboard_time": 1690002511,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

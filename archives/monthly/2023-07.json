@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690000419627,
+  "endTime": 1690002917482,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5523,6 +5523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1236014,
+      "num": 1236014,
+      "word": "芭比",
+      "onboard_time": 1688465738,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1235768,
       "num": 1444772,
       "word": "女子来月经店员帮买卫生巾拿新裤子",
@@ -6787,6 +6795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1093530,
+      "num": 1093530,
+      "word": "迪丽热巴跑着赶高铁",
+      "onboard_time": 1689996634,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1093513,
       "num": 598385,
       "word": "奔跑吧下期预告呢",
@@ -7729,6 +7745,14 @@
       "onboard_time": 1689322235,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1003599,
+      "num": 1003599,
+      "word": "TheShy 茶百道",
+      "onboard_time": 1690001733,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1003504,
@@ -9603,14 +9627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 876528,
-      "num": 876528,
-      "word": "芭比",
-      "onboard_time": 1688465738,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 875309,
       "num": 875309,
       "word": "宣传部回应男子幼儿园行凶致6死1伤",
@@ -10233,6 +10249,14 @@
       "onboard_time": 1689325291,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 843984,
+      "num": 843984,
+      "word": "我的人间烟火结局走向",
+      "onboard_time": 1690000834,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 843735,
@@ -11137,6 +11161,14 @@
       "onboard_time": 1689153636,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800908,
+      "num": 439551,
+      "word": "许沁一点都不傻",
+      "onboard_time": 1689999752,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 800638,
@@ -13785,6 +13817,14 @@
       "onboard_time": 1688975193,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 675233,
+      "num": 427485,
+      "word": "安乐传太后撤回太子妃",
+      "onboard_time": 1689999992,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 675157,
@@ -20353,14 +20393,6 @@
       "onboard_time": 1689222217,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 486074,
-      "num": 420875,
-      "word": "迪丽热巴跑着赶高铁",
-      "onboard_time": 1689996634,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 486042,
@@ -27217,6 +27249,14 @@
       "onboard_time": 1689510212,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 362327,
+      "num": 362327,
+      "word": "韩国500赛陈雨菲无缘决赛",
+      "onboard_time": 1690001132,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 362211,
@@ -34803,6 +34843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271930,
+      "num": 271930,
+      "word": "当你喝咖啡时偶遇张元英",
+      "onboard_time": 1689998971,
+      "rank": 43,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 271640,
       "num": 271640,
       "word": "存钱是真的会上瘾",
@@ -38371,14 +38419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237496,
-      "num": 237496,
-      "word": "当你喝咖啡时偶遇张元英",
-      "onboard_time": 1689998971,
-      "rank": 43,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 237430,
       "num": 213571,
       "word": "王源你的名字送给毕业生",
@@ -39193,14 +39233,6 @@
       "onboard_time": 1688221237,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229960,
-      "num": 229960,
-      "word": "安乐传太后撤回太子妃",
-      "onboard_time": 1689999992,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 229936,
@@ -40320,6 +40352,14 @@
       "word": "欢颜今日开播",
       "onboard_time": 1689388109,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220744,
+      "num": 220744,
+      "word": "郭帆曾探班封神",
+      "onboard_time": 1690001973,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -44915,6 +44955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189168,
+      "num": 220728,
+      "word": "海贼王真人版正式预告",
+      "onboard_time": 1690002153,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189101,
       "num": 202830,
       "word": "林高远3比2马龙",
@@ -45761,6 +45809,14 @@
       "onboard_time": 1689244292,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180874,
+      "num": 220701,
+      "word": "战至巅峰2封神之战",
+      "onboard_time": 1690001251,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 180711,
@@ -46817,6 +46873,14 @@
       "onboard_time": 1689503793,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171128,
+      "num": 220664,
+      "word": "TFBOYS合体谁最开心",
+      "onboard_time": 1690002751,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 170898,
@@ -49747,6 +49811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116199,
+      "num": 220590,
+      "word": "王者荣耀夏日妄想",
+      "onboard_time": 1690002871,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115967,
       "num": 115967,
       "word": "浙江卫视节目单奔跑吧泰国篇",
@@ -52304,6 +52376,14 @@
       "word": "当事游客回应发视频表扬导游",
       "onboard_time": 1688245453,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17831,
+      "num": 1132002,
+      "word": "神十六出舱任务精彩回顾",
+      "onboard_time": 1690002511,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

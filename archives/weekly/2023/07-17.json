@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690000419627,
+  "endTime": 1690002917482,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -1275,6 +1275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1236014,
+      "num": 1236014,
+      "word": "芭比",
+      "onboard_time": 1689729211,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1234808,
       "num": 456926,
       "word": "丈夫给妻子10元认为能买很多菜",
@@ -1603,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1093530,
+      "num": 1093530,
+      "word": "迪丽热巴跑着赶高铁",
+      "onboard_time": 1689996634,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1093474,
       "num": 1093474,
       "word": "刘奕君林允新剧侵犯案真相",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1689826116,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1003599,
+      "num": 1003599,
+      "word": "TheShy 茶百道",
+      "onboard_time": 1690001733,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1001509,
@@ -2331,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 876528,
-      "num": 876528,
-      "word": "芭比",
-      "onboard_time": 1689729211,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 875008,
       "num": 875008,
       "word": "金泰亨 卡地亚",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1689740136,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 843984,
+      "num": 843984,
+      "word": "我的人间烟火结局走向",
+      "onboard_time": 1690000834,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 843372,
@@ -2785,6 +2809,14 @@
       "onboard_time": 1689650971,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 800908,
+      "num": 439551,
+      "word": "许沁一点都不傻",
+      "onboard_time": 1689999752,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 798763,
@@ -3472,6 +3504,14 @@
       "word": "秦川家破产",
       "onboard_time": 1689598172,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 675233,
+      "num": 427485,
+      "word": "安乐传太后撤回太子妃",
+      "onboard_time": 1689999992,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -5184,14 +5224,6 @@
       "word": "法老直播",
       "onboard_time": 1689852091,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 486074,
-      "num": 420875,
-      "word": "迪丽热巴跑着赶高铁",
-      "onboard_time": 1689996634,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -6921,6 +6953,14 @@
       "onboard_time": 1689849871,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362327,
+      "num": 362327,
+      "word": "韩国500赛陈雨菲无缘决赛",
+      "onboard_time": 1690001132,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 361907,
@@ -8923,6 +8963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271930,
+      "num": 271930,
+      "word": "当你喝咖啡时偶遇张元英",
+      "onboard_time": 1689998971,
+      "rank": 43,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 271376,
       "num": 347504,
       "word": "原来challenge起源是EXO",
@@ -9715,14 +9763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237496,
-      "num": 237496,
-      "word": "当你喝咖啡时偶遇张元英",
-      "onboard_time": 1689998971,
-      "rank": 43,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 237160,
       "num": 237160,
       "word": "心动的信号",
@@ -9995,14 +10035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229960,
-      "num": 229960,
-      "word": "安乐传太后撤回太子妃",
-      "onboard_time": 1689999992,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 228801,
       "num": 329097,
       "word": "NCTDREAM新歌空降",
@@ -10241,6 +10273,14 @@
       "onboard_time": 1689602253,
       "rank": 39,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 220744,
+      "num": 220744,
+      "word": "郭帆曾探班封神",
+      "onboard_time": 1690001973,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 220500,
@@ -11435,6 +11475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189168,
+      "num": 220728,
+      "word": "海贼王真人版正式预告",
+      "onboard_time": 1690002153,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189101,
       "num": 202830,
       "word": "林高远3比2马龙",
@@ -11640,6 +11688,14 @@
       "word": "piko别太爱",
       "onboard_time": 1689750030,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180874,
+      "num": 220701,
+      "word": "战至巅峰2封神之战",
+      "onboard_time": 1690001251,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -11857,6 +11913,14 @@
       "onboard_time": 1689549322,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 171128,
+      "num": 220664,
+      "word": "TFBOYS合体谁最开心",
+      "onboard_time": 1690002751,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 170805,
@@ -12763,6 +12827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 116199,
+      "num": 220590,
+      "word": "王者荣耀夏日妄想",
+      "onboard_time": 1690002871,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115897,
       "num": 328911,
       "word": "放在整个香港租房界都是炸裂的",
@@ -13393,6 +13465,14 @@
       "onboard_time": 1689513819,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17831,
+      "num": 1132002,
+      "word": "神十六出舱任务精彩回顾",
+      "onboard_time": 1690002511,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15188,
