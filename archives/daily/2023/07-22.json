@@ -1,6 +1,6 @@
 {
   "startTime": 1689956534966,
-  "endTime": 1690032823523,
+  "endTime": 1690035242786,
   "band_list": [
     {
       "raw_hot": 2741013,
@@ -35,6 +35,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2283688,
+      "num": 2283688,
+      "word": "中国女足0比1丹麦女足",
+      "onboard_time": 1690034436,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2232468,
       "num": 2232468,
       "word": "杨迪说魏大勋老来得粉",
@@ -49,6 +57,14 @@
       "onboard_time": 1689983186,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1950635,
+      "num": 1950635,
+      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
+      "onboard_time": 1690031072,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1912720,
@@ -120,14 +136,6 @@
       "word": "魏大勋爆火后播的第一个综艺",
       "onboard_time": 1690006711,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1537372,
-      "num": 766106,
-      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
-      "onboard_time": 1690031072,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -219,8 +227,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1209532,
-      "num": 1209532,
+      "raw_hot": 1312808,
+      "num": 1312808,
+      "word": "乐华家族演唱会王一博",
+      "onboard_time": 1690032815,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1297880,
+      "num": 1297880,
       "word": "中山一骑车女子遇开门杀不幸身亡",
       "onboard_time": 1690030294,
       "rank": 4,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1077694,
+      "num": 814304,
+      "word": "孟美岐造型",
+      "onboard_time": 1690032634,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1076323,
       "num": 1076323,
       "word": "韩国总统尹锡悦岳母被捕",
@@ -257,6 +281,14 @@
       "onboard_time": 1689994952,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1038931,
+      "num": 1038931,
+      "word": "中国女足vs丹麦队",
+      "onboard_time": 1690025368,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1037178,
@@ -321,14 +353,6 @@
       "onboard_time": 1689948641,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 919842,
-      "num": 919842,
-      "word": "中国女足vs丹麦队",
-      "onboard_time": 1690025368,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 917938,
@@ -443,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 817442,
+      "num": 817442,
+      "word": "起猛了全班17人考上了清华",
+      "onboard_time": 1690028731,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 815941,
       "num": 815941,
       "word": "莲花楼全员上楼",
@@ -465,6 +497,14 @@
       "onboard_time": 1689981561,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802926,
+      "num": 802926,
+      "word": "孟宴臣打网球好帅",
+      "onboard_time": 1690032393,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 782679,
@@ -683,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628851,
-      "num": 628851,
-      "word": "起猛了全班17人考上了清华",
-      "onboard_time": 1690028731,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 619863,
       "num": 305161,
       "word": "宋焰接许沁下班巷子都没出",
@@ -705,6 +737,14 @@
       "onboard_time": 1689994110,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 595071,
+      "num": 595071,
+      "word": "九尾",
+      "onboard_time": 1690031014,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 593295,
@@ -739,14 +779,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 577962,
-      "num": 577962,
-      "word": "九尾",
-      "onboard_time": 1690031014,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 575581,
       "num": 575581,
       "word": "魏大勋沙发奖励么么哒的原因",
@@ -761,6 +793,14 @@
       "onboard_time": 1690011812,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569937,
+      "num": 381823,
+      "word": "LPL资格赛四支队伍确定",
+      "onboard_time": 1690034500,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 566161,
@@ -859,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 523953,
+      "num": 523953,
+      "word": "男子含着蟑螂下馆子敲诈商家被拘",
+      "onboard_time": 1690033777,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523775,
       "num": 285921,
       "word": "王鹤棣白鹿多了一组跟拍",
@@ -905,6 +953,14 @@
       "onboard_time": 1690010191,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508842,
+      "num": 508842,
+      "word": "女足世界杯",
+      "onboard_time": 1690027711,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 505694,
@@ -1011,6 +1067,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 467317,
+      "num": 467317,
+      "word": "魏大勋在新剧里叫黄子诚",
+      "onboard_time": 1690032215,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 460880,
+      "num": 460880,
+      "word": "房东的猫胡夏 那些年",
+      "onboard_time": 1690031915,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 449778,
       "num": 449778,
       "word": "微店",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1690011632,
       "rank": 18,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 443713,
+      "num": 443713,
+      "word": "乐华家族演唱会上座率",
+      "onboard_time": 1690034257,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 441219,
@@ -1155,20 +1235,20 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 405781,
+      "num": 405781,
+      "word": "录取通知书被狗子咬得稀碎",
+      "onboard_time": 1690034738,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405375,
       "num": 373999,
       "word": "大勋你这拍的谁顶的住啊",
       "onboard_time": 1690009231,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 403838,
-      "num": 403838,
-      "word": "魏大勋在新剧里叫黄子诚",
-      "onboard_time": 1690032215,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 401542,
@@ -1193,14 +1273,6 @@
       "onboard_time": 1689946721,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 396090,
-      "num": 402950,
-      "word": "女足世界杯",
-      "onboard_time": 1690027711,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 392133,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1690015231,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347925,
+      "num": 347925,
+      "word": "因为长安三万里李白墓前摆满了美酒",
+      "onboard_time": 1690034074,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 345811,
@@ -1459,14 +1539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299340,
-      "num": 299340,
-      "word": "孟宴臣打网球好帅",
-      "onboard_time": 1690032393,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 298812,
       "num": 479049,
       "word": "坐高铁开导航是什么体验",
@@ -1513,14 +1585,6 @@
       "onboard_time": 1689964155,
       "rank": 49,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 288669,
-      "num": 288669,
-      "word": "孟美岐造型",
-      "onboard_time": 1690032634,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 287666,
@@ -1619,14 +1683,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 272850,
-      "num": 272850,
-      "word": "房东的猫胡夏 那些年",
-      "onboard_time": 1690031915,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 272571,
       "num": 272571,
       "word": "长相思",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1689986370,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 270652,
+      "num": 270652,
+      "word": "EDG保底冒泡赛",
+      "onboard_time": 1690033777,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 270530,
@@ -1737,6 +1801,14 @@
       "onboard_time": 1689991891,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263060,
+      "num": 263060,
+      "word": "王彦霖好好笑",
+      "onboard_time": 1690032215,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 261121,
@@ -1841,6 +1913,14 @@
       "onboard_time": 1690021411,
       "rank": 35,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 239363,
+      "num": 239363,
+      "word": "早安受伤",
+      "onboard_time": 1690034976,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 239270,
@@ -2107,14 +2187,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 204828,
-      "num": 204828,
-      "word": "王彦霖好好笑",
-      "onboard_time": 1690032215,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204051,
       "num": 204051,
       "word": "热烈点映",
@@ -2147,8 +2219,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199796,
-      "num": 199796,
+      "raw_hot": 200315,
+      "num": 228172,
       "word": "Creme卡莎",
       "onboard_time": 1690032695,
       "rank": 49,

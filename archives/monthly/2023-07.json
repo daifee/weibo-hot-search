@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690032823523,
+  "endTime": 1690035242786,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1795,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2283688,
+      "num": 2283688,
+      "word": "中国女足0比1丹麦女足",
+      "onboard_time": 1690034436,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2283653,
       "num": 2283653,
       "word": "现在的小区名越来越敢起了",
@@ -2553,6 +2561,14 @@
       "onboard_time": 1688267371,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1950635,
+      "num": 1950635,
+      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
+      "onboard_time": 1690031072,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1949325,
@@ -4139,14 +4155,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1537372,
-      "num": 766106,
-      "word": "魏大勋给杨洋王楚然示范爱的抱抱",
-      "onboard_time": 1690031072,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1536034,
       "num": 585354,
       "word": "一鹿彤行偷偷藏不住版",
@@ -5283,6 +5291,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1312808,
+      "num": 1312808,
+      "word": "乐华家族演唱会王一博",
+      "onboard_time": 1690032815,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1310274,
       "num": 1310274,
       "word": "消失的她票房超人生大事",
@@ -5353,6 +5369,14 @@
       "onboard_time": 1688619103,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1297880,
+      "num": 1297880,
+      "word": "中山一骑车女子遇开门杀不幸身亡",
+      "onboard_time": 1690030294,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1293897,
@@ -5880,14 +5904,6 @@
       "word": "上海暴雨",
       "onboard_time": 1689930630,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1209532,
-      "num": 1209532,
-      "word": "中山一骑车女子遇开门杀不幸身亡",
-      "onboard_time": 1690030294,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -7075,6 +7091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1077694,
+      "num": 814304,
+      "word": "孟美岐造型",
+      "onboard_time": 1690032634,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1077195,
       "num": 561712,
       "word": "高铁上终于卖卫生巾了",
@@ -7537,6 +7561,14 @@
       "onboard_time": 1689737551,
       "rank": 18,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1038931,
+      "num": 1038931,
+      "word": "中国女足vs丹麦队",
+      "onboard_time": 1690025368,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1037178,
@@ -9025,14 +9057,6 @@
       "onboard_time": 1688432674,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919842,
-      "num": 919842,
-      "word": "中国女足vs丹麦队",
-      "onboard_time": 1690025368,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 919392,
@@ -11035,6 +11059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 817442,
+      "num": 817442,
+      "word": "起猛了全班17人考上了清华",
+      "onboard_time": 1690028731,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 817327,
       "num": 817327,
       "word": "杨紫你好星期六下周预告",
@@ -11353,6 +11385,14 @@
       "onboard_time": 1688641473,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 802926,
+      "num": 802926,
+      "word": "孟宴臣打网球好帅",
+      "onboard_time": 1690032393,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 802037,
@@ -15651,14 +15691,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 628851,
-      "num": 628851,
-      "word": "起猛了全班17人考上了清华",
-      "onboard_time": 1690028731,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 628700,
       "num": 628700,
       "word": "重庆茉莉冰豆浆",
@@ -16691,6 +16723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595071,
+      "num": 595071,
+      "word": "九尾",
+      "onboard_time": 1690031014,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 594868,
       "num": 534876,
       "word": "他的健身卡应该明天到期吧",
@@ -17219,14 +17259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577962,
-      "num": 577962,
-      "word": "九尾",
-      "onboard_time": 1690031014,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 577298,
       "num": 577298,
       "word": "奥本海默确认引进",
@@ -17505,6 +17537,14 @@
       "onboard_time": 1689659732,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569937,
+      "num": 381823,
+      "word": "LPL资格赛四支队伍确定",
+      "onboard_time": 1690034500,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 569918,
@@ -19243,6 +19283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523953,
+      "num": 523953,
+      "word": "男子含着蟑螂下馆子敲诈商家被拘",
+      "onboard_time": 1690033777,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523857,
       "num": 523857,
       "word": "领导过于关心我的私生活",
@@ -19817,6 +19865,14 @@
       "onboard_time": 1689740976,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 508842,
+      "num": 508842,
+      "word": "女足世界杯",
+      "onboard_time": 1689829479,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 508564,
@@ -21779,6 +21835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 467317,
+      "num": 467317,
+      "word": "魏大勋在新剧里叫黄子诚",
+      "onboard_time": 1690032215,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467013,
       "num": 620393,
       "word": "孙颖莎获萨格勒布站亚军",
@@ -22025,6 +22089,14 @@
       "onboard_time": 1688684843,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460880,
+      "num": 460880,
+      "word": "房东的猫胡夏 那些年",
+      "onboard_time": 1690031915,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 460683,
@@ -22969,6 +23041,14 @@
       "onboard_time": 1689522390,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443713,
+      "num": 443713,
+      "word": "乐华家族演唱会上座率",
+      "onboard_time": 1690034257,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 443696,
@@ -25123,6 +25203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 405781,
+      "num": 405781,
+      "word": "录取通知书被狗子咬得稀碎",
+      "onboard_time": 1690034738,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405642,
       "num": 380560,
       "word": "张学友演唱会",
@@ -25241,14 +25329,6 @@
       "onboard_time": 1689779800,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 403838,
-      "num": 403838,
-      "word": "魏大勋在新剧里叫黄子诚",
-      "onboard_time": 1690032215,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 403666,
@@ -25793,14 +25873,6 @@
       "onboard_time": 1688791230,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396090,
-      "num": 402950,
-      "word": "女足世界杯",
-      "onboard_time": 1689829479,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 396072,
@@ -29129,6 +29201,14 @@
       "onboard_time": 1688469934,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347925,
+      "num": 347925,
+      "word": "因为长安三万里李白墓前摆满了美酒",
+      "onboard_time": 1690034074,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 347728,
@@ -32779,14 +32859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 299340,
-      "num": 299340,
-      "word": "孟宴臣打网球好帅",
-      "onboard_time": 1690032393,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299333,
       "num": 311700,
       "word": "男子为减肥每天一顿半年暴瘦30斤",
@@ -34041,14 +34113,6 @@
       "onboard_time": 1689334892,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288669,
-      "num": 288669,
-      "word": "孟美岐造型",
-      "onboard_time": 1690032634,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 288579,
@@ -35587,14 +35651,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 272850,
-      "num": 272850,
-      "word": "房东的猫胡夏 那些年",
-      "onboard_time": 1690031915,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 272843,
       "num": 262231,
       "word": "同事说我把别人的萝卜岗占了",
@@ -35881,6 +35937,14 @@
       "onboard_time": 1689147694,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270652,
+      "num": 270652,
+      "word": "EDG保底冒泡赛",
+      "onboard_time": 1690033777,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 270626,
@@ -36601,6 +36665,14 @@
       "onboard_time": 1689065856,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263060,
+      "num": 263060,
+      "word": "王彦霖好好笑",
+      "onboard_time": 1690032215,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 263050,
@@ -39225,6 +39297,14 @@
       "onboard_time": 1689520835,
       "rank": 28,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 239363,
+      "num": 239363,
+      "word": "早安受伤",
+      "onboard_time": 1690034976,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 239341,
@@ -43635,14 +43715,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 204828,
-      "num": 204828,
-      "word": "王彦霖好好笑",
-      "onboard_time": 1690032215,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204665,
       "num": 202970,
       "word": "芭比 高司令",
@@ -44331,6 +44403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200315,
+      "num": 228172,
+      "word": "Creme卡莎",
+      "onboard_time": 1690032695,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200291,
       "num": 200291,
       "word": "父亲留给女儿的最后一份礼物",
@@ -44401,14 +44481,6 @@
       "onboard_time": 1688872112,
       "rank": 34,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 199796,
-      "num": 199796,
-      "word": "Creme卡莎",
-      "onboard_time": 1690032695,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 199791,
