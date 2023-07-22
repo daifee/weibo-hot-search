@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690065232037,
+  "endTime": 1690067751936,
   "band_list": [
     {
       "raw_hot": 2244387,
@@ -403,8 +403,24 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203460,
+      "num": 203460,
+      "word": "大暑",
+      "onboard_time": 1690067298,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194464,
+      "num": 194464,
+      "word": "因为长安三万里李白墓前摆满了美酒",
+      "onboard_time": 1690034074,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191484,
-      "num": 86627,
+      "num": 107071,
       "word": "芭比导演坚持反对剪掉老奶奶场景",
       "onboard_time": 1690051456,
       "rank": 12,
@@ -435,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158836,
+      "num": 158836,
+      "word": "陈天润 王妃",
+      "onboard_time": 1690063875,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155832,
       "num": 127528,
       "word": "魏大勋在新剧里叫黄子诚",
       "onboard_time": 1690032215,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145995,
+      "num": 145995,
+      "word": "Uzi后台哭了",
+      "onboard_time": 1690067239,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 145250,
@@ -451,12 +483,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138596,
-      "num": 114691,
-      "word": "因为长安三万里李白墓前摆满了美酒",
-      "onboard_time": 1690034074,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 141708,
+      "num": 108387,
+      "word": "古巨基希望儿子早婚早生",
+      "onboard_time": 1690063815,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 104381,
@@ -467,12 +499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103762,
+      "num": 103762,
+      "word": "大唐不夜城",
+      "onboard_time": 1690067418,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 103439,
       "num": 209228,
       "word": "OMG对战EDG",
       "onboard_time": 1690019492,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92866,
+      "num": 92866,
+      "word": "大熊猫被羚牛追击一路狂跑",
+      "onboard_time": 1690066938,
+      "rank": 33,
+      "category": "幽默,自然"
     },
     {
       "raw_hot": 87443,
@@ -491,6 +539,22 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 80650,
+      "num": 80650,
+      "word": "纣王到底爱不爱妲己",
+      "onboard_time": 1690053914,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 74855,
+      "num": 74855,
+      "word": "87岁老太翻窗上屋顶掉进天井",
+      "onboard_time": 1690065495,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70318,
       "num": 70318,
       "word": "郑恺从年轻小伙子变成了父亲",
@@ -499,36 +563,12 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 66447,
-      "num": 66447,
-      "word": "古巨基希望儿子早婚早生",
-      "onboard_time": 1690063815,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65348,
       "num": 57241,
       "word": "乌尔善不想把妲己拍得太风骚",
       "onboard_time": 1690051216,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 62946,
-      "num": 50303,
-      "word": "纣王到底爱不爱妲己",
-      "onboard_time": 1690053914,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 59294,
-      "num": 59294,
-      "word": "陈天润 王妃",
-      "onboard_time": 1690063875,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 40300,
@@ -547,7 +587,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16828,
+      "raw_hot": 21834,
       "num": 1058451,
       "word": "2023年空军航空开放活动来了",
       "onboard_time": 1690031553,
