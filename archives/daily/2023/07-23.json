@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690112042375,
+  "endTime": 1690115452480,
   "band_list": [
     {
       "raw_hot": 3354062,
@@ -43,6 +43,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1816666,
+      "num": 870886,
+      "word": "魏大勋的爆火意味着什么",
+      "onboard_time": 1690112314,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1762349,
+      "num": 1762349,
+      "word": "杨洋被泼水时王楚然的眼神",
+      "onboard_time": 1690107631,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1719139,
       "num": 475442,
       "word": "广末凉子宣布离婚",
@@ -73,14 +89,6 @@
       "onboard_time": 1690039300,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1573793,
-      "num": 1573793,
-      "word": "杨洋被泼水时王楚然的眼神",
-      "onboard_time": 1690107631,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1553003,
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1179645,
+      "num": 415285,
+      "word": "王俊凯瘦了太多",
+      "onboard_time": 1690115133,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1129818,
       "num": 1129818,
       "word": "林志玲亲口证实引退",
@@ -267,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 967903,
+      "num": 502932,
+      "word": "芭比 艾伦",
+      "onboard_time": 1690112314,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 959340,
       "num": 959340,
       "word": "王鹤棣让王传君给詹姆斯道歉",
@@ -305,6 +329,14 @@
       "onboard_time": 1690091851,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 882823,
+      "num": 882823,
+      "word": "电视剧里的濒死剖宫产真的存在吗",
+      "onboard_time": 1690111532,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 873061,
@@ -387,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 734407,
+      "num": 734407,
+      "word": "黑龙江体育馆坍塌已营救8人",
+      "onboard_time": 1690110156,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732890,
       "num": 732890,
       "word": "阳光玫瑰葡萄最全讲解",
@@ -416,6 +456,14 @@
       "word": "中建八局再被曝工程质量问题",
       "onboard_time": 1690080390,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696446,
+      "num": 408787,
+      "word": "原来有种病叫经济舱综合征",
+      "onboard_time": 1690113211,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -547,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 598331,
+      "num": 598331,
+      "word": "WBG战胜NIP",
+      "onboard_time": 1690115014,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 583190,
       "num": 499386,
       "word": "因角色爆火的明星",
@@ -569,14 +625,6 @@
       "onboard_time": 1690036775,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 570867,
-      "num": 570867,
-      "word": "黑龙江体育馆坍塌已营救8人",
-      "onboard_time": 1690110156,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556923,
@@ -649,6 +697,22 @@
       "onboard_time": 1690038276,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 514705,
+      "num": 514705,
+      "word": "母亲晒孩子在沙滩制竹签陷阱引争议",
+      "onboard_time": 1690111592,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512123,
+      "num": 280801,
+      "word": "魏大勋王嘉尔在干嘛",
+      "onboard_time": 1690114112,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 509224,
@@ -883,12 +947,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 415140,
+      "num": 265322,
+      "word": "宁艺卓芭比造型",
+      "onboard_time": 1690114052,
+      "rank": 25,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 412449,
       "num": 239436,
       "word": "封神终于不再甩锅女性",
       "onboard_time": 1690026031,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 410509,
+      "num": 267850,
+      "word": "龙虾店老板深夜崩溃把店砸了",
+      "onboard_time": 1690112193,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410157,
@@ -1035,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374729,
+      "num": 374729,
+      "word": "WBG对战NIP",
+      "onboard_time": 1690102173,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 371872,
       "num": 351539,
       "word": "芭比 自我意识觉醒",
@@ -1057,6 +1145,14 @@
       "onboard_time": 1690076311,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 360533,
+      "num": 323876,
+      "word": "莲花楼",
+      "onboard_time": 1690088732,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 357378,
@@ -1195,28 +1291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323876,
-      "num": 323876,
-      "word": "莲花楼",
-      "onboard_time": 1690088732,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 323223,
-      "num": 281139,
-      "word": "电视剧里的濒死剖宫产真的存在吗",
-      "onboard_time": 1690111532,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 318578,
       "num": 226002,
       "word": "杨洋王楚然撒糖镜头切魏大勋",
       "onboard_time": 1690042296,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315081,
+      "num": 232209,
+      "word": "封神",
+      "onboard_time": 1690036416,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 314849,
@@ -1249,6 +1337,14 @@
       "onboard_time": 1690090950,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309659,
+      "num": 225411,
+      "word": "成年人看长安三万里的评价",
+      "onboard_time": 1690114172,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 306156,
@@ -1313,14 +1409,6 @@
       "onboard_time": 1690077330,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 290248,
-      "num": 232209,
-      "word": "封神",
-      "onboard_time": 1690036416,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 289389,
@@ -1411,20 +1499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269629,
-      "num": 269629,
-      "word": "母亲晒孩子在沙滩制竹签陷阱引争议",
-      "onboard_time": 1690111592,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269048,
       "num": 231095,
       "word": "董子健新剧遭枪击重伤",
       "onboard_time": 1690038219,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267242,
+      "num": 267242,
+      "word": "亚锦赛名单",
+      "onboard_time": 1690112193,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 263726,
@@ -1457,14 +1545,6 @@
       "onboard_time": 1690092212,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 258166,
-      "num": 258166,
-      "word": "WBG对战NIP",
-      "onboard_time": 1690102173,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 257820,
@@ -1651,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231228,
+      "num": 231228,
+      "word": "覃海洋刷新100蛙亚洲纪录",
+      "onboard_time": 1690114892,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229155,
       "num": 220660,
       "word": "和恐龙一个年纪的树长什么样",
@@ -1699,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219085,
+      "num": 219085,
+      "word": "游泳世锦赛",
+      "onboard_time": 1690114652,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217267,
       "num": 197265,
       "word": "TES",
@@ -1737,6 +1833,14 @@
       "onboard_time": 1690088611,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212520,
+      "num": 212520,
+      "word": "覃海洋",
+      "onboard_time": 1690115193,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 211695,
@@ -1803,6 +1907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201290,
+      "num": 201290,
+      "word": "晚霞",
+      "onboard_time": 1690113033,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
       "raw_hot": 200421,
       "num": 200421,
       "word": "光与夜之恋",
@@ -1827,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198711,
+      "num": 198711,
+      "word": "明日方舟",
+      "onboard_time": 1690111231,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196811,
       "num": 196811,
       "word": "芭比让我重新爱上粉色",
@@ -1841,6 +1961,14 @@
       "onboard_time": 1690106972,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191535,
+      "num": 197464,
+      "word": "吴京说让外国观众看到中国文化",
+      "onboard_time": 1690112253,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 191484,
@@ -2025,14 +2153,6 @@
       "onboard_time": 1690034436,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169683,
-      "num": 169683,
-      "word": "明日方舟",
-      "onboard_time": 1690111231,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 163765,
@@ -2249,6 +2369,14 @@
       "onboard_time": 1690052775,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12216,
+      "num": 873230,
+      "word": "青春主场数说大运",
+      "onboard_time": 1690100431,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

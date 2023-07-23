@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690112042375,
+  "endTime": 1690115452480,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3195,6 +3195,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1816666,
+      "num": 870886,
+      "word": "魏大勋的爆火意味着什么",
+      "onboard_time": 1690112314,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1816444,
       "num": 1816444,
       "word": "美国新型毒品泛滥吸食者如丧尸围城",
@@ -3449,6 +3457,14 @@
       "onboard_time": 1688710959,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1762349,
+      "num": 1762349,
+      "word": "杨洋被泼水时王楚然的眼神",
+      "onboard_time": 1690107631,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1759669,
@@ -4129,14 +4145,6 @@
       "onboard_time": 1690039300,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1573793,
-      "num": 1573793,
-      "word": "杨洋被泼水时王楚然的眼神",
-      "onboard_time": 1690107631,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1571453,
@@ -6377,6 +6385,14 @@
       "onboard_time": 1688382639,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1179645,
+      "num": 415285,
+      "word": "王俊凯瘦了太多",
+      "onboard_time": 1690115133,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1175415,
@@ -8771,6 +8787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 967903,
+      "num": 502932,
+      "word": "芭比 艾伦",
+      "onboard_time": 1690112314,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 967789,
       "num": 362121,
       "word": "专家称猴痘不太可能大规模传播",
@@ -10089,6 +10113,14 @@
       "onboard_time": 1690023930,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882823,
+      "num": 882823,
+      "word": "电视剧里的濒死剖宫产真的存在吗",
+      "onboard_time": 1690111532,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 882344,
@@ -13123,6 +13155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 734407,
+      "num": 734407,
+      "word": "黑龙江体育馆坍塌已营救8人",
+      "onboard_time": 1690110156,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734341,
       "num": 350100,
       "word": "马天宇晒鹿晗to签",
@@ -14073,6 +14113,14 @@
       "onboard_time": 1689572671,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 696446,
+      "num": 408787,
+      "word": "原来有种病叫经济舱综合征",
+      "onboard_time": 1690113211,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696135,
@@ -17243,6 +17291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 598331,
+      "num": 598331,
+      "word": "WBG战胜NIP",
+      "onboard_time": 1690115014,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 598246,
       "num": 598246,
       "word": "你会付费买喜欢的小说吗",
@@ -18128,14 +18184,6 @@
       "word": "孙女给不能自理的爷爷洗澡引争议",
       "onboard_time": 1688271150,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570867,
-      "num": 570867,
-      "word": "黑龙江体育馆坍塌已营救8人",
-      "onboard_time": 1690110156,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -20291,6 +20339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514705,
+      "num": 514705,
+      "word": "母亲晒孩子在沙滩制竹签陷阱引争议",
+      "onboard_time": 1690111592,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514689,
       "num": 514689,
       "word": "三亚被偷住别墅喝光茅台房主是痞幼",
@@ -20425,6 +20481,14 @@
       "onboard_time": 1688266413,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 512123,
+      "num": 280801,
+      "word": "魏大勋王嘉尔在干嘛",
+      "onboard_time": 1690114112,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 512119,
@@ -25675,6 +25739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415140,
+      "num": 265322,
+      "word": "宁艺卓芭比造型",
+      "onboard_time": 1690114052,
+      "rank": 25,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 415017,
       "num": 343753,
       "word": "朴彩英发量回来了",
@@ -25904,6 +25976,14 @@
       "word": "亮警证让查酒驾交警放行男子系民警",
       "onboard_time": 1688684120,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410509,
+      "num": 267850,
+      "word": "龙虾店老板深夜崩溃把店砸了",
+      "onboard_time": 1690112193,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -28177,6 +28257,14 @@
       "onboard_time": 1688773767,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374729,
+      "num": 374729,
+      "word": "WBG对战NIP",
+      "onboard_time": 1690102173,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 374716,
@@ -32019,14 +32107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 323223,
-      "num": 281139,
-      "word": "电视剧里的濒死剖宫产真的存在吗",
-      "onboard_time": 1690111532,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 323221,
       "num": 323221,
       "word": "民警陪戒毒人员见父亲最后一面",
@@ -33129,6 +33209,14 @@
       "onboard_time": 1688979334,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 309659,
+      "num": 225411,
+      "word": "成年人看长安三万里的评价",
+      "onboard_time": 1690114172,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 309615,
@@ -37379,14 +37467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269629,
-      "num": 269629,
-      "word": "母亲晒孩子在沙滩制竹签陷阱引争议",
-      "onboard_time": 1690111592,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269625,
       "num": 269625,
       "word": "王一博出发澳门",
@@ -37569,6 +37649,14 @@
       "onboard_time": 1689466167,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267242,
+      "num": 267242,
+      "word": "亚锦赛名单",
+      "onboard_time": 1690112193,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 267177,
@@ -38609,14 +38697,6 @@
       "onboard_time": 1688341528,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 258166,
-      "num": 258166,
-      "word": "WBG对战NIP",
-      "onboard_time": 1690102173,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 258141,
@@ -41755,6 +41835,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 231228,
+      "num": 231228,
+      "word": "覃海洋刷新100蛙亚洲纪录",
+      "onboard_time": 1690114892,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231226,
       "num": 231226,
       "word": "原来水豚私下里是这样的",
@@ -43195,6 +43283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219085,
+      "num": 219085,
+      "word": "游泳世锦赛",
+      "onboard_time": 1690114652,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219056,
       "num": 219056,
       "word": "谢乔杨澄彻底be",
@@ -44169,6 +44265,14 @@
       "onboard_time": 1688386301,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212520,
+      "num": 212520,
+      "word": "覃海洋",
+      "onboard_time": 1690115193,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 212444,
@@ -47449,6 +47553,14 @@
       "onboard_time": 1688638718,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191535,
+      "num": 197464,
+      "word": "吴京说让外国观众看到中国文化",
+      "onboard_time": 1690112253,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 191484,
@@ -55785,6 +55897,14 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12216,
+      "num": 873230,
+      "word": "青春主场数说大运",
+      "onboard_time": 1690100431,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11854,
