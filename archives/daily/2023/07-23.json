@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690101218876,
+  "endTime": 1690103706699,
   "band_list": [
     {
       "raw_hot": 3354062,
@@ -9,6 +9,14 @@
       "onboard_time": 1690091070,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2976410,
+      "num": 235727,
+      "word": "魏大勋韩网想弄哭第一名",
+      "onboard_time": 1690102053,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2524361,
@@ -203,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 977246,
+      "num": 231352,
+      "word": "律师称初中女生奸杀案已是顶格处罚",
+      "onboard_time": 1690101571,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959340,
       "num": 959340,
       "word": "王鹤棣让王传君给詹姆斯道歉",
@@ -331,12 +347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 715011,
+      "num": 715011,
+      "word": "阳光玫瑰葡萄最全讲解",
+      "onboard_time": 1690098690,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 704089,
       "num": 704089,
       "word": "中建八局再被曝工程质量问题",
       "onboard_time": 1690080390,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703715,
+      "num": 703715,
+      "word": "豆瓣",
+      "onboard_time": 1690101571,
+      "rank": 6,
+      "category": "影视,科技"
     },
     {
       "raw_hot": 693061,
@@ -579,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475343,
+      "num": 227163,
+      "word": "热烈",
+      "onboard_time": 1690101212,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475276,
       "num": 475276,
       "word": "布加迪",
@@ -593,6 +633,22 @@
       "onboard_time": 1690072827,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 464594,
+      "num": 464594,
+      "word": "泳协秘书长跳江救人不幸遇难",
+      "onboard_time": 1690100551,
+      "rank": 33,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 464320,
+      "num": 201715,
+      "word": "刚得知我妈给我存了一百万",
+      "onboard_time": 1690102295,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 456406,
@@ -731,14 +787,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 400747,
-      "num": 251145,
-      "word": "阳光玫瑰葡萄最全讲解",
-      "onboard_time": 1690098690,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 393243,
       "num": 301751,
       "word": "密室大逃脱",
@@ -851,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 354498,
+      "num": 200976,
+      "word": "最开始的奶茶是这样的",
+      "onboard_time": 1690102234,
+      "rank": 21,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 352511,
       "num": 294461,
       "word": "王鹤棣暗示孟子义",
@@ -889,6 +945,14 @@
       "onboard_time": 1690067298,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339002,
+      "num": 210549,
+      "word": "热烈预售票房破5000万",
+      "onboard_time": 1690097431,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 337597,
@@ -963,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313083,
+      "num": 200170,
+      "word": "明星北电脸上戏脸中戏脸",
+      "onboard_time": 1690102234,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309965,
       "num": 309965,
       "word": "杭州暴雨",
@@ -976,14 +1048,6 @@
       "word": "奥本芭比",
       "onboard_time": 1690085311,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 305177,
-      "num": 210549,
-      "word": "热烈预售票房破5000万",
-      "onboard_time": 1690097431,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1121,6 +1185,14 @@
       "onboard_time": 1690089510,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259404,
+      "num": 197986,
+      "word": "因角色爆火的明星",
+      "onboard_time": 1690103252,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 258882,
@@ -1267,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231012,
+      "num": 197762,
+      "word": "脸臭的人意识不到自己脸臭",
+      "onboard_time": 1690100850,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 229155,
       "num": 220660,
       "word": "和恐龙一个年纪的树长什么样",
@@ -1313,6 +1393,14 @@
       "onboard_time": 1690087651,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217858,
+      "num": 196120,
+      "word": "为什么打针前要推掉一点药水",
+      "onboard_time": 1690103193,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217267,
@@ -1467,20 +1555,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187087,
-      "num": 187087,
-      "word": "泳协秘书长跳江救人不幸遇难",
-      "onboard_time": 1690100551,
-      "rank": 33,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 186479,
       "num": 186479,
       "word": "果然爱是时常感到亏欠",
       "onboard_time": 1690088912,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186398,
+      "num": 186398,
+      "word": "馒头的绝配到底是什么",
+      "onboard_time": 1690102295,
+      "rank": 38,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 185853,
@@ -1587,12 +1675,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 161363,
+      "num": 161363,
+      "word": "WBG对战NIP",
+      "onboard_time": 1690102173,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156698,
+      "num": 156698,
+      "word": "网民捏造中考回流生不实信息被刑拘",
+      "onboard_time": 1690101991,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 155832,
       "num": 127528,
       "word": "魏大勋在新剧里叫黄子诚",
       "onboard_time": 1690032215,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153668,
+      "num": 172729,
+      "word": "被大风吹到生气的小狗",
+      "onboard_time": 1690100911,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 148895,
@@ -1643,12 +1755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118062,
-      "num": 172771,
-      "word": "脸臭的人意识不到自己脸臭",
-      "onboard_time": 1690100850,
-      "rank": 44,
-      "category": "幽默,情感"
+      "raw_hot": 126159,
+      "num": 196587,
+      "word": "鸿星尔克请大熊猫吃竹子",
+      "onboard_time": 1690100972,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113024,
@@ -1683,14 +1795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94600,
-      "num": 172729,
-      "word": "被大风吹到生气的小狗",
-      "onboard_time": 1690100911,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 93482,
       "num": 85388,
       "word": "纣王到底爱不爱妲己",
@@ -1713,14 +1817,6 @@
       "onboard_time": 1690045166,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84034,
-      "num": 172747,
-      "word": "鸿星尔克请大熊猫吃竹子",
-      "onboard_time": 1690100972,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83842,
@@ -1755,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45827,
+      "num": 895644,
+      "word": "一键解锁消暑秘诀",
+      "onboard_time": 1690100671,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40300,
       "num": 50207,
       "word": "百变马丁原来是国产动画",
@@ -1769,14 +1873,6 @@
       "onboard_time": 1690052775,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15064,
-      "num": 895644,
-      "word": "一键解锁消暑秘诀",
-      "onboard_time": 1690100671,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
