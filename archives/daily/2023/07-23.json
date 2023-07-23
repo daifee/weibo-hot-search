@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690077333645,
+  "endTime": 1690079938947,
   "band_list": [
     {
       "raw_hot": 2524361,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1395367,
+      "num": 1395367,
+      "word": "租户墙内发现40万巨额财物主动上交",
+      "onboard_time": 1690076429,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1384589,
       "num": 458066,
       "word": "林志玲",
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1016886,
+      "num": 1016886,
+      "word": "付闻樱问孟宴臣你怎么不去死",
+      "onboard_time": 1690076611,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 999985,
       "num": 999985,
       "word": "这是王一博个人演唱会吧",
@@ -88,6 +104,14 @@
       "word": "徐海乔评论区",
       "onboard_time": 1690068381,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 912720,
+      "num": 296075,
+      "word": "赵寻被侵犯发生关系后不敢说",
+      "onboard_time": 1690078352,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -203,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601543,
+      "num": 283892,
+      "word": "李汶翰坠落舞台视频",
+      "onboard_time": 1690078950,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 598879,
+      "num": 280037,
+      "word": "我的人间烟火大结局你能接受吗",
+      "onboard_time": 1690078171,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571257,
       "num": 353746,
       "word": "妲己",
@@ -251,19 +291,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506466,
+      "num": 268598,
+      "word": "宋焰被付闻樱毁掉的人生",
+      "onboard_time": 1690078770,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 500028,
       "num": 500028,
       "word": "穿cos服医学生雨中跪地救人",
       "onboard_time": 1690073669,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491065,
-      "num": 222686,
-      "word": "租户墙内发现40万巨额财物主动上交",
-      "onboard_time": 1690076429,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -299,14 +339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 450077,
-      "num": 319417,
-      "word": "付闻樱问孟宴臣你怎么不去死",
-      "onboard_time": 1690076611,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 424875,
       "num": 424875,
       "word": "周冠宇第一",
@@ -315,8 +347,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424553,
+      "num": 267572,
+      "word": "交警录入错误致男孩有案底转学被拒",
+      "onboard_time": 1690079011,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 422269,
-      "num": 265085,
+      "num": 267400,
       "word": "杨洋把杨迪整崩溃了",
       "onboard_time": 1690071384,
       "rank": 22,
@@ -363,6 +403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 394823,
+      "num": 267541,
+      "word": "蒋俊豪承认喜欢何欢",
+      "onboard_time": 1690077690,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391047,
       "num": 391047,
       "word": "Uzi后台哭了",
@@ -387,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378537,
+      "num": 267509,
+      "word": "汪苏泷唱大雨找不到观众了",
+      "onboard_time": 1690076249,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 376361,
       "num": 239276,
       "word": "为什么石头成为了网红菜",
@@ -401,6 +457,14 @@
       "onboard_time": 1690039475,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 365103,
+      "num": 267466,
+      "word": "小孩不会说谎但会胡说八道",
+      "onboard_time": 1690076311,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 356734,
@@ -443,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325232,
+      "num": 267420,
+      "word": "莲花楼今晚开播",
+      "onboard_time": 1690078591,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318578,
       "num": 226002,
       "word": "杨洋王楚然撒糖镜头切魏大勋",
@@ -451,11 +523,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308628,
-      "num": 232948,
-      "word": "汪苏泷唱大雨找不到观众了",
-      "onboard_time": 1690076249,
-      "rank": 41,
+      "raw_hot": 300216,
+      "num": 267379,
+      "word": "蔡少芬陈法蓉gidle合照",
+      "onboard_time": 1690078591,
+      "rank": 30,
       "category": "音乐"
     },
     {
@@ -500,7 +572,7 @@
     },
     {
       "raw_hot": 279497,
-      "num": 223334,
+      "num": 228646,
       "word": "喜欢王一博不喜欢凯文的原因",
       "onboard_time": 1690071205,
       "rank": 28,
@@ -521,6 +593,22 @@
       "onboard_time": 1690038219,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267720,
+      "num": 267720,
+      "word": "国产核磁共振技术突破国外长期封锁",
+      "onboard_time": 1690078709,
+      "rank": 16,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 265162,
+      "num": 265162,
+      "word": "乐华家族演唱会全场合唱无羁",
+      "onboard_time": 1690077330,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 257820,
@@ -577,14 +665,6 @@
       "onboard_time": 1690074871,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 241109,
-      "num": 212215,
-      "word": "小孩不会说谎但会胡说八道",
-      "onboard_time": 1690076311,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 240240,
@@ -691,12 +771,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 209053,
+      "num": 209053,
+      "word": "封神改编",
+      "onboard_time": 1690079309,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207468,
       "num": 217843,
       "word": "WB",
       "onboard_time": 1690037139,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203522,
+      "num": 203522,
+      "word": "虞书欣露腰吊带裙",
+      "onboard_time": 1690079731,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191484,
@@ -716,7 +812,7 @@
     },
     {
       "raw_hot": 190257,
-      "num": 190257,
+      "num": 236542,
       "word": "练车的怨气真的好大",
       "onboard_time": 1690075829,
       "rank": 48,
@@ -732,7 +828,7 @@
     },
     {
       "raw_hot": 185853,
-      "num": 185853,
+      "num": 202800,
       "word": "大熊猫被羚牛追击一路狂跑",
       "onboard_time": 1690066938,
       "rank": 33,
@@ -756,7 +852,7 @@
     },
     {
       "raw_hot": 171283,
-      "num": 171283,
+      "num": 203403,
       "word": "夏天最后1个节气",
       "onboard_time": 1690069281,
       "rank": 38,
@@ -803,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138570,
+      "num": 229538,
+      "word": "世界上最忧伤的鱼",
+      "onboard_time": 1690077390,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 104381,
       "num": 1318335,
       "word": "中国跳水队12金收官",
@@ -817,6 +921,14 @@
       "onboard_time": 1690019492,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98390,
+      "num": 201850,
+      "word": "原来极光可以这么画",
+      "onboard_time": 1690079553,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 93482,

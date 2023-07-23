@@ -1,0 +1,410 @@
+{
+  "runTime": 1690079938947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1395367,
+        "num": 1395367,
+        "word": "租户墙内发现40万巨额财物主动上交",
+        "onboard_time": 1690076429,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016886,
+        "num": 1016886,
+        "word": "付闻樱问孟宴臣你怎么不去死",
+        "onboard_time": 1690076611,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28774,
+        "num": 1012761,
+        "word": "2023年空军航空开放活动来了",
+        "onboard_time": 1690031553,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052837,
+        "num": 1012757,
+        "word": "魏大勋让杨洋别耍帅了",
+        "onboard_time": 1690070004,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1012238,
+        "num": 1012238,
+        "word": "林志玲亲口证实引退",
+        "onboard_time": 1690071325,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1224411,
+        "num": 992236,
+        "word": "迪丽热巴受伤了",
+        "onboard_time": 1690073187,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666903,
+        "num": 666903,
+        "word": "徐海乔评论区",
+        "onboard_time": 1690068381,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444550,
+        "num": 444550,
+        "word": "穿cos服医学生雨中跪地救人",
+        "onboard_time": 1690073669,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327910,
+        "num": 327910,
+        "word": "宇智波佐助",
+        "onboard_time": 1690071024,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 323065,
+        "num": 323065,
+        "word": "四川内江地震",
+        "onboard_time": 1690075409,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1905975,
+        "num": 312585,
+        "word": "川航8985紧急备降江苏",
+        "onboard_time": 1690071926,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912720,
+        "num": 296075,
+        "word": "赵寻被侵犯发生关系后不敢说",
+        "onboard_time": 1690078352,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601543,
+        "num": 283892,
+        "word": "李汶翰坠落舞台视频",
+        "onboard_time": 1690078950,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 598879,
+        "num": 280037,
+        "word": "我的人间烟火大结局你能接受吗",
+        "onboard_time": 1690078171,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268604,
+        "num": 268604,
+        "word": "Uzi后台哭了",
+        "onboard_time": 1690067239,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 506466,
+        "num": 268598,
+        "word": "宋焰被付闻樱毁掉的人生",
+        "onboard_time": 1690078770,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267720,
+        "num": 267720,
+        "word": "国产核磁共振技术突破国外长期封锁",
+        "onboard_time": 1690078709,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 501340,
+        "num": 267708,
+        "word": "宋焰用一条毛巾帮许沁擦手擦脚",
+        "onboard_time": 1690069281,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196248,
+        "num": 267668,
+        "word": "中山一骑车女子遇开门杀不幸身亡",
+        "onboard_time": 1690030294,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180296,
+        "num": 267651,
+        "word": "海南师范大学回应录取唐尚珺",
+        "onboard_time": 1690039234,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 645746,
+        "num": 267629,
+        "word": "街头杀妻男子当着女儿面行凶",
+        "onboard_time": 1690072707,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425358,
+        "num": 267614,
+        "word": "坐高铁出于好奇选了静音车厢",
+        "onboard_time": 1690071686,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424553,
+        "num": 267572,
+        "word": "交警录入错误致男孩有案底转学被拒",
+        "onboard_time": 1690079011,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 394823,
+        "num": 267541,
+        "word": "蒋俊豪承认喜欢何欢",
+        "onboard_time": 1690077690,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381102,
+        "num": 267514,
+        "word": "71岁丫头",
+        "onboard_time": 1690039300,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378537,
+        "num": 267509,
+        "word": "汪苏泷唱大雨找不到观众了",
+        "onboard_time": 1690076249,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365103,
+        "num": 267466,
+        "word": "小孩不会说谎但会胡说八道",
+        "onboard_time": 1690076311,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344680,
+        "num": 267442,
+        "word": "孟宴臣说妈妈我求求你看看我的脸",
+        "onboard_time": 1690072105,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325232,
+        "num": 267420,
+        "word": "莲花楼今晚开播",
+        "onboard_time": 1690078591,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321209,
+        "num": 267400,
+        "word": "杨洋把杨迪整崩溃了",
+        "onboard_time": 1690071384,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300216,
+        "num": 267379,
+        "word": "蔡少芬陈法蓉gidle合照",
+        "onboard_time": 1690078591,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287686,
+        "num": 267354,
+        "word": "周奇都演爹了",
+        "onboard_time": 1690070785,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218432,
+        "num": 267324,
+        "word": "男子颅内感染后突然魔怔称能看到鬼",
+        "onboard_time": 1690038639,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180419,
+        "num": 267280,
+        "word": "录取通知书被狗子咬得稀碎",
+        "onboard_time": 1690034738,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171052,
+        "num": 267254,
+        "word": "大暑",
+        "onboard_time": 1690067298,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267253,
+        "num": 267253,
+        "word": "TFBOYS演唱会笑话",
+        "onboard_time": 1690040556,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265162,
+        "num": 265162,
+        "word": "乐华家族演唱会全场合唱无羁",
+        "onboard_time": 1690077330,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252278,
+        "num": 252278,
+        "word": "你好星期六收视创新高",
+        "onboard_time": 1690035995,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155731,
+        "num": 236542,
+        "word": "练车的怨气真的好大",
+        "onboard_time": 1690075829,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138570,
+        "num": 229538,
+        "word": "世界上最忧伤的鱼",
+        "onboard_time": 1690077390,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 228646,
+        "num": 228646,
+        "word": "喜欢王一博不喜欢凯文的原因",
+        "onboard_time": 1690071205,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209053,
+        "num": 209053,
+        "word": "封神改编",
+        "onboard_time": 1690079309,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203522,
+        "num": 203522,
+        "word": "虞书欣露腰吊带裙",
+        "onboard_time": 1690079731,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130778,
+        "num": 203403,
+        "word": "夏天最后1个节气",
+        "onboard_time": 1690069281,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196242,
+        "num": 203066,
+        "word": "TF三代喊话粉丝",
+        "onboard_time": 1690072587,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125084,
+        "num": 202800,
+        "word": "大熊猫被羚牛追击一路狂跑",
+        "onboard_time": 1690066938,
+        "rank": 45,
+        "category": "幽默,自然"
+      },
+      {
+        "raw_hot": 116374,
+        "num": 202607,
+        "word": "女足被绝杀是不是越位",
+        "onboard_time": 1690069222,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110018,
+        "num": 202291,
+        "word": "姐姐新婚妹妹养2000条蚕做手工扇",
+        "onboard_time": 1690068562,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 104674,
+        "num": 202091,
+        "word": "全年最热的时候来了",
+        "onboard_time": 1690069944,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98390,
+        "num": 201850,
+        "word": "原来极光可以这么画",
+        "onboard_time": 1690079553,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把长江文化保护好传承好弘扬好#"
+    }
+  }
+}
