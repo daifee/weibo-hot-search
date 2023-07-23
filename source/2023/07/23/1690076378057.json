@@ -1,0 +1,410 @@
+{
+  "runTime": 1690076378057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2524361,
+        "num": 2524361,
+        "word": "川航8985紧急备降江苏",
+        "onboard_time": 1690071926,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1416990,
+        "num": 1416990,
+        "word": "迪丽热巴受伤了",
+        "onboard_time": 1690073187,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48344,
+        "num": 1251986,
+        "word": "2023年空军航空开放活动来了",
+        "onboard_time": 1690031553,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1547298,
+        "num": 1195291,
+        "word": "魏大勋让杨洋别耍帅了",
+        "onboard_time": 1690070004,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1129818,
+        "num": 1129818,
+        "word": "林志玲亲口证实引退",
+        "onboard_time": 1690071325,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 938465,
+        "num": 938465,
+        "word": "徐海乔评论区",
+        "onboard_time": 1690068381,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 662612,
+        "num": 662612,
+        "word": "孟宴臣说妈妈我求求你看看我的脸",
+        "onboard_time": 1690072105,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 536278,
+        "num": 536278,
+        "word": "宇智波佐助",
+        "onboard_time": 1690071024,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 446557,
+        "num": 446557,
+        "word": "穿cos服医学生雨中跪地救人",
+        "onboard_time": 1690073669,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391047,
+        "num": 391047,
+        "word": "Uzi后台哭了",
+        "onboard_time": 1690067239,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 597465,
+        "num": 389941,
+        "word": "71岁丫头",
+        "onboard_time": 1690039300,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518081,
+        "num": 388614,
+        "word": "宋焰用一条毛巾帮许沁擦手擦脚",
+        "onboard_time": 1690069281,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480577,
+        "num": 388060,
+        "word": "周奇都演爹了",
+        "onboard_time": 1690070785,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386092,
+        "num": 386092,
+        "word": "全年最热的时候来了",
+        "onboard_time": 1690069944,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379003,
+        "num": 379003,
+        "word": "四川内江地震",
+        "onboard_time": 1690075409,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470284,
+        "num": 364067,
+        "word": "央视网文娱",
+        "onboard_time": 1690072827,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399058,
+        "num": 360283,
+        "word": "你好星期六收视创新高",
+        "onboard_time": 1690035995,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339902,
+        "num": 339902,
+        "word": "中山一骑车女子遇开门杀不幸身亡",
+        "onboard_time": 1690030294,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253011,
+        "num": 253011,
+        "word": "海南师范大学回应录取唐尚珺",
+        "onboard_time": 1690039234,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 229648,
+        "num": 229648,
+        "word": "起猛了全班17人考上了清华",
+        "onboard_time": 1690028731,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 830979,
+        "num": 228809,
+        "word": "街头杀妻男子当着女儿面行凶",
+        "onboard_time": 1690072707,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610676,
+        "num": 228586,
+        "word": "坐高铁出于好奇选了静音车厢",
+        "onboard_time": 1690071686,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392549,
+        "num": 227211,
+        "word": "杨洋把杨迪整崩溃了",
+        "onboard_time": 1690071384,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356734,
+        "num": 226237,
+        "word": "刀郎新歌歌词",
+        "onboard_time": 1690072045,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225779,
+        "num": 225779,
+        "word": "女足被绝杀是不是越位",
+        "onboard_time": 1690069222,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327973,
+        "num": 225735,
+        "word": "TFBOYS演唱会笑话",
+        "onboard_time": 1690040556,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317286,
+        "num": 224866,
+        "word": "男子颅内感染后突然魔怔称能看到鬼",
+        "onboard_time": 1690038639,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289389,
+        "num": 224001,
+        "word": "TF三代喊话粉丝",
+        "onboard_time": 1690072587,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279497,
+        "num": 223334,
+        "word": "喜欢王一博不喜欢凯文的原因",
+        "onboard_time": 1690071205,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278542,
+        "num": 222410,
+        "word": "薛之谦说只有梅西可以治愈他",
+        "onboard_time": 1690072229,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 256079,
+        "num": 221740,
+        "word": "谁教汪东城这样打call的",
+        "onboard_time": 1690073909,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252836,
+        "num": 221612,
+        "word": "芭比女演员",
+        "onboard_time": 1690071145,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221005,
+        "num": 221005,
+        "word": "录取通知书被狗子咬得稀碎",
+        "onboard_time": 1690034738,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208385,
+        "num": 208385,
+        "word": "姐姐新婚妹妹养2000条蚕做手工扇",
+        "onboard_time": 1690068562,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 185221,
+        "num": 185221,
+        "word": "大熊猫被羚牛追击一路狂跑",
+        "onboard_time": 1690066938,
+        "rank": 34,
+        "category": "幽默,自然"
+      },
+      {
+        "raw_hot": 245414,
+        "num": 181801,
+        "word": "孟宴臣 叶子",
+        "onboard_time": 1690040496,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241714,
+        "num": 179299,
+        "word": "华华的世界大家都想逃离",
+        "onboard_time": 1690074871,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173611,
+        "num": 173611,
+        "word": "cos的好不如cos的巧",
+        "onboard_time": 1690073428,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 171283,
+        "num": 171283,
+        "word": "夏天最后1个节气",
+        "onboard_time": 1690069281,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163765,
+        "num": 163765,
+        "word": "无痛存钱的小妙招",
+        "onboard_time": 1690072465,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 240002,
+        "num": 163368,
+        "word": "因为长安三万里李白墓前摆满了美酒",
+        "onboard_time": 1690034074,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238867,
+        "num": 162571,
+        "word": "汪苏泷唱大雨找不到观众了",
+        "onboard_time": 1690076249,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237635,
+        "num": 161766,
+        "word": "吴宣仪千禧辣妹造型",
+        "onboard_time": 1690068682,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235194,
+        "num": 161372,
+        "word": "长安三万里角色cos热",
+        "onboard_time": 1690076010,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229712,
+        "num": 160332,
+        "word": "无欲无求的孟宴臣",
+        "onboard_time": 1690076189,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221147,
+        "num": 160060,
+        "word": "派克特父亲",
+        "onboard_time": 1690075351,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159384,
+        "num": 159384,
+        "word": "父母去世女生被上海音乐学院录取",
+        "onboard_time": 1690039300,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 150866,
+        "num": 150866,
+        "word": "大暑",
+        "onboard_time": 1690067298,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146207,
+        "num": 146207,
+        "word": "练车的怨气真的好大",
+        "onboard_time": 1690075829,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133256,
+        "num": 133256,
+        "word": "做指检的炸裂瞬间",
+        "onboard_time": 1690035938,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#军强则国安#"
+    }
+  }
+}

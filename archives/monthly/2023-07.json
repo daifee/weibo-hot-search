@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690068834138,
+  "endTime": 1690076378057,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1689821737,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2524361,
+      "num": 2524361,
+      "word": "川航8985紧急备降江苏",
+      "onboard_time": 1690071926,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2522401,
@@ -4187,6 +4195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1547298,
+      "num": 1195291,
+      "word": "魏大勋让杨洋别耍帅了",
+      "onboard_time": 1690070004,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1545965,
       "num": 1545965,
       "word": "喜欢睡觉的时候把手举过头顶",
@@ -4809,6 +4825,14 @@
       "onboard_time": 1688982514,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1416990,
+      "num": 1416990,
+      "word": "迪丽热巴受伤了",
+      "onboard_time": 1690073187,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1416215,
@@ -6729,6 +6753,14 @@
       "onboard_time": 1689856293,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1129818,
+      "num": 1129818,
+      "word": "林志玲亲口证实引退",
+      "onboard_time": 1690071325,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1128627,
@@ -8923,6 +8955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 938465,
+      "num": 938465,
+      "word": "徐海乔评论区",
+      "onboard_time": 1690068381,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 938070,
       "num": 567888,
       "word": "魏大勋早几年干嘛去了",
@@ -10897,6 +10937,14 @@
       "onboard_time": 1688382639,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 830979,
+      "num": 228809,
+      "word": "街头杀妻男子当着女儿面行凶",
+      "onboard_time": 1690072707,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 830693,
@@ -14731,6 +14779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 662612,
+      "num": 662612,
+      "word": "孟宴臣说妈妈我求求你看看我的脸",
+      "onboard_time": 1690072105,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 662489,
       "num": 662489,
       "word": "男子钓鱼在一帐篷内发现男尸",
@@ -16408,6 +16464,14 @@
       "word": "成都现双太阳",
       "onboard_time": 1689653255,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610676,
+      "num": 228586,
+      "word": "坐高铁出于好奇选了静音车厢",
+      "onboard_time": 1690071686,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -19083,6 +19147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536278,
+      "num": 536278,
+      "word": "宇智波佐助",
+      "onboard_time": 1690071024,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 535477,
       "num": 512864,
       "word": "只有白敬亭觉得虐吧",
@@ -19745,6 +19817,14 @@
       "onboard_time": 1689323193,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 518081,
+      "num": 388614,
+      "word": "宋焰用一条毛巾帮许沁擦手擦脚",
+      "onboard_time": 1690069281,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 518056,
@@ -21371,6 +21451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480577,
+      "num": 388060,
+      "word": "周奇都演爹了",
+      "onboard_time": 1690070785,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480534,
       "num": 418493,
       "word": "宋雨琦cueMINNIE空翻",
@@ -21857,6 +21945,14 @@
       "onboard_time": 1688311236,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470284,
+      "num": 364067,
+      "word": "央视网文娱",
+      "onboard_time": 1690072827,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 470222,
@@ -23112,6 +23208,14 @@
       "word": "男子奶茶店众目睽睽下强吻女孩",
       "onboard_time": 1689829002,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446557,
+      "num": 446557,
+      "word": "穿cos服医学生雨中跪地救人",
+      "onboard_time": 1690073669,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -26315,6 +26419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392549,
+      "num": 227211,
+      "word": "杨洋把杨迪整崩溃了",
+      "onboard_time": 1690071384,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392179,
       "num": 415092,
       "word": "爆料食堂吃出异物学生再发声",
@@ -26385,6 +26497,14 @@
       "onboard_time": 1688911956,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 391047,
+      "num": 391047,
+      "word": "Uzi后台哭了",
+      "onboard_time": 1690067239,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 390977,
@@ -26697,6 +26817,14 @@
       "onboard_time": 1689433837,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 386092,
+      "num": 386092,
+      "word": "全年最热的时候来了",
+      "onboard_time": 1690069944,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386088,
@@ -27192,6 +27320,14 @@
       "word": "溥仪眼镜诉雍正眼镜商标侵权",
       "onboard_time": 1689750750,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379003,
+      "num": 379003,
+      "word": "四川内江地震",
+      "onboard_time": 1690075409,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -28753,6 +28889,14 @@
       "onboard_time": 1689917313,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 356734,
+      "num": 226237,
+      "word": "刀郎新歌歌词",
+      "onboard_time": 1690072045,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 356711,
@@ -34315,6 +34459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289389,
+      "num": 224001,
+      "word": "TF三代喊话粉丝",
+      "onboard_time": 1690072587,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289364,
       "num": 289364,
       "word": "徐怀钰谢欣淘汰",
@@ -35283,6 +35435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279497,
+      "num": 223334,
+      "word": "喜欢王一博不喜欢凯文的原因",
+      "onboard_time": 1690071205,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279491,
       "num": 279491,
       "word": "刘雨昕腰围才50CM",
@@ -35393,6 +35553,14 @@
       "onboard_time": 1688725412,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 278542,
+      "num": 222410,
+      "word": "薛之谦说只有梅西可以治愈他",
+      "onboard_time": 1690072229,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 278305,
@@ -37763,6 +37931,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 256079,
+      "num": 221740,
+      "word": "谁教汪东城这样打call的",
+      "onboard_time": 1690073909,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 255970,
       "num": 214002,
       "word": "人民论坛网评八角笼中",
@@ -38163,6 +38339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252836,
+      "num": 221612,
+      "word": "芭比女演员",
+      "onboard_time": 1690071145,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252784,
       "num": 252784,
       "word": "北京的天气给我鞋底烫掉了",
@@ -38465,14 +38649,6 @@
       "onboard_time": 1689744754,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 249800,
-      "num": 249800,
-      "word": "Uzi后台哭了",
-      "onboard_time": 1690067239,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 249761,
@@ -39315,6 +39491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241714,
+      "num": 179299,
+      "word": "华华的世界大家都想逃离",
+      "onboard_time": 1690074871,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241692,
       "num": 182189,
       "word": "中3250万英镑的英国夫妻分手各结新欢",
@@ -39651,6 +39835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238867,
+      "num": 162571,
+      "word": "汪苏泷唱大雨找不到观众了",
+      "onboard_time": 1690076249,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 238860,
       "num": 238860,
       "word": "大家都是工作多久开始存钱的",
@@ -39793,6 +39985,14 @@
       "onboard_time": 1689160830,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237635,
+      "num": 161766,
+      "word": "吴宣仪千禧辣妹造型",
+      "onboard_time": 1690068682,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 237503,
@@ -40073,6 +40273,14 @@
       "onboard_time": 1689812855,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235194,
+      "num": 161372,
+      "word": "长安三万里角色cos热",
+      "onboard_time": 1690076010,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 235186,
@@ -40683,6 +40891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229712,
+      "num": 160332,
+      "word": "无欲无求的孟宴臣",
+      "onboard_time": 1690076189,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229450,
       "num": 229450,
       "word": "老板冷笑说你把简历投到了我另一家公司",
@@ -40769,14 +40985,6 @@
       "onboard_time": 1688521471,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228856,
-      "num": 228856,
-      "word": "徐海乔评论区",
-      "onboard_time": 1690068381,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 228827,
@@ -41129,6 +41337,14 @@
       "onboard_time": 1688950593,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225779,
+      "num": 225779,
+      "word": "女足被绝杀是不是越位",
+      "onboard_time": 1690069222,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 225775,
@@ -41761,6 +41977,14 @@
       "onboard_time": 1689481890,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221147,
+      "num": 160060,
+      "word": "派克特父亲",
+      "onboard_time": 1690075351,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 221104,
@@ -43537,6 +43761,14 @@
       "onboard_time": 1688821172,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208385,
+      "num": 208385,
+      "word": "姐姐新婚妹妹养2000条蚕做手工扇",
+      "onboard_time": 1690068562,
+      "rank": 39,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 208264,
@@ -48283,6 +48515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173611,
+      "num": 173611,
+      "word": "cos的好不如cos的巧",
+      "onboard_time": 1690073428,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 173606,
       "num": 173606,
       "word": "会用屁股抢位置的狗子",
@@ -48529,6 +48769,14 @@
       "onboard_time": 1688817692,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171283,
+      "num": 171283,
+      "word": "夏天最后1个节气",
+      "onboard_time": 1690069281,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171256,
@@ -49273,6 +49521,14 @@
       "onboard_time": 1689237573,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163765,
+      "num": 163765,
+      "word": "无痛存钱的小妙招",
+      "onboard_time": 1690072465,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 163699,
@@ -50377,6 +50633,14 @@
       "onboard_time": 1688524534,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146207,
+      "num": 146207,
+      "word": "练车的怨气真的好大",
+      "onboard_time": 1690075829,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 146169,
@@ -52379,14 +52643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 92134,
-      "num": 85379,
-      "word": "吴宣仪千禧辣妹造型",
-      "onboard_time": 1690068682,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 92117,
       "num": 1132873,
       "word": "太空种菜自给自足真的要实现啦",
@@ -52569,14 +52825,6 @@
       "onboard_time": 1688441375,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85395,
-      "num": 85395,
-      "word": "姐姐新婚妹妹养2000条蚕做手工扇",
-      "onboard_time": 1690068562,
-      "rank": 39,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 85353,
@@ -53531,6 +53779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48344,
+      "num": 1251986,
+      "word": "2023年空军航空开放活动来了",
+      "onboard_time": 1690031553,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48251,
       "num": 1542785,
       "word": "致敬高温里的平凡英雄",
@@ -54161,14 +54417,6 @@
       "onboard_time": 1688845036,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 25217,
-      "num": 1058451,
-      "word": "2023年空军航空开放活动来了",
-      "onboard_time": 1690031553,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24070,
