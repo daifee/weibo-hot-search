@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/23 12:33:39
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/23 13:15:35
 </p>
 </blockquote>
 <p>
@@ -4101,6 +4101,12 @@ TT战胜EDG（热度：1323237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%BD%95%E5%85%A5%E9%94%99%E8%AF%AF%E8%87%B4%E7%94%B7%E5%AD%A9%E6%9C%89%E6%A1%88%E5%BA%95%E8%BD%AC%E5%AD%A6%E8%A2%AB%E6%8B%92%23" target="weibo">
+交警录入错误致男孩有案底转学被拒（热度：1307044）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E5%91%8A%E5%88%AB%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
 沙溢告别奔跑吧（热度：1306693）
 </a>
@@ -4733,12 +4739,6 @@ PP猪的臭宝贝已报警（热度：1198090）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8A%8A%E5%91%A8%E4%B9%9F%E5%93%84%E7%9D%A1%E5%90%8E%E5%8E%BB%E6%89%93%E7%89%8C%23" target="weibo">
 孟子义把周也哄睡后去打牌（热度：1181280）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%BD%95%E5%85%A5%E9%94%99%E8%AF%AF%E8%87%B4%E7%94%B7%E5%AD%A9%E6%9C%89%E6%A1%88%E5%BA%95%E8%BD%AC%E5%AD%A6%E8%A2%AB%E6%8B%92%23" target="weibo">
-交警录入错误致男孩有案底转学被拒（热度：1176161）
 </a>
 </li>
 

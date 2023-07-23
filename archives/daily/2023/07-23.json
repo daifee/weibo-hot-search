@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690086819007,
+  "endTime": 1690089335069,
   "band_list": [
     {
       "raw_hot": 2524361,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1307044,
+      "num": 1307044,
+      "word": "交警录入错误致男孩有案底转学被拒",
+      "onboard_time": 1690079011,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1204153,
       "num": 1063840,
       "word": "赵寻被侵犯发生关系后不敢说",
@@ -105,14 +113,6 @@
       "onboard_time": 1690078171,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1176161,
-      "num": 1176161,
-      "word": "交警录入错误致男孩有案底转学被拒",
-      "onboard_time": 1690079011,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1129818,
@@ -152,6 +152,14 @@
       "word": "徐海乔评论区",
       "onboard_time": 1690068381,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 869987,
+      "num": 869987,
+      "word": "纣王 伯邑考",
+      "onboard_time": 1690086150,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760374,
+      "num": 311095,
+      "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
+      "onboard_time": 1690085969,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760131,
       "num": 413424,
       "word": "演员最好的医美",
@@ -225,6 +241,14 @@
       "onboard_time": 1690037617,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 721618,
+      "num": 721618,
+      "word": "李昌钰被指伪造证据",
+      "onboard_time": 1690087531,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 716707,
@@ -299,6 +323,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 622780,
+      "num": 622780,
+      "word": "许沁婚后日常",
+      "onboard_time": 1690087651,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 610676,
       "num": 288697,
       "word": "坐高铁出于好奇选了静音车厢",
@@ -339,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 537299,
-      "num": 426194,
-      "word": "纣王 伯邑考",
-      "onboard_time": 1690086150,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 536278,
       "num": 536278,
       "word": "宇智波佐助",
@@ -360,6 +384,14 @@
       "word": "向往的生活下期有张艺兴张子枫",
       "onboard_time": 1690081891,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 529109,
+      "num": 301990,
+      "word": "宋茜紫色吊带长裙",
+      "onboard_time": 1690087471,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -377,6 +409,14 @@
       "onboard_time": 1690038276,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 515187,
+      "num": 442007,
+      "word": "广末凉子宣布离婚",
+      "onboard_time": 1690089092,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 509030,
@@ -411,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 490655,
+      "num": 490655,
+      "word": "景区泼水节女网红被泼后跟游客冲突",
+      "onboard_time": 1690084110,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480577,
       "num": 388060,
       "word": "周奇都演爹了",
@@ -433,14 +481,6 @@
       "onboard_time": 1690072827,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 466836,
-      "num": 466836,
-      "word": "景区泼水节女网红被泼后跟游客冲突",
-      "onboard_time": 1690084110,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452325,
@@ -473,6 +513,14 @@
       "onboard_time": 1690071384,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420212,
+      "num": 420212,
+      "word": "敬礼娃娃郎铮被北大录取",
+      "onboard_time": 1690085668,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 415374,
@@ -531,20 +579,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 395175,
+      "num": 395175,
+      "word": "引领KPOP的四代女团",
+      "onboard_time": 1690087769,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391047,
       "num": 391047,
       "word": "Uzi后台哭了",
       "onboard_time": 1690067239,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 390048,
-      "num": 292767,
-      "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
-      "onboard_time": 1690085969,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389121,
@@ -569,6 +617,14 @@
       "onboard_time": 1690069944,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380972,
+      "num": 380972,
+      "word": "汪顺被判犯规",
+      "onboard_time": 1690087231,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 378537,
@@ -635,14 +691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 344586,
-      "num": 344586,
-      "word": "敬礼娃娃郎铮被北大录取",
-      "onboard_time": 1690085668,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 343447,
       "num": 234812,
       "word": "孟宴臣被诬陷戏份",
@@ -667,12 +715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332886,
+      "num": 332886,
+      "word": "一席之地说唱巅峰2023总冠军",
+      "onboard_time": 1690087711,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330436,
       "num": 278359,
       "word": "莲花楼今晚开播",
       "onboard_time": 1690078591,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329088,
+      "num": 329088,
+      "word": "买到了烂尾楼怎么办",
+      "onboard_time": 1690086570,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 318578,
@@ -705,6 +769,14 @@
       "onboard_time": 1690085311,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300808,
+      "num": 262478,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1690087952,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 300216,
@@ -835,12 +907,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245099,
-      "num": 245099,
-      "word": "买到了烂尾楼怎么办",
-      "onboard_time": 1690086570,
-      "rank": 37,
-      "category": "财经,社会新闻"
+      "raw_hot": 247874,
+      "num": 247874,
+      "word": "莲花楼",
+      "onboard_time": 1690088732,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 241903,
@@ -979,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214461,
+      "num": 214461,
+      "word": "杨和苏黄旭就你最hiphop",
+      "onboard_time": 1690088611,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211695,
       "num": 211695,
       "word": "马面裙戴发簪冰淇淋",
@@ -1059,6 +1139,14 @@
       "category": "幽默,自然"
     },
     {
+      "raw_hot": 185143,
+      "num": 225371,
+      "word": "心里的花终于开到了腿上",
+      "onboard_time": 1690089151,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178103,
       "num": 178103,
       "word": "陈天润 王妃",
@@ -1073,6 +1161,14 @@
       "onboard_time": 1690081291,
       "rank": 33,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 175172,
+      "num": 220590,
+      "word": "周末叛徒",
+      "onboard_time": 1690087651,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 173611,
@@ -1107,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167083,
+      "num": 167083,
+      "word": "于适陈牧驰此沙揭秘硬核封神演艺训练营",
+      "onboard_time": 1690089271,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163765,
       "num": 163765,
       "word": "无痛存钱的小妙招",
@@ -1115,12 +1219,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 157371,
+      "num": 157371,
+      "word": "高位截瘫女孩高考557手肘磨得见骨",
+      "onboard_time": 1690088431,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 155832,
       "num": 127528,
       "word": "魏大勋在新剧里叫黄子诚",
       "onboard_time": 1690032215,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153149,
+      "num": 153149,
+      "word": "果然爱是时常感到亏欠",
+      "onboard_time": 1690088912,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 148493,

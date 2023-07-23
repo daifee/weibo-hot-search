@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690086819007,
+  "endTime": 1690089335069,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -1459,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1307044,
+      "num": 1307044,
+      "word": "交警录入错误致男孩有案底转学被拒",
+      "onboard_time": 1690079011,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1306693,
       "num": 1306693,
       "word": "沙溢告别奔跑吧",
@@ -1705,14 +1713,6 @@
       "onboard_time": 1689602555,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1176161,
-      "num": 1176161,
-      "word": "交警录入错误致男孩有案底转学被拒",
-      "onboard_time": 1690079011,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1175415,
@@ -2867,6 +2867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 869987,
+      "num": 869987,
+      "word": "纣王 伯邑考",
+      "onboard_time": 1690086150,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 868934,
       "num": 411609,
       "word": "女孩地铁晕倒大便失禁一女子帮清理",
@@ -3539,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 760374,
+      "num": 311095,
+      "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
+      "onboard_time": 1690085969,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758205,
       "num": 758205,
       "word": "大陆配偶亲属可经小三通赴台探亲",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1689560969,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 721618,
+      "num": 721618,
+      "word": "李昌钰被指伪造证据",
+      "onboard_time": 1690087531,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720470,
@@ -4683,6 +4707,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 622780,
+      "num": 622780,
+      "word": "许沁婚后日常",
+      "onboard_time": 1690087651,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 621376,
       "num": 621376,
       "word": "刘耀文尚未前往医院治疗",
@@ -5587,14 +5619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 537299,
-      "num": 426194,
-      "word": "纣王 伯邑考",
-      "onboard_time": 1690086150,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 536278,
       "num": 536278,
       "word": "宇智波佐助",
@@ -5681,6 +5705,14 @@
       "onboard_time": 1689650792,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 529109,
+      "num": 301990,
+      "word": "宋茜紫色吊带长裙",
+      "onboard_time": 1690087471,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 528568,
@@ -5833,6 +5865,14 @@
       "onboard_time": 1690011092,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 515187,
+      "num": 442007,
+      "word": "广末凉子宣布离婚",
+      "onboard_time": 1690089092,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 513404,
@@ -6187,6 +6227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 490655,
+      "num": 490655,
+      "word": "景区泼水节女网红被泼后跟游客冲突",
+      "onboard_time": 1690084110,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490265,
       "num": 490265,
       "word": "光与夜之恋",
@@ -6521,14 +6569,6 @@
       "onboard_time": 1690032215,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 466836,
-      "num": 466836,
-      "word": "景区泼水节女网红被泼后跟游客冲突",
-      "onboard_time": 1690084110,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465844,
@@ -7307,6 +7347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420212,
+      "num": 420212,
+      "word": "敬礼娃娃郎铮被北大录取",
+      "onboard_time": 1690085668,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 419237,
       "num": 399999,
       "word": "茉莉美式",
@@ -7779,6 +7827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395175,
+      "num": 395175,
+      "word": "引领KPOP的四代女团",
+      "onboard_time": 1690087769,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394972,
       "num": 394972,
       "word": "典韦KPL",
@@ -7873,14 +7929,6 @@
       "onboard_time": 1689930216,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390048,
-      "num": 292767,
-      "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
-      "onboard_time": 1690085969,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389441,
@@ -8033,6 +8081,14 @@
       "onboard_time": 1689756813,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380972,
+      "num": 380972,
+      "word": "汪顺被判犯规",
+      "onboard_time": 1690087231,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 380966,
@@ -8779,14 +8835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 344586,
-      "num": 344586,
-      "word": "敬礼娃娃郎铮被北大录取",
-      "onboard_time": 1690085668,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 343755,
       "num": 343755,
       "word": "安乐传微博追剧团",
@@ -9083,6 +9131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332886,
+      "num": 332886,
+      "word": "一席之地说唱巅峰2023总冠军",
+      "onboard_time": 1690087711,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332371,
       "num": 332371,
       "word": "沙利文称美国将不得不与中国无限期共存",
@@ -9129,6 +9185,14 @@
       "onboard_time": 1690078591,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329088,
+      "num": 329088,
+      "word": "买到了烂尾楼怎么办",
+      "onboard_time": 1690086570,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 329079,
@@ -9713,6 +9777,14 @@
       "onboard_time": 1689934111,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300808,
+      "num": 262478,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1690087952,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 300654,
@@ -11411,14 +11483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245099,
-      "num": 245099,
-      "word": "买到了烂尾楼怎么办",
-      "onboard_time": 1690086570,
-      "rank": 37,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 244983,
       "num": 329022,
       "word": "玉骨遥点映礼",
@@ -12473,6 +12537,14 @@
       "onboard_time": 1689808645,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 214461,
+      "num": 214461,
+      "word": "杨和苏黄旭就你最hiphop",
+      "onboard_time": 1690088611,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 214034,
@@ -13867,6 +13939,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 185143,
+      "num": 225371,
+      "word": "心里的花终于开到了腿上",
+      "onboard_time": 1690089151,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184834,
       "num": 165975,
       "word": "美依礼芽后来全场大合唱",
@@ -14113,6 +14193,14 @@
       "onboard_time": 1689730710,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175172,
+      "num": 220590,
+      "word": "周末叛徒",
+      "onboard_time": 1690087651,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 174828,
@@ -14411,6 +14499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167083,
+      "num": 167083,
+      "word": "于适陈牧驰此沙揭秘硬核封神演艺训练营",
+      "onboard_time": 1690089271,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166477,
       "num": 166477,
       "word": "台风泰利风力有多强",
@@ -14635,6 +14731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157371,
+      "num": 157371,
+      "word": "高位截瘫女孩高考557手肘磨得见骨",
+      "onboard_time": 1690088431,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 155914,
       "num": 155914,
       "word": "沈月小名叫微微",
@@ -14697,6 +14801,14 @@
       "onboard_time": 1689520716,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153149,
+      "num": 153149,
+      "word": "果然爱是时常感到亏欠",
+      "onboard_time": 1690088912,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 152587,
