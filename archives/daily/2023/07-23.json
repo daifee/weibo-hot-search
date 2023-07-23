@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690110783203,
+  "endTime": 1690112042375,
   "band_list": [
     {
       "raw_hot": 3354062,
@@ -17,6 +17,14 @@
       "onboard_time": 1690102053,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2659264,
+      "num": 2659264,
+      "word": "迫于舆论压力缅甸首次0赎金放人",
+      "onboard_time": 1690106852,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2524361,
@@ -67,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1573793,
+      "num": 1573793,
+      "word": "杨洋被泼水时王楚然的眼神",
+      "onboard_time": 1690107631,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1553003,
       "num": 829873,
       "word": "美依礼芽来中国前后对比",
@@ -81,14 +97,6 @@
       "onboard_time": 1690070004,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1467250,
-      "num": 1467250,
-      "word": "迫于舆论压力缅甸首次0赎金放人",
-      "onboard_time": 1690106852,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1451614,
@@ -112,14 +120,6 @@
       "word": "迪丽热巴受伤了",
       "onboard_time": 1690073187,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1402209,
-      "num": 1402209,
-      "word": "杨洋被泼水时王楚然的眼神",
-      "onboard_time": 1690107631,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -451,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 658130,
+      "num": 575970,
+      "word": "吴京加上朱一龙微信了",
+      "onboard_time": 1690110393,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655722,
       "num": 655722,
       "word": "营业悖论",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 644538,
-      "num": 1415808,
+      "num": 1947729,
       "word": "女子被医院紧急电话轰炸挽回一命",
       "onboard_time": 1690105832,
       "rank": 1,
@@ -563,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570867,
+      "num": 570867,
+      "word": "黑龙江体育馆坍塌已营救8人",
+      "onboard_time": 1690110156,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556923,
       "num": 438920,
       "word": "宋焰用一条毛巾帮许沁擦手擦脚",
@@ -635,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 509224,
+      "num": 509224,
+      "word": "长相思",
+      "onboard_time": 1690109973,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509030,
       "num": 509030,
       "word": "男子含着蟑螂下馆子敲诈商家被拘",
@@ -705,14 +729,6 @@
       "onboard_time": 1690088431,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 480986,
-      "num": 480986,
-      "word": "长相思",
-      "onboard_time": 1690109973,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 480577,
@@ -851,12 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 421591,
-      "num": 421591,
-      "word": "黑龙江体育馆坍塌已营救8人",
-      "onboard_time": 1690110156,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 417813,
+      "num": 417813,
+      "word": "乌尔善说封神二三部已经拍摄剪辑完成",
+      "onboard_time": 1690107390,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 415374,
@@ -881,6 +897,14 @@
       "onboard_time": 1690090293,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409120,
+      "num": 409120,
+      "word": "高铁座位上的二维码真的有用",
+      "onboard_time": 1690107572,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 409067,
@@ -1035,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 363491,
-      "num": 331252,
-      "word": "吴京加上朱一龙微信了",
-      "onboard_time": 1690110393,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 357378,
       "num": 330642,
       "word": "十个勤天",
@@ -1107,14 +1123,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 344578,
-      "num": 329058,
-      "word": "乌尔善说封神二三部已经拍摄剪辑完成",
-      "onboard_time": 1690107390,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 343447,
       "num": 234812,
       "word": "孟宴臣被诬陷戏份",
@@ -1163,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331648,
-      "num": 331648,
-      "word": "高铁座位上的二维码真的有用",
-      "onboard_time": 1690107572,
-      "rank": 47,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 330436,
       "num": 278359,
       "word": "莲花楼今晚开播",
@@ -1201,6 +1201,14 @@
       "onboard_time": 1690088732,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323223,
+      "num": 281139,
+      "word": "电视剧里的濒死剖宫产真的存在吗",
+      "onboard_time": 1690111532,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318578,
@@ -1265,6 +1273,14 @@
       "onboard_time": 1690078591,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 299777,
+      "num": 299777,
+      "word": "LOL手游亚洲联赛总决赛",
+      "onboard_time": 1690110755,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 297104,
@@ -1347,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281641,
+      "num": 281641,
+      "word": "TheShy兰博被针对",
+      "onboard_time": 1690110570,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281256,
       "num": 296993,
       "word": "狮子脸的缅因猫",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1690109072,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269629,
+      "num": 269629,
+      "word": "母亲晒孩子在沙滩制竹签陷阱引争议",
+      "onboard_time": 1690111592,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269048,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1690109072,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243071,
+      "num": 243071,
+      "word": "夏天的风今天唱了",
+      "onboard_time": 1690110812,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 241903,
@@ -1683,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215108,
+      "num": 215108,
+      "word": "男朋友问我为啥站那里不动",
+      "onboard_time": 1690110993,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214461,
       "num": 214461,
       "word": "杨和苏黄旭就你最hiphop",
@@ -1787,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193161,
+      "num": 1313317,
+      "word": "女子遇车祸跪地求助法官干警伸援手",
+      "onboard_time": 1690106972,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191484,
       "num": 140180,
       "word": "芭比导演坚持反对剪掉老奶奶场景",
@@ -1851,14 +1907,6 @@
       "category": "时尚,幽默"
     },
     {
-      "raw_hot": 187123,
-      "num": 1222609,
-      "word": "女子遇车祸跪地求助法官干警伸援手",
-      "onboard_time": 1690106972,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186479,
       "num": 186479,
       "word": "果然爱是时常感到亏欠",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1690081291,
       "rank": 33,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 174493,
+      "num": 174493,
+      "word": "夏思凝100米栏夺冠又美又飒",
+      "onboard_time": 1690110933,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 174403,
@@ -1971,20 +2027,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169683,
+      "num": 169683,
+      "word": "明日方舟",
+      "onboard_time": 1690111231,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163765,
       "num": 163765,
       "word": "无痛存钱的小妙招",
       "onboard_time": 1690072465,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 161806,
-      "num": 204722,
-      "word": "TheShy兰博被针对",
-      "onboard_time": 1690110570,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 157961,
@@ -2041,14 +2097,6 @@
       "onboard_time": 1690077390,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 139760,
-      "num": 204554,
-      "word": "LOL手游亚洲联赛总决赛",
-      "onboard_time": 1690110755,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 138821,
@@ -2155,6 +2203,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 57688,
+      "num": 1656678,
+      "word": "大暑里的酷热与关爱",
+      "onboard_time": 1690107091,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51154,
       "num": 895644,
       "word": "一键解锁消暑秘诀",
@@ -2167,14 +2223,6 @@
       "num": 1251986,
       "word": "2023年空军航空开放活动来了",
       "onboard_time": 1690031553,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45198,
-      "num": 1406933,
-      "word": "大暑里的酷热与关爱",
-      "onboard_time": 1690107091,
       "rank": 2,
       "category": "社会新闻"
     },
