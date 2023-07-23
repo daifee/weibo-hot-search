@@ -1,0 +1,410 @@
+{
+  "runTime": 1690080481522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1351668,
+        "num": 1351668,
+        "word": "租户墙内发现40万巨额财物主动上交",
+        "onboard_time": 1690076429,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111316,
+        "num": 1111316,
+        "word": "付闻樱问孟宴臣你怎么不去死",
+        "onboard_time": 1690076611,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26799,
+        "num": 1000724,
+        "word": "2023年空军航空开放活动来了",
+        "onboard_time": 1690031553,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994349,
+        "num": 994349,
+        "word": "魏大勋让杨洋别耍帅了",
+        "onboard_time": 1690070004,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 915094,
+        "num": 915094,
+        "word": "林志玲亲口证实引退",
+        "onboard_time": 1690071325,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1169386,
+        "num": 866168,
+        "word": "迪丽热巴受伤了",
+        "onboard_time": 1690073187,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 690970,
+        "num": 690970,
+        "word": "我的人间烟火大结局你能接受吗",
+        "onboard_time": 1690078171,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369532,
+        "num": 369532,
+        "word": "穿cos服医学生雨中跪地救人",
+        "onboard_time": 1690073669,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365648,
+        "num": 365648,
+        "word": "国产核磁共振技术突破国外长期封锁",
+        "onboard_time": 1690078709,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 319189,
+        "num": 319189,
+        "word": "宇智波佐助",
+        "onboard_time": 1690071024,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1799424,
+        "num": 319135,
+        "word": "川航8985紧急备降江苏",
+        "onboard_time": 1690071926,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204153,
+        "num": 314531,
+        "word": "赵寻被侵犯发生关系后不敢说",
+        "onboard_time": 1690078352,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 661714,
+        "num": 309836,
+        "word": "宋焰被付闻樱毁掉的人生",
+        "onboard_time": 1690078770,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584182,
+        "num": 304546,
+        "word": "徐海乔评论区",
+        "onboard_time": 1690068381,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302758,
+        "num": 302758,
+        "word": "四川内江地震",
+        "onboard_time": 1690075409,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490708,
+        "num": 297833,
+        "word": "李汶翰新歌坠落视频",
+        "onboard_time": 1690078950,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449351,
+        "num": 296208,
+        "word": "宋焰用一条毛巾帮许沁擦手擦脚",
+        "onboard_time": 1690069281,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279826,
+        "num": 279826,
+        "word": "Uzi后台哭了",
+        "onboard_time": 1690067239,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193695,
+        "num": 279817,
+        "word": "姐姐新婚妹妹养2000条蚕做手工扇",
+        "onboard_time": 1690068562,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 184710,
+        "num": 279510,
+        "word": "中山一骑车女子遇开门杀不幸身亡",
+        "onboard_time": 1690030294,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487586,
+        "num": 279489,
+        "word": "交警录入错误致男孩有案底转学被拒",
+        "onboard_time": 1690079011,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 484663,
+        "num": 279311,
+        "word": "街头杀妻男子当着女儿面行凶",
+        "onboard_time": 1690072707,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424073,
+        "num": 279175,
+        "word": "虞书欣露腰吊带裙",
+        "onboard_time": 1690079731,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413825,
+        "num": 278931,
+        "word": "蒋俊豪承认喜欢何欢",
+        "onboard_time": 1690077690,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408260,
+        "num": 278851,
+        "word": "坐高铁出于好奇选了静音车厢",
+        "onboard_time": 1690071686,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357856,
+        "num": 278669,
+        "word": "小孩不会说谎但会胡说八道",
+        "onboard_time": 1690076311,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342151,
+        "num": 278544,
+        "word": "71岁丫头",
+        "onboard_time": 1690039300,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330436,
+        "num": 278359,
+        "word": "莲花楼今晚开播",
+        "onboard_time": 1690078591,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299777,
+        "num": 278154,
+        "word": "汪苏泷唱大雨找不到观众了",
+        "onboard_time": 1690076249,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174682,
+        "num": 277945,
+        "word": "海南师范大学回应录取唐尚珺",
+        "onboard_time": 1690039234,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 291787,
+        "num": 277823,
+        "word": "杨洋把杨迪整崩溃了",
+        "onboard_time": 1690071384,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287386,
+        "num": 277648,
+        "word": "蔡少芬陈法蓉gidle合照",
+        "onboard_time": 1690078591,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277585,
+        "num": 277585,
+        "word": "孟宴臣说妈妈我求求你看看我的脸",
+        "onboard_time": 1690072105,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274743,
+        "num": 274743,
+        "word": "乐华家族演唱会全场合唱无羁",
+        "onboard_time": 1690077330,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206960,
+        "num": 261301,
+        "word": "男子颅内感染后突然魔怔称能看到鬼",
+        "onboard_time": 1690038639,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258008,
+        "num": 258008,
+        "word": "周奇都演爹了",
+        "onboard_time": 1690070785,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169273,
+        "num": 257384,
+        "word": "录取通知书被狗子咬得稀碎",
+        "onboard_time": 1690034738,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166637,
+        "num": 248503,
+        "word": "中建八局再被曝工程质量问题",
+        "onboard_time": 1690080390,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150786,
+        "num": 245832,
+        "word": "练车的怨气真的好大",
+        "onboard_time": 1690075829,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141651,
+        "num": 239962,
+        "word": "世界上最忧伤的鱼",
+        "onboard_time": 1690077390,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 238102,
+        "num": 238102,
+        "word": "TFBOYS演唱会笑话",
+        "onboard_time": 1690040556,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225439,
+        "num": 225439,
+        "word": "你好星期六收视创新高",
+        "onboard_time": 1690035995,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219504,
+        "num": 219504,
+        "word": "喜欢王一博不喜欢凯文的原因",
+        "onboard_time": 1690071205,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206284,
+        "num": 206284,
+        "word": "封神改编",
+        "onboard_time": 1690079309,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198997,
+        "num": 206227,
+        "word": "薛之谦说只有梅西可以治愈他",
+        "onboard_time": 1690072229,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 180769,
+        "num": 205868,
+        "word": "TF三代喊话粉丝",
+        "onboard_time": 1690072587,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138766,
+        "num": 205308,
+        "word": "大暑",
+        "onboard_time": 1690067298,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120908,
+        "num": 204902,
+        "word": "夏天最后1个节气",
+        "onboard_time": 1690069281,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118723,
+        "num": 204552,
+        "word": "大熊猫被羚牛追击一路狂跑",
+        "onboard_time": 1690066938,
+        "rank": 48,
+        "category": "幽默,自然"
+      },
+      {
+        "raw_hot": 116840,
+        "num": 204122,
+        "word": "女足被绝杀是不是越位",
+        "onboard_time": 1690069222,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把长江文化保护好传承好弘扬好#"
+    }
+  }
+}
