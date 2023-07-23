@@ -1,10 +1,10 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690094044586,
+  "endTime": 1690096497722,
   "band_list": [
     {
       "raw_hot": 3354062,
-      "num": 720194,
+      "num": 723107,
       "word": "杨颖身份证上名字",
       "onboard_time": 1690091070,
       "rank": 3,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 938828,
+      "num": 938828,
+      "word": "孟子义所有妹妹碰过的都买",
+      "onboard_time": 1690094190,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 938465,
       "num": 938465,
       "word": "徐海乔评论区",
@@ -200,6 +208,14 @@
       "word": "许沁婚后日常",
       "onboard_time": 1690087651,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 905557,
+      "num": 424749,
+      "word": "林允说梦华录时期被骂惨了",
+      "onboard_time": 1690091851,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -273,14 +289,6 @@
       "onboard_time": 1690037677,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 757585,
-      "num": 424749,
-      "word": "林允说梦华录时期被骂惨了",
-      "onboard_time": 1690091851,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 732734,
@@ -409,6 +417,22 @@
       "onboard_time": 1690085668,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 549812,
+      "num": 322835,
+      "word": "美依礼芽来中国前后对比",
+      "onboard_time": 1690095871,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 537593,
+      "num": 537593,
+      "word": "刘耀文说公司的人没有创新",
+      "onboard_time": 1690093832,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 536278,
@@ -651,6 +675,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 393243,
+      "num": 301751,
+      "word": "密室大逃脱",
+      "onboard_time": 1690094429,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391047,
       "num": 391047,
       "word": "Uzi后台哭了",
@@ -763,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 348728,
+      "num": 294461,
+      "word": "王鹤棣暗示孟子义",
+      "onboard_time": 1690095030,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343447,
       "num": 234812,
       "word": "孟宴臣被诬陷戏份",
@@ -843,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309965,
+      "num": 309965,
+      "word": "杭州暴雨",
+      "onboard_time": 1690090950,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306156,
       "num": 288467,
       "word": "奥本芭比",
@@ -856,14 +904,6 @@
       "word": "老板劝朋友别买自家裙子",
       "onboard_time": 1690092752,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301835,
-      "num": 301835,
-      "word": "杭州暴雨",
-      "onboard_time": 1690090950,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -899,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 291331,
+      "num": 291331,
+      "word": "刀郎 罗刹海市",
+      "onboard_time": 1690095450,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290248,
       "num": 232209,
       "word": "封神",
@@ -913,6 +961,22 @@
       "onboard_time": 1690072587,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288356,
+      "num": 288356,
+      "word": "王鹤棣让王传君给詹姆斯道歉",
+      "onboard_time": 1690096291,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288347,
+      "num": 299857,
+      "word": "女孩店内撒尿家长拒清理称我购物了",
+      "onboard_time": 1690093832,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286220,
@@ -940,7 +1004,7 @@
     },
     {
       "raw_hot": 281256,
-      "num": 271334,
+      "num": 296993,
       "word": "狮子脸的缅因猫",
       "onboard_time": 1690091552,
       "rank": 23,
@@ -1139,6 +1203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222656,
+      "num": 278394,
+      "word": "常德公交车酒吧",
+      "onboard_time": 1690094131,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 221147,
       "num": 160060,
       "word": "派克特父亲",
@@ -1211,12 +1283,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 210045,
-      "num": 192297,
-      "word": "刘耀文说公司的人没有创新",
-      "onboard_time": 1690093832,
+      "raw_hot": 209163,
+      "num": 209163,
+      "word": "男孩游泳不会勾脚被教练缠胶带",
+      "onboard_time": 1690095930,
       "rank": 35,
-      "category": "作品衍生"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209053,
@@ -1273,6 +1345,14 @@
       "onboard_time": 1690075829,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189020,
+      "num": 189020,
+      "word": "店铺门口贴15张请假条1张可抵50元",
+      "onboard_time": 1690093652,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188229,
@@ -1425,14 +1505,6 @@
       "onboard_time": 1690085010,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 124328,
-      "num": 192159,
-      "word": "女孩店内撒尿家长拒清理称我购物了",
-      "onboard_time": 1690093832,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113024,
