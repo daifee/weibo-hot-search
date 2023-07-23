@@ -1,0 +1,410 @@
+{
+  "runTime": 1690108412020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1022001,
+        "num": 1022001,
+        "word": "为什么打针前要推掉一点药水",
+        "onboard_time": 1690103193,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613578,
+        "num": 1016991,
+        "word": "女子被医院紧急电话轰炸挽回一命",
+        "onboard_time": 1690105832,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39585,
+        "num": 1002422,
+        "word": "大暑里的酷热与关爱",
+        "onboard_time": 1690107091,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1551078,
+        "num": 983710,
+        "word": "杨颖身份证上名字",
+        "onboard_time": 1690091070,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187123,
+        "num": 978705,
+        "word": "女子遇车祸跪地求助法官干警伸援手",
+        "onboard_time": 1690106972,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969137,
+        "num": 969137,
+        "word": "宋焰许沁婚房在高铁旁边",
+        "onboard_time": 1690106731,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241649,
+        "num": 893647,
+        "word": "女子用2万根纸卷出千里江山图",
+        "onboard_time": 1690104155,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826767,
+        "num": 826767,
+        "word": "齐齐哈尔一中学体育馆楼顶坍塌",
+        "onboard_time": 1690107271,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809145,
+        "num": 809145,
+        "word": "豆瓣",
+        "onboard_time": 1690101571,
+        "rank": 8,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 699572,
+        "num": 699572,
+        "word": "迫于舆论压力缅甸首次0赎金放人",
+        "onboard_time": 1690106852,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2292037,
+        "num": 662642,
+        "word": "魏大勋韩网想弄哭第一名",
+        "onboard_time": 1690102053,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1128931,
+        "num": 640675,
+        "word": "律师称初中女生奸杀案已是顶格处罚",
+        "onboard_time": 1690101571,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612663,
+        "num": 612663,
+        "word": "王俊凯王源易烊千玺首唱会视频",
+        "onboard_time": 1690106612,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 606338,
+        "num": 606338,
+        "word": "原来孟宴臣早就从我的全世界路过",
+        "onboard_time": 1690104334,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34680,
+        "num": 586115,
+        "word": "QQ音乐我们的毕业歌",
+        "onboard_time": 1690106429,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 573906,
+        "num": 573906,
+        "word": "美依礼芽来中国前后对比",
+        "onboard_time": 1690095871,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535298,
+        "num": 535298,
+        "word": "芭比",
+        "onboard_time": 1690106912,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499386,
+        "num": 499386,
+        "word": "因角色爆火的明星",
+        "onboard_time": 1690103252,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281243,
+        "num": 281243,
+        "word": "四川内江地震",
+        "onboard_time": 1690104572,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225485,
+        "num": 280618,
+        "word": "阳光玫瑰葡萄最全讲解",
+        "onboard_time": 1690098690,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 433297,
+        "num": 276246,
+        "word": "封神第二部",
+        "onboard_time": 1690103853,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429374,
+        "num": 273265,
+        "word": "关晓彤生图身材比例",
+        "onboard_time": 1690107154,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 400470,
+        "num": 270273,
+        "word": "没有发过朋友圈的微信长这样",
+        "onboard_time": 1690106059,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354722,
+        "num": 269177,
+        "word": "意外被复旦的俄语专业录取了",
+        "onboard_time": 1690107332,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297290,
+        "num": 265611,
+        "word": "刚得知我妈给我存了一百万",
+        "onboard_time": 1690102295,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 349860,
+        "num": 264026,
+        "word": "长相思杨紫四段剧情三段在下毒",
+        "onboard_time": 1690106612,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321601,
+        "num": 259703,
+        "word": "乌尔善说封神二三部已经拍摄剪辑完成",
+        "onboard_time": 1690107390,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309856,
+        "num": 256789,
+        "word": "王鹤棣让王传君给詹姆斯道歉",
+        "onboard_time": 1690096291,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296157,
+        "num": 254705,
+        "word": "男子回家发现丈夫身份被邻居顶替",
+        "onboard_time": 1690106252,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186653,
+        "num": 252156,
+        "word": "大熊猫也是妈妈的跟屁虫",
+        "onboard_time": 1690098571,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462210,
+        "num": 249793,
+        "word": "杨洋被泼水时王楚然的眼神",
+        "onboard_time": 1690107631,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376487,
+        "num": 244838,
+        "word": "张拿铁上的户口是铁岭汉族",
+        "onboard_time": 1690104632,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 301066,
+        "num": 243302,
+        "word": "热烈",
+        "onboard_time": 1690101212,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241576,
+        "num": 241576,
+        "word": "种地吧",
+        "onboard_time": 1690108231,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208190,
+        "num": 241502,
+        "word": "青海湖猫皮马甲",
+        "onboard_time": 1690107332,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225531,
+        "num": 241080,
+        "word": "玉骨遥全员夸夸团上线",
+        "onboard_time": 1690104572,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210268,
+        "num": 240448,
+        "word": "危险派对",
+        "onboard_time": 1690098871,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204421,
+        "num": 239775,
+        "word": "明星北电脸上戏脸中戏脸",
+        "onboard_time": 1690102234,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187378,
+        "num": 239441,
+        "word": "麻烦义乌马上安排下",
+        "onboard_time": 1690106493,
+        "rank": 38,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 178437,
+        "num": 238640,
+        "word": "富阳暴雨",
+        "onboard_time": 1690107031,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200657,
+        "num": 238412,
+        "word": "莲花楼",
+        "onboard_time": 1690088732,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195897,
+        "num": 237890,
+        "word": "热烈预售票房破5000万",
+        "onboard_time": 1690097431,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195817,
+        "num": 237512,
+        "word": "王楚然任敏同款裙子",
+        "onboard_time": 1690096832,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186010,
+        "num": 236912,
+        "word": "莲花楼全员放大镜搜证",
+        "onboard_time": 1690089931,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170150,
+        "num": 236276,
+        "word": "WBG对战NIP",
+        "onboard_time": 1690102173,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163085,
+        "num": 236012,
+        "word": "泳协秘书长跳江救人不幸遇难",
+        "onboard_time": 1690100551,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 164826,
+        "num": 235598,
+        "word": "最开始的奶茶是这样的",
+        "onboard_time": 1690102234,
+        "rank": 46,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 164561,
+        "num": 234996,
+        "word": "高铁座位上的二维码真的有用",
+        "onboard_time": 1690107572,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 127841,
+        "num": 234525,
+        "word": "美国一彩民中77亿元头奖",
+        "onboard_time": 1690082189,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 93926,
+        "num": 233954,
+        "word": "脸臭的人意识不到自己脸臭",
+        "onboard_time": 1690100850,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国载人登月火箭最新进展#"
+    }
+  }
+}
