@@ -1,0 +1,410 @@
+{
+  "runTime": 1690086819007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1673503,
+        "num": 1673503,
+        "word": "我的人间烟火豆瓣开分4.1分",
+        "onboard_time": 1690083271,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1176161,
+        "num": 1176161,
+        "word": "交警录入错误致男孩有案底转学被拒",
+        "onboard_time": 1690079011,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 6534,
+        "num": 833085,
+        "word": "2023年空军航空开放活动来了",
+        "onboard_time": 1690031553,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787029,
+        "num": 787029,
+        "word": "宋焰被付闻樱毁掉的人生",
+        "onboard_time": 1690078770,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593999,
+        "num": 593999,
+        "word": "魏大勋让杨洋别耍帅了",
+        "onboard_time": 1690070004,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 747186,
+        "num": 590417,
+        "word": "美国一彩民中77亿元头奖",
+        "onboard_time": 1690082189,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1037246,
+        "num": 581166,
+        "word": "迪丽热巴受伤了",
+        "onboard_time": 1690073187,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570823,
+        "num": 570823,
+        "word": "我的人间烟火大结局你能接受吗",
+        "onboard_time": 1690078171,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487189,
+        "num": 487189,
+        "word": "中建八局再被曝工程质量问题",
+        "onboard_time": 1690080390,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466836,
+        "num": 466836,
+        "word": "景区泼水节女网红被泼后跟游客冲突",
+        "onboard_time": 1690084110,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1527494,
+        "num": 464101,
+        "word": "店家卖穿马面裙戴发簪冰淇淋引争议",
+        "onboard_time": 1690080630,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205893,
+        "num": 449569,
+        "word": "川航8985紧急备降江苏",
+        "onboard_time": 1690071926,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694689,
+        "num": 442609,
+        "word": "赵寻被侵犯发生关系后不敢说",
+        "onboard_time": 1690078352,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537299,
+        "num": 426194,
+        "word": "纣王 伯邑考",
+        "onboard_time": 1690086150,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113024,
+        "num": 418039,
+        "word": "一张照片证明今年的大暑有多热",
+        "onboard_time": 1690084829,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529370,
+        "num": 408688,
+        "word": "颖儿纯素颜出演新剧",
+        "onboard_time": 1690081711,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402404,
+        "num": 402404,
+        "word": "林志玲亲口证实引退",
+        "onboard_time": 1690071325,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351539,
+        "num": 351539,
+        "word": "芭比 自我意识觉醒",
+        "onboard_time": 1690083391,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344586,
+        "num": 344586,
+        "word": "敬礼娃娃郎铮被北大录取",
+        "onboard_time": 1690085668,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 296179,
+        "num": 296179,
+        "word": "租户墙内发现40万巨额财物主动上交",
+        "onboard_time": 1690076429,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637614,
+        "num": 295961,
+        "word": "付闻樱问孟宴臣你怎么不去死",
+        "onboard_time": 1690076611,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 594922,
+        "num": 294410,
+        "word": "向太戴了好多澳白",
+        "onboard_time": 1690081891,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458285,
+        "num": 293461,
+        "word": "营业悖论",
+        "onboard_time": 1690081950,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 390048,
+        "num": 292767,
+        "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
+        "onboard_time": 1690085969,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343136,
+        "num": 291780,
+        "word": "Doinb看不懂中文",
+        "onboard_time": 1690083631,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 417623,
+        "num": 290486,
+        "word": "向往的生活下期有张艺兴张子枫",
+        "onboard_time": 1690081891,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335817,
+        "num": 289629,
+        "word": "徐海乔评论区",
+        "onboard_time": 1690068381,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306156,
+        "num": 288467,
+        "word": "奥本芭比",
+        "onboard_time": 1690085311,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287712,
+        "num": 287712,
+        "word": "周六野15分钟腰腹核心力量训练",
+        "onboard_time": 1690080871,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195101,
+        "num": 285662,
+        "word": "穿cos服医学生雨中跪地救人",
+        "onboard_time": 1690073669,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314307,
+        "num": 285582,
+        "word": "女子面包吃出生面团却被门店踢出群聊",
+        "onboard_time": 1690086752,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285033,
+        "num": 285033,
+        "word": "坐高铁出于好奇选了静音车厢",
+        "onboard_time": 1690071686,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281798,
+        "num": 281798,
+        "word": "孟宴臣对许沁说有娘家人给你撑腰",
+        "onboard_time": 1690084110,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277111,
+        "num": 277111,
+        "word": "这穗是非拨不可吗",
+        "onboard_time": 1690084650,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276943,
+        "num": 276943,
+        "word": "虞书欣露腰吊带裙",
+        "onboard_time": 1690079731,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265538,
+        "num": 265538,
+        "word": "法国女孩看完芭比后的经历",
+        "onboard_time": 1690080570,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245847,
+        "num": 245847,
+        "word": "TFBOYS演唱会笑话",
+        "onboard_time": 1690040556,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245099,
+        "num": 245099,
+        "word": "买到了烂尾楼怎么办",
+        "onboard_time": 1690086570,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 244779,
+        "num": 244779,
+        "word": "街头杀妻男子当着女儿面行凶",
+        "onboard_time": 1690072707,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210610,
+        "num": 210610,
+        "word": "和恐龙一个年纪的树长什么样",
+        "onboard_time": 1690084710,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202432,
+        "num": 202432,
+        "word": "漂流的时候一定要穿条长裤",
+        "onboard_time": 1690081109,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188877,
+        "num": 188877,
+        "word": "乐华家族演唱会全场合唱无羁",
+        "onboard_time": 1690077330,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187924,
+        "num": 187924,
+        "word": "71岁丫头",
+        "onboard_time": 1690039300,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187757,
+        "num": 187757,
+        "word": "长相思幕后特辑",
+        "onboard_time": 1690082849,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175266,
+        "num": 175266,
+        "word": "薛之谦说只有梅西可以治愈他",
+        "onboard_time": 1690072229,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 171690,
+        "num": 171690,
+        "word": "周奇都演爹了",
+        "onboard_time": 1690070785,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165765,
+        "num": 165765,
+        "word": "宇智波佐助",
+        "onboard_time": 1690071024,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152033,
+        "num": 152033,
+        "word": "国产核磁共振技术突破国外长期封锁",
+        "onboard_time": 1690078709,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 149656,
+        "num": 149656,
+        "word": "小孩不会说谎但会胡说八道",
+        "onboard_time": 1690076311,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144954,
+        "num": 144954,
+        "word": "Uzi后台哭了",
+        "onboard_time": 1690067239,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把长江文化保护好传承好弘扬好#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/23 12:19:47
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/23 12:33:39
 </p>
 </blockquote>
 <p>
@@ -2793,6 +2793,12 @@ TFBOYS演唱会的票价（热度：1711127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%864.1%E5%88%86%23" target="weibo">
+我的人间烟火豆瓣开分4.1分（热度：1673503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%91%A8%E8%BE%B9%E9%81%AD%E7%B2%89%E4%B8%9D9.9%E5%85%83%E7%94%A9%E5%8D%96%23" target="weibo">
 蔡徐坤周边遭粉丝9.9元甩卖（热度：1671883）
 </a>
@@ -3029,12 +3035,6 @@ TFBOYS演唱会的票价（热度：1711127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%85%89%E5%9E%8B%E6%8A%91%E9%83%81%E7%97%87%23" target="weibo">
 阳光型抑郁症（热度：1597774）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%864.1%E5%88%86%23" target="weibo">
-我的人间烟火豆瓣开分4.1分（热度：1596513）
 </a>
 </li>
 
@@ -4737,6 +4737,12 @@ PP猪的臭宝贝已报警（热度：1198090）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%BD%95%E5%85%A5%E9%94%99%E8%AF%AF%E8%87%B4%E7%94%B7%E5%AD%A9%E6%9C%89%E6%A1%88%E5%BA%95%E8%BD%AC%E5%AD%A6%E8%A2%AB%E6%8B%92%23" target="weibo">
+交警录入错误致男孩有案底转学被拒（热度：1176161）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%AC%AC%E4%B8%80%E9%83%A8%E7%8E%B0%E4%BB%A3%E7%94%B7%E4%B8%BB%E5%89%A7%23" target="weibo">
 刘宇宁第一部现代男主剧（热度：1175415）
 </a>
@@ -6005,12 +6011,6 @@ LPL比赛延期（热度：1022920）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%98%E7%BC%98%E5%AE%9A%E6%A1%A3%E4%BB%8A%E6%99%9A%23" target="weibo">
 尘缘定档今晚（热度：1011726）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%92%8C%E6%9B%BF%E8%BA%AB%E5%90%8C%E6%A1%86%23" target="weibo">
-肖战和替身同框（热度：1011679）
 </a>
 </li>
 
