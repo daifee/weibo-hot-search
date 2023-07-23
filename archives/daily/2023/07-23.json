@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690076378057,
+  "endTime": 1690077333645,
   "band_list": [
     {
       "raw_hot": 2524361,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 830979,
-      "num": 228809,
+      "num": 281557,
       "word": "街头杀妻男子当着女儿面行凶",
       "onboard_time": 1690072707,
       "rank": 20,
@@ -163,8 +163,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 662612,
-      "num": 662612,
+      "raw_hot": 693061,
+      "num": 693061,
       "word": "孟宴臣说妈妈我求求你看看我的脸",
       "onboard_time": 1690072105,
       "rank": 6,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 610676,
-      "num": 228586,
+      "num": 270364,
       "word": "坐高铁出于好奇选了静音车厢",
       "onboard_time": 1690071686,
       "rank": 21,
@@ -211,12 +211,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 556923,
+      "num": 438920,
+      "word": "宋焰用一条毛巾帮许沁擦手擦脚",
+      "onboard_time": 1690069281,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 536278,
       "num": 536278,
       "word": "宇智波佐助",
       "onboard_time": 1690071024,
       "rank": 7,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 528568,
+      "num": 528568,
+      "word": "四川内江地震",
+      "onboard_time": 1690075409,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521594,
@@ -227,19 +243,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 518081,
-      "num": 388614,
-      "word": "宋焰用一条毛巾帮许沁擦手擦脚",
-      "onboard_time": 1690069281,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 509030,
       "num": 509030,
       "word": "男子含着蟑螂下馆子敲诈商家被拘",
       "onboard_time": 1690033777,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500028,
+      "num": 500028,
+      "word": "穿cos服医学生雨中跪地救人",
+      "onboard_time": 1690073669,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491065,
+      "num": 222686,
+      "word": "租户墙内发现40万巨额财物主动上交",
+      "onboard_time": 1690076429,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 470284,
-      "num": 364067,
+      "num": 383594,
       "word": "央视网文娱",
       "onboard_time": 1690072827,
       "rank": 15,
@@ -275,12 +299,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 446557,
-      "num": 446557,
-      "word": "穿cos服医学生雨中跪地救人",
-      "onboard_time": 1690073669,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 450077,
+      "num": 319417,
+      "word": "付闻樱问孟宴臣你怎么不去死",
+      "onboard_time": 1690076611,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 424875,
@@ -289,6 +313,14 @@
       "onboard_time": 1690037256,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422269,
+      "num": 265085,
+      "word": "杨洋把杨迪整崩溃了",
+      "onboard_time": 1690071384,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 412449,
@@ -331,14 +363,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 392549,
-      "num": 227211,
-      "word": "杨洋把杨迪整崩溃了",
-      "onboard_time": 1690071384,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 391047,
       "num": 391047,
       "word": "Uzi后台哭了",
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379003,
-      "num": 379003,
-      "word": "四川内江地震",
-      "onboard_time": 1690075409,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376361,
       "num": 239276,
       "word": "为什么石头成为了网红菜",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 356734,
-      "num": 226237,
+      "num": 249104,
       "word": "刀郎新歌歌词",
       "onboard_time": 1690072045,
       "rank": 23,
@@ -419,12 +435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340574,
+      "num": 340574,
+      "word": "大暑",
+      "onboard_time": 1690067298,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318578,
       "num": 226002,
       "word": "杨洋王楚然撒糖镜头切魏大勋",
       "onboard_time": 1690042296,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308628,
+      "num": 232948,
+      "word": "汪苏泷唱大雨找不到观众了",
+      "onboard_time": 1690076249,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 297104,
@@ -449,6 +481,14 @@
       "onboard_time": 1690072587,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 286220,
+      "num": 286220,
+      "word": "姐姐新婚妹妹养2000条蚕做手工扇",
+      "onboard_time": 1690068562,
+      "rank": 39,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 284817,
@@ -491,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256920,
+      "num": 216127,
+      "word": "长安三万里角色cos热",
+      "onboard_time": 1690076010,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256079,
       "num": 221740,
       "word": "谁教汪东城这样打call的",
@@ -507,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248886,
+      "num": 206957,
+      "word": "无欲无求的孟宴臣",
+      "onboard_time": 1690076189,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241903,
       "num": 225686,
       "word": "苏醒这是我被收买费用最低的一次",
@@ -516,11 +572,19 @@
     },
     {
       "raw_hot": 241714,
-      "num": 179299,
+      "num": 194249,
       "word": "华华的世界大家都想逃离",
       "onboard_time": 1690074871,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 241109,
+      "num": 212215,
+      "word": "小孩不会说谎但会胡说八道",
+      "onboard_time": 1690076311,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 240240,
@@ -539,16 +603,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238867,
-      "num": 162571,
-      "word": "汪苏泷唱大雨找不到观众了",
-      "onboard_time": 1690076249,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 237635,
-      "num": 161766,
+      "num": 200231,
       "word": "吴宣仪千禧辣妹造型",
       "onboard_time": 1690068682,
       "rank": 41,
@@ -571,28 +627,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235194,
-      "num": 161372,
-      "word": "长安三万里角色cos热",
-      "onboard_time": 1690076010,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234869,
       "num": 197265,
       "word": "Angelababy点了三个痣",
       "onboard_time": 1690017032,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 229712,
-      "num": 160332,
-      "word": "无欲无求的孟宴臣",
-      "onboard_time": 1690076189,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 225779,
@@ -651,28 +691,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 208385,
-      "num": 208385,
-      "word": "姐姐新婚妹妹养2000条蚕做手工扇",
-      "onboard_time": 1690068562,
-      "rank": 39,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 207468,
       "num": 217843,
       "word": "WB",
       "onboard_time": 1690037139,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203460,
-      "num": 203460,
-      "word": "大暑",
-      "onboard_time": 1690067298,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191484,
@@ -689,6 +713,14 @@
       "onboard_time": 1690043250,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190257,
+      "num": 190257,
+      "word": "练车的怨气真的好大",
+      "onboard_time": 1690075829,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 188229,
@@ -761,14 +793,6 @@
       "onboard_time": 1690063815,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146207,
-      "num": 146207,
-      "word": "练车的怨气真的好大",
-      "onboard_time": 1690075829,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 145250,
