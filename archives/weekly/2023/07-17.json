@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690121652471,
+  "endTime": 1690122824033,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2356359,
+      "num": 2356359,
+      "word": "孟宴臣脖子上的吻痕",
+      "onboard_time": 1690119577,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2313677,
       "num": 708522,
       "word": "何超莲说婚后没和窦骁见过面",
@@ -433,14 +441,6 @@
       "onboard_time": 1689930875,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2301093,
-      "num": 2301093,
-      "word": "孟宴臣脖子上的吻痕",
-      "onboard_time": 1690119577,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2299833,
@@ -3275,6 +3275,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 836959,
+      "num": 836959,
+      "word": "莲花楼配音",
+      "onboard_time": 1690120177,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 835651,
       "num": 488620,
       "word": "办个婚礼把一个月工作KPI都完成了",
@@ -3681,14 +3689,6 @@
       "onboard_time": 1689899072,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 775813,
-      "num": 775813,
-      "word": "莲花楼配音",
-      "onboard_time": 1690120177,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 775618,
@@ -4657,6 +4657,14 @@
       "onboard_time": 1689744513,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 653694,
+      "num": 436859,
+      "word": "张远自曝大学初恋",
+      "onboard_time": 1690121501,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 653272,
@@ -7035,6 +7043,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 464483,
+      "num": 419508,
+      "word": "封神第一部票房",
+      "onboard_time": 1690121798,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464469,
       "num": 464469,
       "word": "王一博说自己是不会说话的人",
@@ -7683,6 +7699,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 427086,
+      "num": 383045,
+      "word": "曾舜晞6集被骗4次",
+      "onboard_time": 1690120842,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426968,
       "num": 426968,
       "word": "庾澄庆围观儿子直播",
@@ -8003,6 +8027,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 410757,
+      "num": 370054,
+      "word": "莲花楼特效",
+      "onboard_time": 1690122038,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410557,
       "num": 410557,
       "word": "没有吸管只能委屈葱了",
@@ -8209,6 +8241,14 @@
       "onboard_time": 1689864576,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401228,
+      "num": 379565,
+      "word": "网友在LV花近万元买错码不换被驱逐",
+      "onboard_time": 1690122163,
+      "rank": 23,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 401049,
@@ -8603,14 +8643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 381412,
-      "num": 381412,
-      "word": "曾舜晞6集被骗4次",
-      "onboard_time": 1690120842,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 381265,
       "num": 313479,
       "word": "Loopy演我上班",
@@ -8657,6 +8689,14 @@
       "onboard_time": 1689750750,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378861,
+      "num": 378861,
+      "word": "孙杨祝老婆生日快乐",
+      "onboard_time": 1690121918,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 378537,
@@ -10161,6 +10201,14 @@
       "onboard_time": 1689522334,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312744,
+      "num": 312744,
+      "word": "Doinb说要转辅助",
+      "onboard_time": 1690121380,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 312577,
@@ -12291,6 +12339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245307,
+      "num": 245307,
+      "word": "李莎旻子乘风后主持首秀",
+      "onboard_time": 1690122221,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244983,
       "num": 329022,
       "word": "玉骨遥点映礼",
@@ -12585,14 +12641,6 @@
       "onboard_time": 1689657093,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 237914,
-      "num": 210914,
-      "word": "张远自曝大学初恋",
-      "onboard_time": 1690121501,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 237852,
@@ -12985,6 +13033,14 @@
       "onboard_time": 1689594031,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228500,
+      "num": 228500,
+      "word": "西瓜扇子",
+      "onboard_time": 1690121676,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 228415,
@@ -14339,6 +14395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197872,
+      "num": 197872,
+      "word": "齐齐哈尔一中学体育馆楼顶坍塌鸟瞰画面",
+      "onboard_time": 1690122098,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197349,
       "num": 228942,
       "word": "河北廊坊重现200年前红楼一梦",
@@ -15251,6 +15315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175791,
+      "num": 183896,
+      "word": "i人无敌爱的场景",
+      "onboard_time": 1690121501,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175349,
       "num": 204820,
       "word": "乘风之夜芭莎收官大片",
@@ -15305,14 +15377,6 @@
       "onboard_time": 1690093892,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174266,
-      "num": 174266,
-      "word": "Doinb说要转辅助",
-      "onboard_time": 1690121380,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 173683,

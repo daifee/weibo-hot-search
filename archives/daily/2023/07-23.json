@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690121652471,
+  "endTime": 1690122824033,
   "band_list": [
     {
       "raw_hot": 3354062,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2301093,
-      "num": 2301093,
+      "raw_hot": 2356359,
+      "num": 2356359,
       "word": "孟宴臣脖子上的吻痕",
       "onboard_time": 1690119577,
       "rank": 0,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 836959,
+      "num": 836959,
+      "word": "莲花楼配音",
+      "onboard_time": 1690120177,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 830979,
       "num": 287028,
       "word": "街头杀妻男子当着女儿面行凶",
@@ -441,14 +449,6 @@
       "onboard_time": 1690030294,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 775813,
-      "num": 775813,
-      "word": "莲花楼配音",
-      "onboard_time": 1690120177,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 767227,
@@ -585,6 +585,14 @@
       "onboard_time": 1690081950,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 653694,
+      "num": 436859,
+      "word": "张远自曝大学初恋",
+      "onboard_time": 1690121501,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 648885,
@@ -931,6 +939,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 464483,
+      "num": 419508,
+      "word": "封神第一部票房",
+      "onboard_time": 1690121798,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464320,
       "num": 265611,
       "word": "刚得知我妈给我存了一百万",
@@ -1011,6 +1027,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 427086,
+      "num": 383045,
+      "word": "曾舜晞6集被骗4次",
+      "onboard_time": 1690120842,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426559,
       "num": 338004,
       "word": "蒋俊豪承认喜欢何欢",
@@ -1064,6 +1088,14 @@
       "word": "封神终于不再甩锅女性",
       "onboard_time": 1690026031,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 410757,
+      "num": 370054,
+      "word": "莲花楼特效",
+      "onboard_time": 1690122038,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1121,6 +1153,14 @@
       "onboard_time": 1690023930,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401228,
+      "num": 379565,
+      "word": "网友在LV花近万元买错码不换被驱逐",
+      "onboard_time": 1690122163,
+      "rank": 23,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 401049,
@@ -1203,19 +1243,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381412,
-      "num": 381412,
-      "word": "曾舜晞6集被骗4次",
-      "onboard_time": 1690120842,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 380972,
       "num": 380972,
       "word": "汪顺被判犯规",
       "onboard_time": 1690087231,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 378861,
+      "num": 378861,
+      "word": "孙杨祝老婆生日快乐",
+      "onboard_time": 1690121918,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1379,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341492,
+      "num": 341492,
+      "word": "封神",
+      "onboard_time": 1690036416,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340574,
       "num": 340574,
       "word": "大暑",
@@ -1451,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319413,
-      "num": 319413,
-      "word": "封神",
-      "onboard_time": 1690036416,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 318578,
       "num": 226002,
       "word": "杨洋王楚然撒糖镜头切魏大勋",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1690102234,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312744,
+      "num": 312744,
+      "word": "Doinb说要转辅助",
+      "onboard_time": 1690121380,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 311630,
@@ -1779,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245307,
+      "num": 245307,
+      "word": "李莎旻子乘风后主持首秀",
+      "onboard_time": 1690122221,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243654,
       "num": 243654,
       "word": "长相思预告",
@@ -1857,14 +1913,6 @@
       "onboard_time": 1690081109,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 237914,
-      "num": 210914,
-      "word": "张远自曝大学初恋",
-      "onboard_time": 1690121501,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 237852,
@@ -1947,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228500,
+      "num": 228500,
+      "word": "西瓜扇子",
+      "onboard_time": 1690121676,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 226156,
       "num": 212597,
       "word": "杨幂密逃收官录制路透",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1690019192,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222812,
+      "num": 208459,
+      "word": "安乐传",
+      "onboard_time": 1690122519,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 221147,
@@ -2139,6 +2203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197872,
+      "num": 197872,
+      "word": "齐齐哈尔一中学体育馆楼顶坍塌鸟瞰画面",
+      "onboard_time": 1690122098,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196811,
       "num": 196811,
       "word": "芭比让我重新爱上粉色",
@@ -2307,6 +2379,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 175791,
+      "num": 183896,
+      "word": "i人无敌爱的场景",
+      "onboard_time": 1690121501,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174749,
       "num": 174749,
       "word": "王浩宇太牛了",
@@ -2331,14 +2411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174266,
-      "num": 174266,
-      "word": "Doinb说要转辅助",
-      "onboard_time": 1690121380,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173611,
       "num": 173611,
       "word": "cos的好不如cos的巧",
@@ -2361,6 +2433,14 @@
       "onboard_time": 1690082432,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171861,
+      "num": 183679,
+      "word": "KPL",
+      "onboard_time": 1690122700,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 171615,
