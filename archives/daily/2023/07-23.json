@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690082282626,
+  "endTime": 1690083243168,
   "band_list": [
     {
       "raw_hot": 2524361,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1323223,
+      "num": 1323223,
+      "word": "店家卖穿马面裙戴发簪冰淇淋引争议",
+      "onboard_time": 1690080630,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1204153,
       "num": 1063840,
       "word": "赵寻被侵犯发生关系后不敢说",
@@ -83,8 +91,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1140713,
-      "num": 1140713,
+      "raw_hot": 1188632,
+      "num": 1188632,
       "word": "我的人间烟火大结局你能接受吗",
       "onboard_time": 1690078171,
       "rank": 13,
@@ -115,12 +123,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 972570,
-      "num": 334501,
-      "word": "店家卖穿马面裙戴发簪冰淇淋引争议",
-      "onboard_time": 1690080630,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 956684,
+      "num": 956684,
+      "word": "宋焰被付闻樱毁掉的人生",
+      "onboard_time": 1690078770,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 938465,
@@ -163,14 +171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 806901,
-      "num": 806901,
-      "word": "宋焰被付闻樱毁掉的人生",
-      "onboard_time": 1690078770,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 779043,
       "num": 355144,
       "word": "男子颅内感染后突然魔怔称能看到鬼",
@@ -211,8 +211,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 702246,
-      "num": 702246,
+      "raw_hot": 704089,
+      "num": 704089,
       "word": "中建八局再被曝工程质量问题",
       "onboard_time": 1690080390,
       "rank": 37,
@@ -227,12 +227,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 671824,
+      "num": 671824,
+      "word": "颖儿纯素颜出演新剧",
+      "onboard_time": 1690081711,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 667178,
+      "num": 254904,
+      "word": "向太戴了好多澳白",
+      "onboard_time": 1690081891,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661435,
       "num": 661435,
       "word": "seventeen宣布十月回归",
       "onboard_time": 1690044029,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 655722,
+      "num": 655722,
+      "word": "营业悖论",
+      "onboard_time": 1690081950,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 623700,
@@ -299,20 +323,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 535917,
-      "num": 324336,
-      "word": "颖儿纯素颜出演新剧",
-      "onboard_time": 1690081711,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 532307,
       "num": 279489,
       "word": "交警录入错误致男孩有案底转学被拒",
       "onboard_time": 1690079011,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 531357,
+      "num": 247302,
+      "word": "向往的生活下期有张艺兴张子枫",
+      "onboard_time": 1690081891,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 528568,
@@ -329,6 +353,14 @@
       "onboard_time": 1690038276,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 510615,
+      "num": 510615,
+      "word": "美国一彩民中77亿元头奖",
+      "onboard_time": 1690082189,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 509030,
@@ -348,7 +380,7 @@
     },
     {
       "raw_hot": 494190,
-      "num": 178861,
+      "num": 424718,
       "word": "法国女孩看完芭比后的经历",
       "onboard_time": 1690080570,
       "rank": 30,
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 426559,
-      "num": 317169,
+      "num": 338004,
       "word": "蒋俊豪承认喜欢何欢",
       "onboard_time": 1690077690,
       "rank": 23,
@@ -451,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404728,
-      "num": 178688,
-      "word": "向太戴了好多澳白",
-      "onboard_time": 1690081891,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 401049,
       "num": 266661,
       "word": "大唐不夜城",
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 389121,
-      "num": 177511,
+      "num": 219618,
       "word": "漂流的时候一定要穿条长裤",
       "onboard_time": 1690081109,
       "rank": 32,
@@ -585,14 +609,6 @@
       "onboard_time": 1690078591,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 329106,
-      "num": 185036,
-      "word": "向往的生活下期有张艺兴张子枫",
-      "onboard_time": 1690081891,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 318578,
@@ -755,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239117,
+      "num": 211425,
+      "word": "赵雷贵阳",
+      "onboard_time": 1690081109,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237635,
       "num": 200231,
       "word": "吴宣仪千禧辣妹造型",
@@ -777,6 +801,14 @@
       "onboard_time": 1690031975,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235366,
+      "num": 210722,
+      "word": "长相思幕后特辑",
+      "onboard_time": 1690082849,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 234869,
@@ -827,6 +859,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215211,
+      "num": 197508,
+      "word": "封神还原中国神话人物",
+      "onboard_time": 1690082972,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211695,
+      "num": 211695,
+      "word": "马面裙戴发簪冰淇淋",
+      "onboard_time": 1690082432,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211106,
       "num": 211106,
       "word": "做指检的炸裂瞬间",
@@ -849,6 +897,14 @@
       "onboard_time": 1690079309,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208321,
+      "num": 208321,
+      "word": "周六野15分钟腰腹核心力量训练",
+      "onboard_time": 1690080871,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 207468,
@@ -915,20 +971,20 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 174941,
-      "num": 174941,
-      "word": "美国一彩民中77亿元头奖",
-      "onboard_time": 1690082189,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 173611,
       "num": 173611,
       "word": "cos的好不如cos的巧",
       "onboard_time": 1690073428,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 172709,
+      "num": 206361,
+      "word": "还是老师教得好不偏科",
+      "onboard_time": 1690082432,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 171283,
@@ -953,14 +1009,6 @@
       "onboard_time": 1690072465,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 159122,
-      "num": 159122,
-      "word": "营业悖论",
-      "onboard_time": 1690081950,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 155832,
@@ -993,14 +1041,6 @@
       "onboard_time": 1690077390,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 130771,
-      "num": 158552,
-      "word": "周六野15分钟腰腹核心力量训练",
-      "onboard_time": 1690080871,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 104381,
