@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690122824033,
+  "endTime": 1690125358167,
   "band_list": [
     {
       "raw_hot": 3354062,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1387264,
+      "num": 1387264,
+      "word": "齐齐哈尔学校体育馆坍塌第10人被救出",
+      "onboard_time": 1690123598,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1384589,
       "num": 458066,
       "word": "林志玲",
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1031762,
+      "num": 639138,
+      "word": "齐齐哈尔坍塌事故发现被埋女排教练",
+      "onboard_time": 1690123838,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015237,
       "num": 1015237,
       "word": "豆瓣",
@@ -353,6 +369,14 @@
       "onboard_time": 1690087651,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 908502,
+      "num": 908502,
+      "word": "网友在LV花近万元买错码不换被驱逐",
+      "onboard_time": 1690122163,
+      "rank": 23,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 905557,
@@ -419,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 819441,
+      "num": 312741,
+      "word": "张元英被陌生人接触后的反应",
+      "onboard_time": 1690122876,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809399,
       "num": 809399,
       "word": "美国一彩民中77亿元头奖",
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 743069,
-      "num": 492725,
+      "num": 517196,
       "word": "陈都灵猫咪立大功",
       "onboard_time": 1690119758,
       "rank": 13,
@@ -512,6 +544,14 @@
       "word": "付闻樱认可宋焰",
       "onboard_time": 1690037139,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 716012,
+      "num": 716012,
+      "word": "莲花楼特效",
+      "onboard_time": 1690122038,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 653694,
-      "num": 436859,
+      "num": 537403,
       "word": "张远自曝大学初恋",
       "onboard_time": 1690121501,
       "rank": 40,
@@ -633,6 +673,14 @@
       "onboard_time": 1690115732,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 631365,
+      "num": 631365,
+      "word": "封神第一部票房",
+      "onboard_time": 1690121798,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 631244,
@@ -795,12 +843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525933,
+      "num": 277796,
+      "word": "女子坐地铁被安检告知榴莲有5房肉",
+      "onboard_time": 1690124856,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521594,
       "num": 350929,
       "word": "王鹤棣首次参加音乐节",
       "onboard_time": 1690038276,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 519585,
+      "num": 654932,
+      "word": "男子讨要17万债款不成反被卖到缅北",
+      "onboard_time": 1690089510,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509224,
@@ -939,14 +1003,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 464483,
-      "num": 419508,
-      "word": "封神第一部票房",
-      "onboard_time": 1690121798,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 464320,
       "num": 265611,
       "word": "刚得知我妈给我存了一百万",
@@ -995,12 +1051,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 440748,
-      "num": 440748,
-      "word": "男子讨要17万债款不成反被卖到缅北",
-      "onboard_time": 1690089510,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 437137,
+      "num": 286591,
+      "word": "张艺兴搞不懂功能先走了",
+      "onboard_time": 1690124259,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 432749,
@@ -1091,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 410757,
-      "num": 370054,
-      "word": "莲花楼特效",
-      "onboard_time": 1690122038,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 410557,
       "num": 410557,
       "word": "没有吸管只能委屈葱了",
@@ -1155,12 +1203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401228,
-      "num": 379565,
-      "word": "网友在LV花近万元买错码不换被驱逐",
-      "onboard_time": 1690122163,
-      "rank": 23,
-      "category": "社会新闻,时尚"
+      "raw_hot": 404973,
+      "num": 285879,
+      "word": "龚俊刘宇宁你俩挤到迪丽热巴了",
+      "onboard_time": 1690123000,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 401049,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1690028731,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 387610,
+      "num": 387610,
+      "word": "没想到自己二十多岁还不如小孩",
+      "onboard_time": 1690122939,
+      "rank": 17,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 386092,
@@ -1419,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341860,
+      "num": 285767,
+      "word": "李莎旻子乘风后主持首秀",
+      "onboard_time": 1690122221,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341492,
       "num": 341492,
       "word": "封神",
@@ -1483,6 +1547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 328124,
+      "num": 328124,
+      "word": "齐齐哈尔一中学体育馆楼顶坍塌鸟瞰画面",
+      "onboard_time": 1690122098,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327163,
       "num": 327163,
       "word": "李雪健封神演技",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1690086752,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313956,
+      "num": 273952,
+      "word": "王一博粉丝带娃看热烈",
+      "onboard_time": 1690124917,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 313083,
@@ -1667,12 +1747,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287935,
+      "num": 287935,
+      "word": "西瓜扇子",
+      "onboard_time": 1690121676,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 286220,
       "num": 286220,
       "word": "姐姐新婚妹妹养2000条蚕做手工扇",
       "onboard_time": 1690068562,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 284970,
+      "num": 284970,
+      "word": "王俊凯刀妹极限操作",
+      "onboard_time": 1690124317,
+      "rank": 28,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 284817,
@@ -1721,6 +1817,14 @@
       "onboard_time": 1690072229,
       "rank": 29,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 277839,
+      "num": 277839,
+      "word": "我在路边捡了个啥",
+      "onboard_time": 1690124561,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 274298,
@@ -1827,14 +1931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245307,
-      "num": 245307,
-      "word": "李莎旻子乘风后主持首秀",
-      "onboard_time": 1690122221,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243654,
       "num": 243654,
       "word": "长相思预告",
@@ -1905,6 +2001,14 @@
       "onboard_time": 1690034074,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239739,
+      "num": 239739,
+      "word": "跟主人抢方便面吃的小猫咪",
+      "onboard_time": 1690123301,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 239117,
@@ -1993,14 +2097,6 @@
       "onboard_time": 1690084710,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228500,
-      "num": 228500,
-      "word": "西瓜扇子",
-      "onboard_time": 1690121676,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 226156,
@@ -2155,6 +2251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205159,
+      "num": 205159,
+      "word": "极光状态",
+      "onboard_time": 1690124499,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204894,
       "num": 204894,
       "word": "英雄联盟手游燃斗之夜",
@@ -2201,14 +2305,6 @@
       "onboard_time": 1690096769,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197872,
-      "num": 197872,
-      "word": "齐齐哈尔一中学体育馆楼顶坍塌鸟瞰画面",
-      "onboard_time": 1690122098,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196811,
@@ -2369,6 +2465,14 @@
       "onboard_time": 1690081291,
       "rank": 33,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 176814,
+      "num": 205019,
+      "word": "跟情绪稳定的人在一起多么重要",
+      "onboard_time": 1690125277,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 176371,
@@ -2532,7 +2636,7 @@
     },
     {
       "raw_hot": 138821,
-      "num": 1341605,
+      "num": 1383528,
       "word": "我国成功发射一箭四星",
       "onboard_time": 1690085010,
       "rank": 49,
