@@ -1,7 +1,15 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690090419833,
+  "endTime": 1690093272076,
   "band_list": [
+    {
+      "raw_hot": 3354062,
+      "num": 720194,
+      "word": "杨颖身份证上名字",
+      "onboard_time": 1690091070,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2524361,
       "num": 2524361,
@@ -137,6 +145,14 @@
       "onboard_time": 1690076611,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1110523,
+      "num": 1110523,
+      "word": "魏大勋朋友圈里的显眼包",
+      "onboard_time": 1690090351,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 1102667,
@@ -387,6 +403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 544027,
+      "num": 424749,
+      "word": "林允说梦华录时期被骂惨了",
+      "onboard_time": 1690091851,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 536278,
       "num": 536278,
       "word": "宇智波佐助",
@@ -417,6 +441,14 @@
       "onboard_time": 1690075409,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527027,
+      "num": 527027,
+      "word": "傲寒",
+      "onboard_time": 1690090231,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 521594,
@@ -491,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471593,
+      "num": 416490,
+      "word": "莲花楼连更7天18集",
+      "onboard_time": 1690090771,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470284,
       "num": 383594,
       "word": "央视网文娱",
@@ -553,6 +593,14 @@
       "onboard_time": 1690026031,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 410157,
+      "num": 410157,
+      "word": "杭州富阳暴雨引发洪水致5死2失联",
+      "onboard_time": 1690090293,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409067,
@@ -699,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 355315,
+      "num": 274244,
+      "word": "TFBOYS海报侧拍花絮",
+      "onboard_time": 1690091972,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349967,
       "num": 349967,
       "word": "录取通知书被狗子咬得稀碎",
@@ -811,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294251,
+      "num": 264609,
+      "word": "孙怡说在桃花坞过的生日排Top1",
+      "onboard_time": 1690089931,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292286,
       "num": 274743,
       "word": "乐华家族演唱会全场合唱无羁",
@@ -859,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281256,
+      "num": 271334,
+      "word": "狮子脸的缅因猫",
+      "onboard_time": 1690091552,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 279497,
       "num": 228646,
       "word": "喜欢王一博不喜欢凯文的原因",
@@ -875,12 +947,36 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 276198,
+      "num": 276198,
+      "word": "杭州暴雨",
+      "onboard_time": 1690090950,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269048,
       "num": 231095,
       "word": "董子健新剧遭枪击重伤",
       "onboard_time": 1690038219,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260901,
+      "num": 260901,
+      "word": "男子讨要17万债款不成反被卖到缅北",
+      "onboard_time": 1690089510,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258882,
+      "num": 229146,
+      "word": "薛之谦深圳",
+      "onboard_time": 1690092212,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 257820,
@@ -1107,14 +1203,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 209406,
-      "num": 209406,
-      "word": "傲寒",
-      "onboard_time": 1690090231,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 209053,
       "num": 209053,
       "word": "封神改编",
@@ -1139,36 +1227,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203058,
-      "num": 203058,
-      "word": "男子讨要17万债款不成反被卖到缅北",
-      "onboard_time": 1690089510,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200421,
       "num": 200421,
       "word": "光与夜之恋",
       "onboard_time": 1690090112,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198829,
-      "num": 198829,
-      "word": "魏大勋朋友圈里的显眼包",
-      "onboard_time": 1690090351,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 197605,
-      "num": 197605,
-      "word": "孙怡说在桃花坞过的生日排Top1",
-      "onboard_time": 1690089931,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 191484,
@@ -1227,14 +1291,6 @@
       "category": "幽默,自然"
     },
     {
-      "raw_hot": 181653,
-      "num": 181653,
-      "word": "杭州富阳暴雨引发洪水致5死2失联",
-      "onboard_time": 1690090293,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178454,
       "num": 178454,
       "word": "山东女子给男友做知了猴生日蛋糕",
@@ -1259,12 +1315,28 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 174709,
+      "num": 174709,
+      "word": "老板劝朋友别买自家裙子",
+      "onboard_time": 1690092752,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173611,
       "num": 173611,
       "word": "cos的好不如cos的巧",
       "onboard_time": 1690073428,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 173454,
+      "num": 173454,
+      "word": "派克特MVP",
+      "onboard_time": 1690092992,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 172709,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690090419833,
+  "endTime": 1690093272076,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -697,6 +697,14 @@
       "onboard_time": 1688434475,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3354062,
+      "num": 720194,
+      "word": "杨颖身份证上名字",
+      "onboard_time": 1690091070,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 3338370,
@@ -6977,6 +6985,14 @@
       "onboard_time": 1690076611,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1110523,
+      "num": 1110523,
+      "word": "魏大勋朋友圈里的显眼包",
+      "onboard_time": 1690090351,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 1110502,
@@ -19027,6 +19043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 544027,
+      "num": 424749,
+      "word": "林允说梦华录时期被骂惨了",
+      "onboard_time": 1690091851,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543928,
       "num": 543928,
       "word": "乐宝",
@@ -19665,6 +19689,14 @@
       "onboard_time": 1688211152,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 527027,
+      "num": 527027,
+      "word": "傲寒",
+      "onboard_time": 1689934954,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 526918,
@@ -21923,14 +21955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474808,
-      "num": 474808,
-      "word": "傲寒",
-      "onboard_time": 1689934954,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 474009,
       "num": 474009,
       "word": "上海网红瑞士卷店员磨洋工引争议",
@@ -22120,6 +22144,14 @@
       "word": "何非你怎么敢来吴京剧组",
       "onboard_time": 1689763170,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 471593,
+      "num": 416490,
+      "word": "莲花楼连更7天18集",
+      "onboard_time": 1690090771,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -25617,6 +25649,14 @@
       "onboard_time": 1689741874,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 410157,
+      "num": 410157,
+      "word": "杭州富阳暴雨引发洪水致5死2失联",
+      "onboard_time": 1690090293,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410019,
@@ -29337,6 +29377,14 @@
       "onboard_time": 1688964817,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355315,
+      "num": 274244,
+      "word": "TFBOYS海报侧拍花絮",
+      "onboard_time": 1690091972,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 354734,
@@ -34315,6 +34363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294251,
+      "num": 264609,
+      "word": "孙怡说在桃花坞过的生日排Top1",
+      "onboard_time": 1690089931,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294192,
       "num": 294192,
       "word": "姜野",
@@ -35665,6 +35721,14 @@
       "onboard_time": 1689656314,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281256,
+      "num": 271334,
+      "word": "狮子脸的缅因猫",
+      "onboard_time": 1690091552,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 281249,
@@ -37787,6 +37851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260901,
+      "num": 260901,
+      "word": "男子讨要17万债款不成反被卖到缅北",
+      "onboard_time": 1690089510,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260882,
       "num": 206812,
       "word": "餐馆回应数只小猫被员工烫死",
@@ -38017,6 +38089,14 @@
       "onboard_time": 1689388531,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258882,
+      "num": 229146,
+      "word": "薛之谦深圳",
+      "onboard_time": 1690092212,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 258777,
@@ -44915,14 +44995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203058,
-      "num": 203058,
-      "word": "男子讨要17万债款不成反被卖到缅北",
-      "onboard_time": 1690089510,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203034,
       "num": 255222,
       "word": "古人用玻璃做了朵蓝莲花",
@@ -45643,14 +45715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198829,
-      "num": 198829,
-      "word": "魏大勋朋友圈里的显眼包",
-      "onboard_time": 1690090351,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198803,
       "num": 198803,
       "word": "绝意黄忠",
@@ -45840,14 +45904,6 @@
       "word": "芒果是懂我们想看什么的",
       "onboard_time": 1689516820,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 197605,
-      "num": 197605,
-      "word": "孙怡说在桃花坞过的生日排Top1",
-      "onboard_time": 1690089931,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -48131,14 +48187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 181653,
-      "num": 181653,
-      "word": "杭州富阳暴雨引发洪水致5死2失联",
-      "onboard_time": 1690090293,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181509,
       "num": 181509,
       "word": "厄尔尼诺会不会带来最热一年",
@@ -48939,6 +48987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174709,
+      "num": 174709,
+      "word": "老板劝朋友别买自家裙子",
+      "onboard_time": 1690092752,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174609,
       "num": 234365,
       "word": "1岁半患儿彻底摆脱原生基因缺陷",
@@ -49049,6 +49105,14 @@
       "onboard_time": 1688438496,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173454,
+      "num": 173454,
+      "word": "派克特MVP",
+      "onboard_time": 1690092992,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 173339,
