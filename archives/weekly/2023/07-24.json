@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690137233188,
+  "endTime": 1690139579602,
   "band_list": [
     {
       "raw_hot": 1354511,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183911,
+      "num": 183911,
+      "word": "陈粒吴青峰未曝光新歌首唱",
+      "onboard_time": 1690136176,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171000,
       "num": 188010,
       "word": "女子花百余元订蛋糕图案只有正面",
@@ -451,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73895,
-      "num": 73895,
-      "word": "陈粒吴青峰未曝光新歌首唱",
-      "onboard_time": 1690136176,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 65846,
       "num": 96017,
       "word": "宁艺卓芭比造型",
@@ -473,6 +473,14 @@
       "onboard_time": 1690134138,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27552,
+      "num": 34324,
+      "word": "关晓彤生图身材比例",
+      "onboard_time": 1690107154,
+      "rank": 45,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 14001,
