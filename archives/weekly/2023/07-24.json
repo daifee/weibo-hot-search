@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690133631306,
+  "endTime": 1690136389006,
   "band_list": [
     {
       "raw_hot": 1354511,
@@ -169,6 +169,14 @@
       "onboard_time": 1690102053,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 359697,
+      "num": 359697,
+      "word": "莲花楼首播反响",
+      "onboard_time": 1690133122,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 324469,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140225,
-      "num": 129223,
-      "word": "莲花楼首播反响",
-      "onboard_time": 1690133122,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "乌尔善说封神二三部已经拍摄剪辑完成",
@@ -419,20 +419,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 131714,
+      "num": 131714,
+      "word": "男生当面感谢跪地急救的cos服小姐姐",
+      "onboard_time": 1690128270,
+      "rank": 36,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 129113,
       "num": 129113,
       "word": "齐齐哈尔一中学体育馆楼顶坍塌鸟瞰画面",
       "onboard_time": 1690122098,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117474,
-      "num": 117474,
-      "word": "男生当面感谢跪地急救的cos服小姐姐",
-      "onboard_time": 1690128270,
-      "rank": 36,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 116508,
@@ -457,6 +457,22 @@
       "onboard_time": 1690114052,
       "rank": 47,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 49293,
+      "num": 49293,
+      "word": "陈粒吴青峰未曝光新歌首唱",
+      "onboard_time": 1690136176,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 30809,
+      "num": 42142,
+      "word": "郎铮说想通过努力为国家发声",
+      "onboard_time": 1690134138,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14001,
