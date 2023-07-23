@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690129235576,
+  "endTime": 1690130143250,
   "band_list": [
     {
       "raw_hot": 1354511,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 772334,
-      "num": 772334,
+      "raw_hot": 873947,
+      "num": 873947,
       "word": "姬发 殷郊",
       "onboard_time": 1690127072,
       "rank": 4,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472248,
+      "num": 472248,
+      "word": "杨颖身份证上名字",
+      "onboard_time": 1690091070,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471556,
       "num": 471556,
       "word": "杨洋被泼水时王楚然的眼神",
@@ -107,12 +115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 465324,
-      "num": 465324,
-      "word": "杨颖身份证上名字",
-      "onboard_time": 1690091070,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 466243,
+      "num": 466243,
+      "word": "肖千喜你糊涂啊",
+      "onboard_time": 1690128212,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 447355,
+      "num": 447355,
+      "word": "消防员赶到现场只看到一双小脚丫",
+      "onboard_time": 1690128754,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430747,
@@ -145,14 +161,6 @@
       "onboard_time": 1690102053,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 367106,
-      "num": 367106,
-      "word": "肖千喜你糊涂啊",
-      "onboard_time": 1690128212,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 324469,
@@ -193,6 +201,14 @@
       "onboard_time": 1690124259,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260820,
+      "num": 196054,
+      "word": "余华真的太会比喻了",
+      "onboard_time": 1690128270,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254683,
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188797,
-      "num": 188797,
-      "word": "消防员赶到现场只看到一双小脚丫",
-      "onboard_time": 1690128754,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187518,
       "num": 187518,
       "word": "出门前是不是忘给狗子关空调了啊",
@@ -307,12 +315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174259,
-      "num": 174259,
-      "word": "余华真的太会比喻了",
-      "onboard_time": 1690128270,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 184292,
+      "num": 184292,
+      "word": "张晚意长相思状态",
+      "onboard_time": 1690129589,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 171000,
@@ -323,12 +331,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 168736,
+      "num": 168736,
+      "word": "刘耀文太敢说了",
+      "onboard_time": 1690129887,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160705,
-      "num": 160705,
+      "num": 164441,
       "word": "英国歌手在马来西亚亲吻男性遭禁演",
       "onboard_time": 1690117414,
       "rank": 41,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 154999,
+      "num": 154999,
+      "word": "长相思",
+      "onboard_time": 1690109973,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 154289,
@@ -336,14 +360,6 @@
       "word": "电影热烈第一波口碑",
       "onboard_time": 1690126237,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 152756,
-      "num": 152756,
-      "word": "长相思",
-      "onboard_time": 1690109973,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -355,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141155,
+      "num": 141155,
+      "word": "龙虾店老板深夜崩溃把店砸了",
+      "onboard_time": 1690112193,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "乌尔善说封神二三部已经拍摄剪辑完成",
       "onboard_time": 1690107390,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136836,
-      "num": 136836,
-      "word": "龙虾店老板深夜崩溃把店砸了",
-      "onboard_time": 1690112193,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135799,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116508,
+      "num": 116508,
+      "word": "王俊凯王源易烊千玺首唱会视频",
+      "onboard_time": 1690106612,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 9155,
       "num": 972973,
       "word": "我国成功发射一箭四星",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#守护中华文化要薪火相传与时俱进#"
+    },
+    {
+      "word": "#打造经济发展新动能#"
     }
   ]
 }
