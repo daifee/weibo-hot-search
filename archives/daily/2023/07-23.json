@@ -1,10 +1,10 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690100387532,
+  "endTime": 1690101218876,
   "band_list": [
     {
       "raw_hot": 3354062,
-      "num": 784842,
+      "num": 866565,
       "word": "杨颖身份证上名字",
       "onboard_time": 1690091070,
       "rank": 3,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1553003,
-      "num": 659495,
+      "num": 829873,
       "word": "美依礼芽来中国前后对比",
       "onboard_time": 1690095871,
       "rank": 12,
@@ -73,6 +73,14 @@
       "onboard_time": 1690070004,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1451614,
+      "num": 955480,
+      "word": "危险派对",
+      "onboard_time": 1690098871,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1417906,
@@ -113,14 +121,6 @@
       "onboard_time": 1690035995,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1349629,
-      "num": 937630,
-      "word": "危险派对",
-      "onboard_time": 1690098871,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1307044,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 959340,
+      "num": 959340,
+      "word": "王鹤棣让王传君给詹姆斯道歉",
+      "onboard_time": 1690096291,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 956684,
       "num": 956684,
       "word": "宋焰被付闻樱毁掉的人生",
@@ -281,14 +289,6 @@
       "onboard_time": 1690082189,
       "rank": 34,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 800483,
-      "num": 800483,
-      "word": "王鹤棣让王传君给詹姆斯道歉",
-      "onboard_time": 1690096291,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 779043,
@@ -419,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 576081,
+      "num": 399451,
+      "word": "男孩游泳不会勾脚被教练缠胶带",
+      "onboard_time": 1690095930,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571257,
       "num": 353746,
       "word": "妲己",
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499276,
+      "num": 214367,
+      "word": "很讨厌的一种办公室情谊",
+      "onboard_time": 1690098451,
+      "rank": 21,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 498438,
       "num": 416490,
       "word": "莲花楼连更7天18集",
@@ -529,14 +545,6 @@
       "onboard_time": 1690080570,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 494084,
-      "num": 209873,
-      "word": "很讨厌的一种办公室情谊",
-      "onboard_time": 1690098451,
-      "rank": 21,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 490708,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 453485,
-      "num": 208992,
+      "num": 211377,
       "word": "王楚然任敏同款裙子",
       "onboard_time": 1690096832,
       "rank": 32,
@@ -617,6 +625,14 @@
       "onboard_time": 1690095450,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 432749,
+      "num": 278926,
+      "word": "哪吒杨戬为什么总一起飞走",
+      "onboard_time": 1690098871,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 429658,
@@ -715,12 +731,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 400592,
-      "num": 399451,
-      "word": "男孩游泳不会勾脚被教练缠胶带",
-      "onboard_time": 1690095930,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 400747,
+      "num": 251145,
+      "word": "阳光玫瑰葡萄最全讲解",
+      "onboard_time": 1690098690,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 393243,
@@ -729,14 +745,6 @@
       "onboard_time": 1690094429,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392392,
-      "num": 278926,
-      "word": "哪吒杨戬为什么总一起飞走",
-      "onboard_time": 1690098871,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 391047,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 305177,
-      "num": 205175,
+      "num": 210549,
       "word": "热烈预售票房破5000万",
       "onboard_time": 1690097431,
       "rank": 41,
@@ -1091,8 +1099,8 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 273786,
-      "num": 204774,
+      "raw_hot": 274298,
+      "num": 209910,
       "word": "沈腾范丞丞合照",
       "onboard_time": 1690097671,
       "rank": 27,
@@ -1187,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241632,
+      "num": 241632,
+      "word": "大运会门票",
+      "onboard_time": 1690099291,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240240,
       "num": 240240,
       "word": "胡嘉乐 又可以打冒泡了",
@@ -1256,6 +1272,14 @@
       "word": "和恐龙一个年纪的树长什么样",
       "onboard_time": 1690084710,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226156,
+      "num": 201733,
+      "word": "杨幂密逃收官录制路透",
+      "onboard_time": 1690100191,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1371,12 +1395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205350,
-      "num": 205350,
-      "word": "大运会门票",
-      "onboard_time": 1690099291,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 207043,
+      "num": 207043,
+      "word": "大熊猫也是妈妈的跟屁虫",
+      "onboard_time": 1690098571,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200421,
@@ -1427,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188337,
-      "num": 203241,
-      "word": "阳光玫瑰葡萄最全讲解",
-      "onboard_time": 1690098690,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 188229,
       "num": 197267,
       "word": "武大靖记忆只有7秒",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1690089271,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187087,
+      "num": 187087,
+      "word": "泳协秘书长跳江救人不幸遇难",
+      "onboard_time": 1690100551,
+      "rank": 33,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 186479,
@@ -1489,14 +1513,6 @@
       "onboard_time": 1690063875,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 177224,
-      "num": 202794,
-      "word": "大熊猫也是妈妈的跟屁虫",
-      "onboard_time": 1690098571,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177124,
@@ -1563,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166333,
-      "num": 201733,
-      "word": "杨幂密逃收官录制路透",
-      "onboard_time": 1690100191,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163765,
       "num": 163765,
       "word": "无痛存钱的小妙招",
@@ -1635,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118062,
+      "num": 172771,
+      "word": "脸臭的人意识不到自己脸臭",
+      "onboard_time": 1690100850,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 113024,
       "num": 418039,
       "word": "一张照片证明今年的大暑有多热",
@@ -1667,6 +1683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94600,
+      "num": 172729,
+      "word": "被大风吹到生气的小狗",
+      "onboard_time": 1690100911,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 93482,
       "num": 85388,
       "word": "纣王到底爱不爱妲己",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1690045166,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84034,
+      "num": 172747,
+      "word": "鸿星尔克请大熊猫吃竹子",
+      "onboard_time": 1690100972,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83842,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1690052775,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15064,
+      "num": 895644,
+      "word": "一键解锁消暑秘诀",
+      "onboard_time": 1690100671,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

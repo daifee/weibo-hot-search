@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690100387532,
+  "endTime": 1690101218876,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 3354062,
-      "num": 784842,
+      "num": 866565,
       "word": "杨颖身份证上名字",
       "onboard_time": 1690091070,
       "rank": 3,
@@ -4204,7 +4204,7 @@
     },
     {
       "raw_hot": 1553003,
-      "num": 659495,
+      "num": 829873,
       "word": "美依礼芽来中国前后对比",
       "onboard_time": 1690095871,
       "rank": 12,
@@ -4689,6 +4689,14 @@
       "onboard_time": 1688377184,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1451614,
+      "num": 955480,
+      "word": "危险派对",
+      "onboard_time": 1690098871,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1448461,
@@ -5265,14 +5273,6 @@
       "onboard_time": 1688729672,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1349629,
-      "num": 937630,
-      "word": "危险派对",
-      "onboard_time": 1690098871,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1347939,
@@ -8819,6 +8819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959340,
+      "num": 959340,
+      "word": "王鹤棣让王传君给詹姆斯道歉",
+      "onboard_time": 1690096291,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 958235,
       "num": 958235,
       "word": "关晓彤范丞丞新剧吻戏",
@@ -11793,14 +11801,6 @@
       "onboard_time": 1688294734,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 800483,
-      "num": 800483,
-      "word": "王鹤棣让王传君给詹姆斯道歉",
-      "onboard_time": 1690096291,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 800107,
@@ -17803,6 +17803,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 576081,
+      "num": 399451,
+      "word": "男孩游泳不会勾脚被教练缠胶带",
+      "onboard_time": 1690095930,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576071,
       "num": 576071,
       "word": "RNG对战NIP",
@@ -20851,6 +20859,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 499276,
+      "num": 214367,
+      "word": "很讨厌的一种办公室情谊",
+      "onboard_time": 1690098451,
+      "rank": 21,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 499233,
       "num": 499233,
       "word": "身边有抑郁症的朋友该怎么办",
@@ -21089,14 +21105,6 @@
       "onboard_time": 1688950593,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 494084,
-      "num": 209873,
-      "word": "很讨厌的一种办公室情谊",
-      "onboard_time": 1690098451,
-      "rank": 21,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 493959,
@@ -23116,7 +23124,7 @@
     },
     {
       "raw_hot": 453485,
-      "num": 208992,
+      "num": 211377,
       "word": "王楚然任敏同款裙子",
       "onboard_time": 1690096832,
       "rank": 32,
@@ -24376,6 +24384,14 @@
       "word": "李明德夸肖战是神仙本仙",
       "onboard_time": 1689143912,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 432749,
+      "num": 278926,
+      "word": "哪吒杨戬为什么总一起飞走",
+      "onboard_time": 1690098871,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -26259,6 +26275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400747,
+      "num": 251145,
+      "word": "阳光玫瑰葡萄最全讲解",
+      "onboard_time": 1690098690,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 400671,
       "num": 400671,
       "word": "EDG胜者组对阵BLG",
@@ -26289,14 +26313,6 @@
       "onboard_time": 1689552090,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 400592,
-      "num": 399451,
-      "word": "男孩游泳不会勾脚被教练缠胶带",
-      "onboard_time": 1690095930,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400547,
@@ -26800,14 +26816,6 @@
       "word": "如果孟宴臣遇见的是蔡敏敏",
       "onboard_time": 1689850051,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 392392,
-      "num": 278926,
-      "word": "哪吒杨戬为什么总一起飞走",
-      "onboard_time": 1690098871,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -33292,7 +33300,7 @@
     },
     {
       "raw_hot": 305177,
-      "num": 205175,
+      "num": 210549,
       "word": "热烈预售票房破5000万",
       "onboard_time": 1690097431,
       "rank": 41,
@@ -36475,6 +36483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274298,
+      "num": 209910,
+      "word": "沈腾范丞丞合照",
+      "onboard_time": 1690097671,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274296,
       "num": 274296,
       "word": "MCD",
@@ -36553,14 +36569,6 @@
       "onboard_time": 1689816394,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273786,
-      "num": 204774,
-      "word": "沈腾范丞丞合照",
-      "onboard_time": 1690097671,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 273703,
@@ -40139,6 +40147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241632,
+      "num": 241632,
+      "word": "大运会门票",
+      "onboard_time": 1690099291,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241620,
       "num": 241620,
       "word": "刚到公司vs工作一小时后",
@@ -41913,6 +41929,14 @@
       "onboard_time": 1688798368,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 226156,
+      "num": 201733,
+      "word": "杨幂密逃收官录制路透",
+      "onboard_time": 1690100191,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 226062,
@@ -44611,6 +44635,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 207043,
+      "num": 207043,
+      "word": "大熊猫也是妈妈的跟屁虫",
+      "onboard_time": 1690098571,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207030,
       "num": 214771,
       "word": "张帅",
@@ -44849,14 +44881,6 @@
       "onboard_time": 1689595531,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205350,
-      "num": 205350,
-      "word": "大运会门票",
-      "onboard_time": 1690099291,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 205303,
@@ -47587,14 +47611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188337,
-      "num": 203241,
-      "word": "阳光玫瑰葡萄最全讲解",
-      "onboard_time": 1690098690,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 188325,
       "num": 188325,
       "word": "凤凰传奇什么时候开巡演",
@@ -47721,6 +47737,14 @@
       "onboard_time": 1688133100,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187087,
+      "num": 187087,
+      "word": "泳协秘书长跳江救人不幸遇难",
+      "onboard_time": 1690100551,
+      "rank": 33,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 187040,
@@ -48849,14 +48873,6 @@
       "onboard_time": 1688390745,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177224,
-      "num": 202794,
-      "word": "大熊猫也是妈妈的跟屁虫",
-      "onboard_time": 1690098571,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177172,
@@ -50041,14 +50057,6 @@
       "onboard_time": 1688253140,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166333,
-      "num": 201733,
-      "word": "杨幂密逃收官录制路透",
-      "onboard_time": 1690100191,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 166141,
@@ -52563,6 +52571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118062,
+      "num": 172771,
+      "word": "脸臭的人意识不到自己脸臭",
+      "onboard_time": 1690100850,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 117702,
       "num": 215014,
       "word": "正在吹干的狗狗看到主人的那一刻",
@@ -53379,6 +53395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94600,
+      "num": 172729,
+      "word": "被大风吹到生气的小狗",
+      "onboard_time": 1690100911,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 94445,
       "num": 94445,
       "word": "学学李白找工作",
@@ -53705,6 +53729,14 @@
       "onboard_time": 1689758494,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84034,
+      "num": 172747,
+      "word": "鸿星尔克请大熊猫吃竹子",
+      "onboard_time": 1690100972,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83871,
@@ -55329,6 +55361,14 @@
       "onboard_time": 1689626771,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15064,
+      "num": 895644,
+      "word": "一键解锁消暑秘诀",
+      "onboard_time": 1690100671,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11854,
