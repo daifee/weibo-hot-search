@@ -1,10 +1,10 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690104818798,
+  "endTime": 1690107407976,
   "band_list": [
     {
       "raw_hot": 3354062,
-      "num": 866565,
+      "num": 901685,
       "word": "杨颖身份证上名字",
       "onboard_time": 1690091070,
       "rank": 3,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2976410,
-      "num": 355108,
+      "num": 388235,
       "word": "魏大勋韩网想弄哭第一名",
       "onboard_time": 1690102053,
       "rank": 10,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1260147,
-      "num": 344355,
+      "num": 367308,
       "word": "律师称初中女生奸杀案已是顶格处罚",
       "onboard_time": 1690101571,
       "rank": 11,
@@ -177,6 +177,14 @@
       "onboard_time": 1690071325,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1113485,
+      "num": 1113485,
+      "word": "为什么打针前要推掉一点药水",
+      "onboard_time": 1690103193,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1111316,
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 737751,
+      "num": 737751,
+      "word": "原来孟宴臣早就从我的全世界路过",
+      "onboard_time": 1690104334,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732890,
       "num": 732890,
       "word": "阳光玫瑰葡萄最全讲解",
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 724186,
+      "num": 703715,
+      "word": "豆瓣",
+      "onboard_time": 1690101571,
+      "rank": 6,
+      "category": "影视,科技"
+    },
+    {
       "raw_hot": 716707,
       "num": 354550,
       "word": "付闻樱认可宋焰",
@@ -361,14 +385,6 @@
       "onboard_time": 1690080390,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703715,
-      "num": 703715,
-      "word": "豆瓣",
-      "onboard_time": 1690101571,
-      "rank": 6,
-      "category": "影视,科技"
     },
     {
       "raw_hot": 693061,
@@ -411,6 +427,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 644538,
+      "num": 1021332,
+      "word": "女子被医院紧急电话轰炸挽回一命",
+      "onboard_time": 1690105832,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634882,
+      "num": 634882,
+      "word": "芭比",
+      "onboard_time": 1690106912,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 623700,
       "num": 352398,
       "word": "孟宴臣扯领带",
@@ -425,14 +457,6 @@
       "onboard_time": 1690039234,
       "rank": 13,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 614549,
-      "num": 341306,
-      "word": "为什么打针前要推掉一点药水",
-      "onboard_time": 1690103193,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 610676,
@@ -459,20 +483,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 583190,
+      "num": 357076,
+      "word": "因角色爆火的明星",
+      "onboard_time": 1690103252,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 576081,
       "num": 399451,
       "word": "男孩游泳不会勾脚被教练缠胶带",
       "onboard_time": 1690095930,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573987,
-      "num": 323376,
-      "word": "因角色爆火的明星",
-      "onboard_time": 1690103252,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 571257,
@@ -547,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 522861,
+      "num": 347955,
+      "word": "宋焰许沁婚房在高铁旁边",
+      "onboard_time": 1690106731,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521594,
       "num": 350929,
       "word": "王鹤棣首次参加音乐节",
@@ -584,6 +616,14 @@
       "word": "莲花楼连更7天18集",
       "onboard_time": 1690090771,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 496375,
+      "num": 242283,
+      "word": "封神第二部",
+      "onboard_time": 1690103853,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 464320,
-      "num": 213613,
+      "num": 231263,
       "word": "刚得知我妈给我存了一百万",
       "onboard_time": 1690102295,
       "rank": 20,
@@ -676,7 +716,7 @@
     },
     {
       "raw_hot": 453485,
-      "num": 213150,
+      "num": 225785,
       "word": "王楚然任敏同款裙子",
       "onboard_time": 1690096832,
       "rank": 32,
@@ -689,6 +729,14 @@
       "onboard_time": 1690041035,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 450431,
+      "num": 240596,
+      "word": "没有发过朋友圈的微信长这样",
+      "onboard_time": 1690106059,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 448547,
@@ -721,6 +769,14 @@
       "onboard_time": 1690077690,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425590,
+      "num": 238592,
+      "word": "男子回家发现丈夫身份被邻居顶替",
+      "onboard_time": 1690106252,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424875,
@@ -785,6 +841,14 @@
       "onboard_time": 1690023930,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404172,
+      "num": 232810,
+      "word": "王俊凯王源易烊千玺首唱会视频",
+      "onboard_time": 1690106612,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 401049,
@@ -883,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369705,
+      "num": 228825,
+      "word": "张拿铁上的户口是铁岭汉族",
+      "onboard_time": 1690104632,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 367097,
       "num": 238647,
       "word": "魏大勋你到底还有多少名场面",
@@ -916,7 +988,7 @@
     },
     {
       "raw_hot": 354498,
-      "num": 213535,
+      "num": 217147,
       "word": "最开始的奶茶是这样的",
       "onboard_time": 1690102234,
       "rank": 21,
@@ -1044,7 +1116,7 @@
     },
     {
       "raw_hot": 313083,
-      "num": 213443,
+      "num": 228386,
       "word": "明星北电脸上戏脸中戏脸",
       "onboard_time": 1690102234,
       "rank": 23,
@@ -1099,20 +1171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293461,
-      "num": 212821,
-      "word": "原来孟宴臣早就从我的全世界路过",
-      "onboard_time": 1690104334,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292286,
       "num": 274743,
       "word": "乐华家族演唱会全场合唱无羁",
       "onboard_time": 1690077330,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290562,
+      "num": 230045,
+      "word": "迫于舆论压力缅甸首次0赎金放人",
+      "onboard_time": 1690106852,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290248,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1690096590,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287314,
+      "num": 229319,
+      "word": "长相思杨紫四段剧情三段在下毒",
+      "onboard_time": 1690106612,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 286220,
@@ -1203,12 +1283,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263726,
+      "num": 227328,
+      "word": "王传君卸妆赢了徐志胜",
+      "onboard_time": 1690104511,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260901,
       "num": 260901,
       "word": "男子讨要17万债款不成反被卖到缅北",
       "onboard_time": 1690089510,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260666,
+      "num": 226469,
+      "word": "玉骨遥全员夸夸团上线",
+      "onboard_time": 1690104572,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 258882,
@@ -1259,20 +1355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249491,
-      "num": 213080,
-      "word": "封神第二部",
-      "onboard_time": 1690103853,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248886,
       "num": 206957,
       "word": "无欲无求的孟宴臣",
       "onboard_time": 1690076189,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248603,
+      "num": 248603,
+      "word": "齐齐哈尔一中学体育馆楼顶坍塌",
+      "onboard_time": 1690107271,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241903,
@@ -1339,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235810,
+      "num": 225959,
+      "word": "意外被复旦的俄语专业录取了",
+      "onboard_time": 1690107332,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235739,
       "num": 235739,
       "word": "EDG战胜OMG",
@@ -1363,12 +1467,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233302,
+      "num": 749833,
+      "word": "女子用2万根纸卷出千里江山图",
+      "onboard_time": 1690104155,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232623,
       "num": 212913,
       "word": "脸臭的人意识不到自己脸臭",
       "onboard_time": 1690100850,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 231785,
+      "num": 231785,
+      "word": "大熊猫也是妈妈的跟屁虫",
+      "onboard_time": 1690098571,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229155,
@@ -1451,14 +1571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213763,
-      "num": 213763,
-      "word": "大熊猫也是妈妈的跟屁虫",
-      "onboard_time": 1690098571,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211695,
       "num": 211695,
       "word": "马面裙戴发簪冰淇淋",
@@ -1507,12 +1619,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204110,
-      "num": 204110,
-      "word": "玉骨遥全员夸夸团上线",
-      "onboard_time": 1690104572,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 206795,
+      "num": 200418,
+      "word": "关晓彤生图身材比例",
+      "onboard_time": 1690107154,
+      "rank": 40,
+      "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 200478,
+      "num": 213284,
+      "word": "WBG对战NIP",
+      "onboard_time": 1690102173,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 200421,
@@ -1523,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200079,
+      "num": 200079,
+      "word": "富阳暴雨",
+      "onboard_time": 1690107031,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198881,
       "num": 206547,
       "word": "时空中的绘旅人",
@@ -1531,12 +1659,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194513,
-      "num": 201355,
-      "word": "王传君卸妆赢了徐志胜",
-      "onboard_time": 1690104511,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 196909,
+      "num": 196909,
+      "word": "青海湖猫皮马甲",
+      "onboard_time": 1690107332,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196811,
+      "num": 196811,
+      "word": "芭比让我重新爱上粉色",
+      "onboard_time": 1690106192,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 191484,
@@ -1561,6 +1697,14 @@
       "onboard_time": 1690075829,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189929,
+      "num": 189929,
+      "word": "乌尔善说封神二三部已经拍摄剪辑完成",
+      "onboard_time": 1690107390,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 189896,
@@ -1609,6 +1753,14 @@
       "onboard_time": 1690066938,
       "rank": 33,
       "category": "幽默,自然"
+    },
+    {
+      "raw_hot": 185082,
+      "num": 185082,
+      "word": "麻烦义乌马上安排下",
+      "onboard_time": 1690106493,
+      "rank": 46,
+      "category": "时尚,幽默"
     },
     {
       "raw_hot": 184946,
@@ -1715,14 +1867,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 161363,
-      "num": 213284,
-      "word": "WBG对战NIP",
-      "onboard_time": 1690102173,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 157961,
       "num": 213003,
       "word": "网民捏造中考回流生不实信息被刑拘",
@@ -1793,14 +1937,6 @@
       "onboard_time": 1690096590,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126496,
-      "num": 201288,
-      "word": "张拿铁上的户口是铁岭汉族",
-      "onboard_time": 1690104632,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 126159,
@@ -1891,6 +2027,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 67783,
+      "num": 306935,
+      "word": "女子遇车祸跪地求助法官干警伸援手",
+      "onboard_time": 1690106972,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51154,
       "num": 895644,
       "word": "一键解锁消暑秘诀",
@@ -1921,6 +2065,22 @@
       "onboard_time": 1690052775,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19458,
+      "num": 326610,
+      "word": "QQ音乐我们的毕业歌",
+      "onboard_time": 1690106429,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 12947,
+      "num": 1010071,
+      "word": "大暑里的酷热与关爱",
+      "onboard_time": 1690107091,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
