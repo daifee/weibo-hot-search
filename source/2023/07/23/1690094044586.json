@@ -1,0 +1,410 @@
+{
+  "runTime": 1690094044586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1225462,
+        "num": 1225462,
+        "word": "魏大勋朋友圈里的显眼包",
+        "onboard_time": 1690090351,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866240,
+        "num": 866240,
+        "word": "李昌钰被指伪造证据",
+        "onboard_time": 1690087531,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5741,
+        "num": 690257,
+        "word": "2023年空军航空开放活动来了",
+        "onboard_time": 1690031553,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3223561,
+        "num": 685277,
+        "word": "杨颖身份证上名字",
+        "onboard_time": 1690091070,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655563,
+        "num": 655563,
+        "word": "许沁婚后日常",
+        "onboard_time": 1690087651,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 526561,
+        "num": 526561,
+        "word": "傲寒",
+        "onboard_time": 1690090231,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 519031,
+        "num": 519031,
+        "word": "我的人间烟火豆瓣开分4.1分",
+        "onboard_time": 1690083271,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500289,
+        "num": 500289,
+        "word": "纣王 伯邑考",
+        "onboard_time": 1690086150,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453619,
+        "num": 453619,
+        "word": "敬礼娃娃郎铮被北大录取",
+        "onboard_time": 1690085668,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 412134,
+        "num": 412134,
+        "word": "交警录入错误致男孩有案底转学被拒",
+        "onboard_time": 1690079011,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 959338,
+        "num": 403022,
+        "word": "广末凉子宣布离婚",
+        "onboard_time": 1690089092,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757585,
+        "num": 401764,
+        "word": "林允说梦华录时期被骂惨了",
+        "onboard_time": 1690091851,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601572,
+        "num": 382910,
+        "word": "店家卖穿马面裙戴发簪冰淇淋引争议",
+        "onboard_time": 1690080630,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498438,
+        "num": 373565,
+        "word": "莲花楼连更7天18集",
+        "onboard_time": 1690090771,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371757,
+        "num": 371757,
+        "word": "杭州富阳暴雨引发洪水致5死2失联",
+        "onboard_time": 1690090293,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456406,
+        "num": 363420,
+        "word": "TFBOYS海报侧拍花絮",
+        "onboard_time": 1690091972,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376353,
+        "num": 362294,
+        "word": "迪丽热巴受伤了",
+        "onboard_time": 1690073187,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340099,
+        "num": 340099,
+        "word": "高位截瘫女孩高考557手肘磨得见骨",
+        "onboard_time": 1690088431,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 337533,
+        "num": 337533,
+        "word": "魏大勋让杨洋别耍帅了",
+        "onboard_time": 1690070004,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333420,
+        "num": 333420,
+        "word": "美国一彩民中77亿元头奖",
+        "onboard_time": 1690082189,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 555020,
+        "num": 331871,
+        "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
+        "onboard_time": 1690085969,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339858,
+        "num": 330960,
+        "word": "向太戴了好多澳白",
+        "onboard_time": 1690081891,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329823,
+        "num": 329823,
+        "word": "川航8985紧急备降江苏",
+        "onboard_time": 1690071926,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301835,
+        "num": 301835,
+        "word": "杭州暴雨",
+        "onboard_time": 1690090950,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260531,
+        "num": 260531,
+        "word": "男子讨要17万债款不成反被卖到缅北",
+        "onboard_time": 1690089510,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261222,
+        "num": 257011,
+        "word": "孙怡说在桃花坞过的生日排Top1",
+        "onboard_time": 1690089931,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249212,
+        "num": 249212,
+        "word": "狮子脸的缅因猫",
+        "onboard_time": 1690091552,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 243516,
+        "num": 243516,
+        "word": "宋焰被付闻樱毁掉的人生",
+        "onboard_time": 1690078770,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243495,
+        "num": 243495,
+        "word": "宋茜紫色吊带长裙",
+        "onboard_time": 1690087471,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234367,
+        "num": 234367,
+        "word": "引领KPOP的四代女团",
+        "onboard_time": 1690087769,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303637,
+        "num": 228120,
+        "word": "老板劝朋友别买自家裙子",
+        "onboard_time": 1690092752,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221561,
+        "num": 221561,
+        "word": "薛之谦深圳",
+        "onboard_time": 1690092212,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218601,
+        "num": 218601,
+        "word": "芭比 自我意识觉醒",
+        "onboard_time": 1690083391,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218396,
+        "num": 218396,
+        "word": "买到了烂尾楼怎么办",
+        "onboard_time": 1690086570,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 192303,
+        "num": 192303,
+        "word": "景区泼水节女网红被泼后跟游客冲突",
+        "onboard_time": 1690084110,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210045,
+        "num": 192297,
+        "word": "刘耀文说公司的人没有创新",
+        "onboard_time": 1690093832,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180498,
+        "num": 192285,
+        "word": "向往的生活下期有张艺兴张子枫",
+        "onboard_time": 1690081891,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171289,
+        "num": 192279,
+        "word": "坐高铁出于好奇选了静音车厢",
+        "onboard_time": 1690071686,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166454,
+        "num": 192269,
+        "word": "漂流的时候一定要穿条长裤",
+        "onboard_time": 1690081109,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138751,
+        "num": 192259,
+        "word": "光与夜之恋",
+        "onboard_time": 1690090112,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176391,
+        "num": 192255,
+        "word": "赵寻被侵犯发生关系后不敢说",
+        "onboard_time": 1690078352,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174403,
+        "num": 192244,
+        "word": "说唱巅峰对决今日收官",
+        "onboard_time": 1690093892,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169140,
+        "num": 192230,
+        "word": "莲花楼全员放大镜搜证",
+        "onboard_time": 1690089931,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153815,
+        "num": 192217,
+        "word": "派克特MVP",
+        "onboard_time": 1690092992,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147265,
+        "num": 192210,
+        "word": "长相思幕后特辑",
+        "onboard_time": 1690082849,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144574,
+        "num": 192205,
+        "word": "林志玲亲口证实引退",
+        "onboard_time": 1690071325,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137514,
+        "num": 192195,
+        "word": "营业悖论",
+        "onboard_time": 1690081950,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129741,
+        "num": 192178,
+        "word": "汪顺被判犯规",
+        "onboard_time": 1690087231,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128542,
+        "num": 192177,
+        "word": "周末叛徒",
+        "onboard_time": 1690087651,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124328,
+        "num": 192159,
+        "word": "女孩店内撒尿家长拒清理称我购物了",
+        "onboard_time": 1690093832,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领风踏浪启新程#"
+    }
+  }
+}

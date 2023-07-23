@@ -1,6 +1,6 @@
 {
   "startTime": 1689524602813,
-  "endTime": 1690093272076,
+  "endTime": 1690094044586,
   "band_list": [
     {
       "raw_hot": 10255430,
@@ -1603,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1225462,
+      "num": 1225462,
+      "word": "魏大勋朋友圈里的显眼包",
+      "onboard_time": 1690090351,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1223485,
       "num": 1223485,
       "word": "男子含着蟑螂下馆子敲诈商家被拘",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1690076611,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1110523,
-      "num": 1110523,
-      "word": "魏大勋朋友圈里的显眼包",
-      "onboard_time": 1690090351,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 1109705,
@@ -2892,7 +2892,7 @@
     },
     {
       "raw_hot": 873061,
-      "num": 324144,
+      "num": 331871,
       "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
       "onboard_time": 1690085969,
       "rank": 47,
@@ -3611,6 +3611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 757585,
+      "num": 424749,
+      "word": "林允说梦华录时期被骂惨了",
+      "onboard_time": 1690091851,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 757062,
       "num": 430175,
       "word": "Angelababy小水同框合影",
@@ -4236,7 +4244,7 @@
     },
     {
       "raw_hot": 667178,
-      "num": 323969,
+      "num": 330960,
       "word": "向太戴了好多澳白",
       "onboard_time": 1690081891,
       "rank": 31,
@@ -5595,14 +5603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 544027,
-      "num": 424749,
-      "word": "林允说梦华录时期被骂惨了",
-      "onboard_time": 1690091851,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 543645,
       "num": 543645,
       "word": "WBG战胜EDG",
@@ -6163,6 +6163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498438,
+      "num": 416490,
+      "word": "莲花楼连更7天18集",
+      "onboard_time": 1690090771,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 497886,
       "num": 503191,
       "word": "蔡依林福州",
@@ -6563,14 +6571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471593,
-      "num": 416490,
-      "word": "莲花楼连更7天18集",
-      "onboard_time": 1690090771,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 470284,
       "num": 383594,
       "word": "央视网文娱",
@@ -6753,6 +6753,14 @@
       "onboard_time": 1689564570,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456406,
+      "num": 363420,
+      "word": "TFBOYS海报侧拍花絮",
+      "onboard_time": 1690091972,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 456377,
@@ -8667,14 +8675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 355315,
-      "num": 274244,
-      "word": "TFBOYS海报侧拍花絮",
-      "onboard_time": 1690091972,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 354380,
       "num": 534818,
       "word": "小朋友在张杰演唱会上睡着了",
@@ -9809,6 +9809,14 @@
       "onboard_time": 1689690335,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303637,
+      "num": 228120,
+      "word": "老板劝朋友别买自家裙子",
+      "onboard_time": 1690092752,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303336,
@@ -12867,6 +12875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210045,
+      "num": 192297,
+      "word": "刘耀文说公司的人没有创新",
+      "onboard_time": 1690093832,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209976,
       "num": 268839,
       "word": "艾伦沈腾超能一家人话剧式谢幕",
@@ -14339,12 +14355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174709,
-      "num": 174709,
-      "word": "老板劝朋友别买自家裙子",
-      "onboard_time": 1690092752,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 174403,
+      "num": 192244,
+      "word": "说唱巅峰对决今日收官",
+      "onboard_time": 1690093892,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 173683,
@@ -14364,7 +14380,7 @@
     },
     {
       "raw_hot": 173454,
-      "num": 173454,
+      "num": 192217,
       "word": "派克特MVP",
       "onboard_time": 1690092992,
       "rank": 41,
@@ -15353,6 +15369,14 @@
       "onboard_time": 1689736172,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 124328,
+      "num": 192159,
+      "word": "女孩店内撒尿家长拒清理称我购物了",
+      "onboard_time": 1690093832,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124148,

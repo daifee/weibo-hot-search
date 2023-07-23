@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690093272076,
+  "endTime": 1690094044586,
   "band_list": [
     {
       "raw_hot": 3354062,
@@ -115,6 +115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1225462,
+      "num": 1225462,
+      "word": "魏大勋朋友圈里的显眼包",
+      "onboard_time": 1690090351,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1204153,
       "num": 1063840,
       "word": "赵寻被侵犯发生关系后不敢说",
@@ -145,14 +153,6 @@
       "onboard_time": 1690076611,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1110523,
-      "num": 1110523,
-      "word": "魏大勋朋友圈里的显眼包",
-      "onboard_time": 1690090351,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 1102667,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 873061,
-      "num": 324144,
+      "num": 331871,
       "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
       "onboard_time": 1690085969,
       "rank": 47,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 757585,
+      "num": 424749,
+      "word": "林允说梦华录时期被骂惨了",
+      "onboard_time": 1690091851,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732734,
       "num": 407822,
       "word": "杨迪演我看杨洋王楚然",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 667178,
-      "num": 323969,
+      "num": 330960,
       "word": "向太戴了好多澳白",
       "onboard_time": 1690081891,
       "rank": 31,
@@ -403,14 +411,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 544027,
-      "num": 424749,
-      "word": "林允说梦华录时期被骂惨了",
-      "onboard_time": 1690091851,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 536278,
       "num": 536278,
       "word": "宇智波佐助",
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498438,
+      "num": 416490,
+      "word": "莲花楼连更7天18集",
+      "onboard_time": 1690090771,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494190,
       "num": 424718,
       "word": "法国女孩看完芭比后的经历",
@@ -523,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471593,
-      "num": 416490,
-      "word": "莲花楼连更7天18集",
-      "onboard_time": 1690090771,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 470284,
       "num": 383594,
       "word": "央视网文娱",
       "onboard_time": 1690072827,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456406,
+      "num": 363420,
+      "word": "TFBOYS海报侧拍花絮",
+      "onboard_time": 1690091972,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 452325,
@@ -747,14 +755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 355315,
-      "num": 274244,
-      "word": "TFBOYS海报侧拍花絮",
-      "onboard_time": 1690091972,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 349967,
       "num": 349967,
       "word": "录取通知书被狗子咬得稀碎",
@@ -851,6 +851,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303637,
+      "num": 228120,
+      "word": "老板劝朋友别买自家裙子",
+      "onboard_time": 1690092752,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301835,
+      "num": 301835,
+      "word": "杭州暴雨",
+      "onboard_time": 1690090950,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300216,
       "num": 277648,
       "word": "蔡少芬陈法蓉gidle合照",
@@ -945,14 +961,6 @@
       "onboard_time": 1690072229,
       "rank": 29,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 276198,
-      "num": 276198,
-      "word": "杭州暴雨",
-      "onboard_time": 1690090950,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269048,
@@ -1203,6 +1211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 210045,
+      "num": 192297,
+      "word": "刘耀文说公司的人没有创新",
+      "onboard_time": 1690093832,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209053,
       "num": 209053,
       "word": "封神改编",
@@ -1315,12 +1331,12 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 174709,
-      "num": 174709,
-      "word": "老板劝朋友别买自家裙子",
-      "onboard_time": 1690092752,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 174403,
+      "num": 192244,
+      "word": "说唱巅峰对决今日收官",
+      "onboard_time": 1690093892,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 173611,
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 173454,
-      "num": 173454,
+      "num": 192217,
       "word": "派克特MVP",
       "onboard_time": 1690092992,
       "rank": 41,
@@ -1409,6 +1425,14 @@
       "onboard_time": 1690085010,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 124328,
+      "num": 192159,
+      "word": "女孩店内撒尿家长拒清理称我购物了",
+      "onboard_time": 1690093832,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113024,
