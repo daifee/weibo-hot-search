@@ -1,0 +1,410 @@
+{
+  "runTime": 1690100387532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 855026,
+        "num": 1036717,
+        "word": "魏大勋朋友圈里的显眼包",
+        "onboard_time": 1690090351,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1349629,
+        "num": 937630,
+        "word": "危险派对",
+        "onboard_time": 1690098871,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 800483,
+        "num": 800483,
+        "word": "王鹤棣让王传君给詹姆斯道歉",
+        "onboard_time": 1690096291,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2284921,
+        "num": 784842,
+        "word": "杨颖身份证上名字",
+        "onboard_time": 1690091070,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1553003,
+        "num": 642139,
+        "word": "美依礼芽来中国前后对比",
+        "onboard_time": 1690095871,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448547,
+        "num": 448547,
+        "word": "刀郎 罗刹海市",
+        "onboard_time": 1690095450,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 399451,
+        "num": 399451,
+        "word": "男孩游泳不会勾脚被教练缠胶带",
+        "onboard_time": 1690095930,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347503,
+        "num": 347503,
+        "word": "常德公交车酒吧",
+        "onboard_time": 1690094131,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 317847,
+        "num": 317847,
+        "word": "高位截瘫女孩高考557手肘磨得见骨",
+        "onboard_time": 1690088431,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 282899,
+        "num": 282899,
+        "word": "敬礼娃娃郎铮被北大录取",
+        "onboard_time": 1690085668,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 487464,
+        "num": 280496,
+        "word": "林允说梦华录时期被骂惨了",
+        "onboard_time": 1690091851,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392392,
+        "num": 278926,
+        "word": "哪吒杨戬为什么总一起飞走",
+        "onboard_time": 1690098871,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295242,
+        "num": 277090,
+        "word": "店家卖穿马面裙戴发簪冰淇淋引争议",
+        "onboard_time": 1690080630,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275004,
+        "num": 275004,
+        "word": "李昌钰被指伪造证据",
+        "onboard_time": 1690087531,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6783,
+        "num": 265048,
+        "word": "2023年空军航空开放活动来了",
+        "onboard_time": 1690031553,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357765,
+        "num": 264034,
+        "word": "孟子义所有妹妹碰过的都买",
+        "onboard_time": 1690094190,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331409,
+        "num": 263520,
+        "word": "广末凉子宣布离婚",
+        "onboard_time": 1690089092,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262869,
+        "num": 262869,
+        "word": "美国一彩民中77亿元头奖",
+        "onboard_time": 1690082189,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 249102,
+        "num": 249102,
+        "word": "川航8985紧急备降江苏",
+        "onboard_time": 1690071926,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212862,
+        "num": 212862,
+        "word": "傲寒",
+        "onboard_time": 1690090231,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 547514,
+        "num": 212752,
+        "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
+        "onboard_time": 1690085969,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494084,
+        "num": 209873,
+        "word": "很讨厌的一种办公室情谊",
+        "onboard_time": 1690098451,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 453485,
+        "num": 208992,
+        "word": "王楚然任敏同款裙子",
+        "onboard_time": 1690096832,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320276,
+        "num": 207061,
+        "word": "刘耀文说公司的人没有创新",
+        "onboard_time": 1690093832,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205350,
+        "num": 205350,
+        "word": "大运会门票",
+        "onboard_time": 1690099291,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305177,
+        "num": 205175,
+        "word": "热烈预售票房破5000万",
+        "onboard_time": 1690097431,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280546,
+        "num": 204970,
+        "word": "王鹤棣暗示孟子义",
+        "onboard_time": 1690095030,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273786,
+        "num": 204774,
+        "word": "沈腾范丞丞合照",
+        "onboard_time": 1690097671,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185797,
+        "num": 204594,
+        "word": "女孩店内撒尿家长拒清理称我购物了",
+        "onboard_time": 1690093832,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184946,
+        "num": 204271,
+        "word": "狼队第五人格",
+        "onboard_time": 1690099470,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269600,
+        "num": 204095,
+        "word": "许沁婚后日常",
+        "onboard_time": 1690087651,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260055,
+        "num": 203793,
+        "word": "TFBOYS海报侧拍花絮",
+        "onboard_time": 1690091972,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253099,
+        "num": 203586,
+        "word": "纣王 伯邑考",
+        "onboard_time": 1690086150,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229280,
+        "num": 203379,
+        "word": "密室大逃脱",
+        "onboard_time": 1690094429,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188337,
+        "num": 203241,
+        "word": "阳光玫瑰葡萄最全讲解",
+        "onboard_time": 1690098690,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 223874,
+        "num": 202998,
+        "word": "向太戴了好多澳白",
+        "onboard_time": 1690081891,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177224,
+        "num": 202794,
+        "word": "大熊猫也是妈妈的跟屁虫",
+        "onboard_time": 1690098571,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171615,
+        "num": 202545,
+        "word": "大运会",
+        "onboard_time": 1690098871,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153096,
+        "num": 202378,
+        "word": "男子讨要17万债款不成反被卖到缅北",
+        "onboard_time": 1690089510,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148895,
+        "num": 202192,
+        "word": "爱是尽力而为仍觉亏欠",
+        "onboard_time": 1690098871,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214846,
+        "num": 201878,
+        "word": "宋丹丹说美娜长得像Angelababy",
+        "onboard_time": 1690096590,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201751,
+        "num": 201751,
+        "word": "莲花楼连更7天18集",
+        "onboard_time": 1690090771,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180566,
+        "num": 201749,
+        "word": "芭比 自我意识觉醒",
+        "onboard_time": 1690083391,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166333,
+        "num": 201733,
+        "word": "杨幂密逃收官录制路透",
+        "onboard_time": 1690100191,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161313,
+        "num": 201726,
+        "word": "我的人间烟火豆瓣开分4.1分",
+        "onboard_time": 1690083271,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148232,
+        "num": 201713,
+        "word": "莲花楼全员放大镜搜证",
+        "onboard_time": 1690089931,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132990,
+        "num": 201710,
+        "word": "杭州富阳暴雨引发洪水致5死2失联",
+        "onboard_time": 1690090293,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128013,
+        "num": 201693,
+        "word": "狮子脸的缅因猫",
+        "onboard_time": 1690091552,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 106848,
+        "num": 201686,
+        "word": "杭州暴雨",
+        "onboard_time": 1690090950,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104419,
+        "num": 201678,
+        "word": "交警录入错误致男孩有案底转学被拒",
+        "onboard_time": 1690079011,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护中华文化要薪火相传与时俱进#"
+    }
+  }
+}
