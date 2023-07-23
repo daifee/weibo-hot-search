@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690115452480,
+  "endTime": 1690116396764,
   "band_list": [
     {
       "raw_hot": 3354062,
@@ -16,6 +16,14 @@
       "word": "魏大勋韩网想弄哭第一名",
       "onboard_time": 1690102053,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2682538,
+      "num": 451257,
+      "word": "王俊凯瘦了太多",
+      "onboard_time": 1690115133,
+      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1828754,
+      "num": 1828754,
+      "word": "杨洋被泼水时王楚然的眼神",
+      "onboard_time": 1690107631,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1816666,
       "num": 870886,
       "word": "魏大勋的爆火意味着什么",
       "onboard_time": 1690112314,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1762349,
-      "num": 1762349,
-      "word": "杨洋被泼水时王楚然的眼神",
-      "onboard_time": 1690107631,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1719139,
@@ -195,14 +203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1179645,
-      "num": 415285,
-      "word": "王俊凯瘦了太多",
-      "onboard_time": 1690115133,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1129818,
       "num": 1129818,
       "word": "林志玲亲口证实引退",
@@ -297,6 +297,14 @@
       "onboard_time": 1690096291,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 957153,
+      "num": 445327,
+      "word": "原来有种病叫经济舱综合征",
+      "onboard_time": 1690113211,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 956684,
@@ -451,19 +459,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 705545,
+      "num": 705545,
+      "word": "WBG战胜NIP",
+      "onboard_time": 1690115014,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 704089,
       "num": 704089,
       "word": "中建八局再被曝工程质量问题",
       "onboard_time": 1690080390,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696446,
-      "num": 408787,
-      "word": "原来有种病叫经济舱综合征",
-      "onboard_time": 1690113211,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -497,6 +505,14 @@
       "onboard_time": 1690044029,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 659549,
+      "num": 296691,
+      "word": "长期用棉签掏耳朵的后果",
+      "onboard_time": 1690115732,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 658130,
@@ -537,6 +553,14 @@
       "onboard_time": 1690106912,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 631244,
+      "num": 296477,
+      "word": "魏大勋王嘉尔在干嘛",
+      "onboard_time": 1690114112,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 623700,
@@ -595,14 +619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 598331,
-      "num": 598331,
-      "word": "WBG战胜NIP",
-      "onboard_time": 1690115014,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 583190,
       "num": 499386,
       "word": "因角色爆火的明星",
@@ -625,6 +641,14 @@
       "onboard_time": 1690036775,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 561382,
+      "num": 439954,
+      "word": "王奕",
+      "onboard_time": 1690115732,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 556923,
@@ -691,28 +715,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 521594,
-      "num": 350929,
-      "word": "王鹤棣首次参加音乐节",
-      "onboard_time": 1690038276,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 514705,
-      "num": 514705,
+      "raw_hot": 526678,
+      "num": 526678,
       "word": "母亲晒孩子在沙滩制竹签陷阱引争议",
       "onboard_time": 1690111592,
       "rank": 33,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512123,
-      "num": 280801,
-      "word": "魏大勋王嘉尔在干嘛",
-      "onboard_time": 1690114112,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 521594,
+      "num": 350929,
+      "word": "王鹤棣首次参加音乐节",
+      "onboard_time": 1690038276,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 509224,
@@ -843,6 +859,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 459197,
+      "num": 435764,
+      "word": "宁艺卓芭比造型",
+      "onboard_time": 1690114052,
+      "rank": 25,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 456406,
       "num": 363420,
       "word": "TFBOYS海报侧拍花絮",
@@ -947,14 +971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 415140,
-      "num": 265322,
-      "word": "宁艺卓芭比造型",
-      "onboard_time": 1690114052,
-      "rank": 25,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 412449,
       "num": 239436,
       "word": "封神终于不再甩锅女性",
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 410509,
-      "num": 267850,
+      "num": 296327,
       "word": "龙虾店老板深夜崩溃把店砸了",
       "onboard_time": 1690112193,
       "rank": 23,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1690067418,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 400984,
+      "num": 323876,
+      "word": "莲花楼",
+      "onboard_time": 1690088732,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 400856,
@@ -1147,11 +1171,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 360533,
-      "num": 323876,
-      "word": "莲花楼",
-      "onboard_time": 1690088732,
-      "rank": 31,
+      "raw_hot": 359798,
+      "num": 295770,
+      "word": "成年人看长安三万里的评价",
+      "onboard_time": 1690114172,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1299,8 +1323,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317618,
+      "num": 443594,
+      "word": "覃海洋",
+      "onboard_time": 1690115193,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315081,
-      "num": 232209,
+      "num": 292709,
       "word": "封神",
       "onboard_time": 1690036416,
       "rank": 36,
@@ -1337,14 +1369,6 @@
       "onboard_time": 1690090950,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309659,
-      "num": 225411,
-      "word": "成年人看长安三万里的评价",
-      "onboard_time": 1690114172,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 306156,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1690042114,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296962,
+      "num": 296962,
+      "word": "明日方舟",
+      "onboard_time": 1690111231,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 294483,
@@ -1835,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212520,
-      "num": 212520,
-      "word": "覃海洋",
-      "onboard_time": 1690115193,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211695,
       "num": 211695,
       "word": "马面裙戴发簪冰淇淋",
@@ -1915,6 +1939,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 200982,
+      "num": 200982,
+      "word": "mysta 毕业",
+      "onboard_time": 1690116215,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200421,
       "num": 200421,
       "word": "光与夜之恋",
@@ -1939,19 +1971,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198711,
-      "num": 198711,
-      "word": "明日方舟",
-      "onboard_time": 1690111231,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 196811,
       "num": 196811,
       "word": "芭比让我重新爱上粉色",
       "onboard_time": 1690106192,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193316,
+      "num": 197464,
+      "word": "吴京说让外国观众看到中国文化",
+      "onboard_time": 1690112253,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -1961,14 +1993,6 @@
       "onboard_time": 1690106972,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191535,
-      "num": 197464,
-      "word": "吴京说让外国观众看到中国文化",
-      "onboard_time": 1690112253,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 191484,
@@ -2033,6 +2057,14 @@
       "onboard_time": 1690106493,
       "rank": 46,
       "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 187224,
+      "num": 187224,
+      "word": "来听一场夏日音乐会",
+      "onboard_time": 1690115975,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 186479,
@@ -2155,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170393,
+      "num": 216131,
+      "word": "居民回应体育馆坍塌时排球队正训练",
+      "onboard_time": 1690116034,
+      "rank": 41,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 163765,
       "num": 163765,
       "word": "无痛存钱的小妙招",
@@ -2220,7 +2260,7 @@
     },
     {
       "raw_hot": 138821,
-      "num": 138821,
+      "num": 849415,
       "word": "我国成功发射一箭四星",
       "onboard_time": 1690085010,
       "rank": 49,
@@ -2376,6 +2416,14 @@
       "word": "青春主场数说大运",
       "onboard_time": 1690100431,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10931,
+      "num": 234133,
+      "word": "这个夏天共赴青春盛会",
+      "onboard_time": 1690116093,
+      "rank": 34,
       "category": "社会新闻"
     }
   ],

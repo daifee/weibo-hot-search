@@ -1,0 +1,410 @@
+{
+  "runTime": 1690116396764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1828754,
+        "num": 1828754,
+        "word": "杨洋被泼水时王楚然的眼神",
+        "onboard_time": 1690107631,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 872986,
+        "num": 872986,
+        "word": "电视剧里的濒死剖宫产真的存在吗",
+        "onboard_time": 1690111532,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 4715,
+        "num": 849415,
+        "word": "我国成功发射一箭四星",
+        "onboard_time": 1690085010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1812439,
+        "num": 846044,
+        "word": "魏大勋的爆火意味着什么",
+        "onboard_time": 1690112314,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835032,
+        "num": 835032,
+        "word": "杨颖身份证上名字",
+        "onboard_time": 1690091070,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705545,
+        "num": 705545,
+        "word": "WBG战胜NIP",
+        "onboard_time": 1690115014,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 680237,
+        "num": 680237,
+        "word": "宋焰许沁婚房在高铁旁边",
+        "onboard_time": 1690106731,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 673182,
+        "num": 673182,
+        "word": "黑龙江体育馆坍塌已营救8人",
+        "onboard_time": 1690110156,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526678,
+        "num": 526678,
+        "word": "母亲晒孩子在沙滩制竹签陷阱引争议",
+        "onboard_time": 1690111592,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453637,
+        "num": 453637,
+        "word": "为什么打针前要推掉一点药水",
+        "onboard_time": 1690103193,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2682538,
+        "num": 451257,
+        "word": "王俊凯瘦了太多",
+        "onboard_time": 1690115133,
+        "rank": 10,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1589345,
+        "num": 447944,
+        "word": "魏大勋韩网想弄哭第一名",
+        "onboard_time": 1690102053,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 957153,
+        "num": 445327,
+        "word": "原来有种病叫经济舱综合征",
+        "onboard_time": 1690113211,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317618,
+        "num": 443594,
+        "word": "覃海洋",
+        "onboard_time": 1690115193,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561382,
+        "num": 439954,
+        "word": "王奕",
+        "onboard_time": 1690115732,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459197,
+        "num": 435764,
+        "word": "宁艺卓芭比造型",
+        "onboard_time": 1690114052,
+        "rank": 15,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 434606,
+        "num": 434606,
+        "word": "吴京加上朱一龙微信了",
+        "onboard_time": 1690110393,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415674,
+        "num": 415674,
+        "word": "长相思",
+        "onboard_time": 1690109973,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296962,
+        "num": 296962,
+        "word": "明日方舟",
+        "onboard_time": 1690111231,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 723214,
+        "num": 296907,
+        "word": "芭比 艾伦",
+        "onboard_time": 1690112314,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 659549,
+        "num": 296691,
+        "word": "长期用棉签掏耳朵的后果",
+        "onboard_time": 1690115732,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 631244,
+        "num": 296477,
+        "word": "魏大勋王嘉尔在干嘛",
+        "onboard_time": 1690114112,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404600,
+        "num": 296327,
+        "word": "龙虾店老板深夜崩溃把店砸了",
+        "onboard_time": 1690112193,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282354,
+        "num": 296152,
+        "word": "齐齐哈尔一中学体育馆楼顶坍塌",
+        "onboard_time": 1690107271,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400984,
+        "num": 295808,
+        "word": "莲花楼",
+        "onboard_time": 1690088732,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359798,
+        "num": 295770,
+        "word": "成年人看长安三万里的评价",
+        "onboard_time": 1690114172,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295581,
+        "num": 295581,
+        "word": "美依礼芽来中国前后对比",
+        "onboard_time": 1690095871,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478256,
+        "num": 294942,
+        "word": "芭比",
+        "onboard_time": 1690106912,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292709,
+        "num": 292709,
+        "word": "封神",
+        "onboard_time": 1690112732,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288944,
+        "num": 288944,
+        "word": "关晓彤生图身材比例",
+        "onboard_time": 1690107154,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 285384,
+        "num": 285384,
+        "word": "王俊凯王源易烊千玺首唱会视频",
+        "onboard_time": 1690106612,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248414,
+        "num": 248414,
+        "word": "封神第二部",
+        "onboard_time": 1690103853,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223541,
+        "num": 236911,
+        "word": "WBG对战NIP",
+        "onboard_time": 1690102173,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232867,
+        "num": 234754,
+        "word": "女子被医院紧急电话轰炸挽回一命",
+        "onboard_time": 1690105832,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10931,
+        "num": 234133,
+        "word": "这个夏天共赴青春盛会",
+        "onboard_time": 1690116093,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233863,
+        "num": 233863,
+        "word": "乌尔善说封神二三部已经拍摄剪辑完成",
+        "onboard_time": 1690107390,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233573,
+        "num": 233573,
+        "word": "夏天的风今天唱了",
+        "onboard_time": 1690110812,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219245,
+        "num": 219245,
+        "word": "高铁座位上的二维码真的有用",
+        "onboard_time": 1690107572,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 217842,
+        "num": 217842,
+        "word": "左航哭了",
+        "onboard_time": 1690108474,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1470532,
+        "num": 217507,
+        "word": "迫于舆论压力缅甸首次0赎金放人",
+        "onboard_time": 1690106852,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480709,
+        "num": 216467,
+        "word": "律师称初中女生奸杀案已是顶格处罚",
+        "onboard_time": 1690101571,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170393,
+        "num": 216131,
+        "word": "居民回应体育馆坍塌时排球队正训练",
+        "onboard_time": 1690116034,
+        "rank": 41,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 121537,
+        "num": 214855,
+        "word": "大熊猫也是妈妈的跟屁虫",
+        "onboard_time": 1690098571,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214700,
+        "num": 214700,
+        "word": "意外被复旦的俄语专业录取了",
+        "onboard_time": 1690107332,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208900,
+        "num": 208900,
+        "word": "亚锦赛名单",
+        "onboard_time": 1690112193,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203807,
+        "num": 203807,
+        "word": "十个勤天",
+        "onboard_time": 1690108893,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200982,
+        "num": 200982,
+        "word": "mysta 毕业",
+        "onboard_time": 1690116215,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193316,
+        "num": 193316,
+        "word": "吴京说让外国观众看到中国文化",
+        "onboard_time": 1690112253,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187224,
+        "num": 187224,
+        "word": "来听一场夏日音乐会",
+        "onboard_time": 1690115975,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181665,
+        "num": 181665,
+        "word": "刚得知我妈给我存了一百万",
+        "onboard_time": 1690102295,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国载人登月火箭最新进展#"
+    }
+  }
+}
