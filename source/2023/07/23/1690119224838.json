@@ -1,0 +1,410 @@
+{
+  "runTime": 1690119224838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628448,
+        "num": 1628448,
+        "word": "杨洋被泼水时王楚然的眼神",
+        "onboard_time": 1690107631,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1204562,
+        "num": 1204562,
+        "word": "原来有种病叫经济舱综合征",
+        "onboard_time": 1690113211,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17683,
+        "num": 1196837,
+        "word": "我国成功发射一箭四星",
+        "onboard_time": 1690085010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195464,
+        "num": 1195464,
+        "word": "魏大勋的爆火意味着什么",
+        "onboard_time": 1690112314,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 981634,
+        "num": 981634,
+        "word": "仅3周接诊5名下腰瘫痪孩子",
+        "onboard_time": 1690116453,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860590,
+        "num": 860590,
+        "word": "杨颖身份证上名字",
+        "onboard_time": 1690091070,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718492,
+        "num": 718492,
+        "word": "冰城哈尔滨变成了水城",
+        "onboard_time": 1690117114,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 704680,
+        "num": 704680,
+        "word": "罗刹海市 那英",
+        "onboard_time": 1690117534,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 702179,
+        "num": 702179,
+        "word": "菲尔普斯400混世界纪录被打破",
+        "onboard_time": 1690117175,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 650886,
+        "num": 650886,
+        "word": "宋焰许沁婚房在高铁旁边",
+        "onboard_time": 1690106731,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1931341,
+        "num": 650183,
+        "word": "王俊凯瘦了太多",
+        "onboard_time": 1690115133,
+        "rank": 10,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1416304,
+        "num": 649666,
+        "word": "魏大勋韩网想弄哭第一名",
+        "onboard_time": 1690102053,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 648885,
+        "num": 648885,
+        "word": "黄景瑜张婧仪揽肩vs杨洋王楚然揽肩",
+        "onboard_time": 1690117896,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 630749,
+        "num": 630749,
+        "word": "黑龙江体育馆坍塌已营救8人",
+        "onboard_time": 1690110156,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529849,
+        "num": 529849,
+        "word": "电视剧里的濒死剖宫产真的存在吗",
+        "onboard_time": 1690111532,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487682,
+        "num": 487682,
+        "word": "范丞丞用的什么防晒",
+        "onboard_time": 1690117294,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 551387,
+        "num": 485945,
+        "word": "王奕",
+        "onboard_time": 1690115732,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457958,
+        "num": 457958,
+        "word": "为什么打针前要推掉一点药水",
+        "onboard_time": 1690103193,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451637,
+        "num": 451637,
+        "word": "宁艺卓芭比造型",
+        "onboard_time": 1690114052,
+        "rank": 18,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 365114,
+        "num": 365114,
+        "word": "段鑫掌掴主裁判",
+        "onboard_time": 1690117233,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1267025,
+        "num": 360899,
+        "word": "长期用棉签掏耳朵的后果",
+        "onboard_time": 1690115732,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 531648,
+        "num": 359926,
+        "word": "魏大勋王嘉尔在干嘛",
+        "onboard_time": 1690114112,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402088,
+        "num": 359211,
+        "word": "长相思",
+        "onboard_time": 1690109973,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350662,
+        "num": 350662,
+        "word": "WBG战胜NIP",
+        "onboard_time": 1690115014,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329327,
+        "num": 329327,
+        "word": "英国歌手在马来西亚亲吻男性遭禁演",
+        "onboard_time": 1690117414,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 392893,
+        "num": 329286,
+        "word": "成年人看长安三万里的评价",
+        "onboard_time": 1690114172,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335440,
+        "num": 329154,
+        "word": "吴京加上朱一龙微信了",
+        "onboard_time": 1690110393,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328875,
+        "num": 328875,
+        "word": "给小虎磕一个",
+        "onboard_time": 1690117774,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326277,
+        "num": 326277,
+        "word": "母亲晒孩子在沙滩制竹签陷阱引争议",
+        "onboard_time": 1690111592,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313285,
+        "num": 313285,
+        "word": "莲花楼",
+        "onboard_time": 1690088732,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311630,
+        "num": 311630,
+        "word": "中国队女子4乘100自由泳接力铜牌",
+        "onboard_time": 1690118253,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306514,
+        "num": 306514,
+        "word": "成毅海上打戏",
+        "onboard_time": 1690117294,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293947,
+        "num": 293947,
+        "word": "封神",
+        "onboard_time": 1690112732,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286181,
+        "num": 286181,
+        "word": "迪丽热巴指到了我",
+        "onboard_time": 1690116633,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281744,
+        "num": 281744,
+        "word": "张雨霏100蝶半决赛第一晋级",
+        "onboard_time": 1690116695,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274768,
+        "num": 274768,
+        "word": "王俊凯王源易烊千玺首唱会视频",
+        "onboard_time": 1690106612,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261344,
+        "num": 261344,
+        "word": "龙虾店老板深夜崩溃把店砸了",
+        "onboard_time": 1690112193,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238322,
+        "num": 238322,
+        "word": "乌尔善说封神二三部已经拍摄剪辑完成",
+        "onboard_time": 1690107390,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167505,
+        "num": 236722,
+        "word": "高铁座位上的二维码真的有用",
+        "onboard_time": 1690107572,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 166534,
+        "num": 236247,
+        "word": "覃海洋",
+        "onboard_time": 1690115193,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236004,
+        "num": 236004,
+        "word": "美依礼芽来中国前后对比",
+        "onboard_time": 1690095871,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232574,
+        "num": 232574,
+        "word": "关晓彤生图身材比例",
+        "onboard_time": 1690107154,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 216730,
+        "num": 232574,
+        "word": "封神第二部",
+        "onboard_time": 1690103853,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154646,
+        "num": 232569,
+        "word": "没有发过朋友圈的微信长这样",
+        "onboard_time": 1690106059,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188258,
+        "num": 232559,
+        "word": "夏日音乐会",
+        "onboard_time": 1690118071,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171072,
+        "num": 232556,
+        "word": "mysta 毕业",
+        "onboard_time": 1690116215,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165510,
+        "num": 232551,
+        "word": "女子被医院紧急电话轰炸挽回一命",
+        "onboard_time": 1690105832,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164066,
+        "num": 232548,
+        "word": "明日方舟",
+        "onboard_time": 1690111231,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151834,
+        "num": 232543,
+        "word": "齐齐哈尔一中学体育馆楼顶坍塌",
+        "onboard_time": 1690107271,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151259,
+        "num": 232536,
+        "word": "余依婷叶诗文200混晋级决赛",
+        "onboard_time": 1690117712,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国载人登月火箭最新进展#"
+    }
+  }
+}

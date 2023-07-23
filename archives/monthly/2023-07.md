@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/23 21:18:40
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/23 21:33:44
 </p>
 </blockquote>
 <p>
@@ -4299,6 +4299,12 @@ TT战胜EDG（热度：1323237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%94%A8%E6%A3%89%E7%AD%BE%E6%8E%8F%E8%80%B3%E6%9C%B5%E7%9A%84%E5%90%8E%E6%9E%9C%23" target="weibo">
+长期用棉签掏耳朵的后果（热度：1267025）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E9%A9%AC%E4%BC%AF%E9%AA%9E%E8%B5%A2%E9%BA%BB%E4%BA%86%23" target="weibo">
 魏大勋马伯骞赢麻了（热度：1265214）
 </a>
@@ -4949,12 +4955,6 @@ Jennie称舞台没有划水（热度：1173717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%B8%AA%E8%80%81%E5%A4%AA%E5%A4%AA%23" target="weibo">
 对方撤回了一个老太太（热度：1158764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%94%A8%E6%A3%89%E7%AD%BE%E6%8E%8F%E8%80%B3%E6%9C%B5%E7%9A%84%E5%90%8E%E6%9E%9C%23" target="weibo">
-长期用棉签掏耳朵的后果（热度：1157979）
 </a>
 </li>
 
