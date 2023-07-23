@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690096497722,
+  "endTime": 1690097627807,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5251,6 +5251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1353172,
+      "num": 659495,
+      "word": "美依礼芽来中国前后对比",
+      "onboard_time": 1690095871,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1350131,
       "num": 1350131,
       "word": "原来快递员能看见快递里面是啥",
@@ -7667,6 +7675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1050852,
+      "num": 1050852,
+      "word": "孟子义所有妹妹碰过的都买",
+      "onboard_time": 1690094190,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1050183,
       "num": 1050183,
       "word": "曾黎晒桑家全家福",
@@ -9057,14 +9073,6 @@
       "onboard_time": 1689307956,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 938828,
-      "num": 938828,
-      "word": "孟子义所有妹妹碰过的都买",
-      "onboard_time": 1690094190,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 938465,
@@ -18091,6 +18099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 567536,
+      "num": 567536,
+      "word": "王鹤棣让王传君给詹姆斯道歉",
+      "onboard_time": 1690096291,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567295,
       "num": 457469,
       "word": "赵露思穿JK跳gee",
@@ -18801,14 +18817,6 @@
       "onboard_time": 1688811451,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549812,
-      "num": 322835,
-      "word": "美依礼芽来中国前后对比",
-      "onboard_time": 1690095871,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 549810,
@@ -26251,6 +26259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 400592,
+      "num": 209163,
+      "word": "男孩游泳不会勾脚被教练缠胶带",
+      "onboard_time": 1690095930,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400547,
       "num": 400547,
       "word": "田柾国韩素希MV吵架镜头",
@@ -27995,6 +28011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373916,
+      "num": 291331,
+      "word": "刀郎 罗刹海市",
+      "onboard_time": 1690095450,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 373863,
       "num": 296227,
       "word": "我现在只在乎三件事",
@@ -29531,6 +29555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 352511,
+      "num": 294461,
+      "word": "王鹤棣暗示孟子义",
+      "onboard_time": 1690095030,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352430,
       "num": 289550,
       "word": "林俊杰演唱会",
@@ -29881,14 +29913,6 @@
       "onboard_time": 1690015231,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348728,
-      "num": 294461,
-      "word": "王鹤棣暗示孟子义",
-      "onboard_time": 1690095030,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 348688,
@@ -30865,6 +30889,14 @@
       "onboard_time": 1688745097,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 335052,
+      "num": 299857,
+      "word": "女孩店内撒尿家长拒清理称我购物了",
+      "onboard_time": 1690093832,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335026,
@@ -34691,14 +34723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291331,
-      "num": 291331,
-      "word": "刀郎 罗刹海市",
-      "onboard_time": 1690095450,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 291293,
       "num": 291293,
       "word": "张大大戏称熬走了杨幂还有杨颖",
@@ -34963,6 +34987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289100,
+      "num": 206761,
+      "word": "宋丹丹说美娜长得像Angelababy",
+      "onboard_time": 1690096590,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289095,
       "num": 289095,
       "word": "现代社会最惨绝人寰的酷刑",
@@ -35059,28 +35091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288356,
-      "num": 288356,
-      "word": "王鹤棣让王传君给詹姆斯道歉",
-      "onboard_time": 1690096291,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288354,
       "num": 236624,
       "word": "听周深唱歌对我耳朵很好",
       "onboard_time": 1688827534,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 288347,
-      "num": 299857,
-      "word": "女孩店内撒尿家长拒清理称我购物了",
-      "onboard_time": 1690093832,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288322,
@@ -35153,6 +35169,14 @@
       "onboard_time": 1688694871,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287676,
+      "num": 205915,
+      "word": "王楚然任敏同款裙子",
+      "onboard_time": 1690096832,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 287666,
@@ -36345,6 +36369,14 @@
       "onboard_time": 1688697632,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275584,
+      "num": 278394,
+      "word": "常德公交车酒吧",
+      "onboard_time": 1690094131,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 275402,
@@ -42379,14 +42411,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 222656,
-      "num": 278394,
-      "word": "常德公交车酒吧",
-      "onboard_time": 1690094131,
-      "rank": 29,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 222374,
       "num": 222374,
       "word": "不良人要求逆水寒手游公开道歉",
@@ -44227,14 +44251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209163,
-      "num": 209163,
-      "word": "男孩游泳不会勾脚被教练缠胶带",
-      "onboard_time": 1690095930,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209132,
       "num": 209132,
       "word": "EXO新团综要来了",
@@ -44929,6 +44945,14 @@
       "onboard_time": 1688909612,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204426,
+      "num": 204426,
+      "word": "热烈预售票房破5000万",
+      "onboard_time": 1690097431,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 204394,
@@ -45795,6 +45819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198881,
+      "num": 496490,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1688788830,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198803,
       "num": 198803,
       "word": "绝意黄忠",
@@ -46425,14 +46457,6 @@
       "onboard_time": 1689268221,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194942,
-      "num": 496490,
-      "word": "时空中的绘旅人",
-      "onboard_time": 1688788830,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 194926,
@@ -47420,7 +47444,7 @@
     },
     {
       "raw_hot": 189020,
-      "num": 189020,
+      "num": 205161,
       "word": "店铺门口贴15张请假条1张可抵50元",
       "onboard_time": 1690093652,
       "rank": 37,
@@ -51753,6 +51777,14 @@
       "onboard_time": 1689840275,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138283,
+      "num": 204302,
+      "word": "今天大暑",
+      "onboard_time": 1690096590,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137815,
