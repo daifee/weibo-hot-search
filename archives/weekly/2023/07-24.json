@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690132445827,
+  "endTime": 1690133631306,
   "band_list": [
     {
       "raw_hot": 1354511,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234413,
+      "num": 206287,
+      "word": "薛之谦多巴胺发色",
+      "onboard_time": 1690131622,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 231457,
       "num": 231457,
       "word": "封神",
@@ -281,14 +289,6 @@
       "onboard_time": 1690122221,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206287,
-      "num": 206287,
-      "word": "薛之谦多巴胺发色",
-      "onboard_time": 1690131622,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 205431,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140225,
+      "num": 129223,
+      "word": "莲花楼首播反响",
+      "onboard_time": 1690133122,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "乌尔善说封神二三部已经拍摄剪辑完成",
@@ -435,7 +443,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 91593,
+      "raw_hot": 96122,
       "num": 103300,
       "word": "日本男排",
       "onboard_time": 1690132044,
@@ -443,7 +451,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12783,
+      "raw_hot": 65846,
+      "num": 96017,
+      "word": "宁艺卓芭比造型",
+      "onboard_time": 1690114052,
+      "rank": 47,
+      "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 14001,
       "num": 643056,
       "word": "这个夏天共赴青春盛会",
       "onboard_time": 1690116093,
