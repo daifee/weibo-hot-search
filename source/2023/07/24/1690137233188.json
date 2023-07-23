@@ -1,0 +1,410 @@
+{
+  "runTime": 1690137233188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 334662,
+        "num": 334662,
+        "word": "莲花楼首播反响",
+        "onboard_time": 1690133122,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328321,
+        "num": 328321,
+        "word": "余华真的太会比喻了",
+        "onboard_time": 1690128270,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9109,
+        "num": 255615,
+        "word": "这个夏天共赴青春盛会",
+        "onboard_time": 1690116093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209602,
+        "num": 209602,
+        "word": "魏大勋的爆火意味着什么",
+        "onboard_time": 1690112314,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195781,
+        "num": 195781,
+        "word": "杨颖身份证上名字",
+        "onboard_time": 1690091070,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192413,
+        "num": 192413,
+        "word": "消防员赶到现场只看到一双小脚丫",
+        "onboard_time": 1690128754,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190096,
+        "num": 190096,
+        "word": "齐齐哈尔三十四中坍塌现场救出11人",
+        "onboard_time": 1690125759,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156001,
+        "num": 156001,
+        "word": "男生当面感谢跪地急救的cos服小姐姐",
+        "onboard_time": 1690128270,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 154220,
+        "num": 154220,
+        "word": "孟宴臣脖子上的吻痕",
+        "onboard_time": 1690119577,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102505,
+        "num": 102505,
+        "word": "仅3周接诊5名下腰瘫痪孩子",
+        "onboard_time": 1690116453,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185913,
+        "num": 102241,
+        "word": "齐齐哈尔坍塌事故发现被埋女排教练",
+        "onboard_time": 1690123838,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141515,
+        "num": 101312,
+        "word": "姬发 殷郊",
+        "onboard_time": 1690127072,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138034,
+        "num": 100070,
+        "word": "薛之谦多巴胺发色",
+        "onboard_time": 1690131622,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 99440,
+        "word": "王俊凯瘦了太多",
+        "onboard_time": 1690115133,
+        "rank": 13,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 130073,
+        "num": 98224,
+        "word": "杨洋被泼水时王楚然的眼神",
+        "onboard_time": 1690107631,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126492,
+        "num": 97308,
+        "word": "刘耀文太敢说了",
+        "onboard_time": 1690129887,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103991,
+        "num": 96565,
+        "word": "肖千喜你糊涂啊",
+        "onboard_time": 1690128212,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96321,
+        "num": 96321,
+        "word": "网友在LV花近万元买错码不换被驱逐",
+        "onboard_time": 1690122163,
+        "rank": 17,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 94115,
+        "num": 94115,
+        "word": "男子讨要17万债款不成反被卖到缅北",
+        "onboard_time": 1690119758,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87727,
+        "num": 87727,
+        "word": "没想到自己二十多岁还不如小孩",
+        "onboard_time": 1690122939,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 160609,
+        "num": 87119,
+        "word": "长期用棉签掏耳朵的后果",
+        "onboard_time": 1690115732,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 84271,
+        "num": 84271,
+        "word": "女子坐地铁被安检告知榴莲有5房肉",
+        "onboard_time": 1690124856,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83300,
+        "num": 83300,
+        "word": "魏大勋韩网想弄哭第一名",
+        "onboard_time": 1690102053,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80612,
+        "num": 80612,
+        "word": "张元英被陌生人接触后的反应",
+        "onboard_time": 1690122876,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65532,
+        "num": 76254,
+        "word": "跟情绪稳定的人在一起多么重要",
+        "onboard_time": 1690125277,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 73895,
+        "num": 73895,
+        "word": "陈粒吴青峰未曝光新歌首唱",
+        "onboard_time": 1690136176,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70285,
+        "num": 70285,
+        "word": "陈都灵猫咪立大功",
+        "onboard_time": 1690119758,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 61253,
+        "num": 61253,
+        "word": "日本男排",
+        "onboard_time": 1690132044,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60939,
+        "num": 60939,
+        "word": "王俊凯刀妹极限操作",
+        "onboard_time": 1690124317,
+        "rank": 28,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 60786,
+        "num": 60786,
+        "word": "没有发过朋友圈的微信长这样",
+        "onboard_time": 1690106059,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59246,
+        "num": 59246,
+        "word": "龙虾店老板深夜崩溃把店砸了",
+        "onboard_time": 1690112193,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58300,
+        "num": 58300,
+        "word": "封神第一部票房",
+        "onboard_time": 1690121798,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55915,
+        "num": 55915,
+        "word": "封神",
+        "onboard_time": 1690112732,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53106,
+        "num": 53106,
+        "word": "原来有种病叫经济舱综合征",
+        "onboard_time": 1690113211,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49560,
+        "num": 49560,
+        "word": "宋焰许沁婚房在高铁旁边",
+        "onboard_time": 1690106731,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48589,
+        "num": 48589,
+        "word": "龚俊刘宇宁你俩挤到迪丽热巴了",
+        "onboard_time": 1690123000,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49043,
+        "num": 48418,
+        "word": "电视剧里的濒死剖宫产真的存在吗",
+        "onboard_time": 1690111532,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47794,
+        "num": 47794,
+        "word": "angel采访",
+        "onboard_time": 1690127672,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47361,
+        "num": 47361,
+        "word": "长相思",
+        "onboard_time": 1690109973,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45600,
+        "num": 45600,
+        "word": "成毅原声台词",
+        "onboard_time": 1690126536,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45012,
+        "num": 45012,
+        "word": "张晚意长相思状态",
+        "onboard_time": 1690129589,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44946,
+        "num": 44946,
+        "word": "张远自曝大学初恋",
+        "onboard_time": 1690121501,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44944,
+        "num": 44944,
+        "word": "出门前是不是忘给狗子关空调了啊",
+        "onboard_time": 1690127852,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41986,
+        "num": 41986,
+        "word": "李莎旻子乘风后主持首秀",
+        "onboard_time": 1690122221,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39847,
+        "num": 39847,
+        "word": "英国歌手在马来西亚亲吻男性遭禁演",
+        "onboard_time": 1690117414,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 39357,
+        "num": 39357,
+        "word": "张艺兴搞不懂功能先走了",
+        "onboard_time": 1690124259,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38249,
+        "num": 38249,
+        "word": "为什么打针前要推掉一点药水",
+        "onboard_time": 1690103193,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33605,
+        "num": 38238,
+        "word": "女子花百余元订蛋糕图案只有正面",
+        "onboard_time": 1690125937,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 28776,
+        "num": 37736,
+        "word": "齐齐哈尔一中学体育馆楼顶坍塌鸟瞰画面",
+        "onboard_time": 1690122098,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25532,
+        "num": 37623,
+        "word": "郎铮说想通过努力为国家发声",
+        "onboard_time": 1690134138,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护中华文化要薪火相传与时俱进#"
+    }
+  }
+}

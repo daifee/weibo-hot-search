@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690136389006,
+  "endTime": 1690137233188,
   "band_list": [
     {
       "raw_hot": 1354511,
@@ -363,6 +363,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 156001,
+      "num": 156001,
+      "word": "男生当面感谢跪地急救的cos服小姐姐",
+      "onboard_time": 1690128270,
+      "rank": 36,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 154999,
       "num": 154999,
       "word": "长相思",
@@ -419,14 +427,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 131714,
-      "num": 131714,
-      "word": "男生当面感谢跪地急救的cos服小姐姐",
-      "onboard_time": 1690128270,
-      "rank": 36,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 129113,
       "num": 129113,
       "word": "齐齐哈尔一中学体育馆楼顶坍塌鸟瞰画面",
@@ -451,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73895,
+      "num": 73895,
+      "word": "陈粒吴青峰未曝光新歌首唱",
+      "onboard_time": 1690136176,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 65846,
       "num": 96017,
       "word": "宁艺卓芭比造型",
       "onboard_time": 1690114052,
       "rank": 47,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 49293,
-      "num": 49293,
-      "word": "陈粒吴青峰未曝光新歌首唱",
-      "onboard_time": 1690136176,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 30809,
