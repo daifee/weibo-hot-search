@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690140841257,
+  "endTime": 1690143409144,
   "band_list": [
     {
       "raw_hot": 1354511,
@@ -489,6 +489,14 @@
       "onboard_time": 1690107154,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 17217,
+      "num": 26178,
+      "word": "都市接到办热线037165732233",
+      "onboard_time": 1690142175,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14001,
