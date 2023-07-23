@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690119224838,
+  "endTime": 1690121652471,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1827,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2301093,
+      "num": 2301093,
+      "word": "孟宴臣脖子上的吻痕",
+      "onboard_time": 1690119577,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2299833,
       "num": 2299833,
       "word": "周杰伦演唱会2张连座票黄牛叫价15万",
@@ -3585,6 +3593,14 @@
       "onboard_time": 1689158374,
       "rank": 11,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1719497,
+      "num": 1719497,
+      "word": "仅3周接诊5名下腰瘫痪孩子",
+      "onboard_time": 1690116453,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1719252,
@@ -5716,7 +5732,7 @@
     },
     {
       "raw_hot": 1267025,
-      "num": 360899,
+      "num": 421645,
       "word": "长期用棉签掏耳朵的后果",
       "onboard_time": 1690115732,
       "rank": 20,
@@ -8601,14 +8617,6 @@
       "onboard_time": 1689379345,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 981634,
-      "num": 981634,
-      "word": "仅3周接诊5名下腰瘫痪孩子",
-      "onboard_time": 1690116453,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980803,
@@ -12403,6 +12411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 775813,
+      "num": 775813,
+      "word": "莲花楼配音",
+      "onboard_time": 1690120177,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 775618,
       "num": 775618,
       "word": "为啥女生裤子口袋越来越小",
@@ -12585,6 +12601,14 @@
       "onboard_time": 1688296055,
       "rank": 32,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 767227,
+      "num": 704680,
+      "word": "罗刹海市 那英",
+      "onboard_time": 1690117534,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 767122,
@@ -13017,6 +13041,14 @@
       "onboard_time": 1689476614,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 743069,
+      "num": 492725,
+      "word": "陈都灵猫咪立大功",
+      "onboard_time": 1690119758,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 743062,
@@ -13881,14 +13913,6 @@
       "onboard_time": 1688893892,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704680,
-      "num": 704680,
-      "word": "罗刹海市 那英",
-      "onboard_time": 1690117534,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 704640,
@@ -24147,6 +24171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440748,
+      "num": 440748,
+      "word": "男子讨要17万债款不成反被卖到缅北",
+      "onboard_time": 1690089510,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440601,
       "num": 431251,
       "word": "ITZY 丑妆造",
@@ -25049,6 +25081,14 @@
       "onboard_time": 1689998191,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 427323,
+      "num": 427323,
+      "word": "英国歌手在马来西亚亲吻男性遭禁演",
+      "onboard_time": 1690117414,
+      "rank": 24,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 427016,
@@ -26041,6 +26081,14 @@
       "onboard_time": 1688684120,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410557,
+      "num": 410557,
+      "word": "没有吸管只能委屈葱了",
+      "onboard_time": 1690119875,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 410509,
@@ -27889,6 +27937,14 @@
       "onboard_time": 1688943861,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381412,
+      "num": 381412,
+      "word": "曾舜晞6集被骗4次",
+      "onboard_time": 1690120842,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 381395,
@@ -29835,6 +29891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355546,
+      "num": 355546,
+      "word": "男子4x100自由泳中国队刷新亚洲纪录",
+      "onboard_time": 1690119274,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355357,
       "num": 355357,
       "word": "密室大逃脱绝命医院",
@@ -30633,14 +30697,6 @@
       "onboard_time": 1690003050,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343271,
-      "num": 343271,
-      "word": "英国歌手在马来西亚亲吻男性遭禁演",
-      "onboard_time": 1690117414,
-      "rank": 24,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 343105,
@@ -38507,14 +38563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260901,
-      "num": 260901,
-      "word": "男子讨要17万债款不成反被卖到缅北",
-      "onboard_time": 1690089510,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260882,
       "num": 206812,
       "word": "餐馆回应数只小猫被员工烫死",
@@ -41145,6 +41193,14 @@
       "onboard_time": 1688289331,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237914,
+      "num": 210914,
+      "word": "张远自曝大学初恋",
+      "onboard_time": 1690121501,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 237852,
@@ -49843,6 +49899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174749,
+      "num": 174749,
+      "word": "王浩宇太牛了",
+      "onboard_time": 1690119817,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174726,
       "num": 174726,
       "word": "当我跟别人说话有猫猫经过时",
@@ -49897,6 +49961,14 @@
       "onboard_time": 1689294269,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174266,
+      "num": 174266,
+      "word": "Doinb说要转辅助",
+      "onboard_time": 1690121380,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 174218,
@@ -52540,7 +52612,7 @@
     },
     {
       "raw_hot": 138821,
-      "num": 1196837,
+      "num": 1341605,
       "word": "我国成功发射一箭四星",
       "onboard_time": 1690085010,
       "rank": 49,

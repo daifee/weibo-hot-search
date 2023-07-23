@@ -1,6 +1,6 @@
 {
   "startTime": 1690042823119,
-  "endTime": 1690119224838,
+  "endTime": 1690121652471,
   "band_list": [
     {
       "raw_hot": 3354062,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2301093,
+      "num": 2301093,
+      "word": "孟宴臣脖子上的吻痕",
+      "onboard_time": 1690119577,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2244387,
       "num": 2244387,
       "word": "你好星期六收视创新高",
@@ -65,6 +73,14 @@
       "onboard_time": 1690112314,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1719497,
+      "num": 1719497,
+      "word": "仅3周接诊5名下腰瘫痪孩子",
+      "onboard_time": 1690116453,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1719139,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 1267025,
-      "num": 360899,
+      "num": 421645,
       "word": "长期用棉签掏耳朵的后果",
       "onboard_time": 1690115732,
       "rank": 20,
@@ -297,14 +313,6 @@
       "onboard_time": 1690086150,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 981634,
-      "num": 981634,
-      "word": "仅3周接诊5名下腰瘫痪孩子",
-      "onboard_time": 1690116453,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 967903,
@@ -435,12 +443,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775813,
+      "num": 775813,
+      "word": "莲花楼配音",
+      "onboard_time": 1690120177,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 767227,
+      "num": 704680,
+      "word": "罗刹海市 那英",
+      "onboard_time": 1690117534,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 760131,
       "num": 413424,
       "word": "演员最好的医美",
       "onboard_time": 1690037677,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743069,
+      "num": 492725,
+      "word": "陈都灵猫咪立大功",
+      "onboard_time": 1690119758,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 737751,
@@ -489,14 +521,6 @@
       "onboard_time": 1690115014,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 704680,
-      "num": 704680,
-      "word": "罗刹海市 那英",
-      "onboard_time": 1690117534,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 704089,
@@ -955,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 440748,
+      "num": 440748,
+      "word": "男子讨要17万债款不成反被卖到缅北",
+      "onboard_time": 1690089510,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432749,
       "num": 312599,
       "word": "哪吒杨戬为什么总一起飞走",
@@ -969,6 +1001,14 @@
       "onboard_time": 1690087769,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427323,
+      "num": 427323,
+      "word": "英国歌手在马来西亚亲吻男性遭禁演",
+      "onboard_time": 1690117414,
+      "rank": 24,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 426559,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1690026031,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 410557,
+      "num": 410557,
+      "word": "没有吸管只能委屈葱了",
+      "onboard_time": 1690119875,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 410509,
@@ -1155,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381412,
+      "num": 381412,
+      "word": "曾舜晞6集被骗4次",
+      "onboard_time": 1690120842,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380972,
       "num": 380972,
       "word": "汪顺被判犯规",
@@ -1251,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355546,
+      "num": 355546,
+      "word": "男子4x100自由泳中国队刷新亚洲纪录",
+      "onboard_time": 1690119274,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355507,
       "num": 355507,
       "word": "Uzi状态",
@@ -1313,14 +1377,6 @@
       "onboard_time": 1690037857,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 343271,
-      "num": 343271,
-      "word": "英国歌手在马来西亚亲吻男性遭禁演",
-      "onboard_time": 1690117414,
-      "rank": 24,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 340574,
@@ -1395,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319413,
+      "num": 319413,
+      "word": "封神",
+      "onboard_time": 1690036416,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318578,
       "num": 226002,
       "word": "杨洋王楚然撒糖镜头切魏大勋",
@@ -1409,14 +1473,6 @@
       "onboard_time": 1690115193,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 315081,
-      "num": 298424,
-      "word": "封神",
-      "onboard_time": 1690036416,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 314849,
@@ -1659,14 +1715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260901,
-      "num": 260901,
-      "word": "男子讨要17万债款不成反被卖到缅北",
-      "onboard_time": 1690089510,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260666,
       "num": 241080,
       "word": "玉骨遥全员夸夸团上线",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1690081109,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 237914,
+      "num": 210914,
+      "word": "张远自曝大学初恋",
+      "onboard_time": 1690121501,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 237852,
@@ -2251,6 +2307,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 174749,
+      "num": 174749,
+      "word": "王浩宇太牛了",
+      "onboard_time": 1690119817,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174493,
       "num": 174493,
       "word": "夏思凝100米栏夺冠又美又飒",
@@ -2265,6 +2329,14 @@
       "onboard_time": 1690093892,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174266,
+      "num": 174266,
+      "word": "Doinb说要转辅助",
+      "onboard_time": 1690121380,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 173611,
@@ -2380,7 +2452,7 @@
     },
     {
       "raw_hot": 138821,
-      "num": 1196837,
+      "num": 1341605,
       "word": "我国成功发射一箭四星",
       "onboard_time": 1690085010,
       "rank": 49,
