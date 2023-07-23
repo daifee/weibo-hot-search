@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690139579602,
+  "endTime": 1690140841257,
   "band_list": [
     {
       "raw_hot": 1354511,
@@ -473,6 +473,14 @@
       "onboard_time": 1690134138,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28306,
+      "num": 29455,
+      "word": "周深夸黄渤老师有社交责任感",
+      "onboard_time": 1690140252,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 27552,
