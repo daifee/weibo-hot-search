@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/23 17:15:06
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/23 17:33:38
 </p>
 </blockquote>
 <p>
@@ -4305,6 +4305,12 @@ TT战胜EDG（热度：1323237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%88%9D%E4%B8%AD%E5%A5%B3%E7%94%9F%E5%A5%B8%E6%9D%80%E6%A1%88%E5%B7%B2%E6%98%AF%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%BD%9A%23" target="weibo">
+律师称初中女生奸杀案已是顶格处罚（热度：1260147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%A6%AE%E4%B8%AD%E6%96%87%23" target="weibo">
 米妮中文（热度：1259584）
 </a>
@@ -6005,12 +6011,6 @@ LPL比赛延期（热度：1022920）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E7%9A%84%E5%A7%90%E5%A7%90%E6%98%AF%E7%8E%8B%E5%AE%9D%E5%BC%BA%E7%9A%84%E4%BA%B2%E5%A7%90%E5%A7%90%23" target="weibo">
 八角笼中的姐姐是王宝强的亲姐姐（热度：1021773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%20%E4%BA%92%E8%81%94%E7%BD%91%E5%84%BF%E5%AD%90%23" target="weibo">
-马立奥 互联网儿子（热度：1019523）
 </a>
 </li>
 

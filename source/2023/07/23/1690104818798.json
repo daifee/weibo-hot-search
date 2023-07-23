@@ -1,0 +1,410 @@
+{
+  "runTime": 1690104818798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 732890,
+        "num": 732890,
+        "word": "阳光玫瑰葡萄最全讲解",
+        "onboard_time": 1690098690,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 711652,
+        "num": 711652,
+        "word": "危险派对",
+        "onboard_time": 1690098871,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51154,
+        "num": 638614,
+        "word": "一键解锁消暑秘诀",
+        "onboard_time": 1690100671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1806184,
+        "num": 626193,
+        "word": "杨颖身份证上名字",
+        "onboard_time": 1690091070,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 852904,
+        "num": 620947,
+        "word": "美依礼芽来中国前后对比",
+        "onboard_time": 1690095871,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607021,
+        "num": 607021,
+        "word": "豆瓣",
+        "onboard_time": 1690101571,
+        "rank": 5,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 602071,
+        "num": 602071,
+        "word": "王鹤棣让王传君给詹姆斯道歉",
+        "onboard_time": 1690096291,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439289,
+        "num": 439289,
+        "word": "泳协秘书长跳江救人不幸遇难",
+        "onboard_time": 1690100551,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 372666,
+        "num": 372666,
+        "word": "四川内江地震",
+        "onboard_time": 1690104572,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253808,
+        "num": 367479,
+        "word": "美国一彩民中77亿元头奖",
+        "onboard_time": 1690082189,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2896167,
+        "num": 355108,
+        "word": "魏大勋韩网想弄哭第一名",
+        "onboard_time": 1690102053,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1260147,
+        "num": 344355,
+        "word": "律师称初中女生奸杀案已是顶格处罚",
+        "onboard_time": 1690101571,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614549,
+        "num": 341306,
+        "word": "为什么打针前要推掉一点药水",
+        "onboard_time": 1690103193,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573987,
+        "num": 323376,
+        "word": "因角色爆火的明星",
+        "onboard_time": 1690103252,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451531,
+        "num": 314255,
+        "word": "热烈",
+        "onboard_time": 1690101212,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312599,
+        "num": 312599,
+        "word": "哪吒杨戬为什么总一起飞走",
+        "onboard_time": 1690098871,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312304,
+        "num": 312304,
+        "word": "魏大勋朋友圈里的显眼包",
+        "onboard_time": 1690090351,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218574,
+        "num": 218574,
+        "word": "店家卖穿马面裙戴发簪冰淇淋引争议",
+        "onboard_time": 1690080630,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213763,
+        "num": 213763,
+        "word": "大熊猫也是妈妈的跟屁虫",
+        "onboard_time": 1690098571,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198712,
+        "num": 213740,
+        "word": "李昌钰被指伪造证据",
+        "onboard_time": 1690087531,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428032,
+        "num": 213613,
+        "word": "刚得知我妈给我存了一百万",
+        "onboard_time": 1690102295,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 343479,
+        "num": 213535,
+        "word": "最开始的奶茶是这样的",
+        "onboard_time": 1690102234,
+        "rank": 21,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 299006,
+        "num": 213443,
+        "word": "明星北电脸上戏脸中戏脸",
+        "onboard_time": 1690102234,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285107,
+        "num": 213403,
+        "word": "孟子义所有妹妹碰过的都买",
+        "onboard_time": 1690094190,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159177,
+        "num": 213284,
+        "word": "WBG对战NIP",
+        "onboard_time": 1690102173,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280934,
+        "num": 213202,
+        "word": "热烈预售票房破5000万",
+        "onboard_time": 1690097431,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261079,
+        "num": 213150,
+        "word": "王楚然任敏同款裙子",
+        "onboard_time": 1690096832,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249491,
+        "num": 213080,
+        "word": "封神第二部",
+        "onboard_time": 1690103853,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157961,
+        "num": 213003,
+        "word": "网民捏造中考回流生不实信息被刑拘",
+        "onboard_time": 1690101991,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 232623,
+        "num": 212913,
+        "word": "脸臭的人意识不到自己脸臭",
+        "onboard_time": 1690100850,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 293461,
+        "num": 212821,
+        "word": "原来孟宴臣早就从我的全世界路过",
+        "onboard_time": 1690104334,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223942,
+        "num": 212689,
+        "word": "长沙杀妻男婚内出轨并涉嫌重婚罪",
+        "onboard_time": 1690085969,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223540,
+        "num": 212664,
+        "word": "很讨厌的一种办公室情谊",
+        "onboard_time": 1690098451,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 212597,
+        "num": 212597,
+        "word": "杨幂密逃收官录制路透",
+        "onboard_time": 1690100191,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204110,
+        "num": 204110,
+        "word": "玉骨遥全员夸夸团上线",
+        "onboard_time": 1690104572,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201393,
+        "num": 201393,
+        "word": "广末凉子宣布离婚",
+        "onboard_time": 1690089092,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196408,
+        "num": 201393,
+        "word": "TFBOYS海报侧拍花絮",
+        "onboard_time": 1690091972,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189896,
+        "num": 201383,
+        "word": "馒头的绝配到底是什么",
+        "onboard_time": 1690102295,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 184471,
+        "num": 201377,
+        "word": "大暑时节不可错过的美食",
+        "onboard_time": 1690103853,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147184,
+        "num": 201369,
+        "word": "被大风吹到生气的小狗",
+        "onboard_time": 1690100911,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 194513,
+        "num": 201355,
+        "word": "王传君卸妆赢了徐志胜",
+        "onboard_time": 1690104511,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189619,
+        "num": 201355,
+        "word": "刀郎 罗刹海市",
+        "onboard_time": 1690095450,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175196,
+        "num": 201345,
+        "word": "刘耀文说公司的人没有创新",
+        "onboard_time": 1690093832,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170807,
+        "num": 201338,
+        "word": "莲花楼全员放大镜搜证",
+        "onboard_time": 1690089931,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167809,
+        "num": 201325,
+        "word": "沈腾范丞丞合照",
+        "onboard_time": 1690097671,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165398,
+        "num": 201319,
+        "word": "向太戴了好多澳白",
+        "onboard_time": 1690081891,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145874,
+        "num": 201310,
+        "word": "大运会门票",
+        "onboard_time": 1690099291,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107284,
+        "num": 201310,
+        "word": "鸿星尔克请大熊猫吃竹子",
+        "onboard_time": 1690100972,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136702,
+        "num": 201302,
+        "word": "高位截瘫女孩高考557手肘磨得见骨",
+        "onboard_time": 1690088431,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126496,
+        "num": 201288,
+        "word": "张拿铁上的户口是铁岭汉族",
+        "onboard_time": 1690104632,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#领风踏浪启新程#"
+    }
+  }
+}
