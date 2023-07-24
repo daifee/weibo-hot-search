@@ -1,0 +1,410 @@
+{
+  "runTime": 1690173269978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3074153,
+        "num": 3074153,
+        "word": "齐齐哈尔34中体育馆坍塌11人死亡",
+        "onboard_time": 1690168595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2915499,
+        "num": 2915499,
+        "word": "35人退钱群里34人是托",
+        "onboard_time": 1690167632,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 115749,
+        "num": 2356560,
+        "word": "成都大运会青春含量拉满",
+        "onboard_time": 1690167272,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2076919,
+        "num": 2076919,
+        "word": "杨紫工作室改名清水镇回春堂",
+        "onboard_time": 1690170940,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1535697,
+        "num": 1535697,
+        "word": "8小时睡眠论",
+        "onboard_time": 1690169796,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1484059,
+        "num": 1484059,
+        "word": "优酷称TFBOYS线上票不限量",
+        "onboard_time": 1690171235,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1433810,
+        "num": 1433810,
+        "word": "杨洋演的于途vs宋焰",
+        "onboard_time": 1690168472,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1394267,
+        "num": 1394267,
+        "word": "妻子付不起120万赎金装客户帮丈夫电诈",
+        "onboard_time": 1690163972,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1367657,
+        "num": 1367657,
+        "word": "网曝大爷大妈跑到水库放生矿泉水",
+        "onboard_time": 1690170336,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1293866,
+        "num": 1293866,
+        "word": "优酷抢票",
+        "onboard_time": 1690166253,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1435790,
+        "num": 1127790,
+        "word": "魏大勋不是孟宴臣角色的第一人选",
+        "onboard_time": 1690168174,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 876926,
+        "num": 876926,
+        "word": "他大概没想过以后会过的那么苦",
+        "onboard_time": 1690164210,
+        "rank": 11,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 752155,
+        "num": 752155,
+        "word": "张艺兴连续三次发背影照了",
+        "onboard_time": 1690169796,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 742647,
+        "num": 742647,
+        "word": "TFBOYS西安演唱会今天开票",
+        "onboard_time": 1690162291,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 739893,
+        "num": 739893,
+        "word": "坍塌中学体育馆最后一名失联人员找到",
+        "onboard_time": 1690167152,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706842,
+        "num": 706842,
+        "word": "假如孟宴臣遇见了乔晶晶",
+        "onboard_time": 1690171418,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584263,
+        "num": 584263,
+        "word": "杨幂密逃异域公主",
+        "onboard_time": 1690170217,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503982,
+        "num": 503982,
+        "word": "8岁女童被两男孩用弹弓射伤致左眼失明",
+        "onboard_time": 1690165832,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491344,
+        "num": 491344,
+        "word": "篮协官宣李凯尔获得中国国籍",
+        "onboard_time": 1690167032,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 467928,
+        "num": 467928,
+        "word": "齐齐哈尔坍塌事故发现被埋女排教练",
+        "onboard_time": 1690123838,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543253,
+        "num": 466460,
+        "word": "王一博宋祖儿对视海报",
+        "onboard_time": 1690168896,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458393,
+        "num": 458393,
+        "word": "齐齐哈尔坍塌体育馆已致10人死亡",
+        "onboard_time": 1690159054,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426711,
+        "num": 426711,
+        "word": "刘涛黑色露背裙",
+        "onboard_time": 1690171475,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390177,
+        "num": 390177,
+        "word": "因为倒车入库不进请了个代驾",
+        "onboard_time": 1690167513,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349202,
+        "num": 349202,
+        "word": "男子不慎抠下派出所石狮子嘴里石球",
+        "onboard_time": 1690161811,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 391388,
+        "num": 347853,
+        "word": "长相思今日开播",
+        "onboard_time": 1690162891,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365105,
+        "num": 347259,
+        "word": "五月天泉州",
+        "onboard_time": 1690164992,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 336901,
+        "num": 336901,
+        "word": "大宋少年志",
+        "onboard_time": 1690167392,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326054,
+        "num": 326054,
+        "word": "美国和英国争谁家的中餐更好吃",
+        "onboard_time": 1690171536,
+        "rank": 28,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 313088,
+        "num": 313088,
+        "word": "家长质疑孩子被送医院5小时无人出面沟通",
+        "onboard_time": 1690165650,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500841,
+        "num": 308755,
+        "word": "女孩穿cos服参加漫展遭老人谩骂",
+        "onboard_time": 1690163070,
+        "rank": 30,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 323401,
+        "num": 308662,
+        "word": "莲花楼塌房文学",
+        "onboard_time": 1690172862,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301544,
+        "num": 301544,
+        "word": "沈月西瓜籽泪痕",
+        "onboard_time": 1690170818,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297456,
+        "num": 297456,
+        "word": "杨澄王莹意难平",
+        "onboard_time": 1690172381,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290275,
+        "num": 290275,
+        "word": "你每天能睡够7小时吗",
+        "onboard_time": 1690168595,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 286383,
+        "num": 286383,
+        "word": "上海厕所一个奇怪的标志",
+        "onboard_time": 1690158332,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272153,
+        "num": 272153,
+        "word": "女子买糕点付钱后发现被调包成临期",
+        "onboard_time": 1690172257,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256426,
+        "num": 256426,
+        "word": "被网友吃菌子中毒后的描述笑死",
+        "onboard_time": 1690157910,
+        "rank": 37,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 253570,
+        "num": 253570,
+        "word": "鹿晗魏大勋采访名场面",
+        "onboard_time": 1690165111,
+        "rank": 38,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 250550,
+        "num": 250550,
+        "word": "新疆是碳水爱好者的天堂吧",
+        "onboard_time": 1690168051,
+        "rank": 39,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 249221,
+        "num": 249221,
+        "word": "风月变",
+        "onboard_time": 1690168114,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248032,
+        "num": 248032,
+        "word": "TFBOYS演唱会超300万人想看",
+        "onboard_time": 1690163190,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231961,
+        "num": 231961,
+        "word": "化妆店里的化妆用品真的很脏",
+        "onboard_time": 1690169015,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226678,
+        "num": 226678,
+        "word": "i人喜欢独处的真实原因",
+        "onboard_time": 1690164692,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 220591,
+        "num": 220591,
+        "word": "孟宴臣事业粉狂喜",
+        "onboard_time": 1690171836,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219861,
+        "num": 219861,
+        "word": "Angelababy新剧切黑了",
+        "onboard_time": 1690165592,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218073,
+        "num": 218073,
+        "word": "温州一企业研发出不沾奶酸奶盖",
+        "onboard_time": 1690167691,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 210488,
+        "num": 210488,
+        "word": "推特标志将被改为X",
+        "onboard_time": 1690158574,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209868,
+        "num": 209868,
+        "word": "TF三代8月份还有一场演出",
+        "onboard_time": 1690160552,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203851,
+        "num": 207033,
+        "word": "五月天南京",
+        "onboard_time": 1690170155,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席成都大运会开幕式#"
+    }
+  }
+}

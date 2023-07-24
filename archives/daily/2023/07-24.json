@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690172415338,
+  "endTime": 1690173269978,
   "band_list": [
     {
       "raw_hot": 3077752,
@@ -11,8 +11,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 2889230,
-      "num": 2889230,
+      "raw_hot": 3074153,
+      "num": 3074153,
       "word": "齐齐哈尔34中体育馆坍塌11人死亡",
       "onboard_time": 1690168595,
       "rank": 41,
@@ -33,6 +33,14 @@
       "onboard_time": 1690159054,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2076919,
+      "num": 2076919,
+      "word": "杨紫工作室改名清水镇回春堂",
+      "onboard_time": 1690170940,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 2073172,
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1535697,
+      "num": 1535697,
+      "word": "8小时睡眠论",
+      "onboard_time": 1690169796,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1530175,
       "num": 1530175,
       "word": "TFBOYS西安演唱会今天开票",
@@ -67,27 +83,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1484059,
+      "num": 1484059,
+      "word": "优酷称TFBOYS线上票不限量",
+      "onboard_time": 1690171235,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1476336,
-      "num": 979437,
+      "num": 1127790,
       "word": "魏大勋不是孟宴臣角色的第一人选",
       "onboard_time": 1690168174,
       "rank": 18,
       "category": "影视"
     },
     {
-      "raw_hot": 1404236,
-      "num": 1404236,
+      "raw_hot": 1433810,
+      "num": 1433810,
       "word": "杨洋演的于途vs宋焰",
       "onboard_time": 1690168472,
       "rank": 37,
       "category": "影视"
     },
     {
-      "raw_hot": 1403275,
-      "num": 1403275,
-      "word": "8小时睡眠论",
-      "onboard_time": 1690169796,
-      "rank": 6,
+      "raw_hot": 1367657,
+      "num": 1367657,
+      "word": "网曝大爷大妈跑到水库放生矿泉水",
+      "onboard_time": 1690170336,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -105,22 +129,6 @@
       "onboard_time": 1690164210,
       "rank": 12,
       "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 1313455,
-      "num": 1313455,
-      "word": "杨紫工作室改名清水镇回春堂",
-      "onboard_time": 1690170940,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1280498,
-      "num": 1280498,
-      "word": "网曝大爷大妈跑到水库放生矿泉水",
-      "onboard_time": 1690170336,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1235950,
@@ -195,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 923336,
-      "num": 923336,
-      "word": "优酷称TFBOYS线上票不限量",
-      "onboard_time": 1690171235,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 873947,
       "num": 873947,
       "word": "姬发 殷郊",
@@ -243,6 +243,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 752155,
+      "num": 752155,
+      "word": "张艺兴连续三次发背影照了",
+      "onboard_time": 1690169796,
+      "rank": 13,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 746050,
       "num": 746050,
       "word": "仅3周接诊5名下腰瘫痪孩子",
@@ -275,12 +283,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 702937,
-      "num": 702937,
-      "word": "张艺兴连续三次发背影照了",
-      "onboard_time": 1690169796,
-      "rank": 13,
-      "category": "艺人,幽默"
+      "raw_hot": 706842,
+      "num": 706842,
+      "word": "假如孟宴臣遇见了乔晶晶",
+      "onboard_time": 1690171418,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 679491,
@@ -427,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 487042,
-      "num": 487042,
-      "word": "假如孟宴臣遇见了乔晶晶",
-      "onboard_time": 1690171418,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 481893,
       "num": 481893,
       "word": "任安乐今晚掉马",
@@ -497,6 +497,14 @@
       "onboard_time": 1690124856,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426711,
+      "num": 426711,
+      "word": "刘涛黑色露背裙",
+      "onboard_time": 1690171475,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 424016,
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326054,
+      "num": 326054,
+      "word": "美国和英国争谁家的中餐更好吃",
+      "onboard_time": 1690171536,
+      "rank": 41,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 324851,
       "num": 324851,
       "word": "Angelababy新剧切黑了",
@@ -635,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 323401,
+      "num": 308662,
+      "word": "莲花楼塌房文学",
+      "onboard_time": 1690172862,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322633,
       "num": 322633,
       "word": "陈都灵猫咪立大功",
@@ -665,6 +689,14 @@
       "onboard_time": 1690168051,
       "rank": 34,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 297456,
+      "num": 297456,
+      "word": "杨澄王莹意难平",
+      "onboard_time": 1690172381,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 294569,
@@ -739,20 +771,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272153,
+      "num": 272153,
+      "word": "女子买糕点付钱后发现被调包成临期",
+      "onboard_time": 1690172257,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271114,
       "num": 271114,
       "word": "娜然漂亮",
       "onboard_time": 1690155507,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264313,
-      "num": 264313,
-      "word": "刘涛黑色露背裙",
-      "onboard_time": 1690171475,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 262545,
@@ -817,14 +849,6 @@
       "onboard_time": 1690124917,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242805,
-      "num": 242805,
-      "word": "美国和英国争谁家的中餐更好吃",
-      "onboard_time": 1690171536,
-      "rank": 41,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 237573,
@@ -1027,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187713,
-      "num": 210009,
-      "word": "杨澄王莹意难平",
-      "onboard_time": 1690172381,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187518,
       "num": 187518,
       "word": "出门前是不是忘给狗子关空调了啊",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1690129589,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178434,
-      "num": 206994,
-      "word": "女子买糕点付钱后发现被调包成临期",
-      "onboard_time": 1690172257,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178018,
@@ -1220,7 +1228,7 @@
     },
     {
       "raw_hot": 126970,
-      "num": 2225483,
+      "num": 2356560,
       "word": "成都大运会青春含量拉满",
       "onboard_time": 1690167272,
       "rank": 2,
