@@ -1,7 +1,15 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690173269978,
+  "endTime": 1690175804431,
   "band_list": [
+    {
+      "raw_hot": 3377134,
+      "num": 3377134,
+      "word": "齐齐哈尔34中体育馆坍塌11人死亡",
+      "onboard_time": 1690168595,
+      "rank": 41,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3077752,
       "num": 3077752,
@@ -9,14 +17,6 @@
       "onboard_time": 1690167632,
       "rank": 10,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 3074153,
-      "num": 3074153,
-      "word": "齐齐哈尔34中体育馆坍塌11人死亡",
-      "onboard_time": 1690168595,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2252541,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1143621,
+      "num": 1143621,
+      "word": "陈哲远正式确诊为邪剑仙",
+      "onboard_time": 1690174419,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1125319,
       "num": 1125319,
       "word": "网友在LV花近万元买错码不换被驱逐",
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 910618,
+      "num": 910618,
+      "word": "五个显眼包灵隐寺淋雨合照",
+      "onboard_time": 1690173763,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873947,
       "num": 873947,
       "word": "姬发 殷郊",
@@ -219,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 823730,
+      "num": 308429,
+      "word": "男子游泳大便致泳池被抽干",
+      "onboard_time": 1690175077,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811011,
       "num": 811011,
       "word": "被网友吃菌子中毒后的描述笑死",
@@ -233,6 +257,14 @@
       "onboard_time": 1690115133,
       "rank": 11,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 763113,
+      "num": 763113,
+      "word": "莲花楼塌房文学",
+      "onboard_time": 1690172862,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 756923,
@@ -323,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 651769,
+      "num": 651769,
+      "word": "iPhone15将采用叠层电池",
+      "onboard_time": 1690173822,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 650071,
       "num": 650071,
       "word": "一辈子很短但周一很长",
@@ -387,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589842,
+      "num": 589842,
+      "word": "TFBOYS抢票",
+      "onboard_time": 1690174959,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 586145,
       "num": 586145,
       "word": "杨玏封神白月光",
@@ -419,6 +467,14 @@
       "category": "音乐,情感"
     },
     {
+      "raw_hot": 563717,
+      "num": 563717,
+      "word": "正式确诊为佟湘玉",
+      "onboard_time": 1690173640,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 549902,
       "num": 549902,
       "word": "魏大勋的爆火意味着什么",
@@ -433,6 +489,14 @@
       "onboard_time": 1690128270,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 514585,
+      "num": 514585,
+      "word": "杨颖cos瑶",
+      "onboard_time": 1690174303,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 481893,
@@ -489,6 +553,14 @@
       "onboard_time": 1690128212,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 449819,
+      "num": 449819,
+      "word": "结婚的好处是什么",
+      "onboard_time": 1690173998,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 430747,
@@ -555,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387129,
+      "num": 387129,
+      "word": "孟宴臣立大功",
+      "onboard_time": 1690173522,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377701,
       "num": 377701,
       "word": "魏大勋韩网想弄哭第一名",
@@ -563,12 +643,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 363148,
+      "num": 306483,
+      "word": "魏大勋机场私服",
+      "onboard_time": 1690175077,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 360336,
       "num": 360336,
       "word": "如果你6年前出生那你今年几岁",
       "onboard_time": 1690160192,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 358154,
+      "num": 302964,
+      "word": "爸爸当家",
+      "onboard_time": 1690174959,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 353989,
@@ -593,6 +689,14 @@
       "onboard_time": 1690168595,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 338562,
+      "num": 295047,
+      "word": "封神",
+      "onboard_time": 1690112732,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 336973,
@@ -651,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 323401,
-      "num": 308662,
-      "word": "莲花楼塌房文学",
-      "onboard_time": 1690172862,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 322633,
       "num": 322633,
       "word": "陈都灵猫咪立大功",
@@ -683,12 +779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312973,
+      "num": 312973,
+      "word": "齐齐哈尔",
+      "onboard_time": 1690154605,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307954,
       "num": 307954,
       "word": "新疆是碳水爱好者的天堂吧",
       "onboard_time": 1690168051,
       "rank": 34,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 306969,
+      "num": 270152,
+      "word": "迪丽热巴龚俊安乐传铠甲造型",
+      "onboard_time": 1690174598,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 297456,
@@ -763,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279201,
+      "num": 269090,
+      "word": "大宋少年志2",
+      "onboard_time": 1690173279,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276765,
       "num": 274556,
       "word": "假如许沁的姐姐是许半夏",
@@ -771,8 +891,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272153,
-      "num": 272153,
+      "raw_hot": 274630,
+      "num": 274630,
       "word": "女子买糕点付钱后发现被调包成临期",
       "onboard_time": 1690172257,
       "rank": 49,
@@ -867,20 +987,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235278,
+      "num": 235278,
+      "word": "影院贴男人视力表被指辱女",
+      "onboard_time": 1690175557,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234413,
       "num": 206287,
       "word": "薛之谦多巴胺发色",
       "onboard_time": 1690131622,
       "rank": 17,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 231457,
-      "num": 231457,
-      "word": "封神",
-      "onboard_time": 1690112732,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 227384,
@@ -971,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206422,
+      "num": 206422,
+      "word": "刀郎新歌",
+      "onboard_time": 1690175737,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205556,
       "num": 205556,
       "word": "没想到狗狗坐车居然也会晕车",
@@ -985,14 +1113,6 @@
       "onboard_time": 1690106731,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201952,
-      "num": 201952,
-      "word": "齐齐哈尔",
-      "onboard_time": 1690154605,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196352,
