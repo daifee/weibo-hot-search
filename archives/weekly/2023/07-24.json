@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690220016751,
+  "endTime": 1690222992283,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -2803,12 +2803,28 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 65698,
+      "num": 65698,
+      "word": "体育馆坍塌事故涉及双重违规",
+      "onboard_time": 1690220299,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50647,
       "num": 2768071,
       "word": "空军航空开放活动预演现场",
       "onboard_time": 1690197334,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41752,
+      "num": 41752,
+      "word": "换乘瓶邪",
+      "onboard_time": 1690222877,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 31492,
