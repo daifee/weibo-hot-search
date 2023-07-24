@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690230848127,
+  "endTime": 1690233373023,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -58219,6 +58219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38819,
+      "num": 38819,
+      "word": "不该对齐齐哈尔事故保持沉默",
+      "onboard_time": 1690225273,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38587,
       "num": 50688,
       "word": "怎么破解AI换脸诈骗",
@@ -58313,14 +58321,6 @@
       "onboard_time": 1688814030,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35514,
-      "num": 35514,
-      "word": "不该对齐齐哈尔事故保持沉默",
-      "onboard_time": 1690225273,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35405,

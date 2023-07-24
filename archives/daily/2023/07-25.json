@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690230848127,
+  "endTime": 1690233373023,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -467,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38819,
+      "num": 38819,
+      "word": "不该对齐齐哈尔事故保持沉默",
+      "onboard_time": 1690225273,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36758,
       "num": 36758,
       "word": "Rookie妖姬超神",
       "onboard_time": 1690225754,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 35514,
-      "num": 35514,
-      "word": "不该对齐齐哈尔事故保持沉默",
-      "onboard_time": 1690225273,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30206,
