@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690223792615,
+  "endTime": 1690226032742,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -443,8 +443,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68705,
-      "num": 65792,
+      "raw_hot": 69318,
+      "num": 69318,
       "word": "换乘瓶邪",
       "onboard_time": 1690222877,
       "rank": 49,
@@ -459,11 +459,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48862,
+      "num": 47907,
+      "word": "时尚芭莎你真的不考虑一下孟家三口吗",
+      "onboard_time": 1690224435,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 36758,
+      "num": 36758,
+      "word": "Rookie妖姬超神",
+      "onboard_time": 1690225754,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 30206,
       "num": 1245804,
       "word": "空军航空开放活动预演现场",
       "onboard_time": 1690197334,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28577,
+      "num": 34383,
+      "word": "坍塌中学体育馆墙体疑早有损坏",
+      "onboard_time": 1690224974,
+      "rank": 48,
       "category": "社会新闻"
     }
   ],

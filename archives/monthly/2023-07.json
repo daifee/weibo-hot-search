@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690223792615,
+  "endTime": 1690226032742,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -57475,6 +57475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69318,
+      "num": 69318,
+      "word": "换乘瓶邪",
+      "onboard_time": 1690222877,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 69161,
       "num": 1903763,
       "word": "生态保护硬核成绩单",
@@ -57505,14 +57513,6 @@
       "onboard_time": 1688664500,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 68705,
-      "num": 65792,
-      "word": "换乘瓶邪",
-      "onboard_time": 1690222877,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 68429,
@@ -57971,6 +57971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48862,
+      "num": 47907,
+      "word": "时尚芭莎你真的不考虑一下孟家三口吗",
+      "onboard_time": 1690224435,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 48784,
       "num": 52875,
       "word": "王源去看汪苏泷演唱会",
@@ -58283,6 +58291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36758,
+      "num": 36758,
+      "word": "Rookie妖姬超神",
+      "onboard_time": 1690225754,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 36661,
       "num": 53111,
       "word": "雨天积水伴郎团蹚水抬新娘进门",
@@ -58544,6 +58560,14 @@
       "word": "在数模上打破了性别的壁垒",
       "onboard_time": 1689101775,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28577,
+      "num": 34383,
+      "word": "坍塌中学体育馆墙体疑早有损坏",
+      "onboard_time": 1690224974,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

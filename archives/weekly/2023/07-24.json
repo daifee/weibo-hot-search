@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690223792615,
+  "endTime": 1690226032742,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -2795,8 +2795,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68705,
-      "num": 65792,
+      "raw_hot": 69318,
+      "num": 69318,
       "word": "换乘瓶邪",
       "onboard_time": 1690222877,
       "rank": 49,
@@ -2827,6 +2827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48862,
+      "num": 47907,
+      "word": "时尚芭莎你真的不考虑一下孟家三口吗",
+      "onboard_time": 1690224435,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 36758,
+      "num": 36758,
+      "word": "Rookie妖姬超神",
+      "onboard_time": 1690225754,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31492,
       "num": 1362622,
       "word": "这个夏天共赴青春盛会",
@@ -2840,6 +2856,14 @@
       "word": "郎铮说想通过努力为国家发声",
       "onboard_time": 1690134138,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28577,
+      "num": 34383,
+      "word": "坍塌中学体育馆墙体疑早有损坏",
+      "onboard_time": 1690224974,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
