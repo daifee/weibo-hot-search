@@ -1,0 +1,410 @@
+{
+  "runTime": 1690197270444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1421934,
+        "num": 1421934,
+        "word": "齐齐哈尔34中体育馆坍塌11人死亡",
+        "onboard_time": 1690168595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292329,
+        "num": 1292329,
+        "word": "陈建州范玮琪撤销对大牙起诉",
+        "onboard_time": 1690195470,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668215,
+        "num": 1140527,
+        "word": "保姆一路考证升学工资从5000涨到2万",
+        "onboard_time": 1690195231,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1018192,
+        "num": 1018192,
+        "word": "记者卧底救了6个被骗缅甸人员",
+        "onboard_time": 1690194632,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695653,
+        "num": 1010789,
+        "word": "这锅鱼汤他能记一辈子",
+        "onboard_time": 1690193016,
+        "rank": 4,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 1006555,
+        "num": 1006555,
+        "word": "长相思",
+        "onboard_time": 1690177239,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 798519,
+        "num": 798519,
+        "word": "颖儿家暴戏至少化妆2小时",
+        "onboard_time": 1690191574,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11694,
+        "num": 644612,
+        "word": "成都大运会青春含量拉满",
+        "onboard_time": 1690167272,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542129,
+        "num": 542129,
+        "word": "TES对战EDG",
+        "onboard_time": 1690189713,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 498209,
+        "num": 498209,
+        "word": "曝利雅得新月3亿欧报价姆巴佩",
+        "onboard_time": 1690195415,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1502569,
+        "num": 492088,
+        "word": "女子称孕期被丈夫挤压肚子",
+        "onboard_time": 1690190796,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316944,
+        "num": 453950,
+        "word": "农村男孩考取博士拿通知书和土墙合影",
+        "onboard_time": 1690187254,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1455163,
+        "num": 451827,
+        "word": "吴宣仪 牙贴片已经取了",
+        "onboard_time": 1690188874,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 444420,
+        "num": 444420,
+        "word": "莲花楼里有人叫宋知许",
+        "onboard_time": 1690194214,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421298,
+        "num": 421298,
+        "word": "齐市坍塌事故施工方中标多个学校项目",
+        "onboard_time": 1690183421,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 393983,
+        "num": 393983,
+        "word": "李玟姐姐将直播李玟追思会",
+        "onboard_time": 1690190913,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341968,
+        "num": 391182,
+        "word": "双胞胎出生时间和高考成绩都相差一分",
+        "onboard_time": 1690195772,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 389820,
+        "num": 389820,
+        "word": "400万人的抢票第一次参加",
+        "onboard_time": 1690180360,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384326,
+        "num": 384326,
+        "word": "朱志鑫 体能方面没那么稳固",
+        "onboard_time": 1690193974,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 380419,
+        "num": 380419,
+        "word": "TFBOYS抢票",
+        "onboard_time": 1690174959,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 394639,
+        "num": 378566,
+        "word": "许沁婚礼伴手礼",
+        "onboard_time": 1690190135,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362375,
+        "num": 362375,
+        "word": "男子游泳大便致泳池被抽干",
+        "onboard_time": 1690175077,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354326,
+        "num": 354326,
+        "word": "优酷TFBOYS演唱会线上只能看三天",
+        "onboard_time": 1690196492,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328483,
+        "num": 328483,
+        "word": "齐齐哈尔坍塌事故学生家长发声",
+        "onboard_time": 1690184796,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308115,
+        "num": 308115,
+        "word": "唐尚珺放弃本科第一批第二次征集志愿",
+        "onboard_time": 1690190016,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 286029,
+        "num": 286029,
+        "word": "岳云鹏被王一博整害羞了",
+        "onboard_time": 1690195593,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283975,
+        "num": 283975,
+        "word": "原来月休4天不是单休",
+        "onboard_time": 1690185696,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269225,
+        "num": 269225,
+        "word": "马立奥问魏晨的宝宝小不小",
+        "onboard_time": 1690189775,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266280,
+        "num": 266280,
+        "word": "魏无羡圆梦了",
+        "onboard_time": 1690196854,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252917,
+        "num": 252917,
+        "word": "叠纸买楼",
+        "onboard_time": 1690196194,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 583179,
+        "num": 252881,
+        "word": "地库出口3岁男童不幸被撞身亡",
+        "onboard_time": 1690195832,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242293,
+        "num": 242293,
+        "word": "3D还原齐齐哈尔体育馆坍塌过程",
+        "onboard_time": 1690184735,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235740,
+        "num": 235740,
+        "word": "小朋友坐10个小时高铁不吵闹",
+        "onboard_time": 1690191093,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227038,
+        "num": 227038,
+        "word": "王宝强女儿八角笼中观后感",
+        "onboard_time": 1690182816,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213471,
+        "num": 213471,
+        "word": "35人退钱群里34人是托",
+        "onboard_time": 1690167632,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 211683,
+        "num": 211683,
+        "word": "1只大熊猫被10只一级重点保护动物围观",
+        "onboard_time": 1690178685,
+        "rank": 35,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 207627,
+        "num": 207627,
+        "word": "齐市教育局曾在4个月前开展校舍安全检查",
+        "onboard_time": 1690191633,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 202435,
+        "num": 202435,
+        "word": "迪丽热巴龚俊的手",
+        "onboard_time": 1690197093,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200827,
+        "num": 200827,
+        "word": "夏天遛狗一定要警惕这种草",
+        "onboard_time": 1690196614,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193843,
+        "num": 193843,
+        "word": "男孩看到妈妈剖腹产疤痕心疼说原谅我",
+        "onboard_time": 1690185816,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193608,
+        "num": 193608,
+        "word": "iPhone15将采用叠层电池",
+        "onboard_time": 1690173822,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181525,
+        "num": 181525,
+        "word": "做好下半年经济工作要坚持稳中求进",
+        "onboard_time": 1690193074,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172080,
+        "num": 172080,
+        "word": "十年了 我是变懂事了不是变董事了",
+        "onboard_time": 1690181976,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164742,
+        "num": 164742,
+        "word": "封神中弑父情节",
+        "onboard_time": 1690189176,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156259,
+        "num": 156259,
+        "word": "熊猫的干饭量有多惊人",
+        "onboard_time": 1690192833,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150692,
+        "num": 150692,
+        "word": "一家三口游清北黄牛报价2000元",
+        "onboard_time": 1690196791,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 150195,
+        "num": 150195,
+        "word": "演唱会强实名后黄牛代抢生意火了",
+        "onboard_time": 1690188633,
+        "rank": 46,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 148332,
+        "num": 148332,
+        "word": "吴宗宪坚持提告黄子佼",
+        "onboard_time": 1690191574,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140822,
+        "num": 147628,
+        "word": "乐队演出当众脱裤子被指低俗",
+        "onboard_time": 1690178018,
+        "rank": 48,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 136904,
+        "num": 147295,
+        "word": "刘惜君陨石透纱裙",
+        "onboard_time": 1690192354,
+        "rank": 49,
+        "category": "音乐,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造经济发展新动能#"
+    }
+  }
+}

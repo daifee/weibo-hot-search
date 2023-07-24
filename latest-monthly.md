@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/24 18:35:49
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/24 19:14:30
 </p>
 </blockquote>
 <p>
@@ -4407,6 +4407,12 @@ TT战胜EDG（热度：1323237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%A7%E7%89%99%E8%B5%B7%E8%AF%89%23" target="weibo">
+陈建州范玮琪撤销对大牙起诉（热度：1292329）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%B0%8F%E5%A9%89%E5%8F%88%E5%8F%88%E5%88%86%E6%89%8B%E4%BA%86%23" target="weibo">
 薛小婉又又分手了（热度：1291885）
 </a>
@@ -6005,12 +6011,6 @@ YG回应Lisa续约情况（热度：1079040）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%BF%83%E7%96%BC%E7%88%B1%E8%B1%86%E5%A4%9A%E5%BF%83%E7%96%BC%E8%87%AA%E5%B7%B1%E5%90%A7%23" target="weibo">
 不要心疼爱豆多心疼自己吧（热度：1053457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%E5%BD%A2%E5%AE%B9%E5%B7%A8%E6%98%9F%E9%99%A8%E8%90%BD%23" target="weibo">
-外媒报道李玟去世形容巨星陨落（热度：1053388）
 </a>
 </li>
 
