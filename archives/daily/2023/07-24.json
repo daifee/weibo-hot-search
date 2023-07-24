@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690166743270,
+  "endTime": 1690168678804,
   "band_list": [
     {
       "raw_hot": 2079391,
@@ -9,6 +9,22 @@
       "onboard_time": 1690159054,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2073172,
+      "num": 1586479,
+      "word": "妻子付不起120万赎金装客户帮丈夫电诈",
+      "onboard_time": 1690163972,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1938292,
+      "num": 1938292,
+      "word": "优酷抢票",
+      "onboard_time": 1690166253,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 1739732,
@@ -27,6 +43,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1414527,
+      "num": 1414527,
+      "word": "坍塌中学体育馆最后一名失联人员找到",
+      "onboard_time": 1690167152,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1354511,
       "num": 1354511,
       "word": "齐齐哈尔三十四中坍塌现场救出11人",
@@ -35,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1260288,
-      "num": 1231953,
-      "word": "妻子付不起120万赎金装客户帮丈夫电诈",
-      "onboard_time": 1690163972,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 1330814,
+      "num": 1330814,
+      "word": "他大概没想过以后会过的那么苦",
+      "onboard_time": 1690164210,
+      "rank": 12,
+      "category": "作品衍生,情感"
     },
     {
       "raw_hot": 1235950,
@@ -91,6 +115,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 955509,
+      "num": 955509,
+      "word": "家长质疑孩子被送医院5小时无人出面沟通",
+      "onboard_time": 1690165650,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 952565,
+      "num": 952565,
+      "word": "篮协官宣李凯尔获得中国国籍",
+      "onboard_time": 1690167032,
+      "rank": 7,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 934893,
       "num": 934893,
       "word": "孟宴臣脖子上的吻痕",
@@ -99,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 909742,
-      "num": 909742,
-      "word": "他大概没想过以后会过的那么苦",
-      "onboard_time": 1690164210,
-      "rank": 12,
-      "category": "作品衍生,情感"
+      "raw_hot": 906770,
+      "num": 763117,
+      "word": "35人退钱群里34人是托",
+      "onboard_time": 1690167632,
+      "rank": 10,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 873947,
@@ -113,6 +153,14 @@
       "onboard_time": 1690127072,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 838672,
+      "num": 838672,
+      "word": "五月天泉州",
+      "onboard_time": 1690164992,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 811011,
@@ -132,7 +180,7 @@
     },
     {
       "raw_hot": 756923,
-      "num": 357882,
+      "num": 423696,
       "word": "男子不慎抠下派出所石狮子嘴里石球",
       "onboard_time": 1690161811,
       "rank": 21,
@@ -144,14 +192,6 @@
       "word": "仅3周接诊5名下腰瘫痪孩子",
       "onboard_time": 1690116453,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 744485,
-      "num": 744485,
-      "word": "家长质疑孩子被送医院5小时无人出面沟通",
-      "onboard_time": 1690165650,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -187,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 652180,
+      "num": 438081,
+      "word": "因为倒车入库不进请了个代驾",
+      "onboard_time": 1690167513,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 650071,
       "num": 650071,
       "word": "一辈子很短但周一很长",
@@ -201,6 +249,14 @@
       "onboard_time": 1690115732,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 630470,
+      "num": 630470,
+      "word": "8岁女童被两男孩用弹弓射伤致左眼失明",
+      "onboard_time": 1690165832,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625003,
@@ -267,6 +323,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 571872,
+      "num": 571872,
+      "word": "躺着真舒服",
+      "onboard_time": 1690165772,
+      "rank": 36,
+      "category": "音乐,情感"
+    },
+    {
       "raw_hot": 549902,
       "num": 549902,
       "word": "魏大勋的爆火意味着什么",
@@ -283,14 +347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 492732,
-      "num": 492732,
-      "word": "优酷抢票",
-      "onboard_time": 1690166253,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 481893,
       "num": 481893,
       "word": "任安乐今晚掉马",
@@ -305,6 +361,14 @@
       "onboard_time": 1690156408,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472361,
+      "num": 437938,
+      "word": "大宋少年志",
+      "onboard_time": 1690167392,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 472248,
@@ -339,12 +403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450215,
+      "num": 450215,
+      "word": "魏大勋不是孟宴臣角色的第一人选",
+      "onboard_time": 1690168174,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430747,
       "num": 274948,
       "word": "女子坐地铁被安检告知榴莲有5房肉",
       "onboard_time": 1690124856,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424016,
+      "num": 424016,
+      "word": "TFBOYS演唱会超300万人想看",
+      "onboard_time": 1690163190,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 423505,
@@ -379,28 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397248,
-      "num": 309324,
-      "word": "8岁女童被两男孩用弹弓射伤致左眼失明",
-      "onboard_time": 1690165832,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396762,
       "num": 396762,
       "word": "台风杜苏芮",
       "onboard_time": 1690158454,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395652,
-      "num": 395652,
-      "word": "TFBOYS演唱会超300万人想看",
-      "onboard_time": 1690163190,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 377701,
@@ -419,6 +483,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 353989,
+      "num": 353989,
+      "word": "i人喜欢独处的真实原因",
+      "onboard_time": 1690164692,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 352918,
       "num": 352918,
       "word": "米芒再次被家暴",
@@ -427,20 +499,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336224,
-      "num": 305262,
-      "word": "躺着真舒服",
-      "onboard_time": 1690165772,
-      "rank": 36,
-      "category": "音乐,情感"
-    },
-    {
       "raw_hot": 331558,
       "num": 331558,
       "word": "XXS码实习警犬劲头十足",
       "onboard_time": 1690155327,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324851,
+      "num": 324851,
+      "word": "Angelababy新剧切黑了",
+      "onboard_time": 1690165592,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 324469,
@@ -483,22 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304195,
-      "num": 304195,
-      "word": "五月天泉州",
-      "onboard_time": 1690164992,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 302776,
-      "num": 302776,
-      "word": "Angelababy新剧切黑了",
-      "onboard_time": 1690165592,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 293371,
       "num": 293371,
       "word": "于适开拍前才知道自己演姬发",
@@ -528,6 +584,14 @@
       "word": "确定是孟宴臣在自拍",
       "onboard_time": 1690158332,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286103,
+      "num": 286103,
+      "word": "风月变",
+      "onboard_time": 1690168114,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -593,6 +657,14 @@
       "onboard_time": 1690159293,
       "rank": 32,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 256216,
+      "num": 256216,
+      "word": "新疆是碳水爱好者的天堂吧",
+      "onboard_time": 1690168051,
+      "rank": 34,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 254683,
@@ -667,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220894,
+      "num": 220894,
+      "word": "杨洋演的于途vs宋焰",
+      "onboard_time": 1690168472,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219553,
       "num": 219553,
       "word": "张远自曝大学初恋",
@@ -691,6 +771,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 209974,
+      "num": 209974,
+      "word": "你每天能睡够7小时吗",
+      "onboard_time": 1690168595,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 206480,
       "num": 189748,
       "word": "李莎旻子乘风后主持首秀",
@@ -713,6 +801,14 @@
       "onboard_time": 1690106731,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203972,
+      "num": 209950,
+      "word": "温州一企业研发出不沾奶酸奶盖",
+      "onboard_time": 1690167691,
+      "rank": 39,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 201952,
@@ -763,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191847,
+      "num": 209876,
+      "word": "齐齐哈尔34中体育馆坍塌11人死亡",
+      "onboard_time": 1690168595,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190028,
       "num": 190028,
       "word": "为什么打针前要推掉一点药水",
@@ -785,14 +889,6 @@
       "onboard_time": 1690127852,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187228,
-      "num": 195271,
-      "word": "i人喜欢独处的真实原因",
-      "onboard_time": 1690164692,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 186053,
@@ -819,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174591,
+      "num": 209820,
+      "word": "热烈海报满满都是爱",
+      "onboard_time": 1690167392,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173143,
       "num": 173143,
       "word": "芭比海滩戏变成现实",
@@ -836,7 +940,7 @@
     },
     {
       "raw_hot": 171771,
-      "num": 171771,
+      "num": 209531,
       "word": "莲花楼",
       "onboard_time": 1690156288,
       "rank": 48,
@@ -977,6 +1081,14 @@
       "onboard_time": 1690106612,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 98369,
+      "num": 1656470,
+      "word": "成都大运会青春含量拉满",
+      "onboard_time": 1690167272,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96122,
