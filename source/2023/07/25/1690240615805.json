@@ -1,0 +1,410 @@
+{
+  "runTime": 1690240615805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 513596,
+        "num": 513596,
+        "word": "父亲回应3岁女儿坐高铁10小时不哭闹",
+        "onboard_time": 1690208865,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446047,
+        "num": 446047,
+        "word": "张晚意演技",
+        "onboard_time": 1690212935,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22745,
+        "num": 390914,
+        "word": "空军航空开放活动预演现场",
+        "onboard_time": 1690197334,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644651,
+        "num": 388414,
+        "word": "不该对齐齐哈尔事故保持沉默",
+        "onboard_time": 1690225273,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383955,
+        "num": 383955,
+        "word": "肖千喜退出娱乐圈",
+        "onboard_time": 1690212040,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1093819,
+        "num": 382642,
+        "word": "冯提莫 女孩子们一定不要精神内耗",
+        "onboard_time": 1690211440,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1012372,
+        "num": 373308,
+        "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
+        "onboard_time": 1690210423,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408828,
+        "num": 362577,
+        "word": "齐市坍塌事故1位遇难者是外校生",
+        "onboard_time": 1690209408,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292790,
+        "num": 292790,
+        "word": "长相思好好看",
+        "onboard_time": 1690213417,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241877,
+        "num": 291452,
+        "word": "辅警发现见义勇为少年是自己儿子",
+        "onboard_time": 1690211980,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185362,
+        "num": 289508,
+        "word": "日本第一批不婚的人开始后悔了",
+        "onboard_time": 1690201291,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335972,
+        "num": 288937,
+        "word": "大牙回应陈建州范玮琪撤诉",
+        "onboard_time": 1690204533,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319561,
+        "num": 287514,
+        "word": "沈月 同性之间就一定是纯友谊吗",
+        "onboard_time": 1690204415,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285856,
+        "num": 285856,
+        "word": "十年之约为什么不在重庆办",
+        "onboard_time": 1690208139,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278494,
+        "num": 278494,
+        "word": "瑞幸咖啡三分之二是冰块两口喝完",
+        "onboard_time": 1690239982,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 272589,
+        "num": 272589,
+        "word": "齐齐哈尔市市长沉痛哀悼",
+        "onboard_time": 1690209590,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269638,
+        "num": 269638,
+        "word": "大叔房本丢失一气之下徒手攀爬25楼",
+        "onboard_time": 1690213356,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244434,
+        "num": 244434,
+        "word": "90后女孩被高空抛砖砸中离世后续",
+        "onboard_time": 1690214794,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220211,
+        "num": 220211,
+        "word": "费翔没想到自己60岁开始要脱衣服",
+        "onboard_time": 1690202614,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219251,
+        "num": 219251,
+        "word": "沉香夫妇一个接生一个把脉",
+        "onboard_time": 1690200813,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221064,
+        "num": 217630,
+        "word": "女子体内大量瓜子状活虫",
+        "onboard_time": 1690205076,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180005,
+        "num": 180005,
+        "word": "打工人最讨厌的那类小领导",
+        "onboard_time": 1690205858,
+        "rank": 21,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 178674,
+        "num": 178674,
+        "word": "长相思男主是谁",
+        "onboard_time": 1690200453,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161560,
+        "num": 161560,
+        "word": "黑龙江省政府已成立联合调查组",
+        "onboard_time": 1690211503,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163645,
+        "num": 160643,
+        "word": "长相思",
+        "onboard_time": 1690240584,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159673,
+        "num": 159673,
+        "word": "男子抓胸猥亵女生反咬称自己被乱摸",
+        "onboard_time": 1690199614,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148136,
+        "num": 148136,
+        "word": "女子称孕期被丈夫挤压肚子",
+        "onboard_time": 1690190796,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143659,
+        "num": 143659,
+        "word": "屏蔽力是最顶级的能力",
+        "onboard_time": 1690215153,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142232,
+        "num": 142232,
+        "word": "齐齐哈尔坍塌事故原因初步查明",
+        "onboard_time": 1690209826,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126448,
+        "num": 133269,
+        "word": "客服回应TFBOYS演唱会线上只能看三天",
+        "onboard_time": 1690212820,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142614,
+        "num": 132403,
+        "word": "女子不听建议见手青炒5分吃完头晕",
+        "onboard_time": 1690239982,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 130238,
+        "num": 130238,
+        "word": "涂山璟 官配",
+        "onboard_time": 1690202975,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129447,
+        "num": 129447,
+        "word": "体育馆顶部网架结构承重能力非常低",
+        "onboard_time": 1690235472,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121953,
+        "num": 121953,
+        "word": "时尚芭莎你真的不考虑一下孟家三口吗",
+        "onboard_time": 1690224435,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118010,
+        "num": 118010,
+        "word": "魏大勋微博背景图换成孟宴臣",
+        "onboard_time": 1690206997,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115350,
+        "num": 115350,
+        "word": "天后演唱会明日开票",
+        "onboard_time": 1690237997,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111364,
+        "num": 111364,
+        "word": "地库出口3岁男童不幸被撞身亡",
+        "onboard_time": 1690195832,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100417,
+        "num": 100417,
+        "word": "普通家庭的孩子该去看演唱会吗",
+        "onboard_time": 1690205254,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98841,
+        "num": 98841,
+        "word": "体育馆坍塌事故相关责任人被立案侦查",
+        "onboard_time": 1690211381,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93261,
+        "num": 93261,
+        "word": "齐齐哈尔召开体育馆坍塌事故发布会",
+        "onboard_time": 1690210005,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101969,
+        "num": 92821,
+        "word": "邓为演男狐狸精",
+        "onboard_time": 1690205497,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91504,
+        "num": 91504,
+        "word": "杨幂一天三套衣服",
+        "onboard_time": 1690213057,
+        "rank": 41,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 89892,
+        "num": 89892,
+        "word": "蓝鸟logo设计师分享设计线稿",
+        "onboard_time": 1690207834,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 80145,
+        "num": 80145,
+        "word": "换乘瓶邪",
+        "onboard_time": 1690222877,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78968,
+        "num": 78968,
+        "word": "齐齐哈尔体育馆坍塌事故施工监管何在",
+        "onboard_time": 1690197393,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78615,
+        "num": 78615,
+        "word": "EDG输了 Ale没输",
+        "onboard_time": 1690206398,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78008,
+        "num": 78008,
+        "word": "谢乔杨澄分手6年后再见",
+        "onboard_time": 1690200031,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77652,
+        "num": 77652,
+        "word": "吴宣仪 牙贴片已经取了",
+        "onboard_time": 1690188874,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74874,
+        "num": 77651,
+        "word": "EDG冒泡赛",
+        "onboard_time": 1690206459,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65572,
+        "num": 77597,
+        "word": "冯提莫发文报平安",
+        "onboard_time": 1690210845,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好下半年经济工作要坚持稳中求进#"
+    }
+  }
+}
