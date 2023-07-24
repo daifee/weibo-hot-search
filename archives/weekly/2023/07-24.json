@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690216645307,
+  "endTime": 1690218935666,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 436899,
-      "num": 257148,
+      "num": 329406,
       "word": "长相思好好看",
       "onboard_time": 1690213417,
       "rank": 25,
@@ -2227,6 +2227,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 207755,
+      "num": 207755,
+      "word": "屏蔽力是最顶级的能力",
+      "onboard_time": 1690215153,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 207080,
       "num": 207080,
       "word": "买演唱会门票一定要小心了",
@@ -2264,6 +2272,14 @@
       "word": "宋焰许沁婚房在高铁旁边",
       "onboard_time": 1690106731,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201846,
+      "num": 212908,
+      "word": "长相思小说",
+      "onboard_time": 1690214972,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -2411,14 +2427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187849,
-      "num": 187849,
-      "word": "屏蔽力是最顶级的能力",
-      "onboard_time": 1690215153,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 187628,
       "num": 187628,
       "word": "妖姬",
@@ -2536,6 +2544,14 @@
       "word": "莲花楼爱奇艺热度破7000",
       "onboard_time": 1690158995,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 166169,
+      "num": 166169,
+      "word": "安乐 那你要这么想我也没有办法",
+      "onboard_time": 1690216948,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -2760,6 +2776,14 @@
       "word": "白鲨挺进水立方再战AG",
       "onboard_time": 1690154666,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 84369,
+      "num": 101156,
+      "word": "Uzi和JKL再交手",
+      "onboard_time": 1690218203,
+      "rank": 48,
       "category": "游戏"
     },
     {

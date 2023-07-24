@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690216645307,
+  "endTime": 1690218935666,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 436899,
-      "num": 257148,
+      "num": 329406,
       "word": "长相思好好看",
       "onboard_time": 1690213417,
       "rank": 25,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207755,
+      "num": 207755,
+      "word": "屏蔽力是最顶级的能力",
+      "onboard_time": 1690215153,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 203512,
       "num": 203512,
       "word": "蓝鸟logo设计师分享设计线稿",
@@ -331,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187849,
-      "num": 187849,
-      "word": "屏蔽力是最顶级的能力",
-      "onboard_time": 1690215153,
-      "rank": 47,
-      "category": "幽默,情感"
+      "raw_hot": 201846,
+      "num": 212908,
+      "word": "长相思小说",
+      "onboard_time": 1690214972,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 185971,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166169,
+      "num": 166169,
+      "word": "安乐 那你要这么想我也没有办法",
+      "onboard_time": 1690216948,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165407,
       "num": 168471,
       "word": "莲花楼预告",
@@ -387,6 +403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 139924,
+      "num": 139924,
+      "word": "涂山璟 官配",
+      "onboard_time": 1690202975,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137870,
       "num": 168464,
       "word": "TES战胜EDG",
@@ -401,6 +425,22 @@
       "onboard_time": 1690190913,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89685,
+      "num": 101225,
+      "word": "谢乔杨澄分手6年后再见",
+      "onboard_time": 1690200031,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 84369,
+      "num": 101156,
+      "word": "Uzi和JKL再交手",
+      "onboard_time": 1690218203,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 30206,
