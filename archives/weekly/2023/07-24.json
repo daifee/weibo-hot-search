@@ -1,7 +1,15 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690176827742,
+  "endTime": 1690179788022,
   "band_list": [
+    {
+      "raw_hot": 10945238,
+      "num": 10945238,
+      "word": "TFBOYS抢票",
+      "onboard_time": 1690174959,
+      "rank": 16,
+      "category": "音乐"
+    },
     {
       "raw_hot": 3377134,
       "num": 3377134,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1661462,
+      "num": 1661462,
+      "word": "大麦",
+      "onboard_time": 1690178804,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1535697,
       "num": 1535697,
       "word": "8小时睡眠论",
@@ -113,6 +129,14 @@
       "onboard_time": 1690168472,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1429388,
+      "num": 1429388,
+      "word": "谁抢到了",
+      "onboard_time": 1690178864,
+      "rank": 5,
+      "category": "音乐,科技"
     },
     {
       "raw_hot": 1367657,
@@ -169,14 +193,6 @@
       "onboard_time": 1690163070,
       "rank": 38,
       "category": "社会新闻,动漫"
-    },
-    {
-      "raw_hot": 1095686,
-      "num": 995042,
-      "word": "TFBOYS抢票",
-      "onboard_time": 1690174959,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 1092662,
@@ -241,6 +257,14 @@
       "onboard_time": 1690173763,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 876008,
+      "num": 651545,
+      "word": "网友找到了杨洋花少丢失点",
+      "onboard_time": 1690178316,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 873947,
@@ -555,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459193,
+      "num": 313310,
+      "word": "1只大熊猫被10只一级重点保护动物围观",
+      "onboard_time": 1690178685,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 449819,
       "num": 449819,
       "word": "结婚的好处是什么",
@@ -569,6 +601,30 @@
       "onboard_time": 1690174959,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441503,
+      "num": 408687,
+      "word": "长相思播三停四",
+      "onboard_time": 1690175858,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 437339,
+      "num": 401418,
+      "word": "肖战龚俊成毅任嘉伦杨洋都有剧在播",
+      "onboard_time": 1690176217,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 434853,
+      "num": 434853,
+      "word": "比亚迪起诉汽车博主索赔500万",
+      "onboard_time": 1690176700,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430747,
@@ -611,12 +667,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 408687,
-      "num": 408687,
-      "word": "长相思播三停四",
-      "onboard_time": 1690175858,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 410474,
+      "num": 377996,
+      "word": "抢票好紧张",
+      "onboard_time": 1690179107,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 406319,
@@ -659,20 +715,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385465,
+      "num": 385465,
+      "word": "乐队演出当众脱裤子被指低俗",
+      "onboard_time": 1690178018,
+      "rank": 23,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 377701,
       "num": 377701,
       "word": "魏大勋韩网想弄哭第一名",
       "onboard_time": 1690102053,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 373207,
-      "num": 373207,
-      "word": "肖战龚俊成毅任嘉伦杨洋都有剧在播",
-      "onboard_time": 1690176217,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 360336,
@@ -827,6 +883,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 306901,
+      "num": 379068,
+      "word": "李凯尔宣布将出战世界杯",
+      "onboard_time": 1690178503,
+      "rank": 24,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 297456,
       "num": 297456,
       "word": "杨澄王莹意难平",
@@ -883,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284920,
+      "num": 284920,
+      "word": "TFBOYS十周年演唱会线上开票了",
+      "onboard_time": 1690179704,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284877,
       "num": 246315,
       "word": "刘耀文太敢说了",
@@ -913,6 +985,14 @@
       "onboard_time": 1690173279,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277065,
+      "num": 277065,
+      "word": "沈月说现在分享vlog也有压力",
+      "onboard_time": 1690177596,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 276765,
@@ -979,19 +1059,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250101,
+      "num": 250101,
+      "word": "长相思",
+      "onboard_time": 1690109973,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248119,
       "num": 248119,
       "word": "原来有种病叫经济舱综合征",
       "onboard_time": 1690113211,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244136,
-      "num": 257208,
-      "word": "比亚迪起诉汽车博主索赔500万",
-      "onboard_time": 1690176700,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212691,
+      "num": 212691,
+      "word": "一定要小心拖鞋的背刺",
+      "onboard_time": 1690178987,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210386,
       "num": 263922,
       "word": "体育馆楼顶坍塌的中学刚获省女排亚军",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1690106731,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203977,
+      "num": 203977,
+      "word": "大麦崩了",
+      "onboard_time": 1690179639,
+      "rank": 45,
+      "category": "音乐,科技"
     },
     {
       "raw_hot": 196352,
@@ -1219,12 +1315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184312,
+      "num": 201051,
+      "word": "闪耀暖暖四周年",
+      "onboard_time": 1690178804,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184292,
       "num": 184292,
       "word": "张晚意长相思状态",
       "onboard_time": 1690129589,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178684,
+      "num": 201046,
+      "word": "兵哥哥这一跳真帅",
+      "onboard_time": 1690178744,
+      "rank": 48,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 178018,
@@ -1241,6 +1353,14 @@
       "onboard_time": 1690156288,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176816,
+      "num": 201046,
+      "word": "胡锡进齐齐哈尔坍塌是严重责任事故",
+      "onboard_time": 1690179639,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174591,
@@ -1304,14 +1424,6 @@
       "word": "王宝钏被许沁挤第二",
       "onboard_time": 1690152858,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 154999,
-      "num": 154999,
-      "word": "长相思",
-      "onboard_time": 1690109973,
-      "rank": 43,
       "category": "影视"
     },
     {
