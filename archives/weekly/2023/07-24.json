@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690184028087,
+  "endTime": 1690186932480,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -72,6 +72,14 @@
       "word": "陈哲远正式确诊为邪剑仙",
       "onboard_time": 1690174419,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1836674,
+      "num": 1836674,
+      "word": "王宝强女儿八角笼中观后感",
+      "onboard_time": 1690182816,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -147,6 +155,14 @@
       "category": "音乐,科技"
     },
     {
+      "raw_hot": 1384587,
+      "num": 1384587,
+      "word": "强实名",
+      "onboard_time": 1690182156,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1367657,
       "num": 1367657,
       "word": "网曝大爷大妈跑到水库放生矿泉水",
@@ -193,14 +209,6 @@
       "onboard_time": 1690123838,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1210920,
-      "num": 1210920,
-      "word": "王宝强女儿八角笼中观后感",
-      "onboard_time": 1690182816,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 1125319,
@@ -257,6 +265,14 @@
       "onboard_time": 1690181976,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 975000,
+      "num": 975000,
+      "word": "齐市坍塌事故施工方中标多个学校项目",
+      "onboard_time": 1690183421,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 966247,
@@ -339,14 +355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 764756,
-      "num": 656298,
-      "word": "强实名",
-      "onboard_time": 1690182156,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 763977,
       "num": 469608,
       "word": "王俊凯瘦了太多",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742890,
+      "num": 308502,
+      "word": "原来月休4天不是单休",
+      "onboard_time": 1690185696,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 729569,
       "num": 729569,
       "word": "8岁女童被两男孩用弹弓射伤致左眼失明",
@@ -419,12 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 688196,
-      "num": 688196,
-      "word": "齐市坍塌事故施工方中标多个学校项目",
-      "onboard_time": 1690183421,
-      "rank": 8,
-      "category": "社会新闻,教育"
+      "raw_hot": 701275,
+      "num": 701275,
+      "word": "前任结婚面馆老板闭店前去劫婚",
+      "onboard_time": 1690183896,
+      "rank": 38,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 679491,
@@ -595,6 +611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542523,
+      "num": 542523,
+      "word": "相柳承认喜欢小夭",
+      "onboard_time": 1690184136,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 531587,
+      "num": 495488,
+      "word": "乐队演出当众脱裤子被指低俗",
+      "onboard_time": 1690178018,
+      "rank": 23,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 530303,
       "num": 530303,
       "word": "余华真的太会比喻了",
@@ -611,12 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 495488,
-      "num": 495488,
-      "word": "乐队演出当众脱裤子被指低俗",
-      "onboard_time": 1690178018,
-      "rank": 23,
-      "category": "社会新闻,音乐"
+      "raw_hot": 511117,
+      "num": 390110,
+      "word": "上海一女子偷奢侈品后发朋友圈炫耀",
+      "onboard_time": 1690183115,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509757,
+      "num": 509757,
+      "word": "齐齐哈尔坍塌事故学生家长发声",
+      "onboard_time": 1690184796,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481893,
@@ -673,14 +713,6 @@
       "onboard_time": 1690128212,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 451522,
-      "num": 390110,
-      "word": "上海一女子偷奢侈品后发朋友圈炫耀",
-      "onboard_time": 1690183115,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 449819,
@@ -761,6 +793,14 @@
       "onboard_time": 1690124317,
       "rank": 13,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 417643,
+      "num": 417643,
+      "word": "3D还原齐齐哈尔体育馆坍塌过程",
+      "onboard_time": 1690184735,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413308,
@@ -921,6 +961,14 @@
       "onboard_time": 1690174598,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327794,
+      "num": 294906,
+      "word": "赵丽颖饱满的一周从嗦粉开始",
+      "onboard_time": 1690185755,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 326054,
@@ -1171,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252925,
+      "num": 252925,
+      "word": "男孩看到妈妈剖腹产疤痕心疼说原谅我",
+      "onboard_time": 1690185816,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250871,
       "num": 227010,
       "word": "罗刹海市 那英",
@@ -1283,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225719,
+      "num": 225719,
+      "word": "王鹤棣没少看甄嬛传吧",
+      "onboard_time": 1690185515,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225501,
       "num": 225501,
       "word": "真的看到了沙漠下暴雨",
@@ -1297,14 +1361,6 @@
       "onboard_time": 1690121501,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215735,
-      "num": 215735,
-      "word": "前任结婚面馆老板闭店前去劫婚",
-      "onboard_time": 1690183896,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 215223,
@@ -1395,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201177,
+      "num": 201177,
+      "word": "院长赴川为敬礼娃娃送北大通知书",
+      "onboard_time": 1690184017,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 196352,
       "num": 196352,
       "word": "内娱爆火时间最长的组合",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1690157732,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190695,
+      "num": 190695,
+      "word": "感觉这几年的KTV都白去了",
+      "onboard_time": 1690184557,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 190028,
@@ -1481,6 +1553,14 @@
       "onboard_time": 1690129589,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181324,
+      "num": 181324,
+      "word": "市民冒雨前往34中门口献花哀悼",
+      "onboard_time": 1690186713,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178684,
@@ -1555,14 +1635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162526,
-      "num": 162526,
-      "word": "院长赴川为敬礼娃娃送北大通知书",
-      "onboard_time": 1690184017,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 160705,
       "num": 164441,
       "word": "英国歌手在马来西亚亲吻男性遭禁演",
@@ -1601,6 +1673,14 @@
       "onboard_time": 1690154182,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150842,
+      "num": 150842,
+      "word": "森村诚一去世",
+      "onboard_time": 1690186897,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137922,
