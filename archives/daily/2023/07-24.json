@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690190275596,
+  "endTime": 1690191259670,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -27,7 +27,7 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 2319647,
+      "raw_hot": 2688840,
       "num": 515115,
       "word": "吴宣仪 牙贴片已经取了",
       "onboard_time": 1690188874,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546372,
+      "num": 286941,
+      "word": "许沁婚礼伴手礼",
+      "onboard_time": 1690190135,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542523,
       "num": 542523,
       "word": "相柳承认喜欢小夭",
@@ -665,6 +673,14 @@
       "onboard_time": 1690128270,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 521499,
+      "num": 521499,
+      "word": "封神中弑父情节",
+      "onboard_time": 1690189176,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 514585,
@@ -739,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464020,
-      "num": 464020,
-      "word": "封神中弑父情节",
-      "onboard_time": 1690189176,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 455233,
       "num": 455233,
       "word": "森村诚一去世",
@@ -779,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440770,
+      "num": 440770,
+      "word": "马立奥爸妈10天见4次面后闪婚",
+      "onboard_time": 1690188334,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440107,
       "num": 440107,
       "word": "基金估值",
@@ -793,6 +809,14 @@
       "onboard_time": 1690176217,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 437332,
+      "num": 267291,
+      "word": "女子称孕期被丈夫挤压肚子",
+      "onboard_time": 1690190796,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434853,
@@ -881,14 +905,6 @@
       "onboard_time": 1690158454,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396580,
-      "num": 396580,
-      "word": "马立奥爸妈10天见4次面后闪婚",
-      "onboard_time": 1690188334,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 396013,
@@ -1139,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289125,
+      "num": 286151,
+      "word": "演唱会强实名后黄牛代抢生意火了",
+      "onboard_time": 1690188633,
+      "rank": 33,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 288858,
       "num": 288858,
       "word": "男子讨要17万债款不成反被卖到缅北",
@@ -1152,6 +1176,14 @@
       "word": "确定是孟宴臣在自拍",
       "onboard_time": 1690158332,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285932,
+      "num": 285932,
+      "word": "长相思",
+      "onboard_time": 1690109973,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1219,6 +1251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275750,
+      "num": 275750,
+      "word": "唐尚珺放弃本科第一批第二次征集志愿",
+      "onboard_time": 1690190016,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 274069,
+      "num": 274069,
+      "word": "李玟姐姐将直播李玟追思会",
+      "onboard_time": 1690190913,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271114,
       "num": 271114,
       "word": "娜然漂亮",
@@ -1227,8 +1275,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269902,
+      "num": 269902,
+      "word": "TES对战EDG",
+      "onboard_time": 1690189713,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268555,
-      "num": 250293,
+      "num": 257683,
       "word": "马立奥问魏晨的宝宝小不小",
       "onboard_time": 1690189775,
       "rank": 30,
@@ -1291,14 +1347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 252777,
-      "num": 252777,
-      "word": "长相思",
-      "onboard_time": 1690109973,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 250871,
       "num": 227010,
       "word": "罗刹海市 那英",
@@ -1331,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239140,
-      "num": 239140,
-      "word": "许沁婚礼伴手礼",
-      "onboard_time": 1690190135,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 238577,
       "num": 238577,
       "word": "影院贴男人视力表被指辱女",
@@ -1355,14 +1395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236527,
-      "num": 236527,
-      "word": "演唱会强实名后黄牛代抢生意火了",
-      "onboard_time": 1690188633,
-      "rank": 33,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 236352,
       "num": 236352,
       "word": "尘缘蓝焰",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1690131622,
       "rank": 17,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 228194,
-      "num": 228194,
-      "word": "TES对战EDG",
-      "onboard_time": 1690189713,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 227384,
@@ -1707,20 +1731,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160923,
+      "num": 207032,
+      "word": "我的北漂学弟不北漂了",
+      "onboard_time": 1690187616,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160705,
       "num": 164441,
       "word": "英国歌手在马来西亚亲吻男性遭禁演",
       "onboard_time": 1690117414,
       "rank": 41,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 160196,
-      "num": 160196,
-      "word": "我的北漂学弟不北漂了",
-      "onboard_time": 1690187616,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 158660,
@@ -1755,12 +1779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138812,
-      "num": 138812,
-      "word": "唐尚珺放弃本科第一批第二次征集志愿",
-      "onboard_time": 1690190016,
-      "rank": 46,
-      "category": "社会新闻,教育"
+      "raw_hot": 145459,
+      "num": 207020,
+      "word": "小朋友坐10个小时高铁不吵闹",
+      "onboard_time": 1690191093,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137922,
