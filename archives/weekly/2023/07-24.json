@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690209254467,
+  "endTime": 1690211901747,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -17,6 +17,14 @@
       "onboard_time": 1690207899,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 4421169,
+      "num": 4421169,
+      "word": "齐齐哈尔坍塌事故原因初步查明",
+      "onboard_time": 1690209826,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3377134,
@@ -121,6 +129,22 @@
       "onboard_time": 1690182816,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1762040,
+      "num": 1762040,
+      "word": "齐齐哈尔市市长沉痛哀悼",
+      "onboard_time": 1690209590,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1743292,
+      "num": 1743292,
+      "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
+      "onboard_time": 1690210423,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1739732,
@@ -371,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1067777,
+      "num": 1067777,
+      "word": "十年之约为什么不在重庆办",
+      "onboard_time": 1690208139,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1037644,
       "num": 1037644,
       "word": "为什么有些水果不甜却容易长胖",
@@ -515,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 868265,
+      "num": 868265,
+      "word": "冯提莫发文报平安",
+      "onboard_time": 1690210845,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 866342,
       "num": 352157,
       "word": "原来月休4天不是单休",
@@ -532,11 +572,19 @@
     },
     {
       "raw_hot": 825110,
-      "num": 463874,
+      "num": 467408,
       "word": "魏大勋微博背景图换成孟宴臣",
       "onboard_time": 1690206997,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 824556,
+      "num": 550156,
+      "word": "冯提莫 女孩子们一定不要精神内耗",
+      "onboard_time": 1690211440,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 811011,
@@ -643,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 718823,
+      "num": 718823,
+      "word": "父亲回应3岁女儿坐高铁10小时不哭闹",
+      "onboard_time": 1690208865,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714718,
       "num": 714718,
       "word": "3D还原齐齐哈尔体育馆坍塌过程",
@@ -673,14 +729,6 @@
       "onboard_time": 1690201593,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 692027,
-      "num": 692027,
-      "word": "十年之约为什么不在重庆办",
-      "onboard_time": 1690208139,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 679491,
@@ -899,6 +947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 574773,
+      "num": 543932,
+      "word": "黑龙江省政府已成立联合调查组",
+      "onboard_time": 1690211503,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574010,
       "num": 574010,
       "word": "罗云熙宋轶新剧大婚路透",
@@ -913,6 +969,14 @@
       "onboard_time": 1690165772,
       "rank": 36,
       "category": "音乐,情感"
+    },
+    {
+      "raw_hot": 569388,
+      "num": 569388,
+      "word": "打工人最讨厌的那类小领导",
+      "onboard_time": 1690205858,
+      "rank": 26,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 563717,
@@ -937,6 +1001,14 @@
       "onboard_time": 1690112314,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543458,
+      "num": 543458,
+      "word": "齐市坍塌事故1位遇难者是外校生",
+      "onboard_time": 1690209408,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542523,
@@ -1019,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 483686,
+      "num": 483686,
+      "word": "齐齐哈尔召开体育馆坍塌事故发布会",
+      "onboard_time": 1690210005,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481893,
       "num": 481893,
       "word": "任安乐今晚掉马",
@@ -1065,14 +1145,6 @@
       "onboard_time": 1690107631,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 471368,
-      "num": 425990,
-      "word": "打工人最讨厌的那类小领导",
-      "onboard_time": 1690205858,
-      "rank": 26,
-      "category": "影视,情感"
     },
     {
       "raw_hot": 471101,
@@ -1153,6 +1225,14 @@
       "onboard_time": 1690175858,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 441503,
+      "num": 365732,
+      "word": "体育馆坍塌事故相关责任人被立案侦查",
+      "onboard_time": 1690211381,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440770,
@@ -1267,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396877,
+      "num": 396877,
+      "word": "北京下雨",
+      "onboard_time": 1690211262,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396762,
       "num": 396762,
       "word": "台风杜苏芮",
@@ -1289,14 +1377,6 @@
       "onboard_time": 1690185755,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 391820,
-      "num": 391820,
-      "word": "父亲回应3岁女儿坐高铁10小时不哭闹",
-      "onboard_time": 1690208865,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389371,
@@ -1369,6 +1449,14 @@
       "onboard_time": 1690182323,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 357984,
+      "num": 357984,
+      "word": "鞠婧祎直播",
+      "onboard_time": 1690210365,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 356133,
@@ -1449,6 +1537,14 @@
       "onboard_time": 1690207417,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 333312,
+      "num": 333312,
+      "word": "蓝鸟logo设计师分享设计线稿",
+      "onboard_time": 1690207834,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 333170,
@@ -1545,14 +1641,6 @@
       "onboard_time": 1690163669,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316260,
-      "num": 316260,
-      "word": "蓝鸟logo设计师分享设计线稿",
-      "onboard_time": 1690207834,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 315041,
@@ -1713,6 +1801,14 @@
       "onboard_time": 1690123000,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279267,
+      "num": 279267,
+      "word": "范丞丞王鹤棣情侣头像",
+      "onboard_time": 1690211203,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 279201,
@@ -2065,6 +2161,14 @@
       "onboard_time": 1690122221,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206459,
+      "num": 206459,
+      "word": "北京冰雹",
+      "onboard_time": 1690211802,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206422,
@@ -2587,8 +2691,8 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 36427,
-      "num": 1012622,
+      "raw_hot": 50647,
+      "num": 2768071,
       "word": "空军航空开放活动预演现场",
       "onboard_time": 1690197334,
       "rank": 2,
