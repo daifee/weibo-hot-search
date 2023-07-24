@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690179788022,
+  "endTime": 1690180580251,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 954433,
+      "num": 651545,
+      "word": "网友找到了杨洋花少丢失点",
+      "onboard_time": 1690178316,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 952565,
       "num": 952565,
       "word": "篮协官宣李凯尔获得中国国籍",
@@ -259,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 876008,
-      "num": 651545,
-      "word": "网友找到了杨洋花少丢失点",
-      "onboard_time": 1690178316,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 873947,
       "num": 873947,
       "word": "姬发 殷郊",
@@ -289,6 +289,14 @@
       "onboard_time": 1690157910,
       "rank": 3,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 780264,
+      "num": 517481,
+      "word": "TFBOYS十周年演唱会线上开票了",
+      "onboard_time": 1690179704,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 763977,
@@ -353,6 +361,14 @@
       "onboard_time": 1690160613,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 715727,
+      "num": 513292,
+      "word": "1只大熊猫被10只一级重点保护动物围观",
+      "onboard_time": 1690178685,
+      "rank": 30,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 706842,
@@ -467,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585654,
+      "num": 322494,
+      "word": "大麦崩了",
+      "onboard_time": 1690179639,
+      "rank": 45,
+      "category": "音乐,科技"
+    },
+    {
       "raw_hot": 583868,
       "num": 583868,
       "word": "长相思今日开播",
@@ -577,14 +601,6 @@
       "onboard_time": 1690128212,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 459193,
-      "num": 313310,
-      "word": "1只大熊猫被10只一级重点保护动物围观",
-      "onboard_time": 1690178685,
-      "rank": 30,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 449819,
@@ -731,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 374227,
+      "num": 306438,
+      "word": "400万人的抢票第一次参加",
+      "onboard_time": 1690180360,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 360336,
       "num": 360336,
       "word": "如果你6年前出生那你今年几岁",
@@ -843,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322659,
+      "num": 379068,
+      "word": "李凯尔宣布将出战世界杯",
+      "onboard_time": 1690178503,
+      "rank": 24,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 322633,
       "num": 322633,
       "word": "陈都灵猫咪立大功",
@@ -881,14 +913,6 @@
       "onboard_time": 1690168051,
       "rank": 34,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 306901,
-      "num": 379068,
-      "word": "李凯尔宣布将出战世界杯",
-      "onboard_time": 1690178503,
-      "rank": 24,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 297456,
@@ -945,14 +969,6 @@
       "onboard_time": 1690163491,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284920,
-      "num": 284920,
-      "word": "TFBOYS十周年演唱会线上开票了",
-      "onboard_time": 1690179704,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 284877,
@@ -1139,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225999,
+      "num": 225999,
+      "word": "胡锡进齐齐哈尔坍塌是严重责任事故",
+      "onboard_time": 1690179639,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225785,
       "num": 225785,
       "word": "热烈",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1690169137,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220329,
+      "num": 220329,
+      "word": "当我用对待女朋友的方式对待我妈",
+      "onboard_time": 1690179879,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 219553,
@@ -1233,14 +1265,6 @@
       "onboard_time": 1690106731,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203977,
-      "num": 203977,
-      "word": "大麦崩了",
-      "onboard_time": 1690179639,
-      "rank": 45,
-      "category": "音乐,科技"
     },
     {
       "raw_hot": 196352,
@@ -1355,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176816,
-      "num": 201046,
-      "word": "胡锡进齐齐哈尔坍塌是严重责任事故",
-      "onboard_time": 1690179639,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174591,
       "num": 209820,
       "word": "热烈海报满满都是爱",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1690125937,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 167509,
+      "num": 173507,
+      "word": "基金估值",
+      "onboard_time": 1690180287,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 167190,
