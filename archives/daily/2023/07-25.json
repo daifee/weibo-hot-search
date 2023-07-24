@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690240615805,
+  "endTime": 1690241633393,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1513843,
+      "num": 1513843,
+      "word": "瑞幸咖啡三分之二是冰块两口喝完",
+      "onboard_time": 1690239982,
+      "rank": 14,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1497579,
       "num": 1221099,
       "word": "张晚意演技",
@@ -51,7 +59,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1093819,
+      "raw_hot": 1097288,
       "num": 1016482,
       "word": "冯提莫 女孩子们一定不要精神内耗",
       "onboard_time": 1690211440,
@@ -155,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 431652,
+      "num": 351860,
+      "word": "女子不听建议见手青炒5分吃完头晕",
+      "onboard_time": 1690239982,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 424966,
       "num": 424966,
       "word": "齐市坍塌事故1位遇难者是外校生",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 364976,
-      "num": 325891,
+      "num": 346886,
       "word": "大牙回应陈建州范玮琪撤诉",
       "onboard_time": 1690204533,
       "rank": 26,
@@ -211,11 +227,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297247,
+      "num": 159017,
+      "word": "伊能静科普三伏天适合瘦身",
+      "onboard_time": 1690240945,
+      "rank": 30,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 285750,
       "num": 248581,
       "word": "魏大勋微博背景图换成孟宴臣",
       "onboard_time": 1690206997,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281499,
+      "num": 227080,
+      "word": "长相思",
+      "onboard_time": 1690240584,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -227,19 +259,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 278494,
-      "num": 278494,
-      "word": "瑞幸咖啡三分之二是冰块两口喝完",
-      "onboard_time": 1690239982,
-      "rank": 14,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 261664,
       "num": 261664,
       "word": "北京冰雹",
       "onboard_time": 1690211802,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259388,
+      "num": 487476,
+      "word": "辅警发现见义勇为少年是自己儿子",
+      "onboard_time": 1690211980,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -283,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241877,
-      "num": 487476,
-      "word": "辅警发现见义勇为少年是自己儿子",
-      "onboard_time": 1690211980,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238614,
       "num": 227607,
       "word": "打工人最讨厌的那类小领导",
@@ -305,6 +329,22 @@
       "onboard_time": 1690190796,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228749,
+      "num": 226282,
+      "word": "甲状腺癌",
+      "onboard_time": 1690240945,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228262,
+      "num": 228262,
+      "word": "郑恺杜海涛用的什么防晒",
+      "onboard_time": 1690241068,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223146,
@@ -403,20 +443,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163645,
-      "num": 160643,
-      "word": "长相思",
-      "onboard_time": 1690240584,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154370,
       "num": 168487,
       "word": "中国孩子必会的填空题",
       "onboard_time": 1690207417,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153623,
+      "num": 153623,
+      "word": "涂山璟 官配",
+      "onboard_time": 1690202975,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 151749,
@@ -427,20 +467,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 142614,
-      "num": 132403,
-      "word": "女子不听建议见手青炒5分吃完头晕",
-      "onboard_time": 1690239982,
-      "rank": 30,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 139924,
-      "num": 139924,
-      "word": "涂山璟 官配",
-      "onboard_time": 1690202975,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 150697,
+      "num": 150697,
+      "word": "时尚芭莎你真的不考虑一下孟家三口吗",
+      "onboard_time": 1690224435,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 137870,
@@ -459,16 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121953,
-      "num": 121953,
-      "word": "时尚芭莎你真的不考虑一下孟家三口吗",
-      "onboard_time": 1690224435,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 115350,
-      "num": 115350,
+      "raw_hot": 127215,
+      "num": 127215,
       "word": "天后演唱会明日开票",
       "onboard_time": 1690237997,
       "rank": 49,
@@ -483,12 +507,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108190,
+      "num": 108190,
+      "word": "王鹤棣海边探戈",
+      "onboard_time": 1690241606,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 103692,
+      "num": 103692,
+      "word": "我就说傻子是不能养宠物的",
+      "onboard_time": 1690240827,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89685,
       "num": 101225,
       "word": "谢乔杨澄分手6年后再见",
       "onboard_time": 1690200031,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 87677,
+      "num": 87677,
+      "word": "为何地锅鸡里鸡脖这么多",
+      "onboard_time": 1690240827,
+      "rank": 49,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 84369,
