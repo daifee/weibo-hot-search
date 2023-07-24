@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690162462106,
+  "endTime": 1690163447963,
   "band_list": [
     {
       "raw_hot": 2079391,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1736496,
+      "raw_hot": 1739732,
       "num": 639195,
       "word": "上海厕所一个奇怪的标志",
       "onboard_time": 1690158332,
@@ -51,20 +51,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1037644,
+      "num": 1037644,
+      "word": "为什么有些水果不甜却容易长胖",
+      "onboard_time": 1690158393,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 966247,
       "num": 474198,
       "word": "田曦薇项链是戚薇送的",
       "onboard_time": 1690153882,
       "rank": 41,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 964855,
-      "num": 964855,
-      "word": "为什么有些水果不甜却容易长胖",
-      "onboard_time": 1690158393,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 934893,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 811011,
+      "num": 811011,
+      "word": "被网友吃菌子中毒后的描述笑死",
+      "onboard_time": 1690157910,
+      "rank": 3,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 763977,
       "num": 469608,
       "word": "王俊凯瘦了太多",
@@ -91,12 +99,12 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 754725,
-      "num": 754725,
-      "word": "被网友吃菌子中毒后的描述笑死",
-      "onboard_time": 1690157910,
-      "rank": 3,
-      "category": "幽默,美食"
+      "raw_hot": 756923,
+      "num": 357882,
+      "word": "男子不慎抠下派出所石狮子嘴里石球",
+      "onboard_time": 1690161811,
+      "rank": 21,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 746050,
@@ -115,8 +123,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741276,
+      "num": 741276,
+      "word": "TFBOYS西安演唱会今天开票",
+      "onboard_time": 1690162291,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 727758,
-      "num": 331201,
+      "num": 356515,
       "word": "科目二考试还没开始就挂科了",
       "onboard_time": 1690160613,
       "rank": 20,
@@ -203,20 +219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544191,
+      "num": 544191,
+      "word": "推特标志将被改为X",
+      "onboard_time": 1690158574,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 530303,
       "num": 530303,
       "word": "余华真的太会比喻了",
       "onboard_time": 1690128270,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 481038,
-      "num": 329331,
-      "word": "男子不慎抠下派出所石狮子嘴里石球",
-      "onboard_time": 1690161811,
-      "rank": 21,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 477327,
@@ -243,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471263,
-      "num": 471263,
-      "word": "推特标志将被改为X",
-      "onboard_time": 1690158574,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 471101,
       "num": 471101,
       "word": "珍珠岩",
@@ -264,6 +272,14 @@
       "word": "肖千喜你糊涂啊",
       "onboard_time": 1690128212,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 441319,
+      "num": 441319,
+      "word": "长相思今日开播",
+      "onboard_time": 1690162891,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -323,12 +339,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 357142,
-      "num": 268221,
+      "raw_hot": 360336,
+      "num": 360336,
       "word": "如果你6年前出生那你今年几岁",
       "onboard_time": 1690160192,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 352918,
+      "num": 352918,
+      "word": "米芒再次被家暴",
+      "onboard_time": 1690162530,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 331558,
@@ -347,20 +371,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 323947,
+      "num": 323947,
+      "word": "TF三代8月份还有一场演出",
+      "onboard_time": 1690160552,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 322633,
       "num": 322633,
       "word": "陈都灵猫咪立大功",
       "onboard_time": 1690119758,
       "rank": 17,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 294380,
-      "num": 294380,
-      "word": "TF三代8月份还有一场演出",
-      "onboard_time": 1690160552,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 293371,
@@ -371,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292313,
+      "num": 292313,
+      "word": "江疏影素颜好白",
+      "onboard_time": 1690162651,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288858,
       "num": 288858,
       "word": "男子讨要17万债款不成反被卖到缅北",
       "onboard_time": 1690119758,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288609,
+      "num": 288609,
+      "word": "确定是孟宴臣在自拍",
+      "onboard_time": 1690158332,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 284877,
@@ -392,14 +432,6 @@
       "word": "龚俊刘宇宁你俩挤到迪丽热巴了",
       "onboard_time": 1690123000,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 280297,
-      "num": 280297,
-      "word": "确定是孟宴臣在自拍",
-      "onboard_time": 1690158332,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -475,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242535,
-      "num": 242535,
-      "word": "TFBOYS西安演唱会今天开票",
-      "onboard_time": 1690162291,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 236352,
       "num": 236352,
       "word": "尘缘蓝焰",
@@ -507,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227345,
+      "num": 227345,
+      "word": "安乐传在玩一种很新的公主抱",
+      "onboard_time": 1690162350,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226931,
       "num": 226931,
       "word": "成毅原声台词",
@@ -515,12 +547,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226353,
+      "num": 226353,
+      "word": "TFBOYS演唱会超300万人想看",
+      "onboard_time": 1690163190,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219553,
       "num": 219553,
       "word": "张远自曝大学初恋",
       "onboard_time": 1690121501,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217451,
+      "num": 217451,
+      "word": "女孩穿cos服参加漫展遭老人谩骂",
+      "onboard_time": 1690163070,
+      "rank": 38,
+      "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 214348,
+      "num": 214348,
+      "word": "成都大运会开幕式",
+      "onboard_time": 1690162952,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 210386,
@@ -627,12 +683,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184585,
-      "num": 184585,
-      "word": "安乐传在玩一种很新的公主抱",
-      "onboard_time": 1690162350,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 186053,
+      "num": 186053,
+      "word": "到哪里都逃不过斗地主",
+      "onboard_time": 1690162771,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 184292,
@@ -673,6 +729,14 @@
       "onboard_time": 1690125937,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 167190,
+      "num": 167190,
+      "word": "莲花楼爱奇艺热度破7000",
+      "onboard_time": 1690158995,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 163145,
@@ -820,7 +884,7 @@
     },
     {
       "raw_hot": 31492,
-      "num": 803170,
+      "num": 846330,
       "word": "这个夏天共赴青春盛会",
       "onboard_time": 1690116093,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690163447963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1666687,
+        "num": 1666687,
+        "word": "齐齐哈尔坍塌体育馆已致10人死亡",
+        "onboard_time": 1690159054,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037644,
+        "num": 1037644,
+        "word": "为什么有些水果不甜却容易长胖",
+        "onboard_time": 1690158393,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27333,
+        "num": 846330,
+        "word": "这个夏天共赴青春盛会",
+        "onboard_time": 1690116093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811011,
+        "num": 811011,
+        "word": "被网友吃菌子中毒后的描述笑死",
+        "onboard_time": 1690157910,
+        "rank": 3,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 741276,
+        "num": 741276,
+        "word": "TFBOYS西安演唱会今天开票",
+        "onboard_time": 1690162291,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 591586,
+        "num": 591586,
+        "word": "孟宴臣的皇冠vs宋焰的钻戒",
+        "onboard_time": 1690156167,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551113,
+        "num": 551113,
+        "word": "莲花楼首播反响",
+        "onboard_time": 1690133122,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544191,
+        "num": 544191,
+        "word": "推特标志将被改为X",
+        "onboard_time": 1690158574,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 543573,
+        "num": 543573,
+        "word": "杨玏封神白月光",
+        "onboard_time": 1690154845,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441319,
+        "num": 441319,
+        "word": "长相思今日开播",
+        "onboard_time": 1690162891,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1739732,
+        "num": 440878,
+        "word": "上海厕所一个奇怪的标志",
+        "onboard_time": 1690158332,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1232438,
+        "num": 439937,
+        "word": "齐齐哈尔坍塌事故发现被埋女排教练",
+        "onboard_time": 1690123838,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875231,
+        "num": 439625,
+        "word": "田曦薇项链是戚薇送的",
+        "onboard_time": 1690153882,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 549611,
+        "num": 438761,
+        "word": "魏大勋是经得起考古的",
+        "onboard_time": 1690156829,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438488,
+        "num": 438488,
+        "word": "一辈子很短但周一很长",
+        "onboard_time": 1690155927,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396085,
+        "num": 396085,
+        "word": "向往的生活莲花楼版",
+        "onboard_time": 1690159054,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394537,
+        "num": 394537,
+        "word": "台风杜苏芮",
+        "onboard_time": 1690158454,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367000,
+        "num": 367000,
+        "word": "坍塌体育馆毗邻楼施工单位责任人被控制",
+        "onboard_time": 1690156408,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363840,
+        "num": 363840,
+        "word": "珍珠岩",
+        "onboard_time": 1690157672,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360336,
+        "num": 360336,
+        "word": "如果你6年前出生那你今年几岁",
+        "onboard_time": 1690160192,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 756923,
+        "num": 357882,
+        "word": "男子不慎抠下派出所石狮子嘴里石球",
+        "onboard_time": 1690161811,
+        "rank": 20,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 481856,
+        "num": 356515,
+        "word": "科目二考试还没开始就挂科了",
+        "onboard_time": 1690160613,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352918,
+        "num": 352918,
+        "word": "米芒再次被家暴",
+        "onboard_time": 1690162530,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323947,
+        "num": 323947,
+        "word": "TF三代8月份还有一场演出",
+        "onboard_time": 1690160552,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321266,
+        "num": 321266,
+        "word": "孟宴臣脖子上的吻痕",
+        "onboard_time": 1690119577,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292313,
+        "num": 292313,
+        "word": "江疏影素颜好白",
+        "onboard_time": 1690162651,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288609,
+        "num": 288609,
+        "word": "确定是孟宴臣在自拍",
+        "onboard_time": 1690158332,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267492,
+        "num": 267492,
+        "word": "消防员赶到现场只看到一双小脚丫",
+        "onboard_time": 1690128754,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260246,
+        "num": 260246,
+        "word": "XXS码实习警犬劲头十足",
+        "onboard_time": 1690155327,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248037,
+        "num": 248037,
+        "word": "齐齐哈尔体育馆坍塌事故已致9人死亡",
+        "onboard_time": 1690154724,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241171,
+        "num": 241171,
+        "word": "女子坐地铁被安检告知榴莲有5房肉",
+        "onboard_time": 1690124856,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238192,
+        "num": 238192,
+        "word": "假如许沁的姐姐是许半夏",
+        "onboard_time": 1690155206,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235566,
+        "num": 235566,
+        "word": "娜然漂亮",
+        "onboard_time": 1690155507,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232624,
+        "num": 232624,
+        "word": "仅3周接诊5名下腰瘫痪孩子",
+        "onboard_time": 1690116453,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235113,
+        "num": 232336,
+        "word": "于适开拍前才知道自己演姬发",
+        "onboard_time": 1690160731,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227345,
+        "num": 227345,
+        "word": "安乐传在玩一种很新的公主抱",
+        "onboard_time": 1690162350,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226353,
+        "num": 226353,
+        "word": "TFBOYS演唱会超300万人想看",
+        "onboard_time": 1690163190,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224682,
+        "num": 224682,
+        "word": "定制手机壳千万不要发表情包",
+        "onboard_time": 1690157431,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217451,
+        "num": 217451,
+        "word": "女孩穿cos服参加漫展遭老人谩骂",
+        "onboard_time": 1690163070,
+        "rank": 38,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 214348,
+        "num": 214348,
+        "word": "成都大运会开幕式",
+        "onboard_time": 1690162952,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 212540,
+        "num": 212540,
+        "word": "网友在LV花近万元买错码不换被驱逐",
+        "onboard_time": 1690122163,
+        "rank": 40,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 195372,
+        "num": 195372,
+        "word": "男子讨要17万债款不成反被卖到缅北",
+        "onboard_time": 1690119758,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192257,
+        "num": 192257,
+        "word": "薛之谦演唱会大屏上的孙怡吴优",
+        "onboard_time": 1690159293,
+        "rank": 42,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 186053,
+        "num": 186053,
+        "word": "到哪里都逃不过斗地主",
+        "onboard_time": 1690162771,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181839,
+        "num": 181839,
+        "word": "没想到狗狗坐车居然也会晕车",
+        "onboard_time": 1690161390,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171044,
+        "num": 171044,
+        "word": "高文明考试被疑作弊",
+        "onboard_time": 1690157551,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168381,
+        "num": 168381,
+        "word": "王俊凯瘦了太多",
+        "onboard_time": 1690115133,
+        "rank": 46,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 167190,
+        "num": 167190,
+        "word": "莲花楼爱奇艺热度破7000",
+        "onboard_time": 1690158995,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162393,
+        "num": 162393,
+        "word": "张元英被陌生人接触后的反应",
+        "onboard_time": 1690122876,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159112,
+        "num": 159112,
+        "word": "莲花楼",
+        "onboard_time": 1690156288,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造经济发展新动能#"
+    }
+  }
+}
