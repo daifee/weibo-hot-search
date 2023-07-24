@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690236980314,
+  "endTime": 1690238029854,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249094,
+      "num": 249094,
+      "word": "不该对齐齐哈尔事故保持沉默",
+      "onboard_time": 1690225273,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245515,
       "num": 245515,
       "word": "齐齐哈尔召开体育馆坍塌事故发布会",
@@ -411,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138602,
-      "num": 138602,
-      "word": "不该对齐齐哈尔事故保持沉默",
-      "onboard_time": 1690225273,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137870,
       "num": 168464,
       "word": "TES战胜EDG",
@@ -451,8 +451,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79831,
-      "num": 79831,
+      "raw_hot": 80258,
+      "num": 80258,
       "word": "时尚芭莎你真的不考虑一下孟家三口吗",
       "onboard_time": 1690224435,
       "rank": 27,
@@ -472,6 +472,14 @@
       "word": "体育馆坍塌事故涉及双重违规",
       "onboard_time": 1690220299,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54325,
+      "num": 54325,
+      "word": "体育馆顶部网架结构承重能力非常低",
+      "onboard_time": 1690235472,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -499,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26157,
-      "num": 35462,
-      "word": "体育馆顶部网架结构承重能力非常低",
-      "onboard_time": 1690235472,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 23705,
+      "num": 47072,
+      "word": "天后演唱会明日开票",
+      "onboard_time": 1690237997,
+      "rank": 49,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
