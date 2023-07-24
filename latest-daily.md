@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/25 00:22:28 ~ 2023/07/25 04:17:10
+本榜单时间：2023/07/25 00:22:28 ~ 2023/07/25 04:34:08
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ Rookie妖姬超神（热度：36758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%AF%A5%E5%AF%B9%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BA%8B%E6%95%85%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98%23" target="weibo">
+不该对齐齐哈尔事故保持沉默（热度：35514）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%86%9B%E8%88%AA%E7%A9%BA%E5%BC%80%E6%94%BE%E6%B4%BB%E5%8A%A8%E9%A2%84%E6%BC%94%E7%8E%B0%E5%9C%BA%23" target="weibo">
 空军航空开放活动预演现场（热度：30206）
 </a>
@@ -377,12 +383,6 @@ Rookie妖姬超神（热度：36758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%8D%E5%A1%8C%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%A2%99%E4%BD%93%E7%96%91%E6%97%A9%E6%9C%89%E6%8D%9F%E5%9D%8F%23" target="weibo">
 坍塌中学体育馆墙体疑早有损坏（热度：28577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%AF%A5%E5%AF%B9%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BA%8B%E6%95%85%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98%23" target="weibo">
-不该对齐齐哈尔事故保持沉默（热度：25695）
 </a>
 </li>
 
