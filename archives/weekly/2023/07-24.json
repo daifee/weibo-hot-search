@@ -1,7 +1,23 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690155221482,
+  "endTime": 1690162462106,
   "band_list": [
+    {
+      "raw_hot": 2079391,
+      "num": 2079391,
+      "word": "齐齐哈尔坍塌体育馆已致10人死亡",
+      "onboard_time": 1690159054,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1736496,
+      "num": 639195,
+      "word": "上海厕所一个奇怪的标志",
+      "onboard_time": 1690158332,
+      "rank": 7,
+      "category": "幽默"
+    },
     {
       "raw_hot": 1354511,
       "num": 1354511,
@@ -12,7 +28,7 @@
     },
     {
       "raw_hot": 1235950,
-      "num": 470080,
+      "num": 476342,
       "word": "齐齐哈尔坍塌事故发现被埋女排教练",
       "onboard_time": 1690123838,
       "rank": 10,
@@ -33,6 +49,22 @@
       "onboard_time": 1690133122,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 966247,
+      "num": 474198,
+      "word": "田曦薇项链是戚薇送的",
+      "onboard_time": 1690153882,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 964855,
+      "num": 964855,
+      "word": "为什么有些水果不甜却容易长胖",
+      "onboard_time": 1690158393,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 934893,
@@ -59,6 +91,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 754725,
+      "num": 754725,
+      "word": "被网友吃菌子中毒后的描述笑死",
+      "onboard_time": 1690157910,
+      "rank": 3,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 746050,
       "num": 746050,
       "word": "仅3周接诊5名下腰瘫痪孩子",
@@ -75,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727758,
+      "num": 331201,
+      "word": "科目二考试还没开始就挂科了",
+      "onboard_time": 1690160613,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 679491,
+      "num": 679491,
+      "word": "孟宴臣的皇冠vs宋焰的钻戒",
+      "onboard_time": 1690156167,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 672975,
       "num": 263758,
       "word": "张元英被陌生人接触后的反应",
@@ -83,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650071,
+      "num": 650071,
+      "word": "一辈子很短但周一很长",
+      "onboard_time": 1690155927,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 638375,
       "num": 263311,
       "word": "长期用棉签掏耳朵的后果",
       "onboard_time": 1690115732,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 625003,
+      "num": 473007,
+      "word": "魏大勋是经得起考古的",
+      "onboard_time": 1690156829,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 606874,
@@ -115,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586145,
+      "num": 586145,
+      "word": "杨玏封神白月光",
+      "onboard_time": 1690154845,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 549902,
       "num": 549902,
       "word": "魏大勋的爆火意味着什么",
@@ -129,6 +209,22 @@
       "onboard_time": 1690128270,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 481038,
+      "num": 329331,
+      "word": "男子不慎抠下派出所石狮子嘴里石球",
+      "onboard_time": 1690161811,
+      "rank": 21,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 477327,
+      "num": 477327,
+      "word": "坍塌体育馆毗邻楼施工单位责任人被控制",
+      "onboard_time": 1690156408,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472248,
@@ -147,6 +243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471263,
+      "num": 471263,
+      "word": "推特标志将被改为X",
+      "onboard_time": 1690158574,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 471101,
+      "num": 471101,
+      "word": "珍珠岩",
+      "onboard_time": 1690157672,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466243,
       "num": 466243,
       "word": "肖千喜你糊涂啊",
@@ -156,7 +268,7 @@
     },
     {
       "raw_hot": 430747,
-      "num": 263158,
+      "num": 274948,
       "word": "女子坐地铁被安检告知榴莲有5房肉",
       "onboard_time": 1690124856,
       "rank": 22,
@@ -187,12 +299,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399659,
+      "num": 399659,
+      "word": "向往的生活莲花楼版",
+      "onboard_time": 1690159054,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 396762,
+      "num": 396762,
+      "word": "台风杜苏芮",
+      "onboard_time": 1690158454,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377701,
       "num": 377701,
       "word": "魏大勋韩网想弄哭第一名",
       "onboard_time": 1690102053,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 357142,
+      "num": 268221,
+      "word": "如果你6年前出生那你今年几岁",
+      "onboard_time": 1690160192,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 331558,
+      "num": 331558,
+      "word": "XXS码实习警犬劲头十足",
+      "onboard_time": 1690155327,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324469,
@@ -209,6 +353,22 @@
       "onboard_time": 1690119758,
       "rank": 17,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 294380,
+      "num": 294380,
+      "word": "TF三代8月份还有一场演出",
+      "onboard_time": 1690160552,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 293371,
+      "num": 293371,
+      "word": "于适开拍前才知道自己演姬发",
+      "onboard_time": 1690160731,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 288858,
@@ -235,6 +395,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280297,
+      "num": 280297,
+      "word": "确定是孟宴臣在自拍",
+      "onboard_time": 1690158332,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276765,
+      "num": 274556,
+      "word": "假如许沁的姐姐是许半夏",
+      "onboard_time": 1690155206,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271114,
+      "num": 271114,
+      "word": "娜然漂亮",
+      "onboard_time": 1690155507,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262214,
       "num": 262214,
       "word": "张艺兴搞不懂功能先走了",
@@ -243,12 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259633,
-      "num": 259633,
-      "word": "杨玏封神白月光",
-      "onboard_time": 1690154845,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 262175,
+      "num": 262175,
+      "word": "定制手机壳千万不要发表情包",
+      "onboard_time": 1690157431,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 257760,
+      "num": 257760,
+      "word": "薛之谦演唱会大屏上的孙怡吴优",
+      "onboard_time": 1690159293,
+      "rank": 32,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 254683,
@@ -283,12 +475,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235717,
-      "num": 154018,
-      "word": "田曦薇项链是戚薇送的",
-      "onboard_time": 1690153882,
-      "rank": 41,
-      "category": "艺人,时尚"
+      "raw_hot": 242535,
+      "num": 242535,
+      "word": "TFBOYS西安演唱会今天开票",
+      "onboard_time": 1690162291,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 236352,
+      "num": 236352,
+      "word": "尘缘蓝焰",
+      "onboard_time": 1690161751,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 234413,
@@ -339,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205556,
+      "num": 205556,
+      "word": "没想到狗狗坐车居然也会晕车",
+      "onboard_time": 1690161390,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205431,
       "num": 189674,
       "word": "宋焰许沁婚房在高铁旁边",
@@ -353,6 +561,14 @@
       "onboard_time": 1690154605,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196352,
+      "num": 196352,
+      "word": "内娱爆火时间最长的组合",
+      "onboard_time": 1690155566,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195164,
@@ -379,12 +595,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192279,
+      "num": 192279,
+      "word": "檀健次出场的镜头",
+      "onboard_time": 1690157732,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190028,
       "num": 190028,
       "word": "为什么打针前要推掉一点药水",
       "onboard_time": 1690103193,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187954,
+      "num": 187954,
+      "word": "高文明考试被疑作弊",
+      "onboard_time": 1690157551,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 187518,
@@ -395,11 +627,43 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184585,
+      "num": 184585,
+      "word": "安乐传在玩一种很新的公主抱",
+      "onboard_time": 1690162350,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184292,
       "num": 184292,
       "word": "张晚意长相思状态",
       "onboard_time": 1690129589,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173186,
+      "num": 173186,
+      "word": "吴京说和郭帆的怪兽电影要提上日程了",
+      "onboard_time": 1690161453,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173143,
+      "num": 173143,
+      "word": "芭比海滩戏变成现实",
+      "onboard_time": 1690157252,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171771,
+      "num": 171771,
+      "word": "莲花楼",
+      "onboard_time": 1690156288,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -409,6 +673,14 @@
       "onboard_time": 1690125937,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 163145,
+      "num": 170915,
+      "word": "查理苏",
+      "onboard_time": 1690157852,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 160705,
@@ -539,20 +811,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 85093,
-      "num": 85093,
-      "word": "假如许沁的姐姐是许半夏",
-      "onboard_time": 1690155206,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 65846,
       "num": 96017,
       "word": "宁艺卓芭比造型",
       "onboard_time": 1690114052,
       "rank": 47,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 31492,
+      "num": 803170,
+      "word": "这个夏天共赴青春盛会",
+      "onboard_time": 1690116093,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30809,
@@ -585,14 +857,6 @@
       "onboard_time": 1690107154,
       "rank": 45,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 26954,
-      "num": 643056,
-      "word": "这个夏天共赴青春盛会",
-      "onboard_time": 1690116093,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9155,
