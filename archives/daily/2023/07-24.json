@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690163447963,
+  "endTime": 1690166188461,
   "band_list": [
     {
       "raw_hot": 2079391,
@@ -19,6 +19,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1530175,
+      "num": 1530175,
+      "word": "TFBOYS西安演唱会今天开票",
+      "onboard_time": 1690162291,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1354511,
       "num": 1354511,
       "word": "齐齐哈尔三十四中坍塌现场救出11人",
@@ -35,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1231953,
+      "num": 1231953,
+      "word": "妻子付不起120万赎金装客户帮丈夫电诈",
+      "onboard_time": 1690163972,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1125319,
       "num": 1125319,
       "word": "网友在LV花近万元买错码不换被驱逐",
       "onboard_time": 1690122163,
       "rank": 1,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1116923,
+      "num": 470854,
+      "word": "女孩穿cos服参加漫展遭老人谩骂",
+      "onboard_time": 1690163070,
+      "rank": 38,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 1092662,
@@ -91,6 +115,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 807103,
+      "num": 468830,
+      "word": "他大概没想过以后会过的那么苦",
+      "onboard_time": 1690164210,
+      "rank": 12,
+      "category": "作品衍生,情感"
+    },
+    {
       "raw_hot": 763977,
       "num": 469608,
       "word": "王俊凯瘦了太多",
@@ -121,14 +153,6 @@
       "onboard_time": 1690128754,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741276,
-      "num": 741276,
-      "word": "TFBOYS西安演唱会今天开票",
-      "onboard_time": 1690162291,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 727758,
@@ -211,20 +235,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 583868,
+      "num": 583868,
+      "word": "长相思今日开播",
+      "onboard_time": 1690162891,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 577426,
+      "num": 577426,
+      "word": "推特标志将被改为X",
+      "onboard_time": 1690158574,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 549902,
       "num": 549902,
       "word": "魏大勋的爆火意味着什么",
       "onboard_time": 1690112314,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544191,
-      "num": 544191,
-      "word": "推特标志将被改为X",
-      "onboard_time": 1690158574,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 530303,
@@ -241,6 +273,14 @@
       "onboard_time": 1690156408,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474510,
+      "num": 474510,
+      "word": "任安乐今晚掉马",
+      "onboard_time": 1690164332,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 472248,
@@ -275,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 441319,
-      "num": 441319,
-      "word": "长相思今日开播",
-      "onboard_time": 1690162891,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 439946,
+      "num": 439946,
+      "word": "鹿晗魏大勋采访名场面",
+      "onboard_time": 1690165111,
+      "rank": 15,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 430747,
@@ -297,6 +337,14 @@
       "onboard_time": 1690124317,
       "rank": 13,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 413695,
+      "num": 413695,
+      "word": "家长质疑孩子被送医院5小时无人出面沟通",
+      "onboard_time": 1690165650,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413308,
@@ -347,6 +395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 356594,
+      "num": 356594,
+      "word": "TFBOYS演唱会超300万人想看",
+      "onboard_time": 1690163190,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 352918,
       "num": 352918,
       "word": "米芒再次被家暴",
@@ -387,6 +443,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 320668,
+      "num": 207559,
+      "word": "蔡少芬用裙子帮瞿颖防走光",
+      "onboard_time": 1690163669,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293371,
       "num": 293371,
       "word": "于适开拍前才知道自己演姬发",
@@ -417,6 +481,22 @@
       "onboard_time": 1690158332,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285665,
+      "num": 285665,
+      "word": "齐齐哈尔体育馆坍塌事故仍有1人被困",
+      "onboard_time": 1690163491,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285116,
+      "num": 285116,
+      "word": "五月天泉州",
+      "onboard_time": 1690164992,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 284877,
@@ -499,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247742,
+      "num": 247742,
+      "word": "Angelababy新剧切黑了",
+      "onboard_time": 1690165592,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243540,
       "num": 243540,
       "word": "王一博粉丝带娃看热烈",
@@ -547,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226353,
-      "num": 226353,
-      "word": "TFBOYS演唱会超300万人想看",
-      "onboard_time": 1690163190,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 219553,
       "num": 219553,
       "word": "张远自曝大学初恋",
@@ -563,20 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217451,
-      "num": 217451,
-      "word": "女孩穿cos服参加漫展遭老人谩骂",
-      "onboard_time": 1690163070,
-      "rank": 38,
-      "category": "社会新闻,动漫"
-    },
-    {
       "raw_hot": 214348,
       "num": 214348,
       "word": "成都大运会开幕式",
       "onboard_time": 1690162952,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 211176,
+      "num": 203045,
+      "word": "8岁女童被两男孩用弹弓射伤致左眼失明",
+      "onboard_time": 1690165832,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210386,
@@ -595,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205801,
+      "num": 198507,
+      "word": "躺着真舒服",
+      "onboard_time": 1690165772,
+      "rank": 36,
+      "category": "音乐,情感"
+    },
+    {
       "raw_hot": 205556,
       "num": 205556,
       "word": "没想到狗狗坐车居然也会晕车",
@@ -609,6 +697,14 @@
       "onboard_time": 1690106731,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202356,
+      "num": 202356,
+      "word": "徐嘉余100仰预赛第一",
+      "onboard_time": 1690165891,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 201952,
@@ -699,8 +795,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173186,
-      "num": 173186,
+      "raw_hot": 178018,
+      "num": 187473,
       "word": "吴京说和郭帆的怪兽电影要提上日程了",
       "onboard_time": 1690161453,
       "rank": 46,
@@ -884,7 +980,7 @@
     },
     {
       "raw_hot": 31492,
-      "num": 846330,
+      "num": 1362622,
       "word": "这个夏天共赴青春盛会",
       "onboard_time": 1690116093,
       "rank": 2,
