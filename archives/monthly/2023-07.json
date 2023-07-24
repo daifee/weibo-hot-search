@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690205625336,
+  "endTime": 1690208197824,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -947,6 +947,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 3062308,
+      "num": 535557,
+      "word": "沈月 同性之间就一定是纯友谊吗",
+      "onboard_time": 1690204415,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3060228,
       "num": 2693110,
       "word": "韩国幽灵儿童事件",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1689667952,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2976933,
+      "num": 533828,
+      "word": "日本第一批不婚的人开始后悔了",
+      "onboard_time": 1690201291,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2976410,
@@ -3795,14 +3811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1698263,
-      "num": 381527,
-      "word": "日本第一批不婚的人开始后悔了",
-      "onboard_time": 1690201291,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1697384,
       "num": 1697384,
       "word": "第一次上交工资就被警察查了",
@@ -5291,6 +5299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1391322,
+      "num": 1391322,
+      "word": "TES战胜EDG",
+      "onboard_time": 1690206159,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1391221,
       "num": 1391221,
       "word": "倪妮能够出演陈麦的原因",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1688271150,
       "rank": 29,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1313157,
+      "num": 489776,
+      "word": "女子体内大量瓜子状活虫",
+      "onboard_time": 1690205076,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1310274,
@@ -7235,6 +7259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1127691,
+      "num": 1127691,
+      "word": "EDG冒泡赛",
+      "onboard_time": 1690206459,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1127237,
       "num": 639565,
       "word": "Angelababy穿泳装",
@@ -7921,14 +7953,6 @@
       "onboard_time": 1688618026,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1066017,
-      "num": 450430,
-      "word": "沈月 同性之间就一定是纯友谊吗",
-      "onboard_time": 1690204415,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1063643,
@@ -10339,6 +10363,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 892147,
+      "num": 892147,
+      "word": "EDG输了 Ale没输",
+      "onboard_time": 1690206398,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 892109,
       "num": 892109,
       "word": "花花接住谭爷爷给的小苹果",
@@ -10593,6 +10625,14 @@
       "onboard_time": 1689872841,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 881553,
+      "num": 881553,
+      "word": "长相思热度",
+      "onboard_time": 1690203097,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 881114,
@@ -11531,14 +11571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 837587,
-      "num": 562252,
-      "word": "长相思热度",
-      "onboard_time": 1690203097,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 836959,
       "num": 836959,
       "word": "莲花楼配音",
@@ -12345,6 +12377,14 @@
       "onboard_time": 1690032393,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 802111,
+      "num": 508841,
+      "word": "邓为演男狐狸精",
+      "onboard_time": 1690205497,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 802037,
@@ -13515,6 +13555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 744999,
+      "num": 506467,
+      "word": "大牙回应陈建州范玮琪撤诉",
+      "onboard_time": 1690204533,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744944,
       "num": 744944,
       "word": "微信可以购买苹果产品了",
@@ -14049,6 +14097,14 @@
       "onboard_time": 1689254856,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 721963,
+      "num": 477947,
+      "word": "冯提莫甲状腺癌晚期",
+      "onboard_time": 1690207899,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 721691,
@@ -15393,6 +15449,14 @@
       "onboard_time": 1689925291,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673564,
+      "num": 463874,
+      "word": "魏大勋微博背景图换成孟宴臣",
+      "onboard_time": 1690206997,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 673256,
@@ -18995,14 +19059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 573039,
-      "num": 382567,
-      "word": "大牙回应陈建州范玮琪撤诉",
-      "onboard_time": 1690204533,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 573029,
       "num": 397603,
       "word": "周杰伦天津演唱会抢票",
@@ -19409,14 +19465,6 @@
       "onboard_time": 1688208155,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 562436,
-      "num": 252930,
-      "word": "女子体内大量瓜子状活虫",
-      "onboard_time": 1690205076,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 562433,
@@ -20417,6 +20465,14 @@
       "onboard_time": 1689344921,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539159,
+      "num": 539159,
+      "word": "杨澄王莹",
+      "onboard_time": 1690203756,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 539101,
@@ -21889,14 +21945,6 @@
       "onboard_time": 1689735930,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 502880,
-      "num": 364593,
-      "word": "杨澄王莹",
-      "onboard_time": 1690203756,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 502787,
@@ -26227,6 +26275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425990,
+      "num": 425990,
+      "word": "打工人最讨厌的那类小领导",
+      "onboard_time": 1690205858,
+      "rank": 26,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 425989,
       "num": 425989,
       "word": "JDG对战iG",
@@ -28385,6 +28441,14 @@
       "onboard_time": 1690030714,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 392006,
+      "num": 392006,
+      "word": "jiejie 蝎子",
+      "onboard_time": 1690207178,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 391978,
@@ -31051,6 +31115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356133,
+      "num": 356133,
+      "word": "六问齐齐哈尔坍塌事故",
+      "onboard_time": 1690199254,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356114,
       "num": 356114,
       "word": "李玟曾说为自己是中国人感到骄傲",
@@ -32211,14 +32283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340377,
-      "num": 340377,
-      "word": "六问齐齐哈尔坍塌事故",
-      "onboard_time": 1690199254,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340247,
       "num": 252706,
       "word": "盘点宝格丽国内版图",
@@ -33129,6 +33193,14 @@
       "onboard_time": 1689331834,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329993,
+      "num": 329993,
+      "word": "普通家庭的孩子该去看演唱会吗",
+      "onboard_time": 1690205254,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 329951,
@@ -35347,6 +35419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303765,
+      "num": 303765,
+      "word": "放假是老师最好的医美吧",
+      "onboard_time": 1690202794,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 303703,
       "num": 303703,
       "word": "属于孟宴臣艺术性的47秒",
@@ -36729,6 +36809,14 @@
       "onboard_time": 1688632834,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291973,
+      "num": 291973,
+      "word": "魏大勋孟宴臣定妆视频",
+      "onboard_time": 1690205739,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 291929,
@@ -39163,6 +39251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270442,
+      "num": 270442,
+      "word": "瞬间明白了造型的重要性",
+      "onboard_time": 1690206761,
+      "rank": 38,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 270429,
       "num": 270429,
       "word": "何蓝逗曹煜辰吻戏",
@@ -39433,6 +39529,14 @@
       "onboard_time": 1689678215,
       "rank": 4,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 266626,
+      "num": 266626,
+      "word": "十年之约为什么不在重庆办",
+      "onboard_time": 1690208139,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 266615,
@@ -40265,14 +40369,6 @@
       "onboard_time": 1688519313,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259884,
-      "num": 259884,
-      "word": "放假是老师最好的医美吧",
-      "onboard_time": 1690202794,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 259778,
@@ -43171,14 +43267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235613,
-      "num": 235613,
-      "word": "邓为演男狐狸精",
-      "onboard_time": 1690205497,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235567,
       "num": 238864,
       "word": "浮桥",
@@ -44883,6 +44971,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 222508,
+      "num": 353882,
+      "word": "小伙被缅北放回后与妈妈抱头痛哭",
+      "onboard_time": 1690204596,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222374,
       "num": 222374,
       "word": "不良人要求逆水寒手游公开道歉",
@@ -44969,14 +45065,6 @@
       "onboard_time": 1688718755,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221734,
-      "num": 221734,
-      "word": "普通家庭的孩子该去看演唱会吗",
-      "onboard_time": 1690205254,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 221709,
@@ -46587,6 +46675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210425,
+      "num": 210425,
+      "word": "韩烨任安乐额头吻",
+      "onboard_time": 1690207961,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210403,
       "num": 210403,
       "word": "袁姗姗红色气球鞋",
@@ -47011,14 +47107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208018,
-      "num": 252741,
-      "word": "小伙被缅北放回后与妈妈抱头痛哭",
-      "onboard_time": 1690204596,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207978,
       "num": 207978,
       "word": "爷奶摆摊救再障8年孙子",
@@ -47121,6 +47209,14 @@
       "onboard_time": 1688382580,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207084,
+      "num": 207084,
+      "word": "西安就回流生录取工作作出情况说明",
+      "onboard_time": 1690207778,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207082,
@@ -48673,6 +48769,14 @@
       "onboard_time": 1688542114,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 197411,
+      "num": 197411,
+      "word": "蓝鸟logo设计师分享设计线稿",
+      "onboard_time": 1690207834,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 197349,
@@ -58408,6 +58512,14 @@
       "word": "复兴号正式在青藏铁路投入运行",
       "onboard_time": 1688185173,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9585,
+      "num": 1012622,
+      "word": "空军航空开放活动预演现场",
+      "onboard_time": 1690197334,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

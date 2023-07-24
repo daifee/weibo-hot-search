@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690205625336,
+  "endTime": 1690208197824,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -25,6 +25,22 @@
       "onboard_time": 1690167632,
       "rank": 10,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 3062308,
+      "num": 535557,
+      "word": "沈月 同性之间就一定是纯友谊吗",
+      "onboard_time": 1690204415,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2976933,
+      "num": 533828,
+      "word": "日本第一批不婚的人开始后悔了",
+      "onboard_time": 1690201291,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2688840,
@@ -112,14 +128,6 @@
       "word": "女子称孕期被丈夫挤压肚子",
       "onboard_time": 1690190796,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1698263,
-      "num": 381527,
-      "word": "日本第一批不婚的人开始后悔了",
-      "onboard_time": 1690201291,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1391322,
+      "num": 1391322,
+      "word": "TES战胜EDG",
+      "onboard_time": 1690206159,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1367657,
       "num": 1367657,
       "word": "网曝大爷大妈跑到水库放生矿泉水",
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1313157,
+      "num": 489776,
+      "word": "女子体内大量瓜子状活虫",
+      "onboard_time": 1690205076,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1235950,
       "num": 584367,
       "word": "齐齐哈尔坍塌事故发现被埋女排教练",
@@ -289,6 +313,14 @@
       "onboard_time": 1690203336,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1127691,
+      "num": 1127691,
+      "word": "EDG冒泡赛",
+      "onboard_time": 1690206459,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1125319,
@@ -329,14 +361,6 @@
       "onboard_time": 1690133122,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1066017,
-      "num": 450430,
-      "word": "沈月 同性之间就一定是纯友谊吗",
-      "onboard_time": 1690204415,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1037644,
@@ -443,6 +467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 892147,
+      "num": 892147,
+      "word": "EDG输了 Ale没输",
+      "onboard_time": 1690206398,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 881553,
+      "num": 881553,
+      "word": "长相思热度",
+      "onboard_time": 1690203097,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 877493,
       "num": 877493,
       "word": "张雨霏夺金",
@@ -475,20 +515,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 837587,
-      "num": 562252,
-      "word": "长相思热度",
-      "onboard_time": 1690203097,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 811011,
       "num": 811011,
       "word": "被网友吃菌子中毒后的描述笑死",
       "onboard_time": 1690157910,
       "rank": 3,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 802111,
+      "num": 508841,
+      "word": "邓为演男狐狸精",
+      "onboard_time": 1690205497,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 780264,
@@ -555,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744999,
+      "num": 506467,
+      "word": "大牙回应陈建州范玮琪撤诉",
+      "onboard_time": 1690204533,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743624,
       "num": 710713,
       "word": "消防员赶到现场只看到一双小脚丫",
@@ -577,6 +625,14 @@
       "onboard_time": 1690160613,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 721963,
+      "num": 477947,
+      "word": "冯提莫甲状腺癌晚期",
+      "onboard_time": 1690207899,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 714718,
@@ -625,6 +681,14 @@
       "onboard_time": 1690189713,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 673564,
+      "num": 463874,
+      "word": "魏大勋微博背景图换成孟宴臣",
+      "onboard_time": 1690206997,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 673256,
@@ -835,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573039,
-      "num": 382567,
-      "word": "大牙回应陈建州范玮琪撤诉",
-      "onboard_time": 1690204533,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 571872,
       "num": 571872,
       "word": "躺着真舒服",
@@ -859,14 +915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 562436,
-      "num": 252930,
-      "word": "女子体内大量瓜子状活虫",
-      "onboard_time": 1690205076,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 549902,
       "num": 549902,
       "word": "魏大勋的爆火意味着什么",
@@ -880,6 +928,14 @@
       "word": "相柳承认喜欢小夭",
       "onboard_time": 1690184136,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 539159,
+      "num": 539159,
+      "word": "杨澄王莹",
+      "onboard_time": 1690203756,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -929,14 +985,6 @@
       "onboard_time": 1690183115,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502880,
-      "num": 364593,
-      "word": "杨澄王莹",
-      "onboard_time": 1690203756,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 499254,
@@ -1131,6 +1179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425990,
+      "num": 425990,
+      "word": "打工人最讨厌的那类小领导",
+      "onboard_time": 1690205858,
+      "rank": 26,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 424016,
       "num": 424016,
       "word": "TFBOYS演唱会超300万人想看",
@@ -1219,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392006,
+      "num": 392006,
+      "word": "jiejie 蝎子",
+      "onboard_time": 1690207178,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 389371,
       "num": 389371,
       "word": "孟宴臣立大功",
@@ -1283,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 356133,
+      "num": 356133,
+      "word": "六问齐齐哈尔坍塌事故",
+      "onboard_time": 1690199254,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353989,
       "num": 353989,
       "word": "i人喜欢独处的真实原因",
@@ -1321,14 +1393,6 @@
       "onboard_time": 1690195593,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340377,
-      "num": 340377,
-      "word": "六问齐齐哈尔坍塌事故",
-      "onboard_time": 1690199254,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338562,
@@ -1377,6 +1441,14 @@
       "onboard_time": 1690174598,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329993,
+      "num": 329993,
+      "word": "普通家庭的孩子该去看演唱会吗",
+      "onboard_time": 1690205254,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 326054,
@@ -1483,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303765,
+      "num": 303765,
+      "word": "放假是老师最好的医美吧",
+      "onboard_time": 1690202794,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 297456,
       "num": 297456,
       "word": "杨澄王莹意难平",
@@ -1513,6 +1593,14 @@
       "onboard_time": 1690162651,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291973,
+      "num": 291973,
+      "word": "魏大勋孟宴臣定妆视频",
+      "onboard_time": 1690205739,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 289294,
@@ -1619,6 +1707,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270442,
+      "num": 270442,
+      "word": "瞬间明白了造型的重要性",
+      "onboard_time": 1690206761,
+      "rank": 38,
+      "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 266626,
+      "num": 266626,
+      "word": "十年之约为什么不在重庆办",
+      "onboard_time": 1690208139,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262545,
       "num": 262545,
       "word": "孟宴臣事业粉狂喜",
@@ -1641,14 +1745,6 @@
       "onboard_time": 1690157431,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259884,
-      "num": 259884,
-      "word": "放假是老师最好的医美吧",
-      "onboard_time": 1690202794,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 259442,
@@ -1779,14 +1875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235613,
-      "num": 235613,
-      "word": "邓为演男狐狸精",
-      "onboard_time": 1690205497,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234552,
       "num": 234552,
       "word": "吴宗宪坚持提告黄子佼",
@@ -1859,12 +1947,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 221734,
-      "num": 221734,
-      "word": "普通家庭的孩子该去看演唱会吗",
-      "onboard_time": 1690205254,
+      "raw_hot": 222508,
+      "num": 353882,
+      "word": "小伙被缅北放回后与妈妈抱头痛哭",
+      "onboard_time": 1690204596,
       "rank": 37,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219553,
@@ -1907,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210425,
+      "num": 210425,
+      "word": "韩烨任安乐额头吻",
+      "onboard_time": 1690207961,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210386,
       "num": 263922,
       "word": "体育馆楼顶坍塌的中学刚获省女排亚军",
@@ -1923,11 +2019,11 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 208018,
-      "num": 252741,
-      "word": "小伙被缅北放回后与妈妈抱头痛哭",
-      "onboard_time": 1690204596,
-      "rank": 37,
+      "raw_hot": 207084,
+      "num": 207084,
+      "word": "西安就回流生录取工作作出情况说明",
+      "onboard_time": 1690207778,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1987,12 +2083,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200256,
+      "num": 197380,
+      "word": "曾少年",
+      "onboard_time": 1690207719,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199974,
       "num": 199974,
       "word": "要活跃资本市场",
       "onboard_time": 1690193016,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 197411,
+      "num": 197411,
+      "word": "蓝鸟logo设计师分享设计线稿",
+      "onboard_time": 1690207834,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 196352,
@@ -2481,6 +2593,14 @@
       "onboard_time": 1690107154,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 9585,
+      "num": 1012622,
+      "word": "空军航空开放活动预演现场",
+      "onboard_time": 1690197334,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9155,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690208197824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1391322,
+        "num": 1391322,
+        "word": "TES战胜EDG",
+        "onboard_time": 1690206159,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1127691,
+        "num": 1127691,
+        "word": "EDG冒泡赛",
+        "onboard_time": 1690206459,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9585,
+        "num": 1012622,
+        "word": "空军航空开放活动预演现场",
+        "onboard_time": 1690197334,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006146,
+        "num": 1006146,
+        "word": "叶诗文",
+        "onboard_time": 1690203336,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 892147,
+        "num": 892147,
+        "word": "EDG输了 Ale没输",
+        "onboard_time": 1690206398,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1300314,
+        "num": 888062,
+        "word": "齐齐哈尔34中体育馆坍塌11人死亡",
+        "onboard_time": 1690168595,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881553,
+        "num": 881553,
+        "word": "长相思热度",
+        "onboard_time": 1690203097,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 626745,
+        "num": 626745,
+        "word": "TES对战EDG",
+        "onboard_time": 1690189713,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 596567,
+        "num": 596567,
+        "word": "长相思小演员演技",
+        "onboard_time": 1690201593,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539159,
+        "num": 539159,
+        "word": "杨澄王莹",
+        "onboard_time": 1690203756,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3062308,
+        "num": 535557,
+        "word": "沈月 同性之间就一定是纯友谊吗",
+        "onboard_time": 1690204415,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2976933,
+        "num": 533828,
+        "word": "日本第一批不婚的人开始后悔了",
+        "onboard_time": 1690201291,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310776,
+        "num": 526774,
+        "word": "费翔没想到自己60岁开始要脱衣服",
+        "onboard_time": 1690202614,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1074986,
+        "num": 522400,
+        "word": "长相思男主是谁",
+        "onboard_time": 1690200453,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 802919,
+        "num": 516328,
+        "word": "沉香夫妇一个接生一个把脉",
+        "onboard_time": 1690200813,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74186,
+        "num": 512552,
+        "word": "一起看成都大运会",
+        "onboard_time": 1690197573,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802111,
+        "num": 508841,
+        "word": "邓为演男狐狸精",
+        "onboard_time": 1690205497,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744999,
+        "num": 506467,
+        "word": "大牙回应陈建州范玮琪撤诉",
+        "onboard_time": 1690204533,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 937097,
+        "num": 501275,
+        "word": "涂山璟 官配",
+        "onboard_time": 1690202975,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656583,
+        "num": 493415,
+        "word": "女子称孕期被丈夫挤压肚子",
+        "onboard_time": 1690190796,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313157,
+        "num": 489776,
+        "word": "女子体内大量瓜子状活虫",
+        "onboard_time": 1690205076,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838622,
+        "num": 486050,
+        "word": "记者卧底救了6个被骗缅甸人员",
+        "onboard_time": 1690194632,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484111,
+        "num": 484111,
+        "word": "地库出口3岁男童不幸被撞身亡",
+        "onboard_time": 1690195832,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721963,
+        "num": 477947,
+        "word": "冯提莫甲状腺癌晚期",
+        "onboard_time": 1690207899,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 673564,
+        "num": 463874,
+        "word": "魏大勋微博背景图换成孟宴臣",
+        "onboard_time": 1690206997,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521411,
+        "num": 446321,
+        "word": "吴宣仪 牙贴片已经取了",
+        "onboard_time": 1690188874,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425990,
+        "num": 425990,
+        "word": "打工人最讨厌的那类小领导",
+        "onboard_time": 1690205858,
+        "rank": 26,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 392006,
+        "num": 392006,
+        "word": "jiejie 蝎子",
+        "onboard_time": 1690207178,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 356133,
+        "num": 356133,
+        "word": "六问齐齐哈尔坍塌事故",
+        "onboard_time": 1690199254,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222508,
+        "num": 353882,
+        "word": "小伙被缅北放回后与妈妈抱头痛哭",
+        "onboard_time": 1690204596,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353856,
+        "num": 353856,
+        "word": "魏无羡圆梦了",
+        "onboard_time": 1690196854,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 330358,
+        "num": 330358,
+        "word": "齐齐哈尔体育馆坍塌事故施工监管何在",
+        "onboard_time": 1690197393,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329993,
+        "num": 329993,
+        "word": "普通家庭的孩子该去看演唱会吗",
+        "onboard_time": 1690205254,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311500,
+        "num": 311500,
+        "word": "男子抓胸猥亵女生反咬称自己被乱摸",
+        "onboard_time": 1690199614,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303765,
+        "num": 303765,
+        "word": "放假是老师最好的医美吧",
+        "onboard_time": 1690202794,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 299826,
+        "num": 299826,
+        "word": "保姆一路考证升学工资从5000涨到2万",
+        "onboard_time": 1690195231,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 291973,
+        "num": 291973,
+        "word": "魏大勋孟宴臣定妆视频",
+        "onboard_time": 1690205739,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271000,
+        "num": 271000,
+        "word": "优酷TFBOYS演唱会线上只能看三天",
+        "onboard_time": 1690196492,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270442,
+        "num": 270442,
+        "word": "瞬间明白了造型的重要性",
+        "onboard_time": 1690206761,
+        "rank": 38,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 268684,
+        "num": 268684,
+        "word": "谢乔杨澄分手6年后再见",
+        "onboard_time": 1690200031,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266626,
+        "num": 266626,
+        "word": "十年之约为什么不在重庆办",
+        "onboard_time": 1690208139,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231628,
+        "num": 231628,
+        "word": "齐市坍塌事故施工方中标多个学校项目",
+        "onboard_time": 1690183421,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224371,
+        "num": 224371,
+        "word": "顾客吃地锅鸡后拼鸡脖长到离谱",
+        "onboard_time": 1690203097,
+        "rank": 42,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 210425,
+        "num": 210425,
+        "word": "韩烨任安乐额头吻",
+        "onboard_time": 1690207961,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207084,
+        "num": 207084,
+        "word": "西安就回流生录取工作作出情况说明",
+        "onboard_time": 1690207778,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201302,
+        "num": 201302,
+        "word": "张雨霏夺金",
+        "onboard_time": 1690198053,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197411,
+        "num": 197411,
+        "word": "蓝鸟logo设计师分享设计线稿",
+        "onboard_time": 1690207834,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200256,
+        "num": 197380,
+        "word": "曾少年",
+        "onboard_time": 1690207719,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195695,
+        "num": 195695,
+        "word": "舞台2023定档",
+        "onboard_time": 1690201413,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193554,
+        "num": 193554,
+        "word": "许沁婚礼伴手礼",
+        "onboard_time": 1690190135,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席成都大运会开幕式#"
+    }
+  }
+}
