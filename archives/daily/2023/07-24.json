@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690208197824,
+  "endTime": 1690209254467,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -9,6 +9,14 @@
       "onboard_time": 1690174959,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 10741717,
+      "num": 10741717,
+      "word": "冯提莫甲状腺癌晚期",
+      "onboard_time": 1690207899,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 3377134,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 3062308,
-      "num": 535557,
+      "num": 571528,
       "word": "沈月 同性之间就一定是纯友谊吗",
       "onboard_time": 1690204415,
       "rank": 27,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2976933,
-      "num": 533828,
+      "num": 568593,
       "word": "日本第一批不婚的人开始后悔了",
       "onboard_time": 1690201291,
       "rank": 20,
@@ -499,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 870209,
+      "num": 561599,
+      "word": "邓为演男狐狸精",
+      "onboard_time": 1690205497,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 866342,
       "num": 352157,
       "word": "原来月休4天不是单休",
@@ -515,20 +531,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 825110,
+      "num": 463874,
+      "word": "魏大勋微博背景图换成孟宴臣",
+      "onboard_time": 1690206997,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 811011,
       "num": 811011,
       "word": "被网友吃菌子中毒后的描述笑死",
       "onboard_time": 1690157910,
       "rank": 3,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 802111,
-      "num": 508841,
-      "word": "邓为演男狐狸精",
-      "onboard_time": 1690205497,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 780264,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 744999,
-      "num": 506467,
+      "num": 558194,
       "word": "大牙回应陈建州范玮琪撤诉",
       "onboard_time": 1690204533,
       "rank": 24,
@@ -625,14 +641,6 @@
       "onboard_time": 1690160613,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 721963,
-      "num": 477947,
-      "word": "冯提莫甲状腺癌晚期",
-      "onboard_time": 1690207899,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 714718,
@@ -667,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692027,
+      "num": 692027,
+      "word": "十年之约为什么不在重庆办",
+      "onboard_time": 1690208139,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679491,
       "num": 679491,
       "word": "孟宴臣的皇冠vs宋焰的钻戒",
@@ -681,14 +697,6 @@
       "onboard_time": 1690189713,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 673564,
-      "num": 463874,
-      "word": "魏大勋微博背景图换成孟宴臣",
-      "onboard_time": 1690206997,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 673256,
@@ -915,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 556059,
+      "num": 556059,
+      "word": "jiejie 蝎子",
+      "onboard_time": 1690207178,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 549902,
       "num": 549902,
       "word": "魏大勋的爆火意味着什么",
@@ -1051,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471368,
+      "num": 425990,
+      "word": "打工人最讨厌的那类小领导",
+      "onboard_time": 1690205858,
+      "rank": 26,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 471101,
       "num": 471101,
       "word": "珍珠岩",
@@ -1179,14 +1203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 425990,
-      "num": 425990,
-      "word": "打工人最讨厌的那类小领导",
-      "onboard_time": 1690205858,
-      "rank": 26,
-      "category": "影视,情感"
-    },
-    {
       "raw_hot": 424016,
       "num": 424016,
       "word": "TFBOYS演唱会超300万人想看",
@@ -1275,12 +1291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392006,
-      "num": 392006,
-      "word": "jiejie 蝎子",
-      "onboard_time": 1690207178,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 391820,
+      "num": 391820,
+      "word": "父亲回应3岁女儿坐高铁10小时不哭闹",
+      "onboard_time": 1690208865,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389371,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1690193974,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 378978,
+      "num": 378978,
+      "word": "普通家庭的孩子该去看演唱会吗",
+      "onboard_time": 1690205254,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 377701,
@@ -1419,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333664,
+      "num": 333664,
+      "word": "中国孩子必会的填空题",
+      "onboard_time": 1690207417,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333170,
       "num": 333170,
       "word": "齐市教育局曾在4个月前开展校舍安全检查",
@@ -1443,12 +1475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 329993,
-      "num": 329993,
-      "word": "普通家庭的孩子该去看演唱会吗",
-      "onboard_time": 1690205254,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 327443,
+      "num": 327443,
+      "word": "西安就回流生录取工作作出情况说明",
+      "onboard_time": 1690207778,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326054,
@@ -1513,6 +1545,14 @@
       "onboard_time": 1690163669,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316260,
+      "num": 316260,
+      "word": "蓝鸟logo设计师分享设计线稿",
+      "onboard_time": 1690207834,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 315041,
@@ -1715,14 +1755,6 @@
       "category": "时尚,幽默"
     },
     {
-      "raw_hot": 266626,
-      "num": 266626,
-      "word": "十年之约为什么不在重庆办",
-      "onboard_time": 1690208139,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262545,
       "num": 262545,
       "word": "孟宴臣事业粉狂喜",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1690157431,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261372,
+      "num": 379012,
+      "word": "小伙被缅北放回后与妈妈抱头痛哭",
+      "onboard_time": 1690204596,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259442,
@@ -1947,14 +1987,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 222508,
-      "num": 353882,
-      "word": "小伙被缅北放回后与妈妈抱头痛哭",
-      "onboard_time": 1690204596,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219553,
       "num": 219553,
       "word": "张远自曝大学初恋",
@@ -2017,14 +2049,6 @@
       "onboard_time": 1690181019,
       "rank": 38,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 207084,
-      "num": 207084,
-      "word": "西安就回流生录取工作作出情况说明",
-      "onboard_time": 1690207778,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207080,
@@ -2099,14 +2123,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 197411,
-      "num": 197411,
-      "word": "蓝鸟logo设计师分享设计线稿",
-      "onboard_time": 1690207834,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 196352,
       "num": 196352,
       "word": "内娱爆火时间最长的组合",
@@ -2129,6 +2145,22 @@
       "onboard_time": 1690123598,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195007,
+      "num": 195007,
+      "word": "妈妈住院8岁男孩暑假陪爸爸工地干活",
+      "onboard_time": 1690208984,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193972,
+      "num": 193972,
+      "word": "欢颜",
+      "onboard_time": 1690209229,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 193867,
@@ -2555,6 +2587,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 36427,
+      "num": 1012622,
+      "word": "空军航空开放活动预演现场",
+      "onboard_time": 1690197334,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31492,
       "num": 1362622,
       "word": "这个夏天共赴青春盛会",
@@ -2593,14 +2633,6 @@
       "onboard_time": 1690107154,
       "rank": 45,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 9585,
-      "num": 1012622,
-      "word": "空军航空开放活动预演现场",
-      "onboard_time": 1690197334,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9155,
