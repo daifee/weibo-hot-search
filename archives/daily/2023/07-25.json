@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690234422740,
+  "endTime": 1690236980314,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138602,
+      "num": 138602,
+      "word": "不该对齐齐哈尔事故保持沉默",
+      "onboard_time": 1690225273,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137870,
       "num": 168464,
       "word": "TES战胜EDG",
@@ -467,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39274,
-      "num": 39274,
-      "word": "不该对齐齐哈尔事故保持沉默",
-      "onboard_time": 1690225273,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36758,
       "num": 36758,
       "word": "Rookie妖姬超神",
@@ -492,10 +492,18 @@
     },
     {
       "raw_hot": 28577,
-      "num": 34383,
+      "num": 35388,
       "word": "坍塌中学体育馆墙体疑早有损坏",
       "onboard_time": 1690224974,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26157,
+      "num": 35462,
+      "word": "体育馆顶部网架结构承重能力非常低",
+      "onboard_time": 1690235472,
+      "rank": 45,
       "category": "社会新闻"
     }
   ],
