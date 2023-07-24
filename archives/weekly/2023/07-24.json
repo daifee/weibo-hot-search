@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690175804431,
+  "endTime": 1690176827742,
   "band_list": [
     {
       "raw_hot": 3377134,
@@ -49,6 +49,14 @@
       "onboard_time": 1690163972,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1929990,
+      "num": 1929990,
+      "word": "陈哲远正式确诊为邪剑仙",
+      "onboard_time": 1690174419,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1739732,
@@ -131,20 +139,20 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 1318539,
+      "num": 458818,
+      "word": "男子游泳大便致泳池被抽干",
+      "onboard_time": 1690175077,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1235950,
       "num": 584367,
       "word": "齐齐哈尔坍塌事故发现被埋女排教练",
       "onboard_time": 1690123838,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1143621,
-      "num": 1143621,
-      "word": "陈哲远正式确诊为邪剑仙",
-      "onboard_time": 1690174419,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1125319,
@@ -163,6 +171,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 1095686,
+      "num": 995042,
+      "word": "TFBOYS抢票",
+      "onboard_time": 1690174959,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1092662,
       "num": 1092662,
       "word": "莲花楼首播反响",
@@ -177,6 +193,14 @@
       "onboard_time": 1690158393,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 996446,
+      "num": 996446,
+      "word": "iPhone15将采用叠层电池",
+      "onboard_time": 1690173822,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 966247,
@@ -233,14 +257,6 @@
       "onboard_time": 1690164992,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 823730,
-      "num": 308429,
-      "word": "男子游泳大便致泳池被抽干",
-      "onboard_time": 1690175077,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 811011,
@@ -355,14 +371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 651769,
-      "num": 651769,
-      "word": "iPhone15将采用叠层电池",
-      "onboard_time": 1690173822,
-      "rank": 14,
-      "category": "科技"
-    },
-    {
       "raw_hot": 650071,
       "num": 650071,
       "word": "一辈子很短但周一很长",
@@ -425,14 +433,6 @@
       "onboard_time": 1690154724,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589842,
-      "num": 589842,
-      "word": "TFBOYS抢票",
-      "onboard_time": 1690174959,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 586145,
@@ -563,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 448544,
+      "num": 448544,
+      "word": "爸爸当家",
+      "onboard_time": 1690174959,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430747,
       "num": 274948,
       "word": "女子坐地铁被安检告知榴莲有5房肉",
@@ -603,6 +611,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 408687,
+      "num": 408687,
+      "word": "长相思播三停四",
+      "onboard_time": 1690175858,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406319,
       "num": 406319,
       "word": "封神第一部票房",
@@ -627,8 +643,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387129,
-      "num": 387129,
+      "raw_hot": 396013,
+      "num": 396013,
+      "word": "魏大勋机场私服",
+      "onboard_time": 1690175077,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 389371,
+      "num": 389371,
       "word": "孟宴臣立大功",
       "onboard_time": 1690173522,
       "rank": 26,
@@ -643,12 +667,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 363148,
-      "num": 306483,
-      "word": "魏大勋机场私服",
-      "onboard_time": 1690175077,
-      "rank": 31,
-      "category": "作品衍生,时尚"
+      "raw_hot": 373207,
+      "num": 373207,
+      "word": "肖战龚俊成毅任嘉伦杨洋都有剧在播",
+      "onboard_time": 1690176217,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 360336,
@@ -657,14 +681,6 @@
       "onboard_time": 1690160192,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 358154,
-      "num": 302964,
-      "word": "爸爸当家",
-      "onboard_time": 1690174959,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 353989,
@@ -681,6 +697,14 @@
       "onboard_time": 1690162530,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350029,
+      "num": 350029,
+      "word": "原来兔子有两个独立的子宫",
+      "onboard_time": 1690176576,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 342242,
@@ -713,6 +737,14 @@
       "onboard_time": 1690155327,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330520,
+      "num": 330520,
+      "word": "迪丽热巴龚俊安乐传铠甲造型",
+      "onboard_time": 1690174598,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 326054,
@@ -795,14 +827,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 306969,
-      "num": 270152,
-      "word": "迪丽热巴龚俊安乐传铠甲造型",
-      "onboard_time": 1690174598,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 297456,
       "num": 297456,
       "word": "杨澄王莹意难平",
@@ -867,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284281,
+      "num": 284281,
+      "word": "女子买糕点付钱后发现被调包成临期",
+      "onboard_time": 1690172257,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280595,
       "num": 262579,
       "word": "龚俊刘宇宁你俩挤到迪丽热巴了",
@@ -889,14 +921,6 @@
       "onboard_time": 1690155206,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274630,
-      "num": 274630,
-      "word": "女子买糕点付钱后发现被调包成临期",
-      "onboard_time": 1690172257,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271114,
@@ -963,12 +987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244136,
+      "num": 257208,
+      "word": "比亚迪起诉汽车博主索赔500万",
+      "onboard_time": 1690176700,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243540,
       "num": 243540,
       "word": "王一博粉丝带娃看热烈",
       "onboard_time": 1690124917,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238577,
+      "num": 238577,
+      "word": "影院贴男人视力表被指辱女",
+      "onboard_time": 1690175557,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237573,
@@ -985,14 +1025,6 @@
       "onboard_time": 1690161751,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 235278,
-      "num": 235278,
-      "word": "影院贴男人视力表被指辱女",
-      "onboard_time": 1690175557,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234413,

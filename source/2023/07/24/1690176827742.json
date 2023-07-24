@@ -1,0 +1,410 @@
+{
+  "runTime": 1690176827742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3026701,
+        "num": 3026701,
+        "word": "齐齐哈尔34中体育馆坍塌11人死亡",
+        "onboard_time": 1690168595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1929990,
+        "num": 1929990,
+        "word": "陈哲远正式确诊为邪剑仙",
+        "onboard_time": 1690174419,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95045,
+        "num": 1928569,
+        "word": "成都大运会青春含量拉满",
+        "onboard_time": 1690167272,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1928560,
+        "num": 1928560,
+        "word": "35人退钱群里34人是托",
+        "onboard_time": 1690167632,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1498886,
+        "num": 1498886,
+        "word": "杨紫工作室改名清水镇回春堂",
+        "onboard_time": 1690170940,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1123953,
+        "num": 1123953,
+        "word": "优酷称TFBOYS线上票不限量",
+        "onboard_time": 1690171235,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 996446,
+        "num": 996446,
+        "word": "iPhone15将采用叠层电池",
+        "onboard_time": 1690173822,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1095686,
+        "num": 995042,
+        "word": "TFBOYS抢票",
+        "onboard_time": 1690174959,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 988013,
+        "num": 988013,
+        "word": "网曝大爷大妈跑到水库放生矿泉水",
+        "onboard_time": 1690170336,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954149,
+        "num": 954149,
+        "word": "8小时睡眠论",
+        "onboard_time": 1690169796,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858512,
+        "num": 858512,
+        "word": "魏大勋不是孟宴臣角色的第一人选",
+        "onboard_time": 1690168174,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 675460,
+        "num": 675460,
+        "word": "他大概没想过以后会过的那么苦",
+        "onboard_time": 1690164210,
+        "rank": 11,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 673589,
+        "num": 673589,
+        "word": "五个显眼包灵隐寺淋雨合照",
+        "onboard_time": 1690173763,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669829,
+        "num": 669829,
+        "word": "莲花楼塌房文学",
+        "onboard_time": 1690172862,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646261,
+        "num": 646261,
+        "word": "妻子付不起120万赎金装客户帮丈夫电诈",
+        "onboard_time": 1690163972,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638413,
+        "num": 638413,
+        "word": "杨洋演的于途vs宋焰",
+        "onboard_time": 1690168472,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559859,
+        "num": 559859,
+        "word": "坍塌中学体育馆最后一名失联人员找到",
+        "onboard_time": 1690167152,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509378,
+        "num": 509378,
+        "word": "杨颖cos瑶",
+        "onboard_time": 1690174303,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492115,
+        "num": 492115,
+        "word": "齐齐哈尔坍塌事故发现被埋女排教练",
+        "onboard_time": 1690123838,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469077,
+        "num": 469077,
+        "word": "正式确诊为佟湘玉",
+        "onboard_time": 1690173640,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1318539,
+        "num": 458818,
+        "word": "男子游泳大便致泳池被抽干",
+        "onboard_time": 1690175077,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448544,
+        "num": 448544,
+        "word": "爸爸当家",
+        "onboard_time": 1690174959,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408687,
+        "num": 408687,
+        "word": "长相思播三停四",
+        "onboard_time": 1690175858,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406937,
+        "num": 406937,
+        "word": "假如孟宴臣遇见了乔晶晶",
+        "onboard_time": 1690171418,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403982,
+        "num": 403982,
+        "word": "结婚的好处是什么",
+        "onboard_time": 1690173998,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396013,
+        "num": 396013,
+        "word": "魏大勋机场私服",
+        "onboard_time": 1690175077,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 389371,
+        "num": 389371,
+        "word": "孟宴臣立大功",
+        "onboard_time": 1690173522,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383423,
+        "num": 383423,
+        "word": "张艺兴连续三次发背影照了",
+        "onboard_time": 1690169796,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 373207,
+        "num": 373207,
+        "word": "肖战龚俊成毅任嘉伦杨洋都有剧在播",
+        "onboard_time": 1690176217,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351795,
+        "num": 351795,
+        "word": "齐齐哈尔坍塌体育馆已致10人死亡",
+        "onboard_time": 1690159054,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350029,
+        "num": 350029,
+        "word": "原来兔子有两个独立的子宫",
+        "onboard_time": 1690176576,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348884,
+        "num": 348884,
+        "word": "TFBOYS西安演唱会今天开票",
+        "onboard_time": 1690162291,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330520,
+        "num": 330520,
+        "word": "迪丽热巴龚俊安乐传铠甲造型",
+        "onboard_time": 1690174598,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303787,
+        "num": 303787,
+        "word": "8岁女童被两男孩用弹弓射伤致左眼失明",
+        "onboard_time": 1690165832,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297669,
+        "num": 297669,
+        "word": "齐齐哈尔",
+        "onboard_time": 1690154605,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290158,
+        "num": 290158,
+        "word": "杨幂密逃异域公主",
+        "onboard_time": 1690170217,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284281,
+        "num": 284281,
+        "word": "女子买糕点付钱后发现被调包成临期",
+        "onboard_time": 1690172257,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282415,
+        "num": 282415,
+        "word": "优酷抢票",
+        "onboard_time": 1690166253,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273352,
+        "num": 273352,
+        "word": "长相思今日开播",
+        "onboard_time": 1690162891,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244136,
+        "num": 257208,
+        "word": "比亚迪起诉汽车博主索赔500万",
+        "onboard_time": 1690176700,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252910,
+        "num": 252910,
+        "word": "大宋少年志2",
+        "onboard_time": 1690173279,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247754,
+        "num": 247754,
+        "word": "刘涛黑色露背裙",
+        "onboard_time": 1690171475,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240473,
+        "num": 240473,
+        "word": "王一博宋祖儿对视海报",
+        "onboard_time": 1690168896,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238577,
+        "num": 238577,
+        "word": "影院贴男人视力表被指辱女",
+        "onboard_time": 1690175557,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235290,
+        "num": 235290,
+        "word": "女孩穿cos服参加漫展遭老人谩骂",
+        "onboard_time": 1690163070,
+        "rank": 44,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 239332,
+        "num": 233962,
+        "word": "篮协官宣李凯尔获得中国国籍",
+        "onboard_time": 1690167032,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 237102,
+        "num": 233475,
+        "word": "因为倒车入库不进请了个代驾",
+        "onboard_time": 1690167513,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231575,
+        "num": 231575,
+        "word": "封神",
+        "onboard_time": 1690174059,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226349,
+        "num": 226349,
+        "word": "美国和英国争谁家的中餐更好吃",
+        "onboard_time": 1690171536,
+        "rank": 48,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 209513,
+        "num": 209513,
+        "word": "男子不慎抠下派出所石狮子嘴里石球",
+        "onboard_time": 1690161811,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席成都大运会开幕式#"
+    }
+  }
+}
