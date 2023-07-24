@@ -1,7 +1,23 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690168678804,
+  "endTime": 1690169636417,
   "band_list": [
+    {
+      "raw_hot": 2252541,
+      "num": 2252541,
+      "word": "优酷抢票",
+      "onboard_time": 1690166253,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2231361,
+      "num": 2231361,
+      "word": "35人退钱群里34人是托",
+      "onboard_time": 1690167632,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
     {
       "raw_hot": 2079391,
       "num": 2079391,
@@ -19,20 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1938292,
-      "num": 1938292,
-      "word": "优酷抢票",
-      "onboard_time": 1690166253,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1739732,
       "num": 639195,
       "word": "上海厕所一个奇怪的标志",
       "onboard_time": 1690158332,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1672733,
+      "num": 1672733,
+      "word": "坍塌中学体育馆最后一名失联人员找到",
+      "onboard_time": 1690167152,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1530175,
@@ -43,11 +59,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1414527,
-      "num": 1414527,
-      "word": "坍塌中学体育馆最后一名失联人员找到",
-      "onboard_time": 1690167152,
-      "rank": 4,
+      "raw_hot": 1447800,
+      "num": 1447800,
+      "word": "齐齐哈尔34中体育馆坍塌11人死亡",
+      "onboard_time": 1690168595,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -59,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1330814,
-      "num": 1330814,
+      "raw_hot": 1348537,
+      "num": 1348537,
       "word": "他大概没想过以后会过的那么苦",
       "onboard_time": 1690164210,
       "rank": 12,
@@ -139,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 906770,
-      "num": 763117,
-      "word": "35人退钱群里34人是托",
-      "onboard_time": 1690167632,
-      "rank": 10,
-      "category": "社会新闻,财经"
+      "raw_hot": 904152,
+      "num": 841748,
+      "word": "魏大勋不是孟宴臣角色的第一人选",
+      "onboard_time": 1690168174,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 873947,
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729569,
+      "num": 729569,
+      "word": "8岁女童被两男孩用弹弓射伤致左眼失明",
+      "onboard_time": 1690165832,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727758,
       "num": 356515,
       "word": "科目二考试还没开始就挂科了",
@@ -227,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654767,
+      "num": 654767,
+      "word": "杨洋演的于途vs宋焰",
+      "onboard_time": 1690168472,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 652180,
       "num": 438081,
       "word": "因为倒车入库不进请了个代驾",
@@ -249,14 +281,6 @@
       "onboard_time": 1690115732,
       "rank": 21,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 630470,
-      "num": 630470,
-      "word": "8岁女童被两男孩用弹弓射伤致左眼失明",
-      "onboard_time": 1690165832,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625003,
@@ -403,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450215,
-      "num": 450215,
-      "word": "魏大勋不是孟宴臣角色的第一人选",
-      "onboard_time": 1690168174,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 430747,
       "num": 274948,
       "word": "女子坐地铁被安检告知榴莲有5房肉",
@@ -448,6 +464,14 @@
       "word": "封神第一部票房",
       "onboard_time": 1690121798,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 404971,
+      "num": 335621,
+      "word": "王一博宋祖儿对视海报",
+      "onboard_time": 1690168896,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -496,6 +520,14 @@
       "word": "米芒再次被家暴",
       "onboard_time": 1690162530,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 336973,
+      "num": 312761,
+      "word": "风月变",
+      "onboard_time": 1690168114,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -555,6 +587,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307954,
+      "num": 307954,
+      "word": "新疆是碳水爱好者的天堂吧",
+      "onboard_time": 1690168051,
+      "rank": 34,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 294569,
+      "num": 294569,
+      "word": "化妆店里的化妆用品真的很脏",
+      "onboard_time": 1690169015,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293371,
       "num": 293371,
       "word": "于适开拍前才知道自己演姬发",
@@ -584,14 +632,6 @@
       "word": "确定是孟宴臣在自拍",
       "onboard_time": 1690158332,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 286103,
-      "num": 286103,
-      "word": "风月变",
-      "onboard_time": 1690168114,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -635,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265569,
+      "num": 265569,
+      "word": "你每天能睡够7小时吗",
+      "onboard_time": 1690168595,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 262214,
       "num": 262214,
       "word": "张艺兴搞不懂功能先走了",
@@ -657,14 +705,6 @@
       "onboard_time": 1690159293,
       "rank": 32,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 256216,
-      "num": 256216,
-      "word": "新疆是碳水爱好者的天堂吧",
-      "onboard_time": 1690168051,
-      "rank": 34,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 254683,
@@ -697,6 +737,14 @@
       "onboard_time": 1690124917,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 237573,
+      "num": 237573,
+      "word": "养芒果核",
+      "onboard_time": 1690168716,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 236352,
@@ -739,12 +787,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220894,
-      "num": 220894,
-      "word": "杨洋演的于途vs宋焰",
-      "onboard_time": 1690168472,
-      "rank": 37,
+      "raw_hot": 225785,
+      "num": 225785,
+      "word": "热烈",
+      "onboard_time": 1690169073,
+      "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225501,
+      "num": 225501,
+      "word": "真的看到了沙漠下暴雨",
+      "onboard_time": 1690169137,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 219553,
@@ -763,20 +819,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 213782,
+      "num": 213782,
+      "word": "成年后的朋友可以分为三类",
+      "onboard_time": 1690168716,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210386,
       "num": 263922,
       "word": "体育馆楼顶坍塌的中学刚获省女排亚军",
       "onboard_time": 1690128093,
       "rank": 19,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 209974,
-      "num": 209974,
-      "word": "你每天能睡够7小时吗",
-      "onboard_time": 1690168595,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 206480,
@@ -804,7 +860,7 @@
     },
     {
       "raw_hot": 203972,
-      "num": 209950,
+      "num": 212675,
       "word": "温州一企业研发出不沾奶酸奶盖",
       "onboard_time": 1690167691,
       "rank": 39,
@@ -859,14 +915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191847,
-      "num": 209876,
-      "word": "齐齐哈尔34中体育馆坍塌11人死亡",
-      "onboard_time": 1690168595,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190028,
       "num": 190028,
       "word": "为什么打针前要推掉一点药水",
@@ -915,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177304,
+      "num": 212484,
+      "word": "莲花楼",
+      "onboard_time": 1690156288,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174591,
       "num": 209820,
       "word": "热烈海报满满都是爱",
@@ -937,14 +993,6 @@
       "onboard_time": 1690166431,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 171771,
-      "num": 209531,
-      "word": "莲花楼",
-      "onboard_time": 1690156288,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 171000,
@@ -1083,8 +1131,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 98369,
-      "num": 1656470,
+      "raw_hot": 115944,
+      "num": 1685361,
       "word": "成都大运会青春含量拉满",
       "onboard_time": 1690167272,
       "rank": 2,
