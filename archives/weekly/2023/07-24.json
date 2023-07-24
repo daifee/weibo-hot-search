@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690226032742,
+  "endTime": 1690227225322,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -2795,8 +2795,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69318,
-      "num": 69318,
+      "raw_hot": 69687,
+      "num": 69687,
       "word": "换乘瓶邪",
       "onboard_time": 1690222877,
       "rank": 49,
@@ -2819,20 +2819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55872,
+      "num": 55872,
+      "word": "时尚芭莎你真的不考虑一下孟家三口吗",
+      "onboard_time": 1690224435,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 50647,
       "num": 2768071,
       "word": "空军航空开放活动预演现场",
       "onboard_time": 1690197334,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48862,
-      "num": 47907,
-      "word": "时尚芭莎你真的不考虑一下孟家三口吗",
-      "onboard_time": 1690224435,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 36758,
@@ -2889,6 +2889,14 @@
       "onboard_time": 1690107154,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 25695,
+      "num": 25695,
+      "word": "不该对齐齐哈尔事故保持沉默",
+      "onboard_time": 1690225273,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9155,
