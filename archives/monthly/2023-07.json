@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690204936701,
+  "endTime": 1690205625336,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3795,6 +3795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1698263,
+      "num": 381527,
+      "word": "日本第一批不婚的人开始后悔了",
+      "onboard_time": 1690201291,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1697384,
       "num": 1697384,
       "word": "第一次上交工资就被警察查了",
@@ -3808,14 +3816,6 @@
       "word": "杭州女子买彩票误打误撞中了一千万",
       "onboard_time": 1688444505,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1689564,
-      "num": 381527,
-      "word": "日本第一批不婚的人开始后悔了",
-      "onboard_time": 1690201291,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3963,6 +3963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1660452,
+      "num": 1631192,
+      "word": "杨洋剧中睡姿易诱发颈椎病",
+      "onboard_time": 1690200574,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1659793,
       "num": 1659793,
       "word": "花店老板接33700元订单被利用参与洗钱",
@@ -4032,14 +4040,6 @@
       "word": "杨洋新剧别名",
       "onboard_time": 1689939333,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1631192,
-      "num": 1631192,
-      "word": "杨洋剧中睡姿易诱发颈椎病",
-      "onboard_time": 1690200574,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -7227,6 +7227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1128610,
+      "num": 1128610,
+      "word": "叶诗文",
+      "onboard_time": 1690203336,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1127237,
       "num": 639565,
       "word": "Angelababy穿泳装",
@@ -7913,6 +7921,14 @@
       "onboard_time": 1688618026,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1066017,
+      "num": 450430,
+      "word": "沈月 同性之间就一定是纯友谊吗",
+      "onboard_time": 1690204415,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1063643,
@@ -11115,14 +11131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 856987,
-      "num": 856987,
-      "word": "叶诗文",
-      "onboard_time": 1690203336,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 856871,
       "num": 1764219,
       "word": "福宝吃醋了",
@@ -11521,6 +11529,14 @@
       "onboard_time": 1688548113,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 837587,
+      "num": 562252,
+      "word": "长相思热度",
+      "onboard_time": 1690203097,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 836959,
@@ -13849,14 +13865,6 @@
       "onboard_time": 1688563565,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 731056,
-      "num": 442012,
-      "word": "长相思热度",
-      "onboard_time": 1690203097,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 731027,
@@ -18987,6 +18995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 573039,
+      "num": 382567,
+      "word": "大牙回应陈建州范玮琪撤诉",
+      "onboard_time": 1690204533,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573029,
       "num": 397603,
       "word": "周杰伦天津演唱会抢票",
@@ -19393,6 +19409,14 @@
       "onboard_time": 1688208155,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 562436,
+      "num": 252930,
+      "word": "女子体内大量瓜子状活虫",
+      "onboard_time": 1690205076,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562433,
@@ -21865,6 +21889,14 @@
       "onboard_time": 1689735930,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 502880,
+      "num": 364593,
+      "word": "杨澄王莹",
+      "onboard_time": 1690203756,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 502787,
@@ -27515,14 +27547,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 403683,
-      "num": 364593,
-      "word": "杨澄王莹",
-      "onboard_time": 1690203756,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 403666,
       "num": 403666,
       "word": "内娱圆脸女明星",
@@ -28313,14 +28337,6 @@
       "onboard_time": 1689305733,
       "rank": 31,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 393419,
-      "num": 362560,
-      "word": "大牙回应陈建州范玮琪撤诉",
-      "onboard_time": 1690204533,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 392960,
@@ -31225,14 +31241,6 @@
       "onboard_time": 1689500192,
       "rank": 21,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 353687,
-      "num": 353687,
-      "word": "沈月 同性之间就一定是纯友谊吗",
-      "onboard_time": 1690204415,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 353532,
@@ -43163,6 +43171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235613,
+      "num": 235613,
+      "word": "邓为演男狐狸精",
+      "onboard_time": 1690205497,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235567,
       "num": 238864,
       "word": "浮桥",
@@ -44953,6 +44969,14 @@
       "onboard_time": 1688718755,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221734,
+      "num": 221734,
+      "word": "普通家庭的孩子该去看演唱会吗",
+      "onboard_time": 1690205254,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 221709,
@@ -46988,7 +47012,7 @@
     },
     {
       "raw_hot": 208018,
-      "num": 208018,
+      "num": 252741,
       "word": "小伙被缅北放回后与妈妈抱头痛哭",
       "onboard_time": 1690204596,
       "rank": 37,
@@ -50347,6 +50371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187628,
+      "num": 187628,
+      "word": "妖姬",
+      "onboard_time": 1690202914,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187593,
       "num": 1956097,
       "word": "中国人到月球详细步骤曝光",
@@ -51001,14 +51033,6 @@
       "onboard_time": 1688602422,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182442,
-      "num": 182442,
-      "word": "妖姬",
-      "onboard_time": 1690202914,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 182373,
@@ -53825,6 +53849,14 @@
       "onboard_time": 1689435514,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154628,
+      "num": 160779,
+      "word": "90后民警收锦旗秒变显眼包",
+      "onboard_time": 1690205136,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154309,

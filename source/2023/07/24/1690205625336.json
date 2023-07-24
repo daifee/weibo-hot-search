@@ -1,0 +1,410 @@
+{
+  "runTime": 1690205625336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1497733,
+        "num": 1497733,
+        "word": "齐齐哈尔34中体育馆坍塌11人死亡",
+        "onboard_time": 1690168595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1660452,
+        "num": 1340780,
+        "word": "杨洋剧中睡姿易诱发颈椎病",
+        "onboard_time": 1690200574,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65982,
+        "num": 1165645,
+        "word": "一起看成都大运会",
+        "onboard_time": 1690197573,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128610,
+        "num": 1128610,
+        "word": "叶诗文",
+        "onboard_time": 1690203336,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1471660,
+        "num": 1127624,
+        "word": "费翔没想到自己60岁开始要脱衣服",
+        "onboard_time": 1690202614,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1233837,
+        "num": 1116141,
+        "word": "沉香夫妇一个接生一个把脉",
+        "onboard_time": 1690200813,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1053384,
+        "num": 1053384,
+        "word": "涂山璟 官配",
+        "onboard_time": 1690202975,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573594,
+        "num": 573594,
+        "word": "地库出口3岁男童不幸被撞身亡",
+        "onboard_time": 1690195832,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837587,
+        "num": 562252,
+        "word": "长相思热度",
+        "onboard_time": 1690203097,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467339,
+        "num": 467339,
+        "word": "TES对战EDG",
+        "onboard_time": 1690189713,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1456839,
+        "num": 467012,
+        "word": "长相思男主是谁",
+        "onboard_time": 1690200453,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1066017,
+        "num": 450430,
+        "word": "沈月 同性之间就一定是纯友谊吗",
+        "onboard_time": 1690204415,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1016301,
+        "num": 432932,
+        "word": "女子称孕期被丈夫挤压肚子",
+        "onboard_time": 1690190796,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678357,
+        "num": 424732,
+        "word": "吴宣仪 牙贴片已经取了",
+        "onboard_time": 1690188874,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420335,
+        "num": 420335,
+        "word": "保姆一路考证升学工资从5000涨到2万",
+        "onboard_time": 1690195231,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 573133,
+        "num": 408901,
+        "word": "长相思小演员演技",
+        "onboard_time": 1690201593,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573039,
+        "num": 382567,
+        "word": "大牙回应陈建州范玮琪撤诉",
+        "onboard_time": 1690204533,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350150,
+        "num": 350150,
+        "word": "张雨霏夺金",
+        "onboard_time": 1690198053,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1572834,
+        "num": 343575,
+        "word": "记者卧底救了6个被骗缅甸人员",
+        "onboard_time": 1690194632,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332871,
+        "num": 332871,
+        "word": "魏无羡圆梦了",
+        "onboard_time": 1690196854,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1698263,
+        "num": 332732,
+        "word": "日本第一批不婚的人开始后悔了",
+        "onboard_time": 1690201291,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502880,
+        "num": 332033,
+        "word": "杨澄王莹",
+        "onboard_time": 1690203756,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457617,
+        "num": 331699,
+        "word": "长相思",
+        "onboard_time": 1690177239,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86016,
+        "num": 331088,
+        "word": "慕思是懂治愈的",
+        "onboard_time": 1690203993,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387720,
+        "num": 330869,
+        "word": "顾客吃地锅鸡后拼鸡脖长到离谱",
+        "onboard_time": 1690203097,
+        "rank": 24,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 396502,
+        "num": 330194,
+        "word": "舞台2023定档",
+        "onboard_time": 1690201413,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368146,
+        "num": 330094,
+        "word": "谢乔杨澄分手6年后再见",
+        "onboard_time": 1690200031,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329640,
+        "num": 329640,
+        "word": "齐齐哈尔体育馆坍塌事故施工监管何在",
+        "onboard_time": 1690197393,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270112,
+        "num": 270112,
+        "word": "齐齐哈尔坍塌事故学生家长发声",
+        "onboard_time": 1690184796,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253023,
+        "num": 253023,
+        "word": "放假是老师最好的医美吧",
+        "onboard_time": 1690202794,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 562436,
+        "num": 252930,
+        "word": "女子体内大量瓜子状活虫",
+        "onboard_time": 1690205076,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334813,
+        "num": 252861,
+        "word": "优酷TFBOYS演唱会线上只能看三天",
+        "onboard_time": 1690196492,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257132,
+        "num": 252836,
+        "word": "宋了马兄弟",
+        "onboard_time": 1690200933,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252788,
+        "num": 252788,
+        "word": "许沁婚礼伴手礼",
+        "onboard_time": 1690190135,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204478,
+        "num": 252741,
+        "word": "小伙被缅北放回后与妈妈抱头痛哭",
+        "onboard_time": 1690204596,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252711,
+        "num": 252711,
+        "word": "六问齐齐哈尔坍塌事故",
+        "onboard_time": 1690199254,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235613,
+        "num": 235613,
+        "word": "邓为演男狐狸精",
+        "onboard_time": 1690205497,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221734,
+        "num": 221734,
+        "word": "普通家庭的孩子该去看演唱会吗",
+        "onboard_time": 1690205254,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217142,
+        "num": 217142,
+        "word": "齐市坍塌事故施工方中标多个学校项目",
+        "onboard_time": 1690183421,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 210705,
+        "num": 210705,
+        "word": "成为真实人类后的芭比",
+        "onboard_time": 1690200694,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187628,
+        "num": 187628,
+        "word": "妖姬",
+        "onboard_time": 1690202914,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180114,
+        "num": 180114,
+        "word": "TES运营",
+        "onboard_time": 1690197691,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171431,
+        "num": 171431,
+        "word": "叠纸买楼",
+        "onboard_time": 1690196194,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 171229,
+        "num": 171229,
+        "word": "阿娇看体重的样子演我",
+        "onboard_time": 1690197334,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169698,
+        "num": 169698,
+        "word": "女儿翻出妈妈1993年全手写论文",
+        "onboard_time": 1690198532,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 161277,
+        "num": 161277,
+        "word": "李玟姐姐将直播李玟追思会",
+        "onboard_time": 1690190913,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160791,
+        "num": 160791,
+        "word": "TFBOYS抢票",
+        "onboard_time": 1690174959,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154639,
+        "num": 160782,
+        "word": "大学生回老家唯一的作用",
+        "onboard_time": 1690198954,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154628,
+        "num": 160779,
+        "word": "90后民警收锦旗秒变显眼包",
+        "onboard_time": 1690205136,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153594,
+        "num": 160762,
+        "word": "岳云鹏被王一博整害羞了",
+        "onboard_time": 1690195593,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席成都大运会开幕式#"
+    }
+  }
+}
