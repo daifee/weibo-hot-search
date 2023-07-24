@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690222992283,
+  "endTime": 1690223792615,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -2795,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68705,
+      "num": 65792,
+      "word": "换乘瓶邪",
+      "onboard_time": 1690222877,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65846,
       "num": 96017,
       "word": "宁艺卓芭比造型",
@@ -2817,14 +2825,6 @@
       "onboard_time": 1690197334,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41752,
-      "num": 41752,
-      "word": "换乘瓶邪",
-      "onboard_time": 1690222877,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 31492,

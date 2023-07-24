@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690222992283,
+  "endTime": 1690223792615,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -443,20 +443,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68705,
+      "num": 65792,
+      "word": "换乘瓶邪",
+      "onboard_time": 1690222877,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65698,
       "num": 65698,
       "word": "体育馆坍塌事故涉及双重违规",
       "onboard_time": 1690220299,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41752,
-      "num": 41752,
-      "word": "换乘瓶邪",
-      "onboard_time": 1690222877,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 30206,

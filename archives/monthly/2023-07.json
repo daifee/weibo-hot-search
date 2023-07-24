@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690222992283,
+  "endTime": 1690223792615,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -57507,6 +57507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68705,
+      "num": 65792,
+      "word": "换乘瓶邪",
+      "onboard_time": 1690222877,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 68429,
       "num": 2108292,
       "word": "你平时有哪些环保好习惯",
@@ -58105,14 +58113,6 @@
       "onboard_time": 1688706044,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41752,
-      "num": 41752,
-      "word": "换乘瓶邪",
-      "onboard_time": 1690222877,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 41711,
