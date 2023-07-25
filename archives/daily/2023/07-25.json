@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690249429326,
+  "endTime": 1690250601246,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -11,7 +11,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2239085,
+      "raw_hot": 2352046,
       "num": 1552174,
       "word": "我最好的朋友全走了",
       "onboard_time": 1690244075,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1894954,
+      "num": 1894954,
+      "word": "微信内测朋友圈可以置顶了",
+      "onboard_time": 1690245156,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1748852,
       "num": 1748852,
       "word": "瑞幸咖啡三分之二是冰块两口喝完",
@@ -43,16 +51,8 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 1737300,
-      "num": 1737300,
-      "word": "微信内测朋友圈可以置顶了",
-      "onboard_time": 1690245156,
-      "rank": 1,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1547280,
-      "num": 628142,
+      "num": 661269,
       "word": "日本第一批不婚的人开始后悔了",
       "onboard_time": 1690201291,
       "rank": 11,
@@ -139,12 +139,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 730569,
+      "num": 730569,
+      "word": "Angelababy演狐妖疯批美人",
+      "onboard_time": 1690247974,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675816,
       "num": 675816,
       "word": "十年之约为什么不在重庆办",
       "onboard_time": 1690208139,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 666220,
+      "num": 666220,
+      "word": "包丽案二审宣判",
+      "onboard_time": 1690249473,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663899,
@@ -155,20 +171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655717,
+      "num": 655717,
+      "word": "魏大勋到底背着我们接了多少私活",
+      "onboard_time": 1690248755,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 644651,
       "num": 388414,
       "word": "不该对齐齐哈尔事故保持沉默",
       "onboard_time": 1690225273,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628723,
-      "num": 628723,
-      "word": "Angelababy演狐妖疯批美人",
-      "onboard_time": 1690247974,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 609250,
@@ -193,6 +209,14 @@
       "onboard_time": 1690243830,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554853,
+      "num": 554853,
+      "word": "长相思开播第一天热度超玉骨遥",
+      "onboard_time": 1690248215,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 552589,
@@ -315,12 +339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 398689,
-      "num": 398689,
-      "word": "长相思开播第一天热度超玉骨遥",
-      "onboard_time": 1690248215,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 399257,
+      "num": 399257,
+      "word": "排超联赛向齐齐哈尔34中罹难者致哀",
+      "onboard_time": 1690249415,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 388174,
@@ -387,6 +411,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 348163,
+      "num": 297765,
+      "word": "18岁男生往尿道塞了25颗磁力珠",
+      "onboard_time": 1690250372,
+      "rank": 31,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 330991,
       "num": 330991,
       "word": "杨紫7岁到30岁荧幕变化",
@@ -401,14 +433,6 @@
       "onboard_time": 1690213356,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315589,
-      "num": 315589,
-      "word": "魏大勋到底背着我们接了多少私活",
-      "onboard_time": 1690248755,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 308577,
@@ -473,6 +497,14 @@
       "onboard_time": 1690242327,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276462,
+      "num": 276462,
+      "word": "女排",
+      "onboard_time": 1690249532,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 271697,
@@ -595,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220616,
+      "num": 220616,
+      "word": "感受一下西藏的物价",
+      "onboard_time": 1690250493,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213416,
       "num": 213416,
       "word": "封神",
@@ -609,6 +649,14 @@
       "onboard_time": 1690196854,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210701,
+      "num": 206283,
+      "word": "长相思里看到了贤夫娇夫了",
+      "onboard_time": 1690247375,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 208862,
@@ -649,14 +697,6 @@
       "onboard_time": 1690214972,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195463,
-      "num": 195463,
-      "word": "排超联赛向齐齐哈尔34中罹难者致哀",
-      "onboard_time": 1690249415,
-      "rank": 48,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 185971,

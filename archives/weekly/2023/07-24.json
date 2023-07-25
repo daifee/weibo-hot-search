@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690249429326,
+  "endTime": 1690250601246,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2352046,
+      "num": 1552174,
+      "word": "我最好的朋友全走了",
+      "onboard_time": 1690244075,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2252541,
       "num": 2252541,
       "word": "优酷抢票",
       "onboard_time": 1690166253,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2239085,
-      "num": 1552174,
-      "word": "我最好的朋友全走了",
-      "onboard_time": 1690244075,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2202933,
@@ -139,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1894954,
+      "num": 1894954,
+      "word": "微信内测朋友圈可以置顶了",
+      "onboard_time": 1690245156,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1863501,
       "num": 1863501,
       "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
@@ -177,14 +185,6 @@
       "onboard_time": 1690158332,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1737300,
-      "num": 1737300,
-      "word": "微信内测朋友圈可以置顶了",
-      "onboard_time": 1690245156,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1715170,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730569,
+      "num": 730569,
+      "word": "Angelababy演狐妖疯批美人",
+      "onboard_time": 1690247974,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 729569,
       "num": 729569,
       "word": "8岁女童被两男孩用弹弓射伤致左眼失明",
@@ -859,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 666220,
+      "num": 666220,
+      "word": "包丽案二审宣判",
+      "onboard_time": 1690249473,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662935,
       "num": 662935,
       "word": "优酷TFBOYS演唱会线上只能看三天",
@@ -880,6 +896,14 @@
       "word": "迪丽热巴龚俊的手",
       "onboard_time": 1690197093,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 655717,
+      "num": 655717,
+      "word": "魏大勋到底背着我们接了多少私活",
+      "onboard_time": 1690248755,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -952,14 +976,6 @@
       "word": "王一博宋祖儿对视海报",
       "onboard_time": 1690168896,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 628723,
-      "num": 628723,
-      "word": "Angelababy演狐妖疯批美人",
-      "onboard_time": 1690247974,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -1105,6 +1121,14 @@
       "onboard_time": 1690207178,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 554853,
+      "num": 554853,
+      "word": "长相思开播第一天热度超玉骨遥",
+      "onboard_time": 1690248215,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 552589,
@@ -1555,12 +1579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 398689,
-      "num": 398689,
-      "word": "长相思开播第一天热度超玉骨遥",
-      "onboard_time": 1690248215,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 399257,
+      "num": 399257,
+      "word": "排超联赛向齐齐哈尔34中罹难者致哀",
+      "onboard_time": 1690249415,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 396877,
@@ -1739,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 348163,
+      "num": 297765,
+      "word": "18岁男生往尿道塞了25颗磁力珠",
+      "onboard_time": 1690250372,
+      "rank": 31,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 345082,
       "num": 313146,
       "word": "范丞丞王鹤棣情侣头像",
@@ -1905,14 +1937,6 @@
       "onboard_time": 1690163669,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315589,
-      "num": 315589,
-      "word": "魏大勋到底背着我们接了多少私活",
-      "onboard_time": 1690248755,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 315041,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1690155206,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276462,
+      "num": 276462,
+      "word": "女排",
+      "onboard_time": 1690249532,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 271697,
@@ -2443,6 +2475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220616,
+      "num": 220616,
+      "word": "感受一下西藏的物价",
+      "onboard_time": 1690250493,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219553,
       "num": 219553,
       "word": "张远自曝大学初恋",
@@ -2481,6 +2521,14 @@
       "onboard_time": 1690178987,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210701,
+      "num": 206283,
+      "word": "长相思里看到了贤夫娇夫了",
+      "onboard_time": 1690247375,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 210425,
@@ -2617,14 +2665,6 @@
       "onboard_time": 1690193194,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195463,
-      "num": 195463,
-      "word": "排超联赛向齐齐哈尔34中罹难者致哀",
-      "onboard_time": 1690249415,
-      "rank": 48,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 195164,

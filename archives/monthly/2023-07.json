@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690249429326,
+  "endTime": 1690250601246,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1803,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2352046,
+      "num": 1552174,
+      "word": "我最好的朋友全走了",
+      "onboard_time": 1690244075,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2351592,
       "num": 2351592,
       "word": "爱宝",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1690037435,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2239085,
-      "num": 1552174,
-      "word": "我最好的朋友全走了",
-      "onboard_time": 1690244075,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2234171,
@@ -3035,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1894954,
+      "num": 1894954,
+      "word": "微信内测朋友圈可以置顶了",
+      "onboard_time": 1690245156,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1880704,
       "num": 1128536,
       "word": "李玟姐姐呼吁大家不要作任何揣测",
@@ -3745,14 +3753,6 @@
       "onboard_time": 1688257046,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1737300,
-      "num": 1737300,
-      "word": "微信内测朋友圈可以置顶了",
-      "onboard_time": 1690245156,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1733786,
@@ -14083,6 +14083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 730569,
+      "num": 730569,
+      "word": "Angelababy演狐妖疯批美人",
+      "onboard_time": 1690247974,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 730451,
       "num": 2562943,
       "word": "发现自己误成间谍帮手后主动投案",
@@ -15819,6 +15827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666220,
+      "num": 666220,
+      "word": "包丽案二审宣判",
+      "onboard_time": 1690249473,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666082,
       "num": 666082,
       "word": "王宝强把张颜齐认成了周杰伦",
@@ -16329,6 +16345,14 @@
       "onboard_time": 1690081950,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 655717,
+      "num": 655717,
+      "word": "魏大勋到底背着我们接了多少私活",
+      "onboard_time": 1690248755,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 655614,
@@ -17305,14 +17329,6 @@
       "onboard_time": 1688824114,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 628723,
-      "num": 628723,
-      "word": "Angelababy演狐妖疯批美人",
-      "onboard_time": 1690247974,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 628700,
@@ -19960,6 +19976,14 @@
       "word": "任安乐空降",
       "onboard_time": 1688726310,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 554853,
+      "num": 554853,
+      "word": "长相思开播第一天热度超玉骨遥",
+      "onboard_time": 1690248215,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -28315,20 +28339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399257,
+      "num": 399257,
+      "word": "排超联赛向齐齐哈尔34中罹难者致哀",
+      "onboard_time": 1690249415,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 398778,
       "num": 398778,
       "word": "Knight",
       "onboard_time": 1689242136,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 398689,
-      "num": 398689,
-      "word": "长相思开播第一天热度超玉骨遥",
-      "onboard_time": 1690248215,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 398549,
@@ -32171,6 +32195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348163,
+      "num": 297765,
+      "word": "18岁男生往尿道塞了25颗磁力珠",
+      "onboard_time": 1690250372,
+      "rank": 31,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 347728,
       "num": 297103,
       "word": "张杰演唱会",
@@ -34665,14 +34697,6 @@
       "onboard_time": 1689027796,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315589,
-      "num": 315589,
-      "word": "魏大勋到底背着我们接了多少私活",
-      "onboard_time": 1690248755,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 315435,
@@ -45691,6 +45715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220616,
+      "num": 220616,
+      "word": "感受一下西藏的物价",
+      "onboard_time": 1690250493,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220556,
       "num": 220556,
       "word": "剑网3",
@@ -47120,6 +47152,14 @@
       "word": "这是我配看的古偶吻戏吗",
       "onboard_time": 1688376880,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210701,
+      "num": 206283,
+      "word": "长相思里看到了贤夫娇夫了",
+      "onboard_time": 1690247375,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -49577,14 +49617,6 @@
       "onboard_time": 1690193194,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195463,
-      "num": 195463,
-      "word": "排超联赛向齐齐哈尔34中罹难者致哀",
-      "onboard_time": 1690249415,
-      "rank": 48,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 195452,
