@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690266967060,
+  "endTime": 1690269381960,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -296,6 +296,14 @@
       "word": "费翔没想到自己60岁开始要脱衣服",
       "onboard_time": 1690202614,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1599556,
+      "num": 1599556,
+      "word": "杨澄终生未娶王莹终生未嫁",
+      "onboard_time": 1690265564,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -611,14 +619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1019829,
-      "num": 1019829,
-      "word": "杨澄终生未娶王莹终生未嫁",
-      "onboard_time": 1690265564,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1016480,
       "num": 1016480,
       "word": "颖儿家暴戏至少化妆2小时",
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 929165,
+      "num": 736678,
+      "word": "吴亦凡公司仅剩1家存续",
+      "onboard_time": 1690265201,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 914403,
       "num": 914403,
       "word": "吴亦凡经纪公司涉多起代言纠纷",
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 889270,
-      "num": 415850,
+      "num": 439832,
       "word": "做饭阿姨做假账",
       "onboard_time": 1690262866,
       "rank": 30,
@@ -875,11 +883,27 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 804128,
+      "num": 804128,
+      "word": "吴亦凡表哥未履行1.45亿欠款",
+      "onboard_time": 1690268379,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 802317,
       "num": 802317,
       "word": "Angelababy演狐妖疯批美人",
       "onboard_time": 1690247974,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 800695,
+      "num": 800695,
+      "word": "杨紫工作室再也不皮了",
+      "onboard_time": 1690265263,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -993,6 +1017,22 @@
       "onboard_time": 1690257818,
       "rank": 18,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 740166,
+      "num": 740166,
+      "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
+      "onboard_time": 1690265440,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 730785,
+      "num": 730785,
+      "word": "染发后竟然变成了光头",
+      "onboard_time": 1690267302,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 729569,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1690264184,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 659730,
-      "num": 659730,
-      "word": "杨紫工作室再也不皮了",
-      "onboard_time": 1690265263,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 658165,
@@ -1491,20 +1523,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 534487,
-      "num": 515793,
-      "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
-      "onboard_time": 1690265440,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 532795,
       "num": 532795,
       "word": "全麻手术人是不会自主呼吸的",
       "onboard_time": 1690242390,
       "rank": 15,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 532045,
+      "num": 532045,
+      "word": "39岁硕士称找工作因年龄被卡",
+      "onboard_time": 1690266820,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 531587,
@@ -1521,14 +1553,6 @@
       "onboard_time": 1690128270,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 526700,
-      "num": 526700,
-      "word": "吴亦凡公司仅剩1家存续",
-      "onboard_time": 1690265201,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 524728,
@@ -1641,6 +1665,14 @@
       "onboard_time": 1690245094,
       "rank": 17,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 492406,
+      "num": 492406,
+      "word": "河北行唐5名初中毕业生溺亡",
+      "onboard_time": 1690267539,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483686,
@@ -1891,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430068,
+      "num": 333618,
+      "word": "蔡英文确诊新冠肺炎",
+      "onboard_time": 1690268500,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428086,
       "num": 428086,
       "word": "郑恺杜海涛用的什么防晒",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1690121798,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406296,
+      "num": 406296,
+      "word": "发了工资还要对老板感恩",
+      "onboard_time": 1690266340,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 405943,
@@ -2131,6 +2179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375341,
+      "num": 375341,
+      "word": "相柳性张力",
+      "onboard_time": 1690268858,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373687,
       "num": 373687,
       "word": "阿娇看体重的样子演我",
@@ -2161,6 +2217,14 @@
       "onboard_time": 1690246656,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 361815,
+      "num": 361815,
+      "word": "王者荣耀",
+      "onboard_time": 1690266521,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 360336,
@@ -2283,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338888,
+      "num": 338888,
+      "word": "在飞机上称呼空姐什么最合适",
+      "onboard_time": 1690266039,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338562,
       "num": 295047,
       "word": "封神",
@@ -2315,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334589,
+      "num": 334589,
+      "word": "时代少年团出发西安",
+      "onboard_time": 1690266039,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333664,
       "num": 333664,
       "word": "中国孩子必会的填空题",
@@ -2329,14 +2409,6 @@
       "onboard_time": 1690191633,
       "rank": 25,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 332471,
-      "num": 332471,
-      "word": "在飞机上称呼空姐什么最合适",
-      "onboard_time": 1690266039,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 331558,
@@ -2385,6 +2457,14 @@
       "onboard_time": 1690207778,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327331,
+      "num": 327331,
+      "word": "秦川谢乔结婚了",
+      "onboard_time": 1690266880,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 326316,
@@ -2497,6 +2577,14 @@
       "onboard_time": 1690262805,
       "rank": 40,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 310659,
+      "num": 310659,
+      "word": "时代峰峻对时代少年团的定位不清楚",
+      "onboard_time": 1690267060,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 310232,
@@ -2715,14 +2803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278216,
-      "num": 278216,
-      "word": "时代少年团出发西安",
-      "onboard_time": 1690266039,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277065,
       "num": 277065,
       "word": "沈月说现在分享vlog也有压力",
@@ -2761,14 +2841,6 @@
       "onboard_time": 1690263105,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271789,
-      "num": 271789,
-      "word": "发了工资还要对老板感恩",
-      "onboard_time": 1690266340,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 271697,
@@ -2833,6 +2905,14 @@
       "onboard_time": 1690204596,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260360,
+      "num": 260360,
+      "word": "涂山璟微微一笑很倾城",
+      "onboard_time": 1690269100,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 259442,
@@ -3115,20 +3195,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219758,
-      "num": 219758,
-      "word": "王者荣耀",
-      "onboard_time": 1690266521,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219553,
       "num": 219553,
       "word": "张远自曝大学初恋",
       "onboard_time": 1690121501,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217715,
+      "num": 217715,
+      "word": "各省有各省的省饭",
+      "onboard_time": 1690267359,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 215223,
@@ -3251,12 +3331,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205451,
+      "num": 205451,
+      "word": "森林进化论",
+      "onboard_time": 1690268977,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205431,
       "num": 189674,
       "word": "宋焰许沁婚房在高铁旁边",
       "onboard_time": 1690106731,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205097,
+      "num": 205097,
+      "word": "双胞胎兄弟凭实力喂胖自己",
+      "onboard_time": 1690268500,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 201846,
@@ -3321,14 +3417,6 @@
       "onboard_time": 1690252112,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198928,
-      "num": 198928,
-      "word": "秦川谢乔结婚了",
-      "onboard_time": 1690266880,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 196352,
@@ -3483,6 +3571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184367,
+      "num": 203462,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1690268675,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184312,
       "num": 201051,
       "word": "闪耀暖暖四周年",
@@ -3539,6 +3635,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 172805,
+      "num": 203395,
+      "word": "正式确诊为拜拜爱好者",
+      "onboard_time": 1690269278,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171922,
       "num": 195257,
       "word": "周一哪有不疯的人",
@@ -3585,14 +3689,6 @@
       "onboard_time": 1690157852,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162686,
-      "num": 195992,
-      "word": "39岁硕士称找工作因年龄被卡",
-      "onboard_time": 1690266820,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 160923,

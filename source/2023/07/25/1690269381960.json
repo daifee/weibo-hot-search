@@ -1,0 +1,410 @@
+{
+  "runTime": 1690269381960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5652796,
+        "num": 5652796,
+        "word": "吴亦凡犯强奸聚众淫乱二审开庭",
+        "onboard_time": 1690261661,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 3044921,
+        "num": 3044921,
+        "word": "吴亦凡不服一审提起上诉",
+        "onboard_time": 1690262142,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 78498,
+        "num": 1753587,
+        "word": "成都大运会3天倒计时",
+        "onboard_time": 1690256615,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1599556,
+        "num": 1599556,
+        "word": "杨澄终生未娶王莹终生未嫁",
+        "onboard_time": 1690265564,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1279465,
+        "num": 1279465,
+        "word": "瘦了30斤以后侧脸的变化",
+        "onboard_time": 1690262805,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 883201,
+        "num": 883201,
+        "word": "刀郎新歌被指内涵四位明星",
+        "onboard_time": 1690263225,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 851599,
+        "num": 851599,
+        "word": "罗云熙吴倩演张晚意爸妈",
+        "onboard_time": 1690262085,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804128,
+        "num": 804128,
+        "word": "吴亦凡表哥未履行1.45亿欠款",
+        "onboard_time": 1690268379,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 800695,
+        "num": 800695,
+        "word": "杨紫工作室再也不皮了",
+        "onboard_time": 1690265263,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 740166,
+        "num": 740166,
+        "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
+        "onboard_time": 1690265440,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 929165,
+        "num": 736678,
+        "word": "吴亦凡公司仅剩1家存续",
+        "onboard_time": 1690265201,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 730785,
+        "num": 730785,
+        "word": "染发后竟然变成了光头",
+        "onboard_time": 1690267302,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 677897,
+        "num": 677897,
+        "word": "断崖式变丑",
+        "onboard_time": 1690260816,
+        "rank": 12,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 642440,
+        "num": 642440,
+        "word": "吴亦凡经纪公司涉多起代言纠纷",
+        "onboard_time": 1690265680,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 595616,
+        "num": 595616,
+        "word": "吴亦凡案二审择期宣判",
+        "onboard_time": 1690261780,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 532045,
+        "num": 532045,
+        "word": "39岁硕士称找工作因年龄被卡",
+        "onboard_time": 1690266820,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 492406,
+        "num": 492406,
+        "word": "河北行唐5名初中毕业生溺亡",
+        "onboard_time": 1690267539,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481314,
+        "num": 481314,
+        "word": "请黄晓明把自己焊死在民国剧",
+        "onboard_time": 1690260936,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480861,
+        "num": 480861,
+        "word": "瑞幸回应咖啡三分之二冰块两口喝完",
+        "onboard_time": 1690257936,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 455791,
+        "num": 455791,
+        "word": "冯提莫否认点评周传雄",
+        "onboard_time": 1690264184,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551669,
+        "num": 439832,
+        "word": "做饭阿姨做假账",
+        "onboard_time": 1690262866,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406296,
+        "num": 406296,
+        "word": "发了工资还要对老板感恩",
+        "onboard_time": 1690266340,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 380962,
+        "num": 380962,
+        "word": "电子呕吐物",
+        "onboard_time": 1690256976,
+        "rank": 22,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 378291,
+        "num": 378291,
+        "word": "迪丽热巴火焰裙",
+        "onboard_time": 1690253371,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 375341,
+        "num": 375341,
+        "word": "相柳性张力",
+        "onboard_time": 1690268858,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361815,
+        "num": 361815,
+        "word": "王者荣耀",
+        "onboard_time": 1690266521,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340473,
+        "num": 340473,
+        "word": "华西村村民称工资仅发20%其余留村里",
+        "onboard_time": 1690264004,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339671,
+        "num": 339671,
+        "word": "何炅神预言TFBOYS十周年演唱会",
+        "onboard_time": 1690254275,
+        "rank": 27,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 338888,
+        "num": 338888,
+        "word": "在飞机上称呼空姐什么最合适",
+        "onboard_time": 1690266039,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334589,
+        "num": 334589,
+        "word": "时代少年团出发西安",
+        "onboard_time": 1690266039,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430068,
+        "num": 333618,
+        "word": "蔡英文确诊新冠肺炎",
+        "onboard_time": 1690268500,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327331,
+        "num": 327331,
+        "word": "秦川谢乔结婚了",
+        "onboard_time": 1690266880,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310659,
+        "num": 310659,
+        "word": "时代峰峻对时代少年团的定位不清楚",
+        "onboard_time": 1690267060,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285065,
+        "num": 285065,
+        "word": "TFBOYS每家都有合作的电池品牌",
+        "onboard_time": 1690263463,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260360,
+        "num": 260360,
+        "word": "涂山璟微微一笑很倾城",
+        "onboard_time": 1690269100,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257634,
+        "num": 257634,
+        "word": "中国独有的公摊面积为什么还不取消",
+        "onboard_time": 1690262329,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 230517,
+        "num": 230517,
+        "word": "严浩翔回应时代少年团歌难听",
+        "onboard_time": 1690263702,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217715,
+        "num": 217715,
+        "word": "各省有各省的省饭",
+        "onboard_time": 1690267359,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215123,
+        "num": 215123,
+        "word": "凯文最应该向王一博道歉",
+        "onboard_time": 1690264004,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205451,
+        "num": 205451,
+        "word": "森林进化论",
+        "onboard_time": 1690268977,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205097,
+        "num": 205097,
+        "word": "双胞胎兄弟凭实力喂胖自己",
+        "onboard_time": 1690268500,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203511,
+        "num": 203511,
+        "word": "大学是穿衣包容度最高的地方",
+        "onboard_time": 1690261477,
+        "rank": 41,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 188740,
+        "num": 203505,
+        "word": "长相思",
+        "onboard_time": 1690240584,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184480,
+        "num": 203489,
+        "word": "于晓光说特别对不起秋瓷炫",
+        "onboard_time": 1690251630,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184367,
+        "num": 203462,
+        "word": "张韶涵演唱会",
+        "onboard_time": 1690268675,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182526,
+        "num": 203442,
+        "word": "杨紫长相思第16集恢复女装",
+        "onboard_time": 1690253974,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179084,
+        "num": 203432,
+        "word": "TFBOYS演唱会门票不可转让",
+        "onboard_time": 1690259860,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177866,
+        "num": 203413,
+        "word": "娜然浴池戏被袁泉的眼睛迷住了",
+        "onboard_time": 1690259860,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172805,
+        "num": 203395,
+        "word": "正式确诊为拜拜爱好者",
+        "onboard_time": 1690269278,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154947,
+        "num": 203364,
+        "word": "魏大勋也很想留住这批观众吧",
+        "onboard_time": 1690250613,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央为下半年经济工作划出重点#"
+    }
+  }
+}
