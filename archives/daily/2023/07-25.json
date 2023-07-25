@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690292042018,
+  "endTime": 1690294565655,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2734025,
-      "num": 556549,
+      "num": 600555,
       "word": "王雪峰被逮捕",
       "onboard_time": 1690276960,
       "rank": 25,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1307001,
+      "num": 1307001,
+      "word": "LNG战胜WBG",
+      "onboard_time": 1690293765,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1290702,
       "num": 1290702,
       "word": "TFBOYS官博倡议演唱会不应援",
@@ -411,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 928469,
+      "num": 928469,
+      "word": "十七看到小六脖子上的咬痕的反应",
+      "onboard_time": 1690288179,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 924093,
       "num": 924093,
       "word": "六公主评追星乱象",
@@ -459,12 +475,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 846692,
-      "num": 846692,
-      "word": "十七看到小六脖子上的咬痕的反应",
-      "onboard_time": 1690288179,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 836022,
+      "num": 836022,
+      "word": "黄锐说释怀了",
+      "onboard_time": 1690292561,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 835258,
@@ -563,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 789946,
+      "num": 789946,
+      "word": "WBG心态",
+      "onboard_time": 1690285243,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 786453,
       "num": 656944,
       "word": "陈建州经纪人回应对大牙撤诉",
@@ -659,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665076,
+      "num": 665076,
+      "word": "液断减肥",
+      "onboard_time": 1690291478,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 663899,
       "num": 663899,
       "word": "黑龙江省政府已成立联合调查组",
@@ -740,7 +772,7 @@
     },
     {
       "raw_hot": 627108,
-      "num": 415988,
+      "num": 431413,
       "word": "全家吃剩西瓜中毒住院花5400",
       "onboard_time": 1690287639,
       "rank": 22,
@@ -801,6 +833,14 @@
       "onboard_time": 1690276658,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 590142,
+      "num": 590142,
+      "word": "LNG对战WBG",
+      "onboard_time": 1690278276,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 572236,
@@ -876,11 +916,19 @@
     },
     {
       "raw_hot": 530964,
-      "num": 415120,
+      "num": 438209,
       "word": "长相思2023热度最快破28000",
       "onboard_time": 1690286501,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 528546,
+      "num": 661722,
+      "word": "成都暴雨",
+      "onboard_time": 1690290637,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523993,
@@ -1075,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454704,
+      "num": 454704,
+      "word": "杨紫檀健次长相思情头",
+      "onboard_time": 1690291601,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454488,
       "num": 454488,
       "word": "五月天西安",
@@ -1099,8 +1155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438850,
-      "num": 349852,
+      "raw_hot": 439795,
+      "num": 439795,
       "word": "第一次喝咖啡的司机在高速上突然窒息",
       "onboard_time": 1690290520,
       "rank": 25,
@@ -1171,14 +1227,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 423115,
-      "num": 423115,
-      "word": "WBG心态",
-      "onboard_time": 1690285243,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 421789,
       "num": 421789,
       "word": "魏大勋新剧捧花杀青照",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1690280678,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418281,
+      "num": 418281,
+      "word": "去拥有一只小狗就不会再去想死亡了",
+      "onboard_time": 1690292440,
+      "rank": 25,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 414293,
@@ -1291,14 +1347,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 380824,
-      "num": 380824,
-      "word": "LNG对战WBG",
-      "onboard_time": 1690278276,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 375553,
       "num": 375553,
       "word": "张小斐说想像林双一样勇敢",
@@ -1395,14 +1443,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 350886,
-      "num": 350886,
-      "word": "成都暴雨",
-      "onboard_time": 1690290637,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348163,
       "num": 297765,
       "word": "18岁男生往尿道塞了25颗磁力珠",
@@ -1443,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332762,
+      "num": 328187,
+      "word": "杨紫开始不知道玟小六是小夭",
+      "onboard_time": 1690294180,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330991,
       "num": 330991,
       "word": "杨紫7岁到30岁荧幕变化",
@@ -1475,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329010,
+      "num": 329010,
+      "word": "盗墓笔记复刻",
+      "onboard_time": 1690292440,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 327331,
       "num": 327331,
       "word": "秦川谢乔结婚了",
@@ -1497,14 +1553,6 @@
       "onboard_time": 1690261477,
       "rank": 47,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 323209,
-      "num": 323209,
-      "word": "杨紫檀健次长相思情头",
-      "onboard_time": 1690291601,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 323033,
@@ -1552,6 +1600,22 @@
       "word": "热烈路演",
       "onboard_time": 1690290520,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304252,
+      "num": 304252,
+      "word": "LNG什么运营",
+      "onboard_time": 1690293162,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 303438,
+      "num": 303438,
+      "word": "卡斯柏谈和王一博对手戏",
+      "onboard_time": 1690294003,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1891,12 +1955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226347,
-      "num": 226347,
-      "word": "液断减肥",
-      "onboard_time": 1690291478,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 226527,
+      "num": 226527,
+      "word": "夭璟我好嗑",
+      "onboard_time": 1690294122,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 223146,
@@ -1985,6 +2049,14 @@
       "onboard_time": 1690215153,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 207593,
+      "num": 207593,
+      "word": "涂山璟九条尾巴可以给相柳当围脖",
+      "onboard_time": 1690294479,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 206869,
@@ -2203,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163099,
+      "num": 527163,
+      "word": "睡觉是对下雨天的基本尊重",
+      "onboard_time": 1690291719,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154370,
       "num": 168487,
       "word": "中国孩子必会的填空题",
@@ -2339,14 +2419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83730,
-      "num": 230608,
-      "word": "睡觉是对下雨天的基本尊重",
-      "onboard_time": 1690291719,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80145,
       "num": 80145,
       "word": "换乘瓶邪",
@@ -2360,6 +2432,14 @@
       "word": "张琳艳给自己首战打8分",
       "onboard_time": 1690261239,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68477,
+      "num": 1021696,
+      "word": "感受成都大运会科技与文化交融之美",
+      "onboard_time": 1690290400,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -2385,14 +2465,6 @@
       "onboard_time": 1690275999,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 44924,
-      "num": 937536,
-      "word": "感受成都大运会科技与文化交融之美",
-      "onboard_time": 1690290400,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 36758,
