@@ -1,0 +1,410 @@
+{
+  "runTime": 1690253292620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2008960,
+        "num": 2008960,
+        "word": "微信内测朋友圈可以置顶了",
+        "onboard_time": 1690245156,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1155451,
+        "num": 1155451,
+        "word": "于晓光说特别对不起秋瓷炫",
+        "onboard_time": 1690251630,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10423,
+        "num": 1021236,
+        "word": "空军航空开放活动预演现场",
+        "onboard_time": 1690197334,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890228,
+        "num": 890228,
+        "word": "杨紫在长相思是演男人吗",
+        "onboard_time": 1690244315,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 835258,
+        "num": 835258,
+        "word": "魏大勋到底背着我们接了多少私活",
+        "onboard_time": 1690248755,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 877897,
+        "num": 820363,
+        "word": "电竞选手叮当猫去世",
+        "onboard_time": 1690241967,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 802317,
+        "num": 802317,
+        "word": "Angelababy演狐妖疯批美人",
+        "onboard_time": 1690247974,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 801853,
+        "num": 801853,
+        "word": "感受一下西藏的物价",
+        "onboard_time": 1690250493,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 692179,
+        "num": 760571,
+        "word": "瑞幸咖啡三分之二是冰块两口喝完",
+        "onboard_time": 1690239982,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 525622,
+        "num": 752934,
+        "word": "包丽案二审宣判",
+        "onboard_time": 1690249473,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2102796,
+        "num": 751994,
+        "word": "齐齐哈尔教育局距坍塌体育馆仅49米",
+        "onboard_time": 1690247312,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747845,
+        "num": 747845,
+        "word": "日本第一批不婚的人开始后悔了",
+        "onboard_time": 1690201291,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730633,
+        "num": 730633,
+        "word": "我的人间烟火评分降到3.8分",
+        "onboard_time": 1690251154,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 623853,
+        "num": 623853,
+        "word": "长相思开播第一天热度超玉骨遥",
+        "onboard_time": 1690248215,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 615972,
+        "num": 615972,
+        "word": "狗狗的牙齿竟然是小手套形状",
+        "onboard_time": 1690252173,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 614543,
+        "num": 614543,
+        "word": "暑期实习下班被误认为领导",
+        "onboard_time": 1690248156,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521474,
+        "num": 521474,
+        "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
+        "onboard_time": 1690210423,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490713,
+        "num": 490713,
+        "word": "电子付款让人对钱没了概念",
+        "onboard_time": 1690245336,
+        "rank": 17,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 471613,
+        "num": 471613,
+        "word": "惠若琪要教齐齐哈尔幸存球员打排球",
+        "onboard_time": 1690243774,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 461234,
+        "num": 461234,
+        "word": "魏大勋也很想留住这批观众吧",
+        "onboard_time": 1690250613,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1488577,
+        "num": 452976,
+        "word": "我最好的朋友全走了",
+        "onboard_time": 1690244075,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503189,
+        "num": 438747,
+        "word": "通勤1公里要不要买电动车",
+        "onboard_time": 1690251577,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417341,
+        "num": 417341,
+        "word": "冯提莫 女孩子们一定不要精神内耗",
+        "onboard_time": 1690211440,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 394747,
+        "num": 394747,
+        "word": "排超联赛向齐齐哈尔34中罹难者致哀",
+        "onboard_time": 1690249415,
+        "rank": 23,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 374913,
+        "num": 374913,
+        "word": "齐齐哈尔多位救援人员发声",
+        "onboard_time": 1690242268,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364947,
+        "num": 364947,
+        "word": "长相思",
+        "onboard_time": 1690240584,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352959,
+        "num": 352959,
+        "word": "当独生小狗发现自己多了个妹妹",
+        "onboard_time": 1690245094,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 334888,
+        "num": 334888,
+        "word": "台风",
+        "onboard_time": 1690248456,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326316,
+        "num": 326316,
+        "word": "长相思有自己的TFBOYS",
+        "onboard_time": 1690250795,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276616,
+        "num": 325321,
+        "word": "牟林翰虐待罪上诉案宣判",
+        "onboard_time": 1690252355,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325067,
+        "num": 325067,
+        "word": "吴宣仪算不算旺男主的体质",
+        "onboard_time": 1690252774,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310232,
+        "num": 310232,
+        "word": "这cosplay吴京看了都要愣三秒",
+        "onboard_time": 1690251934,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 304067,
+        "num": 304067,
+        "word": "齐齐哈尔市市长沉痛哀悼",
+        "onboard_time": 1690209590,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299408,
+        "num": 299408,
+        "word": "当我出门忘关18度的空调时",
+        "onboard_time": 1690253076,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298709,
+        "num": 298709,
+        "word": "女子在南京地铁车厢喝水被开罚单",
+        "onboard_time": 1690252894,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290899,
+        "num": 290899,
+        "word": "三十四中门前的黄桃罐头和AD钙奶",
+        "onboard_time": 1690251094,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270037,
+        "num": 270037,
+        "word": "女排",
+        "onboard_time": 1690249532,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260861,
+        "num": 260861,
+        "word": "秋瓷炫给于晓光和儿子听写韩语",
+        "onboard_time": 1690243830,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260080,
+        "num": 260080,
+        "word": "齐齐哈尔坍塌事故原因初步查明",
+        "onboard_time": 1690209826,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258286,
+        "num": 258286,
+        "word": "祖孙3人散步被轿车迎面撞死",
+        "onboard_time": 1690241728,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224648,
+        "num": 224648,
+        "word": "妈妈吐槽女儿房间像另一个次元",
+        "onboard_time": 1690244677,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220430,
+        "num": 220430,
+        "word": "客服回应TFBOYS演唱会线上只能看三天",
+        "onboard_time": 1690212820,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212998,
+        "num": 212998,
+        "word": "独家童话",
+        "onboard_time": 1690252355,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209106,
+        "num": 209106,
+        "word": "地铁上的水果标志是干嘛用的",
+        "onboard_time": 1690245635,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202727,
+        "num": 202727,
+        "word": "王子奇王玉雯都在追欢颜",
+        "onboard_time": 1690245696,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201026,
+        "num": 201026,
+        "word": "看见狗被轮胎追杀了",
+        "onboard_time": 1690247254,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200435,
+        "num": 200435,
+        "word": "乐队歌手演出时当众脱裤子被行拘",
+        "onboard_time": 1690245757,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 199821,
+        "num": 199821,
+        "word": "摇光录",
+        "onboard_time": 1690252112,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197561,
+        "num": 197561,
+        "word": "伊能静科普三伏天适合瘦身",
+        "onboard_time": 1690240945,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 197426,
+        "num": 197426,
+        "word": "沈月 同性之间就一定是纯友谊吗",
+        "onboard_time": 1690204415,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好下半年经济工作要坚持稳中求进#"
+    }
+  }
+}

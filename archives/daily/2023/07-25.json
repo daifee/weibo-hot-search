@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690250601246,
+  "endTime": 1690253292620,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -19,12 +19,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2054437,
+      "raw_hot": 2102796,
       "num": 1521451,
       "word": "齐齐哈尔教育局距坍塌体育馆仅49米",
       "onboard_time": 1690247312,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2008960,
+      "num": 2008960,
+      "word": "微信内测朋友圈可以置顶了",
+      "onboard_time": 1690245156,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 1908645,
@@ -33,14 +41,6 @@
       "onboard_time": 1690209826,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1894954,
-      "num": 1894954,
-      "word": "微信内测朋友圈可以置顶了",
-      "onboard_time": 1690245156,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1748852,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1547280,
-      "num": 661269,
+      "num": 747845,
       "word": "日本第一批不婚的人开始后悔了",
       "onboard_time": 1690201291,
       "rank": 11,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1155451,
+      "num": 1155451,
+      "word": "于晓光说特别对不起秋瓷炫",
+      "onboard_time": 1690251630,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1097288,
       "num": 1016482,
       "word": "冯提莫 女孩子们一定不要精神内耗",
@@ -123,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 835258,
+      "num": 835258,
+      "word": "魏大勋到底背着我们接了多少私活",
+      "onboard_time": 1690248755,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 815601,
       "num": 815601,
       "word": "电子付款让人对钱没了概念",
@@ -139,11 +155,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 730569,
-      "num": 730569,
+      "raw_hot": 802317,
+      "num": 802317,
       "word": "Angelababy演狐妖疯批美人",
       "onboard_time": 1690247974,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 801853,
+      "num": 801853,
+      "word": "感受一下西藏的物价",
+      "onboard_time": 1690250493,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 730633,
+      "num": 730633,
+      "word": "我的人间烟火评分降到3.8分",
+      "onboard_time": 1690251154,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -156,7 +188,7 @@
     },
     {
       "raw_hot": 666220,
-      "num": 666220,
+      "num": 752934,
       "word": "包丽案二审宣判",
       "onboard_time": 1690249473,
       "rank": 9,
@@ -171,20 +203,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655717,
-      "num": 655717,
-      "word": "魏大勋到底背着我们接了多少私活",
-      "onboard_time": 1690248755,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 644651,
       "num": 388414,
       "word": "不该对齐齐哈尔事故保持沉默",
       "onboard_time": 1690225273,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623853,
+      "num": 623853,
+      "word": "长相思开播第一天热度超玉骨遥",
+      "onboard_time": 1690248215,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 615972,
+      "num": 615972,
+      "word": "狗狗的牙齿竟然是小手套形状",
+      "onboard_time": 1690252173,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 614543,
+      "num": 614543,
+      "word": "暑期实习下班被误认为领导",
+      "onboard_time": 1690248156,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 609250,
@@ -209,14 +257,6 @@
       "onboard_time": 1690243830,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 554853,
-      "num": 554853,
-      "word": "长相思开播第一天热度超玉骨遥",
-      "onboard_time": 1690248215,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 552589,
@@ -251,14 +291,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 514953,
-      "num": 352806,
-      "word": "暑期实习下班被误认为领导",
-      "onboard_time": 1690248156,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 513596,
       "num": 513596,
       "word": "父亲回应3岁女儿坐高铁10小时不哭闹",
@@ -283,12 +315,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 503189,
+      "num": 438747,
+      "word": "通勤1公里要不要买电动车",
+      "onboard_time": 1690251577,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 497417,
       "num": 497417,
       "word": "当独生小狗发现自己多了个妹妹",
       "onboard_time": 1690245094,
       "rank": 17,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 461234,
+      "num": 461234,
+      "word": "魏大勋也很想留住这批观众吧",
+      "onboard_time": 1690250613,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 456578,
@@ -379,8 +427,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363696,
-      "num": 363696,
+      "raw_hot": 364947,
+      "num": 364947,
       "word": "长相思",
       "onboard_time": 1690240584,
       "rank": 24,
@@ -419,6 +467,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 334888,
+      "num": 334888,
+      "word": "台风",
+      "onboard_time": 1690248456,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330991,
       "num": 330991,
       "word": "杨紫7岁到30岁荧幕变化",
@@ -433,6 +489,30 @@
       "onboard_time": 1690213356,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326316,
+      "num": 326316,
+      "word": "长相思有自己的TFBOYS",
+      "onboard_time": 1690250795,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 325067,
+      "num": 325067,
+      "word": "吴宣仪算不算旺男主的体质",
+      "onboard_time": 1690252774,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 310232,
+      "num": 310232,
+      "word": "这cosplay吴京看了都要愣三秒",
+      "onboard_time": 1690251934,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 308577,
@@ -459,11 +539,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299408,
+      "num": 299408,
+      "word": "当我出门忘关18度的空调时",
+      "onboard_time": 1690253076,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 298709,
+      "num": 298709,
+      "word": "女子在南京地铁车厢喝水被开罚单",
+      "onboard_time": 1690252894,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292896,
       "num": 353530,
       "word": "齐齐哈尔召开体育馆坍塌事故发布会",
       "onboard_time": 1690210005,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290899,
+      "num": 290899,
+      "word": "三十四中门前的黄桃罐头和AD钙奶",
+      "onboard_time": 1690251094,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -497,6 +601,14 @@
       "onboard_time": 1690242327,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276616,
+      "num": 325321,
+      "word": "牟林翰虐待罪上诉案宣判",
+      "onboard_time": 1690252355,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276462,
@@ -603,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224951,
-      "num": 224951,
-      "word": "台风",
-      "onboard_time": 1690248456,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223146,
       "num": 223146,
       "word": "EDG冒泡赛",
@@ -627,19 +731,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 220616,
-      "num": 220616,
-      "word": "感受一下西藏的物价",
-      "onboard_time": 1690250493,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 213416,
       "num": 213416,
       "word": "封神",
       "onboard_time": 1690246056,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212998,
+      "num": 212998,
+      "word": "独家童话",
+      "onboard_time": 1690252355,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -697,6 +801,14 @@
       "onboard_time": 1690214972,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199821,
+      "num": 199821,
+      "word": "摇光录",
+      "onboard_time": 1690252112,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 185971,
