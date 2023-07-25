@@ -1,0 +1,410 @@
+{
+  "runTime": 1690273301621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3279819,
+        "num": 3279819,
+        "word": "吴亦凡犯强奸聚众淫乱二审开庭",
+        "onboard_time": 1690261661,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1315806,
+        "num": 1315806,
+        "word": "杨澄终生未娶王莹终生未嫁",
+        "onboard_time": 1690265564,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12163,
+        "num": 1016285,
+        "word": "相约成都青春大运",
+        "onboard_time": 1690273057,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 957079,
+        "num": 957079,
+        "word": "瘦了30斤以后侧脸的变化",
+        "onboard_time": 1690262805,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 832225,
+        "num": 832225,
+        "word": "39岁硕士称找工作因年龄被卡",
+        "onboard_time": 1690266820,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 698269,
+        "num": 698269,
+        "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
+        "onboard_time": 1690265440,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652867,
+        "num": 652867,
+        "word": "染发后竟然变成了光头",
+        "onboard_time": 1690267302,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 652809,
+        "num": 652809,
+        "word": "吴亦凡不服一审提起上诉",
+        "onboard_time": 1690262142,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 635261,
+        "num": 635261,
+        "word": "齐齐哈尔罹难球员曾说以后当世界冠军",
+        "onboard_time": 1690269576,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547673,
+        "num": 547673,
+        "word": "罗云熙吴倩演张晚意爸妈",
+        "onboard_time": 1690262085,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1895843,
+        "num": 547183,
+        "word": "吴亦凡公司仅剩1家存续",
+        "onboard_time": 1690265201,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1130550,
+        "num": 546957,
+        "word": "肚子里的宝宝与妈妈抢营养是因爸爸",
+        "onboard_time": 1690269878,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027141,
+        "num": 546183,
+        "word": "吴亦凡至今已被拘押看守所近2年",
+        "onboard_time": 1690272937,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 924372,
+        "num": 545218,
+        "word": "吴亦凡表哥未履行1.45亿欠款",
+        "onboard_time": 1690268379,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 545043,
+        "num": 545043,
+        "word": "瑞幸回应咖啡三分之二冰块两口喝完",
+        "onboard_time": 1690257936,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 821085,
+        "num": 544370,
+        "word": "魏大勋虞书欣早期同框",
+        "onboard_time": 1690270420,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 731555,
+        "num": 544266,
+        "word": "刀郎新歌被指内涵四位明星",
+        "onboard_time": 1690263225,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 626841,
+        "num": 543805,
+        "word": "TT拿到了seventeen的签名",
+        "onboard_time": 1690270900,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 542116,
+        "num": 542116,
+        "word": "奥本海默内地定档",
+        "onboard_time": 1690271197,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478626,
+        "num": 478626,
+        "word": "杨紫工作室再也不皮了",
+        "onboard_time": 1690265263,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 834879,
+        "num": 474429,
+        "word": "48岁男子因彩礼刺死熟睡未婚妻",
+        "onboard_time": 1690272396,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466223,
+        "num": 466223,
+        "word": "涂山璟微微一笑很倾城",
+        "onboard_time": 1690269100,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391196,
+        "num": 391196,
+        "word": "吴亦凡案二审择期宣判",
+        "onboard_time": 1690261780,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 446298,
+        "num": 388044,
+        "word": "相柳性张力",
+        "onboard_time": 1690268858,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377826,
+        "num": 377826,
+        "word": "发了工资还要对老板感恩",
+        "onboard_time": 1690266340,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 369688,
+        "num": 369688,
+        "word": "朱桢演过情深深雨濛濛",
+        "onboard_time": 1690272339,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362402,
+        "num": 362402,
+        "word": "河北行唐5名初中毕业生溺亡",
+        "onboard_time": 1690267539,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333056,
+        "num": 333056,
+        "word": "断崖式变丑",
+        "onboard_time": 1690260816,
+        "rank": 27,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 328793,
+        "num": 328793,
+        "word": "蔡英文确诊新冠肺炎",
+        "onboard_time": 1690268500,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295067,
+        "num": 295067,
+        "word": "请黄晓明把自己焊死在民国剧",
+        "onboard_time": 1690260936,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284512,
+        "num": 284512,
+        "word": "微信可以批量删除好友",
+        "onboard_time": 1690272937,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 281253,
+        "num": 281253,
+        "word": "电影奥本海默",
+        "onboard_time": 1690272457,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260602,
+        "num": 260602,
+        "word": "何炅神预言TFBOYS十周年演唱会",
+        "onboard_time": 1690254275,
+        "rank": 32,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 256248,
+        "num": 256248,
+        "word": "正式确诊为拜拜爱好者",
+        "onboard_time": 1690269278,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50008,
+        "num": 255737,
+        "word": "成都大运会3天倒计时",
+        "onboard_time": 1690256615,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255718,
+        "num": 255718,
+        "word": "在飞机上称呼空姐什么最合适",
+        "onboard_time": 1690266039,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248716,
+        "num": 248716,
+        "word": "王者荣耀",
+        "onboard_time": 1690266521,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240527,
+        "num": 240527,
+        "word": "中国独有的公摊面积为什么还不取消",
+        "onboard_time": 1690262329,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 226953,
+        "num": 226953,
+        "word": "迪丽热巴火焰裙",
+        "onboard_time": 1690253371,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225804,
+        "num": 225804,
+        "word": "时代峰峻对时代少年团的定位不清楚",
+        "onboard_time": 1690267060,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220260,
+        "num": 220260,
+        "word": "秦川谢乔结婚了",
+        "onboard_time": 1690266880,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219928,
+        "num": 219928,
+        "word": "大学是穿衣包容度最高的地方",
+        "onboard_time": 1690261477,
+        "rank": 41,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 219596,
+        "num": 219596,
+        "word": "时代少年团出发西安",
+        "onboard_time": 1690266039,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218820,
+        "num": 218820,
+        "word": "各省有各省的省饭",
+        "onboard_time": 1690267359,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217563,
+        "num": 217563,
+        "word": "做饭阿姨做假账",
+        "onboard_time": 1690262866,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200109,
+        "num": 215043,
+        "word": "电子呕吐物",
+        "onboard_time": 1690256976,
+        "rank": 45,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 195764,
+        "num": 213683,
+        "word": "TFBOYS每家都有合作的电池品牌",
+        "onboard_time": 1690263463,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182996,
+        "num": 209546,
+        "word": "无穷小宴的恋爱日常",
+        "onboard_time": 1690270717,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176434,
+        "num": 205608,
+        "word": "冯提莫否认点评周传雄",
+        "onboard_time": 1690264184,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153363,
+        "num": 202400,
+        "word": "娜然浴池戏被袁泉的眼睛迷住了",
+        "onboard_time": 1690259860,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面加强军事治理#"
+    }
+  }
+}
