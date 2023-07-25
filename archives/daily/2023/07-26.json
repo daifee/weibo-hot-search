@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690320838602,
+  "endTime": 1690323322184,
   "band_list": [
     {
       "raw_hot": 1961526,
@@ -387,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146736,
+      "num": 146736,
+      "word": "男孩玩手机被奶奶说一气之下欲轻生",
+      "onboard_time": 1690316473,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146278,
       "num": 208264,
       "word": "印度女子因婚事被哥哥斩首",
@@ -483,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 68484,
-      "num": 68484,
-      "word": "男孩玩手机被奶奶说一气之下欲轻生",
-      "onboard_time": 1690316473,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45337,
       "num": 759261,
       "word": "蓉宝去哪儿",
@@ -507,20 +507,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 39742,
+      "num": 39742,
+      "word": "迪丽热巴为龚俊戴面具",
+      "onboard_time": 1690319592,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23209,
       "num": 36948,
       "word": "LNG战胜WBG",
       "onboard_time": 1690293765,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21808,
-      "num": 30100,
-      "word": "迪丽热巴为龚俊戴面具",
-      "onboard_time": 1690319592,
-      "rank": 49,
-      "category": "影视"
     }
   ],
   "hotgov_list": [

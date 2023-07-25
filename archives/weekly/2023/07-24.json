@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690320838602,
+  "endTime": 1690323322184,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -4803,6 +4803,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 146736,
+      "num": 146736,
+      "word": "男孩玩手机被奶奶说一气之下欲轻生",
+      "onboard_time": 1690316473,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146574,
       "num": 146574,
       "word": "OHMYGIRL新歌",
@@ -5075,14 +5083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68484,
-      "num": 68484,
-      "word": "男孩玩手机被奶奶说一气之下欲轻生",
-      "onboard_time": 1690316473,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68477,
       "num": 1226209,
       "word": "感受成都大运会科技与文化交融之美",
@@ -5147,6 +5147,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 39742,
+      "num": 39742,
+      "word": "迪丽热巴为龚俊戴面具",
+      "onboard_time": 1690319592,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 36758,
       "num": 36758,
       "word": "Rookie妖姬超神",
@@ -5209,14 +5217,6 @@
       "onboard_time": 1690107154,
       "rank": 45,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 21808,
-      "num": 30100,
-      "word": "迪丽热巴为龚俊戴面具",
-      "onboard_time": 1690319592,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 17554,
