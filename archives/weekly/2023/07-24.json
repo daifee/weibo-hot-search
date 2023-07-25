@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690323322184,
+  "endTime": 1690324421707,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -1779,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588047,
+      "num": 588047,
+      "word": "卧底记者回应下架视频换缅甸放人",
+      "onboard_time": 1690305263,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586145,
       "num": 586145,
       "word": "杨玏封神白月光",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1690194214,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443643,
-      "num": 443643,
-      "word": "卧底记者回应下架视频换缅甸放人",
-      "onboard_time": 1690305263,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443443,
@@ -4443,6 +4443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193436,
+      "num": 193436,
+      "word": "男孩玩手机被奶奶说一气之下欲轻生",
+      "onboard_time": 1690316473,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193060,
       "num": 193060,
       "word": "陈粒吴青峰未曝光新歌首唱",
@@ -4803,14 +4811,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 146736,
-      "num": 146736,
-      "word": "男孩玩手机被奶奶说一气之下欲轻生",
-      "onboard_time": 1690316473,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146574,
       "num": 146574,
       "word": "OHMYGIRL新歌",
@@ -5091,6 +5091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66865,
+      "num": 66865,
+      "word": "迪丽热巴为龚俊戴面具",
+      "onboard_time": 1690319592,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65846,
       "num": 96017,
       "word": "宁艺卓芭比造型",
@@ -5131,15 +5139,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45337,
-      "num": 759261,
-      "word": "蓉宝去哪儿",
-      "onboard_time": 1690290158,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 44172,
+      "raw_hot": 46632,
       "num": 63417,
       "word": "吴亦凡名誉权案会改判么",
       "onboard_time": 1690312214,
@@ -5147,12 +5147,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 39742,
-      "num": 39742,
-      "word": "迪丽热巴为龚俊戴面具",
-      "onboard_time": 1690319592,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 45337,
+      "num": 759261,
+      "word": "蓉宝去哪儿",
+      "onboard_time": 1690290158,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 36758,
