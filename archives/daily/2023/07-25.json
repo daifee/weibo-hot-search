@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690298299510,
+  "endTime": 1690299241724,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -315,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1264463,
+      "num": 995050,
+      "word": "叶十七 男绿茶",
+      "onboard_time": 1690295979,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1226659,
+      "num": 512581,
+      "word": "女子化浓妆在34中门口直播被市民撵走",
+      "onboard_time": 1690297601,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1185076,
       "num": 1185076,
       "word": "罗云熙吴倩演张晚意爸妈",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 1001729,
-      "num": 496417,
+      "num": 888123,
       "word": "肯德基回应男子吃出生牛蛙",
       "onboard_time": 1690296037,
       "rank": 12,
@@ -432,14 +448,6 @@
       "word": "我的人间烟火评分降到3.8分",
       "onboard_time": 1690251154,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 995050,
-      "num": 995050,
-      "word": "叶十七 男绿茶",
-      "onboard_time": 1690295979,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 846721,
-      "num": 720538,
+      "num": 814819,
       "word": "杨紫开始不知道玟小六是小夭",
       "onboard_time": 1690294180,
       "rank": 30,
@@ -659,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 758475,
-      "num": 485250,
-      "word": "女子化浓妆在34中门口直播被市民撵走",
-      "onboard_time": 1690297601,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 747061,
       "num": 747061,
       "word": "液断减肥",
@@ -712,6 +712,14 @@
       "word": "幼童三楼坠落一群人张开双臂",
       "onboard_time": 1690279959,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701322,
+      "num": 272192,
+      "word": "妈妈回家故意敲门3岁男童装没听到",
+      "onboard_time": 1690298623,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -907,8 +915,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 573040,
-      "num": 481900,
+      "raw_hot": 583485,
+      "num": 583485,
       "word": "有没有人心疼宋焰舅妈啊",
       "onboard_time": 1690294961,
       "rank": 27,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1690290637,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528141,
+      "num": 493102,
+      "word": "曾少年大结局",
+      "onboard_time": 1690297544,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 523993,
@@ -1144,14 +1160,6 @@
       "word": "长相思",
       "onboard_time": 1690240584,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 471078,
-      "num": 471078,
-      "word": "曾少年大结局",
-      "onboard_time": 1690297544,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -1299,6 +1307,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 429498,
+      "num": 429498,
+      "word": "孙笑川 感谢大家最近对我的关心",
+      "onboard_time": 1690297364,
+      "rank": 24,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 428086,
       "num": 428086,
       "word": "郑恺杜海涛用的什么防晒",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1690254877,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 423224,
+      "num": 423224,
+      "word": "长相思 雄竞修罗场",
+      "onboard_time": 1690298922,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 421789,
@@ -1451,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383353,
+      "num": 383353,
+      "word": "韩国的水果价格有多离谱",
+      "onboard_time": 1690295742,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380950,
       "num": 380950,
       "word": "伊能静科普三伏天适合瘦身",
@@ -1523,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359847,
-      "num": 359847,
-      "word": "孙笑川 感谢大家最近对我的关心",
-      "onboard_time": 1690297364,
-      "rank": 24,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 359058,
       "num": 359058,
       "word": "成毅拍吻戏害羞了",
@@ -1577,14 +1601,6 @@
       "onboard_time": 1690250372,
       "rank": 31,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 343430,
-      "num": 343430,
-      "word": "韩国的水果价格有多离谱",
-      "onboard_time": 1690295742,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342857,
@@ -1971,12 +1987,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254527,
+      "num": 254527,
+      "word": "封神榜",
+      "onboard_time": 1690298980,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252557,
       "num": 252557,
       "word": "看见狗被轮胎追杀了",
       "onboard_time": 1690247254,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250833,
+      "num": 250833,
+      "word": "消遣方式 把妈搞烦然后挨骂滚开",
+      "onboard_time": 1690297965,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 248161,
@@ -2107,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225668,
+      "num": 225668,
+      "word": "Scout和他的LNG",
+      "onboard_time": 1690298564,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223146,
       "num": 223146,
       "word": "EDG冒泡赛",
@@ -2139,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220555,
+      "num": 220555,
+      "word": "于适版姬发",
+      "onboard_time": 1690298742,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218820,
       "num": 218820,
       "word": "各省有各省的省饭",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1690196854,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211289,
-      "num": 211289,
-      "word": "消遣方式 把妈搞烦然后挨骂滚开",
-      "onboard_time": 1690297965,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 210701,
@@ -2313,6 +2353,14 @@
       "onboard_time": 1690277198,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196917,
+      "num": 196917,
+      "word": "真正的饭来张口",
+      "onboard_time": 1690298439,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 196795,
