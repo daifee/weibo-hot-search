@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690262174315,
+  "endTime": 1690263214671,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -19,8 +19,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 5823237,
-      "num": 682254,
+      "raw_hot": 7718590,
+      "num": 7718590,
       "word": "吴亦凡犯强奸聚众淫乱二审开庭",
       "onboard_time": 1690261661,
       "rank": 10,
@@ -33,6 +33,22 @@
       "onboard_time": 1690209826,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3999990,
+      "num": 3999990,
+      "word": "吴亦凡不服一审提起上诉",
+      "onboard_time": 1690262142,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3832696,
+      "num": 3832696,
+      "word": "吴亦凡案二审择期宣判",
+      "onboard_time": 1690261780,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3377134,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 2194772,
-      "num": 680588,
+      "num": 683332,
       "word": "电子呕吐物",
       "onboard_time": 1690256976,
       "rank": 10,
@@ -307,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1493439,
-      "num": 1493439,
-      "word": "吴亦凡案二审择期宣判",
-      "onboard_time": 1690261780,
-      "rank": 3,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1484059,
       "num": 1484059,
       "word": "优酷称TFBOYS线上票不限量",
@@ -417,6 +425,14 @@
       "onboard_time": 1690164210,
       "rank": 12,
       "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 1335491,
+      "num": 1335491,
+      "word": "请黄晓明把自己焊死在民国剧",
+      "onboard_time": 1690260936,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1318539,
@@ -571,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1016271,
-      "num": 1016271,
-      "word": "请黄晓明把自己焊死在民国剧",
-      "onboard_time": 1690260936,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1006555,
       "num": 1006555,
       "word": "长相思",
@@ -609,6 +617,14 @@
       "onboard_time": 1690195231,
       "rank": 2,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 991460,
+      "num": 991460,
+      "word": "断崖式变丑",
+      "onboard_time": 1690260816,
+      "rank": 8,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 990431,
@@ -963,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 705306,
-      "num": 705306,
-      "word": "断崖式变丑",
-      "onboard_time": 1690260816,
-      "rank": 8,
-      "category": "美妆,幽默"
-    },
-    {
       "raw_hot": 701275,
       "num": 701275,
       "word": "前任结婚面馆老板闭店前去劫婚",
@@ -992,6 +1000,14 @@
       "word": "文俊辉张淼怡吻戏",
       "onboard_time": 1690257336,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 682931,
+      "num": 553483,
+      "word": "罗云熙吴倩演张晚意爸妈",
+      "onboard_time": 1690262085,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1163,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 633569,
+      "num": 633569,
+      "word": "齐齐哈尔市4个月前刚完成安全检查",
+      "onboard_time": 1690258898,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632079,
       "num": 632079,
       "word": "暑期实习下班被误认为领导",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1690156829,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 624279,
+      "num": 624279,
+      "word": "TFBOYS演唱会门票不可转让",
+      "onboard_time": 1690259860,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 623879,
@@ -1195,14 +1227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 617618,
-      "num": 617618,
-      "word": "TFBOYS演唱会门票不可转让",
-      "onboard_time": 1690259860,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 616222,
       "num": 403307,
       "word": "许沁婚礼伴手礼",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1690253794,
       "rank": 22,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 609744,
+      "num": 553479,
+      "word": "瘦了30斤以后侧脸的变化",
+      "onboard_time": 1690262805,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 609250,
@@ -1307,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 571881,
+      "num": 415850,
+      "word": "做饭阿姨做假账",
+      "onboard_time": 1690262866,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571872,
       "num": 571872,
       "word": "躺着真舒服",
@@ -1339,12 +1379,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 558639,
+      "num": 558639,
+      "word": "活死人厂巡",
+      "onboard_time": 1690261844,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556059,
       "num": 556059,
       "word": "jiejie 蝎子",
       "onboard_time": 1690207178,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 553469,
+      "num": 553469,
+      "word": "周奇薛佳凝演情侣",
+      "onboard_time": 1690260999,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 552589,
@@ -1411,14 +1467,6 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 531107,
-      "num": 531107,
-      "word": "周奇薛佳凝演情侣",
-      "onboard_time": 1690260999,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 530303,
       "num": 530303,
       "word": "余华真的太会比喻了",
@@ -1459,11 +1507,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 514495,
-      "num": 514495,
-      "word": "齐齐哈尔市4个月前刚完成安全检查",
-      "onboard_time": 1690258898,
-      "rank": 33,
+      "raw_hot": 514267,
+      "num": 514267,
+      "word": "一份外卖5个盒还送电烤锅让你反感吗",
+      "onboard_time": 1690259079,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1529,14 +1577,6 @@
       "onboard_time": 1690245094,
       "rank": 17,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 486124,
-      "num": 486124,
-      "word": "一份外卖5个盒还送电烤锅让你反感吗",
-      "onboard_time": 1690259079,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483686,
@@ -1875,6 +1915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405278,
+      "num": 405278,
+      "word": "中国独有的公摊面积为什么还不取消",
+      "onboard_time": 1690262329,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 401912,
       "num": 401912,
       "word": "王子奇王玉雯都在追欢颜",
@@ -1977,14 +2025,6 @@
       "onboard_time": 1690252774,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 384089,
-      "num": 384089,
-      "word": "活死人厂巡",
-      "onboard_time": 1690261844,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 380950,
@@ -2291,6 +2331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 323533,
+      "num": 323533,
+      "word": "大学是穿衣包容度最高的地方",
+      "onboard_time": 1690261477,
+      "rank": 47,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 322659,
       "num": 379068,
       "word": "李凯尔宣布将出战世界杯",
@@ -2339,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312548,
+      "num": 312548,
+      "word": "吴亦凡案不公开开庭审理",
+      "onboard_time": 1690262805,
+      "rank": 40,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 310232,
       "num": 310232,
       "word": "这cosplay吴京看了都要愣三秒",
@@ -2379,20 +2435,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 302875,
+      "num": 302875,
+      "word": "巴黎奥运会倒计时1周年",
+      "onboard_time": 1690259319,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301690,
       "num": 301690,
       "word": "张学友演唱会",
       "onboard_time": 1690256018,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 301007,
-      "num": 301007,
-      "word": "巴黎奥运会倒计时1周年",
-      "onboard_time": 1690259319,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 299818,
@@ -2587,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274096,
+      "num": 274096,
+      "word": "明侦的长尾效应",
+      "onboard_time": 1690263105,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271697,
       "num": 271697,
       "word": "短信错过了六年但你们的爱没有",
@@ -2609,14 +2673,6 @@
       "onboard_time": 1690206761,
       "rank": 38,
       "category": "时尚,幽默"
-    },
-    {
-      "raw_hot": 268485,
-      "num": 268485,
-      "word": "大学是穿衣包容度最高的地方",
-      "onboard_time": 1690261477,
-      "rank": 47,
-      "category": "幽默,时尚"
     },
     {
       "raw_hot": 262861,
@@ -3596,7 +3652,7 @@
     },
     {
       "raw_hot": 105899,
-      "num": 1494154,
+      "num": 3854710,
       "word": "成都大运会3天倒计时",
       "onboard_time": 1690256615,
       "rank": 2,
@@ -3667,6 +3723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 70346,
+      "num": 660359,
+      "word": "张琳艳给自己首战打8分",
+      "onboard_time": 1690261239,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65846,
       "num": 96017,
       "word": "宁艺卓芭比造型",
@@ -3697,14 +3761,6 @@
       "onboard_time": 1690225754,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36702,
-      "num": 660359,
-      "word": "张琳艳给自己首战打8分",
-      "onboard_time": 1690261239,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 31492,
