@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690324421707,
+  "endTime": 1690326882880,
   "band_list": [
     {
       "raw_hot": 1961526,
@@ -17,6 +17,14 @@
       "onboard_time": 1690283200,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1340493,
+      "num": 1340493,
+      "word": "卧底记者回应下架视频换缅甸放人",
+      "onboard_time": 1690305263,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1236829,
@@ -100,27 +108,27 @@
     },
     {
       "raw_hot": 632758,
-      "num": 477770,
+      "num": 579125,
       "word": "妈妈回家故意敲门3岁男童装没听到",
       "onboard_time": 1690298623,
       "rank": 12,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588047,
-      "num": 588047,
-      "word": "卧底记者回应下架视频换缅甸放人",
-      "onboard_time": 1690305263,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503501,
-      "num": 388586,
+      "raw_hot": 590577,
+      "num": 411480,
       "word": "未婚小姑帮带双胞胎侄子一周瘦8斤",
       "onboard_time": 1690300596,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515916,
+      "num": 515916,
+      "word": "尊重观众的女扮男装",
+      "onboard_time": 1690304363,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 488014,
@@ -137,6 +145,14 @@
       "onboard_time": 1690295621,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 382300,
+      "num": 382300,
+      "word": "男孩玩手机被奶奶说一气之下欲轻生",
+      "onboard_time": 1690316473,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376273,
@@ -179,14 +195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320197,
-      "num": 280390,
-      "word": "尊重观众的女扮男装",
-      "onboard_time": 1690304363,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 316080,
       "num": 326482,
       "word": "有没有人心疼宋焰舅妈啊",
@@ -209,6 +217,14 @@
       "onboard_time": 1690272937,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 295072,
+      "num": 101141,
+      "word": "游客订蒙古包民宿床上爬11只黑虫",
+      "onboard_time": 1690326142,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290155,
@@ -267,20 +283,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 247985,
+      "num": 227411,
+      "word": "第一次喝咖啡的司机在高速上突然窒息",
+      "onboard_time": 1690290520,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228794,
       "num": 228794,
       "word": "芭比笑点",
       "onboard_time": 1690299577,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227411,
-      "num": 227411,
-      "word": "第一次喝咖啡的司机在高速上突然窒息",
-      "onboard_time": 1690290520,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211264,
@@ -323,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193436,
-      "num": 193436,
-      "word": "男孩玩手机被奶奶说一气之下欲轻生",
-      "onboard_time": 1690316473,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 197551,
+      "num": 197551,
+      "word": "十七看到小六脖子上的咬痕的反应",
+      "onboard_time": 1690288179,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 187322,
@@ -395,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149682,
+      "num": 101106,
+      "word": "西双版纳一猛男餐厅被查处",
+      "onboard_time": 1690326262,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146278,
       "num": 208264,
       "word": "印度女子因婚事被哥哥斩首",
@@ -443,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131850,
+      "num": 131850,
+      "word": "迪丽热巴为龚俊戴面具",
+      "onboard_time": 1690319592,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117112,
       "num": 208264,
       "word": "柳智敏芭比造型",
@@ -451,12 +483,36 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 116656,
+      "num": 116656,
+      "word": "杨天真看芭比的穿搭",
+      "onboard_time": 1690324698,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115710,
       "num": 208264,
       "word": "活死人厂巡开票",
       "onboard_time": 1690304783,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99588,
+      "num": 99588,
+      "word": "8旬老人看男子坐公交熟睡叫醒赠2梨",
+      "onboard_time": 1690323676,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95280,
+      "num": 95280,
+      "word": "吴亦凡名誉权案会改判么",
+      "onboard_time": 1690312214,
+      "rank": 46,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 95264,
@@ -491,28 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 66865,
-      "num": 66865,
-      "word": "迪丽热巴为龚俊戴面具",
-      "onboard_time": 1690319592,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 47158,
-      "num": 47158,
-      "word": "十七看到小六脖子上的咬痕的反应",
-      "onboard_time": 1690288179,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 46632,
-      "num": 63417,
-      "word": "吴亦凡名誉权案会改判么",
-      "onboard_time": 1690312214,
+      "raw_hot": 60475,
+      "num": 82968,
+      "word": "雪龙2号上所有科考队员都是帮厨",
+      "onboard_time": 1690326142,
       "rank": 46,
-      "category": "社会新闻,艺人"
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 45337,
