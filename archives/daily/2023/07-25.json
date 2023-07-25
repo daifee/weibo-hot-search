@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690276648023,
+  "endTime": 1690277646054,
   "band_list": [
     {
       "raw_hot": 8531257,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772427,
+      "num": 317462,
+      "word": "男子悬崖旁求婚后女友不慎坠亡",
+      "onboard_time": 1690275941,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746318,
       "num": 437557,
       "word": "西安五月天",
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658347,
+      "num": 333244,
+      "word": "周江勇受贿案一审宣判",
+      "onboard_time": 1690276778,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658037,
       "num": 658037,
       "word": "杨紫让导演把自己再画黑一点",
@@ -521,14 +537,6 @@
       "onboard_time": 1690254275,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 649718,
-      "num": 284266,
-      "word": "男子悬崖旁求婚后女友不慎坠亡",
-      "onboard_time": 1690275941,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 644856,
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567168,
+      "num": 331143,
+      "word": "赵丽颖泰国",
+      "onboard_time": 1690277259,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566398,
       "num": 566398,
       "word": "秋瓷炫给于晓光和儿子听写韩语",
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544797,
+      "num": 314788,
+      "word": "长相思直播",
+      "onboard_time": 1690276658,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542116,
       "num": 542116,
       "word": "奥本海默内地定档",
@@ -673,6 +697,14 @@
       "onboard_time": 1690242390,
       "rank": 15,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 525797,
+      "num": 311704,
+      "word": "王雪峰被逮捕",
+      "onboard_time": 1690276960,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517816,
@@ -721,6 +753,14 @@
       "onboard_time": 1690202614,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 506798,
+      "num": 506798,
+      "word": "六公主评追星乱象",
+      "onboard_time": 1690276658,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 503697,
@@ -987,6 +1027,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 375553,
+      "num": 375553,
+      "word": "张小斐说想像林双一样勇敢",
+      "onboard_time": 1690275941,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369088,
       "num": 369088,
       "word": "坍塌事故背后的齐齐哈尔曾走出多名国手",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1690245757,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 351135,
-      "num": 351135,
-      "word": "张小斐说想像林双一样勇敢",
-      "onboard_time": 1690275941,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 348163,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1690211203,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305415,
+      "num": 305415,
+      "word": "体重诠释了你的代谢情况",
+      "onboard_time": 1690276360,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 302875,
@@ -1451,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225707,
-      "num": 225707,
-      "word": "体重诠释了你的代谢情况",
-      "onboard_time": 1690276360,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 223146,
       "num": 223146,
       "word": "EDG冒泡赛",
@@ -1595,6 +1635,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198094,
+      "num": 198094,
+      "word": "周江勇非法收受财物共计1.82亿余元",
+      "onboard_time": 1690277198,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195721,
+      "num": 198089,
+      "word": "这年头连火柴都有对象了",
+      "onboard_time": 1690277139,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192733,
       "num": 196901,
       "word": "一起去追空投雨",
@@ -1707,6 +1763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 146868,
+      "num": 198033,
+      "word": "Lisa坐路边喝红酒",
+      "onboard_time": 1690277617,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137870,
       "num": 168464,
       "word": "TES战胜EDG",
@@ -1747,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110449,
+      "num": 343027,
+      "word": "我在摇光录集邮帅哥",
+      "onboard_time": 1690275639,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108190,
       "num": 108190,
       "word": "王鹤棣海边探戈",
@@ -1763,20 +1835,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104948,
+      "num": 337119,
+      "word": "高考结束后最有仪式感的事",
+      "onboard_time": 1690274918,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103692,
       "num": 103692,
       "word": "我就说傻子是不能养宠物的",
       "onboard_time": 1690240827,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92701,
-      "num": 337119,
-      "word": "高考结束后最有仪式感的事",
-      "onboard_time": 1690274918,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 89685,
@@ -1828,19 +1900,11 @@
     },
     {
       "raw_hot": 55242,
-      "num": 284665,
+      "num": 305714,
       "word": "没点实力不敢做大V",
       "onboard_time": 1690275999,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 36931,
-      "num": 343027,
-      "word": "我在摇光录集邮帅哥",
-      "onboard_time": 1690275639,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 36758,
