@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690280330113,
+  "endTime": 1690281329597,
   "band_list": [
     {
       "raw_hot": 8531257,
@@ -43,20 +43,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2734025,
+      "num": 556549,
+      "word": "王雪峰被逮捕",
+      "onboard_time": 1690276960,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2523818,
       "num": 2523818,
       "word": "瑞幸回应咖啡三分之二冰块两口喝完",
       "onboard_time": 1690257936,
       "rank": 22,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2457732,
-      "num": 556549,
-      "word": "王雪峰被逮捕",
-      "onboard_time": 1690276960,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2352046,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1340899,
-      "num": 387509,
+      "num": 404232,
       "word": "台湾13岁女孩配合警方当诱饵遭性侵",
       "onboard_time": 1690274498,
       "rank": 20,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 821581,
+      "num": 513508,
+      "word": "孙艺珍晒儿子小手",
+      "onboard_time": 1690279001,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 815601,
       "num": 815601,
       "word": "电子付款让人对钱没了概念",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 772427,
-      "num": 383061,
+      "num": 403409,
       "word": "男子悬崖旁求婚后女友不慎坠亡",
       "onboard_time": 1690275941,
       "rank": 30,
@@ -497,14 +505,6 @@
       "onboard_time": 1690267302,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 685140,
-      "num": 513508,
-      "word": "孙艺珍晒儿子小手",
-      "onboard_time": 1690279001,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 683441,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 597065,
-      "num": 379999,
+      "num": 485332,
       "word": "长相思直播",
       "onboard_time": 1690276658,
       "rank": 23,
@@ -1155,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341677,
+      "num": 273136,
+      "word": "娃 我已经给你反应的时间了",
+      "onboard_time": 1690279717,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338888,
       "num": 338888,
       "word": "在飞机上称呼空姐什么最合适",
@@ -1203,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328025,
+      "num": 328025,
+      "word": "柳智敏芭比造型",
+      "onboard_time": 1690280020,
+      "rank": 40,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 327331,
       "num": 327331,
       "word": "秦川谢乔结婚了",
@@ -1225,6 +1241,22 @@
       "onboard_time": 1690261477,
       "rank": 47,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 323033,
+      "num": 1035060,
+      "word": "男子隧道摔车公交司机变道为其挡车",
+      "onboard_time": 1690278637,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319336,
+      "num": 404827,
+      "word": "魏大勋新剧捧花杀青照",
+      "onboard_time": 1690279777,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 315017,
@@ -1307,20 +1339,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 294610,
-      "num": 1035060,
-      "word": "男子隧道摔车公交司机变道为其挡车",
-      "onboard_time": 1690278637,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292896,
       "num": 388518,
       "word": "齐齐哈尔召开体育馆坍塌事故发布会",
       "onboard_time": 1690210005,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290746,
+      "num": 290746,
+      "word": "赵丽颖魏大勋版杉杉来了",
+      "onboard_time": 1690280678,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 290382,
@@ -1393,6 +1425,22 @@
       "onboard_time": 1690249532,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276358,
+      "num": 579962,
+      "word": "幼童三楼坠落一群人张开双臂",
+      "onboard_time": 1690279959,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276286,
+      "num": 272726,
+      "word": "刘珂 赵丽颖",
+      "onboard_time": 1690281218,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 274096,
@@ -1507,6 +1555,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 238105,
+      "num": 718613,
+      "word": "由外婆带大的励志女孩被清华录取",
+      "onboard_time": 1690278637,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 233458,
       "num": 233458,
       "word": "桐华的影视化作品",
@@ -1547,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224787,
+      "num": 224787,
+      "word": "王鹤棣新剧蓝衣高马尾路透",
+      "onboard_time": 1690280565,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223146,
       "num": 223146,
       "word": "EDG冒泡赛",
@@ -1561,14 +1625,6 @@
       "onboard_time": 1690214137,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 221922,
-      "num": 718613,
-      "word": "由外婆带大的励志女孩被清华录取",
-      "onboard_time": 1690278637,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 218820,
@@ -1633,6 +1689,14 @@
       "onboard_time": 1690246717,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206176,
+      "num": 206176,
+      "word": "巴黎圣日耳曼vs利雅得胜利",
+      "onboard_time": 1690280319,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 205451,
@@ -1707,14 +1771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193800,
-      "num": 193800,
-      "word": "巴黎圣日耳曼vs利雅得胜利",
-      "onboard_time": 1690280319,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192733,
       "num": 196901,
       "word": "一起去追空投雨",
@@ -1763,15 +1819,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182996,
-      "num": 209546,
-      "word": "无穷小宴的恋爱日常",
-      "onboard_time": 1690270717,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175600,
+      "raw_hot": 183076,
       "num": 560812,
       "word": "这封录取通知书有开满鲜花的诗意",
       "onboard_time": 1690278637,
@@ -1779,12 +1827,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 170686,
-      "num": 170686,
-      "word": "柳智敏芭比造型",
-      "onboard_time": 1690280020,
-      "rank": 40,
-      "category": "影视,时尚"
+      "raw_hot": 182996,
+      "num": 209546,
+      "word": "无穷小宴的恋爱日常",
+      "onboard_time": 1690270717,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168490,
@@ -1803,36 +1851,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165651,
-      "num": 165651,
-      "word": "魏大勋新剧捧花杀青照",
-      "onboard_time": 1690279777,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165407,
       "num": 168471,
       "word": "莲花楼预告",
       "onboard_time": 1690215331,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164326,
-      "num": 164326,
-      "word": "娃 我已经给你反应的时间了",
-      "onboard_time": 1690279717,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 159078,
-      "num": 159078,
-      "word": "幼童三楼坠落一群人张开双臂",
-      "onboard_time": 1690279959,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154370,
@@ -2025,6 +2049,14 @@
       "onboard_time": 1690224974,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17554,
+      "num": 441266,
+      "word": "说唱巅峰2023盛夏完结",
+      "onboard_time": 1690280499,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 12163,
