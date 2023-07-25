@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690266152229,
+  "endTime": 1690266967060,
   "band_list": [
     {
       "raw_hot": 8531257,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1473993,
+      "num": 1473993,
+      "word": "瘦了30斤以后侧脸的变化",
+      "onboard_time": 1690262805,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1445507,
       "num": 1445507,
       "word": "电竞选手叮当猫去世",
@@ -171,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1265308,
-      "num": 1265308,
-      "word": "瘦了30斤以后侧脸的变化",
-      "onboard_time": 1690262805,
-      "rank": 22,
-      "category": "幽默,情感"
+      "raw_hot": 1185076,
+      "num": 1185076,
+      "word": "罗云熙吴倩演张晚意爸妈",
+      "onboard_time": 1690262085,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 1179202,
@@ -192,14 +200,6 @@
       "word": "杨紫在长相思是演男人吗",
       "onboard_time": 1690244315,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1123467,
-      "num": 1123467,
-      "word": "罗云熙吴倩演张晚意爸妈",
-      "onboard_time": 1690262085,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -219,12 +219,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1034020,
+      "num": 1034020,
+      "word": "刀郎新歌被指内涵四位明星",
+      "onboard_time": 1690263225,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1027624,
       "num": 1027624,
       "word": "感受一下西藏的物价",
       "onboard_time": 1690250493,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1019829,
+      "num": 1019829,
+      "word": "杨澄终生未娶王莹终生未嫁",
+      "onboard_time": 1690265564,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 999503,
@@ -243,14 +259,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 949739,
-      "num": 949739,
-      "word": "刀郎新歌被指内涵四位明星",
-      "onboard_time": 1690263225,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 948161,
       "num": 948161,
       "word": "狗狗的牙齿竟然是小手套形状",
@@ -259,7 +267,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 889200,
+      "raw_hot": 914403,
+      "num": 914403,
+      "word": "吴亦凡经纪公司涉多起代言纠纷",
+      "onboard_time": 1690265680,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 889270,
       "num": 415850,
       "word": "做饭阿姨做假账",
       "onboard_time": 1690262866,
@@ -387,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660525,
+      "num": 660525,
+      "word": "冯提莫否认点评周传雄",
+      "onboard_time": 1690264184,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 659730,
+      "num": 659730,
+      "word": "杨紫工作室再也不皮了",
+      "onboard_time": 1690265263,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 658037,
       "num": 658037,
       "word": "杨紫让导演把自己再画黑一点",
@@ -403,28 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 649463,
-      "num": 649463,
-      "word": "冯提莫否认点评周传雄",
-      "onboard_time": 1690264184,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 644651,
       "num": 388414,
       "word": "不该对齐齐哈尔事故保持沉默",
       "onboard_time": 1690225273,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 644052,
-      "num": 644052,
-      "word": "吴亦凡经纪公司涉多起代言纠纷",
-      "onboard_time": 1690265680,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 633569,
@@ -483,14 +499,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 591821,
-      "num": 286777,
-      "word": "杨澄终生未娶王莹终生未嫁",
-      "onboard_time": 1690265564,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 572236,
       "num": 462920,
       "word": "齐齐哈尔市市长沉痛哀悼",
@@ -513,14 +521,6 @@
       "onboard_time": 1690261844,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555571,
-      "num": 555571,
-      "word": "杨紫工作室再也不皮了",
-      "onboard_time": 1690265263,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 553469,
@@ -547,12 +547,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 534487,
+      "num": 515793,
+      "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
+      "onboard_time": 1690265440,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532795,
       "num": 532795,
       "word": "全麻手术人是不会自主呼吸的",
       "onboard_time": 1690242390,
       "rank": 15,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 526700,
+      "num": 526700,
+      "word": "吴亦凡公司仅剩1家存续",
+      "onboard_time": 1690265201,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 517816,
@@ -649,14 +665,6 @@
       "onboard_time": 1690257818,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 476532,
-      "num": 281737,
-      "word": "吴亦凡公司仅剩1家存续",
-      "onboard_time": 1690265201,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 474216,
@@ -763,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405943,
+      "num": 405943,
+      "word": "华西村村民称工资仅发20%其余留村里",
+      "onboard_time": 1690264004,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401912,
       "num": 401912,
       "word": "王子奇王玉雯都在追欢颜",
@@ -793,14 +809,6 @@
       "onboard_time": 1690257580,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394431,
-      "num": 279069,
-      "word": "华西村村民称工资仅发20%其余留村里",
-      "onboard_time": 1690264004,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388174,
@@ -859,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361216,
-      "num": 275085,
-      "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
-      "onboard_time": 1690265440,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359058,
       "num": 359058,
       "word": "成毅拍吻戏害羞了",
@@ -913,6 +913,14 @@
       "onboard_time": 1690248456,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332471,
+      "num": 332471,
+      "word": "在飞机上称呼空姐什么最合适",
+      "onboard_time": 1690266039,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 330991,
@@ -1067,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278216,
+      "num": 278216,
+      "word": "时代少年团出发西安",
+      "onboard_time": 1690266039,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276616,
       "num": 349079,
       "word": "牟林翰虐待罪上诉案宣判",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1690263105,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271789,
+      "num": 271789,
+      "word": "发了工资还要对老板感恩",
+      "onboard_time": 1690266340,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 271697,
@@ -1227,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224941,
-      "num": 224941,
-      "word": "在飞机上称呼空姐什么最合适",
-      "onboard_time": 1690266039,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223146,
       "num": 223146,
       "word": "EDG冒泡赛",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1690214137,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219758,
+      "num": 219758,
+      "word": "王者荣耀",
+      "onboard_time": 1690266521,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 214788,
@@ -1291,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207998,
-      "num": 207998,
-      "word": "时代少年团出发西安",
-      "onboard_time": 1690266039,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207755,
       "num": 207755,
       "word": "屏蔽力是最顶级的能力",
@@ -1339,12 +1355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200835,
+      "num": 200835,
+      "word": "孟宴臣破茧成蝶",
+      "onboard_time": 1690266579,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199821,
       "num": 199821,
       "word": "摇光录",
       "onboard_time": 1690252112,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198928,
+      "num": 198928,
+      "word": "秦川谢乔结婚了",
+      "onboard_time": 1690266880,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 192305,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1690215331,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162686,
+      "num": 195992,
+      "word": "39岁硕士称找工作因年龄被卡",
+      "onboard_time": 1690266820,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 154370,
