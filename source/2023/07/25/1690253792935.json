@@ -1,0 +1,410 @@
+{
+  "runTime": 1690253792935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1942819,
+        "num": 1942819,
+        "word": "微信内测朋友圈可以置顶了",
+        "onboard_time": 1690245156,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1457564,
+        "num": 1457564,
+        "word": "于晓光说特别对不起秋瓷炫",
+        "onboard_time": 1690251630,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10515,
+        "num": 907513,
+        "word": "空军航空开放活动预演现场",
+        "onboard_time": 1690197334,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857031,
+        "num": 857031,
+        "word": "狗狗的牙齿竟然是小手套形状",
+        "onboard_time": 1690252173,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 829901,
+        "num": 829901,
+        "word": "杨紫在长相思是演男人吗",
+        "onboard_time": 1690244315,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 831973,
+        "num": 828027,
+        "word": "电竞选手叮当猫去世",
+        "onboard_time": 1690241967,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 824130,
+        "num": 824130,
+        "word": "感受一下西藏的物价",
+        "onboard_time": 1690250493,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 766530,
+        "num": 766530,
+        "word": "我的人间烟火评分降到3.8分",
+        "onboard_time": 1690251154,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646243,
+        "num": 761443,
+        "word": "瑞幸咖啡三分之二是冰块两口喝完",
+        "onboard_time": 1690239982,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 452276,
+        "num": 761201,
+        "word": "包丽案二审宣判",
+        "onboard_time": 1690249473,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2179004,
+        "num": 761155,
+        "word": "齐齐哈尔教育局距坍塌体育馆仅49米",
+        "onboard_time": 1690247312,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761072,
+        "num": 761072,
+        "word": "魏大勋到底背着我们接了多少私活",
+        "onboard_time": 1690248755,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 716298,
+        "num": 716298,
+        "word": "Angelababy演狐妖疯批美人",
+        "onboard_time": 1690247974,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 690569,
+        "num": 690569,
+        "word": "日本第一批不婚的人开始后悔了",
+        "onboard_time": 1690201291,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632079,
+        "num": 632079,
+        "word": "暑期实习下班被误认为领导",
+        "onboard_time": 1690248156,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 582356,
+        "num": 582356,
+        "word": "长相思开播第一天热度超玉骨遥",
+        "onboard_time": 1690248215,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537047,
+        "num": 537047,
+        "word": "魏大勋也很想留住这批观众吧",
+        "onboard_time": 1690250613,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501177,
+        "num": 501177,
+        "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
+        "onboard_time": 1690210423,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468998,
+        "num": 468998,
+        "word": "电子付款让人对钱没了概念",
+        "onboard_time": 1690245336,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 444121,
+        "num": 444121,
+        "word": "迪丽热巴火焰裙",
+        "onboard_time": 1690253371,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1442926,
+        "num": 443822,
+        "word": "我最好的朋友全走了",
+        "onboard_time": 1690244075,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488718,
+        "num": 443657,
+        "word": "通勤1公里要不要买电动车",
+        "onboard_time": 1690251577,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443178,
+        "num": 443178,
+        "word": "惠若琪要教齐齐哈尔幸存球员打排球",
+        "onboard_time": 1690243774,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 434654,
+        "num": 434654,
+        "word": "三十四中门前的黄桃罐头和AD钙奶",
+        "onboard_time": 1690251094,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419945,
+        "num": 419945,
+        "word": "女子在南京地铁车厢喝水被开罚单",
+        "onboard_time": 1690252894,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376086,
+        "num": 376086,
+        "word": "长相思",
+        "onboard_time": 1690240584,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372021,
+        "num": 372021,
+        "word": "吴宣仪算不算旺男主的体质",
+        "onboard_time": 1690252774,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365091,
+        "num": 365091,
+        "word": "冯提莫 女孩子们一定不要精神内耗",
+        "onboard_time": 1690211440,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 357739,
+        "num": 357739,
+        "word": "齐齐哈尔多位救援人员发声",
+        "onboard_time": 1690242268,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241579,
+        "num": 349079,
+        "word": "牟林翰虐待罪上诉案宣判",
+        "onboard_time": 1690252355,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386561,
+        "num": 348331,
+        "word": "当我出门忘关18度的空调时",
+        "onboard_time": 1690253076,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340660,
+        "num": 340660,
+        "word": "排超联赛向齐齐哈尔34中罹难者致哀",
+        "onboard_time": 1690249415,
+        "rank": 31,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 328511,
+        "num": 328511,
+        "word": "当独生小狗发现自己多了个妹妹",
+        "onboard_time": 1690245094,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 309671,
+        "num": 309671,
+        "word": "这cosplay吴京看了都要愣三秒",
+        "onboard_time": 1690251934,
+        "rank": 33,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 305286,
+        "num": 305286,
+        "word": "台风",
+        "onboard_time": 1690248456,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302582,
+        "num": 302582,
+        "word": "长相思有自己的TFBOYS",
+        "onboard_time": 1690250795,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295892,
+        "num": 295892,
+        "word": "齐齐哈尔市市长沉痛哀悼",
+        "onboard_time": 1690209590,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294963,
+        "num": 294963,
+        "word": "祖孙3人散步被轿车迎面撞死",
+        "onboard_time": 1690241728,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259557,
+        "num": 259557,
+        "word": "女排",
+        "onboard_time": 1690249532,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248269,
+        "num": 248269,
+        "word": "齐齐哈尔坍塌事故原因初步查明",
+        "onboard_time": 1690209826,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231577,
+        "num": 231577,
+        "word": "独家童话",
+        "onboard_time": 1690252355,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225919,
+        "num": 225919,
+        "word": "不同水果展示女性分娩时宫口张开的大小",
+        "onboard_time": 1690253494,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216865,
+        "num": 216865,
+        "word": "秋瓷炫给于晓光和儿子听写韩语",
+        "onboard_time": 1690243830,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212825,
+        "num": 212825,
+        "word": "妈妈吐槽女儿房间像另一个次元",
+        "onboard_time": 1690244677,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200891,
+        "num": 200891,
+        "word": "齐齐哈尔体育馆坍塌事故救援现场画面",
+        "onboard_time": 1690253674,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193689,
+        "num": 193689,
+        "word": "客服回应TFBOYS演唱会线上只能看三天",
+        "onboard_time": 1690212820,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192305,
+        "num": 192305,
+        "word": "热烈长沙路演",
+        "onboard_time": 1690253555,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191640,
+        "num": 191640,
+        "word": "齐齐哈尔召开体育馆坍塌事故发布会",
+        "onboard_time": 1690210005,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187581,
+        "num": 187581,
+        "word": "乐队歌手演出时当众脱裤子被行拘",
+        "onboard_time": 1690245757,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 179799,
+        "num": 179799,
+        "word": "五月天西安",
+        "onboard_time": 1690253734,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好下半年经济工作要坚持稳中求进#"
+    }
+  }
+}
