@@ -1,0 +1,410 @@
+{
+  "runTime": 1690320838602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 203900,
+        "num": 203900,
+        "word": "卧底记者回应下架视频换缅甸放人",
+        "onboard_time": 1690305263,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134364,
+        "num": 134364,
+        "word": "长相思",
+        "onboard_time": 1690299636,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12550,
+        "num": 112192,
+        "word": "蓉宝去哪儿",
+        "onboard_time": 1690290158,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96986,
+        "num": 96986,
+        "word": "未婚小姑帮带双胞胎侄子一周瘦8斤",
+        "onboard_time": 1690300596,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88316,
+        "num": 88316,
+        "word": "尊重观众的女扮男装",
+        "onboard_time": 1690304363,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85640,
+        "num": 85640,
+        "word": "妈妈回家故意敲门3岁男童装没听到",
+        "onboard_time": 1690298623,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68484,
+        "num": 68484,
+        "word": "男孩玩手机被奶奶说一气之下欲轻生",
+        "onboard_time": 1690316473,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62758,
+        "num": 62758,
+        "word": "布朗尼遭遇心脏骤停",
+        "onboard_time": 1690296640,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55208,
+        "num": 55208,
+        "word": "叶十七 男绿茶",
+        "onboard_time": 1690295979,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53399,
+        "num": 53399,
+        "word": "TFBOYS官博倡议演唱会不应援",
+        "onboard_time": 1690288302,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227931,
+        "num": 51537,
+        "word": "殡仪馆证实岳阳17岁男子中枪身亡",
+        "onboard_time": 1690295143,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85112,
+        "num": 50882,
+        "word": "吴亦凡至今已被拘押看守所近2年",
+        "onboard_time": 1690272937,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 48768,
+        "num": 48768,
+        "word": "长相思 雄竞修罗场",
+        "onboard_time": 1690298922,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46294,
+        "num": 46294,
+        "word": "肯德基回应男子吃出生牛蛙",
+        "onboard_time": 1690296037,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41032,
+        "num": 46099,
+        "word": "吴亦凡犯强奸聚众淫乱二审开庭",
+        "onboard_time": 1690261661,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 34540,
+        "num": 45950,
+        "word": "Lisa坐路边喝红酒",
+        "onboard_time": 1690277617,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30821,
+        "num": 45849,
+        "word": "狮子座很讨厌被否定",
+        "onboard_time": 1690301193,
+        "rank": 16,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 28622,
+        "num": 45669,
+        "word": "液断减肥",
+        "onboard_time": 1690291478,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28542,
+        "num": 45357,
+        "word": "王雪峰被逮捕",
+        "onboard_time": 1690276960,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27149,
+        "num": 45092,
+        "word": "刘珂 赵丽颖",
+        "onboard_time": 1690281218,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63746,
+        "num": 44876,
+        "word": "罗刹海市",
+        "onboard_time": 1690295920,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44867,
+        "num": 44867,
+        "word": "肠癌患者手术失败死亡尸检未见肠癌",
+        "onboard_time": 1690281519,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43800,
+        "num": 43800,
+        "word": "台湾13岁女孩配合警方当诱饵遭性侵",
+        "onboard_time": 1690274498,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43752,
+        "num": 43752,
+        "word": "张一山关晓彤回应吻戏是否尴尬",
+        "onboard_time": 1690306040,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37018,
+        "num": 37018,
+        "word": "第一次喝咖啡的司机在高速上突然窒息",
+        "onboard_time": 1690290520,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34048,
+        "num": 34048,
+        "word": "大学生暑假工 我素未谋面的好朋友",
+        "onboard_time": 1690299937,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 30380,
+        "num": 33943,
+        "word": "印度女子因婚事被哥哥斩首",
+        "onboard_time": 1690286741,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29723,
+        "num": 33459,
+        "word": "全家吃剩西瓜中毒住院花5400",
+        "onboard_time": 1690287639,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28257,
+        "num": 33245,
+        "word": "言承旭说看到杨丞琳好不习惯",
+        "onboard_time": 1690295079,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26631,
+        "num": 32821,
+        "word": "电视剧长相思",
+        "onboard_time": 1690278101,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41564,
+        "num": 32333,
+        "word": "京东崩了",
+        "onboard_time": 1690295621,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 25569,
+        "num": 32077,
+        "word": "微信可以批量删除好友",
+        "onboard_time": 1690272937,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 25550,
+        "num": 31895,
+        "word": "去拥有一只小狗就不会再去想死亡了",
+        "onboard_time": 1690292440,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 24290,
+        "num": 31509,
+        "word": "消遣方式 把妈搞烦然后挨骂滚开",
+        "onboard_time": 1690297965,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 23481,
+        "num": 31150,
+        "word": "原神3.8",
+        "onboard_time": 1690306700,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23192,
+        "num": 30728,
+        "word": "吴亦凡名誉权案会改判么",
+        "onboard_time": 1690312214,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 21955,
+        "num": 30250,
+        "word": "假如让张翰来演许沁",
+        "onboard_time": 1690300535,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21808,
+        "num": 30100,
+        "word": "迪丽热巴为龚俊戴面具",
+        "onboard_time": 1690319592,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21724,
+        "num": 29659,
+        "word": "有没有人心疼宋焰舅妈啊",
+        "onboard_time": 1690294961,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21679,
+        "num": 29147,
+        "word": "TheShy尽力了",
+        "onboard_time": 1690295621,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21365,
+        "num": 29057,
+        "word": "杨紫开始不知道玟小六是小夭",
+        "onboard_time": 1690294180,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20821,
+        "num": 28397,
+        "word": "杨澄你还怪听前女友话嘞",
+        "onboard_time": 1690295382,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20303,
+        "num": 28273,
+        "word": "LNG战胜WBG",
+        "onboard_time": 1690293765,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19351,
+        "num": 27739,
+        "word": "黄锐说释怀了",
+        "onboard_time": 1690292561,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18027,
+        "num": 27584,
+        "word": "玖月晞的影视化作品",
+        "onboard_time": 1690289140,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17635,
+        "num": 27064,
+        "word": "封神榜",
+        "onboard_time": 1690298980,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17061,
+        "num": 26677,
+        "word": "小伙一路奔跑为消防车疏导车流",
+        "onboard_time": 1690305144,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16459,
+        "num": 26341,
+        "word": "郑秀妍新发色",
+        "onboard_time": 1690303825,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14905,
+        "num": 26131,
+        "word": "Scout和他的LNG",
+        "onboard_time": 1690298564,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14331,
+        "num": 25654,
+        "word": "柳智敏芭比造型",
+        "onboard_time": 1690280020,
+        "rank": 49,
+        "category": "影视,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面加强军事治理#"
+    }
+  }
+}

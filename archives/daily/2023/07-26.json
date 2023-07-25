@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690319657433,
+  "endTime": 1690320838602,
   "band_list": [
     {
       "raw_hot": 1961526,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68484,
+      "num": 68484,
+      "word": "男孩玩手机被奶奶说一气之下欲轻生",
+      "onboard_time": 1690316473,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45337,
       "num": 759261,
       "word": "蓉宝去哪儿",
@@ -499,14 +507,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 32535,
-      "num": 32535,
-      "word": "男孩玩手机被奶奶说一气之下欲轻生",
-      "onboard_time": 1690316473,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23209,
       "num": 36948,
       "word": "LNG战胜WBG",
@@ -515,8 +515,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13649,
-      "num": 21341,
+      "raw_hot": 21808,
+      "num": 30100,
       "word": "迪丽热巴为龚俊戴面具",
       "onboard_time": 1690319592,
       "rank": 49,
