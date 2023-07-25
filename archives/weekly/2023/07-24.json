@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690294565655,
+  "endTime": 1690295695462,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2022946,
+      "num": 1109217,
+      "word": "齐齐哈尔遇难女孩母亲街头痛哭",
+      "onboard_time": 1690286800,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2008960,
       "num": 2008960,
       "word": "微信内测朋友圈可以置顶了",
@@ -303,14 +311,6 @@
       "num": 1672733,
       "word": "坍塌中学体育馆最后一名失联人员找到",
       "onboard_time": 1690167152,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1663075,
-      "num": 1109217,
-      "word": "齐齐哈尔遇难女孩母亲街头痛哭",
-      "onboard_time": 1690286800,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -811,6 +811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 993019,
+      "num": 993019,
+      "word": "黄锐说释怀了",
+      "onboard_time": 1690292561,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 990431,
       "num": 990431,
       "word": "惠若琪要教齐齐哈尔幸存球员打排球",
@@ -1011,14 +1019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 836022,
-      "num": 836022,
-      "word": "黄锐说释怀了",
-      "onboard_time": 1690292561,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 835258,
       "num": 835258,
       "word": "魏大勋到底背着我们接了多少私活",
@@ -1211,12 +1211,28 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 755485,
+      "num": 332606,
+      "word": "殡仪馆证实岳阳17岁男子中枪身亡",
+      "onboard_time": 1690295143,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752155,
       "num": 752155,
       "word": "张艺兴连续三次发背影照了",
       "onboard_time": 1690169796,
       "rank": 13,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 747061,
+      "num": 747061,
+      "word": "液断减肥",
+      "onboard_time": 1690291478,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 746318,
@@ -1395,20 +1411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 665076,
-      "num": 665076,
-      "word": "液断减肥",
-      "onboard_time": 1690291478,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 662935,
       "num": 662935,
       "word": "优酷TFBOYS演唱会线上只能看三天",
       "onboard_time": 1690196492,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 661084,
+      "num": 661084,
+      "word": "杨紫开始不知道玟小六是小夭",
+      "onboard_time": 1690294180,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 660842,
@@ -2251,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443356,
+      "num": 326752,
+      "word": "京东崩了",
+      "onboard_time": 1690295621,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 441503,
       "num": 408687,
       "word": "长相思播三停四",
@@ -2427,6 +2451,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 416933,
+      "num": 416933,
+      "word": "涂山璟九条尾巴可以给相柳当围脖",
+      "onboard_time": 1690294479,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414552,
       "num": 414552,
       "word": "蓝鸟logo设计师分享设计线稿",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1690179107,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 407096,
+      "num": 377743,
+      "word": "言承旭说看到杨丞琳好不习惯",
+      "onboard_time": 1690295079,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 406319,
@@ -2657,6 +2697,14 @@
       "onboard_time": 1690197334,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373395,
+      "num": 373395,
+      "word": "有没有人心疼宋焰舅妈啊",
+      "onboard_time": 1690294961,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 369088,
@@ -2899,14 +2947,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 332762,
-      "num": 328187,
-      "word": "杨紫开始不知道玟小六是小夭",
-      "onboard_time": 1690294180,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 331558,
       "num": 331558,
       "word": "XXS码实习警犬劲头十足",
@@ -3131,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307162,
+      "num": 307162,
+      "word": "卡斯柏谈和王一博对手戏",
+      "onboard_time": 1690294003,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306612,
       "num": 306612,
       "word": "热烈路演",
@@ -3147,6 +3195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304963,
+      "num": 304963,
+      "word": "三亚国产榴莲要来了",
+      "onboard_time": 1690294839,
+      "rank": 34,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 304252,
       "num": 304252,
       "word": "LNG什么运营",
@@ -3161,14 +3217,6 @@
       "onboard_time": 1690202794,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 303438,
-      "num": 303438,
-      "word": "卡斯柏谈和王一博对手戏",
-      "onboard_time": 1690294003,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 302875,
@@ -3529,6 +3577,14 @@
       "onboard_time": 1690269278,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255351,
+      "num": 255351,
+      "word": "杨澄你还怪听前女友话嘞",
+      "onboard_time": 1690295382,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 254683,
@@ -3939,14 +3995,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 207593,
-      "num": 207593,
-      "word": "涂山璟九条尾巴可以给相柳当围脖",
-      "onboard_time": 1690294479,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207080,
       "num": 207080,
       "word": "买演唱会门票一定要小心了",
@@ -4033,6 +4081,14 @@
       "onboard_time": 1690214972,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201346,
+      "num": 201346,
+      "word": "LPL",
+      "onboard_time": 1690295563,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 201177,
@@ -4153,6 +4209,14 @@
       "onboard_time": 1690208984,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193990,
+      "num": 193990,
+      "word": "檀健次给狗看长相思",
+      "onboard_time": 1690295677,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 193972,
