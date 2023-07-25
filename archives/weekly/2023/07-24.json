@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690253792935,
+  "endTime": 1690255077178,
   "band_list": [
     {
       "raw_hot": 10945238,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1564318,
+      "num": 1564318,
+      "word": "于晓光说特别对不起秋瓷炫",
+      "onboard_time": 1690251630,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1535697,
       "num": 1535697,
       "word": "8小时睡眠论",
@@ -291,14 +299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1457564,
-      "num": 1457564,
-      "word": "于晓光说特别对不起秋瓷炫",
-      "onboard_time": 1690251630,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1445507,
       "num": 1445507,
       "word": "电竞选手叮当猫去世",
@@ -321,6 +321,14 @@
       "onboard_time": 1690178864,
       "rank": 5,
       "category": "音乐,科技"
+    },
+    {
+      "raw_hot": 1426790,
+      "num": 1426790,
+      "word": "迪丽热巴火焰裙",
+      "onboard_time": 1690253371,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1418155,
@@ -491,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1027624,
+      "num": 1027624,
+      "word": "感受一下西藏的物价",
+      "onboard_time": 1690250493,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1016480,
       "num": 1016480,
       "word": "颖儿家暴戏至少化妆2小时",
@@ -537,6 +553,14 @@
       "onboard_time": 1690181976,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 977412,
+      "num": 977412,
+      "word": "我的人间烟火评分降到3.8分",
+      "onboard_time": 1690251154,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 975000,
@@ -593,6 +617,14 @@
       "onboard_time": 1690173763,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905826,
+      "num": 905826,
+      "word": "狗狗的牙齿竟然是小手套形状",
+      "onboard_time": 1690252173,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 892147,
@@ -659,14 +691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 857031,
-      "num": 857031,
-      "word": "狗狗的牙齿竟然是小手套形状",
-      "onboard_time": 1690252173,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 838672,
       "num": 838672,
       "word": "五月天泉州",
@@ -689,14 +713,6 @@
       "onboard_time": 1690206997,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 824130,
-      "num": 824130,
-      "word": "感受一下西藏的物价",
-      "onboard_time": 1690250493,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 815601,
@@ -723,20 +739,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 789146,
+      "num": 789146,
+      "word": "女子在南京地铁车厢喝水被开罚单",
+      "onboard_time": 1690252894,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780264,
       "num": 517481,
       "word": "TFBOYS十周年演唱会线上开票了",
       "onboard_time": 1690179704,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 766530,
-      "num": 766530,
-      "word": "我的人间烟火评分降到3.8分",
-      "onboard_time": 1690251154,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 763977,
@@ -867,11 +883,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 682377,
+      "num": 682377,
+      "word": "何炅神预言TFBOYS十周年演唱会",
+      "onboard_time": 1690254275,
+      "rank": 11,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 679491,
       "num": 679491,
       "word": "孟宴臣的皇冠vs宋焰的钻戒",
       "onboard_time": 1690156167,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 677468,
+      "num": 677468,
+      "word": "魏大勋也很想留住这批观众吧",
+      "onboard_time": 1690250613,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -1147,6 +1179,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 566874,
+      "num": 495492,
+      "word": "李兰迪王阳演情侣",
+      "onboard_time": 1690254275,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 566398,
       "num": 566398,
       "word": "秋瓷炫给于晓光和儿子听写韩语",
@@ -1219,11 +1259,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 537047,
-      "num": 537047,
-      "word": "魏大勋也很想留住这批观众吧",
-      "onboard_time": 1690250613,
-      "rank": 19,
+      "raw_hot": 538367,
+      "num": 538367,
+      "word": "杨紫长相思第16集恢复女装",
+      "onboard_time": 1690253974,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -1299,8 +1339,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 503555,
+      "num": 503555,
+      "word": "当我出门忘关18度的空调时",
+      "onboard_time": 1690253076,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 503189,
-      "num": 443657,
+      "num": 450614,
       "word": "通勤1公里要不要买电动车",
       "onboard_time": 1690251577,
       "rank": 21,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1690245094,
       "rank": 17,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 492061,
+      "num": 492061,
+      "word": "普通人跟爱豆无法恋爱的原因",
+      "onboard_time": 1690253794,
+      "rank": 22,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 483686,
@@ -1411,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465242,
+      "num": 465242,
+      "word": "三十四中门前的黄桃罐头和AD钙奶",
+      "onboard_time": 1690251094,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459362,
       "num": 459362,
       "word": "TES运营",
@@ -1435,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454488,
+      "num": 454488,
+      "word": "五月天西安",
+      "onboard_time": 1690253734,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 449819,
       "num": 449819,
       "word": "结婚的好处是什么",
@@ -1457,14 +1529,6 @@
       "onboard_time": 1690194214,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444121,
-      "num": 444121,
-      "word": "迪丽热巴火焰裙",
-      "onboard_time": 1690253371,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 441503,
@@ -1523,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434654,
-      "num": 434654,
-      "word": "三十四中门前的黄桃罐头和AD钙奶",
-      "onboard_time": 1690251094,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 431652,
       "num": 351860,
       "word": "女子不听建议见手青炒5分吃完头晕",
@@ -1579,14 +1635,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 419945,
-      "num": 419945,
-      "word": "女子在南京地铁车厢喝水被开罚单",
-      "onboard_time": 1690252894,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414552,
       "num": 414552,
       "word": "蓝鸟logo设计师分享设计线稿",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1690189775,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413618,
+      "num": 413618,
+      "word": "鞠婧祎渐变牛仔裙",
+      "onboard_time": 1690254033,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 413308,
@@ -1640,6 +1696,14 @@
       "word": "男孩看到妈妈剖腹产疤痕心疼说原谅我",
       "onboard_time": 1690185816,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399726,
+      "num": 399726,
+      "word": "不同水果展示女性分娩时宫口张开的大小",
+      "onboard_time": 1690253494,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1707,14 +1771,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 386561,
-      "num": 348331,
-      "word": "当我出门忘关18度的空调时",
-      "onboard_time": 1690253076,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 384326,
       "num": 384326,
       "word": "朱志鑫 体能方面没那么稳固",
@@ -1747,20 +1803,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 377320,
+      "num": 377320,
+      "word": "吴宣仪算不算旺男主的体质",
+      "onboard_time": 1690252774,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373687,
       "num": 373687,
       "word": "阿娇看体重的样子演我",
       "onboard_time": 1690197334,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372021,
-      "num": 372021,
-      "word": "吴宣仪算不算旺男主的体质",
-      "onboard_time": 1690252774,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 368783,
@@ -2515,6 +2571,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 231749,
+      "num": 231749,
+      "word": "大鹏说热烈里的闹钟是陈烁自己做的",
+      "onboard_time": 1690254334,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231577,
       "num": 231577,
       "word": "独家童话",
@@ -2560,14 +2624,6 @@
       "word": "胡锡进齐齐哈尔坍塌是严重责任事故",
       "onboard_time": 1690179639,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225919,
-      "num": 225919,
-      "word": "不同水果展示女性分娩时宫口张开的大小",
-      "onboard_time": 1690253494,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2625,6 +2681,14 @@
       "onboard_time": 1690162952,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 214036,
+      "num": 214036,
+      "word": "going杂志",
+      "onboard_time": 1690255056,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213782,
@@ -2953,14 +3017,6 @@
       "onboard_time": 1690129589,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179799,
-      "num": 179799,
-      "word": "五月天西安",
-      "onboard_time": 1690253734,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 178684,
