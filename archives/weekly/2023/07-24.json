@@ -1,10 +1,18 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690283685935,
+  "endTime": 1690284829703,
   "band_list": [
     {
-      "raw_hot": 12111448,
-      "num": 409023,
+      "raw_hot": 18608026,
+      "num": 10970570,
+      "word": "秦刚外长职务被免去",
+      "onboard_time": 1690283507,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 14080426,
+      "num": 14080426,
       "word": "王毅任外交部部长",
       "onboard_time": 1690283200,
       "rank": 10,
@@ -97,14 +105,6 @@
       "onboard_time": 1690201291,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2929002,
-      "num": 311497,
-      "word": "秦刚外长职务被免去",
-      "onboard_time": 1690283507,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2734025,
@@ -1772,7 +1772,7 @@
     },
     {
       "raw_hot": 523993,
-      "num": 369541,
+      "num": 381970,
       "word": "柳智敏芭比造型",
       "onboard_time": 1690280020,
       "rank": 40,
@@ -2107,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440951,
+      "num": 380881,
+      "word": "赵露思打卡了宽窄巷子",
+      "onboard_time": 1690283259,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440770,
       "num": 440770,
       "word": "马立奥爸妈10天见4次面后闪婚",
@@ -2139,12 +2147,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 436144,
+      "num": 377857,
+      "word": "任命潘功胜为中国人民银行行长",
+      "onboard_time": 1690283988,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 434853,
       "num": 434853,
       "word": "比亚迪起诉汽车博主索赔500万",
       "onboard_time": 1690176700,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434540,
+      "num": 385031,
+      "word": "X JAPAN",
+      "onboard_time": 1690282897,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 434129,
@@ -2220,7 +2244,7 @@
     },
     {
       "raw_hot": 420558,
-      "num": 361303,
+      "num": 374030,
       "word": "赵丽颖魏大勋版杉杉来了",
       "onboard_time": 1690280678,
       "rank": 28,
@@ -2467,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370139,
+      "num": 370139,
+      "word": "李莲花穿嫁衣",
+      "onboard_time": 1690283320,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369088,
       "num": 369088,
       "word": "坍塌事故背后的齐齐哈尔曾走出多名国手",
@@ -2585,14 +2617,6 @@
       "onboard_time": 1690176576,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 348597,
-      "num": 348597,
-      "word": "X JAPAN",
-      "onboard_time": 1690282897,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 348163,
@@ -3371,14 +3395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240342,
-      "num": 240342,
-      "word": "李莲花穿嫁衣",
-      "onboard_time": 1690283320,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 238577,
       "num": 238577,
       "word": "影院贴男人视力表被指辱女",
@@ -3459,6 +3475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231201,
+      "num": 231201,
+      "word": "以闪亮之名声明",
+      "onboard_time": 1690282840,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229184,
       "num": 229184,
       "word": "巴黎圣日耳曼vs利雅得胜利",
@@ -3523,6 +3547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223083,
+      "num": 223083,
+      "word": "齐齐哈尔教育部门回应学生返校安排",
+      "onboard_time": 1690283076,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 222558,
       "num": 222558,
       "word": "刘惜君陨石透纱裙",
@@ -3553,14 +3585,6 @@
       "onboard_time": 1690267359,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217446,
-      "num": 217446,
-      "word": "以闪亮之名声明",
-      "onboard_time": 1690282840,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 215223,
@@ -3675,6 +3699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205928,
+      "num": 205928,
+      "word": "长相思 见面会",
+      "onboard_time": 1690282720,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205556,
       "num": 205556,
       "word": "没想到狗狗坐车居然也会晕车",
@@ -3705,14 +3737,6 @@
       "onboard_time": 1690268500,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204193,
-      "num": 204193,
-      "word": "赵露思打卡了宽窄巷子",
-      "onboard_time": 1690283259,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 201846,
@@ -3771,20 +3795,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 199903,
-      "num": 199903,
-      "word": "齐齐哈尔教育部门回应学生返校安排",
-      "onboard_time": 1690283076,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 199821,
       "num": 199821,
       "word": "摇光录",
       "onboard_time": 1690252112,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198685,
+      "num": 204091,
+      "word": "日方哪来的资格对台湾问题说三道四",
+      "onboard_time": 1690283867,
+      "rank": 44,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 198094,
@@ -4075,14 +4099,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 167679,
-      "num": 196767,
-      "word": "长相思 见面会",
-      "onboard_time": 1690282720,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167190,
       "num": 167190,
       "word": "莲花楼爱奇艺热度破7000",
@@ -4307,20 +4323,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125318,
+      "num": 1862654,
+      "word": "大运会开幕式烟花",
+      "onboard_time": 1690273299,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118294,
       "num": 209337,
       "word": "你们一定也很为我骄傲吧",
       "onboard_time": 1690194934,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117261,
-      "num": 950768,
-      "word": "大运会开幕式烟花",
-      "onboard_time": 1690273299,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 116508,

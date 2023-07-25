@@ -1,0 +1,410 @@
+{
+  "runTime": 1690284829703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14080426,
+        "num": 14080426,
+        "word": "王毅任外交部部长",
+        "onboard_time": 1690283200,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 18608026,
+        "num": 10970570,
+        "word": "秦刚外长职务被免去",
+        "onboard_time": 1690283507,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 125318,
+        "num": 1862654,
+        "word": "大运会开幕式烟花",
+        "onboard_time": 1690273299,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 884790,
+        "num": 884790,
+        "word": "吴亦凡犯强奸聚众淫乱二审开庭",
+        "onboard_time": 1690261661,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 668326,
+        "num": 762746,
+        "word": "幼童三楼坠落一群人张开双臂",
+        "onboard_time": 1690279959,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709239,
+        "num": 709239,
+        "word": "going seventeen",
+        "onboard_time": 1690281698,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174328,
+        "num": 579059,
+        "word": "男子隧道摔车公交司机变道为其挡车",
+        "onboard_time": 1690278637,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540856,
+        "num": 540856,
+        "word": "六公主评追星乱象",
+        "onboard_time": 1690276658,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 502870,
+        "num": 502870,
+        "word": "电视剧长相思",
+        "onboard_time": 1690278101,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385853,
+        "num": 385853,
+        "word": "魏大勋新剧捧花杀青照",
+        "onboard_time": 1690279777,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1886050,
+        "num": 385756,
+        "word": "王雪峰被逮捕",
+        "onboard_time": 1690276960,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1761140,
+        "num": 385730,
+        "word": "刘珂 赵丽颖",
+        "onboard_time": 1690281218,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1541031,
+        "num": 385588,
+        "word": "吴亦凡至今已被拘押看守所近2年",
+        "onboard_time": 1690272937,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 983214,
+        "num": 385533,
+        "word": "肠癌患者手术失败死亡尸检未见肠癌",
+        "onboard_time": 1690281519,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701305,
+        "num": 385413,
+        "word": "Lisa坐路边喝红酒",
+        "onboard_time": 1690277617,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969209,
+        "num": 385269,
+        "word": "吴亦凡二审通知了加拿大驻华使馆",
+        "onboard_time": 1690281815,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 479681,
+        "num": 385167,
+        "word": "孙艺珍晒儿子小手",
+        "onboard_time": 1690279001,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448663,
+        "num": 385102,
+        "word": "赵丽颖泰国",
+        "onboard_time": 1690277259,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434540,
+        "num": 385031,
+        "word": "X JAPAN",
+        "onboard_time": 1690282897,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384957,
+        "num": 384957,
+        "word": "长相思直播",
+        "onboard_time": 1690276658,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649191,
+        "num": 384008,
+        "word": "台湾13岁女孩配合警方当诱饵遭性侵",
+        "onboard_time": 1690274498,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470104,
+        "num": 381970,
+        "word": "柳智敏芭比造型",
+        "onboard_time": 1690280020,
+        "rank": 21,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 440951,
+        "num": 380881,
+        "word": "赵露思打卡了宽窄巷子",
+        "onboard_time": 1690283259,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436144,
+        "num": 377857,
+        "word": "任命潘功胜为中国人民银行行长",
+        "onboard_time": 1690283988,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 428801,
+        "num": 376879,
+        "word": "微信可以批量删除好友",
+        "onboard_time": 1690272937,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 386569,
+        "num": 374698,
+        "word": "男子悬崖旁求婚后女友不慎坠亡",
+        "onboard_time": 1690275941,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374030,
+        "num": 374030,
+        "word": "赵丽颖魏大勋版杉杉来了",
+        "onboard_time": 1690280678,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370139,
+        "num": 370139,
+        "word": "李莲花穿嫁衣",
+        "onboard_time": 1690283320,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332711,
+        "num": 332711,
+        "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
+        "onboard_time": 1690265440,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293794,
+        "num": 293794,
+        "word": "瘦了30斤以后侧脸的变化",
+        "onboard_time": 1690262805,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 364291,
+        "num": 293577,
+        "word": "娃 我已经给你反应的时间了",
+        "onboard_time": 1690279717,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274018,
+        "num": 274018,
+        "word": "刀郎新歌被指内涵四位明星",
+        "onboard_time": 1690263225,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266302,
+        "num": 266302,
+        "word": "肚子里的宝宝与妈妈抢营养是因爸爸",
+        "onboard_time": 1690269878,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262543,
+        "num": 262543,
+        "word": "王鹤棣新剧蓝衣高马尾路透",
+        "onboard_time": 1690280565,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254967,
+        "num": 254967,
+        "word": "体重诠释了你的代谢情况",
+        "onboard_time": 1690276360,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 243678,
+        "num": 243678,
+        "word": "LNG对战WBG",
+        "onboard_time": 1690278276,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234927,
+        "num": 234927,
+        "word": "Uzi",
+        "onboard_time": 1690278818,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231201,
+        "num": 231201,
+        "word": "以闪亮之名声明",
+        "onboard_time": 1690282840,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223083,
+        "num": 223083,
+        "word": "齐齐哈尔教育部门回应学生返校安排",
+        "onboard_time": 1690283076,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 215940,
+        "num": 215940,
+        "word": "TT拿到了seventeen的签名",
+        "onboard_time": 1690270900,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168629,
+        "num": 213165,
+        "word": "由外婆带大的励志女孩被清华录取",
+        "onboard_time": 1690278637,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 211748,
+        "num": 211748,
+        "word": "吴亦凡不服一审提起上诉",
+        "onboard_time": 1690262142,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 205928,
+        "num": 205928,
+        "word": "长相思 见面会",
+        "onboard_time": 1690282720,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204097,
+        "num": 204097,
+        "word": "39岁硕士称找工作因年龄被卡",
+        "onboard_time": 1690266820,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 198685,
+        "num": 204091,
+        "word": "日方哪来的资格对台湾问题说三道四",
+        "onboard_time": 1690283867,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 198569,
+        "num": 204086,
+        "word": "杨澄终生未娶王莹终生未嫁",
+        "onboard_time": 1690265564,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176448,
+        "num": 204076,
+        "word": "吴亦凡公司仅剩1家存续",
+        "onboard_time": 1690265201,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 166450,
+        "num": 204068,
+        "word": "染发后竟然变成了光头",
+        "onboard_time": 1690267302,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156876,
+        "num": 204060,
+        "word": "巴黎圣日耳曼vs利雅得胜利",
+        "onboard_time": 1690280319,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156286,
+        "num": 204053,
+        "word": "请黄晓明把自己焊死在民国剧",
+        "onboard_time": 1690260936,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央为下半年经济工作划出重点#"
+    }
+  }
+}

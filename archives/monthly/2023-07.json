@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690283685935,
+  "endTime": 1690284829703,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -59,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18608026,
+      "num": 10970570,
+      "word": "秦刚外长职务被免去",
+      "onboard_time": 1690283507,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 18570708,
       "num": 18570708,
       "word": "汪峰发了个锤子",
       "onboard_time": 1688358879,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14080426,
+      "num": 14080426,
+      "word": "王毅任外交部部长",
+      "onboard_time": 1690283200,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 13978570,
@@ -89,14 +105,6 @@
       "onboard_time": 1688299053,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12111448,
-      "num": 409023,
-      "word": "王毅任外交部部长",
-      "onboard_time": 1690283200,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 11613152,
@@ -1153,14 +1161,6 @@
       "onboard_time": 1688519853,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2929002,
-      "num": 311497,
-      "word": "秦刚外长职务被免去",
-      "onboard_time": 1690283507,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2924450,
@@ -21844,7 +21844,7 @@
     },
     {
       "raw_hot": 523993,
-      "num": 369541,
+      "num": 381970,
       "word": "柳智敏芭比造型",
       "onboard_time": 1690280020,
       "rank": 40,
@@ -26219,6 +26219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440951,
+      "num": 380881,
+      "word": "赵露思打卡了宽窄巷子",
+      "onboard_time": 1690283259,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440770,
       "num": 440770,
       "word": "马立奥爸妈10天见4次面后闪婚",
@@ -26595,6 +26603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436144,
+      "num": 377857,
+      "word": "任命潘功胜为中国人民银行行长",
+      "onboard_time": 1690283988,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 436110,
       "num": 436110,
       "word": "62岁儿子患癌88岁父亲每天看望",
@@ -26673,6 +26689,14 @@
       "onboard_time": 1689246391,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434540,
+      "num": 385031,
+      "word": "X JAPAN",
+      "onboard_time": 1690282897,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 434517,
@@ -27716,7 +27740,7 @@
     },
     {
       "raw_hot": 420558,
-      "num": 361303,
+      "num": 374030,
       "word": "赵丽颖魏大勋版杉杉来了",
       "onboard_time": 1690280678,
       "rank": 28,
@@ -31187,6 +31211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370139,
+      "num": 370139,
+      "word": "李莲花穿嫁衣",
+      "onboard_time": 1690283320,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369990,
       "num": 369990,
       "word": "TFBOYS我们的时光MV开头",
@@ -32961,14 +32993,6 @@
       "onboard_time": 1688476174,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 348597,
-      "num": 348597,
-      "word": "X JAPAN",
-      "onboard_time": 1690282897,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 348522,
@@ -44147,14 +44171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240342,
-      "num": 240342,
-      "word": "李莲花穿嫁衣",
-      "onboard_time": 1690283320,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 240249,
       "num": 240249,
       "word": "中国一点都不能少",
@@ -45371,6 +45387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231201,
+      "num": 231201,
+      "word": "以闪亮之名声明",
+      "onboard_time": 1690282840,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231181,
       "num": 231181,
       "word": "抑郁的反面不是快乐而是活力",
@@ -46427,6 +46451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223083,
+      "num": 223083,
+      "word": "齐齐哈尔教育部门回应学生返校安排",
+      "onboard_time": 1690283076,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 223069,
       "num": 223069,
       "word": "小朋友练习街舞时突然展现了神来之笔",
@@ -47088,14 +47120,6 @@
       "word": "jiejie采访",
       "onboard_time": 1690035273,
       "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 217446,
-      "num": 217446,
-      "word": "以闪亮之名声明",
-      "onboard_time": 1690282840,
-      "rank": 39,
       "category": "游戏"
     },
     {
@@ -48995,6 +49019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205928,
+      "num": 205928,
+      "word": "长相思 见面会",
+      "onboard_time": 1690282720,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205900,
       "num": 205900,
       "word": "邢菲刘美含同框录制全员加速中",
@@ -49225,14 +49257,6 @@
       "onboard_time": 1689726571,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204193,
-      "num": 204193,
-      "word": "赵露思打卡了宽窄巷子",
-      "onboard_time": 1690283259,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 204051,
@@ -50011,14 +50035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199903,
-      "num": 199903,
-      "word": "齐齐哈尔教育部门回应学生返校安排",
-      "onboard_time": 1690283076,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 199821,
       "num": 199821,
       "word": "时影术法手势教学",
@@ -50177,6 +50193,14 @@
       "onboard_time": 1689668012,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198685,
+      "num": 204091,
+      "word": "日方哪来的资格对台湾问题说三道四",
+      "onboard_time": 1690283867,
+      "rank": 44,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 198652,
@@ -54563,14 +54587,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 167679,
-      "num": 196767,
-      "word": "长相思 见面会",
-      "onboard_time": 1690282720,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167578,
       "num": 167578,
       "word": "妈妈30年前成长日记每句都在说爱你",
@@ -57171,6 +57187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125318,
+      "num": 1862654,
+      "word": "大运会开幕式烟花",
+      "onboard_time": 1690273299,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125220,
       "num": 251755,
       "word": "拥抱是最棒的充电方式",
@@ -57401,14 +57425,6 @@
       "onboard_time": 1689112153,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 117261,
-      "num": 950768,
-      "word": "大运会开幕式烟花",
-      "onboard_time": 1690273299,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 116199,

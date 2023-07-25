@@ -1,10 +1,18 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690283685935,
+  "endTime": 1690284829703,
   "band_list": [
     {
-      "raw_hot": 12111448,
-      "num": 409023,
+      "raw_hot": 18608026,
+      "num": 10970570,
+      "word": "秦刚外长职务被免去",
+      "onboard_time": 1690283507,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 14080426,
+      "num": 14080426,
       "word": "王毅任外交部部长",
       "onboard_time": 1690283200,
       "rank": 10,
@@ -49,14 +57,6 @@
       "onboard_time": 1690207899,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2929002,
-      "num": 311497,
-      "word": "秦刚外长职务被免去",
-      "onboard_time": 1690283507,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2734025,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 523993,
-      "num": 369541,
+      "num": 381970,
       "word": "柳智敏芭比造型",
       "onboard_time": 1690280020,
       "rank": 40,
@@ -987,12 +987,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 440951,
+      "num": 380881,
+      "word": "赵露思打卡了宽窄巷子",
+      "onboard_time": 1690283259,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436899,
       "num": 329406,
       "word": "长相思好好看",
       "onboard_time": 1690213417,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 436144,
+      "num": 377857,
+      "word": "任命潘功胜为中国人民银行行长",
+      "onboard_time": 1690283988,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 434540,
+      "num": 385031,
+      "word": "X JAPAN",
+      "onboard_time": 1690282897,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 434129,
@@ -1044,7 +1068,7 @@
     },
     {
       "raw_hot": 420558,
-      "num": 361303,
+      "num": 374030,
       "word": "赵丽颖魏大勋版杉杉来了",
       "onboard_time": 1690280678,
       "rank": 28,
@@ -1163,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370139,
+      "num": 370139,
+      "word": "李莲花穿嫁衣",
+      "onboard_time": 1690283320,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369088,
       "num": 369088,
       "word": "坍塌事故背后的齐齐哈尔曾走出多名国手",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1690245757,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 348597,
-      "num": 348597,
-      "word": "X JAPAN",
-      "onboard_time": 1690282897,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 348163,
@@ -1603,14 +1627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 240342,
-      "num": 240342,
-      "word": "李莲花穿嫁衣",
-      "onboard_time": 1690283320,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 238614,
       "num": 227607,
       "word": "打工人最讨厌的那类小领导",
@@ -1651,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231201,
+      "num": 231201,
+      "word": "以闪亮之名声明",
+      "onboard_time": 1690282840,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230501,
       "num": 230501,
       "word": "女子称孕期被丈夫挤压肚子",
@@ -1683,6 +1707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223083,
+      "num": 223083,
+      "word": "齐齐哈尔教育部门回应学生返校安排",
+      "onboard_time": 1690283076,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 222493,
       "num": 222493,
       "word": "男明星的大头综合征",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1690267359,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217446,
-      "num": 217446,
-      "word": "以闪亮之名声明",
-      "onboard_time": 1690282840,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 214788,
@@ -1763,6 +1787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205928,
+      "num": 205928,
+      "word": "长相思 见面会",
+      "onboard_time": 1690282720,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205451,
       "num": 205451,
       "word": "森林进化论",
@@ -1777,14 +1809,6 @@
       "onboard_time": 1690268500,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204193,
-      "num": 204193,
-      "word": "赵露思打卡了宽窄巷子",
-      "onboard_time": 1690283259,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 203512,
@@ -1819,20 +1843,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199903,
-      "num": 199903,
-      "word": "齐齐哈尔教育部门回应学生返校安排",
-      "onboard_time": 1690283076,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 199821,
       "num": 199821,
       "word": "摇光录",
       "onboard_time": 1690252112,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198685,
+      "num": 204091,
+      "word": "日方哪来的资格对台湾问题说三道四",
+      "onboard_time": 1690283867,
+      "rank": 44,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 198094,
@@ -1931,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167679,
-      "num": 196767,
-      "word": "长相思 见面会",
-      "onboard_time": 1690282720,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166169,
       "num": 166169,
       "word": "安乐 那你要这么想我也没有办法",
@@ -2011,8 +2027,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 117261,
-      "num": 950768,
+      "raw_hot": 125318,
+      "num": 1862654,
       "word": "大运会开幕式烟花",
       "onboard_time": 1690273299,
       "rank": 2,
