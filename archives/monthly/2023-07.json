@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690281329597,
+  "endTime": 1690283685935,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -89,6 +89,14 @@
       "onboard_time": 1688299053,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12111448,
+      "num": 409023,
+      "word": "王毅任外交部部长",
+      "onboard_time": 1690283200,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 11613152,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1688519853,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2929002,
+      "num": 311497,
+      "word": "秦刚外长职务被免去",
+      "onboard_time": 1690283507,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2924450,
@@ -2392,6 +2408,14 @@
       "word": "谢娜发文悼念李玟",
       "onboard_time": 1688606739,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2112224,
+      "num": 406421,
+      "word": "刘珂 赵丽颖",
+      "onboard_time": 1690281218,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -7091,6 +7115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1166325,
+      "num": 397528,
+      "word": "吴亦凡二审通知了加拿大驻华使馆",
+      "onboard_time": 1690281815,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1165796,
       "num": 924892,
       "word": "肖战洗澡vs杨洋王子奇洗澡",
@@ -9065,6 +9097,14 @@
       "onboard_time": 1688862687,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 998628,
+      "num": 398160,
+      "word": "肠癌患者手术失败死亡尸检未见肠癌",
+      "onboard_time": 1690281519,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 998198,
@@ -12059,6 +12099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 833541,
+      "num": 833541,
+      "word": "going seventeen",
+      "onboard_time": 1690281698,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 833489,
       "num": 833489,
       "word": "杨紫万茜李晟你们怎么还整过这出",
@@ -14833,6 +14881,14 @@
       "onboard_time": 1688944944,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 713166,
+      "num": 949450,
+      "word": "幼童三楼坠落一群人张开双臂",
+      "onboard_time": 1690279959,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712660,
@@ -21787,6 +21843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523993,
+      "num": 369541,
+      "word": "柳智敏芭比造型",
+      "onboard_time": 1690280020,
+      "rank": 40,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 523857,
       "num": 523857,
       "word": "领导过于关心我的私生活",
@@ -27539,6 +27603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421789,
+      "num": 421789,
+      "word": "魏大勋新剧捧花杀青照",
+      "onboard_time": 1690279777,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421704,
       "num": 412492,
       "word": "卡捷琳娜制作人是老公不是老龚",
@@ -27641,6 +27713,14 @@
       "onboard_time": 1688959230,
       "rank": 23,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 420558,
+      "num": 361303,
+      "word": "赵丽颖魏大勋版杉杉来了",
+      "onboard_time": 1690280678,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 420537,
@@ -28577,6 +28657,14 @@
       "onboard_time": 1688381625,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 403651,
+      "num": 309718,
+      "word": "娃 我已经给你反应的时间了",
+      "onboard_time": 1690279717,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 403351,
@@ -30273,6 +30361,14 @@
       "onboard_time": 1690240945,
       "rank": 30,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 380824,
+      "num": 380824,
+      "word": "LNG对战WBG",
+      "onboard_time": 1690278276,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 380756,
@@ -32867,6 +32963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 348597,
+      "num": 348597,
+      "word": "X JAPAN",
+      "onboard_time": 1690282897,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348522,
       "num": 348522,
       "word": "中等偏上的人生是怎样的",
@@ -33264,14 +33368,6 @@
       "word": "毕业一年爸爸突然找我借五千块",
       "onboard_time": 1688718634,
       "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 341677,
-      "num": 273136,
-      "word": "娃 我已经给你反应的时间了",
-      "onboard_time": 1690279717,
-      "rank": 42,
       "category": "幽默"
     },
     {
@@ -34499,14 +34595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328025,
-      "num": 328025,
-      "word": "柳智敏芭比造型",
-      "onboard_time": 1690280020,
-      "rank": 40,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 327931,
       "num": 284287,
       "word": "女子找手机全飞机乘客干等3小时",
@@ -35195,14 +35283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319336,
-      "num": 404827,
-      "word": "魏大勋新剧捧花杀青照",
-      "onboard_time": 1690279777,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319308,
       "num": 319308,
       "word": "Angelababy王鹤棣传唱挖呀挖呀挖",
@@ -35537,14 +35617,6 @@
       "onboard_time": 1688881228,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315017,
-      "num": 315017,
-      "word": "LNG对战WBG",
-      "onboard_time": 1690278276,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 314929,
@@ -38219,6 +38291,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 290974,
+      "num": 290974,
+      "word": "王鹤棣新剧蓝衣高马尾路透",
+      "onboard_time": 1690280565,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290779,
       "num": 216125,
       "word": "封神第一部评分",
@@ -38233,14 +38313,6 @@
       "onboard_time": 1688818293,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 290746,
-      "num": 290746,
-      "word": "赵丽颖魏大勋版杉杉来了",
-      "onboard_time": 1690280678,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 290650,
@@ -39881,22 +39953,6 @@
       "onboard_time": 1688385040,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 276358,
-      "num": 579962,
-      "word": "幼童三楼坠落一群人张开双臂",
-      "onboard_time": 1690279959,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276286,
-      "num": 272726,
-      "word": "刘珂 赵丽颖",
-      "onboard_time": 1690281218,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 276281,
@@ -44091,6 +44147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240342,
+      "num": 240342,
+      "word": "李莲花穿嫁衣",
+      "onboard_time": 1690283320,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240249,
       "num": 240249,
       "word": "中国一点都不能少",
@@ -45475,6 +45539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229184,
+      "num": 229184,
+      "word": "巴黎圣日耳曼vs利雅得胜利",
+      "onboard_time": 1690280319,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229155,
       "num": 220660,
       "word": "和恐龙一个年纪的树长什么样",
@@ -46065,14 +46137,6 @@
       "onboard_time": 1688398060,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224787,
-      "num": 224787,
-      "word": "王鹤棣新剧蓝衣高马尾路透",
-      "onboard_time": 1690280565,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 224767,
@@ -47024,6 +47088,14 @@
       "word": "jiejie采访",
       "onboard_time": 1690035273,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 217446,
+      "num": 217446,
+      "word": "以闪亮之名声明",
+      "onboard_time": 1690282840,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -48883,14 +48955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206176,
-      "num": 206176,
-      "word": "巴黎圣日耳曼vs利雅得胜利",
-      "onboard_time": 1690280319,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206088,
       "num": 211775,
       "word": "你能接受男士夏天打伞吗",
@@ -49161,6 +49225,14 @@
       "onboard_time": 1689726571,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204193,
+      "num": 204193,
+      "word": "赵露思打卡了宽窄巷子",
+      "onboard_time": 1690283259,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 204051,
@@ -49939,6 +50011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199903,
+      "num": 199903,
+      "word": "齐齐哈尔教育部门回应学生返校安排",
+      "onboard_time": 1690283076,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 199821,
       "num": 199821,
       "word": "时影术法手势教学",
@@ -50425,6 +50505,14 @@
       "onboard_time": 1690106192,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196795,
+      "num": 196795,
+      "word": "薛之谦北京",
+      "onboard_time": 1690283200,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 196785,
@@ -54473,6 +54561,14 @@
       "onboard_time": 1688575352,
       "rank": 45,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 167679,
+      "num": 196767,
+      "word": "长相思 见面会",
+      "onboard_time": 1690282720,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 167578,

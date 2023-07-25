@@ -1,0 +1,410 @@
+{
+  "runTime": 1690283685935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1165287,
+        "num": 1165287,
+        "word": "吴亦凡犯强奸聚众淫乱二审开庭",
+        "onboard_time": 1690261661,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 713166,
+        "num": 949450,
+        "word": "幼童三楼坠落一群人张开双臂",
+        "onboard_time": 1690279959,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102228,
+        "num": 837045,
+        "word": "大运会开幕式烟花",
+        "onboard_time": 1690273299,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 833541,
+        "num": 833541,
+        "word": "going seventeen",
+        "onboard_time": 1690281698,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222134,
+        "num": 602990,
+        "word": "男子隧道摔车公交司机变道为其挡车",
+        "onboard_time": 1690278637,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591670,
+        "num": 591670,
+        "word": "六公主评追星乱象",
+        "onboard_time": 1690276658,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 205658,
+        "num": 503750,
+        "word": "由外婆带大的励志女孩被清华录取",
+        "onboard_time": 1690278637,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 482284,
+        "num": 482284,
+        "word": "电视剧长相思",
+        "onboard_time": 1690278101,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421789,
+        "num": 421789,
+        "word": "魏大勋新剧捧花杀青照",
+        "onboard_time": 1690279777,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411263,
+        "num": 411263,
+        "word": "长相思直播",
+        "onboard_time": 1690276658,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12111448,
+        "num": 409023,
+        "word": "王毅任外交部部长",
+        "onboard_time": 1690283200,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2295577,
+        "num": 408556,
+        "word": "王雪峰被逮捕",
+        "onboard_time": 1690276960,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2112224,
+        "num": 406421,
+        "word": "刘珂 赵丽颖",
+        "onboard_time": 1690281218,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2101504,
+        "num": 404105,
+        "word": "吴亦凡至今已被拘押看守所近2年",
+        "onboard_time": 1690272937,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 401986,
+        "num": 401986,
+        "word": "瘦了30斤以后侧脸的变化",
+        "onboard_time": 1690262805,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 998628,
+        "num": 398160,
+        "word": "肠癌患者手术失败死亡尸检未见肠癌",
+        "onboard_time": 1690281519,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166325,
+        "num": 397528,
+        "word": "吴亦凡二审通知了加拿大驻华使馆",
+        "onboard_time": 1690281815,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 962144,
+        "num": 390484,
+        "word": "Lisa坐路边喝红酒",
+        "onboard_time": 1690277617,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727099,
+        "num": 388955,
+        "word": "赵丽颖泰国",
+        "onboard_time": 1690277259,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557440,
+        "num": 384599,
+        "word": "孙艺珍晒儿子小手",
+        "onboard_time": 1690279001,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380824,
+        "num": 380824,
+        "word": "LNG对战WBG",
+        "onboard_time": 1690278276,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 736659,
+        "num": 380547,
+        "word": "台湾13岁女孩配合警方当诱饵遭性侵",
+        "onboard_time": 1690274498,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576307,
+        "num": 373782,
+        "word": "微信可以批量删除好友",
+        "onboard_time": 1690272937,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 523993,
+        "num": 369541,
+        "word": "柳智敏芭比造型",
+        "onboard_time": 1690280020,
+        "rank": 23,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 424460,
+        "num": 367332,
+        "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
+        "onboard_time": 1690265440,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420558,
+        "num": 361303,
+        "word": "赵丽颖魏大勋版杉杉来了",
+        "onboard_time": 1690280678,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401284,
+        "num": 356319,
+        "word": "男子悬崖旁求婚后女友不慎坠亡",
+        "onboard_time": 1690275941,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354461,
+        "num": 354461,
+        "word": "刀郎新歌被指内涵四位明星",
+        "onboard_time": 1690263225,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348597,
+        "num": 348597,
+        "word": "X JAPAN",
+        "onboard_time": 1690282897,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330602,
+        "num": 330602,
+        "word": "肚子里的宝宝与妈妈抢营养是因爸爸",
+        "onboard_time": 1690269878,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2929002,
+        "num": 311497,
+        "word": "秦刚外长职务被免去",
+        "onboard_time": 1690283507,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 403651,
+        "num": 309718,
+        "word": "娃 我已经给你反应的时间了",
+        "onboard_time": 1690279717,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290974,
+        "num": 290974,
+        "word": "王鹤棣新剧蓝衣高马尾路透",
+        "onboard_time": 1690280565,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288470,
+        "num": 288470,
+        "word": "Uzi",
+        "onboard_time": 1690278818,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286050,
+        "num": 286050,
+        "word": "39岁硕士称找工作因年龄被卡",
+        "onboard_time": 1690266820,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 259046,
+        "num": 259046,
+        "word": "体重诠释了你的代谢情况",
+        "onboard_time": 1690276360,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254776,
+        "num": 254776,
+        "word": "吴亦凡不服一审提起上诉",
+        "onboard_time": 1690262142,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 240342,
+        "num": 240342,
+        "word": "李莲花穿嫁衣",
+        "onboard_time": 1690283320,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229184,
+        "num": 229184,
+        "word": "巴黎圣日耳曼vs利雅得胜利",
+        "onboard_time": 1690280319,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217446,
+        "num": 217446,
+        "word": "以闪亮之名声明",
+        "onboard_time": 1690282840,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215850,
+        "num": 215850,
+        "word": "TT拿到了seventeen的签名",
+        "onboard_time": 1690270900,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212012,
+        "num": 212012,
+        "word": "杨澄终生未娶王莹终生未嫁",
+        "onboard_time": 1690265564,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204193,
+        "num": 204193,
+        "word": "赵露思打卡了宽窄巷子",
+        "onboard_time": 1690283259,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199903,
+        "num": 199903,
+        "word": "齐齐哈尔教育部门回应学生返校安排",
+        "onboard_time": 1690283076,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 196795,
+        "num": 196795,
+        "word": "薛之谦北京",
+        "onboard_time": 1690283200,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186299,
+        "num": 196792,
+        "word": "染发后竟然变成了光头",
+        "onboard_time": 1690267302,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180995,
+        "num": 196780,
+        "word": "吴亦凡公司仅剩1家存续",
+        "onboard_time": 1690265201,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 169213,
+        "num": 196770,
+        "word": "TFBOYS每家都有合作的电池品牌",
+        "onboard_time": 1690263463,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167679,
+        "num": 196767,
+        "word": "长相思 见面会",
+        "onboard_time": 1690282720,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169693,
+        "num": 196755,
+        "word": "吴亦凡表哥未履行1.45亿欠款",
+        "onboard_time": 1690268379,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面加强军事治理#"
+    }
+  }
+}

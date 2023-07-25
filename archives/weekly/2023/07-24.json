@@ -1,7 +1,15 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690281329597,
+  "endTime": 1690283685935,
   "band_list": [
+    {
+      "raw_hot": 12111448,
+      "num": 409023,
+      "word": "王毅任外交部部长",
+      "onboard_time": 1690283200,
+      "rank": 10,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 10945238,
       "num": 10945238,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2929002,
+      "num": 311497,
+      "word": "秦刚外长职务被免去",
+      "onboard_time": 1690283507,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2734025,
       "num": 556549,
       "word": "王雪峰被逮捕",
@@ -161,6 +177,14 @@
       "onboard_time": 1690247312,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2112224,
+      "num": 406421,
+      "word": "刘珂 赵丽颖",
+      "onboard_time": 1690281218,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 2079391,
@@ -579,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1166325,
+      "num": 397528,
+      "word": "吴亦凡二审通知了加拿大驻华使馆",
+      "onboard_time": 1690281815,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1128610,
       "num": 1128610,
       "word": "叶诗文",
@@ -721,6 +753,14 @@
       "onboard_time": 1690251154,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 998628,
+      "num": 398160,
+      "word": "肠癌患者手术失败死亡尸检未见肠癌",
+      "onboard_time": 1690281519,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 996446,
@@ -929,6 +969,14 @@
       "onboard_time": 1690248755,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 833541,
+      "num": 833541,
+      "word": "going seventeen",
+      "onboard_time": 1690281698,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 832225,
@@ -1160,6 +1208,14 @@
       "word": "3D还原齐齐哈尔体育馆坍塌过程",
       "onboard_time": 1690184735,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713166,
+      "num": 949450,
+      "word": "幼童三楼坠落一群人张开双臂",
+      "onboard_time": 1690279959,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1715,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523993,
+      "num": 369541,
+      "word": "柳智敏芭比造型",
+      "onboard_time": 1690280020,
+      "rank": 40,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 521499,
       "num": 521499,
       "word": "封神中弑父情节",
@@ -2147,6 +2211,22 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 421789,
+      "num": 421789,
+      "word": "魏大勋新剧捧花杀青照",
+      "onboard_time": 1690279777,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 420558,
+      "num": 361303,
+      "word": "赵丽颖魏大勋版杉杉来了",
+      "onboard_time": 1690280678,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414552,
       "num": 414552,
       "word": "蓝鸟logo设计师分享设计线稿",
@@ -2209,6 +2289,14 @@
       "onboard_time": 1690264004,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403651,
+      "num": 309718,
+      "word": "娃 我已经给你反应的时间了",
+      "onboard_time": 1690279717,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 401912,
@@ -2337,6 +2425,14 @@
       "onboard_time": 1690240945,
       "rank": 30,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 380824,
+      "num": 380824,
+      "word": "LNG对战WBG",
+      "onboard_time": 1690278276,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 378978,
@@ -2491,6 +2587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 348597,
+      "num": 348597,
+      "word": "X JAPAN",
+      "onboard_time": 1690282897,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348163,
       "num": 297765,
       "word": "18岁男生往尿道塞了25颗磁力珠",
@@ -2521,14 +2625,6 @@
       "onboard_time": 1690168595,
       "rank": 38,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 341677,
-      "num": 273136,
-      "word": "娃 我已经给你反应的时间了",
-      "onboard_time": 1690279717,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 341067,
@@ -2643,14 +2739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328025,
-      "num": 328025,
-      "word": "柳智敏芭比造型",
-      "onboard_time": 1690280020,
-      "rank": 40,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 327443,
       "num": 327443,
       "word": "西安就回流生录取工作作出情况说明",
@@ -2755,28 +2843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319336,
-      "num": 404827,
-      "word": "魏大勋新剧捧花杀青照",
-      "onboard_time": 1690279777,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 315041,
       "num": 315041,
       "word": "小朋友坐10个小时高铁不吵闹",
       "onboard_time": 1690191093,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315017,
-      "num": 315017,
-      "word": "LNG对战WBG",
-      "onboard_time": 1690278276,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 314528,
@@ -2923,11 +2995,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290746,
-      "num": 290746,
-      "word": "赵丽颖魏大勋版杉杉来了",
-      "onboard_time": 1690280678,
-      "rank": 28,
+      "raw_hot": 290974,
+      "num": 290974,
+      "word": "王鹤棣新剧蓝衣高马尾路透",
+      "onboard_time": 1690280565,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -3081,22 +3153,6 @@
       "onboard_time": 1690249532,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276358,
-      "num": 579962,
-      "word": "幼童三楼坠落一群人张开双臂",
-      "onboard_time": 1690279959,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276286,
-      "num": 272726,
-      "word": "刘珂 赵丽颖",
-      "onboard_time": 1690281218,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 274096,
@@ -3315,6 +3371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240342,
+      "num": 240342,
+      "word": "李莲花穿嫁衣",
+      "onboard_time": 1690283320,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238577,
       "num": 238577,
       "word": "影院贴男人视力表被指辱女",
@@ -3395,6 +3459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229184,
+      "num": 229184,
+      "word": "巴黎圣日耳曼vs利雅得胜利",
+      "onboard_time": 1690280319,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228749,
       "num": 226282,
       "word": "甲状腺癌",
@@ -3451,14 +3523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224787,
-      "num": 224787,
-      "word": "王鹤棣新剧蓝衣高马尾路透",
-      "onboard_time": 1690280565,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 222558,
       "num": 222558,
       "word": "刘惜君陨石透纱裙",
@@ -3489,6 +3553,14 @@
       "onboard_time": 1690267359,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217446,
+      "num": 217446,
+      "word": "以闪亮之名声明",
+      "onboard_time": 1690282840,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 215223,
@@ -3603,14 +3675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206176,
-      "num": 206176,
-      "word": "巴黎圣日耳曼vs利雅得胜利",
-      "onboard_time": 1690280319,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205556,
       "num": 205556,
       "word": "没想到狗狗坐车居然也会晕车",
@@ -3641,6 +3705,14 @@
       "onboard_time": 1690268500,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204193,
+      "num": 204193,
+      "word": "赵露思打卡了宽窄巷子",
+      "onboard_time": 1690283259,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 201846,
@@ -3699,6 +3771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 199903,
+      "num": 199903,
+      "word": "齐齐哈尔教育部门回应学生返校安排",
+      "onboard_time": 1690283076,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 199821,
       "num": 199821,
       "word": "摇光录",
@@ -3713,6 +3793,14 @@
       "onboard_time": 1690277198,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196795,
+      "num": 196795,
+      "word": "薛之谦北京",
+      "onboard_time": 1690283200,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 196352,
@@ -3985,6 +4073,14 @@
       "onboard_time": 1690125937,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 167679,
+      "num": 196767,
+      "word": "长相思 见面会",
+      "onboard_time": 1690282720,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 167190,
