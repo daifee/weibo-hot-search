@@ -1,0 +1,410 @@
+{
+  "runTime": 1690310029241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 443643,
+        "num": 443643,
+        "word": "卧底记者回应下架视频换缅甸放人",
+        "onboard_time": 1690305263,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343488,
+        "num": 343488,
+        "word": "长相思",
+        "onboard_time": 1690299636,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18787,
+        "num": 268717,
+        "word": "蓉宝去哪儿",
+        "onboard_time": 1690290158,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232167,
+        "num": 232167,
+        "word": "尊重观众的女扮男装",
+        "onboard_time": 1690304363,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181112,
+        "num": 181112,
+        "word": "TFBOYS官博倡议演唱会不应援",
+        "onboard_time": 1690288302,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175085,
+        "num": 175085,
+        "word": "长相思 雄竞修罗场",
+        "onboard_time": 1690298922,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151782,
+        "num": 151782,
+        "word": "妈妈回家故意敲门3岁男童装没听到",
+        "onboard_time": 1690298623,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160870,
+        "num": 139387,
+        "word": "叶十七 男绿茶",
+        "onboard_time": 1690295979,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106966,
+        "num": 106966,
+        "word": "肯德基回应男子吃出生牛蛙",
+        "onboard_time": 1690296037,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105390,
+        "num": 105390,
+        "word": "未婚小姑帮带双胞胎侄子一周瘦8斤",
+        "onboard_time": 1690300596,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354431,
+        "num": 105095,
+        "word": "殡仪馆证实岳阳17岁男子中枪身亡",
+        "onboard_time": 1690295143,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227070,
+        "num": 104944,
+        "word": "吴亦凡至今已被拘押看守所近2年",
+        "onboard_time": 1690272937,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 101459,
+        "num": 101459,
+        "word": "布朗尼遭遇心脏骤停",
+        "onboard_time": 1690296640,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98021,
+        "num": 98021,
+        "word": "Lisa坐路边喝红酒",
+        "onboard_time": 1690277617,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89793,
+        "num": 89793,
+        "word": "电视剧长相思",
+        "onboard_time": 1690278101,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85864,
+        "num": 85864,
+        "word": "原神3.8",
+        "onboard_time": 1690306700,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79591,
+        "num": 79591,
+        "word": "王雪峰被逮捕",
+        "onboard_time": 1690276960,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76775,
+        "num": 76775,
+        "word": "活死人厂巡开票",
+        "onboard_time": 1690304783,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65317,
+        "num": 65317,
+        "word": "狮子座很讨厌被否定",
+        "onboard_time": 1690301193,
+        "rank": 18,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 60527,
+        "num": 60527,
+        "word": "TheShy尽力了",
+        "onboard_time": 1690295621,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254688,
+        "num": 60435,
+        "word": "罗刹海市",
+        "onboard_time": 1690295920,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104983,
+        "num": 60362,
+        "word": "台湾13岁女孩配合警方当诱饵遭性侵",
+        "onboard_time": 1690274498,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95513,
+        "num": 60166,
+        "word": "肠癌患者手术失败死亡尸检未见肠癌",
+        "onboard_time": 1690281519,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82790,
+        "num": 60017,
+        "word": "张一山关晓彤回应吻戏是否尴尬",
+        "onboard_time": 1690306040,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79994,
+        "num": 59890,
+        "word": "大学生暑假工 我素未谋面的好朋友",
+        "onboard_time": 1690299937,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 77209,
+        "num": 59759,
+        "word": "微信可以批量删除好友",
+        "onboard_time": 1690272937,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 69054,
+        "num": 59555,
+        "word": "第一次喝咖啡的司机在高速上突然窒息",
+        "onboard_time": 1690290520,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59534,
+        "num": 59534,
+        "word": "长相思2023热度最快破28000",
+        "onboard_time": 1690286501,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58404,
+        "num": 58404,
+        "word": "郑秀妍新发色",
+        "onboard_time": 1690303825,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 56481,
+        "num": 56481,
+        "word": "印度女子因婚事被哥哥斩首",
+        "onboard_time": 1690286741,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55099,
+        "num": 55099,
+        "word": "吴亦凡犯强奸聚众淫乱二审开庭",
+        "onboard_time": 1690261661,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 55000,
+        "num": 55000,
+        "word": "京东崩了",
+        "onboard_time": 1690295621,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 53786,
+        "num": 53786,
+        "word": "去拥有一只小狗就不会再去想死亡了",
+        "onboard_time": 1690292440,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 51384,
+        "num": 51384,
+        "word": "全家吃剩西瓜中毒住院花5400",
+        "onboard_time": 1690287639,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49808,
+        "num": 49808,
+        "word": "玖月晞的影视化作品",
+        "onboard_time": 1690289140,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49303,
+        "num": 49303,
+        "word": "假如让张翰来演许沁",
+        "onboard_time": 1690300535,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44917,
+        "num": 48852,
+        "word": "黄锐说释怀了",
+        "onboard_time": 1690292561,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44374,
+        "num": 48620,
+        "word": "液断减肥",
+        "onboard_time": 1690291478,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42965,
+        "num": 48065,
+        "word": "封神榜",
+        "onboard_time": 1690298980,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42721,
+        "num": 47188,
+        "word": "刘珂 赵丽颖",
+        "onboard_time": 1690281218,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42482,
+        "num": 46433,
+        "word": "Scout和他的LNG",
+        "onboard_time": 1690298564,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41379,
+        "num": 46054,
+        "word": "言承旭说看到杨丞琳好不习惯",
+        "onboard_time": 1690295079,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40100,
+        "num": 45044,
+        "word": "杨澄你还怪听前女友话嘞",
+        "onboard_time": 1690295382,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38557,
+        "num": 44905,
+        "word": "柳智敏芭比造型",
+        "onboard_time": 1690280020,
+        "rank": 43,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 38359,
+        "num": 43927,
+        "word": "杨紫开始不知道玟小六是小夭",
+        "onboard_time": 1690294180,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35522,
+        "num": 43658,
+        "word": "芭比笑点",
+        "onboard_time": 1690299577,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35424,
+        "num": 42728,
+        "word": "于适版姬发",
+        "onboard_time": 1690298742,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35004,
+        "num": 42516,
+        "word": "赵露思打卡了宽窄巷子",
+        "onboard_time": 1690283259,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34348,
+        "num": 41424,
+        "word": "三亚国产榴莲要来了",
+        "onboard_time": 1690294839,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 30898,
+        "num": 41003,
+        "word": "曾少年大结局",
+        "onboard_time": 1690297544,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励香港培侨中学学生#"
+    }
+  }
+}
