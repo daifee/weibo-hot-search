@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690269381960,
+  "endTime": 1690270428785,
   "band_list": [
     {
       "raw_hot": 8531257,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1316071,
+      "num": 736678,
+      "word": "吴亦凡公司仅剩1家存续",
+      "onboard_time": 1690265201,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1290570,
       "num": 1290570,
       "word": "女子在南京地铁车厢喝水被开罚单",
@@ -227,6 +235,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1037096,
+      "num": 1037096,
+      "word": "吴亦凡表哥未履行1.45亿欠款",
+      "onboard_time": 1690268379,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1034020,
       "num": 1034020,
       "word": "刀郎新歌被指内涵四位明星",
@@ -265,14 +281,6 @@
       "onboard_time": 1690252173,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 929165,
-      "num": 736678,
-      "word": "吴亦凡公司仅剩1家存续",
-      "onboard_time": 1690265201,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 914403,
@@ -339,12 +347,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 804128,
-      "num": 804128,
-      "word": "吴亦凡表哥未履行1.45亿欠款",
-      "onboard_time": 1690268379,
-      "rank": 7,
-      "category": "社会新闻,艺人"
+      "raw_hot": 805798,
+      "num": 805798,
+      "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
+      "onboard_time": 1690265440,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 802317,
@@ -387,16 +395,16 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 740166,
-      "num": 740166,
-      "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
-      "onboard_time": 1690265440,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 735584,
+      "num": 735584,
+      "word": "39岁硕士称找工作因年龄被卡",
+      "onboard_time": 1690266820,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 730785,
-      "num": 730785,
+      "raw_hot": 733532,
+      "num": 733532,
       "word": "染发后竟然变成了光头",
       "onboard_time": 1690267302,
       "rank": 11,
@@ -531,6 +539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 574267,
+      "num": 315250,
+      "word": "肚子里的宝宝与妈妈抢营养是因爸爸",
+      "onboard_time": 1690269878,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572236,
       "num": 462920,
       "word": "齐齐哈尔市市长沉痛哀悼",
@@ -585,14 +601,6 @@
       "onboard_time": 1690242390,
       "rank": 15,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 532045,
-      "num": 532045,
-      "word": "39岁硕士称找工作因年龄被卡",
-      "onboard_time": 1690266820,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 517816,
@@ -667,12 +675,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497974,
+      "num": 497974,
+      "word": "蔡英文确诊新冠肺炎",
+      "onboard_time": 1690268500,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497417,
       "num": 497417,
       "word": "当独生小狗发现自己多了个妹妹",
       "onboard_time": 1690245094,
       "rank": 17,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 497337,
+      "num": 388813,
+      "word": "相柳性张力",
+      "onboard_time": 1690268858,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 492406,
@@ -715,6 +739,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 465922,
+      "num": 406296,
+      "word": "发了工资还要对老板感恩",
+      "onboard_time": 1690266340,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 465242,
       "num": 465242,
       "word": "三十四中门前的黄桃罐头和AD钙奶",
@@ -739,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 445493,
+      "num": 445493,
+      "word": "涂山璟微微一笑很倾城",
+      "onboard_time": 1690269100,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 436899,
       "num": 329406,
       "word": "长相思好好看",
@@ -761,14 +801,6 @@
       "onboard_time": 1690239982,
       "rank": 30,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 430068,
-      "num": 333618,
-      "word": "蔡英文确诊新冠肺炎",
-      "onboard_time": 1690268500,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428086,
@@ -809,14 +841,6 @@
       "onboard_time": 1690263463,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406296,
-      "num": 406296,
-      "word": "发了工资还要对老板感恩",
-      "onboard_time": 1690266340,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 405943,
@@ -883,20 +907,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 375341,
-      "num": 375341,
-      "word": "相柳性张力",
-      "onboard_time": 1690268858,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 369088,
       "num": 369088,
       "word": "坍塌事故背后的齐齐哈尔曾走出多名国手",
       "onboard_time": 1690264968,
       "rank": 25,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 369007,
+      "num": 369007,
+      "word": "王者荣耀",
+      "onboard_time": 1690266521,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 366626,
@@ -913,14 +937,6 @@
       "onboard_time": 1690204533,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361815,
-      "num": 361815,
-      "word": "王者荣耀",
-      "onboard_time": 1690266521,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 361676,
@@ -1219,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260360,
-      "num": 260360,
-      "word": "涂山璟微微一笑很倾城",
-      "onboard_time": 1690269100,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 259388,
       "num": 487476,
       "word": "辅警发现见义勇为少年是自己儿子",
@@ -1363,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213592,
+      "num": 213592,
+      "word": "正式确诊为拜拜爱好者",
+      "onboard_time": 1690269278,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213416,
       "num": 213416,
       "word": "封神",
@@ -1420,7 +1436,7 @@
     },
     {
       "raw_hot": 205097,
-      "num": 205097,
+      "num": 210574,
       "word": "双胞胎兄弟凭实力喂胖自己",
       "onboard_time": 1690268500,
       "rank": 40,
@@ -1459,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199967,
+      "num": 210643,
+      "word": "魏大勋虞书欣早期同框",
+      "onboard_time": 1690270420,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199821,
       "num": 199821,
       "word": "摇光录",
@@ -1472,6 +1496,14 @@
       "word": "热烈长沙路演",
       "onboard_time": 1690253555,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189255,
+      "num": 210610,
+      "word": "问苍茫杀青",
+      "onboard_time": 1690269939,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1499,12 +1531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172805,
-      "num": 203395,
-      "word": "正式确诊为拜拜爱好者",
-      "onboard_time": 1690269278,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 170994,
+      "num": 210540,
+      "word": "齐齐哈尔罹难球员曾说以后当世界冠军",
+      "onboard_time": 1690269576,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168490,
