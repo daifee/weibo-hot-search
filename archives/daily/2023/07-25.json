@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690284829703,
+  "endTime": 1690288573556,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2112224,
-      "num": 406421,
+      "num": 458357,
       "word": "刘珂 赵丽颖",
       "onboard_time": 1690281218,
       "rank": 31,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1564386,
+      "num": 1564386,
+      "word": "任命潘功胜为中国人民银行行长",
+      "onboard_time": 1690283988,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1547280,
       "num": 747845,
       "word": "日本第一批不婚的人开始后悔了",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 1340899,
-      "num": 404232,
+      "num": 416699,
       "word": "台湾13岁女孩配合警方当诱饵遭性侵",
       "onboard_time": 1690274498,
       "rank": 20,
@@ -267,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1189433,
+      "num": 1109217,
+      "word": "齐齐哈尔遇难女孩母亲街头痛哭",
+      "onboard_time": 1690286800,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1185076,
       "num": 1185076,
       "word": "罗云熙吴倩演张晚意爸妈",
       "onboard_time": 1690262085,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1183171,
+      "num": 1183171,
+      "word": "吴亦凡二审通知了加拿大驻华使馆",
+      "onboard_time": 1690281815,
+      "rank": 16,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1181880,
@@ -299,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1166325,
-      "num": 397528,
-      "word": "吴亦凡二审通知了加拿大驻华使馆",
-      "onboard_time": 1690281815,
-      "rank": 16,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1097288,
       "num": 1016482,
       "word": "冯提莫 女孩子们一定不要精神内耗",
@@ -321,6 +337,14 @@
       "onboard_time": 1690272937,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1061772,
+      "num": 1061772,
+      "word": "肠癌患者手术失败死亡尸检未见肠癌",
+      "onboard_time": 1690281519,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1048408,
@@ -361,14 +385,6 @@
       "onboard_time": 1690251154,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 998628,
-      "num": 398160,
-      "word": "肠癌患者手术失败死亡尸检未见肠癌",
-      "onboard_time": 1690281519,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 990431,
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 776387,
+      "num": 776387,
+      "word": "徐嘉余100仰第四",
+      "onboard_time": 1690286979,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 772427,
       "num": 403409,
       "word": "男子悬崖旁求婚后女友不慎坠亡",
@@ -561,6 +585,14 @@
       "onboard_time": 1690279959,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705292,
+      "num": 705292,
+      "word": "电视剧长相思",
+      "onboard_time": 1690278101,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 683441,
@@ -691,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613619,
+      "num": 418060,
+      "word": "印度女子因婚事被哥哥斩首",
+      "onboard_time": 1690286741,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611480,
       "num": 611480,
       "word": "普通人跟爱豆无法恋爱的原因",
@@ -737,14 +777,6 @@
       "onboard_time": 1690243830,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 560555,
-      "num": 560555,
-      "word": "电视剧长相思",
-      "onboard_time": 1690278101,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 558677,
@@ -971,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458369,
+      "num": 458369,
+      "word": "李莲花穿嫁衣",
+      "onboard_time": 1690283320,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456578,
       "num": 456578,
       "word": "长相思小演员演技",
@@ -988,7 +1028,7 @@
     },
     {
       "raw_hot": 440951,
-      "num": 380881,
+      "num": 414261,
       "word": "赵露思打卡了宽窄巷子",
       "onboard_time": 1690283259,
       "rank": 42,
@@ -1003,16 +1043,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 436144,
-      "num": 377857,
-      "word": "任命潘功胜为中国人民银行行长",
-      "onboard_time": 1690283988,
-      "rank": 23,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 434540,
-      "num": 385031,
+      "num": 419404,
       "word": "X JAPAN",
       "onboard_time": 1690282897,
       "rank": 28,
@@ -1043,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426477,
+      "num": 415988,
+      "word": "全家吃剩西瓜中毒住院花5400",
+      "onboard_time": 1690287639,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424966,
       "num": 424966,
       "word": "齐市坍塌事故1位遇难者是外校生",
@@ -1059,6 +1099,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 423115,
+      "num": 423115,
+      "word": "WBG心态",
+      "onboard_time": 1690285243,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 421789,
       "num": 421789,
       "word": "魏大勋新剧捧花杀青照",
@@ -1073,6 +1121,22 @@
       "onboard_time": 1690280678,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 420244,
+      "num": 415120,
+      "word": "长相思2023热度最快破28000",
+      "onboard_time": 1690286501,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 414651,
+      "num": 414651,
+      "word": "心动的信号",
+      "onboard_time": 1690287102,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 414293,
@@ -1187,14 +1251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 370139,
-      "num": 370139,
-      "word": "李莲花穿嫁衣",
-      "onboard_time": 1690283320,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 369088,
       "num": 369088,
       "word": "坍塌事故背后的齐齐哈尔曾走出多名国手",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1690204533,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362399,
+      "num": 362399,
+      "word": "TFBOYS官博倡议演唱会不应援",
+      "onboard_time": 1690288302,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 361676,
@@ -1315,6 +1379,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330561,
+      "num": 330561,
+      "word": "陈都灵清水妆",
+      "onboard_time": 1690285900,
+      "rank": 30,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 330556,
+      "num": 330556,
+      "word": "十七看到小六脖子上的咬痕的反应",
+      "onboard_time": 1690288179,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330436,
       "num": 330436,
       "word": "QQ音乐 going杂志",
@@ -1361,6 +1441,14 @@
       "onboard_time": 1690278637,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321395,
+      "num": 321395,
+      "word": "内娱现偶出圈角色",
+      "onboard_time": 1690288120,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 312548,
@@ -1467,11 +1555,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286535,
+      "num": 286535,
+      "word": "长相思预告",
+      "onboard_time": 1690287038,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285750,
       "num": 248581,
       "word": "魏大勋微博背景图换成孟宴臣",
       "onboard_time": 1690206997,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 284009,
+      "num": 262285,
+      "word": "长相思主演都这么会唠吗",
+      "onboard_time": 1690288362,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1643,6 +1747,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 235839,
+      "num": 235839,
+      "word": "莱德基断层夺冠",
+      "onboard_time": 1690285723,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233458,
       "num": 233458,
       "word": "桐华的影视化作品",
@@ -1731,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216771,
+      "num": 216771,
+      "word": "福建台风",
+      "onboard_time": 1690285961,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214788,
       "num": 214788,
       "word": "奎木狼今晚掉马",
@@ -1769,6 +1889,14 @@
       "onboard_time": 1690197393,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208288,
+      "num": 208288,
+      "word": "覃海洋五破亚洲纪录",
+      "onboard_time": 1690288420,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 207755,
@@ -2145,6 +2273,14 @@
       "onboard_time": 1690225754,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30251,
+      "num": 451446,
+      "word": "时间给你的臻选",
+      "onboard_time": 1690286441,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 30206,
