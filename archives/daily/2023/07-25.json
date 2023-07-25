@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690256053216,
+  "endTime": 1690258820205,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -17,6 +17,14 @@
       "onboard_time": 1690244075,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2225401,
+      "num": 2225401,
+      "word": "何炅神预言TFBOYS十周年演唱会",
+      "onboard_time": 1690254275,
+      "rank": 11,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 2179004,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1888501,
+      "num": 674504,
+      "word": "电子呕吐物",
+      "onboard_time": 1690256976,
+      "rank": 10,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 1748852,
       "num": 1748852,
       "word": "瑞幸咖啡三分之二是冰块两口喝完",
@@ -65,14 +81,6 @@
       "onboard_time": 1690201291,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1519046,
-      "num": 1519046,
-      "word": "何炅神预言TFBOYS十周年演唱会",
-      "onboard_time": 1690254275,
-      "rank": 11,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 1497579,
@@ -104,6 +112,14 @@
       "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
       "onboard_time": 1690210423,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1290570,
+      "num": 1290570,
+      "word": "女子在南京地铁车厢喝水被开罚单",
+      "onboard_time": 1690252894,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -163,14 +179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 896985,
-      "num": 896985,
-      "word": "女子在南京地铁车厢喝水被开罚单",
-      "onboard_time": 1690252894,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 888848,
       "num": 474681,
       "word": "沈月 同性之间就一定是纯友谊吗",
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 786453,
+      "num": 656944,
+      "word": "陈建州经纪人回应对大牙撤诉",
+      "onboard_time": 1690257099,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 764693,
       "num": 764693,
       "word": "杨紫长相思第16集恢复女装",
@@ -233,6 +249,22 @@
       "onboard_time": 1690255115,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 738908,
+      "num": 738908,
+      "word": "小伙被嘲笑买不起泡面一怒之下全包圆",
+      "onboard_time": 1690256854,
+      "rank": 6,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 679522,
+      "num": 679522,
+      "word": "文俊辉张淼怡吻戏",
+      "onboard_time": 1690257336,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 675816,
@@ -291,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 611480,
+      "num": 611480,
+      "word": "普通人跟爱豆无法恋爱的原因",
+      "onboard_time": 1690253794,
+      "rank": 22,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 609250,
       "num": 609250,
       "word": "齐齐哈尔多位救援人员发声",
@@ -307,12 +347,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 577296,
-      "num": 577296,
-      "word": "普通人跟爱豆无法恋爱的原因",
-      "onboard_time": 1690253794,
-      "rank": 22,
-      "category": "情感,艺人"
+      "raw_hot": 576557,
+      "num": 576557,
+      "word": "大麦声明不要相信黄牛",
+      "onboard_time": 1690257818,
+      "rank": 18,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 572236,
@@ -347,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 538371,
+      "num": 538371,
+      "word": "瑞幸回应咖啡三分之二冰块两口喝完",
+      "onboard_time": 1690257936,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 532795,
       "num": 532795,
       "word": "全麻手术人是不会自主呼吸的",
@@ -369,6 +417,14 @@
       "onboard_time": 1690208865,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512401,
+      "num": 512401,
+      "word": "向往的生活张艺兴张子枫剧照",
+      "onboard_time": 1690257099,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 506906,
@@ -411,6 +467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 478684,
+      "num": 478684,
+      "word": "光遇",
+      "onboard_time": 1690257818,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 465242,
       "num": 465242,
       "word": "三十四中门前的黄桃罐头和AD钙奶",
@@ -433,6 +497,14 @@
       "onboard_time": 1690253734,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 453617,
+      "num": 453617,
+      "word": "长相思",
+      "onboard_time": 1690240584,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 436899,
@@ -467,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424833,
+      "num": 490241,
+      "word": "研学团违规预约139人进北大收费150万",
+      "onboard_time": 1690254877,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 414293,
       "num": 414293,
       "word": "不同水果展示女性分娩时宫口张开的大小",
@@ -489,6 +569,14 @@
       "onboard_time": 1690249415,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 397005,
+      "num": 397005,
+      "word": "李莲花李相夷不是一个人",
+      "onboard_time": 1690257580,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 388174,
@@ -515,14 +603,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 376086,
-      "num": 376086,
-      "word": "长相思",
-      "onboard_time": 1690240584,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 366626,
       "num": 366626,
       "word": "河南特岗",
@@ -547,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359058,
+      "num": 359058,
+      "word": "成毅拍吻戏害羞了",
+      "onboard_time": 1690256915,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357444,
       "num": 357444,
       "word": "妈妈吐槽女儿房间像另一个次元",
@@ -569,6 +657,14 @@
       "onboard_time": 1690250372,
       "rank": 31,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 342252,
+      "num": 342252,
+      "word": "杨紫让导演把自己再画黑一点",
+      "onboard_time": 1690258597,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 334888,
@@ -619,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301690,
+      "num": 301690,
+      "word": "张学友演唱会",
+      "onboard_time": 1690256018,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301658,
       "num": 301658,
       "word": "EDG输了 Ale没输",
@@ -635,12 +739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298401,
-      "num": 298401,
-      "word": "研学团违规预约139人进北大收费150万",
-      "onboard_time": 1690254877,
-      "rank": 37,
-      "category": "教育,社会新闻"
+      "raw_hot": 294717,
+      "num": 294717,
+      "word": "费翔才是男妲己吧",
+      "onboard_time": 1690258539,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 292896,
@@ -715,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262861,
+      "num": 262861,
+      "word": "going杂志",
+      "onboard_time": 1690255056,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261664,
       "num": 261664,
       "word": "北京冰雹",
@@ -747,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257096,
-      "num": 257096,
-      "word": "张学友演唱会",
-      "onboard_time": 1690256018,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 252557,
       "num": 252557,
       "word": "看见狗被轮胎追杀了",
@@ -777,6 +881,14 @@
       "onboard_time": 1690214794,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243657,
+      "num": 243657,
+      "word": "张艺兴巡回演唱会官宣五站",
+      "onboard_time": 1690255832,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 238614,
@@ -840,14 +952,6 @@
       "word": "男明星的大头综合征",
       "onboard_time": 1690214137,
       "rank": 37,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 214036,
-      "num": 214036,
-      "word": "going杂志",
-      "onboard_time": 1690255056,
-      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -1049,6 +1153,14 @@
       "onboard_time": 1690241606,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105899,
+      "num": 1317253,
+      "word": "成都大运会3天倒计时",
+      "onboard_time": 1690256615,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103692,

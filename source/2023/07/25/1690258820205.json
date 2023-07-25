@@ -1,0 +1,410 @@
+{
+  "runTime": 1690258820205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225401,
+        "num": 2225401,
+        "word": "何炅神预言TFBOYS十周年演唱会",
+        "onboard_time": 1690254275,
+        "rank": 0,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 1420438,
+        "num": 1420438,
+        "word": "于晓光说特别对不起秋瓷炫",
+        "onboard_time": 1690251630,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105899,
+        "num": 1317253,
+        "word": "成都大运会3天倒计时",
+        "onboard_time": 1690256615,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1290570,
+        "num": 1290570,
+        "word": "女子在南京地铁车厢喝水被开罚单",
+        "onboard_time": 1690252894,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961631,
+        "num": 961631,
+        "word": "微信内测朋友圈可以置顶了",
+        "onboard_time": 1690245156,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 750374,
+        "num": 750374,
+        "word": "杨紫长相思第16集恢复女装",
+        "onboard_time": 1690253974,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738908,
+        "num": 738908,
+        "word": "小伙被嘲笑买不起泡面一怒之下全包圆",
+        "onboard_time": 1690256854,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 703908,
+        "num": 703908,
+        "word": "狗狗的牙齿竟然是小手套形状",
+        "onboard_time": 1690252173,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 694730,
+        "num": 694730,
+        "word": "魏大勋也很想留住这批观众吧",
+        "onboard_time": 1690250613,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679522,
+        "num": 679522,
+        "word": "文俊辉张淼怡吻戏",
+        "onboard_time": 1690257336,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1888501,
+        "num": 674504,
+        "word": "电子呕吐物",
+        "onboard_time": 1690256976,
+        "rank": 10,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 1886986,
+        "num": 670686,
+        "word": "齐齐哈尔教育局距坍塌体育馆仅49米",
+        "onboard_time": 1690247312,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921189,
+        "num": 662290,
+        "word": "迪丽热巴火焰裙",
+        "onboard_time": 1690253371,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 786453,
+        "num": 656944,
+        "word": "陈建州经纪人回应对大牙撤诉",
+        "onboard_time": 1690257099,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740435,
+        "num": 644051,
+        "word": "感受一下西藏的物价",
+        "onboard_time": 1690250493,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 644044,
+        "num": 644044,
+        "word": "电竞选手叮当猫去世",
+        "onboard_time": 1690241967,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 611480,
+        "num": 611480,
+        "word": "普通人跟爱豆无法恋爱的原因",
+        "onboard_time": 1690253794,
+        "rank": 16,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 608583,
+        "num": 608583,
+        "word": "我的人间烟火评分降到3.8分",
+        "onboard_time": 1690251154,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576557,
+        "num": 576557,
+        "word": "大麦声明不要相信黄牛",
+        "onboard_time": 1690257818,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 570986,
+        "num": 570986,
+        "word": "鞠婧祎渐变牛仔裙",
+        "onboard_time": 1690254033,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1477693,
+        "num": 563391,
+        "word": "我最好的朋友全走了",
+        "onboard_time": 1690244075,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554004,
+        "num": 554004,
+        "word": "日本第一批不婚的人开始后悔了",
+        "onboard_time": 1690201291,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538371,
+        "num": 538371,
+        "word": "瑞幸回应咖啡三分之二冰块两口喝完",
+        "onboard_time": 1690257936,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 512401,
+        "num": 512401,
+        "word": "向往的生活张艺兴张子枫剧照",
+        "onboard_time": 1690257099,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424833,
+        "num": 490241,
+        "word": "研学团违规预约139人进北大收费150万",
+        "onboard_time": 1690254877,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 478684,
+        "num": 478684,
+        "word": "光遇",
+        "onboard_time": 1690257818,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 453617,
+        "num": 453617,
+        "word": "长相思",
+        "onboard_time": 1690240584,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420196,
+        "num": 420196,
+        "word": "李兰迪王阳演情侣",
+        "onboard_time": 1690254275,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399923,
+        "num": 399923,
+        "word": "不同水果展示女性分娩时宫口张开的大小",
+        "onboard_time": 1690253494,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397005,
+        "num": 397005,
+        "word": "李莲花李相夷不是一个人",
+        "onboard_time": 1690257580,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368962,
+        "num": 368962,
+        "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
+        "onboard_time": 1690210423,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363130,
+        "num": 363130,
+        "word": "西安五月天",
+        "onboard_time": 1690255115,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359058,
+        "num": 359058,
+        "word": "成毅拍吻戏害羞了",
+        "onboard_time": 1690256915,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342252,
+        "num": 342252,
+        "word": "杨紫让导演把自己再画黑一点",
+        "onboard_time": 1690258597,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339633,
+        "num": 339633,
+        "word": "通勤1公里要不要买电动车",
+        "onboard_time": 1690251577,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334498,
+        "num": 334498,
+        "word": "魏大勋到底背着我们接了多少私活",
+        "onboard_time": 1690248755,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331747,
+        "num": 331747,
+        "word": "惠若琪要教齐齐哈尔幸存球员打排球",
+        "onboard_time": 1690243774,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 301690,
+        "num": 301690,
+        "word": "张学友演唱会",
+        "onboard_time": 1690256018,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294717,
+        "num": 294717,
+        "word": "费翔才是男妲己吧",
+        "onboard_time": 1690258539,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287579,
+        "num": 287579,
+        "word": "当我出门忘关18度的空调时",
+        "onboard_time": 1690253076,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283055,
+        "num": 283055,
+        "word": "齐齐哈尔多位救援人员发声",
+        "onboard_time": 1690242268,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281584,
+        "num": 281584,
+        "word": "冯提莫 女孩子们一定不要精神内耗",
+        "onboard_time": 1690211440,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267399,
+        "num": 278822,
+        "word": "祖孙3人散步被轿车迎面撞死",
+        "onboard_time": 1690241728,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276936,
+        "num": 276936,
+        "word": "吴宣仪算不算旺男主的体质",
+        "onboard_time": 1690252774,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273369,
+        "num": 273369,
+        "word": "齐齐哈尔市市长沉痛哀悼",
+        "onboard_time": 1690209590,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262861,
+        "num": 262861,
+        "word": "going杂志",
+        "onboard_time": 1690255056,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254622,
+        "num": 254622,
+        "word": "瑞幸咖啡三分之二是冰块两口喝完",
+        "onboard_time": 1690239982,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 248783,
+        "num": 248783,
+        "word": "台风",
+        "onboard_time": 1690248456,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243657,
+        "num": 243657,
+        "word": "张艺兴巡回演唱会官宣五站",
+        "onboard_time": 1690255832,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239940,
+        "num": 239940,
+        "word": "杨紫在长相思是演男人吗",
+        "onboard_time": 1690244315,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好下半年经济工作要坚持稳中求进#"
+    }
+  }
+}
