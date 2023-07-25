@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690310029241,
+  "endTime": 1690312318300,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -5193,6 +5193,14 @@
       "onboard_time": 1690107154,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 26728,
+      "num": 63417,
+      "word": "吴亦凡名誉权案会改判么",
+      "onboard_time": 1690312214,
+      "rank": 46,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 17554,
