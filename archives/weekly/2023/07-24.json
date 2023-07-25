@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690289621483,
+  "endTime": 1690291368208,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1663075,
+      "num": 1109217,
+      "word": "齐齐哈尔遇难女孩母亲街头痛哭",
+      "onboard_time": 1690286800,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1661462,
       "num": 1661462,
       "word": "大麦",
@@ -531,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1339132,
-      "num": 1109217,
-      "word": "齐齐哈尔遇难女孩母亲街头痛哭",
-      "onboard_time": 1690286800,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1335491,
       "num": 1335491,
       "word": "请黄晓明把自己焊死在民国剧",
@@ -705,6 +705,14 @@
       "onboard_time": 1690208139,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1065622,
+      "num": 1065622,
+      "word": "TFBOYS官博倡议演唱会不应援",
+      "onboard_time": 1690288302,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 1061772,
@@ -971,14 +979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 854714,
-      "num": 854714,
-      "word": "TFBOYS官博倡议演唱会不应援",
-      "onboard_time": 1690288302,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 850923,
       "num": 544370,
       "word": "魏大勋虞书欣早期同框",
@@ -1051,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 820237,
+      "num": 820237,
+      "word": "内娱现偶出圈角色",
+      "onboard_time": 1690288120,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 815601,
       "num": 815601,
       "word": "电子付款让人对钱没了概念",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1690265440,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 803403,
+      "num": 803403,
+      "word": "十七看到小六脖子上的咬痕的反应",
+      "onboard_time": 1690288179,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 802317,
@@ -1347,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 663621,
-      "num": 663621,
-      "word": "十七看到小六脖子上的咬痕的反应",
-      "onboard_time": 1690288179,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 662935,
       "num": 662935,
       "word": "优酷TFBOYS演唱会线上只能看三天",
@@ -1425,6 +1433,14 @@
       "onboard_time": 1690155927,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 645091,
+      "num": 645091,
+      "word": "玖月晞的影视化作品",
+      "onboard_time": 1690289140,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 644856,
@@ -1515,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 627108,
+      "num": 415988,
+      "word": "全家吃剩西瓜中毒住院花5400",
+      "onboard_time": 1690287639,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625003,
       "num": 473007,
       "word": "魏大勋是经得起考古的",
@@ -1584,14 +1608,6 @@
       "word": "莲花楼特效",
       "onboard_time": 1690122038,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 603641,
-      "num": 603641,
-      "word": "内娱现偶出圈角色",
-      "onboard_time": 1690288120,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1707,14 +1723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 559476,
-      "num": 415988,
-      "word": "全家吃剩西瓜中毒住院花5400",
-      "onboard_time": 1690287639,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 558677,
       "num": 558677,
       "word": "Uzi",
@@ -1819,6 +1827,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 530964,
+      "num": 415120,
+      "word": "长相思2023热度最快破28000",
+      "onboard_time": 1690286501,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 530303,
       "num": 530303,
       "word": "余华真的太会比喻了",
@@ -1848,14 +1864,6 @@
       "word": "封神中弑父情节",
       "onboard_time": 1690189176,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 521354,
-      "num": 415120,
-      "word": "长相思2023热度最快破28000",
-      "onboard_time": 1690286501,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -2105,6 +2113,14 @@
       "onboard_time": 1690251094,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464200,
+      "num": 464200,
+      "word": "代号鸢",
+      "onboard_time": 1690288962,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 459362,
@@ -2611,6 +2627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 365712,
+      "num": 365712,
+      "word": "卡琳娜cos黑崎一护",
+      "onboard_time": 1690288059,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 360336,
       "num": 360336,
       "word": "如果你6年前出生那你今年几岁",
@@ -2673,6 +2697,14 @@
       "onboard_time": 1690164692,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 353911,
+      "num": 353911,
+      "word": "长相思主演都这么会唠吗",
+      "onboard_time": 1690288362,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 352918,
@@ -2761,6 +2793,14 @@
       "onboard_time": 1690181019,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 336978,
+      "num": 336978,
+      "word": "第一次喝咖啡的司机在高速上突然窒息",
+      "onboard_time": 1690290520,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336973,
@@ -3019,14 +3059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307435,
-      "num": 307435,
-      "word": "玖月晞的影视化作品",
-      "onboard_time": 1690289140,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 305429,
       "num": 305429,
       "word": "覃海洋100蛙夺金",
@@ -3119,14 +3151,6 @@
       "num": 290974,
       "word": "王鹤棣新剧蓝衣高马尾路透",
       "onboard_time": 1690280565,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 290639,
-      "num": 290639,
-      "word": "长相思主演都这么会唠吗",
-      "onboard_time": 1690288362,
       "rank": 36,
       "category": "影视"
     },
@@ -3323,6 +3347,14 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 265751,
+      "num": 265751,
+      "word": "热烈路演",
+      "onboard_time": 1690290520,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262861,
       "num": 262861,
       "word": "going杂志",
@@ -3507,14 +3539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238777,
-      "num": 238777,
-      "word": "代号鸢",
-      "onboard_time": 1690288962,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 238577,
       "num": 238577,
       "word": "影院贴男人视力表被指辱女",
@@ -3545,6 +3569,14 @@
       "onboard_time": 1690198651,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236878,
+      "num": 236878,
+      "word": "成都暴雨",
+      "onboard_time": 1690290637,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236352,
@@ -3609,6 +3641,14 @@
       "onboard_time": 1690282840,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230690,
+      "num": 230690,
+      "word": "旅游省钱信息差",
+      "onboard_time": 1690290940,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 229184,
@@ -3683,14 +3723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 225219,
-      "num": 225219,
-      "word": "卡琳娜cos黑崎一护",
-      "onboard_time": 1690288059,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 223083,
       "num": 223083,
       "word": "齐齐哈尔教育部门回应学生返校安排",
@@ -3731,8 +3763,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216771,
-      "num": 216771,
+      "raw_hot": 218039,
+      "num": 218039,
       "word": "福建台风",
       "onboard_time": 1690285961,
       "rank": 46,
@@ -3931,8 +3963,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200256,
-      "num": 197380,
+      "raw_hot": 200789,
+      "num": 200789,
       "word": "曾少年",
       "onboard_time": 1690207719,
       "rank": 47,
@@ -4643,6 +4675,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41978,
+      "num": 427128,
+      "word": "AI烈儿亮相淘宝直播间",
+      "onboard_time": 1690290038,
+      "rank": 14,
+      "category": "网红,科技"
+    },
+    {
+      "raw_hot": 40106,
+      "num": 937536,
+      "word": "感受成都大运会科技与文化交融之美",
+      "onboard_time": 1690290400,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36758,
       "num": 36758,
       "word": "Rookie妖姬超神",
@@ -4755,6 +4803,9 @@
     },
     {
       "word": "#全面加强军事治理#"
+    },
+    {
+      "word": "#习近平回信勉励香港培侨中学学生#"
     }
   ]
 }

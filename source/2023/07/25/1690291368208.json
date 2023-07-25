@@ -1,0 +1,410 @@
+{
+  "runTime": 1690291368208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1086938,
+        "num": 1379462,
+        "word": "任命潘功胜为中国人民银行行长",
+        "onboard_time": 1690283988,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1065622,
+        "num": 1065622,
+        "word": "TFBOYS官博倡议演唱会不应援",
+        "onboard_time": 1690288302,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40106,
+        "num": 937536,
+        "word": "感受成都大运会科技与文化交融之美",
+        "onboard_time": 1690290400,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4808958,
+        "num": 884900,
+        "word": "王毅任外交部部长",
+        "onboard_time": 1690283200,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 820237,
+        "num": 820237,
+        "word": "内娱现偶出圈角色",
+        "onboard_time": 1690288120,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1014876,
+        "num": 818938,
+        "word": "吴亦凡二审通知了加拿大驻华使馆",
+        "onboard_time": 1690281815,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 803403,
+        "num": 803403,
+        "word": "十七看到小六脖子上的咬痕的反应",
+        "onboard_time": 1690288179,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 645091,
+        "num": 645091,
+        "word": "玖月晞的影视化作品",
+        "onboard_time": 1690289140,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 746086,
+        "num": 628341,
+        "word": "电视剧长相思",
+        "onboard_time": 1690278101,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464200,
+        "num": 464200,
+        "word": "代号鸢",
+        "onboard_time": 1690288962,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1663075,
+        "num": 463980,
+        "word": "齐齐哈尔遇难女孩母亲街头痛哭",
+        "onboard_time": 1690286800,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1633080,
+        "num": 450824,
+        "word": "吴亦凡至今已被拘押看守所近2年",
+        "onboard_time": 1690272937,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1273564,
+        "num": 438395,
+        "word": "王雪峰被逮捕",
+        "onboard_time": 1690276960,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960776,
+        "num": 433302,
+        "word": "刘珂 赵丽颖",
+        "onboard_time": 1690281218,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41978,
+        "num": 427128,
+        "word": "AI烈儿亮相淘宝直播间",
+        "onboard_time": 1690290038,
+        "rank": 14,
+        "category": "网红,科技"
+      },
+      {
+        "raw_hot": 418122,
+        "num": 418122,
+        "word": "长相思直播",
+        "onboard_time": 1690276658,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410588,
+        "num": 410588,
+        "word": "吴亦凡犯强奸聚众淫乱二审开庭",
+        "onboard_time": 1690261661,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 365712,
+        "num": 365712,
+        "word": "卡琳娜cos黑崎一护",
+        "onboard_time": 1690288059,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 356254,
+        "num": 356254,
+        "word": "WBG心态",
+        "onboard_time": 1690285243,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 353911,
+        "num": 353911,
+        "word": "长相思主演都这么会唠吗",
+        "onboard_time": 1690288362,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1020477,
+        "num": 353499,
+        "word": "肠癌患者手术失败死亡尸检未见肠癌",
+        "onboard_time": 1690281519,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627108,
+        "num": 349472,
+        "word": "全家吃剩西瓜中毒住院花5400",
+        "onboard_time": 1690287639,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530964,
+        "num": 343787,
+        "word": "长相思2023热度最快破28000",
+        "onboard_time": 1690286501,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438064,
+        "num": 343561,
+        "word": "台湾13岁女孩配合警方当诱饵遭性侵",
+        "onboard_time": 1690274498,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422085,
+        "num": 338325,
+        "word": "印度女子因婚事被哥哥斩首",
+        "onboard_time": 1690286741,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336978,
+        "num": 336978,
+        "word": "第一次喝咖啡的司机在高速上突然窒息",
+        "onboard_time": 1690290520,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335787,
+        "num": 335787,
+        "word": "心动的信号",
+        "onboard_time": 1690287102,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325156,
+        "num": 325156,
+        "word": "Lisa坐路边喝红酒",
+        "onboard_time": 1690277617,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317996,
+        "num": 317996,
+        "word": "柳智敏芭比造型",
+        "onboard_time": 1690280020,
+        "rank": 28,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 280337,
+        "num": 280337,
+        "word": "男子悬崖旁求婚后女友不慎坠亡",
+        "onboard_time": 1690275941,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278490,
+        "num": 278490,
+        "word": "going seventeen",
+        "onboard_time": 1690281698,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265751,
+        "num": 265751,
+        "word": "热烈路演",
+        "onboard_time": 1690290520,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260169,
+        "num": 260169,
+        "word": "徐嘉余100仰第四",
+        "onboard_time": 1690286979,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255424,
+        "num": 255424,
+        "word": "幼童三楼坠落一群人张开双臂",
+        "onboard_time": 1690279959,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250853,
+        "num": 250853,
+        "word": "刀郎新歌被指内涵四位明星",
+        "onboard_time": 1690263225,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248017,
+        "num": 248017,
+        "word": "没抢到票的TFBOYS粉丝开始转手酒店了",
+        "onboard_time": 1690265440,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247880,
+        "num": 247880,
+        "word": "陈都灵清水妆",
+        "onboard_time": 1690285900,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 246697,
+        "num": 246697,
+        "word": "瘦了30斤以后侧脸的变化",
+        "onboard_time": 1690262805,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 244504,
+        "num": 244504,
+        "word": "赵露思打卡了宽窄巷子",
+        "onboard_time": 1690283259,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236878,
+        "num": 236878,
+        "word": "成都暴雨",
+        "onboard_time": 1690290637,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234517,
+        "num": 234517,
+        "word": "赵丽颖魏大勋版杉杉来了",
+        "onboard_time": 1690280678,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230690,
+        "num": 230690,
+        "word": "旅游省钱信息差",
+        "onboard_time": 1690290940,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 218039,
+        "num": 218039,
+        "word": "福建台风",
+        "onboard_time": 1690285961,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214680,
+        "num": 214680,
+        "word": "李莲花穿嫁衣",
+        "onboard_time": 1690283320,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212448,
+        "num": 212448,
+        "word": "肚子里的宝宝与妈妈抢营养是因爸爸",
+        "onboard_time": 1690269878,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211637,
+        "num": 211637,
+        "word": "LNG对战WBG",
+        "onboard_time": 1690278276,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206658,
+        "num": 206658,
+        "word": "覃海洋五破亚洲纪录",
+        "onboard_time": 1690288420,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205503,
+        "num": 205503,
+        "word": "微信可以批量删除好友",
+        "onboard_time": 1690272937,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200789,
+        "num": 200789,
+        "word": "曾少年",
+        "onboard_time": 1690290820,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177407,
+        "num": 199727,
+        "word": "娃 我已经给你反应的时间了",
+        "onboard_time": 1690279717,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励香港培侨中学学生#"
+    }
+  }
+}
