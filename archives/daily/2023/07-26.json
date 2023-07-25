@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690305269777,
+  "endTime": 1690306421431,
   "band_list": [
     {
       "raw_hot": 1961526,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661744,
+      "num": 661744,
+      "word": "罗刹海市",
+      "onboard_time": 1690295920,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 648947,
       "num": 648947,
       "word": "长相思",
@@ -97,14 +105,6 @@
       "onboard_time": 1690298623,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523666,
-      "num": 523666,
-      "word": "罗刹海市",
-      "onboard_time": 1690295920,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 503501,
@@ -168,6 +168,14 @@
       "word": "杨紫开始不知道玟小六是小夭",
       "onboard_time": 1690294180,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 320197,
+      "num": 238924,
+      "word": "尊重观众的女扮男装",
+      "onboard_time": 1690304363,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -323,14 +331,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 177235,
-      "num": 238924,
-      "word": "尊重观众的女扮男装",
-      "onboard_time": 1690304363,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 174797,
       "num": 208264,
       "word": "于适版姬发",
@@ -361,6 +361,14 @@
       "onboard_time": 1690295382,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153799,
+      "num": 153799,
+      "word": "卧底记者回应下架视频换缅甸放人",
+      "onboard_time": 1690305263,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152498,
@@ -435,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 95264,
+      "num": 140279,
+      "word": "小伙一路奔跑为消防车疏导车流",
+      "onboard_time": 1690305144,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90601,
       "num": 208264,
       "word": "玖月晞的影视化作品",
@@ -448,6 +464,14 @@
       "word": "长相思主演都这么会唠吗",
       "onboard_time": 1690288362,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 63201,
+      "num": 140143,
+      "word": "张一山关晓彤回应吻戏是否尴尬",
+      "onboard_time": 1690306040,
+      "rank": 48,
       "category": "影视"
     },
     {
