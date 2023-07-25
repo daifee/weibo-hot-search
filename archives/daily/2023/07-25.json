@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690274098512,
+  "endTime": 1690276648023,
   "band_list": [
     {
       "raw_hot": 8531257,
@@ -19,19 +19,19 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 5381152,
+      "num": 623091,
+      "word": "吴亦凡至今已被拘押看守所近2年",
+      "onboard_time": 1690272937,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3832696,
       "num": 3832696,
       "word": "吴亦凡案二审择期宣判",
       "onboard_time": 1690261780,
       "rank": 3,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 3239361,
-      "num": 546183,
-      "word": "吴亦凡至今已被拘押看守所近2年",
-      "onboard_time": 1690272937,
-      "rank": 12,
       "category": "社会新闻,艺人"
     },
     {
@@ -179,6 +179,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 1340899,
+      "num": 334233,
+      "word": "台湾13岁女孩配合警方当诱饵遭性侵",
+      "onboard_time": 1690274498,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1335491,
       "num": 1335491,
       "word": "请黄晓明把自己焊死在民国剧",
@@ -249,6 +257,14 @@
       "onboard_time": 1690211440,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1078562,
+      "num": 412918,
+      "word": "微信可以批量删除好友",
+      "onboard_time": 1690272937,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 1048408,
@@ -337,14 +353,6 @@
       "onboard_time": 1690270420,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 847655,
-      "num": 412918,
-      "word": "微信可以批量删除好友",
-      "onboard_time": 1690272937,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 835258,
@@ -513,6 +521,14 @@
       "onboard_time": 1690254275,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 649718,
+      "num": 284266,
+      "word": "男子悬崖旁求婚后女友不慎坠亡",
+      "onboard_time": 1690275941,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644856,
@@ -1035,6 +1051,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 351135,
+      "num": 351135,
+      "word": "张小斐说想像林双一样勇敢",
+      "onboard_time": 1690275941,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348163,
       "num": 297765,
       "word": "18岁男生往尿道塞了25颗磁力珠",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1690244374,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295994,
+      "num": 295994,
+      "word": "孙颖莎说奥运征途无畏艰险",
+      "onboard_time": 1690274316,
+      "rank": 27,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 292896,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1690240945,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225707,
+      "num": 225707,
+      "word": "体重诠释了你的代谢情况",
+      "onboard_time": 1690276360,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 223146,
@@ -1691,6 +1731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117261,
+      "num": 917983,
+      "word": "大运会开幕式烟花",
+      "onboard_time": 1690273299,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112979,
       "num": 112979,
       "word": "李玟姐姐将直播李玟追思会",
@@ -1723,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92701,
+      "num": 337119,
+      "word": "高考结束后最有仪式感的事",
+      "onboard_time": 1690274918,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89685,
       "num": 101225,
       "word": "谢乔杨澄分手6年后再见",
@@ -1737,14 +1793,6 @@
       "onboard_time": 1690240827,
       "rank": 49,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 86068,
-      "num": 917983,
-      "word": "大运会开幕式烟花",
-      "onboard_time": 1690273299,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 84369,
@@ -1777,6 +1825,22 @@
       "onboard_time": 1690220299,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55242,
+      "num": 284665,
+      "word": "没点实力不敢做大V",
+      "onboard_time": 1690275999,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 36931,
+      "num": 343027,
+      "word": "我在摇光录集邮帅哥",
+      "onboard_time": 1690275639,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 36758,
