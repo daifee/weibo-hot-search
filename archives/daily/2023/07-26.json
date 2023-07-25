@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690313622966,
+  "endTime": 1690316247031,
   "band_list": [
     {
       "raw_hot": 1961526,
@@ -497,6 +497,14 @@
       "onboard_time": 1690312214,
       "rank": 46,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 23209,
+      "num": 36948,
+      "word": "LNG战胜WBG",
+      "onboard_time": 1690293765,
+      "rank": 37,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
