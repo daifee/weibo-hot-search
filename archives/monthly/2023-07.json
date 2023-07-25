@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690273301621,
+  "endTime": 1690274098512,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -841,6 +841,14 @@
       "onboard_time": 1689090095,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3239361,
+      "num": 546183,
+      "word": "吴亦凡至今已被拘押看守所近2年",
+      "onboard_time": 1690272937,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3232637,
@@ -6179,6 +6187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1284804,
+      "num": 474429,
+      "word": "48岁男子因彩礼刺死熟睡未婚妻",
+      "onboard_time": 1690272396,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1284246,
       "num": 1284246,
       "word": "花花和叶3岁生日合照",
@@ -6931,6 +6947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1181880,
+      "num": 546957,
+      "word": "肚子里的宝宝与妈妈抢营养是因爸爸",
+      "onboard_time": 1690269878,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181280,
       "num": 2123994,
       "word": "孟子义把周也哄睡后去打牌",
@@ -7441,14 +7465,6 @@
       "onboard_time": 1690037139,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1130550,
-      "num": 546957,
-      "word": "肚子里的宝宝与妈妈抢营养是因爸爸",
-      "onboard_time": 1690269878,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1130111,
@@ -8665,14 +8681,6 @@
       "onboard_time": 1689938855,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1027141,
-      "num": 546183,
-      "word": "吴亦凡至今已被拘押看守所近2年",
-      "onboard_time": 1690272937,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1026500,
@@ -11659,6 +11667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 850923,
+      "num": 544370,
+      "word": "魏大勋虞书欣早期同框",
+      "onboard_time": 1690270420,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 850343,
       "num": 850343,
       "word": "山东大学拟聘用2名硕士为公寓管理员",
@@ -11721,6 +11737,14 @@
       "onboard_time": 1688899772,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 847655,
+      "num": 412918,
+      "word": "微信可以批量删除好友",
+      "onboard_time": 1690272937,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 847225,
@@ -11977,14 +12001,6 @@
       "onboard_time": 1688444079,
       "rank": 29,
       "category": "影视,美妆"
-    },
-    {
-      "raw_hot": 834879,
-      "num": 474429,
-      "word": "48岁男子因彩礼刺死熟睡未婚妻",
-      "onboard_time": 1690272396,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 834031,
@@ -12337,14 +12353,6 @@
       "onboard_time": 1689061833,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 821085,
-      "num": 544370,
-      "word": "魏大勋虞书欣早期同框",
-      "onboard_time": 1690270420,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 820038,
@@ -17019,6 +17027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644856,
+      "num": 543805,
+      "word": "TT拿到了seventeen的签名",
+      "onboard_time": 1690270900,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 644651,
       "num": 388414,
       "word": "不该对齐齐哈尔事故保持沉默",
@@ -17769,14 +17785,6 @@
       "onboard_time": 1689319656,
       "rank": 40,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 626841,
-      "num": 543805,
-      "word": "TT拿到了seventeen的签名",
-      "onboard_time": 1690270900,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 626586,
@@ -22932,7 +22940,7 @@
     },
     {
       "raw_hot": 497337,
-      "num": 388813,
+      "num": 410479,
       "word": "相柳性张力",
       "onboard_time": 1690268858,
       "rank": 24,
@@ -29963,6 +29971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383499,
+      "num": 383499,
+      "word": "朱桢演过情深深雨濛濛",
+      "onboard_time": 1690272339,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383421,
       "num": 383421,
       "word": "沈月再现非主流拍照",
@@ -31009,14 +31025,6 @@
       "onboard_time": 1688639914,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 369688,
-      "num": 369688,
-      "word": "朱桢演过情深深雨濛濛",
-      "onboard_time": 1690272339,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 369671,
@@ -38825,14 +38833,6 @@
       "onboard_time": 1689217172,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284512,
-      "num": 284512,
-      "word": "微信可以批量删除好友",
-      "onboard_time": 1690272937,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 284382,
@@ -50907,6 +50907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192733,
+      "num": 196901,
+      "word": "一起去追空投雨",
+      "onboard_time": 1690274016,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192630,
       "num": 231132,
       "word": "迪丽热巴说维吾尔语",
@@ -58161,6 +58169,14 @@
       "onboard_time": 1688319261,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86068,
+      "num": 917983,
+      "word": "大运会开幕式烟花",
+      "onboard_time": 1690273299,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 85926,
