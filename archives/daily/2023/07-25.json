@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690291368208,
+  "endTime": 1690292042018,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1290702,
+      "num": 1290702,
+      "word": "TFBOYS官博倡议演唱会不应援",
+      "onboard_time": 1690288302,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1290570,
       "num": 1290570,
       "word": "女子在南京地铁车厢喝水被开罚单",
@@ -337,14 +345,6 @@
       "onboard_time": 1690272937,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1065622,
-      "num": 1065622,
-      "word": "TFBOYS官博倡议演唱会不应援",
-      "onboard_time": 1690288302,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 1061772,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 846692,
+      "num": 846692,
+      "word": "十七看到小六脖子上的咬痕的反应",
+      "onboard_time": 1690288179,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 835258,
       "num": 835258,
       "word": "魏大勋到底背着我们接了多少私活",
@@ -537,14 +545,6 @@
       "onboard_time": 1690265440,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803403,
-      "num": 803403,
-      "word": "十七看到小六脖子上的咬痕的反应",
-      "onboard_time": 1690288179,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 802317,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 666423,
+      "num": 666423,
+      "word": "玖月晞的影视化作品",
+      "onboard_time": 1690289140,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 666220,
       "num": 841093,
       "word": "包丽案二审宣判",
@@ -688,14 +696,6 @@
       "word": "李兰迪王阳演情侣",
       "onboard_time": 1690254275,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 645091,
-      "num": 645091,
-      "word": "玖月晞的影视化作品",
-      "onboard_time": 1690289140,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -1099,6 +1099,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438850,
+      "num": 349852,
+      "word": "第一次喝咖啡的司机在高速上突然窒息",
+      "onboard_time": 1690290520,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437071,
+      "num": 349526,
+      "word": "浙江00后人生第一次买彩票中914万",
+      "onboard_time": 1690291360,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436899,
       "num": 329406,
       "word": "长相思好好看",
@@ -1331,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364806,
+      "num": 364806,
+      "word": "长相思主演都这么会唠吗",
+      "onboard_time": 1690288362,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361676,
       "num": 298194,
       "word": "女子体内大量瓜子状活虫",
@@ -1363,20 +1387,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 353911,
-      "num": 353911,
-      "word": "长相思主演都这么会唠吗",
-      "onboard_time": 1690288362,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 351674,
       "num": 351674,
       "word": "乐队歌手演出时当众脱裤子被行拘",
       "onboard_time": 1690245757,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 350886,
+      "num": 350886,
+      "word": "成都暴雨",
+      "onboard_time": 1690290637,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348163,
@@ -1401,14 +1425,6 @@
       "onboard_time": 1690266039,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 336978,
-      "num": 336978,
-      "word": "第一次喝咖啡的司机在高速上突然窒息",
-      "onboard_time": 1690290520,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334888,
@@ -1483,6 +1499,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 323209,
+      "num": 323209,
+      "word": "杨紫檀健次长相思情头",
+      "onboard_time": 1690291601,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323033,
       "num": 1035060,
       "word": "男子隧道摔车公交司机变道为其挡车",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1690211203,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306612,
+      "num": 306612,
+      "word": "热烈路演",
+      "onboard_time": 1690290520,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 302875,
@@ -1683,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265751,
-      "num": 265751,
-      "word": "热烈路演",
-      "onboard_time": 1690290520,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 262861,
       "num": 262861,
       "word": "going杂志",
@@ -1787,14 +1811,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 236878,
-      "num": 236878,
-      "word": "成都暴雨",
-      "onboard_time": 1690290637,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235839,
       "num": 235839,
       "word": "莱德基断层夺冠",
@@ -1875,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226347,
+      "num": 226347,
+      "word": "液断减肥",
+      "onboard_time": 1690291478,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223146,
       "num": 223146,
       "word": "EDG冒泡赛",
@@ -1899,20 +1923,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222108,
+      "num": 222108,
+      "word": "福建台风",
+      "onboard_time": 1690285961,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218820,
       "num": 218820,
       "word": "各省有各省的省饭",
       "onboard_time": 1690267359,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218039,
-      "num": 218039,
-      "word": "福建台风",
-      "onboard_time": 1690285961,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214788,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1690215153,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 206869,
+      "num": 206869,
+      "word": "九夜茴解读曾少年大结局",
+      "onboard_time": 1690291838,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 206507,
@@ -2307,6 +2339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83730,
+      "num": 230608,
+      "word": "睡觉是对下雨天的基本尊重",
+      "onboard_time": 1690291719,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80145,
       "num": 80145,
       "word": "换乘瓶邪",
@@ -2331,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61438,
+      "num": 427128,
+      "word": "AI烈儿亮相淘宝直播间",
+      "onboard_time": 1690290038,
+      "rank": 14,
+      "category": "网红,科技"
+    },
+    {
       "raw_hot": 55242,
       "num": 305714,
       "word": "没点实力不敢做大V",
@@ -2339,15 +2387,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 41978,
-      "num": 427128,
-      "word": "AI烈儿亮相淘宝直播间",
-      "onboard_time": 1690290038,
-      "rank": 14,
-      "category": "网红,科技"
-    },
-    {
-      "raw_hot": 40106,
+      "raw_hot": 44924,
       "num": 937536,
       "word": "感受成都大运会科技与文化交融之美",
       "onboard_time": 1690290400,
