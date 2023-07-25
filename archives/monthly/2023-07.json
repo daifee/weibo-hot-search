@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690299241724,
+  "endTime": 1690302147795,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -11211,6 +11211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 879121,
+      "num": 879121,
+      "word": "长相思 雄竞修罗场",
+      "onboard_time": 1690298922,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 878985,
       "num": 878985,
       "word": "iPhone15Pro系列将采用深蓝色",
@@ -15388,7 +15396,7 @@
     },
     {
       "raw_hot": 701322,
-      "num": 272192,
+      "num": 407616,
       "word": "妈妈回家故意敲门3岁男童装没听到",
       "onboard_time": 1690298623,
       "rank": 31,
@@ -23851,6 +23859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488014,
+      "num": 429498,
+      "word": "孙笑川 感谢大家最近对我的关心",
+      "onboard_time": 1690297364,
+      "rank": 24,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 487775,
       "num": 487775,
       "word": "感觉文字很轻也很重",
@@ -24105,6 +24121,14 @@
       "onboard_time": 1688204254,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 483071,
+      "num": 377164,
+      "word": "未婚小姑帮带双胞胎侄子一周瘦8斤",
+      "onboard_time": 1690300596,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483050,
@@ -24993,6 +25017,14 @@
       "onboard_time": 1690269100,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466153,
+      "num": 466153,
+      "word": "齐齐哈尔三十四中账号换为黑白头像",
+      "onboard_time": 1690300358,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 466040,
@@ -27363,14 +27395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429498,
-      "num": 429498,
-      "word": "孙笑川 感谢大家最近对我的关心",
-      "onboard_time": 1690297364,
-      "rank": 24,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 429311,
       "num": 429311,
       "word": "奔跑吧没范丞丞不行",
@@ -27817,14 +27841,6 @@
       "onboard_time": 1689344680,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423224,
-      "num": 423224,
-      "word": "长相思 雄竞修罗场",
-      "onboard_time": 1690298922,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 423031,
@@ -31057,6 +31073,14 @@
       "onboard_time": 1688903072,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375559,
+      "num": 311380,
+      "word": "大学生暑假工 我素未谋面的好朋友",
+      "onboard_time": 1690299937,
+      "rank": 21,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 375553,
@@ -34569,6 +34593,14 @@
       "onboard_time": 1688205031,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332640,
+      "num": 332640,
+      "word": "假如让张翰来演许沁",
+      "onboard_time": 1690300535,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 332595,
@@ -41659,6 +41691,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 264562,
+      "num": 264562,
+      "word": "封神榜",
+      "onboard_time": 1690298980,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264543,
       "num": 264543,
       "word": "感觉余华的书走进现实了",
@@ -42809,14 +42849,6 @@
       "onboard_time": 1688718992,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 254527,
-      "num": 254527,
-      "word": "封神榜",
-      "onboard_time": 1690298980,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 254470,
@@ -46017,6 +46049,14 @@
       "onboard_time": 1689591512,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228794,
+      "num": 228794,
+      "word": "芭比笑点",
+      "onboard_time": 1690299577,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 228749,
@@ -49369,6 +49409,14 @@
       "onboard_time": 1688167523,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206446,
+      "num": 206446,
+      "word": "狮子座很讨厌被否定",
+      "onboard_time": 1690301193,
+      "rank": 34,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 206422,
@@ -60201,6 +60249,14 @@
       "onboard_time": 1689193513,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 40792,
+      "num": 759261,
+      "word": "蓉宝去哪儿",
+      "onboard_time": 1690290158,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 40431,
