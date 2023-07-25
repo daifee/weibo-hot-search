@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690277646054,
+  "endTime": 1690280330113,
   "band_list": [
     {
       "raw_hot": 8531257,
@@ -49,6 +49,14 @@
       "onboard_time": 1690257936,
       "rank": 22,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2457732,
+      "num": 556549,
+      "word": "王雪峰被逮捕",
+      "onboard_time": 1690276960,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2352046,
@@ -115,6 +123,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1661083,
+      "num": 537651,
+      "word": "赵丽颖泰国",
+      "onboard_time": 1690277259,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1627552,
       "num": 1627552,
       "word": "于晓光说特别对不起秋瓷炫",
@@ -171,6 +187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1390121,
+      "num": 526072,
+      "word": "Lisa坐路边喝红酒",
+      "onboard_time": 1690277617,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1384968,
       "num": 1384968,
       "word": "断崖式变丑",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 1340899,
-      "num": 334233,
+      "num": 387509,
       "word": "台湾13岁女孩配合警方当诱饵遭性侵",
       "onboard_time": 1690274498,
       "rank": 20,
@@ -323,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 924093,
+      "num": 924093,
+      "word": "六公主评追星乱象",
+      "onboard_time": 1690276658,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 914403,
       "num": 914403,
       "word": "吴亦凡经纪公司涉多起代言纠纷",
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 772427,
-      "num": 317462,
+      "num": 383061,
       "word": "男子悬崖旁求婚后女友不慎坠亡",
       "onboard_time": 1690275941,
       "rank": 30,
@@ -465,6 +497,14 @@
       "onboard_time": 1690267302,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 685140,
+      "num": 513508,
+      "word": "孙艺珍晒儿子小手",
+      "onboard_time": 1690279001,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 683441,
@@ -516,7 +556,7 @@
     },
     {
       "raw_hot": 658347,
-      "num": 333244,
+      "num": 499971,
       "word": "周江勇受贿案一审宣判",
       "onboard_time": 1690276778,
       "rank": 12,
@@ -619,6 +659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 597065,
+      "num": 379999,
+      "word": "长相思直播",
+      "onboard_time": 1690276658,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 572236,
       "num": 462920,
       "word": "齐齐哈尔市市长沉痛哀悼",
@@ -627,20 +675,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 567168,
-      "num": 331143,
-      "word": "赵丽颖泰国",
-      "onboard_time": 1690277259,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 566398,
       "num": 566398,
       "word": "秋瓷炫给于晓光和儿子听写韩语",
       "onboard_time": 1690243830,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560555,
+      "num": 560555,
+      "word": "电视剧长相思",
+      "onboard_time": 1690278101,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 558677,
+      "num": 558677,
+      "word": "Uzi",
+      "onboard_time": 1690278818,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 558639,
@@ -667,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 544797,
-      "num": 314788,
-      "word": "长相思直播",
-      "onboard_time": 1690276658,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 542116,
       "num": 542116,
       "word": "奥本海默内地定档",
@@ -697,14 +745,6 @@
       "onboard_time": 1690242390,
       "rank": 15,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 525797,
-      "num": 311704,
-      "word": "王雪峰被逮捕",
-      "onboard_time": 1690276960,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517816,
@@ -753,14 +793,6 @@
       "onboard_time": 1690202614,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 506798,
-      "num": 506798,
-      "word": "六公主评追星乱象",
-      "onboard_time": 1690276658,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 503697,
@@ -1091,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357171,
+      "num": 357171,
+      "word": "体重诠释了你的代谢情况",
+      "onboard_time": 1690276360,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 351674,
       "num": 351674,
       "word": "乐队歌手演出时当众脱裤子被行拘",
@@ -1187,6 +1227,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 315017,
+      "num": 315017,
+      "word": "LNG对战WBG",
+      "onboard_time": 1690278276,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312548,
       "num": 312548,
       "word": "吴亦凡案不公开开庭审理",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1690211203,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305415,
-      "num": 305415,
-      "word": "体重诠释了你的代谢情况",
-      "onboard_time": 1690276360,
-      "rank": 35,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 302875,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1690274316,
       "rank": 27,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 294610,
+      "num": 1035060,
+      "word": "男子隧道摔车公交司机变道为其挡车",
+      "onboard_time": 1690278637,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292896,
@@ -1515,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221922,
+      "num": 718613,
+      "word": "由外婆带大的励志女孩被清华录取",
+      "onboard_time": 1690278637,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 218820,
       "num": 218820,
       "word": "各省有各省的省饭",
@@ -1651,6 +1707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193800,
+      "num": 193800,
+      "word": "巴黎圣日耳曼vs利雅得胜利",
+      "onboard_time": 1690280319,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192733,
       "num": 196901,
       "word": "一起去追空投雨",
@@ -1707,6 +1771,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175600,
+      "num": 560812,
+      "word": "这封录取通知书有开满鲜花的诗意",
+      "onboard_time": 1690278637,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 170686,
+      "num": 170686,
+      "word": "柳智敏芭比造型",
+      "onboard_time": 1690280020,
+      "rank": 40,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 168490,
       "num": 168490,
       "word": "六问齐齐哈尔坍塌事故",
@@ -1723,12 +1803,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165651,
+      "num": 165651,
+      "word": "魏大勋新剧捧花杀青照",
+      "onboard_time": 1690279777,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165407,
       "num": 168471,
       "word": "莲花楼预告",
       "onboard_time": 1690215331,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164326,
+      "num": 164326,
+      "word": "娃 我已经给你反应的时间了",
+      "onboard_time": 1690279717,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 159078,
+      "num": 159078,
+      "word": "幼童三楼坠落一群人张开双臂",
+      "onboard_time": 1690279959,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154370,
@@ -1763,14 +1867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 146868,
-      "num": 198033,
-      "word": "Lisa坐路边喝红酒",
-      "onboard_time": 1690277617,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137870,
       "num": 168464,
       "word": "TES战胜EDG",
@@ -1796,7 +1892,7 @@
     },
     {
       "raw_hot": 117261,
-      "num": 917983,
+      "num": 950768,
       "word": "大运会开幕式烟花",
       "onboard_time": 1690273299,
       "rank": 2,
