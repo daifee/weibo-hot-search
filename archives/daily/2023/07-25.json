@@ -1,6 +1,6 @@
 {
   "startTime": 1690215748498,
-  "endTime": 1690241633393,
+  "endTime": 1690249429326,
   "band_list": [
     {
       "raw_hot": 3174460,
@@ -11,6 +11,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2239085,
+      "num": 1552174,
+      "word": "我最好的朋友全走了",
+      "onboard_time": 1690244075,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2054437,
+      "num": 1521451,
+      "word": "齐齐哈尔教育局距坍塌体育馆仅49米",
+      "onboard_time": 1690247312,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1908645,
       "num": 1908645,
       "word": "齐齐哈尔坍塌事故原因初步查明",
@@ -19,20 +35,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1547280,
-      "num": 477362,
-      "word": "日本第一批不婚的人开始后悔了",
-      "onboard_time": 1690201291,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1513843,
-      "num": 1513843,
+      "raw_hot": 1748852,
+      "num": 1748852,
       "word": "瑞幸咖啡三分之二是冰块两口喝完",
       "onboard_time": 1690239982,
       "rank": 14,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1737300,
+      "num": 1737300,
+      "word": "微信内测朋友圈可以置顶了",
+      "onboard_time": 1690245156,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1547280,
+      "num": 628142,
+      "word": "日本第一批不婚的人开始后悔了",
+      "onboard_time": 1690201291,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1497579,
@@ -41,6 +65,14 @@
       "onboard_time": 1690212935,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1445507,
+      "num": 1445507,
+      "word": "电竞选手叮当猫去世",
+      "onboard_time": 1690241967,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1321909,
@@ -59,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1173326,
+      "num": 1173326,
+      "word": "杨紫在长相思是演男人吗",
+      "onboard_time": 1690244315,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1097288,
       "num": 1016482,
       "word": "冯提莫 女孩子们一定不要精神内耗",
@@ -67,12 +107,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 990431,
+      "num": 990431,
+      "word": "惠若琪要教齐齐哈尔幸存球员打排球",
+      "onboard_time": 1690243774,
+      "rank": 7,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 888848,
       "num": 474681,
       "word": "沈月 同性之间就一定是纯友谊吗",
       "onboard_time": 1690204415,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 815601,
+      "num": 815601,
+      "word": "电子付款让人对钱没了概念",
+      "onboard_time": 1690245336,
+      "rank": 8,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 813481,
@@ -107,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628723,
+      "num": 628723,
+      "word": "Angelababy演狐妖疯批美人",
+      "onboard_time": 1690247974,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 609250,
+      "num": 609250,
+      "word": "齐齐哈尔多位救援人员发声",
+      "onboard_time": 1690242268,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572236,
       "num": 462920,
       "word": "齐齐哈尔市市长沉痛哀悼",
@@ -115,12 +187,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566398,
+      "num": 566398,
+      "word": "秋瓷炫给于晓光和儿子听写韩语",
+      "onboard_time": 1690243830,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 552589,
+      "num": 552589,
+      "word": "祖孙3人散步被轿车迎面撞死",
+      "onboard_time": 1690241728,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539412,
-      "num": 302825,
+      "num": 380937,
       "word": "客服回应TFBOYS演唱会线上只能看三天",
       "onboard_time": 1690212820,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 532795,
+      "num": 532795,
+      "word": "全麻手术人是不会自主呼吸的",
+      "onboard_time": 1690242390,
+      "rank": 15,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 517816,
@@ -129,6 +225,14 @@
       "onboard_time": 1690213057,
       "rank": 21,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 514953,
+      "num": 352806,
+      "word": "暑期实习下班被误认为领导",
+      "onboard_time": 1690248156,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 513596,
@@ -145,6 +249,22 @@
       "onboard_time": 1690202614,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 503697,
+      "num": 503697,
+      "word": "地铁上的水果标志是干嘛用的",
+      "onboard_time": 1690245635,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 497417,
+      "num": 497417,
+      "word": "当独生小狗发现自己多了个妹妹",
+      "onboard_time": 1690245094,
+      "rank": 17,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 456578,
@@ -171,12 +291,36 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 428086,
+      "num": 428086,
+      "word": "郑恺杜海涛用的什么防晒",
+      "onboard_time": 1690241068,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424966,
       "num": 424966,
       "word": "齐市坍塌事故1位遇难者是外校生",
       "onboard_time": 1690209408,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401912,
+      "num": 401912,
+      "word": "王子奇王玉雯都在追欢颜",
+      "onboard_time": 1690245696,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 398689,
+      "num": 398689,
+      "word": "长相思开播第一天热度超玉骨遥",
+      "onboard_time": 1690248215,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 388174,
@@ -187,12 +331,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 380950,
+      "num": 380950,
+      "word": "伊能静科普三伏天适合瘦身",
+      "onboard_time": 1690240945,
+      "rank": 30,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 366626,
+      "num": 366626,
+      "word": "河南特岗",
+      "onboard_time": 1690246656,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 364976,
       "num": 346886,
       "word": "大牙回应陈建州范玮琪撤诉",
       "onboard_time": 1690204533,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363696,
+      "num": 363696,
+      "word": "长相思",
+      "onboard_time": 1690240584,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 361676,
@@ -203,12 +371,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357444,
+      "num": 357444,
+      "word": "妈妈吐槽女儿房间像另一个次元",
+      "onboard_time": 1690244677,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351674,
+      "num": 351674,
+      "word": "乐队歌手演出时当众脱裤子被行拘",
+      "onboard_time": 1690245757,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 330991,
+      "num": 330991,
+      "word": "杨紫7岁到30岁荧幕变化",
+      "onboard_time": 1690243954,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329404,
       "num": 329404,
       "word": "大叔房本丢失一气之下徒手攀爬25楼",
       "onboard_time": 1690213356,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315589,
+      "num": 315589,
+      "word": "魏大勋到底背着我们接了多少私活",
+      "onboard_time": 1690248755,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 308577,
@@ -227,12 +427,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 297247,
-      "num": 159017,
-      "word": "伊能静科普三伏天适合瘦身",
-      "onboard_time": 1690240945,
-      "rank": 30,
-      "category": "艺人,体育"
+      "raw_hot": 299818,
+      "num": 299818,
+      "word": "宝宝昏睡不醒月嫂包里发现安眠药",
+      "onboard_time": 1690244374,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292896,
+      "num": 353530,
+      "word": "齐齐哈尔召开体育馆坍塌事故发布会",
+      "onboard_time": 1690210005,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285750,
@@ -243,12 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281499,
-      "num": 227080,
-      "word": "长相思",
-      "onboard_time": 1690240584,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 282103,
+      "num": 282103,
+      "word": "工作后真的有必要用两个微信",
+      "onboard_time": 1690243353,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 278964,
@@ -257,6 +465,30 @@
       "onboard_time": 1690188874,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278859,
+      "num": 278859,
+      "word": "檀健次演的柳柳蛇",
+      "onboard_time": 1690242327,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271697,
+      "num": 271697,
+      "word": "短信错过了六年但你们的爱没有",
+      "onboard_time": 1690243954,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 268292,
+      "num": 268292,
+      "word": "体育馆坍塌事故相关责任人被立案侦查",
+      "onboard_time": 1690211381,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261664,
@@ -291,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250172,
-      "num": 250172,
-      "word": "体育馆坍塌事故相关责任人被立案侦查",
-      "onboard_time": 1690211381,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 252557,
+      "num": 252557,
+      "word": "看见狗被轮胎追杀了",
+      "onboard_time": 1690247254,
+      "rank": 40,
+      "category": "幽默"
     },
     {
-      "raw_hot": 245515,
-      "num": 245515,
-      "word": "齐齐哈尔召开体育馆坍塌事故发布会",
-      "onboard_time": 1690210005,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 248161,
+      "num": 248161,
+      "word": "韩烨祝帝梓元生辰快乐",
+      "onboard_time": 1690248814,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 244434,
@@ -339,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228262,
-      "num": 228262,
-      "word": "郑恺杜海涛用的什么防晒",
-      "onboard_time": 1690241068,
-      "rank": 19,
-      "category": "作品衍生"
+      "raw_hot": 224951,
+      "num": 224951,
+      "word": "台风",
+      "onboard_time": 1690248456,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223146,
@@ -361,6 +593,14 @@
       "onboard_time": 1690214137,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213416,
+      "num": 213416,
+      "word": "封神",
+      "onboard_time": 1690246056,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 212113,
@@ -387,6 +627,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 206507,
+      "num": 206507,
+      "word": "莲花楼",
+      "onboard_time": 1690246717,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203512,
       "num": 203512,
       "word": "蓝鸟logo设计师分享设计线稿",
@@ -401,6 +649,14 @@
       "onboard_time": 1690214972,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195463,
+      "num": 195463,
+      "word": "排超联赛向齐齐哈尔34中罹难者致哀",
+      "onboard_time": 1690249415,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 185971,
@@ -572,7 +828,7 @@
     },
     {
       "raw_hot": 30206,
-      "num": 1245804,
+      "num": 1561445,
       "word": "空军航空开放活动预演现场",
       "onboard_time": 1690197334,
       "rank": 2,
