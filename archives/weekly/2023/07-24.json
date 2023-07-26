@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690391677398,
+  "endTime": 1690392836472,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -7227,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131542,
+      "num": 131542,
+      "word": "檀健次白茶蛇",
+      "onboard_time": 1690391722,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130991,
       "num": 186882,
       "word": "AI相机",
@@ -7459,12 +7467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81033,
+      "num": 105946,
+      "word": "汪苏泷造型师哪位",
+      "onboard_time": 1690391902,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80145,
       "num": 80145,
       "word": "换乘瓶邪",
       "onboard_time": 1690222877,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 80030,
+      "num": 105946,
+      "word": "微笑天使萨摩耶狗设崩塌现场",
+      "onboard_time": 1690390885,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 77930,
@@ -7561,6 +7585,14 @@
       "onboard_time": 1690275999,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 51124,
+      "num": 105945,
+      "word": "奄奄一息的狗狗倒在后院里",
+      "onboard_time": 1690392023,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 50647,

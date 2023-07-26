@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690391677398,
+  "endTime": 1690392836472,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -59659,6 +59659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131542,
+      "num": 131542,
+      "word": "檀健次白茶蛇",
+      "onboard_time": 1690391722,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131513,
       "num": 131513,
       "word": "人民海军版轻舟已过万重山",
@@ -61595,6 +61603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81033,
+      "num": 105946,
+      "word": "汪苏泷造型师哪位",
+      "onboard_time": 1690391902,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80922,
       "num": 563989,
       "word": "巴特勒村BA首秀",
@@ -61641,6 +61657,14 @@
       "onboard_time": 1690222877,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 80030,
+      "num": 105946,
+      "word": "微笑天使萨摩耶狗设崩塌现场",
+      "onboard_time": 1690390885,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 79928,
@@ -62409,6 +62433,14 @@
       "onboard_time": 1690100671,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51124,
+      "num": 105945,
+      "word": "奄奄一息的狗狗倒在后院里",
+      "onboard_time": 1690392023,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 50756,
