@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690409733677,
+  "endTime": 1690410817080,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -5331,6 +5331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268920,
+      "num": 268920,
+      "word": "消防员抓了只头像鼠身像猫的动物",
+      "onboard_time": 1690386760,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268407,
       "num": 463028,
       "word": "岳阳警方通报俱乐部枪支走火事件",
@@ -5345,14 +5353,6 @@
       "onboard_time": 1690352734,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266931,
-      "num": 266931,
-      "word": "消防员抓了只头像鼠身像猫的动物",
-      "onboard_time": 1690386760,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265778,
@@ -6963,6 +6963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168551,
+      "num": 168551,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168075,
       "num": 209028,
       "word": "足协杯",
@@ -7147,14 +7155,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 146655,
-      "num": 146655,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146574,
       "num": 146574,
       "word": "OHMYGIRL新歌",
@@ -7251,6 +7251,14 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 129545,
+      "num": 129545,
+      "word": "杨紫最有cp感男主",
+      "onboard_time": 1690394117,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129447,
       "num": 129447,
       "word": "体育馆顶部网架结构承重能力非常低",
@@ -7307,6 +7315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121255,
+      "num": 119058,
+      "word": "活该涂山璟有老婆",
+      "onboard_time": 1690397775,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118294,
       "num": 209337,
       "word": "你们一定也很为我骄傲吧",
@@ -7345,14 +7361,6 @@
       "onboard_time": 1690365042,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113757,
-      "num": 103719,
-      "word": "杨紫最有cp感男主",
-      "onboard_time": 1690394117,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 111381,
@@ -7499,14 +7507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83406,
-      "num": 83406,
-      "word": "活该涂山璟有老婆",
-      "onboard_time": 1690397775,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 83266,
       "num": 1505697,
       "word": "一起看成都大运会",
@@ -7587,6 +7587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65055,
+      "num": 65055,
+      "word": "当年爆红的刀郎这些年去哪了",
+      "onboard_time": 1690402993,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63440,
       "num": 107515,
       "word": "买了不会出错的彩妆",
@@ -7627,14 +7635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56418,
-      "num": 56418,
-      "word": "当年爆红的刀郎这些年去哪了",
-      "onboard_time": 1690402993,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55242,
       "num": 305714,
       "word": "没点实力不敢做大V",
@@ -7651,20 +7651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50116,
+      "num": 51181,
+      "word": "Wayward 菜",
+      "onboard_time": 1690404193,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 46671,
+      "num": 51176,
+      "word": "30 50 80的理发师有没有区别",
+      "onboard_time": 1690403353,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 43878,
       "num": 481615,
       "word": "说唱巅峰对决后劲太强",
       "onboard_time": 1690369479,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41648,
-      "num": 41648,
-      "word": "Wayward 菜",
-      "onboard_time": 1690404193,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 36844,
@@ -7681,14 +7689,6 @@
       "onboard_time": 1690225754,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33253,
-      "num": 40239,
-      "word": "30 50 80的理发师有没有区别",
-      "onboard_time": 1690403353,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 31492,
