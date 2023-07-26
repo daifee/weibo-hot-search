@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690355717550,
+  "endTime": 1690356829301,
   "band_list": [
     {
       "raw_hot": 3221475,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1144200,
-      "num": 414580,
+      "num": 560280,
       "word": "这竟然是余文乐",
       "onboard_time": 1690352976,
       "rank": 15,
@@ -281,6 +281,14 @@
       "onboard_time": 1690338271,
       "rank": 20,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 790144,
+      "num": 287933,
+      "word": "5岁哥哥把4岁妹妹推上公交自己跑开",
+      "onboard_time": 1690354894,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 782716,
@@ -443,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 606973,
+      "num": 606973,
+      "word": "咒术回战",
+      "onboard_time": 1690354957,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 606416,
       "num": 606416,
       "word": "猫狗绝育坏人表演一次几十元",
@@ -467,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575380,
+      "num": 575380,
+      "word": "乌尔善说封神还没走出ICU",
+      "onboard_time": 1690353516,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 568715,
       "num": 352574,
       "word": "00后投200份简历面70家终获offer",
@@ -483,20 +507,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 560068,
-      "num": 560068,
-      "word": "乌尔善说封神还没走出ICU",
-      "onboard_time": 1690353516,
-      "rank": 8,
+      "raw_hot": 518286,
+      "num": 518286,
+      "word": "孟宴臣喝红酒夜谈戏份被删",
+      "onboard_time": 1690354957,
+      "rank": 25,
       "category": "影视"
     },
     {
-      "raw_hot": 553523,
-      "num": 215129,
-      "word": "5岁哥哥把4岁妹妹推上公交自己跑开",
-      "onboard_time": 1690354894,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 517299,
+      "num": 517299,
+      "word": "新西游记大逃脱下架",
+      "onboard_time": 1690355495,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 505082,
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 392024,
-      "num": 247379,
+      "num": 287805,
       "word": "官方通报男子光屁股大街上被拖行",
       "onboard_time": 1690352855,
       "rank": 24,
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 371794,
-      "num": 244702,
+      "num": 267383,
       "word": "当名著被改成网文名",
       "onboard_time": 1690353156,
       "rank": 30,
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 368352,
-      "num": 247814,
+      "num": 287758,
       "word": "孟美岐i人",
       "onboard_time": 1690352497,
       "rank": 23,
@@ -707,16 +731,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352667,
-      "num": 218256,
-      "word": "孟宴臣喝红酒夜谈戏份被删",
-      "onboard_time": 1690354957,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 351842,
-      "num": 281935,
+      "num": 287636,
       "word": "TFBOYS五年前的信",
       "onboard_time": 1690350815,
       "rank": 26,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 345970,
-      "num": 243594,
+      "num": 287687,
       "word": "大摆锤上游客呕吐底下排队人遭殃",
       "onboard_time": 1690352375,
       "rank": 39,
@@ -771,20 +787,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343027,
+      "num": 287782,
+      "word": "薛之谦巡演官宣沈阳福州站",
+      "onboard_time": 1690353097,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 342863,
       "num": 342863,
       "word": "电视剧长相思",
       "onboard_time": 1690278101,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 341113,
-      "num": 217400,
-      "word": "薛之谦巡演官宣沈阳福州站",
-      "onboard_time": 1690353097,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 336942,
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 322316,
-      "num": 214214,
+      "num": 284621,
       "word": "虞书欣和小黄鸭合影",
       "onboard_time": 1690354295,
       "rank": 31,
@@ -883,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306071,
+      "num": 287727,
+      "word": "女子把婴儿放在马路中间后离开",
+      "onboard_time": 1690355737,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305845,
       "num": 278757,
       "word": "相柳有自己的私人飞鸡",
@@ -905,6 +929,14 @@
       "onboard_time": 1690340011,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291570,
+      "num": 287694,
+      "word": "张雨绮身材比例",
+      "onboard_time": 1690356515,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 290155,
@@ -939,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273919,
-      "num": 212826,
-      "word": "新西游记大逃脱下架",
-      "onboard_time": 1690355495,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272757,
       "num": 272757,
       "word": "全员加速中",
@@ -977,6 +1001,14 @@
       "onboard_time": 1690331017,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269294,
+      "num": 245817,
+      "word": "长相思云合播放量登顶",
+      "onboard_time": 1690356276,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 268354,
@@ -1115,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229402,
+      "num": 182296,
+      "word": "密室大逃脱",
+      "onboard_time": 1690353757,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228794,
       "num": 228794,
       "word": "芭比笑点",
@@ -1161,14 +1201,6 @@
       "onboard_time": 1690348777,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 212671,
-      "num": 212671,
-      "word": "咒术回战",
-      "onboard_time": 1690354957,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 211264,
@@ -1275,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189162,
+      "num": 189162,
+      "word": "张家界",
+      "onboard_time": 1690356097,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188614,
       "num": 197709,
       "word": "热烈长沙路演票价炒至上千元",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1690297965,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 177945,
+      "num": 177945,
+      "word": "家长吐槽孩子拉裤子被老师原状送回",
+      "onboard_time": 1690355974,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 176882,
