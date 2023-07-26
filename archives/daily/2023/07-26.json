@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690352468470,
+  "endTime": 1690353233529,
   "band_list": [
     {
       "raw_hot": 3221475,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1749155,
+      "num": 1749155,
+      "word": "刘亦菲王楚然同框旧照",
+      "onboard_time": 1690350156,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1724740,
       "num": 1724740,
       "word": "中式麻辣烫和韩式麻辣烫的区别",
@@ -107,14 +115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1415072,
-      "num": 1415072,
-      "word": "刘亦菲王楚然同框旧照",
-      "onboard_time": 1690350156,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1381528,
       "num": 505056,
       "word": "女子拍骨盆CT被要求撩裙露内裤",
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1327761,
+      "num": 1327761,
+      "word": "张家界天门山一游客坠亡",
+      "onboard_time": 1690350937,
+      "rank": 10,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 1236829,
       "num": 1236829,
       "word": "布朗尼遭遇心脏骤停",
       "onboard_time": 1690296640,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1207098,
-      "num": 434863,
-      "word": "张家界天门山一游客坠亡",
-      "onboard_time": 1690350937,
-      "rank": 10,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1198309,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706029,
+      "num": 584370,
+      "word": "17岁男孩中枪身亡亲属称已和解",
+      "onboard_time": 1690351357,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688915,
       "num": 688915,
       "word": "付闻樱扮演者陈瑾采访魅力",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 633442,
-      "num": 421337,
+      "num": 585614,
       "word": "赵露思魏大勋版偷偷藏不住",
       "onboard_time": 1690349317,
       "rank": 27,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 582263,
-      "num": 416296,
+      "num": 521001,
       "word": "长相思思的是谁",
       "onboard_time": 1690349738,
       "rank": 13,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 501162,
-      "num": 406755,
+      "num": 411000,
       "word": "阿饭泽泽官宣",
       "onboard_time": 1690349197,
       "rank": 25,
@@ -539,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 435596,
-      "num": 412600,
-      "word": "17岁男孩中枪身亡亲属称已和解",
-      "onboard_time": 1690351357,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433468,
       "num": 227665,
       "word": "京东崩了",
@@ -569,6 +569,14 @@
       "onboard_time": 1690343795,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 414580,
+      "num": 414580,
+      "word": "这竟然是余文乐",
+      "onboard_time": 1690352976,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 405507,
@@ -627,6 +635,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 371794,
+      "num": 244702,
+      "word": "当名著被改成网文名",
+      "onboard_time": 1690353156,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 371626,
       "num": 371626,
       "word": "杨紫相见相思完整版上线",
@@ -649,6 +665,14 @@
       "onboard_time": 1690335993,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351842,
+      "num": 281935,
+      "word": "TFBOYS五年前的信",
+      "onboard_time": 1690350815,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 351816,
@@ -731,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322627,
-      "num": 281935,
-      "word": "TFBOYS五年前的信",
-      "onboard_time": 1690350815,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 322567,
       "num": 315403,
       "word": "西双版纳一猛男餐厅被查处",
@@ -761,6 +777,14 @@
       "onboard_time": 1690294961,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313245,
+      "num": 247814,
+      "word": "孟美岐i人",
+      "onboard_time": 1690352497,
+      "rank": 23,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 310853,
@@ -809,6 +833,14 @@
       "onboard_time": 1690272937,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 294068,
+      "num": 247379,
+      "word": "官方通报男子光屁股大街上被拖行",
+      "onboard_time": 1690352855,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293380,
@@ -899,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264700,
+      "num": 243594,
+      "word": "大摆锤上游客呕吐底下排队人遭殃",
+      "onboard_time": 1690352375,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 264656,
       "num": 319836,
       "word": "王雪峰被逮捕",
@@ -929,6 +969,14 @@
       "onboard_time": 1690301193,
       "rank": 34,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 254722,
+      "num": 243458,
+      "word": "关晓彤打小就适合冯氏喜剧",
+      "onboard_time": 1690352734,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 251287,
@@ -1019,6 +1067,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 227005,
+      "num": 203481,
+      "word": "薛之谦巡演官宣沈阳福州站",
+      "onboard_time": 1690353097,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221859,
       "num": 221859,
       "word": "最喜欢Citywalk的城市为什么没有重庆",
@@ -1105,14 +1161,6 @@
       "onboard_time": 1690277617,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200143,
-      "num": 206304,
-      "word": "大摆锤上游客呕吐底下排队人遭殃",
-      "onboard_time": 1690352375,
-      "rank": 39,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 198501,
