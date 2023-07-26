@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690359662116,
+  "endTime": 1690360427351,
   "band_list": [
     {
       "raw_hot": 3221475,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1374816,
+      "num": 1374816,
+      "word": "张艺兴鹿晗黄子韬会和EXO聚一下吗",
+      "onboard_time": 1690357955,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1236829,
       "num": 1236829,
       "word": "布朗尼遭遇心脏骤停",
@@ -185,14 +193,6 @@
       "onboard_time": 1690336054,
       "rank": 31,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 1100475,
-      "num": 1100475,
-      "word": "张艺兴鹿晗黄子韬会和EXO聚一下吗",
-      "onboard_time": 1690357955,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1074964,
@@ -371,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 733817,
+      "num": 495832,
+      "word": "封神票房",
+      "onboard_time": 1690358556,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 727169,
       "num": 534242,
       "word": "piko张张",
@@ -403,12 +411,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 682551,
+      "num": 514396,
+      "word": "110元点了11道菜",
+      "onboard_time": 1690357415,
+      "rank": 13,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 681087,
       "num": 499416,
       "word": "游个泳居然把头发给漂白了",
       "onboard_time": 1690345115,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 664301,
+      "num": 465752,
+      "word": "魏大勋不止一场戏份被删",
+      "onboard_time": 1690358556,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 662849,
@@ -440,14 +464,6 @@
       "word": "长相思",
       "onboard_time": 1690299636,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 646579,
-      "num": 495832,
-      "word": "封神票房",
-      "onboard_time": 1690358556,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -513,14 +529,6 @@
       "onboard_time": 1690343317,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 604450,
-      "num": 514396,
-      "word": "110元点了11道菜",
-      "onboard_time": 1690357415,
-      "rank": 13,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 590577,
@@ -619,14 +627,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 465752,
-      "num": 465752,
-      "word": "魏大勋不止一场戏份被删",
-      "onboard_time": 1690358556,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 460712,
       "num": 460712,
       "word": "当单位的空调吹不到办公室里",
@@ -689,6 +689,14 @@
       "onboard_time": 1690343795,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419155,
+      "num": 283253,
+      "word": "男子散发前女友黄色卡片索要印制费",
+      "onboard_time": 1690358976,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405507,
@@ -779,6 +787,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 364131,
+      "num": 281813,
+      "word": "杨洋切菜切到手背",
+      "onboard_time": 1690359758,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363376,
       "num": 287727,
       "word": "女子把婴儿放在马路中间后离开",
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 351785,
-      "num": 271503,
+      "num": 281135,
       "word": "九键打字被吐槽活在按键时代",
       "onboard_time": 1690358313,
       "rank": 27,
@@ -939,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316720,
+      "num": 279545,
+      "word": "迪丽热巴和三万水狮的合照",
+      "onboard_time": 1690359578,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316080,
       "num": 326482,
       "word": "有没有人心疼宋焰舅妈啊",
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 293129,
-      "num": 267422,
+      "num": 273129,
       "word": "难怪相柳说九头话题是禁忌",
       "onboard_time": 1690357055,
       "rank": 30,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1690288179,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276654,
+      "num": 276654,
+      "word": "岳云鹏经纪人商业版图盘点",
+      "onboard_time": 1690358433,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 272757,
@@ -1099,28 +1131,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266279,
-      "num": 266279,
-      "word": "男子散发前女友黄色卡片索要印制费",
-      "onboard_time": 1690358976,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265778,
       "num": 265778,
       "word": "调剂到了冷门专业",
       "onboard_time": 1690331617,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 265556,
-      "num": 265556,
-      "word": "岳云鹏经纪人商业版图盘点",
-      "onboard_time": 1690358433,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 264656,
@@ -1163,6 +1179,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 252247,
+      "num": 216675,
+      "word": "于适为了封神两年没剪头发",
+      "onboard_time": 1690359877,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251287,
       "num": 251287,
       "word": "北方室友不理解太阳下山",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1690290520,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247223,
+      "num": 216562,
+      "word": "秘密入侵",
+      "onboard_time": 1690360059,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 246839,
@@ -1275,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222288,
+      "num": 222288,
+      "word": "养狗的和减肥的都沉默了",
+      "onboard_time": 1690359877,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221859,
       "num": 221859,
       "word": "最喜欢Citywalk的城市为什么没有重庆",
@@ -1313,14 +1353,6 @@
       "onboard_time": 1690295742,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210789,
-      "num": 210789,
-      "word": "迪丽热巴和三万水狮的合照",
-      "onboard_time": 1690359578,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 208506,
@@ -1396,7 +1428,7 @@
     },
     {
       "raw_hot": 197253,
-      "num": 197253,
+      "num": 205741,
       "word": "周深美依礼芽新歌夏日妄想",
       "onboard_time": 1690359097,
       "rank": 46,
@@ -1443,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187621,
+      "num": 205750,
+      "word": "夏天必备解暑零食",
+      "onboard_time": 1690359877,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186770,
       "num": 186770,
       "word": "迈阿密国际vs亚特兰大联",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1690332276,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182699,
+      "num": 205733,
+      "word": "三颗鸡蛋就能复刻的甜品",
+      "onboard_time": 1690359699,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 182443,
@@ -1499,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176404,
+      "num": 205724,
+      "word": "岳阳警方通报俱乐部枪支走火事件",
+      "onboard_time": 1690357955,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174797,
       "num": 208264,
       "word": "于适版姬发",
@@ -1508,7 +1564,7 @@
     },
     {
       "raw_hot": 174377,
-      "num": 197196,
+      "num": 205716,
       "word": "项目结束后甲方夸我性格好",
       "onboard_time": 1690358556,
       "rank": 47,
@@ -1635,6 +1691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 133752,
+      "num": 274198,
+      "word": "什么是静奢风",
+      "onboard_time": 1690357713,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 132217,
       "num": 149772,
       "word": "迪丽热巴为龚俊戴面具",
@@ -1673,14 +1737,6 @@
       "onboard_time": 1690312214,
       "rank": 46,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 109119,
-      "num": 274198,
-      "word": "什么是静奢风",
-      "onboard_time": 1690357713,
-      "rank": 25,
-      "category": "时尚"
     },
     {
       "raw_hot": 95264,
