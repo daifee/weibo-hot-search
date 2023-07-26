@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690385646857,
+  "endTime": 1690388505401,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -81,6 +81,14 @@
       "onboard_time": 1690261780,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3782487,
+      "num": 1360590,
+      "word": "小红书",
+      "onboard_time": 1690387296,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 3711258,
@@ -475,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1695142,
+      "num": 937048,
+      "word": "性同意没有模糊的界限",
+      "onboard_time": 1690385439,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1677238,
       "num": 1677238,
       "word": "长相思男主是谁",
       "onboard_time": 1690200453,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1673401,
+      "num": 1673401,
+      "word": "微信白用那么久了",
+      "onboard_time": 1690386217,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 1672733,
@@ -1819,6 +1843,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 754521,
+      "num": 556473,
+      "word": "江宏杰将召开记者会控诉福原爱",
+      "onboard_time": 1690384840,
+      "rank": 21,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 752155,
       "num": 752155,
       "word": "张艺兴连续三次发背影照了",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1690181435,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 670677,
+      "num": 670677,
+      "word": "封神成本30亿",
+      "onboard_time": 1690384123,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 668291,
@@ -2619,14 +2659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 574083,
-      "num": 574083,
-      "word": "封神成本30亿",
-      "onboard_time": 1690384123,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 574010,
       "num": 574010,
       "word": "罗云熙宋轶新剧大婚路透",
@@ -2673,6 +2705,14 @@
       "onboard_time": 1690331259,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568243,
+      "num": 301240,
+      "word": "哥哥第一次带女朋友回家",
+      "onboard_time": 1690385021,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 566398,
@@ -2769,6 +2809,14 @@
       "onboard_time": 1690209408,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543064,
+      "num": 543064,
+      "word": "魏大勋后援会回应戏份被删",
+      "onboard_time": 1690384602,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 542523,
@@ -3057,14 +3105,6 @@
       "onboard_time": 1690382805,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494996,
-      "num": 494996,
-      "word": "江宏杰将召开记者会控诉福原爱",
-      "onboard_time": 1690384840,
-      "rank": 21,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 493502,
@@ -4035,14 +4075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 370403,
-      "num": 370403,
-      "word": "魏大勋后援会回应戏份被删",
-      "onboard_time": 1690384602,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 369088,
       "num": 369088,
       "word": "坍塌事故背后的齐齐哈尔曾走出多名国手",
@@ -4209,14 +4241,6 @@
       "onboard_time": 1690164692,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 353073,
-      "num": 353073,
-      "word": "性同意没有模糊的界限",
-      "onboard_time": 1690385439,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 352918,
@@ -4875,6 +4899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302791,
+      "num": 302791,
+      "word": "林俊杰青岛",
+      "onboard_time": 1690386340,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 302325,
       "num": 302325,
       "word": "谁教时代少年团这么拍的",
@@ -4889,14 +4921,6 @@
       "onboard_time": 1690256018,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 301240,
-      "num": 301240,
-      "word": "哥哥第一次带女朋友回家",
-      "onboard_time": 1690385021,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 299818,
@@ -5321,6 +5345,14 @@
       "onboard_time": 1690352734,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266931,
+      "num": 266931,
+      "word": "消防员抓了只头像鼠身像猫的动物",
+      "onboard_time": 1690386760,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265778,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690385646857,
+  "endTime": 1690388505401,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -593,6 +593,14 @@
       "onboard_time": 1688457874,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3782487,
+      "num": 1360590,
+      "word": "小红书",
+      "onboard_time": 1690387296,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 3758613,
@@ -4163,6 +4171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1695142,
+      "num": 937048,
+      "word": "性同意没有模糊的界限",
+      "onboard_time": 1690385439,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1693557,
       "num": 1693557,
       "word": "杭州女子买彩票误打误撞中了一千万",
@@ -4265,6 +4281,14 @@
       "onboard_time": 1690083271,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1673401,
+      "num": 1673401,
+      "word": "微信白用那么久了",
+      "onboard_time": 1690386217,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 1672733,
@@ -14619,6 +14643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 754521,
+      "num": 556473,
+      "word": "江宏杰将召开记者会控诉福原爱",
+      "onboard_time": 1690384840,
+      "rank": 21,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 754011,
       "num": 754011,
       "word": "谭松韵工作室回应受伤",
@@ -16897,6 +16929,14 @@
       "onboard_time": 1688273911,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 670677,
+      "num": 670677,
+      "word": "封神成本30亿",
+      "onboard_time": 1690384123,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 670193,
@@ -20763,14 +20803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 574083,
-      "num": 574083,
-      "word": "封神成本30亿",
-      "onboard_time": 1690384123,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 574010,
       "num": 574010,
       "word": "罗云熙宋轶新剧大婚路透",
@@ -21009,6 +21041,14 @@
       "onboard_time": 1688571599,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 568243,
+      "num": 301240,
+      "word": "哥哥第一次带女朋友回家",
+      "onboard_time": 1690385021,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 568234,
@@ -22160,6 +22200,14 @@
       "word": "迪丽热巴开工前先健身",
       "onboard_time": 1689603632,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 543064,
+      "num": 543064,
+      "word": "魏大勋后援会回应戏份被删",
+      "onboard_time": 1690384602,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -24345,14 +24393,6 @@
       "onboard_time": 1689665854,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 494996,
-      "num": 494996,
-      "word": "江宏杰将召开记者会控诉福原爱",
-      "onboard_time": 1690384840,
-      "rank": 21,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 494947,
@@ -32715,14 +32755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 370403,
-      "num": 370403,
-      "word": "魏大勋后援会回应戏份被删",
-      "onboard_time": 1690384602,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 370299,
       "num": 947597,
       "word": "粉衣姑娘暴雨中弃车救人",
@@ -34144,14 +34176,6 @@
       "word": "迪丽热巴灵动的演技",
       "onboard_time": 1689558328,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 353073,
-      "num": 353073,
-      "word": "性同意没有模糊的界限",
-      "onboard_time": 1690385439,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -38771,6 +38795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 302791,
+      "num": 302791,
+      "word": "林俊杰青岛",
+      "onboard_time": 1690386340,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 302748,
       "num": 226411,
       "word": "孟佳Min合体梦回missA",
@@ -38897,14 +38929,6 @@
       "onboard_time": 1688207012,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 301240,
-      "num": 301240,
-      "word": "哥哥第一次带女朋友回家",
-      "onboard_time": 1690385021,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 301084,
@@ -43025,6 +43049,14 @@
       "onboard_time": 1688867850,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 266931,
+      "num": 266931,
+      "word": "消防员抓了只头像鼠身像猫的动物",
+      "onboard_time": 1690386760,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266914,
