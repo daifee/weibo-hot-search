@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690356829301,
+  "endTime": 1690359662116,
   "band_list": [
     {
       "raw_hot": 3221475,
@@ -139,20 +139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1204532,
+      "num": 560280,
+      "word": "这竟然是余文乐",
+      "onboard_time": 1690352976,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1198309,
       "num": 1198309,
       "word": "武汉地震监测中心遭美网络攻击",
       "onboard_time": 1690335454,
       "rank": 5,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1144200,
-      "num": 560280,
-      "word": "这竟然是余文乐",
-      "onboard_time": 1690352976,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1138331,
@@ -187,6 +187,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 1100475,
+      "num": 1100475,
+      "word": "张艺兴鹿晗黄子韬会和EXO聚一下吗",
+      "onboard_time": 1690357955,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1074964,
       "num": 1074964,
       "word": "念无双 唐嫣",
@@ -211,12 +219,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 993272,
+      "num": 993272,
+      "word": "韩国人考公有多卷",
+      "onboard_time": 1690357775,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 977944,
       "num": 977944,
       "word": "17岁男孩中枪身亡亲属称已和解",
       "onboard_time": 1690351357,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951829,
+      "num": 951829,
+      "word": "新西游记大逃脱下架",
+      "onboard_time": 1690355495,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 925815,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 705256,
+      "num": 537568,
+      "word": "杨幂被吓没来得及做反应",
+      "onboard_time": 1690357293,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688915,
       "num": 688915,
       "word": "付闻樱扮演者陈瑾采访魅力",
@@ -387,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662052,
+      "num": 521645,
+      "word": "张雨绮身材比例",
+      "onboard_time": 1690356515,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 661744,
       "num": 661744,
       "word": "罗刹海市",
@@ -400,6 +440,14 @@
       "word": "长相思",
       "onboard_time": 1690299636,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 646579,
+      "num": 495832,
+      "word": "封神票房",
+      "onboard_time": 1690358556,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -467,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604450,
+      "num": 514396,
+      "word": "110元点了11道菜",
+      "onboard_time": 1690357415,
+      "rank": 13,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 590577,
       "num": 411480,
       "word": "未婚小姑帮带双胞胎侄子一周瘦8斤",
@@ -515,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 517299,
-      "num": 517299,
-      "word": "新西游记大逃脱下架",
-      "onboard_time": 1690355495,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 505082,
       "num": 507482,
       "word": "金正恩拜谒中国人民志愿军烈士陵园",
@@ -555,12 +603,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 469975,
+      "num": 469975,
+      "word": "柬埔寨首相洪森辞职",
+      "onboard_time": 1690358377,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 467387,
       "num": 467387,
       "word": "原来龙口粉丝不能空腹吃",
       "onboard_time": 1690333357,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 465752,
+      "num": 465752,
+      "word": "魏大勋不止一场戏份被删",
+      "onboard_time": 1690358556,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 460712,
@@ -715,6 +779,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 363376,
+      "num": 287727,
+      "word": "女子把婴儿放在马路中间后离开",
+      "onboard_time": 1690355737,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361322,
       "num": 361322,
       "word": "布朗签下NBA历史最大合同",
@@ -745,6 +817,14 @@
       "onboard_time": 1690330896,
       "rank": 19,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 351785,
+      "num": 271503,
+      "word": "九键打字被吐槽活在按键时代",
+      "onboard_time": 1690358313,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 351540,
@@ -899,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306071,
-      "num": 287727,
-      "word": "女子把婴儿放在马路中间后离开",
-      "onboard_time": 1690355737,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305845,
       "num": 278757,
       "word": "相柳有自己的私人飞鸡",
@@ -931,12 +1003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291570,
-      "num": 287694,
-      "word": "张雨绮身材比例",
-      "onboard_time": 1690356515,
-      "rank": 28,
-      "category": "艺人,时尚"
+      "raw_hot": 293129,
+      "num": 267422,
+      "word": "难怪相柳说九头话题是禁忌",
+      "onboard_time": 1690357055,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 290155,
@@ -1004,7 +1076,7 @@
     },
     {
       "raw_hot": 269294,
-      "num": 245817,
+      "num": 249968,
       "word": "长相思云合播放量登顶",
       "onboard_time": 1690356276,
       "rank": 35,
@@ -1027,12 +1099,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 266279,
+      "num": 266279,
+      "word": "男子散发前女友黄色卡片索要印制费",
+      "onboard_time": 1690358976,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265778,
       "num": 265778,
       "word": "调剂到了冷门专业",
       "onboard_time": 1690331617,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265556,
+      "num": 265556,
+      "word": "岳云鹏经纪人商业版图盘点",
+      "onboard_time": 1690358433,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 264656,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1690342956,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259738,
+      "num": 259738,
+      "word": "如果殷世航进娱乐圈",
+      "onboard_time": 1690359157,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 259567,
@@ -1187,6 +1283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 221724,
+      "num": 221724,
+      "word": "怦然心动20岁",
+      "onboard_time": 1690359097,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220347,
       "num": 220347,
       "word": "液断减肥",
@@ -1209,6 +1313,14 @@
       "onboard_time": 1690295742,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210789,
+      "num": 210789,
+      "word": "迪丽热巴和三万水狮的合照",
+      "onboard_time": 1690359578,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 208506,
@@ -1281,6 +1393,14 @@
       "onboard_time": 1690331434,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197253,
+      "num": 197253,
+      "word": "周深美依礼芽新歌夏日妄想",
+      "onboard_time": 1690359097,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 195661,
@@ -1385,6 +1505,14 @@
       "onboard_time": 1690298742,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174377,
+      "num": 197196,
+      "word": "项目结束后甲方夸我性格好",
+      "onboard_time": 1690358556,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 173032,
@@ -1545,6 +1673,14 @@
       "onboard_time": 1690312214,
       "rank": 46,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 109119,
+      "num": 274198,
+      "word": "什么是静奢风",
+      "onboard_time": 1690357713,
+      "rank": 25,
+      "category": "时尚"
     },
     {
       "raw_hot": 95264,
