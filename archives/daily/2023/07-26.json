@@ -1,7 +1,15 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690342444852,
+  "endTime": 1690345161866,
   "band_list": [
+    {
+      "raw_hot": 3221475,
+      "num": 3221475,
+      "word": "EXO青岛",
+      "onboard_time": 1690342775,
+      "rank": 0,
+      "category": "音乐"
+    },
     {
       "raw_hot": 2370383,
       "num": 2370383,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1467678,
+      "num": 1467678,
+      "word": "杨洋抓米给许沁煮粥吗",
+      "onboard_time": 1690340732,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1236829,
       "num": 1236829,
       "word": "布朗尼遭遇心脏骤停",
@@ -83,12 +99,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1146996,
-      "num": 1146996,
-      "word": "杨洋抓米给许沁煮粥吗",
-      "onboard_time": 1690340732,
+      "raw_hot": 1189664,
+      "num": 410290,
+      "word": "女子拍骨盆CT被要求撩裙露内裤",
+      "onboard_time": 1690342176,
       "rank": 31,
-      "category": "作品衍生"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135238,
@@ -115,12 +131,28 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 1074964,
+      "num": 1074964,
+      "word": "念无双 唐嫣",
+      "onboard_time": 1690341872,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1062905,
       "num": 755865,
       "word": "叶十七 男绿茶",
       "onboard_time": 1690295979,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1036009,
+      "num": 631082,
+      "word": "毛晓彤真人芭比上班",
+      "onboard_time": 1690343494,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 925815,
@@ -172,11 +204,19 @@
     },
     {
       "raw_hot": 794805,
-      "num": 363793,
+      "num": 408313,
       "word": "韩国人为什么这么爱去张家界",
       "onboard_time": 1690338271,
       "rank": 20,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 782716,
+      "num": 782716,
+      "word": "大熊猫翘起jiojio点头示意奶爸按脚",
+      "onboard_time": 1690340854,
+      "rank": 28,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 773825,
@@ -276,7 +316,7 @@
     },
     {
       "raw_hot": 641560,
-      "num": 357771,
+      "num": 411738,
       "word": "杨洋时尚芭莎八月刊封面",
       "onboard_time": 1690340132,
       "rank": 21,
@@ -307,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578210,
-      "num": 578210,
-      "word": "大熊猫翘起jiojio点头示意奶爸按脚",
-      "onboard_time": 1690340854,
-      "rank": 28,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 568715,
       "num": 352574,
       "word": "00后投200份简历面70家终获offer",
@@ -331,16 +363,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 528208,
-      "num": 528208,
-      "word": "念无双 唐嫣",
-      "onboard_time": 1690341872,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 505082,
-      "num": 266985,
+      "num": 496183,
       "word": "金正恩拜谒中国人民志愿军烈士陵园",
       "onboard_time": 1690338453,
       "rank": 33,
@@ -379,8 +403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434164,
-      "num": 434164,
+      "raw_hot": 444395,
+      "num": 444395,
       "word": "梅西降维打击",
       "onboard_time": 1690339533,
       "rank": 49,
@@ -401,6 +425,14 @@
       "onboard_time": 1690316473,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421438,
+      "num": 406221,
+      "word": "游个泳居然把头发给漂白了",
+      "onboard_time": 1690345115,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 405507,
@@ -435,20 +467,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 381713,
-      "num": 262486,
-      "word": "女子拍骨盆CT被要求撩裙露内裤",
-      "onboard_time": 1690342176,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376273,
       "num": 314540,
       "word": "大学生暑假工 我素未谋面的好朋友",
       "onboard_time": 1690299937,
       "rank": 21,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 376042,
+      "num": 376042,
+      "word": "迪丽热巴耍帅失败",
+      "onboard_time": 1690343795,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 372502,
+      "num": 372502,
+      "word": "猫狗绝育坏人表演一次几十元",
+      "onboard_time": 1690343317,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361322,
@@ -523,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328153,
+      "num": 302504,
+      "word": "杨紫相见相思完整版上线",
+      "onboard_time": 1690344097,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323088,
       "num": 323088,
       "word": "杨紫开始不知道玟小六是小夭",
@@ -553,6 +601,14 @@
       "onboard_time": 1690294961,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310853,
+      "num": 310853,
+      "word": "宋亚轩全员加速中西安收官路透",
+      "onboard_time": 1690344215,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 310240,
@@ -635,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270311,
+      "num": 270311,
+      "word": "10岁女孩收到数学味雪糕瞬间懵了",
+      "onboard_time": 1690345115,
+      "rank": 35,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 269601,
       "num": 269601,
       "word": "施工安全不应是空话一句",
@@ -699,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246324,
+      "num": 246324,
+      "word": "成毅戴金丝眼镜",
+      "onboard_time": 1690343257,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243228,
       "num": 211665,
       "word": "吴亦凡犯强奸聚众淫乱二审开庭",
@@ -713,6 +785,14 @@
       "onboard_time": 1690334016,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236411,
+      "num": 236411,
+      "word": "纷玩岛",
+      "onboard_time": 1690342956,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 230941,
@@ -780,11 +860,19 @@
     },
     {
       "raw_hot": 203974,
-      "num": 295949,
+      "num": 496581,
       "word": "鸿蒙4官宣发布时间",
       "onboard_time": 1690338271,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 203274,
+      "num": 206405,
+      "word": "热烈",
+      "onboard_time": 1690343673,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 201143,
@@ -1068,7 +1156,7 @@
     },
     {
       "raw_hot": 84548,
-      "num": 1634672,
+      "num": 1719969,
       "word": "青春主场欢聚在成都",
       "onboard_time": 1690339053,
       "rank": 2,
@@ -1117,6 +1205,9 @@
     },
     {
       "word": "#网络文明建设一起来#"
+    },
+    {
+      "word": "#与时代共奋飞#"
     }
   ]
 }
