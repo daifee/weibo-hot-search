@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690382019687,
+  "endTime": 1690384632782,
   "band_list": [
     {
       "raw_hot": 4482079,
@@ -8,6 +8,14 @@
       "word": "王一博 不是因为工作太累导致身体不适",
       "onboard_time": 1690346620,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3711258,
+      "num": 2698327,
+      "word": "狂飙后第二爆的剧是哪部",
+      "onboard_time": 1690379978,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1690379259,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2698327,
-      "num": 2698327,
-      "word": "狂飙后第二爆的剧是哪部",
-      "onboard_time": 1690379978,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 2438227,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 2149806,
-      "num": 738607,
+      "num": 767601,
       "word": "内娱无代餐的脸",
       "onboard_time": 1690376501,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2060533,
+      "num": 790758,
+      "word": "殷世航出道失败",
+      "onboard_time": 1690380459,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 1961526,
@@ -235,14 +243,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1311134,
-      "num": 625217,
-      "word": "殷世航出道失败",
-      "onboard_time": 1690380459,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1303135,
       "num": 1303135,
       "word": "玱玹终于认出小夭",
@@ -275,12 +275,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1169838,
+      "num": 1040018,
+      "word": "匪我思存 这十年发生了好多好多事情",
+      "onboard_time": 1690381479,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1166674,
       "num": 1166674,
       "word": "汪顺",
       "onboard_time": 1690375360,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1155021,
+      "num": 1155021,
+      "word": "官方通报男子在张家界跳崖轻生",
+      "onboard_time": 1690382206,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1138331,
@@ -315,6 +331,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 1112005,
+      "num": 1112005,
+      "word": "研究生称坐5小时高铁跨省面试被鸽",
+      "onboard_time": 1690381120,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1083312,
       "num": 732886,
       "word": "陈飞宇你知道魏大勋为啥跟你老师是同学了吧",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 1073414,
-      "num": 500656,
+      "num": 503013,
       "word": "英少女遭哥哥性侵弃尸后再遭男子侵犯",
       "onboard_time": 1690371519,
       "rank": 21,
@@ -425,6 +449,14 @@
       "onboard_time": 1690331017,
       "rank": 5,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 884740,
+      "num": 884740,
+      "word": "台风",
+      "onboard_time": 1690380402,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882593,
@@ -579,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 742957,
+      "num": 742957,
+      "word": "暑假工已经渗透到商家内部啦",
+      "onboard_time": 1690380220,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 735048,
       "num": 735048,
       "word": "剃寸头 长发缝",
@@ -643,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 690332,
-      "num": 492396,
-      "word": "台风",
-      "onboard_time": 1690380402,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 688915,
       "num": 688915,
       "word": "付闻樱扮演者陈瑾采访魅力",
@@ -707,6 +739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 651957,
+      "num": 651957,
+      "word": "沛沛",
+      "onboard_time": 1690382323,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 644977,
       "num": 644977,
       "word": "十大地铁公司中4个明确不准喝水",
@@ -747,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614706,
-      "num": 614706,
-      "word": "暑假工已经渗透到商家内部啦",
-      "onboard_time": 1690380220,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 613835,
       "num": 613835,
       "word": "黄景瑜张婧仪都营业了",
@@ -785,6 +817,14 @@
       "onboard_time": 1690343317,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601934,
+      "num": 601934,
+      "word": "小鹏",
+      "onboard_time": 1690380640,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 601717,
@@ -899,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557185,
+      "num": 557185,
+      "word": "没想到小鸟的肚子长这样",
+      "onboard_time": 1690382323,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 549766,
       "num": 413480,
       "word": "暧昧对象的下头瞬间",
@@ -921,6 +969,14 @@
       "onboard_time": 1690354957,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 509140,
+      "num": 509140,
+      "word": "杨幂清凉辣妹机场穿搭",
+      "onboard_time": 1690382023,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 505082,
@@ -955,12 +1011,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495258,
+      "num": 495258,
+      "word": "警方通报10岁男孩被继母打死",
+      "onboard_time": 1690382805,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493502,
       "num": 493502,
       "word": "TFBOYS如果睁眼便是十年后",
       "onboard_time": 1690345416,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 492543,
+      "num": 492543,
+      "word": "漫长的季节",
+      "onboard_time": 1690383044,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 489228,
@@ -1017,14 +1089,6 @@
       "onboard_time": 1690333357,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 463002,
-      "num": 463002,
-      "word": "小鹏",
-      "onboard_time": 1690380640,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 462028,
@@ -1195,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391550,
+      "num": 391550,
+      "word": "封神",
+      "onboard_time": 1690384421,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388582,
       "num": 370351,
       "word": "王鹤棣范丞丞魏大勋白敬亭脸上痣",
@@ -1265,14 +1337,6 @@
       "onboard_time": 1690344097,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 371565,
-      "num": 363974,
-      "word": "匪我思存 这十年发生了好多好多事情",
-      "onboard_time": 1690381479,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 368352,
@@ -1371,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347678,
+      "num": 347678,
+      "word": "夭璟",
+      "onboard_time": 1690383165,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345970,
       "num": 287687,
       "word": "大摆锤上游客呕吐底下排队人遭殃",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1690371398,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 337657,
+      "num": 337657,
+      "word": "封神成本30亿",
+      "onboard_time": 1690384123,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 337300,
@@ -1555,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316693,
-      "num": 316693,
-      "word": "研究生称坐5小时高铁跨省面试被鸽",
-      "onboard_time": 1690381120,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316080,
       "num": 326482,
       "word": "有没有人心疼宋焰舅妈啊",
@@ -1635,6 +1707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 297675,
+      "num": 297675,
+      "word": "普通女孩如何变第一眼美女",
+      "onboard_time": 1690381183,
+      "rank": 46,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 293380,
       "num": 293380,
       "word": "男子200混汪顺晋级半决赛",
@@ -1681,6 +1761,14 @@
       "onboard_time": 1690373259,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281380,
+      "num": 281380,
+      "word": "叶舒华白色吊带",
+      "onboard_time": 1690383823,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 281221,
@@ -1867,6 +1955,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 259469,
+      "num": 259469,
+      "word": "许沁脖子不酸吗",
+      "onboard_time": 1690384241,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257953,
       "num": 257953,
       "word": "张子枫向往森系写真",
@@ -1897,6 +1993,14 @@
       "onboard_time": 1690370558,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252836,
+      "num": 252836,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1690383462,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 251287,
@@ -2083,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221131,
+      "num": 221131,
+      "word": "魏大勋后援会回应戏份被删",
+      "onboard_time": 1690384602,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220347,
       "num": 220347,
       "word": "液断减肥",
@@ -2105,14 +2217,6 @@
       "onboard_time": 1690372661,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 214794,
-      "num": 214794,
-      "word": "普通女孩如何变第一眼美女",
-      "onboard_time": 1690381183,
-      "rank": 46,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 213600,
