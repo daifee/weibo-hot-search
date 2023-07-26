@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690339063296,
+  "endTime": 1690339555538,
   "band_list": [
     {
       "raw_hot": 2370383,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1733220,
+      "num": 1733220,
+      "word": "成功在前妻腿上痛哭",
+      "onboard_time": 1690337554,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1724740,
       "num": 1724740,
       "word": "中式麻辣烫和韩式麻辣烫的区别",
@@ -49,14 +57,6 @@
       "onboard_time": 1690328731,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1532749,
-      "num": 1532749,
-      "word": "成功在前妻腿上痛哭",
-      "onboard_time": 1690337554,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1236829,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794805,
+      "num": 363793,
+      "word": "韩国人为什么这么爱去张家界",
+      "onboard_time": 1690338271,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 773825,
       "num": 427618,
       "word": "吴亦凡至今已被拘押看守所近2年",
@@ -177,14 +185,6 @@
       "onboard_time": 1690288302,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 692924,
-      "num": 363793,
-      "word": "韩国人为什么这么爱去张家界",
-      "onboard_time": 1690338271,
-      "rank": 20,
-      "category": "旅游"
     },
     {
       "raw_hot": 688915,
@@ -267,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561892,
+      "num": 561892,
+      "word": "小夭爱相柳吗",
+      "onboard_time": 1690337853,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 488014,
       "num": 390350,
       "word": "孙笑川 感谢大家最近对我的关心",
       "onboard_time": 1690297364,
       "rank": 13,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 484678,
-      "num": 484678,
-      "word": "小夭爱相柳吗",
-      "onboard_time": 1690337853,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 467387,
@@ -323,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410378,
+      "num": 257224,
+      "word": "金正恩拜谒中国人民志愿军烈士陵园",
+      "onboard_time": 1690338453,
+      "rank": 33,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 405507,
       "num": 405507,
       "word": "周深说9年后又多了一个周深深",
       "onboard_time": 1690327646,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386927,
+      "num": 386927,
+      "word": "大鹏 烁烁不可以也是可以的",
+      "onboard_time": 1690337251,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 383126,
@@ -353,14 +369,6 @@
       "onboard_time": 1690299937,
       "rank": 21,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 367309,
-      "num": 367309,
-      "word": "大鹏 烁烁不可以也是可以的",
-      "onboard_time": 1690337251,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 361322,
@@ -475,8 +483,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301108,
-      "num": 301108,
+      "raw_hot": 306265,
+      "num": 306265,
       "word": "陈都灵眼泪像断了线的珍珠",
       "onboard_time": 1690333777,
       "rank": 35,
@@ -579,14 +587,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 257224,
-      "num": 257224,
-      "word": "金正恩拜谒中国人民志愿军烈士陵园",
-      "onboard_time": 1690338453,
-      "rank": 33,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 251102,
       "num": 251102,
       "word": "去拥有一只小狗就不会再去想死亡了",
@@ -611,12 +611,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 233298,
-      "num": 233298,
+      "raw_hot": 240217,
+      "num": 240217,
       "word": "台风杜苏芮将对上海产生影响",
       "onboard_time": 1690334016,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230941,
+      "num": 230941,
+      "word": "安乐传",
+      "onboard_time": 1690338093,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 228794,
@@ -643,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208754,
-      "num": 208754,
-      "word": "安乐传",
-      "onboard_time": 1690338093,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208506,
       "num": 208506,
       "word": "在大人的世界里小孩地位挺低的",
@@ -673,6 +673,14 @@
       "onboard_time": 1690298564,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203607,
+      "num": 203607,
+      "word": "8岁摄影师拍迪丽热巴龚俊",
+      "onboard_time": 1690339352,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201143,
@@ -771,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167558,
+      "num": 203414,
+      "word": "封神选角好贴脸",
+      "onboard_time": 1690339411,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166671,
       "num": 208264,
       "word": "言承旭说看到杨丞琳好不习惯",
@@ -809,6 +825,14 @@
       "onboard_time": 1690286741,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145806,
+      "num": 203342,
+      "word": "梅西降维打击",
+      "onboard_time": 1690339533,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 145746,
@@ -883,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114828,
+      "num": 295949,
+      "word": "鸿蒙4官宣发布时间",
+      "onboard_time": 1690338271,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 111381,
       "num": 111381,
       "word": "吴亦凡名誉权案会改判么",
@@ -915,14 +947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90060,
-      "num": 283118,
-      "word": "鸿蒙4官宣发布时间",
-      "onboard_time": 1690338271,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 87857,
       "num": 1582018,
       "word": "蓉宝去哪儿",
@@ -947,20 +971,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 34445,
+      "num": 1634672,
+      "word": "青春主场欢聚在成都",
+      "onboard_time": 1690339053,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26114,
       "num": 40711,
       "word": "LNG战胜WBG",
       "onboard_time": 1690293765,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 5264,
-      "num": 1565004,
-      "word": "青春主场欢聚在成都",
-      "onboard_time": 1690339053,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -975,6 +999,9 @@
     },
     {
       "word": "#2023网络名人吉林行#"
+    },
+    {
+      "word": "#全面加强军事治理以高水平治理推动我军高质量发展#"
     }
   ]
 }
