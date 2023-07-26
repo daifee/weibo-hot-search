@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690377633551,
+  "endTime": 1690378430923,
   "band_list": [
     {
       "raw_hot": 4482079,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1368151,
+      "num": 629866,
+      "word": "内娱无代餐的脸",
+      "onboard_time": 1690376501,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1329167,
       "num": 1329167,
       "word": "学硕要退场了吗",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 1073414,
-      "num": 365486,
+      "num": 381549,
       "word": "英少女遭哥哥性侵弃尸后再遭男子侵犯",
       "onboard_time": 1690371519,
       "rank": 21,
@@ -355,14 +363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 900584,
-      "num": 629866,
-      "word": "内娱无代餐的脸",
-      "onboard_time": 1690376501,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 889811,
       "num": 889811,
       "word": "姆巴佩的家人已准备接受沙特报价",
@@ -411,7 +411,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 861845,
+      "raw_hot": 864734,
       "num": 605345,
       "word": "女教师借调时加班被镇干部猥亵",
       "onboard_time": 1690374102,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 729832,
+      "num": 372930,
+      "word": "长相思榜单全面登顶",
+      "onboard_time": 1690376139,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 727169,
       "num": 534242,
       "word": "piko张张",
@@ -587,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 671582,
+      "num": 671582,
+      "word": "开始给魏大勋画饼了",
+      "onboard_time": 1690377102,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 664301,
       "num": 465752,
       "word": "魏大勋不止一场戏份被删",
@@ -617,14 +633,6 @@
       "onboard_time": 1690295920,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 656228,
-      "num": 355400,
-      "word": "长相思榜单全面登顶",
-      "onboard_time": 1690376139,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 648947,
@@ -673,6 +681,14 @@
       "onboard_time": 1690298623,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617231,
+      "num": 511769,
+      "word": "魏大勋的圈内人缘",
+      "onboard_time": 1690377276,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 613835,
@@ -883,6 +899,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 474628,
+      "num": 366713,
+      "word": "Lisa的身材管理",
+      "onboard_time": 1690376862,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 471988,
       "num": 471988,
       "word": "警方回应女子在KTV遭性侵偷拍",
@@ -1011,14 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 427065,
-      "num": 349483,
-      "word": "Lisa的身材管理",
-      "onboard_time": 1690376862,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 420891,
       "num": 420891,
       "word": "成毅最有cp感的女主",
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 389264,
-      "num": 337178,
+      "num": 359974,
       "word": "杜苏芮或成新世纪影响最严重台风之一",
       "onboard_time": 1690376078,
       "rank": 25,
@@ -1131,6 +1147,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 375521,
+      "num": 287460,
+      "word": "公婆为我的婚礼种了一片草地",
+      "onboard_time": 1690376741,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371794,
       "num": 267383,
       "word": "当名著被改成网文名",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1690375237,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365607,
-      "num": 365607,
-      "word": "开始给魏大勋画饼了",
-      "onboard_time": 1690377102,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 365589,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1690368638,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 348624,
+      "num": 285729,
+      "word": "39岁大叔男扮女装卖淫3次被抓",
+      "onboard_time": 1690377700,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345970,
@@ -1331,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333111,
+      "num": 333111,
+      "word": "他从火光中走来",
+      "onboard_time": 1690377762,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332919,
       "num": 332919,
       "word": "封神妲己断尾报恩",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1690294961,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 313390,
-      "num": 287460,
-      "word": "公婆为我的婚礼种了一片草地",
-      "onboard_time": 1690376741,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 310853,
@@ -1731,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251369,
+      "num": 251369,
+      "word": "张雨霏第2金",
+      "onboard_time": 1690378183,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251287,
       "num": 251287,
       "word": "北方室友不理解太阳下山",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1690360059,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246865,
-      "num": 246865,
-      "word": "魏大勋的圈内人缘",
-      "onboard_time": 1690377276,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 246839,
@@ -2075,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199928,
+      "num": 208854,
+      "word": "男女4x100混接中国队晋级决赛",
+      "onboard_time": 1690377221,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198598,
       "num": 198598,
       "word": "动画遮天",
@@ -2089,6 +2121,14 @@
       "onboard_time": 1690331434,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197630,
+      "num": 208831,
+      "word": "汪顺止步200混半决赛",
+      "onboard_time": 1690377579,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 197253,
@@ -2131,6 +2171,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 192800,
+      "num": 208825,
+      "word": "ON的牛头",
+      "onboard_time": 1690378121,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192597,
       "num": 192597,
       "word": "阴阳师",
@@ -2155,12 +2203,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189781,
-      "num": 189781,
-      "word": "男女4x100混接中国队晋级决赛",
-      "onboard_time": 1690377221,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 190020,
+      "num": 208816,
+      "word": "不完美受害人",
+      "onboard_time": 1690377639,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 189634,
@@ -2297,14 +2345,6 @@
       "onboard_time": 1690358556,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 173163,
-      "num": 173163,
-      "word": "汪顺止步200混半决赛",
-      "onboard_time": 1690377579,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 173032,
@@ -2555,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66472,
+      "num": 1322757,
+      "word": "各大高校接力为大运会加油",
+      "onboard_time": 1690376023,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60475,
       "num": 82968,
       "word": "雪龙2号上所有科考队员都是帮厨",
@@ -2569,14 +2617,6 @@
       "onboard_time": 1690362706,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52434,
-      "num": 1322757,
-      "word": "各大高校接力为大运会加油",
-      "onboard_time": 1690376023,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 43878,
