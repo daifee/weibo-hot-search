@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690410817080,
+  "endTime": 1690413337557,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2243,6 +2243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2209943,
+      "num": 2209943,
+      "word": "微信白用那么久了",
+      "onboard_time": 1690386217,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2208511,
       "num": 2208511,
       "word": "方川导演 孟宴臣",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1689656135,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1967335,
-      "num": 1967335,
-      "word": "微信白用那么久了",
-      "onboard_time": 1690386217,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1964594,
@@ -20091,6 +20091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 591476,
+      "num": 591476,
+      "word": "消防员抓了只头像鼠身像猫的动物",
+      "onboard_time": 1690386760,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591230,
       "num": 591230,
       "word": "关晓彤也演过花非花雾非雾",
@@ -30995,6 +31003,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 393472,
+      "num": 393472,
+      "word": "女作家因两次被提醒管好小孩向12306投诉",
+      "onboard_time": 1690412601,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392960,
       "num": 392960,
       "word": "我的神仙同事离职了",
@@ -34625,6 +34641,14 @@
       "onboard_time": 1689390094,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348872,
+      "num": 348872,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348855,
@@ -42883,14 +42907,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 268920,
-      "num": 268920,
-      "word": "消防员抓了只头像鼠身像猫的动物",
-      "onboard_time": 1690386760,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268778,
       "num": 1020365,
       "word": "2游客驾车掉进水库民警7分钟救出",
@@ -43713,6 +43729,14 @@
       "onboard_time": 1689855512,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261488,
+      "num": 261488,
+      "word": "活该涂山璟有老婆",
+      "onboard_time": 1690397775,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 261473,
@@ -45584,6 +45608,14 @@
       "word": "陈哲远晒段嘉许日记",
       "onboard_time": 1689049961,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246665,
+      "num": 246665,
+      "word": "杨紫最有cp感男主",
+      "onboard_time": 1690394117,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -55795,6 +55827,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 179259,
+      "num": 179259,
+      "word": "檀健次白茶蛇",
+      "onboard_time": 1690391722,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179251,
       "num": 179251,
       "word": "ITZY造型师",
@@ -56571,6 +56611,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 173718,
+      "num": 173718,
+      "word": "美联储宣布加息25个基点",
+      "onboard_time": 1690413022,
+      "rank": 23,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 173639,
       "num": 173639,
       "word": "狐狸妈妈向人类寻求帮助",
@@ -57209,14 +57257,6 @@
       "onboard_time": 1689077195,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 168551,
-      "num": 168551,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168530,
@@ -58515,14 +58555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153010,
-      "num": 153010,
-      "word": "檀健次白茶蛇",
-      "onboard_time": 1690391722,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 152847,
       "num": 152847,
       "word": "老人摔倒男子录视频留证后帮扶起",
@@ -59315,6 +59347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140413,
+      "num": 140413,
+      "word": "微笑天使萨摩耶狗设崩塌现场",
+      "onboard_time": 1690390885,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140303,
       "num": 177922,
       "word": "马龙3比2莫雷高德",
@@ -59763,14 +59803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129545,
-      "num": 129545,
-      "word": "杨紫最有cp感男主",
-      "onboard_time": 1690394117,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129447,
       "num": 129447,
       "word": "体育馆顶部网架结构承重能力非常低",
@@ -60113,14 +60145,6 @@
       "onboard_time": 1689377303,
       "rank": 31,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 121255,
-      "num": 119058,
-      "word": "活该涂山璟有老婆",
-      "onboard_time": 1690397775,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 121225,
@@ -60667,6 +60691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105491,
+      "num": 105491,
+      "word": "聊斋学家马瑞芳谈刀郎新歌罗刹海市",
+      "onboard_time": 1690412000,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105451,
       "num": 189763,
       "word": "2023年你的手机折叠了吗",
@@ -60801,6 +60833,14 @@
       "onboard_time": 1690009111,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103081,
+      "num": 103081,
+      "word": "怦然3全员吃瓜滕光正",
+      "onboard_time": 1690393639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 103053,
@@ -60953,6 +60993,14 @@
       "onboard_time": 1690006892,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99065,
+      "num": 105945,
+      "word": "奄奄一息的狗狗倒在后院里",
+      "onboard_time": 1690392023,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98974,
@@ -61147,12 +61195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94456,
+      "num": 99058,
+      "word": "99年民警被送长得帅破案快锦旗",
+      "onboard_time": 1690412722,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94445,
       "num": 94445,
       "word": "学学李白找工作",
       "onboard_time": 1688939236,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94284,
+      "num": 99048,
+      "word": "当年爆红的刀郎这些年去哪了",
+      "onboard_time": 1690402993,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 94192,
@@ -61211,14 +61275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92948,
-      "num": 105945,
-      "word": "奄奄一息的狗狗倒在后院里",
-      "onboard_time": 1690392023,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 92720,
       "num": 1986569,
       "word": "成都大运会收看指南",
@@ -61233,14 +61289,6 @@
       "onboard_time": 1689163592,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 92407,
-      "num": 105946,
-      "word": "微笑天使萨摩耶狗设崩塌现场",
-      "onboard_time": 1690390885,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 92117,
@@ -61297,6 +61345,22 @@
       "onboard_time": 1688740781,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89739,
+      "num": 99034,
+      "word": "Wayward 菜",
+      "onboard_time": 1690404193,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 89467,
+      "num": 99022,
+      "word": "提前感受到对台风的恐惧了",
+      "onboard_time": 1690412662,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 89386,
@@ -61409,14 +61473,6 @@
       "onboard_time": 1688327412,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86223,
-      "num": 86223,
-      "word": "怦然3全员吃瓜滕光正",
-      "onboard_time": 1690393639,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 86105,
@@ -61737,6 +61793,14 @@
       "onboard_time": 1689291147,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78563,
+      "num": 98952,
+      "word": "30 50 80的理发师有没有区别",
+      "onboard_time": 1690403353,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 77955,
@@ -62105,14 +62169,6 @@
       "onboard_time": 1690220299,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65055,
-      "num": 65055,
-      "word": "当年爆红的刀郎这些年去哪了",
-      "onboard_time": 1690402993,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 64831,
@@ -62499,14 +62555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50116,
-      "num": 51181,
-      "word": "Wayward 菜",
-      "onboard_time": 1690404193,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 49891,
       "num": 215699,
       "word": "你买车有选择困难症吗",
@@ -62609,14 +62657,6 @@
       "onboard_time": 1688721155,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46671,
-      "num": 51176,
-      "word": "30 50 80的理发师有没有区别",
-      "onboard_time": 1690403353,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 45928,

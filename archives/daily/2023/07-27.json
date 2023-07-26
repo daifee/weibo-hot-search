@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690410817080,
+  "endTime": 1690413337557,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -11,8 +11,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1967335,
-      "num": 1967335,
+      "raw_hot": 2209943,
+      "num": 2209943,
       "word": "微信白用那么久了",
       "onboard_time": 1690386217,
       "rank": 0,
@@ -81,6 +81,14 @@
       "onboard_time": 1690384123,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 591476,
+      "num": 591476,
+      "word": "消防员抓了只头像鼠身像猫的动物",
+      "onboard_time": 1690386760,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 569224,
@@ -163,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393472,
+      "num": 393472,
+      "word": "女作家因两次被提醒管好小孩向12306投诉",
+      "onboard_time": 1690412601,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381359,
       "num": 381359,
       "word": "如果微信显示对方已删除的话",
@@ -184,6 +200,14 @@
       "word": "警方通报10岁男孩被继母打死",
       "onboard_time": 1690382805,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348872,
+      "num": 348872,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -219,19 +243,19 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 288939,
+      "num": 288939,
+      "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
+      "onboard_time": 1690378720,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273847,
       "num": 273847,
       "word": "官方通报男子在张家界跳崖轻生",
       "onboard_time": 1690382206,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268920,
-      "num": 268920,
-      "word": "消防员抓了只头像鼠身像猫的动物",
-      "onboard_time": 1690386760,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -243,11 +267,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264383,
-      "num": 264383,
-      "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
-      "onboard_time": 1690378720,
-      "rank": 32,
+      "raw_hot": 261488,
+      "num": 261488,
+      "word": "活该涂山璟有老婆",
+      "onboard_time": 1690397775,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246665,
+      "num": 246665,
+      "word": "杨紫最有cp感男主",
+      "onboard_time": 1690394117,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -299,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222597,
+      "num": 222597,
+      "word": "搂了半天发现搂错人了",
+      "onboard_time": 1690380343,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218952,
       "num": 218952,
       "word": "暑假工已经渗透到商家内部啦",
@@ -313,14 +353,6 @@
       "onboard_time": 1690384421,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201224,
-      "num": 201224,
-      "word": "搂了半天发现搂错人了",
-      "onboard_time": 1690380343,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 198598,
@@ -379,12 +411,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179259,
+      "num": 179259,
+      "word": "檀健次白茶蛇",
+      "onboard_time": 1690391722,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174443,
       "num": 174443,
       "word": "学硕要退场了吗",
       "onboard_time": 1690363371,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 173718,
+      "num": 173718,
+      "word": "美联储宣布加息25个基点",
+      "onboard_time": 1690413022,
+      "rank": 23,
+      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 172562,
@@ -395,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168551,
-      "num": 168551,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168290,
       "num": 266969,
       "word": "中国队混合泳接力夺金",
@@ -411,28 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153010,
-      "num": 153010,
-      "word": "檀健次白茶蛇",
-      "onboard_time": 1690391722,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 129545,
-      "num": 129545,
-      "word": "杨紫最有cp感男主",
-      "onboard_time": 1690394117,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 121255,
-      "num": 119058,
-      "word": "活该涂山璟有老婆",
-      "onboard_time": 1690397775,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 140413,
+      "num": 140413,
+      "word": "微笑天使萨摩耶狗设崩塌现场",
+      "onboard_time": 1690390885,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 117701,
@@ -443,7 +467,23 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92948,
+      "raw_hot": 105491,
+      "num": 105491,
+      "word": "聊斋学家马瑞芳谈刀郎新歌罗刹海市",
+      "onboard_time": 1690412000,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 103081,
+      "num": 103081,
+      "word": "怦然3全员吃瓜滕光正",
+      "onboard_time": 1690393639,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99065,
       "num": 105945,
       "word": "奄奄一息的狗狗倒在后院里",
       "onboard_time": 1690392023,
@@ -451,20 +491,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92407,
-      "num": 105946,
-      "word": "微笑天使萨摩耶狗设崩塌现场",
-      "onboard_time": 1690390885,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 94456,
+      "num": 99058,
+      "word": "99年民警被送长得帅破案快锦旗",
+      "onboard_time": 1690412722,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 86223,
-      "num": 86223,
-      "word": "怦然3全员吃瓜滕光正",
-      "onboard_time": 1690393639,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 94284,
+      "num": 99048,
+      "word": "当年爆红的刀郎这些年去哪了",
+      "onboard_time": 1690402993,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89739,
+      "num": 99034,
+      "word": "Wayward 菜",
+      "onboard_time": 1690404193,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 89467,
+      "num": 99022,
+      "word": "提前感受到对台风的恐惧了",
+      "onboard_time": 1690412662,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 81033,
@@ -475,20 +531,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78563,
+      "num": 98952,
+      "word": "30 50 80的理发师有没有区别",
+      "onboard_time": 1690403353,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77930,
       "num": 107541,
       "word": "sky光遇",
       "onboard_time": 1690390107,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 65055,
-      "num": 65055,
-      "word": "当年爆红的刀郎这些年去哪了",
-      "onboard_time": 1690402993,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 63440,
@@ -505,22 +561,6 @@
       "onboard_time": 1690395436,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50116,
-      "num": 51181,
-      "word": "Wayward 菜",
-      "onboard_time": 1690404193,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 46671,
-      "num": 51176,
-      "word": "30 50 80的理发师有没有区别",
-      "onboard_time": 1690403353,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 37967,
@@ -555,8 +595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9676,
-      "num": 558926,
+      "raw_hot": 15992,
+      "num": 700541,
       "word": "大运会里的中国风巴蜀韵",
       "onboard_time": 1690362885,
       "rank": 2,
