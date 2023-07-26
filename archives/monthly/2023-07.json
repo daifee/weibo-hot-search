@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690400025582,
+  "endTime": 1690402565938,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -61843,6 +61843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74895,
+      "num": 30311,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74521,
       "num": 59613,
       "word": "哇唧唧哇说难哄还没定主演",
@@ -62113,6 +62121,14 @@
       "onboard_time": 1688198430,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 63906,
+      "num": 63906,
+      "word": "活该涂山璟有老婆",
+      "onboard_time": 1690397775,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 63737,
@@ -62417,14 +62433,6 @@
       "onboard_time": 1689169116,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52489,
-      "num": 52489,
-      "word": "活该涂山璟有老婆",
-      "onboard_time": 1690397775,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 52080,
