@@ -1,0 +1,410 @@
+{
+  "runTime": 1690346047805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2874439,
+        "num": 2874439,
+        "word": "EXO青岛",
+        "onboard_time": 1690342775,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1923990,
+        "num": 1923990,
+        "word": "成功在前妻腿上痛哭",
+        "onboard_time": 1690337554,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63108,
+        "num": 1462558,
+        "word": "青春主场欢聚在成都",
+        "onboard_time": 1690339053,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320005,
+        "num": 1320005,
+        "word": "杨洋抓米给许沁煮粥吗",
+        "onboard_time": 1690340732,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1286008,
+        "num": 1286008,
+        "word": "中式麻辣烫和韩式麻辣烫的区别",
+        "onboard_time": 1690333832,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1009919,
+        "num": 1009919,
+        "word": "8岁摄影师拍迪丽热巴龚俊",
+        "onboard_time": 1690339352,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 958292,
+        "num": 958292,
+        "word": "念无双 唐嫣",
+        "onboard_time": 1690341872,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 721055,
+        "num": 721055,
+        "word": "大熊猫翘起jiojio点头示意奶爸按脚",
+        "onboard_time": 1690340854,
+        "rank": 7,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 685239,
+        "num": 685239,
+        "word": "台风杜苏芮",
+        "onboard_time": 1690327706,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625346,
+        "num": 625346,
+        "word": "女大学生每月收千元神秘汇款真相令人泪目",
+        "onboard_time": 1690328731,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1667581,
+        "num": 603714,
+        "word": "毛晓彤真人芭比上班",
+        "onboard_time": 1690343494,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 848016,
+        "num": 595068,
+        "word": "王一博因身体不适将缺席热烈路演",
+        "onboard_time": 1690328068,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 684200,
+        "num": 594771,
+        "word": "老外知道原创周杰伦在旁边吗",
+        "onboard_time": 1690336054,
+        "rank": 12,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 575255,
+        "num": 575255,
+        "word": "国产榴莲迎来首次上市",
+        "onboard_time": 1690333235,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138555,
+        "num": 514570,
+        "word": "鸿蒙4官宣发布时间",
+        "onboard_time": 1690338271,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 486211,
+        "num": 486211,
+        "word": "TFBOYS眼部特写",
+        "onboard_time": 1690339894,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467212,
+        "num": 467212,
+        "word": "金正恩拜谒中国人民志愿军烈士陵园",
+        "onboard_time": 1690338453,
+        "rank": 16,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 461991,
+        "num": 461991,
+        "word": "殡仪馆证实岳阳17岁男子中枪身亡",
+        "onboard_time": 1690295143,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429462,
+        "num": 429462,
+        "word": "杨洋时尚芭莎八月刊封面",
+        "onboard_time": 1690340132,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 378917,
+        "num": 378917,
+        "word": "梅西降维打击",
+        "onboard_time": 1690339533,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1359629,
+        "num": 378883,
+        "word": "女子拍骨盆CT被要求撩裙露内裤",
+        "onboard_time": 1690342176,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681087,
+        "num": 378828,
+        "word": "游个泳居然把头发给漂白了",
+        "onboard_time": 1690345115,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455569,
+        "num": 378765,
+        "word": "10岁女孩收到数学味雪糕瞬间懵了",
+        "onboard_time": 1690345115,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 435478,
+        "num": 378706,
+        "word": "韩国人为什么这么爱去张家界",
+        "onboard_time": 1690338271,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 428592,
+        "num": 378628,
+        "word": "迪丽热巴耍帅失败",
+        "onboard_time": 1690343795,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417242,
+        "num": 378558,
+        "word": "试婚同居生子男方弃养拒付抚养费",
+        "onboard_time": 1690339472,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378526,
+        "num": 378526,
+        "word": "为啥日本人能轻易认出中国人",
+        "onboard_time": 1690329333,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369036,
+        "num": 369036,
+        "word": "杨紫相见相思完整版上线",
+        "onboard_time": 1690344097,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356506,
+        "num": 356506,
+        "word": "猫狗绝育坏人表演一次几十元",
+        "onboard_time": 1690343317,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353615,
+        "num": 353615,
+        "word": "五月天南京",
+        "onboard_time": 1690334196,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346609,
+        "num": 346609,
+        "word": "长相思",
+        "onboard_time": 1690299636,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315973,
+        "num": 315973,
+        "word": "原来龙口粉丝不能空腹吃",
+        "onboard_time": 1690333357,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 325906,
+        "num": 313966,
+        "word": "小夭爱相柳吗",
+        "onboard_time": 1690337853,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302432,
+        "num": 302432,
+        "word": "宋亚轩全员加速中西安收官路透",
+        "onboard_time": 1690344215,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264047,
+        "num": 264047,
+        "word": "TFBOYS如果睁眼便是十年后",
+        "onboard_time": 1690345416,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261459,
+        "num": 261459,
+        "word": "纷玩岛",
+        "onboard_time": 1690342956,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242742,
+        "num": 242742,
+        "word": "姆巴佩的家人已准备接受沙特报价",
+        "onboard_time": 1690331017,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 235701,
+        "num": 235701,
+        "word": "叶十七 男绿茶",
+        "onboard_time": 1690295979,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232395,
+        "num": 232395,
+        "word": "武汉地震监测中心遭美网络攻击",
+        "onboard_time": 1690335454,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 235142,
+        "num": 231466,
+        "word": "理解纣王成为纣王",
+        "onboard_time": 1690331977,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228895,
+        "num": 228895,
+        "word": "成毅戴金丝眼镜",
+        "onboard_time": 1690343257,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223661,
+        "num": 223661,
+        "word": "怦然心动20岁第三季",
+        "onboard_time": 1690336473,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223247,
+        "num": 223247,
+        "word": "施工安全不应是空话一句",
+        "onboard_time": 1690331017,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221960,
+        "num": 221960,
+        "word": "台风杜苏芮将对上海产生影响",
+        "onboard_time": 1690334016,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215393,
+        "num": 215393,
+        "word": "00后投200份简历面70家终获offer",
+        "onboard_time": 1690331259,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207007,
+        "num": 207007,
+        "word": "妈妈说我不一定要考公当老师",
+        "onboard_time": 1690332815,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197719,
+        "num": 197719,
+        "word": "绿豆汤变红",
+        "onboard_time": 1690336775,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179198,
+        "num": 197712,
+        "word": "老人让杀鱼后又不买遭商贩拦住大骂",
+        "onboard_time": 1690335993,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178963,
+        "num": 197709,
+        "word": "热烈长沙路演票价炒至上千元",
+        "onboard_time": 1690340253,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177455,
+        "num": 197700,
+        "word": "封神来自元始天尊的剧透",
+        "onboard_time": 1690339713,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#与时代共奋飞#"
+    }
+  }
+}
