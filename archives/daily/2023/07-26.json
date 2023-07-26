@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690378430923,
+  "endTime": 1690380926229,
   "band_list": [
     {
       "raw_hot": 4482079,
@@ -59,6 +59,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2149806,
+      "num": 738607,
+      "word": "内娱无代餐的脸",
+      "onboard_time": 1690376501,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2106562,
+      "num": 2106562,
+      "word": "徐嘉余",
+      "onboard_time": 1690379259,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1961526,
       "num": 670628,
       "word": "殡仪馆证实岳阳17岁男子中枪身亡",
@@ -97,6 +113,14 @@
       "onboard_time": 1690362349,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1763171,
+      "num": 1763171,
+      "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
+      "onboard_time": 1690378720,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1749221,
@@ -179,12 +203,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1368151,
-      "num": 629866,
-      "word": "内娱无代餐的脸",
-      "onboard_time": 1690376501,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 1355247,
+      "num": 1355247,
+      "word": "长相思断更的原因",
+      "onboard_time": 1690378660,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1329167,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 1083312,
-      "num": 647048,
+      "num": 732886,
       "word": "陈飞宇你知道魏大勋为啥跟你老师是同学了吧",
       "onboard_time": 1690369001,
       "rank": 20,
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 1073414,
-      "num": 381549,
+      "num": 500656,
       "word": "英少女遭哥哥性侵弃尸后再遭男子侵犯",
       "onboard_time": 1690371519,
       "rank": 21,
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957511,
+      "num": 957511,
+      "word": "狂飙后第二爆的剧是哪部",
+      "onboard_time": 1690379978,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 951829,
       "num": 951829,
       "word": "新西游记大逃脱下架",
@@ -361,6 +393,14 @@
       "onboard_time": 1690339894,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 893397,
+      "num": 778640,
+      "word": "长相思",
+      "onboard_time": 1690299636,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 889811,
@@ -412,7 +452,7 @@
     },
     {
       "raw_hot": 864734,
-      "num": 605345,
+      "num": 648255,
       "word": "女教师借调时加班被镇干部猥亵",
       "onboard_time": 1690374102,
       "rank": 30,
@@ -459,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790029,
+      "num": 683110,
+      "word": "魏大勋的圈内人缘",
+      "onboard_time": 1690377276,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782716,
       "num": 782716,
       "word": "大熊猫翘起jiojio点头示意奶爸按脚",
       "onboard_time": 1690340854,
       "rank": 28,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 779937,
+      "num": 779937,
+      "word": "开始给魏大勋画饼了",
+      "onboard_time": 1690377102,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 773825,
@@ -497,6 +553,14 @@
       "onboard_time": 1690304363,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 757307,
+      "num": 757307,
+      "word": "过度喝饮料 肾衰竭",
+      "onboard_time": 1690379858,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 745094,
@@ -548,7 +612,7 @@
     },
     {
       "raw_hot": 729832,
-      "num": 372930,
+      "num": 561743,
       "word": "长相思榜单全面登顶",
       "onboard_time": 1690376139,
       "rank": 21,
@@ -595,14 +659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 671582,
-      "num": 671582,
-      "word": "开始给魏大勋画饼了",
-      "onboard_time": 1690377102,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 664301,
       "num": 465752,
       "word": "魏大勋不止一场戏份被删",
@@ -635,12 +691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 648947,
-      "num": 648947,
-      "word": "长相思",
-      "onboard_time": 1690299636,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 649696,
+      "num": 492396,
+      "word": "台风",
+      "onboard_time": 1690380402,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644977,
@@ -681,14 +737,6 @@
       "onboard_time": 1690298623,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 617231,
-      "num": 511769,
-      "word": "魏大勋的圈内人缘",
-      "onboard_time": 1690377276,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 613835,
@@ -755,6 +803,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 587107,
+      "num": 587107,
+      "word": "闫子贝也是世界冠军了",
+      "onboard_time": 1690379436,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 586040,
       "num": 500393,
       "word": "安徽卫视 中国人自己的佛罗里达",
@@ -793,6 +849,14 @@
       "onboard_time": 1690368102,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 568790,
+      "num": 345028,
+      "word": "39岁大叔男扮女装卖淫3次被抓",
+      "onboard_time": 1690377700,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568715,
@@ -841,6 +905,14 @@
       "onboard_time": 1690338453,
       "rank": 33,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 504533,
+      "num": 504533,
+      "word": "暑假工已经渗透到商家内部啦",
+      "onboard_time": 1690380220,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 501162,
@@ -900,7 +972,7 @@
     },
     {
       "raw_hot": 474628,
-      "num": 366713,
+      "num": 377406,
       "word": "Lisa的身材管理",
       "onboard_time": 1690376862,
       "rank": 22,
@@ -921,6 +993,14 @@
       "onboard_time": 1690358377,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 468913,
+      "num": 468913,
+      "word": "殷世航出道失败",
+      "onboard_time": 1690380459,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 467387,
@@ -987,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441567,
+      "num": 441567,
+      "word": "杜苏芮或成新世纪影响最严重台风之一",
+      "onboard_time": 1690376078,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437200,
       "num": 376303,
       "word": "从家里翻出来一盒黄金",
@@ -1020,7 +1108,7 @@
     },
     {
       "raw_hot": 430350,
-      "num": 379263,
+      "num": 384514,
       "word": "邓为男妲己",
       "onboard_time": 1690368462,
       "rank": 25,
@@ -1091,14 +1179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389264,
-      "num": 359974,
-      "word": "杜苏芮或成新世纪影响最严重台风之一",
-      "onboard_time": 1690376078,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388582,
       "num": 370351,
       "word": "王鹤棣范丞丞魏大勋白敬亭脸上痣",
@@ -1148,7 +1228,7 @@
     },
     {
       "raw_hot": 375521,
-      "num": 287460,
+      "num": 353796,
       "word": "公婆为我的婚礼种了一片草地",
       "onboard_time": 1690376741,
       "rank": 30,
@@ -1257,14 +1337,6 @@
       "onboard_time": 1690368638,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 348624,
-      "num": 285729,
-      "word": "39岁大叔男扮女装卖淫3次被抓",
-      "onboard_time": 1690377700,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345970,
@@ -1451,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311946,
+      "num": 311946,
+      "word": "搂了半天发现搂错人了",
+      "onboard_time": 1690380343,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310853,
       "num": 310853,
       "word": "宋亚轩全员加速中西安收官路透",
@@ -1481,6 +1561,14 @@
       "onboard_time": 1690333777,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305855,
+      "num": 305855,
+      "word": "张雨霏真的太强了",
+      "onboard_time": 1690379858,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 305845,
@@ -1561,6 +1649,14 @@
       "onboard_time": 1690373259,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281221,
+      "num": 281221,
+      "word": "张雨霏第2金",
+      "onboard_time": 1690378183,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 280872,
@@ -1747,20 +1843,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 254500,
+      "num": 254500,
+      "word": "覃海洋第3金",
+      "onboard_time": 1690379079,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253941,
       "num": 253941,
       "word": "陈凯歌事业运",
       "onboard_time": 1690370558,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 251369,
-      "num": 251369,
-      "word": "张雨霏第2金",
-      "onboard_time": 1690378183,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 251287,
@@ -1811,12 +1907,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246784,
+      "num": 246784,
+      "word": "谁家指甲长这样啊",
+      "onboard_time": 1690380640,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246324,
       "num": 246324,
       "word": "成毅戴金丝眼镜",
       "onboard_time": 1690343257,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244190,
+      "num": 244190,
+      "word": "家养宠物猫跑丢后的下场之一",
+      "onboard_time": 1690379200,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 243228,
@@ -1955,6 +2067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218071,
+      "num": 218071,
+      "word": "小鹏",
+      "onboard_time": 1690380640,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 215336,
       "num": 220355,
       "word": "放冰箱里的桃变不甜了",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1690376380,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 205276,
+      "num": 205276,
+      "word": "房间里的小空间该怎么利用",
+      "onboard_time": 1690380220,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 204114,
@@ -2596,7 +2724,7 @@
     },
     {
       "raw_hot": 66472,
-      "num": 1322757,
+      "num": 1447049,
       "word": "各大高校接力为大运会加油",
       "onboard_time": 1690376023,
       "rank": 2,
@@ -2659,6 +2787,9 @@
     },
     {
       "word": "#持续开展生态修复和环境污染治理工程#"
+    },
+    {
+      "word": "#铭记伟大胜利捍卫和平正义#"
     }
   ]
 }
