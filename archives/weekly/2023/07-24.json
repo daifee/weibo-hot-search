@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690371218510,
+  "endTime": 1690374819175,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -515,6 +515,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1548559,
+      "num": 1548559,
+      "word": "怒江百万网红蔡金发账号涉黄被封",
+      "onboard_time": 1690370139,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1535697,
       "num": 1535697,
       "word": "8小时睡眠论",
@@ -771,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1254858,
+      "num": 1254858,
+      "word": "玱玹终于认出小夭",
+      "onboard_time": 1690371577,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1235950,
       "num": 584367,
       "word": "齐齐哈尔坍塌事故发现被埋女排教练",
@@ -939,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1083312,
+      "num": 489875,
+      "word": "陈飞宇你知道魏大勋为啥跟你老师是同学了吧",
+      "onboard_time": 1690369001,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1078562,
       "num": 412918,
       "word": "微信可以批量删除好友",
@@ -953,6 +977,14 @@
       "onboard_time": 1690341872,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1073414,
+      "num": 307254,
+      "word": "英少女遭哥哥性侵弃尸后再遭男子侵犯",
+      "onboard_time": 1690371519,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1067777,
@@ -977,6 +1009,14 @@
       "onboard_time": 1690256854,
       "rank": 6,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1043724,
+      "num": 1043724,
+      "word": "覃海洋50蛙夺金",
+      "onboard_time": 1690374102,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1040196,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1690262866,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 882593,
+      "num": 882593,
+      "word": "北京卫视直播",
+      "onboard_time": 1690372417,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 881553,
@@ -1793,14 +1841,6 @@
       "onboard_time": 1690357293,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 704034,
-      "num": 489875,
-      "word": "陈飞宇你知道魏大勋为啥跟你老师是同学了吧",
-      "onboard_time": 1690369001,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 701322,
@@ -2859,6 +2899,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 475703,
+      "num": 475703,
+      "word": "黄景瑜张婧仪都营业了",
+      "onboard_time": 1690373499,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 472361,
       "num": 437938,
       "word": "大宋少年志",
@@ -3387,6 +3435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 411605,
+      "num": 398979,
+      "word": "我是云南的",
+      "onboard_time": 1690373620,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 411283,
       "num": 400960,
       "word": "TFBOYS每家都有合作的电池品牌",
@@ -3633,14 +3689,6 @@
       "onboard_time": 1690240945,
       "rank": 30,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 380881,
-      "num": 380881,
-      "word": "怒江百万网红蔡金发账号涉黄被封",
-      "onboard_time": 1690370139,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378978,
@@ -4099,6 +4147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330996,
+      "num": 304348,
+      "word": "坚持游泳半年后长高了",
+      "onboard_time": 1690371398,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 330991,
       "num": 330991,
       "word": "杨紫7岁到30岁荧幕变化",
@@ -4371,6 +4427,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 308619,
+      "num": 308619,
+      "word": "幼童3楼坠落黑衣大哥张开双臂去接",
+      "onboard_time": 1690373320,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307954,
       "num": 307954,
       "word": "新疆是碳水爱好者的天堂吧",
@@ -4489,6 +4553,14 @@
       "onboard_time": 1690172381,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296419,
+      "num": 257088,
+      "word": "女教师借调时加班被镇干部猥亵",
+      "onboard_time": 1690374102,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 295994,
@@ -4651,6 +4723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283498,
+      "num": 283498,
+      "word": "网民造谣小学生被碾身亡其母收260万",
+      "onboard_time": 1690373259,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282103,
       "num": 282103,
       "word": "工作后真的有必要用两个微信",
@@ -4665,6 +4745,14 @@
       "onboard_time": 1690272457,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280872,
+      "num": 280872,
+      "word": "男子高温街头边秀腹肌边送水",
+      "onboard_time": 1690374220,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280595,
@@ -4867,6 +4955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263622,
+      "num": 263622,
+      "word": "活死人成都",
+      "onboard_time": 1690374102,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262861,
       "num": 262861,
       "word": "going杂志",
@@ -4971,6 +5067,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 257844,
+      "num": 257844,
+      "word": "三星发布会",
+      "onboard_time": 1690371100,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 257760,
       "num": 257760,
       "word": "薛之谦演唱会大屏上的孙怡吴优",
@@ -4993,6 +5097,14 @@
       "onboard_time": 1690269278,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255592,
+      "num": 255592,
+      "word": "TES战胜Hero",
+      "onboard_time": 1690372235,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 254683,
@@ -5587,6 +5699,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 208625,
+      "num": 208625,
+      "word": "曼城 拜仁",
+      "onboard_time": 1690374402,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208506,
       "num": 208506,
       "word": "在大人的世界里小孩地位挺低的",
@@ -5649,6 +5769,14 @@
       "onboard_time": 1690175737,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206398,
+      "num": 206398,
+      "word": "长相思预告14",
+      "onboard_time": 1690374220,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 206371,
@@ -5715,6 +5843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 202730,
+      "num": 202730,
+      "word": "女儿看到妈妈30年前论文都结巴了",
+      "onboard_time": 1690372003,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202633,
       "num": 224115,
       "word": "不愧是熊猫界的吃播一姐",
@@ -5737,6 +5873,14 @@
       "onboard_time": 1690295563,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201217,
+      "num": 201217,
+      "word": "电影热烈",
+      "onboard_time": 1690374276,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 201177,
@@ -6267,6 +6411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173727,
+      "num": 201196,
+      "word": "放冰箱里的桃变不甜了",
+      "onboard_time": 1690372661,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173143,
       "num": 173143,
       "word": "芭比海滩戏变成现实",
@@ -6281,14 +6433,6 @@
       "onboard_time": 1690201830,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 172840,
-      "num": 208161,
-      "word": "三星发布会",
-      "onboard_time": 1690371100,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 171922,
