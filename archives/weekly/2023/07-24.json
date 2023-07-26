@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690392836472,
+  "endTime": 1690395644140,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -7123,6 +7123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153010,
+      "num": 153010,
+      "word": "檀健次白茶蛇",
+      "onboard_time": 1690391722,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150697,
       "num": 150697,
       "word": "时尚芭莎你真的不考虑一下孟家三口吗",
@@ -7225,14 +7233,6 @@
       "onboard_time": 1690180747,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131542,
-      "num": 131542,
-      "word": "檀健次白茶蛇",
-      "onboard_time": 1690391722,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 130991,
@@ -7387,6 +7387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101181,
+      "num": 101181,
+      "word": "杨紫最有cp感男主",
+      "onboard_time": 1690394117,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97832,
       "num": 335505,
       "word": "慕思是懂治愈的",
@@ -7427,6 +7435,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92948,
+      "num": 105945,
+      "word": "奄奄一息的狗狗倒在后院里",
+      "onboard_time": 1690392023,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 92407,
+      "num": 105946,
+      "word": "微笑天使萨摩耶狗设崩塌现场",
+      "onboard_time": 1690390885,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87857,
       "num": 1582018,
       "word": "蓉宝去哪儿",
@@ -7441,6 +7465,14 @@
       "onboard_time": 1690240827,
       "rank": 49,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 86223,
+      "num": 86223,
+      "word": "怦然3全员吃瓜滕光正",
+      "onboard_time": 1690393639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 84548,
@@ -7481,14 +7513,6 @@
       "onboard_time": 1690222877,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 80030,
-      "num": 105946,
-      "word": "微笑天使萨摩耶狗设崩塌现场",
-      "onboard_time": 1690390885,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 77930,
@@ -7587,12 +7611,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 51124,
-      "num": 105945,
-      "word": "奄奄一息的狗狗倒在后院里",
-      "onboard_time": 1690392023,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 51413,
+      "num": 81856,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1690395436,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 50647,

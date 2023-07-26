@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690392836472,
+  "endTime": 1690395644140,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -58507,6 +58507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153010,
+      "num": 153010,
+      "word": "檀健次白茶蛇",
+      "onboard_time": 1690391722,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152847,
       "num": 152847,
       "word": "老人摔倒男子录视频留证后帮扶起",
@@ -59657,14 +59665,6 @@
       "onboard_time": 1690180747,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131542,
-      "num": 131542,
-      "word": "檀健次白茶蛇",
-      "onboard_time": 1690391722,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 131513,
@@ -60867,6 +60867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101181,
+      "num": 101181,
+      "word": "杨紫最有cp感男主",
+      "onboard_time": 1690394117,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 101137,
       "num": 154531,
       "word": "深入贯彻党中央关于网络强国的重要思想",
@@ -61187,6 +61195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92948,
+      "num": 105945,
+      "word": "奄奄一息的狗狗倒在后院里",
+      "onboard_time": 1690392023,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92720,
       "num": 1986569,
       "word": "成都大运会收看指南",
@@ -61201,6 +61217,14 @@
       "onboard_time": 1689163592,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92407,
+      "num": 105946,
+      "word": "微笑天使萨摩耶狗设崩塌现场",
+      "onboard_time": 1690390885,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 92117,
@@ -61369,6 +61393,14 @@
       "onboard_time": 1688327412,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86223,
+      "num": 86223,
+      "word": "怦然3全员吃瓜滕光正",
+      "onboard_time": 1690393639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 86105,
@@ -61657,14 +61689,6 @@
       "onboard_time": 1690222877,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 80030,
-      "num": 105946,
-      "word": "微笑天使萨摩耶狗设崩塌现场",
-      "onboard_time": 1690390885,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 79928,
@@ -62433,14 +62457,6 @@
       "onboard_time": 1690100671,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51124,
-      "num": 105945,
-      "word": "奄奄一息的狗狗倒在后院里",
-      "onboard_time": 1690392023,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 50756,
