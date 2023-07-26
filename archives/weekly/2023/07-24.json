@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690353233529,
+  "endTime": 1690355717550,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -323,6 +323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1864554,
+      "num": 1749155,
+      "word": "刘亦菲王楚然同框旧照",
+      "onboard_time": 1690350156,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1863501,
       "num": 1863501,
       "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
@@ -353,14 +361,6 @@
       "onboard_time": 1690305263,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1749155,
-      "num": 1749155,
-      "word": "刘亦菲王楚然同框旧照",
-      "onboard_time": 1690350156,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1748852,
@@ -465,6 +465,14 @@
       "onboard_time": 1690265564,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1579074,
+      "num": 1579074,
+      "word": "张家界天门山一游客坠亡",
+      "onboard_time": 1690350937,
+      "rank": 10,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1573796,
@@ -667,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1327761,
-      "num": 1327761,
-      "word": "张家界天门山一游客坠亡",
-      "onboard_time": 1690350937,
-      "rank": 10,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 1318539,
       "num": 458818,
       "word": "男子游泳大便致泳池被抽干",
@@ -793,6 +793,14 @@
       "onboard_time": 1690244315,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1144200,
+      "num": 414580,
+      "word": "这竟然是余文乐",
+      "onboard_time": 1690352976,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1138331,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1690243774,
       "rank": 7,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 977944,
+      "num": 977944,
+      "word": "17岁男孩中枪身亡亲属称已和解",
+      "onboard_time": 1690351357,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977777,
@@ -1651,14 +1667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 706029,
-      "num": 584370,
-      "word": "17岁男孩中枪身亡亲属称已和解",
-      "onboard_time": 1690351357,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 701322,
       "num": 579125,
       "word": "妈妈回家故意敲门3岁男童装没听到",
@@ -2027,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613337,
+      "num": 613337,
+      "word": "檀健次演技",
+      "onboard_time": 1690353455,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611480,
       "num": 611480,
       "word": "普通人跟爱豆无法恋爱的原因",
@@ -2219,6 +2235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560068,
+      "num": 560068,
+      "word": "乌尔善说封神还没走出ICU",
+      "onboard_time": 1690353516,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558677,
       "num": 558677,
       "word": "Uzi",
@@ -2241,6 +2265,14 @@
       "onboard_time": 1690207178,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 553523,
+      "num": 215129,
+      "word": "5岁哥哥把4岁妹妹推上公交自己跑开",
+      "onboard_time": 1690354894,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553469,
@@ -3011,14 +3043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 414580,
-      "num": 414580,
-      "word": "这竟然是余文乐",
-      "onboard_time": 1690352976,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 414552,
       "num": 414552,
       "word": "蓝鸟logo设计师分享设计线稿",
@@ -3195,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392024,
+      "num": 247379,
+      "word": "官方通报男子光屁股大街上被拖行",
+      "onboard_time": 1690352855,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389371,
       "num": 389371,
       "word": "孟宴臣立大功",
@@ -3355,6 +3387,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 368352,
+      "num": 247814,
+      "word": "孟美岐i人",
+      "onboard_time": 1690352497,
+      "rank": 23,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 366626,
       "num": 366626,
       "word": "河南特岗",
@@ -3467,6 +3507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352667,
+      "num": 218256,
+      "word": "孟宴臣喝红酒夜谈戏份被删",
+      "onboard_time": 1690354957,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351842,
       "num": 281935,
       "word": "TFBOYS五年前的信",
@@ -3523,6 +3571,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 345970,
+      "num": 243594,
+      "word": "大摆锤上游客呕吐底下排队人遭殃",
+      "onboard_time": 1690352375,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 345531,
       "num": 345531,
       "word": "杨澄王莹的番外",
@@ -3569,6 +3625,14 @@
       "onboard_time": 1690168595,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 341113,
+      "num": 217400,
+      "word": "薛之谦巡演官宣沈阳福州站",
+      "onboard_time": 1690353097,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 341067,
@@ -3827,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322316,
+      "num": 214214,
+      "word": "虞书欣和小黄鸭合影",
+      "onboard_time": 1690354295,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321814,
       "num": 321814,
       "word": "封神来自元始天尊的剧透",
@@ -3857,14 +3929,6 @@
       "onboard_time": 1690165891,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313245,
-      "num": 247814,
-      "word": "孟美岐i人",
-      "onboard_time": 1690352497,
-      "rank": 23,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 312973,
@@ -4033,14 +4097,6 @@
       "onboard_time": 1690169015,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 294068,
-      "num": 247379,
-      "word": "官方通报男子光屁股大街上被拖行",
-      "onboard_time": 1690352855,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293380,
@@ -4259,6 +4315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273919,
+      "num": 212826,
+      "word": "新西游记大逃脱下架",
+      "onboard_time": 1690355495,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272757,
       "num": 272757,
       "word": "全员加速中",
@@ -4323,20 +4387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268354,
+      "num": 243458,
+      "word": "关晓彤打小就适合冯氏喜剧",
+      "onboard_time": 1690352734,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265778,
       "num": 265778,
       "word": "调剂到了冷门专业",
       "onboard_time": 1690331617,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 264700,
-      "num": 243594,
-      "word": "大摆锤上游客呕吐底下排队人遭殃",
-      "onboard_time": 1690352375,
-      "rank": 39,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 264562,
@@ -4449,14 +4513,6 @@
       "onboard_time": 1690269278,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 254722,
-      "num": 243458,
-      "word": "关晓彤打小就适合冯氏喜剧",
-      "onboard_time": 1690352734,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 254683,
@@ -4592,6 +4648,14 @@
       "word": "王一博粉丝带娃看热烈",
       "onboard_time": 1690124917,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 242951,
+      "num": 207553,
+      "word": "云合",
+      "onboard_time": 1690353997,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -4771,14 +4835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227005,
-      "num": 203481,
-      "word": "薛之谦巡演官宣沈阳福州站",
-      "onboard_time": 1690353097,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 226931,
       "num": 226931,
       "word": "成毅原声台词",
@@ -4825,6 +4881,14 @@
       "onboard_time": 1690169137,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223636,
+      "num": 207026,
+      "word": "姚晨关晓彤邬桑回归非诚勿扰3",
+      "onboard_time": 1690353815,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 223083,
@@ -4931,6 +4995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212671,
+      "num": 212671,
+      "word": "咒术回战",
+      "onboard_time": 1690354957,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 210701,
       "num": 206283,
       "word": "长相思里看到了贤夫娇夫了",
@@ -4985,6 +5057,14 @@
       "onboard_time": 1690183533,
       "rank": 43,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 207018,
+      "num": 207018,
+      "word": "云合播放量",
+      "onboard_time": 1690354594,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 206869,

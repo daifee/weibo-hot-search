@@ -1,0 +1,410 @@
+{
+  "runTime": 1690355717550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1643919,
+        "num": 1643919,
+        "word": "王一博 不是因为工作太累导致身体不适",
+        "onboard_time": 1690346620,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1579074,
+        "num": 1579074,
+        "word": "张家界天门山一游客坠亡",
+        "onboard_time": 1690350937,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 15007,
+        "num": 1237621,
+        "word": "蓉宝去哪儿",
+        "onboard_time": 1690290158,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1864554,
+        "num": 1216186,
+        "word": "刘亦菲王楚然同框旧照",
+        "onboard_time": 1690350156,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1133283,
+        "num": 1133283,
+        "word": "赵有亮去世",
+        "onboard_time": 1690346140,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 977944,
+        "num": 977944,
+        "word": "17岁男孩中枪身亡亲属称已和解",
+        "onboard_time": 1690351357,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685477,
+        "num": 685477,
+        "word": "形式主义的安全检查真是够了",
+        "onboard_time": 1690347998,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613337,
+        "num": 613337,
+        "word": "檀健次演技",
+        "onboard_time": 1690353455,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560068,
+        "num": 560068,
+        "word": "乌尔善说封神还没走出ICU",
+        "onboard_time": 1690353516,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408402,
+        "num": 408402,
+        "word": "男子在四姑娘山旅游时遇难",
+        "onboard_time": 1690347161,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1144200,
+        "num": 404144,
+        "word": "这竟然是余文乐",
+        "onboard_time": 1690352976,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560350,
+        "num": 400563,
+        "word": "毛晓彤真人芭比上班",
+        "onboard_time": 1690343494,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512714,
+        "num": 391960,
+        "word": "EXO青岛",
+        "onboard_time": 1690342775,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333496,
+        "num": 333496,
+        "word": "猫狗绝育坏人表演一次几十元",
+        "onboard_time": 1690343317,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319164,
+        "num": 319164,
+        "word": "台风杜苏芮",
+        "onboard_time": 1690327706,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483445,
+        "num": 317239,
+        "word": "长相思思的是谁",
+        "onboard_time": 1690349738,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456151,
+        "num": 292546,
+        "word": "杨幂簪发半遮面",
+        "onboard_time": 1690346378,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267290,
+        "num": 267290,
+        "word": "中式麻辣烫和韩式麻辣烫的区别",
+        "onboard_time": 1690333832,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254695,
+        "num": 254695,
+        "word": "大熊猫翘起jiojio点头示意奶爸按脚",
+        "onboard_time": 1690340854,
+        "rank": 18,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 221866,
+        "num": 221866,
+        "word": "国产榴莲迎来首次上市",
+        "onboard_time": 1690333235,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785341,
+        "num": 221769,
+        "word": "女子拍骨盆CT被要求撩裙露内裤",
+        "onboard_time": 1690342176,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392024,
+        "num": 221176,
+        "word": "官方通报男子光屁股大街上被拖行",
+        "onboard_time": 1690352855,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369779,
+        "num": 220314,
+        "word": "赵露思魏大勋版偷偷藏不住",
+        "onboard_time": 1690349317,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368352,
+        "num": 219294,
+        "word": "孟美岐i人",
+        "onboard_time": 1690352497,
+        "rank": 23,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 345970,
+        "num": 218755,
+        "word": "大摆锤上游客呕吐底下排队人遭殃",
+        "onboard_time": 1690352375,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 352667,
+        "num": 218256,
+        "word": "孟宴臣喝红酒夜谈戏份被删",
+        "onboard_time": 1690354957,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341113,
+        "num": 217400,
+        "word": "薛之谦巡演官宣沈阳福州站",
+        "onboard_time": 1690353097,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323147,
+        "num": 216927,
+        "word": "TFBOYS五年前的信",
+        "onboard_time": 1690350815,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298366,
+        "num": 216334,
+        "word": "当名著被改成网文名",
+        "onboard_time": 1690353156,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242498,
+        "num": 215564,
+        "word": "游个泳居然把头发给漂白了",
+        "onboard_time": 1690345115,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 553523,
+        "num": 215129,
+        "word": "5岁哥哥把4岁妹妹推上公交自己跑开",
+        "onboard_time": 1690354894,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322316,
+        "num": 214214,
+        "word": "虞书欣和小黄鸭合影",
+        "onboard_time": 1690354295,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291539,
+        "num": 213750,
+        "word": "阿饭泽泽官宣",
+        "onboard_time": 1690349197,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273919,
+        "num": 212826,
+        "word": "新西游记大逃脱下架",
+        "onboard_time": 1690355495,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212671,
+        "num": 212671,
+        "word": "咒术回战",
+        "onboard_time": 1690354957,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 268354,
+        "num": 210625,
+        "word": "关晓彤打小就适合冯氏喜剧",
+        "onboard_time": 1690352734,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252663,
+        "num": 209770,
+        "word": "piko张张",
+        "onboard_time": 1690346860,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251440,
+        "num": 209379,
+        "word": "牛骏峰片场抱着杨紫转圈",
+        "onboard_time": 1690349497,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207797,
+        "num": 207797,
+        "word": "山西一饭店顾客吃米线倒醋洗碗",
+        "onboard_time": 1690350697,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 175824,
+        "num": 207699,
+        "word": "为啥日本人能轻易认出中国人",
+        "onboard_time": 1690329333,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242951,
+        "num": 207553,
+        "word": "云合",
+        "onboard_time": 1690353997,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234340,
+        "num": 207252,
+        "word": "8岁摄影师拍迪丽热巴龚俊",
+        "onboard_time": 1690339352,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223636,
+        "num": 207026,
+        "word": "姚晨关晓彤邬桑回归非诚勿扰3",
+        "onboard_time": 1690353815,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207018,
+        "num": 207018,
+        "word": "云合播放量",
+        "onboard_time": 1690354594,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159404,
+        "num": 206960,
+        "word": "试婚同居生子男方弃养拒付抚养费",
+        "onboard_time": 1690339472,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158137,
+        "num": 206657,
+        "word": "女大学生每月收千元神秘汇款真相令人泪目",
+        "onboard_time": 1690328731,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128407,
+        "num": 206505,
+        "word": "施工安全不应是空话一句",
+        "onboard_time": 1690331017,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120183,
+        "num": 206003,
+        "word": "云南菌子才是最省钱的VR技术",
+        "onboard_time": 1690349497,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 113598,
+        "num": 205829,
+        "word": "北方室友不理解太阳下山",
+        "onboard_time": 1690347522,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112859,
+        "num": 205637,
+        "word": "金正恩拜谒中国人民志愿军烈士陵园",
+        "onboard_time": 1690338453,
+        "rank": 49,
+        "category": "国内要闻,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面加强军事治理以高水平治理推动我军高质量发展#"
+    }
+  }
+}
