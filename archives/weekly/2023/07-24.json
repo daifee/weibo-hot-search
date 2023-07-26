@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690328018183,
+  "endTime": 1690335306249,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -137,6 +137,14 @@
       "onboard_time": 1690257936,
       "rank": 22,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2370383,
+      "num": 2370383,
+      "word": "王一博因身体不适将缺席热烈路演",
+      "onboard_time": 1690328068,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2352046,
@@ -393,6 +401,14 @@
       "onboard_time": 1690265564,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1569268,
+      "num": 1569268,
+      "word": "女大学生每月收千元神秘汇款真相令人泪目",
+      "onboard_time": 1690328731,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1564386,
@@ -699,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1128045,
+      "num": 349959,
+      "word": "王俊凯助理都没有TFBOYS演唱会门票",
+      "onboard_time": 1690328368,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1127691,
       "num": 1127691,
       "word": "EDG冒泡赛",
@@ -931,6 +955,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 951791,
+      "num": 951791,
+      "word": "中式麻辣烫和韩式麻辣烫的区别",
+      "onboard_time": 1690333832,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 948161,
       "num": 948161,
       "word": "狗狗的牙齿竟然是小手套形状",
@@ -993,6 +1025,14 @@
       "onboard_time": 1690206398,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 889811,
+      "num": 889811,
+      "word": "姆巴佩的家人已准备接受沙特报价",
+      "onboard_time": 1690331017,
+      "rank": 5,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 889270,
@@ -1091,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 835816,
+      "num": 835816,
+      "word": "理解纣王成为纣王",
+      "onboard_time": 1690331977,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 835258,
       "num": 835258,
       "word": "魏大勋到底背着我们接了多少私活",
@@ -1179,6 +1227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804799,
+      "num": 804799,
+      "word": "台风杜苏芮",
+      "onboard_time": 1690158454,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803619,
+      "num": 803619,
+      "word": "国产榴莲迎来首次上市",
+      "onboard_time": 1690333235,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802317,
       "num": 802317,
       "word": "Angelababy演狐妖疯批美人",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1690275941,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767389,
+      "num": 349804,
+      "word": "为啥日本人能轻易认出中国人",
+      "onboard_time": 1690329333,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 763977,
@@ -1571,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 644977,
+      "num": 644977,
+      "word": "十大地铁公司中4个明确不准喝水",
+      "onboard_time": 1690328068,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 644856,
       "num": 543805,
       "word": "TT拿到了seventeen的签名",
@@ -1704,6 +1784,14 @@
       "word": "长相思开播第一天热度超玉骨遥",
       "onboard_time": 1690248215,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 621895,
+      "num": 621895,
+      "word": "付闻樱扮演者陈瑾采访魅力",
+      "onboard_time": 1690332098,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -1865,6 +1953,14 @@
       "onboard_time": 1690205858,
       "rank": 26,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 568715,
+      "num": 346958,
+      "word": "00后投200份简历面70家终获offer",
+      "onboard_time": 1690331259,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566398,
@@ -2123,14 +2219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 502736,
-      "num": 502736,
-      "word": "台风杜苏芮",
-      "onboard_time": 1690158454,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 499254,
       "num": 499254,
       "word": "叠纸买楼",
@@ -2371,8 +2459,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 452765,
+      "num": 452765,
+      "word": "妈妈说我不一定要考公当老师",
+      "onboard_time": 1690332815,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 451267,
-      "num": 144412,
+      "num": 213881,
       "word": "游客订蒙古包民宿床上爬11只黑虫",
       "onboard_time": 1690326142,
       "rank": 30,
@@ -2683,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405507,
+      "num": 405507,
+      "word": "周深说9年后又多了一个周深深",
+      "onboard_time": 1690327646,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403651,
       "num": 309718,
       "word": "娃 我已经给你反应的时间了",
@@ -2811,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383126,
+      "num": 383126,
+      "word": "梅西连场进球",
+      "onboard_time": 1690329691,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380950,
       "num": 380950,
       "word": "伊能静科普三伏天适合瘦身",
@@ -2841,6 +2953,14 @@
       "onboard_time": 1690299937,
       "rank": 21,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 375858,
+      "num": 375858,
+      "word": "熊猫园润专属耳朵",
+      "onboard_time": 1690333057,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 375553,
@@ -2905,6 +3025,14 @@
       "onboard_time": 1690288362,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361322,
+      "num": 361322,
+      "word": "布朗签下NBA历史最大合同",
+      "onboard_time": 1690332399,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 360336,
@@ -2979,6 +3107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351816,
+      "num": 351816,
+      "word": "想对王一博说不可以也是可以的",
+      "onboard_time": 1690330896,
+      "rank": 19,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 351674,
       "num": 351674,
       "word": "乐队歌手演出时当众脱裤子被行拘",
@@ -3017,6 +3153,14 @@
       "onboard_time": 1690211203,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343690,
+      "num": 343690,
+      "word": "鸳鸯妈你发现没少了只崽",
+      "onboard_time": 1690334138,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342857,
@@ -3080,6 +3224,14 @@
       "word": "风月变",
       "onboard_time": 1690168114,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 336942,
+      "num": 336942,
+      "word": "杨紫演技细节",
+      "onboard_time": 1690331737,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -3276,7 +3428,7 @@
     },
     {
       "raw_hot": 322567,
-      "num": 147472,
+      "num": 315403,
       "word": "西双版纳一猛男餐厅被查处",
       "onboard_time": 1690326262,
       "rank": 31,
@@ -3289,6 +3441,14 @@
       "onboard_time": 1690163669,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315643,
+      "num": 315643,
+      "word": "原来龙口粉丝不能空腹吃",
+      "onboard_time": 1690333357,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 315041,
@@ -3563,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283901,
+      "num": 283901,
+      "word": "五月天南京",
+      "onboard_time": 1690170155,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282103,
       "num": 282103,
       "word": "工作后真的有必要用两个微信",
@@ -3643,6 +3811,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272757,
+      "num": 272757,
+      "word": "全员加速中",
+      "onboard_time": 1690329092,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 272131,
+      "num": 272131,
+      "word": "两姐妹失散37年后相拥而泣",
+      "onboard_time": 1690334316,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271697,
       "num": 271697,
       "word": "短信错过了六年但你们的爱没有",
@@ -3673,6 +3857,30 @@
       "onboard_time": 1690296701,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269601,
+      "num": 269601,
+      "word": "施工安全不应是空话一句",
+      "onboard_time": 1690331017,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265778,
+      "num": 265778,
+      "word": "调剂到了冷门专业",
+      "onboard_time": 1690331617,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 265320,
+      "num": 265320,
+      "word": "陈都灵眼泪像断了线的珍珠",
+      "onboard_time": 1690333777,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 264562,
@@ -4139,14 +4347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215223,
-      "num": 215223,
-      "word": "五月天南京",
-      "onboard_time": 1690170155,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214788,
       "num": 214788,
       "word": "奎木狼今晚掉马",
@@ -4161,14 +4361,6 @@
       "onboard_time": 1690162952,
       "rank": 39,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 214058,
-      "num": 214058,
-      "word": "周深说9年后又多了一个周深深",
-      "onboard_time": 1690327646,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 213782,
@@ -4387,11 +4579,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 198501,
+      "num": 198501,
+      "word": "南京地铁通报乘客喝水被罚",
+      "onboard_time": 1690331434,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198094,
       "num": 198094,
       "word": "周江勇非法收受财物共计1.82亿余元",
       "onboard_time": 1690277198,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197691,
+      "num": 197691,
+      "word": "台风杜苏芮将对上海产生影响",
+      "onboard_time": 1690334016,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -4488,6 +4696,14 @@
       "word": "一起去追空投雨",
       "onboard_time": 1690274016,
       "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 192597,
+      "num": 192597,
+      "word": "阴阳师",
+      "onboard_time": 1690334256,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -4593,6 +4809,14 @@
       "onboard_time": 1690162771,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184871,
+      "num": 184871,
+      "word": "EVERGLOW回归海报",
+      "onboard_time": 1690332276,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 184818,
@@ -4713,6 +4937,14 @@
       "onboard_time": 1690289500,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167928,
+      "num": 167928,
+      "word": "巧克力大爷开课都是纯干货",
+      "onboard_time": 1690334675,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167575,
@@ -5107,6 +5339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87857,
+      "num": 1582018,
+      "word": "蓉宝去哪儿",
+      "onboard_time": 1690290158,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87677,
       "num": 87677,
       "word": "为何地锅鸡里鸡脖这么多",
@@ -5201,14 +5441,6 @@
       "onboard_time": 1690197334,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50214,
-      "num": 759261,
-      "word": "蓉宝去哪儿",
-      "onboard_time": 1690290158,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 36758,
