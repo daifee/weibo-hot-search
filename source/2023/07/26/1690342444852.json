@@ -1,0 +1,410 @@
+{
+  "runTime": 1690342444852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2196807,
+        "num": 2196807,
+        "word": "成功在前妻腿上痛哭",
+        "onboard_time": 1690337554,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1477889,
+        "num": 1477889,
+        "word": "中式麻辣烫和韩式麻辣烫的区别",
+        "onboard_time": 1690333832,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84548,
+        "num": 1303825,
+        "word": "青春主场欢聚在成都",
+        "onboard_time": 1690339053,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1820384,
+        "num": 1240538,
+        "word": "8岁摄影师拍迪丽热巴龚俊",
+        "onboard_time": 1690339352,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1146996,
+        "num": 1146996,
+        "word": "杨洋抓米给许沁煮粥吗",
+        "onboard_time": 1690340732,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1131007,
+        "num": 1131007,
+        "word": "王一博因身体不适将缺席热烈路演",
+        "onboard_time": 1690328068,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 925815,
+        "num": 925815,
+        "word": "TFBOYS眼部特写",
+        "onboard_time": 1690339894,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 744737,
+        "num": 744737,
+        "word": "女大学生每月收千元神秘汇款真相令人泪目",
+        "onboard_time": 1690328731,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652314,
+        "num": 652314,
+        "word": "台风杜苏芮",
+        "onboard_time": 1690327706,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578210,
+        "num": 578210,
+        "word": "大熊猫翘起jiojio点头示意奶爸按脚",
+        "onboard_time": 1690340854,
+        "rank": 9,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 910419,
+        "num": 575207,
+        "word": "老外知道原创周杰伦在旁边吗",
+        "onboard_time": 1690336054,
+        "rank": 10,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 607891,
+        "num": 572861,
+        "word": "五月天南京",
+        "onboard_time": 1690334196,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 567974,
+        "num": 567974,
+        "word": "绿豆汤变红",
+        "onboard_time": 1690336775,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 528804,
+        "num": 528804,
+        "word": "国产榴莲迎来首次上市",
+        "onboard_time": 1690333235,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528208,
+        "num": 528208,
+        "word": "念无双 唐嫣",
+        "onboard_time": 1690341872,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516853,
+        "num": 516853,
+        "word": "小夭爱相柳吗",
+        "onboard_time": 1690337853,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481251,
+        "num": 481251,
+        "word": "武汉地震监测中心遭美网络攻击",
+        "onboard_time": 1690335454,
+        "rank": 16,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 449303,
+        "num": 449303,
+        "word": "殡仪馆证实岳阳17岁男子中枪身亡",
+        "onboard_time": 1690295143,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434164,
+        "num": 434164,
+        "word": "梅西降维打击",
+        "onboard_time": 1690339533,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366265,
+        "num": 366265,
+        "word": "理解纣王成为纣王",
+        "onboard_time": 1690331977,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 765336,
+        "num": 364127,
+        "word": "试婚同居生子男方弃养拒付抚养费",
+        "onboard_time": 1690339472,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612264,
+        "num": 360210,
+        "word": "韩国人为什么这么爱去张家界",
+        "onboard_time": 1690338271,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 481840,
+        "num": 357771,
+        "word": "杨洋时尚芭莎八月刊封面",
+        "onboard_time": 1690340132,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 353818,
+        "num": 353818,
+        "word": "为啥日本人能轻易认出中国人",
+        "onboard_time": 1690329333,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351836,
+        "num": 351836,
+        "word": "姆巴佩的家人已准备接受沙特报价",
+        "onboard_time": 1690331017,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 312165,
+        "num": 312165,
+        "word": "原来龙口粉丝不能空腹吃",
+        "onboard_time": 1690333357,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 301062,
+        "num": 301062,
+        "word": "封神来自元始天尊的剧透",
+        "onboard_time": 1690339713,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294585,
+        "num": 294585,
+        "word": "长相思",
+        "onboard_time": 1690299636,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285910,
+        "num": 285910,
+        "word": "万茜在学爸里的精神状态",
+        "onboard_time": 1690341154,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290576,
+        "num": 273265,
+        "word": "叶十七 男绿茶",
+        "onboard_time": 1690295979,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505082,
+        "num": 266985,
+        "word": "金正恩拜谒中国人民志愿军烈士陵园",
+        "onboard_time": 1690338453,
+        "rank": 30,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 381713,
+        "num": 262486,
+        "word": "女子拍骨盆CT被要求撩裙露内裤",
+        "onboard_time": 1690342176,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254072,
+        "num": 254072,
+        "word": "老人让杀鱼后又不买遭商贩拦住大骂",
+        "onboard_time": 1690335993,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249534,
+        "num": 249534,
+        "word": "长相思 雄竞修罗场",
+        "onboard_time": 1690298922,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236682,
+        "num": 236682,
+        "word": "男子200混汪顺晋级半决赛",
+        "onboard_time": 1690340011,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221859,
+        "num": 221859,
+        "word": "最喜欢Citywalk的城市为什么没有重庆",
+        "onboard_time": 1690341754,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 218034,
+        "num": 218034,
+        "word": "00后投200份简历面70家终获offer",
+        "onboard_time": 1690331259,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204174,
+        "num": 204174,
+        "word": "妈妈说我不一定要考公当老师",
+        "onboard_time": 1690332815,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202154,
+        "num": 202154,
+        "word": "台风杜苏芮将对上海产生影响",
+        "onboard_time": 1690334016,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195323,
+        "num": 195323,
+        "word": "大鹏 烁烁不可以也是可以的",
+        "onboard_time": 1690337251,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191718,
+        "num": 191718,
+        "word": "施工安全不应是空话一句",
+        "onboard_time": 1690331017,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182443,
+        "num": 182443,
+        "word": "以闪亮之名台服",
+        "onboard_time": 1690341816,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172481,
+        "num": 172481,
+        "word": "安乐传",
+        "onboard_time": 1690338093,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168125,
+        "num": 168125,
+        "word": "布朗签下NBA历史最大合同",
+        "onboard_time": 1690332399,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164345,
+        "num": 164345,
+        "word": "熊猫园润专属耳朵",
+        "onboard_time": 1690333057,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162943,
+        "num": 162943,
+        "word": "付闻樱扮演者陈瑾采访魅力",
+        "onboard_time": 1690332098,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161619,
+        "num": 161619,
+        "word": "怦然心动20岁第三季",
+        "onboard_time": 1690336473,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160391,
+        "num": 160391,
+        "word": "和猫妈妈争小奶猫抚养权的狗狗",
+        "onboard_time": 1690340612,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 158335,
+        "num": 158335,
+        "word": "封神选角好贴脸",
+        "onboard_time": 1690339411,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152937,
+        "num": 157174,
+        "word": "热烈长沙路演票价炒至上千元",
+        "onboard_time": 1690340253,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络文明建设一起来#"
+    }
+  }
+}

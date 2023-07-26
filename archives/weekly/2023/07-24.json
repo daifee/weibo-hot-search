@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690341423851,
+  "endTime": 1690342444852,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -179,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2196807,
+      "num": 2196807,
+      "word": "成功在前妻腿上痛哭",
+      "onboard_time": 1690337554,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2194772,
       "num": 747160,
       "word": "电子呕吐物",
       "onboard_time": 1690256976,
       "rank": 10,
       "category": "科技,幽默"
-    },
-    {
-      "raw_hot": 2186596,
-      "num": 2186596,
-      "word": "成功在前妻腿上痛哭",
-      "onboard_time": 1690337554,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 2179004,
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1146996,
+      "num": 1146996,
+      "word": "杨洋抓米给许沁煮粥吗",
+      "onboard_time": 1690340732,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1131536,
       "num": 327788,
       "word": "京东崩了",
@@ -1019,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 925815,
+      "num": 925815,
+      "word": "TFBOYS眼部特写",
+      "onboard_time": 1690339894,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 924093,
       "num": 924093,
       "word": "六公主评追星乱象",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1690173763,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 906728,
-      "num": 906728,
-      "word": "TFBOYS眼部特写",
-      "onboard_time": 1690339894,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 905626,
@@ -1355,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 765336,
+      "num": 614210,
+      "word": "试婚同居生子男方弃养拒付抚养费",
+      "onboard_time": 1690339472,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763977,
       "num": 469608,
       "word": "王俊凯瘦了太多",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1690160613,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 717967,
-      "num": 614210,
-      "word": "试婚同居生子男方弃养拒付抚养费",
-      "onboard_time": 1690339472,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 714718,
@@ -1756,7 +1764,7 @@
     },
     {
       "raw_hot": 641560,
-      "num": 351316,
+      "num": 357771,
       "word": "杨洋时尚芭莎八月刊封面",
       "onboard_time": 1690340132,
       "rank": 21,
@@ -2011,6 +2019,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 578210,
+      "num": 578210,
+      "word": "大熊猫翘起jiojio点头示意奶爸按脚",
+      "onboard_time": 1690340854,
+      "rank": 28,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 574010,
       "num": 574010,
       "word": "罗云熙宋轶新剧大婚路透",
@@ -2203,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528208,
+      "num": 528208,
+      "word": "念无双 唐嫣",
+      "onboard_time": 1690341872,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 528141,
       "num": 493102,
       "word": "曾少年大结局",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1690183115,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505082,
+      "num": 266985,
+      "word": "金正恩拜谒中国人民志愿军烈士陵园",
+      "onboard_time": 1690338453,
+      "rank": 33,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 503697,
@@ -2507,14 +2539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 463970,
-      "num": 257224,
-      "word": "金正恩拜谒中国人民志愿军烈士陵园",
-      "onboard_time": 1690338453,
-      "rank": 33,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 459362,
       "num": 459362,
       "word": "TES运营",
@@ -2593,14 +2617,6 @@
       "onboard_time": 1690174959,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445489,
-      "num": 248133,
-      "word": "杨洋抓米给许沁煮粥吗",
-      "onboard_time": 1690340732,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 444420,
@@ -2715,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434164,
+      "num": 434164,
+      "word": "梅西降维打击",
+      "onboard_time": 1690339533,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434129,
       "num": 434129,
       "word": "费翔才是男妲己吧",
@@ -2809,14 +2833,6 @@
       "onboard_time": 1690292440,
       "rank": 25,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 417392,
-      "num": 417392,
-      "word": "梅西降维打击",
-      "onboard_time": 1690339533,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 416933,
@@ -3057,6 +3073,14 @@
       "onboard_time": 1690333057,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 381713,
+      "num": 262486,
+      "word": "女子拍骨盆CT被要求撩裙露内裤",
+      "onboard_time": 1690342176,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380950,
@@ -3851,6 +3875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285910,
+      "num": 285910,
+      "word": "万茜在学爸里的精神状态",
+      "onboard_time": 1690341154,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285680,
       "num": 273125,
       "word": "时代少年团演唱会",
@@ -3969,14 +4001,6 @@
       "onboard_time": 1690329092,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272362,
-      "num": 272362,
-      "word": "大熊猫翘起jiojio点头示意奶爸按脚",
-      "onboard_time": 1690340854,
-      "rank": 28,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 272131,
@@ -4491,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221859,
+      "num": 221859,
+      "word": "最喜欢Citywalk的城市为什么没有重庆",
+      "onboard_time": 1690341754,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 220555,
       "num": 220555,
       "word": "于适版姬发",
@@ -4545,14 +4577,6 @@
       "onboard_time": 1690178987,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211153,
-      "num": 211153,
-      "word": "万茜在学爸里的精神状态",
-      "onboard_time": 1690341154,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 210701,
@@ -5083,6 +5107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182443,
+      "num": 182443,
+      "word": "以闪亮之名台服",
+      "onboard_time": 1690341816,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178684,
       "num": 201046,
       "word": "兵哥哥这一跳真帅",
@@ -5579,6 +5611,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 84548,
+      "num": 1634672,
+      "word": "青春主场欢聚在成都",
+      "onboard_time": 1690339053,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84369,
       "num": 101156,
       "word": "Uzi和JKL再交手",
@@ -5601,14 +5641,6 @@
       "onboard_time": 1690222877,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 73287,
-      "num": 1634672,
-      "word": "青春主场欢聚在成都",
-      "onboard_time": 1690339053,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70346,
@@ -5796,6 +5828,9 @@
     },
     {
       "word": "#全面加强军事治理以高水平治理推动我军高质量发展#"
+    },
+    {
+      "word": "#网络文明建设一起来#"
     }
   ]
 }
