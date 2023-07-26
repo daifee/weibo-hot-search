@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690403641392,
+  "endTime": 1690406085219,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -60243,6 +60243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116638,
+      "num": 56922,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116199,
       "num": 220590,
       "word": "王者荣耀夏日妄想",
@@ -61377,14 +61385,6 @@
       "onboard_time": 1690240827,
       "rank": 49,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 87668,
-      "num": 56922,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87443,
@@ -62875,6 +62875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36071,
+      "num": 40599,
+      "word": "当年爆红的刀郎这些年去哪了",
+      "onboard_time": 1690402993,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35631,
       "num": 203342,
       "word": "王鹤棣导航太上头了",
@@ -63155,6 +63163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28228,
+      "num": 40590,
+      "word": "Wayward 菜",
+      "onboard_time": 1690404193,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28124,
       "num": 36638,
       "word": "李玟何炅早期同框",
@@ -63353,14 +63369,6 @@
       "onboard_time": 1688245453,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18869,
-      "num": 28701,
-      "word": "当年爆红的刀郎这些年去哪了",
-      "onboard_time": 1690402993,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 17554,

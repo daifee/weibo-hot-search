@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690403641392,
+  "endTime": 1690406085219,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -419,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116638,
+      "num": 56922,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113757,
       "num": 103719,
       "word": "杨紫最有cp感男主",
@@ -441,14 +449,6 @@
       "onboard_time": 1690390885,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87668,
-      "num": 56922,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86223,
@@ -515,6 +515,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 36071,
+      "num": 40599,
+      "word": "当年爆红的刀郎这些年去哪了",
+      "onboard_time": 1690402993,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28228,
+      "num": 40590,
+      "word": "Wayward 菜",
+      "onboard_time": 1690404193,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22844,
       "num": 41251,
       "word": "我看起来的样子 我镜头里的样子",
@@ -523,16 +539,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18869,
-      "num": 28701,
-      "word": "当年爆红的刀郎这些年去哪了",
-      "onboard_time": 1690402993,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17961,
-      "num": 30245,
+      "num": 40576,
       "word": "成都暴雨",
       "onboard_time": 1690290637,
       "rank": 49,
