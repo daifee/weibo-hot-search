@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690335306249,
+  "endTime": 1690336391235,
   "band_list": [
     {
       "raw_hot": 2370383,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1961526,
-      "num": 639357,
+      "num": 670628,
       "word": "殡仪馆证实岳阳17岁男子中枪身亡",
       "onboard_time": 1690295143,
       "rank": 10,
@@ -35,8 +35,16 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1569268,
-      "num": 1569268,
+      "raw_hot": 1586150,
+      "num": 1586150,
+      "word": "中式麻辣烫和韩式麻辣烫的区别",
+      "onboard_time": 1690333832,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1573796,
+      "num": 1573796,
       "word": "女大学生每月收千元神秘汇款真相令人泪目",
       "onboard_time": 1690328731,
       "rank": 3,
@@ -75,12 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 951791,
-      "num": 951791,
-      "word": "中式麻辣烫和韩式麻辣烫的区别",
-      "onboard_time": 1690333832,
-      "rank": 4,
-      "category": "美食"
+      "raw_hot": 1004779,
+      "num": 1004779,
+      "word": "武汉地震监测中心遭美网络攻击",
+      "onboard_time": 1690335454,
+      "rank": 5,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 889811,
@@ -99,12 +107,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 835816,
-      "num": 835816,
+      "raw_hot": 848149,
+      "num": 848149,
       "word": "理解纣王成为纣王",
       "onboard_time": 1690331977,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 821499,
+      "num": 821499,
+      "word": "国产榴莲迎来首次上市",
+      "onboard_time": 1690333235,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 804799,
@@ -112,14 +128,6 @@
       "word": "台风杜苏芮",
       "onboard_time": 1690327706,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 803619,
-      "num": 803619,
-      "word": "国产榴莲迎来首次上市",
-      "onboard_time": 1690333235,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 767389,
-      "num": 349804,
+      "num": 360771,
       "word": "为啥日本人能轻易认出中国人",
       "onboard_time": 1690329333,
       "rank": 21,
@@ -153,6 +161,14 @@
       "onboard_time": 1690288302,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 688915,
+      "num": 688915,
+      "word": "付闻樱扮演者陈瑾采访魅力",
+      "onboard_time": 1690332098,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 662849,
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 621895,
-      "num": 621895,
-      "word": "付闻樱扮演者陈瑾采访魅力",
-      "onboard_time": 1690332098,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 590577,
       "num": 411480,
       "word": "未婚小姑帮带双胞胎侄子一周瘦8斤",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 568715,
-      "num": 346958,
+      "num": 352574,
       "word": "00后投200份简历面70家终获offer",
       "onboard_time": 1690331259,
       "rank": 22,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445041,
+      "num": 445041,
+      "word": "原来龙口粉丝不能空腹吃",
+      "onboard_time": 1690333357,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 433468,
       "num": 227665,
       "word": "京东崩了",
@@ -265,6 +281,14 @@
       "onboard_time": 1690316473,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428087,
+      "num": 271099,
+      "word": "老外知道原创周杰伦在旁边吗",
+      "onboard_time": 1690336054,
+      "rank": 31,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 405507,
@@ -283,20 +307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382879,
+      "num": 382879,
+      "word": "熊猫园润专属耳朵",
+      "onboard_time": 1690333057,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 376273,
       "num": 314540,
       "word": "大学生暑假工 我素未谋面的好朋友",
       "onboard_time": 1690299937,
       "rank": 21,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 375858,
-      "num": 375858,
-      "word": "熊猫园润专属耳朵",
-      "onboard_time": 1690333057,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 361322,
@@ -321,6 +345,14 @@
       "onboard_time": 1690281519,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343788,
+      "num": 343788,
+      "word": "五月天南京",
+      "onboard_time": 1690334196,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 343690,
@@ -379,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315643,
-      "num": 315643,
-      "word": "原来龙口粉丝不能空腹吃",
-      "onboard_time": 1690333357,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 310240,
       "num": 310240,
       "word": "台湾13岁女孩配合警方当诱饵遭性侵",
@@ -419,12 +443,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 283901,
-      "num": 283901,
-      "word": "五月天南京",
-      "onboard_time": 1690334196,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 289683,
+      "num": 289683,
+      "word": "陈都灵眼泪像断了线的珍珠",
+      "onboard_time": 1690333777,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 278440,
@@ -475,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265320,
-      "num": 265320,
-      "word": "陈都灵眼泪像断了线的珍珠",
-      "onboard_time": 1690333777,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264656,
       "num": 319836,
       "word": "王雪峰被逮捕",
@@ -505,6 +521,14 @@
       "onboard_time": 1690301193,
       "rank": 34,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 256010,
+      "num": 256010,
+      "word": "老人让杀鱼后又不买遭商贩拦住大骂",
+      "onboard_time": 1690335993,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251102,
@@ -531,6 +555,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 233298,
+      "num": 233298,
+      "word": "台风杜苏芮将对上海产生影响",
+      "onboard_time": 1690334016,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228794,
       "num": 228794,
       "word": "芭比笑点",
@@ -553,6 +585,14 @@
       "onboard_time": 1690295742,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208506,
+      "num": 208506,
+      "word": "在大人的世界里小孩地位挺低的",
+      "onboard_time": 1690335629,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 207471,
@@ -587,20 +627,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197691,
-      "num": 197691,
-      "word": "台风杜苏芮将对上海产生影响",
-      "onboard_time": 1690334016,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192597,
       "num": 192597,
       "word": "阴阳师",
       "onboard_time": 1690334256,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189634,
+      "num": 189634,
+      "word": "相柳为什么不咬胳膊",
+      "onboard_time": 1690335813,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186770,
+      "num": 186770,
+      "word": "迈阿密国际vs亚特兰大联",
+      "onboard_time": 1690335392,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 184871,

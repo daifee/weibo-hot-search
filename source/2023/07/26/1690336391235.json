@@ -1,0 +1,410 @@
+{
+  "runTime": 1690336391235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2297842,
+        "num": 2297842,
+        "word": "王一博因身体不适将缺席热烈路演",
+        "onboard_time": 1690328068,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1586150,
+        "num": 1586150,
+        "word": "中式麻辣烫和韩式麻辣烫的区别",
+        "onboard_time": 1690333832,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78604,
+        "num": 1578463,
+        "word": "蓉宝去哪儿",
+        "onboard_time": 1690290158,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1573796,
+        "num": 1573796,
+        "word": "女大学生每月收千元神秘汇款真相令人泪目",
+        "onboard_time": 1690328731,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234706,
+        "num": 1234706,
+        "word": "卧底记者回应下架视频换缅甸放人",
+        "onboard_time": 1690305263,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004779,
+        "num": 1004779,
+        "word": "武汉地震监测中心遭美网络攻击",
+        "onboard_time": 1690335454,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 848149,
+        "num": 848149,
+        "word": "理解纣王成为纣王",
+        "onboard_time": 1690331977,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821499,
+        "num": 821499,
+        "word": "国产榴莲迎来首次上市",
+        "onboard_time": 1690333235,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728367,
+        "num": 728367,
+        "word": "姆巴佩的家人已准备接受沙特报价",
+        "onboard_time": 1690331017,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 688915,
+        "num": 688915,
+        "word": "付闻樱扮演者陈瑾采访魅力",
+        "onboard_time": 1690332098,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730763,
+        "num": 670628,
+        "word": "殡仪馆证实岳阳17岁男子中枪身亡",
+        "onboard_time": 1690295143,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652176,
+        "num": 652176,
+        "word": "台风杜苏芮",
+        "onboard_time": 1690327706,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506256,
+        "num": 506256,
+        "word": "叶十七 男绿茶",
+        "onboard_time": 1690295979,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485310,
+        "num": 485310,
+        "word": "十大地铁公司中4个明确不准喝水",
+        "onboard_time": 1690328068,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445041,
+        "num": 445041,
+        "word": "原来龙口粉丝不能空腹吃",
+        "onboard_time": 1690333357,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 412290,
+        "num": 412290,
+        "word": "尊重观众的女扮男装",
+        "onboard_time": 1690304363,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406105,
+        "num": 406105,
+        "word": "妈妈说我不一定要考公当老师",
+        "onboard_time": 1690332815,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395180,
+        "num": 395180,
+        "word": "长相思 雄竞修罗场",
+        "onboard_time": 1690298922,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382879,
+        "num": 382879,
+        "word": "熊猫园润专属耳朵",
+        "onboard_time": 1690333057,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362482,
+        "num": 362482,
+        "word": "周深说9年后又多了一个周深深",
+        "onboard_time": 1690327646,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692551,
+        "num": 360771,
+        "word": "为啥日本人能轻易认出中国人",
+        "onboard_time": 1690329333,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455869,
+        "num": 352574,
+        "word": "00后投200份简历面70家终获offer",
+        "onboard_time": 1690331259,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343788,
+        "num": 343788,
+        "word": "五月天南京",
+        "onboard_time": 1690334196,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333990,
+        "num": 333990,
+        "word": "布朗签下NBA历史最大合同",
+        "onboard_time": 1690332399,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299863,
+        "num": 299863,
+        "word": "长相思",
+        "onboard_time": 1690299636,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296547,
+        "num": 296547,
+        "word": "鸳鸯妈你发现没少了只崽",
+        "onboard_time": 1690334138,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289683,
+        "num": 289683,
+        "word": "陈都灵眼泪像断了线的珍珠",
+        "onboard_time": 1690333777,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279141,
+        "num": 279141,
+        "word": "西双版纳一猛男餐厅被查处",
+        "onboard_time": 1690326262,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277403,
+        "num": 277403,
+        "word": "梅西连场进球",
+        "onboard_time": 1690329691,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271709,
+        "num": 271709,
+        "word": "想对王一博说不可以也是可以的",
+        "onboard_time": 1690330896,
+        "rank": 29,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 1000711,
+        "num": 271099,
+        "word": "王俊凯助理都没有TFBOYS演唱会门票",
+        "onboard_time": 1690328368,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428087,
+        "num": 271099,
+        "word": "老外知道原创周杰伦在旁边吗",
+        "onboard_time": 1690336054,
+        "rank": 31,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 270452,
+        "num": 270452,
+        "word": "杨紫演技细节",
+        "onboard_time": 1690331737,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264948,
+        "num": 264948,
+        "word": "两姐妹失散37年后相拥而泣",
+        "onboard_time": 1690334316,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256010,
+        "num": 256010,
+        "word": "老人让杀鱼后又不买遭商贩拦住大骂",
+        "onboard_time": 1690335993,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233298,
+        "num": 233298,
+        "word": "台风杜苏芮将对上海产生影响",
+        "onboard_time": 1690334016,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232668,
+        "num": 232668,
+        "word": "调剂到了冷门专业",
+        "onboard_time": 1690331617,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229401,
+        "num": 229401,
+        "word": "施工安全不应是空话一句",
+        "onboard_time": 1690331017,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213789,
+        "num": 213789,
+        "word": "全员加速中",
+        "onboard_time": 1690329092,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218784,
+        "num": 212961,
+        "word": "吴亦凡至今已被拘押看守所近2年",
+        "onboard_time": 1690272937,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 208506,
+        "num": 208506,
+        "word": "在大人的世界里小孩地位挺低的",
+        "onboard_time": 1690335629,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201202,
+        "num": 201202,
+        "word": "未婚小姑帮带双胞胎侄子一周瘦8斤",
+        "onboard_time": 1690300596,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189634,
+        "num": 189634,
+        "word": "相柳为什么不咬胳膊",
+        "onboard_time": 1690335813,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186770,
+        "num": 186770,
+        "word": "迈阿密国际vs亚特兰大联",
+        "onboard_time": 1690335392,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171266,
+        "num": 171266,
+        "word": "大学生暑假工 我素未谋面的好朋友",
+        "onboard_time": 1690299937,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 169759,
+        "num": 169759,
+        "word": "肯德基回应男子吃出生牛蛙",
+        "onboard_time": 1690296037,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167090,
+        "num": 167090,
+        "word": "游客订蒙古包民宿床上爬11只黑虫",
+        "onboard_time": 1690326142,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166661,
+        "num": 166661,
+        "word": "EVERGLOW回归海报",
+        "onboard_time": 1690332276,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163490,
+        "num": 163490,
+        "word": "南京地铁通报乘客喝水被罚",
+        "onboard_time": 1690331434,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161054,
+        "num": 161054,
+        "word": "妈妈回家故意敲门3岁男童装没听到",
+        "onboard_time": 1690298623,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央为下半年经济工作划出重点#"
+    }
+  }
+}
