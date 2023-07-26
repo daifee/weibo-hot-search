@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690349630151,
+  "endTime": 1690352468470,
   "band_list": [
     {
       "raw_hot": 3221475,
@@ -107,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1415072,
+      "num": 1415072,
+      "word": "刘亦菲王楚然同框旧照",
+      "onboard_time": 1690350156,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1381528,
       "num": 505056,
       "word": "女子拍骨盆CT被要求撩裙露内裤",
@@ -121,6 +129,14 @@
       "onboard_time": 1690296640,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1207098,
+      "num": 434863,
+      "word": "张家界天门山一游客坠亡",
+      "onboard_time": 1690350937,
+      "rank": 10,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1198309,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 1012537,
-      "num": 538327,
+      "num": 1011549,
       "word": "男子在四姑娘山旅游时遇难",
       "onboard_time": 1690347161,
       "rank": 12,
@@ -201,6 +217,14 @@
       "onboard_time": 1690331017,
       "rank": 5,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 881154,
+      "num": 881154,
+      "word": "形式主义的安全检查真是够了",
+      "onboard_time": 1690347998,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 879121,
@@ -379,6 +403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 633442,
+      "num": 421337,
+      "word": "赵露思魏大勋版偷偷藏不住",
+      "onboard_time": 1690349317,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632758,
       "num": 579125,
       "word": "妈妈回家故意敲门3岁男童装没听到",
@@ -403,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582263,
+      "num": 416296,
+      "word": "长相思思的是谁",
+      "onboard_time": 1690349738,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 568715,
       "num": 352574,
       "word": "00后投200份简历面70家终获offer",
@@ -419,20 +459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 511053,
-      "num": 459208,
-      "word": "形式主义的安全检查真是够了",
-      "onboard_time": 1690347998,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505082,
       "num": 507482,
       "word": "金正恩拜谒中国人民志愿军烈士陵园",
       "onboard_time": 1690338453,
       "rank": 33,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 501162,
+      "num": 406755,
+      "word": "阿饭泽泽官宣",
+      "onboard_time": 1690349197,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 493502,
@@ -499,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 435596,
+      "num": 412600,
+      "word": "17岁男孩中枪身亡亲属称已和解",
+      "onboard_time": 1690351357,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433468,
       "num": 227665,
       "word": "京东崩了",
@@ -529,6 +577,14 @@
       "onboard_time": 1690327646,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404428,
+      "num": 372892,
+      "word": "牛骏峰片场抱着杨紫转圈",
+      "onboard_time": 1690349497,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 396894,
@@ -563,28 +619,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 381540,
-      "num": 373365,
-      "word": "阿饭泽泽官宣",
-      "onboard_time": 1690349197,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376273,
       "num": 314540,
       "word": "大学生暑假工 我素未谋面的好朋友",
       "onboard_time": 1690299937,
       "rank": 21,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 372892,
-      "num": 372892,
-      "word": "牛骏峰片场抱着杨紫转圈",
-      "onboard_time": 1690349497,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 371626,
@@ -609,14 +649,6 @@
       "onboard_time": 1690335993,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354078,
-      "num": 354078,
-      "word": "赵露思魏大勋版偷偷藏不住",
-      "onboard_time": 1690349317,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 351816,
@@ -699,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322627,
+      "num": 281935,
+      "word": "TFBOYS五年前的信",
+      "onboard_time": 1690350815,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 322567,
       "num": 315403,
       "word": "西双版纳一猛男餐厅被查处",
@@ -752,6 +792,14 @@
       "word": "陈都灵眼泪像断了线的珍珠",
       "onboard_time": 1690333777,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 305845,
+      "num": 278757,
+      "word": "相柳有自己的私人飞鸡",
+      "onboard_time": 1690350937,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -817,6 +865,14 @@
       "onboard_time": 1690334316,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272024,
+      "num": 272024,
+      "word": "山西一饭店顾客吃米线倒醋洗碗",
+      "onboard_time": 1690350697,
+      "rank": 28,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 269601,
@@ -899,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246839,
+      "num": 246839,
+      "word": "大鹏穿青蛙服热烈宣传热烈",
+      "onboard_time": 1690351357,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246825,
       "num": 219094,
       "word": "偶像便利店",
@@ -945,6 +1009,14 @@
       "onboard_time": 1690299577,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228023,
+      "num": 228023,
+      "word": "云南菌子才是最省钱的VR技术",
+      "onboard_time": 1690349497,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 221859,
@@ -1035,12 +1107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200225,
-      "num": 213599,
-      "word": "云南菌子才是最省钱的VR技术",
-      "onboard_time": 1690349497,
-      "rank": 47,
-      "category": "科技,社会新闻"
+      "raw_hot": 200143,
+      "num": 206304,
+      "word": "大摆锤上游客呕吐底下排队人遭殃",
+      "onboard_time": 1690352375,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 198501,
@@ -1177,6 +1249,14 @@
       "onboard_time": 1690295079,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163617,
+      "num": 201679,
+      "word": "剧组拍戏封路居民怒斥谁给的权力",
+      "onboard_time": 1690349257,
+      "rank": 49,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 156898,
