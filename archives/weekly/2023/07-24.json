@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690384632782,
+  "endTime": 1690385646857,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -867,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211342,
+      "num": 1211342,
+      "word": "研究生称坐5小时高铁跨省面试被鸽",
+      "onboard_time": 1690381120,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1204532,
       "num": 560280,
       "word": "这竟然是余文乐",
@@ -1019,14 +1027,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 1112005,
-      "num": 1112005,
-      "word": "研究生称坐5小时高铁跨省面试被鸽",
-      "onboard_time": 1690381120,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1102295,
       "num": 1102295,
       "word": "1只大熊猫被10只一级重点保护动物围观",
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 1073414,
-      "num": 503013,
+      "num": 508485,
       "word": "英少女遭哥哥性侵弃尸后再遭男子侵犯",
       "onboard_time": 1690371519,
       "rank": 21,
@@ -1699,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 783985,
+      "num": 783985,
+      "word": "暑假工已经渗透到商家内部啦",
+      "onboard_time": 1690380220,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 782716,
       "num": 782716,
       "word": "大熊猫翘起jiojio点头示意奶爸按脚",
@@ -1875,14 +1883,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 742957,
-      "num": 742957,
-      "word": "暑假工已经渗透到商家内部啦",
-      "onboard_time": 1690380220,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 735048,
       "num": 735048,
       "word": "剃寸头 长发缝",
@@ -2057,6 +2057,14 @@
       "onboard_time": 1690156167,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 675750,
+      "num": 635891,
+      "word": "没想到小鸟的肚子长这样",
+      "onboard_time": 1690382323,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 673896,
@@ -2611,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 574083,
+      "num": 574083,
+      "word": "封神成本30亿",
+      "onboard_time": 1690384123,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 574010,
       "num": 574010,
       "word": "罗云熙宋轶新剧大婚路透",
@@ -2705,14 +2721,6 @@
       "onboard_time": 1690261844,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 557185,
-      "num": 557185,
-      "word": "没想到小鸟的肚子长这样",
-      "onboard_time": 1690382323,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 556059,
@@ -3051,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494996,
+      "num": 494996,
+      "word": "江宏杰将召开记者会控诉福原爱",
+      "onboard_time": 1690384840,
+      "rank": 21,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 493502,
       "num": 493502,
       "word": "TFBOYS如果睁眼便是十年后",
@@ -3369,6 +3385,14 @@
       "onboard_time": 1690174959,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444649,
+      "num": 444649,
+      "word": "封神",
+      "onboard_time": 1690112732,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 444420,
@@ -3851,14 +3875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391550,
-      "num": 391550,
-      "word": "封神",
-      "onboard_time": 1690112732,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 389371,
       "num": 389371,
       "word": "孟宴臣立大功",
@@ -4019,6 +4035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370403,
+      "num": 370403,
+      "word": "魏大勋后援会回应戏份被删",
+      "onboard_time": 1690384602,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369088,
       "num": 369088,
       "word": "坍塌事故背后的齐齐哈尔曾走出多名国手",
@@ -4171,12 +4195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355510,
+      "num": 355510,
+      "word": "夭璟",
+      "onboard_time": 1690383165,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353989,
       "num": 353989,
       "word": "i人喜欢独处的真实原因",
       "onboard_time": 1690164692,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 353073,
+      "num": 353073,
+      "word": "性同意没有模糊的界限",
+      "onboard_time": 1690385439,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 352918,
@@ -4265,14 +4305,6 @@
       "onboard_time": 1690250372,
       "rank": 31,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 347678,
-      "num": 347678,
-      "word": "夭璟",
-      "onboard_time": 1690383165,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 345970,
@@ -4377,14 +4409,6 @@
       "onboard_time": 1690181019,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 337657,
-      "num": 337657,
-      "word": "封神成本30亿",
-      "onboard_time": 1690384123,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 337300,
@@ -4683,6 +4707,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 317477,
+      "num": 317477,
+      "word": "叶舒华白色吊带",
+      "onboard_time": 1690383823,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 316720,
       "num": 296248,
       "word": "迪丽热巴和三万水狮的合照",
@@ -4859,12 +4891,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301240,
+      "num": 301240,
+      "word": "哥哥第一次带女朋友回家",
+      "onboard_time": 1690385021,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299818,
       "num": 299818,
       "word": "宝宝昏睡不醒月嫂包里发现安眠药",
       "onboard_time": 1690244374,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299407,
+      "num": 299407,
+      "word": "许沁脖子不酸吗",
+      "onboard_time": 1690384241,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 297675,
@@ -5057,14 +5105,6 @@
       "onboard_time": 1690243353,
       "rank": 36,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 281380,
-      "num": 281380,
-      "word": "叶舒华白色吊带",
-      "onboard_time": 1690383823,
-      "rank": 40,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 281253,
@@ -5371,14 +5411,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 259469,
-      "num": 259469,
-      "word": "许沁脖子不酸吗",
-      "onboard_time": 1690384241,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 259442,
       "num": 259442,
       "word": "王鹤棣没少看甄嬛传吧",
@@ -5401,6 +5433,14 @@
       "onboard_time": 1690186713,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258134,
+      "num": 258134,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1690383462,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 257953,
@@ -5465,14 +5505,6 @@
       "onboard_time": 1690370558,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252836,
-      "num": 252836,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1690383462,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 252557,
@@ -5953,14 +5985,6 @@
       "onboard_time": 1690359097,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221131,
-      "num": 221131,
-      "word": "魏大勋后援会回应戏份被删",
-      "onboard_time": 1690384602,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 220555,
