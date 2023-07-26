@@ -1,0 +1,410 @@
+{
+  "runTime": 1690370032106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1479012,
+        "num": 1479012,
+        "word": "第一批成人小饭桌已经倒闭了",
+        "onboard_time": 1690362349,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601717,
+        "num": 1196446,
+        "word": "姐弟捡31部总价超21万手机上交民警",
+        "onboard_time": 1690365042,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61765,
+        "num": 1193205,
+        "word": "大运会里的中国风巴蜀韵",
+        "onboard_time": 1690362885,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1192736,
+        "num": 1192736,
+        "word": "学硕要退场了吗",
+        "onboard_time": 1690363371,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 271225,
+        "num": 882633,
+        "word": "孩子跟着青蛙妈妈捣乱被拉住亲亲",
+        "onboard_time": 1690366424,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873368,
+        "num": 873368,
+        "word": "如果微信显示对方已删除的话",
+        "onboard_time": 1690364925,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225086,
+        "num": 722504,
+        "word": "10岁男孩进派出所送西瓜后百米冲刺离开",
+        "onboard_time": 1690365042,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714344,
+        "num": 714344,
+        "word": "秦昊的婚姻观真的好正",
+        "onboard_time": 1690363844,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592719,
+        "num": 592719,
+        "word": "杨洋切菜切到手背",
+        "onboard_time": 1690359758,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 590886,
+        "num": 590886,
+        "word": "美国为何会攻击中国的地震监测中心",
+        "onboard_time": 1690364507,
+        "rank": 9,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 1755241,
+        "num": 590237,
+        "word": "肖战邓为撞脸",
+        "onboard_time": 1690365586,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1397958,
+        "num": 589764,
+        "word": "王一博 不是因为工作太累导致身体不适",
+        "onboard_time": 1690346620,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588815,
+        "num": 588815,
+        "word": "泫雅音乐节短裙造型",
+        "onboard_time": 1690366842,
+        "rank": 12,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 482043,
+        "num": 482043,
+        "word": "BLACKPINK的芭比造型",
+        "onboard_time": 1690361627,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33525,
+        "num": 475928,
+        "word": "说唱巅峰对决后劲太强",
+        "onboard_time": 1690369479,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471988,
+        "num": 471988,
+        "word": "警方回应女子在KTV遭性侵偷拍",
+        "onboard_time": 1690368579,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453473,
+        "num": 453473,
+        "word": "张家界天门山一游客坠亡",
+        "onboard_time": 1690350937,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 435353,
+        "num": 435353,
+        "word": "可乐已经给过小朋友两次机会了",
+        "onboard_time": 1690367381,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 424770,
+        "num": 424770,
+        "word": "TFBOYS中国第一批autotune玩家",
+        "onboard_time": 1690368102,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396350,
+        "num": 396350,
+        "word": "张艺兴鹿晗黄子韬会和EXO聚一下吗",
+        "onboard_time": 1690357955,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396175,
+        "num": 396175,
+        "word": "陈飞宇你知道魏大勋为啥跟你老师是同学了吧",
+        "onboard_time": 1690369001,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367068,
+        "num": 367068,
+        "word": "成毅最有cp感的女主",
+        "onboard_time": 1690368222,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363705,
+        "num": 363705,
+        "word": "从家里翻出来一盒黄金",
+        "onboard_time": 1690366664,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351152,
+        "num": 351152,
+        "word": "时代峰峻画了十年的饼",
+        "onboard_time": 1690368638,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305663,
+        "num": 347960,
+        "word": "养狗的和减肥的都沉默了",
+        "onboard_time": 1690359877,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347662,
+        "num": 347662,
+        "word": "邓为男妲己",
+        "onboard_time": 1690368462,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332919,
+        "num": 332919,
+        "word": "封神妲己断尾报恩",
+        "onboard_time": 1690365643,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305513,
+        "num": 305513,
+        "word": "王鹤棣范丞丞魏大勋白敬亭脸上痣",
+        "onboard_time": 1690364986,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289350,
+        "num": 289350,
+        "word": "暧昧对象的下头瞬间",
+        "onboard_time": 1690365586,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225931,
+        "num": 287764,
+        "word": "北京彩虹",
+        "onboard_time": 1690369182,
+        "rank": 29,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 292733,
+        "num": 287087,
+        "word": "TFBOYS最好的那年现在听真的好像告别",
+        "onboard_time": 1690365407,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286270,
+        "num": 286270,
+        "word": "刘亦菲王楚然同框旧照",
+        "onboard_time": 1690350156,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283271,
+        "num": 283271,
+        "word": "没什么就是想说订婚了",
+        "onboard_time": 1690366188,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283009,
+        "num": 283009,
+        "word": "范丞丞的微博背景",
+        "onboard_time": 1690369541,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273680,
+        "num": 273680,
+        "word": "田曦薇新中式穿搭",
+        "onboard_time": 1690369361,
+        "rank": 34,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 256554,
+        "num": 256554,
+        "word": "浪姐5拟邀阵容",
+        "onboard_time": 1690361444,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251366,
+        "num": 251366,
+        "word": "看出来张晚意真的很急",
+        "onboard_time": 1690362407,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249292,
+        "num": 249292,
+        "word": "5岁哥哥把4岁妹妹推上公交自己跑开",
+        "onboard_time": 1690354894,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238487,
+        "num": 238487,
+        "word": "女子拍骨盆CT被要求撩裙露内裤",
+        "onboard_time": 1690342176,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204904,
+        "num": 231348,
+        "word": "剃寸头 长发缝",
+        "onboard_time": 1690361444,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243315,
+        "num": 229462,
+        "word": "叶十七婚后生活",
+        "onboard_time": 1690368342,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227481,
+        "num": 227481,
+        "word": "NewJeans得1位后的表情对比",
+        "onboard_time": 1690364567,
+        "rank": 41,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 210164,
+        "num": 210164,
+        "word": "迪丽热巴玩密室是跪地担当",
+        "onboard_time": 1690361925,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195076,
+        "num": 210163,
+        "word": "赵有亮去世",
+        "onboard_time": 1690346140,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193366,
+        "num": 210162,
+        "word": "110元点了11道菜",
+        "onboard_time": 1690357415,
+        "rank": 44,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 191711,
+        "num": 210161,
+        "word": "李玟追悼会流程",
+        "onboard_time": 1690369958,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175245,
+        "num": 210161,
+        "word": "中方回应武汉地震监测中心遭网络攻击",
+        "onboard_time": 1690364746,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 165834,
+        "num": 210159,
+        "word": "无畏轮换",
+        "onboard_time": 1690366366,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161839,
+        "num": 210158,
+        "word": "驾校的狗尾巴草不能拔了",
+        "onboard_time": 1690360781,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146439,
+        "num": 210157,
+        "word": "腾讯科技深圳公司新增房地产业务",
+        "onboard_time": 1690363371,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续开展生态修复和环境污染治理工程#"
+    }
+  }
+}

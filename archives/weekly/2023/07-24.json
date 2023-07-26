@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690367636986,
+  "endTime": 1690370032106,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1948787,
-      "num": 572879,
+      "num": 590237,
       "word": "肖战邓为撞脸",
       "onboard_time": 1690365586,
       "rank": 11,
@@ -2243,6 +2243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 601717,
+      "num": 1412631,
+      "word": "姐弟捡31部总价超21万手机上交民警",
+      "onboard_time": 1690365042,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597065,
       "num": 485332,
       "word": "长相思直播",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1690154724,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590886,
+      "num": 590886,
+      "word": "美国为何会攻击中国的地震监测中心",
+      "onboard_time": 1690364507,
+      "rank": 14,
+      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 590577,
@@ -2281,6 +2297,14 @@
       "onboard_time": 1690184796,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588815,
+      "num": 588815,
+      "word": "泫雅音乐节短裙造型",
+      "onboard_time": 1690366842,
+      "rank": 19,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 586145,
@@ -2363,14 +2387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573360,
-      "num": 573360,
-      "word": "美国为何会攻击中国的地震监测中心",
-      "onboard_time": 1690364507,
-      "rank": 14,
-      "category": "国内要闻,社会新闻"
-    },
-    {
       "raw_hot": 571872,
       "num": 571872,
       "word": "躺着真舒服",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1690337853,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 559510,
-      "num": 1412631,
-      "word": "姐弟捡31部总价超21万手机上交民警",
-      "onboard_time": 1690365042,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558677,
@@ -2851,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471988,
+      "num": 471988,
+      "word": "警方回应女子在KTV遭性侵偷拍",
+      "onboard_time": 1690368579,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471556,
       "num": 471556,
       "word": "杨洋被泼水时王楚然的眼神",
@@ -3155,6 +3171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435353,
+      "num": 435353,
+      "word": "可乐已经给过小朋友两次机会了",
+      "onboard_time": 1690367381,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 434853,
       "num": 434853,
       "word": "比亚迪起诉汽车博主索赔500万",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1690254877,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 424770,
+      "num": 424770,
+      "word": "TFBOYS中国第一批autotune玩家",
+      "onboard_time": 1690368102,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 424016,
@@ -3459,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396175,
+      "num": 396175,
+      "word": "陈飞宇你知道魏大勋为啥跟你老师是同学了吧",
+      "onboard_time": 1690369001,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 396013,
       "num": 396013,
       "word": "魏大勋机场私服",
@@ -3513,14 +3553,6 @@
       "onboard_time": 1690337251,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 386869,
-      "num": 386869,
-      "word": "泫雅音乐节短裙造型",
-      "onboard_time": 1690366842,
-      "rank": 19,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 384326,
@@ -3673,6 +3705,14 @@
       "onboard_time": 1690352497,
       "rank": 23,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 367068,
+      "num": 367068,
+      "word": "成毅最有cp感的女主",
+      "onboard_time": 1690368222,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 366626,
@@ -3843,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351152,
+      "num": 351152,
+      "word": "时代峰峻画了十年的饼",
+      "onboard_time": 1690368638,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350029,
       "num": 350029,
       "word": "原来兔子有两个独立的子宫",
@@ -3857,6 +3905,14 @@
       "onboard_time": 1690250372,
       "rank": 31,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 347662,
+      "num": 347662,
+      "word": "邓为男妲己",
+      "onboard_time": 1690368462,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 345970,
@@ -4009,6 +4065,14 @@
       "onboard_time": 1690191633,
       "rank": 25,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 332919,
+      "num": 332919,
+      "word": "封神妲己断尾报恩",
+      "onboard_time": 1690365643,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 331558,
@@ -4193,14 +4257,6 @@
       "onboard_time": 1690354295,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321828,
-      "num": 321828,
-      "word": "封神妲己断尾报恩",
-      "onboard_time": 1690365643,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 321814,
@@ -4571,6 +4627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283009,
+      "num": 283009,
+      "word": "范丞丞的微博背景",
+      "onboard_time": 1690369541,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282103,
       "num": 282103,
       "word": "工作后真的有必要用两个微信",
@@ -4659,6 +4723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273680,
+      "num": 273680,
+      "word": "田曦薇新中式穿搭",
+      "onboard_time": 1690369361,
+      "rank": 34,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 272757,
       "num": 272757,
       "word": "全员加速中",
@@ -4697,6 +4769,14 @@
       "onboard_time": 1690243954,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271225,
+      "num": 1151290,
+      "word": "孩子跟着青蛙妈妈捣乱被拉住亲亲",
+      "onboard_time": 1690366424,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271114,
@@ -4891,14 +4971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255436,
-      "num": 1151290,
-      "word": "孩子跟着青蛙妈妈捣乱被拉住亲亲",
-      "onboard_time": 1690366424,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254683,
       "num": 227022,
       "word": "angel采访",
@@ -5040,6 +5112,14 @@
       "word": "王一博粉丝带娃看热烈",
       "onboard_time": 1690124917,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 243315,
+      "num": 229462,
+      "word": "叶十七婚后生活",
+      "onboard_time": 1690368342,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -5275,6 +5355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225931,
+      "num": 287764,
+      "word": "北京彩虹",
+      "onboard_time": 1690369182,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
       "raw_hot": 225785,
       "num": 225785,
       "word": "热烈",
@@ -5297,6 +5385,14 @@
       "onboard_time": 1690169137,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225086,
+      "num": 1106717,
+      "word": "10岁男孩进派出所送西瓜后百米冲刺离开",
+      "onboard_time": 1690365042,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223636,
@@ -5457,14 +5553,6 @@
       "onboard_time": 1690181019,
       "rank": 38,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 209608,
-      "num": 1106717,
-      "word": "10岁男孩进派出所送西瓜后百米冲刺离开",
-      "onboard_time": 1690365042,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208506,
@@ -5867,6 +5955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191711,
+      "num": 210161,
+      "word": "李玟追悼会流程",
+      "onboard_time": 1690369958,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191695,
       "num": 191695,
       "word": "大学生回老家唯一的作用",
@@ -6017,14 +6113,6 @@
       "onboard_time": 1690162771,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185065,
-      "num": 224114,
-      "word": "可乐已经给过小朋友两次机会了",
-      "onboard_time": 1690367381,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 184871,
@@ -6769,6 +6857,14 @@
       "onboard_time": 1690225754,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 33525,
+      "num": 475928,
+      "word": "说唱巅峰对决后劲太强",
+      "onboard_time": 1690369479,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 31492,

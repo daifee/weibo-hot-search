@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690367636986,
+  "endTime": 1690370032106,
   "band_list": [
     {
       "raw_hot": 4482079,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1948787,
-      "num": 572879,
+      "num": 590237,
       "word": "肖战邓为撞脸",
       "onboard_time": 1690365586,
       "rank": 11,
@@ -603,12 +603,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601717,
+      "num": 1412631,
+      "word": "姐弟捡31部总价超21万手机上交民警",
+      "onboard_time": 1690365042,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590886,
+      "num": 590886,
+      "word": "美国为何会攻击中国的地震监测中心",
+      "onboard_time": 1690364507,
+      "rank": 14,
+      "category": "国内要闻,社会新闻"
+    },
+    {
       "raw_hot": 590577,
       "num": 411480,
       "word": "未婚小姑帮带双胞胎侄子一周瘦8斤",
       "onboard_time": 1690300596,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588815,
+      "num": 588815,
+      "word": "泫雅音乐节短裙造型",
+      "onboard_time": 1690366842,
+      "rank": 19,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 586040,
@@ -643,14 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573360,
-      "num": 573360,
-      "word": "美国为何会攻击中国的地震监测中心",
-      "onboard_time": 1690364507,
-      "rank": 14,
-      "category": "国内要闻,社会新闻"
-    },
-    {
       "raw_hot": 568715,
       "num": 352574,
       "word": "00后投200份简历面70家终获offer",
@@ -665,14 +681,6 @@
       "onboard_time": 1690337853,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 559510,
-      "num": 1412631,
-      "word": "姐弟捡31部总价超21万手机上交民警",
-      "onboard_time": 1690365042,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 549766,
@@ -747,6 +755,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 471988,
+      "num": 471988,
+      "word": "警方回应女子在KTV遭性侵偷拍",
+      "onboard_time": 1690368579,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469975,
       "num": 469975,
       "word": "柬埔寨首相洪森辞职",
@@ -819,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 435353,
+      "num": 435353,
+      "word": "可乐已经给过小朋友两次机会了",
+      "onboard_time": 1690367381,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 433468,
       "num": 227665,
       "word": "京东崩了",
@@ -841,6 +865,14 @@
       "onboard_time": 1690343795,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424770,
+      "num": 424770,
+      "word": "TFBOYS中国第一批autotune玩家",
+      "onboard_time": 1690368102,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 419155,
@@ -883,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396175,
+      "num": 396175,
+      "word": "陈飞宇你知道魏大勋为啥跟你老师是同学了吧",
+      "onboard_time": 1690369001,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 392024,
       "num": 287805,
       "word": "官方通报男子光屁股大街上被拖行",
@@ -905,14 +945,6 @@
       "onboard_time": 1690337251,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 386869,
-      "num": 386869,
-      "word": "泫雅音乐节短裙造型",
-      "onboard_time": 1690366842,
-      "rank": 19,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 383126,
@@ -971,6 +1003,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 367068,
+      "num": 367068,
+      "word": "成毅最有cp感的女主",
+      "onboard_time": 1690368222,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363376,
       "num": 287727,
       "word": "女子把婴儿放在马路中间后离开",
@@ -1025,6 +1065,22 @@
       "onboard_time": 1690336473,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351152,
+      "num": 351152,
+      "word": "时代峰峻画了十年的饼",
+      "onboard_time": 1690368638,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 347662,
+      "num": 347662,
+      "word": "邓为男妲己",
+      "onboard_time": 1690368462,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 345970,
@@ -1091,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332919,
+      "num": 332919,
+      "word": "封神妲己断尾报恩",
+      "onboard_time": 1690365643,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330578,
       "num": 301440,
       "word": "陈祉希",
@@ -1129,14 +1193,6 @@
       "onboard_time": 1690354295,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321828,
-      "num": 321828,
-      "word": "封神妲己断尾报恩",
-      "onboard_time": 1690365643,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 321814,
@@ -1267,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283009,
+      "num": 283009,
+      "word": "范丞丞的微博背景",
+      "onboard_time": 1690369541,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278440,
       "num": 278440,
       "word": "十七看到小六脖子上的咬痕的反应",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1690358433,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273680,
+      "num": 273680,
+      "word": "田曦薇新中式穿搭",
+      "onboard_time": 1690369361,
+      "rank": 34,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 272757,
@@ -1313,6 +1385,14 @@
       "onboard_time": 1690363371,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 271225,
+      "num": 1151290,
+      "word": "孩子跟着青蛙妈妈捣乱被拉住亲亲",
+      "onboard_time": 1690366424,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269601,
@@ -1411,14 +1491,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 255436,
-      "num": 1151290,
-      "word": "孩子跟着青蛙妈妈捣乱被拉住亲亲",
-      "onboard_time": 1690366424,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251287,
       "num": 251287,
       "word": "北方室友不理解太阳下山",
@@ -1472,6 +1544,14 @@
       "word": "成毅戴金丝眼镜",
       "onboard_time": 1690343257,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 243315,
+      "num": 229462,
+      "word": "叶十七婚后生活",
+      "onboard_time": 1690368342,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1547,6 +1627,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225931,
+      "num": 287764,
+      "word": "北京彩虹",
+      "onboard_time": 1690369182,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 225086,
+      "num": 1106717,
+      "word": "10岁男孩进派出所送西瓜后百米冲刺离开",
+      "onboard_time": 1690365042,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223636,
       "num": 207026,
       "word": "姚晨关晓彤邬桑回归非诚勿扰3",
@@ -1600,14 +1696,6 @@
       "word": "韩国的水果价格有多离谱",
       "onboard_time": 1690295742,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209608,
-      "num": 1106717,
-      "word": "10岁男孩进派出所送西瓜后百米冲刺离开",
-      "onboard_time": 1690365042,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1755,6 +1843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191711,
+      "num": 210161,
+      "word": "李玟追悼会流程",
+      "onboard_time": 1690369958,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189634,
       "num": 189634,
       "word": "相柳为什么不咬胳膊",
@@ -1817,14 +1913,6 @@
       "onboard_time": 1690363606,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185065,
-      "num": 224114,
-      "word": "可乐已经给过小朋友两次机会了",
-      "onboard_time": 1690367381,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 184871,
@@ -2153,6 +2241,14 @@
       "onboard_time": 1690362706,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33525,
+      "num": 475928,
+      "word": "说唱巅峰对决后劲太强",
+      "onboard_time": 1690369479,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 26114,
