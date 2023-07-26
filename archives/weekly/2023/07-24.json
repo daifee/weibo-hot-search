@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690402565938,
+  "endTime": 1690403641392,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -7467,6 +7467,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 87668,
+      "num": 56922,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86223,
       "num": 86223,
       "word": "怦然3全员吃瓜滕光正",
@@ -7521,14 +7529,6 @@
       "onboard_time": 1690390107,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 74895,
-      "num": 30311,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73586,
@@ -7729,6 +7729,14 @@
       "onboard_time": 1690398734,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18869,
+      "num": 28701,
+      "word": "当年爆红的刀郎这些年去哪了",
+      "onboard_time": 1690402993,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 17554,
