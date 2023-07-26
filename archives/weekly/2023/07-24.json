@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690395644140,
+  "endTime": 1690396444333,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -7339,6 +7339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113757,
+      "num": 103719,
+      "word": "杨紫最有cp感男主",
+      "onboard_time": 1690394117,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111381,
       "num": 111381,
       "word": "吴亦凡名誉权案会改判么",
@@ -7385,14 +7393,6 @@
       "onboard_time": 1690240827,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101181,
-      "num": 101181,
-      "word": "杨紫最有cp感男主",
-      "onboard_time": 1690394117,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 97832,
@@ -7595,6 +7595,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 58247,
+      "num": 81856,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1690395436,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57335,
       "num": 224714,
       "word": "长春航空展表演",
@@ -7609,14 +7617,6 @@
       "onboard_time": 1690275999,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 51413,
-      "num": 81856,
-      "word": "密室大逃脱大神版",
-      "onboard_time": 1690395436,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 50647,
