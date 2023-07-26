@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690407226035,
+  "endTime": 1690409733677,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -411,8 +411,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 123951,
-      "num": 60603,
+      "raw_hot": 146655,
+      "num": 146655,
       "word": "中缅将再次联手打击缅北诈骗分子",
       "onboard_time": 1690400173,
       "rank": 30,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83406,
+      "num": 83406,
+      "word": "活该涂山璟有老婆",
+      "onboard_time": 1690397775,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 81033,
       "num": 105946,
       "word": "汪苏泷造型师哪位",
@@ -473,14 +481,6 @@
       "onboard_time": 1690390107,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63906,
-      "num": 63906,
-      "word": "活该涂山璟有老婆",
-      "onboard_time": 1690397775,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 63440,
@@ -499,12 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41095,
-      "num": 41095,
+      "raw_hot": 56418,
+      "num": 56418,
       "word": "当年爆红的刀郎这些年去哪了",
       "onboard_time": 1690402993,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41648,
+      "num": 41648,
+      "word": "Wayward 菜",
+      "onboard_time": 1690404193,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 37967,
@@ -523,12 +531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 31627,
-      "num": 40590,
-      "word": "Wayward 菜",
-      "onboard_time": 1690404193,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 33253,
+      "num": 40239,
+      "word": "30 50 80的理发师有没有区别",
+      "onboard_time": 1690403353,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 22844,
