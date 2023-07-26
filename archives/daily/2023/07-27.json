@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690406085219,
+  "endTime": 1690407226035,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -411,20 +411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123951,
+      "num": 60603,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117701,
       "num": 144506,
       "word": "揭秘魔术背后真相",
       "onboard_time": 1690389089,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116638,
-      "num": 56922,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113757,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41095,
+      "num": 41095,
+      "word": "当年爆红的刀郎这些年去哪了",
+      "onboard_time": 1690402993,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37967,
       "num": 1627000,
       "word": "各大高校接力为大运会加油",
@@ -515,15 +523,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 36071,
-      "num": 40599,
-      "word": "当年爆红的刀郎这些年去哪了",
-      "onboard_time": 1690402993,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28228,
+      "raw_hot": 31627,
       "num": 40590,
       "word": "Wayward 菜",
       "onboard_time": 1690404193,

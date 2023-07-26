@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690406085219,
+  "endTime": 1690407226035,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -60035,6 +60035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123951,
+      "num": 60603,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123771,
       "num": 503585,
       "word": "厨房做饭居然会中暑",
@@ -60241,14 +60249,6 @@
       "onboard_time": 1689112153,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 116638,
-      "num": 56922,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116199,
@@ -62707,6 +62707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 41095,
+      "num": 41095,
+      "word": "当年爆红的刀郎这些年去哪了",
+      "onboard_time": 1690402993,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40431,
       "num": 1461066,
       "word": "要促进民营经济做大做优做强",
@@ -62875,14 +62883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36071,
-      "num": 40599,
-      "word": "当年爆红的刀郎这些年去哪了",
-      "onboard_time": 1690402993,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35631,
       "num": 203342,
       "word": "王鹤棣导航太上头了",
@@ -63035,6 +63035,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 31627,
+      "num": 40590,
+      "word": "Wayward 菜",
+      "onboard_time": 1690404193,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31492,
       "num": 1362622,
       "word": "这个夏天共赴青春盛会",
@@ -63161,14 +63169,6 @@
       "onboard_time": 1690140252,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28228,
-      "num": 40590,
-      "word": "Wayward 菜",
-      "onboard_time": 1690404193,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 28124,
