@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690366660360,
+  "endTime": 1690367636986,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -283,6 +283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1948787,
+      "num": 572879,
+      "word": "肖战邓为撞脸",
+      "onboard_time": 1690365586,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1942335,
       "num": 1942335,
       "word": "400万人的抢票第一次参加",
@@ -347,8 +355,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1769554,
-      "num": 1769554,
+      "raw_hot": 1775377,
+      "num": 1775377,
       "word": "第一批成人小饭桌已经倒闭了",
       "onboard_time": 1690362349,
       "rank": 20,
@@ -611,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1405283,
-      "num": 568029,
-      "word": "肖战邓为撞脸",
-      "onboard_time": 1690365586,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1391322,
       "num": 1391322,
       "word": "TES战胜EDG",
@@ -707,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1329167,
+      "num": 1329167,
+      "word": "学硕要退场了吗",
+      "onboard_time": 1690363371,
+      "rank": 20,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1318539,
       "num": 458818,
       "word": "男子游泳大便致泳池被抽干",
@@ -753,14 +761,6 @@
       "onboard_time": 1690272396,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1279820,
-      "num": 1279820,
-      "word": "学硕要退场了吗",
-      "onboard_time": 1690363371,
-      "rank": 20,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1264463,
@@ -979,6 +979,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1040196,
+      "num": 1040196,
+      "word": "如果微信显示对方已删除的话",
+      "onboard_time": 1690364925,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1037644,
       "num": 1037644,
       "word": "为什么有些水果不甜却容易长胖",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1690243774,
       "rank": 7,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 989899,
-      "num": 989899,
-      "word": "如果微信显示对方已删除的话",
-      "onboard_time": 1690364925,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 977944,
@@ -1660,7 +1660,7 @@
     },
     {
       "raw_hot": 745094,
-      "num": 557443,
+      "num": 572871,
       "word": "BLACKPINK的芭比造型",
       "onboard_time": 1690361627,
       "rank": 8,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1690267302,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 731934,
+      "num": 731934,
+      "word": "秦昊的婚姻观真的好正",
+      "onboard_time": 1690363844,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 729569,
@@ -1888,14 +1896,6 @@
       "word": "TFBOYS可以加盟跑男吗",
       "onboard_time": 1690259559,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 666603,
-      "num": 556349,
-      "word": "秦昊的婚姻观真的好正",
-      "onboard_time": 1690363844,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -2363,6 +2363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573360,
+      "num": 573360,
+      "word": "美国为何会攻击中国的地震监测中心",
+      "onboard_time": 1690364507,
+      "rank": 14,
+      "category": "国内要闻,社会新闻"
+    },
+    {
       "raw_hot": 571872,
       "num": 571872,
       "word": "躺着真舒服",
@@ -2411,6 +2419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559510,
+      "num": 1412631,
+      "word": "姐弟捡31部总价超21万手机上交民警",
+      "onboard_time": 1690365042,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558677,
       "num": 558677,
       "word": "Uzi",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1690241728,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550940,
-      "num": 550940,
-      "word": "美国为何会攻击中国的地震监测中心",
-      "onboard_time": 1690364507,
-      "rank": 14,
-      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 549902,
@@ -2721,6 +2729,14 @@
       "onboard_time": 1690268500,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497831,
+      "num": 383195,
+      "word": "没什么就是想说订婚了",
+      "onboard_time": 1690366188,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 497765,
@@ -3035,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 444347,
-      "num": 320647,
-      "word": "没什么就是想说订婚了",
-      "onboard_time": 1690366188,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 443443,
       "num": 414651,
       "word": "心动的信号",
@@ -3121,6 +3129,14 @@
       "onboard_time": 1690176217,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 437200,
+      "num": 376303,
+      "word": "从家里翻出来一盒黄金",
+      "onboard_time": 1690366664,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 437071,
@@ -3307,6 +3323,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 411998,
+      "num": 411998,
+      "word": "TFBOYS最好的那年现在听真的好像告别",
+      "onboard_time": 1690365407,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411283,
       "num": 400960,
       "word": "TFBOYS每家都有合作的电池品牌",
@@ -3467,6 +3491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388582,
+      "num": 370351,
+      "word": "王鹤棣范丞丞魏大勋白敬亭脸上痣",
+      "onboard_time": 1690364986,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387107,
       "num": 387107,
       "word": "唐尚珺放弃本科第一批第二次征集志愿",
@@ -3481,6 +3513,14 @@
       "onboard_time": 1690337251,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386869,
+      "num": 386869,
+      "word": "泫雅音乐节短裙造型",
+      "onboard_time": 1690366842,
+      "rank": 19,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 384326,
@@ -3707,14 +3747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 358658,
-      "num": 358658,
-      "word": "TFBOYS最好的那年现在听真的好像告别",
-      "onboard_time": 1690365407,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 357984,
       "num": 357984,
       "word": "鞠婧祎直播",
@@ -3849,14 +3881,6 @@
       "onboard_time": 1690211203,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343943,
-      "num": 343943,
-      "word": "王鹤棣范丞丞魏大勋白敬亭脸上痣",
-      "onboard_time": 1690364986,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 343690,
@@ -4171,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321828,
+      "num": 321828,
+      "word": "封神妲己断尾报恩",
+      "onboard_time": 1690365643,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321814,
       "num": 321814,
       "word": "封神来自元始天尊的剧透",
@@ -4209,14 +4241,6 @@
       "onboard_time": 1690165891,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313137,
-      "num": 1412631,
-      "word": "姐弟捡31部总价超21万手机上交民警",
-      "onboard_time": 1690365042,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312973,
@@ -4867,6 +4891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255436,
+      "num": 1151290,
+      "word": "孩子跟着青蛙妈妈捣乱被拉住亲亲",
+      "onboard_time": 1690366424,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254683,
       "num": 227022,
       "word": "angel采访",
@@ -5011,14 +5043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243211,
-      "num": 243211,
-      "word": "封神妲己断尾报恩",
-      "onboard_time": 1690365643,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242951,
       "num": 207553,
       "word": "云合",
@@ -5081,6 +5105,14 @@
       "onboard_time": 1690285723,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235577,
+      "num": 235577,
+      "word": "无畏轮换",
+      "onboard_time": 1690366366,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 234552,
@@ -5427,7 +5459,7 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 209557,
+      "raw_hot": 209608,
       "num": 1106717,
       "word": "10岁男孩进派出所送西瓜后百米冲刺离开",
       "onboard_time": 1690365042,
@@ -5563,6 +5595,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 202633,
+      "num": 224115,
+      "word": "不愧是熊猫界的吃播一姐",
+      "onboard_time": 1690366664,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201846,
       "num": 212908,
       "word": "长相思小说",
@@ -5617,14 +5657,6 @@
       "onboard_time": 1690207719,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200571,
-      "num": 200571,
-      "word": "无畏轮换",
-      "onboard_time": 1690366366,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 199974,
@@ -5731,6 +5763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195544,
+      "num": 224115,
+      "word": "我的梦中情友",
+      "onboard_time": 1690366664,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195464,
       "num": 209409,
       "word": "五月天泉州 抢票",
@@ -5817,6 +5857,14 @@
       "onboard_time": 1690157732,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191743,
+      "num": 224115,
+      "word": "和同事处为闺蜜",
+      "onboard_time": 1690366966,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 191695,
@@ -5971,6 +6019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185065,
+      "num": 224114,
+      "word": "可乐已经给过小朋友两次机会了",
+      "onboard_time": 1690367381,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 184871,
       "num": 184871,
       "word": "EVERGLOW回归海报",
@@ -6121,6 +6177,14 @@
       "onboard_time": 1690125937,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 169433,
+      "num": 224114,
+      "word": "南京Hero久竞",
+      "onboard_time": 1690367623,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 168075,
@@ -6321,14 +6385,6 @@
       "onboard_time": 1690324698,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141682,
-      "num": 482335,
-      "word": "孩子跟着青蛙妈妈捣乱被拉住亲亲",
-      "onboard_time": 1690366424,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137922,
@@ -6628,7 +6684,7 @@
     },
     {
       "raw_hot": 73586,
-      "num": 1292225,
+      "num": 1332991,
       "word": "大运会里的中国风巴蜀韵",
       "onboard_time": 1690362885,
       "rank": 2,
