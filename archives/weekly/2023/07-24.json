@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690364034530,
+  "endTime": 1690366660360,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1769554,
+      "num": 1769554,
+      "word": "第一批成人小饭桌已经倒闭了",
+      "onboard_time": 1690362349,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1762040,
       "num": 1762040,
       "word": "齐齐哈尔市市长沉痛哀悼",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 1668938,
-      "num": 881517,
+      "num": 1071460,
       "word": "杨洋切菜切到手背",
       "onboard_time": 1690359758,
       "rank": 24,
@@ -603,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1405283,
+      "num": 568029,
+      "word": "肖战邓为撞脸",
+      "onboard_time": 1690365586,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1391322,
       "num": 1391322,
       "word": "TES战胜EDG",
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1279820,
+      "num": 1279820,
+      "word": "学硕要退场了吗",
+      "onboard_time": 1690363371,
+      "rank": 20,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1264463,
       "num": 995050,
       "word": "叶十七 男绿茶",
@@ -752,14 +776,6 @@
       "word": "齐齐哈尔坍塌事故发现被埋女排教练",
       "onboard_time": 1690123838,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1233753,
-      "num": 530398,
-      "word": "第一批成人小饭桌已经倒闭了",
-      "onboard_time": 1690362349,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1081,6 +1097,14 @@
       "onboard_time": 1690243774,
       "rank": 7,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 989899,
+      "num": 989899,
+      "word": "如果微信显示对方已删除的话",
+      "onboard_time": 1690364925,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 977944,
@@ -1636,7 +1660,7 @@
     },
     {
       "raw_hot": 745094,
-      "num": 525102,
+      "num": 557443,
       "word": "BLACKPINK的芭比造型",
       "onboard_time": 1690361627,
       "rank": 8,
@@ -1864,6 +1888,14 @@
       "word": "TFBOYS可以加盟跑男吗",
       "onboard_time": 1690259559,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 666603,
+      "num": 556349,
+      "word": "秦昊的婚姻观真的好正",
+      "onboard_time": 1690363844,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -2307,6 +2339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 575978,
+      "num": 575978,
+      "word": "看出来张晚意真的很急",
+      "onboard_time": 1690362407,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575380,
       "num": 575380,
       "word": "乌尔善说封神还没走出ICU",
@@ -2363,14 +2403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 562703,
-      "num": 562703,
-      "word": "看出来张晚意真的很急",
-      "onboard_time": 1690362407,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 561892,
       "num": 561892,
       "word": "小夭爱相柳吗",
@@ -2419,12 +2451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550940,
+      "num": 550940,
+      "word": "美国为何会攻击中国的地震监测中心",
+      "onboard_time": 1690364507,
+      "rank": 14,
+      "category": "国内要闻,社会新闻"
+    },
+    {
       "raw_hot": 549902,
       "num": 549902,
       "word": "魏大勋的爆火意味着什么",
       "onboard_time": 1690112314,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549766,
+      "num": 413480,
+      "word": "暧昧对象的下头瞬间",
+      "onboard_time": 1690365586,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 547944,
@@ -2465,14 +2513,6 @@
       "onboard_time": 1690203756,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 533786,
-      "num": 443264,
-      "word": "学硕要退场了吗",
-      "onboard_time": 1690363371,
-      "rank": 20,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 532795,
@@ -2993,6 +3033,14 @@
       "onboard_time": 1690339533,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 444347,
+      "num": 320647,
+      "word": "没什么就是想说订婚了",
+      "onboard_time": 1690366188,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 443443,
@@ -3659,6 +3707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358658,
+      "num": 358658,
+      "word": "TFBOYS最好的那年现在听真的好像告别",
+      "onboard_time": 1690365407,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 357984,
       "num": 357984,
       "word": "鞠婧祎直播",
@@ -3793,6 +3849,14 @@
       "onboard_time": 1690211203,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343943,
+      "num": 343943,
+      "word": "王鹤棣范丞丞魏大勋白敬亭脸上痣",
+      "onboard_time": 1690364986,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 343690,
@@ -4011,6 +4075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326258,
+      "num": 326258,
+      "word": "中方回应武汉地震监测中心遭网络攻击",
+      "onboard_time": 1690364746,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 326054,
       "num": 326054,
       "word": "美国和英国争谁家的中餐更好吃",
@@ -4139,6 +4211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313137,
+      "num": 1412631,
+      "word": "姐弟捡31部总价超21万手机上交民警",
+      "onboard_time": 1690365042,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312973,
       "num": 312973,
       "word": "齐齐哈尔",
@@ -4259,12 +4339,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 303562,
+      "num": 303562,
+      "word": "NewJeans得1位后的表情对比",
+      "onboard_time": 1690364567,
+      "rank": 31,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 302875,
       "num": 302875,
       "word": "巴黎奥运会倒计时1周年",
       "onboard_time": 1690259319,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302325,
+      "num": 302325,
+      "word": "谁教时代少年团这么拍的",
+      "onboard_time": 1690364325,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 301690,
@@ -4915,6 +5011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243211,
+      "num": 243211,
+      "word": "封神妲己断尾报恩",
+      "onboard_time": 1690365643,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242951,
       "num": 207553,
       "word": "云合",
@@ -5219,20 +5323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221441,
-      "num": 221441,
-      "word": "秦昊的婚姻观真的好正",
-      "onboard_time": 1690363844,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220555,
       "num": 220555,
       "word": "于适版姬发",
       "onboard_time": 1690298742,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220058,
+      "num": 220058,
+      "word": "KPL",
+      "onboard_time": 1690365407,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 219553,
@@ -5321,6 +5425,14 @@
       "onboard_time": 1690181019,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 209557,
+      "num": 1106717,
+      "word": "10岁男孩进派出所送西瓜后百米冲刺离开",
+      "onboard_time": 1690365042,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208506,
@@ -5507,6 +5619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200571,
+      "num": 200571,
+      "word": "无畏轮换",
+      "onboard_time": 1690366366,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199974,
       "num": 199974,
       "word": "要活跃资本市场",
@@ -5531,6 +5651,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 198598,
+      "num": 198598,
+      "word": "动画遮天",
+      "onboard_time": 1690366188,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 198501,
       "num": 198501,
       "word": "南京地铁通报乘客喝水被罚",
@@ -5553,6 +5681,14 @@
       "onboard_time": 1690359097,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197002,
+      "num": 197002,
+      "word": "石墩子里面是啥",
+      "onboard_time": 1690365949,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 196917,
@@ -5793,6 +5929,14 @@
       "onboard_time": 1690127852,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187086,
+      "num": 199098,
+      "word": "我们什么时候去武功山",
+      "onboard_time": 1690365949,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 186770,
@@ -6179,6 +6323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141682,
+      "num": 482335,
+      "word": "孩子跟着青蛙妈妈捣乱被拉住亲亲",
+      "onboard_time": 1690366424,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137922,
       "num": 137922,
       "word": "莲花楼爱奇艺热度破6000",
@@ -6331,6 +6483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114815,
+      "num": 355307,
+      "word": "母亲跪谢消防救回被海浪冲走的孩子",
+      "onboard_time": 1690365042,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111381,
       "num": 111381,
       "word": "吴亦凡名誉权案会改判么",
@@ -6467,6 +6627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 73586,
+      "num": 1292225,
+      "word": "大运会里的中国风巴蜀韵",
+      "onboard_time": 1690362885,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70346,
       "num": 660359,
       "word": "张琳艳给自己首战打8分",
@@ -6513,14 +6681,6 @@
       "onboard_time": 1690326142,
       "rank": 46,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 57574,
-      "num": 891797,
-      "word": "大运会里的中国风巴蜀韵",
-      "onboard_time": 1690362885,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 57335,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690366660360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1769554,
+        "num": 1769554,
+        "word": "第一批成人小饭桌已经倒闭了",
+        "onboard_time": 1690362349,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313137,
+        "num": 1412631,
+        "word": "姐弟捡31部总价超21万手机上交民警",
+        "onboard_time": 1690365042,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73586,
+        "num": 1292225,
+        "word": "大运会里的中国风巴蜀韵",
+        "onboard_time": 1690362885,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1279820,
+        "num": 1279820,
+        "word": "学硕要退场了吗",
+        "onboard_time": 1690363371,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 209557,
+        "num": 1106717,
+        "word": "10岁男孩进派出所送西瓜后百米冲刺离开",
+        "onboard_time": 1690365042,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071460,
+        "num": 1071460,
+        "word": "杨洋切菜切到手背",
+        "onboard_time": 1690359758,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 989899,
+        "num": 989899,
+        "word": "如果微信显示对方已删除的话",
+        "onboard_time": 1690364925,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581660,
+        "num": 581660,
+        "word": "剃寸头 长发缝",
+        "onboard_time": 1690361444,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 749392,
+        "num": 580364,
+        "word": "张艺兴鹿晗黄子韬会和EXO聚一下吗",
+        "onboard_time": 1690357955,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 575978,
+        "num": 575978,
+        "word": "看出来张晚意真的很急",
+        "onboard_time": 1690362407,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3606829,
+        "num": 571576,
+        "word": "王一博 不是因为工作太累导致身体不适",
+        "onboard_time": 1690346620,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1405283,
+        "num": 568029,
+        "word": "肖战邓为撞脸",
+        "onboard_time": 1690365586,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 718314,
+        "num": 557443,
+        "word": "BLACKPINK的芭比造型",
+        "onboard_time": 1690361627,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 666603,
+        "num": 556349,
+        "word": "秦昊的婚姻观真的好正",
+        "onboard_time": 1690363844,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550940,
+        "num": 550940,
+        "word": "美国为何会攻击中国的地震监测中心",
+        "onboard_time": 1690364507,
+        "rank": 14,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 498744,
+        "num": 498744,
+        "word": "安徽卫视 中国人自己的佛罗里达",
+        "onboard_time": 1690361266,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 488760,
+        "num": 488760,
+        "word": "养狗的和减肥的都沉默了",
+        "onboard_time": 1690359877,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141682,
+        "num": 482335,
+        "word": "孩子跟着青蛙妈妈捣乱被拉住亲亲",
+        "onboard_time": 1690366424,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478891,
+        "num": 478891,
+        "word": "110元点了11道菜",
+        "onboard_time": 1690357415,
+        "rank": 18,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 443005,
+        "num": 443005,
+        "word": "张家界天门山一游客坠亡",
+        "onboard_time": 1690350937,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 549766,
+        "num": 413480,
+        "word": "暧昧对象的下头瞬间",
+        "onboard_time": 1690365586,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369197,
+        "num": 369197,
+        "word": "迪丽热巴玩密室是跪地担当",
+        "onboard_time": 1690361925,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366506,
+        "num": 366506,
+        "word": "这竟然是余文乐",
+        "onboard_time": 1690352976,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366095,
+        "num": 366095,
+        "word": "刘亦菲王楚然同框旧照",
+        "onboard_time": 1690350156,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358658,
+        "num": 358658,
+        "word": "TFBOYS最好的那年现在听真的好像告别",
+        "onboard_time": 1690365407,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114815,
+        "num": 355307,
+        "word": "母亲跪谢消防救回被海浪冲走的孩子",
+        "onboard_time": 1690365042,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353102,
+        "num": 353102,
+        "word": "浪姐5拟邀阵容",
+        "onboard_time": 1690361444,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343943,
+        "num": 343943,
+        "word": "王鹤棣范丞丞魏大勋白敬亭脸上痣",
+        "onboard_time": 1690364986,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327755,
+        "num": 327755,
+        "word": "封神票房",
+        "onboard_time": 1690358556,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326258,
+        "num": 326258,
+        "word": "中方回应武汉地震监测中心遭网络攻击",
+        "onboard_time": 1690364746,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 444347,
+        "num": 320647,
+        "word": "没什么就是想说订婚了",
+        "onboard_time": 1690366188,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303562,
+        "num": 303562,
+        "word": "NewJeans得1位后的表情对比",
+        "onboard_time": 1690364567,
+        "rank": 31,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 302325,
+        "num": 302325,
+        "word": "谁教时代少年团这么拍的",
+        "onboard_time": 1690364325,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266126,
+        "num": 266126,
+        "word": "5岁哥哥把4岁妹妹推上公交自己跑开",
+        "onboard_time": 1690354894,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253263,
+        "num": 253263,
+        "word": "驾校的狗尾巴草不能拔了",
+        "onboard_time": 1690360781,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248249,
+        "num": 248249,
+        "word": "腾讯科技深圳公司新增房地产业务",
+        "onboard_time": 1690363371,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 243211,
+        "num": 243211,
+        "word": "封神妲己断尾报恩",
+        "onboard_time": 1690365643,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229997,
+        "num": 229997,
+        "word": "赵有亮去世",
+        "onboard_time": 1690346140,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225730,
+        "num": 225730,
+        "word": "女子拍骨盆CT被要求撩裙露内裤",
+        "onboard_time": 1690342176,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220058,
+        "num": 220058,
+        "word": "KPL",
+        "onboard_time": 1690365407,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214341,
+        "num": 214341,
+        "word": "男子散发前女友黄色卡片索要印制费",
+        "onboard_time": 1690358976,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202660,
+        "num": 202660,
+        "word": "形式主义的安全检查真是够了",
+        "onboard_time": 1690347998,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201042,
+        "num": 201042,
+        "word": "韩国人考公有多卷",
+        "onboard_time": 1690357775,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200571,
+        "num": 200571,
+        "word": "无畏轮换",
+        "onboard_time": 1690366366,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187086,
+        "num": 199098,
+        "word": "我们什么时候去武功山",
+        "onboard_time": 1690365949,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 198598,
+        "num": 198598,
+        "word": "动画遮天",
+        "onboard_time": 1690366188,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197002,
+        "num": 197002,
+        "word": "石墩子里面是啥",
+        "onboard_time": 1690365949,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186352,
+        "num": 197001,
+        "word": "张子枫向往森系写真",
+        "onboard_time": 1690361266,
+        "rank": 47,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 184308,
+        "num": 196992,
+        "word": "张雨绮身材比例",
+        "onboard_time": 1690356515,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 182747,
+        "num": 196987,
+        "word": "于适为了封神两年没剪头发",
+        "onboard_time": 1690359877,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续开展生态修复和环境污染治理工程#"
+    }
+  }
+}
