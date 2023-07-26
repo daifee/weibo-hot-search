@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690375806303,
+  "endTime": 1690377633551,
   "band_list": [
     {
       "raw_hot": 4482079,
@@ -25,6 +25,14 @@
       "onboard_time": 1690346140,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2438227,
+      "num": 2438227,
+      "word": "中国队混合泳接力夺金",
+      "onboard_time": 1690376676,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2370383,
@@ -211,6 +219,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1166674,
+      "num": 1166674,
+      "word": "汪顺",
+      "onboard_time": 1690375360,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1138331,
       "num": 1138331,
       "word": "杨幂簪发半遮面",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 1083312,
-      "num": 489875,
+      "num": 647048,
       "word": "陈飞宇你知道魏大勋为啥跟你老师是同学了吧",
       "onboard_time": 1690369001,
       "rank": 20,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 1073414,
-      "num": 318192,
+      "num": 365486,
       "word": "英少女遭哥哥性侵弃尸后再遭男子侵犯",
       "onboard_time": 1690371519,
       "rank": 21,
@@ -339,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 900584,
+      "num": 629866,
+      "word": "内娱无代餐的脸",
+      "onboard_time": 1690376501,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 889811,
       "num": 889811,
       "word": "姆巴佩的家人已准备接受沙特报价",
@@ -371,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 875639,
+      "num": 875639,
+      "word": "BLG战胜TES",
+      "onboard_time": 1690376316,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 867148,
       "num": 867148,
       "word": "养狗的和减肥的都沉默了",
       "onboard_time": 1690359877,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 861845,
+      "num": 605345,
+      "word": "女教师借调时加班被镇干部猥亵",
+      "onboard_time": 1690374102,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 848149,
@@ -579,6 +619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 656228,
+      "num": 355400,
+      "word": "长相思榜单全面登顶",
+      "onboard_time": 1690376139,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 648947,
       "num": 648947,
       "word": "长相思",
@@ -601,14 +649,6 @@
       "onboard_time": 1690340132,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 638738,
-      "num": 453587,
-      "word": "女教师借调时加班被镇干部猥亵",
-      "onboard_time": 1690374102,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 635380,
@@ -819,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 489228,
+      "num": 489228,
+      "word": "ELK霞五杀",
+      "onboard_time": 1690376437,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 488014,
       "num": 390350,
       "word": "孙笑川 感谢大家最近对我的关心",
@@ -899,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 447775,
-      "num": 447775,
-      "word": "汪顺",
-      "onboard_time": 1690375360,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 444395,
       "num": 493865,
       "word": "梅西降维打击",
@@ -971,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427065,
+      "num": 349483,
+      "word": "Lisa的身材管理",
+      "onboard_time": 1690376862,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 420891,
       "num": 420891,
       "word": "成毅最有cp感的女主",
@@ -1024,6 +1072,14 @@
       "word": "官方通报男子光屁股大街上被拖行",
       "onboard_time": 1690352855,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389264,
+      "num": 337178,
+      "word": "杜苏芮或成新世纪影响最严重台风之一",
+      "onboard_time": 1690376078,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1097,6 +1153,22 @@
       "onboard_time": 1690352497,
       "rank": 23,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 367142,
+      "num": 367142,
+      "word": "怦然心动20岁 正正",
+      "onboard_time": 1690375237,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 365607,
+      "num": 365607,
+      "word": "开始给魏大勋画饼了",
+      "onboard_time": 1690377102,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 365589,
@@ -1235,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 337300,
+      "num": 337300,
+      "word": "TES战胜Hero",
+      "onboard_time": 1690372235,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 336942,
       "num": 336942,
       "word": "杨紫演技细节",
@@ -1323,14 +1403,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 316887,
-      "num": 316887,
-      "word": "怦然心动20岁 正正",
-      "onboard_time": 1690375237,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316720,
       "num": 296248,
       "word": "迪丽热巴和三万水狮的合照",
@@ -1345,6 +1417,14 @@
       "onboard_time": 1690294961,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313390,
+      "num": 287460,
+      "word": "公婆为我的婚礼种了一片草地",
+      "onboard_time": 1690376741,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 310853,
@@ -1441,14 +1521,6 @@
       "onboard_time": 1690294839,
       "rank": 9,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 288952,
-      "num": 288952,
-      "word": "TES战胜Hero",
-      "onboard_time": 1690372235,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 285910,
@@ -1691,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246865,
+      "num": 246865,
+      "word": "魏大勋的圈内人缘",
+      "onboard_time": 1690377276,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246839,
       "num": 246839,
       "word": "大鹏穿青蛙服热烈宣传热烈",
@@ -1737,6 +1817,14 @@
       "onboard_time": 1690334016,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235896,
+      "num": 235896,
+      "word": "TES今天状态拉满",
+      "onboard_time": 1690376741,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 235577,
@@ -1843,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215336,
+      "num": 220355,
+      "word": "放冰箱里的桃变不甜了",
+      "onboard_time": 1690372661,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 213600,
       "num": 213600,
       "word": "一直娱",
@@ -1921,6 +2017,14 @@
       "onboard_time": 1690362828,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205585,
+      "num": 205585,
+      "word": "雾山五行",
+      "onboard_time": 1690376380,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 204114,
@@ -2043,20 +2147,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191710,
-      "num": 220355,
-      "word": "放冰箱里的桃变不甜了",
-      "onboard_time": 1690372661,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 191703,
       "num": 220350,
       "word": "登陆计划生于火焰演唱会",
       "onboard_time": 1690375477,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189781,
+      "num": 189781,
+      "word": "男女4x100混接中国队晋级决赛",
+      "onboard_time": 1690377221,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 189634,
@@ -2193,6 +2297,14 @@
       "onboard_time": 1690358556,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173163,
+      "num": 173163,
+      "word": "汪顺止步200混半决赛",
+      "onboard_time": 1690377579,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 173032,
@@ -2457,6 +2569,14 @@
       "onboard_time": 1690362706,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52434,
+      "num": 1322757,
+      "word": "各大高校接力为大运会加油",
+      "onboard_time": 1690376023,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 43878,

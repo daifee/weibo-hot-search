@@ -1,0 +1,410 @@
+{
+  "runTime": 1690377633551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2438227,
+        "num": 2438227,
+        "word": "中国队混合泳接力夺金",
+        "onboard_time": 1690376676,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1562939,
+        "num": 1562939,
+        "word": "怒江百万网红蔡金发账号涉黄被封",
+        "onboard_time": 1690370139,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52434,
+        "num": 1322757,
+        "word": "各大高校接力为大运会加油",
+        "onboard_time": 1690376023,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1166674,
+        "num": 1166674,
+        "word": "汪顺",
+        "onboard_time": 1690375360,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1092756,
+        "num": 1092756,
+        "word": "玱玹终于认出小夭",
+        "onboard_time": 1690371577,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 875639,
+        "num": 875639,
+        "word": "BLG战胜TES",
+        "onboard_time": 1690376316,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 728970,
+        "num": 728970,
+        "word": "学硕要退场了吗",
+        "onboard_time": 1690363371,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 684877,
+        "num": 684877,
+        "word": "北京卫视直播",
+        "onboard_time": 1690372417,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672400,
+        "num": 672400,
+        "word": "覃海洋50蛙夺金",
+        "onboard_time": 1690374102,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 648856,
+        "num": 648856,
+        "word": "如果微信显示对方已删除的话",
+        "onboard_time": 1690364925,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 934417,
+        "num": 647048,
+        "word": "陈飞宇你知道魏大勋为啥跟你老师是同学了吧",
+        "onboard_time": 1690369001,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 900584,
+        "num": 629866,
+        "word": "内娱无代餐的脸",
+        "onboard_time": 1690376501,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 861845,
+        "num": 605345,
+        "word": "女教师借调时加班被镇干部猥亵",
+        "onboard_time": 1690374102,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 657652,
+        "num": 590561,
+        "word": "王一博 不是因为工作太累导致身体不适",
+        "onboard_time": 1690346620,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584082,
+        "num": 584082,
+        "word": "黄景瑜张婧仪都营业了",
+        "onboard_time": 1690373499,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 489228,
+        "num": 489228,
+        "word": "ELK霞五杀",
+        "onboard_time": 1690376437,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 458212,
+        "num": 458212,
+        "word": "第一批成人小饭桌已经倒闭了",
+        "onboard_time": 1690362349,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445027,
+        "num": 445027,
+        "word": "我是云南的",
+        "onboard_time": 1690373620,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 367142,
+        "num": 367142,
+        "word": "怦然心动20岁 正正",
+        "onboard_time": 1690375237,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365607,
+        "num": 365607,
+        "word": "开始给魏大勋画饼了",
+        "onboard_time": 1690377102,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1005536,
+        "num": 365486,
+        "word": "英少女遭哥哥性侵弃尸后再遭男子侵犯",
+        "onboard_time": 1690371519,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656228,
+        "num": 355400,
+        "word": "长相思榜单全面登顶",
+        "onboard_time": 1690376139,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427065,
+        "num": 349483,
+        "word": "Lisa的身材管理",
+        "onboard_time": 1690376862,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426829,
+        "num": 339764,
+        "word": "邓为男妲己",
+        "onboard_time": 1690368462,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337300,
+        "num": 337300,
+        "word": "TES战胜Hero",
+        "onboard_time": 1690372235,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 389264,
+        "num": 337178,
+        "word": "杜苏芮或成新世纪影响最严重台风之一",
+        "onboard_time": 1690376078,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336508,
+        "num": 336508,
+        "word": "美国为何会攻击中国的地震监测中心",
+        "onboard_time": 1690364507,
+        "rank": 26,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 333703,
+        "num": 333703,
+        "word": "幼童3楼坠落黑衣大哥张开双臂去接",
+        "onboard_time": 1690373320,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292374,
+        "num": 292374,
+        "word": "杨洋切菜切到手背",
+        "onboard_time": 1690359758,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289700,
+        "num": 289700,
+        "word": "泫雅音乐节短裙造型",
+        "onboard_time": 1690366842,
+        "rank": 29,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 313390,
+        "num": 287460,
+        "word": "公婆为我的婚礼种了一片草地",
+        "onboard_time": 1690376741,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281134,
+        "num": 281134,
+        "word": "TFBOYS中国第一批autotune玩家",
+        "onboard_time": 1690368102,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279841,
+        "num": 279841,
+        "word": "BLACKPINK的芭比造型",
+        "onboard_time": 1690361627,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262871,
+        "num": 262871,
+        "word": "长相思预告14",
+        "onboard_time": 1690374220,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260136,
+        "num": 260136,
+        "word": "坚持游泳半年后长高了",
+        "onboard_time": 1690371398,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246865,
+        "num": 246865,
+        "word": "魏大勋的圈内人缘",
+        "onboard_time": 1690377276,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235896,
+        "num": 235896,
+        "word": "TES今天状态拉满",
+        "onboard_time": 1690376741,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234396,
+        "num": 234396,
+        "word": "网民造谣小学生被碾身亡其母收260万",
+        "onboard_time": 1690373259,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231061,
+        "num": 231061,
+        "word": "张家界天门山一游客坠亡",
+        "onboard_time": 1690350937,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 215336,
+        "num": 215336,
+        "word": "放冰箱里的桃变不甜了",
+        "onboard_time": 1690372661,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206906,
+        "num": 206906,
+        "word": "没什么就是想说订婚了",
+        "onboard_time": 1690366188,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205585,
+        "num": 205585,
+        "word": "雾山五行",
+        "onboard_time": 1690376380,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196120,
+        "num": 196120,
+        "word": "范丞丞的微博背景",
+        "onboard_time": 1690369541,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195061,
+        "num": 195061,
+        "word": "可乐已经给过小朋友两次机会了",
+        "onboard_time": 1690367381,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191698,
+        "num": 191698,
+        "word": "警方回应女子在KTV遭性侵偷拍",
+        "onboard_time": 1690368579,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189781,
+        "num": 189781,
+        "word": "男女4x100混接中国队晋级决赛",
+        "onboard_time": 1690377221,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186966,
+        "num": 186966,
+        "word": "从家里翻出来一盒黄金",
+        "onboard_time": 1690366664,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180108,
+        "num": 180108,
+        "word": "三星发布会",
+        "onboard_time": 1690371100,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 176583,
+        "num": 176583,
+        "word": "张艺兴鹿晗黄子韬会和EXO聚一下吗",
+        "onboard_time": 1690357955,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173163,
+        "num": 173163,
+        "word": "汪顺止步200混半决赛",
+        "onboard_time": 1690377579,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#与时代共奋飞#"
+    }
+  }
+}
