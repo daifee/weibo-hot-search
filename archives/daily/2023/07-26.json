@@ -1,7 +1,15 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690360427351,
+  "endTime": 1690362977194,
   "band_list": [
+    {
+      "raw_hot": 4482079,
+      "num": 3061986,
+      "word": "王一博 不是因为工作太累导致身体不适",
+      "onboard_time": 1690346620,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 3221475,
       "num": 3221475,
@@ -9,14 +17,6 @@
       "onboard_time": 1690342775,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3061986,
-      "num": 3061986,
-      "word": "王一博 不是因为工作太累导致身体不适",
-      "onboard_time": 1690346620,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2918563,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1437653,
+      "num": 614241,
+      "word": "杨洋切菜切到手背",
+      "onboard_time": 1690359758,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1381528,
       "num": 505056,
       "word": "女子拍骨盆CT被要求撩裙露内裤",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 991659,
+      "num": 991659,
+      "word": "110元点了11道菜",
+      "onboard_time": 1690357415,
+      "rank": 13,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 977944,
       "num": 977944,
       "word": "17岁男孩中枪身亡亲属称已和解",
@@ -283,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 834829,
+      "num": 834829,
+      "word": "养狗的和减肥的都沉默了",
+      "onboard_time": 1690359877,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 821499,
       "num": 821499,
       "word": "国产榴莲迎来首次上市",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 790144,
-      "num": 287933,
+      "num": 408548,
       "word": "5岁哥哥把4岁妹妹推上公交自己跑开",
       "onboard_time": 1690354894,
       "rank": 30,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 733817,
-      "num": 495832,
+      "num": 509006,
       "word": "封神票房",
       "onboard_time": 1690358556,
       "rank": 15,
@@ -409,14 +433,6 @@
       "onboard_time": 1690336775,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 682551,
-      "num": 514396,
-      "word": "110元点了11道菜",
-      "onboard_time": 1690357415,
-      "rank": 13,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 681087,
@@ -481,6 +497,22 @@
       "onboard_time": 1690340132,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 637589,
+      "num": 452722,
+      "word": "第一批成人小饭桌已经倒闭了",
+      "onboard_time": 1690362349,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635561,
+      "num": 495657,
+      "word": "剃寸头 长发缝",
+      "onboard_time": 1690361444,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 635380,
@@ -571,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 519125,
+      "num": 439367,
+      "word": "驾校的狗尾巴草不能拔了",
+      "onboard_time": 1690360781,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 518286,
       "num": 518286,
       "word": "孟宴臣喝红酒夜谈戏份被删",
@@ -579,12 +619,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 515376,
+      "num": 492552,
+      "word": "安徽卫视 中国人自己的佛罗里达",
+      "onboard_time": 1690361266,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 505082,
       "num": 507482,
       "word": "金正恩拜谒中国人民志愿军烈士陵园",
       "onboard_time": 1690338453,
       "rank": 33,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 501458,
+      "num": 501458,
+      "word": "BLACKPINK的芭比造型",
+      "onboard_time": 1690361627,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 501162,
@@ -601,6 +657,14 @@
       "onboard_time": 1690345416,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 491610,
+      "num": 491610,
+      "word": "迪丽热巴玩密室是跪地担当",
+      "onboard_time": 1690361925,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 488014,
@@ -667,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436511,
+      "num": 436511,
+      "word": "浪姐5拟邀阵容",
+      "onboard_time": 1690361444,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433468,
       "num": 227665,
       "word": "京东崩了",
@@ -692,7 +764,7 @@
     },
     {
       "raw_hot": 419155,
-      "num": 283253,
+      "num": 395056,
       "word": "男子散发前女友黄色卡片索要印制费",
       "onboard_time": 1690358976,
       "rank": 31,
@@ -755,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 381598,
+      "num": 381598,
+      "word": "于适为了封神两年没剪头发",
+      "onboard_time": 1690359877,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376273,
       "num": 314540,
       "word": "大学生暑假工 我素未谋面的好朋友",
@@ -785,14 +865,6 @@
       "onboard_time": 1690352497,
       "rank": 23,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 364131,
-      "num": 281813,
-      "word": "杨洋切菜切到手背",
-      "onboard_time": 1690359758,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 363376,
@@ -956,7 +1028,7 @@
     },
     {
       "raw_hot": 316720,
-      "num": 279545,
+      "num": 296248,
       "word": "迪丽热巴和三万水狮的合照",
       "onboard_time": 1690359578,
       "rank": 42,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1690272937,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 300028,
+      "num": 300028,
+      "word": "看出来张晚意真的很急",
+      "onboard_time": 1690362407,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 293380,
@@ -1115,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268407,
+      "num": 463028,
+      "word": "岳阳警方通报俱乐部枪支走火事件",
+      "onboard_time": 1690357955,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268354,
       "num": 243458,
       "word": "关晓彤打小就适合冯氏喜剧",
@@ -1179,12 +1267,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 252247,
-      "num": 216675,
-      "word": "于适为了封神两年没剪头发",
-      "onboard_time": 1690359877,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 257953,
+      "num": 257953,
+      "word": "张子枫向往森系写真",
+      "onboard_time": 1690361266,
+      "rank": 33,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 251287,
@@ -1307,14 +1395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222288,
-      "num": 222288,
-      "word": "养狗的和减肥的都沉默了",
-      "onboard_time": 1690359877,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221859,
       "num": 221859,
       "word": "最喜欢Citywalk的城市为什么没有重庆",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1690346438,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206140,
+      "num": 206140,
+      "word": "写简历的我belike",
+      "onboard_time": 1690362828,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 204114,
@@ -1547,14 +1635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176404,
-      "num": 205724,
-      "word": "岳阳警方通报俱乐部枪支走火事件",
-      "onboard_time": 1690357955,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174797,
       "num": 208264,
       "word": "于适版姬发",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1690292561,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167932,
+      "num": 195658,
+      "word": "漂流真的蛮危险的",
+      "onboard_time": 1690362044,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167928,
@@ -1795,12 +1883,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 57335,
+      "num": 224714,
+      "word": "长春航空展表演",
+      "onboard_time": 1690362706,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26114,
       "num": 40711,
       "word": "LNG战胜WBG",
       "onboard_time": 1690293765,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17886,
+      "num": 620229,
+      "word": "大运会里的中国风巴蜀韵",
+      "onboard_time": 1690362885,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
