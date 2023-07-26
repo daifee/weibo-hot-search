@@ -1,0 +1,410 @@
+{
+  "runTime": 1690364034530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027404,
+        "num": 1027404,
+        "word": "110元点了11道菜",
+        "onboard_time": 1690357415,
+        "rank": 0,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 944085,
+        "num": 944085,
+        "word": "王一博因身体不适将缺席热烈路演",
+        "onboard_time": 1690328068,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57574,
+        "num": 891797,
+        "word": "大运会里的中国风巴蜀韵",
+        "onboard_time": 1690362885,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1668938,
+        "num": 881517,
+        "word": "杨洋切菜切到手背",
+        "onboard_time": 1690359758,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 867148,
+        "num": 867148,
+        "word": "养狗的和减肥的都沉默了",
+        "onboard_time": 1690359877,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 735048,
+        "num": 735048,
+        "word": "剃寸头 长发缝",
+        "onboard_time": 1690361444,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 959265,
+        "num": 704966,
+        "word": "张艺兴鹿晗黄子韬会和EXO聚一下吗",
+        "onboard_time": 1690357955,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 562703,
+        "num": 562703,
+        "word": "看出来张晚意真的很急",
+        "onboard_time": 1690362407,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438803,
+        "num": 555199,
+        "word": "韩国人考公有多卷",
+        "onboard_time": 1690357775,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321889,
+        "num": 550724,
+        "word": "17岁男孩中枪身亡亲属称已和解",
+        "onboard_time": 1690351357,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4352934,
+        "num": 546444,
+        "word": "王一博 不是因为工作太累导致身体不适",
+        "onboard_time": 1690346620,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1233753,
+        "num": 530398,
+        "word": "第一批成人小饭桌已经倒闭了",
+        "onboard_time": 1690362349,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745094,
+        "num": 525102,
+        "word": "BLACKPINK的芭比造型",
+        "onboard_time": 1690361627,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 716806,
+        "num": 515794,
+        "word": "这竟然是余文乐",
+        "onboard_time": 1690352976,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676345,
+        "num": 506193,
+        "word": "张家界天门山一游客坠亡",
+        "onboard_time": 1690350937,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 586040,
+        "num": 500393,
+        "word": "安徽卫视 中国人自己的佛罗里达",
+        "onboard_time": 1690361266,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 497765,
+        "num": 497765,
+        "word": "迪丽热巴玩密室是跪地担当",
+        "onboard_time": 1690361925,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484488,
+        "num": 484488,
+        "word": "刘亦菲王楚然同框旧照",
+        "onboard_time": 1690350156,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443580,
+        "num": 443580,
+        "word": "封神票房",
+        "onboard_time": 1690358556,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306552,
+        "num": 443286,
+        "word": "形式主义的安全检查真是够了",
+        "onboard_time": 1690347998,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533786,
+        "num": 443264,
+        "word": "学硕要退场了吗",
+        "onboard_time": 1690363371,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 443077,
+        "num": 443077,
+        "word": "浪姐5拟邀阵容",
+        "onboard_time": 1690361444,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376598,
+        "num": 376598,
+        "word": "张雨绮身材比例",
+        "onboard_time": 1690356515,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 365625,
+        "num": 365625,
+        "word": "5岁哥哥把4岁妹妹推上公交自己跑开",
+        "onboard_time": 1690354894,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352088,
+        "num": 352088,
+        "word": "女子拍骨盆CT被要求撩裙露内裤",
+        "onboard_time": 1690342176,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349374,
+        "num": 349374,
+        "word": "驾校的狗尾巴草不能拔了",
+        "onboard_time": 1690360781,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348519,
+        "num": 348519,
+        "word": "男子散发前女友黄色卡片索要印制费",
+        "onboard_time": 1690358976,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300955,
+        "num": 300955,
+        "word": "于适为了封神两年没剪头发",
+        "onboard_time": 1690359877,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285129,
+        "num": 285129,
+        "word": "杨幂被吓没来得及做反应",
+        "onboard_time": 1690357293,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271823,
+        "num": 271823,
+        "word": "新西游记大逃脱下架",
+        "onboard_time": 1690355495,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271739,
+        "num": 271739,
+        "word": "腾讯科技深圳公司新增房地产业务",
+        "onboard_time": 1690363371,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 259166,
+        "num": 259166,
+        "word": "赵有亮去世",
+        "onboard_time": 1690346140,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246483,
+        "num": 246483,
+        "word": "岳阳警方通报俱乐部枪支走火事件",
+        "onboard_time": 1690357955,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233517,
+        "num": 233517,
+        "word": "迪丽热巴和三万水狮的合照",
+        "onboard_time": 1690359578,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226625,
+        "num": 226625,
+        "word": "刘雨昕演唱会抢票",
+        "onboard_time": 1690363307,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221441,
+        "num": 221441,
+        "word": "秦昊的婚姻观真的好正",
+        "onboard_time": 1690363844,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216976,
+        "num": 216976,
+        "word": "张子枫向往森系写真",
+        "onboard_time": 1690361266,
+        "rank": 36,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 212273,
+        "num": 212273,
+        "word": "如果殷世航进娱乐圈",
+        "onboard_time": 1690359157,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191808,
+        "num": 211983,
+        "word": "九键打字被吐槽活在按键时代",
+        "onboard_time": 1690358313,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186089,
+        "num": 211410,
+        "word": "广州一民房起火3人死亡",
+        "onboard_time": 1690363606,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200795,
+        "num": 211205,
+        "word": "岳云鹏经纪人商业版图盘点",
+        "onboard_time": 1690358433,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195220,
+        "num": 210934,
+        "word": "毛晓彤真人芭比上班",
+        "onboard_time": 1690343494,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184915,
+        "num": 210400,
+        "word": "写简历的我belike",
+        "onboard_time": 1690362828,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177368,
+        "num": 209945,
+        "word": "女子把婴儿放在马路中间后离开",
+        "onboard_time": 1690355737,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176788,
+        "num": 209244,
+        "word": "EXO青岛",
+        "onboard_time": 1690342775,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176757,
+        "num": 209048,
+        "word": "官方通报男子光屁股大街上被拖行",
+        "onboard_time": 1690352855,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172575,
+        "num": 208458,
+        "word": "阿饭泽泽官宣",
+        "onboard_time": 1690349197,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169258,
+        "num": 208043,
+        "word": "柬埔寨首相洪森辞职",
+        "onboard_time": 1690358377,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 164175,
+        "num": 207886,
+        "word": "台风杜苏芮",
+        "onboard_time": 1690327706,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160968,
+        "num": 207125,
+        "word": "咒术回战",
+        "onboard_time": 1690354957,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续开展生态修复和环境污染治理工程#"
+    }
+  }
+}

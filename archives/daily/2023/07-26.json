@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690362977194,
+  "endTime": 1690364034530,
   "band_list": [
     {
       "raw_hot": 4482079,
@@ -91,6 +91,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1668938,
+      "num": 881517,
+      "word": "杨洋切菜切到手背",
+      "onboard_time": 1690359758,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1635994,
       "num": 155912,
       "word": "王毅任外交部部长",
@@ -123,14 +131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1437653,
-      "num": 614241,
-      "word": "杨洋切菜切到手背",
-      "onboard_time": 1690359758,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1381528,
       "num": 505056,
       "word": "女子拍骨盆CT被要求撩裙露内裤",
@@ -153,6 +153,14 @@
       "onboard_time": 1690296640,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1233753,
+      "num": 530398,
+      "word": "第一批成人小饭桌已经倒闭了",
+      "onboard_time": 1690362349,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1204532,
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1027404,
+      "num": 1027404,
+      "word": "110元点了11道菜",
+      "onboard_time": 1690357415,
+      "rank": 13,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1012537,
       "num": 1011549,
       "word": "男子在四姑娘山旅游时遇难",
@@ -233,14 +249,6 @@
       "onboard_time": 1690357775,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 991659,
-      "num": 991659,
-      "word": "110元点了11道菜",
-      "onboard_time": 1690357415,
-      "rank": 13,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 977944,
@@ -291,20 +299,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 867148,
+      "num": 867148,
+      "word": "养狗的和减肥的都沉默了",
+      "onboard_time": 1690359877,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 848149,
       "num": 848149,
       "word": "理解纣王成为纣王",
       "onboard_time": 1690331977,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 834829,
-      "num": 834829,
-      "word": "养狗的和减肥的都沉默了",
-      "onboard_time": 1690359877,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 821499,
@@ -377,6 +385,22 @@
       "onboard_time": 1690304363,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 745094,
+      "num": 525102,
+      "word": "BLACKPINK的芭比造型",
+      "onboard_time": 1690361627,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 735048,
+      "num": 735048,
+      "word": "剃寸头 长发缝",
+      "onboard_time": 1690361444,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 734420,
@@ -499,22 +523,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 637589,
-      "num": 452722,
-      "word": "第一批成人小饭桌已经倒闭了",
-      "onboard_time": 1690362349,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 635561,
-      "num": 495657,
-      "word": "剃寸头 长发缝",
-      "onboard_time": 1690361444,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 635380,
       "num": 549183,
       "word": "齐齐哈尔三十四中账号换为黑白头像",
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586040,
+      "num": 500393,
+      "word": "安徽卫视 中国人自己的佛罗里达",
+      "onboard_time": 1690361266,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 582263,
       "num": 521001,
       "word": "长相思思的是谁",
@@ -595,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562703,
+      "num": 562703,
+      "word": "看出来张晚意真的很急",
+      "onboard_time": 1690362407,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 561892,
       "num": 561892,
       "word": "小夭爱相柳吗",
       "onboard_time": 1690337853,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 533786,
+      "num": 443264,
+      "word": "学硕要退场了吗",
+      "onboard_time": 1690363371,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 519125,
@@ -619,28 +651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 515376,
-      "num": 492552,
-      "word": "安徽卫视 中国人自己的佛罗里达",
-      "onboard_time": 1690361266,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 505082,
       "num": 507482,
       "word": "金正恩拜谒中国人民志愿军烈士陵园",
       "onboard_time": 1690338453,
       "rank": 33,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 501458,
-      "num": 501458,
-      "word": "BLACKPINK的芭比造型",
-      "onboard_time": 1690361627,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 501162,
@@ -651,20 +667,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 497765,
+      "num": 497765,
+      "word": "迪丽热巴玩密室是跪地担当",
+      "onboard_time": 1690361925,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 493502,
       "num": 493502,
       "word": "TFBOYS如果睁眼便是十年后",
       "onboard_time": 1690345416,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 491610,
-      "num": 491610,
-      "word": "迪丽热巴玩密室是跪地担当",
-      "onboard_time": 1690361925,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 488014,
@@ -731,8 +747,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 436511,
-      "num": 436511,
+      "raw_hot": 443077,
+      "num": 443077,
       "word": "浪姐5拟邀阵容",
       "onboard_time": 1690361444,
       "rank": 22,
@@ -1091,14 +1107,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 300028,
-      "num": 300028,
-      "word": "看出来张晚意真的很急",
-      "onboard_time": 1690362407,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 293380,
       "num": 293380,
       "word": "男子200混汪顺晋级半决赛",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1690350697,
       "rank": 28,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 271739,
+      "num": 271739,
+      "word": "腾讯科技深圳公司新增房地产业务",
+      "onboard_time": 1690363371,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 269601,
@@ -1387,6 +1403,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 226625,
+      "num": 226625,
+      "word": "刘雨昕演唱会抢票",
+      "onboard_time": 1690363307,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223636,
       "num": 207026,
       "word": "姚晨关晓彤邬桑回归非诚勿扰3",
@@ -1408,6 +1432,14 @@
       "word": "怦然心动20岁",
       "onboard_time": 1690359097,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221441,
+      "num": 221441,
+      "word": "秦昊的婚姻观真的好正",
+      "onboard_time": 1690363844,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1468,7 +1500,7 @@
     },
     {
       "raw_hot": 206140,
-      "num": 206140,
+      "num": 210400,
       "word": "写简历的我belike",
       "onboard_time": 1690362828,
       "rank": 39,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1690340612,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 186089,
+      "num": 211410,
+      "word": "广州一民房起火3人死亡",
+      "onboard_time": 1690363606,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184871,
@@ -1883,6 +1923,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 57574,
+      "num": 891797,
+      "word": "大运会里的中国风巴蜀韵",
+      "onboard_time": 1690362885,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57335,
       "num": 224714,
       "word": "长春航空展表演",
@@ -1897,14 +1945,6 @@
       "onboard_time": 1690293765,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17886,
-      "num": 620229,
-      "word": "大运会里的中国风巴蜀韵",
-      "onboard_time": 1690362885,
-      "rank": 2,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -1928,6 +1968,9 @@
     },
     {
       "word": "#与时代共奋飞#"
+    },
+    {
+      "word": "#持续开展生态修复和环境污染治理工程#"
     }
   ]
 }
