@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690346047805,
+  "endTime": 1690348523067,
   "band_list": [
     {
       "raw_hot": 3221475,
@@ -9,6 +9,22 @@
       "onboard_time": 1690342775,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3061986,
+      "num": 3061986,
+      "word": "王一博 不是因为工作太累导致身体不适",
+      "onboard_time": 1690346620,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2835069,
+      "num": 2835069,
+      "word": "赵有亮去世",
+      "onboard_time": 1690346140,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2370383,
@@ -25,6 +41,14 @@
       "onboard_time": 1690337554,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2157039,
+      "num": 631082,
+      "word": "毛晓彤真人芭比上班",
+      "onboard_time": 1690343494,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1961526,
@@ -59,14 +83,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1667581,
-      "num": 631082,
-      "word": "毛晓彤真人芭比上班",
-      "onboard_time": 1690343494,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1635994,
       "num": 155912,
       "word": "王毅任外交部部长",
@@ -91,8 +107,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1359629,
-      "num": 410290,
+      "raw_hot": 1381528,
+      "num": 505056,
       "word": "女子拍骨盆CT被要求撩裙露内裤",
       "onboard_time": 1690342176,
       "rank": 31,
@@ -113,6 +129,14 @@
       "onboard_time": 1690335454,
       "rank": 5,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1138331,
+      "num": 1138331,
+      "word": "杨幂簪发半遮面",
+      "onboard_time": 1690346378,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1135238,
@@ -211,6 +235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 789989,
+      "num": 538327,
+      "word": "男子在四姑娘山旅游时遇难",
+      "onboard_time": 1690347161,
+      "rank": 12,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 782716,
       "num": 782716,
       "word": "大熊猫翘起jiojio点头示意奶爸按脚",
@@ -267,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 727169,
+      "num": 534242,
+      "word": "piko张张",
+      "onboard_time": 1690346860,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688915,
       "num": 688915,
       "word": "付闻樱扮演者陈瑾采访魅力",
@@ -284,7 +324,7 @@
     },
     {
       "raw_hot": 681087,
-      "num": 406221,
+      "num": 499416,
       "word": "游个泳居然把头发给漂白了",
       "onboard_time": 1690345115,
       "rank": 23,
@@ -371,12 +411,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560606,
+      "num": 560606,
+      "word": "猫狗绝育坏人表演一次几十元",
+      "onboard_time": 1690343317,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505082,
-      "num": 496183,
+      "num": 507482,
       "word": "金正恩拜谒中国人民志愿军烈士陵园",
       "onboard_time": 1690338453,
       "rank": 33,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 493502,
+      "num": 493502,
+      "word": "TFBOYS如果睁眼便是十年后",
+      "onboard_time": 1690345416,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 488014,
@@ -393,6 +449,14 @@
       "onboard_time": 1690333357,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 460712,
+      "num": 460712,
+      "word": "当单位的空调吹不到办公室里",
+      "onboard_time": 1690346499,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 455569,
@@ -420,7 +484,7 @@
     },
     {
       "raw_hot": 444395,
-      "num": 444395,
+      "num": 493865,
       "word": "梅西降维打击",
       "onboard_time": 1690339533,
       "rank": 49,
@@ -459,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396894,
+      "num": 396894,
+      "word": "ENHYPEN青岛签售会",
+      "onboard_time": 1690347401,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 386927,
       "num": 386927,
       "word": "大鹏 烁烁不可以也是可以的",
@@ -491,16 +563,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 372502,
-      "num": 372502,
-      "word": "猫狗绝育坏人表演一次几十元",
-      "onboard_time": 1690343317,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369036,
-      "num": 369036,
+      "raw_hot": 371626,
+      "num": 371626,
       "word": "杨紫相见相思完整版上线",
       "onboard_time": 1690344097,
       "rank": 32,
@@ -537,6 +601,14 @@
       "onboard_time": 1690336473,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345531,
+      "num": 345531,
+      "word": "杨澄王莹的番外",
+      "onboard_time": 1690346980,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 344996,
@@ -617,6 +689,14 @@
       "onboard_time": 1690344215,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310833,
+      "num": 310833,
+      "word": "五月天演唱会",
+      "onboard_time": 1690346319,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 310240,
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 269601,
-      "num": 269601,
+      "num": 382656,
       "word": "施工安全不应是空话一句",
       "onboard_time": 1690331017,
       "rank": 32,
@@ -739,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264047,
-      "num": 264047,
-      "word": "TFBOYS如果睁眼便是十年后",
-      "onboard_time": 1690345416,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 261459,
       "num": 261459,
       "word": "纷玩岛",
@@ -779,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246825,
+      "num": 219094,
+      "word": "偶像便利店",
+      "onboard_time": 1690348239,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246324,
       "num": 246324,
       "word": "成毅戴金丝眼镜",
@@ -801,6 +881,14 @@
       "onboard_time": 1690334016,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232824,
+      "num": 214674,
+      "word": "陈祉希",
+      "onboard_time": 1690348361,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 230941,
@@ -835,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212327,
+      "num": 212327,
+      "word": "形式主义的安全检查真是够了",
+      "onboard_time": 1690347998,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211264,
       "num": 211264,
       "word": "韩国的水果价格有多离谱",
@@ -857,6 +953,22 @@
       "onboard_time": 1690281218,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206371,
+      "num": 206371,
+      "word": "光与夜之恋",
+      "onboard_time": 1690346438,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205265,
+      "num": 205265,
+      "word": "北方室友不理解太阳下山",
+      "onboard_time": 1690347522,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 204114,
@@ -1164,7 +1276,7 @@
     },
     {
       "raw_hot": 84548,
-      "num": 1719969,
+      "num": 2208878,
       "word": "青春主场欢聚在成都",
       "onboard_time": 1690339053,
       "rank": 2,
