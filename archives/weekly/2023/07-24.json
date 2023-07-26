@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690388505401,
+  "endTime": 1690389409983,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -59,6 +59,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 5121110,
+      "num": 1360590,
+      "word": "小红书",
+      "onboard_time": 1690387296,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 4482079,
       "num": 3061986,
       "word": "王一博 不是因为工作太累导致身体不适",
@@ -81,14 +89,6 @@
       "onboard_time": 1690261780,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 3782487,
-      "num": 1360590,
-      "word": "小红书",
-      "onboard_time": 1690387296,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 3711258,
@@ -331,6 +331,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1967335,
+      "num": 1967335,
+      "word": "微信白用那么久了",
+      "onboard_time": 1690386217,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1948787,
       "num": 590237,
       "word": "肖战邓为撞脸",
@@ -497,14 +505,6 @@
       "onboard_time": 1690200453,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1673401,
-      "num": 1673401,
-      "word": "微信白用那么久了",
-      "onboard_time": 1690386217,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1672733,
@@ -2708,7 +2708,7 @@
     },
     {
       "raw_hot": 568243,
-      "num": 301240,
+      "num": 444219,
       "word": "哥哥第一次带女朋友回家",
       "onboard_time": 1690385021,
       "rank": 41,
@@ -6435,6 +6435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198138,
+      "num": 198138,
+      "word": "TFBOYS十周年周边有四种颜色",
+      "onboard_time": 1690389029,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198094,
       "num": 198094,
       "word": "周江勇非法收受财物共计1.82亿余元",
@@ -7289,6 +7297,14 @@
       "onboard_time": 1690194934,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117701,
+      "num": 144506,
+      "word": "揭秘魔术背后真相",
+      "onboard_time": 1690389089,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116508,

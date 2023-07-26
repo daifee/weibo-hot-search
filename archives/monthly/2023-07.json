@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690388505401,
+  "endTime": 1690389409983,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -419,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 5121110,
+      "num": 1360590,
+      "word": "小红书",
+      "onboard_time": 1690387296,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 4831101,
       "num": 4831101,
       "word": "玖月晞 我没抄袭",
@@ -593,14 +601,6 @@
       "onboard_time": 1688457874,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3782487,
-      "num": 1360590,
-      "word": "小红书",
-      "onboard_time": 1690387296,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 3758613,
@@ -2931,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1967335,
+      "num": 1967335,
+      "word": "微信白用那么久了",
+      "onboard_time": 1690386217,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1964594,
       "num": 1939092,
       "word": "女孩高考超一本线35分却报专科",
@@ -4281,14 +4289,6 @@
       "onboard_time": 1690083271,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1673401,
-      "num": 1673401,
-      "word": "微信白用那么久了",
-      "onboard_time": 1690386217,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1672733,
@@ -21044,7 +21044,7 @@
     },
     {
       "raw_hot": 568243,
-      "num": 301240,
+      "num": 444219,
       "word": "哥哥第一次带女朋友回家",
       "onboard_time": 1690385021,
       "rank": 41,
@@ -52819,6 +52819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198138,
+      "num": 198138,
+      "word": "TFBOYS十周年周边有四种颜色",
+      "onboard_time": 1690389029,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198124,
       "num": 198124,
       "word": "萌兰生日",
@@ -60193,6 +60201,14 @@
       "onboard_time": 1689750932,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 117701,
+      "num": 144506,
+      "word": "揭秘魔术背后真相",
+      "onboard_time": 1690389089,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 117598,

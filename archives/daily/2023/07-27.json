@@ -1,13 +1,21 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690388505401,
+  "endTime": 1690389409983,
   "band_list": [
     {
-      "raw_hot": 3782487,
+      "raw_hot": 5121110,
       "num": 1360590,
       "word": "小红书",
       "onboard_time": 1690387296,
       "rank": 3,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1967335,
+      "num": 1967335,
+      "word": "微信白用那么久了",
+      "onboard_time": 1690386217,
+      "rank": 0,
       "category": "科技"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1690385439,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1673401,
-      "num": 1673401,
-      "word": "微信白用那么久了",
-      "onboard_time": 1690386217,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1662870,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 568243,
-      "num": 266966,
+      "num": 444219,
       "word": "哥哥第一次带女朋友回家",
       "onboard_time": 1690385021,
       "rank": 30,
@@ -323,20 +323,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198598,
+      "num": 198598,
+      "word": "沛沛",
+      "onboard_time": 1690382323,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198138,
+      "num": 198138,
+      "word": "TFBOYS十周年周边有四种颜色",
+      "onboard_time": 1690389029,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192127,
       "num": 192127,
       "word": "普通女孩如何变第一眼美女",
       "onboard_time": 1690381183,
       "rank": 42,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 189066,
-      "num": 189066,
-      "word": "沛沛",
-      "onboard_time": 1690382323,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 185822,
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117701,
+      "num": 144506,
+      "word": "揭秘魔术背后真相",
+      "onboard_time": 1690389089,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 37967,
       "num": 1627000,
       "word": "各大高校接力为大运会加油",
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#与时代共奋飞#"
+    },
+    {
+      "word": "#铭记伟大胜利捍卫和平正义#"
     }
   ]
 }
