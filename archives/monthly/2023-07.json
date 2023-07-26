@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690380926229,
+  "endTime": 1690382019687,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1307,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2795919,
+      "num": 2795919,
+      "word": "徐嘉余",
+      "onboard_time": 1690379259,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2784024,
       "num": 2717243,
       "word": "中建八局被实名举报",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1688649035,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2698327,
+      "num": 2698327,
+      "word": "狂飙后第二爆的剧是哪部",
+      "onboard_time": 1690379978,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 2696359,
@@ -2499,14 +2515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2106562,
-      "num": 2106562,
-      "word": "徐嘉余",
-      "onboard_time": 1690379259,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2098977,
       "num": 2098977,
       "word": "Ella 乘风总冠军",
@@ -3265,6 +3273,14 @@
       "onboard_time": 1689687996,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1878265,
+      "num": 1878265,
+      "word": "过度喝饮料 肾衰竭",
+      "onboard_time": 1690379858,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 1873045,
@@ -5955,6 +5971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1365059,
+      "num": 1365059,
+      "word": "长相思断更的原因",
+      "onboard_time": 1690378660,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1364655,
       "num": 1364655,
       "word": "老公居然登报庆祝我裸辞",
@@ -6001,14 +6025,6 @@
       "onboard_time": 1689408989,
       "rank": 16,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1355247,
-      "num": 1355247,
-      "word": "长相思断更的原因",
-      "onboard_time": 1690378660,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1354590,
@@ -6289,6 +6305,14 @@
       "onboard_time": 1690205076,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1311134,
+      "num": 625217,
+      "word": "殷世航出道失败",
+      "onboard_time": 1690380459,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 1310274,
@@ -10167,14 +10191,6 @@
       "num": 958235,
       "word": "关晓彤范丞丞新剧吻戏",
       "onboard_time": 1688997214,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 957511,
-      "num": 957511,
-      "word": "狂飙后第二爆的剧是哪部",
-      "onboard_time": 1690379978,
       "rank": 6,
       "category": "影视"
     },
@@ -14513,14 +14529,6 @@
       "onboard_time": 1689586353,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 757307,
-      "num": 757307,
-      "word": "过度喝饮料 肾衰竭",
-      "onboard_time": 1690379858,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 757062,
@@ -19123,6 +19131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614706,
+      "num": 614706,
+      "word": "暑假工已经渗透到商家内部啦",
+      "onboard_time": 1690380220,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 614419,
       "num": 342799,
       "word": "警方回应老人持斧头入室追砍两女孩",
@@ -20908,7 +20924,7 @@
     },
     {
       "raw_hot": 568790,
-      "num": 345028,
+      "num": 478823,
       "word": "39岁大叔男扮女装卖淫3次被抓",
       "onboard_time": 1690377700,
       "rank": 31,
@@ -21201,6 +21217,14 @@
       "onboard_time": 1689746132,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 562215,
+      "num": 364186,
+      "word": "搂了半天发现搂错人了",
+      "onboard_time": 1690380343,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 561892,
@@ -23707,14 +23731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 504533,
-      "num": 504533,
-      "word": "暑假工已经渗透到商家内部啦",
-      "onboard_time": 1690380220,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 504385,
       "num": 357818,
       "word": "内娱妈生脸美女",
@@ -25739,14 +25755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 468913,
-      "num": 468913,
-      "word": "殷世航出道失败",
-      "onboard_time": 1690380459,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 468811,
       "num": 396355,
       "word": "张一山关晓彤在新剧里看家有儿女",
@@ -26105,6 +26113,14 @@
       "onboard_time": 1689900336,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 463002,
+      "num": 463002,
+      "word": "小鹏",
+      "onboard_time": 1690380640,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 462976,
@@ -32507,6 +32523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371565,
+      "num": 363974,
+      "word": "匪我思存 这十年发生了好多好多事情",
+      "onboard_time": 1690381479,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371403,
       "num": 371403,
       "word": "陈都灵坐着跳舞",
@@ -34289,6 +34313,14 @@
       "onboard_time": 1688709336,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 350484,
+      "num": 350484,
+      "word": "张雨霏真的太强了",
+      "onboard_time": 1690379858,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 350458,
@@ -36315,6 +36347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327271,
+      "num": 327271,
+      "word": "莲花楼嫁衣案",
+      "onboard_time": 1690381363,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327225,
       "num": 327225,
       "word": "张艺兴说刚跟成龙拍完电影",
@@ -37179,6 +37219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316693,
+      "num": 316693,
+      "word": "研究生称坐5小时高铁跨省面试被鸽",
+      "onboard_time": 1690381120,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316691,
       "num": 459688,
       "word": "杭州亚运会开票",
@@ -37689,14 +37737,6 @@
       "onboard_time": 1689903273,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311946,
-      "num": 311946,
-      "word": "搂了半天发现搂错人了",
-      "onboard_time": 1690380343,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 311694,
@@ -38329,14 +38369,6 @@
       "onboard_time": 1689052356,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305855,
-      "num": 305855,
-      "word": "张雨霏真的太强了",
-      "onboard_time": 1690379858,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 305850,
@@ -41729,6 +41761,14 @@
       "onboard_time": 1690013011,
       "rank": 35,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 276796,
+      "num": 276796,
+      "word": "谁家指甲长这样啊",
+      "onboard_time": 1690380640,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 276765,
@@ -45369,14 +45409,6 @@
       "onboard_time": 1689034895,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246784,
-      "num": 246784,
-      "word": "谁家指甲长这样啊",
-      "onboard_time": 1690380640,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 246727,
@@ -49259,14 +49291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218071,
-      "num": 218071,
-      "word": "小鹏",
-      "onboard_time": 1690380640,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 217817,
       "num": 2017425,
       "word": "明天才入伏",
@@ -49729,6 +49753,14 @@
       "onboard_time": 1689818131,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214794,
+      "num": 214794,
+      "word": "普通女孩如何变第一眼美女",
+      "onboard_time": 1690381183,
+      "rank": 46,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 214788,
@@ -50840,6 +50872,14 @@
       "word": "心里的花终于开到了腿上",
       "onboard_time": 1690089151,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 208381,
+      "num": 208381,
+      "word": "被维护的感觉真好",
+      "onboard_time": 1690381906,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -61707,6 +61747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69627,
+      "num": 2059067,
+      "word": "各大高校接力为大运会加油",
+      "onboard_time": 1690376023,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69448,
       "num": 65243,
       "word": "想在布达佩斯偶遇许光汉",
@@ -61816,14 +61864,6 @@
       "word": "李娜重返温网参赛",
       "onboard_time": 1689195852,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 66472,
-      "num": 1447049,
-      "word": "各大高校接力为大运会加油",
-      "onboard_time": 1690376023,
-      "rank": 2,
       "category": "体育"
     },
     {

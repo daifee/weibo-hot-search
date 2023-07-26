@@ -1,6 +1,6 @@
 {
   "startTime": 1690302147795,
-  "endTime": 1690380926229,
+  "endTime": 1690382019687,
   "band_list": [
     {
       "raw_hot": 4482079,
@@ -25,6 +25,22 @@
       "onboard_time": 1690346140,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2795919,
+      "num": 2795919,
+      "word": "徐嘉余",
+      "onboard_time": 1690379259,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2698327,
+      "num": 2698327,
+      "word": "狂飙后第二爆的剧是哪部",
+      "onboard_time": 1690379978,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 2438227,
@@ -67,14 +83,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2106562,
-      "num": 2106562,
-      "word": "徐嘉余",
-      "onboard_time": 1690379259,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1961526,
       "num": 670628,
       "word": "殡仪馆证实岳阳17岁男子中枪身亡",
@@ -97,6 +105,14 @@
       "onboard_time": 1690339352,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1878265,
+      "num": 1878265,
+      "word": "过度喝饮料 肾衰竭",
+      "onboard_time": 1690379858,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 1864554,
@@ -203,8 +219,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1355247,
-      "num": 1355247,
+      "raw_hot": 1365059,
+      "num": 1365059,
       "word": "长相思断更的原因",
       "onboard_time": 1690378660,
       "rank": 3,
@@ -217,6 +233,14 @@
       "onboard_time": 1690363371,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1311134,
+      "num": 625217,
+      "word": "殷世航出道失败",
+      "onboard_time": 1690380459,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 1303135,
@@ -369,14 +393,6 @@
       "onboard_time": 1690351357,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 957511,
-      "num": 957511,
-      "word": "狂飙后第二爆的剧是哪部",
-      "onboard_time": 1690379978,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 951829,
@@ -555,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 757307,
-      "num": 757307,
-      "word": "过度喝饮料 肾衰竭",
-      "onboard_time": 1690379858,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 745094,
       "num": 572871,
       "word": "BLACKPINK的芭比造型",
@@ -635,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690332,
+      "num": 492396,
+      "word": "台风",
+      "onboard_time": 1690380402,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688915,
       "num": 688915,
       "word": "付闻樱扮演者陈瑾采访魅力",
@@ -691,14 +707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 649696,
-      "num": 492396,
-      "word": "台风",
-      "onboard_time": 1690380402,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 644977,
       "num": 644977,
       "word": "十大地铁公司中4个明确不准喝水",
@@ -737,6 +745,14 @@
       "onboard_time": 1690298623,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614706,
+      "num": 614706,
+      "word": "暑假工已经渗透到商家内部啦",
+      "onboard_time": 1690380220,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 613835,
@@ -852,7 +868,7 @@
     },
     {
       "raw_hot": 568790,
-      "num": 345028,
+      "num": 478823,
       "word": "39岁大叔男扮女装卖淫3次被抓",
       "onboard_time": 1690377700,
       "rank": 31,
@@ -865,6 +881,14 @@
       "onboard_time": 1690331259,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562215,
+      "num": 364186,
+      "word": "搂了半天发现搂错人了",
+      "onboard_time": 1690380343,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 561892,
@@ -905,14 +929,6 @@
       "onboard_time": 1690338453,
       "rank": 33,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 504533,
-      "num": 504533,
-      "word": "暑假工已经渗透到商家内部啦",
-      "onboard_time": 1690380220,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 501162,
@@ -995,20 +1011,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 468913,
-      "num": 468913,
-      "word": "殷世航出道失败",
-      "onboard_time": 1690380459,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 467387,
       "num": 467387,
       "word": "原来龙口粉丝不能空腹吃",
       "onboard_time": 1690333357,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 463002,
+      "num": 463002,
+      "word": "小鹏",
+      "onboard_time": 1690380640,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 462028,
@@ -1251,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371565,
+      "num": 363974,
+      "word": "匪我思存 这十年发生了好多好多事情",
+      "onboard_time": 1690381479,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 368352,
       "num": 287758,
       "word": "孟美岐i人",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1690368638,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 350484,
+      "num": 350484,
+      "word": "张雨霏真的太强了",
+      "onboard_time": 1690379858,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 345970,
@@ -1459,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327271,
+      "num": 327271,
+      "word": "莲花楼嫁衣案",
+      "onboard_time": 1690381363,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326258,
       "num": 326258,
       "word": "中方回应武汉地震监测中心遭网络攻击",
@@ -1515,20 +1555,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316693,
+      "num": 316693,
+      "word": "研究生称坐5小时高铁跨省面试被鸽",
+      "onboard_time": 1690381120,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316080,
       "num": 326482,
       "word": "有没有人心疼宋焰舅妈啊",
       "onboard_time": 1690294961,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 311946,
-      "num": 311946,
-      "word": "搂了半天发现搂错人了",
-      "onboard_time": 1690380343,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 310853,
@@ -1561,14 +1601,6 @@
       "onboard_time": 1690333777,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305855,
-      "num": 305855,
-      "word": "张雨霏真的太强了",
-      "onboard_time": 1690379858,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 305845,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1690368342,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276796,
+      "num": 276796,
+      "word": "谁家指甲长这样啊",
+      "onboard_time": 1690380640,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 276654,
@@ -1907,14 +1947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246784,
-      "num": 246784,
-      "word": "谁家指甲长这样啊",
-      "onboard_time": 1690380640,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 246324,
       "num": 246324,
       "word": "成毅戴金丝眼镜",
@@ -2067,20 +2099,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218071,
-      "num": 218071,
-      "word": "小鹏",
-      "onboard_time": 1690380640,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 215336,
       "num": 220355,
       "word": "放冰箱里的桃变不甜了",
       "onboard_time": 1690372661,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 214794,
+      "num": 214794,
+      "word": "普通女孩如何变第一眼美女",
+      "onboard_time": 1690381183,
+      "rank": 46,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 213600,
@@ -2128,6 +2160,14 @@
       "word": "在大人的世界里小孩地位挺低的",
       "onboard_time": 1690335629,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 208381,
+      "num": 208381,
+      "word": "被维护的感觉真好",
+      "onboard_time": 1690381906,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -2209,6 +2249,14 @@
       "onboard_time": 1690366664,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201893,
+      "num": 201893,
+      "word": "欢颜",
+      "onboard_time": 1690381964,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 201217,
@@ -2723,8 +2771,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66472,
-      "num": 1447049,
+      "raw_hot": 69627,
+      "num": 2059067,
       "word": "各大高校接力为大运会加油",
       "onboard_time": 1690376023,
       "rank": 2,

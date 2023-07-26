@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690380926229,
+  "endTime": 1690382019687,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2795919,
+      "num": 2795919,
+      "word": "徐嘉余",
+      "onboard_time": 1690379259,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2761034,
       "num": 2761034,
       "word": "殡仪馆证实岳阳17岁男子中枪身亡",
@@ -145,6 +153,14 @@
       "onboard_time": 1690276960,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2698327,
+      "num": 2698327,
+      "word": "狂飙后第二爆的剧是哪部",
+      "onboard_time": 1690379978,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 2688840,
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2106562,
-      "num": 2106562,
-      "word": "徐嘉余",
-      "onboard_time": 1690379259,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2079391,
       "num": 2079391,
       "word": "齐齐哈尔坍塌体育馆已致10人死亡",
@@ -353,6 +361,14 @@
       "onboard_time": 1690265201,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1878265,
+      "num": 1878265,
+      "word": "过度喝饮料 肾衰竭",
+      "onboard_time": 1690379858,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 1864554,
@@ -707,20 +723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1365059,
+      "num": 1365059,
+      "word": "长相思断更的原因",
+      "onboard_time": 1690378660,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1358941,
       "num": 1358941,
       "word": "回流票",
       "onboard_time": 1690180838,
       "rank": 4,
       "category": "音乐,财经"
-    },
-    {
-      "raw_hot": 1355247,
-      "num": 1355247,
-      "word": "长相思断更的原因",
-      "onboard_time": 1690378660,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1354511,
@@ -777,6 +793,14 @@
       "onboard_time": 1690205076,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1311134,
+      "num": 625217,
+      "word": "殷世航出道失败",
+      "onboard_time": 1690380459,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 1307001,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1690153882,
       "rank": 41,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 957511,
-      "num": 957511,
-      "word": "狂飙后第二爆的剧是哪部",
-      "onboard_time": 1690379978,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 955509,
@@ -1755,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 757307,
-      "num": 757307,
-      "word": "过度喝饮料 肾衰竭",
-      "onboard_time": 1690379858,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 756923,
       "num": 423696,
       "word": "男子不慎抠下派出所石狮子嘴里石球",
@@ -1971,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 690332,
+      "num": 492396,
+      "word": "台风",
+      "onboard_time": 1690248456,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688915,
       "num": 688915,
       "word": "付闻樱扮演者陈瑾采访魅力",
@@ -2155,14 +2171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 649696,
-      "num": 492396,
-      "word": "台风",
-      "onboard_time": 1690248456,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 644977,
       "num": 644977,
       "word": "十大地铁公司中4个明确不准喝水",
@@ -2329,6 +2337,14 @@
       "onboard_time": 1690190135,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 614706,
+      "num": 614706,
+      "word": "暑假工已经渗透到商家内部啦",
+      "onboard_time": 1690380220,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 613835,
@@ -2588,7 +2604,7 @@
     },
     {
       "raw_hot": 568790,
-      "num": 345028,
+      "num": 478823,
       "word": "39岁大叔男扮女装卖淫3次被抓",
       "onboard_time": 1690377700,
       "rank": 31,
@@ -2616,6 +2632,14 @@
       "word": "正式确诊为佟湘玉",
       "onboard_time": 1690173640,
       "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 562215,
+      "num": 364186,
+      "word": "搂了半天发现搂错人了",
+      "onboard_time": 1690380343,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -2875,14 +2899,6 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 504533,
-      "num": 504533,
-      "word": "暑假工已经渗透到商家内部啦",
-      "onboard_time": 1690380220,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 503697,
       "num": 503697,
       "word": "地铁上的水果标志是干嘛用的",
@@ -3115,14 +3131,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 468913,
-      "num": 468913,
-      "word": "殷世航出道失败",
-      "onboard_time": 1690380459,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 467387,
       "num": 467387,
       "word": "原来龙口粉丝不能空腹吃",
@@ -3185,6 +3193,14 @@
       "onboard_time": 1690288962,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 463002,
+      "num": 463002,
+      "word": "小鹏",
+      "onboard_time": 1690380640,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 462028,
@@ -3931,6 +3947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371565,
+      "num": 363974,
+      "word": "匪我思存 这十年发生了好多好多事情",
+      "onboard_time": 1690381479,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369088,
       "num": 369088,
       "word": "坍塌事故背后的齐齐哈尔曾走出多名国手",
@@ -4153,6 +4177,14 @@
       "onboard_time": 1690368638,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 350484,
+      "num": 350484,
+      "word": "张雨霏真的太强了",
+      "onboard_time": 1690379858,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 350029,
@@ -4443,6 +4475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327271,
+      "num": 327271,
+      "word": "莲花楼嫁衣案",
+      "onboard_time": 1690381363,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326316,
       "num": 326316,
       "word": "长相思有自己的TFBOYS",
@@ -4579,6 +4619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316693,
+      "num": 316693,
+      "word": "研究生称坐5小时高铁跨省面试被鸽",
+      "onboard_time": 1690381120,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315041,
       "num": 315041,
       "word": "小朋友坐10个小时高铁不吵闹",
@@ -4609,14 +4657,6 @@
       "onboard_time": 1690262805,
       "rank": 40,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 311946,
-      "num": 311946,
-      "word": "搂了半天发现搂错人了",
-      "onboard_time": 1690380343,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 310853,
@@ -4689,14 +4729,6 @@
       "onboard_time": 1690333777,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305855,
-      "num": 305855,
-      "word": "张雨霏真的太强了",
-      "onboard_time": 1690379858,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 305845,
@@ -5017,6 +5049,14 @@
       "onboard_time": 1690177596,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276796,
+      "num": 276796,
+      "word": "谁家指甲长这样啊",
+      "onboard_time": 1690380640,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 276765,
@@ -5425,14 +5465,6 @@
       "onboard_time": 1690348239,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246784,
-      "num": 246784,
-      "word": "谁家指甲长这样啊",
-      "onboard_time": 1690380640,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 246324,
@@ -5859,20 +5891,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218071,
-      "num": 218071,
-      "word": "小鹏",
-      "onboard_time": 1690380640,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 215336,
       "num": 220355,
       "word": "放冰箱里的桃变不甜了",
       "onboard_time": 1690372661,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 214794,
+      "num": 214794,
+      "word": "普通女孩如何变第一眼美女",
+      "onboard_time": 1690381183,
+      "rank": 46,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 214788,
@@ -5976,6 +6008,14 @@
       "word": "在大人的世界里小孩地位挺低的",
       "onboard_time": 1690335629,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 208381,
+      "num": 208381,
+      "word": "被维护的感觉真好",
+      "onboard_time": 1690381906,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -6121,6 +6161,14 @@
       "onboard_time": 1690366664,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201893,
+      "num": 201893,
+      "word": "欢颜",
+      "onboard_time": 1690209229,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 201846,
@@ -6352,14 +6400,6 @@
       "word": "檀健次给狗看长相思",
       "onboard_time": 1690295677,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 193972,
-      "num": 193972,
-      "word": "欢颜",
-      "onboard_time": 1690209229,
-      "rank": 48,
       "category": "影视"
     },
     {
@@ -7275,18 +7315,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68477,
-      "num": 1226209,
-      "word": "感受成都大运会科技与文化交融之美",
-      "onboard_time": 1690290400,
+      "raw_hot": 69627,
+      "num": 2059067,
+      "word": "各大高校接力为大运会加油",
+      "onboard_time": 1690376023,
       "rank": 2,
       "category": "体育"
     },
     {
-      "raw_hot": 66472,
-      "num": 1447049,
-      "word": "各大高校接力为大运会加油",
-      "onboard_time": 1690376023,
+      "raw_hot": 68477,
+      "num": 1226209,
+      "word": "感受成都大运会科技与文化交融之美",
+      "onboard_time": 1690290400,
       "rank": 2,
       "category": "体育"
     },
