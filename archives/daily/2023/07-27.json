@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690413337557,
+  "endTime": 1690414420851,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -11,8 +11,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2209943,
-      "num": 2209943,
+      "raw_hot": 2309546,
+      "num": 2309546,
       "word": "微信白用那么久了",
       "onboard_time": 1690386217,
       "rank": 0,
@@ -41,6 +41,14 @@
       "onboard_time": 1690379259,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1448440,
+      "num": 1448440,
+      "word": "女作家因两次被提醒管好小孩向12306投诉",
+      "onboard_time": 1690412601,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1325892,
@@ -139,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459603,
+      "num": 413085,
+      "word": "美联储宣布加息25个基点",
+      "onboard_time": 1690413022,
+      "rank": 23,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 438191,
       "num": 380757,
       "word": "英少女遭哥哥性侵弃尸后再遭男子侵犯",
@@ -171,14 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 393472,
-      "num": 393472,
-      "word": "女作家因两次被提醒管好小孩向12306投诉",
-      "onboard_time": 1690412601,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381359,
       "num": 381359,
       "word": "如果微信显示对方已删除的话",
@@ -187,11 +195,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 380573,
+      "num": 380573,
+      "word": "杜苏芮或成新世纪影响最严重台风之一",
+      "onboard_time": 1690376078,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379763,
       "num": 379763,
       "word": "怒江百万网红蔡金发账号涉黄被封",
       "onboard_time": 1690370139,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377145,
+      "num": 377145,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -203,20 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348872,
-      "num": 348872,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343182,
-      "num": 343182,
-      "word": "杜苏芮或成新世纪影响最严重台风之一",
-      "onboard_time": 1690376078,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 354577,
+      "num": 354577,
+      "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
+      "onboard_time": 1690378720,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 317986,
@@ -224,6 +240,14 @@
       "word": "邓为男妲己",
       "onboard_time": 1690368462,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 312648,
+      "num": 312648,
+      "word": "活该涂山璟有老婆",
+      "onboard_time": 1690397775,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -243,20 +267,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 288939,
-      "num": 288939,
-      "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
-      "onboard_time": 1690378720,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273847,
       "num": 273847,
       "word": "官方通报男子在张家界跳崖轻生",
       "onboard_time": 1690382206,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272647,
+      "num": 272647,
+      "word": "杨紫最有cp感男主",
+      "onboard_time": 1690394117,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 267198,
@@ -267,20 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261488,
-      "num": 261488,
-      "word": "活该涂山璟有老婆",
-      "onboard_time": 1690397775,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246665,
-      "num": 246665,
-      "word": "杨紫最有cp感男主",
-      "onboard_time": 1690394117,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 254401,
+      "num": 254401,
+      "word": "99年民警被送长得帅破案快锦旗",
+      "onboard_time": 1690412722,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243008,
@@ -297,6 +313,14 @@
       "onboard_time": 1690346620,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233327,
+      "num": 233327,
+      "word": "搂了半天发现搂错人了",
+      "onboard_time": 1690380343,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 227982,
@@ -331,20 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222597,
-      "num": 222597,
-      "word": "搂了半天发现搂错人了",
-      "onboard_time": 1690380343,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218952,
       "num": 218952,
       "word": "暑假工已经渗透到商家内部啦",
       "onboard_time": 1690380220,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208323,
+      "num": 208323,
+      "word": "檀健次白茶蛇",
+      "onboard_time": 1690391722,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 205722,
@@ -369,6 +393,14 @@
       "onboard_time": 1690389029,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196036,
+      "num": 196036,
+      "word": "UFO",
+      "onboard_time": 1690414106,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192127,
@@ -411,12 +443,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179259,
-      "num": 179259,
-      "word": "檀健次白茶蛇",
-      "onboard_time": 1690391722,
-      "rank": 26,
+      "raw_hot": 178206,
+      "num": 178206,
+      "word": "相柳的九条命是如何没的",
+      "onboard_time": 1690413685,
+      "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178087,
+      "num": 178087,
+      "word": "提前感受到对台风的恐惧了",
+      "onboard_time": 1690412662,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 174443,
@@ -425,14 +465,6 @@
       "onboard_time": 1690363371,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 173718,
-      "num": 173718,
-      "word": "美联储宣布加息25个基点",
-      "onboard_time": 1690413022,
-      "rank": 23,
-      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 172562,
@@ -451,12 +483,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140413,
-      "num": 140413,
+      "raw_hot": 142298,
+      "num": 142298,
       "word": "微笑天使萨摩耶狗设崩塌现场",
       "onboard_time": 1690390885,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138521,
+      "num": 138521,
+      "word": "聊斋学家马瑞芳谈刀郎新歌罗刹海市",
+      "onboard_time": 1690412000,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 124667,
+      "num": 124667,
+      "word": "Wayward 菜",
+      "onboard_time": 1690404193,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 121739,
+      "num": 121739,
+      "word": "我国成功发射遥感三十六号卫星",
+      "onboard_time": 1690413626,
+      "rank": 41,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 117701,
@@ -467,23 +523,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105491,
-      "num": 105491,
-      "word": "聊斋学家马瑞芳谈刀郎新歌罗刹海市",
-      "onboard_time": 1690412000,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 103081,
-      "num": 103081,
+      "raw_hot": 116387,
+      "num": 116387,
       "word": "怦然3全员吃瓜滕光正",
       "onboard_time": 1690393639,
       "rank": 25,
       "category": "综艺"
     },
     {
-      "raw_hot": 99065,
+      "raw_hot": 102950,
       "num": 105945,
       "word": "奄奄一息的狗狗倒在后院里",
       "onboard_time": 1690392023,
@@ -491,36 +539,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94456,
-      "num": 99058,
-      "word": "99年民警被送长得帅破案快锦旗",
-      "onboard_time": 1690412722,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94284,
-      "num": 99048,
+      "raw_hot": 99323,
+      "num": 99323,
       "word": "当年爆红的刀郎这些年去哪了",
       "onboard_time": 1690402993,
       "rank": 46,
       "category": "艺人"
     },
     {
-      "raw_hot": 89739,
-      "num": 99034,
-      "word": "Wayward 菜",
-      "onboard_time": 1690404193,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 89467,
-      "num": 99022,
-      "word": "提前感受到对台风的恐惧了",
-      "onboard_time": 1690412662,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 83616,
+      "num": 98952,
+      "word": "30 50 80的理发师有没有区别",
+      "onboard_time": 1690403353,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 81033,
@@ -529,14 +561,6 @@
       "onboard_time": 1690391902,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 78563,
-      "num": 98952,
-      "word": "30 50 80的理发师有没有区别",
-      "onboard_time": 1690403353,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 77930,
@@ -595,8 +619,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15992,
-      "num": 700541,
+      "raw_hot": 16027,
+      "num": 1028829,
       "word": "大运会里的中国风巴蜀韵",
       "onboard_time": 1690362885,
       "rank": 2,

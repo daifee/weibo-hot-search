@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690413337557,
+  "endTime": 1690414420851,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2027,6 +2027,14 @@
       "category": "网红,艺人"
     },
     {
+      "raw_hot": 2309546,
+      "num": 2309546,
+      "word": "微信白用那么久了",
+      "onboard_time": 1690386217,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2307405,
       "num": 2307405,
       "word": "华莎被告发涉嫌演出淫乱罪",
@@ -2241,14 +2249,6 @@
       "onboard_time": 1688552013,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2209943,
-      "num": 2209943,
-      "word": "微信白用那么久了",
-      "onboard_time": 1690386217,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 2208511,
@@ -5425,6 +5425,14 @@
       "onboard_time": 1688826033,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1448440,
+      "num": 1448440,
+      "word": "女作家因两次被提醒管好小孩向12306投诉",
+      "onboard_time": 1690412601,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1448199,
@@ -26419,6 +26427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 459603,
+      "num": 413085,
+      "word": "美联储宣布加息25个基点",
+      "onboard_time": 1690413022,
+      "rank": 23,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 459362,
       "num": 459362,
       "word": "TES运营",
@@ -31003,14 +31019,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 393472,
-      "num": 393472,
-      "word": "女作家因两次被提醒管好小孩向12306投诉",
-      "onboard_time": 1690412601,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392960,
       "num": 392960,
       "word": "我的神仙同事离职了",
@@ -32201,6 +32209,14 @@
       "onboard_time": 1689515916,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377145,
+      "num": 377145,
+      "word": "中缅将再次联手打击缅北诈骗分子",
+      "onboard_time": 1690400173,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377088,
@@ -34641,14 +34657,6 @@
       "onboard_time": 1689390094,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348872,
-      "num": 348872,
-      "word": "中缅将再次联手打击缅北诈骗分子",
-      "onboard_time": 1690400173,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348855,
@@ -37793,6 +37801,14 @@
       "onboard_time": 1688719416,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312648,
+      "num": 312648,
+      "word": "活该涂山璟有老婆",
+      "onboard_time": 1690397775,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 312640,
@@ -42395,6 +42411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272647,
+      "num": 272647,
+      "word": "杨紫最有cp感男主",
+      "onboard_time": 1690394117,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272599,
       "num": 272599,
       "word": "在川渝地区容易脱单吗",
@@ -43731,14 +43755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261488,
-      "num": 261488,
-      "word": "活该涂山璟有老婆",
-      "onboard_time": 1690397775,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261473,
       "num": 254795,
       "word": "赵露思戴蛋糕帽子",
@@ -44641,6 +44657,14 @@
       "onboard_time": 1688456372,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254401,
+      "num": 254401,
+      "word": "99年民警被送长得帅破案快锦旗",
+      "onboard_time": 1690412722,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254383,
@@ -45608,14 +45632,6 @@
       "word": "陈哲远晒段嘉许日记",
       "onboard_time": 1689049961,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246665,
-      "num": 246665,
-      "word": "杨紫最有cp感男主",
-      "onboard_time": 1690394117,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -51059,6 +51075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208323,
+      "num": 208323,
+      "word": "檀健次白茶蛇",
+      "onboard_time": 1690391722,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208264,
       "num": 208264,
       "word": "玉骨遥steve文学",
@@ -53193,6 +53217,14 @@
       "onboard_time": 1689043232,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196036,
+      "num": 196036,
+      "word": "UFO",
+      "onboard_time": 1690414106,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196005,
@@ -55827,14 +55859,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 179259,
-      "num": 179259,
-      "word": "檀健次白茶蛇",
-      "onboard_time": 1690391722,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 179251,
       "num": 179251,
       "word": "ITZY造型师",
@@ -55987,6 +56011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178206,
+      "num": 178206,
+      "word": "相柳的九条命是如何没的",
+      "onboard_time": 1690413685,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178162,
       "num": 178162,
       "word": "梁靖崑钱天一3比1林高远王艺迪",
@@ -56009,6 +56041,14 @@
       "onboard_time": 1690063875,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178087,
+      "num": 178087,
+      "word": "提前感受到对台风的恐惧了",
+      "onboard_time": 1690412662,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 178039,
@@ -56609,14 +56649,6 @@
       "onboard_time": 1688484219,
       "rank": 48,
       "category": "自然"
-    },
-    {
-      "raw_hot": 173718,
-      "num": 173718,
-      "word": "美联储宣布加息25个基点",
-      "onboard_time": 1690413022,
-      "rank": 23,
-      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 173639,
@@ -59227,6 +59259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142298,
+      "num": 142298,
+      "word": "微笑天使萨摩耶狗设崩塌现场",
+      "onboard_time": 1690390885,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142227,
       "num": 142227,
       "word": "i社停运",
@@ -59347,14 +59387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140413,
-      "num": 140413,
-      "word": "微笑天使萨摩耶狗设崩塌现场",
-      "onboard_time": 1690390885,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140303,
       "num": 177922,
       "word": "马龙3比2莫雷高德",
@@ -59433,6 +59465,14 @@
       "onboard_time": 1689314440,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138521,
+      "num": 138521,
+      "word": "聊斋学家马瑞芳谈刀郎新歌罗刹海市",
+      "onboard_time": 1690412000,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 138311,
@@ -60067,6 +60107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124667,
+      "num": 124667,
+      "word": "Wayward 菜",
+      "onboard_time": 1690404193,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124244,
       "num": 124244,
       "word": "警校毕业生教院长比心",
@@ -60129,6 +60177,14 @@
       "onboard_time": 1688836823,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121739,
+      "num": 121739,
+      "word": "我国成功发射遥感三十六号卫星",
+      "onboard_time": 1690413626,
+      "rank": 41,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 121509,
@@ -60289,6 +60345,14 @@
       "onboard_time": 1689112153,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116387,
+      "num": 116387,
+      "word": "怦然3全员吃瓜滕光正",
+      "onboard_time": 1690393639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 116199,
@@ -60691,14 +60755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105491,
-      "num": 105491,
-      "word": "聊斋学家马瑞芳谈刀郎新歌罗刹海市",
-      "onboard_time": 1690412000,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 105451,
       "num": 189763,
       "word": "2023年你的手机折叠了吗",
@@ -60835,14 +60891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103081,
-      "num": 103081,
-      "word": "怦然3全员吃瓜滕光正",
-      "onboard_time": 1690393639,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103053,
       "num": 200549,
       "word": "韩国霸榜彩妆分享",
@@ -60857,6 +60905,14 @@
       "onboard_time": 1689361695,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 102950,
+      "num": 105945,
+      "word": "奄奄一息的狗狗倒在后院里",
+      "onboard_time": 1690392023,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 102562,
@@ -60995,12 +61051,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 99065,
-      "num": 105945,
-      "word": "奄奄一息的狗狗倒在后院里",
-      "onboard_time": 1690392023,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 99323,
+      "num": 99323,
+      "word": "当年爆红的刀郎这些年去哪了",
+      "onboard_time": 1690402993,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 98974,
@@ -61195,28 +61251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94456,
-      "num": 99058,
-      "word": "99年民警被送长得帅破案快锦旗",
-      "onboard_time": 1690412722,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94445,
       "num": 94445,
       "word": "学学李白找工作",
       "onboard_time": 1688939236,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 94284,
-      "num": 99048,
-      "word": "当年爆红的刀郎这些年去哪了",
-      "onboard_time": 1690402993,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 94192,
@@ -61345,22 +61385,6 @@
       "onboard_time": 1688740781,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89739,
-      "num": 99034,
-      "word": "Wayward 菜",
-      "onboard_time": 1690404193,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 89467,
-      "num": 99022,
-      "word": "提前感受到对台风的恐惧了",
-      "onboard_time": 1690412662,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 89386,
@@ -61603,6 +61627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83616,
+      "num": 98952,
+      "word": "30 50 80的理发师有没有区别",
+      "onboard_time": 1690403353,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83555,
       "num": 83555,
       "word": "王楚钦孙颖莎3比0迈斯纳万远",
@@ -61793,14 +61825,6 @@
       "onboard_time": 1689291147,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78563,
-      "num": 98952,
-      "word": "30 50 80的理发师有没有区别",
-      "onboard_time": 1690403353,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 77955,

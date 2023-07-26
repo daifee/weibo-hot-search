@@ -1,0 +1,410 @@
+{
+  "runTime": 1690414420851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2309546,
+        "num": 2309546,
+        "word": "微信白用那么久了",
+        "onboard_time": 1690386217,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1448440,
+        "num": 1448440,
+        "word": "女作家因两次被提醒管好小孩向12306投诉",
+        "onboard_time": 1690412601,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16027,
+        "num": 1028829,
+        "word": "大运会里的中国风巴蜀韵",
+        "onboard_time": 1690362885,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 980390,
+        "num": 980390,
+        "word": "小红书",
+        "onboard_time": 1690387296,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 892824,
+        "num": 892824,
+        "word": "徐嘉余",
+        "onboard_time": 1690379259,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524490,
+        "num": 524490,
+        "word": "消防员抓了只头像鼠身像猫的动物",
+        "onboard_time": 1690386760,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510681,
+        "num": 510681,
+        "word": "狂飙后第二爆的剧是哪部",
+        "onboard_time": 1690379978,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482977,
+        "num": 482977,
+        "word": "台风",
+        "onboard_time": 1690380402,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470781,
+        "num": 470781,
+        "word": "研究生称坐5小时高铁跨省面试被鸽",
+        "onboard_time": 1690381120,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413102,
+        "num": 413102,
+        "word": "哥哥第一次带女朋友回家",
+        "onboard_time": 1690385021,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459603,
+        "num": 413085,
+        "word": "美联储宣布加息25个基点",
+        "onboard_time": 1690413022,
+        "rank": 10,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 412991,
+        "num": 412991,
+        "word": "江宏杰将召开记者会控诉福原爱",
+        "onboard_time": 1690384840,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 380573,
+        "num": 380573,
+        "word": "杜苏芮或成新世纪影响最严重台风之一",
+        "onboard_time": 1690376078,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377145,
+        "num": 377145,
+        "word": "中缅将再次联手打击缅北诈骗分子",
+        "onboard_time": 1690400173,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354577,
+        "num": 354577,
+        "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
+        "onboard_time": 1690378720,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321592,
+        "num": 321592,
+        "word": "警方通报10岁男孩被继母打死",
+        "onboard_time": 1690382805,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312648,
+        "num": 312648,
+        "word": "活该涂山璟有老婆",
+        "onboard_time": 1690397775,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285344,
+        "num": 285344,
+        "word": "过度喝饮料 肾衰竭",
+        "onboard_time": 1690379858,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283672,
+        "num": 283672,
+        "word": "殷世航出道失败",
+        "onboard_time": 1690380459,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272647,
+        "num": 272647,
+        "word": "杨紫最有cp感男主",
+        "onboard_time": 1690394117,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1413355,
+        "num": 272055,
+        "word": "性同意没有模糊的界限",
+        "onboard_time": 1690385439,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254401,
+        "num": 254401,
+        "word": "99年民警被送长得帅破案快锦旗",
+        "onboard_time": 1690412722,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233327,
+        "num": 233327,
+        "word": "搂了半天发现搂错人了",
+        "onboard_time": 1690380343,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215060,
+        "num": 215060,
+        "word": "没想到小鸟的肚子长这样",
+        "onboard_time": 1690382323,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208323,
+        "num": 208323,
+        "word": "檀健次白茶蛇",
+        "onboard_time": 1690391722,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196036,
+        "num": 196036,
+        "word": "UFO",
+        "onboard_time": 1690414106,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183966,
+        "num": 183966,
+        "word": "普通女孩如何变第一眼美女",
+        "onboard_time": 1690381183,
+        "rank": 26,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 178206,
+        "num": 178206,
+        "word": "相柳的九条命是如何没的",
+        "onboard_time": 1690413685,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178087,
+        "num": 178087,
+        "word": "提前感受到对台风的恐惧了",
+        "onboard_time": 1690412662,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175056,
+        "num": 175056,
+        "word": "封神成本30亿",
+        "onboard_time": 1690384123,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169516,
+        "num": 169516,
+        "word": "暑假工已经渗透到商家内部啦",
+        "onboard_time": 1690380220,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167344,
+        "num": 167344,
+        "word": "如果微信显示对方已删除的话",
+        "onboard_time": 1690364925,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164154,
+        "num": 164154,
+        "word": "魏大勋后援会回应戏份被删",
+        "onboard_time": 1690384602,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163555,
+        "num": 163555,
+        "word": "匪我思存 这十年发生了好多好多事情",
+        "onboard_time": 1690381479,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156706,
+        "num": 156706,
+        "word": "许沁脖子不酸吗",
+        "onboard_time": 1690384241,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155181,
+        "num": 155181,
+        "word": "第一批成人小饭桌已经倒闭了",
+        "onboard_time": 1690362349,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142298,
+        "num": 142298,
+        "word": "微笑天使萨摩耶狗设崩塌现场",
+        "onboard_time": 1690390885,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138521,
+        "num": 138521,
+        "word": "聊斋学家马瑞芳谈刀郎新歌罗刹海市",
+        "onboard_time": 1690412000,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133903,
+        "num": 133903,
+        "word": "长相思",
+        "onboard_time": 1690379200,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125303,
+        "num": 125303,
+        "word": "内娱无代餐的脸",
+        "onboard_time": 1690376501,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124667,
+        "num": 124667,
+        "word": "Wayward 菜",
+        "onboard_time": 1690404193,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121739,
+        "num": 121739,
+        "word": "我国成功发射遥感三十六号卫星",
+        "onboard_time": 1690413626,
+        "rank": 41,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 116387,
+        "num": 116387,
+        "word": "怦然3全员吃瓜滕光正",
+        "onboard_time": 1690393639,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104011,
+        "num": 104011,
+        "word": "魏大勋的圈内人缘",
+        "onboard_time": 1690377276,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102950,
+        "num": 102950,
+        "word": "奄奄一息的狗狗倒在后院里",
+        "onboard_time": 1690392023,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99323,
+        "num": 99323,
+        "word": "当年爆红的刀郎这些年去哪了",
+        "onboard_time": 1690402993,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98781,
+        "num": 98781,
+        "word": "王一博 不是因为工作太累导致身体不适",
+        "onboard_time": 1690346620,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90469,
+        "num": 98750,
+        "word": "邓为男妲己",
+        "onboard_time": 1690368462,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83616,
+        "num": 98694,
+        "word": "30 50 80的理发师有没有区别",
+        "onboard_time": 1690403353,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77769,
+        "num": 98607,
+        "word": "杨幂清凉辣妹机场穿搭",
+        "onboard_time": 1690382023,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记伟大胜利捍卫和平正义#"
+    }
+  }
+}
