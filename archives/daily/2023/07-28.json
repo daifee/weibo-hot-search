@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690485186998,
+  "endTime": 1690486435655,
   "band_list": [
     {
       "raw_hot": 5335890,
@@ -427,6 +427,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 97756,
+      "num": 97756,
+      "word": "银行回应职工纵容17岁儿子虐猫",
+      "onboard_time": 1690483096,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89302,
       "num": 106967,
       "word": "亚运主题电影热烈",
@@ -459,11 +467,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 65687,
-      "num": 65687,
-      "word": "银行回应职工纵容17岁儿子虐猫",
-      "onboard_time": 1690483096,
-      "rank": 23,
+      "raw_hot": 37817,
+      "num": 37817,
+      "word": "台风杜苏芮预计28日登陆",
+      "onboard_time": 1690483034,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -475,7 +483,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29871,
+      "raw_hot": 32863,
       "num": 36641,
       "word": "福建海浪打出西游记开场既视感",
       "onboard_time": 1690482977,
@@ -483,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25415,
-      "num": 36626,
-      "word": "台风杜苏芮预计28日登陆",
-      "onboard_time": 1690483034,
+      "raw_hot": 19571,
+      "num": 34077,
+      "word": "知乎网友着手复现韩国常温超导发现",
+      "onboard_time": 1690485554,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [
