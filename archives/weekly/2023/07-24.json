@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690436035895,
+  "endTime": 1690438877476,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -481,6 +481,14 @@
       "onboard_time": 1690182816,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1833400,
+      "num": 1833400,
+      "word": "那英 声替",
+      "onboard_time": 1690433861,
+      "rank": 30,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1829998,
@@ -971,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1291623,
-      "num": 636525,
-      "word": "那英 声替",
-      "onboard_time": 1690433861,
-      "rank": 30,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 1290702,
       "num": 1290702,
       "word": "TFBOYS官博倡议演唱会不应援",
@@ -1065,6 +1065,14 @@
       "onboard_time": 1690281815,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1182006,
+      "num": 1182006,
+      "word": "长相思见面会",
+      "onboard_time": 1690436016,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1181880,
@@ -1347,6 +1355,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1007276,
+      "num": 1007276,
+      "word": "杜海涛眼里的沈梦辰",
+      "onboard_time": 1690436738,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1006555,
       "num": 1006555,
       "word": "长相思",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1690416873,
       "rank": 21,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 961481,
+      "num": 961481,
+      "word": "敖子逸给蒋依依道歉",
+      "onboard_time": 1690436257,
+      "rank": 6,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 959682,
@@ -1761,6 +1785,14 @@
       "onboard_time": 1690164992,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 837481,
+      "num": 357503,
+      "word": "韩国一男子因身高自卑随机杀人",
+      "onboard_time": 1690435834,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 836736,
@@ -2841,6 +2873,14 @@
       "onboard_time": 1690276658,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 596362,
+      "num": 307400,
+      "word": "俄共建议把二战爆发时间改成1937年7月7日",
+      "onboard_time": 1690437155,
+      "rank": 30,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 592112,
@@ -4323,6 +4363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 409253,
+      "num": 353834,
+      "word": "台风或正面袭击厦门市民不要出门",
+      "onboard_time": 1690436497,
+      "rank": 22,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 407096,
       "num": 401363,
       "word": "言承旭说看到杨丞琳好不习惯",
@@ -5571,14 +5619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304828,
-      "num": 304828,
-      "word": "长相思见面会",
-      "onboard_time": 1690436016,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 304252,
       "num": 304252,
       "word": "LNG什么运营",
@@ -5633,6 +5673,14 @@
       "onboard_time": 1690256018,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300876,
+      "num": 300876,
+      "word": "谢娜分享试镜丫鬟经历",
+      "onboard_time": 1690438056,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 299818,
@@ -5729,14 +5777,6 @@
       "onboard_time": 1690162651,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291999,
-      "num": 291999,
-      "word": "韩国一男子因身高自卑随机杀人",
-      "onboard_time": 1690435834,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291973,
@@ -6971,6 +7011,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 209355,
+      "num": 209355,
+      "word": "可口可乐将继续提价",
+      "onboard_time": 1690438113,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 208625,
       "num": 220355,
       "word": "曼城 拜仁",
@@ -7289,6 +7337,14 @@
       "onboard_time": 1690331434,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198214,
+      "num": 209326,
+      "word": "张晚意戴墨镜cue玱玹瞎",
+      "onboard_time": 1690438714,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 198138,
@@ -7625,6 +7681,14 @@
       "onboard_time": 1690127852,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187454,
+      "num": 209306,
+      "word": "后陡门的夏",
+      "onboard_time": 1690437757,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 187086,

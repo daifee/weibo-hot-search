@@ -1,0 +1,410 @@
+{
+  "runTime": 1690438877476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2043593,
+        "num": 2043593,
+        "word": "学信网显示结业女子错失高薪工作起诉学校",
+        "onboard_time": 1690430738,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1833400,
+        "num": 1833400,
+        "word": "那英 声替",
+        "onboard_time": 1690433861,
+        "rank": 1,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 82141,
+        "num": 1496567,
+        "word": "英雄荣光",
+        "onboard_time": 1690426955,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265331,
+        "num": 1265331,
+        "word": "厦门7月27日15时起三停一休",
+        "onboard_time": 1690432901,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182006,
+        "num": 1182006,
+        "word": "长相思见面会",
+        "onboard_time": 1690436016,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1007276,
+        "num": 1007276,
+        "word": "杜海涛眼里的沈梦辰",
+        "onboard_time": 1690436738,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 961481,
+        "num": 961481,
+        "word": "敖子逸给蒋依依道歉",
+        "onboard_time": 1690436257,
+        "rank": 6,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 685193,
+        "num": 685193,
+        "word": "台风杜苏芮路径拐了个直角",
+        "onboard_time": 1690417415,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604315,
+        "num": 604315,
+        "word": "李雪琴评热烈唯一的遗憾",
+        "onboard_time": 1690432721,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585590,
+        "num": 585590,
+        "word": "李玟丧礼遗照曝光",
+        "onboard_time": 1690427133,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579294,
+        "num": 579294,
+        "word": "杨紫评论张晚意",
+        "onboard_time": 1690428873,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537107,
+        "num": 537107,
+        "word": "六公主报道黄牛倒卖演唱会门票",
+        "onboard_time": 1690428816,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 531313,
+        "num": 531313,
+        "word": "向佐 其实我天天都回家",
+        "onboard_time": 1690423892,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516943,
+        "num": 516943,
+        "word": "涂磊报警",
+        "onboard_time": 1690424074,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 505819,
+        "num": 505819,
+        "word": "台风路径",
+        "onboard_time": 1690415731,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417867,
+        "num": 417867,
+        "word": "魏大勋我都快踩张颜齐定位上了",
+        "onboard_time": 1690431701,
+        "rank": 15,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 415749,
+        "num": 415749,
+        "word": "茶百道 剑网",
+        "onboard_time": 1690431762,
+        "rank": 16,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 401734,
+        "num": 401734,
+        "word": "EXO将举办青岛签售会",
+        "onboard_time": 1690433080,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372677,
+        "num": 372677,
+        "word": "深圳一地黄金1克便宜100多卖脱销",
+        "onboard_time": 1690431277,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 358328,
+        "num": 358328,
+        "word": "帕梅拉 芭比舞蹈",
+        "onboard_time": 1690434162,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 837481,
+        "num": 357503,
+        "word": "韩国一男子因身高自卑随机杀人",
+        "onboard_time": 1690435834,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768548,
+        "num": 354308,
+        "word": "女儿捅死父亲情人被判13年",
+        "onboard_time": 1690427493,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409253,
+        "num": 353834,
+        "word": "台风或正面袭击厦门市民不要出门",
+        "onboard_time": 1690436497,
+        "rank": 22,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 403620,
+        "num": 351632,
+        "word": "房子烂尾女子停交房贷上黑名单",
+        "onboard_time": 1690421254,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 384010,
+        "num": 348874,
+        "word": "施柏宇张艺凡吻戏",
+        "onboard_time": 1690435058,
+        "rank": 24,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 377000,
+        "num": 346489,
+        "word": "长相思罚站榜",
+        "onboard_time": 1690426471,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346089,
+        "num": 346089,
+        "word": "杨洋天台情绪大片",
+        "onboard_time": 1690429779,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 329057,
+        "num": 329057,
+        "word": "这次终于看懂五险一金了",
+        "onboard_time": 1690416873,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 316847,
+        "num": 316847,
+        "word": "厦门",
+        "onboard_time": 1690432481,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308905,
+        "num": 308905,
+        "word": "谢娜李维嘉吴昕合体",
+        "onboard_time": 1690433920,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596362,
+        "num": 307400,
+        "word": "俄共建议把二战爆发时间改成1937年7月7日",
+        "onboard_time": 1690437155,
+        "rank": 30,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 300876,
+        "num": 300876,
+        "word": "谢娜分享试镜丫鬟经历",
+        "onboard_time": 1690438056,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297851,
+        "num": 297851,
+        "word": "金星认证王楚然和自己长得像",
+        "onboard_time": 1690418618,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279628,
+        "num": 279628,
+        "word": "迪丽热巴曾在西藏保护过雪豹",
+        "onboard_time": 1690430738,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271727,
+        "num": 271727,
+        "word": "台风",
+        "onboard_time": 1690380402,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266427,
+        "num": 266427,
+        "word": "Angelababy不想承认这是自己",
+        "onboard_time": 1690416271,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265150,
+        "num": 265150,
+        "word": "成功侵犯案视频曝光",
+        "onboard_time": 1690433261,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264929,
+        "num": 264929,
+        "word": "邓为回应叶十七眼里有活",
+        "onboard_time": 1690432362,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249525,
+        "num": 249525,
+        "word": "小红书闪退",
+        "onboard_time": 1690435776,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 223548,
+        "num": 223548,
+        "word": "狗狗生病以为自己快不行了",
+        "onboard_time": 1690424134,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225418,
+        "num": 221166,
+        "word": "刘雨昕 抢票",
+        "onboard_time": 1690434099,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213744,
+        "num": 213744,
+        "word": "藏海戏麟",
+        "onboard_time": 1690431399,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212919,
+        "num": 212919,
+        "word": "舌头的正确摆放位置",
+        "onboard_time": 1690428156,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209355,
+        "num": 209355,
+        "word": "可口可乐将继续提价",
+        "onboard_time": 1690438113,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 201848,
+        "num": 209344,
+        "word": "小红书",
+        "onboard_time": 1690387296,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198214,
+        "num": 209326,
+        "word": "张晚意戴墨镜cue玱玹瞎",
+        "onboard_time": 1690438714,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188577,
+        "num": 209312,
+        "word": "独家童话",
+        "onboard_time": 1690437815,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187454,
+        "num": 209306,
+        "word": "后陡门的夏",
+        "onboard_time": 1690437757,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157150,
+        "num": 209288,
+        "word": "福建广东或遭遇超强台风",
+        "onboard_time": 1690416455,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145015,
+        "num": 209272,
+        "word": "飞猪机票捡漏",
+        "onboard_time": 1690429657,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记伟大胜利捍卫和平正义#"
+    }
+  }
+}

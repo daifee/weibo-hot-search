@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690436035895,
+  "endTime": 1690438877476,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1833400,
+      "num": 1833400,
+      "word": "那英 声替",
+      "onboard_time": 1690433861,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1829998,
       "num": 1829998,
       "word": "六公主报道黄牛倒卖演唱会门票",
@@ -179,12 +187,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1291623,
-      "num": 636525,
-      "word": "那英 声替",
-      "onboard_time": 1690433861,
-      "rank": 30,
-      "category": "幽默,艺人"
+      "raw_hot": 1182006,
+      "num": 1182006,
+      "word": "长相思见面会",
+      "onboard_time": 1690436016,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1019219,
@@ -195,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1007276,
+      "num": 1007276,
+      "word": "杜海涛眼里的沈梦辰",
+      "onboard_time": 1690436738,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 964246,
       "num": 546800,
       "word": "这次终于看懂五险一金了",
       "onboard_time": 1690416873,
       "rank": 21,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 961481,
+      "num": 961481,
+      "word": "敖子逸给蒋依依道歉",
+      "onboard_time": 1690436257,
+      "rank": 6,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 959682,
@@ -256,6 +280,14 @@
       "word": "租客3天没关门邻居以为出事报警",
       "onboard_time": 1690416513,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 837481,
+      "num": 357503,
+      "word": "韩国一男子因身高自卑随机杀人",
+      "onboard_time": 1690435834,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -401,6 +433,14 @@
       "onboard_time": 1690431399,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 596362,
+      "num": 307400,
+      "word": "俄共建议把二战爆发时间改成1937年7月7日",
+      "onboard_time": 1690437155,
+      "rank": 30,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 591476,
@@ -699,6 +739,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 409253,
+      "num": 353834,
+      "word": "台风或正面袭击厦门市民不要出门",
+      "onboard_time": 1690436497,
+      "rank": 22,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 406436,
       "num": 406436,
       "word": "小红书闪退",
@@ -923,20 +971,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304828,
-      "num": 304828,
-      "word": "长相思见面会",
-      "onboard_time": 1690436016,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 302791,
       "num": 302791,
       "word": "林俊杰青岛",
       "onboard_time": 1690386340,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300876,
+      "num": 300876,
+      "word": "谢娜分享试镜丫鬟经历",
+      "onboard_time": 1690438056,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 298528,
@@ -961,14 +1009,6 @@
       "onboard_time": 1690431578,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291999,
-      "num": 291999,
-      "word": "韩国一男子因身高自卑随机杀人",
-      "onboard_time": 1690435834,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289544,
@@ -1147,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209355,
+      "num": 209355,
+      "word": "可口可乐将继续提价",
+      "onboard_time": 1690438113,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 208323,
       "num": 208323,
       "word": "檀健次白茶蛇",
@@ -1203,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198214,
+      "num": 209326,
+      "word": "张晚意戴墨镜cue玱玹瞎",
+      "onboard_time": 1690438714,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198138,
       "num": 198138,
       "word": "TFBOYS十周年周边有四种颜色",
@@ -1233,6 +1289,22 @@
       "onboard_time": 1690381183,
       "rank": 42,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 188577,
+      "num": 209312,
+      "word": "独家童话",
+      "onboard_time": 1690437815,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187454,
+      "num": 209306,
+      "word": "后陡门的夏",
+      "onboard_time": 1690437757,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 185822,
