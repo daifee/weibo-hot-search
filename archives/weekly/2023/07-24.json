@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690462178752,
+  "endTime": 1690464031622,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -201,6 +201,14 @@
       "onboard_time": 1690188874,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2601290,
+      "num": 1255731,
+      "word": "黄晓明去油成功",
+      "onboard_time": 1690461575,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 2523818,
@@ -747,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1598864,
+      "num": 1598864,
+      "word": "广州地铁偶遇孟宴臣",
+      "onboard_time": 1690460195,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1579074,
       "num": 1579074,
       "word": "张家界天门山一游客坠亡",
@@ -1083,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1284844,
+      "num": 1284844,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1284804,
       "num": 474429,
       "word": "48岁男子因彩礼刺死熟睡未婚妻",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1690375360,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1155864,
+      "num": 1155864,
+      "word": "长相思好虐",
+      "onboard_time": 1690462774,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1155021,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1690357415,
       "rank": 13,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 1023549,
-      "num": 1022479,
-      "word": "杜苏芮路径",
-      "onboard_time": 1690454734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1021612,
@@ -1880,6 +1904,14 @@
       "word": "姬发 殷郊",
       "onboard_time": 1690127072,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 870856,
+      "num": 870856,
+      "word": "王楚然亲陈瑾",
+      "onboard_time": 1690463195,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -2411,14 +2443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 733406,
-      "num": 733406,
-      "word": "黄晓明去油成功",
-      "onboard_time": 1690461575,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 731934,
       "num": 731934,
       "word": "秦昊的婚姻观真的好正",
@@ -2683,6 +2707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 674781,
+      "num": 674781,
+      "word": "赵今麦妆造",
+      "onboard_time": 1690461095,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 673896,
       "num": 673896,
       "word": "TES对战EDG",
@@ -2721,14 +2753,6 @@
       "onboard_time": 1690384123,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 669486,
-      "num": 669486,
-      "word": "广州地铁偶遇孟宴臣",
-      "onboard_time": 1690460195,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 668291,
@@ -2937,14 +2961,6 @@
       "onboard_time": 1690439432,
       "rank": 43,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 638459,
-      "num": 638459,
-      "word": "赵今麦妆造",
-      "onboard_time": 1690461095,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 638375,
@@ -3587,6 +3603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542134,
+      "num": 467466,
+      "word": "王楚然 为给大家带来的困扰说一声抱歉",
+      "onboard_time": 1690463856,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542116,
       "num": 542116,
       "word": "奥本海默内地定档",
@@ -3705,6 +3729,14 @@
       "onboard_time": 1690189176,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520495,
+      "num": 520495,
+      "word": "厦门人防台风到底有多努力",
+      "onboard_time": 1690457433,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 519125,
@@ -4235,14 +4267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 459808,
-      "num": 459808,
-      "word": "厦门人防台风到底有多努力",
-      "onboard_time": 1690457433,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 459603,
       "num": 413085,
       "word": "美联储宣布加息25个基点",
@@ -4531,6 +4555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435302,
+      "num": 435302,
+      "word": "邓为只有一部待播剧了",
+      "onboard_time": 1690459595,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435300,
       "num": 416740,
       "word": "警方回应夫妻深夜摆摊妻子跳河身亡",
@@ -4568,6 +4600,14 @@
       "word": "成功侵犯案视频曝光",
       "onboard_time": 1690433261,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 432945,
+      "num": 338424,
+      "word": "不完美受害人 赵寻",
+      "onboard_time": 1690461872,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -4819,12 +4859,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 407904,
+      "num": 331930,
+      "word": "王鹤棣范丞丞魏大勋白敬亭口罩自拍",
+      "onboard_time": 1690462354,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 407096,
       "num": 401363,
       "word": "言承旭说看到杨丞琳好不习惯",
       "onboard_time": 1690295079,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406585,
+      "num": 330809,
+      "word": "李莎旻子一条微博Ella组全员集合",
+      "onboard_time": 1690462774,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 406436,
@@ -4897,14 +4953,6 @@
       "onboard_time": 1690424134,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 400188,
-      "num": 400188,
-      "word": "邓为只有一部待播剧了",
-      "onboard_time": 1690459595,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 400179,
@@ -5651,14 +5699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 338424,
-      "num": 338424,
-      "word": "不完美受害人 赵寻",
-      "onboard_time": 1690461872,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338282,
       "num": 273839,
       "word": "出票",
@@ -5713,6 +5753,14 @@
       "onboard_time": 1690300535,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333745,
+      "num": 333745,
+      "word": "叶诗文止步200蛙半决赛",
+      "onboard_time": 1690462897,
+      "rank": 24,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 333664,
@@ -6659,6 +6707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276235,
+      "num": 276235,
+      "word": "魏大勋武艺跑步",
+      "onboard_time": 1690462833,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274096,
       "num": 274096,
       "word": "明侦的长尾效应",
@@ -7091,6 +7147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244968,
+      "num": 244968,
+      "word": "成都彩虹",
+      "onboard_time": 1690460433,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
       "raw_hot": 244878,
       "num": 244878,
       "word": "徐嘉余100仰半决赛第2晋级",
@@ -7491,12 +7555,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 222722,
-      "num": 222722,
-      "word": "成都彩虹",
-      "onboard_time": 1690460433,
-      "rank": 47,
-      "category": "自然"
+      "raw_hot": 222857,
+      "num": 209033,
+      "word": "邓为给杨紫的备注是小夭",
+      "onboard_time": 1690463498,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 222558,
@@ -8155,6 +8219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196687,
+      "num": 207655,
+      "word": "成都大运会",
+      "onboard_time": 1690463256,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196352,
       "num": 196352,
       "word": "内娱爆火时间最长的组合",
@@ -8585,6 +8657,14 @@
       "onboard_time": 1690341816,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182010,
+      "num": 206033,
+      "word": "和e人去爬山大为震撼",
+      "onboard_time": 1690463134,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 178684,
