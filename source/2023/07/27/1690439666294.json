@@ -1,0 +1,410 @@
+{
+  "runTime": 1690439666294,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2014938,
+        "num": 2014938,
+        "word": "学信网显示结业女子错失高薪工作起诉学校",
+        "onboard_time": 1690430738,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1920445,
+        "num": 1920445,
+        "word": "那英 声替",
+        "onboard_time": 1690433861,
+        "rank": 1,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 81043,
+        "num": 1459217,
+        "word": "英雄荣光",
+        "onboard_time": 1690426955,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164100,
+        "num": 1164100,
+        "word": "厦门7月27日15时起三停一休",
+        "onboard_time": 1690432901,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086886,
+        "num": 1086886,
+        "word": "敖子逸给蒋依依道歉",
+        "onboard_time": 1690436257,
+        "rank": 4,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 1080967,
+        "num": 1080967,
+        "word": "长相思见面会",
+        "onboard_time": 1690436016,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1021612,
+        "num": 1021612,
+        "word": "杜海涛眼里的沈梦辰",
+        "onboard_time": 1690436738,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707403,
+        "num": 707403,
+        "word": "台风杜苏芮路径拐了个直角",
+        "onboard_time": 1690417415,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605524,
+        "num": 605524,
+        "word": "李玟丧礼遗照曝光",
+        "onboard_time": 1690427133,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555809,
+        "num": 555809,
+        "word": "杨紫评论张晚意",
+        "onboard_time": 1690428873,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 686389,
+        "num": 554486,
+        "word": "俄共建议把二战爆发时间改成1937年7月7日",
+        "onboard_time": 1690437155,
+        "rank": 10,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 545475,
+        "num": 545475,
+        "word": "魏大勋我都快踩张颜齐定位上了",
+        "onboard_time": 1690431701,
+        "rank": 11,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 544759,
+        "num": 544759,
+        "word": "李雪琴评热烈唯一的遗憾",
+        "onboard_time": 1690432721,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487074,
+        "num": 487074,
+        "word": "台风路径",
+        "onboard_time": 1690415731,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473708,
+        "num": 473708,
+        "word": "涂磊报警",
+        "onboard_time": 1690424074,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 466002,
+        "num": 466002,
+        "word": "向佐 其实我天天都回家",
+        "onboard_time": 1690423892,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463137,
+        "num": 463137,
+        "word": "台风或正面袭击厦门市民不要出门",
+        "onboard_time": 1690436497,
+        "rank": 16,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 462498,
+        "num": 462498,
+        "word": "六公主报道黄牛倒卖演唱会门票",
+        "onboard_time": 1690428816,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363004,
+        "num": 363004,
+        "word": "深圳一地黄金1克便宜100多卖脱销",
+        "onboard_time": 1690431277,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 343806,
+        "num": 343806,
+        "word": "茶百道 剑网",
+        "onboard_time": 1690431762,
+        "rank": 19,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 833685,
+        "num": 341859,
+        "word": "韩国一男子因身高自卑随机杀人",
+        "onboard_time": 1690435834,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666577,
+        "num": 339077,
+        "word": "女儿捅死父亲情人被判13年",
+        "onboard_time": 1690427493,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382693,
+        "num": 338325,
+        "word": "房子烂尾女子停交房贷上黑名单",
+        "onboard_time": 1690421254,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 356592,
+        "num": 335297,
+        "word": "施柏宇张艺凡吻戏",
+        "onboard_time": 1690435058,
+        "rank": 23,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 332944,
+        "num": 332944,
+        "word": "可口可乐将继续提价",
+        "onboard_time": 1690438113,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 331485,
+        "num": 331485,
+        "word": "长相思罚站榜",
+        "onboard_time": 1690426471,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327066,
+        "num": 327066,
+        "word": "帕梅拉 芭比舞蹈",
+        "onboard_time": 1690434162,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325807,
+        "num": 325807,
+        "word": "杨洋天台情绪大片",
+        "onboard_time": 1690429779,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310905,
+        "num": 310905,
+        "word": "这次终于看懂五险一金了",
+        "onboard_time": 1690416873,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 303609,
+        "num": 303609,
+        "word": "EXO将举办青岛签售会",
+        "onboard_time": 1690433080,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300390,
+        "num": 300390,
+        "word": "厦门",
+        "onboard_time": 1690432481,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274332,
+        "num": 274332,
+        "word": "金星认证王楚然和自己长得像",
+        "onboard_time": 1690418618,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266186,
+        "num": 266186,
+        "word": "谢娜李维嘉吴昕合体",
+        "onboard_time": 1690433920,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252142,
+        "num": 252142,
+        "word": "迪丽热巴曾在西藏保护过雪豹",
+        "onboard_time": 1690430738,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261195,
+        "num": 249486,
+        "word": "谢娜分享试镜丫鬟经历",
+        "onboard_time": 1690438056,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246568,
+        "num": 246568,
+        "word": "台风",
+        "onboard_time": 1690380402,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243443,
+        "num": 243443,
+        "word": "邓为回应叶十七眼里有活",
+        "onboard_time": 1690432362,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237878,
+        "num": 237878,
+        "word": "刘雨昕 抢票",
+        "onboard_time": 1690434099,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230423,
+        "num": 230423,
+        "word": "小红书闪退",
+        "onboard_time": 1690435776,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 226770,
+        "num": 226770,
+        "word": "5名80后操纵115个账户亏掉3.04亿",
+        "onboard_time": 1690439553,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 220145,
+        "num": 220145,
+        "word": "花花和谭爷爷惊喜出镜",
+        "onboard_time": 1690439432,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215091,
+        "num": 215091,
+        "word": "成功侵犯案视频曝光",
+        "onboard_time": 1690433261,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206222,
+        "num": 206222,
+        "word": "狗狗生病以为自己快不行了",
+        "onboard_time": 1690424134,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205922,
+        "num": 205922,
+        "word": "江宏杰召开记者会控诉福原爱",
+        "onboard_time": 1690439432,
+        "rank": 43,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 204456,
+        "num": 204456,
+        "word": "舌头的正确摆放位置",
+        "onboard_time": 1690428156,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204234,
+        "num": 204234,
+        "word": "张晚意戴墨镜cue玱玹瞎",
+        "onboard_time": 1690438714,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184046,
+        "num": 204221,
+        "word": "Angelababy不想承认这是自己",
+        "onboard_time": 1690416271,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183734,
+        "num": 204206,
+        "word": "小红书",
+        "onboard_time": 1690387296,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 177763,
+        "num": 204191,
+        "word": "藏海戏麟",
+        "onboard_time": 1690431399,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172777,
+        "num": 204186,
+        "word": "十个勤天后陡门的夏音源上线",
+        "onboard_time": 1690439194,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念抗美援朝胜利70周年#"
+    }
+  }
+}
