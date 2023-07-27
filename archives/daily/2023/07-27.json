@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690421979903,
+  "endTime": 1690424874504,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2419677,
-      "num": 709702,
+      "num": 710308,
       "word": "金星认证王楚然和自己长得像",
       "onboard_time": 1690418618,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2351783,
+      "num": 2351783,
+      "word": "房子烂尾女子停交房贷上黑名单",
+      "onboard_time": 1690421254,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2309546,
@@ -67,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1608622,
+      "num": 1608622,
+      "word": "涂磊报警",
+      "onboard_time": 1690424074,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1470237,
       "num": 709290,
       "word": "UFO",
@@ -80,6 +96,14 @@
       "word": "李玟",
       "onboard_time": 1690420775,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1358630,
+      "num": 691819,
+      "word": "向佐 其实我天天都回家",
+      "onboard_time": 1690423892,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -107,6 +131,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 959682,
+      "num": 654075,
+      "word": "涂磊",
+      "onboard_time": 1690421612,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 946533,
       "num": 708290,
       "word": "Angelababy不想承认这是自己",
@@ -115,20 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 913674,
+      "num": 913674,
+      "word": "空调安装人员疑操作不当致买家触电身亡",
+      "onboard_time": 1690420954,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 900235,
+      "num": 900235,
+      "word": "台风杜苏芮路径拐了个直角",
+      "onboard_time": 1690417415,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896483,
       "num": 896483,
       "word": "武契奇称中国无人机命中率令人难以置信",
       "onboard_time": 1690415128,
       "rank": 5,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 888730,
-      "num": 888730,
-      "word": "台风杜苏芮路径拐了个直角",
-      "onboard_time": 1690417415,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 854141,
@@ -267,12 +307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 520258,
-      "num": 520258,
-      "word": "房子烂尾女子停交房贷上黑名单",
-      "onboard_time": 1690421254,
-      "rank": 17,
-      "category": "社会新闻,财经"
+      "raw_hot": 540627,
+      "num": 540627,
+      "word": "玱玹被自己射出的子弹正中眉心",
+      "onboard_time": 1690418559,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 513617,
+      "num": 319753,
+      "word": "男子称女友出轨找准岳父退彩礼遇害",
+      "onboard_time": 1690424254,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499397,
@@ -289,6 +337,14 @@
       "onboard_time": 1690416994,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 485005,
+      "num": 485005,
+      "word": "aespa或有中国公演",
+      "onboard_time": 1690423294,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 475303,
@@ -345,22 +401,6 @@
       "onboard_time": 1690376501,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 419232,
-      "num": 378104,
-      "word": "空调安装人员疑操作不当致买家触电身亡",
-      "onboard_time": 1690420954,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415129,
-      "num": 415129,
-      "word": "玱玹被自己射出的子弹正中眉心",
-      "onboard_time": 1690418559,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 413626,
@@ -427,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355303,
+      "num": 355303,
+      "word": "业内称大鹏是中国路演第一人",
+      "onboard_time": 1690422574,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354577,
       "num": 354577,
       "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
       "onboard_time": 1690378720,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352432,
+      "num": 352432,
+      "word": "邓为出道前风格",
+      "onboard_time": 1690423954,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 335602,
@@ -443,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324405,
-      "num": 324405,
-      "word": "涂磊",
-      "onboard_time": 1690421612,
-      "rank": 32,
-      "category": "社会新闻,艺人"
+      "raw_hot": 318688,
+      "num": 318688,
+      "word": "大左去看望金韩一父母",
+      "onboard_time": 1690424194,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 317986,
@@ -497,6 +553,22 @@
       "onboard_time": 1690383823,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 289458,
+      "num": 289458,
+      "word": "狗狗生病以为自己快不行了",
+      "onboard_time": 1690424134,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 287521,
+      "num": 287521,
+      "word": "莲花楼",
+      "onboard_time": 1690421794,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 273847,
@@ -603,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223205,
+      "num": 223205,
+      "word": "91岁抗美援朝老兵4次死里逃生",
+      "onboard_time": 1690423534,
+      "rank": 41,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 222171,
       "num": 222171,
       "word": "古蔺",
@@ -683,14 +763,6 @@
       "category": "美妆,时尚"
     },
     {
-      "raw_hot": 190993,
-      "num": 190993,
-      "word": "莲花楼",
-      "onboard_time": 1690421794,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185822,
       "num": 185822,
       "word": "小鹏",
@@ -713,6 +785,14 @@
       "onboard_time": 1690377276,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182915,
+      "num": 182915,
+      "word": "皇马vs曼联",
+      "onboard_time": 1690422032,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 181395,
@@ -899,7 +979,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16027,
+      "raw_hot": 17129,
       "num": 1841676,
       "word": "大运会里的中国风巴蜀韵",
       "onboard_time": 1690362885,
