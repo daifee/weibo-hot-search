@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690490032274,
+  "endTime": 1690492417398,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -9755,6 +9755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86170,
+      "num": 86170,
+      "word": "直播台风杜苏芮",
+      "onboard_time": 1690489874,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84548,
       "num": 2208878,
       "word": "青春主场欢聚在成都",
@@ -9859,6 +9867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66304,
+      "num": 66304,
+      "word": "知乎网友着手复现韩国常温超导发现",
+      "onboard_time": 1690485554,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 65846,
       "num": 96017,
       "word": "宁艺卓芭比造型",
@@ -9913,14 +9929,6 @@
       "onboard_time": 1690459232,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58300,
-      "num": 58300,
-      "word": "知乎网友着手复现韩国常温超导发现",
-      "onboard_time": 1690485554,
-      "rank": 49,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 58247,
@@ -10057,14 +10065,6 @@
       "onboard_time": 1690398734,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18978,
-      "num": 27436,
-      "word": "直播台风杜苏芮",
-      "onboard_time": 1690489874,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17777,
