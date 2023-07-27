@@ -1,0 +1,410 @@
+{
+  "runTime": 1690453061055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1753544,
+        "num": 1753544,
+        "word": "长相思新浪扫楼",
+        "onboard_time": 1690447655,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286255,
+        "num": 1702430,
+        "word": "别催单你的外卖小哥可能正在灭火",
+        "onboard_time": 1690448736,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90995,
+        "num": 1509994,
+        "word": "台风灾害防范小贴士",
+        "onboard_time": 1690444595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2000132,
+        "num": 1405824,
+        "word": "韩国一父亲猛抽校园霸凌者100多个耳光",
+        "onboard_time": 1690448557,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165358,
+        "num": 1271119,
+        "word": "91岁抗美援朝老兵曾血战7天7夜",
+        "onboard_time": 1690451433,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1229379,
+        "num": 1229379,
+        "word": "民政部回应结婚必须提供户口簿",
+        "onboard_time": 1690447234,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111259,
+        "num": 1103578,
+        "word": "4只水豚宝宝走哪都跟着妈妈",
+        "onboard_time": 1690451556,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004756,
+        "num": 1004756,
+        "word": "王栎鑫是娱乐圈大漏勺吧",
+        "onboard_time": 1690451674,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 925344,
+        "num": 925344,
+        "word": "举报涂磊女子所属村干部发声",
+        "onboard_time": 1690443872,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 872283,
+        "num": 872283,
+        "word": "花花和谭爷爷惊喜出镜",
+        "onboard_time": 1690439432,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176270,
+        "num": 843920,
+        "word": "TFBOYS三人三地",
+        "onboard_time": 1690445374,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805207,
+        "num": 805207,
+        "word": "鹿晗有在努力抵制黄牛",
+        "onboard_time": 1690449874,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 731730,
+        "num": 731730,
+        "word": "黄晓明这回真听劝了",
+        "onboard_time": 1690451433,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 711738,
+        "num": 711738,
+        "word": "江宏杰宣布告赢福原爱",
+        "onboard_time": 1690440692,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 676767,
+        "num": 676767,
+        "word": "国外很贵但国内却便宜的东西",
+        "onboard_time": 1690451974,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 662353,
+        "num": 662353,
+        "word": "女子半个月用电1500度质疑房东改电表",
+        "onboard_time": 1690449398,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616889,
+        "num": 616889,
+        "word": "小夭涂山璟亲嘴了",
+        "onboard_time": 1690444831,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576605,
+        "num": 576605,
+        "word": "邓为早期 潮到风湿",
+        "onboard_time": 1690443692,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596208,
+        "num": 571820,
+        "word": "长相思见面会",
+        "onboard_time": 1690436016,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544057,
+        "num": 544057,
+        "word": "台风或正面袭击厦门市民不要出门",
+        "onboard_time": 1690436497,
+        "rank": 19,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 1095008,
+        "num": 531917,
+        "word": "港媒曝李玟百件礼服被其老公截留",
+        "onboard_time": 1690445974,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636606,
+        "num": 525161,
+        "word": "上班绝对不穿喜欢的衣服",
+        "onboard_time": 1690452098,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 636509,
+        "num": 520134,
+        "word": "彩礼拿去装修是不是恋爱脑",
+        "onboard_time": 1690451315,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 497211,
+        "num": 497211,
+        "word": "迪丽热巴说自己有双下巴",
+        "onboard_time": 1690446994,
+        "rank": 23,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 487499,
+        "num": 487499,
+        "word": "二胎妈妈两次宫外孕第三次双胚一个又在宫外",
+        "onboard_time": 1690448674,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456605,
+        "num": 456605,
+        "word": "莲花楼央八定档",
+        "onboard_time": 1690446815,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441578,
+        "num": 441578,
+        "word": "成年人的崩溃是从搬家开始的",
+        "onboard_time": 1690448975,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426163,
+        "num": 426163,
+        "word": "莲花楼江湖侠客莲欢会",
+        "onboard_time": 1690452993,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424143,
+        "num": 424143,
+        "word": "宁安如梦",
+        "onboard_time": 1690451974,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417971,
+        "num": 417971,
+        "word": "易烊千玺到达西宁",
+        "onboard_time": 1690452155,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 435300,
+        "num": 416740,
+        "word": "警方回应夫妻深夜摆摊妻子跳河身亡",
+        "onboard_time": 1690451497,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409194,
+        "num": 409194,
+        "word": "没人比我同事关心台风到哪了",
+        "onboard_time": 1690450716,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 393849,
+        "num": 393849,
+        "word": "易鹏飞被双开",
+        "onboard_time": 1690451858,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386052,
+        "num": 386052,
+        "word": "厦门7月27日15时起三停一休",
+        "onboard_time": 1690432901,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360516,
+        "num": 360516,
+        "word": "玱玹提醒玟小六禁欲",
+        "onboard_time": 1690452816,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339782,
+        "num": 339782,
+        "word": "高考后驾校教练拉了一车学霸",
+        "onboard_time": 1690440814,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328125,
+        "num": 328125,
+        "word": "杨紫邓为cp名",
+        "onboard_time": 1690451674,
+        "rank": 36,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 310303,
+        "num": 310303,
+        "word": "福建人防御台风有多努力",
+        "onboard_time": 1690442374,
+        "rank": 37,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 305968,
+        "num": 305968,
+        "word": "苏明成 宋焰许沁",
+        "onboard_time": 1690450057,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300707,
+        "num": 300707,
+        "word": "TFBOYS粉丝写小作文抢赞助票",
+        "onboard_time": 1690452515,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300570,
+        "num": 300570,
+        "word": "徐梦洁余承恩演匆匆那年",
+        "onboard_time": 1690452757,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299184,
+        "num": 299184,
+        "word": "刘宇宁给迪丽热巴拍照",
+        "onboard_time": 1690452936,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293003,
+        "num": 293003,
+        "word": "厦门",
+        "onboard_time": 1690432481,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299039,
+        "num": 292545,
+        "word": "迪丽热巴把刘宇宁的歌声认成龚俊",
+        "onboard_time": 1690451858,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286627,
+        "num": 286627,
+        "word": "东方甄选直播间被关",
+        "onboard_time": 1690444232,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 272005,
+        "num": 272005,
+        "word": "海昏侯穷得只剩下钱了",
+        "onboard_time": 1690452215,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210656,
+        "num": 266818,
+        "word": "大运会",
+        "onboard_time": 1690452632,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131261,
+        "num": 264470,
+        "word": "小红书闪退",
+        "onboard_time": 1690435776,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125881,
+        "num": 262669,
+        "word": "5名80后操纵115个账户亏掉3.04亿",
+        "onboard_time": 1690439553,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 262128,
+        "num": 262128,
+        "word": "文俊辉新剧一个人四种身份",
+        "onboard_time": 1690451198,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念抗美援朝胜利70周年#"
+    }
+  }
+}
