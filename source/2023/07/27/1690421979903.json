@@ -1,0 +1,410 @@
+{
+  "runTime": 1690421979903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2120966,
+        "num": 2120966,
+        "word": "女作家因两次被提醒管好小孩向12306投诉",
+        "onboard_time": 1690412601,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1711265,
+        "num": 1711265,
+        "word": "如果封神失败导演需用10年还债",
+        "onboard_time": 1690416694,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12388,
+        "num": 1519372,
+        "word": "大运会里的中国风巴蜀韵",
+        "onboard_time": 1690362885,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1499635,
+        "num": 1499635,
+        "word": "微信白用那么久了",
+        "onboard_time": 1690386217,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1462595,
+        "num": 1462595,
+        "word": "李玟",
+        "onboard_time": 1690420775,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014251,
+        "num": 1014251,
+        "word": "台风",
+        "onboard_time": 1690380402,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888730,
+        "num": 888730,
+        "word": "台风杜苏芮路径拐了个直角",
+        "onboard_time": 1690417415,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776245,
+        "num": 776245,
+        "word": "租客3天没关门邻居以为出事报警",
+        "onboard_time": 1690416513,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714447,
+        "num": 714447,
+        "word": "谢楠说吴所谓是王一博的铁粉",
+        "onboard_time": 1690416271,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 662360,
+        "num": 662360,
+        "word": "小红书回应闪退bug已修复",
+        "onboard_time": 1690420473,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2419677,
+        "num": 660054,
+        "word": "金星认证王楚然和自己长得像",
+        "onboard_time": 1690418618,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1232470,
+        "num": 656539,
+        "word": "UFO",
+        "onboard_time": 1690414106,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908867,
+        "num": 653777,
+        "word": "Angelababy不想承认这是自己",
+        "onboard_time": 1690416271,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807590,
+        "num": 648953,
+        "word": "小红书",
+        "onboard_time": 1690387296,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 648042,
+        "num": 648042,
+        "word": "台风路径",
+        "onboard_time": 1690415731,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564829,
+        "num": 564829,
+        "word": "王一博的圈内人缘",
+        "onboard_time": 1690415671,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562696,
+        "num": 562696,
+        "word": "武契奇称中国无人机命中率令人难以置信",
+        "onboard_time": 1690415128,
+        "rank": 16,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 520258,
+        "num": 520258,
+        "word": "房子烂尾女子停交房贷上黑名单",
+        "onboard_time": 1690421254,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 514487,
+        "num": 514487,
+        "word": "姐弟垃圾堆捡31部苹果手机价值21万",
+        "onboard_time": 1690415311,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499397,
+        "num": 499397,
+        "word": "福原爱律师声明",
+        "onboard_time": 1690421134,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 914208,
+        "num": 499280,
+        "word": "性同意没有模糊的界限",
+        "onboard_time": 1690385439,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 854082,
+        "num": 498530,
+        "word": "这次终于看懂五险一金了",
+        "onboard_time": 1690416873,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 688674,
+        "num": 498264,
+        "word": "为什么小腿粗一定要练平衡",
+        "onboard_time": 1690416815,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497639,
+        "num": 497639,
+        "word": "李昌钰就伪造证据事件发声",
+        "onboard_time": 1690415068,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448878,
+        "num": 448878,
+        "word": "定期查肠镜真的很有必要",
+        "onboard_time": 1690416994,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420625,
+        "num": 420625,
+        "word": "刀郎诉降央卓玛侵权西海情歌获赔7万",
+        "onboard_time": 1690415671,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 415129,
+        "num": 415129,
+        "word": "玱玹被自己射出的子弹正中眉心",
+        "onboard_time": 1690418559,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412880,
+        "num": 412880,
+        "word": "活该涂山璟有老婆",
+        "onboard_time": 1690397775,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395802,
+        "num": 395802,
+        "word": "歌手希妮德奥康娜去世",
+        "onboard_time": 1690419634,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 390892,
+        "num": 390892,
+        "word": "泰国恐怖片依旧能打",
+        "onboard_time": 1690419457,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419232,
+        "num": 378104,
+        "word": "空调安装人员疑操作不当致买家触电身亡",
+        "onboard_time": 1690420954,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353659,
+        "num": 353659,
+        "word": "狂飙后第二爆的剧是哪部",
+        "onboard_time": 1690379978,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324405,
+        "num": 324405,
+        "word": "涂磊",
+        "onboard_time": 1690421612,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 315575,
+        "num": 315575,
+        "word": "相柳番外",
+        "onboard_time": 1690419634,
+        "rank": 33,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 305534,
+        "num": 305534,
+        "word": "杨玏伯邑考三场戏",
+        "onboard_time": 1690420832,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304328,
+        "num": 304328,
+        "word": "福建广东或遭遇超强台风",
+        "onboard_time": 1690416455,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273809,
+        "num": 273809,
+        "word": "哥哥第一次带女朋友回家",
+        "onboard_time": 1690385021,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260839,
+        "num": 260839,
+        "word": "殷世航出道失败",
+        "onboard_time": 1690380459,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249126,
+        "num": 249126,
+        "word": "超导",
+        "onboard_time": 1690421492,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 241059,
+        "num": 241059,
+        "word": "反向催婚说得妈妈哑口无言",
+        "onboard_time": 1690417475,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 233927,
+        "num": 233927,
+        "word": "搂了半天发现搂错人了",
+        "onboard_time": 1690380343,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232657,
+        "num": 232657,
+        "word": "长相思",
+        "onboard_time": 1690379200,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222171,
+        "num": 222171,
+        "word": "古蔺",
+        "onboard_time": 1690421432,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220183,
+        "num": 220183,
+        "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
+        "onboard_time": 1690378720,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196635,
+        "num": 196635,
+        "word": "没想到小鸟的肚子长这样",
+        "onboard_time": 1690382323,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190993,
+        "num": 190993,
+        "word": "莲花楼",
+        "onboard_time": 1690421794,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184649,
+        "num": 184649,
+        "word": "IVE将于10月回归",
+        "onboard_time": 1690420655,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178385,
+        "num": 178385,
+        "word": "长相思有多细节",
+        "onboard_time": 1690420115,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170310,
+        "num": 170310,
+        "word": "消防员抓了只头像鼠身像猫的动物",
+        "onboard_time": 1690386760,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168379,
+        "num": 168379,
+        "word": "娜然见到袁泉的反应",
+        "onboard_time": 1690421912,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#与时代共奋飞#"
+    }
+  }
+}
