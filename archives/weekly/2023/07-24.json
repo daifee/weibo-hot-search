@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690434925202,
+  "endTime": 1690436035895,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -851,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1368058,
+      "num": 1368058,
+      "word": "厦门7月27日15时起三停一休",
+      "onboard_time": 1690432901,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1367657,
       "num": 1367657,
       "word": "网曝大爷大妈跑到水库放生矿泉水",
@@ -888,14 +896,6 @@
       "word": "齐齐哈尔三十四中坍塌现场救出11人",
       "onboard_time": 1690125759,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1352802,
-      "num": 1352802,
-      "word": "厦门7月27日15时起三停一休",
-      "onboard_time": 1690432901,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -969,6 +969,14 @@
       "onboard_time": 1690371577,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1291623,
+      "num": 636525,
+      "word": "那英 声替",
+      "onboard_time": 1690433861,
+      "rank": 30,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1290702,
@@ -2475,14 +2483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658281,
-      "num": 436340,
-      "word": "那英 声替",
-      "onboard_time": 1690433861,
-      "rank": 30,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 658165,
       "num": 658165,
       "word": "迪丽热巴龚俊的手",
@@ -2497,6 +2497,14 @@
       "onboard_time": 1690258597,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 657658,
+      "num": 657658,
+      "word": "茶百道 剑网",
+      "onboard_time": 1690431762,
+      "rank": 36,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 654258,
@@ -2569,6 +2577,14 @@
       "onboard_time": 1690190913,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 643814,
+      "num": 643814,
+      "word": "谢娜李维嘉吴昕合体",
+      "onboard_time": 1690433920,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 641560,
@@ -2947,14 +2963,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 576448,
-      "num": 576448,
-      "word": "茶百道 剑网",
-      "onboard_time": 1690431762,
-      "rank": 36,
-      "category": "游戏,美食"
-    },
-    {
       "raw_hot": 575978,
       "num": 575978,
       "word": "看出来张晚意真的很急",
@@ -3009,6 +3017,14 @@
       "onboard_time": 1690428272,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569943,
+      "num": 551558,
+      "word": "施柏宇张艺凡吻戏",
+      "onboard_time": 1690435058,
+      "rank": 21,
+      "category": "综艺,影视"
     },
     {
       "raw_hot": 569388,
@@ -3123,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550441,
+      "num": 550441,
+      "word": "魏大勋我都快踩张颜齐定位上了",
+      "onboard_time": 1690431701,
+      "rank": 32,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 549902,
       "num": 549902,
       "word": "魏大勋的爆火意味着什么",
@@ -3185,14 +3209,6 @@
       "onboard_time": 1690271197,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 541343,
-      "num": 541343,
-      "word": "谢娜李维嘉吴昕合体",
-      "onboard_time": 1690433920,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 539412,
@@ -3459,14 +3475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497973,
-      "num": 497973,
-      "word": "魏大勋我都快踩张颜齐定位上了",
-      "onboard_time": 1690431701,
-      "rank": 32,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 497831,
       "num": 383195,
       "word": "没什么就是想说订婚了",
@@ -3635,6 +3643,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 475794,
+      "num": 475794,
+      "word": "迪丽热巴曾在西藏保护过雪豹",
+      "onboard_time": 1690430738,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475303,
       "num": 475303,
       "word": "活该涂山璟有老婆",
@@ -3665,14 +3681,6 @@
       "onboard_time": 1690423954,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 472574,
-      "num": 472574,
-      "word": "迪丽热巴曾在西藏保护过雪豹",
-      "onboard_time": 1690430738,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 472361,
@@ -4323,6 +4331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406436,
+      "num": 406436,
+      "word": "小红书闪退",
+      "onboard_time": 1690435776,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 406319,
       "num": 406319,
       "word": "封神第一部票房",
@@ -4409,6 +4425,14 @@
       "onboard_time": 1690159054,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399267,
+      "num": 399267,
+      "word": "帕梅拉 芭比舞蹈",
+      "onboard_time": 1690434162,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 399257,
@@ -4891,6 +4915,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 351559,
+      "num": 351559,
+      "word": "邓为回应叶十七眼里有活",
+      "onboard_time": 1690432362,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351540,
       "num": 351540,
       "word": "怦然心动20岁第三季",
@@ -5017,14 +5049,6 @@
       "onboard_time": 1690168595,
       "rank": 38,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 341788,
-      "num": 341788,
-      "word": "邓为回应叶十七眼里有活",
-      "onboard_time": 1690432362,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 341692,
@@ -5547,6 +5571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304828,
+      "num": 304828,
+      "word": "长相思见面会",
+      "onboard_time": 1690436016,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304252,
       "num": 304252,
       "word": "LNG什么运营",
@@ -5691,20 +5723,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292727,
-      "num": 292727,
-      "word": "帕梅拉 芭比舞蹈",
-      "onboard_time": 1690434162,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 292313,
       "num": 292313,
       "word": "江疏影素颜好白",
       "onboard_time": 1690162651,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291999,
+      "num": 291999,
+      "word": "韩国一男子因身高自卑随机杀人",
+      "onboard_time": 1690435834,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291973,
