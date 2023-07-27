@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690454029518,
+  "endTime": 1690456434739,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -185,6 +185,14 @@
       "onboard_time": 1690276960,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2709059,
+      "num": 2709059,
+      "word": "国外很贵但国内却便宜的东西",
+      "onboard_time": 1690451974,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 2688840,
@@ -689,14 +697,6 @@
       "onboard_time": 1690200574,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1653642,
-      "num": 1653642,
-      "word": "国外很贵但国内却便宜的东西",
-      "onboard_time": 1690451974,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 1627552,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1690357415,
       "rank": 13,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1023549,
+      "num": 462831,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1021612,
@@ -2355,6 +2363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 732227,
+      "num": 459311,
+      "word": "中国气象局启动台风一级应急响应",
+      "onboard_time": 1690454497,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731934,
       "num": 731934,
       "word": "秦昊的婚姻观真的好正",
@@ -2483,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701626,
+      "num": 701626,
+      "word": "杨紫在见面会上突然看到爸爸",
+      "onboard_time": 1690453776,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 701322,
       "num": 579125,
       "word": "妈妈回家故意敲门3岁男童装没听到",
@@ -2553,6 +2577,14 @@
       "onboard_time": 1690446214,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685209,
+      "num": 685209,
+      "word": "宁安如梦",
+      "onboard_time": 1690451974,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 683441,
@@ -2843,6 +2875,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 640581,
+      "num": 640581,
+      "word": "荔枝烤肉",
+      "onboard_time": 1690454313,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 638375,
       "num": 263311,
       "word": "长期用棉签掏耳朵的后果",
@@ -2929,6 +2969,14 @@
       "onboard_time": 1690248156,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 628699,
+      "num": 628699,
+      "word": "刘宇宁给迪丽热巴拍照",
+      "onboard_time": 1690452936,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 627108,
@@ -3843,14 +3891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489318,
-      "num": 489318,
-      "word": "刘宇宁给迪丽热巴拍照",
-      "onboard_time": 1690452936,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 489228,
       "num": 489228,
       "word": "ELK霞五杀",
@@ -3883,6 +3923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 483920,
+      "num": 483920,
+      "word": "杨紫有4部待播剧",
+      "onboard_time": 1690454973,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483686,
       "num": 737701,
       "word": "齐齐哈尔召开体育馆坍塌事故发布会",
@@ -3907,12 +3955,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 481261,
-      "num": 481261,
-      "word": "宁安如梦",
-      "onboard_time": 1690451974,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 479658,
+      "num": 479658,
+      "word": "易鹏飞被双开",
+      "onboard_time": 1690451858,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478684,
@@ -4033,14 +4081,6 @@
       "onboard_time": 1690358377,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 467859,
-      "num": 467859,
-      "word": "易鹏飞被双开",
-      "onboard_time": 1690451858,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467387,
@@ -5076,7 +5116,7 @@
     },
     {
       "raw_hot": 372780,
-      "num": 1702430,
+      "num": 1897331,
       "word": "别催单你的外卖小哥可能正在灭火",
       "onboard_time": 1690448736,
       "rank": 42,
@@ -5168,14 +5208,6 @@
       "word": "长相思主演都这么会唠吗",
       "onboard_time": 1690288362,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 364744,
-      "num": 364744,
-      "word": "杨紫在见面会上突然看到爸爸",
-      "onboard_time": 1690453776,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -5387,6 +5419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346307,
+      "num": 346307,
+      "word": "Key社成为腾讯子公司",
+      "onboard_time": 1690453233,
+      "rank": 46,
+      "category": "游戏,科技"
+    },
+    {
       "raw_hot": 345970,
       "num": 287687,
       "word": "大摆锤上游客呕吐底下排队人遭殃",
@@ -5537,6 +5577,14 @@
       "onboard_time": 1690266039,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334366,
+      "num": 334366,
+      "word": "T1",
+      "onboard_time": 1690455873,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 334103,
@@ -6155,6 +6203,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 295615,
+      "num": 295615,
+      "word": "多少次疼痛才换来的默契",
+      "onboard_time": 1690454137,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294569,
       "num": 294569,
       "word": "化妆店里的化妆用品真的很脏",
@@ -6201,6 +6257,14 @@
       "onboard_time": 1690162651,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292196,
+      "num": 292196,
+      "word": "海昏侯穷得只剩下钱了",
+      "onboard_time": 1690452215,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 291973,
@@ -6499,14 +6563,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 272005,
-      "num": 272005,
-      "word": "海昏侯穷得只剩下钱了",
-      "onboard_time": 1690452215,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 271739,
       "num": 271739,
       "word": "腾讯科技深圳公司新增房地产业务",
@@ -6601,6 +6657,14 @@
       "onboard_time": 1690331617,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265686,
+      "num": 265686,
+      "word": "JDG对战LNG",
+      "onboard_time": 1690453355,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 264562,
@@ -7347,14 +7411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219589,
-      "num": 227849,
-      "word": "Key社成为腾讯子公司",
-      "onboard_time": 1690453233,
-      "rank": 46,
-      "category": "游戏,科技"
-    },
-    {
       "raw_hot": 219553,
       "num": 219553,
       "word": "张远自曝大学初恋",
@@ -7491,6 +7547,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 209121,
+      "num": 1424718,
+      "word": "4只水豚宝宝走哪都跟着妈妈",
+      "onboard_time": 1690451556,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208625,
       "num": 220355,
       "word": "曼城 拜仁",
@@ -7521,6 +7585,14 @@
       "onboard_time": 1690391722,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207898,
+      "num": 207898,
+      "word": "王楚然的反多巴胺衣橱",
+      "onboard_time": 1690456355,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 207755,
@@ -7665,6 +7737,14 @@
       "onboard_time": 1690268500,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204470,
+      "num": 204470,
+      "word": "阿娇AI版桑酒vs真人版桑酒",
+      "onboard_time": 1690455755,
+      "rank": 49,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 203974,
@@ -8339,14 +8419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181173,
-      "num": 1424718,
-      "word": "4只水豚宝宝走哪都跟着妈妈",
-      "onboard_time": 1690451556,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178684,
       "num": 201046,
       "word": "兵哥哥这一跳真帅",
@@ -8561,14 +8633,6 @@
       "onboard_time": 1690291719,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161574,
-      "num": 223196,
-      "word": "JDG对战LNG",
-      "onboard_time": 1690453355,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 160923,
@@ -8980,7 +9044,7 @@
     },
     {
       "raw_hot": 96877,
-      "num": 1568772,
+      "num": 1590552,
       "word": "台风灾害防范小贴士",
       "onboard_time": 1690444595,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690454029518,
+  "endTime": 1690456434739,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1688649035,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2709059,
+      "num": 2709059,
+      "word": "国外很贵但国内却便宜的东西",
+      "onboard_time": 1690451974,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 2696359,
@@ -4529,14 +4537,6 @@
       "onboard_time": 1689251013,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1653642,
-      "num": 1653642,
-      "word": "国外很贵但国内却便宜的东西",
-      "onboard_time": 1690451974,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 1651004,
@@ -9497,6 +9497,14 @@
       "onboard_time": 1689125553,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1023549,
+      "num": 462831,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1023351,
@@ -15579,6 +15587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 732227,
+      "num": 459311,
+      "word": "中国气象局启动台风一级应急响应",
+      "onboard_time": 1690454497,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732081,
       "num": 683861,
       "word": "杨迪童年被父亲打到鼻子出血",
@@ -16473,6 +16489,14 @@
       "onboard_time": 1690117175,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 701626,
+      "num": 701626,
+      "word": "杨紫在见面会上突然看到爸爸",
+      "onboard_time": 1690453776,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 701322,
@@ -18707,6 +18731,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 640581,
+      "num": 640581,
+      "word": "荔枝烤肉",
+      "onboard_time": 1690454313,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 640580,
       "num": 640580,
       "word": "马伯骞每年在黄子韬家住两周",
@@ -19273,6 +19305,14 @@
       "onboard_time": 1689426875,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 628699,
+      "num": 628699,
+      "word": "刘宇宁给迪丽热巴拍照",
+      "onboard_time": 1690452936,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 628430,
@@ -25467,14 +25507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 489318,
-      "num": 489318,
-      "word": "刘宇宁给迪丽热巴拍照",
-      "onboard_time": 1690452936,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 489295,
       "num": 489295,
       "word": "普京6月29日在克宫会见普里戈任",
@@ -25803,6 +25835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 483920,
+      "num": 483920,
+      "word": "杨紫有4部待播剧",
+      "onboard_time": 1690454973,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483913,
       "num": 483913,
       "word": "人际关系中最伤人的五个字",
@@ -25952,6 +25992,14 @@
       "word": "福宝两个妹妹叫啥名字好",
       "onboard_time": 1689039092,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479658,
+      "num": 479658,
+      "word": "易鹏飞被双开",
+      "onboard_time": 1690451858,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -26688,14 +26736,6 @@
       "word": "花花身高揭秘",
       "onboard_time": 1689466407,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467859,
-      "num": 467859,
-      "word": "易鹏飞被双开",
-      "onboard_time": 1690451858,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -33508,7 +33548,7 @@
     },
     {
       "raw_hot": 372780,
-      "num": 1702430,
+      "num": 1897331,
       "word": "别催单你的外卖小哥可能正在灭火",
       "onboard_time": 1690448736,
       "rank": 42,
@@ -34176,14 +34216,6 @@
       "word": "长相思主演都这么会唠吗",
       "onboard_time": 1690288362,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 364744,
-      "num": 364744,
-      "word": "杨紫在见面会上突然看到爸爸",
-      "onboard_time": 1690453776,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -35819,6 +35851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346307,
+      "num": 346307,
+      "word": "Key社成为腾讯子公司",
+      "onboard_time": 1690453233,
+      "rank": 46,
+      "category": "游戏,科技"
+    },
+    {
       "raw_hot": 346254,
       "num": 345873,
       "word": "公司称曹格在疗伤中",
@@ -36897,6 +36937,14 @@
       "onboard_time": 1689495812,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334366,
+      "num": 334366,
+      "word": "T1",
+      "onboard_time": 1689945162,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 334347,
@@ -38785,14 +38833,6 @@
       "onboard_time": 1689747929,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312904,
-      "num": 312904,
-      "word": "T1",
-      "onboard_time": 1689945162,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 312874,
@@ -40843,6 +40883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 295615,
+      "num": 295615,
+      "word": "多少次疼痛才换来的默契",
+      "onboard_time": 1690454137,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295588,
       "num": 295588,
       "word": "深圳10分钟内就能找到一家图书馆",
@@ -41289,6 +41337,14 @@
       "onboard_time": 1690077330,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292196,
+      "num": 292196,
+      "word": "海昏侯穷得只剩下钱了",
+      "onboard_time": 1690452215,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 292160,
@@ -43651,14 +43707,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 272005,
-      "num": 272005,
-      "word": "海昏侯穷得只剩下钱了",
-      "onboard_time": 1690452215,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 272003,
       "num": 272003,
       "word": "徐海东",
@@ -44433,6 +44481,14 @@
       "onboard_time": 1689076114,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 265686,
+      "num": 265686,
+      "word": "JDG对战LNG",
+      "onboard_time": 1690453355,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 265655,
@@ -50515,14 +50571,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 219589,
-      "num": 227849,
-      "word": "Key社成为腾讯子公司",
-      "onboard_time": 1690453233,
-      "rank": 46,
-      "category": "游戏,科技"
-    },
-    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "NIP让一追二RNG",
@@ -52163,6 +52211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209121,
+      "num": 1424718,
+      "word": "4只水豚宝宝走哪都跟着妈妈",
+      "onboard_time": 1690451556,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209100,
       "num": 209100,
       "word": "布莱泽奥特曼",
@@ -52401,6 +52457,14 @@
       "onboard_time": 1688960492,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207898,
+      "num": 207898,
+      "word": "王楚然的反多巴胺衣橱",
+      "onboard_time": 1690456355,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 207843,
@@ -53009,6 +53073,14 @@
       "onboard_time": 1688909612,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204470,
+      "num": 204470,
+      "word": "阿娇AI版桑酒vs真人版桑酒",
+      "onboard_time": 1690455755,
+      "rank": 49,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 204394,
@@ -57067,14 +57139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181173,
-      "num": 1424718,
-      "word": "4只水豚宝宝走哪都跟着妈妈",
-      "onboard_time": 1690451556,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180964,
       "num": 180964,
       "word": "给钓鱼佬一点小小的震撼",
@@ -59304,14 +59368,6 @@
       "word": "AL对战WBG",
       "onboard_time": 1688890592,
       "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 161574,
-      "num": 223196,
-      "word": "JDG对战LNG",
-      "onboard_time": 1690453355,
-      "rank": 49,
       "category": "游戏"
     },
     {
@@ -62588,7 +62644,7 @@
     },
     {
       "raw_hot": 96877,
-      "num": 1568772,
+      "num": 1590552,
       "word": "台风灾害防范小贴士",
       "onboard_time": 1690444595,
       "rank": 2,
