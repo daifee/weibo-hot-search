@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690474896992,
+  "endTime": 1690475839665,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -1683,6 +1683,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 981231,
+      "num": 981231,
+      "word": "除了杨紫都跟电脑都不太熟",
+      "onboard_time": 1690472199,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 977944,
       "num": 977944,
       "word": "17岁男孩中枪身亡亲属称已和解",
@@ -1923,14 +1931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 885462,
-      "num": 885462,
-      "word": "除了杨紫都跟电脑都不太熟",
-      "onboard_time": 1690472199,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 885355,
       "num": 885355,
       "word": "TFBOYS十周年不应援了",
@@ -2073,6 +2073,14 @@
       "onboard_time": 1690270420,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 849768,
+      "num": 849768,
+      "word": "杜苏芮核心区 创纪录的狂风暴雨",
+      "onboard_time": 1690472800,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 848149,
@@ -3528,14 +3536,6 @@
       "word": "台风来袭市民把凉亭拴水泥柱上",
       "onboard_time": 1690466740,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579743,
-      "num": 579743,
-      "word": "杜苏芮核心区 创纪录的狂风暴雨",
-      "onboard_time": 1690472800,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5891,6 +5891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 342908,
+      "num": 342908,
+      "word": "杜苏芮将正面袭击福建",
+      "onboard_time": 1690474056,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342857,
       "num": 342857,
       "word": "杨澄你还怪听前女友话嘞",
@@ -7155,6 +7163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264089,
+      "num": 264089,
+      "word": "厦门发布台风红色预警",
+      "onboard_time": 1690474772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262861,
       "num": 262861,
       "word": "going杂志",
@@ -7379,20 +7395,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 249496,
+      "num": 249496,
+      "word": "闽南人面对台风只剩嘴硬了",
+      "onboard_time": 1690473337,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249126,
       "num": 249126,
       "word": "超导",
       "onboard_time": 1690421492,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 249043,
-      "num": 249043,
-      "word": "杜苏芮将正面袭击福建",
-      "onboard_time": 1690474056,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248161,
@@ -7891,14 +7907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222758,
-      "num": 222758,
-      "word": "厦门发布台风红色预警",
-      "onboard_time": 1690474772,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222558,
       "num": 222558,
       "word": "刘惜君陨石透纱裙",
@@ -7945,14 +7953,6 @@
       "onboard_time": 1690457375,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221502,
-      "num": 221502,
-      "word": "闽南人面对台风只剩嘴硬了",
-      "onboard_time": 1690473337,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220555,
@@ -9907,6 +9907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32354,
+      "num": 1635431,
+      "word": "成都大运会开幕式官方主题曲来了",
+      "onboard_time": 1690464158,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31492,
       "num": 1362622,
       "word": "这个夏天共赴青春盛会",
@@ -9961,14 +9969,6 @@
       "onboard_time": 1690107154,
       "rank": 45,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 27358,
-      "num": 1635431,
-      "word": "成都大运会开幕式官方主题曲来了",
-      "onboard_time": 1690464158,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 22844,

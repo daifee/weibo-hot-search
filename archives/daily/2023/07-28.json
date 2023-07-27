@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690474896992,
+  "endTime": 1690475839665,
   "band_list": [
     {
       "raw_hot": 5335890,
@@ -43,20 +43,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 919650,
-      "num": 313101,
-      "word": "微信一个手机可以两个账号了",
-      "onboard_time": 1690467037,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 885462,
-      "num": 885462,
+      "raw_hot": 981231,
+      "num": 981231,
       "word": "除了杨紫都跟电脑都不太熟",
       "onboard_time": 1690472199,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 919650,
+      "num": 318143,
+      "word": "微信一个手机可以两个账号了",
+      "onboard_time": 1690467037,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 885355,
@@ -73,6 +73,14 @@
       "onboard_time": 1690466318,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 849768,
+      "num": 849768,
+      "word": "杜苏芮核心区 创纪录的狂风暴雨",
+      "onboard_time": 1690472800,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 789985,
@@ -105,14 +113,6 @@
       "onboard_time": 1690462774,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 579743,
-      "num": 579743,
-      "word": "杜苏芮核心区 创纪录的狂风暴雨",
-      "onboard_time": 1690472800,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503833,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 452792,
-      "num": 310618,
+      "num": 358961,
       "word": "长相思",
       "onboard_time": 1690460315,
       "rank": 22,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342908,
+      "num": 342908,
+      "word": "杜苏芮将正面袭击福建",
+      "onboard_time": 1690474056,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321352,
       "num": 303906,
       "word": "考上研究生得让每个生物都知道",
@@ -235,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264089,
+      "num": 264089,
+      "word": "厦门发布台风红色预警",
+      "onboard_time": 1690474772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263290,
       "num": 263290,
       "word": "坐出租车被记了一次警告",
@@ -267,12 +283,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 249043,
-      "num": 249043,
-      "word": "杜苏芮将正面袭击福建",
-      "onboard_time": 1690474056,
-      "rank": 34,
+      "raw_hot": 249496,
+      "num": 249496,
+      "word": "闽南人面对台风只剩嘴硬了",
+      "onboard_time": 1690473337,
+      "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236377,
+      "num": 236377,
+      "word": "长相思新浪扫楼",
+      "onboard_time": 1690447655,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 231784,
@@ -289,22 +313,6 @@
       "onboard_time": 1690471480,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 222758,
-      "num": 222758,
-      "word": "厦门发布台风红色预警",
-      "onboard_time": 1690474772,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221502,
-      "num": 221502,
-      "word": "闽南人面对台风只剩嘴硬了",
-      "onboard_time": 1690473337,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208859,
@@ -363,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156049,
+      "num": 199659,
+      "word": "EDG",
+      "onboard_time": 1690466439,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154950,
       "num": 199673,
       "word": "王俊凯王源易烊千玺给黄晓明宣传新剧",
@@ -379,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149962,
-      "num": 199659,
-      "word": "EDG",
-      "onboard_time": 1690466439,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149484,
       "num": 199655,
       "word": "举报涂磊女子所属村干部发声",
@@ -395,7 +403,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 27358,
+      "raw_hot": 32354,
       "num": 1635431,
       "word": "成都大运会开幕式官方主题曲来了",
       "onboard_time": 1690464158,
