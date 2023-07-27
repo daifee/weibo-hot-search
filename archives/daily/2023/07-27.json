@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690464884084,
+  "endTime": 1690467323979,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -9,6 +9,14 @@
       "onboard_time": 1690387296,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4936597,
+      "num": 4936597,
+      "word": "王楚然 为给大家带来的困扰说一声抱歉",
+      "onboard_time": 1690463856,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 3477814,
@@ -27,14 +35,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2974519,
-      "num": 2974519,
-      "word": "王楚然 为给大家带来的困扰说一声抱歉",
-      "onboard_time": 1690463856,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 2709059,
       "num": 2709059,
       "word": "国外很贵但国内却便宜的东西",
@@ -49,6 +49,14 @@
       "onboard_time": 1690461575,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2518769,
+      "num": 1407211,
+      "word": "13岁女孩体内抽出2000毫升乳白色血",
+      "onboard_time": 1690464158,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2478910,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2416208,
+      "num": 1398749,
+      "word": "杨洋 谢谢大家的包容与陪伴批评和建议",
+      "onboard_time": 1690466680,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2376560,
       "num": 2376560,
       "word": "学信网显示结业女子错失高薪工作起诉学校",
@@ -97,6 +113,14 @@
       "onboard_time": 1690386217,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2253010,
+      "num": 1348460,
+      "word": "魏大勋 感谢喜爱孟宴臣的每一位朋友",
+      "onboard_time": 1690464034,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 2228976,
@@ -235,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1482375,
+      "num": 1482375,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1470237,
       "num": 709290,
       "word": "UFO",
@@ -315,14 +347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1284844,
-      "num": 1284844,
-      "word": "杜苏芮路径",
-      "onboard_time": 1690454734,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1269855,
       "num": 1269855,
       "word": "小夭涂山璟亲嘴了",
@@ -371,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1181198,
+      "num": 780310,
+      "word": "李佳琦喊话长相思剧组",
+      "onboard_time": 1690464158,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1103371,
       "num": 1103371,
       "word": "敖子逸给蒋依依道歉",
@@ -384,22 +416,6 @@
       "word": "火箭军原副司令员吴国华中将逝世",
       "onboard_time": 1690457014,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1049264,
-      "num": 602431,
-      "word": "魏大勋 感谢喜爱孟宴臣的每一位朋友",
-      "onboard_time": 1690464034,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1023986,
-      "num": 570257,
-      "word": "13岁女孩体内抽出2000毫升乳白色血",
-      "onboard_time": 1690464158,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -491,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 910809,
+      "num": 774604,
+      "word": "欧阳娜娜直播回应猫咪纹",
+      "onboard_time": 1690466318,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 897082,
       "num": 897082,
       "word": "迪丽热巴说自己有双下巴",
@@ -563,6 +587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 784480,
+      "num": 527673,
+      "word": "微信一个手机可以两个账号了",
+      "onboard_time": 1690467037,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 774123,
       "num": 438089,
       "word": "男子称女友出轨找准岳父退彩礼遇害",
@@ -577,6 +609,14 @@
       "onboard_time": 1690384840,
       "rank": 11,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 751084,
+      "num": 513374,
+      "word": "王鹤棣范丞丞魏大勋白敬亭口罩自拍",
+      "onboard_time": 1690462354,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 745629,
@@ -665,6 +705,14 @@
       "onboard_time": 1690439553,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 706565,
+      "num": 401158,
+      "word": "刀郎罗刹海市",
+      "onboard_time": 1690465118,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 701626,
@@ -843,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580402,
+      "num": 371756,
+      "word": "台风来袭市民把凉亭拴水泥柱上",
+      "onboard_time": 1690466740,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574741,
       "num": 574741,
       "word": "深圳一地黄金1克便宜100多卖脱销",
@@ -923,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531867,
+      "num": 531867,
+      "word": "EDG",
+      "onboard_time": 1690466439,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 530893,
       "num": 530893,
       "word": "杨紫檀健次合唱偏爱人间烟火",
@@ -955,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 514381,
+      "num": 383966,
+      "word": "没抢到票的TFBOYS粉丝开始包场电影院",
+      "onboard_time": 1690466562,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513268,
       "num": 513268,
       "word": "大左去看望金韩一父母",
@@ -969,6 +1041,14 @@
       "onboard_time": 1690444831,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 500363,
+      "num": 395191,
+      "word": "福建台风",
+      "onboard_time": 1690463856,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499397,
@@ -1011,14 +1091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 492016,
-      "num": 318837,
-      "word": "李佳琦喊话长相思剧组",
-      "onboard_time": 1690464158,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 486017,
       "num": 474902,
       "word": "定期查肠镜真的很有必要",
@@ -1049,6 +1121,14 @@
       "onboard_time": 1690451858,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477908,
+      "num": 375923,
+      "word": "半个快乐家族都来了",
+      "onboard_time": 1690465660,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 475794,
@@ -1091,14 +1171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 461751,
-      "num": 331930,
-      "word": "王鹤棣范丞丞魏大勋白敬亭口罩自拍",
-      "onboard_time": 1690462354,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 459603,
       "num": 413085,
       "word": "美联储宣布加息25个基点",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1690432662,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 452292,
+      "num": 367361,
+      "word": "提离职五次了一直不让人走",
+      "onboard_time": 1690467277,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 446680,
@@ -1275,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 408557,
+      "num": 408557,
+      "word": "再也不怕刷身份证时尴尬了",
+      "onboard_time": 1690466076,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406436,
       "num": 406436,
       "word": "小红书闪退",
@@ -1353,6 +1441,14 @@
       "onboard_time": 1690440935,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384403,
+      "num": 384403,
+      "word": "台风杜苏芮已致台湾一人死亡",
+      "onboard_time": 1690466860,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381359,
@@ -1595,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306282,
-      "num": 306282,
-      "word": "福建台风",
-      "onboard_time": 1690463856,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305968,
       "num": 305968,
       "word": "苏明成 宋焰许沁",
@@ -1731,6 +1819,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 288345,
+      "num": 288345,
+      "word": "JDG对战LNG",
+      "onboard_time": 1690453355,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287521,
       "num": 287521,
       "word": "莲花楼",
@@ -1787,12 +1883,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265686,
-      "num": 265686,
-      "word": "JDG对战LNG",
-      "onboard_time": 1690453355,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 257604,
+      "num": 1600722,
+      "word": "熊猫花花带你看四川",
+      "onboard_time": 1690464457,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254401,
@@ -1873,6 +1969,14 @@
       "onboard_time": 1690442016,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228244,
+      "num": 228244,
+      "word": "女子4X200自接力中国队夺铜",
+      "onboard_time": 1690464099,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 227982,
@@ -1968,14 +2072,6 @@
       "word": "女足世界杯",
       "onboard_time": 1690459833,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216224,
-      "num": 216224,
-      "word": "女子4X200自接力中国队夺铜",
-      "onboard_time": 1690464099,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -2433,14 +2529,6 @@
       "onboard_time": 1690390107,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 69694,
-      "num": 1600722,
-      "word": "熊猫花花带你看四川",
-      "onboard_time": 1690464457,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63440,
