@@ -1,0 +1,410 @@
+{
+  "runTime": 1690442132510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2530530,
+        "num": 2530530,
+        "word": "江宏杰宣布告赢福原爱",
+        "onboard_time": 1690440692,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1858198,
+        "num": 1858198,
+        "word": "花花和谭爷爷惊喜出镜",
+        "onboard_time": 1690439432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14321,
+        "num": 1613803,
+        "word": "与时代共奋飞",
+        "onboard_time": 1690426714,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1581509,
+        "num": 1581509,
+        "word": "学信网显示结业女子错失高薪工作起诉学校",
+        "onboard_time": 1690430738,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1103371,
+        "num": 1103371,
+        "word": "敖子逸给蒋依依道歉",
+        "onboard_time": 1690436257,
+        "rank": 4,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 1000912,
+        "num": 1000912,
+        "word": "俄共建议把二战爆发时间改成1937年7月7日",
+        "onboard_time": 1690437155,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 977241,
+        "num": 977241,
+        "word": "厦门7月27日15时起三停一休",
+        "onboard_time": 1690432901,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955835,
+        "num": 955835,
+        "word": "杜海涛眼里的沈梦辰",
+        "onboard_time": 1690436738,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 853103,
+        "num": 853103,
+        "word": "长相思见面会",
+        "onboard_time": 1690436016,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1205987,
+        "num": 832006,
+        "word": "那英 声替",
+        "onboard_time": 1690433861,
+        "rank": 9,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 660439,
+        "num": 660439,
+        "word": "台风杜苏芮路径拐了个直角",
+        "onboard_time": 1690417415,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655709,
+        "num": 655709,
+        "word": "可口可乐将继续提价",
+        "onboard_time": 1690438113,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 640666,
+        "num": 640666,
+        "word": "江宏杰召开记者会控诉福原爱",
+        "onboard_time": 1690439432,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 603944,
+        "num": 603944,
+        "word": "台风或正面袭击厦门市民不要出门",
+        "onboard_time": 1690436497,
+        "rank": 13,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 527600,
+        "num": 527600,
+        "word": "魏大勋我都快踩张颜齐定位上了",
+        "onboard_time": 1690431701,
+        "rank": 14,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 489057,
+        "num": 489057,
+        "word": "5名80后操纵115个账户亏掉3.04亿",
+        "onboard_time": 1690439553,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 473090,
+        "num": 473090,
+        "word": "台风路径",
+        "onboard_time": 1690415731,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472913,
+        "num": 472913,
+        "word": "李玟丧礼遗照曝光",
+        "onboard_time": 1690427133,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408081,
+        "num": 408081,
+        "word": "涂磊报警",
+        "onboard_time": 1690424074,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 393463,
+        "num": 393463,
+        "word": "杨紫评论张晚意",
+        "onboard_time": 1690428873,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 615586,
+        "num": 390942,
+        "word": "韩国一男子因身高自卑随机杀人",
+        "onboard_time": 1690435834,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544505,
+        "num": 381581,
+        "word": "凌晨一点听到爸爸在客厅抽泣",
+        "onboard_time": 1690440935,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543197,
+        "num": 375560,
+        "word": "女儿捅死父亲情人被判13年",
+        "onboard_time": 1690427493,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361206,
+        "num": 361206,
+        "word": "长相思罚站榜",
+        "onboard_time": 1690426471,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360110,
+        "num": 360110,
+        "word": "向佐 其实我天天都回家",
+        "onboard_time": 1690423892,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350802,
+        "num": 350802,
+        "word": "厦门",
+        "onboard_time": 1690432481,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302043,
+        "num": 302043,
+        "word": "杨洋天台情绪大片",
+        "onboard_time": 1690429779,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 296512,
+        "num": 296512,
+        "word": "六公主报道黄牛倒卖演唱会门票",
+        "onboard_time": 1690428816,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289775,
+        "num": 289775,
+        "word": "张晚意戴墨镜cue玱玹瞎",
+        "onboard_time": 1690438714,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258375,
+        "num": 258375,
+        "word": "房子烂尾女子停交房贷上黑名单",
+        "onboard_time": 1690421254,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 255130,
+        "num": 255130,
+        "word": "芭比最贴近角色的演员",
+        "onboard_time": 1690440935,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70938,
+        "num": 249056,
+        "word": "OPPO上半年中国手机市场份额第一",
+        "onboard_time": 1690441414,
+        "rank": 31,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 245528,
+        "num": 245528,
+        "word": "茶百道 剑网",
+        "onboard_time": 1690431762,
+        "rank": 32,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 231822,
+        "num": 231822,
+        "word": "施柏宇张艺凡吻戏",
+        "onboard_time": 1690435058,
+        "rank": 33,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 230995,
+        "num": 230995,
+        "word": "李雪琴评热烈唯一的遗憾",
+        "onboard_time": 1690432721,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230019,
+        "num": 230019,
+        "word": "迪丽热巴曾在西藏保护过雪豹",
+        "onboard_time": 1690430738,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229779,
+        "num": 229779,
+        "word": "深圳一地黄金1克便宜100多卖脱销",
+        "onboard_time": 1690431277,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 227457,
+        "num": 227457,
+        "word": "台风",
+        "onboard_time": 1690380402,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221968,
+        "num": 221968,
+        "word": "Angelababy不想承认这是自己",
+        "onboard_time": 1690416271,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218743,
+        "num": 218743,
+        "word": "高考后驾校教练拉了一车学霸",
+        "onboard_time": 1690440814,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213231,
+        "num": 213231,
+        "word": "这次终于看懂五险一金了",
+        "onboard_time": 1690416873,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 204615,
+        "num": 204615,
+        "word": "邓为回应叶十七眼里有活",
+        "onboard_time": 1690432362,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203028,
+        "num": 203028,
+        "word": "十个勤天后陡门的夏音源上线",
+        "onboard_time": 1690439194,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201054,
+        "num": 201054,
+        "word": "小红书闪退",
+        "onboard_time": 1690435776,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192163,
+        "num": 192163,
+        "word": "金星认证王楚然和自己长得像",
+        "onboard_time": 1690418618,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190219,
+        "num": 190219,
+        "word": "EXO将举办青岛签售会",
+        "onboard_time": 1690433080,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175469,
+        "num": 190208,
+        "word": "舌头的正确摆放位置",
+        "onboard_time": 1690428156,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167959,
+        "num": 190186,
+        "word": "谢娜分享试镜丫鬟经历",
+        "onboard_time": 1690438056,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160001,
+        "num": 190164,
+        "word": "封神男团双人瑜伽比拼",
+        "onboard_time": 1690442016,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151154,
+        "num": 190136,
+        "word": "成功侵犯案视频曝光",
+        "onboard_time": 1690433261,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记伟大胜利捍卫和平正义#"
+    }
+  }
+}
