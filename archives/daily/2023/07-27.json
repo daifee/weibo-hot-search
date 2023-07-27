@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690457633058,
+  "endTime": 1690461241559,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1698845,
+      "num": 1698845,
+      "word": "福原爱声明稿",
+      "onboard_time": 1690458935,
+      "rank": 1,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1695142,
       "num": 937048,
       "word": "性同意没有模糊的界限",
@@ -217,6 +225,14 @@
       "onboard_time": 1690420775,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1428151,
+      "num": 1428151,
+      "word": "孟宴臣送许沁的皇冠约合538人民币",
+      "onboard_time": 1690456533,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1410000,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1239475,
+      "num": 1239475,
+      "word": "长相思",
+      "onboard_time": 1690379200,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1229379,
       "num": 1229379,
       "word": "民政部回应结婚必须提供户口簿",
@@ -307,8 +331,16 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 1066427,
+      "num": 703259,
+      "word": "火箭军原副司令员吴国华中将逝世",
+      "onboard_time": 1690457014,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1023549,
-      "num": 462831,
+      "num": 935916,
       "word": "杜苏芮路径",
       "onboard_time": 1690454734,
       "rank": 20,
@@ -369,6 +401,14 @@
       "onboard_time": 1690416271,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 927574,
+      "num": 712920,
+      "word": "王楚然的反多巴胺衣橱",
+      "onboard_time": 1690456355,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 925988,
@@ -475,20 +515,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 754063,
-      "num": 704240,
-      "word": "王楚然的反多巴胺衣橱",
-      "onboard_time": 1690456355,
-      "rank": 47,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 745629,
       "num": 745629,
       "word": "EXO将举办青岛签售会",
       "onboard_time": 1690433080,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 744051,
+      "num": 744051,
+      "word": "中国气象局启动台风一级应急响应",
+      "onboard_time": 1690454497,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 734530,
@@ -499,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 732227,
-      "num": 459311,
-      "word": "中国气象局启动台风一级应急响应",
-      "onboard_time": 1690454497,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 725305,
+      "num": 725305,
+      "word": "王俊凯王源易烊千玺给黄晓明宣传新剧",
+      "onboard_time": 1690459473,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 723718,
@@ -569,22 +609,6 @@
       "onboard_time": 1690439553,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 704444,
-      "num": 704444,
-      "word": "孟宴臣送许沁的皇冠约合538人民币",
-      "onboard_time": 1690456533,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 703259,
-      "num": 703259,
-      "word": "火箭军原副司令员吴国华中将逝世",
-      "onboard_time": 1690457014,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 701626,
@@ -867,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 501163,
+      "num": 501163,
+      "word": "彩虹",
+      "onboard_time": 1690459113,
+      "rank": 13,
+      "category": "自然"
+    },
+    {
       "raw_hot": 499397,
       "num": 499397,
       "word": "福原爱律师声明",
@@ -971,14 +1003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 469741,
-      "num": 469741,
-      "word": "长相思",
-      "onboard_time": 1690379200,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 459603,
       "num": 413085,
       "word": "美联储宣布加息25个基点",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1690432662,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 452993,
+      "num": 452993,
+      "word": "广州地铁偶遇孟宴臣",
+      "onboard_time": 1690460195,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 446680,
@@ -1187,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393070,
+      "num": 393070,
+      "word": "厦门人防台风到底有多努力",
+      "onboard_time": 1690457433,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 390892,
       "num": 390892,
       "word": "泰国恐怖片依旧能打",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1690364925,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 381074,
+      "num": 381074,
+      "word": "安乐传编剧回应",
+      "onboard_time": 1690458755,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 380573,
@@ -1299,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360921,
+      "num": 360921,
+      "word": "长相思和步步惊心是同一个作者",
+      "onboard_time": 1690456655,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358325,
       "num": 358325,
       "word": "种地吧",
@@ -1337,6 +1393,14 @@
       "onboard_time": 1690453233,
       "rank": 46,
       "category": "游戏,科技"
+    },
+    {
+      "raw_hot": 345095,
+      "num": 366755,
+      "word": "爸妈没给的我也没给",
+      "onboard_time": 1690458332,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 339782,
@@ -1555,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287102,
+      "num": 287102,
+      "word": "看完TFBOYS看EXO",
+      "onboard_time": 1690459173,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 277924,
       "num": 277924,
       "word": "文俊辉新剧一个人四种身份",
@@ -1619,11 +1691,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 244411,
+      "num": 233622,
+      "word": "巨齿鲨2是郭帆派给吴京的任务",
+      "onboard_time": 1690460672,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243008,
       "num": 243008,
       "word": "杨幂清凉辣妹机场穿搭",
       "onboard_time": 1690382023,
       "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242874,
+      "num": 233569,
+      "word": "赵今麦妆造",
+      "onboard_time": 1690461095,
+      "rank": 37,
       "category": "作品衍生"
     },
     {
@@ -1753,6 +1841,14 @@
       "onboard_time": 1690442553,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211607,
+      "num": 211607,
+      "word": "女足世界杯",
+      "onboard_time": 1690459833,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 210656,
@@ -1891,14 +1987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194735,
-      "num": 194735,
-      "word": "厦门人防台风到底有多努力",
-      "onboard_time": 1690457433,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192727,
       "num": 192727,
       "word": "茶百道 剑网3",
@@ -1929,6 +2017,14 @@
       "onboard_time": 1690448674,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190295,
+      "num": 208988,
+      "word": "成都彩虹",
+      "onboard_time": 1690460433,
+      "rank": 47,
+      "category": "自然"
     },
     {
       "raw_hot": 188577,
@@ -2057,6 +2153,14 @@
       "onboard_time": 1690447957,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 155335,
+      "num": 203945,
+      "word": "董志豪创造世界青年纪录",
+      "onboard_time": 1690461216,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 152670,
@@ -2195,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45071,
+      "num": 458591,
+      "word": "当呼和浩特遇上青岛啤酒节",
+      "onboard_time": 1690459232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37967,
       "num": 1627000,
       "word": "各大高校接力为大运会加油",
@@ -2255,6 +2367,9 @@
     },
     {
       "word": "#纪念抗美援朝胜利70周年#"
+    },
+    {
+      "word": "#一组数字读懂抗美援朝战争#"
     }
   ]
 }
