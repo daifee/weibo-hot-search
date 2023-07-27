@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690446050232,
+  "endTime": 1690446853121,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -75,6 +75,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2228976,
+      "num": 2228976,
+      "word": "举报涂磊女子所属村干部发声",
+      "onboard_time": 1690443872,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2139985,
       "num": 2139985,
       "word": "花花和谭爷爷惊喜出镜",
@@ -89,14 +97,6 @@
       "onboard_time": 1690423892,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2047635,
-      "num": 2047635,
-      "word": "举报涂磊女子所属村干部发声",
-      "onboard_time": 1690443872,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1920445,
@@ -129,6 +129,14 @@
       "onboard_time": 1690428816,
       "rank": 48,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 1743293,
+      "num": 629338,
+      "word": "TFBOYS三人三地",
+      "onboard_time": 1690445374,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1695142,
@@ -211,12 +219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1269855,
+      "num": 1269855,
+      "word": "小夭涂山璟亲嘴了",
+      "onboard_time": 1690444831,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1265456,
       "num": 666233,
       "word": "邓为早期 潮到风湿",
       "onboard_time": 1690443692,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1239949,
+      "num": 638175,
+      "word": "顾客称住亚朵酒店发现水壶里有内裤",
+      "onboard_time": 1690444354,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1182006,
@@ -233,14 +257,6 @@
       "onboard_time": 1690436257,
       "rank": 6,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 1075739,
-      "num": 638175,
-      "word": "顾客称住亚朵酒店发现水壶里有内裤",
-      "onboard_time": 1690444354,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1021612,
@@ -267,14 +283,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 995172,
-      "num": 995172,
-      "word": "小夭涂山璟亲嘴了",
-      "onboard_time": 1690444831,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 964246,
       "num": 546800,
       "word": "这次终于看懂五险一金了",
@@ -297,6 +305,14 @@
       "onboard_time": 1690417415,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958295,
+      "num": 429129,
+      "word": "港媒曝李玟百件礼服被其老公截留",
+      "onboard_time": 1690445974,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 946533,
@@ -355,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801397,
+      "num": 801397,
+      "word": "东方甄选直播间被关",
+      "onboard_time": 1690444232,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 774123,
       "num": 438089,
       "word": "男子称女友出轨找准岳父退彩礼遇害",
       "onboard_time": 1690424254,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755896,
-      "num": 629338,
-      "word": "TFBOYS三人三地",
-      "onboard_time": 1690445374,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 754521,
@@ -547,12 +563,12 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 602529,
-      "num": 602529,
-      "word": "东方甄选直播间被关",
-      "onboard_time": 1690444232,
-      "rank": 14,
-      "category": "社会新闻,财经"
+      "raw_hot": 601264,
+      "num": 417753,
+      "word": "澳11岁女孩拥有百万资产打算12岁退休",
+      "onboard_time": 1690445256,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591476,
@@ -665,6 +681,14 @@
       "onboard_time": 1690424194,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 502020,
+      "num": 502020,
+      "word": "小六一眼认出玱玹",
+      "onboard_time": 1690444831,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 499397,
@@ -809,14 +833,6 @@
       "onboard_time": 1690433261,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 431552,
-      "num": 326871,
-      "word": "澳11岁女孩拥有百万资产打算12岁退休",
-      "onboard_time": 1690445256,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431178,
@@ -979,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369812,
-      "num": 369812,
-      "word": "小六一眼认出玱玹",
-      "onboard_time": 1690444831,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 367989,
       "num": 367989,
       "word": "莲花楼剧情节奏好快",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1690382805,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359082,
+      "num": 359082,
+      "word": "邓为看杨紫的眼神",
+      "onboard_time": 1690445914,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 358325,
@@ -1075,6 +1091,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 318813,
+      "num": 318813,
+      "word": "1岁女宝顶了张小新脸",
+      "onboard_time": 1690446094,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318619,
       "num": 318619,
       "word": "这就是灌篮5阵容官宣",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1690419634,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 307308,
+      "num": 307308,
+      "word": "安徽亳州一对男女被人按着头拜堂",
+      "onboard_time": 1690446214,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305534,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1690413685,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228856,
-      "num": 228856,
-      "word": "港媒曝李玟百件礼服被其老公截留",
-      "onboard_time": 1690445974,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 228462,
@@ -1499,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187286,
+      "num": 187286,
+      "word": "莲花楼央八定档",
+      "onboard_time": 1690446815,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185822,
       "num": 185822,
       "word": "小鹏",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1690369001,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184088,
+      "num": 184088,
+      "word": "浙江人的省饭是什么",
+      "onboard_time": 1690446696,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 183544,
@@ -1547,14 +1587,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 173127,
-      "num": 173127,
-      "word": "邓为看杨紫的眼神",
-      "onboard_time": 1690445914,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172562,
       "num": 172562,
       "word": "莲花楼嫁衣案",
@@ -1577,6 +1609,22 @@
       "onboard_time": 1690376676,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156942,
+      "num": 156942,
+      "word": "广动一姐 瑜伽女王",
+      "onboard_time": 1690446514,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148227,
+      "num": 156915,
+      "word": "芭比",
+      "onboard_time": 1690446214,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 142298,
@@ -1651,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83892,
+      "num": 1568772,
+      "word": "台风灾害防范小贴士",
+      "onboard_time": 1690444595,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83616,
       "num": 98952,
       "word": "30 50 80的理发师有没有区别",
@@ -1673,14 +1729,6 @@
       "onboard_time": 1690390107,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 64256,
-      "num": 1465971,
-      "word": "台风灾害防范小贴士",
-      "onboard_time": 1690444595,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63440,

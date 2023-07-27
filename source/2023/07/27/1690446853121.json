@@ -1,0 +1,410 @@
+{
+  "runTime": 1690446853121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2469900,
+        "num": 2469900,
+        "word": "江宏杰宣布告赢福原爱",
+        "onboard_time": 1690440692,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2228976,
+        "num": 2228976,
+        "word": "举报涂磊女子所属村干部发声",
+        "onboard_time": 1690443872,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 83892,
+        "num": 1568772,
+        "word": "台风灾害防范小贴士",
+        "onboard_time": 1690444595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1269855,
+        "num": 1269855,
+        "word": "小夭涂山璟亲嘴了",
+        "onboard_time": 1690444831,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1071896,
+        "num": 1071896,
+        "word": "花花和谭爷爷惊喜出镜",
+        "onboard_time": 1690439432,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801397,
+        "num": 801397,
+        "word": "东方甄选直播间被关",
+        "onboard_time": 1690444232,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 777492,
+        "num": 777492,
+        "word": "长相思见面会",
+        "onboard_time": 1690436016,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 695092,
+        "num": 695092,
+        "word": "李玟丧礼遗照曝光",
+        "onboard_time": 1690427133,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672169,
+        "num": 672169,
+        "word": "湖南震感",
+        "onboard_time": 1690443572,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579176,
+        "num": 579176,
+        "word": "学信网显示结业女子错失高薪工作起诉学校",
+        "onboard_time": 1690430738,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1743293,
+        "num": 576955,
+        "word": "TFBOYS三人三地",
+        "onboard_time": 1690445374,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1239949,
+        "num": 570627,
+        "word": "顾客称住亚朵酒店发现水壶里有内裤",
+        "onboard_time": 1690444354,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1172322,
+        "num": 568750,
+        "word": "邓为早期 潮到风湿",
+        "onboard_time": 1690443692,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556403,
+        "num": 556403,
+        "word": "厦门7月27日15时起三停一休",
+        "onboard_time": 1690432901,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538969,
+        "num": 538969,
+        "word": "5名80后操纵115个账户亏掉3.04亿",
+        "onboard_time": 1690439553,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 504529,
+        "num": 504529,
+        "word": "台风或正面袭击厦门市民不要出门",
+        "onboard_time": 1690436497,
+        "rank": 15,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 502020,
+        "num": 502020,
+        "word": "小六一眼认出玱玹",
+        "onboard_time": 1690444831,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471493,
+        "num": 471493,
+        "word": "敖子逸给蒋依依道歉",
+        "onboard_time": 1690436257,
+        "rank": 17,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 465488,
+        "num": 465488,
+        "word": "台风杜苏芮路径拐了个直角",
+        "onboard_time": 1690417415,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429634,
+        "num": 429634,
+        "word": "厦门",
+        "onboard_time": 1690432481,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958295,
+        "num": 429129,
+        "word": "港媒曝李玟百件礼服被其老公截留",
+        "onboard_time": 1690445974,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601264,
+        "num": 417753,
+        "word": "澳11岁女孩拥有百万资产打算12岁退休",
+        "onboard_time": 1690445256,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550912,
+        "num": 413065,
+        "word": "女儿捅死父亲情人被判13年",
+        "onboard_time": 1690427493,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459152,
+        "num": 410077,
+        "word": "那英 声替",
+        "onboard_time": 1690433861,
+        "rank": 23,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 404625,
+        "num": 404625,
+        "word": "凌晨一点听到爸爸在客厅抽泣",
+        "onboard_time": 1690440935,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379416,
+        "num": 379416,
+        "word": "杜海涛眼里的沈梦辰",
+        "onboard_time": 1690436738,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359082,
+        "num": 359082,
+        "word": "邓为看杨紫的眼神",
+        "onboard_time": 1690445914,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333876,
+        "num": 333876,
+        "word": "向佐 其实我天天都回家",
+        "onboard_time": 1690423892,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327299,
+        "num": 327299,
+        "word": "芭比最贴近角色的演员",
+        "onboard_time": 1690440935,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326113,
+        "num": 326113,
+        "word": "台风路径",
+        "onboard_time": 1690415731,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318813,
+        "num": 318813,
+        "word": "1岁女宝顶了张小新脸",
+        "onboard_time": 1690446094,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314046,
+        "num": 314046,
+        "word": "顾客生日12层蛋糕互砸老板清扫到半夜",
+        "onboard_time": 1690443514,
+        "rank": 31,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 307308,
+        "num": 307308,
+        "word": "安徽亳州一对男女被人按着头拜堂",
+        "onboard_time": 1690446214,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306115,
+        "num": 306115,
+        "word": "俄共建议把二战爆发时间改成1937年7月7日",
+        "onboard_time": 1690437155,
+        "rank": 33,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 286813,
+        "num": 286813,
+        "word": "韩国一男子因身高自卑随机杀人",
+        "onboard_time": 1690435834,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280110,
+        "num": 280110,
+        "word": "魏大勋我都快踩张颜齐定位上了",
+        "onboard_time": 1690431701,
+        "rank": 35,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 261840,
+        "num": 261840,
+        "word": "可口可乐将继续提价",
+        "onboard_time": 1690438113,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 258491,
+        "num": 258491,
+        "word": "高考后驾校教练拉了一车学霸",
+        "onboard_time": 1690440814,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234618,
+        "num": 234618,
+        "word": "长相思罚站榜",
+        "onboard_time": 1690426471,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229558,
+        "num": 229558,
+        "word": "台风",
+        "onboard_time": 1690380402,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195690,
+        "num": 195690,
+        "word": "迪丽热巴曾在西藏保护过雪豹",
+        "onboard_time": 1690430738,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195157,
+        "num": 195157,
+        "word": "杨洋天台情绪大片",
+        "onboard_time": 1690429779,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187286,
+        "num": 187286,
+        "word": "莲花楼央八定档",
+        "onboard_time": 1690446815,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186734,
+        "num": 186734,
+        "word": "施柏宇张艺凡吻戏",
+        "onboard_time": 1690435058,
+        "rank": 43,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 184088,
+        "num": 184088,
+        "word": "浙江人的省饭是什么",
+        "onboard_time": 1690446696,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180866,
+        "num": 180866,
+        "word": "封神男团双人瑜伽比拼",
+        "onboard_time": 1690442016,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158567,
+        "num": 158567,
+        "word": "舌头的正确摆放位置",
+        "onboard_time": 1690428156,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156942,
+        "num": 156942,
+        "word": "广动一姐 瑜伽女王",
+        "onboard_time": 1690446514,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148227,
+        "num": 156915,
+        "word": "芭比",
+        "onboard_time": 1690446214,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148075,
+        "num": 156725,
+        "word": "小红书闪退",
+        "onboard_time": 1690435776,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念抗美援朝胜利70周年#"
+    }
+  }
+}
