@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690456434739,
+  "endTime": 1690457633058,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -451,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 793191,
+      "num": 793191,
+      "word": "荔枝烤肉",
+      "onboard_time": 1690454313,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 774123,
       "num": 438089,
       "word": "男子称女友出轨找准岳父退彩礼遇害",
@@ -465,6 +473,14 @@
       "onboard_time": 1690384840,
       "rank": 11,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 754063,
+      "num": 704240,
+      "word": "王楚然的反多巴胺衣橱",
+      "onboard_time": 1690456355,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 745629,
@@ -553,6 +569,22 @@
       "onboard_time": 1690439553,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 704444,
+      "num": 704444,
+      "word": "孟宴臣送许沁的皇冠约合538人民币",
+      "onboard_time": 1690456533,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 703259,
+      "num": 703259,
+      "word": "火箭军原副司令员吴国华中将逝世",
+      "onboard_time": 1690457014,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701626,
@@ -665,14 +697,6 @@
       "onboard_time": 1690439432,
       "rank": 43,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 640581,
-      "num": 640581,
-      "word": "荔枝烤肉",
-      "onboard_time": 1690454313,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 636509,
@@ -1139,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 400179,
+      "num": 400179,
+      "word": "T1",
+      "onboard_time": 1690455873,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 399267,
       "num": 399267,
       "word": "帕梅拉 芭比舞蹈",
@@ -1323,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334366,
-      "num": 334366,
-      "word": "T1",
-      "onboard_time": 1690455873,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 329843,
       "num": 329843,
       "word": "蔡依林演唱会",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1690380343,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 293751,
+      "num": 293751,
+      "word": "阿娇AI版桑酒vs真人版桑酒",
+      "onboard_time": 1690455755,
+      "rank": 49,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 293428,
@@ -1691,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221561,
+      "num": 221561,
+      "word": "莲花楼直播",
+      "onboard_time": 1690457375,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218952,
       "num": 218952,
       "word": "暑假工已经渗透到商家内部啦",
@@ -1739,12 +1779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207898,
-      "num": 207898,
-      "word": "王楚然的反多巴胺衣橱",
-      "onboard_time": 1690456355,
-      "rank": 47,
-      "category": "艺人,时尚"
+      "raw_hot": 207995,
+      "num": 207995,
+      "word": "潜行者",
+      "onboard_time": 1690457072,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 205722,
@@ -1777,14 +1817,6 @@
       "onboard_time": 1690422032,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204470,
-      "num": 204470,
-      "word": "阿娇AI版桑酒vs真人版桑酒",
-      "onboard_time": 1690455755,
-      "rank": 49,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 203961,
@@ -1827,6 +1859,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 200179,
+      "num": 200179,
+      "word": "赵丽颖一键三连拍",
+      "onboard_time": 1690457498,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198598,
       "num": 198598,
       "word": "沛沛",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1690420655,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194735,
+      "num": 194735,
+      "word": "厦门人防台风到底有多努力",
+      "onboard_time": 1690457433,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 192727,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690457633058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2535589,
+        "num": 2535589,
+        "word": "国外很贵但国内却便宜的东西",
+        "onboard_time": 1690451974,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327615,
+        "num": 1445981,
+        "word": "别催单你的外卖小哥可能正在灭火",
+        "onboard_time": 1690448736,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92336,
+        "num": 1237196,
+        "word": "台风灾害防范小贴士",
+        "onboard_time": 1690444595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184257,
+        "num": 1184257,
+        "word": "王栎鑫是娱乐圈大漏勺吧",
+        "onboard_time": 1690451674,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208273,
+        "num": 1029241,
+        "word": "4只水豚宝宝走哪都跟着妈妈",
+        "onboard_time": 1690451556,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911959,
+        "num": 911959,
+        "word": "韩国一父亲猛抽校园霸凌者100多个耳光",
+        "onboard_time": 1690448557,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147857,
+        "num": 866372,
+        "word": "91岁抗美援朝老兵曾血战7天7夜",
+        "onboard_time": 1690451433,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 854831,
+        "num": 854831,
+        "word": "长相思新浪扫楼",
+        "onboard_time": 1690447655,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 793191,
+        "num": 793191,
+        "word": "荔枝烤肉",
+        "onboard_time": 1690454313,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 704444,
+        "num": 704444,
+        "word": "孟宴臣送许沁的皇冠约合538人民币",
+        "onboard_time": 1690456533,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 754063,
+        "num": 704240,
+        "word": "王楚然的反多巴胺衣橱",
+        "onboard_time": 1690456355,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 703484,
+        "num": 703484,
+        "word": "黄晓明这回真听劝了",
+        "onboard_time": 1690451433,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 703259,
+        "num": 703259,
+        "word": "火箭军原副司令员吴国华中将逝世",
+        "onboard_time": 1690457014,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688534,
+        "num": 688534,
+        "word": "TFBOYS三人三地",
+        "onboard_time": 1690445374,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668293,
+        "num": 668293,
+        "word": "杨紫在见面会上突然看到爸爸",
+        "onboard_time": 1690453776,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 627245,
+        "num": 627245,
+        "word": "宁安如梦",
+        "onboard_time": 1690451974,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570911,
+        "num": 570911,
+        "word": "民政部回应结婚必须提供户口簿",
+        "onboard_time": 1690447234,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558368,
+        "num": 558368,
+        "word": "刘宇宁给迪丽热巴拍照",
+        "onboard_time": 1690452936,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507881,
+        "num": 507881,
+        "word": "台风或正面袭击厦门市民不要出门",
+        "onboard_time": 1690436497,
+        "rank": 18,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 452306,
+        "num": 452306,
+        "word": "易鹏飞被双开",
+        "onboard_time": 1690451858,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859041,
+        "num": 448571,
+        "word": "杜苏芮路径",
+        "onboard_time": 1690454734,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605375,
+        "num": 447547,
+        "word": "中国气象局启动台风一级应急响应",
+        "onboard_time": 1690454497,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547066,
+        "num": 445058,
+        "word": "港媒曝李玟百件礼服被其老公截留",
+        "onboard_time": 1690445974,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438976,
+        "num": 438976,
+        "word": "杨紫有4部待播剧",
+        "onboard_time": 1690454973,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420519,
+        "num": 420519,
+        "word": "上班绝对不穿喜欢的衣服",
+        "onboard_time": 1690452098,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410530,
+        "num": 410530,
+        "word": "小夭涂山璟亲嘴了",
+        "onboard_time": 1690444831,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400179,
+        "num": 400179,
+        "word": "T1",
+        "onboard_time": 1690455873,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398250,
+        "num": 398250,
+        "word": "鹿晗有在努力抵制黄牛",
+        "onboard_time": 1690449874,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 381478,
+        "num": 381478,
+        "word": "长相思见面会",
+        "onboard_time": 1690436016,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354178,
+        "num": 354178,
+        "word": "二胎妈妈两次宫外孕第三次双胚一个又在宫外",
+        "onboard_time": 1690448674,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345014,
+        "num": 345014,
+        "word": "邓为早期 潮到风湿",
+        "onboard_time": 1690443692,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320694,
+        "num": 320694,
+        "word": "江宏杰宣布告赢福原爱",
+        "onboard_time": 1690440692,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 315236,
+        "num": 315236,
+        "word": "警方回应夫妻深夜摆摊妻子跳河身亡",
+        "onboard_time": 1690451497,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305838,
+        "num": 305838,
+        "word": "举报涂磊女子所属村干部发声",
+        "onboard_time": 1690443872,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 293751,
+        "num": 293751,
+        "word": "阿娇AI版桑酒vs真人版桑酒",
+        "onboard_time": 1690455755,
+        "rank": 34,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 284943,
+        "num": 284943,
+        "word": "Key社成为腾讯子公司",
+        "onboard_time": 1690453233,
+        "rank": 35,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 265317,
+        "num": 265317,
+        "word": "没人比我同事关心台风到哪了",
+        "onboard_time": 1690450716,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255286,
+        "num": 255286,
+        "word": "易烊千玺到达西宁",
+        "onboard_time": 1690452155,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250812,
+        "num": 250812,
+        "word": "花花和谭爷爷惊喜出镜",
+        "onboard_time": 1690439432,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250487,
+        "num": 250487,
+        "word": "海昏侯穷得只剩下钱了",
+        "onboard_time": 1690452215,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248832,
+        "num": 248832,
+        "word": "厦门7月27日15时起三停一休",
+        "onboard_time": 1690432901,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245958,
+        "num": 245958,
+        "word": "多少次疼痛才换来的默契",
+        "onboard_time": 1690454137,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233491,
+        "num": 233491,
+        "word": "女子半个月用电1500度质疑房东改电表",
+        "onboard_time": 1690449398,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221561,
+        "num": 221561,
+        "word": "莲花楼直播",
+        "onboard_time": 1690457375,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213665,
+        "num": 213665,
+        "word": "彩礼拿去装修是不是恋爱脑",
+        "onboard_time": 1690451315,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207995,
+        "num": 207995,
+        "word": "潜行者",
+        "onboard_time": 1690457072,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204158,
+        "num": 204158,
+        "word": "莲花楼",
+        "onboard_time": 1690455156,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200244,
+        "num": 200244,
+        "word": "那英 声替",
+        "onboard_time": 1690433861,
+        "rank": 47,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 200179,
+        "num": 200179,
+        "word": "赵丽颖一键三连拍",
+        "onboard_time": 1690457498,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194735,
+        "num": 194735,
+        "word": "厦门人防台风到底有多努力",
+        "onboard_time": 1690457433,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在四川考察调研#"
+    }
+  }
+}
