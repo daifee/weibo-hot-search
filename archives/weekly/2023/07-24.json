@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690424874504,
+  "endTime": 1690425487104,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -137,6 +137,14 @@
       "onboard_time": 1690201291,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2952921,
+      "num": 2952921,
+      "word": "涂磊报警",
+      "onboard_time": 1690424074,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2918563,
@@ -312,6 +320,14 @@
       "word": "刘珂 赵丽颖",
       "onboard_time": 1690281218,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2097712,
+      "num": 691819,
+      "word": "向佐 其实我天天都回家",
+      "onboard_time": 1690423892,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -587,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1608622,
-      "num": 1608622,
-      "word": "涂磊报警",
-      "onboard_time": 1690424074,
-      "rank": 1,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1607226,
       "num": 1292329,
       "word": "陈建州范玮琪撤销对大牙起诉",
@@ -825,14 +833,6 @@
       "onboard_time": 1690180838,
       "rank": 4,
       "category": "音乐,财经"
-    },
-    {
-      "raw_hot": 1358630,
-      "num": 691819,
-      "word": "向佐 其实我天天都回家",
-      "onboard_time": 1690423892,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1354511,
@@ -1491,20 +1491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 909479,
+      "num": 909479,
+      "word": "台风杜苏芮路径拐了个直角",
+      "onboard_time": 1690417415,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905626,
       "num": 905626,
       "word": "电视剧长相思",
       "onboard_time": 1690278101,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 900235,
-      "num": 900235,
-      "word": "台风杜苏芮路径拐了个直角",
-      "onboard_time": 1690417415,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 896483,
@@ -2147,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 713838,
+      "num": 413475,
+      "word": "男子称女友出轨找准岳父退彩礼遇害",
+      "onboard_time": 1690424254,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713166,
       "num": 949450,
       "word": "幼童三楼坠落一群人张开双臂",
@@ -2651,6 +2659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 606969,
+      "num": 606969,
+      "word": "玱玹被自己射出的子弹正中眉心",
+      "onboard_time": 1690418559,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606874,
       "num": 606874,
       "word": "莲花楼特效",
@@ -3027,14 +3043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 540627,
-      "num": 540627,
-      "word": "玱玹被自己射出的子弹正中眉心",
-      "onboard_time": 1690418559,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 539412,
       "num": 380937,
       "word": "客服回应TFBOYS演唱会线上只能看三天",
@@ -3168,14 +3176,6 @@
       "word": "一份外卖5个盒还送电烤锅让你反感吗",
       "onboard_time": 1690259079,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 513617,
-      "num": 319753,
-      "word": "男子称女友出轨找准岳父退彩礼遇害",
-      "onboard_time": 1690424254,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3603,6 +3603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 457448,
+      "num": 457448,
+      "word": "大左去看望金韩一父母",
+      "onboard_time": 1690424194,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457268,
       "num": 372017,
       "word": "顾客吃地锅鸡后拼鸡脖长到离谱",
@@ -3931,6 +3939,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 423373,
+      "num": 395563,
+      "word": "邓为出道前风格",
+      "onboard_time": 1690423954,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421789,
       "num": 421789,
       "word": "魏大勋新剧捧花杀青照",
@@ -4161,6 +4177,14 @@
       "onboard_time": 1690185755,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393834,
+      "num": 393834,
+      "word": "狗狗生病以为自己快不行了",
+      "onboard_time": 1690424134,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 392024,
@@ -4529,14 +4553,6 @@
       "onboard_time": 1690162530,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 352432,
-      "num": 352432,
-      "word": "邓为出道前风格",
-      "onboard_time": 1690423954,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 351842,
@@ -5019,14 +5035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318688,
-      "num": 318688,
-      "word": "大左去看望金韩一父母",
-      "onboard_time": 1690424194,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318298,
       "num": 318298,
       "word": "田曦薇新中式穿搭",
@@ -5345,14 +5353,6 @@
       "onboard_time": 1690261905,
       "rank": 43,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 289458,
-      "num": 289458,
-      "word": "狗狗生病以为自己快不行了",
-      "onboard_time": 1690424134,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 289294,
@@ -6443,6 +6443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216500,
+      "num": 216500,
+      "word": "猴痘防控方案印发",
+      "onboard_time": 1690425032,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215336,
       "num": 220355,
       "word": "放冰箱里的桃变不甜了",
@@ -6497,6 +6505,14 @@
       "onboard_time": 1690372003,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211127,
+      "num": 211127,
+      "word": "美依礼芽会点英语但不多",
+      "onboard_time": 1690425270,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 211098,
@@ -6683,6 +6699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205102,
+      "num": 205102,
+      "word": "皇马vs曼联",
+      "onboard_time": 1690422032,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205097,
       "num": 210574,
       "word": "双胞胎兄弟凭实力喂胖自己",
@@ -6697,6 +6721,14 @@
       "onboard_time": 1690338271,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 203961,
+      "num": 203961,
+      "word": "你还有多少年房贷",
+      "onboard_time": 1690425154,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 202633,
@@ -7267,14 +7299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182915,
-      "num": 182915,
-      "word": "皇马vs曼联",
-      "onboard_time": 1690422032,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182699,
       "num": 205733,
       "word": "三颗鸡蛋就能复刻的甜品",
@@ -7457,6 +7481,14 @@
       "onboard_time": 1690215331,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165086,
+      "num": 165086,
+      "word": "魏大勋跳wave",
+      "onboard_time": 1690425456,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 163617,

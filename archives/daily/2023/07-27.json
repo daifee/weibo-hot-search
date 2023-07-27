@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690424874504,
+  "endTime": 1690425487104,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -9,6 +9,14 @@
       "onboard_time": 1690387296,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2952921,
+      "num": 2952921,
+      "word": "涂磊报警",
+      "onboard_time": 1690424074,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2478910,
@@ -43,6 +51,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2097712,
+      "num": 691819,
+      "word": "向佐 其实我天天都回家",
+      "onboard_time": 1690423892,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1905538,
       "num": 1141332,
       "word": "狂飙后第二爆的剧是哪部",
@@ -75,14 +91,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1608622,
-      "num": 1608622,
-      "word": "涂磊报警",
-      "onboard_time": 1690424074,
-      "rank": 1,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1470237,
       "num": 709290,
       "word": "UFO",
@@ -96,14 +104,6 @@
       "word": "李玟",
       "onboard_time": 1690420775,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1358630,
-      "num": 691819,
-      "word": "向佐 其实我天天都回家",
-      "onboard_time": 1690423892,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -155,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 900235,
-      "num": 900235,
+      "raw_hot": 909479,
+      "num": 909479,
       "word": "台风杜苏芮路径拐了个直角",
       "onboard_time": 1690417415,
       "rank": 9,
@@ -209,6 +209,14 @@
       "onboard_time": 1690416271,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 713838,
+      "num": 413475,
+      "word": "男子称女友出轨找准岳父退彩礼遇害",
+      "onboard_time": 1690424254,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 711766,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606969,
+      "num": 606969,
+      "word": "玱玹被自己射出的子弹正中眉心",
+      "onboard_time": 1690418559,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591476,
       "num": 591476,
       "word": "消防员抓了只头像鼠身像猫的动物",
@@ -305,22 +321,6 @@
       "onboard_time": 1690384602,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 540627,
-      "num": 540627,
-      "word": "玱玹被自己射出的子弹正中眉心",
-      "onboard_time": 1690418559,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 513617,
-      "num": 319753,
-      "word": "男子称女友出轨找准岳父退彩礼遇害",
-      "onboard_time": 1690424254,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499397,
@@ -379,6 +379,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 457448,
+      "num": 457448,
+      "word": "大左去看望金韩一父母",
+      "onboard_time": 1690424194,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446680,
       "num": 446680,
       "word": "歌手希妮德奥康娜去世",
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 423373,
+      "num": 395563,
+      "word": "邓为出道前风格",
+      "onboard_time": 1690423954,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 413626,
       "num": 413626,
       "word": "长相思断更的原因",
@@ -417,6 +433,14 @@
       "onboard_time": 1690376139,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393834,
+      "num": 393834,
+      "word": "狗狗生病以为自己快不行了",
+      "onboard_time": 1690424134,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 390892,
@@ -483,28 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352432,
-      "num": 352432,
-      "word": "邓为出道前风格",
-      "onboard_time": 1690423954,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 335602,
       "num": 335602,
       "word": "福建广东或遭遇超强台风",
       "onboard_time": 1690416455,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318688,
-      "num": 318688,
-      "word": "大左去看望金韩一父母",
-      "onboard_time": 1690424194,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 317986,
@@ -553,14 +561,6 @@
       "onboard_time": 1690383823,
       "rank": 26,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 289458,
-      "num": 289458,
-      "word": "狗狗生病以为自己快不行了",
-      "onboard_time": 1690424134,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 287521,
@@ -707,6 +707,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216500,
+      "num": 216500,
+      "word": "猴痘防控方案印发",
+      "onboard_time": 1690425032,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211127,
+      "num": 211127,
+      "word": "美依礼芽会点英语但不多",
+      "onboard_time": 1690425270,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208323,
       "num": 208323,
       "word": "檀健次白茶蛇",
@@ -721,6 +737,22 @@
       "onboard_time": 1690384421,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205102,
+      "num": 205102,
+      "word": "皇马vs曼联",
+      "onboard_time": 1690422032,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203961,
+      "num": 203961,
+      "word": "你还有多少年房贷",
+      "onboard_time": 1690425154,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 198598,
@@ -787,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182915,
-      "num": 182915,
-      "word": "皇马vs曼联",
-      "onboard_time": 1690422032,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181395,
       "num": 181395,
       "word": "Lisa的身材管理",
@@ -841,6 +865,14 @@
       "onboard_time": 1690376676,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165086,
+      "num": 165086,
+      "word": "魏大勋跳wave",
+      "onboard_time": 1690425456,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 142298,
