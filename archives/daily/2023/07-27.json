@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690470979379,
+  "endTime": 1690472042054,
   "band_list": [
     {
       "raw_hot": 10518954,
@@ -131,20 +131,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2161190,
+      "num": 2161190,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2139985,
       "num": 2139985,
       "word": "花花和谭爷爷惊喜出镜",
       "onboard_time": 1690439432,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2138915,
-      "num": 2138915,
-      "word": "杜苏芮路径",
-      "onboard_time": 1690454734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2123509,
@@ -427,6 +427,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 1071003,
+      "num": 1071003,
+      "word": "杨洋白鹿或将合作与晋长安",
+      "onboard_time": 1690470461,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1066427,
       "num": 703259,
       "word": "火箭军原副司令员吴国华中将逝世",
@@ -571,6 +579,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 869594,
+      "num": 766059,
+      "word": "TFBOYS十周年不应援了",
+      "onboard_time": 1690470283,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 854141,
       "num": 854141,
       "word": "租客3天没关门邻居以为出事报警",
@@ -691,6 +707,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 716441,
+      "num": 541449,
+      "word": "孟宴臣朋友叫孟母付阿姨",
+      "onboard_time": 1690470346,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716042,
       "num": 434110,
       "word": "杨幂跟素人合照",
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709765,
+      "num": 539635,
+      "word": "姬发",
+      "onboard_time": 1690470707,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 709098,
       "num": 709098,
       "word": "过度喝饮料 肾衰竭",
@@ -737,14 +769,6 @@
       "onboard_time": 1690420473,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 707443,
-      "num": 625754,
-      "word": "杨洋白鹿或将合作与晋长安",
-      "onboard_time": 1690470461,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 706572,
@@ -931,14 +955,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 602275,
-      "num": 456524,
-      "word": "TFBOYS十周年不应援了",
-      "onboard_time": 1690470283,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 601264,
       "num": 417753,
       "word": "澳11岁女孩拥有百万资产打算12岁退休",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1690385021,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 567227,
-      "num": 427913,
-      "word": "孟宴臣朋友叫孟母付阿姨",
-      "onboard_time": 1690470346,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 562355,
@@ -1379,12 +1387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 429874,
-      "num": 397026,
-      "word": "姬发",
-      "onboard_time": 1690470707,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 426473,
+      "num": 393619,
+      "word": "黄晓明别奖励自己",
+      "onboard_time": 1690471002,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 426163,
@@ -1481,6 +1489,14 @@
       "onboard_time": 1690434162,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398862,
+      "num": 398862,
+      "word": "考上研究生得让每个生物都知道",
+      "onboard_time": 1690469150,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 398565,
@@ -1595,19 +1611,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376845,
-      "num": 376845,
-      "word": "考上研究生得让每个生物都知道",
-      "onboard_time": 1690469150,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 372780,
       "num": 1897331,
       "word": "别催单你的外卖小哥可能正在灭火",
       "onboard_time": 1690448736,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368207,
+      "num": 368207,
+      "word": "医学生称给细菌战受害者清创时想流泪",
+      "onboard_time": 1690467941,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1689,14 +1705,6 @@
       "onboard_time": 1690440814,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 336873,
-      "num": 336873,
-      "word": "医学生称给细菌战受害者清创时想流泪",
-      "onboard_time": 1690467941,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335602,
@@ -2011,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264543,
+      "num": 264543,
+      "word": "坐出租车被记了一次警告",
+      "onboard_time": 1690469215,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254401,
       "num": 254401,
       "word": "99年民警被送长得帅破案快锦旗",
@@ -2059,19 +2075,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241587,
-      "num": 241587,
-      "word": "坐出租车被记了一次警告",
-      "onboard_time": 1690469215,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237698,
       "num": 237698,
       "word": "王一博 不是因为工作太累导致身体不适",
       "onboard_time": 1690346620,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 235368,
+      "num": 235368,
+      "word": "玱玹瞎了",
+      "onboard_time": 1690471902,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -2097,6 +2113,14 @@
       "onboard_time": 1690413685,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228683,
+      "num": 228683,
+      "word": "有猫流出来了",
+      "onboard_time": 1690471480,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 228462,
@@ -2217,6 +2241,14 @@
       "onboard_time": 1690442553,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 212904,
+      "num": 212904,
+      "word": "易烊千玺正面照在哪里",
+      "onboard_time": 1690471962,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210656,
@@ -2635,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86686,
+      "num": 626659,
+      "word": "张钧甯说静奢风就是我的审美",
+      "onboard_time": 1690470045,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83616,
       "num": 98952,
       "word": "30 50 80的理发师有没有区别",
@@ -2681,14 +2721,6 @@
       "onboard_time": 1690395436,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51778,
-      "num": 626659,
-      "word": "张钧甯说静奢风就是我的审美",
-      "onboard_time": 1690470045,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 37967,
