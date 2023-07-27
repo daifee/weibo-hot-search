@@ -1,0 +1,410 @@
+{
+  "runTime": 1690432428907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1829998,
+        "num": 1829998,
+        "word": "六公主报道黄牛倒卖演唱会门票",
+        "onboard_time": 1690428816,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1366972,
+        "num": 1366972,
+        "word": "杨紫评论张晚意",
+        "onboard_time": 1690428873,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145859,
+        "num": 1152586,
+        "word": "英雄荣光",
+        "onboard_time": 1690426955,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970453,
+        "num": 970453,
+        "word": "房子烂尾女子停交房贷上黑名单",
+        "onboard_time": 1690421254,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 833475,
+        "num": 833475,
+        "word": "台风杜苏芮路径拐了个直角",
+        "onboard_time": 1690417415,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2784366,
+        "num": 816311,
+        "word": "涂磊报警",
+        "onboard_time": 1690424074,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1209930,
+        "num": 807742,
+        "word": "李玟丧礼遗照曝光",
+        "onboard_time": 1690427133,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731760,
+        "num": 731760,
+        "word": "如果封神失败导演需用10年还债",
+        "onboard_time": 1690416694,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 695805,
+        "num": 695805,
+        "word": "长相思罚站榜",
+        "onboard_time": 1690426471,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 621827,
+        "num": 621827,
+        "word": "台风路径",
+        "onboard_time": 1690415731,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1571628,
+        "num": 618963,
+        "word": "向佐 其实我天天都回家",
+        "onboard_time": 1690423892,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1203326,
+        "num": 593424,
+        "word": "金星认证王楚然和自己长得像",
+        "onboard_time": 1690418618,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1192338,
+        "num": 582130,
+        "word": "学信网显示结业女子错失高薪工作起诉学校",
+        "onboard_time": 1690430738,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 550512,
+        "num": 550512,
+        "word": "藏海戏麟",
+        "onboard_time": 1690431399,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543142,
+        "num": 543142,
+        "word": "空调安装人员疑操作不当致买家触电身亡",
+        "onboard_time": 1690420954,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510155,
+        "num": 510155,
+        "word": "杨紫檀健次合唱偏爱人间烟火",
+        "onboard_time": 1690428156,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507914,
+        "num": 507914,
+        "word": "台风",
+        "onboard_time": 1690380402,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499890,
+        "num": 499890,
+        "word": "小红书",
+        "onboard_time": 1690387296,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 479051,
+        "num": 479051,
+        "word": "恋综女嘉宾主打一个搞事业",
+        "onboard_time": 1690428272,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403098,
+        "num": 403098,
+        "word": "王者荣耀",
+        "onboard_time": 1690426414,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2454311,
+        "num": 402490,
+        "word": "成都17岁虐猫男生",
+        "onboard_time": 1690429357,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1596974,
+        "num": 398247,
+        "word": "女儿捅死父亲情人被判13年",
+        "onboard_time": 1690427493,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697207,
+        "num": 396264,
+        "word": "这次终于看懂五险一金了",
+        "onboard_time": 1690416873,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 533060,
+        "num": 393773,
+        "word": "杨洋天台情绪大片",
+        "onboard_time": 1690429779,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 458299,
+        "num": 389470,
+        "word": "迪丽热巴曾在西藏保护过雪豹",
+        "onboard_time": 1690430738,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432676,
+        "num": 385771,
+        "word": "我的人间烟火收官海报",
+        "onboard_time": 1690427615,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409575,
+        "num": 384775,
+        "word": "这个班没了她迟早要垮",
+        "onboard_time": 1690429957,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409037,
+        "num": 381382,
+        "word": "舌头的正确摆放位置",
+        "onboard_time": 1690428156,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379443,
+        "num": 379443,
+        "word": "檀健次戴牙套嘴瓢",
+        "onboard_time": 1690431941,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289486,
+        "num": 377060,
+        "word": "福建广东或遭遇超强台风",
+        "onboard_time": 1690416455,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380342,
+        "num": 376903,
+        "word": "深圳一地黄金1克便宜100多卖脱销",
+        "onboard_time": 1690431277,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 375720,
+        "num": 375720,
+        "word": "微信白用那么久了",
+        "onboard_time": 1690386217,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 357842,
+        "num": 357842,
+        "word": "魏大勋我都快踩张颜齐定位上了",
+        "onboard_time": 1690431701,
+        "rank": 32,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 316914,
+        "num": 316914,
+        "word": "女子遭电诈反赚骗子5万上交警方",
+        "onboard_time": 1690429898,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342979,
+        "num": 316694,
+        "word": "魏大勋跳wave",
+        "onboard_time": 1690425456,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315476,
+        "num": 315476,
+        "word": "Angelababy不想承认这是自己",
+        "onboard_time": 1690416271,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313557,
+        "num": 313557,
+        "word": "茶百道 剑网",
+        "onboard_time": 1690431762,
+        "rank": 36,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 304454,
+        "num": 304454,
+        "word": "阿森纳 友谊赛不友谊",
+        "onboard_time": 1690430978,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300154,
+        "num": 300154,
+        "word": "杨幂跟素人合照",
+        "onboard_time": 1690425695,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 297068,
+        "num": 297068,
+        "word": "莲花楼剧情节奏好快",
+        "onboard_time": 1690432122,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293428,
+        "num": 293428,
+        "word": "鹿晗上海演唱会",
+        "onboard_time": 1690431578,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292699,
+        "num": 292699,
+        "word": "男子称女友出轨找准岳父退彩礼遇害",
+        "onboard_time": 1690424254,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285083,
+        "num": 285083,
+        "word": "小红书回应闪退bug已修复",
+        "onboard_time": 1690420473,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 283008,
+        "num": 283008,
+        "word": "狗狗生病以为自己快不行了",
+        "onboard_time": 1690424134,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264652,
+        "num": 264652,
+        "word": "范丞丞隔空挖魏大勋鼻孔",
+        "onboard_time": 1690427315,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263461,
+        "num": 263461,
+        "word": "小六主打一个嘴硬",
+        "onboard_time": 1690428754,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262662,
+        "num": 262662,
+        "word": "谢楠说吴所谓是王一博的铁粉",
+        "onboard_time": 1690416271,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259179,
+        "num": 259179,
+        "word": "邓为回应叶十七眼里有活",
+        "onboard_time": 1690432362,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255055,
+        "num": 255055,
+        "word": "女生读研半年胖到180斤为减肥退学",
+        "onboard_time": 1690431037,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 238134,
+        "num": 238134,
+        "word": "大左去看望金韩一父母",
+        "onboard_time": 1690424194,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记伟大胜利捍卫和平正义#"
+    }
+  }
+}

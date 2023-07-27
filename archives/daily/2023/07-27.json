@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690431565421,
+  "endTime": 1690432428907,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -24,6 +24,14 @@
       "word": "女作家因两次被提醒管好小孩向12306投诉",
       "onboard_time": 1690412601,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2454311,
+      "num": 1787846,
+      "word": "成都17岁虐猫男生",
+      "onboard_time": 1690429357,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -75,12 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1787846,
-      "num": 1787846,
-      "word": "成都17岁虐猫男生",
-      "onboard_time": 1690429357,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 1829998,
+      "num": 1829998,
+      "word": "六公主报道黄牛倒卖演唱会门票",
+      "onboard_time": 1690428816,
+      "rank": 48,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1695142,
@@ -89,14 +97,6 @@
       "onboard_time": 1690385439,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1679289,
-      "num": 1679289,
-      "word": "六公主报道黄牛倒卖演唱会门票",
-      "onboard_time": 1690428816,
-      "rank": 48,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1662870,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1366972,
+      "num": 1366972,
+      "word": "杨紫评论张晚意",
+      "onboard_time": 1690428873,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1325892,
       "num": 562657,
       "word": "殷世航出道失败",
@@ -147,12 +155,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1238104,
-      "num": 1238104,
-      "word": "杨紫评论张晚意",
-      "onboard_time": 1690428873,
-      "rank": 4,
-      "category": "影视"
+      "raw_hot": 1192338,
+      "num": 582130,
+      "word": "学信网显示结业女子错失高薪工作起诉学校",
+      "onboard_time": 1690430738,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1019219,
@@ -347,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 586831,
-      "num": 369337,
-      "word": "学信网显示结业女子错失高薪工作起诉学校",
-      "onboard_time": 1690430738,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 569224,
       "num": 569224,
       "word": "没想到小鸟的肚子长这样",
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550512,
+      "num": 550512,
+      "word": "藏海戏麟",
+      "onboard_time": 1690431399,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 544020,
       "num": 544020,
       "word": "刀郎诉降央卓玛侵权西海情歌获赔7万",
@@ -396,11 +404,19 @@
     },
     {
       "raw_hot": 541187,
-      "num": 478722,
+      "num": 479051,
       "word": "恋综女嘉宾主打一个搞事业",
       "onboard_time": 1690428272,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533060,
+      "num": 476079,
+      "word": "杨洋天台情绪大片",
+      "onboard_time": 1690429779,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 530893,
@@ -409,14 +425,6 @@
       "onboard_time": 1690428156,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 528716,
-      "num": 476079,
-      "word": "杨洋天台情绪大片",
-      "onboard_time": 1690429779,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 514654,
@@ -523,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 458299,
+      "num": 394539,
+      "word": "迪丽热巴曾在西藏保护过雪豹",
+      "onboard_time": 1690430738,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446680,
       "num": 446680,
       "word": "歌手希妮德奥康娜去世",
@@ -595,14 +611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 394539,
-      "num": 394539,
-      "word": "迪丽热巴曾在西藏保护过雪豹",
-      "onboard_time": 1690430738,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 394161,
       "num": 380821,
       "word": "长相思榜单全面登顶",
@@ -651,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380342,
+      "num": 376903,
+      "word": "深圳一地黄金1克便宜100多卖脱销",
+      "onboard_time": 1690431277,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 379763,
       "num": 379763,
       "word": "怒江百万网红蔡金发账号涉黄被封",
       "onboard_time": 1690370139,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379443,
+      "num": 379443,
+      "word": "檀健次戴牙套嘴瓢",
+      "onboard_time": 1690431941,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 377892,
@@ -683,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357842,
+      "num": 357842,
+      "word": "魏大勋我都快踩张颜齐定位上了",
+      "onboard_time": 1690431701,
+      "rank": 32,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 354577,
       "num": 354577,
       "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 335602,
-      "num": 369703,
+      "num": 377060,
       "word": "福建广东或遭遇超强台风",
       "onboard_time": 1690416455,
       "rank": 29,
@@ -731,20 +763,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316576,
-      "num": 316576,
-      "word": "深圳一地黄金1克便宜100多卖脱销",
-      "onboard_time": 1690431277,
-      "rank": 35,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 315575,
       "num": 315575,
       "word": "相柳番外",
       "onboard_time": 1690419634,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 313557,
+      "num": 313557,
+      "word": "茶百道 剑网",
+      "onboard_time": 1690431762,
+      "rank": 36,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 305534,
@@ -779,12 +811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297068,
+      "num": 297068,
+      "word": "莲花楼剧情节奏好快",
+      "onboard_time": 1690432122,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293974,
       "num": 293974,
       "word": "搂了半天发现搂错人了",
       "onboard_time": 1690380343,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 293428,
+      "num": 293428,
+      "word": "鹿晗上海演唱会",
+      "onboard_time": 1690431578,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 289544,
@@ -827,19 +875,19 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 268601,
-      "num": 268601,
-      "word": "藏海戏麟",
-      "onboard_time": 1690431399,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 267198,
       "num": 267198,
       "word": "许沁脖子不酸吗",
       "onboard_time": 1690384241,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 259179,
+      "num": 259179,
+      "word": "邓为回应叶十七眼里有活",
+      "onboard_time": 1690432362,
+      "rank": 47,
       "category": "影视"
     },
     {
