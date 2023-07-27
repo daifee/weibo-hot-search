@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690479223081,
+  "endTime": 1690482047150,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -49059,6 +49059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233925,
+      "num": 233925,
+      "word": "紫为星",
+      "onboard_time": 1690477284,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233891,
       "num": 233891,
       "word": "榴莲壳上白色的肉也很好吃",
@@ -57499,14 +57507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183327,
-      "num": 183327,
-      "word": "紫为星",
-      "onboard_time": 1690477284,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183211,
       "num": 183211,
       "word": "安乐传回应片头制作",
@@ -64265,6 +64265,14 @@
       "onboard_time": 1689195852,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66482,
+      "num": 66482,
+      "word": "常温超导",
+      "onboard_time": 1690480758,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 65698,

@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690479223081,
+  "endTime": 1690482047150,
   "band_list": [
     {
       "raw_hot": 5335890,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233925,
+      "num": 233925,
+      "word": "紫为星",
+      "onboard_time": 1690477284,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231784,
       "num": 231784,
       "word": "再也不怕刷身份证时尴尬了",
@@ -344,14 +352,6 @@
       "word": "长相思今日行程",
       "onboard_time": 1690476807,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 183327,
-      "num": 183327,
-      "word": "紫为星",
-      "onboard_time": 1690477284,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -441,6 +441,14 @@
       "onboard_time": 1690461095,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 66482,
+      "num": 66482,
+      "word": "常温超导",
+      "onboard_time": 1690480758,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 34918,
