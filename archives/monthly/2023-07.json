@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690461241559,
+  "endTime": 1690462178752,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -9532,7 +9532,7 @@
     },
     {
       "raw_hot": 1023549,
-      "num": 935916,
+      "num": 1022479,
       "word": "杜苏芮路径",
       "onboard_time": 1690454734,
       "rank": 20,
@@ -13267,6 +13267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 829032,
+      "num": 829032,
+      "word": "中国气象局启动台风一级应急响应",
+      "onboard_time": 1690454497,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828973,
       "num": 822122,
       "word": "产后排便能有多可怕",
@@ -15323,14 +15331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 744051,
-      "num": 744051,
-      "word": "中国气象局启动台风一级应急响应",
-      "onboard_time": 1690454497,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 743763,
       "num": 743763,
       "word": "UNIQ合照",
@@ -15617,6 +15617,14 @@
       "onboard_time": 1689322235,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733406,
+      "num": 733406,
+      "word": "黄晓明去油成功",
+      "onboard_time": 1690461575,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 732890,
@@ -17539,6 +17547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669486,
+      "num": 669486,
+      "word": "广州地铁偶遇孟宴臣",
+      "onboard_time": 1690460195,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 669391,
       "num": 391081,
       "word": "吴宇恒不敢裸穿",
@@ -18873,6 +18889,14 @@
       "onboard_time": 1690034500,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 638459,
+      "num": 638459,
+      "word": "赵今麦妆造",
+      "onboard_time": 1690461095,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 638218,
@@ -23435,6 +23459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 529982,
+      "num": 529982,
+      "word": "彩虹",
+      "onboard_time": 1690459113,
+      "rank": 13,
+      "category": "自然"
+    },
+    {
       "raw_hot": 529963,
       "num": 404102,
       "word": "不要给孩子吃太多水果了",
@@ -24793,14 +24825,6 @@
       "onboard_time": 1689653193,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 501163,
-      "num": 501163,
-      "word": "彩虹",
-      "onboard_time": 1690459113,
-      "rank": 13,
-      "category": "自然"
     },
     {
       "raw_hot": 501162,
@@ -27251,6 +27275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459808,
+      "num": 459808,
+      "word": "厦门人防台风到底有多努力",
+      "onboard_time": 1690457433,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 459795,
       "num": 459795,
       "word": "萌兰花花和叶生日快乐",
@@ -27697,14 +27729,6 @@
       "onboard_time": 1690432662,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 452993,
-      "num": 452993,
-      "word": "广州地铁偶遇孟宴臣",
-      "onboard_time": 1690460195,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 452878,
@@ -31499,6 +31523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 400188,
+      "num": 400188,
+      "word": "邓为只有一部待播剧了",
+      "onboard_time": 1690459595,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400179,
       "num": 400179,
       "word": "T1",
@@ -32025,14 +32057,6 @@
       "onboard_time": 1689305733,
       "rank": 31,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 393070,
-      "num": 393070,
-      "word": "厦门人防台风到底有多努力",
-      "onboard_time": 1690457433,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 392960,
@@ -35027,6 +35051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356527,
+      "num": 366755,
+      "word": "爸妈没给的我也没给",
+      "onboard_time": 1690458332,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 356470,
       "num": 266808,
       "word": "rush",
@@ -36035,14 +36067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345095,
-      "num": 366755,
-      "word": "爸妈没给的我也没给",
-      "onboard_time": 1690458332,
-      "rank": 24,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 345082,
       "num": 313146,
       "word": "范丞丞王鹤棣情侣头像",
@@ -36647,6 +36671,14 @@
       "num": 338481,
       "word": "李木戈你到底埋了多少细节",
       "onboard_time": 1689485852,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338424,
+      "num": 338424,
+      "word": "不完美受害人 赵寻",
+      "onboard_time": 1690461872,
       "rank": 27,
       "category": "影视"
     },
@@ -41475,6 +41507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291836,
+      "num": 291836,
+      "word": "看完TFBOYS看EXO",
+      "onboard_time": 1690459173,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 291801,
       "num": 291801,
       "word": "杭州高职小伙一毕业被开18万年薪",
@@ -42073,14 +42113,6 @@
       "onboard_time": 1689473669,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287102,
-      "num": 287102,
-      "word": "看完TFBOYS看EXO",
-      "onboard_time": 1690459173,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 286854,
@@ -47451,14 +47483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 242874,
-      "num": 233569,
-      "word": "赵今麦妆造",
-      "onboard_time": 1690461095,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 242750,
       "num": 242750,
       "word": "数辆私家车齐刷刷闯红灯45度让行",
@@ -50281,6 +50305,14 @@
       "onboard_time": 1689480693,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222722,
+      "num": 222722,
+      "word": "成都彩虹",
+      "onboard_time": 1690460433,
+      "rank": 47,
+      "category": "自然"
     },
     {
       "raw_hot": 222681,
@@ -55875,14 +55907,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 190295,
-      "num": 208988,
-      "word": "成都彩虹",
-      "onboard_time": 1690460433,
-      "rank": 47,
-      "category": "自然"
-    },
-    {
       "raw_hot": 190293,
       "num": 190293,
       "word": "听说每个东北小孩都离不开它",
@@ -57953,6 +57977,14 @@
       "onboard_time": 1689668973,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176224,
+      "num": 212380,
+      "word": "KFC排球少年",
+      "onboard_time": 1690462056,
+      "rank": 49,
+      "category": "美食,动漫"
     },
     {
       "raw_hot": 176027,
@@ -63995,6 +64027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58483,
+      "num": 532141,
+      "word": "当呼和浩特遇上青岛啤酒节",
+      "onboard_time": 1690459232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58070,
       "num": 188201,
       "word": "世界首头人工繁育长江江豚18岁了",
@@ -64313,14 +64353,6 @@
       "onboard_time": 1688756115,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45071,
-      "num": 458591,
-      "word": "当呼和浩特遇上青岛啤酒节",
-      "onboard_time": 1690459232,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44058,
