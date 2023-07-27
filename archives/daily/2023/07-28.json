@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690489015755,
+  "endTime": 1690490032274,
   "band_list": [
     {
       "raw_hot": 5335890,
@@ -467,16 +467,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 56538,
-      "num": 56538,
+      "raw_hot": 65605,
+      "num": 65605,
       "word": "台风杜苏芮预计28日登陆",
       "onboard_time": 1690483034,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45988,
-      "num": 45988,
+      "raw_hot": 58300,
+      "num": 58300,
       "word": "知乎网友着手复现韩国常温超导发现",
       "onboard_time": 1690485554,
       "rank": 49,
@@ -496,6 +496,14 @@
       "word": "福建海浪打出西游记开场既视感",
       "onboard_time": 1690482977,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18978,
+      "num": 27436,
+      "word": "直播台风杜苏芮",
+      "onboard_time": 1690489874,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
