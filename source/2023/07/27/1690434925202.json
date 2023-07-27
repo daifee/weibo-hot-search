@@ -1,0 +1,410 @@
+{
+  "runTime": 1690434925202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2376560,
+        "num": 2376560,
+        "word": "学信网显示结业女子错失高薪工作起诉学校",
+        "onboard_time": 1690430738,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1352802,
+        "num": 1352802,
+        "word": "厦门7月27日15时起三停一休",
+        "onboard_time": 1690432901,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77404,
+        "num": 1325052,
+        "word": "英雄荣光",
+        "onboard_time": 1690426955,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313092,
+        "num": 1313092,
+        "word": "李雪琴评热烈唯一的遗憾",
+        "onboard_time": 1690432721,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1147245,
+        "num": 1147245,
+        "word": "六公主报道黄牛倒卖演唱会门票",
+        "onboard_time": 1690428816,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1137024,
+        "num": 1137024,
+        "word": "李玟丧礼遗照曝光",
+        "onboard_time": 1690427133,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 980106,
+        "num": 980106,
+        "word": "杨紫评论张晚意",
+        "onboard_time": 1690428873,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 901919,
+        "num": 901919,
+        "word": "房子烂尾女子停交房贷上黑名单",
+        "onboard_time": 1690421254,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 888779,
+        "num": 888779,
+        "word": "台风杜苏芮路径拐了个直角",
+        "onboard_time": 1690417415,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745629,
+        "num": 745629,
+        "word": "EXO将举办青岛签售会",
+        "onboard_time": 1690433080,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1573402,
+        "num": 717889,
+        "word": "涂磊报警",
+        "onboard_time": 1690424074,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1270246,
+        "num": 717633,
+        "word": "向佐 其实我天天都回家",
+        "onboard_time": 1690423892,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852554,
+        "num": 716834,
+        "word": "金星认证王楚然和自己长得像",
+        "onboard_time": 1690418618,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668675,
+        "num": 668675,
+        "word": "台风路径",
+        "onboard_time": 1690415731,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94166,
+        "num": 630662,
+        "word": "飞猪机票捡漏",
+        "onboard_time": 1690429657,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 606560,
+        "num": 606560,
+        "word": "长相思罚站榜",
+        "onboard_time": 1690426471,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606256,
+        "num": 606256,
+        "word": "藏海戏麟",
+        "onboard_time": 1690431399,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576448,
+        "num": 576448,
+        "word": "茶百道 剑网",
+        "onboard_time": 1690431762,
+        "rank": 17,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 574741,
+        "num": 574741,
+        "word": "深圳一地黄金1克便宜100多卖脱销",
+        "onboard_time": 1690431277,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 570357,
+        "num": 570357,
+        "word": "恋综女嘉宾主打一个搞事业",
+        "onboard_time": 1690428272,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1313792,
+        "num": 562389,
+        "word": "女儿捅死父亲情人被判13年",
+        "onboard_time": 1690427493,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546800,
+        "num": 546800,
+        "word": "这次终于看懂五险一金了",
+        "onboard_time": 1690416873,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 544535,
+        "num": 544535,
+        "word": "杨洋天台情绪大片",
+        "onboard_time": 1690429779,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 541343,
+        "num": 541343,
+        "word": "谢娜李维嘉吴昕合体",
+        "onboard_time": 1690433920,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507280,
+        "num": 507280,
+        "word": "空调安装人员疑操作不当致买家触电身亡",
+        "onboard_time": 1690420954,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497973,
+        "num": 497973,
+        "word": "魏大勋我都快踩张颜齐定位上了",
+        "onboard_time": 1690431701,
+        "rank": 25,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 495122,
+        "num": 495122,
+        "word": "厦门",
+        "onboard_time": 1690432481,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472574,
+        "num": 472574,
+        "word": "迪丽热巴曾在西藏保护过雪豹",
+        "onboard_time": 1690430738,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453150,
+        "num": 453150,
+        "word": "大鹏回复李雪琴",
+        "onboard_time": 1690432662,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280248,
+        "num": 436970,
+        "word": "福建广东或遭遇超强台风",
+        "onboard_time": 1690416455,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658281,
+        "num": 436340,
+        "word": "那英 声替",
+        "onboard_time": 1690433861,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 433446,
+        "num": 433446,
+        "word": "成功侵犯案视频曝光",
+        "onboard_time": 1690433261,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404367,
+        "num": 404367,
+        "word": "刘雨昕 抢票",
+        "onboard_time": 1690434099,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391335,
+        "num": 391335,
+        "word": "如果封神失败导演需用10年还债",
+        "onboard_time": 1690416694,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386620,
+        "num": 386620,
+        "word": "小红书",
+        "onboard_time": 1690387296,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 373485,
+        "num": 373485,
+        "word": "杨紫檀健次合唱偏爱人间烟火",
+        "onboard_time": 1690428156,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372329,
+        "num": 372329,
+        "word": "台风",
+        "onboard_time": 1690380402,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367989,
+        "num": 367989,
+        "word": "莲花楼剧情节奏好快",
+        "onboard_time": 1690432122,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362548,
+        "num": 362548,
+        "word": "舌头的正确摆放位置",
+        "onboard_time": 1690428156,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114587,
+        "num": 359011,
+        "word": "巴彦淖尔科目三是马背跳绳",
+        "onboard_time": 1690434041,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358325,
+        "num": 358325,
+        "word": "种地吧",
+        "onboard_time": 1690434401,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341788,
+        "num": 341788,
+        "word": "邓为回应叶十七眼里有活",
+        "onboard_time": 1690432362,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329843,
+        "num": 329843,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1690434580,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330690,
+        "num": 318241,
+        "word": "檀健次戴牙套嘴瓢",
+        "onboard_time": 1690431941,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295029,
+        "num": 295029,
+        "word": "狗狗生病以为自己快不行了",
+        "onboard_time": 1690424134,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292727,
+        "num": 292727,
+        "word": "帕梅拉 芭比舞蹈",
+        "onboard_time": 1690434162,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275768,
+        "num": 275768,
+        "word": "Angelababy不想承认这是自己",
+        "onboard_time": 1690416271,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272693,
+        "num": 272693,
+        "word": "微信白用那么久了",
+        "onboard_time": 1690386217,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 267571,
+        "num": 267571,
+        "word": "小红书回应闪退bug已修复",
+        "onboard_time": 1690420473,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 267541,
+        "num": 267541,
+        "word": "女子遭电诈反赚骗子5万上交警方",
+        "onboard_time": 1690429898,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记伟大胜利捍卫和平正义#"
+    }
+  }
+}

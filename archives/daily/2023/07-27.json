@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690432428907,
+  "endTime": 1690434925202,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 2419677,
-      "num": 710308,
+      "num": 716834,
       "word": "金星认证王楚然和自己长得像",
       "onboard_time": 1690418618,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2376560,
+      "num": 2376560,
+      "word": "学信网显示结业女子错失高薪工作起诉学校",
+      "onboard_time": 1690430738,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2351783,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 2123509,
-      "num": 691819,
+      "num": 717633,
       "word": "向佐 其实我天天都回家",
       "onboard_time": 1690423892,
       "rank": 11,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1612918,
-      "num": 483422,
+      "num": 562389,
       "word": "女儿捅死父亲情人被判13年",
       "onboard_time": 1690427493,
       "rank": 32,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1352802,
+      "num": 1352802,
+      "word": "厦门7月27日15时起三停一休",
+      "onboard_time": 1690432901,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1325892,
       "num": 562657,
       "word": "殷世航出道失败",
@@ -155,12 +171,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1192338,
-      "num": 582130,
-      "word": "学信网显示结业女子错失高薪工作起诉学校",
-      "onboard_time": 1690430738,
-      "rank": 30,
-      "category": "教育,社会新闻"
+      "raw_hot": 1313092,
+      "num": 1313092,
+      "word": "李雪琴评热烈唯一的遗憾",
+      "onboard_time": 1690432721,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1019219,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 964246,
-      "num": 498530,
+      "num": 546800,
       "word": "这次终于看懂五险一金了",
       "onboard_time": 1690416873,
       "rank": 21,
@@ -259,6 +275,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 745629,
+      "num": 745629,
+      "word": "EXO将举办青岛签售会",
+      "onboard_time": 1690433080,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 734530,
       "num": 734530,
       "word": "李昌钰就伪造证据事件发声",
@@ -331,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 658281,
+      "num": 436340,
+      "word": "那英 声替",
+      "onboard_time": 1690433861,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 644661,
       "num": 564829,
       "word": "王一博的圈内人缘",
@@ -347,12 +379,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 606256,
+      "num": 606256,
+      "word": "藏海戏麟",
+      "onboard_time": 1690431399,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591476,
       "num": 591476,
       "word": "消防员抓了只头像鼠身像猫的动物",
       "onboard_time": 1690386760,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576448,
+      "num": 576448,
+      "word": "茶百道 剑网",
+      "onboard_time": 1690431762,
+      "rank": 36,
+      "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 574741,
+      "num": 574741,
+      "word": "深圳一地黄金1克便宜100多卖脱销",
+      "onboard_time": 1690431277,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 570357,
+      "num": 570357,
+      "word": "恋综女嘉宾主打一个搞事业",
+      "onboard_time": 1690428272,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 569224,
@@ -379,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 550512,
-      "num": 550512,
-      "word": "藏海戏麟",
-      "onboard_time": 1690431399,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 544535,
+      "num": 544535,
+      "word": "杨洋天台情绪大片",
+      "onboard_time": 1690429779,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 544020,
@@ -403,20 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 541187,
-      "num": 479051,
-      "word": "恋综女嘉宾主打一个搞事业",
-      "onboard_time": 1690428272,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 533060,
-      "num": 476079,
-      "word": "杨洋天台情绪大片",
-      "onboard_time": 1690429779,
+      "raw_hot": 541343,
+      "num": 541343,
+      "word": "谢娜李维嘉吴昕合体",
+      "onboard_time": 1690433920,
       "rank": 23,
-      "category": "作品衍生,时尚"
+      "category": "综艺"
     },
     {
       "raw_hot": 530893,
@@ -449,6 +505,22 @@
       "onboard_time": 1690421134,
       "rank": 19,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 497973,
+      "num": 497973,
+      "word": "魏大勋我都快踩张颜齐定位上了",
+      "onboard_time": 1690431701,
+      "rank": 32,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 495122,
+      "num": 495122,
+      "word": "厦门",
+      "onboard_time": 1690432481,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493689,
@@ -507,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 472574,
+      "num": 472574,
+      "word": "迪丽热巴曾在西藏保护过雪豹",
+      "onboard_time": 1690430738,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469741,
       "num": 469741,
       "word": "长相思",
@@ -531,12 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 458299,
-      "num": 394539,
-      "word": "迪丽热巴曾在西藏保护过雪豹",
-      "onboard_time": 1690430738,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 453150,
+      "num": 453150,
+      "word": "大鹏回复李雪琴",
+      "onboard_time": 1690432662,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 446680,
@@ -561,6 +641,14 @@
       "onboard_time": 1690376501,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 433446,
+      "num": 433446,
+      "word": "成功侵犯案视频曝光",
+      "onboard_time": 1690433261,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 431178,
@@ -601,6 +689,14 @@
       "onboard_time": 1690426232,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 404367,
+      "num": 404367,
+      "word": "刘雨昕 抢票",
+      "onboard_time": 1690434099,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 400682,
@@ -659,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380342,
-      "num": 376903,
-      "word": "深圳一地黄金1克便宜100多卖脱销",
-      "onboard_time": 1690431277,
-      "rank": 35,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 379763,
       "num": 379763,
       "word": "怒江百万网红蔡金发账号涉黄被封",
@@ -699,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367989,
+      "num": 367989,
+      "word": "莲花楼剧情节奏好快",
+      "onboard_time": 1690432122,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361665,
       "num": 361665,
       "word": "警方通报10岁男孩被继母打死",
@@ -707,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357842,
-      "num": 357842,
-      "word": "魏大勋我都快踩张颜齐定位上了",
-      "onboard_time": 1690431701,
-      "rank": 32,
-      "category": "综艺,幽默"
+      "raw_hot": 358325,
+      "num": 358325,
+      "word": "种地吧",
+      "onboard_time": 1690434401,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 354577,
@@ -731,12 +827,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341788,
+      "num": 341788,
+      "word": "邓为回应叶十七眼里有活",
+      "onboard_time": 1690432362,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335602,
-      "num": 377060,
+      "num": 436970,
       "word": "福建广东或遭遇超强台风",
       "onboard_time": 1690416455,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329843,
+      "num": 329843,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1690434580,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 329333,
@@ -771,14 +883,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 313557,
-      "num": 313557,
-      "word": "茶百道 剑网",
-      "onboard_time": 1690431762,
-      "rank": 36,
-      "category": "游戏,美食"
-    },
-    {
       "raw_hot": 305534,
       "num": 305534,
       "word": "杨玏伯邑考三场戏",
@@ -811,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297068,
-      "num": 297068,
-      "word": "莲花楼剧情节奏好快",
-      "onboard_time": 1690432122,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 293974,
       "num": 293974,
       "word": "搂了半天发现搂错人了",
@@ -833,6 +929,14 @@
       "onboard_time": 1690431578,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292727,
+      "num": 292727,
+      "word": "帕梅拉 芭比舞蹈",
+      "onboard_time": 1690434162,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 289544,
@@ -880,14 +984,6 @@
       "word": "许沁脖子不酸吗",
       "onboard_time": 1690384241,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 259179,
-      "num": 259179,
-      "word": "邓为回应叶十七眼里有活",
-      "onboard_time": 1690432362,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -956,7 +1052,7 @@
     },
     {
       "raw_hot": 227523,
-      "num": 251532,
+      "num": 630662,
       "word": "飞猪机票捡漏",
       "onboard_time": 1690429657,
       "rank": 46,
@@ -1225,6 +1321,14 @@
       "onboard_time": 1690393639,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114587,
+      "num": 359011,
+      "word": "巴彦淖尔科目三是马背跳绳",
+      "onboard_time": 1690434041,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102950,
