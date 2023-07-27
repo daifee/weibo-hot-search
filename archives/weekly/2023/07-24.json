@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690442132510,
+  "endTime": 1690443234440,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3323196,
+      "num": 3323196,
+      "word": "江宏杰宣布告赢福原爱",
+      "onboard_time": 1690440692,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3221475,
       "num": 3221475,
       "word": "EXO青岛",
@@ -185,14 +193,6 @@
       "onboard_time": 1690188874,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2530530,
-      "num": 2530530,
-      "word": "江宏杰宣布告赢福原爱",
-      "onboard_time": 1690440692,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2523818,
@@ -337,6 +337,14 @@
       "onboard_time": 1690376501,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2139985,
+      "num": 2139985,
+      "word": "花花和谭爷爷惊喜出镜",
+      "onboard_time": 1690439432,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 2123509,
@@ -489,14 +497,6 @@
       "onboard_time": 1690210423,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1858198,
-      "num": 1858198,
-      "word": "花花和谭爷爷惊喜出镜",
-      "onboard_time": 1690439432,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 1836674,
@@ -2283,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 723718,
+      "num": 723718,
+      "word": "可口可乐将继续提价",
+      "onboard_time": 1690438113,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 716042,
       "num": 434110,
       "word": "杨幂跟素人合照",
@@ -2331,6 +2339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 706572,
+      "num": 706572,
+      "word": "5名80后操纵115个账户亏掉3.04亿",
+      "onboard_time": 1690439553,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 705256,
       "num": 537568,
       "word": "杨幂被吓没来得及做反应",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1690415311,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690143,
+      "num": 381581,
+      "word": "凌晨一点听到爸爸在客厅抽泣",
+      "onboard_time": 1690440935,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 688915,
@@ -2561,14 +2585,6 @@
       "onboard_time": 1690431762,
       "rank": 36,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 655709,
-      "num": 655709,
-      "word": "可口可乐将继续提价",
-      "onboard_time": 1690438113,
-      "rank": 43,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 654258,
@@ -3259,14 +3275,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 544505,
-      "num": 381581,
-      "word": "凌晨一点听到爸爸在客厅抽泣",
-      "onboard_time": 1690440935,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 544020,
       "num": 544020,
       "word": "刀郎诉降央卓玛侵权西海情歌获赔7万",
@@ -3649,14 +3657,6 @@
       "onboard_time": 1690376437,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 489057,
-      "num": 489057,
-      "word": "5名80后操纵115个账户亏掉3.04亿",
-      "onboard_time": 1690439553,
-      "rank": 39,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 488014,
@@ -4643,6 +4643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385647,
+      "num": 385647,
+      "word": "芭比最贴近角色的演员",
+      "onboard_time": 1690440935,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384326,
       "num": 384326,
       "word": "朱志鑫 体能方面没那么稳固",
@@ -5259,6 +5267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332461,
+      "num": 332461,
+      "word": "高考后驾校教练拉了一车学霸",
+      "onboard_time": 1690440814,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331558,
       "num": 331558,
       "word": "XXS码实习警犬劲头十足",
@@ -5851,7 +5867,7 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 289775,
+      "raw_hot": 290272,
       "num": 289775,
       "word": "张晚意戴墨镜cue玱玹瞎",
       "onboard_time": 1690438714,
@@ -6363,14 +6379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255130,
-      "num": 255130,
-      "word": "芭比最贴近角色的演员",
-      "onboard_time": 1690440935,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 254683,
       "num": 227022,
       "word": "angel采访",
@@ -6771,6 +6779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228462,
+      "num": 228462,
+      "word": "封神男团双人瑜伽比拼",
+      "onboard_time": 1690442016,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228023,
       "num": 228023,
       "word": "云南菌子才是最省钱的VR技术",
@@ -6971,14 +6987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218743,
-      "num": 218743,
-      "word": "高考后驾校教练拉了一车学霸",
-      "onboard_time": 1690440814,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217946,
       "num": 217946,
       "word": "晏明谈性同意",
@@ -7025,6 +7033,14 @@
       "onboard_time": 1690348777,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 212927,
+      "num": 212927,
+      "word": "山东三支一扶",
+      "onboard_time": 1690442553,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 212691,
@@ -7315,6 +7331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201224,
+      "num": 326480,
+      "word": "OPPO上半年中国手机市场份额第一",
+      "onboard_time": 1690441414,
+      "rank": 31,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 201217,
       "num": 201217,
       "word": "电影热烈",
@@ -7577,6 +7601,14 @@
       "onboard_time": 1690274016,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192727,
+      "num": 192727,
+      "word": "茶百道 剑网3",
+      "onboard_time": 1690431762,
+      "rank": 42,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 192597,
@@ -8083,14 +8115,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 160001,
-      "num": 190164,
-      "word": "封神男团双人瑜伽比拼",
-      "onboard_time": 1690442016,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158660,
       "num": 158660,
       "word": "王宝钏被许沁挤第二",
@@ -8587,14 +8611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70938,
-      "num": 249056,
-      "word": "OPPO上半年中国手机市场份额第一",
-      "onboard_time": 1690441414,
-      "rank": 31,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 70346,
       "num": 660359,
       "word": "张琳艳给自己首战打8分",
@@ -8779,20 +8795,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17777,
+      "num": 1613803,
+      "word": "与时代共奋飞",
+      "onboard_time": 1690426714,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17554,
       "num": 441266,
       "word": "说唱巅峰2023盛夏完结",
       "onboard_time": 1690280499,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14321,
-      "num": 1613803,
-      "word": "与时代共奋飞",
-      "onboard_time": 1690426714,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12163,

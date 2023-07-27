@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690442132510,
+  "endTime": 1690443234440,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -19,8 +19,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2530530,
-      "num": 2530530,
+      "raw_hot": 3323196,
+      "num": 3323196,
       "word": "江宏杰宣布告赢福原爱",
       "onboard_time": 1690440692,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2139985,
+      "num": 2139985,
+      "word": "花花和谭爷爷惊喜出镜",
+      "onboard_time": 1690439432,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2123509,
       "num": 717633,
       "word": "向佐 其实我天天都回家",
@@ -104,14 +112,6 @@
       "word": "如果封神失败导演需用10年还债",
       "onboard_time": 1690416694,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1858198,
-      "num": 1858198,
-      "word": "花花和谭爷爷惊喜出镜",
-      "onboard_time": 1690439432,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723718,
+      "num": 723718,
+      "word": "可口可乐将继续提价",
+      "onboard_time": 1690438113,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 716042,
       "num": 434110,
       "word": "杨幂跟素人合照",
@@ -395,12 +403,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 706572,
+      "num": 706572,
+      "word": "5名80后操纵115个账户亏掉3.04亿",
+      "onboard_time": 1690439553,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 690808,
       "num": 690808,
       "word": "姐弟垃圾堆捡31部苹果手机价值21万",
       "onboard_time": 1690415311,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690143,
+      "num": 381581,
+      "word": "凌晨一点听到爸爸在客厅抽泣",
+      "onboard_time": 1690440935,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 688674,
@@ -425,14 +449,6 @@
       "onboard_time": 1690431762,
       "rank": 36,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 655709,
-      "num": 655709,
-      "word": "可口可乐将继续提价",
-      "onboard_time": 1690438113,
-      "rank": 43,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 644661,
@@ -555,14 +571,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 544505,
-      "num": 381581,
-      "word": "凌晨一点听到爸爸在客厅抽泣",
-      "onboard_time": 1690440935,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 544020,
       "num": 544020,
       "word": "刀郎诉降央卓玛侵权西海情歌获赔7万",
@@ -625,14 +633,6 @@
       "onboard_time": 1690427615,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 489057,
-      "num": 489057,
-      "word": "5名80后操纵115个账户亏掉3.04亿",
-      "onboard_time": 1690439553,
-      "rank": 39,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 486017,
@@ -859,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385647,
+      "num": 385647,
+      "word": "芭比最贴近角色的演员",
+      "onboard_time": 1690440935,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381359,
       "num": 381359,
       "word": "如果微信显示对方已删除的话",
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332461,
+      "num": 332461,
+      "word": "高考后驾校教练拉了一车学霸",
+      "onboard_time": 1690440814,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329843,
       "num": 329843,
       "word": "蔡依林演唱会",
@@ -1059,7 +1075,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 289775,
+      "raw_hot": 290272,
       "num": 289775,
       "word": "张晚意戴墨镜cue玱玹瞎",
       "onboard_time": 1690438714,
@@ -1112,14 +1128,6 @@
       "word": "许沁脖子不酸吗",
       "onboard_time": 1690384241,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 255130,
-      "num": 255130,
-      "word": "芭比最贴近角色的演员",
-      "onboard_time": 1690440935,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1176,6 +1184,14 @@
       "word": "相柳的九条命是如何没的",
       "onboard_time": 1690413685,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228462,
+      "num": 228462,
+      "word": "封神男团双人瑜伽比拼",
+      "onboard_time": 1690442016,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -1243,20 +1259,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218743,
-      "num": 218743,
-      "word": "高考后驾校教练拉了一车学霸",
-      "onboard_time": 1690440814,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217946,
       "num": 217946,
       "word": "晏明谈性同意",
       "onboard_time": 1690417834,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212927,
+      "num": 212927,
+      "word": "山东三支一扶",
+      "onboard_time": 1690442553,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 208323,
@@ -1315,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201224,
+      "num": 326480,
+      "word": "OPPO上半年中国手机市场份额第一",
+      "onboard_time": 1690441414,
+      "rank": 31,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 198598,
       "num": 198598,
       "word": "沛沛",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1690420655,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192727,
+      "num": 192727,
+      "word": "茶百道 剑网3",
+      "onboard_time": 1690431762,
+      "rank": 42,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 192217,
@@ -1443,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160001,
-      "num": 190164,
-      "word": "封神男团双人瑜伽比拼",
-      "onboard_time": 1690442016,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 142298,
       "num": 142298,
       "word": "微笑天使萨摩耶狗设崩塌现场",
@@ -1547,14 +1571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 70938,
-      "num": 249056,
-      "word": "OPPO上半年中国手机市场份额第一",
-      "onboard_time": 1690441414,
-      "rank": 31,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 63440,
       "num": 107515,
       "word": "买了不会出错的彩妆",
@@ -1603,20 +1619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17777,
+      "num": 1613803,
+      "word": "与时代共奋飞",
+      "onboard_time": 1690426714,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17129,
       "num": 1841676,
       "word": "大运会里的中国风巴蜀韵",
       "onboard_time": 1690362885,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14321,
-      "num": 1613803,
-      "word": "与时代共奋飞",
-      "onboard_time": 1690426714,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
