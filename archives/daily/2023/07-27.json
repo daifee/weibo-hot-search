@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690427807301,
+  "endTime": 1690428852137,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1660500,
+      "num": 1660500,
+      "word": "李玟丧礼遗照曝光",
+      "onboard_time": 1690427133,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1470237,
       "num": 709290,
       "word": "UFO",
@@ -113,6 +121,14 @@
       "onboard_time": 1690380459,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1068893,
+      "num": 439052,
+      "word": "女儿捅死父亲情人被判13年",
+      "onboard_time": 1690427493,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1019219,
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912321,
+      "num": 912321,
+      "word": "长相思罚站榜",
+      "onboard_time": 1690426471,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 896483,
       "num": 896483,
       "word": "武契奇称中国无人机命中率令人难以置信",
@@ -187,24 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 796606,
-      "num": 562406,
-      "word": "李玟丧礼遗照曝光",
-      "onboard_time": 1690427133,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 788904,
-      "num": 788904,
-      "word": "长相思罚站榜",
-      "onboard_time": 1690426471,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 774123,
-      "num": 428857,
+      "num": 438089,
       "word": "男子称女友出轨找准岳父退彩礼遇害",
       "onboard_time": 1690424254,
       "rank": 30,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 716042,
-      "num": 427290,
+      "num": 434110,
       "word": "杨幂跟素人合照",
       "onboard_time": 1690425695,
       "rank": 21,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503520,
+      "num": 503520,
+      "word": "王者荣耀",
+      "onboard_time": 1690426414,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 499397,
       "num": 499397,
       "word": "福原爱律师声明",
@@ -435,6 +451,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 440673,
+      "num": 440673,
+      "word": "我的人间烟火收官海报",
+      "onboard_time": 1690427615,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438191,
       "num": 380757,
       "word": "英少女遭哥哥性侵弃尸后再遭男子侵犯",
@@ -449,6 +473,14 @@
       "onboard_time": 1690376501,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 431178,
+      "num": 431178,
+      "word": "男子花15元中1296万当场捐8万8",
+      "onboard_time": 1690427734,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431093,
@@ -483,14 +515,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 401774,
-      "num": 401774,
-      "word": "王者荣耀",
-      "onboard_time": 1690426414,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 400682,
       "num": 400682,
       "word": "狗狗生病以为自己快不行了",
@@ -513,14 +537,6 @@
       "onboard_time": 1690419457,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 389349,
-      "num": 389349,
-      "word": "女儿捅死父亲情人被判13年",
-      "onboard_time": 1690427493,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388861,
@@ -552,6 +568,14 @@
       "word": "怒江百万网红蔡金发账号涉黄被封",
       "onboard_time": 1690370139,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377892,
+      "num": 395901,
+      "word": "猴痘防控方案印发",
+      "onboard_time": 1690425032,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -587,6 +611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323231,
+      "num": 323231,
+      "word": "杨紫檀健次合唱偏爱人间烟火",
+      "onboard_time": 1690428156,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 318619,
+      "num": 318619,
+      "word": "这就是灌篮5阵容官宣",
+      "onboard_time": 1690427074,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317986,
       "num": 317986,
       "word": "邓为男妲己",
@@ -601,14 +641,6 @@
       "onboard_time": 1690419634,
       "rank": 33,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 305991,
-      "num": 395901,
-      "word": "猴痘防控方案印发",
-      "onboard_time": 1690425032,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305534,
@@ -627,12 +659,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298528,
+      "num": 298528,
+      "word": "范丞丞隔空挖魏大勋鼻孔",
+      "onboard_time": 1690427315,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293974,
       "num": 293974,
       "word": "搂了半天发现搂错人了",
       "onboard_time": 1690380343,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 293007,
+      "num": 293007,
+      "word": "舌头的正确摆放位置",
+      "onboard_time": 1690428156,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 289544,
@@ -643,36 +691,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 288353,
-      "num": 288353,
-      "word": "我的人间烟火收官海报",
-      "onboard_time": 1690427615,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 287521,
       "num": 287521,
       "word": "莲花楼",
       "onboard_time": 1690421794,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284558,
-      "num": 284558,
-      "word": "男子花15元中1296万当场捐8万8",
-      "onboard_time": 1690427734,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278173,
-      "num": 278173,
-      "word": "范丞丞隔空挖魏大勋鼻孔",
-      "onboard_time": 1690427315,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 273847,
@@ -715,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250361,
+      "num": 250361,
+      "word": "恋综女嘉宾主打一个搞事业",
+      "onboard_time": 1690428272,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249126,
       "num": 249126,
       "word": "超导",
@@ -739,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230367,
+      "num": 230367,
+      "word": "独家童话今日开播",
+      "onboard_time": 1690426955,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230242,
       "num": 230242,
       "word": "相柳的九条命是如何没的",
@@ -752,6 +792,14 @@
       "word": "夭璟",
       "onboard_time": 1690383165,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224596,
+      "num": 224596,
+      "word": "小六主打一个嘴硬",
+      "onboard_time": 1690428754,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -795,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219377,
-      "num": 219377,
-      "word": "独家童话今日开播",
-      "onboard_time": 1690426955,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218952,
       "num": 218952,
       "word": "暑假工已经渗透到商家内部啦",
@@ -827,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207946,
+      "num": 207946,
+      "word": "六公主报道黄牛倒卖演唱会门票",
+      "onboard_time": 1690428816,
+      "rank": 48,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 205722,
       "num": 205722,
       "word": "封神",
@@ -836,10 +884,18 @@
     },
     {
       "raw_hot": 205557,
-      "num": 1105419,
+      "num": 1537304,
       "word": "英雄荣光",
       "onboard_time": 1690426955,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205335,
+      "num": 560315,
+      "word": "小米MIXFold3",
+      "onboard_time": 1690426834,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -857,14 +913,6 @@
       "onboard_time": 1690425154,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 201802,
-      "num": 201802,
-      "word": "这就是灌篮5阵容官宣",
-      "onboard_time": 1690427074,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 198598,
@@ -1009,14 +1057,6 @@
       "onboard_time": 1690413626,
       "rank": 41,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 119245,
-      "num": 560315,
-      "word": "小米MIXFold3",
-      "onboard_time": 1690426834,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117701,
