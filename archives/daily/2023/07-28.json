@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690496107939,
+  "endTime": 1690497223366,
   "band_list": [
     {
       "raw_hot": 5335890,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300300,
+      "num": 300300,
+      "word": "直播台风杜苏芮",
+      "onboard_time": 1690489874,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283747,
       "num": 262367,
       "word": "玱玹瞎了",
@@ -259,11 +267,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 274065,
-      "num": 274065,
-      "word": "直播台风杜苏芮",
-      "onboard_time": 1690489874,
-      "rank": 49,
+      "raw_hot": 265380,
+      "num": 265380,
+      "word": "杜苏芮再次升级为超强台风",
+      "onboard_time": 1690493112,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219468,
+      "num": 219468,
+      "word": "银行回应职工纵容17岁儿子虐猫",
+      "onboard_time": 1690483096,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208859,
       "num": 208859,
       "word": "王鹤棣范丞丞魏大勋白敬亭口罩自拍",
@@ -361,6 +377,14 @@
       "onboard_time": 1690476807,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188701,
+      "num": 188701,
+      "word": "浙江台风",
+      "onboard_time": 1690493833,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177726,
@@ -395,28 +419,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164329,
-      "num": 164329,
-      "word": "杜苏芮再次升级为超强台风",
-      "onboard_time": 1690493112,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164091,
       "num": 164091,
       "word": "内娱私服审美在线的明星",
       "onboard_time": 1690476984,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157122,
-      "num": 157122,
-      "word": "银行回应职工纵容17岁儿子虐猫",
-      "onboard_time": 1690483096,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156049,
@@ -451,12 +459,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 118353,
-      "num": 118353,
-      "word": "浙江台风",
-      "onboard_time": 1690493833,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 112979,
+      "num": 112979,
+      "word": "知乎网友着手复现韩国常温超导发现",
+      "onboard_time": 1690485554,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 103585,
+      "num": 103585,
+      "word": "相柳都开始偷家了",
+      "onboard_time": 1690480220,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 89302,
@@ -465,14 +481,6 @@
       "onboard_time": 1690477703,
       "rank": 45,
       "category": "体育,影视"
-    },
-    {
-      "raw_hot": 83086,
-      "num": 83086,
-      "word": "知乎网友着手复现韩国常温超导发现",
-      "onboard_time": 1690485554,
-      "rank": 49,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 79414,
@@ -491,19 +499,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 73459,
-      "num": 80407,
-      "word": "相柳都开始偷家了",
-      "onboard_time": 1690480220,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 65605,
-      "num": 65605,
+      "raw_hot": 66036,
+      "num": 66036,
       "word": "台风杜苏芮预计28日登陆",
       "onboard_time": 1690483034,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43780,
+      "num": 51047,
+      "word": "福建海浪打出西游记开场既视感",
+      "onboard_time": 1690482977,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -513,14 +521,6 @@
       "onboard_time": 1690464158,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32863,
-      "num": 37822,
-      "word": "福建海浪打出西游记开场既视感",
-      "onboard_time": 1690482977,
-      "rank": 45,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
