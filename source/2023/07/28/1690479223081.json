@@ -1,0 +1,410 @@
+{
+  "runTime": 1690479223081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1413266,
+        "num": 1413266,
+        "word": "杨洋 谢谢大家的包容与陪伴批评和建议",
+        "onboard_time": 1690466680,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1273934,
+        "num": 1273934,
+        "word": "杜苏芮路径",
+        "onboard_time": 1690454734,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29085,
+        "num": 1057307,
+        "word": "成都大运会开幕式官方主题曲来了",
+        "onboard_time": 1690464158,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 862992,
+        "num": 862992,
+        "word": "杜苏芮核心区 创纪录的狂风暴雨",
+        "onboard_time": 1690472800,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599820,
+        "num": 599820,
+        "word": "13岁女孩体内抽出2000毫升乳白色血",
+        "onboard_time": 1690464158,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530743,
+        "num": 530743,
+        "word": "王楚然 为给大家带来的困扰说一声抱歉",
+        "onboard_time": 1690463856,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428200,
+        "num": 428200,
+        "word": "除了杨紫都跟电脑都不太熟",
+        "onboard_time": 1690472199,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447935,
+        "num": 428177,
+        "word": "魏大勋 感谢喜爱孟宴臣的每一位朋友",
+        "onboard_time": 1690464034,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425228,
+        "num": 425228,
+        "word": "妈妈在 在中路了",
+        "onboard_time": 1690472857,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 395321,
+        "num": 395321,
+        "word": "TFBOYS十周年不应援了",
+        "onboard_time": 1690470283,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 377948,
+        "num": 377948,
+        "word": "杜苏芮将正面袭击福建",
+        "onboard_time": 1690474056,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370635,
+        "num": 370635,
+        "word": "厦门发布台风红色预警",
+        "onboard_time": 1690474772,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310213,
+        "num": 310213,
+        "word": "欧阳娜娜直播回应猫咪纹",
+        "onboard_time": 1690466318,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306016,
+        "num": 306016,
+        "word": "台风杜苏芮已致台湾一人死亡",
+        "onboard_time": 1690466860,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277629,
+        "num": 277629,
+        "word": "闽南人面对台风只剩嘴硬了",
+        "onboard_time": 1690473337,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265863,
+        "num": 265863,
+        "word": "长相思好虐",
+        "onboard_time": 1690462774,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242445,
+        "num": 242445,
+        "word": "中国气象局启动台风一级应急响应",
+        "onboard_time": 1690454497,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231642,
+        "num": 231642,
+        "word": "长相思",
+        "onboard_time": 1690460315,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213690,
+        "num": 213690,
+        "word": "杨洋白鹿或将合作与晋长安",
+        "onboard_time": 1690470461,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194688,
+        "num": 194688,
+        "word": "孟宴臣朋友叫孟母付阿姨",
+        "onboard_time": 1690470346,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378689,
+        "num": 194019,
+        "word": "微信一个手机可以两个账号了",
+        "onboard_time": 1690467037,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192911,
+        "num": 192911,
+        "word": "提离职五次了一直不让人走",
+        "onboard_time": 1690467277,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183327,
+        "num": 183327,
+        "word": "紫为星",
+        "onboard_time": 1690477284,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180824,
+        "num": 180824,
+        "word": "黄晓明去油成功",
+        "onboard_time": 1690461575,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179382,
+        "num": 179382,
+        "word": "国外很贵但国内却便宜的东西",
+        "onboard_time": 1690451974,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164091,
+        "num": 164091,
+        "word": "内娱私服审美在线的明星",
+        "onboard_time": 1690476984,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135842,
+        "num": 135842,
+        "word": "医学生称给细菌战受害者清创时想流泪",
+        "onboard_time": 1690467941,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131886,
+        "num": 131886,
+        "word": "再也不怕刷身份证时尴尬了",
+        "onboard_time": 1690466076,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131858,
+        "num": 131858,
+        "word": "长相思新浪扫楼",
+        "onboard_time": 1690447655,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131005,
+        "num": 131005,
+        "word": "刀郎罗刹海市",
+        "onboard_time": 1690465118,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117221,
+        "num": 117221,
+        "word": "猫咪纹",
+        "onboard_time": 1690468789,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110352,
+        "num": 110352,
+        "word": "考上研究生得让每个生物都知道",
+        "onboard_time": 1690469150,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107300,
+        "num": 107300,
+        "word": "姬发",
+        "onboard_time": 1690470707,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104304,
+        "num": 104304,
+        "word": "超强台风莫兰蒂来袭时的厦门",
+        "onboard_time": 1690468911,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101491,
+        "num": 101491,
+        "word": "魏大勋合影时蹲下",
+        "onboard_time": 1690469325,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99791,
+        "num": 99791,
+        "word": "欧阳娜娜的腮红",
+        "onboard_time": 1690473576,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99582,
+        "num": 99582,
+        "word": "王鹤棣范丞丞魏大勋白敬亭口罩自拍",
+        "onboard_time": 1690462354,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85655,
+        "num": 99581,
+        "word": "易烊千玺正面照在哪里",
+        "onboard_time": 1690471962,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84814,
+        "num": 99577,
+        "word": "台湾台风",
+        "onboard_time": 1690469568,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84681,
+        "num": 99572,
+        "word": "有猫流出来了",
+        "onboard_time": 1690471480,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81915,
+        "num": 99571,
+        "word": "韩国一父亲猛抽校园霸凌者100多个耳光",
+        "onboard_time": 1690448557,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81529,
+        "num": 99565,
+        "word": "封神",
+        "onboard_time": 1690468670,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79408,
+        "num": 99562,
+        "word": "举报涂磊女子所属村干部发声",
+        "onboard_time": 1690443872,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 73988,
+        "num": 99559,
+        "word": "赵今麦妆造",
+        "onboard_time": 1690461095,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68880,
+        "num": 99555,
+        "word": "坐出租车被记了一次警告",
+        "onboard_time": 1690469215,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66246,
+        "num": 99552,
+        "word": "李莲花开大了",
+        "onboard_time": 1690468062,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65922,
+        "num": 99551,
+        "word": "台风来袭市民把凉亭拴水泥柱上",
+        "onboard_time": 1690466740,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62050,
+        "num": 99547,
+        "word": "亚运主题电影热烈",
+        "onboard_time": 1690477703,
+        "rank": 47,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 60775,
+        "num": 99545,
+        "word": "黄晓明别奖励自己",
+        "onboard_time": 1690471002,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56323,
+        "num": 99540,
+        "word": "上班绝对不穿喜欢的衣服",
+        "onboard_time": 1690452098,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春主场#"
+    }
+  }
+}

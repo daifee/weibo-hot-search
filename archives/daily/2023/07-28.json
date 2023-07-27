@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690478081044,
+  "endTime": 1690479223081,
   "band_list": [
     {
       "raw_hot": 5335890,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 398645,
-      "num": 264089,
+      "num": 370635,
       "word": "厦门发布台风红色预警",
       "onboard_time": 1690474772,
       "rank": 37,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183327,
+      "num": 183327,
+      "word": "紫为星",
+      "onboard_time": 1690477284,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177726,
       "num": 199703,
       "word": "台风来袭市民把凉亭拴水泥柱上",
@@ -377,6 +385,14 @@
       "onboard_time": 1690452098,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164091,
+      "num": 164091,
+      "word": "内娱私服审美在线的明星",
+      "onboard_time": 1690476984,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 156049,
@@ -411,20 +427,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 146221,
-      "num": 146221,
-      "word": "内娱私服审美在线的明星",
-      "onboard_time": 1690476984,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89302,
       "num": 106967,
       "word": "亚运主题电影热烈",
       "onboard_time": 1690477703,
       "rank": 45,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 73988,
+      "num": 99559,
+      "word": "赵今麦妆造",
+      "onboard_time": 1690461095,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34918,
