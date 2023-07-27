@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690499771500,
+  "endTime": 1690500818018,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -113,6 +113,14 @@
       "onboard_time": 1690379978,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3534696,
+      "num": 3534696,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3477814,
@@ -289,14 +297,6 @@
       "onboard_time": 1690328068,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2362156,
-      "num": 2362156,
-      "word": "杜苏芮路径",
-      "onboard_time": 1690454734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2352046,
@@ -1587,6 +1587,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1023764,
+      "num": 1023764,
+      "word": "卡努",
+      "onboard_time": 1690499424,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021612,
       "num": 1021612,
       "word": "杜海涛眼里的沈梦辰",
@@ -1873,6 +1881,14 @@
       "onboard_time": 1690426471,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 910820,
+      "num": 495122,
+      "word": "厦门",
+      "onboard_time": 1690432481,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 910618,
@@ -2240,6 +2256,14 @@
       "word": "台风杜苏芮",
       "onboard_time": 1690158454,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803455,
+      "num": 505909,
+      "word": "女生记录男友一周接她下班表情变化",
+      "onboard_time": 1690499003,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3363,20 +3387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 605096,
+      "num": 605096,
+      "word": "银行回应职工纵容17岁儿子虐猫",
+      "onboard_time": 1690483096,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603944,
       "num": 603944,
       "word": "台风或正面袭击厦门市民不要出门",
       "onboard_time": 1690436497,
       "rank": 22,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 602257,
-      "num": 602257,
-      "word": "卡努",
-      "onboard_time": 1690499424,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601963,
@@ -4179,14 +4203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495122,
-      "num": 495122,
-      "word": "厦门",
-      "onboard_time": 1690432481,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 493689,
       "num": 493689,
       "word": "我的人间烟火收官海报",
@@ -4249,14 +4265,6 @@
       "onboard_time": 1690416994,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 485135,
-      "num": 485135,
-      "word": "银行回应职工纵容17岁儿子虐猫",
-      "onboard_time": 1690483096,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485005,
@@ -5747,6 +5755,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 356774,
+      "num": 356774,
+      "word": "泉州",
+      "onboard_time": 1690500207,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356527,
       "num": 366755,
       "word": "爸妈没给的我也没给",
@@ -7067,14 +7083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273515,
-      "num": 273515,
-      "word": "女生记录男友一周接她下班表情变化",
-      "onboard_time": 1690499003,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272757,
       "num": 272757,
       "word": "全员加速中",
@@ -7505,6 +7513,14 @@
       "onboard_time": 1690348239,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246552,
+      "num": 246552,
+      "word": "相柳都开始偷家了",
+      "onboard_time": 1690480220,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 246324,
@@ -8233,14 +8249,6 @@
       "onboard_time": 1690215153,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 207649,
-      "num": 207649,
-      "word": "相柳都开始偷家了",
-      "onboard_time": 1690480220,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 207080,
@@ -9187,6 +9195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172093,
+      "num": 172093,
+      "word": "张晚意说玱玹最后孤寡一生",
+      "onboard_time": 1690497439,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171922,
       "num": 195257,
       "word": "周一哪有不疯的人",
@@ -9233,6 +9249,14 @@
       "onboard_time": 1690289500,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168057,
+      "num": 168057,
+      "word": "几天不出门在杭州过马路都这样了",
+      "onboard_time": 1690499003,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167932,
@@ -9451,12 +9475,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144559,
-      "num": 144559,
-      "word": "张晚意说玱玹最后孤寡一生",
-      "onboard_time": 1690497439,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 144516,
+      "num": 144516,
+      "word": "唐山大地震47周年祭",
+      "onboard_time": 1690500507,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142298,
@@ -9691,6 +9715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110181,
+      "num": 110181,
+      "word": "台风杜苏芮预计28日登陆",
+      "onboard_time": 1690483034,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108190,
       "num": 108190,
       "word": "王鹤棣海边探戈",
@@ -9739,14 +9771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98770,
-      "num": 98770,
-      "word": "几天不出门在杭州过马路都这样了",
-      "onboard_time": 1690499003,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97832,
       "num": 335505,
       "word": "慕思是懂治愈的",
@@ -9793,14 +9817,6 @@
       "onboard_time": 1690306700,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91176,
-      "num": 91176,
-      "word": "台风杜苏芮预计28日登陆",
-      "onboard_time": 1690483034,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89302,
@@ -9955,6 +9971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 61630,
+      "num": 1635431,
+      "word": "成都大运会开幕式官方主题曲来了",
+      "onboard_time": 1690464158,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61438,
       "num": 427128,
       "word": "AI烈儿亮相淘宝直播间",
@@ -10009,14 +10033,6 @@
       "onboard_time": 1690197334,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45794,
-      "num": 1635431,
-      "word": "成都大运会开幕式官方主题曲来了",
-      "onboard_time": 1690464158,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 43878,
