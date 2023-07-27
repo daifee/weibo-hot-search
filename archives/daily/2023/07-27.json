@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690428852137,
+  "endTime": 1690431565421,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -75,12 +75,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1787846,
+      "num": 1787846,
+      "word": "成都17岁虐猫男生",
+      "onboard_time": 1690429357,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1695142,
       "num": 937048,
       "word": "性同意没有模糊的界限",
       "onboard_time": 1690385439,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1679289,
+      "num": 1679289,
+      "word": "六公主报道黄牛倒卖演唱会门票",
+      "onboard_time": 1690428816,
+      "rank": 48,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1662870,
@@ -97,6 +113,14 @@
       "onboard_time": 1690427133,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1612918,
+      "num": 483422,
+      "word": "女儿捅死父亲情人被判13年",
+      "onboard_time": 1690427493,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1470237,
@@ -123,12 +147,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1068893,
-      "num": 439052,
-      "word": "女儿捅死父亲情人被判13年",
-      "onboard_time": 1690427493,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 1238104,
+      "num": 1238104,
+      "word": "杨紫评论张晚意",
+      "onboard_time": 1690428873,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1019219,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586831,
+      "num": 369337,
+      "word": "学信网显示结业女子错失高薪工作起诉学校",
+      "onboard_time": 1690430738,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 569224,
       "num": 569224,
       "word": "没想到小鸟的肚子长这样",
@@ -363,6 +395,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541187,
+      "num": 478722,
+      "word": "恋综女嘉宾主打一个搞事业",
+      "onboard_time": 1690428272,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 530893,
+      "num": 530893,
+      "word": "杨紫檀健次合唱偏爱人间烟火",
+      "onboard_time": 1690428156,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 528716,
+      "num": 476079,
+      "word": "杨洋天台情绪大片",
+      "onboard_time": 1690429779,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 514654,
+      "num": 514654,
+      "word": "王者荣耀",
+      "onboard_time": 1690426414,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 513268,
       "num": 513268,
       "word": "大左去看望金韩一父母",
@@ -371,20 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503520,
-      "num": 503520,
-      "word": "王者荣耀",
-      "onboard_time": 1690426414,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 499397,
       "num": 499397,
       "word": "福原爱律师声明",
       "onboard_time": 1690421134,
       "rank": 19,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 493689,
+      "num": 493689,
+      "word": "我的人间烟火收官海报",
+      "onboard_time": 1690427615,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 486017,
@@ -409,6 +473,14 @@
       "onboard_time": 1690397775,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 474445,
+      "num": 474445,
+      "word": "这个班没了她迟早要垮",
+      "onboard_time": 1690429957,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 474245,
@@ -443,20 +515,20 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 458655,
+      "num": 458655,
+      "word": "舌头的正确摆放位置",
+      "onboard_time": 1690428156,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 446680,
       "num": 446680,
       "word": "歌手希妮德奥康娜去世",
       "onboard_time": 1690419634,
       "rank": 26,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 440673,
-      "num": 440673,
-      "word": "我的人间烟火收官海报",
-      "onboard_time": 1690427615,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 438191,
@@ -523,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 394539,
+      "num": 394539,
+      "word": "迪丽热巴曾在西藏保护过雪豹",
+      "onboard_time": 1690430738,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394161,
       "num": 380821,
       "word": "长相思榜单全面登顶",
@@ -537,6 +617,14 @@
       "onboard_time": 1690419457,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389770,
+      "num": 389770,
+      "word": "女生读研半年胖到180斤为减肥退学",
+      "onboard_time": 1690431037,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 388861,
@@ -603,20 +691,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347652,
+      "num": 347652,
+      "word": "小六主打一个嘴硬",
+      "onboard_time": 1690428754,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335602,
-      "num": 335602,
+      "num": 369703,
       "word": "福建广东或遭遇超强台风",
       "onboard_time": 1690416455,
       "rank": 29,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323231,
-      "num": 323231,
-      "word": "杨紫檀健次合唱偏爱人间烟火",
-      "onboard_time": 1690428156,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 329333,
+      "num": 329333,
+      "word": "女子遭电诈反赚骗子5万上交警方",
+      "onboard_time": 1690429898,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318619,
@@ -635,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316576,
+      "num": 316576,
+      "word": "深圳一地黄金1克便宜100多卖脱销",
+      "onboard_time": 1690431277,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 315575,
       "num": 315575,
       "word": "相柳番外",
@@ -649,6 +753,14 @@
       "onboard_time": 1690420832,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305020,
+      "num": 305020,
+      "word": "阿森纳 友谊赛不友谊",
+      "onboard_time": 1690430978,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 302791,
@@ -673,14 +785,6 @@
       "onboard_time": 1690380343,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293007,
-      "num": 293007,
-      "word": "舌头的正确摆放位置",
-      "onboard_time": 1690428156,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 289544,
@@ -723,6 +827,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 268601,
+      "num": 268601,
+      "word": "藏海戏麟",
+      "onboard_time": 1690431399,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267198,
       "num": 267198,
       "word": "许沁脖子不酸吗",
@@ -737,14 +849,6 @@
       "onboard_time": 1690412722,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250361,
-      "num": 250361,
-      "word": "恋综女嘉宾主打一个搞事业",
-      "onboard_time": 1690428272,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 249126,
@@ -771,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231392,
+      "num": 231392,
+      "word": "巨齿鲨2水下戏有多难拍",
+      "onboard_time": 1690429115,
+      "rank": 49,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 230367,
       "num": 230367,
       "word": "独家童话今日开播",
@@ -795,12 +907,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224596,
-      "num": 224596,
-      "word": "小六主打一个嘴硬",
-      "onboard_time": 1690428754,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 227523,
+      "num": 251532,
+      "word": "飞猪机票捡漏",
+      "onboard_time": 1690429657,
+      "rank": 46,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 224421,
@@ -865,14 +977,6 @@
       "onboard_time": 1690391722,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207946,
-      "num": 207946,
-      "word": "六公主报道黄牛倒卖演唱会门票",
-      "onboard_time": 1690428816,
-      "rank": 48,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 205722,
