@@ -1,0 +1,410 @@
+{
+  "runTime": 1690450432217,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1800843,
+        "num": 1800843,
+        "word": "举报涂磊女子所属村干部发声",
+        "onboard_time": 1690443872,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1512168,
+        "num": 1512168,
+        "word": "长相思新浪扫楼",
+        "onboard_time": 1690447655,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88295,
+        "num": 1352715,
+        "word": "台风灾害防范小贴士",
+        "onboard_time": 1690444595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1544177,
+        "num": 1327636,
+        "word": "韩国一父亲猛抽校园霸凌者100多个耳光",
+        "onboard_time": 1690448557,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223340,
+        "num": 1223340,
+        "word": "江宏杰宣布告赢福原爱",
+        "onboard_time": 1690440692,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1037311,
+        "num": 1037311,
+        "word": "花花和谭爷爷惊喜出镜",
+        "onboard_time": 1690439432,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005916,
+        "num": 1005916,
+        "word": "小夭涂山璟亲嘴了",
+        "onboard_time": 1690444831,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 897082,
+        "num": 897082,
+        "word": "迪丽热巴说自己有双下巴",
+        "onboard_time": 1690446994,
+        "rank": 7,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 891103,
+        "num": 891103,
+        "word": "民政部回应结婚必须提供户口簿",
+        "onboard_time": 1690447234,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817842,
+        "num": 817842,
+        "word": "长相思见面会",
+        "onboard_time": 1690436016,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1711211,
+        "num": 816950,
+        "word": "TFBOYS三人三地",
+        "onboard_time": 1690445374,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687139,
+        "num": 687139,
+        "word": "东方甄选直播间被关",
+        "onboard_time": 1690444232,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 687070,
+        "num": 687070,
+        "word": "邓为早期 潮到风湿",
+        "onboard_time": 1690443692,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540863,
+        "num": 540863,
+        "word": "安徽亳州一对男女被人按着头拜堂",
+        "onboard_time": 1690446214,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526361,
+        "num": 526361,
+        "word": "厦门7月27日15时起三停一休",
+        "onboard_time": 1690432901,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460916,
+        "num": 460916,
+        "word": "台风或正面袭击厦门市民不要出门",
+        "onboard_time": 1690436497,
+        "rank": 15,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 454070,
+        "num": 454070,
+        "word": "成年人的崩溃是从搬家开始的",
+        "onboard_time": 1690448975,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414406,
+        "num": 414406,
+        "word": "女子半个月用电1500度质疑房东改电表",
+        "onboard_time": 1690449398,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388015,
+        "num": 388015,
+        "word": "台风杜苏芮路径拐了个直角",
+        "onboard_time": 1690417415,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381863,
+        "num": 381863,
+        "word": "小六一眼认出玱玹",
+        "onboard_time": 1690444831,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1546552,
+        "num": 380973,
+        "word": "港媒曝李玟百件礼服被其老公截留",
+        "onboard_time": 1690445974,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667872,
+        "num": 379851,
+        "word": "二胎妈妈两次宫外孕第三次双胚一个又在宫外",
+        "onboard_time": 1690448674,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474175,
+        "num": 379133,
+        "word": "韩国一男子因身高自卑随机杀人",
+        "onboard_time": 1690435834,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413212,
+        "num": 377971,
+        "word": "莲花楼央八定档",
+        "onboard_time": 1690446815,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403732,
+        "num": 376508,
+        "word": "顾客称住亚朵酒店发现水壶里有内裤",
+        "onboard_time": 1690444354,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375759,
+        "num": 375759,
+        "word": "邓为看杨紫的眼神",
+        "onboard_time": 1690445914,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378692,
+        "num": 375016,
+        "word": "1岁女宝顶了张小新脸",
+        "onboard_time": 1690446094,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371491,
+        "num": 371491,
+        "word": "澳11岁女孩拥有百万资产打算12岁退休",
+        "onboard_time": 1690445256,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370666,
+        "num": 370666,
+        "word": "厦门",
+        "onboard_time": 1690432481,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327812,
+        "num": 327812,
+        "word": "鹿晗有在努力抵制黄牛",
+        "onboard_time": 1690449874,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312458,
+        "num": 312458,
+        "word": "那英 声替",
+        "onboard_time": 1690433861,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 293605,
+        "num": 293605,
+        "word": "女儿捅死父亲情人被判13年",
+        "onboard_time": 1690427493,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257155,
+        "num": 257155,
+        "word": "苏明成 宋焰许沁",
+        "onboard_time": 1690450057,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242496,
+        "num": 242496,
+        "word": "台风路径",
+        "onboard_time": 1690415731,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240632,
+        "num": 240632,
+        "word": "李玟丧礼遗照曝光",
+        "onboard_time": 1690427133,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234807,
+        "num": 234807,
+        "word": "湖南震感",
+        "onboard_time": 1690443572,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223135,
+        "num": 223135,
+        "word": "俄共建议把二战爆发时间改成1937年7月7日",
+        "onboard_time": 1690437155,
+        "rank": 36,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 208396,
+        "num": 208396,
+        "word": "学信网显示结业女子错失高薪工作起诉学校",
+        "onboard_time": 1690430738,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 207722,
+        "num": 207722,
+        "word": "杜海涛眼里的沈梦辰",
+        "onboard_time": 1690436738,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202516,
+        "num": 202516,
+        "word": "小象一路追着卡车求助",
+        "onboard_time": 1690450177,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200036,
+        "num": 200036,
+        "word": "敖子逸给蒋依依道歉",
+        "onboard_time": 1690436257,
+        "rank": 40,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 194591,
+        "num": 194591,
+        "word": "热烈剧组骑行宣传热烈",
+        "onboard_time": 1690449217,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192822,
+        "num": 192822,
+        "word": "5名80后操纵115个账户亏掉3.04亿",
+        "onboard_time": 1690439553,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 169391,
+        "num": 192708,
+        "word": "高考后驾校教练拉了一车学霸",
+        "onboard_time": 1690440814,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164000,
+        "num": 192296,
+        "word": "别催单你的外卖小哥可能正在灭火",
+        "onboard_time": 1690448736,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156743,
+        "num": 192018,
+        "word": "杨洋天台情绪大片",
+        "onboard_time": 1690429779,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153125,
+        "num": 191611,
+        "word": "凌晨一点听到爸爸在客厅抽泣",
+        "onboard_time": 1690440935,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145205,
+        "num": 191150,
+        "word": "当代打工人的发泄方式",
+        "onboard_time": 1690447957,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142221,
+        "num": 191049,
+        "word": "小红书闪退",
+        "onboard_time": 1690435776,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132059,
+        "num": 190577,
+        "word": "可口可乐将继续提价",
+        "onboard_time": 1690438113,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念抗美援朝胜利70周年#"
+    }
+  }
+}
