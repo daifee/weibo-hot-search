@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690482047150,
+  "endTime": 1690482849900,
   "band_list": [
     {
       "raw_hot": 5335890,
@@ -291,19 +291,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 237543,
+      "num": 237543,
+      "word": "紫为星",
+      "onboard_time": 1690477284,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236377,
       "num": 236377,
       "word": "长相思新浪扫楼",
       "onboard_time": 1690447655,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 233925,
-      "num": 233925,
-      "word": "紫为星",
-      "onboard_time": 1690477284,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -435,6 +435,14 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 79414,
+      "num": 79414,
+      "word": "常温超导",
+      "onboard_time": 1690480758,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 73988,
       "num": 99559,
       "word": "赵今麦妆造",
@@ -443,12 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 66482,
-      "num": 66482,
-      "word": "常温超导",
-      "onboard_time": 1690480758,
-      "rank": 33,
-      "category": "科技"
+      "raw_hot": 72557,
+      "num": 75740,
+      "word": "相柳都开始偷家了",
+      "onboard_time": 1690480220,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 34918,
@@ -462,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#青春主场#"
+    },
+    {
+      "word": "#习近平将出席开幕式并宣布大运会开幕#"
     }
   ]
 }

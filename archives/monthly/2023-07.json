@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690482047150,
+  "endTime": 1690482849900,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -48563,6 +48563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237543,
+      "num": 237543,
+      "word": "紫为星",
+      "onboard_time": 1690477284,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237503,
       "num": 237503,
       "word": "被亲戚要求给他的孩子补课",
@@ -49057,14 +49065,6 @@
       "onboard_time": 1688301339,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233925,
-      "num": 233925,
-      "word": "紫为星",
-      "onboard_time": 1690477284,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 233891,
@@ -63899,6 +63899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79414,
+      "num": 79414,
+      "word": "常温超导",
+      "onboard_time": 1690480758,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 79133,
       "num": 79133,
       "word": "这个房子设计好适合好朋友一起住",
@@ -64073,6 +64081,14 @@
       "onboard_time": 1688680216,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 72557,
+      "num": 75740,
+      "word": "相柳都开始偷家了",
+      "onboard_time": 1690480220,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 71492,
@@ -64265,14 +64281,6 @@
       "onboard_time": 1689195852,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66482,
-      "num": 66482,
-      "word": "常温超导",
-      "onboard_time": 1690480758,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 65698,
