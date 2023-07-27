@@ -1,6 +1,6 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690425487104,
+  "endTime": 1690427807301,
   "band_list": [
     {
       "raw_hot": 5121110,
@@ -11,8 +11,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2952921,
-      "num": 2952921,
+      "raw_hot": 3477814,
+      "num": 3477814,
       "word": "涂磊报警",
       "onboard_time": 1690424074,
       "rank": 1,
@@ -51,7 +51,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2097712,
+      "raw_hot": 2123509,
       "num": 691819,
       "word": "向佐 其实我天天都回家",
       "onboard_time": 1690423892,
@@ -139,6 +139,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 958335,
+      "num": 958335,
+      "word": "台风杜苏芮路径拐了个直角",
+      "onboard_time": 1690417415,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946533,
       "num": 708290,
       "word": "Angelababy不想承认这是自己",
@@ -152,14 +160,6 @@
       "word": "空调安装人员疑操作不当致买家触电身亡",
       "onboard_time": 1690420954,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 909479,
-      "num": 909479,
-      "word": "台风杜苏芮路径拐了个直角",
-      "onboard_time": 1690417415,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -187,6 +187,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796606,
+      "num": 562406,
+      "word": "李玟丧礼遗照曝光",
+      "onboard_time": 1690427133,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 788904,
+      "num": 788904,
+      "word": "长相思罚站榜",
+      "onboard_time": 1690426471,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 774123,
+      "num": 428857,
+      "word": "男子称女友出轨找准岳父退彩礼遇害",
+      "onboard_time": 1690424254,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754521,
       "num": 556473,
       "word": "江宏杰将召开记者会控诉福原爱",
@@ -203,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716042,
+      "num": 427290,
+      "word": "杨幂跟素人合照",
+      "onboard_time": 1690425695,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 714447,
       "num": 714447,
       "word": "谢楠说吴所谓是王一博的铁粉",
       "onboard_time": 1690416271,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 713838,
-      "num": 413475,
-      "word": "男子称女友出轨找准岳父退彩礼遇害",
-      "onboard_time": 1690424254,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711766,
@@ -307,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 562355,
+      "num": 562355,
+      "word": "业内称大鹏是中国路演第一人",
+      "onboard_time": 1690422574,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 544020,
       "num": 544020,
       "word": "刀郎诉降央卓玛侵权西海情歌获赔7万",
@@ -321,6 +353,14 @@
       "onboard_time": 1690384602,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 513268,
+      "num": 513268,
+      "word": "大左去看望金韩一父母",
+      "onboard_time": 1690424194,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 499397,
@@ -363,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 473755,
+      "num": 423771,
+      "word": "邓为出道前风格",
+      "onboard_time": 1690423954,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 469741,
       "num": 469741,
       "word": "长相思",
@@ -377,14 +425,6 @@
       "onboard_time": 1690413022,
       "rank": 23,
       "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 457448,
-      "num": 457448,
-      "word": "大左去看望金韩一父母",
-      "onboard_time": 1690424194,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 446680,
@@ -411,12 +451,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 423373,
-      "num": 395563,
-      "word": "邓为出道前风格",
-      "onboard_time": 1690423954,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 431093,
+      "num": 431093,
+      "word": "美依礼芽会点英语但不多",
+      "onboard_time": 1690425270,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 421848,
+      "num": 421848,
+      "word": "汪苏泷广州演唱会",
+      "onboard_time": 1690426471,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 413626,
@@ -427,6 +475,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413285,
+      "num": 413285,
+      "word": "她在大热天撒了个温暖的谎",
+      "onboard_time": 1690426232,
+      "rank": 25,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 401774,
+      "num": 401774,
+      "word": "王者荣耀",
+      "onboard_time": 1690426414,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 400682,
+      "num": 400682,
+      "word": "狗狗生病以为自己快不行了",
+      "onboard_time": 1690424134,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 394161,
       "num": 380821,
       "word": "长相思榜单全面登顶",
@@ -435,20 +507,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 393834,
-      "num": 393834,
-      "word": "狗狗生病以为自己快不行了",
-      "onboard_time": 1690424134,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 390892,
       "num": 390892,
       "word": "泰国恐怖片依旧能打",
       "onboard_time": 1690419457,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389349,
+      "num": 389349,
+      "word": "女儿捅死父亲情人被判13年",
+      "onboard_time": 1690427493,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388861,
+      "num": 388861,
+      "word": "魏大勋跳wave",
+      "onboard_time": 1690425456,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 381359,
@@ -491,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355303,
-      "num": 355303,
-      "word": "业内称大鹏是中国路演第一人",
-      "onboard_time": 1690422574,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354577,
       "num": 354577,
       "word": "孟宴臣爽文结局 命运的齿轮就该这样转",
@@ -529,6 +601,14 @@
       "onboard_time": 1690419634,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 305991,
+      "num": 395901,
+      "word": "猴痘防控方案印发",
+      "onboard_time": 1690425032,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305534,
@@ -563,12 +643,36 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 288353,
+      "num": 288353,
+      "word": "我的人间烟火收官海报",
+      "onboard_time": 1690427615,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287521,
       "num": 287521,
       "word": "莲花楼",
       "onboard_time": 1690421794,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284558,
+      "num": 284558,
+      "word": "男子花15元中1296万当场捐8万8",
+      "onboard_time": 1690427734,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278173,
+      "num": 278173,
+      "word": "范丞丞隔空挖魏大勋鼻孔",
+      "onboard_time": 1690427315,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 273847,
@@ -691,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219377,
+      "num": 219377,
+      "word": "独家童话今日开播",
+      "onboard_time": 1690426955,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218952,
       "num": 218952,
       "word": "暑假工已经渗透到商家内部啦",
@@ -705,22 +817,6 @@
       "onboard_time": 1690417834,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216500,
-      "num": 216500,
-      "word": "猴痘防控方案印发",
-      "onboard_time": 1690425032,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211127,
-      "num": 211127,
-      "word": "美依礼芽会点英语但不多",
-      "onboard_time": 1690425270,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 208323,
@@ -739,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205557,
+      "num": 1105419,
+      "word": "英雄荣光",
+      "onboard_time": 1690426955,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205102,
       "num": 205102,
       "word": "皇马vs曼联",
@@ -753,6 +857,14 @@
       "onboard_time": 1690425154,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 201802,
+      "num": 201802,
+      "word": "这就是灌篮5阵容官宣",
+      "onboard_time": 1690427074,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 198598,
@@ -867,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165086,
-      "num": 165086,
-      "word": "魏大勋跳wave",
-      "onboard_time": 1690425456,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142298,
       "num": 142298,
       "word": "微笑天使萨摩耶狗设崩塌现场",
@@ -905,6 +1009,14 @@
       "onboard_time": 1690413626,
       "rank": 41,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 119245,
+      "num": 560315,
+      "word": "小米MIXFold3",
+      "onboard_time": 1690426834,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117701,

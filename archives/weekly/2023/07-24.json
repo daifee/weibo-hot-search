@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690425487104,
+  "endTime": 1690427807301,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3477814,
+      "num": 3477814,
+      "word": "涂磊报警",
+      "onboard_time": 1690424074,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3377134,
       "num": 3377134,
       "word": "齐齐哈尔34中体育馆坍塌11人死亡",
@@ -137,14 +145,6 @@
       "onboard_time": 1690201291,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2952921,
-      "num": 2952921,
-      "word": "涂磊报警",
-      "onboard_time": 1690424074,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2918563,
@@ -315,19 +315,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2123509,
+      "num": 691819,
+      "word": "向佐 其实我天天都回家",
+      "onboard_time": 1690423892,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2112224,
       "num": 538939,
       "word": "刘珂 赵丽颖",
       "onboard_time": 1690281218,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2097712,
-      "num": 691819,
-      "word": "向佐 其实我天天都回家",
-      "onboard_time": 1690423892,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1387,6 +1387,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 958335,
+      "num": 958335,
+      "word": "台风杜苏芮路径拐了个直角",
+      "onboard_time": 1690417415,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 955509,
       "num": 955509,
       "word": "家长质疑孩子被送医院5小时无人出面沟通",
@@ -1488,14 +1496,6 @@
       "word": "五个显眼包灵隐寺淋雨合照",
       "onboard_time": 1690173763,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 909479,
-      "num": 909479,
-      "word": "台风杜苏芮路径拐了个直角",
-      "onboard_time": 1690417415,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1811,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 796606,
+      "num": 562406,
+      "word": "李玟丧礼遗照曝光",
+      "onboard_time": 1690427133,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794805,
       "num": 408313,
       "word": "韩国人为什么这么爱去张家界",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1690285243,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 788904,
+      "num": 788904,
+      "word": "长相思罚站榜",
+      "onboard_time": 1690426471,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 786453,
@@ -1889,6 +1905,14 @@
       "onboard_time": 1690286979,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 774123,
+      "num": 428857,
+      "word": "男子称女友出轨找准岳父退彩礼遇害",
+      "onboard_time": 1690424254,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 772427,
@@ -2131,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 716042,
+      "num": 427290,
+      "word": "杨幂跟素人合照",
+      "onboard_time": 1690425695,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 714718,
       "num": 714718,
       "word": "3D还原齐齐哈尔体育馆坍塌过程",
@@ -2145,14 +2177,6 @@
       "onboard_time": 1690416271,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 713838,
-      "num": 413475,
-      "word": "男子称女友出轨找准岳父退彩礼遇害",
-      "onboard_time": 1690424254,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 713166,
@@ -2931,6 +2955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 562355,
+      "num": 562355,
+      "word": "业内称大鹏是中国路演第一人",
+      "onboard_time": 1690422574,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 562215,
       "num": 364186,
       "word": "搂了半天发现搂错人了",
@@ -3185,6 +3217,14 @@
       "onboard_time": 1690262329,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 513268,
+      "num": 513268,
+      "word": "大左去看望金韩一父母",
+      "onboard_time": 1690424194,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 512401,
@@ -3451,6 +3491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473755,
+      "num": 423771,
+      "word": "邓为出道前风格",
+      "onboard_time": 1690423954,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 472361,
       "num": 437938,
       "word": "大宋少年志",
@@ -3601,14 +3649,6 @@
       "onboard_time": 1690283320,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 457448,
-      "num": 457448,
-      "word": "大左去看望金韩一父母",
-      "onboard_time": 1690424194,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 457268,
@@ -3875,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431093,
+      "num": 431093,
+      "word": "美依礼芽会点英语但不多",
+      "onboard_time": 1690425270,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430747,
       "num": 274948,
       "word": "女子坐地铁被安检告知榴莲有5房肉",
@@ -3939,12 +3987,12 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 423373,
-      "num": 395563,
-      "word": "邓为出道前风格",
-      "onboard_time": 1690423954,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 421848,
+      "num": 421848,
+      "word": "汪苏泷广州演唱会",
+      "onboard_time": 1690426471,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 421789,
@@ -4027,6 +4075,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 413285,
+      "num": 413285,
+      "word": "她在大热天撒了个温暖的谎",
+      "onboard_time": 1690426232,
+      "rank": 25,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 411998,
       "num": 411998,
       "word": "TFBOYS最好的那年现在听真的好像告别",
@@ -4107,6 +4163,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401774,
+      "num": 401774,
+      "word": "王者荣耀",
+      "onboard_time": 1690266521,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 400682,
+      "num": 400682,
+      "word": "狗狗生病以为自己快不行了",
+      "onboard_time": 1690424134,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 400145,
       "num": 877831,
       "word": "男孩看到妈妈剖腹产疤痕心疼说原谅我",
@@ -4179,14 +4251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393834,
-      "num": 393834,
-      "word": "狗狗生病以为自己快不行了",
-      "onboard_time": 1690424134,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 392024,
       "num": 287805,
       "word": "官方通报男子光屁股大街上被拖行",
@@ -4209,6 +4273,22 @@
       "onboard_time": 1690173522,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389349,
+      "num": 389349,
+      "word": "女儿捅死父亲情人被判13年",
+      "onboard_time": 1690427493,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388861,
+      "num": 388861,
+      "word": "魏大勋跳wave",
+      "onboard_time": 1690425456,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 388582,
@@ -4379,14 +4459,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 369007,
-      "num": 369007,
-      "word": "王者荣耀",
-      "onboard_time": 1690266521,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 368783,
       "num": 357690,
       "word": "当我用对待女朋友的方式对待我妈",
@@ -4528,14 +4600,6 @@
       "word": "夭璟",
       "onboard_time": 1690383165,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 355303,
-      "num": 355303,
-      "word": "业内称大鹏是中国路演第一人",
-      "onboard_time": 1690422574,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -5171,6 +5235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305991,
+      "num": 395901,
+      "word": "猴痘防控方案印发",
+      "onboard_time": 1690425032,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305845,
       "num": 278757,
       "word": "相柳有自己的私人飞鸡",
@@ -5387,6 +5459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288353,
+      "num": 288353,
+      "word": "我的人间烟火收官海报",
+      "onboard_time": 1690427615,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287521,
       "num": 287521,
       "word": "莲花楼",
@@ -5441,6 +5521,14 @@
       "onboard_time": 1690129887,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 284558,
+      "num": 284558,
+      "word": "男子花15元中1296万当场捐8万8",
+      "onboard_time": 1690427734,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284281,
@@ -5513,6 +5601,14 @@
       "onboard_time": 1690242327,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278173,
+      "num": 278173,
+      "word": "范丞丞隔空挖魏大勋鼻孔",
+      "onboard_time": 1690427315,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 277401,
@@ -6427,6 +6523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219377,
+      "num": 219377,
+      "word": "独家童话今日开播",
+      "onboard_time": 1690426955,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218820,
       "num": 218820,
       "word": "各省有各省的省饭",
@@ -6441,14 +6545,6 @@
       "onboard_time": 1690417834,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216500,
-      "num": 216500,
-      "word": "猴痘防控方案印发",
-      "onboard_time": 1690425032,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215336,
@@ -6505,14 +6601,6 @@
       "onboard_time": 1690372003,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211127,
-      "num": 211127,
-      "word": "美依礼芽会点英语但不多",
-      "onboard_time": 1690425270,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 211098,
@@ -6667,6 +6755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205557,
+      "num": 1105419,
+      "word": "英雄荣光",
+      "onboard_time": 1690426955,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205556,
       "num": 205556,
       "word": "没想到狗狗坐车居然也会晕车",
@@ -6753,6 +6849,14 @@
       "onboard_time": 1690214972,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201802,
+      "num": 201802,
+      "word": "这就是灌篮5阵容官宣",
+      "onboard_time": 1690427074,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 201346,
@@ -7483,14 +7587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165086,
-      "num": 165086,
-      "word": "魏大勋跳wave",
-      "onboard_time": 1690425456,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163617,
       "num": 201679,
       "word": "剧组拍戏封路居民怒斥谁给的权力",
@@ -7785,6 +7881,14 @@
       "onboard_time": 1690413626,
       "rank": 41,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 119245,
+      "num": 560315,
+      "word": "小米MIXFold3",
+      "onboard_time": 1690426834,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118294,
