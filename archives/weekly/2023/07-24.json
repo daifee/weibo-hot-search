@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690468439695,
+  "endTime": 1690470979379,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -35,8 +35,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 9475447,
-      "num": 9475447,
+      "raw_hot": 10518954,
+      "num": 10518954,
       "word": "杨洋 谢谢大家的包容与陪伴批评和建议",
       "onboard_time": 1690466680,
       "rank": 4,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 2518769,
-      "num": 1422919,
+      "num": 1806279,
       "word": "13岁女孩体内抽出2000毫升乳白色血",
       "onboard_time": 1690464158,
       "rank": 11,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 2285030,
-      "num": 1358548,
+      "num": 1510717,
       "word": "魏大勋 感谢喜爱孟宴臣的每一位朋友",
       "onboard_time": 1690464034,
       "rank": 10,
@@ -401,6 +401,14 @@
       "onboard_time": 1690439432,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2138915,
+      "num": 2138915,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2123509,
@@ -568,14 +576,6 @@
       "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
       "onboard_time": 1690210423,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1853431,
-      "num": 1853431,
-      "word": "杜苏芮路径",
-      "onboard_time": 1690454734,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1595,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1013237,
+      "num": 1013237,
+      "word": "台风杜苏芮已致台湾一人死亡",
+      "onboard_time": 1690466860,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1012537,
       "num": 1011549,
       "word": "男子在四姑娘山旅游时遇难",
@@ -1851,20 +1859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 906082,
-      "num": 906082,
-      "word": "台风杜苏芮已致台湾一人死亡",
-      "onboard_time": 1690466860,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 905626,
       "num": 905626,
       "word": "电视剧长相思",
       "onboard_time": 1690278101,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 900108,
+      "num": 492011,
+      "word": "提离职五次了一直不让人走",
+      "onboard_time": 1690467277,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 897082,
@@ -1907,12 +1915,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 889132,
-      "num": 483223,
-      "word": "提离职五次了一直不让人走",
-      "onboard_time": 1690467277,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 883838,
+      "num": 883838,
+      "word": "猫咪纹",
+      "onboard_time": 1690468789,
+      "rank": 8,
+      "category": "美妆"
     },
     {
       "raw_hot": 882593,
@@ -2307,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 775441,
+      "num": 775441,
+      "word": "魏大勋合影时蹲下",
+      "onboard_time": 1690469325,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 774123,
       "num": 438089,
       "word": "男子称女友出轨找准岳父退彩礼遇害",
@@ -2531,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 730528,
+      "num": 730528,
+      "word": "没抢到票的TFBOYS粉丝开始包场电影院",
+      "onboard_time": 1690466562,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 729832,
       "num": 561743,
       "word": "长相思榜单全面登顶",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1690420473,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 707443,
+      "num": 625754,
+      "word": "杨洋白鹿或将合作与晋长安",
+      "onboard_time": 1690470461,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 706842,
@@ -2987,14 +3019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 648927,
-      "num": 648927,
-      "word": "没抢到票的TFBOYS粉丝开始包场电影院",
-      "onboard_time": 1690466562,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 644977,
       "num": 644977,
       "word": "十大地铁公司中4个明确不准喝水",
@@ -3299,6 +3323,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 602275,
+      "num": 456524,
+      "word": "TFBOYS十周年不应援了",
+      "onboard_time": 1690470283,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 601963,
       "num": 601963,
       "word": "没想到自己二十多岁还不如小孩",
@@ -3468,7 +3500,7 @@
     },
     {
       "raw_hot": 580402,
-      "num": 371756,
+      "num": 394633,
       "word": "台风来袭市民把凉亭拴水泥柱上",
       "onboard_time": 1690466740,
       "rank": 30,
@@ -3571,6 +3603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567227,
+      "num": 427913,
+      "word": "孟宴臣朋友叫孟母付阿姨",
+      "onboard_time": 1690470346,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 566398,
       "num": 566398,
       "word": "秋瓷炫给于晓光和儿子听写韩语",
@@ -3656,6 +3696,14 @@
       "word": "祖孙3人散步被轿车迎面撞死",
       "onboard_time": 1690241728,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552413,
+      "num": 552413,
+      "word": "超强台风莫兰蒂来袭时的厦门",
+      "onboard_time": 1690468911,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3953,6 +4001,14 @@
       "onboard_time": 1690338453,
       "rank": 33,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 503920,
+      "num": 397709,
+      "word": "玱玹涂山璟以为小夭相柳在放纵",
+      "onboard_time": 1690468670,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 503697,
@@ -4803,6 +4859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429874,
+      "num": 397026,
+      "word": "姬发",
+      "onboard_time": 1690470707,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428592,
       "num": 378628,
       "word": "迪丽热巴耍帅失败",
@@ -4971,6 +5035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 411629,
+      "num": 387109,
+      "word": "张晚意真的像个盲人",
+      "onboard_time": 1690467580,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411283,
       "num": 400960,
       "word": "TFBOYS每家都有合作的电池品牌",
@@ -5121,6 +5193,14 @@
       "onboard_time": 1690249415,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 398565,
+      "num": 398565,
+      "word": "台湾台风",
+      "onboard_time": 1690469568,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397005,
@@ -5283,14 +5363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 381719,
-      "num": 324387,
-      "word": "张晚意真的像个盲人",
-      "onboard_time": 1690467580,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 381598,
       "num": 381598,
       "word": "于适为了封神两年没剪头发",
@@ -5361,6 +5433,14 @@
       "onboard_time": 1690400173,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376845,
+      "num": 376845,
+      "word": "考上研究生得让每个生物都知道",
+      "onboard_time": 1690469150,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 376273,
@@ -5859,12 +5939,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336873,
+      "num": 336873,
+      "word": "医学生称给细菌战受害者清创时想流泪",
+      "onboard_time": 1690467941,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335602,
       "num": 436970,
       "word": "福建广东或遭遇超强台风",
       "onboard_time": 1690416455,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334882,
+      "num": 334882,
+      "word": "李莲花开大了",
+      "onboard_time": 1690468062,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 334589,
@@ -6595,14 +6691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 291040,
-      "num": 291040,
-      "word": "李莲花开大了",
-      "onboard_time": 1690468062,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 290974,
       "num": 290974,
       "word": "王鹤棣新剧蓝衣高马尾路透",
@@ -7012,7 +7100,7 @@
     },
     {
       "raw_hot": 264546,
-      "num": 1774589,
+      "num": 1968973,
       "word": "熊猫花花带你看四川",
       "onboard_time": 1690464457,
       "rank": 2,
@@ -7339,6 +7427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243967,
+      "num": 243967,
+      "word": "北京WB",
+      "onboard_time": 1690468248,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243704,
       "num": 274947,
       "word": "新型CityWalk",
@@ -7371,19 +7467,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241587,
+      "num": 241587,
+      "word": "坐出租车被记了一次警告",
+      "onboard_time": 1690469215,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240217,
       "num": 240217,
       "word": "台风杜苏芮将对上海产生影响",
       "onboard_time": 1690334016,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239175,
-      "num": 239175,
-      "word": "医学生称给细菌战受害者清创时想流泪",
-      "onboard_time": 1690467941,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -7609,14 +7705,6 @@
       "onboard_time": 1690349497,
       "rank": 47,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 227800,
-      "num": 227800,
-      "word": "北京WB",
-      "onboard_time": 1690468248,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 227523,
@@ -9689,6 +9777,14 @@
       "onboard_time": 1690275999,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 51778,
+      "num": 626659,
+      "word": "张钧甯说静奢风就是我的审美",
+      "onboard_time": 1690470045,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50647,

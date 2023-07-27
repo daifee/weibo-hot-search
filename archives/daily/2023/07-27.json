@@ -1,10 +1,10 @@
 {
   "startTime": 1690388505401,
-  "endTime": 1690468439695,
+  "endTime": 1690470979379,
   "band_list": [
     {
-      "raw_hot": 9475447,
-      "num": 9475447,
+      "raw_hot": 10518954,
+      "num": 10518954,
       "word": "杨洋 谢谢大家的包容与陪伴批评和建议",
       "onboard_time": 1690466680,
       "rank": 4,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2518769,
-      "num": 1422919,
+      "num": 1806279,
       "word": "13岁女孩体内抽出2000毫升乳白色血",
       "onboard_time": 1690464158,
       "rank": 11,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2285030,
-      "num": 1358548,
+      "num": 1510717,
       "word": "魏大勋 感谢喜爱孟宴臣的每一位朋友",
       "onboard_time": 1690464034,
       "rank": 10,
@@ -137,6 +137,14 @@
       "onboard_time": 1690439432,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2138915,
+      "num": 2138915,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2123509,
@@ -185,14 +193,6 @@
       "onboard_time": 1690445374,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1853431,
-      "num": 1853431,
-      "word": "杜苏芮路径",
-      "onboard_time": 1690454734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1829998,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1013237,
+      "num": 1013237,
+      "word": "台风杜苏芮已致台湾一人死亡",
+      "onboard_time": 1690466860,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1000912,
       "num": 1000912,
       "word": "俄共建议把二战爆发时间改成1937年7月7日",
@@ -523,12 +531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 906082,
-      "num": 906082,
-      "word": "台风杜苏芮已致台湾一人死亡",
-      "onboard_time": 1690466860,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 900108,
+      "num": 492011,
+      "word": "提离职五次了一直不让人走",
+      "onboard_time": 1690467277,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 897082,
@@ -547,12 +555,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 889132,
-      "num": 483223,
-      "word": "提离职五次了一直不让人走",
-      "onboard_time": 1690467277,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 883838,
+      "num": 883838,
+      "word": "猫咪纹",
+      "onboard_time": 1690468789,
+      "rank": 8,
+      "category": "美妆"
     },
     {
       "raw_hot": 877740,
@@ -611,6 +619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 775441,
+      "num": 775441,
+      "word": "魏大勋合影时蹲下",
+      "onboard_time": 1690469325,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 774123,
       "num": 438089,
       "word": "男子称女友出轨找准岳父退彩礼遇害",
@@ -649,6 +665,14 @@
       "onboard_time": 1690415068,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730528,
+      "num": 730528,
+      "word": "没抢到票的TFBOYS粉丝开始包场电影院",
+      "onboard_time": 1690466562,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 725305,
@@ -713,6 +737,14 @@
       "onboard_time": 1690420473,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 707443,
+      "num": 625754,
+      "word": "杨洋白鹿或将合作与晋长安",
+      "onboard_time": 1690470461,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 706572,
@@ -827,14 +859,6 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 648927,
-      "num": 648927,
-      "word": "没抢到票的TFBOYS粉丝开始包场电影院",
-      "onboard_time": 1690466562,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 644661,
       "num": 564829,
       "word": "王一博的圈内人缘",
@@ -907,6 +931,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 602275,
+      "num": 456524,
+      "word": "TFBOYS十周年不应援了",
+      "onboard_time": 1690470283,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 601264,
       "num": 417753,
       "word": "澳11岁女孩拥有百万资产打算12岁退休",
@@ -924,7 +956,7 @@
     },
     {
       "raw_hot": 580402,
-      "num": 371756,
+      "num": 394633,
       "word": "台风来袭市民把凉亭拴水泥柱上",
       "onboard_time": 1690466740,
       "rank": 30,
@@ -971,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567227,
+      "num": 427913,
+      "word": "孟宴臣朋友叫孟母付阿姨",
+      "onboard_time": 1690470346,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 562355,
       "num": 562355,
       "word": "业内称大鹏是中国路演第一人",
@@ -985,6 +1025,14 @@
       "onboard_time": 1690466439,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 552413,
+      "num": 552413,
+      "word": "超强台风莫兰蒂来袭时的厦门",
+      "onboard_time": 1690468911,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550441,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1690424194,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503920,
+      "num": 397709,
+      "word": "玱玹涂山璟以为小夭相柳在放纵",
+      "onboard_time": 1690468670,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 502020,
@@ -1323,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429874,
+      "num": 397026,
+      "word": "姬发",
+      "onboard_time": 1690470707,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426163,
       "num": 426163,
       "word": "莲花楼江湖侠客莲欢会",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1690426232,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 411629,
+      "num": 387109,
+      "word": "张晚意真的像个盲人",
+      "onboard_time": 1690467580,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 409194,
@@ -1411,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398565,
+      "num": 398565,
+      "word": "台湾台风",
+      "onboard_time": 1690469568,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394161,
       "num": 380821,
       "word": "长相思榜单全面登顶",
@@ -1448,14 +1528,6 @@
       "word": "芭比最贴近角色的演员",
       "onboard_time": 1690440935,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 381719,
-      "num": 324387,
-      "word": "张晚意真的像个盲人",
-      "onboard_time": 1690467580,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1521,6 +1593,14 @@
       "onboard_time": 1690400173,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376845,
+      "num": 376845,
+      "word": "考上研究生得让每个生物都知道",
+      "onboard_time": 1690469150,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 372780,
@@ -1611,12 +1691,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336873,
+      "num": 336873,
+      "word": "医学生称给细菌战受害者清创时想流泪",
+      "onboard_time": 1690467941,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335602,
       "num": 436970,
       "word": "福建广东或遭遇超强台风",
       "onboard_time": 1690416455,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334882,
+      "num": 334882,
+      "word": "李莲花开大了",
+      "onboard_time": 1690468062,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 333745,
@@ -1795,6 +1891,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 293711,
+      "num": 293711,
+      "word": "封神",
+      "onboard_time": 1690384421,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293428,
       "num": 293428,
       "word": "鹿晗上海演唱会",
@@ -1817,14 +1921,6 @@
       "onboard_time": 1690459173,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291040,
-      "num": 291040,
-      "word": "李莲花开大了",
-      "onboard_time": 1690468062,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 290272,
@@ -1908,7 +2004,7 @@
     },
     {
       "raw_hot": 264546,
-      "num": 1774589,
+      "num": 1968973,
       "word": "熊猫花花带你看四川",
       "onboard_time": 1690464457,
       "rank": 2,
@@ -1947,6 +2043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243967,
+      "num": 243967,
+      "word": "北京WB",
+      "onboard_time": 1690468248,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243008,
       "num": 243008,
       "word": "杨幂清凉辣妹机场穿搭",
@@ -1955,12 +2059,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239175,
-      "num": 239175,
-      "word": "医学生称给细菌战受害者清创时想流泪",
-      "onboard_time": 1690467941,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 241587,
+      "num": 241587,
+      "word": "坐出租车被记了一次警告",
+      "onboard_time": 1690469215,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 237698,
@@ -2017,14 +2121,6 @@
       "onboard_time": 1690383165,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227800,
-      "num": 227800,
-      "word": "北京WB",
-      "onboard_time": 1690468248,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 227523,
@@ -2152,14 +2248,6 @@
       "word": "潜行者",
       "onboard_time": 1690457072,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 205722,
-      "num": 205722,
-      "word": "封神",
-      "onboard_time": 1690384421,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -2593,6 +2681,14 @@
       "onboard_time": 1690395436,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51778,
+      "num": 626659,
+      "word": "张钧甯说静奢风就是我的审美",
+      "onboard_time": 1690470045,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 37967,
