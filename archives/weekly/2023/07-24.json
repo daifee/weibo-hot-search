@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690497223366,
+  "endTime": 1690499771500,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2362156,
+      "num": 2362156,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2352046,
       "num": 1552174,
       "word": "我最好的朋友全走了",
@@ -321,14 +329,6 @@
       "onboard_time": 1690464034,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2267800,
-      "num": 2267800,
-      "word": "杜苏芮路径",
-      "onboard_time": 1690454734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2252541,
@@ -721,6 +721,14 @@
       "onboard_time": 1690359758,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1664387,
+      "num": 1664387,
+      "word": "杜苏芮核心区 创纪录的狂风暴雨",
+      "onboard_time": 1690472800,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1661462,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1690336054,
       "rank": 31,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 1106249,
-      "num": 1106249,
-      "word": "杜苏芮核心区 创纪录的狂风暴雨",
-      "onboard_time": 1690472800,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1103371,
@@ -3235,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627041,
+      "num": 627041,
+      "word": "杜苏芮再次升级为超强台风",
+      "onboard_time": 1690493112,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625003,
       "num": 473007,
       "word": "魏大勋是经得起考古的",
@@ -3361,6 +3369,14 @@
       "onboard_time": 1690436497,
       "rank": 22,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 602257,
+      "num": 602257,
+      "word": "卡努",
+      "onboard_time": 1690499424,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601963,
@@ -4233,6 +4249,14 @@
       "onboard_time": 1690416994,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 485135,
+      "num": 485135,
+      "word": "银行回应职工纵容17岁儿子虐猫",
+      "onboard_time": 1690483096,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485005,
@@ -5593,6 +5617,14 @@
       "onboard_time": 1690375237,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367007,
+      "num": 367007,
+      "word": "浙江台风",
+      "onboard_time": 1690493833,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366626,
@@ -7035,6 +7067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273515,
+      "num": 273515,
+      "word": "女生记录男友一周接她下班表情变化",
+      "onboard_time": 1690499003,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272757,
       "num": 272757,
       "word": "全员加速中",
@@ -7161,14 +7201,6 @@
       "onboard_time": 1690331617,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 265380,
-      "num": 265380,
-      "word": "杜苏芮再次升级为超强台风",
-      "onboard_time": 1690493112,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264562,
@@ -7489,6 +7521,14 @@
       "onboard_time": 1690460433,
       "rank": 47,
       "category": "自然"
+    },
+    {
+      "raw_hot": 244943,
+      "num": 244943,
+      "word": "知乎网友着手复现韩国常温超导发现",
+      "onboard_time": 1690485554,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 244878,
@@ -8003,14 +8043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219468,
-      "num": 219468,
-      "word": "银行回应职工纵容17岁儿子虐猫",
-      "onboard_time": 1690483096,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218820,
       "num": 218820,
       "word": "各省有各省的省饭",
@@ -8201,6 +8233,14 @@
       "onboard_time": 1690215153,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 207649,
+      "num": 207649,
+      "word": "相柳都开始偷家了",
+      "onboard_time": 1690480220,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 207080,
@@ -8851,14 +8891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188701,
-      "num": 188701,
-      "word": "浙江台风",
-      "onboard_time": 1690493833,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188614,
       "num": 197709,
       "word": "热烈长沙路演票价炒至上千元",
@@ -9419,6 +9451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144559,
+      "num": 144559,
+      "word": "张晚意说玱玹最后孤寡一生",
+      "onboard_time": 1690497439,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142298,
       "num": 142298,
       "word": "微笑天使萨摩耶狗设崩塌现场",
@@ -9635,14 +9675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112979,
-      "num": 112979,
-      "word": "知乎网友着手复现韩国常温超导发现",
-      "onboard_time": 1690485554,
-      "rank": 49,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 111381,
       "num": 111381,
       "word": "吴亦凡名誉权案会改判么",
@@ -9691,14 +9723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103585,
-      "num": 103585,
-      "word": "相柳都开始偷家了",
-      "onboard_time": 1690480220,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 102950,
       "num": 105945,
       "word": "奄奄一息的狗狗倒在后院里",
@@ -9713,6 +9737,14 @@
       "onboard_time": 1690402993,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98770,
+      "num": 98770,
+      "word": "几天不出门在杭州过马路都这样了",
+      "onboard_time": 1690499003,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97832,
@@ -9761,6 +9793,14 @@
       "onboard_time": 1690306700,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91176,
+      "num": 91176,
+      "word": "台风杜苏芮预计28日登陆",
+      "onboard_time": 1690483034,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89302,
@@ -9891,14 +9931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66036,
-      "num": 66036,
-      "word": "台风杜苏芮预计28日登陆",
-      "onboard_time": 1690483034,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65846,
       "num": 96017,
       "word": "宁艺卓芭比造型",
@@ -9979,6 +10011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45794,
+      "num": 1635431,
+      "word": "成都大运会开幕式官方主题曲来了",
+      "onboard_time": 1690464158,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43878,
       "num": 481615,
       "word": "说唱巅峰对决后劲太强",
@@ -10009,14 +10049,6 @@
       "onboard_time": 1690225754,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34918,
-      "num": 1635431,
-      "word": "成都大运会开幕式官方主题曲来了",
-      "onboard_time": 1690464158,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 31492,
