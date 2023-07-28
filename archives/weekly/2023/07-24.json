@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690580019687,
+  "endTime": 1690582506691,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -9163,6 +9163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247190,
+      "num": 69832,
+      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
+      "onboard_time": 1690573154,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247019,
       "num": 247019,
       "word": "相柳都开始偷家了",
@@ -11459,14 +11467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 146373,
-      "num": 48004,
-      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
-      "onboard_time": 1690573154,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146195,
       "num": 146195,
       "word": "DRG对战LGD",
@@ -11596,7 +11596,7 @@
     },
     {
       "raw_hot": 134438,
-      "num": 43383,
+      "num": 63326,
       "word": "李现抱魏大勋站C位",
       "onboard_time": 1690579453,
       "rank": 11,
@@ -11705,6 +11705,14 @@
       "onboard_time": 1690404193,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123714,
+      "num": 65485,
+      "word": "女子称因怕台风取消民宿遭老板怼",
+      "onboard_time": 1690570516,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121739,
@@ -11876,7 +11884,7 @@
     },
     {
       "raw_hot": 100394,
-      "num": 76802,
+      "num": 81155,
       "word": "福州台风",
       "onboard_time": 1690573873,
       "rank": 23,
@@ -12009,14 +12017,6 @@
       "onboard_time": 1690218203,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83724,
-      "num": 47941,
-      "word": "女子称因怕台风取消民宿遭老板怼",
-      "onboard_time": 1690570516,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83616,
@@ -12219,6 +12219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40478,
+      "num": 40478,
+      "word": "中国男排1比3乌克兰男排",
+      "onboard_time": 1690570935,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36844,
       "num": 41363,
       "word": "逆天吐槽消失的十一层",
@@ -12251,20 +12259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30267,
+      "num": 37360,
+      "word": "你们两口子真有意思",
+      "onboard_time": 1690579334,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30251,
       "num": 451446,
       "word": "时间给你的臻选",
       "onboard_time": 1690286441,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 28700,
-      "num": 30126,
-      "word": "中国男排1比3乌克兰男排",
-      "onboard_time": 1690570935,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 28577,
@@ -12297,6 +12305,14 @@
       "onboard_time": 1690107154,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 23112,
+      "num": 37289,
+      "word": "成都大运会今日开幕",
+      "onboard_time": 1690530814,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22844,
