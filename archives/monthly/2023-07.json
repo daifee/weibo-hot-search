@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690529640539,
+  "endTime": 1690532432527,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1315,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2848082,
+      "num": 2181995,
+      "word": "杜苏芮强得离谱 路径妖得要命",
+      "onboard_time": 1690525717,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2840872,
       "num": 2840872,
       "word": "济南大学已报警",
@@ -2473,14 +2481,6 @@
       "onboard_time": 1688800471,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2181995,
-      "num": 2181995,
-      "word": "杜苏芮强得离谱 路径妖得要命",
-      "onboard_time": 1690525717,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2179004,
@@ -5233,6 +5233,14 @@
       "onboard_time": 1688632956,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1536325,
+      "num": 1536325,
+      "word": "徐艺洋说黄子韬穿假货",
+      "onboard_time": 1690528835,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1536034,
@@ -9739,6 +9747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1032390,
+      "num": 1032390,
+      "word": "长相思海外评分2.9分",
+      "onboard_time": 1690530215,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1031406,
       "num": 1031406,
       "word": "NCTDREAM全员开通微博",
@@ -14075,6 +14091,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 814407,
+      "num": 814407,
+      "word": "独居女生被撬门狗狗狂吠吓跑对方",
+      "onboard_time": 1690527935,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812502,
       "num": 458405,
       "word": "女孩被蛇咬伤奶奶抓蜘蛛吸毒",
@@ -18379,6 +18403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 663202,
+      "num": 391304,
+      "word": "瘦了12斤内脏脂肪掉了35平方厘米",
+      "onboard_time": 1690518462,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 663196,
       "num": 646330,
       "word": "王俊凯 五月天嘉宾",
@@ -18729,6 +18761,14 @@
       "onboard_time": 1688390142,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 657907,
+      "num": 395001,
+      "word": "杜苏芮已造成福建72.46万余人受灾",
+      "onboard_time": 1690532075,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 657658,
@@ -19673,14 +19713,6 @@
       "onboard_time": 1689774758,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 634050,
-      "num": 391304,
-      "word": "瘦了12斤内脏脂肪掉了35平方厘米",
-      "onboard_time": 1690518462,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 633728,
@@ -20641,6 +20673,14 @@
       "onboard_time": 1689257616,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609335,
+      "num": 609335,
+      "word": "人民文娱评封神第一部",
+      "onboard_time": 1690527036,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 609256,
@@ -22955,6 +22995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555179,
+      "num": 449595,
+      "word": "TFBOYS十周年演唱会出座位了",
+      "onboard_time": 1690529615,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 554663,
       "num": 448621,
       "word": "Angelababy羊毛卷点痣妆",
@@ -25113,14 +25161,6 @@
       "onboard_time": 1688774248,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 508900,
-      "num": 508900,
-      "word": "人民文娱评封神第一部",
-      "onboard_time": 1690527036,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 508879,
@@ -27323,6 +27363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471665,
+      "num": 389120,
+      "word": "杜苏芮",
+      "onboard_time": 1690528715,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471336,
       "num": 471336,
       "word": "离职后这几样东西一定要带走",
@@ -27553,14 +27601,6 @@
       "onboard_time": 1688736224,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 468085,
-      "num": 380451,
-      "word": "徐艺洋说黄子韬穿假货",
-      "onboard_time": 1690528835,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 468049,
@@ -28555,6 +28595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452418,
+      "num": 452418,
+      "word": "杜苏芮登陆晋江现末日场景",
+      "onboard_time": 1690521519,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452337,
       "num": 452337,
       "word": "推特限制非会员浏览条数",
@@ -29009,6 +29057,14 @@
       "onboard_time": 1688549555,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 444799,
+      "num": 444799,
+      "word": "三伏",
+      "onboard_time": 1690529136,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 444788,
@@ -30888,14 +30944,6 @@
       "word": "南航将奖励为乘客撑伞的空姐",
       "onboard_time": 1689665312,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421635,
-      "num": 373822,
-      "word": "杜苏芮",
-      "onboard_time": 1690528715,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -34561,14 +34609,6 @@
       "onboard_time": 1688464238,
       "rank": 4,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 372629,
-      "num": 372629,
-      "word": "独居女生被撬门狗狗狂吠吓跑对方",
-      "onboard_time": 1690527935,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372462,
@@ -38361,14 +38401,6 @@
       "onboard_time": 1689071261,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330626,
-      "num": 330626,
-      "word": "杜苏芮登陆晋江现末日场景",
-      "onboard_time": 1690521519,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330578,
@@ -46099,6 +46131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262885,
+      "num": 262885,
+      "word": "罗云熙和Doinb双排",
+      "onboard_time": 1690529795,
+      "rank": 31,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 262876,
       "num": 249504,
       "word": "宋亚轩嘴碎",
@@ -48681,14 +48721,6 @@
       "onboard_time": 1690110812,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 243054,
-      "num": 243054,
-      "word": "三伏",
-      "onboard_time": 1690529136,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 243005,
@@ -56299,6 +56331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195251,
+      "num": 213638,
+      "word": "杨玏封神隐藏细节",
+      "onboard_time": 1690531175,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195243,
       "num": 195243,
       "word": "400米巨轮海上倒车入库有多丝滑",
@@ -56435,6 +56475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194614,
+      "num": 213627,
+      "word": "每一个人挨打的理由都好离谱",
+      "onboard_time": 1690531354,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 194610,
       "num": 228793,
       "word": "妈见打的叠被子方式",
@@ -56508,7 +56556,7 @@
     },
     {
       "raw_hot": 194376,
-      "num": 209886,
+      "num": 213536,
       "word": "用玟小六打开当代年轻人现状",
       "onboard_time": 1690528415,
       "rank": 44,
@@ -59465,14 +59513,6 @@
       "onboard_time": 1688307698,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175483,
-      "num": 175483,
-      "word": "TFBOYS十周年演唱会出座位了",
-      "onboard_time": 1690529615,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 175349,
@@ -65441,6 +65481,14 @@
       "onboard_time": 1689822036,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62810,
+      "num": 1315998,
+      "word": "成都大运会双语先导片",
+      "onboard_time": 1690531175,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62770,

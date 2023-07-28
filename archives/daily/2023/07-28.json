@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690529640539,
+  "endTime": 1690532432527,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2848082,
+      "num": 2181995,
+      "word": "杜苏芮强得离谱 路径妖得要命",
+      "onboard_time": 1690525717,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2815848,
       "num": 2815848,
       "word": "微信已把帐号改为账号",
       "onboard_time": 1690507657,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2181995,
-      "num": 2181995,
-      "word": "杜苏芮强得离谱 路径妖得要命",
-      "onboard_time": 1690525717,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2026763,
@@ -105,6 +105,14 @@
       "onboard_time": 1690507234,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1536325,
+      "num": 1536325,
+      "word": "徐艺洋说黄子韬穿假货",
+      "onboard_time": 1690528835,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1487768,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1032390,
+      "num": 1032390,
+      "word": "长相思海外评分2.9分",
+      "onboard_time": 1690530215,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1023764,
       "num": 1023764,
       "word": "卡努",
@@ -363,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 814407,
+      "num": 814407,
+      "word": "独居女生被撬门狗狗狂吠吓跑对方",
+      "onboard_time": 1690527935,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803455,
       "num": 505909,
       "word": "女生记录男友一周接她下班表情变化",
@@ -427,6 +451,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 663202,
+      "num": 391304,
+      "word": "瘦了12斤内脏脂肪掉了35平方厘米",
+      "onboard_time": 1690518462,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 657907,
+      "num": 395001,
+      "word": "杜苏芮已造成福建72.46万余人受灾",
+      "onboard_time": 1690532075,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642961,
       "num": 470521,
       "word": "印度男子无力还债目睹妻子被侵犯",
@@ -441,14 +481,6 @@
       "onboard_time": 1690525295,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 634050,
-      "num": 391304,
-      "word": "瘦了12斤内脏脂肪掉了35平方厘米",
-      "onboard_time": 1690518462,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 632241,
@@ -488,6 +520,14 @@
       "word": "孟宴臣朋友叫孟母付阿姨",
       "onboard_time": 1690470346,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 609335,
+      "num": 609335,
+      "word": "人民文娱评封神第一部",
+      "onboard_time": 1690527036,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -555,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 555179,
+      "num": 449595,
+      "word": "TFBOYS十周年演唱会出座位了",
+      "onboard_time": 1690529615,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 545628,
       "num": 400604,
       "word": "男子跪地六小时求婚昏倒",
@@ -611,14 +659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 508900,
-      "num": 508900,
-      "word": "人民文娱评封神第一部",
-      "onboard_time": 1690527036,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 498793,
       "num": 473511,
       "word": "张元英坐姿",
@@ -667,12 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468085,
-      "num": 380451,
-      "word": "徐艺洋说黄子韬穿假货",
-      "onboard_time": 1690528835,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 471665,
+      "num": 389120,
+      "word": "杜苏芮",
+      "onboard_time": 1690528715,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466752,
@@ -723,6 +763,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452418,
+      "num": 452418,
+      "word": "杜苏芮登陆晋江现末日场景",
+      "onboard_time": 1690521519,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444799,
+      "num": 444799,
+      "word": "三伏",
+      "onboard_time": 1690529136,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 435723,
       "num": 435723,
       "word": "国外很贵但国内却便宜的东西",
@@ -753,14 +809,6 @@
       "onboard_time": 1690470707,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 421635,
-      "num": 373822,
-      "word": "杜苏芮",
-      "onboard_time": 1690528715,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417620,
@@ -827,14 +875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 372629,
-      "num": 372629,
-      "word": "独居女生被撬门狗狗狂吠吓跑对方",
-      "onboard_time": 1690527935,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371409,
       "num": 302234,
       "word": "魏大勋合影时蹲下",
@@ -889,14 +929,6 @@
       "onboard_time": 1690515998,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330626,
-      "num": 330626,
-      "word": "杜苏芮登陆晋江现末日场景",
-      "onboard_time": 1690521519,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321393,
@@ -1011,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289334,
+      "num": 289334,
+      "word": "封神票房",
+      "onboard_time": 1690531534,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287124,
       "num": 287124,
       "word": "成都蓝天",
@@ -1091,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262885,
+      "num": 262885,
+      "word": "罗云熙和Doinb双排",
+      "onboard_time": 1690529795,
+      "rank": 31,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 261006,
       "num": 261006,
       "word": "医学生称给细菌战受害者清创时想流泪",
@@ -1161,14 +1209,6 @@
       "onboard_time": 1690513059,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243054,
-      "num": 243054,
-      "word": "三伏",
-      "onboard_time": 1690529136,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 242528,
@@ -1339,8 +1379,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195251,
+      "num": 213638,
+      "word": "杨玏封神隐藏细节",
+      "onboard_time": 1690531175,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194614,
+      "num": 213627,
+      "word": "每一个人挨打的理由都好离谱",
+      "onboard_time": 1690531354,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 194376,
-      "num": 209886,
+      "num": 213536,
       "word": "用玟小六打开当代年轻人现状",
       "onboard_time": 1690528415,
       "rank": 44,
@@ -1385,14 +1441,6 @@
       "onboard_time": 1690466740,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175483,
-      "num": 175483,
-      "word": "TFBOYS十周年演唱会出座位了",
-      "onboard_time": 1690529615,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 172093,
@@ -1577,6 +1625,14 @@
       "onboard_time": 1690461095,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 62810,
+      "num": 1315998,
+      "word": "成都大运会双语先导片",
+      "onboard_time": 1690531175,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43780,
