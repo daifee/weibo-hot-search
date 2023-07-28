@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690528527606,
+  "endTime": 1690529640539,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -41,6 +41,14 @@
       "onboard_time": 1690507657,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2181995,
+      "num": 2181995,
+      "word": "杜苏芮强得离谱 路径妖得要命",
+      "onboard_time": 1690525717,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2026763,
@@ -139,20 +147,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1352556,
+      "num": 1352556,
+      "word": "李荣浩没抢到杨丞琳演唱会门票",
+      "onboard_time": 1690527094,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1352115,
       "num": 1352115,
       "word": "李玟丈夫发声明",
       "onboard_time": 1690510600,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1279658,
-      "num": 1279658,
-      "word": "杜苏芮强得离谱 路径妖得要命",
-      "onboard_time": 1690525717,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1244427,
@@ -241,14 +249,6 @@
       "onboard_time": 1690517563,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1046792,
-      "num": 624419,
-      "word": "李荣浩没抢到杨丞琳演唱会门票",
-      "onboard_time": 1690527094,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 1023764,
@@ -443,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 634050,
+      "num": 391304,
+      "word": "瘦了12斤内脏脂肪掉了35平方厘米",
+      "onboard_time": 1690518462,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 632241,
       "num": 435018,
       "word": "我爸在英国吃白人饭吃到崩溃",
@@ -523,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 580041,
+      "num": 580041,
+      "word": "赵琦君说我有老婆了",
+      "onboard_time": 1690525295,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579142,
       "num": 579142,
       "word": "念无双开机",
@@ -537,14 +553,6 @@
       "onboard_time": 1690522416,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 572230,
-      "num": 391304,
-      "word": "瘦了12斤内脏脂肪掉了35平方厘米",
-      "onboard_time": 1690518462,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 545628,
@@ -569,14 +577,6 @@
       "onboard_time": 1690523434,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 521413,
-      "num": 521413,
-      "word": "赵琦君说我有老婆了",
-      "onboard_time": 1690525295,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 518386,
@@ -609,6 +609,14 @@
       "onboard_time": 1690519602,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 508900,
+      "num": 508900,
+      "word": "人民文娱评封神第一部",
+      "onboard_time": 1690527036,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 498793,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468085,
+      "num": 380451,
+      "word": "徐艺洋说黄子韬穿假货",
+      "onboard_time": 1690528835,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466752,
       "num": 466752,
       "word": "晋江台风现场",
@@ -699,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452654,
+      "num": 452654,
+      "word": "莲花楼一家三口",
+      "onboard_time": 1690525537,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435723,
       "num": 435723,
       "word": "国外很贵但国内却便宜的东西",
@@ -731,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421635,
+      "num": 373822,
+      "word": "杜苏芮",
+      "onboard_time": 1690528715,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417620,
       "num": 417620,
       "word": "超强台风莫兰蒂来袭时的厦门",
@@ -753,14 +785,6 @@
       "onboard_time": 1690516959,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401446,
-      "num": 401446,
-      "word": "人民文娱评封神第一部",
-      "onboard_time": 1690527036,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 398645,
@@ -795,20 +819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378629,
-      "num": 378629,
-      "word": "莲花楼一家三口",
-      "onboard_time": 1690525537,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 372987,
       "num": 372987,
       "word": "原著里的相柳",
       "onboard_time": 1690506157,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 372629,
+      "num": 372629,
+      "word": "独居女生被撬门狗狗狂吠吓跑对方",
+      "onboard_time": 1690527935,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371409,
@@ -867,8 +891,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324729,
-      "num": 324729,
+      "raw_hot": 330626,
+      "num": 330626,
       "word": "杜苏芮登陆晋江现末日场景",
       "onboard_time": 1690521519,
       "rank": 41,
@@ -1051,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264981,
+      "num": 264981,
+      "word": "龚俊和迪丽热巴靠近会紧张",
+      "onboard_time": 1690528415,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263290,
       "num": 263290,
       "word": "坐出租车被记了一次警告",
@@ -1131,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243054,
+      "num": 243054,
+      "word": "三伏",
+      "onboard_time": 1690529136,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242528,
       "num": 242528,
       "word": "Utopia",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1690516299,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240967,
+      "num": 240967,
+      "word": "原神",
+      "onboard_time": 1690526673,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 237652,
@@ -1168,6 +1216,14 @@
       "word": "长相思新浪扫楼",
       "onboard_time": 1690447655,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 233918,
+      "num": 233918,
+      "word": "邓为问杨紫能不能说",
+      "onboard_time": 1690529376,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1227,28 +1283,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 211710,
-      "num": 211710,
-      "word": "独居女生被撬门狗狗狂吠吓跑对方",
-      "onboard_time": 1690527935,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211483,
       "num": 226203,
       "word": "相柳是在自卑吗",
       "onboard_time": 1690509519,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210529,
-      "num": 210529,
-      "word": "原神",
-      "onboard_time": 1690526673,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 209207,
@@ -1299,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194376,
+      "num": 209886,
+      "word": "用玟小六打开当代年轻人现状",
+      "onboard_time": 1690528415,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192290,
       "num": 192290,
       "word": "长相思今日行程",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1690522235,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187749,
-      "num": 209886,
-      "word": "用玟小六打开当代年轻人现状",
-      "onboard_time": 1690528415,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 185623,
@@ -1339,20 +1379,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179907,
-      "num": 209049,
-      "word": "龚俊和迪丽热巴靠近会紧张",
-      "onboard_time": 1690528415,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 177726,
       "num": 199703,
       "word": "台风来袭市民把凉亭拴水泥柱上",
       "onboard_time": 1690466740,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175483,
+      "num": 175483,
+      "word": "TFBOYS十周年演唱会出座位了",
+      "onboard_time": 1690529615,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 172093,
@@ -1475,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125819,
+      "num": 1449262,
+      "word": "成都大运会来了",
+      "onboard_time": 1690513836,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115254,
       "num": 2774592,
       "word": "成都大运会开幕式官方主题曲来了",
@@ -1507,6 +1555,14 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 82268,
+      "num": 520757,
+      "word": "车圈史上最难高考",
+      "onboard_time": 1690527633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79414,
       "num": 79414,
       "word": "常温超导",
@@ -1523,27 +1579,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53519,
-      "num": 1298361,
-      "word": "成都大运会来了",
-      "onboard_time": 1690513836,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43780,
       "num": 51047,
       "word": "福建海浪打出西游记开场既视感",
       "onboard_time": 1690482977,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37402,
-      "num": 473293,
-      "word": "车圈史上最难高考",
-      "onboard_time": 1690527633,
-      "rank": 14,
       "category": "社会新闻"
     }
   ],
