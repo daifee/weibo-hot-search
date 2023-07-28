@@ -1,0 +1,410 @@
+{
+  "runTime": 1690548626807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3890720,
+        "num": 3890720,
+        "word": "大运会开幕式",
+        "onboard_time": 1690545573,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3756618,
+        "num": 3756618,
+        "word": "覃海洋",
+        "onboard_time": 1690547611,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72515,
+        "num": 2664456,
+        "word": "成都大运会双语先导片",
+        "onboard_time": 1690531175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1911663,
+        "num": 1911663,
+        "word": "魏大勋帅得以为是孟宴臣来了",
+        "onboard_time": 1690543172,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1769061,
+        "num": 1769061,
+        "word": "王霜点球罚进",
+        "onboard_time": 1690547914,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1549855,
+        "num": 1549855,
+        "word": "覃海洋200米蛙泳金牌",
+        "onboard_time": 1690547733,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1274475,
+        "num": 1274475,
+        "word": "开幕式熊猫好能蹦",
+        "onboard_time": 1690547312,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1214541,
+        "num": 1214541,
+        "word": "科学家复活了46000年前的虫子",
+        "onboard_time": 1690544852,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1115609,
+        "num": 1115609,
+        "word": "张睿红牌",
+        "onboard_time": 1690544312,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1010903,
+        "num": 1010903,
+        "word": "大运会开幕从12开始倒数",
+        "onboard_time": 1690546292,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1471436,
+        "num": 995399,
+        "word": "张子枫瘦好多",
+        "onboard_time": 1690540712,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 855689,
+        "num": 855689,
+        "word": "杜苏芮强得离谱 路径妖得要命",
+        "onboard_time": 1690525717,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745508,
+        "num": 745508,
+        "word": "中国女足vs海地女足",
+        "onboard_time": 1690540892,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730060,
+        "num": 730060,
+        "word": "王霜替补上场",
+        "onboard_time": 1690547011,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 725912,
+        "num": 725912,
+        "word": "成都大运会",
+        "onboard_time": 1690532976,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 725703,
+        "num": 725703,
+        "word": "孙女被水烫到爷爷心疼紧抱不放",
+        "onboard_time": 1690543292,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723232,
+        "num": 723232,
+        "word": "台风杜苏芮登陆晋江",
+        "onboard_time": 1690510420,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808472,
+        "num": 705848,
+        "word": "中国女足半场0比0海地女足",
+        "onboard_time": 1690546292,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664459,
+        "num": 664459,
+        "word": "杨紫要檀健次罚站",
+        "onboard_time": 1690543770,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656208,
+        "num": 656208,
+        "word": "中国女足1比0海地女足",
+        "onboard_time": 1690547973,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 640096,
+        "num": 640096,
+        "word": "王一博说我身体已经很好了",
+        "onboard_time": 1690545274,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578344,
+        "num": 578344,
+        "word": "杜苏芮已造成福建72.46万余人受灾",
+        "onboard_time": 1690532075,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549167,
+        "num": 549167,
+        "word": "中国好声音",
+        "onboard_time": 1690538673,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538854,
+        "num": 538854,
+        "word": "海地越位",
+        "onboard_time": 1690545093,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531767,
+        "num": 531767,
+        "word": "遭71岁老头扒坟辱尸老太家属发声",
+        "onboard_time": 1690535853,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447550,
+        "num": 447550,
+        "word": "覃海洋破世界纪录",
+        "onboard_time": 1690548456,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429835,
+        "num": 429835,
+        "word": "夭柳",
+        "onboard_time": 1690547312,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417856,
+        "num": 417856,
+        "word": "女足出线生死战",
+        "onboard_time": 1690542631,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393803,
+        "num": 393803,
+        "word": "李现跑着拥抱吴彦姝",
+        "onboard_time": 1690534954,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391130,
+        "num": 391130,
+        "word": "小夭相柳海底吻",
+        "onboard_time": 1690534892,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353657,
+        "num": 353657,
+        "word": "晋江台风",
+        "onboard_time": 1690520860,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345592,
+        "num": 345592,
+        "word": "中餐厅",
+        "onboard_time": 1690547133,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338665,
+        "num": 338665,
+        "word": "长相思海外评分2.9分",
+        "onboard_time": 1690530215,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334126,
+        "num": 334126,
+        "word": "瘦了12斤内脏脂肪掉了35平方厘米",
+        "onboard_time": 1690518462,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326203,
+        "num": 326203,
+        "word": "女足直播",
+        "onboard_time": 1690542931,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316352,
+        "num": 316352,
+        "word": "朱钰神扑",
+        "onboard_time": 1690547071,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301528,
+        "num": 301528,
+        "word": "游泳世锦赛",
+        "onboard_time": 1690543712,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283495,
+        "num": 283495,
+        "word": "阿那亚活动",
+        "onboard_time": 1690541314,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265814,
+        "num": 265814,
+        "word": "法医季2秦明第一个解剖的是熟人",
+        "onboard_time": 1690548213,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60645,
+        "num": 250235,
+        "word": "大运会用的是转转官方验的二手机",
+        "onboard_time": 1690545633,
+        "rank": 39,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 238165,
+        "num": 238165,
+        "word": "好友称刀郎不可能写歌骂人",
+        "onboard_time": 1690540115,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233962,
+        "num": 233962,
+        "word": "时代少年团游戏决定起床顺序",
+        "onboard_time": 1690545872,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231772,
+        "num": 231772,
+        "word": "济南暴雨",
+        "onboard_time": 1690537355,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223715,
+        "num": 223715,
+        "word": "大哥水性好被老婆喊去救人",
+        "onboard_time": 1690544912,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218891,
+        "num": 218891,
+        "word": "飞机上最适合拍照的位置是机尾",
+        "onboard_time": 1690541071,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215443,
+        "num": 215443,
+        "word": "杜苏芮",
+        "onboard_time": 1690528715,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210895,
+        "num": 210895,
+        "word": "娄佳惠好拼",
+        "onboard_time": 1690548456,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208006,
+        "num": 208006,
+        "word": "狗狗落水被冲走主人一次次营救",
+        "onboard_time": 1690542572,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194119,
+        "num": 194119,
+        "word": "游泳",
+        "onboard_time": 1690548336,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191418,
+        "num": 191418,
+        "word": "韩团队称合成世界首个室温常压超导体",
+        "onboard_time": 1690536274,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#直播大运会开幕#"
+    }
+  }
+}

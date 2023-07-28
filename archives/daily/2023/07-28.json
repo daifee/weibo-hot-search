@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690547602241,
+  "endTime": 1690548626807,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -19,11 +19,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3801602,
-      "num": 3801602,
+      "raw_hot": 3890720,
+      "num": 3890720,
       "word": "大运会开幕式",
       "onboard_time": 1690545573,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3756618,
+      "num": 3756618,
+      "word": "覃海洋",
+      "onboard_time": 1690547611,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 2115969,
-      "num": 987683,
+      "num": 1911663,
       "word": "魏大勋帅得以为是孟宴臣来了",
       "onboard_time": 1690543172,
       "rank": 5,
@@ -116,11 +124,19 @@
     },
     {
       "raw_hot": 1816757,
-      "num": 696093,
+      "num": 995399,
       "word": "张子枫瘦好多",
       "onboard_time": 1690540712,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1769061,
+      "num": 1769061,
+      "word": "王霜点球罚进",
+      "onboard_time": 1690547914,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1740239,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 1645594,
-      "num": 922087,
+      "num": 1115609,
       "word": "张睿红牌",
       "onboard_time": 1690544312,
       "rank": 5,
@@ -177,6 +193,14 @@
       "onboard_time": 1690534954,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1549855,
+      "num": 1549855,
+      "word": "覃海洋200米蛙泳金牌",
+      "onboard_time": 1690547733,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1487768,
@@ -251,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1274475,
+      "num": 1274475,
+      "word": "开幕式熊猫好能蹦",
+      "onboard_time": 1690547312,
+      "rank": 14,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1244427,
       "num": 1244427,
       "word": "外交部网站发布王毅部长致辞",
       "onboard_time": 1690523794,
       "rank": 7,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1214541,
+      "num": 1214541,
+      "word": "科学家复活了46000年前的虫子",
+      "onboard_time": 1690544852,
+      "rank": 4,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1211907,
@@ -347,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1068946,
-      "num": 928551,
-      "word": "科学家复活了46000年前的虫子",
-      "onboard_time": 1690544852,
-      "rank": 4,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 1068739,
       "num": 1068739,
       "word": "treasure",
@@ -403,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1010903,
+      "num": 1010903,
+      "word": "大运会开幕从12开始倒数",
+      "onboard_time": 1690546292,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1010324,
       "num": 1010324,
       "word": "人间烟火受害人",
@@ -428,7 +468,7 @@
     },
     {
       "raw_hot": 964635,
-      "num": 514136,
+      "num": 531767,
       "word": "遭71岁老头扒坟辱尸老太家属发声",
       "onboard_time": 1690535853,
       "rank": 20,
@@ -539,20 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 817580,
-      "num": 668408,
-      "word": "大运会开幕从12开始倒数",
-      "onboard_time": 1690546292,
-      "rank": 12,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 809078,
       "num": 690414,
       "word": "e人的骨头长这样",
       "onboard_time": 1690534233,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 808472,
+      "num": 773183,
+      "word": "中国女足半场0比0海地女足",
+      "onboard_time": 1690546292,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 803455,
@@ -571,14 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 773183,
-      "num": 773183,
-      "word": "中国女足半场0比0海地女足",
-      "onboard_time": 1690546292,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 763048,
       "num": 592623,
       "word": "泉州",
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730060,
+      "num": 730060,
+      "word": "王霜替补上场",
+      "onboard_time": 1690547011,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 720473,
       "num": 569673,
       "word": "杜苏芮直播",
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 709479,
-      "num": 662909,
+      "num": 664459,
       "word": "杨紫要檀健次罚站",
       "onboard_time": 1690543770,
       "rank": 41,
@@ -659,12 +699,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 651963,
-      "num": 651963,
-      "word": "开幕式熊猫好能蹦",
-      "onboard_time": 1690547312,
-      "rank": 14,
-      "category": "体育,社会新闻"
+      "raw_hot": 656208,
+      "num": 656208,
+      "word": "中国女足1比0海地女足",
+      "onboard_time": 1690547973,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 642961,
@@ -681,6 +721,14 @@
       "onboard_time": 1690525295,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 640096,
+      "num": 640096,
+      "word": "王一博说我身体已经很好了",
+      "onboard_time": 1690545274,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 633617,
@@ -875,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517976,
-      "num": 517976,
-      "word": "王一博说我身体已经很好了",
-      "onboard_time": 1690545274,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 515698,
       "num": 515698,
       "word": "张晚意看杨紫邓为的眼神",
@@ -953,14 +993,6 @@
       "onboard_time": 1690474056,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478289,
-      "num": 478289,
-      "word": "王霜替补上场",
-      "onboard_time": 1690547011,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 473951,
@@ -1059,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447550,
+      "num": 447550,
+      "word": "覃海洋破世界纪录",
+      "onboard_time": 1690548456,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446944,
       "num": 446944,
       "word": "飞机上最适合拍照的位置是机尾",
@@ -1083,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 429835,
+      "num": 429835,
+      "word": "夭柳",
+      "onboard_time": 1690547312,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429401,
       "num": 429401,
       "word": "窦骁婚后首部作品",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1690470707,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 417856,
+      "num": 417856,
+      "word": "女足出线生死战",
+      "onboard_time": 1690542631,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 417620,
@@ -1219,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345592,
+      "num": 345592,
+      "word": "中餐厅",
+      "onboard_time": 1690547133,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344637,
       "num": 344637,
       "word": "乐队的夏天3要回来了",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1690515998,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326203,
+      "num": 326203,
+      "word": "女足直播",
+      "onboard_time": 1690542931,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 321393,
@@ -1299,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316352,
+      "num": 316352,
+      "word": "朱钰神扑",
+      "onboard_time": 1690547071,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315364,
       "num": 315364,
       "word": "台湾台风",
@@ -1321,14 +1401,6 @@
       "onboard_time": 1690502613,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306054,
-      "num": 306054,
-      "word": "女足出线生死战",
-      "onboard_time": 1690542631,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 302649,
@@ -1411,14 +1483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 285585,
-      "num": 285585,
-      "word": "女足直播",
-      "onboard_time": 1690542931,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284098,
       "num": 284098,
       "word": "中国男篮战胜埃及男篮",
@@ -1483,11 +1547,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266411,
-      "num": 266411,
-      "word": "中餐厅",
-      "onboard_time": 1690547133,
-      "rank": 34,
+      "raw_hot": 265814,
+      "num": 265814,
+      "word": "法医季2秦明第一个解剖的是熟人",
+      "onboard_time": 1690548213,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1531,14 +1595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 258664,
-      "num": 258664,
-      "word": "朱钰神扑",
-      "onboard_time": 1690547071,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 258012,
       "num": 258012,
       "word": "不剥橘子也能知道橘子瓣数",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1690505978,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 251389,
-      "num": 251389,
-      "word": "夭柳",
-      "onboard_time": 1690547312,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 250221,
@@ -1771,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210895,
+      "num": 210895,
+      "word": "娄佳惠好拼",
+      "onboard_time": 1690548456,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209207,
       "num": 209207,
       "word": "进一步落实降低购买首套房首付比例",
@@ -1849,6 +1905,14 @@
       "onboard_time": 1690528415,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194119,
+      "num": 194119,
+      "word": "游泳",
+      "onboard_time": 1690548336,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 193823,
@@ -2076,7 +2140,7 @@
     },
     {
       "raw_hot": 98927,
-      "num": 1469639,
+      "num": 2664456,
       "word": "成都大运会双语先导片",
       "onboard_time": 1690531175,
       "rank": 2,
@@ -2123,8 +2187,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 46784,
-      "num": 245844,
+      "raw_hot": 60645,
+      "num": 250235,
       "word": "大运会用的是转转官方验的二手机",
       "onboard_time": 1690545633,
       "rank": 39,
@@ -2151,6 +2215,9 @@
     },
     {
       "word": "#中圭两国要做彼此信赖相互倚重的好朋友#"
+    },
+    {
+      "word": "#直播大运会开幕#"
     }
   ]
 }
