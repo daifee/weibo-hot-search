@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690542835373,
+  "endTime": 1690544034078,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3891,6 +3891,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1816757,
+      "num": 618660,
+      "word": "张子枫瘦好多",
+      "onboard_time": 1690540712,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1816666,
       "num": 1195464,
       "word": "魏大勋的爆火意味着什么",
@@ -4009,14 +4017,6 @@
       "onboard_time": 1689122973,
       "rank": 3,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1793837,
-      "num": 618660,
-      "word": "张子枫瘦好多",
-      "onboard_time": 1690540712,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1791324,
@@ -6419,6 +6419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1369606,
+      "num": 1369606,
+      "word": "中国女足vs海地女足",
+      "onboard_time": 1690540892,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1368367,
       "num": 1368367,
       "word": "何非知道李木子无论如何都活不了",
@@ -7057,14 +7065,6 @@
       "onboard_time": 1688441676,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1284107,
-      "num": 1284107,
-      "word": "中国女足vs海地女足",
-      "onboard_time": 1690540892,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1280880,
@@ -8585,6 +8585,14 @@
       "onboard_time": 1690122163,
       "rank": 23,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1122362,
+      "num": 569440,
+      "word": "王一博说生病时在网上冲浪非常精彩",
+      "onboard_time": 1690542091,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 1121943,
@@ -10561,6 +10569,14 @@
       "onboard_time": 1689577230,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 987683,
+      "num": 987683,
+      "word": "魏大勋帅得以为是孟宴臣来了",
+      "onboard_time": 1690543172,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 987433,
@@ -17539,6 +17555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690629,
+      "num": 690629,
+      "word": "阿那亚活动",
+      "onboard_time": 1690541314,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 690478,
       "num": 310970,
       "word": "想你的365天",
@@ -22067,14 +22091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578377,
-      "num": 578377,
-      "word": "阿那亚活动",
-      "onboard_time": 1690541314,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 578370,
       "num": 436880,
       "word": "女子擤鼻涕擤出息肉血流不止",
@@ -22377,6 +22393,14 @@
       "onboard_time": 1690165772,
       "rank": 36,
       "category": "音乐,情感"
+    },
+    {
+      "raw_hot": 571820,
+      "num": 571820,
+      "word": "中国好声音",
+      "onboard_time": 1688480200,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 571725,
@@ -24627,6 +24651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522481,
+      "num": 442630,
+      "word": "好友称刀郎不可能写歌骂人",
+      "onboard_time": 1690540115,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 522316,
       "num": 344992,
       "word": "警方通报男子将妻子捅伤致死",
@@ -24947,14 +24979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 514822,
-      "num": 514822,
-      "word": "王一博说生病时在网上冲浪非常精彩",
-      "onboard_time": 1690542091,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 514689,
       "num": 514689,
       "word": "三亚被偷住别墅喝光茅台房主是痞幼",
@@ -25073,14 +25097,6 @@
       "onboard_time": 1689313599,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 512760,
-      "num": 512760,
-      "word": "中国好声音",
-      "onboard_time": 1688480200,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 512676,
@@ -25233,6 +25249,14 @@
       "onboard_time": 1689144392,
       "rank": 20,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 510885,
+      "num": 1115635,
+      "word": "狗狗落水被冲走主人一次次营救",
+      "onboard_time": 1690542572,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510721,
@@ -29425,14 +29449,6 @@
       "onboard_time": 1688810313,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442630,
-      "num": 442630,
-      "word": "好友称刀郎不可能写歌骂人",
-      "onboard_time": 1690540115,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 442617,
@@ -43619,6 +43635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285585,
+      "num": 285585,
+      "word": "女足直播",
+      "onboard_time": 1690542931,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285519,
       "num": 351547,
       "word": "清清又肉又扭",
@@ -44625,6 +44649,14 @@
       "onboard_time": 1690013011,
       "rank": 35,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 276881,
+      "num": 276881,
+      "word": "女足出线生死战",
+      "onboard_time": 1690542631,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 276862,
@@ -46657,6 +46689,14 @@
       "onboard_time": 1689216813,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260654,
+      "num": 1033256,
+      "word": "孙女被水烫到爷爷心疼紧抱不放",
+      "onboard_time": 1690543292,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260629,
@@ -51995,6 +52035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221768,
+      "num": 221768,
+      "word": "游泳世锦赛",
+      "onboard_time": 1690114652,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221709,
       "num": 289248,
       "word": "夏凌",
@@ -52321,14 +52369,6 @@
       "onboard_time": 1690087651,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219085,
-      "num": 219085,
-      "word": "游泳世锦赛",
-      "onboard_time": 1690114652,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 219056,
@@ -53507,6 +53547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211815,
+      "num": 211815,
+      "word": "杨紫要檀健次罚站",
+      "onboard_time": 1690543770,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211814,
       "num": 211814,
       "word": "大爷住院请假回家了",
@@ -53993,14 +54041,6 @@
       "onboard_time": 1690079309,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208971,
-      "num": 208971,
-      "word": "女足出线生死战",
-      "onboard_time": 1690542631,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 208939,
@@ -62371,6 +62411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146195,
+      "num": 146195,
+      "word": "DRG对战LGD",
+      "onboard_time": 1690544011,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146169,
       "num": 146169,
       "word": "艾伦沈腾新片今日上映",
@@ -66456,14 +66504,6 @@
       "word": "雨天积水伴郎团蹚水抬新娘进门",
       "onboard_time": 1688495835,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36629,
-      "num": 579272,
-      "word": "狗狗落水被冲走主人一次次营救",
-      "onboard_time": 1690542572,
-      "rank": 13,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690542835373,
+  "endTime": 1690544034078,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -675,7 +675,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1793837,
+      "raw_hot": 1816757,
       "num": 618660,
       "word": "张子枫瘦好多",
       "onboard_time": 1690540712,
@@ -1187,6 +1187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1369606,
+      "num": 1369606,
+      "word": "中国女足vs海地女足",
+      "onboard_time": 1690540892,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1368058,
       "num": 1368058,
       "word": "厦门7月27日15时起三停一休",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1690272396,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1284107,
-      "num": 1284107,
-      "word": "中国女足vs海地女足",
-      "onboard_time": 1690540892,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1269855,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1690122163,
       "rank": 1,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1122362,
+      "num": 569440,
+      "word": "王一博说生病时在网上冲浪非常精彩",
+      "onboard_time": 1690542091,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 1120790,
@@ -2017,6 +2025,14 @@
       "onboard_time": 1690243774,
       "rank": 7,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 987683,
+      "num": 987683,
+      "word": "魏大勋帅得以为是孟宴臣来了",
+      "onboard_time": 1690543172,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 981231,
@@ -3243,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690629,
+      "num": 690629,
+      "word": "阿那亚活动",
+      "onboard_time": 1690541314,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 690143,
       "num": 432393,
       "word": "凌晨一点听到爸爸在客厅抽泣",
@@ -4131,14 +4155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 578377,
-      "num": 578377,
-      "word": "阿那亚活动",
-      "onboard_time": 1690541314,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 575978,
       "num": 575978,
       "word": "看出来张晚意真的很急",
@@ -4193,6 +4209,14 @@
       "onboard_time": 1690165772,
       "rank": 36,
       "category": "音乐,情感"
+    },
+    {
+      "raw_hot": 571820,
+      "num": 571820,
+      "word": "中国好声音",
+      "onboard_time": 1690538673,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 570357,
@@ -4555,6 +4579,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 522481,
+      "num": 442630,
+      "word": "好友称刀郎不可能写歌骂人",
+      "onboard_time": 1690540115,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 521499,
       "num": 521499,
       "word": "封神中弑父情节",
@@ -4611,14 +4643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 514822,
-      "num": 514822,
-      "word": "王一博说生病时在网上冲浪非常精彩",
-      "onboard_time": 1690542091,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 514654,
       "num": 514654,
       "word": "王者荣耀",
@@ -4667,14 +4691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 512760,
-      "num": 512760,
-      "word": "中国好声音",
-      "onboard_time": 1690538673,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 512432,
       "num": 437456,
       "word": "姥姥说给我做了几件泳衣",
@@ -4696,6 +4712,14 @@
       "word": "上海一女子偷奢侈品后发朋友圈炫耀",
       "onboard_time": 1690183115,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510885,
+      "num": 1115635,
+      "word": "狗狗落水被冲走主人一次次营救",
+      "onboard_time": 1690542572,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5465,14 +5489,6 @@
       "onboard_time": 1690361444,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 442630,
-      "num": 442630,
-      "word": "好友称刀郎不可能写歌骂人",
-      "onboard_time": 1690540115,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 441567,
@@ -7883,6 +7899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285585,
+      "num": 285585,
+      "word": "女足直播",
+      "onboard_time": 1690542931,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284877,
       "num": 246315,
       "word": "刘耀文太敢说了",
@@ -8009,6 +8033,14 @@
       "onboard_time": 1690177596,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276881,
+      "num": 276881,
+      "word": "女足出线生死战",
+      "onboard_time": 1690542631,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 276862,
@@ -8312,6 +8344,14 @@
       "word": "小伙被缅北放回后与妈妈抱头痛哭",
       "onboard_time": 1690204596,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260654,
+      "num": 1033256,
+      "word": "孙女被水烫到爷爷心疼紧抱不放",
+      "onboard_time": 1690543292,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -9139,6 +9179,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 221768,
+      "num": 221768,
+      "word": "游泳世锦赛",
+      "onboard_time": 1690543712,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221724,
       "num": 221724,
       "word": "怦然心动20岁",
@@ -9291,6 +9339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211815,
+      "num": 211815,
+      "word": "杨紫要檀健次罚站",
+      "onboard_time": 1690543770,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211622,
       "num": 240815,
       "word": "女儿看到妈妈30年前论文都结巴了",
@@ -9369,14 +9425,6 @@
       "onboard_time": 1690451556,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208971,
-      "num": 208971,
-      "word": "女足出线生死战",
-      "onboard_time": 1690542631,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 208625,
@@ -10723,6 +10771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146195,
+      "num": 146195,
+      "word": "DRG对战LGD",
+      "onboard_time": 1690544011,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145315,
       "num": 145315,
       "word": "石家庄大风",
@@ -11393,14 +11449,6 @@
       "onboard_time": 1690225754,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36629,
-      "num": 579272,
-      "word": "狗狗落水被冲走主人一次次营救",
-      "onboard_time": 1690542572,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31492,

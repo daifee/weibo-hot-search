@@ -1,0 +1,410 @@
+{
+  "runTime": 1690544034078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369606,
+        "num": 1369606,
+        "word": "中国女足vs海地女足",
+        "onboard_time": 1690540892,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510885,
+        "num": 1115635,
+        "word": "狗狗落水被冲走主人一次次营救",
+        "onboard_time": 1690542572,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75633,
+        "num": 1107512,
+        "word": "成都大运会双语先导片",
+        "onboard_time": 1690531175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103391,
+        "num": 1103391,
+        "word": "台风杜苏芮登陆晋江",
+        "onboard_time": 1690510420,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260654,
+        "num": 1033256,
+        "word": "孙女被水烫到爷爷心疼紧抱不放",
+        "onboard_time": 1690543292,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987683,
+        "num": 987683,
+        "word": "魏大勋帅得以为是孟宴臣来了",
+        "onboard_time": 1690543172,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77124,
+        "num": 975015,
+        "word": "一人一句为大运健儿加油",
+        "onboard_time": 1690537833,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 967251,
+        "num": 967251,
+        "word": "魏大勋刚进组vs减肥20斤后",
+        "onboard_time": 1690537713,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 690629,
+        "num": 690629,
+        "word": "阿那亚活动",
+        "onboard_time": 1690541314,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571820,
+        "num": 571820,
+        "word": "中国好声音",
+        "onboard_time": 1690538673,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1816757,
+        "num": 571203,
+        "word": "张子枫瘦好多",
+        "onboard_time": 1690540712,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1401336,
+        "num": 571194,
+        "word": "杜苏芮强得离谱 路径妖得要命",
+        "onboard_time": 1690525717,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122362,
+        "num": 569440,
+        "word": "王一博说生病时在网上冲浪非常精彩",
+        "onboard_time": 1690542091,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567089,
+        "num": 567089,
+        "word": "李现跑着拥抱吴彦姝",
+        "onboard_time": 1690534954,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 911278,
+        "num": 566695,
+        "word": "杜苏芮已造成福建72.46万余人受灾",
+        "onboard_time": 1690532075,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546447,
+        "num": 546447,
+        "word": "小夭相柳海底吻",
+        "onboard_time": 1690534892,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370830,
+        "num": 370830,
+        "word": "成都大运会",
+        "onboard_time": 1690532976,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538896,
+        "num": 369631,
+        "word": "长相思海外评分2.9分",
+        "onboard_time": 1690530215,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517270,
+        "num": 368883,
+        "word": "济南暴雨",
+        "onboard_time": 1690537355,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366754,
+        "num": 366754,
+        "word": "treasure",
+        "onboard_time": 1690537297,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 622216,
+        "num": 363467,
+        "word": "遭71岁老头扒坟辱尸老太家属发声",
+        "onboard_time": 1690535853,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522481,
+        "num": 358510,
+        "word": "好友称刀郎不可能写歌骂人",
+        "onboard_time": 1690540115,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 494660,
+        "num": 345243,
+        "word": "晋江台风",
+        "onboard_time": 1690520860,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396932,
+        "num": 337812,
+        "word": "飞机上最适合拍照的位置是机尾",
+        "onboard_time": 1690541071,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337145,
+        "num": 337145,
+        "word": "韩团队称合成世界首个室温常压超导体",
+        "onboard_time": 1690536274,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312198,
+        "num": 312198,
+        "word": "瘦了12斤内脏脂肪掉了35平方厘米",
+        "onboard_time": 1690518462,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311492,
+        "num": 311492,
+        "word": "为什么平板比手机便宜",
+        "onboard_time": 1690536094,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 296489,
+        "num": 296489,
+        "word": "山东台风",
+        "onboard_time": 1690538793,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286407,
+        "num": 286407,
+        "word": "刀郎",
+        "onboard_time": 1690537896,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285585,
+        "num": 285585,
+        "word": "女足直播",
+        "onboard_time": 1690542931,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276881,
+        "num": 276881,
+        "word": "女足出线生死战",
+        "onboard_time": 1690542631,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270752,
+        "num": 270752,
+        "word": "e人的骨头长这样",
+        "onboard_time": 1690534233,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269453,
+        "num": 269453,
+        "word": "徐艺洋说黄子韬穿假货",
+        "onboard_time": 1690528835,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248482,
+        "num": 248482,
+        "word": "大鹏说王一博和陈烁已经融为一体",
+        "onboard_time": 1690540770,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234301,
+        "num": 234301,
+        "word": "性侵女学生后男子说自己性功能障碍",
+        "onboard_time": 1690512339,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233190,
+        "num": 233190,
+        "word": "杜苏芮",
+        "onboard_time": 1690528715,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410745,
+        "num": 232741,
+        "word": "独居女生被撬门狗狗狂吠吓跑对方",
+        "onboard_time": 1690527935,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228585,
+        "num": 228585,
+        "word": "封神",
+        "onboard_time": 1690537174,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224313,
+        "num": 224313,
+        "word": "TFBOYS十周年演唱会出座位了",
+        "onboard_time": 1690529615,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221768,
+        "num": 221768,
+        "word": "游泳世锦赛",
+        "onboard_time": 1690543712,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212445,
+        "num": 212445,
+        "word": "邓为随地乱扔烟头",
+        "onboard_time": 1690515459,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211815,
+        "num": 211815,
+        "word": "杨紫要檀健次罚站",
+        "onboard_time": 1690543770,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190533,
+        "num": 190533,
+        "word": "原来大家的开车精神状态都一样",
+        "onboard_time": 1690533636,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185252,
+        "num": 185252,
+        "word": "苏醒家庭内卷",
+        "onboard_time": 1690539334,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174606,
+        "num": 174606,
+        "word": "费翔 她是我的哈基米",
+        "onboard_time": 1690520200,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169135,
+        "num": 169135,
+        "word": "超导",
+        "onboard_time": 1690536753,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 166510,
+        "num": 166510,
+        "word": "薛之谦坐在刘宪华身上",
+        "onboard_time": 1690535793,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156922,
+        "num": 156922,
+        "word": "封神票房",
+        "onboard_time": 1690531534,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155154,
+        "num": 155154,
+        "word": "人民文娱评封神第一部",
+        "onboard_time": 1690527036,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146195,
+        "num": 146195,
+        "word": "DRG对战LGD",
+        "onboard_time": 1690544011,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席开幕式并宣布大运会开幕#"
+    }
+  }
+}
