@@ -1,0 +1,410 @@
+{
+  "runTime": 1690522435164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2924904,
+        "num": 2924904,
+        "word": "杜苏芮路径",
+        "onboard_time": 1690454734,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2269686,
+        "num": 2269686,
+        "word": "微信已把帐号改为账号",
+        "onboard_time": 1690507657,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 83073,
+        "num": 1836825,
+        "word": "青春主场",
+        "onboard_time": 1690513900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1664512,
+        "num": 1664512,
+        "word": "晋江台风",
+        "onboard_time": 1690520860,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1471758,
+        "num": 1471758,
+        "word": "费翔 她是我的哈基米",
+        "onboard_time": 1690520200,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 874907,
+        "num": 874907,
+        "word": "杨紫回应剧不虐不接",
+        "onboard_time": 1690520079,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1441849,
+        "num": 866621,
+        "word": "泉州海峡体育中心顶篷被狂风吹走",
+        "onboard_time": 1690517259,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 727235,
+        "num": 727235,
+        "word": "甄子丹女儿出道",
+        "onboard_time": 1690518639,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 614832,
+        "num": 614832,
+        "word": "杨洋 谢谢大家的包容与陪伴批评和建议",
+        "onboard_time": 1690466680,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1323028,
+        "num": 610694,
+        "word": "五月天泉州 只剩倾盆的思念",
+        "onboard_time": 1690518219,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1847800,
+        "num": 602414,
+        "word": "邓为随地乱扔烟头",
+        "onboard_time": 1690515459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584774,
+        "num": 584774,
+        "word": "丫丫小脸圆到一眼没认出来",
+        "onboard_time": 1690509580,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939104,
+        "num": 554770,
+        "word": "台风杜苏芮登陆晋江",
+        "onboard_time": 1690510420,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521396,
+        "num": 521396,
+        "word": "王鹤棣段小薇合作新歌MV",
+        "onboard_time": 1690514919,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 513561,
+        "num": 513561,
+        "word": "龚俊问40集吻戏拍什么戏这是",
+        "onboard_time": 1690521459,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 683280,
+        "num": 483589,
+        "word": "厦门暴雨似飞瀑倾泄而下",
+        "onboard_time": 1690509817,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443621,
+        "num": 443621,
+        "word": "韩国超导",
+        "onboard_time": 1690513659,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 429401,
+        "num": 429401,
+        "word": "窦骁婚后首部作品",
+        "onboard_time": 1690521579,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419484,
+        "num": 419484,
+        "word": "个人住房贷款认房不认贷",
+        "onboard_time": 1690507234,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380878,
+        "num": 380878,
+        "word": "迪丽热巴或将演英雄联盟",
+        "onboard_time": 1690521873,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 904052,
+        "num": 380621,
+        "word": "人间烟火受害人",
+        "onboard_time": 1690516601,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1425762,
+        "num": 376915,
+        "word": "瘦了12斤内脏脂肪掉了35cm",
+        "onboard_time": 1690518462,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 874057,
+        "num": 375416,
+        "word": "性侵女学生后男子说自己性功能障碍",
+        "onboard_time": 1690512339,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779523,
+        "num": 374040,
+        "word": "微信式恋爱",
+        "onboard_time": 1690517922,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456967,
+        "num": 370396,
+        "word": "姥姥说给我做了几件泳衣",
+        "onboard_time": 1690519602,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 435343,
+        "num": 369208,
+        "word": "公公嫌儿媳乱花钱一脚踢裂其脾脏",
+        "onboard_time": 1690507234,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367250,
+        "num": 367250,
+        "word": "李玟丈夫发声明",
+        "onboard_time": 1690510600,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365456,
+        "num": 365456,
+        "word": "杜苏芮卡努双台风",
+        "onboard_time": 1690501349,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293078,
+        "num": 293078,
+        "word": "龚俊说迪丽热巴平易近人也很搞笑",
+        "onboard_time": 1690521579,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283749,
+        "num": 283749,
+        "word": "中国好声音今晚开播",
+        "onboard_time": 1690516959,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325133,
+        "num": 283033,
+        "word": "台风天上班",
+        "onboard_time": 1690508739,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287840,
+        "num": 282987,
+        "word": "女子网购鲍鱼干竟跟葡萄干一样小",
+        "onboard_time": 1690522057,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282148,
+        "num": 282148,
+        "word": "大宋少年志2定档",
+        "onboard_time": 1690513238,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311597,
+        "num": 281429,
+        "word": "猫咪杜苏芮大风中坐的超稳",
+        "onboard_time": 1690519660,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279776,
+        "num": 279776,
+        "word": "张元英坐姿",
+        "onboard_time": 1690514499,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271582,
+        "num": 271582,
+        "word": "单依纯让张大大离她远一点",
+        "onboard_time": 1690508918,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301271,
+        "num": 271122,
+        "word": "卡努",
+        "onboard_time": 1690499424,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256678,
+        "num": 256678,
+        "word": "男子跪地六小时求婚昏倒",
+        "onboard_time": 1690521760,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249569,
+        "num": 249569,
+        "word": "封神里的玉环是还家的还",
+        "onboard_time": 1690517017,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248095,
+        "num": 248095,
+        "word": "乐队的夏天3要回来了",
+        "onboard_time": 1690519543,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236896,
+        "num": 236896,
+        "word": "小浣熊一觉醒来家被拆了",
+        "onboard_time": 1690518821,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224863,
+        "num": 224863,
+        "word": "杜苏芮登陆晋江现末日场景",
+        "onboard_time": 1690521519,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221199,
+        "num": 223631,
+        "word": "TFBOYS十周年不应援了",
+        "onboard_time": 1690470283,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206156,
+        "num": 223320,
+        "word": "大宋少年志2",
+        "onboard_time": 1690521275,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223076,
+        "num": 223076,
+        "word": "晋江",
+        "onboard_time": 1690505258,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206065,
+        "num": 222594,
+        "word": "同事说找到了好用的脸基尼",
+        "onboard_time": 1690520981,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192388,
+        "num": 222446,
+        "word": "Utopia",
+        "onboard_time": 1690519301,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188486,
+        "num": 222398,
+        "word": "东北小伙模仿老大爷喝酒",
+        "onboard_time": 1690522235,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222395,
+        "num": 222395,
+        "word": "晋江台风现场",
+        "onboard_time": 1690516299,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173368,
+        "num": 222392,
+        "word": "英雄联盟",
+        "onboard_time": 1690522416,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席开幕式并宣布大运会开幕#"
+    }
+  }
+}

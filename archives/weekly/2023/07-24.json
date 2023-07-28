@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690521335113,
+  "endTime": 1690522435164,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -771,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1664512,
+      "num": 1664512,
+      "word": "晋江台风",
+      "onboard_time": 1690520860,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1664387,
       "num": 1664387,
       "word": "杜苏芮核心区 创纪录的狂风暴雨",
@@ -955,6 +963,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1471758,
+      "num": 1471758,
+      "word": "费翔 她是我的哈基米",
+      "onboard_time": 1690520200,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1470237,
       "num": 709290,
       "word": "UFO",
@@ -1035,7 +1051,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1419151,
+      "raw_hot": 1425762,
       "num": 513614,
       "word": "瘦了12斤内脏脂肪掉了35cm",
       "onboard_time": 1690518462,
@@ -1153,14 +1169,6 @@
       "onboard_time": 1690510600,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1348961,
-      "num": 751540,
-      "word": "晋江台风",
-      "onboard_time": 1690520860,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1348537,
@@ -1843,14 +1851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 997724,
-      "num": 997724,
-      "word": "费翔 她是我的哈基米",
-      "onboard_time": 1690520200,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 996446,
       "num": 996446,
       "word": "iPhone15将采用叠层电池",
@@ -2241,6 +2241,14 @@
       "onboard_time": 1690376316,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 874907,
+      "num": 874907,
+      "word": "杨紫回应剧不虐不接",
+      "onboard_time": 1690520079,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 873947,
@@ -3571,14 +3579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 620355,
-      "num": 620355,
-      "word": "杨紫回应剧不虐不接",
-      "onboard_time": 1690520079,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 616222,
       "num": 403307,
       "word": "许沁婚礼伴手礼",
@@ -4345,6 +4345,14 @@
       "onboard_time": 1690259079,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513561,
+      "num": 513561,
+      "word": "龚俊问40集吻戏拍什么戏这是",
+      "onboard_time": 1690521459,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 513415,
@@ -5307,6 +5315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429401,
+      "num": 429401,
+      "word": "窦骁婚后首部作品",
+      "onboard_time": 1690521579,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429285,
       "num": 356693,
       "word": "张惠妹在澳洲偶遇周杰伦",
@@ -5881,6 +5897,14 @@
       "onboard_time": 1690240945,
       "rank": 30,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 380878,
+      "num": 380878,
+      "word": "迪丽热巴或将演英雄联盟",
+      "onboard_time": 1690521873,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 379443,
@@ -6796,7 +6820,7 @@
     },
     {
       "raw_hot": 321393,
-      "num": 273194,
+      "num": 281429,
       "word": "猫咪杜苏芮大风中坐的超稳",
       "onboard_time": 1690519660,
       "rank": 36,
@@ -7267,6 +7291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293078,
+      "num": 293078,
+      "word": "龚俊说迪丽热巴平易近人也很搞笑",
+      "onboard_time": 1690521579,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292419,
       "num": 292419,
       "word": "娜扎新电影好多小狗",
@@ -7369,6 +7401,14 @@
       "onboard_time": 1690453355,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287840,
+      "num": 282987,
+      "word": "女子网购鲍鱼干竟跟葡萄干一样小",
+      "onboard_time": 1690522057,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287521,
@@ -7929,6 +7969,14 @@
       "onboard_time": 1690202614,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256678,
+      "num": 256678,
+      "word": "男子跪地六小时求婚昏倒",
+      "onboard_time": 1690521760,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256248,
@@ -8537,6 +8585,14 @@
       "onboard_time": 1690169137,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224863,
+      "num": 224863,
+      "word": "杜苏芮登陆晋江现末日场景",
+      "onboard_time": 1690521519,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223636,
@@ -9523,6 +9579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188486,
+      "num": 222398,
+      "word": "东北小伙模仿老大爷喝酒",
+      "onboard_time": 1690522235,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188144,
       "num": 188144,
       "word": "陈楚生演唱会",
@@ -9793,6 +9857,14 @@
       "onboard_time": 1690358556,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173368,
+      "num": 222392,
+      "word": "英雄联盟",
+      "onboard_time": 1690522416,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 173143,
