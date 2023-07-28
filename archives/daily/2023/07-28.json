@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690512052309,
+  "endTime": 1690514219618,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -35,6 +35,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1985912,
+      "num": 1315019,
+      "word": "厦门暴雨似飞瀑倾泄而下",
+      "onboard_time": 1690509817,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1664387,
       "num": 1664387,
       "word": "杜苏芮核心区 创纪录的狂风暴雨",
@@ -47,6 +55,14 @@
       "num": 473618,
       "word": "公公嫌儿媳乱花钱一脚踢裂其脾脏",
       "onboard_time": 1690507234,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1487768,
+      "num": 367770,
+      "word": "性侵女学生后男子说自己性功能障碍",
+      "onboard_time": 1690512339,
       "rank": 20,
       "category": "社会新闻"
     },
@@ -67,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1315019,
-      "num": 1315019,
-      "word": "厦门暴雨似飞瀑倾泄而下",
-      "onboard_time": 1690509817,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1352115,
+      "num": 1352115,
+      "word": "李玟丈夫发声明",
+      "onboard_time": 1690510600,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1211907,
@@ -89,14 +105,6 @@
       "onboard_time": 1690501349,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1172281,
-      "num": 929774,
-      "word": "李玟丈夫发声明",
-      "onboard_time": 1690510600,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1120790,
@@ -209,6 +217,14 @@
       "onboard_time": 1690499003,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799480,
+      "num": 799480,
+      "word": "大宋少年志2定档",
+      "onboard_time": 1690513238,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 789985,
@@ -329,6 +345,14 @@
       "onboard_time": 1690510300,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 558123,
+      "num": 479663,
+      "word": "福州镇海楼",
+      "onboard_time": 1690511738,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518386,
@@ -707,6 +731,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 242601,
+      "num": 242601,
+      "word": "电影热烈今日上映",
+      "onboard_time": 1690513059,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237543,
       "num": 237543,
       "word": "紫为星",
@@ -771,12 +803,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208397,
-      "num": 208397,
-      "word": "福州镇海楼",
-      "onboard_time": 1690511738,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 206260,
+      "num": 206260,
+      "word": "韩国超导",
+      "onboard_time": 1690513659,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 205133,
@@ -804,7 +836,7 @@
     },
     {
       "raw_hot": 185623,
-      "num": 185623,
+      "num": 206257,
       "word": "烟台狂风暴雨敢出去救人的两位大哥",
       "onboard_time": 1690508197,
       "rank": 48,
@@ -867,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163208,
+      "num": 206247,
+      "word": "相柳是在自卑吗",
+      "onboard_time": 1690509519,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156049,
       "num": 199659,
       "word": "EDG",
@@ -896,6 +936,14 @@
       "word": "唐山大地震47周年祭",
       "onboard_time": 1690500507,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139157,
+      "num": 349139,
+      "word": "下一辆15万级新能源爆款",
+      "onboard_time": 1690511139,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -931,11 +979,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 78787,
-      "num": 349139,
-      "word": "下一辆15万级新能源爆款",
-      "onboard_time": 1690511139,
-      "rank": 42,
+      "raw_hot": 74436,
+      "num": 2093067,
+      "word": "青春主场",
+      "onboard_time": 1690513900,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

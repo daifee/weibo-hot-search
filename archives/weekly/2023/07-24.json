@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690512052309,
+  "endTime": 1690514219618,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1985912,
+      "num": 1315019,
+      "word": "厦门暴雨似飞瀑倾泄而下",
+      "onboard_time": 1690509817,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1948787,
       "num": 590237,
       "word": "肖战邓为撞脸",
@@ -891,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1487768,
+      "num": 367770,
+      "word": "性侵女学生后男子说自己性功能障碍",
+      "onboard_time": 1690512339,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1484059,
       "num": 1484059,
       "word": "优酷称TFBOYS线上票不限量",
@@ -1099,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1352115,
+      "num": 1352115,
+      "word": "李玟丈夫发声明",
+      "onboard_time": 1690510600,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1348537,
       "num": 1348537,
       "word": "他大概没想过以后会过的那么苦",
@@ -1136,14 +1160,6 @@
       "word": "男子游泳大便致泳池被抽干",
       "onboard_time": 1690175077,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1315019,
-      "num": 1315019,
-      "word": "厦门暴雨似飞瀑倾泄而下",
-      "onboard_time": 1690509817,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1377,14 +1393,6 @@
       "onboard_time": 1690244315,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1172281,
-      "num": 929774,
-      "word": "李玟丈夫发声明",
-      "onboard_time": 1690510600,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1169838,
@@ -2384,6 +2392,14 @@
       "word": "杨紫工作室再也不皮了",
       "onboard_time": 1690265263,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 799480,
+      "num": 799480,
+      "word": "大宋少年志2定档",
+      "onboard_time": 1690513238,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -3913,6 +3929,14 @@
       "onboard_time": 1690261844,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 558123,
+      "num": 479663,
+      "word": "福州镇海楼",
+      "onboard_time": 1690511738,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556059,
@@ -7955,6 +7979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242601,
+      "num": 242601,
+      "word": "电影热烈今日上映",
+      "onboard_time": 1690513059,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240217,
       "num": 240217,
       "word": "台风杜苏芮将对上海产生影响",
@@ -8571,14 +8603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208397,
-      "num": 208397,
-      "word": "福州镇海楼",
-      "onboard_time": 1690511738,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208381,
       "num": 208381,
       "word": "被维护的感觉真好",
@@ -8657,6 +8681,14 @@
       "onboard_time": 1690346438,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206260,
+      "num": 206260,
+      "word": "韩国超导",
+      "onboard_time": 1690513659,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 206140,
@@ -9364,7 +9396,7 @@
     },
     {
       "raw_hot": 185623,
-      "num": 185623,
+      "num": 206257,
       "word": "烟台狂风暴雨敢出去救人的两位大哥",
       "onboard_time": 1690508197,
       "rank": 48,
@@ -9699,6 +9731,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 163208,
+      "num": 206247,
+      "word": "相柳是在自卑吗",
+      "onboard_time": 1690509519,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163145,
       "num": 170915,
       "word": "查理苏",
@@ -9857,6 +9897,14 @@
       "onboard_time": 1690390885,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139157,
+      "num": 349139,
+      "word": "下一辆15万级新能源爆款",
+      "onboard_time": 1690511139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138521,
@@ -10283,20 +10331,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 78787,
-      "num": 349139,
-      "word": "下一辆15万级新能源爆款",
-      "onboard_time": 1690511139,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77930,
       "num": 107541,
       "word": "sky光遇",
       "onboard_time": 1690390107,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 74436,
+      "num": 2093067,
+      "word": "青春主场",
+      "onboard_time": 1690513900,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73586,
