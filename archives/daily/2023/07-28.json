@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690548626807,
+  "endTime": 1690550444553,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2842292,
+      "num": 2842292,
+      "word": "中国女足赢了",
+      "onboard_time": 1690549597,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2815848,
       "num": 2815848,
       "word": "微信已把帐号改为账号",
@@ -67,20 +75,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2556731,
+      "num": 2556731,
+      "word": "魏大勋帅得以为是孟宴臣来了",
+      "onboard_time": 1690543172,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2376673,
+      "num": 2376673,
+      "word": "中国女足1比0海地女足",
+      "onboard_time": 1690547973,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2164126,
       "num": 1371821,
       "word": "杜苏芮已造成福建72.46万余人受灾",
       "onboard_time": 1690532075,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2115969,
-      "num": 1911663,
-      "word": "魏大勋帅得以为是孟宴臣来了",
-      "onboard_time": 1690543172,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2026763,
@@ -124,11 +140,19 @@
     },
     {
       "raw_hot": 1816757,
-      "num": 995399,
+      "num": 1199716,
       "word": "张子枫瘦好多",
       "onboard_time": 1690540712,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1776723,
+      "num": 1217131,
+      "word": "日本队出场安静如鸡",
+      "onboard_time": 1690549294,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1769061,
@@ -251,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1379143,
+      "num": 1379143,
+      "word": "科学家复活了46000年前的虫子",
+      "onboard_time": 1690544852,
+      "rank": 4,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1369606,
       "num": 1369606,
       "word": "中国女足vs海地女足",
@@ -275,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1285433,
+      "num": 1285433,
+      "word": "大运会开幕从12开始倒数",
+      "onboard_time": 1690546292,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1274475,
       "num": 1274475,
       "word": "开幕式熊猫好能蹦",
@@ -289,14 +329,6 @@
       "onboard_time": 1690523794,
       "rank": 7,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1214541,
-      "num": 1214541,
-      "word": "科学家复活了46000年前的虫子",
-      "onboard_time": 1690544852,
-      "rank": 4,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1211907,
@@ -435,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1010903,
-      "num": 1010903,
-      "word": "大运会开幕从12开始倒数",
-      "onboard_time": 1690546292,
-      "rank": 12,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 1010324,
       "num": 1010324,
       "word": "人间烟火受害人",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 964635,
-      "num": 531767,
+      "num": 596494,
       "word": "遭71岁老头扒坟辱尸老太家属发声",
       "onboard_time": 1690535853,
       "rank": 20,
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 784886,
+      "num": 784886,
+      "word": "覃海洋破世界纪录",
+      "onboard_time": 1690548456,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 763048,
       "num": 592623,
       "word": "泉州",
@@ -627,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751653,
+      "num": 751653,
+      "word": "王一博说我身体已经很好了",
+      "onboard_time": 1690545274,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 730060,
       "num": 730060,
       "word": "王霜替补上场",
@@ -641,6 +681,14 @@
       "onboard_time": 1690510657,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718823,
+      "num": 718823,
+      "word": "中国好声音",
+      "onboard_time": 1690538673,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 709479,
@@ -699,14 +747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 656208,
-      "num": 656208,
-      "word": "中国女足1比0海地女足",
-      "onboard_time": 1690547973,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 642961,
       "num": 470521,
       "word": "印度男子无力还债目睹妻子被侵犯",
@@ -721,14 +761,6 @@
       "onboard_time": 1690525295,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 640096,
-      "num": 640096,
-      "word": "王一博说我身体已经很好了",
-      "onboard_time": 1690545274,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 633617,
@@ -819,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 596457,
+      "num": 596457,
+      "word": "夭玹",
+      "onboard_time": 1690548934,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591353,
       "num": 475285,
       "word": "台风天上班",
@@ -857,14 +897,6 @@
       "onboard_time": 1690522416,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 571820,
-      "num": 571820,
-      "word": "中国好声音",
-      "onboard_time": 1690538673,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 552146,
@@ -1003,6 +1035,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472809,
+      "num": 472809,
+      "word": "伊拉克女棋手美炸了",
+      "onboard_time": 1690549233,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 472274,
+      "num": 472274,
+      "word": "法医季2秦明第一个解剖的是熟人",
+      "onboard_time": 1690548213,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471854,
       "num": 321131,
       "word": "警惕杜苏芮靠近后风雨突然增强",
@@ -1051,6 +1099,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 458363,
+      "num": 458363,
+      "word": "女足出线生死战",
+      "onboard_time": 1690542631,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453763,
       "num": 367330,
       "word": "原来大家的开车精神状态都一样",
@@ -1089,14 +1145,6 @@
       "onboard_time": 1690521519,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447550,
-      "num": 447550,
-      "word": "覃海洋破世界纪录",
-      "onboard_time": 1690548456,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 446944,
@@ -1147,20 +1195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428928,
+      "num": 428928,
+      "word": "朱钰神扑",
+      "onboard_time": 1690547071,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424301,
       "num": 307054,
       "word": "姬发",
       "onboard_time": 1690470707,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 417856,
-      "num": 417856,
-      "word": "女足出线生死战",
-      "onboard_time": 1690542631,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 417620,
@@ -1275,8 +1323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345592,
-      "num": 345592,
+      "raw_hot": 353492,
+      "num": 353492,
       "word": "中餐厅",
       "onboard_time": 1690547133,
       "rank": 34,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1690542931,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322328,
+      "num": 322328,
+      "word": "莲花楼 逻辑自洽的改编",
+      "onboard_time": 1690549294,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 321393,
@@ -1369,14 +1425,6 @@
       "onboard_time": 1690473337,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316352,
-      "num": 316352,
-      "word": "朱钰神扑",
-      "onboard_time": 1690547071,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 315364,
@@ -1547,14 +1595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 265814,
-      "num": 265814,
-      "word": "法医季2秦明第一个解剖的是熟人",
-      "onboard_time": 1690548213,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264981,
       "num": 264981,
       "word": "龚俊和迪丽热巴靠近会紧张",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1690471962,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259100,
+      "num": 259100,
+      "word": "中国队出场 全场雄起",
+      "onboard_time": 1690550077,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 258012,
@@ -1891,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198263,
+      "num": 198263,
+      "word": "鬼火熊猫",
+      "onboard_time": 1690550234,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 195251,
       "num": 213638,
       "word": "杨玏封神隐藏细节",
@@ -1960,6 +2016,14 @@
       "word": "台风来袭市民把凉亭拴水泥柱上",
       "onboard_time": 1690466740,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176963,
+      "num": 2897414,
+      "word": "揭秘成都大运会开幕式亮点",
+      "onboard_time": 1690549053,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
