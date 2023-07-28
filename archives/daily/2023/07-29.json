@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690568349814,
+  "endTime": 1690569236824,
   "band_list": [
     {
       "raw_hot": 1501908,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240686,
+      "num": 146385,
+      "word": "月光蟑螂",
+      "onboard_time": 1690566678,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227131,
       "num": 216172,
       "word": "导演说希望向往的生活继续走下去",
@@ -353,14 +361,6 @@
       "onboard_time": 1690561411,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182171,
-      "num": 146385,
-      "word": "月光蟑螂",
-      "onboard_time": 1690566678,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 177221,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115502,
+      "num": 110827,
+      "word": "金牛座有点劳累命在身上",
+      "onboard_time": 1690565540,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 114885,
       "num": 114885,
       "word": "中国好声音",
@@ -505,14 +513,6 @@
       "onboard_time": 1690555478,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110827,
-      "num": 110827,
-      "word": "金牛座有点劳累命在身上",
-      "onboard_time": 1690565540,
-      "rank": 27,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 107865,

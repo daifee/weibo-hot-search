@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690568349814,
+  "endTime": 1690569236824,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -49859,6 +49859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240686,
+      "num": 146385,
+      "word": "月光蟑螂",
+      "onboard_time": 1690566678,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240636,
       "num": 240636,
       "word": "KT战胜GEN",
@@ -59555,14 +59563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182171,
-      "num": 146385,
-      "word": "月光蟑螂",
-      "onboard_time": 1690566678,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182040,
       "num": 207706,
       "word": "李尚福会见美国前国务卿基辛格",
@@ -64547,6 +64547,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 115502,
+      "num": 110827,
+      "word": "金牛座有点劳累命在身上",
+      "onboard_time": 1690565540,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 115492,
       "num": 196443,
       "word": "OMG对战TT",
@@ -64721,14 +64729,6 @@
       "onboard_time": 1690312214,
       "rank": 46,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 110827,
-      "num": 110827,
-      "word": "金牛座有点劳累命在身上",
-      "onboard_time": 1690565540,
-      "rank": 27,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 110593,
