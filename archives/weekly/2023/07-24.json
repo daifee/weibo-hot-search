@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690554819345,
+  "endTime": 1690557466534,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -1187,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1430788,
+      "num": 591030,
+      "word": "杨洋新杂志销量",
+      "onboard_time": 1690555119,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1429388,
       "num": 1429388,
       "word": "谁抢到了",
@@ -1251,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1385204,
+      "num": 1379143,
+      "word": "科学家复活了46000年前的虫子",
+      "onboard_time": 1690544852,
+      "rank": 4,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1384968,
       "num": 1384968,
       "word": "断崖式变丑",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1690342176,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1379143,
-      "num": 1379143,
-      "word": "科学家复活了46000年前的虫子",
-      "onboard_time": 1690544852,
-      "rank": 4,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1374816,
@@ -1563,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1220744,
+      "num": 1220744,
+      "word": "00后来整顿婚礼了",
+      "onboard_time": 1690553979,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211342,
       "num": 1211342,
       "word": "研究生称坐5小时高铁跨省面试被鸽",
@@ -1827,6 +1843,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1098711,
+      "num": 586012,
+      "word": "以为是易烊千玺的长头发",
+      "onboard_time": 1690555358,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1097288,
       "num": 1058304,
       "word": "冯提莫 女孩子们一定不要精神内耗",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1690539095,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1052892,
+      "num": 580581,
+      "word": "魏大勋被迫升咖真人版",
+      "onboard_time": 1690555417,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1049819,
@@ -4243,6 +4275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 593648,
+      "num": 593648,
+      "word": "刘宪华高音",
+      "onboard_time": 1690555779,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592791,
       "num": 592791,
       "word": "魏大勋酒会内场霸总感",
@@ -4745,6 +4785,14 @@
       "onboard_time": 1690285961,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535703,
+      "num": 519524,
+      "word": "九尾商务",
+      "onboard_time": 1690556074,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 535545,
@@ -5787,6 +5835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441841,
+      "num": 441841,
+      "word": "彭昱畅说张子枫瘦这么多",
+      "onboard_time": 1690553676,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441567,
       "num": 441567,
       "word": "杜苏芮或成新世纪影响最严重台风之一",
@@ -6257,14 +6313,6 @@
       "onboard_time": 1690450716,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 408135,
-      "num": 408135,
-      "word": "彭昱畅说张子枫瘦这么多",
-      "onboard_time": 1690553676,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 407096,
@@ -7123,14 +7171,6 @@
       "category": "游戏,科技"
     },
     {
-      "raw_hot": 346175,
-      "num": 346175,
-      "word": "00后来整顿婚礼了",
-      "onboard_time": 1690553979,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345970,
       "num": 287687,
       "word": "大摆锤上游客呕吐底下排队人遭殃",
@@ -7385,6 +7425,14 @@
       "onboard_time": 1690243954,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330715,
+      "num": 330715,
+      "word": "杨紫谈如何看待质疑评论",
+      "onboard_time": 1690556739,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 330578,
@@ -7681,6 +7729,14 @@
       "onboard_time": 1690369361,
       "rank": 34,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 317804,
+      "num": 317804,
+      "word": "苏翊鸣走路好拽",
+      "onboard_time": 1690555358,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 317486,
@@ -8275,6 +8331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287105,
+      "num": 226056,
+      "word": "周恩洋淘汰",
+      "onboard_time": 1690555177,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286535,
       "num": 286535,
       "word": "长相思预告",
@@ -8529,6 +8593,14 @@
       "onboard_time": 1690518821,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273075,
+      "num": 273075,
+      "word": "覃海洋 蛙王",
+      "onboard_time": 1690555478,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 272757,
@@ -8915,6 +8987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250967,
+      "num": 250967,
+      "word": "成都大运会开幕",
+      "onboard_time": 1690555899,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250871,
       "num": 227010,
       "word": "罗刹海市 那英",
@@ -9153,6 +9233,14 @@
       "onboard_time": 1690334016,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239962,
+      "num": 225734,
+      "word": "薛之谦刘宪华好像在演双簧",
+      "onboard_time": 1690557275,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 238577,
@@ -9857,6 +9945,14 @@
       "onboard_time": 1690335629,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208394,
+      "num": 208394,
+      "word": "王霜 很开心今天拿到三分",
+      "onboard_time": 1690556797,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 208381,
