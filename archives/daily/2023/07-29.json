@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690583631181,
+  "endTime": 1690586171072,
   "band_list": [
     {
       "raw_hot": 1501908,
@@ -49,6 +49,14 @@
       "onboard_time": 1690555302,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 786446,
+      "num": 345380,
+      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
+      "onboard_time": 1690573154,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759566,
@@ -195,14 +203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 330652,
-      "num": 175433,
-      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
-      "onboard_time": 1690573154,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309612,
       "num": 309612,
       "word": "中国台北旗手好可爱",
@@ -233,6 +233,14 @@
       "onboard_time": 1690553320,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283345,
+      "num": 171821,
+      "word": "女子称因怕台风取消民宿遭老板怼",
+      "onboard_time": 1690570516,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281885,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216369,
+      "num": 109753,
+      "word": "衣服越穿越宽松怎么办",
+      "onboard_time": 1690583358,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 216285,
       "num": 216285,
       "word": "开幕式熊猫好能蹦",
@@ -339,6 +355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207286,
+      "num": 109330,
+      "word": "原京东副总裁称不创业可能不会得渐冻症",
+      "onboard_time": 1690585580,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 199027,
+      "num": 199027,
+      "word": "金牛座有点劳累命在身上",
+      "onboard_time": 1690565540,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 198607,
       "num": 198607,
       "word": "魏大勋酒会内场霸总感",
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193903,
+      "num": 193903,
+      "word": "长相思格局远远不止于情爱",
+      "onboard_time": 1690583840,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193629,
       "num": 193629,
       "word": "法医季2秦明第一个解剖的是熟人",
@@ -369,14 +409,6 @@
       "onboard_time": 1690561411,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180220,
-      "num": 92470,
-      "word": "女子称因怕台风取消民宿遭老板怼",
-      "onboard_time": 1690570516,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177221,
@@ -443,20 +475,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 137386,
+      "num": 137386,
+      "word": "李现抱魏大勋站C位",
+      "onboard_time": 1690579453,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136616,
       "num": 136616,
       "word": "孙女被水烫到爷爷心疼紧抱不放",
       "onboard_time": 1690543292,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134438,
-      "num": 84728,
-      "word": "李现抱魏大勋站C位",
-      "onboard_time": 1690579453,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 133672,
@@ -491,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128965,
+      "num": 109146,
+      "word": "花花也参加大运会开幕式了",
+      "onboard_time": 1690585279,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127131,
       "num": 127131,
       "word": "成都大运会开幕",
@@ -505,14 +545,6 @@
       "onboard_time": 1690566979,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115502,
-      "num": 110827,
-      "word": "金牛座有点劳累命在身上",
-      "onboard_time": 1690565540,
-      "rank": 27,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 114885,
@@ -531,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111410,
+      "num": 111410,
+      "word": "张杰演唱会彩排",
+      "onboard_time": 1690585340,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 110891,
       "num": 124142,
       "word": "覃海洋 蛙王",
@@ -539,8 +579,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107865,
-      "num": 107865,
+      "raw_hot": 109939,
+      "num": 109939,
+      "word": "暴雨中老人被困小伙蹚深水一把抱起",
+      "onboard_time": 1690570575,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108145,
+      "num": 108145,
       "word": "台风致浙江一动物园积水被困",
       "onboard_time": 1690555717,
       "rank": 48,
@@ -548,7 +596,7 @@
     },
     {
       "raw_hot": 100394,
-      "num": 81155,
+      "num": 81926,
       "word": "福州台风",
       "onboard_time": 1690573873,
       "rank": 23,
@@ -563,28 +611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86922,
+      "num": 86922,
+      "word": "中国男排1比3乌克兰男排",
+      "onboard_time": 1690570935,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72763,
       "num": 57886,
       "word": "你们两口子真有意思",
       "onboard_time": 1690579334,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64279,
-      "num": 64279,
-      "word": "暴雨中老人被困小伙蹚深水一把抱起",
-      "onboard_time": 1690570575,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44727,
-      "num": 44727,
-      "word": "中国男排1比3乌克兰男排",
-      "onboard_time": 1690570935,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 23112,

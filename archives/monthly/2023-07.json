@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690583631181,
+  "endTime": 1690586171072,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -15081,6 +15081,14 @@
       "onboard_time": 1690257099,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 786446,
+      "num": 345380,
+      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
+      "onboard_time": 1690573154,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 786384,
@@ -39107,14 +39115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330652,
-      "num": 175433,
-      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
-      "onboard_time": 1690573154,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330578,
       "num": 301440,
       "word": "陈祉希",
@@ -44432,6 +44432,14 @@
       "word": "离岸流",
       "onboard_time": 1688872713,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283345,
+      "num": 171821,
+      "word": "女子称因怕台风取消民宿遭老板怼",
+      "onboard_time": 1690570516,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -53395,6 +53403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216369,
+      "num": 109753,
+      "word": "衣服越穿越宽松怎么办",
+      "onboard_time": 1690583358,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 216362,
       "num": 216362,
       "word": "三伏天晒背最佳时间表",
@@ -54937,6 +54953,14 @@
       "onboard_time": 1689810749,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207286,
+      "num": 109330,
+      "word": "原京东副总裁称不创业可能不会得渐冻症",
+      "onboard_time": 1690585580,
+      "rank": 31,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 207248,
@@ -56523,6 +56547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199027,
+      "num": 199027,
+      "word": "金牛座有点劳累命在身上",
+      "onboard_time": 1690565540,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 198991,
       "num": 198991,
       "word": "美财政部部长将访华",
@@ -57545,6 +57577,14 @@
       "onboard_time": 1688574991,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193903,
+      "num": 193903,
+      "word": "长相思格局远远不止于情爱",
+      "onboard_time": 1690583840,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 193900,
@@ -59769,14 +59809,6 @@
       "onboard_time": 1690514677,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180220,
-      "num": 92470,
-      "word": "女子称因怕台风取消民宿遭老板怼",
-      "onboard_time": 1690570516,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180028,
@@ -63643,6 +63675,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 137386,
+      "num": 137386,
+      "word": "李现抱魏大勋站C位",
+      "onboard_time": 1690579453,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136579,
       "num": 218563,
       "word": "seventeen演唱会彩排照",
@@ -63769,14 +63809,6 @@
       "onboard_time": 1689322835,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134438,
-      "num": 84728,
-      "word": "李现抱魏大勋站C位",
-      "onboard_time": 1690579453,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 134106,
@@ -64009,6 +64041,14 @@
       "onboard_time": 1689203302,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128965,
+      "num": 109146,
+      "word": "花花也参加大运会开幕式了",
+      "onboard_time": 1690585279,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 128911,
@@ -64571,14 +64611,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 115502,
-      "num": 110827,
-      "word": "金牛座有点劳累命在身上",
-      "onboard_time": 1690565540,
-      "rank": 27,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 115492,
       "num": 196443,
       "word": "OMG对战TT",
@@ -64747,6 +64779,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 111410,
+      "num": 111410,
+      "word": "张杰演唱会彩排",
+      "onboard_time": 1690585340,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 111381,
       "num": 111381,
       "word": "吴亦凡名誉权案会改判么",
@@ -64803,6 +64843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109939,
+      "num": 109939,
+      "word": "暴雨中老人被困小伙蹚深水一把抱起",
+      "onboard_time": 1690570575,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109373,
       "num": 361553,
       "word": "高性能手机用起来有多爽",
@@ -64851,20 +64899,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108145,
+      "num": 108145,
+      "word": "台风致浙江一动物园积水被困",
+      "onboard_time": 1690555717,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107891,
       "num": 107891,
       "word": "孙颖莎4比3陈梦",
       "onboard_time": 1688945425,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107865,
-      "num": 107865,
-      "word": "台风致浙江一动物园积水被困",
-      "onboard_time": 1690555717,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107446,
@@ -65220,7 +65268,7 @@
     },
     {
       "raw_hot": 100394,
-      "num": 81155,
+      "num": 81926,
       "word": "福州台风",
       "onboard_time": 1690573873,
       "rank": 23,
@@ -65729,6 +65777,14 @@
       "onboard_time": 1688327412,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86922,
+      "num": 86922,
+      "word": "中国男排1比3乌克兰男排",
+      "onboard_time": 1690570935,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 86686,
@@ -66483,14 +66539,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 64279,
-      "num": 64279,
-      "word": "暴雨中老人被困小伙蹚深水一把抱起",
-      "onboard_time": 1690570575,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63737,
       "num": 63737,
       "word": "玉骨遥预告",
@@ -66993,14 +67041,6 @@
       "onboard_time": 1688756115,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44727,
-      "num": 44727,
-      "word": "中国男排1比3乌克兰男排",
-      "onboard_time": 1690570935,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 44058,
