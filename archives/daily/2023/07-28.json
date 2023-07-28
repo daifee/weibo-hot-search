@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690553686714,
+  "endTime": 1690554819345,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2882873,
+      "num": 2556731,
+      "word": "魏大勋帅得以为是孟宴臣来了",
+      "onboard_time": 1690543172,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2851490,
       "num": 769679,
       "word": "邓为随地乱扔烟头",
@@ -81,14 +89,6 @@
       "onboard_time": 1690507657,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2556731,
-      "num": 2556731,
-      "word": "魏大勋帅得以为是孟宴臣来了",
-      "onboard_time": 1690543172,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2376673,
@@ -555,6 +555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 919007,
+      "num": 919007,
+      "word": "中国台北旗手好可爱",
+      "onboard_time": 1690551275,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 916216,
       "num": 916216,
       "word": "韩国超导",
@@ -569,14 +577,6 @@
       "onboard_time": 1690499547,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 905302,
-      "num": 905302,
-      "word": "中国台北旗手好可爱",
-      "onboard_time": 1690551275,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 895230,
@@ -617,6 +617,14 @@
       "onboard_time": 1690466318,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 849705,
+      "num": 849705,
+      "word": "大运会美国 镜头",
+      "onboard_time": 1690552598,
+      "rank": 26,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 840817,
@@ -691,6 +699,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 780493,
+      "num": 780493,
+      "word": "伊拉克女旗手美炸了",
+      "onboard_time": 1690549233,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 779740,
+      "num": 779740,
+      "word": "导演说希望向往的生活继续走下去",
+      "onboard_time": 1690552958,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 767604,
+      "num": 767604,
+      "word": "阿那亚去年王鹤棣今年魏大勋",
+      "onboard_time": 1690553137,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 763048,
       "num": 592623,
       "word": "泉州",
@@ -713,14 +745,6 @@
       "onboard_time": 1690545274,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 737589,
-      "num": 737589,
-      "word": "伊拉克女旗手美炸了",
-      "onboard_time": 1690549233,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 730060,
@@ -755,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 707901,
+      "num": 707901,
+      "word": "杨紫一镜到底哭戏",
+      "onboard_time": 1690553320,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 698164,
       "num": 698164,
       "word": "涂山璟梅林殉情伏笔",
@@ -777,6 +809,14 @@
       "onboard_time": 1690541314,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 689677,
+      "num": 689677,
+      "word": "王一博送了什么给岳云鹏",
+      "onboard_time": 1690553736,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 670123,
@@ -915,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 592791,
+      "num": 592791,
+      "word": "魏大勋酒会内场霸总感",
+      "onboard_time": 1690553076,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 591353,
       "num": 475285,
       "word": "台风天上班",
@@ -955,12 +1003,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 571847,
-      "num": 571847,
-      "word": "导演说希望向往的生活继续走下去",
-      "onboard_time": 1690552958,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 561022,
+      "num": 561022,
+      "word": "刘亦菲玫瑰故事高马尾造型",
+      "onboard_time": 1690552537,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 552146,
@@ -1032,14 +1080,6 @@
       "word": "龚俊问40集吻戏拍什么戏这是",
       "onboard_time": 1690521459,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 513299,
-      "num": 513299,
-      "word": "杨紫一镜到底哭戏",
-      "onboard_time": 1690553320,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -1115,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475247,
-      "num": 475247,
-      "word": "刘亦菲玫瑰故事高马尾造型",
-      "onboard_time": 1690552537,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 473951,
       "num": 427597,
       "word": "黄晓明去油成功",
@@ -1187,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454638,
-      "num": 454638,
-      "word": "大运会美国 镜头",
-      "onboard_time": 1690552598,
-      "rank": 26,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 453763,
       "num": 367330,
       "word": "原来大家的开车精神状态都一样",
@@ -1235,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449899,
+      "num": 417551,
+      "word": "薛之谦让我欢喜让我忧舞台",
+      "onboard_time": 1690552420,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446944,
       "num": 446944,
       "word": "飞机上最适合拍照的位置是机尾",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1690529136,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 437748,
-      "num": 437748,
-      "word": "魏大勋酒会内场霸总感",
-      "onboard_time": 1690553076,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 435723,
@@ -1307,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423583,
+      "num": 423583,
+      "word": "赵寻 林阚",
+      "onboard_time": 1690553676,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417620,
       "num": 417620,
       "word": "超强台风莫兰蒂来袭时的厦门",
@@ -1331,11 +1363,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401529,
-      "num": 401529,
-      "word": "薛之谦让我欢喜让我忧舞台",
-      "onboard_time": 1690552420,
-      "rank": 29,
+      "raw_hot": 408135,
+      "num": 408135,
+      "word": "彭昱畅说张子枫瘦这么多",
+      "onboard_time": 1690553676,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1345,14 +1377,6 @@
       "onboard_time": 1690474772,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393398,
-      "num": 393398,
-      "word": "阿那亚去年王鹤棣今年魏大勋",
-      "onboard_time": 1690553137,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 388736,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1690534172,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383108,
+      "num": 383108,
+      "word": "苏翊鸣担任大体联会旗执旗手",
+      "onboard_time": 1690553017,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 381756,
@@ -1443,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357801,
+      "num": 357801,
+      "word": "封神",
+      "onboard_time": 1690468670,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354239,
       "num": 354239,
       "word": "Twins上海合体",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1690547133,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346175,
+      "num": 346175,
+      "word": "00后来整顿婚礼了",
+      "onboard_time": 1690553979,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344637,
@@ -1571,20 +1619,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310896,
+      "num": 310896,
+      "word": "脸谱出来绝了",
+      "onboard_time": 1690552301,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309395,
       "num": 282081,
       "word": "厦门人防台风 挪车极限操作",
       "onboard_time": 1690502613,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309256,
-      "num": 309256,
-      "word": "封神",
-      "onboard_time": 1690468670,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 302649,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1690507234,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 298146,
+      "num": 278300,
+      "word": "灵戏逼人",
+      "onboard_time": 1690554220,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 297626,
@@ -1987,14 +2043,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 216418,
-      "num": 216418,
-      "word": "脸谱出来绝了",
-      "onboard_time": 1690552301,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215010,
       "num": 215010,
       "word": "河南的省饭是什么",
@@ -2091,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200378,
+      "num": 204786,
+      "word": "岳云鹏谈热烈",
+      "onboard_time": 1690554396,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199788,
       "num": 199788,
       "word": "孤注一掷",
@@ -2129,14 +2185,6 @@
       "onboard_time": 1690545992,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193089,
-      "num": 193089,
-      "word": "苏翊鸣担任大体联会旗执旗手",
-      "onboard_time": 1690553017,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 192290,
@@ -2437,6 +2485,9 @@
     },
     {
       "word": "#成都大运会开幕#"
+    },
+    {
+      "word": "#大运会是青春的盛会团结的盛会友谊的盛会#"
     }
   ]
 }

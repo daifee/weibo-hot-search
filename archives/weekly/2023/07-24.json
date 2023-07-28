@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690553686714,
+  "endTime": 1690554819345,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2882873,
+      "num": 2556731,
+      "word": "魏大勋帅得以为是孟宴臣来了",
+      "onboard_time": 1690543172,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2851490,
       "num": 769679,
       "word": "邓为随地乱扔烟头",
@@ -297,14 +305,6 @@
       "onboard_time": 1690461575,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2556731,
-      "num": 2556731,
-      "word": "魏大勋帅得以为是孟宴臣来了",
-      "onboard_time": 1690543172,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2523818,
@@ -2339,6 +2339,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 919007,
+      "num": 919007,
+      "word": "中国台北旗手好可爱",
+      "onboard_time": 1690551275,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 916216,
       "num": 916216,
       "word": "韩国超导",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1690278101,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 905302,
-      "num": 905302,
-      "word": "中国台北旗手好可爱",
-      "onboard_time": 1690551275,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 900108,
@@ -2617,6 +2617,14 @@
       "onboard_time": 1690270420,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 849705,
+      "num": 849705,
+      "word": "大运会美国 镜头",
+      "onboard_time": 1690552598,
+      "rank": 26,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 848149,
@@ -2923,6 +2931,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 780493,
+      "num": 780493,
+      "word": "伊拉克女旗手美炸了",
+      "onboard_time": 1690549233,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 780264,
       "num": 517481,
       "word": "TFBOYS十周年演唱会线上开票了",
@@ -2937,6 +2953,14 @@
       "onboard_time": 1690377102,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 779740,
+      "num": 779740,
+      "word": "导演说希望向往的生活继续走下去",
+      "onboard_time": 1690552958,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 776387,
@@ -2969,6 +2993,14 @@
       "onboard_time": 1690275941,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767604,
+      "num": 767604,
+      "word": "阿那亚去年王鹤棣今年魏大勋",
+      "onboard_time": 1690553137,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 767389,
@@ -3153,14 +3185,6 @@
       "onboard_time": 1690257818,
       "rank": 18,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 737589,
-      "num": 737589,
-      "word": "伊拉克女旗手美炸了",
-      "onboard_time": 1690549233,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 735048,
@@ -3371,6 +3395,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 707901,
+      "num": 707901,
+      "word": "杨紫一镜到底哭戏",
+      "onboard_time": 1690553320,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 706842,
       "num": 706842,
       "word": "假如孟宴臣遇见了乔晶晶",
@@ -3473,6 +3505,14 @@
       "onboard_time": 1690440935,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 689677,
+      "num": 689677,
+      "word": "王一博送了什么给岳云鹏",
+      "onboard_time": 1690553736,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 688915,
@@ -4203,6 +4243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 592791,
+      "num": 592791,
+      "word": "魏大勋酒会内场霸总感",
+      "onboard_time": 1690553076,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 592112,
       "num": 592112,
       "word": "齐齐哈尔体育馆坍塌事故已致9人死亡",
@@ -4419,14 +4467,6 @@
       "category": "音乐,情感"
     },
     {
-      "raw_hot": 571847,
-      "num": 571847,
-      "word": "导演说希望向往的生活继续走下去",
-      "onboard_time": 1690552958,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 570357,
       "num": 570357,
       "word": "恋综女嘉宾主打一个搞事业",
@@ -4513,6 +4553,14 @@
       "onboard_time": 1690337853,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 561022,
+      "num": 561022,
+      "word": "刘亦菲玫瑰故事高马尾造型",
+      "onboard_time": 1690552537,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 560363,
@@ -4897,14 +4945,6 @@
       "onboard_time": 1690262329,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 513299,
-      "num": 513299,
-      "word": "杨紫一镜到底哭戏",
-      "onboard_time": 1690553320,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 513268,
@@ -5307,14 +5347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475247,
-      "num": 475247,
-      "word": "刘亦菲玫瑰故事高马尾造型",
-      "onboard_time": 1690552537,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 474628,
       "num": 377406,
       "word": "Lisa的身材管理",
@@ -5587,14 +5619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 454638,
-      "num": 454638,
-      "word": "大运会美国 镜头",
-      "onboard_time": 1690552598,
-      "rank": 26,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 454488,
       "num": 454488,
       "word": "五月天西安",
@@ -5665,6 +5689,14 @@
       "onboard_time": 1690326142,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449899,
+      "num": 417551,
+      "word": "薛之谦让我欢喜让我忧舞台",
+      "onboard_time": 1690552420,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 449819,
@@ -5817,14 +5849,6 @@
       "onboard_time": 1690295621,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 437748,
-      "num": 437748,
-      "word": "魏大勋酒会内场霸总感",
-      "onboard_time": 1690553076,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 437339,
@@ -6067,6 +6091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 423583,
+      "num": 423583,
+      "word": "赵寻 林阚",
+      "onboard_time": 1690553676,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423505,
       "num": 423505,
       "word": "王俊凯刀妹极限操作",
@@ -6227,6 +6259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 408135,
+      "num": 408135,
+      "word": "彭昱畅说张子枫瘦这么多",
+      "onboard_time": 1690553676,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407096,
       "num": 401363,
       "word": "言承旭说看到杨丞琳好不习惯",
@@ -6297,14 +6337,6 @@
       "onboard_time": 1690245696,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 401529,
-      "num": 401529,
-      "word": "薛之谦让我欢喜让我忧舞台",
-      "onboard_time": 1690552420,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 400682,
@@ -6425,14 +6457,6 @@
       "onboard_time": 1690185755,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393398,
-      "num": 393398,
-      "word": "阿那亚去年王鹤棣今年魏大勋",
-      "onboard_time": 1690553137,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 392024,
@@ -6560,6 +6584,14 @@
       "word": "梅西连场进球",
       "onboard_time": 1690329691,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 383108,
+      "num": 383108,
+      "word": "苏翊鸣担任大体联会旗执旗手",
+      "onboard_time": 1690553017,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -7089,6 +7121,14 @@
       "onboard_time": 1690453233,
       "rank": 46,
       "category": "游戏,科技"
+    },
+    {
+      "raw_hot": 346175,
+      "num": 346175,
+      "word": "00后来整顿婚礼了",
+      "onboard_time": 1690553979,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345970,
@@ -7715,6 +7755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310896,
+      "num": 310896,
+      "word": "脸谱出来绝了",
+      "onboard_time": 1690552301,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310853,
       "num": 310853,
       "word": "宋亚轩全员加速中西安收官路透",
@@ -7993,6 +8041,14 @@
       "onboard_time": 1690427315,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298146,
+      "num": 278300,
+      "word": "灵戏逼人",
+      "onboard_time": 1690554220,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 297675,
@@ -9627,14 +9683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216418,
-      "num": 216418,
-      "word": "脸谱出来绝了",
-      "onboard_time": 1690552301,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215336,
       "num": 220355,
       "word": "放冰箱里的桃变不甜了",
@@ -10147,6 +10195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200378,
+      "num": 204786,
+      "word": "岳云鹏谈热烈",
+      "onboard_time": 1690554396,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200179,
       "num": 200179,
       "word": "赵丽颖一键三连拍",
@@ -10385,14 +10441,6 @@
       "onboard_time": 1690545992,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193089,
-      "num": 193089,
-      "word": "苏翊鸣担任大体联会旗执旗手",
-      "onboard_time": 1690553017,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 193060,
@@ -12035,6 +12083,9 @@
     },
     {
       "word": "#成都大运会开幕#"
+    },
+    {
+      "word": "#大运会是青春的盛会团结的盛会友谊的盛会#"
     }
   ]
 }
