@@ -1,0 +1,410 @@
+{
+  "runTime": 1690512052309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9175822,
+        "num": 9175822,
+        "word": "杜苏芮路径",
+        "onboard_time": 1690454734,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2815848,
+        "num": 2815848,
+        "word": "微信已把帐号改为账号",
+        "onboard_time": 1690507657,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 83200,
+        "num": 2774592,
+        "word": "成都大运会开幕式官方主题曲来了",
+        "onboard_time": 1690464158,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2741100,
+        "num": 2741100,
+        "word": "台风杜苏芮登陆晋江",
+        "onboard_time": 1690510420,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1315019,
+        "num": 1315019,
+        "word": "厦门暴雨似飞瀑倾泄而下",
+        "onboard_time": 1690509817,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120790,
+        "num": 1120790,
+        "word": "丫丫小脸圆到一眼没认出来",
+        "onboard_time": 1690509580,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430845,
+        "num": 1113866,
+        "word": "晋江",
+        "onboard_time": 1690505258,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105582,
+        "num": 1105582,
+        "word": "李玟丈夫不参与李玟遗产分配",
+        "onboard_time": 1690510960,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1100439,
+        "num": 1100439,
+        "word": "单依纯让张大大离她远一点",
+        "onboard_time": 1690508918,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 973526,
+        "num": 973526,
+        "word": "杨洋 谢谢大家的包容与陪伴批评和建议",
+        "onboard_time": 1690466680,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1172281,
+        "num": 929774,
+        "word": "李玟丈夫发声明",
+        "onboard_time": 1690510600,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839199,
+        "num": 839199,
+        "word": "杜苏芮卡努双台风",
+        "onboard_time": 1690501349,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759884,
+        "num": 759884,
+        "word": "个人住房贷款认房不认贷",
+        "onboard_time": 1690507234,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579142,
+        "num": 579142,
+        "word": "念无双开机",
+        "onboard_time": 1690510300,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646714,
+        "num": 569673,
+        "word": "杜苏芮直播",
+        "onboard_time": 1690510657,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549356,
+        "num": 549356,
+        "word": "王楚然 为给大家带来的困扰说一声抱歉",
+        "onboard_time": 1690463856,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515698,
+        "num": 515698,
+        "word": "张晚意看杨紫邓为的眼神",
+        "onboard_time": 1690506873,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608031,
+        "num": 498981,
+        "word": "卡努",
+        "onboard_time": 1690499424,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476999,
+        "num": 476999,
+        "word": "上海一咖啡厅命名Doi被指低俗营销",
+        "onboard_time": 1690503034,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464855,
+        "num": 464855,
+        "word": "印度男子无力还债目睹妻子被侵犯",
+        "onboard_time": 1690507416,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1373551,
+        "num": 462524,
+        "word": "公公嫌儿媳乱花钱一脚踢裂其脾脏",
+        "onboard_time": 1690507234,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555098,
+        "num": 452727,
+        "word": "台风天上班",
+        "onboard_time": 1690508739,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387388,
+        "num": 387388,
+        "word": "保持负面情绪的人也许是更强大的",
+        "onboard_time": 1690505737,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381584,
+        "num": 381584,
+        "word": "杨芸晴说老舅照片像王鹤棣",
+        "onboard_time": 1690505019,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411080,
+        "num": 381542,
+        "word": "泉州",
+        "onboard_time": 1690500207,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378117,
+        "num": 378117,
+        "word": "TFBOYS十周年不应援了",
+        "onboard_time": 1690470283,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361094,
+        "num": 361094,
+        "word": "封神第一部票房破7亿",
+        "onboard_time": 1690507657,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402073,
+        "num": 357271,
+        "word": "杜苏芮将正面袭击福建",
+        "onboard_time": 1690474056,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78787,
+        "num": 349139,
+        "word": "下一辆15万级新能源爆款",
+        "onboard_time": 1690511139,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346980,
+        "num": 346980,
+        "word": "微信一个手机可以两个账号了",
+        "onboard_time": 1690467037,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 434608,
+        "num": 343422,
+        "word": "杜苏芮登陆后将北上深入内陆",
+        "onboard_time": 1690510836,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338799,
+        "num": 338799,
+        "word": "13岁女孩体内抽出2000毫升乳白色血",
+        "onboard_time": 1690464158,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300165,
+        "num": 300165,
+        "word": "原著里的相柳",
+        "onboard_time": 1690506157,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296527,
+        "num": 296527,
+        "word": "西宁街头偶遇易烊千玺",
+        "onboard_time": 1690504419,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287768,
+        "num": 287768,
+        "word": "洞洞鞋做到了清爽优雅兼顾",
+        "onboard_time": 1690503271,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 285390,
+        "num": 285390,
+        "word": "警惕杜苏芮靠近后风雨突然增强",
+        "onboard_time": 1690506274,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255584,
+        "num": 255584,
+        "word": "每一次熬夜肝都在陪你",
+        "onboard_time": 1690501828,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253631,
+        "num": 253631,
+        "word": "提离职五次了一直不让人走",
+        "onboard_time": 1690467277,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276264,
+        "num": 250164,
+        "word": "3000多名官兵紧急出动支援厦门",
+        "onboard_time": 1690504720,
+        "rank": 38,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 239482,
+        "num": 239482,
+        "word": "三伏今天发售",
+        "onboard_time": 1690507719,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226764,
+        "num": 226764,
+        "word": "妈妈在 在中路了",
+        "onboard_time": 1690472857,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273032,
+        "num": 223212,
+        "word": "杜苏芮核心区 创纪录的狂风暴雨",
+        "onboard_time": 1690472800,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212822,
+        "num": 212822,
+        "word": "chinajoy",
+        "onboard_time": 1690505675,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 209452,
+        "num": 209452,
+        "word": "任权回应与安然户外直播搭讪",
+        "onboard_time": 1690507234,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208397,
+        "num": 208397,
+        "word": "福州镇海楼",
+        "onboard_time": 1690511738,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205820,
+        "num": 205820,
+        "word": "长相思好虐",
+        "onboard_time": 1690462774,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198523,
+        "num": 198523,
+        "word": "好兆头",
+        "onboard_time": 1690506756,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188834,
+        "num": 188834,
+        "word": "杜苏芮影响杭州",
+        "onboard_time": 1690501291,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177827,
+        "num": 177827,
+        "word": "魏大勋 感谢喜爱孟宴臣的每一位朋友",
+        "onboard_time": 1690464034,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171452,
+        "num": 171452,
+        "word": "烟台狂风暴雨敢出去救人的两位大哥",
+        "onboard_time": 1690508197,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春主场#"
+    }
+  }
+}

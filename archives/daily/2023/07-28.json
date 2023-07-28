@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690511482152,
+  "endTime": 1690512052309,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -20,15 +20,15 @@
     },
     {
       "raw_hot": 3081405,
-      "num": 1389683,
+      "num": 2741100,
       "word": "台风杜苏芮登陆晋江",
       "onboard_time": 1690510420,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2808934,
-      "num": 2808934,
+      "raw_hot": 2815848,
+      "num": 2815848,
       "word": "微信已把帐号改为账号",
       "onboard_time": 1690507657,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1315019,
+      "num": 1315019,
+      "word": "厦门暴雨似飞瀑倾泄而下",
+      "onboard_time": 1690509817,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211907,
       "num": 1211907,
       "word": "13岁女孩体内抽出2000毫升乳白色血",
@@ -80,6 +88,22 @@
       "word": "杜苏芮卡努双台风",
       "onboard_time": 1690501349,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172281,
+      "num": 929774,
+      "word": "李玟丈夫发声明",
+      "onboard_time": 1690510600,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1120790,
+      "num": 1120790,
+      "word": "丫丫小脸圆到一眼没认出来",
+      "onboard_time": 1690509580,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -107,18 +131,18 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1105582,
+      "num": 1105582,
+      "word": "李玟丈夫不参与李玟遗产分配",
+      "onboard_time": 1690510960,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1080174,
       "num": 1080174,
       "word": "上海一咖啡厅命名Doi被指低俗营销",
       "onboard_time": 1690503034,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1074590,
-      "num": 1074590,
-      "word": "丫丫小脸圆到一眼没认出来",
-      "onboard_time": 1690509580,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -145,22 +169,6 @@
       "onboard_time": 1690472199,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 969008,
-      "num": 648087,
-      "word": "厦门暴雨似飞瀑倾泄而下",
-      "onboard_time": 1690509817,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 924437,
-      "num": 608041,
-      "word": "李玟丈夫发声明",
-      "onboard_time": 1690510600,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 919650,
@@ -219,27 +227,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 726301,
-      "num": 586939,
-      "word": "李玟丈夫不参与李玟遗产分配",
-      "onboard_time": 1690510960,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 720473,
-      "num": 555676,
-      "word": "杜苏芮直播",
-      "onboard_time": 1690510657,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 689015,
-      "num": 689015,
+      "raw_hot": 759884,
+      "num": 759884,
       "word": "个人住房贷款认房不认贷",
       "onboard_time": 1690507234,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720473,
+      "num": 569673,
+      "word": "杜苏芮直播",
+      "onboard_time": 1690510657,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -323,8 +323,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 542286,
-      "num": 542286,
+      "raw_hot": 579142,
+      "num": 579142,
       "word": "念无双开机",
       "onboard_time": 1690510300,
       "rank": 14,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515698,
+      "num": 515698,
+      "word": "张晚意看杨紫邓为的眼神",
+      "onboard_time": 1690506873,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 497575,
       "num": 497575,
       "word": "猫咪纹",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 481826,
-      "num": 323557,
+      "num": 343422,
       "word": "杜苏芮登陆后将北上深入内陆",
       "onboard_time": 1690510836,
       "rank": 30,
@@ -377,14 +385,6 @@
       "onboard_time": 1690506274,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467766,
-      "num": 467766,
-      "word": "张晚意看杨紫邓为的眼神",
-      "onboard_time": 1690506873,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 465755,
@@ -771,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208397,
+      "num": 208397,
+      "word": "福州镇海楼",
+      "onboard_time": 1690511738,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205133,
       "num": 205133,
       "word": "欧阳娜娜的腮红",
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 115254,
-      "num": 1635431,
+      "num": 2774592,
       "word": "成都大运会开幕式官方主题曲来了",
       "onboard_time": 1690464158,
       "rank": 2,
@@ -923,8 +931,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 77533,
-      "num": 213053,
+      "raw_hot": 78787,
+      "num": 349139,
       "word": "下一辆15万级新能源爆款",
       "onboard_time": 1690511139,
       "rank": 42,
