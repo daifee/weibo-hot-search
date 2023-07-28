@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690558448216,
+  "endTime": 1690561313166,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1690534474,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1437098,
+      "num": 300909,
+      "word": "男子当街扒光妻子衣物用鞋抽打",
+      "onboard_time": 1690558654,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1433810,
@@ -3771,6 +3779,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 661841,
+      "num": 298564,
+      "word": "孩子被撞身亡被判与肇事司机同责",
+      "onboard_time": 1690558832,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660842,
       "num": 660842,
       "word": "杨幂密逃异域公主",
@@ -4267,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598118,
+      "num": 292637,
+      "word": "和男友吵架后24岁姑娘胸痛了3天",
+      "onboard_time": 1690559914,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597065,
       "num": 485332,
       "word": "长相思直播",
@@ -4641,6 +4665,14 @@
       "onboard_time": 1690260999,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 552993,
+      "num": 552993,
+      "word": "黄磊张艺兴聊婚姻",
+      "onboard_time": 1690557875,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 552589,
@@ -5907,6 +5939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 437975,
+      "num": 289765,
+      "word": "周翊然张淼怡vs文俊辉张淼怡",
+      "onboard_time": 1690559732,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437339,
       "num": 401418,
       "word": "肖战龚俊成毅任嘉伦杨洋都有剧在播",
@@ -6515,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393116,
+      "num": 393116,
+      "word": "薛之谦刘宪华好像在演双簧",
+      "onboard_time": 1690557275,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392024,
       "num": 287805,
       "word": "官方通报男子光屁股大街上被拖行",
@@ -6592,6 +6640,14 @@
       "word": "芭比最贴近角色的演员",
       "onboard_time": 1690440935,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 384584,
+      "num": 285941,
+      "word": "草茉莉",
+      "onboard_time": 1690559493,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -7051,14 +7107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355191,
-      "num": 355191,
-      "word": "薛之谦刘宪华好像在演双簧",
-      "onboard_time": 1690557275,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354239,
       "num": 354239,
       "word": "Twins上海合体",
@@ -7441,14 +7489,6 @@
       "onboard_time": 1690155327,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331451,
-      "num": 331451,
-      "word": "黄磊张艺兴聊婚姻",
-      "onboard_time": 1690557875,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 330991,
@@ -11417,6 +11457,14 @@
       "onboard_time": 1690107390,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136836,
+      "num": 144824,
+      "word": "狗狗的垫子越换越小会发生什么",
+      "onboard_time": 1690560512,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 136160,
