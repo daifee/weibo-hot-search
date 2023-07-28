@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690508553892,
+  "endTime": 1690511482152,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -155,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3081405,
+      "num": 1389683,
+      "word": "台风杜苏芮登陆晋江",
+      "onboard_time": 1690510420,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3077752,
       "num": 3077752,
       "word": "35人退钱群里34人是托",
@@ -185,6 +193,14 @@
       "onboard_time": 1690346140,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2808934,
+      "num": 2808934,
+      "word": "微信已把帐号改为账号",
+      "onboard_time": 1690507657,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 2795919,
@@ -803,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1601776,
+      "num": 473618,
+      "word": "公公嫌儿媳乱花钱一脚踢裂其脾脏",
+      "onboard_time": 1690507234,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1599556,
       "num": 1599556,
       "word": "杨澄终生未娶王莹终生未嫁",
@@ -817,14 +841,6 @@
       "onboard_time": 1690460195,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1587317,
-      "num": 444152,
-      "word": "公公嫌儿媳乱花钱一脚踢裂其脾脏",
-      "onboard_time": 1690507234,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1579074,
@@ -1435,6 +1451,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 1113733,
+      "num": 1113733,
+      "word": "单依纯让张大大离她远一点",
+      "onboard_time": 1690508918,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1113392,
       "num": 1113392,
       "word": "每一次熬夜肝都在陪你",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1690341872,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1074590,
+      "num": 1074590,
+      "word": "丫丫小脸圆到一眼没认出来",
+      "onboard_time": 1690509580,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1073414,
@@ -1779,12 +1811,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 971212,
-      "num": 576502,
-      "word": "微信已把帐号改为账号",
-      "onboard_time": 1690507657,
+      "raw_hot": 969008,
+      "num": 648087,
+      "word": "厦门暴雨似飞瀑倾泄而下",
+      "onboard_time": 1690509817,
       "rank": 10,
-      "category": "科技"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 966247,
@@ -1905,6 +1937,14 @@
       "onboard_time": 1690339894,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 924437,
+      "num": 608041,
+      "word": "李玟丈夫发声明",
+      "onboard_time": 1690510600,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 924093,
@@ -2715,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 726301,
+      "num": 586939,
+      "word": "李玟丈夫不参与李玟遗产分配",
+      "onboard_time": 1690510960,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 725305,
       "num": 725305,
       "word": "王俊凯王源易烊千玺给黄晓明宣传新剧",
@@ -2729,6 +2777,14 @@
       "onboard_time": 1690438113,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 720473,
+      "num": 555676,
+      "word": "杜苏芮直播",
+      "onboard_time": 1690510657,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 716441,
@@ -2873,6 +2929,14 @@
       "onboard_time": 1690440935,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 689015,
+      "num": 689015,
+      "word": "个人住房贷款认房不认贷",
+      "onboard_time": 1690507234,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688915,
@@ -3204,7 +3268,7 @@
     },
     {
       "raw_hot": 642961,
-      "num": 325258,
+      "num": 470521,
       "word": "印度男子无力还债目睹妻子被侵犯",
       "onboard_time": 1690507416,
       "rank": 30,
@@ -3553,6 +3617,14 @@
       "onboard_time": 1690386760,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591353,
+      "num": 475285,
+      "word": "台风天上班",
+      "onboard_time": 1690508739,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 590886,
@@ -3928,6 +4000,14 @@
       "word": "相柳承认喜欢小夭",
       "onboard_time": 1690184136,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 542286,
+      "num": 542286,
+      "word": "念无双开机",
+      "onboard_time": 1690510300,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -4403,6 +4483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481826,
+      "num": 323557,
+      "word": "杜苏芮登陆后将北上深入内陆",
+      "onboard_time": 1690510836,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479916,
       "num": 468067,
       "word": "杜苏芮将正面袭击福建",
@@ -4555,6 +4643,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 467766,
+      "num": 467766,
+      "word": "张晚意看杨紫邓为的眼神",
+      "onboard_time": 1690506873,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467387,
       "num": 467387,
       "word": "原来龙口粉丝不能空腹吃",
@@ -4696,14 +4792,6 @@
       "word": "莲花楼央八定档",
       "onboard_time": 1690446815,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 455685,
-      "num": 455685,
-      "word": "张晚意看杨紫邓为的眼神",
-      "onboard_time": 1690506873,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -5593,6 +5681,14 @@
       "onboard_time": 1690333057,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 381756,
+      "num": 381756,
+      "word": "封神第一部票房破7亿",
+      "onboard_time": 1690507657,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 381598,
@@ -6985,14 +7081,6 @@
       "onboard_time": 1690459173,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291131,
-      "num": 291131,
-      "word": "封神第一部票房破7亿",
-      "onboard_time": 1690507657,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 290974,
@@ -9267,6 +9355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185623,
+      "num": 185623,
+      "word": "烟台狂风暴雨敢出去救人的两位大哥",
+      "onboard_time": 1690508197,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 185254,
       "num": 208195,
       "word": "广西人是这样吃油条的",
@@ -10185,6 +10281,14 @@
       "onboard_time": 1690390107,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77533,
+      "num": 213053,
+      "word": "下一辆15万级新能源爆款",
+      "onboard_time": 1690511139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73586,

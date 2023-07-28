@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690508553892,
+  "endTime": 1690511482152,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -19,6 +19,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3081405,
+      "num": 1389683,
+      "word": "台风杜苏芮登陆晋江",
+      "onboard_time": 1690510420,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2808934,
+      "num": 2808934,
+      "word": "微信已把帐号改为账号",
+      "onboard_time": 1690507657,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1664387,
       "num": 1664387,
       "word": "杜苏芮核心区 创纪录的狂风暴雨",
@@ -27,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1587317,
-      "num": 444152,
+      "raw_hot": 1601776,
+      "num": 473618,
       "word": "公公嫌儿媳乱花钱一脚踢裂其脾脏",
       "onboard_time": 1690507234,
       "rank": 20,
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113733,
+      "num": 1113733,
+      "word": "单依纯让张大大离她远一点",
+      "onboard_time": 1690508918,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1113392,
       "num": 1113392,
       "word": "每一次熬夜肝都在陪你",
@@ -87,6 +111,14 @@
       "num": 1080174,
       "word": "上海一咖啡厅命名Doi被指低俗营销",
       "onboard_time": 1690503034,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1074590,
+      "num": 1074590,
+      "word": "丫丫小脸圆到一眼没认出来",
+      "onboard_time": 1690509580,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -115,12 +147,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 971212,
-      "num": 576502,
-      "word": "微信已把帐号改为账号",
-      "onboard_time": 1690507657,
+      "raw_hot": 969008,
+      "num": 648087,
+      "word": "厦门暴雨似飞瀑倾泄而下",
+      "onboard_time": 1690509817,
       "rank": 10,
-      "category": "科技"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924437,
+      "num": 608041,
+      "word": "李玟丈夫发声明",
+      "onboard_time": 1690510600,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 919650,
@@ -179,6 +219,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 726301,
+      "num": 586939,
+      "word": "李玟丈夫不参与李玟遗产分配",
+      "onboard_time": 1690510960,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 720473,
+      "num": 555676,
+      "word": "杜苏芮直播",
+      "onboard_time": 1690510657,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689015,
+      "num": 689015,
+      "word": "个人住房贷款认房不认贷",
+      "onboard_time": 1690507234,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666578,
       "num": 440178,
       "word": "洞洞鞋做到了清爽优雅兼顾",
@@ -188,7 +252,7 @@
     },
     {
       "raw_hot": 642961,
-      "num": 325258,
+      "num": 470521,
       "word": "印度男子无力还债目睹妻子被侵犯",
       "onboard_time": 1690507416,
       "rank": 30,
@@ -243,12 +307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 591353,
+      "num": 475285,
+      "word": "台风天上班",
+      "onboard_time": 1690508739,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 590619,
       "num": 590619,
       "word": "保持负面情绪的人也许是更强大的",
       "onboard_time": 1690505737,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 542286,
+      "num": 542286,
+      "word": "念无双开机",
+      "onboard_time": 1690510300,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 518386,
@@ -265,6 +345,14 @@
       "onboard_time": 1690468789,
       "rank": 13,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 481826,
+      "num": 323557,
+      "word": "杜苏芮登陆后将北上深入内陆",
+      "onboard_time": 1690510836,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479916,
@@ -291,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467766,
+      "num": 467766,
+      "word": "张晚意看杨紫邓为的眼神",
+      "onboard_time": 1690506873,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465755,
       "num": 338396,
       "word": "提离职五次了一直不让人走",
@@ -313,14 +409,6 @@
       "onboard_time": 1690504720,
       "rank": 24,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 455685,
-      "num": 455685,
-      "word": "张晚意看杨紫邓为的眼神",
-      "onboard_time": 1690506873,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 452792,
@@ -385,6 +473,14 @@
       "onboard_time": 1690505675,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 381756,
+      "num": 381756,
+      "word": "封神第一部票房破7亿",
+      "onboard_time": 1690507657,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 372987,
@@ -489,14 +585,6 @@
       "onboard_time": 1690507234,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 291131,
-      "num": 291131,
-      "word": "封神第一部票房破7亿",
-      "onboard_time": 1690507657,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 284098,
@@ -707,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185623,
+      "num": 185623,
+      "word": "烟台狂风暴雨敢出去救人的两位大哥",
+      "onboard_time": 1690508197,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 177726,
       "num": 199703,
       "word": "台风来袭市民把凉亭拴水泥柱上",
@@ -825,6 +921,14 @@
       "onboard_time": 1690480758,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 77533,
+      "num": 213053,
+      "word": "下一辆15万级新能源爆款",
+      "onboard_time": 1690511139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73988,
