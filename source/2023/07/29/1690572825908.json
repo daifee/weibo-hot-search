@@ -1,0 +1,410 @@
+{
+  "runTime": 1690572825908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 190644,
+        "num": 190644,
+        "word": "长相思",
+        "onboard_time": 1690555302,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108366,
+        "num": 108366,
+        "word": "覃海洋",
+        "onboard_time": 1690547611,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14493,
+        "num": 103415,
+        "word": "揭秘成都大运会开幕式亮点",
+        "onboard_time": 1690549053,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150154,
+        "num": 103414,
+        "word": "魏大勋帅得以为是孟宴臣来了",
+        "onboard_time": 1690543172,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103412,
+        "num": 103412,
+        "word": "杜苏芮已远离广东",
+        "onboard_time": 1690563086,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84769,
+        "num": 84769,
+        "word": "00后来整顿婚礼了",
+        "onboard_time": 1690553979,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75332,
+        "num": 75332,
+        "word": "伊拉克女旗手美炸了",
+        "onboard_time": 1690549233,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74461,
+        "num": 74461,
+        "word": "夭璟吻戏vs夭柳吻戏",
+        "onboard_time": 1690563206,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61572,
+        "num": 61572,
+        "word": "黄磊张艺兴聊婚姻",
+        "onboard_time": 1690557875,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56035,
+        "num": 56035,
+        "word": "草茉莉",
+        "onboard_time": 1690559493,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233031,
+        "num": 55961,
+        "word": "连骗子都受不了冷暴力",
+        "onboard_time": 1690561351,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 154749,
+        "num": 55555,
+        "word": "杨洋新杂志销量",
+        "onboard_time": 1690555119,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146028,
+        "num": 55201,
+        "word": "月光蟑螂",
+        "onboard_time": 1690566678,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98140,
+        "num": 54960,
+        "word": "杜苏芮已造成福建72.46万余人受灾",
+        "onboard_time": 1690532075,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75805,
+        "num": 54732,
+        "word": "魏大勋被迫升咖真人版",
+        "onboard_time": 1690555417,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64122,
+        "num": 54239,
+        "word": "张子枫瘦好多",
+        "onboard_time": 1690540712,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82871,
+        "num": 54082,
+        "word": "杜苏芮强得离谱 路径妖得要命",
+        "onboard_time": 1690525717,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57150,
+        "num": 53644,
+        "word": "阿那亚去年王鹤棣今年魏大勋",
+        "onboard_time": 1690553137,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53548,
+        "num": 53548,
+        "word": "中国台北旗手好可爱",
+        "onboard_time": 1690551275,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44474,
+        "num": 44474,
+        "word": "以为是易烊千玺的长头发",
+        "onboard_time": 1690555358,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161062,
+        "num": 44325,
+        "word": "男子当街扒光妻子衣物用鞋抽打",
+        "onboard_time": 1690558654,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92005,
+        "num": 44193,
+        "word": "和男友吵架后24岁姑娘胸痛了3天",
+        "onboard_time": 1690559914,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69920,
+        "num": 43953,
+        "word": "孩子被撞身亡被判与肇事司机同责",
+        "onboard_time": 1690558832,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64408,
+        "num": 43625,
+        "word": "狗狗的垫子越换越小会发生什么",
+        "onboard_time": 1690560512,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 58293,
+        "num": 43413,
+        "word": "做菜还是别用硅胶铲了",
+        "onboard_time": 1690561231,
+        "rank": 24,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 56937,
+        "num": 43206,
+        "word": "王霏霏说王一博是片场卷王",
+        "onboard_time": 1690566979,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54769,
+        "num": 43019,
+        "word": "金牛座有点劳累命在身上",
+        "onboard_time": 1690565540,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 44487,
+        "num": 42751,
+        "word": "周翊然张淼怡vs文俊辉张淼怡",
+        "onboard_time": 1690559732,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42591,
+        "num": 42591,
+        "word": "韩剧恶鬼",
+        "onboard_time": 1690561411,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40104,
+        "num": 40104,
+        "word": "中国女足赢了",
+        "onboard_time": 1690549597,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55954,
+        "num": 40103,
+        "word": "女子称因怕台风取消民宿遭老板怼",
+        "onboard_time": 1690570516,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37810,
+        "num": 40102,
+        "word": "朱一龙包场王一博新电影",
+        "onboard_time": 1690551996,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36201,
+        "num": 40101,
+        "word": "屈楚萧戴眼镜",
+        "onboard_time": 1690562309,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35288,
+        "num": 40100,
+        "word": "魏大勋酒会内场霸总感",
+        "onboard_time": 1690553076,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34786,
+        "num": 40099,
+        "word": "中国队出场 全场雄起",
+        "onboard_time": 1690550077,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34473,
+        "num": 40097,
+        "word": "导演说希望向往的生活继续走下去",
+        "onboard_time": 1690552958,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34131,
+        "num": 40096,
+        "word": "薛之谦刘宪华好像在演双簧",
+        "onboard_time": 1690557275,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33235,
+        "num": 40096,
+        "word": "周深先是好好唱歌但不会抗拒演戏",
+        "onboard_time": 1690563690,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31971,
+        "num": 40094,
+        "word": "彭昱畅说张子枫瘦这么多",
+        "onboard_time": 1690553676,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31950,
+        "num": 40094,
+        "word": "暴雨中老人被困小伙蹚深水一把抱起",
+        "onboard_time": 1690570575,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30053,
+        "num": 40092,
+        "word": "封神",
+        "onboard_time": 1690537174,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29809,
+        "num": 40091,
+        "word": "九尾商务",
+        "onboard_time": 1690556074,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28969,
+        "num": 40090,
+        "word": "法医季2秦明第一个解剖的是熟人",
+        "onboard_time": 1690548213,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28815,
+        "num": 40088,
+        "word": "台风致浙江一动物园积水被困",
+        "onboard_time": 1690555717,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28169,
+        "num": 40088,
+        "word": "檀健次眼神很深情",
+        "onboard_time": 1690563924,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27842,
+        "num": 40087,
+        "word": "大运会开幕式",
+        "onboard_time": 1690545573,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26928,
+        "num": 40085,
+        "word": "刘宪华高音",
+        "onboard_time": 1690555779,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23839,
+        "num": 40084,
+        "word": "成都大运会开幕",
+        "onboard_time": 1690555899,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25937,
+        "num": 40082,
+        "word": "中国好声音",
+        "onboard_time": 1690538673,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21346,
+        "num": 40082,
+        "word": "尘夏",
+        "onboard_time": 1690557819,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会开幕#"
+    }
+  }
+}
