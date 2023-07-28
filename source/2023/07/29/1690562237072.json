@@ -1,0 +1,410 @@
+{
+  "runTime": 1690562237072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 952379,
+        "num": 952379,
+        "word": "长相思",
+        "onboard_time": 1690555302,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738266,
+        "num": 738266,
+        "word": "中国女足赢了",
+        "onboard_time": 1690549597,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70796,
+        "num": 663481,
+        "word": "揭秘成都大运会开幕式亮点",
+        "onboard_time": 1690549053,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787965,
+        "num": 642887,
+        "word": "魏大勋帅得以为是孟宴臣来了",
+        "onboard_time": 1690543172,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 615417,
+        "num": 615417,
+        "word": "00后来整顿婚礼了",
+        "onboard_time": 1690553979,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558058,
+        "num": 558058,
+        "word": "伊拉克女旗手美炸了",
+        "onboard_time": 1690549233,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556017,
+        "num": 556017,
+        "word": "黄磊张艺兴聊婚姻",
+        "onboard_time": 1690557875,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519442,
+        "num": 519442,
+        "word": "覃海洋",
+        "onboard_time": 1690547611,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315166,
+        "num": 315166,
+        "word": "薛之谦刘宪华好像在演双簧",
+        "onboard_time": 1690557275,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315116,
+        "num": 315116,
+        "word": "中国队出场 全场雄起",
+        "onboard_time": 1690550077,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1194429,
+        "num": 314177,
+        "word": "杨洋新杂志销量",
+        "onboard_time": 1690555119,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748048,
+        "num": 303710,
+        "word": "魏大勋被迫升咖真人版",
+        "onboard_time": 1690555417,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 504799,
+        "num": 296012,
+        "word": "杜苏芮强得离谱 路径妖得要命",
+        "onboard_time": 1690525717,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470048,
+        "num": 292163,
+        "word": "张子枫瘦好多",
+        "onboard_time": 1690540712,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403919,
+        "num": 286279,
+        "word": "以为是易烊千玺的长头发",
+        "onboard_time": 1690555358,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415403,
+        "num": 276707,
+        "word": "杜苏芮已造成福建72.46万余人受灾",
+        "onboard_time": 1690532075,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343936,
+        "num": 272289,
+        "word": "阿那亚去年王鹤棣今年魏大勋",
+        "onboard_time": 1690553137,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265877,
+        "num": 265877,
+        "word": "中国台北旗手好可爱",
+        "onboard_time": 1690551275,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244919,
+        "num": 244919,
+        "word": "尘夏",
+        "onboard_time": 1690557819,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236382,
+        "num": 236382,
+        "word": "王一博送了什么给岳云鹏",
+        "onboard_time": 1690553736,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1451317,
+        "num": 236084,
+        "word": "男子当街扒光妻子衣物用鞋抽打",
+        "onboard_time": 1690558654,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637861,
+        "num": 232158,
+        "word": "孩子被撞身亡被判与肇事司机同责",
+        "onboard_time": 1690558832,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620051,
+        "num": 229456,
+        "word": "和男友吵架后24岁姑娘胸痛了3天",
+        "onboard_time": 1690559914,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435090,
+        "num": 225587,
+        "word": "周翊然张淼怡vs文俊辉张淼怡",
+        "onboard_time": 1690559732,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368764,
+        "num": 220810,
+        "word": "草茉莉",
+        "onboard_time": 1690559493,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280644,
+        "num": 218258,
+        "word": "九尾商务",
+        "onboard_time": 1690556074,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216262,
+        "num": 216262,
+        "word": "杨紫一镜到底哭戏",
+        "onboard_time": 1690553320,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211063,
+        "num": 211063,
+        "word": "朱一龙包场王一博新电影",
+        "onboard_time": 1690551996,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202417,
+        "num": 202417,
+        "word": "杨紫谈如何看待质疑评论",
+        "onboard_time": 1690556739,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190304,
+        "num": 190304,
+        "word": "大运会开幕式",
+        "onboard_time": 1690545573,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276781,
+        "num": 189277,
+        "word": "狗狗的垫子越换越小会发生什么",
+        "onboard_time": 1690560512,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 213042,
+        "num": 188482,
+        "word": "连骗子都受不了冷暴力",
+        "onboard_time": 1690561351,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 194804,
+        "num": 188108,
+        "word": "水星感觉就很薛之谦",
+        "onboard_time": 1690561470,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185555,
+        "num": 185555,
+        "word": "导演说希望向往的生活继续走下去",
+        "onboard_time": 1690552958,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184513,
+        "num": 184513,
+        "word": "封神",
+        "onboard_time": 1690537174,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184175,
+        "num": 184175,
+        "word": "恶鬼",
+        "onboard_time": 1690561411,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181267,
+        "num": 181267,
+        "word": "开幕式熊猫好能蹦",
+        "onboard_time": 1690547312,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 177525,
+        "num": 177525,
+        "word": "刘宪华高音",
+        "onboard_time": 1690555779,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165764,
+        "num": 165764,
+        "word": "苏翊鸣走路好拽",
+        "onboard_time": 1690555358,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136377,
+        "num": 164804,
+        "word": "做菜还是别用硅胶铲了",
+        "onboard_time": 1690561231,
+        "rank": 39,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 163863,
+        "num": 163863,
+        "word": "魏大勋酒会内场霸总感",
+        "onboard_time": 1690553076,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153235,
+        "num": 153235,
+        "word": "法医季2秦明第一个解剖的是熟人",
+        "onboard_time": 1690548213,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136203,
+        "num": 136203,
+        "word": "彭昱畅说张子枫瘦这么多",
+        "onboard_time": 1690553676,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132950,
+        "num": 132950,
+        "word": "KPL",
+        "onboard_time": 1690560573,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124777,
+        "num": 124777,
+        "word": "孙女被水烫到爷爷心疼紧抱不放",
+        "onboard_time": 1690543292,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122844,
+        "num": 122844,
+        "word": "鬼火熊猫",
+        "onboard_time": 1690550234,
+        "rank": 45,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 121086,
+        "num": 121086,
+        "word": "成都大运会主火炬点燃",
+        "onboard_time": 1690552180,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 119119,
+        "num": 119119,
+        "word": "王霜 很开心今天拿到三分",
+        "onboard_time": 1690556797,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115487,
+        "num": 115487,
+        "word": "封神彩蛋",
+        "onboard_time": 1690562188,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114885,
+        "num": 114885,
+        "word": "中国好声音",
+        "onboard_time": 1690538673,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#大运会是青春的盛会团结的盛会友谊的盛会#"
+    }
+  }
+}

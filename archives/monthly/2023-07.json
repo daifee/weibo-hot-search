@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690561313166,
+  "endTime": 1690562237072,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -5923,6 +5923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1451317,
+      "num": 300909,
+      "word": "男子当街扒光妻子衣物用鞋抽打",
+      "onboard_time": 1690558654,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1448461,
       "num": 1448461,
       "word": "谁给小鬼做的造型",
@@ -5993,14 +6001,6 @@
       "onboard_time": 1690534474,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1437098,
-      "num": 300909,
-      "word": "男子当街扒光妻子衣物用鞋抽打",
-      "onboard_time": 1690558654,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1436077,
@@ -20707,6 +20707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 620051,
+      "num": 292637,
+      "word": "和男友吵架后24岁姑娘胸痛了3天",
+      "onboard_time": 1690559914,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619860,
       "num": 569999,
       "word": "于正对魏大勋评价的变化",
@@ -21625,14 +21633,6 @@
       "onboard_time": 1688465378,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 598118,
-      "num": 292637,
-      "word": "和男友吵架后24岁姑娘胸痛了3天",
-      "onboard_time": 1690559914,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598074,
@@ -23403,6 +23403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 556017,
+      "num": 556017,
+      "word": "黄磊张艺兴聊婚姻",
+      "onboard_time": 1690557875,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 555923,
       "num": 555923,
       "word": "Jennie海德公园音乐节饭拍",
@@ -23545,14 +23553,6 @@
       "onboard_time": 1690260999,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 552993,
-      "num": 552993,
-      "word": "黄磊张艺兴聊婚姻",
-      "onboard_time": 1690557875,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 552589,
@@ -45187,6 +45187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276781,
+      "num": 189277,
+      "word": "狗狗的垫子越换越小会发生什么",
+      "onboard_time": 1690560512,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 276765,
       "num": 274556,
       "word": "假如许沁的姐姐是许半夏",
@@ -53867,6 +53875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213042,
+      "num": 188482,
+      "word": "连骗子都受不了冷暴力",
+      "onboard_time": 1690561351,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 213033,
       "num": 223815,
       "word": "种地吧普通话课直播",
@@ -57289,6 +57305,14 @@
       "onboard_time": 1689382529,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194804,
+      "num": 188108,
+      "word": "水星感觉就很薛之谦",
+      "onboard_time": 1690561470,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 194801,
@@ -63547,20 +63571,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 136836,
-      "num": 144824,
-      "word": "狗狗的垫子越换越小会发生什么",
-      "onboard_time": 1690560512,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 136579,
       "num": 218563,
       "word": "seventeen演唱会彩排照",
       "onboard_time": 1689610531,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136377,
+      "num": 164804,
+      "word": "做菜还是别用硅胶铲了",
+      "onboard_time": 1690561231,
+      "rank": 39,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 136308,
@@ -64473,6 +64497,14 @@
       "onboard_time": 1688832869,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115487,
+      "num": 115487,
+      "word": "封神彩蛋",
+      "onboard_time": 1690562188,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 115254,
