@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690557466534,
+  "endTime": 1690558448216,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -1011,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1595813,
+      "num": 591030,
+      "word": "杨洋新杂志销量",
+      "onboard_time": 1690555119,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1579074,
       "num": 1579074,
       "word": "张家界天门山一游客坠亡",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1690168472,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1430788,
-      "num": 591030,
-      "word": "杨洋新杂志销量",
-      "onboard_time": 1690555119,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1429388,
@@ -1475,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1276880,
+      "num": 1226206,
+      "word": "00后来整顿婚礼了",
+      "onboard_time": 1690553979,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1274521,
       "num": 1274521,
       "word": "中国队出场 全场雄起",
@@ -1571,12 +1579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1220744,
-      "num": 1220744,
-      "word": "00后来整顿婚礼了",
-      "onboard_time": 1690553979,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 1219721,
+      "num": 580581,
+      "word": "魏大勋被迫升咖真人版",
+      "onboard_time": 1690555417,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1211342,
@@ -1969,14 +1977,6 @@
       "onboard_time": 1690539095,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1052892,
-      "num": 580581,
-      "word": "魏大勋被迫升咖真人版",
-      "onboard_time": 1690555417,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1049819,
@@ -4787,7 +4787,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535703,
+      "raw_hot": 536560,
       "num": 519524,
       "word": "九尾商务",
       "onboard_time": 1690556074,
@@ -5947,6 +5947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435759,
+      "num": 435759,
+      "word": "尘夏",
+      "onboard_time": 1690557819,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 435302,
       "num": 435302,
       "word": "邓为只有一部待播剧了",
@@ -6979,6 +6987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358348,
+      "num": 358348,
+      "word": "杨紫谈如何看待质疑评论",
+      "onboard_time": 1690556739,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358325,
       "num": 358325,
       "word": "种地吧",
@@ -7033,6 +7049,14 @@
       "onboard_time": 1690383165,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355191,
+      "num": 355191,
+      "word": "薛之谦刘宪华好像在演双簧",
+      "onboard_time": 1690557275,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 354239,
@@ -7419,20 +7443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331451,
+      "num": 331451,
+      "word": "黄磊张艺兴聊婚姻",
+      "onboard_time": 1690557875,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330991,
       "num": 330991,
       "word": "杨紫7岁到30岁荧幕变化",
       "onboard_time": 1690243954,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330715,
-      "num": 330715,
-      "word": "杨紫谈如何看待质疑评论",
-      "onboard_time": 1690556739,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 330578,
@@ -9235,14 +9259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239962,
-      "num": 225734,
-      "word": "薛之谦刘宪华好像在演双簧",
-      "onboard_time": 1690557275,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238577,
       "num": 238577,
       "word": "影院贴男人视力表被指辱女",
@@ -9763,6 +9779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217673,
+      "num": 217673,
+      "word": "王霜 很开心今天拿到三分",
+      "onboard_time": 1690556797,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216650,
       "num": 216650,
       "word": "女足世界杯",
@@ -9945,14 +9969,6 @@
       "onboard_time": 1690335629,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208394,
-      "num": 208394,
-      "word": "王霜 很开心今天拿到三分",
-      "onboard_time": 1690556797,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 208381,
