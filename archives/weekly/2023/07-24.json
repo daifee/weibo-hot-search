@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690569236824,
+  "endTime": 1690571611316,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -12193,6 +12193,22 @@
       "onboard_time": 1690225754,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35946,
+      "num": 47941,
+      "word": "女子称因怕台风取消民宿遭老板怼",
+      "onboard_time": 1690570516,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34564,
+      "num": 47890,
+      "word": "暴雨中老人被困小伙蹚深水一把抱起",
+      "onboard_time": 1690570575,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31492,
