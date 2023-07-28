@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690514219618,
+  "endTime": 1690515219848,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1985912,
-      "num": 1315019,
+      "num": 1944470,
       "word": "厦门暴雨似飞瀑倾泄而下",
       "onboard_time": 1690509817,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1487768,
-      "num": 367770,
+      "num": 374193,
       "word": "性侵女学生后男子说自己性功能障碍",
       "onboard_time": 1690512339,
       "rank": 20,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1016046,
+      "num": 1016046,
+      "word": "大宋少年志2定档",
+      "onboard_time": 1690513238,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 981231,
       "num": 981231,
       "word": "除了杨紫都跟电脑都不太熟",
@@ -217,14 +225,6 @@
       "onboard_time": 1690499003,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799480,
-      "num": 799480,
-      "word": "大宋少年志2定档",
-      "onboard_time": 1690513238,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 789985,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607454,
+      "num": 479663,
+      "word": "福州镇海楼",
+      "onboard_time": 1690511738,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605096,
       "num": 605096,
       "word": "银行回应职工纵容17岁儿子虐猫",
@@ -347,12 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 558123,
-      "num": 479663,
-      "word": "福州镇海楼",
-      "onboard_time": 1690511738,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 524034,
+      "num": 524034,
+      "word": "韩国超导",
+      "onboard_time": 1690513659,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 518386,
@@ -611,6 +619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 288793,
+      "num": 237288,
+      "word": "台风眼",
+      "onboard_time": 1690514558,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284098,
       "num": 284098,
       "word": "中国男篮战胜埃及男篮",
@@ -731,8 +747,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 242601,
-      "num": 242601,
+      "raw_hot": 244561,
+      "num": 244561,
       "word": "电影热烈今日上映",
       "onboard_time": 1690513059,
       "rank": 32,
@@ -771,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226217,
+      "num": 226217,
+      "word": "张元英坐姿",
+      "onboard_time": 1690514499,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216774,
       "num": 216774,
       "word": "举报涂磊女子所属村干部发声",
@@ -785,6 +809,14 @@
       "onboard_time": 1690505379,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 211483,
+      "num": 226203,
+      "word": "相柳是在自卑吗",
+      "onboard_time": 1690509519,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 209207,
@@ -803,20 +835,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206260,
-      "num": 206260,
-      "word": "韩国超导",
-      "onboard_time": 1690513659,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 205133,
       "num": 205133,
       "word": "欧阳娜娜的腮红",
       "onboard_time": 1690473576,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203862,
+      "num": 226190,
+      "word": "王鹤棣段小薇合作新歌MV",
+      "onboard_time": 1690514919,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 199705,
@@ -836,11 +868,19 @@
     },
     {
       "raw_hot": 185623,
-      "num": 206257,
+      "num": 226116,
       "word": "烟台狂风暴雨敢出去救人的两位大哥",
       "onboard_time": 1690508197,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 180249,
+      "num": 226143,
+      "word": "i人社交前需要先排练",
+      "onboard_time": 1690514677,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 177726,
@@ -899,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163208,
-      "num": 206247,
-      "word": "相柳是在自卑吗",
-      "onboard_time": 1690509519,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 156049,
       "num": 199659,
       "word": "EDG",
@@ -931,11 +963,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147106,
+      "num": 226085,
+      "word": "出去旅行被当成日本人",
+      "onboard_time": 1690515159,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144516,
       "num": 144516,
       "word": "唐山大地震47周年祭",
       "onboard_time": 1690500507,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141432,
+      "num": 2093067,
+      "word": "青春主场",
+      "onboard_time": 1690513900,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -979,14 +1027,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 74436,
-      "num": 2093067,
-      "word": "青春主场",
-      "onboard_time": 1690513900,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73988,
       "num": 99559,
       "word": "赵今麦妆造",
@@ -1009,6 +1049,9 @@
     },
     {
       "word": "#习近平将出席开幕式并宣布大运会开幕#"
+    },
+    {
+      "word": "#中印尼是志同道合的同路人好伙伴#"
     }
   ]
 }
