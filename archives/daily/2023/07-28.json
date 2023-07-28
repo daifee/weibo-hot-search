@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690525292039,
+  "endTime": 1690526036825,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -251,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 983466,
+      "num": 983466,
+      "word": "外交部网站发布王毅部长致辞",
+      "onboard_time": 1690523794,
+      "rank": 7,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 981231,
       "num": 981231,
       "word": "除了杨紫都跟电脑都不太熟",
@@ -329,6 +337,14 @@
       "onboard_time": 1690518639,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 814882,
+      "num": 814882,
+      "word": "封神第二部妲己被册封",
+      "onboard_time": 1690524576,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 803455,
@@ -451,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601486,
-      "num": 601486,
-      "word": "外交部网站发布王毅部长致辞",
-      "onboard_time": 1690523794,
-      "rank": 7,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 600426,
       "num": 428225,
       "word": "长相思好虐",
@@ -491,12 +499,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 572510,
+      "num": 572510,
+      "word": "英雄联盟",
+      "onboard_time": 1690522416,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 545628,
       "num": 400604,
       "word": "男子跪地六小时求婚昏倒",
       "onboard_time": 1690521760,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542898,
+      "num": 542898,
+      "word": "刘恋比赛时发呆",
+      "onboard_time": 1690523978,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 535545,
@@ -539,22 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 500253,
-      "num": 500253,
-      "word": "刘恋比赛时发呆",
-      "onboard_time": 1690523978,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 499056,
-      "num": 499056,
-      "word": "英雄联盟",
-      "onboard_time": 1690522416,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 498793,
       "num": 473511,
       "word": "张元英坐姿",
@@ -569,14 +577,6 @@
       "onboard_time": 1690468789,
       "rank": 13,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 482256,
-      "num": 298481,
-      "word": "封神第二部妲己被册封",
-      "onboard_time": 1690524576,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 481826,
@@ -755,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367184,
+      "num": 367184,
+      "word": "涂山璟梅林殉情伏笔",
+      "onboard_time": 1690525475,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 367007,
       "num": 367007,
       "word": "浙江台风",
@@ -769,6 +777,14 @@
       "onboard_time": 1690517017,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354886,
+      "num": 354886,
+      "word": "泉州体育局回应五月天演唱会能否按时",
+      "onboard_time": 1690525295,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 344637,
@@ -787,12 +803,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336551,
+      "num": 336551,
+      "word": "赵琦君说我有老婆了",
+      "onboard_time": 1690525295,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331636,
       "num": 331636,
       "word": "成龙张艺兴新片传说杀青",
       "onboard_time": 1690515998,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324729,
+      "num": 324729,
+      "word": "杜苏芮登陆晋江现末日场景",
+      "onboard_time": 1690521519,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321393,
@@ -859,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303331,
-      "num": 303331,
-      "word": "杜苏芮登陆晋江现末日场景",
-      "onboard_time": 1690521519,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301425,
       "num": 301425,
       "word": "玱玹涂山璟以为小夭相柳在放纵",
@@ -913,6 +937,14 @@
       "onboard_time": 1690515401,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287124,
+      "num": 287124,
+      "word": "成都蓝天",
+      "onboard_time": 1690522719,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284098,
@@ -969,14 +1001,6 @@
       "onboard_time": 1690518821,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267466,
-      "num": 267466,
-      "word": "成都蓝天",
-      "onboard_time": 1690522719,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263290,
@@ -1076,7 +1100,7 @@
     },
     {
       "raw_hot": 237652,
-      "num": 221789,
+      "num": 222847,
       "word": "泉州警方抗击台风中损失警帽2个",
       "onboard_time": 1690523497,
       "rank": 39,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1690522778,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 222925,
+      "num": 222925,
+      "word": "杜苏芮强得离谱 路径妖得要命",
+      "onboard_time": 1690525717,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219596,
@@ -1193,6 +1225,22 @@
       "onboard_time": 1690473576,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202846,
+      "num": 202846,
+      "word": "大爷当街摸女孩背部被路人呵斥",
+      "onboard_time": 1690525416,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202131,
+      "num": 202131,
+      "word": "莲花楼一家三口",
+      "onboard_time": 1690525537,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 199788,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1690483034,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98962,
+      "num": 187230,
+      "word": "吴艳妮生日遇上大运会开幕",
+      "onboard_time": 1690525537,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 89302,
