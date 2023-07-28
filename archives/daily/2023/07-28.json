@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690522435164,
+  "endTime": 1690525292039,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 925818,
+      "num": 925818,
+      "word": "迪丽热巴或将演英雄联盟",
+      "onboard_time": 1690521873,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 919650,
       "num": 414295,
       "word": "微信一个手机可以两个账号了",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632241,
+      "num": 435018,
+      "word": "我爸在英国吃白人饭吃到崩溃",
+      "onboard_time": 1690523434,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 627041,
       "num": 627041,
       "word": "杜苏芮再次升级为超强台风",
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601486,
+      "num": 601486,
+      "word": "外交部网站发布王毅部长致辞",
+      "onboard_time": 1690523794,
+      "rank": 7,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 600426,
       "num": 428225,
       "word": "长相思好虐",
@@ -464,6 +488,22 @@
       "word": "念无双开机",
       "onboard_time": 1690510300,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 545628,
+      "num": 400604,
+      "word": "男子跪地六小时求婚昏倒",
+      "onboard_time": 1690521760,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535545,
+      "num": 535545,
+      "word": "长相思里究竟谁扛剧",
+      "onboard_time": 1690523434,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -499,6 +539,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500253,
+      "num": 500253,
+      "word": "刘恋比赛时发呆",
+      "onboard_time": 1690523978,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 499056,
+      "num": 499056,
+      "word": "英雄联盟",
+      "onboard_time": 1690522416,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 498793,
       "num": 473511,
       "word": "张元英坐姿",
@@ -513,6 +569,14 @@
       "onboard_time": 1690468789,
       "rank": 13,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 482256,
+      "num": 298481,
+      "word": "封神第二部妲己被册封",
+      "onboard_time": 1690524576,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 481826,
@@ -667,12 +731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380878,
-      "num": 380878,
-      "word": "迪丽热巴或将演英雄联盟",
-      "onboard_time": 1690521873,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 379025,
+      "num": 379025,
+      "word": "女子网购鲍鱼干竟跟葡萄干一样小",
+      "onboard_time": 1690522057,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372987,
@@ -795,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303331,
+      "num": 303331,
+      "word": "杜苏芮登陆晋江现末日场景",
+      "onboard_time": 1690521519,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301425,
       "num": 301425,
       "word": "玱玹涂山璟以为小夭相柳在放纵",
@@ -841,14 +913,6 @@
       "onboard_time": 1690515401,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287840,
-      "num": 282987,
-      "word": "女子网购鲍鱼干竟跟葡萄干一样小",
-      "onboard_time": 1690522057,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284098,
@@ -907,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267466,
+      "num": 267466,
+      "word": "成都蓝天",
+      "onboard_time": 1690522719,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263290,
       "num": 263290,
       "word": "坐出租车被记了一次警告",
@@ -937,14 +1009,6 @@
       "onboard_time": 1690504176,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256678,
-      "num": 256678,
-      "word": "男子跪地六小时求婚昏倒",
-      "onboard_time": 1690521760,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254306,
@@ -1011,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237652,
+      "num": 221789,
+      "word": "泉州警方抗击台风中损失警帽2个",
+      "onboard_time": 1690523497,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237543,
       "num": 237543,
       "word": "紫为星",
@@ -1043,12 +1115,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224863,
-      "num": 224863,
-      "word": "杜苏芮登陆晋江现末日场景",
-      "onboard_time": 1690521519,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 223353,
+      "num": 223353,
+      "word": "兄弟俩做错事怕挨打连穿4套衣服",
+      "onboard_time": 1690522778,
+      "rank": 38,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 219596,
+      "num": 219596,
+      "word": "黄晓明眼技",
+      "onboard_time": 1690522537,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 219552,
@@ -1115,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199788,
+      "num": 199788,
+      "word": "孤注一掷",
+      "onboard_time": 1690523978,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199705,
       "num": 199705,
       "word": "封神",
@@ -1163,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173368,
-      "num": 222392,
-      "word": "英雄联盟",
-      "onboard_time": 1690522416,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 172093,
       "num": 172093,
       "word": "张晚意说玱玹最后孤寡一生",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1690499003,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167709,
+      "num": 196411,
+      "word": "乐队的夏天3",
+      "onboard_time": 1690523919,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 166028,

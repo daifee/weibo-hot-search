@@ -1,0 +1,410 @@
+{
+  "runTime": 1690525292039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1888885,
+        "num": 1888885,
+        "word": "微信已把帐号改为账号",
+        "onboard_time": 1690507657,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1579105,
+        "num": 1579105,
+        "word": "杜苏芮路径",
+        "onboard_time": 1690454734,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72987,
+        "num": 1486344,
+        "word": "青春主场",
+        "onboard_time": 1690513900,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1454645,
+        "num": 1454645,
+        "word": "费翔 她是我的哈基米",
+        "onboard_time": 1690520200,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 925818,
+        "num": 925818,
+        "word": "迪丽热巴或将演英雄联盟",
+        "onboard_time": 1690521873,
+        "rank": 4,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 819362,
+        "num": 819362,
+        "word": "台风杜苏芮登陆晋江",
+        "onboard_time": 1690510420,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725867,
+        "num": 725867,
+        "word": "杨紫回应剧不虐不接",
+        "onboard_time": 1690520079,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601486,
+        "num": 601486,
+        "word": "外交部网站发布王毅部长致辞",
+        "onboard_time": 1690523794,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 760488,
+        "num": 593657,
+        "word": "泉州海峡体育中心顶篷被狂风吹走",
+        "onboard_time": 1690517259,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 536023,
+        "num": 536023,
+        "word": "丫丫小脸圆到一眼没认出来",
+        "onboard_time": 1690509580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1235231,
+        "num": 535925,
+        "word": "邓为随地乱扔烟头",
+        "onboard_time": 1690515459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1343528,
+        "num": 535924,
+        "word": "晋江台风",
+        "onboard_time": 1690520860,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535545,
+        "num": 535545,
+        "word": "长相思里究竟谁扛剧",
+        "onboard_time": 1690523434,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510625,
+        "num": 510625,
+        "word": "龚俊问40集吻戏拍什么戏这是",
+        "onboard_time": 1690521459,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815311,
+        "num": 509694,
+        "word": "五月天泉州 只剩倾盆的思念",
+        "onboard_time": 1690518219,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 500253,
+        "num": 500253,
+        "word": "刘恋比赛时发呆",
+        "onboard_time": 1690523978,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499056,
+        "num": 499056,
+        "word": "英雄联盟",
+        "onboard_time": 1690522416,
+        "rank": 16,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 561365,
+        "num": 496826,
+        "word": "厦门暴雨似飞瀑倾泄而下",
+        "onboard_time": 1690509817,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457876,
+        "num": 457876,
+        "word": "个人住房贷款认房不认贷",
+        "onboard_time": 1690507234,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449585,
+        "num": 449585,
+        "word": "杨洋 谢谢大家的包容与陪伴批评和建议",
+        "onboard_time": 1690466680,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1090791,
+        "num": 444544,
+        "word": "瘦了12斤内脏脂肪掉了35cm",
+        "onboard_time": 1690518462,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 632241,
+        "num": 435018,
+        "word": "我爸在英国吃白人饭吃到崩溃",
+        "onboard_time": 1690523434,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 603830,
+        "num": 418658,
+        "word": "性侵女学生后男子说自己性功能障碍",
+        "onboard_time": 1690512339,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545628,
+        "num": 400604,
+        "word": "男子跪地六小时求婚昏倒",
+        "onboard_time": 1690521760,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460419,
+        "num": 381138,
+        "word": "微信式恋爱",
+        "onboard_time": 1690517922,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379025,
+        "num": 379025,
+        "word": "女子网购鲍鱼干竟跟葡萄干一样小",
+        "onboard_time": 1690522057,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371612,
+        "num": 371612,
+        "word": "甄子丹女儿出道",
+        "onboard_time": 1690518639,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310706,
+        "num": 310706,
+        "word": "窦骁婚后首部作品",
+        "onboard_time": 1690521579,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303331,
+        "num": 303331,
+        "word": "杜苏芮登陆晋江现末日场景",
+        "onboard_time": 1690521519,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301647,
+        "num": 301647,
+        "word": "公公嫌儿媳乱花钱一脚踢裂其脾脏",
+        "onboard_time": 1690507234,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482256,
+        "num": 298481,
+        "word": "封神第二部妲己被册封",
+        "onboard_time": 1690524576,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290949,
+        "num": 290949,
+        "word": "姥姥说给我做了几件泳衣",
+        "onboard_time": 1690519602,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267466,
+        "num": 267466,
+        "word": "成都蓝天",
+        "onboard_time": 1690522719,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265423,
+        "num": 265423,
+        "word": "台风天上班",
+        "onboard_time": 1690508739,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264746,
+        "num": 264746,
+        "word": "韩国超导",
+        "onboard_time": 1690513659,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 257605,
+        "num": 257605,
+        "word": "李玟丈夫发声明",
+        "onboard_time": 1690510600,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257283,
+        "num": 257283,
+        "word": "杜苏芮卡努双台风",
+        "onboard_time": 1690501349,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250935,
+        "num": 250935,
+        "word": "王鹤棣段小薇合作新歌MV",
+        "onboard_time": 1690514919,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223353,
+        "num": 223353,
+        "word": "兄弟俩做错事怕挨打连穿4套衣服",
+        "onboard_time": 1690522778,
+        "rank": 38,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 237652,
+        "num": 221789,
+        "word": "泉州警方抗击台风中损失警帽2个",
+        "onboard_time": 1690523497,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219596,
+        "num": 219596,
+        "word": "黄晓明眼技",
+        "onboard_time": 1690522537,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203459,
+        "num": 203459,
+        "word": "李玟丈夫不参与李玟遗产分配",
+        "onboard_time": 1690510960,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220919,
+        "num": 202072,
+        "word": "卡努",
+        "onboard_time": 1690499424,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199788,
+        "num": 199788,
+        "word": "孤注一掷",
+        "onboard_time": 1690523978,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183436,
+        "num": 197285,
+        "word": "大宋少年志2定档",
+        "onboard_time": 1690513238,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196423,
+        "num": 196423,
+        "word": "猫咪杜苏芮大风中坐的超稳",
+        "onboard_time": 1690519660,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183022,
+        "num": 196423,
+        "word": "张元英坐姿",
+        "onboard_time": 1690514499,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171059,
+        "num": 196420,
+        "word": "乐队的夏天3要回来了",
+        "onboard_time": 1690519543,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156520,
+        "num": 196413,
+        "word": "电影热烈今日上映",
+        "onboard_time": 1690513059,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167709,
+        "num": 196411,
+        "word": "乐队的夏天3",
+        "onboard_time": 1690523919,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼是志同道合的同路人好伙伴#"
+    }
+  }
+}
