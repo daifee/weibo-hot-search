@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690535749542,
+  "endTime": 1690536830156,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -931,6 +931,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1575570,
+      "num": 1575570,
+      "word": "李现跑着拥抱吴彦姝",
+      "onboard_time": 1690534954,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1573796,
       "num": 1573796,
       "word": "女大学生每月收千元神秘汇款真相令人泪目",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1690241967,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1440903,
+      "num": 607412,
+      "word": "王一博今天已经有工作了",
+      "onboard_time": 1690534474,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1433810,
@@ -1435,6 +1451,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1186479,
+      "num": 1186479,
+      "word": "小夭相柳海底吻",
+      "onboard_time": 1690534892,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1185076,
       "num": 1185076,
       "word": "罗云熙吴倩演张晚意爸妈",
@@ -1529,14 +1553,6 @@
       "onboard_time": 1690346378,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1132754,
-      "num": 607412,
-      "word": "王一博今天已经有工作了",
-      "onboard_time": 1690534474,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1131536,
@@ -1801,14 +1817,6 @@
       "onboard_time": 1690263225,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1032051,
-      "num": 1032051,
-      "word": "李现跑着拥抱吴彦姝",
-      "onboard_time": 1690534954,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1027624,
@@ -2547,6 +2555,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 809078,
+      "num": 532648,
+      "word": "e人的骨头长这样",
+      "onboard_time": 1690534233,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 805943,
       "num": 805943,
       "word": "成都大运会",
@@ -3179,14 +3195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 688076,
-      "num": 271495,
-      "word": "e人的骨头长这样",
-      "onboard_time": 1690534233,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 687201,
       "num": 687201,
       "word": "绿豆汤变红",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1690349317,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 632299,
+      "num": 367240,
+      "word": "遭71岁老头扒坟辱尸老太家属发声",
+      "onboard_time": 1690535853,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632241,
@@ -4281,14 +4297,6 @@
       "onboard_time": 1690209408,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 547838,
-      "num": 547838,
-      "word": "小夭相柳海底吻",
-      "onboard_time": 1690534892,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 545628,
@@ -5209,6 +5217,14 @@
       "onboard_time": 1690448975,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 453763,
+      "num": 367330,
+      "word": "原来大家的开车精神状态都一样",
+      "onboard_time": 1690533636,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 453150,
@@ -6297,14 +6313,6 @@
       "onboard_time": 1690432122,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 367330,
-      "num": 367330,
-      "word": "原来大家的开车精神状态都一样",
-      "onboard_time": 1690533636,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 367142,
@@ -7731,6 +7739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284558,
+      "num": 284558,
+      "word": "为什么平板比手机便宜",
+      "onboard_time": 1690536094,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 284281,
       "num": 284281,
       "word": "女子买糕点付钱后发现被调包成临期",
@@ -7929,6 +7945,14 @@
       "onboard_time": 1690518821,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273075,
+      "num": 273075,
+      "word": "薛之谦坐在刘宪华身上",
+      "onboard_time": 1690535793,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 272757,
@@ -9073,6 +9097,14 @@
       "onboard_time": 1690162952,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 214139,
+      "num": 214139,
+      "word": "韩团队称合成世界首个室温常压超导体",
+      "onboard_time": 1690536274,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213782,

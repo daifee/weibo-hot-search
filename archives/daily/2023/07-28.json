@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690535749542,
+  "endTime": 1690536830156,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1575570,
+      "num": 1575570,
+      "word": "李现跑着拥抱吴彦姝",
+      "onboard_time": 1690534954,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1487768,
       "num": 513818,
       "word": "性侵女学生后男子说自己性功能障碍",
@@ -161,6 +169,14 @@
       "onboard_time": 1690505258,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1440903,
+      "num": 607412,
+      "word": "王一博今天已经有工作了",
+      "onboard_time": 1690534474,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1425762,
@@ -203,20 +219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1186479,
+      "num": 1186479,
+      "word": "小夭相柳海底吻",
+      "onboard_time": 1690534892,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1174413,
       "num": 1070410,
       "word": "杜苏芮卡努双台风",
       "onboard_time": 1690501349,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1132754,
-      "num": 607412,
-      "word": "王一博今天已经有工作了",
-      "onboard_time": 1690534474,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1120790,
@@ -280,14 +296,6 @@
       "word": "邓为为乱扔烟头道歉",
       "onboard_time": 1690517563,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1032051,
-      "num": 1032051,
-      "word": "李现跑着拥抱吴彦姝",
-      "onboard_time": 1690534954,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809078,
+      "num": 532648,
+      "word": "e人的骨头长这样",
+      "onboard_time": 1690534233,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 805943,
       "num": 805943,
       "word": "成都大运会",
@@ -467,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 688076,
-      "num": 271495,
-      "word": "e人的骨头长这样",
-      "onboard_time": 1690534233,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 670123,
       "num": 513887,
       "word": "台风眼",
@@ -521,6 +529,14 @@
       "onboard_time": 1690529615,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 632299,
+      "num": 367240,
+      "word": "遭71岁老头扒坟辱尸老太家属发声",
+      "onboard_time": 1690535853,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632241,
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 599387,
+      "num": 570570,
+      "word": "封神票房",
+      "onboard_time": 1690531534,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591353,
       "num": 475285,
       "word": "台风天上班",
@@ -633,22 +657,6 @@
       "onboard_time": 1690522416,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 570570,
-      "num": 570570,
-      "word": "封神票房",
-      "onboard_time": 1690531534,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 547838,
-      "num": 547838,
-      "word": "小夭相柳海底吻",
-      "onboard_time": 1690534892,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 545628,
@@ -795,6 +803,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 453763,
+      "num": 367330,
+      "word": "原来大家的开车精神状态都一样",
+      "onboard_time": 1690533636,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 452792,
       "num": 358961,
       "word": "长相思",
@@ -937,14 +953,6 @@
       "onboard_time": 1690469325,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 367330,
-      "num": 367330,
-      "word": "原来大家的开车精神状态都一样",
-      "onboard_time": 1690533636,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 367007,
@@ -1123,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284558,
+      "num": 284558,
+      "word": "为什么平板比手机便宜",
+      "onboard_time": 1690536094,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 284098,
       "num": 284098,
       "word": "中国男篮战胜埃及男篮",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1690518821,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273075,
+      "num": 273075,
+      "word": "薛之谦坐在刘宪华身上",
+      "onboard_time": 1690535793,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 264981,
@@ -1395,6 +1419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 214139,
+      "num": 214139,
+      "word": "韩团队称合成世界首个室温常压超导体",
+      "onboard_time": 1690536274,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211483,
       "num": 226203,
       "word": "相柳是在自卑吗",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1690466740,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174793,
+      "num": 174793,
+      "word": "超导",
+      "onboard_time": 1690536753,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 172093,
