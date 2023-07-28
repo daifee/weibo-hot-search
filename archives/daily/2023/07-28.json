@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690515219848,
+  "endTime": 1690517983769,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -33,6 +33,14 @@
       "onboard_time": 1690507657,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2738657,
+      "num": 702237,
+      "word": "邓为随地乱扔烟头",
+      "onboard_time": 1690515459,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1985912,
@@ -179,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 994742,
+      "num": 994742,
+      "word": "王鹤棣段小薇合作新歌MV",
+      "onboard_time": 1690514919,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 981231,
       "num": 981231,
       "word": "除了杨紫都跟电脑都不太熟",
@@ -192,6 +208,14 @@
       "word": "微信一个手机可以两个账号了",
       "onboard_time": 1690467037,
       "rank": 20,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 916216,
+      "num": 916216,
+      "word": "韩国超导",
+      "onboard_time": 1690513659,
+      "rank": 39,
       "category": "科技"
     },
     {
@@ -227,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 798010,
+      "num": 354258,
+      "word": "邓为为乱扔烟头道歉",
+      "onboard_time": 1690517563,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789985,
       "num": 542981,
       "word": "杨洋白鹿或将合作与晋长安",
@@ -256,6 +288,22 @@
       "word": "杜苏芮直播",
       "onboard_time": 1690510657,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701658,
+      "num": 547381,
+      "word": "泉州海峡体育中心顶篷被狂风吹走",
+      "onboard_time": 1690517259,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 670123,
+      "num": 357822,
+      "word": "台风眼",
+      "onboard_time": 1690514558,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -355,12 +403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 524034,
-      "num": 524034,
-      "word": "韩国超导",
-      "onboard_time": 1690513659,
-      "rank": 39,
-      "category": "科技"
+      "raw_hot": 547716,
+      "num": 547716,
+      "word": "人间烟火受害人",
+      "onboard_time": 1690516601,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 518386,
@@ -377,6 +425,14 @@
       "onboard_time": 1690506873,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 498793,
+      "num": 339966,
+      "word": "张元英坐姿",
+      "onboard_time": 1690514499,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 497575,
@@ -539,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359099,
+      "num": 359099,
+      "word": "中国好声音今晚开播",
+      "onboard_time": 1690516959,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339610,
       "num": 339610,
       "word": "好兆头",
@@ -553,6 +617,14 @@
       "onboard_time": 1690469150,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320761,
+      "num": 320761,
+      "word": "封神里的玉环是还家的还",
+      "onboard_time": 1690517017,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 318996,
@@ -619,11 +691,27 @@
       "category": "网红"
     },
     {
-      "raw_hot": 288793,
-      "num": 237288,
-      "word": "台风眼",
-      "onboard_time": 1690514558,
-      "rank": 34,
+      "raw_hot": 295335,
+      "num": 295335,
+      "word": "成龙张艺兴新片传说杀青",
+      "onboard_time": 1690515998,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 292419,
+      "num": 292419,
+      "word": "娜扎新电影好多小狗",
+      "onboard_time": 1690515401,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 287654,
+      "num": 230956,
+      "word": "晋江台风现场",
+      "onboard_time": 1690516299,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -707,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254973,
+      "num": 358798,
+      "word": "当代年轻人的办公仪式感",
+      "onboard_time": 1690515338,
+      "rank": 17,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 254306,
       "num": 254306,
       "word": "学着猫咪揣手手",
@@ -747,8 +843,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 244561,
-      "num": 244561,
+      "raw_hot": 244807,
+      "num": 244807,
       "word": "电影热烈今日上映",
       "onboard_time": 1690513059,
       "rank": 32,
@@ -771,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236227,
+      "num": 228642,
+      "word": "热烈",
+      "onboard_time": 1690516299,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231784,
       "num": 231784,
       "word": "再也不怕刷身份证时尴尬了",
@@ -785,14 +889,6 @@
       "onboard_time": 1690471480,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 226217,
-      "num": 226217,
-      "word": "张元英坐姿",
-      "onboard_time": 1690514499,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 216774,
@@ -835,20 +931,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207824,
+      "num": 207824,
+      "word": "微信式恋爱",
+      "onboard_time": 1690517922,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205133,
       "num": 205133,
       "word": "欧阳娜娜的腮红",
       "onboard_time": 1690473576,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203862,
-      "num": 226190,
-      "word": "王鹤棣段小薇合作新歌MV",
-      "onboard_time": 1690514919,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 199705,
@@ -993,6 +1089,14 @@
       "onboard_time": 1690511139,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136160,
+      "num": 356666,
+      "word": "胡歌声音感染力",
+      "onboard_time": 1690515580,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 115254,

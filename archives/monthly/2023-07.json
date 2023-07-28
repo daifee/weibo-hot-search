@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690515219848,
+  "endTime": 1690517983769,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1481,6 +1481,14 @@
       "onboard_time": 1688465738,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2738657,
+      "num": 702237,
+      "word": "邓为随地乱扔烟头",
+      "onboard_time": 1690515459,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2736599,
@@ -10219,6 +10227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 994742,
+      "num": 994742,
+      "word": "王鹤棣段小薇合作新歌MV",
+      "onboard_time": 1690514919,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 994669,
       "num": 994669,
       "word": "李莎旻子居然写了20首歌",
@@ -11465,6 +11481,14 @@
       "onboard_time": 1688121397,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 916216,
+      "num": 916216,
+      "word": "韩国超导",
+      "onboard_time": 1690513659,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 915929,
@@ -14347,6 +14371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 798010,
+      "num": 354258,
+      "word": "邓为为乱扔烟头道歉",
+      "onboard_time": 1690517563,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797925,
       "num": 797925,
       "word": "我的人间烟火 灭火器",
@@ -16899,6 +16931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 701658,
+      "num": 547381,
+      "word": "泉州海峡体育中心顶篷被狂风吹走",
+      "onboard_time": 1690517259,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 701626,
       "num": 701626,
       "word": "杨紫在见面会上突然看到爸爸",
@@ -17872,6 +17912,14 @@
       "word": "特斯拉",
       "onboard_time": 1688698471,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670123,
+      "num": 357822,
+      "word": "台风眼",
+      "onboard_time": 1690514558,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -23083,6 +23131,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 547716,
+      "num": 547716,
+      "word": "人间烟火受害人",
+      "onboard_time": 1690516601,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547656,
       "num": 547656,
       "word": "陈哲远聂远邢菲演搭档",
@@ -24177,14 +24233,6 @@
       "onboard_time": 1689414571,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524034,
-      "num": 524034,
-      "word": "韩国超导",
-      "onboard_time": 1690513659,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 523993,
@@ -25433,6 +25481,14 @@
       "onboard_time": 1689205050,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498793,
+      "num": 339966,
+      "word": "张元英坐姿",
+      "onboard_time": 1690514499,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 498752,
@@ -35459,6 +35515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359099,
+      "num": 359099,
+      "word": "中国好声音今晚开播",
+      "onboard_time": 1690516959,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359058,
       "num": 359058,
       "word": "成毅拍吻戏害羞了",
@@ -38907,6 +38971,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 320761,
+      "num": 320761,
+      "word": "封神里的玉环是还家的还",
+      "onboard_time": 1690517017,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320668,
       "num": 207559,
       "word": "蔡少芬用裙子帮瞿颖防走光",
@@ -41763,6 +41835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295335,
+      "num": 295335,
+      "word": "成龙张艺兴新片传说杀青",
+      "onboard_time": 1690515998,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295125,
       "num": 295125,
       "word": "宝格丽致歉是对中国市场的服膺",
@@ -42129,6 +42209,14 @@
       "onboard_time": 1688919507,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292419,
+      "num": 292419,
+      "word": "娜扎新电影好多小狗",
+      "onboard_time": 1690515401,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 292324,
@@ -42587,14 +42675,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 288793,
-      "num": 237288,
-      "word": "台风眼",
-      "onboard_time": 1690514558,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288741,
       "num": 288741,
       "word": "原神3.8",
@@ -42769,6 +42849,14 @@
       "onboard_time": 1690007551,
       "rank": 43,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 287654,
+      "num": 230956,
+      "word": "晋江台风现场",
+      "onboard_time": 1690516299,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287572,
@@ -46707,6 +46795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254973,
+      "num": 358798,
+      "word": "当代年轻人的办公仪式感",
+      "onboard_time": 1690515338,
+      "rank": 17,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 254940,
       "num": 254940,
       "word": "手机品牌为何扎堆绿色",
@@ -48043,6 +48139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 244807,
+      "num": 244807,
+      "word": "电影热烈今日上映",
+      "onboard_time": 1690513059,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244788,
       "num": 244788,
       "word": "贾静雯无袖旗袍",
@@ -48081,14 +48185,6 @@
       "onboard_time": 1689073538,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244561,
-      "num": 244561,
-      "word": "电影热烈今日上映",
-      "onboard_time": 1690513059,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 244434,
@@ -50553,14 +50649,6 @@
       "onboard_time": 1689389791,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226217,
-      "num": 226217,
-      "word": "张元英坐姿",
-      "onboard_time": 1690514499,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 226192,
@@ -53515,6 +53603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207824,
+      "num": 207824,
+      "word": "微信式恋爱",
+      "onboard_time": 1690517922,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207764,
       "num": 207764,
       "word": "记忆中的西红柿就长这样",
@@ -54161,14 +54257,6 @@
       "onboard_time": 1690425154,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 203862,
-      "num": 226190,
-      "word": "王鹤棣段小薇合作新歌MV",
-      "onboard_time": 1690514919,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 203856,
@@ -62169,6 +62257,14 @@
       "onboard_time": 1689980599,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136160,
+      "num": 356666,
+      "word": "胡歌声音感染力",
+      "onboard_time": 1690515580,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 136043,
