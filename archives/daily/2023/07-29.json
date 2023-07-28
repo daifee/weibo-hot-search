@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690564483034,
+  "endTime": 1690565638804,
   "band_list": [
     {
       "raw_hot": 1501908,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 695550,
+      "num": 222712,
+      "word": "连骗子都受不了冷暴力",
+      "onboard_time": 1690561351,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 678866,
       "num": 678866,
       "word": "伊拉克女旗手美炸了",
@@ -89,14 +97,6 @@
       "onboard_time": 1690559914,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591944,
-      "num": 188482,
-      "word": "连骗子都受不了冷暴力",
-      "onboard_time": 1690561351,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 568413,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378960,
+      "num": 308909,
+      "word": "杜苏芮已远离广东",
+      "onboard_time": 1690563086,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352720,
       "num": 282949,
       "word": "九尾商务",
@@ -193,6 +201,14 @@
       "onboard_time": 1690551275,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305725,
+      "num": 305725,
+      "word": "夭璟吻戏vs夭柳吻戏",
+      "onboard_time": 1690563206,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 304610,
@@ -227,28 +243,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 275198,
+      "num": 177673,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1690561411,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266149,
       "num": 266149,
       "word": "刘宪华高音",
       "onboard_time": 1690555779,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263242,
-      "num": 263242,
-      "word": "杜苏芮已远离广东",
-      "onboard_time": 1690563086,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259735,
-      "num": 259735,
-      "word": "夭璟吻戏vs夭柳吻戏",
-      "onboard_time": 1690563206,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 257090,
@@ -273,14 +281,6 @@
       "onboard_time": 1690556739,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245361,
-      "num": 177673,
-      "word": "韩剧恶鬼",
-      "onboard_time": 1690561411,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 227131,
@@ -355,7 +355,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176850,
+      "raw_hot": 177221,
       "num": 176850,
       "word": "屈楚萧戴眼镜",
       "onboard_time": 1690562309,
@@ -491,19 +491,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107865,
+      "num": 107865,
+      "word": "台风致浙江一动物园积水被困",
+      "onboard_time": 1690555717,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97253,
       "num": 800700,
       "word": "揭秘成都大运会开幕式亮点",
       "onboard_time": 1690549053,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74083,
-      "num": 100781,
-      "word": "台风致浙江一动物园积水被困",
-      "onboard_time": 1690555717,
-      "rank": 48,
       "category": "社会新闻"
     }
   ],
