@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690536830156,
+  "endTime": 1690539458401,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -131,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1575570,
-      "num": 1575570,
+      "raw_hot": 1575593,
+      "num": 1575593,
       "word": "李现跑着拥抱吴彦姝",
       "onboard_time": 1690534954,
       "rank": 4,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1440903,
-      "num": 607412,
+      "num": 689965,
       "word": "王一博今天已经有工作了",
       "onboard_time": 1690534474,
       "rank": 11,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1166078,
+      "num": 1166078,
+      "word": "哥哥离世留下21万债残疾弟弟帮还",
+      "onboard_time": 1690537833,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1120790,
       "num": 1120790,
       "word": "丫丫小脸圆到一眼没认出来",
@@ -281,6 +289,14 @@
       "onboard_time": 1690503034,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1068739,
+      "num": 1068739,
+      "word": "treasure",
+      "onboard_time": 1690537297,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1059672,
@@ -337,6 +353,14 @@
       "onboard_time": 1690472199,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 964635,
+      "num": 456389,
+      "word": "遭71岁老头扒坟辱尸老太家属发声",
+      "onboard_time": 1690535853,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 925818,
@@ -411,8 +435,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 819485,
+      "num": 819485,
+      "word": "韩团队称合成世界首个室温常压超导体",
+      "onboard_time": 1690536274,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817966,
-      "num": 817966,
+      "num": 1082551,
       "word": "独居女生被撬门狗狗狂吠吓跑对方",
       "onboard_time": 1690527935,
       "rank": 41,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 809078,
-      "num": 532648,
+      "num": 690414,
       "word": "e人的骨头长这样",
       "onboard_time": 1690534233,
       "rank": 30,
@@ -483,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 688715,
+      "num": 688715,
+      "word": "魏大勋刚进组vs减肥20斤后",
+      "onboard_time": 1690537713,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 670123,
       "num": 513887,
       "word": "台风眼",
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 663202,
-      "num": 391304,
+      "num": 394850,
       "word": "瘦了12斤内脏脂肪掉了35平方厘米",
       "onboard_time": 1690518462,
       "rank": 21,
@@ -529,14 +569,6 @@
       "onboard_time": 1690529615,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 632299,
-      "num": 367240,
-      "word": "遭71岁老头扒坟辱尸老太家属发声",
-      "onboard_time": 1690535853,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632241,
@@ -600,6 +632,14 @@
       "word": "银行回应职工纵容17岁儿子虐猫",
       "onboard_time": 1690483096,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603760,
+      "num": 467211,
+      "word": "济南暴雨",
+      "onboard_time": 1690537355,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -667,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542974,
+      "num": 452525,
+      "word": "刀郎",
+      "onboard_time": 1690537896,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 542898,
       "num": 542898,
       "word": "刘恋比赛时发呆",
@@ -681,6 +729,14 @@
       "onboard_time": 1690523434,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 519126,
+      "num": 519126,
+      "word": "台媒曝林志玲疑似患抑郁症",
+      "onboard_time": 1690539095,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 518386,
@@ -811,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 453532,
+      "num": 453532,
+      "word": "超导",
+      "onboard_time": 1690536753,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 452792,
       "num": 358961,
       "word": "长相思",
@@ -833,6 +897,14 @@
       "onboard_time": 1690521519,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449756,
+      "num": 449756,
+      "word": "为什么平板比手机便宜",
+      "onboard_time": 1690536094,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 444799,
@@ -1075,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302041,
+      "num": 302041,
+      "word": "薛之谦坐在刘宪华身上",
+      "onboard_time": 1690535793,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301425,
       "num": 301425,
       "word": "玱玹涂山璟以为小夭相柳在放纵",
@@ -1131,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284558,
-      "num": 284558,
-      "word": "为什么平板比手机便宜",
-      "onboard_time": 1690536094,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 284098,
       "num": 284098,
       "word": "中国男篮战胜埃及男篮",
@@ -1193,14 +1265,6 @@
       "onboard_time": 1690518821,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 273075,
-      "num": 273075,
-      "word": "薛之谦坐在刘宪华身上",
-      "onboard_time": 1690535793,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 264981,
@@ -1281,6 +1345,14 @@
       "onboard_time": 1690480220,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246328,
+      "num": 246328,
+      "word": "中国女足",
+      "onboard_time": 1690537355,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 244943,
@@ -1419,19 +1491,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 214139,
-      "num": 214139,
-      "word": "韩团队称合成世界首个室温常压超导体",
-      "onboard_time": 1690536274,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211483,
       "num": 226203,
       "word": "相柳是在自卑吗",
       "onboard_time": 1690509519,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 209886,
+      "num": 209886,
+      "word": "封神",
+      "onboard_time": 1690468670,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1441,6 +1513,14 @@
       "onboard_time": 1690506214,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 208867,
+      "num": 208867,
+      "word": "檀健次威亚好稳",
+      "onboard_time": 1690538314,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 208859,
@@ -1475,6 +1555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201741,
+      "num": 201741,
+      "word": "山东台风",
+      "onboard_time": 1690538793,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201250,
       "num": 215701,
       "word": "时影收官快剪",
@@ -1488,14 +1576,6 @@
       "word": "孤注一掷",
       "onboard_time": 1690523978,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 199705,
-      "num": 199705,
-      "word": "封神",
-      "onboard_time": 1690468670,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1521,6 +1601,14 @@
       "onboard_time": 1690476807,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189796,
+      "num": 197011,
+      "word": "中国好声音",
+      "onboard_time": 1690538673,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 188486,
@@ -1555,20 +1643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174793,
-      "num": 174793,
-      "word": "超导",
-      "onboard_time": 1690536753,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 172093,
       "num": 172093,
       "word": "张晚意说玱玹最后孤寡一生",
       "onboard_time": 1690497439,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171486,
+      "num": 196855,
+      "word": "苏醒家庭内卷",
+      "onboard_time": 1690539334,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 168057,
@@ -1747,12 +1835,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 77952,
+      "num": 458899,
+      "word": "3万多应届生入职比亚迪",
+      "onboard_time": 1690538612,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73988,
       "num": 99559,
       "word": "赵今麦妆造",
       "onboard_time": 1690461095,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61189,
+      "num": 1005695,
+      "word": "一人一句为大运健儿加油",
+      "onboard_time": 1690537833,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 43780,

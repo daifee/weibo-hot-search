@@ -1,0 +1,410 @@
+{
+  "runTime": 1690539458401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575593,
+        "num": 1575593,
+        "word": "李现跑着拥抱吴彦姝",
+        "onboard_time": 1690534954,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1166078,
+        "num": 1166078,
+        "word": "哥哥离世留下21万债残疾弟弟帮还",
+        "onboard_time": 1690537833,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78142,
+        "num": 1112742,
+        "word": "成都大运会双语先导片",
+        "onboard_time": 1690531175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272670,
+        "num": 1096970,
+        "word": "台风杜苏芮登陆晋江",
+        "onboard_time": 1690510420,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590904,
+        "num": 1082551,
+        "word": "独居女生被撬门狗狗狂吠吓跑对方",
+        "onboard_time": 1690527935,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068739,
+        "num": 1068739,
+        "word": "treasure",
+        "onboard_time": 1690537297,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61189,
+        "num": 1005695,
+        "word": "一人一句为大运健儿加油",
+        "onboard_time": 1690537833,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 995627,
+        "num": 995627,
+        "word": "小夭相柳海底吻",
+        "onboard_time": 1690534892,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 819485,
+        "num": 819485,
+        "word": "韩团队称合成世界首个室温常压超导体",
+        "onboard_time": 1690536274,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690414,
+        "num": 690414,
+        "word": "e人的骨头长这样",
+        "onboard_time": 1690534233,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1676408,
+        "num": 690218,
+        "word": "杜苏芮强得离谱 路径妖得要命",
+        "onboard_time": 1690525717,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186904,
+        "num": 689965,
+        "word": "王一博今天已经有工作了",
+        "onboard_time": 1690534474,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 981135,
+        "num": 689404,
+        "word": "长相思海外评分2.9分",
+        "onboard_time": 1690530215,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1340462,
+        "num": 689383,
+        "word": "杜苏芮已造成福建72.46万余人受灾",
+        "onboard_time": 1690532075,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817655,
+        "num": 688883,
+        "word": "徐艺洋说黄子韬穿假货",
+        "onboard_time": 1690528835,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688715,
+        "num": 688715,
+        "word": "魏大勋刚进组vs减肥20斤后",
+        "onboard_time": 1690537713,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 688739,
+        "num": 661457,
+        "word": "晋江台风",
+        "onboard_time": 1690520860,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519126,
+        "num": 519126,
+        "word": "台媒曝林志玲疑似患抑郁症",
+        "onboard_time": 1690539095,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477481,
+        "num": 477481,
+        "word": "微信已把帐号改为账号",
+        "onboard_time": 1690507657,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 603760,
+        "num": 467211,
+        "word": "济南暴雨",
+        "onboard_time": 1690537355,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77952,
+        "num": 458899,
+        "word": "3万多应届生入职比亚迪",
+        "onboard_time": 1690538612,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964635,
+        "num": 456389,
+        "word": "遭71岁老头扒坟辱尸老太家属发声",
+        "onboard_time": 1690535853,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453532,
+        "num": 453532,
+        "word": "超导",
+        "onboard_time": 1690536753,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 542974,
+        "num": 452525,
+        "word": "刀郎",
+        "onboard_time": 1690537896,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449756,
+        "num": 449756,
+        "word": "为什么平板比手机便宜",
+        "onboard_time": 1690536094,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 397354,
+        "num": 397354,
+        "word": "封神票房",
+        "onboard_time": 1690531534,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394850,
+        "num": 394850,
+        "word": "瘦了12斤内脏脂肪掉了35平方厘米",
+        "onboard_time": 1690518462,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344874,
+        "num": 344874,
+        "word": "邓为随地乱扔烟头",
+        "onboard_time": 1690515459,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333391,
+        "num": 333391,
+        "word": "李荣浩没抢到杨丞琳演唱会门票",
+        "onboard_time": 1690527094,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328533,
+        "num": 328533,
+        "word": "封神第二部妲己被册封",
+        "onboard_time": 1690524576,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317012,
+        "num": 317012,
+        "word": "TFBOYS十周年演唱会出座位了",
+        "onboard_time": 1690529615,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303281,
+        "num": 303281,
+        "word": "原来大家的开车精神状态都一样",
+        "onboard_time": 1690533636,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302041,
+        "num": 302041,
+        "word": "薛之谦坐在刘宪华身上",
+        "onboard_time": 1690535793,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301053,
+        "num": 301053,
+        "word": "费翔 她是我的哈基米",
+        "onboard_time": 1690520200,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297733,
+        "num": 297733,
+        "word": "美依礼芽中文告白凤凰传奇",
+        "onboard_time": 1690534172,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276092,
+        "num": 276092,
+        "word": "杜苏芮",
+        "onboard_time": 1690528715,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271608,
+        "num": 271608,
+        "word": "成都大运会",
+        "onboard_time": 1690532976,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262869,
+        "num": 262869,
+        "word": "性侵女学生后男子说自己性功能障碍",
+        "onboard_time": 1690512339,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246328,
+        "num": 246328,
+        "word": "中国女足",
+        "onboard_time": 1690537355,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239935,
+        "num": 239935,
+        "word": "杜苏芮登陆晋江现末日场景",
+        "onboard_time": 1690521519,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210880,
+        "num": 210880,
+        "word": "丫丫小脸圆到一眼没认出来",
+        "onboard_time": 1690509580,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210730,
+        "num": 210730,
+        "word": "人民文娱评封神第一部",
+        "onboard_time": 1690527036,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209886,
+        "num": 209886,
+        "word": "封神",
+        "onboard_time": 1690537174,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208867,
+        "num": 208867,
+        "word": "檀健次威亚好稳",
+        "onboard_time": 1690538314,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201741,
+        "num": 201741,
+        "word": "山东台风",
+        "onboard_time": 1690538793,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197031,
+        "num": 197031,
+        "word": "微信式恋爱",
+        "onboard_time": 1690517922,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189796,
+        "num": 197011,
+        "word": "中国好声音",
+        "onboard_time": 1690538673,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173759,
+        "num": 196934,
+        "word": "我爸在英国吃白人饭吃到崩溃",
+        "onboard_time": 1690523434,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171486,
+        "num": 196855,
+        "word": "苏醒家庭内卷",
+        "onboard_time": 1690539334,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170834,
+        "num": 196835,
+        "word": "看封神河南多处景点免门票",
+        "onboard_time": 1690532675,
+        "rank": 49,
+        "category": "影视,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼是志同道合的同路人好伙伴#"
+    }
+  }
+}
