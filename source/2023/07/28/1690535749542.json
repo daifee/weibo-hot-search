@@ -1,0 +1,410 @@
+{
+  "runTime": 1690535749542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1826722,
+        "num": 1826722,
+        "word": "长相思海外评分2.9分",
+        "onboard_time": 1690530215,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1501418,
+        "num": 1501418,
+        "word": "徐艺洋说黄子韬穿假货",
+        "onboard_time": 1690528835,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98927,
+        "num": 1386596,
+        "word": "成都大运会双语先导片",
+        "onboard_time": 1690531175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337032,
+        "num": 1337032,
+        "word": "台风杜苏芮登陆晋江",
+        "onboard_time": 1690510420,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032051,
+        "num": 1032051,
+        "word": "李现跑着拥抱吴彦姝",
+        "onboard_time": 1690534954,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805943,
+        "num": 805943,
+        "word": "成都大运会",
+        "onboard_time": 1690532976,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 705949,
+        "num": 705949,
+        "word": "封神第二部妲己被册封",
+        "onboard_time": 1690524576,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 694148,
+        "num": 694148,
+        "word": "李荣浩没抢到杨丞琳演唱会门票",
+        "onboard_time": 1690527094,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 634956,
+        "num": 634956,
+        "word": "独居女生被撬门狗狗狂吠吓跑对方",
+        "onboard_time": 1690527935,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629661,
+        "num": 629661,
+        "word": "微信已把帐号改为账号",
+        "onboard_time": 1690507657,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2164126,
+        "num": 624763,
+        "word": "杜苏芮已造成福建72.46万余人受灾",
+        "onboard_time": 1690532075,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132754,
+        "num": 607412,
+        "word": "王一博今天已经有工作了",
+        "onboard_time": 1690534474,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570570,
+        "num": 570570,
+        "word": "封神票房",
+        "onboard_time": 1690531534,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1953213,
+        "num": 561013,
+        "word": "杜苏芮强得离谱 路径妖得要命",
+        "onboard_time": 1690525717,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547838,
+        "num": 547838,
+        "word": "小夭相柳海底吻",
+        "onboard_time": 1690534892,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545862,
+        "num": 545862,
+        "word": "TFBOYS十周年演唱会出座位了",
+        "onboard_time": 1690529615,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 733795,
+        "num": 538060,
+        "word": "晋江台风",
+        "onboard_time": 1690520860,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507426,
+        "num": 507426,
+        "word": "邓为随地乱扔烟头",
+        "onboard_time": 1690515459,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419048,
+        "num": 419048,
+        "word": "费翔 她是我的哈基米",
+        "onboard_time": 1690520200,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379362,
+        "num": 379362,
+        "word": "杜苏芮登陆晋江现末日场景",
+        "onboard_time": 1690521519,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581267,
+        "num": 379302,
+        "word": "瘦了12斤内脏脂肪掉了35平方厘米",
+        "onboard_time": 1690518462,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 400783,
+        "num": 377061,
+        "word": "性侵女学生后男子说自己性功能障碍",
+        "onboard_time": 1690512339,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383903,
+        "num": 375755,
+        "word": "美依礼芽中文告白凤凰传奇",
+        "onboard_time": 1690534172,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273564,
+        "num": 374755,
+        "word": "丫丫小脸圆到一眼没认出来",
+        "onboard_time": 1690509580,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374420,
+        "num": 374420,
+        "word": "微信式恋爱",
+        "onboard_time": 1690517922,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367330,
+        "num": 367330,
+        "word": "原来大家的开车精神状态都一样",
+        "onboard_time": 1690533636,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352881,
+        "num": 352881,
+        "word": "人民文娱评封神第一部",
+        "onboard_time": 1690527036,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331576,
+        "num": 331576,
+        "word": "杜苏芮",
+        "onboard_time": 1690528715,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302649,
+        "num": 302649,
+        "word": "NCT大队演唱会海报",
+        "onboard_time": 1690533636,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277277,
+        "num": 277277,
+        "word": "我爸在英国吃白人饭吃到崩溃",
+        "onboard_time": 1690523434,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 688076,
+        "num": 271495,
+        "word": "e人的骨头长这样",
+        "onboard_time": 1690534233,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255660,
+        "num": 255660,
+        "word": "泉州体育局回应五月天演唱会能否按时",
+        "onboard_time": 1690525295,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236062,
+        "num": 236062,
+        "word": "三伏",
+        "onboard_time": 1690529136,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235616,
+        "num": 235616,
+        "word": "男子跪地六小时求婚昏倒",
+        "onboard_time": 1690521760,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231966,
+        "num": 231966,
+        "word": "公公嫌儿媳乱花钱一脚踢裂其脾脏",
+        "onboard_time": 1690507234,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227287,
+        "num": 227287,
+        "word": "看封神河南多处景点免门票",
+        "onboard_time": 1690532675,
+        "rank": 35,
+        "category": "影视,旅游"
+      },
+      {
+        "raw_hot": 222934,
+        "num": 222934,
+        "word": "外交部网站发布王毅部长致辞",
+        "onboard_time": 1690523794,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 221040,
+        "num": 221040,
+        "word": "赵琦君说我有老婆了",
+        "onboard_time": 1690525295,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209446,
+        "num": 221028,
+        "word": "涂山璟梅林殉情伏笔",
+        "onboard_time": 1690525475,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187770,
+        "num": 220872,
+        "word": "大爷当街摸女孩背部被路人呵斥",
+        "onboard_time": 1690525416,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181925,
+        "num": 220760,
+        "word": "罗云熙和Doinb双排",
+        "onboard_time": 1690529795,
+        "rank": 40,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 180487,
+        "num": 220658,
+        "word": "厦门暴雨似飞瀑倾泄而下",
+        "onboard_time": 1690509817,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176113,
+        "num": 220497,
+        "word": "杨洋 谢谢大家的包容与陪伴批评和建议",
+        "onboard_time": 1690466680,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158062,
+        "num": 220373,
+        "word": "女子网购鲍鱼干竟跟葡萄干一样小",
+        "onboard_time": 1690522057,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170473,
+        "num": 220304,
+        "word": "杜苏芮路径",
+        "onboard_time": 1690454734,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151841,
+        "num": 220143,
+        "word": "龚俊和迪丽热巴靠近会紧张",
+        "onboard_time": 1690528415,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147757,
+        "num": 220106,
+        "word": "热烈",
+        "onboard_time": 1690516299,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145705,
+        "num": 219937,
+        "word": "五月天泉州 只剩倾盆的思念",
+        "onboard_time": 1690518219,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137508,
+        "num": 219797,
+        "word": "电影热烈今日上映",
+        "onboard_time": 1690513059,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130561,
+        "num": 219699,
+        "word": "刘恋比赛时发呆",
+        "onboard_time": 1690523978,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼是志同道合的同路人好伙伴#"
+    }
+  }
+}
