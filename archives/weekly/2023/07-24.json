@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690539458401,
+  "endTime": 1690540428729,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -640,6 +640,14 @@
       "word": "齐齐哈尔体育馆坍塌事故遇难者身份公布",
       "onboard_time": 1690210423,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1845030,
+      "num": 1845030,
+      "word": "哥哥离世留下21万债残疾弟弟帮还",
+      "onboard_time": 1690537833,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1539,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1166078,
-      "num": 1166078,
-      "word": "哥哥离世留下21万债残疾弟弟帮还",
-      "onboard_time": 1690537833,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1155021,
       "num": 1155021,
       "word": "官方通报男子在张家界跳崖轻生",
@@ -1779,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1056879,
+      "num": 519126,
+      "word": "台媒曝林志玲疑似患抑郁症",
+      "onboard_time": 1690539095,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1049819,
       "num": 513780,
       "word": "邓为为乱扔烟头道歉",
@@ -1985,6 +1993,14 @@
       "onboard_time": 1690243774,
       "rank": 7,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 990136,
+      "num": 990136,
+      "word": "魏大勋刚进组vs减肥20斤后",
+      "onboard_time": 1690537713,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 981231,
@@ -3195,6 +3211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692796,
+      "num": 692796,
+      "word": "济南暴雨",
+      "onboard_time": 1690537355,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690808,
       "num": 690808,
       "word": "姐弟垃圾堆捡31部苹果手机价值21万",
@@ -3216,14 +3240,6 @@
       "word": "付闻樱扮演者陈瑾采访魅力",
       "onboard_time": 1690332098,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 688715,
-      "num": 688715,
-      "word": "魏大勋刚进组vs减肥20斤后",
-      "onboard_time": 1690537713,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -3891,14 +3907,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 603760,
-      "num": 467211,
-      "word": "济南暴雨",
-      "onboard_time": 1690537355,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 601963,
       "num": 601963,
       "word": "没想到自己二十多岁还不如小孩",
@@ -4539,14 +4547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 519126,
-      "num": 519126,
-      "word": "台媒曝林志玲疑似患抑郁症",
-      "onboard_time": 1690539095,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 519125,
       "num": 439367,
       "word": "驾校的狗尾巴草不能拔了",
@@ -4809,6 +4809,14 @@
       "onboard_time": 1690382805,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494586,
+      "num": 449756,
+      "word": "为什么平板比手机便宜",
+      "onboard_time": 1690536094,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 493689,
@@ -5337,14 +5345,6 @@
       "onboard_time": 1690173998,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 449756,
-      "num": 449756,
-      "word": "为什么平板比手机便宜",
-      "onboard_time": 1690536094,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 448544,
@@ -6307,6 +6307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374058,
+      "num": 330769,
+      "word": "山东台风",
+      "onboard_time": 1690538793,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373687,
       "num": 373687,
       "word": "阿娇看体重的样子演我",
@@ -6785,6 +6793,14 @@
       "onboard_time": 1690440814,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 339776,
+      "num": 339776,
+      "word": "薛之谦坐在刘宪华身上",
+      "onboard_time": 1690535793,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 339610,
@@ -7467,14 +7483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302041,
-      "num": 302041,
-      "word": "薛之谦坐在刘宪华身上",
-      "onboard_time": 1690535793,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301690,
       "num": 301690,
       "word": "张学友演唱会",
@@ -7577,6 +7585,14 @@
       "onboard_time": 1690172381,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296917,
+      "num": 296917,
+      "word": "中国好声音",
+      "onboard_time": 1690538673,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 295994,
@@ -8017,6 +8033,14 @@
       "onboard_time": 1690518821,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272923,
+      "num": 272923,
+      "word": "好友称刀郎不可能写歌骂人",
+      "onboard_time": 1690540115,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 272757,
@@ -8747,6 +8771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232089,
+      "num": 232089,
+      "word": "苏醒家庭内卷",
+      "onboard_time": 1690539334,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231823,
       "num": 1106717,
       "word": "10岁男孩进派出所送西瓜后百米冲刺离开",
@@ -8971,6 +9003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225504,
+      "num": 225504,
+      "word": "檀健次威亚好稳",
+      "onboard_time": 1690538314,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225501,
       "num": 225501,
       "word": "真的看到了沙漠下暴雨",
@@ -9064,6 +9104,14 @@
       "word": "莲花楼直播",
       "onboard_time": 1690457375,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220661,
+      "num": 220661,
+      "word": "巨齿鲨2",
+      "onboard_time": 1690539452,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -9273,14 +9321,6 @@
       "onboard_time": 1690451556,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208867,
-      "num": 208867,
-      "word": "檀健次威亚好稳",
-      "onboard_time": 1690538314,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 208625,
@@ -9545,14 +9585,6 @@
       "onboard_time": 1690214972,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201741,
-      "num": 201741,
-      "word": "山东台风",
-      "onboard_time": 1690538793,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201346,
@@ -9979,14 +10011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189796,
-      "num": 197011,
-      "word": "中国好声音",
-      "onboard_time": 1690538673,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189634,
       "num": 189634,
       "word": "相柳为什么不咬胳膊",
@@ -10363,14 +10387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171486,
-      "num": 196855,
-      "word": "苏醒家庭内卷",
-      "onboard_time": 1690539334,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171000,
       "num": 188010,
       "word": "女子花百余元订蛋糕图案只有正面",
@@ -10512,6 +10528,14 @@
       "word": "睡觉是对下雨天的基本尊重",
       "onboard_time": 1690291719,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161913,
+      "num": 458899,
+      "word": "3万多应届生入职比亚迪",
+      "onboard_time": 1690538612,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -11051,6 +11075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93526,
+      "num": 1005695,
+      "word": "一人一句为大运健儿加油",
+      "onboard_time": 1690537833,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89302,
       "num": 106967,
       "word": "亚运主题电影热烈",
@@ -11147,14 +11179,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 77952,
-      "num": 458899,
-      "word": "3万多应届生入职比亚迪",
-      "onboard_time": 1690538612,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77930,
       "num": 107541,
       "word": "sky光遇",
@@ -11225,14 +11249,6 @@
       "onboard_time": 1690290038,
       "rank": 14,
       "category": "网红,科技"
-    },
-    {
-      "raw_hot": 61189,
-      "num": 1005695,
-      "word": "一人一句为大运健儿加油",
-      "onboard_time": 1690537833,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 60475,

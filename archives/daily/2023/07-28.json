@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690539458401,
+  "endTime": 1690540428729,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -81,6 +81,14 @@
       "onboard_time": 1690517259,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1845030,
+      "num": 1845030,
+      "word": "哥哥离世留下21万债残疾弟弟帮还",
+      "onboard_time": 1690537833,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1826722,
@@ -235,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1166078,
-      "num": 1166078,
-      "word": "哥哥离世留下21万债残疾弟弟帮还",
-      "onboard_time": 1690537833,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1120790,
       "num": 1120790,
       "word": "丫丫小脸圆到一眼没认出来",
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1056879,
+      "num": 519126,
+      "word": "台媒曝林志玲疑似患抑郁症",
+      "onboard_time": 1690539095,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1049819,
       "num": 513780,
       "word": "邓为为乱扔烟头道歉",
@@ -345,6 +353,14 @@
       "onboard_time": 1690514919,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 990136,
+      "num": 990136,
+      "word": "魏大勋刚进组vs减肥20斤后",
+      "onboard_time": 1690537713,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 981231,
@@ -515,12 +531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 688715,
-      "num": 688715,
-      "word": "魏大勋刚进组vs减肥20斤后",
-      "onboard_time": 1690537713,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 692796,
+      "num": 692796,
+      "word": "济南暴雨",
+      "onboard_time": 1690537355,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670123,
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603760,
-      "num": 467211,
-      "word": "济南暴雨",
-      "onboard_time": 1690537355,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 600426,
       "num": 428225,
       "word": "长相思好虐",
@@ -731,14 +739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 519126,
-      "num": 519126,
-      "word": "台媒曝林志玲疑似患抑郁症",
-      "onboard_time": 1690539095,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 518386,
       "num": 400068,
       "word": "杜苏芮预计10时前后登陆",
@@ -785,6 +785,14 @@
       "onboard_time": 1690468789,
       "rank": 13,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 494586,
+      "num": 449756,
+      "word": "为什么平板比手机便宜",
+      "onboard_time": 1690536094,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 481826,
@@ -899,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449756,
-      "num": 449756,
-      "word": "为什么平板比手机便宜",
-      "onboard_time": 1690536094,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 444799,
       "num": 444799,
       "word": "三伏",
@@ -1011,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374058,
+      "num": 330769,
+      "word": "山东台风",
+      "onboard_time": 1690538793,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372987,
       "num": 372987,
       "word": "原著里的相柳",
@@ -1055,6 +1063,14 @@
       "num": 344637,
       "word": "乐队的夏天3要回来了",
       "onboard_time": 1690519543,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339776,
+      "num": 339776,
+      "word": "薛之谦坐在刘宪华身上",
+      "onboard_time": 1690535793,
       "rank": 29,
       "category": "综艺"
     },
@@ -1147,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 302041,
-      "num": 302041,
-      "word": "薛之谦坐在刘宪华身上",
-      "onboard_time": 1690535793,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301425,
       "num": 301425,
       "word": "玱玹涂山璟以为小夭相柳在放纵",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1690515338,
       "rank": 17,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 296917,
+      "num": 296917,
+      "word": "中国好声音",
+      "onboard_time": 1690538673,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 293078,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1690518821,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272923,
+      "num": 272923,
+      "word": "好友称刀郎不可能写歌骂人",
+      "onboard_time": 1690540115,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 264981,
@@ -1427,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232089,
+      "num": 232089,
+      "word": "苏醒家庭内卷",
+      "onboard_time": 1690539334,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231784,
       "num": 231784,
       "word": "再也不怕刷身份证时尴尬了",
@@ -1451,12 +1483,28 @@
       "category": "影视,旅游"
     },
     {
+      "raw_hot": 225504,
+      "num": 225504,
+      "word": "檀健次威亚好稳",
+      "onboard_time": 1690538314,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223353,
       "num": 223353,
       "word": "兄弟俩做错事怕挨打连穿4套衣服",
       "onboard_time": 1690522778,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 220661,
+      "num": 220661,
+      "word": "巨齿鲨2",
+      "onboard_time": 1690539452,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 219596,
@@ -1515,14 +1563,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 208867,
-      "num": 208867,
-      "word": "檀健次威亚好稳",
-      "onboard_time": 1690538314,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208859,
       "num": 208859,
       "word": "王鹤棣范丞丞魏大勋白敬亭口罩自拍",
@@ -1553,14 +1593,6 @@
       "onboard_time": 1690473576,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201741,
-      "num": 201741,
-      "word": "山东台风",
-      "onboard_time": 1690538793,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201250,
@@ -1603,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189796,
-      "num": 197011,
-      "word": "中国好声音",
-      "onboard_time": 1690538673,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188486,
       "num": 222398,
       "word": "东北小伙模仿老大爷喝酒",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1690497439,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171486,
-      "num": 196855,
-      "word": "苏醒家庭内卷",
-      "onboard_time": 1690539334,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 168057,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1690476984,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161913,
+      "num": 458899,
+      "word": "3万多应届生入职比亚迪",
+      "onboard_time": 1690538612,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156049,
@@ -1811,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93526,
+      "num": 1005695,
+      "word": "一人一句为大运健儿加油",
+      "onboard_time": 1690537833,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89302,
       "num": 106967,
       "word": "亚运主题电影热烈",
@@ -1835,28 +1867,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 77952,
-      "num": 458899,
-      "word": "3万多应届生入职比亚迪",
-      "onboard_time": 1690538612,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73988,
       "num": 99559,
       "word": "赵今麦妆造",
       "onboard_time": 1690461095,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 61189,
-      "num": 1005695,
-      "word": "一人一句为大运健儿加油",
-      "onboard_time": 1690537833,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 43780,

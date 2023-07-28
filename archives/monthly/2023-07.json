@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690539458401,
+  "endTime": 1690540428729,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -3737,6 +3737,14 @@
       "onboard_time": 1688904212,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1845030,
+      "num": 1845030,
+      "word": "哥哥离世留下21万债残疾弟弟帮还",
+      "onboard_time": 1690537833,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1844383,
@@ -8051,14 +8059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1166078,
-      "num": 1166078,
-      "word": "哥哥离世留下21万债残疾弟弟帮还",
-      "onboard_time": 1690537833,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1165796,
       "num": 924892,
       "word": "肖战洗澡vs杨洋王子奇洗澡",
@@ -9459,6 +9459,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1056879,
+      "num": 519126,
+      "word": "台媒曝林志玲疑似患抑郁症",
+      "onboard_time": 1690539095,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1055322,
       "num": 1055322,
       "word": "娜扎cos芈月",
@@ -10513,6 +10521,14 @@
       "onboard_time": 1688971532,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 990136,
+      "num": 990136,
+      "word": "魏大勋刚进组vs减肥20斤后",
+      "onboard_time": 1690537713,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 990024,
@@ -17459,6 +17475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 692796,
+      "num": 692796,
+      "word": "济南暴雨",
+      "onboard_time": 1690537355,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 692194,
       "num": 692194,
       "word": "消失的她在八角笼中",
@@ -17569,14 +17593,6 @@
       "onboard_time": 1689990273,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 688715,
-      "num": 688715,
-      "word": "魏大勋刚进组vs减肥20斤后",
-      "onboard_time": 1690537713,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 688674,
@@ -21025,14 +21041,6 @@
       "onboard_time": 1689670957,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 603760,
-      "num": 467211,
-      "word": "济南暴雨",
-      "onboard_time": 1690537355,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 603598,
@@ -24771,14 +24779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519126,
-      "num": 519126,
-      "word": "台媒曝林志玲疑似患抑郁症",
-      "onboard_time": 1690539095,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 519125,
       "num": 439367,
       "word": "驾校的狗尾巴草不能拔了",
@@ -26073,6 +26073,14 @@
       "onboard_time": 1689395795,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 494586,
+      "num": 449756,
+      "word": "为什么平板比手机便宜",
+      "onboard_time": 1690536094,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 494581,
@@ -28945,14 +28953,6 @@
       "onboard_time": 1690026271,
       "rank": 17,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 449756,
-      "num": 449756,
-      "word": "为什么平板比手机便宜",
-      "onboard_time": 1690536094,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 449497,
@@ -34619,6 +34619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374058,
+      "num": 330769,
+      "word": "山东台风",
+      "onboard_time": 1690538793,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374030,
       "num": 374030,
       "word": "浮世三千定档",
@@ -37665,6 +37673,14 @@
       "onboard_time": 1690440814,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 339776,
+      "num": 339776,
+      "word": "薛之谦坐在刘宪华身上",
+      "onboard_time": 1690535793,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 339765,
@@ -41355,14 +41371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 302041,
-      "num": 302041,
-      "word": "薛之谦坐在刘宪华身上",
-      "onboard_time": 1690535793,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302005,
       "num": 236475,
       "word": "给女孩",
@@ -45025,6 +45033,14 @@
       "onboard_time": 1688978971,
       "rank": 38,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 272923,
+      "num": 272923,
+      "word": "好友称刀郎不可能写歌骂人",
+      "onboard_time": 1690540115,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 272843,
@@ -50347,6 +50363,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 232089,
+      "num": 232089,
+      "word": "苏醒家庭内卷",
+      "onboard_time": 1690539334,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232045,
       "num": 232045,
       "word": "广东潮汕的牛肉有多绝",
@@ -51291,6 +51315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225504,
+      "num": 225504,
+      "word": "檀健次威亚好稳",
+      "onboard_time": 1690538314,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225501,
       "num": 225501,
       "word": "真的看到了沙漠下暴雨",
@@ -52049,6 +52081,14 @@
       "onboard_time": 1688912135,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220661,
+      "num": 220661,
+      "word": "巨齿鲨2",
+      "onboard_time": 1690539452,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 220658,
@@ -53923,14 +53963,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 208867,
-      "num": 208867,
-      "word": "檀健次威亚好稳",
-      "onboard_time": 1690538314,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208779,
       "num": 210591,
       "word": "盛情款待了小时候的自己",
@@ -55201,14 +55233,6 @@
       "onboard_time": 1689665012,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201741,
-      "num": 201741,
-      "word": "山东台风",
-      "onboard_time": 1690538793,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201724,
@@ -60171,14 +60195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171486,
-      "num": 196855,
-      "word": "苏醒家庭内卷",
-      "onboard_time": 1690539334,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171283,
       "num": 204902,
       "word": "夏天最后1个节气",
@@ -61169,6 +61185,14 @@
       "onboard_time": 1689920612,
       "rank": 46,
       "category": "旅游,自然"
+    },
+    {
+      "raw_hot": 161913,
+      "num": 458899,
+      "word": "3万多应届生入职比亚迪",
+      "onboard_time": 1690538612,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161661,
@@ -64643,6 +64667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93526,
+      "num": 1005695,
+      "word": "一人一句为大运健儿加油",
+      "onboard_time": 1690537833,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93482,
       "num": 85388,
       "word": "纣王到底爱不爱妲己",
@@ -65219,14 +65251,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 77952,
-      "num": 458899,
-      "word": "3万多应届生入职比亚迪",
-      "onboard_time": 1690538612,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77930,
       "num": 107541,
       "word": "sky光遇",
@@ -65729,14 +65753,6 @@
       "onboard_time": 1690290038,
       "rank": 14,
       "category": "网红,科技"
-    },
-    {
-      "raw_hot": 61189,
-      "num": 1005695,
-      "word": "一人一句为大运健儿加油",
-      "onboard_time": 1690537833,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 60475,
