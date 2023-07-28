@@ -1,0 +1,410 @@
+{
+  "runTime": 1690553686714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3188968,
+        "num": 3188968,
+        "word": "中国女足赢了",
+        "onboard_time": 1690549597,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1581027,
+        "num": 1581027,
+        "word": "大运会开幕式",
+        "onboard_time": 1690545573,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221140,
+        "num": 1541233,
+        "word": "揭秘成都大运会开幕式亮点",
+        "onboard_time": 1690549053,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2501715,
+        "num": 1539400,
+        "word": "魏大勋帅得以为是孟宴臣来了",
+        "onboard_time": 1690543172,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1537175,
+        "num": 1537175,
+        "word": "成都大运会主火炬点燃",
+        "onboard_time": 1690552180,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1274521,
+        "num": 1274521,
+        "word": "中国队出场 全场雄起",
+        "onboard_time": 1690550077,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1190352,
+        "num": 1190352,
+        "word": "覃海洋",
+        "onboard_time": 1690547611,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1119274,
+        "num": 1119274,
+        "word": "开幕式熊猫好能蹦",
+        "onboard_time": 1690547312,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1069362,
+        "num": 1069362,
+        "word": "鬼火熊猫",
+        "onboard_time": 1690550234,
+        "rank": 8,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1025970,
+        "num": 1025970,
+        "word": "科学家复活了46000年前的虫子",
+        "onboard_time": 1690544852,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 3180877,
+        "num": 1012285,
+        "word": "日本队出场安静如鸡",
+        "onboard_time": 1690549294,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1193599,
+        "num": 986327,
+        "word": "朱一龙包场王一博新电影",
+        "onboard_time": 1690551996,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1093178,
+        "num": 975370,
+        "word": "张子枫瘦好多",
+        "onboard_time": 1690540712,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 905302,
+        "num": 905302,
+        "word": "中国台北旗手好可爱",
+        "onboard_time": 1690551275,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 843663,
+        "num": 843663,
+        "word": "杜苏芮强得离谱 路径妖得要命",
+        "onboard_time": 1690525717,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784565,
+        "num": 784565,
+        "word": "夭玹",
+        "onboard_time": 1690548934,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 737589,
+        "num": 737589,
+        "word": "伊拉克女旗手美炸了",
+        "onboard_time": 1690549233,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616789,
+        "num": 616789,
+        "word": "中国好声音",
+        "onboard_time": 1690538673,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593958,
+        "num": 593958,
+        "word": "台风杜苏芮登陆晋江",
+        "onboard_time": 1690510420,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571847,
+        "num": 571847,
+        "word": "导演说希望向往的生活继续走下去",
+        "onboard_time": 1690552958,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526017,
+        "num": 526017,
+        "word": "成都大运会",
+        "onboard_time": 1690532976,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606874,
+        "num": 523602,
+        "word": "遭71岁老头扒坟辱尸老太家属发声",
+        "onboard_time": 1690535853,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541699,
+        "num": 521638,
+        "word": "杜苏芮已造成福建72.46万余人受灾",
+        "onboard_time": 1690532075,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513299,
+        "num": 513299,
+        "word": "杨紫一镜到底哭戏",
+        "onboard_time": 1690553320,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500806,
+        "num": 500806,
+        "word": "向往的生活",
+        "onboard_time": 1690551934,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475247,
+        "num": 475247,
+        "word": "刘亦菲玫瑰故事高马尾造型",
+        "onboard_time": 1690552537,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 454638,
+        "num": 454638,
+        "word": "大运会美国 镜头",
+        "onboard_time": 1690552598,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 437748,
+        "num": 437748,
+        "word": "魏大勋酒会内场霸总感",
+        "onboard_time": 1690553076,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417826,
+        "num": 417826,
+        "word": "法医季2秦明第一个解剖的是熟人",
+        "onboard_time": 1690548213,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401529,
+        "num": 401529,
+        "word": "薛之谦让我欢喜让我忧舞台",
+        "onboard_time": 1690552420,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393398,
+        "num": 393398,
+        "word": "阿那亚去年王鹤棣今年魏大勋",
+        "onboard_time": 1690553137,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390991,
+        "num": 390991,
+        "word": "小夭相柳海底吻",
+        "onboard_time": 1690534892,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354239,
+        "num": 354239,
+        "word": "Twins上海合体",
+        "onboard_time": 1690552057,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349447,
+        "num": 349447,
+        "word": "覃海洋破世界纪录",
+        "onboard_time": 1690548456,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345042,
+        "num": 345042,
+        "word": "莲花楼 逻辑自洽的改编",
+        "onboard_time": 1690549294,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309256,
+        "num": 309256,
+        "word": "封神",
+        "onboard_time": 1690537174,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287759,
+        "num": 287759,
+        "word": "覃海洋200米蛙泳金牌",
+        "onboard_time": 1690547733,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271697,
+        "num": 271697,
+        "word": "中餐厅",
+        "onboard_time": 1690547133,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271477,
+        "num": 271477,
+        "word": "李现跑着拥抱吴彦姝",
+        "onboard_time": 1690534954,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270555,
+        "num": 270555,
+        "word": "大运会开幕从12开始倒数",
+        "onboard_time": 1690546292,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 247083,
+        "num": 247083,
+        "word": "瘦了12斤内脏脂肪掉了35平方厘米",
+        "onboard_time": 1690518462,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233938,
+        "num": 233938,
+        "word": "夭柳",
+        "onboard_time": 1690547312,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227394,
+        "num": 227394,
+        "word": "孙女被水烫到爷爷心疼紧抱不放",
+        "onboard_time": 1690543292,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216418,
+        "num": 216418,
+        "word": "脸谱出来绝了",
+        "onboard_time": 1690552301,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213115,
+        "num": 213115,
+        "word": "长相思海外评分2.9分",
+        "onboard_time": 1690530215,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212309,
+        "num": 212309,
+        "word": "张睿红牌",
+        "onboard_time": 1690544312,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209214,
+        "num": 209214,
+        "word": "济南暴雨",
+        "onboard_time": 1690537355,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203573,
+        "num": 203573,
+        "word": "中国女足1比0海地女足",
+        "onboard_time": 1690547973,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203474,
+        "num": 203474,
+        "word": "浪花男子开通微博",
+        "onboard_time": 1690552477,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193089,
+        "num": 193089,
+        "word": "苏翊鸣担任大体联会旗执旗手",
+        "onboard_time": 1690553017,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会开幕#"
+    }
+  }
+}

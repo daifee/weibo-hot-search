@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690551236625,
+  "endTime": 1690553686714,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3180877,
+      "num": 1217131,
+      "word": "日本队出场安静如鸡",
+      "onboard_time": 1690549294,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3081405,
       "num": 2741100,
       "word": "台风杜苏芮登陆晋江",
@@ -281,14 +289,6 @@
       "onboard_time": 1690188874,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2687739,
-      "num": 1217131,
-      "word": "日本队出场安静如鸡",
-      "onboard_time": 1690549294,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 2601290,
@@ -1051,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1537175,
+      "num": 1537175,
+      "word": "成都大运会主火炬点燃",
+      "onboard_time": 1690552180,
+      "rank": 4,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1535697,
       "num": 1535697,
       "word": "8小时睡眠论",
@@ -1459,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1274521,
+      "num": 1274521,
+      "word": "中国队出场 全场雄起",
+      "onboard_time": 1690550077,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1274475,
       "num": 1274475,
       "word": "开幕式熊猫好能蹦",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1690335454,
       "rank": 5,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1193599,
+      "num": 986327,
+      "word": "朱一龙包场王一博新电影",
+      "onboard_time": 1690551996,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1186479,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1690470461,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1069362,
+      "num": 1069362,
+      "word": "鬼火熊猫",
+      "onboard_time": 1690550234,
+      "rank": 48,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1068739,
@@ -2187,14 +2219,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 959053,
-      "num": 959053,
-      "word": "中国队出场 全场雄起",
-      "onboard_time": 1690550077,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 958335,
       "num": 958335,
       "word": "台风杜苏芮路径拐了个直角",
@@ -2369,6 +2393,14 @@
       "onboard_time": 1690278101,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 905302,
+      "num": 905302,
+      "word": "中国台北旗手好可爱",
+      "onboard_time": 1690551275,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 900108,
@@ -2867,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 784565,
+      "num": 784565,
+      "word": "夭玹",
+      "onboard_time": 1690548934,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 783985,
       "num": 783985,
       "word": "暑假工已经渗透到商家内部啦",
@@ -3115,12 +3155,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 742689,
-      "num": 742689,
-      "word": "夭玹",
-      "onboard_time": 1690548934,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 737589,
+      "num": 737589,
+      "word": "伊拉克女旗手美炸了",
+      "onboard_time": 1690549233,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 735048,
@@ -4379,6 +4419,14 @@
       "category": "音乐,情感"
     },
     {
+      "raw_hot": 571847,
+      "num": 571847,
+      "word": "导演说希望向往的生活继续走下去",
+      "onboard_time": 1690552958,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570357,
       "num": 570357,
       "word": "恋综女嘉宾主打一个搞事业",
@@ -4851,6 +4899,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 513299,
+      "num": 513299,
+      "word": "杨紫一镜到底哭戏",
+      "onboard_time": 1690553320,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 513268,
       "num": 513268,
       "word": "大左去看望金韩一父母",
@@ -4952,6 +5008,14 @@
       "word": "阿饭泽泽官宣",
       "onboard_time": 1690349197,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 500806,
+      "num": 500806,
+      "word": "向往的生活",
+      "onboard_time": 1690551934,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -5243,6 +5307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475247,
+      "num": 475247,
+      "word": "刘亦菲玫瑰故事高马尾造型",
+      "onboard_time": 1690552537,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 474628,
       "num": 377406,
       "word": "Lisa的身材管理",
@@ -5515,6 +5587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454638,
+      "num": 454638,
+      "word": "大运会美国 镜头",
+      "onboard_time": 1690552598,
+      "rank": 26,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 454488,
       "num": 454488,
       "word": "五月天西安",
@@ -5737,6 +5817,14 @@
       "onboard_time": 1690295621,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 437748,
+      "num": 437748,
+      "word": "魏大勋酒会内场霸总感",
+      "onboard_time": 1690553076,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 437339,
@@ -6203,20 +6291,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 402835,
-      "num": 402835,
-      "word": "鬼火熊猫",
-      "onboard_time": 1690550234,
-      "rank": 48,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 401912,
       "num": 401912,
       "word": "王子奇王玉雯都在追欢颜",
       "onboard_time": 1690245696,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 401529,
+      "num": 401529,
+      "word": "薛之谦让我欢喜让我忧舞台",
+      "onboard_time": 1690552420,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 400682,
@@ -6337,6 +6425,14 @@
       "onboard_time": 1690185755,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393398,
+      "num": 393398,
+      "word": "阿那亚去年王鹤棣今年魏大勋",
+      "onboard_time": 1690553137,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 392024,
@@ -6857,6 +6953,14 @@
       "onboard_time": 1690383165,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354239,
+      "num": 354239,
+      "word": "Twins上海合体",
+      "onboard_time": 1690552057,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 353989,
@@ -9523,6 +9627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216418,
+      "num": 216418,
+      "word": "脸谱出来绝了",
+      "onboard_time": 1690552301,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215336,
       "num": 220355,
       "word": "放冰箱里的桃变不甜了",
@@ -9915,6 +10027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203474,
+      "num": 203474,
+      "word": "浪花男子开通微博",
+      "onboard_time": 1690552477,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203028,
       "num": 204186,
       "word": "十个勤天后陡门的夏音源上线",
@@ -10265,6 +10385,14 @@
       "onboard_time": 1690545992,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193089,
+      "num": 193089,
+      "word": "苏翊鸣担任大体联会旗执旗手",
+      "onboard_time": 1690553017,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 193060,
