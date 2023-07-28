@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690562237072,
+  "endTime": 1690564483034,
   "band_list": [
     {
       "raw_hot": 1501908,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591944,
+      "num": 188482,
+      "word": "连骗子都受不了冷暴力",
+      "onboard_time": 1690561351,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 568413,
       "num": 354838,
       "word": "杜苏芮强得离谱 路径妖得要命",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 384584,
-      "num": 285941,
+      "num": 296910,
       "word": "草茉莉",
       "onboard_time": 1690559493,
       "rank": 24,
@@ -211,7 +219,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276781,
+      "raw_hot": 280744,
       "num": 189277,
       "word": "狗狗的垫子越换越小会发生什么",
       "onboard_time": 1690560512,
@@ -227,6 +235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263242,
+      "num": 263242,
+      "word": "杜苏芮已远离广东",
+      "onboard_time": 1690563086,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259735,
+      "num": 259735,
+      "word": "夭璟吻戏vs夭柳吻戏",
+      "onboard_time": 1690563206,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257090,
       "num": 257090,
       "word": "朱一龙包场王一博新电影",
@@ -235,12 +259,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248272,
+      "num": 178427,
+      "word": "做菜还是别用硅胶铲了",
+      "onboard_time": 1690561231,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 247370,
       "num": 216213,
       "word": "杨紫谈如何看待质疑评论",
       "onboard_time": 1690556739,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245361,
+      "num": 177673,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1690561411,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 227131,
@@ -273,14 +313,6 @@
       "onboard_time": 1690545573,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213042,
-      "num": 188482,
-      "word": "连骗子都受不了冷暴力",
-      "onboard_time": 1690561351,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 210101,
@@ -323,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176850,
+      "num": 176850,
+      "word": "屈楚萧戴眼镜",
+      "onboard_time": 1690562309,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158382,
       "num": 158382,
       "word": "鬼火熊猫",
@@ -347,6 +387,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 144103,
+      "num": 144103,
+      "word": "周深先是好好唱歌但不会抗拒演戏",
+      "onboard_time": 1690563690,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142148,
+      "num": 142148,
+      "word": "封神彩蛋",
+      "onboard_time": 1690562188,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140827,
       "num": 140827,
       "word": "灵戏逼人",
@@ -369,14 +425,6 @@
       "onboard_time": 1690543292,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136377,
-      "num": 164804,
-      "word": "做菜还是别用硅胶铲了",
-      "onboard_time": 1690561231,
-      "rank": 39,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 133672,
@@ -419,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115487,
-      "num": 115487,
-      "word": "封神彩蛋",
-      "onboard_time": 1690562188,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 114885,
       "num": 114885,
       "word": "中国好声音",
       "onboard_time": 1690538673,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112903,
+      "num": 100868,
+      "word": "檀健次眼神很深情",
+      "onboard_time": 1690563924,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 110891,
@@ -448,6 +496,14 @@
       "word": "揭秘成都大运会开幕式亮点",
       "onboard_time": 1690549053,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74083,
+      "num": 100781,
+      "word": "台风致浙江一动物园积水被困",
+      "onboard_time": 1690555717,
+      "rank": 48,
       "category": "社会新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690562237072,
+  "endTime": 1690564483034,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -21811,6 +21811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591944,
+      "num": 188482,
+      "word": "连骗子都受不了冷暴力",
+      "onboard_time": 1690561351,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 591868,
       "num": 591868,
       "word": "终于等到minnie",
@@ -34228,7 +34236,7 @@
     },
     {
       "raw_hot": 384584,
-      "num": 285941,
+      "num": 296910,
       "word": "草茉莉",
       "onboard_time": 1690559493,
       "rank": 24,
@@ -44715,6 +44723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 280744,
+      "num": 189277,
+      "word": "狗狗的垫子越换越小会发生什么",
+      "onboard_time": 1690560512,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 280653,
       "num": 280653,
       "word": "2女子江边露营点餐外卖员找到崩溃",
@@ -45185,14 +45201,6 @@
       "onboard_time": 1690380640,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 276781,
-      "num": 189277,
-      "word": "狗狗的垫子越换越小会发生什么",
-      "onboard_time": 1690560512,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 276765,
@@ -46851,6 +46859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263242,
+      "num": 263242,
+      "word": "杜苏芮已远离广东",
+      "onboard_time": 1690563086,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263100,
       "num": 263100,
       "word": "段嘉许颁奖礼公开示爱桑稚",
@@ -47321,6 +47337,14 @@
       "onboard_time": 1690359157,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 259735,
+      "num": 259735,
+      "word": "夭璟吻戏vs夭柳吻戏",
+      "onboard_time": 1690563206,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 259698,
@@ -48785,6 +48809,14 @@
       "onboard_time": 1688785051,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248272,
+      "num": 178427,
+      "word": "做菜还是别用硅胶铲了",
+      "onboard_time": 1690561231,
+      "rank": 39,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 248262,
@@ -53873,14 +53905,6 @@
       "onboard_time": 1688286274,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213042,
-      "num": 188482,
-      "word": "连骗子都受不了冷暴力",
-      "onboard_time": 1690561351,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 213033,
@@ -60203,6 +60227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176850,
+      "num": 176850,
+      "word": "屈楚萧戴眼镜",
+      "onboard_time": 1690562309,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176825,
       "num": 516239,
       "word": "iQOO11S发布会",
@@ -63171,6 +63203,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 144103,
+      "num": 144103,
+      "word": "周深先是好好唱歌但不会抗拒演戏",
+      "onboard_time": 1690563690,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143832,
       "num": 183859,
       "word": "反向暹罗猫",
@@ -63311,6 +63351,14 @@
       "num": 142148,
       "word": "碟中谍7有多敢拍",
       "onboard_time": 1689243275,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142148,
+      "num": 142148,
+      "word": "封神彩蛋",
+      "onboard_time": 1690562188,
       "rank": 48,
       "category": "影视"
     },
@@ -63577,14 +63625,6 @@
       "onboard_time": 1689610531,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 136377,
-      "num": 164804,
-      "word": "做菜还是别用硅胶铲了",
-      "onboard_time": 1690561231,
-      "rank": 39,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 136308,
@@ -64499,14 +64539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115487,
-      "num": 115487,
-      "word": "封神彩蛋",
-      "onboard_time": 1690562188,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 115254,
       "num": 2774592,
       "word": "成都大运会开幕式官方主题曲来了",
@@ -64609,6 +64641,14 @@
       "onboard_time": 1690084829,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112903,
+      "num": 100868,
+      "word": "檀健次眼神很深情",
+      "onboard_time": 1690563924,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 112593,
@@ -66113,6 +66153,14 @@
       "onboard_time": 1690051216,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 74083,
+      "num": 100781,
+      "word": "台风致浙江一动物园积水被困",
+      "onboard_time": 1690555717,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73586,
