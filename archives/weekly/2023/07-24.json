@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690500818018,
+  "endTime": 1690507185679,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -17,6 +17,14 @@
       "onboard_time": 1690283200,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 11002711,
+      "num": 11002711,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10945238,
@@ -113,14 +121,6 @@
       "onboard_time": 1690379978,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 3534696,
-      "num": 3534696,
-      "word": "杜苏芮路径",
-      "onboard_time": 1690454734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3477814,
@@ -1179,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1276800,
+      "num": 1276800,
+      "word": "晋江",
+      "onboard_time": 1690505258,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269855,
       "num": 1269855,
       "word": "小夭涂山璟亲嘴了",
@@ -1323,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1174413,
+      "num": 1070410,
+      "word": "杜苏芮卡努双台风",
+      "onboard_time": 1690501349,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1173326,
       "num": 1173326,
       "word": "杨紫在长相思是演男人吗",
@@ -1411,6 +1427,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 1113392,
+      "num": 1113392,
+      "word": "每一次熬夜肝都在陪你",
+      "onboard_time": 1690501828,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1112857,
       "num": 1112857,
       "word": "涂山璟 官配",
@@ -1467,6 +1491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1080174,
+      "num": 1080174,
+      "word": "上海一咖啡厅命名Doi被指低俗营销",
+      "onboard_time": 1690503034,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1078562,
       "num": 412918,
       "word": "微信可以批量删除好友",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1690281519,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1059672,
+      "num": 1059672,
+      "word": "杨芸晴说老舅照片像王鹤棣",
+      "onboard_time": 1690505019,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1048408,
@@ -2435,6 +2475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 763048,
+      "num": 592623,
+      "word": "泉州",
+      "onboard_time": 1690500207,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762541,
       "num": 1213338,
       "word": "这锅鱼汤他能记一辈子",
@@ -2955,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666578,
+      "num": 318752,
+      "word": "洞洞鞋做到了清爽优雅兼顾",
+      "onboard_time": 1690503271,
+      "rank": 20,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 666423,
       "num": 666423,
       "word": "玖月晞的影视化作品",
@@ -3297,6 +3353,14 @@
       "onboard_time": 1690248215,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 621753,
+      "num": 621753,
+      "word": "妈妈在 在中路了",
+      "onboard_time": 1690472857,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 616222,
@@ -3979,6 +4043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 518386,
+      "num": 318492,
+      "word": "杜苏芮预计10时前后登陆",
+      "onboard_time": 1690502192,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518286,
       "num": 518286,
       "word": "孟宴臣喝红酒夜谈戏份被删",
@@ -4073,14 +4145,6 @@
       "onboard_time": 1690468670,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 503833,
-      "num": 445150,
-      "word": "妈妈在 在中路了",
-      "onboard_time": 1690472857,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 503697,
@@ -4395,6 +4459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 472740,
+      "num": 447425,
+      "word": "杜苏芮将正面袭击福建",
+      "onboard_time": 1690474056,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472361,
       "num": 437938,
       "word": "大宋少年志",
@@ -4416,6 +4488,14 @@
       "word": "警方回应女子在KTV遭性侵偷拍",
       "onboard_time": 1690368579,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471854,
+      "num": 315654,
+      "word": "警惕杜苏芮靠近后风雨突然增强",
+      "onboard_time": 1690506274,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4521,6 +4601,14 @@
       "onboard_time": 1690346499,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 459934,
+      "num": 317686,
+      "word": "3000多名官兵紧急出动支援厦门",
+      "onboard_time": 1690504720,
+      "rank": 24,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 459603,
@@ -4649,14 +4737,6 @@
       "onboard_time": 1690174959,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 447425,
-      "num": 447425,
-      "word": "杜苏芮将正面袭击福建",
-      "onboard_time": 1690474056,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446680,
@@ -4843,6 +4923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434814,
+      "num": 434814,
+      "word": "保持负面情绪的人也许是更强大的",
+      "onboard_time": 1690505737,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 434540,
       "num": 419404,
       "word": "X JAPAN",
@@ -4931,12 +5019,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429285,
+      "num": 318049,
+      "word": "张惠妹在澳洲偶遇周杰伦",
+      "onboard_time": 1690505076,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428592,
       "num": 378628,
       "word": "迪丽热巴耍帅失败",
       "onboard_time": 1690343795,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 428217,
+      "num": 317315,
+      "word": "西宁街头偶遇易烊千玺",
+      "onboard_time": 1690504419,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 428086,
@@ -5371,6 +5475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388736,
+      "num": 316853,
+      "word": "chinajoy",
+      "onboard_time": 1690505675,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 388582,
       "num": 370351,
       "word": "王鹤棣范丞丞魏大勋白敬亭脸上痣",
@@ -5753,14 +5865,6 @@
       "onboard_time": 1690276360,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 356774,
-      "num": 356774,
-      "word": "泉州",
-      "onboard_time": 1690500207,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356527,
@@ -6363,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318996,
+      "num": 318996,
+      "word": "成都大运会今晚开幕",
+      "onboard_time": 1690506636,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318619,
       "num": 318619,
       "word": "这就是灌篮5阵容官宣",
@@ -6400,6 +6512,14 @@
       "word": "迪丽热巴和三万水狮的合照",
       "onboard_time": 1690359578,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315594,
+      "num": 315594,
+      "word": "好兆头",
+      "onboard_time": 1690506756,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -6443,6 +6563,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 312461,
+      "num": 312461,
+      "word": "封神开头苏全孝自尽是费翔改的",
+      "onboard_time": 1690502974,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310853,
       "num": 310853,
       "word": "宋亚轩全员加速中西安收官路透",
@@ -6483,6 +6611,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 309395,
+      "num": 282081,
+      "word": "厦门人防台风 挪车极限操作",
+      "onboard_time": 1690502613,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308396,
       "num": 308396,
       "word": "徐梦洁余承恩演匆匆那年",
@@ -6505,6 +6641,14 @@
       "onboard_time": 1690211802,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307476,
+      "num": 316645,
+      "word": "原著里的相柳",
+      "onboard_time": 1690506157,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 307162,
@@ -6931,6 +7075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284098,
+      "num": 284098,
+      "word": "中国男篮战胜埃及男篮",
+      "onboard_time": 1690503095,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283747,
       "num": 262367,
       "word": "玱玹瞎了",
@@ -7011,6 +7163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277798,
+      "num": 266132,
+      "word": "杜苏芮影响杭州",
+      "onboard_time": 1690501291,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277401,
       "num": 277401,
       "word": "叶十七婚后生活",
@@ -7025,6 +7185,14 @@
       "onboard_time": 1690177596,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276862,
+      "num": 276862,
+      "word": "任安乐终于开大了",
+      "onboard_time": 1690504539,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 276796,
@@ -7203,6 +7371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266248,
+      "num": 266248,
+      "word": "张晚意看杨紫邓为的眼神",
+      "onboard_time": 1690506873,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265778,
       "num": 265778,
       "word": "调剂到了冷门专业",
@@ -7347,6 +7523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258012,
+      "num": 258012,
+      "word": "不剥橘子也能知道橘子瓣数",
+      "onboard_time": 1690504176,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257953,
       "num": 257953,
       "word": "张子枫向往森系写真",
@@ -7411,6 +7595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254306,
+      "num": 254306,
+      "word": "学着猫咪揣手手",
+      "onboard_time": 1690505978,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253941,
       "num": 253941,
       "word": "陈凯歌事业运",
@@ -7449,6 +7641,14 @@
       "onboard_time": 1690297965,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 250221,
+      "num": 250221,
+      "word": "吴京说媳妇儿说啥都对",
+      "onboard_time": 1690503397,
+      "rank": 43,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 249673,
@@ -7491,6 +7691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247019,
+      "num": 247019,
+      "word": "相柳都开始偷家了",
+      "onboard_time": 1690480220,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246897,
       "num": 246897,
       "word": "成为真实人类后的芭比",
@@ -7513,14 +7721,6 @@
       "onboard_time": 1690348239,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246552,
-      "num": 246552,
-      "word": "相柳都开始偷家了",
-      "onboard_time": 1690480220,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 246324,
@@ -8091,6 +8291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 215010,
+      "num": 215010,
+      "word": "河南的省饭是什么",
+      "onboard_time": 1690505379,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214788,
       "num": 214788,
       "word": "奎木狼今晚掉马",
@@ -8193,6 +8401,14 @@
       "onboard_time": 1690181019,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 209207,
+      "num": 209207,
+      "word": "进一步落实降低购买首套房首付比例",
+      "onboard_time": 1690506214,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 209121,
@@ -9683,6 +9899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115254,
+      "num": 1635431,
+      "word": "成都大运会开幕式官方主题曲来了",
+      "onboard_time": 1690464158,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114815,
       "num": 355307,
       "word": "母亲跪谢消防救回被海浪冲走的孩子",
@@ -9969,14 +10193,6 @@
       "onboard_time": 1690390945,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 61630,
-      "num": 1635431,
-      "word": "成都大运会开幕式官方主题曲来了",
-      "onboard_time": 1690464158,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 61438,
