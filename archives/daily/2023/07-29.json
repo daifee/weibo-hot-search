@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690575421853,
+  "endTime": 1690576434302,
   "band_list": [
     {
       "raw_hot": 1501908,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90395,
+      "num": 48004,
+      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
+      "onboard_time": 1690573154,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83724,
       "num": 47941,
       "word": "女子称因怕台风取消民宿遭老板怼",
@@ -539,11 +547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62249,
-      "num": 48004,
-      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
-      "onboard_time": 1690573154,
-      "rank": 15,
+      "raw_hot": 71000,
+      "num": 71000,
+      "word": "福州台风",
+      "onboard_time": 1690573873,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -555,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45589,
-      "num": 39420,
-      "word": "福州台风",
-      "onboard_time": 1690573873,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 24748,
+      "num": 26214,
+      "word": "中国男排1比3乌克兰男排",
+      "onboard_time": 1690570935,
+      "rank": 40,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
