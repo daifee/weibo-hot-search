@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690586171072,
+  "endTime": 1690587225259,
   "band_list": [
     {
       "raw_hot": 1501908,
@@ -43,20 +43,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 953703,
+      "num": 371919,
+      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
+      "onboard_time": 1690573154,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952379,
       "num": 952379,
       "word": "长相思",
       "onboard_time": 1690555302,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 786446,
-      "num": 345380,
-      "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
-      "onboard_time": 1690573154,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 759566,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499559,
+      "num": 132693,
+      "word": "原京东副总裁称不创业可能不会得渐冻症",
+      "onboard_time": 1690585580,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 437975,
       "num": 289765,
       "word": "周翊然张淼怡vs文俊辉张淼怡",
@@ -203,6 +211,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332444,
+      "num": 208578,
+      "word": "衣服越穿越宽松怎么办",
+      "onboard_time": 1690583358,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 315636,
+      "num": 205153,
+      "word": "女子称因怕台风取消民宿遭老板怼",
+      "onboard_time": 1690570516,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309612,
       "num": 309612,
       "word": "中国台北旗手好可爱",
@@ -235,12 +259,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 283345,
-      "num": 171821,
-      "word": "女子称因怕台风取消民宿遭老板怼",
-      "onboard_time": 1690570516,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 301030,
+      "num": 203181,
+      "word": "花花也参加大运会开幕式了",
+      "onboard_time": 1690585279,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282785,
+      "num": 282785,
+      "word": "长相思格局远远不止于情爱",
+      "onboard_time": 1690583840,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 281885,
@@ -315,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224233,
+      "num": 224233,
+      "word": "金牛座有点劳累命在身上",
+      "onboard_time": 1690565540,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 223928,
       "num": 216103,
       "word": "封神",
       "onboard_time": 1690537174,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216369,
-      "num": 109753,
-      "word": "衣服越穿越宽松怎么办",
-      "onboard_time": 1690583358,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 216285,
@@ -355,22 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207286,
-      "num": 109330,
-      "word": "原京东副总裁称不创业可能不会得渐冻症",
-      "onboard_time": 1690585580,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 199027,
-      "num": 199027,
-      "word": "金牛座有点劳累命在身上",
-      "onboard_time": 1690565540,
-      "rank": 27,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 198607,
       "num": 198607,
       "word": "魏大勋酒会内场霸总感",
@@ -387,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193903,
-      "num": 193903,
-      "word": "长相思格局远远不止于情爱",
-      "onboard_time": 1690583840,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 193934,
+      "num": 193934,
+      "word": "彭昱畅说张子枫瘦这么多",
+      "onboard_time": 1690553676,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 193629,
@@ -401,6 +417,14 @@
       "onboard_time": 1690548213,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186921,
+      "num": 186921,
+      "word": "起猛了最期待的cp成真了",
+      "onboard_time": 1690586903,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 184175,
@@ -419,20 +443,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164212,
+      "num": 164212,
+      "word": "李现抱魏大勋站C位",
+      "onboard_time": 1690579453,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158382,
       "num": 158382,
       "word": "鬼火熊猫",
       "onboard_time": 1690550234,
       "rank": 37,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 156120,
-      "num": 144575,
-      "word": "彭昱畅说张子枫瘦这么多",
-      "onboard_time": 1690553676,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 151154,
@@ -451,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142668,
+      "num": 142668,
+      "word": "桐华曾经想把相柳写成男主",
+      "onboard_time": 1690586783,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142148,
       "num": 142148,
       "word": "封神彩蛋",
@@ -467,20 +499,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140740,
+      "num": 132188,
+      "word": "王一博说绝不放弃任何一个可以跳舞的机会",
+      "onboard_time": 1690587145,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139320,
       "num": 139320,
       "word": "刘亦菲玫瑰故事高马尾造型",
       "onboard_time": 1690552537,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 137386,
-      "num": 137386,
-      "word": "李现抱魏大勋站C位",
-      "onboard_time": 1690579453,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 136616,
@@ -523,12 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128965,
-      "num": 109146,
-      "word": "花花也参加大运会开幕式了",
-      "onboard_time": 1690585279,
+      "raw_hot": 130520,
+      "num": 130520,
+      "word": "室温超导",
+      "onboard_time": 1690586543,
       "rank": 32,
-      "category": "体育"
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 128676,
+      "num": 128676,
+      "word": "台风致浙江一动物园积水被困",
+      "onboard_time": 1690555717,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127131,
@@ -579,6 +619,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110832,
+      "num": 110832,
+      "word": "夭璟",
+      "onboard_time": 1690586844,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 110467,
+      "num": 110467,
+      "word": "杨紫回应五官乱飞",
+      "onboard_time": 1690587084,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109939,
       "num": 109939,
       "word": "暴雨中老人被困小伙蹚深水一把抱起",
@@ -587,20 +643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108145,
-      "num": 108145,
-      "word": "台风致浙江一动物园积水被困",
-      "onboard_time": 1690555717,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100394,
-      "num": 81926,
+      "num": 89162,
       "word": "福州台风",
       "onboard_time": 1690573873,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98316,
+      "num": 98316,
+      "word": "黄磊说张艺兴谈恋爱了也没事",
+      "onboard_time": 1690587025,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 97253,
@@ -611,12 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86922,
-      "num": 86922,
+      "raw_hot": 90336,
+      "num": 90336,
       "word": "中国男排1比3乌克兰男排",
       "onboard_time": 1690570935,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88492,
+      "num": 88492,
+      "word": "彭昱畅发了和蘑菇屋每个人的合照",
+      "onboard_time": 1690587205,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 72763,
