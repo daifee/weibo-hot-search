@@ -1,0 +1,410 @@
+{
+  "runTime": 1690547602241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3801602,
+        "num": 3801602,
+        "word": "大运会开幕式",
+        "onboard_time": 1690545573,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 936182,
+        "num": 936182,
+        "word": "成都大运会",
+        "onboard_time": 1690532976,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79957,
+        "num": 932967,
+        "word": "成都大运会双语先导片",
+        "onboard_time": 1690531175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2115969,
+        "num": 930799,
+        "word": "魏大勋帅得以为是孟宴臣来了",
+        "onboard_time": 1690543172,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1068946,
+        "num": 928551,
+        "word": "科学家复活了46000年前的虫子",
+        "onboard_time": 1690544852,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1645594,
+        "num": 922087,
+        "word": "张睿红牌",
+        "onboard_time": 1690544312,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 921184,
+        "num": 921184,
+        "word": "台风杜苏芮登陆晋江",
+        "onboard_time": 1690510420,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873711,
+        "num": 873711,
+        "word": "孙女被水烫到爷爷心疼紧抱不放",
+        "onboard_time": 1690543292,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773183,
+        "num": 773183,
+        "word": "中国女足半场0比0海地女足",
+        "onboard_time": 1690546292,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 697638,
+        "num": 697638,
+        "word": "中国女足vs海地女足",
+        "onboard_time": 1690540892,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1545443,
+        "num": 696093,
+        "word": "张子枫瘦好多",
+        "onboard_time": 1690540712,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1046972,
+        "num": 682137,
+        "word": "杜苏芮强得离谱 路径妖得要命",
+        "onboard_time": 1690525717,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817580,
+        "num": 668408,
+        "word": "大运会开幕从12开始倒数",
+        "onboard_time": 1690546292,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 709479,
+        "num": 662909,
+        "word": "杨紫要檀健次罚站",
+        "onboard_time": 1690543770,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 651963,
+        "num": 651963,
+        "word": "开幕式熊猫好能蹦",
+        "onboard_time": 1690547312,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 635922,
+        "num": 635922,
+        "word": "杜苏芮已造成福建72.46万余人受灾",
+        "onboard_time": 1690532075,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552146,
+        "num": 552146,
+        "word": "海地越位",
+        "onboard_time": 1690545093,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525878,
+        "num": 525878,
+        "word": "中国好声音",
+        "onboard_time": 1690538673,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517976,
+        "num": 517976,
+        "word": "王一博说我身体已经很好了",
+        "onboard_time": 1690545274,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478289,
+        "num": 478289,
+        "word": "王霜替补上场",
+        "onboard_time": 1690547011,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546499,
+        "num": 474938,
+        "word": "遭71岁老头扒坟辱尸老太家属发声",
+        "onboard_time": 1690535853,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430760,
+        "num": 430760,
+        "word": "李现跑着拥抱吴彦姝",
+        "onboard_time": 1690534954,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411085,
+        "num": 411085,
+        "word": "长相思海外评分2.9分",
+        "onboard_time": 1690530215,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378137,
+        "num": 378137,
+        "word": "阿那亚活动",
+        "onboard_time": 1690541314,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374518,
+        "num": 374518,
+        "word": "小夭相柳海底吻",
+        "onboard_time": 1690534892,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353378,
+        "num": 353378,
+        "word": "晋江台风",
+        "onboard_time": 1690520860,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351877,
+        "num": 351877,
+        "word": "瘦了12斤内脏脂肪掉了35平方厘米",
+        "onboard_time": 1690518462,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320618,
+        "num": 320618,
+        "word": "游泳世锦赛",
+        "onboard_time": 1690543712,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311634,
+        "num": 311634,
+        "word": "好友称刀郎不可能写歌骂人",
+        "onboard_time": 1690540115,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306054,
+        "num": 306054,
+        "word": "女足出线生死战",
+        "onboard_time": 1690542631,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291784,
+        "num": 291784,
+        "word": "狗狗落水被冲走主人一次次营救",
+        "onboard_time": 1690542572,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288822,
+        "num": 288822,
+        "word": "飞机上最适合拍照的位置是机尾",
+        "onboard_time": 1690541071,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285986,
+        "num": 285986,
+        "word": "时代少年团游戏决定起床顺序",
+        "onboard_time": 1690545872,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274606,
+        "num": 274606,
+        "word": "大哥水性好被老婆喊去救人",
+        "onboard_time": 1690544912,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266411,
+        "num": 266411,
+        "word": "中餐厅",
+        "onboard_time": 1690547133,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265132,
+        "num": 265132,
+        "word": "女足直播",
+        "onboard_time": 1690542931,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258664,
+        "num": 258664,
+        "word": "朱钰神扑",
+        "onboard_time": 1690547071,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253356,
+        "num": 253356,
+        "word": "济南暴雨",
+        "onboard_time": 1690537355,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251389,
+        "num": 251389,
+        "word": "夭柳",
+        "onboard_time": 1690547312,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46784,
+        "num": 245844,
+        "word": "大运会用的是转转官方验的二手机",
+        "onboard_time": 1690545633,
+        "rank": 39,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 243692,
+        "num": 243692,
+        "word": "e人的骨头长这样",
+        "onboard_time": 1690534233,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214835,
+        "num": 214835,
+        "word": "韩团队称合成世界首个室温常压超导体",
+        "onboard_time": 1690536274,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208460,
+        "num": 208460,
+        "word": "为什么平板比手机便宜",
+        "onboard_time": 1690536094,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 206911,
+        "num": 206911,
+        "word": "杜苏芮",
+        "onboard_time": 1690528715,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205567,
+        "num": 205567,
+        "word": "万妮达重庆巡演取消",
+        "onboard_time": 1690545334,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193823,
+        "num": 193823,
+        "word": "念无双",
+        "onboard_time": 1690545992,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195195,
+        "num": 189946,
+        "word": "山东台风",
+        "onboard_time": 1690538793,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177733,
+        "num": 177733,
+        "word": "刀郎",
+        "onboard_time": 1690537896,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176410,
+        "num": 176410,
+        "word": "性侵女学生后男子说自己性功能障碍",
+        "onboard_time": 1690512339,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172581,
+        "num": 172581,
+        "word": "徐艺洋说黄子韬穿假货",
+        "onboard_time": 1690528835,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼是志同道合的同路人好伙伴#"
+    }
+  }
+}

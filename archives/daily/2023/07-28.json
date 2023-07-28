@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690544034078,
+  "endTime": 1690547602241,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -17,6 +17,14 @@
       "onboard_time": 1690466680,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3801602,
+      "num": 3801602,
+      "word": "大运会开幕式",
+      "onboard_time": 1690545573,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 3081405,
@@ -57,6 +65,14 @@
       "onboard_time": 1690532075,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2115969,
+      "num": 987683,
+      "word": "魏大勋帅得以为是孟宴臣来了",
+      "onboard_time": 1690543172,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2026763,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 1816757,
-      "num": 618660,
+      "num": 696093,
       "word": "张子枫瘦好多",
       "onboard_time": 1690540712,
       "rank": 10,
@@ -137,6 +153,14 @@
       "onboard_time": 1690472800,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1645594,
+      "num": 922087,
+      "word": "张睿红牌",
+      "onboard_time": 1690544312,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1601776,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1068946,
+      "num": 928551,
+      "word": "科学家复活了46000年前的虫子",
+      "onboard_time": 1690544852,
+      "rank": 4,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1068739,
       "num": 1068739,
       "word": "treasure",
@@ -387,14 +419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 987683,
-      "num": 987683,
-      "word": "魏大勋帅得以为是孟宴臣来了",
-      "onboard_time": 1690543172,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 981231,
       "num": 981231,
       "word": "除了杨紫都跟电脑都不太熟",
@@ -409,6 +433,14 @@
       "onboard_time": 1690535853,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 936182,
+      "num": 936182,
+      "word": "成都大运会",
+      "onboard_time": 1690532976,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 925818,
@@ -467,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 873711,
+      "num": 1033256,
+      "word": "孙女被水烫到爷爷心疼紧抱不放",
+      "onboard_time": 1690543292,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 856445,
       "num": 575583,
       "word": "欧阳娜娜直播回应猫咪纹",
@@ -499,20 +539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 817580,
+      "num": 668408,
+      "word": "大运会开幕从12开始倒数",
+      "onboard_time": 1690546292,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 809078,
       "num": 690414,
       "word": "e人的骨头长这样",
       "onboard_time": 1690534233,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 805943,
-      "num": 805943,
-      "word": "成都大运会",
-      "onboard_time": 1690532976,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 803455,
@@ -529,6 +569,14 @@
       "onboard_time": 1690470461,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 773183,
+      "num": 773183,
+      "word": "中国女足半场0比0海地女足",
+      "onboard_time": 1690546292,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 763048,
@@ -553,6 +601,14 @@
       "onboard_time": 1690510657,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709479,
+      "num": 662909,
+      "word": "杨紫要檀健次罚站",
+      "onboard_time": 1690543770,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 698164,
@@ -601,6 +657,14 @@
       "onboard_time": 1690518462,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 651963,
+      "num": 651963,
+      "word": "开幕式熊猫好能蹦",
+      "onboard_time": 1690547312,
+      "rank": 14,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 642961,
@@ -755,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552146,
+      "num": 552146,
+      "word": "海地越位",
+      "onboard_time": 1690545093,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 545628,
       "num": 400604,
       "word": "男子跪地六小时求婚昏倒",
@@ -801,6 +873,14 @@
       "onboard_time": 1690502192,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517976,
+      "num": 517976,
+      "word": "王一博说我身体已经很好了",
+      "onboard_time": 1690545274,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 515698,
@@ -873,6 +953,14 @@
       "onboard_time": 1690474056,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478289,
+      "num": 478289,
+      "word": "王霜替补上场",
+      "onboard_time": 1690547011,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 473951,
@@ -1179,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320618,
+      "num": 320618,
+      "word": "游泳世锦赛",
+      "onboard_time": 1690543712,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319317,
       "num": 319317,
       "word": "同事说找到了好用的脸基尼",
@@ -1225,6 +1321,14 @@
       "onboard_time": 1690502613,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306054,
+      "num": 306054,
+      "word": "女足出线生死战",
+      "onboard_time": 1690542631,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 302649,
@@ -1299,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285986,
+      "num": 285986,
+      "word": "时代少年团游戏决定起床顺序",
+      "onboard_time": 1690545872,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285585,
       "num": 285585,
       "word": "女足直播",
@@ -1339,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276881,
-      "num": 276881,
-      "word": "女足出线生死战",
-      "onboard_time": 1690542631,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 276862,
       "num": 276862,
       "word": "任安乐终于开大了",
@@ -1363,12 +1467,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274606,
+      "num": 274606,
+      "word": "大哥水性好被老婆喊去救人",
+      "onboard_time": 1690544912,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273429,
       "num": 273429,
       "word": "小浣熊一觉醒来家被拆了",
       "onboard_time": 1690518821,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 266411,
+      "num": 266411,
+      "word": "中餐厅",
+      "onboard_time": 1690547133,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 264981,
@@ -1403,20 +1523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260654,
-      "num": 1033256,
-      "word": "孙女被水烫到爷爷心疼紧抱不放",
-      "onboard_time": 1690543292,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259566,
       "num": 259566,
       "word": "易烊千玺正面照在哪里",
       "onboard_time": 1690471962,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258664,
+      "num": 258664,
+      "word": "朱钰神扑",
+      "onboard_time": 1690547071,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 258012,
@@ -1433,6 +1553,14 @@
       "onboard_time": 1690505978,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251389,
+      "num": 251389,
+      "word": "夭柳",
+      "onboard_time": 1690547312,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 250221,
@@ -1595,14 +1723,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 221768,
-      "num": 221768,
-      "word": "游泳世锦赛",
-      "onboard_time": 1690543712,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220661,
       "num": 220661,
       "word": "巨齿鲨2",
@@ -1641,14 +1761,6 @@
       "onboard_time": 1690505379,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 211815,
-      "num": 211815,
-      "word": "杨紫要檀健次罚站",
-      "onboard_time": 1690543770,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 211483,
@@ -1691,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205567,
+      "num": 205567,
+      "word": "万妮达重庆巡演取消",
+      "onboard_time": 1690545334,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205133,
       "num": 205133,
       "word": "欧阳娜娜的腮红",
@@ -1728,6 +1848,14 @@
       "word": "用玟小六打开当代年轻人现状",
       "onboard_time": 1690528415,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193823,
+      "num": 193823,
+      "word": "念无双",
+      "onboard_time": 1690545992,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -1993,6 +2121,14 @@
       "onboard_time": 1690461095,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 46784,
+      "num": 245844,
+      "word": "大运会用的是转转官方验的二手机",
+      "onboard_time": 1690545633,
+      "rank": 39,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 43780,
