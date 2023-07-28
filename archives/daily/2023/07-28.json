@@ -1,6 +1,6 @@
 {
   "startTime": 1690474896992,
-  "endTime": 1690518828305,
+  "endTime": 1690521335113,
   "band_list": [
     {
       "raw_hot": 11002711,
@@ -51,6 +51,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1878678,
+      "num": 1878678,
+      "word": "泉州海峡体育中心顶篷被狂风吹走",
+      "onboard_time": 1690517259,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1721157,
+      "num": 931426,
+      "word": "五月天泉州 只剩倾盆的思念",
+      "onboard_time": 1690518219,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1664387,
       "num": 1664387,
       "word": "杜苏芮核心区 创纪录的狂风暴雨",
@@ -91,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1419151,
+      "num": 513614,
+      "word": "瘦了12斤内脏脂肪掉了35cm",
+      "onboard_time": 1690518462,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1352115,
       "num": 1352115,
       "word": "李玟丈夫发声明",
@@ -99,12 +123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1308663,
-      "num": 790312,
-      "word": "泉州海峡体育中心顶篷被狂风吹走",
-      "onboard_time": 1690517259,
-      "rank": 14,
-      "category": "社会新闻,艺人"
+      "raw_hot": 1348961,
+      "num": 751540,
+      "word": "晋江台风",
+      "onboard_time": 1690520860,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1211907,
@@ -203,12 +227,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1010324,
+      "num": 1010324,
+      "word": "人间烟火受害人",
+      "onboard_time": 1690516601,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 999444,
       "num": 999444,
       "word": "王鹤棣段小薇合作新歌MV",
       "onboard_time": 1690514919,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 997724,
+      "num": 997724,
+      "word": "费翔 她是我的哈基米",
+      "onboard_time": 1690520200,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 981231,
@@ -243,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895230,
+      "num": 513701,
+      "word": "微信式恋爱",
+      "onboard_time": 1690517922,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 885355,
       "num": 885355,
       "word": "TFBOYS十周年不应援了",
@@ -259,11 +307,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 834488,
-      "num": 707017,
-      "word": "五月天泉州 只剩倾盆的思念",
-      "onboard_time": 1690518219,
-      "rank": 12,
+      "raw_hot": 840817,
+      "num": 840817,
+      "word": "甄子丹女儿出道",
+      "onboard_time": 1690518639,
+      "rank": 45,
       "category": "音乐"
     },
     {
@@ -297,14 +345,6 @@
       "onboard_time": 1690507234,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 734468,
-      "num": 734468,
-      "word": "人间烟火受害人",
-      "onboard_time": 1690516601,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 720473,
@@ -355,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 620355,
+      "num": 620355,
+      "word": "杨紫回应剧不虐不接",
+      "onboard_time": 1690520079,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 619554,
       "num": 619554,
       "word": "台风杜苏芮已致台湾一人死亡",
@@ -369,14 +417,6 @@
       "onboard_time": 1690470346,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 612185,
-      "num": 513701,
-      "word": "微信式恋爱",
-      "onboard_time": 1690517922,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 607454,
@@ -443,11 +483,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 513614,
-      "num": 513614,
-      "word": "瘦了12斤内脏脂肪掉了35cm",
-      "onboard_time": 1690518462,
-      "rank": 26,
+      "raw_hot": 512432,
+      "num": 437456,
+      "word": "姥姥说给我做了几件泳衣",
+      "onboard_time": 1690519602,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -643,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344637,
+      "num": 344637,
+      "word": "乐队的夏天3要回来了",
+      "onboard_time": 1690519543,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339610,
       "num": 339610,
       "word": "好兆头",
@@ -659,11 +707,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321393,
+      "num": 273194,
+      "word": "猫咪杜苏芮大风中坐的超稳",
+      "onboard_time": 1690519660,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321352,
       "num": 303906,
       "word": "考上研究生得让每个生物都知道",
       "onboard_time": 1690469150,
       "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 319317,
+      "num": 319317,
+      "word": "同事说找到了好用的脸基尼",
+      "onboard_time": 1690520981,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -795,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273429,
+      "num": 273429,
+      "word": "小浣熊一觉醒来家被拆了",
+      "onboard_time": 1690518821,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263290,
       "num": 263290,
       "word": "坐出租车被记了一次警告",
@@ -875,20 +947,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242528,
+      "num": 242528,
+      "word": "Utopia",
+      "onboard_time": 1690519301,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241779,
       "num": 241779,
       "word": "热烈",
       "onboard_time": 1690516299,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240979,
-      "num": 240979,
-      "word": "甄子丹女儿出道",
-      "onboard_time": 1690518639,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 237543,
@@ -921,6 +993,14 @@
       "onboard_time": 1690471480,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219552,
+      "num": 219552,
+      "word": "成都大运会中国代表团旗手公布",
+      "onboard_time": 1690520799,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 216774,
@@ -961,6 +1041,14 @@
       "onboard_time": 1690462354,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205972,
+      "num": 205972,
+      "word": "大宋少年志2",
+      "onboard_time": 1690521275,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 205133,
@@ -1100,7 +1188,7 @@
     },
     {
       "raw_hot": 141432,
-      "num": 2093067,
+      "num": 2178454,
       "word": "青春主场",
       "onboard_time": 1690513900,
       "rank": 2,
