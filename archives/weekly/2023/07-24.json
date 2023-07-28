@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690517983769,
+  "endTime": 1690518828305,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2851490,
+      "num": 769679,
+      "word": "邓为随地乱扔烟头",
+      "onboard_time": 1690515459,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2815848,
       "num": 2815848,
       "word": "微信已把帐号改为账号",
@@ -217,14 +225,6 @@
       "onboard_time": 1690295143,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2738657,
-      "num": 702237,
-      "word": "邓为随地乱扔烟头",
-      "onboard_time": 1690515459,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2734025,
@@ -836,7 +836,7 @@
     },
     {
       "raw_hot": 1601776,
-      "num": 473618,
+      "num": 513622,
       "word": "公公嫌儿媳乱花钱一脚踢裂其脾脏",
       "onboard_time": 1690507234,
       "rank": 20,
@@ -908,7 +908,7 @@
     },
     {
       "raw_hot": 1487768,
-      "num": 374193,
+      "num": 513818,
       "word": "性侵女学生后男子说自己性功能障碍",
       "onboard_time": 1690512339,
       "rank": 20,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1690463195,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1308663,
+      "num": 790312,
+      "word": "泉州海峡体育中心顶篷被狂风吹走",
+      "onboard_time": 1690517259,
+      "rank": 14,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1307001,
@@ -1643,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1049819,
+      "num": 513780,
+      "word": "邓为为乱扔烟头道歉",
+      "onboard_time": 1690517563,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1048408,
       "num": 1048408,
       "word": "小伙被嘲笑买不起泡面一怒之下全包圆",
@@ -1787,20 +1803,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 999444,
+      "num": 999444,
+      "word": "王鹤棣段小薇合作新歌MV",
+      "onboard_time": 1690514919,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 996446,
       "num": 996446,
       "word": "iPhone15将采用叠层电池",
       "onboard_time": 1690173822,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 994742,
-      "num": 994742,
-      "word": "王鹤棣段小薇合作新歌MV",
-      "onboard_time": 1690514919,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 993825,
@@ -2291,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 834488,
+      "num": 707017,
+      "word": "五月天泉州 只剩倾盆的思念",
+      "onboard_time": 1690518219,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 833541,
       "num": 833541,
       "word": "going seventeen",
@@ -2425,14 +2449,6 @@
       "onboard_time": 1690265263,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 798010,
-      "num": 354258,
-      "word": "邓为为乱扔烟头道歉",
-      "onboard_time": 1690517563,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 794805,
@@ -2739,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734468,
+      "num": 734468,
+      "word": "人间烟火受害人",
+      "onboard_time": 1690516601,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 734320,
       "num": 623982,
       "word": "五月天南京",
@@ -2939,14 +2963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 701658,
-      "num": 547381,
-      "word": "泉州海峡体育中心顶篷被狂风吹走",
-      "onboard_time": 1690517259,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 701626,
       "num": 701626,
       "word": "杨紫在见面会上突然看到爸爸",
@@ -3124,7 +3140,7 @@
     },
     {
       "raw_hot": 670123,
-      "num": 357822,
+      "num": 513887,
       "word": "台风眼",
       "onboard_time": 1690514558,
       "rank": 34,
@@ -3545,6 +3561,14 @@
       "onboard_time": 1690353455,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 612185,
+      "num": 513701,
+      "word": "微信式恋爱",
+      "onboard_time": 1690517922,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 611480,
@@ -4051,14 +4075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547716,
-      "num": 547716,
-      "word": "人间烟火受害人",
-      "onboard_time": 1690516601,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 544535,
       "num": 544535,
       "word": "杨洋天台情绪大片",
@@ -4291,6 +4307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513614,
+      "num": 513614,
+      "word": "瘦了12斤内脏脂肪掉了35cm",
+      "onboard_time": 1690518462,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 513415,
       "num": 405278,
       "word": "中国独有的公摊面积为什么还不取消",
@@ -4404,7 +4428,7 @@
     },
     {
       "raw_hot": 498793,
-      "num": 339966,
+      "num": 473511,
       "word": "张元英坐姿",
       "onboard_time": 1690514499,
       "rank": 36,
@@ -4745,6 +4769,14 @@
       "onboard_time": 1690333357,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 466752,
+      "num": 466752,
+      "word": "晋江台风现场",
+      "onboard_time": 1690516299,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466456,
@@ -5435,6 +5467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410605,
+      "num": 513935,
+      "word": "中国好声音今晚开播",
+      "onboard_time": 1690516959,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410474,
       "num": 377996,
       "word": "抢票好紧张",
@@ -6003,6 +6043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364565,
+      "num": 513844,
+      "word": "封神里的玉环是还家的还",
+      "onboard_time": 1690517017,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363376,
       "num": 287727,
       "word": "女子把婴儿放在马路中间后离开",
@@ -6041,14 +6089,6 @@
       "onboard_time": 1690335993,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359099,
-      "num": 359099,
-      "word": "中国好声音今晚开播",
-      "onboard_time": 1690516959,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 359058,
@@ -6459,6 +6499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331636,
+      "num": 331636,
+      "word": "成龙张艺兴新片传说杀青",
+      "onboard_time": 1690515998,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331558,
       "num": 331558,
       "word": "XXS码实习警犬劲头十足",
@@ -6696,14 +6744,6 @@
       "word": "封神来自元始天尊的剧透",
       "onboard_time": 1690339713,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 320761,
-      "num": 320761,
-      "word": "封神里的玉环是还家的还",
-      "onboard_time": 1690517017,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -7083,6 +7123,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 297626,
+      "num": 358798,
+      "word": "当代年轻人的办公仪式感",
+      "onboard_time": 1690515338,
+      "rank": 17,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 297456,
       "num": 297456,
       "word": "杨澄王莹意难平",
@@ -7105,14 +7153,6 @@
       "onboard_time": 1690454137,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295335,
-      "num": 295335,
-      "word": "成龙张艺兴新片传说杀青",
-      "onboard_time": 1690515998,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 294569,
@@ -7265,14 +7305,6 @@
       "onboard_time": 1690453355,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287654,
-      "num": 230956,
-      "word": "晋江台风现场",
-      "onboard_time": 1690516299,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287521,
@@ -7835,14 +7867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254973,
-      "num": 358798,
-      "word": "当代年轻人的办公仪式感",
-      "onboard_time": 1690515338,
-      "rank": 17,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 254683,
       "num": 227022,
       "word": "angel采访",
@@ -8099,6 +8123,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241779,
+      "num": 241779,
+      "word": "热烈",
+      "onboard_time": 1690169073,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 240979,
+      "num": 240979,
+      "word": "甄子丹女儿出道",
+      "onboard_time": 1690518639,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240217,
       "num": 240217,
       "word": "台风杜苏芮将对上海产生影响",
@@ -8152,14 +8192,6 @@
       "word": "尘缘蓝焰",
       "onboard_time": 1690161751,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 236227,
-      "num": 228642,
-      "word": "热烈",
-      "onboard_time": 1690169073,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -8745,14 +8777,6 @@
       "onboard_time": 1690457072,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207824,
-      "num": 207824,
-      "word": "微信式恋爱",
-      "onboard_time": 1690517922,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 207755,
