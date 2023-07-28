@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690550444553,
+  "endTime": 1690551236625,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -81,6 +81,14 @@
       "onboard_time": 1690387296,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 5082802,
+      "num": 5082802,
+      "word": "中国女足赢了",
+      "onboard_time": 1690549597,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 4936597,
@@ -227,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2842292,
-      "num": 2842292,
-      "word": "中国女足赢了",
-      "onboard_time": 1690549597,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2815848,
       "num": 2815848,
       "word": "微信已把帐号改为账号",
@@ -281,6 +281,14 @@
       "onboard_time": 1690188874,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2687739,
+      "num": 1217131,
+      "word": "日本队出场安静如鸡",
+      "onboard_time": 1690549294,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 2601290,
@@ -723,14 +731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1776723,
-      "num": 1217131,
-      "word": "日本队出场安静如鸡",
-      "onboard_time": 1690549294,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1775377,
       "num": 1775377,
       "word": "第一批成人小饭桌已经倒闭了",
@@ -849,6 +849,14 @@
       "onboard_time": 1690385439,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1682846,
+      "num": 1682846,
+      "word": "大运会开幕从12开始倒数",
+      "onboard_time": 1690546292,
+      "rank": 12,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1678188,
@@ -1441,14 +1449,6 @@
       "onboard_time": 1690252894,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1285433,
-      "num": 1285433,
-      "word": "大运会开幕从12开始倒数",
-      "onboard_time": 1690546292,
-      "rank": 12,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1284804,
@@ -2164,7 +2164,7 @@
     },
     {
       "raw_hot": 964635,
-      "num": 596494,
+      "num": 622911,
       "word": "遭71岁老头扒坟辱尸老太家属发声",
       "onboard_time": 1690535853,
       "rank": 20,
@@ -2185,6 +2185,14 @@
       "onboard_time": 1690421612,
       "rank": 32,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 959053,
+      "num": 959053,
+      "word": "中国队出场 全场雄起",
+      "onboard_time": 1690550077,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 958335,
@@ -3107,6 +3115,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 742689,
+      "num": 742689,
+      "word": "夭玹",
+      "onboard_time": 1690548934,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 735048,
       "num": 735048,
       "word": "剃寸头 长发缝",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1690249473,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666057,
+      "num": 666057,
+      "word": "伊拉克女棋手美炸了",
+      "onboard_time": 1690549233,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 664301,
@@ -4136,14 +4160,6 @@
       "word": "长相思直播",
       "onboard_time": 1690276658,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 596457,
-      "num": 596457,
-      "word": "夭玹",
-      "onboard_time": 1690548934,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -4939,6 +4955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499840,
+      "num": 499840,
+      "word": "法医季2秦明第一个解剖的是熟人",
+      "onboard_time": 1690548213,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499397,
       "num": 499397,
       "word": "福原爱律师声明",
@@ -5243,28 +5267,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 472809,
-      "num": 472809,
-      "word": "伊拉克女棋手美炸了",
-      "onboard_time": 1690549233,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 472361,
       "num": 437938,
       "word": "大宋少年志",
       "onboard_time": 1690167392,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 472274,
-      "num": 472274,
-      "word": "法医季2秦明第一个解剖的是熟人",
-      "onboard_time": 1690548213,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 472248,
@@ -6195,6 +6203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 402835,
+      "num": 402835,
+      "word": "鬼火熊猫",
+      "onboard_time": 1690550234,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 401912,
       "num": 401912,
       "word": "王子奇王玉雯都在追欢颜",
@@ -6489,6 +6505,14 @@
       "onboard_time": 1690240945,
       "rank": 30,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 380662,
+      "num": 380662,
+      "word": "莲花楼 逻辑自洽的改编",
+      "onboard_time": 1690549294,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 379443,
@@ -7331,6 +7355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326445,
+      "num": 326445,
+      "word": "中国女足本届世界杯首胜",
+      "onboard_time": 1690550677,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326316,
       "num": 326316,
       "word": "长相思有自己的TFBOYS",
@@ -7433,14 +7465,6 @@
       "onboard_time": 1690326262,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322328,
-      "num": 322328,
-      "word": "莲花楼 逻辑自洽的改编",
-      "onboard_time": 1690549294,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 322316,
@@ -8611,14 +8635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259100,
-      "num": 259100,
-      "word": "中国队出场 全场雄起",
-      "onboard_time": 1690550077,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 258947,
       "num": 258947,
       "word": "市民冒雨前往34中门口献花哀悼",
@@ -8955,6 +8971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241437,
+      "num": 241437,
+      "word": "覃海洋4个项目全部夺金",
+      "onboard_time": 1690550677,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240967,
       "num": 240967,
       "word": "原神",
@@ -9057,6 +9081,14 @@
       "onboard_time": 1690366366,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234987,
+      "num": 2897414,
+      "word": "揭秘成都大运会开幕式亮点",
+      "onboard_time": 1690549053,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234552,
@@ -9627,6 +9659,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 209556,
+      "num": 209556,
+      "word": "成都大运会首场比赛今日开赛",
+      "onboard_time": 1690550019,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 209207,
       "num": 209207,
       "word": "进一步落实降低购买首套房首付比例",
@@ -10049,14 +10089,6 @@
       "onboard_time": 1690331434,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198263,
-      "num": 198263,
-      "word": "鬼火熊猫",
-      "onboard_time": 1690550234,
-      "rank": 48,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 198138,
@@ -10657,14 +10689,6 @@
       "onboard_time": 1690355974,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 176963,
-      "num": 2897414,
-      "word": "揭秘成都大运会开幕式亮点",
-      "onboard_time": 1690549053,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176882,
@@ -11880,6 +11904,9 @@
     },
     {
       "word": "#直播大运会开幕#"
+    },
+    {
+      "word": "#成都大运会开幕#"
     }
   ]
 }
