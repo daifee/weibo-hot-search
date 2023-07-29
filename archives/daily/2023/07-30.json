@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690670026964,
+  "endTime": 1690672520321,
   "band_list": [
     {
       "raw_hot": 1769832,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487467,
+      "num": 487467,
+      "word": "好多明星去了鹿晗演唱会",
+      "onboard_time": 1690660993,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 468265,
       "num": 468265,
       "word": "势俊丽敌",
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316379,
+      "num": 316379,
+      "word": "北京大雨",
+      "onboard_time": 1690663934,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314408,
       "num": 314408,
       "word": "长相思",
@@ -283,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258921,
-      "num": 258921,
-      "word": "北京大雨",
-      "onboard_time": 1690663934,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258638,
       "num": 258638,
       "word": "大黄救过TES的命吗",
@@ -339,12 +347,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 217224,
-      "num": 217224,
-      "word": "好多明星去了鹿晗演唱会",
-      "onboard_time": 1690660993,
-      "rank": 1,
-      "category": "音乐"
+      "raw_hot": 209561,
+      "num": 76522,
+      "word": "非洲媳妇带丽水丈夫回娘家",
+      "onboard_time": 1690671736,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198799,
@@ -379,6 +387,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 179333,
+      "num": 108684,
+      "word": "杨洋王楚然魏大勋破好6播放量记录",
+      "onboard_time": 1690661953,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178782,
       "num": 297116,
       "word": "老人被激流冲倒6路人接力救援",
@@ -401,6 +417,14 @@
       "onboard_time": 1690645236,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148449,
+      "num": 148449,
+      "word": "泉州暴雨店主称珠宝被积水冲光",
+      "onboard_time": 1690671736,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138388,
@@ -443,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 95498,
-      "num": 53680,
-      "word": "杨洋王楚然魏大勋破好6播放量记录",
-      "onboard_time": 1690661953,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95461,
       "num": 72683,
       "word": "北京下雨",
@@ -459,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94204,
+      "num": 76320,
+      "word": "84平米的出租屋住了17人",
+      "onboard_time": 1690671736,
+      "rank": 33,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 89231,
       "num": 188802,
       "word": "上海申花0比5上海海港",
       "onboard_time": 1690638817,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88686,
+      "num": 88686,
+      "word": "封神第一部票房破9亿",
+      "onboard_time": 1690670656,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 86399,
@@ -531,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 61601,
+      "num": 69844,
+      "word": "业内人士谈车队进罗布泊3死1失联",
+      "onboard_time": 1690656618,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54127,
       "num": 72695,
       "word": "小夭走了相柳他急了",
@@ -539,15 +579,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 41324,
-      "num": 41324,
-      "word": "业内人士谈车队进罗布泊3死1失联",
-      "onboard_time": 1690656618,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 44269,
+      "num": 69736,
+      "word": "第一次看见企鹅收脚",
+      "onboard_time": 1690670716,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
-      "raw_hot": 40846,
+      "raw_hot": 42361,
       "num": 991398,
       "word": "成都大运会的中国式浪漫",
       "onboard_time": 1690638696,
