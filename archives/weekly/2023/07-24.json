@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690666413437,
+  "endTime": 1690668879431,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -11107,6 +11107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238941,
+      "num": 238941,
+      "word": "北京大雨",
+      "onboard_time": 1690663934,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238577,
       "num": 238577,
       "word": "影院贴男人视力表被指辱女",
@@ -13395,6 +13403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161242,
+      "num": 161242,
+      "word": "好多明星去了鹿晗演唱会",
+      "onboard_time": 1690660993,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160923,
       "num": 207032,
       "word": "我的北漂学弟不北漂了",
@@ -13425,14 +13441,6 @@
       "onboard_time": 1690152858,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156794,
-      "num": 156794,
-      "word": "好多明星去了鹿晗演唱会",
-      "onboard_time": 1690660993,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 156259,
@@ -13529,14 +13537,6 @@
       "onboard_time": 1690201053,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 146352,
-      "num": 146352,
-      "word": "北京大雨",
-      "onboard_time": 1690663934,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146195,
@@ -14148,7 +14148,7 @@
     },
     {
       "raw_hot": 85028,
-      "num": 34823,
+      "num": 43525,
       "word": "杨洋王楚然魏大勋破好6播放量记录",
       "onboard_time": 1690661953,
       "rank": 21,
@@ -14545,6 +14545,14 @@
       "onboard_time": 1690398734,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22695,
+      "num": 27960,
+      "word": "南安",
+      "onboard_time": 1690658115,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17777,
