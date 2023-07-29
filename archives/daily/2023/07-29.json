@@ -1,7 +1,23 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690587225259,
+  "endTime": 1690593598932,
   "band_list": [
+    {
+      "raw_hot": 1998788,
+      "num": 1998788,
+      "word": "杜苏芮将从江西移入安徽",
+      "onboard_time": 1690589129,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1627403,
+      "num": 395380,
+      "word": "黄磊说张艺兴谈恋爱了也没事",
+      "onboard_time": 1690587025,
+      "rank": 41,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1501908,
       "num": 376410,
@@ -19,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1329563,
+      "num": 376317,
+      "word": "杨紫回应五官乱飞",
+      "onboard_time": 1690587084,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 999673,
       "num": 999673,
       "word": "中国女足赢了",
       "onboard_time": 1690549597,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 989400,
+      "num": 989400,
+      "word": "原京东副总裁称不创业可能不会得渐冻症",
+      "onboard_time": 1690585580,
+      "rank": 31,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 984185,
@@ -44,7 +76,7 @@
     },
     {
       "raw_hot": 953703,
-      "num": 371919,
+      "num": 806643,
       "word": "台风杜苏芮给漳州市民吹来遍地生蚝",
       "onboard_time": 1690573154,
       "rank": 15,
@@ -59,12 +91,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 880357,
+      "num": 372204,
+      "word": "很火还很努力的明星",
+      "onboard_time": 1690587627,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 838812,
+      "num": 838812,
+      "word": "芬兰出生率创历史新低",
+      "onboard_time": 1690591298,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759566,
       "num": 759566,
       "word": "00后来整顿婚礼了",
       "onboard_time": 1690553979,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756728,
+      "num": 363028,
+      "word": "最热的大学 最冷门的语言",
+      "onboard_time": 1690590448,
+      "rank": 13,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 726646,
@@ -96,6 +152,22 @@
       "word": "孩子被撞身亡被判与肇事司机同责",
       "onboard_time": 1690558832,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634871,
+      "num": 295828,
+      "word": "鸡都要被张艺兴吓死了",
+      "onboard_time": 1690587808,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 624264,
+      "num": 344971,
+      "word": "台风杜苏芮最新位置",
+      "onboard_time": 1690589250,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -139,6 +211,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 521997,
+      "num": 521997,
+      "word": "桐华曾经想把相柳写成男主",
+      "onboard_time": 1690586783,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 512119,
+      "num": 330350,
+      "word": "鹭卓哥哥",
+      "onboard_time": 1690591774,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509601,
       "num": 324035,
       "word": "杜苏芮已造成福建72.46万余人受灾",
@@ -147,12 +235,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499559,
-      "num": 132693,
-      "word": "原京东副总裁称不创业可能不会得渐冻症",
-      "onboard_time": 1690585580,
-      "rank": 31,
-      "category": "科技,社会新闻"
+      "raw_hot": 509257,
+      "num": 294144,
+      "word": "张艺兴李现魏大勋工作室出图",
+      "onboard_time": 1690588950,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 484653,
+      "num": 324328,
+      "word": "福州暴雨",
+      "onboard_time": 1690589430,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473738,
+      "num": 473738,
+      "word": "妲己",
+      "onboard_time": 1690589070,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 454295,
+      "num": 454295,
+      "word": "花花也参加大运会开幕式了",
+      "onboard_time": 1690585279,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 437975,
@@ -163,12 +275,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424645,
+      "num": 295227,
+      "word": "广西一在编人员档案丢失无法办退休",
+      "onboard_time": 1690591951,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421637,
+      "num": 294420,
+      "word": "印尼耍蛇人表演时试图亲吻蛇被咬死",
+      "onboard_time": 1690590871,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420226,
       "num": 313718,
       "word": "阿那亚去年王鹤棣今年魏大勋",
       "onboard_time": 1690553137,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 402992,
+      "num": 292793,
+      "word": "小伙花51万结婚要求退彩礼后续",
+      "onboard_time": 1690587574,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398440,
+      "num": 292669,
+      "word": "黄灿灿近照状态",
+      "onboard_time": 1690588649,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 397594,
+      "num": 397594,
+      "word": "魏大勋对屈楚萧说好难吃",
+      "onboard_time": 1690590152,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 393116,
@@ -219,12 +371,36 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 315636,
-      "num": 205153,
+      "raw_hot": 331286,
+      "num": 290950,
       "word": "女子称因怕台风取消民宿遭老板怼",
       "onboard_time": 1690570516,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329387,
+      "num": 329387,
+      "word": "魏大勋长在李现笑点上",
+      "onboard_time": 1690587986,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316842,
+      "num": 316842,
+      "word": "王一博说绝不放弃任何一个可以跳舞的机会",
+      "onboard_time": 1690587145,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314461,
+      "num": 290041,
+      "word": "杨紫向往的生活吃了多少烤肠",
+      "onboard_time": 1690588288,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 309612,
@@ -259,12 +435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301030,
-      "num": 203181,
-      "word": "花花也参加大运会开幕式了",
-      "onboard_time": 1690585279,
+      "raw_hot": 296423,
+      "num": 296423,
+      "word": "室温超导",
+      "onboard_time": 1690586543,
       "rank": 32,
-      "category": "体育"
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 289082,
+      "num": 289082,
+      "word": "涂山璟怎么不笑了",
+      "onboard_time": 1690591411,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 282785,
@@ -272,6 +456,14 @@
       "word": "长相思格局远远不止于情爱",
       "onboard_time": 1690583840,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282196,
+      "num": 282196,
+      "word": "王一博崴脚痛到满头大汗",
+      "onboard_time": 1690592552,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -299,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266159,
+      "num": 266159,
+      "word": "奎木狼受重伤昏迷至今",
+      "onboard_time": 1690591351,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266149,
       "num": 266149,
       "word": "刘宪华高音",
@@ -315,8 +515,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253470,
+      "num": 253470,
+      "word": "叶兴城是孙兴2.0吧",
+      "onboard_time": 1690592494,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 250937,
+      "num": 250937,
+      "word": "邓为观众缘",
+      "onboard_time": 1690587685,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248272,
-      "num": 178427,
+      "num": 222838,
       "word": "做菜还是别用硅胶铲了",
       "onboard_time": 1690561231,
       "rank": 39,
@@ -329,6 +545,30 @@
       "onboard_time": 1690556739,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245492,
+      "num": 245492,
+      "word": "何炅告别向往的生活",
+      "onboard_time": 1690589430,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243393,
+      "num": 243393,
+      "word": "如果是殷郊捡到妲己",
+      "onboard_time": 1690592913,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 243268,
+      "num": 243268,
+      "word": "俄女子称自家宠物是世界上最大的猫",
+      "onboard_time": 1690590571,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240686,
@@ -363,6 +603,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222451,
+      "num": 222451,
+      "word": "张钧甯的发言水平",
+      "onboard_time": 1690593151,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217778,
+      "num": 217778,
+      "word": "起猛了最期待的cp成真了",
+      "onboard_time": 1690586903,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 217102,
+      "num": 217102,
+      "word": "易烊千玺竖纹蓝西装",
+      "onboard_time": 1690590991,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216285,
       "num": 216285,
       "word": "开幕式熊猫好能蹦",
@@ -395,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196996,
+      "num": 196996,
+      "word": "彭昱畅发了和蘑菇屋每个人的合照",
+      "onboard_time": 1690587205,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194804,
       "num": 188108,
       "word": "水星感觉就很薛之谦",
@@ -419,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186921,
-      "num": 186921,
-      "word": "起猛了最期待的cp成真了",
-      "onboard_time": 1690586903,
-      "rank": 19,
-      "category": "动漫"
+      "raw_hot": 189907,
+      "num": 189907,
+      "word": "相柳为小夭献出生命",
+      "onboard_time": 1690589971,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 184175,
@@ -475,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142668,
-      "num": 142668,
-      "word": "桐华曾经想把相柳写成男主",
-      "onboard_time": 1690586783,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 142148,
       "num": 142148,
       "word": "封神彩蛋",
@@ -496,14 +760,6 @@
       "word": "灵戏逼人",
       "onboard_time": 1690554220,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 140740,
-      "num": 132188,
-      "word": "王一博说绝不放弃任何一个可以跳舞的机会",
-      "onboard_time": 1690587145,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -553,14 +809,6 @@
       "onboard_time": 1690552420,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130520,
-      "num": 130520,
-      "word": "室温超导",
-      "onboard_time": 1690586543,
-      "rank": 32,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 128676,
@@ -627,14 +875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110467,
-      "num": 110467,
-      "word": "杨紫回应五官乱飞",
-      "onboard_time": 1690587084,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 109939,
       "num": 109939,
       "word": "暴雨中老人被困小伙蹚深水一把抱起",
@@ -651,16 +891,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98316,
-      "num": 98316,
-      "word": "黄磊说张艺兴谈恋爱了也没事",
-      "onboard_time": 1690587025,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97253,
-      "num": 800700,
+      "num": 874071,
       "word": "揭秘成都大运会开幕式亮点",
       "onboard_time": 1690549053,
       "rank": 2,
@@ -673,14 +905,6 @@
       "onboard_time": 1690570935,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88492,
-      "num": 88492,
-      "word": "彭昱畅发了和蘑菇屋每个人的合照",
-      "onboard_time": 1690587205,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 72763,
