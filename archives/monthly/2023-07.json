@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690652026464,
+  "endTime": 1690654741687,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -60011,6 +60011,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 190692,
+      "num": 190692,
+      "word": "仙贝是拿了段奥娟的剧本吗",
+      "onboard_time": 1690651104,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190571,
       "num": 190571,
       "word": "Angelababy英伦风裤装",
@@ -63691,14 +63699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164375,
-      "num": 143828,
-      "word": "仙贝是拿了段奥娟的剧本吗",
-      "onboard_time": 1690651104,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164361,
       "num": 164361,
       "word": "杨澄你要感谢范丞丞",
@@ -66883,6 +66883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106239,
+      "num": 90410,
+      "word": "水是还没发现自己该结冰了吗",
+      "onboard_time": 1690650864,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106109,
       "num": 227594,
       "word": "2023LPL夏季赛季后赛",
@@ -68232,6 +68240,14 @@
       "word": "王一博别说话但请跳舞",
       "onboard_time": 1689278773,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 76108,
+      "num": 85480,
+      "word": "赵简 风停了",
+      "onboard_time": 1690652359,
+      "rank": 40,
       "category": "影视"
     },
     {
