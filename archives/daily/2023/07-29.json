@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690597668511,
+  "endTime": 1690598274696,
   "band_list": [
     {
       "raw_hot": 2102825,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1473681,
+      "num": 464768,
+      "word": "魏大勋红了真好",
+      "onboard_time": 1690594472,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1451317,
       "num": 300909,
       "word": "男子当街扒光妻子衣物用鞋抽打",
       "onboard_time": 1690558654,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1395883,
-      "num": 395669,
-      "word": "魏大勋红了真好",
-      "onboard_time": 1690594472,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1329563,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1003443,
-      "num": 389117,
+      "num": 460546,
       "word": "吉林白山一处公园内一男一女上吊身亡",
       "onboard_time": 1690593629,
       "rank": 30,
@@ -131,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 849085,
+      "num": 849085,
+      "word": "妈妈问我洗澡为啥这么慢",
+      "onboard_time": 1690594353,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 838812,
       "num": 838812,
       "word": "芬兰出生率创历史新低",
       "onboard_time": 1690591298,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 818100,
-      "num": 818100,
-      "word": "妈妈问我洗澡为啥这么慢",
-      "onboard_time": 1690594353,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 759566,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 700172,
-      "num": 358885,
+      "num": 424999,
       "word": "实习生租房一个月用水300吨",
       "onboard_time": 1690594353,
       "rank": 28,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 588765,
-      "num": 377320,
+      "num": 447805,
       "word": "男子无视部队劝阻破坏军婚获刑一年",
       "onboard_time": 1690596092,
       "rank": 15,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 516458,
+      "num": 445302,
+      "word": "易烊千玺王传君同框照",
+      "onboard_time": 1690596574,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512119,
       "num": 428266,
       "word": "鹭卓哥哥",
@@ -315,16 +323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487617,
-      "num": 374162,
-      "word": "易烊千玺王传君同框照",
-      "onboard_time": 1690596574,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 485074,
-      "num": 485074,
+      "raw_hot": 499726,
+      "num": 499726,
       "word": "王一博崴脚痛到满头大汗",
       "onboard_time": 1690592552,
       "rank": 31,
@@ -339,12 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462057,
-      "num": 372204,
+      "raw_hot": 483553,
+      "num": 483553,
       "word": "成都大运会首枚金牌",
       "onboard_time": 1690595132,
       "rank": 17,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 467737,
+      "num": 467737,
+      "word": "封神质子101",
+      "onboard_time": 1690597172,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 454295,
@@ -353,6 +361,14 @@
       "onboard_time": 1690585279,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 440129,
+      "num": 440129,
+      "word": "长相思全员上桌",
+      "onboard_time": 1690597292,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 437975,
@@ -435,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358150,
-      "num": 358150,
+      "raw_hot": 364643,
+      "num": 364643,
       "word": "凤婿一女九男",
       "onboard_time": 1690595372,
       "rank": 21,
@@ -449,6 +465,14 @@
       "onboard_time": 1690556074,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 348053,
+      "num": 267450,
+      "word": "拜登承认其儿子私生女是其孙女",
+      "onboard_time": 1690597954,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346515,
@@ -531,20 +555,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 302975,
-      "num": 302975,
-      "word": "长相思全员上桌",
-      "onboard_time": 1690597292,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 302091,
       "num": 302091,
       "word": "杨紫一镜到底哭戏",
       "onboard_time": 1690553320,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301608,
+      "num": 301608,
+      "word": "肖战请剧组喝饮料",
+      "onboard_time": 1690597954,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296423,
@@ -561,14 +585,6 @@
       "onboard_time": 1690593752,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291310,
-      "num": 291310,
-      "word": "封神质子101",
-      "onboard_time": 1690597172,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 289082,
@@ -611,11 +627,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275126,
+      "num": 275126,
+      "word": "曾黎吃着碗里看着锅里的",
+      "onboard_time": 1690597354,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268811,
       "num": 268811,
       "word": "如果是殷郊捡到妲己",
       "onboard_time": 1690592913,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 267858,
+      "num": 267858,
+      "word": "忽然明白蛊虫怎么那么快就种成了",
+      "onboard_time": 1690597832,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -633,6 +665,14 @@
       "onboard_time": 1690555779,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265831,
+      "num": 265831,
+      "word": "鹿晗巡演加场武汉",
+      "onboard_time": 1690597354,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 257090,
@@ -659,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250012,
+      "num": 250012,
+      "word": "台风一级响应调整为暴雨一级响应",
+      "onboard_time": 1690597896,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248272,
       "num": 222838,
       "word": "做菜还是别用硅胶铲了",
@@ -683,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244224,
+      "num": 239395,
+      "word": "10月KPOP的回归阵容",
+      "onboard_time": 1690593871,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243268,
       "num": 243268,
       "word": "俄女子称自家宠物是世界上最大的猫",
@@ -697,14 +753,6 @@
       "onboard_time": 1690566678,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239395,
-      "num": 239395,
-      "word": "10月KPOP的回归阵容",
-      "onboard_time": 1690593871,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 233164,
@@ -787,12 +835,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 206345,
-      "num": 206345,
-      "word": "鹿晗巡演加场武汉",
-      "onboard_time": 1690597354,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 200441,
+      "num": 200441,
+      "word": "中国气象局启动台风一级应急响应",
+      "onboard_time": 1690598254,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198607,
@@ -849,14 +897,6 @@
       "onboard_time": 1690589971,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188983,
-      "num": 188983,
-      "word": "曾黎吃着碗里看着锅里的",
-      "onboard_time": 1690597354,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 185986,

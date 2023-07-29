@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690597668511,
+  "endTime": 1690598274696,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -1139,6 +1139,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1473681,
+      "num": 464768,
+      "word": "魏大勋红了真好",
+      "onboard_time": 1690594472,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1471758,
       "num": 1471758,
       "word": "费翔 她是我的哈基米",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1690451674,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1395883,
-      "num": 395669,
-      "word": "魏大勋红了真好",
-      "onboard_time": 1690594472,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1391322,
@@ -2172,7 +2172,7 @@
     },
     {
       "raw_hot": 1003443,
-      "num": 389117,
+      "num": 460546,
       "word": "吉林白山一处公园内一男一女上吊身亡",
       "onboard_time": 1690593629,
       "rank": 30,
@@ -2747,6 +2747,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 849085,
+      "num": 849085,
+      "word": "妈妈问我洗澡为啥这么慢",
+      "onboard_time": 1690594353,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 848149,
       "num": 848149,
       "word": "理解纣王成为纣王",
@@ -2889,14 +2897,6 @@
       "onboard_time": 1690536274,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 818100,
-      "num": 818100,
-      "word": "妈妈问我洗澡为啥这么慢",
-      "onboard_time": 1690594353,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 817966,
@@ -3612,7 +3612,7 @@
     },
     {
       "raw_hot": 700172,
-      "num": 358885,
+      "num": 424999,
       "word": "实习生租房一个月用水300吨",
       "onboard_time": 1690594353,
       "rank": 28,
@@ -4532,7 +4532,7 @@
     },
     {
       "raw_hot": 588765,
-      "num": 377320,
+      "num": 447805,
       "word": "男子无视部队劝阻破坏军婚获刑一年",
       "onboard_time": 1690596092,
       "rank": 15,
@@ -5147,6 +5147,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 516458,
+      "num": 445302,
+      "word": "易烊千玺王传君同框照",
+      "onboard_time": 1690596574,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515698,
       "num": 515698,
       "word": "张晚意看杨紫邓为的眼神",
@@ -5331,6 +5339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499726,
+      "num": 499726,
+      "word": "王一博崴脚痛到满头大汗",
+      "onboard_time": 1690592552,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 499397,
       "num": 499397,
       "word": "福原爱律师声明",
@@ -5483,28 +5499,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 487617,
-      "num": 374162,
-      "word": "易烊千玺王传君同框照",
-      "onboard_time": 1690596574,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 486017,
       "num": 474902,
       "word": "定期查肠镜真的很有必要",
       "onboard_time": 1690416994,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 485074,
-      "num": 485074,
-      "word": "王一博崴脚痛到满头大汗",
-      "onboard_time": 1690592552,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 485005,
@@ -5537,6 +5537,14 @@
       "onboard_time": 1690210005,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483553,
+      "num": 483553,
+      "word": "成都大运会首枚金牌",
+      "onboard_time": 1690595132,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 481893,
@@ -5723,6 +5731,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 467737,
+      "num": 467737,
+      "word": "封神质子101",
+      "onboard_time": 1690597172,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467387,
       "num": 467387,
       "word": "原来龙口粉丝不能空腹吃",
@@ -5801,14 +5817,6 @@
       "onboard_time": 1690504419,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 462057,
-      "num": 372204,
-      "word": "成都大运会首枚金牌",
-      "onboard_time": 1690595132,
-      "rank": 17,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 462028,
@@ -6137,6 +6145,14 @@
       "onboard_time": 1690188334,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440129,
+      "num": 440129,
+      "word": "长相思全员上桌",
+      "onboard_time": 1690597292,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 440107,
@@ -7235,6 +7251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364643,
+      "num": 364643,
+      "word": "凤婿一女九男",
+      "onboard_time": 1690595372,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364565,
       "num": 513844,
       "word": "封神里的玉环是还家的还",
@@ -7321,14 +7345,6 @@
       "onboard_time": 1690434401,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358150,
-      "num": 358150,
-      "word": "凤婿一女九男",
-      "onboard_time": 1690595372,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 357984,
@@ -7497,6 +7513,14 @@
       "onboard_time": 1690250372,
       "rank": 31,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 348053,
+      "num": 267450,
+      "word": "拜登承认其儿子私生女是其孙女",
+      "onboard_time": 1690597954,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347652,
@@ -8379,14 +8403,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 302975,
-      "num": 302975,
-      "word": "长相思全员上桌",
-      "onboard_time": 1690597292,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 302875,
       "num": 302875,
       "word": "巴黎奥运会倒计时1周年",
@@ -8425,6 +8441,14 @@
       "onboard_time": 1690256018,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301608,
+      "num": 301608,
+      "word": "肖战请剧组喝饮料",
+      "onboard_time": 1690597954,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 300876,
@@ -8665,14 +8689,6 @@
       "onboard_time": 1690459173,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291310,
-      "num": 291310,
-      "word": "封神质子101",
-      "onboard_time": 1690597172,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 290974,
@@ -9035,6 +9051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275126,
+      "num": 275126,
+      "word": "曾黎吃着碗里看着锅里的",
+      "onboard_time": 1690597354,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274606,
       "num": 274606,
       "word": "大哥水性好被老婆喊去救人",
@@ -9195,12 +9219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267858,
+      "num": 267858,
+      "word": "忽然明白蛊虫怎么那么快就种成了",
+      "onboard_time": 1690597832,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266159,
       "num": 266159,
       "word": "奎木狼受重伤昏迷至今",
       "onboard_time": 1690591351,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265831,
+      "num": 265831,
+      "word": "鹿晗巡演加场武汉",
+      "onboard_time": 1690597354,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 265778,
@@ -9515,6 +9555,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 250012,
+      "num": 250012,
+      "word": "台风一级响应调整为暴雨一级响应",
+      "onboard_time": 1690597896,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249673,
       "num": 249673,
       "word": "女儿翻出妈妈1993年全手写论文",
@@ -9659,6 +9707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244224,
+      "num": 239395,
+      "word": "10月KPOP的回归阵容",
+      "onboard_time": 1690593871,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244190,
       "num": 244190,
       "word": "家养宠物猫跑丢后的下场之一",
@@ -9761,14 +9817,6 @@
       "onboard_time": 1690334016,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239395,
-      "num": 239395,
-      "word": "10月KPOP的回归阵容",
-      "onboard_time": 1690593871,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 238577,
@@ -10611,14 +10659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206345,
-      "num": 206345,
-      "word": "鹿晗巡演加场武汉",
-      "onboard_time": 1690597354,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 206140,
       "num": 210400,
       "word": "写简历的我belike",
@@ -11305,14 +11345,6 @@
       "onboard_time": 1690193074,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188983,
-      "num": 188983,
-      "word": "曾黎吃着碗里看着锅里的",
-      "onboard_time": 1690597354,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 188614,
