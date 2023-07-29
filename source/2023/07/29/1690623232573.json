@@ -1,0 +1,410 @@
+{
+  "runTime": 1690623232573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1347512,
+        "num": 1347512,
+        "word": "相柳宝宝蛇",
+        "onboard_time": 1690619915,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3336948,
+        "num": 1295431,
+        "word": "警方通报主持人涂磊被指性侵",
+        "onboard_time": 1690618835,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 80177,
+        "num": 1238911,
+        "word": "成都大运会最全观赛指南",
+        "onboard_time": 1690615175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236451,
+        "num": 1236451,
+        "word": "蜜雪冰城阴阳怪气瑞幸",
+        "onboard_time": 1690609054,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1078262,
+        "num": 1078262,
+        "word": "我的人间烟火被删掉的滑板戏",
+        "onboard_time": 1690615117,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 957307,
+        "num": 957307,
+        "word": "邓超四度缺席鹿晗演唱会",
+        "onboard_time": 1690618354,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 790685,
+        "num": 790685,
+        "word": "父母不懂英语从县城出国看女儿",
+        "onboard_time": 1690614878,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726860,
+        "num": 726860,
+        "word": "封神上座率",
+        "onboard_time": 1690620633,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634217,
+        "num": 634217,
+        "word": "檀健次说吻戏没用上毕生所学",
+        "onboard_time": 1690619015,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496372,
+        "num": 496372,
+        "word": "突然意识到点外卖有多贵",
+        "onboard_time": 1690606898,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1668166,
+        "num": 495695,
+        "word": "宋祖儿为配字不当道歉",
+        "onboard_time": 1690616796,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566135,
+        "num": 492233,
+        "word": "张杰胸肌好明显",
+        "onboard_time": 1690620697,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 500754,
+        "num": 488841,
+        "word": "杨幂八字没一撇演唱会海报",
+        "onboard_time": 1690614575,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482995,
+        "num": 482995,
+        "word": "举报涂磊女子初步诊断为幻觉妄想",
+        "onboard_time": 1690622313,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 325229,
+        "num": 325229,
+        "word": "命运的齿轮开始转动",
+        "onboard_time": 1690618655,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 483446,
+        "num": 320969,
+        "word": "刘宇宁连续五年悼念去世粉丝",
+        "onboard_time": 1690610915,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460722,
+        "num": 320494,
+        "word": "打于正耳光的演员沈泰也出演了长相思",
+        "onboard_time": 1690613432,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383848,
+        "num": 318946,
+        "word": "涂磊",
+        "onboard_time": 1690619015,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 316126,
+        "num": 316126,
+        "word": "台风杜苏芮北上",
+        "onboard_time": 1690608391,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309765,
+        "num": 309765,
+        "word": "拜登承认其儿子私生女是孙女",
+        "onboard_time": 1690597954,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445131,
+        "num": 308728,
+        "word": "杨洋某平台认证消失",
+        "onboard_time": 1690622914,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411566,
+        "num": 276586,
+        "word": "素颜的周也",
+        "onboard_time": 1690621775,
+        "rank": 21,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 349965,
+        "num": 265691,
+        "word": "出国之后逐渐变得自信了",
+        "onboard_time": 1690615833,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345282,
+        "num": 245981,
+        "word": "老公要在新家装120个插座",
+        "onboard_time": 1690613735,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242334,
+        "num": 242334,
+        "word": "刺痛上场",
+        "onboard_time": 1690622614,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 430284,
+        "num": 241369,
+        "word": "山泥若出狱",
+        "onboard_time": 1690613854,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398103,
+        "num": 241143,
+        "word": "操心封神票房",
+        "onboard_time": 1690600298,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331382,
+        "num": 240888,
+        "word": "唐嫣念无双妆造被吐槽",
+        "onboard_time": 1690622795,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240058,
+        "num": 240058,
+        "word": "为什么现在的学生不扎高马尾了",
+        "onboard_time": 1690605335,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303087,
+        "num": 240002,
+        "word": "封神",
+        "onboard_time": 1690607733,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220380,
+        "num": 239786,
+        "word": "山泥若",
+        "onboard_time": 1690613195,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287485,
+        "num": 239551,
+        "word": "吴所谓叮嘱弟弟看电影要遵守纪律",
+        "onboard_time": 1690616435,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258827,
+        "num": 239388,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1690620575,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247806,
+        "num": 239153,
+        "word": "封神妲己为两分钟舞蹈练了两年",
+        "onboard_time": 1690602577,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239126,
+        "num": 239126,
+        "word": "十个勤天",
+        "onboard_time": 1690609174,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172568,
+        "num": 235328,
+        "word": "28岁真是个分水岭",
+        "onboard_time": 1690601133,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234591,
+        "num": 234591,
+        "word": "种地吧",
+        "onboard_time": 1690605335,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167567,
+        "num": 213045,
+        "word": "北京暴雨",
+        "onboard_time": 1690601018,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164934,
+        "num": 211025,
+        "word": "年度最佳猫咪",
+        "onboard_time": 1690609832,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 157401,
+        "num": 210979,
+        "word": "仿佛看到了i人的晚年",
+        "onboard_time": 1690614395,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210941,
+        "num": 210941,
+        "word": "长相思组合连连看",
+        "onboard_time": 1690615776,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208779,
+        "num": 208779,
+        "word": "文俊辉演技",
+        "onboard_time": 1690622973,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205288,
+        "num": 205288,
+        "word": "内娱不可模仿的成功",
+        "onboard_time": 1690610796,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192306,
+        "num": 205287,
+        "word": "封神质子101",
+        "onboard_time": 1690597172,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189887,
+        "num": 205287,
+        "word": "孙俪为甄嬛发声",
+        "onboard_time": 1690603178,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138209,
+        "num": 205285,
+        "word": "AG对战狼队",
+        "onboard_time": 1690623155,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136464,
+        "num": 205284,
+        "word": "河北发生天然气爆燃事故致2死2伤",
+        "onboard_time": 1690612233,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128364,
+        "num": 205280,
+        "word": "两位小朋友为避车摔倒的我打抱不平",
+        "onboard_time": 1690609655,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 113007,
+        "num": 205280,
+        "word": "Uzi直播",
+        "onboard_time": 1690602334,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111599,
+        "num": 205278,
+        "word": "武汉eStarPro来CJ啦",
+        "onboard_time": 1690618115,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布大运会正式开幕#"
+    }
+  }
+}
