@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690661758145,
+  "endTime": 1690662823807,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -64371,6 +64371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156794,
+      "num": 156794,
+      "word": "好多明星去了鹿晗演唱会",
+      "onboard_time": 1690660993,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156744,
       "num": 156744,
       "word": "张杰年度最佳内地男歌手",
@@ -65744,14 +65752,6 @@
       "word": "TMEA",
       "onboard_time": 1688143230,
       "rank": 40,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 134077,
-      "num": 134077,
-      "word": "好多明星去了鹿晗演唱会",
-      "onboard_time": 1690660993,
-      "rank": 1,
       "category": "音乐"
     },
     {
@@ -69009,6 +69009,14 @@
       "onboard_time": 1688751620,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 48438,
+      "num": 34823,
+      "word": "杨洋王楚然魏大勋破好6播放量记录",
+      "onboard_time": 1690661953,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 48344,

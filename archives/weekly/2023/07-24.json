@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690661758145,
+  "endTime": 1690662823807,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -13427,6 +13427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156794,
+      "num": 156794,
+      "word": "好多明星去了鹿晗演唱会",
+      "onboard_time": 1690660993,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156259,
       "num": 438361,
       "word": "熊猫的干饭量有多惊人",
@@ -13657,14 +13665,6 @@
       "onboard_time": 1690303825,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 134077,
-      "num": 134077,
-      "word": "好多明星去了鹿晗演唱会",
-      "onboard_time": 1690660993,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 133752,
@@ -14393,6 +14393,14 @@
       "onboard_time": 1690197334,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48438,
+      "num": 34823,
+      "word": "杨洋王楚然魏大勋破好6播放量记录",
+      "onboard_time": 1690661953,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 47000,
