@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690623232573,
+  "endTime": 1690625758068,
   "band_list": [
     {
       "raw_hot": 3506145,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2553528,
-      "num": 544506,
+      "num": 623633,
       "word": "宋祖儿为配字不当道歉",
       "onboard_time": 1690616796,
       "rank": 10,
@@ -67,12 +67,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2008886,
+      "num": 651713,
+      "word": "杨洋某平台认证消失",
+      "onboard_time": 1690622914,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1802966,
+      "num": 612247,
+      "word": "杨洋 芭比的肯",
+      "onboard_time": 1690624953,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1627403,
       "num": 544695,
       "word": "黄磊说张艺兴谈恋爱了也没事",
       "onboard_time": 1690587025,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1556407,
+      "num": 1556407,
+      "word": "相柳宝宝蛇",
+      "onboard_time": 1690619915,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1541301,
@@ -113,14 +137,6 @@
       "onboard_time": 1690558654,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1404070,
-      "num": 1404070,
-      "word": "相柳宝宝蛇",
-      "onboard_time": 1690619915,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1376795,
@@ -275,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 920455,
+      "num": 920455,
+      "word": "父母不懂英语从县城出国看女儿",
+      "onboard_time": 1690614878,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 893344,
       "num": 893344,
       "word": "男子无视部队劝阻破坏军婚获刑一年",
@@ -339,14 +363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 800458,
-      "num": 800458,
-      "word": "父母不懂英语从县城出国看女儿",
-      "onboard_time": 1690614878,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 782759,
       "num": 782759,
       "word": "台风最凶猛的暴雨倒在了福建莆田",
@@ -361,6 +377,14 @@
       "onboard_time": 1690601018,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763921,
+      "num": 763921,
+      "word": "唐嫣念无双妆造被吐槽",
+      "onboard_time": 1690622795,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 759566,
@@ -531,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 579091,
+      "num": 579091,
+      "word": "封神第二部",
+      "onboard_time": 1690624596,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575288,
       "num": 575288,
       "word": "杨紫张晚意情头",
@@ -561,6 +593,14 @@
       "onboard_time": 1690620697,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 560366,
+      "num": 431098,
+      "word": "刘涛腰线",
+      "onboard_time": 1690624115,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 556017,
@@ -691,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486066,
+      "num": 338989,
+      "word": "十个勤天",
+      "onboard_time": 1690609174,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484653,
       "num": 432761,
       "word": "福州暴雨",
@@ -723,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 462616,
+      "num": 826789,
+      "word": "景区演员冒雨演70分钟观众无人离席",
+      "onboard_time": 1690624235,
+      "rank": 4,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 454295,
       "num": 454295,
       "word": "花花也参加大运会开幕式了",
@@ -745,14 +801,6 @@
       "onboard_time": 1690611875,
       "rank": 25,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 445131,
-      "num": 308728,
-      "word": "杨洋某平台认证消失",
-      "onboard_time": 1690622914,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 440309,
@@ -859,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397660,
+      "num": 265009,
+      "word": "权顺荣签售会和粉丝用中文吵架",
+      "onboard_time": 1690624055,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 395701,
       "num": 395701,
       "word": "台风一级响应调整为暴雨一级响应",
@@ -939,6 +995,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373191,
+      "num": 373191,
+      "word": "刺痛上场",
+      "onboard_time": 1690622614,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 367122,
+      "num": 296068,
+      "word": "封神",
+      "onboard_time": 1690537174,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366062,
       "num": 316478,
       "word": "张杰说今晚我要唱个够",
@@ -979,11 +1051,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343258,
+      "num": 257441,
+      "word": "文俊辉演技",
+      "onboard_time": 1690622973,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341029,
       "num": 316376,
       "word": "檀健次亲笑了",
       "onboard_time": 1690609054,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 337591,
+      "num": 254180,
+      "word": "涂山璟他超爱",
+      "onboard_time": 1690625192,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1001,14 +1089,6 @@
       "onboard_time": 1690583358,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 331382,
-      "num": 240888,
-      "word": "唐嫣念无双妆造被吐槽",
-      "onboard_time": 1690622795,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 331286,
@@ -1043,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317242,
-      "num": 300231,
-      "word": "十个勤天",
-      "onboard_time": 1690609174,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316842,
       "num": 316842,
       "word": "王一博说绝不放弃任何一个可以跳舞的机会",
@@ -1067,14 +1139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 313585,
-      "num": 296068,
-      "word": "封神",
-      "onboard_time": 1690537174,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312793,
       "num": 312793,
       "word": "王彦霖晒与老婆合照",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1690551275,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308256,
+      "num": 308256,
+      "word": "妈妈撤回了一杯奶茶",
+      "onboard_time": 1690624474,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 305725,
@@ -1275,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265854,
+      "num": 790747,
+      "word": "兵哥哥暴雨中狂奔拉住失控电动车",
+      "onboard_time": 1690624235,
+      "rank": 6,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 265831,
       "num": 265831,
       "word": "鹿晗巡演加场武汉",
@@ -1331,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253049,
+      "num": 253049,
+      "word": "TES对战LNG",
+      "onboard_time": 1690623273,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250937,
       "num": 250937,
       "word": "邓为观众缘",
@@ -1379,14 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242334,
-      "num": 242334,
-      "word": "刺痛上场",
-      "onboard_time": 1690622614,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 241531,
       "num": 241531,
       "word": "长相思女性思想",
@@ -1428,7 +1508,7 @@
     },
     {
       "raw_hot": 225111,
-      "num": 225111,
+      "num": 227646,
       "word": "长相思组合连连看",
       "onboard_time": 1690615776,
       "rank": 41,
@@ -1505,14 +1585,6 @@
       "onboard_time": 1690555358,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208779,
-      "num": 208779,
-      "word": "文俊辉演技",
-      "onboard_time": 1690622973,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 206254,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1690589971,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188815,
+      "num": 227727,
+      "word": "为什么不上Fly",
+      "onboard_time": 1690625135,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 186940,
@@ -1756,7 +1836,7 @@
     },
     {
       "raw_hot": 138209,
-      "num": 205285,
+      "num": 227608,
       "word": "AG对战狼队",
       "onboard_time": 1690623155,
       "rank": 45,
@@ -1873,6 +1953,14 @@
       "onboard_time": 1690570575,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106109,
+      "num": 227594,
+      "word": "2023LPL夏季赛季后赛",
+      "onboard_time": 1690625431,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 106018,

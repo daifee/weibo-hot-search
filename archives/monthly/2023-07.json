@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690623232573,
+  "endTime": 1690625758068,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1796,7 +1796,7 @@
     },
     {
       "raw_hot": 2553528,
-      "num": 544506,
+      "num": 623633,
       "word": "宋祖儿为配字不当道歉",
       "onboard_time": 1690616796,
       "rank": 10,
@@ -3099,6 +3099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2008886,
+      "num": 651713,
+      "word": "杨洋某平台认证消失",
+      "onboard_time": 1690622914,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2008325,
       "num": 341131,
       "word": "谢霆锋否认和王菲分手",
@@ -4065,6 +4073,14 @@
       "onboard_time": 1688617243,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1802966,
+      "num": 612247,
+      "word": "杨洋 芭比的肯",
+      "onboard_time": 1690624953,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1801449,
@@ -5355,6 +5371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1556407,
+      "num": 1556407,
+      "word": "相柳宝宝蛇",
+      "onboard_time": 1690619915,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1555115,
       "num": 1555115,
       "word": "中国人民大学称已报警",
@@ -6337,14 +6361,6 @@
       "onboard_time": 1688779229,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1404070,
-      "num": 1404070,
-      "word": "相柳宝宝蛇",
-      "onboard_time": 1690619915,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1403869,
@@ -12019,6 +12035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 920455,
+      "num": 920455,
+      "word": "父母不懂英语从县城出国看女儿",
+      "onboard_time": 1690614878,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 919392,
       "num": 819288,
       "word": "许沁被偷改的人生",
@@ -15083,14 +15107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 800458,
-      "num": 800458,
-      "word": "父母不懂英语从县城出国看女儿",
-      "onboard_time": 1690614878,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 800107,
       "num": 800107,
       "word": "肖战下次不许穿黑色短裤",
@@ -16017,6 +16033,14 @@
       "onboard_time": 1689389426,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 763921,
+      "num": 763921,
+      "word": "唐嫣念无双妆造被吐槽",
+      "onboard_time": 1690622795,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 763860,
@@ -22827,6 +22851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579091,
+      "num": 579091,
+      "word": "封神第二部",
+      "onboard_time": 1690103853,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 578592,
       "num": 578592,
       "word": "宝马司机醉驾撞人拖行案一审宣判",
@@ -23689,6 +23721,14 @@
       "onboard_time": 1689404789,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 560366,
+      "num": 431098,
+      "word": "刘涛腰线",
+      "onboard_time": 1690624115,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 560363,
@@ -26907,14 +26947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 496375,
-      "num": 303623,
-      "word": "封神第二部",
-      "onboard_time": 1690103853,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 496096,
       "num": 326538,
       "word": "魏大勋还有曾用名",
@@ -29051,6 +29083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462616,
+      "num": 826789,
+      "word": "景区演员冒雨演70分钟观众无人离席",
+      "onboard_time": 1690624235,
+      "rank": 4,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 462079,
       "num": 462079,
       "word": "青旅回应不接待35岁以上人群",
@@ -30208,14 +30248,6 @@
       "word": "刘耀文剪短发了",
       "onboard_time": 1689498452,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 445131,
-      "num": 308728,
-      "word": "杨洋某平台认证消失",
-      "onboard_time": 1690622914,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -33939,6 +33971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397660,
+      "num": 265009,
+      "word": "权顺荣签售会和粉丝用中文吵架",
+      "onboard_time": 1690624055,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397659,
       "num": 397659,
       "word": "孙怡说想要红还是得靠脑子",
@@ -35969,6 +36009,14 @@
       "onboard_time": 1688791354,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373191,
+      "num": 373191,
+      "word": "刺痛上场",
+      "onboard_time": 1690622614,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 372999,
@@ -38595,6 +38643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343258,
+      "num": 257441,
+      "word": "文俊辉演技",
+      "onboard_time": 1690622973,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343105,
       "num": 343105,
       "word": "情绪稳定真的太重要了",
@@ -39177,6 +39233,14 @@
       "onboard_time": 1690080871,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337591,
+      "num": 254180,
+      "word": "涂山璟他超爱",
+      "onboard_time": 1690625192,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 337489,
@@ -39825,14 +39889,6 @@
       "onboard_time": 1690155327,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331382,
-      "num": 240888,
-      "word": "唐嫣念无双妆造被吐槽",
-      "onboard_time": 1690622795,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 331286,
@@ -42145,6 +42201,14 @@
       "onboard_time": 1689672396,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308256,
+      "num": 308256,
+      "word": "妈妈撤回了一杯奶茶",
+      "onboard_time": 1690624474,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 308238,
@@ -47499,6 +47563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265854,
+      "num": 790747,
+      "word": "兵哥哥暴雨中狂奔拉住失控电动车",
+      "onboard_time": 1690624235,
+      "rank": 6,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 265853,
       "num": 265853,
       "word": "女子出游回家后洗面奶被灌尿液",
@@ -49251,6 +49323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253049,
+      "num": 253049,
+      "word": "TES对战LNG",
+      "onboard_time": 1690623273,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252968,
       "num": 252968,
       "word": "当穷鬼养了条馋狗",
@@ -50641,14 +50721,6 @@
       "onboard_time": 1688430579,
       "rank": 34,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 242334,
-      "num": 242334,
-      "word": "刺痛上场",
-      "onboard_time": 1690622614,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 242285,
@@ -53124,7 +53196,7 @@
     },
     {
       "raw_hot": 225111,
-      "num": 225111,
+      "num": 227646,
       "word": "长相思组合连连看",
       "onboard_time": 1690615776,
       "rank": 41,
@@ -55785,14 +55857,6 @@
       "onboard_time": 1689866319,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 208779,
-      "num": 208779,
-      "word": "文俊辉演技",
-      "onboard_time": 1690622973,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 208725,
@@ -59753,6 +59817,14 @@
       "onboard_time": 1689036399,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188815,
+      "num": 227727,
+      "word": "为什么不上Fly",
+      "onboard_time": 1690625135,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 188803,
@@ -64828,7 +64900,7 @@
     },
     {
       "raw_hot": 138209,
-      "num": 205285,
+      "num": 227608,
       "word": "AG对战狼队",
       "onboard_time": 1690623155,
       "rank": 45,
@@ -66121,6 +66193,14 @@
       "onboard_time": 1688475692,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106109,
+      "num": 227594,
+      "word": "2023LPL夏季赛季后赛",
+      "onboard_time": 1690625431,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 106018,
