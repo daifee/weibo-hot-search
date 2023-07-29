@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690644821365,
+  "endTime": 1690647590599,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -849,6 +849,14 @@
       "onboard_time": 1690362349,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1769832,
+      "num": 1769832,
+      "word": "姬发",
+      "onboard_time": 1690470707,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 1769061,
@@ -2659,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944346,
+      "num": 944346,
+      "word": "今日之后再无玟小六了",
+      "onboard_time": 1690641572,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 936182,
       "num": 936182,
       "word": "成都大运会",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1690205497,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 868721,
+      "num": 868721,
+      "word": "故宫临时闭馆",
+      "onboard_time": 1690643913,
+      "rank": 34,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 868265,
@@ -3971,14 +3995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 709765,
-      "num": 539635,
-      "word": "姬发",
-      "onboard_time": 1690470707,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 709479,
       "num": 664459,
       "word": "杨紫要檀健次罚站",
@@ -4113,14 +4129,6 @@
       "onboard_time": 1690537355,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 691841,
-      "num": 691841,
-      "word": "今日之后再无玟小六了",
-      "onboard_time": 1690641572,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 690808,
@@ -5003,6 +5011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 594066,
+      "num": 594066,
+      "word": "罗布泊",
+      "onboard_time": 1690643076,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593648,
       "num": 593648,
       "word": "刘宪华高音",
@@ -5483,6 +5499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552323,
+      "num": 552323,
+      "word": "英专生就业去外网写霸总小说",
+      "onboard_time": 1690642537,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 552146,
       "num": 552146,
       "word": "海地越位",
@@ -5953,14 +5977,6 @@
       "onboard_time": 1690382023,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 508636,
-      "num": 508636,
-      "word": "罗布泊",
-      "onboard_time": 1690643076,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 507769,
@@ -7084,7 +7100,7 @@
     },
     {
       "raw_hot": 432802,
-      "num": 329601,
+      "num": 422021,
       "word": "韩剧恶鬼大结局",
       "onboard_time": 1690643735,
       "rank": 25,
@@ -7435,6 +7451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411442,
+      "num": 411442,
+      "word": "莲花楼 当一个天下第一的剑客决定退休",
+      "onboard_time": 1690647033,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411283,
       "num": 400960,
       "word": "TFBOYS每家都有合作的电池品牌",
@@ -7465,6 +7489,14 @@
       "onboard_time": 1690450716,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 408947,
+      "num": 681666,
+      "word": "天津暴雨",
+      "onboard_time": 1690645954,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407963,
@@ -7553,6 +7585,14 @@
       "onboard_time": 1690245696,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 401526,
+      "num": 401526,
+      "word": "势俊丽敌",
+      "onboard_time": 1690646372,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 400682,
@@ -8449,14 +8489,6 @@
       "onboard_time": 1690379858,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350449,
-      "num": 350449,
-      "word": "英专生就业去外网写霸总小说",
-      "onboard_time": 1690642537,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 350029,
@@ -9875,6 +9907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287662,
+      "num": 212412,
+      "word": "大宋少年志2 抠图感",
+      "onboard_time": 1690647451,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287596,
       "num": 281195,
       "word": "李一桐多巴胺芭比妆",
@@ -10083,7 +10123,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278108,
+      "raw_hot": 278288,
       "num": 257246,
       "word": "伯邑考温润如玉",
       "onboard_time": 1690644155,
@@ -11235,14 +11275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231490,
-      "num": 268351,
-      "word": "故宫临时闭馆",
-      "onboard_time": 1690643913,
-      "rank": 34,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 231392,
       "num": 231392,
       "word": "巨齿鲨2水下戏有多难拍",
@@ -11297,6 +11329,14 @@
       "onboard_time": 1690413685,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229871,
+      "num": 188836,
+      "word": "张晚意想换个flag",
+      "onboard_time": 1690646791,
+      "rank": 44,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 229757,
@@ -12019,6 +12059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205556,
+      "num": 188821,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1690647571,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205451,
       "num": 205451,
       "word": "森林进化论",
@@ -12707,6 +12755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188886,
+      "num": 188886,
+      "word": "镇魂街3开播",
+      "onboard_time": 1690644634,
+      "rank": 37,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 188614,
       "num": 197709,
       "word": "热烈长沙路演票价炒至上千元",
@@ -13297,6 +13353,14 @@
       "onboard_time": 1690157852,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163137,
+      "num": 196190,
+      "word": "张雨霏晋级50米蝶泳决赛",
+      "onboard_time": 1690645236,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 163099,
@@ -14289,6 +14353,14 @@
       "onboard_time": 1690482977,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37739,
+      "num": 991398,
+      "word": "成都大运会的中国式浪漫",
+      "onboard_time": 1690638696,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 36844,
