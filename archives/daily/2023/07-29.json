@@ -1,10 +1,10 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690593598932,
+  "endTime": 1690594848209,
   "band_list": [
     {
-      "raw_hot": 1998788,
-      "num": 1998788,
+      "raw_hot": 2102825,
+      "num": 2102825,
       "word": "杜苏芮将从江西移入安徽",
       "onboard_time": 1690589129,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1627403,
-      "num": 395380,
+      "num": 465318,
       "word": "黄磊说张艺兴谈恋爱了也没事",
       "onboard_time": 1690587025,
       "rank": 41,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1329563,
-      "num": 376317,
+      "num": 465157,
       "word": "杨紫回应五官乱飞",
       "onboard_time": 1690587084,
       "rank": 38,
@@ -49,6 +49,14 @@
       "onboard_time": 1690549597,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 996949,
+      "num": 996949,
+      "word": "最热的大学 最冷门的语言",
+      "onboard_time": 1690590448,
+      "rank": 13,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 989400,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 880357,
-      "num": 372204,
+      "num": 464781,
       "word": "很火还很努力的明星",
       "onboard_time": 1690587627,
       "rank": 12,
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 756728,
-      "num": 363028,
-      "word": "最热的大学 最冷门的语言",
-      "onboard_time": 1690590448,
-      "rank": 13,
-      "category": "幽默,教育"
+      "raw_hot": 749772,
+      "num": 299736,
+      "word": "吉林白山一处公园内一男一女上吊身亡",
+      "onboard_time": 1690593629,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 726646,
@@ -137,6 +145,14 @@
       "onboard_time": 1690561351,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 688195,
+      "num": 688195,
+      "word": "原著里夭柳亲了400多次",
+      "onboard_time": 1690593993,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 678866,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 634871,
-      "num": 295828,
+      "num": 334663,
       "word": "鸡都要被张艺兴吓死了",
       "onboard_time": 1690587808,
       "rank": 20,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 624264,
-      "num": 344971,
+      "num": 464371,
       "word": "台风杜苏芮最新位置",
       "onboard_time": 1690589250,
       "rank": 14,
@@ -172,10 +188,18 @@
     },
     {
       "raw_hot": 620051,
-      "num": 292637,
+      "num": 325140,
       "word": "和男友吵架后24岁姑娘胸痛了3天",
       "onboard_time": 1690559914,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599121,
+      "num": 599121,
+      "word": "广西一在编人员档案丢失无法办退休",
+      "onboard_time": 1690591951,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1690557875,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 550876,
+      "num": 550876,
+      "word": "妲己",
+      "onboard_time": 1690589070,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 545203,
@@ -220,7 +252,7 @@
     },
     {
       "raw_hot": 512119,
-      "num": 330350,
+      "num": 428266,
       "word": "鹭卓哥哥",
       "onboard_time": 1690591774,
       "rank": 15,
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 509257,
-      "num": 294144,
+      "num": 328289,
       "word": "张艺兴李现魏大勋工作室出图",
       "onboard_time": 1690588950,
       "rank": 23,
@@ -244,19 +276,11 @@
     },
     {
       "raw_hot": 484653,
-      "num": 324328,
+      "num": 432761,
       "word": "福州暴雨",
       "onboard_time": 1690589430,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473738,
-      "num": 473738,
-      "word": "妲己",
-      "onboard_time": 1690589070,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 454295,
@@ -275,20 +299,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 424645,
-      "num": 295227,
-      "word": "广西一在编人员档案丢失无法办退休",
-      "onboard_time": 1690591951,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 433536,
+      "num": 433536,
+      "word": "魏大勋对屈楚萧说好难吃",
+      "onboard_time": 1690590152,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 421637,
-      "num": 294420,
+      "num": 329462,
       "word": "印尼耍蛇人表演时试图亲吻蛇被咬死",
       "onboard_time": 1690590871,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420302,
+      "num": 420302,
+      "word": "王一博崴脚痛到满头大汗",
+      "onboard_time": 1690592552,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 420226,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 402992,
-      "num": 292793,
+      "num": 300813,
       "word": "小伙花51万结婚要求退彩礼后续",
       "onboard_time": 1690587574,
       "rank": 24,
@@ -308,19 +340,11 @@
     },
     {
       "raw_hot": 398440,
-      "num": 292669,
+      "num": 333573,
       "word": "黄灿灿近照状态",
       "onboard_time": 1690588649,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 397594,
-      "num": 397594,
-      "word": "魏大勋对屈楚萧说好难吃",
-      "onboard_time": 1690590152,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 393116,
@@ -363,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 346515,
+      "num": 322324,
+      "word": "杨紫向往的生活吃了多少烤肠",
+      "onboard_time": 1690588288,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332444,
       "num": 208578,
       "word": "衣服越穿越宽松怎么办",
@@ -387,20 +419,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324724,
+      "num": 320856,
+      "word": "张艺兴 我永远是蘑菇屋的一份子",
+      "onboard_time": 1690594412,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321420,
+      "num": 321420,
+      "word": "魏大勋红了真好",
+      "onboard_time": 1690594472,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 320151,
+      "num": 320151,
+      "word": "实习生租房一个月用水300吨",
+      "onboard_time": 1690594353,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 316842,
       "num": 316842,
       "word": "王一博说绝不放弃任何一个可以跳舞的机会",
       "onboard_time": 1690587145,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314461,
-      "num": 290041,
-      "word": "杨紫向往的生活吃了多少烤肠",
-      "onboard_time": 1690588288,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 309612,
@@ -443,6 +491,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 292773,
+      "num": 292773,
+      "word": "沈梦辰写错菜单",
+      "onboard_time": 1690593752,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289082,
       "num": 289082,
       "word": "涂山璟怎么不笑了",
@@ -456,14 +512,6 @@
       "word": "长相思格局远远不止于情爱",
       "onboard_time": 1690583840,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 282196,
-      "num": 282196,
-      "word": "王一博崴脚痛到满头大汗",
-      "onboard_time": 1690592552,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -488,6 +536,14 @@
       "word": "韩剧恶鬼",
       "onboard_time": 1690561411,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268811,
+      "num": 268811,
+      "word": "如果是殷郊捡到妲己",
+      "onboard_time": 1690592913,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -555,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243393,
-      "num": 243393,
-      "word": "如果是殷郊捡到妲己",
-      "onboard_time": 1690592913,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243268,
       "num": 243268,
       "word": "俄女子称自家宠物是世界上最大的猫",
@@ -577,6 +625,22 @@
       "onboard_time": 1690566678,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239395,
+      "num": 239395,
+      "word": "10月KPOP的回归阵容",
+      "onboard_time": 1690593871,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233164,
+      "num": 233164,
+      "word": "张钧甯的发言水平",
+      "onboard_time": 1690593151,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 227131,
@@ -600,14 +664,6 @@
       "word": "封神",
       "onboard_time": 1690537174,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 222451,
-      "num": 222451,
-      "word": "张钧甯的发言水平",
-      "onboard_time": 1690593151,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -651,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208936,
+      "num": 208936,
+      "word": "妈妈问我洗澡为啥这么慢",
+      "onboard_time": 1690594353,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198607,
       "num": 198607,
       "word": "魏大勋酒会内场霸总感",
@@ -689,6 +753,14 @@
       "onboard_time": 1690548213,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192307,
+      "num": 192307,
+      "word": "热烈",
+      "onboard_time": 1690593629,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 189907,
@@ -892,7 +964,7 @@
     },
     {
       "raw_hot": 97253,
-      "num": 874071,
+      "num": 875661,
       "word": "揭秘成都大运会开幕式亮点",
       "onboard_time": 1690549053,
       "rank": 2,
