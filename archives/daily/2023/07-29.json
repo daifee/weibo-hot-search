@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690614853355,
+  "endTime": 1690616035457,
   "band_list": [
     {
       "raw_hot": 2818359,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1541301,
+      "num": 1541301,
+      "word": "我选择丁克后妈妈的变化",
+      "onboard_time": 1690612655,
+      "rank": 3,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1501908,
       "num": 376410,
       "word": "杨洋新杂志销量",
@@ -107,14 +115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1231209,
-      "num": 1231209,
-      "word": "我选择丁克后妈妈的变化",
-      "onboard_time": 1690612655,
-      "rank": 3,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 1196922,
       "num": 1196922,
       "word": "最热的大学 最冷门的语言",
@@ -128,6 +128,14 @@
       "word": "原著里夭柳亲了400多次",
       "onboard_time": 1690593993,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1060333,
+      "num": 733475,
+      "word": "打于正耳光的演员沈泰也出演了长相思",
+      "onboard_time": 1690613432,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -145,6 +153,14 @@
       "onboard_time": 1690593629,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000859,
+      "num": 1000859,
+      "word": "山泥若出狱",
+      "onboard_time": 1690613854,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 999673,
@@ -169,6 +185,14 @@
       "onboard_time": 1690555417,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 980668,
+      "num": 980668,
+      "word": "山泥若",
+      "onboard_time": 1690613195,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 968611,
@@ -260,19 +284,11 @@
     },
     {
       "raw_hot": 835922,
-      "num": 718654,
+      "num": 731589,
       "word": "刘宇宁连续五年悼念去世粉丝",
       "onboard_time": 1690610915,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 826528,
-      "num": 717528,
-      "word": "打于正耳光的演员沈泰也出演了长相思",
-      "onboard_time": 1690613432,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 782759,
@@ -315,14 +331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 731596,
-      "num": 731596,
-      "word": "山泥若",
-      "onboard_time": 1690613195,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 728383,
       "num": 728383,
       "word": "河北发生天然气爆燃事故致2死2伤",
@@ -353,6 +361,14 @@
       "onboard_time": 1690594353,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 699763,
+      "num": 699763,
+      "word": "杨幂八字没一撇演唱会海报",
+      "onboard_time": 1690614575,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 695550,
@@ -443,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 575288,
+      "num": 575288,
+      "word": "杨紫张晚意情头",
+      "onboard_time": 1690612114,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 573155,
       "num": 573155,
       "word": "封神质子101",
@@ -467,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 553524,
-      "num": 553524,
-      "word": "杨紫张晚意情头",
-      "onboard_time": 1690612114,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 550876,
       "num": 550876,
       "word": "妲己",
@@ -489,14 +505,6 @@
       "onboard_time": 1690540712,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 541451,
-      "num": 541451,
-      "word": "山泥若出狱",
-      "onboard_time": 1690613854,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 528158,
@@ -544,6 +552,14 @@
       "word": "长相思全员上桌",
       "onboard_time": 1690597292,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 517116,
+      "num": 517116,
+      "word": "我的人间烟火被删掉的滑板戏",
+      "onboard_time": 1690615117,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -611,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481018,
+      "num": 364189,
+      "word": "鹿晗上海站耳返海报都是绿色",
+      "onboard_time": 1690614155,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 475464,
+      "num": 363355,
+      "word": "老公要在新家装120个插座",
+      "onboard_time": 1690613735,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 454295,
       "num": 454295,
       "word": "花花也参加大运会开幕式了",
@@ -665,6 +697,14 @@
       "onboard_time": 1690590152,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 423831,
+      "num": 734519,
+      "word": "父母不懂英语从县城出国看女儿",
+      "onboard_time": 1690614878,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422166,
@@ -803,14 +843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357118,
-      "num": 357118,
-      "word": "老公要在新家装120个插座",
-      "onboard_time": 1690613735,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 352720,
       "num": 282949,
       "word": "九尾商务",
@@ -825,14 +857,6 @@
       "onboard_time": 1690588288,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346212,
-      "num": 324243,
-      "word": "鹿晗上海站耳返海报都是绿色",
-      "onboard_time": 1690614155,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 344557,
@@ -913,14 +937,6 @@
       "onboard_time": 1690595792,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315529,
-      "num": 315529,
-      "word": "杨幂八字没一撇演唱会海报",
-      "onboard_time": 1690614575,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 312793,
@@ -1027,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287596,
+      "num": 281195,
+      "word": "李一桐多巴胺芭比妆",
+      "onboard_time": 1690613854,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 286060,
       "num": 286060,
       "word": "长相思三位男主新增粉丝数",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1690561411,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274284,
-      "num": 274284,
-      "word": "李一桐多巴胺芭比妆",
-      "onboard_time": 1690613854,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 271762,
@@ -1331,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205649,
+      "num": 205649,
+      "word": "长相思组合连连看",
+      "onboard_time": 1690615776,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201614,
       "num": 201615,
       "word": "封神质子选角首要条件是野性",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1690598254,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200358,
+      "num": 200358,
+      "word": "周深天花板级打样舞台人是",
+      "onboard_time": 1690614996,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 198607,
@@ -1476,7 +1508,7 @@
     },
     {
       "raw_hot": 167252,
-      "num": 195458,
+      "num": 198699,
       "word": "仿佛看到了i人的晚年",
       "onboard_time": 1690614395,
       "rank": 47,
@@ -1545,6 +1577,14 @@
       "onboard_time": 1690543292,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135066,
+      "num": 192673,
+      "word": "出国之后逐渐变得自信了",
+      "onboard_time": 1690615833,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 133672,
@@ -1715,20 +1755,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46641,
+      "num": 1237120,
+      "word": "成都大运会最全观赛指南",
+      "onboard_time": 1690615175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28124,
+      "num": 247871,
+      "word": "Uzi神抢手直播间卖手",
+      "onboard_time": 1690614033,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 23112,
       "num": 37289,
       "word": "成都大运会今日开幕",
       "onboard_time": 1690530814,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12415,
-      "num": 247871,
-      "word": "Uzi神抢手直播间卖手",
-      "onboard_time": 1690614033,
-      "rank": 39,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
@@ -1743,6 +1791,9 @@
     },
     {
       "word": "#青春主场#"
+    },
+    {
+      "word": "#共享大运盛会共谱青春华章#"
     }
   ]
 }
