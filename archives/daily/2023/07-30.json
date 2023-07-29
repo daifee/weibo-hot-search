@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690672520321,
+  "endTime": 1690673615777,
   "band_list": [
     {
       "raw_hot": 1769832,
@@ -83,6 +83,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 692731,
+      "num": 692731,
+      "word": "好多明星去了鹿晗演唱会",
+      "onboard_time": 1690660993,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 614146,
       "num": 222176,
       "word": "节目组回应张艺凡施柏宇吻戏",
@@ -96,6 +104,14 @@
       "word": "罗布泊",
       "onboard_time": 1690643076,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572466,
+      "num": 258126,
+      "word": "非洲媳妇带丽水丈夫回娘家",
+      "onboard_time": 1690671736,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -115,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518348,
+      "num": 518348,
+      "word": "泉州暴雨店主称珠宝被积水冲光",
+      "onboard_time": 1690671736,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503214,
       "num": 503214,
       "word": "莲花楼 当一个天下第一的剑客决定退休",
       "onboard_time": 1690647033,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 487467,
-      "num": 487467,
-      "word": "好多明星去了鹿晗演唱会",
-      "onboard_time": 1690660993,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 468265,
@@ -243,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308833,
+      "num": 308833,
+      "word": "陈赫带张子萱去鹿晗演唱会",
+      "onboard_time": 1690673001,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 305148,
       "num": 281519,
       "word": "长相思新副本",
@@ -315,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238207,
+      "num": 238207,
+      "word": "瞿颖素颜突袭胡兵直播间",
+      "onboard_time": 1690672579,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237154,
       "num": 188854,
       "word": "封神第二部",
@@ -329,6 +361,14 @@
       "onboard_time": 1690637498,
       "rank": 43,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 228332,
+      "num": 138716,
+      "word": "84平米的出租屋住了17人",
+      "onboard_time": 1690671736,
+      "rank": 33,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 226924,
@@ -347,12 +387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209561,
-      "num": 76522,
-      "word": "非洲媳妇带丽水丈夫回娘家",
-      "onboard_time": 1690671736,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 209460,
+      "num": 138533,
+      "word": "杨洋王楚然魏大勋破好6播放量记录",
+      "onboard_time": 1690661953,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 198799,
@@ -387,14 +427,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 179333,
-      "num": 108684,
-      "word": "杨洋王楚然魏大勋破好6播放量记录",
-      "onboard_time": 1690661953,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178782,
       "num": 297116,
       "word": "老人被激流冲倒6路人接力救援",
@@ -419,20 +451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148449,
-      "num": 148449,
-      "word": "泉州暴雨店主称珠宝被积水冲光",
-      "onboard_time": 1690671736,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138388,
       "num": 188882,
       "word": "刺痛退役",
       "onboard_time": 1690629813,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137335,
+      "num": 137335,
+      "word": "水是还没发现自己该结冰了吗",
+      "onboard_time": 1690650864,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 134928,
@@ -451,12 +483,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108172,
-      "num": 90410,
-      "word": "水是还没发现自己该结冰了吗",
-      "onboard_time": 1690650864,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 113105,
+      "num": 113105,
+      "word": "封神第一部票房破9亿",
+      "onboard_time": 1690670656,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 102910,
@@ -475,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94204,
-      "num": 76320,
-      "word": "84平米的出租屋住了17人",
-      "onboard_time": 1690671736,
-      "rank": 33,
-      "category": "社会新闻,财经"
+      "raw_hot": 94937,
+      "num": 94937,
+      "word": "第一次看见企鹅收脚",
+      "onboard_time": 1690670716,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 89231,
@@ -491,20 +523,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88686,
-      "num": 88686,
-      "word": "封神第一部票房破9亿",
-      "onboard_time": 1690670656,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 86399,
       "num": 178580,
       "word": "蜜雪冰城阴阳怪气瑞幸",
       "onboard_time": 1690609054,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81503,
+      "num": 81503,
+      "word": "A股",
+      "onboard_time": 1690656136,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 76108,
@@ -531,20 +563,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 66201,
-      "num": 78356,
-      "word": "A股",
-      "onboard_time": 1690656136,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 65840,
       "num": 128230,
       "word": "XYG零封TES",
       "onboard_time": 1690639838,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 64337,
+      "num": 73524,
+      "word": "业内人士谈车队进罗布泊3死1失联",
+      "onboard_time": 1690656618,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64068,
@@ -563,12 +595,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 61601,
-      "num": 69844,
-      "word": "业内人士谈车队进罗布泊3死1失联",
-      "onboard_time": 1690656618,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 57489,
+      "num": 991398,
+      "word": "成都大运会的中国式浪漫",
+      "onboard_time": 1690638696,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 54127,
@@ -577,22 +609,6 @@
       "onboard_time": 1690633711,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 44269,
-      "num": 69736,
-      "word": "第一次看见企鹅收脚",
-      "onboard_time": 1690670716,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 42361,
-      "num": 991398,
-      "word": "成都大运会的中国式浪漫",
-      "onboard_time": 1690638696,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 28298,
