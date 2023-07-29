@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/07/01 00:24:09 ~ 2023/07/29 19:12:34
+本榜单时间：2023/07/01 00:24:09 ~ 2023/07/29 19:33:39
 </p>
 </blockquote>
 <p>
@@ -3201,6 +3201,12 @@ Lisa无刘海vs蒋雯丽（热度：1810361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%82%E7%9B%AE%E7%BB%84%E5%9B%9E%E5%BA%94%E5%BC%A0%E8%89%BA%E5%87%A1%E6%96%BD%E6%9F%8F%E5%AE%87%E5%90%BB%E6%88%8F%23" target="weibo">
+节目组回应张艺凡施柏宇吻戏（热度：1768286）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E5%9C%A8%E5%8A%9D%E9%AD%8F%E5%A4%A7%E5%8B%8B%23" target="weibo">
 范丞丞也在劝魏大勋（热度：1767691）
 </a>
@@ -3689,12 +3695,6 @@ TFBOYS演唱会的票价（热度：1711127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%BD%A0%E6%98%AF%E6%9D%A5%E7%9C%8B%E8%B0%81%E7%9A%84%23" target="weibo">
 你好星期六你是来看谁的（热度：1635424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%82%E7%9B%AE%E7%BB%84%E5%9B%9E%E5%BA%94%E5%BC%A0%E8%89%BA%E5%87%A1%E6%96%BD%E6%9F%8F%E5%AE%87%E5%90%BB%E6%88%8F%23" target="weibo">
-节目组回应张艺凡施柏宇吻戏（热度：1633085）
 </a>
 </li>
 
