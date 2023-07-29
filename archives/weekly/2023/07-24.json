@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690619636568,
+  "endTime": 1690622078661,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -145,6 +145,14 @@
       "onboard_time": 1690379978,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3506145,
+      "num": 3506145,
+      "word": "警方通报主持人涂磊被指性侵",
+      "onboard_time": 1690618835,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3477814,
@@ -1115,14 +1123,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1561781,
-      "num": 1561781,
-      "word": "警方通报主持人涂磊被指性侵",
-      "onboard_time": 1690618835,
-      "rank": 1,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1549855,
       "num": 1549855,
       "word": "覃海洋200米蛙泳金牌",
@@ -1345,6 +1345,14 @@
       "onboard_time": 1690451674,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1404070,
+      "num": 1404070,
+      "word": "相柳宝宝蛇",
+      "onboard_time": 1690619915,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1391322,
@@ -2041,6 +2049,14 @@
       "onboard_time": 1690272937,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1078034,
+      "num": 1078034,
+      "word": "邓超四度缺席鹿晗演唱会",
+      "onboard_time": 1690618354,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 1074964,
@@ -3113,14 +3129,6 @@
       "onboard_time": 1690546292,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 807828,
-      "num": 807828,
-      "word": "邓超四度缺席鹿晗演唱会",
-      "onboard_time": 1690618354,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 805798,
@@ -4387,6 +4395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634698,
+      "num": 634698,
+      "word": "封神上座率",
+      "onboard_time": 1690620633,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 633617,
       "num": 633617,
       "word": "TFBOYS十周年演唱会出座位了",
@@ -5264,6 +5280,14 @@
       "word": "长相思里究竟谁扛剧",
       "onboard_time": 1690523434,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 533879,
+      "num": 476124,
+      "word": "檀健次说吻戏没用上毕生所学",
+      "onboard_time": 1690619015,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -6433,6 +6457,14 @@
       "onboard_time": 1690361444,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442919,
+      "num": 442919,
+      "word": "张杰胸肌好明显",
+      "onboard_time": 1690620697,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 441841,
@@ -9195,14 +9227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289686,
-      "num": 240164,
-      "word": "檀健次说吻戏没用上毕生所学",
-      "onboard_time": 1690619015,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 289294,
       "num": 289294,
       "word": "宋了马兄弟",
@@ -10427,6 +10451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236274,
+      "num": 306147,
+      "word": "命运的齿轮开始转动",
+      "onboard_time": 1690618655,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235896,
       "num": 235896,
       "word": "TES今天状态拉满",
@@ -10747,8 +10779,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 225078,
-      "num": 221186,
+      "raw_hot": 225111,
+      "num": 225111,
       "word": "长相思组合连连看",
       "onboard_time": 1690615776,
       "rank": 41,
@@ -11033,6 +11065,14 @@
       "onboard_time": 1690178987,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211650,
+      "num": 211650,
+      "word": "素颜的周也",
+      "onboard_time": 1690621775,
+      "rank": 36,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 211622,
@@ -12036,7 +12076,7 @@
     },
     {
       "raw_hot": 186940,
-      "num": 186940,
+      "num": 211615,
       "word": "武汉eStarPro来CJ啦",
       "onboard_time": 1690618115,
       "rank": 44,
@@ -12233,14 +12273,6 @@
       "onboard_time": 1690598855,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179193,
-      "num": 179193,
-      "word": "命运的齿轮开始转动",
-      "onboard_time": 1690618655,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 178684,
@@ -13281,6 +13313,14 @@
       "onboard_time": 1690391902,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80657,
+      "num": 211610,
+      "word": "MRC对战WBG",
+      "onboard_time": 1690621831,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 80145,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1690622078661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3506145,
+        "num": 3506145,
+        "word": "警方通报主持人涂磊被指性侵",
+        "onboard_time": 1690618835,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1434637,
+        "num": 1434637,
+        "word": "蜜雪冰城阴阳怪气瑞幸",
+        "onboard_time": 1690609054,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74415,
+        "num": 1404391,
+        "word": "成都大运会最全观赛指南",
+        "onboard_time": 1690615175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1404070,
+        "num": 1404070,
+        "word": "相柳宝宝蛇",
+        "onboard_time": 1690619915,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1146579,
+        "num": 1146579,
+        "word": "我的人间烟火被删掉的滑板戏",
+        "onboard_time": 1690615117,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1078034,
+        "num": 1078034,
+        "word": "邓超四度缺席鹿晗演唱会",
+        "onboard_time": 1690618354,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 793556,
+        "num": 793556,
+        "word": "父母不懂英语从县城出国看女儿",
+        "onboard_time": 1690614878,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634698,
+        "num": 634698,
+        "word": "封神上座率",
+        "onboard_time": 1690620633,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629089,
+        "num": 629089,
+        "word": "杨幂八字没一撇演唱会海报",
+        "onboard_time": 1690614575,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 484145,
+        "num": 484145,
+        "word": "突然意识到点外卖有多贵",
+        "onboard_time": 1690606898,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2096801,
+        "num": 483367,
+        "word": "宋祖儿为配字不当道歉",
+        "onboard_time": 1690616796,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641752,
+        "num": 477511,
+        "word": "涂磊",
+        "onboard_time": 1690619015,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 533879,
+        "num": 476124,
+        "word": "檀健次说吻戏没用上毕生所学",
+        "onboard_time": 1690619015,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 572557,
+        "num": 469268,
+        "word": "山泥若出狱",
+        "onboard_time": 1690613854,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 509288,
+        "num": 467569,
+        "word": "打于正耳光的演员沈泰也出演了长相思",
+        "onboard_time": 1690613432,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465262,
+        "num": 465262,
+        "word": "刘宇宁连续五年悼念去世粉丝",
+        "onboard_time": 1690610915,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442919,
+        "num": 442919,
+        "word": "张杰胸肌好明显",
+        "onboard_time": 1690620697,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 311147,
+        "num": 311147,
+        "word": "台风杜苏芮北上",
+        "onboard_time": 1690608391,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306765,
+        "num": 306765,
+        "word": "拜登承认其儿子私生女是孙女",
+        "onboard_time": 1690597954,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236274,
+        "num": 306147,
+        "word": "命运的齿轮开始转动",
+        "onboard_time": 1690618655,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257749,
+        "num": 304173,
+        "word": "山泥若",
+        "onboard_time": 1690613195,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 435177,
+        "num": 302398,
+        "word": "操心封神票房",
+        "onboard_time": 1690600298,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352991,
+        "num": 300271,
+        "word": "出国之后逐渐变得自信了",
+        "onboard_time": 1690615833,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328996,
+        "num": 298711,
+        "word": "老公要在新家装120个插座",
+        "onboard_time": 1690613735,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325015,
+        "num": 297037,
+        "word": "吴所谓叮嘱弟弟看电影要遵守纪律",
+        "onboard_time": 1690616435,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313585,
+        "num": 296068,
+        "word": "封神",
+        "onboard_time": 1690607733,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295401,
+        "num": 295401,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1690620575,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277666,
+        "num": 277666,
+        "word": "封神妲己为两分钟舞蹈练了两年",
+        "onboard_time": 1690602577,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241312,
+        "num": 241312,
+        "word": "为什么现在的学生不扎高马尾了",
+        "onboard_time": 1690605335,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184412,
+        "num": 233652,
+        "word": "28岁真是个分水岭",
+        "onboard_time": 1690601133,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252152,
+        "num": 232642,
+        "word": "孙俪为甄嬛发声",
+        "onboard_time": 1690603178,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227904,
+        "num": 227904,
+        "word": "内娱不可模仿的成功",
+        "onboard_time": 1690610796,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225111,
+        "num": 225111,
+        "word": "长相思组合连连看",
+        "onboard_time": 1690615776,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178157,
+        "num": 215704,
+        "word": "北京暴雨",
+        "onboard_time": 1690601018,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174994,
+        "num": 213387,
+        "word": "仿佛看到了i人的晚年",
+        "onboard_time": 1690614395,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212147,
+        "num": 212147,
+        "word": "封神质子101",
+        "onboard_time": 1690597172,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211650,
+        "num": 211650,
+        "word": "素颜的周也",
+        "onboard_time": 1690621775,
+        "rank": 36,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 151734,
+        "num": 211648,
+        "word": "年度最佳猫咪",
+        "onboard_time": 1690609832,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142235,
+        "num": 211645,
+        "word": "Uzi直播",
+        "onboard_time": 1690602334,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132609,
+        "num": 211641,
+        "word": "河北发生天然气爆燃事故致2死2伤",
+        "onboard_time": 1690612233,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197926,
+        "num": 211641,
+        "word": "杨紫张晚意情头",
+        "onboard_time": 1690612114,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188693,
+        "num": 211638,
+        "word": "种地吧",
+        "onboard_time": 1690605335,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188197,
+        "num": 211633,
+        "word": "大鹏说把片酬给邓超了",
+        "onboard_time": 1690607974,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186151,
+        "num": 211629,
+        "word": "张新成周雨彤情头",
+        "onboard_time": 1690607135,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176118,
+        "num": 211628,
+        "word": "芭比",
+        "onboard_time": 1690620159,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171039,
+        "num": 211625,
+        "word": "谢娜乘风最后一支vlog",
+        "onboard_time": 1690618115,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122904,
+        "num": 211620,
+        "word": "两位小朋友为避车摔倒的我打抱不平",
+        "onboard_time": 1690609655,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 104903,
+        "num": 211615,
+        "word": "台风一级响应调整为暴雨一级响应",
+        "onboard_time": 1690597896,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96989,
+        "num": 211615,
+        "word": "武汉eStarPro来CJ啦",
+        "onboard_time": 1690618115,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80657,
+        "num": 211610,
+        "word": "MRC对战WBG",
+        "onboard_time": 1690621831,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春主场#"
+    }
+  }
+}

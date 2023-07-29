@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690619636568,
+  "endTime": 1690622078661,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -721,6 +721,14 @@
       "onboard_time": 1688226334,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3506145,
+      "num": 3506145,
+      "word": "警方通报主持人涂磊被指性侵",
+      "onboard_time": 1690618835,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3489974,
@@ -5315,14 +5323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1561781,
-      "num": 1561781,
-      "word": "警方通报主持人涂磊被指性侵",
-      "onboard_time": 1690618835,
-      "rank": 1,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1561314,
       "num": 1561314,
       "word": "隐形眼镜有根线先别急着扔",
@@ -6337,6 +6337,14 @@
       "onboard_time": 1688779229,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1404070,
+      "num": 1404070,
+      "word": "相柳宝宝蛇",
+      "onboard_time": 1690619915,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1403869,
@@ -9433,6 +9441,14 @@
       "onboard_time": 1689167736,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1078034,
+      "num": 1078034,
+      "word": "邓超四度缺席鹿晗演唱会",
+      "onboard_time": 1690618354,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 1078032,
@@ -14833,14 +14849,6 @@
       "onboard_time": 1689303212,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 807828,
-      "num": 807828,
-      "word": "邓超四度缺席鹿晗演唱会",
-      "onboard_time": 1690618354,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 807782,
@@ -20483,6 +20491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634698,
+      "num": 634698,
+      "word": "封神上座率",
+      "onboard_time": 1690620633,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 634662,
       "num": 406179,
       "word": "女子坐地铁被安检告知榴莲有5房肉",
@@ -24897,6 +24913,14 @@
       "onboard_time": 1689506910,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533879,
+      "num": 476124,
+      "word": "檀健次说吻戏没用上毕生所学",
+      "onboard_time": 1690619015,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 533794,
@@ -30353,6 +30377,14 @@
       "onboard_time": 1689014595,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442919,
+      "num": 442919,
+      "word": "张杰胸肌好明显",
+      "onboard_time": 1690620697,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 442803,
@@ -42468,7 +42500,7 @@
     },
     {
       "raw_hot": 304398,
-      "num": 304398,
+      "num": 306147,
       "word": "命运的齿轮开始转动",
       "onboard_time": 1689926193,
       "rank": 25,
@@ -44441,14 +44473,6 @@
       "onboard_time": 1689814656,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 289686,
-      "num": 240164,
-      "word": "檀健次说吻戏没用上毕生所学",
-      "onboard_time": 1690619015,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 289637,
@@ -53059,8 +53083,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225078,
-      "num": 221186,
+      "raw_hot": 225111,
+      "num": 225111,
       "word": "长相思组合连连看",
       "onboard_time": 1690615776,
       "rank": 41,
@@ -55217,6 +55241,14 @@
       "onboard_time": 1690082432,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211650,
+      "num": 211650,
+      "word": "素颜的周也",
+      "onboard_time": 1690621775,
+      "rank": 36,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 211622,
@@ -60004,7 +60036,7 @@
     },
     {
       "raw_hot": 186940,
-      "num": 186940,
+      "num": 211615,
       "word": "武汉eStarPro来CJ啦",
       "onboard_time": 1690618115,
       "rank": 44,
@@ -67193,6 +67225,14 @@
       "onboard_time": 1689944437,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80657,
+      "num": 211610,
+      "word": "MRC对战WBG",
+      "onboard_time": 1690621831,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 80574,

@@ -1,7 +1,15 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690619636568,
+  "endTime": 1690622078661,
   "band_list": [
+    {
+      "raw_hot": 3506145,
+      "num": 3506145,
+      "word": "警方通报主持人涂磊被指性侵",
+      "onboard_time": 1690618835,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 2818359,
       "num": 2818359,
@@ -67,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1561781,
-      "num": 1561781,
-      "word": "警方通报主持人涂磊被指性侵",
-      "onboard_time": 1690618835,
-      "rank": 1,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1541301,
       "num": 1541301,
       "word": "我选择丁克后妈妈的变化",
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1404070,
+      "num": 1404070,
+      "word": "相柳宝宝蛇",
+      "onboard_time": 1690619915,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1376795,
       "num": 1257531,
       "word": "大鹏说把片酬给邓超了",
@@ -153,6 +161,14 @@
       "onboard_time": 1690593993,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1078034,
+      "num": 1078034,
+      "word": "邓超四度缺席鹿晗演唱会",
+      "onboard_time": 1690618354,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 1060333,
@@ -323,14 +339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 807828,
-      "num": 807828,
-      "word": "邓超四度缺席鹿晗演唱会",
-      "onboard_time": 1690618354,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 800458,
       "num": 800458,
       "word": "父母不懂英语从县城出国看女儿",
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634698,
+      "num": 634698,
+      "word": "封神上座率",
+      "onboard_time": 1690620633,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 633278,
       "num": 505397,
       "word": "以为姬发真的要露屁股",
@@ -552,6 +568,14 @@
       "word": "张子枫瘦好多",
       "onboard_time": 1690540712,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 533879,
+      "num": 476124,
+      "word": "檀健次说吻戏没用上毕生所学",
+      "onboard_time": 1690619015,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -705,6 +729,14 @@
       "onboard_time": 1690611875,
       "rank": 25,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 442919,
+      "num": 442919,
+      "word": "张杰胸肌好明显",
+      "onboard_time": 1690620697,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 440309,
@@ -995,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 313585,
+      "num": 296068,
+      "word": "封神",
+      "onboard_time": 1690537174,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312793,
       "num": 312793,
       "word": "王彦霖晒与老婆合照",
@@ -1035,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303539,
-      "num": 291885,
-      "word": "封神",
-      "onboard_time": 1690537174,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 302091,
       "num": 302091,
       "word": "杨紫一镜到底哭戏",
@@ -1075,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295401,
+      "num": 295401,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1690620575,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292773,
       "num": 292773,
       "word": "沈梦辰写错菜单",
@@ -1088,14 +1128,6 @@
       "word": "迪丽热巴三万水狮全国异地登陆",
       "onboard_time": 1690601375,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 289686,
-      "num": 240164,
-      "word": "檀健次说吻戏没用上毕生所学",
-      "onboard_time": 1690619015,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1323,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236274,
+      "num": 306147,
+      "word": "命运的齿轮开始转动",
+      "onboard_time": 1690618655,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233634,
       "num": 233634,
       "word": "仿佛看到了i人的晚年",
@@ -1347,8 +1387,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225078,
-      "num": 221186,
+      "raw_hot": 225111,
+      "num": 225111,
       "word": "长相思组合连连看",
       "onboard_time": 1690615776,
       "rank": 41,
@@ -1417,6 +1457,14 @@
       "onboard_time": 1690612954,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 211650,
+      "num": 211650,
+      "word": "素颜的周也",
+      "onboard_time": 1690621775,
+      "rank": 36,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 210101,
@@ -1532,7 +1580,7 @@
     },
     {
       "raw_hot": 186940,
-      "num": 186940,
+      "num": 211615,
       "word": "武汉eStarPro来CJ啦",
       "onboard_time": 1690618115,
       "rank": 44,
@@ -1587,20 +1635,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179193,
-      "num": 179193,
-      "word": "命运的齿轮开始转动",
-      "onboard_time": 1690618655,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177221,
       "num": 176850,
       "word": "屈楚萧戴眼镜",
       "onboard_time": 1690562309,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176118,
+      "num": 211628,
+      "word": "芭比",
+      "onboard_time": 1690620159,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 171959,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1690600115,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80657,
+      "num": 211610,
+      "word": "MRC对战WBG",
+      "onboard_time": 1690621831,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 72763,
