@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690643732507,
+  "endTime": 1690644821365,
   "band_list": [
     {
       "raw_hot": 3645453,
@@ -171,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1477195,
+      "num": 1477195,
+      "word": "小狗好像以为结婚就是离开",
+      "onboard_time": 1690640617,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1473681,
       "num": 556196,
       "word": "魏大勋红了真好",
@@ -225,14 +233,6 @@
       "onboard_time": 1690628075,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1165954,
-      "num": 1165954,
-      "word": "小狗好像以为结婚就是离开",
-      "onboard_time": 1690640617,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 1161271,
@@ -385,6 +385,14 @@
       "onboard_time": 1690555302,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 951481,
+      "num": 951481,
+      "word": "BLACKPINK听到求婚后不同的反应",
+      "onboard_time": 1690642774,
+      "rank": 12,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 934216,
@@ -555,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757603,
+      "num": 757603,
+      "word": "周润发跑步摔伤肋骨",
+      "onboard_time": 1690642296,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 753578,
       "num": 753578,
       "word": "涂磊",
       "onboard_time": 1690619015,
       "rank": 8,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 750025,
-      "num": 750025,
-      "word": "BLACKPINK听到求婚后不同的反应",
-      "onboard_time": 1690642774,
-      "rank": 12,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 747390,
@@ -667,6 +675,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 691841,
+      "num": 691841,
+      "word": "今日之后再无玟小六了",
+      "onboard_time": 1690641572,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 681474,
       "num": 680419,
       "word": "你好星期六",
@@ -691,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 674825,
-      "num": 608427,
-      "word": "周润发跑步摔伤肋骨",
-      "onboard_time": 1690642296,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 663656,
+      "num": 769038,
+      "word": "超导",
+      "onboard_time": 1690642239,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 661841,
@@ -1011,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508636,
+      "num": 508636,
+      "word": "罗布泊",
+      "onboard_time": 1690643076,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507769,
       "num": 507769,
       "word": "刘宇宁蒋俊豪",
@@ -1067,7 +1091,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 477266,
+      "raw_hot": 480917,
       "num": 383520,
       "word": "毛不易醉酒给单依纯打电话",
       "onboard_time": 1690641216,
@@ -1097,22 +1121,6 @@
       "onboard_time": 1690630353,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 463084,
-      "num": 769038,
-      "word": "超导",
-      "onboard_time": 1690642239,
-      "rank": 9,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 455619,
-      "num": 316086,
-      "word": "今日之后再无玟小六了",
-      "onboard_time": 1690641572,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 454295,
@@ -1187,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432802,
+      "num": 329601,
+      "word": "韩剧恶鬼大结局",
+      "onboard_time": 1690643735,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423526,
       "num": 423526,
       "word": "张雨霏50米蝶泳银牌",
@@ -1228,7 +1244,7 @@
     },
     {
       "raw_hot": 413420,
-      "num": 257208,
+      "num": 300084,
       "word": "龚俊跳要你管",
       "onboard_time": 1690643135,
       "rank": 31,
@@ -1348,7 +1364,7 @@
     },
     {
       "raw_hot": 385587,
-      "num": 256180,
+      "num": 265538,
       "word": "范丞丞陈飞宇活动同框",
       "onboard_time": 1690642837,
       "rank": 33,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1690563086,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378682,
+      "num": 267545,
+      "word": "姬发",
+      "onboard_time": 1690644514,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 376012,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1690556074,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 350449,
+      "num": 350449,
+      "word": "英专生就业去外网写霸总小说",
+      "onboard_time": 1690642537,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 346515,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1690639295,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 317932,
+      "num": 259685,
+      "word": "迪丽热巴真迪甜",
+      "onboard_time": 1690643556,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 316842,
@@ -1755,14 +1795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 285128,
-      "num": 249268,
-      "word": "迪丽热巴真迪甜",
-      "onboard_time": 1690643556,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 282785,
       "num": 282785,
       "word": "长相思格局远远不止于情爱",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1690560512,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 278108,
+      "num": 257246,
+      "word": "伯邑考温润如玉",
+      "onboard_time": 1690644155,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 276695,
@@ -1889,6 +1929,14 @@
       "onboard_time": 1690638035,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257138,
+      "num": 257138,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1690644274,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 257090,
@@ -2043,6 +2091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231490,
+      "num": 268351,
+      "word": "故宫临时闭馆",
+      "onboard_time": 1690643913,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 230405,
       "num": 230405,
       "word": "申花",
@@ -2060,7 +2116,7 @@
     },
     {
       "raw_hot": 225946,
-      "num": 251173,
+      "num": 256702,
       "word": "XYG零封TES",
       "onboard_time": 1690639838,
       "rank": 48,
@@ -2153,14 +2209,6 @@
       "onboard_time": 1690555358,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208643,
-      "num": 258892,
-      "word": "罗布泊",
-      "onboard_time": 1690643076,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206254,
@@ -2361,14 +2409,6 @@
       "onboard_time": 1690597412,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 182820,
-      "num": 253473,
-      "word": "英专生就业去外网写霸总小说",
-      "onboard_time": 1690642537,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 180011,

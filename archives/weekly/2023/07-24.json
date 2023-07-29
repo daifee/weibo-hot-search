@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690643732507,
+  "endTime": 1690644821365,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -1267,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1477195,
+      "num": 1477195,
+      "word": "小狗好像以为结婚就是离开",
+      "onboard_time": 1690640617,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1476336,
       "num": 1127790,
       "word": "魏大勋不是孟宴臣角色的第一人选",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1690375360,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1165954,
-      "num": 1165954,
-      "word": "小狗好像以为结婚就是离开",
-      "onboard_time": 1690640617,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 1161271,
@@ -2633,6 +2633,14 @@
       "onboard_time": 1690355495,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 951481,
+      "num": 951481,
+      "word": "BLACKPINK听到求婚后不同的反应",
+      "onboard_time": 1690642774,
+      "rank": 12,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 948161,
@@ -3611,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757603,
+      "num": 757603,
+      "word": "周润发跑步摔伤肋骨",
+      "onboard_time": 1690642296,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 756923,
       "num": 423696,
       "word": "男子不慎抠下派出所石狮子嘴里石球",
@@ -3649,14 +3665,6 @@
       "onboard_time": 1690462354,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 750025,
-      "num": 750025,
-      "word": "BLACKPINK听到求婚后不同的反应",
-      "onboard_time": 1690642774,
-      "rank": 12,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 747390,
@@ -4107,6 +4115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691841,
+      "num": 691841,
+      "word": "今日之后再无玟小六了",
+      "onboard_time": 1690641572,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 690808,
       "num": 690808,
       "word": "姐弟垃圾堆捡31部苹果手机价值21万",
@@ -4235,14 +4251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 674825,
-      "num": 608427,
-      "word": "周润发跑步摔伤肋骨",
-      "onboard_time": 1690642296,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 674781,
       "num": 674781,
       "word": "赵今麦妆造",
@@ -4353,6 +4361,14 @@
       "onboard_time": 1690358556,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 663656,
+      "num": 769038,
+      "word": "超导",
+      "onboard_time": 1690421492,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 663202,
@@ -5939,6 +5955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 508636,
+      "num": 508636,
+      "word": "罗布泊",
+      "onboard_time": 1690643076,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507769,
       "num": 507769,
       "word": "刘宇宁蒋俊豪",
@@ -6275,6 +6299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 480917,
+      "num": 383520,
+      "word": "毛不易醉酒给单依纯打电话",
+      "onboard_time": 1690641216,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479916,
       "num": 468067,
       "word": "杜苏芮将正面袭击福建",
@@ -6321,14 +6353,6 @@
       "onboard_time": 1690156408,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477266,
-      "num": 383520,
-      "word": "毛不易醉酒给单依纯打电话",
-      "onboard_time": 1690641216,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 475808,
@@ -6539,14 +6563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 463084,
-      "num": 769038,
-      "word": "超导",
-      "onboard_time": 1690421492,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 463024,
       "num": 412633,
       "word": "西宁街头偶遇易烊千玺",
@@ -6632,14 +6648,6 @@
       "word": "莲花楼央八定档",
       "onboard_time": 1690446815,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 455619,
-      "num": 316086,
-      "word": "今日之后再无玟小六了",
-      "onboard_time": 1690641572,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -7075,6 +7083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432802,
+      "num": 329601,
+      "word": "韩剧恶鬼大结局",
+      "onboard_time": 1690643735,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431652,
       "num": 351860,
       "word": "女子不听建议见手青炒5分吃完头晕",
@@ -7356,7 +7372,7 @@
     },
     {
       "raw_hot": 413420,
-      "num": 257208,
+      "num": 300084,
       "word": "龚俊跳要你管",
       "onboard_time": 1690643135,
       "rank": 31,
@@ -7804,7 +7820,7 @@
     },
     {
       "raw_hot": 385587,
-      "num": 256180,
+      "num": 265538,
       "word": "范丞丞陈飞宇活动同框",
       "onboard_time": 1690642837,
       "rank": 33,
@@ -8433,6 +8449,14 @@
       "onboard_time": 1690379858,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350449,
+      "num": 350449,
+      "word": "英专生就业去外网写霸总小说",
+      "onboard_time": 1690642537,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 350029,
@@ -9137,6 +9161,14 @@
       "onboard_time": 1690369361,
       "rank": 34,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 317932,
+      "num": 259685,
+      "word": "迪丽热巴真迪甜",
+      "onboard_time": 1690643556,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317804,
@@ -9939,14 +9971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285128,
-      "num": 249268,
-      "word": "迪丽热巴真迪甜",
-      "onboard_time": 1690643556,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 284877,
       "num": 246315,
       "word": "刘耀文太敢说了",
@@ -10056,6 +10080,14 @@
       "word": "檀健次演的柳柳蛇",
       "onboard_time": 1690242327,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278108,
+      "num": 257246,
+      "word": "伯邑考温润如玉",
+      "onboard_time": 1690644155,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -10585,6 +10617,14 @@
       "onboard_time": 1690638035,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257138,
+      "num": 257138,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1690268675,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 257085,
@@ -11195,6 +11235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231490,
+      "num": 268351,
+      "word": "故宫临时闭馆",
+      "onboard_time": 1690643913,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 231392,
       "num": 231392,
       "word": "巨齿鲨2水下戏有多难拍",
@@ -11396,7 +11444,7 @@
     },
     {
       "raw_hot": 225946,
-      "num": 251173,
+      "num": 256702,
       "word": "XYG零封TES",
       "onboard_time": 1690639838,
       "rank": 48,
@@ -11808,14 +11856,6 @@
       "word": "4只水豚宝宝走哪都跟着妈妈",
       "onboard_time": 1690451556,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208643,
-      "num": 258892,
-      "word": "罗布泊",
-      "onboard_time": 1690643076,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -12843,14 +12883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184367,
-      "num": 203462,
-      "word": "张韶涵演唱会",
-      "onboard_time": 1690268675,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 184312,
       "num": 201051,
       "word": "闪耀暖暖四周年",
@@ -12913,14 +12945,6 @@
       "onboard_time": 1690597412,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 182820,
-      "num": 253473,
-      "word": "英专生就业去外网写霸总小说",
-      "onboard_time": 1690642537,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 182699,
