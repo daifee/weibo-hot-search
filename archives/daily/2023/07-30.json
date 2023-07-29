@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690655636859,
+  "endTime": 1690657954435,
   "band_list": [
     {
       "raw_hot": 1769832,
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95461,
+      "num": 72683,
+      "word": "北京下雨",
+      "onboard_time": 1690654878,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89231,
       "num": 188802,
       "word": "上海申花0比5上海海港",
@@ -483,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63834,
+      "num": 63834,
+      "word": "钮祜禄陈烁",
+      "onboard_time": 1690655657,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54127,
       "num": 72695,
       "word": "小夭走了相柳他急了",
       "onboard_time": 1690633711,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52108,
+      "num": 52108,
+      "word": "A股",
+      "onboard_time": 1690656136,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 40846,
@@ -499,11 +523,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37307,
-      "num": 72683,
-      "word": "北京下雨",
-      "onboard_time": 1690654878,
-      "rank": 47,
+      "raw_hot": 32512,
+      "num": 38825,
+      "word": "业内人士谈车队进罗布泊3死1失联",
+      "onboard_time": 1690656618,
+      "rank": 45,
       "category": "社会新闻"
     }
   ],
