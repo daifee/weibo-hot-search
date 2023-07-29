@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690640008902,
+  "endTime": 1690641231467,
   "band_list": [
     {
       "raw_hot": 3645453,
@@ -113,6 +113,14 @@
       "onboard_time": 1690625793,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1744550,
+      "num": 1744550,
+      "word": "为什么去泰国旅游的人越来越少了",
+      "onboard_time": 1690636776,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 1627403,
@@ -315,12 +323,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 988341,
-      "num": 988341,
-      "word": "为什么去泰国旅游的人越来越少了",
-      "onboard_time": 1690636776,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 988457,
+      "num": 988457,
+      "word": "内娱男明星的证件照",
+      "onboard_time": 1690637498,
+      "rank": 42,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 984185,
@@ -521,14 +529,6 @@
       "onboard_time": 1690622795,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 762634,
-      "num": 762634,
-      "word": "内娱男明星的证件照",
-      "onboard_time": 1690637498,
-      "rank": 42,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 759566,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 586433,
-      "num": 360579,
+      "num": 395217,
       "word": "于文文金发",
       "onboard_time": 1690637735,
       "rank": 21,
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 574326,
-      "num": 354103,
+      "num": 392273,
       "word": "看什么病挂什么科",
       "onboard_time": 1690636593,
       "rank": 47,
@@ -1212,7 +1212,7 @@
     },
     {
       "raw_hot": 400811,
-      "num": 333699,
+      "num": 367464,
       "word": "大宋少年志",
       "onboard_time": 1690634251,
       "rank": 31,
@@ -1264,6 +1264,14 @@
       "word": "越来越意识到松弛感的重要性",
       "onboard_time": 1690598675,
       "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 388653,
+      "num": 388653,
+      "word": "摸鱼壁纸真的瞒过了老板和同事",
+      "onboard_time": 1690639236,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -1355,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360149,
+      "num": 360149,
+      "word": "金珉奎签售",
+      "onboard_time": 1690639597,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352720,
       "num": 282949,
       "word": "九尾商务",
@@ -1372,7 +1388,7 @@
     },
     {
       "raw_hot": 344770,
-      "num": 344770,
+      "num": 345726,
       "word": "上海申花0比5上海海港",
       "onboard_time": 1690638817,
       "rank": 24,
@@ -1416,6 +1432,14 @@
       "word": "夭玹终究是亲上了",
       "onboard_time": 1690601916,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 333996,
+      "num": 333996,
+      "word": "赵寻人设",
+      "onboard_time": 1690640497,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1603,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292602,
+      "num": 292602,
+      "word": "小狗好像以为结婚就是离开",
+      "onboard_time": 1690640617,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291569,
       "num": 291569,
       "word": "迪丽热巴三万水狮全国异地登陆",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1690583840,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282311,
-      "num": 249246,
-      "word": "金珉奎签售",
-      "onboard_time": 1690639597,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 281885,
@@ -1747,14 +1771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266388,
-      "num": 266388,
-      "word": "摸鱼壁纸真的瞒过了老板和同事",
-      "onboard_time": 1690639236,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 266159,
       "num": 266159,
       "word": "奎木狼受重伤昏迷至今",
@@ -1796,7 +1812,7 @@
     },
     {
       "raw_hot": 257556,
-      "num": 257556,
+      "num": 340028,
       "word": "中国男排vs日本男排",
       "onboard_time": 1690638035,
       "rank": 34,
@@ -1923,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240643,
+      "num": 202443,
+      "word": "毛不易醉酒给单依纯打电话",
+      "onboard_time": 1690641216,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235716,
       "num": 235716,
       "word": "zika",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1690552958,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225946,
+      "num": 225946,
+      "word": "XYG零封TES",
+      "onboard_time": 1690639838,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 224233,
@@ -2211,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185470,
+      "num": 199956,
+      "word": "防洪模范店",
+      "onboard_time": 1690640556,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185133,
       "num": 209972,
       "word": "LPL",
@@ -2249,14 +2289,6 @@
       "onboard_time": 1690597412,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 182450,
-      "num": 201319,
-      "word": "XYG零封TES",
-      "onboard_time": 1690639838,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 180011,
@@ -2643,7 +2675,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7948,
+      "raw_hot": 9671,
       "num": 1545176,
       "word": "青春主场",
       "onboard_time": 1690513900,
@@ -2666,6 +2698,9 @@
     },
     {
       "word": "#共享大运盛会共谱青春华章#"
+    },
+    {
+      "word": "#中国顶级实验室有多牛#"
     }
   ]
 }
