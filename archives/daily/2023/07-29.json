@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690611589178,
+  "endTime": 1690612432848,
   "band_list": [
     {
       "raw_hot": 2818359,
@@ -27,20 +27,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2322808,
+      "num": 2322808,
+      "word": "蜜雪冰城阴阳怪气瑞幸",
+      "onboard_time": 1690609054,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2102825,
       "num": 2102825,
       "word": "杜苏芮将从江西移入安徽",
       "onboard_time": 1690589129,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2087646,
-      "num": 2087646,
-      "word": "蜜雪冰城阴阳怪气瑞幸",
-      "onboard_time": 1690609054,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 2048269,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1376795,
-      "num": 958910,
+      "num": 1257531,
       "word": "大鹏说把片酬给邓超了",
       "onboard_time": 1690607974,
       "rank": 4,
@@ -187,12 +187,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 926647,
+      "num": 926647,
+      "word": "宋祖儿照片配字",
+      "onboard_time": 1690610315,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 893344,
       "num": 893344,
       "word": "男子无视部队劝阻破坏军婚获刑一年",
       "onboard_time": 1690596092,
       "rank": 15,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 881653,
+      "num": 613833,
+      "word": "内娱不可模仿的成功",
+      "onboard_time": 1690610796,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 880357,
@@ -203,11 +219,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 860731,
-      "num": 860731,
-      "word": "宋祖儿照片配字",
-      "onboard_time": 1690610315,
-      "rank": 4,
+      "raw_hot": 866762,
+      "num": 866762,
+      "word": "人民文娱评电视剧莲花楼",
+      "onboard_time": 1690610555,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -371,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603093,
-      "num": 603093,
-      "word": "内娱不可模仿的成功",
-      "onboard_time": 1690610796,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 600900,
       "num": 600900,
       "word": "忽然明白蛊虫怎么那么快就种成了",
@@ -409,6 +417,14 @@
       "onboard_time": 1690525717,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567422,
+      "num": 316545,
+      "word": "刘宇宁连续五年悼念去世粉丝",
+      "onboard_time": 1690610915,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 556017,
@@ -467,19 +483,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521393,
+      "num": 625025,
+      "word": "河北安平县疑似发生爆炸",
+      "onboard_time": 1690609174,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520326,
       "num": 520326,
       "word": "长相思全员上桌",
       "onboard_time": 1690597292,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 517805,
-      "num": 517805,
-      "word": "人民文娱评电视剧莲花楼",
-      "onboard_time": 1690610555,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -531,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 493668,
-      "num": 625025,
-      "word": "河北安平县疑似发生爆炸",
-      "onboard_time": 1690609174,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 492565,
       "num": 448439,
       "word": "热带低压杜苏芮停止编号",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 435695,
-      "num": 292206,
+      "num": 422162,
       "word": "两位小朋友为避车摔倒的我打抱不平",
       "onboard_time": 1690609655,
       "rank": 30,
@@ -715,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366062,
+      "num": 316478,
+      "word": "张杰说今晚我要唱个够",
+      "onboard_time": 1690609655,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 364643,
       "num": 364643,
       "word": "凤婿一女九男",
@@ -723,20 +739,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354768,
+      "num": 316385,
+      "word": "你们通知汪苏泷本人了吗",
+      "onboard_time": 1690611875,
+      "rank": 25,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 352720,
       "num": 282949,
       "word": "九尾商务",
       "onboard_time": 1690556074,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 347652,
-      "num": 308023,
-      "word": "张杰说今晚我要唱个够",
-      "onboard_time": 1690609655,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 346515,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 341029,
-      "num": 305257,
+      "num": 316376,
       "word": "檀健次亲笑了",
       "onboard_time": 1690609054,
       "rank": 26,
@@ -787,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327691,
+      "num": 327691,
+      "word": "年度最佳猫咪",
+      "onboard_time": 1690609832,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 324724,
       "num": 320856,
       "word": "张艺兴 我永远是蘑菇屋的一份子",
@@ -811,20 +835,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316568,
+      "num": 316568,
+      "word": "台风杜苏芮北上",
+      "onboard_time": 1690608391,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315953,
       "num": 315953,
       "word": "科二考试考一个小时是什么体验",
       "onboard_time": 1690595792,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315138,
-      "num": 315138,
-      "word": "台风杜苏芮北上",
-      "onboard_time": 1690608391,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312793,
@@ -1019,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265062,
+      "num": 265062,
+      "word": "杨紫张晚意情头",
+      "onboard_time": 1690612114,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260382,
       "num": 260382,
       "word": "于文文说彭于晏也可以发福",
@@ -1107,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242672,
+      "num": 242672,
+      "word": "胡军包场支持王一博王宝强于适新电影",
+      "onboard_time": 1690611995,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241531,
       "num": 241531,
       "word": "长相思女性思想",
@@ -1123,28 +1163,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237241,
-      "num": 237241,
-      "word": "刘宇宁连续五年悼念去世粉丝",
-      "onboard_time": 1690610915,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233164,
       "num": 233164,
       "word": "张钧甯的发言水平",
       "onboard_time": 1690593151,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227223,
-      "num": 227223,
-      "word": "年度最佳猫咪",
-      "onboard_time": 1690609832,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 227131,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1690553676,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193921,
+      "num": 262162,
+      "word": "河北发生天然气爆燃事故致2死2伤",
+      "onboard_time": 1690612233,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193670,
@@ -1555,12 +1587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95979,
+      "num": 205136,
+      "word": "蜀锦带领运动员入场成都太会了",
+      "onboard_time": 1690612356,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 90336,
       "num": 90336,
       "word": "中国男排1比3乌克兰男排",
       "onboard_time": 1690570935,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89283,
+      "num": 203509,
+      "word": "QQ飞车手游",
+      "onboard_time": 1690611875,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 84867,

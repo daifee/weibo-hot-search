@@ -1,0 +1,410 @@
+{
+  "runTime": 1690612432848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2322808,
+        "num": 2322808,
+        "word": "蜜雪冰城阴阳怪气瑞幸",
+        "onboard_time": 1690609054,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2113130,
+        "num": 2113130,
+        "word": "突然意识到点外卖有多贵",
+        "onboard_time": 1690606898,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54877,
+        "num": 1529871,
+        "word": "微观大运会",
+        "onboard_time": 1690600115,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257531,
+        "num": 1257531,
+        "word": "大鹏说把片酬给邓超了",
+        "onboard_time": 1690607974,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 926647,
+        "num": 926647,
+        "word": "宋祖儿照片配字",
+        "onboard_time": 1690610315,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1113466,
+        "num": 922105,
+        "word": "孙俪为甄嬛发声",
+        "onboard_time": 1690603178,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 866762,
+        "num": 866762,
+        "word": "人民文娱评电视剧莲花楼",
+        "onboard_time": 1690610555,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 658010,
+        "num": 658010,
+        "word": "种地吧",
+        "onboard_time": 1690605335,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637910,
+        "num": 637910,
+        "word": "拜登承认其儿子私生女是孙女",
+        "onboard_time": 1690597954,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521393,
+        "num": 616020,
+        "word": "河北安平县疑似发生爆炸",
+        "onboard_time": 1690609174,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881653,
+        "num": 613833,
+        "word": "内娱不可模仿的成功",
+        "onboard_time": 1690610796,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 608251,
+        "num": 608251,
+        "word": "张新成周雨彤情头",
+        "onboard_time": 1690607135,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 536997,
+        "num": 536997,
+        "word": "涂山璟 破防男",
+        "onboard_time": 1690599757,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422162,
+        "num": 422162,
+        "word": "两位小朋友为避车摔倒的我打抱不平",
+        "onboard_time": 1690609655,
+        "rank": 13,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 359195,
+        "num": 359195,
+        "word": "男子无视部队劝阻破坏军婚获刑一年",
+        "onboard_time": 1690596092,
+        "rank": 14,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 473967,
+        "num": 343672,
+        "word": "操心封神票房",
+        "onboard_time": 1690600298,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379018,
+        "num": 339924,
+        "word": "魏大勋红了真好",
+        "onboard_time": 1690594472,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327691,
+        "num": 327691,
+        "word": "年度最佳猫咪",
+        "onboard_time": 1690609832,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 325704,
+        "num": 325704,
+        "word": "北京暴雨",
+        "onboard_time": 1690601018,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316568,
+        "num": 316568,
+        "word": "台风杜苏芮北上",
+        "onboard_time": 1690608391,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567422,
+        "num": 316545,
+        "word": "刘宇宁连续五年悼念去世粉丝",
+        "onboard_time": 1690610915,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409570,
+        "num": 316519,
+        "word": "为什么现在的学生不扎高马尾了",
+        "onboard_time": 1690605335,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366062,
+        "num": 316478,
+        "word": "张杰说今晚我要唱个够",
+        "onboard_time": 1690609655,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231151,
+        "num": 316446,
+        "word": "Uzi直播",
+        "onboard_time": 1690602334,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338209,
+        "num": 316431,
+        "word": "28岁真是个分水岭",
+        "onboard_time": 1690601133,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354768,
+        "num": 316385,
+        "word": "你们通知汪苏泷本人了吗",
+        "onboard_time": 1690611875,
+        "rank": 25,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 327705,
+        "num": 316376,
+        "word": "檀健次亲笑了",
+        "onboard_time": 1690609054,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325875,
+        "num": 316325,
+        "word": "吉林白山一处公园内一男一女上吊身亡",
+        "onboard_time": 1690593629,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316319,
+        "num": 316319,
+        "word": "原著里夭柳亲了400多次",
+        "onboard_time": 1690593993,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315710,
+        "num": 315710,
+        "word": "朴宰范宁艺卓新歌全球首秀",
+        "onboard_time": 1690607374,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300730,
+        "num": 300730,
+        "word": "封神妲己为两分钟舞蹈练了两年",
+        "onboard_time": 1690602577,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295182,
+        "num": 295182,
+        "word": "实习生租房一个月用水300吨",
+        "onboard_time": 1690594353,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268640,
+        "num": 268640,
+        "word": "长相思三位男主新增粉丝数",
+        "onboard_time": 1690608033,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250832,
+        "num": 268046,
+        "word": "台风一级响应调整为暴雨一级响应",
+        "onboard_time": 1690597896,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237812,
+        "num": 267971,
+        "word": "儿子坐离世父亲车哭得撕心裂肺",
+        "onboard_time": 1690600298,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267941,
+        "num": 267941,
+        "word": "封神质子101",
+        "onboard_time": 1690597172,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265062,
+        "num": 265062,
+        "word": "杨紫张晚意情头",
+        "onboard_time": 1690612114,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241507,
+        "num": 262194,
+        "word": "泉州高龄产妇台风天诞下3斤男婴",
+        "onboard_time": 1690604557,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193921,
+        "num": 262162,
+        "word": "河北发生天然气爆燃事故致2死2伤",
+        "onboard_time": 1690612233,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187014,
+        "num": 262159,
+        "word": "热带低压杜苏芮停止编号",
+        "onboard_time": 1690603297,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262158,
+        "num": 262158,
+        "word": "十个勤天",
+        "onboard_time": 1690609174,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253205,
+        "num": 253205,
+        "word": "以为姬发真的要露屁股",
+        "onboard_time": 1690603956,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242672,
+        "num": 242672,
+        "word": "胡军包场支持王一博王宝强于适新电影",
+        "onboard_time": 1690611995,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199955,
+        "num": 210633,
+        "word": "台风最凶猛的暴雨倒在了福建莆田",
+        "onboard_time": 1690594957,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209284,
+        "num": 209284,
+        "word": "封神",
+        "onboard_time": 1690607733,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198142,
+        "num": 208783,
+        "word": "黄磊说张艺兴谈恋爱了也没事",
+        "onboard_time": 1690587025,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166254,
+        "num": 207862,
+        "word": "王彦霖晒与老婆合照",
+        "onboard_time": 1690606776,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163094,
+        "num": 205617,
+        "word": "妈妈问我洗澡为啥这么慢",
+        "onboard_time": 1690594353,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95979,
+        "num": 205136,
+        "word": "蜀锦带领运动员入场成都太会了",
+        "onboard_time": 1690612356,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 89283,
+        "num": 203509,
+        "word": "QQ飞车手游",
+        "onboard_time": 1690611875,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布大运会正式开幕#"
+    }
+  }
+}
