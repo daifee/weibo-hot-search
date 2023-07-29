@@ -1,0 +1,410 @@
+{
+  "runTime": 1690633814010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1961667,
+        "num": 1961667,
+        "word": "刺痛退役",
+        "onboard_time": 1690629813,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1702650,
+        "num": 1702650,
+        "word": "鹿晗把陈赫的票给邓超了",
+        "onboard_time": 1690629571,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11523,
+        "num": 1559591,
+        "word": "微观大运会",
+        "onboard_time": 1690600115,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554623,
+        "num": 1554623,
+        "word": "节目组回应张艺凡施柏宇吻戏",
+        "onboard_time": 1690625793,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1048844,
+        "num": 1048844,
+        "word": "原来香肠是从侧面开的",
+        "onboard_time": 1690628853,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1028465,
+        "num": 1028465,
+        "word": "长相思今天更一集",
+        "onboard_time": 1690631254,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 698212,
+        "num": 698212,
+        "word": "殷郊",
+        "onboard_time": 1690629932,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 927650,
+        "num": 698088,
+        "word": "长相思",
+        "onboard_time": 1690632693,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 655537,
+        "num": 655537,
+        "word": "中央气象台发暴雨红色预警",
+        "onboard_time": 1690627113,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597745,
+        "num": 597745,
+        "word": "父母不懂英语从县城出国看女儿",
+        "onboard_time": 1690614878,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1679776,
+        "num": 583454,
+        "word": "杨洋 芭比的肯",
+        "onboard_time": 1690624953,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 951735,
+        "num": 562751,
+        "word": "警方通报主持人涂磊被指性侵",
+        "onboard_time": 1690618835,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 731147,
+        "num": 533207,
+        "word": "宋祖儿为配字不当道歉",
+        "onboard_time": 1690616796,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681474,
+        "num": 506228,
+        "word": "你好星期六",
+        "onboard_time": 1690631973,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505868,
+        "num": 505868,
+        "word": "张雨霏",
+        "onboard_time": 1690629453,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564691,
+        "num": 504118,
+        "word": "我想和你长相守有错吗",
+        "onboard_time": 1690630293,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479764,
+        "num": 479764,
+        "word": "TES这都能翻",
+        "onboard_time": 1690628075,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 444677,
+        "num": 444677,
+        "word": "长相思官配",
+        "onboard_time": 1690632454,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431533,
+        "num": 431533,
+        "word": "大运会男篮",
+        "onboard_time": 1690631493,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423526,
+        "num": 423526,
+        "word": "张雨霏50米蝶泳银牌",
+        "onboard_time": 1690629453,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532795,
+        "num": 419454,
+        "word": "朴彩英更新微博了",
+        "onboard_time": 1690629993,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518812,
+        "num": 391607,
+        "word": "新买的衣服一定要洗洗再穿",
+        "onboard_time": 1690632874,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428839,
+        "num": 358573,
+        "word": "孟美岐光脚唱归途有风",
+        "onboard_time": 1690630353,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320627,
+        "num": 320627,
+        "word": "景区演员冒雨演70分钟观众无人离席",
+        "onboard_time": 1690624235,
+        "rank": 23,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 260210,
+        "num": 260210,
+        "word": "突然意识到点外卖有多贵",
+        "onboard_time": 1690606898,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428204,
+        "num": 255982,
+        "word": "长相思新副本",
+        "onboard_time": 1690633232,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382344,
+        "num": 253504,
+        "word": "封神第二部",
+        "onboard_time": 1690624596,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416455,
+        "num": 252760,
+        "word": "涂山璟他超爱",
+        "onboard_time": 1690625192,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250214,
+        "num": 250214,
+        "word": "蜜雪冰城阴阳怪气瑞幸",
+        "onboard_time": 1690609054,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211427,
+        "num": 250136,
+        "word": "TES对战LNG",
+        "onboard_time": 1690623273,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 468312,
+        "num": 250121,
+        "word": "王一博空降杭州",
+        "onboard_time": 1690629213,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322680,
+        "num": 250032,
+        "word": "张杰演唱会",
+        "onboard_time": 1690633413,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318093,
+        "num": 249906,
+        "word": "王一博一年有三部电影上映",
+        "onboard_time": 1690628913,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205135,
+        "num": 249813,
+        "word": "妈妈撤回了一杯奶茶",
+        "onboard_time": 1690624474,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 195608,
+        "num": 249789,
+        "word": "大运会男篮 没直播",
+        "onboard_time": 1690633293,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287218,
+        "num": 249643,
+        "word": "钟汉良演唱会",
+        "onboard_time": 1690631915,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276441,
+        "num": 249570,
+        "word": "唐嫣念无双妆造被吐槽",
+        "onboard_time": 1690622795,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188979,
+        "num": 249497,
+        "word": "为什么不上Fly",
+        "onboard_time": 1690625135,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185948,
+        "num": 249407,
+        "word": "兵哥哥暴雨中狂奔拉住失控电动车",
+        "onboard_time": 1690624235,
+        "rank": 38,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 174355,
+        "num": 249374,
+        "word": "老公要在新家装120个插座",
+        "onboard_time": 1690613735,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271104,
+        "num": 249239,
+        "word": "莲花楼真的很像大型剧本杀",
+        "onboard_time": 1690626394,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218418,
+        "num": 249214,
+        "word": "封神",
+        "onboard_time": 1690607733,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268395,
+        "num": 249125,
+        "word": "李相夷不回来了",
+        "onboard_time": 1690630834,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212892,
+        "num": 248998,
+        "word": "小夭走了相柳他急了",
+        "onboard_time": 1690633711,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212243,
+        "num": 248900,
+        "word": "刘涛腰线",
+        "onboard_time": 1690624115,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196915,
+        "num": 248860,
+        "word": "黄明昊罗蒙环球乐园",
+        "onboard_time": 1690633053,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171784,
+        "num": 248756,
+        "word": "XYG对战TES",
+        "onboard_time": 1690633711,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171721,
+        "num": 248699,
+        "word": "洗澡唱歌vs别人听到的",
+        "onboard_time": 1690633175,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145376,
+        "num": 248615,
+        "word": "出国之后逐渐变得自信了",
+        "onboard_time": 1690615833,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135982,
+        "num": 248565,
+        "word": "徐嘉余",
+        "onboard_time": 1690633773,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春主场#"
+    }
+  }
+}
