@@ -1,0 +1,410 @@
+{
+  "runTime": 1690636664293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2235011,
+        "num": 2235011,
+        "word": "刺痛退役",
+        "onboard_time": 1690629813,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1965483,
+        "num": 1965483,
+        "word": "鹿晗把陈赫的票给邓超了",
+        "onboard_time": 1690629571,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12433,
+        "num": 1813523,
+        "word": "微观大运会",
+        "onboard_time": 1690600115,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1778438,
+        "num": 1778438,
+        "word": "迪丽热巴你好星期六跳舞",
+        "onboard_time": 1690635453,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 968379,
+        "num": 968379,
+        "word": "长相思今天更一集",
+        "onboard_time": 1690631254,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 934216,
+        "num": 934216,
+        "word": "LNG战胜TES",
+        "onboard_time": 1690635096,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 937330,
+        "num": 930297,
+        "word": "小夭走了相柳他急了",
+        "onboard_time": 1690633711,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 862388,
+        "num": 862388,
+        "word": "原来香肠是从侧面开的",
+        "onboard_time": 1690628853,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 821926,
+        "num": 821926,
+        "word": "徐嘉余",
+        "onboard_time": 1690633773,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 721966,
+        "num": 721966,
+        "word": "李冰洁800米自由泳银牌",
+        "onboard_time": 1690634674,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1481510,
+        "num": 721655,
+        "word": "杨洋某平台认证消失",
+        "onboard_time": 1690622914,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1041125,
+        "num": 721625,
+        "word": "警方通报主持人涂磊被指性侵",
+        "onboard_time": 1690618835,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 719112,
+        "num": 719112,
+        "word": "宋祖儿为配字不当道歉",
+        "onboard_time": 1690616796,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705551,
+        "num": 705551,
+        "word": "长相思",
+        "onboard_time": 1690632693,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 690668,
+        "num": 690668,
+        "word": "TES对战LNG",
+        "onboard_time": 1690623273,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 603020,
+        "num": 603020,
+        "word": "长相思官配",
+        "onboard_time": 1690632454,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588681,
+        "num": 588681,
+        "word": "你好星期六",
+        "onboard_time": 1690631973,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552607,
+        "num": 552607,
+        "word": "中央气象台发暴雨红色预警",
+        "onboard_time": 1690627113,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543395,
+        "num": 543395,
+        "word": "大黄救过TES的命吗",
+        "onboard_time": 1690636055,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 535862,
+        "num": 535862,
+        "word": "长相思新副本",
+        "onboard_time": 1690633232,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 892655,
+        "num": 515995,
+        "word": "新买的衣服一定要洗洗再穿",
+        "onboard_time": 1690632874,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 489839,
+        "num": 489839,
+        "word": "虞书欣非诚勿扰3杀青",
+        "onboard_time": 1690635812,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442043,
+        "num": 442043,
+        "word": "殷郊",
+        "onboard_time": 1690629932,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440321,
+        "num": 440321,
+        "word": "父母不懂英语从县城出国看女儿",
+        "onboard_time": 1690614878,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355924,
+        "num": 435282,
+        "word": "大运会男篮",
+        "onboard_time": 1690631493,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431326,
+        "num": 431326,
+        "word": "朴彩英更新微博了",
+        "onboard_time": 1690629993,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414966,
+        "num": 414966,
+        "word": "封神第二部",
+        "onboard_time": 1690624596,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389834,
+        "num": 389834,
+        "word": "孟美岐光脚唱归途有风",
+        "onboard_time": 1690630353,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328601,
+        "num": 328601,
+        "word": "突然意识到点外卖有多贵",
+        "onboard_time": 1690606898,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248429,
+        "num": 248429,
+        "word": "蜜雪冰城阴阳怪气瑞幸",
+        "onboard_time": 1690609054,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1020098,
+        "num": 246236,
+        "word": "节目组回应张艺凡施柏宇吻戏",
+        "onboard_time": 1690625793,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373472,
+        "num": 238692,
+        "word": "张杰演唱会",
+        "onboard_time": 1690633413,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369630,
+        "num": 236883,
+        "word": "王一博空降杭州",
+        "onboard_time": 1690629213,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228390,
+        "num": 228390,
+        "word": "张雨霏",
+        "onboard_time": 1690629453,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226566,
+        "num": 226566,
+        "word": "zika",
+        "onboard_time": 1690635875,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369295,
+        "num": 225711,
+        "word": "大宋少年志",
+        "onboard_time": 1690634251,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304361,
+        "num": 223668,
+        "word": "张信哲演唱会",
+        "onboard_time": 1690635875,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220324,
+        "num": 220324,
+        "word": "TES这都能翻",
+        "onboard_time": 1690628075,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210027,
+        "num": 210027,
+        "word": "妈妈撤回了一杯奶茶",
+        "onboard_time": 1690624474,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 203031,
+        "num": 210026,
+        "word": "景区演员冒雨演70分钟观众无人离席",
+        "onboard_time": 1690624235,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 300349,
+        "num": 210016,
+        "word": "全国剧粉放狠话追莲花楼",
+        "onboard_time": 1690634074,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281881,
+        "num": 210015,
+        "word": "唐嫣念无双妆造被吐槽",
+        "onboard_time": 1690622795,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271091,
+        "num": 210008,
+        "word": "孟宴臣来给雪豹打call了",
+        "onboard_time": 1690634074,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199477,
+        "num": 210001,
+        "word": "冒泡赛",
+        "onboard_time": 1690636233,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245165,
+        "num": 210001,
+        "word": "钟汉良演唱会",
+        "onboard_time": 1690631915,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236920,
+        "num": 209993,
+        "word": "李相夷不回来了",
+        "onboard_time": 1690630834,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200395,
+        "num": 209987,
+        "word": "谭松韵钟楚曦看毛不易演唱会",
+        "onboard_time": 1690636593,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199483,
+        "num": 209981,
+        "word": "看什么病挂什么科",
+        "onboard_time": 1690636593,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 189411,
+        "num": 209977,
+        "word": "张雨霏50米蝶泳银牌",
+        "onboard_time": 1690629453,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185133,
+        "num": 209972,
+        "word": "LPL",
+        "onboard_time": 1690635694,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布大运会正式开幕#"
+    }
+  }
+}

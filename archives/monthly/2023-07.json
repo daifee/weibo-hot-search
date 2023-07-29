@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690634709036,
+  "endTime": 1690636664293,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2403,6 +2403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2235011,
+      "num": 2235011,
+      "word": "刺痛退役",
+      "onboard_time": 1690629813,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2234171,
       "num": 2234171,
       "word": "大妈用高铁上的插座焖了一锅米饭",
@@ -2569,14 +2577,6 @@
       "onboard_time": 1690256976,
       "rank": 10,
       "category": "科技,幽默"
-    },
-    {
-      "raw_hot": 2193799,
-      "num": 2193799,
-      "word": "刺痛退役",
-      "onboard_time": 1690629813,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 2185128,
@@ -3275,6 +3275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1965483,
+      "num": 1965483,
+      "word": "鹿晗把陈赫的票给邓超了",
+      "onboard_time": 1690629571,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1964594,
       "num": 1939092,
       "word": "女孩高考超一本线35分却报专科",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1688730994,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1904525,
-      "num": 1904525,
-      "word": "鹿晗把陈赫的票给邓超了",
-      "onboard_time": 1690629571,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 1903735,
@@ -4232,6 +4232,14 @@
       "word": "张一山怀疑杨紫瞒着自己上节目",
       "onboard_time": 1689393095,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1778438,
+      "num": 1778438,
+      "word": "迪丽热巴你好星期六跳舞",
+      "onboard_time": 1690635453,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -11811,6 +11819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937330,
+      "num": 930297,
+      "word": "小夭走了相柳他急了",
+      "onboard_time": 1690633711,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 936759,
       "num": 934220,
       "word": "要求蚂蚁集团关停相互宝业务",
@@ -11889,6 +11905,14 @@
       "onboard_time": 1688355463,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 934216,
+      "num": 934216,
+      "word": "LNG战胜TES",
+      "onboard_time": 1690635096,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 931303,
@@ -12665,6 +12689,14 @@
       "onboard_time": 1688439634,
       "rank": 34,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 892655,
+      "num": 515995,
+      "word": "新买的衣服一定要洗洗再穿",
+      "onboard_time": 1690632874,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 892147,
@@ -13521,14 +13553,6 @@
       "onboard_time": 1688983233,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 862650,
-      "num": 505874,
-      "word": "新买的衣服一定要洗洗再穿",
-      "onboard_time": 1690632874,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 862364,
@@ -17249,6 +17273,14 @@
       "onboard_time": 1689254856,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 721966,
+      "num": 721966,
+      "word": "李冰洁800米自由泳银牌",
+      "onboard_time": 1690634674,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 721691,
@@ -21971,6 +22003,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 603020,
+      "num": 603020,
+      "word": "长相思官配",
+      "onboard_time": 1690632454,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 602801,
       "num": 563316,
       "word": "十年果粉首次换到安卓是种什么体验",
@@ -22225,14 +22265,6 @@
       "onboard_time": 1688451996,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 597630,
-      "num": 597630,
-      "word": "长相思官配",
-      "onboard_time": 1690632454,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 597065,
@@ -24723,6 +24755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 543395,
+      "num": 543395,
+      "word": "大黄救过TES的命吗",
+      "onboard_time": 1690636055,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 543375,
       "num": 411655,
       "word": "蒜蓉罗氏虾",
@@ -24844,7 +24884,7 @@
     },
     {
       "raw_hot": 541119,
-      "num": 505580,
+      "num": 535862,
       "word": "长相思新副本",
       "onboard_time": 1690633232,
       "rank": 25,
@@ -27569,6 +27609,14 @@
       "onboard_time": 1688534673,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489839,
+      "num": 489839,
+      "word": "虞书欣非诚勿扰3杀青",
+      "onboard_time": 1690635812,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 489820,
@@ -36219,6 +36267,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 373472,
+      "num": 355711,
+      "word": "张杰演唱会",
+      "onboard_time": 1688209651,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 373378,
       "num": 373378,
       "word": "Angelababy王者段位",
@@ -37817,14 +37873,6 @@
       "onboard_time": 1689832054,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 355711,
-      "num": 355711,
-      "word": "张杰演唱会",
-      "onboard_time": 1688209651,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 355643,
@@ -42819,6 +42867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304361,
+      "num": 223668,
+      "word": "张信哲演唱会",
+      "onboard_time": 1690635875,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 304352,
       "num": 304352,
       "word": "贾巴尔",
@@ -43257,6 +43313,14 @@
       "onboard_time": 1688632113,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300349,
+      "num": 242673,
+      "word": "全国剧粉放狠话追莲花楼",
+      "onboard_time": 1690634074,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 300347,
@@ -46131,14 +46195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279058,
-      "num": 242673,
-      "word": "全国剧粉放狠话追莲花楼",
-      "onboard_time": 1690634074,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279051,
       "num": 279051,
       "word": "浙江罕见睡莲一半浓艳一半清雅",
@@ -47233,6 +47289,14 @@
       "onboard_time": 1688135978,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 271091,
+      "num": 240230,
+      "word": "孟宴臣来给雪豹打call了",
+      "onboard_time": 1690634074,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 271081,
@@ -51291,14 +51355,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 240230,
-      "num": 240230,
-      "word": "孟宴臣来给雪豹打call了",
-      "onboard_time": 1690634074,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 240217,
       "num": 240217,
       "word": "台风杜苏芮将对上海产生影响",
@@ -53241,6 +53297,14 @@
       "onboard_time": 1690363307,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226566,
+      "num": 226566,
+      "word": "zika",
+      "onboard_time": 1690635875,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 226527,
@@ -55385,14 +55449,6 @@
       "onboard_time": 1690442553,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 212892,
-      "num": 248998,
-      "word": "小夭走了相柳他急了",
-      "onboard_time": 1690633711,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 212880,
@@ -57739,6 +57795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200395,
+      "num": 209987,
+      "word": "谭松韵钟楚曦看毛不易演唱会",
+      "onboard_time": 1690636593,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200378,
       "num": 204786,
       "word": "岳云鹏谈热烈",
@@ -57937,6 +58001,14 @@
       "onboard_time": 1689861633,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199483,
+      "num": 209981,
+      "word": "看什么病挂什么科",
+      "onboard_time": 1690636593,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 199453,
@@ -64513,14 +64585,6 @@
       "onboard_time": 1690063815,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148463,
-      "num": 212457,
-      "word": "李冰洁800米自由泳银牌",
-      "onboard_time": 1690634674,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 147878,
