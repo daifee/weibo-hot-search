@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690594848209,
+  "endTime": 1690597668511,
   "band_list": [
     {
       "raw_hot": 2102825,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1395883,
+      "num": 395669,
+      "word": "魏大勋红了真好",
+      "onboard_time": 1690594472,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1329563,
       "num": 465157,
       "word": "杨紫回应五官乱飞",
@@ -43,20 +51,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1196922,
+      "num": 1196922,
+      "word": "最热的大学 最冷门的语言",
+      "onboard_time": 1690590448,
+      "rank": 13,
+      "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 1161271,
+      "num": 1161271,
+      "word": "原著里夭柳亲了400多次",
+      "onboard_time": 1690593993,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1003443,
+      "num": 389117,
+      "word": "吉林白山一处公园内一男一女上吊身亡",
+      "onboard_time": 1690593629,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999673,
       "num": 999673,
       "word": "中国女足赢了",
       "onboard_time": 1690549597,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 996949,
-      "num": 996949,
-      "word": "最热的大学 最冷门的语言",
-      "onboard_time": 1690590448,
-      "rank": 13,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 989400,
@@ -115,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818100,
+      "num": 818100,
+      "word": "妈妈问我洗澡为啥这么慢",
+      "onboard_time": 1690594353,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 759566,
       "num": 759566,
       "word": "00后来整顿婚礼了",
@@ -123,11 +155,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 749772,
-      "num": 299736,
-      "word": "吉林白山一处公园内一男一女上吊身亡",
-      "onboard_time": 1690593629,
-      "rank": 30,
+      "raw_hot": 752684,
+      "num": 752684,
+      "word": "台风最凶猛的暴雨倒在了福建莆田",
+      "onboard_time": 1690594957,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747390,
+      "num": 747390,
+      "word": "广西一在编人员档案丢失无法办退休",
+      "onboard_time": 1690591951,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -139,20 +179,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 700172,
+      "num": 358885,
+      "word": "实习生租房一个月用水300吨",
+      "onboard_time": 1690594353,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 695550,
       "num": 222712,
       "word": "连骗子都受不了冷暴力",
       "onboard_time": 1690561351,
       "rank": 31,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 688195,
-      "num": 688195,
-      "word": "原著里夭柳亲了400多次",
-      "onboard_time": 1690593993,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 678866,
@@ -195,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 599121,
-      "num": 599121,
-      "word": "广西一在编人员档案丢失无法办退休",
-      "onboard_time": 1690591951,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 588765,
+      "num": 377320,
+      "word": "男子无视部队劝阻破坏军婚获刑一年",
+      "onboard_time": 1690596092,
+      "rank": 15,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 568413,
@@ -275,12 +315,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487617,
+      "num": 374162,
+      "word": "易烊千玺王传君同框照",
+      "onboard_time": 1690596574,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 485074,
+      "num": 485074,
+      "word": "王一博崴脚痛到满头大汗",
+      "onboard_time": 1690592552,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484653,
       "num": 432761,
       "word": "福州暴雨",
       "onboard_time": 1690589430,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462057,
+      "num": 372204,
+      "word": "成都大运会首枚金牌",
+      "onboard_time": 1690595132,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 454295,
@@ -313,14 +377,6 @@
       "onboard_time": 1690590871,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420302,
-      "num": 420302,
-      "word": "王一博崴脚痛到满头大汗",
-      "onboard_time": 1690592552,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 420226,
@@ -379,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358150,
+      "num": 358150,
+      "word": "凤婿一女九男",
+      "onboard_time": 1690595372,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352720,
       "num": 282949,
       "word": "九尾商务",
@@ -388,7 +452,7 @@
     },
     {
       "raw_hot": 346515,
-      "num": 322324,
+      "num": 325017,
       "word": "杨紫向往的生活吃了多少烤肠",
       "onboard_time": 1690588288,
       "rank": 28,
@@ -427,28 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321420,
-      "num": 321420,
-      "word": "魏大勋红了真好",
-      "onboard_time": 1690594472,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 320151,
-      "num": 320151,
-      "word": "实习生租房一个月用水300吨",
-      "onboard_time": 1690594353,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 316842,
       "num": 316842,
       "word": "王一博说绝不放弃任何一个可以跳舞的机会",
       "onboard_time": 1690587145,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310599,
+      "num": 310599,
+      "word": "科二考试考一个小时是什么体验",
+      "onboard_time": 1690595792,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 309612,
@@ -475,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302975,
+      "num": 302975,
+      "word": "长相思全员上桌",
+      "onboard_time": 1690597292,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302091,
       "num": 302091,
       "word": "杨紫一镜到底哭戏",
@@ -497,6 +561,14 @@
       "onboard_time": 1690593752,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291310,
+      "num": 291310,
+      "word": "封神质子101",
+      "onboard_time": 1690597172,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 289082,
@@ -707,12 +779,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208936,
-      "num": 208936,
-      "word": "妈妈问我洗澡为啥这么慢",
-      "onboard_time": 1690594353,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 206619,
+      "num": 206619,
+      "word": "下饭神番",
+      "onboard_time": 1690597354,
+      "rank": 42,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 206345,
+      "num": 206345,
+      "word": "鹿晗巡演加场武汉",
+      "onboard_time": 1690597354,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 198607,
@@ -771,12 +851,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188983,
+      "num": 188983,
+      "word": "曾黎吃着碗里看着锅里的",
+      "onboard_time": 1690597354,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185986,
+      "num": 185986,
+      "word": "杜苏芮减弱为热带风暴",
+      "onboard_time": 1690594894,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184175,
       "num": 184175,
       "word": "恶鬼",
       "onboard_time": 1690561411,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182952,
+      "num": 182952,
+      "word": "成都大运会到耳边了",
+      "onboard_time": 1690597412,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 180011,
+      "num": 180011,
+      "word": "中国队曹茂园夺成都大运会首金",
+      "onboard_time": 1690595252,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 177221,
@@ -964,7 +1076,7 @@
     },
     {
       "raw_hot": 97253,
-      "num": 875661,
+      "num": 1169435,
       "word": "揭秘成都大运会开幕式亮点",
       "onboard_time": 1690549053,
       "rank": 2,
