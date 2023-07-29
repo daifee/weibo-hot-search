@@ -1,0 +1,410 @@
+{
+  "runTime": 1690670026964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 540645,
+        "num": 540645,
+        "word": "姬发",
+        "onboard_time": 1690644514,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258921,
+        "num": 258921,
+        "word": "北京大雨",
+        "onboard_time": 1690663934,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20548,
+        "num": 219028,
+        "word": "成都大运会的中国式浪漫",
+        "onboard_time": 1690638696,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217224,
+        "num": 217224,
+        "word": "好多明星去了鹿晗演唱会",
+        "onboard_time": 1690660993,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149966,
+        "num": 149966,
+        "word": "天津暴雨",
+        "onboard_time": 1690645954,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130165,
+        "num": 130165,
+        "word": "为什么去泰国旅游的人越来越少了",
+        "onboard_time": 1690636776,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129981,
+        "num": 129981,
+        "word": "大宋少年志2 抠图感",
+        "onboard_time": 1690647451,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126945,
+        "num": 126945,
+        "word": "小狗好像以为结婚就是离开",
+        "onboard_time": 1690640617,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103103,
+        "num": 103103,
+        "word": "莲花楼 当一个天下第一的剑客决定退休",
+        "onboard_time": 1690647033,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86378,
+        "num": 102373,
+        "word": "中央气象台发暴雨红色预警",
+        "onboard_time": 1690627113,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231209,
+        "num": 102246,
+        "word": "警方通报主持人涂磊被指性侵",
+        "onboard_time": 1690618835,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 101733,
+        "num": 101733,
+        "word": "今日之后再无玟小六了",
+        "onboard_time": 1690641572,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98311,
+        "num": 98311,
+        "word": "杨洋某平台认证消失",
+        "onboard_time": 1690622914,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88146,
+        "num": 88146,
+        "word": "周润发跑步摔伤肋骨",
+        "onboard_time": 1690642296,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78385,
+        "num": 78385,
+        "word": "罗布泊",
+        "onboard_time": 1690643076,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74061,
+        "num": 74061,
+        "word": "故宫临时闭馆",
+        "onboard_time": 1690643913,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 69546,
+        "num": 69546,
+        "word": "老人被激流冲倒6路人接力救援",
+        "onboard_time": 1690647989,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62868,
+        "num": 62868,
+        "word": "父母不懂英语从县城出国看女儿",
+        "onboard_time": 1690614878,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58037,
+        "num": 58037,
+        "word": "宋祖儿为配字不当道歉",
+        "onboard_time": 1690616796,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53687,
+        "num": 53687,
+        "word": "伯邑考温润如玉",
+        "onboard_time": 1690644155,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99324,
+        "num": 53683,
+        "word": "新买的衣服一定要洗洗再穿",
+        "onboard_time": 1690632874,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95498,
+        "num": 53680,
+        "word": "杨洋王楚然魏大勋破好6播放量记录",
+        "onboard_time": 1690661953,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61525,
+        "num": 53670,
+        "word": "看什么病挂什么科",
+        "onboard_time": 1690636593,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 53076,
+        "num": 53076,
+        "word": "摸鱼壁纸真的瞒过了老板和同事",
+        "onboard_time": 1690639236,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52763,
+        "num": 52763,
+        "word": "A股",
+        "onboard_time": 1690656136,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51350,
+        "num": 51350,
+        "word": "张杰演唱会上表白何炅",
+        "onboard_time": 1690637856,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50370,
+        "num": 50370,
+        "word": "英专生就业去外网写霸总小说",
+        "onboard_time": 1690642537,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48417,
+        "num": 48417,
+        "word": "BLACKPINK听到求婚后不同的反应",
+        "onboard_time": 1690642774,
+        "rank": 27,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 47969,
+        "num": 47969,
+        "word": "毛不易醉酒给单依纯打电话",
+        "onboard_time": 1690641216,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45928,
+        "num": 45928,
+        "word": "迪丽热巴你好星期六跳舞",
+        "onboard_time": 1690635453,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109450,
+        "num": 45435,
+        "word": "节目组回应张艺凡施柏宇吻戏",
+        "onboard_time": 1690625793,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64860,
+        "num": 45359,
+        "word": "水是还没发现自己该结冰了吗",
+        "onboard_time": 1690650864,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44447,
+        "num": 44447,
+        "word": "原来香肠是从侧面开的",
+        "onboard_time": 1690628853,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43914,
+        "num": 43914,
+        "word": "范丞丞陈飞宇活动同框",
+        "onboard_time": 1690642837,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41613,
+        "num": 41613,
+        "word": "韩剧恶鬼大结局",
+        "onboard_time": 1690643735,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39642,
+        "num": 39642,
+        "word": "业内人士谈车队进罗布泊3死1失联",
+        "onboard_time": 1690656618,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39489,
+        "num": 39489,
+        "word": "仙贝是拿了段奥娟的剧本吗",
+        "onboard_time": 1690651104,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38932,
+        "num": 38932,
+        "word": "张晚意想换个flag",
+        "onboard_time": 1690646791,
+        "rank": 37,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 35796,
+        "num": 38931,
+        "word": "势俊丽敌",
+        "onboard_time": 1690646372,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31558,
+        "num": 38924,
+        "word": "举报涂磊女子初步诊断为幻觉妄想",
+        "onboard_time": 1690622313,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 32081,
+        "num": 38923,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1690647571,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31384,
+        "num": 38918,
+        "word": "长相思",
+        "onboard_time": 1690632693,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30375,
+        "num": 38914,
+        "word": "王一博空降杭州",
+        "onboard_time": 1690629213,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28830,
+        "num": 38906,
+        "word": "大黄救过TES的命吗",
+        "onboard_time": 1690636055,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27926,
+        "num": 38902,
+        "word": "长相思新副本",
+        "onboard_time": 1690633232,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27367,
+        "num": 38899,
+        "word": "超导",
+        "onboard_time": 1690642239,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 24258,
+        "num": 38896,
+        "word": "北京下雨",
+        "onboard_time": 1690654878,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23774,
+        "num": 38893,
+        "word": "钮祜禄陈烁",
+        "onboard_time": 1690655657,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22227,
+        "num": 38886,
+        "word": "LNG战胜TES",
+        "onboard_time": 1690635096,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22092,
+        "num": 38884,
+        "word": "南安",
+        "onboard_time": 1690658115,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布大运会正式开幕#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690668879431,
+  "endTime": 1690670026964,
   "band_list": [
     {
       "raw_hot": 1769832,
@@ -283,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258921,
+      "num": 258921,
+      "word": "北京大雨",
+      "onboard_time": 1690663934,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258638,
       "num": 258638,
       "word": "大黄救过TES的命吗",
@@ -297,14 +305,6 @@
       "onboard_time": 1690631254,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 238941,
-      "num": 238941,
-      "word": "北京大雨",
-      "onboard_time": 1690663934,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237154,
@@ -337,6 +337,14 @@
       "onboard_time": 1690643556,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217224,
+      "num": 217224,
+      "word": "好多明星去了鹿晗演唱会",
+      "onboard_time": 1690660993,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 198799,
@@ -395,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161242,
-      "num": 161242,
-      "word": "好多明星去了鹿晗演唱会",
-      "onboard_time": 1690660993,
-      "rank": 1,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 138388,
       "num": 188882,
       "word": "刺痛退役",
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95498,
+      "num": 53680,
+      "word": "杨洋王楚然魏大勋破好6播放量记录",
+      "onboard_time": 1690661953,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95461,
       "num": 72683,
       "word": "北京下雨",
@@ -465,14 +473,6 @@
       "onboard_time": 1690609054,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85028,
-      "num": 43525,
-      "word": "杨洋王楚然魏大勋破好6播放量记录",
-      "onboard_time": 1690661953,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 76108,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 22695,
-      "num": 27960,
+      "num": 38884,
       "word": "南安",
       "onboard_time": 1690658115,
       "rank": 46,
