@@ -1,0 +1,410 @@
+{
+  "runTime": 1690648496462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1692065,
+        "num": 1692065,
+        "word": "姬发",
+        "onboard_time": 1690644514,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1191135,
+        "num": 1191135,
+        "word": "小狗好像以为结婚就是离开",
+        "onboard_time": 1690640617,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36155,
+        "num": 801801,
+        "word": "成都大运会的中国式浪漫",
+        "onboard_time": 1690638696,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 798929,
+        "num": 798929,
+        "word": "今日之后再无玟小六了",
+        "onboard_time": 1690641572,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785173,
+        "num": 785173,
+        "word": "故宫临时闭馆",
+        "onboard_time": 1690643913,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 628725,
+        "num": 628725,
+        "word": "为什么去泰国旅游的人越来越少了",
+        "onboard_time": 1690636776,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 604625,
+        "num": 604625,
+        "word": "大宋少年志2 抠图感",
+        "onboard_time": 1690647451,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 591964,
+        "num": 591964,
+        "word": "鹿晗把陈赫的票给邓超了",
+        "onboard_time": 1690629571,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 521006,
+        "num": 521006,
+        "word": "天津暴雨",
+        "onboard_time": 1690645954,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394981,
+        "num": 519179,
+        "word": "超导",
+        "onboard_time": 1690642239,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 923063,
+        "num": 512260,
+        "word": "杨洋某平台认证消失",
+        "onboard_time": 1690622914,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589566,
+        "num": 511629,
+        "word": "BLACKPINK听到求婚后不同的反应",
+        "onboard_time": 1690642774,
+        "rank": 11,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 750507,
+        "num": 503879,
+        "word": "警方通报主持人涂磊被指性侵",
+        "onboard_time": 1690618835,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 503214,
+        "num": 503214,
+        "word": "莲花楼 当一个天下第一的剑客决定退休",
+        "onboard_time": 1690647033,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493495,
+        "num": 493495,
+        "word": "罗布泊",
+        "onboard_time": 1690643076,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468265,
+        "num": 468265,
+        "word": "势俊丽敌",
+        "onboard_time": 1690646372,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437830,
+        "num": 437830,
+        "word": "英专生就业去外网写霸总小说",
+        "onboard_time": 1690642537,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418078,
+        "num": 418078,
+        "word": "原来香肠是从侧面开的",
+        "onboard_time": 1690628853,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389328,
+        "num": 389328,
+        "word": "张杰演唱会上表白何炅",
+        "onboard_time": 1690637856,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376962,
+        "num": 376962,
+        "word": "韩剧恶鬼大结局",
+        "onboard_time": 1690643735,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348628,
+        "num": 348628,
+        "word": "新买的衣服一定要洗洗再穿",
+        "onboard_time": 1690632874,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346993,
+        "num": 346993,
+        "word": "迪丽热巴你好星期六跳舞",
+        "onboard_time": 1690635453,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310930,
+        "num": 310930,
+        "word": "毛不易醉酒给单依纯打电话",
+        "onboard_time": 1690641216,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288226,
+        "num": 288226,
+        "word": "摸鱼壁纸真的瞒过了老板和同事",
+        "onboard_time": 1690639236,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236605,
+        "num": 236605,
+        "word": "中央气象台发暴雨红色预警",
+        "onboard_time": 1690627113,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302840,
+        "num": 234473,
+        "word": "周润发跑步摔伤肋骨",
+        "onboard_time": 1690642296,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298361,
+        "num": 234093,
+        "word": "张晚意想换个flag",
+        "onboard_time": 1690646791,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 268347,
+        "num": 233098,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1690647571,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231742,
+        "num": 231742,
+        "word": "大黄救过TES的命吗",
+        "onboard_time": 1690636055,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158018,
+        "num": 227444,
+        "word": "父母不懂英语从县城出国看女儿",
+        "onboard_time": 1690614878,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589597,
+        "num": 218304,
+        "word": "节目组回应张艺凡施柏宇吻戏",
+        "onboard_time": 1690625793,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255761,
+        "num": 210111,
+        "word": "长相思",
+        "onboard_time": 1690632693,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247288,
+        "num": 198605,
+        "word": "宋祖儿为配字不当道歉",
+        "onboard_time": 1690616796,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246011,
+        "num": 189437,
+        "word": "长相思新副本",
+        "onboard_time": 1690633232,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188196,
+        "num": 188196,
+        "word": "看什么病挂什么科",
+        "onboard_time": 1690636593,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 234275,
+        "num": 187653,
+        "word": "衙内换人",
+        "onboard_time": 1690641814,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184775,
+        "num": 184775,
+        "word": "镇魂街3开播",
+        "onboard_time": 1690644634,
+        "rank": 36,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 135685,
+        "num": 184355,
+        "word": "刺痛退役",
+        "onboard_time": 1690629813,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134327,
+        "num": 184088,
+        "word": "张雨霏晋级50米蝶泳决赛",
+        "onboard_time": 1690645236,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115735,
+        "num": 183220,
+        "word": "突然意识到点外卖有多贵",
+        "onboard_time": 1690606898,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234142,
+        "num": 182972,
+        "word": "龚俊跳要你管",
+        "onboard_time": 1690643135,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233372,
+        "num": 182087,
+        "word": "范丞丞陈飞宇活动同框",
+        "onboard_time": 1690642837,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232952,
+        "num": 181806,
+        "word": "伯邑考温润如玉",
+        "onboard_time": 1690644155,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209757,
+        "num": 181176,
+        "word": "长相思今天更一集",
+        "onboard_time": 1690631254,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200718,
+        "num": 180695,
+        "word": "封神第二部",
+        "onboard_time": 1690624596,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196100,
+        "num": 180343,
+        "word": "张韶涵演唱会",
+        "onboard_time": 1690644274,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114594,
+        "num": 179820,
+        "word": "LNG战胜TES",
+        "onboard_time": 1690635096,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95993,
+        "num": 179286,
+        "word": "老人被激流冲倒6路人接力救援",
+        "onboard_time": 1690647989,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86399,
+        "num": 178580,
+        "word": "蜜雪冰城阴阳怪气瑞幸",
+        "onboard_time": 1690609054,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82172,
+        "num": 177920,
+        "word": "上海申花0比5上海海港",
+        "onboard_time": 1690638817,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共享大运盛会共谱青春华章#"
+    }
+  }
+}

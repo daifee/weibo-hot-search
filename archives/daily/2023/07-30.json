@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690647590599,
+  "endTime": 1690648496462,
   "band_list": [
     {
       "raw_hot": 1769832,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604625,
+      "num": 604625,
+      "word": "大宋少年志2 抠图感",
+      "onboard_time": 1690647451,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 594066,
       "num": 594066,
       "word": "罗布泊",
@@ -97,6 +105,30 @@
       "onboard_time": 1690642537,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 521006,
+      "num": 681666,
+      "word": "天津暴雨",
+      "onboard_time": 1690645954,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503214,
+      "num": 503214,
+      "word": "莲花楼 当一个天下第一的剑客决定退休",
+      "onboard_time": 1690647033,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 468265,
+      "num": 468265,
+      "word": "势俊丽敌",
+      "onboard_time": 1690646372,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 465135,
@@ -137,30 +169,6 @@
       "onboard_time": 1690635453,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411442,
-      "num": 411442,
-      "word": "莲花楼 当一个天下第一的剑客决定退休",
-      "onboard_time": 1690647033,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 408947,
-      "num": 681666,
-      "word": "天津暴雨",
-      "onboard_time": 1690645954,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401526,
-      "num": 401526,
-      "word": "势俊丽敌",
-      "onboard_time": 1690646372,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 399640,
@@ -227,12 +235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287662,
-      "num": 212412,
-      "word": "大宋少年志2 抠图感",
-      "onboard_time": 1690647451,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 298361,
+      "num": 234093,
+      "word": "张晚意想换个flag",
+      "onboard_time": 1690646791,
+      "rank": 44,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 288226,
+      "num": 288226,
+      "word": "摸鱼壁纸真的瞒过了老板和同事",
+      "onboard_time": 1690639236,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 286407,
@@ -241,14 +257,6 @@
       "onboard_time": 1690643135,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284325,
-      "num": 284325,
-      "word": "摸鱼壁纸真的瞒过了老板和同事",
-      "onboard_time": 1690639236,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 282285,
@@ -265,6 +273,14 @@
       "onboard_time": 1690644155,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268347,
+      "num": 233098,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1690647571,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 258638,
@@ -299,14 +315,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 229871,
-      "num": 188836,
-      "word": "张晚意想换个flag",
-      "onboard_time": 1690646791,
-      "rank": 44,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 226924,
       "num": 226924,
       "word": "看什么病挂什么科",
@@ -323,11 +331,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205556,
-      "num": 188821,
-      "word": "邓紫棋演唱会",
-      "onboard_time": 1690647571,
-      "rank": 46,
+      "raw_hot": 196100,
+      "num": 180343,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1690644274,
+      "rank": 45,
       "category": "音乐"
     },
     {
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 166536,
-      "num": 200375,
+      "num": 227444,
       "word": "父母不懂英语从县城出国看女儿",
       "onboard_time": 1690614878,
       "rank": 34,
@@ -379,12 +387,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95993,
+      "num": 179286,
+      "word": "老人被激流冲倒6路人接力救援",
+      "onboard_time": 1690647989,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89231,
       "num": 188802,
       "word": "上海申花0比5上海海港",
       "onboard_time": 1690638817,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86399,
+      "num": 178580,
+      "word": "蜜雪冰城阴阳怪气瑞幸",
+      "onboard_time": 1690609054,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 71580,

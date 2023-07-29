@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690647590599,
+  "endTime": 1690648496462,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -4923,6 +4923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604625,
+      "num": 604625,
+      "word": "大宋少年志2 抠图感",
+      "onboard_time": 1690647451,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 603944,
       "num": 603944,
       "word": "台风或正面袭击厦门市民不要出门",
@@ -5811,6 +5819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521006,
+      "num": 681666,
+      "word": "天津暴雨",
+      "onboard_time": 1690645954,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520495,
       "num": 520495,
       "word": "厦门人防台风到底有多努力",
@@ -6017,6 +6033,14 @@
       "onboard_time": 1690253076,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 503214,
+      "num": 503214,
+      "word": "莲花楼 当一个天下第一的剑客决定退休",
+      "onboard_time": 1690647033,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 503189,
@@ -6489,6 +6513,14 @@
       "onboard_time": 1690358377,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 468265,
+      "num": 468265,
+      "word": "势俊丽敌",
+      "onboard_time": 1690646372,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 467387,
@@ -7451,14 +7483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411442,
-      "num": 411442,
-      "word": "莲花楼 当一个天下第一的剑客决定退休",
-      "onboard_time": 1690647033,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 411283,
       "num": 400960,
       "word": "TFBOYS每家都有合作的电池品牌",
@@ -7489,14 +7513,6 @@
       "onboard_time": 1690450716,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 408947,
-      "num": 681666,
-      "word": "天津暴雨",
-      "onboard_time": 1690645954,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407963,
@@ -7585,14 +7601,6 @@
       "onboard_time": 1690245696,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 401526,
-      "num": 401526,
-      "word": "势俊丽敌",
-      "onboard_time": 1690646372,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 400682,
@@ -9643,6 +9651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298361,
+      "num": 234093,
+      "word": "张晚意想换个flag",
+      "onboard_time": 1690646791,
+      "rank": 44,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 298146,
       "num": 278300,
       "word": "灵戏逼人",
@@ -9905,14 +9921,6 @@
       "onboard_time": 1690453355,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287662,
-      "num": 212412,
-      "word": "大宋少年志2 抠图感",
-      "onboard_time": 1690647451,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 287596,
@@ -10417,6 +10425,14 @@
       "onboard_time": 1690352734,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268347,
+      "num": 233098,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1690647571,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 267675,
@@ -11331,14 +11347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229871,
-      "num": 188836,
-      "word": "张晚意想换个flag",
-      "onboard_time": 1690646791,
-      "rank": 44,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 229757,
       "num": 229757,
       "word": "有猫流出来了",
@@ -12057,14 +12065,6 @@
       "onboard_time": 1690161390,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 205556,
-      "num": 188821,
-      "word": "邓紫棋演唱会",
-      "onboard_time": 1690647571,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 205451,
@@ -14009,6 +14009,14 @@
       "onboard_time": 1690132044,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95993,
+      "num": 179286,
+      "word": "老人被激流冲倒6路人接力救援",
+      "onboard_time": 1690647989,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95979,
