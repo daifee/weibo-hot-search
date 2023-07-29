@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690633814010,
+  "endTime": 1690634709036,
   "band_list": [
     {
       "raw_hot": 3645453,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2193799,
+      "num": 2193799,
+      "word": "刺痛退役",
+      "onboard_time": 1690629813,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2102825,
       "num": 2102825,
       "word": "杜苏芮将从江西移入安徽",
@@ -83,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1961667,
-      "num": 1961667,
-      "word": "刺痛退役",
-      "onboard_time": 1690629813,
-      "rank": 13,
-      "category": "游戏"
+      "raw_hot": 1904525,
+      "num": 1904525,
+      "word": "鹿晗把陈赫的票给邓超了",
+      "onboard_time": 1690629571,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 1768286,
@@ -97,14 +105,6 @@
       "onboard_time": 1690625793,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1702650,
-      "num": 1702650,
-      "word": "鹿晗把陈赫的票给邓超了",
-      "onboard_time": 1690629571,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 1627403,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 862650,
+      "num": 505874,
+      "word": "新买的衣服一定要洗洗再穿",
+      "onboard_time": 1690632874,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 849085,
       "num": 849085,
       "word": "妈妈问我洗澡为啥这么慢",
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 681474,
-      "num": 506228,
+      "num": 680419,
       "word": "你好星期六",
       "onboard_time": 1690631973,
       "rank": 13,
@@ -659,6 +667,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 597630,
+      "num": 597630,
+      "word": "长相思官配",
+      "onboard_time": 1690632454,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 596766,
+      "num": 513684,
+      "word": "我想和你长相守有错吗",
+      "onboard_time": 1690630293,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 596556,
       "num": 596556,
       "word": "Uzi直播",
@@ -723,14 +747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 564691,
-      "num": 504118,
-      "word": "我想和你长相守有错吗",
-      "onboard_time": 1690630293,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 559164,
       "num": 559164,
       "word": "张雨霏",
@@ -763,8 +779,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541119,
+      "num": 505580,
+      "word": "长相思新副本",
+      "onboard_time": 1690633232,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 532795,
-      "num": 419454,
+      "num": 503868,
       "word": "朴彩英更新微博了",
       "onboard_time": 1690629993,
       "rank": 31,
@@ -827,20 +851,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 518812,
-      "num": 391607,
-      "word": "新买的衣服一定要洗洗再穿",
-      "onboard_time": 1690632874,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 516458,
       "num": 445302,
       "word": "易烊千玺王传君同框照",
       "onboard_time": 1690596574,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513765,
+      "num": 513765,
+      "word": "徐嘉余",
+      "onboard_time": 1690633773,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 512119,
@@ -939,6 +963,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 465497,
+      "num": 390457,
+      "word": "孟美岐光脚唱归途有风",
+      "onboard_time": 1690630353,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454295,
       "num": 454295,
       "word": "花花也参加大运会开幕式了",
@@ -971,12 +1003,12 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 444677,
-      "num": 444677,
-      "word": "长相思官配",
-      "onboard_time": 1690632454,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 445683,
+      "num": 445683,
+      "word": "大运会男篮",
+      "onboard_time": 1690631493,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 440309,
@@ -1008,30 +1040,6 @@
       "word": "魏大勋对屈楚萧说好难吃",
       "onboard_time": 1690590152,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 431533,
-      "num": 431533,
-      "word": "大运会男篮",
-      "onboard_time": 1690631493,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 428839,
-      "num": 358573,
-      "word": "孟美岐光脚唱归途有风",
-      "onboard_time": 1690630353,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 428204,
-      "num": 255982,
-      "word": "长相思新副本",
-      "onboard_time": 1690633232,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -1243,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355711,
+      "num": 355711,
+      "word": "张杰演唱会",
+      "onboard_time": 1690633413,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 352720,
       "num": 282949,
       "word": "九尾商务",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1690594412,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322680,
-      "num": 250032,
-      "word": "张杰演唱会",
-      "onboard_time": 1690633413,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 316842,
@@ -1475,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289994,
+      "num": 267567,
+      "word": "大宋少年志",
+      "onboard_time": 1690634251,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289082,
       "num": 289082,
       "word": "涂山璟怎么不笑了",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1690560512,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 279058,
+      "num": 242673,
+      "word": "全国剧粉放狠话追莲花楼",
+      "onboard_time": 1690634074,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 276695,
@@ -1707,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243532,
+      "num": 243532,
+      "word": "TES扳回一城",
+      "onboard_time": 1690632693,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243268,
       "num": 243268,
       "word": "俄女子称自家宠物是世界上最大的猫",
@@ -1731,6 +1763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240230,
+      "num": 240230,
+      "word": "孟宴臣来给雪豹打call了",
+      "onboard_time": 1690634074,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233634,
       "num": 233634,
       "word": "仿佛看到了i人的晚年",
@@ -1748,7 +1788,7 @@
     },
     {
       "raw_hot": 231898,
-      "num": 211613,
+      "num": 213449,
       "word": "于文文演唱会",
       "onboard_time": 1690628673,
       "rank": 45,
@@ -1833,6 +1873,14 @@
       "onboard_time": 1690612954,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 212477,
+      "num": 212477,
+      "word": "长相思预告",
+      "onboard_time": 1690632993,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 210101,
@@ -1979,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185021,
+      "num": 248756,
+      "word": "XYG对战TES",
+      "onboard_time": 1690633711,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184175,
       "num": 184175,
       "word": "恶鬼",
@@ -2059,14 +2115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171784,
-      "num": 248756,
-      "word": "XYG对战TES",
-      "onboard_time": 1690633711,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171721,
       "num": 248699,
       "word": "洗澡唱歌vs别人听到的",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1690552180,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 148463,
+      "num": 212457,
+      "word": "李冰洁800米自由泳银牌",
+      "onboard_time": 1690634674,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144103,
@@ -2153,14 +2209,6 @@
       "onboard_time": 1690543292,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135982,
-      "num": 248565,
-      "word": "徐嘉余",
-      "onboard_time": 1690633773,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 133672,

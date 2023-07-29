@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690633814010,
+  "endTime": 1690634709036,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -2571,6 +2571,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 2193799,
+      "num": 2193799,
+      "word": "刺痛退役",
+      "onboard_time": 1690629813,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2185128,
       "num": 1365322,
       "word": "难听",
@@ -3275,14 +3283,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1961667,
-      "num": 1961667,
-      "word": "刺痛退役",
-      "onboard_time": 1690629813,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1960692,
       "num": 1960692,
       "word": "迪丽热巴腿咚龚俊",
@@ -3585,6 +3585,14 @@
       "onboard_time": 1688730994,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1904525,
+      "num": 1904525,
+      "word": "鹿晗把陈赫的票给邓超了",
+      "onboard_time": 1690629571,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 1903735,
@@ -4601,14 +4609,6 @@
       "onboard_time": 1688986230,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1702650,
-      "num": 1702650,
-      "word": "鹿晗把陈赫的票给邓超了",
-      "onboard_time": 1690629571,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 1701475,
@@ -13523,6 +13523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 862650,
+      "num": 505874,
+      "word": "新买的衣服一定要洗洗再穿",
+      "onboard_time": 1690632874,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 862364,
       "num": 862364,
       "word": "陆景和",
@@ -18628,7 +18636,7 @@
     },
     {
       "raw_hot": 681474,
-      "num": 506228,
+      "num": 680419,
       "word": "你好星期六",
       "onboard_time": 1688188412,
       "rank": 32,
@@ -22219,6 +22227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 597630,
+      "num": 597630,
+      "word": "长相思官配",
+      "onboard_time": 1690632454,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 597065,
       "num": 485332,
       "word": "长相思直播",
@@ -22241,6 +22257,14 @@
       "onboard_time": 1688483921,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 596766,
+      "num": 513684,
+      "word": "我想和你长相守有错吗",
+      "onboard_time": 1690630293,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 596556,
@@ -23643,14 +23667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 564691,
-      "num": 504118,
-      "word": "我想和你长相守有错吗",
-      "onboard_time": 1690630293,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 564156,
       "num": 564156,
       "word": "胡锡进 农民工退休待遇",
@@ -24827,6 +24843,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 541119,
+      "num": 505580,
+      "word": "长相思新副本",
+      "onboard_time": 1690633232,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541095,
       "num": 541095,
       "word": "黄子佼被立案调查",
@@ -25172,7 +25196,7 @@
     },
     {
       "raw_hot": 532795,
-      "num": 419454,
+      "num": 503868,
       "word": "朴彩英更新微博了",
       "onboard_time": 1690629993,
       "rank": 31,
@@ -25881,14 +25905,6 @@
       "onboard_time": 1689838414,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 518812,
-      "num": 391607,
-      "word": "新买的衣服一定要洗洗再穿",
-      "onboard_time": 1690632874,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 518787,
@@ -29091,6 +29107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465497,
+      "num": 390457,
+      "word": "孟美岐光脚唱归途有风",
+      "onboard_time": 1690630353,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465242,
       "num": 465242,
       "word": "三十四中门前的黄桃罐头和AD钙奶",
@@ -30411,6 +30435,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 445683,
+      "num": 445683,
+      "word": "大运会男篮",
+      "onboard_time": 1690631493,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 445409,
       "num": 445409,
       "word": "刘耀文剪短发了",
@@ -30448,14 +30480,6 @@
       "word": "杨洋最近风评",
       "onboard_time": 1689088896,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 444677,
-      "num": 444677,
-      "word": "长相思官配",
-      "onboard_time": 1690632454,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -31563,14 +31587,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 431533,
-      "num": 431533,
-      "word": "大运会男篮",
-      "onboard_time": 1690631493,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 431284,
       "num": 431284,
       "word": "男孩玩手机被奶奶说一气之下欲轻生",
@@ -31819,14 +31835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 428839,
-      "num": 358573,
-      "word": "孟美岐光脚唱归途有风",
-      "onboard_time": 1690630353,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 428821,
       "num": 428821,
       "word": "林俊杰TMEA",
@@ -31889,14 +31897,6 @@
       "onboard_time": 1689048702,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 428204,
-      "num": 255982,
-      "word": "长相思新副本",
-      "onboard_time": 1690633232,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 428179,
@@ -37819,6 +37819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355711,
+      "num": 355711,
+      "word": "张杰演唱会",
+      "onboard_time": 1688209651,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355643,
       "num": 355643,
       "word": "原来任思雨没怀孕",
@@ -38569,14 +38577,6 @@
       "onboard_time": 1690250372,
       "rank": 31,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 347728,
-      "num": 297103,
-      "word": "张杰演唱会",
-      "onboard_time": 1688209651,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 347689,
@@ -46131,6 +46131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279058,
+      "num": 242673,
+      "word": "全国剧粉放狠话追莲花楼",
+      "onboard_time": 1690634074,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279051,
       "num": 279051,
       "word": "浙江罕见睡莲一半浓艳一半清雅",
@@ -50787,6 +50795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243532,
+      "num": 243532,
+      "word": "TES扳回一城",
+      "onboard_time": 1690632693,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243496,
       "num": 338773,
       "word": "五星酒店大厨夜市掌勺人均消费30元",
@@ -51273,6 +51289,14 @@
       "onboard_time": 1689079895,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 240230,
+      "num": 240230,
+      "word": "孟宴臣来给雪豹打call了",
+      "onboard_time": 1690634074,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 240217,
@@ -52436,7 +52460,7 @@
     },
     {
       "raw_hot": 231898,
-      "num": 211613,
+      "num": 213449,
       "word": "于文文演唱会",
       "onboard_time": 1690628673,
       "rank": 45,
@@ -60683,6 +60707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185021,
+      "num": 248756,
+      "word": "XYG对战TES",
+      "onboard_time": 1690633711,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185013,
       "num": 185013,
       "word": "沈腾在云南吃齐齐哈尔烤串",
@@ -62449,14 +62481,6 @@
       "onboard_time": 1689553712,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171784,
-      "num": 248756,
-      "word": "XYG对战TES",
-      "onboard_time": 1690633711,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 171721,
@@ -64489,6 +64513,14 @@
       "onboard_time": 1690063815,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148463,
+      "num": 212457,
+      "word": "李冰洁800米自由泳银牌",
+      "onboard_time": 1690634674,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 147878,
