@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690625758068,
+  "endTime": 1690626818381,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -144,6 +144,14 @@
       "word": "狂飙后第二爆的剧是哪部",
       "onboard_time": 1690379978,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3645453,
+      "num": 3645453,
+      "word": "杨洋 芭比的肯",
+      "onboard_time": 1690624953,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 2553528,
-      "num": 623633,
+      "num": 659604,
       "word": "宋祖儿为配字不当道歉",
       "onboard_time": 1690616796,
       "rank": 10,
@@ -457,6 +465,14 @@
       "onboard_time": 1690464034,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2256105,
+      "num": 660798,
+      "word": "杨洋某平台认证消失",
+      "onboard_time": 1690622914,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2252541,
@@ -635,14 +651,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2008886,
-      "num": 651713,
-      "word": "杨洋某平台认证消失",
-      "onboard_time": 1690622914,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2000132,
       "num": 1520365,
       "word": "韩国一父亲猛抽校园霸凌者100多个耳光",
@@ -800,14 +808,6 @@
       "word": "张子枫瘦好多",
       "onboard_time": 1690540712,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1802966,
-      "num": 612247,
-      "word": "杨洋 芭比的肯",
-      "onboard_time": 1690624953,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -2459,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964423,
+      "num": 964423,
+      "word": "节目组回应张艺凡施柏宇吻戏",
+      "onboard_time": 1690625793,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 964246,
       "num": 546800,
       "word": "这次终于看懂五险一金了",
@@ -2620,7 +2628,7 @@
     },
     {
       "raw_hot": 920455,
-      "num": 920455,
+      "num": 1321857,
       "word": "父母不懂英语从县城出国看女儿",
       "onboard_time": 1690614878,
       "rank": 9,
@@ -3971,6 +3979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 686175,
+      "num": 686175,
+      "word": "封神第二部",
+      "onboard_time": 1690624596,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 685875,
       "num": 540863,
       "word": "安徽亳州一对男女被人按着头拜堂",
@@ -4499,6 +4515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 627650,
+      "num": 421946,
+      "word": "涂山璟他超爱",
+      "onboard_time": 1690625192,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 627108,
       "num": 431413,
       "word": "全家吃剩西瓜中毒住院花5400",
@@ -4771,12 +4795,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 592179,
+      "num": 965098,
+      "word": "景区演员冒雨演70分钟观众无人离席",
+      "onboard_time": 1690624235,
+      "rank": 4,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 592112,
       "num": 592112,
       "word": "齐齐哈尔体育馆坍塌事故已致9人死亡",
       "onboard_time": 1690154724,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591512,
+      "num": 431098,
+      "word": "刘涛腰线",
+      "onboard_time": 1690624115,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 591476,
@@ -4928,14 +4968,6 @@
       "word": "念无双开机",
       "onboard_time": 1690510300,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 579091,
-      "num": 579091,
-      "word": "封神第二部",
-      "onboard_time": 1690624596,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -5112,14 +5144,6 @@
       "word": "刘亦菲玫瑰故事高马尾造型",
       "onboard_time": 1690552537,
       "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 560366,
-      "num": 431098,
-      "word": "刘涛腰线",
-      "onboard_time": 1690624115,
-      "rank": 16,
       "category": "作品衍生,时尚"
     },
     {
@@ -5883,20 +5907,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 488312,
+      "num": 338989,
+      "word": "十个勤天",
+      "onboard_time": 1690609174,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488014,
       "num": 429498,
       "word": "孙笑川 感谢大家最近对我的关心",
       "onboard_time": 1690297364,
       "rank": 24,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 486066,
-      "num": 338989,
-      "word": "十个勤天",
-      "onboard_time": 1690609174,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 486017,
@@ -6155,6 +6179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 466823,
+      "num": 308256,
+      "word": "妈妈撤回了一杯奶茶",
+      "onboard_time": 1690624474,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 466752,
       "num": 466752,
       "word": "晋江台风现场",
@@ -6225,14 +6257,6 @@
       "onboard_time": 1690504419,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 462616,
-      "num": 826789,
-      "word": "景区演员冒雨演70分钟观众无人离席",
-      "onboard_time": 1690624235,
-      "rank": 4,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 462028,
@@ -7027,6 +7051,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 412750,
+      "num": 265009,
+      "word": "权顺荣签售会和粉丝用中文吵架",
+      "onboard_time": 1690624055,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411998,
       "num": 411998,
       "word": "TFBOYS最好的那年现在听真的好像告别",
@@ -7089,6 +7121,14 @@
       "onboard_time": 1690450716,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 407970,
+      "num": 407970,
+      "word": "为什么不上Fly",
+      "onboard_time": 1690625135,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 407963,
@@ -7265,14 +7305,6 @@
       "onboard_time": 1690588649,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 397660,
-      "num": 265009,
-      "word": "权顺荣签售会和粉丝用中文吵架",
-      "onboard_time": 1690624055,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 397005,
@@ -8227,6 +8259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339256,
+      "num": 790747,
+      "word": "兵哥哥暴雨中狂奔拉住失控电动车",
+      "onboard_time": 1690624235,
+      "rank": 6,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 338888,
       "num": 338888,
       "word": "在飞机上称呼空姐什么最合适",
@@ -8241,14 +8281,6 @@
       "onboard_time": 1690181019,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 337591,
-      "num": 254180,
-      "word": "涂山璟他超爱",
-      "onboard_time": 1690625192,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 337300,
@@ -8881,14 +8913,6 @@
       "onboard_time": 1690452757,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308256,
-      "num": 308256,
-      "word": "妈妈撤回了一杯奶茶",
-      "onboard_time": 1690624474,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 307954,
@@ -9881,14 +9905,6 @@
       "onboard_time": 1690591351,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265854,
-      "num": 790747,
-      "word": "兵哥哥暴雨中狂奔拉住失控电动车",
-      "onboard_time": 1690624235,
-      "rank": 6,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 265831,
@@ -11363,6 +11379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206737,
+      "num": 204995,
+      "word": "莲花楼真的很像大型剧本杀",
+      "onboard_time": 1690626394,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206480,
       "num": 189748,
       "word": "李莎旻子乘风后主持首秀",
@@ -11497,6 +11521,14 @@
       "onboard_time": 1690268500,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205072,
+      "num": 205072,
+      "word": "刺痛黄忠MVP",
+      "onboard_time": 1690626452,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 203974,
@@ -12107,14 +12139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188815,
-      "num": 227727,
-      "word": "为什么不上Fly",
-      "onboard_time": 1690625135,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188614,
       "num": 197709,
       "word": "热烈长沙路演票价炒至上千元",
@@ -12403,6 +12427,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 178473,
+      "num": 205039,
+      "word": "逆水寒",
+      "onboard_time": 1690626575,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178087,
       "num": 178087,
       "word": "提前感受到对台风的恐惧了",
@@ -12529,6 +12561,14 @@
       "onboard_time": 1690125937,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 170729,
+      "num": 204958,
+      "word": "用原声不出戏的明星",
+      "onboard_time": 1690626755,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169433,

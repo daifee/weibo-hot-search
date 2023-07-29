@@ -1,0 +1,410 @@
+{
+  "runTime": 1690626818381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3645453,
+        "num": 3645453,
+        "word": "杨洋 芭比的肯",
+        "onboard_time": 1690624953,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 915161,
+        "num": 1321857,
+        "word": "父母不懂英语从县城出国看女儿",
+        "onboard_time": 1690614878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72185,
+        "num": 1113713,
+        "word": "成都大运会最全观赛指南",
+        "onboard_time": 1690615175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037930,
+        "num": 1037930,
+        "word": "相柳宝宝蛇",
+        "onboard_time": 1690619915,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592179,
+        "num": 965098,
+        "word": "景区演员冒雨演70分钟观众无人离席",
+        "onboard_time": 1690624235,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 964423,
+        "num": 964423,
+        "word": "节目组回应张艺凡施柏宇吻戏",
+        "onboard_time": 1690625793,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339256,
+        "num": 761428,
+        "word": "兵哥哥暴雨中狂奔拉住失控电动车",
+        "onboard_time": 1690624235,
+        "rank": 6,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 702312,
+        "num": 702312,
+        "word": "邓超四度缺席鹿晗演唱会",
+        "onboard_time": 1690618354,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 686175,
+        "num": 686175,
+        "word": "封神第二部",
+        "onboard_time": 1690624596,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 660871,
+        "num": 660871,
+        "word": "蜜雪冰城阴阳怪气瑞幸",
+        "onboard_time": 1690609054,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2256105,
+        "num": 660798,
+        "word": "杨洋某平台认证消失",
+        "onboard_time": 1690622914,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1901301,
+        "num": 660473,
+        "word": "警方通报主持人涂磊被指性侵",
+        "onboard_time": 1690618835,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1099867,
+        "num": 659604,
+        "word": "宋祖儿为配字不当道歉",
+        "onboard_time": 1690616796,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658372,
+        "num": 658372,
+        "word": "唐嫣念无双妆造被吐槽",
+        "onboard_time": 1690622795,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435538,
+        "num": 435538,
+        "word": "突然意识到点外卖有多贵",
+        "onboard_time": 1690606898,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 627650,
+        "num": 421946,
+        "word": "涂山璟他超爱",
+        "onboard_time": 1690625192,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530715,
+        "num": 420821,
+        "word": "我的人间烟火被删掉的滑板戏",
+        "onboard_time": 1690615117,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407970,
+        "num": 407970,
+        "word": "为什么不上Fly",
+        "onboard_time": 1690625135,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303624,
+        "num": 303624,
+        "word": "举报涂磊女子初步诊断为幻觉妄想",
+        "onboard_time": 1690622313,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 287919,
+        "num": 287919,
+        "word": "刺痛上场",
+        "onboard_time": 1690622614,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 591512,
+        "num": 279321,
+        "word": "刘涛腰线",
+        "onboard_time": 1690624115,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 488312,
+        "num": 273078,
+        "word": "十个勤天",
+        "onboard_time": 1690609174,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466823,
+        "num": 262330,
+        "word": "妈妈撤回了一杯奶茶",
+        "onboard_time": 1690624474,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 318317,
+        "num": 257185,
+        "word": "老公要在新家装120个插座",
+        "onboard_time": 1690613735,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251603,
+        "num": 251603,
+        "word": "台风杜苏芮北上",
+        "onboard_time": 1690608391,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417894,
+        "num": 248899,
+        "word": "封神上座率",
+        "onboard_time": 1690620633,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412750,
+        "num": 248397,
+        "word": "权顺荣签售会和粉丝用中文吵架",
+        "onboard_time": 1690624055,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 377543,
+        "num": 248349,
+        "word": "素颜的周也",
+        "onboard_time": 1690621775,
+        "rank": 27,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 245915,
+        "num": 245915,
+        "word": "出国之后逐渐变得自信了",
+        "onboard_time": 1690615833,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197767,
+        "num": 239423,
+        "word": "拜登承认其儿子私生女是孙女",
+        "onboard_time": 1690597954,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345169,
+        "num": 234926,
+        "word": "封神",
+        "onboard_time": 1690607733,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309529,
+        "num": 225144,
+        "word": "檀健次说吻戏没用上毕生所学",
+        "onboard_time": 1690619015,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302741,
+        "num": 213672,
+        "word": "操心封神票房",
+        "onboard_time": 1690600298,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205072,
+        "num": 205072,
+        "word": "刺痛黄忠MVP",
+        "onboard_time": 1690626452,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194746,
+        "num": 205072,
+        "word": "TES对战LNG",
+        "onboard_time": 1690623273,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296648,
+        "num": 205053,
+        "word": "文俊辉演技",
+        "onboard_time": 1690622973,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278630,
+        "num": 205039,
+        "word": "刘宇宁连续五年悼念去世粉丝",
+        "onboard_time": 1690610915,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178473,
+        "num": 205039,
+        "word": "逆水寒",
+        "onboard_time": 1690626575,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172405,
+        "num": 205026,
+        "word": "命运的齿轮开始转动",
+        "onboard_time": 1690618655,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157073,
+        "num": 205015,
+        "word": "为什么现在的学生不扎高马尾了",
+        "onboard_time": 1690605335,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275188,
+        "num": 204996,
+        "word": "张杰胸肌好明显",
+        "onboard_time": 1690620697,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206737,
+        "num": 204995,
+        "word": "莲花楼真的很像大型剧本杀",
+        "onboard_time": 1690626394,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205999,
+        "num": 204984,
+        "word": "杨幂八字没一撇演唱会海报",
+        "onboard_time": 1690614575,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194549,
+        "num": 204965,
+        "word": "打于正耳光的演员沈泰也出演了长相思",
+        "onboard_time": 1690613432,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170729,
+        "num": 204958,
+        "word": "用原声不出戏的明星",
+        "onboard_time": 1690626755,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176751,
+        "num": 204943,
+        "word": "长相思组合连连看",
+        "onboard_time": 1690615776,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131037,
+        "num": 204935,
+        "word": "年度最佳猫咪",
+        "onboard_time": 1690609832,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128367,
+        "num": 204917,
+        "word": "北京暴雨",
+        "onboard_time": 1690601018,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127150,
+        "num": 204910,
+        "word": "涂磊",
+        "onboard_time": 1690619015,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 119010,
+        "num": 204897,
+        "word": "AG对战狼队",
+        "onboard_time": 1690623155,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共享大运盛会共谱青春华章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690625758068,
+  "endTime": 1690626818381,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -697,6 +697,14 @@
       "onboard_time": 1689944502,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3645453,
+      "num": 3645453,
+      "word": "杨洋 芭比的肯",
+      "onboard_time": 1690624953,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 3552582,
@@ -1796,7 +1804,7 @@
     },
     {
       "raw_hot": 2553528,
-      "num": 623633,
+      "num": 659604,
       "word": "宋祖儿为配字不当道歉",
       "onboard_time": 1690616796,
       "rank": 10,
@@ -2361,6 +2369,14 @@
       "onboard_time": 1688724154,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2256105,
+      "num": 660798,
+      "word": "杨洋某平台认证消失",
+      "onboard_time": 1690622914,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2252541,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1690245156,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2008886,
-      "num": 651713,
-      "word": "杨洋某平台认证消失",
-      "onboard_time": 1690622914,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 2008325,
@@ -4073,14 +4081,6 @@
       "onboard_time": 1688617243,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1802966,
-      "num": 612247,
-      "word": "杨洋 芭比的肯",
-      "onboard_time": 1690624953,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1801449,
@@ -11315,6 +11315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 964423,
+      "num": 964423,
+      "word": "节目组回应张艺凡施柏宇吻戏",
+      "onboard_time": 1690625793,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 964246,
       "num": 546800,
       "word": "这次终于看懂五险一金了",
@@ -12036,7 +12044,7 @@
     },
     {
       "raw_hot": 920455,
-      "num": 920455,
+      "num": 1321857,
       "word": "父母不懂英语从县城出国看女儿",
       "onboard_time": 1690614878,
       "rank": 9,
@@ -18387,6 +18395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686175,
+      "num": 686175,
+      "word": "封神第二部",
+      "onboard_time": 1690103853,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686036,
       "num": 686036,
       "word": "李飞你的对手来了",
@@ -20851,6 +20867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 627650,
+      "num": 421946,
+      "word": "涂山璟他超爱",
+      "onboard_time": 1690625192,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 627623,
       "num": 700424,
       "word": "水库免费开放给市民做天然泳池",
@@ -22259,6 +22283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 592179,
+      "num": 965098,
+      "word": "景区演员冒雨演70分钟观众无人离席",
+      "onboard_time": 1690624235,
+      "rank": 4,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 592112,
       "num": 592112,
       "word": "齐齐哈尔体育馆坍塌事故已致9人死亡",
@@ -22297,6 +22329,14 @@
       "onboard_time": 1688177971,
       "rank": 7,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 591512,
+      "num": 431098,
+      "word": "刘涛腰线",
+      "onboard_time": 1690624115,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 591505,
@@ -22848,14 +22888,6 @@
       "word": "念无双开机",
       "onboard_time": 1690510300,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 579091,
-      "num": 579091,
-      "word": "封神第二部",
-      "onboard_time": 1690103853,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -23721,14 +23753,6 @@
       "onboard_time": 1689404789,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 560366,
-      "num": 431098,
-      "word": "刘涛腰线",
-      "onboard_time": 1690624115,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 560363,
@@ -28803,6 +28827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466823,
+      "num": 308256,
+      "word": "妈妈撤回了一杯奶茶",
+      "onboard_time": 1690624474,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 466752,
       "num": 466752,
       "word": "晋江台风现场",
@@ -29081,14 +29113,6 @@
       "onboard_time": 1688788951,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462616,
-      "num": 826789,
-      "word": "景区演员冒雨演70分钟观众无人离席",
-      "onboard_time": 1690624235,
-      "rank": 4,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 462079,
@@ -32819,6 +32843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412750,
+      "num": 265009,
+      "word": "权顺荣签售会和粉丝用中文吵架",
+      "onboard_time": 1690624055,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 412510,
       "num": 412510,
       "word": "螺蛳粉雪糕",
@@ -33153,6 +33185,14 @@
       "onboard_time": 1688895692,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407970,
+      "num": 407970,
+      "word": "为什么不上Fly",
+      "onboard_time": 1690625135,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 407963,
@@ -33969,14 +34009,6 @@
       "onboard_time": 1689570692,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397660,
-      "num": 265009,
-      "word": "权顺荣签售会和粉丝用中文吵架",
-      "onboard_time": 1690624055,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 397659,
@@ -39091,6 +39123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339256,
+      "num": 790747,
+      "word": "兵哥哥暴雨中狂奔拉住失控电动车",
+      "onboard_time": 1690624235,
+      "rank": 6,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 339181,
       "num": 339181,
       "word": "逼疯宋焰只需一个蒋裕",
@@ -39233,14 +39273,6 @@
       "onboard_time": 1690080871,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 337591,
-      "num": 254180,
-      "word": "涂山璟他超爱",
-      "onboard_time": 1690625192,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 337489,
@@ -42201,14 +42233,6 @@
       "onboard_time": 1689672396,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308256,
-      "num": 308256,
-      "word": "妈妈撤回了一杯奶茶",
-      "onboard_time": 1690624474,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 308238,
@@ -47561,14 +47585,6 @@
       "onboard_time": 1688824657,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265854,
-      "num": 790747,
-      "word": "兵哥哥暴雨中狂奔拉住失控电动车",
-      "onboard_time": 1690624235,
-      "rank": 6,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 265853,
@@ -56275,6 +56291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206737,
+      "num": 204995,
+      "word": "莲花楼真的很像大型剧本杀",
+      "onboard_time": 1690626394,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206723,
       "num": 206723,
       "word": "这段宝宝学走路视频爸爸拍了3年",
@@ -56601,6 +56625,14 @@
       "onboard_time": 1690268500,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205072,
+      "num": 205072,
+      "word": "刺痛黄忠MVP",
+      "onboard_time": 1690626452,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 205064,
@@ -59819,14 +59851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188815,
-      "num": 227727,
-      "word": "为什么不上Fly",
-      "onboard_time": 1690625135,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188803,
       "num": 157805,
       "word": "四川大巴事故当事人亲友发声",
@@ -62265,6 +62289,14 @@
       "onboard_time": 1688892689,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170729,
+      "num": 204958,
+      "word": "用原声不出戏的明星",
+      "onboard_time": 1690626755,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170713,
