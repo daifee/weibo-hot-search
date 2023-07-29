@@ -1,0 +1,410 @@
+{
+  "runTime": 1690608836755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2306138,
+        "num": 2306138,
+        "word": "孙俪为甄嬛发声",
+        "onboard_time": 1690603178,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1640597,
+        "num": 1640597,
+        "word": "突然意识到点外卖有多贵",
+        "onboard_time": 1690606898,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76766,
+        "num": 1534114,
+        "word": "微观大运会",
+        "onboard_time": 1690600115,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518146,
+        "num": 1518146,
+        "word": "拜登承认其儿子私生女是孙女",
+        "onboard_time": 1690597954,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958910,
+        "num": 958910,
+        "word": "大鹏说把片酬给邓超了",
+        "onboard_time": 1690607974,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631517,
+        "num": 631517,
+        "word": "泉州高龄产妇台风天诞下3斤男婴",
+        "onboard_time": 1690604557,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591790,
+        "num": 591790,
+        "word": "原著里夭柳亲了400多次",
+        "onboard_time": 1690593993,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575131,
+        "num": 575131,
+        "word": "操心封神票房",
+        "onboard_time": 1690600298,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533744,
+        "num": 533744,
+        "word": "男子无视部队劝阻破坏军婚获刑一年",
+        "onboard_time": 1690596092,
+        "rank": 8,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 474222,
+        "num": 474222,
+        "word": "北京暴雨",
+        "onboard_time": 1690601018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717516,
+        "num": 472338,
+        "word": "涂山璟 破防男",
+        "onboard_time": 1690599757,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545063,
+        "num": 463979,
+        "word": "魏大勋红了真好",
+        "onboard_time": 1690594472,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 510751,
+        "num": 452343,
+        "word": "以为姬发真的要露屁股",
+        "onboard_time": 1690603956,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104188,
+        "num": 440304,
+        "word": "Chinajoy皮裤天团",
+        "onboard_time": 1690607496,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 438693,
+        "num": 438693,
+        "word": "Uzi直播",
+        "onboard_time": 1690602334,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 427306,
+        "num": 427306,
+        "word": "种地吧",
+        "onboard_time": 1690605335,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425850,
+        "num": 425850,
+        "word": "热带低压杜苏芮停止编号",
+        "onboard_time": 1690603297,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422166,
+        "num": 422166,
+        "word": "朴宰范宁艺卓新歌全球首秀",
+        "onboard_time": 1690607374,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 403088,
+        "num": 403088,
+        "word": "黄磊说张艺兴谈恋爱了也没事",
+        "onboard_time": 1690587025,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402952,
+        "num": 402952,
+        "word": "台风最凶猛的暴雨倒在了福建莆田",
+        "onboard_time": 1690594957,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657618,
+        "num": 396085,
+        "word": "张新成周雨彤情头",
+        "onboard_time": 1690607135,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463008,
+        "num": 392077,
+        "word": "28岁真是个分水岭",
+        "onboard_time": 1690601133,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 435316,
+        "num": 376201,
+        "word": "为什么现在的学生不扎高马尾了",
+        "onboard_time": 1690605335,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414249,
+        "num": 373468,
+        "word": "吉林白山一处公园内一男一女上吊身亡",
+        "onboard_time": 1690593629,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365861,
+        "num": 365861,
+        "word": "封神质子101",
+        "onboard_time": 1690597172,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350937,
+        "num": 350937,
+        "word": "夭玹早已有床戏",
+        "onboard_time": 1690602215,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332520,
+        "num": 332520,
+        "word": "实习生租房一个月用水300吨",
+        "onboard_time": 1690594353,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317320,
+        "num": 317320,
+        "word": "封神妲己为两分钟舞蹈练了两年",
+        "onboard_time": 1690602577,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312793,
+        "num": 312793,
+        "word": "王彦霖晒与老婆合照",
+        "onboard_time": 1690606776,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294085,
+        "num": 294085,
+        "word": "儿子坐离世父亲车哭得撕心裂肺",
+        "onboard_time": 1690600298,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303539,
+        "num": 291885,
+        "word": "封神",
+        "onboard_time": 1690607733,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286039,
+        "num": 286039,
+        "word": "妈妈问我洗澡为啥这么慢",
+        "onboard_time": 1690594353,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284821,
+        "num": 284821,
+        "word": "台风一级响应调整为暴雨一级响应",
+        "onboard_time": 1690597896,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267675,
+        "num": 267675,
+        "word": "全员加速中组队剧透",
+        "onboard_time": 1690607496,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267336,
+        "num": 267336,
+        "word": "易烊千玺雪豹三连问",
+        "onboard_time": 1690604977,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264006,
+        "num": 264006,
+        "word": "台风杜苏芮最新位置",
+        "onboard_time": 1690589250,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260382,
+        "num": 260382,
+        "word": "于文文说彭于晏也可以发福",
+        "onboard_time": 1690608513,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258564,
+        "num": 258564,
+        "word": "肖战请剧组喝饮料",
+        "onboard_time": 1690597954,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258877,
+        "num": 248961,
+        "word": "台风杜苏芮北上",
+        "onboard_time": 1690608391,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235201,
+        "num": 235201,
+        "word": "刘宇宁蒋俊豪",
+        "onboard_time": 1690601556,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230091,
+        "num": 230091,
+        "word": "长相思三位男主新增粉丝数",
+        "onboard_time": 1690608033,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219884,
+        "num": 219884,
+        "word": "杜苏芮将从江西移入安徽",
+        "onboard_time": 1690589129,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205925,
+        "num": 219882,
+        "word": "长相思",
+        "onboard_time": 1690555302,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201923,
+        "num": 219881,
+        "word": "黄灿灿近照状态",
+        "onboard_time": 1690588649,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201849,
+        "num": 219880,
+        "word": "王一博崴脚痛到满头大汗",
+        "onboard_time": 1690592552,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195641,
+        "num": 219877,
+        "word": "越来越意识到松弛感的重要性",
+        "onboard_time": 1690598675,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166245,
+        "num": 219875,
+        "word": "最热的大学 最冷门的语言",
+        "onboard_time": 1690590448,
+        "rank": 46,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 160664,
+        "num": 219870,
+        "word": "科二考试考一个小时是什么体验",
+        "onboard_time": 1690595792,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146749,
+        "num": 219867,
+        "word": "光与夜之恋",
+        "onboard_time": 1690607135,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137844,
+        "num": 219865,
+        "word": "台风一路北上10余省份将有暴雨",
+        "onboard_time": 1690600298,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布大运会正式开幕#"
+    }
+  }
+}
