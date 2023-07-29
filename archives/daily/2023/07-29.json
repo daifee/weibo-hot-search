@@ -1,7 +1,15 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690598274696,
+  "endTime": 1690600582903,
   "band_list": [
+    {
+      "raw_hot": 2464798,
+      "num": 2464798,
+      "word": "拜登承认其儿子私生女是其孙女",
+      "onboard_time": 1690597954,
+      "rank": 30,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2102825,
       "num": 2102825,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1627403,
-      "num": 465318,
+      "num": 544695,
       "word": "黄磊说张艺兴谈恋爱了也没事",
       "onboard_time": 1690587025,
       "rank": 41,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1473681,
-      "num": 464768,
+      "num": 556196,
       "word": "魏大勋红了真好",
       "onboard_time": 1690594472,
       "rank": 26,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1329563,
-      "num": 465157,
+      "num": 489096,
       "word": "杨紫回应五官乱飞",
       "onboard_time": 1690587084,
       "rank": 38,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1003443,
-      "num": 460546,
+      "num": 545914,
       "word": "吉林白山一处公园内一男一女上吊身亡",
       "onboard_time": 1690593629,
       "rank": 30,
@@ -147,19 +155,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782759,
+      "num": 782759,
+      "word": "台风最凶猛的暴雨倒在了福建莆田",
+      "onboard_time": 1690594957,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759566,
       "num": 759566,
       "word": "00后来整顿婚礼了",
       "onboard_time": 1690553979,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752684,
-      "num": 752684,
-      "word": "台风最凶猛的暴雨倒在了福建莆田",
-      "onboard_time": 1690594957,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -195,6 +203,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 692435,
+      "num": 692435,
+      "word": "男子无视部队劝阻破坏军婚获刑一年",
+      "onboard_time": 1690596092,
+      "rank": 15,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 678866,
       "num": 678866,
       "word": "伊拉克女旗手美炸了",
@@ -203,12 +219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 672208,
+      "num": 535372,
+      "word": "涂山璟 破防男",
+      "onboard_time": 1690599757,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 661841,
       "num": 298564,
       "word": "孩子被撞身亡被判与肇事司机同责",
       "onboard_time": 1690558832,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659903,
+      "num": 526983,
+      "word": "肖战请剧组喝饮料",
+      "onboard_time": 1690597954,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 634871,
@@ -235,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588765,
-      "num": 447805,
-      "word": "男子无视部队劝阻破坏军婚获刑一年",
-      "onboard_time": 1690596092,
-      "rank": 15,
-      "category": "社会新闻,军事"
+      "raw_hot": 573155,
+      "num": 573155,
+      "word": "封神质子101",
+      "onboard_time": 1690597172,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 568413,
@@ -249,6 +281,14 @@
       "onboard_time": 1690525717,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558589,
+      "num": 558589,
+      "word": "忽然明白蛊虫怎么那么快就种成了",
+      "onboard_time": 1690597832,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 556017,
@@ -283,11 +323,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 526288,
+      "num": 526288,
+      "word": "成都大运会首枚金牌",
+      "onboard_time": 1690595132,
+      "rank": 17,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 521997,
       "num": 521997,
       "word": "桐华曾经想把相柳写成男主",
       "onboard_time": 1690586783,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 520326,
+      "num": 520326,
+      "word": "长相思全员上桌",
+      "onboard_time": 1690597292,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -339,36 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483553,
-      "num": 483553,
-      "word": "成都大运会首枚金牌",
-      "onboard_time": 1690595132,
-      "rank": 17,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 467737,
-      "num": 467737,
-      "word": "封神质子101",
-      "onboard_time": 1690597172,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 454295,
       "num": 454295,
       "word": "花花也参加大运会开幕式了",
       "onboard_time": 1690585279,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 440129,
-      "num": 440129,
-      "word": "长相思全员上桌",
-      "onboard_time": 1690597292,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 437975,
@@ -403,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 411505,
+      "num": 399427,
+      "word": "曾黎吃着碗里看着锅里的",
+      "onboard_time": 1690597354,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402992,
       "num": 300813,
       "word": "小伙花51万结婚要求退彩礼后续",
@@ -419,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395701,
+      "num": 395701,
+      "word": "台风一级响应调整为暴雨一级响应",
+      "onboard_time": 1690597896,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393116,
       "num": 393116,
       "word": "薛之谦刘宪华好像在演双簧",
       "onboard_time": 1690557275,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389694,
+      "num": 389694,
+      "word": "迪丽热巴挑战演绎双人物",
+      "onboard_time": 1690599757,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 384584,
@@ -467,12 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 348053,
-      "num": 267450,
-      "word": "拜登承认其儿子私生女是其孙女",
-      "onboard_time": 1690597954,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 346648,
+      "num": 346648,
+      "word": "操心封神票房",
+      "onboard_time": 1690600298,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 346515,
@@ -481,6 +537,14 @@
       "onboard_time": 1690588288,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336039,
+      "num": 336039,
+      "word": "越来越意识到松弛感的重要性",
+      "onboard_time": 1690598675,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 332444,
@@ -523,8 +587,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 310599,
-      "num": 310599,
+      "raw_hot": 315953,
+      "num": 315953,
       "word": "科二考试考一个小时是什么体验",
       "onboard_time": 1690595792,
       "rank": 24,
@@ -561,14 +625,6 @@
       "onboard_time": 1690553320,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301608,
-      "num": 301608,
-      "word": "肖战请剧组喝饮料",
-      "onboard_time": 1690597954,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 296423,
@@ -619,6 +675,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 276429,
+      "num": 276429,
+      "word": "下饭神番",
+      "onboard_time": 1690597354,
+      "rank": 42,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 275198,
       "num": 177673,
       "word": "韩剧恶鬼",
@@ -627,27 +691,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275126,
-      "num": 275126,
-      "word": "曾黎吃着碗里看着锅里的",
-      "onboard_time": 1690597354,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 268811,
       "num": 268811,
       "word": "如果是殷郊捡到妲己",
       "onboard_time": 1690592913,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 267858,
-      "num": 267858,
-      "word": "忽然明白蛊虫怎么那么快就种成了",
-      "onboard_time": 1690597832,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -683,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254853,
+      "num": 254853,
+      "word": "封神美男",
+      "onboard_time": 1690598617,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253470,
       "num": 253470,
       "word": "叶兴城是孙兴2.0吧",
@@ -697,14 +753,6 @@
       "onboard_time": 1690587685,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250012,
-      "num": 250012,
-      "word": "台风一级响应调整为暴雨一级响应",
-      "onboard_time": 1690597896,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248272,
@@ -827,12 +875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206619,
-      "num": 206619,
-      "word": "下饭神番",
-      "onboard_time": 1690597354,
-      "rank": 42,
-      "category": "动漫,影视"
+      "raw_hot": 201614,
+      "num": 194410,
+      "word": "封神质子选角首要条件是野性",
+      "onboard_time": 1690599995,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 200441,
@@ -859,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195102,
+      "num": 195102,
+      "word": "台风一路北上10余省份将有暴雨",
+      "onboard_time": 1690600298,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194804,
       "num": 188108,
       "word": "水星感觉就很薛之谦",
@@ -873,6 +929,14 @@
       "onboard_time": 1690553676,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193670,
+      "num": 193670,
+      "word": "成都大运会中国首金",
+      "onboard_time": 1690599456,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193629,
@@ -953,6 +1017,14 @@
       "onboard_time": 1690550234,
       "rank": 37,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 155749,
+      "num": 180599,
+      "word": "儿子坐离世父亲车哭得撕心裂肺",
+      "onboard_time": 1690600298,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151154,
@@ -1144,6 +1216,14 @@
       "word": "成都大运会今日开幕",
       "onboard_time": 1690530814,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16647,
+      "num": 876873,
+      "word": "微观大运会",
+      "onboard_time": 1690600115,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
