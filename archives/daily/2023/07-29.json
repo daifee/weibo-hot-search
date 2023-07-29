@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690636664293,
+  "endTime": 1690637620962,
   "band_list": [
     {
       "raw_hot": 3645453,
@@ -33,6 +33,14 @@
       "onboard_time": 1690597954,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2642975,
+      "num": 2642975,
+      "word": "迪丽热巴你好星期六跳舞",
+      "onboard_time": 1690635453,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2626973,
@@ -97,14 +105,6 @@
       "onboard_time": 1690629571,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1778438,
-      "num": 1778438,
-      "word": "迪丽热巴你好星期六跳舞",
-      "onboard_time": 1690635453,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1768286,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1093220,
+      "num": 1093220,
+      "word": "小夭走了相柳他急了",
+      "onboard_time": 1690633711,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1078034,
       "num": 1078034,
       "word": "邓超四度缺席鹿晗演唱会",
@@ -233,6 +241,14 @@
       "onboard_time": 1690613432,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1050222,
+      "num": 1050222,
+      "word": "大黄救过TES的命吗",
+      "onboard_time": 1690636055,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 1048844,
@@ -328,14 +344,6 @@
       "word": "长相思",
       "onboard_time": 1690555302,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 937330,
-      "num": 930297,
-      "word": "小夭走了相柳他急了",
-      "onboard_time": 1690633711,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -755,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 576007,
+      "num": 489839,
+      "word": "虞书欣非诚勿扰3杀青",
+      "onboard_time": 1690635812,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575288,
       "num": 575288,
       "word": "杨紫张晚意情头",
@@ -795,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 557362,
+      "num": 557362,
+      "word": "长相思新副本",
+      "onboard_time": 1690633232,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 556017,
       "num": 556017,
       "word": "黄磊张艺兴聊婚姻",
@@ -811,27 +835,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549826,
+      "num": 335146,
+      "word": "为什么去泰国旅游的人越来越少了",
+      "onboard_time": 1690636776,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 545203,
       "num": 340613,
       "word": "张子枫瘦好多",
       "onboard_time": 1690540712,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 543395,
-      "num": 543395,
-      "word": "大黄救过TES的命吗",
-      "onboard_time": 1690636055,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 541119,
-      "num": 535862,
-      "word": "长相思新副本",
-      "onboard_time": 1690633232,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -953,14 +969,6 @@
       "onboard_time": 1690603297,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489839,
-      "num": 489839,
-      "word": "虞书欣非诚勿扰3杀青",
-      "onboard_time": 1690635812,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 488312,
@@ -1179,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397753,
+      "num": 325110,
+      "word": "大宋少年志",
+      "onboard_time": 1690634251,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395701,
       "num": 395701,
       "word": "台风一级响应调整为暴雨一级响应",
@@ -1283,14 +1299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 369295,
-      "num": 267567,
-      "word": "大宋少年志",
-      "onboard_time": 1690634251,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 367122,
       "num": 336832,
       "word": "封神",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1690608391,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344187,
+      "num": 255710,
+      "word": "看什么病挂什么科",
+      "onboard_time": 1690636593,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 343258,
@@ -1500,7 +1516,7 @@
     },
     {
       "raw_hot": 300349,
-      "num": 242673,
+      "num": 248964,
       "word": "全国剧粉放狠话追莲花楼",
       "onboard_time": 1690634074,
       "rank": 35,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1690601375,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289459,
+      "num": 209987,
+      "word": "谭松韵钟楚曦看毛不易演唱会",
+      "onboard_time": 1690636593,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 289082,
@@ -1707,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260919,
+      "num": 204464,
+      "word": "内娱男明星的证件照",
+      "onboard_time": 1690637498,
+      "rank": 42,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 260382,
       "num": 260382,
       "word": "于文文说彭于晏也可以发福",
@@ -1787,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244643,
+      "num": 202917,
+      "word": "张大大直播",
+      "onboard_time": 1690637498,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244224,
       "num": 239395,
       "word": "10月KPOP的回归阵容",
@@ -1851,20 +1891,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229261,
+      "num": 229261,
+      "word": "zika",
+      "onboard_time": 1690635875,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227131,
       "num": 216172,
       "word": "导演说希望向往的生活继续走下去",
       "onboard_time": 1690552958,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226566,
-      "num": 226566,
-      "word": "zika",
-      "onboard_time": 1690635875,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 224233,
@@ -1955,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201767,
+      "num": 210001,
+      "word": "冒泡赛",
+      "onboard_time": 1690636233,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201614,
       "num": 201615,
       "word": "封神质子选角首要条件是野性",
@@ -1971,36 +2019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200395,
-      "num": 209987,
-      "word": "谭松韵钟楚曦看毛不易演唱会",
-      "onboard_time": 1690636593,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 200358,
       "num": 200358,
       "word": "周深天花板级打样舞台人是",
       "onboard_time": 1690614996,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199483,
-      "num": 209981,
-      "word": "看什么病挂什么科",
-      "onboard_time": 1690636593,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 199477,
-      "num": 210001,
-      "word": "冒泡赛",
-      "onboard_time": 1690636233,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 198607,
@@ -2193,6 +2217,14 @@
       "onboard_time": 1690620159,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173153,
+      "num": 201766,
+      "word": "申花",
+      "onboard_time": 1690637315,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 171959,

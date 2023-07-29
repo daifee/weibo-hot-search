@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690636664293,
+  "endTime": 1690637620962,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -329,6 +329,14 @@
       "onboard_time": 1690188874,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2642975,
+      "num": 2642975,
+      "word": "迪丽热巴你好星期六跳舞",
+      "onboard_time": 1690635453,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2626973,
@@ -825,14 +833,6 @@
       "onboard_time": 1690540712,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1778438,
-      "num": 1778438,
-      "word": "迪丽热巴你好星期六跳舞",
-      "onboard_time": 1690635453,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1775377,
@@ -2075,6 +2075,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1093220,
+      "num": 1093220,
+      "word": "小夭走了相柳他急了",
+      "onboard_time": 1690633711,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1092662,
       "num": 1092662,
       "word": "莲花楼首播反响",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1690539095,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1050222,
+      "num": 1050222,
+      "word": "大黄救过TES的命吗",
+      "onboard_time": 1690636055,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 1049819,
@@ -2593,14 +2609,6 @@
       "onboard_time": 1690416271,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 937330,
-      "num": 930297,
-      "word": "小夭走了相柳他急了",
-      "onboard_time": 1690633711,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 936182,
@@ -5123,6 +5131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 576007,
+      "num": 489839,
+      "word": "虞书欣非诚勿扰3杀青",
+      "onboard_time": 1690635812,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575978,
       "num": 575978,
       "word": "看出来张晚意真的很急",
@@ -5331,6 +5347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557362,
+      "num": 557362,
+      "word": "长相思新副本",
+      "onboard_time": 1690633232,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 556059,
       "num": 556059,
       "word": "jiejie 蝎子",
@@ -5403,6 +5427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 549826,
+      "num": 335146,
+      "word": "为什么去泰国旅游的人越来越少了",
+      "onboard_time": 1690636776,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 549766,
       "num": 413480,
       "word": "暧昧对象的下头瞬间",
@@ -5443,14 +5475,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 543395,
-      "num": 543395,
-      "word": "大黄救过TES的命吗",
-      "onboard_time": 1690636055,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 543064,
       "num": 543064,
       "word": "魏大勋后援会回应戏份被删",
@@ -5488,14 +5512,6 @@
       "word": "奥本海默内地定档",
       "onboard_time": 1690271197,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 541119,
-      "num": 535862,
-      "word": "长相思新副本",
-      "onboard_time": 1690633232,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -6089,14 +6105,6 @@
       "onboard_time": 1690267539,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489839,
-      "num": 489839,
-      "word": "虞书欣非诚勿扰3杀青",
-      "onboard_time": 1690635812,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 489228,
@@ -8395,6 +8403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344187,
+      "num": 255710,
+      "word": "看什么病挂什么科",
+      "onboard_time": 1690636593,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 343690,
       "num": 343690,
       "word": "鸳鸯妈你发现没少了只崽",
@@ -9364,7 +9380,7 @@
     },
     {
       "raw_hot": 300349,
-      "num": 242673,
+      "num": 248964,
       "word": "全国剧粉放狠话追莲花楼",
       "onboard_time": 1690634074,
       "rank": 35,
@@ -9633,6 +9649,14 @@
       "onboard_time": 1690438714,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289459,
+      "num": 209987,
+      "word": "谭松韵钟楚曦看毛不易演唱会",
+      "onboard_time": 1690636593,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 289294,
@@ -10323,6 +10347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260919,
+      "num": 204464,
+      "word": "内娱男明星的证件照",
+      "onboard_time": 1690637498,
+      "rank": 42,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 260382,
       "num": 260382,
       "word": "于文文说彭于晏也可以发福",
@@ -10689,6 +10721,14 @@
       "onboard_time": 1690513059,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244643,
+      "num": 202917,
+      "word": "张大大直播",
+      "onboard_time": 1690637498,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 244434,
@@ -11083,6 +11123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229261,
+      "num": 229261,
+      "word": "zika",
+      "onboard_time": 1690635875,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229184,
       "num": 229184,
       "word": "巴黎圣日耳曼vs利雅得胜利",
@@ -11185,14 +11233,6 @@
       "onboard_time": 1690363307,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 226566,
-      "num": 226566,
-      "word": "zika",
-      "onboard_time": 1690635875,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 226527,
@@ -11979,14 +12019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200395,
-      "num": 209987,
-      "word": "谭松韵钟楚曦看毛不易演唱会",
-      "onboard_time": 1690636593,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 200378,
       "num": 204786,
       "word": "岳云鹏谈热烈",
@@ -12041,14 +12073,6 @@
       "onboard_time": 1690523978,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199483,
-      "num": 209981,
-      "word": "看什么病挂什么科",
-      "onboard_time": 1690636593,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 198685,
@@ -12841,6 +12865,14 @@
       "onboard_time": 1690358556,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173153,
+      "num": 201766,
+      "word": "申花",
+      "onboard_time": 1690637315,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 173143,
