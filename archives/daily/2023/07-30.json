@@ -1,6 +1,6 @@
 {
   "startTime": 1690647590599,
-  "endTime": 1690657954435,
+  "endTime": 1690659221487,
   "band_list": [
     {
       "raw_hot": 1769832,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66201,
+      "num": 78356,
+      "word": "A股",
+      "onboard_time": 1690656136,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65840,
       "num": 128230,
       "word": "XYG零封TES",
@@ -507,12 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 52108,
-      "num": 52108,
-      "word": "A股",
-      "onboard_time": 1690656136,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 41324,
+      "num": 41324,
+      "word": "业内人士谈车队进罗布泊3死1失联",
+      "onboard_time": 1690656618,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40846,
@@ -521,14 +529,6 @@
       "onboard_time": 1690638696,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32512,
-      "num": 38825,
-      "word": "业内人士谈车队进罗布泊3死1失联",
-      "onboard_time": 1690656618,
-      "rank": 45,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
