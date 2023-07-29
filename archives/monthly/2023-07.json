@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690616035457,
+  "endTime": 1690618727595,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1785,6 +1785,14 @@
       "onboard_time": 1689912815,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2553528,
+      "num": 542807,
+      "word": "宋祖儿为配字不当道歉",
+      "onboard_time": 1690616796,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2543931,
@@ -7465,6 +7473,14 @@
       "onboard_time": 1690466318,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1252034,
+      "num": 1252034,
+      "word": "我的人间烟火被删掉的滑板戏",
+      "onboard_time": 1690615117,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1251948,
@@ -14267,6 +14283,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 827655,
+      "num": 827655,
+      "word": "杨幂八字没一撇演唱会海报",
+      "onboard_time": 1690614575,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 827644,
       "num": 827644,
       "word": "胡锡进 宝格丽致歉已是正义的胜利",
@@ -15033,6 +15057,14 @@
       "onboard_time": 1688294734,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 800454,
+      "num": 800454,
+      "word": "父母不懂英语从县城出国看女儿",
+      "onboard_time": 1690614878,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 800107,
@@ -17825,14 +17857,6 @@
       "onboard_time": 1689474451,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699763,
-      "num": 699763,
-      "word": "杨幂八字没一撇演唱会海报",
-      "onboard_time": 1690614575,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 699726,
@@ -25715,14 +25739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 517116,
-      "num": 517116,
-      "word": "我的人间烟火被删掉的滑板戏",
-      "onboard_time": 1690615117,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 516458,
       "num": 445302,
       "word": "易烊千玺王传君同框照",
@@ -31915,14 +31931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 423831,
-      "num": 734519,
-      "word": "父母不懂英语从县城出国看女儿",
-      "onboard_time": 1690614878,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423816,
       "num": 423816,
       "word": "宋慧乔青龙奖大赏",
@@ -32633,6 +32641,14 @@
       "onboard_time": 1690030413,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 413504,
+      "num": 355325,
+      "word": "鹿晗鸡哔你",
+      "onboard_time": 1690617874,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 413426,
@@ -37571,6 +37587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354125,
+      "num": 354125,
+      "word": "吴所谓叮嘱弟弟看电影要遵守纪律",
+      "onboard_time": 1690616435,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354039,
       "num": 282252,
       "word": "刘学义拿杯的手",
@@ -38009,6 +38033,14 @@
       "onboard_time": 1689203122,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349890,
+      "num": 349890,
+      "word": "出国之后逐渐变得自信了",
+      "onboard_time": 1690615833,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 349759,
@@ -41353,6 +41385,14 @@
       "onboard_time": 1689592892,
       "rank": 32,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 313748,
+      "num": 313748,
+      "word": "邓超四度缺席鹿晗演唱会",
+      "onboard_time": 1690618354,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 313620,
@@ -47675,6 +47715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264276,
+      "num": 264276,
+      "word": "谢娜乘风最后一支vlog",
+      "onboard_time": 1690618115,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264106,
       "num": 264106,
       "word": "谢娜旗袍劈叉",
@@ -52531,6 +52579,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 228077,
+      "num": 228077,
+      "word": "仿佛看到了i人的晚年",
+      "onboard_time": 1690614395,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228056,
       "num": 228056,
       "word": "爸爸给我买的玩具转动了十五年",
@@ -52984,6 +53040,14 @@
       "word": "内娱有效播剧的演员",
       "onboard_time": 1688835564,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 225078,
+      "num": 205649,
+      "word": "长相思组合连连看",
+      "onboard_time": 1690615776,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -56225,14 +56289,6 @@
       "onboard_time": 1689602134,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 205649,
-      "num": 205649,
-      "word": "长相思组合连连看",
-      "onboard_time": 1690615776,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 205608,
@@ -59931,6 +59987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186940,
+      "num": 186940,
+      "word": "武汉eStarPro来CJ啦",
+      "onboard_time": 1690618115,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186902,
       "num": 186902,
       "word": "eStar对战TTG",
@@ -61947,6 +62011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171959,
+      "num": 171959,
+      "word": "想知道吴京的日记本都写了什么",
+      "onboard_time": 1690617216,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171922,
       "num": 195257,
       "word": "周一哪有不疯的人",
@@ -62513,14 +62585,6 @@
       "onboard_time": 1689963137,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167252,
-      "num": 198699,
-      "word": "仿佛看到了i人的晚年",
-      "onboard_time": 1690614395,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 167190,
@@ -64803,14 +64867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135066,
-      "num": 192673,
-      "word": "出国之后逐渐变得自信了",
-      "onboard_time": 1690615833,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134999,
       "num": 134999,
       "word": "装扮成狮子的小金毛宝宝",
@@ -67027,6 +67083,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 82761,
+      "num": 1237120,
+      "word": "成都大运会最全观赛指南",
+      "onboard_time": 1690615175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82759,
       "num": 109092,
       "word": "时代峰峻回应左航健康问题",
@@ -68075,14 +68139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46641,
-      "num": 1237120,
-      "word": "成都大运会最全观赛指南",
-      "onboard_time": 1690615175,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45928,
       "num": 51938,
       "word": "UP对战TES",
@@ -68369,6 +68425,14 @@
       "onboard_time": 1688495835,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36013,
+      "num": 415040,
+      "word": "记录你的热爱",
+      "onboard_time": 1690617632,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 35631,

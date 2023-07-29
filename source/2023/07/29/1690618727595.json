@@ -1,0 +1,410 @@
+{
+  "runTime": 1690618727595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2138960,
+        "num": 2138960,
+        "word": "蜜雪冰城阴阳怪气瑞幸",
+        "onboard_time": 1690609054,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1252034,
+        "num": 1252034,
+        "word": "我的人间烟火被删掉的滑板戏",
+        "onboard_time": 1690615117,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82761,
+        "num": 1012611,
+        "word": "成都大运会最全观赛指南",
+        "onboard_time": 1690615175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925616,
+        "num": 925616,
+        "word": "山泥若出狱",
+        "onboard_time": 1690613854,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 827655,
+        "num": 827655,
+        "word": "杨幂八字没一撇演唱会海报",
+        "onboard_time": 1690614575,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1402354,
+        "num": 818659,
+        "word": "我选择丁克后妈妈的变化",
+        "onboard_time": 1690612655,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 800454,
+        "num": 800454,
+        "word": "父母不懂英语从县城出国看女儿",
+        "onboard_time": 1690614878,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643758,
+        "num": 643758,
+        "word": "突然意识到点外卖有多贵",
+        "onboard_time": 1690606898,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 558219,
+        "num": 558219,
+        "word": "山泥若",
+        "onboard_time": 1690613195,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 406286,
+        "num": 543562,
+        "word": "拜登承认其儿子私生女是孙女",
+        "onboard_time": 1690597954,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2553528,
+        "num": 542807,
+        "word": "宋祖儿为配字不当道歉",
+        "onboard_time": 1690616796,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789375,
+        "num": 542566,
+        "word": "打于正耳光的演员沈泰也出演了长相思",
+        "onboard_time": 1690613432,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541846,
+        "num": 541846,
+        "word": "刘宇宁连续五年悼念去世粉丝",
+        "onboard_time": 1690610915,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415404,
+        "num": 415404,
+        "word": "大鹏说把片酬给邓超了",
+        "onboard_time": 1690607974,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36013,
+        "num": 415040,
+        "word": "记录你的热爱",
+        "onboard_time": 1690617632,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415007,
+        "num": 415007,
+        "word": "孙俪为甄嬛发声",
+        "onboard_time": 1690603178,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402401,
+        "num": 402401,
+        "word": "杨紫张晚意情头",
+        "onboard_time": 1690612114,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359654,
+        "num": 359654,
+        "word": "内娱不可模仿的成功",
+        "onboard_time": 1690610796,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320989,
+        "num": 359381,
+        "word": "台风杜苏芮北上",
+        "onboard_time": 1690608391,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230142,
+        "num": 357836,
+        "word": "河北发生天然气爆燃事故致2死2伤",
+        "onboard_time": 1690612233,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415837,
+        "num": 356181,
+        "word": "老公要在新家装120个插座",
+        "onboard_time": 1690613735,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413504,
+        "num": 355325,
+        "word": "鹿晗鸡哔你",
+        "onboard_time": 1690617874,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354125,
+        "num": 354125,
+        "word": "吴所谓叮嘱弟弟看电影要遵守纪律",
+        "onboard_time": 1690616435,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349890,
+        "num": 349890,
+        "word": "出国之后逐渐变得自信了",
+        "onboard_time": 1690615833,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317010,
+        "num": 317010,
+        "word": "操心封神票房",
+        "onboard_time": 1690600298,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313748,
+        "num": 313748,
+        "word": "邓超四度缺席鹿晗演唱会",
+        "onboard_time": 1690618354,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291074,
+        "num": 291074,
+        "word": "为什么现在的学生不扎高马尾了",
+        "onboard_time": 1690605335,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280148,
+        "num": 280148,
+        "word": "李一桐多巴胺芭比妆",
+        "onboard_time": 1690613854,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198948,
+        "num": 277593,
+        "word": "北京暴雨",
+        "onboard_time": 1690601018,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178914,
+        "num": 276086,
+        "word": "两位小朋友为避车摔倒的我打抱不平",
+        "onboard_time": 1690609655,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 275489,
+        "num": 275489,
+        "word": "涂山璟 破防男",
+        "onboard_time": 1690599757,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273685,
+        "num": 273685,
+        "word": "封神妲己为两分钟舞蹈练了两年",
+        "onboard_time": 1690602577,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264971,
+        "num": 264971,
+        "word": "鹿晗上海站耳返海报都是绿色",
+        "onboard_time": 1690614155,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264276,
+        "num": 264276,
+        "word": "谢娜乘风最后一支vlog",
+        "onboard_time": 1690618115,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236116,
+        "num": 246271,
+        "word": "28岁真是个分水岭",
+        "onboard_time": 1690601133,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239183,
+        "num": 239183,
+        "word": "封神",
+        "onboard_time": 1690607733,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237994,
+        "num": 237994,
+        "word": "人民文娱评电视剧莲花楼",
+        "onboard_time": 1690610555,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228077,
+        "num": 228077,
+        "word": "仿佛看到了i人的晚年",
+        "onboard_time": 1690614395,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189951,
+        "num": 189951,
+        "word": "Uzi直播",
+        "onboard_time": 1690602334,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151528,
+        "num": 189671,
+        "word": "台风一级响应调整为暴雨一级响应",
+        "onboard_time": 1690597896,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236708,
+        "num": 188928,
+        "word": "魏大勋红了真好",
+        "onboard_time": 1690594472,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231602,
+        "num": 188597,
+        "word": "封神质子101",
+        "onboard_time": 1690597172,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225078,
+        "num": 187854,
+        "word": "长相思组合连连看",
+        "onboard_time": 1690615776,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223347,
+        "num": 187374,
+        "word": "你们通知汪苏泷本人了吗",
+        "onboard_time": 1690611875,
+        "rank": 43,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 186940,
+        "num": 186940,
+        "word": "武汉eStarPro来CJ啦",
+        "onboard_time": 1690618115,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171959,
+        "num": 171959,
+        "word": "想知道吴京的日记本都写了什么",
+        "onboard_time": 1690617216,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169544,
+        "num": 169544,
+        "word": "胡军包场支持王一博王宝强于适新电影",
+        "onboard_time": 1690611995,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167515,
+        "num": 167515,
+        "word": "年度最佳猫咪",
+        "onboard_time": 1690609832,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114016,
+        "num": 165650,
+        "word": "男子无视部队劝阻破坏军婚获刑一年",
+        "onboard_time": 1690596092,
+        "rank": 48,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 103114,
+        "num": 165635,
+        "word": "儿子坐离世父亲车哭得撕心裂肺",
+        "onboard_time": 1690600298,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布大运会正式开幕#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1690129235576,
-  "endTime": 1690616035457,
+  "endTime": 1690618727595,
   "band_list": [
     {
       "raw_hot": 18608026,
@@ -329,6 +329,14 @@
       "onboard_time": 1690461575,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2553528,
+      "num": 542807,
+      "word": "宋祖儿为配字不当道歉",
+      "onboard_time": 1690616796,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2523818,
@@ -1633,6 +1641,14 @@
       "onboard_time": 1690466318,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1252034,
+      "num": 1252034,
+      "word": "我的人间烟火被删掉的滑板戏",
+      "onboard_time": 1690615117,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1244427,
@@ -2995,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827655,
+      "num": 827655,
+      "word": "杨幂八字没一撇演唱会海报",
+      "onboard_time": 1690614575,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 826650,
       "num": 826650,
       "word": "魏大勋也很想留住这批观众吧",
@@ -3129,6 +3153,14 @@
       "onboard_time": 1690265263,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 800454,
+      "num": 800454,
+      "word": "父母不懂英语从县城出国看女儿",
+      "onboard_time": 1690614878,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 794805,
@@ -3793,14 +3825,6 @@
       "onboard_time": 1690594353,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 699763,
-      "num": 699763,
-      "word": "杨幂八字没一撇演唱会海报",
-      "onboard_time": 1690614575,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 698164,
@@ -5411,14 +5435,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 517116,
-      "num": 517116,
-      "word": "我的人间烟火被删掉的滑板戏",
-      "onboard_time": 1690615117,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 516458,
       "num": 445302,
       "word": "易烊千玺王传君同框照",
@@ -6755,14 +6771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 423831,
-      "num": 734519,
-      "word": "父母不懂英语从县城出国看女儿",
-      "onboard_time": 1690614878,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423583,
       "num": 423583,
       "word": "赵寻 林阚",
@@ -6881,6 +6889,14 @@
       "onboard_time": 1690189775,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413504,
+      "num": 355325,
+      "word": "鹿晗鸡哔你",
+      "onboard_time": 1690617874,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 413308,
@@ -7779,6 +7795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354125,
+      "num": 354125,
+      "word": "吴所谓叮嘱弟弟看电影要遵守纪律",
+      "onboard_time": 1690616435,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353989,
       "num": 353989,
       "word": "i人喜欢独处的真实原因",
@@ -7881,6 +7905,14 @@
       "onboard_time": 1690176576,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 349890,
+      "num": 349890,
+      "word": "出国之后逐渐变得自信了",
+      "onboard_time": 1690615833,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 348163,
@@ -8601,6 +8633,14 @@
       "onboard_time": 1690165891,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313748,
+      "num": 313748,
+      "word": "邓超四度缺席鹿晗演唱会",
+      "onboard_time": 1690618354,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 312973,
@@ -9739,6 +9779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264276,
+      "num": 264276,
+      "word": "谢娜乘风最后一支vlog",
+      "onboard_time": 1690618115,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262885,
       "num": 262885,
       "word": "罗云熙和Doinb双排",
@@ -10571,6 +10619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228077,
+      "num": 228077,
+      "word": "仿佛看到了i人的晚年",
+      "onboard_time": 1690614395,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228023,
       "num": 228023,
       "word": "云南菌子才是最省钱的VR技术",
@@ -10673,6 +10729,14 @@
       "onboard_time": 1690169137,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225078,
+      "num": 205649,
+      "word": "长相思组合连连看",
+      "onboard_time": 1690615776,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 224233,
@@ -11176,14 +11240,6 @@
       "word": "长相思 见面会",
       "onboard_time": 1690282720,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 205649,
-      "num": 205649,
-      "word": "长相思组合连连看",
-      "onboard_time": 1690615776,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -11963,6 +12019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 186940,
+      "num": 186940,
+      "word": "武汉eStarPro来CJ啦",
+      "onboard_time": 1690618115,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186770,
       "num": 186770,
       "word": "迈阿密国际vs亚特兰大联",
@@ -12267,6 +12331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171959,
+      "num": 171959,
+      "word": "想知道吴京的日记本都写了什么",
+      "onboard_time": 1690617216,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171922,
       "num": 195257,
       "word": "周一哪有不疯的人",
@@ -12361,14 +12433,6 @@
       "onboard_time": 1690339411,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167252,
-      "num": 198699,
-      "word": "仿佛看到了i人的晚年",
-      "onboard_time": 1690614395,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 167190,
@@ -12681,14 +12745,6 @@
       "onboard_time": 1690111532,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135066,
-      "num": 192673,
-      "word": "出国之后逐渐变得自信了",
-      "onboard_time": 1690615833,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 134863,
@@ -13179,6 +13235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82761,
+      "num": 1237120,
+      "word": "成都大运会最全观赛指南",
+      "onboard_time": 1690615175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82268,
       "num": 520757,
       "word": "车圈史上最难高考",
@@ -13347,14 +13411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46641,
-      "num": 1237120,
-      "word": "成都大运会最全观赛指南",
-      "onboard_time": 1690615175,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43878,
       "num": 481615,
       "word": "说唱巅峰对决后劲太强",
@@ -13384,6 +13440,14 @@
       "word": "Rookie妖姬超神",
       "onboard_time": 1690225754,
       "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 36013,
+      "num": 415040,
+      "word": "记录你的热爱",
+      "onboard_time": 1690617632,
+      "rank": 14,
       "category": "游戏"
     },
     {
