@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690605231448,
+  "endTime": 1690607691334,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1403,6 +1403,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2818359,
+      "num": 2818359,
+      "word": "孙俪为甄嬛发声",
+      "onboard_time": 1690603178,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2815848,
       "num": 2815848,
       "word": "微信已把帐号改为账号",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1688649035,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2717522,
-      "num": 2717522,
-      "word": "孙俪为甄嬛发声",
-      "onboard_time": 1690603178,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2709059,
@@ -20395,6 +20395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 633278,
+      "num": 505397,
+      "word": "以为姬发真的要露屁股",
+      "onboard_time": 1690603956,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 633204,
       "num": 633204,
       "word": "许沁看灭火器vs王宝钏看野菜",
@@ -20961,6 +20969,14 @@
       "onboard_time": 1689082057,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 619143,
+      "num": 619143,
+      "word": "泉州高龄产妇台风天诞下3斤男婴",
+      "onboard_time": 1690604557,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 618917,
@@ -24843,14 +24859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 531280,
-      "num": 505397,
-      "word": "以为姬发真的要露屁股",
-      "onboard_time": 1690603956,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 530964,
       "num": 438209,
       "word": "长相思2023热度最快破28000",
@@ -26811,6 +26819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 494674,
+      "num": 448493,
+      "word": "突然意识到点外卖有多贵",
+      "onboard_time": 1690606898,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 494586,
       "num": 449756,
       "word": "为什么平板比手机便宜",
@@ -26961,6 +26977,14 @@
       "onboard_time": 1689070119,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 492565,
+      "num": 448439,
+      "word": "热带低压杜苏芮停止编号",
+      "onboard_time": 1690603297,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492543,
@@ -29707,6 +29731,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 449856,
+      "num": 361744,
+      "word": "夭玹早已有床戏",
+      "onboard_time": 1690602215,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449819,
       "num": 449819,
       "word": "结婚的好处是什么",
@@ -30315,6 +30347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440309,
+      "num": 326449,
+      "word": "为什么现在的学生不扎高马尾了",
+      "onboard_time": 1690605335,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 440224,
       "num": 440224,
       "word": "Rookie",
@@ -30656,14 +30696,6 @@
       "word": "长相思好好看",
       "onboard_time": 1690213417,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 436898,
-      "num": 361744,
-      "word": "夭玹早已有床戏",
-      "onboard_time": 1690602215,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -31779,6 +31811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423053,
+      "num": 423053,
+      "word": "种地吧",
+      "onboard_time": 1688195491,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423031,
       "num": 423031,
       "word": "长安三万里 李白",
@@ -32817,6 +32857,14 @@
       "onboard_time": 1688895692,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407963,
+      "num": 356122,
+      "word": "封神妲己为两分钟舞蹈练了两年",
+      "onboard_time": 1690602577,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 407481,
@@ -34219,6 +34267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 389580,
+      "num": 320075,
+      "word": "张新成周雨彤情头",
+      "onboard_time": 1690607135,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389471,
       "num": 389471,
       "word": "迪丽热巴龚俊安乐传情头",
@@ -35065,14 +35121,6 @@
       "onboard_time": 1688990009,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380458,
-      "num": 356122,
-      "word": "封神妲己为两分钟舞蹈练了两年",
-      "onboard_time": 1690602577,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 380306,
@@ -36451,14 +36499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363655,
-      "num": 363655,
-      "word": "热带低压杜苏芮停止编号",
-      "onboard_time": 1690603297,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363639,
       "num": 363639,
       "word": "newjeans见面会",
@@ -36641,14 +36681,6 @@
       "onboard_time": 1690332399,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 361320,
-      "num": 361320,
-      "word": "种地吧",
-      "onboard_time": 1688195491,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 361266,
@@ -42643,6 +42675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300285,
+      "num": 300285,
+      "word": "易烊千玺雪豹三连问",
+      "onboard_time": 1690604977,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300251,
       "num": 361042,
       "word": "红楼梦最著名的茄子到底多好吃",
@@ -44097,6 +44137,14 @@
       "onboard_time": 1688303497,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289952,
+      "num": 289952,
+      "word": "王彦霖晒与老婆合照",
+      "onboard_time": 1690606776,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 289947,
@@ -50379,6 +50427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241531,
+      "num": 241531,
+      "word": "长相思女性思想",
+      "onboard_time": 1690605575,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241507,
       "num": 241507,
       "word": "上海百年老房里的馄饨火了近40年",
@@ -53675,14 +53731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218733,
-      "num": 218733,
-      "word": "易烊千玺雪豹三连问",
-      "onboard_time": 1690604977,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218710,
       "num": 218710,
       "word": "徐穗珍开通ins",
@@ -55923,14 +55971,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 205658,
-      "num": 219417,
-      "word": "泉州高龄产妇台风天诞下3斤男婴",
-      "onboard_time": 1690604557,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205608,
       "num": 205608,
       "word": "NMIXX回归新歌PartyOClock",
@@ -56185,6 +56225,14 @@
       "onboard_time": 1688909612,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204409,
+      "num": 204409,
+      "word": "全员加速中组队剧透",
+      "onboard_time": 1690607496,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 204394,
@@ -56497,6 +56545,14 @@
       "onboard_time": 1690450177,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202513,
+      "num": 202513,
+      "word": "朴宰范宁艺卓新歌全球首秀",
+      "onboard_time": 1690607374,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 202468,
@@ -65635,6 +65691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106018,
+      "num": 212048,
+      "word": "Chinajoy皮裤天团",
+      "onboard_time": 1690607496,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 105937,
       "num": 105937,
       "word": "Angelababy豹纹露腰背心",
@@ -66547,6 +66611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84867,
+      "num": 1285255,
+      "word": "微观大运会",
+      "onboard_time": 1690600115,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84762,
       "num": 616972,
       "word": "随心所爱舞台蹦迪现场",
@@ -66961,14 +67033,6 @@
       "onboard_time": 1690051216,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 73656,
-      "num": 1285255,
-      "word": "微观大运会",
-      "onboard_time": 1690600115,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73586,

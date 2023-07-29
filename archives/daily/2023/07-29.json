@@ -1,10 +1,10 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690605231448,
+  "endTime": 1690607691334,
   "band_list": [
     {
-      "raw_hot": 2717522,
-      "num": 2717522,
+      "raw_hot": 2818359,
+      "num": 2818359,
       "word": "孙俪为甄嬛发声",
       "onboard_time": 1690603178,
       "rank": 0,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633278,
+      "num": 505397,
+      "word": "以为姬发真的要露屁股",
+      "onboard_time": 1690603956,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 624264,
       "num": 464371,
       "word": "台风杜苏芮最新位置",
@@ -304,6 +312,14 @@
       "word": "和男友吵架后24岁姑娘胸痛了3天",
       "onboard_time": 1690559914,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619143,
+      "num": 619143,
+      "word": "泉州高龄产妇台风天诞下3斤男婴",
+      "onboard_time": 1690604557,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -360,14 +376,6 @@
       "word": "张子枫瘦好多",
       "onboard_time": 1690540712,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 531280,
-      "num": 505397,
-      "word": "以为姬发真的要露屁股",
-      "onboard_time": 1690603956,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -459,6 +467,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 494674,
+      "num": 448493,
+      "word": "突然意识到点外卖有多贵",
+      "onboard_time": 1690606898,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 492565,
+      "num": 448439,
+      "word": "热带低压杜苏芮停止编号",
+      "onboard_time": 1690603297,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484653,
       "num": 432761,
       "word": "福州暴雨",
@@ -475,19 +499,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449856,
+      "num": 361744,
+      "word": "夭玹早已有床戏",
+      "onboard_time": 1690602215,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 440309,
+      "num": 326449,
+      "word": "为什么现在的学生不扎高马尾了",
+      "onboard_time": 1690605335,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 437975,
       "num": 289765,
       "word": "周翊然张淼怡vs文俊辉张淼怡",
       "onboard_time": 1690559732,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 436898,
-      "num": 361744,
-      "word": "夭玹早已有床戏",
-      "onboard_time": 1690602215,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -497,6 +529,14 @@
       "onboard_time": 1690590152,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 423053,
+      "num": 423053,
+      "word": "种地吧",
+      "onboard_time": 1690605335,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 421637,
@@ -521,6 +561,14 @@
       "onboard_time": 1690597354,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407963,
+      "num": 356122,
+      "word": "封神妲己为两分钟舞蹈练了两年",
+      "onboard_time": 1690602577,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 402992,
@@ -563,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389580,
+      "num": 320075,
+      "word": "张新成周雨彤情头",
+      "onboard_time": 1690607135,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389227,
       "num": 336039,
       "word": "越来越意识到松弛感的重要性",
@@ -587,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380458,
-      "num": 356122,
-      "word": "封神妲己为两分钟舞蹈练了两年",
-      "onboard_time": 1690602577,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 378960,
       "num": 308909,
       "word": "杜苏芮已远离广东",
@@ -609,14 +657,6 @@
       "onboard_time": 1690595372,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363655,
-      "num": 363655,
-      "word": "热带低压杜苏芮停止编号",
-      "onboard_time": 1690603297,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352720,
@@ -723,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300285,
+      "num": 300285,
+      "word": "易烊千玺雪豹三连问",
+      "onboard_time": 1690604977,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296423,
       "num": 296423,
       "word": "室温超导",
@@ -753,6 +801,14 @@
       "onboard_time": 1690601375,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289952,
+      "num": 289952,
+      "word": "王彦霖晒与老婆合照",
+      "onboard_time": 1690606776,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 289082,
@@ -923,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241531,
+      "num": 241531,
+      "word": "长相思女性思想",
+      "onboard_time": 1690605575,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240686,
       "num": 146385,
       "word": "月光蟑螂",
@@ -969,14 +1033,6 @@
       "onboard_time": 1690600896,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218733,
-      "num": 218733,
-      "word": "易烊千玺雪豹三连问",
-      "onboard_time": 1690604977,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 217778,
@@ -1027,12 +1083,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205658,
-      "num": 219417,
-      "word": "泉州高龄产妇台风天诞下3斤男婴",
-      "onboard_time": 1690604557,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 204409,
+      "num": 204409,
+      "word": "全员加速中组队剧透",
+      "onboard_time": 1690607496,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202513,
+      "num": 202513,
+      "word": "朴宰范宁艺卓新歌全球首秀",
+      "onboard_time": 1690607374,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 201614,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1690561470,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194708,
+      "num": 202510,
+      "word": "光与夜之恋",
+      "onboard_time": 1690607135,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 193934,
@@ -1331,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106018,
+      "num": 212048,
+      "word": "Chinajoy皮裤天团",
+      "onboard_time": 1690607496,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 100394,
       "num": 89162,
       "word": "福州台风",
@@ -1355,7 +1435,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73656,
+      "raw_hot": 84867,
       "num": 1285255,
       "word": "微观大运会",
       "onboard_time": 1690600115,
