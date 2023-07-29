@@ -1,0 +1,410 @@
+{
+  "runTime": 1690604360535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2525004,
+        "num": 2525004,
+        "word": "孙俪为甄嬛发声",
+        "onboard_time": 1690603178,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2048269,
+        "num": 2048269,
+        "word": "拜登承认其儿子私生女是孙女",
+        "onboard_time": 1690597954,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69283,
+        "num": 1105622,
+        "word": "微观大运会",
+        "onboard_time": 1690600115,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020761,
+        "num": 1020761,
+        "word": "操心封神票房",
+        "onboard_time": 1690600298,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 698518,
+        "num": 698518,
+        "word": "北京暴雨",
+        "onboard_time": 1690601018,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661190,
+        "num": 661190,
+        "word": "男子无视部队劝阻破坏军婚获刑一年",
+        "onboard_time": 1690596092,
+        "rank": 5,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 640681,
+        "num": 640681,
+        "word": "杜苏芮将从江西移入安徽",
+        "onboard_time": 1690589129,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618985,
+        "num": 618985,
+        "word": "原著里夭柳亲了400多次",
+        "onboard_time": 1690593993,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 596556,
+        "num": 596556,
+        "word": "Uzi直播",
+        "onboard_time": 1690602334,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 523350,
+        "num": 523350,
+        "word": "台风最凶猛的暴雨倒在了福建莆田",
+        "onboard_time": 1690594957,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067343,
+        "num": 521348,
+        "word": "涂山璟 破防男",
+        "onboard_time": 1690599757,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 934086,
+        "num": 520946,
+        "word": "吉林白山一处公园内一男一女上吊身亡",
+        "onboard_time": 1690593629,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831905,
+        "num": 520759,
+        "word": "魏大勋红了真好",
+        "onboard_time": 1690594472,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518902,
+        "num": 518902,
+        "word": "黄磊说张艺兴谈恋爱了也没事",
+        "onboard_time": 1690587025,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457162,
+        "num": 457162,
+        "word": "肖战请剧组喝饮料",
+        "onboard_time": 1690597954,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456946,
+        "num": 456946,
+        "word": "忽然明白蛊虫怎么那么快就种成了",
+        "onboard_time": 1690597832,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405036,
+        "num": 405036,
+        "word": "妈妈问我洗澡为啥这么慢",
+        "onboard_time": 1690594353,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396185,
+        "num": 396185,
+        "word": "封神质子101",
+        "onboard_time": 1690597172,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379716,
+        "num": 379716,
+        "word": "台风一级响应调整为暴雨一级响应",
+        "onboard_time": 1690597896,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366961,
+        "num": 366961,
+        "word": "刘宇宁蒋俊豪",
+        "onboard_time": 1690601556,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 712292,
+        "num": 365427,
+        "word": "28岁真是个分水岭",
+        "onboard_time": 1690601133,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 496866,
+        "num": 364659,
+        "word": "儿子坐离世父亲车哭得撕心裂肺",
+        "onboard_time": 1690600298,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398659,
+        "num": 361744,
+        "word": "夭玹早已有床戏",
+        "onboard_time": 1690602215,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395720,
+        "num": 360768,
+        "word": "实习生租房一个月用水300吨",
+        "onboard_time": 1690594353,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359507,
+        "num": 359507,
+        "word": "最热的大学 最冷门的语言",
+        "onboard_time": 1690590448,
+        "rank": 24,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 358892,
+        "num": 358892,
+        "word": "台风杜苏芮最新位置",
+        "onboard_time": 1690589250,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337036,
+        "num": 337036,
+        "word": "夭玹终究是亲上了",
+        "onboard_time": 1690601916,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331354,
+        "num": 331354,
+        "word": "封神妲己为两分钟舞蹈练了两年",
+        "onboard_time": 1690602577,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329536,
+        "num": 329536,
+        "word": "杨紫回应五官乱飞",
+        "onboard_time": 1690587084,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291569,
+        "num": 291569,
+        "word": "迪丽热巴三万水狮全国异地登陆",
+        "onboard_time": 1690601375,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314484,
+        "num": 291266,
+        "word": "热带低压杜苏芮停止编号",
+        "onboard_time": 1690603297,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283439,
+        "num": 283439,
+        "word": "以为姬发真的要露屁股",
+        "onboard_time": 1690603956,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279243,
+        "num": 279243,
+        "word": "越来越意识到松弛感的重要性",
+        "onboard_time": 1690598675,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279026,
+        "num": 279026,
+        "word": "涂山璟相柳角色号打起来了",
+        "onboard_time": 1690600896,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271762,
+        "num": 271762,
+        "word": "Angelababy半辫麻花辫",
+        "onboard_time": 1690601675,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270616,
+        "num": 270616,
+        "word": "黄灿灿近照状态",
+        "onboard_time": 1690588649,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268074,
+        "num": 268074,
+        "word": "杨紫向往的生活吃了多少烤肠",
+        "onboard_time": 1690588288,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261890,
+        "num": 261890,
+        "word": "易烊千玺王传君同框照",
+        "onboard_time": 1690596574,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255201,
+        "num": 255201,
+        "word": "迪丽热巴挑战演绎双人物",
+        "onboard_time": 1690599757,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220868,
+        "num": 220868,
+        "word": "狼队",
+        "onboard_time": 1690600896,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206254,
+        "num": 206254,
+        "word": "舞台2023",
+        "onboard_time": 1690603776,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204956,
+        "num": 204956,
+        "word": "广西一在编人员档案丢失无法办退休",
+        "onboard_time": 1690591951,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204700,
+        "num": 204700,
+        "word": "曾黎吃着碗里看着锅里的",
+        "onboard_time": 1690597354,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200491,
+        "num": 200491,
+        "word": "科二考试考一个小时是什么体验",
+        "onboard_time": 1690595792,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199093,
+        "num": 199093,
+        "word": "室温超导",
+        "onboard_time": 1690586543,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 193108,
+        "num": 199090,
+        "word": "成都大运会首枚金牌",
+        "onboard_time": 1690595132,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 180000,
+        "num": 199075,
+        "word": "封神美男",
+        "onboard_time": 1690598617,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175010,
+        "num": 199062,
+        "word": "台风一路北上10余省份将有暴雨",
+        "onboard_time": 1690600298,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152289,
+        "num": 199043,
+        "word": "下饭神番",
+        "onboard_time": 1690597354,
+        "rank": 48,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 98198,
+        "num": 199042,
+        "word": "和男友吵架后24岁姑娘胸痛了3天",
+        "onboard_time": 1690559914,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布大运会正式开幕#"
+    }
+  }
+}

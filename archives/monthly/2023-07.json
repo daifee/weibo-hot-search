@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1690601637090,
+  "endTime": 1690604360535,
   "band_list": [
     {
       "raw_hot": 50503069,
@@ -1787,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2525004,
+      "num": 2525004,
+      "word": "孙俪为甄嬛发声",
+      "onboard_time": 1690603178,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2524361,
       "num": 2524361,
       "word": "川航8985紧急备降江苏",
@@ -2929,6 +2937,14 @@
       "onboard_time": 1688572252,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2048269,
+      "num": 2048269,
+      "word": "拜登承认其儿子私生女是孙女",
+      "onboard_time": 1690597954,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2046407,
@@ -10219,6 +10235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1020761,
+      "num": 1020761,
+      "word": "操心封神票房",
+      "onboard_time": 1690600298,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1019523,
       "num": 1019523,
       "word": "马立奥 互联网儿子",
@@ -12473,14 +12497,6 @@
       "onboard_time": 1689436537,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 891646,
-      "num": 891646,
-      "word": "操心封神票房",
-      "onboard_time": 1690600298,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 891358,
@@ -17227,6 +17243,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 712292,
+      "num": 365427,
+      "word": "28岁真是个分水岭",
+      "onboard_time": 1690601133,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 711668,
       "num": 711668,
       "word": "偷拿同学20元男孩被妈妈带去派出所自首",
@@ -17713,6 +17737,14 @@
       "onboard_time": 1688729672,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 698518,
+      "num": 698518,
+      "word": "北京暴雨",
+      "onboard_time": 1690601018,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698334,
@@ -21873,6 +21905,14 @@
       "onboard_time": 1688483921,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 596556,
+      "num": 596556,
+      "word": "Uzi直播",
+      "onboard_time": 1690602334,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 596378,
@@ -26617,6 +26657,14 @@
       "onboard_time": 1688227110,
       "rank": 19,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 496866,
+      "num": 364659,
+      "word": "儿子坐离世父亲车哭得撕心裂肺",
+      "onboard_time": 1690600298,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496783,
@@ -33475,6 +33523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 398659,
+      "num": 361744,
+      "word": "夭玹早已有床戏",
+      "onboard_time": 1690602215,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398645,
       "num": 370635,
       "word": "厦门发布台风红色预警",
@@ -34121,14 +34177,6 @@
       "onboard_time": 1688910754,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 389780,
-      "num": 279233,
-      "word": "儿子坐离世父亲车哭得撕心裂肺",
-      "onboard_time": 1690600298,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389770,
@@ -36121,6 +36169,14 @@
       "onboard_time": 1690493833,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366961,
+      "num": 366961,
+      "word": "刘宇宁蒋俊豪",
+      "onboard_time": 1690601556,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 366950,
@@ -38827,6 +38883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 337036,
+      "num": 337036,
+      "word": "夭玹终究是亲上了",
+      "onboard_time": 1690601916,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337006,
       "num": 337006,
       "word": "高远二姨怎么了",
@@ -39401,6 +39465,14 @@
       "onboard_time": 1690155327,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331354,
+      "num": 331354,
+      "word": "封神妲己为两分钟舞蹈练了两年",
+      "onboard_time": 1690602577,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 331286,
@@ -40915,14 +40987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 314948,
-      "num": 314948,
-      "word": "28岁真是个分水岭",
-      "onboard_time": 1690601133,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 314929,
       "num": 314929,
       "word": "江疏影机场素颜",
@@ -40961,6 +41025,14 @@
       "onboard_time": 1690165891,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314484,
+      "num": 291266,
+      "word": "热带低压杜苏芮停止编号",
+      "onboard_time": 1690603297,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314327,
@@ -43827,6 +43899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291569,
+      "num": 291569,
+      "word": "迪丽热巴三万水狮全国异地登陆",
+      "onboard_time": 1690601375,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291556,
       "num": 291556,
       "word": "小鸟的审美能有多高级",
@@ -44849,6 +44929,14 @@
       "onboard_time": 1690373259,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283439,
+      "num": 283439,
+      "word": "以为姬发真的要露屁股",
+      "onboard_time": 1690603956,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 283404,
@@ -46296,6 +46384,14 @@
       "word": "十个勤天团综策划会",
       "onboard_time": 1690109072,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 271762,
+      "num": 271762,
+      "word": "Angelababy半辫麻花辫",
+      "onboard_time": 1690601675,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -49137,14 +49233,6 @@
       "onboard_time": 1690503397,
       "rank": 43,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 250171,
-      "num": 250171,
-      "word": "北京暴雨",
-      "onboard_time": 1690601018,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250153,
@@ -53283,6 +53371,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 220868,
+      "num": 220868,
+      "word": "狼队",
+      "onboard_time": 1690600896,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220848,
       "num": 220848,
       "word": "上海地铁拍视频男子应被处罚吗",
@@ -55715,6 +55811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206254,
+      "num": 270939,
+      "word": "舞台2023",
+      "onboard_time": 1689422132,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206246,
       "num": 206246,
       "word": "宋轶学八哥说话真假难辨",
@@ -56025,14 +56129,6 @@
       "onboard_time": 1689987869,
       "rank": 40,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 204682,
-      "num": 204682,
-      "word": "迪丽热巴三万水狮全国异地登陆",
-      "onboard_time": 1690601375,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 204665,
@@ -56513,14 +56609,6 @@
       "onboard_time": 1688376880,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201783,
-      "num": 201783,
-      "word": "狼队",
-      "onboard_time": 1690600896,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 201746,
@@ -60363,14 +60451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180393,
-      "num": 270939,
-      "word": "舞台2023",
-      "onboard_time": 1689422132,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180392,
       "num": 180392,
       "word": "女子演17年诸葛亮一开口震全场",
@@ -61689,14 +61769,6 @@
       "onboard_time": 1689915577,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170134,
-      "num": 201666,
-      "word": "刘宇宁蒋俊豪",
-      "onboard_time": 1690601556,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 170119,
@@ -67003,6 +67075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69283,
+      "num": 1105622,
+      "word": "微观大运会",
+      "onboard_time": 1690600115,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69161,
       "num": 1903763,
       "word": "生态保护硬核成绩单",
@@ -67760,14 +67840,6 @@
       "word": "19度的夏天",
       "onboard_time": 1689484831,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39687,
-      "num": 905090,
-      "word": "微观大运会",
-      "onboard_time": 1690600115,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -68807,6 +68879,9 @@
     },
     {
       "word": "#大运会是青春的盛会团结的盛会友谊的盛会#"
+    },
+    {
+      "word": "#习近平宣布大运会正式开幕#"
     }
   ]
 }

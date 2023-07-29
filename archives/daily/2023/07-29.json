@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690601637090,
+  "endTime": 1690604360535,
   "band_list": [
     {
       "raw_hot": 2704334,
@@ -11,11 +11,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2525004,
+      "num": 2525004,
+      "word": "孙俪为甄嬛发声",
+      "onboard_time": 1690603178,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2102825,
       "num": 2102825,
       "word": "杜苏芮将从江西移入安徽",
       "onboard_time": 1690589129,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2048269,
+      "num": 2048269,
+      "word": "拜登承认其儿子私生女是孙女",
+      "onboard_time": 1690597954,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -83,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1020761,
+      "num": 1020761,
+      "word": "操心封神票房",
+      "onboard_time": 1690600298,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1003443,
       "num": 545914,
       "word": "吉林白山一处公园内一男一女上吊身亡",
@@ -147,14 +171,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 891646,
-      "num": 891646,
-      "word": "操心封神票房",
-      "onboard_time": 1690600298,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 880357,
       "num": 464781,
       "word": "很火还很努力的明星",
@@ -211,12 +227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 712292,
+      "num": 365427,
+      "word": "28岁真是个分水岭",
+      "onboard_time": 1690601133,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 700172,
       "num": 424999,
       "word": "实习生租房一个月用水300吨",
       "onboard_time": 1690594353,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 698518,
+      "num": 698518,
+      "word": "北京暴雨",
+      "onboard_time": 1690601018,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695550,
@@ -281,6 +313,14 @@
       "onboard_time": 1690597832,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 596556,
+      "num": 596556,
+      "word": "Uzi直播",
+      "onboard_time": 1690602334,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 573155,
@@ -395,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 496866,
+      "num": 364659,
+      "word": "儿子坐离世父亲车哭得撕心裂肺",
+      "onboard_time": 1690600298,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484653,
       "num": 432761,
       "word": "福州暴雨",
@@ -459,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398659,
+      "num": 361744,
+      "word": "夭玹早已有床戏",
+      "onboard_time": 1690602215,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398440,
       "num": 333573,
       "word": "黄灿灿近照状态",
@@ -481,14 +537,6 @@
       "onboard_time": 1690557275,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 389780,
-      "num": 279233,
-      "word": "儿子坐离世父亲车哭得撕心裂肺",
-      "onboard_time": 1690600298,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389694,
@@ -531,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366961,
+      "num": 366961,
+      "word": "刘宇宁蒋俊豪",
+      "onboard_time": 1690601556,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364643,
       "num": 364643,
       "word": "凤婿一女九男",
@@ -555,12 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337036,
+      "num": 337036,
+      "word": "夭玹终究是亲上了",
+      "onboard_time": 1690601916,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332444,
       "num": 208578,
       "word": "衣服越穿越宽松怎么办",
       "onboard_time": 1690583358,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 331354,
+      "num": 331354,
+      "word": "封神妲己为两分钟舞蹈练了两年",
+      "onboard_time": 1690602577,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 331286,
@@ -603,12 +675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 314948,
-      "num": 314948,
-      "word": "28岁真是个分水岭",
-      "onboard_time": 1690601133,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 314484,
+      "num": 291266,
+      "word": "热带低压杜苏芮停止编号",
+      "onboard_time": 1690603297,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309612,
@@ -667,11 +739,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291569,
+      "num": 291569,
+      "word": "迪丽热巴三万水狮全国异地登陆",
+      "onboard_time": 1690601375,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289082,
       "num": 289082,
       "word": "涂山璟怎么不笑了",
       "onboard_time": 1690591411,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 283439,
+      "num": 283439,
+      "word": "以为姬发真的要露屁股",
+      "onboard_time": 1690603956,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -713,6 +801,14 @@
       "onboard_time": 1690561411,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271762,
+      "num": 271762,
+      "word": "Angelababy半辫麻花辫",
+      "onboard_time": 1690601675,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 268811,
@@ -785,14 +881,6 @@
       "onboard_time": 1690587685,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250171,
-      "num": 250171,
-      "word": "北京暴雨",
-      "onboard_time": 1690601018,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248272,
@@ -875,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220868,
+      "num": 220868,
+      "word": "狼队",
+      "onboard_time": 1690600896,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217778,
       "num": 217778,
       "word": "起猛了最期待的cp成真了",
@@ -915,20 +1011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204682,
-      "num": 204682,
-      "word": "迪丽热巴三万水狮全国异地登陆",
-      "onboard_time": 1690601375,
+      "raw_hot": 206254,
+      "num": 206254,
+      "word": "舞台2023",
+      "onboard_time": 1690603776,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 201783,
-      "num": 201783,
-      "word": "狼队",
-      "onboard_time": 1690600896,
-      "rank": 42,
-      "category": "游戏"
+      "category": "综艺"
     },
     {
       "raw_hot": 201614,
@@ -1057,14 +1145,6 @@
       "onboard_time": 1690562309,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170134,
-      "num": 201666,
-      "word": "刘宇宁蒋俊豪",
-      "onboard_time": 1690601556,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 164212,
@@ -1267,8 +1347,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 39687,
-      "num": 905090,
+      "raw_hot": 69283,
+      "num": 1105622,
       "word": "微观大运会",
       "onboard_time": 1690600115,
       "rank": 2,
@@ -1289,6 +1369,9 @@
     },
     {
       "word": "#大运会是青春的盛会团结的盛会友谊的盛会#"
+    },
+    {
+      "word": "#习近平宣布大运会正式开幕#"
     }
   ]
 }
