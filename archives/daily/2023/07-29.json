@@ -1,6 +1,6 @@
 {
   "startTime": 1690561313166,
-  "endTime": 1690612432848,
+  "endTime": 1690614853355,
   "band_list": [
     {
       "raw_hot": 2818359,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2626973,
+      "num": 2626973,
+      "word": "蜜雪冰城阴阳怪气瑞幸",
+      "onboard_time": 1690609054,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2416919,
       "num": 2416919,
       "word": "突然意识到点外卖有多贵",
       "onboard_time": 1690606898,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2322808,
-      "num": 2322808,
-      "word": "蜜雪冰城阴阳怪气瑞幸",
-      "onboard_time": 1690609054,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 2102825,
@@ -105,6 +105,14 @@
       "onboard_time": 1690587084,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1231209,
+      "num": 1231209,
+      "word": "我选择丁克后妈妈的变化",
+      "onboard_time": 1690612655,
+      "rank": 3,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1196922,
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 920665,
+      "num": 920665,
+      "word": "人民文娱评电视剧莲花楼",
+      "onboard_time": 1690610555,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 893344,
       "num": 893344,
       "word": "男子无视部队劝阻破坏军婚获刑一年",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 881653,
-      "num": 613833,
+      "num": 661784,
       "word": "内娱不可模仿的成功",
       "onboard_time": 1690610796,
       "rank": 10,
@@ -217,14 +233,6 @@
       "onboard_time": 1690587627,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 866762,
-      "num": 866762,
-      "word": "人民文娱评电视剧莲花楼",
-      "onboard_time": 1690610555,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 849085,
@@ -249,6 +257,22 @@
       "onboard_time": 1690605335,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 835922,
+      "num": 718654,
+      "word": "刘宇宁连续五年悼念去世粉丝",
+      "onboard_time": 1690610915,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 826528,
+      "num": 717528,
+      "word": "打于正耳光的演员沈泰也出演了长相思",
+      "onboard_time": 1690613432,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 782759,
@@ -289,6 +313,22 @@
       "onboard_time": 1690601133,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 731596,
+      "num": 731596,
+      "word": "山泥若",
+      "onboard_time": 1690613195,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 728383,
+      "num": 728383,
+      "word": "河北发生天然气爆燃事故致2死2伤",
+      "onboard_time": 1690612233,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 726646,
@@ -419,20 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 567422,
-      "num": 316545,
-      "word": "刘宇宁连续五年悼念去世粉丝",
-      "onboard_time": 1690610915,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 556017,
       "num": 556017,
       "word": "黄磊张艺兴聊婚姻",
       "onboard_time": 1690557875,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 553524,
+      "num": 553524,
+      "word": "杨紫张晚意情头",
+      "onboard_time": 1690612114,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 550876,
@@ -449,6 +489,14 @@
       "onboard_time": 1690540712,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 541451,
+      "num": 541451,
+      "word": "山泥若出狱",
+      "onboard_time": 1690613854,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 528158,
@@ -579,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445908,
+      "num": 387109,
+      "word": "你们通知汪苏泷本人了吗",
+      "onboard_time": 1690611875,
+      "rank": 25,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 440309,
       "num": 376201,
       "word": "为什么现在的学生不扎高马尾了",
@@ -699,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 385823,
+      "num": 385823,
+      "word": "年度最佳猫咪",
+      "onboard_time": 1690609832,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 384584,
       "num": 296910,
       "word": "草茉莉",
@@ -739,12 +803,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354768,
-      "num": 316385,
-      "word": "你们通知汪苏泷本人了吗",
-      "onboard_time": 1690611875,
-      "rank": 25,
-      "category": "音乐,幽默"
+      "raw_hot": 357118,
+      "num": 357118,
+      "word": "老公要在新家装120个插座",
+      "onboard_time": 1690613735,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 352720,
@@ -761,6 +825,22 @@
       "onboard_time": 1690588288,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346212,
+      "num": 324243,
+      "word": "鹿晗上海站耳返海报都是绿色",
+      "onboard_time": 1690614155,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 344557,
+      "num": 387174,
+      "word": "台风杜苏芮北上",
+      "onboard_time": 1690608391,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341029,
@@ -803,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327691,
-      "num": 327691,
-      "word": "年度最佳猫咪",
-      "onboard_time": 1690609832,
-      "rank": 41,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 324724,
       "num": 320856,
       "word": "张艺兴 我永远是蘑菇屋的一份子",
@@ -835,20 +907,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316568,
-      "num": 316568,
-      "word": "台风杜苏芮北上",
-      "onboard_time": 1690608391,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315953,
       "num": 315953,
       "word": "科二考试考一个小时是什么体验",
       "onboard_time": 1690595792,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 315529,
+      "num": 315529,
+      "word": "杨幂八字没一撇演唱会海报",
+      "onboard_time": 1690614575,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 312793,
@@ -881,6 +953,14 @@
       "onboard_time": 1690557819,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304341,
+      "num": 304341,
+      "word": "胡军包场支持王一博王宝强于适新电影",
+      "onboard_time": 1690611995,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 303539,
@@ -995,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274284,
+      "num": 274284,
+      "word": "李一桐多巴胺芭比妆",
+      "onboard_time": 1690613854,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271762,
       "num": 271762,
       "word": "Angelababy半辫麻花辫",
@@ -1041,14 +1129,6 @@
       "onboard_time": 1690597354,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 265062,
-      "num": 265062,
-      "word": "杨紫张晚意情头",
-      "onboard_time": 1690612114,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 260382,
@@ -1139,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242672,
-      "num": 242672,
-      "word": "胡军包场支持王一博王宝强于适新电影",
-      "onboard_time": 1690611995,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 241531,
       "num": 241531,
       "word": "长相思女性思想",
@@ -1187,6 +1259,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 224097,
+      "num": 224097,
+      "word": "迪丽热巴演我看任安乐",
+      "onboard_time": 1690613195,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221595,
       "num": 221595,
       "word": "狼队",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1690545573,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212743,
+      "num": 260317,
+      "word": "狗狗因为腿短被排挤了",
+      "onboard_time": 1690612954,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 210101,
@@ -1297,14 +1385,6 @@
       "onboard_time": 1690553676,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193921,
-      "num": 262162,
-      "word": "河北发生天然气爆燃事故致2死2伤",
-      "onboard_time": 1690612233,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193670,
@@ -1393,6 +1473,14 @@
       "onboard_time": 1690562309,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167252,
+      "num": 195458,
+      "word": "仿佛看到了i人的晚年",
+      "onboard_time": 1690614395,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 164212,
@@ -1633,6 +1721,14 @@
       "onboard_time": 1690530814,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12415,
+      "num": 247871,
+      "word": "Uzi神抢手直播间卖手",
+      "onboard_time": 1690614033,
+      "rank": 39,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
